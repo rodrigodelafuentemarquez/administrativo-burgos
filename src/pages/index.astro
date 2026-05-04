@@ -7,9 +7,9 @@ const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data
 ---
 
 <Layout title="Oposición Administrativo - Diputación de Burgos">
-  <h1 style="margin:.2rem 0 .6rem">Temario</h1>
-  <p class="muted">Selecciona un tema para estudiar.</p>
-  <section class="grid">
+  <h1 class="mb-2">Temario</h1>
+  <p class="text-body-secondary">Selecciona un tema para estudiar.</p>
+  <section class="list-group">
     {temas.map((t) => <TemaCard tema={t.data.tema} titulo={t.data.titulo} slug={t.id.replace(/\.md$/, '')} />)}
   </section>
 </Layout>

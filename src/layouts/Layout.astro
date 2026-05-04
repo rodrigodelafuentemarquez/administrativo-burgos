@@ -33,106 +33,84 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       })();
     </script>
     <style>
-      :root { --app-bg: #f4f4f1; --app-fg: #1f2328; }
-      :root[data-bs-theme="dark"] { --app-bg: #111111; --app-fg: #f1f3f5; }
-      * { box-sizing: border-box; }
+      :root { --app-bg: #f5f5f2; }
+      :root[data-bs-theme="dark"] { --app-bg: #111111; }
       body {
-        margin: 0;
         font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
         background: var(--app-bg);
-        color: var(--app-fg);
       }
-      main { max-width: 980px; margin: 0 auto; padding: 1rem; }
-      .topbar {
-        position: sticky;
-        top: 0;
-        z-index: 40;
-      }
-      .brand { font-weight: 700; letter-spacing: .2px; text-decoration: none; color: inherit; }
-      .actions { display:flex; gap:.5rem; align-items:center; }
-      .card { border-radius: .8rem; }
+      main { max-width: 1000px; margin: 0 auto; padding: 1rem; }
+      .card { border-radius: .75rem; padding: 1rem; }
+      .muted { color: var(--bs-secondary-color); }
       .grid { display:grid; gap:.75rem; }
       @media (min-width:700px){ .grid { grid-template-columns: repeat(2, minmax(0,1fr)); } }
-      .muted { opacity: .85; }
-      .panel {
-        position: fixed;
-        top:0;
-        bottom:0;
-        width:min(86vw, 330px);
-        background: var(--bs-body-bg);
-        border: 1px solid var(--bs-border-color);
-        padding:1rem;
-        overflow:auto;
-        z-index:60;
-        box-shadow: 0 0.75rem 2rem rgba(0,0,0,.2);
-        transform: translateX(-105%);
-        transition: transform .2s ease;
-      }
-      .panel.right { right:0; left:auto; transform: translateX(105%); }
-      .panel.open { transform: translateX(0); }
-      .panel h2 { margin:.3rem 0 .8rem; font-size:1rem; }
-      .panel a { display:block; padding:.45rem 0; border-bottom:1px dashed var(--bs-border-color); text-decoration: none; }
-      .backdrop {
-        position:fixed;
-        inset:0;
-        background:rgba(2, 8, 23, .45);
-        z-index:55;
-        display:none;
-      }
-      .backdrop.show { display:block; }
+      .navbar-brand { font-weight: 700; }
       .tema-content table {
         width: 100%;
         border-collapse: collapse;
-        margin: 1rem 0;
+        margin: 1rem 0 1.25rem;
         display: block;
         overflow-x: auto;
+        border-radius: .5rem;
       }
       .tema-content th,
       .tema-content td {
         border: 1px solid var(--bs-border-color);
-        padding: .55rem .65rem;
+        padding: .6rem .7rem;
         vertical-align: top;
       }
       .tema-content th {
-        background: color-mix(in srgb, var(--bs-body-color) 6%, transparent);
+        background: color-mix(in srgb, var(--bs-body-color) 8%, transparent);
       }
       .tema-content h2,
       .tema-content h3 { margin-top: 1.35rem; }
+      .tema-content p, .tema-content li { line-height: 1.6; }
     </style>
   </head>
   <body>
-    <header class="topbar border-bottom bg-body">
-      <div class="actions">
-        <button id="open-main-menu" class="btn btn-outline-secondary btn-sm" aria-label="Abrir menú principal">Menu</button>
-        <a class="brand" href={base}>Oposición Burgos</a>
-      </div>
-      <div class="actions">
-        <select id="theme-picker" class="form-select form-select-sm" aria-label="Elegir tema visual">
-          <option value="system">Sistema</option>
-          <option value="light">Claro</option>
-          <option value="dark">Oscuro</option>
-        </select>
-        <button id="open-topics-menu" class="btn btn-outline-secondary btn-sm" aria-label="Abrir menú de temas">Temas</button>
+    <header class="sticky-top border-bottom bg-body">
+      <div class="container-fluid px-3 py-2 d-flex justify-content-between align-items-center gap-2">
+        <div class="d-flex align-items-center gap-2">
+          <button class="btn btn-outline-secondary btn-sm" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal">Menu</button>
+          <a class="navbar-brand m-0" href={base}>Oposición Burgos</a>
+        </div>
+        <div class="d-flex align-items-center gap-2">
+          <select id="theme-picker" class="form-select form-select-sm" aria-label="Elegir tema visual">
+            <option value="system">Sistema</option>
+            <option value="light">Claro</option>
+            <option value="dark">Oscuro</option>
+          </select>
+          <button class="btn btn-outline-secondary btn-sm" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas">Temas</button>
+        </div>
       </div>
     </header>
 
-    <aside class="panel" id="main-panel">
-      <h2>Estudio</h2>
-      <a href={base}>Inicio</a>
-      <a href={`${base}test`}>Hacer test</a>
-      <a href={`${base}fallos`}>Repetir fallos</a>
-      <a href={`${base}progreso`}>Progreso</a>
-    </aside>
+    <div class="offcanvas offcanvas-start" tabindex="-1" id="menuPrincipal" aria-labelledby="menuPrincipalLabel">
+      <div class="offcanvas-header">
+        <h5 id="menuPrincipalLabel" class="offcanvas-title">Estudio</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button>
+      </div>
+      <div class="offcanvas-body d-grid gap-2">
+        <a class="btn btn-outline-secondary text-start" href={base}>Inicio</a>
+        <a class="btn btn-outline-secondary text-start" href={`${base}test`}>Hacer test</a>
+        <a class="btn btn-outline-secondary text-start" href={`${base}fallos`}>Repetir fallos</a>
+        <a class="btn btn-outline-secondary text-start" href={`${base}progreso`}>Progreso</a>
+      </div>
+    </div>
 
-    <aside class="panel right" id="topics-panel">
-      <h2>Temas</h2>
-      {temas.map((t) => (
-        <a href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
-          Tema {t.data.tema}
-        </a>
-      ))}
-    </aside>
-    <div class="backdrop" id="menu-backdrop"></div>
+    <div class="offcanvas offcanvas-end" tabindex="-1" id="menuTemas" aria-labelledby="menuTemasLabel">
+      <div class="offcanvas-header">
+        <h5 id="menuTemasLabel" class="offcanvas-title">Temas</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button>
+      </div>
+      <div class="offcanvas-body d-grid gap-2">
+        {temas.map((t) => (
+          <a class="btn btn-outline-secondary text-start" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
+            Tema {t.data.tema}
+          </a>
+        ))}
+      </div>
+    </div>
 
     <main>
       <slot />
@@ -158,25 +136,11 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         applyTheme(picker.value);
       });
 
-      const mainPanel = document.getElementById('main-panel');
-      const topicsPanel = document.getElementById('topics-panel');
-      const backdrop = document.getElementById('menu-backdrop');
-      const closeAll = () => {
-        mainPanel?.classList.remove('open');
-        topicsPanel?.classList.remove('open');
-        backdrop?.classList.remove('show');
-      };
-      document.getElementById('open-main-menu')?.addEventListener('click', () => {
-        mainPanel?.classList.add('open');
-        topicsPanel?.classList.remove('open');
-        backdrop?.classList.add('show');
-      });
-      document.getElementById('open-topics-menu')?.addEventListener('click', () => {
-        topicsPanel?.classList.add('open');
-        mainPanel?.classList.remove('open');
-        backdrop?.classList.add('show');
-      });
-      backdrop?.addEventListener('click', closeAll);
     </script>
+    <script
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      crossorigin="anonymous"
+    ></script>
   </body>
 </html>
