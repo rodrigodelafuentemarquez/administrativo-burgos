@@ -42,63 +42,50 @@ Los principios fundamentales del Estado son:
 
 La Constitución se organiza en:
 
-PREÁMBULO
-
-│
-
-├── TÍTULO PRELIMINAR (arts. 1-9) — Principios básicos del Estado
-
-│
-
-├── TÍTULO I — De los derechos y deberes fundamentales (arts. 10-55)
-
-│ ├── Cap. I — Españoles y extranjeros (arts. 11-13)
-
-│ ├── Cap. II — Derechos y libertades (arts. 14-38)
-
-│ │ ├── Sección 1ª — Derechos fundamentales y libertades públicas (arts. 15-29)
-
-│ │ └── Sección 2ª — Derechos y deberes de los ciudadanos (arts. 30-38)
-
-│ ├── Cap. III — Principios rectores de la política social y económica (arts. 39-52)
-
-│ ├── Cap. IV — Garantías de las libertades y derechos (arts. 53-54)
-
-│ └── Cap. V — Suspensión de los derechos y libertades (art. 55)
-
-│
-
-├── TÍTULO II — De la Corona (arts. 56-65)
-
-├── TÍTULO III — De las Cortes Generales (arts. 66-96)
-
-├── TÍTULO IV — Del Gobierno y de la Administración (arts. 97-107)
-
-├── TÍTULO V — De las relaciones entre el Gobierno y las Cortes Generales (arts. 108-116)
-
-├── TÍTULO VI — Del Poder Judicial (arts. 117-127)
-
-├── TÍTULO VII — Economía y Hacienda (arts. 128-136)
-
-├── TÍTULO VIII — De la organización territorial del Estado (arts. 137-158)
-
-├── TÍTULO IX — Del Tribunal Constitucional (arts. 159-165)
-
-├── TÍTULO X — De la reforma constitucional (arts. 166-169)
-
-│
-
-├── 4 Disposiciones adicionales
-
-├── 9 Disposiciones transitorias
-
-├── 1 Disposición derogatoria
-
-└── 1 Disposición final
+<div class="study-structure">
+  <div class="structure-item">
+    <span class="structure-badge">Preámbulo</span>
+    <strong>Declaración inicial</strong>
+  </div>
+  <div class="structure-item">
+    <span class="structure-badge">Título Preliminar</span>
+    <strong>Principios básicos del Estado</strong>
+    <small>arts. 1-9</small>
+  </div>
+  <div class="structure-item structure-item-featured">
+    <span class="structure-badge">Título I</span>
+    <strong>De los derechos y deberes fundamentales</strong>
+    <small>arts. 10-55</small>
+    <ul>
+      <li>Cap. I — Españoles y extranjeros (arts. 11-13)</li>
+      <li>Cap. II — Derechos y libertades (arts. 14-38)</li>
+      <li>Sección 1ª — Derechos fundamentales y libertades públicas (arts. 15-29)</li>
+      <li>Sección 2ª — Derechos y deberes de los ciudadanos (arts. 30-38)</li>
+      <li>Cap. III — Principios rectores de la política social y económica (arts. 39-52)</li>
+      <li>Cap. IV — Garantías de las libertades y derechos (arts. 53-54)</li>
+      <li>Cap. V — Suspensión de los derechos y libertades (art. 55)</li>
+    </ul>
+  </div>
+  <div class="structure-grid">
+    <div><span>Título II</span><strong>Corona</strong><small>arts. 56-65</small></div>
+    <div><span>Título III</span><strong>Cortes Generales</strong><small>arts. 66-96</small></div>
+    <div><span>Título IV</span><strong>Gobierno y Administración</strong><small>arts. 97-107</small></div>
+    <div><span>Título V</span><strong>Relaciones Gobierno-Cortes</strong><small>arts. 108-116</small></div>
+    <div><span>Título VI</span><strong>Poder Judicial</strong><small>arts. 117-127</small></div>
+    <div><span>Título VII</span><strong>Economía y Hacienda</strong><small>arts. 128-136</small></div>
+    <div><span>Título VIII</span><strong>Organización territorial</strong><small>arts. 137-158</small></div>
+    <div><span>Título IX</span><strong>Tribunal Constitucional</strong><small>arts. 159-165</small></div>
+    <div><span>Título X</span><strong>Reforma constitucional</strong><small>arts. 166-169</small></div>
+  </div>
+  <div class="structure-item">
+    <span class="structure-badge">Disposiciones</span>
+    <strong>4 adicionales · 9 transitorias · 1 derogatoria · 1 final</strong>
+  </div>
+</div>
 
 💡 Truco de memoria: El Título Preliminar no tiene número. Los títulos del I al X son los numerados. Recuerda: I = Derechos; II = Corona; III = Cortes; IV = Gobierno; V = Relaciones Gobierno-Cortes; VI = Poder Judicial; VII = Economía; VIII = Organización territorial; IX = TC; X = Reforma.
 
-2. DERECHOS Y DEBERES FUNDAMENTALES (TÍTULO I, arts. 10-55)
+## 2. DERECHOS Y DEBERES FUNDAMENTALES (TÍTULO I, arts. 10-55)
 
 ### 2.1 Artículo 10 CE — Fundamento del orden político
 
@@ -163,45 +150,49 @@ No son derechos subjetivos directamente exigibles ante los tribunales, sino mand
 
 Incluyen, entre otros: protección de la familia y la infancia (39), derecho al trabajo (40), salud pública (43), acceso a la cultura (44), medio ambiente (45), patrimonio histórico (46), vivienda digna (47), juventud (48), discapacidad (49), personas mayores (50), defensa de los consumidores (51), organizaciones profesionales (52).
 
-3. GARANTÍAS DE LOS DERECHOS (CAPÍTULO IV, arts. 53-54)
+## 3. GARANTÍAS DE LOS DERECHOS (CAPÍTULO IV, arts. 53-54)
 
 ### 3.1 Tres niveles de protección (art. 53 CE)
 
 La CE establece un sistema escalonado de garantías según la importancia del derecho:
 
-NIVEL 3 — MÁXIMA PROTECCIÓN
-
-Arts. 14 a 29 (Sección 1ª + art. 14)
-
-├── Vinculan a todos los poderes públicos
-
-├── Solo se regulan por Ley Orgánica
-
-├── Recurso de amparo ante el Tribunal Constitucional
-
-└── Procedimiento preferente y sumario ante los tribunales ordinarios
-
-NIVEL 2 — PROTECCIÓN MEDIA
-
-Arts. 14 a 38 (Caps. I y II completos)
-
-├── Vinculan a todos los poderes públicos
-
-└── Solo regulables por ley (reserva de ley)
-
-└── La ley debe respetar su contenido esencial
-
-NIVEL 1 — PROTECCIÓN BÁSICA
-
-Arts. 39 a 52 (Cap. III — Principios rectores)
-
-└── Solo alegables ante la jurisdicción ordinaria según las leyes que los desarrollen
+<div class="protection-levels">
+  <section>
+    <span>Nivel 3</span>
+    <h4>Máxima protección</h4>
+    <p>Arts. 14 a 29 (Sección 1ª + art. 14)</p>
+    <ul>
+      <li>Vinculan a todos los poderes públicos.</li>
+      <li>Solo se regulan por Ley Orgánica.</li>
+      <li>Recurso de amparo ante el Tribunal Constitucional.</li>
+      <li>Procedimiento preferente y sumario ante los tribunales ordinarios.</li>
+    </ul>
+  </section>
+  <section>
+    <span>Nivel 2</span>
+    <h4>Protección media</h4>
+    <p>Arts. 14 a 38 (Caps. I y II completos)</p>
+    <ul>
+      <li>Vinculan a todos los poderes públicos.</li>
+      <li>Solo regulables por ley (reserva de ley).</li>
+      <li>La ley debe respetar su contenido esencial.</li>
+    </ul>
+  </section>
+  <section>
+    <span>Nivel 1</span>
+    <h4>Protección básica</h4>
+    <p>Arts. 39 a 52 (Cap. III — Principios rectores)</p>
+    <ul>
+      <li>Solo alegables ante la jurisdicción ordinaria según las leyes que los desarrollen.</li>
+    </ul>
+  </section>
+</div>
 
 ### 3.2 El Defensor del Pueblo (art. 54 CE)
 
 Es el alto comisionado de las Cortes Generales designado para la defensa de los derechos del Título I. Supervisa la actividad de la Administración. Se desarrolla en el Tema 2.
 
-4. SUSPENSIÓN DE LOS DERECHOS Y LIBERTADES (CAPÍTULO V, art. 55 CE)
+## 4. SUSPENSIÓN DE LOS DERECHOS Y LIBERTADES (CAPÍTULO V, art. 55 CE)
 
 ### 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio
 
@@ -228,50 +219,37 @@ Una Ley Orgánica puede determinar la forma y los casos en que, de forma individ
 - Art. 18.2 y 18.3 → Inviolabilidad del domicilio y secreto de las comunicaciones
 ⚠️ La utilización injustificada o abusiva de esta posibilidad producirá responsabilidad penal como violación de los derechos y libertades reconocidos por las leyes.
 
-RESUMEN ESQUEMÁTICO PARA REPASAR
+## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-CE 1978
-
-│
-
-├── CARACTERÍSTICAS
-
-│ ├── Escrita, rígida, extensa, consensuada
-
-│ └── Estado social y democrático de Derecho (art. 1.1)
-
-│ └── Valores: libertad, justicia, igualdad, pluralismo político
-
-│
-
-├── ESTRUCTURA: Preámbulo + 10 Títulos + Disposiciones
-
-│
-
-├── TÍTULO I — DERECHOS (arts. 10-55)
-
-│ ├── Art. 10 → Dignidad de la persona = fundamento
-
-│ ├── Cap. I → Españoles y extranjeros (mayoría: 18 años)
-
-│ ├── Cap. II
-
-│ │ ├── Art. 14 → Igualdad
-
-│ │ ├── Sección 1ª (15-29) → Derechos fundamentales [MÁXIMA PROTECCIÓN]
-
-│ │ └── Sección 2ª (30-38) → Derechos y deberes ciudadanos
-
-│ ├── Cap. III (39-52) → Principios rectores [mínima protección]
-
-│ ├── Cap. IV (53-54) → Garantías (tres niveles + Defensor del Pueblo)
-
-│ └── Cap. V (55) → Suspensión
-
-│
-
-└── SUSPENSIÓN
-
-├── General → Estado de excepción/sitio (art. 55.1)
-
-└── Individual → Terrorismo, con control judicial y parlamentario (art. 55.2)
+<div class="review-grid">
+  <article>
+    <h4>Características</h4>
+    <ul>
+      <li>Escrita, rígida, extensa y consensuada.</li>
+      <li>Estado social y democrático de Derecho (art. 1.1).</li>
+      <li>Valores: libertad, justicia, igualdad y pluralismo político.</li>
+    </ul>
+  </article>
+  <article>
+    <h4>Estructura</h4>
+    <p>Preámbulo + 10 Títulos + Disposiciones.</p>
+  </article>
+  <article>
+    <h4>Título I — Derechos</h4>
+    <ul>
+      <li>Art. 10 → Dignidad de la persona = fundamento.</li>
+      <li>Cap. I → Españoles y extranjeros (mayoría: 18 años).</li>
+      <li>Cap. II → Art. 14, Sección 1ª y Sección 2ª.</li>
+      <li>Cap. III → Principios rectores.</li>
+      <li>Cap. IV → Garantías.</li>
+      <li>Cap. V → Suspensión.</li>
+    </ul>
+  </article>
+  <article>
+    <h4>Suspensión</h4>
+    <ul>
+      <li>General → Estado de excepción/sitio (art. 55.1).</li>
+      <li>Individual → Terrorismo, con control judicial y parlamentario (art. 55.2).</li>
+    </ul>
+  </article>
+</div>
