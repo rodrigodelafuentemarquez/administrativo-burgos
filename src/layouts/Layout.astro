@@ -6,6 +6,7 @@ interface Props {
 const { title } = Astro.props;
 import AccessGate from '../components/AccessGate.astro';
 const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data.tema);
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
 
 <html lang="es">
@@ -14,8 +15,8 @@ const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
     <meta name="theme-color" content="#0e7490" />
-    <link rel="manifest" href={`${import.meta.env.BASE_URL}manifest.webmanifest`} />
-    <link rel="icon" href={`${import.meta.env.BASE_URL}icons/icon-192.png`} sizes="192x192" />
+    <link rel="manifest" href={`${base}manifest.webmanifest`} />
+    <link rel="icon" href={`${base}icons/icon-192.png`} sizes="192x192" />
     <title>{title}</title>
     <script>
       (() => {
@@ -114,7 +115,7 @@ const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data
     <header class="topbar">
       <div class="actions">
         <button id="open-main-menu" aria-label="Abrir menú principal">Menu</button>
-        <a class="brand" href={`${import.meta.env.BASE_URL}`}>Oposición Burgos</a>
+        <a class="brand" href={base}>Oposición Burgos</a>
       </div>
       <div class="actions">
         <select id="theme-picker" aria-label="Elegir tema visual">
@@ -128,16 +129,16 @@ const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data
 
     <aside class="panel" id="main-panel">
       <h2>Estudio</h2>
-      <a href={`${import.meta.env.BASE_URL}`}>Inicio</a>
-      <a href={`${import.meta.env.BASE_URL}test`}>Hacer test</a>
-      <a href={`${import.meta.env.BASE_URL}fallos`}>Repetir fallos</a>
-      <a href={`${import.meta.env.BASE_URL}progreso`}>Progreso</a>
+      <a href={base}>Inicio</a>
+      <a href={`${base}test`}>Hacer test</a>
+      <a href={`${base}fallos`}>Repetir fallos</a>
+      <a href={`${base}progreso`}>Progreso</a>
     </aside>
 
     <aside class="panel right" id="topics-panel">
       <h2>Temas</h2>
       {temas.map((t) => (
-        <a href={`${import.meta.env.BASE_URL}temas/${t.id.replace(/\.md$/, '')}`}>
+        <a href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
           Tema {t.data.tema}
         </a>
       ))}
@@ -150,7 +151,7 @@ const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data
     <AccessGate />
     <script>
       if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`));
+        window.addEventListener('load', () => navigator.serviceWorker.register(`${base}sw.js`));
       }
 
       const root = document.documentElement;
