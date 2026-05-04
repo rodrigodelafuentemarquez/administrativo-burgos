@@ -449,6 +449,128 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       .review-grid {
         gap: .75rem;
       }
+      .test-shell {
+        background: transparent;
+      }
+      .test-hero,
+      .test-panel,
+      .question-card,
+      .correction-card,
+      .result-summary {
+        background: var(--bs-tertiary-bg);
+      }
+      .test-hero {
+        padding: 1rem;
+        border: 1px solid var(--bs-border-color);
+        border-radius: var(--bs-border-radius-lg);
+      }
+      .test-kicker {
+        display: inline-flex;
+        width: fit-content;
+        padding: .2rem .5rem;
+        color: var(--bd-accent);
+        font-size: .75rem;
+        font-weight: 800;
+        letter-spacing: .04em;
+        text-transform: uppercase;
+        background: rgba(var(--bd-violet-rgb), .25);
+        border-radius: .35rem;
+      }
+      .test-config,
+      .test-question-list {
+        display: grid;
+        gap: 1rem;
+      }
+      .test-panel {
+        padding: 1rem;
+        border: 1px solid var(--bs-border-color);
+        border-radius: var(--bs-border-radius-lg);
+      }
+      .test-topic-grid {
+        display: grid;
+        gap: .65rem;
+      }
+      .test-topic-option,
+      .answer-option {
+        display: flex;
+        gap: .75rem;
+        align-items: flex-start;
+        width: 100%;
+        padding: .85rem;
+        cursor: pointer;
+        background: var(--bs-body-bg);
+        border: 1px solid var(--bs-border-color);
+        border-radius: var(--bs-border-radius);
+      }
+      .test-topic-option:hover,
+      .answer-option:hover {
+        border-color: rgba(var(--bd-violet-rgb), .8);
+      }
+      .test-topic-option small {
+        display: block;
+        margin-top: .15rem;
+        color: var(--bs-secondary-color);
+        line-height: 1.35;
+      }
+      .question-number {
+        display: inline-grid;
+        flex: 0 0 auto;
+        width: 2.25rem;
+        height: 2.25rem;
+        place-items: center;
+        color: var(--bd-accent);
+        font-weight: 800;
+        background: rgba(var(--bd-violet-rgb), .35);
+        border-radius: 50%;
+      }
+      .question-meta {
+        color: var(--bs-secondary-color);
+        font-size: .875rem;
+      }
+      .answer-list {
+        display: grid;
+        gap: .65rem;
+      }
+      .answer-option:has(input:checked) {
+        color: var(--bs-emphasis-color);
+        background: rgba(var(--bd-violet-rgb), .22);
+        border-color: var(--bd-violet);
+      }
+      .test-actions {
+        background: linear-gradient(180deg, rgba(33, 37, 41, 0), var(--bs-body-bg) 35%);
+      }
+      .score-ring {
+        display: grid;
+        width: 7rem;
+        height: 7rem;
+        margin-top: 1.5rem;
+        place-items: center;
+        color: var(--bs-emphasis-color);
+        font-size: 1.35rem;
+        font-weight: 800;
+        background:
+          radial-gradient(circle at center, var(--bs-tertiary-bg) 58%, transparent 59%),
+          conic-gradient(var(--bd-violet) var(--score), var(--bs-border-color) 0);
+        border-radius: 50%;
+      }
+      .correction-card {
+        border-left: .35rem solid var(--bs-border-color) !important;
+      }
+      .correction-card.is-correct {
+        border-left-color: var(--bs-success) !important;
+      }
+      .correction-card.is-wrong {
+        border-left-color: var(--bs-danger) !important;
+      }
+      @media (min-width: 768px) {
+        .test-config {
+          grid-template-columns: minmax(0, 2fr) minmax(16rem, 1fr);
+          align-items: start;
+        }
+        .score-ring {
+          margin-top: 0;
+        }
+      }
     </style>
   </head>
   <body>
@@ -561,7 +683,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </main>
     </div>
     <AccessGate />
-    <script>
+    <script define:vars={{ base }}>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => navigator.serviceWorker.register(`${base}sw.js`));
       }

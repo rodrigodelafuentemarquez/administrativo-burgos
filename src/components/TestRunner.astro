@@ -1,44 +1,129 @@
 ---
 interface Props { mode?: 'normal' | 'fails'; }
 const { mode = 'normal' } = Astro.props;
+const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
 
-<section class="card">
-  <div id="test-app" data-mode={mode}></div>
+<section class="test-shell card border-0 shadow-sm">
+  <div id="test-app" data-mode={mode} data-base={clientBase}></div>
 </section>
 
-<script type="module">
-  import { addFails, readFails, removeFailIds, updateStats } from '../utils/storage';
-
+<script>
   const root = document.getElementById('test-app');
   const mode = root?.dataset.mode ?? 'normal';
-  const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+  const base = root?.dataset.base ?? '/';
+  const STATS_KEY = 'oposicion-stats-v1';
+  const FAILS_KEY = 'oposicion-fallos-v1';
 
   const limitOptions = [5, 10, 20, 30, 0];
   let allQuestions = [];
   let selected = [];
+
+  function readStats() {
+    try {
+      return JSON.parse(localStorage.getItem(STATS_KEY) ?? '{}');
+    } catch {
+      return {};
+    }
+  }
+
+  function updateStats(tema, total, correctas) {
+    const stats = readStats();
+    const key = String(tema);
+    const current = stats[key] ?? { total: 0, correctas: 0 };
+    stats[key] = {
+      total: current.total + total,
+      correctas: current.correctas + correctas,
+    };
+    localStorage.setItem(STATS_KEY, JSON.stringify(stats));
+  }
+
+  function readFails() {
+    try {
+      return JSON.parse(localStorage.getItem(FAILS_KEY) ?? '[]');
+    } catch {
+      return [];
+    }
+  }
+
+  function saveFails(fails) {
+    localStorage.setItem(FAILS_KEY, JSON.stringify(fails));
+  }
+
+  function addFails(newFails) {
+    const current = readFails();
+    const byId = new Map(current.map((q) => [q.id, q]));
+    newFails.forEach((q) => byId.set(q.id, q));
+    saveFails(Array.from(byId.values()));
+  }
+
+  function removeFailIds(ids) {
+    const idSet = new Set(ids);
+    saveFails(readFails().filter((q) => !idSet.has(q.id)));
+  }
+
+  const escapeHtml = (value) => String(value ?? '')
+    .replaceAll('&', '&amp;')
+    .replaceAll('<', '&lt;')
+    .replaceAll('>', '&gt;')
+    .replaceAll('"', '&quot;')
+    .replaceAll("'", '&#039;');
+
+  function shuffle(arr) {
+    return arr.map((v) => [Math.random(), v]).sort((a,b) => a[0]-b[0]).map((x) => x[1]);
+  }
+
+  function renderEmpty(message, help = '') {
+    root.innerHTML = `
+      <div class="test-empty text-center py-4">
+        <span class="test-kicker">Tests</span>
+        <h2 class="h3 mt-2">${escapeHtml(message)}</h2>
+        ${help ? `<p class="text-body-secondary mb-0">${escapeHtml(help)}</p>` : ''}
+      </div>`;
+  }
 
   async function loadNormalQuestions() {
     const idxRes = await fetch(`${base}data/tests/index.json`);
     const idx = await idxRes.json();
     const temas = (idx.temas ?? []).filter((t) => (t.preguntas ?? 0) > 0);
     if (!temas.length) {
-      root.innerHTML = '<p>No hay preguntas cargadas todavía. Puedes añadir JSON de tests más adelante.</p>';
+      renderEmpty('No hay preguntas cargadas todavía.', 'Cuando añadamos los JSON por tema aparecerán aquí automáticamente.');
       return;
     }
 
     root.innerHTML = `
-      <h2>Configurar test</h2>
-      <div style="display:grid;gap:.8rem">
-        <fieldset><legend>Temas</legend>${temas.map((t) => `<label style='display:block'><input type='checkbox' value='${t.tema}' checked> Tema ${t.tema}</label>`).join('')}</fieldset>
-        <label>Número de preguntas
-          <select id='limit'>${limitOptions.map((n) => `<option value='${n}'>${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
-        </label>
-        <button class='primary' id='start'>Empezar</button>
+      <div class="test-hero mb-4">
+        <span class="test-kicker">Modo práctica</span>
+        <h2 class="display-6 mb-2">Configurar test</h2>
+        <p class="text-body-secondary mb-0">Elige tema, número de preguntas y corrige al final. Los fallos se guardan para repetirlos.</p>
+      </div>
+      <div class="test-config">
+        <fieldset class="test-panel">
+          <legend class="h5 mb-3">Temas disponibles</legend>
+          <div class="test-topic-grid">
+            ${temas.map((t) => `
+              <label class="test-topic-option">
+                <input class="form-check-input" type="checkbox" value="${Number(t.tema)}" checked>
+                <span>
+                  <strong>Tema ${Number(t.tema)}</strong>
+                  <small>${escapeHtml(t.titulo)} · ${Number(t.preguntas)} preguntas</small>
+                </span>
+              </label>`).join('')}
+          </div>
+        </fieldset>
+        <div class="test-panel">
+          <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
+          <select class="form-select" id="limit">${limitOptions.map((n) => `<option value="${n}">${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
+          <button class="btn btn-primary btn-lg w-100 mt-3" id="start" type="button">Empezar test</button>
+        </div>
       </div>`;
 
     document.getElementById('start')?.addEventListener('click', async () => {
       const temaIds = Array.from(root.querySelectorAll('input[type=checkbox]:checked')).map((el) => Number(el.value));
+      if (!temaIds.length) {
+        renderEmpty('Selecciona al menos un tema.', 'Vuelve a Tests y marca un tema para empezar.');
+        return;
+      }
       const chunks = await Promise.all(temaIds.map(async (id) => {
         const r = await fetch(`${base}data/tests/tema-${String(id).padStart(2, '0')}.json`);
         return r.json();
@@ -48,76 +133,149 @@ const { mode = 'normal' } = Astro.props;
     });
   }
 
-  function shuffle(arr) {
-    return arr.map((v) => [Math.random(), v]).sort((a,b) => a[0]-b[0]).map((x) => x[1]);
-  }
-
   function startTest(limit) {
     if (mode === 'fails') {
       allQuestions = readFails();
       if (!allQuestions.length) {
-        root.innerHTML = '<p>No hay fallos guardados.</p>';
+        renderEmpty('No hay fallos guardados.', 'Cuando falles alguna pregunta en un test normal aparecerá aquí.');
         return;
       }
     }
+
     selected = shuffle(allQuestions);
     if (limit > 0) selected = selected.slice(0, limit);
 
-    const answers = new Map();
-    root.innerHTML = `<h2>Test</h2><form id='quiz'></form><button class='primary' id='finish'>Corregir</button>`;
+    root.innerHTML = `
+      <div class="test-hero mb-4">
+        <span class="test-kicker">${mode === 'fails' ? 'Repaso de fallos' : 'Test aleatorio'}</span>
+        <h2 class="display-6 mb-2">${selected.length} preguntas</h2>
+        <p class="text-body-secondary mb-0">Marca una opción por pregunta. La corrección aparece al final con explicación y referencia.</p>
+      </div>
+      <form id="quiz" class="test-question-list"></form>
+      <div class="test-actions sticky-bottom py-3 mt-4">
+        <button class="btn btn-primary btn-lg" id="finish" type="submit">Corregir test</button>
+      </div>`;
+
     const quiz = document.getElementById('quiz');
     selected.forEach((q, i) => {
       const div = document.createElement('article');
-      div.className = 'card';
-      div.style.margin = '.8rem 0';
-      div.innerHTML = `<p><strong>${i+1}. ${q.pregunta}</strong></p>${q.opciones.map((op, j) => `<label style='display:block;margin:.2rem 0'><input type='radio' name='q${i}' value='${j}'> ${op}</label>`).join('')}`;
+      div.className = 'question-card card border-0 shadow-sm';
+      div.innerHTML = `
+        <div class="card-body p-4">
+          <div class="d-flex align-items-start gap-3 mb-3">
+            <span class="question-number">${i + 1}</span>
+            <div>
+              <p class="question-meta mb-1">Tema ${Number(q.tema)} · ${escapeHtml(q.referencia)}</p>
+              <h3 class="h5 mb-0">${escapeHtml(q.pregunta)}</h3>
+            </div>
+          </div>
+          <div class="answer-list">
+            ${q.opciones.map((op, j) => `
+              <label class="answer-option" for="q${i}-${j}">
+                <input class="form-check-input" id="q${i}-${j}" type="radio" name="q${i}" value="${j}">
+                <span>${escapeHtml(op)}</span>
+              </label>`).join('')}
+          </div>
+        </div>`;
       quiz.appendChild(div);
     });
 
-    document.getElementById('finish')?.addEventListener('click', (e) => {
-      e.preventDefault();
-      let ok = 0;
-      const failed = [];
-      selected.forEach((q, i) => {
-        const pick = Number((document.querySelector(`input[name=q${i}]:checked`) || {}).value ?? -1);
-        answers.set(q.id, pick);
-        if (pick === q.correcta) ok += 1; else failed.push(q);
-      });
+    document.getElementById('finish')?.addEventListener('click', finishTest);
+  }
 
-      if (mode === 'fails') {
-        const successIds = selected.filter((q) => answers.get(q.id) === q.correcta).map((q) => q.id);
-        removeFailIds(successIds);
-      } else {
-        const byTema = new Map();
-        selected.forEach((q) => {
-          const prev = byTema.get(q.tema) ?? { total: 0, ok: 0 };
-          prev.total += 1;
-          if (answers.get(q.id) === q.correcta) prev.ok += 1;
-          byTema.set(q.tema, prev);
-        });
-        byTema.forEach((v, tema) => updateStats(tema, v.total, v.ok));
-        addFails(failed);
-      }
+  function finishTest(event) {
+    event.preventDefault();
+    const answers = new Map();
+    let ok = 0;
+    const failed = [];
 
-      root.innerHTML = `<h2>Resultado: ${ok}/${selected.length}</h2>${selected.map((q, i) => {
-        const pick = answers.get(q.id);
-        const correct = pick === q.correcta;
-        return `<article class='card' style='margin:.8rem 0;border-color:${correct ? '#16a34a' : '#dc2626'}'>
-          <p><strong>${i+1}. ${q.pregunta}</strong></p>
-          <p>Tu respuesta: ${pick >= 0 ? q.opciones[pick] : 'Sin responder'}</p>
-          <p>Correcta: ${q.opciones[q.correcta]}</p>
-          <p class='muted'>Explicación: ${q.explicacion}</p>
-          <p class='muted'>Referencia: ${q.referencia}</p>
-        </article>`;
-      }).join('')}<button id='again' class='primary'>Nuevo test</button>`;
-      document.getElementById('again')?.addEventListener('click', () => mode === 'fails' ? startTest(0) : loadNormalQuestions());
+    selected.forEach((q, i) => {
+      const pick = Number((document.querySelector(`input[name=q${i}]:checked`) || {}).value ?? -1);
+      answers.set(q.id, pick);
+      if (pick === q.correcta) ok += 1;
+      else failed.push(q);
     });
+
+    if (mode === 'fails') {
+      const successIds = selected.filter((q) => answers.get(q.id) === q.correcta).map((q) => q.id);
+      removeFailIds(successIds);
+    } else {
+      const byTema = new Map();
+      selected.forEach((q) => {
+        const prev = byTema.get(q.tema) ?? { total: 0, ok: 0 };
+        prev.total += 1;
+        if (answers.get(q.id) === q.correcta) prev.ok += 1;
+        byTema.set(q.tema, prev);
+      });
+      byTema.forEach((v, tema) => updateStats(tema, v.total, v.ok));
+      addFails(failed);
+    }
+
+    const percent = selected.length ? Math.round((ok / selected.length) * 100) : 0;
+    root.innerHTML = `
+      <div class="result-summary card border-0 shadow-sm mb-4">
+        <div class="card-body p-4 p-lg-5">
+          <span class="test-kicker">Corrección</span>
+          <div class="d-lg-flex align-items-center justify-content-between gap-4">
+            <div>
+              <h2 class="display-6 mb-2">${ok}/${selected.length} correctas</h2>
+              <p class="text-body-secondary mb-lg-0">${failed.length ? `${failed.length} pregunta(s) guardada(s) en fallos.` : 'Sin fallos. Limpio como una patena.'}</p>
+            </div>
+            <div class="score-ring" style="--score:${percent}%">${percent}%</div>
+          </div>
+        </div>
+      </div>
+      <div class="test-question-list">
+        ${selected.map((q, i) => renderCorrection(q, i, answers.get(q.id))).join('')}
+      </div>
+      <button id="again" class="btn btn-primary btn-lg mt-4" type="button">Nuevo test</button>`;
+
+    window.scrollTo({
+      top: Math.max(0, root.getBoundingClientRect().top + window.scrollY - 88),
+      behavior: 'smooth',
+    });
+    document.getElementById('again')?.addEventListener('click', () => mode === 'fails' ? startTest(0) : loadNormalQuestions());
+  }
+
+  function renderCorrection(q, i, pick) {
+    const correct = pick === q.correcta;
+    return `
+      <article class="correction-card card border-0 shadow-sm ${correct ? 'is-correct' : 'is-wrong'}">
+        <div class="card-body p-4">
+          <div class="d-flex align-items-start gap-3 mb-3">
+            <span class="question-number">${i + 1}</span>
+            <div>
+              <p class="question-meta mb-1">Tema ${Number(q.tema)} · ${escapeHtml(q.referencia)}</p>
+              <h3 class="h5 mb-0">${escapeHtml(q.pregunta)}</h3>
+            </div>
+          </div>
+          <div class="correction-answer ${correct ? 'text-success' : 'text-danger'} fw-semibold mb-2">
+            ${correct ? 'Correcta' : 'Incorrecta'}
+          </div>
+          <dl class="row mb-0 g-2">
+            <dt class="col-sm-3 text-body-secondary">Tu respuesta</dt>
+            <dd class="col-sm-9">${pick >= 0 ? escapeHtml(q.opciones[pick]) : '<span class="text-body-secondary">Sin responder</span>'}</dd>
+            <dt class="col-sm-3 text-body-secondary">Correcta</dt>
+            <dd class="col-sm-9">${escapeHtml(q.opciones[q.correcta])}</dd>
+            <dt class="col-sm-3 text-body-secondary">Explicación</dt>
+            <dd class="col-sm-9">${escapeHtml(q.explicacion)}</dd>
+          </dl>
+        </div>
+      </article>`;
   }
 
   if (mode === 'fails') {
-    root.innerHTML = `<h2>Repetir fallos</h2><label>Número de preguntas
-      <select id='limit'>${limitOptions.map((n) => `<option value='${n}'>${n === 0 ? 'Todas' : n}</option>`).join('')}</select></label>
-      <button id='start' class='primary'>Empezar</button>`;
+    root.innerHTML = `
+      <div class="test-hero mb-4">
+        <span class="test-kicker">Fallos</span>
+        <h2 class="display-6 mb-2">Repetir fallos</h2>
+        <p class="text-body-secondary mb-0">Practica solo las preguntas que hayas fallado antes.</p>
+      </div>
+      <div class="test-panel">
+        <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
+        <select class="form-select" id="limit">${limitOptions.map((n) => `<option value="${n}">${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
+        <button id="start" class="btn btn-primary btn-lg w-100 mt-3" type="button">Empezar repaso</button>
+      </div>`;
     document.getElementById('start')?.addEventListener('click', () => startTest(Number(document.getElementById('limit')?.value ?? '0')));
   } else {
     loadNormalQuestions();

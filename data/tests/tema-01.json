@@ -1,0 +1,72 @@
+[
+  {
+    "id": "t01-p001",
+    "tema": 1,
+    "pregunta": "Según el Tema 1, ¿qué norma ocupa la posición suprema del ordenamiento jurídico español?",
+    "opciones": [
+      "La Ley Orgánica",
+      "La Constitución",
+      "El Reglamento",
+      "El Estatuto de Autonomía"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que la Constitución es la norma suprema del ordenamiento jurídico español y que toda norma, acto o disposición contraria a ella es nula.",
+    "referencia": "Tema 1, 1.1 Concepto y naturaleza"
+  },
+  {
+    "id": "t01-p002",
+    "tema": 1,
+    "pregunta": "¿Cuáles son los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE según el temario?",
+    "opciones": [
+      "Libertad, justicia, igualdad y pluralismo político",
+      "Unidad, autonomía, solidaridad y coordinación",
+      "Legalidad, jerarquía normativa, publicidad y seguridad jurídica",
+      "Mérito, capacidad, eficacia y descentralización"
+    ],
+    "correcta": 0,
+    "explicacion": "El Tema 1 recoge expresamente que los valores superiores son libertad, justicia, igualdad y pluralismo político.",
+    "referencia": "Tema 1, 1.2 Características"
+  },
+  {
+    "id": "t01-p003",
+    "tema": 1,
+    "pregunta": "En la estructura de la Constitución, ¿qué regula el Título I según el Tema 1?",
+    "opciones": [
+      "La Corona",
+      "La reforma constitucional",
+      "Los derechos y deberes fundamentales",
+      "La organización territorial del Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "El esquema del Tema 1 identifica el Título I como el relativo a los derechos y deberes fundamentales, arts. 10 a 55.",
+    "referencia": "Tema 1, 1.3 Estructura"
+  },
+  {
+    "id": "t01-p004",
+    "tema": 1,
+    "pregunta": "¿Qué derecho aparece en el Tema 1 como el art. 14 CE?",
+    "opciones": [
+      "Derecho a la educación",
+      "Principio de igualdad",
+      "Derecho de petición",
+      "Libertad sindical"
+    ],
+    "correcta": 1,
+    "explicacion": "El Tema 1 dedica un apartado al Artículo 14 como principio de igualdad y recoge la igualdad ante la ley sin discriminación.",
+    "referencia": "Tema 1, Artículo 14 — Principio de igualdad"
+  },
+  {
+    "id": "t01-p005",
+    "tema": 1,
+    "pregunta": "Según el Tema 1, ¿quién es el Defensor del Pueblo?",
+    "opciones": [
+      "El órgano que reforma la Constitución",
+      "El alto comisionado de las Cortes Generales designado para la defensa de los derechos del Título I",
+      "El órgano superior consultivo del Gobierno",
+      "El representante ordinario del Estado en la Comunidad Autónoma"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario define al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I y supervisor de la actividad de la Administración.",
+    "referencia": "Tema 1, 3.2 El Defensor del Pueblo"
+  }
+]
