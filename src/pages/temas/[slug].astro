@@ -15,6 +15,8 @@ const { Content } = await render(tema);
   <article class="card">
     <h1>TEMA {tema.data.tema}</h1>
     <h2>{tema.data.titulo}</h2>
-    <Content />
+    <div class="tema-content">
+      <Content />
+    </div>
   </article>
 </Layout>
