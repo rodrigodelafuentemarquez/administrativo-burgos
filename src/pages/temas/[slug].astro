@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from 'astro:content';
+import Layout from '../../layouts/Layout.astro';
+
+export async function getStaticPaths() {
+  const temas = await getCollection('temas');
+  return temas.map((tema) => ({ params: { slug: tema.id.replace(/\.md$/, '') }, props: { tema } }));
+}
+
+const { tema } = Astro.props;
+const { Content } = await render(tema);
+---
+
+<Layout title={`Tema ${tema.data.tema} - ${tema.data.titulo}`}>
+  <article class="card">
+    <h1>TEMA {tema.data.tema}</h1>
+    <h2>{tema.data.titulo}</h2>
+    <Content />
+  </article>
+</Layout>

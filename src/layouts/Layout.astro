@@ -1,0 +1,49 @@
+---
+interface Props {
+  title: string;
+}
+const { title } = Astro.props;
+---
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <meta name="generator" content={Astro.generator} />
+    <meta name="theme-color" content="#0e7490" />
+    <link rel="manifest" href={`${import.meta.env.BASE_URL}manifest.webmanifest`} />
+    <link rel="icon" href={`${import.meta.env.BASE_URL}icons/icon-192.png`} sizes="192x192" />
+    <title>{title}</title>
+    <style>
+      :root { --bg:#f3f7f9; --fg:#111827; --muted:#4b5563; --card:#fff; --accent:#0e7490; --border:#d1d5db; }
+      @media (prefers-color-scheme: dark){ :root { --bg:#0b1220; --fg:#e5e7eb; --muted:#9ca3af; --card:#111827; --accent:#22d3ee; --border:#374151; } }
+      * { box-sizing: border-box; }
+      body { margin:0; font-family: ui-sans-serif, system-ui, sans-serif; background:var(--bg); color:var(--fg); }
+      a { color: var(--accent); }
+      main { max-width: 900px; margin: 0 auto; padding: 1rem; }
+      nav { display:flex; gap:.8rem; flex-wrap:wrap; padding: .8rem 1rem; border-bottom:1px solid var(--border); background:var(--card); position:sticky; top:0; }
+      .card { background:var(--card); border:1px solid var(--border); border-radius:12px; padding:1rem; }
+      .grid { display:grid; gap:.75rem; }
+      @media (min-width:700px){ .grid { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+      button, select { font: inherit; padding:.6rem .75rem; border-radius:.6rem; border:1px solid var(--border); background:var(--card); color:var(--fg); }
+      button.primary { background:var(--accent); border-color:var(--accent); color:white; }
+      .muted { color: var(--muted); }
+    </style>
+  </head>
+  <body>
+    <nav>
+      <a href={`${import.meta.env.BASE_URL}`}>Inicio</a>
+      <a href={`${import.meta.env.BASE_URL}test`}>Tests</a>
+      <a href={`${import.meta.env.BASE_URL}fallos`}>Fallos</a>
+      <a href={`${import.meta.env.BASE_URL}progreso`}>Progreso</a>
+    </nav>
+    <main>
+      <slot />
+    </main>
+    <script>
+      if ('serviceWorker' in navigator) {
+        window.addEventListener('load', () => navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`));
+      }
+    </script>
+  </body>
+</html>

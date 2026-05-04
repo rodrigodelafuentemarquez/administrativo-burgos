@@ -1,0 +1,10 @@
+---
+interface Props { tema: number; titulo: string; slug: string; }
+const { tema, titulo, slug } = Astro.props;
+---
+
+<article class="card">
+  <h2 style="margin:.2rem 0">TEMA {tema}</h2>
+  <p class="muted" style="margin:.2rem 0 1rem">{titulo}</p>
+  <a href={`${import.meta.env.BASE_URL}temas/${slug}`}>Abrir tema</a>
+</article>

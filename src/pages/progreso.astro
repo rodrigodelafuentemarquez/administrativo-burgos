@@ -1,0 +1,22 @@
+---
+import Layout from '../layouts/Layout.astro';
+---
+<Layout title="Progreso">
+  <h1>Progreso</h1>
+  <section id="stats" class="grid"></section>
+
+  <script type="module">
+    import { readStats } from '../utils/storage';
+    const root = document.getElementById('stats');
+    const stats = readStats();
+    const temas = Object.entries(stats).sort((a,b) => Number(a[0]) - Number(b[0]));
+    if (!temas.length) {
+      root.innerHTML = '<p class="muted">Aún no hay estadísticas. Haz un test primero.</p>';
+    } else {
+      root.innerHTML = temas.map(([tema, v]) => {
+        const pct = v.total ? Math.round((v.correctas / v.total) * 100) : 0;
+        return `<article class='card'><h2>Tema ${tema}</h2><p>${v.correctas}/${v.total} correctas</p><p><strong>${pct}%</strong> de acierto</p></article>`;
+      }).join('');
+    }
+  </script>
+</Layout>
