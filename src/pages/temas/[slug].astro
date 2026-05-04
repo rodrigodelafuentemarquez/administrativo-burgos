@@ -12,9 +12,11 @@ const { Content } = await render(tema);
 ---
 
 <Layout title={`Tema ${tema.data.tema} - ${tema.data.titulo}`}>
-  <article class="card">
-    <h1>TEMA {tema.data.tema}</h1>
-    <h2>{tema.data.titulo}</h2>
+  <article class="card tema-page">
+    <header class="tema-header">
+      <span class="tema-kicker">Tema {tema.data.tema}</span>
+      <h1 class="tema-title">{tema.data.titulo}</h1>
+    </header>
     <div class="tema-content">
       <Content />
     </div>
