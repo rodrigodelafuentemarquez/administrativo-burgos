@@ -1,0 +1,41 @@
+---
+---
+<script>
+  const KEY = 'oposicion-access-ok-v1';
+  const USER = 'rodrigo';
+  const PASS = 'xof13odi';
+
+  function showGate() {
+    const overlay = document.createElement('div');
+    overlay.setAttribute('id', 'access-gate');
+    overlay.setAttribute('style', 'position:fixed;inset:0;z-index:9999;background:var(--bg);display:grid;place-items:center;padding:1rem;');
+    overlay.innerHTML = `
+      <form class="card" style="max-width:380px;width:100%;display:grid;gap:.7rem" id="gate-form">
+        <h1 style="margin:0">Acceso</h1>
+        <p class="muted" style="margin:0">Zona de estudio privada.</p>
+        <label>Usuario <input required name="u" /></label>
+        <label>Contraseña <input required name="p" type="password" /></label>
+        <button class="primary" type="submit">Entrar</button>
+        <p id="gate-error" style="color:#dc2626;min-height:1.2em;margin:0"></p>
+      </form>`;
+    document.body.appendChild(overlay);
+
+    overlay.querySelector('#gate-form')?.addEventListener('submit', (e) => {
+      e.preventDefault();
+      const fd = new FormData(e.target);
+      const u = String(fd.get('u') ?? '');
+      const p = String(fd.get('p') ?? '');
+      if (u === USER && p === PASS) {
+        localStorage.setItem(KEY, '1');
+        overlay.remove();
+      } else {
+        const err = overlay.querySelector('#gate-error');
+        if (err) err.textContent = 'Credenciales incorrectas';
+      }
+    });
+  }
+
+  if (typeof localStorage !== 'undefined') {
+    if (localStorage.getItem(KEY) !== '1') showGate();
+  }
+</script>

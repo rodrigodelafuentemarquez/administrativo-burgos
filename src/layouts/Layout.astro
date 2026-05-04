@@ -3,6 +3,7 @@ interface Props {
   title: string;
 }
 const { title } = Astro.props;
+import AccessGate from '../components/AccessGate.astro';
 ---
 
 <html lang="es">
@@ -40,6 +41,7 @@ const { title } = Astro.props;
     <main>
       <slot />
     </main>
+    <AccessGate />
     <script>
       if ('serviceWorker' in navigator) {
         window.addEventListener('load', () => navigator.serviceWorker.register(`${import.meta.env.BASE_URL}sw.js`));
