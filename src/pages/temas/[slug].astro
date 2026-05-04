@@ -1,6 +1,7 @@
 ---
 import { getCollection, render } from 'astro:content';
 import Layout from '../../layouts/Layout.astro';
+import GithubSlugger from 'github-slugger';
 
 export async function getStaticPaths() {
   const temas = await getCollection('temas');
@@ -9,10 +10,24 @@ export async function getStaticPaths() {
 
 const { tema } = Astro.props;
 const { Content } = await render(tema);
+const slugger = new GithubSlugger();
+const toc = tema.body
+  .split('\n')
+  .map((line) => line.match(/^(#{2,3})\s+(.+)$/))
+  .filter(Boolean)
+  .map((match) => {
+    const text = match![2].replace(/\s*\{#.+\}\s*$/, '').trim();
+    return {
+      depth: match![1].length,
+      text,
+      id: slugger.slug(text),
+    };
+  })
+  .slice(0, 12);
 ---
 
-<Layout title={`Tema ${tema.data.tema} - ${tema.data.titulo}`}>
-  <article class="card tema-page">
+<Layout title={`Tema ${tema.data.tema} - ${tema.data.titulo}`} toc={toc}>
+  <article class="bd-content">
     <header class="tema-header">
       <span class="tema-kicker">Tema {tema.data.tema}</span>
       <h1 class="tema-title">{tema.data.titulo}</h1>

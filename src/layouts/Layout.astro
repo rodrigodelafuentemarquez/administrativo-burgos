@@ -1,9 +1,15 @@
 ---
 import { getCollection } from 'astro:content';
+type TocItem = {
+  depth: number;
+  id: string;
+  text: string;
+};
 interface Props {
   title: string;
+  toc?: TocItem[];
 }
-const { title } = Astro.props;
+const { title, toc = [] } = Astro.props;
 import AccessGate from '../components/AccessGate.astro';
 const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data.tema);
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
@@ -33,83 +39,170 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       })();
     </script>
     <style>
-      :root { --app-bg: #f5f5f2; }
-      :root[data-bs-theme="dark"] { --app-bg: #111111; }
+      :root {
+        --app-bg: #f5f5f2;
+        --app-accent: #712cf9;
+        --app-sidebar-width: 280px;
+        --app-toc-width: 220px;
+      }
+      :root[data-bs-theme="dark"] {
+        --app-bg: #111111;
+      }
       body {
-        font-family: "IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+        font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
         background: var(--app-bg);
       }
-      main { max-width: 1000px; margin: 0 auto; padding: 1rem; }
-      .card { border-radius: .75rem; padding: 1rem; }
-      .muted { color: var(--bs-secondary-color); }
-      .grid { display:grid; gap:.75rem; }
-      @media (min-width:700px){ .grid { grid-template-columns: repeat(2, minmax(0,1fr)); } }
-      .navbar-brand { font-weight: 700; }
+      .bd-navbar {
+        min-height: 4rem;
+        box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+      }
+      .bd-brand {
+        color: var(--bs-body-color);
+        font-weight: 700;
+        text-decoration: none;
+      }
+      .bd-layout {
+        display: grid;
+        grid-template-areas: "main";
+        gap: 1.5rem;
+        max-width: 1440px;
+        margin: 0 auto;
+        padding: 0 1rem 3rem;
+      }
+      .bd-sidebar { display: none; }
+      .bd-toc { display: none; }
+      .bd-main {
+        grid-area: main;
+        min-width: 0;
+        padding-top: 2rem;
+      }
+      @media (min-width: 992px) {
+        .bd-layout {
+          grid-template-columns: var(--app-sidebar-width) minmax(0, 1fr);
+          grid-template-areas: "sidebar main";
+          padding-inline: 1.5rem;
+        }
+        .bd-sidebar {
+          display: block;
+          grid-area: sidebar;
+          position: sticky;
+          top: 4rem;
+          height: calc(100vh - 4rem);
+          overflow-y: auto;
+          padding: 1.5rem 1rem 2rem 0;
+          border-right: 1px solid var(--bs-border-color);
+        }
+      }
+      @media (min-width: 1200px) {
+        .bd-layout.has-toc {
+          grid-template-columns: var(--app-sidebar-width) minmax(0, 1fr) var(--app-toc-width);
+          grid-template-areas: "sidebar main toc";
+        }
+        .bd-toc {
+          display: block;
+          grid-area: toc;
+          position: sticky;
+          top: 4rem;
+          height: calc(100vh - 4rem);
+          overflow-y: auto;
+          padding: 1.5rem 0 2rem 1rem;
+          font-size: .875rem;
+        }
+      }
+      .bd-links-heading {
+        color: var(--bs-body-color);
+        font-size: .75rem;
+        font-weight: 700;
+        letter-spacing: .04em;
+        text-transform: uppercase;
+      }
+      .bd-link {
+        display: block;
+        padding: .22rem 0;
+        color: var(--bs-secondary-color);
+        text-decoration: none;
+      }
+      .bd-link:hover {
+        color: var(--bs-body-color);
+      }
+      .bd-toc a {
+        display: block;
+        padding: .2rem 0;
+        color: var(--bs-secondary-color);
+        text-decoration: none;
+      }
+      .bd-toc a:hover { color: var(--bs-body-color); }
+      .bd-content {
+        max-width: 860px;
+      }
+      .bd-content h1 {
+        font-size: calc(1.525rem + 3.3vw);
+        line-height: 1;
+        margin-bottom: .5rem;
+      }
+      @media (min-width: 1200px) {
+        .bd-content h1 { font-size: 4rem; }
+      }
+      .bd-content > .lead {
+        color: var(--bs-secondary-color);
+        font-size: 1.25rem;
+        line-height: 1.55;
+        margin-bottom: 2rem;
+      }
+      .tema-content {
+        font-size: 1rem;
+      }
+      .tema-content h2 {
+        padding-top: 1.25rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        font-size: 2rem;
+        line-height: 1.2;
+        border-top: 1px solid var(--bs-border-color);
+      }
+      .tema-content h3 {
+        margin-top: 1.5rem;
+        margin-bottom: .75rem;
+        font-size: 1.35rem;
+        line-height: 1.3;
+      }
+      .tema-content p,
+      .tema-content li {
+        line-height: 1.7;
+      }
       .tema-content table {
         width: 100%;
-        border-collapse: collapse;
-        margin: 1rem 0 1.25rem;
+        margin: 1.25rem 0;
+        vertical-align: top;
+      }
+      .tema-content table {
         display: block;
         overflow-x: auto;
-        border-radius: .5rem;
-        background: var(--bs-body-bg);
       }
       .tema-content th,
       .tema-content td {
+        padding: .75rem;
         border: 1px solid var(--bs-border-color);
-        padding: .6rem .7rem;
-        vertical-align: top;
-        min-width: 180px;
+        min-width: 10rem;
       }
       .tema-content th {
-        background: color-mix(in srgb, var(--bs-body-color) 8%, transparent);
-        font-weight: 700;
+        background-color: color-mix(in srgb, var(--bs-body-color) 7%, transparent);
       }
       .tema-content tr:nth-child(even) td {
-        background: color-mix(in srgb, var(--bs-body-color) 3%, transparent);
+        background-color: color-mix(in srgb, var(--bs-body-color) 3%, transparent);
       }
-      .tema-content h2,
-      .tema-content h3 { margin-top: 1.45rem; margin-bottom: .65rem; line-height: 1.3; }
-      .tema-content h2 { font-size: 1.5rem; }
-      .tema-content h3 { font-size: 1.2rem; }
-      .tema-content p, .tema-content li { line-height: 1.7; font-size: 1.02rem; }
-      .tema-content ul { padding-left: 1.15rem; }
-      .tema-content hr { margin: 1.25rem 0; opacity: .18; }
-      .tema-content blockquote {
-        margin: 1rem 0;
-        padding: .7rem .9rem;
-        border-left: .25rem solid var(--bs-secondary);
-        background: color-mix(in srgb, var(--bs-body-color) 4%, transparent);
-        border-radius: .45rem;
-      }
-      .tema-page {
-        max-width: 900px;
-        margin: 0 auto;
-      }
-      .tema-header {
-        margin-bottom: 1rem;
-      }
-      .tema-kicker {
-        display: inline-block;
-        font-size: .8rem;
-        letter-spacing: .08em;
-        text-transform: uppercase;
-        color: var(--bs-secondary-color);
-        margin-bottom: .35rem;
-      }
-      .tema-title {
-        font-size: clamp(1.45rem, 2.5vw, 2rem);
-        line-height: 1.25;
-        margin-bottom: 0;
+      .tema-content ul { padding-left: 1.25rem; }
+      .tema-content code {
+        color: var(--app-accent);
       }
     </style>
   </head>
   <body>
-    <header class="sticky-top border-bottom bg-body">
+    <header class="bd-navbar sticky-top border-bottom bg-body">
       <div class="container-fluid px-3 py-2 d-flex justify-content-between align-items-center gap-2">
         <div class="d-flex align-items-center gap-2">
-          <button class="btn btn-outline-secondary btn-sm" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal">Menu</button>
-          <a class="navbar-brand m-0" href={base}>Oposición Burgos</a>
+          <button class="btn btn-outline-secondary btn-sm d-lg-none" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal">Menu</button>
+          <a class="bd-brand m-0" href={base}>Oposición Burgos</a>
         </div>
         <div class="d-flex align-items-center gap-2">
           <select id="theme-picker" class="form-select form-select-sm" aria-label="Elegir tema visual">
@@ -117,7 +210,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
             <option value="light">Claro</option>
             <option value="dark">Oscuro</option>
           </select>
-          <button class="btn btn-outline-secondary btn-sm" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas">Temas</button>
+          <button class="btn btn-outline-secondary btn-sm d-lg-none" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas">Temas</button>
         </div>
       </div>
     </header>
@@ -127,11 +220,14 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         <h5 id="menuPrincipalLabel" class="offcanvas-title">Estudio</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button>
       </div>
-      <div class="offcanvas-body d-grid gap-2">
-        <a class="btn btn-outline-secondary text-start" href={base}>Inicio</a>
-        <a class="btn btn-outline-secondary text-start" href={`${base}test`}>Hacer test</a>
-        <a class="btn btn-outline-secondary text-start" href={`${base}fallos`}>Repetir fallos</a>
-        <a class="btn btn-outline-secondary text-start" href={`${base}progreso`}>Progreso</a>
+      <div class="offcanvas-body">
+        <nav>
+          <p class="bd-links-heading mb-2">Estudio</p>
+          <a class="bd-link" href={base}>Inicio</a>
+          <a class="bd-link" href={`${base}test`}>Hacer test</a>
+          <a class="bd-link" href={`${base}fallos`}>Repetir fallos</a>
+          <a class="bd-link" href={`${base}progreso`}>Progreso</a>
+        </nav>
       </div>
     </div>
 
@@ -140,18 +236,45 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         <h5 id="menuTemasLabel" class="offcanvas-title">Temas</h5>
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button>
       </div>
-      <div class="offcanvas-body d-grid gap-2">
+      <div class="offcanvas-body">
         {temas.map((t) => (
-          <a class="btn btn-outline-secondary text-start" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
-            Tema {t.data.tema}
+          <a class="bd-link" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
+            Tema {t.data.tema}: {t.data.titulo}
           </a>
         ))}
       </div>
     </div>
 
-    <main>
-      <slot />
-    </main>
+    <div class={`bd-layout ${toc.length ? 'has-toc' : ''}`}>
+      <aside class="bd-sidebar">
+        <nav>
+          <p class="bd-links-heading mb-2">Estudio</p>
+          <a class="bd-link" href={base}>Inicio</a>
+          <a class="bd-link" href={`${base}test`}>Hacer test</a>
+          <a class="bd-link" href={`${base}fallos`}>Repetir fallos</a>
+          <a class="bd-link" href={`${base}progreso`}>Progreso</a>
+          <p class="bd-links-heading mt-4 mb-2">Temas</p>
+          {temas.map((t) => (
+            <a class="bd-link" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
+              Tema {t.data.tema}
+            </a>
+          ))}
+        </nav>
+      </aside>
+
+      <main class="bd-main">
+        <slot />
+      </main>
+
+      {toc.length > 0 && (
+        <aside class="bd-toc">
+          <strong class="d-block mb-2">En esta pagina</strong>
+          {toc.map((item) => (
+            <a href={`#${item.id}`} class={item.depth > 2 ? 'ms-3' : ''}>{item.text}</a>
+          ))}
+        </aside>
+      )}
+    </div>
     <AccessGate />
     <script>
       if ('serviceWorker' in navigator) {
