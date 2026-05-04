@@ -8,15 +8,25 @@
   function showGate() {
     const overlay = document.createElement('div');
     overlay.setAttribute('id', 'access-gate');
-    overlay.setAttribute('style', 'position:fixed;inset:0;z-index:9999;background:var(--bg);display:grid;place-items:center;padding:1rem;');
+    overlay.setAttribute('class', 'position-fixed top-0 start-0 w-100 h-100 d-grid align-items-center bg-body');
+    overlay.setAttribute('style', 'z-index:9999;padding:1rem;');
     overlay.innerHTML = `
-      <form class="card" style="max-width:380px;width:100%;display:grid;gap:.7rem" id="gate-form">
-        <h1 style="margin:0">Acceso</h1>
-        <p class="muted" style="margin:0">Zona de estudio privada.</p>
-        <label>Usuario <input required name="u" /></label>
-        <label>Contraseña <input required name="p" type="password" /></label>
-        <button class="primary" type="submit">Entrar</button>
-        <p id="gate-error" style="color:#dc2626;min-height:1.2em;margin:0"></p>
+      <form class="card shadow-sm border-0 mx-auto p-4" style="max-width:380px;width:100%;" id="gate-form">
+        <div class="d-flex align-items-center mb-3">
+          <span class="bd-brand-mark me-2">B</span>
+          <h1 class="h4 mb-0">Acceso</h1>
+        </div>
+        <p class="text-body-secondary mb-3">Zona de estudio privada.</p>
+        <div class="mb-3">
+          <label class="form-label" for="gate-user">Usuario</label>
+          <input class="form-control" required id="gate-user" name="u" />
+        </div>
+        <div class="mb-3">
+          <label class="form-label" for="gate-pass">Contraseña</label>
+          <input class="form-control" required id="gate-pass" name="p" type="password" />
+        </div>
+        <button class="btn btn-primary w-100" type="submit">Entrar</button>
+        <p id="gate-error" class="text-danger small mt-3 mb-0" style="min-height:1.2em"></p>
       </form>`;
     document.body.appendChild(overlay);
 

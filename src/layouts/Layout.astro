@@ -15,59 +15,120 @@ const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
 
-<html lang="es">
+<html lang="es" data-bs-theme="dark">
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <meta name="generator" content={Astro.generator} />
-    <meta name="theme-color" content="#0e7490" />
+    <meta name="theme-color" content="#712cf9" />
     <link rel="manifest" href={`${base}manifest.webmanifest`} />
     <link rel="icon" href={`${base}icons/icon-192.png`} sizes="192x192" />
     <link
-      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css"
       rel="stylesheet"
-      integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH"
+      integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB"
       crossorigin="anonymous"
     />
     <title>{title}</title>
-    <script>
-      (() => {
-        const saved = localStorage.getItem('oposicion-theme') || 'system';
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const resolved = saved === 'system' ? (prefersDark ? 'dark' : 'light') : saved;
-        document.documentElement.setAttribute('data-bs-theme', resolved);
-      })();
-    </script>
-    <style>
+    <style is:global>
       :root {
-        --app-bg: #f5f5f2;
-        --app-accent: #712cf9;
-        --app-sidebar-width: 280px;
-        --app-toc-width: 220px;
+        --bd-purple: #4c0bce;
+        --bd-violet: #712cf9;
+        --bd-accent: #ffe484;
+        --bd-violet-rgb: 113, 44, 249;
+        --bd-accent-rgb: 255, 228, 132;
+        --bd-violet-bg: var(--bd-violet);
+        --bd-toc-color: var(--bd-violet);
+        --bd-sidebar-link-bg: rgba(var(--bd-violet-rgb), .1);
       }
       :root[data-bs-theme="dark"] {
-        --app-bg: #111111;
+        --bd-violet: #9561fb;
+        --bd-violet-bg: #712cf9;
+        --bd-toc-color: var(--bs-emphasis-color);
+        --bd-sidebar-link-bg: rgba(85, 33, 187, .5);
       }
       body {
         font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
-        background: var(--app-bg);
+      }
+      .btn-primary {
+        --bs-btn-bg: var(--bd-violet);
+        --bs-btn-border-color: var(--bd-violet);
+        --bs-btn-hover-bg: #6528e0;
+        --bs-btn-hover-border-color: #6528e0;
+        --bs-btn-focus-shadow-rgb: var(--bd-violet-rgb);
       }
       .bd-navbar {
-        min-height: 4rem;
-        box-shadow: 0 .125rem .25rem rgba(0,0,0,.075);
+        padding: .75rem 0;
+        background-color: transparent;
+        box-shadow: 0 .5rem 1rem rgba(0,0,0,.15), inset 0 -1px rgba(255,255,255,.15);
+      }
+      .bd-navbar::after {
+        position: absolute;
+        inset: 0;
+        z-index: -1;
+        display: block;
+        content: "";
+        background-image: linear-gradient(rgba(var(--bd-violet-rgb),1), rgba(var(--bd-violet-rgb),.95));
       }
       .bd-brand {
-        color: var(--bs-body-color);
+        color: #fff;
         font-weight: 700;
         text-decoration: none;
+        transition: transform .2s ease-in-out;
+      }
+      .bd-brand:hover {
+        color: #fff;
+        transform: rotate(-3deg) scale(1.03);
+      }
+      .bd-brand-mark {
+        display: inline-grid;
+        width: 2.5rem;
+        height: 2rem;
+        margin-right: .5rem;
+        place-items: center;
+        color: var(--bd-violet);
+        font-weight: 800;
+        background: #fff;
+        border-radius: .45rem;
+      }
+      .bd-navbar .nav-link,
+      .bd-navbar .navbar-toggler {
+        color: rgba(255,255,255,.85);
+      }
+      .bd-navbar .nav-link:hover,
+      .bd-navbar .navbar-toggler:hover {
+        color: #fff;
+      }
+      .bd-navbar .navbar-toggler {
+        border: 0;
+      }
+      .bd-navbar .navbar-toggler-icon {
+        filter: invert(1) grayscale(1) brightness(2);
+      }
+      .bd-search {
+        width: min(34vw, 280px);
+      }
+      .bd-search .form-control {
+        height: 38px;
+        color: #fff;
+        background: rgba(0,0,0,.1);
+        border-color: rgba(255,255,255,.4);
+      }
+      .bd-search .form-control::placeholder {
+        color: rgba(255,255,255,.65);
+      }
+      .bd-search .form-control:focus {
+        background: rgba(0,0,0,.25);
+        border-color: var(--bd-accent);
+        box-shadow: 0 0 0 .25rem rgba(var(--bd-accent-rgb), .4);
       }
       .bd-layout {
         display: grid;
         grid-template-areas: "main";
         gap: 1.5rem;
-        max-width: 1440px;
+        max-width: 1320px;
         margin: 0 auto;
-        padding: 0 1rem 3rem;
+        padding: 0 1.5rem 3rem;
       }
       .bd-sidebar { display: none; }
       .bd-toc { display: none; }
@@ -78,92 +139,134 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       }
       @media (min-width: 992px) {
         .bd-layout {
-          grid-template-columns: var(--app-sidebar-width) minmax(0, 1fr);
+          grid-template-columns: 1fr 5fr;
           grid-template-areas: "sidebar main";
-          padding-inline: 1.5rem;
         }
         .bd-sidebar {
           display: block;
           grid-area: sidebar;
           position: sticky;
-          top: 4rem;
-          height: calc(100vh - 4rem);
+          top: 5rem;
+          height: calc(100vh - 6rem);
           overflow-y: auto;
-          padding: 1.5rem 1rem 2rem 0;
-          border-right: 1px solid var(--bs-border-color);
+          padding: 1.5rem .75rem 2rem 0;
+        }
+        .bd-main {
+          display: grid;
+          grid-template-areas:
+            "intro toc"
+            "content toc";
+          grid-template-columns: 4fr 1fr;
+          gap: 1.5rem;
+        }
+        .bd-main:not(.has-toc) {
+          grid-template-areas:
+            "intro"
+            "content";
+          grid-template-columns: minmax(0, 1fr);
         }
       }
       @media (min-width: 1200px) {
-        .bd-layout.has-toc {
-          grid-template-columns: var(--app-sidebar-width) minmax(0, 1fr) var(--app-toc-width);
-          grid-template-areas: "sidebar main toc";
-        }
         .bd-toc {
           display: block;
           grid-area: toc;
           position: sticky;
-          top: 4rem;
-          height: calc(100vh - 4rem);
+          top: 5rem;
+          right: 0;
+          z-index: 2;
+          height: calc(100vh - 7rem);
           overflow-y: auto;
           padding: 1.5rem 0 2rem 1rem;
           font-size: .875rem;
         }
       }
+      .bd-intro { grid-area: intro; }
+      .bd-content {
+        grid-area: content;
+        min-width: 1px;
+      }
       .bd-links-heading {
+        color: var(--bs-emphasis-color);
+        font-weight: 600;
+      }
+      .bd-links-link {
+        padding: .1875rem .5rem;
+        margin-top: .125rem;
+        margin-left: 1.125rem;
         color: var(--bs-body-color);
-        font-size: .75rem;
-        font-weight: 700;
-        letter-spacing: .04em;
-        text-transform: uppercase;
+        text-decoration: none;
+      }
+      .bd-links-link:hover,
+      .bd-links-link:focus,
+      .bd-links-link.active {
+        color: var(--bs-emphasis-color);
+        background-color: var(--bd-sidebar-link-bg);
+      }
+      .bd-links-link.active {
+        font-weight: 600;
       }
       .bd-link {
         display: block;
-        padding: .22rem 0;
+        padding: .1875rem .5rem;
         color: var(--bs-secondary-color);
         text-decoration: none;
       }
       .bd-link:hover {
-        color: var(--bs-body-color);
+        color: var(--bs-emphasis-color);
       }
-      .bd-toc a {
+      .bd-toc nav ul {
+        padding-left: 0;
+        margin-bottom: 0;
+        list-style: none;
+      }
+      .bd-toc nav ul ul {
+        padding-left: 1rem;
+      }
+      .bd-toc nav a {
         display: block;
-        padding: .2rem 0;
-        color: var(--bs-secondary-color);
+        padding: .125rem 0 .125rem .75rem;
+        color: inherit;
         text-decoration: none;
+        border-left: .125rem solid transparent;
       }
-      .bd-toc a:hover { color: var(--bs-body-color); }
-      .bd-content {
-        max-width: 860px;
+      .bd-toc nav a:hover,
+      .bd-toc nav a.active {
+        color: var(--bd-toc-color);
+        border-left-color: var(--bd-toc-color);
       }
-      .bd-content h1 {
-        font-size: calc(1.525rem + 3.3vw);
-        line-height: 1;
-        margin-bottom: .5rem;
+      .bd-title {
+        color: var(--bs-emphasis-color);
+        font-size: calc(1.425rem + 2.1vw);
       }
       @media (min-width: 1200px) {
-        .bd-content h1 { font-size: 4rem; }
+        .bd-title { font-size: 3rem; }
       }
-      .bd-content > .lead {
-        color: var(--bs-secondary-color);
+      .bd-subtitle {
         font-size: 1.25rem;
+        font-weight: 300;
         line-height: 1.55;
-        margin-bottom: 2rem;
+        color: var(--bs-secondary-color);
+      }
+      .bd-content > h2,
+      .bd-content > h3,
+      .bd-content > h4,
+      .tema-content > h2,
+      .tema-content > h3 {
+        color: var(--bs-emphasis-color);
       }
       .tema-content {
         font-size: 1rem;
       }
       .tema-content h2 {
-        padding-top: 1.25rem;
-        margin-top: 2rem;
-        margin-bottom: 1rem;
-        font-size: 2rem;
+        margin-top: 3rem;
+        margin-bottom: .75rem;
+        font-size: calc(1.325rem + .9vw);
         line-height: 1.2;
-        border-top: 1px solid var(--bs-border-color);
       }
       .tema-content h3 {
-        margin-top: 1.5rem;
+        margin-top: 2rem;
         margin-bottom: .75rem;
-        font-size: 1.35rem;
+        font-size: calc(1.275rem + .3vw);
         line-height: 1.3;
       }
       .tema-content p,
@@ -172,47 +275,96 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       }
       .tema-content table {
         width: 100%;
-        margin: 1.25rem 0;
+        max-width: 100%;
+        margin-bottom: 1.5rem;
+        font-size: .875rem;
         vertical-align: top;
+        border-color: var(--bs-border-color);
+        display: table;
       }
-      .tema-content table {
-        display: block;
-        overflow-x: auto;
+      @media (max-width: 991.98px) {
+        .tema-content table {
+          display: block;
+          overflow-x: auto;
+        }
       }
       .tema-content th,
       .tema-content td {
-        padding: .75rem;
+        padding: .5rem .5rem;
         border: 1px solid var(--bs-border-color);
-        min-width: 10rem;
       }
       .tema-content th {
-        background-color: color-mix(in srgb, var(--bs-body-color) 7%, transparent);
+        color: var(--bs-emphasis-color);
+        white-space: nowrap;
+        background: transparent;
       }
-      .tema-content tr:nth-child(even) td {
-        background-color: color-mix(in srgb, var(--bs-body-color) 3%, transparent);
+      .tema-content thead {
+        border-bottom: 2px solid currentcolor;
       }
       .tema-content ul { padding-left: 1.25rem; }
+      .tema-content > ul li,
+      .tema-content > ol li {
+        margin-bottom: .25rem;
+      }
       .tema-content code {
-        color: var(--app-accent);
+        color: #d63384;
+      }
+      .anchor-link {
+        padding: 0 .175rem;
+        font-weight: 400;
+        color: rgba(13,110,253,.5);
+        text-decoration: none;
+        opacity: 0;
+      }
+      .anchor-link::after {
+        content: "#";
+      }
+      :hover > .anchor-link,
+      .anchor-link:focus,
+      .anchor-link:hover {
+        color: #0d6efd;
+        opacity: 1;
+      }
+      .bd-callout {
+        --bd-callout-link: 10, 88, 202;
+        padding: 1.25rem;
+        margin-top: 1.25rem;
+        margin-bottom: 1.25rem;
+        color: var(--bs-body-color);
+        background-color: var(--bs-tertiary-bg);
+        border-left: .25rem solid var(--bd-violet);
+        border-radius: .25rem;
       }
     </style>
   </head>
   <body>
-    <header class="bd-navbar sticky-top border-bottom bg-body">
-      <div class="container-fluid px-3 py-2 d-flex justify-content-between align-items-center gap-2">
-        <div class="d-flex align-items-center gap-2">
-          <button class="btn btn-outline-secondary btn-sm d-lg-none" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal">Menu</button>
-          <a class="bd-brand m-0" href={base}>Oposición Burgos</a>
+    <header class="navbar navbar-expand-lg bd-navbar sticky-top">
+      <nav class="container-xxl flex-wrap flex-lg-nowrap" aria-label="Navegacion principal">
+        <div class="d-flex align-items-center">
+          <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal" aria-label="Abrir navegacion">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <a class="bd-brand d-inline-flex align-items-center p-0 me-lg-3" href={base} aria-label="Oposición Burgos">
+            <span class="bd-brand-mark">B</span>
+            <span>Oposición Burgos</span>
+          </a>
         </div>
-        <div class="d-flex align-items-center gap-2">
-          <select id="theme-picker" class="form-select form-select-sm" aria-label="Elegir tema visual">
-            <option value="system">Sistema</option>
-            <option value="light">Claro</option>
-            <option value="dark">Oscuro</option>
-          </select>
-          <button class="btn btn-outline-secondary btn-sm d-lg-none" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas">Temas</button>
+
+        <div class="d-none d-lg-block bd-search mx-auto">
+          <input class="form-control form-control-sm" type="search" placeholder="Buscar" aria-label="Buscar" disabled />
         </div>
-      </div>
+
+        <div class="d-flex align-items-center gap-2 ms-lg-auto">
+          <ul class="navbar-nav flex-row flex-wrap d-none d-lg-flex">
+            <li class="nav-item"><a class="nav-link py-2 px-2 active" href={base}>Docs</a></li>
+            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}test`}>Tests</a></li>
+            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}progreso`}>Progreso</a></li>
+          </ul>
+          <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas" aria-label="Abrir temas">
+            Temas
+          </button>
+        </div>
+      </nav>
     </header>
 
     <div class="offcanvas offcanvas-start" tabindex="-1" id="menuPrincipal" aria-labelledby="menuPrincipalLabel">
@@ -221,12 +373,12 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button>
       </div>
       <div class="offcanvas-body">
-        <nav>
-          <p class="bd-links-heading mb-2">Estudio</p>
-          <a class="bd-link" href={base}>Inicio</a>
-          <a class="bd-link" href={`${base}test`}>Hacer test</a>
-          <a class="bd-link" href={`${base}fallos`}>Repetir fallos</a>
-          <a class="bd-link" href={`${base}progreso`}>Progreso</a>
+        <nav class="bd-links-nav">
+          <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong>
+          <a class="bd-links-link d-inline-block rounded active" href={base}>Inicio</a>
+          <a class="bd-links-link d-inline-block rounded" href={`${base}test`}>Hacer test</a>
+          <a class="bd-links-link d-inline-block rounded" href={`${base}fallos`}>Repetir fallos</a>
+          <a class="bd-links-link d-inline-block rounded" href={`${base}progreso`}>Progreso</a>
         </nav>
       </div>
     </div>
@@ -238,7 +390,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </div>
       <div class="offcanvas-body">
         {temas.map((t) => (
-          <a class="bd-link" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
+          <a class="bd-links-link d-inline-block rounded" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
             Tema {t.data.tema}: {t.data.titulo}
           </a>
         ))}
@@ -247,33 +399,50 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 
     <div class={`bd-layout ${toc.length ? 'has-toc' : ''}`}>
       <aside class="bd-sidebar">
-        <nav>
-          <p class="bd-links-heading mb-2">Estudio</p>
-          <a class="bd-link" href={base}>Inicio</a>
-          <a class="bd-link" href={`${base}test`}>Hacer test</a>
-          <a class="bd-link" href={`${base}fallos`}>Repetir fallos</a>
-          <a class="bd-link" href={`${base}progreso`}>Progreso</a>
-          <p class="bd-links-heading mt-4 mb-2">Temas</p>
-          {temas.map((t) => (
-            <a class="bd-link" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
-              Tema {t.data.tema}
-            </a>
-          ))}
+        <nav class="bd-links-nav">
+          <ul class="list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2">
+            <li class="bd-links-group py-2">
+              <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong>
+              <ul class="list-unstyled fw-normal pb-2 small">
+                <li><a class="bd-links-link d-inline-block rounded active" href={base}>Inicio</a></li>
+                <li><a class="bd-links-link d-inline-block rounded" href={`${base}test`}>Hacer test</a></li>
+                <li><a class="bd-links-link d-inline-block rounded" href={`${base}fallos`}>Repetir fallos</a></li>
+                <li><a class="bd-links-link d-inline-block rounded" href={`${base}progreso`}>Progreso</a></li>
+              </ul>
+            </li>
+            <li class="bd-links-group py-2">
+              <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Temario</strong>
+              <ul class="list-unstyled fw-normal pb-2 small">
+                {temas.map((t) => (
+                  <li>
+                    <a class="bd-links-link d-inline-block rounded" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
+                      Tema {t.data.tema}
+                    </a>
+                  </li>
+                ))}
+              </ul>
+            </li>
+          </ul>
         </nav>
       </aside>
 
-      <main class="bd-main">
+      <main class={`bd-main ${toc.length ? 'has-toc' : ''}`}>
+        {toc.length > 0 && (
+          <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary">
+          <strong class="d-block mb-2">En esta página</strong>
+          <nav aria-label="Contenido de esta página">
+              <ul>
+                {toc.map((item) => (
+                  <li class={item.depth > 2 ? 'ms-3' : ''}>
+                    <a href={`#${item.id}`}>{item.text}</a>
+                  </li>
+                ))}
+              </ul>
+            </nav>
+          </div>
+        )}
         <slot />
       </main>
-
-      {toc.length > 0 && (
-        <aside class="bd-toc">
-          <strong class="d-block mb-2">En esta pagina</strong>
-          {toc.map((item) => (
-            <a href={`#${item.id}`} class={item.depth > 2 ? 'ms-3' : ''}>{item.text}</a>
-          ))}
-        </aside>
-      )}
     </div>
     <AccessGate />
     <script>
@@ -281,25 +450,10 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         window.addEventListener('load', () => navigator.serviceWorker.register(`${base}sw.js`));
       }
 
-      const root = document.documentElement;
-      const picker = document.getElementById('theme-picker');
-      const saved = localStorage.getItem('oposicion-theme') || 'system';
-      picker.value = saved;
-      const applyTheme = (mode) => {
-        const prefersDark = window.matchMedia('(prefers-color-scheme: dark)').matches;
-        const resolved = mode === 'system' ? (prefersDark ? 'dark' : 'light') : mode;
-        root.setAttribute('data-bs-theme', resolved);
-      };
-      applyTheme(saved);
-      picker?.addEventListener('change', () => {
-        localStorage.setItem('oposicion-theme', picker.value);
-        applyTheme(picker.value);
-      });
-
     </script>
     <script
-      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
-      integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+      src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"
+      integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI"
       crossorigin="anonymous"
     ></script>
   </body>

@@ -27,13 +27,11 @@ const toc = tema.body
 ---
 
 <Layout title={`Tema ${tema.data.tema} - ${tema.data.titulo}`} toc={toc}>
-  <article class="bd-content">
-    <header class="tema-header">
-      <span class="tema-kicker">Tema {tema.data.tema}</span>
-      <h1 class="tema-title">{tema.data.titulo}</h1>
-    </header>
-    <div class="tema-content">
-      <Content />
-    </div>
-  </article>
+  <div class="bd-intro ps-lg-2">
+    <h1 class="bd-title">Tema {tema.data.tema}</h1>
+    <p class="bd-subtitle mb-0">{tema.data.titulo}</p>
+  </div>
+  <div class="bd-content tema-content ps-lg-2">
+    <Content />
+  </div>
 </Layout>
