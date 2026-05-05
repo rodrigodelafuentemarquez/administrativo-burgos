@@ -100,14 +100,14 @@
   {
     "id": "t07-p008",
     "tema": 7,
-    "pregunta": "¿Qué entidad financia el Fondo de Compensación Interterritorial, según el Tema 7?",
+    "pregunta": "¿Cuál es la finalidad del Fondo de Compensación Interterritorial, según el Tema 7?",
     "opciones": [
-      "La sanidad autonómica",
       "La corrección de desequilibrios económicos interterritoriales",
+      "La financiación directa de la sanidad autonómica",
       "El funcionamiento de las Diputaciones Provinciales",
       "La financiación de los partidos políticos"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "explicacion": "El tema indica que el FCI sirve para corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad.",
     "referencia": "Tema 7, 5. La financiación autonómica (arts. 156-158 CE)"
   },
