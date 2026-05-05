@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t38-p001",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, Word 365 es...",
+    "opciones": [
+      "un procesador de texto",
+      "una base de datos relacional",
+      "un navegador web",
+      "un sistema operativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define así.",
+    "referencia": "Tema 38, 1.1 Qué es Word 365"
+  },
+  {
+    "id": "t38-p002",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, en la interfaz de Word aparece la...",
+    "opciones": [
+      "cinta de opciones (Ribbon)",
+      "barra de direcciones",
+      "lista global de direcciones",
+      "pila de protocolos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera la cinta de opciones como elemento principal.",
+    "referencia": "Tema 38, 1.2 La interfaz de Word 365"
+  },
+  {
+    "id": "t38-p003",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, un estilo de Word es...",
+    "opciones": [
+      "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
+      "una tabla dinámica",
+      "un archivo .accdb",
+      "un protocolo de internet"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define así los estilos.",
+    "referencia": "Tema 38, 2.4 Estilos"
+  },
+  {
+    "id": "t38-p004",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, la tabla de contenido se genera automáticamente a partir de...",
+    "opciones": [
+      "los estilos de Título aplicados al documento",
+      "las notas al pie",
+      "la fecha de creación",
+      "los comentarios"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo indica expresamente.",
+    "referencia": "Tema 38, 2.10 Tabla de contenido"
+  },
+  {
+    "id": "t38-p005",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, el seguimiento de cambios sirve para...",
+    "opciones": [
+      "registrar todas las modificaciones del documento",
+      "eliminar automáticamente errores",
+      "cambiar el idioma",
+      "comprimir archivos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como herramienta de revisión colaborativa.",
+    "referencia": "Tema 38, 2.13 Seguimiento de cambios y comentarios"
+  },
+  {
+    "id": "t38-p006",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, combinar correspondencia permite generar...",
+    "opciones": [
+      "documentos personalizados en serie a partir de un documento base y una fuente de datos",
+      "solo gráficos estadísticos",
+      "únicamente fórmulas automáticas",
+      "bases de datos relacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo explica así.",
+    "referencia": "Tema 38, 2.14 Combinar correspondencia"
+  },
+  {
+    "id": "t38-p007",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, un formato de guardado de Word es...",
+    "opciones": [
+      ".docx",
+      ".mdb",
+      ".pptx",
+      ".html solo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera .docx entre los formatos principales.",
+    "referencia": "Tema 38, 3.1 Guardar documentos"
+  },
+  {
+    "id": "t38-p008",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, la impresión de documentos se gestiona desde...",
+    "opciones": [
+      "Archivo → Imprimir",
+      "Insertar → Tabla",
+      "Revisar → Idioma",
+      "Vista → Zoom"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa ahí la impresión.",
+    "referencia": "Tema 38, 3.3 Impresión de documentos"
+  },
+  {
+    "id": "t38-p009",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, las opciones de Word se encuentran en...",
+    "opciones": [
+      "Archivo → Opciones",
+      "Inicio → Nuevo",
+      "Vista → Reglas",
+      "Referencias → Citas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema ubica la personalización en Archivo → Opciones.",
+    "referencia": "Tema 38, 4.1 Opciones de Word"
+  },
+  {
+    "id": "t38-p010",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, Excel 365 es...",
+    "opciones": [
+      "una hoja de cálculo",
+      "un procesador de texto",
+      "un cliente de correo",
+      "un sistema operativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define como hoja de cálculo.",
+    "referencia": "Tema 38, 5.1 Qué es Excel 365"
+  },
+  {
+    "id": "t38-p011",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, el libro de Excel está compuesto por...",
+    "opciones": [
+      "hojas de cálculo",
+      "párrafos",
+      "nodos",
+      "mensajes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue el libro y sus hojas.",
+    "referencia": "Tema 38, 6.1 El libro de Excel / 6.2 Las hojas de cálculo"
+  },
+  {
+    "id": "t38-p012",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, una referencia relativa en Excel...",
+    "opciones": [
+      "se ajusta al copiar una fórmula",
+      "permanece fija siempre",
+      "solo existe en Word",
+      "no puede usarse en fórmulas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema trata las referencias a celdas en las fórmulas.",
+    "referencia": "Tema 38, 9.2 Referencias a celdas"
+  },
+  {
+    "id": "t38-p013",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, una función principal de Excel es...",
+    "opciones": [
+      "SUMA",
+      "CERTIFICADO",
+      "NOTIFICACIÓN",
+      "CIRCULAR"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye funciones principales en el apartado de fórmulas y funciones.",
+    "referencia": "Tema 38, 9.3 Funciones principales"
+  },
+  {
+    "id": "t38-p014",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, los gráficos en Excel sirven para...",
+    "opciones": [
+      "representar visualmente datos",
+      "firmar documentos",
+      "organizar el correo",
+      "crear macros de Word"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema dedica un apartado a los gráficos.",
+    "referencia": "Tema 38, 10. Gráficos en Excel"
+  },
+  {
+    "id": "t38-p015",
+    "tema": 38,
+    "pregunta": "Según el Tema 38, las tablas dinámicas se estudian dentro de...",
+    "opciones": [
+      "gestión de datos en Excel",
+      "gestión de correo",
+      "personalización de Word",
+      "copias de seguridad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema las incluye en la gestión de datos.",
+    "referencia": "Tema 38, 11.4 Tablas dinámicas (PivotTable)"
+  }
+]

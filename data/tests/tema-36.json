@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t36-p001",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, la informática es...",
+    "opciones": [
+      "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
+      "el conjunto de normas de archivo",
+      "la gestión de contratos públicos",
+      "el estudio de la legislación laboral"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema da esa definición básica.",
+    "referencia": "Tema 36, 1.1 Qué es la informática"
+  },
+  {
+    "id": "t36-p002",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, una característica fundamental del ordenador es la...",
+    "opciones": [
+      "velocidad",
+      "inalienabilidad",
+      "prescripción",
+      "publicidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera la velocidad entre sus rasgos fundamentales.",
+    "referencia": "Tema 36, 1.1 Qué es la informática"
+  },
+  {
+    "id": "t36-p003",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, la arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y...",
+    "opciones": [
+      "bus",
+      "archivo central",
+      "navegador",
+      "monitor táctil obligatorio"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el bus entre los elementos de la arquitectura.",
+    "referencia": "Tema 36, 2.2 La arquitectura von Neumann"
+  },
+  {
+    "id": "t36-p004",
+    "tema": 36,
+    "pregunta": "La CPU, según el Tema 36, es...",
+    "opciones": [
+      "el cerebro del ordenador",
+      "la unidad de respaldo externo",
+      "el sistema de impresión",
+      "el programa de correo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
+    "referencia": "Tema 36, 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+  },
+  {
+    "id": "t36-p005",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, la RAM es una memoria...",
+    "opciones": [
+      "volátil",
+      "permanente",
+      "solo óptica",
+      "inembargable"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como volátil.",
+    "referencia": "Tema 36, 2.3.2 La memoria RAM"
+  },
+  {
+    "id": "t36-p006",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, la ROM alberga el firmware del sistema, en particular...",
+    "opciones": [
+      "la BIOS o la UEFI",
+      "el navegador web",
+      "el gestor de correo",
+      "las hojas de cálculo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo sitúa en la ROM.",
+    "referencia": "Tema 36, 2.3.3 La memoria ROM"
+  },
+  {
+    "id": "t36-p007",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, la placa base incorpora el...",
+    "opciones": [
+      "chipset",
+      "Panel de control",
+      "Explorador",
+      "Sistema de archivos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo identifica como conjunto de circuitos de comunicación.",
+    "referencia": "Tema 36, 2.3.4 La placa base (motherboard)"
+  },
+  {
+    "id": "t36-p008",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, la GPU es el componente responsable del...",
+    "opciones": [
+      "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
+      "almacenamiento masivo de archivos",
+      "control tributario",
+      "cifrado de correos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define así.",
+    "referencia": "Tema 36, 2.3.5 La tarjeta gráfica (GPU)"
+  },
+  {
+    "id": "t36-p009",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, los periféricos de entrada permiten...",
+    "opciones": [
+      "introducir datos o instrucciones en el ordenador",
+      "solo mostrar imágenes",
+      "únicamente guardar copias",
+      "cambiar el sistema operativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define por esa función.",
+    "referencia": "Tema 36, 2.4.1 Periféricos de entrada"
+  },
+  {
+    "id": "t36-p010",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, el bus de datos...",
+    "opciones": [
+      "transporta los datos entre CPU, memoria y periféricos",
+      "define los permisos de usuario",
+      "almacena el sistema operativo",
+      "convierte la corriente eléctrica"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema le atribuye esa función.",
+    "referencia": "Tema 36, 2.5 Los buses del sistema"
+  },
+  {
+    "id": "t36-p011",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, el software de sistema incluye...",
+    "opciones": [
+      "el sistema operativo y los controladores",
+      "solo los documentos PDF",
+      "únicamente el correo electrónico",
+      "solo las bases de datos relacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo indica entre las categorías.",
+    "referencia": "Tema 36, 3.2.1 Software de sistema (o software base)"
+  },
+  {
+    "id": "t36-p012",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, el software libre permite...",
+    "opciones": [
+      "usar, copiar, distribuir, estudiar y modificar el software",
+      "solo usarlo sin copiar",
+      "únicamente visualizarlo",
+      "instalarlo en un solo equipo sin más"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define por esas libertades.",
+    "referencia": "Tema 36, 3.3 Clasificación del software según su licencia"
+  },
+  {
+    "id": "t36-p013",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, un sistema operativo es...",
+    "opciones": [
+      "el software base que administra los recursos del hardware y permite la ejecución de aplicaciones",
+      "una periferia de salida",
+      "un archivo comprimido",
+      "un navegador web"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema desarrolla esa función en el apartado 4.",
+    "referencia": "Tema 36, 4.1 Concepto y funciones"
+  },
+  {
+    "id": "t36-p014",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, el Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de...",
+    "opciones": [
+      "seguridad informática en el sector público",
+      "contabilidad local",
+      "archivos históricos",
+      "contratación pública"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo cita en la referencia normativa.",
+    "referencia": "Tema 36, Referencia normativa"
+  },
+  {
+    "id": "t36-p015",
+    "tema": 36,
+    "pregunta": "Según el Tema 36, los dispositivos IoT son...",
+    "opciones": [
+      "objetos cotidianos con capacidad de conexión y procesamiento",
+      "solo servidores de alta gama",
+      "únicamente monitores",
+      "programas de diseño gráfico"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define como objetos cotidianos conectados.",
+    "referencia": "Tema 36, 1.2 Tipos de ordenadores"
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t31-p001",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, el registro es el instrumento administrativo mediante el cual las Administraciones dejan constancia fehaciente de...",
+    "opciones": [
+      "la entrada y salida de documentos, solicitudes, escritos y comunicaciones",
+      "la composición del Pleno",
+      "la nómina del personal",
+      "la aprobación de reglamentos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define así el registro.",
+    "referencia": "Tema 31, 1.1 Concepto"
+  },
+  {
+    "id": "t31-p002",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, el Registro General debe complementarse con...",
+    "opciones": [
+      "Registros Auxiliares",
+      "Comisiones Informativas",
+      "Oficinas de recaudación",
+      "Libretas de direcciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema prevé registros auxiliares bajo dependencia del general.",
+    "referencia": "Tema 31, 1.2 El Registro General y los Registros Auxiliares"
+  },
+  {
+    "id": "t31-p003",
+    "tema": 31,
+    "pregunta": "Una función del registro, según el Tema 31, es...",
+    "opciones": [
+      "la distribución de los documentos recibidos hacia las unidades competentes",
+      "la aprobación de presupuestos",
+      "la emisión de sentencias",
+      "la contratación de personal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge la función de distribución.",
+    "referencia": "Tema 31, 1.3 Funciones del Registro"
+  },
+  {
+    "id": "t31-p004",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, el Registro Electrónico General está disponible...",
+    "opciones": [
+      "las 24 horas del día, los 365 días del año",
+      "solo en horario de oficina",
+      "únicamente en días hábiles",
+      "solo por la mañana"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala disponibilidad permanente.",
+    "referencia": "Tema 31, 2.2 Funcionamiento del registro electrónico"
+  },
+  {
+    "id": "t31-p005",
+    "tema": 31,
+    "pregunta": "Los documentos presentados en un día inhábil, según el Tema 31, se entienden presentados...",
+    "opciones": [
+      "el primer día hábil siguiente",
+      "ese mismo día a las 12:00",
+      "al siguiente mes",
+      "el día que indique el interesado"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija esa regla general.",
+    "referencia": "Tema 31, 2.2 Funcionamiento del registro electrónico"
+  },
+  {
+    "id": "t31-p006",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, la sede electrónica es...",
+    "opciones": [
+      "la dirección electrónica de titularidad de una Administración Pública",
+      "un archivo histórico",
+      "un registro auxiliar en papel",
+      "una oficina de correos digital"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como dirección electrónica de la Administración.",
+    "referencia": "Tema 31, 2.3 La Sede Electrónica"
+  },
+  {
+    "id": "t31-p007",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, una de las vías de presentación es...",
+    "opciones": [
+      "el Registro Electrónico de la Administración a la que se dirige el documento",
+      "solo el correo certificado",
+      "únicamente el BOE",
+      "solo la ventanilla del secretario"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el registro electrónico del órgano destinatario.",
+    "referencia": "Tema 31, 3.1 Lugares de presentación (art. 16.4 LPACAP)"
+  },
+  {
+    "id": "t31-p008",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, están obligadas a relacionarse electrónicamente con la Administración, entre otros, las...",
+    "opciones": [
+      "personas jurídicas",
+      "personas físicas en todo caso",
+      "personas menores de edad siempre",
+      "entidades deportivas sin ánimo de lucro en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo impone a las personas jurídicas.",
+    "referencia": "Tema 31, 3.2 Obligación de relacionarse electrónicamente con la Administración"
+  },
+  {
+    "id": "t31-p009",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, los escritos y solicitudes deben incluir, entre otros, ...",
+    "opciones": [
+      "hechos, razones y petición",
+      "solo el título del expediente",
+      "únicamente el DNI del interesado",
+      "la firma del alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige esos tres elementos de contenido.",
+    "referencia": "Tema 31, 3.3 Requisitos formales de los escritos y solicitudes"
+  },
+  {
+    "id": "t31-p010",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, la presentación de documentos por personas físicas en soporte papel se mantiene...",
+    "opciones": [
+      "cuando no estén obligadas a relacionarse electrónicamente",
+      "solo en procedimientos sancionadores",
+      "solo si lo autoriza el interventor",
+      "nunca"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reserva la posibilidad a quienes no estén obligados electrónicamente.",
+    "referencia": "Tema 31, 3.5 Presentación de documentos por personas físicas en soporte papel"
+  },
+  {
+    "id": "t31-p011",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, la notificación es el acto mediante el cual la Administración pone en conocimiento del interesado...",
+    "opciones": [
+      "el contenido de un acto administrativo que le afecta",
+      "el presupuesto general",
+      "la plantilla de personal",
+      "la orden del día"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema diferencia notificación y comunicación.",
+    "referencia": "Tema 31, 5.1 Concepto y distinción"
+  },
+  {
+    "id": "t31-p012",
+    "tema": 31,
+    "pregunta": "Toda notificación, según el Tema 31, debe contener...",
+    "opciones": [
+      "el texto íntegro y los recursos que procedan",
+      "solo el nombre del alcalde",
+      "únicamente la fecha de emisión",
+      "solo la firma del notificante"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige texto íntegro, recursos y plazos.",
+    "referencia": "Tema 31, 5.2.3 Contenido de la notificación"
+  },
+  {
+    "id": "t31-p013",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, si transcurren 10 días naturales sin acceder a una notificación electrónica, esta se entiende...",
+    "opciones": [
+      "rechazada",
+      "estimada",
+      "suspendida",
+      "caducada sin efectos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija el rechazo por inactividad.",
+    "referencia": "Tema 31, 5.2.4 Medios de notificación"
+  },
+  {
+    "id": "t31-p014",
+    "tema": 31,
+    "pregunta": "La notificación infructuosa, según el Tema 31, puede sustituirse por publicación en el...",
+    "opciones": [
+      "BOE a través del TEU",
+      "BOP únicamente",
+      "tablón del juzgado",
+      "Diario Oficial de la Unión Europea"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica el BOE/TEU como cauce edictal.",
+    "referencia": "Tema 31, 5.2.5 Notificación infructuosa y notificación edictal"
+  },
+  {
+    "id": "t31-p015",
+    "tema": 31,
+    "pregunta": "Según el Tema 31, el principio de ventanilla única permite que el ciudadano presente documentos en...",
+    "opciones": [
+      "el registro de cualquier Administración Pública aunque vayan dirigidos a otra",
+      "solo la sede de la Administración destinataria",
+      "únicamente el registro municipal de su domicilio",
+      "el portal de transparencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define así.",
+    "referencia": "Tema 31, 6. El principio de ventanilla única"
+  }
+]

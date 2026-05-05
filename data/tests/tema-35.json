@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t35-p001",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el art. 13 LPACAP reconoce el derecho de las personas a...",
+    "opciones": [
+      "comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico",
+      "aplicar sanciones a los funcionarios",
+      "aprobar presupuestos",
+      "dictar reglamentos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo enumera entre los derechos del catálogo general.",
+    "referencia": "Tema 35, 1.2 El catálogo general de derechos (art. 13 LPACAP)"
+  },
+  {
+    "id": "t35-p002",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, los ciudadanos tienen derecho a ser asistidos en el uso de medios electrónicos porque...",
+    "opciones": [
+      "nadie quede excluido por carecer de medios o conocimientos suficientes",
+      "solo los funcionarios pueden usar internet",
+      "los ciudadanos no pueden actuar por sí mismos",
+      "la administración electrónica es obligatoria sin apoyo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo vincula a la inclusión digital.",
+    "referencia": "Tema 35, 1.2 El catálogo general de derechos (art. 13 LPACAP)"
+  },
+  {
+    "id": "t35-p003",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, los interesados pueden conocer en cualquier momento...",
+    "opciones": [
+      "el estado de tramitación de los procedimientos en los que tengan la condición de interesado",
+      "solo el presupuesto del órgano gestor",
+      "únicamente la nómina del alcalde",
+      "las conversaciones internas de otros procedimientos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo reconoce en el art. 53 LPACAP.",
+    "referencia": "Tema 35, 1.3 Derechos específicos en el procedimiento administrativo (art. 53 LPACAP)"
+  },
+  {
+    "id": "t35-p004",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, los interesados pueden no presentar documentos que...",
+    "opciones": [
+      "ya se encuentren en poder de las Administraciones Públicas o hayan sido elaborados por éstas",
+      "sean escritos en letra pequeña",
+      "estén en papel y no en digital",
+      "contengan firmas manuscritas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge esa dispensa documental.",
+    "referencia": "Tema 35, 1.3 Derechos específicos en el procedimiento administrativo (art. 53 LPACAP)"
+  },
+  {
+    "id": "t35-p005",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el interesado es...",
+    "opciones": [
+      "la persona física o jurídica que ostenta una posición jurídica reconocida en el procedimiento administrativo",
+      "solo quien presenta una demanda judicial",
+      "únicamente el funcionario tramitador",
+      "todo ciudadano con DNI"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema da esa definición de interesado.",
+    "referencia": "Tema 35, 2.1 Concepto de interesado"
+  },
+  {
+    "id": "t35-p006",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, la representación ante la Administración puede acreditarse mediante...",
+    "opciones": [
+      "apoderamiento apud acta, escritura pública o documento privado con firma legitimada",
+      "solo mediante notario y testigos en todo caso",
+      "únicamente por SMS",
+      "solo mediante comparecencia judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esas vías de acreditación.",
+    "referencia": "Tema 35, 2.4 La representación"
+  },
+  {
+    "id": "t35-p007",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, si el representante no acredita la representación, la Administración debe requerirle para que lo haga en un plazo de...",
+    "opciones": [
+      "10 días hábiles",
+      "24 horas",
+      "1 mes",
+      "5 días naturales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija ese plazo de subsanación.",
+    "referencia": "Tema 35, 2.4 La representación"
+  },
+  {
+    "id": "t35-p008",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el trámite de audiencia permite a los interesados...",
+    "opciones": [
+      "pronunciarse sobre el contenido del expediente antes de la resolución",
+      "aprobar el presupuesto",
+      "nombrar al órgano instructor",
+      "convertir el expediente en edicto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define así.",
+    "referencia": "Tema 35, 3.2 La audiencia de los interesados (art. 82 LPACAP)"
+  },
+  {
+    "id": "t35-p009",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el plazo mínimo del trámite de audiencia es de...",
+    "opciones": [
+      "10 días hábiles",
+      "3 días hábiles",
+      "1 mes",
+      "48 horas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica ese plazo mínimo.",
+    "referencia": "Tema 35, 3.2 La audiencia de los interesados (art. 82 LPACAP)"
+  },
+  {
+    "id": "t35-p010",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el trámite de información pública permite alegar a...",
+    "opciones": [
+      "cualquier ciudadano, no solo a los interesados directos",
+      "solo al representante legal",
+      "únicamente a los funcionarios del órgano",
+      "solo al presidente de la corporación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala que no se limita a interesados directos.",
+    "referencia": "Tema 35, 3.3 La información pública (art. 83 LPACAP)"
+  },
+  {
+    "id": "t35-p011",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, la participación en la elaboración de normas reglamentarias incluye una consulta pública previa sobre...",
+    "opciones": [
+      "la necesidad y oportunidad de la norma, sus objetivos y alternativas",
+      "la nómina de personal",
+      "los tributos municipales",
+      "el horario de registro"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge esa consulta previa.",
+    "referencia": "Tema 35, 3.4 La participación en la elaboración de normas reglamentarias"
+  },
+  {
+    "id": "t35-p012",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, la iniciativa legislativa popular exige al menos...",
+    "opciones": [
+      "500.000 firmas acreditadas",
+      "50.000 firmas",
+      "1.000 firmas",
+      "100.000 firmas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema cita ese número constitucional.",
+    "referencia": "Tema 35, 3.5 La iniciativa legislativa popular y la petición"
+  },
+  {
+    "id": "t35-p013",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el derecho de petición...",
+    "opciones": [
+      "obliga a acusar recibo e informar del resultado, pero no garantiza resolución favorable",
+      "equivale a una demanda judicial",
+      "sirve para dictar reglamentos",
+      "solo puede ejercerse por funcionarios"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema explica su alcance.",
+    "referencia": "Tema 35, 3.5 La iniciativa legislativa popular y la petición"
+  },
+  {
+    "id": "t35-p014",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, el art. 18 LRBRL reconoce a los vecinos el derecho a...",
+    "opciones": [
+      "ser elector y elegible en las elecciones municipales",
+      "nombrar al Presidente de la Diputación",
+      "sustituir al Pleno",
+      "vetar el presupuesto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo recoge como derecho del vecino.",
+    "referencia": "Tema 35, 4.2 Derechos de los vecinos (art. 18 LRBRL)"
+  },
+  {
+    "id": "t35-p015",
+    "tema": 35,
+    "pregunta": "Según el Tema 35, los ciudadanos tienen derecho a ser asistidos en el uso de medios electrónicos mediante...",
+    "opciones": [
+      "asistencia presencial y electrónica por la Administración",
+      "solo videoconferencia privada",
+      "la intervención exclusiva de un gestor privado",
+      "el uso obligatorio de papel"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo conecta con la asistencia garantizada por la Administración.",
+    "referencia": "Tema 35, 1.2 El catálogo general de derechos (art. 13 LPACAP)"
+  }
+]
