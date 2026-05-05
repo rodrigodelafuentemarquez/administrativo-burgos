@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t11-p001",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, ¿qué regula el Derecho Administrativo?",
+    "opciones": [
+      "Solo las relaciones entre particulares",
+      "La organización, funcionamiento, potestades y actividad de las Administraciones Públicas",
+      "Únicamente los contratos privados",
+      "Solo el procedimiento penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define el Derecho Administrativo como la rama que regula organización, funcionamiento, potestades y actividad administrativa.",
+    "referencia": "Tema 11, 1.1 Concepto"
+  },
+  {
+    "id": "t11-p002",
+    "tema": 11,
+    "pregunta": "¿Qué carácter atribuye el Tema 11 al Derecho Administrativo cuando lo define como propio de las Administraciones Públicas?",
+    "opciones": [
+      "Civilista",
+      "Estatutario",
+      "Mercantil",
+      "Penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica expresamente que el Derecho Administrativo es estatutario.",
+    "referencia": "Tema 11, 1.1 Concepto"
+  },
+  {
+    "id": "t11-p003",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, la Administración está sometida en todo momento a...",
+    "opciones": [
+      "la costumbre y la jurisprudencia",
+      "la ley y el Derecho",
+      "los reglamentos y las circulares",
+      "la discrecionalidad política"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge el principio de legalidad proclamado en los arts. 9.1 y 103.1 CE.",
+    "referencia": "Tema 11, 1.2 El principio de legalidad"
+  },
+  {
+    "id": "t11-p004",
+    "tema": 11,
+    "pregunta": "¿Qué orden ocupa la Constitución en la jerarquía normativa expuesta en el Tema 11?",
+    "opciones": [
+      "Primer rango",
+      "Segundo rango",
+      "Tercer rango",
+      "Quinto rango"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa la Constitución en la cúspide del orden jerárquico.",
+    "referencia": "Tema 11, 2.2 La jerarquía normativa"
+  },
+  {
+    "id": "t11-p005",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, ¿qué rango ocupan los reglamentos en el orden jerárquico?",
+    "opciones": [
+      "Segundo",
+      "Cuarto",
+      "Quinto",
+      "Sexto"
+    ],
+    "correcta": 2,
+    "explicacion": "El esquema del tema sitúa los reglamentos por debajo de leyes y normas con rango de ley.",
+    "referencia": "Tema 11, 2.2 La jerarquía normativa"
+  },
+  {
+    "id": "t11-p006",
+    "tema": 11,
+    "pregunta": "¿Qué característica destaca el Tema 11 sobre la eficacia de la Constitución?",
+    "opciones": [
+      "Es solo programática",
+      "Es directamente aplicable",
+      "Depende siempre de una ley de desarrollo",
+      "No vincula a los poderes públicos"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya la eficacia directa de la Constitución.",
+    "referencia": "Tema 11, 3.2 Eficacia directa"
+  },
+  {
+    "id": "t11-p007",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, el decreto-ley puede dictarse en casos de...",
+    "opciones": [
+      "interés general ordinario",
+      "extraordinaria y urgente necesidad",
+      "reforma constitucional agravada",
+      "conveniencia política del Gobierno"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema identifica la extraordinaria y urgente necesidad como presupuesto del decreto-ley.",
+    "referencia": "Tema 11, 5.1 Decreto-ley (art. 86 CE)"
+  },
+  {
+    "id": "t11-p008",
+    "tema": 11,
+    "pregunta": "¿En qué plazo debe pronunciarse el Congreso sobre un decreto-ley según el Tema 11?",
+    "opciones": [
+      "15 días",
+      "20 días",
+      "30 días",
+      "2 meses"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema señala el plazo de 30 días para convalidar, derogar o tramitar como proyecto de ley.",
+    "referencia": "Tema 11, 5.1 Decreto-ley (art. 86 CE)"
+  },
+  {
+    "id": "t11-p009",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, el decreto legislativo responde a...",
+    "opciones": [
+      "una urgencia política",
+      "una delegación expresa de las Cortes Generales",
+      "un poder originario del Gobierno",
+      "una iniciativa popular"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo define como norma con rango de ley dictada por el Gobierno en virtud de delegación de las Cortes.",
+    "referencia": "Tema 11, 5.2 Decreto legislativo (arts. 82-85 CE)"
+  },
+  {
+    "id": "t11-p010",
+    "tema": 11,
+    "pregunta": "¿Qué tipo de reglamento desarrolla y complementa una ley preexistente según el Tema 11?",
+    "opciones": [
+      "Independiente",
+      "Ejecutivo",
+      "De necesidad",
+      "De urgencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que los reglamentos ejecutivos desarrollan una ley y requieren dictamen obligatorio del Consejo de Estado.",
+    "referencia": "Tema 11, 6.3 Clases de reglamentos"
+  },
+  {
+    "id": "t11-p011",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, un reglamento contrario a una ley es...",
+    "opciones": [
+      "válido si fue aprobado por el órgano competente",
+      "nulo de pleno derecho",
+      "solo anulable si hay perjuicio económico",
+      "válido hasta que lo derogue otra norma reglamentaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema afirma que un reglamento contra legem es nulo.",
+    "referencia": "Tema 11, 6.4 Límites del poder reglamentario"
+  },
+  {
+    "id": "t11-p012",
+    "tema": 11,
+    "pregunta": "¿Qué trámite previo incluye el procedimiento de elaboración de reglamentos del Tema 11?",
+    "opciones": [
+      "Consulta pública previa",
+      "Suplicatorio parlamentario",
+      "Iniciativa legislativa popular",
+      "Veto del Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona la consulta pública previa como primer paso salvo excepciones.",
+    "referencia": "Tema 11, 6.5 Procedimiento de elaboración de reglamentos"
+  },
+  {
+    "id": "t11-p013",
+    "tema": 11,
+    "pregunta": "¿Qué fuente del Derecho tiene aplicación muy limitada en el Derecho Administrativo según el Tema 11?",
+    "opciones": [
+      "La ley",
+      "La costumbre",
+      "La Constitución",
+      "El reglamento"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la costumbre tiene aplicación muy residual en Derecho Administrativo.",
+    "referencia": "Tema 11, 7.1 La costumbre"
+  },
+  {
+    "id": "t11-p014",
+    "tema": 11,
+    "pregunta": "Según el Tema 11, la jurisprudencia del Tribunal Supremo...",
+    "opciones": [
+      "es fuente formal directa y obliga normativamente",
+      "complementa el ordenamiento jurídico, pero no es formalmente fuente",
+      "solo se aplica a las CC.AA.",
+      "deroga las leyes"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge que la jurisprudencia complementa el ordenamiento, pero no es formalmente fuente.",
+    "referencia": "Tema 11, 7.3 La jurisprudencia"
+  },
+  {
+    "id": "t11-p015",
+    "tema": 11,
+    "pregunta": "¿Qué principio del art. 9.3 CE menciona el Tema 11 junto con la publicidad de las normas y la seguridad jurídica?",
+    "opciones": [
+      "La discrecionalidad administrativa",
+      "La jerarquía normativa",
+      "La potestad sancionadora",
+      "La delegación legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE.",
+    "referencia": "Tema 11, 1.2 El principio de legalidad"
+  }
+]

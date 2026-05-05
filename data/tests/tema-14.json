@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t14-p001",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, la LRJSP regula principalmente...",
+    "opciones": [
+      "solo el procedimiento administrativo",
+      "los principios de actuación, la organización administrativa y las relaciones interadministrativas",
+      "únicamente el régimen electoral",
+      "la jurisdicción penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema resume ese contenido central de la LRJSP.",
+    "referencia": "Tema 14, 1.1 Contexto y estructura"
+  },
+  {
+    "id": "t14-p002",
+    "tema": 14,
+    "pregunta": "¿Qué título de la LRJSP regula los órganos de las Administraciones Públicas según el Tema 14?",
+    "opciones": [
+      "Título I",
+      "Título II",
+      "Título III",
+      "Título V"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye a ese título la regulación de los órganos.",
+    "referencia": "Tema 14, 1.1 Contexto y estructura"
+  },
+  {
+    "id": "t14-p003",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, un órgano administrativo es una unidad funcional dotada de...",
+    "opciones": [
+      "competencias propias atribuidas por el ordenamiento",
+      "personalidad jurídica propia",
+      "poder legislativo",
+      "jurisdicción propia"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define el órgano por la competencia propia atribuida por el ordenamiento.",
+    "referencia": "Tema 14, 2.1 Concepto de órgano administrativo"
+  },
+  {
+    "id": "t14-p004",
+    "tema": 14,
+    "pregunta": "¿Qué medio de creación de órganos menciona el Tema 14 para órganos de nivel superior o directivo?",
+    "opciones": [
+      "Orden Ministerial",
+      "Real Decreto del Consejo de Ministros",
+      "Ley orgánica",
+      "Acuerdo de la Junta de Portavoces"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos.",
+    "referencia": "Tema 14, 2.2 Creación, modificación y supresión de órganos"
+  },
+  {
+    "id": "t14-p005",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, los órganos colegiados requieren al menos la presencia de...",
+    "opciones": [
+      "Presidente y Secretario, más la mitad de sus miembros",
+      "dos tercios de sus miembros",
+      "solo el Presidente y el Secretario",
+      "todos sus miembros sin excepción"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija ese quórum para la constitución válida.",
+    "referencia": "Tema 14, 2.4 Funcionamiento de los órganos colegiados"
+  },
+  {
+    "id": "t14-p006",
+    "tema": 14,
+    "pregunta": "¿Qué plazo mínimo menciona el Tema 14 para la convocatoria de órganos colegiados, salvo urgencia?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "15 días hábiles"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala un mínimo de 48 horas salvo urgencia.",
+    "referencia": "Tema 14, 2.4 Funcionamiento de los órganos colegiados"
+  },
+  {
+    "id": "t14-p007",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, la abstención de una autoridad o empleado público es...",
+    "opciones": [
+      "opcional",
+      "obligatoria cuando concurre una causa legal",
+      "solo aconsejable",
+      "decidida por el interesado"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo presenta como deber obligatorio.",
+    "referencia": "Tema 14, 2.5 La abstención y la recusación"
+  },
+  {
+    "id": "t14-p008",
+    "tema": 14,
+    "pregunta": "¿Qué principio interadministrativo destaca el Tema 14 como deber de respetar competencias ajenas?",
+    "opciones": [
+      "Lealtad institucional",
+      "Inviolabilidad",
+      "Suplencia",
+      "Nulidad radical"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo identifica como principio rector de las relaciones interadministrativas.",
+    "referencia": "Tema 14, 3.1 Concepto y principios generales"
+  },
+  {
+    "id": "t14-p009",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, las conferencias sectoriales son órganos de...",
+    "opciones": [
+      "cooperación multilateral de composición sectorial",
+      "control jurisdiccional",
+      "dirección jerárquica entre Administraciones",
+      "recurso administrativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA.",
+    "referencia": "Tema 14, 3.2.2 Las Conferencias Sectoriales"
+  },
+  {
+    "id": "t14-p010",
+    "tema": 14,
+    "pregunta": "¿Qué duración máxima tienen los convenios de colaboración según el Tema 14?",
+    "opciones": [
+      "2 años",
+      "3 años",
+      "4 años",
+      "10 años"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema señala una duración máxima de 4 años, prorrogable.",
+    "referencia": "Tema 14, 3.2.4 Los convenios de colaboración"
+  },
+  {
+    "id": "t14-p011",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, un conflicto de competencia entre Estado y CC.AA. puede plantearse ante...",
+    "opciones": [
+      "el Tribunal Constitucional",
+      "el Tribunal Supremo en casación",
+      "el Consejo de Estado",
+      "el Congreso de los Diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema remite a los conflictos de competencia ante el TC.",
+    "referencia": "Tema 14, 3.4 Conflictos interadministrativos"
+  },
+  {
+    "id": "t14-p012",
+    "tema": 14,
+    "pregunta": "¿Qué artículo permite al Estado subrogarse en competencias de Entidades Locales cuando incumplen sus obligaciones, según el Tema 14?",
+    "opciones": [
+      "Art. 60 LBRL",
+      "Art. 155 CE",
+      "Art. 149.1 CE",
+      "Art. 103 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye esa subrogación al art. 60 LBRL.",
+    "referencia": "Tema 14, 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales"
+  },
+  {
+    "id": "t14-p013",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, la coordinación puede ser...",
+    "opciones": [
+      "solo interna",
+      "solo interadministrativa",
+      "interna e interadministrativa",
+      "exclusivamente judicial"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema distingue ambos planos.",
+    "referencia": "Tema 14, 2.2.4 Coordinación"
+  },
+  {
+    "id": "t14-p014",
+    "tema": 14,
+    "pregunta": "¿Qué principio impide la duplicidad de órganos en la creación administrativa según el Tema 14?",
+    "opciones": [
+      "Principio de no duplicidad",
+      "Principio de especialidad penal",
+      "Principio de autotutela",
+      "Principio de publicidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo menciona expresamente al hablar de creación de órganos.",
+    "referencia": "Tema 14, 2.2 Creación, modificación y supresión de órganos"
+  },
+  {
+    "id": "t14-p015",
+    "tema": 14,
+    "pregunta": "Según el Tema 14, los planes y programas conjuntos son...",
+    "opciones": [
+      "documentos de planificación aprobados conjuntamente para objetivos comunes",
+      "recursos jurisdiccionales",
+      "reglamentos orgánicos de las Cortes",
+      "instrumentos sancionadores"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define como documentos de planificación conjunta.",
+    "referencia": "Tema 14, 3.2.5 Los Planes y Programas conjuntos"
+  }
+]
