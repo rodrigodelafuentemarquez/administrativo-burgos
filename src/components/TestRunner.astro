@@ -15,7 +15,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   const STATS_KEY = 'oposicion-stats-v1';
   const FAILS_KEY = 'oposicion-fallos-v1';
 
-  const limitOptions = [5, 10, 20, 30, 0];
+  const limitOptions = [10, 20, 30, 50, 100];
   let allQuestions = [];
   let selected = [];
 
@@ -95,11 +95,18 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       <div class="test-hero mb-4">
         <span class="test-kicker">Modo práctica</span>
         <h2 class="display-6 mb-2">Configurar test</h2>
-        <p class="text-body-secondary mb-0">Elige tema, número de preguntas y corrige al final. Los fallos se guardan para repetirlos.</p>
+        <p class="text-body-secondary mb-0">Elige uno o varios temas, decide el tamaño del examen y corrige al final. Los fallos se guardan para repetirlos.</p>
       </div>
       <div class="test-config">
         <fieldset class="test-panel">
           <legend class="h5 mb-3">Temas disponibles</legend>
+          <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3">
+            <div class="d-flex flex-wrap gap-2">
+              <button class="btn btn-outline-secondary btn-sm" id="select-all-topics" type="button">Test general</button>
+              <button class="btn btn-outline-secondary btn-sm" id="clear-topics" type="button">Quitar selección</button>
+            </div>
+          </div>
+          <p class="text-body-secondary small mb-3">Puedes mezclar varios temas en un mismo test. "Test general" marca todos los temas disponibles.</p>
           <div class="test-topic-grid">
             ${temas.map((t) => `
               <label class="test-topic-option">
@@ -113,10 +120,23 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         </fieldset>
         <div class="test-panel">
           <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
-          <select class="form-select" id="limit">${limitOptions.map((n) => `<option value="${n}">${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
+          <select class="form-select" id="limit">${limitOptions.map((n) => `<option value="${n}" ${n === 20 ? 'selected' : ''}>${n}</option>`).join('')}</select>
+          <p class="text-body-secondary small mt-2 mb-0">Si no hay suficientes preguntas en los temas elegidos, el test usará todas las disponibles.</p>
           <button class="btn btn-primary btn-lg w-100 mt-3" id="start" type="button">Empezar test</button>
         </div>
       </div>`;
+
+    document.getElementById('select-all-topics')?.addEventListener('click', () => {
+      root.querySelectorAll('input[type=checkbox]').forEach((el) => {
+        el.checked = true;
+      });
+    });
+
+    document.getElementById('clear-topics')?.addEventListener('click', () => {
+      root.querySelectorAll('input[type=checkbox]').forEach((el) => {
+        el.checked = false;
+      });
+    });
 
     document.getElementById('start')?.addEventListener('click', async () => {
       const temaIds = Array.from(root.querySelectorAll('input[type=checkbox]:checked')).map((el) => Number(el.value));
