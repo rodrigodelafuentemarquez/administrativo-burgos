@@ -49,45 +49,58 @@ Los **principios fundamentales** del Estado son:
 
 La Constitución se organiza en:
 
-<div class="study-structure">
-  <div class="structure-item">
-    <span class="structure-badge">Preámbulo</span>
-    <strong>Declaración inicial</strong>
-  </div>
-  <div class="structure-item">
-    <span class="structure-badge">Título Preliminar</span>
-    <strong>Principios básicos del Estado</strong>
-    <small>arts. 1-9</small>
-  </div>
-  <div class="structure-item structure-item-featured">
-    <span class="structure-badge">Título I</span>
-    <strong>De los derechos y deberes fundamentales</strong>
-    <small>arts. 10-55</small>
-    <ul>
-      <li>Cap. I — Españoles y extranjeros (arts. 11-13)</li>
-      <li>Cap. II — Derechos y libertades (arts. 14-38)</li>
-      <li>Sección 1ª — Derechos fundamentales y libertades públicas (arts. 15-29)</li>
-      <li>Sección 2ª — Derechos y deberes de los ciudadanos (arts. 30-38)</li>
-      <li>Cap. III — Principios rectores de la política social y económica (arts. 39-52)</li>
-      <li>Cap. IV — Garantías de las libertades y derechos (arts. 53-54)</li>
-      <li>Cap. V — Suspensión de los derechos y libertades (art. 55)</li>
-    </ul>
-  </div>
-  <div class="structure-grid">
-    <div><span>Título II</span><strong>Corona</strong><small>arts. 56-65</small></div>
-    <div><span>Título III</span><strong>Cortes Generales</strong><small>arts. 66-96</small></div>
-    <div><span>Título IV</span><strong>Gobierno y Administración</strong><small>arts. 97-107</small></div>
-    <div><span>Título V</span><strong>Relaciones Gobierno-Cortes</strong><small>arts. 108-116</small></div>
-    <div><span>Título VI</span><strong>Poder Judicial</strong><small>arts. 117-127</small></div>
-    <div><span>Título VII</span><strong>Economía y Hacienda</strong><small>arts. 128-136</small></div>
-    <div><span>Título VIII</span><strong>Organización territorial</strong><small>arts. 137-158</small></div>
-    <div><span>Título IX</span><strong>Tribunal Constitucional</strong><small>arts. 159-165</small></div>
-    <div><span>Título X</span><strong>Reforma constitucional</strong><small>arts. 166-169</small></div>
-  </div>
-  <div class="structure-item">
-    <span class="structure-badge">Disposiciones</span>
-    <strong>4 adicionales · 9 transitorias · 1 derogatoria · 1 final</strong>
-  </div>
+<div class="study-list">
+  <ul>
+    <li>
+      <strong>Preámbulo</strong>
+      <div class="study-note">Declaración inicial</div>
+    </li>
+    <li>
+      <strong>Título Preliminar</strong> <span class="study-note">(arts. 1-9)</span>
+      <ul>
+        <li>Principios básicos del Estado</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Título I</strong> <span class="study-note">(arts. 10-55)</span>
+      <ul>
+        <li>De los derechos y deberes fundamentales</li>
+        <li>Cap. I: Españoles y extranjeros (arts. 11-13)</li>
+        <li>Cap. II: Derechos y libertades (arts. 14-38)
+          <ul>
+            <li>Sección 1ª: Derechos fundamentales y libertades públicas (arts. 15-29)</li>
+            <li>Sección 2ª: Derechos y deberes de los ciudadanos (arts. 30-38)</li>
+          </ul>
+        </li>
+        <li>Cap. III: Principios rectores de la política social y económica (arts. 39-52)</li>
+        <li>Cap. IV: Garantías de las libertades y derechos (arts. 53-54)</li>
+        <li>Cap. V: Suspensión de los derechos y libertades (art. 55)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Títulos II a X</strong>
+      <ul>
+        <li>Título II: Corona (arts. 56-65)</li>
+        <li>Título III: Cortes Generales (arts. 66-96)</li>
+        <li>Título IV: Gobierno y Administración (arts. 97-107)</li>
+        <li>Título V: Relaciones entre el Gobierno y las Cortes Generales (arts. 108-116)</li>
+        <li>Título VI: Poder Judicial (arts. 117-127)</li>
+        <li>Título VII: Economía y Hacienda (arts. 128-136)</li>
+        <li>Título VIII: Organización territorial del Estado (arts. 137-158)</li>
+        <li>Título IX: Tribunal Constitucional (arts. 159-165)</li>
+        <li>Título X: Reforma constitucional (arts. 166-169)</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Disposiciones</strong>
+      <ul>
+        <li>4 adicionales</li>
+        <li>9 transitorias</li>
+        <li>1 derogatoria</li>
+        <li>1 final</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 > 💡 **Truco de memoria:** El Título Preliminar no tiene número. Los títulos del I al X son los numerados. Recuerda: **I = Derechos; II = Corona; III = Cortes; IV = Gobierno; V = Relaciones Gobierno-Cortes; VI = Poder Judicial; VII = Economía; VIII = Organización territorial; IX = TC; X = Reforma.**
@@ -236,37 +249,41 @@ Una **Ley Orgánica** puede determinar la forma y los casos en que, de forma ind
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-<div class="review-grid">
-  <article>
-    <h4>Características</h4>
-    <ul>
-      <li>Escrita, rígida, extensa y consensuada.</li>
-      <li>Estado social y democrático de Derecho (art. 1.1).</li>
-      <li>Valores: libertad, justicia, igualdad y pluralismo político.</li>
-    </ul>
-  </article>
-  <article>
-    <h4>Estructura</h4>
-    <p>Preámbulo + 10 títulos + disposiciones.</p>
-  </article>
-  <article>
-    <h4>Título I</h4>
-    <ul>
-      <li>Art. 10: dignidad de la persona como fundamento.</li>
-      <li>Cap. I: españoles y extranjeros.</li>
-      <li>Cap. II: igualdad, derechos fundamentales y deberes ciudadanos.</li>
-      <li>Cap. III: principios rectores.</li>
-      <li>Cap. IV: garantías.</li>
-      <li>Cap. V: suspensión.</li>
-    </ul>
-  </article>
-  <article>
-    <h4>Suspensión</h4>
-    <ul>
-      <li>General: estado de excepción y de sitio (art. 55.1).</li>
-      <li>Individual: terrorismo, con control judicial y parlamentario (art. 55.2).</li>
-    </ul>
-  </article>
+<div class="study-list study-list-summary">
+  <ul>
+    <li>
+      <strong>Características</strong>
+      <ul>
+        <li>Escrita, rígida, extensa y consensuada.</li>
+        <li>Estado social y democrático de Derecho (art. 1.1).</li>
+        <li>Valores: libertad, justicia, igualdad y pluralismo político.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Estructura</strong>
+      <ul>
+        <li>Preámbulo + 10 títulos + disposiciones.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Título I</strong>
+      <ul>
+        <li>Art. 10: dignidad de la persona como fundamento.</li>
+        <li>Cap. I: españoles y extranjeros.</li>
+        <li>Cap. II: igualdad, derechos fundamentales y deberes ciudadanos.</li>
+        <li>Cap. III: principios rectores.</li>
+        <li>Cap. IV: garantías.</li>
+        <li>Cap. V: suspensión.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Suspensión</strong>
+      <ul>
+        <li>General: estado de excepción y de sitio (art. 55.1).</li>
+        <li>Individual: terrorismo, con control judicial y parlamentario (art. 55.2).</li>
+      </ul>
+    </li>
+  </ul>
 </div>
 
 ---
