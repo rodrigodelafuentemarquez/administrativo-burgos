@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t23-p001",
+    "tema": 23,
+    "pregunta": "El Tema 23 sitúa el fundamento constitucional de la prevención de riesgos laborales en el...",
+    "opciones": [
+      "art. 40.2 CE y la Directiva 89/391/CEE",
+      "art. 103 CE y el RGPD",
+      "art. 14 CE y la LO 3/2007",
+      "art. 105 CE y la LJCA"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala ese fundamento constitucional y comunitario.",
+    "referencia": "Tema 23, 1.1 Fundamento constitucional y comunitario"
+  },
+  {
+    "id": "t23-p002",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, el objeto de la LPRL es...",
+    "opciones": [
+      "promover la seguridad y la salud de los trabajadores mediante la aplicación de principios preventivos",
+      "regular el régimen sancionador de tráfico",
+      "organizar los tribunales administrativos",
+      "aprobar el presupuesto local"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo formula así en su art. 2.",
+    "referencia": "Tema 23, 1.2 Objeto (art. 2 LPRL)"
+  },
+  {
+    "id": "t23-p003",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, el ámbito subjetivo de la LPRL alcanza a...",
+    "opciones": [
+      "los trabajadores al servicio de empleadores públicos y privados",
+      "solo a los funcionarios de carrera",
+      "solo a los trabajadores autónomos",
+      "únicamente a los menores de edad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema vincula la ley al trabajo prestado para empleadores públicos o privados.",
+    "referencia": "Tema 23, 2.1 Ámbito subjetivo (art. 3 LPRL)"
+  },
+  {
+    "id": "t23-p004",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, una condición de trabajo es...",
+    "opciones": [
+      "cualquier característica del trabajo que pueda influir en la generación de riesgos",
+      "solo el salario mensual",
+      "únicamente la antigüedad del trabajador",
+      "la denominación del puesto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye esa noción entre las definiciones clave.",
+    "referencia": "Tema 23, 3. Definiciones clave (art. 4 LPRL)"
+  },
+  {
+    "id": "t23-p005",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, el INSST es...",
+    "opciones": [
+      "el organismo científico técnico especializado en prevención de riesgos laborales",
+      "la mesa de negociación colectiva",
+      "la oficina de recaudación municipal",
+      "el órgano competente para contratar obras"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como el organismo científico técnico especializado.",
+    "referencia": "Tema 23, 4.2 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)"
+  },
+  {
+    "id": "t23-p006",
+    "tema": 23,
+    "pregunta": "El derecho básico reconocido en el Tema 23 a los trabajadores es el derecho a...",
+    "opciones": [
+      "una protección eficaz frente a los riesgos laborales",
+      "la concesión de subvenciones",
+      "la libre disposición del presupuesto",
+      "la aprobación de las plantillas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo recoge en el art. 14 LPRL.",
+    "referencia": "Tema 23, 5.1 Derecho a la protección frente a los riesgos laborales (art. 14 LPRL)"
+  },
+  {
+    "id": "t23-p007",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, uno de los principios de la acción preventiva es...",
+    "opciones": [
+      "adaptar el trabajo a la persona",
+      "dejar la prevención al azar",
+      "sustituir siempre la formación por sanciones",
+      "priorizar el riesgo sobre la protección"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo enumera expresamente en el art. 15 LPRL.",
+    "referencia": "Tema 23, 6. Principios de la acción preventiva (art. 15 LPRL)"
+  },
+  {
+    "id": "t23-p008",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, la evaluación de riesgos y la planificación de la actividad preventiva se regulan en el...",
+    "opciones": [
+      "art. 16 LPRL",
+      "art. 5 CE",
+      "art. 22 LRJSP",
+      "art. 63 LCSP"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema las sitúa en el art. 16 LPRL.",
+    "referencia": "Tema 23, 7.1 Evaluación de riesgos (art. 16 LPRL)"
+  },
+  {
+    "id": "t23-p009",
+    "tema": 23,
+    "pregunta": "La información a los trabajadores y su formación preventiva, según el Tema 23, se recogen en los...",
+    "opciones": [
+      "arts. 18 y 19 LPRL",
+      "arts. 6 y 7 CE",
+      "arts. 14 y 15 LTBG",
+      "arts. 48 y 49 TREBEP"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye esas materias a los arts. 18 y 19 LPRL.",
+    "referencia": "Tema 23, 7.3 Información a los trabajadores (art. 18 LPRL) / 7.4 Formación de los trabajadores (art. 19 LPRL)"
+  },
+  {
+    "id": "t23-p010",
+    "tema": 23,
+    "pregunta": "La vigilancia de la salud de los trabajadores, según el Tema 23, se regula en el...",
+    "opciones": [
+      "art. 22 LPRL",
+      "art. 105 CE",
+      "art. 20 LPACAP",
+      "art. 162 TRLRHL"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la vincula al art. 22 LPRL.",
+    "referencia": "Tema 23, 7.5 Vigilancia de la salud (art. 22 LPRL)"
+  },
+  {
+    "id": "t23-p011",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, en caso de riesgo grave e inminente el trabajador puede...",
+    "opciones": [
+      "interrumpir su actividad y abandonar el lugar de trabajo",
+      "solicitar un cambio de presupuesto",
+      "suspender el reglamento orgánico",
+      "convertirse en órgano de selección"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge ese derecho en el art. 21 LPRL.",
+    "referencia": "Tema 23, 7.7 Riesgo grave e inminente (art. 21 LPRL)"
+  },
+  {
+    "id": "t23-p012",
+    "tema": 23,
+    "pregunta": "Según el Tema 23, una obligación del trabajador es...",
+    "opciones": [
+      "usar adecuadamente máquinas, herramientas y equipos de protección individual",
+      "aprobar el plan de prevención",
+      "nombrar al delegado de prevención",
+      "redactar el presupuesto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo contempla en el art. 29 LPRL.",
+    "referencia": "Tema 23, 8.1 Usar adecuadamente máquinas, herramientas y EPIs (art. 29.2.1º LPRL)"
+  },
+  {
+    "id": "t23-p013",
+    "tema": 23,
+    "pregunta": "Los Delegados de Prevención, según el Tema 23, son...",
+    "opciones": [
+      "los representantes de los trabajadores con funciones específicas en prevención",
+      "los jefes de servicio de la Diputación",
+      "los interventores de fondos",
+      "los secretarios generales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define como representantes de los trabajadores en prevención.",
+    "referencia": "Tema 23, 9.1 Delegados de Prevención (arts. 35-36 LPRL)"
+  },
+  {
+    "id": "t23-p014",
+    "tema": 23,
+    "pregunta": "El Comité de Seguridad y Salud, según el Tema 23, es...",
+    "opciones": [
+      "un órgano paritario y colegiado de participación en materia preventiva",
+      "un tribunal administrativo de recursos",
+      "un órgano de contratación local",
+      "una comisión de cuentas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta así en el art. 38 LPRL.",
+    "referencia": "Tema 23, 9.2 Comité de Seguridad y Salud (art. 38 LPRL)"
+  },
+  {
+    "id": "t23-p015",
+    "tema": 23,
+    "pregunta": "Los Servicios de Prevención, según el Tema 23, tienen como finalidad...",
+    "opciones": [
+      "asesorar y asistir a la empresa y a los trabajadores en materia preventiva",
+      "tramitar reclamaciones tributarias",
+      "aprobar convenios colectivos",
+      "realizar inspecciones judiciales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los regula en los arts. 31 y 32 LPRL con esa función.",
+    "referencia": "Tema 23, 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)"
+  }
+]

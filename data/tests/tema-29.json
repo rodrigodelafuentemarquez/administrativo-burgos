@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t29-p001",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, el personal laboral al servicio de las Corporaciones Locales se vincula mediante...",
+    "opciones": [
+      "un contrato de trabajo",
+      "una relación estatutaria",
+      "un nombramiento vitalicio",
+      "una concesión administrativa"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo diferencia claramente del funcionario.",
+    "referencia": "Tema 29, 1.1 Concepto y régimen jurídico"
+  },
+  {
+    "id": "t29-p002",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, el personal laboral no puede desempeñar funciones que impliquen...",
+    "opciones": [
+      "participación directa o indirecta en el ejercicio de potestades públicas",
+      "atención al ciudadano",
+      "mantenimiento de instalaciones",
+      "servicios generales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reserva esas funciones a funcionarios de carrera.",
+    "referencia": "Tema 29, 1.2 Posición del personal laboral respecto al funcionario"
+  },
+  {
+    "id": "t29-p003",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, una clase de personal laboral es...",
+    "opciones": [
+      "fijo, indefinido no fijo y temporal",
+      "titular, suplente y eventual",
+      "jefe, mando y base",
+      "ordinario, extraordinario y mixto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue esas tres modalidades.",
+    "referencia": "Tema 29, 1.3 Clases de personal laboral"
+  },
+  {
+    "id": "t29-p004",
+    "tema": 29,
+    "pregunta": "El contrato de trabajo, según el Tema 29, es...",
+    "opciones": [
+      "el acuerdo por el que el trabajador presta servicios por cuenta y dentro del ámbito de organización y dirección del empleador a cambio de remuneración",
+      "la compra de un bien inmueble por la Administración",
+      "un acto unilateral del Ayuntamiento",
+      "un reglamento de funcionamiento interno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce la noción clásica del contrato laboral.",
+    "referencia": "Tema 29, 2.1 Concepto"
+  },
+  {
+    "id": "t29-p005",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, son notas esenciales del contrato de trabajo...",
+    "opciones": [
+      "voluntariedad, retribución, ajenidad y dependencia",
+      "publicidad, igualdad, mérito y capacidad",
+      "competencia, jerarquía y discrecionalidad",
+      "autonomía, gratuidad y temporalidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esas cuatro notas.",
+    "referencia": "Tema 29, 2.2 Elementos esenciales del contrato de trabajo"
+  },
+  {
+    "id": "t29-p006",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, el contrato de trabajo puede celebrarse...",
+    "opciones": [
+      "por escrito o de palabra, aunque algunos deben constar por escrito",
+      "solo por escrito en todos los casos",
+      "solo de palabra",
+      "mediante decreto de alcaldía"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema admite ambas formas, con exigencias de escritura en ciertos casos.",
+    "referencia": "Tema 29, 2.3 Forma del contrato"
+  },
+  {
+    "id": "t29-p007",
+    "tema": 29,
+    "pregunta": "El período de prueba máximo para técnicos titulados, según el Tema 29, es de...",
+    "opciones": [
+      "6 meses",
+      "2 meses",
+      "15 días",
+      "1 año"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija seis meses para técnicos titulados.",
+    "referencia": "Tema 29, 2.4 Período de prueba"
+  },
+  {
+    "id": "t29-p008",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, el contrato indefinido es...",
+    "opciones": [
+      "la modalidad ordinaria y preferente",
+      "una excepción residual",
+      "siempre temporal",
+      "un contrato verbal sin control"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como modalidad ordinaria y preferente.",
+    "referencia": "Tema 29, 2.5.1 Contrato indefinido"
+  },
+  {
+    "id": "t29-p009",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, una modalidad temporal es...",
+    "opciones": [
+      "el contrato por circunstancias de la producción",
+      "el contrato de arrendamiento",
+      "la concesión demanial",
+      "la comisión de servicios"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esa modalidad temporal.",
+    "referencia": "Tema 29, 2.5.2 Contratos temporales"
+  },
+  {
+    "id": "t29-p010",
+    "tema": 29,
+    "pregunta": "El contrato fijo-discontinuo, según el Tema 29, se utiliza para...",
+    "opciones": [
+      "trabajos de naturaleza estacional o vinculados a actividades de temporada",
+      "funciones de libre designación",
+      "aprobación de presupuestos",
+      "cargos representativos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo vincula a trabajos estacionales o discontinuos.",
+    "referencia": "Tema 29, 2.5.2 Contratos temporales"
+  },
+  {
+    "id": "t29-p011",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, un derecho básico de los trabajadores es...",
+    "opciones": [
+      "la huelga",
+      "la potestad reglamentaria",
+      "la fiscalización de cuentas",
+      "la aprobación de sanciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge la huelga entre los derechos básicos.",
+    "referencia": "Tema 29, 3.1 Derechos básicos (art. 4 ET)"
+  },
+  {
+    "id": "t29-p012",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, el trabajador tiene derecho a...",
+    "opciones": [
+      "la ocupación efectiva del puesto de trabajo",
+      "la designación de sus superiores",
+      "la aprobación del presupuesto",
+      "la potestad disciplinaria"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye la ocupación efectiva entre los derechos individuales.",
+    "referencia": "Tema 29, 3.1 Derechos básicos (art. 4 ET)"
+  },
+  {
+    "id": "t29-p013",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, ningún trabajador puede percibir por jornada completa un salario inferior al...",
+    "opciones": [
+      "SMI",
+      "IPREM siempre y en todo caso",
+      "sueldo base del subgrupo A1",
+      "complemento específico"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona el SMI como límite mínimo.",
+    "referencia": "Tema 29, 3.3 Derechos retributivos"
+  },
+  {
+    "id": "t29-p014",
+    "tema": 29,
+    "pregunta": "Entre los deberes básicos del trabajador, según el Tema 29, se encuentra...",
+    "opciones": [
+      "cumplir las obligaciones con buena fe y diligencia",
+      "aprobar las bases de selección",
+      "dictar instrucciones a la Corporación",
+      "resolver recursos administrativos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce ese deber básico del art. 5 ET.",
+    "referencia": "Tema 29, 4.1 Deberes básicos (art. 5 ET)"
+  },
+  {
+    "id": "t29-p015",
+    "tema": 29,
+    "pregunta": "Según el Tema 29, entre los principios éticos del personal público está...",
+    "opciones": [
+      "no aceptar regalos o favores que puedan comprometer la imparcialidad",
+      "favorecer a los amigos del servicio",
+      "ocultar información a los ciudadanos siempre",
+      "priorizar intereses privados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge esa obligación ética.",
+    "referencia": "Tema 29, 4.2 Deberes de los empleados públicos laborales según el TREBEP"
+  }
+]

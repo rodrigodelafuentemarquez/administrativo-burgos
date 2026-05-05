@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t28-p001",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, el régimen jurídico del personal funcionario local se apoya principalmente en...",
+    "opciones": [
+      "TREBEP, LRBRL, TRRL, legislación autonómica y reglamentos locales",
+      "solo el Código Civil y el Código Penal",
+      "únicamente la Ley de Contratos del Sector Público",
+      "solo la Constitución y el RGPD"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema ordena así el bloque normativo aplicable.",
+    "referencia": "Tema 28, 1.1 Marco normativo"
+  },
+  {
+    "id": "t28-p002",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, el personal al servicio de las Entidades Locales se compone de...",
+    "opciones": [
+      "funcionario de carrera, funcionario interino, personal laboral y personal eventual",
+      "magistrados y fiscales",
+      "solo funcionarios de carrera",
+      "concejales y diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce esas cuatro clases.",
+    "referencia": "Tema 28, 1.2 Clases de personal al servicio de las Entidades Locales"
+  },
+  {
+    "id": "t28-p003",
+    "tema": 28,
+    "pregunta": "Los FAHN, según el Tema 28, incluyen las subescalas de...",
+    "opciones": [
+      "Secretaría, Intervención-Tesorería y Secretaría-Intervención",
+      "Jefatura, Inspección y Archivo",
+      "Técnica, Auxiliar y Subalterna",
+      "Administración, Gestión y Servicios"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esas tres subescalas.",
+    "referencia": "Tema 28, 1.3 Funcionarios de Administración local con habilitación de carácter nacional (FAHN)"
+  },
+  {
+    "id": "t28-p004",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, el subgrupo C1 exige como titulación de ingreso...",
+    "opciones": [
+      "Bachiller o Técnico",
+      "Grado universitario",
+      "Doctorado",
+      "ESO sin más requisitos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema vincula C1 con Bachiller o Técnico.",
+    "referencia": "Tema 28, 1.4 Clasificación profesional: grupos y subgrupos"
+  },
+  {
+    "id": "t28-p005",
+    "tema": 28,
+    "pregunta": "El acceso al empleo público local, según el Tema 28, se rige por...",
+    "opciones": [
+      "igualdad, mérito, capacidad y publicidad",
+      "confianza política y libre designación",
+      "antigüedad y parentesco",
+      "oportunidad y discrecionalidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo recoge en los principios rectores de la selección.",
+    "referencia": "Tema 28, 2.1 Principios rectores de la selección"
+  },
+  {
+    "id": "t28-p006",
+    "tema": 28,
+    "pregunta": "La Oferta de Empleo Público, según el Tema 28, la aprueba...",
+    "opciones": [
+      "el Pleno de la Entidad Local",
+      "el Secretario General",
+      "la Junta de Gobierno de la Comunidad Autónoma",
+      "el Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye su aprobación al Pleno.",
+    "referencia": "Tema 28, 2.2 Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t28-p007",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, una vez aprobada la OEP, la convocatoria del proceso selectivo debe realizarse en el plazo máximo de...",
+    "opciones": [
+      "tres años",
+      "seis meses",
+      "un año improrrogable",
+      "cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija ese plazo máximo de tres años.",
+    "referencia": "Tema 28, 2.2 Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t28-p008",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, el sistema de concurso-oposición combina...",
+    "opciones": [
+      "una fase de concurso y una fase de oposición",
+      "solo valoración de méritos",
+      "solo ejercicios prácticos",
+      "una entrevista y un sorteo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo describe como combinación de méritos y ejercicios.",
+    "referencia": "Tema 28, 2.3 Sistemas de selección"
+  },
+  {
+    "id": "t28-p009",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, el órgano de selección debe estar integrado por...",
+    "opciones": [
+      "funcionarios de carrera con titulación igual o superior a la exigida",
+      "cualquier persona designada por el alcalde",
+      "solo personal laboral fijo",
+      "exclusivamente miembros del Pleno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige ese perfil para el tribunal.",
+    "referencia": "Tema 28, 2.4 El órgano de selección"
+  },
+  {
+    "id": "t28-p010",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, entre las fases del proceso selectivo se encuentra...",
+    "opciones": [
+      "la convocatoria y bases, el desarrollo de pruebas y la valoración final",
+      "la adjudicación directa sin pruebas",
+      "la publicación del presupuesto",
+      "la aprobación de la cuenta general"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema describe un proceso con convocatoria, pruebas y valoración.",
+    "referencia": "Tema 28, 2.5 Fases del proceso selectivo"
+  },
+  {
+    "id": "t28-p011",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, el sistema ordinario de provisión de puestos es...",
+    "opciones": [
+      "el concurso",
+      "la subasta",
+      "la permuta",
+      "la libre elección de destino sin procedimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica el concurso como sistema ordinario.",
+    "referencia": "Tema 28, 3.2 Sistemas ordinarios de provisión"
+  },
+  {
+    "id": "t28-p012",
+    "tema": 28,
+    "pregunta": "La promoción interna vertical, según el Tema 28, consiste en...",
+    "opciones": [
+      "el acceso a un subgrupo o grupo superior",
+      "el cambio de área sin cambio de puesto",
+      "la movilidad entre municipios por traslado",
+      "la comisión de servicios temporal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como acceso a un grupo superior.",
+    "referencia": "Tema 28, 4.2 Clases de promoción interna"
+  },
+  {
+    "id": "t28-p013",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, para la promoción interna vertical se exige, entre otros requisitos, una antigüedad mínima de...",
+    "opciones": [
+      "dos años",
+      "seis meses",
+      "cinco años",
+      "diez años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija esa antigüedad mínima como regla general.",
+    "referencia": "Tema 28, 4.3 Requisitos para la promoción interna vertical"
+  },
+  {
+    "id": "t28-p014",
+    "tema": 28,
+    "pregunta": "El servicio activo, según el Tema 28, es la situación...",
+    "opciones": [
+      "ordinaria del funcionario que presta servicios en su puesto",
+      "que se da exclusivamente al jubilarse",
+      "propia de la excedencia voluntaria",
+      "propia de la suspensión de funciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como situación ordinaria.",
+    "referencia": "Tema 28, 5.1 Servicio activo"
+  },
+  {
+    "id": "t28-p015",
+    "tema": 28,
+    "pregunta": "Según el Tema 28, uno de los principios de igualdad en el empleo público es...",
+    "opciones": [
+      "la reserva de plazas para personas con discapacidad, al menos del 7 %",
+      "la exclusión de mujeres en cuerpos técnicos",
+      "la libre elección sin publicidad",
+      "la preferencia por la antigüedad sindical"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge la medida de acción positiva del 7 %.",
+    "referencia": "Tema 28, 6.3 Medidas de acción positiva"
+  }
+]
