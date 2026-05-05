@@ -49,35 +49,46 @@ Los **principios fundamentales** del Estado son:
 
 La Constitución se organiza en:
 
-```
-PREÁMBULO
-│
-├── TÍTULO PRELIMINAR (arts. 1-9) — Principios básicos del Estado
-│
-├── TÍTULO I — De los derechos y deberes fundamentales (arts. 10-55)
-│   ├── Cap. I   — Españoles y extranjeros (arts. 11-13)
-│   ├── Cap. II  — Derechos y libertades (arts. 14-38)
-│   │   ├── Sección 1ª — Derechos fundamentales y libertades públicas (arts. 15-29)
-│   │   └── Sección 2ª — Derechos y deberes de los ciudadanos (arts. 30-38)
-│   ├── Cap. III — Principios rectores de la política social y económica (arts. 39-52)
-│   ├── Cap. IV  — Garantías de las libertades y derechos (arts. 53-54)
-│   └── Cap. V   — Suspensión de los derechos y libertades (art. 55)
-│
-├── TÍTULO II  — De la Corona (arts. 56-65)
-├── TÍTULO III — De las Cortes Generales (arts. 66-96)
-├── TÍTULO IV  — Del Gobierno y de la Administración (arts. 97-107)
-├── TÍTULO V   — De las relaciones entre el Gobierno y las Cortes Generales (arts. 108-116)
-├── TÍTULO VI  — Del Poder Judicial (arts. 117-127)
-├── TÍTULO VII — Economía y Hacienda (arts. 128-136)
-├── TÍTULO VIII — De la organización territorial del Estado (arts. 137-158)
-├── TÍTULO IX  — Del Tribunal Constitucional (arts. 159-165)
-├── TÍTULO X   — De la reforma constitucional (arts. 166-169)
-│
-├── 4 Disposiciones adicionales
-├── 9 Disposiciones transitorias
-├── 1 Disposición derogatoria
-└── 1 Disposición final
-```
+<div class="study-structure">
+  <div class="structure-item">
+    <span class="structure-badge">Preámbulo</span>
+    <strong>Declaración inicial</strong>
+  </div>
+  <div class="structure-item">
+    <span class="structure-badge">Título Preliminar</span>
+    <strong>Principios básicos del Estado</strong>
+    <small>arts. 1-9</small>
+  </div>
+  <div class="structure-item structure-item-featured">
+    <span class="structure-badge">Título I</span>
+    <strong>De los derechos y deberes fundamentales</strong>
+    <small>arts. 10-55</small>
+    <ul>
+      <li>Cap. I — Españoles y extranjeros (arts. 11-13)</li>
+      <li>Cap. II — Derechos y libertades (arts. 14-38)</li>
+      <li>Sección 1ª — Derechos fundamentales y libertades públicas (arts. 15-29)</li>
+      <li>Sección 2ª — Derechos y deberes de los ciudadanos (arts. 30-38)</li>
+      <li>Cap. III — Principios rectores de la política social y económica (arts. 39-52)</li>
+      <li>Cap. IV — Garantías de las libertades y derechos (arts. 53-54)</li>
+      <li>Cap. V — Suspensión de los derechos y libertades (art. 55)</li>
+    </ul>
+  </div>
+  <div class="structure-grid">
+    <div><span>Título II</span><strong>Corona</strong><small>arts. 56-65</small></div>
+    <div><span>Título III</span><strong>Cortes Generales</strong><small>arts. 66-96</small></div>
+    <div><span>Título IV</span><strong>Gobierno y Administración</strong><small>arts. 97-107</small></div>
+    <div><span>Título V</span><strong>Relaciones Gobierno-Cortes</strong><small>arts. 108-116</small></div>
+    <div><span>Título VI</span><strong>Poder Judicial</strong><small>arts. 117-127</small></div>
+    <div><span>Título VII</span><strong>Economía y Hacienda</strong><small>arts. 128-136</small></div>
+    <div><span>Título VIII</span><strong>Organización territorial</strong><small>arts. 137-158</small></div>
+    <div><span>Título IX</span><strong>Tribunal Constitucional</strong><small>arts. 159-165</small></div>
+    <div><span>Título X</span><strong>Reforma constitucional</strong><small>arts. 166-169</small></div>
+  </div>
+  <div class="structure-item">
+    <span class="structure-badge">Disposiciones</span>
+    <strong>4 adicionales · 9 transitorias · 1 derogatoria · 1 final</strong>
+  </div>
+</div>
 
 > 💡 **Truco de memoria:** El Título Preliminar no tiene número. Los títulos del I al X son los numerados. Recuerda: **I = Derechos; II = Corona; III = Cortes; IV = Gobierno; V = Relaciones Gobierno-Cortes; VI = Poder Judicial; VII = Economía; VIII = Organización territorial; IX = TC; X = Reforma.**
 
@@ -225,31 +236,38 @@ Una **Ley Orgánica** puede determinar la forma y los casos en que, de forma ind
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-CE 1978
-│
-├── CARACTERÍSTICAS
-│   ├── Escrita, rígida, extensa, consensuada
-│   └── Estado social y democrático de Derecho (art. 1.1)
-│       └── Valores: libertad, justicia, igualdad, pluralismo político
-│
-├── ESTRUCTURA: Preámbulo + 10 Títulos + Disposiciones
-│
-├── TÍTULO I — DERECHOS (arts. 10-55)
-│   ├── Art. 10 → Dignidad de la persona = fundamento
-│   ├── Cap. I → Españoles y extranjeros (mayoría: 18 años)
-│   ├── Cap. II
-│   │   ├── Art. 14 → Igualdad
-│   │   ├── Sección 1ª (15-29) → Derechos fundamentales [MÁXIMA PROTECCIÓN]
-│   │   └── Sección 2ª (30-38) → Derechos y deberes ciudadanos
-│   ├── Cap. III (39-52) → Principios rectores [mínima protección]
-│   ├── Cap. IV (53-54) → Garantías (tres niveles + Defensor del Pueblo)
-│   └── Cap. V (55) → Suspensión
-│
-└── SUSPENSIÓN
-    ├── General → Estado de excepción/sitio (art. 55.1)
-    └── Individual → Terrorismo, con control judicial y parlamentario (art. 55.2)
-```
+<div class="review-grid">
+  <article>
+    <h4>Características</h4>
+    <ul>
+      <li>Escrita, rígida, extensa y consensuada.</li>
+      <li>Estado social y democrático de Derecho (art. 1.1).</li>
+      <li>Valores: libertad, justicia, igualdad y pluralismo político.</li>
+    </ul>
+  </article>
+  <article>
+    <h4>Estructura</h4>
+    <p>Preámbulo + 10 títulos + disposiciones.</p>
+  </article>
+  <article>
+    <h4>Título I</h4>
+    <ul>
+      <li>Art. 10: dignidad de la persona como fundamento.</li>
+      <li>Cap. I: españoles y extranjeros.</li>
+      <li>Cap. II: igualdad, derechos fundamentales y deberes ciudadanos.</li>
+      <li>Cap. III: principios rectores.</li>
+      <li>Cap. IV: garantías.</li>
+      <li>Cap. V: suspensión.</li>
+    </ul>
+  </article>
+  <article>
+    <h4>Suspensión</h4>
+    <ul>
+      <li>General: estado de excepción y de sitio (art. 55.1).</li>
+      <li>Individual: terrorismo, con control judicial y parlamentario (art. 55.2).</li>
+    </ul>
+  </article>
+</div>
 
 ---
 
