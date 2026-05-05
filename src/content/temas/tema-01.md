@@ -191,25 +191,33 @@ Incluyen, entre otros: protección de la familia y la infancia (39), derecho al 
 
 La CE establece un **sistema escalonado de garantías** según la importancia del derecho:
 
-```
-NIVEL 3 — MÁXIMA PROTECCIÓN
-Arts. 14 a 29 (Sección 1ª + art. 14)
-├── Vinculan a todos los poderes públicos
-├── Solo se regulan por Ley Orgánica
-├── Recurso de amparo ante el Tribunal Constitucional
-└── Procedimiento preferente y sumario ante los tribunales ordinarios
-
-NIVEL 2 — PROTECCIÓN MEDIA
-Arts. 14 a 38 (Caps. I y II completos)
-├── Vinculan a todos los poderes públicos
-└── Solo regulables por ley (reserva de ley)
-    └── La ley debe respetar su contenido esencial
-
-NIVEL 1 — PROTECCIÓN BÁSICA
-Arts. 39 a 52 (Cap. III — Principios rectores)
-└── Solo alegables ante la jurisdicción ordinaria
-    según las leyes que los desarrollen
-```
+<div class="study-list">
+  <ul>
+    <li>
+      <strong>Nivel 3: máxima protección</strong> <span class="study-note">(arts. 14 a 29, Sección 1ª + art. 14)</span>
+      <ul>
+        <li>Vinculan a todos los poderes públicos.</li>
+        <li>Solo se regulan por Ley Orgánica.</li>
+        <li>Recurso de amparo ante el Tribunal Constitucional.</li>
+        <li>Procedimiento preferente y sumario ante los tribunales ordinarios.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Nivel 2: protección media</strong> <span class="study-note">(arts. 14 a 38, Capítulos I y II completos)</span>
+      <ul>
+        <li>Vinculan a todos los poderes públicos.</li>
+        <li>Solo regulables por ley (reserva de ley).</li>
+        <li>La ley debe respetar su contenido esencial.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Nivel 1: protección básica</strong> <span class="study-note">(arts. 39 a 52, Capítulo III)</span>
+      <ul>
+        <li>Solo alegables ante la jurisdicción ordinaria según las leyes que los desarrollen.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 ### 3.2 El Defensor del Pueblo (art. 54 CE)
 
