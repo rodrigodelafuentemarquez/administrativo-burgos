@@ -1,0 +1,142 @@
+[
+  {
+    "id": "t03-p001",
+    "tema": 3,
+    "pregunta": "Según el Tema 3, en una Monarquía parlamentaria el Rey...",
+    "opciones": [
+      "gobierna directamente y responde ante las Cortes",
+      "reina pero no gobierna",
+      "dirige la Administración civil y militar",
+      "puede dictar normas con rango de ley"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya que el Rey reina pero no gobierna y que el poder ejecutivo real reside en el Gobierno.",
+    "referencia": "Tema 3, 1.1 La Monarquía parlamentaria"
+  },
+  {
+    "id": "t03-p002",
+    "tema": 3,
+    "pregunta": "¿Qué funciones esenciales atribuye el Tema 3 al Rey en el art. 56 CE?",
+    "opciones": [
+      "Jefe del Estado, símbolo de unidad y permanencia, y árbitro y moderador",
+      "Presidente del Gobierno, símbolo de unidad y garante del Parlamento",
+      "Jefe de la Administración y comandante operativo del Gobierno",
+      "Magistrado supremo y fiscal general"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge la definición constitucional del Rey como Jefe del Estado, símbolo de unidad y permanencia, y árbitro y moderador.",
+    "referencia": "Tema 3, 1.2 El Rey: definición constitucional (art. 56 CE)"
+  },
+  {
+    "id": "t03-p003",
+    "tema": 3,
+    "pregunta": "Según el Tema 3, ¿cómo es la responsabilidad del Rey?",
+    "opciones": [
+      "Es plena ante las Cortes",
+      "Es compartida con el Gobierno",
+      "Su persona es inviolable y no está sujeta a responsabilidad",
+      "Responde siempre penalmente por sus actos"
+    ],
+    "correcta": 2,
+    "explicacion": "El temario reproduce el art. 56.2 CE: la persona del Rey es inviolable y no está sujeta a responsabilidad.",
+    "referencia": "Tema 3, 1.2 El Rey: definición constitucional (art. 56 CE)"
+  },
+  {
+    "id": "t03-p004",
+    "tema": 3,
+    "pregunta": "¿Qué principio sucesorio señala el Tema 3 para el orden regular de la sucesión a la Corona?",
+    "opciones": [
+      "Elección por las Cortes Generales",
+      "Primogenitura y representación",
+      "Rotación entre ramas familiares",
+      "Designación por referéndum"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que la sucesión se rige por primogenitura y representación, entre otros criterios.",
+    "referencia": "Tema 3, 2.1 Principios sucesorios"
+  },
+  {
+    "id": "t03-p005",
+    "tema": 3,
+    "pregunta": "Según el Tema 3, en el mismo grado de sucesión...",
+    "opciones": [
+      "la mujer prefiere al varón",
+      "el varón prefiere a la mujer",
+      "no existe preferencia por sexo",
+      "deciden las Cortes Generales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge expresamente la preferencia del varón sobre la mujer en el mismo grado.",
+    "referencia": "Tema 3, 2.1 Principios sucesorios"
+  },
+  {
+    "id": "t03-p006",
+    "tema": 3,
+    "pregunta": "¿Qué ocurre, conforme al Tema 3, si una persona con derecho a la sucesión contrae matrimonio contra la prohibición expresa del Rey y de las Cortes Generales?",
+    "opciones": [
+      "Conserva plenamente su derecho",
+      "Queda excluida de la sucesión por sí y sus descendientes",
+      "Solo pierde el derecho si lo ratifica el Gobierno",
+      "Debe esperar a que lo autorice el Tribunal Constitucional"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que ese matrimonio provoca la exclusión sucesoria del interesado y de sus descendientes.",
+    "referencia": "Tema 3, 2.2 Matrimonio con prohibición real"
+  },
+  {
+    "id": "t03-p007",
+    "tema": 3,
+    "pregunta": "Si se extinguieran todas las líneas sucesorias, ¿quién proveería a la sucesión, según el Tema 3?",
+    "opciones": [
+      "El Gobierno",
+      "El Tribunal Constitucional",
+      "Las Cortes Generales",
+      "El Consejo de Estado"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema establece que, en ese supuesto, las Cortes Generales proveerán a la sucesión en la forma que más convenga a España.",
+    "referencia": "Tema 3, 2.3 Extinción de todas las líneas sucesorias"
+  },
+  {
+    "id": "t03-p008",
+    "tema": 3,
+    "pregunta": "¿Cómo se resuelven las abdicaciones, renuncias y dudas de hecho o de derecho en el orden de sucesión, según el Tema 3?",
+    "opciones": [
+      "Por decreto-ley",
+      "Por ley orgánica",
+      "Por acuerdo de la Diputación Permanente",
+      "Por resolución del Tribunal Supremo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema remite a una Ley Orgánica para resolver esas cuestiones del orden sucesorio.",
+    "referencia": "Tema 3, 2.4 Abdicaciones, renuncias y dudas"
+  },
+  {
+    "id": "t03-p009",
+    "tema": 3,
+    "pregunta": "Cuando el Rey sea menor de edad, ¿quién ejerce la Regencia según el Tema 3?",
+    "opciones": [
+      "El Presidente del Gobierno",
+      "El padre o la madre y, en defecto, el pariente mayor de edad más próximo a suceder",
+      "El Presidente del Congreso",
+      "El Defensor del Pueblo"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la Regencia corresponde al padre o la madre y, en su defecto, al pariente mayor de edad más próximo a suceder.",
+    "referencia": "Tema 3, 3.1 Regencia por minoría de edad"
+  },
+  {
+    "id": "t03-p010",
+    "tema": 3,
+    "pregunta": "¿Cuál de los siguientes actos del Rey no está sujeto a refrendo, según el Tema 3?",
+    "opciones": [
+      "La sanción de las leyes",
+      "La convocatoria de elecciones",
+      "La distribución de la cantidad global para su Familia y Casa",
+      "El nombramiento del Presidente del Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema recoge que la distribución de esa cantidad global y el nombramiento/relevo del personal de la Casa Real no requieren refrendo.",
+    "referencia": "Tema 3, 7.3 Actos no sujetos a refrendo / 9. La Casa del Rey"
+  }
+]

@@ -1,0 +1,142 @@
+[
+  {
+    "id": "t06-p001",
+    "tema": 6,
+    "pregunta": "Según el Tema 6, el Consejo General del Poder Judicial es...",
+    "opciones": [
+      "el órgano de gobierno del Poder Judicial",
+      "el intérprete supremo de la Constitución",
+      "la última instancia en todos los órdenes jurisdiccionales",
+      "el órgano que ejerce la acción penal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define al CGPJ como el órgano de gobierno del Poder Judicial y garante de la independencia judicial.",
+    "referencia": "Tema 6, 2.1 Naturaleza y función constitucional (art. 122 CE)"
+  },
+  {
+    "id": "t06-p002",
+    "tema": 6,
+    "pregunta": "¿Cuál es la composición del CGPJ, según el Tema 6?",
+    "opciones": [
+      "Un presidente y 12 vocales",
+      "Un presidente del Tribunal Supremo y 20 vocales",
+      "Un presidente y 25 vocales",
+      "Un presidente y 15 vocales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el CGPJ está integrado por el Presidente del Tribunal Supremo y 20 vocales.",
+    "referencia": "Tema 6, 2.2 Composición (art. 122.3 CE y LOPJ)"
+  },
+  {
+    "id": "t06-p003",
+    "tema": 6,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre los vocales del CGPJ es correcta según el Tema 6?",
+    "opciones": [
+      "8 son jueces y magistrados y 12 juristas",
+      "12 son jueces y magistrados y 8 juristas de reconocida competencia",
+      "10 son jueces y magistrados y 10 juristas",
+      "20 son juristas de reconocida competencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario distribuye los vocales en 12 jueces y magistrados y 8 juristas de reconocida competencia.",
+    "referencia": "Tema 6, 2.2 Composición (art. 122.3 CE y LOPJ)"
+  },
+  {
+    "id": "t06-p004",
+    "tema": 6,
+    "pregunta": "¿Cuál es el mandato de los vocales del CGPJ según el Tema 6?",
+    "opciones": [
+      "4 años",
+      "5 años",
+      "6 años",
+      "9 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de 5 años y renovación total cada 5 años.",
+    "referencia": "Tema 6, 2.3 Mandato"
+  },
+  {
+    "id": "t06-p005",
+    "tema": 6,
+    "pregunta": "¿Qué órgano es el jurisdiccional superior en todos los órdenes, salvo las garantías constitucionales, según el Tema 6?",
+    "opciones": [
+      "El Tribunal Supremo",
+      "La Audiencia Nacional",
+      "El Tribunal Constitucional",
+      "El Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define al Tribunal Supremo como órgano jurisdiccional superior en todos los órdenes ordinarios.",
+    "referencia": "Tema 6, 3.1 Naturaleza y posición (art. 123 CE)"
+  },
+  {
+    "id": "t06-p006",
+    "tema": 6,
+    "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos de casación en materia laboral y de Seguridad Social, según el Tema 6?",
+    "opciones": [
+      "Sala 1.ª",
+      "Sala 2.ª",
+      "Sala 4.ª",
+      "Sala 5.ª"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema asigna esa materia a la Sala 4.ª, de lo Social.",
+    "referencia": "Tema 6, 3.2 Composición y organización"
+  },
+  {
+    "id": "t06-p007",
+    "tema": 6,
+    "pregunta": "¿Dónde tiene su sede la Audiencia Nacional, conforme al Tema 6?",
+    "opciones": [
+      "Barcelona",
+      "Madrid",
+      "Burgos",
+      "Valladolid"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la Audiencia Nacional tiene sede en Madrid.",
+    "referencia": "Tema 6, 4.1 Naturaleza"
+  },
+  {
+    "id": "t06-p008",
+    "tema": 6,
+    "pregunta": "Según el Tema 6, los Tribunales Superiores de Justicia...",
+    "opciones": [
+      "culminan la organización judicial en el ámbito de la Comunidad Autónoma",
+      "son órganos del Poder Ejecutivo autonómico",
+      "dependen jerárquicamente de las Diputaciones Provinciales",
+      "sustituyen al Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario indica que el TSJ culmina la organización judicial en el ámbito autonómico, sin perjuicio del Tribunal Supremo.",
+    "referencia": "Tema 6, 5.1 Naturaleza y posición (art. 152 CE)"
+  },
+  {
+    "id": "t06-p009",
+    "tema": 6,
+    "pregunta": "¿Qué tipo de asuntos conocen los Juzgados de lo Penal, según el Tema 6?",
+    "opciones": [
+      "Recursos de casación penal",
+      "Enjuiciamiento de delitos con pena no superior a 5 años de prisión",
+      "Delitos de terrorismo",
+      "Conflictos laborales colectivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye a los Juzgados de lo Penal el enjuiciamiento de delitos con pena no superior a 5 años de prisión.",
+    "referencia": "Tema 6, 7. Los Juzgados"
+  },
+  {
+    "id": "t06-p010",
+    "tema": 6,
+    "pregunta": "¿Qué principio de actuación del Ministerio Fiscal recoge el Tema 6?",
+    "opciones": [
+      "Autonomía legislativa",
+      "Dependencia jerárquica",
+      "Sometimiento al Gobierno en casos concretos",
+      "Inamovilidad absoluta"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema enumera entre los principios de actuación la unidad, la dependencia jerárquica, la legalidad y la imparcialidad.",
+    "referencia": "Tema 6, 8.2 Principios de actuación (art. 124.2 CE)"
+  }
+]

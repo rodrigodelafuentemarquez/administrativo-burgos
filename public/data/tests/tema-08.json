@@ -1,0 +1,142 @@
+[
+  {
+    "id": "t08-p001",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, el texto vigente del Estatuto de Autonomía de Castilla y León es el aprobado por...",
+    "opciones": [
+      "Ley Orgánica 4/1983",
+      "Ley Orgánica 14/2007",
+      "Ley 1/1998",
+      "Ley Orgánica 3/1981"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la reforma más importante y vigente es la operada por la Ley Orgánica 14/2007.",
+    "referencia": "Tema 8, 1.1 Antecedentes y evolución"
+  },
+  {
+    "id": "t08-p002",
+    "tema": 8,
+    "pregunta": "¿Cuántas provincias integran Castilla y León según el Tema 8?",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "explicacion": "El temario enumera nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.",
+    "referencia": "Tema 8, 1.3 Territorio (art. 2 EACyL)"
+  },
+  {
+    "id": "t08-p003",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, la capital de Castilla y León es...",
+    "opciones": [
+      "Burgos",
+      "León",
+      "Salamanca",
+      "Valladolid"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema sitúa la capital en Valladolid, donde radica la sede de la Junta y la Presidencia de la Comunidad.",
+    "referencia": "Tema 8, 1.4 Capital y sede de las instituciones (art. 4 EACyL)"
+  },
+  {
+    "id": "t08-p004",
+    "tema": 8,
+    "pregunta": "¿Qué institución de autogobierno no aparece entre las cuatro señaladas en el Tema 8?",
+    "opciones": [
+      "Las Cortes de Castilla y León",
+      "La Junta de Castilla y León",
+      "El Presidente de la Junta de Castilla y León",
+      "El Procurador del Común"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema enumera como instituciones de autogobierno a las Cortes, la Junta, el Presidente y el TSJ; el Procurador del Común se trata aparte como comisionado.",
+    "referencia": "Tema 8, 2.1 Las instituciones de autogobierno (art. 19 EACyL)"
+  },
+  {
+    "id": "t08-p005",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, las Cortes de Castilla y León se componen de...",
+    "opciones": [
+      "61 a 83 procuradores",
+      "50 a 100 procuradores",
+      "81 a 101 procuradores",
+      "100 a 125 procuradores"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija una composición entre 61 y 83 procuradores; actualmente son 81.",
+    "referencia": "Tema 8, 2.2 Las Cortes de Castilla y León"
+  },
+  {
+    "id": "t08-p006",
+    "tema": 8,
+    "pregunta": "¿Qué mayoría exige el Tema 8 para elegir al Presidente de la Junta en primera votación?",
+    "opciones": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Mayoría de tres quintos",
+      "Mayoría de dos tercios"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que en primera votación se requiere mayoría absoluta y en la segunda mayoría simple.",
+    "referencia": "Tema 8, 2.3 El Presidente de la Junta de Castilla y León"
+  },
+  {
+    "id": "t08-p007",
+    "tema": 8,
+    "pregunta": "¿Dónde tiene su sede el Tribunal Superior de Justicia de Castilla y León, según el Tema 8?",
+    "opciones": [
+      "Valladolid",
+      "Burgos",
+      "León",
+      "Palencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que el TSJ de Castilla y León tiene su sede en Burgos.",
+    "referencia": "Tema 8, 2.5 El Tribunal Superior de Justicia de Castilla y León (art. 42 EACyL)"
+  },
+  {
+    "id": "t08-p008",
+    "tema": 8,
+    "pregunta": "¿Qué tipo de competencia recoge el Tema 8 para sanidad, educación, medio ambiente y régimen local?",
+    "opciones": [
+      "Exclusiva del Estado",
+      "Compartida o de desarrollo legislativo",
+      "Delegada por el Senado",
+      "Reservada a las Diputaciones Provinciales"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario presenta esas materias como competencias compartidas más relevantes de Castilla y León.",
+    "referencia": "Tema 8, 3.3 Competencias compartidas más relevantes"
+  },
+  {
+    "id": "t08-p009",
+    "tema": 8,
+    "pregunta": "¿Qué mayoría se exige en el Tema 8 para elegir al Procurador del Común en primera votación?",
+    "opciones": [
+      "Mayoría absoluta",
+      "Mayoría de 3/5",
+      "Mayoría simple",
+      "Mayoría de 2/3"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Procurador del Común se elige por mayoría de 3/5 y, si no se alcanza, por mayoría absoluta en segunda votación.",
+    "referencia": "Tema 8, 4.2 Elección y mandato"
+  },
+  {
+    "id": "t08-p010",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, ¿quién puede supervisar la actividad de la Administración de la Junta de Castilla y León y de las Entidades Locales?",
+    "opciones": [
+      "El Defensor del Pueblo",
+      "El Procurador del Común",
+      "El Tribunal de Cuentas",
+      "El Consejo Consultivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
+    "referencia": "Tema 8, 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión"
+  }
+]

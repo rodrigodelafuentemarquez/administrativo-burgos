@@ -1,0 +1,142 @@
+[
+  {
+    "id": "t02-p001",
+    "tema": 2,
+    "pregunta": "Según el Tema 2, ¿qué órgano es el intérprete supremo de la Constitución y se sitúa fuera del Poder Judicial ordinario?",
+    "opciones": [
+      "El Tribunal Supremo",
+      "El Tribunal Constitucional",
+      "El Consejo General del Poder Judicial",
+      "La Audiencia Nacional"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define al Tribunal Constitucional como intérprete supremo de la Constitución y órgano ajeno al Poder Judicial ordinario.",
+    "referencia": "Tema 2, 1.1 Naturaleza y posición constitucional"
+  },
+  {
+    "id": "t02-p002",
+    "tema": 2,
+    "pregunta": "¿Cómo se compone el Tribunal Constitucional, según el Tema 2?",
+    "opciones": [
+      "10 magistrados: 4 del Congreso, 4 del Senado y 2 del Gobierno",
+      "12 magistrados: 4 Congreso, 4 Senado, 2 Gobierno y 2 CGPJ",
+      "15 magistrados: 5 Congreso, 5 Senado y 5 Gobierno",
+      "9 magistrados: 3 Congreso, 3 Senado y 3 CGPJ"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario señala una composición de 12 magistrados con la distribución 4+4+2+2.",
+    "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
+  },
+  {
+    "id": "t02-p003",
+    "tema": 2,
+    "pregunta": "¿Qué mayoría exige el Tema 2 para la propuesta de magistrados del Tribunal Constitucional por el Congreso y el Senado?",
+    "opciones": [
+      "Mayoría absoluta",
+      "Mayoría simple",
+      "Mayoría de tres quintos",
+      "Mayoría de dos tercios"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema indica que Congreso y Senado proponen sus magistrados por mayoría de 3/5.",
+    "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
+  },
+  {
+    "id": "t02-p004",
+    "tema": 2,
+    "pregunta": "Según el Tema 2, ¿qué requisito profesional se exige para ser magistrado del Tribunal Constitucional?",
+    "opciones": [
+      "10 años de ejercicio profesional",
+      "15 años de ejercicio profesional",
+      "20 años de ejercicio profesional",
+      "25 años de ejercicio profesional"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario exige juristas de reconocida competencia con más de 15 años de ejercicio.",
+    "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
+  },
+  {
+    "id": "t02-p005",
+    "tema": 2,
+    "pregunta": "¿Cuál es la duración del mandato de los magistrados del Tribunal Constitucional, conforme al Tema 2?",
+    "opciones": [
+      "5 años, con renovación total",
+      "6 años, con renovación por mitades",
+      "9 años, con renovación parcial cada 3 años",
+      "12 años, con renovación cada 4 años"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema fija un mandato de 9 años y renovación parcial por tercios cada 3 años.",
+    "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
+  },
+  {
+    "id": "t02-p006",
+    "tema": 2,
+    "pregunta": "Según el Tema 2, ¿quién elige al Presidente del Tribunal Constitucional?",
+    "opciones": [
+      "El Rey directamente",
+      "Las Cortes Generales",
+      "Los propios magistrados en Pleno",
+      "El Gobierno a propuesta del Ministro de Justicia"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema indica que el Presidente del TC es elegido por los propios magistrados en Pleno y nombrado formalmente por el Rey.",
+    "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
+  },
+  {
+    "id": "t02-p007",
+    "tema": 2,
+    "pregunta": "¿Quién puede interponer el recurso de inconstitucionalidad, según el Tema 2?",
+    "opciones": [
+      "Cualquier ciudadano por interés legítimo",
+      "50 diputados",
+      "Cualquier juez ordinario",
+      "Los presidentes de diputación"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema enumera, entre otros legitimados, a 50 diputados, 50 senadores, el Presidente del Gobierno y el Defensor del Pueblo.",
+    "referencia": "Tema 2, 1.4 Competencias"
+  },
+  {
+    "id": "t02-p008",
+    "tema": 2,
+    "pregunta": "¿Cuál es el plazo general para interponer el recurso de inconstitucionalidad según el Tema 2?",
+    "opciones": [
+      "1 mes desde la publicación",
+      "3 meses desde la publicación, ampliables a 9 meses con negociación previa",
+      "6 meses desde la publicación",
+      "1 año desde la publicación"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un plazo de 3 meses, ampliable a 9 si hay negociación previa.",
+    "referencia": "Tema 2, 1.4 Competencias"
+  },
+  {
+    "id": "t02-p009",
+    "tema": 2,
+    "pregunta": "¿Qué derechos protege el recurso de amparo según el Tema 2?",
+    "opciones": [
+      "Los arts. 1 a 9 CE",
+      "Los arts. 14 a 29 y 30.2 CE",
+      "Los arts. 39 a 52 CE",
+      "Los arts. 56 a 65 CE"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario señala que el amparo protege los derechos y libertades de los arts. 14 a 29 y 30.2 CE.",
+    "referencia": "Tema 2, 1.4 Competencias"
+  },
+  {
+    "id": "t02-p010",
+    "tema": 2,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Defensor del Pueblo es correcta según el Tema 2?",
+    "opciones": [
+      "Se elige por mayoría simple de cada Cámara y dura 10 años",
+      "Puede interponer recurso de inconstitucionalidad y recurso de amparo",
+      "Depende jerárquicamente del Gobierno",
+      "Sus resoluciones son vinculantes"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema le reconoce legitimación para el recurso de inconstitucionalidad y el recurso de amparo.",
+    "referencia": "Tema 2, 2.7 Legitimación ante el TC"
+  }
+]

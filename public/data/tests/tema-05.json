@@ -1,0 +1,142 @@
+[
+  {
+    "id": "t05-p001",
+    "tema": 5,
+    "pregunta": "Según el Tema 5, el Gobierno...",
+    "opciones": [
+      "dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado",
+      "solo ejecuta las leyes sin dirección política",
+      "depende jerárquicamente de las Cortes Generales",
+      "es un órgano exclusivamente consultivo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce el art. 97 CE y subraya la función de dirección política del Gobierno.",
+    "referencia": "Tema 5, 1.1 Definición constitucional (art. 97 CE)"
+  },
+  {
+    "id": "t05-p002",
+    "tema": 5,
+    "pregunta": "¿Cuál de los siguientes no es miembro del Gobierno en sentido estricto según el Tema 5?",
+    "opciones": [
+      "El Presidente del Gobierno",
+      "Los Ministros",
+      "Los Secretarios de Estado",
+      "Los Vicepresidentes, en su caso"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema señala que los Secretarios de Estado no son miembros del Gobierno en sentido estricto.",
+    "referencia": "Tema 5, 2.2 Los Secretarios de Estado"
+  },
+  {
+    "id": "t05-p003",
+    "tema": 5,
+    "pregunta": "En el procedimiento de investidura descrito en el Tema 5, ¿qué mayoría se exige en la primera votación?",
+    "opciones": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Mayoría de tres quintos",
+      "Unanimidad"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la primera votación requiere mayoría absoluta del Congreso.",
+    "referencia": "Tema 5, 3.1 Procedimiento de investidura"
+  },
+  {
+    "id": "t05-p004",
+    "tema": 5,
+    "pregunta": "Si transcurren dos meses desde la primera votación de investidura sin que ningún candidato obtenga la confianza, ¿qué ocurre según el Tema 5?",
+    "opciones": [
+      "Se nombra automáticamente al más votado",
+      "El Rey disuelve ambas Cámaras y convoca elecciones",
+      "Se prorroga el mandato del Gobierno en funciones indefinidamente",
+      "Se convoca referéndum vinculante"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge la disolución de ambas Cámaras y la convocatoria de elecciones en ese supuesto de bloqueo.",
+    "referencia": "Tema 5, 3.2 Supuesto de bloqueo (art. 99.5 CE)"
+  },
+  {
+    "id": "t05-p005",
+    "tema": 5,
+    "pregunta": "¿Cómo son nombrados los demás miembros del Gobierno, según el Tema 5?",
+    "opciones": [
+      "Por el Congreso a propuesta del Rey",
+      "Por el Rey a propuesta del Presidente del Gobierno",
+      "Por las Cortes Generales a propuesta del Senado",
+      "Por la Junta Electoral Central"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario establece que Vicepresidentes y Ministros son nombrados y separados por el Rey a propuesta del Presidente del Gobierno.",
+    "referencia": "Tema 5, 4. Nombramiento de los demás miembros del Gobierno (art. 100 CE)"
+  },
+  {
+    "id": "t05-p006",
+    "tema": 5,
+    "pregunta": "¿Cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones, según el Tema 5?",
+    "opciones": [
+      "Despachar asuntos ordinarios",
+      "Aprobar el proyecto de Ley de Presupuestos",
+      "Atender la gestión ordinaria",
+      "Continuar hasta la toma de posesión del nuevo Gobierno"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Gobierno en funciones no puede aprobar el proyecto de Ley de Presupuestos ni presentar proyectos de ley, entre otras limitaciones.",
+    "referencia": "Tema 5, 5.2 El Gobierno en funciones"
+  },
+  {
+    "id": "t05-p007",
+    "tema": 5,
+    "pregunta": "¿En qué supuesto puede dictar el Gobierno un decreto-ley, conforme al Tema 5?",
+    "opciones": [
+      "Cuando estime conveniente acelerar una reforma",
+      "En caso de extraordinaria y urgente necesidad",
+      "Solo previa autorización del Senado",
+      "Solo para modificar la Constitución"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge que el decreto-ley solo cabe ante extraordinaria y urgente necesidad.",
+    "referencia": "Tema 5, 6.5 Legislación de urgencia"
+  },
+  {
+    "id": "t05-p008",
+    "tema": 5,
+    "pregunta": "Según el Tema 5, ¿quién preside el Consejo de Ministros?",
+    "opciones": [
+      "El Rey",
+      "El Presidente del Gobierno",
+      "El Presidente del Congreso",
+      "El Ministro de la Presidencia en todo caso"
+    ],
+    "correcta": 1,
+    "explicacion": "El Consejo de Ministros lo preside el Presidente del Gobierno, según el temario.",
+    "referencia": "Tema 5, 7.2 Presidencia y convocatoria"
+  },
+  {
+    "id": "t05-p009",
+    "tema": 5,
+    "pregunta": "¿Cómo se crean, modifican y suprimen las Comisiones Delegadas del Gobierno según el Tema 5?",
+    "opciones": [
+      "Por ley orgánica",
+      "Por Real Decreto del Consejo de Ministros, a propuesta del Presidente",
+      "Por acuerdo de las Cortes Generales",
+      "Por orden ministerial conjunta"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que se crean, modifican y suprimen por Real Decreto del Consejo de Ministros a propuesta del Presidente.",
+    "referencia": "Tema 5, 8.1 Las Comisiones Delegadas del Gobierno (art. 6 LG)"
+  },
+  {
+    "id": "t05-p010",
+    "tema": 5,
+    "pregunta": "Según el Tema 5, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
+    "opciones": [
+      "El Subdelegado del Gobierno",
+      "El Delegado del Gobierno",
+      "El Secretario de Estado",
+      "El Director Insular"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
+    "referencia": "Tema 5, 10.3 Organización periférica de la AGE (art. 69 LRJSP)"
+  }
+]
