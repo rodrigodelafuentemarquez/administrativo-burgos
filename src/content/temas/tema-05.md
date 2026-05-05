@@ -335,58 +335,77 @@ Además de la Administración departamental (ministerios), la AGE actúa a trav�
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 5 — EL GOBIERNO Y LA ADMINISTRACIÓN GENERAL DEL ESTADO
-│
-├── NATURALEZA DEL GOBIERNO (art. 97 CE)
-│   ├── Dirige política interior y exterior
-│   ├── Dirige Administración civil y militar
-│   ├── Ejerce función ejecutiva
-│   └── Ejerce potestad reglamentaria
-│
-├── COMPOSICIÓN
-│   └── Presidente + Vicepresidentes + Ministros + demás (ley)
-│       └── Secretarios de Estado → NO son miembros del Gobierno
-│
-├── INVESTIDURA DEL PRESIDENTE (art. 99 CE)
-│   ├── 1ª votación → mayoría absoluta
-│   ├── 2ª votación (48h después) → mayoría simple
-│   └── Bloqueo 2 meses → disolución de Cortes
-│
-├── NOMBRAMIENTO DEL RESTO
-│   └── Nombrados y separados por el Rey a propuesta del Presidente
-│
-├── CESE (art. 101 CE)
-│   ├── Elecciones / moción de censura / cuestión de confianza / dimisión
-│   └── Gobierno en funciones → solo asuntos ordinarios
-│
-├── FUNCIONES DEL GOBIERNO
-│   ├── Dirección política
-│   ├── Función ejecutiva
-│   ├── Potestad reglamentaria (Reales Decretos)
-│   ├── Iniciativa legislativa (proyectos de ley)
-│   ├── Decreto-ley (urgencia, convalidar en 30 días)
-│   └── Decreto legislativo (delegación de Cortes)
-│
-├── CONSEJO DE MINISTROS
-│   ├── Órgano colegiado del Gobierno
-│   ├── Presidido por el Presidente del Gobierno
-│   └── Reuniones no públicas, deliberaciones secretas
-│
-└── AGE: ORGANIZACIÓN
-    ├── CENTRAL
-    │   ├── Ministerios: Ministro > S. Estado > Subsecretario >
-    │   │   S.G. Técnico > Director General > Subdirector General
-    │   └── Órganos consultivos: Consejo de Estado, Tribunal de Cuentas
-    ├── PERIFÉRICA
-    │   ├── Delegado del Gobierno (CC.AA.) → nombrado por Consejo de Ministros
-    │   └── Subdelegado del Gobierno (provincia)
-    ├── EXTERIOR
-    │   └── Embajadas, consulados, representaciones internacionales
-    └── SECTOR PÚBLICO INSTITUCIONAL
-        └── OO.AA., EPE, Agencias, Autoridades independientes,
-            Sociedades mercantiles, Fundaciones, Fondos
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>NATURALEZA DEL GOBIERNO (art. 97 CE)
+<ul>
+  <li>Dirige política interior y exterior</li>
+  <li>Dirige Administración civil y militar</li>
+  <li>Ejerce función ejecutiva</li>
+  <li>Ejerce potestad reglamentaria</li>
+</ul></li>
+  <li>COMPOSICIÓN
+<ul>
+  <li>Presidente + Vicepresidentes + Ministros + demás (ley)
+<ul>
+  <li>Secretarios de Estado → NO son miembros del Gobierno</li>
+</ul></li>
+</ul></li>
+  <li>INVESTIDURA DEL PRESIDENTE (art. 99 CE)
+<ul>
+  <li>1ª votación → mayoría absoluta</li>
+  <li>2ª votación (48h después) → mayoría simple</li>
+  <li>Bloqueo 2 meses → disolución de Cortes</li>
+</ul></li>
+  <li>NOMBRAMIENTO DEL RESTO
+<ul>
+  <li>Nombrados y separados por el Rey a propuesta del Presidente</li>
+</ul></li>
+  <li>CESE (art. 101 CE)
+<ul>
+  <li>Elecciones / moción de censura / cuestión de confianza / dimisión</li>
+  <li>Gobierno en funciones → solo asuntos ordinarios</li>
+</ul></li>
+  <li>FUNCIONES DEL GOBIERNO
+<ul>
+  <li>Dirección política</li>
+  <li>Función ejecutiva</li>
+  <li>Potestad reglamentaria (Reales Decretos)</li>
+  <li>Iniciativa legislativa (proyectos de ley)</li>
+  <li>Decreto-ley (urgencia, convalidar en 30 días)</li>
+  <li>Decreto legislativo (delegación de Cortes)</li>
+</ul></li>
+  <li>CONSEJO DE MINISTROS
+<ul>
+  <li>Órgano colegiado del Gobierno</li>
+  <li>Presidido por el Presidente del Gobierno</li>
+  <li>Reuniones no públicas, deliberaciones secretas</li>
+</ul></li>
+  <li>AGE: ORGANIZACIÓN
+<ul>
+  <li>CENTRAL
+<ul>
+  <li>Ministerios: Ministro &gt; S. Estado &gt; Subsecretario &gt;</li>
+  <li>S.G. Técnico &gt; Director General &gt; Subdirector General</li>
+  <li>Órganos consultivos: Consejo de Estado, Tribunal de Cuentas</li>
+</ul></li>
+  <li>PERIFÉRICA
+<ul>
+  <li>Delegado del Gobierno (CC.AA.) → nombrado por Consejo de Ministros</li>
+  <li>Subdelegado del Gobierno (provincia)</li>
+</ul></li>
+  <li>EXTERIOR
+<ul>
+  <li>Embajadas, consulados, representaciones internacionales</li>
+</ul></li>
+  <li>SECTOR PÚBLICO INSTITUCIONAL
+<ul>
+  <li>OO.AA., EPE, Agencias, Autoridades independientes,</li>
+  <li>Sociedades mercantiles, Fundaciones, Fondos</li>
+</ul></li>
+</ul></li>
+</ul>
+</div>
 
 ---
 

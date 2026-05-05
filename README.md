@@ -61,6 +61,11 @@ Solo necesitas:
 - modo claro/oscuro según sistema
 - controles nativos accesibles (`fieldset`, `label`, `button`, `select`)
 
+## Criterio editorial
+
+- Los esquemas y resúmenes del temario no deben quedarse en bloques ASCII o de texto monoespaciado.
+- Cuando un tema traiga árboles, organigramas o resúmenes tipo `├──`, hay que convertirlos a listas jerárquicas legibles en web usando el patrón visual de `study-list`.
+
 ## Protección básica (ocultación)
 
 La app incluye una pantalla de acceso en frontend (solo ocultación, no seguridad real).

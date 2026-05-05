@@ -307,81 +307,119 @@ El Ministerio Fiscal actúa conforme a los principios de:
 
 La organización judicial española se articula en los siguientes niveles, de mayor a menor:
 
-```
-TRIBUNAL SUPREMO
-(órgano jurisdiccional superior en todos los órdenes — art. 123 CE)
-Salas: Civil / Penal / Contencioso-Administrativo / Social / Militar
-│
-AUDIENCIA NACIONAL
-(jurisdicción en todo el territorio nacional para asuntos especiales)
-Salas: Penal / Contencioso-Administrativo / Social
-│
-TRIBUNALES SUPERIORES DE JUSTICIA (1 por CC.AA.)
-(culminan la organización judicial en el ámbito autonómico — art. 152 CE)
-Salas: Civil y Penal / Contencioso-Administrativo / Social
-│
-AUDIENCIAS PROVINCIALES (1 por provincia)
-(sede en capital de provincia)
-Órdenes: Civil (apelación) / Penal (apelación y primera instancia en delitos graves)
-│
-JUZGADOS (órganos unipersonales)
-Primera Instancia e Instrucción / Penal / Contencioso-Administrativo /
-Social / Vigilancia Penitenciaria / Menores / Violencia sobre la Mujer /
-Mercantil / Familia / Paz
-```
+<div class="study-list">
+  <ul>
+    <li>
+      <strong>Tribunal Supremo</strong>
+      <ul>
+        <li>Órgano jurisdiccional superior en todos los órdenes (art. 123 CE).</li>
+        <li>Salas: Civil, Penal, Contencioso-Administrativo, Social y Militar.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Audiencia Nacional</strong>
+      <ul>
+        <li>Jurisdicción en todo el territorio nacional para asuntos especiales.</li>
+        <li>Salas: Penal, Contencioso-Administrativo y Social.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Tribunales Superiores de Justicia</strong> <span class="study-note">(1 por Comunidad Autónoma)</span>
+      <ul>
+        <li>Culminan la organización judicial en el ámbito autonómico (art. 152 CE).</li>
+        <li>Salas: Civil y Penal, Contencioso-Administrativo y Social.</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Audiencias Provinciales</strong> <span class="study-note">(1 por provincia)</span>
+      <ul>
+        <li>Sede en la capital de provincia.</li>
+        <li>Órdenes: Civil (apelación) y Penal (apelación y primera instancia en delitos graves).</li>
+      </ul>
+    </li>
+    <li>
+      <strong>Juzgados</strong> <span class="study-note">(órganos unipersonales)</span>
+      <ul>
+        <li>Primera Instancia e Instrucción.</li>
+        <li>Penal.</li>
+        <li>Contencioso-Administrativo.</li>
+        <li>Social.</li>
+        <li>Vigilancia Penitenciaria.</li>
+        <li>Menores.</li>
+        <li>Violencia sobre la Mujer.</li>
+        <li>Mercantil.</li>
+        <li>Familia.</li>
+        <li>Paz.</li>
+      </ul>
+    </li>
+  </ul>
+</div>
 
 ---
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 6 — EL PODER JUDICIAL
-│
-├── PRINCIPIOS CONSTITUCIONALES (art. 117 CE)
-│   ├── Independencia / Inamovilidad / Responsabilidad / Sometimiento a la ley
-│   ├── Exclusividad jurisdiccional: solo jueces y tribunales
-│   ├── Unidad jurisdiccional: prohibición de tribunales de excepción
-│   └── Jurisdicción militar: solo ámbito castrense + estado de sitio
-│
-├── CGPJ (art. 122 CE)
-│   ├── Órgano de GOBIERNO del Poder Judicial (no jurisdiccional)
-│   ├── 21 miembros: Presidente del TS + 20 vocales
-│   │   ├── 12 de procedencia judicial
-│   │   └── 8 juristas con 15 años ejercicio
-│   │       → Todos elegidos por Cortes (mayoría 3/5)
-│   ├── Mandato: 5 años, renovación total
-│   └── Funciones: nombramientos, disciplina, inspección, propuesta de 2
-│       magistrados del TC
-│
-├── TRIBUNAL SUPREMO (art. 123 CE)
-│   ├── Órgano jurisdiccional SUPERIOR en todos los órdenes
-│   ├── 5 Salas: Civil / Penal / C-A / Social / Militar
-│   └── Su Presidente = Presidente del CGPJ (elegido por vocales CGPJ)
-│
-├── AUDIENCIA NACIONAL
-│   ├── Sede: Madrid / Jurisdicción: todo el territorio nacional
-│   └── Salas: Penal (terrorismo...) / C-A / Social
-│
-├── TSJ (1 por CC.AA.)
-│   ├── Culmina la organización judicial en el ámbito autonómico
-│   └── Salas: Civil y Penal / C-A / Social
-│
-├── AUDIENCIAS PROVINCIALES (1 por provincia)
-│   └── Apelación en civil y penal; primera instancia delitos graves
-│
-├── JUZGADOS (unipersonales, base de la pirámide)
-│   └── Primera Instancia / Penal / C-A / Social / Menores /
-│       Violencia Mujer / Mercantil / Vigilancia Penitenciaria / Paz
-│
-└── MINISTERIO FISCAL (art. 124 CE)
-    ├── Misión: defensa de la legalidad, derechos ciudadanos e interés público
-    ├── Principios: unidad / dependencia jerárquica / legalidad / imparcialidad
-    ├── Fiscal General del Estado:
-    │   ├── Nombrado por el Rey a propuesta del Gobierno, oído el CGPJ
-    │   └── Mandato 4 años, no renovable
-    └── Organización: Fiscalía General → Fiscalías TS, AN, TSJ, Provinciales,
-        Especializadas
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>PRINCIPIOS CONSTITUCIONALES (art. 117 CE)
+<ul>
+  <li>Independencia / Inamovilidad / Responsabilidad / Sometimiento a la ley</li>
+  <li>Exclusividad jurisdiccional: solo jueces y tribunales</li>
+  <li>Unidad jurisdiccional: prohibición de tribunales de excepción</li>
+  <li>Jurisdicción militar: solo ámbito castrense + estado de sitio</li>
+</ul></li>
+  <li>CGPJ (art. 122 CE)
+<ul>
+  <li>Órgano de GOBIERNO del Poder Judicial (no jurisdiccional)</li>
+  <li>21 miembros: Presidente del TS + 20 vocales
+<ul>
+  <li>12 de procedencia judicial</li>
+  <li>8 juristas con 15 años ejercicio</li>
+  <li>→ Todos elegidos por Cortes (mayoría 3/5)</li>
+</ul></li>
+  <li>Mandato: 5 años, renovación total</li>
+  <li>Funciones: nombramientos, disciplina, inspección, propuesta de 2</li>
+  <li>magistrados del TC</li>
+</ul></li>
+  <li>TRIBUNAL SUPREMO (art. 123 CE)
+<ul>
+  <li>Órgano jurisdiccional SUPERIOR en todos los órdenes</li>
+  <li>5 Salas: Civil / Penal / C-A / Social / Militar</li>
+  <li>Su Presidente = Presidente del CGPJ (elegido por vocales CGPJ)</li>
+</ul></li>
+  <li>AUDIENCIA NACIONAL
+<ul>
+  <li>Sede: Madrid / Jurisdicción: todo el territorio nacional</li>
+  <li>Salas: Penal (terrorismo...) / C-A / Social</li>
+</ul></li>
+  <li>TSJ (1 por CC.AA.)
+<ul>
+  <li>Culmina la organización judicial en el ámbito autonómico</li>
+  <li>Salas: Civil y Penal / C-A / Social</li>
+</ul></li>
+  <li>AUDIENCIAS PROVINCIALES (1 por provincia)
+<ul>
+  <li>Apelación en civil y penal; primera instancia delitos graves</li>
+</ul></li>
+  <li>JUZGADOS (unipersonales, base de la pirámide)
+<ul>
+  <li>Primera Instancia / Penal / C-A / Social / Menores /</li>
+  <li>Violencia Mujer / Mercantil / Vigilancia Penitenciaria / Paz</li>
+</ul></li>
+  <li>MINISTERIO FISCAL (art. 124 CE)
+<ul>
+  <li>Misión: defensa de la legalidad, derechos ciudadanos e interés público</li>
+  <li>Principios: unidad / dependencia jerárquica / legalidad / imparcialidad</li>
+  <li>Fiscal General del Estado:
+<ul>
+  <li>Nombrado por el Rey a propuesta del Gobierno, oído el CGPJ</li>
+  <li>Mandato 4 años, no renovable</li>
+</ul></li>
+  <li>Organización: Fiscalía General → Fiscalías TS, AN, TSJ, Provinciales,</li>
+  <li>Especializadas</li>
+</ul></li>
+</ul>
+</div>
 
 ---
 

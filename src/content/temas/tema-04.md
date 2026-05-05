@@ -348,50 +348,60 @@ El resultado son los **Decretos legislativos** (desarrollados en el Tema 11).
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 4 — LAS CORTES GENERALES (arts. 66-96 CE)
-│
-├── NATURALEZA
-│   ├── Representan al pueblo español
-│   ├── Bicameralismo imperfecto (Congreso > Senado)
-│   └── Inviolables (art. 66.3 CE)
-│
-├── CONGRESO DE LOS DIPUTADOS
-│   ├── 350 diputados (entre 300-400 posibles)
-│   ├── Circunscripción: provincia
-│   ├── Sistema: proporcional D'Hondt, barrera 3%
-│   └── Mandato: 4 años
-│
-├── SENADO
-│   ├── Cámara de representación territorial
-│   ├── ~265 senadores: provinciales + insulares + autonómicos
-│   └── Mandato: 4 años (elegidos) / mandato autonómico (designados)
-│
-├── ESTATUTO DE PARLAMENTARIOS
-│   ├── Inviolabilidad → opiniones y votos, permanente
-│   ├── Inmunidad → procesamiento, solo durante mandato, suplicatorio
-│   ├── Aforamiento → Sala de lo Penal del TS
-│   └── Mandato representativo (no imperativo)
-│
-├── ORGANIZACIÓN
-│   ├── Mesa + Junta de Portavoces + Presidente
-│   ├── Grupos parlamentarios (mín. 15 en Congreso, 10 en Senado)
-│   ├── Comisiones (permanentes, no permanentes, mixtas)
-│   └── Diputación Permanente (mín. 21 miembros, cámara disuelta)
-│
-├── FUNCIONAMIENTO
-│   ├── Períodos: septiembre-diciembre / febrero-junio
-│   ├── Quórum: mayoría de miembros
-│   └── Mayorías: simple / absoluta / 3/5 / 2/3
-│
-└── ATRIBUCIONES
-    ├── Legislativa: iniciativa (500.000 firmas ciudadanos) + procedimiento
-    │   └── LO → mayoría absoluta del Congreso
-    ├── Presupuestaria: aprueban PGE (proyecto antes del 1 oct.)
-    ├── Control: preguntas, interpelaciones, comisiones de investigación
-    ├── Investidura, moción de censura, cuestión de confianza
-    └── Convalidación decretos-leyes → 30 días
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>NATURALEZA
+<ul>
+  <li>Representan al pueblo español</li>
+  <li>Bicameralismo imperfecto (Congreso &gt; Senado)</li>
+  <li>Inviolables (art. 66.3 CE)</li>
+</ul></li>
+  <li>CONGRESO DE LOS DIPUTADOS
+<ul>
+  <li>350 diputados (entre 300-400 posibles)</li>
+  <li>Circunscripción: provincia</li>
+  <li>Sistema: proporcional D'Hondt, barrera 3%</li>
+  <li>Mandato: 4 años</li>
+</ul></li>
+  <li>SENADO
+<ul>
+  <li>Cámara de representación territorial</li>
+  <li>~265 senadores: provinciales + insulares + autonómicos</li>
+  <li>Mandato: 4 años (elegidos) / mandato autonómico (designados)</li>
+</ul></li>
+  <li>ESTATUTO DE PARLAMENTARIOS
+<ul>
+  <li>Inviolabilidad → opiniones y votos, permanente</li>
+  <li>Inmunidad → procesamiento, solo durante mandato, suplicatorio</li>
+  <li>Aforamiento → Sala de lo Penal del TS</li>
+  <li>Mandato representativo (no imperativo)</li>
+</ul></li>
+  <li>ORGANIZACIÓN
+<ul>
+  <li>Mesa + Junta de Portavoces + Presidente</li>
+  <li>Grupos parlamentarios (mín. 15 en Congreso, 10 en Senado)</li>
+  <li>Comisiones (permanentes, no permanentes, mixtas)</li>
+  <li>Diputación Permanente (mín. 21 miembros, cámara disuelta)</li>
+</ul></li>
+  <li>FUNCIONAMIENTO
+<ul>
+  <li>Períodos: septiembre-diciembre / febrero-junio</li>
+  <li>Quórum: mayoría de miembros</li>
+  <li>Mayorías: simple / absoluta / 3/5 / 2/3</li>
+</ul></li>
+  <li>ATRIBUCIONES
+<ul>
+  <li>Legislativa: iniciativa (500.000 firmas ciudadanos) + procedimiento
+<ul>
+  <li>LO → mayoría absoluta del Congreso</li>
+</ul></li>
+  <li>Presupuestaria: aprueban PGE (proyecto antes del 1 oct.)</li>
+  <li>Control: preguntas, interpelaciones, comisiones de investigación</li>
+  <li>Investidura, moción de censura, cuestión de confianza</li>
+  <li>Convalidación decretos-leyes → 30 días</li>
+</ul></li>
+</ul>
+</div>
 
 ---
 

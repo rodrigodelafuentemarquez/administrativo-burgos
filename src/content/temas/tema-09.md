@@ -273,47 +273,60 @@ Este principio, recogido en la **Carta Europea de Autonomía Local** y asumido p
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 9 — RÉGIMEN LOCAL ESPAÑOL
-│
-├── FUNDAMENTO CONSTITUCIONAL
-│   ├── Art. 137 CE → municipios + provincias + CC.AA. = autonomía
-│   ├── Art. 140 CE → garantía autonomía municipal
-│   ├── Art. 141 CE → provincia = entidad local + agrupación de municipios
-│   └── Art. 142 CE → haciendas locales suficientes
-│
-├── LEGISLACIÓN BÁSICA
-│   └── LBRL (Ley 7/1985) + TRRL + ROF + Legislación autonómica (CyL: Ley 1/1998)
-│
-├── CLASES DE ENTES LOCALES (art. 3 LBRL)
-│   ├── NECESARIOS (constitucionalmente garantizados)
-│   │   ├── Municipio → gobierno: Ayuntamiento
-│   │   ├── Provincia → gobierno: Diputación Provincial
-│   │   └── Isla → gobierno: Cabildo (Canarias) / Consell (Baleares)
-│   └── POTESTATIVOS (pueden crearse o no)
-│       ├── Entidades Locales Menores (en CyL: Juntas Vecinales)
-│       ├── Comarcas
-│       ├── Áreas Metropolitanas
-│       └── Mancomunidades de Municipios
-│
-├── EL MUNICIPIO
-│   ├── Elementos: territorio + población (padrón) + organización (Ayuntamiento)
-│   ├── Padrón: registro de vecinos, gestionado por el INE
-│   └── Regímenes especiales: gran población (+250.000 h.) /
-│       Concejo Abierto (-100 h.) / Madrid y Barcelona
-│
-├── COMPETENCIAS MUNICIPALES (LBRL + LRSAL 2013)
-│   ├── Propias / Delegadas / Distintas de las propias y delegadas
-│   └── Servicios mínimos:
-│       ├── Todos → alumbrado, cementerio, agua, alcantarillado...
-│       ├── +5.000 h. → parque, biblioteca, tratamiento de residuos
-│       ├── +20.000 h. → protección civil, incendios, instalaciones deportivas
-│       └── +50.000 h. → transporte colectivo, medio ambiente urbano
-│
-└── SUBSIDIARIEDAD
-    └── Decisiones al nivel más cercano al ciudadano;
-        el nivel superior solo actúa si el inferior no puede
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>FUNDAMENTO CONSTITUCIONAL
+<ul>
+  <li>Art. 137 CE → municipios + provincias + CC.AA. = autonomía</li>
+  <li>Art. 140 CE → garantía autonomía municipal</li>
+  <li>Art. 141 CE → provincia = entidad local + agrupación de municipios</li>
+  <li>Art. 142 CE → haciendas locales suficientes</li>
+</ul></li>
+  <li>LEGISLACIÓN BÁSICA
+<ul>
+  <li>LBRL (Ley 7/1985) + TRRL + ROF + Legislación autonómica (CyL: Ley 1/1998)</li>
+</ul></li>
+  <li>CLASES DE ENTES LOCALES (art. 3 LBRL)
+<ul>
+  <li>NECESARIOS (constitucionalmente garantizados)
+<ul>
+  <li>Municipio → gobierno: Ayuntamiento</li>
+  <li>Provincia → gobierno: Diputación Provincial</li>
+  <li>Isla → gobierno: Cabildo (Canarias) / Consell (Baleares)</li>
+</ul></li>
+  <li>POTESTATIVOS (pueden crearse o no)
+<ul>
+  <li>Entidades Locales Menores (en CyL: Juntas Vecinales)</li>
+  <li>Comarcas</li>
+  <li>Áreas Metropolitanas</li>
+  <li>Mancomunidades de Municipios</li>
+</ul></li>
+</ul></li>
+  <li>EL MUNICIPIO
+<ul>
+  <li>Elementos: territorio + población (padrón) + organización (Ayuntamiento)</li>
+  <li>Padrón: registro de vecinos, gestionado por el INE</li>
+  <li>Regímenes especiales: gran población (+250.000 h.) /</li>
+  <li>Concejo Abierto (-100 h.) / Madrid y Barcelona</li>
+</ul></li>
+  <li>COMPETENCIAS MUNICIPALES (LBRL + LRSAL 2013)
+<ul>
+  <li>Propias / Delegadas / Distintas de las propias y delegadas</li>
+  <li>Servicios mínimos:
+<ul>
+  <li>Todos → alumbrado, cementerio, agua, alcantarillado...</li>
+  <li>+5.000 h. → parque, biblioteca, tratamiento de residuos</li>
+  <li>+20.000 h. → protección civil, incendios, instalaciones deportivas</li>
+  <li>+50.000 h. → transporte colectivo, medio ambiente urbano</li>
+</ul></li>
+</ul></li>
+  <li>SUBSIDIARIEDAD
+<ul>
+  <li>Decisiones al nivel más cercano al ciudadano;</li>
+  <li>el nivel superior solo actúa si el inferior no puede</li>
+</ul></li>
+</ul>
+</div>
 
 ---
 

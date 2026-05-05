@@ -261,39 +261,48 @@ Las CC.AA. gozan de **autonomía financiera** para el desarrollo y ejecución de
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 7 — ORGANIZACIÓN TERRITORIAL Y CC.AA.
-│
-├── ORGANIZACIÓN TERRITORIAL (art. 137 CE)
-│   └── Municipios + Provincias + CC.AA. → todos con autonomía
-│
-├── CC.AA.
-│   ├── Derecho a la autonomía (art. 2 CE)
-│   ├── Vías de acceso:
-│   │   ├── Art. 143 → vía ordinaria (competencias limitadas, ampliables en 5 años)
-│   │   └── Art. 151 → vía rápida (competencias máximas desde el inicio)
-│   ├── Estatuto de Autonomía → norma institucional básica (LO para su aprobación)
-│   └── Instituciones: Asamblea Legislativa + Consejo de Gobierno + Presidente + TSJ
-│
-├── DISTRIBUCIÓN COMPETENCIAL
-│   ├── Art. 148 → materias que PUEDEN asumir las CC.AA.
-│   ├── Art. 149 → competencias EXCLUSIVAS del Estado (32 materias)
-│   └── Art. 149.3 → cláusula residual + prevalencia + supletoriedad del Derecho estatal
-│
-├── TIPOS DE COMPETENCIAS
-│   ├── Exclusivas: todo a un solo ente
-│   ├── Compartidas: Estado (bases) + CC.AA. (desarrollo y ejecución)
-│   └── De ejecución: Estado (normativa) + CC.AA. (ejecución)
-│
-├── LEYES ESPECIALES (art. 150 CE)
-│   ├── Leyes marco → delegan facultad normativa a CC.AA.
-│   ├── Leyes de transferencia → LO que transfiere competencias estatales
-│   └── Leyes de armonización → interés general; mayoría absoluta de cada Cámara
-│
-└── CONTROL
-    ├── Art. 155 → coerción estatal: requiere mayoría absoluta del SENADO
-    └── TC / TS / Tribunal de Cuentas / Control gubernativo (art. 153)
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>ORGANIZACIÓN TERRITORIAL (art. 137 CE)
+<ul>
+  <li>Municipios + Provincias + CC.AA. → todos con autonomía</li>
+</ul></li>
+  <li>CC.AA.
+<ul>
+  <li>Derecho a la autonomía (art. 2 CE)</li>
+  <li>Vías de acceso:
+<ul>
+  <li>Art. 143 → vía ordinaria (competencias limitadas, ampliables en 5 años)</li>
+  <li>Art. 151 → vía rápida (competencias máximas desde el inicio)</li>
+</ul></li>
+  <li>Estatuto de Autonomía → norma institucional básica (LO para su aprobación)</li>
+  <li>Instituciones: Asamblea Legislativa + Consejo de Gobierno + Presidente + TSJ</li>
+</ul></li>
+  <li>DISTRIBUCIÓN COMPETENCIAL
+<ul>
+  <li>Art. 148 → materias que PUEDEN asumir las CC.AA.</li>
+  <li>Art. 149 → competencias EXCLUSIVAS del Estado (32 materias)</li>
+  <li>Art. 149.3 → cláusula residual + prevalencia + supletoriedad del Derecho estatal</li>
+</ul></li>
+  <li>TIPOS DE COMPETENCIAS
+<ul>
+  <li>Exclusivas: todo a un solo ente</li>
+  <li>Compartidas: Estado (bases) + CC.AA. (desarrollo y ejecución)</li>
+  <li>De ejecución: Estado (normativa) + CC.AA. (ejecución)</li>
+</ul></li>
+  <li>LEYES ESPECIALES (art. 150 CE)
+<ul>
+  <li>Leyes marco → delegan facultad normativa a CC.AA.</li>
+  <li>Leyes de transferencia → LO que transfiere competencias estatales</li>
+  <li>Leyes de armonización → interés general; mayoría absoluta de cada Cámara</li>
+</ul></li>
+  <li>CONTROL
+<ul>
+  <li>Art. 155 → coerción estatal: requiere mayoría absoluta del SENADO</li>
+  <li>TC / TS / Tribunal de Cuentas / Control gubernativo (art. 153)</li>
+</ul></li>
+</ul>
+</div>
 
 ---
 

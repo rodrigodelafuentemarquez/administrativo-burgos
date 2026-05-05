@@ -320,46 +320,60 @@ En caso de conflicto de atribuciones, prevalece la competencia del **Defensor de
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 8 — ESTATUTO DE AUTONOMÍA DE CASTILLA Y LEÓN
-│
-├── ESTATUTO
-│   ├── LO 14/2007 (reforma vigente)
-│   ├── 9 provincias: Ávila, Burgos, León, Palencia, Salamanca,
-│   │   Segovia, Soria, Valladolid y Zamora
-│   ├── Capital: Valladolid
-│   ├── Fiesta: 23 de abril (Villalar)
-│   └── TSJ: sede en BURGOS
-│
-├── INSTITUCIONES (art. 19 EACyL)
-│   ├── Cortes de Castilla y León
-│   │   ├── 61-83 Procuradores (actualmente 81)
-│   │   ├── Circunscripción: provincia / mínimo 3 por provincia
-│   │   ├── D'Hondt / barrera 3%
-│   │   └── Sede: Valladolid
-│   │
-│   ├── Presidente de la Junta
-│   │   ├── Elegido por Cortes: 1ª votación mayoría absoluta /
-│   │   │   2ª votación mayoría simple
-│   │   ├── Nombrado por el Rey
-│   │   └── Representa a la CC.AA. y ordinariamente al Estado
-│   │
-│   └── Junta de Castilla y León (Consejo de Gobierno)
-│       ├── Presidente + Consejeros
-│       └── Función ejecutiva y reglamentaria
-│
-└── PROCURADOR DEL COMÚN
-    ├── Comisionado de las Cortes de CyL
-    ├── Elegido por Cortes: 3/5 (1ª) o mayoría absoluta (2ª)
-    ├── Mandato: 5 años, renovable UNA vez
-    ├── Supervisa: Junta + Entidades Locales de CyL
-    ├── NO supervisa: AGE (eso es el Defensor del Pueblo)
-    ├── Gratuito, sin abogado, plazo 1 año
-    ├── Resoluciones NO vinculantes:
-    │   recomendaciones / sugerencias / recordatorios / advertencias
-    ├── Aforamiento: TSJ de Castilla y León
-    └── Informe anual a las Cortes de CyL
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>ESTATUTO
+<ul>
+  <li>LO 14/2007 (reforma vigente)</li>
+  <li>9 provincias: Ávila, Burgos, León, Palencia, Salamanca,</li>
+  <li>Segovia, Soria, Valladolid y Zamora</li>
+  <li>Capital: Valladolid</li>
+  <li>Fiesta: 23 de abril (Villalar)</li>
+  <li>TSJ: sede en BURGOS</li>
+</ul></li>
+  <li>INSTITUCIONES (art. 19 EACyL)
+<ul>
+  <li>Cortes de Castilla y León
+<ul>
+  <li>61-83 Procuradores (actualmente 81)</li>
+  <li>Circunscripción: provincia / mínimo 3 por provincia</li>
+  <li>D'Hondt / barrera 3%</li>
+  <li>Sede: Valladolid</li>
+</ul></li>
+</ul></li>
+  <li>│
+<ul>
+  <li>Presidente de la Junta
+<ul>
+  <li>Elegido por Cortes: 1ª votación mayoría absoluta /</li>
+  <li>2ª votación mayoría simple</li>
+  <li>Nombrado por el Rey</li>
+  <li>Representa a la CC.AA. y ordinariamente al Estado</li>
+</ul></li>
+</ul></li>
+  <li>│
+<ul>
+  <li>Junta de Castilla y León (Consejo de Gobierno)
+<ul>
+  <li>Presidente + Consejeros</li>
+  <li>Función ejecutiva y reglamentaria</li>
+</ul></li>
+</ul></li>
+  <li>PROCURADOR DEL COMÚN
+<ul>
+  <li>Comisionado de las Cortes de CyL</li>
+  <li>Elegido por Cortes: 3/5 (1ª) o mayoría absoluta (2ª)</li>
+  <li>Mandato: 5 años, renovable UNA vez</li>
+  <li>Supervisa: Junta + Entidades Locales de CyL</li>
+  <li>NO supervisa: AGE (eso es el Defensor del Pueblo)</li>
+  <li>Gratuito, sin abogado, plazo 1 año</li>
+  <li>Resoluciones NO vinculantes:</li>
+  <li>recomendaciones / sugerencias / recordatorios / advertencias</li>
+  <li>Aforamiento: TSJ de Castilla y León</li>
+  <li>Informe anual a las Cortes de CyL</li>
+</ul></li>
+</ul>
+</div>
 
 ---
 

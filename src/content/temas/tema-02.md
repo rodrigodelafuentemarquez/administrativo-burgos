@@ -267,36 +267,44 @@ La Constitución **no puede ser reformada** en tiempo de guerra ni durante la vi
 
 ## RESUMEN ESQUEMÁTICO PARA REPASAR
 
-```
-TEMA 2
-│
-├── TRIBUNAL CONSTITUCIONAL
-│   ├── 12 magistrados: 4 Congreso + 4 Senado + 2 Gobierno + 2 CGPJ
-│   ├── Mandato 9 años, renovación por tercios cada 3 años, NO renovables
-│   ├── Presidente: elegido por magistrados, 3 años (renovable 1 vez)
-│   ├── Formaciones: Pleno (12) / Salas (6) / Secciones (3)
-│   └── Competencias principales:
-│       ├── Recurso inconstitucionalidad (leyes)
-│       ├── Cuestión inconstitucionalidad (jueces)
-│       ├── Recurso de amparo (derechos arts. 14-29 y 30.2)
-│       └── Conflictos de competencia
-│
-├── DEFENSOR DEL PUEBLO
-│   ├── Alto comisionado de las Cortes Generales
-│   ├── Elegido por 3/5 de Congreso y Senado
-│   ├── Mandato 5 años, renovable
-│   ├── 2 adjuntos
-│   ├── Gratuito, sin abogado, plazo 1 año
-│   ├── Resoluciones NO vinculantes (recomendaciones, sugerencias...)
-│   └── Puede interponer recurso de inconstitucionalidad y amparo
-│
-└── REFORMA CONSTITUCIONAL
-    ├── Iniciativa: Gobierno, Congreso, Senado, Asambleas CCAA (NO popular)
-    ├── Procedimiento ordinario (art. 167): 3/5, referéndum facultativo
-    ├── Procedimiento agravado (art. 168): 2/3, disolución, referéndum OBLIGATORIO
-    │   └── Afecta a: Tít. Preliminar + Secc. 1ª Cap. II Tít. I + Tít. II
-    └── Límite temporal (art. 169): NO en guerra ni estados excepcionales
-```
+<div class="study-list study-list-summary">
+<ul>
+  <li>TRIBUNAL CONSTITUCIONAL
+<ul>
+  <li>12 magistrados: 4 Congreso + 4 Senado + 2 Gobierno + 2 CGPJ</li>
+  <li>Mandato 9 años, renovación por tercios cada 3 años, NO renovables</li>
+  <li>Presidente: elegido por magistrados, 3 años (renovable 1 vez)</li>
+  <li>Formaciones: Pleno (12) / Salas (6) / Secciones (3)</li>
+  <li>Competencias principales:
+<ul>
+  <li>Recurso inconstitucionalidad (leyes)</li>
+  <li>Cuestión inconstitucionalidad (jueces)</li>
+  <li>Recurso de amparo (derechos arts. 14-29 y 30.2)</li>
+  <li>Conflictos de competencia</li>
+</ul></li>
+</ul></li>
+  <li>DEFENSOR DEL PUEBLO
+<ul>
+  <li>Alto comisionado de las Cortes Generales</li>
+  <li>Elegido por 3/5 de Congreso y Senado</li>
+  <li>Mandato 5 años, renovable</li>
+  <li>2 adjuntos</li>
+  <li>Gratuito, sin abogado, plazo 1 año</li>
+  <li>Resoluciones NO vinculantes (recomendaciones, sugerencias...)</li>
+  <li>Puede interponer recurso de inconstitucionalidad y amparo</li>
+</ul></li>
+  <li>REFORMA CONSTITUCIONAL
+<ul>
+  <li>Iniciativa: Gobierno, Congreso, Senado, Asambleas CCAA (NO popular)</li>
+  <li>Procedimiento ordinario (art. 167): 3/5, referéndum facultativo</li>
+  <li>Procedimiento agravado (art. 168): 2/3, disolución, referéndum OBLIGATORIO
+<ul>
+  <li>Afecta a: Tít. Preliminar + Secc. 1ª Cap. II Tít. I + Tít. II</li>
+</ul></li>
+  <li>Límite temporal (art. 169): NO en guerra ni estados excepcionales</li>
+</ul></li>
+</ul>
+</div>
 
 ---
 
