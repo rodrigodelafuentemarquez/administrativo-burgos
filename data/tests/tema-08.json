@@ -138,5 +138,75 @@
     "correcta": 1,
     "explicacion": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
     "referencia": "Tema 8, 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión"
+  },
+  {
+    "id": "t08-p011",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, ¿qué día es la fiesta de la Comunidad de Castilla y León?",
+    "opciones": [
+      "15 de agosto",
+      "12 de octubre",
+      "23 de abril",
+      "6 de diciembre"
+    ],
+    "correcta": 2,
+    "explicacion": "El temario fija el 23 de abril como fiesta de la Comunidad, en conmemoración de Villalar.",
+    "referencia": "Tema 8, 1.5 Símbolos (art. 3 EACyL)"
+  },
+  {
+    "id": "t08-p012",
+    "tema": 8,
+    "pregunta": "¿Cuál de los siguientes derechos estatutarios menciona el Tema 8?",
+    "opciones": [
+      "Derecho a una buena administración y a servicios públicos de calidad",
+      "Derecho de sufragio universal municipal",
+      "Derecho a dictar leyes orgánicas",
+      "Derecho a la declaración de guerra"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el derecho a una buena administración como derecho estatutario.",
+    "referencia": "Tema 8, 1.6 Derechos y principios rectores"
+  },
+  {
+    "id": "t08-p013",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, las Cortes de Castilla y León se eligen por circunscripción...",
+    "opciones": [
+      "comarcal",
+      "provincial",
+      "insular",
+      "municipal"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la circunscripción es la provincia.",
+    "referencia": "Tema 8, 2.2 Las Cortes de Castilla y León"
+  },
+  {
+    "id": "t08-p014",
+    "tema": 8,
+    "pregunta": "¿Qué puede hacer el Presidente de la Junta de Castilla y León según el Tema 8?",
+    "opciones": [
+      "Nombrar al Rey",
+      "Plantear la cuestión de confianza y disolver las Cortes en los términos estatutarios",
+      "Legislar por decreto-ley estatal",
+      "Designar al Tribunal Superior de Justicia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge entre sus funciones la cuestión de confianza y la posibilidad de disolver las Cortes.",
+    "referencia": "Tema 8, 2.3 El Presidente de la Junta de Castilla y León"
+  },
+  {
+    "id": "t08-p015",
+    "tema": 8,
+    "pregunta": "¿Cuánto dura el mandato del Procurador del Común según el Tema 8?",
+    "opciones": [
+      "4 años, renovable indefinidamente",
+      "5 años, renovable una sola vez",
+      "6 años, no renovable",
+      "8 años, renovable por mitades"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de 5 años y una sola renovación.",
+    "referencia": "Tema 8, 4.2 Elección y mandato"
   }
 ]

@@ -138,5 +138,75 @@
     "correcta": 1,
     "explicacion": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
     "referencia": "Tema 5, 10.3 Organización periférica de la AGE (art. 69 LRJSP)"
+  },
+  {
+    "id": "t05-p011",
+    "tema": 5,
+    "pregunta": "¿Qué distingue el Tema 5 como rasgo propio del Gobierno frente a la Administración?",
+    "opciones": [
+      "Que el Gobierno gestiona expedientes y la Administración decide políticamente",
+      "Que el Gobierno tiene dirección política propia y la Administración es instrumental",
+      "Que la Administración dirige el programa de gobierno",
+      "Que ambos tienen la misma naturaleza jurídica"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema diferencia al Gobierno como órgano político y a la Administración como aparato instrumental.",
+    "referencia": "Tema 5, 1.2 Distinción entre Gobierno y Administración"
+  },
+  {
+    "id": "t05-p012",
+    "tema": 5,
+    "pregunta": "Según el Tema 5, los Secretarios de Estado...",
+    "opciones": [
+      "son miembros del Gobierno con voto en Consejo de Ministros",
+      "no son miembros del Gobierno en sentido estricto",
+      "solo pueden ser nombrados por las Cortes",
+      "presiden el Consejo de Ministros en ausencia del Presidente"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que no son miembros del Gobierno en sentido estricto.",
+    "referencia": "Tema 5, 2.2 Los Secretarios de Estado"
+  },
+  {
+    "id": "t05-p013",
+    "tema": 5,
+    "pregunta": "¿Qué órgano prepara los asuntos que se someterán al Consejo de Ministros, según el Tema 5?",
+    "opciones": [
+      "La Comisión General de Secretarios de Estado y Subsecretarios",
+      "La Junta de Portavoces",
+      "El Pleno del Congreso",
+      "El Tribunal Supremo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define ese órgano como preparatorio del Consejo de Ministros.",
+    "referencia": "Tema 5, 8.2 La Comisión General de Secretarios de Estado y Subsecretarios (art. 8 LG)"
+  },
+  {
+    "id": "t05-p014",
+    "tema": 5,
+    "pregunta": "Según el Tema 5, los Ministros ejercen la potestad reglamentaria en sus materias mediante...",
+    "opciones": [
+      "Decretos-ley",
+      "Órdenes Ministeriales",
+      "Leyes orgánicas",
+      "Bandos provinciales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye a los Ministros la potestad reglamentaria mediante Órdenes Ministeriales.",
+    "referencia": "Tema 5, 9.3 Los Ministros (art. 4 LG)"
+  },
+  {
+    "id": "t05-p015",
+    "tema": 5,
+    "pregunta": "¿Cuál de los siguientes principios constitucionales de la Administración General del Estado recoge el Tema 5?",
+    "opciones": [
+      "centralización absoluta",
+      "objetividad, eficacia, jerarquía, descentralización, desconcentración y coordinación",
+      "mandato imperativo y supremacía política",
+      "autonomía legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge esos principios en el art. 103 CE.",
+    "referencia": "Tema 5, 10.1 Concepto y caracterización"
   }
 ]

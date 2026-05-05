@@ -138,5 +138,75 @@
     "correcta": 0,
     "explicacion": "El tema enumera entre los recursos autonómicos el producto de las operaciones de crédito.",
     "referencia": "Tema 7, 5. La financiación autonómica (art. 157 CE)"
+  },
+  {
+    "id": "t07-p011",
+    "tema": 7,
+    "pregunta": "Según el Tema 7, ¿qué artículo contiene la lista de materias sobre las que las CC.AA. pueden asumir competencias?",
+    "opciones": [
+      "Art. 148 CE",
+      "Art. 149 CE",
+      "Art. 150 CE",
+      "Art. 155 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica el art. 148 CE con las materias susceptibles de asunción autonómica.",
+    "referencia": "Tema 7, 3.1 Las tres listas constitucionales"
+  },
+  {
+    "id": "t07-p012",
+    "tema": 7,
+    "pregunta": "¿Qué materia figura entre las competencias exclusivas del Estado según el Tema 7?",
+    "opciones": [
+      "Turismo",
+      "Agricultura",
+      "Defensa y Fuerzas Armadas",
+      "Asistencia social"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema incluye defensa y Fuerzas Armadas dentro de las competencias exclusivas del Estado.",
+    "referencia": "Tema 7, 3.2 Las competencias exclusivas del Estado (art. 149.1 CE)"
+  },
+  {
+    "id": "t07-p013",
+    "tema": 7,
+    "pregunta": "Según el Tema 7, las leyes de transferencia o delegación del art. 150.2 CE se aprueban mediante...",
+    "opciones": [
+      "Ley Orgánica",
+      "Ley marco",
+      "Ley ordinaria",
+      "Reglamento de las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que la transferencia o delegación de competencias propias del Estado a las CC.AA. se hace mediante Ley Orgánica.",
+    "referencia": "Tema 7, 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)"
+  },
+  {
+    "id": "t07-p014",
+    "tema": 7,
+    "pregunta": "Para aplicar el art. 155 CE, según el Tema 7, el Gobierno necesita previo acuerdo del...",
+    "opciones": [
+      "Tribunal Constitucional",
+      "Senado por mayoría absoluta",
+      "Congreso por mayoría simple",
+      "Consejo de Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema establece que el Gobierno debe requerir al Presidente autonómico y, si no hay cumplimiento, necesita acuerdo del Senado por mayoría absoluta.",
+    "referencia": "Tema 7, 4.1 El art. 155 CE — Coerción estatal"
+  },
+  {
+    "id": "t07-p015",
+    "tema": 7,
+    "pregunta": "¿Cuál de los siguientes recursos forma parte de los recursos de una Comunidad Autónoma según el Tema 7?",
+    "opciones": [
+      "El producto de las operaciones de crédito",
+      "La recaudación del impuesto de sociedades estatal",
+      "Las tasas de las Diputaciones Provinciales",
+      "Los derechos arancelarios de aduana"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera el producto de las operaciones de crédito como recurso autonómico.",
+    "referencia": "Tema 7, 5. La financiación autonómica (art. 157 CE)"
   }
 ]

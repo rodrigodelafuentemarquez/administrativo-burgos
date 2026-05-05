@@ -138,5 +138,75 @@
     "correcta": 1,
     "explicacion": "El tema señala que para esas materias se aplica el procedimiento agravado del art. 168 CE.",
     "referencia": "Tema 1, 1.3 Estructura / 3.4 Suspensión y reforma"
+  },
+  {
+    "id": "t01-p011",
+    "tema": 1,
+    "pregunta": "Según el Tema 1, ¿qué afirma el art. 10.1 CE sobre la dignidad de la persona y los derechos inviolables?",
+    "opciones": [
+      "Que son fundamento del orden político y de la paz social",
+      "Que solo vinculan al legislador",
+      "Que dependen de una ley orgánica",
+      "Que se aplican solo a los extranjeros"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge que la dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.",
+    "referencia": "Tema 1, 2.1 Artículo 10 CE"
+  },
+  {
+    "id": "t01-p012",
+    "tema": 1,
+    "pregunta": "¿A qué edad alcanza la mayoría de edad una persona, según el Tema 1?",
+    "opciones": [
+      "16 años",
+      "18 años",
+      "21 años",
+      "25 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la mayoría de edad se alcanza a los 18 años.",
+    "referencia": "Tema 1, 2.2 Capítulo I — Españoles y extranjeros"
+  },
+  {
+    "id": "t01-p013",
+    "tema": 1,
+    "pregunta": "Según el Tema 1, ¿qué derecho prohíbe la pena de muerte salvo en tiempo de guerra?",
+    "opciones": [
+      "Art. 15 CE",
+      "Art. 16 CE",
+      "Art. 18 CE",
+      "Art. 19 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
+    "referencia": "Tema 1, Sección 1ª, art. 15 CE"
+  },
+  {
+    "id": "t01-p014",
+    "tema": 1,
+    "pregunta": "Conforme al Tema 1, ¿qué característica tienen las reuniones en lugares de tránsito público y las manifestaciones?",
+    "opciones": [
+      "Necesitan autorización previa",
+      "Exigen comunicación previa a la autoridad",
+      "Son siempre secretas",
+      "Solo pueden celebrarse por la noche"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que no necesitan autorización previa, aunque sí comunicación previa a la autoridad.",
+    "referencia": "Tema 1, Sección 1ª, art. 21 CE"
+  },
+  {
+    "id": "t01-p015",
+    "tema": 1,
+    "pregunta": "¿Qué naturaleza tienen los principios rectores de la política social y económica según el Tema 1?",
+    "opciones": [
+      "Son derechos directamente exigibles ante cualquier tribunal",
+      "Son mandatos al legislador y solo alegables según las leyes que los desarrollen",
+      "Son normas de rango reglamentario",
+      "Solo obligan a las Comunidades Autónomas"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario explica que no son derechos subjetivos directamente exigibles, sino mandatos al legislador.",
+    "referencia": "Tema 1, 2.4 Capítulo III — Principios rectores de la política social y económica"
   }
 ]

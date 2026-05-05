@@ -138,5 +138,75 @@
     "correcta": 1,
     "explicacion": "El tema recoge que la iniciativa legislativa popular exige 500.000 firmas y excluye determinadas materias.",
     "referencia": "Tema 4, 7.1 a) Iniciativa legislativa (art. 87 CE)"
+  },
+  {
+    "id": "t04-p011",
+    "tema": 4,
+    "pregunta": "Según el Tema 4, el Senado está compuesto por senadores provinciales, insulares, de Ceuta y Melilla y...",
+    "opciones": [
+      "senadores autonómicos",
+      "senadores vitalicios",
+      "senadores corporativos",
+      "senadores designados por el Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera los senadores autonómicos como parte de la composición mixta del Senado.",
+    "referencia": "Tema 4, 3.1 Naturaleza y composición (art. 69 CE)"
+  },
+  {
+    "id": "t04-p012",
+    "tema": 4,
+    "pregunta": "¿Qué mínimo de senadores deben reunir los grupos parlamentarios en el Senado según el Tema 4?",
+    "opciones": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema fija en 10 senadores el mínimo para formar grupo en la Cámara Alta.",
+    "referencia": "Tema 4, 5.2 Los Grupos Parlamentarios"
+  },
+  {
+    "id": "t04-p013",
+    "tema": 4,
+    "pregunta": "Según el Tema 4, las Diputaciones Permanentes...",
+    "opciones": [
+      "solo existen en el Congreso",
+      "velan por los poderes de las Cámaras cuando no están reunidas",
+      "aprueban las leyes orgánicas",
+      "sustituyen al Gobierno en funciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema les atribuye la función de velar por los poderes de las Cámaras cuando estas no están reunidas.",
+    "referencia": "Tema 4, 6.4 Las Diputaciones Permanentes (art. 78 CE)"
+  },
+  {
+    "id": "t04-p014",
+    "tema": 4,
+    "pregunta": "En el procedimiento legislativo ordinario descrito en el Tema 4, ¿qué plazo tiene el Senado para actuar sobre el texto recibido del Congreso?",
+    "opciones": [
+      "15 días",
+      "1 mes",
+      "2 meses",
+      "3 meses"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema fija un plazo de 2 meses para que el Senado apruebe, enmiende o vete el texto.",
+    "referencia": "Tema 4, 7.1 b) Procedimiento legislativo ordinario"
+  },
+  {
+    "id": "t04-p015",
+    "tema": 4,
+    "pregunta": "Según el Tema 4, la declaración del estado de sitio corresponde al...",
+    "opciones": [
+      "Gobierno por decreto-ley",
+      "Congreso por mayoría absoluta",
+      "Senado por mayoría absoluta",
+      "Tribunal Constitucional"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el estado de sitio lo declara el Congreso por mayoría absoluta.",
+    "referencia": "Tema 4, 7.5 Otras atribuciones constitucionales relevantes"
   }
 ]
