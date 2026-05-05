@@ -2,7 +2,7 @@
   {
     "id": "t05-p001",
     "tema": 5,
-    "pregunta": "Según el Tema 5, el Gobierno...",
+    "pregunta": "Según el epígrafe 1.1 del Tema 5, el Gobierno...",
     "opciones": [
       "dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado",
       "solo ejecuta las leyes sin dirección política",
@@ -16,7 +16,7 @@
   {
     "id": "t05-p002",
     "tema": 5,
-    "pregunta": "¿Cuál de los siguientes no es miembro del Gobierno en sentido estricto según el Tema 5?",
+    "pregunta": "Según el epígrafe 2.2 del Tema 5, ¿Cuál de los siguientes no es miembro del Gobierno en sentido estricto 5?",
     "opciones": [
       "El Presidente del Gobierno",
       "Los Ministros",
@@ -44,7 +44,7 @@
   {
     "id": "t05-p004",
     "tema": 5,
-    "pregunta": "Si transcurren dos meses desde la primera votación de investidura sin que ningún candidato obtenga la confianza, ¿qué ocurre según el Tema 5?",
+    "pregunta": "Según el epígrafe 3.2 del Tema 5, si transcurren dos meses desde la primera votación de investidura sin que ningún candidato obtenga la confianza, ¿qué ocurre 5?",
     "opciones": [
       "Se nombra automáticamente al más votado",
       "El Rey disuelve ambas Cámaras y convoca elecciones",
@@ -58,7 +58,7 @@
   {
     "id": "t05-p005",
     "tema": 5,
-    "pregunta": "¿Cómo son nombrados los demás miembros del Gobierno, según el Tema 5?",
+    "pregunta": "De acuerdo con el Tema 5, ¿Cómo son nombrados los demás miembros del Gobierno 5?",
     "opciones": [
       "Por el Congreso a propuesta del Rey",
       "Por el Rey a propuesta del Presidente del Gobierno",
@@ -72,7 +72,7 @@
   {
     "id": "t05-p006",
     "tema": 5,
-    "pregunta": "¿Cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones, según el Tema 5?",
+    "pregunta": "Según el epígrafe 5.2 del Tema 5, ¿Cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones 5?",
     "opciones": [
       "Despachar asuntos ordinarios",
       "Aprobar el proyecto de Ley de Presupuestos",
@@ -100,7 +100,7 @@
   {
     "id": "t05-p008",
     "tema": 5,
-    "pregunta": "Según el Tema 5, ¿quién preside el Consejo de Ministros?",
+    "pregunta": "Según el epígrafe 7.2 del Tema 5, ¿quién preside el Consejo de Ministros?",
     "opciones": [
       "El Rey",
       "El Presidente del Gobierno",
@@ -114,7 +114,7 @@
   {
     "id": "t05-p009",
     "tema": 5,
-    "pregunta": "¿Cómo se crean, modifican y suprimen las Comisiones Delegadas del Gobierno según el Tema 5?",
+    "pregunta": "Según el epígrafe 8.1 del Tema 5, ¿Cómo se crean, modifican y suprimen las Comisiones Delegadas del Gobierno 5?",
     "opciones": [
       "Por ley orgánica",
       "Por Real Decreto del Consejo de Ministros, a propuesta del Presidente",
@@ -128,7 +128,7 @@
   {
     "id": "t05-p010",
     "tema": 5,
-    "pregunta": "Según el Tema 5, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
+    "pregunta": "Según el epígrafe 10.3 del Tema 5, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
     "opciones": [
       "El Subdelegado del Gobierno",
       "El Delegado del Gobierno",
@@ -156,7 +156,7 @@
   {
     "id": "t05-p012",
     "tema": 5,
-    "pregunta": "Según el Tema 5, los Secretarios de Estado...",
+    "pregunta": "Según el epígrafe 2.2 del Tema 5, los Secretarios de Estado...",
     "opciones": [
       "son miembros del Gobierno con voto en Consejo de Ministros",
       "no son miembros del Gobierno en sentido estricto",
@@ -170,7 +170,7 @@
   {
     "id": "t05-p013",
     "tema": 5,
-    "pregunta": "¿Qué órgano prepara los asuntos que se someterán al Consejo de Ministros, según el Tema 5?",
+    "pregunta": "Según el epígrafe 8.2 del Tema 5, ¿Qué órgano prepara los asuntos que se someterán al Consejo de Ministros 5?",
     "opciones": [
       "La Comisión General de Secretarios de Estado y Subsecretarios",
       "La Junta de Portavoces",
@@ -184,7 +184,7 @@
   {
     "id": "t05-p014",
     "tema": 5,
-    "pregunta": "Según el Tema 5, los Ministros ejercen la potestad reglamentaria en sus materias mediante...",
+    "pregunta": "Según el epígrafe 9.3 del Tema 5, los Ministros ejercen la potestad reglamentaria en sus materias mediante...",
     "opciones": [
       "Decretos-ley",
       "Órdenes Ministeriales",

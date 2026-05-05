@@ -2,7 +2,7 @@
   {
     "id": "t15-p001",
     "tema": 15,
-    "pregunta": "Según el Tema 15, la LPACAP regula...",
+    "pregunta": "Según el epígrafe 1.1 del Tema 15, la LPACAP regula...",
     "opciones": [
       "solo los recursos administrativos",
       "los derechos y garantías de los ciudadanos y el procedimiento administrativo común",
@@ -16,7 +16,7 @@
   {
     "id": "t15-p002",
     "tema": 15,
-    "pregunta": "¿Cuál es el plazo ordinario para subsanar una solicitud defectuosa según el Tema 15?",
+    "pregunta": "Según el epígrafe 3.1 del Tema 15, ¿Cuál es el plazo ordinario para subsanar una solicitud defectuosa 15?",
     "opciones": [
       "5 días hábiles",
       "10 días hábiles",
@@ -30,7 +30,7 @@
   {
     "id": "t15-p003",
     "tema": 15,
-    "pregunta": "Según el Tema 15, las solicitudes deben contener entre otros datos...",
+    "pregunta": "Según el epígrafe 2.1 del Tema 15, las solicitudes deben contener entre otros datos...",
     "opciones": [
       "el DNI, la petición y el órgano al que se dirigen",
       "el nombre del notario y la cuantía del procedimiento",
@@ -58,7 +58,7 @@
   {
     "id": "t15-p005",
     "tema": 15,
-    "pregunta": "Según el Tema 15, el trámite de audiencia se concede por un plazo de...",
+    "pregunta": "Según el epígrafe 3.2.4 del Tema 15, el trámite de audiencia se concede por un plazo de...",
     "opciones": [
       "3 a 5 días hábiles",
       "10 a 15 días hábiles",
@@ -72,7 +72,7 @@
   {
     "id": "t15-p006",
     "tema": 15,
-    "pregunta": "¿Qué plazo tiene la Administración para resolver con carácter supletorio, según el Tema 15?",
+    "pregunta": "Según el epígrafe 4.1 del Tema 15, ¿Qué plazo tiene la Administración para resolver con carácter supletorio 15?",
     "opciones": [
       "1 mes",
       "2 meses",
@@ -86,7 +86,7 @@
   {
     "id": "t15-p007",
     "tema": 15,
-    "pregunta": "Según el Tema 15, el transcurso del plazo máximo de resolución puede suspenderse por...",
+    "pregunta": "Según el epígrafe 4.3 del Tema 15, el transcurso del plazo máximo de resolución puede suspenderse por...",
     "opciones": [
       "solicitud de subsanación y solicitud de informes determinantes",
       "la mera voluntad del funcionario",
@@ -100,7 +100,7 @@
   {
     "id": "t15-p008",
     "tema": 15,
-    "pregunta": "¿Qué tipo de silencio se produce con carácter general en los procedimientos iniciados a solicitud del interesado según el Tema 15?",
+    "pregunta": "Según el epígrafe 5.2 del Tema 15, ¿Qué tipo de silencio se produce con carácter general en los procedimientos iniciados a solicitud del interesado 15?",
     "opciones": [
       "Negativo",
       "Positivo",
@@ -114,7 +114,7 @@
   {
     "id": "t15-p009",
     "tema": 15,
-    "pregunta": "Según el Tema 15, en los recursos administrativos el silencio es con carácter general...",
+    "pregunta": "Según el epígrafe 5.4 del Tema 15, en los recursos administrativos el silencio es con carácter general...",
     "opciones": [
       "positivo",
       "negativo",
@@ -128,7 +128,7 @@
   {
     "id": "t15-p010",
     "tema": 15,
-    "pregunta": "¿Qué ocurre si el procedimiento iniciado a solicitud del interesado permanece paralizado por causa imputable a éste durante más de 3 meses según el Tema 15?",
+    "pregunta": "Según el epígrafe 3.3.3 del Tema 15, ¿Qué ocurre si el procedimiento iniciado a solicitud del interesado permanece paralizado por causa imputable a éste durante más de 3 meses 15?",
     "opciones": [
       "Se archiva por desistimiento automáticamente",
       "Se declara la caducidad",
@@ -142,7 +142,7 @@
   {
     "id": "t15-p011",
     "tema": 15,
-    "pregunta": "¿Cuál de los siguientes es un derecho de los interesados según el Tema 15?",
+    "pregunta": "Según el epígrafe 2.4 del Tema 15, ¿Cuál de los siguientes es un derecho de los interesados 15?",
     "opciones": [
       "Conocer el estado de tramitación del procedimiento",
       "Nombrar al instructor",
@@ -156,7 +156,7 @@
   {
     "id": "t15-p012",
     "tema": 15,
-    "pregunta": "Según el Tema 15, la representación puede acreditarse mediante...",
+    "pregunta": "Según el epígrafe 2.2 del Tema 15, la representación puede acreditarse mediante...",
     "opciones": [
       "apoderamiento apud acta o Registro Electrónico de Apoderamientos",
       "simple llamada telefónica",
@@ -170,7 +170,7 @@
   {
     "id": "t15-p013",
     "tema": 15,
-    "pregunta": "¿En qué plazo debe practicarse la notificación de un acto según el Tema 15?",
+    "pregunta": "Según el epígrafe 4.2 del Tema 15, ¿En qué plazo debe practicarse la notificación de un acto 15?",
     "opciones": [
       "5 días",
       "10 días",
@@ -184,7 +184,7 @@
   {
     "id": "t15-p014",
     "tema": 15,
-    "pregunta": "Según el Tema 15, un silencio positivo produce...",
+    "pregunta": "Según el epígrafe 5.2 del Tema 15, un silencio positivo produce...",
     "opciones": [
       "una mera ficción sin efectos jurídicos",
       "la estimación automática de la solicitud",
@@ -198,7 +198,7 @@
   {
     "id": "t15-p015",
     "tema": 15,
-    "pregunta": "Según el Tema 15, la tramitación de urgencia reduce los plazos a la mitad salvo los relativos a...",
+    "pregunta": "Según el epígrafe 2.5 del Tema 15, la tramitación de urgencia reduce los plazos a la mitad salvo los relativos a...",
     "opciones": [
       "la presentación de solicitudes y recursos",
       "la adopción de medidas provisionales",
