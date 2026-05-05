@@ -19,6 +19,38 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   let allQuestions = [];
   let selected = [];
 
+  function normalizeQuestion(item, fallbackTema, index) {
+    if (Array.isArray(item)) {
+      const [pregunta = '', opciones = [], correcta = 0, explicacion = '', referencia = ''] = item;
+      item = {
+        id: `t${String(fallbackTema).padStart(2, '0')}-p${String(index + 1).padStart(3, '0')}`,
+        tema: fallbackTema,
+        pregunta,
+        opciones,
+        correcta,
+        explicacion,
+        referencia,
+      };
+    }
+
+    if (!item || typeof item !== 'object') return null;
+
+    const opciones = Array.isArray(item.opciones) ? item.opciones.map((value) => String(value ?? '')) : [];
+    const correcta = Number(item.correcta);
+    const tema = Number(item.tema ?? fallbackTema);
+    if (opciones.length !== 4 || ![0, 1, 2, 3].includes(correcta)) return null;
+
+    return {
+      id: String(item.id ?? `t${String(tema).padStart(2, '0')}-p${String(index + 1).padStart(3, '0')}`),
+      tema,
+      pregunta: String(item.pregunta ?? ''),
+      opciones,
+      correcta,
+      explicacion: String(item.explicacion ?? ''),
+      referencia: String(item.referencia ?? ''),
+    };
+  }
+
   function readStats() {
     try {
       return JSON.parse(localStorage.getItem(STATS_KEY) ?? '{}');
@@ -146,16 +178,25 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       }
       const chunks = await Promise.all(temaIds.map(async (id) => {
         const r = await fetch(`${base}data/tests/tema-${String(id).padStart(2, '0')}.json`);
-        return r.json();
+        const raw = await r.json();
+        return (Array.isArray(raw) ? raw : [])
+          .map((item, index) => normalizeQuestion(item, id, index))
+          .filter(Boolean);
       }));
       allQuestions = chunks.flat();
+      if (!allQuestions.length) {
+        renderEmpty('No hay preguntas válidas en los temas seleccionados.', 'Revisa los JSON de test o prueba con otros temas.');
+        return;
+      }
       startTest(Number(document.getElementById('limit')?.value ?? '10'));
     });
   }
 
   function startTest(limit) {
     if (mode === 'fails') {
-      allQuestions = readFails();
+      allQuestions = readFails()
+        .map((item, index) => normalizeQuestion(item, Number(item?.tema ?? 0), index))
+        .filter(Boolean);
       if (!allQuestions.length) {
         renderEmpty('No hay fallos guardados.', 'Cuando falles alguna pregunta en un test normal aparecerá aquí.');
         return;

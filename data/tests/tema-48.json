@@ -1,182 +1,212 @@
 [
-  [
-    ", el fundamento constitucional de la igualdad entre mujeres y hombres incluye el artículo:",
-    [
+  {
+    "id": "t48-p001",
+    "tema": 48,
+    "pregunta": ", el fundamento constitucional de la igualdad entre mujeres y hombres incluye el artículo:",
+    "opciones": [
       "1.1 CE",
       "9.2 CE",
       "14 CE",
       "Todas las anteriores"
     ],
-    3,
-    "El tema cita los tres preceptos como base constitucional.",
-    "Tema 48, 1. Fundamento constitucional y normativo"
-  ],
-  [
-    "Según el epígrafe 2.1 del Tema 48, la LO 3/2007 tiene como objeto",
-    [
+    "correcta": 3,
+    "explicacion": "El tema cita los tres preceptos como base constitucional.",
+    "referencia": "Tema 48, 1. Fundamento constitucional y normativo"
+  },
+  {
+    "id": "t48-p002",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 2.1 del Tema 48, la LO 3/2007 tiene como objeto",
+    "opciones": [
       "Regular exclusivamente el divorcio",
       "Hacer efectivo el principio de igualdad de trato y eliminar la discriminación entre mujeres y hombres",
       "Regular solo la violencia de género",
       "Regular solo la discapacidad"
     ],
-    1,
-    "Ese es el objeto central que señala el tema.",
-    "Tema 48, 2.1 Objeto y principios"
-  ],
-  [
-    "Según el epígrafe 2.2 del Tema 48, cuál de las siguientes opciones define mejor la discriminación indirecta",
-    [
+    "correcta": 1,
+    "explicacion": "Ese es el objeto central que señala el tema.",
+    "referencia": "Tema 48, 2.1 Objeto y principios"
+  },
+  {
+    "id": "t48-p003",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 2.2 del Tema 48, cuál de las siguientes opciones define mejor la discriminación indirecta",
+    "opciones": [
       "Trato menos favorable directo por razón de sexo",
       "Disposición aparentemente neutra que perjudica especialmente a un sexo",
       "Violencia física ejercida en pareja",
       "Negación de una prestación por dependencia"
     ],
-    1,
-    "La definición del tema corresponde a la discriminación indirecta.",
-    "Tema 48, 2.2 Conceptos clave de la LOIEMH"
-  ],
-  [
-    "Según el epígrafe 2.3 del Tema 48, la presencia equilibrada en órganos y comités, exige al menos:",
-    [
+    "correcta": 1,
+    "explicacion": "La definición del tema corresponde a la discriminación indirecta.",
+    "referencia": "Tema 48, 2.2 Conceptos clave de la LOIEMH"
+  },
+  {
+    "id": "t48-p004",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 2.3 del Tema 48, la presencia equilibrada en órganos y comités, exige al menos:",
+    "opciones": [
       "El 25% del sexo menos representado",
       "El 33% del sexo menos representado",
       "El 40% del sexo menos representado",
       "El 50% del sexo menos representado"
     ],
-    2,
-    "El tema fija un mínimo del 40%.",
-    "Tema 48, 2.3 Medidas en el empleo público"
-  ],
-  [
-    "Según el epígrafe 2.4 del Tema 48, las empresas obligadas a elaborar y aplicar Plan de Igualdad, son las de:",
-    [
+    "correcta": 2,
+    "explicacion": "El tema fija un mínimo del 40%.",
+    "referencia": "Tema 48, 2.3 Medidas en el empleo público"
+  },
+  {
+    "id": "t48-p005",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 2.4 del Tema 48, las empresas obligadas a elaborar y aplicar Plan de Igualdad, son las de:",
+    "opciones": [
       "25 o más trabajadores",
       "50 o más trabajadores",
       "100 o más trabajadores",
       "250 o más trabajadores"
     ],
-    1,
-    "El tema sitúa la obligación a partir de 50 trabajadores.",
-    "Tema 48, 2.4 Los Planes de Igualdad en las empresas privadas"
-  ],
-  [
-    "La violencia de género, según la LOVG descrita en el tema, se ejerce sobre:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema sitúa la obligación a partir de 50 trabajadores.",
+    "referencia": "Tema 48, 2.4 Los Planes de Igualdad en las empresas privadas"
+  },
+  {
+    "id": "t48-p006",
+    "tema": 48,
+    "pregunta": "La violencia de género, según la LOVG descrita en el tema, se ejerce sobre:",
+    "opciones": [
       "Cualquier persona en cualquier ámbito",
       "Las mujeres por quienes sean o hayan sido sus cónyuges o parejas",
       "Solo sobre menores de edad",
       "Solo en el ámbito laboral"
     ],
-    1,
-    "El tema formula ese concepto restringido de violencia de género.",
-    "Tema 48, 3.1 Concepto y fundamento"
-  ],
-  [
-    "La LOVG adopta un enfoque:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema formula ese concepto restringido de violencia de género.",
+    "referencia": "Tema 48, 3.1 Concepto y fundamento"
+  },
+  {
+    "id": "t48-p007",
+    "tema": 48,
+    "pregunta": "La LOVG adopta un enfoque:",
+    "opciones": [
       "Exclusivamente penal",
       "Integral y multidisciplinar",
       "Solo asistencial",
       "Solo procesal"
     ],
-    1,
-    "El tema recalca ese carácter integral.",
-    "Tema 48, 3.2 La Ley Orgánica 1/2004: objeto y estructura"
-  ],
-  [
-    "Entre los derechos de las víctimas de violencia de género figura:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema recalca ese carácter integral.",
+    "referencia": "Tema 48, 3.2 La Ley Orgánica 1/2004: objeto y estructura"
+  },
+  {
+    "id": "t48-p008",
+    "tema": 48,
+    "pregunta": "Entre los derechos de las víctimas de violencia de género figura:",
+    "opciones": [
       "Asistencia jurídica gratuita e inmediata",
       "Solo mediación obligatoria",
       "Solo indemnización civil",
       "Suspensión del empleo público sin reserva"
     ],
-    0,
-    "El tema menciona expresamente la asistencia jurídica gratuita e inmediata.",
-    "Tema 48, 3.2 Derechos de las víctimas"
-  ],
-  [
-    "La Ley 15/2022 introduce, entre otros, el concepto de:",
-    [
+    "correcta": 0,
+    "explicacion": "El tema menciona expresamente la asistencia jurídica gratuita e inmediata.",
+    "referencia": "Tema 48, 3.2 Derechos de las víctimas"
+  },
+  {
+    "id": "t48-p009",
+    "tema": 48,
+    "pregunta": "La Ley 15/2022 introduce, entre otros, el concepto de:",
+    "opciones": [
       "Discriminación por error",
       "Discriminación salarial exclusiva",
       "Discriminación territorial",
       "Discriminación hereditaria"
     ],
-    0,
-    "El tema incluye la discriminación por error en su catálogo.",
-    "Tema 48, 4.1 La Ley 15/2022, de igualdad de trato y no discriminación"
-  ],
-  [
-    "Según el epígrafe 4.2 del Tema 48, la Ley Orgánica 4/2023 permite la rectificación registral del sexo, desde los:",
-    [
+    "correcta": 0,
+    "explicacion": "El tema incluye la discriminación por error en su catálogo.",
+    "referencia": "Tema 48, 4.1 La Ley 15/2022, de igualdad de trato y no discriminación"
+  },
+  {
+    "id": "t48-p010",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 4.2 del Tema 48, la Ley Orgánica 4/2023 permite la rectificación registral del sexo, desde los:",
+    "opciones": [
       "12 años",
       "14 años",
       "16 años",
       "18 años"
     ],
-    2,
-    "El tema establece los 16 años como regla general sin informe médico.",
-    "Tema 48, 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
-  ],
-  [
-    "Según el epígrafe 5.1 del Tema 48, el concepto moderno de discapacidad, se basa en:",
-    [
+    "correcta": 2,
+    "explicacion": "El tema establece los 16 años como regla general sin informe médico.",
+    "referencia": "Tema 48, 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
+  },
+  {
+    "id": "t48-p011",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 5.1 del Tema 48, el concepto moderno de discapacidad, se basa en:",
+    "opciones": [
       "El modelo médico",
       "El modelo social",
       "El modelo asistencial puro",
       "El modelo sancionador"
     ],
-    1,
-    "El tema dice que hoy se entiende desde el modelo social.",
-    "Tema 48, 5.1 El concepto de discapacidad"
-  ],
-  [
-    "A efectos de la LGDPD, se considera persona con discapacidad quien tenga reconocido un grado igual o superior al:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema dice que hoy se entiende desde el modelo social.",
+    "referencia": "Tema 48, 5.1 El concepto de discapacidad"
+  },
+  {
+    "id": "t48-p012",
+    "tema": 48,
+    "pregunta": "A efectos de la LGDPD, se considera persona con discapacidad quien tenga reconocido un grado igual o superior al:",
+    "opciones": [
       "25%",
       "33%",
       "50%",
       "65%"
     ],
-    1,
-    "El tema fija el 33%.",
-    "Tema 48, 5.2 La Ley General de derechos de las personas con discapacidad"
-  ],
-  [
-    "Según el epígrafe 5.3 del Tema 48, la cuota de reserva de empleo para personas con discapacidad en el empleo público es, de al menos:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema fija el 33%.",
+    "referencia": "Tema 48, 5.2 La Ley General de derechos de las personas con discapacidad"
+  },
+  {
+    "id": "t48-p013",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 5.3 del Tema 48, la cuota de reserva de empleo para personas con discapacidad en el empleo público es, de al menos:",
+    "opciones": [
       "El 2%",
       "El 5%",
       "El 7%",
       "El 10%"
     ],
-    2,
-    "El tema señala el 7% en procesos selectivos.",
-    "Tema 48, 5.3 Medidas de empleo para personas con discapacidad"
-  ],
-  [
-    "La ley de dependencia crea el SAAD como:",
-    [
+    "correcta": 2,
+    "explicacion": "El tema señala el 7% en procesos selectivos.",
+    "referencia": "Tema 48, 5.3 Medidas de empleo para personas con discapacidad"
+  },
+  {
+    "id": "t48-p014",
+    "tema": 48,
+    "pregunta": "La ley de dependencia crea el SAAD como:",
+    "opciones": [
       "El tercer pilar del Estado de bienestar",
       "El cuarto pilar del Estado de bienestar",
       "Una mutualidad privada",
       "Un régimen de pensiones"
     ],
-    1,
-    "El tema lo define como el cuarto pilar.",
-    "Tema 48, 6.1 La Ley 39/2006 de Dependencia"
-  ],
-  [
-    "Según el epígrafe 6.3 del Tema 48, los grados de dependencia son:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema lo define como el cuarto pilar.",
+    "referencia": "Tema 48, 6.1 La Ley 39/2006 de Dependencia"
+  },
+  {
+    "id": "t48-p015",
+    "tema": 48,
+    "pregunta": "Según el epígrafe 6.3 del Tema 48, los grados de dependencia son:",
+    "opciones": [
       "Uno, dos y tres",
       "Ligera, media y grave",
       "Inicial, intermedia y avanzada",
       "Temporal, permanente y total"
     ],
-    0,
-    "El tema establece Grado I, II y III.",
-    "Tema 48, 6.3 Grados de dependencia"
-  ]
+    "correcta": 0,
+    "explicacion": "El tema establece Grado I, II y III.",
+    "referencia": "Tema 48, 6.3 Grados de dependencia"
+  }
 ]

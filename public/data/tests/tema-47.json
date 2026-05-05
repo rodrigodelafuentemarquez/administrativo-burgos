@@ -1,182 +1,212 @@
 [
-  [
-    "La vía de acceso a la autonomía seguida por Castilla y León fue la prevista en el artículo:",
-    [
+  {
+    "id": "t47-p001",
+    "tema": 47,
+    "pregunta": "La vía de acceso a la autonomía seguida por Castilla y León fue la prevista en el artículo:",
+    "opciones": [
       "143 CE",
       "151 CE",
       "148 CE",
       "149 CE"
     ],
-    0,
-    "El tema dice expresamente que Castilla y León siguió la vía ordinaria del art. 143 CE.",
-    "Tema 47, 1.1 Fundamento constitucional y proceso de acceso a la autonomía"
-  ],
-  [
-    "La capital de Castilla y León es:",
-    [
+    "correcta": 0,
+    "explicacion": "El tema dice expresamente que Castilla y León siguió la vía ordinaria del art. 143 CE.",
+    "referencia": "Tema 47, 1.1 Fundamento constitucional y proceso de acceso a la autonomía"
+  },
+  {
+    "id": "t47-p002",
+    "tema": 47,
+    "pregunta": "La capital de Castilla y León es:",
+    "opciones": [
       "León",
       "Valladolid",
       "Burgos",
       "Salamanca"
     ],
-    1,
-    "El tema sitúa la capital en Valladolid.",
-    "Tema 47, 1.3 Denominación, territorio y capitalidad"
-  ],
-  [
-    "Las Cortes de Castilla y León son una asamblea:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema sitúa la capital en Valladolid.",
+    "referencia": "Tema 47, 1.3 Denominación, territorio y capitalidad"
+  },
+  {
+    "id": "t47-p003",
+    "tema": 47,
+    "pregunta": "Las Cortes de Castilla y León son una asamblea:",
+    "opciones": [
       "Bicameral",
       "Unicameral",
       "Federal",
       "Consultiva"
     ],
-    1,
-    "El tema las define como unicamerales.",
-    "Tema 47, 2.1 Naturaleza y composición"
-  ],
-  [
-    "El número de Procuradores de las Cortes de Castilla y León es:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema las define como unicamerales.",
+    "referencia": "Tema 47, 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p004",
+    "tema": 47,
+    "pregunta": "El número de Procuradores de las Cortes de Castilla y León es:",
+    "opciones": [
       "60 a 64",
       "70 a 74",
       "80 a 84",
       "100 a 104"
     ],
-    2,
-    "El Estatuto fija un mínimo de 80 y un máximo de 84.",
-    "Tema 47, 2.1 Naturaleza y composición"
-  ],
-  [
-    "El mandato de los Procuradores es de:",
-    [
+    "correcta": 2,
+    "explicacion": "El Estatuto fija un mínimo de 80 y un máximo de 84.",
+    "referencia": "Tema 47, 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p005",
+    "tema": 47,
+    "pregunta": "El mandato de los Procuradores es de:",
+    "opciones": [
       "Tres años",
       "Cuatro años",
       "Cinco años",
       "Seis años"
     ],
-    1,
-    "El tema señala un mandato de cuatro años.",
-    "Tema 47, 2.1 Naturaleza y composición"
-  ],
-  [
-    "Cuál de las siguientes funciones corresponde a las Cortes de Castilla y León:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema señala un mandato de cuatro años.",
+    "referencia": "Tema 47, 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p006",
+    "tema": 47,
+    "pregunta": "Cuál de las siguientes funciones corresponde a las Cortes de Castilla y León:",
+    "opciones": [
       "Nombrar a los Consejeros",
       "Aprobar los Presupuestos Generales de la Comunidad",
       "Dirigir la Administración periférica",
       "Ejercer la potestad reglamentaria del Gobierno"
     ],
-    1,
-    "La función presupuestaria corresponde a las Cortes.",
-    "Tema 47, 2.2 Funciones"
-  ],
-  [
-    "El Presidente de la Junta es elegido por:",
-    [
+    "correcta": 1,
+    "explicacion": "La función presupuestaria corresponde a las Cortes.",
+    "referencia": "Tema 47, 2.2 Funciones"
+  },
+  {
+    "id": "t47-p007",
+    "tema": 47,
+    "pregunta": "El Presidente de la Junta es elegido por:",
+    "opciones": [
       "El Rey directamente",
       "Las Cortes mediante investidura",
       "El Consejo Consultivo",
       "El Procurador del Común"
     ],
-    1,
-    "El tema explica que el candidato es investido por las Cortes.",
-    "Tema 47, 3.1 Elección y mandato"
-  ],
-  [
-    "Cuál de las siguientes es una atribución del Presidente de la Junta:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema explica que el candidato es investido por las Cortes.",
+    "referencia": "Tema 47, 3.1 Elección y mandato"
+  },
+  {
+    "id": "t47-p008",
+    "tema": 47,
+    "pregunta": "Cuál de las siguientes es una atribución del Presidente de la Junta:",
+    "opciones": [
       "Aprobar las leyes autonómicas",
       "Promulgar y ordenar la publicación de las leyes",
       "Elegir a los Consejeros del Consejo de Cuentas",
       "Designar al Procurador del Común"
     ],
-    1,
-    "El Presidente promulga y ordena publicar las leyes.",
-    "Tema 47, 3.2 Atribuciones"
-  ],
-  [
-    "El Consejo de Gobierno está compuesto por:",
-    [
+    "correcta": 1,
+    "explicacion": "El Presidente promulga y ordena publicar las leyes.",
+    "referencia": "Tema 47, 3.2 Atribuciones"
+  },
+  {
+    "id": "t47-p009",
+    "tema": 47,
+    "pregunta": "El Consejo de Gobierno está compuesto por:",
+    "opciones": [
       "Procuradores y Senadores",
       "Presidente y Consejeros",
       "Magistrados y Fiscales",
       "Alcaldes y Diputados"
     ],
-    1,
-    "El tema identifica al Presidente y los Consejeros como miembros del Consejo de Gobierno.",
-    "Tema 47, 4.1 Composición"
-  ],
-  [
-    "La organización central de la Administración autonómica se articula en torno a:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema identifica al Presidente y los Consejeros como miembros del Consejo de Gobierno.",
+    "referencia": "Tema 47, 4.1 Composición"
+  },
+  {
+    "id": "t47-p010",
+    "tema": 47,
+    "pregunta": "La organización central de la Administración autonómica se articula en torno a:",
+    "opciones": [
       "Diputaciones provinciales",
       "Consejerías",
       "Juntas vecinales",
       "Mancomunidades"
     ],
-    1,
-    "El tema sitúa las Consejerías como órgano superior de la organización central.",
-    "Tema 47, 5.1 La organización central"
-  ],
-  [
-    "El Procurador del Común es el equivalente autonómico de:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema sitúa las Consejerías como órgano superior de la organización central.",
+    "referencia": "Tema 47, 5.1 La organización central"
+  },
+  {
+    "id": "t47-p011",
+    "tema": 47,
+    "pregunta": "El Procurador del Común es el equivalente autonómico de:",
+    "opciones": [
       "El Tribunal de Cuentas",
       "El Defensor del Pueblo",
       "El Consejo de Estado",
       "El CES"
     ],
-    1,
-    "El tema lo describe como equivalente autonómico del Defensor del Pueblo.",
-    "Tema 47, 6.1 El Procurador del Común"
-  ],
-  [
-    "El Consejo Consultivo de Castilla y León se define en el tema como:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema lo describe como equivalente autonómico del Defensor del Pueblo.",
+    "referencia": "Tema 47, 6.1 El Procurador del Común"
+  },
+  {
+    "id": "t47-p012",
+    "tema": 47,
+    "pregunta": "El Consejo Consultivo de Castilla y León se define en el tema como:",
+    "opciones": [
       "Órgano fiscalizador externo",
       "Supremo órgano consultivo de la Junta",
       "Órgano legislativo",
       "Órgano jurisdiccional"
     ],
-    1,
-    "Ese es el papel que le atribuye el tema.",
-    "Tema 47, 6.2 El Consejo Consultivo de Castilla y León"
-  ],
-  [
-    "El Consejo de Cuentas de Castilla y León tiene función:",
-    [
+    "correcta": 1,
+    "explicacion": "Ese es el papel que le atribuye el tema.",
+    "referencia": "Tema 47, 6.2 El Consejo Consultivo de Castilla y León"
+  },
+  {
+    "id": "t47-p013",
+    "tema": 47,
+    "pregunta": "El Consejo de Cuentas de Castilla y León tiene función:",
+    "opciones": [
       "Jurisdiccional y consultiva",
       "Fiscalizadora",
       "Legislativa",
       "Ejecutiva"
     ],
-    1,
-    "El tema subraya su función fiscalizadora y no jurisdiccional.",
-    "Tema 47, 6.3 El Consejo de Cuentas de Castilla y León"
-  ],
-  [
-    "El Consejo Económico y Social de Castilla y León es órgano de:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema subraya su función fiscalizadora y no jurisdiccional.",
+    "referencia": "Tema 47, 6.3 El Consejo de Cuentas de Castilla y León"
+  },
+  {
+    "id": "t47-p014",
+    "tema": 47,
+    "pregunta": "El Consejo Económico y Social de Castilla y León es órgano de:",
+    "opciones": [
       "Control de legalidad",
       "Consulta y participación",
       "Gobierno y dirección",
       "Sanción administrativa"
     ],
-    1,
-    "El tema lo define como órgano de consulta y participación.",
-    "Tema 47, 6.4 El Consejo Económico y Social de Castilla y León (CES)"
-  ],
-  [
-    "La Administración periférica autonómica se articula a través de:",
-    [
+    "correcta": 1,
+    "explicacion": "El tema lo define como órgano de consulta y participación.",
+    "referencia": "Tema 47, 6.4 El Consejo Económico y Social de Castilla y León (CES)"
+  },
+  {
+    "id": "t47-p015",
+    "tema": 47,
+    "pregunta": "La Administración periférica autonómica se articula a través de:",
+    "opciones": [
       "Delegaciones Territoriales",
       "Tribunales Superiores",
       "Colegiaturas",
       "Consulados"
     ],
-    0,
-    "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
-    "Tema 47, 5.2 La Administración Periférica: las Delegaciones Territoriales"
-  ]
+    "correcta": 0,
+    "explicacion": "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
+    "referencia": "Tema 47, 5.2 La Administración Periférica: las Delegaciones Territoriales"
+  }
 ]

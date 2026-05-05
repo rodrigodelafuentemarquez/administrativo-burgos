@@ -1,182 +1,212 @@
 [
-  [
-    "Según el epígrafe 1.2 del Tema 42, la LCSP transpone principalmente las Directivas...",
-    [
+  {
+    "id": "t42-p001",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 1.2 del Tema 42, la LCSP transpone principalmente las Directivas...",
+    "opciones": [
       "2014/24/UE y 2014/25/UE",
       "2006/123/CE y 2009/72/CE",
       "2016/679/UE y 2017/2455/UE",
       "98/83/CE y 2000/60/CE"
     ],
-    0,
-    "El tema cita esas dos directivas como base europea.",
-    "Tema 42, 1.2 La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
-  ],
-  [
-    "Según el epígrafe 1.3 del Tema 42, uno de los principios de la contratación pública es...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema cita esas dos directivas como base europea.",
+    "referencia": "Tema 42, 1.2 La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+  },
+  {
+    "id": "t42-p002",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 1.3 del Tema 42, uno de los principios de la contratación pública es...",
+    "opciones": [
       "la transparencia",
       "la libre designación",
       "la inembargabilidad",
       "la prioridad sindical"
     ],
-    0,
-    "El tema enumera la transparencia entre los principios del objeto de la LCSP.",
-    "Tema 42, 1.3 Objeto de la LCSP"
-  ],
-  [
-    "Según el epígrafe 2.1 del Tema 42, la LCSP se aplica en su régimen pleno a las...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema enumera la transparencia entre los principios del objeto de la LCSP.",
+    "referencia": "Tema 42, 1.3 Objeto de la LCSP"
+  },
+  {
+    "id": "t42-p003",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 2.1 del Tema 42, la LCSP se aplica en su régimen pleno a las...",
+    "opciones": [
       "Administraciones Públicas",
       "sociedades mercantiles privadas sin participación pública",
       "particulares",
       "asociaciones vecinales"
     ],
-    0,
-    "El tema distingue el régimen pleno para las Administraciones Públicas.",
-    "Tema 42, 2.1 El concepto de «sector público» a efectos de contratación"
-  ],
-  [
-    "Según el epígrafe 2.2 del Tema 42, los contratos de trabajo están...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema distingue el régimen pleno para las Administraciones Públicas.",
+    "referencia": "Tema 42, 2.1 El concepto de «sector público» a efectos de contratación"
+  },
+  {
+    "id": "t42-p004",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 2.2 del Tema 42, los contratos de trabajo están...",
+    "opciones": [
       "excluidos del ámbito de la LCSP",
       "sujetos a licitación pública ordinaria",
       "regulados como contratos de concesión",
       "limitados a la Administración local"
     ],
-    0,
-    "El tema los incluye entre los contratos excluidos.",
-    "Tema 42, 2.2 Contratos excluidos"
-  ],
-  [
-    "Según el epígrafe 3.1 del Tema 42, el contrato de obras tiene por objeto...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema los incluye entre los contratos excluidos.",
+    "referencia": "Tema 42, 2.2 Contratos excluidos"
+  },
+  {
+    "id": "t42-p005",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 3.1 del Tema 42, el contrato de obras tiene por objeto...",
+    "opciones": [
       "la ejecución de trabajos de construcción o ingeniería civil",
       "la adquisición de bienes muebles",
       "la gestión de un servicio con riesgo operacional",
       "la intermediación financiera"
     ],
-    0,
-    "El tema define así el contrato de obras.",
-    "Tema 42, 3.1 Contratos típicos del sector público"
-  ],
-  [
-    "Según el epígrafe 3.1 del Tema 42, el contrato de concesión de servicios implica que el contratista...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema define así el contrato de obras.",
+    "referencia": "Tema 42, 3.1 Contratos típicos del sector público"
+  },
+  {
+    "id": "t42-p006",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 3.1 del Tema 42, el contrato de concesión de servicios implica que el contratista...",
+    "opciones": [
       "gestiona un servicio asumiendo el riesgo operacional",
       "compra bienes muebles",
       "redacta reglamentos",
       "aprueba el presupuesto"
     ],
-    0,
-    "El tema resalta el riesgo operacional.",
-    "Tema 42, 3.1 Contratos típicos del sector público"
-  ],
-  [
-    "Según el epígrafe 3.3 del Tema 42, el contrato menor no es...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema resalta el riesgo operacional.",
+    "referencia": "Tema 42, 3.1 Contratos típicos del sector público"
+  },
+  {
+    "id": "t42-p007",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 3.3 del Tema 42, el contrato menor no es...",
+    "opciones": [
       "un tipo contractual autónomo",
       "una tramitación simplificada",
       "una modalidad de adjudicación simplificada",
       "un contrato de escasa cuantía"
     ],
-    0,
-    "El tema lo niega como tipo autónomo.",
-    "Tema 42, 3.3 El contrato menor"
-  ],
-  [
-    "Según el epígrafe 4.4 del Tema 42, la UTE es...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema lo niega como tipo autónomo.",
+    "referencia": "Tema 42, 3.3 El contrato menor"
+  },
+  {
+    "id": "t42-p008",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 4.4 del Tema 42, la UTE es...",
+    "opciones": [
       "la forma de concurrir conjuntamente varias empresas en un contrato",
       "una mesa de contratación",
       "un órgano de control externo",
       "un expediente de modificación"
     ],
-    0,
-    "El tema la define como agrupación temporal de empresas.",
-    "Tema 42, 4.4 La Unión Temporal de Empresas (UTE)"
-  ],
-  [
-    "Según el epígrafe 4.5 del Tema 42, el ROLECE 42, sirve para...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema la define como agrupación temporal de empresas.",
+    "referencia": "Tema 42, 4.4 La Unión Temporal de Empresas (UTE)"
+  },
+  {
+    "id": "t42-p009",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 4.5 del Tema 42, el ROLECE 42, sirve para...",
+    "opciones": [
       "acreditar capacidad, solvencia y clasificación de empresas",
       "adjudicar contratos directamente",
       "publicar las facturas",
       "resolver recursos"
     ],
-    0,
-    "El tema lo presenta como registro de licitadores.",
-    "Tema 42, 4.5 El Registro Oficial de Licitadores y Empresas Clasificadas (ROLECE)"
-  ],
-  [
-    "Según el epígrafe 5.2 del Tema 42, el expediente de contratación incluye...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como registro de licitadores.",
+    "referencia": "Tema 42, 4.5 El Registro Oficial de Licitadores y Empresas Clasificadas (ROLECE)"
+  },
+  {
+    "id": "t42-p010",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 5.2 del Tema 42, el expediente de contratación incluye...",
+    "opciones": [
       "memoria justificativa, PCAP, PPTP y certificado de crédito",
       "solo la propuesta de resolución",
       "únicamente el contrato firmado",
       "solo el anuncio de licitación"
     ],
-    0,
-    "El tema enumera esos documentos básicos.",
-    "Tema 42, 5.2 El expediente de contratación"
-  ],
-  [
-    "Según el epígrafe 5.3 del Tema 42, el presupuesto base de licitación es...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema enumera esos documentos básicos.",
+    "referencia": "Tema 42, 5.2 El expediente de contratación"
+  },
+  {
+    "id": "t42-p011",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 5.3 del Tema 42, el presupuesto base de licitación es...",
+    "opciones": [
       "el límite máximo de gasto que puede comprometer el órgano de contratación, incluidos impuestos",
       "el importe neto tras la adjudicación",
       "la cantidad pagada por el contratista",
       "el saldo de tesorería"
     ],
-    0,
-    "El tema lo define como límite máximo.",
-    "Tema 42, 5.3 El presupuesto base de licitación (PBL)"
-  ],
-  [
-    "Según el epígrafe 5.4 del Tema 42, el valor estimado del contrato se calcula...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema lo define como límite máximo.",
+    "referencia": "Tema 42, 5.3 El presupuesto base de licitación (PBL)"
+  },
+  {
+    "id": "t42-p012",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 5.4 del Tema 42, el valor estimado del contrato se calcula...",
+    "opciones": [
       "excluyendo el IVA e incluyendo posibles prórrogas y modificaciones previstas",
       "incluyendo solo el IVA",
       "sin prórrogas ni modificaciones",
       "solo con la oferta más baja"
     ],
-    0,
-    "El tema lo define así.",
-    "Tema 42, 5.4 El valor estimado del contrato (VEC)"
-  ],
-  [
-    "Según el epígrafe 6.2 del Tema 42, el procedimiento abierto es...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema lo define así.",
+    "referencia": "Tema 42, 5.4 El valor estimado del contrato (VEC)"
+  },
+  {
+    "id": "t42-p013",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 6.2 del Tema 42, el procedimiento abierto es...",
+    "opciones": [
       "el procedimiento ordinario y general",
       "un procedimiento reservado sin publicidad",
       "una adjudicación directa",
       "un concurso de traslado"
     ],
-    0,
-    "El tema lo llama ordinario y general.",
-    "Tema 42, 6.2 El procedimiento abierto"
-  ],
-  [
-    "Según el epígrafe 6.4 del Tema 42, en el procedimiento negociado el órgano de contratación...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema lo llama ordinario y general.",
+    "referencia": "Tema 42, 6.2 El procedimiento abierto"
+  },
+  {
+    "id": "t42-p014",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 6.4 del Tema 42, en el procedimiento negociado el órgano de contratación...",
+    "opciones": [
       "negocia las condiciones con las empresas invitadas",
       "adjudica sin oferta",
       "selecciona por sorteo",
       "actúa sin pliegos"
     ],
-    0,
-    "El tema destaca la negociación con las empresas.",
-    "Tema 42, 6.4 El procedimiento negociado"
-  ],
-  [
-    "Según el epígrafe 6.7 del Tema 42, los criterios de adjudicación deben guardar relación...",
-    [
+    "correcta": 0,
+    "explicacion": "El tema destaca la negociación con las empresas.",
+    "referencia": "Tema 42, 6.4 El procedimiento negociado"
+  },
+  {
+    "id": "t42-p015",
+    "tema": 42,
+    "pregunta": "Según el epígrafe 6.7 del Tema 42, los criterios de adjudicación deben guardar relación...",
+    "opciones": [
       "directa con el objeto del contrato",
       "con la antigüedad de la empresa en el sector",
       "con la residencia del licitador",
       "con la lengua materna del adjudicatario"
     ],
-    0,
-    "El tema lo exige expresamente.",
-    "Tema 42, 6.7 Los criterios de adjudicación"
-  ]
+    "correcta": 0,
+    "explicacion": "El tema lo exige expresamente.",
+    "referencia": "Tema 42, 6.7 Los criterios de adjudicación"
+  }
 ]
