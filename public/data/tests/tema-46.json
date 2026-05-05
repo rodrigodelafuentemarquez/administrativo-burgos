@@ -1,0 +1,182 @@
+[
+  [
+    "La LFPCYL se aplica, según el tema, a:",
+    [
+      "Solo personal laboral",
+      "Funcionarios de carrera, interinos y eventual de la Junta",
+      "Únicamente altos cargos",
+      "Solo a la Administración local"
+    ],
+    1,
+    "El ámbito subjetivo del tema incluye esas tres categorías.",
+    "Tema 46, 1.2 Objeto y ámbito subjetivo"
+  ],
+  [
+    "Los funcionarios interinos pueden ser nombrados por:",
+    [
+      "Libre designación",
+      "Razones expresamente justificadas de necesidad y urgencia",
+      "Sorteo",
+      "Antigüedad automática"
+    ],
+    1,
+    "El tema exige necesidad y urgencia para el nombramiento interino.",
+    "Tema 46, 2.2 Funcionarios interinos"
+  ],
+  [
+    "Cuál de las siguientes no es una causa mencionada para el nombramiento de interinos:",
+    [
+      "Plazas vacantes",
+      "Sustitución transitoria",
+      "Ejecución de programas temporales",
+      "Promoción interna"
+    ],
+    3,
+    "La promoción interna no es una causa de interinidad.",
+    "Tema 46, 2.2 Funcionarios interinos"
+  ],
+  [
+    "El personal eventual desempeña puestos de:",
+    [
+      "Gestión ordinaria y tramitación",
+      "Confianza o asesoramiento especial",
+      "Potestad sancionadora",
+      "Inspección tributaria"
+    ],
+    1,
+    "El tema lo limita a confianza o asesoramiento especial.",
+    "Tema 46, 2.3 Personal eventual"
+  ],
+  [
+    "El Cuerpo Administrativo de la Junta de Castilla y León pertenece al subgrupo:",
+    [
+      "A1",
+      "A2",
+      "C1",
+      "C2"
+    ],
+    2,
+    "El tema lo sitúa expresamente en el subgrupo C1.",
+    "Tema 46, 3.1 Clasificación del personal funcionario"
+  ],
+  [
+    "Cuál es el sistema ordinario de acceso al empleo público que mejor garantiza mérito y capacidad, según el tema:",
+    [
+      "Concurso",
+      "Oposición",
+      "Libre designación",
+      "Comisión de servicios"
+    ],
+    1,
+    "El tema lo identifica como sistema ordinario.",
+    "Tema 46, 4.4.1 Oposición"
+  ],
+  [
+    "El concurso-oposición combina:",
+    [
+      "Solo méritos",
+      "Pruebas de aptitud y valoración de méritos",
+      "Solo entrevista personal",
+      "Nombramiento libre y cese libre"
+    ],
+    1,
+    "El concurso-oposición une oposición y concurso.",
+    "Tema 46, 4.4.2 Concurso-oposición"
+  ],
+  [
+    "La Relación de Puestos de Trabajo (RPT) es, según el tema:",
+    [
+      "Un listado informal de trabajadores",
+      "El instrumento técnico de ordenación del personal",
+      "Un presupuesto anual",
+      "Un órgano de selección"
+    ],
+    1,
+    "La RPT ordena los puestos y sus características.",
+    "Tema 46, 5.1 La Relación de Puestos de Trabajo (RPT)"
+  ],
+  [
+    "El concurso de méritos es el sistema ordinario de:",
+    [
+      "Acceso",
+      "Provisión de puestos",
+      "Suspensión de funciones",
+      "Negociación colectiva"
+    ],
+    1,
+    "El tema lo define como sistema ordinario de provisión.",
+    "Tema 46, 5.2.1 Concurso de méritos"
+  ],
+  [
+    "La comisión de servicios tiene carácter:",
+    [
+      "Definitivo",
+      "Temporal",
+      "Sancionador",
+      "Económico"
+    ],
+    1,
+    "El tema la describe como desempeño temporal de un puesto distinto.",
+    "Tema 46, 5.2.4 Comisión de servicios"
+  ],
+  [
+    "El grado personal se consolida, según el tema, por desempeñar un puesto de un determinado nivel durante:",
+    [
+      "Un año",
+      "Dos años consecutivos o tres con interrupción",
+      "Cinco años sin interrupción",
+      "Seis meses"
+    ],
+    1,
+    "Ese es el plazo que fija el tema.",
+    "Tema 46, 6.2 El grado personal"
+  ],
+  [
+    "Qué situación administrativa corresponde al funcionario nombrado para determinados cargos incompatibles con su puesto ordinario:",
+    [
+      "Excedencia voluntaria",
+      "Servicios especiales",
+      "Suspensión firme",
+      "Servicio activo"
+    ],
+    1,
+    "El tema reserva esa categoría para esos cargos.",
+    "Tema 46, 7.2 Servicios especiales"
+  ],
+  [
+    "La excedencia voluntaria por interés particular requiere, según el tema:",
+    [
+      "Cinco años de antigüedad",
+      "Un año de antigüedad",
+      "Diez años de servicios",
+      "Ninguna antigüedad"
+    ],
+    0,
+    "El tema exige cinco años de antigüedad.",
+    "Tema 46, 7.4 Excedencia"
+  ],
+  [
+    "Entre los derechos de los funcionarios figura:",
+    [
+      "La libre elección del horario",
+      "La carrera profesional y la promoción interna",
+      "La exención de obedecer órdenes",
+      "La percepción de dietas automáticas"
+    ],
+    1,
+    "El tema cita expresamente carrera y promoción interna.",
+    "Tema 46, 8.1 Derechos"
+  ],
+  [
+    "Las faltas muy graves se sancionan, entre otras, con:",
+    [
+      "Apercibimiento",
+      "Separación del servicio",
+      "Suspensión de un día",
+      "Reprensión verbal"
+    ],
+    1,
+    "La separación del servicio es la sanción máxima para muy graves.",
+    "Tema 46, 9.3 Sanciones"
+  ]
+]

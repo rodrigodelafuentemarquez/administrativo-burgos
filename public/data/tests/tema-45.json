@@ -1,0 +1,182 @@
+[
+  [
+    "Según el tema, el sistema retributivo público se caracteriza por el principio de:",
+    [
+      "Privacidad",
+      "Moderación",
+      "Discrecionalidad absoluta",
+      "Reserva"
+    ],
+    1,
+    "La moderación se cita expresamente como principio del sistema retributivo público.",
+    "Tema 45, 1.2 Principios del sistema retributivo público"
+  ],
+  [
+    "El sueldo del funcionario se asigna en función de:",
+    [
+      "La antigüedad exclusivamente",
+      "El grupo o subgrupo de clasificación",
+      "El nivel de productividad",
+      "La jornada anual"
+    ],
+    1,
+    "El sueldo depende del grupo o subgrupo de clasificación profesional.",
+    "Tema 45, 2.2.1 El sueldo"
+  ],
+  [
+    "Los trienios retribuyen:",
+    [
+      "La asistencia a cursos de formación",
+      "Cada tres años de servicios efectivos en el mismo grupo o subgrupo",
+      "El desempeño de puestos de libre designación",
+      "El trabajo nocturno"
+    ],
+    1,
+    "El tema los vincula a cada tres años de servicios efectivos.",
+    "Tema 45, 2.2.2 Los trienios"
+  ],
+  [
+    "Las pagas extraordinarias de los funcionarios son:",
+    [
+      "Una al año y en marzo",
+      "Dos al año, en junio y diciembre",
+      "Tres al año, en enero, junio y diciembre",
+      "Mensuales"
+    ],
+    1,
+    "El tema indica dos pagas extraordinarias al año.",
+    "Tema 45, 2.2.3 Las pagas extraordinarias"
+  ],
+  [
+    "El complemento de destino retribuye:",
+    [
+      "La dificultad técnica del puesto",
+      "El nivel del puesto de trabajo",
+      "La antigüedad del funcionario",
+      "La jornada extraordinaria"
+    ],
+    1,
+    "El complemento de destino va ligado al nivel del puesto.",
+    "Tema 45, 2.3.1 El complemento de destino"
+  ],
+  [
+    "Cuál de los siguientes conceptos retribuye condiciones particulares del puesto como responsabilidad o peligrosidad:",
+    [
+      "Complemento específico",
+      "Sueldo base",
+      "Trienio",
+      "Paga extraordinaria"
+    ],
+    0,
+    "Eso es precisamente el complemento específico.",
+    "Tema 45, 2.3.2 El complemento específico"
+  ],
+  [
+    "El complemento de productividad se caracteriza por ser:",
+    [
+      "Fijo y consolidable",
+      "Variable y no consolidable",
+      "Igual para todos los funcionarios",
+      "Sustitutivo del sueldo"
+    ],
+    1,
+    "El tema lo define como variable y sin derechos consolidados.",
+    "Tema 45, 2.3.3 El complemento de productividad"
+  ],
+  [
+    "La nómina es, según el tema:",
+    [
+      "Solo un documento laboral",
+      "Solo un documento contable",
+      "Un documento contable, laboral y tributario",
+      "Un documento exclusivamente fiscal"
+    ],
+    2,
+    "La nómina cumple las tres funciones citadas.",
+    "Tema 45, 4.1 Concepto y naturaleza"
+  ],
+  [
+    "En la nómina, la retención del IRPF se practica sobre:",
+    [
+      "El sueldo bruto anual previsto y las circunstancias personales y familiares",
+      "Solo la antigüedad",
+      "Únicamente las dietas",
+      "Solo las gratificaciones"
+    ],
+    0,
+    "El tema explica que el tipo se calcula con las retribuciones anuales previstas y datos personales.",
+    "Tema 45, 4.3.2 Retención del IRPF"
+  ],
+  [
+    "El modelo que comunica los datos personales y familiares al pagador es el:",
+    [
+      "Modelo 111",
+      "Modelo 145",
+      "Modelo 303",
+      "Modelo 036"
+    ],
+    1,
+    "El tema identifica el modelo 145 para esa comunicación.",
+    "Tema 45, 4.3.2 Retención del IRPF"
+  ],
+  [
+    "Una baja en nómina debe comunicarse a la Seguridad Social, según el tema, dentro de:",
+    [
+      "Un mes",
+      "Tres días naturales",
+      "Quince días hábiles",
+      "Sesenta días naturales"
+    ],
+    1,
+    "El tema fija tres días naturales tras el cese.",
+    "Tema 45, 5.2 Bajas"
+  ],
+  [
+    "El personal laboral de las Administraciones Públicas se integra, por regla general, en:",
+    [
+      "MUFACE",
+      "Clases Pasivas",
+      "Régimen General de la Seguridad Social",
+      "Régimen especial de funcionarios locales"
+    ],
+    2,
+    "El tema sitúa al personal laboral en el Régimen General de la Seguridad Social.",
+    "Tema 45, 6.1 El Régimen General de la Seguridad Social"
+  ],
+  [
+    "Cuál de las siguientes prestaciones figura en la acción protectora del Régimen General citada en el tema:",
+    [
+      "Pensiones de retiro militar",
+      "Incapacidad temporal",
+      "Cese de alto cargo",
+      "Compensación por servicios extraordinarios"
+    ],
+    1,
+    "La incapacidad temporal aparece expresamente en la tabla del tema.",
+    "Tema 45, 6.2 La acción protectora del Régimen General"
+  ],
+  [
+    "MUFACE se caracteriza por permitir al mutualista:",
+    [
+      "Elegir entre red pública y aseguradora privada concertada",
+      "Percibir retribuciones complementarias",
+      "Cobrar solo en junio y diciembre",
+      "Cotizar mediante el modelo 145"
+    ],
+    0,
+    "El tema destaca esa posibilidad de elección sanitaria.",
+    "Tema 45, 7.1 La MUFACE"
+  ],
+  [
+    "Las clases pasivas afectan, según el tema, a los funcionarios civiles del Estado ingresados:",
+    [
+      "Antes del 1 de enero de 2011",
+      "Después del 1 de enero de 2011",
+      "Antes del 1 de enero de 2007",
+      "Solo a los funcionarios locales"
+    ],
+    0,
+    "El corte temporal del tema es el 1 de enero de 2011.",
+    "Tema 45, 7.2 Las Clases Pasivas del Estado"
+  ]
+]

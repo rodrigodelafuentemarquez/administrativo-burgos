@@ -1,0 +1,182 @@
+[
+  [
+    "Según el Tema 44, el presupuesto público es principalmente:",
+    [
+      "Una autorización jurídica y financiera para gastar e ingresar durante un ejercicio",
+      "Un mero estado contable sin eficacia jurídica",
+      "Un plan plurianual sin límite temporal",
+      "Una reserva de tesorería para imprevistos"
+    ],
+    0,
+    "El tema define el presupuesto como autorización para gastar e ingresar en el ejercicio.",
+    "Tema 44, 1.1 Qué es el presupuesto público"
+  ],
+  [
+    "Según el artículo 134 CE citado en el tema, los Presupuestos Generales del Estado tienen carácter:",
+    [
+      "Mensual",
+      "Anual",
+      "Bianual",
+      "Indefinido"
+    ],
+    1,
+    "El art. 134 CE establece el carácter anual de los presupuestos.",
+    "art. 134 CE"
+  ],
+  [
+    "Cuál de los siguientes no figura entre los principios presupuestarios del tema:",
+    [
+      "Unidad",
+      "No afectación",
+      "Especialidad",
+      "Inmediación"
+    ],
+    3,
+    "Inmediación no aparece; sí se recogen unidad, no afectación y especialidad.",
+    "Tema 44, 2 Principios presupuestarios"
+  ],
+  [
+    "El principio de universalidad exige que:",
+    [
+      "Todos los ingresos y gastos se incluyan íntegramente en el presupuesto",
+      "Solo se incluyan los gastos corrientes",
+      "Los ingresos financien gastos concretos afectados",
+      "El presupuesto se apruebe cada dos años"
+    ],
+    0,
+    "La universalidad impide compensaciones y exige incluir todo ingreso y gasto.",
+    "Tema 44, 2.3 Principio de universalidad"
+  ],
+  [
+    "Según el tema, el principio de especialidad presupuestaria tiene una vertiente:",
+    [
+      "Solo territorial",
+      "Cualitativa, cuantitativa y temporal",
+      "Únicamente financiera",
+      "Solo orgánica"
+    ],
+    1,
+    "El texto distingue tres vertientes de la especialidad.",
+    "Tema 44, 2.6 Principio de especialidad"
+  ],
+  [
+    "En la clasificación económica del presupuesto, el capítulo 1 corresponde a:",
+    [
+      "Gastos de personal",
+      "Transferencias corrientes",
+      "Inversiones reales",
+      "Pasivos financieros"
+    ],
+    0,
+    "El capítulo 1 se reserva a gastos de personal.",
+    "Tema 44, 3.3 Clasificación económica"
+  ],
+  [
+    "Cuál de las siguientes agrupaciones es correcta según el tema:",
+    [
+      "Capítulos 1 a 5: gastos corrientes; 6 y 7: capital; 8 y 9: operaciones financieras",
+      "Capítulos 1 a 3: capital; 4 a 6: corrientes; 7 a 9: financieras",
+      "Capítulos 1 a 4: financieras; 5 a 7: corrientes; 8 a 9: capital",
+      "Capítulos 1 a 9: todos son gastos corrientes"
+    ],
+    0,
+    "El tema clasifica así los capítulos presupuestarios.",
+    "Tema 44, 3.3 Clasificación económica"
+  ],
+  [
+    "La fase D del gasto público es la de:",
+    [
+      "Autorización",
+      "Disposición o compromiso",
+      "Reconocimiento de la obligación",
+      "Ordenación del pago"
+    ],
+    1,
+    "La disposición compromete jurídicamente a la Administración con un tercero.",
+    "Tema 44, 5.2 Las fases de la ejecución del presupuesto de gastos"
+  ],
+  [
+    "El documento contable AD recoge:",
+    [
+      "Autorización y disposición acumuladas",
+      "Autorización y pago material",
+      "Disposición y reconocimiento de obligación",
+      "Reconocimiento de obligación y pago material"
+    ],
+    0,
+    "AD acumula las fases A y D cuando se tramitan conjuntamente.",
+    "Tema 44, 5.3 Resumen de las fases y documentos contables"
+  ],
+  [
+    "Qué documento contable se asocia al reconocimiento de la obligación:",
+    [
+      "A",
+      "D",
+      "O",
+      "P"
+    ],
+    2,
+    "El documento O corresponde al reconocimiento de la obligación.",
+    "Tema 44, 5.2 Fase 3 — Reconocimiento de la obligación"
+  ],
+  [
+    "Cuál de los siguientes mecanismos se describe como idóneo para gastos pequeños y urgentes de carácter periódico:",
+    [
+      "Crédito extraordinario",
+      "Anticipos de caja fija",
+      "Suplemento de crédito",
+      "Transferencia de crédito"
+    ],
+    1,
+    "El tema reserva los anticipos de caja fija para gastos menores y periódicos.",
+    "Tema 44, 5.5 Los anticipos de caja fija y los pagos a justificar"
+  ],
+  [
+    "Un crédito extraordinario se caracteriza porque:",
+    [
+      "Redistribuye crédito sin alterar el gasto total",
+      "Crea una nueva partida para un gasto no previsto",
+      "Solo se aplica a gastos de personal",
+      "No requiere aprobación alguna"
+    ],
+    1,
+    "El crédito extraordinario crea una partida nueva y aumenta el gasto total.",
+    "Tema 44, 6.2 Créditos extraordinarios y suplementos de crédito"
+  ],
+  [
+    "Las transferencias de crédito:",
+    [
+      "Aumentan el gasto total del presupuesto",
+      "Redistribuyen créditos entre partidas sin alterar el gasto total",
+      "Solo las aprueba el Tribunal de Cuentas",
+      "Solo sirven para crear nuevas partidas"
+    ],
+    1,
+    "El tema las define como redistribución sin alterar el gasto total.",
+    "Tema 44, 6.4 Transferencias de crédito"
+  ],
+  [
+    "El control interno previo más importante es:",
+    [
+      "El control político",
+      "La función interventora",
+      "El control financiero posterior",
+      "La fiscalización externa"
+    ],
+    1,
+    "La función interventora es el control interno previo esencial.",
+    "Tema 44, 7.2 La función interventora"
+  ],
+  [
+    "En Castilla y León, el órgano de control externo es:",
+    [
+      "La Intervención General",
+      "El Consejo de Cuentas de Castilla y León",
+      "La Tesorería General",
+      "El Tribunal Constitucional"
+    ],
+    1,
+    "El Consejo de Cuentas es el OCEX autonómico citado en el tema.",
+    "Tema 44, 7.5 Los órganos de control externo autonómicos (OCEX)"
+  ]
+]
