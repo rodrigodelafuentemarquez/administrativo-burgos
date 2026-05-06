@@ -2,7 +2,7 @@
   {
     "id": "t02-p001",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.1 del Tema 2, ¿qué órgano es el intérprete supremo de la Constitución y se sitúa fuera del Poder Judicial ordinario?",
+    "pregunta": "¿Qué órgano es el intérprete supremo de la Constitución y se sitúa fuera del Poder Judicial ordinario?",
     "opciones": [
       "El Tribunal Supremo",
       "El Tribunal Constitucional",
@@ -16,7 +16,7 @@
   {
     "id": "t02-p002",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.2 del Tema 2, ¿Cómo se compone el Tribunal Constitucional 2?",
+    "pregunta": "¿Cómo se compone el Tribunal Constitucional?",
     "opciones": [
       "10 magistrados: 4 del Congreso, 4 del Senado y 2 del Gobierno",
       "12 magistrados: 4 Congreso, 4 Senado, 2 Gobierno y 2 CGPJ",
@@ -30,7 +30,7 @@
   {
     "id": "t02-p003",
     "tema": 2,
-    "pregunta": "¿Qué mayoría exige el Tema 2 para la propuesta de magistrados del Tribunal Constitucional por el Congreso y el Senado?",
+    "pregunta": "¿Qué mayoría exige el para la propuesta de magistrados del Tribunal Constitucional por el Congreso y el Senado?",
     "opciones": [
       "Mayoría absoluta",
       "Mayoría simple",
@@ -44,7 +44,7 @@
   {
     "id": "t02-p004",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.2 del Tema 2, ¿qué requisito profesional se exige para ser magistrado del Tribunal Constitucional?",
+    "pregunta": "¿Qué requisito profesional se exige para ser magistrado del Tribunal Constitucional?",
     "opciones": [
       "10 años de ejercicio profesional",
       "15 años de ejercicio profesional",
@@ -58,7 +58,7 @@
   {
     "id": "t02-p005",
     "tema": 2,
-    "pregunta": "¿Cuál es la duración del mandato de los magistrados del Tribunal Constitucional, conforme al Tema 2?",
+    "pregunta": "¿Cuál es la duración del mandato de los magistrados del Tribunal Constitucional,?",
     "opciones": [
       "5 años, con renovación total",
       "6 años, con renovación por mitades",
@@ -72,7 +72,7 @@
   {
     "id": "t02-p006",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.2 del Tema 2, ¿quién elige al Presidente del Tribunal Constitucional?",
+    "pregunta": "¿Quién elige al Presidente del Tribunal Constitucional?",
     "opciones": [
       "El Rey directamente",
       "Las Cortes Generales",
@@ -86,7 +86,7 @@
   {
     "id": "t02-p007",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.4 del Tema 2, ¿Quién puede interponer el recurso de inconstitucionalidad 2?",
+    "pregunta": "¿Quién puede interponer el recurso de inconstitucionalidad?",
     "opciones": [
       "Cualquier ciudadano por interés legítimo",
       "50 diputados",
@@ -100,7 +100,7 @@
   {
     "id": "t02-p008",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.4 del Tema 2, ¿Cuál es el plazo general para interponer el recurso de inconstitucionalidad 2?",
+    "pregunta": "¿Cuál es el plazo general para interponer el recurso de inconstitucionalidad?",
     "opciones": [
       "1 mes desde la publicación",
       "3 meses desde la publicación, ampliables a 9 meses con negociación previa",
@@ -114,7 +114,7 @@
   {
     "id": "t02-p009",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.4 del Tema 2, ¿Qué derechos protege el recurso de amparo 2?",
+    "pregunta": "¿Qué derechos protege el recurso de amparo?",
     "opciones": [
       "Los arts. 1 a 9 CE",
       "Los arts. 14 a 29 y 30.2 CE",
@@ -128,7 +128,7 @@
   {
     "id": "t02-p010",
     "tema": 2,
-    "pregunta": "Según el epígrafe 2.7 del Tema 2, ¿Cuál de las siguientes afirmaciones sobre el Defensor del Pueblo es correcta 2?",
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre el Defensor del Pueblo es correcta?",
     "opciones": [
       "Se elige por mayoría simple de cada Cámara y dura 10 años",
       "Puede interponer recurso de inconstitucionalidad y recurso de amparo",
@@ -142,7 +142,7 @@
   {
     "id": "t02-p011",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.3 del Tema 2, ¿en cuántas formaciones actúa el Tribunal Constitucional?",
+    "pregunta": "¿En cuántas formaciones actúa el Tribunal Constitucional?",
     "opciones": [
       "En una sola formación",
       "En dos formaciones",
@@ -156,7 +156,7 @@
   {
     "id": "t02-p012",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.4 del Tema 2, ¿Quién plantea la cuestión de inconstitucionalidad 2?",
+    "pregunta": "¿Quién plantea la cuestión de inconstitucionalidad?",
     "opciones": [
       "Cualquier particular directamente",
       "Un juez o tribunal en el curso de un proceso",
@@ -170,7 +170,7 @@
   {
     "id": "t02-p013",
     "tema": 2,
-    "pregunta": "Según el epígrafe 1.5 del Tema 2, ¿Qué efecto tienen las sentencias del Tribunal Constitucional 2, cuando declaran la inconstitucionalidad de una norma?",
+    "pregunta": "¿Qué efecto tienen las sentencias del Tribunal Constitucional, cuando declaran la inconstitucionalidad de una norma?",
     "opciones": [
       "Son recurribles ante el Tribunal Supremo",
       "Tienen plenos efectos frente a todos y se publican en el BOE",
@@ -184,7 +184,7 @@
   {
     "id": "t02-p014",
     "tema": 2,
-    "pregunta": "Según el epígrafe 2.2 del Tema 2, ¿cómo se elige al Defensor del Pueblo?",
+    "pregunta": "¿Cómo se elige al Defensor del Pueblo?",
     "opciones": [
       "Por el Gobierno por decreto",
       "Por las Cortes Generales por mayoría de 3/5 de cada Cámara",
@@ -198,7 +198,7 @@
   {
     "id": "t02-p015",
     "tema": 2,
-    "pregunta": "¿Qué ocurre con las impugnaciones del art. 161.2 CE 2?",
+    "pregunta": "¿Qué ocurre con las impugnaciones del art. 161.2 CE?",
     "opciones": [
       "Nunca producen suspensión",
       "Producen un efecto suspensivo automático de hasta 5 meses",

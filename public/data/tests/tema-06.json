@@ -2,7 +2,7 @@
   {
     "id": "t06-p001",
     "tema": 6,
-    "pregunta": "Según el epígrafe 2.1 del Tema 6, el Consejo General del Poder Judicial es...",
+    "pregunta": "El Consejo General del Poder Judicial es...",
     "opciones": [
       "el órgano de gobierno del Poder Judicial",
       "el intérprete supremo de la Constitución",
@@ -16,7 +16,7 @@
   {
     "id": "t06-p002",
     "tema": 6,
-    "pregunta": "Según el epígrafe 2.2 del Tema 6, ¿Cuál es la composición del CGPJ 6?",
+    "pregunta": "¿Cuál es la composición del CGPJ?",
     "opciones": [
       "Un presidente y 12 vocales",
       "Un presidente del Tribunal Supremo y 20 vocales",
@@ -30,7 +30,7 @@
   {
     "id": "t06-p003",
     "tema": 6,
-    "pregunta": "Según el epígrafe 2.2 del Tema 6, ¿Cuál de las siguientes afirmaciones sobre los vocales del CGPJ es correcta 6?",
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre los vocales del CGPJ es correcta?",
     "opciones": [
       "8 son jueces y magistrados y 12 juristas",
       "12 son jueces y magistrados y 8 juristas de reconocida competencia",
@@ -44,7 +44,7 @@
   {
     "id": "t06-p004",
     "tema": 6,
-    "pregunta": "Según el epígrafe 2.3 del Tema 6, ¿Cuál es el mandato de los vocales del CGPJ 6?",
+    "pregunta": "¿Cuál es el mandato de los vocales del CGPJ?",
     "opciones": [
       "4 años",
       "5 años",
@@ -58,7 +58,7 @@
   {
     "id": "t06-p005",
     "tema": 6,
-    "pregunta": "Según el epígrafe 3.1 del Tema 6, ¿Qué órgano es el jurisdiccional superior en todos los órdenes, salvo las garantías constitucionales 6?",
+    "pregunta": "¿Qué órgano es el jurisdiccional superior en todos los órdenes, salvo las garantías constitucionales?",
     "opciones": [
       "El Tribunal Supremo",
       "La Audiencia Nacional",
@@ -72,7 +72,7 @@
   {
     "id": "t06-p006",
     "tema": 6,
-    "pregunta": "Según el epígrafe 3.2 del Tema 6, ¿Qué sala del Tribunal Supremo conoce de los recursos de casación en materia laboral y de Seguridad Social 6?",
+    "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos de casación en materia laboral y de Seguridad Social?",
     "opciones": [
       "Sala 1.ª",
       "Sala 2.ª",
@@ -86,7 +86,7 @@
   {
     "id": "t06-p007",
     "tema": 6,
-    "pregunta": "¿Dónde tiene su sede la Audiencia Nacional, conforme al Tema 6?",
+    "pregunta": "¿Dónde tiene su sede la Audiencia Nacional,?",
     "opciones": [
       "Barcelona",
       "Madrid",
@@ -100,7 +100,7 @@
   {
     "id": "t06-p008",
     "tema": 6,
-    "pregunta": "Según el epígrafe 5.1 del Tema 6, los Tribunales Superiores de Justicia...",
+    "pregunta": "Los Tribunales Superiores de Justicia...",
     "opciones": [
       "culminan la organización judicial en el ámbito de la Comunidad Autónoma",
       "son órganos del Poder Ejecutivo autonómico",
@@ -114,7 +114,7 @@
   {
     "id": "t06-p009",
     "tema": 6,
-    "pregunta": "De acuerdo con el Tema 6, ¿Qué tipo de asuntos conocen los Juzgados de lo Penal 6?",
+    "pregunta": "¿Qué tipo de asuntos conocen los Juzgados de lo Penal?",
     "opciones": [
       "Recursos de casación penal",
       "Enjuiciamiento de delitos con pena no superior a 5 años de prisión",
@@ -128,7 +128,7 @@
   {
     "id": "t06-p010",
     "tema": 6,
-    "pregunta": "¿Qué principio de actuación del Ministerio Fiscal recoge el Tema 6?",
+    "pregunta": "¿Qué principio de actuación del Ministerio Fiscal recoge el?",
     "opciones": [
       "Autonomía legislativa",
       "Dependencia jerárquica",
@@ -142,7 +142,7 @@
   {
     "id": "t06-p011",
     "tema": 6,
-    "pregunta": "Según el epígrafe 1.1 del Tema 6, la función jurisdiccional corresponde a...",
+    "pregunta": "La función jurisdiccional corresponde a...",
     "opciones": [
       "los jueces y magistrados",
       "el Ministerio Fiscal",
@@ -156,7 +156,7 @@
   {
     "id": "t06-p012",
     "tema": 6,
-    "pregunta": "¿Qué principio afirma el Tema 6 sobre la unidad jurisdiccional?",
+    "pregunta": "¿Qué principio se afirma sobre la unidad jurisdiccional?",
     "opciones": [
       "Que existen jurisdicciones separadas por comunidades autónomas",
       "Que la jurisdicción es única para todo el Estado",
@@ -170,7 +170,7 @@
   {
     "id": "t06-p013",
     "tema": 6,
-    "pregunta": "Según el epígrafe 1.4 del Tema 6, la participación ciudadana en la Administración de Justicia se realiza mediante...",
+    "pregunta": "La participación ciudadana en la Administración de Justicia se realiza mediante...",
     "opciones": [
       "jurados y tribunales populares",
       "jurado solamente",
@@ -184,7 +184,7 @@
   {
     "id": "t06-p014",
     "tema": 6,
-    "pregunta": "Según el epígrafe 2.5 del Tema 6, ¿Qué órgano puede dictar reglamentos en el ámbito de sus competencias de personal 6?",
+    "pregunta": "¿Qué órgano puede dictar reglamentos en el ámbito de sus competencias de personal?",
     "opciones": [
       "El CGPJ",
       "La Audiencia Nacional",
@@ -198,7 +198,7 @@
   {
     "id": "t06-p015",
     "tema": 6,
-    "pregunta": "Según el epígrafe 3.2 del Tema 6, ¿Qué sala del Tribunal Supremo conoce de los recursos contra actos del Gobierno y de la AGE 6?",
+    "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos contra actos del Gobierno y de la AGE?",
     "opciones": [
       "Sala 1.ª",
       "Sala 2.ª",

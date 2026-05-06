@@ -2,7 +2,7 @@
   {
     "id": "t17-p001",
     "tema": 17,
-    "pregunta": "Según el epígrafe 1.1 del Tema 17, un recurso administrativo es...",
+    "pregunta": "Un recurso administrativo es...",
     "opciones": [
       "la impugnación ante el juez contencioso",
       "la solicitud a la propia Administración para revisar un acto que se considera contrario al ordenamiento",
@@ -16,7 +16,7 @@
   {
     "id": "t17-p002",
     "tema": 17,
-    "pregunta": "¿Qué principio exige el Tema 17 para favorecer la admisión del recurso cuando existan defectos formales subsanables?",
+    "pregunta": "¿Qué principio exige el para favorecer la admisión del recurso cuando existan defectos formales subsanables?",
     "opciones": [
       "Legalidad",
       "Pro actione",
@@ -30,7 +30,7 @@
   {
     "id": "t17-p003",
     "tema": 17,
-    "pregunta": "Según el epígrafe 2.3 del Tema 17, la resolución del recurso no puede...",
+    "pregunta": "La resolución del recurso no puede...",
     "opciones": [
       "ser congruente",
       "agravar la situación del recurrente en perjuicio si solo recurre él",
@@ -44,7 +44,7 @@
   {
     "id": "t17-p004",
     "tema": 17,
-    "pregunta": "Según el epígrafe 2.4 del Tema 17, ¿Suspende automáticamente el recurso administrativo la ejecución del acto recurrido 17?",
+    "pregunta": "¿Suspende automáticamente el recurso administrativo la ejecución del acto recurrido?",
     "opciones": [
       "Sí, siempre",
       "No, solo si se solicita y se concede o se produce silencio positivo en 30 días",
@@ -58,7 +58,7 @@
   {
     "id": "t17-p005",
     "tema": 17,
-    "pregunta": "Según el epígrafe 3.2 del Tema 17, pueden recurrirse autónomamente los actos de trámite cualificados cuando...",
+    "pregunta": "Pueden recurrirse autónomamente los actos de trámite cualificados cuando...",
     "opciones": [
       "sean meramente de impulso procesal",
       "produzcan indefensión o perjuicio irreparable",
@@ -72,7 +72,7 @@
   {
     "id": "t17-p006",
     "tema": 17,
-    "pregunta": "Según el epígrafe 4.1 del Tema 17, ¿Qué recurso se interpone contra actos que no ponen fin a la vía administrativa 17?",
+    "pregunta": "¿Qué recurso se interpone contra actos que no ponen fin a la vía administrativa?",
     "opciones": [
       "Alzada",
       "Reposición",
@@ -86,7 +86,7 @@
   {
     "id": "t17-p007",
     "tema": 17,
-    "pregunta": "Según el epígrafe 4.1 del Tema 17, el recurso de alzada se resuelve por...",
+    "pregunta": "El recurso de alzada se resuelve por...",
     "opciones": [
       "el órgano superior jerárquico del que dictó el acto",
       "el mismo órgano siempre",
@@ -100,7 +100,7 @@
   {
     "id": "t17-p008",
     "tema": 17,
-    "pregunta": "Según el epígrafe 4.2 del Tema 17, ¿Cuál es el plazo general de interposición del recurso de reposición si el acto es expreso 17?",
+    "pregunta": "¿Cuál es el plazo general de interposición del recurso de reposición si el acto es expreso?",
     "opciones": [
       "10 días",
       "1 mes",
@@ -114,7 +114,7 @@
   {
     "id": "t17-p009",
     "tema": 17,
-    "pregunta": "Según el epígrafe 4.2 del Tema 17, el recurso de reposición es...",
+    "pregunta": "El recurso de reposición es...",
     "opciones": [
       "obligatorio antes del contencioso",
       "potestativo",
@@ -128,7 +128,7 @@
   {
     "id": "t17-p010",
     "tema": 17,
-    "pregunta": "¿Qué plazo para resolver el recurso de reposición indica el Tema 17?",
+    "pregunta": "¿Qué plazo para resolver el recurso de reposición indica el?",
     "opciones": [
       "10 días",
       "1 mes",
@@ -142,7 +142,7 @@
   {
     "id": "t17-p011",
     "tema": 17,
-    "pregunta": "Según el epígrafe 4.3 del Tema 17, el recurso extraordinario de revisión procede contra actos...",
+    "pregunta": "El recurso extraordinario de revisión procede contra actos...",
     "opciones": [
       "firmes en vía administrativa",
       "nulos en vía judicial",
@@ -156,7 +156,7 @@
   {
     "id": "t17-p012",
     "tema": 17,
-    "pregunta": "¿Qué causa del recurso extraordinario de revisión menciona el Tema 17?",
+    "pregunta": "¿Qué causa del recurso extraordinario de revisión menciona el?",
     "opciones": [
       "Error de hecho que resulte de los propios documentos del expediente",
       "Simple desacuerdo político",
@@ -170,7 +170,7 @@
   {
     "id": "t17-p013",
     "tema": 17,
-    "pregunta": "Según el epígrafe 5.1 del Tema 17, si un recurso llega al órgano incompetente para resolverlo...",
+    "pregunta": "Si un recurso llega al órgano incompetente para resolverlo...",
     "opciones": [
       "se inadmite sin más",
       "se remite al competente y el plazo se entiende cumplido",
@@ -184,7 +184,7 @@
   {
     "id": "t17-p014",
     "tema": 17,
-    "pregunta": "Según el epígrafe 2.5 del Tema 17, la resolución del recurso debe respetar el principio de...",
+    "pregunta": "La resolución del recurso debe respetar el principio de...",
     "opciones": [
       "congruencia",
       "retroactividad",
@@ -198,7 +198,7 @@
   {
     "id": "t17-p015",
     "tema": 17,
-    "pregunta": "Según el epígrafe 4.1 del Tema 17, ¿Qué efecto tiene el silencio en el recurso de alzada 17, como regla general?",
+    "pregunta": "¿Qué efecto tiene el silencio en el recurso de alzada, como regla general?",
     "opciones": [
       "Positivo",
       "Negativo",

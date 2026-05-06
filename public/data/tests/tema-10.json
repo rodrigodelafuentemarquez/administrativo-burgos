@@ -2,7 +2,7 @@
   {
     "id": "t10-p001",
     "tema": 10,
-    "pregunta": "Según el epígrafe 1.1 del Tema 10, la provincia tiene una doble naturaleza como...",
+    "pregunta": "La provincia tiene una doble naturaleza como...",
     "opciones": [
       "Entidad local con personalidad jurídica propia y división territorial para el cumplimiento de las actividades del Estado",
       "Entidad mercantil con personalidad jurídica privada",
@@ -16,7 +16,7 @@
   {
     "id": "t10-p002",
     "tema": 10,
-    "pregunta": "¿Qué exige el Tema 10 para alterar los límites provinciales?",
+    "pregunta": "¿Qué exige el para alterar los límites provinciales?",
     "opciones": [
       "Ley ordinaria",
       "Ley Orgánica",
@@ -30,7 +30,7 @@
   {
     "id": "t10-p003",
     "tema": 10,
-    "pregunta": "Según el epígrafe 1.3 del Tema 10, ¿Cuántas provincias tiene España 10?",
+    "pregunta": "¿Cuántas provincias tiene España?",
     "opciones": [
       "47",
       "48",
@@ -44,7 +44,7 @@
   {
     "id": "t10-p004",
     "tema": 10,
-    "pregunta": "Según el epígrafe 1.4 del Tema 10, el gobierno y la administración autónoma de las provincias corresponde a...",
+    "pregunta": "El gobierno y la administración autónoma de las provincias corresponde a...",
     "opciones": [
       "los Ayuntamientos",
       "las Diputaciones Provinciales u otras Corporaciones de carácter representativo",
@@ -58,7 +58,7 @@
   {
     "id": "t10-p005",
     "tema": 10,
-    "pregunta": "Según el epígrafe 2.1 del Tema 10, ¿Qué órgano no aparece entre los órganos básicos necesarios de una Diputación Provincial 10?",
+    "pregunta": "¿Qué órgano no aparece entre los órganos básicos necesarios de una Diputación Provincial?",
     "opciones": [
       "El Presidente",
       "Los Vicepresidentes",
@@ -72,7 +72,7 @@
   {
     "id": "t10-p006",
     "tema": 10,
-    "pregunta": "Según el epígrafe 2.2 del Tema 10, cuando la provincia tiene hasta 500.000 habitantes, ¿cuántos Diputados Provinciales corresponden?",
+    "pregunta": "Cuando la provincia tiene hasta 500.000 habitantes, ¿cuántos Diputados Provinciales corresponden?",
     "opciones": [
       "21",
       "25",
@@ -86,7 +86,7 @@
   {
     "id": "t10-p007",
     "tema": 10,
-    "pregunta": "Según el epígrafe 2.2 del Tema 10, ¿Cómo se eligen los Diputados Provinciales 10?",
+    "pregunta": "¿Cómo se eligen los Diputados Provinciales?",
     "opciones": [
       "Por sufragio directo de todos los ciudadanos",
       "De forma indirecta entre los concejales de los municipios de la provincia",
@@ -100,7 +100,7 @@
   {
     "id": "t10-p008",
     "tema": 10,
-    "pregunta": "Según el epígrafe 2.2 del Tema 10, ¿Con qué periodicidad debe reunirse el Pleno de la Diputación 10, en las Diputaciones de más de 20.000 habitantes?",
+    "pregunta": "¿Con qué periodicidad debe reunirse el Pleno de la Diputación, en las Diputaciones de más de 20.000 habitantes?",
     "opciones": [
       "Como mínimo una vez al mes",
       "Como mínimo cada dos meses",
@@ -114,7 +114,7 @@
   {
     "id": "t10-p009",
     "tema": 10,
-    "pregunta": "Según el epígrafe 2.3 del Tema 10, ¿Qué mayoría se exige en primera votación para elegir al Presidente de la Diputación 10?",
+    "pregunta": "¿Qué mayoría se exige en primera votación para elegir al Presidente de la Diputación?",
     "opciones": [
       "Mayoría simple",
       "Mayoría absoluta",
@@ -128,7 +128,7 @@
   {
     "id": "t10-p010",
     "tema": 10,
-    "pregunta": "Según el epígrafe 3.1 del Tema 10, una competencia propia de la Diputación Provincial es...",
+    "pregunta": "Una competencia propia de la Diputación Provincial es...",
     "opciones": [
       "ejercer la potestad legislativa provincial",
       "asistir y cooperar jurídica, económica y técnicamente a los municipios",
@@ -142,7 +142,7 @@
   {
     "id": "t10-p011",
     "tema": 10,
-    "pregunta": "Según el epígrafe 1.2 del Tema 10, ¿qué exige la garantía constitucional de la provincia respecto a su supresión?",
+    "pregunta": "¿Qué exige la garantía constitucional de la provincia respecto a su supresión?",
     "opciones": [
       "Puede suprimirse por ley ordinaria",
       "No puede ser suprimida por el legislador ordinario",
@@ -156,7 +156,7 @@
   {
     "id": "t10-p012",
     "tema": 10,
-    "pregunta": "¿Qué órgano básico necesario de la Diputación Provincial no aparece listado en el Tema 10?",
+    "pregunta": "¿Qué órgano básico necesario de la Diputación Provincial no aparece listado?",
     "opciones": [
       "La Junta de Gobierno",
       "El Pleno",
@@ -170,7 +170,7 @@
   {
     "id": "t10-p013",
     "tema": 10,
-    "pregunta": "Según el epígrafe 2.2 del Tema 10, en provincias de 1.000.001 a 3.500.000 habitantes corresponden...",
+    "pregunta": "En provincias de 1.000.001 a 3.500.000 habitantes corresponden...",
     "opciones": [
       "25 diputados",
       "27 diputados",
@@ -184,7 +184,7 @@
   {
     "id": "t10-p014",
     "tema": 10,
-    "pregunta": "¿Qué quórum de asistencia exige el Tema 10 para la válida constitución del Pleno de la Diputación?",
+    "pregunta": "¿Qué quórum de asistencia exige el para la válida constitución del Pleno de la Diputación?",
     "opciones": [
       "La mitad más uno de sus miembros",
       "Un tercio del número legal de miembros y nunca menos de tres",
@@ -198,7 +198,7 @@
   {
     "id": "t10-p015",
     "tema": 10,
-    "pregunta": "Según el epígrafe 3.1 del Tema 10, ¿Cuál de las siguientes es una competencia propia de la Diputación 10?",
+    "pregunta": "¿Cuál de las siguientes es una competencia propia de la Diputación?",
     "opciones": [
       "Dictar leyes provinciales",
       "Aprobar el Presupuesto General del Estado",

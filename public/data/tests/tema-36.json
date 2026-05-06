@@ -2,7 +2,7 @@
   {
     "id": "t36-p001",
     "tema": 36,
-    "pregunta": "Según el epígrafe 1.1 del Tema 36, la informática es...",
+    "pregunta": "La informática es...",
     "opciones": [
       "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
       "el conjunto de normas de archivo",
@@ -16,7 +16,7 @@
   {
     "id": "t36-p002",
     "tema": 36,
-    "pregunta": "Según el epígrafe 1.1 del Tema 36, una característica fundamental del ordenador es la...",
+    "pregunta": "Una característica fundamental del ordenador es la...",
     "opciones": [
       "velocidad",
       "inalienabilidad",
@@ -30,7 +30,7 @@
   {
     "id": "t36-p003",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.2 del Tema 36, la arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y...",
+    "pregunta": "La arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y...",
     "opciones": [
       "bus",
       "archivo central",
@@ -44,7 +44,7 @@
   {
     "id": "t36-p004",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.3.1 del Tema 36, la CPU 36, es...",
+    "pregunta": "La CPU es...",
     "opciones": [
       "el cerebro del ordenador",
       "la unidad de respaldo externo",
@@ -58,7 +58,7 @@
   {
     "id": "t36-p005",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.3.2 del Tema 36, la RAM es una memoria...",
+    "pregunta": "La RAM es una memoria...",
     "opciones": [
       "volátil",
       "permanente",
@@ -72,7 +72,7 @@
   {
     "id": "t36-p006",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.3.3 del Tema 36, la ROM alberga el firmware del sistema, en particular...",
+    "pregunta": "La ROM alberga el firmware del sistema, en particular...",
     "opciones": [
       "la BIOS o la UEFI",
       "el navegador web",
@@ -86,7 +86,7 @@
   {
     "id": "t36-p007",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.3.4 del Tema 36, la placa base incorpora el...",
+    "pregunta": "La placa base incorpora el...",
     "opciones": [
       "chipset",
       "Panel de control",
@@ -100,7 +100,7 @@
   {
     "id": "t36-p008",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.3.5 del Tema 36, la GPU es el componente responsable del...",
+    "pregunta": "La GPU es el componente responsable del...",
     "opciones": [
       "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
       "almacenamiento masivo de archivos",
@@ -114,7 +114,7 @@
   {
     "id": "t36-p009",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.4.1 del Tema 36, los periféricos de entrada permiten...",
+    "pregunta": "Los periféricos de entrada permiten...",
     "opciones": [
       "introducir datos o instrucciones en el ordenador",
       "solo mostrar imágenes",
@@ -128,7 +128,7 @@
   {
     "id": "t36-p010",
     "tema": 36,
-    "pregunta": "Según el epígrafe 2.5 del Tema 36, el bus de datos...",
+    "pregunta": "El bus de datos...",
     "opciones": [
       "transporta los datos entre CPU, memoria y periféricos",
       "define los permisos de usuario",
@@ -142,7 +142,7 @@
   {
     "id": "t36-p011",
     "tema": 36,
-    "pregunta": "Según el epígrafe 3.2.1 del Tema 36, el software de sistema incluye...",
+    "pregunta": "El software de sistema incluye...",
     "opciones": [
       "el sistema operativo y los controladores",
       "solo los documentos PDF",
@@ -156,7 +156,7 @@
   {
     "id": "t36-p012",
     "tema": 36,
-    "pregunta": "Según el epígrafe 3.3 del Tema 36, el software libre permite...",
+    "pregunta": "El software libre permite...",
     "opciones": [
       "usar, copiar, distribuir, estudiar y modificar el software",
       "solo usarlo sin copiar",
@@ -170,7 +170,7 @@
   {
     "id": "t36-p013",
     "tema": 36,
-    "pregunta": "Según el epígrafe 4.1 del Tema 36, un sistema operativo es...",
+    "pregunta": "Un sistema operativo es...",
     "opciones": [
       "el software base que administra los recursos del hardware y permite la ejecución de aplicaciones",
       "una periferia de salida",
@@ -184,7 +184,7 @@
   {
     "id": "t36-p014",
     "tema": 36,
-    "pregunta": "De acuerdo con el Tema 36, el Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de...",
+    "pregunta": "El Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de...",
     "opciones": [
       "seguridad informática en el sector público",
       "contabilidad local",
@@ -198,7 +198,7 @@
   {
     "id": "t36-p015",
     "tema": 36,
-    "pregunta": "Según el epígrafe 1.2 del Tema 36, los dispositivos IoT son...",
+    "pregunta": "Los dispositivos IoT son...",
     "opciones": [
       "objetos cotidianos con capacidad de conexión y procesamiento",
       "solo servidores de alta gama",

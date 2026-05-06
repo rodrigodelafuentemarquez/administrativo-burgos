@@ -2,7 +2,7 @@
   {
     "id": "t32-p001",
     "tema": 32,
-    "pregunta": "Según el epígrafe 1.1 del Tema 32, un documento es...",
+    "pregunta": "Un documento es...",
     "opciones": [
       "cualquier soporte material o digital que contiene información y puede ser leído, reproducido o percibido",
       "solo un escrito en papel firmado",
@@ -16,7 +16,7 @@
   {
     "id": "t32-p002",
     "tema": 32,
-    "pregunta": "Según el epígrafe 1.2 del Tema 32, el documento administrativo 32, es aquel que ha sido producido, recibido o gestionado por...",
+    "pregunta": "El documento administrativo es aquel que ha sido producido, recibido o gestionado por...",
     "opciones": [
       "una Administración Pública en el ejercicio de sus competencias",
       "un particular sin intervención administrativa",
@@ -30,7 +30,7 @@
   {
     "id": "t32-p003",
     "tema": 32,
-    "pregunta": "Según el epígrafe 1.3 del Tema 32, una característica del documento administrativo es la...",
+    "pregunta": "Una característica del documento administrativo es la...",
     "opciones": [
       "autenticidad",
       "aleatoriedad",
@@ -44,7 +44,7 @@
   {
     "id": "t32-p004",
     "tema": 32,
-    "pregunta": "Según el epígrafe 1.5 del Tema 32, la copia auténtica...",
+    "pregunta": "La copia auténtica...",
     "opciones": [
       "tiene la misma validez y eficacia que el documento original",
       "solo sirve como recuerdo",
@@ -58,7 +58,7 @@
   {
     "id": "t32-p005",
     "tema": 32,
-    "pregunta": "Según el epígrafe 2.1.1 del Tema 32, un documento de decisión puede ser una...",
+    "pregunta": "Un documento de decisión puede ser una...",
     "opciones": [
       "resolución",
       "copia simple",
@@ -72,7 +72,7 @@
   {
     "id": "t32-p006",
     "tema": 32,
-    "pregunta": "Según el epígrafe 2.1.2 del Tema 32, un acta es un documento de...",
+    "pregunta": "Un acta es un documento de...",
     "opciones": [
       "constancia",
       "decisión",
@@ -86,7 +86,7 @@
   {
     "id": "t32-p007",
     "tema": 32,
-    "pregunta": "Según el epígrafe 3.2.1 del Tema 32, los archivos de gestión 32, custodian...",
+    "pregunta": "Los archivos de gestión, custodian...",
     "opciones": [
       "expedientes en tramitación o recién terminados, de uso frecuente",
       "solo documentos históricos",
@@ -100,7 +100,7 @@
   {
     "id": "t32-p008",
     "tema": 32,
-    "pregunta": "Según el epígrafe 3.2.3 del Tema 32, el archivo histórico conserva documentos...",
+    "pregunta": "El archivo histórico conserva documentos...",
     "opciones": [
       "de valor histórico, artístico, cultural o científico de forma permanente",
       "solo durante 5 años",
@@ -114,7 +114,7 @@
   {
     "id": "t32-p009",
     "tema": 32,
-    "pregunta": "Según el epígrafe 3.3 del Tema 32, el cuadro de clasificación es...",
+    "pregunta": "El cuadro de clasificación es...",
     "opciones": [
       "la estructura jerárquica que refleja la organización de los documentos por competencias y funciones",
       "un listado de sanciones",
@@ -128,7 +128,7 @@
   {
     "id": "t32-p010",
     "tema": 32,
-    "pregunta": "Según el epígrafe 3.4 del Tema 32, la signatura topográfica 32, indica...",
+    "pregunta": "La signatura topográfica, indica...",
     "opciones": [
       "la ubicación física exacta de un documento dentro del depósito de archivo",
       "la fecha de nacimiento del interesado",
@@ -142,7 +142,7 @@
   {
     "id": "t32-p011",
     "tema": 32,
-    "pregunta": "Según el epígrafe 3.5 del Tema 32, la eliminación de documentos requiere...",
+    "pregunta": "La eliminación de documentos requiere...",
     "opciones": [
       "un expediente de expurgo con autorización del órgano competente",
       "la decisión unilateral del archivero",
@@ -156,7 +156,7 @@
   {
     "id": "t32-p012",
     "tema": 32,
-    "pregunta": "Según el epígrafe 4.1 del Tema 32, el art. 105.b CE garantiza el acceso a...",
+    "pregunta": "El art. 105.b CE garantiza el acceso a...",
     "opciones": [
       "archivos y registros administrativos",
       "los secretos de Estado sin límite",
@@ -170,7 +170,7 @@
   {
     "id": "t32-p013",
     "tema": 32,
-    "pregunta": "Según el epígrafe 4.1 del Tema 32, la LPACAP reconoce a los interesados el derecho a...",
+    "pregunta": "La LPACAP reconoce a los interesados el derecho a...",
     "opciones": [
       "acceder y obtener copia de los documentos del expediente en cualquier fase del procedimiento",
       "resolver el expediente por sí mismos",
@@ -184,7 +184,7 @@
   {
     "id": "t32-p014",
     "tema": 32,
-    "pregunta": "Según el epígrafe 4.2 del Tema 32, la transparencia activa se diferencia de la pasiva porque la primera consiste en...",
+    "pregunta": "La transparencia activa se diferencia de la pasiva porque la primera consiste en...",
     "opciones": [
       "publicidad de oficio y la segunda en acceso a petición",
       "la primera es secreta y la segunda pública",
@@ -198,7 +198,7 @@
   {
     "id": "t32-p015",
     "tema": 32,
-    "pregunta": "Según el epígrafe 6.3 del Tema 32, el Portal de Transparencia sirve para...",
+    "pregunta": "El Portal de Transparencia sirve para...",
     "opciones": [
       "centralizar la publicación y el acceso a la información pública",
       "archivar expedientes históricos",
