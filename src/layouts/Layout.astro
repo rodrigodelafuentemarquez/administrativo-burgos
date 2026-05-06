@@ -105,23 +105,6 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       .bd-navbar .navbar-toggler-icon {
         filter: invert(1) grayscale(1) brightness(2);
       }
-      .bd-search {
-        width: min(34vw, 280px);
-      }
-      .bd-search .form-control {
-        height: 38px;
-        color: #fff;
-        background: rgba(0,0,0,.1);
-        border-color: rgba(255,255,255,.4);
-      }
-      .bd-search .form-control::placeholder {
-        color: rgba(255,255,255,.65);
-      }
-      .bd-search .form-control:focus {
-        background: rgba(0,0,0,.25);
-        border-color: var(--bd-accent);
-        box-shadow: 0 0 0 .25rem rgba(var(--bd-accent-rgb), .4);
-      }
       .bd-layout {
         display: grid;
         grid-template-areas: "main";
@@ -620,15 +603,10 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
           </a>
         </div>
 
-        <div class="d-none d-lg-block bd-search mx-auto">
-          <input class="form-control form-control-sm" type="search" placeholder="Buscar" aria-label="Buscar" disabled />
-        </div>
-
         <div class="d-flex align-items-center gap-2 ms-lg-auto">
           <ul class="navbar-nav flex-row flex-wrap d-none d-lg-flex">
             <li class="nav-item"><a class="nav-link py-2 px-2 active" href={base}>Docs</a></li>
             <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}test`}>Tests</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}progreso`}>Progreso</a></li>
           </ul>
           <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas" aria-label="Abrir temas">
             Temas
@@ -648,7 +626,6 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
           <a class="bd-links-link rounded active" href={base}>Inicio</a>
           <a class="bd-links-link rounded" href={`${base}test`}>Hacer test</a>
           <a class="bd-links-link rounded" href={`${base}fallos`}>Repetir fallos</a>
-          <a class="bd-links-link rounded" href={`${base}progreso`}>Progreso</a>
         </nav>
       </div>
     </div>
@@ -679,7 +656,6 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
                 <li><a class="bd-links-link d-inline-block rounded active" href={base}>Inicio</a></li>
                 <li><a class="bd-links-link d-inline-block rounded" href={`${base}test`}>Hacer test</a></li>
                 <li><a class="bd-links-link d-inline-block rounded" href={`${base}fallos`}>Repetir fallos</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}progreso`}>Progreso</a></li>
               </ul>
             </li>
             <li class="bd-links-group py-2">
