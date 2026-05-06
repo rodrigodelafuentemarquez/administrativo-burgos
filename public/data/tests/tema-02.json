@@ -16,7 +16,7 @@
   {
     "id": "t02-p002",
     "tema": 2,
-    "pregunta": "¿Cómo se compone el Tribunal Constitucional?",
+    "pregunta": "Según el art. 159 CE, ¿cómo se compone el Tribunal Constitucional?",
     "opciones": [
       "10 magistrados: 4 del Congreso, 4 del Senado y 2 del Gobierno",
       "12 magistrados: 4 Congreso, 4 Senado, 2 Gobierno y 2 CGPJ",
@@ -30,7 +30,7 @@
   {
     "id": "t02-p003",
     "tema": 2,
-    "pregunta": "¿Qué mayoría exige el para la propuesta de magistrados del Tribunal Constitucional por el Congreso y el Senado?",
+    "pregunta": "Según el art. 159 CE, ¿qué mayoría exige el para la propuesta de magistrados del Tribunal Constitucional por el Congreso y el Senado?",
     "opciones": [
       "Mayoría absoluta",
       "Mayoría simple",
@@ -44,7 +44,7 @@
   {
     "id": "t02-p004",
     "tema": 2,
-    "pregunta": "¿Qué requisito profesional se exige para ser magistrado del Tribunal Constitucional?",
+    "pregunta": "Según el art. 159 CE, ¿qué requisito profesional se exige para ser magistrado del Tribunal Constitucional?",
     "opciones": [
       "10 años de ejercicio profesional",
       "15 años de ejercicio profesional",
@@ -58,7 +58,7 @@
   {
     "id": "t02-p005",
     "tema": 2,
-    "pregunta": "¿Cuál es la duración del mandato de los magistrados del Tribunal Constitucional,?",
+    "pregunta": "Según el art. 159 CE, ¿cuál es la duración del mandato de los magistrados del Tribunal Constitucional?",
     "opciones": [
       "5 años, con renovación total",
       "6 años, con renovación por mitades",
@@ -72,7 +72,7 @@
   {
     "id": "t02-p006",
     "tema": 2,
-    "pregunta": "¿Quién elige al Presidente del Tribunal Constitucional?",
+    "pregunta": "Según el art. 159 CE, ¿quién elige al Presidente del Tribunal Constitucional?",
     "opciones": [
       "El Rey directamente",
       "Las Cortes Generales",

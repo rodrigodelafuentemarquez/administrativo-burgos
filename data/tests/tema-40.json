@@ -2,7 +2,7 @@
   {
     "id": "t40-p001",
     "tema": 40,
-    "pregunta": "Internet tiene su origen en...",
+    "pregunta": "Internet tiene su origen en:",
     "opciones": [
       "ARPANET",
       "DNS",
@@ -16,7 +16,7 @@
   {
     "id": "t40-p002",
     "tema": 40,
-    "pregunta": "La primera conexión de ARPANET se estableció el...",
+    "pregunta": "La primera conexión de ARPANET se estableció el:",
     "opciones": [
       "29 de octubre de 1969",
       "1 de enero de 1991",
@@ -30,7 +30,7 @@
   {
     "id": "t40-p003",
     "tema": 40,
-    "pregunta": "TCP/IP se adoptó como estándar de ARPANET en...",
+    "pregunta": "TCP/IP se adoptó como estándar de ARPANET en:",
     "opciones": [
       "1983",
       "1969",
@@ -44,7 +44,7 @@
   {
     "id": "t40-p004",
     "tema": 40,
-    "pregunta": "La World Wide Web fue ideada por...",
+    "pregunta": "La World Wide Web fue ideada por:",
     "opciones": [
       "Tim Berners-Lee",
       "Vinton Cerf",
@@ -58,7 +58,7 @@
   {
     "id": "t40-p005",
     "tema": 40,
-    "pregunta": "El protocolo que define cómo se comunican navegador y servidor es...",
+    "pregunta": "El protocolo que define cómo se comunican navegador y servidor es:",
     "opciones": [
       "HTTP",
       "FTP",
@@ -72,7 +72,7 @@
   {
     "id": "t40-p006",
     "tema": 40,
-    "pregunta": "DNS traduce...",
+    "pregunta": "DNS traduce:",
     "opciones": [
       "nombres de dominio en direcciones IP",
       "ficheros en carpetas",
@@ -86,7 +86,7 @@
   {
     "id": "t40-p007",
     "tema": 40,
-    "pregunta": "IPv4 es una dirección de...",
+    "pregunta": "IPv4 es una dirección de:",
     "opciones": [
       "32 bits",
       "128 bits",
@@ -100,7 +100,7 @@
   {
     "id": "t40-p008",
     "tema": 40,
-    "pregunta": "HTTPS añade a HTTP...",
+    "pregunta": "HTTPS añade a HTTP:",
     "opciones": [
       "cifrado SSL/TLS",
       "una hoja de cálculo",
@@ -114,7 +114,7 @@
   {
     "id": "t40-p009",
     "tema": 40,
-    "pregunta": "IMAP permite...",
+    "pregunta": "IMAP permite:",
     "opciones": [
       "acceder a los correos manteniéndolos en el servidor y sincronizando varios dispositivos",
       "descargar y borrar por defecto los mensajes del servidor",
@@ -128,7 +128,7 @@
   {
     "id": "t40-p010",
     "tema": 40,
-    "pregunta": "Una VPN es...",
+    "pregunta": "Una VPN es:",
     "opciones": [
       "una conexión cifrada que crea un túnel seguro a través de internet",
       "un tipo de navegador",
@@ -142,7 +142,7 @@
   {
     "id": "t40-p011",
     "tema": 40,
-    "pregunta": "Una URL es...",
+    "pregunta": "Una URL es:",
     "opciones": [
       "la dirección completa que identifica un recurso en internet",
       "un archivo comprimido",
@@ -156,7 +156,7 @@
   {
     "id": "t40-p012",
     "tema": 40,
-    "pregunta": "SaaS significa...",
+    "pregunta": "SaaS significa:",
     "opciones": [
       "software accesible desde el navegador sin instalación local",
       "infraestructura física virtualizada",
@@ -170,7 +170,7 @@
   {
     "id": "t40-p013",
     "tema": 40,
-    "pregunta": "Un navegador web es el programa que permite...",
+    "pregunta": "Un navegador web es el programa que permite:",
     "opciones": [
       "acceder, visualizar e interactuar con los recursos de la World Wide Web",
       "crear bases de datos",
@@ -184,7 +184,7 @@
   {
     "id": "t40-p014",
     "tema": 40,
-    "pregunta": "En los navegadores actuales la barra de favoritos sirve para...",
+    "pregunta": "En los navegadores actuales la barra de favoritos sirve para:",
     "opciones": [
       "guardar URLs para acceder rápidamente en el futuro",
       "eliminar cookies automáticamente",
@@ -198,7 +198,7 @@
   {
     "id": "t40-p015",
     "tema": 40,
-    "pregunta": "La navegación privada...",
+    "pregunta": "La navegación privada:",
     "opciones": [
       "no guarda historial ni cookies al cerrar la ventana, aunque no hace anónimo al usuario",
       "borra todos los archivos del equipo",

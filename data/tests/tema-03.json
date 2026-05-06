@@ -2,7 +2,7 @@
   {
     "id": "t03-p001",
     "tema": 3,
-    "pregunta": "En una Monarquía parlamentaria el Rey...",
+    "pregunta": "En una Monarquía parlamentaria el Rey:",
     "opciones": [
       "gobierna directamente y responde ante las Cortes",
       "reina pero no gobierna",
@@ -30,7 +30,7 @@
   {
     "id": "t03-p003",
     "tema": 3,
-    "pregunta": "¿Cómo es la responsabilidad del Rey?",
+    "pregunta": "Según el art. 56 CE, ¿cómo es la responsabilidad del Rey?",
     "opciones": [
       "Es plena ante las Cortes",
       "Es compartida con el Gobierno",
@@ -58,7 +58,7 @@
   {
     "id": "t03-p005",
     "tema": 3,
-    "pregunta": "En el mismo grado de sucesión...",
+    "pregunta": "En el mismo grado de sucesión:",
     "opciones": [
       "la mujer prefiere al varón",
       "el varón prefiere a la mujer",
@@ -114,7 +114,7 @@
   {
     "id": "t03-p009",
     "tema": 3,
-    "pregunta": "Cuando el Rey sea menor de edad, ¿quién ejerce la Regencia?",
+    "pregunta": "¿Cuándo el Rey sea menor de edad, ¿quién ejerce la Regencia?",
     "opciones": [
       "El Presidente del Gobierno",
       "El padre o la madre y, en defecto, el pariente mayor de edad más próximo a suceder",
@@ -142,7 +142,7 @@
   {
     "id": "t03-p011",
     "tema": 3,
-    "pregunta": "La persona del Rey...",
+    "pregunta": "Según el art. 56 CE, la persona del Rey:",
     "opciones": [
       "está sujeta a responsabilidad penal ordinaria",
       "es inviolable y no está sujeta a responsabilidad",
@@ -156,7 +156,7 @@
   {
     "id": "t03-p012",
     "tema": 3,
-    "pregunta": "Para ser Regente es preciso ser...",
+    "pregunta": "Para ser Regente es preciso ser:",
     "opciones": [
       "español y mayor de edad",
       "español mayor de 25 años",
@@ -170,7 +170,7 @@
   {
     "id": "t03-p013",
     "tema": 3,
-    "pregunta": "La Reina consorte o el consorte de la Reina...",
+    "pregunta": "La Reina consorte o el consorte de la Reina:",
     "opciones": [
       "pueden ejercer funciones constitucionales por sí mismos",
       "no pueden asumir funciones constitucionales salvo lo dispuesto para la Regencia",
@@ -184,7 +184,7 @@
   {
     "id": "t03-p014",
     "tema": 3,
-    "pregunta": "¿Qué juramento prestan el Príncipe heredero y el Regente al alcanzar mayoría de edad o hacerse cargo de sus funciones?",
+    "pregunta": "Según el art. 61 CE, ¿qué juramento prestan el Príncipe heredero y el Regente al alcanzar mayoría de edad o hacerse cargo de sus funciones?",
     "opciones": [
       "Solo guardar la Constitución",
       "Guardar la Constitución y fidelidad al Rey",
@@ -198,7 +198,7 @@
   {
     "id": "t03-p015",
     "tema": 3,
-    "pregunta": "Para declarar la guerra y hacer la paz se requiere...",
+    "pregunta": "Según el art. 63 CE, para declarar la guerra y hacer la paz se requiere:",
     "opciones": [
       "la autorización previa de las Cortes Generales",
       "la aprobación del Consejo de Estado",

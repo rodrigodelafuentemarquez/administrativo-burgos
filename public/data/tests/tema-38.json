@@ -2,7 +2,7 @@
   {
     "id": "t38-p001",
     "tema": 38,
-    "pregunta": "Word 365 es...",
+    "pregunta": "Word 365 es:",
     "opciones": [
       "un procesador de texto",
       "una base de datos relacional",
@@ -16,7 +16,7 @@
   {
     "id": "t38-p002",
     "tema": 38,
-    "pregunta": "En la interfaz de Word aparece la...",
+    "pregunta": "En la interfaz de Word aparece la:",
     "opciones": [
       "cinta de opciones (Ribbon)",
       "barra de direcciones",
@@ -30,7 +30,7 @@
   {
     "id": "t38-p003",
     "tema": 38,
-    "pregunta": "Un estilo de Word es...",
+    "pregunta": "Un estilo de Word es:",
     "opciones": [
       "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
       "una tabla dinámica",
@@ -44,7 +44,7 @@
   {
     "id": "t38-p004",
     "tema": 38,
-    "pregunta": "La tabla de contenido se genera automáticamente a partir de...",
+    "pregunta": "La tabla de contenido se genera automáticamente a partir de:",
     "opciones": [
       "los estilos de Título aplicados al documento",
       "las notas al pie",
@@ -58,7 +58,7 @@
   {
     "id": "t38-p005",
     "tema": 38,
-    "pregunta": "El seguimiento de cambios sirve para...",
+    "pregunta": "El seguimiento de cambios sirve para:",
     "opciones": [
       "registrar todas las modificaciones del documento",
       "eliminar automáticamente errores",
@@ -72,7 +72,7 @@
   {
     "id": "t38-p006",
     "tema": 38,
-    "pregunta": "Combinar correspondencia permite generar...",
+    "pregunta": "Combinar correspondencia permite generar:",
     "opciones": [
       "documentos personalizados en serie a partir de un documento base y una fuente de datos",
       "solo gráficos estadísticos",
@@ -86,7 +86,7 @@
   {
     "id": "t38-p007",
     "tema": 38,
-    "pregunta": "Un formato de guardado de Word es...",
+    "pregunta": "Un formato de guardado de Word es:",
     "opciones": [
       ".docx",
       ".mdb",
@@ -100,7 +100,7 @@
   {
     "id": "t38-p008",
     "tema": 38,
-    "pregunta": "La impresión de documentos se gestiona desde...",
+    "pregunta": "La impresión de documentos se gestiona desde:",
     "opciones": [
       "Archivo → Imprimir",
       "Insertar → Tabla",
@@ -114,7 +114,7 @@
   {
     "id": "t38-p009",
     "tema": 38,
-    "pregunta": "Las opciones de Word se encuentran en...",
+    "pregunta": "Las opciones de Word se encuentran en:",
     "opciones": [
       "Archivo → Opciones",
       "Inicio → Nuevo",
@@ -128,7 +128,7 @@
   {
     "id": "t38-p010",
     "tema": 38,
-    "pregunta": "Excel 365 es...",
+    "pregunta": "Excel 365 es:",
     "opciones": [
       "una hoja de cálculo",
       "un procesador de texto",
@@ -142,7 +142,7 @@
   {
     "id": "t38-p011",
     "tema": 38,
-    "pregunta": "El libro de Excel está compuesto por...",
+    "pregunta": "El libro de Excel está compuesto por:",
     "opciones": [
       "hojas de cálculo",
       "párrafos",
@@ -156,7 +156,7 @@
   {
     "id": "t38-p012",
     "tema": 38,
-    "pregunta": "Una referencia relativa en Excel...",
+    "pregunta": "Una referencia relativa en Excel:",
     "opciones": [
       "se ajusta al copiar una fórmula",
       "permanece fija siempre",
@@ -170,7 +170,7 @@
   {
     "id": "t38-p013",
     "tema": 38,
-    "pregunta": "Una función principal de Excel es...",
+    "pregunta": "Una función principal de Excel es:",
     "opciones": [
       "SUMA",
       "CERTIFICADO",
@@ -184,7 +184,7 @@
   {
     "id": "t38-p014",
     "tema": 38,
-    "pregunta": "Los gráficos en Excel sirven para...",
+    "pregunta": "Los gráficos en Excel sirven para:",
     "opciones": [
       "representar visualmente datos",
       "firmar documentos",
@@ -198,7 +198,7 @@
   {
     "id": "t38-p015",
     "tema": 38,
-    "pregunta": "Las tablas dinámicas se estudian dentro de...",
+    "pregunta": "Las tablas dinámicas se estudian dentro de:",
     "opciones": [
       "gestión de datos en Excel",
       "gestión de correo",

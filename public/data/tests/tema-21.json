@@ -2,7 +2,7 @@
   {
     "id": "t21-p001",
     "tema": 21,
-    "pregunta": "La LTBG se aplica a...",
+    "pregunta": "Según el art. 2 LTBG, la LTBG se aplica a:",
     "opciones": [
       "las Entidades Locales",
       "solo la Administración General del Estado",
@@ -30,7 +30,7 @@
   {
     "id": "t21-p003",
     "tema": 21,
-    "pregunta": "La publicidad activa consiste en...",
+    "pregunta": "La publicidad activa consiste en:",
     "opciones": [
       "publicar de oficio información relevante sin necesidad de solicitud previa",
       "entregar solo la información reservada al interesado",
@@ -44,7 +44,7 @@
   {
     "id": "t21-p004",
     "tema": 21,
-    "pregunta": "La información institucional, organizativa y de planificación incluye...",
+    "pregunta": "Según el art. 6 LTBG, la información institucional, organizativa y de planificación incluye:",
     "opciones": [
       "las funciones, la normativa aplicable y la estructura organizativa",
       "solo las sanciones disciplinarias firmes",
@@ -58,7 +58,7 @@
   {
     "id": "t21-p005",
     "tema": 21,
-    "pregunta": "La información de relevancia jurídica comprende...",
+    "pregunta": "Según el art. 7 LTBG, la información de relevancia jurídica comprende:",
     "opciones": [
       "directrices, instrucciones, acuerdos, circulares o respuestas a consultas con efectos jurídicos externos",
       "solo los presupuestos y las cuentas anuales",
@@ -72,7 +72,7 @@
   {
     "id": "t21-p006",
     "tema": 21,
-    "pregunta": "Forma parte de la información económica, presupuestaria y estadística...",
+    "pregunta": "Según el art. 8 LTBG, forma parte de la información económica, presupuestaria y estadística:",
     "opciones": [
       "los contratos, los convenios y las subvenciones",
       "solo las normas urbanísticas",
@@ -100,7 +100,7 @@
   {
     "id": "t21-p008",
     "tema": 21,
-    "pregunta": "El derecho de acceso a la información pública corresponde...",
+    "pregunta": "Según el art. 12 LTBG, el derecho de acceso a la información pública corresponde:",
     "opciones": [
       "a cualquier persona, sin necesidad de ser ciudadana española ni residente",
       "solo a los concejales y diputados",
@@ -114,7 +114,7 @@
   {
     "id": "t21-p009",
     "tema": 21,
-    "pregunta": "Para ejercer el derecho de acceso...",
+    "pregunta": "Según los arts. 17-18 LTBG, para ejercer el derecho de acceso:",
     "opciones": [
       "no es necesario motivar la solicitud",
       "siempre hay que justificar un interés legítimo",
@@ -128,7 +128,7 @@
   {
     "id": "t21-p010",
     "tema": 21,
-    "pregunta": "¿Qué plazo de resolución fija el para las solicitudes de acceso?",
+    "pregunta": "Según el art. 20 LTBG, ¿qué plazo de resolución fija el para las solicitudes de acceso?",
     "opciones": [
       "1 mes, ampliable a otro mes cuando el volumen o la complejidad lo justifiquen",
       "10 días, improrrogables",
@@ -142,7 +142,7 @@
   {
     "id": "t21-p011",
     "tema": 21,
-    "pregunta": "Si transcurre el plazo sin resolver una solicitud de acceso 21 se entiende...",
+    "pregunta": "Según el art. 20 LTBG, si transcurre el plazo sin resolver una solicitud de acceso 21 se entiende:",
     "opciones": [
       "desestimada por silencio negativo",
       "estimada por silencio positivo",
@@ -156,7 +156,7 @@
   {
     "id": "t21-p012",
     "tema": 21,
-    "pregunta": "Cuando la información solicitada contiene datos personales especialmente protegidos, el indica que el acceso solo se permite...",
+    "pregunta": "Según el art. 15 LTBG, cuando la información solicitada contiene datos personales especialmente protegidos, el indica que el acceso solo se permite:",
     "opciones": [
       "con consentimiento expreso del afectado o habilitación legal",
       "siempre que lo pida cualquier ciudadano",
@@ -170,7 +170,7 @@
   {
     "id": "t21-p013",
     "tema": 21,
-    "pregunta": "Entre los derechos de los interesados en protección de datos se encuentra...",
+    "pregunta": "Según los arts. 15-22 RGPD, entre los derechos de los interesados en protección de datos se encuentra:",
     "opciones": [
       "la portabilidad",
       "la expropiación",
@@ -184,7 +184,7 @@
   {
     "id": "t21-p014",
     "tema": 21,
-    "pregunta": "La Agencia Española de Protección de Datos es...",
+    "pregunta": "La Agencia Española de Protección de Datos es:",
     "opciones": [
       "la autoridad de control independiente encargada de velar por el cumplimiento de la normativa",
       "un órgano dependiente del Consejo de Transparencia",
@@ -198,7 +198,7 @@
   {
     "id": "t21-p015",
     "tema": 21,
-    "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno es...",
+    "pregunta": "Según los arts. 33-40 LTBG, la reclamación ante el Consejo de Transparencia y Buen Gobierno es:",
     "opciones": [
       "potestativa y previa o alternativa al recurso contencioso-administrativo",
       "obligatoria antes de cualquier solicitud",

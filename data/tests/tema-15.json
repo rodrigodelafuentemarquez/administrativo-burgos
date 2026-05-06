@@ -2,7 +2,7 @@
   {
     "id": "t15-p001",
     "tema": 15,
-    "pregunta": "La LPACAP regula...",
+    "pregunta": "La LPACAP regula:",
     "opciones": [
       "solo los recursos administrativos",
       "los derechos y garantías de los ciudadanos y el procedimiento administrativo común",
@@ -30,7 +30,7 @@
   {
     "id": "t15-p003",
     "tema": 15,
-    "pregunta": "Las solicitudes deben contener entre otros datos...",
+    "pregunta": "Las solicitudes deben contener entre otros datos:",
     "opciones": [
       "el DNI, la petición y el órgano al que se dirigen",
       "el nombre del notario y la cuantía del procedimiento",
@@ -58,7 +58,7 @@
   {
     "id": "t15-p005",
     "tema": 15,
-    "pregunta": "El trámite de audiencia se concede por un plazo de...",
+    "pregunta": "El trámite de audiencia se concede por un plazo de:",
     "opciones": [
       "3 a 5 días hábiles",
       "10 a 15 días hábiles",
@@ -86,7 +86,7 @@
   {
     "id": "t15-p007",
     "tema": 15,
-    "pregunta": "El transcurso del plazo máximo de resolución puede suspenderse por...",
+    "pregunta": "El transcurso del plazo máximo de resolución puede suspenderse por:",
     "opciones": [
       "solicitud de subsanación y solicitud de informes determinantes",
       "la mera voluntad del funcionario",
@@ -114,7 +114,7 @@
   {
     "id": "t15-p009",
     "tema": 15,
-    "pregunta": "En los recursos administrativos el silencio es con carácter general...",
+    "pregunta": "En los recursos administrativos el silencio es con carácter general:",
     "opciones": [
       "positivo",
       "negativo",
@@ -156,7 +156,7 @@
   {
     "id": "t15-p012",
     "tema": 15,
-    "pregunta": "La representación puede acreditarse mediante...",
+    "pregunta": "La representación puede acreditarse mediante:",
     "opciones": [
       "apoderamiento apud acta o Registro Electrónico de Apoderamientos",
       "simple llamada telefónica",
@@ -184,7 +184,7 @@
   {
     "id": "t15-p014",
     "tema": 15,
-    "pregunta": "Un silencio positivo produce...",
+    "pregunta": "Un silencio positivo produce:",
     "opciones": [
       "una mera ficción sin efectos jurídicos",
       "la estimación automática de la solicitud",
@@ -198,7 +198,7 @@
   {
     "id": "t15-p015",
     "tema": 15,
-    "pregunta": "La tramitación de urgencia reduce los plazos a la mitad salvo los relativos a...",
+    "pregunta": "La tramitación de urgencia reduce los plazos a la mitad salvo los relativos a:",
     "opciones": [
       "la presentación de solicitudes y recursos",
       "la adopción de medidas provisionales",

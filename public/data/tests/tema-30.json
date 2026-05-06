@@ -2,7 +2,7 @@
   {
     "id": "t30-p001",
     "tema": 30,
-    "pregunta": "El personal al servicio de las Entidades Locales queda encuadrado actualmente en...",
+    "pregunta": "El personal al servicio de las Entidades Locales queda encuadrado actualmente en:",
     "opciones": [
       "el Régimen General de la Seguridad Social",
       "el Régimen Especial de Trabajadores Autónomos",
@@ -16,7 +16,7 @@
   {
     "id": "t30-p002",
     "tema": 30,
-    "pregunta": "Las Corporaciones Locales actúan a efectos de Seguridad Social como...",
+    "pregunta": "Las Corporaciones Locales actúan a efectos de Seguridad Social como:",
     "opciones": [
       "empresarios cotizantes",
       "mutuas privadas",
@@ -30,7 +30,7 @@
   {
     "id": "t30-p003",
     "tema": 30,
-    "pregunta": "La acción protectora del Régimen General incluye...",
+    "pregunta": "La acción protectora del Régimen General incluye:",
     "opciones": [
       "asistencia sanitaria e incapacidad temporal",
       "solo pensiones de jubilación",
@@ -44,7 +44,7 @@
   {
     "id": "t30-p004",
     "tema": 30,
-    "pregunta": "La asistencia sanitaria comprende...",
+    "pregunta": "La asistencia sanitaria comprende:",
     "opciones": [
       "atención primaria, atención especializada y prestaciones farmacéuticas",
       "solo cirugía hospitalaria",
@@ -58,7 +58,7 @@
   {
     "id": "t30-p005",
     "tema": 30,
-    "pregunta": "La incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa...",
+    "pregunta": "La incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
     "opciones": [
       "asistencia sanitaria de la Seguridad Social",
       "autorización presupuestaria",
@@ -72,7 +72,7 @@
   {
     "id": "t30-p006",
     "tema": 30,
-    "pregunta": "En enfermedad común o accidente no laboral el subsidio de IT es del 60 % entre los días...",
+    "pregunta": "En enfermedad común o accidente no laboral el subsidio de IT es del 60 % entre los días:",
     "opciones": [
       "4 y 20",
       "1 y 3",
@@ -86,7 +86,7 @@
   {
     "id": "t30-p007",
     "tema": 30,
-    "pregunta": "La duración máxima de la incapacidad temporal es de...",
+    "pregunta": "La duración máxima de la incapacidad temporal es de:",
     "opciones": [
       "365 días, prorrogables por otros 180",
       "90 días, prorrogables por otros 30",
@@ -100,7 +100,7 @@
   {
     "id": "t30-p008",
     "tema": 30,
-    "pregunta": "La prestación por nacimiento y cuidado de menor dura, con carácter general,",
+    "pregunta": "La prestación por nacimiento y cuidado de menor dura, con carácter general,:",
     "opciones": [
       "16 semanas por cada progenitor",
       "8 semanas por unidad familiar",
@@ -114,7 +114,7 @@
   {
     "id": "t30-p009",
     "tema": 30,
-    "pregunta": "Las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son...",
+    "pregunta": "Las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son:",
     "opciones": [
       "obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento",
       "voluntarias y acumulables al final",
@@ -128,7 +128,7 @@
   {
     "id": "t30-p010",
     "tema": 30,
-    "pregunta": "La prestación económica por nacimiento y cuidado de menor, equivale al...",
+    "pregunta": "La prestación económica por nacimiento y cuidado de menor, equivale al:",
     "opciones": [
       "100 % de la base reguladora",
       "75 % de la base mínima",
@@ -142,7 +142,7 @@
   {
     "id": "t30-p011",
     "tema": 30,
-    "pregunta": "La incapacidad permanente total inhabilita al trabajador para...",
+    "pregunta": "La incapacidad permanente total inhabilita al trabajador para:",
     "opciones": [
       "todas o las fundamentales tareas de su profesión habitual",
       "cualquier trabajo retribuido en cualquier caso",
@@ -156,7 +156,7 @@
   {
     "id": "t30-p012",
     "tema": 30,
-    "pregunta": "El Presupuesto de las Entidades Locales es...",
+    "pregunta": "El Presupuesto de las Entidades Locales es:",
     "opciones": [
       "la expresión cifrada, conjunta y sistemática de obligaciones máximas y derechos previstos para el ejercicio",
       "un simple listado de facturas pagadas",
@@ -170,7 +170,7 @@
   {
     "id": "t30-p013",
     "tema": 30,
-    "pregunta": "El Presupuesto General integra entre otros...",
+    "pregunta": "El Presupuesto General integra entre otros:",
     "opciones": [
       "el presupuesto de la propia Entidad Local y el de sus organismos autónomos",
       "solo el del Ayuntamiento",
@@ -184,7 +184,7 @@
   {
     "id": "t30-p014",
     "tema": 30,
-    "pregunta": "El ciclo del gasto local sigue las fases...",
+    "pregunta": "El ciclo del gasto local sigue las fases:",
     "opciones": [
       "A, D, O y P",
       "R, S, T y U",
@@ -198,7 +198,7 @@
   {
     "id": "t30-p015",
     "tema": 30,
-    "pregunta": "Si el presupuesto no se aprueba antes del 1 de enero...",
+    "pregunta": "Si el presupuesto no se aprueba antes del 1 de enero:",
     "opciones": [
       "queda automáticamente prorrogado el del ejercicio anterior",
       "se disuelve la Corporación",

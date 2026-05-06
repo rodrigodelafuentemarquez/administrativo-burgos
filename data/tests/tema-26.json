@@ -2,7 +2,7 @@
   {
     "id": "t26-p001",
     "tema": 26,
-    "pregunta": "Los órganos colegiados locales se rigen con carácter supletorio por el...",
+    "pregunta": "Los órganos colegiados locales se rigen con carácter supletorio por el:",
     "opciones": [
       "ROF",
       "Código Civil",
@@ -16,7 +16,7 @@
   {
     "id": "t26-p002",
     "tema": 26,
-    "pregunta": "La convocatoria del órgano colegiado corresponde al...",
+    "pregunta": "La convocatoria del órgano colegiado corresponde al:",
     "opciones": [
       "Presidente",
       "Secretario",
@@ -30,7 +30,7 @@
   {
     "id": "t26-p003",
     "tema": 26,
-    "pregunta": "La convocatoria del Pleno puede ser solicitada por al menos...",
+    "pregunta": "La convocatoria del Pleno puede ser solicitada por al menos:",
     "opciones": [
       "la cuarta parte de los miembros",
       "la mitad de los asistentes",
@@ -44,7 +44,7 @@
   {
     "id": "t26-p004",
     "tema": 26,
-    "pregunta": "La antelación mínima de la convocatoria ordinaria o extraordinaria es de...",
+    "pregunta": "La antelación mínima de la convocatoria ordinaria o extraordinaria es de:",
     "opciones": [
       "2 días hábiles",
       "24 horas",
@@ -58,7 +58,7 @@
   {
     "id": "t26-p005",
     "tema": 26,
-    "pregunta": "La convocatoria urgente...",
+    "pregunta": "La convocatoria urgente:",
     "opciones": [
       "no exige plazo mínimo",
       "debe notificarse con 15 días hábiles",
@@ -72,7 +72,7 @@
   {
     "id": "t26-p006",
     "tema": 26,
-    "pregunta": "El orden del día...",
+    "pregunta": "El orden del día:",
     "opciones": [
       "limita los asuntos que pueden debatirse y votarse",
       "solo sirve como archivo histórico",
@@ -86,7 +86,7 @@
   {
     "id": "t26-p007",
     "tema": 26,
-    "pregunta": "El quórum inicial de constitución exige...",
+    "pregunta": "El quórum inicial de constitución exige:",
     "opciones": [
       "un tercio del número legal de miembros, con un mínimo de tres",
       "la mayoría absoluta de los miembros",
@@ -100,7 +100,7 @@
   {
     "id": "t26-p008",
     "tema": 26,
-    "pregunta": "Para constituirse válidamente, deben estar presentes...",
+    "pregunta": "Para constituirse válidamente, deben estar presentes:",
     "opciones": [
       "el Presidente y el Secretario",
       "el alcalde y el interventor",
@@ -114,7 +114,7 @@
   {
     "id": "t26-p009",
     "tema": 26,
-    "pregunta": "El voto delegado...",
+    "pregunta": "El voto delegado:",
     "opciones": [
       "no está permitido",
       "es obligatorio en todas las sesiones",
@@ -128,7 +128,7 @@
   {
     "id": "t26-p010",
     "tema": 26,
-    "pregunta": "Cuando hay empate en una votación, el Presidente dispone de...",
+    "pregunta": "¿Cuándo hay empate en una votación, el Presidente dispone de?",
     "opciones": [
       "voto de calidad",
       "veto suspensivo",
@@ -142,7 +142,7 @@
   {
     "id": "t26-p011",
     "tema": 26,
-    "pregunta": "Las mayorías exigidas para adoptar acuerdos dependen...",
+    "pregunta": "Las mayorías exigidas para adoptar acuerdos dependen:",
     "opciones": [
       "del tipo de asunto y de lo que establezca la ley",
       "solo de la edad del Presidente",
@@ -156,7 +156,7 @@
   {
     "id": "t26-p012",
     "tema": 26,
-    "pregunta": "El acta, debe recoger entre otros...",
+    "pregunta": "Según el art. 109 ROF, el acta, debe recoger entre otros:",
     "opciones": [
       "asistentes, orden del día, desarrollo de debates, votaciones y acuerdos",
       "solo el nombre del Presidente",
@@ -170,7 +170,7 @@
   {
     "id": "t26-p013",
     "tema": 26,
-    "pregunta": "Los certificados de acuerdos pueden ser expedidos por...",
+    "pregunta": "Los certificados de acuerdos pueden ser expedidos por:",
     "opciones": [
       "el Secretario",
       "cualquier diputado",
@@ -184,7 +184,7 @@
   {
     "id": "t26-p014",
     "tema": 26,
-    "pregunta": "Los certificados tienen...",
+    "pregunta": "Los certificados tienen:",
     "opciones": [
       "valor de fe pública respecto de los acuerdos certificados",
       "solo valor informativo sin eficacia alguna",
@@ -198,7 +198,7 @@
   {
     "id": "t26-p015",
     "tema": 26,
-    "pregunta": "Las Comisiones Informativas, tienen como función principal el...",
+    "pregunta": "Las Comisiones Informativas, tienen como función principal el:",
     "opciones": [
       "estudio, informe y consulta",
       "dictado de sentencias",
