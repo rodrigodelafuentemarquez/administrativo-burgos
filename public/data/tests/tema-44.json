@@ -208,5 +208,75 @@
     "correcta": 1,
     "explicacion": "El Consejo de Cuentas es el OCEX autonómico citado en el tema.",
     "referencia": "Tema 44, 7.5 Los órganos de control externo autonómicos (OCEX)"
+  },
+  {
+    "id": "t44-p016",
+    "tema": 44,
+    "pregunta": "La autorización del gasto (documento A):",
+    "opciones": [
+      "no genera obligación frente a terceros",
+      "supone el pago material al acreedor",
+      "equivale al reconocimiento de la obligación",
+      "solo puede dictarla la Tesorería"
+    ],
+    "correcta": 0,
+    "explicacion": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros.",
+    "referencia": "Tema 44, 5.2 Fase 1 — Autorización del gasto (documento A)"
+  },
+  {
+    "id": "t44-p017",
+    "tema": 44,
+    "pregunta": "El documento ADO acumula las fases de:",
+    "opciones": [
+      "autorización, disposición y reconocimiento de la obligación",
+      "autorización, ordenación del pago y pago material",
+      "disposición, ordenación del pago y pago material",
+      "disposición, obligación y fiscalización posterior"
+    ],
+    "correcta": 0,
+    "explicacion": "El documento ADO acumula las tres primeras fases del gasto.",
+    "referencia": "Tema 44, 5.3 Resumen de las fases y documentos contables"
+  },
+  {
+    "id": "t44-p018",
+    "tema": 44,
+    "pregunta": "Los anticipos de caja fija se utilizan para:",
+    "opciones": [
+      "gastos corrientes de pequeña cuantía y carácter periódico",
+      "cualquier contrato sujeto a licitación pública",
+      "adquirir inmuebles mediante contratación de emergencia",
+      "financiar transferencias de capital a largo plazo"
+    ],
+    "correcta": 0,
+    "explicacion": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos.",
+    "referencia": "Tema 44, 5.5 Los anticipos de caja fija y los pagos a justificar"
+  },
+  {
+    "id": "t44-p019",
+    "tema": 44,
+    "pregunta": "En las Entidades Locales, si la Intervención formula reparos y el órgano gestor quiere mantener el gasto, puede elevarse el asunto al:",
+    "opciones": [
+      "Pleno",
+      "Consejo Europeo",
+      "Banco de España",
+      "Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala que en las Entidades Locales los reparos pueden resolverse elevándolos al Pleno.",
+    "referencia": "Tema 44, 7.2 La función interventora"
+  },
+  {
+    "id": "t44-p020",
+    "tema": 44,
+    "pregunta": "En Castilla y León, el órgano de control externo equivalente al Tribunal de Cuentas es el:",
+    "opciones": [
+      "Consejo de Cuentas de Castilla y León",
+      "Consejo Consultivo de Castilla y León",
+      "Consejo Económico y Social",
+      "Procurador del Común"
+    ],
+    "correcta": 0,
+    "explicacion": "El OCEX de Castilla y León es el Consejo de Cuentas.",
+    "referencia": "Tema 44, 7.5 Los órganos de control externo autonómicos (OCEX)"
   }
 ]

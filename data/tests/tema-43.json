@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema recoge la minimización entre los principios.",
     "referencia": "Tema 43, 6.3 Minimización de datos"
+  },
+  {
+    "id": "t43-p016",
+    "tema": 43,
+    "pregunta": "El plazo máximo para resolver y notificar una solicitud de acceso a la información pública es de:",
+    "opciones": [
+      "un mes",
+      "10 días hábiles",
+      "15 días naturales",
+      "tres meses"
+    ],
+    "correcta": 0,
+    "explicacion": "La LTAIBG fija un mes, prorrogable por otro en supuestos justificados de volumen o complejidad.",
+    "referencia": "Tema 43, 3.5 El procedimiento de ejercicio del derecho de acceso"
+  },
+  {
+    "id": "t43-p017",
+    "tema": 43,
+    "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno es:",
+    "opciones": [
+      "potestativa, gratuita y no requiere abogado ni procurador",
+      "obligatoria antes de cualquier resolución administrativa",
+      "solo admisible si se formula por procurador",
+      "incompatible con el silencio negativo"
+    ],
+    "correcta": 0,
+    "explicacion": "La reclamación ante el CTBG es una garantía accesible y gratuita que sustituye a la reclamación administrativa ordinaria.",
+    "referencia": "Tema 43, 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "t43-p018",
+    "tema": 43,
+    "pregunta": "En las Administraciones Públicas, la base jurídica predominante del tratamiento de datos personales es:",
+    "opciones": [
+      "el cumplimiento de una misión en interés público o el ejercicio de poderes públicos",
+      "el consentimiento del interesado en todo caso",
+      "el interés legítimo de la Administración",
+      "la libre elección del encargado del tratamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "En el ámbito público la base jurídica típica es el art. 6.1.e RGPD, no el consentimiento.",
+    "referencia": "Tema 43, 7. Bases jurídicas del tratamiento"
+  },
+  {
+    "id": "t43-p019",
+    "tema": 43,
+    "pregunta": "El derecho a la portabilidad permite al interesado:",
+    "opciones": [
+      "recibir sus datos en formato estructurado, de uso común y lectura mecánica y transmitirlos a otro responsable",
+      "exigir la supresión inmediata de cualquier dato sin límites",
+      "obtener siempre una indemnización automática por cualquier tratamiento",
+      "impedir cualquier decisión administrativa basada en datos personales"
+    ],
+    "correcta": 0,
+    "explicacion": "La portabilidad opera en determinados tratamientos automatizados basados en consentimiento o contrato.",
+    "referencia": "Tema 43, 8.6 Derecho a la portabilidad de los datos"
+  },
+  {
+    "id": "t43-p020",
+    "tema": 43,
+    "pregunta": "El Registro de Actividades de Tratamiento (RAT) debe estar disponible para:",
+    "opciones": [
+      "la autoridad de control, si lo solicita",
+      "cualquier ciudadano en el Portal de Transparencia",
+      "solo el delegado sindical del centro",
+      "los tribunales de oposición de la Comunidad Autónoma"
+    ],
+    "correcta": 0,
+    "explicacion": "El RAT no tiene que publicarse, pero sí debe poder exhibirse ante la autoridad de control cuando lo requiera.",
+    "referencia": "Tema 43, 9.2 El Registro de Actividades de Tratamiento (RAT)"
   }
 ]

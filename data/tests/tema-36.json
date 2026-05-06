@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema los define como objetos cotidianos conectados.",
     "referencia": "Tema 36, 1.2 Tipos de ordenadores"
+  },
+  {
+    "id": "t36-p016",
+    "tema": 36,
+    "pregunta": "La interfaz gráfica de usuario (GUI) se caracteriza por:",
+    "opciones": [
+      "permitir la interacción mediante ventanas, iconos, menús y ratón",
+      "exigir exclusivamente el uso de comandos de texto",
+      "utilizar solo pantallas monocromas",
+      "funcionar únicamente en servidores"
+    ],
+    "correcta": 0,
+    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
+    "referencia": "Tema 36, 4.2.1 Por el tipo de interfaz"
+  },
+  {
+    "id": "t36-p017",
+    "tema": 36,
+    "pregunta": "Windows 11 requiere hardware compatible con:",
+    "opciones": [
+      "TPM 2.0 y arranque seguro (Secure Boot)",
+      "lectora Blu-ray y puerto VGA",
+      "arquitectura exclusivamente ARM de 32 bits",
+      "dos tarjetas gráficas dedicadas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
+    "referencia": "Tema 36, 4.3.1 Microsoft Windows"
+  },
+  {
+    "id": "t36-p018",
+    "tema": 36,
+    "pregunta": "La memoria virtual consiste en:",
+    "opciones": [
+      "utilizar parte del disco como extensión de la RAM",
+      "reservar una zona de la ROM para ejecutar aplicaciones",
+      "convertir automáticamente la memoria RAM en almacenamiento permanente",
+      "duplicar el contenido del disco en la nube"
+    ],
+    "correcta": 0,
+    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
+    "referencia": "Tema 36, 4.4 Conceptos clave de los sistemas operativos"
+  },
+  {
+    "id": "t36-p019",
+    "tema": 36,
+    "pregunta": "Una característica propia de los SSD frente a los HDD es que:",
+    "opciones": [
+      "no tienen partes móviles",
+      "solo pueden usarse como almacenamiento externo",
+      "su velocidad siempre es inferior a la de los HDD",
+      "se basan en platos magnéticos giratorios"
+    ],
+    "correcta": 0,
+    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
+    "referencia": "Tema 36, 5.3 La unidad de estado sólido (SSD)"
+  },
+  {
+    "id": "t36-p020",
+    "tema": 36,
+    "pregunta": "Dentro de la triada CIA, la disponibilidad significa que:",
+    "opciones": [
+      "los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten",
+      "solo el administrador puede modificar los datos",
+      "toda la información debe almacenarse en la nube",
+      "los datos deben permanecer cifrados en cualquier circunstancia"
+    ],
+    "correcta": 0,
+    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
+    "referencia": "Tema 36, 6.1 Concepto y objetivos"
   }
 ]

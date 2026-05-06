@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema lo exige expresamente.",
     "referencia": "Tema 42, 6.7 Los criterios de adjudicación"
+  },
+  {
+    "id": "t42-p016",
+    "tema": 42,
+    "pregunta": "En la LCSP, el contrato menor de obras exige un valor estimado inferior a:",
+    "opciones": [
+      "40.000 euros",
+      "15.000 euros",
+      "60.000 euros",
+      "221.000 euros"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija en 40.000 euros el umbral del contrato menor de obras.",
+    "referencia": "Tema 42, 3.3 El contrato menor"
+  },
+  {
+    "id": "t42-p017",
+    "tema": 42,
+    "pregunta": "En la Administración Local, el órgano de contratación ordinario para los contratos no reservados al Pleno es:",
+    "opciones": [
+      "el Alcalde o Presidente de la Diputación",
+      "la Mesa de contratación",
+      "el Interventor",
+      "el Secretario General"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye esa competencia ordinaria al Alcalde o Presidente de la Diputación.",
+    "referencia": "Tema 42, 4.1 La Administración: el órgano de contratación"
+  },
+  {
+    "id": "t42-p018",
+    "tema": 42,
+    "pregunta": "El presupuesto base de licitación (PBL) es:",
+    "opciones": [
+      "el límite máximo de gasto que puede comprometer el órgano de contratación, incluidos los impuestos",
+      "el precio final ofertado por el adjudicatario tras la ejecución del contrato",
+      "la cuantía de la garantía definitiva",
+      "el importe mínimo que deben ofrecer los licitadores"
+    ],
+    "correcta": 0,
+    "explicacion": "El PBL fija el techo de gasto del contrato y las ofertas no pueden superarlo.",
+    "referencia": "Tema 42, 5.3 El presupuesto base de licitación (PBL)"
+  },
+  {
+    "id": "t42-p019",
+    "tema": 42,
+    "pregunta": "La garantía definitiva asciende, con carácter general, al:",
+    "opciones": [
+      "5 % del precio de adjudicación, sin IVA",
+      "10 % del valor estimado, con IVA",
+      "3 % del presupuesto base de licitación",
+      "2 % del precio del contrato con IVA"
+    ],
+    "correcta": 0,
+    "explicacion": "El adjudicatario debe constituir una garantía definitiva del 5 % del precio de adjudicación sin IVA.",
+    "referencia": "Tema 42, 7.2 La garantía definitiva"
+  },
+  {
+    "id": "t42-p020",
+    "tema": 42,
+    "pregunta": "En la ejecución del contrato, el principio de riesgo y ventura significa que:",
+    "opciones": [
+      "el contratista asume, como regla general, los riesgos de la ejecución",
+      "la Administración soporta cualquier desviación de costes",
+      "todo contrato puede modificarse libremente por el contratista",
+      "la ejecución queda suspendida si varía el mercado"
+    ],
+    "correcta": 0,
+    "explicacion": "La ejecución corre por cuenta y riesgo del contratista, salvo los supuestos previstos legalmente.",
+    "referencia": "Tema 42, 9.1 Principio de riesgo y ventura"
   }
 ]

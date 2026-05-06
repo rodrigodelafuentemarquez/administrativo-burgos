@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema fija 3 años para las faltas muy graves.",
     "referencia": "Tema 22, 8.4 Prescripción de infracciones y sanciones (art. 97 TREBEP)"
+  },
+  {
+    "id": "t22-p016",
+    "tema": 22,
+    "pregunta": "Según el art. 22 TREBEP, los trienios consisten en:",
+    "opciones": [
+      "una cantidad fija por cada 3 años de servicios prestados en el mismo subgrupo o grupo de clasificación",
+      "un complemento variable ligado a la evaluación del desempeño",
+      "una gratificación extraordinaria por servicios fuera de jornada",
+      "una indemnización por razón del servicio"
+    ],
+    "correcta": 0,
+    "explicacion": "Los trienios son una retribución básica fija por cada tres años de servicios prestados en el mismo subgrupo o grupo.",
+    "referencia": "Tema 22, 5.2 Retribuciones básicas (art. 22 TREBEP)"
+  },
+  {
+    "id": "t22-p017",
+    "tema": 22,
+    "pregunta": "Las pagas extraordinarias de los funcionarios se perciben, con carácter general, en:",
+    "opciones": [
+      "junio y diciembre",
+      "marzo y septiembre",
+      "abril y octubre",
+      "enero y julio"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que las pagas extraordinarias son dos al año, en junio y diciembre.",
+    "referencia": "Tema 22, 5.2 Retribuciones básicas (art. 22 TREBEP)"
+  },
+  {
+    "id": "t22-p018",
+    "tema": 22,
+    "pregunta": "Según el art. 24 TREBEP, el complemento específico retribuye:",
+    "opciones": [
+      "las condiciones particulares del puesto, como dificultad técnica, dedicación, responsabilidad o incompatibilidad",
+      "exclusivamente la antigüedad del funcionario",
+      "la realización de servicios extraordinarios fuera de jornada",
+      "la pertenencia a un determinado subgrupo de clasificación"
+    ],
+    "correcta": 0,
+    "explicacion": "El complemento específico remunera las condiciones particulares del puesto y solo puede fijarse uno por puesto.",
+    "referencia": "Tema 22, 5.3 Retribuciones complementarias (art. 24 TREBEP)"
+  },
+  {
+    "id": "t22-p019",
+    "tema": 22,
+    "pregunta": "No requiere reconocimiento de compatibilidad:",
+    "opciones": [
+      "la producción y creación literaria, artística, científica y técnica",
+      "el desempeño de una segunda actividad pública retribuida",
+      "una actividad privada retribuida relacionada directamente con las competencias del puesto",
+      "una actividad privada que genere conflicto de intereses con el servicio público"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye la creación literaria, artística, científica y técnica entre las actividades permitidas sin autorización.",
+    "referencia": "Tema 22, 7.4 Actividades permitidas sin necesidad de autorización"
+  },
+  {
+    "id": "t22-p020",
+    "tema": 22,
+    "pregunta": "El principio non bis in idem en el régimen disciplinario significa que:",
+    "opciones": [
+      "no puede sancionarse dos veces por los mismos hechos, salvo supuestos admitidos por el ordenamiento",
+      "toda falta disciplinaria debe sancionarse con suspensión de funciones",
+      "solo pueden sancionarse las infracciones tipificadas como muy graves",
+      "la Administración debe ejecutar de oficio todas las sanciones sin procedimiento previo"
+    ],
+    "correcta": 0,
+    "explicacion": "El principio impide la doble sanción por los mismos hechos, con los matices que contempla el ordenamiento.",
+    "referencia": "Tema 22, 8.1 Fundamento y principios"
   }
 ]

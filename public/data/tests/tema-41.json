@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema la presenta como mecanismo clave de uniformidad.",
     "referencia": "Tema 41, 7.2 Funciones y tipos de recursos"
+  },
+  {
+    "id": "t41-p016",
+    "tema": 41,
+    "pregunta": "El objetivo principal del Banco Central Europeo es:",
+    "opciones": [
+      "mantener la estabilidad de precios",
+      "aprobar el presupuesto general de la Unión",
+      "resolver las cuestiones prejudiciales",
+      "ejercer el control político sobre la Comisión"
+    ],
+    "correcta": 0,
+    "explicacion": "El BCE tiene como objetivo principal mantener la estabilidad de precios en la zona euro.",
+    "referencia": "Tema 41, 8.1 El Banco Central Europeo (BCE)"
+  },
+  {
+    "id": "t41-p017",
+    "tema": 41,
+    "pregunta": "El Tribunal de Cuentas Europeo:",
+    "opciones": [
+      "no tiene funciones jurisdiccionales",
+      "puede anular reglamentos de la Unión",
+      "resuelve recursos prejudiciales",
+      "nombra a los comisarios europeos"
+    ],
+    "correcta": 0,
+    "explicacion": "Es un órgano de auditoría externa y, a diferencia del español, no ejerce funciones jurisdiccionales.",
+    "referencia": "Tema 41, 8.2 El Tribunal de Cuentas Europeo"
+  },
+  {
+    "id": "t41-p018",
+    "tema": 41,
+    "pregunta": "Según el art. 288 TFUE, el reglamento se caracteriza por ser:",
+    "opciones": [
+      "obligatorio en todos sus elementos y directamente aplicable en todos los Estados miembros",
+      "obligatorio solo en cuanto al resultado a alcanzar",
+      "no vinculante, como las recomendaciones",
+      "aplicable únicamente tras su transposición al Derecho interno"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento tiene alcance general y no necesita transposición para producir efectos.",
+    "referencia": "Tema 41, 9.2 Derecho derivado"
+  },
+  {
+    "id": "t41-p019",
+    "tema": 41,
+    "pregunta": "Las recomendaciones y los dictámenes de la Unión Europea son actos:",
+    "opciones": [
+      "no vinculantes",
+      "directamente aplicables y de alcance general",
+      "obligatorios solo para los Estados miembros",
+      "reservados al Parlamento Europeo"
+    ],
+    "correcta": 0,
+    "explicacion": "No crean obligaciones jurídicas, aunque pueden orientar la interpretación del Derecho nacional.",
+    "referencia": "Tema 41, 9.2 Derecho derivado"
+  },
+  {
+    "id": "t41-p020",
+    "tema": 41,
+    "pregunta": "El principio de atribución implica que la Unión Europea:",
+    "opciones": [
+      "solo actúa dentro de las competencias que le atribuyen los Tratados",
+      "puede asumir cualquier competencia de los Estados miembros",
+      "tiene competencia general sobre todas las materias económicas",
+      "puede modificar unilateralmente los Tratados"
+    ],
+    "correcta": 0,
+    "explicacion": "La Unión solo puede actuar en las materias y con el alcance que los Tratados le atribuyen.",
+    "referencia": "Tema 41, 10.1 El principio de atribución"
   }
 ]

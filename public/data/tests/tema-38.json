@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema las incluye en la gestión de datos.",
     "referencia": "Tema 38, 11.4 Tablas dinámicas (PivotTable)"
+  },
+  {
+    "id": "t38-p016",
+    "tema": 38,
+    "pregunta": "La tabla de contenido de Word se actualiza, entre otros medios, con la tecla:",
+    "opciones": [
+      "F9",
+      "F2",
+      "F12",
+      "Ctrl + P"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que la tabla de contenido puede actualizarse con clic derecho o con F9.",
+    "referencia": "Tema 38, 2.10 Tabla de contenido"
+  },
+  {
+    "id": "t38-p017",
+    "tema": 38,
+    "pregunta": "Si Word se cierra inesperadamente, la recuperación de documentos ofrece:",
+    "opciones": [
+      "las versiones autoguardadas disponibles al reiniciarse",
+      "solo el documento original guardado manualmente",
+      "únicamente los archivos PDF exportados previamente",
+      "una copia impresa del último documento abierto"
+    ],
+    "correcta": 0,
+    "explicacion": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado.",
+    "referencia": "Tema 38, 3.2 Recuperación de documentos"
+  },
+  {
+    "id": "t38-p018",
+    "tema": 38,
+    "pregunta": "En Excel, el cuadro de diálogo de Formato de celdas se abre con:",
+    "opciones": [
+      "Ctrl + 1",
+      "Ctrl + 9",
+      "Alt + F4",
+      "F7"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge expresamente el atajo Ctrl + 1 para abrir Formato de celdas.",
+    "referencia": "Tema 38, 7.3 Formato de celdas"
+  },
+  {
+    "id": "t38-p019",
+    "tema": 38,
+    "pregunta": "Una referencia absoluta en Excel se representa como:",
+    "opciones": [
+      "$A$1",
+      "A1",
+      "$A1",
+      "A$"
+    ],
+    "correcta": 0,
+    "explicacion": "La referencia absoluta fija tanto columna como fila mediante el signo $.",
+    "referencia": "Tema 38, 9.2 Referencias a celdas"
+  },
+  {
+    "id": "t38-p020",
+    "tema": 38,
+    "pregunta": "BUSCARX se caracteriza por ser:",
+    "opciones": [
+      "una versión moderna y más flexible de BUSCARV",
+      "una función exclusiva para insertar gráficos",
+      "una herramienta para proteger libros con contraseña",
+      "una opción de impresión avanzada"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
+    "referencia": "Tema 38, 9.3 Funciones principales"
   }
 ]

@@ -208,5 +208,75 @@
     "correcta": 1,
     "explicacion": "La separación del servicio es la sanción máxima para muy graves.",
     "referencia": "Tema 46, 9.3 Sanciones"
+  },
+  {
+    "id": "t46-p016",
+    "tema": 46,
+    "pregunta": "La Oferta de Empleo Público de la Junta de Castilla y León se aprueba por:",
+    "opciones": [
+      "el Consejo de Gobierno",
+      "la Mesa de las Cortes de Castilla y León",
+      "el Presidente del Tribunal Superior de Justicia",
+      "la Diputación Permanente"
+    ],
+    "correcta": 0,
+    "explicacion": "La OEP se instrumentaliza mediante aprobación anual del Consejo de Gobierno cuando concurren los requisitos legales.",
+    "referencia": "Tema 46, 4.2 La Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t46-p017",
+    "tema": 46,
+    "pregunta": "La convocatoria de los procesos selectivos derivados de la OEP debe producirse en el plazo máximo de:",
+    "opciones": [
+      "tres años",
+      "un año",
+      "seis meses",
+      "cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija un plazo máximo de tres años desde la publicación de la OEP.",
+    "referencia": "Tema 46, 4.2 La Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t46-p018",
+    "tema": 46,
+    "pregunta": "Los miembros de los órganos de selección deben ser funcionarios de carrera del grupo o subgrupo:",
+    "opciones": [
+      "igual o superior al de las plazas convocadas",
+      "inferior al de las plazas convocadas",
+      "distinto en todo caso al de las plazas convocadas",
+      "elegido libremente por los aspirantes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige ese nivel mínimo para garantizar profesionalidad e imparcialidad del órgano seleccionador.",
+    "referencia": "Tema 46, 4.5 Los órganos de selección"
+  },
+  {
+    "id": "t46-p019",
+    "tema": 46,
+    "pregunta": "La adscripción provisional se caracteriza por:",
+    "opciones": [
+      "cubrir temporalmente un puesto mientras se tramita el procedimiento ordinario de provisión o en situaciones de urgencia",
+      "ser un sistema definitivo reservado a altos cargos",
+      "exigir siempre la pérdida del puesto de origen",
+      "no obligar al funcionario a participar en concursos posteriores"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una cobertura temporal y el funcionario adscrito provisionalmente debe participar en los concursos para cubrir el puesto.",
+    "referencia": "Tema 46, 5.2.3 Adscripción provisional"
+  },
+  {
+    "id": "t46-p020",
+    "tema": 46,
+    "pregunta": "La libre designación permite:",
+    "opciones": [
+      "nombrar y cesar libremente a funcionarios en puestos de especial responsabilidad o confianza expresamente previstos en la RPT",
+      "cubrir cualquier puesto funcionarial sin necesidad de RPT",
+      "acceder por primera vez a la condición de funcionario de carrera",
+      "evitar toda publicidad de las convocatorias"
+    ],
+    "correcta": 0,
+    "explicacion": "Solo procede para puestos especialmente catalogados en la RPT y conlleva nombramiento y cese libres.",
+    "referencia": "Tema 46, 5.2.2 Libre designación"
   }
 ]

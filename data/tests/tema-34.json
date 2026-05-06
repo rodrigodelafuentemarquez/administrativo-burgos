@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema lo presenta como marco técnico de interoperabilidad.",
     "referencia": "Tema 34, 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico"
+  },
+  {
+    "id": "t34-p016",
+    "tema": 34,
+    "pregunta": "El código seguro de verificación (CSV) permite:",
+    "opciones": [
+      "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
+      "sustituir en todo caso la firma electrónica cualificada del ciudadano",
+      "presentar solicitudes sin identificación previa",
+      "clasificar los sistemas conforme al ENS"
+    ],
+    "correcta": 0,
+    "explicacion": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento.",
+    "referencia": "Tema 34, 3.3 Identificación de las Administraciones Públicas"
+  },
+  {
+    "id": "t34-p017",
+    "tema": 34,
+    "pregunta": "La presentación electrónica de una solicitud genera automáticamente un recibo con:",
+    "opciones": [
+      "número de registro, fecha, hora e identificación del documento presentado",
+      "solo la identidad del funcionario que tramitará el expediente",
+      "únicamente el número de expediente definitivo",
+      "el texto íntegro de la resolución final"
+    ],
+    "correcta": 0,
+    "explicacion": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales.",
+    "referencia": "Tema 34, 4.2 Iniciación electrónica del procedimiento"
+  },
+  {
+    "id": "t34-p018",
+    "tema": 34,
+    "pregunta": "El aviso de que existe una notificación electrónica pendiente:",
+    "opciones": [
+      "no sustituye a la notificación",
+      "equivale por sí mismo a la práctica de la notificación",
+      "amplía automáticamente el plazo de 10 días",
+      "solo es obligatorio en los procedimientos sancionadores"
+    ],
+    "correcta": 0,
+    "explicacion": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico.",
+    "referencia": "Tema 34, 6.2 El aviso de notificación"
+  },
+  {
+    "id": "t34-p019",
+    "tema": 34,
+    "pregunta": "El SIR materializa principalmente el principio de:",
+    "opciones": [
+      "ventanilla única",
+      "jerarquía normativa",
+      "inderogabilidad singular del reglamento",
+      "desconcentración funcional"
+    ],
+    "correcta": 0,
+    "explicacion": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria.",
+    "referencia": "Tema 34, 7.3 El Sistema de Interconexión de Registros (SIR)"
+  },
+  {
+    "id": "t34-p020",
+    "tema": 34,
+    "pregunta": "Entre las obligaciones de las Entidades Locales en materia de administración electrónica figura disponer de:",
+    "opciones": [
+      "un catálogo de procedimientos disponible en la sede electrónica",
+      "una oficina física abierta las 24 horas del día",
+      "un sistema propio de certificación notarial",
+      "un registro exclusivamente en soporte papel"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye expresamente el catálogo de procedimientos entre los elementos que deben existir en la sede electrónica local.",
+    "referencia": "Tema 34, 8.1 Obligaciones de las Entidades Locales"
   }
 ]
