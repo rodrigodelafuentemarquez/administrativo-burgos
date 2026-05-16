@@ -16,19 +16,19 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   const FAILS_KEY = 'oposicion-fallos-v1';
 
   const limitOptions = [10, 20, 30, 50, 100];
+  const failLimitOptions = [0, ...limitOptions];
   let allQuestions = [];
   let selected = [];
 
   function normalizeQuestion(item, fallbackTema, index) {
     if (Array.isArray(item)) {
-      const [pregunta = '', opciones = [], correcta = 0, explicacion = '', referencia = ''] = item;
+      const [pregunta = '', opciones = [], correcta = 0, _explicacion = '', referencia = ''] = item;
       item = {
         id: `t${String(fallbackTema).padStart(2, '0')}-p${String(index + 1).padStart(3, '0')}`,
         tema: fallbackTema,
         pregunta,
         opciones,
         correcta,
-        explicacion,
         referencia,
       };
     }
@@ -46,7 +46,6 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       pregunta: String(item.pregunta ?? ''),
       opciones,
       correcta,
-      explicacion: String(item.explicacion ?? ''),
       referencia: String(item.referencia ?? ''),
     };
   }
@@ -85,7 +84,14 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   function addFails(newFails) {
     const current = readFails();
     const byId = new Map(current.map((q) => [q.id, q]));
-    newFails.forEach((q) => byId.set(q.id, q));
+    newFails.forEach((q) => byId.set(q.id, {
+      id: q.id,
+      tema: q.tema,
+      pregunta: q.pregunta,
+      opciones: q.opciones,
+      correcta: q.correcta,
+      referencia: q.referencia,
+    }));
     saveFails(Array.from(byId.values()));
   }
 
@@ -210,7 +216,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       <div class="test-hero mb-4">
         <span class="test-kicker">${mode === 'fails' ? 'Repaso de fallos' : 'Test aleatorio'}</span>
         <h2 class="display-6 mb-2">${selected.length} preguntas</h2>
-        <p class="text-body-secondary mb-0">Marca una opción por pregunta. La corrección aparece al final con explicación y referencia.</p>
+        <p class="text-body-secondary mb-0">Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.</p>
       </div>
       <form id="quiz" class="test-question-list"></form>
       <div class="test-actions sticky-bottom py-3 mt-4">
@@ -318,8 +324,6 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             <dd class="col-sm-9">${pick >= 0 ? escapeHtml(q.opciones[pick]) : '<span class="text-body-secondary">Sin responder</span>'}</dd>
             <dt class="col-sm-3 text-body-secondary">Correcta</dt>
             <dd class="col-sm-9">${escapeHtml(q.opciones[q.correcta])}</dd>
-            <dt class="col-sm-3 text-body-secondary">Explicación</dt>
-            <dd class="col-sm-9">${escapeHtml(q.explicacion)}</dd>
           </dl>
         </div>
       </article>`;
@@ -334,7 +338,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       </div>
       <div class="test-panel">
         <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
-        <select class="form-select" id="limit">${limitOptions.map((n) => `<option value="${n}">${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
+        <select class="form-select" id="limit">${failLimitOptions.map((n) => `<option value="${n}" ${n === 0 ? 'selected' : ''}>${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
         <button id="start" class="btn btn-primary btn-lg w-100 mt-3" type="button">Empezar repaso</button>
       </div>`;
     document.getElementById('start')?.addEventListener('click', () => startTest(Number(document.getElementById('limit')?.value ?? '0')));

@@ -11,7 +11,6 @@ export type FailedQuestion = {
   pregunta: string;
   opciones: string[];
   correcta: number;
-  explicacion: string;
   referencia: string;
 };
 
