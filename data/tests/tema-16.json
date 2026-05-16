@@ -208,5 +208,33 @@
     "correcta": 1,
     "explicacion": "El tema permite su rectificación en cualquier momento.",
     "referencia": "Tema 16, 6.5 Rectificación de errores"
+  },
+  {
+    "id": "t16-p016",
+    "tema": 16,
+    "pregunta": "Según el art. 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Publicas sujetos al Derecho Administrativo se presumiran validos y produciran efectos:",
+    "opciones": [
+      "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
+      "Solo desde su publicacion en el diario oficial correspondiente",
+      "Exclusivamente desde su notificacion personal al interesado",
+      "Unicamente tras su convalidacion expresa"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge la regla general de eficacia desde la fecha del acto, salvo que el propio acto disponga otra cosa.",
+    "referencia": "Tema 16, 4. Eficacia de los actos administrativos"
+  },
+  {
+    "id": "t16-p017",
+    "tema": 16,
+    "pregunta": "Segun el art. 35 LPACAP, senale cual de los siguientes actos debe ser motivado:",
+    "opciones": [
+      "Los actos que limiten derechos subjetivos o intereses legitimos",
+      "Todos los actos favorables al interesado",
+      "Las comunicaciones internas sin efectos juridicos",
+      "Las actuaciones materiales de ejecucion sin contenido decisorio"
+    ],
+    "correcta": 0,
+    "explicacion": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivacion obligatoria.",
+    "referencia": "Tema 16, 3.3 Elementos formales"
   }
 ]

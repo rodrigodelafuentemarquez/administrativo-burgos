@@ -208,5 +208,19 @@
     "correcta": 2,
     "explicacion": "El tema asigna esa materia a la Sala 3.ª, de lo Contencioso-Administrativo.",
     "referencia": "Tema 6, 3.2 Composición y organización"
+  },
+  {
+    "id": "t06-p016",
+    "tema": 6,
+    "pregunta": "Según el art. 124 CE, el Fiscal General del Estado será nombrado por:",
+    "opciones": [
+      "El Gobierno, a propuesta del Rey y oído el Congreso de los Diputados",
+      "El Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+      "El Consejo General del Poder Judicial, a propuesta del Rey",
+      "El Tribunal Supremo, a propuesta del Gobierno"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Fiscal General del Estado es nombrado por el Rey, a propuesta del Gobierno y oído el CGPJ.",
+    "referencia": "Tema 6, 8.3 El Fiscal General del Estado"
   }
 ]

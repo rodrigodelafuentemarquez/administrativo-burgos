@@ -278,5 +278,33 @@
     "correcta": 0,
     "explicacion": "Solo procede para puestos especialmente catalogados en la RPT y conlleva nombramiento y cese libres.",
     "referencia": "Tema 46, 5.2.2 Libre designación"
+  },
+  {
+    "id": "t46-p021",
+    "tema": 46,
+    "pregunta": "De acuerdo con el Tema 46, la Oferta de Empleo Publico de la Junta de Castilla y Leon se publica en:",
+    "opciones": [
+      "Exclusivamente en el BOCYL",
+      "Exclusivamente en el BOE",
+      "El BOCYL y el BOE",
+      "El BOCYL y el Diario Oficial de la Union Europea"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema indica expresamente que la OEP se publica tanto en el BOCYL como en el BOE.",
+    "referencia": "Tema 46, 4.2 La Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t46-p022",
+    "tema": 46,
+    "pregunta": "Segun el Tema 46, el personal eventual:",
+    "opciones": [
+      "Puede desempenar puestos que impliquen el ejercicio de potestades administrativas",
+      "Es nombrado para puestos de confianza o asesoramiento especial y no puede ejercer potestades administrativas",
+      "Solo puede existir en las entidades locales",
+      "Adquiere la condicion de funcionario de carrera por el mero transcurso del tiempo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema limita el personal eventual a puestos de confianza o asesoramiento y excluye el ejercicio de potestades administrativas.",
+    "referencia": "Tema 46, 2.3 Personal eventual"
   }
 ]

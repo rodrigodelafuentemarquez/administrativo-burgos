@@ -208,5 +208,33 @@
     "correcta": 1,
     "explicacion": "El tema señala que transcurridos 3 meses el recurso se entiende desestimado.",
     "referencia": "Tema 17, 4.1 Recurso de alzada"
+  },
+  {
+    "id": "t17-p016",
+    "tema": 17,
+    "pregunta": "Segun el art. 117.1 de la Ley 39/2015, de 1 de octubre, la interposicion de cualquier recurso, excepto en los casos en que una disposicion establezca lo contrario:",
+    "opciones": [
+      "Suspendera automaticamente la ejecucion del acto impugnado",
+      "No suspendera la ejecucion del acto impugnado",
+      "Impedira la eficacia del acto durante diez dias",
+      "Exigira siempre la adopcion de medidas cautelares"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema explica que la interposicion del recurso no suspende automaticamente la ejecucion del acto.",
+    "referencia": "Tema 17, 2.4 Principio de suspensión"
+  },
+  {
+    "id": "t17-p017",
+    "tema": 17,
+    "pregunta": "De acuerdo con el Tema 17, si transcurren treinta dias desde la solicitud de suspension sin que la Administracion se pronuncie:",
+    "opciones": [
+      "La solicitud se entiende desestimada",
+      "La suspension se entiende concedida",
+      "El recurso queda archivado",
+      "El acto pasa a ser nulo de pleno derecho"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge silencio positivo en materia de suspension cuando la Administracion no resuelve en treinta dias.",
+    "referencia": "Tema 17, 2.4 Principio de suspensión"
   }
 ]

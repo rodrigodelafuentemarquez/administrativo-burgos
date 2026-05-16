@@ -4,7 +4,7 @@
       "tema": 1,
       "titulo": "La Constitución española de 1978. Características y estructura. Derechos y deberes fundamentales. Garantías y suspensión.",
       "slug": "tema-01",
-      "preguntas": 15
+      "preguntas": 17
     },
     {
       "tema": 2,
@@ -34,7 +34,7 @@
       "tema": 6,
       "titulo": "El Poder Judicial. El Consejo General del Poder Judicial. El Tribunal Supremo. El Ministerio Fiscal. Organización judicial española.",
       "slug": "tema-06",
-      "preguntas": 15
+      "preguntas": 16
     },
     {
       "tema": 7,
@@ -88,19 +88,19 @@
       "tema": 15,
       "titulo": "Ley de Procedimiento Administrativo Común de las Administraciones Públicas. Disposiciones generales. Fases del procedimiento administrativo: iniciación, desarrollo y terminación. Obligación de resolver. El silencio administrativo.",
       "slug": "tema-15",
-      "preguntas": 15
+      "preguntas": 17
     },
     {
       "tema": 16,
       "titulo": "El acto administrativo: concepto, clases y requisitos. Eficacia de los actos administrativos. La invalidez del acto. La revisión de oficio.",
       "slug": "tema-16",
-      "preguntas": 15
+      "preguntas": 17
     },
     {
       "tema": 17,
       "titulo": "Los recursos administrativos. Principios generales y clases.",
       "slug": "tema-17",
-      "preguntas": 15
+      "preguntas": 17
     },
     {
       "tema": 18,
@@ -244,7 +244,7 @@
       "tema": 41,
       "titulo": "La Unión Europea: origen y evolución. Las instituciones europeas: el Consejo Europeo, el Consejo, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea. Otras instituciones y órganos. El ordenamiento jurídico de la Unión Europea. Las competencias de la UE. La integración europea y el ordenamiento español.",
       "slug": "tema-41",
-      "preguntas": 20
+      "preguntas": 22
     },
     {
       "tema": 42,
@@ -256,37 +256,37 @@
       "tema": 43,
       "titulo": "La transparencia de la actividad pública. El derecho de acceso a la información pública. El buen gobierno. La protección de datos de carácter personal: el RGPD y la LOPDGDD. Principios, derechos y obligaciones. La Agencia Española de Protección de Datos.",
       "slug": "tema-43",
-      "preguntas": 20
+      "preguntas": 22
     },
     {
       "tema": 44,
       "titulo": "El presupuesto público: concepto, principios y estructura. El ciclo presupuestario. La ejecución del presupuesto de gastos: fases y documentos contables. Las modificaciones presupuestarias. El control del gasto público. Especialidades en la Administración Local y en la Junta de Castilla y León.",
       "slug": "tema-44",
-      "preguntas": 20
+      "preguntas": 22
     },
     {
       "tema": 45,
       "titulo": "Las retribuciones del personal al servicio de las Administraciones Públicas. Retribuciones básicas y complementarias. La nómina: estructura y normas de confección. Altas y bajas. La Seguridad Social del personal laboral. El régimen de la MUFACE y las clases pasivas.",
       "slug": "tema-45",
-      "preguntas": 15
+      "preguntas": 17
     },
     {
       "tema": 46,
       "titulo": "La Ley de la Función Pública de Castilla y León. Objeto y ámbito de aplicación. Clases de personal. Acceso al empleo público. Selección y provisión de puestos. Carrera profesional. Situaciones administrativas. Derechos y deberes. Régimen disciplinario. Negociación colectiva.",
       "slug": "tema-46",
-      "preguntas": 20
+      "preguntas": 22
     },
     {
       "tema": 47,
       "titulo": "El Estatuto de Autonomía de Castilla y León. La organización de la Comunidad Autónoma: las Cortes de Castilla y León, la Junta de Castilla y León y el Presidente. Instituciones propias: el Procurador del Común, el Consejo Consultivo, el Consejo de Cuentas y el Consejo Económico y Social. La Administración de la Comunidad: organización central y periférica.",
       "slug": "tema-47",
-      "preguntas": 15
+      "preguntas": 18
     },
     {
       "tema": 48,
       "titulo": "Políticas de igualdad efectiva entre mujeres y hombres. La Ley Orgánica 3/2007, de 22 de marzo. La violencia de género: la Ley Orgánica 1/2004, de 28 de diciembre. Las políticas de igualdad de trato y no discriminación de las personas LGTBI. La discapacidad y la dependencia.",
       "slug": "tema-48",
-      "preguntas": 15
+      "preguntas": 17
     }
   ]
 }

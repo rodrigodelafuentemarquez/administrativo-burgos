@@ -208,5 +208,33 @@
     "correcta": 0,
     "explicacion": "El corte temporal del tema es el 1 de enero de 2011.",
     "referencia": "Tema 45, 7.2 Las Clases Pasivas del Estado"
+  },
+  {
+    "id": "t45-p016",
+    "tema": 45,
+    "pregunta": "De acuerdo con el Tema 45, senale cual de los siguientes conceptos no tiene la consideracion de retribucion complementaria de los funcionarios:",
+    "opciones": [
+      "Complemento de destino",
+      "Complemento especifico",
+      "Productividad",
+      "Trienios"
+    ],
+    "correcta": 3,
+    "explicacion": "Los trienios son retribuciones basicas; destino, especifico y productividad son complementarias.",
+    "referencia": "Tema 45, 2.2 Retribuciones básicas y 2.3 Retribuciones complementarias"
+  },
+  {
+    "id": "t45-p017",
+    "tema": 45,
+    "pregunta": "Conforme al Tema 45, el complemento especifico retribuye:",
+    "opciones": [
+      "Las condiciones particulares del puesto, como su dificultad tecnica, dedicacion, incompatibilidad, responsabilidad, peligrosidad o penosidad",
+      "La pertenencia del funcionario a un determinado subgrupo de clasificacion",
+      "Exclusivamente los servicios extraordinarios fuera de la jornada normal",
+      "Cada tres anos de servicios efectivos prestados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define el complemento especifico por las condiciones particulares del puesto.",
+    "referencia": "Tema 45, 2.3.2 El complemento específico"
   }
 ]

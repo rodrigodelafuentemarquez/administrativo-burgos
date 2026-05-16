@@ -278,5 +278,33 @@
     "correcta": 0,
     "explicacion": "La Unión solo puede actuar en las materias y con el alcance que los Tratados le atribuyen.",
     "referencia": "Tema 41, 10.1 El principio de atribución"
+  },
+  {
+    "id": "t41-p021",
+    "tema": 41,
+    "pregunta": "Segun el art. 16.4 del Tratado de la Union Europea y conforme al Tema 41, la mayoria cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
+    "opciones": [
+      "El 50% de los Estados miembros que representen al menos el 50% de la poblacion de la Union",
+      "El 55% de los Estados miembros que representen al menos el 65% de la poblacion de la Union",
+      "Dos tercios de los Estados miembros, con independencia de la poblacion",
+      "La unanimidad de los Estados miembros presentes y votantes"
+    ],
+    "correcta": 1,
+    "explicacion": "El resumen del tema recoge expresamente la regla del 55% de Estados y 65% de la poblacion.",
+    "referencia": "Tema 41, Resumen esquemático para repasar"
+  },
+  {
+    "id": "t41-p022",
+    "tema": 41,
+    "pregunta": "Conforme al TFUE y al Tema 41, si el Parlamento Europeo aprueba una mocion de censura sobre la gestion de la Comision Europea:",
+    "opciones": [
+      "Debe dimitir unicamente el Presidente de la Comision",
+      "Debe dimitir la Comision en pleno",
+      "Queda disuelto automaticamente el Consejo Europeo",
+      "Se convoca de forma obligatoria un referendum europeo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que, si prospera la mocion de censura, la Comision en pleno debe dimitir.",
+    "referencia": "Tema 41, 6.1 Composición y nombramiento"
   }
 ]

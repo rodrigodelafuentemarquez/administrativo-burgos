@@ -208,5 +208,33 @@
     "correcta": 1,
     "explicacion": "El temario explica que no son derechos subjetivos directamente exigibles, sino mandatos al legislador.",
     "referencia": "Tema 1, 2.4 Capítulo III — Principios rectores de la política social y económica"
+  },
+  {
+    "id": "t01-p016",
+    "tema": 1,
+    "pregunta": "Según lo dispuesto en el art. 55.1 de la Constitución Española de 1978, en el estado de sitio puede ser suspendido el derecho a:",
+    "opciones": [
+      "La negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios",
+      "Comunicar o recibir libremente información veraz por cualquier medio de difusión",
+      "La libertad de empresa",
+      "La producción y creación literaria, artística, científica y técnica"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema incluye entre los derechos suspendibles del art. 55.1 CE la libertad de información del art. 20.1.d).",
+    "referencia": "Tema 1, 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio"
+  },
+  {
+    "id": "t01-p017",
+    "tema": 1,
+    "pregunta": "De acuerdo con el art. 53.3 de la Constitución Española de 1978, los principios rectores de la política social y económica:",
+    "opciones": [
+      "Son derechos subjetivos directamente exigibles ante cualquier tribunal",
+      "Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen",
+      "Solo vinculan al Gobierno, pero no al legislador",
+      "Pueden suspenderse en el estado de excepción en los mismos términos que los derechos fundamentales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
+    "referencia": "Tema 1, 2.4 Capítulo III — Principios rectores de la política social y económica"
   }
 ]

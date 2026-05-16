@@ -208,5 +208,33 @@
     "correcta": 0,
     "explicacion": "El tema establece Grado I, II y III.",
     "referencia": "Tema 48, 6.3 Grados de dependencia"
+  },
+  {
+    "id": "t48-p016",
+    "tema": 48,
+    "pregunta": "Segun el art. 26 de la Ley 39/2006 y conforme al Tema 48, el Grado II de dependencia se corresponde con:",
+    "opciones": [
+      "La dependencia moderada",
+      "La dependencia severa",
+      "La gran dependencia",
+      "La situacion de autonomia personal plena"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema identifica el Grado II con la dependencia severa.",
+    "referencia": "Tema 48, 6.3 Grados de dependencia"
+  },
+  {
+    "id": "t48-p017",
+    "tema": 48,
+    "pregunta": "De acuerdo con el Tema 48, la ayuda economica del art. 27 de la Ley Organica 1/2004 equivale a:",
+    "opciones": [
+      "Tres mensualidades del subsidio por desempleo",
+      "Seis mensualidades del subsidio por desempleo",
+      "Doce mensualidades del salario minimo interprofesional",
+      "Una prestacion unica equivalente al IPREM anual"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema senala que la ayuda economica del art. 27 LOVG equivale a seis mensualidades del subsidio por desempleo.",
+    "referencia": "Tema 48, 3.2 La Ley Orgánica 1/2004: objeto y estructura"
   }
 ]

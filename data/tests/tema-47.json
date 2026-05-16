@@ -208,5 +208,47 @@
     "correcta": 0,
     "explicacion": "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
     "referencia": "Tema 47, 5.2 La Administración Periférica: las Delegaciones Territoriales"
+  },
+  {
+    "id": "t47-p016",
+    "tema": 47,
+    "pregunta": "De acuerdo con el Estatuto de Autonomia de Castilla y Leon y con el Tema 47, a cada provincia le corresponde un minimo de:",
+    "opciones": [
+      "Dos Procuradores",
+      "Tres Procuradores",
+      "Cuatro Procuradores",
+      "Cinco Procuradores"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que la circunscripcion es provincial y que cada provincia cuenta con un minimo de tres Procuradores.",
+    "referencia": "Tema 47, 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p017",
+    "tema": 47,
+    "pregunta": "De acuerdo con el Tema 47, corresponde al Presidente de la Junta de Castilla y Leon:",
+    "opciones": [
+      "Nombrar y cesar libremente a los Consejeros",
+      "Elegir a los Procuradores provinciales",
+      "Fiscalizar las cuentas de las entidades locales",
+      "Resolver los recursos de casacion ante el Tribunal Superior de Justicia"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera entre las atribuciones del Presidente el nombramiento y cese de los Consejeros.",
+    "referencia": "Tema 47, 3.2 Atribuciones"
+  },
+  {
+    "id": "t47-p018",
+    "tema": 47,
+    "pregunta": "El Consejo Consultivo de Castilla y Leon emite dictamen preceptivo, entre otros casos, sobre:",
+    "opciones": [
+      "Proyectos de reforma del Estatuto de Autonomia",
+      "La eleccion de los Procuradores de las Cortes de Castilla y Leon",
+      "La aprobacion inicial de los presupuestos municipales",
+      "La designacion del Delegado Territorial en cada provincia"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye los proyectos de reforma del Estatuto entre los supuestos de dictamen preceptivo.",
+    "referencia": "Tema 47, 6.2 El Consejo Consultivo de Castilla y León"
   }
 ]

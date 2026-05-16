@@ -208,5 +208,33 @@
     "correcta": 0,
     "explicacion": "El tema indica que la tramitación de urgencia reduce los plazos a la mitad, salvo los relativos a la presentación de solicitudes y recursos.",
     "referencia": "Tema 15, 2.5 Términos y plazos (arts. 29-32 LPACAP)"
+  },
+  {
+    "id": "t15-p016",
+    "tema": 15,
+    "pregunta": "Según el art. 82 LPACAP, una vez instruido el procedimiento y antes de redactar la propuesta de resolución, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, puedan:",
+    "opciones": [
+      "Alegar y presentar los documentos y justificaciones que estimen pertinentes",
+      "Interponer recurso de alzada",
+      "Solicitar la revisión de oficio del acto",
+      "Formular exclusivamente prueba pericial"
+    ],
+    "correcta": 0,
+    "explicacion": "El trámite de audiencia sirve para que los interesados aleguen y presenten documentos y justificaciones antes de la resolución.",
+    "referencia": "Tema 15, 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
+  },
+  {
+    "id": "t15-p017",
+    "tema": 15,
+    "pregunta": "De acuerdo con el art. 82 LPACAP, el trámite de audiencia podrá omitirse cuando:",
+    "opciones": [
+      "La Administración considere suficiente el expediente, aunque existan hechos nuevos",
+      "No figuren en el procedimiento ni se tengan en cuenta otros hechos ni otras alegaciones que las aducidas por el interesado",
+      "El procedimiento se haya iniciado de oficio",
+      "El interesado no haya designado representante"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge expresamente esa excepción a la audiencia.",
+    "referencia": "Tema 15, 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
   }
 ]

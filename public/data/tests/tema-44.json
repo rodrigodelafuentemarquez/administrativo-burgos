@@ -278,5 +278,33 @@
     "correcta": 0,
     "explicacion": "El OCEX de Castilla y León es el Consejo de Cuentas.",
     "referencia": "Tema 44, 7.5 Los órganos de control externo autonómicos (OCEX)"
+  },
+  {
+    "id": "t44-p021",
+    "tema": 44,
+    "pregunta": "El art. 134 CE establece que, si los Presupuestos Generales del Estado no se aprobaran antes del primer dia del ejercicio economico correspondiente:",
+    "opciones": [
+      "Quedaran automaticamente anulados los del ejercicio anterior",
+      "Se consideraran automaticamente prorrogados los del ejercicio anterior hasta la aprobacion de los nuevos",
+      "El Gobierno debera aprobarlos por decreto-ley",
+      "Las Cortes Generales perderan la competencia presupuestaria durante ese ejercicio"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge la prorroga automatica de los presupuestos anteriores.",
+    "referencia": "art. 134 CE"
+  },
+  {
+    "id": "t44-p022",
+    "tema": 44,
+    "pregunta": "Conforme al Tema 44, los anticipos de tesoreria permiten al Gobierno, con la autorizacion correspondiente:",
+    "opciones": [
+      "Atender gastos urgentes antes de que se apruebe el nuevo presupuesto o cuando el vigente resulte insuficiente",
+      "Financiar con caracter ordinario cualquier ampliacion de plantillas",
+      "Sustituir definitivamente al credito extraordinario y al suplemento de credito",
+      "Evitar toda intervencion del organo legislativo en materia presupuestaria"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema presenta los anticipos de tesoreria como un instrumento excepcional para gastos urgentes.",
+    "referencia": "Tema 44, 6.7 Anticipos de tesorería"
   }
 ]

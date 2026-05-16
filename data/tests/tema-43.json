@@ -278,5 +278,33 @@
     "correcta": 0,
     "explicacion": "El RAT no tiene que publicarse, pero sí debe poder exhibirse ante la autoridad de control cuando lo requiera.",
     "referencia": "Tema 43, 9.2 El Registro de Actividades de Tratamiento (RAT)"
+  },
+  {
+    "id": "t43-p021",
+    "tema": 43,
+    "pregunta": "Segun la Ley 19/2013, de 9 de diciembre, el derecho de acceso a la informacion publica podra ser limitado cuando el acceso suponga un perjuicio para:",
+    "opciones": [
+      "La seguridad nacional",
+      "La mera incomodidad administrativa del organo requerido",
+      "La critica politica al Gobierno",
+      "El interes estadistico del solicitante"
+    ],
+    "correcta": 0,
+    "explicacion": "La seguridad nacional aparece expresamente entre los limites legales al derecho de acceso.",
+    "referencia": "Tema 43, 3.3 Límites al derecho de acceso"
+  },
+  {
+    "id": "t43-p022",
+    "tema": 43,
+    "pregunta": "Frente a una resolucion expresa o presunta en materia de acceso a la informacion publica podra interponerse, con caracter potestativo y previo a la via contencioso-administrativa, reclamacion ante:",
+    "opciones": [
+      "La Agencia Espanola de Proteccion de Datos",
+      "El Consejo de Transparencia y Buen Gobierno",
+      "El Tribunal de Cuentas",
+      "La Comision General de Secretarios de Estado y Subsecretarios"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye esa reclamacion potestativa al CTBG.",
+    "referencia": "Tema 43, 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
   }
 ]
