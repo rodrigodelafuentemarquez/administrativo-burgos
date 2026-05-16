@@ -15,12 +15,24 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   const mode = root?.dataset.mode ?? 'normal';
   const base = root?.dataset.base ?? '/';
 
-  const limitOptions = [10, 20, 30, 50, 100];
-  const failLimitOptions = [0, ...limitOptions];
+  const practiceLimitOptions = [10, 20, 30, 50, 70, 100];
+  const officialLimitOptions = [70, 100];
+  const failLimitOptions = [0, ...practiceLimitOptions];
+  const timerOptions = [0, 60, 75, 90, 120];
+  const penaltyOptions = [
+    { value: 0, label: 'Sin penalización' },
+    { value: 0.25, label: 'Penalización -0,25 por fallo' },
+    { value: 0.33, label: 'Penalización -0,33 por fallo' },
+  ];
   let allQuestions = [];
   let selected = [];
   let currentSessionMode = 'practice';
   let currentFailFilter = 'mixed';
+  let currentPenalty = 0;
+  let currentTimerMinutes = 0;
+  let activeTimerId = null;
+  let sessionFinished = false;
+  let finishReason = 'manual';
 
   function normalizeQuestion(item, fallbackTema, index) {
     if (Array.isArray(item)) {
@@ -65,6 +77,126 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 
   function shuffle(arr) {
     return arr.map((v) => [Math.random(), v]).sort((a,b) => a[0]-b[0]).map((x) => x[1]);
+  }
+
+  function clearActiveTimer() {
+    if (activeTimerId) {
+      window.clearInterval(activeTimerId);
+      activeTimerId = null;
+    }
+  }
+
+  function formatDuration(totalSeconds) {
+    const safe = Math.max(0, Number(totalSeconds) || 0);
+    const minutes = Math.floor(safe / 60);
+    const seconds = safe % 60;
+    return `${String(minutes).padStart(2, '0')}:${String(seconds).padStart(2, '0')}`;
+  }
+
+  function formatPenalty(value) {
+    return String(Number(value || 0).toFixed(2)).replace('.', ',');
+  }
+
+  function getLimitChoices(sessionMode) {
+    return sessionMode === 'official' ? officialLimitOptions : practiceLimitOptions;
+  }
+
+  function sortByRecurringDifficulty(items) {
+    return [...items].sort((a, b) => {
+      if ((b.fallos ?? 1) !== (a.fallos ?? 1)) return (b.fallos ?? 1) - (a.fallos ?? 1);
+      return (b.lastFailedAt ?? 0) - (a.lastFailedAt ?? 0);
+    });
+  }
+
+  function buildSmartSelection(limit) {
+    const desired = limit > 0 ? Math.min(limit, allQuestions.length) : allQuestions.length;
+    if (!desired) return [];
+
+    const availableById = new Map(allQuestions.map((item) => [item.id, item]));
+    const normalizedFails = readFails()
+      .map((item, index) => normalizeQuestion(item, Number(item?.tema ?? 0), index))
+      .filter(Boolean)
+      .filter((item) => availableById.has(item.id));
+
+    const recurrent = sortByRecurringDifficulty(
+      normalizedFails
+        .filter((item) => Number(item.fallos ?? 1) >= 2)
+        .map((item) => ({ ...availableById.get(item.id), fallos: item.fallos, firstFailedAt: item.firstFailedAt, lastFailedAt: item.lastFailedAt }))
+    );
+    const failedIdSet = new Set(normalizedFails.map((item) => item.id));
+    const pickedIds = new Set();
+    const recurrentTarget = Math.min(
+      recurrent.length,
+      desired >= 20 ? Math.max(6, Math.round(desired * 0.35)) : Math.max(3, Math.round(desired * 0.3)),
+    );
+
+    const recurrentPicked = recurrent.slice(0, recurrentTarget);
+    recurrentPicked.forEach((item) => pickedIds.add(item.id));
+
+    const freshPool = shuffle(allQuestions.filter((item) => !failedIdSet.has(item.id) && !pickedIds.has(item.id)));
+    const seenPool = shuffle(allQuestions.filter((item) => failedIdSet.has(item.id) && !pickedIds.has(item.id)));
+    const reservePool = shuffle(allQuestions.filter((item) => !pickedIds.has(item.id)));
+
+    const ordered = [];
+    const recurrentQueue = [...recurrentPicked];
+    const freshQueue = [...freshPool];
+
+    while (ordered.length < desired && (recurrentQueue.length || freshQueue.length)) {
+      if (recurrentQueue.length) ordered.push(recurrentQueue.shift());
+      if (ordered.length < desired && freshQueue.length) ordered.push(freshQueue.shift());
+      if (ordered.length < desired && freshQueue.length) ordered.push(freshQueue.shift());
+    }
+
+    for (const pool of [seenPool, reservePool]) {
+      while (ordered.length < desired && pool.length) {
+        const next = pool.shift();
+        if (!next || pickedIds.has(next.id)) continue;
+        ordered.push(next);
+        pickedIds.add(next.id);
+      }
+    }
+
+    return ordered.slice(0, desired);
+  }
+
+  function syncLimitOptions(defaultValue) {
+    const modeSelect = document.getElementById('session-mode');
+    const limitSelect = document.getElementById('limit');
+    if (!modeSelect || !limitSelect) return;
+
+    const sessionMode = modeSelect.value ?? 'practice';
+    const options = getLimitChoices(sessionMode);
+    const preferred = Number(defaultValue ?? limitSelect.value ?? (sessionMode === 'official' ? 70 : 20));
+    limitSelect.innerHTML = options
+      .map((n) => `<option value="${n}">${n}</option>`)
+      .join('');
+    limitSelect.value = String(options.includes(preferred) ? preferred : (sessionMode === 'official' ? 70 : 20));
+  }
+
+  function startTimer(totalMinutes) {
+    clearActiveTimer();
+    if (!(totalMinutes > 0)) return;
+
+    const timerNode = document.getElementById('timer-display');
+    if (!timerNode) return;
+
+    const startedAt = Date.now();
+    const totalSeconds = Math.round(totalMinutes * 60);
+
+    const tick = () => {
+      const elapsedSeconds = Math.floor((Date.now() - startedAt) / 1000);
+      const remainingSeconds = Math.max(0, totalSeconds - elapsedSeconds);
+      timerNode.textContent = formatDuration(remainingSeconds);
+      timerNode.dataset.state = remainingSeconds <= 60 ? 'ending' : 'running';
+      if (remainingSeconds <= 0) {
+        clearActiveTimer();
+        finishReason = 'timeout';
+        finishTest(new Event('submit'));
+      }
+    };
+
+    tick();
+    activeTimerId = window.setInterval(tick, 1000);
   }
 
   function renderEmpty(message, help = '') {
@@ -118,9 +250,9 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 
     root.innerHTML = `
       <div class="test-hero mb-4">
-        <span class="test-kicker">Modo práctica</span>
+        <span class="test-kicker">Modo test</span>
         <h2 class="display-6 mb-2">Configurar test</h2>
-        <p class="text-body-secondary mb-0">Elige temas, tamaño y formato. Los fallos se guardan para repetirlos y las estadísticas alimentan el progreso por tema.</p>
+        <p class="text-body-secondary mb-0">Elige temas, tamaño y formato. Puedes alternar práctica, simulacro oficial o repaso inteligente con penalización y temporizador opcionales.</p>
       </div>
       <div class="test-config">
         <fieldset class="test-panel">
@@ -148,14 +280,25 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           <select class="form-select mb-3" id="session-mode">
             <option value="practice" selected>Práctica guiada</option>
             <option value="official">Simulacro oficial</option>
+            <option value="smart">Repaso inteligente</option>
           </select>
-          <p class="text-body-secondary small mb-3">Práctica muestra la referencia durante el examen. Simulacro la oculta hasta corregir y se siente más parecido a un examen real.</p>
+          <p class="text-body-secondary small mb-3">Práctica muestra la referencia durante el examen. Simulacro la oculta hasta corregir. Repaso inteligente mezcla preguntas nuevas con fallos recurrentes del mismo bloque.</p>
           <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
-          <select class="form-select" id="limit">${limitOptions.map((n) => `<option value="${n}" ${n === 20 ? 'selected' : ''}>${n}</option>`).join('')}</select>
-          <p class="text-body-secondary small mt-2 mb-0">Si no hay suficientes preguntas en los temas elegidos, el test usará todas las disponibles.</p>
+          <select class="form-select mb-3" id="limit"></select>
+          <label class="form-label fw-semibold" for="timer-minutes">Temporizador orientativo</label>
+          <select class="form-select mb-3" id="timer-minutes">${timerOptions.map((n) => `<option value="${n}" ${n === 0 ? 'selected' : ''}>${n === 0 ? 'Sin temporizador' : `${n} minutos`}</option>`).join('')}</select>
+          <label class="form-label fw-semibold" for="penalty-mode">Corrección</label>
+          <select class="form-select" id="penalty-mode">${penaltyOptions.map((option) => `<option value="${option.value}" ${option.value === 0 ? 'selected' : ''}>${option.label}</option>`).join('')}</select>
+          <p class="text-body-secondary small mt-2 mb-0">La penalización solo afecta a la nota mostrada del intento. El progreso por tema sigue contando aciertos reales. Si no hay suficientes preguntas, se usan todas las disponibles.</p>
           <button class="btn btn-primary btn-lg w-100 mt-3" id="start" type="button">Empezar test</button>
         </div>
       </div>`;
+
+    syncLimitOptions(20);
+
+    document.getElementById('session-mode')?.addEventListener('change', () => {
+      syncLimitOptions();
+    });
 
     document.getElementById('select-all-topics')?.addEventListener('click', () => {
       root.querySelectorAll('input[type=checkbox]').forEach((el) => {
@@ -188,38 +331,58 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         renderEmpty('No hay preguntas válidas en los temas seleccionados.', 'Revisa los JSON de test o prueba con otros temas.');
         return;
       }
+      currentPenalty = Number(document.getElementById('penalty-mode')?.value ?? '0') || 0;
+      currentTimerMinutes = Number(document.getElementById('timer-minutes')?.value ?? '0') || 0;
       startTest(Number(document.getElementById('limit')?.value ?? '10'), currentSessionMode);
     });
   }
 
   function startTest(limit, sessionMode = currentSessionMode) {
     currentSessionMode = sessionMode;
+    sessionFinished = false;
+    finishReason = 'manual';
+    clearActiveTimer();
 
     if (mode === 'fails') {
+      currentPenalty = 0;
+      currentTimerMinutes = 0;
       allQuestions = getFailPool(currentFailFilter);
       if (!allQuestions.length) {
         renderEmpty('No hay fallos en ese bloque.', 'Prueba con otro filtro o vuelve a la práctica general para generar nuevas preguntas falladas.');
         return;
       }
       selected = allQuestions.slice(0, limit > 0 ? limit : allQuestions.length);
+    } else if (currentSessionMode === 'smart') {
+      selected = buildSmartSelection(limit);
     } else {
       selected = shuffle(allQuestions);
       if (limit > 0) selected = selected.slice(0, limit);
     }
 
     const isOfficial = currentSessionMode === 'official' && mode !== 'fails';
-    const heroLabel = mode === 'fails' ? 'Repaso de fallos' : (isOfficial ? 'Simulacro oficial' : 'Test aleatorio');
+    const isSmart = currentSessionMode === 'smart' && mode !== 'fails';
+    const heroLabel = mode === 'fails' ? 'Repaso de fallos' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio'));
     const heroText = mode === 'fails'
       ? 'Las preguntas se priorizan por recurrencia de error. Si aciertas una aquí, desaparece de fallos.'
       : (isOfficial
         ? 'Sin pistas durante el examen: la referencia normativa solo aparece al corregir.'
-        : 'Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.');
+        : (isSmart
+          ? 'Combina preguntas nuevas con fallos recurrentes del bloque elegido para repasar sin repetir siempre lo mismo.'
+          : 'Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.'));
+    const timerBadge = mode !== 'fails' && currentTimerMinutes > 0
+      ? `<span class="badge text-bg-dark" id="timer-display">${formatDuration(Math.round(currentTimerMinutes * 60))}</span>`
+      : '';
+    const penaltyBadge = mode !== 'fails' && currentPenalty > 0
+      ? `<span class="badge text-bg-secondary">Penalización -${formatPenalty(currentPenalty)} por fallo</span>`
+      : '';
+    const modeBadge = isSmart ? '<span class="badge text-bg-info">Nuevas + recurrentes</span>' : '';
 
     root.innerHTML = `
       <div class="test-hero mb-4">
         <span class="test-kicker">${heroLabel}</span>
         <h2 class="display-6 mb-2">${selected.length} preguntas</h2>
         <p class="text-body-secondary mb-0">${heroText}</p>
+        ${(timerBadge || penaltyBadge || modeBadge) ? `<div class="d-flex flex-wrap gap-2 mt-3">${modeBadge}${penaltyBadge}${timerBadge}</div>` : ''}
       </div>
       <form id="quiz" class="test-question-list"></form>
       <div class="test-actions sticky-bottom py-3 mt-4">
@@ -251,10 +414,16 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
 
     document.getElementById('finish')?.addEventListener('click', finishTest);
+    if (mode !== 'fails' && currentTimerMinutes > 0) {
+      startTimer(currentTimerMinutes);
+    }
   }
 
   function finishTest(event) {
-    event.preventDefault();
+    event?.preventDefault?.();
+    if (sessionFinished) return;
+    sessionFinished = true;
+    clearActiveTimer();
     const answers = new Map();
     let ok = 0;
     const failed = [];
@@ -282,9 +451,18 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     }
 
     const percent = selected.length ? Math.round((ok / selected.length) * 100) : 0;
+    const wrong = failed.length;
+    const netScore = Number((ok - (wrong * currentPenalty)).toFixed(2));
+    const netPercent = selected.length ? Math.round((netScore / selected.length) * 100) : 0;
     const failMessage = mode === 'fails'
       ? (failed.length ? `${failed.length} pregunta(s) siguen en fallos.` : 'Has vaciado este bloque de fallos.')
       : (failed.length ? `${failed.length} pregunta(s) guardada(s) en fallos.` : 'Sin fallos. Limpio como una patena.');
+    const timingMessage = finishReason === 'timeout'
+      ? '<p class="text-warning-emphasis mb-0 mt-2">El temporizador ha llegado a cero y el test se ha corregido automáticamente.</p>'
+      : '';
+    const penaltyMessage = mode !== 'fails' && currentPenalty > 0
+      ? `<p class="text-body-secondary mb-0 mt-2">Nota neta con penalización de ${formatPenalty(currentPenalty)} por fallo: <strong>${String(netScore.toFixed(2)).replace('.', ',')}</strong> sobre ${selected.length} (${netPercent}%).</p>`
+      : '';
 
     root.innerHTML = `
       <div class="result-summary card border-0 shadow-sm mb-4">
@@ -294,6 +472,8 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             <div>
               <h2 class="display-6 mb-2">${ok}/${selected.length} correctas</h2>
               <p class="text-body-secondary mb-lg-0">${failMessage}</p>
+              ${penaltyMessage}
+              ${timingMessage}
             </div>
             <div class="score-ring" style="--score:${percent}%">${percent}%</div>
           </div>
