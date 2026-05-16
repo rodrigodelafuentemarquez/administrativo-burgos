@@ -548,6 +548,24 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         display: grid;
         gap: .65rem;
       }
+      .progress-streak {
+        display: flex;
+        flex-wrap: wrap;
+        gap: .45rem;
+        align-items: center;
+      }
+      .progress-dot {
+        display: inline-block;
+        width: .85rem;
+        height: .85rem;
+        border-radius: 999px;
+        background: var(--bs-secondary-bg);
+        border: 1px solid rgba(255, 255, 255, .08);
+      }
+      .progress-dot.tone-success { background: var(--bs-success); }
+      .progress-dot.tone-primary { background: var(--bd-violet); }
+      .progress-dot.tone-warning { background: var(--bs-warning); }
+      .progress-dot.tone-danger { background: var(--bs-danger); }
       .answer-option:has(input:checked) {
         color: var(--bs-emphasis-color);
         background: rgba(var(--bd-violet-rgb), .22);

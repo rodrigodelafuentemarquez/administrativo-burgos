@@ -3,20 +3,83 @@ import Layout from '../layouts/Layout.astro';
 ---
 <Layout title="Progreso">
   <h1>Progreso</h1>
-  <section id="stats" class="grid"></section>
+  <section id="stats" class="test-question-list"></section>
 
   <script type="module">
     import { readStats } from '../utils/storage';
     const root = document.getElementById('stats');
     const stats = readStats();
     const temas = Object.entries(stats).sort((a,b) => Number(a[0]) - Number(b[0]));
+
+    const getBand = (pct) => {
+      if (pct >= 80) return { label: 'Muy sólido', cls: 'success' };
+      if (pct >= 65) return { label: 'Bien encaminado', cls: 'primary' };
+      if (pct >= 50) return { label: 'A vigilar', cls: 'warning' };
+      return { label: 'Flojo', cls: 'danger' };
+    };
+
+    const getTrend = (recent = []) => {
+      if (recent.length < 2) return { label: 'Sin tendencia suficiente', cls: 'secondary' };
+      const last = recent[recent.length - 1];
+      const prev = recent.slice(0, -1);
+      const avg = Math.round(prev.reduce((sum, value) => sum + value, 0) / prev.length);
+      const delta = last - avg;
+      if (delta >= 8) return { label: `En subida (+${delta})`, cls: 'success' };
+      if (delta <= -8) return { label: `Bajando (${delta})`, cls: 'danger' };
+      return { label: 'Estable', cls: 'secondary' };
+    };
+
     if (!temas.length) {
       root.innerHTML = '<p class="muted">Aún no hay estadísticas. Haz un test primero.</p>';
     } else {
-      root.innerHTML = temas.map(([tema, v]) => {
+      const totalPreguntas = temas.reduce((sum, [, v]) => sum + v.total, 0);
+      const totalCorrectas = temas.reduce((sum, [, v]) => sum + v.correctas, 0);
+      const totalPct = totalPreguntas ? Math.round((totalCorrectas / totalPreguntas) * 100) : 0;
+
+      const summary = `
+        <article class='result-summary card border-0 shadow-sm'>
+          <div class='card-body p-4 p-lg-5'>
+            <span class='test-kicker'>Resumen general</span>
+            <div class='d-lg-flex align-items-center justify-content-between gap-4'>
+              <div>
+                <h2 class='display-6 mb-2'>${totalCorrectas}/${totalPreguntas} correctas</h2>
+                <p class='text-body-secondary mb-lg-0'>${temas.length} temas con actividad registrada.</p>
+              </div>
+              <div class='score-ring' style='--score:${totalPct}%'>${totalPct}%</div>
+            </div>
+          </div>
+        </article>`;
+
+      const cards = temas.map(([tema, v]) => {
         const pct = v.total ? Math.round((v.correctas / v.total) * 100) : 0;
-        return `<article class='card'><h2>Tema ${tema}</h2><p>${v.correctas}/${v.total} correctas</p><p><strong>${pct}%</strong> de acierto</p></article>`;
+        const band = getBand(pct);
+        const trend = getTrend(v.recent ?? []);
+        const recent = (v.recent ?? []).slice(-8);
+        return `
+          <article class='card border-0 shadow-sm'>
+            <div class='card-body p-4'>
+              <div class='d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3'>
+                <div>
+                  <h2 class='h4 mb-1'>Tema ${tema}</h2>
+                  <p class='text-body-secondary mb-0'>${v.correctas}/${v.total} correctas acumuladas</p>
+                </div>
+                <span class='badge text-bg-${band.cls}'>${band.label}</span>
+              </div>
+              <div class='d-flex flex-wrap align-items-center gap-3 mb-3'>
+                <strong class='fs-4'>${pct}%</strong>
+                <span class='badge text-bg-${trend.cls}'>${trend.label}</span>
+              </div>
+              <div class='progress-streak mb-2'>
+                ${recent.length
+                  ? recent.map((value) => `<span class='progress-dot tone-${value >= 80 ? 'success' : value >= 65 ? 'primary' : value >= 50 ? 'warning' : 'danger'}' title='${value}%'></span>`).join('')
+                  : `<span class='text-body-secondary small'>Sin historial reciente.</span>`}
+              </div>
+              <p class='text-body-secondary small mb-0'>Ultimos resultados guardados por tema: ${recent.length ? recent.join('% · ') + '%' : 'sin datos'}.</p>
+            </div>
+          </article>`;
       }).join('');
+
+      root.innerHTML = summary + cards;
     }
   </script>
 </Layout>
