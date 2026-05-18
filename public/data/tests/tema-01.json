@@ -44,7 +44,7 @@
   {
     "id": "t01-p004",
     "tema": 1,
-    "pregunta": "¿Qué recoge el artículo 14 de la Constitución?",
+    "pregunta": "Según el art. 14 CE, ¿qué principio se reconoce expresamente?",
     "opciones": [
       "El derecho a la educación",
       "El principio de igualdad",
@@ -128,7 +128,7 @@
   {
     "id": "t01-p010",
     "tema": 1,
-    "pregunta": "¿Qué procedimiento de reforma constitucional exige el cuando la reforma afecta al Título Preliminar, al Título II o a la Sección.ª del Título I?",
+    "pregunta": "Según la Constitución, ¿qué procedimiento de reforma se aplica cuando la revisión afecta al Título Preliminar, al Título II o a la Sección 1.ª del Capítulo II del Título I?",
     "opciones": [
       "El procedimiento legislativo ordinario",
       "El procedimiento agravado del art. 168 CE",
@@ -170,12 +170,12 @@
   {
     "id": "t01-p013",
     "tema": 1,
-    "pregunta": "Según el art. 15 CE, ¿qué derecho prohíbe la pena de muerte salvo en tiempo de guerra?",
+    "pregunta": "Según el art. 15 CE, ¿cuál de los siguientes derechos incluye la prohibición de la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra?",
     "opciones": [
-      "Art. 15 CE",
-      "Art. 16 CE",
-      "Art. 18 CE",
-      "Art. 19 CE"
+      "El derecho a la vida y a la integridad física y moral",
+      "La libertad ideológica, religiosa y de culto",
+      "El derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+      "La libertad de residencia y circulación"
     ],
     "correcta": 0,
     "explicacion": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
