@@ -5,8 +5,42 @@ import Layout from '../layouts/Layout.astro';
   <h1>Progreso</h1>
   <section id="stats" class="test-question-list"></section>
 
-  <script type="module">
-    import { readStats } from '../utils/storage';
+  <script>
+    const STATS_KEY = 'oposicion-stats-v1';
+
+    const normalizeTemaStats = (value) => {
+      const raw = (value && typeof value === 'object') ? value : {};
+      const total = Number(raw.total ?? 0);
+      const correctas = Number(raw.correctas ?? 0);
+      const recent = Array.isArray(raw.recent)
+        ? raw.recent
+            .map((entry) => Number(entry))
+            .filter((entry) => Number.isFinite(entry))
+            .slice(-8)
+        : [];
+      const updatedAt = Number(raw.updatedAt ?? 0) || null;
+
+      return {
+        total: Number.isFinite(total) ? total : 0,
+        correctas: Number.isFinite(correctas) ? correctas : 0,
+        recent,
+        updatedAt,
+      };
+    };
+
+    const readStats = () => {
+      if (typeof localStorage === 'undefined') return {};
+      try {
+        const raw = JSON.parse(localStorage.getItem(STATS_KEY) ?? '{}');
+        if (!raw || typeof raw !== 'object') return {};
+        return Object.fromEntries(
+          Object.entries(raw).map(([key, value]) => [key, normalizeTemaStats(value)])
+        );
+      } catch {
+        return {};
+      }
+    };
+
     const root = document.getElementById('stats');
     const stats = readStats();
     const temas = Object.entries(stats).sort((a,b) => Number(a[0]) - Number(b[0]));
