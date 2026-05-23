@@ -2,7 +2,7 @@
   {
     "id": "t03-p001",
     "tema": 3,
-    "pregunta": "En una Monarquía parlamentaria el Rey:",
+    "pregunta": "En una Monarquía parlamentaria, el Rey:",
     "opciones": [
       "gobierna directamente y responde ante las Cortes",
       "reina pero no gobierna",
@@ -208,5 +208,19 @@
     "correcta": 0,
     "explicacion": "El tema señala que esta función internacional del Rey exige autorización de las Cortes Generales.",
     "referencia": "Tema 3, 6.2 Funciones internacionales (art. 63 CE)"
+  },
+  {
+    "id": "t03-p016",
+    "tema": 3,
+    "pregunta": "Según el art. 61 CE, ¿ante quién presta juramento el Rey al ser proclamado?",
+    "opciones": [
+      "Ante las Cortes Generales",
+      "Ante el Gobierno en Consejo de Ministros",
+      "Ante el Tribunal Constitucional",
+      "Ante el Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que el Rey presta juramento ante las Cortes Generales en sesión conjunta.",
+    "referencia": "Tema 3, 5. Proclamación y juramento (art. 61 CE)"
   }
 ]

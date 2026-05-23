@@ -208,5 +208,19 @@
     "correcta": 1,
     "explicacion": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE.",
     "referencia": "Tema 11, 1.2 El principio de legalidad"
+  },
+  {
+    "id": "t11-p016",
+    "tema": 11,
+    "pregunta": "Según el art. 81.2 CE, la aprobación, modificación o derogación de una ley orgánica exige:",
+    "opciones": [
+      "mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto",
+      "mayoría simple del Congreso y del Senado",
+      "mayoría de dos tercios del Senado",
+      "aprobación por decreto-ley"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto.",
+    "referencia": "Tema 11, 4.2 Ley Orgánica (art. 81 CE)"
   }
 ]

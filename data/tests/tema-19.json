@@ -16,7 +16,7 @@
   {
     "id": "t19-p002",
     "tema": 19,
-    "pregunta": "¿Qué artículo de la Constitución menciona como fundamento del control judicial de la Administración?",
+    "pregunta": "Según el Tema 19, ¿qué preceptos constitucionales se citan como fundamento del control judicial de la Administración?",
     "opciones": [
       "Art. 24 CE y art. 106.1 CE",
       "Art. 137 CE y art. 141 CE",
@@ -208,5 +208,19 @@
     "correcta": 0,
     "explicacion": "El tema explica esa ampliación funcional de la jurisdicción.",
     "referencia": "Tema 19, 1.2 Carácter revisor y plenario"
+  },
+  {
+    "id": "t19-p016",
+    "tema": 19,
+    "pregunta": "Según el art. 46 LJCA, cuando el acto es presunto por silencio administrativo, el plazo de interposición del recurso contencioso-administrativo es de:",
+    "opciones": [
+      "6 meses",
+      "2 meses",
+      "1 año",
+      "15 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario fija 6 meses para recurrir los actos presuntos por silencio administrativo.",
+    "referencia": "Tema 19, 3.3 Límite temporal: el plazo de interposición (art. 46 LJCA)"
   }
 ]

@@ -208,5 +208,19 @@
     "correcta": 1,
     "explicacion": "El temario indica que el Gobierno puede impugnar disposiciones y resoluciones autonómicas con efecto suspensivo automático de hasta 5 meses.",
     "referencia": "Tema 2, 1.4 Competencias"
+  },
+  {
+    "id": "t02-p016",
+    "tema": 2,
+    "pregunta": "Según el Tema 2, el Presidente del Tribunal Constitucional es elegido por los propios magistrados en Pleno para un mandato de:",
+    "opciones": [
+      "3 años, renovable una sola vez",
+      "5 años, sin posibilidad de renovación",
+      "9 años, renovable indefinidamente",
+      "2 años, sin posibilidad de renovación"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario fija un mandato de 3 años para la Presidencia del TC, renovable una sola vez.",
+    "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
   }
 ]

@@ -208,5 +208,19 @@
     "correcta": 1,
     "explicacion": "El tema enumera ese contenido del perfil del contratante.",
     "referencia": "Tema 20, 7.4 El Perfil del Contratante (art. 63 LCSP)"
+  },
+  {
+    "id": "t20-p016",
+    "tema": 20,
+    "pregunta": "Según el Tema 20, una vez transcurrido el plazo de garantía sin incidencias, procede:",
+    "opciones": [
+      "la devolución o cancelación de la garantía definitiva",
+      "la resolución automática del contrato por incumplimiento",
+      "la imposición de penalidades al contratista",
+      "la necesidad de una nueva licitación"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario vincula el transcurso del plazo de garantía sin incidencias con la devolución o cancelación de la garantía definitiva.",
+    "referencia": "Tema 20, 5.1 Extinción por cumplimiento (arts. 210-213 LCSP)"
   }
 ]
