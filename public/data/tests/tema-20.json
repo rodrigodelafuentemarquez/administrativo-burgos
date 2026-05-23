@@ -236,5 +236,47 @@
     "correcta": 0,
     "explicacion": "El tema fija el umbral de 15.000 euros para suministros y servicios en los contratos menores.",
     "referencia": "Tema 20, 2.4 Contratos menores (art. 118 LCSP)"
+  },
+  {
+    "id": "t20-p018",
+    "tema": 20,
+    "pregunta": "Segun el art. 16 LCSP, son contratos de suministro los que tienen por objeto:",
+    "opciones": [
+      "La realizacion de prestaciones de hacer que no sean obras ni suministros",
+      "La adquisicion, arrendamiento financiero, arrendamiento con o sin opcion de compra, o adquisicion de bienes muebles",
+      "La gestion de un servicio publico asumiendo el contratista el riesgo operacional",
+      "La ejecucion de una obra o de alguno de los trabajos del Anexo I de la LCSP"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define el contrato de suministro mediante esas operaciones sobre bienes muebles.",
+    "referencia": "Tema 20, 2.2.3 Contrato de suministro (arts. 16 y 272-283 LCSP)"
+  },
+  {
+    "id": "t20-p019",
+    "tema": 20,
+    "pregunta": "De acuerdo con el Tema 20, si un contrato abarca prestaciones correspondientes a distintos tipos contractuales, su regimen juridico se determinara atendiendo a:",
+    "opciones": [
+      "La voluntad unilateral del contratista",
+      "La cuantia economica mas baja del contrato",
+      "La prestacion principal del contrato",
+      "La decision de la Mesa de Contratacion"
+    ],
+    "correcta": 2,
+    "explicacion": "En los contratos mixtos, el tema indica que el regimen se determina por la prestacion principal.",
+    "referencia": "Tema 20, 2.2.5 Contrato mixto (art. 18 LCSP)"
+  },
+  {
+    "id": "t20-p020",
+    "tema": 20,
+    "pregunta": "Segun el Tema 20, cuando la Administracion incurra en demora en el pago superior a cuatro meses, podra instar la resolucion del contrato:",
+    "opciones": [
+      "El interventor de la entidad",
+      "El organo de contratacion de oficio",
+      "El contratista",
+      "La Mesa de Contratacion"
+    ],
+    "correcta": 2,
+    "explicacion": "La demora de la Administracion en el pago superior a cuatro meses figura como causa de resolucion a instancia del contratista.",
+    "referencia": "Tema 20, 5.2 Extincion por resolucion (art. 211 LCSP)"
   }
 ]

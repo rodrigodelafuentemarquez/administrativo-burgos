@@ -63,3 +63,4 @@ Este documento resume las preguntas de los HTML reales revisados en `/Users/rodr
 - Los temas con mejor rendimiento para seguir ampliando desde test reales son `15`, `16`, `20`, `41`, `46` y `47`.
 - En `20` y `46` merece la pena una segunda ampliacion porque los HTML reales tienen varias preguntas muy reutilizables.
 - En `41` hay material suficiente para una tanda especifica de instituciones y procedimientos de la Union Europea.
+- Esta segunda pasada ya ha reforzado especialmente `20`, `41` y `46`, que eran los tres bloques con mejor encaje entre test reales y temario propio.

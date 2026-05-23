@@ -320,5 +320,47 @@
     "correcta": 2,
     "explicacion": "El Consejo de Europa no es una institucion de la UE; el art. 13 TUE enumera siete instituciones propias de la Union.",
     "referencia": "Tema 41, 3.1 El marco institucional (art. 13 TUE)"
+  },
+  {
+    "id": "t41-p024",
+    "tema": 41,
+    "pregunta": "De acuerdo con el art. 2 TUE y con el Tema 41, la existencia de una violacion grave y persistente de los valores de la Union por un Estado miembro puede ser constatada por:",
+    "opciones": [
+      "El Parlamento Europeo por mayoria simple",
+      "La Comision Europea por decision colegiada",
+      "El Consejo Europeo",
+      "El Comite de las Regiones"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema atribuye expresamente al Consejo Europeo esa funcion en relacion con los valores de la Union.",
+    "referencia": "Tema 41, 3.2 Funciones"
+  },
+  {
+    "id": "t41-p025",
+    "tema": 41,
+    "pregunta": "Segun el Tema 41, el Parlamento Europeo es la unica institucion de la Union elegida directamente por sufragio universal cada:",
+    "opciones": [
+      "Cuatro anos",
+      "Cinco anos",
+      "Seis anos",
+      "Siete anos"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco anos.",
+    "referencia": "Tema 41, 5.1 Composicion y eleccion"
+  },
+  {
+    "id": "t41-p026",
+    "tema": 41,
+    "pregunta": "Conforme al Tema 41, la Comision Europea tiene el monopolio de la:",
+    "opciones": [
+      "Potestad jurisdiccional europea",
+      "Iniciativa legislativa",
+      "Aprobacion definitiva del presupuesto sin intervencion de otras instituciones",
+      "Reforma de los Tratados"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema destaca la posicion singular de la Comision por su monopolio de la iniciativa legislativa.",
+    "referencia": "Tema 41, 6.3 Funciones"
   }
 ]

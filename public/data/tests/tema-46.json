@@ -334,5 +334,61 @@
     "correcta": 1,
     "explicacion": "El tema indica expresamente que el incumplimiento de los servicios minimos puede generar responsabilidad disciplinaria.",
     "referencia": "Tema 46, 10.3 El derecho de huelga"
+  },
+  {
+    "id": "t46-p025",
+    "tema": 46,
+    "pregunta": "De acuerdo con el Tema 46, la condicion de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
+    "opciones": [
+      "Superacion del proceso selectivo, nombramiento por el organo competente y toma de posesion dentro del plazo establecido",
+      "Nombramiento provisional, periodo de prueba y evaluacion del desempeno",
+      "Superacion del concurso de traslados, adscripcion provisional y toma de posesion",
+      "Aprobacion de la OEP, publicacion en el BOCYL y juramento ante las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera de forma expresa esos tres requisitos sucesivos para adquirir la condicion de funcionario de carrera.",
+    "referencia": "Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p026",
+    "tema": 46,
+    "pregunta": "Segun el Tema 46, los sistemas selectivos del empleo publico en Castilla y Leon son:",
+    "opciones": [
+      "Oposicion, concurso-oposicion y concurso",
+      "Unicamente oposicion y libre designacion",
+      "Solo concurso de meritos y comision de servicios",
+      "Oposicion, adscripcion provisional y promocion interna"
+    ],
+    "correcta": 0,
+    "explicacion": "La LFPCYL y el TREBEP prevén oposicion, concurso-oposicion y concurso, aunque este ultimo con caracter excepcional.",
+    "referencia": "Tema 46, 4.4 Sistemas selectivos"
+  },
+  {
+    "id": "t46-p027",
+    "tema": 46,
+    "pregunta": "Conforme al Tema 46, dentro del codigo de conducta de los empleados publicos es un principio etico:",
+    "opciones": [
+      "Actuar con objetividad, integridad, neutralidad e imparcialidad",
+      "Aceptar tratos de favor cuando no generen perjuicio economico",
+      "Desobedecer instrucciones por mera discrepancia tecnica",
+      "Sustituir la publicidad por la confidencialidad como regla general"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge esos principios entre los deberes y pautas eticas del personal funcionario.",
+    "referencia": "Tema 46, 8.2 Deberes"
+  },
+  {
+    "id": "t46-p028",
+    "tema": 46,
+    "pregunta": "De acuerdo con el Tema 46, son objeto de negociacion colectiva, entre otras materias:",
+    "opciones": [
+      "La aplicacion del incremento de retribuciones y los planes de empleo y oferta de empleo publico",
+      "La imposicion individual de sanciones disciplinarias muy graves",
+      "La resolucion de los expedientes de incompatibilidades concretos",
+      "La designacion nominativa de los miembros de los tribunales selectivos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye expresamente esas materias entre las negociables en las Mesas de Negociacion.",
+    "referencia": "Tema 46, 10.2 Materias objeto de negociacion"
   }
 ]
