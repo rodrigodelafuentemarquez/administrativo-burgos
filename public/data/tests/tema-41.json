@@ -306,5 +306,19 @@
     "correcta": 1,
     "explicacion": "El tema indica que, si prospera la mocion de censura, la Comision en pleno debe dimitir.",
     "referencia": "Tema 41, 6.1 Composición y nombramiento"
+  },
+  {
+    "id": "t41-p023",
+    "tema": 41,
+    "pregunta": "Conforme al art. 13 TUE, cual de las siguientes entidades no forma parte del marco institucional de la Union Europea?",
+    "opciones": [
+      "El Tribunal de Justicia de la Union Europea",
+      "El Banco Central Europeo",
+      "El Consejo de Europa",
+      "El Tribunal de Cuentas"
+    ],
+    "correcta": 2,
+    "explicacion": "El Consejo de Europa no es una institucion de la UE; el art. 13 TUE enumera siete instituciones propias de la Union.",
+    "referencia": "Tema 41, 3.1 El marco institucional (art. 13 TUE)"
   }
 ]

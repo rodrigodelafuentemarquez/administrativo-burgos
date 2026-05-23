@@ -222,5 +222,19 @@
     "correcta": 1,
     "explicacion": "El tema indica que el Fiscal General del Estado es nombrado por el Rey, a propuesta del Gobierno y oído el CGPJ.",
     "referencia": "Tema 6, 8.3 El Fiscal General del Estado"
+  },
+  {
+    "id": "t06-p017",
+    "tema": 6,
+    "pregunta": "Segun el art. 117.3 CE, el ejercicio de la potestad jurisdiccional, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a:",
+    "opciones": [
+      "Las Cortes Generales",
+      "El Consejo General del Poder Judicial",
+      "Los Juzgados y Tribunales determinados por las leyes",
+      "El Ministerio Fiscal"
+    ],
+    "correcta": 2,
+    "explicacion": "La Constitucion atribuye en exclusiva la potestad jurisdiccional a los Juzgados y Tribunales establecidos por la ley.",
+    "referencia": "Tema 6, 1.2 La funcion jurisdiccional: juzgar y ejecutar lo juzgado (art. 117.3 CE)"
   }
 ]

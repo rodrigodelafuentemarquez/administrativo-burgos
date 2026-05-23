@@ -306,5 +306,33 @@
     "correcta": 1,
     "explicacion": "El tema limita el personal eventual a puestos de confianza o asesoramiento y excluye el ejercicio de potestades administrativas.",
     "referencia": "Tema 46, 2.3 Personal eventual"
+  },
+  {
+    "id": "t46-p023",
+    "tema": 46,
+    "pregunta": "De acuerdo con el Tema 46, cual de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
+    "opciones": [
+      "La negociacion colectiva",
+      "La libre eleccion del puesto sin procedimiento de provision",
+      "La percepcion automatica del complemento de productividad",
+      "La inamovilidad en cualquier puesto concreto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye la negociacion colectiva entre los derechos individuales de ejercicio colectivo.",
+    "referencia": "Tema 46, 8.1 Derechos"
+  },
+  {
+    "id": "t46-p024",
+    "tema": 46,
+    "pregunta": "Segun el Tema 46, el incumplimiento de los servicios minimos en caso de huelga por parte del personal al servicio de la Administracion:",
+    "opciones": [
+      "No produce consecuencia alguna al tratarse del ejercicio de un derecho fundamental",
+      "Puede dar lugar a responsabilidad disciplinaria",
+      "Supone automaticamente la perdida de la condicion de funcionario",
+      "Solo puede sancionarse penalmente"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica expresamente que el incumplimiento de los servicios minimos puede generar responsabilidad disciplinaria.",
+    "referencia": "Tema 46, 10.3 El derecho de huelga"
   }
 ]

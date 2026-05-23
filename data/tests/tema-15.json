@@ -236,5 +236,19 @@
     "correcta": 1,
     "explicacion": "El tema recoge expresamente esa excepción a la audiencia.",
     "referencia": "Tema 15, 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
+  },
+  {
+    "id": "t15-p018",
+    "tema": 15,
+    "pregunta": "De acuerdo con el tema y con el art. 61 LPACAP, la iniciacion de oficio del procedimiento por peticion razonada de otros organos se produce cuando:",
+    "opciones": [
+      "Un organo administrativo comunica al competente la existencia de circunstancias que justifican la iniciacion del procedimiento",
+      "El interesado renuncia expresamente a sus derechos",
+      "El organo competente dicta directamente la resolucion final",
+      "La Administracion sustituye el tramite de audiencia por una consulta publica"
+    ],
+    "correcta": 0,
+    "explicacion": "La peticion razonada consiste en la comunicacion a otro organo competente de hechos o circunstancias que justifican la iniciacion de oficio.",
+    "referencia": "Tema 15, 2.2 Iniciacion de oficio"
   }
 ]

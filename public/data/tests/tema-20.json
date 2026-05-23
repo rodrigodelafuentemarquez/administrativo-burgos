@@ -222,5 +222,19 @@
     "correcta": 0,
     "explicacion": "El temario vincula el transcurso del plazo de garantía sin incidencias con la devolución o cancelación de la garantía definitiva.",
     "referencia": "Tema 20, 5.1 Extinción por cumplimiento (arts. 210-213 LCSP)"
+  },
+  {
+    "id": "t20-p017",
+    "tema": 20,
+    "pregunta": "Conforme al art. 118 LCSP, tienen la consideracion de contratos menores los contratos de suministros y servicios cuyo valor estimado sea inferior a:",
+    "opciones": [
+      "15.000 euros",
+      "18.000 euros",
+      "40.000 euros",
+      "50.000 euros"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija el umbral de 15.000 euros para suministros y servicios en los contratos menores.",
+    "referencia": "Tema 20, 2.4 Contratos menores (art. 118 LCSP)"
   }
 ]

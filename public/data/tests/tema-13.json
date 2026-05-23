@@ -208,5 +208,19 @@
     "correcta": 0,
     "explicacion": "El tema enumera varios de esos principios de actuación.",
     "referencia": "Tema 13, 2.3 Principios adicionales del art. 3 LRJSP"
+  },
+  {
+    "id": "t13-p016",
+    "tema": 13,
+    "pregunta": "De acuerdo con el art. 103.1 CE, la Administracion Publica actua de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion",
+      "Publicidad, irretroactividad, seguridad juridica y responsabilidad",
+      "Legalidad penal, tipicidad, culpabilidad y presuncion de inocencia",
+      "Solidaridad, autonomia financiera, subsidiariedad y lealtad institucional"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 103.1 CE recoge expresamente esos principios de actuacion administrativa.",
+    "referencia": "Tema 13, 2.1 Los principios constitucionales (art. 103.1 CE)"
   }
 ]

@@ -250,5 +250,33 @@
     "correcta": 0,
     "explicacion": "El tema incluye los proyectos de reforma del Estatuto entre los supuestos de dictamen preceptivo.",
     "referencia": "Tema 47, 6.2 El Consejo Consultivo de Castilla y León"
+  },
+  {
+    "id": "t47-p019",
+    "tema": 47,
+    "pregunta": "De acuerdo con el Estatuto de Autonomia de Castilla y Leon y con el Tema 47, cada provincia elige un numero de Procuradores proporcional a su poblacion, con un minimo de:",
+    "opciones": [
+      "Dos por provincia",
+      "Tres por provincia",
+      "Cuatro por provincia",
+      "Cinco por provincia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un minimo de tres Procuradores por provincia.",
+    "referencia": "Tema 47, 2.1 Las Cortes de Castilla y Leon"
+  },
+  {
+    "id": "t47-p020",
+    "tema": 47,
+    "pregunta": "Segun el Tema 47, los Consejeros electivos del Consejo Consultivo de Castilla y Leon son elegidos por las Cortes de Castilla y Leon para un mandato de:",
+    "opciones": [
+      "Cuatro anos",
+      "Cinco anos",
+      "Seis anos",
+      "Ocho anos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema establece un mandato de cuatro anos para los Consejeros electivos del Consejo Consultivo.",
+    "referencia": "Tema 47, 6.2 El Consejo Consultivo de Castilla y Leon"
   }
 ]

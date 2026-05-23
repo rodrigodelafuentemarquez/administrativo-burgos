@@ -236,5 +236,33 @@
     "correcta": 0,
     "explicacion": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivacion obligatoria.",
     "referencia": "Tema 16, 3.3 Elementos formales"
+  },
+  {
+    "id": "t16-p018",
+    "tema": 16,
+    "pregunta": "Segun el art. 44 LPACAP, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificacion o, intentada esta, no se hubiese podido practicar, la notificacion se hara:",
+    "opciones": [
+      "Exclusivamente por correo certificado con acuse de recibo",
+      "Mediante anuncio publicado en el Boletin Oficial del Estado",
+      "Siempre en el tablon de edictos del ayuntamiento del ultimo domicilio",
+      "Unicamente por comparecencia en la sede electronica"
+    ],
+    "correcta": 1,
+    "explicacion": "La LPACAP impone en estos supuestos la publicacion del anuncio en el BOE.",
+    "referencia": "Tema 16, 5.2 La notificacion por anuncio"
+  },
+  {
+    "id": "t16-p019",
+    "tema": 16,
+    "pregunta": "De conformidad con el art. 109 LPACAP, las Administraciones Publicas podran revocar sus actos de gravamen o desfavorables:",
+    "opciones": [
+      "En cualquier momento, siempre que tal revocacion no constituya dispensa o exencion no permitida por las leyes ni sea contraria al principio de igualdad, al interes publico o al ordenamiento juridico",
+      "Solo dentro del plazo de un mes desde su notificacion",
+      "Unicamente si media autorizacion judicial previa",
+      "Solo cuando hayan sido impugnados por el interesado en reposicion"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge esa revocacion con los limites legales de igualdad, interes publico y respeto al ordenamiento.",
+    "referencia": "Tema 16, 6.4 Revocacion de actos (art. 109 LPACAP)"
   }
 ]

@@ -208,5 +208,19 @@
     "correcta": 1,
     "explicacion": "El tema indica que el estado de sitio lo declara el Congreso por mayoría absoluta.",
     "referencia": "Tema 4, 7.5 Otras atribuciones constitucionales relevantes"
+  },
+  {
+    "id": "t04-p016",
+    "tema": 4,
+    "pregunta": "Segun el art. 76 CE, senale la afirmacion correcta sobre las comisiones de investigacion de las Camaras:",
+    "opciones": [
+      "Sus conclusiones son vinculantes para los jueces y tribunales",
+      "La comparecencia ante ellas es voluntaria",
+      "Sus conclusiones no son vinculantes judicialmente, aunque la comparecencia ante ellas es obligatoria",
+      "Solo pueden crearse en el Congreso de los Diputados"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema subraya su valor politico y que la comparecencia es obligatoria, pero sus conclusiones no vinculan judicialmente.",
+    "referencia": "Tema 4, 7.3 La funcion de control del Gobierno (art. 76 CE)"
   }
 ]
