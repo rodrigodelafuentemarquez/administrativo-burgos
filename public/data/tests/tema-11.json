@@ -222,5 +222,33 @@
     "correcta": 0,
     "explicacion": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto.",
     "referencia": "Tema 11, 4.2 Ley Orgánica (art. 81 CE)"
+  },
+  {
+    "id": "t11-p017",
+    "tema": 11,
+    "pregunta": "Segun el art. 81.1 CE, tienen caracter de leyes organicas, entre otras:",
+    "opciones": [
+      "Las relativas al desarrollo de los derechos fundamentales y libertades publicas",
+      "Todas las leyes aprobadas por mayoria absoluta en ambas Camaras",
+      "Las leyes de presupuestos generales del Estado",
+      "Los reglamentos ejecutivos del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el desarrollo de los derechos fundamentales y libertades publicas entre las materias reservadas a ley organica.",
+    "referencia": "Tema 11, 4.2 Ley Organica (art. 81 CE)"
+  },
+  {
+    "id": "t11-p018",
+    "tema": 11,
+    "pregunta": "Segun el art. 82 CE, cuando la delegacion legislativa tenga por objeto la formacion de textos articulados, debera otorgarse mediante:",
+    "opciones": [
+      "Ley de bases",
+      "Ley ordinaria de autorizacion",
+      "Decreto-ley",
+      "Reglamento parlamentario"
+    ],
+    "correcta": 0,
+    "explicacion": "La delegacion para formar textos articulados se canaliza a traves de una ley de bases.",
+    "referencia": "Tema 11, 5.2 Decreto legislativo (arts. 82-85 CE)"
   }
 ]

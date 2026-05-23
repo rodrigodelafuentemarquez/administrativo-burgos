@@ -390,5 +390,33 @@
     "correcta": 0,
     "explicacion": "El tema incluye expresamente esas materias entre las negociables en las Mesas de Negociacion.",
     "referencia": "Tema 46, 10.2 Materias objeto de negociacion"
+  },
+  {
+    "id": "t46-p029",
+    "tema": 46,
+    "pregunta": "De acuerdo con el Tema 46, son causas de perdida de la condicion de funcionario de carrera, entre otras:",
+    "opciones": [
+      "La renuncia, la jubilacion y la sancion disciplinaria de separacion del servicio",
+      "La falta de promocion interna en dos convocatorias consecutivas",
+      "La evaluacion negativa del desempeno en un ejercicio",
+      "La adscripcion provisional a otro puesto"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esas causas tasadas de perdida de la condicion de funcionario de carrera.",
+    "referencia": "Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p030",
+    "tema": 46,
+    "pregunta": "Segun el Tema 46, los funcionarios interinos pueden ser nombrados, entre otros supuestos, por:",
+    "opciones": [
+      "La ejecucion de programas de caracter temporal y el exceso o acumulacion de tareas por tiempo maximo de seis meses dentro de un periodo de doce meses",
+      "La simple conveniencia organizativa sin necesidad de justificacion",
+      "La cobertura definitiva de plazas amortizadas",
+      "La valoracion discrecional del organo politico competente sin causa legal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge expresamente ambos supuestos como causas de nombramiento de funcionarios interinos.",
+    "referencia": "Tema 46, 2.2 Funcionarios interinos"
   }
 ]

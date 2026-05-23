@@ -278,5 +278,47 @@
     "correcta": 0,
     "explicacion": "El tema establece un mandato de cuatro anos para los Consejeros electivos del Consejo Consultivo.",
     "referencia": "Tema 47, 6.2 El Consejo Consultivo de Castilla y Leon"
+  },
+  {
+    "id": "t47-p021",
+    "tema": 47,
+    "pregunta": "De acuerdo con el Tema 47, el candidato a Presidente de la Junta de Castilla y Leon resultara investido en segunda votacion si obtiene:",
+    "opciones": [
+      "Mayoria de tres quintos de las Cortes",
+      "Mayoria absoluta de las Cortes",
+      "Mayoria simple",
+      "Unanimidad de los Procuradores presentes"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema indica que, tras no lograr mayoria absoluta en primera votacion, basta la mayoria simple en segunda.",
+    "referencia": "Tema 47, 3.1 Eleccion y mandato"
+  },
+  {
+    "id": "t47-p022",
+    "tema": 47,
+    "pregunta": "Segun el Tema 47, el Procurador del Comun es elegido por las Cortes de Castilla y Leon para un mandato de:",
+    "opciones": [
+      "Cuatro anos, renovable",
+      "Cinco anos, no renovable",
+      "Seis anos, renovable una vez",
+      "Ocho anos, no renovable"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de cinco anos para el Procurador del Comun y lo califica como no renovable.",
+    "referencia": "Tema 47, 6.1 El Procurador del Comun"
+  },
+  {
+    "id": "t47-p023",
+    "tema": 47,
+    "pregunta": "Conforme al Tema 47, el Consejo de Cuentas de Castilla y Leon:",
+    "opciones": [
+      "Tiene funciones fiscalizadora y jurisdiccional, al igual que el Tribunal de Cuentas del Estado",
+      "Solo tiene funcion fiscalizadora y no puede enjuiciar la responsabilidad contable",
+      "Depende jerarquicamente del Tribunal Supremo",
+      "Es un organo consultivo de la Junta en materia presupuestaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya que el Consejo de Cuentas solo fiscaliza y carece de funcion jurisdiccional.",
+    "referencia": "Tema 47, 6.3 El Consejo de Cuentas de Castilla y Leon"
   }
 ]

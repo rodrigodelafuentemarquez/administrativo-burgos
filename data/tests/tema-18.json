@@ -208,5 +208,33 @@
     "correcta": 0,
     "explicacion": "El tema señala esa compatibilidad expresamente.",
     "referencia": "Tema 18, 7.3 Responsabilidad penal / 7.4 Responsabilidad disciplinaria"
+  },
+  {
+    "id": "t18-p016",
+    "tema": 18,
+    "pregunta": "De acuerdo con el art. 32 LRJSP y con el Tema 18, para que nazca la responsabilidad patrimonial es necesario que la lesion sea:",
+    "opciones": [
+      "Efectiva, evaluable economicamente e individualizada",
+      "Solamente ilicita desde el punto de vista penal",
+      "Exclusivamente imputable a un funcionario concreto",
+      "Necesariamente producida por funcionamiento anormal del servicio"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige lesion efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal.",
+    "referencia": "Tema 18, 2.1 Lesion efectiva, evaluable economicamente e individualizada"
+  },
+  {
+    "id": "t18-p017",
+    "tema": 18,
+    "pregunta": "Segun el Tema 18, cuando la indemnizacion reclamada sea igual o superior a 50.000 euros, durante la instruccion del procedimiento debera recabarse dictamen de:",
+    "opciones": [
+      "La Intervencion General del Estado",
+      "El Consejo de Estado u organo consultivo equivalente de la Comunidad Autonoma",
+      "El Ministerio Fiscal",
+      "La Abogacia del Estado en todo caso"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
+    "referencia": "Tema 18, 5.2 Instruccion"
   }
 ]

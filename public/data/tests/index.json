@@ -51,7 +51,7 @@
   },
   {
     "tema": 11,
-    "preguntas": 16,
+    "preguntas": 18,
     "archivo": "tema-11.json"
   },
   {
@@ -71,7 +71,7 @@
   },
   {
     "tema": 15,
-    "preguntas": 18,
+    "preguntas": 20,
     "archivo": "tema-15.json"
   },
   {
@@ -86,7 +86,7 @@
   },
   {
     "tema": 18,
-    "preguntas": 15,
+    "preguntas": 17,
     "archivo": "tema-18.json"
   },
   {
@@ -226,12 +226,12 @@
   },
   {
     "tema": 46,
-    "preguntas": 28,
+    "preguntas": 30,
     "archivo": "tema-46.json"
   },
   {
     "tema": 47,
-    "preguntas": 20,
+    "preguntas": 23,
     "archivo": "tema-47.json"
   },
   {

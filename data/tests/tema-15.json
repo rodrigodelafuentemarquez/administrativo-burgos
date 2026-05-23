@@ -250,5 +250,33 @@
     "correcta": 0,
     "explicacion": "La peticion razonada consiste en la comunicacion a otro organo competente de hechos o circunstancias que justifican la iniciacion de oficio.",
     "referencia": "Tema 15, 2.2 Iniciacion de oficio"
+  },
+  {
+    "id": "t15-p019",
+    "tema": 15,
+    "pregunta": "Segun el art. 76 LPACAP, los interesados podran formular alegaciones y aportar documentos y otros elementos de juicio:",
+    "opciones": [
+      "Solo dentro de los diez dias siguientes a la iniciacion",
+      "Unicamente durante el tramite de informacion publica",
+      "En cualquier momento del procedimiento anterior al tramite de audiencia",
+      "Solo despues de la propuesta de resolucion"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema recoge expresamente que las alegaciones pueden formularse en cualquier momento anterior al tramite de audiencia.",
+    "referencia": "Tema 15, 3.2.1 Alegaciones (art. 76 LPACAP)"
+  },
+  {
+    "id": "t15-p020",
+    "tema": 15,
+    "pregunta": "De conformidad con el Tema 15, la comparecencia en el tramite de informacion publica:",
+    "opciones": [
+      "Otorga siempre la condicion de interesado",
+      "Solo otorga legitimacion para recurrir en alzada",
+      "No otorga por si sola la condicion de interesado",
+      "Sustituye al tramite de audiencia de los interesados"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema señala expresamente que comparecer en la informacion publica no atribuye por si solo la condicion de interesado.",
+    "referencia": "Tema 15, 3.2.5 Informacion publica (art. 83 LPACAP)"
   }
 ]
