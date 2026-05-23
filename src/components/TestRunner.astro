@@ -254,7 +254,15 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   async function loadNormalQuestions() {
     const idxRes = await fetch(`${base}data/tests/index.json`);
     const idx = await idxRes.json();
-    const temas = (idx.temas ?? []).filter((t) => (t.preguntas ?? 0) > 0);
+    const idxList = Array.isArray(idx) ? idx : (Array.isArray(idx?.temas) ? idx.temas : []);
+    const temas = idxList
+      .map((t) => ({
+        ...t,
+        tema: Number(t?.tema ?? 0),
+        preguntas: Number(t?.preguntas ?? 0),
+        titulo: String(t?.titulo ?? '').trim(),
+      }))
+      .filter((t) => t.tema > 0 && t.preguntas > 0);
     if (!temas.length) {
       renderEmpty('No hay preguntas cargadas todavía.', 'Cuando añadamos los JSON por tema aparecerán aquí automáticamente.');
       return;
@@ -286,7 +294,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
                     <strong>Tema ${Number(t.tema)}</strong>
                     <span class="test-topic-count badge text-bg-primary">${Number(t.preguntas)} preguntas</span>
                   </span>
-                  <small>${escapeHtml(t.titulo)}</small>
+                  ${t.titulo ? `<small>${escapeHtml(t.titulo)}</small>` : ''}
                 </span>
               </label>`).join('')}
           </div>
