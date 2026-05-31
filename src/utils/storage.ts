@@ -1,7 +1,15 @@
+export type TemaAttempt = {
+  total: number;
+  correctas: number;
+  pct: number;
+  at: number;
+};
+
 export type TemaStats = {
   total: number;
   correctas: number;
   recent: number[];
+  attempts: TemaAttempt[];
   updatedAt: number | null;
 };
 
@@ -22,6 +30,25 @@ export type FailedQuestion = {
 const STATS_KEY = 'oposicion-stats-v1';
 const FAILS_KEY = 'oposicion-fallos-v1';
 const RECENT_LIMIT = 8;
+const ATTEMPT_LIMIT = 12;
+
+function normalizeAttempt(value: unknown): TemaAttempt | null {
+  if (!value || typeof value !== 'object') return null;
+  const raw = value as Partial<TemaAttempt>;
+  const total = Math.max(0, Number(raw.total ?? 0) || 0);
+  const correctas = Math.max(0, Number(raw.correctas ?? 0) || 0);
+  const pct = Math.max(0, Math.min(100, Math.round(Number(raw.pct ?? 0) || 0)));
+  const at = Number(raw.at ?? 0) || 0;
+
+  if (!Number.isFinite(total) || !Number.isFinite(correctas) || !Number.isFinite(pct) || !at) return null;
+
+  return {
+    total,
+    correctas: Math.min(correctas, total),
+    pct,
+    at,
+  };
+}
 
 function normalizeTemaStats(value: unknown): TemaStats {
   const raw = (value && typeof value === 'object') ? value as Partial<TemaStats> : {};
@@ -33,12 +60,19 @@ function normalizeTemaStats(value: unknown): TemaStats {
         .filter((entry) => Number.isFinite(entry))
         .slice(-RECENT_LIMIT)
     : [];
+  const attempts = Array.isArray(raw.attempts)
+    ? raw.attempts
+        .map(normalizeAttempt)
+        .filter(Boolean)
+        .slice(-ATTEMPT_LIMIT) as TemaAttempt[]
+    : [];
   const updatedAt = Number(raw.updatedAt ?? 0) || null;
 
   return {
     total: Number.isFinite(total) ? total : 0,
     correctas: Number.isFinite(correctas) ? correctas : 0,
     recent,
+    attempts,
     updatedAt,
   };
 }
@@ -86,11 +120,13 @@ export function updateStats(tema: number, total: number, correctas: number): voi
   const key = String(tema);
   const current = stats[key] ?? normalizeTemaStats(null);
   const pct = total > 0 ? Math.round((correctas / total) * 100) : 0;
+  const now = Date.now();
   stats[key] = {
     total: current.total + total,
     correctas: current.correctas + correctas,
     recent: [...current.recent, pct].slice(-RECENT_LIMIT),
-    updatedAt: Date.now(),
+    attempts: [...current.attempts, { total, correctas, pct, at: now }].slice(-ATTEMPT_LIMIT),
+    updatedAt: now,
   };
   localStorage.setItem(STATS_KEY, JSON.stringify(stats));
 }

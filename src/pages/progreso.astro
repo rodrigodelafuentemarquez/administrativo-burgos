@@ -3,10 +3,32 @@ import Layout from '../layouts/Layout.astro';
 ---
 <Layout title="Progreso">
   <h1>Progreso</h1>
+  <div class="card border-0 shadow-sm mb-4">
+    <div class="card-body p-4">
+      <h2 class="h4 mb-2">Cómo leer esta página</h2>
+      <p class="text-body-secondary mb-2">El porcentaje principal muestra tu <strong>nivel actual</strong> por tema. Se calcula con tus intentos más recientes, así que los errores antiguos no te penalizan para siempre.</p>
+      <p class="text-body-secondary mb-2">Si hace un tiempo fallaste mucho un tema pero ahora encadenas varios tests perfectos, el tema puede volver a marcar <strong>100%</strong>. El histórico total sigue visible solo como referencia.</p>
+      <p class="text-body-secondary mb-0">La tendencia compara tus intentos recientes para indicar si vas mejorando, si estás estable o si conviene repasar ese bloque.</p>
+    </div>
+  </div>
   <section id="stats" class="test-question-list"></section>
 
   <script>
     const STATS_KEY = 'oposicion-stats-v1';
+    const RECENT_WINDOW = 5;
+    const ATTEMPT_LIMIT = 12;
+
+    const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
+
+    const normalizeAttempt = (value) => {
+      if (!value || typeof value !== 'object') return null;
+      const total = Math.max(0, Number(value.total ?? 0) || 0);
+      const correctas = Math.max(0, Number(value.correctas ?? 0) || 0);
+      const pct = clamp(Math.round(Number(value.pct ?? 0) || 0), 0, 100);
+      const at = Number(value.at ?? 0) || 0;
+      if (!at) return null;
+      return { total, correctas: Math.min(correctas, total), pct, at };
+    };
 
     const normalizeTemaStats = (value) => {
       const raw = (value && typeof value === 'object') ? value : {};
@@ -18,12 +40,19 @@ import Layout from '../layouts/Layout.astro';
             .filter((entry) => Number.isFinite(entry))
             .slice(-8)
         : [];
+      const attempts = Array.isArray(raw.attempts)
+        ? raw.attempts
+            .map(normalizeAttempt)
+            .filter(Boolean)
+            .slice(-ATTEMPT_LIMIT)
+        : [];
       const updatedAt = Number(raw.updatedAt ?? 0) || null;
 
       return {
         total: Number.isFinite(total) ? total : 0,
         correctas: Number.isFinite(correctas) ? correctas : 0,
         recent,
+        attempts,
         updatedAt,
       };
     };
@@ -45,6 +74,45 @@ import Layout from '../layouts/Layout.astro';
     const stats = readStats();
     const temas = Object.entries(stats).sort((a,b) => Number(a[0]) - Number(b[0]));
 
+    const formatDate = (value) => {
+      if (!value) return 'Sin fecha';
+      try {
+        return new Intl.DateTimeFormat('es-ES', { dateStyle: 'medium', timeStyle: 'short' }).format(new Date(value));
+      } catch {
+        return 'Sin fecha';
+      }
+    };
+
+    const getRecentAttempts = (temaStats) => {
+      const attempts = Array.isArray(temaStats.attempts) ? temaStats.attempts.slice(-RECENT_WINDOW) : [];
+      if (attempts.length) return attempts;
+      const fallbackRecent = Array.isArray(temaStats.recent) ? temaStats.recent.slice(-RECENT_WINDOW) : [];
+      return fallbackRecent.map((pct, index) => ({
+        total: 0,
+        correctas: 0,
+        pct,
+        at: (temaStats.updatedAt ?? 0) + index,
+      }));
+    };
+
+    const getCurrentPct = (temaStats) => {
+      const attempts = getRecentAttempts(temaStats);
+      if (!attempts.length) return 0;
+      const weighted = attempts.reduce((acc, attempt, index) => {
+        const weight = index + 1;
+        return acc + (attempt.pct * weight);
+      }, 0);
+      const totalWeight = attempts.reduce((acc, _, index) => acc + index + 1, 0);
+      return Math.round(weighted / totalWeight);
+    };
+
+    const getCurrentQuestions = (temaStats) => {
+      return getRecentAttempts(temaStats).reduce((sum, attempt) => {
+        const total = Number(attempt.total ?? 0);
+        return sum + (total > 0 ? total : 1);
+      }, 0);
+    };
+
     const getBand = (pct) => {
       if (pct >= 80) return { label: 'Muy sólido', cls: 'success' };
       if (pct >= 65) return { label: 'Bien encaminado', cls: 'primary' };
@@ -52,23 +120,35 @@ import Layout from '../layouts/Layout.astro';
       return { label: 'Flojo', cls: 'danger' };
     };
 
-    const getTrend = (recent = []) => {
-      if (recent.length < 2) return { label: 'Sin tendencia suficiente', cls: 'secondary' };
-      const last = recent[recent.length - 1];
-      const prev = recent.slice(0, -1);
-      const avg = Math.round(prev.reduce((sum, value) => sum + value, 0) / prev.length);
-      const delta = last - avg;
+    const getTrend = (attempts = []) => {
+      const values = attempts.map((attempt) => Number(attempt.pct ?? 0));
+      if (values.length < 2) return { label: 'Sin tendencia suficiente', cls: 'secondary' };
+      const latestBlock = values.slice(-3);
+      const previousBlock = values.slice(-6, -3);
+      const latestAvg = Math.round(latestBlock.reduce((sum, value) => sum + value, 0) / latestBlock.length);
+      const baseBlock = previousBlock.length ? previousBlock : values.slice(0, -1);
+      const baseAvg = baseBlock.length ? Math.round(baseBlock.reduce((sum, value) => sum + value, 0) / baseBlock.length) : latestAvg;
+      const delta = latestAvg - baseAvg;
       if (delta >= 8) return { label: `En subida (+${delta})`, cls: 'success' };
       if (delta <= -8) return { label: `Bajando (${delta})`, cls: 'danger' };
       return { label: 'Estable', cls: 'secondary' };
     };
 
     if (!temas.length) {
-      root.innerHTML = '<p class="muted">Aún no hay estadísticas. Haz un test primero.</p>';
+      root.innerHTML = `
+        <article class="card border-0 shadow-sm">
+          <div class="card-body p-4">
+            <h2 class="h4 mb-2">Aún no hay progreso</h2>
+            <p class="text-body-secondary mb-0">Haz uno o varios tests y aquí verás tu nivel actual por tema, tu tendencia reciente y tu histórico acumulado.</p>
+          </div>
+        </article>`;
     } else {
-      const totalPreguntas = temas.reduce((sum, [, v]) => sum + v.total, 0);
-      const totalCorrectas = temas.reduce((sum, [, v]) => sum + v.correctas, 0);
-      const totalPct = totalPreguntas ? Math.round((totalCorrectas / totalPreguntas) * 100) : 0;
+      const totalCurrentQuestions = temas.reduce((sum, [, v]) => sum + getCurrentQuestions(v), 0);
+      const totalCurrentScore = temas.reduce((sum, [, v]) => sum + (getCurrentPct(v) * getCurrentQuestions(v)), 0);
+      const totalHistoricalQuestions = temas.reduce((sum, [, v]) => sum + v.total, 0);
+      const totalHistoricalCorrect = temas.reduce((sum, [, v]) => sum + v.correctas, 0);
+      const totalCurrentPct = totalCurrentQuestions ? Math.round(totalCurrentScore / totalCurrentQuestions) : 0;
+      const totalHistoricalPct = totalHistoricalQuestions ? Math.round((totalHistoricalCorrect / totalHistoricalQuestions) * 100) : 0;
 
       const summary = `
         <article class='result-summary card border-0 shadow-sm'>
@@ -76,31 +156,36 @@ import Layout from '../layouts/Layout.astro';
             <span class='test-kicker'>Resumen general</span>
             <div class='d-lg-flex align-items-center justify-content-between gap-4'>
               <div>
-                <h2 class='display-6 mb-2'>${totalCorrectas}/${totalPreguntas} correctas</h2>
-                <p class='text-body-secondary mb-lg-0'>${temas.length} temas con actividad registrada.</p>
+                <h2 class='display-6 mb-2'>Nivel actual: ${totalCurrentPct}%</h2>
+                <p class='text-body-secondary mb-2'>Calculado con los intentos más recientes de cada tema.</p>
+                <p class='text-body-secondary mb-lg-0'>Histórico acumulado: ${totalHistoricalCorrect}/${totalHistoricalQuestions} correctas (${totalHistoricalPct}%) en ${temas.length} temas con actividad.</p>
               </div>
-              <div class='score-ring' style='--score:${totalPct}%'>${totalPct}%</div>
+              <div class='score-ring' style='--score:${totalCurrentPct}%'>${totalCurrentPct}%</div>
             </div>
           </div>
         </article>`;
 
       const cards = temas.map(([tema, v]) => {
-        const pct = v.total ? Math.round((v.correctas / v.total) * 100) : 0;
+        const attempts = getRecentAttempts(v);
+        const pct = getCurrentPct(v);
+        const historicalPct = v.total ? Math.round((v.correctas / v.total) * 100) : 0;
         const band = getBand(pct);
-        const trend = getTrend(v.recent ?? []);
-        const recent = (v.recent ?? []).slice(-8);
+        const trend = getTrend(attempts);
+        const recent = attempts.map((attempt) => attempt.pct).slice(-RECENT_WINDOW);
+        const lastUpdated = attempts.length ? attempts[attempts.length - 1].at : v.updatedAt;
         return `
           <article class='card border-0 shadow-sm'>
             <div class='card-body p-4'>
               <div class='d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3'>
                 <div>
                   <h2 class='h4 mb-1'>Tema ${tema}</h2>
-                  <p class='text-body-secondary mb-0'>${v.correctas}/${v.total} correctas acumuladas</p>
+                  <p class='text-body-secondary mb-0'>Histórico: ${v.correctas}/${v.total} correctas acumuladas (${historicalPct}%)</p>
                 </div>
                 <span class='badge text-bg-${band.cls}'>${band.label}</span>
               </div>
               <div class='d-flex flex-wrap align-items-center gap-3 mb-3'>
                 <strong class='fs-4'>${pct}%</strong>
+                <span class='text-body-secondary'>Nivel actual</span>
                 <span class='badge text-bg-${trend.cls}'>${trend.label}</span>
               </div>
               <div class='progress-streak mb-2'>
@@ -108,7 +193,8 @@ import Layout from '../layouts/Layout.astro';
                   ? recent.map((value) => `<span class='progress-dot tone-${value >= 80 ? 'success' : value >= 65 ? 'primary' : value >= 50 ? 'warning' : 'danger'}' title='${value}%'></span>`).join('')
                   : `<span class='text-body-secondary small'>Sin historial reciente.</span>`}
               </div>
-              <p class='text-body-secondary small mb-0'>Ultimos resultados guardados por tema: ${recent.length ? recent.join('% · ') + '%' : 'sin datos'}.</p>
+              <p class='text-body-secondary small mb-1'>Intentos recientes usados para el nivel actual: ${recent.length ? recent.join('% · ') + '%' : 'sin datos'}.</p>
+              <p class='text-body-secondary small mb-0'>Última actualización: ${formatDate(lastUpdated)}.</p>
             </div>
           </article>`;
       }).join('');
