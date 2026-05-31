@@ -208,5 +208,19 @@
     "correcta": 0,
     "explicacion": "El tema enumera el producto de las operaciones de crédito como recurso autonómico.",
     "referencia": "Tema 7, 5. La financiación autonómica (art. 157 CE)"
+  },
+  {
+    "id": "t07-p016",
+    "tema": 7,
+    "pregunta": "¿A quien corresponde la representacion ordinaria del Estado en la Comunidad Autonoma conforme al art. 152 CE?",
+    "opciones": [
+      "Al Delegado del Gobierno",
+      "Al Ministro competente en materia territorial",
+      "Al Presidente de la Comunidad Autonoma",
+      "Al Presidente del Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
+    "referencia": "Tema 7, 2.4 Organizacion institucional de las CC.AA. (art. 152 CE)"
   }
 ]

@@ -208,5 +208,19 @@
     "correcta": 1,
     "explicacion": "El tema recoge esos principios en el art. 103 CE.",
     "referencia": "Tema 5, 10.1 Concepto y caracterización"
+  },
+  {
+    "id": "t05-p016",
+    "tema": 5,
+    "pregunta": "De acuerdo con el art. 112 CE, la cuestion de confianza planteada por el Presidente del Gobierno se entendera otorgada cuando vote a favor de la misma:",
+    "opciones": [
+      "La mayoria absoluta del Congreso de los Diputados y del Senado",
+      "La mayoria simple del Congreso de los Diputados",
+      "La mayoria absoluta del Congreso de los Diputados",
+      "La mayoria simple del Congreso de los Diputados y del Senado"
+    ],
+    "correcta": 1,
+    "explicacion": "La cuestion de confianza se entiende otorgada si obtiene la mayoria simple del Congreso.",
+    "referencia": "Tema 5, 7.1 La cuestion de confianza (art. 112 CE)"
   }
 ]

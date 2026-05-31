@@ -264,5 +264,19 @@
     "correcta": 0,
     "explicacion": "El tema recoge esa revocacion con los limites legales de igualdad, interes publico y respeto al ordenamiento.",
     "referencia": "Tema 16, 6.4 Revocacion de actos (art. 109 LPACAP)"
+  },
+  {
+    "id": "t16-p020",
+    "tema": 16,
+    "pregunta": "Conforme al art. 48 LPACAP, son anulables los actos de la Administracion:",
+    "opciones": [
+      "Contrarios al ordenamiento juridico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisicion",
+      "Dictados por organo manifiestamente incompetente por razon de la materia o del territorio",
+      "Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido",
+      "Que incurran en cualquier infraccion del ordenamiento juridico, incluso la desviacion de poder"
+    ],
+    "correcta": 3,
+    "explicacion": "La anulabilidad comprende cualquier infraccion del ordenamiento juridico que no sea causa de nulidad de pleno derecho, incluida la desviacion de poder.",
+    "referencia": "Tema 16, 5.2 La anulabilidad (art. 48 LPACAP)"
   }
 ]

@@ -236,5 +236,19 @@
     "correcta": 1,
     "explicacion": "El tema recoge silencio positivo en materia de suspension cuando la Administracion no resuelve en treinta dias.",
     "referencia": "Tema 17, 2.4 Principio de suspensión"
+  },
+  {
+    "id": "t17-p018",
+    "tema": 17,
+    "pregunta": "Conforme al art. 114 LPACAP, ponen fin a la via administrativa:",
+    "opciones": [
+      "Los actos emanados de organos directivos con nivel de Subdirector General en materia de personal",
+      "Las resoluciones de organos administrativos, salvo que una disposicion legal o reglamentaria disponga lo contrario",
+      "Los acuerdos, pactos, convenios o contratos que tengan la consideracion de finalizadores del procedimiento",
+      "Las resoluciones que acuerden la aplicacion de medidas provisionales"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 114 LPACAP incluye los acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que ponen fin a la via administrativa.",
+    "referencia": "Tema 17, 2.2 Actos que ponen fin a la via administrativa"
   }
 ]

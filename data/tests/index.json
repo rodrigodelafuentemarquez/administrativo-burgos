@@ -6,32 +6,32 @@
   },
   {
     "tema": 2,
-    "preguntas": 16,
+    "preguntas": 17,
     "archivo": "tema-02.json"
   },
   {
     "tema": 3,
-    "preguntas": 16,
+    "preguntas": 17,
     "archivo": "tema-03.json"
   },
   {
     "tema": 4,
-    "preguntas": 16,
+    "preguntas": 17,
     "archivo": "tema-04.json"
   },
   {
     "tema": 5,
-    "preguntas": 15,
+    "preguntas": 16,
     "archivo": "tema-05.json"
   },
   {
     "tema": 6,
-    "preguntas": 17,
+    "preguntas": 18,
     "archivo": "tema-06.json"
   },
   {
     "tema": 7,
-    "preguntas": 15,
+    "preguntas": 16,
     "archivo": "tema-07.json"
   },
   {
@@ -71,17 +71,17 @@
   },
   {
     "tema": 15,
-    "preguntas": 20,
+    "preguntas": 21,
     "archivo": "tema-15.json"
   },
   {
     "tema": 16,
-    "preguntas": 19,
+    "preguntas": 20,
     "archivo": "tema-16.json"
   },
   {
     "tema": 17,
-    "preguntas": 17,
+    "preguntas": 18,
     "archivo": "tema-17.json"
   },
   {
@@ -166,7 +166,7 @@
   },
   {
     "tema": 34,
-    "preguntas": 21,
+    "preguntas": 22,
     "archivo": "tema-34.json"
   },
   {
@@ -176,17 +176,17 @@
   },
   {
     "tema": 36,
-    "preguntas": 20,
+    "preguntas": 23,
     "archivo": "tema-36.json"
   },
   {
     "tema": 37,
-    "preguntas": 15,
+    "preguntas": 17,
     "archivo": "tema-37.json"
   },
   {
     "tema": 38,
-    "preguntas": 20,
+    "preguntas": 21,
     "archivo": "tema-38.json"
   },
   {
@@ -201,7 +201,7 @@
   },
   {
     "tema": 41,
-    "preguntas": 26,
+    "preguntas": 27,
     "archivo": "tema-41.json"
   },
   {
@@ -216,7 +216,7 @@
   },
   {
     "tema": 44,
-    "preguntas": 22,
+    "preguntas": 24,
     "archivo": "tema-44.json"
   },
   {
@@ -226,7 +226,7 @@
   },
   {
     "tema": 46,
-    "preguntas": 30,
+    "preguntas": 33,
     "archivo": "tema-46.json"
   },
   {

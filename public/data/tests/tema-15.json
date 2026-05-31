@@ -278,5 +278,19 @@
     "correcta": 2,
     "explicacion": "El tema señala expresamente que comparecer en la informacion publica no atribuye por si solo la condicion de interesado.",
     "referencia": "Tema 15, 3.2.5 Informacion publica (art. 83 LPACAP)"
+  },
+  {
+    "id": "t15-p021",
+    "tema": 15,
+    "pregunta": "De acuerdo con el art. 87 LPACAP, las actuaciones complementarias indispensables para resolver el procedimiento deberan practicarse en un plazo:",
+    "opciones": [
+      "No superior a quince dias",
+      "No inferior a diez dias ni superior a quince dias",
+      "De siete dias",
+      "De veinte dias"
+    ],
+    "correcta": 0,
+    "explicacion": "El plazo maximo para practicar las actuaciones complementarias es de quince dias.",
+    "referencia": "Tema 15, 3.3.1 Resolucion (art. 88 LPACAP)"
   }
 ]

@@ -292,5 +292,19 @@
     "correcta": 1,
     "explicacion": "El tema explica que la tramitacion ordinaria es electronica y que los documentos administrativos deben almacenarse por medios electronicos.",
     "referencia": "Tema 34, 4.1 La tramitacion electronica como forma ordinaria"
+  },
+  {
+    "id": "t34-p022",
+    "tema": 34,
+    "pregunta": "Segun el art. 40 LRJSP y el Tema 34, las Administraciones Publicas podran identificarse mediante:",
+    "opciones": [
+      "Un sello electronico basado en un certificado electronico reconocido o cualificado",
+      "Exclusivamente mediante firma manuscrita digitalizada",
+      "Unicamente mediante certificado de empleado publico",
+      "Cualquier sistema privado aunque no cumpla la legislacion de firma electronica"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge el sello electronico basado en certificado reconocido o cualificado como sistema valido de identificacion de la Administracion.",
+    "referencia": "Tema 34, 3.2 Sistemas de firma e identificacion"
   }
 ]

@@ -236,5 +236,19 @@
     "correcta": 2,
     "explicacion": "La Constitucion atribuye en exclusiva la potestad jurisdiccional a los Juzgados y Tribunales establecidos por la ley.",
     "referencia": "Tema 6, 1.2 La funcion jurisdiccional: juzgar y ejecutar lo juzgado (art. 117.3 CE)"
+  },
+  {
+    "id": "t06-p018",
+    "tema": 6,
+    "pregunta": "¿Quien nombrara al Presidente del Tribunal Supremo de acuerdo con el art. 123 CE?",
+    "opciones": [
+      "El Presidente del Gobierno, a propuesta del Rey",
+      "El Rey, a propuesta del Presidente del Gobierno",
+      "El Consejo General del Poder Judicial, a propuesta del Rey",
+      "El Rey, a propuesta del Consejo General del Poder Judicial"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema indica que el Presidente del Tribunal Supremo es elegido por los vocales del CGPJ y nombrado por el Rey.",
+    "referencia": "Tema 6, 3.3 El Presidente del Tribunal Supremo"
   }
 ]

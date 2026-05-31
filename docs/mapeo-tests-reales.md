@@ -65,3 +65,13 @@ Este documento resume las preguntas de los HTML reales revisados en `/Users/rodr
 - En `41` hay material suficiente para una tanda especifica de instituciones y procedimientos de la Union Europea.
 - Esta segunda pasada ya ha reforzado especialmente `20`, `41` y `46`, que eran los tres bloques con mejor encaje entre test reales y temario propio.
 - La tercera pasada ha ampliado tambien `11`, `15`, `18` y `47`, aprovechando mejor el estilo y los focos de examen de los HTML reales.
+
+## Examen 2026 del Estado
+
+- El fichero `ejemplotest-2026-estado.html` aporta preguntas muy aprovechables en:
+  - bloque constitucional e institucional
+  - procedimiento administrativo
+  - funcion publica
+  - presupuestos y Tribunal de Cuentas
+  - informatica basica, Windows, Word/Excel y navegacion web
+- Las preguntas incorporadas de esta tanda se han repartido sobre todo entre `2`, `3`, `4`, `5`, `6`, `7`, `15`, `16`, `17`, `34`, `36`, `37`, `38`, `41`, `44` y `46`.

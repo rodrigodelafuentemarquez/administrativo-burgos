@@ -222,5 +222,19 @@
     "correcta": 2,
     "explicacion": "El tema subraya su valor politico y que la comparecencia es obligatoria, pero sus conclusiones no vinculan judicialmente.",
     "referencia": "Tema 4, 7.3 La funcion de control del Gobierno (art. 76 CE)"
+  },
+  {
+    "id": "t04-p017",
+    "tema": 4,
+    "pregunta": "De acuerdo con el art. 67 CE, señale la afirmacion correcta:",
+    "opciones": [
+      "Nadie podra ser miembro de las dos Camaras simultaneamente, salvo el Presidente del Gobierno",
+      "Nadie podra ser miembro de las dos Camaras simultaneamente",
+      "Podra acumularse libremente el acta de una Asamblea autonómica con la de Diputado al Congreso",
+      "Los Ministros pueden ser miembros de las dos Camaras simultaneamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 67 CE prohíbe ser miembro de ambas Cámaras a la vez.",
+    "referencia": "Tema 4, 4.5 Mandato representativo (art. 67 CE)"
   }
 ]

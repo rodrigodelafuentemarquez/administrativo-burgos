@@ -222,5 +222,19 @@
     "correcta": 0,
     "explicacion": "El temario fija un mandato de 3 años para la Presidencia del TC, renovable una sola vez.",
     "referencia": "Tema 2, 1.2 Composición (art. 159 CE)"
+  },
+  {
+    "id": "t02-p017",
+    "tema": 2,
+    "pregunta": "De acuerdo con el art. 167 CE, los proyectos de reforma constitucional deberan ser aprobados:",
+    "opciones": [
+      "Por mayoria de tres quintos de cada una de las Camaras",
+      "Por mayoria absoluta del Congreso",
+      "Por mayoria absoluta de cada una de las Camaras",
+      "Por mayoria de tres quintos del Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "El procedimiento ordinario de reforma constitucional exige la aprobacion por mayoria de tres quintos de Congreso y Senado.",
+    "referencia": "Tema 2, 3.3 Procedimiento ordinario (art. 167 CE)"
   }
 ]

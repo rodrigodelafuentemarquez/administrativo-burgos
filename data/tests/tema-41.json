@@ -362,5 +362,19 @@
     "correcta": 1,
     "explicacion": "El tema destaca la posicion singular de la Comision por su monopolio de la iniciativa legislativa.",
     "referencia": "Tema 41, 6.3 Funciones"
+  },
+  {
+    "id": "t41-p027",
+    "tema": 41,
+    "pregunta": "De acuerdo con el art. 16 TUE, señale la respuesta correcta respecto del Consejo de la Union Europea:",
+    "opciones": [
+      "Es el organo ejecutivo de la Union Europea",
+      "Ejerce conjuntamente con el Parlamento Europeo la funcion legislativa y la funcion presupuestaria",
+      "Ejerce conjuntamente con la Comision Europea la funcion legislativa y la funcion presupuestaria",
+      "Supervisa la aplicacion del Derecho de la Union bajo el control del TJUE"
+    ],
+    "correcta": 1,
+    "explicacion": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",
+    "referencia": "Tema 41, 4.3 Funciones"
   }
 ]

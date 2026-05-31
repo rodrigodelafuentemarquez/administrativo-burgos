@@ -278,5 +278,47 @@
     "correcta": 0,
     "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
     "referencia": "Tema 36, 6.1 Concepto y objetivos"
+  },
+  {
+    "id": "t36-p021",
+    "tema": 36,
+    "pregunta": "¿Cual de las siguientes definiciones corresponde a un procesador?",
+    "opciones": [
+      "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
+      "Unidad de informacion compuesta generalmente de ocho bits",
+      "Unidad funcional que se encarga de la busqueda, interpretacion y ejecucion de instrucciones",
+      "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
+    ],
+    "correcta": 2,
+    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
+    "referencia": "Tema 36, 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+  },
+  {
+    "id": "t36-p022",
+    "tema": 36,
+    "pregunta": "¿Que sistema de seguridad tiene como funcion especifica detectar, bloquear y eliminar software malicioso?",
+    "opciones": [
+      "VPN",
+      "Firewall",
+      "Antivirus",
+      "Gestor de contraseñas"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
+    "referencia": "Tema 36, 6.5 El antivirus"
+  },
+  {
+    "id": "t36-p023",
+    "tema": 36,
+    "pregunta": "¿Que elemento realiza la funcion de guardar de forma temporal programas y procesos en ejecucion?",
+    "opciones": [
+      "Disipador",
+      "Memoria RAM",
+      "Tarjeta grafica",
+      "CPU"
+    ],
+    "correcta": 1,
+    "explicacion": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecucion inmediata.",
+    "referencia": "Tema 36, 2.3.2 La memoria RAM"
   }
 ]

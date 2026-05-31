@@ -418,5 +418,47 @@
     "correcta": 0,
     "explicacion": "El tema recoge expresamente ambos supuestos como causas de nombramiento de funcionarios interinos.",
     "referencia": "Tema 46, 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "t46-p031",
+    "tema": 46,
+    "pregunta": "De acuerdo con el TREBEP y con el Tema 46, para poder participar en los procesos selectivos sera necesario:",
+    "opciones": [
+      "Poseer nacionalidad española en todo caso",
+      "Tener cumplidos dieciocho anos y no exceder de la edad maxima de jubilacion forzosa",
+      "Tener cumplidos dieciseis anos y no exceder, en su caso, de la edad maxima de jubilacion forzosa",
+      "Conocer siempre la lengua cooficial del territorio de la Administracion convocante"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema incluye como requisito general haber cumplido dieciseis anos y no haber alcanzado la edad de jubilacion forzosa.",
+    "referencia": "Tema 46, 4.3 Requisitos generales para el acceso"
+  },
+  {
+    "id": "t46-p032",
+    "tema": 46,
+    "pregunta": "De acuerdo con el TREBEP y con el Tema 46, la condicion de funcionario de carrera se adquiere, ademas de por la superacion del proceso selectivo, por:",
+    "opciones": [
+      "La toma de posesion dentro del plazo senalado",
+      "La presentacion del certificado de antecedentes penales",
+      "La superacion obligatoria de un reconocimiento medico excluyente en todo caso",
+      "Ningun requisito adicional"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre los requisitos sucesivos figura la toma de posesion dentro del plazo establecido, ademas del nombramiento por el organo competente.",
+    "referencia": "Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p033",
+    "tema": 46,
+    "pregunta": "Conforme al TREBEP y al Tema 46, se podra nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
+    "opciones": [
+      "El exceso o acumulacion de tareas por plazo maximo de doce meses dentro de un periodo de dieciocho meses",
+      "La sustitucion transitoria de los titulares durante el tiempo estrictamente necesario",
+      "La cobertura de plazas vacantes por un maximo de cuatro anos cuando no sea posible su cobertura por funcionarios de carrera",
+      "La ejecucion de programas temporales con duracion maxima de dos anos ampliable a doce meses mas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge la sustitucion transitoria del titular como supuesto de nombramiento de funcionario interino.",
+    "referencia": "Tema 46, 2.2 Funcionarios interinos"
   }
 ]

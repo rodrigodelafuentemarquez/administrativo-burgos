@@ -222,5 +222,19 @@
     "correcta": 0,
     "explicacion": "El tema indica que el Rey presta juramento ante las Cortes Generales en sesión conjunta.",
     "referencia": "Tema 3, 5. Proclamación y juramento (art. 61 CE)"
+  },
+  {
+    "id": "t03-p017",
+    "tema": 3,
+    "pregunta": "Corresponde al Rey, conforme al art. 62 CE:",
+    "opciones": [
+      "Aprobar los Reglamentos",
+      "Aprobar los Decretos-leyes",
+      "Sancionar y promulgar las leyes",
+      "Aprobar las leyes"
+    ],
+    "correcta": 2,
+    "explicacion": "Entre las funciones internas del Rey figura sancionar y promulgar las leyes aprobadas por las Cortes Generales.",
+    "referencia": "Tema 3, 6.1 Funciones internas (art. 62 CE)"
   }
 ]

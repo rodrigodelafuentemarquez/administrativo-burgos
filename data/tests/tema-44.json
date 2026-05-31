@@ -306,5 +306,33 @@
     "correcta": 0,
     "explicacion": "El tema presenta los anticipos de tesoreria como un instrumento excepcional para gastos urgentes.",
     "referencia": "Tema 44, 6.7 Anticipos de tesorería"
+  },
+  {
+    "id": "t44-p023",
+    "tema": 44,
+    "pregunta": "Segun la Ley General Presupuestaria y el Tema 44, el Proyecto de Ley de Presupuestos Generales del Estado sera remitido a las Cortes Generales:",
+    "opciones": [
+      "Antes del 1 de octubre del año anterior al que se refiera",
+      "Antes del 31 de diciembre del mismo ejercicio",
+      "Al menos seis meses antes de la expiracion de los del año anterior",
+      "Dentro del primer trimestre del ejercicio presupuestario"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
+    "referencia": "Tema 44, 3.1 Elaboracion y aprobacion"
+  },
+  {
+    "id": "t44-p024",
+    "tema": 44,
+    "pregunta": "De conformidad con la Ley Organica del Tribunal de Cuentas y con el Tema 44, al Tribunal de Cuentas le corresponde:",
+    "opciones": [
+      "La fiscalizacion externa, permanente y consuntiva de la actividad economico-financiera del sector publico",
+      "El control financiero permanente interno de todos los departamentos",
+      "La funcion interventora previa de los actos con contenido economico",
+      "La auditoria publica interna de la Administracion General del Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define al Tribunal de Cuentas como supremo organo fiscalizador externo del sector publico.",
+    "referencia": "Tema 44, 7.4 El Tribunal de Cuentas"
   }
 ]

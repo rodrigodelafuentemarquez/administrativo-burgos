@@ -278,5 +278,19 @@
     "correcta": 0,
     "explicacion": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
     "referencia": "Tema 38, 9.3 Funciones principales"
+  },
+  {
+    "id": "t38-p021",
+    "tema": 38,
+    "pregunta": "¿Que funcion de Excel 365 invierte el valor logico de su argumento?",
+    "opciones": [
+      "NO",
+      "MINVERSA",
+      "CAMBIAR",
+      "ESLOGICO"
+    ],
+    "correcta": 0,
+    "explicacion": "La funcion NO devuelve el valor logico contrario del argumento evaluado.",
+    "referencia": "Tema 38, 9.3 Funciones logicas"
   }
 ]

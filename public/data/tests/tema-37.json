@@ -208,5 +208,33 @@
     "correcta": 0,
     "explicacion": "El tema enumera el Administrador de tareas entre las herramientas del sistema.",
     "referencia": "Tema 37, 11.1 Administrador de tareas (Task Manager)"
+  },
+  {
+    "id": "t37-p016",
+    "tema": 37,
+    "pregunta": "¿Cual es la funcion principal de Microsoft Copilot en Windows 11?",
+    "opciones": [
+      "Gestionar de forma autonoma la seguridad de la red sin intervencion del administrador",
+      "Actuar como asistente de inteligencia artificial para responder preguntas, buscar informacion y ayudar con tareas",
+      "Servir exclusivamente como sistema de almacenamiento en la nube",
+      "Sustituir al Explorador de archivos en la gestion de carpetas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema presenta Copilot como un asistente de inteligencia artificial capaz de responder preguntas, buscar informacion y ayudar con acciones del sistema.",
+    "referencia": "Tema 37, 4.2 Funciones de Copilot en Windows"
+  },
+  {
+    "id": "t37-p017",
+    "tema": 37,
+    "pregunta": "¿Cual de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualizacion validos segun el tema?",
+    "opciones": [
+      "Lista, Detalles e Iconos medianos",
+      "Iconos muy pequeños, Extendido y Mosaico",
+      "Mosaico, Iconos medianos y Extendido",
+      "Iconos muy grandes, Contenido e Iconos muy pequeños"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye como vistas validas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido ni la denominacion iconos muy pequeños.",
+    "referencia": "Tema 37, 6.3 Modos de visualizacion"
   }
 ]
