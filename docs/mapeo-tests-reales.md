@@ -79,3 +79,10 @@ Este documento resume las preguntas de los HTML reales revisados en `/Users/rodr
   - `40`: protocolos de correo electronico, especialmente la funcion de `SMTP`.
   - `45`: particularidades del sistema `MUFACE` en materia de asistencia sanitaria.
   - `48`: medidas en el empleo publico derivadas de la `LO 4/2023`.
+
+## Cuarta pasada de aprovechamiento fino
+
+- Se han exprimido varias preguntas reales adicionales que encajaban casi literalmente con el temario:
+  - `20`: calificacion de los contratos y tipos contractuales de la LCSP.
+  - `43`: limites del derecho de acceso y plazo de reclamacion ante el CTBG.
+  - `47`: eleccion de Procuradores, sistema de eleccion del Procurador del Comun y composicion del Consejo de Cuentas y del Consejo Consultivo.

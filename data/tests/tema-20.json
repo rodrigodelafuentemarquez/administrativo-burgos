@@ -278,5 +278,19 @@
     "correcta": 2,
     "explicacion": "La demora de la Administracion en el pago superior a cuatro meses figura como causa de resolucion a instancia del contratista.",
     "referencia": "Tema 20, 5.2 Extincion por resolucion (art. 211 LCSP)"
+  },
+  {
+    "id": "t20-p021",
+    "tema": 20,
+    "pregunta": "Según el artículo 12.1 de la Ley 9/2017, de 8 de noviembre, la calificación de los contratos se refiere a:",
+    "opciones": [
+      "Los contratos de obras, concesión de obras, concesión de servicios, suministro y servicios.",
+      "Los contratos de obras, concesión de obras, suministro y servicios de asistencia técnica.",
+      "Los contratos de obras, suministro y servicios de asistencia técnica.",
+      "Los contratos de concesión de obras, concesión de servicios y subvenciones."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue esos cinco tipos contractuales al tratar la delimitación de los contratos del sector público.",
+    "referencia": "Tema 20, 2.2 Contratos administrativos típicos"
   }
 ]

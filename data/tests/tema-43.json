@@ -306,5 +306,33 @@
     "correcta": 1,
     "explicacion": "El tema atribuye esa reclamacion potestativa al CTBG.",
     "referencia": "Tema 43, 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "t43-p023",
+    "tema": 43,
+    "pregunta": "Indique cuál de los siguientes figura entre los límites al derecho de acceso a la información pública en la Ley 19/2013:",
+    "opciones": [
+      "La garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión.",
+      "La mera incomodidad administrativa del órgano requerido.",
+      "La discrepancia política con el contenido solicitado.",
+      "La falta de interés profesional del solicitante."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera expresamente la confidencialidad o secreto en los procesos de toma de decisión como uno de los límites legales.",
+    "referencia": "Tema 43, 3.3 Límites al derecho de acceso"
+  },
+  {
+    "id": "t43-p024",
+    "tema": 43,
+    "pregunta": "Según la Ley 19/2013, frente a una resolución expresa o presunta en materia de acceso a la información pública, la reclamación ante el Consejo de Transparencia y Buen Gobierno podrá interponerse en el plazo de:",
+    "opciones": [
+      "Un mes.",
+      "Diez días hábiles.",
+      "Quince días naturales.",
+      "Tres meses."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija un plazo de un mes para interponer la reclamación potestativa ante el CTBG.",
+    "referencia": "Tema 43, 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
   }
 ]

@@ -254,16 +254,16 @@
   {
     "id": "t47-p019",
     "tema": 47,
-    "pregunta": "De acuerdo con el Estatuto de Autonomia de Castilla y Leon y con el Tema 47, cada provincia elige un numero de Procuradores proporcional a su poblacion, con un minimo de:",
+    "pregunta": "Según el artículo 21.1 del Estatuto de Autonomía de Castilla y León, los Procuradores serán elegidos por sufragio universal:",
     "opciones": [
-      "Dos por provincia",
-      "Tres por provincia",
-      "Cuatro por provincia",
-      "Cinco por provincia"
+      "Libre, igual, directo y secreto.",
+      "Libre, personal, indirecto y secreto.",
+      "Igual, corporativo, directo y secreto.",
+      "Universal, censitario, directo y secreto."
     ],
-    "correcta": 1,
-    "explicacion": "El tema fija un minimo de tres Procuradores por provincia.",
-    "referencia": "Tema 47, 2.1 Las Cortes de Castilla y Leon"
+    "correcta": 0,
+    "explicacion": "El tema reproduce la elección por sufragio universal, libre, igual, directo y secreto.",
+    "referencia": "Tema 47, 2.1 Naturaleza y composición"
   },
   {
     "id": "t47-p020",
@@ -320,5 +320,47 @@
     "correcta": 1,
     "explicacion": "El tema subraya que el Consejo de Cuentas solo fiscaliza y carece de funcion jurisdiccional.",
     "referencia": "Tema 47, 6.3 El Consejo de Cuentas de Castilla y Leon"
+  },
+  {
+    "id": "t47-p024",
+    "tema": 47,
+    "pregunta": "Según el Tema 47, el Procurador del Común es elegido por las Cortes de Castilla y León por:",
+    "opciones": [
+      "Mayoría de tres quintos en primera votación o mayoría absoluta en segunda.",
+      "Mayoría absoluta en primera votación y mayoría simple en segunda.",
+      "Mayoría simple en primera votación y unanimidad en segunda.",
+      "Mayoría de dos tercios en única votación."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala ese sistema de elección para el Procurador del Común.",
+    "referencia": "Tema 47, 6.1 El Procurador del Común"
+  },
+  {
+    "id": "t47-p025",
+    "tema": 47,
+    "pregunta": "De acuerdo con el Tema 47, el Consejo de Cuentas de Castilla y León está compuesto por:",
+    "opciones": [
+      "Siete Consejeros elegidos por las Cortes por mayoría de tres quintos para un mandato de seis años.",
+      "Cinco Consejeros elegidos por la Junta por mayoría simple para un mandato de cuatro años.",
+      "Nueve Consejeros elegidos por el Consejo Consultivo para un mandato de seis años.",
+      "Tres Consejeros elegidos por las Cortes por mayoría absoluta para un mandato de cinco años."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija en siete los Consejeros, elegidos por las Cortes por mayoría de tres quintos para seis años.",
+    "referencia": "Tema 47, 6.3 El Consejo de Cuentas de Castilla y León"
+  },
+  {
+    "id": "t47-p026",
+    "tema": 47,
+    "pregunta": "Según el Tema 47, forman parte del Consejo Consultivo de Castilla y León como Consejeros permanentes:",
+    "opciones": [
+      "Los ex-Presidentes de la Junta y los ex-Presidentes de las Cortes de Castilla y León que así lo soliciten.",
+      "Los Presidentes de las Diputaciones Provinciales en activo.",
+      "Los Consejeros de Economía y Hacienda de las últimas dos legislaturas.",
+      "Los Procuradores designados por cada grupo parlamentario al inicio de cada legislatura."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye como Consejeros permanentes a los ex-Presidentes de la Junta y de las Cortes que lo soliciten.",
+    "referencia": "Tema 47, 6.2 El Consejo Consultivo de Castilla y León"
   }
 ]
