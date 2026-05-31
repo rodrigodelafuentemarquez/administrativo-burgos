@@ -208,5 +208,19 @@
     "correcta": 0,
     "explicacion": "El tema lo explica así y advierte que no da anonimato total.",
     "referencia": "Tema 40, 3.5.2 Navegación privada / InPrivate / Incógnito"
+  },
+  {
+    "id": "t40-p016",
+    "tema": 40,
+    "pregunta": "En relación con los protocolos de correo electrónico, señale la respuesta correcta:",
+    "opciones": [
+      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
+      "POP3 es el protocolo para el envío de correos con sincronización entre dispositivos.",
+      "IMAP descarga los mensajes del servidor y los elimina por defecto.",
+      "HTTPS es el protocolo habitual para remitir correo entre servidores."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
+    "referencia": "Tema 40, 2.5.1 Correo electrónico"
   }
 ]

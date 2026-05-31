@@ -75,3 +75,7 @@ Este documento resume las preguntas de los HTML reales revisados en `/Users/rodr
   - presupuestos y Tribunal de Cuentas
   - informatica basica, Windows, Word/Excel y navegacion web
 - Las preguntas incorporadas de esta tanda se han repartido sobre todo entre `2`, `3`, `4`, `5`, `6`, `7`, `15`, `16`, `17`, `34`, `36`, `37`, `38`, `41`, `44` y `46`.
+- En una segunda pasada intensiva sobre ese mismo examen se han añadido tambien preguntas reaprovechables en:
+  - `40`: protocolos de correo electronico, especialmente la funcion de `SMTP`.
+  - `45`: particularidades del sistema `MUFACE` en materia de asistencia sanitaria.
+  - `48`: medidas en el empleo publico derivadas de la `LO 4/2023`.

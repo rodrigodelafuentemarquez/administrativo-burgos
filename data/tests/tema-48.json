@@ -236,5 +236,19 @@
     "correcta": 1,
     "explicacion": "El tema senala que la ayuda economica del art. 27 LOVG equivale a seis mensualidades del subsidio por desempleo.",
     "referencia": "Tema 48, 3.2 La Ley Orgánica 1/2004: objeto y estructura"
+  },
+  {
+    "id": "t48-p018",
+    "tema": 48,
+    "pregunta": "De acuerdo con la Ley Orgánica 4/2023, ¿qué deben adoptar las Administraciones Públicas en el empleo público?",
+    "opciones": [
+      "Protocolos de actuación frente al acoso por razón de orientación sexual o identidad de género.",
+      "Un sistema general de cupos obligatorios para toda oferta de empleo público.",
+      "Autorización judicial previa para cualquier actuación disciplinaria en esta materia.",
+      "Un régimen especial de jubilación para el personal LGTBI."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona expresamente esta medida en el ámbito del empleo público.",
+    "referencia": "Tema 48, 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
   }
 ]

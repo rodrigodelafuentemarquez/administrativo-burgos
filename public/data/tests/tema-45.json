@@ -236,5 +236,19 @@
     "correcta": 0,
     "explicacion": "El tema define el complemento especifico por las condiciones particulares del puesto.",
     "referencia": "Tema 45, 2.3.2 El complemento específico"
+  },
+  {
+    "id": "t45-p018",
+    "tema": 45,
+    "pregunta": "En relación con la asistencia sanitaria de los mutualistas de MUFACE, señale la respuesta correcta:",
+    "opciones": [
+      "Pueden elegir libremente entre la red pública y una entidad médica privada concertada.",
+      "Solo pueden recibir asistencia sanitaria a través de la red pública.",
+      "Deben adscribirse necesariamente a una entidad médica privada concertada.",
+      "La opción sanitaria la determina en exclusiva la Administración."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
+    "referencia": "Tema 45, 7.1 La MUFACE"
   }
 ]
