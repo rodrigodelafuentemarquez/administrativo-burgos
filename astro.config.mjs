@@ -5,8 +5,8 @@ import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeSlug from 'rehype-slug';
 
 export default defineConfig({
-  base: '/oposicion',
-  site: 'https://example.github.io',
+  base: '/administrativo-burgos',
+  site: 'https://rodrigodelafuentemarquez.github.io',
   markdown: {
     remarkPlugins: [remarkGfm],
     rehypePlugins: [
