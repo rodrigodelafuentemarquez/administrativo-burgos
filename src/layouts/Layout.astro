@@ -170,6 +170,98 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         grid-area: content;
         min-width: 1px;
       }
+      .normative-sources {
+        margin: 0 0 1.75rem;
+        padding: 1rem;
+        border: 1px solid rgba(var(--bd-violet-rgb), .28);
+        border-radius: .5rem;
+        background: color-mix(in srgb, var(--bs-body-bg) 82%, var(--bd-violet) 18%);
+      }
+      .normative-sources__head {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-bottom: .85rem;
+      }
+      .normative-sources__eyebrow {
+        margin: 0;
+        color: var(--bs-secondary-color);
+        font-size: .78rem;
+        font-weight: 700;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .tema-content .normative-sources h2 {
+        margin: 0;
+        font-size: 1.1rem;
+        line-height: 1.2;
+      }
+      .normative-sources__grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        gap: .65rem;
+      }
+      .normative-source {
+        display: grid;
+        grid-template-columns: auto minmax(0, 1fr) auto;
+        align-items: center;
+        gap: .6rem;
+        min-height: 3.25rem;
+        padding: .65rem .75rem;
+        color: var(--bs-body-color);
+        text-decoration: none;
+        border: 1px solid var(--bs-border-color);
+        border-radius: .45rem;
+        background: rgba(255, 255, 255, .035);
+      }
+      .normative-source:hover,
+      .normative-source:focus {
+        color: var(--bs-emphasis-color);
+        border-color: rgba(var(--bd-accent-rgb), .65);
+        background: rgba(var(--bd-accent-rgb), .08);
+      }
+      .normative-source__tag {
+        display: inline-flex;
+        align-items: center;
+        justify-content: center;
+        min-width: 4.6rem;
+        padding: .2rem .45rem;
+        color: #111;
+        font-size: .72rem;
+        font-weight: 800;
+        border-radius: 999px;
+        background: var(--bd-accent);
+      }
+      .normative-source__tag--ue {
+        color: #fff;
+        background: #276ef1;
+      }
+      .normative-source__tag--ayuntamiento {
+        color: #fff;
+        background: #198754;
+      }
+      .normative-source__tag--oficial {
+        color: #fff;
+        background: #6c757d;
+      }
+      .normative-source__label {
+        min-width: 0;
+        font-size: .92rem;
+        line-height: 1.25;
+      }
+      .normative-source__arrow {
+        color: var(--bs-secondary-color);
+        font-weight: 700;
+      }
+      @media (max-width: 575.98px) {
+        .normative-sources__head {
+          display: block;
+        }
+        .tema-content .normative-sources h2 {
+          margin-top: .15rem;
+        }
+      }
       .bd-links-heading {
         color: var(--bs-emphasis-color);
         font-weight: 600;

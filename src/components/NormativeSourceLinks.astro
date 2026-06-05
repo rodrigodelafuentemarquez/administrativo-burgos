@@ -1,0 +1,29 @@
+---
+import type { NormativeSource } from '../data/normativeSources';
+
+interface Props {
+  sources: NormativeSource[];
+}
+
+const { sources } = Astro.props;
+---
+
+{sources.length > 0 && (
+  <section class="normative-sources" aria-labelledby="normative-sources-title">
+    <div class="normative-sources__head">
+      <p class="normative-sources__eyebrow">Consulta rapida</p>
+      <h2 id="normative-sources-title">Normativa y fuentes oficiales</h2>
+    </div>
+    <div class="normative-sources__grid">
+      {sources.map((source) => (
+        <a class="normative-source" href={source.url} target="_blank" rel="noreferrer">
+          <span class={`normative-source__tag normative-source__tag--${source.tag.toLowerCase()}`}>
+            {source.tag}
+          </span>
+          <span class="normative-source__label">{source.label}</span>
+          <span class="normative-source__arrow" aria-hidden="true">-&gt;</span>
+        </a>
+      ))}
+    </div>
+  </section>
+)}
