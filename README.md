@@ -11,6 +11,7 @@ Este repo es la copia de trabajo para Burgos. El repositorio original `oposicion
 - Repositorio nuevo: `rodrigodelafuentemarquez/administrativo-burgos`
 - Fuente oficial: BOP Burgos num. 95, jueves 21 de mayo de 2026, anuncio BOPBUR-2026-02092.
 - PDF revisado: `bopbur-2026-095-anuncio-202602092 (1).pdf`
+- Mapeo inicial del temario: `docs/mapeo-temario-burgos.md`
 
 ## Objetivo
 
@@ -245,19 +246,20 @@ Estado: en curso.
 - [x] Activar GitHub Pages.
 - [x] Ajustar `astro.config.mjs` a `/administrativo-burgos`.
 - [x] Crear README maestro con convocatoria, programa y planning.
-- [ ] Crear estructura interna para grupos, temas, supuestos y desarrollos.
+- [x] Mostrar la estructura oficial por grupos en la portada.
+- [ ] Crear estructura interna definitiva para grupos, temas, supuestos y desarrollos.
 
 ### Fase 1: inventario y mapeo del temario actual
 
 Objetivo: saber que material antiguo se puede reutilizar.
 
-- [ ] Listar los 48 temas actuales.
-- [ ] Mapear cada tema actual contra los 42 temas oficiales de Burgos.
-- [ ] Marcar material reutilizable, material parcial, material sobrante y lagunas.
-- [ ] Detectar temas nuevos especificos de Burgos: organizacion municipal, oficinas de registro, Windows 11, Microsoft 365, urbanismo, hacienda local, etc.
+- [x] Listar los 48 temas actuales.
+- [x] Mapear cada tema actual contra los 42 temas oficiales de Burgos.
+- [x] Marcar material reutilizable, material parcial, material sobrante y lagunas.
+- [x] Detectar temas nuevos especificos de Burgos: organizacion municipal, oficinas de registro, Windows 11, Microsoft 365, urbanismo, hacienda local, etc.
 - [ ] Decidir convencion de nombres para los nuevos temas.
 
-Resultado esperado: tabla de correspondencias `tema actual -> tema Burgos`.
+Resultado disponible: tabla de correspondencias en `docs/mapeo-temario-burgos.md`.
 
 ### Fase 2: estructura nueva de contenidos
 
@@ -435,4 +437,3 @@ La app mantiene una pantalla de acceso en frontend. Es una ocultacion basica, no
 - Contrasena: `xof13odi`
 
 Para cerrar sesion manualmente, eliminar la clave `oposicion-access-ok-v1` del `localStorage`.
-
