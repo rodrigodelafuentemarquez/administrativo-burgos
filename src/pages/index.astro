@@ -3,15 +3,9 @@ import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import { officialGroups, syllabusStats } from '../data/burgosSyllabus';
 
-const currentTopics = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data.tema);
 const officialContent = await getCollection('programa');
 const officialContentIds = new Set(officialContent.map((tema) => tema.id.replace(/\.md$/, '')));
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const statusTone = {
-  pendiente: 'danger',
-  'base parcial': 'warning',
-  'base aprovechable': 'success',
-};
 const priorityLabel = {
   normal: 'Test y desarrollo',
   alta: 'Alta prioridad',
@@ -23,7 +17,7 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
 <Layout title="Administrativo Burgos 2026">
   <div class="bd-intro ps-lg-2">
     <h1 class="bd-title">Administrativo Burgos</h1>
-    <p class="bd-subtitle mb-0">Programa oficial por grupos, con el mapeo inicial del temario anterior para adaptar sin perder material.</p>
+    <p class="bd-subtitle mb-0">Temario oficial completo de la convocatoria, organizado por grupos y temas.</p>
   </div>
   <section class="bd-content ps-lg-2">
     <div class="syllabus-summary" aria-label="Resumen del programa">
@@ -36,17 +30,17 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
         <span>temas Burgos</span>
       </div>
       <div>
-        <strong>{currentTopics.length}</strong>
-        <span>temas antiguos conservados</span>
+        <strong>{officialContent.length}</strong>
+        <span>temas redactados</span>
       </div>
       <div>
-        <strong>{syllabusStats.pending}</strong>
-        <span>temas sin base clara</span>
+        <strong>{syllabusStats.critical}</strong>
+        <span>temas de practico</span>
       </div>
     </div>
 
     <div class="bd-callout">
-      <strong>Regla de trabajo:</strong> los 48 temas actuales siguen disponibles como base. En esta pantalla mandan los 42 temas oficiales del PDF; cada tema muestra que material antiguo se puede reutilizar o si hay que crearlo desde cero.
+      <strong>Uso recomendado:</strong> estudia desde estos temas oficiales. El temario antiguo queda solo como archivo de respaldo en la ruta <code>/temas</code>, pero la navegacion principal ya trabaja con el programa Burgos.
     </div>
 
     {officialGroups.map((group) => (
@@ -70,28 +64,14 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
                 <div class="official-topic-number">{topic.grupo}.{topic.numero}</div>
                 <div class="official-topic-body">
                   <div class="official-topic-meta">
-                    <span class={`badge text-bg-${statusTone[topic.estado]}`}>{topic.estado}</span>
+                    <span class={hasOfficialContent ? 'badge text-bg-success' : 'badge text-bg-danger'}>{hasOfficialContent ? 'Tema oficial' : 'Pendiente'}</span>
                     <span class={topic.prioridad === 'critica' ? 'badge text-bg-primary' : 'badge text-bg-dark'}>{priorityLabel[topic.prioridad]}</span>
                   </div>
                   <h3>{topic.titulo}</h3>
-                  {hasOfficialContent && (
-                    <a class="btn btn-sm btn-primary mb-3" href={`${base}programa/${slug}`}>Abrir tema oficial</a>
-                  )}
-                  {topic.matches.length > 0 ? (
-                    <div class="topic-matches">
-                      <span>Material actual relacionado:</span>
-                      <div class="topic-match-list">
-                        {topic.matches.map((match) => (
-                          <a href={`${base}temas/${match.slug}`} class="topic-match">
-                            <strong>Tema {match.tema}</strong>
-                            <span>{match.titulo}</span>
-                            <small>{match.calidad}{match.nota ? ` · ${match.nota}` : ''}</small>
-                          </a>
-                        ))}
-                      </div>
-                    </div>
+                  {hasOfficialContent ? (
+                    <a class="btn btn-sm btn-primary" href={`${base}programa/${slug}`}>Abrir tema</a>
                   ) : (
-                    <p class="topic-missing mb-0">Pendiente de crear contenido especifico para Burgos.</p>
+                    <p class="topic-missing mb-0">Pendiente de crear contenido especifico.</p>
                   )}
                 </div>
               </div>

@@ -11,7 +11,7 @@ interface Props {
 }
 const { title, toc = [] } = Astro.props;
 import AccessGate from '../components/AccessGate.astro';
-const temas = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data.tema);
+const temasPrograma = (await getCollection('programa')).sort((a, b) => a.id.localeCompare(b.id));
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
 
@@ -806,9 +806,9 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </div>
       <div class="offcanvas-body">
         <nav class="bd-links-nav theme-list" aria-label="Listado de temas">
-          {temas.map((t) => (
-            <a class="bd-links-link rounded" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
-              Tema {t.data.tema}: {t.data.titulo}
+          {temasPrograma.map((t) => (
+            <a class="bd-links-link rounded" href={`${base}programa/${t.id.replace(/\.md$/, '')}`}>
+              {t.data.codigo}: {t.data.titulo}
             </a>
           ))}
         </nav>
@@ -831,10 +831,10 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
             <li class="bd-links-group py-2">
               <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Temario</strong>
               <ul class="list-unstyled fw-normal pb-2 small">
-                {temas.map((t) => (
+                {temasPrograma.map((t) => (
                   <li>
-                    <a class="bd-links-link d-inline-block rounded" href={`${base}temas/${t.id.replace(/\.md$/, '')}`}>
-                      Tema {t.data.tema}
+                    <a class="bd-links-link d-inline-block rounded" href={`${base}programa/${t.id.replace(/\.md$/, '')}`}>
+                      {t.data.codigo}
                     </a>
                   </li>
                 ))}

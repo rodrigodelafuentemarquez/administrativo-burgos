@@ -299,10 +299,10 @@ Estado por tema:
 | Grupo | Temas | Estado |
 | --- | ---: | --- |
 | I | 9 | Borrador completo: I.1 a I.9 creados |
-| II | 12 | Pendiente |
-| III | 5 | Pendiente |
-| IV | 5 | Pendiente |
-| V | 11 | Pendiente |
+| II | 12 | Borrador completo: II.1 a II.12 creados |
+| III | 5 | Borrador completo: III.1 a III.5 creados |
+| IV | 5 | Borrador completo: IV.1 a IV.5 creados |
+| V | 11 | Borrador completo: V.1 a V.11 creados |
 
 ### Fase 4: tests
 
