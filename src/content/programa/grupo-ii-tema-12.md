@@ -24,6 +24,16 @@ Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas,
 
 Las ordenanzas no pueden vulnerar leyes, invadir competencias ajenas, tipificar infracciones sin habilitacion suficiente ni restringir derechos de forma desproporcionada.
 
+| Tipo de ordenanza | Contenido habitual |
+| --- | --- |
+| Ordenanza reguladora | Regula convivencia, servicios, usos, licencias o actividades. |
+| Ordenanza fiscal | Ordena tributos locales, tasas, contribuciones e impuestos potestativos. |
+| Ordenanza de administracion electronica | Regula sede, registro, comunicaciones, expedientes y uso de medios electronicos. |
+| Ordenanza de subvenciones | Concreta reglas de concesion y justificacion dentro del marco legal. |
+| Ordenanza urbanistica o sectorial | Desarrolla aspectos de planeamiento, licencias, obras o actividad. |
+
+Una ordenanza local debe apoyarse en competencia municipal. Si el Ayuntamiento regula una materia ajena, invade competencias o contradice una ley superior, la ordenanza puede anularse. Tambien debe respetar proporcionalidad cuando limita derechos o impone obligaciones.
+
 ## Reglamentos
 
 Los reglamentos locales suelen regular organizacion y funcionamiento interno: reglamento organico municipal, reglamentos de organos, participacion ciudadana, consejo social, sugerencias y reclamaciones, gestion tributaria, archivos u otros organos especializados.
@@ -37,6 +47,18 @@ El procedimiento general de aprobacion de ordenanzas y reglamentos locales inclu
 Despues debe publicarse el texto integro en el Boletin Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicacion. La publicidad oficial es condicion necesaria para eficacia general.
 
 Antes de la aprobacion pueden realizarse consultas, informes juridicos, informes economicos, memoria de impacto, evaluacion normativa y otros tramites segun materia. En ordenanzas fiscales se aplican reglas especificas de la Ley de Haciendas Locales.
+
+| Fase | Finalidad |
+| --- | --- |
+| Preparacion | Definir necesidad, competencia, objetivos, alternativas e impactos. |
+| Informes | Asegurar legalidad, viabilidad economica y coherencia tecnica. |
+| Aprobacion inicial | El Pleno abre formalmente la tramitacion. |
+| Informacion publica y audiencia | Permite reclamaciones, sugerencias y participacion. |
+| Resolucion de alegaciones | El Ayuntamiento acepta o rechaza motivadamente las aportaciones. |
+| Aprobacion definitiva | Fija el texto final. |
+| Publicacion integra | Da publicidad oficial y permite entrada en vigor. |
+
+El expediente normativo debe permitir reconstruir por que se aprueba la norma. Una ordenanza bien tramitada incluye memoria, informes, texto comparado si modifica norma anterior, alegaciones, certificado de acuerdos, publicacion y archivo final.
 
 ## Ordenanzas fiscales
 
@@ -58,3 +80,11 @@ El bando no sustituye a la ordenanza ni puede crear regulaciones generales de co
 
 En situaciones de urgencia o riesgo, el Alcalde puede dictar bandos para adoptar medidas necesarias, dando cuenta al Pleno cuando proceda. Para el administrativo municipal, los bandos implican redaccion, publicacion, difusion, archivo y, a veces, tramitacion de expedientes posteriores.
 
+| Instrumento | Quien lo aprueba/dicta | Alcance |
+| --- | --- | --- |
+| Ordenanza | Pleno | Norma general para materias de competencia local. |
+| Reglamento organico | Pleno | Organizacion y funcionamiento municipal. |
+| Ordenanza fiscal | Pleno | Regulacion tributaria local dentro de la ley. |
+| Bando | Alcaldia | Comunicacion, recordatorio o medida ejecutiva dentro de competencias. |
+
+La diferencia practica es clara: si se quiere regular de forma estable una materia municipal, se aprueba ordenanza o reglamento. Si se quiere comunicar una medida concreta, recordar obligaciones o actuar en una situacion puntual dentro de competencias de Alcaldia, puede usarse bando. El bando no debe utilizarse para evitar el procedimiento plenario.

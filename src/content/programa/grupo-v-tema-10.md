@@ -12,6 +12,16 @@ Los sistemas ofimaticos colaborativos permiten crear, editar, compartir y conser
 
 La colaboracion permite coedicion, control de versiones, comentarios, permisos y almacenamiento en nube corporativa. No debe confundirse colaboracion con difusion indiscriminada: cada documento debe compartirse solo con quienes lo necesitan.
 
+| Herramienta | Uso administrativo habitual |
+| --- | --- |
+| Word | Oficios, informes, propuestas, actas, bases, certificados. |
+| Excel | Listados, seguimiento, calculos, tablas, controles y estadisticas. |
+| Outlook | Correo, calendario, convocatorias y contactos. |
+| Teams | Reuniones, chats y colaboracion interna. |
+| OneDrive/SharePoint | Almacenamiento corporativo, versiones y permisos. |
+
+En un Ayuntamiento, estas herramientas deben usarse como apoyo al expediente, no como sustituto del gestor de expedientes. Un documento trabajado en Word o Excel debe incorporarse al expediente oficial cuando sea relevante para el procedimiento.
+
 ## Word para Microsoft 365
 
 Word es procesador de textos. Permite redactar informes, oficios, propuestas, actas, certificados, cartas, anuncios, bases y documentos administrativos.
@@ -21,6 +31,18 @@ Sus funciones principales incluyen formato de texto, estilos, encabezados, pies,
 El uso de estilos es importante para documentos largos, porque permite estructura coherente, indice automatico y accesibilidad. El control de cambios permite revisar borradores. La combinacion de correspondencia genera comunicaciones repetitivas a partir de datos.
 
 En documentos administrativos debe cuidarse claridad, fecha, organo, asunto, destinatario, firma, CSV si procede y adecuacion al expediente.
+
+| Funcion de Word | Utilidad |
+| --- | --- |
+| Estilos | Mantienen estructura uniforme y permiten indice automatico. |
+| Encabezado y pie | Incorporan logos, paginas, expediente o unidad. |
+| Tablas | Ordenan datos comparativos o listados simples. |
+| Control de cambios | Permite revisar borradores sin perder trazabilidad. |
+| Comentarios | Facilitan revision interna antes de aprobar documento. |
+| Combinar correspondencia | Genera comunicaciones masivas personalizadas. |
+| Exportar a PDF | Produce documento estable para remision o publicacion. |
+
+Un error frecuente es dar formato manual a cada titulo. En documentos largos, esto complica cambios y genera incoherencias. Lo correcto es usar estilos predefinidos. Otro error es enviar documentos con comentarios internos o control de cambios visible; antes de remitir debe revisarse la version final.
 
 ## Excel para Microsoft 365
 
@@ -32,9 +54,35 @@ Funciones frecuentes: SUMA, PROMEDIO, MIN, MAX, CONTAR, CONTARA, SI, Y, O, BUSCA
 
 Las tablas dinamicas resumen datos por categorias. Los graficos visualizan informacion. El formato condicional destaca valores. La validacion evita entradas incorrectas.
 
+| Concepto | Explicacion |
+| --- | --- |
+| Libro | Archivo de Excel completo. |
+| Hoja | Pagina interna del libro. |
+| Celda | Interseccion de fila y columna. |
+| Formula | Operacion que calcula un resultado. |
+| Funcion | Formula predefinida, como SUMA o SI. |
+| Referencia relativa | Cambia al copiar la formula. |
+| Referencia absoluta | Permanece fija usando `$`, por ejemplo `$A$1`. |
+| Filtro | Muestra solo registros que cumplen condiciones. |
+| Tabla dinamica | Resume grandes conjuntos de datos. |
+
+Ejemplos de uso administrativo: seguimiento de solicitudes por estado, control de facturas, relacion de expedientes pendientes, calculo auxiliar de importes, estadisticas de atencion ciudadana o comprobacion de plazos. Aunque Excel sea util, los datos definitivos deben estar en los sistemas corporativos cuando exista aplicacion oficial.
+
 ## Buen uso administrativo
 
 Word y Excel no sustituyen a aplicaciones corporativas ni expedientes electronicos. Deben usarse como apoyo, respetando proteccion de datos, versionado y archivo. Los documentos definitivos deben incorporarse al expediente por canales oficiales.
 
 En Excel hay que evitar errores de formulas, rangos incompletos, datos personales innecesarios y hojas sin proteccion cuando se comparten. En Word hay que evitar plantillas obsoletas, firmas incorrectas y copiar textos normativos sin actualizar.
 
+## Seguridad y colaboracion
+
+La colaboracion en Microsoft 365 debe controlar permisos. No es lo mismo permitir lectura que edicion. Tampoco es igual compartir con una persona concreta que generar un enlace abierto. En documentos con datos personales, la regla debe ser minimizacion: solo accede quien necesita acceder.
+
+Antes de compartir un documento conviene comprobar:
+
+- destinatarios y permisos;
+- si contiene datos personales o informacion reservada;
+- si hay comentarios, versiones antiguas o control de cambios;
+- si el archivo debe estar en expediente oficial;
+- si procede enviar enlace corporativo en vez de adjunto;
+- si debe protegerse hoja, libro o documento.

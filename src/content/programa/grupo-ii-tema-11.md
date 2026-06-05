@@ -16,6 +16,48 @@ Los organos colegiados locales son organos formados por varias personas que deli
 
 El funcionamiento colegiado garantiza deliberacion, control politico, formacion formal de voluntad y constancia documental de acuerdos.
 
+| Organo | Funcion general |
+| --- | --- |
+| Pleno | Debate y adopta acuerdos sobre materias principales, control politico y potestad normativa. |
+| Junta de Gobierno Local | Asiste a la Alcaldia y ejerce competencias propias o delegadas, especialmente en gran poblacion. |
+| Comisiones informativas | Estudian, informan y preparan asuntos que van al Pleno. |
+| Comision Especial de Cuentas | Informa la Cuenta General antes de su aprobacion. |
+| Otros organos | Consejos, juntas o comisiones previstas por reglamento organico o normativa sectorial. |
+
+El funcionamiento colegiado es formal porque el acuerdo solo existe validamente si se convoca, constituye, delibera, vota y documenta conforme a reglas. Un error de convocatoria, quorum o votacion puede afectar a la validez del acuerdo.
+
+## Convocatoria y orden del dia
+
+La convocatoria comunica la celebracion de la sesion, fecha, hora, lugar, modalidad cuando proceda y asuntos a tratar. Debe realizarse con la antelacion legal o reglamentaria, salvo sesiones urgentes. El orden del dia delimita los asuntos que pueden debatirse y votarse.
+
+| Elemento | Importancia |
+| --- | --- |
+| Fecha y hora | Permite asistencia y computo de plazos. |
+| Lugar o medio | Determina donde se celebra y como participan los miembros. |
+| Orden del dia | Evita decisiones sorpresivas y garantiza preparacion. |
+| Documentacion | Permite estudiar expedientes antes de votar. |
+| Urgencia | Debe motivarse y ratificarse cuando proceda. |
+
+Como regla, no pueden adoptarse acuerdos sobre asuntos no incluidos en el orden del dia salvo supuestos legalmente previstos, normalmente vinculados a urgencia y mayoria exigida. Esta garantia protege tanto a miembros de la corporacion como a la ciudadania.
+
+## Constitucion, quorum y votaciones
+
+| Concepto | Explicacion |
+| --- | --- |
+| Quorum de constitucion | Numero minimo de miembros presentes para celebrar validamente. |
+| Presidencia | Dirige la sesion, ordena debate y proclama acuerdos. |
+| Secretaria | Da fe, asesora legalmente y levanta acta. |
+| Mayoria simple | Mas votos a favor que en contra. |
+| Mayorias especiales | Exigidas para materias de especial relevancia. |
+
+Las votaciones pueden ser ordinarias, nominales o secretas segun las reglas aplicables. En la practica, el acta debe reflejar asistentes, asuntos tratados, resultado de votaciones, acuerdos adoptados y, cuando proceda, intervenciones o votos particulares.
+
+## Actas y ejecucion de acuerdos
+
+El acta documenta la sesion y permite acreditar lo acordado. Debe aprobarse en los terminos reglamentarios y custodiarse adecuadamente. Los acuerdos se notifican, publican o ejecutan segun su naturaleza: no es lo mismo aprobar una ordenanza, adjudicar un contrato, resolver una mocion politica o aprobar la Cuenta General.
+
+Para un administrativo, este tema se traduce en preparar convocatorias, recopilar expedientes, controlar firmas, publicar anuncios, tramitar notificaciones, numerar acuerdos y archivar actas. La calidad administrativa del organo colegiado depende mucho de esa gestion previa y posterior.
+
 ## Convocatoria
 
 La convocatoria es el acto por el que se llama a los miembros a una sesion. Debe realizarse por quien tenga competencia, normalmente el Presidente del organo, y notificarse con antelacion suficiente segun tipo de sesion y normativa aplicable.
@@ -55,4 +97,3 @@ El voto puede ser afirmativo, negativo o abstencion. En organos locales, el sent
 El Secretario levanta acta de cada sesion. El acta recoge asistentes, orden del dia, lugar y hora, incidencias, acuerdos, votaciones y otros extremos. Una vez aprobada, acredita formalmente lo ocurrido.
 
 Las certificaciones de acuerdos permiten hacer valer el contenido de acuerdos ante unidades administrativas, interesados u otras Administraciones. En el trabajo administrativo local, preparar expedientes para organos colegiados y ejecutar acuerdos es una funcion diaria.
-

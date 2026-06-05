@@ -22,6 +22,15 @@ Los bienes locales se clasifican en bienes de dominio publico y bienes patrimoni
 
 Tambien pueden existir bienes comunales, cuyo aprovechamiento corresponde al comun de vecinos. En muchos municipios tienen importancia historica, agricola o forestal.
 
+| Clase de bien | Destino | Regimen basico |
+| --- | --- | --- |
+| Dominio publico de uso publico | Uso general por la ciudadania. | Calles, plazas, parques, caminos; proteccion reforzada. |
+| Dominio publico de servicio publico | Prestacion directa de servicios o funciones publicas. | Casa consistorial, colegios, mercados, instalaciones deportivas. |
+| Comunal | Aprovechamiento por el comun de vecinos. | Regimen especial, vinculado a usos vecinales tradicionales. |
+| Patrimonial | No afectado a uso o servicio publico. | Puede arrendarse, cederse o enajenarse con procedimiento. |
+
+La afectacion es la clave. Un mismo inmueble puede cambiar de regimen si se afecta a servicio publico o se desafecta. La desafectacion debe tramitarse formalmente; no basta con que el bien deje de usarse de hecho durante un tiempo.
+
 ## Bienes de dominio publico local
 
 Son bienes de uso publico local caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demas obras publicas de aprovechamiento o utilizacion general cuya conservacion y policia sean competencia local.
@@ -29,6 +38,15 @@ Son bienes de uso publico local caminos, plazas, calles, paseos, parques, aguas 
 Son bienes de servicio publico los destinados directamente al cumplimiento de fines publicos locales: casas consistoriales, mercados, centros civicos, colegios publicos de titularidad municipal, instalaciones deportivas, cementerios, parques de bomberos o edificios administrativos.
 
 Los bienes de dominio publico son inalienables, inembargables e imprescriptibles. No pueden venderse mientras conserven esa condicion, no pueden ser embargados y no se adquieren por prescripcion. Su utilizacion privativa o aprovechamiento especial requiere titulo habilitante: autorizacion, concesion u otro instrumento legal.
+
+| Nota demanial | Consecuencia |
+| --- | --- |
+| Inalienabilidad | No pueden venderse mientras sean dominio publico. |
+| Inembargabilidad | No pueden ser objeto de embargo para cobrar deudas. |
+| Imprescriptibilidad | No se adquieren por posesion prolongada de un particular. |
+| Potestad de recuperacion | La entidad local puede defenderlos y recuperar su posesion conforme a la ley. |
+
+En expedientes de ocupacion de via publica, terrazas, quioscos, canalizaciones, vados o instalaciones temporales, el Ayuntamiento no "alquila" simplemente un espacio: autoriza o concede un aprovechamiento de dominio publico sometido a condiciones, tasas, plazos y potestad de revocacion en los terminos legales.
 
 ## Bienes patrimoniales
 
@@ -50,3 +68,11 @@ La utilizacion de bienes de dominio publico puede ser uso comun general, uso com
 
 En un Ayuntamiento, la gestion de bienes aparece en expedientes de terrazas, quioscos, ocupacion de via publica, cesion de locales, inventario, recuperacion de oficio, deslindes, concesiones y patrimonio municipal del suelo.
 
+| Tipo de uso | Ejemplo | Titulo habitual |
+| --- | --- | --- |
+| Uso comun general | Pasear por una plaza o circular por una calle. | No requiere autorizacion individual ordinaria. |
+| Uso comun especial | Terraza, vado, contenedor de obra, ocupacion temporal. | Autorizacion y tasa. |
+| Uso privativo | Quiosco estable, concesion de instalacion en dominio publico. | Concesion o titulo equivalente. |
+| Uso anormal | Uso distinto del destino natural del bien. | Requiere control reforzado o puede ser prohibido. |
+
+El inventario municipal es fundamental: identifica bienes, naturaleza, ubicacion, valor, cargas, destino y situacion juridica. Sin inventario actualizado, se dificulta defender el patrimonio, tramitar cesiones, controlar ocupaciones y rendir cuentas.

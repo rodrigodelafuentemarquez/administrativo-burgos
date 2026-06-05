@@ -16,11 +16,31 @@ La contratacion publica permite a las Administraciones obtener obras, suministro
 
 La Ley distingue sector publico, poderes adjudicadores y Administraciones Publicas. El regimen mas intenso se aplica a contratos de Administraciones Publicas.
 
+| Principio | Aplicacion |
+| --- | --- |
+| Publicidad | Licitaciones y adjudicaciones deben difundirse por medios oficiales. |
+| Concurrencia | Debe facilitarse participacion de empresas aptas. |
+| Igualdad y no discriminacion | Los licitadores compiten con las mismas reglas. |
+| Transparencia | Criterios, valoraciones y decisiones deben ser claros y motivados. |
+| Integridad | Prevencion de conflictos de intereses y corrupcion. |
+| Eficiencia | Compra adecuada a necesidades reales y buen uso de fondos. |
+
+La contratacion publica empieza antes de publicar un anuncio. Primero hay que definir necesidad, objeto, presupuesto, financiacion, division en lotes, solvencia, criterios de adjudicacion y condiciones de ejecucion.
+
 ## Tipologia contractual
 
 Los contratos tipicos son obras, concesion de obras, concesion de servicios, suministro y servicios. El contrato de obras tiene por objeto ejecucion de una obra o trabajos de construccion. La concesion de obras o servicios implica transferencia al concesionario del riesgo operacional. El suministro tiene por objeto adquisicion, arrendamiento financiero o arrendamiento de productos o bienes muebles. El contrato de servicios cubre prestaciones de hacer distintas de obras o suministros.
 
 Existen contratos mixtos cuando contienen prestaciones de varios tipos. Su regimen se determina conforme a la prestacion principal y reglas especificas.
+
+| Tipo contractual | Objeto |
+| --- | --- |
+| Obras | Ejecucion de una obra o trabajos de construccion/ingenieria. |
+| Concesion de obras | Obra con explotacion por el concesionario y riesgo operacional. |
+| Concesion de servicios | Gestion de servicio con transferencia de riesgo operacional. |
+| Suministro | Compra, arrendamiento o adquisicion de productos. |
+| Servicios | Prestaciones de hacer distintas de obra o suministro. |
+| Mixto | Combina prestaciones; se atiende a la prestacion principal y reglas legales. |
 
 ## Partes del contrato
 
@@ -33,6 +53,16 @@ En el otro lado esta el contratista. Debe tener capacidad de obrar, no estar inc
 Todo contrato requiere expediente. Debe justificarse necesidad e idoneidad, objeto, presupuesto base de licitacion, valor estimado, existencia de credito, procedimiento, criterios de adjudicacion, solvencia, pliegos y fiscalizacion cuando proceda.
 
 Los pliegos son piezas esenciales. El pliego de clausulas administrativas particulares regula condiciones juridicas, procedimiento, derechos y obligaciones. El pliego de prescripciones tecnicas define caracteristicas tecnicas de la prestacion. No pueden contener exigencias discriminatorias ni orientadas injustificadamente a un operador concreto.
+
+| Pieza del expediente | Funcion |
+| --- | --- |
+| Memoria justificativa | Explica necesidad, objeto, insuficiencia de medios y eleccion del procedimiento. |
+| Credito y fiscalizacion | Aseguran financiacion y control presupuestario. |
+| Pliego administrativo | Regula procedimiento, criterios, garantias, penalidades y ejecucion. |
+| Pliego tecnico | Define caracteristicas tecnicas de la prestacion. |
+| Anuncio y licitacion | Permiten publicidad y concurrencia. |
+| Valoracion | Aplica criterios automaticos y sujetos a juicio de valor. |
+| Adjudicacion y formalizacion | Seleccionan contratista y perfeccionan el contrato. |
 
 ## Procedimientos de adjudicacion
 
@@ -60,3 +90,16 @@ Los contratos pueden ser invalidos por causas de nulidad o anulabilidad de Derec
 
 El recurso especial en materia de contratacion procede frente a determinados actos y contratos sujetos a umbrales y condiciones legales. Es un recurso rapido y especializado. En otros casos proceden recursos administrativos ordinarios o la jurisdiccion contencioso-administrativa.
 
+## Control de ejecucion
+
+Durante la ejecucion se controlan plazos, calidad, facturas, penalidades, recepcion, garantias y pago. Las modificaciones solo proceden en supuestos previstos o legalmente habilitados; no pueden utilizarse para alterar de forma fraudulenta la licitacion.
+
+| Incidencia | Idea clave |
+| --- | --- |
+| Prorroga | Debe estar prevista y acordarse conforme al pliego y la ley. |
+| Modificacion | Requiere causa, procedimiento y limites. |
+| Revision de precios | Solo en supuestos legalmente admitidos. |
+| Penalidades | Reaccion frente a incumplimientos sin resolver necesariamente el contrato. |
+| Resolucion | Extingue por incumplimiento, imposibilidad u otras causas. |
+
+En el ambito municipal, contratar bien significa preparar bien. Muchos problemas de ejecucion nacen de pliegos imprecisos, criterios mal definidos, presupuesto insuficiente o falta de seguimiento por el responsable del contrato.

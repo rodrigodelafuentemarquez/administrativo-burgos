@@ -16,6 +16,46 @@ La potestad sancionadora es la facultad de las Administraciones Publicas de impo
 
 No es una potestad libre. Tiene naturaleza punitiva y por ello se somete a garantias estrictas: legalidad, tipicidad, culpabilidad, proporcionalidad, presuncion de inocencia, procedimiento, audiencia y separacion entre instruccion y resolucion cuando proceda.
 
+| Principio | Contenido |
+| --- | --- |
+| Legalidad | Solo se sanciona cuando una norma habilita la potestad. |
+| Tipicidad | La conducta debe encajar en una infraccion previamente definida. |
+| Culpabilidad | Debe existir responsabilidad de la persona infractora; no basta el resultado. |
+| Proporcionalidad | La sancion debe adecuarse a gravedad, dano, intencionalidad y circunstancias. |
+| Presuncion de inocencia | La Administracion debe probar los hechos. |
+| Non bis in idem | No puede sancionarse dos veces por los mismos hechos, sujeto y fundamento. |
+
+La potestad sancionadora administrativa se parece al Derecho penal en garantias, aunque se tramite por procedimiento administrativo. Por eso no basta con "sospechar" una infraccion: hacen falta hechos probados, tipificacion correcta y resolucion motivada.
+
+## Procedimiento sancionador
+
+El procedimiento sancionador suele iniciarse de oficio por acuerdo del organo competente, a partir de denuncia, acta de inspeccion, informe policial o iniciativa administrativa. Debe identificar hechos, posible infraccion, sancion que pudiera corresponder, instructor y organo competente para resolver.
+
+| Fase | Funcion |
+| --- | --- |
+| Actuaciones previas | Comprobar si existen indicios suficientes. |
+| Iniciacion | Abre formalmente el expediente e informa de hechos y derechos. |
+| Instruccion | Practica prueba, recibe alegaciones y formula propuesta. |
+| Audiencia | Permite defenderse antes de resolver. |
+| Resolucion | Declara responsabilidad o archivo, motivando hechos y sancion. |
+| Ejecucion | Hace efectiva la sancion cuando sea firme o ejecutiva. |
+
+La separacion entre fase instructora y resolutoria refuerza la imparcialidad. Quien instruye no debe resolver cuando la normativa exige separacion funcional.
+
+## Potestad sancionadora local
+
+En el ambito municipal aparecen sanciones por ordenanzas de convivencia, trafico urbano, limpieza, ruidos, terrazas, venta ambulante, animales, urbanismo, medio ambiente, actividades o uso de instalaciones. La ordenanza debe tener cobertura legal suficiente y respetar limites de cuantia y tipificacion.
+
+| Ejemplo local | Posible interes protegido |
+| --- | --- |
+| Ruido o molestias | Convivencia, descanso y medio ambiente urbano. |
+| Ocupacion de via publica sin titulo | Uso comun del dominio publico. |
+| Incumplimiento de licencia | Legalidad urbanistica o actividad. |
+| Vertidos o suciedad | Salubridad y limpieza urbana. |
+| Venta ambulante irregular | Ordenacion del comercio y espacio publico. |
+
+En un expediente sancionador municipal es decisivo cuidar notificaciones, prueba, identificacion de la persona responsable, plazos de prescripcion y caducidad, graduacion de sancion y competencia del organo que resuelve.
+
 ## Principio de legalidad
 
 Solo pueden sancionarse conductas que constituyan infraccion administrativa segun norma con rango suficiente. Nadie puede ser sancionado por acciones u omisiones que en el momento de producirse no constituyan infraccion.
@@ -57,4 +97,3 @@ Los Ayuntamientos ejercen potestad sancionadora en materias de competencia munic
 La potestad sancionadora local se apoya en leyes sectoriales y ordenanzas. El Pleno aprueba ordenanzas que definen deberes ciudadanos e infracciones dentro del marco legal. La tramitacion de expedientes sancionadores exige rigor: identificacion de hechos, prueba suficiente, audiencia, motivacion, proporcionalidad y notificacion correcta.
 
 Para un administrativo municipal, es clave distinguir denuncia, acta de inspeccion, incoacion, alegaciones, propuesta de resolucion, resolucion, notificacion, recurso y ejecucion de sancion.
-
