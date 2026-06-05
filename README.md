@@ -298,7 +298,7 @@ Estado por tema:
 
 | Grupo | Temas | Estado |
 | --- | ---: | --- |
-| I | 9 | En adaptacion: I.1, I.2 e I.3 creados como borrador |
+| I | 9 | Borrador completo: I.1 a I.9 creados |
 | II | 12 | Pendiente |
 | III | 5 | Pendiente |
 | IV | 5 | Pendiente |

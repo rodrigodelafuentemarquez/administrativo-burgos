@@ -77,18 +77,18 @@ export const officialGroups: OfficialGroup[] = [
       topic('I', 3, 'La Constitucion Espanola (III): organizacion territorial, comunidades autonomas, estatutos y distribucion competencial.', 'normal', 'base aprovechable', [
         match(7, 'La organizacion territorial del Estado. Las Comunidades Autonomas. El sistema de distribucion competencial.', 'alta'),
       ]),
-      topic('I', 4, 'El Gobierno y la Administracion del Estado, la administracion publica en el Ordenamiento Juridico Espanol.', 'normal', 'base parcial', [
+      topic('I', 4, 'El Gobierno y la Administracion del Estado, la administracion publica en el Ordenamiento Juridico Espanol.', 'normal', 'base aprovechable', [
         match(5, 'El Gobierno y la Administracion. Administracion General del Estado.', 'parcial'),
         match(13, 'Las Administraciones Publicas. Principios de organizacion administrativa.', 'parcial'),
       ]),
-      topic('I', 5, 'Las entidades locales: tipologia. Regimen local espanol, Ley de Bases de Regimen Local y Ley de Haciendas Locales.', 'normal', 'base parcial', [
+      topic('I', 5, 'Las entidades locales: tipologia. Regimen local espanol, Ley de Bases de Regimen Local y Ley de Haciendas Locales.', 'normal', 'base aprovechable', [
         match(9, 'Regimen Local espanol. Clases de Entes Locales. Regulacion juridica.', 'alta'),
         match(30, 'Presupuesto de las Entidades Locales. Gestion economica local.', 'parcial', 'Solo sirve para la parte de haciendas locales.'),
       ]),
-      topic('I', 6, 'El municipio: concepto y elementos. Termino municipal. Poblacion y empadronamiento.', 'normal', 'base parcial', [
+      topic('I', 6, 'El municipio: concepto y elementos. Termino municipal. Poblacion y empadronamiento.', 'normal', 'base aprovechable', [
         match(9, 'Regimen Local espanol. Clases de Entes Locales. Regulacion juridica.', 'parcial', 'Falta desarrollo especifico de municipio, poblacion y padron.'),
       ]),
-      topic('I', 7, 'Organizacion politica y administrativa del Ayuntamiento de Burgos: Pleno, alcalde, tenientes de alcalde, Junta de Gobierno Local, Secretaria, Intervencion y Gestion Tributaria.', 'alta', 'pendiente'),
+      topic('I', 7, 'Organizacion politica y administrativa del Ayuntamiento de Burgos: Pleno, alcalde, tenientes de alcalde, Junta de Gobierno Local, Secretaria, Intervencion y Gestion Tributaria.', 'alta', 'base aprovechable'),
       topic('I', 8, 'La Union Europea. Instituciones comunitarias principales.', 'normal', 'base aprovechable', [
         match(41, 'La Union Europea: origen, evolucion e instituciones europeas.', 'alta'),
       ]),
