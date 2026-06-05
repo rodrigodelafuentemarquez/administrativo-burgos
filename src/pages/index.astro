@@ -4,6 +4,8 @@ import Layout from '../layouts/Layout.astro';
 import { officialGroups, syllabusStats } from '../data/burgosSyllabus';
 
 const currentTopics = (await getCollection('temas')).sort((a, b) => a.data.tema - b.data.tema);
+const officialContent = await getCollection('programa');
+const officialContentIds = new Set(officialContent.map((tema) => tema.id.replace(/\.md$/, '')));
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const statusTone = {
   pendiente: 'danger',
@@ -15,6 +17,7 @@ const priorityLabel = {
   alta: 'Alta prioridad',
   critica: 'Practico + desarrollo',
 };
+const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
 ---
 
 <Layout title="Administrativo Burgos 2026">
@@ -59,6 +62,10 @@ const priorityLabel = {
         <div class="official-topic-list">
           {group.topics.map((topic) => (
             <article class="official-topic">
+              {(() => {
+                const slug = officialSlug(topic.grupo, topic.numero);
+                const hasOfficialContent = officialContentIds.has(slug);
+                return (
               <div class="official-topic-main">
                 <div class="official-topic-number">{topic.grupo}.{topic.numero}</div>
                 <div class="official-topic-body">
@@ -67,6 +74,9 @@ const priorityLabel = {
                     <span class={topic.prioridad === 'critica' ? 'badge text-bg-primary' : 'badge text-bg-dark'}>{priorityLabel[topic.prioridad]}</span>
                   </div>
                   <h3>{topic.titulo}</h3>
+                  {hasOfficialContent && (
+                    <a class="btn btn-sm btn-primary mb-3" href={`${base}programa/${slug}`}>Abrir tema oficial</a>
+                  )}
                   {topic.matches.length > 0 ? (
                     <div class="topic-matches">
                       <span>Material actual relacionado:</span>
@@ -85,6 +95,8 @@ const priorityLabel = {
                   )}
                 </div>
               </div>
+                );
+              })()}
             </article>
           ))}
         </div>

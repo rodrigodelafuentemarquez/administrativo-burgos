@@ -9,4 +9,15 @@ const temas = defineCollection({
   }),
 });
 
-export const collections = { temas };
+const programa = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/programa' }),
+  schema: z.object({
+    grupo: z.string(),
+    tema: z.number(),
+    codigo: z.string(),
+    titulo: z.string(),
+    estado: z.enum(['borrador', 'en revision', 'revisado']),
+  }),
+});
+
+export const collections = { temas, programa };
