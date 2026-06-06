@@ -20,6 +20,19 @@ La Union se fundamenta en valores como respeto de la dignidad humana, libertad, 
 
 Los objetivos de la Union incluyen promover la paz, sus valores y el bienestar de sus pueblos; ofrecer un espacio de libertad, seguridad y justicia sin fronteras interiores; establecer un mercado interior; favorecer desarrollo sostenible; combatir exclusion social y discriminacion; fomentar justicia y proteccion social; promover cohesion economica, social y territorial; respetar diversidad cultural y linguistica; y establecer una union economica y monetaria cuya moneda es el euro para los Estados que participan en ella.
 
+| Rasgo de la Union Europea | Significado |
+|---|---|
+| Organizacion de integracion | Los Estados ceden ejercicio de competencias en ciertas materias. |
+| Derecho propio | Existe un ordenamiento europeo con efectos en los Estados miembros. |
+| Primacia | El Derecho de la Union prevalece frente al nacional incompatible. |
+| Finalidad | Integracion politica, juridica, economica y social. |
+
+### Ideas base que suelen preguntarse
+
+1. La Union no actua con competencia general.
+2. Sus instituciones representan intereses distintos: ciudadanos, Estados e interes general europeo.
+3. El Tribunal de Justicia asegura una interpretacion uniforme del Derecho de la Union.
+
 ## Principios de atribucion, subsidiariedad y proporcionalidad
 
 La Union actua conforme al principio de atribucion. Solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados. Las competencias no atribuidas a la Union corresponden a los Estados miembros.
@@ -30,6 +43,12 @@ El principio de proporcionalidad exige que el contenido y la forma de la accion 
 
 Estos principios son importantes porque delimitan el alcance de la actuacion europea y explican la relacion entre Union y Estados miembros.
 
+| Principio | Regla esencial |
+|---|---|
+| Atribucion | La Union solo actua en competencias atribuidas por los Tratados. |
+| Subsidiariedad | En competencias no exclusivas, solo actua si la escala europea es mas eficaz. |
+| Proporcionalidad | La accion no debe exceder de lo necesario. |
+
 ## Sistema institucional de la Union
 
 La Union dispone de un marco institucional destinado a promover sus valores, perseguir sus objetivos, defender sus intereses, los de sus ciudadanos y los de los Estados miembros, y garantizar coherencia, eficacia y continuidad de sus politicas y acciones.
@@ -37,6 +56,14 @@ La Union dispone de un marco institucional destinado a promover sus valores, per
 Las instituciones principales son Parlamento Europeo, Consejo Europeo, Consejo, Comision Europea, Tribunal de Justicia de la Union Europea, Banco Central Europeo y Tribunal de Cuentas. El programa de Burgos selecciona cinco de ellas, que son las mas relevantes para el equilibrio politico y juridico de la Union.
 
 El sistema institucional europeo se basa en equilibrios. La Comision impulsa y vela por el interes general de la Union. El Parlamento representa a la ciudadania europea. El Consejo representa a los Gobiernos de los Estados miembros. El Consejo Europeo define orientaciones politicas generales. El Tribunal de Justicia garantiza la interpretacion y aplicacion uniforme del Derecho de la Union.
+
+| Institucion | A quien representa o que asegura |
+|---|---|
+| Parlamento Europeo | Ciudadanos de la Union. |
+| Consejo Europeo | Impulso politico general de los Estados miembros. |
+| Consejo de la Union Europea | Gobiernos de los Estados miembros en la funcion legislativa y coordinadora. |
+| Comision Europea | Interes general de la Union. |
+| Tribunal de Justicia de la Union Europea | Legalidad e interpretacion uniforme del Derecho de la Union. |
 
 ## El Consejo Europeo
 
@@ -49,6 +76,14 @@ El Consejo Europeo es clave en grandes decisiones politicas: prioridades estrate
 El Presidente del Consejo Europeo es elegido por el propio Consejo Europeo por mayoria cualificada para un mandato de dos anos y medio, renovable una vez. No puede ejercer mandato nacional. Su funcion consiste en presidir e impulsar los trabajos del Consejo Europeo, velar por su preparacion y continuidad, facilitar cohesion y consenso, y presentar informe al Parlamento Europeo tras cada reunion.
 
 Las decisiones del Consejo Europeo suelen adoptarse por consenso, salvo que los Tratados dispongan otra cosa. Esta regla refleja su naturaleza politica y la importancia de los Estados miembros en las grandes orientaciones de la Union.
+
+| Consejo Europeo | Contenido |
+|---|---|
+| Integrantes | Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comision. |
+| Funcion | Fijar orientaciones y prioridades politicas generales. |
+| Funcion legislativa | No ejerce funcion legislativa ordinaria. |
+| Presidente | Mandato de `dos anos y medio`, renovable una vez. |
+| Regla habitual de decision | Consenso. |
 
 ## El Consejo de la Union Europea
 
@@ -64,6 +99,19 @@ El Consejo adopta decisiones por mayoria cualificada como regla general, salvo m
 
 El Comite de Representantes Permanentes, COREPER, prepara los trabajos del Consejo. Esta integrado por representantes permanentes de los Estados miembros ante la Union Europea y desempeña una funcion esencial de negociacion tecnica y politica.
 
+| Consejo de la Union Europea | Idea clave |
+|---|---|
+| Composicion | Un ministro por cada Estado miembro segun la materia. |
+| Funcion | Colegisla y aprueba presupuesto junto al Parlamento. |
+| Formaciones | ECOFIN, Asuntos Generales, Justicia e Interior y otras. |
+| Regla de voto general | Mayoria cualificada. |
+| Apoyo tecnico-politico | COREPER. |
+
+### Lo que no conviene confundir
+
+- `Consejo Europeo`: marca orientacion politica general.
+- `Consejo de la Union Europea`: legisla y coordina politicas junto al Parlamento.
+
 ## El Parlamento Europeo
 
 El Parlamento Europeo representa directamente a los ciudadanos de la Union. Sus miembros son elegidos por sufragio universal directo, libre y secreto para un mandato de cinco anos.
@@ -76,6 +124,14 @@ En materia presupuestaria, el Parlamento participa en la aprobacion del presupue
 
 El Parlamento se organiza en Presidente, Mesa, Conferencia de Presidentes, comisiones parlamentarias y grupos politicos. Los diputados no se agrupan por nacionalidad sino por afinidad politica.
 
+| Parlamento Europeo | Contenido |
+|---|---|
+| Representacion | Ciudadanos de la Union. |
+| Eleccion | Sufragio universal directo. |
+| Mandato | `Cinco anos`. |
+| Funciones | Legislativa, presupuestaria y control politico. |
+| Mecanismo de control intenso | Mocion de censura a la Comision. |
+
 ## La Comision Europea
 
 La Comision Europea promueve el interes general de la Union. Es una institucion independiente de los Gobiernos nacionales. Sus miembros deben ejercer sus funciones con plena independencia y no solicitar ni aceptar instrucciones de ningun Gobierno, institucion, organo u organismo.
@@ -87,6 +143,14 @@ Tambien vela por la aplicacion de los Tratados y del Derecho de la Union. Por el
 La Comision ejecuta el presupuesto, gestiona programas europeos, adopta actos de ejecucion y representa a la Union en determinados ambitos exteriores, salvo en politica exterior y de seguridad comun cuando corresponda al Alto Representante.
 
 El Presidente de la Comision marca orientaciones, organiza la institucion, distribuye responsabilidades entre comisarios y representa politicamente a la Comision. El Colegio de Comisarios adopta decisiones de forma colegiada.
+
+| Comision Europea | Funcion |
+|---|---|
+| Papel central | Promover el interes general de la Union. |
+| Independencia | No recibe instrucciones de los Gobiernos nacionales. |
+| Poder destacado | Iniciativa legislativa en la mayoria de materias. |
+| Otra funcion clave | Vigilar cumplimiento de los Tratados. |
+| Gestion | Ejecuta presupuesto y programas europeos. |
 
 ## El Tribunal de Justicia de la Union Europea
 
@@ -102,6 +166,19 @@ El recurso por incumplimiento permite controlar si un Estado miembro ha incumpli
 
 El recurso de anulacion permite controlar la legalidad de actos de instituciones, organos u organismos de la Union. Si el Tribunal declara fundado el recurso, el acto puede ser anulado.
 
+| Tribunal de Justicia de la Union Europea | Contenido |
+|---|---|
+| Mision | Garantizar respeto del Derecho en la interpretacion y aplicacion de los Tratados. |
+| Estructura | Tribunal de Justicia y Tribunal General. |
+| Procedimientos clave | Incumplimiento, anulacion, omision, cuestion prejudicial y casacion. |
+| Valor practico | Asegura uniformidad del Derecho de la Union en todos los Estados miembros. |
+
+### Procedimientos que conviene memorizar
+
+1. `Cuestion prejudicial`: el juez nacional pregunta al TJUE.
+2. `Recurso por incumplimiento`: controla infracciones de los Estados miembros.
+3. `Recurso de anulacion`: combate actos ilegales de instituciones de la Union.
+
 ## Derecho de la Union y Administraciones Publicas
 
 La Union Europea incide de forma directa en las Administraciones Publicas espanolas, incluidas las entidades locales. Contratacion publica, proteccion de datos, medio ambiente, igualdad, fondos europeos, servicios, ayudas publicas, transparencia, administracion electronica y libre competencia son ambitos fuertemente influidos por el Derecho europeo.
@@ -110,3 +187,9 @@ Las Administraciones nacionales, autonomicas y locales deben aplicar el Derecho 
 
 Para un administrativo municipal, la Union Europea no es una materia lejana. Afecta a expedientes de contratacion, subvenciones financiadas con fondos europeos, proteccion de datos, procedimientos electronicos, derechos de ciudadanos europeos, libre circulacion y normativa ambiental o de consumo.
 
+| Impacto en un Ayuntamiento | Ejemplo |
+|---|---|
+| Contratacion publica | Publicidad, competencia y procedimientos armonizados. |
+| Proteccion de datos | Aplicacion del RGPD. |
+| Fondos europeos | Gestion y justificacion de subvenciones. |
+| Medio ambiente y consumo | Normativa europea aplicada a expedientes locales. |

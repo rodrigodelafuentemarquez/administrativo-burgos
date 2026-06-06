@@ -22,6 +22,14 @@ El articulo 140 de la Constitucion garantiza la autonomia de los municipios. Su 
 
 La autonomia municipal se traduce en capacidad para aprobar ordenanzas y reglamentos, gestionar servicios publicos, administrar bienes, aprobar presupuestos, ejercer competencias, recaudar tributos propios dentro del marco legal y defender sus intereses ante los tribunales.
 
+| Idea | Contenido |
+|---|---|
+| Municipio | Entidad local basica de la organizacion territorial del Estado. |
+| Naturaleza | Administracion Publica territorial con personalidad juridica plena. |
+| Base constitucional | Articulo 140 de la Constitucion. |
+| Gobierno municipal | Ayuntamiento, integrado por Alcalde y Concejales. |
+| Autonomia | Gestion de intereses propios dentro de la ley. |
+
 ## Elementos del municipio
 
 Los elementos esenciales del municipio son territorio, poblacion y organizacion.
@@ -29,6 +37,12 @@ Los elementos esenciales del municipio son territorio, poblacion y organizacion.
 El territorio es el termino municipal. Delimita el espacio fisico en el que el Ayuntamiento ejerce sus competencias. La poblacion esta formada por las personas inscritas en el padron municipal, que constituyen los vecinos del municipio. La organizacion esta integrada por los organos de gobierno y administracion municipal.
 
 Estos tres elementos se relacionan entre si. El Ayuntamiento ejerce sus potestades sobre un termino municipal concreto, respecto de una comunidad vecinal determinada y a traves de una organizacion institucional propia.
+
+| Elemento esencial | Funcion |
+|---|---|
+| Territorio | Delimita el espacio de ejercicio de competencias. |
+| Poblacion | Determina vecindad administrativa, servicios y representacion. |
+| Organizacion | Hace posible el gobierno y administracion municipal. |
 
 ## El termino municipal
 
@@ -42,6 +56,14 @@ La creacion de nuevos municipios exige que existan motivos de interes publico, n
 
 La alteracion de limites provinciales tiene especial relevancia constitucional, porque el articulo 141 exige que cualquier alteracion de los limites provinciales sea aprobada por las Cortes Generales mediante ley organica.
 
+| Alteracion del termino | Ejemplo |
+|---|---|
+| Incorporacion | Uno o varios municipios se integran en otro. |
+| Fusion | Dos o mas municipios forman uno nuevo. |
+| Segregacion para nuevo municipio | Parte del territorio se separa y crea municipio independiente. |
+| Segregacion para agregacion | Parte del territorio pasa a otro municipio. |
+| Modificacion de limites | Ajuste de deslindes territoriales. |
+
 ## La poblacion municipal
 
 La poblacion del municipio esta constituida por el conjunto de personas inscritas en el padron municipal. La condicion de vecino se adquiere en el momento de la inscripcion padronal.
@@ -51,6 +73,13 @@ Toda persona que viva en Espana esta obligada a inscribirse en el padron del mun
 La inscripcion en el padron no depende de la nacionalidad. Pueden inscribirse espanoles y extranjeros. La inscripcion padronal de extranjeros no constituye por si misma prueba de residencia legal en Espana ni atribuye derechos que no reconozca la normativa de extranjeria, pero si acredita residencia habitual en el municipio a efectos administrativos.
 
 La poblacion municipal tiene consecuencias juridicas muy importantes. Determina servicios minimos obligatorios, numero de Concejales, regimen organizativo, participacion en ingresos, planificacion de recursos, competencias y estadisticas oficiales.
+
+| Regla padronal | Consecuencia |
+|---|---|
+| Inscripcion en el padron | Atribuye condicion de vecino. |
+| Residencia habitual | Determina municipio de inscripcion. |
+| Nacionalidad irrelevante | Tambien pueden inscribirse extranjeros. |
+| Poblacion oficial | Influye en concejales, servicios y financiacion. |
 
 ## El padron municipal
 
@@ -62,6 +91,14 @@ Los datos obligatorios del padron incluyen nombre y apellidos, sexo, domicilio h
 
 El Ayuntamiento puede comprobar la veracidad de los datos consignados por los vecinos y exigir documentacion acreditativa de identidad y domicilio. La finalidad es garantizar que el padron refleje la residencia habitual real.
 
+| Padron municipal | Nota clave |
+|---|---|
+| Naturaleza | Registro administrativo. |
+| Funcion | Acredita residencia y domicilio habitual. |
+| Gestion | Corresponde al Ayuntamiento. |
+| Datos | Identidad, domicilio, nacionalidad, nacimiento, documento y datos necesarios legalmente. |
+| Limite | Debe respetar proteccion de datos personales. |
+
 ## Gestion del padron
 
 Las altas padronales se producen cuando una persona se inscribe como residente habitual en el municipio. Las bajas se producen por traslado de residencia a otro municipio, defuncion, inscripcion indebida u otros supuestos legalmente previstos. Las modificaciones corrigen cambios de domicilio dentro del municipio o variaciones de datos personales.
@@ -72,6 +109,14 @@ Los Ayuntamientos deben remitir al Instituto Nacional de Estadistica las variaci
 
 En el caso de extranjeros no comunitarios sin autorizacion de residencia de larga duracion, la normativa preve renovacion periodica de la inscripcion padronal. La falta de renovacion puede dar lugar a la caducidad de la inscripcion.
 
+| Actuacion padronal | Contenido |
+|---|---|
+| Alta | Nueva inscripcion por residencia habitual. |
+| Baja | Traslado, defuncion, duplicidad o inscripcion indebida. |
+| Modificacion | Cambio de domicilio o de datos personales. |
+| Coordinacion con INE | Evita duplicidades y fija cifra oficial de poblacion. |
+| Renovacion en ciertos extranjeros | Evita permanencia de inscripciones caducadas. |
+
 ## Derechos y deberes de los vecinos
 
 La condicion de vecino comporta derechos y deberes. Entre los derechos se encuentran ser elector y elegible de acuerdo con la legislacion electoral, participar en la gestion municipal en los terminos previstos por la ley, utilizar los servicios publicos municipales, acceder a aprovechamientos comunales cuando proceda, ser informado, pedir consulta popular en los terminos legales, exigir la prestacion de servicios obligatorios y ejercer la iniciativa popular municipal cuando se cumplan los requisitos.
@@ -80,6 +125,15 @@ Los vecinos deben contribuir mediante prestaciones economicas y personales legal
 
 La participacion vecinal se canaliza a traves de elecciones municipales, informacion publica, organos de participacion, asociaciones vecinales, consultas populares, reclamaciones, sugerencias y otros mecanismos regulados por la ley y por el reglamento organico municipal.
 
+| Vecino del municipio | Derechos o deberes |
+|---|---|
+| Derecho | Ser elector y elegible conforme a la legislacion electoral. |
+| Derecho | Usar servicios publicos municipales y exigir servicios obligatorios. |
+| Derecho | Participar en la gestion municipal e iniciativa popular cuando proceda. |
+| Deber | Contribuir con prestaciones legalmente previstas. |
+| Deber | Respetar ordenanzas y reglamentos. |
+| Deber | Facilitar datos veraces para la gestion padronal. |
+
 ## Padron y servicios publicos
 
 El padron es una herramienta esencial para planificar servicios publicos. Permite conocer cuantos vecinos residen en el municipio, donde se concentran, que estructura de edad existe y que necesidades pueden derivarse de esa poblacion.
@@ -87,6 +141,13 @@ El padron es una herramienta esencial para planificar servicios publicos. Permit
 En la practica municipal, los datos padronales se relacionan con servicios sociales, educacion, transporte, limpieza, abastecimiento, seguridad, urbanismo, participacion ciudadana y gestion tributaria. Tambien tienen relevancia para acreditar domicilio en tramites administrativos.
 
 El certificado o volante de empadronamiento se utiliza habitualmente para acreditar residencia o domicilio. El certificado tiene mayor valor formal y suele ir firmado por autoridad o funcionario habilitado, mientras que el volante tiene finalidad informativa. En ambos casos debe respetarse la normativa de proteccion de datos.
+
+| Documento | Uso habitual |
+|---|---|
+| Certificado de empadronamiento | Acreditacion formal de residencia o domicilio. |
+| Volante de empadronamiento | Informacion o acreditacion simple de datos padronales. |
+| Datos estadisticos | Planificacion de servicios publicos. |
+| Datos padronales en tramites | Identificacion de domicilio a efectos administrativos. |
 
 ## Padron y proteccion de datos
 
@@ -103,4 +164,3 @@ Burgos es un municipio de Castilla y Leon y capital de la provincia de Burgos. S
 Por su poblacion y relevancia urbana, el Ayuntamiento de Burgos se organiza conforme al regimen comun local con especialidades propias de los municipios de gran poblacion, desarrolladas por la legislacion local y por su Reglamento Organico y de Funcionamiento. Esta circunstancia conecta directamente con el Tema I.7, dedicado a la organizacion politica y administrativa del Ayuntamiento de Burgos.
 
 Para el personal administrativo municipal, el padron no es solo una materia teorica. Es un registro vivo que afecta a derechos, servicios, planificacion, informacion ciudadana, expedientes, certificados, interoperabilidad administrativa y atencion al publico.
-

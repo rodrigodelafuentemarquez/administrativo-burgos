@@ -48,19 +48,5 @@ const { review } = Astro.props;
         </div>
       </div>
     )}
-
-    {review.topic.matches.length > 0 && (
-      <div class="topic-review__matches">
-        <h3>Material antiguo que se aprovecha</h3>
-        <ul>
-          {review.topic.matches.map((match) => (
-            <li>
-              <strong>Tema {match.tema}:</strong> {match.titulo}
-              <span>({match.calidad})</span>
-            </li>
-          ))}
-        </ul>
-      </div>
-    )}
   </section>
 )}

@@ -22,6 +22,24 @@ Burgos, por su poblacion y caracter urbano, se integra en el regimen de municipi
 
 La organizacion municipal tiene dos dimensiones. La organizacion politica esta formada por organos representativos y de gobierno: Pleno, Alcaldia, Tenientes de Alcalde y Junta de Gobierno Local. La organizacion administrativa esta integrada por organos directivos, unidades administrativas y organos especializados que gestionan servicios municipales, expedientes, recursos humanos, presupuesto, tributos, intervencion, asesoramiento juridico, registro, archivo y atencion ciudadana.
 
+| Plano organizativo | Contenido principal |
+|---|---|
+| Organizacion politica | Pleno, Alcalde, Tenientes de Alcalde y Junta de Gobierno Local. |
+| Organizacion administrativa | Secretaria, Intervencion, gestion tributaria, tesoreria, asesoria juridica, servicios y unidades administrativas. |
+| Funcion del modelo de gran poblacion | Separar mejor direccion politica, control plenario y gestion ejecutiva. |
+
+## Esquema general de organos del programa
+
+Para fijar bien el tema conviene partir de un esquema muy simple:
+
+1. `Pleno`: aprueba normas, presupuestos y controla politicamente.
+2. `Alcalde`: representa al Ayuntamiento y dirige el gobierno municipal.
+3. `Tenientes de Alcalde`: sustituyen al Alcalde y pueden coordinar areas.
+4. `Junta de Gobierno Local`: asume buena parte de la funcion ejecutiva.
+5. `Secretaria General`: garantiza fe publica y asesoramiento legal.
+6. `Intervencion General`: controla la actividad economico-financiera.
+7. `Organo de Gestion Tributaria y Tesoreria`: gestiona ingresos, recaudacion y fondos.
+
 ## El Pleno
 
 El Pleno es el organo de maxima representacion politica de la ciudad. Esta integrado por el Alcalde y los Concejales. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto. El Alcalde preside el Pleno, salvo en aquellos supuestos en que el Reglamento Organico prevea formulas de delegacion o funcionamiento especifico conforme al regimen de municipios de gran poblacion.
@@ -33,6 +51,23 @@ Entre sus atribuciones se encuentran el control y fiscalizacion de los organos d
 El Pleno funciona mediante sesiones ordinarias, extraordinarias y extraordinarias urgentes. La convocatoria debe incluir orden del dia. Los asuntos no incluidos no pueden ser tratados salvo que proceda legalmente y se aprecie urgencia con los requisitos exigidos. El funcionamiento plenario se apoya en comisiones, grupos municipales, portavoces, secretaria y documentacion preparatoria.
 
 El Pleno no es el organo que resuelve todos los expedientes municipales. En municipios de gran poblacion muchas competencias ejecutivas corresponden a la Junta de Gobierno Local, al Alcalde, a Concejales delegados u organos directivos. Por eso es importante distinguir entre funcion normativa y de control, mas propia del Pleno, y funcion ejecutiva, mas vinculada a Alcaldia, Junta de Gobierno y estructura administrativa.
+
+| Pleno | Idea clave |
+|---|---|
+| Naturaleza | Organo de maxima representacion politica municipal. |
+| Integrantes | Alcalde y Concejales. |
+| Funcion central | Debate, control, aprobacion normativa y presupuestaria. |
+| Sesiones | Ordinarias, extraordinarias y extraordinarias urgentes. |
+| Apoyo tecnico | Secretaria, comisiones, grupos municipales y documentacion previa. |
+
+### Competencias tipicas del Pleno
+
+- Control y fiscalizacion de los organos de gobierno.
+- Aprobacion de `ordenanzas`, `reglamentos` y `reglamento organico`.
+- Aprobacion del `presupuesto`.
+- Determinacion de `recursos tributarios propios`.
+- Acuerdos urbanisticos reservados por la ley.
+- Mocion de censura y cuestion de confianza.
 
 ## El Alcalde
 
@@ -46,6 +81,23 @@ En municipios de gran poblacion, parte de las competencias ejecutivas se atribuy
 
 Los actos del Alcalde suelen adoptar la forma de decreto o resolucion. En la tramitacion administrativa ordinaria, muchas resoluciones municipales se dictan por Alcaldia o por Concejales delegados, y deben ser notificadas, publicadas o ejecutadas segun su naturaleza.
 
+| Alcalde | Contenido |
+|---|---|
+| Posicion | Presidente de la Corporacion y maxima representacion municipal. |
+| Funcion | Dirige el gobierno y la administracion municipal. |
+| Eleccion | Conforme a la legislacion electoral local. |
+| Instrumentos habituales | Bandos, decretos, resoluciones, delegaciones e instrucciones. |
+| Clave de examen | No absorbe todas las competencias; convive con Pleno y Junta de Gobierno Local. |
+
+### Facultades destacadas del Alcalde
+
+1. Representar al Ayuntamiento.
+2. Dirigir la politica municipal.
+3. Convocar y presidir organos colegiados cuando proceda.
+4. Ejercer la jefatura superior del personal.
+5. Dirigir la policia municipal en los terminos legales.
+6. Adoptar medidas urgentes ante grave riesgo.
+
 ## Los Tenientes de Alcalde
 
 Los Tenientes de Alcalde son nombrados por el Alcalde entre los miembros de la Junta de Gobierno Local. Su funcion esencial es sustituir al Alcalde, por el orden de nombramiento, en los casos de vacante, ausencia, enfermedad o impedimento.
@@ -53,6 +105,13 @@ Los Tenientes de Alcalde son nombrados por el Alcalde entre los miembros de la J
 Ademas de esa funcion de sustitucion, pueden asumir delegaciones de Alcaldia. En la practica municipal, los Tenientes de Alcalde suelen coordinar areas de gobierno o responsabilidades politicas relevantes. No obstante, su posicion juridica debe distinguirse de la de los Concejales delegados y de los organos directivos administrativos.
 
 El nombramiento y cese de los Tenientes de Alcalde corresponde libremente al Alcalde y debe formalizarse mediante resolucion. La existencia de Tenientes de Alcalde permite garantizar continuidad institucional y distribucion de responsabilidades dentro del gobierno municipal.
+
+| Tenientes de Alcalde | Idea esencial |
+|---|---|
+| Nombramiento | Lo realiza el Alcalde entre miembros de la Junta de Gobierno Local. |
+| Funcion minima necesaria | Sustitucion del Alcalde por orden de nombramiento. |
+| Funcion adicional posible | Coordinacion de areas o ejercicio de delegaciones. |
+| Cese | Libremente acordado por el Alcalde. |
 
 ## La Junta de Gobierno Local
 
@@ -64,6 +123,20 @@ La Junta de Gobierno Local colabora en la direccion politica y administrativa de
 
 Sus sesiones no tienen el mismo caracter publico que las del Pleno. La publicidad, documentacion, acuerdos y certificaciones se ajustan a la normativa de regimen local y al Reglamento Organico municipal. Para el personal administrativo, la Junta de Gobierno Local es muy importante porque muchos expedientes culminan en acuerdos de este organo.
 
+| Junta de Gobierno Local | Contenido |
+|---|---|
+| Naturaleza | Organo colegiado de gobierno con fuerte peso ejecutivo. |
+| Presidencia | Alcalde. |
+| Composicion | Miembros nombrados y separados libremente por el Alcalde dentro de la ley. |
+| Papel en gran poblacion | Mucho mas intenso que en el regimen comun. |
+| Materias frecuentes | Presupuesto, personal, contratacion, patrimonio, licencias y gestion economica. |
+
+### Lo que conviene no confundir
+
+- `Pleno`: controla y aprueba grandes decisiones.
+- `Junta de Gobierno Local`: ejecuta y gestiona gran parte de la actividad ordinaria.
+- `Alcalde`: dirige politicamente y coordina el conjunto.
+
 ## Organizacion administrativa municipal
 
 La organizacion administrativa del Ayuntamiento de Burgos se estructura en areas, servicios, organos directivos y unidades administrativas. La informacion de directorio organico identifica, entre otras unidades, Alcaldia, Secretaria General del Pleno, Intervencion General, Organo de Gestion Tributaria y Tesoreria, Asesoria Juridica, Archivo y servicios sectoriales.
@@ -71,6 +144,13 @@ La organizacion administrativa del Ayuntamiento de Burgos se estructura en areas
 En los municipios de gran poblacion, la organizacion administrativa puede incluir coordinadores generales, directores generales u organos directivos equivalentes, ademas de las habilitaciones nacionales y unidades administrativas ordinarias. La finalidad es profesionalizar la gestion, separar direccion politica y direccion administrativa, y mejorar la coordinacion de servicios.
 
 La estructura administrativa no es estatica. Puede modificarse por acuerdos y reglamentos municipales, relaciones de puestos de trabajo, decretos de organizacion y decisiones de gobierno dentro del marco legal. Por eso, para examen debe dominarse la posicion de los organos citados expresamente en el programa: Secretaria General, Intervencion General y Organo de Gestion Tributaria.
+
+| Organizacion administrativa | Funcion |
+|---|---|
+| Areas y servicios | Ejecutan politicas y tramitan expedientes por materias. |
+| Organos directivos | Coordinan y dirigen administrativamente areas complejas. |
+| Habilitados nacionales | Aseguran funciones de legalidad, control y tesoreria reservadas. |
+| Unidades administrativas | Gestion diaria, registro, archivo, atencion y tramitacion. |
 
 ## La Secretaria General
 
@@ -81,6 +161,13 @@ La funcion de secretaria comprende fe publica y asesoramiento legal preceptivo. 
 El asesoramiento legal preceptivo consiste en emitir informes juridicos cuando la normativa lo exige, advertir de posibles ilegalidades y asistir juridicamente a los organos municipales. Esta funcion es esencial para que los acuerdos del Pleno y otros organos se adopten con respeto al ordenamiento juridico.
 
 En la practica administrativa, la Secretaria General interviene en expedientes de sesiones, acuerdos plenarios, certificaciones, registro de acuerdos, ordenanzas, reglamentos, delegaciones, organos colegiados y relaciones institucionales.
+
+| Secretaria General | Funcion principal |
+|---|---|
+| Fe publica | Actas, certificaciones, autenticidad y regularidad formal. |
+| Asesoramiento legal preceptivo | Informes y advertencias juridicas cuando proceda. |
+| Apoyo a organos colegiados | Convocatorias, sesiones, acuerdos y custodia documental. |
+| Perfil | Funcion publica necesaria reservada legalmente. |
 
 ## La Intervencion General
 
@@ -94,6 +181,13 @@ El control financiero verifica funcionamiento economico-financiero, cumplimiento
 
 Para el Ayuntamiento, la Intervencion General es clave en presupuesto, modificaciones presupuestarias, contratacion, subvenciones, nominas, pagos, justificacion de gastos y rendicion de cuentas.
 
+| Intervencion General | Contenido |
+|---|---|
+| Funcion nuclear | Control interno economico-financiero y presupuestario. |
+| Tecnicas basicas | Funcion interventora y control financiero. |
+| Posibles reacciones | Fiscalizacion favorable, reparo, observaciones o informes. |
+| Ambitos frecuentes | Presupuesto, gasto, subvenciones, contratos, personal y cuentas. |
+
 ## El Organo de Gestion Tributaria y Tesoreria
 
 La normativa municipal de Burgos incluye un Reglamento del Organo de Gestion Tributaria y de Tesoreria. La web municipal indica que este organo se crea para garantizar la justa aplicacion de las normas tributarias y prestar un servicio integral de gestion tributaria eficaz.
@@ -103,6 +197,21 @@ El Organo de Gestion Tributaria y Tesoreria se vincula a la aplicacion de los tr
 La Tesoreria gestiona fondos, cobros y pagos, liquidez, cuentas bancarias, recaudacion y planificacion de tesoreria. En conexion con gestion tributaria, permite que la Hacienda municipal cuente con recursos para prestar servicios.
 
 En Burgos, la informacion municipal agrupa tramites de padron, tributos y recaudacion, y destaca que el area de Estadistica y el Organo de Gestion Tributaria facilitan gestiones a la ciudadania. Para una plaza administrativa, este bloque tiene relevancia directa porque muchos puestos municipales se relacionan con atencion tributaria, expedientes de ingresos, recibos, autoliquidaciones, notificaciones, recursos y recaudacion.
+
+| Organo de Gestion Tributaria y Tesoreria | Funcion |
+|---|---|
+| Gestion tributaria | Aplicacion de tributos e ingresos de derecho publico. |
+| Recaudacion | Cobro en periodo voluntario y ejecutivo cuando proceda. |
+| Atencion al contribuyente | Informacion, asistencia y tramitacion de beneficios fiscales. |
+| Tesoreria | Gestion de fondos, pagos, liquidez y cuentas. |
+
+### Circuito practico habitual
+
+1. Nace una obligacion tributaria o un ingreso municipal.
+2. Se gestiona el padron fiscal, liquidacion o autoliquidacion.
+3. Se notifica o pone al cobro.
+4. Se recauda en periodo voluntario o ejecutivo.
+5. Si hay impugnacion, se tramita recurso o reclamacion.
 
 ## Relacion con el Tribunal Economico-Administrativo Municipal
 
@@ -116,3 +225,11 @@ La organizacion politica y administrativa del Ayuntamiento de Burgos no debe est
 
 El trabajo administrativo municipal se mueve precisamente entre estos organos: preparar expedientes, incorporar informes, tramitar convocatorias, notificar acuerdos, publicar actos, gestionar registros, fiscalizar gastos, liquidar ingresos, atender ciudadanos y archivar documentacion.
 
+| Organo | Papel practico en la tramitacion |
+|---|---|
+| Pleno | Aprueba normas y acuerdos estructurales. |
+| Alcaldia | Dicta resoluciones y dirige servicios. |
+| Junta de Gobierno Local | Adopta muchos acuerdos ejecutivos. |
+| Secretaria | Da soporte juridico-formal y certifica. |
+| Intervencion | Controla legalidad economica del expediente. |
+| Gestion Tributaria y Tesoreria | Gestiona ingresos, cobro y fondos. |
