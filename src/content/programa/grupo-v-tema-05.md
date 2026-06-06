@@ -18,11 +18,32 @@ La prevencion no se limita a reaccionar ante accidentes. Exige evaluar riesgos, 
 
 La idea central de la Ley 31/1995 es preventiva, no reparadora. El accidente o la enfermedad profesional son el fracaso de la prevencion. Por eso la Administracion debe anticiparse, identificar riesgos y adoptar medidas antes de que se produzca el dano.
 
+<mark>Clave de examen:</mark> la prevencion de riesgos laborales no empieza cuando ocurre el accidente. Empieza con la **evaluacion de riesgos**, continua con la **planificacion preventiva** y se mantiene con informacion, formacion, vigilancia de la salud y mejora continua.
+
+La secuencia basica es:
+
+1. Identificar riesgos del puesto.
+2. Evaluarlos cuando no puedan evitarse.
+3. Planificar medidas preventivas.
+4. Informar y formar al personal.
+5. Vigilar la salud cuando proceda.
+6. Investigar danos e incidentes.
+7. Revisar y mejorar el sistema.
+
 ## Ambito de aplicacion
 
 Se aplica a relaciones laborales y al personal civil al servicio de Administraciones Publicas. Incluye funcionarios, laborales y otros empleados en los terminos legales. Existen particularidades para policia, proteccion civil, emergencias y actividades con normativa especifica.
 
 En una entidad local, la ley alcanza al personal administrativo, policia local, personal de oficios, limpieza, instalaciones deportivas, bibliotecas, servicios sociales, brigadas, cementerio, mercados y demas servicios municipales. Cada puesto tiene riesgos diferentes, por lo que no basta una prevencion generica.
+
+| Colectivo municipal | Riesgos habituales |
+| --- | --- |
+| Administrativo | Pantallas, postura, carga mental, atencion al publico, caidas al mismo nivel. |
+| Policia local | Turnicidad, intervenciones, trafico, agresiones, carga psicologica. |
+| Oficios y brigadas | Herramientas, maquinaria, cargas, ruido, caidas, productos. |
+| Bibliotecas/cultura | Atencion ciudadana, manipulacion de fondos, ergonomia, evacuacion. |
+| Deportes/instalaciones | Mantenimiento, humedad, productos, usuarios, emergencias. |
+| Servicios sociales | Riesgo psicosocial, visitas, situaciones conflictivas, datos sensibles. |
 
 ## Principios de accion preventiva
 
@@ -45,6 +66,19 @@ La Administracion debe garantizar seguridad y salud del personal. Debe elaborar 
 Tambien debe consultar y permitir participacion a trabajadores mediante delegados de prevencion y comite de seguridad y salud cuando proceda.
 
 La vigilancia de la salud debe ser proporcional al riesgo y respetar intimidad y confidencialidad. Con caracter general requiere consentimiento, salvo supuestos en que sea imprescindible para evaluar efectos de condiciones de trabajo o verificar si el estado del trabajador puede constituir peligro.
+
+Obligaciones que conviene memorizar:
+
+- integrar la prevencion en la organizacion;
+- realizar evaluacion de riesgos;
+- planificar actividad preventiva;
+- proporcionar equipos y medios adecuados;
+- informar y formar;
+- consultar a trabajadores y representantes;
+- adoptar medidas de emergencia;
+- coordinar actividades empresariales;
+- vigilar la salud con garantias;
+- investigar accidentes y enfermedades profesionales.
 
 ## Obligaciones de trabajadores
 
@@ -71,6 +105,18 @@ En un puesto administrativo destacan riesgos ergonomicos por pantalla, teclado, 
 Debe ajustarse puesto de pantalla, silla, mesa e iluminacion; realizar pausas; alternar tareas; mantener orden y cableado seguro; formar en atencion al publico conflictiva; aplicar protocolos frente a acoso y violencia; respetar evacuacion y emergencias; usar equipos correctamente; y comunicar incidencias.
 
 La prevencion en oficinas no es menor: reduce bajas, errores, conflictos y deterioro de salud.
+
+| Medida | Como se aplica en oficina |
+| --- | --- |
+| Pantalla | A altura de la vista, sin reflejos y con distancia adecuada. |
+| Silla | Regulable, estable y con apoyo lumbar. |
+| Mesa | Espacio suficiente para teclado, raton y documentos. |
+| Pausas | Alternar tareas y descansar vista y postura. |
+| Orden | Evitar cajas, cables y obstaculos en zonas de paso. |
+| Atencion conflictiva | Protocolos, apoyo, formacion y aviso a responsables. |
+| Emergencias | Conocer salidas, alarmas, puntos de reunion y roles. |
+
+<mark>No minusvalorar el puesto administrativo:</mark> aunque no haya maquinaria pesada, existen riesgos ergonomicos, visuales, psicosociales, organizativos y de seguridad que deben evaluarse y prevenirse.
 
 ## Documentacion preventiva
 

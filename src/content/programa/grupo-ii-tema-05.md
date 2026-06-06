@@ -22,6 +22,19 @@ Las Administraciones Publicas sirven con objetividad los intereses generales y a
 
 La eficacia busca alcanzar fines publicos. La eficiencia exige utilizar racionalmente recursos. La jerarquia ordena relaciones internas entre organos superiores e inferiores. La descentralizacion atribuye competencias a entidades con personalidad propia. La desconcentracion distribuye competencias dentro de una misma Administracion. La coordinacion evita contradicciones y duplicidades. La cooperacion es esencial entre Administraciones sin relacion jerarquica.
 
+| Principio | Explicacion rapida |
+| --- | --- |
+| Eficacia | Cumplir fines publicos. |
+| Eficiencia | Usar bien los recursos. |
+| Jerarquia | Relacion superior-inferior dentro de la organizacion. |
+| Descentralizacion | Competencias en otra entidad con personalidad propia. |
+| Desconcentracion | Competencias en organos inferiores de la misma Administracion. |
+| Coordinacion | Evitar contradicciones entre actuaciones. |
+| Cooperacion | Colaborar entre Administraciones sin jerarquia. |
+| Transparencia | Hacer comprensible y controlable la actuacion publica. |
+
+<mark>Trampa frecuente:</mark> descentralizacion y desconcentracion no son sinonimos. La primera implica otra entidad; la segunda, reparto interno dentro de la misma Administracion.
+
 ## Organos administrativos
 
 Un organo administrativo es la unidad a la que se atribuyen funciones con efectos juridicos frente a terceros o cuya actuacion tenga caracter preceptivo. La Administracion tiene personalidad juridica; los organos no tienen personalidad propia, sino que actuan por ella.
@@ -38,11 +51,29 @@ Para constituirse validamente se exige presencia de Presidente y Secretario, o q
 
 Las actas documentan asistentes, orden del dia, circunstancias de lugar y tiempo, deliberaciones esenciales si proceden, acuerdos adoptados y resultado de votaciones. El acta es fundamental para acreditar la voluntad del organo.
 
+| Pieza del organo colegiado | Funcion |
+| --- | --- |
+| Presidente | Convoca, dirige, modera y asegura cumplimiento de reglas. |
+| Secretario | Da fe, prepara documentacion, levanta acta y certifica. |
+| Miembros | Deliberan y votan. |
+| Convocatoria | Comunica sesion y orden del dia. |
+| Acta | Documenta formalmente la sesion y acuerdos. |
+
+Para que el acuerdo sea valido no basta con que exista mayoria politica: deben respetarse convocatoria, quorum, competencia, deliberacion, votacion y documentacion.
+
 ## Competencia administrativa
 
 La competencia es el conjunto de funciones atribuidas a un organo. Es irrenunciable y se ejerce por los organos que la tienen atribuida, salvo los mecanismos legalmente previstos.
 
 La competencia puede atribuirse por materia, territorio y jerarquia. Un acto dictado por organo manifiestamente incompetente por materia o territorio es nulo. Si la incompetencia no es manifiesta o es jerarquica, puede generar anulabilidad.
+
+| Tipo de competencia | Ejemplo |
+| --- | --- |
+| Materia | Urbanismo, tributos, personal, contratacion. |
+| Territorio | Termino municipal o ambito territorial del organo. |
+| Jerarquia | Organo superior o inferior dentro de la estructura. |
+
+La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas tecnicas es alterar el ejercicio, la firma o la gestion material, pero no renunciar a la titularidad fuera de la ley.
 
 ## Desconcentracion
 
@@ -57,6 +88,16 @@ La delegacion permite que un organo encomiende el ejercicio de competencias a ot
 No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autonomas y asambleas legislativas; adopcion de disposiciones generales; resolucion de recursos en organos que dictaron actos; ni materias prohibidas por norma.
 
 Los actos dictados por delegacion se consideran dictados por el organo delegante y deben indicar expresamente esta circunstancia.
+
+| Tecnica | Altera titularidad? | Alcance |
+| --- | --- | --- |
+| Delegacion | No | Otro organo ejerce la competencia delegada. |
+| Avocacion | No | El superior asume un asunto concreto. |
+| Encomienda | No | Encargo material o tecnico, no decision juridica. |
+| Delegacion de firma | No | Solo se autoriza firmar por otro. |
+| Suplencia | No | Sustitucion temporal del titular. |
+
+<mark>Clave:</mark> si se dicta una resolucion juridica, debe hacerlo el organo competente o quien ejerza validamente la competencia. La encomienda no permite que el encomendado decida el fondo.
 
 ## Avocacion
 
@@ -75,4 +116,3 @@ No puede tener por objeto prestaciones propias de contratos del sector publico s
 La delegacion de firma permite que un titular autorice a otro organo o unidad dependiente a firmar actos en su nombre. No altera competencia ni requiere publicacion, salvo norma especifica. En los documentos debe constar la autoridad de procedencia.
 
 La suplencia sustituye temporalmente al titular de un organo en casos de vacante, ausencia, enfermedad, abstencion o recusacion. Tampoco altera competencia; solo permite continuidad administrativa.
-

@@ -18,6 +18,18 @@ En el Ayuntamiento de Burgos, estas oficinas se integran en la organizacion muni
 
 La oficina de asistencia es una pieza clave porque convierte la relacion entre ciudadano y Administracion en un acto formalmente valido. Una solicitud mal registrada, una fecha incorrecta o un destino equivocado pueden afectar al computo de plazos y a la eficacia de derechos. Por eso la funcion registral exige precision.
 
+<mark>Clave de examen:</mark> estas oficinas no son solo "ventanillas". Cumplen funciones de **registro, asistencia, digitalizacion, identificacion, firma, copias autenticas, apoderamientos e informacion administrativa general**.
+
+En una actuacion ordinaria deben comprobarse, como minimo:
+
+1. quien presenta el documento;
+2. si actua en nombre propio o representado;
+3. a que organo se dirige;
+4. que documentos aporta;
+5. fecha y hora de entrada;
+6. si hay que digitalizar o compulsar/autenticar;
+7. si procede remision por interconexion registral.
+
 ## Organizacion
 
 La organizacion depende del Ayuntamiento y de sus decisiones internas. Puede existir registro general, oficinas auxiliares o puntos de atencion. Deben coordinarse con sede electronica, archivo, unidades gestoras y sistemas de interconexion de registros.
@@ -50,6 +62,16 @@ El asiento registral debe reflejar datos esenciales: numero, fecha y hora, ident
 | Emitir recibo | Da prueba al ciudadano. |
 | Remitir a unidad gestora | Inicia la tramitacion real. |
 
+| Error en oficina | Posible consecuencia |
+| --- | --- |
+| Fecha u hora incorrecta | Problemas de plazo. |
+| Organo destinatario equivocado | Retrasos y riesgo de indefension. |
+| No relacionar anexos | Dificultad para probar que se presentaron. |
+| Digitalizacion defectuosa | Documento incompleto en expediente. |
+| No comprobar representacion | Actuacion ineficaz o subsanacion posterior. |
+
+La precision registral protege tanto a la Administracion como al ciudadano. El justificante de registro es una prueba esencial de presentacion.
+
 ## Asistencia electronica
 
 Las personas fisicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electronicos. Si no disponen de medios, un funcionario habilitado puede identificarlas o firmar en su nombre con consentimiento expreso en los terminos legales.
@@ -57,6 +79,13 @@ Las personas fisicas no obligadas a relacionarse electronicamente pueden recibir
 Las personas obligadas a relacionarse electronicamente, como personas juridicas, deben usar medios electronicos. La oficina puede informar, pero la obligacion permanece.
 
 El funcionario habilitado no actua como representante libre del ciudadano, sino como apoyo tecnico para identificacion o firma cuando la ley lo permite. Debe quedar constancia del consentimiento. Esta funcion exige especial cuidado porque una firma electronica produce efectos juridicos.
+
+<mark>No confundir:</mark>
+
+- **Asistencia:** ayuda tecnica o material para que la persona pueda relacionarse con la Administracion.
+- **Representacion:** actuar juridicamente en nombre de otra persona.
+- **Funcionario habilitado:** puede identificar o firmar en nombre de una persona en los supuestos legales y con consentimiento.
+- **Apoderamiento:** acredita que alguien puede actuar por otra persona.
 
 ## Digitalizacion y copias
 
@@ -79,8 +108,29 @@ Sus funciones incluyen registro de entrada, asistencia en presentacion, identifi
 
 Para un administrativo municipal, estas oficinas son un punto clave de contacto entre ciudadano y expediente. Un error en registro, destino, fecha o digitalizacion puede afectar plazos y derechos.
 
+Listado util de funciones:
+
+- registrar entradas y, cuando proceda, salidas;
+- asistir en la presentacion presencial y electronica;
+- emitir recibos y justificantes;
+- digitalizar documentos en papel;
+- expedir copias autenticas;
+- apoyar identificacion y firma;
+- comprobar representacion;
+- orientar sobre informacion administrativa general;
+- remitir documentos al organo competente;
+- garantizar atencion accesible y no discriminatoria.
+
 ## Representacion y apoderamientos
 
 La oficina debe comprobar si quien actua lo hace en nombre propio o en representacion de otra persona. La representacion puede acreditarse por apoderamiento apud acta, registro electronico de apoderamientos, documento publico, documento privado con firma legitimada u otros medios validos.
 
 En tramites sencillos puede presumirse representacion en determinados actos de mero tramite, pero no cuando se formulan solicitudes, se desiste, se renuncia a derechos o se interponen recursos si la normativa exige acreditacion. La comprobacion de representacion es especialmente importante en expedientes tributarios, sancionadores, padronales o de servicios sociales.
+
+| Actuacion | Exigencia de representacion |
+| --- | --- |
+| Presentar una solicitud en nombre de otra persona | Debe acreditarse representacion si afecta a derechos/intereses. |
+| Aportar documentacion de mero tramite | Puede admitirse presuncion en supuestos sencillos. |
+| Interponer recurso | Requiere especial cuidado y acreditacion. |
+| Desistir o renunciar | Requiere representacion suficiente. |
+| Tramites tributarios o sancionadores | Comprobacion especialmente relevante. |

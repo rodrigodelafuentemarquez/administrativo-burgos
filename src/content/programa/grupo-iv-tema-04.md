@@ -12,7 +12,17 @@ El control del gasto publico local se regula por la Ley de Haciendas Locales, el
 
 ## Control del gasto publico
 
-El control del gasto publico garantiza legalidad, eficiencia, estabilidad, transparencia y responsabilidad en el uso de fondos. No se limita a comprobar facturas: controla que el gasto sea competente, necesario, presupuestado, tramitado y justificado.
+El control del gasto publico garantiza **legalidad, eficiencia, estabilidad, transparencia y responsabilidad** en el uso de fondos. No se limita a comprobar facturas: controla que el gasto sea competente, necesario, presupuestado, tramitado y justificado.
+
+<mark>Clave de examen:</mark> controlar el gasto no es "poner trabas"; es asegurar que el dinero publico se gasta con competencia, credito, procedimiento, justificacion y finalidad publica.
+
+| Pregunta de control | Que se comprueba |
+| --- | --- |
+| Hay competencia? | Que el organo puede aprobar el gasto. |
+| Hay credito? | Que existe aplicacion presupuestaria adecuada y suficiente. |
+| Hay procedimiento? | Que se tramito contrato, subvencion, nomina o expediente correcto. |
+| Hay prestacion? | Que el servicio, suministro u obra se realizo. |
+| Hay justificante? | Factura, certificacion, resolucion, informe o documento soporte. |
 
 ## Control interno
 
@@ -41,6 +51,17 @@ Si Intervencion aprecia infraccion, formula reparo. El reparo puede suspender la
 
 El reparo no es una opinion informal: es un acto tecnico de control. Si se levanta indebidamente o se ignora, puede abrir la puerta a responsabilidades politicas, administrativas, contables o disciplinarias.
 
+Supuestos tipicos de reparo suspensivo:
+
+- insuficiencia o inadecuacion de credito;
+- incompetencia del organo;
+- omision de requisitos o tramites esenciales;
+- gastos sin fiscalizacion previa obligatoria;
+- obligaciones sin acreditacion suficiente;
+- expedientes con posible nulidad.
+
+La discrepancia frente al reparo debe resolverse por el organo competente. No basta con continuar el expediente como si el reparo no existiera.
+
 ## Control financiero
 
 El control financiero verifica funcionamiento economico-financiero de servicios, organismos y entidades dependientes. Incluye control permanente y auditoria publica. Analiza cumplimiento normativo, eficacia, eficiencia, economia, estabilidad y sostenibilidad.
@@ -61,6 +82,8 @@ El control financiero permite mirar mas alla de un expediente aislado. Por ejemp
 
 Cuando se omite fiscalizacion previa obligatoria, debe tramitarse procedimiento especifico antes de reconocer obligaciones. Intervencion emite informe y el organo competente decide si continua, sin perjuicio de responsabilidades.
 
+<mark>No confundir:</mark> omision de fiscalizacion no significa que la prestacion no se haya hecho. Significa que el expediente no paso por el control previo obligatorio. Puede existir servicio realizado, pero la Administracion debe regularizar con cautelas antes de reconocer y pagar.
+
 ## Control externo
 
 El Tribunal de Cuentas es el supremo organo fiscalizador de cuentas y gestion economica del Estado y sector publico, sin perjuicio de organos autonomicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir responsabilidad contable.
@@ -72,6 +95,14 @@ Las Cortes de Castilla y Leon reciben informes del Consejo de Cuentas y ejercen 
 ## Cuenta general
 
 Las entidades locales deben formar, informar, someter a comision especial de cuentas, exponer y aprobar su Cuenta General, remitiendola a los organos de control externo. La Cuenta General refleja ejecucion presupuestaria, situacion patrimonial, resultados y gestion.
+
+Secuencia basica de la Cuenta General:
+
+1. Formacion por la Intervencion.
+2. Informe de la Comision Especial de Cuentas.
+3. Exposicion publica para reclamaciones u observaciones.
+4. Aprobacion por el Pleno.
+5. Remision al organo de control externo.
 
 ## Control externo y responsabilidades
 

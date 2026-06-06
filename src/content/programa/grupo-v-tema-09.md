@@ -12,6 +12,8 @@ La informatica estudia el tratamiento automatico de informacion mediante sistema
 
 La oposicion no exige conocimientos de programacion, sino manejo conceptual y practico de herramientas habituales. Lo importante es entender que un ordenador administrativo forma parte de un entorno corporativo: usuarios, permisos, red, aplicaciones, seguridad y datos publicos.
 
+<mark>Clave de examen:</mark> no basta con saber usar el ordenador. Hay que distinguir **hardware, software, sistema operativo, archivos, red, permisos y seguridad**.
+
 ## Componentes de un ordenador
 
 El hardware son elementos fisicos: unidad central, procesador, memoria RAM, almacenamiento, placa base, pantalla, teclado, raton, impresora, escaner y dispositivos de red. El procesador ejecuta instrucciones. La RAM almacena temporalmente datos en uso. El almacenamiento conserva informacion de forma permanente, mediante SSD, discos duros u otros soportes.
@@ -30,6 +32,16 @@ El software son programas y sistemas: sistema operativo, aplicaciones, controlad
 | Tarjeta de red | Conexion a red local o internet. |
 
 La diferencia entre RAM y almacenamiento suele preguntarse: la RAM es rapida y temporal; el disco conserva datos aunque se apague el equipo.
+
+| Concepto | Se recuerda asi |
+| --- | --- |
+| Hardware | Lo fisico: equipo, pantalla, teclado, disco, impresora. |
+| Software | Programas: Windows, Word, Excel, navegador, antivirus. |
+| Datos | Documentos, expedientes, correos, imagenes, registros. |
+| Red | Conexion con internet, servidores, unidades compartidas y aplicaciones. |
+| Usuario/permisos | Determinan que puede ver o modificar cada persona. |
+
+Ejemplo practico: si una persona no puede abrir una carpeta compartida, el problema puede no ser del archivo, sino de permisos de red, perfil de usuario o ubicacion corporativa.
 
 ## Sistemas operativos
 
@@ -55,6 +67,20 @@ El Explorador de archivos permite navegar por unidades, carpetas y documentos. I
 Permite crear, copiar, mover, renombrar, eliminar y comprimir archivos. Tambien permite ordenar por nombre, fecha, tipo o tamano; cambiar vista; consultar propiedades; y buscar documentos.
 
 En entorno municipal, muchas carpetas pueden estar en unidades de red o servicios corporativos. El usuario no debe modificar permisos ni mover documentos oficiales sin saber sus consecuencias. Los expedientes deben conservarse en sistemas autorizados, no en el escritorio local.
+
+Operaciones habituales:
+
+- crear carpeta;
+- copiar, cortar y pegar;
+- renombrar archivo;
+- eliminar y restaurar desde papelera;
+- buscar por nombre o tipo;
+- ordenar por fecha, nombre, tamano o extension;
+- comprimir/descomprimir;
+- consultar propiedades;
+- abrir ubicacion de red o carpeta compartida.
+
+<mark>Advertencia:</mark> el escritorio local no debe ser archivo administrativo. Puede servir como zona temporal de trabajo, pero la documentacion oficial debe conservarse en sistemas corporativos o expediente electronico.
 
 ## Gestion de carpetas y archivos
 
@@ -94,3 +120,16 @@ En Administracion, la seguridad informatica se relaciona con proteccion de datos
 | Perdida de equipo | Portatil extraviado. | Cifrado, bloqueo y comunicacion inmediata. |
 
 La seguridad no es solo tarea del servicio informatico. Cada empleado es una barrera de proteccion: una clave compartida, un clic imprudente o un documento enviado a quien no corresponde puede generar una brecha de seguridad.
+
+Buenas practicas minimas:
+
+1. Bloquear pantalla al ausentarse.
+2. No compartir contrasenas.
+3. Usar doble factor si esta disponible.
+4. Revisar destinatarios antes de enviar.
+5. No abrir adjuntos sospechosos.
+6. No instalar software no autorizado.
+7. Comunicar incidentes de seguridad cuanto antes.
+8. Respetar permisos: acceder solo a expedientes necesarios.
+
+<mark>Confidencialidad, integridad y disponibilidad</mark> son las tres ideas basicas: que solo acceda quien debe, que la informacion no se altere indebidamente y que los sistemas esten disponibles cuando se necesitan.

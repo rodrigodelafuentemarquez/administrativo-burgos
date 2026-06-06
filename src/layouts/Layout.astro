@@ -199,7 +199,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       }
       .normative-sources__grid {
         display: grid;
-        grid-template-columns: repeat(auto-fit, minmax(230px, 1fr));
+        grid-template-columns: minmax(0, 1fr);
         gap: .65rem;
       }
       .normative-source {
@@ -254,11 +254,59 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         color: var(--bs-secondary-color);
         font-weight: 700;
       }
+      .study-aid {
+        margin: 0 0 2rem;
+        padding: 1rem 1.1rem;
+        border: 1px solid rgba(var(--bd-accent-rgb), .36);
+        border-radius: .5rem;
+        background: rgba(var(--bd-accent-rgb), .07);
+      }
+      .study-aid__header {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-bottom: .5rem;
+      }
+      .study-aid__eyebrow {
+        margin: 0;
+        color: var(--bs-secondary-color);
+        font-size: .78rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .tema-content .study-aid h2 {
+        margin: 0;
+        font-size: 1.1rem;
+        line-height: 1.2;
+      }
+      .study-aid__focus {
+        margin-bottom: .55rem;
+        color: var(--bs-emphasis-color);
+        font-weight: 650;
+      }
+      .study-aid__highlight {
+        margin-bottom: .6rem;
+      }
+      .study-aid ul {
+        margin-bottom: 0;
+        padding-left: 1.25rem;
+      }
+      .study-aid li + li {
+        margin-top: .25rem;
+      }
       @media (max-width: 575.98px) {
         .normative-sources__head {
           display: block;
         }
         .tema-content .normative-sources h2 {
+          margin-top: .15rem;
+        }
+        .study-aid__header {
+          display: block;
+        }
+        .tema-content .study-aid h2 {
           margin-top: .15rem;
         }
       }
@@ -382,6 +430,16 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       .tema-content li {
         line-height: 1.7;
       }
+      .tema-content strong {
+        color: var(--bs-emphasis-color);
+        font-weight: 800;
+      }
+      .tema-content mark {
+        padding: .08rem .22rem;
+        color: #191400;
+        background: linear-gradient(transparent 12%, rgba(var(--bd-accent-rgb), .82) 12%, rgba(var(--bd-accent-rgb), .82) 88%, transparent 88%);
+        border-radius: .18rem;
+      }
       .tema-content table {
         width: 100%;
         max-width: 100%;
@@ -443,33 +501,6 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         background-color: var(--bs-tertiary-bg);
         border-left: .25rem solid var(--bd-violet);
         border-radius: .25rem;
-      }
-      .syllabus-summary {
-        display: grid;
-        gap: .75rem;
-        margin: 1.25rem 0;
-      }
-      .syllabus-summary > div {
-        display: grid;
-        gap: .2rem;
-        padding: 1rem;
-        background: var(--bs-tertiary-bg);
-        border: 1px solid var(--bs-border-color);
-        border-radius: var(--bs-border-radius);
-      }
-      .syllabus-summary strong {
-        color: var(--bs-emphasis-color);
-        font-size: 1.75rem;
-        line-height: 1;
-      }
-      .syllabus-summary span {
-        color: var(--bs-secondary-color);
-        font-size: .9rem;
-      }
-      @media (min-width: 768px) {
-        .syllabus-summary {
-          grid-template-columns: repeat(4, minmax(0, 1fr));
-        }
       }
       .official-group {
         margin-top: 2rem;

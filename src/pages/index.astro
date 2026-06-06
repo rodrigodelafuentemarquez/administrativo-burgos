@@ -1,7 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
-import { officialGroups, syllabusStats } from '../data/burgosSyllabus';
+import { officialGroups } from '../data/burgosSyllabus';
 
 const officialContent = await getCollection('programa');
 const officialContentIds = new Set(officialContent.map((tema) => tema.id.replace(/\.md$/, '')));
@@ -20,25 +20,6 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
     <p class="bd-subtitle mb-0">Temario oficial completo de la convocatoria, organizado por grupos y temas.</p>
   </div>
   <section class="bd-content ps-lg-2">
-    <div class="syllabus-summary" aria-label="Resumen del programa">
-      <div>
-        <strong>{syllabusStats.groups}</strong>
-        <span>grupos oficiales</span>
-      </div>
-      <div>
-        <strong>{syllabusStats.topics}</strong>
-        <span>temas Burgos</span>
-      </div>
-      <div>
-        <strong>{officialContent.length}</strong>
-        <span>temas redactados</span>
-      </div>
-      <div>
-        <strong>{syllabusStats.critical}</strong>
-        <span>temas de practico</span>
-      </div>
-    </div>
-
     {officialGroups.map((group) => (
       <section class="official-group" id={group.id}>
         <div class="official-group-heading">

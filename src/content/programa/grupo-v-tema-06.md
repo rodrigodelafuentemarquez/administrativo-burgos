@@ -12,7 +12,7 @@ El regimen se basa en el Reglamento General de Proteccion de Datos de la Union E
 
 ## Datos personales y tratamiento
 
-Dato personal es toda informacion sobre una persona fisica identificada o identificable. Tratamiento es cualquier operacion sobre datos: recogida, registro, consulta, comunicacion, conservacion, supresion o modificacion.
+Dato personal es toda informacion sobre una **persona fisica identificada o identificable**. Tratamiento es cualquier operacion sobre datos: recogida, registro, consulta, comunicacion, conservacion, supresion o modificacion.
 
 Un Ayuntamiento trata datos constantemente: padron, tributos, multas, licencias, servicios sociales, personal, proveedores, expedientes, camaras, registro y sede electronica.
 
@@ -27,6 +27,8 @@ Un Ayuntamiento trata datos constantemente: padron, tributos, multas, licencias,
 | Firma | Firma manuscrita o electronica. |
 
 Los datos de categorias especiales, como salud, ideologia, afiliacion sindical, religion, orientacion sexual o datos biometricos en determinados usos, tienen proteccion reforzada. En un Ayuntamiento pueden aparecer en servicios sociales, recursos humanos, igualdad, discapacidad o expedientes especialmente sensibles.
+
+<mark>Clave de examen:</mark> proteger datos no significa ocultarlo todo. Significa tratar cada dato con base juridica, finalidad legitima, minimizacion, seguridad y respeto a derechos.
 
 ## Principios
 
@@ -51,6 +53,16 @@ El tratamiento necesita base juridica: cumplimiento de obligacion legal, ejercic
 El consentimiento no debe usarse cuando la Administracion actua en potestad publica si existe base legal.
 
 Ejemplo: para gestionar el padron, el Ayuntamiento no necesita consentimiento, porque actua en cumplimiento de obligaciones legales. Para enviar informacion no obligatoria o usar imagenes en contextos no cubiertos por potestad publica, puede requerirse otra base juridica.
+
+| Base juridica | Ejemplo municipal |
+| --- | --- |
+| Obligacion legal | Padron, tributos, conservacion de expedientes. |
+| Mision de interes publico/poderes publicos | Licencias, sanciones, servicios publicos. |
+| Contrato | Gestion de proveedores o relaciones laborales. |
+| Consentimiento | Usos no obligatorios, boletines o imagenes en ciertos contextos. |
+| Interes vital | Emergencias que afecten a vida o salud. |
+
+En Administracion, el consentimiento no debe usarse como "comodin" si realmente existe una obligacion legal o potestad publica.
 
 ## Derechos
 
@@ -85,6 +97,13 @@ El Delegado de Proteccion de Datos informa, asesora, supervisa cumplimiento, coo
 
 Cuando el Ayuntamiento contrata una aplicacion de gestion de expedientes, una empresa de mantenimiento informatico o una plataforma de turnos, debe analizar si el proveedor actua como encargado y formalizar contrato de encargo.
 
+<mark>No confundir figuras:</mark>
+
+- el **responsable** decide fines y medios;
+- el **encargado** trata datos por cuenta del responsable;
+- el **DPO** asesora, supervisa y sirve de punto de contacto;
+- la **autoridad de control** investiga, requiere y puede sancionar o apercibir.
+
 ## Autoridades de control
 
 La Agencia Espanola de Proteccion de Datos es autoridad estatal. Algunas comunidades tienen autoridades propias para su sector publico. Pueden investigar, requerir medidas y sancionar o apercibir.
@@ -94,6 +113,14 @@ La Agencia Espanola de Proteccion de Datos es autoridad estatal. Algunas comunid
 La Ley Organica 3/2018 incorpora derechos digitales: neutralidad de internet, acceso universal, seguridad digital, educacion digital, proteccion de menores, rectificacion en internet, actualizacion de informaciones, intimidad en uso de dispositivos laborales, desconexion digital y derechos ante sistemas de videovigilancia y geolocalizacion.
 
 Para un administrativo, proteccion de datos significa no consultar expedientes sin motivo, no divulgar informacion, comprobar destinatarios, usar copia oculta cuando proceda, custodiar documentos, bloquear pantalla, destruir papel correctamente y respetar perfiles de acceso.
+
+| Derecho digital | Ejemplo practico |
+| --- | --- |
+| Desconexion digital | Limites razonables a comunicaciones fuera de jornada. |
+| Intimidad en dispositivos laborales | Reglas claras sobre uso y control de equipos. |
+| Videovigilancia | Informacion previa y finalidad legitima. |
+| Geolocalizacion | Base, informacion y proporcionalidad. |
+| Seguridad digital | Medidas tecnicas y organizativas adecuadas. |
 
 ## Errores frecuentes en oficinas publicas
 

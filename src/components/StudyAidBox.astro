@@ -1,0 +1,23 @@
+---
+import type { StudyAid } from '../data/studyAids';
+
+interface Props {
+  aid?: StudyAid;
+}
+
+const { aid } = Astro.props;
+---
+
+{aid && (
+  <section class="study-aid" aria-labelledby="study-aid-title">
+    <div class="study-aid__header">
+      <p class="study-aid__eyebrow">Lectura agil</p>
+      <h2 id="study-aid-title">Claves rapidas del tema</h2>
+    </div>
+    <p class="study-aid__focus">{aid.focus}</p>
+    <p class="study-aid__highlight"><mark>{aid.highlight}</mark></p>
+    <ul>
+      {aid.points.map((point) => <li>{point}</li>)}
+    </ul>
+  </section>
+)}
