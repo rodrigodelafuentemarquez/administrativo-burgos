@@ -1,17 +1,21 @@
-const CACHE = 'administrativo-burgos-v1';
-const ASSETS = [
-  '/administrativo-burgos/',
-  '/administrativo-burgos/manifest.webmanifest',
-  '/administrativo-burgos/favicon.ico',
-  '/administrativo-burgos/favicon.png',
-  '/administrativo-burgos/icons/icon-192.png',
-  '/administrativo-burgos/icons/icon-512.png',
-];
-
 self.addEventListener('install', (event) => {
-  event.waitUntil(caches.open(CACHE).then((cache) => cache.addAll(ASSETS)).catch(() => null));
+  self.skipWaiting();
+  event.waitUntil(
+    caches.keys()
+      .then((keys) => Promise.all(keys.filter((key) => key.includes('administrativo-burgos')).map((key) => caches.delete(key))))
+      .catch(() => null),
+  );
 });
 
-self.addEventListener('fetch', (event) => {
-  event.respondWith(caches.match(event.request).then((cached) => cached || fetch(event.request)));
+self.addEventListener('activate', (event) => {
+  event.waitUntil(
+    caches.keys()
+      .then((keys) => Promise.all(keys.filter((key) => key.includes('administrativo-burgos')).map((key) => caches.delete(key))))
+      .then(() => self.registration.unregister())
+      .then(() => self.clients.matchAll({ type: 'window' }))
+      .then((clients) => clients.forEach((client) => client.navigate(client.url)))
+      .catch(() => null),
+  );
 });
+
+self.addEventListener('fetch', () => {});

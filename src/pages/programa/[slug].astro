@@ -6,6 +6,8 @@ import NormativeSourceLinks from '../../components/NormativeSourceLinks.astro';
 import { getNormativeSources } from '../../data/normativeSources';
 import StudyAidBox from '../../components/StudyAidBox.astro';
 import { getStudyAid } from '../../data/studyAids';
+import TopicReviewBox from '../../components/TopicReviewBox.astro';
+import { getTopicReview } from '../../data/topicReview';
 
 export async function getStaticPaths() {
   const temas = await getCollection('programa');
@@ -17,6 +19,7 @@ const { Content } = await render(tema);
 const slug = tema.id.replace(/\.md$/, '');
 const sources = getNormativeSources(slug);
 const studyAid = getStudyAid(slug);
+const topicReview = getTopicReview(slug);
 const slugger = new GithubSlugger();
 const toc = tema.body
   .split('\n')
@@ -42,6 +45,7 @@ const toc = tema.body
   <div class="bd-content tema-content ps-lg-2">
     <NormativeSourceLinks sources={sources} />
     <StudyAidBox aid={studyAid} />
+    <TopicReviewBox review={topicReview} />
     <Content />
   </div>
 </Layout>

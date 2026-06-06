@@ -16,9 +16,20 @@ Para completar el estudio conviene manejar tambien la Ley Organica del Regimen E
 
 La Corona se regula en el titulo II de la Constitucion. El articulo 56 define al Rey como Jefe del Estado, simbolo de su unidad y permanencia. Arbitra y modera el funcionamiento regular de las instituciones, asume la mas alta representacion del Estado espanol en las relaciones internacionales, especialmente con las naciones de su comunidad historica, y ejerce las funciones que le atribuyen expresamente la Constitucion y las leyes.
 
+| Articulo | Materia | Idea que debe recordarse |
+|---|---|---|
+| Articulo 56 | Posicion constitucional del Rey | Jefe del Estado, simbolo de unidad y permanencia, arbitra y modera. |
+| Articulo 57 | Sucesion | Primogenitura, representacion y preferencia de linea, grado, sexo y edad. |
+| Articulos 59 y 60 | Regencia y tutela | Supuestos, requisitos y designacion. |
+| Articulo 62 | Funciones interiores | Sancionar leyes, convocar elecciones, proponer Presidente y nombrar cargos. |
+| Articulo 63 | Funciones internacionales | Embajadores, tratados, guerra y paz con autorizacion de Cortes. |
+| Articulo 64 | Refrendo | Responsabilidad de quien refrenda, no del Rey. |
+
 La forma politica del Estado espanol es la monarquia parlamentaria, segun el articulo 1.3. Esto significa que el Rey no gobierna. La direccion politica corresponde al Gobierno, que responde ante el Congreso de los Diputados. La Corona tiene funciones constitucionales tasadas, representativas, arbitrales y formales, pero no una potestad politica propia equivalente a la del Ejecutivo.
 
 La persona del Rey es inviolable y no esta sujeta a responsabilidad. Sus actos deben estar refrendados, salvo excepciones constitucionales, por el Presidente del Gobierno, por los Ministros competentes o por el Presidente del Congreso en los supuestos correspondientes. El refrendo es esencial porque traslada la responsabilidad politica y juridica del acto a quien lo refrenda. Sin refrendo, los actos del Rey carecen de validez, salvo los relativos al nombramiento y relevo de los miembros civiles y militares de su Casa.
+
+**Clave de examen:** la Corona es una institucion constitucional, no un organo de gobierno. El Rey no decide politicamente; formaliza actos del sistema parlamentario con el refrendo correspondiente.
 
 ## Funciones constitucionales del Rey
 
@@ -32,17 +43,37 @@ En el ambito internacional, el articulo 63 dispone que el Rey acredita a los emb
 
 Estas funciones deben estudiarse siempre con la idea de refrendo. El Rey firma, sanciona, promulga, nombra o convoca, pero la responsabilidad del acto corresponde al organo que refrenda.
 
+| Funcion | Articulo | Refrendo o limite |
+|---|---|---|
+| Sancionar y promulgar leyes | Articulo 62.a | Acto formal necesario para la ley aprobada por las Cortes. |
+| Convocar y disolver Cortes, convocar elecciones | Articulo 62.b | En los terminos constitucionales y con refrendo. |
+| Convocar referendum | Articulo 62.c | Solo en los casos previstos constitucionalmente. |
+| Proponer y nombrar Presidente del Gobierno | Articulo 62.d | Procedimiento de investidura del articulo 99. |
+| Nombrar y separar Ministros | Articulo 62.e | Siempre a propuesta del Presidente del Gobierno. |
+| Expedir decretos | Articulo 62.f | Decretos acordados en Consejo de Ministros. |
+| Derecho de gracia | Articulo 62.i | Conforme a la ley; no caben indultos generales. |
+| Tratados, guerra y paz | Articulo 63 | Con arreglo a Constitucion, leyes y autorizacion de Cortes cuando proceda. |
+
 ## Sucesion a la Corona
 
 La sucesion se regula en el articulo 57. La Corona de Espana es hereditaria en los sucesores de Su Majestad Don Juan Carlos I de Borbon, legitimo heredero de la dinastia historica.
 
 El orden sucesorio sigue la primogenitura y representacion. Se prefiere siempre la linea anterior a las posteriores; en la misma linea, el grado mas proximo al mas remoto; en el mismo grado, el varon a la mujer; y en el mismo sexo, la persona de mas edad a la de menos. Esta regla debe estudiarse literalmente porque es frecuente en preguntas tipo test.
 
+| Criterio de sucesion | Preferencia |
+|---|---|
+| Linea | La linea anterior prevalece sobre las posteriores. |
+| Grado | En la misma linea, grado mas proximo antes que remoto. |
+| Sexo | En el mismo grado, varon antes que mujer. |
+| Edad | En el mismo sexo, mayor edad antes que menor edad. |
+
 El Principe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tiene la dignidad de Principe de Asturias y los demas titulos vinculados tradicionalmente al sucesor de la Corona.
 
 Si se extinguen todas las lineas llamadas en Derecho, las Cortes Generales proveeran a la sucesion en la Corona en la forma que mas convenga a los intereses de Espana. Las abdicaciones, renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesion se resolveran por ley organica.
 
 La Constitucion tambien preve que aquellas personas con derecho a la sucesion que contraigan matrimonio contra la expresa prohibicion del Rey y de las Cortes Generales queden excluidas de la sucesion por si y sus descendientes.
+
+**Ojo:** abdicaciones, renuncias y dudas de hecho o derecho sobre la sucesion se resuelven por ley organica.
 
 ## Regencia y tutela
 
@@ -53,6 +84,13 @@ Si el Rey es menor de edad, entra a ejercer inmediatamente la regencia el padre 
 Si no hubiera persona a quien corresponda la regencia, esta sera nombrada por las Cortes Generales y se compondra de una, tres o cinco personas. Para ejercer la regencia se exige ser espanol y mayor de edad. La regencia se ejerce por mandato constitucional y siempre en nombre del Rey.
 
 La tutela del Rey menor corresponde a la persona designada en testamento por el Rey difunto, siempre que sea mayor de edad y espanol de nacimiento. Si no hubiera designacion, sera tutor el padre o la madre mientras permanezcan viudos. En defecto de estos, lo nombraran las Cortes Generales. No pueden acumularse los cargos de regente y tutor salvo en el padre, madre o ascendientes directos del Rey.
+
+| Figura | Cuando aparece | Requisitos o regla |
+|---|---|---|
+| Regencia por minoria de edad | Rey menor de edad | Padre, madre o pariente mayor de edad mas proximo a suceder. |
+| Regencia por inhabilitacion | Imposibilidad reconocida por Cortes | Si el Principe heredero es mayor de edad, ejerce la regencia. |
+| Regencia nombrada | Si no hay persona llamada | Cortes Generales; una, tres o cinco personas. |
+| Tutela del Rey menor | Rey menor bajo tutela | Testamento del Rey difunto, padre/madre viudos o Cortes Generales. |
 
 ## Las Cortes Generales
 
@@ -65,6 +103,14 @@ El Congreso se compone de un minimo de 300 y un maximo de 400 diputados, elegido
 El Senado es la Camara de representacion territorial. En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto. En las provincias insulares, cada isla o agrupacion de islas tiene su propia representacion. Ceuta y Melilla eligen cada una dos senadores. Ademas, las comunidades autonomas designan un senador y otro mas por cada millon de habitantes de su respectivo territorio.
 
 Las Cortes se eligen por cuatro anos. El mandato termina cuatro anos despues de su eleccion o el dia de la disolucion de la Camara. Las elecciones tendran lugar entre los treinta y sesenta dias desde la terminacion del mandato, y el Congreso electo debe ser convocado dentro de los veinticinco dias siguientes a la celebracion de las elecciones.
+
+| Camara | Naturaleza | Composicion basica |
+|---|---|---|
+| Congreso de los Diputados | Camara de representacion popular | 300 a 400 diputados; provincia como circunscripcion; Ceuta y Melilla un diputado. |
+| Senado | Camara de representacion territorial | Senadores provinciales, insulares, de Ceuta/Melilla y designados por comunidades autonomas. |
+| Cortes Generales | Parlamento bicameral | Potestad legislativa, presupuestos, control del Gobierno y demas competencias constitucionales. |
+
+**Plazos basicos:** mandato de cuatro anos; elecciones entre treinta y sesenta dias desde la terminacion del mandato; Congreso convocado dentro de los veinticinco dias siguientes a las elecciones.
 
 ## Atribuciones y funcionamiento de las Cortes
 
@@ -80,6 +126,15 @@ Cada Camara elige su Presidente y los demas miembros de su Mesa, y aprueba auton
 
 La Diputacion Permanente asegura la continuidad parlamentaria cuando las Camaras no estan reunidas, han sido disueltas o ha expirado su mandato. Debe dar cuenta a la Camara correspondiente de los asuntos tratados y decisiones adoptadas.
 
+| Mecanismo | Para que sirve |
+|---|---|
+| Pleno | Debate y decision principal de cada Camara. |
+| Comisiones | Trabajo especializado y preparacion de asuntos. |
+| Reglamento de cada Camara | Autonomia parlamentaria interna. |
+| Diputacion Permanente | Continuidad cuando no hay sesiones ordinarias o la Camara no esta operativa. |
+| Preguntas, interpelaciones y comparecencias | Control ordinario del Gobierno. |
+| Mocion de censura y cuestion de confianza | Control politico vinculado a la confianza parlamentaria. |
+
 ## El Gobierno
 
 El Gobierno se regula en el titulo IV. Dirige la politica interior y exterior, la Administracion civil y militar y la defensa del Estado. Ejerce la funcion ejecutiva y la potestad reglamentaria de acuerdo con la Constitucion y las leyes.
@@ -92,6 +147,14 @@ Si transcurren dos meses desde la primera votacion de investidura sin que ningun
 
 El Gobierno cesa tras la celebracion de elecciones generales, en los casos de perdida de confianza parlamentaria, por dimision o fallecimiento de su Presidente. El Gobierno cesante continua en funciones hasta la toma de posesion del nuevo Gobierno.
 
+| Momento | Regla |
+|---|---|
+| Primera votacion de investidura | Mayorias absoluta del Congreso. |
+| Segunda votacion | Cuarenta y ocho horas despues; basta mayoria simple. |
+| Plazo maximo sin investidura | Dos meses desde la primera votacion. |
+| Consecuencia | Disolucion de ambas Camaras y convocatoria electoral con refrendo del Presidente del Congreso. |
+| Gobierno cesante | Continua en funciones hasta la toma de posesion del nuevo Gobierno. |
+
 ## La Administracion
 
 La Constitucion se refiere a la Administracion en el articulo 103. La Administracion Publica sirve con objetividad los intereses generales y actua de acuerdo con los principios de eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion, con sometimiento pleno a la ley y al Derecho.
@@ -99,6 +162,12 @@ La Constitucion se refiere a la Administracion en el articulo 103. La Administra
 Esta formula es esencial para entender toda la actuacion administrativa. La Administracion no tiene fines propios distintos del interes general. Su actuacion esta sometida a la ley, al control judicial y a los principios constitucionales. El articulo 106 anade que los tribunales controlan la potestad reglamentaria y la legalidad de la actuacion administrativa, asi como el sometimiento de esta a los fines que la justifican.
 
 El articulo 105 preve que la ley regule la audiencia de los ciudadanos en la elaboracion de disposiciones administrativas que les afecten, el acceso de los ciudadanos a archivos y registros administrativos, salvo limites constitucionales y legales, y el procedimiento a traves del cual deben producirse los actos administrativos, garantizando cuando proceda la audiencia del interesado.
+
+| Articulo | Contenido administrativo |
+|---|---|
+| Articulo 103 | Servicio objetivo a los intereses generales y principios de eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion. |
+| Articulo 105 | Audiencia ciudadana, acceso a archivos y registros y procedimiento administrativo. |
+| Articulo 106 | Control judicial de potestad reglamentaria y legalidad de la actuacion administrativa. |
 
 ## El Poder Judicial
 
@@ -112,3 +181,12 @@ El Consejo General del Poder Judicial es el organo de gobierno del Poder Judicia
 
 El Tribunal Supremo, con jurisdiccion en toda Espana, es el organo jurisdiccional superior en todos los ordenes, salvo lo dispuesto en materia de garantias constitucionales. El Ministerio Fiscal, aunque no forma parte del Poder Judicial como conjunto de jueces y magistrados, tiene relevancia constitucional: promueve la accion de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interes publico tutelado por la ley, de oficio o a peticion de los interesados.
 
+| Institucion | Funcion esencial |
+|---|---|
+| Jueces y magistrados | Administran justicia en nombre del Rey, independientes y sometidos a la ley. |
+| Consejo General del Poder Judicial | Organo de gobierno del Poder Judicial. |
+| Tribunal Supremo | Superior en todos los ordenes salvo garantias constitucionales. |
+| Tribunal Constitucional | No forma parte del Poder Judicial; controla constitucionalidad y amparo. |
+| Ministerio Fiscal | Promueve la accion de la justicia en defensa de legalidad, derechos e interes publico. |
+
+**Diferencia clave:** Poder Judicial es el conjunto de jueces y magistrados; el Consejo General del Poder Judicial gobierna internamente ese poder, pero no juzga.

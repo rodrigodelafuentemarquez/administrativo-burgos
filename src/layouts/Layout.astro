@@ -296,6 +296,74 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       .study-aid li + li {
         margin-top: .25rem;
       }
+      .topic-review {
+        margin: 0 0 2rem;
+        padding: 1rem 1.1rem;
+        border: 1px solid rgba(66, 211, 146, .24);
+        border-radius: .5rem;
+        background: rgba(66, 211, 146, .055);
+      }
+      .topic-review__header {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 1rem;
+        margin-bottom: .75rem;
+      }
+      .topic-review__eyebrow {
+        margin: 0;
+        color: var(--bs-secondary-color);
+        font-size: .78rem;
+        font-weight: 800;
+        letter-spacing: 0;
+        text-transform: uppercase;
+      }
+      .tema-content .topic-review h2,
+      .tema-content .topic-review h3 {
+        margin: 0;
+        line-height: 1.2;
+      }
+      .tema-content .topic-review h2 {
+        font-size: 1.1rem;
+      }
+      .tema-content .topic-review h3 {
+        margin-bottom: .45rem;
+        font-size: .98rem;
+      }
+      .topic-review__table {
+        margin-bottom: 1rem;
+        background: rgba(255, 255, 255, .025);
+      }
+      .topic-review__grid {
+        display: grid;
+        gap: 1rem;
+      }
+      .topic-review__grid > div,
+      .topic-review__matches {
+        padding: .85rem;
+        border: 1px solid var(--bs-border-color);
+        border-radius: .45rem;
+        background: rgba(255, 255, 255, .025);
+      }
+      .topic-review__matches {
+        margin-top: 1rem;
+      }
+      .topic-review ul {
+        margin-bottom: 0;
+        padding-left: 1.15rem;
+      }
+      .topic-review li + li {
+        margin-top: .25rem;
+      }
+      .topic-review__matches span {
+        color: var(--bs-secondary-color);
+        font-size: .9rem;
+      }
+      @media (min-width: 768px) {
+        .topic-review__grid {
+          grid-template-columns: repeat(2, minmax(0, 1fr));
+        }
+      }
       @media (max-width: 575.98px) {
         .normative-sources__head {
           display: block;
@@ -307,6 +375,12 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
           display: block;
         }
         .tema-content .study-aid h2 {
+          margin-top: .15rem;
+        }
+        .topic-review__header {
+          display: block;
+        }
+        .tema-content .topic-review h2 {
           margin-top: .15rem;
         }
       }
@@ -1010,11 +1084,19 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       </main>
     </div>
     <AccessGate />
-    <script define:vars={{ base }}>
+    <script>
       if ('serviceWorker' in navigator) {
-        window.addEventListener('load', () => navigator.serviceWorker.register(`${base}sw.js`));
+        window.addEventListener('load', () => {
+          navigator.serviceWorker.getRegistrations()
+            .then((registrations) => registrations.forEach((registration) => registration.unregister()))
+            .catch(() => null);
+        });
       }
-
+      if ('caches' in window) {
+        caches.keys()
+          .then((keys) => keys.filter((key) => key.includes('administrativo-burgos')).forEach((key) => caches.delete(key)))
+          .catch(() => null);
+      }
     </script>
     <script
       src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js"

@@ -1,0 +1,66 @@
+---
+import type { TopicReview } from '../data/topicReview';
+
+type Props = {
+  review?: TopicReview;
+};
+
+const { review } = Astro.props;
+---
+
+{review && (
+  <section class="topic-review" aria-labelledby="topic-review-title">
+    <div class="topic-review__header">
+      <p class="topic-review__eyebrow">Programa oficial trabajado</p>
+      <h2 id="topic-review-title">Repaso estructurado del tema</h2>
+    </div>
+
+    <table class="topic-review__table">
+      <thead>
+        <tr>
+          <th>Epigrafe oficial</th>
+          <th>Que debe quedar dominado</th>
+        </tr>
+      </thead>
+      <tbody>
+        {review.rows.map((row) => (
+          <tr>
+            <td>{row.materia}</td>
+            <td>{row.dominar}</td>
+          </tr>
+        ))}
+      </tbody>
+    </table>
+
+    {review.traps.length > 0 && (
+      <div class="topic-review__grid">
+        <div>
+          <h3>Trampas habituales</h3>
+          <ul>
+            {review.traps.map((trap) => <li>{trap}</li>)}
+          </ul>
+        </div>
+        <div>
+          <h3>Checklist de dominio</h3>
+          <ul>
+            {review.checklist.map((item) => <li>{item}</li>)}
+          </ul>
+        </div>
+      </div>
+    )}
+
+    {review.topic.matches.length > 0 && (
+      <div class="topic-review__matches">
+        <h3>Material antiguo que se aprovecha</h3>
+        <ul>
+          {review.topic.matches.map((match) => (
+            <li>
+              <strong>Tema {match.tema}:</strong> {match.titulo}
+              <span>({match.calidad})</span>
+            </li>
+          ))}
+        </ul>
+      </div>
+    )}
+  </section>
+)}
