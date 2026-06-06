@@ -22,6 +22,14 @@ El articulo 97 de la Constitucion concentra sus funciones basicas: direccion pol
 
 El Gobierno actua colegiadamente, pero dentro de el tiene una posicion central el Presidente. El Presidente dirige la accion del Gobierno y coordina las funciones de sus miembros, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestion.
 
+| Funcion del Gobierno | Alcance | Limite |
+|---|---|---|
+| Direccion politica | Orienta politica interior y exterior. | Control parlamentario y Constitucion. |
+| Direccion administrativa | Dirige Administracion civil y militar. | Administracion sometida a ley y Derecho. |
+| Defensa del Estado | Dirige la politica de defensa. | Marco constitucional y legal. |
+| Funcion ejecutiva | Ejecuta leyes y decisiones publicas. | Legalidad y control jurisdiccional. |
+| Potestad reglamentaria | Aprueba reglamentos. | Jerarquia normativa y reserva de ley. |
+
 ## Composicion del Gobierno
 
 La Constitucion establece que el Gobierno se compone del Presidente, de los Vicepresidentes, en su caso, de los Ministros y de los demas miembros que establezca la ley. La expresion "en su caso" indica que no es obligatoria la existencia de Vicepresidentes. Puede haber uno, varios o ninguno, segun la organizacion que se determine.
@@ -32,6 +40,13 @@ Los Ministros son titulares de los departamentos ministeriales, salvo que exista
 
 Los Vicepresidentes, cuando existan, ejercen las funciones que les encomiende el Presidente. Pueden asumir tambien la titularidad de un Ministerio.
 
+| Miembro | Posicion | Funcion basica |
+|---|---|---|
+| Presidente | Centro de direccion politica | Dirige accion del Gobierno y coordina Ministros. |
+| Vicepresidentes | Existencia no obligatoria | Asumen funciones encomendadas por Presidente. |
+| Ministros | Titulares de departamentos | Dirigen sectores de la AGE y participan en Consejo de Ministros. |
+| Ministros sin cartera | Posibles si la ley/organizacion lo permite | Funciones politicas sin departamento ordinario. |
+
 ## Funcionamiento del Gobierno
 
 El organo colegiado principal del Gobierno es el Consejo de Ministros. En el se aprueban proyectos de ley, reales decretos-leyes, reales decretos legislativos, reglamentos, nombramientos relevantes, acuerdos de politica general y decisiones ejecutivas de especial importancia.
@@ -39,6 +54,14 @@ El organo colegiado principal del Gobierno es el Consejo de Ministros. En el se 
 La Ley del Gobierno regula tambien las Comisiones Delegadas del Gobierno, que se crean para coordinar la accion de varios Ministerios en materias que afecten a varios departamentos. Estas comisiones permiten preparar decisiones, coordinar politicas sectoriales y resolver asuntos que no siempre requieren deliberacion del Consejo de Ministros en pleno.
 
 El Gobierno puede dictar reglamentos en forma de reales decretos cuando proceden del Consejo de Ministros, y los Ministros pueden dictar ordenes ministeriales en el ambito de sus competencias. La potestad reglamentaria queda sometida al principio de jerarquia normativa, al control de los tribunales y a los limites derivados de la reserva de ley.
+
+| Instrumento | Quien lo aprueba | Uso |
+|---|---|---|
+| Proyecto de ley | Consejo de Ministros | Iniciativa legislativa ante las Cortes. |
+| Real decreto-ley | Gobierno | Extraordinaria y urgente necesidad. |
+| Real decreto legislativo | Gobierno | Delegacion legislativa de las Cortes. |
+| Real decreto | Consejo de Ministros | Reglamento o decision gubernamental. |
+| Orden ministerial | Ministro | Materias propias del departamento. |
 
 ## Investidura, cese y responsabilidad
 
@@ -50,6 +73,13 @@ El Gobierno cesa tras la celebracion de elecciones generales, por perdida de la 
 
 La responsabilidad politica se articula mediante la cuestion de confianza y la mocion de censura. La cuestion de confianza la plantea el Presidente previa deliberacion del Consejo de Ministros. La mocion de censura debe ser constructiva: debe incluir candidato alternativo a la Presidencia. Si prospera, el Gobierno cesa y queda investido el candidato incluido en la mocion.
 
+| Institucion | Iniciativa | Efecto |
+|---|---|---|
+| Investidura | Candidato propuesto por el Rey a traves del Presidente del Congreso | Nacimiento del Gobierno con confianza parlamentaria. |
+| Cuestion de confianza | Presidente del Gobierno | Comprueba si conserva confianza del Congreso. |
+| Mocion de censura | Congreso, con candidato alternativo | Si prospera, cesa el Gobierno y se inviste al candidato. |
+| Cese del Gobierno | Elecciones, perdida de confianza, dimision o fallecimiento del Presidente | Gobierno en funciones hasta nuevo Gobierno. |
+
 ## La Administracion del Estado
 
 La Administracion del Estado es el conjunto de organos y unidades que, bajo la direccion del Gobierno, sirven a los intereses generales en el ambito estatal. Su regulacion constitucional basica se encuentra en el articulo 103.
@@ -60,6 +90,13 @@ La Administracion no actua al servicio de intereses particulares ni partidistas.
 
 La Administracion General del Estado se organiza en organos centrales, organos territoriales y Administracion del Estado en el exterior. Los organos centrales integran la estructura ministerial. Los organos territoriales permiten la presencia del Estado en comunidades autonomas y provincias. La Administracion exterior representa y gestiona intereses del Estado fuera del territorio nacional.
 
+| Administracion del Estado | Ambito | Ejemplos |
+|---|---|---|
+| Organizacion central | Todo el Estado desde departamentos ministeriales | Ministerios, Secretarias de Estado, Direcciones Generales. |
+| Organizacion territorial | Comunidades autonomas y provincias | Delegados y Subdelegados del Gobierno. |
+| Administracion exterior | Fuera del territorio nacional | Embajadas y representaciones. |
+| Sector publico institucional estatal | Entidades vinculadas o dependientes | Organismos publicos y entidades estatales. |
+
 ## Organizacion central de la Administracion General del Estado
 
 La organizacion central se articula en Ministerios. Cada Ministerio comprende uno o varios sectores funcionalmente homogeneos de actividad administrativa. En su estructura pueden existir Secretarias de Estado, Subsecretarias, Secretarias Generales, Secretarias Generales Tecnicas, Direcciones Generales y Subdirecciones Generales.
@@ -68,6 +105,14 @@ Los Ministros son a la vez miembros del Gobierno y jefes superiores de sus depar
 
 La estructura ministerial se basa en los principios de jerarquia y especializacion. La jerarquia permite direccion y control interno. La especializacion permite distribuir materias complejas entre organos tecnicos.
 
+| Organo central | Tipo | Funcion |
+|---|---|---|
+| Ministro | Organo superior | Jefe del departamento y miembro del Gobierno. |
+| Secretario de Estado | Organo superior | Ejecucion de accion del Gobierno en sector concreto. |
+| Subsecretario | Organo directivo | Servicios comunes, gestion interna y coordinacion. |
+| Director General | Organo directivo | Gestion de areas funcionales. |
+| Subdirector General | Organo directivo inferior | Ejecucion tecnica y administrativa. |
+
 ## Organizacion territorial de la Administracion del Estado
 
 La Administracion General del Estado no actua solo desde Madrid. Se proyecta territorialmente a traves de Delegaciones del Gobierno en las comunidades autonomas y Subdelegaciones del Gobierno en las provincias.
@@ -75,6 +120,13 @@ La Administracion General del Estado no actua solo desde Madrid. Se proyecta ter
 Los Delegados del Gobierno representan al Gobierno en el territorio de la comunidad autonoma, dirigen y supervisan la Administracion General del Estado en ese ambito y coordinan los servicios estatales. Su existencia se recoge en el articulo 154 de la Constitucion y se desarrolla por la legislacion estatal.
 
 Los Subdelegados del Gobierno actuan en el ambito provincial. En las comunidades uniprovinciales, con caracter general, no existe Subdelegado separado, salvo supuestos legalmente previstos. La organizacion territorial estatal debe coordinarse con las comunidades autonomas y entidades locales, evitando duplicidades y respetando competencias.
+
+| Organo territorial | Ambito | Funcion |
+|---|---|---|
+| Delegado del Gobierno | Comunidad autonoma | Representa al Gobierno y dirige la AGE en la comunidad. |
+| Subdelegado del Gobierno | Provincia | Coordina servicios estatales en la provincia. |
+| Direcciones insulares | Islas, cuando proceda | Gestion territorial especifica. |
+| Servicios integrados y no integrados | Territorio | Prestacion de servicios estatales. |
 
 ## La Administracion Publica en el ordenamiento juridico espanol
 
@@ -86,6 +138,13 @@ La Ley 40/2015 define el sector publico de forma amplia. Incluye las Administrac
 
 El sometimiento de la Administracion al Derecho Administrativo no excluye que algunas entidades del sector publico actuen en determinados ambitos con sujecion al Derecho privado. Sin embargo, cuando ejercen potestades administrativas, gestionan fondos publicos, contratan, seleccionan personal o actuan sobre derechos de los ciudadanos, rigen principios publicos y controles especificos.
 
+| Idea | Consecuencia |
+|---|---|
+| Hay varias Administraciones Publicas | AGE, comunidades autonomas, entidades locales y sector publico institucional. |
+| La Administracion tiene personalidad juridica | Los organos actuan en nombre de la Administracion. |
+| Los organos no tienen personalidad propia | Imputacion del acto a la Administracion correspondiente. |
+| Puede actuar con Derecho privado | Pero con principios publicos cuando maneja potestades o fondos publicos. |
+
 ## Principios de actuacion administrativa
 
 La Ley 40/2015 desarrolla los principios de actuacion de las Administraciones Publicas. Entre ellos figuran eficacia, eficiencia, economia, planificacion, direccion por objetivos, transparencia, participacion, responsabilidad, buena fe, confianza legitima, proporcionalidad, simplicidad, claridad, servicio efectivo a la ciudadania y cooperacion entre Administraciones.
@@ -93,6 +152,16 @@ La Ley 40/2015 desarrolla los principios de actuacion de las Administraciones Pu
 La eficacia exige lograr los fines publicos. La eficiencia exige hacerlo con uso racional de los recursos. La jerarquia permite ordenar internamente los organos. La descentralizacion desplaza competencias a entes con personalidad propia. La desconcentracion distribuye competencias dentro de una misma Administracion. La coordinacion evita contradicciones entre organos y Administraciones.
 
 El sometimiento pleno a la ley y al Derecho significa que toda actuacion administrativa necesita cobertura juridica y puede ser controlada. El articulo 106 de la Constitucion encomienda a los tribunales el control de la potestad reglamentaria, la legalidad de la actuacion administrativa y su sometimiento a los fines que la justifican.
+
+| Principio | Significado practico |
+|---|---|
+| Eficacia | Cumplir los fines publicos. |
+| Eficiencia | Usar racionalmente recursos. |
+| Jerarquia | Direccion interna entre organos. |
+| Descentralizacion | Competencias en entes con personalidad propia. |
+| Desconcentracion | Competencias distribuidas dentro de la misma Administracion. |
+| Coordinacion | Evitar duplicidades y contradicciones. |
+| Transparencia | Actuacion comprensible y controlable. |
 
 ## Administracion y ciudadania
 
@@ -104,3 +173,9 @@ La actuacion administrativa puede generar responsabilidad patrimonial si causa l
 
 En definitiva, el Gobierno dirige politicamente y ejerce la funcion ejecutiva; la Administracion ejecuta de forma profesional, objetiva y sometida al Derecho. La distincion entre Gobierno y Administracion es esencial: el Gobierno decide la orientacion politica dentro del marco legal, mientras que la Administracion sirve los intereses generales con continuidad, legalidad y objetividad.
 
+| Diferencia final | Gobierno | Administracion |
+|---|---|---|
+| Naturaleza | Organo constitucional politico. | Organizacion administrativa profesional. |
+| Funcion | Dirige politica y ejerce funcion ejecutiva. | Sirve intereses generales y tramita/ejecuta. |
+| Control | Politico, parlamentario y judicial. | Legalidad, procedimiento, responsabilidad y jurisdiccion. |
+| Clave para test | Articulo 97. | Articulos 103, 105 y 106. |
