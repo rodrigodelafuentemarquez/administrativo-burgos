@@ -440,6 +440,30 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         background: linear-gradient(transparent 12%, rgba(var(--bd-accent-rgb), .82) 12%, rgba(var(--bd-accent-rgb), .82) 88%, transparent 88%);
         border-radius: .18rem;
       }
+      .tema-content .study-mark {
+        --study-mark-color: rgba(var(--bd-accent-rgb), .8);
+        --study-mark-text: var(--bs-emphasis-color);
+        display: inline;
+        box-decoration-break: clone;
+        -webkit-box-decoration-break: clone;
+        padding: .03rem .18rem .06rem;
+        color: var(--study-mark-text);
+        font-weight: 760;
+        background: linear-gradient(104deg, transparent 0%, var(--study-mark-color) 8%, var(--study-mark-color) 88%, transparent 100%);
+        border-radius: .16rem;
+      }
+      .tema-content .study-mark-law {
+        --study-mark-color: rgba(72, 169, 255, .38);
+        --study-mark-text: #d9efff;
+      }
+      .tema-content .study-mark-date {
+        --study-mark-color: rgba(255, 160, 64, .44);
+        --study-mark-text: #ffe4c2;
+      }
+      .tema-content .study-mark-key {
+        --study-mark-color: rgba(66, 211, 146, .34);
+        --study-mark-text: #d9ffe9;
+      }
       .tema-content table {
         width: 100%;
         max-width: 100%;

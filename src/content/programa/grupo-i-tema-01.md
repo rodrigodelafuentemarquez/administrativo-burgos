@@ -32,85 +32,204 @@ Tambien es una Constitucion de consenso. Su elaboracion respondio a la necesidad
 
 ## Estructura de la Constitucion
 
-La Constitucion se compone de preambulo, titulo preliminar, diez titulos, cuatro disposiciones adicionales, nueve disposiciones transitorias, una disposicion derogatoria y una disposicion final.
+La Constitucion se compone de una parte introductoria, una parte dogmatica, una parte organica y unas disposiciones finales. Para test conviene memorizarla por bloques:
 
-El preambulo no tiene estructura articulada, pero expresa los fines politicos generales del texto constitucional: garantizar la convivencia democratica, consolidar un Estado de Derecho, proteger los derechos humanos, promover el progreso de la cultura y la economia, establecer una sociedad democratica avanzada y colaborar en el fortalecimiento de unas relaciones pacificas y de cooperacion entre los pueblos.
+| Bloque | Contenido | Idea de examen |
+|---|---|---|
+| Preambulo | Fines politicos generales | No esta dividido en articulos, pero orienta el sentido del texto. |
+| Titulo preliminar | Articulos 1 a 9 | Decisiones constitucionales basicas. |
+| Titulo I | Articulos 10 a 55 | Derechos y deberes fundamentales. |
+| Titulos II a X | Organizacion constitucional | Corona, Cortes, Gobierno, Poder Judicial, territorio, Tribunal Constitucional y reforma. |
+| Disposiciones | 4 adicionales, 9 transitorias, 1 derogatoria y 1 final | Cierre tecnico del texto constitucional. |
 
-El titulo preliminar, articulos 1 a 9, recoge las decisiones constitucionales basicas: forma del Estado, soberania nacional, monarquia parlamentaria, unidad de la Nacion espanola, derecho a la autonomia de nacionalidades y regiones, lengua oficial, bandera, capitalidad, partidos politicos, sindicatos, asociaciones empresariales, Fuerzas Armadas y principios de legalidad y seguridad juridica.
+El preambulo expresa los fines generales del texto constitucional:
 
-El titulo I, articulos 10 a 55, regula los derechos y deberes fundamentales. Es uno de los nucleos principales para cualquier oposicion administrativa, porque determina que derechos tienen mayor proteccion, cuales se regulan por ley organica, que garantias procesales existen y en que casos pueden suspenderse.
+- Garantizar la convivencia democratica.
+- Consolidar un Estado de Derecho.
+- Proteger los derechos humanos.
+- Promover el progreso de la cultura y la economia.
+- Establecer una sociedad democratica avanzada.
+- Colaborar en unas relaciones pacificas y de cooperacion entre los pueblos.
 
-El titulo II regula la Corona; el titulo III, las Cortes Generales; el titulo IV, el Gobierno y la Administracion; el titulo V, las relaciones entre Gobierno y Cortes Generales; el titulo VI, el Poder Judicial; el titulo VII, economia y hacienda; el titulo VIII, la organizacion territorial del Estado; el titulo IX, el Tribunal Constitucional; y el titulo X, la reforma constitucional.
+El titulo preliminar, articulos 1 a 9, contiene las reglas que mas se preguntan en test:
+
+| Articulo | Materia | Clave |
+|---|---|---|
+| Articulo 1 | Estado social y democratico de Derecho, soberania nacional y monarquia parlamentaria | Formula basica del sistema. |
+| Articulo 2 | Unidad de la Nacion espanola y autonomia | Base del Estado autonomico. |
+| Articulo 3 | Castellano y demas lenguas espanolas | Deber de conocer el castellano y derecho a usarlo. |
+| Articulo 4 | Bandera de Espana y banderas autonomicas | Simbolos constitucionales. |
+| Articulo 5 | Capital del Estado | Villa de Madrid. |
+| Articulo 6 | Partidos politicos | Pluralismo politico. |
+| Articulo 7 | Sindicatos y asociaciones empresariales | Intereses economicos y sociales. |
+| Articulo 8 | Fuerzas Armadas | Soberania, independencia, integridad territorial y ordenamiento constitucional. |
+| Articulo 9 | Sujecion a la Constitucion, igualdad real y principios juridicos | Legalidad, seguridad juridica e interdiccion de la arbitrariedad. |
+
+La estructura de los titulos es la siguiente:
+
+| Titulo | Articulos | Materia |
+|---|---:|---|
+| Titulo I | 10 a 55 | Derechos y deberes fundamentales. |
+| Titulo II | 56 a 65 | La Corona. |
+| Titulo III | 66 a 96 | Las Cortes Generales. |
+| Titulo IV | 97 a 107 | Gobierno y Administracion. |
+| Titulo V | 108 a 116 | Relaciones entre Gobierno y Cortes Generales. |
+| Titulo VI | 117 a 127 | Poder Judicial. |
+| Titulo VII | 128 a 136 | Economia y Hacienda. |
+| Titulo VIII | 137 a 158 | Organizacion territorial del Estado. |
+| Titulo IX | 159 a 165 | Tribunal Constitucional. |
+| Titulo X | 166 a 169 | Reforma constitucional. |
+
+**Regla mental:** el Titulo I: protege derechos; los Titulos II a IX: organizan instituciones; el Titulo X: explica como se reforma la Constitucion.
 
 ## Principios constitucionales del titulo preliminar
 
-El articulo 1.1 proclama que Espana se constituye en un Estado social y democratico de Derecho. Esta formula concentra tres ideas.
+El articulo 1.1 proclama que Espana se constituye en un Estado social y democratico de Derecho. Esta formula concentra tres ideas que deben diferenciarse bien:
 
-El Estado de Derecho significa que el poder publico no actua libremente, sino sometido a la Constitucion y a la ley. Implica legalidad, control jurisdiccional, responsabilidad de los poderes publicos y prohibicion de la arbitrariedad.
+| Elemento | Significado | Consecuencia practica |
+|---|---|---|
+| Estado de Derecho | El poder publico esta sometido a la Constitucion y a la ley. | Legalidad, control judicial, responsabilidad y prohibicion de arbitrariedad. |
+| Estado democratico | La legitimidad deriva del pueblo. | Sufragio universal, elecciones periodicas, pluralismo politico y representacion. |
+| Estado social | Los poderes publicos deben hacer posible la igualdad real. | Politicas publicas, servicios, proteccion social y remocion de obstaculos. |
 
-El Estado democratico significa que la legitimidad del poder deriva del pueblo. El articulo 1.2 afirma que la soberania nacional reside en el pueblo espanol, del que emanan los poderes del Estado. Esta idea se proyecta en el sufragio universal, las elecciones periodicas, el pluralismo politico, la participacion ciudadana y el funcionamiento representativo de las instituciones.
+El articulo 9.2 es la pieza social del sistema. Obliga a los poderes publicos a:
 
-El Estado social significa que los poderes publicos no se limitan a garantizar libertades formales, sino que deben actuar para hacer posible una igualdad real y efectiva. El articulo 9.2 obliga a los poderes publicos a promover las condiciones para que la libertad y la igualdad sean reales y efectivas, remover obstaculos que impidan o dificulten su plenitud y facilitar la participacion de todos los ciudadanos en la vida politica, economica, cultural y social.
+1. Promover las condiciones para que la libertad y la igualdad sean reales y efectivas.
+2. Remover los obstaculos que impidan o dificulten su plenitud.
+3. Facilitar la participacion de todos los ciudadanos en la vida politica, economica, cultural y social.
 
-El articulo 2 combina dos principios: la unidad de la Nacion espanola y el reconocimiento del derecho a la autonomia de las nacionalidades y regiones. Esta es la base del Estado autonomico desarrollado posteriormente por el titulo VIII y por los Estatutos de Autonomia.
+Los demas principios del titulo preliminar se estudian asi:
 
-El articulo 3 regula la lengua. El castellano es la lengua espanola oficial del Estado y todos los espanoles tienen el deber de conocerla y el derecho a usarla. Las demas lenguas espanolas seran tambien oficiales en las respectivas comunidades autonomas de acuerdo con sus Estatutos.
+| Articulo | Principio | Como recordarlo |
+|---|---|---|
+| Articulo 1.2 | Soberania nacional | Reside en el pueblo espanol, del que emanan los poderes del Estado. |
+| Articulo 1.3 | Monarquia parlamentaria | El Rey es Jefe del Estado, pero no dirige la politica. |
+| Articulo 2 | Unidad y autonomia | Unidad de la Nacion espanola + autonomia de nacionalidades y regiones. |
+| Articulo 3 | Lenguas | Castellano oficial del Estado; demas lenguas oficiales segun Estatutos. |
+| Articulo 6 | Partidos politicos | Expresan el pluralismo politico. |
+| Articulo 7 | Sindicatos y asociaciones empresariales | Defienden intereses economicos y sociales. |
+| Articulo 8 | Fuerzas Armadas | Garantizan soberania, independencia, integridad territorial y orden constitucional. |
 
-El articulo 6 reconoce a los partidos politicos como expresion del pluralismo politico. Su creacion y ejercicio son libres dentro del respeto a la Constitucion y a la ley, y su estructura interna y funcionamiento deben ser democraticos.
+El articulo 9.3 contiene una lista clasica de preguntas de test:
 
-El articulo 7 reconoce a sindicatos y asociaciones empresariales como organizaciones que contribuyen a la defensa y promocion de los intereses economicos y sociales que les son propios. Tambien exige que su creacion y actividad respeten la Constitucion y la ley y que su estructura interna y funcionamiento sean democraticos.
+- Principio de legalidad.
+- Jerarquia normativa.
+- Publicidad de las normas.
+- Irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+- Seguridad juridica.
+- Responsabilidad de los poderes publicos.
+- Interdiccion de la arbitrariedad de los poderes publicos.
 
-El articulo 8 se refiere a las Fuerzas Armadas, integradas por el Ejercito de Tierra, la Armada y el Ejercito del Aire. Su mision constitucional es garantizar la soberania e independencia de Espana, defender su integridad territorial y el ordenamiento constitucional.
-
-El articulo 9.3 contiene principios esenciales del Estado de Derecho: legalidad, jerarquia normativa, publicidad de las normas, irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad juridica, responsabilidad e interdiccion de la arbitrariedad de los poderes publicos.
+**Cuidado en test:** la Constitucion garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales; no prohibe toda retroactividad en abstracto.
 
 ## Valores superiores del ordenamiento juridico
 
 El articulo 1.1 establece cuatro valores superiores: libertad, justicia, igualdad y pluralismo politico.
 
-La libertad opera como presupuesto del sistema democratico y como fundamento de muchos derechos fundamentales: libertad ideologica, religiosa, de expresion, de informacion, de reunion, de asociacion, de residencia y circulacion, de ensenanza, sindical, entre otras. No se trata de una libertad absoluta; puede estar limitada por otros derechos y bienes constitucionales, pero esas limitaciones deben estar justificadas y respetar el contenido esencial de los derechos.
+| Valor superior | Contenido | Conexion habitual |
+|---|---|---|
+| Libertad | Presupuesto del sistema democratico y de los derechos fundamentales. | Libertad ideologica, religiosa, expresion, informacion, reunion, asociacion y circulacion. |
+| Justicia | Ordenamiento razonable, no arbitrario y respetuoso con los derechos. | Tutela judicial efectiva e independencia judicial. |
+| Igualdad | Igualdad formal ante la ley e igualdad material. | Articulo 14 y articulo 9.2. |
+| Pluralismo politico | Diversidad ideologica y posibilidad de alternancia. | Partidos politicos, elecciones y participacion. |
 
-La justicia se proyecta tanto en la organizacion judicial como en la exigencia de un ordenamiento razonable, no arbitrario y respetuoso con los derechos. Se relaciona con la tutela judicial efectiva, con la independencia judicial y con la igualdad ante la ley.
+La igualdad debe estudiarse en dos planos:
 
-La igualdad tiene una doble dimension. Como igualdad formal, el articulo 14 proclama que los espanoles son iguales ante la ley, sin discriminacion por nacimiento, raza, sexo, religion, opinion o cualquier otra condicion o circunstancia personal o social. Como igualdad material, el articulo 9.2 exige a los poderes publicos remover obstaculos para que la libertad y la igualdad sean reales.
+- **Igualdad formal:** articulo 14. Los espanoles son iguales ante la ley, sin discriminacion por nacimiento, raza, sexo, religion, opinion o cualquier otra condicion o circunstancia personal o social.
+- **Igualdad material:** articulo 9.2. Los poderes publicos deben remover obstaculos para que libertad e igualdad sean reales y efectivas.
 
-El pluralismo politico es indispensable en un sistema democratico. No se agota en la existencia de varios partidos, sino que supone la aceptacion constitucional de la diversidad ideologica, la competencia electoral, la participacion ciudadana y la posibilidad de alternancia en el poder.
+**Frase de examen:** los valores superiores no son simples adornos del preambulo; forman parte del articulo 1.1 y orientan la interpretacion de todo el ordenamiento juridico.
 
 ## Derechos y deberes fundamentales
 
-El titulo I comienza con el articulo 10, que situa la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y el respeto a los derechos de los demas como fundamento del orden politico y de la paz social.
+El titulo I comienza con el articulo 10, que situa la dignidad de la persona como fundamento del orden politico y de la paz social. Este articulo conecta con:
 
-El capitulo I regula la nacionalidad, la mayoria de edad y la posicion de los extranjeros. El articulo 12 fija la mayoria de edad de los espanoles en los dieciocho anos. El articulo 13 establece que los extranjeros gozaran en Espana de las libertades publicas que garantiza el titulo I en los terminos que establezcan los tratados y la ley.
+- Los derechos inviolables inherentes a la persona.
+- El libre desarrollo de la personalidad.
+- El respeto a la ley.
+- El respeto a los derechos de los demas.
 
-El capitulo II se divide en dos secciones. Antes de ellas, el articulo 14 proclama la igualdad ante la ley. La seccion primera, articulos 15 a 29, recoge los derechos fundamentales y libertades publicas de maxima proteccion. Entre ellos se encuentran el derecho a la vida y a la integridad fisica y moral, la libertad ideologica y religiosa, la libertad personal, el honor, la intimidad, la inviolabilidad del domicilio, el secreto de las comunicaciones, la libertad de residencia y circulacion, la libertad de expresion e informacion, reunion, asociacion, participacion politica, tutela judicial efectiva, legalidad penal, educacion, sindicacion, huelga y peticion.
+La estructura interna del Titulo I es fundamental:
 
-La seccion segunda, articulos 30 a 38, contiene derechos y deberes de los ciudadanos. Incluye el deber de defender Espana, la objecion de conciencia en los terminos legalmente previstos, los principios tributarios, el derecho al matrimonio, el derecho de propiedad privada y herencia, el derecho de fundacion, el derecho al trabajo y a la libre eleccion de profesion u oficio, la negociacion colectiva, la libertad de empresa y la defensa de la productividad.
+| Parte del Titulo I | Articulos | Contenido |
+|---|---:|---|
+| Articulo 10 | 10 | Dignidad de la persona y fundamento del orden politico. |
+| Capitulo I | 11 a 13 | Nacionalidad, mayoria de edad y extranjeros. |
+| Articulo 14 | 14 | Igualdad ante la ley. |
+| Capitulo II, seccion primera | 15 a 29 | Derechos fundamentales y libertades publicas. |
+| Capitulo II, seccion segunda | 30 a 38 | Derechos y deberes de los ciudadanos. |
+| Capitulo III | 39 a 52 | Principios rectores de la politica social y economica. |
+| Capitulo IV | 53 a 54 | Garantias de las libertades y derechos fundamentales. |
+| Capitulo V | 55 | Suspension de derechos y libertades. |
 
-El capitulo III contiene los principios rectores de la politica social y economica. No tienen la misma proteccion directa que los derechos fundamentales de la seccion primera, pero informan la legislacion, la practica judicial y la actuacion de los poderes publicos. Incluyen proteccion de la familia, progreso social y economico, seguridad social, salud, cultura, medio ambiente, vivienda, consumidores, juventud, personas mayores y personas con discapacidad.
+La seccion primera, articulos 15 a 29, es la zona de maxima proteccion. Incluye, entre otros:
 
-El capitulo IV regula garantias y el capitulo V la suspension de derechos y libertades.
+- Derecho a la vida y a la integridad fisica y moral.
+- Libertad ideologica, religiosa y de culto.
+- Libertad y seguridad.
+- Honor, intimidad, propia imagen, inviolabilidad del domicilio y secreto de comunicaciones.
+- Libertad de residencia y circulacion.
+- Libertad de expresion e informacion.
+- Reunion y asociacion.
+- Participacion politica.
+- Tutela judicial efectiva.
+- Legalidad penal.
+- Educacion.
+- Sindicacion y huelga.
+- Peticion.
+
+La seccion segunda, articulos 30 a 38, incluye derechos y deberes de los ciudadanos:
+
+- Deber de defender Espana.
+- Principios tributarios.
+- Derecho al matrimonio.
+- Propiedad privada y herencia.
+- Derecho de fundacion.
+- Derecho al trabajo y a la libre eleccion de profesion u oficio.
+- Negociacion colectiva.
+- Libertad de empresa.
+
+Los principios rectores del capitulo III: no tienen la misma proteccion directa que los derechos fundamentales, pero orientan la legislacion, la practica judicial y la actuacion de los poderes publicos. Incluyen familia, Seguridad Social, salud, cultura, medio ambiente, vivienda, consumidores, juventud, personas mayores y personas con discapacidad.
 
 ## Garantias de los derechos
 
-El articulo 53 establece distintos niveles de proteccion.
+El articulo 53 establece tres niveles de proteccion:
 
-Los derechos y libertades del capitulo II vinculan a todos los poderes publicos. Su regulacion debe hacerse por ley, que debe respetar su contenido esencial. Esto significa que el legislador puede concretar el ejercicio del derecho, pero no eliminarlo ni hacerlo irreconocible.
+| Derechos o principios | Proteccion | Clave de examen |
+|---|---|---|
+| Capitulo II | Vinculan a todos los poderes publicos y se regulan por ley. | La ley debe respetar el contenido esencial. |
+| Articulo 14 + seccion primera del capitulo II | Procedimiento preferente y sumario + recurso de amparo. | Son los de maxima proteccion. |
+| Capitulo III | Solo pueden alegarse segun las leyes que los desarrollen. | Informan legislacion, practica judicial y actuacion administrativa. |
 
-Los derechos de la seccion primera del capitulo II y el derecho de igualdad del articulo 14 tienen una proteccion reforzada. Pueden tutelarse ante los tribunales ordinarios por un procedimiento basado en los principios de preferencia y sumariedad, y tambien mediante recurso de amparo ante el Tribunal Constitucional, en los casos y condiciones legalmente establecidos.
+Ademas, el desarrollo de los derechos fundamentales y libertades publicas debe realizarse mediante ley organica, conforme al articulo 81. Esta garantia exige mayoria absoluta del Congreso en una votacion final sobre el conjunto del proyecto.
 
-Ademas, el desarrollo de los derechos fundamentales y libertades publicas debe realizarse mediante ley organica, conforme al articulo 81. Esto es una garantia adicional porque exige mayoria absoluta del Congreso en votacion final sobre el conjunto del proyecto.
+El Defensor del Pueblo, regulado en el articulo 54, es alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el titulo I. Sus notas basicas son:
 
-Los principios rectores del capitulo III solo pueden alegarse ante la jurisdiccion ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen. No obstante, tienen gran importancia porque orientan la accion legislativa y administrativa.
-
-El Defensor del Pueblo, regulado en el articulo 54, es alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el titulo I. Supervisa la actividad de la Administracion y da cuenta a las Cortes Generales.
+- Supervisa la actividad de la Administracion.
+- Da cuenta a las Cortes Generales.
+- Actua en defensa de los derechos del Titulo I.
+- Puede interponer recurso de inconstitucionalidad y recurso de amparo en los terminos constitucionales y legales.
 
 ## Suspension de derechos
 
-El articulo 55 distingue entre suspension general y suspension individual.
+El articulo 55 distingue dos tipos de suspension:
 
-La suspension general puede acordarse cuando se declaren los estados de excepcion o de sitio en los terminos previstos en la Constitucion y en la ley organica correspondiente. En esos supuestos pueden suspenderse determinados derechos, como algunos aspectos de la libertad personal, inviolabilidad del domicilio, secreto de las comunicaciones, libertad de circulacion, libertad de expresion e informacion, reunion, huelga y adopcion de medidas de conflicto colectivo.
+| Tipo | Cuando procede | Garantias |
+|---|---|---|
+| Suspension general | Estados de excepcion o de sitio. | Debe seguir la Constitucion y la ley organica correspondiente. |
+| Suspension individual | Investigaciones sobre bandas armadas o elementos terroristas. | Ley organica, intervencion judicial y control parlamentario. |
 
-La suspension individual se vincula a investigaciones relativas a la actuacion de bandas armadas o elementos terroristas. Debe estar prevista por ley organica, con necesaria intervencion judicial y adecuado control parlamentario. La Constitucion advierte que la utilizacion injustificada o abusiva de esas facultades produce responsabilidad penal.
+En la suspension general pueden suspenderse determinados derechos, como algunos aspectos de:
 
-La suspension de derechos no significa desaparicion del Estado de Derecho. Incluso en situaciones excepcionales, la actuacion publica queda sujeta a legalidad, proporcionalidad, control judicial y responsabilidad.
+- Libertad personal.
+- Inviolabilidad del domicilio.
+- Secreto de las comunicaciones.
+- Libertad de circulacion.
+- Libertad de expresion e informacion.
+- Reunion.
+- Huelga.
+- Adopcion de medidas de conflicto colectivo.
 
+En la suspension individual, la Constitucion advierte que la utilizacion injustificada o abusiva de esas facultades produce responsabilidad penal.
+
+**Idea final:** la suspension de derechos no significa desaparicion del Estado de Derecho. Incluso en situaciones excepcionales, la actuacion publica queda sometida a legalidad, proporcionalidad, control judicial y responsabilidad.
