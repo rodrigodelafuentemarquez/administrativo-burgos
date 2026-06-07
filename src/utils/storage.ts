@@ -27,8 +27,19 @@ export type FailedQuestion = {
   lastFailedAt: number;
 };
 
+export type DoubtQuestion = {
+  id: string;
+  tema: number;
+  pregunta: string;
+  opciones: string[];
+  correcta: number;
+  referencia: string;
+  createdAt: number;
+};
+
 const STATS_KEY = 'oposicion-stats-v3';
 const FAILS_KEY = 'oposicion-fallos-v3';
+const DOUBTS_KEY = 'oposicion-dudosas-v1';
 const RECENT_LIMIT = 8;
 const ATTEMPT_LIMIT = 12;
 
@@ -99,6 +110,24 @@ function normalizeFailedQuestion(value: unknown): FailedQuestion | null {
     fallos,
     firstFailedAt,
     lastFailedAt,
+  };
+}
+
+function normalizeDoubtQuestion(value: unknown): DoubtQuestion | null {
+  if (!value || typeof value !== 'object') return null;
+  const raw = value as Partial<DoubtQuestion>;
+  const opciones = Array.isArray(raw.opciones) ? raw.opciones.map((item) => String(item ?? '')) : [];
+  const correcta = Number(raw.correcta);
+  if (!String(raw.id ?? '') || opciones.length !== 4 || ![0, 1, 2, 3].includes(correcta)) return null;
+
+  return {
+    id: String(raw.id),
+    tema: Number(raw.tema ?? 0),
+    pregunta: String(raw.pregunta ?? ''),
+    opciones,
+    correcta,
+    referencia: String(raw.referencia ?? ''),
+    createdAt: Number(raw.createdAt ?? 0) || Date.now(),
   };
 }
 
@@ -189,4 +218,51 @@ export function clearStats(): void {
 export function clearFails(): void {
   if (typeof localStorage === 'undefined') return;
   localStorage.removeItem(FAILS_KEY);
+}
+
+export function readDoubts(): DoubtQuestion[] {
+  if (typeof localStorage === 'undefined') return [];
+  try {
+    const raw = JSON.parse(localStorage.getItem(DOUBTS_KEY) ?? '[]');
+    if (!Array.isArray(raw)) return [];
+    return raw.map(normalizeDoubtQuestion).filter(Boolean) as DoubtQuestion[];
+  } catch {
+    return [];
+  }
+}
+
+export function saveDoubts(doubts: DoubtQuestion[]): void {
+  localStorage.setItem(DOUBTS_KEY, JSON.stringify(doubts));
+}
+
+export function toggleDoubt(question: Omit<DoubtQuestion, 'createdAt'>): boolean {
+  const current = readDoubts();
+  const existing = current.find((item) => item.id === question.id);
+  if (existing) {
+    saveDoubts(current.filter((item) => item.id !== question.id));
+    return false;
+  }
+
+  saveDoubts([
+    {
+      ...question,
+      createdAt: Date.now(),
+    },
+    ...current,
+  ]);
+  return true;
+}
+
+export function isDoubt(id: string): boolean {
+  return readDoubts().some((item) => item.id === id);
+}
+
+export function removeDoubtIds(ids: string[]): void {
+  const idSet = new Set(ids);
+  saveDoubts(readDoubts().filter((item) => !idSet.has(item.id)));
+}
+
+export function clearDoubts(): void {
+  if (typeof localStorage === 'undefined') return;
+  localStorage.removeItem(DOUBTS_KEY);
 }

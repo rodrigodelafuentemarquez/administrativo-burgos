@@ -1,5 +1,5 @@
 ---
-interface Props { mode?: 'normal' | 'fails'; }
+interface Props { mode?: 'normal' | 'fails' | 'doubts'; }
 const { mode = 'normal' } = Astro.props;
 const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 ---
@@ -9,7 +9,15 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 </section>
 
 <script>
-  import { updateStats, readFails, addFails, removeFailIds } from '../utils/storage';
+  import {
+    updateStats,
+    readFails,
+    addFails,
+    removeFailIds,
+    readDoubts,
+    toggleDoubt,
+    removeDoubtIds,
+  } from '../utils/storage';
 
   const root = document.getElementById('test-app');
   const mode = root?.dataset.mode ?? 'normal';
@@ -24,10 +32,12 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     { value: 0.25, label: 'Penalización -0,25 por fallo' },
     { value: 0.33, label: 'Penalización -0,33 por fallo' },
   ];
+
   let allQuestions = [];
   let selected = [];
   let currentSessionMode = 'practice';
   let currentFailFilter = 'mixed';
+  let currentDoubtFilter = 'mixed';
   let currentPenalty = 0;
   let currentTimerMinutes = 0;
   let activeTimerId = null;
@@ -65,6 +75,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       fallos: Math.max(1, Number(item.fallos ?? 1) || 1),
       firstFailedAt: Number(item.firstFailedAt ?? 0) || null,
       lastFailedAt: Number(item.lastFailedAt ?? 0) || null,
+      createdAt: Number(item.createdAt ?? 0) || null,
     };
   }
 
@@ -76,7 +87,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     .replaceAll("'", '&#039;');
 
   function shuffle(arr) {
-    return arr.map((v) => [Math.random(), v]).sort((a,b) => a[0]-b[0]).map((x) => x[1]);
+    return arr.map((v) => [Math.random(), v]).sort((a, b) => a[0] - b[0]).map((x) => x[1]);
   }
 
   function shuffleQuestionOptions(question) {
@@ -116,6 +127,13 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     return sessionMode === 'official' ? officialLimitOptions : practiceLimitOptions;
   }
 
+  function getCoverageTone(count) {
+    if (count >= 40) return 'success';
+    if (count >= 30) return 'primary';
+    if (count >= 20) return 'warning';
+    return 'danger';
+  }
+
   function sortByRecurringDifficulty(items) {
     return [...items].sort((a, b) => {
       if ((b.fallos ?? 1) !== (a.fallos ?? 1)) return (b.fallos ?? 1) - (a.fallos ?? 1);
@@ -138,11 +156,12 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         .filter((item) => Number(item.fallos ?? 1) >= 2)
         .map((item) => ({ ...availableById.get(item.id), fallos: item.fallos, firstFailedAt: item.firstFailedAt, lastFailedAt: item.lastFailedAt }))
     );
+
     const failedIdSet = new Set(normalizedFails.map((item) => item.id));
     const pickedIds = new Set();
     const recurrentTarget = Math.min(
       recurrent.length,
-      desired >= 20 ? Math.max(6, Math.round(desired * 0.35)) : Math.max(3, Math.round(desired * 0.3)),
+      desired >= 20 ? Math.max(8, Math.round(desired * 0.5)) : Math.max(4, Math.round(desired * 0.45)),
     );
 
     const recurrentPicked = recurrent.slice(0, recurrentTarget);
@@ -158,7 +177,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 
     while (ordered.length < desired && (recurrentQueue.length || freshQueue.length)) {
       if (recurrentQueue.length) ordered.push(recurrentQueue.shift());
-      if (ordered.length < desired && freshQueue.length) ordered.push(freshQueue.shift());
+      if (ordered.length < desired && recurrentQueue.length) ordered.push(recurrentQueue.shift());
       if (ordered.length < desired && freshQueue.length) ordered.push(freshQueue.shift());
     }
 
@@ -186,6 +205,29 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       .map((n) => `<option value="${n}">${n}</option>`)
       .join('');
     limitSelect.value = String(options.includes(preferred) ? preferred : (sessionMode === 'official' ? 70 : 20));
+  }
+
+  function applyModePreset(sessionMode) {
+    const limitSelect = document.getElementById('limit');
+    const timerSelect = document.getElementById('timer-minutes');
+    const penaltySelect = document.getElementById('penalty-mode');
+    if (!limitSelect || !timerSelect || !penaltySelect) return;
+
+    if (sessionMode === 'official') {
+      syncLimitOptions(70);
+      limitSelect.value = '70';
+      timerSelect.value = '90';
+      penaltySelect.value = '0.25';
+      return;
+    }
+
+    if (sessionMode === 'smart') {
+      syncLimitOptions(30);
+      if (timerSelect.value === '90') timerSelect.value = '0';
+      return;
+    }
+
+    syncLimitOptions(20);
   }
 
   function startTimer(totalMinutes) {
@@ -251,18 +293,32 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       return [...nuevos].sort((a, b) => (b.lastFailedAt ?? 0) - (a.lastFailedAt ?? 0));
     }
     if (filter === 'recurrent') {
-      return [...recurrentes].sort((a, b) => {
-        if ((b.fallos ?? 1) !== (a.fallos ?? 1)) return (b.fallos ?? 1) - (a.fallos ?? 1);
-        return (b.lastFailedAt ?? 0) - (a.lastFailedAt ?? 0);
-      });
+      return sortByRecurringDifficulty(recurrentes);
     }
 
     return [
-      ...[...recurrentes].sort((a, b) => {
-        if ((b.fallos ?? 1) !== (a.fallos ?? 1)) return (b.fallos ?? 1) - (a.fallos ?? 1);
-        return (b.lastFailedAt ?? 0) - (a.lastFailedAt ?? 0);
-      }),
+      ...sortByRecurringDifficulty(recurrentes),
       ...[...nuevos].sort((a, b) => (b.lastFailedAt ?? 0) - (a.lastFailedAt ?? 0)),
+    ];
+  }
+
+  function getDoubtBuckets(doubts) {
+    const recurrentIds = new Set(readFails().filter((item) => Number(item.fallos ?? 1) >= 2).map((item) => item.id));
+    const recurrentes = doubts.filter((q) => recurrentIds.has(q.id));
+    const nuevas = doubts.filter((q) => !recurrentIds.has(q.id));
+    return { nuevas, recurrentes };
+  }
+
+  function getDoubtPool(filter) {
+    const doubts = readDoubts()
+      .map((item, index) => normalizeQuestion(item, Number(item?.tema ?? 0), index))
+      .filter(Boolean);
+    const { nuevas, recurrentes } = getDoubtBuckets(doubts);
+    if (filter === 'recurrent') return sortByRecurringDifficulty(recurrentes);
+    if (filter === 'new') return [...nuevas].sort((a, b) => (b.createdAt ?? 0) - (a.createdAt ?? 0));
+    return [
+      ...sortByRecurringDifficulty(recurrentes),
+      ...[...nuevas].sort((a, b) => (b.createdAt ?? 0) - (a.createdAt ?? 0)),
     ];
   }
 
@@ -283,6 +339,10 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       return;
     }
 
+    const strong = temas.filter((t) => t.preguntas >= 40).length;
+    const solid = temas.filter((t) => t.preguntas >= 30 && t.preguntas < 40).length;
+    const minimum = temas.filter((t) => t.preguntas >= 20 && t.preguntas < 30).length;
+
     root.innerHTML = `
       <div class="test-hero mb-4">
         <span class="test-kicker">Modo test</span>
@@ -298,7 +358,12 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
               <button class="btn btn-outline-secondary btn-sm" id="clear-topics" type="button">Quitar selección</button>
             </div>
           </div>
-          <p class="text-body-secondary small mb-3">Puedes mezclar varios temas en un mismo test. "Test general" marca todos los temas disponibles.</p>
+          <p class="text-body-secondary small mb-2">Puedes mezclar varios temas en un mismo test. "Test general" marca todos los temas disponibles.</p>
+          <div class="d-flex flex-wrap gap-2 mb-3">
+            <span class="badge text-bg-success">Fuertes: ${strong}</span>
+            <span class="badge text-bg-primary">Solidos: ${solid}</span>
+            <span class="badge text-bg-warning text-dark">En minimo: ${minimum}</span>
+          </div>
           <div class="d-flex flex-wrap gap-2 mb-3" id="topic-selection-summary"></div>
           <div class="test-topic-grid">
             ${temas.map((t) => `
@@ -307,7 +372,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
                 <span>
                   <span class="test-topic-heading">
                     <strong>Tema ${Number(t.tema)}</strong>
-                    <span class="test-topic-count badge text-bg-primary">${Number(t.preguntas)} preguntas</span>
+                    <span class="test-topic-count badge text-bg-${getCoverageTone(Number(t.preguntas))}">${Number(t.preguntas)} preguntas</span>
                   </span>
                   ${t.titulo ? `<small>${escapeHtml(t.titulo)}</small>` : ''}
                 </span>
@@ -321,7 +386,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             <option value="official">Simulacro oficial</option>
             <option value="smart">Repaso inteligente</option>
           </select>
-          <p class="text-body-secondary small mb-3">Práctica muestra la referencia durante el examen. Simulacro la oculta hasta corregir. Repaso inteligente mezcla preguntas nuevas con fallos recurrentes del mismo bloque.</p>
+          <p class="text-body-secondary small mb-3">Práctica muestra la referencia durante el examen. Simulacro oficial se ajusta por defecto a 70 preguntas, 90 minutos y penalización de 0,25. Repaso inteligente carga antes lo que más se te atraganta.</p>
           <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
           <select class="form-select mb-3" id="limit"></select>
           <label class="form-label fw-semibold" for="timer-minutes">Temporizador orientativo</label>
@@ -333,11 +398,11 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         </div>
       </div>`;
 
-    syncLimitOptions(20);
+    applyModePreset('practice');
     updateTopicSelectionSummary();
 
     document.getElementById('session-mode')?.addEventListener('change', () => {
-      syncLimitOptions();
+      applyModePreset(document.getElementById('session-mode')?.value ?? 'practice');
     });
 
     document.getElementById('select-all-topics')?.addEventListener('click', () => {
@@ -348,7 +413,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
 
     document.getElementById('clear-topics')?.addEventListener('click', () => {
-      root.querySelectorAll('input[type=checkbox]').forEach((el) => {
+      root.querySelectorAll('.test-topic-option input[type=checkbox]').forEach((el) => {
         el.checked = false;
       });
       updateTopicSelectionSummary();
@@ -359,7 +424,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
 
     document.getElementById('start')?.addEventListener('click', async () => {
-      const temaIds = Array.from(root.querySelectorAll('input[type=checkbox]:checked')).map((el) => Number(el.value));
+      const temaIds = Array.from(root.querySelectorAll('.test-topic-option input[type=checkbox]:checked')).map((el) => Number(el.value));
       currentSessionMode = document.getElementById('session-mode')?.value ?? 'practice';
       if (!temaIds.length) {
         renderEmpty('Selecciona al menos un tema.', 'Vuelve a Tests y marca un tema para empezar.');
@@ -398,6 +463,15 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         return;
       }
       selected = allQuestions.slice(0, limit > 0 ? limit : allQuestions.length);
+    } else if (mode === 'doubts') {
+      currentPenalty = 0;
+      currentTimerMinutes = 0;
+      allQuestions = getDoubtPool(currentDoubtFilter);
+      if (!allQuestions.length) {
+        renderEmpty('No hay preguntas dudosas ahora mismo.', 'Marca preguntas desde la corrección del test y aparecerán aquí.');
+        return;
+      }
+      selected = allQuestions.slice(0, limit > 0 ? limit : allQuestions.length);
     } else if (currentSessionMode === 'smart') {
       selected = buildSmartSelection(limit);
     } else {
@@ -407,20 +481,28 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 
     selected = selected.map((question) => shuffleQuestionOptions(question));
 
-    const isOfficial = currentSessionMode === 'official' && mode !== 'fails';
-    const isSmart = currentSessionMode === 'smart' && mode !== 'fails';
-    const heroLabel = mode === 'fails' ? 'Repaso de fallos' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio'));
+    const isOfficial = currentSessionMode === 'official' && mode === 'normal';
+    const isSmart = currentSessionMode === 'smart' && mode === 'normal';
+    const heroLabel = mode === 'fails'
+      ? 'Repaso de fallos'
+      : (mode === 'doubts'
+        ? 'Revision de dudosas'
+        : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio')));
+
     const heroText = mode === 'fails'
       ? 'Las preguntas se priorizan por recurrencia de error. Si aciertas una aquí, desaparece de fallos.'
-      : (isOfficial
-        ? 'Sin pistas durante el examen: la referencia normativa solo aparece al corregir.'
-        : (isSmart
-          ? 'Combina preguntas nuevas con fallos recurrentes del bloque elegido para repasar sin repetir siempre lo mismo.'
-          : 'Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.'));
-    const timerBadge = mode !== 'fails' && currentTimerMinutes > 0
+      : (mode === 'doubts'
+        ? 'Este bloque agrupa preguntas que has marcado para revisar con calma. Si aquí ya las ves claras, se limpian automáticamente al acertarlas.'
+        : (isOfficial
+          ? 'Sin pistas durante el examen: la referencia normativa solo aparece al corregir. Ajuste inicial: 70 preguntas, 90 minutos y penalización de 0,25.'
+          : (isSmart
+            ? 'Combina preguntas nuevas con fallos recurrentes del bloque elegido para repasar sin repetir siempre lo mismo.'
+            : 'Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.')));
+
+    const timerBadge = mode === 'normal' && currentTimerMinutes > 0
       ? `<span class="badge text-bg-dark" id="timer-display">${formatDuration(Math.round(currentTimerMinutes * 60))}</span>`
       : '';
-    const penaltyBadge = mode !== 'fails' && currentPenalty > 0
+    const penaltyBadge = mode === 'normal' && currentPenalty > 0
       ? `<span class="badge text-bg-secondary">Penalización -${formatPenalty(currentPenalty)} por fallo</span>`
       : '';
     const modeBadge = isSmart ? '<span class="badge text-bg-info">Nuevas + recurrentes</span>' : '';
@@ -462,7 +544,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
 
     document.getElementById('finish')?.addEventListener('click', finishTest);
-    if (mode !== 'fails' && currentTimerMinutes > 0) {
+    if (mode === 'normal' && currentTimerMinutes > 0) {
       startTimer(currentTimerMinutes);
     }
   }
@@ -486,6 +568,9 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     if (mode === 'fails') {
       const successIds = selected.filter((q) => answers.get(q.id) === q.correcta).map((q) => q.id);
       removeFailIds(successIds);
+    } else if (mode === 'doubts') {
+      const successIds = selected.filter((q) => answers.get(q.id) === q.correcta).map((q) => q.id);
+      removeDoubtIds(successIds);
     } else {
       const byTema = new Map();
       selected.forEach((q) => {
@@ -504,11 +589,13 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     const netPercent = selected.length ? Math.round((netScore / selected.length) * 100) : 0;
     const failMessage = mode === 'fails'
       ? (failed.length ? `${failed.length} pregunta(s) siguen en fallos.` : 'Has vaciado este bloque de fallos.')
-      : (failed.length ? `${failed.length} pregunta(s) guardada(s) en fallos.` : 'Sin fallos. Limpio como una patena.');
+      : (mode === 'doubts'
+        ? (failed.length ? `${failed.length} pregunta(s) siguen marcadas o dudosas.` : 'Has limpiado todas las dudosas de este bloque.')
+        : (failed.length ? `${failed.length} pregunta(s) guardada(s) en fallos.` : 'Sin fallos. Limpio como una patena.'));
     const timingMessage = finishReason === 'timeout'
       ? '<p class="text-warning-emphasis mb-0 mt-2">El temporizador ha llegado a cero y el test se ha corregido automáticamente.</p>'
       : '';
-    const penaltyMessage = mode !== 'fails' && currentPenalty > 0
+    const penaltyMessage = mode === 'normal' && currentPenalty > 0
       ? `<p class="text-body-secondary mb-0 mt-2">Nota neta con penalización de ${formatPenalty(currentPenalty)} por fallo: <strong>${String(netScore.toFixed(2)).replace('.', ',')}</strong> sobre ${selected.length} (${netPercent}%).</p>`
       : '';
 
@@ -530,13 +617,43 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       <div class="test-question-list">
         ${selected.map((q, i) => renderCorrection(q, i, answers.get(q.id))).join('')}
       </div>
+      ${mode === 'normal' ? '<div id="doubt-feedback" class="mt-3"></div>' : ''}
       <button id="again" class="btn btn-primary btn-lg mt-4" type="button">Nuevo test</button>`;
 
     window.scrollTo({
       top: Math.max(0, root.getBoundingClientRect().top + window.scrollY - 88),
       behavior: 'smooth',
     });
-    document.getElementById('again')?.addEventListener('click', () => mode === 'fails' ? loadFailsView() : loadNormalQuestions());
+
+    document.getElementById('again')?.addEventListener('click', () => {
+      if (mode === 'fails') return loadFailsView();
+      if (mode === 'doubts') return loadDoubtsView();
+      return loadNormalQuestions();
+    });
+
+    if (mode === 'normal') {
+      root.querySelectorAll('.toggle-doubt').forEach((button) => {
+        button.addEventListener('click', () => {
+          const id = button.dataset.id ?? '';
+          const question = selected.find((item) => item.id === id);
+          if (!question) return;
+          const active = toggleDoubt({
+            id: question.id,
+            tema: question.tema,
+            pregunta: question.pregunta,
+            opciones: question.opciones,
+            correcta: question.correcta,
+            referencia: question.referencia,
+          });
+          button.textContent = active ? 'Quitar duda' : 'Marcar dudosa';
+          button.className = active ? 'btn btn-sm btn-warning toggle-doubt' : 'btn btn-sm btn-outline-warning toggle-doubt';
+          const feedback = document.getElementById('doubt-feedback');
+          if (feedback) {
+            feedback.innerHTML = `<div class="alert alert-${active ? 'warning' : 'secondary'} border-0 shadow-sm mb-0">${active ? 'Pregunta marcada como dudosa.' : 'Pregunta quitada de dudosas.'}</div>`;
+          }
+        });
+      });
+    }
   }
 
   function renderCorrection(q, i, pick) {
@@ -544,16 +661,23 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     const failBadge = mode === 'fails' && Number(q.fallos ?? 1) >= 2
       ? `<span class="badge text-bg-warning ms-2">Recurrente · ${Number(q.fallos)} fallos</span>`
       : '';
+    const hasDoubt = readDoubts().some((item) => item.id === q.id);
+    const doubtButton = mode === 'normal'
+      ? `<button type="button" class="${hasDoubt ? 'btn btn-sm btn-warning' : 'btn btn-sm btn-outline-warning'} toggle-doubt" data-id="${escapeHtml(q.id)}">${hasDoubt ? 'Quitar duda' : 'Marcar dudosa'}</button>`
+      : '';
 
     return `
       <article class="correction-card card border-0 shadow-sm ${correct ? 'is-correct' : 'is-wrong'}">
         <div class="card-body p-4">
-          <div class="d-flex align-items-start gap-3 mb-3">
-            <span class="question-number">${i + 1}</span>
-            <div>
-              <p class="question-meta mb-1">Tema ${Number(q.tema)} · ${escapeHtml(q.referencia)} ${failBadge}</p>
-              <h3 class="h5 mb-0">${escapeHtml(q.pregunta)}</h3>
+          <div class="d-flex align-items-start justify-content-between gap-3 mb-3">
+            <div class="d-flex align-items-start gap-3">
+              <span class="question-number">${i + 1}</span>
+              <div>
+                <p class="question-meta mb-1">Tema ${Number(q.tema)} · ${escapeHtml(q.referencia)} ${failBadge}</p>
+                <h3 class="h5 mb-0">${escapeHtml(q.pregunta)}</h3>
+              </div>
             </div>
+            ${doubtButton}
           </div>
           <div class="correction-answer ${correct ? 'text-success' : 'text-danger'} fw-semibold mb-2">
             ${correct ? 'Correcta' : 'Incorrecta'}
@@ -604,8 +728,47 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
   }
 
+  function loadDoubtsView() {
+    const doubts = readDoubts()
+      .map((item, index) => normalizeQuestion(item, Number(item?.tema ?? 0), index))
+      .filter(Boolean);
+    const { nuevas, recurrentes } = getDoubtBuckets(doubts);
+
+    root.innerHTML = `
+      <div class="test-hero mb-4">
+        <span class="test-kicker">Dudosas</span>
+        <h2 class="display-6 mb-2">Revisar preguntas marcadas</h2>
+        <p class="text-body-secondary mb-3">Aquí van las preguntas que has marcado porque no te convencen, son ambiguas o quieres revisarlas mejor.</p>
+        <div class="d-flex flex-wrap gap-2">
+          <span class="badge text-bg-secondary">Marcadas: ${doubts.length}</span>
+          <span class="badge text-bg-warning">Con fallos recurrentes: ${recurrentes.length}</span>
+          <span class="badge text-bg-primary">Solo duda tecnica: ${nuevas.length}</span>
+        </div>
+      </div>
+      <div class="test-config">
+        <div class="test-panel">
+          <label class="form-label fw-semibold" for="doubt-filter">Bloque a revisar</label>
+          <select class="form-select mb-3" id="doubt-filter">
+            <option value="mixed" ${currentDoubtFilter === 'mixed' ? 'selected' : ''}>Mixto priorizando conflictivas</option>
+            <option value="recurrent" ${currentDoubtFilter === 'recurrent' ? 'selected' : ''}>Solo dudosas con fallos recurrentes</option>
+            <option value="new" ${currentDoubtFilter === 'new' ? 'selected' : ''}>Solo dudosas nuevas</option>
+          </select>
+          <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
+          <select class="form-select" id="limit">${failLimitOptions.map((n) => `<option value="${n}" ${n === 0 ? 'selected' : ''}>${n === 0 ? 'Todas' : n}</option>`).join('')}</select>
+          <button id="start" class="btn btn-primary btn-lg w-100 mt-3" type="button">Empezar revision</button>
+        </div>
+      </div>`;
+
+    document.getElementById('start')?.addEventListener('click', () => {
+      currentDoubtFilter = document.getElementById('doubt-filter')?.value ?? 'mixed';
+      startTest(Number(document.getElementById('limit')?.value ?? '0'));
+    });
+  }
+
   if (mode === 'fails') {
     loadFailsView();
+  } else if (mode === 'doubts') {
+    loadDoubtsView();
   } else {
     loadNormalQuestions();
   }
