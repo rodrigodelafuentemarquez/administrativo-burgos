@@ -20,6 +20,59 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
     <p class="bd-subtitle mb-0">Temario oficial completo de la convocatoria, organizado por grupos y temas.</p>
   </div>
   <section class="bd-content ps-lg-2">
+    <section class="official-group" id="por-ejercicio">
+      <div class="official-group-heading">
+        <div>
+          <h2>Preparacion por ejercicio<a class="anchor-link" aria-label="Enlace a esta seccion" href="#por-ejercicio"></a></h2>
+          <p>La web ya esta separada por lo que de verdad necesitas entrenar: test, supuesto practico y desarrollo de temas.</p>
+        </div>
+      </div>
+      <div class="official-topic-list">
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">1º</div>
+            <div class="official-topic-body">
+              <div class="official-topic-meta">
+                <span class="badge text-bg-success">70 preguntas</span>
+                <span class="badge text-bg-dark">Penalizacion real</span>
+              </div>
+              <h3>Primer ejercicio</h3>
+              <p>Tests por tema, por mezcla, simulacro oficial y repaso inteligente.</p>
+              <a class="btn btn-sm btn-primary" href={`${base}test`}>Ir a tests</a>
+            </div>
+          </div>
+        </article>
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">2º</div>
+            <div class="official-topic-body">
+              <div class="official-topic-meta">
+                <span class="badge text-bg-primary">Grupos III, IV y V</span>
+                <span class="badge text-bg-dark">Supuestos</span>
+              </div>
+              <h3>Segundo ejercicio</h3>
+              <p>Checklist, textos legales y supuestos modelo inspirados en ejercicios reales.</p>
+              <a class="btn btn-sm btn-primary" href={`${base}practico`}>Ir al practico</a>
+            </div>
+          </div>
+        </article>
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">3º</div>
+            <div class="official-topic-body">
+              <div class="official-topic-meta">
+                <span class="badge text-bg-secondary">Indices</span>
+                <span class="badge text-bg-dark">Desarrollo</span>
+              </div>
+              <h3>Tercer ejercicio</h3>
+              <p>Esquemas e indices de los temas para memorizar estructura y orden de exposicion.</p>
+              <a class="btn btn-sm btn-primary" href={`${base}desarrollo`}>Ir a desarrollo</a>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
     {officialGroups.map((group) => (
       <section class="official-group" id={group.id}>
         <div class="official-group-heading">

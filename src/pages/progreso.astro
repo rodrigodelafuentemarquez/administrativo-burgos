@@ -5,16 +5,24 @@ import Layout from '../layouts/Layout.astro';
   <h1>Progreso</h1>
   <div class="card border-0 shadow-sm mb-4">
     <div class="card-body p-4">
-      <h2 class="h4 mb-2">Cómo leer esta página</h2>
-      <p class="text-body-secondary mb-2">El porcentaje principal muestra tu <strong>nivel actual</strong> por tema. Se calcula con tus intentos más recientes, así que los errores antiguos no te penalizan para siempre.</p>
-      <p class="text-body-secondary mb-2">Si hace un tiempo fallaste mucho un tema pero ahora encadenas varios tests perfectos, el tema puede volver a marcar <strong>100%</strong>. El histórico total sigue visible solo como referencia.</p>
-      <p class="text-body-secondary mb-0">La tendencia compara tus intentos recientes para indicar si vas mejorando, si estás estable o si conviene repasar ese bloque.</p>
+      <div class="d-flex flex-wrap align-items-start justify-content-between gap-3">
+        <div>
+          <h2 class="h4 mb-2">Vista rapida</h2>
+          <p class="text-body-secondary mb-0">Nivel actual por tema, historico acumulado y tendencia reciente. Ya no arrastras el progreso antiguo del temario anterior.</p>
+        </div>
+        <div class="d-flex flex-wrap gap-2">
+          <button class="btn btn-outline-secondary btn-sm" id="clear-fails" type="button">Vaciar fallos</button>
+          <button class="btn btn-outline-danger btn-sm" id="clear-progress" type="button">Reiniciar progreso</button>
+        </div>
+      </div>
     </div>
   </div>
+  <div id="progress-feedback" class="mb-3"></div>
   <section id="stats" class="test-question-list"></section>
 
   <script>
     const STATS_KEY = 'oposicion-stats-v3';
+    const FAILS_KEY = 'oposicion-fallos-v3';
     const RECENT_WINDOW = 5;
     const ATTEMPT_LIMIT = 12;
 
@@ -71,8 +79,7 @@ import Layout from '../layouts/Layout.astro';
     };
 
     const root = document.getElementById('stats');
-    const stats = readStats();
-    const temas = Object.entries(stats).sort((a,b) => Number(a[0]) - Number(b[0]));
+    const feedback = document.getElementById('progress-feedback');
 
     const formatDate = (value) => {
       if (!value) return 'Sin fecha';
@@ -134,21 +141,36 @@ import Layout from '../layouts/Layout.astro';
       return { label: 'Estable', cls: 'secondary' };
     };
 
-    if (!temas.length) {
-      root.innerHTML = `
+    const flash = (kind, message) => {
+      if (!feedback) return;
+      feedback.innerHTML = `<div class="alert alert-${kind} border-0 shadow-sm mb-0">${message}</div>`;
+      window.setTimeout(() => {
+        if (feedback.innerHTML.includes(message)) feedback.innerHTML = '';
+      }, 2400);
+    };
+
+    const render = () => {
+      const stats = readStats();
+      const temas = Object.entries(stats).sort((a,b) => Number(a[0]) - Number(b[0]));
+
+      if (!temas.length) {
+        root.innerHTML = `
         <article class="card border-0 shadow-sm">
           <div class="card-body p-4">
             <h2 class="h4 mb-2">Aún no hay progreso</h2>
-            <p class="text-body-secondary mb-0">Haz uno o varios tests y aquí verás tu nivel actual por tema, tu tendencia reciente y tu histórico acumulado.</p>
+            <p class="text-body-secondary mb-0">Haz uno o varios tests y aquí aparecerán tus temas trabajados, tu nivel actual y el histórico acumulado.</p>
           </div>
         </article>`;
-    } else {
+        return;
+      }
+
       const totalCurrentQuestions = temas.reduce((sum, [, v]) => sum + getCurrentQuestions(v), 0);
       const totalCurrentScore = temas.reduce((sum, [, v]) => sum + (getCurrentPct(v) * getCurrentQuestions(v)), 0);
       const totalHistoricalQuestions = temas.reduce((sum, [, v]) => sum + v.total, 0);
       const totalHistoricalCorrect = temas.reduce((sum, [, v]) => sum + v.correctas, 0);
       const totalCurrentPct = totalCurrentQuestions ? Math.round(totalCurrentScore / totalCurrentQuestions) : 0;
       const totalHistoricalPct = totalHistoricalQuestions ? Math.round((totalHistoricalCorrect / totalHistoricalQuestions) * 100) : 0;
+      const weakTopics = temas.filter(([, v]) => getCurrentPct(v) < 50).length;
 
       const summary = `
         <article class='result-summary card border-0 shadow-sm'>
@@ -157,8 +179,9 @@ import Layout from '../layouts/Layout.astro';
             <div class='d-lg-flex align-items-center justify-content-between gap-4'>
               <div>
                 <h2 class='display-6 mb-2'>Nivel actual: ${totalCurrentPct}%</h2>
-                <p class='text-body-secondary mb-2'>Calculado con los intentos más recientes de cada tema.</p>
-                <p class='text-body-secondary mb-lg-0'>Histórico acumulado: ${totalHistoricalCorrect}/${totalHistoricalQuestions} correctas (${totalHistoricalPct}%) en ${temas.length} temas con actividad.</p>
+                <p class='text-body-secondary mb-2'>Calculado con los intentos mas recientes de cada tema.</p>
+                <p class='text-body-secondary mb-1'>Historico acumulado: ${totalHistoricalCorrect}/${totalHistoricalQuestions} correctas (${totalHistoricalPct}%).</p>
+                <p class='text-body-secondary mb-lg-0'>Temas con actividad: ${temas.length}. Temas flojos ahora mismo: ${weakTopics}.</p>
               </div>
               <div class='score-ring' style='--score:${totalCurrentPct}%'>${totalCurrentPct}%</div>
             </div>
@@ -200,6 +223,21 @@ import Layout from '../layouts/Layout.astro';
       }).join('');
 
       root.innerHTML = summary + cards;
-    }
+    };
+
+    document.getElementById('clear-progress')?.addEventListener('click', () => {
+      if (!window.confirm('Se borrara todo el progreso guardado de este temario.')) return;
+      localStorage.removeItem(STATS_KEY);
+      render();
+      flash('warning', 'Progreso reiniciado.');
+    });
+
+    document.getElementById('clear-fails')?.addEventListener('click', () => {
+      if (!window.confirm('Se borraran todas las preguntas guardadas en fallos.')) return;
+      localStorage.removeItem(FAILS_KEY);
+      flash('secondary', 'Fallos vaciados.');
+    });
+
+    render();
   </script>
 </Layout>

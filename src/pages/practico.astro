@@ -1,0 +1,192 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { officialTopics } from '../data/burgosSyllabus';
+import { practicalCases, practicalChecklist, practicalLegalTexts } from '../data/practicalCases';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const practicalTopics = officialTopics.filter((topic) => topic.ejercicios.includes('practico'));
+const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
+---
+
+<Layout title="Segundo ejercicio">
+  <div class="bd-intro ps-lg-2">
+    <h1 class="bd-title">Segundo ejercicio</h1>
+    <p class="bd-subtitle mb-0">Supuestos practicos, checklist de resolucion, textos legales y bloques criticos para entrenar el ejercicio escrito.</p>
+  </div>
+
+  <section class="bd-content ps-lg-2">
+    <section class="official-group">
+      <div class="official-group-heading">
+        <div>
+          <h2>Como es el ejercicio<a class="anchor-link" aria-label="Enlace a esta seccion" href="#como-es-el-ejercicio"></a></h2>
+          <p>Bloque practico centrado en grupos III, IV y V. Lo importante no es solo saber la teoria, sino aplicarla con orden, fundamento juridico y una conclusion clara.</p>
+        </div>
+        <span class="badge text-bg-primary">Hasta 4 horas</span>
+      </div>
+      <div class="official-topic-list">
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">1</div>
+            <div class="official-topic-body">
+              <h3>Que suele valorar el tribunal</h3>
+              <ul class="mb-0">
+                <li>Correccion de la solucion propuesta.</li>
+                <li>Aplicacion, interpretacion y argumentacion juridica.</li>
+                <li>Capacidad de juicio, analisis y sintesis.</li>
+                <li>Claridad, sencillez y fluidez en la redaccion.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">2</div>
+            <div class="official-topic-body">
+              <h3>Material que conviene llevar</h3>
+              <p class="mb-0">Textos normativos limpios, sin comentarios. Merece la pena entrenar ya con leyes subrayadas de forma util, pero no anotadas como manual.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    <section class="official-group" id="checklist-resolucion">
+      <div class="official-group-heading">
+        <div>
+          <h2>Checklist de resolucion<a class="anchor-link" aria-label="Enlace a esta seccion" href="#checklist-resolucion"></a></h2>
+          <p>Guion corto para no perderse cuando el caso mezcle procedimiento, personal, presupuesto, registro o transparencia.</p>
+        </div>
+      </div>
+      <div class="official-topic-list">
+        {practicalChecklist.map((item, index) => (
+          <article class="official-topic">
+            <div class="official-topic-main">
+              <div class="official-topic-number">{index + 1}</div>
+              <div class="official-topic-body">
+                <p class="mb-0">{item}</p>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="textos-legales">
+      <div class="official-group-heading">
+        <div>
+          <h2>Textos legales utiles<a class="anchor-link" aria-label="Enlace a esta seccion" href="#textos-legales"></a></h2>
+          <p>Base minima para entrenar supuestos. No hace falta llevarlo todo siempre, pero este bloque es el nucleo.</p>
+        </div>
+      </div>
+      <div class="official-topic-list">
+        {practicalLegalTexts.map((item, index) => (
+          <article class="official-topic">
+            <div class="official-topic-main">
+              <div class="official-topic-number">{index + 1}</div>
+              <div class="official-topic-body">
+                <p class="mb-0">{item}</p>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="supuestos-modelo">
+      <div class="official-group-heading">
+        <div>
+          <h2>Supuestos modelo<a class="anchor-link" aria-label="Enlace a esta seccion" href="#supuestos-modelo"></a></h2>
+          <p>Casos de entrenamiento inspirados en ejercicios reales o construidos con el tipo de mezcla que mas castiga en oposicion administrativa.</p>
+        </div>
+        <span class="badge text-bg-secondary">{practicalCases.length} supuestos</span>
+      </div>
+      <div class="official-topic-list">
+        {practicalCases.map((practicalCase, index) => (
+          <article class="official-topic" id={practicalCase.id}>
+            <div class="official-topic-main">
+              <div class="official-topic-number">{index + 1}</div>
+              <div class="official-topic-body">
+                <div class="official-topic-meta">
+                  <span class="badge text-bg-dark">{practicalCase.duration}</span>
+                  <span class="badge text-bg-primary">{practicalCase.source}</span>
+                </div>
+                <h3>{practicalCase.title}</h3>
+                <p>{practicalCase.scenario}</p>
+                <p class="text-body-secondary small mb-2">Temas a mezclar: {practicalCase.focus.join(' · ')}</p>
+
+                <div class="row g-3">
+                  <div class="col-lg-6">
+                    <div class="card border-0 bg-body-tertiary h-100">
+                      <div class="card-body">
+                        <h4 class="h6 mb-3">Que te preguntaria el tribunal</h4>
+                        <ul class="mb-0">
+                          {practicalCase.tasks.map((task) => <li>{task}</li>)}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="card border-0 bg-body-tertiary h-100">
+                      <div class="card-body">
+                        <h4 class="h6 mb-3">Como resolverlo</h4>
+                        <ol class="mb-0">
+                          {practicalCase.resolutionSteps.map((step) => <li>{step}</li>)}
+                        </ol>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="card border-0 bg-body-tertiary h-100">
+                      <div class="card-body">
+                        <h4 class="h6 mb-3">Textos que usarias</h4>
+                        <ul class="mb-0">
+                          {practicalCase.legalTexts.map((text) => <li>{text}</li>)}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-lg-6">
+                    <div class="card border-0 bg-body-tertiary h-100">
+                      <div class="card-body">
+                        <h4 class="h6 mb-3">Errores tipicos</h4>
+                        <ul class="mb-0">
+                          {practicalCase.commonMistakes.map((mistake) => <li>{mistake}</li>)}
+                        </ul>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="bloques-criticos-practico">
+      <div class="official-group-heading">
+        <div>
+          <h2>Temas criticos del practico<a class="anchor-link" aria-label="Enlace a esta seccion" href="#bloques-criticos-practico"></a></h2>
+          <p>Son los temas que entran de lleno en el segundo ejercicio. Conviene cruzarlos entre si en vez de estudiarlos aislados.</p>
+        </div>
+      </div>
+      <div class="official-topic-list">
+        {practicalTopics.map((topic) => (
+          <article class="official-topic">
+            <div class="official-topic-main">
+              <div class="official-topic-number">{topic.grupo}.{topic.numero}</div>
+              <div class="official-topic-body">
+                <div class="official-topic-meta">
+                  <span class="badge text-bg-primary">Practico</span>
+                  <span class="badge text-bg-dark">{topic.prioridad === 'critica' ? 'Muy repetible' : 'Apoyo'}</span>
+                </div>
+                <h3>{topic.titulo}</h3>
+                <a class="btn btn-sm btn-primary" href={`${base}programa/${topicSlug(topic.grupo, topic.numero)}`}>Abrir tema</a>
+              </div>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+  </section>
+</Layout>

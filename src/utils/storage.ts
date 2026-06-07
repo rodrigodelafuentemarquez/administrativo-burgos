@@ -180,3 +180,13 @@ export function removeFailIds(ids: string[]): void {
   const next = readFails().filter((q) => !idSet.has(q.id));
   saveFails(next);
 }
+
+export function clearStats(): void {
+  if (typeof localStorage === 'undefined') return;
+  localStorage.removeItem(STATS_KEY);
+}
+
+export function clearFails(): void {
+  if (typeof localStorage === 'undefined') return;
+  localStorage.removeItem(FAILS_KEY);
+}

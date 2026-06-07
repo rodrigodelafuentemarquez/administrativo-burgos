@@ -1,0 +1,145 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import { officialGroups } from '../data/burgosSyllabus';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const programEntries = await getCollection('programa');
+const byId = new Map(programEntries.map((entry) => [entry.id.replace(/\.md$/, ''), entry]));
+
+const cleanHeading = (text: string) =>
+  text
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')
+    .replace(/[*_`>#]/g, '')
+    .replace(/<[^>]+>/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
+
+const extractOutline = (body: string) =>
+  body
+    .split('\n')
+    .filter((line) => /^##{1,3}\s+/.test(line))
+    .map((line) => ({
+      depth: (line.match(/^#+/)?.[0].length ?? 2) - 1,
+      text: cleanHeading(line.replace(/^##{1,3}\s+/, '')),
+    }))
+    .filter((item) => item.text.length > 0)
+    .slice(0, 12);
+
+const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
+
+const developmentBlocks = [
+  {
+    id: 'bloque-i-ii',
+    title: 'Bloque I-II',
+    subtitle: 'En el examen se extraen 2 temas de los grupos I y II, descartas 1 y desarrollas 1.',
+    groups: officialGroups.filter((group) => ['grupo-i', 'grupo-ii'].includes(group.id)),
+  },
+  {
+    id: 'bloque-iii-v',
+    title: 'Bloque III-V',
+    subtitle: 'En el examen se extraen 2 temas de los grupos III, IV y V, descartas 1 y desarrollas 1.',
+    groups: officialGroups.filter((group) => ['grupo-iii', 'grupo-iv', 'grupo-v'].includes(group.id)),
+  },
+];
+---
+
+<Layout title="Tercer ejercicio">
+  <div class="bd-intro ps-lg-2">
+    <h1 class="bd-title">Tercer ejercicio</h1>
+    <p class="bd-subtitle mb-0">Indices y esquemas de lectura rapida para memorizar la estructura de cada tema antes del desarrollo escrito.</p>
+  </div>
+
+  <section class="bd-content ps-lg-2">
+    <section class="official-group" id="como-se-prepara">
+      <div class="official-group-heading">
+        <div>
+          <h2>Como usar esta seccion<a class="anchor-link" aria-label="Enlace a esta seccion" href="#como-se-prepara"></a></h2>
+          <p>No sustituye al tema completo: sirve para fijar orden, bloques y puntos de apoyo antes de escribir. La idea es leer estos indices muchas veces para que la estructura salga sola.</p>
+        </div>
+        <span class="badge text-bg-secondary">2 temas en 2 horas</span>
+      </div>
+      <div class="official-topic-list">
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">1</div>
+            <div class="official-topic-body">
+              <h3>Plantilla mental util</h3>
+              <ul class="mb-0">
+                <li>Introduccion corta y encaje normativo.</li>
+                <li>Desarrollo ordenado por apartados.</li>
+                <li>Conceptos clave, organos, plazos y efectos.</li>
+                <li>Cierre breve con idea final del tema.</li>
+              </ul>
+            </div>
+          </div>
+        </article>
+        <article class="official-topic">
+          <div class="official-topic-main">
+            <div class="official-topic-number">2</div>
+            <div class="official-topic-body">
+              <h3>Que mirar en cada indice</h3>
+              <p class="mb-0">Fijate en el orden de los epigrafes. Si recuerdas esa secuencia, luego es mucho mas facil soltar contenido sin desordenarte.</p>
+            </div>
+          </div>
+        </article>
+      </div>
+    </section>
+
+    {developmentBlocks.map((block) => (
+      <section class="official-group" id={block.id}>
+        <div class="official-group-heading">
+          <div>
+            <h2>{block.title}<a class="anchor-link" aria-label="Enlace a esta seccion" href={`#${block.id}`}></a></h2>
+            <p>{block.subtitle}</p>
+          </div>
+        </div>
+
+        {block.groups.map((group) => (
+          <>
+            <div class="official-group-heading mt-4">
+              <div>
+                <h3 class="h4 mb-1">{group.titulo}</h3>
+                <p class="mb-0">{group.descripcion}</p>
+              </div>
+              <span class="badge text-bg-dark">{group.topics.length} temas</span>
+            </div>
+
+            <div class="official-topic-list">
+              {group.topics.map((topic) => {
+                const slug = topicSlug(topic.grupo, topic.numero);
+                const entry = byId.get(slug);
+                const outline = entry ? extractOutline(entry.body) : [];
+
+                return (
+                  <article class="official-topic">
+                    <div class="official-topic-main">
+                      <div class="official-topic-number">{topic.grupo}.{topic.numero}</div>
+                      <div class="official-topic-body">
+                        <div class="official-topic-meta">
+                          <span class="badge text-bg-primary">Desarrollo</span>
+                          <span class="badge text-bg-secondary">{outline.length ? `${outline.length} epigrafes` : 'Sin indice'}</span>
+                        </div>
+                        <h3>{topic.titulo}</h3>
+                        {outline.length ? (
+                          <ol class="mb-3">
+                            {outline.map((item) => (
+                              <li class={item.depth > 2 ? 'ms-3' : ''}>{item.text}</li>
+                            ))}
+                          </ol>
+                        ) : (
+                          <p class="text-body-secondary">Todavia no hay indice extraido para este tema.</p>
+                        )}
+                        <a class="btn btn-sm btn-primary" href={`${base}programa/${slug}`}>Abrir tema completo</a>
+                      </div>
+                    </div>
+                  </article>
+                );
+              })}
+            </div>
+          </>
+        ))}
+      </section>
+    ))}
+  </section>
+</Layout>
