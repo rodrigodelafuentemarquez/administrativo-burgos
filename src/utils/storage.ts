@@ -27,8 +27,8 @@ export type FailedQuestion = {
   lastFailedAt: number;
 };
 
-const STATS_KEY = 'oposicion-stats-v1';
-const FAILS_KEY = 'oposicion-fallos-v1';
+const STATS_KEY = 'oposicion-stats-v2';
+const FAILS_KEY = 'oposicion-fallos-v2';
 const RECENT_LIMIT = 8;
 const ATTEMPT_LIMIT = 12;
 

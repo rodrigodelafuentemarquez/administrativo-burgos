@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t10-p001",
+    "tema": 10,
+    "pregunta": "Según el art. 141 CE, la provincia tiene una doble naturaleza como:",
+    "opciones": [
+      "Entidad local con personalidad jurídica propia y división territorial para el cumplimiento de las actividades del Estado",
+      "Entidad mercantil con personalidad jurídica privada",
+      "Territorio autónomo con potestad legislativa",
+      "Órgano consultivo de la Comunidad Autónoma"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce la definición constitucional de la provincia como entidad local y división territorial del Estado.",
+    "referencia": "Tema 10, 1.1 La provincia en la Constitución (art. 141 CE)"
+  },
+  {
+    "id": "t10-p002",
+    "tema": 10,
+    "pregunta": "Según el art. 141.1 CE, ¿qué se exige para alterar los límites provinciales?",
+    "opciones": [
+      "Ley ordinaria",
+      "Ley Orgánica",
+      "Reglamento autonómico",
+      "Acuerdo de la Diputación Provincial"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que cualquier alteración de los límites provinciales requiere aprobación mediante Ley Orgánica.",
+    "referencia": "Tema 10, 1.2 Garantía constitucional de la provincia"
+  },
+  {
+    "id": "t10-p003",
+    "tema": 10,
+    "pregunta": "¿Cuántas provincias tiene España?",
+    "opciones": [
+      "47",
+      "48",
+      "50",
+      "52"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema señala que España tiene 50 provincias desde la división territorial de Javier de Burgos.",
+    "referencia": "Tema 10, 1.3 El número de provincias"
+  },
+  {
+    "id": "t10-p004",
+    "tema": 10,
+    "pregunta": "Según el art. 141.2 CE, el gobierno y la administración autónoma de las provincias corresponde a:",
+    "opciones": [
+      "los Ayuntamientos",
+      "las Diputaciones Provinciales u otras Corporaciones de carácter representativo",
+      "el Tribunal Superior de Justicia",
+      "las Cortes Generales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema remite al art. 141.2 CE, que atribuye el gobierno y la administración autónoma de las provincias a las Diputaciones Provinciales u otras corporaciones representativas.",
+    "referencia": "Tema 10, 1.4 La Diputación Provincial como órgano de gobierno (art. 141.2 CE)"
+  },
+  {
+    "id": "t10-p005",
+    "tema": 10,
+    "pregunta": "¿Qué órgano no aparece entre los órganos básicos necesarios de una Diputación Provincial?",
+    "opciones": [
+      "El Presidente",
+      "Los Vicepresidentes",
+      "La Junta de Gobierno",
+      "La Junta de Portavoces"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema enumera como órganos necesarios el Presidente, los Vicepresidentes, la Junta de Gobierno y el Pleno.",
+    "referencia": "Tema 10, 2.1 Órganos básicos necesarios (art. 32 LBRL)"
+  },
+  {
+    "id": "t10-p006",
+    "tema": 10,
+    "pregunta": "Según los arts. 32 y 33 LBRL, cuando la provincia tiene hasta 500.000 habitantes, ¿cuántos Diputados Provinciales corresponden?",
+    "opciones": [
+      "21",
+      "25",
+      "27",
+      "31"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija 25 Diputados para provincias de hasta 500.000 habitantes.",
+    "referencia": "Tema 10, 2.2 El Pleno (arts. 32 y 33 LBRL)"
+  },
+  {
+    "id": "t10-p007",
+    "tema": 10,
+    "pregunta": "¿Cómo se eligen los Diputados Provinciales?",
+    "opciones": [
+      "Por sufragio directo de todos los ciudadanos",
+      "De forma indirecta entre los concejales de los municipios de la provincia",
+      "Por designación del Presidente de la Diputación",
+      "Por sorteo entre los vecinos inscritos en el padrón"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que los Diputados Provinciales se eligen de forma indirecta entre los concejales de los municipios de la provincia.",
+    "referencia": "Tema 10, 2.2 b) Elección de los Diputados Provinciales"
+  },
+  {
+    "id": "t10-p008",
+    "tema": 10,
+    "pregunta": "¿Con qué periodicidad debe reunirse el Pleno de la Diputación, en las Diputaciones de más de 20.000 habitantes?",
+    "opciones": [
+      "Como mínimo una vez al mes",
+      "Como mínimo cada dos meses",
+      "Como mínimo cada tres meses",
+      "Solo cuando lo solicite el Presidente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema establece que en las Diputaciones de más de 20.000 habitantes el Pleno se reúne al menos una vez al mes.",
+    "referencia": "Tema 10, 2.2 d) Funcionamiento del Pleno"
+  },
+  {
+    "id": "t10-p009",
+    "tema": 10,
+    "pregunta": "¿Qué mayoría se exige en primera votación para elegir al Presidente de la Diputación?",
+    "opciones": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Mayoría de tres quintos",
+      "Mayoría de dos tercios"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que el Presidente de la Diputación se elige por mayoría absoluta en primera votación.",
+    "referencia": "Tema 10, 2.3 El Presidente de la Diputación"
+  },
+  {
+    "id": "t10-p010",
+    "tema": 10,
+    "pregunta": "Según los arts. 36 y 37 LBRL, una competencia propia de la Diputación Provincial es:",
+    "opciones": [
+      "ejercer la potestad legislativa provincial",
+      "asistir y cooperar jurídica, económica y técnicamente a los municipios",
+      "sustituir a los Ayuntamientos en todas sus funciones",
+      "aprobar leyes autonómicas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema identifica la asistencia y cooperación a los municipios como una competencia nuclear de la Diputación.",
+    "referencia": "Tema 10, 3.1 Las competencias provinciales en la LBRL (arts. 36 y 37 LBRL)"
+  },
+  {
+    "id": "t10-p011",
+    "tema": 10,
+    "pregunta": "¿Qué exige la garantía constitucional de la provincia respecto a su supresión?",
+    "opciones": [
+      "Puede suprimirse por ley ordinaria",
+      "No puede ser suprimida por el legislador ordinario",
+      "Solo puede suprimirla una diputación",
+      "Puede suprimirse por reglamento autonómico"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que la institución provincial no puede ser suprimida por el legislador ordinario.",
+    "referencia": "Tema 10, 1.2 Garantía constitucional de la provincia"
+  },
+  {
+    "id": "t10-p012",
+    "tema": 10,
+    "pregunta": "¿Qué órgano básico necesario de la Diputación Provincial no aparece listado?",
+    "opciones": [
+      "La Junta de Gobierno",
+      "El Pleno",
+      "La Comisión Especial de Cuentas",
+      "El Comité de Empresa"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema enumera los órganos básicos necesarios y no incluye ningún Comité de Empresa entre ellos.",
+    "referencia": "Tema 10, 2.1 Órganos básicos necesarios (art. 32 LBRL)"
+  },
+  {
+    "id": "t10-p013",
+    "tema": 10,
+    "pregunta": "Según los arts. 32 y 33 LBRL, en provincias de 1.000.001 a 3.500.000 habitantes corresponden:",
+    "opciones": [
+      "25 diputados",
+      "27 diputados",
+      "31 diputados",
+      "51 diputados"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema fija 31 diputados para ese tramo de población.",
+    "referencia": "Tema 10, 2.2 El Pleno (arts. 32 y 33 LBRL)"
+  },
+  {
+    "id": "t10-p014",
+    "tema": 10,
+    "pregunta": "Según el Tema 10, ¿qué quórum de asistencia se exige para la válida constitución del Pleno de la Diputación?",
+    "opciones": [
+      "La mitad más uno de sus miembros",
+      "Un tercio del número legal de miembros y nunca menos de tres",
+      "Dos tercios del número legal de miembros",
+      "La asistencia del Presidente y del Secretario"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema exige un tercio del número legal de miembros y nunca menos de tres.",
+    "referencia": "Tema 10, 2.2 d) Funcionamiento del Pleno"
+  },
+  {
+    "id": "t10-p015",
+    "tema": 10,
+    "pregunta": "Según los arts. 36 y 37 LBRL, ¿cuál de las siguientes es una competencia propia de la Diputación?",
+    "opciones": [
+      "Dictar leyes provinciales",
+      "Aprobar el Presupuesto General del Estado",
+      "Cooperar en el fomento del desarrollo económico y social y asistir a los municipios",
+      "Nombrar al Presidente del Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema destaca la cooperación en el desarrollo económico y social y la asistencia a los municipios como competencias provinciales.",
+    "referencia": "Tema 10, 3.1 Las competencias provinciales en la LBRL (arts. 36 y 37 LBRL)"
+  }
+]

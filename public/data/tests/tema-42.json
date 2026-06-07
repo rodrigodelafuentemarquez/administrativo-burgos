@@ -1,282 +1,282 @@
 [
   {
-    "id": "t42-p001",
+    "id": "t39-p012",
     "tema": 42,
-    "pregunta": "La LCSP transpone principalmente las Directivas:",
+    "pregunta": "Outlook 365 es:",
     "opciones": [
-      "2014/24/UE y 2014/25/UE",
-      "2006/123/CE y 2009/72/CE",
-      "2016/679/UE y 2017/2455/UE",
-      "98/83/CE y 2000/60/CE"
+      "el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365",
+      "una hoja de cálculo",
+      "un sistema de archivos",
+      "un gestor de bases de datos"
     ],
     "correcta": 0,
-    "explicacion": "El tema cita esas dos directivas como base europea.",
-    "referencia": "Tema 42, 1.2 La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
+    "explicacion": "El tema lo presenta así.",
+    "referencia": "V.11 · 8.1 Qué es Outlook 365"
   },
   {
-    "id": "t42-p002",
+    "id": "t39-p013",
     "tema": 42,
-    "pregunta": "Uno de los principios de la contratación pública es:",
+    "pregunta": "La Bandeja de entrada contiene:",
     "opciones": [
-      "la transparencia",
-      "la libre designación",
-      "la inembargabilidad",
-      "la prioridad sindical"
+      "mensajes recibidos",
+      "mensajes eliminados",
+      "borradores",
+      "archivos exportados"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la transparencia entre los principios del objeto de la LCSP.",
-    "referencia": "Tema 42, 1.3 Objeto de la LCSP"
+    "explicacion": "El tema la define como carpeta de mensajes recibidos.",
+    "referencia": "V.11 · 8.3 Las carpetas de correo"
   },
   {
-    "id": "t42-p003",
+    "id": "t39-p014",
     "tema": 42,
-    "pregunta": "La LCSP se aplica en su régimen pleno a las:",
+    "pregunta": "La CCO sirve para:",
     "opciones": [
-      "Administraciones Públicas",
-      "sociedades mercantiles privadas sin participación pública",
-      "particulares",
-      "asociaciones vecinales"
+      "enviar copias ocultas, protegiendo la privacidad de las direcciones de los destinatarios",
+      "anunciar el asunto del correo a todos",
+      "cifrar automáticamente todos los adjuntos",
+      "borrar el mensaje original"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue el régimen pleno para las Administraciones Públicas.",
-    "referencia": "Tema 42, 2.1 El concepto de «sector público» a efectos de contratación"
+    "explicacion": "El tema destaca su utilidad en la Administración.",
+    "referencia": "V.11 · 9.2 Importancia de la CCO en la Administración"
   },
   {
-    "id": "t42-p004",
+    "id": "t39-p015",
     "tema": 42,
-    "pregunta": "Los contratos de trabajo están:",
+    "pregunta": "Una regla de mensaje en Outlook es:",
     "opciones": [
-      "excluidos del ámbito de la LCSP",
-      "sujetos a licitación pública ordinaria",
-      "regulados como contratos de concesión",
-      "limitados a la Administración local"
+      "una instrucción automática aplicada a mensajes entrantes o salientes cuando se cumplen ciertas condiciones",
+      "una carpeta de correo",
+      "un tipo de firma electrónica",
+      "un formato de archivo"
     ],
     "correcta": 0,
-    "explicacion": "El tema los incluye entre los contratos excluidos.",
-    "referencia": "Tema 42, 2.2 Contratos excluidos"
+    "explicacion": "El tema la define como automatización de correo.",
+    "referencia": "V.11 · 10.1 Concepto"
   },
   {
-    "id": "t42-p005",
+    "id": "t40-p001",
     "tema": 42,
-    "pregunta": "El contrato de obras tiene por objeto:",
+    "pregunta": "Internet tiene su origen en:",
     "opciones": [
-      "la ejecución de trabajos de construcción o ingeniería civil",
-      "la adquisición de bienes muebles",
-      "la gestión de un servicio con riesgo operacional",
-      "la intermediación financiera"
+      "ARPANET",
+      "DNS",
+      "HTTP",
+      "Wi-Fi"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así el contrato de obras.",
-    "referencia": "Tema 42, 3.1 Contratos típicos del sector público"
+    "explicacion": "El tema sitúa el origen en ARPANET.",
+    "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)"
   },
   {
-    "id": "t42-p006",
+    "id": "t40-p002",
     "tema": 42,
-    "pregunta": "El contrato de concesión de servicios implica que el contratista:",
+    "pregunta": "La primera conexión de ARPANET se estableció el:",
     "opciones": [
-      "gestiona un servicio asumiendo el riesgo operacional",
-      "compra bienes muebles",
-      "redacta reglamentos",
-      "aprueba el presupuesto"
+      "29 de octubre de 1969",
+      "1 de enero de 1991",
+      "15 de mayo de 1983",
+      "4 de julio de 2007"
     ],
     "correcta": 0,
-    "explicacion": "El tema resalta el riesgo operacional.",
-    "referencia": "Tema 42, 3.1 Contratos típicos del sector público"
+    "explicacion": "El tema da esa fecha concreta.",
+    "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)"
   },
   {
-    "id": "t42-p007",
+    "id": "t40-p003",
     "tema": 42,
-    "pregunta": "El contrato menor no es:",
+    "pregunta": "TCP/IP se adoptó como estándar de ARPANET en:",
     "opciones": [
-      "un tipo contractual autónomo",
-      "una tramitación simplificada",
-      "una modalidad de adjudicación simplificada",
-      "un contrato de escasa cuantía"
+      "1983",
+      "1969",
+      "1991",
+      "2004"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo niega como tipo autónomo.",
-    "referencia": "Tema 42, 3.3 El contrato menor"
+    "explicacion": "El tema fija 1983.",
+    "referencia": "V.11 · 1.2 Los protocolos TCP/IP (1974-1983)"
   },
   {
-    "id": "t42-p008",
+    "id": "t40-p004",
     "tema": 42,
-    "pregunta": "La UTE es:",
+    "pregunta": "La World Wide Web fue ideada por:",
     "opciones": [
-      "la forma de concurrir conjuntamente varias empresas en un contrato",
-      "una mesa de contratación",
-      "un órgano de control externo",
-      "un expediente de modificación"
+      "Tim Berners-Lee",
+      "Vinton Cerf",
+      "Robert Kahn",
+      "Mosaic"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como agrupación temporal de empresas.",
-    "referencia": "Tema 42, 4.4 La Unión Temporal de Empresas (UTE)"
+    "explicacion": "El tema atribuye la WWW a Berners-Lee.",
+    "referencia": "V.11 · 1.3 La World Wide Web y la expansión civil (1991)"
   },
   {
-    "id": "t42-p009",
+    "id": "t40-p005",
     "tema": 42,
-    "pregunta": "El ROLECE sirve para:",
+    "pregunta": "El protocolo que define cómo se comunican navegador y servidor es:",
     "opciones": [
-      "acreditar capacidad, solvencia y clasificación de empresas",
-      "adjudicar contratos directamente",
-      "publicar las facturas",
-      "resolver recursos"
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "UDP"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como registro de licitadores.",
-    "referencia": "Tema 42, 4.5 El Registro Oficial de Licitadores y Empresas Clasificadas (ROLECE)"
+    "explicacion": "El tema lo identifica como protocolo de hipertexto.",
+    "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS"
   },
   {
-    "id": "t42-p010",
+    "id": "t40-p006",
     "tema": 42,
-    "pregunta": "El expediente de contratación incluye:",
+    "pregunta": "DNS traduce:",
     "opciones": [
-      "memoria justificativa, PCAP, PPTP y certificado de crédito",
-      "solo la propuesta de resolución",
-      "únicamente el contrato firmado",
-      "solo el anuncio de licitación"
+      "nombres de dominio en direcciones IP",
+      "ficheros en carpetas",
+      "códigos en tablas",
+      "correos en contactos"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos documentos básicos.",
-    "referencia": "Tema 42, 5.2 El expediente de contratación"
+    "explicacion": "El tema lo define como sistema de nombres de dominio.",
+    "referencia": "V.11 · 2.3 El Sistema de Nombres de Dominio (DNS)"
   },
   {
-    "id": "t42-p011",
+    "id": "t40-p007",
     "tema": 42,
-    "pregunta": "El presupuesto base de licitación es:",
+    "pregunta": "IPv4 es una dirección de:",
     "opciones": [
-      "el límite máximo de gasto que puede comprometer el órgano de contratación, incluidos impuestos",
-      "el importe neto tras la adjudicación",
-      "la cantidad pagada por el contratista",
-      "el saldo de tesorería"
+      "32 bits",
+      "128 bits",
+      "16 bits",
+      "64 bits"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como límite máximo.",
-    "referencia": "Tema 42, 5.3 El presupuesto base de licitación (PBL)"
+    "explicacion": "El tema precisa esa longitud.",
+    "referencia": "V.11 · 2.2 El protocolo TCP/IP"
   },
   {
-    "id": "t42-p012",
+    "id": "t40-p008",
     "tema": 42,
-    "pregunta": "El valor estimado del contrato se calcula:",
+    "pregunta": "HTTPS añade a HTTP:",
     "opciones": [
-      "excluyendo el IVA e incluyendo posibles prórrogas y modificaciones previstas",
-      "incluyendo solo el IVA",
-      "sin prórrogas ni modificaciones",
-      "solo con la oferta más baja"
+      "cifrado SSL/TLS",
+      "una hoja de cálculo",
+      "un archivo adjunto",
+      "un formato de compresión"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define como versión segura con cifrado.",
+    "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS"
+  },
+  {
+    "id": "t40-p009",
+    "tema": 42,
+    "pregunta": "IMAP permite:",
+    "opciones": [
+      "acceder a los correos manteniéndolos en el servidor y sincronizando varios dispositivos",
+      "descargar y borrar por defecto los mensajes del servidor",
+      "solo enviar correos",
+      "firmar documentos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo destaca como acceso sincronizado.",
+    "referencia": "V.11 · 2.5.1 Correo electrónico"
+  },
+  {
+    "id": "t40-p010",
+    "tema": 42,
+    "pregunta": "Una VPN es:",
+    "opciones": [
+      "una conexión cifrada que crea un túnel seguro a través de internet",
+      "un tipo de navegador",
+      "una dirección de correo",
+      "un protocolo de impresión"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como red privada virtual.",
+    "referencia": "V.11 · 2.5.3 VPN"
+  },
+  {
+    "id": "t40-p011",
+    "tema": 42,
+    "pregunta": "Una URL es:",
+    "opciones": [
+      "la dirección completa que identifica un recurso en internet",
+      "un archivo comprimido",
+      "un protocolo de correo",
+      "una cookie persistente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define así.",
+    "referencia": "V.11 · 2.5.5 La dirección URL"
+  },
+  {
+    "id": "t40-p012",
+    "tema": 42,
+    "pregunta": "SaaS significa:",
+    "opciones": [
+      "software accesible desde el navegador sin instalación local",
+      "infraestructura física virtualizada",
+      "plataforma para desarrollar aplicaciones",
+      "sistema de archivos seguro"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema presenta SaaS como software en la nube.",
+    "referencia": "V.11 · 2.6 La Nube (Cloud Computing)"
+  },
+  {
+    "id": "t40-p013",
+    "tema": 42,
+    "pregunta": "Un navegador web es el programa que permite:",
+    "opciones": [
+      "acceder, visualizar e interactuar con los recursos de la World Wide Web",
+      "crear bases de datos",
+      "firmar electrónicamente documentos",
+      "compilar código fuente"
     ],
     "correcta": 0,
     "explicacion": "El tema lo define así.",
-    "referencia": "Tema 42, 5.4 El valor estimado del contrato (VEC)"
+    "referencia": "V.11 · 3.1 Qué es un navegador web"
   },
   {
-    "id": "t42-p013",
+    "id": "t40-p014",
     "tema": 42,
-    "pregunta": "El procedimiento abierto es:",
+    "pregunta": "En los navegadores actuales la barra de favoritos sirve para:",
     "opciones": [
-      "el procedimiento ordinario y general",
-      "un procedimiento reservado sin publicidad",
-      "una adjudicación directa",
-      "un concurso de traslado"
+      "guardar URLs para acceder rápidamente en el futuro",
+      "eliminar cookies automáticamente",
+      "cifrar el tráfico",
+      "crear cuentas de correo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo llama ordinario y general.",
-    "referencia": "Tema 42, 6.2 El procedimiento abierto"
+    "explicacion": "El tema lo incluye entre las funciones básicas.",
+    "referencia": "V.11 · 3.4.3 Favoritos / Marcadores"
   },
   {
-    "id": "t42-p014",
+    "id": "t40-p015",
     "tema": 42,
-    "pregunta": "En el procedimiento negociado el órgano de contratación:",
+    "pregunta": "La navegación privada:",
     "opciones": [
-      "negocia las condiciones con las empresas invitadas",
-      "adjudica sin oferta",
-      "selecciona por sorteo",
-      "actúa sin pliegos"
+      "no guarda historial ni cookies al cerrar la ventana, aunque no hace anónimo al usuario",
+      "borra todos los archivos del equipo",
+      "impide abrir pestañas",
+      "convierte el navegador en un antivirus"
     ],
     "correcta": 0,
-    "explicacion": "El tema destaca la negociación con las empresas.",
-    "referencia": "Tema 42, 6.4 El procedimiento negociado"
+    "explicacion": "El tema lo explica así y advierte que no da anonimato total.",
+    "referencia": "V.11 · 3.5.2 Navegación privada / InPrivate / Incógnito"
   },
   {
-    "id": "t42-p015",
+    "id": "t40-p016",
     "tema": 42,
-    "pregunta": "Los criterios de adjudicación deben guardar relación:",
+    "pregunta": "En relación con los protocolos de correo electrónico, señale la respuesta correcta:",
     "opciones": [
-      "directa con el objeto del contrato",
-      "con la antigüedad de la empresa en el sector",
-      "con la residencia del licitador",
-      "con la lengua materna del adjudicatario"
+      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
+      "POP3 es el protocolo para el envío de correos con sincronización entre dispositivos.",
+      "IMAP descarga los mensajes del servidor y los elimina por defecto.",
+      "HTTPS es el protocolo habitual para remitir correo entre servidores."
     ],
     "correcta": 0,
-    "explicacion": "El tema lo exige expresamente.",
-    "referencia": "Tema 42, 6.7 Los criterios de adjudicación"
-  },
-  {
-    "id": "t42-p016",
-    "tema": 42,
-    "pregunta": "En la LCSP, el contrato menor de obras exige un valor estimado inferior a:",
-    "opciones": [
-      "40.000 euros",
-      "15.000 euros",
-      "60.000 euros",
-      "221.000 euros"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema fija en 40.000 euros el umbral del contrato menor de obras.",
-    "referencia": "Tema 42, 3.3 El contrato menor"
-  },
-  {
-    "id": "t42-p017",
-    "tema": 42,
-    "pregunta": "En la Administración Local, el órgano de contratación ordinario para los contratos no reservados al Pleno es:",
-    "opciones": [
-      "el Alcalde o Presidente de la Diputación",
-      "la Mesa de contratación",
-      "el Interventor",
-      "el Secretario General"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema atribuye esa competencia ordinaria al Alcalde o Presidente de la Diputación.",
-    "referencia": "Tema 42, 4.1 La Administración: el órgano de contratación"
-  },
-  {
-    "id": "t42-p018",
-    "tema": 42,
-    "pregunta": "El presupuesto base de licitación (PBL) es:",
-    "opciones": [
-      "el límite máximo de gasto que puede comprometer el órgano de contratación, incluidos los impuestos",
-      "el precio final ofertado por el adjudicatario tras la ejecución del contrato",
-      "la cuantía de la garantía definitiva",
-      "el importe mínimo que deben ofrecer los licitadores"
-    ],
-    "correcta": 0,
-    "explicacion": "El PBL fija el techo de gasto del contrato y las ofertas no pueden superarlo.",
-    "referencia": "Tema 42, 5.3 El presupuesto base de licitación (PBL)"
-  },
-  {
-    "id": "t42-p019",
-    "tema": 42,
-    "pregunta": "La garantía definitiva asciende, con carácter general, al:",
-    "opciones": [
-      "5 % del precio de adjudicación, sin IVA",
-      "10 % del valor estimado, con IVA",
-      "3 % del presupuesto base de licitación",
-      "2 % del precio del contrato con IVA"
-    ],
-    "correcta": 0,
-    "explicacion": "El adjudicatario debe constituir una garantía definitiva del 5 % del precio de adjudicación sin IVA.",
-    "referencia": "Tema 42, 7.2 La garantía definitiva"
-  },
-  {
-    "id": "t42-p020",
-    "tema": 42,
-    "pregunta": "En la ejecución del contrato, el principio de riesgo y ventura significa que:",
-    "opciones": [
-      "el contratista asume, como regla general, los riesgos de la ejecución",
-      "la Administración soporta cualquier desviación de costes",
-      "todo contrato puede modificarse libremente por el contratista",
-      "la ejecución queda suspendida si varía el mercado"
-    ],
-    "correcta": 0,
-    "explicacion": "La ejecución corre por cuenta y riesgo del contratista, salvo los supuestos previstos legalmente.",
-    "referencia": "Tema 42, 9.1 Principio de riesgo y ventura"
+    "explicacion": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
+    "referencia": "V.11 · 2.5.1 Correo electrónico"
   }
 ]

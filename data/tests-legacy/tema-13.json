@@ -1,0 +1,226 @@
+[
+  {
+    "id": "t13-p001",
+    "tema": 13,
+    "pregunta": "En el Estado autonómico español existe:",
+    "opciones": [
+      "una única Administración Pública",
+      "una pluralidad de Administraciones Públicas",
+      "una sola Administración Local",
+      "una Administración sin personalidad jurídica"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema afirma que hay una pluralidad de Administraciones con personalidad y competencias propias.",
+    "referencia": "Tema 13, 1.1 Concepto y pluralidad"
+  },
+  {
+    "id": "t13-p002",
+    "tema": 13,
+    "pregunta": "¿Qué artículo de la Constitución recoge los principios de actuación de la Administración Pública?",
+    "opciones": [
+      "Art. 103.1 CE",
+      "Art. 106.1 CE",
+      "Art. 137 CE",
+      "Art. 149 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce literalmente el art. 103.1 CE.",
+    "referencia": "Tema 13, 2.1 Los principios constitucionales"
+  },
+  {
+    "id": "t13-p003",
+    "tema": 13,
+    "pregunta": "La jerarquía opera:",
+    "opciones": [
+      "entre Administraciones distintas",
+      "dentro de una misma Administración y de una misma línea orgánica",
+      "solo entre órganos judiciales",
+      "solo entre Estado y CC.AA."
+    ],
+    "correcta": 1,
+    "explicacion": "El tema precisa que no hay jerarquía entre Administraciones distintas.",
+    "referencia": "Tema 13, 2.2.1 Jerarquía"
+  },
+  {
+    "id": "t13-p004",
+    "tema": 13,
+    "pregunta": "¿Qué técnica de organización supone transferencia de competencias entre personas jurídicas distintas?",
+    "opciones": [
+      "Descentralización",
+      "Desconcentración",
+      "Suplencia",
+      "Avocación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define la descentralización como transferencia entre entes territoriales distintos con personalidad propia.",
+    "referencia": "Tema 13, 2.2.2 Descentralización"
+  },
+  {
+    "id": "t13-p005",
+    "tema": 13,
+    "pregunta": "La desconcentración supone transferencia de competencias:",
+    "opciones": [
+      "desde un órgano superior a otro inferior de la misma persona jurídica",
+      "del Estado a una Comunidad Autónoma",
+      "de un tribunal a otro",
+      "de la ley al reglamento"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la sitúa dentro de la misma Administración y persona jurídica.",
+    "referencia": "Tema 13, 2.2.3 Desconcentración"
+  },
+  {
+    "id": "t13-p006",
+    "tema": 13,
+    "pregunta": "¿Qué principio del art. 3 LRJSP menciona como exigencia de actuación conjunta y no obstaculizadora?",
+    "opciones": [
+      "Lealtad institucional",
+      "Reserva de ley",
+      "Publicidad normativa",
+      "Primacía judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye la lealtad institucional entre los principios adicionales del art. 3 LRJSP.",
+    "referencia": "Tema 13, 2.3 Principios adicionales del art. 3 LRJSP"
+  },
+  {
+    "id": "t13-p007",
+    "tema": 13,
+    "pregunta": "Una unidad administrativa:",
+    "opciones": [
+      "tiene competencia propia atribuida por norma",
+      "es una estructura de apoyo sin competencia propia atribuida por norma",
+      "puede dictar leyes",
+      "sustituye al órgano administrativo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema diferencia claramente órganos y unidades administrativas.",
+    "referencia": "Tema 13, 2.4 Técnicas de organización"
+  },
+  {
+    "id": "t13-p008",
+    "tema": 13,
+    "pregunta": "La competencia administrativa es:",
+    "opciones": [
+      "el conjunto de facultades y potestades atribuidas a un órgano",
+      "una capacidad moral del funcionario",
+      "la suma de reglamentos aplicables",
+      "la condición de interesado en un procedimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define la competencia como el conjunto de facultades y potestades del órgano.",
+    "referencia": "Tema 13, 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p009",
+    "tema": 13,
+    "pregunta": "La competencia es:",
+    "opciones": [
+      "renunciable por el órgano",
+      "irrenunciable e improrrogable",
+      "disponible por pacto entre órganos",
+      "delegable sin límites en cualquier caso"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema destaca que la competencia es irrenunciable e improrrogable.",
+    "referencia": "Tema 13, 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p010",
+    "tema": 13,
+    "pregunta": "¿Cuál de las siguientes técnicas de alteración de la competencia implica solo la firma y no la competencia?",
+    "opciones": [
+      "Delegación",
+      "Avocación",
+      "Delegación de firma",
+      "Encomienda de gestión"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema define la delegación de firma como transferencia solo de la firma.",
+    "referencia": "Tema 13, 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p011",
+    "tema": 13,
+    "pregunta": "La encomienda de gestión:",
+    "opciones": [
+      "transfiere la competencia y la responsabilidad",
+      "encarga actividades materiales, técnicas o de servicios sin transferir competencia ni responsabilidad",
+      "solo opera entre poderes legislativos",
+      "requiere ley orgánica siempre"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema la define así de forma expresa.",
+    "referencia": "Tema 13, 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p012",
+    "tema": 13,
+    "pregunta": "¿Qué control judicial prevé el en relación con la Administración?",
+    "opciones": [
+      "Tribunales contencioso-administrativos",
+      "Tribunales militares",
+      "Tribunales de justicia de paz",
+      "Tribunal Constitucional exclusivamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa el control de la actuación administrativa en la jurisdicción contencioso-administrativa.",
+    "referencia": "Tema 13, 3.4 Control judicial de la Administración"
+  },
+  {
+    "id": "t13-p013",
+    "tema": 13,
+    "pregunta": "La autotutela administrativa está sometida a:",
+    "opciones": [
+      "los principios de proporcionalidad y necesidad",
+      "la voluntad de los particulares",
+      "la aprobación del Senado",
+      "el consentimiento judicial previo en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica esos límites para la autotutela.",
+    "referencia": "Tema 13, 3.5 La autotutela administrativa y sus límites"
+  },
+  {
+    "id": "t13-p014",
+    "tema": 13,
+    "pregunta": "¿Qué principio prohíbe la actuación caprichosa de los poderes públicos?",
+    "opciones": [
+      "Interdicción de la arbitrariedad",
+      "Supletoriedad normativa",
+      "Delegación legislativa",
+      "Convalidación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo vincula al art. 9.3 CE.",
+    "referencia": "Tema 13, 3.6 La interdicción de la arbitrariedad"
+  },
+  {
+    "id": "t13-p015",
+    "tema": 13,
+    "pregunta": "Los principios adicionales del art. 3 LRJSP incluyen:",
+    "opciones": [
+      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, proporcionalidad y sostenibilidad",
+      "solo jerarquía y descentralización",
+      "únicamente la legalidad penal",
+      "solo la potestad sancionadora"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera varios de esos principios de actuación.",
+    "referencia": "Tema 13, 2.3 Principios adicionales del art. 3 LRJSP"
+  },
+  {
+    "id": "t13-p016",
+    "tema": 13,
+    "pregunta": "De acuerdo con el art. 103.1 CE, la Administracion Publica actua de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion",
+      "Publicidad, irretroactividad, seguridad juridica y responsabilidad",
+      "Legalidad penal, tipicidad, culpabilidad y presuncion de inocencia",
+      "Solidaridad, autonomia financiera, subsidiariedad y lealtad institucional"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 103.1 CE recoge expresamente esos principios de actuacion administrativa.",
+    "referencia": "Tema 13, 2.1 Los principios constitucionales (art. 103.1 CE)"
+  }
+]

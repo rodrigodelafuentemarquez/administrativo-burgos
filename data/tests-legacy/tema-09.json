@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t09-p001",
+    "tema": 9,
+    "pregunta": "La autonomía local tiene su fundamento directo en:",
+    "opciones": [
+      "la Constitución Española de 1978",
+      "la Carta Europea de Autonomía Local",
+      "la Ley 1/1998 de Castilla y León",
+      "el Reglamento de Organización y Funcionamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala que la autonomía local tiene su fundamento directo en la Constitución Española de 1978.",
+    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+  },
+  {
+    "id": "t09-p002",
+    "tema": 9,
+    "pregunta": "¿Qué artículo de la Constitución garantiza la autonomía del municipio?",
+    "opciones": [
+      "Art. 137 CE",
+      "Art. 140 CE",
+      "Art. 141 CE",
+      "Art. 142 CE"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye al art. 140 CE la garantía constitucional de la autonomía municipal.",
+    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+  },
+  {
+    "id": "t09-p003",
+    "tema": 9,
+    "pregunta": "Según el art. 3 LBRL, ¿cuál de las siguientes entidades es de existencia necesaria?",
+    "opciones": [
+      "La comarca",
+      "La mancomunidad",
+      "La isla",
+      "El área metropolitana"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema enumera como entidades locales de existencia necesaria al municipio, la provincia y la isla.",
+    "referencia": "Tema 9, 2.1 Clasificación según la LBRL (art. 3 LBRL)"
+  },
+  {
+    "id": "t09-p004",
+    "tema": 9,
+    "pregunta": "¿Qué entidad es el gobierno y la administración del municipio?",
+    "opciones": [
+      "El Ayuntamiento",
+      "La Diputación Provincial",
+      "La Junta Vecinal",
+      "El Cabildo Insular"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario identifica al Ayuntamiento como órgano de gobierno y administración del municipio.",
+    "referencia": "Tema 9, 2.2 El Municipio"
+  },
+  {
+    "id": "t09-p005",
+    "tema": 9,
+    "pregunta": "El padrón municipal es:",
+    "opciones": [
+      "el registro administrativo donde constan los vecinos del municipio",
+      "un registro estatal de funcionarios",
+      "un censo exclusivamente electoral",
+      "un libro de actas del Pleno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define el padrón municipal como el registro administrativo donde constan los vecinos del municipio.",
+    "referencia": "Tema 9, 2.2 c) La población: el padrón municipal"
+  },
+  {
+    "id": "t09-p006",
+    "tema": 9,
+    "pregunta": "¿Qué órgano de gobierno insular existe en Canarias?",
+    "opciones": [
+      "Consejos Insulares",
+      "Cabildos Insulares",
+      "Diputaciones Forales",
+      "Juntas Vecinales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que en Canarias el órgano de gobierno insular son los Cabildos Insulares.",
+    "referencia": "Tema 9, 2.4 La Isla"
+  },
+  {
+    "id": "t09-p007",
+    "tema": 9,
+    "pregunta": "¿Cuál de las siguientes es una entidad local menor?",
+    "opciones": [
+      "Junta Vecinal",
+      "Consejo Económico y Social",
+      "Consejo Insular",
+      "Mancomunidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala que en Castilla y León las entidades locales menores reciben el nombre de Juntas Vecinales.",
+    "referencia": "Tema 9, 2.5 Las Entidades Locales Menores"
+  },
+  {
+    "id": "t09-p008",
+    "tema": 9,
+    "pregunta": "¿Qué entidades locales pueden crearse para la gestión de servicios en ámbitos urbanos con fuertes vínculos económicos y sociales?",
+    "opciones": [
+      "Las áreas metropolitanas",
+      "Las entidades locales menores",
+      "Las mancomunidades",
+      "Las diputaciones forales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define las áreas metropolitanas como entidades locales integradas por municipios de grandes aglomeraciones urbanas.",
+    "referencia": "Tema 9, 2.7 Las Áreas Metropolitanas"
+  },
+  {
+    "id": "t09-p009",
+    "tema": 9,
+    "pregunta": "¿Qué categoría de competencias municipales recoge como asumidas por la ley y ejercidas con autonomía y bajo responsabilidad propia?",
+    "opciones": [
+      "Competencias propias",
+      "Competencias delegadas",
+      "Competencias exclusivas del Estado",
+      "Competencias impropias"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema diferencia las competencias propias, delegadas y las distintas de unas y otras.",
+    "referencia": "Tema 9, 4.1 Marco constitucional y legal"
+  },
+  {
+    "id": "t09-p010",
+    "tema": 9,
+    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo es obligatorio en todos los municipios?",
+    "opciones": [
+      "Transporte colectivo urbano de viajeros",
+      "Biblioteca pública",
+      "Alumbrado público",
+      "Protección civil"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
+    "referencia": "Tema 9, 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
+  },
+  {
+    "id": "t09-p011",
+    "tema": 9,
+    "pregunta": "Las Haciendas Locales deben disponer de:",
+    "opciones": [
+      "medios suficientes para el desempeño de sus funciones",
+      "potestad legislativa propia",
+      "ingresos exclusivamente estatales",
+      "competencia exclusiva en defensa"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema remite al art. 142 CE sobre medios suficientes para las Haciendas Locales.",
+    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+  },
+  {
+    "id": "t09-p012",
+    "tema": 9,
+    "pregunta": "¿Qué ley constituye la norma fundamental del Régimen Local español?",
+    "opciones": [
+      "La LBRL",
+      "La LO 3/1981",
+      "La Ley Orgánica del Poder Judicial",
+      "La Ley de Presupuestos Generales del Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica la Ley 7/1985 como la norma fundamental del Régimen Local.",
+    "referencia": "Tema 9, 1.3 La legislación básica estatal: la LBRL"
+  },
+  {
+    "id": "t09-p013",
+    "tema": 9,
+    "pregunta": "Las mancomunidades de municipios son:",
+    "opciones": [
+      "asociaciones voluntarias de municipios para la ejecución en común de obras y servicios",
+      "órganos de gobierno de la provincia",
+      "entidades de existencia necesaria",
+      "organismos estatales desconcentrados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define las mancomunidades como asociaciones voluntarias para obras y servicios comunes.",
+    "referencia": "Tema 9, 2.8 Las Mancomunidades de Municipios"
+  },
+  {
+    "id": "t09-p014",
+    "tema": 9,
+    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo debe prestar todo municipio?",
+    "opciones": [
+      "Transporte colectivo urbano de viajeros",
+      "Tratamiento de residuos",
+      "Alumbrado público",
+      "Protección civil"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
+    "referencia": "Tema 9, 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
+  },
+  {
+    "id": "t09-p015",
+    "tema": 9,
+    "pregunta": "La autonomía local es:",
+    "opciones": [
+      "una autonomía legislativa",
+      "una autonomía administrativa, no política",
+      "una autonomía jurisdiccional",
+      "una autonomía tributaria absoluta"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya que la autonomía local es administrativa y no política.",
+    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+  }
+]

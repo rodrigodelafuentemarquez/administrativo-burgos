@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t39-p001",
+    "tema": 39,
+    "pregunta": "Microsoft Access es:",
+    "opciones": [
+      "el sistema de gestión de bases de datos relacionales de escritorio incluido en Microsoft 365",
+      "un procesador de texto",
+      "un navegador web",
+      "un sistema operativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define así.",
+    "referencia": "Tema 39, 1.2 Qué es Microsoft Access"
+  },
+  {
+    "id": "t39-p002",
+    "tema": 39,
+    "pregunta": "Uno de los objetos de Access es:",
+    "opciones": [
+      "tablas",
+      "ventanas",
+      "pestañas",
+      "cookies"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera tablas, consultas, formularios, informes, macros y módulos.",
+    "referencia": "Tema 39, 1.3 Los objetos de Access"
+  },
+  {
+    "id": "t39-p003",
+    "tema": 39,
+    "pregunta": "Una tabla en Access almacena datos organizados en:",
+    "opciones": [
+      "registros y campos",
+      "capítulos y artículos",
+      "páginas y márgenes",
+      "mensajes y carpetas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue registros (filas) y campos (columnas).",
+    "referencia": "Tema 39, 2.1 Concepto"
+  },
+  {
+    "id": "t39-p004",
+    "tema": 39,
+    "pregunta": "La clave principal en Access, identifica de forma:",
+    "opciones": [
+      "única e inequívoca cada registro",
+      "aleatoria cada año",
+      "temporal y repetida",
+      "visual y estética"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema subraya esa unicidad.",
+    "referencia": "Tema 39, 2.3 La clave principal (Primary Key)"
+  },
+  {
+    "id": "t39-p005",
+    "tema": 39,
+    "pregunta": "La integridad referencial impide:",
+    "opciones": [
+      "introducir valores relacionados que no existan en la tabla principal",
+      "crear un formulario",
+      "imprimir un informe",
+      "exportar a PDF"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo explica como regla de coherencia entre tablas.",
+    "referencia": "Tema 39, 3.3 Integridad referencial"
+  },
+  {
+    "id": "t39-p006",
+    "tema": 39,
+    "pregunta": "Una consulta de selección:",
+    "opciones": [
+      "recupera y muestra datos según criterios definidos",
+      "elimina registros",
+      "cambia el diseño de la tabla",
+      "exporta a Word"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la presenta como la consulta más habitual.",
+    "referencia": "Tema 39, 4.2 Tipos de consultas"
+  },
+  {
+    "id": "t39-p007",
+    "tema": 39,
+    "pregunta": "El diseño visual de consultas en Access se realiza mediante la cuadrícula:",
+    "opciones": [
+      "QBE",
+      "CSV",
+      "DNS",
+      "GUI"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica la cuadrícula Query By Example.",
+    "referencia": "Tema 39, 4.3 El diseño de consultas (QBE)"
+  },
+  {
+    "id": "t39-p008",
+    "tema": 39,
+    "pregunta": "Los formularios están orientados principalmente a:",
+    "opciones": [
+      "la introducción, visualización y edición de datos",
+      "la impresión de gráficos",
+      "la firma electrónica",
+      "la navegación por internet"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los presenta como interfaces gráficas para la entrada y edición.",
+    "referencia": "Tema 39, 5.1 Concepto"
+  },
+  {
+    "id": "t39-p009",
+    "tema": 39,
+    "pregunta": "Un informe en Access está orientado a:",
+    "opciones": [
+      "la salida de información para impresión o exportación",
+      "la modificación masiva de registros",
+      "el correo electrónico",
+      "la búsqueda de webs"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo diferencia de los formularios.",
+    "referencia": "Tema 39, 6.1 Concepto"
+  },
+  {
+    "id": "t39-p010",
+    "tema": 39,
+    "pregunta": "La importación de datos permite:",
+    "opciones": [
+      "copiar datos desde un origen externo a una tabla de Access",
+      "crear un nuevo sistema operativo",
+      "cifrar correos",
+      "comprimir vídeos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como copia de datos al interior de Access.",
+    "referencia": "Tema 39, 7.1 Importación de datos"
+  },
+  {
+    "id": "t39-p011",
+    "tema": 39,
+    "pregunta": "La vinculación de datos:",
+    "opciones": [
+      "conecta Access con una fuente externa sin copiar los datos",
+      "elimina tablas relacionadas",
+      "cambia el idioma de la interfaz",
+      "convierte un formulario en informe"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como conexión sin copia.",
+    "referencia": "Tema 39, 7.2 Vinculación de datos"
+  },
+  {
+    "id": "t39-p012",
+    "tema": 39,
+    "pregunta": "Outlook 365 es:",
+    "opciones": [
+      "el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365",
+      "una hoja de cálculo",
+      "un sistema de archivos",
+      "un gestor de bases de datos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta así.",
+    "referencia": "Tema 39, 8.1 Qué es Outlook 365"
+  },
+  {
+    "id": "t39-p013",
+    "tema": 39,
+    "pregunta": "La Bandeja de entrada contiene:",
+    "opciones": [
+      "mensajes recibidos",
+      "mensajes eliminados",
+      "borradores",
+      "archivos exportados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como carpeta de mensajes recibidos.",
+    "referencia": "Tema 39, 8.3 Las carpetas de correo"
+  },
+  {
+    "id": "t39-p014",
+    "tema": 39,
+    "pregunta": "La CCO sirve para:",
+    "opciones": [
+      "enviar copias ocultas, protegiendo la privacidad de las direcciones de los destinatarios",
+      "anunciar el asunto del correo a todos",
+      "cifrar automáticamente todos los adjuntos",
+      "borrar el mensaje original"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema destaca su utilidad en la Administración.",
+    "referencia": "Tema 39, 9.2 Importancia de la CCO en la Administración"
+  },
+  {
+    "id": "t39-p015",
+    "tema": 39,
+    "pregunta": "Una regla de mensaje en Outlook es:",
+    "opciones": [
+      "una instrucción automática aplicada a mensajes entrantes o salientes cuando se cumplen ciertas condiciones",
+      "una carpeta de correo",
+      "un tipo de firma electrónica",
+      "un formato de archivo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como automatización de correo.",
+    "referencia": "Tema 39, 10.1 Concepto"
+  }
+]

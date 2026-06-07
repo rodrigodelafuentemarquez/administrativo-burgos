@@ -1,0 +1,226 @@
+[
+  {
+    "id": "t40-p001",
+    "tema": 40,
+    "pregunta": "Internet tiene su origen en:",
+    "opciones": [
+      "ARPANET",
+      "DNS",
+      "HTTP",
+      "Wi-Fi"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa el origen en ARPANET.",
+    "referencia": "Tema 40, 1.1 Los orígenes: ARPANET (1969)"
+  },
+  {
+    "id": "t40-p002",
+    "tema": 40,
+    "pregunta": "La primera conexión de ARPANET se estableció el:",
+    "opciones": [
+      "29 de octubre de 1969",
+      "1 de enero de 1991",
+      "15 de mayo de 1983",
+      "4 de julio de 2007"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema da esa fecha concreta.",
+    "referencia": "Tema 40, 1.1 Los orígenes: ARPANET (1969)"
+  },
+  {
+    "id": "t40-p003",
+    "tema": 40,
+    "pregunta": "TCP/IP se adoptó como estándar de ARPANET en:",
+    "opciones": [
+      "1983",
+      "1969",
+      "1991",
+      "2004"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija 1983.",
+    "referencia": "Tema 40, 1.2 Los protocolos TCP/IP (1974-1983)"
+  },
+  {
+    "id": "t40-p004",
+    "tema": 40,
+    "pregunta": "La World Wide Web fue ideada por:",
+    "opciones": [
+      "Tim Berners-Lee",
+      "Vinton Cerf",
+      "Robert Kahn",
+      "Mosaic"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye la WWW a Berners-Lee.",
+    "referencia": "Tema 40, 1.3 La World Wide Web y la expansión civil (1991)"
+  },
+  {
+    "id": "t40-p005",
+    "tema": 40,
+    "pregunta": "El protocolo que define cómo se comunican navegador y servidor es:",
+    "opciones": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "UDP"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo identifica como protocolo de hipertexto.",
+    "referencia": "Tema 40, 2.4 Protocolo HTTP y HTTPS"
+  },
+  {
+    "id": "t40-p006",
+    "tema": 40,
+    "pregunta": "DNS traduce:",
+    "opciones": [
+      "nombres de dominio en direcciones IP",
+      "ficheros en carpetas",
+      "códigos en tablas",
+      "correos en contactos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define como sistema de nombres de dominio.",
+    "referencia": "Tema 40, 2.3 El Sistema de Nombres de Dominio (DNS)"
+  },
+  {
+    "id": "t40-p007",
+    "tema": 40,
+    "pregunta": "IPv4 es una dirección de:",
+    "opciones": [
+      "32 bits",
+      "128 bits",
+      "16 bits",
+      "64 bits"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema precisa esa longitud.",
+    "referencia": "Tema 40, 2.2 El protocolo TCP/IP"
+  },
+  {
+    "id": "t40-p008",
+    "tema": 40,
+    "pregunta": "HTTPS añade a HTTP:",
+    "opciones": [
+      "cifrado SSL/TLS",
+      "una hoja de cálculo",
+      "un archivo adjunto",
+      "un formato de compresión"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define como versión segura con cifrado.",
+    "referencia": "Tema 40, 2.4 Protocolo HTTP y HTTPS"
+  },
+  {
+    "id": "t40-p009",
+    "tema": 40,
+    "pregunta": "IMAP permite:",
+    "opciones": [
+      "acceder a los correos manteniéndolos en el servidor y sincronizando varios dispositivos",
+      "descargar y borrar por defecto los mensajes del servidor",
+      "solo enviar correos",
+      "firmar documentos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo destaca como acceso sincronizado.",
+    "referencia": "Tema 40, 2.5.1 Correo electrónico"
+  },
+  {
+    "id": "t40-p010",
+    "tema": 40,
+    "pregunta": "Una VPN es:",
+    "opciones": [
+      "una conexión cifrada que crea un túnel seguro a través de internet",
+      "un tipo de navegador",
+      "una dirección de correo",
+      "un protocolo de impresión"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como red privada virtual.",
+    "referencia": "Tema 40, 2.5.3 VPN"
+  },
+  {
+    "id": "t40-p011",
+    "tema": 40,
+    "pregunta": "Una URL es:",
+    "opciones": [
+      "la dirección completa que identifica un recurso en internet",
+      "un archivo comprimido",
+      "un protocolo de correo",
+      "una cookie persistente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define así.",
+    "referencia": "Tema 40, 2.5.5 La dirección URL"
+  },
+  {
+    "id": "t40-p012",
+    "tema": 40,
+    "pregunta": "SaaS significa:",
+    "opciones": [
+      "software accesible desde el navegador sin instalación local",
+      "infraestructura física virtualizada",
+      "plataforma para desarrollar aplicaciones",
+      "sistema de archivos seguro"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema presenta SaaS como software en la nube.",
+    "referencia": "Tema 40, 2.6 La Nube (Cloud Computing)"
+  },
+  {
+    "id": "t40-p013",
+    "tema": 40,
+    "pregunta": "Un navegador web es el programa que permite:",
+    "opciones": [
+      "acceder, visualizar e interactuar con los recursos de la World Wide Web",
+      "crear bases de datos",
+      "firmar electrónicamente documentos",
+      "compilar código fuente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define así.",
+    "referencia": "Tema 40, 3.1 Qué es un navegador web"
+  },
+  {
+    "id": "t40-p014",
+    "tema": 40,
+    "pregunta": "En los navegadores actuales la barra de favoritos sirve para:",
+    "opciones": [
+      "guardar URLs para acceder rápidamente en el futuro",
+      "eliminar cookies automáticamente",
+      "cifrar el tráfico",
+      "crear cuentas de correo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo incluye entre las funciones básicas.",
+    "referencia": "Tema 40, 3.4.3 Favoritos / Marcadores"
+  },
+  {
+    "id": "t40-p015",
+    "tema": 40,
+    "pregunta": "La navegación privada:",
+    "opciones": [
+      "no guarda historial ni cookies al cerrar la ventana, aunque no hace anónimo al usuario",
+      "borra todos los archivos del equipo",
+      "impide abrir pestañas",
+      "convierte el navegador en un antivirus"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo explica así y advierte que no da anonimato total.",
+    "referencia": "Tema 40, 3.5.2 Navegación privada / InPrivate / Incógnito"
+  },
+  {
+    "id": "t40-p016",
+    "tema": 40,
+    "pregunta": "En relación con los protocolos de correo electrónico, señale la respuesta correcta:",
+    "opciones": [
+      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
+      "POP3 es el protocolo para el envío de correos con sincronización entre dispositivos.",
+      "IMAP descarga los mensajes del servidor y los elimina por defecto.",
+      "HTTPS es el protocolo habitual para remitir correo entre servidores."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
+    "referencia": "Tema 40, 2.5.1 Correo electrónico"
+  }
+]

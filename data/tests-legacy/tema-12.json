@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t12-p001",
+    "tema": 12,
+    "pregunta": "La Administración Pública puede entenderse en sentido:",
+    "opciones": [
+      "subjetivo u orgánico y objetivo o funcional",
+      "penal y procesal",
+      "constitucional y orgánico únicamente",
+      "privado y mercantil"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue expresamente entre sentido subjetivo u orgánico y sentido objetivo o funcional.",
+    "referencia": "Tema 12, 1.1 Aproximación al concepto"
+  },
+  {
+    "id": "t12-p002",
+    "tema": 12,
+    "pregunta": "¿Qué artículo constitucional recoge los principios de actuación de la Administración Pública?",
+    "opciones": [
+      "Art. 9 CE",
+      "Art. 103 CE",
+      "Art. 106 CE",
+      "Art. 137 CE"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema remite al art. 103 CE como sede de los principios administrativos.",
+    "referencia": "Tema 12, 1.2 Reconocimiento constitucional"
+  },
+  {
+    "id": "t12-p003",
+    "tema": 12,
+    "pregunta": "Las Administraciones Públicas en la LRJSP incluyen:",
+    "opciones": [
+      "solo la AGE",
+      "AGE, CC.AA., Administración Local y sector público institucional",
+      "únicamente AGE y CC.AA.",
+      "solo entes territoriales con potestad legislativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema enumera expresamente esas cuatro categorías.",
+    "referencia": "Tema 12, 1.3 Las Administraciones Públicas en la LRJSP"
+  },
+  {
+    "id": "t12-p004",
+    "tema": 12,
+    "pregunta": "¿Qué caracteriza a la Administración en sentido técnico-jurídico?",
+    "opciones": [
+      "Su personalidad jurídica propia y su sometimiento al Derecho Administrativo",
+      "Su ausencia de control jurisdiccional",
+      "Su poder legislativo propio",
+      "Su independencia absoluta del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como conjunto de personas jurídico-públicas con personalidad jurídica propia, sometidas al Derecho Administrativo.",
+    "referencia": "Tema 12, 1.1 Aproximación al concepto"
+  },
+  {
+    "id": "t12-p005",
+    "tema": 12,
+    "pregunta": "¿Qué principio distingue como transferencia de competencias entre órganos de una misma persona jurídica?",
+    "opciones": [
+      "Descentralización",
+      "Desconcentración",
+      "Coordinación",
+      "Lealtad institucional"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema explica que la desconcentración actúa dentro de una misma Administración y persona jurídica.",
+    "referencia": "Tema 12, 2.2.3 Desconcentración"
+  },
+  {
+    "id": "t12-p006",
+    "tema": 12,
+    "pregunta": "La descentralización supone la transferencia de competencias desde el Estado a:",
+    "opciones": [
+      "órganos inferiores de la misma Administración",
+      "entes territoriales distintos con personalidad jurídica propia",
+      "unidades administrativas sin competencia",
+      "órganos judiciales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema la identifica con la transferencia a entes territoriales distintos dotados de personalidad jurídica.",
+    "referencia": "Tema 12, 2.2.2 Descentralización"
+  },
+  {
+    "id": "t12-p007",
+    "tema": 12,
+    "pregunta": "¿Qué técnica permite a la Administración declarar por sí misma sus derechos y ejecutarlos sin acudir a un juez?",
+    "opciones": [
+      "Autotutela",
+      "Descentralización",
+      "Delegación legislativa",
+      "Jerarquía normativa"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona la autotutela declarativa y ejecutiva como potestades administrativas características.",
+    "referencia": "Tema 12, 1.4 Las potestades administrativas"
+  },
+  {
+    "id": "t12-p008",
+    "tema": 12,
+    "pregunta": "La Administración solo puede actuar cuando:",
+    "opciones": [
+      "la ley la habilita expresamente",
+      "el particular no lo prohíbe",
+      "lo estime oportuno políticamente",
+      "lo autorice la costumbre"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica el principio de vinculación positiva: la Administración solo puede hacer lo que la ley permite.",
+    "referencia": "Tema 12, 3.1 El principio de legalidad administrativa"
+  },
+  {
+    "id": "t12-p009",
+    "tema": 12,
+    "pregunta": "¿Qué controla la Jurisdicción Contencioso-Administrativa?",
+    "opciones": [
+      "Solo la legalidad de las leyes",
+      "La potestad reglamentaria y la legalidad de la actuación administrativa",
+      "Únicamente los actos del Parlamento",
+      "Solo la actividad contractual privada"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge el art. 106 CE en estos términos.",
+    "referencia": "Tema 12, 3.4 Control judicial de la Administración"
+  },
+  {
+    "id": "t12-p010",
+    "tema": 12,
+    "pregunta": "Una decisión discrecional de la Administración nunca puede ser:",
+    "opciones": [
+      "motivada",
+      "arbitraria",
+      "razonable",
+      "controlada por los tribunales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema diferencia discrecionalidad de arbitrariedad y prohíbe la actuación caprichosa.",
+    "referencia": "Tema 12, 3.6 La interdicción de la arbitrariedad"
+  },
+  {
+    "id": "t12-p011",
+    "tema": 12,
+    "pregunta": "¿Qué principio exige que una medida discrecional no sea excesiva respecto del fin perseguido?",
+    "opciones": [
+      "Proporcionalidad",
+      "Inmutabilidad",
+      "Inviolabilidad",
+      "Supletoriedad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema cita la proporcionalidad como parámetro de control de la discrecionalidad.",
+    "referencia": "Tema 12, 3.6 La interdicción de la arbitrariedad"
+  },
+  {
+    "id": "t12-p012",
+    "tema": 12,
+    "pregunta": "Los órganos de cada Administración:",
+    "opciones": [
+      "tienen personalidad jurídica propia",
+      "no tienen personalidad jurídica propia",
+      "solo existen en la AGE",
+      "solo pueden crear normas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema dice que los órganos actúan en nombre de la Administración y no tienen personalidad jurídica propia.",
+    "referencia": "Tema 12, 1.2 Personalidad jurídica"
+  },
+  {
+    "id": "t12-p013",
+    "tema": 12,
+    "pregunta": "¿Cuál de las siguientes es una potestad administrativa recogida?",
+    "opciones": [
+      "Potestad electoral",
+      "Potestad expropiatoria",
+      "Potestad jurisdiccional",
+      "Potestad constituyente"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema enumera la potestad expropiatoria entre las principales potestades administrativas.",
+    "referencia": "Tema 12, 1.4 Las potestades administrativas"
+  },
+  {
+    "id": "t12-p014",
+    "tema": 12,
+    "pregunta": "La coordinación entre distintas Administraciones puede materializarse mediante:",
+    "opciones": [
+      "conferencias sectoriales, comisiones bilaterales y convenios de colaboración",
+      "sentencias penales",
+      "referéndum consultivo",
+      "reglamentos orgánicos del Parlamento"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema presenta esas técnicas como instrumentos de coordinación interadministrativa.",
+    "referencia": "Tema 12, 2.2.4 Coordinación"
+  },
+  {
+    "id": "t12-p015",
+    "tema": 12,
+    "pregunta": "El régimen de legalidad material exige que los actos administrativos sean:",
+    "opciones": [
+      "políticamente convenientes",
+      "conformes con el contenido de la ley, no solo con su existencia formal",
+      "aprobados por unanimidad",
+      "dictados solo por órganos colegiados"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema distingue la legalidad material como conformidad con el contenido de la ley.",
+    "referencia": "Tema 12, 3.1 El principio de legalidad administrativa"
+  }
+]

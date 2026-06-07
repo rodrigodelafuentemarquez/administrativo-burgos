@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t25-p001",
+    "tema": 25,
+    "pregunta": "La Diputación Provincial se integra por:",
+    "opciones": [
+      "el Presidente, los Vicepresidentes, la Junta de Gobierno, el Pleno y las Comisiones Informativas",
+      "el alcalde y los concejales delegados",
+      "el consejero presidente y el parlamento autonómico",
+      "el secretario, el interventor y el tesorero"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esos órganos necesarios.",
+    "referencia": "Tema 25, 1.1 Órganos necesarios"
+  },
+  {
+    "id": "t25-p002",
+    "tema": 25,
+    "pregunta": "Además de los órganos necesarios, el señala como órganos complementarios:",
+    "opciones": [
+      "las comisiones especiales, los consejos sectoriales y otros órganos de participación",
+      "las mesas electorales y los jurados de expropiación",
+      "solo los juzgados de paz",
+      "únicamente el Senado y el Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona esas posibles estructuras complementarias.",
+    "referencia": "Tema 25, 1.2 Órganos complementarios"
+  },
+  {
+    "id": "t25-p003",
+    "tema": 25,
+    "pregunta": "El Presidente de la Diputación se elige:",
+    "opciones": [
+      "en la sesión constitutiva celebrada el vigésimo día posterior a las elecciones municipales",
+      "en el pleno ordinario de enero",
+      "por sorteo entre los diputados",
+      "por designación directa del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija ese momento de la sesión constitutiva.",
+    "referencia": "Tema 25, 2.1 Elección del Presidente"
+  },
+  {
+    "id": "t25-p004",
+    "tema": 25,
+    "pregunta": "En la primera votación para elegir Presidente, el exige:",
+    "opciones": [
+      "mayoría absoluta del número legal de Diputados",
+      "mayoría simple de los presentes",
+      "unanimidad",
+      "mayoría cualificada de tres quintos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige mayoría absoluta en primera votación.",
+    "referencia": "Tema 25, 2.1 Elección del Presidente"
+  },
+  {
+    "id": "t25-p005",
+    "tema": 25,
+    "pregunta": "Si ningún candidato obtiene mayoría absoluta, en la segunda votación resulta elegido:",
+    "opciones": [
+      "el que obtenga más votos entre los dos más votados",
+      "el más joven de los candidatos",
+      "el cabeza de lista con más concejales",
+      "el presidente saliente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema prevé esa segunda votación entre los dos más votados.",
+    "referencia": "Tema 25, 2.1 Elección del Presidente"
+  },
+  {
+    "id": "t25-p006",
+    "tema": 25,
+    "pregunta": "La provincia de Burgos cuenta con:",
+    "opciones": [
+      "25 Diputados Provinciales",
+      "31 Diputados Provinciales",
+      "27 Diputados Provinciales",
+      "51 Diputados Provinciales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que Burgos tiene 25 diputados.",
+    "referencia": "Tema 25, 3.1 Condición y número"
+  },
+  {
+    "id": "t25-p007",
+    "tema": 25,
+    "pregunta": "La elección de los Diputados Provinciales es:",
+    "opciones": [
+      "indirecta, a través de los concejales electos de los municipios",
+      "directa por sufragio universal",
+      "por designación del Presidente",
+      "por sorteo entre los vecinos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema explica la elección indirecta.",
+    "referencia": "Tema 25, 3.2 Elección de los Diputados Provinciales"
+  },
+  {
+    "id": "t25-p008",
+    "tema": 25,
+    "pregunta": "Los Diputados Provinciales se organizan en grupos políticos provinciales con un mínimo de:",
+    "opciones": [
+      "dos miembros",
+      "un miembro",
+      "cinco miembros",
+      "la mitad del Pleno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija ese mínimo para constituir grupo.",
+    "referencia": "Tema 25, 3.4 Grupos políticos provinciales"
+  },
+  {
+    "id": "t25-p009",
+    "tema": 25,
+    "pregunta": "El Pleno de la Diputación Provincial, está integrado por:",
+    "opciones": [
+      "todos los Diputados Provinciales y presidido por el Presidente",
+      "solo el Presidente y los Vicepresidentes",
+      "todos los jefes de servicio",
+      "los concejales de la capital"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define así su composición.",
+    "referencia": "Tema 25, 4.1 Composición e integración"
+  },
+  {
+    "id": "t25-p010",
+    "tema": 25,
+    "pregunta": "El Pleno celebra sesiones ordinarias como mínimo:",
+    "opciones": [
+      "cada tres meses",
+      "cada mes",
+      "una vez al año",
+      "cada quince días"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema marca una periodicidad mínima trimestral.",
+    "referencia": "Tema 25, 4.2 Funcionamiento: tipos de sesiones"
+  },
+  {
+    "id": "t25-p011",
+    "tema": 25,
+    "pregunta": "La sesión extraordinaria del Pleno puede convocarse, a solicitud de al menos:",
+    "opciones": [
+      "la cuarta parte del número legal de Diputados",
+      "la mitad del personal funcionario",
+      "dos tercios de los grupos políticos",
+      "un tercio de la Junta de Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge ese umbral de solicitud.",
+    "referencia": "Tema 25, 4.2 Funcionamiento: tipos de sesiones"
+  },
+  {
+    "id": "t25-p012",
+    "tema": 25,
+    "pregunta": "La Comisión Especial de Cuentas es:",
+    "opciones": [
+      "obligatoria",
+      "facultativa y excepcional",
+      "de creación solo estatal",
+      "una comisión judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la califica expresamente como obligatoria.",
+    "referencia": "Tema 25, 4.4 Comisiones Informativas"
+  },
+  {
+    "id": "t25-p013",
+    "tema": 25,
+    "pregunta": "La Junta de Gobierno se integra por:",
+    "opciones": [
+      "el Presidente y Diputados nombrados libremente por él, sin superar un tercio del Pleno",
+      "todos los Diputados con derecho a veto",
+      "solo los Vicepresidentes y el Secretario",
+      "los portavoces de los grupos políticos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija esa composición y el límite de un tercio.",
+    "referencia": "Tema 25, 5.1 Composición"
+  },
+  {
+    "id": "t25-p014",
+    "tema": 25,
+    "pregunta": "Una de las Áreas de la Diputación de Burgos es:",
+    "opciones": [
+      "Hacienda",
+      "Defensa Nacional",
+      "Relaciones Exteriores",
+      "Justicia Militar"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera Hacienda entre las áreas.",
+    "referencia": "Tema 25, 6.2 Las Áreas"
+  },
+  {
+    "id": "t25-p015",
+    "tema": 25,
+    "pregunta": "Los Organismos Autónomos de la Diputación son entidades de Derecho público con:",
+    "opciones": [
+      "personalidad jurídica y presupuesto independientes",
+      "simplemente una oficina sin autonomía",
+      "capacidad legislativa propia",
+      "carácter privado y mercantil"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema les atribuye personalidad y presupuesto propios.",
+    "referencia": "Tema 25, 8.1 Concepto y características"
+  }
+]

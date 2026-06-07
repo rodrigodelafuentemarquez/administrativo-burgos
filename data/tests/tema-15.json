@@ -1,296 +1,240 @@
 [
   {
-    "id": "t15-p001",
+    "id": "t18-p001",
     "tema": 15,
-    "pregunta": "La LPACAP regula:",
+    "pregunta": "La responsabilidad patrimonial obliga a la Administración a:",
     "opciones": [
-      "solo los recursos administrativos",
-      "los derechos y garantías de los ciudadanos y el procedimiento administrativo común",
-      "solo la potestad reglamentaria",
-      "únicamente la responsabilidad patrimonial"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema resume así el objeto de la Ley 39/2015.",
-    "referencia": "Tema 15, 1.1 Contexto y objeto"
-  },
-  {
-    "id": "t15-p002",
-    "tema": 15,
-    "pregunta": "¿Cuál es el plazo ordinario para subsanar una solicitud defectuosa?",
-    "opciones": [
-      "5 días hábiles",
-      "10 días hábiles",
-      "15 días hábiles",
-      "1 mes"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema fija 10 días hábiles para la subsanación.",
-    "referencia": "Tema 15, 3.1 Fase de iniciación"
-  },
-  {
-    "id": "t15-p003",
-    "tema": 15,
-    "pregunta": "Las solicitudes deben contener entre otros datos:",
-    "opciones": [
-      "el DNI, la petición y el órgano al que se dirigen",
-      "el nombre del notario y la cuantía del procedimiento",
-      "la firma del instructor",
-      "la sentencia previa"
+      "indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos",
+      "sancionar a los ciudadanos",
+      "dictar reglamentos compensatorios",
+      "revocar automáticamente el acto dañoso"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos elementos de la solicitud.",
-    "referencia": "Tema 15, 2.1 Los interesados en el procedimiento / 3.1 Fase de iniciación"
+    "explicacion": "El tema parte de esa definición general.",
+    "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
   },
   {
-    "id": "t15-p004",
+    "id": "t18-p002",
     "tema": 15,
-    "pregunta": "¿Qué plazo tiene el período de prueba?",
+    "pregunta": "¿Qué fundamento constitucional ampara la responsabilidad patrimonial de la Administración?",
     "opciones": [
-      "No superior a 30 días ni inferior a 10 días",
-      "No superior a 20 días ni inferior a 5 días",
-      "No superior a 15 días ni inferior a 1 día",
-      "No superior a 60 días"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema fija ese intervalo para la prueba.",
-    "referencia": "Tema 15, 3.2.2 Prueba"
-  },
-  {
-    "id": "t15-p005",
-    "tema": 15,
-    "pregunta": "El trámite de audiencia se concede por un plazo de:",
-    "opciones": [
-      "3 a 5 días hábiles",
-      "10 a 15 días hábiles",
-      "20 a 30 días hábiles",
-      "1 mes"
+      "Art. 24.1 CE",
+      "Art. 106.2 CE",
+      "Art. 137 CE",
+      "Art. 149.1 CE"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija entre 10 y 15 días hábiles.",
-    "referencia": "Tema 15, 3.2.4 Trámite de audiencia"
+    "explicacion": "El tema cita expresamente el art. 106.2 CE.",
+    "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
   },
   {
-    "id": "t15-p006",
+    "id": "t18-p003",
     "tema": 15,
-    "pregunta": "¿Qué plazo tiene la Administración para resolver con carácter supletorio?",
+    "pregunta": "La responsabilidad patrimonial es:",
     "opciones": [
-      "1 mes",
-      "2 meses",
+      "subjetiva y subsidiaria",
+      "objetiva y directa",
+      "penal y solidaria",
+      "discrecional y revisable"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo explica así de forma expresa.",
+    "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p004",
+    "tema": 15,
+    "pregunta": "Para que nazca la responsabilidad patrimonial, además de ser efectiva y evaluable económicamente, la lesión debe ser:",
+    "opciones": [
+      "Que sea colectiva",
+      "Que sea individualizada",
+      "Que se haya publicado en el BOE",
+      "Que tenga naturaleza penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema exige que el daño esté individualizado.",
+    "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada"
+  },
+  {
+    "id": "t18-p005",
+    "tema": 15,
+    "pregunta": "Si existe un deber jurídico de soportar el daño:",
+    "opciones": [
+      "siempre hay indemnización",
+      "no hay responsabilidad",
+      "la responsabilidad pasa al funcionario",
+      "el daño se presume antijurídico"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo.",
+    "referencia": "II.6 · 2.2 Que la lesión sea antijurídica"
+  },
+  {
+    "id": "t18-p006",
+    "tema": 15,
+    "pregunta": "¿Cuál es la única causa de exclusión expresamente prevista en el art. 106.2 CE?",
+    "opciones": [
+      "Caso fortuito",
+      "Fuerza mayor",
+      "Culpa leve del perjudicado",
+      "Riesgo del desarrollo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión.",
+    "referencia": "II.6 · 2.4 Que no concurra fuerza mayor"
+  },
+  {
+    "id": "t18-p007",
+    "tema": 15,
+    "pregunta": "Los daños derivados de riesgos del desarrollo:",
+    "opciones": [
+      "siempre son indemnizables",
+      "no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes",
+      "solo se indemnizan si los aprueba el Senado",
+      "se convierten automáticamente en responsabilidad penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema los excluye en el art. 34.4 LRJSP.",
+    "referencia": "II.6 · 3.4 Riesgos del desarrollo"
+  },
+  {
+    "id": "t18-p008",
+    "tema": 15,
+    "pregunta": "Según el art. 67 LPACAP, ¿qué plazo general tiene el interesado para presentar la reclamación?",
+    "opciones": [
+      "6 meses",
+      "1 año",
+      "2 años",
+      "4 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija el plazo de 1 año y lo califica como prescripción.",
+    "referencia": "II.6 · 5.1 Iniciación (art. 67 LPACAP)"
+  },
+  {
+    "id": "t18-p009",
+    "tema": 15,
+    "pregunta": "El procedimiento de responsabilidad patrimonial debe resolverse en:",
+    "opciones": [
       "3 meses",
-      "6 meses"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema señala un plazo supletorio de 3 meses si no hay uno específico.",
-    "referencia": "Tema 15, 4.1 Deber de resolver"
-  },
-  {
-    "id": "t15-p007",
-    "tema": 15,
-    "pregunta": "El transcurso del plazo máximo de resolución puede suspenderse por:",
-    "opciones": [
-      "solicitud de subsanación y solicitud de informes determinantes",
-      "la mera voluntad del funcionario",
-      "la interposición de cualquier recurso",
-      "el silencio del interesado"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema enumera varios supuestos tasados de suspensión.",
-    "referencia": "Tema 15, 4.3 Suspensión del plazo para resolver"
-  },
-  {
-    "id": "t15-p008",
-    "tema": 15,
-    "pregunta": "¿Qué tipo de silencio se produce con carácter general en los procedimientos iniciados a solicitud del interesado?",
-    "opciones": [
-      "Negativo",
-      "Positivo",
-      "Caducidad",
-      "Inexistencia de efectos"
+      "6 meses",
+      "9 meses",
+      "1 año"
     ],
     "correcta": 1,
-    "explicacion": "El tema afirma que la regla general es el silencio positivo.",
-    "referencia": "Tema 15, 5.2 Silencio positivo"
+    "explicacion": "El tema fija 6 meses.",
+    "referencia": "II.6 · 5.3 Resolución y plazo"
   },
   {
-    "id": "t15-p009",
+    "id": "t18-p010",
     "tema": 15,
-    "pregunta": "En los recursos administrativos el silencio es con carácter general:",
+    "pregunta": "¿Qué dictamen es obligatorio cuando la reclamación supera 50.000 euros?",
     "opciones": [
-      "positivo",
-      "negativo",
-      "inexistente",
-      "siempre estimatorio"
+      "Consejo de Estado u órgano consultivo equivalente",
+      "Tribunal Supremo",
+      "Defensor del Pueblo",
+      "Mesa de Contratación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo exige expresamente en la instrucción.",
+    "referencia": "II.6 · 5.2 Instrucción"
+  },
+  {
+    "id": "t18-p011",
+    "tema": 15,
+    "pregunta": "Según el art. 36 LRJSP, la acción de regreso permite a la Administración reclamar al funcionario si actuó con:",
+    "opciones": [
+      "dolo, culpa o negligencia grave",
+      "mera discrepancia técnica",
+      "una simple duda razonable",
+      "cualquier error material"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo condiciona a esa gravedad.",
+    "referencia": "II.6 · 7.2 La acción de regreso (art. 36 LRJSP)"
+  },
+  {
+    "id": "t18-p012",
+    "tema": 15,
+    "pregunta": "¿Cuál de los siguientes supuestos forma parte de la responsabilidad patrimonial del Estado legislador?",
+    "opciones": [
+      "Solo por reglamentos ilegales",
+      "Por leyes declaradas inconstitucionales y por leyes contrarias al Derecho de la UE",
+      "Solo por contratos administrativos",
+      "Solo por sentencias penales"
     ],
     "correcta": 1,
-    "explicacion": "El tema establece que en los recursos administrativos el silencio es siempre negativo, salvo la excepción indicada en la alzada.",
-    "referencia": "Tema 15, 5.4 Silencio en procedimientos de impugnación"
+    "explicacion": "El tema contempla esos dos supuestos especiales.",
+    "referencia": "II.6 · 6.1 Responsabilidad del Estado legislador"
   },
   {
-    "id": "t15-p010",
+    "id": "t18-p013",
     "tema": 15,
-    "pregunta": "¿Qué ocurre si el procedimiento iniciado a solicitud del interesado permanece paralizado por causa imputable a éste durante más de 3 meses?",
+    "pregunta": "La indemnización debe ser:",
     "opciones": [
-      "Se archiva por desistimiento automáticamente",
-      "Se declara la caducidad",
-      "Se produce silencio positivo",
-      "Se convierte en procedimiento de oficio"
+      "inferior al daño para evitar enriquecimiento",
+      "íntegra, ni inferior ni superior al daño real",
+      "siempre simbólica",
+      "fijada libremente por el perjudicado"
     ],
     "correcta": 1,
-    "explicacion": "El tema regula la caducidad para esos supuestos.",
-    "referencia": "Tema 15, 3.3.3 Caducidad"
+    "explicacion": "El tema recoge el principio de indemnidad.",
+    "referencia": "II.6 · 4.1 Principio de indemnidad"
   },
   {
-    "id": "t15-p011",
+    "id": "t18-p014",
     "tema": 15,
-    "pregunta": "¿Cuál de los siguientes es un derecho de los interesados?",
+    "pregunta": "¿Qué elemento del daño se exige para que nazca la responsabilidad patrimonial?",
     "opciones": [
-      "Conocer el estado de tramitación del procedimiento",
-      "Nombrar al instructor",
-      "Dictar el acto final",
-      "Vetar la resolución"
+      "Que sea evaluable económicamente",
+      "Que sea siempre moral",
+      "Que sea aprobado por el Consejo de Estado",
+      "Que sea imputable penalmente"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese derecho expresamente en el art. 53 LPACAP.",
-    "referencia": "Tema 15, 2.4 Derechos de los interesados"
+    "explicacion": "El tema exige la evaluabilidad económica junto con la efectividad e individualización.",
+    "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada"
   },
   {
-    "id": "t15-p012",
+    "id": "t18-p015",
     "tema": 15,
-    "pregunta": "La representación puede acreditarse mediante:",
+    "pregunta": "La responsabilidad patrimonial es compatible con:",
     "opciones": [
-      "apoderamiento apud acta o Registro Electrónico de Apoderamientos",
-      "simple llamada telefónica",
-      "comparecencia ante la policía",
-      "certificado del alcalde"
+      "la responsabilidad penal y disciplinaria",
+      "la derogación de la ley",
+      "la suspensión automática del procedimiento administrativo",
+      "la nulidad del expediente"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos medios de acreditación.",
-    "referencia": "Tema 15, 2.2 La representación"
+    "explicacion": "El tema señala esa compatibilidad expresamente.",
+    "referencia": "II.6 · 7.3 Responsabilidad penal / 7.4 Responsabilidad disciplinaria"
   },
   {
-    "id": "t15-p013",
+    "id": "t18-p016",
     "tema": 15,
-    "pregunta": "¿En qué plazo debe practicarse la notificación de un acto?",
+    "pregunta": "De acuerdo con el art. 32 LRJSP y con el Tema 18, para que nazca la responsabilidad patrimonial es necesario que la lesion sea:",
     "opciones": [
-      "5 días",
-      "10 días",
-      "20 días",
-      "1 mes"
+      "Efectiva, evaluable economicamente e individualizada",
+      "Solamente ilicita desde el punto de vista penal",
+      "Exclusivamente imputable a un funcionario concreto",
+      "Necesariamente producida por funcionamiento anormal del servicio"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige lesion efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal.",
+    "referencia": "II.6 · 2.1 Lesion efectiva, evaluable economicamente e individualizada"
+  },
+  {
+    "id": "t18-p017",
+    "tema": 15,
+    "pregunta": "Segun el Tema 18, cuando la indemnizacion reclamada sea igual o superior a 50.000 euros, durante la instruccion del procedimiento debera recabarse dictamen de:",
+    "opciones": [
+      "La Intervencion General del Estado",
+      "El Consejo de Estado u organo consultivo equivalente de la Comunidad Autonoma",
+      "El Ministerio Fiscal",
+      "La Abogacia del Estado en todo caso"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 10 días desde que el acto ha sido dictado.",
-    "referencia": "Tema 15, 4.2 La notificación"
-  },
-  {
-    "id": "t15-p014",
-    "tema": 15,
-    "pregunta": "Un silencio positivo produce:",
-    "opciones": [
-      "una mera ficción sin efectos jurídicos",
-      "la estimación automática de la solicitud",
-      "la caducidad del expediente",
-      "la nulidad del procedimiento"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema explica que el silencio positivo se produce de forma automática por el mero transcurso del plazo.",
-    "referencia": "Tema 15, 5.2 Silencio positivo"
-  },
-  {
-    "id": "t15-p015",
-    "tema": 15,
-    "pregunta": "La tramitación de urgencia reduce los plazos a la mitad salvo los relativos a:",
-    "opciones": [
-      "la presentación de solicitudes y recursos",
-      "la adopción de medidas provisionales",
-      "la audiencia a los interesados",
-      "la notificación de la resolución"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema indica que la tramitación de urgencia reduce los plazos a la mitad, salvo los relativos a la presentación de solicitudes y recursos.",
-    "referencia": "Tema 15, 2.5 Términos y plazos (arts. 29-32 LPACAP)"
-  },
-  {
-    "id": "t15-p016",
-    "tema": 15,
-    "pregunta": "Según el art. 82 LPACAP, una vez instruido el procedimiento y antes de redactar la propuesta de resolución, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, puedan:",
-    "opciones": [
-      "Alegar y presentar los documentos y justificaciones que estimen pertinentes",
-      "Interponer recurso de alzada",
-      "Solicitar la revisión de oficio del acto",
-      "Formular exclusivamente prueba pericial"
-    ],
-    "correcta": 0,
-    "explicacion": "El trámite de audiencia sirve para que los interesados aleguen y presenten documentos y justificaciones antes de la resolución.",
-    "referencia": "Tema 15, 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
-  },
-  {
-    "id": "t15-p017",
-    "tema": 15,
-    "pregunta": "De acuerdo con el art. 82 LPACAP, el trámite de audiencia podrá omitirse cuando:",
-    "opciones": [
-      "La Administración considere suficiente el expediente, aunque existan hechos nuevos",
-      "No figuren en el procedimiento ni se tengan en cuenta otros hechos ni otras alegaciones que las aducidas por el interesado",
-      "El procedimiento se haya iniciado de oficio",
-      "El interesado no haya designado representante"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema recoge expresamente esa excepción a la audiencia.",
-    "referencia": "Tema 15, 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
-  },
-  {
-    "id": "t15-p018",
-    "tema": 15,
-    "pregunta": "De acuerdo con el tema y con el art. 61 LPACAP, la iniciacion de oficio del procedimiento por peticion razonada de otros organos se produce cuando:",
-    "opciones": [
-      "Un organo administrativo comunica al competente la existencia de circunstancias que justifican la iniciacion del procedimiento",
-      "El interesado renuncia expresamente a sus derechos",
-      "El organo competente dicta directamente la resolucion final",
-      "La Administracion sustituye el tramite de audiencia por una consulta publica"
-    ],
-    "correcta": 0,
-    "explicacion": "La peticion razonada consiste en la comunicacion a otro organo competente de hechos o circunstancias que justifican la iniciacion de oficio.",
-    "referencia": "Tema 15, 2.2 Iniciacion de oficio"
-  },
-  {
-    "id": "t15-p019",
-    "tema": 15,
-    "pregunta": "Segun el art. 76 LPACAP, los interesados podran formular alegaciones y aportar documentos y otros elementos de juicio:",
-    "opciones": [
-      "Solo dentro de los diez dias siguientes a la iniciacion",
-      "Unicamente durante el tramite de informacion publica",
-      "En cualquier momento del procedimiento anterior al tramite de audiencia",
-      "Solo despues de la propuesta de resolucion"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema recoge expresamente que las alegaciones pueden formularse en cualquier momento anterior al tramite de audiencia.",
-    "referencia": "Tema 15, 3.2.1 Alegaciones (art. 76 LPACAP)"
-  },
-  {
-    "id": "t15-p020",
-    "tema": 15,
-    "pregunta": "De conformidad con el Tema 15, la comparecencia en el tramite de informacion publica:",
-    "opciones": [
-      "Otorga siempre la condicion de interesado",
-      "Solo otorga legitimacion para recurrir en alzada",
-      "No otorga por si sola la condicion de interesado",
-      "Sustituye al tramite de audiencia de los interesados"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema señala expresamente que comparecer en la informacion publica no atribuye por si solo la condicion de interesado.",
-    "referencia": "Tema 15, 3.2.5 Informacion publica (art. 83 LPACAP)"
-  },
-  {
-    "id": "t15-p021",
-    "tema": 15,
-    "pregunta": "De acuerdo con el art. 87 LPACAP, las actuaciones complementarias indispensables para resolver el procedimiento deberan practicarse en un plazo:",
-    "opciones": [
-      "No superior a quince dias",
-      "No inferior a diez dias ni superior a quince dias",
-      "De siete dias",
-      "De veinte dias"
-    ],
-    "correcta": 0,
-    "explicacion": "El plazo maximo para practicar las actuaciones complementarias es de quince dias.",
-    "referencia": "Tema 15, 3.3.1 Resolucion (art. 88 LPACAP)"
+    "explicacion": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
+    "referencia": "II.6 · 5.2 Instruccion"
   }
 ]

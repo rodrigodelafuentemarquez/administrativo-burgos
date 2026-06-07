@@ -1,310 +1,296 @@
 [
   {
-    "id": "t34-p001",
+    "id": "t35-p001",
     "tema": 34,
-    "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",
+    "pregunta": "El art. 13 LPACAP reconoce el derecho de las personas a:",
     "opciones": [
-      "la tramitación de procedimientos, la prestación de servicios y las relaciones con los ciudadanos",
-      "la sustitución del personal funcionario por robots",
-      "la recaudación tributaria exclusiva",
-      "la publicación de leyes orgánicas"
+      "comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico",
+      "aplicar sanciones a los funcionarios",
+      "aprobar presupuestos",
+      "dictar reglamentos"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa definición de e-Administración.",
-    "referencia": "Tema 34, 1.1 Concepto"
+    "explicacion": "El tema lo enumera entre los derechos del catálogo general.",
+    "referencia": "V.3 · 1.2 El catálogo general de derechos (art. 13 LPACAP)"
   },
   {
-    "id": "t34-p002",
+    "id": "t35-p002",
     "tema": 34,
-    "pregunta": "La LPACAP y la LRJSP integran la administración electrónica como forma:",
+    "pregunta": "Según el art. 13 LPACAP, los ciudadanos tienen derecho a ser asistidos en el uso de medios electrónicos porque:",
     "opciones": [
-      "ordinaria y preferente de actuación de las Administraciones Públicas",
-      "opcional y residual",
-      "exclusivamente interna y privada",
-      "solo para grandes empresas"
+      "nadie quede excluido por carecer de medios o conocimientos suficientes",
+      "solo los funcionarios pueden usar internet",
+      "los ciudadanos no pueden actuar por sí mismos",
+      "la administración electrónica es obligatoria sin apoyo"
     ],
     "correcta": 0,
-    "explicacion": "El tema la eleva a forma ordinaria.",
-    "referencia": "Tema 34, 1.2 Evolución normativa"
+    "explicacion": "El tema lo vincula a la inclusión digital.",
+    "referencia": "V.3 · 1.2 El catálogo general de derechos (art. 13 LPACAP)"
   },
   {
-    "id": "t34-p003",
+    "id": "t35-p003",
     "tema": 34,
-    "pregunta": "Uno de los principios de la administración electrónica es:",
+    "pregunta": "Según el art. 53 LPACAP, los interesados pueden conocer en cualquier momento:",
     "opciones": [
-      "la interoperabilidad",
-      "la opacidad",
-      "la arbitrariedad",
-      "la reserva de papel"
+      "el estado de tramitación de los procedimientos en los que tengan la condición de interesado",
+      "solo el presupuesto del órgano gestor",
+      "únicamente la nómina del alcalde",
+      "las conversaciones internas de otros procedimientos"
     ],
     "correcta": 0,
-    "explicacion": "El tema la enumera entre los principios.",
-    "referencia": "Tema 34, 1.3 Principios de la administración electrónica"
+    "explicacion": "El tema lo reconoce en el art. 53 LPACAP.",
+    "referencia": "V.3 · 1.3 Derechos específicos en el procedimiento administrativo (art. 53 LPACAP)"
   },
   {
-    "id": "t34-p004",
+    "id": "t35-p004",
     "tema": 34,
-    "pregunta": "La sede electrónica es:",
+    "pregunta": "Según el art. 53 LPACAP, los interesados pueden no presentar documentos que:",
     "opciones": [
-      "la dirección electrónica de titularidad, gestión y administración de una Administración Pública",
-      "un simple enlace de redes sociales",
-      "una carpeta de archivos físicos",
-      "el correo personal del alcalde"
+      "ya se encuentren en poder de las Administraciones Públicas o hayan sido elaborados por éstas",
+      "sean escritos en letra pequeña",
+      "estén en papel y no en digital",
+      "contengan firmas manuscritas"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como equivalente electrónico de las oficinas presenciales.",
-    "referencia": "Tema 34, 2.1 Concepto"
+    "explicacion": "El tema recoge esa dispensa documental.",
+    "referencia": "V.3 · 1.3 Derechos específicos en el procedimiento administrativo (art. 53 LPACAP)"
   },
   {
-    "id": "t34-p005",
+    "id": "t35-p005",
     "tema": 34,
-    "pregunta": "El Punto de Acceso General electrónico de la AGE es:",
+    "pregunta": "A efectos del procedimiento administrativo, tiene la condición de interesado:",
     "opciones": [
-      "el portal web de entrada única a los servicios electrónicos del Estado",
-      "un archivo municipal",
-      "una oficina de registro físico",
-      "una base de datos de sanciones"
+      "la persona física o jurídica que ostenta una posición jurídica reconocida en el procedimiento administrativo",
+      "solo quien presenta una demanda judicial",
+      "únicamente el funcionario tramitador",
+      "todo ciudadano con DNI"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como puerta de entrada única.",
-    "referencia": "Tema 34, 2.3 Punto de Acceso General electrónico de la AGE"
+    "explicacion": "El tema da esa definición de interesado.",
+    "referencia": "V.3 · 2.1 Concepto de interesado"
   },
   {
-    "id": "t34-p006",
+    "id": "t35-p006",
     "tema": 34,
-    "pregunta": "Un sistema de identificación admitido es:",
+    "pregunta": "La representación ante la Administración puede acreditarse mediante:",
     "opciones": [
-      "el DNI electrónico",
-      "solo el pasaporte ordinario",
-      "únicamente la firma manuscrita",
-      "el número de afiliación a la Seguridad Social"
+      "apoderamiento apud acta, escritura pública o documento privado con firma legitimada",
+      "solo mediante notario y testigos en todo caso",
+      "únicamente por SMS",
+      "solo mediante comparecencia judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el DNIe entre los sistemas admitidos.",
-    "referencia": "Tema 34, 3.1 La identificación electrónica de los ciudadanos"
+    "explicacion": "El tema enumera esas vías de acreditación.",
+    "referencia": "V.3 · 2.4 La representación"
   },
   {
-    "id": "t34-p007",
+    "id": "t35-p007",
     "tema": 34,
-    "pregunta": "La firma electrónica sirve para garantizar:",
+    "pregunta": "Si el representante no acredita la representación, la Administración debe requerirle para que lo haga en un plazo de:",
     "opciones": [
-      "la autenticidad del firmante y la integridad del documento firmado",
-      "la velocidad de conexión",
-      "la presencia física del interesado",
-      "la reserva del registro"
+      "10 días hábiles",
+      "24 horas",
+      "1 mes",
+      "5 días naturales"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye autenticidad e integridad.",
-    "referencia": "Tema 34, 3.2 La firma electrónica"
+    "explicacion": "El tema fija ese plazo de subsanación.",
+    "referencia": "V.3 · 2.4 La representación"
   },
   {
-    "id": "t34-p008",
+    "id": "t35-p008",
     "tema": 34,
-    "pregunta": "El procedimiento administrativo puede iniciarse electrónicamente a través de:",
+    "pregunta": "Según el art. 82 LPACAP, el trámite de audiencia permite a los interesados:",
     "opciones": [
-      "la sede electrónica o el registro electrónico",
-      "solo el buzón postal",
-      "únicamente el tablón de anuncios",
-      "solo el teléfono de atención"
+      "pronunciarse sobre el contenido del expediente antes de la resolución",
+      "aprobar el presupuesto",
+      "nombrar al órgano instructor",
+      "convertir el expediente en edicto"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica esas vías de inicio.",
-    "referencia": "Tema 34, 4.2 Iniciación electrónica del procedimiento"
+    "explicacion": "El tema lo define así.",
+    "referencia": "V.3 · 3.2 La audiencia de los interesados (art. 82 LPACAP)"
   },
   {
-    "id": "t34-p009",
+    "id": "t35-p009",
     "tema": 34,
-    "pregunta": "El expediente electrónico debe contar con:",
+    "pregunta": "Según el art. 82 LPACAP, el plazo mínimo del trámite de audiencia es de:",
     "opciones": [
-      "un índice electrónico firmado por la Administración",
-      "un sello manual en cada hoja",
-      "un visto bueno del vecindario",
-      "una autorización judicial"
+      "10 días hábiles",
+      "3 días hábiles",
+      "1 mes",
+      "48 horas"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige ese índice firmado.",
-    "referencia": "Tema 34, 5.3 El expediente electrónico"
+    "explicacion": "El tema indica ese plazo mínimo.",
+    "referencia": "V.3 · 3.2 La audiencia de los interesados (art. 82 LPACAP)"
   },
   {
-    "id": "t34-p010",
+    "id": "t35-p010",
     "tema": 34,
-    "pregunta": "Las notificaciones se practicarán preferentemente:",
+    "pregunta": "Según el art. 83 LPACAP, el trámite de información pública permite alegar a:",
     "opciones": [
-      "por medios electrónicos",
-      "solo en papel",
-      "por teléfono móvil",
-      "por radio local"
+      "cualquier ciudadano, no solo a los interesados directos",
+      "solo al representante legal",
+      "únicamente a los funcionarios del órgano",
+      "solo al presidente de la corporación"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo dice expresamente.",
-    "referencia": "Tema 34, 6.1 La notificación electrónica como medio preferente"
+    "explicacion": "El tema señala que no se limita a interesados directos.",
+    "referencia": "V.3 · 3.3 La información pública (art. 83 LPACAP)"
   },
   {
-    "id": "t34-p011",
+    "id": "t35-p011",
     "tema": 34,
-    "pregunta": "La DEHú es:",
+    "pregunta": "La participación en la elaboración de normas reglamentarias incluye una consulta pública previa sobre:",
     "opciones": [
-      "el sistema de notificación electrónica de la Administración General del Estado",
-      "un archivo histórico digital",
-      "un motor de búsqueda",
-      "una plataforma de firma de presupuestos"
+      "la necesidad y oportunidad de la norma, sus objetivos y alternativas",
+      "la nómina de personal",
+      "los tributos municipales",
+      "el horario de registro"
     ],
     "correcta": 0,
-    "explicacion": "El tema la identifica como sistema de notificación electrónica de referencia.",
-    "referencia": "Tema 34, 6.1 La notificación electrónica como medio preferente"
+    "explicacion": "El tema recoge esa consulta previa.",
+    "referencia": "V.3 · 3.4 La participación en la elaboración de normas reglamentarias"
   },
   {
-    "id": "t34-p012",
+    "id": "t35-p012",
     "tema": 34,
-    "pregunta": "Si transcurren 10 días naturales sin acceder a una notificación electrónica en DEHú, la notificación se entiende:",
+    "pregunta": "La iniciativa legislativa popular exige al menos:",
     "opciones": [
-      "rechazada",
-      "estimada",
-      "suspendida",
-      "nula"
+      "500.000 firmas acreditadas",
+      "50.000 firmas",
+      "1.000 firmas",
+      "100.000 firmas"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce ese efecto.",
-    "referencia": "Tema 34, 6.1 La notificación electrónica como medio preferente"
+    "explicacion": "El tema cita ese número constitucional.",
+    "referencia": "V.3 · 3.5 La iniciativa legislativa popular y la petición"
   },
   {
-    "id": "t34-p013",
+    "id": "t35-p013",
     "tema": 34,
-    "pregunta": "La actuación automatizada es aquella en la que determinados actos pueden ser adoptados:",
+    "pregunta": "El derecho de petición:",
     "opciones": [
-      "sin intervención directa de un empleado público, cuando el procedimiento pueda resolverse mediante reglas predeterminadas",
-      "solo por el interventor",
-      "únicamente en papel",
-      "mediante resolución judicial"
+      "obliga a acusar recibo e informar del resultado, pero no garantiza resolución favorable",
+      "equivale a una demanda judicial",
+      "sirve para dictar reglamentos",
+      "solo puede ejercerse por funcionarios"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así.",
-    "referencia": "Tema 34, 4.3 Instrucción electrónica del procedimiento"
+    "explicacion": "El tema explica su alcance.",
+    "referencia": "V.3 · 3.5 La iniciativa legislativa popular y la petición"
   },
   {
-    "id": "t34-p014",
+    "id": "t35-p014",
     "tema": 34,
-    "pregunta": "El ENS es el esquema que establece:",
+    "pregunta": "El art. 18 LRBRL reconoce a los vecinos el derecho a:",
     "opciones": [
-      "los principios y requisitos de seguridad en los sistemas de información del sector público",
-      "las reglas del presupuesto local",
-      "las clases de personal laboral",
-      "la estructura del calendario laboral"
+      "ser elector y elegible en las elecciones municipales",
+      "nombrar al Presidente de la Diputación",
+      "sustituir al Pleno",
+      "vetar el presupuesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo menciona como marco de seguridad.",
-    "referencia": "Tema 34, 1.2 Evolución normativa / referencias"
+    "explicacion": "El tema lo recoge como derecho del vecino.",
+    "referencia": "V.3 · 4.2 Derechos de los vecinos (art. 18 LRBRL)"
   },
   {
-    "id": "t34-p015",
+    "id": "t35-p015",
     "tema": 34,
-    "pregunta": "El ENI establece:",
+    "pregunta": "Según el art. 13 LPACAP, los ciudadanos tienen derecho a ser asistidos en el uso de medios electrónicos mediante:",
     "opciones": [
-      "los requisitos técnicos de interoperabilidad para documentos y expedientes electrónicos",
-      "las normas tributarias locales",
-      "los límites de contratación menor",
-      "el tratamiento de datos de personal"
+      "asistencia presencial y electrónica por la Administración",
+      "solo videoconferencia privada",
+      "la intervención exclusiva de un gestor privado",
+      "el uso obligatorio de papel"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como marco técnico de interoperabilidad.",
-    "referencia": "Tema 34, 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico"
+    "explicacion": "El tema lo conecta con la asistencia garantizada por la Administración.",
+    "referencia": "V.3 · 1.2 El catálogo general de derechos (art. 13 LPACAP)"
   },
   {
-    "id": "t34-p016",
+    "id": "t48-p011",
     "tema": 34,
-    "pregunta": "El código seguro de verificación (CSV) permite:",
+    "pregunta": "El concepto moderno de discapacidad se basa en:",
     "opciones": [
-      "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
-      "sustituir en todo caso la firma electrónica cualificada del ciudadano",
-      "presentar solicitudes sin identificación previa",
-      "clasificar los sistemas conforme al ENS"
-    ],
-    "correcta": 0,
-    "explicacion": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento.",
-    "referencia": "Tema 34, 3.3 Identificación de las Administraciones Públicas"
-  },
-  {
-    "id": "t34-p017",
-    "tema": 34,
-    "pregunta": "La presentación electrónica de una solicitud genera automáticamente un recibo con:",
-    "opciones": [
-      "número de registro, fecha, hora e identificación del documento presentado",
-      "solo la identidad del funcionario que tramitará el expediente",
-      "únicamente el número de expediente definitivo",
-      "el texto íntegro de la resolución final"
-    ],
-    "correcta": 0,
-    "explicacion": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales.",
-    "referencia": "Tema 34, 4.2 Iniciación electrónica del procedimiento"
-  },
-  {
-    "id": "t34-p018",
-    "tema": 34,
-    "pregunta": "El aviso de que existe una notificación electrónica pendiente:",
-    "opciones": [
-      "no sustituye a la notificación",
-      "equivale por sí mismo a la práctica de la notificación",
-      "amplía automáticamente el plazo de 10 días",
-      "solo es obligatorio en los procedimientos sancionadores"
-    ],
-    "correcta": 0,
-    "explicacion": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico.",
-    "referencia": "Tema 34, 6.2 El aviso de notificación"
-  },
-  {
-    "id": "t34-p019",
-    "tema": 34,
-    "pregunta": "El SIR materializa principalmente el principio de:",
-    "opciones": [
-      "ventanilla única",
-      "jerarquía normativa",
-      "inderogabilidad singular del reglamento",
-      "desconcentración funcional"
-    ],
-    "correcta": 0,
-    "explicacion": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria.",
-    "referencia": "Tema 34, 7.3 El Sistema de Interconexión de Registros (SIR)"
-  },
-  {
-    "id": "t34-p020",
-    "tema": 34,
-    "pregunta": "Entre las obligaciones de las Entidades Locales en materia de administración electrónica figura disponer de:",
-    "opciones": [
-      "un catálogo de procedimientos disponible en la sede electrónica",
-      "una oficina física abierta las 24 horas del día",
-      "un sistema propio de certificación notarial",
-      "un registro exclusivamente en soporte papel"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema incluye expresamente el catálogo de procedimientos entre los elementos que deben existir en la sede electrónica local.",
-    "referencia": "Tema 34, 8.1 Obligaciones de las Entidades Locales"
-  },
-  {
-    "id": "t34-p021",
-    "tema": 34,
-    "pregunta": "De acuerdo con el Tema 34, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con caracter general:",
-    "opciones": [
-      "Unicamente en soporte papel para garantizar su autenticidad",
-      "Por medios electronicos",
-      "En cualquier soporte, sin preferencia legal",
-      "Solo en formato fisico cuando afecten a derechos de los particulares"
+      "El modelo médico",
+      "El modelo social",
+      "El modelo asistencial puro",
+      "El modelo sancionador"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que la tramitacion ordinaria es electronica y que los documentos administrativos deben almacenarse por medios electronicos.",
-    "referencia": "Tema 34, 4.1 La tramitacion electronica como forma ordinaria"
+    "explicacion": "El tema dice que hoy se entiende desde el modelo social.",
+    "referencia": "V.3 · 5.1 El concepto de discapacidad"
   },
   {
-    "id": "t34-p022",
+    "id": "t48-p012",
     "tema": 34,
-    "pregunta": "Segun el art. 40 LRJSP y el Tema 34, las Administraciones Publicas podran identificarse mediante:",
+    "pregunta": "A efectos de la LGDPD se considera persona con discapacidad quien tenga reconocido un grado igual o superior al:",
     "opciones": [
-      "Un sello electronico basado en un certificado electronico reconocido o cualificado",
-      "Exclusivamente mediante firma manuscrita digitalizada",
-      "Unicamente mediante certificado de empleado publico",
-      "Cualquier sistema privado aunque no cumpla la legislacion de firma electronica"
+      "25%",
+      "33%",
+      "50%",
+      "65%"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija el 33%.",
+    "referencia": "V.3 · 5.2 La Ley General de derechos de las personas con discapacidad"
+  },
+  {
+    "id": "t48-p013",
+    "tema": 34,
+    "pregunta": "La cuota de reserva de empleo para personas con discapacidad en el empleo público es de al menos:",
+    "opciones": [
+      "El 2%",
+      "El 5%",
+      "El 7%",
+      "El 10%"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema señala el 7% en procesos selectivos.",
+    "referencia": "V.3 · 5.3 Medidas de empleo para personas con discapacidad"
+  },
+  {
+    "id": "t48-p014",
+    "tema": 34,
+    "pregunta": "La ley de dependencia crea el SAAD como:",
+    "opciones": [
+      "El tercer pilar del Estado de bienestar",
+      "El cuarto pilar del Estado de bienestar",
+      "Una mutualidad privada",
+      "Un régimen de pensiones"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo define como el cuarto pilar.",
+    "referencia": "V.3 · 6.1 La Ley 39/2006 de Dependencia"
+  },
+  {
+    "id": "t48-p015",
+    "tema": 34,
+    "pregunta": "Los grados de dependencia son:",
+    "opciones": [
+      "Uno, dos y tres",
+      "Ligera, media y grave",
+      "Inicial, intermedia y avanzada",
+      "Temporal, permanente y total"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge el sello electronico basado en certificado reconocido o cualificado como sistema valido de identificacion de la Administracion.",
-    "referencia": "Tema 34, 3.2 Sistemas de firma e identificacion"
+    "explicacion": "El tema establece Grado I, II y III.",
+    "referencia": "V.3 · 6.3 Grados de dependencia"
+  },
+  {
+    "id": "t48-p016",
+    "tema": 34,
+    "pregunta": "Segun el art. 26 de la Ley 39/2006 y conforme al Tema 48, el Grado II de dependencia se corresponde con:",
+    "opciones": [
+      "La dependencia moderada",
+      "La dependencia severa",
+      "La gran dependencia",
+      "La situacion de autonomia personal plena"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema identifica el Grado II con la dependencia severa.",
+    "referencia": "V.3 · 6.3 Grados de dependencia"
   }
 ]

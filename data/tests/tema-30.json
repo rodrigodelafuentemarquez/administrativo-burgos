@@ -1,282 +1,72 @@
 [
   {
-    "id": "t30-p001",
+    "id": "t44-p014",
     "tema": 30,
-    "pregunta": "El personal al servicio de las Entidades Locales queda encuadrado actualmente en:",
+    "pregunta": "El control interno previo más importante es:",
     "opciones": [
-      "el Régimen General de la Seguridad Social",
-      "el Régimen Especial de Trabajadores Autónomos",
-      "MUFACE para todo el personal",
-      "ningún régimen de Seguridad Social"
+      "El control político",
+      "La función interventora",
+      "El control financiero posterior",
+      "La fiscalización externa"
     ],
-    "correcta": 0,
-    "explicacion": "El tema concluye que el personal local queda en el Régimen General.",
-    "referencia": "Tema 30, 1.2 Encuadramiento del personal local"
+    "correcta": 1,
+    "explicacion": "La función interventora es el control interno previo esencial.",
+    "referencia": "IV.4 · 7.2 La función interventora"
   },
   {
-    "id": "t30-p002",
+    "id": "t44-p015",
     "tema": 30,
-    "pregunta": "Las Corporaciones Locales actúan a efectos de Seguridad Social como:",
+    "pregunta": "En Castilla y León, el órgano de control externo es:",
     "opciones": [
-      "empresarios cotizantes",
-      "mutuas privadas",
-      "órganos jurisdiccionales",
-      "entidades sin obligaciones de alta"
+      "La Intervención General",
+      "El Consejo de Cuentas de Castilla y León",
+      "La Tesorería General",
+      "El Tribunal Constitucional"
     ],
-    "correcta": 0,
-    "explicacion": "El tema las define como empresarios a efectos de Seguridad Social.",
-    "referencia": "Tema 30, 1.3 La Corporación Local como empresario cotizante"
+    "correcta": 1,
+    "explicacion": "El Consejo de Cuentas es el OCEX autonómico citado en el tema.",
+    "referencia": "IV.4 · 7.5 Los órganos de control externo autonómicos (OCEX)"
   },
   {
-    "id": "t30-p003",
+    "id": "t44-p019",
     "tema": 30,
-    "pregunta": "La acción protectora del Régimen General incluye:",
+    "pregunta": "En las Entidades Locales, si la Intervención formula reparos y el órgano gestor quiere mantener el gasto, puede elevarse el asunto al:",
     "opciones": [
-      "asistencia sanitaria e incapacidad temporal",
-      "solo pensiones de jubilación",
-      "solo indemnizaciones urbanísticas",
-      "únicamente la recaudación ejecutiva"
+      "Pleno",
+      "Consejo Europeo",
+      "Banco de España",
+      "Consejo General del Poder Judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esas prestaciones dentro de la acción protectora.",
-    "referencia": "Tema 30, 2. La acción protectora del Régimen General"
+    "explicacion": "El tema señala que en las Entidades Locales los reparos pueden resolverse elevándolos al Pleno.",
+    "referencia": "IV.4 · 7.2 La función interventora"
   },
   {
-    "id": "t30-p004",
+    "id": "t44-p020",
     "tema": 30,
-    "pregunta": "La asistencia sanitaria comprende:",
+    "pregunta": "En Castilla y León, el órgano de control externo equivalente al Tribunal de Cuentas es el:",
     "opciones": [
-      "atención primaria, atención especializada y prestaciones farmacéuticas",
-      "solo cirugía hospitalaria",
-      "únicamente transporte sanitario",
-      "solo dietas y asistencias"
+      "Consejo de Cuentas de Castilla y León",
+      "Consejo Consultivo de Castilla y León",
+      "Consejo Económico y Social",
+      "Procurador del Común"
     ],
     "correcta": 0,
-    "explicacion": "El tema desarrolla esas modalidades de asistencia.",
-    "referencia": "Tema 30, 3.2 Modalidades de asistencia sanitaria"
+    "explicacion": "El OCEX de Castilla y León es el Consejo de Cuentas.",
+    "referencia": "IV.4 · 7.5 Los órganos de control externo autonómicos (OCEX)"
   },
   {
-    "id": "t30-p005",
+    "id": "t44-p024",
     "tema": 30,
-    "pregunta": "La incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
+    "pregunta": "De conformidad con la Ley Organica del Tribunal de Cuentas y con el Tema 44, al Tribunal de Cuentas le corresponde:",
     "opciones": [
-      "asistencia sanitaria de la Seguridad Social",
-      "autorización presupuestaria",
-      "designación de un interventor",
-      "suspensión de funciones"
+      "La fiscalizacion externa, permanente y consuntiva de la actividad economico-financiera del sector publico",
+      "El control financiero permanente interno de todos los departamentos",
+      "La funcion interventora previa de los actos con contenido economico",
+      "La auditoria publica interna de la Administracion General del Estado"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así en el art. 169 TRLGSS.",
-    "referencia": "Tema 30, 4.1 Concepto"
-  },
-  {
-    "id": "t30-p006",
-    "tema": 30,
-    "pregunta": "En enfermedad común o accidente no laboral el subsidio de IT es del 60 % entre los días:",
-    "opciones": [
-      "4 y 20",
-      "1 y 3",
-      "21 y 30",
-      "31 y 60"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema fija ese porcentaje para el tramo intermedio.",
-    "referencia": "Tema 30, 4.3 Subsidio económico de IT"
-  },
-  {
-    "id": "t30-p007",
-    "tema": 30,
-    "pregunta": "La duración máxima de la incapacidad temporal es de:",
-    "opciones": [
-      "365 días, prorrogables por otros 180",
-      "90 días, prorrogables por otros 30",
-      "dos años sin revisión",
-      "180 días improrrogables"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema fija ese límite de 365 + 180 días.",
-    "referencia": "Tema 30, 4.4 Duración de la IT"
-  },
-  {
-    "id": "t30-p008",
-    "tema": 30,
-    "pregunta": "La prestación por nacimiento y cuidado de menor dura, con carácter general,:",
-    "opciones": [
-      "16 semanas por cada progenitor",
-      "8 semanas por unidad familiar",
-      "30 días naturales",
-      "18 meses"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema indica 16 semanas para cada progenitor.",
-    "referencia": "Tema 30, 5.2 Duración del permiso"
-  },
-  {
-    "id": "t30-p009",
-    "tema": 30,
-    "pregunta": "Las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son:",
-    "opciones": [
-      "obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento",
-      "voluntarias y acumulables al final",
-      "solo aplicables al segundo progenitor",
-      "sustituibles por compensación económica"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema las declara obligatorias e ininterrumpidas.",
-    "referencia": "Tema 30, 5.2 Duración del permiso"
-  },
-  {
-    "id": "t30-p010",
-    "tema": 30,
-    "pregunta": "La prestación económica por nacimiento y cuidado de menor, equivale al:",
-    "opciones": [
-      "100 % de la base reguladora",
-      "75 % de la base mínima",
-      "60 % de la nómina",
-      "50 % del salario mensual"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema fija el 100 % de la base reguladora.",
-    "referencia": "Tema 30, 5.3 Cuantía del subsidio"
-  },
-  {
-    "id": "t30-p011",
-    "tema": 30,
-    "pregunta": "La incapacidad permanente total inhabilita al trabajador para:",
-    "opciones": [
-      "todas o las fundamentales tareas de su profesión habitual",
-      "cualquier trabajo retribuido en cualquier caso",
-      "solo las tareas de administración",
-      "únicamente los trabajos nocturnos"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema la define así y permite otra profesión distinta.",
-    "referencia": "Tema 30, 6.2 Grados de incapacidad permanente"
-  },
-  {
-    "id": "t30-p012",
-    "tema": 30,
-    "pregunta": "El Presupuesto de las Entidades Locales es:",
-    "opciones": [
-      "la expresión cifrada, conjunta y sistemática de obligaciones máximas y derechos previstos para el ejercicio",
-      "un simple listado de facturas pagadas",
-      "un documento exclusivamente contable sin valor jurídico",
-      "una norma reglamentaria de personal"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema reproduce la definición del art. 162 TRLRHL.",
-    "referencia": "Tema 30, 7.1 Concepto"
-  },
-  {
-    "id": "t30-p013",
-    "tema": 30,
-    "pregunta": "El Presupuesto General integra entre otros:",
-    "opciones": [
-      "el presupuesto de la propia Entidad Local y el de sus organismos autónomos",
-      "solo el del Ayuntamiento",
-      "únicamente el de la Tesorería",
-      "solo los planes provinciales"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema recoge ese contenido en el art. 164 TRLRHL.",
-    "referencia": "Tema 30, 7.3 Contenido del Presupuesto General"
-  },
-  {
-    "id": "t30-p014",
-    "tema": 30,
-    "pregunta": "El ciclo del gasto local sigue las fases:",
-    "opciones": [
-      "A, D, O y P",
-      "R, S, T y U",
-      "I, II, III y IV",
-      "L, M, N y Ñ"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema identifica esas fases contables.",
-    "referencia": "Tema 30, 10.2 Fases del procedimiento de gasto y documentos contables"
-  },
-  {
-    "id": "t30-p015",
-    "tema": 30,
-    "pregunta": "Si el presupuesto no se aprueba antes del 1 de enero:",
-    "opciones": [
-      "queda automáticamente prorrogado el del ejercicio anterior",
-      "se disuelve la Corporación",
-      "se aplica el presupuesto del Estado",
-      "se suspende la contabilidad"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema prevé la prórroga automática.",
-    "referencia": "Tema 30, 9.2 Prórroga del presupuesto"
-  },
-  {
-    "id": "t30-p016",
-    "tema": 30,
-    "pregunta": "A partir del día 365 de baja, la competencia para emitir el alta médica corresponde al:",
-    "opciones": [
-      "INSS",
-      "Ayuntamiento respectivo",
-      "Servicio Público de Empleo Estatal",
-      "Tribunal Médico provincial"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema señala expresamente que el INSS tiene competencia para emitir altas médicas a partir del día 365 de baja.",
-    "referencia": "Tema 30, 4.5 Control de la IT"
-  },
-  {
-    "id": "t30-p017",
-    "tema": 30,
-    "pregunta": "Para acceder a la prestación por nacimiento y cuidado de menor, el período mínimo general de cotización es de:",
-    "opciones": [
-      "180 días en los últimos 7 años o 360 días a lo largo de la vida laboral",
-      "90 días en los últimos 5 años",
-      "365 días en el último año",
-      "no se exige cotización en ningún caso"
-    ],
-    "correcta": 0,
-    "explicacion": "Ese es el requisito general de cotización que recoge el tema, con especialidades por edad.",
-    "referencia": "Tema 30, 5.4 Requisitos"
-  },
-  {
-    "id": "t30-p018",
-    "tema": 30,
-    "pregunta": "La incapacidad permanente parcial da derecho a:",
-    "opciones": [
-      "una indemnización a tanto alzado de 24 mensualidades de la base reguladora",
-      "una pensión del 55 % de la base reguladora",
-      "una pensión del 100 % de la base reguladora",
-      "un complemento por gran invalidez"
-    ],
-    "correcta": 0,
-    "explicacion": "La IP parcial disminuye el rendimiento en la profesión habitual sin impedir las tareas fundamentales y se indemniza con 24 mensualidades.",
-    "referencia": "Tema 30, 6.2 Grados de incapacidad permanente"
-  },
-  {
-    "id": "t30-p019",
-    "tema": 30,
-    "pregunta": "En el estado de ingresos del presupuesto local, el capítulo 3 corresponde a:",
-    "opciones": [
-      "tasas, precios públicos y otros ingresos",
-      "transferencias corrientes",
-      "impuestos directos",
-      "ingresos patrimoniales"
-    ],
-    "correcta": 0,
-    "explicacion": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos.",
-    "referencia": "Tema 30, 8.1 Estado de ingresos (previsiones)"
-  },
-  {
-    "id": "t30-p020",
-    "tema": 30,
-    "pregunta": "Tras la aprobación inicial del presupuesto local, el expediente se somete a exposición pública durante:",
-    "opciones": [
-      "15 días hábiles",
-      "10 días naturales",
-      "1 mes",
-      "20 días hábiles"
-    ],
-    "correcta": 0,
-    "explicacion": "El presupuesto debe exponerse al público durante 15 días hábiles para posibles reclamaciones.",
-    "referencia": "Tema 30, 9.1 Fases de elaboración"
+    "explicacion": "El tema define al Tribunal de Cuentas como supremo organo fiscalizador externo del sector publico.",
+    "referencia": "IV.4 · 7.4 El Tribunal de Cuentas"
   }
 ]

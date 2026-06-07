@@ -1,0 +1,240 @@
+[
+  {
+    "id": "t01-p001",
+    "tema": 1,
+    "pregunta": "¿Qué norma ocupa la posición suprema del ordenamiento jurídico español?",
+    "opciones": [
+      "La Constitución",
+      "La ley orgánica",
+      "El reglamento",
+      "El estatuto de autonomía"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que la Constitución es la norma suprema del ordenamiento jurídico español.",
+    "referencia": "Tema 1, 1.1 Concepto y naturaleza"
+  },
+  {
+    "id": "t01-p002",
+    "tema": 1,
+    "pregunta": "¿Cuáles son los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE?",
+    "opciones": [
+      "Libertad, justicia, igualdad y pluralismo político",
+      "Unidad, autonomía, solidaridad y coordinación",
+      "Legalidad, seguridad jurídica y publicidad",
+      "Mérito, capacidad, eficacia y descentralización"
+    ],
+    "correcta": 0,
+    "explicacion": "El Tema 1 recoge expresamente los cuatro valores superiores del art. 1.1 CE.",
+    "referencia": "Tema 1, 1.2 Características"
+  },
+  {
+    "id": "t01-p003",
+    "tema": 1,
+    "pregunta": "En la estructura constitucional, ¿qué regula el Título I?",
+    "opciones": [
+      "La Corona",
+      "Los derechos y deberes fundamentales",
+      "La reforma constitucional",
+      "La organización territorial del Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "El Título I se dedica a los derechos y deberes fundamentales, entre los arts. 10 y 55 CE.",
+    "referencia": "Tema 1, 1.3 Estructura"
+  },
+  {
+    "id": "t01-p004",
+    "tema": 1,
+    "pregunta": "Según el art. 14 CE, ¿qué principio se reconoce expresamente?",
+    "opciones": [
+      "El derecho a la educación",
+      "El principio de igualdad",
+      "El derecho de petición",
+      "La libertad sindical"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario identifica el art. 14 CE con el principio de igualdad y la prohibición de discriminación.",
+    "referencia": "Tema 1, Artículo 14"
+  },
+  {
+    "id": "t01-p005",
+    "tema": 1,
+    "pregunta": "Según el art. 17 CE, ¿cuál es el plazo máximo ordinario de detención preventiva?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "96 horas"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 17 CE, tal como recoge el tema, fija un máximo de 72 horas.",
+    "referencia": "Tema 1, Sección 1ª, art. 17 CE"
+  },
+  {
+    "id": "t01-p006",
+    "tema": 1,
+    "pregunta": "¿En qué precepto constitucional se reconocen la libertad de expresión, la producción y creación literaria, artística, científica y técnica, y la libertad de información?",
+    "opciones": [
+      "Art. 18 CE",
+      "Art. 19 CE",
+      "Art. 20 CE",
+      "Art. 21 CE"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema sitúa en el art. 20 CE las libertades de expresión e información.",
+    "referencia": "Tema 1, Sección 1ª, art. 20 CE"
+  },
+  {
+    "id": "t01-p007",
+    "tema": 1,
+    "pregunta": "¿Quién es el alto comisionado de las Cortes Generales para la defensa de los derechos del Título I?",
+    "opciones": [
+      "El Tribunal Constitucional",
+      "El Defensor del Pueblo",
+      "El Consejo General del Poder Judicial",
+      "El Ministerio Fiscal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I.",
+    "referencia": "Tema 1, 3.2 El Defensor del Pueblo"
+  },
+  {
+    "id": "t01-p008",
+    "tema": 1,
+    "pregunta": "¿Cuál de los siguientes derechos puede ser suspendido en los estados de excepción o de sitio?",
+    "opciones": [
+      "El derecho a la vida",
+      "La libertad de expresión e información en los términos del art. 20.1.a) y d)",
+      "La libertad ideológica",
+      "La tutela judicial efectiva en su contenido esencial"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lista entre los derechos suspendibles en esos estados los previstos en el art. 20.1.a) y d).",
+    "referencia": "Tema 1, 4.1 Suspensión general"
+  },
+  {
+    "id": "t01-p009",
+    "tema": 1,
+    "pregunta": "¿Qué derechos pueden ser suspendidos individualmente para personas vinculadas a investigaciones por terrorismo?",
+    "opciones": [
+      "Los de los arts. 15 y 16 CE",
+      "Los de los arts. 17.2 y 18.2 y 18.3 CE",
+      "Los de los arts. 20 y 21 CE",
+      "Los de los arts. 24 y 25 CE"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la suspensión individual por terrorismo puede afectar al art. 17.2 y a los apartados 18.2 y 18.3.",
+    "referencia": "Tema 1, 4.2 Suspensión individual"
+  },
+  {
+    "id": "t01-p010",
+    "tema": 1,
+    "pregunta": "Según la Constitución, ¿qué procedimiento de reforma se aplica cuando la revisión afecta al Título Preliminar, al Título II o a la Sección 1.ª del Capítulo II del Título I?",
+    "opciones": [
+      "El procedimiento legislativo ordinario",
+      "El procedimiento agravado del art. 168 CE",
+      "La reforma por decreto-ley",
+      "La reforma por ley ordinaria sin referéndum"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que para esas materias se aplica el procedimiento agravado del art. 168 CE.",
+    "referencia": "Tema 1, 1.3 Estructura / 3.4 Suspensión y reforma"
+  },
+  {
+    "id": "t01-p011",
+    "tema": 1,
+    "pregunta": "¿Qué afirma el art. 10.1 CE sobre la dignidad de la persona y los derechos inviolables?",
+    "opciones": [
+      "Que son fundamento del orden político y de la paz social",
+      "Que solo vinculan al legislador",
+      "Que dependen de una ley orgánica",
+      "Que se aplican solo a los extranjeros"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge que la dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.",
+    "referencia": "Tema 1, 2.1 Artículo 10 CE"
+  },
+  {
+    "id": "t01-p012",
+    "tema": 1,
+    "pregunta": "¿A qué edad alcanza la mayoría de edad una persona?",
+    "opciones": [
+      "16 años",
+      "18 años",
+      "21 años",
+      "25 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la mayoría de edad se alcanza a los 18 años.",
+    "referencia": "Tema 1, 2.2 Capítulo I — Españoles y extranjeros"
+  },
+  {
+    "id": "t01-p013",
+    "tema": 1,
+    "pregunta": "Según el art. 15 CE, ¿cuál de los siguientes derechos incluye la prohibición de la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra?",
+    "opciones": [
+      "El derecho a la vida y a la integridad física y moral",
+      "La libertad ideológica, religiosa y de culto",
+      "El derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+      "La libertad de residencia y circulación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
+    "referencia": "Tema 1, Sección 1ª, art. 15 CE"
+  },
+  {
+    "id": "t01-p014",
+    "tema": 1,
+    "pregunta": "Según el art. 21 CE, ¿qué característica tienen las reuniones en lugares de tránsito público y las manifestaciones?",
+    "opciones": [
+      "Necesitan autorización previa",
+      "Exigen comunicación previa a la autoridad",
+      "Son siempre secretas",
+      "Solo pueden celebrarse por la noche"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que no necesitan autorización previa, aunque sí comunicación previa a la autoridad.",
+    "referencia": "Tema 1, Sección 1ª, art. 21 CE"
+  },
+  {
+    "id": "t01-p015",
+    "tema": 1,
+    "pregunta": "¿Qué naturaleza tienen los principios rectores de la política social y económica?",
+    "opciones": [
+      "Son derechos directamente exigibles ante cualquier tribunal",
+      "Son mandatos al legislador y solo alegables según las leyes que los desarrollen",
+      "Son normas de rango reglamentario",
+      "Solo obligan a las Comunidades Autónomas"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario explica que no son derechos subjetivos directamente exigibles, sino mandatos al legislador.",
+    "referencia": "Tema 1, 2.4 Capítulo III — Principios rectores de la política social y económica"
+  },
+  {
+    "id": "t01-p016",
+    "tema": 1,
+    "pregunta": "Según lo dispuesto en el art. 55.1 de la Constitución Española de 1978, en el estado de sitio puede ser suspendido el derecho a:",
+    "opciones": [
+      "La negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios",
+      "Comunicar o recibir libremente información veraz por cualquier medio de difusión",
+      "La libertad de empresa",
+      "La producción y creación literaria, artística, científica y técnica"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema incluye entre los derechos suspendibles del art. 55.1 CE la libertad de información del art. 20.1.d).",
+    "referencia": "Tema 1, 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio"
+  },
+  {
+    "id": "t01-p017",
+    "tema": 1,
+    "pregunta": "De acuerdo con el art. 53.3 de la Constitución Española de 1978, los principios rectores de la política social y económica:",
+    "opciones": [
+      "Son derechos subjetivos directamente exigibles ante cualquier tribunal",
+      "Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen",
+      "Solo vinculan al Gobierno, pero no al legislador",
+      "Pueden suspenderse en el estado de excepción en los mismos términos que los derechos fundamentales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
+    "referencia": "Tema 1, 2.4 Capítulo III — Principios rectores de la política social y económica"
+  }
+]

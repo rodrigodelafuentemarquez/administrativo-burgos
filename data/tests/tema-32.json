@@ -1,212 +1,170 @@
 [
   {
-    "id": "t32-p001",
+    "id": "t48-p001",
     "tema": 32,
-    "pregunta": "Un documento es:",
+    "pregunta": "El fundamento constitucional de la igualdad entre mujeres y hombres incluye:",
     "opciones": [
-      "cualquier soporte material o digital que contiene información y puede ser leído, reproducido o percibido",
-      "solo un escrito en papel firmado",
-      "únicamente un archivo electrónico con firma",
-      "solo una resolución administrativa"
+      "1.1 CE",
+      "9.2 CE",
+      "14 CE",
+      "Todas las anteriores"
     ],
-    "correcta": 0,
-    "explicacion": "El tema da esa definición amplia.",
-    "referencia": "Tema 32, 1.1 Concepto general de documento"
+    "correcta": 3,
+    "explicacion": "El tema cita los tres preceptos como base constitucional.",
+    "referencia": "V.1 · 1. Fundamento constitucional y normativo"
   },
   {
-    "id": "t32-p002",
+    "id": "t48-p002",
     "tema": 32,
-    "pregunta": "El documento administrativo es aquel que ha sido producido, recibido o gestionado por:",
+    "pregunta": "La LO 3/2007 tiene como objeto:",
     "opciones": [
-      "una Administración Pública en el ejercicio de sus competencias",
-      "un particular sin intervención administrativa",
-      "un juzgado exclusivamente",
-      "una empresa privada sin relación pública"
+      "Regular exclusivamente el divorcio",
+      "Hacer efectivo el principio de igualdad de trato y eliminar la discriminación entre mujeres y hombres",
+      "Regular solo la violencia de género",
+      "Regular solo la discapacidad"
     ],
-    "correcta": 0,
-    "explicacion": "El tema lo vincula a la actuación administrativa.",
-    "referencia": "Tema 32, 1.2 El documento administrativo: concepto"
+    "correcta": 1,
+    "explicacion": "Ese es el objeto central que señala el tema.",
+    "referencia": "V.1 · 2.1 Objeto y principios"
   },
   {
-    "id": "t32-p003",
+    "id": "t48-p003",
     "tema": 32,
-    "pregunta": "Una característica del documento administrativo es la:",
+    "pregunta": "¿Cuál de las siguientes opciones define mejor la discriminación indirecta?",
     "opciones": [
-      "autenticidad",
-      "aleatoriedad",
-      "imprecisión",
-      "opcionalidad"
+      "Trato menos favorable directo por razón de sexo",
+      "Disposición aparentemente neutra que perjudica especialmente a un sexo",
+      "Violencia física ejercida en pareja",
+      "Negación de una prestación por dependencia"
     ],
-    "correcta": 0,
-    "explicacion": "El tema enumera la autenticidad entre sus notas.",
-    "referencia": "Tema 32, 1.3 Características del documento administrativo"
+    "correcta": 1,
+    "explicacion": "La definición del tema corresponde a la discriminación indirecta.",
+    "referencia": "V.1 · 2.2 Conceptos clave de la LOIEMH"
   },
   {
-    "id": "t32-p004",
+    "id": "t48-p004",
     "tema": 32,
-    "pregunta": "La copia auténtica:",
+    "pregunta": "La presencia equilibrada en órganos y comités exige al menos:",
     "opciones": [
-      "tiene la misma validez y eficacia que el documento original",
-      "solo sirve como recuerdo",
-      "carece de valor probatorio",
-      "no puede expedirse electrónicamente"
+      "El 25% del sexo menos representado",
+      "El 33% del sexo menos representado",
+      "El 40% del sexo menos representado",
+      "El 50% del sexo menos representado"
     ],
-    "correcta": 0,
-    "explicacion": "El tema la equipara al original.",
-    "referencia": "Tema 32, 1.5 Copias de documentos"
+    "correcta": 2,
+    "explicacion": "El tema fija un mínimo del 40%.",
+    "referencia": "V.1 · 2.3 Medidas en el empleo público"
   },
   {
-    "id": "t32-p005",
+    "id": "t48-p005",
     "tema": 32,
-    "pregunta": "Un documento de decisión puede ser una:",
+    "pregunta": "Las empresas obligadas a elaborar y aplicar Plan de Igualdad son las de:",
     "opciones": [
-      "resolución",
-      "copia simple",
-      "diligencia",
-      "guía"
+      "25 o más trabajadores",
+      "50 o más trabajadores",
+      "100 o más trabajadores",
+      "250 o más trabajadores"
     ],
-    "correcta": 0,
-    "explicacion": "El tema clasifica la resolución como documento de decisión.",
-    "referencia": "Tema 32, 2.1.1 Documentos de decisión"
+    "correcta": 1,
+    "explicacion": "El tema sitúa la obligación a partir de 50 trabajadores.",
+    "referencia": "V.1 · 2.4 Los Planes de Igualdad en las empresas privadas"
   },
   {
-    "id": "t32-p006",
+    "id": "t48-p006",
     "tema": 32,
-    "pregunta": "Un acta es un documento de:",
+    "pregunta": "La violencia de género, según la LOVG, se ejerce sobre:",
     "opciones": [
-      "constancia",
-      "decisión",
-      "publicidad",
-      "notificación"
+      "Cualquier persona en cualquier ámbito",
+      "Las mujeres por quienes sean o hayan sido sus cónyuges o parejas",
+      "Solo sobre menores de edad",
+      "Solo en el ámbito laboral"
     ],
-    "correcta": 0,
-    "explicacion": "El tema la incluye entre los documentos de constancia.",
-    "referencia": "Tema 32, 2.1.2 Documentos de constancia"
+    "correcta": 1,
+    "explicacion": "El tema formula ese concepto restringido de violencia de género.",
+    "referencia": "V.1 · 3.1 Concepto y fundamento"
   },
   {
-    "id": "t32-p007",
+    "id": "t48-p007",
     "tema": 32,
-    "pregunta": "Los archivos de gestión, custodian:",
+    "pregunta": "La LOVG adopta un enfoque:",
     "opciones": [
-      "expedientes en tramitación o recién terminados, de uso frecuente",
-      "solo documentos históricos",
-      "únicamente libros contables",
-      "solo expedientes sancionadores"
+      "Exclusivamente penal",
+      "Integral y multidisciplinar",
+      "Solo asistencial",
+      "Solo procesal"
     ],
-    "correcta": 0,
-    "explicacion": "El tema sitúa ahí los expedientes activos o recientes.",
-    "referencia": "Tema 32, 3.2.1 Archivo de oficina o de gestión"
+    "correcta": 1,
+    "explicacion": "El tema recalca ese carácter integral.",
+    "referencia": "V.1 · 3.2 La Ley Orgánica 1/2004: objeto y estructura"
   },
   {
-    "id": "t32-p008",
+    "id": "t48-p008",
     "tema": 32,
-    "pregunta": "El archivo histórico conserva documentos:",
+    "pregunta": "Entre los derechos de las víctimas de violencia de género figura:",
     "opciones": [
-      "de valor histórico, artístico, cultural o científico de forma permanente",
-      "solo durante 5 años",
-      "sin valor probatorio alguno",
-      "exclusivamente tributarios"
+      "Asistencia jurídica gratuita e inmediata",
+      "Solo mediación obligatoria",
+      "Solo indemnización civil",
+      "Suspensión del empleo público sin reserva"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye conservación permanente.",
-    "referencia": "Tema 32, 3.2.3 Archivo histórico"
+    "explicacion": "El tema menciona expresamente la asistencia jurídica gratuita e inmediata.",
+    "referencia": "V.1 · 3.2 Derechos de las víctimas"
   },
   {
-    "id": "t32-p009",
+    "id": "t48-p009",
     "tema": 32,
-    "pregunta": "El cuadro de clasificación es:",
+    "pregunta": "La Ley 15/2022 introduce, entre otros, el concepto de:",
     "opciones": [
-      "la estructura jerárquica que refleja la organización de los documentos por competencias y funciones",
-      "un listado de sanciones",
-      "la relación de asistentes al Pleno",
-      "un índice de teléfonos"
+      "Discriminación por error",
+      "Discriminación salarial exclusiva",
+      "Discriminación territorial",
+      "Discriminación hereditaria"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así dentro de los instrumentos de descripción.",
-    "referencia": "Tema 32, 3.3 La organización del archivo: instrumentos de descripción"
+    "explicacion": "El tema incluye la discriminación por error en su catálogo.",
+    "referencia": "V.1 · 4.1 La Ley 15/2022, de igualdad de trato y no discriminación"
   },
   {
-    "id": "t32-p010",
+    "id": "t48-p010",
     "tema": 32,
-    "pregunta": "La signatura topográfica, indica:",
+    "pregunta": "La Ley Orgánica 4/2023 permite la rectificación registral del sexo, desde los:",
     "opciones": [
-      "la ubicación física exacta de un documento dentro del depósito de archivo",
-      "la fecha de nacimiento del interesado",
-      "la cuantía de una subvención",
-      "el código de una consulta"
+      "12 años",
+      "14 años",
+      "16 años",
+      "18 años"
     ],
-    "correcta": 0,
-    "explicacion": "El tema la presenta como localización física.",
-    "referencia": "Tema 32, 3.4 Clasificación, ordenación y signatura topográfica"
+    "correcta": 2,
+    "explicacion": "El tema establece los 16 años como regla general sin informe médico.",
+    "referencia": "V.1 · 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
   },
   {
-    "id": "t32-p011",
+    "id": "t48-p017",
     "tema": 32,
-    "pregunta": "La eliminación de documentos requiere:",
+    "pregunta": "De acuerdo con el Tema 48, la ayuda economica del art. 27 de la Ley Organica 1/2004 equivale a:",
     "opciones": [
-      "un expediente de expurgo con autorización del órgano competente",
-      "la decisión unilateral del archivero",
-      "la firma del alcalde sin más",
-      "la consulta de la comisión de fiestas"
+      "Tres mensualidades del subsidio por desempleo",
+      "Seis mensualidades del subsidio por desempleo",
+      "Doce mensualidades del salario minimo interprofesional",
+      "Una prestacion unica equivalente al IPREM anual"
     ],
-    "correcta": 0,
-    "explicacion": "El tema niega la eliminación unilateral.",
-    "referencia": "Tema 32, 3.5 La evaluación y selección documental: eliminación y conservación"
+    "correcta": 1,
+    "explicacion": "El tema senala que la ayuda economica del art. 27 LOVG equivale a seis mensualidades del subsidio por desempleo.",
+    "referencia": "V.1 · 3.2 La Ley Orgánica 1/2004: objeto y estructura"
   },
   {
-    "id": "t32-p012",
+    "id": "t48-p018",
     "tema": 32,
-    "pregunta": "El art. 105.b CE garantiza el acceso a:",
+    "pregunta": "De acuerdo con la Ley Orgánica 4/2023, ¿qué deben adoptar las Administraciones Públicas en el empleo público?",
     "opciones": [
-      "archivos y registros administrativos",
-      "los secretos de Estado sin límite",
-      "los domicilios particulares",
-      "las cuentas bancarias privadas"
+      "Protocolos de actuación frente al acoso por razón de orientación sexual o identidad de género.",
+      "Un sistema general de cupos obligatorios para toda oferta de empleo público.",
+      "Autorización judicial previa para cualquier actuación disciplinaria en esta materia.",
+      "Un régimen especial de jubilación para el personal LGTBI."
     ],
     "correcta": 0,
-    "explicacion": "El tema cita ese fundamento constitucional.",
-    "referencia": "Tema 32, 4.1 Fundamento constitucional y legal"
-  },
-  {
-    "id": "t32-p013",
-    "tema": 32,
-    "pregunta": "La LPACAP reconoce a los interesados el derecho a:",
-    "opciones": [
-      "acceder y obtener copia de los documentos del expediente en cualquier fase del procedimiento",
-      "resolver el expediente por sí mismos",
-      "publicar el contenido en prensa",
-      "sustituir el órgano competente"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema atribuye ese derecho en el procedimiento.",
-    "referencia": "Tema 32, 4.1 Fundamento constitucional y legal"
-  },
-  {
-    "id": "t32-p014",
-    "tema": 32,
-    "pregunta": "La transparencia activa se diferencia de la pasiva porque la primera consiste en:",
-    "opciones": [
-      "publicidad de oficio y la segunda en acceso a petición",
-      "la primera es secreta y la segunda pública",
-      "ambas son idénticas",
-      "solo la primera es electrónica"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema diferencia ambas modalidades en el epígrafe de acceso.",
-    "referencia": "Tema 32, 4.2 Modalidades de acceso"
-  },
-  {
-    "id": "t32-p015",
-    "tema": 32,
-    "pregunta": "El Portal de Transparencia sirve para:",
-    "opciones": [
-      "centralizar la publicación y el acceso a la información pública",
-      "archivar expedientes históricos",
-      "firmar documentos electrónicos",
-      "emitir notificaciones"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema lo presenta como portal de acceso a la información.",
-    "referencia": "Tema 32, 6.3 El Portal de Transparencia"
+    "explicacion": "El tema menciona expresamente esta medida en el ámbito del empleo público.",
+    "referencia": "V.1 · 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
   }
 ]

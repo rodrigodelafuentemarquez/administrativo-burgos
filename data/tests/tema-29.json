@@ -1,212 +1,156 @@
 [
   {
-    "id": "t29-p001",
+    "id": "t30-p014",
     "tema": 29,
-    "pregunta": "El personal laboral al servicio de las Corporaciones Locales se vincula mediante:",
+    "pregunta": "El ciclo del gasto local sigue las fases:",
     "opciones": [
-      "un contrato de trabajo",
-      "una relación estatutaria",
-      "un nombramiento vitalicio",
-      "una concesión administrativa"
+      "A, D, O y P",
+      "R, S, T y U",
+      "I, II, III y IV",
+      "L, M, N y Ñ"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo diferencia claramente del funcionario.",
-    "referencia": "Tema 29, 1.1 Concepto y régimen jurídico"
+    "explicacion": "El tema identifica esas fases contables.",
+    "referencia": "IV.3 · 10.2 Fases del procedimiento de gasto y documentos contables"
   },
   {
-    "id": "t29-p002",
+    "id": "t44-p002",
     "tema": 29,
-    "pregunta": "El personal laboral no puede desempeñar funciones que impliquen:",
+    "pregunta": "Según el artículo 134 CE, los Presupuestos Generales del Estado tienen carácter:",
     "opciones": [
-      "participación directa o indirecta en el ejercicio de potestades públicas",
-      "atención al ciudadano",
-      "mantenimiento de instalaciones",
-      "servicios generales"
+      "Mensual",
+      "Anual",
+      "Bianual",
+      "Indefinido"
     ],
-    "correcta": 0,
-    "explicacion": "El tema reserva esas funciones a funcionarios de carrera.",
-    "referencia": "Tema 29, 1.2 Posición del personal laboral respecto al funcionario"
+    "correcta": 1,
+    "explicacion": "El art. 134 CE establece el carácter anual de los presupuestos.",
+    "referencia": "IV.3 · art. 134 CE"
   },
   {
-    "id": "t29-p003",
+    "id": "t44-p008",
     "tema": 29,
-    "pregunta": "Una clase de personal laboral es:",
+    "pregunta": "La fase D del gasto público es la de:",
     "opciones": [
-      "fijo, indefinido no fijo y temporal",
-      "titular, suplente y eventual",
-      "jefe, mando y base",
-      "ordinario, extraordinario y mixto"
+      "Autorización",
+      "Disposición o compromiso",
+      "Reconocimiento de la obligación",
+      "Ordenación del pago"
     ],
-    "correcta": 0,
-    "explicacion": "El tema distingue esas tres modalidades.",
-    "referencia": "Tema 29, 1.3 Clases de personal laboral"
+    "correcta": 1,
+    "explicacion": "La disposición compromete jurídicamente a la Administración con un tercero.",
+    "referencia": "IV.3 · 5.2 Las fases de la ejecución del presupuesto de gastos"
   },
   {
-    "id": "t29-p004",
+    "id": "t44-p009",
     "tema": 29,
-    "pregunta": "El contrato de trabajo es:",
+    "pregunta": "El documento contable AD recoge:",
     "opciones": [
-      "el acuerdo por el que el trabajador presta servicios por cuenta y dentro del ámbito de organización y dirección del empleador a cambio de remuneración",
-      "la compra de un bien inmueble por la Administración",
-      "un acto unilateral del Ayuntamiento",
-      "un reglamento de funcionamiento interno"
+      "Autorización y disposición acumuladas",
+      "Autorización y pago material",
+      "Disposición y reconocimiento de obligación",
+      "Reconocimiento de obligación y pago material"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce la noción clásica del contrato laboral.",
-    "referencia": "Tema 29, 2.1 Concepto"
+    "explicacion": "AD acumula las fases A y D cuando se tramitan conjuntamente.",
+    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
   },
   {
-    "id": "t29-p005",
+    "id": "t44-p010",
     "tema": 29,
-    "pregunta": "Son notas esenciales del contrato de trabajo:",
+    "pregunta": "Qué documento contable se asocia al reconocimiento de la obligación:",
     "opciones": [
-      "voluntariedad, retribución, ajenidad y dependencia",
-      "publicidad, igualdad, mérito y capacidad",
-      "competencia, jerarquía y discrecionalidad",
-      "autonomía, gratuidad y temporalidad"
+      "A",
+      "D",
+      "O",
+      "P"
     ],
-    "correcta": 0,
-    "explicacion": "El tema enumera esas cuatro notas.",
-    "referencia": "Tema 29, 2.2 Elementos esenciales del contrato de trabajo"
+    "correcta": 2,
+    "explicacion": "El documento O corresponde al reconocimiento de la obligación.",
+    "referencia": "IV.3 · 5.2 Fase 3 — Reconocimiento de la obligación"
   },
   {
-    "id": "t29-p006",
+    "id": "t44-p011",
     "tema": 29,
-    "pregunta": "El contrato de trabajo puede celebrarse:",
+    "pregunta": "¿Cuál de los siguientes mecanismos se describe como idóneo para gastos pequeños y urgentes de carácter periódico?",
     "opciones": [
-      "por escrito o de palabra, aunque algunos deben constar por escrito",
-      "solo por escrito en todos los casos",
-      "solo de palabra",
-      "mediante decreto de alcaldía"
+      "Crédito extraordinario",
+      "Anticipos de caja fija",
+      "Suplemento de crédito",
+      "Transferencia de crédito"
     ],
-    "correcta": 0,
-    "explicacion": "El tema admite ambas formas, con exigencias de escritura en ciertos casos.",
-    "referencia": "Tema 29, 2.3 Forma del contrato"
+    "correcta": 1,
+    "explicacion": "El tema reserva los anticipos de caja fija para gastos menores y periódicos.",
+    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
   },
   {
-    "id": "t29-p007",
+    "id": "t44-p016",
     "tema": 29,
-    "pregunta": "El período de prueba máximo para técnicos titulados es de:",
+    "pregunta": "La autorización del gasto (documento A):",
     "opciones": [
-      "6 meses",
-      "2 meses",
-      "15 días",
-      "1 año"
+      "no genera obligación frente a terceros",
+      "supone el pago material al acreedor",
+      "equivale al reconocimiento de la obligación",
+      "solo puede dictarla la Tesorería"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija seis meses para técnicos titulados.",
-    "referencia": "Tema 29, 2.4 Período de prueba"
+    "explicacion": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros.",
+    "referencia": "IV.3 · 5.2 Fase 1 — Autorización del gasto (documento A)"
   },
   {
-    "id": "t29-p008",
+    "id": "t44-p017",
     "tema": 29,
-    "pregunta": "El contrato indefinido es:",
+    "pregunta": "El documento ADO acumula las fases de:",
     "opciones": [
-      "la modalidad ordinaria y preferente",
-      "una excepción residual",
-      "siempre temporal",
-      "un contrato verbal sin control"
+      "autorización, disposición y reconocimiento de la obligación",
+      "autorización, ordenación del pago y pago material",
+      "disposición, ordenación del pago y pago material",
+      "disposición, obligación y fiscalización posterior"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como modalidad ordinaria y preferente.",
-    "referencia": "Tema 29, 2.5.1 Contrato indefinido"
+    "explicacion": "El documento ADO acumula las tres primeras fases del gasto.",
+    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
   },
   {
-    "id": "t29-p009",
+    "id": "t44-p018",
     "tema": 29,
-    "pregunta": "Una modalidad temporal es:",
+    "pregunta": "Los anticipos de caja fija se utilizan para:",
     "opciones": [
-      "el contrato por circunstancias de la producción",
-      "el contrato de arrendamiento",
-      "la concesión demanial",
-      "la comisión de servicios"
+      "gastos corrientes de pequeña cuantía y carácter periódico",
+      "cualquier contrato sujeto a licitación pública",
+      "adquirir inmuebles mediante contratación de emergencia",
+      "financiar transferencias de capital a largo plazo"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esa modalidad temporal.",
-    "referencia": "Tema 29, 2.5.2 Contratos temporales"
+    "explicacion": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos.",
+    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
   },
   {
-    "id": "t29-p010",
+    "id": "t44-p021",
     "tema": 29,
-    "pregunta": "El contrato fijo-discontinuo se utiliza para:",
+    "pregunta": "El art. 134 CE establece que, si los Presupuestos Generales del Estado no se aprobaran antes del primer dia del ejercicio economico correspondiente:",
     "opciones": [
-      "trabajos de naturaleza estacional o vinculados a actividades de temporada",
-      "funciones de libre designación",
-      "aprobación de presupuestos",
-      "cargos representativos"
+      "Quedaran automaticamente anulados los del ejercicio anterior",
+      "Se consideraran automaticamente prorrogados los del ejercicio anterior hasta la aprobacion de los nuevos",
+      "El Gobierno debera aprobarlos por decreto-ley",
+      "Las Cortes Generales perderan la competencia presupuestaria durante ese ejercicio"
     ],
-    "correcta": 0,
-    "explicacion": "El tema lo vincula a trabajos estacionales o discontinuos.",
-    "referencia": "Tema 29, 2.5.2 Contratos temporales"
+    "correcta": 1,
+    "explicacion": "El tema recoge la prorroga automatica de los presupuestos anteriores.",
+    "referencia": "IV.3 · art. 134 CE"
   },
   {
-    "id": "t29-p011",
+    "id": "t44-p023",
     "tema": 29,
-    "pregunta": "Según el art. 4 ET, un derecho básico de los trabajadores es:",
+    "pregunta": "Segun la Ley General Presupuestaria y el Tema 44, el Proyecto de Ley de Presupuestos Generales del Estado sera remitido a las Cortes Generales:",
     "opciones": [
-      "la huelga",
-      "la potestad reglamentaria",
-      "la fiscalización de cuentas",
-      "la aprobación de sanciones"
+      "Antes del 1 de octubre del año anterior al que se refiera",
+      "Antes del 31 de diciembre del mismo ejercicio",
+      "Al menos seis meses antes de la expiracion de los del año anterior",
+      "Dentro del primer trimestre del ejercicio presupuestario"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge la huelga entre los derechos básicos.",
-    "referencia": "Tema 29, 3.1 Derechos básicos (art. 4 ET)"
-  },
-  {
-    "id": "t29-p012",
-    "tema": 29,
-    "pregunta": "Según el art. 4 ET, el trabajador tiene derecho a:",
-    "opciones": [
-      "la ocupación efectiva del puesto de trabajo",
-      "la designación de sus superiores",
-      "la aprobación del presupuesto",
-      "la potestad disciplinaria"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema incluye la ocupación efectiva entre los derechos individuales.",
-    "referencia": "Tema 29, 3.1 Derechos básicos (art. 4 ET)"
-  },
-  {
-    "id": "t29-p013",
-    "tema": 29,
-    "pregunta": "Ningún trabajador puede percibir por jornada completa un salario inferior al:",
-    "opciones": [
-      "SMI",
-      "IPREM siempre y en todo caso",
-      "sueldo base del subgrupo A1",
-      "complemento específico"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema menciona el SMI como límite mínimo.",
-    "referencia": "Tema 29, 3.3 Derechos retributivos"
-  },
-  {
-    "id": "t29-p014",
-    "tema": 29,
-    "pregunta": "Según el art. 5 ET, entre los deberes básicos del trabajador se encuentra:",
-    "opciones": [
-      "cumplir las obligaciones con buena fe y diligencia",
-      "aprobar las bases de selección",
-      "dictar instrucciones a la Corporación",
-      "resolver recursos administrativos"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema reproduce ese deber básico del art. 5 ET.",
-    "referencia": "Tema 29, 4.1 Deberes básicos (art. 5 ET)"
-  },
-  {
-    "id": "t29-p015",
-    "tema": 29,
-    "pregunta": "Entre los principios éticos del personal público está:",
-    "opciones": [
-      "no aceptar regalos o favores que puedan comprometer la imparcialidad",
-      "favorecer a los amigos del servicio",
-      "ocultar información a los ciudadanos siempre",
-      "priorizar intereses privados"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema recoge esa obligación ética.",
-    "referencia": "Tema 29, 4.2 Deberes de los empleados públicos laborales según el TREBEP"
+    "explicacion": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
+    "referencia": "IV.3 · 3.1 Elaboracion y aprobacion"
   }
 ]

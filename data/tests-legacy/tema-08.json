@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t08-p001",
+    "tema": 8,
+    "pregunta": "El texto vigente del Estatuto de Autonomía de Castilla y León es el aprobado por:",
+    "opciones": [
+      "Ley Orgánica 4/1983",
+      "Ley Orgánica 14/2007",
+      "Ley 1/1998",
+      "Ley Orgánica 3/1981"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la reforma más importante y vigente es la operada por la Ley Orgánica 14/2007.",
+    "referencia": "Tema 8, 1.1 Antecedentes y evolución"
+  },
+  {
+    "id": "t08-p002",
+    "tema": 8,
+    "pregunta": "Según el art. 2 EACyL, ¿cuántas provincias integran Castilla y León?",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "correcta": 2,
+    "explicacion": "El temario enumera nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.",
+    "referencia": "Tema 8, 1.3 Territorio (art. 2 EACyL)"
+  },
+  {
+    "id": "t08-p003",
+    "tema": 8,
+    "pregunta": "Según el art. 4 EACyL, la capital de Castilla y León es:",
+    "opciones": [
+      "Burgos",
+      "León",
+      "Salamanca",
+      "Valladolid"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema sitúa la capital en Valladolid, donde radica la sede de la Junta y la Presidencia de la Comunidad.",
+    "referencia": "Tema 8, 1.4 Capital y sede de las instituciones (art. 4 EACyL)"
+  },
+  {
+    "id": "t08-p004",
+    "tema": 8,
+    "pregunta": "¿Qué institución de autogobierno no aparece entre las cuatro señaladas?",
+    "opciones": [
+      "Las Cortes de Castilla y León",
+      "La Junta de Castilla y León",
+      "El Presidente de la Junta de Castilla y León",
+      "El Procurador del Común"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema enumera como instituciones de autogobierno a las Cortes, la Junta, el Presidente y el TSJ; el Procurador del Común se trata aparte como comisionado.",
+    "referencia": "Tema 8, 2.1 Las instituciones de autogobierno (art. 19 EACyL)"
+  },
+  {
+    "id": "t08-p005",
+    "tema": 8,
+    "pregunta": "Las Cortes de Castilla y León se componen de:",
+    "opciones": [
+      "61 a 83 procuradores",
+      "50 a 100 procuradores",
+      "81 a 101 procuradores",
+      "100 a 125 procuradores"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija una composición entre 61 y 83 procuradores; actualmente son 81.",
+    "referencia": "Tema 8, 2.2 Las Cortes de Castilla y León"
+  },
+  {
+    "id": "t08-p006",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, ¿qué mayoría se exige para elegir al Presidente de la Junta en primera votación?",
+    "opciones": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Mayoría de tres quintos",
+      "Mayoría de dos tercios"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que en primera votación se requiere mayoría absoluta y en la segunda mayoría simple.",
+    "referencia": "Tema 8, 2.3 El Presidente de la Junta de Castilla y León"
+  },
+  {
+    "id": "t08-p007",
+    "tema": 8,
+    "pregunta": "Según el art. 42 EACyL, ¿dónde tiene su sede el Tribunal Superior de Justicia de Castilla y León?",
+    "opciones": [
+      "Valladolid",
+      "Burgos",
+      "León",
+      "Palencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que el TSJ de Castilla y León tiene su sede en Burgos.",
+    "referencia": "Tema 8, 2.5 El Tribunal Superior de Justicia de Castilla y León (art. 42 EACyL)"
+  },
+  {
+    "id": "t08-p008",
+    "tema": 8,
+    "pregunta": "Según el Tema 8, sanidad, educación, medio ambiente y régimen local son materias de competencia:",
+    "opciones": [
+      "Exclusiva del Estado",
+      "Compartida o de desarrollo legislativo",
+      "Delegada por el Senado",
+      "Reservada a las Diputaciones Provinciales"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario presenta esas materias como competencias compartidas más relevantes de Castilla y León.",
+    "referencia": "Tema 8, 3.3 Competencias compartidas más relevantes"
+  },
+  {
+    "id": "t08-p009",
+    "tema": 8,
+    "pregunta": "¿Qué mayoría se exige para elegir al Procurador del Común en primera votación?",
+    "opciones": [
+      "Mayoría absoluta",
+      "Mayoría de 3/5",
+      "Mayoría simple",
+      "Mayoría de 2/3"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Procurador del Común se elige por mayoría de 3/5 y, si no se alcanza, por mayoría absoluta en segunda votación.",
+    "referencia": "Tema 8, 4.2 Elección y mandato"
+  },
+  {
+    "id": "t08-p010",
+    "tema": 8,
+    "pregunta": "¿Quién puede supervisar la actividad de la Administración de la Junta de Castilla y León y de las Entidades Locales?",
+    "opciones": [
+      "El Defensor del Pueblo",
+      "El Procurador del Común",
+      "El Tribunal de Cuentas",
+      "El Consejo Consultivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
+    "referencia": "Tema 8, 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión"
+  },
+  {
+    "id": "t08-p011",
+    "tema": 8,
+    "pregunta": "Según el art. 3 EACyL, ¿qué día es la fiesta de la Comunidad de Castilla y León?",
+    "opciones": [
+      "15 de agosto",
+      "12 de octubre",
+      "23 de abril",
+      "6 de diciembre"
+    ],
+    "correcta": 2,
+    "explicacion": "El temario fija el 23 de abril como fiesta de la Comunidad, en conmemoración de Villalar.",
+    "referencia": "Tema 8, 1.5 Símbolos (art. 3 EACyL)"
+  },
+  {
+    "id": "t08-p012",
+    "tema": 8,
+    "pregunta": "¿Cuál de los siguientes derechos estatutarios figura entre los recogidos en el Estatuto?",
+    "opciones": [
+      "Derecho a una buena administración y a servicios públicos de calidad",
+      "Derecho de sufragio universal municipal",
+      "Derecho a dictar leyes orgánicas",
+      "Derecho a la declaración de guerra"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el derecho a una buena administración como derecho estatutario.",
+    "referencia": "Tema 8, 1.6 Derechos y principios rectores"
+  },
+  {
+    "id": "t08-p013",
+    "tema": 8,
+    "pregunta": "Las Cortes de Castilla y León se eligen por circunscripción:",
+    "opciones": [
+      "comarcal",
+      "provincial",
+      "insular",
+      "municipal"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la circunscripción es la provincia.",
+    "referencia": "Tema 8, 2.2 Las Cortes de Castilla y León"
+  },
+  {
+    "id": "t08-p014",
+    "tema": 8,
+    "pregunta": "¿Qué puede hacer el Presidente de la Junta de Castilla y León?",
+    "opciones": [
+      "Nombrar al Rey",
+      "Plantear la cuestión de confianza y disolver las Cortes en los términos estatutarios",
+      "Legislar por decreto-ley estatal",
+      "Designar al Tribunal Superior de Justicia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge entre sus funciones la cuestión de confianza y la posibilidad de disolver las Cortes.",
+    "referencia": "Tema 8, 2.3 El Presidente de la Junta de Castilla y León"
+  },
+  {
+    "id": "t08-p015",
+    "tema": 8,
+    "pregunta": "¿Cuánto dura el mandato del Procurador del Común?",
+    "opciones": [
+      "4 años, renovable indefinidamente",
+      "5 años, renovable una sola vez",
+      "6 años, no renovable",
+      "8 años, renovable por mitades"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de 5 años y una sola renovación.",
+    "referencia": "Tema 8, 4.2 Elección y mandato"
+  }
+]

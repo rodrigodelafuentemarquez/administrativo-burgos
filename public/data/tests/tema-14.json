@@ -11,7 +11,7 @@
     ],
     "correcta": 1,
     "explicacion": "El tema resume ese contenido central de la LRJSP.",
-    "referencia": "Tema 14, 1.1 Contexto y estructura"
+    "referencia": "II.5 · 1.1 Contexto y estructura"
   },
   {
     "id": "t14-p002",
@@ -25,7 +25,7 @@
     ],
     "correcta": 1,
     "explicacion": "El tema atribuye a ese título la regulación de los órganos.",
-    "referencia": "Tema 14, 1.1 Contexto y estructura"
+    "referencia": "II.5 · 1.1 Contexto y estructura"
   },
   {
     "id": "t14-p003",
@@ -39,7 +39,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema define el órgano por la competencia propia atribuida por el ordenamiento.",
-    "referencia": "Tema 14, 2.1 Concepto de órgano administrativo"
+    "referencia": "II.5 · 2.1 Concepto de órgano administrativo"
   },
   {
     "id": "t14-p004",
@@ -53,7 +53,7 @@
     ],
     "correcta": 1,
     "explicacion": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos.",
-    "referencia": "Tema 14, 2.2 Creación, modificación y supresión de órganos"
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
   },
   {
     "id": "t14-p005",
@@ -67,7 +67,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema fija ese quórum para la constitución válida.",
-    "referencia": "Tema 14, 2.4 Funcionamiento de los órganos colegiados"
+    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
   },
   {
     "id": "t14-p006",
@@ -81,7 +81,7 @@
     ],
     "correcta": 1,
     "explicacion": "El tema señala un mínimo de 48 horas salvo urgencia.",
-    "referencia": "Tema 14, 2.4 Funcionamiento de los órganos colegiados"
+    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
   },
   {
     "id": "t14-p007",
@@ -95,7 +95,7 @@
     ],
     "correcta": 1,
     "explicacion": "El tema lo presenta como deber obligatorio.",
-    "referencia": "Tema 14, 2.5 La abstención y la recusación"
+    "referencia": "II.5 · 2.5 La abstención y la recusación"
   },
   {
     "id": "t14-p008",
@@ -109,7 +109,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema lo identifica como principio rector de las relaciones interadministrativas.",
-    "referencia": "Tema 14, 3.1 Concepto y principios generales"
+    "referencia": "II.5 · 3.1 Concepto y principios generales"
   },
   {
     "id": "t14-p009",
@@ -123,7 +123,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA.",
-    "referencia": "Tema 14, 3.2.2 Las Conferencias Sectoriales"
+    "referencia": "II.5 · 3.2.2 Las Conferencias Sectoriales"
   },
   {
     "id": "t14-p010",
@@ -137,7 +137,7 @@
     ],
     "correcta": 2,
     "explicacion": "El tema señala una duración máxima de 4 años, prorrogable.",
-    "referencia": "Tema 14, 3.2.4 Los convenios de colaboración"
+    "referencia": "II.5 · 3.2.4 Los convenios de colaboración"
   },
   {
     "id": "t14-p011",
@@ -151,7 +151,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema remite a los conflictos de competencia ante el TC.",
-    "referencia": "Tema 14, 3.4 Conflictos interadministrativos"
+    "referencia": "II.5 · 3.4 Conflictos interadministrativos"
   },
   {
     "id": "t14-p012",
@@ -165,7 +165,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema atribuye esa subrogación al art. 60 LBRL.",
-    "referencia": "Tema 14, 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales"
+    "referencia": "II.5 · 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales"
   },
   {
     "id": "t14-p013",
@@ -179,7 +179,7 @@
     ],
     "correcta": 2,
     "explicacion": "El tema distingue ambos planos.",
-    "referencia": "Tema 14, 2.2.4 Coordinación"
+    "referencia": "II.5 · 2.2.4 Coordinación"
   },
   {
     "id": "t14-p014",
@@ -193,7 +193,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema lo menciona expresamente al hablar de creación de órganos.",
-    "referencia": "Tema 14, 2.2 Creación, modificación y supresión de órganos"
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
   },
   {
     "id": "t14-p015",
@@ -207,6 +207,6 @@
     ],
     "correcta": 0,
     "explicacion": "El tema los define como documentos de planificación conjunta.",
-    "referencia": "Tema 14, 3.2.5 Los Planes y Programas conjuntos"
+    "referencia": "II.5 · 3.2.5 Los Planes y Programas conjuntos"
   }
 ]

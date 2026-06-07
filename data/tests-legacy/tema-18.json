@@ -1,0 +1,240 @@
+[
+  {
+    "id": "t18-p001",
+    "tema": 18,
+    "pregunta": "La responsabilidad patrimonial obliga a la Administración a:",
+    "opciones": [
+      "indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos",
+      "sancionar a los ciudadanos",
+      "dictar reglamentos compensatorios",
+      "revocar automáticamente el acto dañoso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema parte de esa definición general.",
+    "referencia": "Tema 18, 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p002",
+    "tema": 18,
+    "pregunta": "¿Qué fundamento constitucional ampara la responsabilidad patrimonial de la Administración?",
+    "opciones": [
+      "Art. 24.1 CE",
+      "Art. 106.2 CE",
+      "Art. 137 CE",
+      "Art. 149.1 CE"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema cita expresamente el art. 106.2 CE.",
+    "referencia": "Tema 18, 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p003",
+    "tema": 18,
+    "pregunta": "La responsabilidad patrimonial es:",
+    "opciones": [
+      "subjetiva y subsidiaria",
+      "objetiva y directa",
+      "penal y solidaria",
+      "discrecional y revisable"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo explica así de forma expresa.",
+    "referencia": "Tema 18, 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p004",
+    "tema": 18,
+    "pregunta": "Para que nazca la responsabilidad patrimonial, además de ser efectiva y evaluable económicamente, la lesión debe ser:",
+    "opciones": [
+      "Que sea colectiva",
+      "Que sea individualizada",
+      "Que se haya publicado en el BOE",
+      "Que tenga naturaleza penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema exige que el daño esté individualizado.",
+    "referencia": "Tema 18, 2.1 Lesión efectiva, evaluable económicamente e individualizada"
+  },
+  {
+    "id": "t18-p005",
+    "tema": 18,
+    "pregunta": "Si existe un deber jurídico de soportar el daño:",
+    "opciones": [
+      "siempre hay indemnización",
+      "no hay responsabilidad",
+      "la responsabilidad pasa al funcionario",
+      "el daño se presume antijurídico"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo.",
+    "referencia": "Tema 18, 2.2 Que la lesión sea antijurídica"
+  },
+  {
+    "id": "t18-p006",
+    "tema": 18,
+    "pregunta": "¿Cuál es la única causa de exclusión expresamente prevista en el art. 106.2 CE?",
+    "opciones": [
+      "Caso fortuito",
+      "Fuerza mayor",
+      "Culpa leve del perjudicado",
+      "Riesgo del desarrollo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión.",
+    "referencia": "Tema 18, 2.4 Que no concurra fuerza mayor"
+  },
+  {
+    "id": "t18-p007",
+    "tema": 18,
+    "pregunta": "Los daños derivados de riesgos del desarrollo:",
+    "opciones": [
+      "siempre son indemnizables",
+      "no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes",
+      "solo se indemnizan si los aprueba el Senado",
+      "se convierten automáticamente en responsabilidad penal"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema los excluye en el art. 34.4 LRJSP.",
+    "referencia": "Tema 18, 3.4 Riesgos del desarrollo"
+  },
+  {
+    "id": "t18-p008",
+    "tema": 18,
+    "pregunta": "Según el art. 67 LPACAP, ¿qué plazo general tiene el interesado para presentar la reclamación?",
+    "opciones": [
+      "6 meses",
+      "1 año",
+      "2 años",
+      "4 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija el plazo de 1 año y lo califica como prescripción.",
+    "referencia": "Tema 18, 5.1 Iniciación (art. 67 LPACAP)"
+  },
+  {
+    "id": "t18-p009",
+    "tema": 18,
+    "pregunta": "El procedimiento de responsabilidad patrimonial debe resolverse en:",
+    "opciones": [
+      "3 meses",
+      "6 meses",
+      "9 meses",
+      "1 año"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija 6 meses.",
+    "referencia": "Tema 18, 5.3 Resolución y plazo"
+  },
+  {
+    "id": "t18-p010",
+    "tema": 18,
+    "pregunta": "¿Qué dictamen es obligatorio cuando la reclamación supera 50.000 euros?",
+    "opciones": [
+      "Consejo de Estado u órgano consultivo equivalente",
+      "Tribunal Supremo",
+      "Defensor del Pueblo",
+      "Mesa de Contratación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo exige expresamente en la instrucción.",
+    "referencia": "Tema 18, 5.2 Instrucción"
+  },
+  {
+    "id": "t18-p011",
+    "tema": 18,
+    "pregunta": "Según el art. 36 LRJSP, la acción de regreso permite a la Administración reclamar al funcionario si actuó con:",
+    "opciones": [
+      "dolo, culpa o negligencia grave",
+      "mera discrepancia técnica",
+      "una simple duda razonable",
+      "cualquier error material"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo condiciona a esa gravedad.",
+    "referencia": "Tema 18, 7.2 La acción de regreso (art. 36 LRJSP)"
+  },
+  {
+    "id": "t18-p012",
+    "tema": 18,
+    "pregunta": "¿Cuál de los siguientes supuestos forma parte de la responsabilidad patrimonial del Estado legislador?",
+    "opciones": [
+      "Solo por reglamentos ilegales",
+      "Por leyes declaradas inconstitucionales y por leyes contrarias al Derecho de la UE",
+      "Solo por contratos administrativos",
+      "Solo por sentencias penales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema contempla esos dos supuestos especiales.",
+    "referencia": "Tema 18, 6.1 Responsabilidad del Estado legislador"
+  },
+  {
+    "id": "t18-p013",
+    "tema": 18,
+    "pregunta": "La indemnización debe ser:",
+    "opciones": [
+      "inferior al daño para evitar enriquecimiento",
+      "íntegra, ni inferior ni superior al daño real",
+      "siempre simbólica",
+      "fijada libremente por el perjudicado"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge el principio de indemnidad.",
+    "referencia": "Tema 18, 4.1 Principio de indemnidad"
+  },
+  {
+    "id": "t18-p014",
+    "tema": 18,
+    "pregunta": "¿Qué elemento del daño se exige para que nazca la responsabilidad patrimonial?",
+    "opciones": [
+      "Que sea evaluable económicamente",
+      "Que sea siempre moral",
+      "Que sea aprobado por el Consejo de Estado",
+      "Que sea imputable penalmente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige la evaluabilidad económica junto con la efectividad e individualización.",
+    "referencia": "Tema 18, 2.1 Lesión efectiva, evaluable económicamente e individualizada"
+  },
+  {
+    "id": "t18-p015",
+    "tema": 18,
+    "pregunta": "La responsabilidad patrimonial es compatible con:",
+    "opciones": [
+      "la responsabilidad penal y disciplinaria",
+      "la derogación de la ley",
+      "la suspensión automática del procedimiento administrativo",
+      "la nulidad del expediente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala esa compatibilidad expresamente.",
+    "referencia": "Tema 18, 7.3 Responsabilidad penal / 7.4 Responsabilidad disciplinaria"
+  },
+  {
+    "id": "t18-p016",
+    "tema": 18,
+    "pregunta": "De acuerdo con el art. 32 LRJSP y con el Tema 18, para que nazca la responsabilidad patrimonial es necesario que la lesion sea:",
+    "opciones": [
+      "Efectiva, evaluable economicamente e individualizada",
+      "Solamente ilicita desde el punto de vista penal",
+      "Exclusivamente imputable a un funcionario concreto",
+      "Necesariamente producida por funcionamiento anormal del servicio"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige lesion efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal.",
+    "referencia": "Tema 18, 2.1 Lesion efectiva, evaluable economicamente e individualizada"
+  },
+  {
+    "id": "t18-p017",
+    "tema": 18,
+    "pregunta": "Segun el Tema 18, cuando la indemnizacion reclamada sea igual o superior a 50.000 euros, durante la instruccion del procedimiento debera recabarse dictamen de:",
+    "opciones": [
+      "La Intervencion General del Estado",
+      "El Consejo de Estado u organo consultivo equivalente de la Comunidad Autonoma",
+      "El Ministerio Fiscal",
+      "La Abogacia del Estado en todo caso"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
+    "referencia": "Tema 18, 5.2 Instruccion"
+  }
+]

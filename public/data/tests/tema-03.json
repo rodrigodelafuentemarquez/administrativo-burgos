@@ -1,240 +1,226 @@
 [
   {
-    "id": "t03-p001",
+    "id": "t07-p001",
     "tema": 3,
-    "pregunta": "En una Monarquía parlamentaria, el Rey:",
+    "pregunta": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
     "opciones": [
-      "gobierna directamente y responde ante las Cortes",
-      "reina pero no gobierna",
-      "dirige la Administración civil y militar",
-      "puede dictar normas con rango de ley"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema subraya que el Rey reina pero no gobierna y que el poder ejecutivo real reside en el Gobierno.",
-    "referencia": "Tema 3, 1.1 La Monarquía parlamentaria"
-  },
-  {
-    "id": "t03-p002",
-    "tema": 3,
-    "pregunta": "Según el art. 56 CE, ¿qué funciones esenciales se atribuyen al Rey?",
-    "opciones": [
-      "Jefe del Estado, símbolo de unidad y permanencia, y árbitro y moderador",
-      "Presidente del Gobierno, símbolo de unidad y garante del Parlamento",
-      "Jefe de la Administración y comandante operativo del Gobierno",
-      "Magistrado supremo y fiscal general"
+      "municipios, provincias y comunidades autónomas",
+      "municipios, comarcas y mancomunidades",
+      "provincias, islas y áreas metropolitanas",
+      "municipios, distritos y barrios"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge la definición constitucional del Rey como Jefe del Estado, símbolo de unidad y permanencia, y árbitro y moderador.",
-    "referencia": "Tema 3, 1.2 El Rey: definición constitucional (art. 56 CE)"
+    "explicacion": "El tema reproduce el art. 137 CE y la organización territorial en municipios, provincias y comunidades autónomas.",
+    "referencia": "I.3 · 1.1 El modelo constitucional (art. 137 CE)"
   },
   {
-    "id": "t03-p003",
+    "id": "t07-p002",
     "tema": 3,
-    "pregunta": "Según el art. 56 CE, ¿cómo es la responsabilidad del Rey?",
+    "pregunta": "En relación con la igualdad de los españoles en todo el territorio, ¿qué establece el art. 139 CE?",
     "opciones": [
-      "Es plena ante las Cortes",
-      "Es compartida con el Gobierno",
-      "Su persona es inviolable y no está sujeta a responsabilidad",
-      "Responde siempre penalmente por sus actos"
-    ],
-    "correcta": 2,
-    "explicacion": "El temario reproduce el art. 56.2 CE: la persona del Rey es inviolable y no está sujeta a responsabilidad.",
-    "referencia": "Tema 3, 1.2 El Rey: definición constitucional (art. 56 CE)"
-  },
-  {
-    "id": "t03-p004",
-    "tema": 3,
-    "pregunta": "Según el art. 57.1 CE, ¿qué principio rige el orden regular de sucesión a la Corona?",
-    "opciones": [
-      "Elección por las Cortes Generales",
-      "Primogenitura y representación",
-      "Rotación entre ramas familiares",
-      "Designación por referéndum"
+      "La descentralización legislativa total",
+      "La igualdad de los españoles en todo el territorio y el derecho de asilo",
+      "La solidaridad exclusiva entre municipios",
+      "La prevalencia del derecho autonómico en todo caso"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que la sucesión se rige por primogenitura y representación, entre otros criterios.",
-    "referencia": "Tema 3, 2.1 Principios sucesorios"
+    "explicacion": "El tema identifica el art. 139 CE como la garantía de igualdad de los españoles en todo el territorio.",
+    "referencia": "I.3 · 1.4 Igualdad de los españoles en todo el territorio (art. 139 CE)"
   },
   {
-    "id": "t03-p005",
+    "id": "t07-p003",
     "tema": 3,
-    "pregunta": "En el mismo grado de sucesión:",
+    "pregunta": "Según la Constitución, ¿qué artículo contiene la lista de materias de competencia exclusiva del Estado?",
     "opciones": [
-      "la mujer prefiere al varón",
-      "el varón prefiere a la mujer",
-      "no existe preferencia por sexo",
-      "deciden las Cortes Generales"
+      "Art. 148 CE",
+      "Art. 149 CE",
+      "Art. 150 CE",
+      "Art. 155 CE"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge expresamente la preferencia del varón sobre la mujer en el mismo grado.",
-    "referencia": "Tema 3, 2.1 Principios sucesorios"
+    "explicacion": "El tema señala que el art. 149 CE contiene la lista de materias de competencia exclusiva del Estado.",
+    "referencia": "I.3 · 3.1 Las tres listas constitucionales"
   },
   {
-    "id": "t03-p006",
+    "id": "t07-p004",
     "tema": 3,
-    "pregunta": "Según el art. 57.4 CE, ¿qué ocurre si una persona con derecho a la sucesión contrae matrimonio contra la expresa prohibición del Rey y de las Cortes Generales?",
+    "pregunta": "¿Qué se entiende por cláusula de prevalencia?",
     "opciones": [
-      "Conserva plenamente su derecho",
-      "Queda excluida de la sucesión por sí y sus descendientes",
-      "Solo pierde el derecho si lo ratifica el Gobierno",
-      "Debe esperar a que lo autorice el Tribunal Constitucional"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema señala que ese matrimonio provoca la exclusión sucesoria del interesado y de sus descendientes.",
-    "referencia": "Tema 3, 2.2 Matrimonio con prohibición real"
-  },
-  {
-    "id": "t03-p007",
-    "tema": 3,
-    "pregunta": "Si se extinguieran todas las líneas sucesorias, ¿quién proveería a la sucesión?",
-    "opciones": [
-      "El Gobierno",
-      "El Tribunal Constitucional",
-      "Las Cortes Generales",
-      "El Consejo de Estado"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema establece que, en ese supuesto, las Cortes Generales proveerán a la sucesión en la forma que más convenga a España.",
-    "referencia": "Tema 3, 2.3 Extinción de todas las líneas sucesorias"
-  },
-  {
-    "id": "t03-p008",
-    "tema": 3,
-    "pregunta": "¿Cómo se resuelven las abdicaciones, renuncias y dudas de hecho o de derecho en el orden de sucesión?",
-    "opciones": [
-      "Por decreto-ley",
-      "Por ley orgánica",
-      "Por acuerdo de la Diputación Permanente",
-      "Por resolución del Tribunal Supremo"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema remite a una Ley Orgánica para resolver esas cuestiones del orden sucesorio.",
-    "referencia": "Tema 3, 2.4 Abdicaciones, renuncias y dudas"
-  },
-  {
-    "id": "t03-p009",
-    "tema": 3,
-    "pregunta": "Según el art. 59.1 CE, cuando el Rey sea menor de edad, ¿quién ejerce la Regencia?",
-    "opciones": [
-      "El Presidente del Gobierno",
-      "El padre o la madre y, en defecto, el pariente mayor de edad más próximo a suceder",
-      "El Presidente del Congreso",
-      "El Defensor del Pueblo"
-    ],
-    "correcta": 1,
-    "explicacion": "El temario indica que la Regencia corresponde al padre o la madre y, en su defecto, al pariente mayor de edad más próximo a suceder.",
-    "referencia": "Tema 3, 3.1 Regencia por minoría de edad"
-  },
-  {
-    "id": "t03-p010",
-    "tema": 3,
-    "pregunta": "¿Cuál de los siguientes actos del Rey no está sujeto a refrendo?",
-    "opciones": [
-      "La sanción de las leyes",
-      "La convocatoria de elecciones",
-      "La distribución de la cantidad global para su Familia y Casa",
-      "El nombramiento del Presidente del Gobierno"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema recoge que la distribución de esa cantidad global y el nombramiento/relevo del personal de la Casa Real no requieren refrendo.",
-    "referencia": "Tema 3, 7.3 Actos no sujetos a refrendo / 9. La Casa del Rey"
-  },
-  {
-    "id": "t03-p011",
-    "tema": 3,
-    "pregunta": "Según el art. 56 CE, la persona del Rey:",
-    "opciones": [
-      "está sujeta a responsabilidad penal ordinaria",
-      "es inviolable y no está sujeta a responsabilidad",
-      "responde siempre ante el Congreso",
-      "solo es inviolable en actos internacionales"
-    ],
-    "correcta": 1,
-    "explicacion": "El tema reproduce la inviolabilidad del Rey y su falta de responsabilidad.",
-    "referencia": "Tema 3, 1.2 El Rey: definición constitucional (art. 56 CE)"
-  },
-  {
-    "id": "t03-p012",
-    "tema": 3,
-    "pregunta": "Para ser Regente es preciso ser:",
-    "opciones": [
-      "español y mayor de edad",
-      "español mayor de 25 años",
-      "ciudadano de la UE y casado",
-      "mayor de edad sin más requisitos"
+      "Que el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
+      "Que el Derecho autonómico prevalece siempre sobre el estatal",
+      "Que el Derecho europeo suple a todos los demás",
+      "Que las ordenanzas locales prevalecen sobre la ley"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge expresamente que para ejercer la Regencia es preciso ser español y mayor de edad.",
-    "referencia": "Tema 3, 3.3 Características generales de la Regencia"
+    "explicacion": "El tema recoge la prevalencia del Derecho estatal en caso de conflicto, en los términos del art. 149.3 CE.",
+    "referencia": "I.3 · 3.5 Cláusula de prevalencia y supletoriedad"
   },
   {
-    "id": "t03-p013",
+    "id": "t07-p005",
     "tema": 3,
-    "pregunta": "La Reina consorte o el consorte de la Reina:",
+    "pregunta": "Según el art. 150.3 CE, el Estado puede dictar leyes de armonización cuando lo exija:",
     "opciones": [
-      "pueden ejercer funciones constitucionales por sí mismos",
-      "no pueden asumir funciones constitucionales salvo lo dispuesto para la Regencia",
-      "presiden las Cortes Generales",
-      "nombran al Presidente del Gobierno"
+      "la mayoría absoluta del Senado",
+      "el interés general",
+      "la solicitud de cualquier Comunidad Autónoma",
+      "la iniciativa legislativa popular"
     ],
     "correcta": 1,
-    "explicacion": "El temario limita sus funciones constitucionales y las excluye salvo la Regencia.",
-    "referencia": "Tema 3, 8. La Reina consorte y el consorte de la Reina"
+    "explicacion": "El tema afirma que las leyes de armonización se dictan cuando así lo exija el interés general.",
+    "referencia": "I.3 · 3.6 Cláusula de armonización (art. 150.3 CE)"
   },
   {
-    "id": "t03-p014",
+    "id": "t07-p006",
     "tema": 3,
-    "pregunta": "Según el art. 61 CE, ¿qué juramento prestan el Príncipe heredero y el Regente al alcanzar mayoría de edad o hacerse cargo de sus funciones?",
+    "pregunta": "¿Qué mecanismo excepcional de control prevé el art. 155 CE?",
     "opciones": [
-      "Solo guardar la Constitución",
-      "Guardar la Constitución y fidelidad al Rey",
-      "Solo fidelidad a las Cortes",
-      "Prometer neutralidad política"
+      "La disolución automática de la Comunidad Autónoma",
+      "La coerción estatal",
+      "La intervención del Consejo de Estado",
+      "La suspensión del Congreso"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que prestan el mismo juramento y el de fidelidad al Rey.",
-    "referencia": "Tema 3, 5. Proclamación y juramento (art. 61 CE)"
+    "explicacion": "El tema identifica el art. 155 CE con el mecanismo de coerción estatal sobre una Comunidad Autónoma.",
+    "referencia": "I.3 · 4.1 El art. 155 CE"
   },
   {
-    "id": "t03-p015",
+    "id": "t07-p007",
     "tema": 3,
-    "pregunta": "Según el art. 63 CE, para declarar la guerra y hacer la paz se requiere:",
+    "pregunta": "¿Qué permiten las leyes marco del art. 150.1 CE?",
     "opciones": [
-      "la autorización previa de las Cortes Generales",
-      "la aprobación del Consejo de Estado",
-      "el refrendo del Presidente del Congreso sin más",
-      "la autorización del Tribunal Constitucional"
+      "Que las CC.AA. dicten normas legislativas en materias de competencia estatal, dentro de los principios y directrices fijados",
+      "Que el Estado transfiera competencias propias mediante ley orgánica",
+      "Que el Estado armonice las disposiciones autonómicas sin límite material",
+      "Que las CC.AA. asuman la competencia exclusiva del Estado sobre relaciones internacionales"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala que esta función internacional del Rey exige autorización de las Cortes Generales.",
-    "referencia": "Tema 3, 6.2 Funciones internacionales (art. 63 CE)"
+    "explicacion": "El tema indica que las leyes marco permiten a las CC.AA. dictar normas legislativas en materias de competencia estatal, dentro de los principios y directrices fijados por las Cortes.",
+    "referencia": "I.3 · 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)"
   },
   {
-    "id": "t03-p016",
+    "id": "t07-p008",
     "tema": 3,
-    "pregunta": "Según el art. 61 CE, ¿ante quién presta juramento el Rey al ser proclamado?",
+    "pregunta": "Según los arts. 156-158 CE, ¿cuál es la finalidad del Fondo de Compensación Interterritorial?",
     "opciones": [
-      "Ante las Cortes Generales",
-      "Ante el Gobierno en Consejo de Ministros",
-      "Ante el Tribunal Constitucional",
-      "Ante el Consejo General del Poder Judicial"
+      "La corrección de desequilibrios económicos interterritoriales",
+      "La financiación directa de la sanidad autonómica",
+      "El funcionamiento de las Diputaciones Provinciales",
+      "La financiación de los partidos políticos"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que el Rey presta juramento ante las Cortes Generales en sesión conjunta.",
-    "referencia": "Tema 3, 5. Proclamación y juramento (art. 61 CE)"
+    "explicacion": "El tema indica que el FCI sirve para corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad.",
+    "referencia": "I.3 · 5. La financiación autonómica (arts. 156-158 CE)"
   },
   {
-    "id": "t03-p017",
+    "id": "t07-p009",
     "tema": 3,
-    "pregunta": "Corresponde al Rey, conforme al art. 62 CE:",
+    "pregunta": "Según el art. 148 CE, las CC.AA. pueden asumir competencias sobre:",
     "opciones": [
-      "Aprobar los Reglamentos",
-      "Aprobar los Decretos-leyes",
-      "Sancionar y promulgar las leyes",
-      "Aprobar las leyes"
+      "la organización de sus instituciones de autogobierno",
+      "la nacionalidad y la defensa",
+      "la legislación mercantil",
+      "las relaciones internacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye la organización de las instituciones de autogobierno entre las materias del art. 148 CE que las CC.AA. pueden asumir.",
+    "referencia": "I.3 · 3.3 Las competencias de las CC.AA. (art. 148 CE)"
+  },
+  {
+    "id": "t07-p010",
+    "tema": 3,
+    "pregunta": "Según el art. 157 CE, ¿cuál es un recurso de las Comunidades Autónomas?",
+    "opciones": [
+      "El producto de las operaciones de crédito",
+      "El presupuesto del Senado",
+      "Las tasas universitarias estatales",
+      "La recaudación del IVA estatal en exclusiva"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera entre los recursos autonómicos el producto de las operaciones de crédito.",
+    "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)"
+  },
+  {
+    "id": "t07-p011",
+    "tema": 3,
+    "pregunta": "Según la Constitución, ¿qué artículo contiene la lista de materias sobre las que las Comunidades Autónomas pueden asumir competencias?",
+    "opciones": [
+      "Art. 148 CE",
+      "Art. 149 CE",
+      "Art. 150 CE",
+      "Art. 155 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica el art. 148 CE con las materias susceptibles de asunción autonómica.",
+    "referencia": "I.3 · 3.1 Las tres listas constitucionales"
+  },
+  {
+    "id": "t07-p012",
+    "tema": 3,
+    "pregunta": "Según el art. 149.1 CE, ¿qué materia figura entre las competencias exclusivas del Estado?",
+    "opciones": [
+      "Turismo",
+      "Agricultura",
+      "Defensa y Fuerzas Armadas",
+      "Asistencia social"
     ],
     "correcta": 2,
-    "explicacion": "Entre las funciones internas del Rey figura sancionar y promulgar las leyes aprobadas por las Cortes Generales.",
-    "referencia": "Tema 3, 6.1 Funciones internas (art. 62 CE)"
+    "explicacion": "El tema incluye defensa y Fuerzas Armadas dentro de las competencias exclusivas del Estado.",
+    "referencia": "I.3 · 3.2 Las competencias exclusivas del Estado (art. 149.1 CE)"
+  },
+  {
+    "id": "t07-p013",
+    "tema": 3,
+    "pregunta": "Las leyes de transferencia o delegación del art. 150.2 CE se aprueban mediante:",
+    "opciones": [
+      "Ley Orgánica",
+      "Ley marco",
+      "Ley ordinaria",
+      "Reglamento de las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que la transferencia o delegación de competencias propias del Estado a las CC.AA. se hace mediante Ley Orgánica.",
+    "referencia": "I.3 · 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)"
+  },
+  {
+    "id": "t07-p014",
+    "tema": 3,
+    "pregunta": "Para aplicar el art. 155 CE, el Gobierno necesita previo acuerdo del:",
+    "opciones": [
+      "Tribunal Constitucional",
+      "Senado por mayoría absoluta",
+      "Congreso por mayoría simple",
+      "Consejo de Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema establece que el Gobierno debe requerir al Presidente autonómico y, si no hay cumplimiento, necesita acuerdo del Senado por mayoría absoluta.",
+    "referencia": "I.3 · 4.1 El art. 155 CE — Coerción estatal"
+  },
+  {
+    "id": "t07-p015",
+    "tema": 3,
+    "pregunta": "Según el art. 157 CE, ¿cuál de los siguientes recursos forma parte de los recursos de una Comunidad Autónoma?",
+    "opciones": [
+      "El producto de las operaciones de crédito",
+      "La recaudación del impuesto de sociedades estatal",
+      "Las tasas de las Diputaciones Provinciales",
+      "Los derechos arancelarios de aduana"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera el producto de las operaciones de crédito como recurso autonómico.",
+    "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)"
+  },
+  {
+    "id": "t07-p016",
+    "tema": 3,
+    "pregunta": "¿A quien corresponde la representacion ordinaria del Estado en la Comunidad Autonoma conforme al art. 152 CE?",
+    "opciones": [
+      "Al Delegado del Gobierno",
+      "Al Ministro competente en materia territorial",
+      "Al Presidente de la Comunidad Autonoma",
+      "Al Presidente del Gobierno"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
+    "referencia": "I.3 · 2.4 Organizacion institucional de las CC.AA. (art. 152 CE)"
   }
 ]

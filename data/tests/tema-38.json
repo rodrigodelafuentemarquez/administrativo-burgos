@@ -1,296 +1,282 @@
 [
   {
-    "id": "t38-p001",
+    "id": "t34-p001",
     "tema": 38,
-    "pregunta": "Word 365 es:",
+    "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",
     "opciones": [
-      "un procesador de texto",
-      "una base de datos relacional",
-      "un navegador web",
-      "un sistema operativo"
+      "la tramitación de procedimientos, la prestación de servicios y las relaciones con los ciudadanos",
+      "la sustitución del personal funcionario por robots",
+      "la recaudación tributaria exclusiva",
+      "la publicación de leyes orgánicas"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
-    "referencia": "Tema 38, 1.1 Qué es Word 365"
+    "explicacion": "El tema da esa definición de e-Administración.",
+    "referencia": "V.7 · 1.1 Concepto"
   },
   {
-    "id": "t38-p002",
+    "id": "t34-p002",
     "tema": 38,
-    "pregunta": "En la interfaz de Word aparece la:",
+    "pregunta": "La LPACAP y la LRJSP integran la administración electrónica como forma:",
     "opciones": [
-      "cinta de opciones (Ribbon)",
-      "barra de direcciones",
-      "lista global de direcciones",
-      "pila de protocolos"
+      "ordinaria y preferente de actuación de las Administraciones Públicas",
+      "opcional y residual",
+      "exclusivamente interna y privada",
+      "solo para grandes empresas"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la cinta de opciones como elemento principal.",
-    "referencia": "Tema 38, 1.2 La interfaz de Word 365"
+    "explicacion": "El tema la eleva a forma ordinaria.",
+    "referencia": "V.7 · 1.2 Evolución normativa"
   },
   {
-    "id": "t38-p003",
+    "id": "t34-p003",
     "tema": 38,
-    "pregunta": "Un estilo de Word es:",
+    "pregunta": "Uno de los principios de la administración electrónica es:",
     "opciones": [
-      "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
-      "una tabla dinámica",
-      "un archivo .accdb",
-      "un protocolo de internet"
+      "la interoperabilidad",
+      "la opacidad",
+      "la arbitrariedad",
+      "la reserva de papel"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así los estilos.",
-    "referencia": "Tema 38, 2.4 Estilos"
+    "explicacion": "El tema la enumera entre los principios.",
+    "referencia": "V.7 · 1.3 Principios de la administración electrónica"
   },
   {
-    "id": "t38-p004",
+    "id": "t34-p004",
     "tema": 38,
-    "pregunta": "La tabla de contenido se genera automáticamente a partir de:",
+    "pregunta": "La sede electrónica es:",
     "opciones": [
-      "los estilos de Título aplicados al documento",
-      "las notas al pie",
-      "la fecha de creación",
-      "los comentarios"
+      "la dirección electrónica de titularidad, gestión y administración de una Administración Pública",
+      "un simple enlace de redes sociales",
+      "una carpeta de archivos físicos",
+      "el correo personal del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo indica expresamente.",
-    "referencia": "Tema 38, 2.10 Tabla de contenido"
+    "explicacion": "El tema la define como equivalente electrónico de las oficinas presenciales.",
+    "referencia": "V.7 · 2.1 Concepto"
   },
   {
-    "id": "t38-p005",
+    "id": "t34-p005",
     "tema": 38,
-    "pregunta": "El seguimiento de cambios sirve para:",
+    "pregunta": "El Punto de Acceso General electrónico de la AGE es:",
     "opciones": [
-      "registrar todas las modificaciones del documento",
-      "eliminar automáticamente errores",
-      "cambiar el idioma",
-      "comprimir archivos"
+      "el portal web de entrada única a los servicios electrónicos del Estado",
+      "un archivo municipal",
+      "una oficina de registro físico",
+      "una base de datos de sanciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como herramienta de revisión colaborativa.",
-    "referencia": "Tema 38, 2.13 Seguimiento de cambios y comentarios"
+    "explicacion": "El tema lo identifica como puerta de entrada única.",
+    "referencia": "V.7 · 2.3 Punto de Acceso General electrónico de la AGE"
   },
   {
-    "id": "t38-p006",
+    "id": "t34-p006",
     "tema": 38,
-    "pregunta": "Combinar correspondencia permite generar:",
+    "pregunta": "Un sistema de identificación admitido es:",
     "opciones": [
-      "documentos personalizados en serie a partir de un documento base y una fuente de datos",
-      "solo gráficos estadísticos",
-      "únicamente fórmulas automáticas",
-      "bases de datos relacionales"
+      "el DNI electrónico",
+      "solo el pasaporte ordinario",
+      "únicamente la firma manuscrita",
+      "el número de afiliación a la Seguridad Social"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo explica así.",
-    "referencia": "Tema 38, 2.14 Combinar correspondencia"
+    "explicacion": "El tema incluye el DNIe entre los sistemas admitidos.",
+    "referencia": "V.7 · 3.1 La identificación electrónica de los ciudadanos"
   },
   {
-    "id": "t38-p007",
+    "id": "t34-p007",
     "tema": 38,
-    "pregunta": "Un formato de guardado de Word es:",
+    "pregunta": "La firma electrónica sirve para garantizar:",
     "opciones": [
-      ".docx",
-      ".mdb",
-      ".pptx",
-      ".html solo"
+      "la autenticidad del firmante y la integridad del documento firmado",
+      "la velocidad de conexión",
+      "la presencia física del interesado",
+      "la reserva del registro"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera .docx entre los formatos principales.",
-    "referencia": "Tema 38, 3.1 Guardar documentos"
+    "explicacion": "El tema le atribuye autenticidad e integridad.",
+    "referencia": "V.7 · 3.2 La firma electrónica"
   },
   {
-    "id": "t38-p008",
+    "id": "t34-p008",
     "tema": 38,
-    "pregunta": "La impresión de documentos se gestiona desde:",
+    "pregunta": "El procedimiento administrativo puede iniciarse electrónicamente a través de:",
     "opciones": [
-      "Archivo → Imprimir",
-      "Insertar → Tabla",
-      "Revisar → Idioma",
-      "Vista → Zoom"
+      "la sede electrónica o el registro electrónico",
+      "solo el buzón postal",
+      "únicamente el tablón de anuncios",
+      "solo el teléfono de atención"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa ahí la impresión.",
-    "referencia": "Tema 38, 3.3 Impresión de documentos"
+    "explicacion": "El tema indica esas vías de inicio.",
+    "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento"
   },
   {
-    "id": "t38-p009",
+    "id": "t34-p010",
     "tema": 38,
-    "pregunta": "Las opciones de Word se encuentran en:",
+    "pregunta": "Las notificaciones se practicarán preferentemente:",
     "opciones": [
-      "Archivo → Opciones",
-      "Inicio → Nuevo",
-      "Vista → Reglas",
-      "Referencias → Citas"
+      "por medios electrónicos",
+      "solo en papel",
+      "por teléfono móvil",
+      "por radio local"
     ],
     "correcta": 0,
-    "explicacion": "El tema ubica la personalización en Archivo → Opciones.",
-    "referencia": "Tema 38, 4.1 Opciones de Word"
+    "explicacion": "El tema lo dice expresamente.",
+    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
   },
   {
-    "id": "t38-p010",
+    "id": "t34-p011",
     "tema": 38,
-    "pregunta": "Excel 365 es una aplicación de:",
+    "pregunta": "La DEHú es:",
     "opciones": [
-      "una hoja de cálculo",
-      "un procesador de texto",
-      "un cliente de correo",
-      "un sistema operativo"
+      "el sistema de notificación electrónica de la Administración General del Estado",
+      "un archivo histórico digital",
+      "un motor de búsqueda",
+      "una plataforma de firma de presupuestos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como hoja de cálculo.",
-    "referencia": "Tema 38, 5.1 Qué es Excel 365"
+    "explicacion": "El tema la identifica como sistema de notificación electrónica de referencia.",
+    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
   },
   {
-    "id": "t38-p011",
+    "id": "t34-p012",
     "tema": 38,
-    "pregunta": "El libro de Excel está compuesto por:",
+    "pregunta": "Si transcurren 10 días naturales sin acceder a una notificación electrónica en DEHú, la notificación se entiende:",
     "opciones": [
-      "hojas de cálculo",
-      "párrafos",
-      "nodos",
-      "mensajes"
+      "rechazada",
+      "estimada",
+      "suspendida",
+      "nula"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue el libro y sus hojas.",
-    "referencia": "Tema 38, 6.1 El libro de Excel / 6.2 Las hojas de cálculo"
+    "explicacion": "El tema reproduce ese efecto.",
+    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
   },
   {
-    "id": "t38-p012",
+    "id": "t34-p013",
     "tema": 38,
-    "pregunta": "Una referencia relativa en Excel:",
+    "pregunta": "La actuación automatizada es aquella en la que determinados actos pueden ser adoptados:",
     "opciones": [
-      "se ajusta al copiar una fórmula",
-      "permanece fija siempre",
-      "solo existe en Word",
-      "no puede usarse en fórmulas"
+      "sin intervención directa de un empleado público, cuando el procedimiento pueda resolverse mediante reglas predeterminadas",
+      "solo por el interventor",
+      "únicamente en papel",
+      "mediante resolución judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema trata las referencias a celdas en las fórmulas.",
-    "referencia": "Tema 38, 9.2 Referencias a celdas"
+    "explicacion": "El tema la define así.",
+    "referencia": "V.7 · 4.3 Instrucción electrónica del procedimiento"
   },
   {
-    "id": "t38-p013",
+    "id": "t34-p014",
     "tema": 38,
-    "pregunta": "Una función principal de Excel es:",
+    "pregunta": "El ENS es el esquema que establece:",
     "opciones": [
-      "SUMA",
-      "CERTIFICADO",
-      "NOTIFICACIÓN",
-      "CIRCULAR"
+      "los principios y requisitos de seguridad en los sistemas de información del sector público",
+      "las reglas del presupuesto local",
+      "las clases de personal laboral",
+      "la estructura del calendario laboral"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye funciones principales en el apartado de fórmulas y funciones.",
-    "referencia": "Tema 38, 9.3 Funciones principales"
+    "explicacion": "El tema lo menciona como marco de seguridad.",
+    "referencia": "V.7 · 1.2 Evolución normativa / referencias"
   },
   {
-    "id": "t38-p014",
+    "id": "t34-p016",
     "tema": 38,
-    "pregunta": "Los gráficos en Excel sirven para:",
+    "pregunta": "El código seguro de verificación (CSV) permite:",
     "opciones": [
-      "representar visualmente datos",
-      "firmar documentos",
-      "organizar el correo",
-      "crear macros de Word"
+      "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
+      "sustituir en todo caso la firma electrónica cualificada del ciudadano",
+      "presentar solicitudes sin identificación previa",
+      "clasificar los sistemas conforme al ENS"
     ],
     "correcta": 0,
-    "explicacion": "El tema dedica un apartado a los gráficos.",
-    "referencia": "Tema 38, 10. Gráficos en Excel"
+    "explicacion": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento.",
+    "referencia": "V.7 · 3.3 Identificación de las Administraciones Públicas"
   },
   {
-    "id": "t38-p015",
+    "id": "t34-p017",
     "tema": 38,
-    "pregunta": "Las tablas dinámicas se estudian dentro de:",
+    "pregunta": "La presentación electrónica de una solicitud genera automáticamente un recibo con:",
     "opciones": [
-      "gestión de datos en Excel",
-      "gestión de correo",
-      "personalización de Word",
-      "copias de seguridad"
+      "número de registro, fecha, hora e identificación del documento presentado",
+      "solo la identidad del funcionario que tramitará el expediente",
+      "únicamente el número de expediente definitivo",
+      "el texto íntegro de la resolución final"
     ],
     "correcta": 0,
-    "explicacion": "El tema las incluye en la gestión de datos.",
-    "referencia": "Tema 38, 11.4 Tablas dinámicas (PivotTable)"
+    "explicacion": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales.",
+    "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento"
   },
   {
-    "id": "t38-p016",
+    "id": "t34-p018",
     "tema": 38,
-    "pregunta": "La tabla de contenido de Word se actualiza, entre otros medios, con la tecla:",
+    "pregunta": "El aviso de que existe una notificación electrónica pendiente:",
     "opciones": [
-      "F9",
-      "F2",
-      "F12",
-      "Ctrl + P"
+      "no sustituye a la notificación",
+      "equivale por sí mismo a la práctica de la notificación",
+      "amplía automáticamente el plazo de 10 días",
+      "solo es obligatorio en los procedimientos sancionadores"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la tabla de contenido puede actualizarse con clic derecho o con F9.",
-    "referencia": "Tema 38, 2.10 Tabla de contenido"
+    "explicacion": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico.",
+    "referencia": "V.7 · 6.2 El aviso de notificación"
   },
   {
-    "id": "t38-p017",
+    "id": "t34-p019",
     "tema": 38,
-    "pregunta": "Si Word se cierra inesperadamente, la recuperación de documentos ofrece:",
+    "pregunta": "El SIR materializa principalmente el principio de:",
     "opciones": [
-      "las versiones autoguardadas disponibles al reiniciarse",
-      "solo el documento original guardado manualmente",
-      "únicamente los archivos PDF exportados previamente",
-      "una copia impresa del último documento abierto"
+      "ventanilla única",
+      "jerarquía normativa",
+      "inderogabilidad singular del reglamento",
+      "desconcentración funcional"
     ],
     "correcta": 0,
-    "explicacion": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado.",
-    "referencia": "Tema 38, 3.2 Recuperación de documentos"
+    "explicacion": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria.",
+    "referencia": "V.7 · 7.3 El Sistema de Interconexión de Registros (SIR)"
   },
   {
-    "id": "t38-p018",
+    "id": "t34-p020",
     "tema": 38,
-    "pregunta": "En Excel, el cuadro de diálogo de Formato de celdas se abre con:",
+    "pregunta": "Entre las obligaciones de las Entidades Locales en materia de administración electrónica figura disponer de:",
     "opciones": [
-      "Ctrl + 1",
-      "Ctrl + 9",
-      "Alt + F4",
-      "F7"
+      "un catálogo de procedimientos disponible en la sede electrónica",
+      "una oficina física abierta las 24 horas del día",
+      "un sistema propio de certificación notarial",
+      "un registro exclusivamente en soporte papel"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge expresamente el atajo Ctrl + 1 para abrir Formato de celdas.",
-    "referencia": "Tema 38, 7.3 Formato de celdas"
+    "explicacion": "El tema incluye expresamente el catálogo de procedimientos entre los elementos que deben existir en la sede electrónica local.",
+    "referencia": "V.7 · 8.1 Obligaciones de las Entidades Locales"
   },
   {
-    "id": "t38-p019",
+    "id": "t34-p021",
     "tema": 38,
-    "pregunta": "Una referencia absoluta en Excel se representa como:",
+    "pregunta": "De acuerdo con el Tema 34, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con caracter general:",
     "opciones": [
-      "$A$1",
-      "A1",
-      "$A1",
-      "A$"
+      "Unicamente en soporte papel para garantizar su autenticidad",
+      "Por medios electronicos",
+      "En cualquier soporte, sin preferencia legal",
+      "Solo en formato fisico cuando afecten a derechos de los particulares"
     ],
-    "correcta": 0,
-    "explicacion": "La referencia absoluta fija tanto columna como fila mediante el signo $.",
-    "referencia": "Tema 38, 9.2 Referencias a celdas"
+    "correcta": 1,
+    "explicacion": "El tema explica que la tramitacion ordinaria es electronica y que los documentos administrativos deben almacenarse por medios electronicos.",
+    "referencia": "V.7 · 4.1 La tramitacion electronica como forma ordinaria"
   },
   {
-    "id": "t38-p020",
+    "id": "t34-p022",
     "tema": 38,
-    "pregunta": "BUSCARX se caracteriza por ser:",
+    "pregunta": "Segun el art. 40 LRJSP y el Tema 34, las Administraciones Publicas podran identificarse mediante:",
     "opciones": [
-      "una versión moderna y más flexible de BUSCARV",
-      "una función exclusiva para insertar gráficos",
-      "una herramienta para proteger libros con contraseña",
-      "una opción de impresión avanzada"
+      "Un sello electronico basado en un certificado electronico reconocido o cualificado",
+      "Exclusivamente mediante firma manuscrita digitalizada",
+      "Unicamente mediante certificado de empleado publico",
+      "Cualquier sistema privado aunque no cumpla la legislacion de firma electronica"
     ],
     "correcta": 0,
-    "explicacion": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
-    "referencia": "Tema 38, 9.3 Funciones principales"
-  },
-  {
-    "id": "t38-p021",
-    "tema": 38,
-    "pregunta": "¿Que funcion de Excel 365 invierte el valor logico de su argumento?",
-    "opciones": [
-      "NO",
-      "MINVERSA",
-      "CAMBIAR",
-      "ESLOGICO"
-    ],
-    "correcta": 0,
-    "explicacion": "La funcion NO devuelve el valor logico contrario del argumento evaluado.",
-    "referencia": "Tema 38, 9.3 Funciones logicas"
+    "explicacion": "El tema recoge el sello electronico basado en certificado reconocido o cualificado como sistema valido de identificacion de la Administracion.",
+    "referencia": "V.7 · 3.2 Sistemas de firma e identificacion"
   }
 ]

@@ -1,0 +1,254 @@
+[
+  {
+    "id": "t06-p001",
+    "tema": 6,
+    "pregunta": "Según el art. 122 CE, el Consejo General del Poder Judicial es:",
+    "opciones": [
+      "el órgano de gobierno del Poder Judicial",
+      "el intérprete supremo de la Constitución",
+      "la última instancia en todos los órdenes jurisdiccionales",
+      "el órgano que ejerce la acción penal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define al CGPJ como el órgano de gobierno del Poder Judicial y garante de la independencia judicial.",
+    "referencia": "Tema 6, 2.1 Naturaleza y función constitucional (art. 122 CE)"
+  },
+  {
+    "id": "t06-p002",
+    "tema": 6,
+    "pregunta": "Según el art. 122.3 CE y LOPJ, ¿cuál es la composición del CGPJ?",
+    "opciones": [
+      "Un presidente y 12 vocales",
+      "Un presidente del Tribunal Supremo y 20 vocales",
+      "Un presidente y 25 vocales",
+      "Un presidente y 15 vocales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el CGPJ está integrado por el Presidente del Tribunal Supremo y 20 vocales.",
+    "referencia": "Tema 6, 2.2 Composición (art. 122.3 CE y LOPJ)"
+  },
+  {
+    "id": "t06-p003",
+    "tema": 6,
+    "pregunta": "Según el art. 122.3 CE y LOPJ, ¿cuál de las siguientes afirmaciones sobre los vocales del CGPJ es correcta?",
+    "opciones": [
+      "8 son jueces y magistrados y 12 juristas",
+      "12 son jueces y magistrados y 8 juristas de reconocida competencia",
+      "10 son jueces y magistrados y 10 juristas",
+      "20 son juristas de reconocida competencia"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario distribuye los vocales en 12 jueces y magistrados y 8 juristas de reconocida competencia.",
+    "referencia": "Tema 6, 2.2 Composición (art. 122.3 CE y LOPJ)"
+  },
+  {
+    "id": "t06-p004",
+    "tema": 6,
+    "pregunta": "¿Cuál es el mandato de los vocales del CGPJ?",
+    "opciones": [
+      "4 años",
+      "5 años",
+      "6 años",
+      "9 años"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de 5 años y renovación total cada 5 años.",
+    "referencia": "Tema 6, 2.3 Mandato"
+  },
+  {
+    "id": "t06-p005",
+    "tema": 6,
+    "pregunta": "Según el art. 123 CE, ¿qué órgano es el jurisdiccional superior en todos los órdenes, salvo las garantías constitucionales?",
+    "opciones": [
+      "El Tribunal Supremo",
+      "La Audiencia Nacional",
+      "El Tribunal Constitucional",
+      "El Consejo General del Poder Judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema define al Tribunal Supremo como órgano jurisdiccional superior en todos los órdenes ordinarios.",
+    "referencia": "Tema 6, 3.1 Naturaleza y posición (art. 123 CE)"
+  },
+  {
+    "id": "t06-p006",
+    "tema": 6,
+    "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos de casación en materia laboral y de Seguridad Social?",
+    "opciones": [
+      "Sala 1.ª",
+      "Sala 2.ª",
+      "Sala 4.ª",
+      "Sala 5.ª"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema asigna esa materia a la Sala 4.ª, de lo Social.",
+    "referencia": "Tema 6, 3.2 Composición y organización"
+  },
+  {
+    "id": "t06-p007",
+    "tema": 6,
+    "pregunta": "¿Dónde tiene su sede la Audiencia Nacional?",
+    "opciones": [
+      "Barcelona",
+      "Madrid",
+      "Burgos",
+      "Valladolid"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la Audiencia Nacional tiene sede en Madrid.",
+    "referencia": "Tema 6, 4.1 Naturaleza"
+  },
+  {
+    "id": "t06-p008",
+    "tema": 6,
+    "pregunta": "Según el art. 152 CE, los Tribunales Superiores de Justicia:",
+    "opciones": [
+      "culminan la organización judicial en el ámbito de la Comunidad Autónoma",
+      "son órganos del Poder Ejecutivo autonómico",
+      "dependen jerárquicamente de las Diputaciones Provinciales",
+      "sustituyen al Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario indica que el TSJ culmina la organización judicial en el ámbito autonómico, sin perjuicio del Tribunal Supremo.",
+    "referencia": "Tema 6, 5.1 Naturaleza y posición (art. 152 CE)"
+  },
+  {
+    "id": "t06-p009",
+    "tema": 6,
+    "pregunta": "¿Qué tipo de asuntos conocen los Juzgados de lo Penal?",
+    "opciones": [
+      "Recursos de casación penal",
+      "Enjuiciamiento de delitos con pena no superior a 5 años de prisión",
+      "Delitos de terrorismo",
+      "Conflictos laborales colectivos"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema atribuye a los Juzgados de lo Penal el enjuiciamiento de delitos con pena no superior a 5 años de prisión.",
+    "referencia": "Tema 6, 7. Los Juzgados"
+  },
+  {
+    "id": "t06-p010",
+    "tema": 6,
+    "pregunta": "Según el art. 124.2 CE, ¿cuál de los siguientes es un principio de actuación del Ministerio Fiscal?",
+    "opciones": [
+      "Autonomía legislativa",
+      "Dependencia jerárquica",
+      "Sometimiento al Gobierno en casos concretos",
+      "Inamovilidad absoluta"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema enumera entre los principios de actuación la unidad, la dependencia jerárquica, la legalidad y la imparcialidad.",
+    "referencia": "Tema 6, 8.2 Principios de actuación (art. 124.2 CE)"
+  },
+  {
+    "id": "t06-p011",
+    "tema": 6,
+    "pregunta": "Según el art. 117 CE, la función jurisdiccional corresponde a:",
+    "opciones": [
+      "los jueces y magistrados",
+      "el Ministerio Fiscal",
+      "el CGPJ",
+      "el Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema explica que juzgar y hacer ejecutar lo juzgado corresponde a jueces y magistrados.",
+    "referencia": "Tema 6, 1.1 La justicia como poder del Estado (art. 117 CE)"
+  },
+  {
+    "id": "t06-p012",
+    "tema": 6,
+    "pregunta": "Según el art. 117.5 CE, ¿qué principio se afirma sobre la unidad jurisdiccional?",
+    "opciones": [
+      "Que existen jurisdicciones separadas por comunidades autónomas",
+      "Que la jurisdicción es única para todo el Estado",
+      "Que cada provincia tiene su propia jurisdicción legislativa",
+      "Que el TC sustituye a todos los órganos judiciales"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge la unidad jurisdiccional como principio constitucional.",
+    "referencia": "Tema 6, 1.3 Unidad jurisdiccional (art. 117.5 CE)"
+  },
+  {
+    "id": "t06-p013",
+    "tema": 6,
+    "pregunta": "Según el art. 125 CE, la participación ciudadana en la Administración de Justicia se realiza mediante:",
+    "opciones": [
+      "jurados y tribunales populares",
+      "jurado solamente",
+      "procuradores y notarios",
+      "elección directa de jueces"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa la participación ciudadana en la Administración de Justicia en el art. 125 CE.",
+    "referencia": "Tema 6, 1.4 Participación ciudadana en la Administración de Justicia (art. 125 CE)"
+  },
+  {
+    "id": "t06-p014",
+    "tema": 6,
+    "pregunta": "Según el art. 107 LOPJ, ¿qué órgano puede dictar reglamentos en el ámbito de sus competencias de personal?",
+    "opciones": [
+      "El CGPJ",
+      "La Audiencia Nacional",
+      "El Tribunal Supremo",
+      "La Fiscalía General del Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye esa potestad reglamentaria al CGPJ.",
+    "referencia": "Tema 6, 2.5 Funciones del CGPJ (art. 107 LOPJ)"
+  },
+  {
+    "id": "t06-p015",
+    "tema": 6,
+    "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos contra actos del Gobierno y de la AGE?",
+    "opciones": [
+      "Sala 1.ª",
+      "Sala 2.ª",
+      "Sala 3.ª",
+      "Sala 5.ª"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema asigna esa materia a la Sala 3.ª, de lo Contencioso-Administrativo.",
+    "referencia": "Tema 6, 3.2 Composición y organización"
+  },
+  {
+    "id": "t06-p016",
+    "tema": 6,
+    "pregunta": "Según el art. 124 CE, el Fiscal General del Estado será nombrado por:",
+    "opciones": [
+      "El Gobierno, a propuesta del Rey y oído el Congreso de los Diputados",
+      "El Rey, a propuesta del Gobierno, oído el Consejo General del Poder Judicial",
+      "El Consejo General del Poder Judicial, a propuesta del Rey",
+      "El Tribunal Supremo, a propuesta del Gobierno"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Fiscal General del Estado es nombrado por el Rey, a propuesta del Gobierno y oído el CGPJ.",
+    "referencia": "Tema 6, 8.3 El Fiscal General del Estado"
+  },
+  {
+    "id": "t06-p017",
+    "tema": 6,
+    "pregunta": "Segun el art. 117.3 CE, el ejercicio de la potestad jurisdiccional, juzgando y haciendo ejecutar lo juzgado, corresponde exclusivamente a:",
+    "opciones": [
+      "Las Cortes Generales",
+      "El Consejo General del Poder Judicial",
+      "Los Juzgados y Tribunales determinados por las leyes",
+      "El Ministerio Fiscal"
+    ],
+    "correcta": 2,
+    "explicacion": "La Constitucion atribuye en exclusiva la potestad jurisdiccional a los Juzgados y Tribunales establecidos por la ley.",
+    "referencia": "Tema 6, 1.2 La funcion jurisdiccional: juzgar y ejecutar lo juzgado (art. 117.3 CE)"
+  },
+  {
+    "id": "t06-p018",
+    "tema": 6,
+    "pregunta": "¿Quien nombrara al Presidente del Tribunal Supremo de acuerdo con el art. 123 CE?",
+    "opciones": [
+      "El Presidente del Gobierno, a propuesta del Rey",
+      "El Rey, a propuesta del Presidente del Gobierno",
+      "El Consejo General del Poder Judicial, a propuesta del Rey",
+      "El Rey, a propuesta del Consejo General del Poder Judicial"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema indica que el Presidente del Tribunal Supremo es elegido por los vocales del CGPJ y nombrado por el Rey.",
+    "referencia": "Tema 6, 3.3 El Presidente del Tribunal Supremo"
+  }
+]

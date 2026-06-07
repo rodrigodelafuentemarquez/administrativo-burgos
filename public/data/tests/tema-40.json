@@ -1,226 +1,562 @@
 [
   {
-    "id": "t40-p001",
+    "id": "t36-p001",
     "tema": 40,
-    "pregunta": "Internet tiene su origen en:",
+    "pregunta": "La informática es:",
     "opciones": [
-      "ARPANET",
-      "DNS",
-      "HTTP",
-      "Wi-Fi"
+      "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
+      "el conjunto de normas de archivo",
+      "la gestión de contratos públicos",
+      "el estudio de la legislación laboral"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa el origen en ARPANET.",
-    "referencia": "Tema 40, 1.1 Los orígenes: ARPANET (1969)"
+    "explicacion": "El tema da esa definición básica.",
+    "referencia": "V.9 · 1.1 Qué es la informática"
   },
   {
-    "id": "t40-p002",
+    "id": "t36-p002",
     "tema": 40,
-    "pregunta": "La primera conexión de ARPANET se estableció el:",
+    "pregunta": "Una característica fundamental del ordenador es la:",
     "opciones": [
-      "29 de octubre de 1969",
-      "1 de enero de 1991",
-      "15 de mayo de 1983",
-      "4 de julio de 2007"
+      "velocidad",
+      "inalienabilidad",
+      "prescripción",
+      "publicidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa fecha concreta.",
-    "referencia": "Tema 40, 1.1 Los orígenes: ARPANET (1969)"
+    "explicacion": "El tema enumera la velocidad entre sus rasgos fundamentales.",
+    "referencia": "V.9 · 1.1 Qué es la informática"
   },
   {
-    "id": "t40-p003",
+    "id": "t36-p003",
     "tema": 40,
-    "pregunta": "TCP/IP se adoptó como estándar de ARPANET en:",
+    "pregunta": "La arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y:",
     "opciones": [
-      "1983",
-      "1969",
-      "1991",
-      "2004"
+      "bus",
+      "archivo central",
+      "navegador",
+      "monitor táctil obligatorio"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija 1983.",
-    "referencia": "Tema 40, 1.2 Los protocolos TCP/IP (1974-1983)"
+    "explicacion": "El tema incluye el bus entre los elementos de la arquitectura.",
+    "referencia": "V.9 · 2.2 La arquitectura von Neumann"
   },
   {
-    "id": "t40-p004",
+    "id": "t36-p004",
     "tema": 40,
-    "pregunta": "La World Wide Web fue ideada por:",
+    "pregunta": "La CPU es:",
     "opciones": [
-      "Tim Berners-Lee",
-      "Vinton Cerf",
-      "Robert Kahn",
-      "Mosaic"
+      "el cerebro del ordenador",
+      "la unidad de respaldo externo",
+      "el sistema de impresión",
+      "el programa de correo"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye la WWW a Berners-Lee.",
-    "referencia": "Tema 40, 1.3 La World Wide Web y la expansión civil (1991)"
+    "explicacion": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
+    "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
   },
   {
-    "id": "t40-p005",
+    "id": "t36-p005",
     "tema": 40,
-    "pregunta": "El protocolo que define cómo se comunican navegador y servidor es:",
+    "pregunta": "La RAM es una memoria:",
     "opciones": [
-      "HTTP",
-      "FTP",
-      "SMTP",
-      "UDP"
+      "volátil",
+      "permanente",
+      "solo óptica",
+      "inembargable"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como protocolo de hipertexto.",
-    "referencia": "Tema 40, 2.4 Protocolo HTTP y HTTPS"
+    "explicacion": "El tema la define como volátil.",
+    "referencia": "V.9 · 2.3.2 La memoria RAM"
   },
   {
-    "id": "t40-p006",
+    "id": "t36-p006",
     "tema": 40,
-    "pregunta": "DNS traduce:",
+    "pregunta": "La ROM alberga el firmware del sistema, en particular:",
     "opciones": [
-      "nombres de dominio en direcciones IP",
-      "ficheros en carpetas",
-      "códigos en tablas",
-      "correos en contactos"
+      "la BIOS o la UEFI",
+      "el navegador web",
+      "el gestor de correo",
+      "las hojas de cálculo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como sistema de nombres de dominio.",
-    "referencia": "Tema 40, 2.3 El Sistema de Nombres de Dominio (DNS)"
+    "explicacion": "El tema lo sitúa en la ROM.",
+    "referencia": "V.9 · 2.3.3 La memoria ROM"
   },
   {
-    "id": "t40-p007",
+    "id": "t36-p007",
     "tema": 40,
-    "pregunta": "IPv4 es una dirección de:",
+    "pregunta": "La placa base incorpora el:",
     "opciones": [
-      "32 bits",
-      "128 bits",
-      "16 bits",
-      "64 bits"
+      "chipset",
+      "Panel de control",
+      "Explorador",
+      "Sistema de archivos"
     ],
     "correcta": 0,
-    "explicacion": "El tema precisa esa longitud.",
-    "referencia": "Tema 40, 2.2 El protocolo TCP/IP"
+    "explicacion": "El tema lo identifica como conjunto de circuitos de comunicación.",
+    "referencia": "V.9 · 2.3.4 La placa base (motherboard)"
   },
   {
-    "id": "t40-p008",
+    "id": "t36-p008",
     "tema": 40,
-    "pregunta": "HTTPS añade a HTTP:",
+    "pregunta": "La GPU es el componente responsable del:",
     "opciones": [
-      "cifrado SSL/TLS",
-      "una hoja de cálculo",
-      "un archivo adjunto",
-      "un formato de compresión"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema lo define como versión segura con cifrado.",
-    "referencia": "Tema 40, 2.4 Protocolo HTTP y HTTPS"
-  },
-  {
-    "id": "t40-p009",
-    "tema": 40,
-    "pregunta": "IMAP permite:",
-    "opciones": [
-      "acceder a los correos manteniéndolos en el servidor y sincronizando varios dispositivos",
-      "descargar y borrar por defecto los mensajes del servidor",
-      "solo enviar correos",
-      "firmar documentos"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema lo destaca como acceso sincronizado.",
-    "referencia": "Tema 40, 2.5.1 Correo electrónico"
-  },
-  {
-    "id": "t40-p010",
-    "tema": 40,
-    "pregunta": "Una VPN es:",
-    "opciones": [
-      "una conexión cifrada que crea un túnel seguro a través de internet",
-      "un tipo de navegador",
-      "una dirección de correo",
-      "un protocolo de impresión"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema la define como red privada virtual.",
-    "referencia": "Tema 40, 2.5.3 VPN"
-  },
-  {
-    "id": "t40-p011",
-    "tema": 40,
-    "pregunta": "Una URL es:",
-    "opciones": [
-      "la dirección completa que identifica un recurso en internet",
-      "un archivo comprimido",
-      "un protocolo de correo",
-      "una cookie persistente"
+      "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
+      "almacenamiento masivo de archivos",
+      "control tributario",
+      "cifrado de correos"
     ],
     "correcta": 0,
     "explicacion": "El tema la define así.",
-    "referencia": "Tema 40, 2.5.5 La dirección URL"
+    "referencia": "V.9 · 2.3.5 La tarjeta gráfica (GPU)"
   },
   {
-    "id": "t40-p012",
+    "id": "t36-p009",
     "tema": 40,
-    "pregunta": "SaaS significa:",
+    "pregunta": "Los periféricos de entrada permiten:",
     "opciones": [
-      "software accesible desde el navegador sin instalación local",
-      "infraestructura física virtualizada",
-      "plataforma para desarrollar aplicaciones",
-      "sistema de archivos seguro"
+      "introducir datos o instrucciones en el ordenador",
+      "solo mostrar imágenes",
+      "únicamente guardar copias",
+      "cambiar el sistema operativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema presenta SaaS como software en la nube.",
-    "referencia": "Tema 40, 2.6 La Nube (Cloud Computing)"
+    "explicacion": "El tema los define por esa función.",
+    "referencia": "V.9 · 2.4.1 Periféricos de entrada"
   },
   {
-    "id": "t40-p013",
+    "id": "t36-p010",
     "tema": 40,
-    "pregunta": "Un navegador web es el programa que permite:",
+    "pregunta": "El bus de datos:",
     "opciones": [
-      "acceder, visualizar e interactuar con los recursos de la World Wide Web",
-      "crear bases de datos",
-      "firmar electrónicamente documentos",
-      "compilar código fuente"
+      "transporta los datos entre CPU, memoria y periféricos",
+      "define los permisos de usuario",
+      "almacena el sistema operativo",
+      "convierte la corriente eléctrica"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema le atribuye esa función.",
+    "referencia": "V.9 · 2.5 Los buses del sistema"
+  },
+  {
+    "id": "t36-p011",
+    "tema": 40,
+    "pregunta": "El software de sistema incluye:",
+    "opciones": [
+      "el sistema operativo y los controladores",
+      "solo los documentos PDF",
+      "únicamente el correo electrónico",
+      "solo las bases de datos relacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo indica entre las categorías.",
+    "referencia": "V.9 · 3.2.1 Software de sistema (o software base)"
+  },
+  {
+    "id": "t36-p012",
+    "tema": 40,
+    "pregunta": "El software libre permite:",
+    "opciones": [
+      "usar, copiar, distribuir, estudiar y modificar el software",
+      "solo usarlo sin copiar",
+      "únicamente visualizarlo",
+      "instalarlo en un solo equipo sin más"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define por esas libertades.",
+    "referencia": "V.9 · 3.3 Clasificación del software según su licencia"
+  },
+  {
+    "id": "t36-p013",
+    "tema": 40,
+    "pregunta": "Un sistema operativo es:",
+    "opciones": [
+      "el software base que administra los recursos del hardware y permite la ejecución de aplicaciones",
+      "una periferia de salida",
+      "un archivo comprimido",
+      "un navegador web"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema desarrolla esa función en el apartado 4.",
+    "referencia": "V.9 · 4.1 Concepto y funciones"
+  },
+  {
+    "id": "t36-p014",
+    "tema": 40,
+    "pregunta": "El Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de:",
+    "opciones": [
+      "seguridad informática en el sector público",
+      "contabilidad local",
+      "archivos históricos",
+      "contratación pública"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo cita en la referencia normativa.",
+    "referencia": "V.9 · Referencia normativa"
+  },
+  {
+    "id": "t36-p015",
+    "tema": 40,
+    "pregunta": "Los dispositivos IoT son:",
+    "opciones": [
+      "objetos cotidianos con capacidad de conexión y procesamiento",
+      "solo servidores de alta gama",
+      "únicamente monitores",
+      "programas de diseño gráfico"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define como objetos cotidianos conectados.",
+    "referencia": "V.9 · 1.2 Tipos de ordenadores"
+  },
+  {
+    "id": "t36-p016",
+    "tema": 40,
+    "pregunta": "La interfaz gráfica de usuario (GUI) se caracteriza por:",
+    "opciones": [
+      "permitir la interacción mediante ventanas, iconos, menús y ratón",
+      "exigir exclusivamente el uso de comandos de texto",
+      "utilizar solo pantallas monocromas",
+      "funcionar únicamente en servidores"
+    ],
+    "correcta": 0,
+    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
+    "referencia": "V.9 · 4.2.1 Por el tipo de interfaz"
+  },
+  {
+    "id": "t36-p017",
+    "tema": 40,
+    "pregunta": "Windows 11 requiere hardware compatible con:",
+    "opciones": [
+      "TPM 2.0 y arranque seguro (Secure Boot)",
+      "lectora Blu-ray y puerto VGA",
+      "arquitectura exclusivamente ARM de 32 bits",
+      "dos tarjetas gráficas dedicadas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
+    "referencia": "V.9 · 4.3.1 Microsoft Windows"
+  },
+  {
+    "id": "t36-p018",
+    "tema": 40,
+    "pregunta": "La memoria virtual consiste en:",
+    "opciones": [
+      "utilizar parte del disco como extensión de la RAM",
+      "reservar una zona de la ROM para ejecutar aplicaciones",
+      "convertir automáticamente la memoria RAM en almacenamiento permanente",
+      "duplicar el contenido del disco en la nube"
+    ],
+    "correcta": 0,
+    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
+    "referencia": "V.9 · 4.4 Conceptos clave de los sistemas operativos"
+  },
+  {
+    "id": "t36-p019",
+    "tema": 40,
+    "pregunta": "Una característica propia de los SSD frente a los HDD es que:",
+    "opciones": [
+      "no tienen partes móviles",
+      "solo pueden usarse como almacenamiento externo",
+      "su velocidad siempre es inferior a la de los HDD",
+      "se basan en platos magnéticos giratorios"
+    ],
+    "correcta": 0,
+    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
+    "referencia": "V.9 · 5.3 La unidad de estado sólido (SSD)"
+  },
+  {
+    "id": "t36-p020",
+    "tema": 40,
+    "pregunta": "Dentro de la triada CIA, la disponibilidad significa que:",
+    "opciones": [
+      "los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten",
+      "solo el administrador puede modificar los datos",
+      "toda la información debe almacenarse en la nube",
+      "los datos deben permanecer cifrados en cualquier circunstancia"
+    ],
+    "correcta": 0,
+    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
+    "referencia": "V.9 · 6.1 Concepto y objetivos"
+  },
+  {
+    "id": "t36-p021",
+    "tema": 40,
+    "pregunta": "¿Cual de las siguientes definiciones corresponde a un procesador?",
+    "opciones": [
+      "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
+      "Unidad de informacion compuesta generalmente de ocho bits",
+      "Unidad funcional que se encarga de la busqueda, interpretacion y ejecucion de instrucciones",
+      "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
+    ],
+    "correcta": 2,
+    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
+    "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+  },
+  {
+    "id": "t36-p022",
+    "tema": 40,
+    "pregunta": "¿Que sistema de seguridad tiene como funcion especifica detectar, bloquear y eliminar software malicioso?",
+    "opciones": [
+      "VPN",
+      "Firewall",
+      "Antivirus",
+      "Gestor de contraseñas"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
+    "referencia": "V.9 · 6.5 El antivirus"
+  },
+  {
+    "id": "t36-p023",
+    "tema": 40,
+    "pregunta": "¿Que elemento realiza la funcion de guardar de forma temporal programas y procesos en ejecucion?",
+    "opciones": [
+      "Disipador",
+      "Memoria RAM",
+      "Tarjeta grafica",
+      "CPU"
+    ],
+    "correcta": 1,
+    "explicacion": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecucion inmediata.",
+    "referencia": "V.9 · 2.3.2 La memoria RAM"
+  },
+  {
+    "id": "t37-p001",
+    "tema": 40,
+    "pregunta": "Windows 11 es:",
+    "opciones": [
+      "la versión de referencia actual del sistema operativo de escritorio de Microsoft",
+      "un navegador web",
+      "una hoja de cálculo",
+      "un sistema de bases de datos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como sistema operativo de referencia.",
+    "referencia": "V.9 · 1.1 Qué es Windows"
+  },
+  {
+    "id": "t37-p002",
+    "tema": 40,
+    "pregunta": "Windows 11 requiere hardware compatible con:",
+    "opciones": [
+      "TPM 2.0 y Secure Boot",
+      "solo Wi-Fi 6",
+      "un monitor táctil",
+      "un disco duro mecánico"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala esos requisitos de seguridad.",
+    "referencia": "V.9 · 1.1 Qué es Windows"
+  },
+  {
+    "id": "t37-p003",
+    "tema": 40,
+    "pregunta": "Una edición de Windows 11 es:",
+    "opciones": [
+      "Enterprise",
+      "Writer",
+      "Calc",
+      "Access"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera Enterprise entre las ediciones.",
+    "referencia": "V.9 · 1.2 Versiones de Windows 11"
+  },
+  {
+    "id": "t37-p004",
+    "tema": 40,
+    "pregunta": "Una novedad de Windows 11 respecto a Windows 10 es:",
+    "opciones": [
+      "Snap Layouts",
+      "la eliminación total del escritorio",
+      "la desaparición de la barra de tareas",
+      "el uso exclusivo de comandos de voz"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona Snap Layouts como novedad.",
+    "referencia": "V.9 · 1.3 Novedades de Windows 11 respecto a Windows 10"
+  },
+  {
+    "id": "t37-p005",
+    "tema": 40,
+    "pregunta": "La barra de tareas, contiene entre otros:",
+    "opciones": [
+      "el botón Inicio, iconos anclados y el área de notificación",
+      "solo el Explorador de archivos",
+      "únicamente el panel de control",
+      "solo los accesos a Word"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema describe esos elementos en la barra.",
+    "referencia": "V.9 · 2.2 La barra de tareas"
+  },
+  {
+    "id": "t37-p006",
+    "tema": 40,
+    "pregunta": "Los accesos directos del escritorio se identifican porque:",
+    "opciones": [
+      "llevan una pequeña flecha en la esquina inferior izquierda",
+      "siempre están en rojo",
+      "no pueden abrirse con doble clic",
+      "no tienen icono"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo indica expresamente.",
+    "referencia": "V.9 · 2.3 Los iconos del escritorio"
+  },
+  {
+    "id": "t37-p007",
+    "tema": 40,
+    "pregunta": "El menú Inicio de Windows 11 muestra entre otros:",
+    "opciones": [
+      "aplicaciones ancladas y recomendados",
+      "solo la papelera",
+      "únicamente el panel de control",
+      "solo el explorador clásico"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esas secciones.",
+    "referencia": "V.9 · 3.1 Estructura del menú Inicio en Windows 11"
+  },
+  {
+    "id": "t37-p008",
+    "tema": 40,
+    "pregunta": "La opción Suspender del menú Inicio:",
+    "opciones": [
+      "guarda el estado de la sesión en la RAM y permite arranque rápido",
+      "borra todos los documentos",
+      "formatea el equipo",
+      "desconecta la batería"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como estado de bajo consumo.",
+    "referencia": "V.9 · 3.2 Opciones de inicio/apagado"
+  },
+  {
+    "id": "t37-p009",
+    "tema": 40,
+    "pregunta": "Copilot en Windows, puede abrirse con:",
+    "opciones": [
+      "Windows + C",
+      "Ctrl + Alt + Supr",
+      "Alt + Tab",
+      "F2"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge ese atajo.",
+    "referencia": "V.9 · 4.1 Qué es Copilot"
+  },
+  {
+    "id": "t37-p010",
+    "tema": 40,
+    "pregunta": "Un menú contextual aparece al hacer:",
+    "opciones": [
+      "clic con el botón derecho del ratón",
+      "doble clic izquierdo siempre",
+      "solo pulsando la tecla Esc",
+      "arrastrar la ventana"
     ],
     "correcta": 0,
     "explicacion": "El tema lo define así.",
-    "referencia": "Tema 40, 3.1 Qué es un navegador web"
+    "referencia": "V.9 · 5.3 Los menús contextuales"
   },
   {
-    "id": "t40-p014",
+    "id": "t37-p011",
     "tema": 40,
-    "pregunta": "En los navegadores actuales la barra de favoritos sirve para:",
+    "pregunta": "El Explorador de archivos sirve para:",
     "opciones": [
-      "guardar URLs para acceder rápidamente en el futuro",
-      "eliminar cookies automáticamente",
-      "cifrar el tráfico",
-      "crear cuentas de correo"
+      "navegar por la estructura de carpetas y archivos y gestionarlos",
+      "redactar documentos de Word",
+      "diseñar hojas de cálculo",
+      "administrar usuarios del sistema"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo incluye entre las funciones básicas.",
-    "referencia": "Tema 40, 3.4.3 Favoritos / Marcadores"
+    "explicacion": "El tema le atribuye esa función.",
+    "referencia": "V.9 · 6.1 Concepto y acceso"
   },
   {
-    "id": "t40-p015",
+    "id": "t37-p012",
     "tema": 40,
-    "pregunta": "La navegación privada:",
+    "pregunta": "En el Explorador de archivos, la vista más informativa es la de:",
     "opciones": [
-      "no guarda historial ni cookies al cerrar la ventana, aunque no hace anónimo al usuario",
-      "borra todos los archivos del equipo",
-      "impide abrir pestañas",
-      "convierte el navegador en un antivirus"
+      "Detalles",
+      "Iconos grandes",
+      "Mosaicos",
+      "Contenido"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo explica así y advierte que no da anonimato total.",
-    "referencia": "Tema 40, 3.5.2 Navegación privada / InPrivate / Incógnito"
+    "explicacion": "El tema señala la vista Detalles como la más informativa.",
+    "referencia": "V.9 · 6.3 Modos de visualización"
   },
   {
-    "id": "t40-p016",
+    "id": "t37-p013",
     "tema": 40,
-    "pregunta": "En relación con los protocolos de correo electrónico, señale la respuesta correcta:",
+    "pregunta": "La Papelera de reciclaje:",
     "opciones": [
-      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
-      "POP3 es el protocolo para el envío de correos con sincronización entre dispositivos.",
-      "IMAP descarga los mensajes del servidor y los elimina por defecto.",
-      "HTTPS es el protocolo habitual para remitir correo entre servidores."
+      "almacena temporalmente los archivos eliminados",
+      "borra de forma irreversible al instante",
+      "solo contiene archivos del sistema",
+      "impide recuperar nada"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
-    "referencia": "Tema 40, 2.5.1 Correo electrónico"
+    "explicacion": "El tema la presenta como almacenamiento temporal recuperable.",
+    "referencia": "V.9 · 2.3 Los iconos del escritorio"
+  },
+  {
+    "id": "t37-p014",
+    "tema": 40,
+    "pregunta": "El acceso rápido es:",
+    "opciones": [
+      "una herramienta para acceder a carpetas y archivos usados con frecuencia",
+      "un antivirus",
+      "un sistema de copia de seguridad",
+      "una edición de Windows"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo incluye entre las herramientas del entorno.",
+    "referencia": "V.9 · 9.2 Acceso rápido"
+  },
+  {
+    "id": "t37-p015",
+    "tema": 40,
+    "pregunta": "Una herramienta del sistema es:",
+    "opciones": [
+      "Administrador de tareas",
+      "Papelera de reciclaje",
+      "Bloc de notas",
+      "Calculadora"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera el Administrador de tareas entre las herramientas del sistema.",
+    "referencia": "V.9 · 11.1 Administrador de tareas (Task Manager)"
+  },
+  {
+    "id": "t37-p016",
+    "tema": 40,
+    "pregunta": "¿Cual es la funcion principal de Microsoft Copilot en Windows 11?",
+    "opciones": [
+      "Gestionar de forma autonoma la seguridad de la red sin intervencion del administrador",
+      "Actuar como asistente de inteligencia artificial para responder preguntas, buscar informacion y ayudar con tareas",
+      "Servir exclusivamente como sistema de almacenamiento en la nube",
+      "Sustituir al Explorador de archivos en la gestion de carpetas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema presenta Copilot como un asistente de inteligencia artificial capaz de responder preguntas, buscar informacion y ayudar con acciones del sistema.",
+    "referencia": "V.9 · 4.2 Funciones de Copilot en Windows"
+  },
+  {
+    "id": "t37-p017",
+    "tema": 40,
+    "pregunta": "¿Cual de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualizacion validos segun el tema?",
+    "opciones": [
+      "Lista, Detalles e Iconos medianos",
+      "Iconos muy pequeños, Extendido y Mosaico",
+      "Mosaico, Iconos medianos y Extendido",
+      "Iconos muy grandes, Contenido e Iconos muy pequeños"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye como vistas validas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido ni la denominacion iconos muy pequeños.",
+    "referencia": "V.9 · 6.3 Modos de visualizacion"
   }
 ]

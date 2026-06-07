@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t26-p001",
+    "tema": 26,
+    "pregunta": "Los órganos colegiados locales se rigen con carácter supletorio por el:",
+    "opciones": [
+      "ROF",
+      "Código Civil",
+      "Código Penal",
+      "RGPD"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala expresamente el ROF como régimen supletorio.",
+    "referencia": "Tema 26, 1.3 Régimen supletorio"
+  },
+  {
+    "id": "t26-p002",
+    "tema": 26,
+    "pregunta": "La convocatoria del órgano colegiado corresponde al:",
+    "opciones": [
+      "Presidente",
+      "Secretario",
+      "Interventor",
+      "Tesorero"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye la convocatoria al Presidente.",
+    "referencia": "Tema 26, 2.1 Competencia para convocar"
+  },
+  {
+    "id": "t26-p003",
+    "tema": 26,
+    "pregunta": "La convocatoria del Pleno puede ser solicitada por al menos:",
+    "opciones": [
+      "la cuarta parte de los miembros",
+      "la mitad de los asistentes",
+      "dos tercios del Pleno",
+      "un solo miembro"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge ese umbral para solicitar la convocatoria plenaria.",
+    "referencia": "Tema 26, 2.1 Competencia para convocar"
+  },
+  {
+    "id": "t26-p004",
+    "tema": 26,
+    "pregunta": "La antelación mínima de la convocatoria ordinaria o extraordinaria es de:",
+    "opciones": [
+      "2 días hábiles",
+      "24 horas",
+      "5 días naturales",
+      "10 días hábiles"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija dos días hábiles de antelación.",
+    "referencia": "Tema 26, 2.2 Antelación mínima de la convocatoria"
+  },
+  {
+    "id": "t26-p005",
+    "tema": 26,
+    "pregunta": "La convocatoria urgente:",
+    "opciones": [
+      "no exige plazo mínimo",
+      "debe notificarse con 15 días hábiles",
+      "requiere siempre dictamen de la Comisión de Cuentas",
+      "solo puede hacerse por el Secretario"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema indica que la urgencia elimina el plazo mínimo.",
+    "referencia": "Tema 26, 2.2 Antelación mínima de la convocatoria"
+  },
+  {
+    "id": "t26-p006",
+    "tema": 26,
+    "pregunta": "El orden del día:",
+    "opciones": [
+      "limita los asuntos que pueden debatirse y votarse",
+      "solo sirve como archivo histórico",
+      "es irrelevante si hay urgencia",
+      "solo se usa en la Junta de Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema subraya que marca los asuntos a tratar.",
+    "referencia": "Tema 26, 2.5 El orden del día"
+  },
+  {
+    "id": "t26-p007",
+    "tema": 26,
+    "pregunta": "El quórum inicial de constitución exige:",
+    "opciones": [
+      "un tercio del número legal de miembros, con un mínimo de tres",
+      "la mayoría absoluta de los miembros",
+      "dos tercios de los miembros",
+      "la presencia de todos los concejales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija un tercio y un mínimo de tres.",
+    "referencia": "Tema 26, 3.2 Quórum de constitución (quórum inicial)"
+  },
+  {
+    "id": "t26-p008",
+    "tema": 26,
+    "pregunta": "Para constituirse válidamente, deben estar presentes:",
+    "opciones": [
+      "el Presidente y el Secretario",
+      "el alcalde y el interventor",
+      "solo el portavoz de mayoría",
+      "el tesorero y dos vocales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige la presencia de Presidente y Secretario.",
+    "referencia": "Tema 26, 3.4 Asistencia del Presidente y del Secretario"
+  },
+  {
+    "id": "t26-p009",
+    "tema": 26,
+    "pregunta": "El voto delegado:",
+    "opciones": [
+      "no está permitido",
+      "es obligatorio en todas las sesiones",
+      "solo existe en comisiones especiales",
+      "sustituye al voto de calidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo prohíbe expresamente.",
+    "referencia": "Tema 26, 4.6 Voto delegado"
+  },
+  {
+    "id": "t26-p010",
+    "tema": 26,
+    "pregunta": "¿Cuándo hay empate en una votación, el Presidente dispone de?",
+    "opciones": [
+      "voto de calidad",
+      "veto suspensivo",
+      "doble voto siempre",
+      "voto ponderado automático"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema contempla el voto de calidad del Presidente.",
+    "referencia": "Tema 26, 4.5 Empate en la votación / 4.7 Voto de calidad y voto ponderado"
+  },
+  {
+    "id": "t26-p011",
+    "tema": 26,
+    "pregunta": "Las mayorías exigidas para adoptar acuerdos dependen:",
+    "opciones": [
+      "del tipo de asunto y de lo que establezca la ley",
+      "solo de la edad del Presidente",
+      "únicamente del número de asistentes",
+      "siempre de la unanimidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue mayoría simple, absoluta y cualificadas.",
+    "referencia": "Tema 26, 4.4 Mayorías exigidas para la adopción de acuerdos"
+  },
+  {
+    "id": "t26-p012",
+    "tema": 26,
+    "pregunta": "Según el art. 109 ROF, el acta, debe recoger entre otros:",
+    "opciones": [
+      "asistentes, orden del día, desarrollo de debates, votaciones y acuerdos",
+      "solo el nombre del Presidente",
+      "únicamente los gastos de la sesión",
+      "solo la fecha de publicación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esos extremos como contenido del acta.",
+    "referencia": "Tema 26, 5.2 Contenido del acta (art. 109 ROF)"
+  },
+  {
+    "id": "t26-p013",
+    "tema": 26,
+    "pregunta": "Los certificados de acuerdos pueden ser expedidos por:",
+    "opciones": [
+      "el Secretario",
+      "cualquier diputado",
+      "el Presidente únicamente",
+      "el interventor de fondos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye esa función al Secretario.",
+    "referencia": "Tema 26, 6.2 Quién puede expedir certificados"
+  },
+  {
+    "id": "t26-p014",
+    "tema": 26,
+    "pregunta": "Los certificados tienen:",
+    "opciones": [
+      "valor de fe pública respecto de los acuerdos certificados",
+      "solo valor informativo sin eficacia alguna",
+      "valor de sentencia firme",
+      "eficacia reglamentaria"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema les atribuye un valor jurídico relevante.",
+    "referencia": "Tema 26, 6.4 Efectos del certificado"
+  },
+  {
+    "id": "t26-p015",
+    "tema": 26,
+    "pregunta": "Las Comisiones Informativas, tienen como función principal el:",
+    "opciones": [
+      "estudio, informe y consulta",
+      "dictado de sentencias",
+      "control jurisdiccional",
+      "recaudación ejecutiva"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema les atribuye funciones de estudio, informe y consulta.",
+    "referencia": "Tema 26, 7. Régimen de sesiones de las Comisiones Informativas"
+  }
+]

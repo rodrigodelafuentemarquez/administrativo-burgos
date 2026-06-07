@@ -79,6 +79,21 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     return arr.map((v) => [Math.random(), v]).sort((a,b) => a[0]-b[0]).map((x) => x[1]);
   }
 
+  function shuffleQuestionOptions(question) {
+    const options = question.opciones.map((texto, index) => ({
+      texto,
+      originalIndex: index,
+      sortKey: Math.random(),
+    }));
+    options.sort((a, b) => a.sortKey - b.sortKey);
+
+    return {
+      ...question,
+      opciones: options.map((entry) => entry.texto),
+      correcta: options.findIndex((entry) => entry.originalIndex === question.correcta),
+    };
+  }
+
   function clearActiveTimer() {
     if (activeTimerId) {
       window.clearInterval(activeTimerId);
@@ -389,6 +404,8 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       selected = shuffle(allQuestions);
       if (limit > 0) selected = selected.slice(0, limit);
     }
+
+    selected = selected.map((question) => shuffleQuestionOptions(question));
 
     const isOfficial = currentSessionMode === 'official' && mode !== 'fails';
     const isSmart = currentSessionMode === 'smart' && mode !== 'fails';

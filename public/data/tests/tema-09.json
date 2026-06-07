@@ -1,212 +1,576 @@
 [
   {
-    "id": "t09-p001",
+    "id": "t08-p001",
     "tema": 9,
-    "pregunta": "La autonomía local tiene su fundamento directo en:",
+    "pregunta": "El texto vigente del Estatuto de Autonomía de Castilla y León es el aprobado por:",
     "opciones": [
-      "la Constitución Española de 1978",
-      "la Carta Europea de Autonomía Local",
-      "la Ley 1/1998 de Castilla y León",
-      "el Reglamento de Organización y Funcionamiento"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema señala que la autonomía local tiene su fundamento directo en la Constitución Española de 1978.",
-    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
-  },
-  {
-    "id": "t09-p002",
-    "tema": 9,
-    "pregunta": "¿Qué artículo de la Constitución garantiza la autonomía del municipio?",
-    "opciones": [
-      "Art. 137 CE",
-      "Art. 140 CE",
-      "Art. 141 CE",
-      "Art. 142 CE"
+      "Ley Orgánica 4/1983",
+      "Ley Orgánica 14/2007",
+      "Ley 1/1998",
+      "Ley Orgánica 3/1981"
     ],
     "correcta": 1,
-    "explicacion": "El tema atribuye al art. 140 CE la garantía constitucional de la autonomía municipal.",
-    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+    "explicacion": "El tema señala que la reforma más importante y vigente es la operada por la Ley Orgánica 14/2007.",
+    "referencia": "I.9 · 1.1 Antecedentes y evolución"
   },
   {
-    "id": "t09-p003",
+    "id": "t08-p002",
     "tema": 9,
-    "pregunta": "Según el art. 3 LBRL, ¿cuál de las siguientes entidades es de existencia necesaria?",
+    "pregunta": "Según el art. 2 EACyL, ¿cuántas provincias integran Castilla y León?",
     "opciones": [
-      "La comarca",
-      "La mancomunidad",
-      "La isla",
-      "El área metropolitana"
+      "7",
+      "8",
+      "9",
+      "10"
     ],
     "correcta": 2,
-    "explicacion": "El tema enumera como entidades locales de existencia necesaria al municipio, la provincia y la isla.",
-    "referencia": "Tema 9, 2.1 Clasificación según la LBRL (art. 3 LBRL)"
+    "explicacion": "El temario enumera nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.",
+    "referencia": "I.9 · 1.3 Territorio (art. 2 EACyL)"
   },
   {
-    "id": "t09-p004",
+    "id": "t08-p003",
     "tema": 9,
-    "pregunta": "¿Qué entidad es el gobierno y la administración del municipio?",
+    "pregunta": "Según el art. 4 EACyL, la capital de Castilla y León es:",
     "opciones": [
-      "El Ayuntamiento",
-      "La Diputación Provincial",
-      "La Junta Vecinal",
-      "El Cabildo Insular"
+      "Burgos",
+      "León",
+      "Salamanca",
+      "Valladolid"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema sitúa la capital en Valladolid, donde radica la sede de la Junta y la Presidencia de la Comunidad.",
+    "referencia": "I.9 · 1.4 Capital y sede de las instituciones (art. 4 EACyL)"
+  },
+  {
+    "id": "t08-p004",
+    "tema": 9,
+    "pregunta": "¿Qué institución de autogobierno no aparece entre las cuatro señaladas?",
+    "opciones": [
+      "Las Cortes de Castilla y León",
+      "La Junta de Castilla y León",
+      "El Presidente de la Junta de Castilla y León",
+      "El Procurador del Común"
+    ],
+    "correcta": 3,
+    "explicacion": "El tema enumera como instituciones de autogobierno a las Cortes, la Junta, el Presidente y el TSJ; el Procurador del Común se trata aparte como comisionado.",
+    "referencia": "I.9 · 2.1 Las instituciones de autogobierno (art. 19 EACyL)"
+  },
+  {
+    "id": "t08-p005",
+    "tema": 9,
+    "pregunta": "Las Cortes de Castilla y León se componen de:",
+    "opciones": [
+      "61 a 83 procuradores",
+      "50 a 100 procuradores",
+      "81 a 101 procuradores",
+      "100 a 125 procuradores"
     ],
     "correcta": 0,
-    "explicacion": "El temario identifica al Ayuntamiento como órgano de gobierno y administración del municipio.",
-    "referencia": "Tema 9, 2.2 El Municipio"
+    "explicacion": "El tema fija una composición entre 61 y 83 procuradores; actualmente son 81.",
+    "referencia": "I.9 · 2.2 Las Cortes de Castilla y León"
   },
   {
-    "id": "t09-p005",
+    "id": "t08-p006",
     "tema": 9,
-    "pregunta": "El padrón municipal es:",
+    "pregunta": "Según el Tema 8, ¿qué mayoría se exige para elegir al Presidente de la Junta en primera votación?",
     "opciones": [
-      "el registro administrativo donde constan los vecinos del municipio",
-      "un registro estatal de funcionarios",
-      "un censo exclusivamente electoral",
-      "un libro de actas del Pleno"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema define el padrón municipal como el registro administrativo donde constan los vecinos del municipio.",
-    "referencia": "Tema 9, 2.2 c) La población: el padrón municipal"
-  },
-  {
-    "id": "t09-p006",
-    "tema": 9,
-    "pregunta": "¿Qué órgano de gobierno insular existe en Canarias?",
-    "opciones": [
-      "Consejos Insulares",
-      "Cabildos Insulares",
-      "Diputaciones Forales",
-      "Juntas Vecinales"
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Mayoría de tres quintos",
+      "Mayoría de dos tercios"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que en Canarias el órgano de gobierno insular son los Cabildos Insulares.",
-    "referencia": "Tema 9, 2.4 La Isla"
+    "explicacion": "El tema indica que en primera votación se requiere mayoría absoluta y en la segunda mayoría simple.",
+    "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León"
   },
   {
-    "id": "t09-p007",
+    "id": "t08-p007",
     "tema": 9,
-    "pregunta": "¿Cuál de las siguientes es una entidad local menor?",
+    "pregunta": "Según el art. 42 EACyL, ¿dónde tiene su sede el Tribunal Superior de Justicia de Castilla y León?",
     "opciones": [
-      "Junta Vecinal",
-      "Consejo Económico y Social",
-      "Consejo Insular",
-      "Mancomunidad"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema señala que en Castilla y León las entidades locales menores reciben el nombre de Juntas Vecinales.",
-    "referencia": "Tema 9, 2.5 Las Entidades Locales Menores"
-  },
-  {
-    "id": "t09-p008",
-    "tema": 9,
-    "pregunta": "¿Qué entidades locales pueden crearse para la gestión de servicios en ámbitos urbanos con fuertes vínculos económicos y sociales?",
-    "opciones": [
-      "Las áreas metropolitanas",
-      "Las entidades locales menores",
-      "Las mancomunidades",
-      "Las diputaciones forales"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema define las áreas metropolitanas como entidades locales integradas por municipios de grandes aglomeraciones urbanas.",
-    "referencia": "Tema 9, 2.7 Las Áreas Metropolitanas"
-  },
-  {
-    "id": "t09-p009",
-    "tema": 9,
-    "pregunta": "¿Qué categoría de competencias municipales recoge como asumidas por la ley y ejercidas con autonomía y bajo responsabilidad propia?",
-    "opciones": [
-      "Competencias propias",
-      "Competencias delegadas",
-      "Competencias exclusivas del Estado",
-      "Competencias impropias"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema diferencia las competencias propias, delegadas y las distintas de unas y otras.",
-    "referencia": "Tema 9, 4.1 Marco constitucional y legal"
-  },
-  {
-    "id": "t09-p010",
-    "tema": 9,
-    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo es obligatorio en todos los municipios?",
-    "opciones": [
-      "Transporte colectivo urbano de viajeros",
-      "Biblioteca pública",
-      "Alumbrado público",
-      "Protección civil"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
-    "referencia": "Tema 9, 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
-  },
-  {
-    "id": "t09-p011",
-    "tema": 9,
-    "pregunta": "Las Haciendas Locales deben disponer de:",
-    "opciones": [
-      "medios suficientes para el desempeño de sus funciones",
-      "potestad legislativa propia",
-      "ingresos exclusivamente estatales",
-      "competencia exclusiva en defensa"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema remite al art. 142 CE sobre medios suficientes para las Haciendas Locales.",
-    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
-  },
-  {
-    "id": "t09-p012",
-    "tema": 9,
-    "pregunta": "¿Qué ley constituye la norma fundamental del Régimen Local español?",
-    "opciones": [
-      "La LBRL",
-      "La LO 3/1981",
-      "La Ley Orgánica del Poder Judicial",
-      "La Ley de Presupuestos Generales del Estado"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema identifica la Ley 7/1985 como la norma fundamental del Régimen Local.",
-    "referencia": "Tema 9, 1.3 La legislación básica estatal: la LBRL"
-  },
-  {
-    "id": "t09-p013",
-    "tema": 9,
-    "pregunta": "Las mancomunidades de municipios son:",
-    "opciones": [
-      "asociaciones voluntarias de municipios para la ejecución en común de obras y servicios",
-      "órganos de gobierno de la provincia",
-      "entidades de existencia necesaria",
-      "organismos estatales desconcentrados"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema define las mancomunidades como asociaciones voluntarias para obras y servicios comunes.",
-    "referencia": "Tema 9, 2.8 Las Mancomunidades de Municipios"
-  },
-  {
-    "id": "t09-p014",
-    "tema": 9,
-    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo debe prestar todo municipio?",
-    "opciones": [
-      "Transporte colectivo urbano de viajeros",
-      "Tratamiento de residuos",
-      "Alumbrado público",
-      "Protección civil"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
-    "referencia": "Tema 9, 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
-  },
-  {
-    "id": "t09-p015",
-    "tema": 9,
-    "pregunta": "La autonomía local es:",
-    "opciones": [
-      "una autonomía legislativa",
-      "una autonomía administrativa, no política",
-      "una autonomía jurisdiccional",
-      "una autonomía tributaria absoluta"
+      "Valladolid",
+      "Burgos",
+      "León",
+      "Palencia"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya que la autonomía local es administrativa y no política.",
-    "referencia": "Tema 9, 1.1 Fundamento constitucional de la autonomía local"
+    "explicacion": "El tema señala que el TSJ de Castilla y León tiene su sede en Burgos.",
+    "referencia": "I.9 · 2.5 El Tribunal Superior de Justicia de Castilla y León (art. 42 EACyL)"
+  },
+  {
+    "id": "t08-p008",
+    "tema": 9,
+    "pregunta": "Según el Tema 8, sanidad, educación, medio ambiente y régimen local son materias de competencia:",
+    "opciones": [
+      "Exclusiva del Estado",
+      "Compartida o de desarrollo legislativo",
+      "Delegada por el Senado",
+      "Reservada a las Diputaciones Provinciales"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario presenta esas materias como competencias compartidas más relevantes de Castilla y León.",
+    "referencia": "I.9 · 3.3 Competencias compartidas más relevantes"
+  },
+  {
+    "id": "t08-p009",
+    "tema": 9,
+    "pregunta": "¿Qué mayoría se exige para elegir al Procurador del Común en primera votación?",
+    "opciones": [
+      "Mayoría absoluta",
+      "Mayoría de 3/5",
+      "Mayoría simple",
+      "Mayoría de 2/3"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Procurador del Común se elige por mayoría de 3/5 y, si no se alcanza, por mayoría absoluta en segunda votación.",
+    "referencia": "I.9 · 4.2 Elección y mandato"
+  },
+  {
+    "id": "t08-p010",
+    "tema": 9,
+    "pregunta": "¿Quién puede supervisar la actividad de la Administración de la Junta de Castilla y León y de las Entidades Locales?",
+    "opciones": [
+      "El Defensor del Pueblo",
+      "El Procurador del Común",
+      "El Tribunal de Cuentas",
+      "El Consejo Consultivo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
+    "referencia": "I.9 · 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión"
+  },
+  {
+    "id": "t08-p011",
+    "tema": 9,
+    "pregunta": "Según el art. 3 EACyL, ¿qué día es la fiesta de la Comunidad de Castilla y León?",
+    "opciones": [
+      "15 de agosto",
+      "12 de octubre",
+      "23 de abril",
+      "6 de diciembre"
+    ],
+    "correcta": 2,
+    "explicacion": "El temario fija el 23 de abril como fiesta de la Comunidad, en conmemoración de Villalar.",
+    "referencia": "I.9 · 1.5 Símbolos (art. 3 EACyL)"
+  },
+  {
+    "id": "t08-p012",
+    "tema": 9,
+    "pregunta": "¿Cuál de los siguientes derechos estatutarios figura entre los recogidos en el Estatuto?",
+    "opciones": [
+      "Derecho a una buena administración y a servicios públicos de calidad",
+      "Derecho de sufragio universal municipal",
+      "Derecho a dictar leyes orgánicas",
+      "Derecho a la declaración de guerra"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el derecho a una buena administración como derecho estatutario.",
+    "referencia": "I.9 · 1.6 Derechos y principios rectores"
+  },
+  {
+    "id": "t08-p013",
+    "tema": 9,
+    "pregunta": "Las Cortes de Castilla y León se eligen por circunscripción:",
+    "opciones": [
+      "comarcal",
+      "provincial",
+      "insular",
+      "municipal"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario indica que la circunscripción es la provincia.",
+    "referencia": "I.9 · 2.2 Las Cortes de Castilla y León"
+  },
+  {
+    "id": "t08-p014",
+    "tema": 9,
+    "pregunta": "¿Qué puede hacer el Presidente de la Junta de Castilla y León?",
+    "opciones": [
+      "Nombrar al Rey",
+      "Plantear la cuestión de confianza y disolver las Cortes en los términos estatutarios",
+      "Legislar por decreto-ley estatal",
+      "Designar al Tribunal Superior de Justicia"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge entre sus funciones la cuestión de confianza y la posibilidad de disolver las Cortes.",
+    "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León"
+  },
+  {
+    "id": "t08-p015",
+    "tema": 9,
+    "pregunta": "¿Cuánto dura el mandato del Procurador del Común?",
+    "opciones": [
+      "4 años, renovable indefinidamente",
+      "5 años, renovable una sola vez",
+      "6 años, no renovable",
+      "8 años, renovable por mitades"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de 5 años y una sola renovación.",
+    "referencia": "I.9 · 4.2 Elección y mandato"
+  },
+  {
+    "id": "t47-p001",
+    "tema": 9,
+    "pregunta": "La vía de acceso a la autonomía seguida por Castilla y León fue la prevista en el artículo:",
+    "opciones": [
+      "143 CE",
+      "151 CE",
+      "148 CE",
+      "149 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema dice expresamente que Castilla y León siguió la vía ordinaria del art. 143 CE.",
+    "referencia": "I.9 · 1.1 Fundamento constitucional y proceso de acceso a la autonomía"
+  },
+  {
+    "id": "t47-p002",
+    "tema": 9,
+    "pregunta": "La capital de Castilla y León es:",
+    "opciones": [
+      "León",
+      "Valladolid",
+      "Burgos",
+      "Salamanca"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema sitúa la capital en Valladolid.",
+    "referencia": "I.9 · 1.3 Denominación, territorio y capitalidad"
+  },
+  {
+    "id": "t47-p003",
+    "tema": 9,
+    "pregunta": "Las Cortes de Castilla y León son una asamblea:",
+    "opciones": [
+      "Bicameral",
+      "Unicameral",
+      "Federal",
+      "Consultiva"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema las define como unicamerales.",
+    "referencia": "I.9 · 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p004",
+    "tema": 9,
+    "pregunta": "El número de Procuradores de las Cortes de Castilla y León es:",
+    "opciones": [
+      "60 a 64",
+      "70 a 74",
+      "80 a 84",
+      "100 a 104"
+    ],
+    "correcta": 2,
+    "explicacion": "El Estatuto fija un mínimo de 80 y un máximo de 84.",
+    "referencia": "I.9 · 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p005",
+    "tema": 9,
+    "pregunta": "El mandato de los Procuradores es de:",
+    "opciones": [
+      "Tres años",
+      "Cuatro años",
+      "Cinco años",
+      "Seis años"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala un mandato de cuatro años.",
+    "referencia": "I.9 · 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p006",
+    "tema": 9,
+    "pregunta": "¿Cuál de las siguientes funciones corresponde a las Cortes de Castilla y León?",
+    "opciones": [
+      "Nombrar a los Consejeros",
+      "Aprobar los Presupuestos Generales de la Comunidad",
+      "Dirigir la Administración periférica",
+      "Ejercer la potestad reglamentaria del Gobierno"
+    ],
+    "correcta": 1,
+    "explicacion": "La función presupuestaria corresponde a las Cortes.",
+    "referencia": "I.9 · 2.2 Funciones"
+  },
+  {
+    "id": "t47-p007",
+    "tema": 9,
+    "pregunta": "El Presidente de la Junta es elegido por:",
+    "opciones": [
+      "El Rey directamente",
+      "Las Cortes mediante investidura",
+      "El Consejo Consultivo",
+      "El Procurador del Común"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema explica que el candidato es investido por las Cortes.",
+    "referencia": "I.9 · 3.1 Elección y mandato"
+  },
+  {
+    "id": "t47-p008",
+    "tema": 9,
+    "pregunta": "¿Cuál de las siguientes es una atribución del Presidente de la Junta?",
+    "opciones": [
+      "Aprobar las leyes autonómicas",
+      "Promulgar y ordenar la publicación de las leyes",
+      "Elegir a los Consejeros del Consejo de Cuentas",
+      "Designar al Procurador del Común"
+    ],
+    "correcta": 1,
+    "explicacion": "El Presidente promulga y ordena publicar las leyes.",
+    "referencia": "I.9 · 3.2 Atribuciones"
+  },
+  {
+    "id": "t47-p009",
+    "tema": 9,
+    "pregunta": "El Consejo de Gobierno está compuesto por:",
+    "opciones": [
+      "Procuradores y Senadores",
+      "Presidente y Consejeros",
+      "Magistrados y Fiscales",
+      "Alcaldes y Diputados"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema identifica al Presidente y los Consejeros como miembros del Consejo de Gobierno.",
+    "referencia": "I.9 · 4.1 Composición"
+  },
+  {
+    "id": "t47-p010",
+    "tema": 9,
+    "pregunta": "La organización central de la Administración autonómica se articula en torno a:",
+    "opciones": [
+      "Diputaciones provinciales",
+      "Consejerías",
+      "Juntas vecinales",
+      "Mancomunidades"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema sitúa las Consejerías como órgano superior de la organización central.",
+    "referencia": "I.9 · 5.1 La organización central"
+  },
+  {
+    "id": "t47-p011",
+    "tema": 9,
+    "pregunta": "El Procurador del Común es el equivalente autonómico de:",
+    "opciones": [
+      "El Tribunal de Cuentas",
+      "El Defensor del Pueblo",
+      "El Consejo de Estado",
+      "El CES"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo describe como equivalente autonómico del Defensor del Pueblo.",
+    "referencia": "I.9 · 6.1 El Procurador del Común"
+  },
+  {
+    "id": "t47-p012",
+    "tema": 9,
+    "pregunta": "El Consejo Consultivo de Castilla y León se define como:",
+    "opciones": [
+      "Órgano fiscalizador externo",
+      "Supremo órgano consultivo de la Junta",
+      "Órgano legislativo",
+      "Órgano jurisdiccional"
+    ],
+    "correcta": 1,
+    "explicacion": "Ese es el papel que le atribuye el tema.",
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+  },
+  {
+    "id": "t47-p013",
+    "tema": 9,
+    "pregunta": "El Consejo de Cuentas de Castilla y León tiene función:",
+    "opciones": [
+      "Jurisdiccional y consultiva",
+      "Fiscalizadora",
+      "Legislativa",
+      "Ejecutiva"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya su función fiscalizadora y no jurisdiccional.",
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
+  },
+  {
+    "id": "t47-p014",
+    "tema": 9,
+    "pregunta": "El Consejo Económico y Social de Castilla y León es órgano de:",
+    "opciones": [
+      "Control de legalidad",
+      "Consulta y participación",
+      "Gobierno y dirección",
+      "Sanción administrativa"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo define como órgano de consulta y participación.",
+    "referencia": "I.9 · 6.4 El Consejo Económico y Social de Castilla y León (CES)"
+  },
+  {
+    "id": "t47-p015",
+    "tema": 9,
+    "pregunta": "La Administración periférica autonómica se articula a través de:",
+    "opciones": [
+      "Delegaciones Territoriales",
+      "Tribunales Superiores",
+      "Colegiaturas",
+      "Consulados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
+    "referencia": "I.9 · 5.2 La Administración Periférica: las Delegaciones Territoriales"
+  },
+  {
+    "id": "t47-p016",
+    "tema": 9,
+    "pregunta": "De acuerdo con el Estatuto de Autonomia de Castilla y Leon y con el Tema 47, a cada provincia le corresponde un minimo de:",
+    "opciones": [
+      "Dos Procuradores",
+      "Tres Procuradores",
+      "Cuatro Procuradores",
+      "Cinco Procuradores"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que la circunscripcion es provincial y que cada provincia cuenta con un minimo de tres Procuradores.",
+    "referencia": "I.9 · 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p017",
+    "tema": 9,
+    "pregunta": "De acuerdo con el Tema 47, corresponde al Presidente de la Junta de Castilla y Leon:",
+    "opciones": [
+      "Nombrar y cesar libremente a los Consejeros",
+      "Elegir a los Procuradores provinciales",
+      "Fiscalizar las cuentas de las entidades locales",
+      "Resolver los recursos de casacion ante el Tribunal Superior de Justicia"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera entre las atribuciones del Presidente el nombramiento y cese de los Consejeros.",
+    "referencia": "I.9 · 3.2 Atribuciones"
+  },
+  {
+    "id": "t47-p018",
+    "tema": 9,
+    "pregunta": "El Consejo Consultivo de Castilla y Leon emite dictamen preceptivo, entre otros casos, sobre:",
+    "opciones": [
+      "Proyectos de reforma del Estatuto de Autonomia",
+      "La eleccion de los Procuradores de las Cortes de Castilla y Leon",
+      "La aprobacion inicial de los presupuestos municipales",
+      "La designacion del Delegado Territorial en cada provincia"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye los proyectos de reforma del Estatuto entre los supuestos de dictamen preceptivo.",
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+  },
+  {
+    "id": "t47-p019",
+    "tema": 9,
+    "pregunta": "Según el artículo 21.1 del Estatuto de Autonomía de Castilla y León, los Procuradores serán elegidos por sufragio universal:",
+    "opciones": [
+      "Libre, igual, directo y secreto.",
+      "Libre, personal, indirecto y secreto.",
+      "Igual, corporativo, directo y secreto.",
+      "Universal, censitario, directo y secreto."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce la elección por sufragio universal, libre, igual, directo y secreto.",
+    "referencia": "I.9 · 2.1 Naturaleza y composición"
+  },
+  {
+    "id": "t47-p020",
+    "tema": 9,
+    "pregunta": "Segun el Tema 47, los Consejeros electivos del Consejo Consultivo de Castilla y Leon son elegidos por las Cortes de Castilla y Leon para un mandato de:",
+    "opciones": [
+      "Cuatro anos",
+      "Cinco anos",
+      "Seis anos",
+      "Ocho anos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema establece un mandato de cuatro anos para los Consejeros electivos del Consejo Consultivo.",
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y Leon"
+  },
+  {
+    "id": "t47-p021",
+    "tema": 9,
+    "pregunta": "De acuerdo con el Tema 47, el candidato a Presidente de la Junta de Castilla y Leon resultara investido en segunda votacion si obtiene:",
+    "opciones": [
+      "Mayoria de tres quintos de las Cortes",
+      "Mayoria absoluta de las Cortes",
+      "Mayoria simple",
+      "Unanimidad de los Procuradores presentes"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema indica que, tras no lograr mayoria absoluta en primera votacion, basta la mayoria simple en segunda.",
+    "referencia": "I.9 · 3.1 Eleccion y mandato"
+  },
+  {
+    "id": "t47-p022",
+    "tema": 9,
+    "pregunta": "Segun el Tema 47, el Procurador del Comun es elegido por las Cortes de Castilla y Leon para un mandato de:",
+    "opciones": [
+      "Cuatro anos, renovable",
+      "Cinco anos, no renovable",
+      "Seis anos, renovable una vez",
+      "Ocho anos, no renovable"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mandato de cinco anos para el Procurador del Comun y lo califica como no renovable.",
+    "referencia": "I.9 · 6.1 El Procurador del Comun"
+  },
+  {
+    "id": "t47-p023",
+    "tema": 9,
+    "pregunta": "Conforme al Tema 47, el Consejo de Cuentas de Castilla y Leon:",
+    "opciones": [
+      "Tiene funciones fiscalizadora y jurisdiccional, al igual que el Tribunal de Cuentas del Estado",
+      "Solo tiene funcion fiscalizadora y no puede enjuiciar la responsabilidad contable",
+      "Depende jerarquicamente del Tribunal Supremo",
+      "Es un organo consultivo de la Junta en materia presupuestaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya que el Consejo de Cuentas solo fiscaliza y carece de funcion jurisdiccional.",
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y Leon"
+  },
+  {
+    "id": "t47-p024",
+    "tema": 9,
+    "pregunta": "Según el Tema 47, el Procurador del Común es elegido por las Cortes de Castilla y León por:",
+    "opciones": [
+      "Mayoría de tres quintos en primera votación o mayoría absoluta en segunda.",
+      "Mayoría absoluta en primera votación y mayoría simple en segunda.",
+      "Mayoría simple en primera votación y unanimidad en segunda.",
+      "Mayoría de dos tercios en única votación."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema señala ese sistema de elección para el Procurador del Común.",
+    "referencia": "I.9 · 6.1 El Procurador del Común"
+  },
+  {
+    "id": "t47-p025",
+    "tema": 9,
+    "pregunta": "De acuerdo con el Tema 47, el Consejo de Cuentas de Castilla y León está compuesto por:",
+    "opciones": [
+      "Siete Consejeros elegidos por las Cortes por mayoría de tres quintos para un mandato de seis años.",
+      "Cinco Consejeros elegidos por la Junta por mayoría simple para un mandato de cuatro años.",
+      "Nueve Consejeros elegidos por el Consejo Consultivo para un mandato de seis años.",
+      "Tres Consejeros elegidos por las Cortes por mayoría absoluta para un mandato de cinco años."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija en siete los Consejeros, elegidos por las Cortes por mayoría de tres quintos para seis años.",
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
+  },
+  {
+    "id": "t47-p026",
+    "tema": 9,
+    "pregunta": "Según el Tema 47, forman parte del Consejo Consultivo de Castilla y León como Consejeros permanentes:",
+    "opciones": [
+      "Los ex-Presidentes de la Junta y los ex-Presidentes de las Cortes de Castilla y León que así lo soliciten.",
+      "Los Presidentes de las Diputaciones Provinciales en activo.",
+      "Los Consejeros de Economía y Hacienda de las últimas dos legislaturas.",
+      "Los Procuradores designados por cada grupo parlamentario al inicio de cada legislatura."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye como Consejeros permanentes a los ex-Presidentes de la Junta y de las Cortes que lo soliciten.",
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
   }
 ]

@@ -11,7 +11,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema reproduce las cuatro clases del art. 8 TREBEP.",
-    "referencia": "Tema 22, 1.2 Clases de personal al servicio de las Administraciones Públicas"
+    "referencia": "III.1 · 1.2 Clases de personal al servicio de las Administraciones Públicas"
   },
   {
     "id": "t22-p002",
@@ -25,7 +25,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema destaca esos principios como rectores del acceso.",
-    "referencia": "Tema 22, 2.1 Principios de acceso (art. 55 TREBEP)"
+    "referencia": "III.1 · 2.1 Principios de acceso (art. 55 TREBEP)"
   },
   {
     "id": "t22-p003",
@@ -39,7 +39,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema identifica esos tres sistemas.",
-    "referencia": "Tema 22, 2.2 Sistemas de selección (art. 61 TREBEP)"
+    "referencia": "III.1 · 2.2 Sistemas de selección (art. 61 TREBEP)"
   },
   {
     "id": "t22-p004",
@@ -53,21 +53,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema recoge esa clasificación del art. 76 TREBEP.",
-    "referencia": "Tema 22, 2.3 Grupos de clasificación profesional (art. 76 TREBEP)"
-  },
-  {
-    "id": "t22-p005",
-    "tema": 22,
-    "pregunta": "Según el art. 15 TREBEP, un derecho individual de ejercicio colectivo es:",
-    "opciones": [
-      "la negociación colectiva",
-      "la permuta de puestos",
-      "la enajenación de bienes",
-      "la convocatoria de elecciones"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema enumera la negociación colectiva como derecho colectivo.",
-    "referencia": "Tema 22, 3.2 Derechos individuales de ejercicio colectivo (art. 15 TREBEP)"
+    "referencia": "III.1 · 2.3 Grupos de clasificación profesional (art. 76 TREBEP)"
   },
   {
     "id": "t22-p006",
@@ -81,7 +67,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema lo reconoce expresamente como derecho individual.",
-    "referencia": "Tema 22, 3.1 Derechos individuales (art. 14 TREBEP)"
+    "referencia": "III.1 · 3.1 Derechos individuales (art. 14 TREBEP)"
   },
   {
     "id": "t22-p007",
@@ -95,7 +81,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema fija 22 días hábiles de vacaciones.",
-    "referencia": "Tema 22, 3.3 Permisos y vacaciones (arts. 48-50 TREBEP)"
+    "referencia": "III.1 · 3.3 Permisos y vacaciones (arts. 48-50 TREBEP)"
   },
   {
     "id": "t22-p008",
@@ -109,7 +95,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema cita la objetividad entre los principios éticos.",
-    "referencia": "Tema 22, 4.1 Principios éticos (art. 52 TREBEP)"
+    "referencia": "III.1 · 4.1 Principios éticos (art. 52 TREBEP)"
   },
   {
     "id": "t22-p009",
@@ -123,77 +109,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema recoge el trato respetuoso como principio de conducta.",
-    "referencia": "Tema 22, 4.2 Principios de conducta (art. 54 TREBEP)"
-  },
-  {
-    "id": "t22-p010",
-    "tema": 22,
-    "pregunta": "Según el art. 22 TREBEP, las retribuciones básicas de los funcionarios incluyen:",
-    "opciones": [
-      "sueldo, trienios y pagas extraordinarias",
-      "solo complemento específico y productividad",
-      "únicamente dietas y asistencias",
-      "solo pluses por nocturnidad"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema enumera sueldo, trienios y pagas extraordinarias.",
-    "referencia": "Tema 22, 5.2 Retribuciones básicas (art. 22 TREBEP)"
-  },
-  {
-    "id": "t22-p011",
-    "tema": 22,
-    "pregunta": "Según el art. 24 TREBEP, cuál de las siguientes es una retribución complementaria:",
-    "opciones": [
-      "complemento de destino",
-      "sueldo base",
-      "trienio",
-      "paga extraordinaria"
-    ],
-    "correcta": 0,
-    "explicacion": "El complemento de destino aparece entre las retribuciones complementarias.",
-    "referencia": "Tema 22, 5.3 Retribuciones complementarias (art. 24 TREBEP)"
-  },
-  {
-    "id": "t22-p012",
-    "tema": 22,
-    "pregunta": "Según los arts. 85-92 TREBEP, el servicio activo es:",
-    "opciones": [
-      "la situación ordinaria en la que el funcionario presta servicios en su puesto",
-      "una sanción disciplinaria",
-      "una excedencia por interés particular",
-      "una baja por incapacidad temporal"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema lo define como la situación ordinaria.",
-    "referencia": "Tema 22, 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
-  },
-  {
-    "id": "t22-p013",
-    "tema": 22,
-    "pregunta": "Según los arts. 85-92 TREBEP, la excedencia voluntaria por interés particular exige un tiempo mínimo de:",
-    "opciones": [
-      "5 años continuados",
-      "6 meses",
-      "1 año",
-      "10 años"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema fija ese mínimo para esta excedencia.",
-    "referencia": "Tema 22, 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
-  },
-  {
-    "id": "t22-p014",
-    "tema": 22,
-    "pregunta": "El régimen de incompatibilidades del personal público, parte de que:",
-    "opciones": [
-      "la incompatibilidad es la regla y la compatibilidad la excepción autorizada",
-      "la compatibilidad es automática con cualquier segunda actividad",
-      "solo existen incompatibilidades para los funcionarios interinos",
-      "no hay limitaciones para el empleo privado"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema lo expresa como principio general.",
-    "referencia": "Tema 22, 7.2 Principio general"
+    "referencia": "III.1 · 4.2 Principios de conducta (art. 54 TREBEP)"
   },
   {
     "id": "t22-p015",
@@ -207,63 +123,7 @@
     ],
     "correcta": 0,
     "explicacion": "El tema fija 3 años para las faltas muy graves.",
-    "referencia": "Tema 22, 8.4 Prescripción de infracciones y sanciones (art. 97 TREBEP)"
-  },
-  {
-    "id": "t22-p016",
-    "tema": 22,
-    "pregunta": "Según el art. 22 TREBEP, los trienios consisten en:",
-    "opciones": [
-      "una cantidad fija por cada 3 años de servicios prestados en el mismo subgrupo o grupo de clasificación",
-      "un complemento variable ligado a la evaluación del desempeño",
-      "una gratificación extraordinaria por servicios fuera de jornada",
-      "una indemnización por razón del servicio"
-    ],
-    "correcta": 0,
-    "explicacion": "Los trienios son una retribución básica fija por cada tres años de servicios prestados en el mismo subgrupo o grupo.",
-    "referencia": "Tema 22, 5.2 Retribuciones básicas (art. 22 TREBEP)"
-  },
-  {
-    "id": "t22-p017",
-    "tema": 22,
-    "pregunta": "Las pagas extraordinarias de los funcionarios se perciben, con carácter general, en:",
-    "opciones": [
-      "junio y diciembre",
-      "marzo y septiembre",
-      "abril y octubre",
-      "enero y julio"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema indica que las pagas extraordinarias son dos al año, en junio y diciembre.",
-    "referencia": "Tema 22, 5.2 Retribuciones básicas (art. 22 TREBEP)"
-  },
-  {
-    "id": "t22-p018",
-    "tema": 22,
-    "pregunta": "Según el art. 24 TREBEP, el complemento específico retribuye:",
-    "opciones": [
-      "las condiciones particulares del puesto, como dificultad técnica, dedicación, responsabilidad o incompatibilidad",
-      "exclusivamente la antigüedad del funcionario",
-      "la realización de servicios extraordinarios fuera de jornada",
-      "la pertenencia a un determinado subgrupo de clasificación"
-    ],
-    "correcta": 0,
-    "explicacion": "El complemento específico remunera las condiciones particulares del puesto y solo puede fijarse uno por puesto.",
-    "referencia": "Tema 22, 5.3 Retribuciones complementarias (art. 24 TREBEP)"
-  },
-  {
-    "id": "t22-p019",
-    "tema": 22,
-    "pregunta": "No requiere reconocimiento de compatibilidad:",
-    "opciones": [
-      "la producción y creación literaria, artística, científica y técnica",
-      "el desempeño de una segunda actividad pública retribuida",
-      "una actividad privada retribuida relacionada directamente con las competencias del puesto",
-      "una actividad privada que genere conflicto de intereses con el servicio público"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema incluye la creación literaria, artística, científica y técnica entre las actividades permitidas sin autorización.",
-    "referencia": "Tema 22, 7.4 Actividades permitidas sin necesidad de autorización"
+    "referencia": "III.1 · 8.4 Prescripción de infracciones y sanciones (art. 97 TREBEP)"
   },
   {
     "id": "t22-p020",
@@ -277,6 +137,580 @@
     ],
     "correcta": 0,
     "explicacion": "El principio impide la doble sanción por los mismos hechos, con los matices que contempla el ordenamiento.",
-    "referencia": "Tema 22, 8.1 Fundamento y principios"
+    "referencia": "III.1 · 8.1 Fundamento y principios"
+  },
+  {
+    "id": "t28-p001",
+    "tema": 22,
+    "pregunta": "El régimen jurídico del personal funcionario local se apoya principalmente en:",
+    "opciones": [
+      "TREBEP, LRBRL, TRRL, legislación autonómica y reglamentos locales",
+      "solo el Código Civil y el Código Penal",
+      "únicamente la Ley de Contratos del Sector Público",
+      "solo la Constitución y el RGPD"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema ordena así el bloque normativo aplicable.",
+    "referencia": "III.1 · 1.1 Marco normativo"
+  },
+  {
+    "id": "t28-p002",
+    "tema": 22,
+    "pregunta": "El personal al servicio de las Entidades Locales se compone de:",
+    "opciones": [
+      "funcionario de carrera, funcionario interino, personal laboral y personal eventual",
+      "magistrados y fiscales",
+      "solo funcionarios de carrera",
+      "concejales y diputados"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce esas cuatro clases.",
+    "referencia": "III.1 · 1.2 Clases de personal al servicio de las Entidades Locales"
+  },
+  {
+    "id": "t28-p003",
+    "tema": 22,
+    "pregunta": "Los FAHN, incluyen las subescalas de:",
+    "opciones": [
+      "Secretaría, Intervención-Tesorería y Secretaría-Intervención",
+      "Jefatura, Inspección y Archivo",
+      "Técnica, Auxiliar y Subalterna",
+      "Administración, Gestión y Servicios"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera esas tres subescalas.",
+    "referencia": "III.1 · 1.3 Funcionarios de Administración local con habilitación de carácter nacional (FAHN)"
+  },
+  {
+    "id": "t28-p004",
+    "tema": 22,
+    "pregunta": "El subgrupo C1 exige como titulación de ingreso:",
+    "opciones": [
+      "Bachiller o Técnico",
+      "Grado universitario",
+      "Doctorado",
+      "ESO sin más requisitos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema vincula C1 con Bachiller o Técnico.",
+    "referencia": "III.1 · 1.4 Clasificación profesional: grupos y subgrupos"
+  },
+  {
+    "id": "t28-p005",
+    "tema": 22,
+    "pregunta": "El acceso al empleo público local se rige por:",
+    "opciones": [
+      "igualdad, mérito, capacidad y publicidad",
+      "confianza política y libre designación",
+      "antigüedad y parentesco",
+      "oportunidad y discrecionalidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo recoge en los principios rectores de la selección.",
+    "referencia": "III.1 · 2.1 Principios rectores de la selección"
+  },
+  {
+    "id": "t28-p006",
+    "tema": 22,
+    "pregunta": "La Oferta de Empleo Público, la aprueba:",
+    "opciones": [
+      "el Pleno de la Entidad Local",
+      "el Secretario General",
+      "la Junta de Gobierno de la Comunidad Autónoma",
+      "el Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye su aprobación al Pleno.",
+    "referencia": "III.1 · 2.2 Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t28-p007",
+    "tema": 22,
+    "pregunta": "Una vez aprobada la OEP, la convocatoria del proceso selectivo debe realizarse en el plazo máximo de:",
+    "opciones": [
+      "tres años",
+      "seis meses",
+      "un año improrrogable",
+      "cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija ese plazo máximo de tres años.",
+    "referencia": "III.1 · 2.2 Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t28-p008",
+    "tema": 22,
+    "pregunta": "El sistema de concurso-oposición combina:",
+    "opciones": [
+      "una fase de concurso y una fase de oposición",
+      "solo valoración de méritos",
+      "solo ejercicios prácticos",
+      "una entrevista y un sorteo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo describe como combinación de méritos y ejercicios.",
+    "referencia": "III.1 · 2.3 Sistemas de selección"
+  },
+  {
+    "id": "t28-p009",
+    "tema": 22,
+    "pregunta": "El órgano de selección debe estar integrado por:",
+    "opciones": [
+      "funcionarios de carrera con titulación igual o superior a la exigida",
+      "cualquier persona designada por el alcalde",
+      "solo personal laboral fijo",
+      "exclusivamente miembros del Pleno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige ese perfil para el tribunal.",
+    "referencia": "III.1 · 2.4 El órgano de selección"
+  },
+  {
+    "id": "t28-p010",
+    "tema": 22,
+    "pregunta": "Entre las fases del proceso selectivo se encuentra:",
+    "opciones": [
+      "la convocatoria y bases, el desarrollo de pruebas y la valoración final",
+      "la adjudicación directa sin pruebas",
+      "la publicación del presupuesto",
+      "la aprobación de la cuenta general"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema describe un proceso con convocatoria, pruebas y valoración.",
+    "referencia": "III.1 · 2.5 Fases del proceso selectivo"
+  },
+  {
+    "id": "t28-p011",
+    "tema": 22,
+    "pregunta": "El sistema ordinario de provisión de puestos es:",
+    "opciones": [
+      "el concurso",
+      "la subasta",
+      "la permuta",
+      "la libre elección de destino sin procedimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema identifica el concurso como sistema ordinario.",
+    "referencia": "III.1 · 3.2 Sistemas ordinarios de provisión"
+  },
+  {
+    "id": "t28-p012",
+    "tema": 22,
+    "pregunta": "La promoción interna vertical, consiste en:",
+    "opciones": [
+      "el acceso a un subgrupo o grupo superior",
+      "el cambio de área sin cambio de puesto",
+      "la movilidad entre municipios por traslado",
+      "la comisión de servicios temporal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como acceso a un grupo superior.",
+    "referencia": "III.1 · 4.2 Clases de promoción interna"
+  },
+  {
+    "id": "t28-p013",
+    "tema": 22,
+    "pregunta": "Para la promoción interna vertical se exige, entre otros requisitos, una antigüedad mínima de:",
+    "opciones": [
+      "dos años",
+      "seis meses",
+      "cinco años",
+      "diez años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija esa antigüedad mínima como regla general.",
+    "referencia": "III.1 · 4.3 Requisitos para la promoción interna vertical"
+  },
+  {
+    "id": "t28-p015",
+    "tema": 22,
+    "pregunta": "Uno de los principios de igualdad en el empleo público es:",
+    "opciones": [
+      "la reserva de plazas para personas con discapacidad, al menos del 7 %",
+      "la exclusión de mujeres en cuerpos técnicos",
+      "la libre elección sin publicidad",
+      "la preferencia por la antigüedad sindical"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge la medida de acción positiva del 7 %.",
+    "referencia": "III.1 · 6.3 Medidas de acción positiva"
+  },
+  {
+    "id": "t46-p001",
+    "tema": 22,
+    "pregunta": "La LFPCYL se aplica, a:",
+    "opciones": [
+      "Solo personal laboral",
+      "Funcionarios de carrera, interinos y eventual de la Junta",
+      "Únicamente altos cargos",
+      "Solo a la Administración local"
+    ],
+    "correcta": 1,
+    "explicacion": "El ámbito subjetivo del tema incluye esas tres categorías.",
+    "referencia": "III.1 · 1.2 Objeto y ámbito subjetivo"
+  },
+  {
+    "id": "t46-p002",
+    "tema": 22,
+    "pregunta": "Los funcionarios interinos pueden ser nombrados por:",
+    "opciones": [
+      "Libre designación",
+      "Razones expresamente justificadas de necesidad y urgencia",
+      "Sorteo",
+      "Antigüedad automática"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema exige necesidad y urgencia para el nombramiento interino.",
+    "referencia": "III.1 · 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "t46-p003",
+    "tema": 22,
+    "pregunta": "¿Cuál de las siguientes no es una causa mencionada para el nombramiento de interinos?",
+    "opciones": [
+      "Plazas vacantes",
+      "Sustitución transitoria",
+      "Ejecución de programas temporales",
+      "Promoción interna"
+    ],
+    "correcta": 3,
+    "explicacion": "La promoción interna no es una causa de interinidad.",
+    "referencia": "III.1 · 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "t46-p004",
+    "tema": 22,
+    "pregunta": "El personal eventual desempeña puestos de:",
+    "opciones": [
+      "Gestión ordinaria y tramitación",
+      "Confianza o asesoramiento especial",
+      "Potestad sancionadora",
+      "Inspección tributaria"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo limita a confianza o asesoramiento especial.",
+    "referencia": "III.1 · 2.3 Personal eventual"
+  },
+  {
+    "id": "t46-p005",
+    "tema": 22,
+    "pregunta": "El Cuerpo Administrativo de la Junta de Castilla y León pertenece al subgrupo:",
+    "opciones": [
+      "A1",
+      "A2",
+      "C1",
+      "C2"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema lo sitúa expresamente en el subgrupo C1.",
+    "referencia": "III.1 · 3.1 Clasificación del personal funcionario"
+  },
+  {
+    "id": "t46-p006",
+    "tema": 22,
+    "pregunta": "¿Cuál es el sistema ordinario de acceso al empleo público que mejor garantiza mérito y capacidad?",
+    "opciones": [
+      "Concurso",
+      "Oposición",
+      "Libre designación",
+      "Comisión de servicios"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo identifica como sistema ordinario.",
+    "referencia": "III.1 · 4.4.1 Oposición"
+  },
+  {
+    "id": "t46-p007",
+    "tema": 22,
+    "pregunta": "El concurso-oposición combina:",
+    "opciones": [
+      "Solo méritos",
+      "Pruebas de aptitud y valoración de méritos",
+      "Solo entrevista personal",
+      "Nombramiento libre y cese libre"
+    ],
+    "correcta": 1,
+    "explicacion": "El concurso-oposición une oposición y concurso.",
+    "referencia": "III.1 · 4.4.2 Concurso-oposición"
+  },
+  {
+    "id": "t46-p008",
+    "tema": 22,
+    "pregunta": "La Relación de Puestos de Trabajo (RPT) es:",
+    "opciones": [
+      "Un listado informal de trabajadores",
+      "El instrumento técnico de ordenación del personal",
+      "Un presupuesto anual",
+      "Un órgano de selección"
+    ],
+    "correcta": 1,
+    "explicacion": "La RPT ordena los puestos y sus características.",
+    "referencia": "III.1 · 5.1 La Relación de Puestos de Trabajo (RPT)"
+  },
+  {
+    "id": "t46-p009",
+    "tema": 22,
+    "pregunta": "El concurso de méritos es el sistema ordinario de:",
+    "opciones": [
+      "Acceso",
+      "Provisión de puestos",
+      "Suspensión de funciones",
+      "Negociación colectiva"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo define como sistema ordinario de provisión.",
+    "referencia": "III.1 · 5.2.1 Concurso de méritos"
+  },
+  {
+    "id": "t46-p010",
+    "tema": 22,
+    "pregunta": "La comisión de servicios tiene carácter:",
+    "opciones": [
+      "Definitivo",
+      "Temporal",
+      "Sancionador",
+      "Económico"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema la describe como desempeño temporal de un puesto distinto.",
+    "referencia": "III.1 · 5.2.4 Comisión de servicios"
+  },
+  {
+    "id": "t46-p011",
+    "tema": 22,
+    "pregunta": "El grado personal se consolida, por desempeñar un puesto de un determinado nivel durante:",
+    "opciones": [
+      "Un año",
+      "Dos años consecutivos o tres con interrupción",
+      "Cinco años sin interrupción",
+      "Seis meses"
+    ],
+    "correcta": 1,
+    "explicacion": "Ese es el plazo que fija el tema.",
+    "referencia": "III.1 · 6.2 El grado personal"
+  },
+  {
+    "id": "t46-p014",
+    "tema": 22,
+    "pregunta": "Entre los derechos de los funcionarios figura:",
+    "opciones": [
+      "La libre elección del horario",
+      "La carrera profesional y la promoción interna",
+      "La exención de obedecer órdenes",
+      "La percepción de dietas automáticas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema cita expresamente carrera y promoción interna.",
+    "referencia": "III.1 · 8.1 Derechos"
+  },
+  {
+    "id": "t46-p015",
+    "tema": 22,
+    "pregunta": "Las faltas muy graves se sancionan, entre otras, con:",
+    "opciones": [
+      "Apercibimiento",
+      "Separación del servicio",
+      "Suspensión de un día",
+      "Reprensión verbal"
+    ],
+    "correcta": 1,
+    "explicacion": "La separación del servicio es la sanción máxima para muy graves.",
+    "referencia": "III.1 · 9.3 Sanciones"
+  },
+  {
+    "id": "t46-p016",
+    "tema": 22,
+    "pregunta": "La Oferta de Empleo Público de la Junta de Castilla y León se aprueba por:",
+    "opciones": [
+      "el Consejo de Gobierno",
+      "la Mesa de las Cortes de Castilla y León",
+      "el Presidente del Tribunal Superior de Justicia",
+      "la Diputación Permanente"
+    ],
+    "correcta": 0,
+    "explicacion": "La OEP se instrumentaliza mediante aprobación anual del Consejo de Gobierno cuando concurren los requisitos legales.",
+    "referencia": "III.1 · 4.2 La Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t46-p017",
+    "tema": 22,
+    "pregunta": "La convocatoria de los procesos selectivos derivados de la OEP debe producirse en el plazo máximo de:",
+    "opciones": [
+      "tres años",
+      "un año",
+      "seis meses",
+      "cinco años"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija un plazo máximo de tres años desde la publicación de la OEP.",
+    "referencia": "III.1 · 4.2 La Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t46-p018",
+    "tema": 22,
+    "pregunta": "Los miembros de los órganos de selección deben ser funcionarios de carrera del grupo o subgrupo:",
+    "opciones": [
+      "igual o superior al de las plazas convocadas",
+      "inferior al de las plazas convocadas",
+      "distinto en todo caso al de las plazas convocadas",
+      "elegido libremente por los aspirantes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige ese nivel mínimo para garantizar profesionalidad e imparcialidad del órgano seleccionador.",
+    "referencia": "III.1 · 4.5 Los órganos de selección"
+  },
+  {
+    "id": "t46-p019",
+    "tema": 22,
+    "pregunta": "La adscripción provisional se caracteriza por:",
+    "opciones": [
+      "cubrir temporalmente un puesto mientras se tramita el procedimiento ordinario de provisión o en situaciones de urgencia",
+      "ser un sistema definitivo reservado a altos cargos",
+      "exigir siempre la pérdida del puesto de origen",
+      "no obligar al funcionario a participar en concursos posteriores"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una cobertura temporal y el funcionario adscrito provisionalmente debe participar en los concursos para cubrir el puesto.",
+    "referencia": "III.1 · 5.2.3 Adscripción provisional"
+  },
+  {
+    "id": "t46-p020",
+    "tema": 22,
+    "pregunta": "La libre designación permite:",
+    "opciones": [
+      "nombrar y cesar libremente a funcionarios en puestos de especial responsabilidad o confianza expresamente previstos en la RPT",
+      "cubrir cualquier puesto funcionarial sin necesidad de RPT",
+      "acceder por primera vez a la condición de funcionario de carrera",
+      "evitar toda publicidad de las convocatorias"
+    ],
+    "correcta": 0,
+    "explicacion": "Solo procede para puestos especialmente catalogados en la RPT y conlleva nombramiento y cese libres.",
+    "referencia": "III.1 · 5.2.2 Libre designación"
+  },
+  {
+    "id": "t46-p021",
+    "tema": 22,
+    "pregunta": "De acuerdo con el Tema 46, la Oferta de Empleo Publico de la Junta de Castilla y Leon se publica en:",
+    "opciones": [
+      "Exclusivamente en el BOCYL",
+      "Exclusivamente en el BOE",
+      "El BOCYL y el BOE",
+      "El BOCYL y el Diario Oficial de la Union Europea"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema indica expresamente que la OEP se publica tanto en el BOCYL como en el BOE.",
+    "referencia": "III.1 · 4.2 La Oferta de Empleo Público (OEP)"
+  },
+  {
+    "id": "t46-p022",
+    "tema": 22,
+    "pregunta": "Segun el Tema 46, el personal eventual:",
+    "opciones": [
+      "Puede desempenar puestos que impliquen el ejercicio de potestades administrativas",
+      "Es nombrado para puestos de confianza o asesoramiento especial y no puede ejercer potestades administrativas",
+      "Solo puede existir en las entidades locales",
+      "Adquiere la condicion de funcionario de carrera por el mero transcurso del tiempo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema limita el personal eventual a puestos de confianza o asesoramiento y excluye el ejercicio de potestades administrativas.",
+    "referencia": "III.1 · 2.3 Personal eventual"
+  },
+  {
+    "id": "t46-p025",
+    "tema": 22,
+    "pregunta": "De acuerdo con el Tema 46, la condicion de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
+    "opciones": [
+      "Superacion del proceso selectivo, nombramiento por el organo competente y toma de posesion dentro del plazo establecido",
+      "Nombramiento provisional, periodo de prueba y evaluacion del desempeno",
+      "Superacion del concurso de traslados, adscripcion provisional y toma de posesion",
+      "Aprobacion de la OEP, publicacion en el BOCYL y juramento ante las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera de forma expresa esos tres requisitos sucesivos para adquirir la condicion de funcionario de carrera.",
+    "referencia": "III.1 · 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p026",
+    "tema": 22,
+    "pregunta": "Segun el Tema 46, los sistemas selectivos del empleo publico en Castilla y Leon son:",
+    "opciones": [
+      "Oposicion, concurso-oposicion y concurso",
+      "Unicamente oposicion y libre designacion",
+      "Solo concurso de meritos y comision de servicios",
+      "Oposicion, adscripcion provisional y promocion interna"
+    ],
+    "correcta": 0,
+    "explicacion": "La LFPCYL y el TREBEP prevén oposicion, concurso-oposicion y concurso, aunque este ultimo con caracter excepcional.",
+    "referencia": "III.1 · 4.4 Sistemas selectivos"
+  },
+  {
+    "id": "t46-p027",
+    "tema": 22,
+    "pregunta": "Conforme al Tema 46, dentro del codigo de conducta de los empleados publicos es un principio etico:",
+    "opciones": [
+      "Actuar con objetividad, integridad, neutralidad e imparcialidad",
+      "Aceptar tratos de favor cuando no generen perjuicio economico",
+      "Desobedecer instrucciones por mera discrepancia tecnica",
+      "Sustituir la publicidad por la confidencialidad como regla general"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge esos principios entre los deberes y pautas eticas del personal funcionario.",
+    "referencia": "III.1 · 8.2 Deberes"
+  },
+  {
+    "id": "t46-p030",
+    "tema": 22,
+    "pregunta": "Segun el Tema 46, los funcionarios interinos pueden ser nombrados, entre otros supuestos, por:",
+    "opciones": [
+      "La ejecucion de programas de caracter temporal y el exceso o acumulacion de tareas por tiempo maximo de seis meses dentro de un periodo de doce meses",
+      "La simple conveniencia organizativa sin necesidad de justificacion",
+      "La cobertura definitiva de plazas amortizadas",
+      "La valoracion discrecional del organo politico competente sin causa legal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge expresamente ambos supuestos como causas de nombramiento de funcionarios interinos.",
+    "referencia": "III.1 · 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "t46-p031",
+    "tema": 22,
+    "pregunta": "De acuerdo con el TREBEP y con el Tema 46, para poder participar en los procesos selectivos sera necesario:",
+    "opciones": [
+      "Poseer nacionalidad española en todo caso",
+      "Tener cumplidos dieciocho anos y no exceder de la edad maxima de jubilacion forzosa",
+      "Tener cumplidos dieciseis anos y no exceder, en su caso, de la edad maxima de jubilacion forzosa",
+      "Conocer siempre la lengua cooficial del territorio de la Administracion convocante"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema incluye como requisito general haber cumplido dieciseis anos y no haber alcanzado la edad de jubilacion forzosa.",
+    "referencia": "III.1 · 4.3 Requisitos generales para el acceso"
+  },
+  {
+    "id": "t46-p032",
+    "tema": 22,
+    "pregunta": "De acuerdo con el TREBEP y con el Tema 46, la condicion de funcionario de carrera se adquiere, ademas de por la superacion del proceso selectivo, por:",
+    "opciones": [
+      "La toma de posesion dentro del plazo senalado",
+      "La presentacion del certificado de antecedentes penales",
+      "La superacion obligatoria de un reconocimiento medico excluyente en todo caso",
+      "Ningun requisito adicional"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre los requisitos sucesivos figura la toma de posesion dentro del plazo establecido, ademas del nombramiento por el organo competente.",
+    "referencia": "III.1 · 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p033",
+    "tema": 22,
+    "pregunta": "Conforme al TREBEP y al Tema 46, se podra nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
+    "opciones": [
+      "El exceso o acumulacion de tareas por plazo maximo de doce meses dentro de un periodo de dieciocho meses",
+      "La sustitucion transitoria de los titulares durante el tiempo estrictamente necesario",
+      "La cobertura de plazas vacantes por un maximo de cuatro anos cuando no sea posible su cobertura por funcionarios de carrera",
+      "La ejecucion de programas temporales con duracion maxima de dos anos ampliable a doce meses mas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge la sustitucion transitoria del titular como supuesto de nombramiento de funcionario interino.",
+    "referencia": "III.1 · 2.2 Funcionarios interinos"
   }
 ]

@@ -1,226 +1,520 @@
 [
   {
-    "id": "t13-p001",
+    "id": "t16-p014",
     "tema": 13,
-    "pregunta": "En el Estado autonómico español existe:",
+    "pregunta": "La revisión de actos nulos de pleno derecho requiere dictamen favorable del:",
     "opciones": [
-      "una única Administración Pública",
-      "una pluralidad de Administraciones Públicas",
-      "una sola Administración Local",
-      "una Administración sin personalidad jurídica"
+      "Consejo de Estado u órgano consultivo equivalente",
+      "Tribunal Supremo",
+      "Senado",
+      "Defensor del Pueblo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema exige dictamen preceptivo y favorable del Consejo de Estado u órgano equivalente.",
+    "referencia": "II.4 · 6.2 Revisión de actos nulos de pleno derecho"
+  },
+  {
+    "id": "t16-p015",
+    "tema": 13,
+    "pregunta": "Los errores materiales, aritméticos o de hecho pueden rectificarse:",
+    "opciones": [
+      "solo por sentencia firme",
+      "en cualquier momento",
+      "solo dentro de 10 días",
+      "solo por el Consejo de Estado"
     ],
     "correcta": 1,
-    "explicacion": "El tema afirma que hay una pluralidad de Administraciones con personalidad y competencias propias.",
-    "referencia": "Tema 13, 1.1 Concepto y pluralidad"
+    "explicacion": "El tema permite su rectificación en cualquier momento.",
+    "referencia": "II.4 · 6.5 Rectificación de errores"
   },
   {
-    "id": "t13-p002",
+    "id": "t16-p019",
     "tema": 13,
-    "pregunta": "¿Qué artículo de la Constitución recoge los principios de actuación de la Administración Pública?",
+    "pregunta": "De conformidad con el art. 109 LPACAP, las Administraciones Publicas podran revocar sus actos de gravamen o desfavorables:",
     "opciones": [
-      "Art. 103.1 CE",
-      "Art. 106.1 CE",
-      "Art. 137 CE",
-      "Art. 149 CE"
+      "En cualquier momento, siempre que tal revocacion no constituya dispensa o exencion no permitida por las leyes ni sea contraria al principio de igualdad, al interes publico o al ordenamiento juridico",
+      "Solo dentro del plazo de un mes desde su notificacion",
+      "Unicamente si media autorizacion judicial previa",
+      "Solo cuando hayan sido impugnados por el interesado en reposicion"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce literalmente el art. 103.1 CE.",
-    "referencia": "Tema 13, 2.1 Los principios constitucionales"
+    "explicacion": "El tema recoge esa revocacion con los limites legales de igualdad, interes publico y respeto al ordenamiento.",
+    "referencia": "II.4 · 6.4 Revocacion de actos (art. 109 LPACAP)"
   },
   {
-    "id": "t13-p003",
+    "id": "t17-p001",
     "tema": 13,
-    "pregunta": "La jerarquía opera:",
+    "pregunta": "Un recurso administrativo es:",
     "opciones": [
-      "entre Administraciones distintas",
-      "dentro de una misma Administración y de una misma línea orgánica",
-      "solo entre órganos judiciales",
-      "solo entre Estado y CC.AA."
+      "la impugnación ante el juez contencioso",
+      "la solicitud a la propia Administración para revisar un acto que se considera contrario al ordenamiento",
+      "una queja parlamentaria",
+      "un procedimiento sancionador"
     ],
     "correcta": 1,
-    "explicacion": "El tema precisa que no hay jerarquía entre Administraciones distintas.",
-    "referencia": "Tema 13, 2.2.1 Jerarquía"
+    "explicacion": "El tema lo define como el acto por el que un interesado pide a la Administración revisar su propio acto.",
+    "referencia": "II.4 · 1.1 Concepto"
   },
   {
-    "id": "t13-p004",
+    "id": "t17-p002",
     "tema": 13,
-    "pregunta": "¿Qué técnica de organización supone transferencia de competencias entre personas jurídicas distintas?",
+    "pregunta": "¿Qué principio favorece la admisión del recurso cuando existan defectos formales subsanables?",
     "opciones": [
-      "Descentralización",
-      "Desconcentración",
-      "Suplencia",
-      "Avocación"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema define la descentralización como transferencia entre entes territoriales distintos con personalidad propia.",
-    "referencia": "Tema 13, 2.2.2 Descentralización"
-  },
-  {
-    "id": "t13-p005",
-    "tema": 13,
-    "pregunta": "La desconcentración supone transferencia de competencias:",
-    "opciones": [
-      "desde un órgano superior a otro inferior de la misma persona jurídica",
-      "del Estado a una Comunidad Autónoma",
-      "de un tribunal a otro",
-      "de la ley al reglamento"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema la sitúa dentro de la misma Administración y persona jurídica.",
-    "referencia": "Tema 13, 2.2.3 Desconcentración"
-  },
-  {
-    "id": "t13-p006",
-    "tema": 13,
-    "pregunta": "¿Qué principio del art. 3 LRJSP menciona como exigencia de actuación conjunta y no obstaculizadora?",
-    "opciones": [
-      "Lealtad institucional",
-      "Reserva de ley",
-      "Publicidad normativa",
-      "Primacía judicial"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema incluye la lealtad institucional entre los principios adicionales del art. 3 LRJSP.",
-    "referencia": "Tema 13, 2.3 Principios adicionales del art. 3 LRJSP"
-  },
-  {
-    "id": "t13-p007",
-    "tema": 13,
-    "pregunta": "Una unidad administrativa:",
-    "opciones": [
-      "tiene competencia propia atribuida por norma",
-      "es una estructura de apoyo sin competencia propia atribuida por norma",
-      "puede dictar leyes",
-      "sustituye al órgano administrativo"
+      "Legalidad",
+      "Pro actione",
+      "Jerarquía",
+      "Especialidad"
     ],
     "correcta": 1,
-    "explicacion": "El tema diferencia claramente órganos y unidades administrativas.",
-    "referencia": "Tema 13, 2.4 Técnicas de organización"
+    "explicacion": "El tema lo define como interpretación favorable a la admisión.",
+    "referencia": "II.4 · 2.2 Principio pro actione"
   },
   {
-    "id": "t13-p008",
+    "id": "t17-p003",
     "tema": 13,
-    "pregunta": "La competencia administrativa es:",
+    "pregunta": "La resolución del recurso no puede:",
     "opciones": [
-      "el conjunto de facultades y potestades atribuidas a un órgano",
-      "una capacidad moral del funcionario",
-      "la suma de reglamentos aplicables",
-      "la condición de interesado en un procedimiento"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema define la competencia como el conjunto de facultades y potestades del órgano.",
-    "referencia": "Tema 13, 2.5 La competencia administrativa"
-  },
-  {
-    "id": "t13-p009",
-    "tema": 13,
-    "pregunta": "La competencia es:",
-    "opciones": [
-      "renunciable por el órgano",
-      "irrenunciable e improrrogable",
-      "disponible por pacto entre órganos",
-      "delegable sin límites en cualquier caso"
+      "ser congruente",
+      "agravar la situación del recurrente en perjuicio si solo recurre él",
+      "pronunciarse sobre todas las cuestiones",
+      "tramitarse por escrito"
     ],
     "correcta": 1,
-    "explicacion": "El tema destaca que la competencia es irrenunciable e improrrogable.",
-    "referencia": "Tema 13, 2.5 La competencia administrativa"
+    "explicacion": "El tema recoge el principio non reformatio in peius.",
+    "referencia": "II.4 · 2.3 Principio de no reforma en perjuicio"
   },
   {
-    "id": "t13-p010",
+    "id": "t17-p004",
     "tema": 13,
-    "pregunta": "¿Cuál de las siguientes técnicas de alteración de la competencia implica solo la firma y no la competencia?",
+    "pregunta": "¿Suspende automáticamente el recurso administrativo la ejecución del acto recurrido?",
     "opciones": [
-      "Delegación",
-      "Avocación",
-      "Delegación de firma",
-      "Encomienda de gestión"
+      "Sí, siempre",
+      "No, solo si se solicita y se concede o se produce silencio positivo en 30 días",
+      "Solo en alzada",
+      "Solo en reposición"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que no hay suspensión automática.",
+    "referencia": "II.4 · 2.4 Principio de suspensión"
+  },
+  {
+    "id": "t17-p005",
+    "tema": 13,
+    "pregunta": "Pueden recurrirse autónomamente los actos de trámite cualificados cuando:",
+    "opciones": [
+      "sean meramente de impulso procesal",
+      "produzcan indefensión o perjuicio irreparable",
+      "los dicte cualquier funcionario",
+      "hayan sido notificados en papel"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema enumera esos supuestos para admitir el recurso.",
+    "referencia": "II.4 · 3.2 Acto recurrible"
+  },
+  {
+    "id": "t17-p006",
+    "tema": 13,
+    "pregunta": "¿Qué recurso se interpone contra actos que no ponen fin a la vía administrativa?",
+    "opciones": [
+      "Alzada",
+      "Reposición",
+      "Revisión extraordinaria",
+      "Casación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye esa función al recurso de alzada.",
+    "referencia": "II.4 · 4.1 Recurso de alzada"
+  },
+  {
+    "id": "t17-p007",
+    "tema": 13,
+    "pregunta": "El recurso de alzada se resuelve por:",
+    "opciones": [
+      "el órgano superior jerárquico del que dictó el acto",
+      "el mismo órgano siempre",
+      "el Tribunal Constitucional",
+      "el Consejo de Ministros en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo atribuye al superior jerárquico.",
+    "referencia": "II.4 · 4.1 Recurso de alzada"
+  },
+  {
+    "id": "t17-p008",
+    "tema": 13,
+    "pregunta": "¿Cuál es el plazo general de interposición del recurso de reposición si el acto es expreso?",
+    "opciones": [
+      "10 días",
+      "1 mes",
+      "3 meses",
+      "6 meses"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mes para el acto expreso.",
+    "referencia": "II.4 · 4.2 Recurso potestativo de reposición"
+  },
+  {
+    "id": "t17-p009",
+    "tema": 13,
+    "pregunta": "El recurso de reposición es:",
+    "opciones": [
+      "obligatorio antes del contencioso",
+      "potestativo",
+      "inexistente",
+      "solo para actos reglamentarios"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema lo define como recurso potestativo.",
+    "referencia": "II.4 · 4.2 Recurso potestativo de reposición"
+  },
+  {
+    "id": "t17-p010",
+    "tema": 13,
+    "pregunta": "¿Qué plazo para resolver el recurso de reposición indica el?",
+    "opciones": [
+      "10 días",
+      "1 mes",
+      "2 meses",
+      "3 meses"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija 1 mes.",
+    "referencia": "II.4 · 4.2 Recurso potestativo de reposición"
+  },
+  {
+    "id": "t17-p011",
+    "tema": 13,
+    "pregunta": "El recurso extraordinario de revisión procede contra actos:",
+    "opciones": [
+      "firmes en vía administrativa",
+      "nulos en vía judicial",
+      "de trámite ordinario",
+      "reglamentarios siempre"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo limita a actos firmes en vía administrativa.",
+    "referencia": "II.4 · 4.3 Recurso extraordinario de revisión"
+  },
+  {
+    "id": "t17-p012",
+    "tema": 13,
+    "pregunta": "¿Cuál de las siguientes causas forma parte del recurso extraordinario de revisión?",
+    "opciones": [
+      "Error de hecho que resulte de los propios documentos del expediente",
+      "Simple desacuerdo político",
+      "Cualquier error de interpretación",
+      "Falta de motivación del recurso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema fija esa causa tasada con plazo de 4 años.",
+    "referencia": "II.4 · 4.3 Recurso extraordinario de revisión"
+  },
+  {
+    "id": "t17-p013",
+    "tema": 13,
+    "pregunta": "Si un recurso llega al órgano incompetente para resolverlo:",
+    "opciones": [
+      "se inadmite sin más",
+      "se remite al competente y el plazo se entiende cumplido",
+      "se archiva automáticamente",
+      "se convierte en alzada"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema establece que se remite al órgano competente sin perder la fecha de presentación.",
+    "referencia": "II.4 · 5.1 Interposición"
+  },
+  {
+    "id": "t17-p014",
+    "tema": 13,
+    "pregunta": "La resolución del recurso debe respetar el principio de:",
+    "opciones": [
+      "congruencia",
+      "retroactividad",
+      "autotutela penal",
+      "inviolabilidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo menciona expresamente entre los principios generales.",
+    "referencia": "II.4 · 2.5 Principio de congruencia"
+  },
+  {
+    "id": "t17-p015",
+    "tema": 13,
+    "pregunta": "¿Qué efecto tiene el silencio en el recurso de alzada, como regla general?",
+    "opciones": [
+      "Positivo",
+      "Negativo",
+      "Caducidad",
+      "Inexistencia de efectos"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que transcurridos 3 meses el recurso se entiende desestimado.",
+    "referencia": "II.4 · 4.1 Recurso de alzada"
+  },
+  {
+    "id": "t17-p016",
+    "tema": 13,
+    "pregunta": "Segun el art. 117.1 de la Ley 39/2015, de 1 de octubre, la interposicion de cualquier recurso, excepto en los casos en que una disposicion establezca lo contrario:",
+    "opciones": [
+      "Suspendera automaticamente la ejecucion del acto impugnado",
+      "No suspendera la ejecucion del acto impugnado",
+      "Impedira la eficacia del acto durante diez dias",
+      "Exigira siempre la adopcion de medidas cautelares"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema explica que la interposicion del recurso no suspende automaticamente la ejecucion del acto.",
+    "referencia": "II.4 · 2.4 Principio de suspensión"
+  },
+  {
+    "id": "t17-p017",
+    "tema": 13,
+    "pregunta": "De acuerdo con el Tema 17, si transcurren treinta dias desde la solicitud de suspension sin que la Administracion se pronuncie:",
+    "opciones": [
+      "La solicitud se entiende desestimada",
+      "La suspension se entiende concedida",
+      "El recurso queda archivado",
+      "El acto pasa a ser nulo de pleno derecho"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge silencio positivo en materia de suspension cuando la Administracion no resuelve en treinta dias.",
+    "referencia": "II.4 · 2.4 Principio de suspensión"
+  },
+  {
+    "id": "t17-p018",
+    "tema": 13,
+    "pregunta": "Conforme al art. 114 LPACAP, ponen fin a la via administrativa:",
+    "opciones": [
+      "Los actos emanados de organos directivos con nivel de Subdirector General en materia de personal",
+      "Las resoluciones de organos administrativos, salvo que una disposicion legal o reglamentaria disponga lo contrario",
+      "Los acuerdos, pactos, convenios o contratos que tengan la consideracion de finalizadores del procedimiento",
+      "Las resoluciones que acuerden la aplicacion de medidas provisionales"
     ],
     "correcta": 2,
-    "explicacion": "El tema define la delegación de firma como transferencia solo de la firma.",
-    "referencia": "Tema 13, 2.5 La competencia administrativa"
+    "explicacion": "El art. 114 LPACAP incluye los acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que ponen fin a la via administrativa.",
+    "referencia": "II.4 · 2.2 Actos que ponen fin a la via administrativa"
   },
   {
-    "id": "t13-p011",
+    "id": "t19-p001",
     "tema": 13,
-    "pregunta": "La encomienda de gestión:",
+    "pregunta": "La Jurisdicción Contencioso-Administrativa está encargada de:",
     "opciones": [
-      "transfiere la competencia y la responsabilidad",
-      "encarga actividades materiales, técnicas o de servicios sin transferir competencia ni responsabilidad",
-      "solo opera entre poderes legislativos",
-      "requiere ley orgánica siempre"
+      "controlar la actuación de las Administraciones Públicas y garantizar tutela judicial frente a ellas",
+      "juzgar exclusivamente delitos administrativos",
+      "aprobar reglamentos",
+      "resolver conflictos electorales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como el orden jurisdiccional que controla la actuación administrativa.",
+    "referencia": "II.4 · 1.1 La Jurisdicción Contencioso-Administrativa"
+  },
+  {
+    "id": "t19-p002",
+    "tema": 13,
+    "pregunta": "Según el Tema 19, ¿qué preceptos constitucionales se citan como fundamento del control judicial de la Administración?",
+    "opciones": [
+      "Art. 24 CE y art. 106.1 CE",
+      "Art. 137 CE y art. 141 CE",
+      "Art. 14 CE y art. 15 CE",
+      "Art. 82 CE y art. 86 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema cita ambos preceptos como fundamento constitucional.",
+    "referencia": "II.4 · 1.1 La Jurisdicción Contencioso-Administrativa"
+  },
+  {
+    "id": "t19-p003",
+    "tema": 13,
+    "pregunta": "La LJCA tiene también carácter:",
+    "opciones": [
+      "de simple recurso penal",
+      "plenario",
+      "constituyente",
+      "arbitrario"
     ],
     "correcta": 1,
-    "explicacion": "El tema la define así de forma expresa.",
-    "referencia": "Tema 13, 2.5 La competencia administrativa"
+    "explicacion": "El tema explica que hoy puede conocer también de inactividad y vía de hecho.",
+    "referencia": "II.4 · 1.2 Carácter revisor y plenario"
   },
   {
-    "id": "t13-p012",
+    "id": "t19-p004",
     "tema": 13,
-    "pregunta": "¿Qué control judicial prevé el en relación con la Administración?",
+    "pregunta": "Según el Tema 19, la Jurisdicción Contencioso-Administrativa conoce de pretensiones deducidas en relación con:",
     "opciones": [
-      "Tribunales contencioso-administrativos",
-      "Tribunales militares",
-      "Tribunales de justicia de paz",
-      "Tribunal Constitucional exclusivamente"
+      "La actividad administrativa sujeta al Derecho Administrativo",
+      "Solo las resoluciones del Tribunal Constitucional",
+      "Solo los contratos privados entre particulares",
+      "Las cuestiones electorales"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa el control de la actuación administrativa en la jurisdicción contencioso-administrativa.",
-    "referencia": "Tema 13, 3.4 Control judicial de la Administración"
+    "explicacion": "El tema enumera la actividad administrativa y también disposiciones generales, inactividad, vía de hecho, etc.",
+    "referencia": "II.4 · 2.1 Lo que conoce la JCA"
   },
   {
-    "id": "t13-p013",
+    "id": "t19-p005",
     "tema": 13,
-    "pregunta": "La autotutela administrativa está sometida a:",
+    "pregunta": "Los plazos para interponer el recurso contencioso-administrativo son de:",
     "opciones": [
-      "los principios de proporcionalidad y necesidad",
-      "la voluntad de los particulares",
-      "la aprobación del Senado",
-      "el consentimiento judicial previo en todo caso"
+      "1 mes y 3 meses",
+      "2 meses y 6 meses",
+      "3 meses y 1 año",
+      "6 meses y 2 años"
     ],
-    "correcta": 0,
-    "explicacion": "El tema indica esos límites para la autotutela.",
-    "referencia": "Tema 13, 3.5 La autotutela administrativa y sus límites"
+    "correcta": 1,
+    "explicacion": "El tema fija 2 meses para actos expresos y 6 meses para actos presuntos.",
+    "referencia": "II.4 · 3.3 El plazo de interposición"
   },
   {
-    "id": "t13-p014",
+    "id": "t19-p006",
     "tema": 13,
-    "pregunta": "¿Qué principio prohíbe la actuación caprichosa de los poderes públicos?",
+    "pregunta": "¿Qué órgano conoce en primera instancia de los actos de las Administraciones locales?",
     "opciones": [
-      "Interdicción de la arbitrariedad",
-      "Supletoriedad normativa",
-      "Delegación legislativa",
-      "Convalidación"
+      "Juzgados de lo Contencioso-Administrativo",
+      "Audiencia Nacional",
+      "Tribunal Supremo",
+      "Juzgados Centrales de lo Contencioso-Administrativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo vincula al art. 9.3 CE.",
-    "referencia": "Tema 13, 3.6 La interdicción de la arbitrariedad"
+    "explicacion": "El tema atribuye esa materia a los Juzgados de lo Contencioso-Administrativo.",
+    "referencia": "II.4 · 4.1 Juzgados de lo Contencioso-Administrativo"
   },
   {
-    "id": "t13-p015",
+    "id": "t19-p007",
     "tema": 13,
-    "pregunta": "Los principios adicionales del art. 3 LRJSP incluyen:",
+    "pregunta": "¿Qué órgano conoce de recursos contra actos de los Ministros y Secretarios de Estado?",
     "opciones": [
-      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, proporcionalidad y sostenibilidad",
-      "solo jerarquía y descentralización",
-      "únicamente la legalidad penal",
-      "solo la potestad sancionadora"
+      "Juzgados Centrales de lo Contencioso-Administrativo",
+      "Tribunal Supremo",
+      "Tribunales Superiores de Justicia",
+      "Juzgados de lo Penal"
     ],
-    "correcta": 0,
-    "explicacion": "El tema enumera varios de esos principios de actuación.",
-    "referencia": "Tema 13, 2.3 Principios adicionales del art. 3 LRJSP"
+    "correcta": 1,
+    "explicacion": "El tema asigna esa competencia a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional en única instancia.",
+    "referencia": "II.4 · 4.4 Audiencia Nacional — Sala de lo Contencioso-Administrativo"
   },
   {
-    "id": "t13-p016",
+    "id": "t19-p008",
     "tema": 13,
-    "pregunta": "De acuerdo con el art. 103.1 CE, la Administracion Publica actua de acuerdo con los principios de:",
+    "pregunta": "Los Tribunales Superiores de Justicia conocen en el orden contencioso-administrativo de:",
     "opciones": [
-      "Eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion",
-      "Publicidad, irretroactividad, seguridad juridica y responsabilidad",
-      "Legalidad penal, tipicidad, culpabilidad y presuncion de inocencia",
-      "Solidaridad, autonomia financiera, subsidiariedad y lealtad institucional"
+      "la impugnación de reglamentos y actos de los órganos superiores de la Administración autonómica",
+      "los delitos contra la Corona",
+      "los recursos de casación en materia civil",
+      "la responsabilidad penal de los ministros"
     ],
     "correcta": 0,
-    "explicacion": "El art. 103.1 CE recoge expresamente esos principios de actuacion administrativa.",
-    "referencia": "Tema 13, 2.1 Los principios constitucionales (art. 103.1 CE)"
+    "explicacion": "El tema recoge expresamente esa competencia de los TSJ.",
+    "referencia": "II.4 · 4.3 Tribunales Superiores de Justicia"
+  },
+  {
+    "id": "t19-p009",
+    "tema": 13,
+    "pregunta": "La suspensión de un acto administrativo impugnado es una medida:",
+    "opciones": [
+      "cautelar",
+      "penal",
+      "constituyente",
+      "electoral"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la presenta como la medida cautelar más habitual.",
+    "referencia": "II.4 · 5.2 Medidas cautelares"
+  },
+  {
+    "id": "t19-p010",
+    "tema": 13,
+    "pregunta": "¿Qué es necesario para que la Administración pueda actuar sin cobertura jurídica?",
+    "opciones": [
+      "Que exista silencio positivo",
+      "Nada, porque eso sería vía de hecho",
+      "Que lo autorice el Congreso",
+      "Que se trate de un contrato privado"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema define la vía de hecho como actuación sin cobertura jurídica o excediéndola.",
+    "referencia": "II.4 · 2.1 Lo que conoce la JCA"
+  },
+  {
+    "id": "t19-p011",
+    "tema": 13,
+    "pregunta": "Según el Tema 19, ¿cuál es el plazo para impugnar reglamentos?",
+    "opciones": [
+      "1 mes",
+      "2 meses desde la publicación",
+      "6 meses",
+      "1 año"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica 2 meses desde la publicación del reglamento.",
+    "referencia": "II.4 · 3.3 El plazo de interposición"
+  },
+  {
+    "id": "t19-p012",
+    "tema": 13,
+    "pregunta": "La ejecución de sentencias firmes obliga a:",
+    "opciones": [
+      "solo a los particulares",
+      "las partes y la Administración en sus propios términos",
+      "solo al juez que las dicta",
+      "únicamente al Consejo de Estado"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema subraya la obligatoriedad de cumplimiento y la posibilidad de multas coercitivas.",
+    "referencia": "II.4 · 5.3 Ejecución de sentencias"
+  },
+  {
+    "id": "t19-p013",
+    "tema": 13,
+    "pregunta": "¿Qué materia está excluida de la JCA?",
+    "opciones": [
+      "La responsabilidad patrimonial",
+      "Los actos del Tribunal Constitucional",
+      "Los reglamentos de la AGE",
+      "La vía de hecho"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema excluye los actos del Tribunal Constitucional.",
+    "referencia": "II.4 · 2.2 Materias excluidas"
+  },
+  {
+    "id": "t19-p014",
+    "tema": 13,
+    "pregunta": "El recurso de casación lo resuelve:",
+    "opciones": [
+      "el Tribunal Supremo",
+      "la Audiencia Nacional",
+      "el Tribunal Constitucional",
+      "el Consejo de Ministros"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye al TS el recurso de casación en el orden contencioso-administrativo.",
+    "referencia": "II.4 · 4.5 Tribunal Supremo — Sala de lo Contencioso-Administrativo"
+  },
+  {
+    "id": "t19-p015",
+    "tema": 13,
+    "pregunta": "La JCA tiene carácter plenario porque puede condenar a la Administración a:",
+    "opciones": [
+      "anular un acto y también a hacer algo o indemnizar",
+      "solo a suspender actos",
+      "únicamente a pagar costas",
+      "únicamente a dictar reglamentos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema explica esa ampliación funcional de la jurisdicción.",
+    "referencia": "II.4 · 1.2 Carácter revisor y plenario"
+  },
+  {
+    "id": "t19-p016",
+    "tema": 13,
+    "pregunta": "Según el art. 46 LJCA, cuando el acto es presunto por silencio administrativo, el plazo de interposición del recurso contencioso-administrativo es de:",
+    "opciones": [
+      "6 meses",
+      "2 meses",
+      "1 año",
+      "15 días"
+    ],
+    "correcta": 0,
+    "explicacion": "El temario fija 6 meses para recurrir los actos presuntos por silencio administrativo.",
+    "referencia": "II.4 · 3.3 Límite temporal: el plazo de interposición (art. 46 LJCA)"
   }
 ]

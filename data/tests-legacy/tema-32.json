@@ -1,0 +1,212 @@
+[
+  {
+    "id": "t32-p001",
+    "tema": 32,
+    "pregunta": "Un documento es:",
+    "opciones": [
+      "cualquier soporte material o digital que contiene información y puede ser leído, reproducido o percibido",
+      "solo un escrito en papel firmado",
+      "únicamente un archivo electrónico con firma",
+      "solo una resolución administrativa"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema da esa definición amplia.",
+    "referencia": "Tema 32, 1.1 Concepto general de documento"
+  },
+  {
+    "id": "t32-p002",
+    "tema": 32,
+    "pregunta": "El documento administrativo es aquel que ha sido producido, recibido o gestionado por:",
+    "opciones": [
+      "una Administración Pública en el ejercicio de sus competencias",
+      "un particular sin intervención administrativa",
+      "un juzgado exclusivamente",
+      "una empresa privada sin relación pública"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo vincula a la actuación administrativa.",
+    "referencia": "Tema 32, 1.2 El documento administrativo: concepto"
+  },
+  {
+    "id": "t32-p003",
+    "tema": 32,
+    "pregunta": "Una característica del documento administrativo es la:",
+    "opciones": [
+      "autenticidad",
+      "aleatoriedad",
+      "imprecisión",
+      "opcionalidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera la autenticidad entre sus notas.",
+    "referencia": "Tema 32, 1.3 Características del documento administrativo"
+  },
+  {
+    "id": "t32-p004",
+    "tema": 32,
+    "pregunta": "La copia auténtica:",
+    "opciones": [
+      "tiene la misma validez y eficacia que el documento original",
+      "solo sirve como recuerdo",
+      "carece de valor probatorio",
+      "no puede expedirse electrónicamente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la equipara al original.",
+    "referencia": "Tema 32, 1.5 Copias de documentos"
+  },
+  {
+    "id": "t32-p005",
+    "tema": 32,
+    "pregunta": "Un documento de decisión puede ser una:",
+    "opciones": [
+      "resolución",
+      "copia simple",
+      "diligencia",
+      "guía"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema clasifica la resolución como documento de decisión.",
+    "referencia": "Tema 32, 2.1.1 Documentos de decisión"
+  },
+  {
+    "id": "t32-p006",
+    "tema": 32,
+    "pregunta": "Un acta es un documento de:",
+    "opciones": [
+      "constancia",
+      "decisión",
+      "publicidad",
+      "notificación"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la incluye entre los documentos de constancia.",
+    "referencia": "Tema 32, 2.1.2 Documentos de constancia"
+  },
+  {
+    "id": "t32-p007",
+    "tema": 32,
+    "pregunta": "Los archivos de gestión, custodian:",
+    "opciones": [
+      "expedientes en tramitación o recién terminados, de uso frecuente",
+      "solo documentos históricos",
+      "únicamente libros contables",
+      "solo expedientes sancionadores"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema sitúa ahí los expedientes activos o recientes.",
+    "referencia": "Tema 32, 3.2.1 Archivo de oficina o de gestión"
+  },
+  {
+    "id": "t32-p008",
+    "tema": 32,
+    "pregunta": "El archivo histórico conserva documentos:",
+    "opciones": [
+      "de valor histórico, artístico, cultural o científico de forma permanente",
+      "solo durante 5 años",
+      "sin valor probatorio alguno",
+      "exclusivamente tributarios"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema le atribuye conservación permanente.",
+    "referencia": "Tema 32, 3.2.3 Archivo histórico"
+  },
+  {
+    "id": "t32-p009",
+    "tema": 32,
+    "pregunta": "El cuadro de clasificación es:",
+    "opciones": [
+      "la estructura jerárquica que refleja la organización de los documentos por competencias y funciones",
+      "un listado de sanciones",
+      "la relación de asistentes al Pleno",
+      "un índice de teléfonos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define así dentro de los instrumentos de descripción.",
+    "referencia": "Tema 32, 3.3 La organización del archivo: instrumentos de descripción"
+  },
+  {
+    "id": "t32-p010",
+    "tema": 32,
+    "pregunta": "La signatura topográfica, indica:",
+    "opciones": [
+      "la ubicación física exacta de un documento dentro del depósito de archivo",
+      "la fecha de nacimiento del interesado",
+      "la cuantía de una subvención",
+      "el código de una consulta"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la presenta como localización física.",
+    "referencia": "Tema 32, 3.4 Clasificación, ordenación y signatura topográfica"
+  },
+  {
+    "id": "t32-p011",
+    "tema": 32,
+    "pregunta": "La eliminación de documentos requiere:",
+    "opciones": [
+      "un expediente de expurgo con autorización del órgano competente",
+      "la decisión unilateral del archivero",
+      "la firma del alcalde sin más",
+      "la consulta de la comisión de fiestas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema niega la eliminación unilateral.",
+    "referencia": "Tema 32, 3.5 La evaluación y selección documental: eliminación y conservación"
+  },
+  {
+    "id": "t32-p012",
+    "tema": 32,
+    "pregunta": "El art. 105.b CE garantiza el acceso a:",
+    "opciones": [
+      "archivos y registros administrativos",
+      "los secretos de Estado sin límite",
+      "los domicilios particulares",
+      "las cuentas bancarias privadas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema cita ese fundamento constitucional.",
+    "referencia": "Tema 32, 4.1 Fundamento constitucional y legal"
+  },
+  {
+    "id": "t32-p013",
+    "tema": 32,
+    "pregunta": "La LPACAP reconoce a los interesados el derecho a:",
+    "opciones": [
+      "acceder y obtener copia de los documentos del expediente en cualquier fase del procedimiento",
+      "resolver el expediente por sí mismos",
+      "publicar el contenido en prensa",
+      "sustituir el órgano competente"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema atribuye ese derecho en el procedimiento.",
+    "referencia": "Tema 32, 4.1 Fundamento constitucional y legal"
+  },
+  {
+    "id": "t32-p014",
+    "tema": 32,
+    "pregunta": "La transparencia activa se diferencia de la pasiva porque la primera consiste en:",
+    "opciones": [
+      "publicidad de oficio y la segunda en acceso a petición",
+      "la primera es secreta y la segunda pública",
+      "ambas son idénticas",
+      "solo la primera es electrónica"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema diferencia ambas modalidades en el epígrafe de acceso.",
+    "referencia": "Tema 32, 4.2 Modalidades de acceso"
+  },
+  {
+    "id": "t32-p015",
+    "tema": 32,
+    "pregunta": "El Portal de Transparencia sirve para:",
+    "opciones": [
+      "centralizar la publicación y el acceso a la información pública",
+      "archivar expedientes históricos",
+      "firmar documentos electrónicos",
+      "emitir notificaciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo presenta como portal de acceso a la información.",
+    "referencia": "Tema 32, 6.3 El Portal de Transparencia"
+  }
+]

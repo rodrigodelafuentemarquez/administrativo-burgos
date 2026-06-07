@@ -1,0 +1,324 @@
+[
+  {
+    "id": "t36-p001",
+    "tema": 36,
+    "pregunta": "La informática es:",
+    "opciones": [
+      "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
+      "el conjunto de normas de archivo",
+      "la gestión de contratos públicos",
+      "el estudio de la legislación laboral"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema da esa definición básica.",
+    "referencia": "Tema 36, 1.1 Qué es la informática"
+  },
+  {
+    "id": "t36-p002",
+    "tema": 36,
+    "pregunta": "Una característica fundamental del ordenador es la:",
+    "opciones": [
+      "velocidad",
+      "inalienabilidad",
+      "prescripción",
+      "publicidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera la velocidad entre sus rasgos fundamentales.",
+    "referencia": "Tema 36, 1.1 Qué es la informática"
+  },
+  {
+    "id": "t36-p003",
+    "tema": 36,
+    "pregunta": "La arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y:",
+    "opciones": [
+      "bus",
+      "archivo central",
+      "navegador",
+      "monitor táctil obligatorio"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema incluye el bus entre los elementos de la arquitectura.",
+    "referencia": "Tema 36, 2.2 La arquitectura von Neumann"
+  },
+  {
+    "id": "t36-p004",
+    "tema": 36,
+    "pregunta": "La CPU es:",
+    "opciones": [
+      "el cerebro del ordenador",
+      "la unidad de respaldo externo",
+      "el sistema de impresión",
+      "el programa de correo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
+    "referencia": "Tema 36, 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+  },
+  {
+    "id": "t36-p005",
+    "tema": 36,
+    "pregunta": "La RAM es una memoria:",
+    "opciones": [
+      "volátil",
+      "permanente",
+      "solo óptica",
+      "inembargable"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define como volátil.",
+    "referencia": "Tema 36, 2.3.2 La memoria RAM"
+  },
+  {
+    "id": "t36-p006",
+    "tema": 36,
+    "pregunta": "La ROM alberga el firmware del sistema, en particular:",
+    "opciones": [
+      "la BIOS o la UEFI",
+      "el navegador web",
+      "el gestor de correo",
+      "las hojas de cálculo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo sitúa en la ROM.",
+    "referencia": "Tema 36, 2.3.3 La memoria ROM"
+  },
+  {
+    "id": "t36-p007",
+    "tema": 36,
+    "pregunta": "La placa base incorpora el:",
+    "opciones": [
+      "chipset",
+      "Panel de control",
+      "Explorador",
+      "Sistema de archivos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo identifica como conjunto de circuitos de comunicación.",
+    "referencia": "Tema 36, 2.3.4 La placa base (motherboard)"
+  },
+  {
+    "id": "t36-p008",
+    "tema": 36,
+    "pregunta": "La GPU es el componente responsable del:",
+    "opciones": [
+      "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
+      "almacenamiento masivo de archivos",
+      "control tributario",
+      "cifrado de correos"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema la define así.",
+    "referencia": "Tema 36, 2.3.5 La tarjeta gráfica (GPU)"
+  },
+  {
+    "id": "t36-p009",
+    "tema": 36,
+    "pregunta": "Los periféricos de entrada permiten:",
+    "opciones": [
+      "introducir datos o instrucciones en el ordenador",
+      "solo mostrar imágenes",
+      "únicamente guardar copias",
+      "cambiar el sistema operativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define por esa función.",
+    "referencia": "Tema 36, 2.4.1 Periféricos de entrada"
+  },
+  {
+    "id": "t36-p010",
+    "tema": 36,
+    "pregunta": "El bus de datos:",
+    "opciones": [
+      "transporta los datos entre CPU, memoria y periféricos",
+      "define los permisos de usuario",
+      "almacena el sistema operativo",
+      "convierte la corriente eléctrica"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema le atribuye esa función.",
+    "referencia": "Tema 36, 2.5 Los buses del sistema"
+  },
+  {
+    "id": "t36-p011",
+    "tema": 36,
+    "pregunta": "El software de sistema incluye:",
+    "opciones": [
+      "el sistema operativo y los controladores",
+      "solo los documentos PDF",
+      "únicamente el correo electrónico",
+      "solo las bases de datos relacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo indica entre las categorías.",
+    "referencia": "Tema 36, 3.2.1 Software de sistema (o software base)"
+  },
+  {
+    "id": "t36-p012",
+    "tema": 36,
+    "pregunta": "El software libre permite:",
+    "opciones": [
+      "usar, copiar, distribuir, estudiar y modificar el software",
+      "solo usarlo sin copiar",
+      "únicamente visualizarlo",
+      "instalarlo en un solo equipo sin más"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo define por esas libertades.",
+    "referencia": "Tema 36, 3.3 Clasificación del software según su licencia"
+  },
+  {
+    "id": "t36-p013",
+    "tema": 36,
+    "pregunta": "Un sistema operativo es:",
+    "opciones": [
+      "el software base que administra los recursos del hardware y permite la ejecución de aplicaciones",
+      "una periferia de salida",
+      "un archivo comprimido",
+      "un navegador web"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema desarrolla esa función en el apartado 4.",
+    "referencia": "Tema 36, 4.1 Concepto y funciones"
+  },
+  {
+    "id": "t36-p014",
+    "tema": 36,
+    "pregunta": "El Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de:",
+    "opciones": [
+      "seguridad informática en el sector público",
+      "contabilidad local",
+      "archivos históricos",
+      "contratación pública"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema lo cita en la referencia normativa.",
+    "referencia": "Tema 36, Referencia normativa"
+  },
+  {
+    "id": "t36-p015",
+    "tema": 36,
+    "pregunta": "Los dispositivos IoT son:",
+    "opciones": [
+      "objetos cotidianos con capacidad de conexión y procesamiento",
+      "solo servidores de alta gama",
+      "únicamente monitores",
+      "programas de diseño gráfico"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema los define como objetos cotidianos conectados.",
+    "referencia": "Tema 36, 1.2 Tipos de ordenadores"
+  },
+  {
+    "id": "t36-p016",
+    "tema": 36,
+    "pregunta": "La interfaz gráfica de usuario (GUI) se caracteriza por:",
+    "opciones": [
+      "permitir la interacción mediante ventanas, iconos, menús y ratón",
+      "exigir exclusivamente el uso de comandos de texto",
+      "utilizar solo pantallas monocromas",
+      "funcionar únicamente en servidores"
+    ],
+    "correcta": 0,
+    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
+    "referencia": "Tema 36, 4.2.1 Por el tipo de interfaz"
+  },
+  {
+    "id": "t36-p017",
+    "tema": 36,
+    "pregunta": "Windows 11 requiere hardware compatible con:",
+    "opciones": [
+      "TPM 2.0 y arranque seguro (Secure Boot)",
+      "lectora Blu-ray y puerto VGA",
+      "arquitectura exclusivamente ARM de 32 bits",
+      "dos tarjetas gráficas dedicadas"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
+    "referencia": "Tema 36, 4.3.1 Microsoft Windows"
+  },
+  {
+    "id": "t36-p018",
+    "tema": 36,
+    "pregunta": "La memoria virtual consiste en:",
+    "opciones": [
+      "utilizar parte del disco como extensión de la RAM",
+      "reservar una zona de la ROM para ejecutar aplicaciones",
+      "convertir automáticamente la memoria RAM en almacenamiento permanente",
+      "duplicar el contenido del disco en la nube"
+    ],
+    "correcta": 0,
+    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
+    "referencia": "Tema 36, 4.4 Conceptos clave de los sistemas operativos"
+  },
+  {
+    "id": "t36-p019",
+    "tema": 36,
+    "pregunta": "Una característica propia de los SSD frente a los HDD es que:",
+    "opciones": [
+      "no tienen partes móviles",
+      "solo pueden usarse como almacenamiento externo",
+      "su velocidad siempre es inferior a la de los HDD",
+      "se basan en platos magnéticos giratorios"
+    ],
+    "correcta": 0,
+    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
+    "referencia": "Tema 36, 5.3 La unidad de estado sólido (SSD)"
+  },
+  {
+    "id": "t36-p020",
+    "tema": 36,
+    "pregunta": "Dentro de la triada CIA, la disponibilidad significa que:",
+    "opciones": [
+      "los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten",
+      "solo el administrador puede modificar los datos",
+      "toda la información debe almacenarse en la nube",
+      "los datos deben permanecer cifrados en cualquier circunstancia"
+    ],
+    "correcta": 0,
+    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
+    "referencia": "Tema 36, 6.1 Concepto y objetivos"
+  },
+  {
+    "id": "t36-p021",
+    "tema": 36,
+    "pregunta": "¿Cual de las siguientes definiciones corresponde a un procesador?",
+    "opciones": [
+      "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
+      "Unidad de informacion compuesta generalmente de ocho bits",
+      "Unidad funcional que se encarga de la busqueda, interpretacion y ejecucion de instrucciones",
+      "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
+    ],
+    "correcta": 2,
+    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
+    "referencia": "Tema 36, 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+  },
+  {
+    "id": "t36-p022",
+    "tema": 36,
+    "pregunta": "¿Que sistema de seguridad tiene como funcion especifica detectar, bloquear y eliminar software malicioso?",
+    "opciones": [
+      "VPN",
+      "Firewall",
+      "Antivirus",
+      "Gestor de contraseñas"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
+    "referencia": "Tema 36, 6.5 El antivirus"
+  },
+  {
+    "id": "t36-p023",
+    "tema": 36,
+    "pregunta": "¿Que elemento realiza la funcion de guardar de forma temporal programas y procesos en ejecucion?",
+    "opciones": [
+      "Disipador",
+      "Memoria RAM",
+      "Tarjeta grafica",
+      "CPU"
+    ],
+    "correcta": 1,
+    "explicacion": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecucion inmediata.",
+    "referencia": "Tema 36, 2.3.2 La memoria RAM"
+  }
+]

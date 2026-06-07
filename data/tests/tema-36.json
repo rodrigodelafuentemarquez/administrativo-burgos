@@ -1,324 +1,212 @@
 [
   {
-    "id": "t36-p001",
+    "id": "t23-p001",
     "tema": 36,
-    "pregunta": "La informática es:",
+    "pregunta": "Según el Tema 23, el fundamento constitucional y comunitario de la prevención de riesgos laborales se sitúa en:",
     "opciones": [
-      "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
-      "el conjunto de normas de archivo",
-      "la gestión de contratos públicos",
-      "el estudio de la legislación laboral"
+      "art. 40.2 CE y la Directiva 89/391/CEE",
+      "art. 103 CE y el RGPD",
+      "art. 14 CE y la LO 3/2007",
+      "art. 105 CE y la LJCA"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa definición básica.",
-    "referencia": "Tema 36, 1.1 Qué es la informática"
+    "explicacion": "El tema señala ese fundamento constitucional y comunitario.",
+    "referencia": "V.5 · 1.1 Fundamento constitucional y comunitario"
   },
   {
-    "id": "t36-p002",
+    "id": "t23-p002",
     "tema": 36,
-    "pregunta": "Una característica fundamental del ordenador es la:",
+    "pregunta": "Según el art. 2 LPRL, el objeto de la LPRL es:",
     "opciones": [
-      "velocidad",
-      "inalienabilidad",
-      "prescripción",
-      "publicidad"
+      "promover la seguridad y la salud de los trabajadores mediante la aplicación de principios preventivos",
+      "regular el régimen sancionador de tráfico",
+      "organizar los tribunales administrativos",
+      "aprobar el presupuesto local"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la velocidad entre sus rasgos fundamentales.",
-    "referencia": "Tema 36, 1.1 Qué es la informática"
+    "explicacion": "El tema lo formula así en su art. 2.",
+    "referencia": "V.5 · 1.2 Objeto (art. 2 LPRL)"
   },
   {
-    "id": "t36-p003",
+    "id": "t23-p003",
     "tema": 36,
-    "pregunta": "La arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y:",
+    "pregunta": "Según el art. 3 LPRL, el ámbito subjetivo de la LPRL alcanza a:",
     "opciones": [
-      "bus",
-      "archivo central",
-      "navegador",
-      "monitor táctil obligatorio"
+      "los trabajadores al servicio de empleadores públicos y privados",
+      "solo a los funcionarios de carrera",
+      "solo a los trabajadores autónomos",
+      "únicamente a los menores de edad"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el bus entre los elementos de la arquitectura.",
-    "referencia": "Tema 36, 2.2 La arquitectura von Neumann"
+    "explicacion": "El tema vincula la ley al trabajo prestado para empleadores públicos o privados.",
+    "referencia": "V.5 · 2.1 Ámbito subjetivo (art. 3 LPRL)"
   },
   {
-    "id": "t36-p004",
+    "id": "t23-p004",
     "tema": 36,
-    "pregunta": "La CPU es:",
+    "pregunta": "Según el art. 4 LPRL, una condición de trabajo es:",
     "opciones": [
-      "el cerebro del ordenador",
-      "la unidad de respaldo externo",
-      "el sistema de impresión",
-      "el programa de correo"
+      "cualquier característica del trabajo que pueda influir en la generación de riesgos",
+      "solo el salario mensual",
+      "únicamente la antigüedad del trabajador",
+      "la denominación del puesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
-    "referencia": "Tema 36, 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+    "explicacion": "El tema incluye esa noción entre las definiciones clave.",
+    "referencia": "V.5 · 3. Definiciones clave (art. 4 LPRL)"
   },
   {
-    "id": "t36-p005",
+    "id": "t23-p005",
     "tema": 36,
-    "pregunta": "La RAM es una memoria:",
+    "pregunta": "El INSST es:",
     "opciones": [
-      "volátil",
-      "permanente",
-      "solo óptica",
-      "inembargable"
+      "el organismo científico técnico especializado en prevención de riesgos laborales",
+      "la mesa de negociación colectiva",
+      "la oficina de recaudación municipal",
+      "el órgano competente para contratar obras"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como volátil.",
-    "referencia": "Tema 36, 2.3.2 La memoria RAM"
+    "explicacion": "El tema lo presenta como el organismo científico técnico especializado.",
+    "referencia": "V.5 · 4.2 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)"
   },
   {
-    "id": "t36-p006",
+    "id": "t23-p006",
     "tema": 36,
-    "pregunta": "La ROM alberga el firmware del sistema, en particular:",
+    "pregunta": "Según el art. 14 LPRL, el derecho básico reconocido a los trabajadores es el derecho a:",
     "opciones": [
-      "la BIOS o la UEFI",
-      "el navegador web",
-      "el gestor de correo",
-      "las hojas de cálculo"
+      "una protección eficaz frente a los riesgos laborales",
+      "la concesión de subvenciones",
+      "la libre disposición del presupuesto",
+      "la aprobación de las plantillas"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo sitúa en la ROM.",
-    "referencia": "Tema 36, 2.3.3 La memoria ROM"
+    "explicacion": "El tema lo recoge en el art. 14 LPRL.",
+    "referencia": "V.5 · 5.1 Derecho a la protección frente a los riesgos laborales (art. 14 LPRL)"
   },
   {
-    "id": "t36-p007",
+    "id": "t23-p007",
     "tema": 36,
-    "pregunta": "La placa base incorpora el:",
+    "pregunta": "Según el art. 15 LPRL, uno de los principios de la acción preventiva es:",
     "opciones": [
-      "chipset",
-      "Panel de control",
-      "Explorador",
-      "Sistema de archivos"
+      "adaptar el trabajo a la persona",
+      "dejar la prevención al azar",
+      "sustituir siempre la formación por sanciones",
+      "priorizar el riesgo sobre la protección"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como conjunto de circuitos de comunicación.",
-    "referencia": "Tema 36, 2.3.4 La placa base (motherboard)"
+    "explicacion": "El tema lo enumera expresamente en el art. 15 LPRL.",
+    "referencia": "V.5 · 6. Principios de la acción preventiva (art. 15 LPRL)"
   },
   {
-    "id": "t36-p008",
+    "id": "t23-p008",
     "tema": 36,
-    "pregunta": "La GPU es el componente responsable del:",
+    "pregunta": "Según la LPRL, ¿en qué artículo se regulan la evaluación de riesgos y la planificación de la actividad preventiva?",
     "opciones": [
-      "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
-      "almacenamiento masivo de archivos",
-      "control tributario",
-      "cifrado de correos"
+      "art. 16 LPRL",
+      "art. 5 CE",
+      "art. 22 LRJSP",
+      "art. 63 LCSP"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así.",
-    "referencia": "Tema 36, 2.3.5 La tarjeta gráfica (GPU)"
+    "explicacion": "El tema las sitúa en el art. 16 LPRL.",
+    "referencia": "V.5 · 7.1 Evaluación de riesgos (art. 16 LPRL)"
   },
   {
-    "id": "t36-p009",
+    "id": "t23-p009",
     "tema": 36,
-    "pregunta": "Los periféricos de entrada permiten:",
+    "pregunta": "Según el art. 18 LPRL, la información a los trabajadores y su formación preventiva se recogen en los:",
     "opciones": [
-      "introducir datos o instrucciones en el ordenador",
-      "solo mostrar imágenes",
-      "únicamente guardar copias",
-      "cambiar el sistema operativo"
+      "arts. 18 y 19 LPRL",
+      "arts. 6 y 7 CE",
+      "arts. 14 y 15 LTBG",
+      "arts. 48 y 49 TREBEP"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define por esa función.",
-    "referencia": "Tema 36, 2.4.1 Periféricos de entrada"
+    "explicacion": "El tema atribuye esas materias a los arts. 18 y 19 LPRL.",
+    "referencia": "V.5 · 7.3 Información a los trabajadores (art. 18 LPRL) / 7.4 Formación de los trabajadores (art. 19 LPRL)"
   },
   {
-    "id": "t36-p010",
+    "id": "t23-p010",
     "tema": 36,
-    "pregunta": "El bus de datos:",
+    "pregunta": "Según la LPRL, ¿en qué artículo se regula la vigilancia de la salud de los trabajadores?",
     "opciones": [
-      "transporta los datos entre CPU, memoria y periféricos",
-      "define los permisos de usuario",
-      "almacena el sistema operativo",
-      "convierte la corriente eléctrica"
+      "art. 22 LPRL",
+      "art. 105 CE",
+      "art. 20 LPACAP",
+      "art. 162 TRLRHL"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye esa función.",
-    "referencia": "Tema 36, 2.5 Los buses del sistema"
+    "explicacion": "El tema la vincula al art. 22 LPRL.",
+    "referencia": "V.5 · 7.5 Vigilancia de la salud (art. 22 LPRL)"
   },
   {
-    "id": "t36-p011",
+    "id": "t23-p011",
     "tema": 36,
-    "pregunta": "El software de sistema incluye:",
+    "pregunta": "Según el art. 21 LPRL, en caso de riesgo grave e inminente el trabajador puede:",
     "opciones": [
-      "el sistema operativo y los controladores",
-      "solo los documentos PDF",
-      "únicamente el correo electrónico",
-      "solo las bases de datos relacionales"
+      "interrumpir su actividad y abandonar el lugar de trabajo",
+      "solicitar un cambio de presupuesto",
+      "suspender el reglamento orgánico",
+      "convertirse en órgano de selección"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo indica entre las categorías.",
-    "referencia": "Tema 36, 3.2.1 Software de sistema (o software base)"
+    "explicacion": "El tema recoge ese derecho en el art. 21 LPRL.",
+    "referencia": "V.5 · 7.7 Riesgo grave e inminente (art. 21 LPRL)"
   },
   {
-    "id": "t36-p012",
+    "id": "t23-p012",
     "tema": 36,
-    "pregunta": "El software libre permite:",
+    "pregunta": "Según el art. 29.2.1º LPRL, una obligación del trabajador es:",
     "opciones": [
-      "usar, copiar, distribuir, estudiar y modificar el software",
-      "solo usarlo sin copiar",
-      "únicamente visualizarlo",
-      "instalarlo en un solo equipo sin más"
+      "usar adecuadamente máquinas, herramientas y equipos de protección individual",
+      "aprobar el plan de prevención",
+      "nombrar al delegado de prevención",
+      "redactar el presupuesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define por esas libertades.",
-    "referencia": "Tema 36, 3.3 Clasificación del software según su licencia"
+    "explicacion": "El tema lo contempla en el art. 29 LPRL.",
+    "referencia": "V.5 · 8.1 Usar adecuadamente máquinas, herramientas y EPIs (art. 29.2.1º LPRL)"
   },
   {
-    "id": "t36-p013",
+    "id": "t23-p013",
     "tema": 36,
-    "pregunta": "Un sistema operativo es:",
+    "pregunta": "Según los arts. 35-36 LPRL, los Delegados de Prevención son:",
     "opciones": [
-      "el software base que administra los recursos del hardware y permite la ejecución de aplicaciones",
-      "una periferia de salida",
-      "un archivo comprimido",
-      "un navegador web"
+      "los representantes de los trabajadores con funciones específicas en prevención",
+      "los jefes de servicio de la Diputación",
+      "los interventores de fondos",
+      "los secretarios generales"
     ],
     "correcta": 0,
-    "explicacion": "El tema desarrolla esa función en el apartado 4.",
-    "referencia": "Tema 36, 4.1 Concepto y funciones"
+    "explicacion": "El tema los define como representantes de los trabajadores en prevención.",
+    "referencia": "V.5 · 9.1 Delegados de Prevención (arts. 35-36 LPRL)"
   },
   {
-    "id": "t36-p014",
+    "id": "t23-p014",
     "tema": 36,
-    "pregunta": "El Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de:",
+    "pregunta": "Según el art. 38 LPRL, el Comité de Seguridad y Salud es:",
     "opciones": [
-      "seguridad informática en el sector público",
-      "contabilidad local",
-      "archivos históricos",
-      "contratación pública"
+      "un órgano paritario y colegiado de participación en materia preventiva",
+      "un tribunal administrativo de recursos",
+      "un órgano de contratación local",
+      "una comisión de cuentas"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo cita en la referencia normativa.",
-    "referencia": "Tema 36, Referencia normativa"
+    "explicacion": "El tema lo presenta así en el art. 38 LPRL.",
+    "referencia": "V.5 · 9.2 Comité de Seguridad y Salud (art. 38 LPRL)"
   },
   {
-    "id": "t36-p015",
+    "id": "t23-p015",
     "tema": 36,
-    "pregunta": "Los dispositivos IoT son:",
+    "pregunta": "Según los arts. 31-32 LPRL, los Servicios de Prevención, tienen como finalidad:",
     "opciones": [
-      "objetos cotidianos con capacidad de conexión y procesamiento",
-      "solo servidores de alta gama",
-      "únicamente monitores",
-      "programas de diseño gráfico"
+      "asesorar y asistir a la empresa y a los trabajadores en materia preventiva",
+      "tramitar reclamaciones tributarias",
+      "aprobar convenios colectivos",
+      "realizar inspecciones judiciales"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define como objetos cotidianos conectados.",
-    "referencia": "Tema 36, 1.2 Tipos de ordenadores"
-  },
-  {
-    "id": "t36-p016",
-    "tema": 36,
-    "pregunta": "La interfaz gráfica de usuario (GUI) se caracteriza por:",
-    "opciones": [
-      "permitir la interacción mediante ventanas, iconos, menús y ratón",
-      "exigir exclusivamente el uso de comandos de texto",
-      "utilizar solo pantallas monocromas",
-      "funcionar únicamente en servidores"
-    ],
-    "correcta": 0,
-    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
-    "referencia": "Tema 36, 4.2.1 Por el tipo de interfaz"
-  },
-  {
-    "id": "t36-p017",
-    "tema": 36,
-    "pregunta": "Windows 11 requiere hardware compatible con:",
-    "opciones": [
-      "TPM 2.0 y arranque seguro (Secure Boot)",
-      "lectora Blu-ray y puerto VGA",
-      "arquitectura exclusivamente ARM de 32 bits",
-      "dos tarjetas gráficas dedicadas"
-    ],
-    "correcta": 0,
-    "explicacion": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
-    "referencia": "Tema 36, 4.3.1 Microsoft Windows"
-  },
-  {
-    "id": "t36-p018",
-    "tema": 36,
-    "pregunta": "La memoria virtual consiste en:",
-    "opciones": [
-      "utilizar parte del disco como extensión de la RAM",
-      "reservar una zona de la ROM para ejecutar aplicaciones",
-      "convertir automáticamente la memoria RAM en almacenamiento permanente",
-      "duplicar el contenido del disco en la nube"
-    ],
-    "correcta": 0,
-    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
-    "referencia": "Tema 36, 4.4 Conceptos clave de los sistemas operativos"
-  },
-  {
-    "id": "t36-p019",
-    "tema": 36,
-    "pregunta": "Una característica propia de los SSD frente a los HDD es que:",
-    "opciones": [
-      "no tienen partes móviles",
-      "solo pueden usarse como almacenamiento externo",
-      "su velocidad siempre es inferior a la de los HDD",
-      "se basan en platos magnéticos giratorios"
-    ],
-    "correcta": 0,
-    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
-    "referencia": "Tema 36, 5.3 La unidad de estado sólido (SSD)"
-  },
-  {
-    "id": "t36-p020",
-    "tema": 36,
-    "pregunta": "Dentro de la triada CIA, la disponibilidad significa que:",
-    "opciones": [
-      "los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten",
-      "solo el administrador puede modificar los datos",
-      "toda la información debe almacenarse en la nube",
-      "los datos deben permanecer cifrados en cualquier circunstancia"
-    ],
-    "correcta": 0,
-    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
-    "referencia": "Tema 36, 6.1 Concepto y objetivos"
-  },
-  {
-    "id": "t36-p021",
-    "tema": 36,
-    "pregunta": "¿Cual de las siguientes definiciones corresponde a un procesador?",
-    "opciones": [
-      "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
-      "Unidad de informacion compuesta generalmente de ocho bits",
-      "Unidad funcional que se encarga de la busqueda, interpretacion y ejecucion de instrucciones",
-      "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
-    ],
-    "correcta": 2,
-    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
-    "referencia": "Tema 36, 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
-  },
-  {
-    "id": "t36-p022",
-    "tema": 36,
-    "pregunta": "¿Que sistema de seguridad tiene como funcion especifica detectar, bloquear y eliminar software malicioso?",
-    "opciones": [
-      "VPN",
-      "Firewall",
-      "Antivirus",
-      "Gestor de contraseñas"
-    ],
-    "correcta": 2,
-    "explicacion": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
-    "referencia": "Tema 36, 6.5 El antivirus"
-  },
-  {
-    "id": "t36-p023",
-    "tema": 36,
-    "pregunta": "¿Que elemento realiza la funcion de guardar de forma temporal programas y procesos en ejecucion?",
-    "opciones": [
-      "Disipador",
-      "Memoria RAM",
-      "Tarjeta grafica",
-      "CPU"
-    ],
-    "correcta": 1,
-    "explicacion": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecucion inmediata.",
-    "referencia": "Tema 36, 2.3.2 La memoria RAM"
+    "explicacion": "El tema los regula en los arts. 31 y 32 LPRL con esa función.",
+    "referencia": "V.5 · 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)"
   }
 ]

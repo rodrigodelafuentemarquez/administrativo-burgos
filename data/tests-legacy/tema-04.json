@@ -1,0 +1,240 @@
+[
+  {
+    "id": "t04-p001",
+    "tema": 4,
+    "pregunta": "Según el art. 66 CE, las Cortes Generales:",
+    "opciones": [
+      "representan al pueblo español y ejercen la potestad legislativa del Estado",
+      "representan solo a los partidos políticos",
+      "son un órgano consultivo del Gobierno",
+      "están formadas únicamente por el Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema recoge que las Cortes representan al pueblo español y ejercen la potestad legislativa del Estado.",
+    "referencia": "Tema 4, 1.1 Definición constitucional (art. 66 CE)"
+  },
+  {
+    "id": "t04-p002",
+    "tema": 4,
+    "pregunta": "Según el art. 68 CE, ¿qué afirmación sobre el Congreso de los Diputados es correcta?",
+    "opciones": [
+      "Tiene entre 200 y 300 diputados",
+      "Tiene entre 300 y 400 diputados y actualmente son 350",
+      "Su mandato es de 6 años",
+      "Se elige por circunscripción autonómica"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el Congreso se compone de entre 300 y 400 diputados y que la ley fija actualmente 350.",
+    "referencia": "Tema 4, 2.1 Composición (art. 68 CE)"
+  },
+  {
+    "id": "t04-p003",
+    "tema": 4,
+    "pregunta": "Según el art. 69 CE, el Senado es la:",
+    "opciones": [
+      "Cámara de representación territorial",
+      "Cámara de representación sindical",
+      "Cámara de representación municipal",
+      "Cámara de representación judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema reproduce el art. 69.1 CE: el Senado es la Cámara de representación territorial.",
+    "referencia": "Tema 4, 3.1 Naturaleza y composición (art. 69 CE)"
+  },
+  {
+    "id": "t04-p004",
+    "tema": 4,
+    "pregunta": "Según el art. 71.1 CE, la inviolabilidad de diputados y senadores, protege:",
+    "opciones": [
+      "cualquier acto de su vida privada",
+      "las opiniones manifestadas en el ejercicio de sus funciones",
+      "solo las votaciones secretas",
+      "únicamente los actos del Presidente de la Cámara"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema señala que la inviolabilidad cubre las opiniones emitidas en el ejercicio de las funciones parlamentarias.",
+    "referencia": "Tema 4, 4.1 Inviolabilidad (art. 71.1 CE)"
+  },
+  {
+    "id": "t04-p005",
+    "tema": 4,
+    "pregunta": "Según el art. 71.2 CE, ¿cuándo pueden ser detenidos diputados y senadores?",
+    "opciones": [
+      "En cualquier momento si lo pide el Gobierno",
+      "Solo en caso de flagrante delito",
+      "Solo con autorización del Defensor del Pueblo",
+      "Solo si lo aprueba el Pleno de la Cámara"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que la inmunidad parlamentaria permite la detención únicamente en caso de flagrante delito.",
+    "referencia": "Tema 4, 4.2 Inmunidad (art. 71.2 CE)"
+  },
+  {
+    "id": "t04-p006",
+    "tema": 4,
+    "pregunta": "Según el art. 67.2 CE, los miembros de las Cortes Generales:",
+    "opciones": [
+      "están ligados por mandato imperativo",
+      "no estarán ligados por mandato imperativo",
+      "pueden ser revocados por sus electores en cualquier momento",
+      "responden ante sus partidos por mandato legal"
+    ],
+    "correcta": 1,
+    "explicacion": "El temario recoge expresamente el mandato representativo y la ausencia de mandato imperativo.",
+    "referencia": "Tema 4, 4.5 Mandato representativo (art. 67.2 CE)"
+  },
+  {
+    "id": "t04-p007",
+    "tema": 4,
+    "pregunta": "Según el Tema 4, ¿qué requisito general se exige para formar grupo parlamentario en el Congreso?",
+    "opciones": [
+      "10 diputados",
+      "15 diputados, o excepcionalmente 5 en ciertos supuestos",
+      "20 diputados",
+      "25 diputados"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema fija un mínimo de 15 diputados, con la posibilidad excepcional de 5 en los supuestos indicados.",
+    "referencia": "Tema 4, 5.2 Los Grupos Parlamentarios"
+  },
+  {
+    "id": "t04-p008",
+    "tema": 4,
+    "pregunta": "Según el art. 73 CE, ¿en qué períodos ordinarios de sesiones se reúnen las Cámaras?",
+    "opciones": [
+      "Enero-marzo y julio-septiembre",
+      "Septiembre-diciembre y febrero-junio",
+      "Febrero-mayo y agosto-noviembre",
+      "Todo el año sin períodos diferenciados"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema sitúa los períodos ordinarios de sesiones entre septiembre y diciembre, y entre febrero y junio.",
+    "referencia": "Tema 4, 6.1 Períodos de sesiones (art. 73 CE)"
+  },
+  {
+    "id": "t04-p009",
+    "tema": 4,
+    "pregunta": "Según el art. 81 CE, para las leyes orgánicas se exige:",
+    "opciones": [
+      "mayoría simple en Congreso y Senado",
+      "mayoría absoluta del Congreso en votación final sobre el conjunto del texto",
+      "mayoría de tres quintos de ambas Cámaras",
+      "referéndum obligatorio previo"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que las leyes orgánicas requieren mayoría absoluta del Congreso en votación final sobre el conjunto del texto.",
+    "referencia": "Tema 4, 7.1 c) Leyes Orgánicas (art. 81 CE)"
+  },
+  {
+    "id": "t04-p010",
+    "tema": 4,
+    "pregunta": "En relación con la iniciativa legislativa popular, ¿qué establece la Constitución?",
+    "opciones": [
+      "Requiere 100.000 firmas y puede versar sobre cualquier materia",
+      "Requiere 500.000 firmas y excluye materias como leyes orgánicas, tributarias o de gracia",
+      "La prohíbe por completo",
+      "Solo puede ejercerse por las Comunidades Autónomas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge que la iniciativa legislativa popular exige 500.000 firmas y excluye determinadas materias.",
+    "referencia": "Tema 4, 7.1 a) Iniciativa legislativa (art. 87 CE)"
+  },
+  {
+    "id": "t04-p011",
+    "tema": 4,
+    "pregunta": "Según el art. 69 CE, el Senado está compuesto por senadores provinciales, insulares, de Ceuta y Melilla y:",
+    "opciones": [
+      "senadores autonómicos",
+      "senadores vitalicios",
+      "senadores corporativos",
+      "senadores designados por el Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera los senadores autonómicos como parte de la composición mixta del Senado.",
+    "referencia": "Tema 4, 3.1 Naturaleza y composición (art. 69 CE)"
+  },
+  {
+    "id": "t04-p012",
+    "tema": 4,
+    "pregunta": "¿Qué mínimo de senadores deben reunir los grupos parlamentarios en el Senado?",
+    "opciones": [
+      "5",
+      "8",
+      "10",
+      "15"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema fija en 10 senadores el mínimo para formar grupo en la Cámara Alta.",
+    "referencia": "Tema 4, 5.2 Los Grupos Parlamentarios"
+  },
+  {
+    "id": "t04-p013",
+    "tema": 4,
+    "pregunta": "Según el art. 78 CE, las Diputaciones Permanentes:",
+    "opciones": [
+      "solo existen en el Congreso",
+      "velan por los poderes de las Cámaras cuando no están reunidas",
+      "aprueban las leyes orgánicas",
+      "sustituyen al Gobierno en funciones"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema les atribuye la función de velar por los poderes de las Cámaras cuando estas no están reunidas.",
+    "referencia": "Tema 4, 6.4 Las Diputaciones Permanentes (art. 78 CE)"
+  },
+  {
+    "id": "t04-p014",
+    "tema": 4,
+    "pregunta": "En el procedimiento legislativo ordinario descrito, ¿qué plazo tiene el Senado para actuar sobre el texto recibido del Congreso?",
+    "opciones": [
+      "15 días",
+      "1 mes",
+      "2 meses",
+      "3 meses"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema fija un plazo de 2 meses para que el Senado apruebe, enmiende o vete el texto.",
+    "referencia": "Tema 4, 7.1 b) Procedimiento legislativo ordinario"
+  },
+  {
+    "id": "t04-p015",
+    "tema": 4,
+    "pregunta": "La declaración del estado de sitio corresponde al:",
+    "opciones": [
+      "Gobierno por decreto-ley",
+      "Congreso por mayoría absoluta",
+      "Senado por mayoría absoluta",
+      "Tribunal Constitucional"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema indica que el estado de sitio lo declara el Congreso por mayoría absoluta.",
+    "referencia": "Tema 4, 7.5 Otras atribuciones constitucionales relevantes"
+  },
+  {
+    "id": "t04-p016",
+    "tema": 4,
+    "pregunta": "Segun el art. 76 CE, senale la afirmacion correcta sobre las comisiones de investigacion de las Camaras:",
+    "opciones": [
+      "Sus conclusiones son vinculantes para los jueces y tribunales",
+      "La comparecencia ante ellas es voluntaria",
+      "Sus conclusiones no son vinculantes judicialmente, aunque la comparecencia ante ellas es obligatoria",
+      "Solo pueden crearse en el Congreso de los Diputados"
+    ],
+    "correcta": 2,
+    "explicacion": "El tema subraya su valor politico y que la comparecencia es obligatoria, pero sus conclusiones no vinculan judicialmente.",
+    "referencia": "Tema 4, 7.3 La funcion de control del Gobierno (art. 76 CE)"
+  },
+  {
+    "id": "t04-p017",
+    "tema": 4,
+    "pregunta": "De acuerdo con el art. 67 CE, señale la afirmacion correcta:",
+    "opciones": [
+      "Nadie podra ser miembro de las dos Camaras simultaneamente, salvo el Presidente del Gobierno",
+      "Nadie podra ser miembro de las dos Camaras simultaneamente",
+      "Podra acumularse libremente el acta de una Asamblea autonómica con la de Diputado al Congreso",
+      "Los Ministros pueden ser miembros de las dos Camaras simultaneamente"
+    ],
+    "correcta": 1,
+    "explicacion": "El art. 67 CE prohíbe ser miembro de ambas Cámaras a la vez.",
+    "referencia": "Tema 4, 4.5 Mandato representativo (art. 67 CE)"
+  }
+]

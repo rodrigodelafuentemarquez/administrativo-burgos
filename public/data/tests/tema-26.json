@@ -1,212 +1,226 @@
 [
   {
-    "id": "t26-p001",
+    "id": "t30-p001",
     "tema": 26,
-    "pregunta": "Los órganos colegiados locales se rigen con carácter supletorio por el:",
+    "pregunta": "El personal al servicio de las Entidades Locales queda encuadrado actualmente en:",
     "opciones": [
-      "ROF",
-      "Código Civil",
-      "Código Penal",
-      "RGPD"
+      "el Régimen General de la Seguridad Social",
+      "el Régimen Especial de Trabajadores Autónomos",
+      "MUFACE para todo el personal",
+      "ningún régimen de Seguridad Social"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala expresamente el ROF como régimen supletorio.",
-    "referencia": "Tema 26, 1.3 Régimen supletorio"
+    "explicacion": "El tema concluye que el personal local queda en el Régimen General.",
+    "referencia": "III.5 · 1.2 Encuadramiento del personal local"
   },
   {
-    "id": "t26-p002",
+    "id": "t30-p002",
     "tema": 26,
-    "pregunta": "La convocatoria del órgano colegiado corresponde al:",
+    "pregunta": "Las Corporaciones Locales actúan a efectos de Seguridad Social como:",
     "opciones": [
-      "Presidente",
-      "Secretario",
-      "Interventor",
-      "Tesorero"
+      "empresarios cotizantes",
+      "mutuas privadas",
+      "órganos jurisdiccionales",
+      "entidades sin obligaciones de alta"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye la convocatoria al Presidente.",
-    "referencia": "Tema 26, 2.1 Competencia para convocar"
+    "explicacion": "El tema las define como empresarios a efectos de Seguridad Social.",
+    "referencia": "III.5 · 1.3 La Corporación Local como empresario cotizante"
   },
   {
-    "id": "t26-p003",
+    "id": "t30-p004",
     "tema": 26,
-    "pregunta": "La convocatoria del Pleno puede ser solicitada por al menos:",
+    "pregunta": "La asistencia sanitaria comprende:",
     "opciones": [
-      "la cuarta parte de los miembros",
-      "la mitad de los asistentes",
-      "dos tercios del Pleno",
-      "un solo miembro"
+      "atención primaria, atención especializada y prestaciones farmacéuticas",
+      "solo cirugía hospitalaria",
+      "únicamente transporte sanitario",
+      "solo dietas y asistencias"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese umbral para solicitar la convocatoria plenaria.",
-    "referencia": "Tema 26, 2.1 Competencia para convocar"
+    "explicacion": "El tema desarrolla esas modalidades de asistencia.",
+    "referencia": "III.5 · 3.2 Modalidades de asistencia sanitaria"
   },
   {
-    "id": "t26-p004",
+    "id": "t30-p005",
     "tema": 26,
-    "pregunta": "La antelación mínima de la convocatoria ordinaria o extraordinaria es de:",
+    "pregunta": "La incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
     "opciones": [
-      "2 días hábiles",
-      "24 horas",
-      "5 días naturales",
-      "10 días hábiles"
+      "asistencia sanitaria de la Seguridad Social",
+      "autorización presupuestaria",
+      "designación de un interventor",
+      "suspensión de funciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija dos días hábiles de antelación.",
-    "referencia": "Tema 26, 2.2 Antelación mínima de la convocatoria"
+    "explicacion": "El tema la define así en el art. 169 TRLGSS.",
+    "referencia": "III.5 · 4.1 Concepto"
   },
   {
-    "id": "t26-p005",
+    "id": "t30-p007",
     "tema": 26,
-    "pregunta": "La convocatoria urgente:",
+    "pregunta": "La duración máxima de la incapacidad temporal es de:",
     "opciones": [
-      "no exige plazo mínimo",
-      "debe notificarse con 15 días hábiles",
-      "requiere siempre dictamen de la Comisión de Cuentas",
-      "solo puede hacerse por el Secretario"
+      "365 días, prorrogables por otros 180",
+      "90 días, prorrogables por otros 30",
+      "dos años sin revisión",
+      "180 días improrrogables"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la urgencia elimina el plazo mínimo.",
-    "referencia": "Tema 26, 2.2 Antelación mínima de la convocatoria"
+    "explicacion": "El tema fija ese límite de 365 + 180 días.",
+    "referencia": "III.5 · 4.4 Duración de la IT"
   },
   {
-    "id": "t26-p006",
+    "id": "t30-p008",
     "tema": 26,
-    "pregunta": "El orden del día:",
+    "pregunta": "La prestación por nacimiento y cuidado de menor dura, con carácter general,:",
     "opciones": [
-      "limita los asuntos que pueden debatirse y votarse",
-      "solo sirve como archivo histórico",
-      "es irrelevante si hay urgencia",
-      "solo se usa en la Junta de Gobierno"
+      "16 semanas por cada progenitor",
+      "8 semanas por unidad familiar",
+      "30 días naturales",
+      "18 meses"
     ],
     "correcta": 0,
-    "explicacion": "El tema subraya que marca los asuntos a tratar.",
-    "referencia": "Tema 26, 2.5 El orden del día"
+    "explicacion": "El tema indica 16 semanas para cada progenitor.",
+    "referencia": "III.5 · 5.2 Duración del permiso"
   },
   {
-    "id": "t26-p007",
+    "id": "t30-p009",
     "tema": 26,
-    "pregunta": "El quórum inicial de constitución exige:",
+    "pregunta": "Las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son:",
     "opciones": [
-      "un tercio del número legal de miembros, con un mínimo de tres",
-      "la mayoría absoluta de los miembros",
-      "dos tercios de los miembros",
-      "la presencia de todos los concejales"
+      "obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento",
+      "voluntarias y acumulables al final",
+      "solo aplicables al segundo progenitor",
+      "sustituibles por compensación económica"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija un tercio y un mínimo de tres.",
-    "referencia": "Tema 26, 3.2 Quórum de constitución (quórum inicial)"
+    "explicacion": "El tema las declara obligatorias e ininterrumpidas.",
+    "referencia": "III.5 · 5.2 Duración del permiso"
   },
   {
-    "id": "t26-p008",
+    "id": "t30-p010",
     "tema": 26,
-    "pregunta": "Para constituirse válidamente, deben estar presentes:",
+    "pregunta": "La prestación económica por nacimiento y cuidado de menor, equivale al:",
     "opciones": [
-      "el Presidente y el Secretario",
-      "el alcalde y el interventor",
-      "solo el portavoz de mayoría",
-      "el tesorero y dos vocales"
+      "100 % de la base reguladora",
+      "75 % de la base mínima",
+      "60 % de la nómina",
+      "50 % del salario mensual"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige la presencia de Presidente y Secretario.",
-    "referencia": "Tema 26, 3.4 Asistencia del Presidente y del Secretario"
+    "explicacion": "El tema fija el 100 % de la base reguladora.",
+    "referencia": "III.5 · 5.3 Cuantía del subsidio"
   },
   {
-    "id": "t26-p009",
+    "id": "t30-p011",
     "tema": 26,
-    "pregunta": "El voto delegado:",
+    "pregunta": "La incapacidad permanente total inhabilita al trabajador para:",
     "opciones": [
-      "no está permitido",
-      "es obligatorio en todas las sesiones",
-      "solo existe en comisiones especiales",
-      "sustituye al voto de calidad"
+      "todas o las fundamentales tareas de su profesión habitual",
+      "cualquier trabajo retribuido en cualquier caso",
+      "solo las tareas de administración",
+      "únicamente los trabajos nocturnos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo prohíbe expresamente.",
-    "referencia": "Tema 26, 4.6 Voto delegado"
+    "explicacion": "El tema la define así y permite otra profesión distinta.",
+    "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
   },
   {
-    "id": "t26-p010",
+    "id": "t30-p017",
     "tema": 26,
-    "pregunta": "¿Cuándo hay empate en una votación, el Presidente dispone de?",
+    "pregunta": "Para acceder a la prestación por nacimiento y cuidado de menor, el período mínimo general de cotización es de:",
     "opciones": [
-      "voto de calidad",
-      "veto suspensivo",
-      "doble voto siempre",
-      "voto ponderado automático"
+      "180 días en los últimos 7 años o 360 días a lo largo de la vida laboral",
+      "90 días en los últimos 5 años",
+      "365 días en el último año",
+      "no se exige cotización en ningún caso"
     ],
     "correcta": 0,
-    "explicacion": "El tema contempla el voto de calidad del Presidente.",
-    "referencia": "Tema 26, 4.5 Empate en la votación / 4.7 Voto de calidad y voto ponderado"
+    "explicacion": "Ese es el requisito general de cotización que recoge el tema, con especialidades por edad.",
+    "referencia": "III.5 · 5.4 Requisitos"
   },
   {
-    "id": "t26-p011",
+    "id": "t30-p018",
     "tema": 26,
-    "pregunta": "Las mayorías exigidas para adoptar acuerdos dependen:",
+    "pregunta": "La incapacidad permanente parcial da derecho a:",
     "opciones": [
-      "del tipo de asunto y de lo que establezca la ley",
-      "solo de la edad del Presidente",
-      "únicamente del número de asistentes",
-      "siempre de la unanimidad"
+      "una indemnización a tanto alzado de 24 mensualidades de la base reguladora",
+      "una pensión del 55 % de la base reguladora",
+      "una pensión del 100 % de la base reguladora",
+      "un complemento por gran invalidez"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue mayoría simple, absoluta y cualificadas.",
-    "referencia": "Tema 26, 4.4 Mayorías exigidas para la adopción de acuerdos"
+    "explicacion": "La IP parcial disminuye el rendimiento en la profesión habitual sin impedir las tareas fundamentales y se indemniza con 24 mensualidades.",
+    "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
   },
   {
-    "id": "t26-p012",
+    "id": "t45-p011",
     "tema": 26,
-    "pregunta": "Según el art. 109 ROF, el acta, debe recoger entre otros:",
+    "pregunta": "Una baja en nómina debe comunicarse a la Seguridad Social, dentro de:",
     "opciones": [
-      "asistentes, orden del día, desarrollo de debates, votaciones y acuerdos",
-      "solo el nombre del Presidente",
-      "únicamente los gastos de la sesión",
-      "solo la fecha de publicación"
+      "Un mes",
+      "Tres días naturales",
+      "Quince días hábiles",
+      "Sesenta días naturales"
     ],
-    "correcta": 0,
-    "explicacion": "El tema enumera esos extremos como contenido del acta.",
-    "referencia": "Tema 26, 5.2 Contenido del acta (art. 109 ROF)"
+    "correcta": 1,
+    "explicacion": "El tema fija tres días naturales tras el cese.",
+    "referencia": "III.5 · 5.2 Bajas"
   },
   {
-    "id": "t26-p013",
+    "id": "t45-p012",
     "tema": 26,
-    "pregunta": "Los certificados de acuerdos pueden ser expedidos por:",
+    "pregunta": "El personal laboral de las Administraciones Públicas se integra, por regla general, en:",
     "opciones": [
-      "el Secretario",
-      "cualquier diputado",
-      "el Presidente únicamente",
-      "el interventor de fondos"
+      "MUFACE",
+      "Clases Pasivas",
+      "Régimen General de la Seguridad Social",
+      "Régimen especial de funcionarios locales"
     ],
-    "correcta": 0,
-    "explicacion": "El tema atribuye esa función al Secretario.",
-    "referencia": "Tema 26, 6.2 Quién puede expedir certificados"
+    "correcta": 2,
+    "explicacion": "El tema sitúa al personal laboral en el Régimen General de la Seguridad Social.",
+    "referencia": "III.5 · 6.1 El Régimen General de la Seguridad Social"
   },
   {
-    "id": "t26-p014",
+    "id": "t45-p014",
     "tema": 26,
-    "pregunta": "Los certificados tienen:",
+    "pregunta": "MUFACE se caracteriza por permitir al mutualista:",
     "opciones": [
-      "valor de fe pública respecto de los acuerdos certificados",
-      "solo valor informativo sin eficacia alguna",
-      "valor de sentencia firme",
-      "eficacia reglamentaria"
+      "Elegir entre red pública y aseguradora privada concertada",
+      "Percibir retribuciones complementarias",
+      "Cobrar solo en junio y diciembre",
+      "Cotizar mediante el modelo 145"
     ],
     "correcta": 0,
-    "explicacion": "El tema les atribuye un valor jurídico relevante.",
-    "referencia": "Tema 26, 6.4 Efectos del certificado"
+    "explicacion": "El tema destaca esa posibilidad de elección sanitaria.",
+    "referencia": "III.5 · 7.1 La MUFACE"
   },
   {
-    "id": "t26-p015",
+    "id": "t45-p015",
     "tema": 26,
-    "pregunta": "Las Comisiones Informativas, tienen como función principal el:",
+    "pregunta": "Las clases pasivas afectan, a los funcionarios civiles del Estado ingresados:",
     "opciones": [
-      "estudio, informe y consulta",
-      "dictado de sentencias",
-      "control jurisdiccional",
-      "recaudación ejecutiva"
+      "Antes del 1 de enero de 2011",
+      "Después del 1 de enero de 2011",
+      "Antes del 1 de enero de 2007",
+      "Solo a los funcionarios locales"
     ],
     "correcta": 0,
-    "explicacion": "El tema les atribuye funciones de estudio, informe y consulta.",
-    "referencia": "Tema 26, 7. Régimen de sesiones de las Comisiones Informativas"
+    "explicacion": "El corte temporal del tema es el 1 de enero de 2011.",
+    "referencia": "III.5 · 7.2 Las Clases Pasivas del Estado"
+  },
+  {
+    "id": "t45-p018",
+    "tema": 26,
+    "pregunta": "En relación con la asistencia sanitaria de los mutualistas de MUFACE, señale la respuesta correcta:",
+    "opciones": [
+      "Pueden elegir libremente entre la red pública y una entidad médica privada concertada.",
+      "Solo pueden recibir asistencia sanitaria a través de la red pública.",
+      "Deben adscribirse necesariamente a una entidad médica privada concertada.",
+      "La opción sanitaria la determina en exclusiva la Administración."
+    ],
+    "correcta": 0,
+    "explicacion": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
+    "referencia": "III.5 · 7.1 La MUFACE"
   }
 ]
