@@ -1,5 +1,61 @@
 [
   {
+    "id": "pdf-2023-burgos-q41",
+    "tema": 36,
+    "pregunta": "Segun la Ley de Prevencion de Riesgos Laborales, las enfermedades, patologias o lesiones sufridas con motivo u ocasion del trabajo se consideraran como:",
+    "opciones": [
+      "Proteccion de los trabajadores",
+      "Danos derivados del trabajo",
+      "Riesgo laboral grave e inminente",
+      "Ninguna es correcta"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 41",
+    "explicacion": "La Ley de Prevencion de Riesgos Laborales define esos supuestos como danos derivados del trabajo."
+  },
+  {
+    "id": "pdf-2025-burgos-q54",
+    "tema": 36,
+    "pregunta": "Cual es el ambito de aplicacion de la Ley 31/1995, de Prevencion de Riesgos Laborales?",
+    "opciones": [
+      "Es de aplicacion en todos los ambitos sin excepcion",
+      "Aunque pretende ser una ley aplicable a todos los ambitos, ella misma proclama ciertas exclusiones",
+      "Se aplica exclusivamente a las relaciones de caracter administrativo o estatutario del personal al servicio de las Administraciones Publicas",
+      "Se aplica exclusivamente a las relaciones laborales reguladas en el Estatuto de los Trabajadores"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 54",
+    "explicacion": "La ley tiene un ambito amplio de aplicacion, pero contempla exclusiones expresas."
+  },
+  {
+    "id": "pdf-2025-burgos-q55",
+    "tema": 36,
+    "pregunta": "Segun el articulo 4 de la Ley 31/1995, se entiende por riesgo grave e inminente:",
+    "opciones": [
+      "La posibilidad de que un trabajador sufra un determinado dano grave derivado del trabajo y que resulte probable que se materialice en un futuro inmediato",
+      "La posibilidad de que un trabajador sufra lesiones o enfermedades graves derivadas del trabajo y que resulte probable que se materialice en un futuro inmediato",
+      "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un dano grave para la salud de los trabajadores",
+      "Aquel que origine riesgos para la salud y seguridad de los trabajadores y que se materialice en un futuro inmediato"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 55",
+    "explicacion": "La definicion legal pone el acento en la probabilidad racional de materializacion inmediata y en el dano grave para la salud."
+  },
+  {
+    "id": "pdf-2025-burgos-q56",
+    "tema": 36,
+    "pregunta": "Para calificar un riesgo desde el punto de vista de su gravedad, se valoraran conjuntamente la severidad del dano y:",
+    "opciones": [
+      "La probabilidad de que se produzca",
+      "La cantidad de trabajadores de la empresa",
+      "La existencia o no de equipos individuales de proteccion",
+      "Las condiciones de trabajo"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 56",
+    "explicacion": "La gravedad del riesgo se valora atendiendo a la severidad del dano y a la probabilidad de que llegue a producirse."
+  },
+  {
     "id": "t23-p001",
     "tema": 36,
     "pregunta": "Según el Tema 23, el fundamento constitucional y comunitario de la prevención de riesgos laborales se sitúa en:",
@@ -208,5 +264,19 @@
     "correcta": 0,
     "explicacion": "El tema los regula en los arts. 31 y 32 LPRL con esa función.",
     "referencia": "V.5 · 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)"
+  },
+  {
+    "id": "topup-36-01",
+    "pregunta": "La prevencion de riesgos laborales aplicada al puesto administrativo incluye medidas frente a riesgos:",
+    "opciones": [
+      "ergonomicos, visuales y psicosociales",
+      "solo maritimos",
+      "exclusivamente mineros",
+      "reservados a la policia judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "El trabajo administrativo tambien presenta riesgos propios que requieren prevencion.",
+    "referencia": "V.5 · Riesgos y medidas preventivas del puesto administrativo",
+    "tema": 36
   }
 ]

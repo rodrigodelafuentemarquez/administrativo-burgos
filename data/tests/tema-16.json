@@ -1,5 +1,75 @@
 [
   {
+    "id": "pdf-2023-burgos-q34",
+    "tema": 16,
+    "pregunta": "De conformidad con la Ley 9/2017, NO son contratos de suministro:",
+    "opciones": [
+      "Los que tengan por objeto la adquisicion de energia primaria",
+      "Los contratos de fabricacion",
+      "Los de adquisicion de equipos y sistemas de telecomunicaciones",
+      "Los contratos de adquisicion de programas de ordenador desarrollados a medida"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 34",
+    "explicacion": "Los programas de ordenador desarrollados a medida se excluyen del contrato de suministro."
+  },
+  {
+    "id": "pdf-2023-burgos-q35",
+    "tema": 16,
+    "pregunta": "De conformidad con la Ley 9/2017:",
+    "opciones": [
+      "No podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad inherente a los poderes publicos",
+      "Podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso del Pleno",
+      "Podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso de la Junta de Gobierno Local",
+      "No podran ser objeto de contrato de servicios los que impliquen ejercicio de autoridad salvo en materia tributaria"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 35",
+    "explicacion": "Los servicios que impliquen ejercicio de autoridad no pueden ser objeto de contrato de servicios."
+  },
+  {
+    "id": "pdf-2023-burgos-q36",
+    "tema": 16,
+    "pregunta": "En que procedimiento de adjudicacion solo podran presentar proposiciones aquellos empresarios que, a su solicitud y en atencion a su solvencia, sean seleccionados por el organo de contratacion?",
+    "opciones": [
+      "Procedimiento abierto",
+      "Procedimiento abierto simplificado",
+      "Procedimiento restringido",
+      "Procedimiento simplificadisimo"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 36",
+    "explicacion": "Esa configuracion corresponde al procedimiento restringido."
+  },
+  {
+    "id": "pdf-2025-burgos-q33",
+    "tema": 16,
+    "pregunta": "En los Ayuntamientos de los municipios de gran poblacion, segun la disposicion adicional segunda de la Ley 9/2017, las competencias como organo de contratacion se ejerceran por:",
+    "opciones": [
+      "El Pleno",
+      "La Junta de Gobierno Local",
+      "El Alcalde",
+      "Ninguna de las anteriores respuestas es correcta"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 33",
+    "explicacion": "En los municipios de gran poblacion, la competencia como organo de contratacion se atribuye a la Junta de Gobierno Local."
+  },
+  {
+    "id": "pdf-2025-burgos-q34",
+    "tema": 16,
+    "pregunta": "De conformidad con el articulo 44 de la Ley 9/2017, podran ser objeto de recurso especial en materia de contratacion:",
+    "opciones": [
+      "Los anuncios de licitacion",
+      "Los pliegos",
+      "Los acuerdos de adjudicacion",
+      "Todas las respuestas anteriores son correctas"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 34",
+    "explicacion": "Los anuncios de licitacion, los pliegos y los acuerdos de adjudicacion pueden ser objeto de recurso especial en los supuestos legales."
+  },
+  {
     "id": "t20-p001",
     "tema": 16,
     "pregunta": "La contratación administrativa consiste en relaciones jurídicas mediante las cuales las Administraciones Públicas adquieren:",

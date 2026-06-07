@@ -1,5 +1,19 @@
 [
   {
+    "id": "pdf-2025-burgos-q14",
+    "tema": 11,
+    "pregunta": "El articulo 40 de la Ley 39/2015 establece que toda notificacion debera ser cursada dentro del plazo de:",
+    "opciones": [
+      "Cinco dias",
+      "Siete dias",
+      "Diez dias a partir de la fecha en que el acto haya sido dictado",
+      "Un mes desde la resolucion"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 14",
+    "explicacion": "La notificacion debe cursarse en el plazo de diez dias desde que el acto ha sido dictado."
+  },
+  {
     "id": "t16-p001",
     "tema": 11,
     "pregunta": "Un acto administrativo es:",

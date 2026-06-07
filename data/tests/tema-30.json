@@ -68,5 +68,215 @@
     "correcta": 0,
     "explicacion": "El tema define al Tribunal de Cuentas como supremo organo fiscalizador externo del sector publico.",
     "referencia": "IV.4 · 7.4 El Tribunal de Cuentas"
+  },
+  {
+    "id": "topup-30-01",
+    "pregunta": "El control interno en la entidad local se ejerce con autonomia funcional por la:",
+    "opciones": [
+      "Intervencion",
+      "Junta de Gobierno Local",
+      "Asesoria Juridica",
+      "Mesa de negociacion"
+    ],
+    "correcta": 0,
+    "explicacion": "La Intervencion local ejerce el control interno con autonomia funcional.",
+    "referencia": "IV.4 · Control interno",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-02",
+    "pregunta": "La funcion interventora controla principalmente la:",
+    "opciones": [
+      "legalidad de actos con contenido economico-presupuestario",
+      "conveniencia politica general",
+      "actividad jurisdiccional",
+      "negociacion colectiva"
+    ],
+    "correcta": 0,
+    "explicacion": "La funcion interventora se centra en actos con incidencia economica.",
+    "referencia": "IV.4 · Funcion interventora",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-03",
+    "pregunta": "El control financiero se dirige a verificar, entre otros aspectos:",
+    "opciones": [
+      "cumplimiento normativo, eficacia y eficiencia",
+      "la sucesion al trono",
+      "la composicion del Senado",
+      "el numero de concejales de la oposicion"
+    ],
+    "correcta": 0,
+    "explicacion": "El control financiero mira mas alla del expediente aislado.",
+    "referencia": "IV.4 · Control financiero",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-04",
+    "pregunta": "Una auditoria publica local es una modalidad de:",
+    "opciones": [
+      "control financiero",
+      "potestad sancionadora",
+      "actividad de fomento",
+      "excedencia voluntaria"
+    ],
+    "correcta": 0,
+    "explicacion": "La auditoria publica se integra dentro del control financiero.",
+    "referencia": "IV.4 · Control interno",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-05",
+    "pregunta": "Si la Intervencion aprecia insuficiencia de credito puede formular:",
+    "opciones": [
+      "reparo",
+      "bando",
+      "acta de conciliacion",
+      "oferta de empleo publico"
+    ],
+    "correcta": 0,
+    "explicacion": "La insuficiencia de credito es un supuesto tipico de reparo.",
+    "referencia": "IV.4 · Funcion interventora",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-06",
+    "pregunta": "El reparo suspensivo impide continuar el expediente hasta:",
+    "opciones": [
+      "resolver la discrepancia o subsanar el defecto",
+      "que lo firme un proveedor",
+      "que lo publique un periodico",
+      "que termine el ejercicio"
+    ],
+    "correcta": 0,
+    "explicacion": "Los reparos suspensivos bloquean la tramitacion hasta su adecuada solucion.",
+    "referencia": "IV.4 · Funcion interventora",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-07",
+    "pregunta": "La omision de fiscalizacion previa obligatoria exige:",
+    "opciones": [
+      "tramitar un procedimiento especifico de regularizacion",
+      "pagar automaticamente",
+      "archivar sin mas",
+      "sustituir al interventor"
+    ],
+    "correcta": 0,
+    "explicacion": "La omision de fiscalizacion no puede ignorarse y debe regularizarse conforme a la normativa.",
+    "referencia": "IV.4 · Omision de fiscalizacion",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-08",
+    "pregunta": "La Cuenta General de la entidad local refleja, entre otros extremos:",
+    "opciones": [
+      "ejecucion presupuestaria y situacion patrimonial",
+      "resultado de las elecciones sindicales",
+      "orden del dia del Pleno",
+      "clasificacion del suelo"
+    ],
+    "correcta": 0,
+    "explicacion": "La Cuenta General resume la gestion economico-financiera de la entidad.",
+    "referencia": "IV.4 · Cuenta General",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-09",
+    "pregunta": "La Comision Especial de Cuentas interviene en la secuencia de la Cuenta General antes de su:",
+    "opciones": [
+      "aprobacion por el Pleno",
+      "envio al Senado",
+      "aprobacion por el Tribunal Supremo",
+      "publicacion en la sede judicial"
+    ],
+    "correcta": 0,
+    "explicacion": "La cuenta pasa por formacion, informe de la comision, exposicion publica y aprobacion plenaria.",
+    "referencia": "IV.4 · Cuenta General",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-10",
+    "pregunta": "El Tribunal de Cuentas es el supremo organo de control:",
+    "opciones": [
+      "externo del sector publico",
+      "interno de cada Ayuntamiento",
+      "disciplinario de funcionarios",
+      "negociacion colectiva"
+    ],
+    "correcta": 0,
+    "explicacion": "El Tribunal de Cuentas ejerce fiscalizacion externa y puede exigir responsabilidad contable.",
+    "referencia": "IV.4 · Control externo",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-11",
+    "pregunta": "El Consejo de Cuentas de Castilla y Leon fiscaliza:",
+    "opciones": [
+      "la gestion economico-financiera del sector publico de la Comunidad y entidades locales",
+      "solo delitos urbanisticos",
+      "la aprobacion de bandos municipales",
+      "las elecciones generales"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el organo autonómico de control externo en Castilla y Leon.",
+    "referencia": "IV.4 · Control externo",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-12",
+    "pregunta": "Las Cortes de Castilla y Leon, en relacion con el control externo, reciben:",
+    "opciones": [
+      "informes del Consejo de Cuentas",
+      "liquidaciones del IBI municipal para aprobacion individual",
+      "sentencias del Tribunal Supremo para ejecucion",
+      "nombramientos de interventores"
+    ],
+    "correcta": 0,
+    "explicacion": "Las Cortes ejercen el control politico en el ambito autonómico a partir de esos informes.",
+    "referencia": "IV.4 · Control externo",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-13",
+    "pregunta": "La responsabilidad contable puede surgir por menoscabo de fondos publicos causado con:",
+    "opciones": [
+      "dolo, culpa o negligencia grave",
+      "mera discrepancia doctrinal",
+      "simple error sin dano",
+      "motivos electorales"
+    ],
+    "correcta": 0,
+    "explicacion": "No todo error genera responsabilidad contable, pero si determinadas conductas graves.",
+    "referencia": "IV.4 · Responsabilidades",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-14",
+    "pregunta": "Controlar el gasto publico no significa poner trabas, sino asegurar:",
+    "opciones": [
+      "competencia, credito, procedimiento, justificacion y finalidad publica",
+      "solo rapidez en el pago",
+      "solamente la voluntad del organo gestor",
+      "que nunca haya informes"
+    ],
+    "correcta": 0,
+    "explicacion": "El control protege la legalidad y el buen uso de los fondos publicos.",
+    "referencia": "IV.4 · Control del gasto publico",
+    "tema": 30
+  },
+  {
+    "id": "topup-30-15",
+    "pregunta": "El control financiero permanente se desarrolla habitualmente conforme a un:",
+    "opciones": [
+      "plan anual de control",
+      "orden del dia sindical",
+      "reglamento organico del Senado",
+      "procedimiento de regencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El control financiero se organiza con planificacion y seguimiento de recomendaciones.",
+    "referencia": "IV.4 · Control financiero",
+    "tema": 30
   }
 ]

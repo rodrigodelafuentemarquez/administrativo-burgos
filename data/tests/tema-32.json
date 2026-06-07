@@ -1,5 +1,61 @@
 [
   {
+    "id": "pdf-2023-burgos-q42",
+    "tema": 32,
+    "pregunta": "De acuerdo con el articulo 51 de la Ley Organica para la igualdad efectiva de mujeres y hombres, cual de las siguientes NO es una obligacion de las Administraciones Publicas en aplicacion del principio de igualdad entre mujeres y hombres?",
+    "opciones": [
+      "Fomentar la formacion en igualdad tanto en el acceso al empleo publico como a lo largo de la carrera profesional",
+      "Promover la presencia equilibrada de mujeres y hombres en los organos de seleccion y valoracion",
+      "Facilitar la conciliacion de la vida personal, familiar y laboral mediante la reduccion de la promocion profesional",
+      "Remover los obstaculos que impliquen la pervivencia de cualquier tipo de discriminacion"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 42",
+    "explicacion": "La conciliacion no puede articularse a costa de reducir la promocion profesional."
+  },
+  {
+    "id": "pdf-2023-burgos-q43",
+    "tema": 32,
+    "pregunta": "Que articulo de la Constitucion Espanola establece que los espanoles son iguales ante la ley, sin que pueda haber discriminacion alguna, entre otras, por razon de sexo?",
+    "opciones": [
+      "Articulo 15",
+      "Articulo 14",
+      "Articulo 10",
+      "Articulo 27"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 43",
+    "explicacion": "La igualdad y prohibicion de discriminacion por razon de sexo se recoge en el articulo 14 CE."
+  },
+  {
+    "id": "pdf-2023-burgos-r05",
+    "tema": 32,
+    "pregunta": "Segun el articulo 1 de la Ley Organica para la igualdad efectiva de mujeres y hombres, se pretende la eliminacion de la discriminacion de la mujer en todos los ambitos y, singularmente, en las esferas:",
+    "opciones": [
+      "Politica, civil, laboral, economica, social y cultural",
+      "Politica, civil, cultural, familiar, social y de la tercera edad",
+      "Politica, civil, laboral, empresarial y social",
+      "Politica, civil, empresarial, economica, deportiva y familiar"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · reserva 5",
+    "explicacion": "La ley cita expresamente las esferas politica, civil, laboral, economica, social y cultural."
+  },
+  {
+    "id": "pdf-2025-burgos-q53",
+    "tema": 32,
+    "pregunta": "El articulo 1.1 de la Ley Organica 3/2007 dice textualmente que:",
+    "opciones": [
+      "Las personas son iguales en dignidad humana, e iguales en derechos y deberes",
+      "Las mujeres y los hombres son iguales en dignidad humana, e iguales en derechos y deberes",
+      "Las personas son iguales ante la ley, e iguales en derechos y deberes",
+      "Las mujeres y los hombres son iguales ante la ley, e iguales en derechos y deberes"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 53",
+    "explicacion": "La Ley Organica 3/2007 arranca afirmando la igualdad en dignidad humana y en derechos y deberes de mujeres y hombres."
+  },
+  {
     "id": "t48-p001",
     "tema": 32,
     "pregunta": "El fundamento constitucional de la igualdad entre mujeres y hombres incluye:",
@@ -166,5 +222,61 @@
     "correcta": 0,
     "explicacion": "El tema menciona expresamente esta medida en el ámbito del empleo público.",
     "referencia": "V.1 · 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
+  },
+  {
+    "id": "topup-32-01",
+    "pregunta": "La Ley Organica 3/2007 tiene por objeto principal:",
+    "opciones": [
+      "hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres",
+      "regular el presupuesto local",
+      "ordenar el suelo urbanizable",
+      "crear el IBI"
+    ],
+    "correcta": 0,
+    "explicacion": "La LO 3/2007 es la norma basica en igualdad efectiva entre mujeres y hombres.",
+    "referencia": "V.1 · Igualdad efectiva",
+    "tema": 32
+  },
+  {
+    "id": "topup-32-02",
+    "pregunta": "La Ley Organica 1/2004 se dirige especificamente a:",
+    "opciones": [
+      "la proteccion integral frente a la violencia de genero",
+      "la recaudacion tributaria local",
+      "la administracion electronica",
+      "la sucesion a la Corona"
+    ],
+    "correcta": 0,
+    "explicacion": "Su objeto es la respuesta integral frente a la violencia de genero.",
+    "referencia": "V.1 · Violencia de genero",
+    "tema": 32
+  },
+  {
+    "id": "topup-32-03",
+    "pregunta": "La Ley 4/2023 se orienta a garantizar la igualdad real y efectiva de las personas:",
+    "opciones": [
+      "trans y LGTBI",
+      "concejales no adscritos",
+      "proveedores municipales",
+      "diputados provinciales"
+    ],
+    "correcta": 0,
+    "explicacion": "La norma protege derechos y principios rectores en materia trans y LGTBI.",
+    "referencia": "V.1 · Igualdad real y efectiva de las personas trans y garantia de los derechos LGTBI",
+    "tema": 32
+  },
+  {
+    "id": "topup-32-04",
+    "pregunta": "En las politicas publicas de igualdad, el principio de no discriminacion implica:",
+    "opciones": [
+      "evitar tratos desfavorables por razon de sexo, identidad u orientacion protegida",
+      "reservar toda la funcion publica a un colectivo",
+      "suprimir el procedimiento administrativo",
+      "permitir represalias laborales"
+    ],
+    "correcta": 0,
+    "explicacion": "La igualdad material exige prevenir y corregir discriminaciones.",
+    "referencia": "V.1 · Objeto y principios rectores",
+    "tema": 32
   }
 ]

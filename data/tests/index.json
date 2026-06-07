@@ -2,7 +2,7 @@
   {
     "tema": 1,
     "archivo": "tema-01.json",
-    "preguntas": 17,
+    "preguntas": 20,
     "titulo": "Tema I.1 · La Constitucion Espanola (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantia y suspension."
   },
   {
@@ -14,13 +14,13 @@
   {
     "tema": 3,
     "archivo": "tema-03.json",
-    "preguntas": 16,
+    "preguntas": 20,
     "titulo": "Tema I.3 · La Constitucion Espanola (III): la organizacion territorial del Estado espanol. Las comunidades autonomas: estatutos de autonomia y proceso de constitucion. Distribucion de competencias entre el Estado y las comunidades autonomas."
   },
   {
     "tema": 4,
     "archivo": "tema-04.json",
-    "preguntas": 18,
+    "preguntas": 20,
     "titulo": "Tema I.4 · El Gobierno y la Administracion del Estado, la administracion publica en el Ordenamiento Juridico Espanol."
   },
   {
@@ -32,74 +32,98 @@
   {
     "tema": 6,
     "archivo": "tema-06.json",
-    "preguntas": 6,
+    "preguntas": 20,
     "titulo": "Tema I.6 · El municipio: concepto y elementos. El termino municipal. La poblacion: especial referencia al empadronamiento."
+  },
+  {
+    "tema": 7,
+    "archivo": "tema-07.json",
+    "preguntas": 20,
+    "titulo": "Tema I.7 · La organizacion politica y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaria General. La Intervencion General. El organo de Gestion Tributaria."
   },
   {
     "tema": 8,
     "archivo": "tema-08.json",
-    "preguntas": 27,
+    "preguntas": 30,
     "titulo": "Tema I.8 · La Union Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Union Europea, el Parlamento Europeo, la Comision Europea y el Tribunal de Justicia de la Union Europea."
   },
   {
     "tema": 9,
     "archivo": "tema-09.json",
-    "preguntas": 41,
+    "preguntas": 44,
     "titulo": "Tema I.9 · La Comunidad de Castilla y Leon. El Estatuto de Autonomia: estructura, derechos y principios rectores. Competencias de la Comunidad Autonoma de Castilla y Leon. Reforma del Estatuto."
   },
   {
     "tema": 10,
     "archivo": "tema-10.json",
-    "preguntas": 33,
+    "preguntas": 35,
     "titulo": "Tema II.1 · Las fuentes del derecho administrativo. La jerarquia de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y limites. Otras fuentes del derecho administrativo."
   },
   {
     "tema": 11,
     "archivo": "tema-11.json",
-    "preguntas": 21,
+    "preguntas": 22,
     "titulo": "Tema II.2 · El acto administrativo: concepto, clases y elementos. Su motivacion y notificacion. Eficacia y validez de los actos administrativos."
   },
   {
     "tema": 12,
     "archivo": "tema-12.json",
-    "preguntas": 21,
+    "preguntas": 27,
     "titulo": "Tema II.3 · El procedimiento administrativo comun: concepto, naturaleza y principios generales. Fases del procedimiento: iniciacion, ordenacion, instruccion y finalizacion. Ejecucion."
   },
   {
     "tema": 13,
     "archivo": "tema-13.json",
-    "preguntas": 37,
+    "preguntas": 40,
     "titulo": "Tema II.4 · La revision de los actos administrativos: revision de oficio. Recursos administrativos: alzada, reposicion y extraordinario de revision. La revocacion y la rectificacion de los actos administrativos. La jurisdiccion contencioso-administrativa: concepto y naturaleza."
   },
   {
     "tema": 14,
     "archivo": "tema-14.json",
-    "preguntas": 15,
+    "preguntas": 20,
     "titulo": "Tema II.5 · El regimen juridico del sector publico: principios de actuacion y funcionamiento. Los organos de las administraciones publicas: especial referencia a los organos colegiados. La atribucion de competencias a los organos administrativos: desconcentracion, delegacion, avocacion, encomienda de gestion, delegacion de firma y suplencia."
   },
   {
     "tema": 15,
     "archivo": "tema-15.json",
-    "preguntas": 17,
+    "preguntas": 20,
     "titulo": "Tema II.6 · La responsabilidad de la administracion publica: caracteres. Los presupuestos de la responsabilidad. Danos resarcibles. La accion de responsabilidad. Especialidades del procedimiento administrativo en materia de responsabilidad. La responsabilidad patrimonial de las autoridades y personal al servicio de las administraciones publicas."
   },
   {
     "tema": 16,
     "archivo": "tema-16.json",
-    "preguntas": 41,
+    "preguntas": 46,
     "titulo": "Tema II.7 · Los contratos del sector publico: tipologia contractual. Las partes en el contrato. El expediente de contratacion. Procedimientos de adjudicacion. Efectos, cumplimiento y extincion de los contratos de las administraciones publicas. La revision de precios y otras alteraciones contractuales. Regimen de invalidez y recursos."
+  },
+  {
+    "tema": 17,
+    "archivo": "tema-17.json",
+    "preguntas": 20,
+    "titulo": "Tema II.8 · La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local."
   },
   {
     "tema": 18,
     "archivo": "tema-18.json",
-    "preguntas": 15,
+    "preguntas": 20,
     "titulo": "Tema II.9 · Los bienes de las entidades locales: concepto, clases. Bienes de dominio publico local. Bienes patrimoniales locales, enajenacion, cesion y utilizacion."
+  },
+  {
+    "tema": 19,
+    "archivo": "tema-19.json",
+    "preguntas": 20,
+    "titulo": "Tema II.10 · Las formas de actividad administrativa. El servicio publico. Concepto. Evolucion y crisis. Las formas de gestion de los servicios publicos. La remunicipalizacion de los servicios publicos. La iniciativa economica publica y los servicios publicos."
   },
   {
     "tema": 20,
     "archivo": "tema-20.json",
-    "preguntas": 15,
+    "preguntas": 20,
     "titulo": "Tema II.11 · Funcionamiento de los organos colegiados locales. Convocatorias y orden del dia. Requisitos para su constitucion. Votaciones."
+  },
+  {
+    "tema": 21,
+    "archivo": "tema-21.json",
+    "preguntas": 20,
+    "titulo": "Tema II.12 · Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboracion y aprobacion. Los bandos."
   },
   {
     "tema": 22,
@@ -110,49 +134,61 @@
   {
     "tema": 23,
     "archivo": "tema-23.json",
-    "preguntas": 6,
+    "preguntas": 20,
     "titulo": "Tema III.2 · Adquisicion y perdida de la condicion de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas."
   },
   {
     "tema": 24,
     "archivo": "tema-24.json",
-    "preguntas": 15,
+    "preguntas": 20,
     "titulo": "Tema III.3 · El personal laboral al servicio de las administraciones publicas. Seleccion. Derechos, deberes e incompatibilidades."
   },
   {
     "tema": 25,
     "archivo": "tema-25.json",
-    "preguntas": 6,
+    "preguntas": 20,
     "titulo": "Tema III.4 · El derecho de sindicacion y de huelga. Regimen de incompatibilidades."
   },
   {
     "tema": 26,
     "archivo": "tema-26.json",
-    "preguntas": 16,
+    "preguntas": 20,
     "titulo": "Tema III.5 · El texto refundido de la Ley General de la Seguridad Social: disposiciones generales sobre el campo de aplicacion y estructura del sistema de la Seguridad Social. Accion protectora: disposiciones generales."
+  },
+  {
+    "tema": 27,
+    "archivo": "tema-27.json",
+    "preguntas": 20,
+    "titulo": "Tema IV.1 · Los tributos locales: principios. La potestad reglamentaria de las entidades locales en materia tributaria: contenido de las ordenanzas fiscales, tramitacion y regimen de impugnacion de los actos de imposicion y ordenacion de tributos."
   },
   {
     "tema": 28,
     "archivo": "tema-28.json",
-    "preguntas": 14,
+    "preguntas": 20,
     "titulo": "Tema IV.2 · El presupuesto: concepto. Los principios presupuestarios. Los creditos presupuestarios: clasificacion. Gastos plurianuales. Las modificaciones presupuestarias: creditos extraordinarios y suplementos de credito. Ampliaciones de credito. Generaciones de credito. Transferencias de credito. Incorporaciones de credito. Anticipos de Tesoreria."
   },
   {
     "tema": 29,
     "archivo": "tema-29.json",
-    "preguntas": 11,
+    "preguntas": 20,
     "titulo": "Tema IV.3 · El procedimiento administrativo de ejecucion del presupuesto de gasto. Organos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenacion del pago: concepto y competencia."
   },
   {
     "tema": 30,
     "archivo": "tema-30.json",
-    "preguntas": 5,
+    "preguntas": 20,
     "titulo": "Tema IV.4 · El control del gasto publico. El control interno: la funcion interventora y el control financiero. El control externo realizado por el Tribunal de Cuentas, el Consejo de Cuentas de Castilla y Leon y las Cortes de Castilla y Leon."
+  },
+  {
+    "tema": 31,
+    "archivo": "tema-31.json",
+    "preguntas": 20,
+    "titulo": "Tema IV.5 · Regimen urbanistico de la propiedad del suelo. Principios. Clasificacion y calificacion del suelo. Competencia urbanistica municipal. Intervencion administrativa en la edificacion y uso del suelo. La licencia urbanistica. Proteccion de la legalidad urbanistica. Infracciones y sanciones urbanisticas."
   },
   {
     "tema": 32,
     "archivo": "tema-32.json",
-    "preguntas": 12,
+    "preguntas": 20,
     "titulo": "Tema V.1 · La Ley Organica 3/2007, de 22 de marzo, para la Igualdad Efectiva entre Mujeres y Hombres. Ley Organica 1/2004, de 28 de diciembre, de Medidas de Proteccion Integral contra la Violencia de Genero. Ley 4/2023, de 28 de febrero, para la Igualdad Real y Efectiva de las Personas Trans y para la Garantia de los Derechos de las Personas LGTBI. Objeto y principios rectores."
   },
   {
@@ -170,31 +206,31 @@
   {
     "tema": 35,
     "archivo": "tema-35.json",
-    "preguntas": 11,
+    "preguntas": 20,
     "titulo": "Tema V.4 · Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organizacion y funcionamiento. Funciones."
   },
   {
     "tema": 36,
     "archivo": "tema-36.json",
-    "preguntas": 15,
+    "preguntas": 20,
     "titulo": "Tema V.5 · La Ley 31/1995, de 8 de noviembre, de Prevencion de Riesgos Laborales: objeto y ambito de aplicacion. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempenar."
   },
   {
     "tema": 37,
     "archivo": "tema-37.json",
-    "preguntas": 10,
+    "preguntas": 20,
     "titulo": "Tema V.6 · La proteccion de datos personales y su regimen juridico: principios, derechos, responsable y encargado del tratamiento, delegado y autoridades de proteccion de datos. Derechos digitales."
   },
   {
     "tema": 38,
     "archivo": "tema-38.json",
-    "preguntas": 20,
+    "preguntas": 24,
     "titulo": "Tema V.7 · Las nuevas tecnologias en la gestion de las administraciones publicas. La Administracion electronica. El funcionamiento electronico del sector publico."
   },
   {
     "tema": 39,
     "archivo": "tema-39.json",
-    "preguntas": 32,
+    "preguntas": 33,
     "titulo": "Tema V.8 · El concepto de documento. Formacion del expediente. El expediente electronico. El archivo de los documentos administrativos. Clases de archivos y criterios de ordenacion. Archivo electronico de documentos. El acceso a los documentos administrativos: sus limitaciones y formas de acceso."
   },
   {

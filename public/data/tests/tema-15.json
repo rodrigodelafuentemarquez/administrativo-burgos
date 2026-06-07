@@ -236,5 +236,47 @@
     "correcta": 1,
     "explicacion": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
     "referencia": "II.6 · 5.2 Instruccion"
+  },
+  {
+    "id": "topup-15-01",
+    "pregunta": "La responsabilidad patrimonial de la Administracion tiene caracter:",
+    "opciones": [
+      "objetivo y directo",
+      "penal y subsidiario",
+      "electoral y automatico",
+      "graciable y eventual"
+    ],
+    "correcta": 0,
+    "explicacion": "La responsabilidad patrimonial responde a danos antijuridicos causados por el funcionamiento de los servicios publicos.",
+    "referencia": "II.6 · Caracteres de la responsabilidad administrativa",
+    "tema": 15
+  },
+  {
+    "id": "topup-15-02",
+    "pregunta": "Para que exista responsabilidad patrimonial, el dano debe ser, entre otras notas:",
+    "opciones": [
+      "efectivo, evaluable economicamente e individualizado",
+      "solo moral y simbolico",
+      "siempre colectivo",
+      "puramente hipotetico"
+    ],
+    "correcta": 0,
+    "explicacion": "La lesion indemnizable exige efectividad, evaluacion economica e individualizacion.",
+    "referencia": "II.6 · Presupuestos de la responsabilidad",
+    "tema": 15
+  },
+  {
+    "id": "topup-15-03",
+    "pregunta": "La accion de regreso permite a la Administracion reclamar al empleado publico cuando haya actuado con:",
+    "opciones": [
+      "dolo, culpa o negligencia grave",
+      "simple error material inocuo",
+      "discrepancia politica",
+      "mera opinion juridica"
+    ],
+    "correcta": 0,
+    "explicacion": "La accion de regreso exige una conducta especialmente grave del personal responsable.",
+    "referencia": "II.6 · Responsabilidad de autoridades y personal",
+    "tema": 15
   }
 ]

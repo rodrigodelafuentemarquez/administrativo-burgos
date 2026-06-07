@@ -1,5 +1,47 @@
 [
   {
+    "id": "pdf-2025-burgos-q47",
+    "tema": 35,
+    "pregunta": "El servicio 010 de atencion ciudadana realizara los siguientes servicios. Indique cual NO es correcto:",
+    "opciones": [
+      "Dar informacion municipal y de la ciudad de Burgos agil y verazmente",
+      "Canalizar avisos o incidencias, reclamaciones y sugerencias",
+      "Realizacion de diversos tramites municipales",
+      "Expedicion de copias selladas de los documentos originales que aporten los interesados"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 47",
+    "explicacion": "La expedicion de copias selladas no forma parte del servicio 010 de atencion ciudadana."
+  },
+  {
+    "id": "pdf-2025-burgos-q49-reg",
+    "tema": 35,
+    "pregunta": "Cuando se entiende presentado un documento en un registro, si se realizo la presentacion en un dia inhabil?",
+    "opciones": [
+      "A la primera hora habil del primer dia habil siguiente",
+      "A la primera hora del primer dia habil siguiente",
+      "En el dia inhabil de su presentacion",
+      "No se pueden presentar documentos en un dia inhabil"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 49",
+    "explicacion": "La presentacion en dia inhabil se entiende realizada en la primera hora habil del primer dia habil siguiente, salvo norma especial."
+  },
+  {
+    "id": "pdf-2025-burgos-q58",
+    "tema": 35,
+    "pregunta": "Cual de los siguientes es un documento de un particular dirigido a la Administracion?",
+    "opciones": [
+      "Solicitud",
+      "Informe",
+      "Traslado",
+      "Certificacion"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 58",
+    "explicacion": "La solicitud es el documento tipico del particular dirigido a la Administracion."
+  },
+  {
     "id": "t31-p001",
     "tema": 35,
     "pregunta": "El registro es el instrumento administrativo mediante el cual las Administraciones dejan constancia fehaciente de:",
@@ -152,5 +194,89 @@
     "correcta": 0,
     "explicacion": "El tema lo define así.",
     "referencia": "V.4 · 6. El principio de ventanilla única"
+  },
+  {
+    "id": "topup-35-01",
+    "pregunta": "Las oficinas de asistencia en materia de registros no son solo ventanillas porque tambien realizan funciones de:",
+    "opciones": [
+      "identificacion, firma, digitalizacion y copias autenticas",
+      "fiscalizacion externa",
+      "nombramiento de concejales",
+      "tramitacion de leyes organicas"
+    ],
+    "correcta": 0,
+    "explicacion": "La oficina moderna de asistencia combina registro con apoyo integral al ciudadano.",
+    "referencia": "V.4 · Funciones",
+    "tema": 35
+  },
+  {
+    "id": "topup-35-02",
+    "pregunta": "Si una persona fisica no obligada a relacionarse electronicamente carece de medios, la oficina puede prestarle asistencia mediante:",
+    "opciones": [
+      "funcionario habilitado en los supuestos legales",
+      "simple entrega del expediente a un tercero",
+      "eliminacion del tramite de firma",
+      "sustitucion del interesado por el alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley permite asistencia mediante funcionario habilitado con consentimiento.",
+    "referencia": "V.4 · Asistencia electronica",
+    "tema": 35
+  },
+  {
+    "id": "topup-35-03",
+    "pregunta": "Una copia autentica se diferencia de una copia simple porque:",
+    "opciones": [
+      "tiene validez formal equivalente al original en los supuestos legales",
+      "carece de cualquier efecto",
+      "solo sirve para uso privado",
+      "no requiere actuacion administrativa alguna"
+    ],
+    "correcta": 0,
+    "explicacion": "La copia autentica exige actuacion habilitada y garantias de correspondencia.",
+    "referencia": "V.4 · Digitalizacion y copias",
+    "tema": 35
+  },
+  {
+    "id": "topup-35-04",
+    "pregunta": "El asiento registral debe reflejar, entre otros datos, la fecha y hora de entrada porque afecta al:",
+    "opciones": [
+      "computo de plazos",
+      "numero de concejales del Pleno",
+      "sistema de Seguridad Social",
+      "clasificacion del suelo"
+    ],
+    "correcta": 0,
+    "explicacion": "La precision registral protege derechos y tiempos procedimentales.",
+    "referencia": "V.4 · Funcionamiento",
+    "tema": 35
+  },
+  {
+    "id": "topup-35-05",
+    "pregunta": "La comprobacion de la representacion es especialmente importante cuando el interesado pretende:",
+    "opciones": [
+      "interponer un recurso o renunciar a derechos en nombre de otra persona",
+      "pedir informacion general anonima",
+      "consultar el horario de una oficina",
+      "leer un bando ya publicado"
+    ],
+    "correcta": 0,
+    "explicacion": "No toda actuacion admite la misma flexibilidad en materia de representacion.",
+    "referencia": "V.4 · Representacion y apoderamientos",
+    "tema": 35
+  },
+  {
+    "id": "topup-35-06",
+    "pregunta": "Un error en la digitalizacion de documentos en la oficina de asistencia puede provocar:",
+    "opciones": [
+      "que el expediente electronico incorpore un documento incompleto o defectuoso",
+      "la aprobacion automatica de la solicitud",
+      "la anulacion del presupuesto",
+      "la perdida de la condicion de funcionario"
+    ],
+    "correcta": 0,
+    "explicacion": "La calidad de la digitalizacion es esencial para la validez y utilidad del expediente electronico.",
+    "referencia": "V.4 · Digitalizacion y copias",
+    "tema": 35
   }
 ]

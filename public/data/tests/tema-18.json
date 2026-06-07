@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema limita la cesión a esos destinatarios.",
     "referencia": "II.9 · 6.5 Cesión gratuita"
+  },
+  {
+    "id": "topup-18-01",
+    "pregunta": "Los bienes patrimoniales de las entidades locales son aquellos que:",
+    "opciones": [
+      "no estan afectados a uso o servicio publico",
+      "siempre son comunales",
+      "nunca pueden enajenarse",
+      "se destinan exclusivamente a parques y calles"
+    ],
+    "correcta": 0,
+    "explicacion": "Los bienes patrimoniales carecen de la afectacion propia del dominio publico.",
+    "referencia": "II.9 · Bienes patrimoniales locales",
+    "tema": 18
+  },
+  {
+    "id": "topup-18-02",
+    "pregunta": "La afectacion supone:",
+    "opciones": [
+      "atribuir un bien a un uso o servicio publico",
+      "vender un inmueble municipal",
+      "inscribir un vehiculo en el padron",
+      "delegar competencias en una mancomunidad"
+    ],
+    "correcta": 0,
+    "explicacion": "La afectacion incorpora un bien al dominio publico por su destino.",
+    "referencia": "II.9 · Afectacion y desafectacion",
+    "tema": 18
+  },
+  {
+    "id": "topup-18-03",
+    "pregunta": "La desafectacion implica:",
+    "opciones": [
+      "que el bien deja de estar destinado a uso o servicio publico",
+      "la cesion gratuita de todos los bienes municipales",
+      "la aprobacion del presupuesto",
+      "la extincion del termino municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "La desafectacion permite pasar del dominio publico a la categoria patrimonial.",
+    "referencia": "II.9 · Afectacion y desafectacion",
+    "tema": 18
+  },
+  {
+    "id": "topup-18-04",
+    "pregunta": "El inventario de bienes de la entidad local sirve para:",
+    "opciones": [
+      "identificar y controlar su patrimonio",
+      "aprobar sanciones urbanisticas",
+      "nombrar funcionarios interinos",
+      "tramitar recursos contenciosos"
+    ],
+    "correcta": 0,
+    "explicacion": "El inventario es un instrumento basico de conocimiento y gestion patrimonial.",
+    "referencia": "II.9 · Inventario de bienes",
+    "tema": 18
+  },
+  {
+    "id": "topup-18-05",
+    "pregunta": "Los bienes de dominio publico se caracterizan, entre otras notas, por ser:",
+    "opciones": [
+      "inalienables, imprescriptibles e inembargables",
+      "libremente permutables sin expediente",
+      "susceptibles de embargo ordinario",
+      "siempre cedibles a titulo oneroso"
+    ],
+    "correcta": 0,
+    "explicacion": "Son las notas clasicas del dominio publico local.",
+    "referencia": "II.9 · Bienes de dominio publico",
+    "tema": 18
   }
 ]

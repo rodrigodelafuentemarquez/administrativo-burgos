@@ -1,5 +1,19 @@
 [
   {
+    "id": "pdf-2023-burgos-q48-doc",
+    "tema": 39,
+    "pregunta": "Segun la Ley 40/2015, los documentos electronicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberan conservarse en:",
+    "opciones": [
+      "El Archivo General de la Administracion",
+      "Soportes de naturaleza electronica",
+      "Cualquier formato o soporte que asegure la identidad e integridad de la informacion necesaria para reproducirlo",
+      "Siempre en formato papel"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 48",
+    "explicacion": "Los documentos electronicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electronico."
+  },
+  {
     "id": "t32-p001",
     "tema": 39,
     "pregunta": "Un documento es:",

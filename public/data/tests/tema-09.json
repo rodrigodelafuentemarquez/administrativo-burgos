@@ -1,5 +1,47 @@
 [
   {
+    "id": "pdf-2023-burgos-q11",
+    "tema": 9,
+    "pregunta": "Que Ley aprobo el Estatuto de Autonomia de Castilla y Leon?",
+    "opciones": [
+      "Ley Organica 4/1985, de 25 de febrero",
+      "Ley Organica 4/1983, de 25 de febrero",
+      "Ley Organica 5/1985, de 25 de febrero",
+      "Ley Organica 5/1983, de 25 de febrero"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 11",
+    "explicacion": "El Estatuto de Autonomia de Castilla y Leon fue aprobado por la Ley Organica 4/1983."
+  },
+  {
+    "id": "pdf-2025-burgos-q07",
+    "tema": 9,
+    "pregunta": "Para reformar el vigente Estatuto de Autonomia de Castilla y Leon, el procedimiento requerira en todo caso la aprobacion de las Cortes de Castilla y Leon por:",
+    "opciones": [
+      "Mayoria absoluta y posterior aprobacion por las Cortes Generales de mayoria simple",
+      "Mayoria absoluta y posterior aprobacion de las Cortes Generales mediante Ley Organica",
+      "Mayoria de dos tercios y posterior aprobacion del Congreso mediante Ley Organica",
+      "Mayoria de dos tercios y posterior aprobacion de las Cortes Generales mediante Ley Organica"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 7",
+    "explicacion": "La reforma estatutaria exige mayoria de dos tercios en las Cortes de Castilla y Leon y aprobacion estatal mediante ley organica."
+  },
+  {
+    "id": "pdf-2025-burgos-q08",
+    "tema": 9,
+    "pregunta": "Las instituciones basicas de la Comunidad de Castilla y Leon, segun su Estatuto de Autonomia, son:",
+    "opciones": [
+      "Las Cortes y la Junta de Castilla y Leon",
+      "La Junta de Castilla y Leon y el Presidente",
+      "Las Cortes, el Presidente de la Junta de Castilla y Leon y el Procurador del Comun",
+      "Las Cortes, el Presidente y la Junta de Castilla y Leon"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 8",
+    "explicacion": "Las instituciones basicas son las Cortes, el Presidente y la Junta de Castilla y Leon."
+  },
+  {
     "id": "t08-p001",
     "tema": 9,
     "pregunta": "El texto vigente del Estatuto de Autonomía de Castilla y León es el aprobado por:",

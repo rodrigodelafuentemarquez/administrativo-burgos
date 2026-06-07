@@ -1,5 +1,89 @@
 [
   {
+    "id": "pdf-2023-burgos-q27",
+    "tema": 12,
+    "pregunta": "La Ley 39/2015 indica que, cuando las normas reguladoras de los procedimientos no fijen el plazo maximo para resolver, este sera de:",
+    "opciones": [
+      "Un mes",
+      "Dos meses",
+      "Tres meses",
+      "Seis meses"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 27",
+    "explicacion": "Si no existe plazo maximo especifico, el plazo general para resolver es de tres meses."
+  },
+  {
+    "id": "pdf-2023-burgos-q29",
+    "tema": 12,
+    "pregunta": "Segun el articulo 54 de la Ley 39/2015, los procedimientos administrativos podran iniciarse:",
+    "opciones": [
+      "Solo a traves del registro general o del registro electronico",
+      "Por el interesado, aunque sea menor de edad, en cualquier caso",
+      "De oficio o a solicitud del interesado",
+      "En cualquier momento y sin tener que aportar datos personales"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 29",
+    "explicacion": "La iniciacion del procedimiento puede producirse de oficio o a solicitud del interesado."
+  },
+  {
+    "id": "pdf-2023-burgos-q30",
+    "tema": 12,
+    "pregunta": "Segun el articulo 84 de la Ley 39/2015, pondran fin al procedimiento administrativo:",
+    "opciones": [
+      "La resolucion, el desistimiento, la renuncia cuando proceda y la declaracion de caducidad",
+      "La resolucion y la denuncia",
+      "Las respuestas a) y b)",
+      "Ninguna es correcta"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 30",
+    "explicacion": "La Ley 39/2015 enumera la resolucion y otras formas tasadas de terminacion, entre ellas desistimiento, renuncia y caducidad."
+  },
+  {
+    "id": "pdf-2025-burgos-q16",
+    "tema": 12,
+    "pregunta": "En que articulo de la Ley 39/2015 se recoge que los tramites que deban ser cumplimentados por los interesados deberan realizarse en el plazo de diez dias desde la notificacion del correspondiente acto?",
+    "opciones": [
+      "Articulo 71",
+      "Articulo 72",
+      "Articulo 73",
+      "Articulo 74"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 16",
+    "explicacion": "El articulo 73 LPAC regula el cumplimiento de tramites por los interesados."
+  },
+  {
+    "id": "pdf-2025-burgos-q17",
+    "tema": 12,
+    "pregunta": "En relacion con el articulo 80 de la Ley 39/2015, cual de las siguientes afirmaciones referidas a la emision de informes es falsa?",
+    "opciones": [
+      "Salvo disposicion expresa en contrario, los informes seran facultativos y no vinculantes",
+      "Si no se emiten en plazo, podran proseguirse las actuaciones salvo cuando se trate de un informe preceptivo",
+      "Si el informe debe ser emitido por otra Administracion y no llega en plazo, no podran proseguirse las actuaciones hasta que lo emita o se sustituya por uno propio",
+      "Los informes se emitiran preferentemente por medios electronicos en el plazo de diez dias, salvo disposicion especifica"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 17",
+    "explicacion": "La falta de informe de otra Administracion no paraliza siempre las actuaciones de forma absoluta; la opcion c formula incorrectamente ese efecto."
+  },
+  {
+    "id": "pdf-2025-burgos-q18",
+    "tema": 12,
+    "pregunta": "Segun la Ley 39/2015, la ejecucion forzosa por las Administraciones Publicas podra efectuarse por diversos medios. Indica la respuesta incorrecta:",
+    "opciones": [
+      "Apremio sobre el patrimonio",
+      "Ejecucion subsidiaria",
+      "Multa progresiva",
+      "Compulsion sobre las personas"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 18",
+    "explicacion": "La Ley 39/2015 habla de multa coercitiva, no de multa progresiva."
+  },
+  {
     "id": "t15-p001",
     "tema": 12,
     "pregunta": "La LPACAP regula:",

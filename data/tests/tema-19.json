@@ -1,0 +1,282 @@
+[
+  {
+    "id": "topup-19-01",
+    "pregunta": "La actividad administrativa de policia o limitacion se manifiesta mediante:",
+    "opciones": [
+      "licencias, inspecciones y ordenes",
+      "subvenciones y premios exclusivamente",
+      "sentencias judiciales",
+      "elecciones sindicales"
+    ],
+    "correcta": 0,
+    "explicacion": "La actividad de limitacion ordena y controla conductas privadas.",
+    "referencia": "II.10 · Formas de actividad administrativa",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-02",
+    "pregunta": "La actividad de fomento busca:",
+    "opciones": [
+      "impulsar conductas de interes publico mediante ayudas o incentivos",
+      "imponer sanciones penales",
+      "sustituir al planeamiento urbanistico",
+      "aprobar presupuestos municipales"
+    ],
+    "correcta": 0,
+    "explicacion": "El fomento utiliza subvenciones, ayudas, premios o beneficios.",
+    "referencia": "II.10 · Formas de actividad administrativa",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-03",
+    "pregunta": "La actividad de servicio publico se orienta a:",
+    "opciones": [
+      "satisfacer necesidades de interes general de forma regular y organizada",
+      "crear tributos estatales",
+      "resolver recursos de casacion",
+      "aprobar reglamentos parlamentarios"
+    ],
+    "correcta": 0,
+    "explicacion": "El servicio publico atiende prestaciones de interes general bajo responsabilidad administrativa.",
+    "referencia": "II.10 · Servicio publico",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-04",
+    "pregunta": "La actividad economica publica implica:",
+    "opciones": [
+      "intervencion en el mercado o gestion de actividades empresariales publicas",
+      "funcion jurisdiccional",
+      "aprobacion de mociones de censura",
+      "solo inspeccion sanitaria"
+    ],
+    "correcta": 0,
+    "explicacion": "La Administracion puede desarrollar iniciativa economica en supuestos legales.",
+    "referencia": "II.10 · Actividad economica",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-05",
+    "pregunta": "Un ejemplo claro de actividad de fomento municipal es:",
+    "opciones": [
+      "una subvencion deportiva",
+      "una providencia de apremio",
+      "una sentencia contenciosa",
+      "la regencia de la Corona"
+    ],
+    "correcta": 0,
+    "explicacion": "Las subvenciones son un instrumento tipico de fomento.",
+    "referencia": "II.10 · Formas de actividad administrativa",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-06",
+    "pregunta": "Una piscina municipal abierta al publico se encuadra principalmente como:",
+    "opciones": [
+      "servicio publico",
+      "acto legislativo",
+      "pena administrativa",
+      "expediente disciplinario"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una prestacion organizada para atender intereses generales.",
+    "referencia": "II.10 · Servicio publico",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-07",
+    "pregunta": "Entre las notas clasicas del servicio publico figura la:",
+    "opciones": [
+      "continuidad",
+      "reserva judicial",
+      "inmunidad parlamentaria",
+      "intangibilidad del presupuesto"
+    ],
+    "correcta": 0,
+    "explicacion": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos tipicos.",
+    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-08",
+    "pregunta": "La regularidad del servicio publico significa que debe prestarse:",
+    "opciones": [
+      "conforme a reglas y condiciones preestablecidas",
+      "solo cuando lo pida la mayoria absoluta del Pleno",
+      "sin control alguno",
+      "unicamente por empresas privadas"
+    ],
+    "correcta": 0,
+    "explicacion": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas.",
+    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-09",
+    "pregunta": "La igualdad en el acceso al servicio publico implica:",
+    "opciones": [
+      "trato equivalente a usuarios en situacion equivalente",
+      "gratuidad obligatoria en todos los casos",
+      "supresion de cualquier tasa o precio publico",
+      "reserva exclusiva a funcionarios"
+    ],
+    "correcta": 0,
+    "explicacion": "La igualdad prohíbe discriminaciones injustificadas.",
+    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-10",
+    "pregunta": "La adaptabilidad del servicio publico supone que:",
+    "opciones": [
+      "puede modificarse para responder a nuevas necesidades publicas",
+      "queda congelado para siempre en su forma inicial",
+      "solo puede variar por referendum",
+      "impide toda digitalizacion"
+    ],
+    "correcta": 0,
+    "explicacion": "Los servicios deben ajustarse a la evolucion de las necesidades colectivas.",
+    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-11",
+    "pregunta": "En la gestion directa de un servicio publico:",
+    "opciones": [
+      "el Ayuntamiento lo presta con medios propios",
+      "siempre existe concesionario privado",
+      "desaparece toda responsabilidad municipal",
+      "no puede haber personal funcionario"
+    ],
+    "correcta": 0,
+    "explicacion": "La gestion directa utiliza medios municipales o entes instrumentales publicos.",
+    "referencia": "II.10 · Formas de gestion",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-12",
+    "pregunta": "La concesion de servicios se caracteriza porque:",
+    "opciones": [
+      "el contratista asume la explotacion bajo riesgo operacional",
+      "el Pleno renuncia a toda potestad de control",
+      "la licencia urbanistica sustituye al contrato",
+      "no existe interes general"
+    ],
+    "correcta": 0,
+    "explicacion": "En la concesion el contratista explota el servicio bajo control administrativo.",
+    "referencia": "II.10 · Formas de gestion",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-13",
+    "pregunta": "La sociedad mercantil local es una forma de gestion:",
+    "opciones": [
+      "empresarial bajo control publico",
+      "jurisdiccional",
+      "electoral",
+      "regencial"
+    ],
+    "correcta": 0,
+    "explicacion": "La sociedad mercantil local integra una formula instrumental de gestion.",
+    "referencia": "II.10 · Formas de gestion",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-14",
+    "pregunta": "La eleccion de la forma de gestion de un servicio debe justificarse por criterios de:",
+    "opciones": [
+      "eficacia, sostenibilidad, coste y calidad",
+      "afinidad politica exclusiva",
+      "azar",
+      "preferencia personal del contratista"
+    ],
+    "correcta": 0,
+    "explicacion": "La eleccion no es arbitraria: requiere motivacion en interes publico.",
+    "referencia": "II.10 · Formas de gestion",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-15",
+    "pregunta": "La remunicipalizacion consiste en:",
+    "opciones": [
+      "recuperar para gestion publica un servicio antes gestionado indirectamente",
+      "crear una nueva provincia",
+      "disolver el Pleno municipal",
+      "privatizar obligatoriamente el servicio"
+    ],
+    "correcta": 0,
+    "explicacion": "La remunicipalizacion supone volver a la gestion publica directa o instrumental.",
+    "referencia": "II.10 · Remunicipalizacion",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-16",
+    "pregunta": "La remunicipalizacion debe respetar, entre otras cuestiones:",
+    "opciones": [
+      "contratos vigentes, personal y sostenibilidad financiera",
+      "solo el criterio del concejal delegado",
+      "la inexistencia de memoria",
+      "la supresion de cualquier control interno"
+    ],
+    "correcta": 0,
+    "explicacion": "La recuperacion del servicio exige procedimiento y analisis juridico-economico.",
+    "referencia": "II.10 · Remunicipalizacion",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-17",
+    "pregunta": "La iniciativa economica publica local exige especial prudencia porque debe valorar:",
+    "opciones": [
+      "interes publico, mercado y sostenibilidad financiera",
+      "solo el numero de concejales",
+      "exclusivamente el color politico del gobierno",
+      "la firma del delegado sindical"
+    ],
+    "correcta": 0,
+    "explicacion": "La actividad economica publica local requiere memoria justificativa y control.",
+    "referencia": "II.10 · Iniciativa economica publica",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-18",
+    "pregunta": "Aunque un servicio se gestione indirectamente, el Ayuntamiento conserva:",
+    "opciones": [
+      "responsabilidad y potestades de direccion y control",
+      "ninguna obligacion frente a la ciudadania",
+      "solo funciones notariales",
+      "competencia judicial penal"
+    ],
+    "correcta": 0,
+    "explicacion": "La responsabilidad publica no desaparece por externalizar la gestion.",
+    "referencia": "II.10 · Gestion y control del servicio",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-19",
+    "pregunta": "Un riesgo de baja calidad en la gestion del servicio puede afrontarse mediante:",
+    "opciones": [
+      "indicadores, inspecciones y penalidades",
+      "desaparicion del control municipal",
+      "supresion de toda documentacion",
+      "nombramiento de un regente"
+    ],
+    "correcta": 0,
+    "explicacion": "La Administracion debe vigilar calidad y cumplimiento del servicio.",
+    "referencia": "II.10 · Gestion y control del servicio",
+    "tema": 19
+  },
+  {
+    "id": "topup-19-20",
+    "pregunta": "En la practica municipal, un mismo servicio puede combinar actividad de servicio publico, control e incluso:",
+    "opciones": [
+      "fomento o actividad economica",
+      "sucesion a la Corona",
+      "enjuiciamiento criminal",
+      "investidura parlamentaria"
+    ],
+    "correcta": 0,
+    "explicacion": "Las formas de actividad administrativa no son compartimentos estancos.",
+    "referencia": "II.10 · Formas de actividad administrativa",
+    "tema": 19
+  }
+]

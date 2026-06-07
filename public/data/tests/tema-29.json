@@ -152,5 +152,131 @@
     "correcta": 0,
     "explicacion": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
     "referencia": "IV.3 · 3.1 Elaboracion y aprobacion"
+  },
+  {
+    "id": "topup-29-01",
+    "pregunta": "La fase A del gasto corresponde a la:",
+    "opciones": [
+      "autorizacion del gasto",
+      "ordenacion del pago",
+      "fiscalizacion externa",
+      "aprobacion definitiva del presupuesto"
+    ],
+    "correcta": 0,
+    "explicacion": "La fase A autoriza la realizacion del gasto.",
+    "referencia": "IV.3 · Fases del procedimiento de gasto",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-02",
+    "pregunta": "La fase D del gasto significa:",
+    "opciones": [
+      "disposicion o compromiso del gasto",
+      "devolucion de ingresos indebidos",
+      "desafectacion de bienes",
+      "diligencia de archivo"
+    ],
+    "correcta": 0,
+    "explicacion": "La fase D compromete el gasto frente a un tercero.",
+    "referencia": "IV.3 · Fases del procedimiento de gasto",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-03",
+    "pregunta": "La fase O del procedimiento de gasto se refiere al:",
+    "opciones": [
+      "reconocimiento de la obligacion",
+      "otorgamiento de licencia urbanistica",
+      "orden del dia del Pleno",
+      "registro padronal"
+    ],
+    "correcta": 0,
+    "explicacion": "La obligacion se reconoce cuando la prestacion se acredita correctamente.",
+    "referencia": "IV.3 · Fases del procedimiento de gasto",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-04",
+    "pregunta": "La ordenacion del pago consiste en:",
+    "opciones": [
+      "expedir la orden para hacer efectivo el pago",
+      "aprobar el presupuesto inicial",
+      "crear el credito presupuestario",
+      "sustituir la funcion interventora"
+    ],
+    "correcta": 0,
+    "explicacion": "Ordenar el pago es una fase distinta del reconocimiento de la obligacion.",
+    "referencia": "IV.3 · Ordenacion del pago",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-05",
+    "pregunta": "Un documento contable ADO acumula:",
+    "opciones": [
+      "autorizacion, disposicion y reconocimiento de la obligacion",
+      "aprobacion del presupuesto y ordenacion del pago",
+      "auditoria, devolucion y ordenanza",
+      "afectacion, deslinde y ocupacion"
+    ],
+    "correcta": 0,
+    "explicacion": "El documento ADO permite acumular varias fases del gasto en ciertos supuestos.",
+    "referencia": "IV.3 · Documentos contables",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-06",
+    "pregunta": "Los compromisos de gasto para ejercicios posteriores deben respetar:",
+    "opciones": [
+      "los limites legales aplicables a los gastos plurianuales",
+      "solo la voluntad del concejal delegado",
+      "la ausencia de expediente",
+      "la decision del proveedor"
+    ],
+    "correcta": 0,
+    "explicacion": "No pueden asumirse libremente al margen de los limites normativos.",
+    "referencia": "IV.3 · Compromisos para ejercicios posteriores",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-07",
+    "pregunta": "Los anticipos de caja fija se usan principalmente para:",
+    "opciones": [
+      "gastos pequenos y repetitivos",
+      "crear credito extraordinario",
+      "aprobar ordenanzas",
+      "tramitar mociones de censura"
+    ],
+    "correcta": 0,
+    "explicacion": "Son un mecanismo agil para atender gastos periodicos de escasa cuantia.",
+    "referencia": "IV.3 · Procedimiento de gasto",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-08",
+    "pregunta": "El organo competente para ordenar el pago se determina por:",
+    "opciones": [
+      "la normativa presupuestaria y la organizacion de la entidad local",
+      "la ley electoral",
+      "el Estatuto de Autonomia",
+      "la voluntad del proveedor"
+    ],
+    "correcta": 0,
+    "explicacion": "La ordenacion del pago responde a reglas competenciales especificas.",
+    "referencia": "IV.3 · Organos competentes",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-09",
+    "pregunta": "Antes del reconocimiento de la obligacion debe constar normalmente:",
+    "opciones": [
+      "la acreditacion de que la prestacion se ha realizado",
+      "solo la firma del interesado",
+      "la publicacion en el BOE",
+      "un bando del alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "No puede reconocerse la obligacion sin soporte justificativo adecuado.",
+    "referencia": "IV.3 · Fases del procedimiento de gasto",
+    "tema": 29
   }
 ]

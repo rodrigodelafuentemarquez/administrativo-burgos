@@ -82,5 +82,201 @@
     "correcta": 2,
     "explicacion": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
     "referencia": "I.6 · 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
+  },
+  {
+    "id": "topup-06-01",
+    "pregunta": "Los elementos esenciales del municipio son:",
+    "opciones": [
+      "territorio, poblacion y organizacion",
+      "territorio, Senado y Gobierno",
+      "provincia, comarca y diputacion",
+      "vecindad, nacionalidad y Parlamento"
+    ],
+    "correcta": 0,
+    "explicacion": "El municipio se estructura sobre termino municipal, poblacion y organizacion.",
+    "referencia": "I.6 · Concepto y elementos del municipio",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-02",
+    "pregunta": "El termino municipal es:",
+    "opciones": [
+      "el territorio en que el Ayuntamiento ejerce sus competencias",
+      "la relacion nominal de concejales",
+      "el conjunto de tributos locales",
+      "el reglamento organico del Ayuntamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El termino municipal delimita el ambito territorial de actuacion del Ayuntamiento.",
+    "referencia": "I.6 · Termino municipal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-03",
+    "pregunta": "Cada municipio pertenece:",
+    "opciones": [
+      "a una sola provincia",
+      "a dos provincias si lo acuerda el Pleno",
+      "a una comunidad de propietarios",
+      "a la Junta de Gobierno Local"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla general es que cada municipio se integra en una sola provincia.",
+    "referencia": "I.6 · Termino municipal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-04",
+    "pregunta": "La condicion de vecino del municipio se adquiere:",
+    "opciones": [
+      "cuando se inscribe en el padron municipal",
+      "al pagar el IBI",
+      "al cumplir 18 anos",
+      "al votar en elecciones generales"
+    ],
+    "correcta": 0,
+    "explicacion": "La inscripcion padronal atribuye la condicion de vecino.",
+    "referencia": "I.6 · Poblacion y vecindad",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-06",
+    "pregunta": "Los datos padronales prueban:",
+    "opciones": [
+      "la residencia y el domicilio habitual",
+      "la titularidad de una vivienda",
+      "la situacion laboral",
+      "la nacionalidad espanola"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley atribuye a los datos padronales valor probatorio de residencia y domicilio habitual.",
+    "referencia": "I.6 · Padron municipal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-07",
+    "pregunta": "Quien resida en varios municipios debe empadronarse en aquel donde:",
+    "opciones": [
+      "viva mas tiempo al ano",
+      "tenga mas familiares",
+      "pague menos impuestos",
+      "quiera el alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "La residencia habitual se fija en el municipio donde se vive mas tiempo.",
+    "referencia": "I.6 · Regla de inscripcion padronal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-08",
+    "pregunta": "La formacion y custodia del padron corresponde principalmente a:",
+    "opciones": [
+      "el Ayuntamiento",
+      "el Senado",
+      "la comunidad de vecinos",
+      "la Diputacion Permanente"
+    ],
+    "correcta": 0,
+    "explicacion": "La gestion padronal es una competencia municipal, con coordinacion del INE.",
+    "referencia": "I.6 · Gestion del padron",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-09",
+    "pregunta": "El INE, respecto del padron municipal, desarrolla funciones de:",
+    "opciones": [
+      "coordinacion",
+      "recaudacion ejecutiva",
+      "control disciplinario",
+      "aprobacion de ordenanzas"
+    ],
+    "correcta": 0,
+    "explicacion": "El Instituto Nacional de Estadistica coordina los padrones municipales.",
+    "referencia": "I.6 · Coordinacion padronal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-10",
+    "pregunta": "La alteracion de terminos municipales puede producirse, entre otros supuestos, por:",
+    "opciones": [
+      "fusion o segregacion",
+      "mocion de censura",
+      "recurso de alzada",
+      "decreto-ley municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "La legislacion local contempla fusion, incorporacion, segregacion y modificacion de limites.",
+    "referencia": "I.6 · Alteraciones del termino municipal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-11",
+    "pregunta": "La creacion de un nuevo municipio exige, entre otros requisitos:",
+    "opciones": [
+      "recursos suficientes para prestar servicios obligatorios",
+      "autorizacion del Congreso por ley organica en todo caso",
+      "la unanimidad de todos los vecinos de la provincia",
+      "que sea capital de comunidad autonoma"
+    ],
+    "correcta": 0,
+    "explicacion": "La viabilidad del nuevo municipio exige recursos suficientes y justificacion de interes publico.",
+    "referencia": "I.6 · Creacion de municipios",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-12",
+    "pregunta": "El certificado de empadronamiento tiene como funcion principal:",
+    "opciones": [
+      "acreditar formalmente residencia o domicilio",
+      "aprobar la inscripcion de oficio en el censo electoral",
+      "habilitar para el pago de tasas",
+      "sustituir al DNI"
+    ],
+    "correcta": 0,
+    "explicacion": "El certificado sirve como acreditacion formal de la residencia o domicilio padronal.",
+    "referencia": "I.6 · Certificados y volantes de empadronamiento",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-13",
+    "pregunta": "El volante de empadronamiento se utiliza normalmente para:",
+    "opciones": [
+      "informacion o acreditacion simple de datos padronales",
+      "declarar la ruina urbanistica",
+      "interponer recursos contenciosos",
+      "nombrar tenientes de alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "El volante tiene una funcion informativa o de acreditacion simple.",
+    "referencia": "I.6 · Certificados y volantes de empadronamiento",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-14",
+    "pregunta": "La inscripcion padronal de personas extranjeras:",
+    "opciones": [
+      "no prueba por si sola la residencia legal en Espana",
+      "equivale siempre a una autorizacion de residencia",
+      "solo es posible para ciudadanos de la UE",
+      "requiere sentencia judicial previa"
+    ],
+    "correcta": 0,
+    "explicacion": "El empadronamiento acredita residencia habitual a efectos administrativos, no regulariza por si mismo la situacion de extranjeria.",
+    "referencia": "I.6 · Padron y personas extranjeras",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-15",
+    "pregunta": "La organizacion municipal constituye uno de los elementos del municipio junto con:",
+    "opciones": [
+      "territorio y poblacion",
+      "Parlamento y Senado",
+      "comarcas y cabildos",
+      "tratados y reglamentos europeos"
+    ],
+    "correcta": 0,
+    "explicacion": "Los tres elementos clasicos del municipio son territorio, poblacion y organizacion.",
+    "referencia": "I.6 · Elementos del municipio",
+    "tema": 6
   }
 ]

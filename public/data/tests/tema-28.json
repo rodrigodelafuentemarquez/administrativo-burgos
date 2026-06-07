@@ -1,5 +1,19 @@
 [
   {
+    "id": "pdf-2025-burgos-q42",
+    "tema": 28,
+    "pregunta": "Aprobado inicialmente el presupuesto general de la entidad local, de conformidad con el articulo 169 del texto refundido de la Ley Reguladora de las Haciendas Locales:",
+    "opciones": [
+      "Se expondra al publico, previo anuncio en el boletin oficial correspondiente, por quince dias",
+      "Se expondra al publico en el tablon de anuncios y en las Secretarias Generales por plazo de un mes",
+      "La aprobacion inicial del presupuesto no necesita publicacion",
+      "Los interesados podran presentar reclamaciones que el Pleno debera resolver en veinte dias desde su presentacion"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 42",
+    "explicacion": "La aprobacion inicial del presupuesto local se somete a exposicion publica por quince dias."
+  },
+  {
     "id": "t30-p012",
     "tema": 28,
     "pregunta": "El Presupuesto de las Entidades Locales es:",
@@ -194,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema presenta los anticipos de tesoreria como un instrumento excepcional para gastos urgentes.",
     "referencia": "IV.2 · 6.7 Anticipos de tesorería"
+  },
+  {
+    "id": "topup-28-01",
+    "pregunta": "El principio presupuestario de unidad exige que:",
+    "opciones": [
+      "el presupuesto se presente como un documento sistematico e integrado",
+      "solo exista un capitulo de gastos",
+      "no se publiquen modificaciones de credito",
+      "cada servicio apruebe su propio presupuesto independiente"
+    ],
+    "correcta": 0,
+    "explicacion": "La unidad presupuestaria ordena la vision global e integrada del presupuesto.",
+    "referencia": "IV.2 · Principios presupuestarios",
+    "tema": 28
+  },
+  {
+    "id": "topup-28-02",
+    "pregunta": "Los creditos extraordinarios se utilizan cuando:",
+    "opciones": [
+      "debe realizarse un gasto especifico que no puede demorarse y no existe credito",
+      "el credito existente es suficiente pero insuficientemente ejecutado",
+      "solo hay que mover credito entre aplicaciones vinculadas",
+      "se quiere aprobar un bando"
+    ],
+    "correcta": 0,
+    "explicacion": "El credito extraordinario cubre gastos inaplazables para los que no existe credito.",
+    "referencia": "IV.2 · Modificaciones presupuestarias",
+    "tema": 28
+  },
+  {
+    "id": "topup-28-03",
+    "pregunta": "Los suplementos de credito proceden cuando:",
+    "opciones": [
+      "el credito existente es insuficiente y el gasto no puede demorarse",
+      "no existe ninguna aplicacion presupuestaria previa",
+      "se quiere crear una ordenanza fiscal",
+      "no hay presupuesto aprobado"
+    ],
+    "correcta": 0,
+    "explicacion": "El suplemento refuerza una aplicacion ya existente pero insuficiente.",
+    "referencia": "IV.2 · Modificaciones presupuestarias",
+    "tema": 28
+  },
+  {
+    "id": "topup-28-04",
+    "pregunta": "Los gastos plurianuales comprometen creditos de:",
+    "opciones": [
+      "ejercicios futuros dentro de los limites legales",
+      "solo el ejercicio corriente",
+      "unicamente el ultimo trimestre",
+      "solo ejercicios ya cerrados"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley permite compromisos que alcanzan a ejercicios posteriores con limites.",
+    "referencia": "IV.2 · Gastos plurianuales",
+    "tema": 28
+  },
+  {
+    "id": "topup-28-05",
+    "pregunta": "La incorporacion de creditos consiste en:",
+    "opciones": [
+      "trasladar a un ejercicio posterior determinados remanentes de credito",
+      "anular siempre el credito sobrante",
+      "crear un impuesto nuevo",
+      "ordenar el pago sin fase previa"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una modalidad de modificacion presupuestaria prevista legalmente.",
+    "referencia": "IV.2 · Incorporaciones de credito",
+    "tema": 28
   }
 ]

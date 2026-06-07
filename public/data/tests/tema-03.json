@@ -1,5 +1,33 @@
 [
   {
+    "id": "pdf-2023-burgos-q10",
+    "tema": 3,
+    "pregunta": "Como se organiza territorialmente el Estado, segun el articulo 137 de la Constitucion Espanola?",
+    "opciones": [
+      "En municipios, en provincias y en las Comunidades Autonomas que se constituyan",
+      "En municipios, mancomunidades, provincias, territorios insulares y Comunidades Autonomas",
+      "En entidades locales y autonomicas",
+      "En municipios, provincias, territorios insulares y en las Comunidades Autonomas que se constituyan"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 10",
+    "explicacion": "El articulo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autonomas que se constituyan."
+  },
+  {
+    "id": "pdf-2025-burgos-q09",
+    "tema": 3,
+    "pregunta": "Cualquier alteracion de los limites de una provincia debera ser aprobada por:",
+    "opciones": [
+      "Ley Organica de las Cortes Generales",
+      "Ley Ordinaria de las Cortes Generales",
+      "Decreto Ley del Gobierno",
+      "Acuerdo entre las Cortes Generales y la Comunidad Autonoma afectada"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 9",
+    "explicacion": "La alteracion de los limites provinciales requiere ley organica conforme al articulo 141 CE."
+  },
+  {
     "id": "t07-p001",
     "tema": 3,
     "pregunta": "Según el art. 137 CE, el Estado se organiza territorialmente en:",
@@ -222,5 +250,33 @@
     "correcta": 2,
     "explicacion": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
     "referencia": "I.3 · 2.4 Organizacion institucional de las CC.AA. (art. 152 CE)"
+  },
+  {
+    "id": "topup-03-01",
+    "pregunta": "La iniciativa del proceso autonomico por la via del articulo 143 CE corresponde, entre otros, a:",
+    "opciones": [
+      "las Diputaciones interesadas y a las dos terceras partes de los municipios afectados",
+      "solo al Gobierno de la Nacion",
+      "exclusivamente al Senado",
+      "a cualquier Ayuntamiento por mayoria simple"
+    ],
+    "correcta": 0,
+    "explicacion": "La via ordinaria del art. 143 CE exige iniciativa provincial o insular y una mayoria reforzada de municipios.",
+    "referencia": "I.3 · Proceso de constitucion de las comunidades autonomas",
+    "tema": 3
+  },
+  {
+    "id": "topup-03-02",
+    "pregunta": "Las materias que el Estado puede asumir en exclusiva se enumeran de forma principal en el:",
+    "opciones": [
+      "articulo 137 CE",
+      "articulo 148 CE",
+      "articulo 149 CE",
+      "articulo 150 CE"
+    ],
+    "correcta": 2,
+    "explicacion": "El art. 149 CE recoge la lista principal de competencias exclusivas estatales.",
+    "referencia": "I.3 · Distribucion de competencias",
+    "tema": 3
   }
 ]

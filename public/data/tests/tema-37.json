@@ -1,5 +1,47 @@
 [
   {
+    "id": "pdf-2023-burgos-q49-lopd",
+    "tema": 37,
+    "pregunta": "Segun la Ley Organica de Proteccion de Datos Personales y garantia de los derechos digitales, a partir de que edad el tratamiento de los datos personales de un menor podra fundarse unicamente en su consentimiento?",
+    "opciones": [
+      "Cuando sea mayor de 14 anos",
+      "Cuando sea mayor de 18 anos",
+      "Cuando sea mayor de 16 anos",
+      "Cuando sea mayor de 12 anos"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 49",
+    "explicacion": "La LOPDGDD fija en 14 anos la edad a partir de la cual el menor puede consentir por si mismo el tratamiento de sus datos."
+  },
+  {
+    "id": "pdf-2025-burgos-q52",
+    "tema": 37,
+    "pregunta": "Cual es el objeto de la Ley Organica 3/2018, de Proteccion de Datos Personales y garantia de los derechos digitales?",
+    "opciones": [
+      "Adaptar el ordenamiento juridico espanol al Reglamento (UE) 2016/679",
+      "Garantizar los derechos electronicos de la ciudadania al mandato del articulo 22.4 CE",
+      "Exigir a las autoridades de proteccion de datos una maxima eficiencia en materia de seguridad",
+      "Todas son correctas"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 52",
+    "explicacion": "La Ley Organica 3/2018 adapta el ordenamiento espanol al RGPD y completa su desarrollo interno."
+  },
+  {
+    "id": "pdf-2025-burgos-r06",
+    "tema": 37,
+    "pregunta": "El empleador podra acceder a los contenidos derivados del uso de medios digitales facilitados a los trabajadores?:",
+    "opciones": [
+      "Si, en cualquier caso",
+      "Si, para el control de la productividad del trabajador",
+      "No, porque el trabajador tiene derecho a la proteccion de la intimidad en el uso de dispositivos digitales",
+      "Si, solo a los efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de dichos dispositivos"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · reserva 6",
+    "explicacion": "El acceso empresarial a esos contenidos esta limitado a fines de control laboral y garantia de integridad de los dispositivos, con respeto a la intimidad."
+  },
+  {
     "id": "t21-p012",
     "tema": 37,
     "pregunta": "Según el art. 15 LTBG, cuando la información solicitada contiene datos personales especialmente protegidos, el indica que el acceso solo se permite:",
@@ -138,5 +180,103 @@
     "correcta": 0,
     "explicacion": "El RAT no tiene que publicarse, pero sí debe poder exhibirse ante la autoridad de control cuando lo requiera.",
     "referencia": "V.6 · 9.2 El Registro de Actividades de Tratamiento (RAT)"
+  },
+  {
+    "id": "topup-37-01",
+    "pregunta": "Un principio basico de proteccion de datos es la minimizacion, que exige tratar:",
+    "opciones": [
+      "solo los datos adecuados, pertinentes y limitados a lo necesario",
+      "todos los datos posibles por si acaso",
+      "unicamente datos anonimos siempre",
+      "datos sin base juridica"
+    ],
+    "correcta": 0,
+    "explicacion": "La minimizacion limita el tratamiento a lo necesario para la finalidad.",
+    "referencia": "V.6 · Principios del tratamiento",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-02",
+    "pregunta": "El responsable del tratamiento es quien:",
+    "opciones": [
+      "determina los fines y medios del tratamiento",
+      "ejecuta materialmente siempre la politica del Gobierno",
+      "representa al sindicato mayoritario",
+      "fiscaliza externamente las cuentas"
+    ],
+    "correcta": 0,
+    "explicacion": "Responsable es quien decide sobre para que y como se tratan los datos.",
+    "referencia": "V.6 · Responsable del tratamiento",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-03",
+    "pregunta": "El encargado del tratamiento trata datos personales:",
+    "opciones": [
+      "por cuenta del responsable",
+      "siempre por cuenta propia",
+      "solo cuando es autoridad judicial",
+      "sin necesidad de instrucciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El encargado actua siguiendo las instrucciones del responsable.",
+    "referencia": "V.6 · Encargado del tratamiento",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-04",
+    "pregunta": "El delegado de proteccion de datos desempena funciones de:",
+    "opciones": [
+      "asesoramiento, supervision y cooperacion con la autoridad de control",
+      "recaudacion ejecutiva",
+      "aprobacion de bandos",
+      "investidura del presidente"
+    ],
+    "correcta": 0,
+    "explicacion": "El DPD es una figura de garantia y enlace en materia de proteccion de datos.",
+    "referencia": "V.6 · Delegado de proteccion de datos",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-05",
+    "pregunta": "Entre los derechos del interesado en proteccion de datos figura el derecho de:",
+    "opciones": [
+      "supresion",
+      "mocion de censura",
+      "huelga general",
+      "aprovechamiento especial del dominio publico"
+    ],
+    "correcta": 0,
+    "explicacion": "Los derechos clasicos incluyen acceso, rectificacion, supresion, oposicion y otros.",
+    "referencia": "V.6 · Derechos de las personas interesadas",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-06",
+    "pregunta": "Los derechos digitales incluidos en la LOPDGDD abarcan, entre otros, la proteccion de la intimidad en el uso de:",
+    "opciones": [
+      "dispositivos digitales en el ambito laboral",
+      "diputaciones provinciales",
+      "padrones fiscales",
+      "presupuestos prorrogados"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley reconoce tambien derechos digitales junto al regimen general de datos.",
+    "referencia": "V.6 · Derechos digitales",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-07",
+    "pregunta": "La autoridad de control en materia de proteccion de datos en el ambito estatal es la:",
+    "opciones": [
+      "Agencia Espanola de Proteccion de Datos",
+      "Intervencion General del Estado",
+      "Fiscalia General del Estado",
+      "Oficina del Censo Electoral"
+    ],
+    "correcta": 0,
+    "explicacion": "La AEPD es la autoridad estatal de control en proteccion de datos.",
+    "referencia": "V.6 · Autoridades de proteccion de datos",
+    "tema": 37
   }
 ]

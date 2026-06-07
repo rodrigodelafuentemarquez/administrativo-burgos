@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema recoge esa obligación ética.",
     "referencia": "III.3 · 4.2 Deberes de los empleados públicos laborales según el TREBEP"
+  },
+  {
+    "id": "topup-24-01",
+    "pregunta": "En la seleccion del personal laboral al servicio de las Administraciones publicas deben respetarse, entre otros, los principios de:",
+    "opciones": [
+      "igualdad, merito, capacidad y publicidad",
+      "confianza politica y discrecionalidad plena",
+      "antiguedad y afinidad personal",
+      "gratuidad y unanimidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El acceso del personal laboral publico tambien se somete a principios constitucionales y legales.",
+    "referencia": "III.3 · Seleccion de personal laboral",
+    "tema": 24
+  },
+  {
+    "id": "topup-24-02",
+    "pregunta": "El personal laboral al servicio de la Administracion se vincula mediante:",
+    "opciones": [
+      "contrato de trabajo",
+      "acto de regencia",
+      "ley organica",
+      "providencia de apremio"
+    ],
+    "correcta": 0,
+    "explicacion": "Su relacion es contractual, a diferencia del personal funcionario.",
+    "referencia": "III.3 · Personal laboral",
+    "tema": 24
+  },
+  {
+    "id": "topup-24-03",
+    "pregunta": "Las incompatibilidades del personal laboral publico se rigen, ademas del Estatuto de los Trabajadores, por:",
+    "opciones": [
+      "la normativa de incompatibilidades del sector publico",
+      "solo el Codigo Civil",
+      "exclusivamente la ley electoral",
+      "ninguna norma especifica"
+    ],
+    "correcta": 0,
+    "explicacion": "El personal laboral publico tambien esta sujeto a reglas de incompatibilidad y conflictos de interes.",
+    "referencia": "III.3 · Incompatibilidades",
+    "tema": 24
+  },
+  {
+    "id": "topup-24-04",
+    "pregunta": "Entre los deberes del personal laboral al servicio de las Administraciones publicas se incluye:",
+    "opciones": [
+      "cumplir diligentemente las obligaciones del puesto",
+      "aprobar ordenanzas municipales",
+      "dictar sentencias",
+      "fiscalizar el presupuesto en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "Los deberes laborales se complementan con los derivados del servicio publico.",
+    "referencia": "III.3 · Derechos y deberes",
+    "tema": 24
+  },
+  {
+    "id": "topup-24-05",
+    "pregunta": "El personal laboral no puede ejercer funciones que impliquen:",
+    "opciones": [
+      "participacion en potestades publicas reservadas a funcionarios",
+      "uso de herramientas ofimaticas",
+      "atencion al publico",
+      "archivo de expedientes"
+    ],
+    "correcta": 0,
+    "explicacion": "Las funciones reservadas a funcionarios no pueden atribuirse libremente al personal laboral.",
+    "referencia": "III.3 · Regimen juridico del personal laboral",
+    "tema": 24
   }
 ]

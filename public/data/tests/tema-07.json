@@ -1,0 +1,282 @@
+[
+  {
+    "id": "pdf-2023-burgos-q21",
+    "tema": 7,
+    "pregunta": "El Titulo X de la Ley 7/1985 regula los municipios de gran poblacion. Burgos es un municipio de gran poblacion?",
+    "opciones": [
+      "Si",
+      "No",
+      "Esta en tramite",
+      "No hay ningun municipio de gran poblacion en Castilla y Leon"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 21",
+    "explicacion": "Burgos tiene la condicion de municipio de gran poblacion."
+  },
+  {
+    "id": "pdf-2023-burgos-q22",
+    "tema": 7,
+    "pregunta": "Quien realiza el control financiero en el Ayuntamiento de Burgos?",
+    "opciones": [
+      "La Asesoria Juridica",
+      "La Intervencion General",
+      "Las Comisiones informativas",
+      "El Organo de Gestion Tributaria"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 22",
+    "explicacion": "El control financiero en el Ayuntamiento corresponde a la Intervencion General."
+  },
+  {
+    "id": "pdf-2023-burgos-q23",
+    "tema": 7,
+    "pregunta": "Quien ostenta la funcion de fe publica en el Ayuntamiento de Burgos?",
+    "opciones": [
+      "La Asesoria Juridica",
+      "El Tribunal economico-administrativo",
+      "La Secretaria General",
+      "La Junta de Gobierno"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 23",
+    "explicacion": "La funcion de fe publica se vincula a la Secretaria General."
+  },
+  {
+    "id": "pdf-2025-burgos-q26",
+    "tema": 7,
+    "pregunta": "Segun el articulo 7.1 del Reglamento Organico y de Funcionamiento del Ayuntamiento de Burgos, se consideran concejales no adscritos:",
+    "opciones": [
+      "Aquellos que no se han integrado en el grupo municipal que constituya la formacion politica por la que fueron elegidos",
+      "Aquellos que fueron elegidos por formaciones politicas que no han alcanzado el minimo de concejales para poder constituir un grupo municipal",
+      "Aquellos que abandonen o sean expulsados de su grupo municipal y mantengan la condicion de concejal",
+      "A y C son correctas"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 26",
+    "explicacion": "El reglamento considera no adscritos tanto a quienes no se integran en su grupo originario como a quienes lo abandonan o son expulsados."
+  },
+  {
+    "id": "pdf-2025-burgos-q29",
+    "tema": 7,
+    "pregunta": "De acuerdo con el articulo 3.1 del Reglamento del Tribunal Economico-Administrativo Municipal de Burgos:",
+    "opciones": [
+      "El Tribunal estara formado exclusivamente por un presidente, un vocal y un vocal-secretario",
+      "El Tribunal estara formado por un presidente, un vocal en representacion de la parte reclamante, un vocal en representacion de la Hacienda municipal y un vocal-secretario",
+      "El Tribunal estara formado, como minimo, por un presidente, un vocal y un vocal-secretario",
+      "El Tribunal estara formado por un presidente, dos vocales y un secretario, este ultimo con voz pero sin voto"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 29",
+    "explicacion": "El reglamento municipal fija una composicion minima de presidente, vocal y vocal-secretario."
+  },
+  {
+    "id": "pdf-2025-burgos-q44",
+    "tema": 7,
+    "pregunta": "Para la defensa de los derechos de los vecinos ante el Ayuntamiento de Burgos, por ser municipio de gran poblacion, el Pleno creara una Comision especial denominada:",
+    "opciones": [
+      "Comision especial de cuentas",
+      "Comision especial de sugerencias y reclamaciones",
+      "Comision especial de quejas",
+      "Comision especial de coordinacion"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 44",
+    "explicacion": "En los municipios de gran poblacion existe la Comision especial de sugerencias y reclamaciones."
+  },
+  {
+    "id": "topup-07-01",
+    "pregunta": "En Burgos, el Pleno es principalmente el organo de:",
+    "opciones": [
+      "debate, control y aprobacion de grandes decisiones",
+      "gestion diaria de cobros y pagos",
+      "inspeccion de obras privadas exclusivamente",
+      "recaudacion ejecutiva de multas"
+    ],
+    "correcta": 0,
+    "explicacion": "En municipios de gran poblacion el Pleno mantiene una funcion central de control politico y aprobacion normativa.",
+    "referencia": "I.7 · El Pleno",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-02",
+    "pregunta": "La aprobacion de ordenanzas y reglamentos municipales corresponde tipicamente al:",
+    "opciones": [
+      "Pleno",
+      "teniente de alcalde de mayor edad",
+      "Interventor General",
+      "Organo de Gestion Tributaria"
+    ],
+    "correcta": 0,
+    "explicacion": "La funcion normativa local se reserva con caracter general al Pleno.",
+    "referencia": "I.7 · Competencias del Pleno",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-03",
+    "pregunta": "El alcalde de Burgos ostenta la maxima representacion del:",
+    "opciones": [
+      "municipio",
+      "Consejo de Cuentas",
+      "Tribunal Supremo",
+      "Consejo Europeo"
+    ],
+    "correcta": 0,
+    "explicacion": "El alcalde es presidente de la corporacion y maxima representacion municipal.",
+    "referencia": "I.7 · El alcalde",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-04",
+    "pregunta": "Los tenientes de alcalde son nombrados por el alcalde entre:",
+    "opciones": [
+      "los miembros de la Junta de Gobierno Local",
+      "los funcionarios habilitados nacionales",
+      "los vecinos empadronados",
+      "los interventores accidentales"
+    ],
+    "correcta": 0,
+    "explicacion": "La designacion de tenientes de alcalde se efectua entre miembros de la Junta de Gobierno Local.",
+    "referencia": "I.7 · Tenientes de alcalde",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-05",
+    "pregunta": "La funcion minima necesaria de los tenientes de alcalde es:",
+    "opciones": [
+      "sustituir al alcalde por orden de nombramiento",
+      "presidir siempre el Pleno ordinario",
+      "aprobar definitivamente el presupuesto",
+      "resolver reclamaciones economico-administrativas"
+    ],
+    "correcta": 0,
+    "explicacion": "Su funcion esencial es la sustitucion del alcalde en casos legalmente previstos.",
+    "referencia": "I.7 · Tenientes de alcalde",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-06",
+    "pregunta": "La Junta de Gobierno Local en un municipio de gran poblacion tiene un peso especialmente:",
+    "opciones": [
+      "ejecutivo y administrativo",
+      "meramente ceremonial",
+      "judicial",
+      "electoral"
+    ],
+    "correcta": 0,
+    "explicacion": "En gran poblacion la Junta de Gobierno Local asume un papel ejecutivo muy intenso.",
+    "referencia": "I.7 · Junta de Gobierno Local",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-07",
+    "pregunta": "Las sesiones de la Junta de Gobierno Local tienen el mismo caracter publico que las del Pleno?",
+    "opciones": [
+      "No",
+      "Si, siempre",
+      "Solo en agosto",
+      "Solo si lo autoriza el Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "No tienen el mismo regimen de publicidad que las sesiones plenarias.",
+    "referencia": "I.7 · Junta de Gobierno Local",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-08",
+    "pregunta": "La Secretaria General garantiza principalmente la fe publica y el:",
+    "opciones": [
+      "asesoramiento legal preceptivo",
+      "control financiero permanente",
+      "cobro en via ejecutiva",
+      "planeamiento urbanistico"
+    ],
+    "correcta": 0,
+    "explicacion": "La funcion secretarial reservada combina fe publica y asesoramiento legal.",
+    "referencia": "I.7 · Secretaria General",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-09",
+    "pregunta": "Entre las funciones tipicas de la Secretaria General se encuentra:",
+    "opciones": [
+      "certificar acuerdos y custodiar actas",
+      "aprobar el padrón fiscal del IBI",
+      "emitir licencias urbanisticas en todo caso",
+      "dirigir la tesoreria municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "La fe publica incluye actas, certificaciones y regularidad formal de sesiones y acuerdos.",
+    "referencia": "I.7 · Secretaria General",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-10",
+    "pregunta": "La Intervencion General ejerce el control interno de la gestion:",
+    "opciones": [
+      "economico-financiera y presupuestaria",
+      "electoral y parlamentaria",
+      "jurisdiccional penal",
+      "sindical"
+    ],
+    "correcta": 0,
+    "explicacion": "La intervencion local controla legalidad economica y presupuestaria.",
+    "referencia": "I.7 · Intervencion General",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-11",
+    "pregunta": "La tecnica de control que verifica legalidad de actos con contenido economico antes de producir efectos es la:",
+    "opciones": [
+      "funcion interventora",
+      "publicidad activa",
+      "potestad reglamentaria",
+      "accion popular"
+    ],
+    "correcta": 0,
+    "explicacion": "La funcion interventora fiscaliza actos de contenido economico.",
+    "referencia": "I.7 · Intervencion General",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-12",
+    "pregunta": "El Organo de Gestion Tributaria y Tesoreria se ocupa principalmente de:",
+    "opciones": [
+      "ingresos, recaudacion y gestion de fondos",
+      "nombramientos judiciales",
+      "disciplina urbanistica exclusiva",
+      "negociacion colectiva"
+    ],
+    "correcta": 0,
+    "explicacion": "Gestion tributaria y tesoreria cubren aplicacion de tributos, recaudacion y liquidez.",
+    "referencia": "I.7 · Organo de Gestion Tributaria y Tesoreria",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-13",
+    "pregunta": "La tesoreria municipal se relaciona directamente con:",
+    "opciones": [
+      "cobros, pagos y liquidez",
+      "mociones de censura",
+      "aprobacion de leyes organicas",
+      "juramento del Rey"
+    ],
+    "correcta": 0,
+    "explicacion": "La tesoreria administra fondos, cuentas y planificacion de liquidez.",
+    "referencia": "I.7 · Organo de Gestion Tributaria y Tesoreria",
+    "tema": 7
+  },
+  {
+    "id": "topup-07-14",
+    "pregunta": "El Tribunal Economico-Administrativo Municipal de Burgos se relaciona especialmente con:",
+    "opciones": [
+      "la revision de actos tributarios municipales",
+      "la instruccion de delitos",
+      "la aprobacion del Reglamento Organico",
+      "la seleccion de personal laboral"
+    ],
+    "correcta": 0,
+    "explicacion": "Es el organo especializado para reclamaciones economico-administrativas municipales.",
+    "referencia": "I.7 · Relacion con el TEAM",
+    "tema": 7
+  }
+]

@@ -1,5 +1,33 @@
 [
   {
+    "id": "pdf-2023-burgos-q24",
+    "tema": 10,
+    "pregunta": "El Codigo Civil recoge literalmente en su articulo 1.1 que las fuentes del ordenamiento juridico espanol son:",
+    "opciones": [
+      "La Constitucion, las leyes y los reglamentos",
+      "Las leyes, la costumbre y los reglamentos",
+      "La ley, la costumbre y los principios generales del derecho",
+      "La Constitucion y la ley"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 24",
+    "explicacion": "El articulo 1.1 del Codigo Civil enumera la ley, la costumbre y los principios generales del derecho."
+  },
+  {
+    "id": "pdf-2023-burgos-q25",
+    "tema": 10,
+    "pregunta": "El articulo 86 de la Constitucion Espanola establece que:",
+    "opciones": [
+      "El Gobierno podra dictar, siempre que se necesite, disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podra dictar disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
+      "El Gobierno no puede dictar disposiciones legislativas",
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podra dictar leyes especiales sin control parlamentario"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 25",
+    "explicacion": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad."
+  },
+  {
     "id": "t11-p001",
     "tema": 10,
     "pregunta": "¿Qué regula el Derecho Administrativo?",

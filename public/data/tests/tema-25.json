@@ -82,5 +82,201 @@
     "correcta": 0,
     "explicacion": "El tema incluye expresamente esas materias entre las negociables en las Mesas de Negociacion.",
     "referencia": "III.4 · 10.2 Materias objeto de negociacion"
+  },
+  {
+    "id": "topup-25-01",
+    "pregunta": "La libertad sindical comprende tambien el derecho a:",
+    "opciones": [
+      "no afiliarse a ningun sindicato",
+      "ser nombrado funcionario sin oposicion",
+      "exigir dos sueldos publicos",
+      "sustituir al alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "La libertad sindical incluye afiliacion positiva y negativa.",
+    "referencia": "III.4 · Derecho de sindicacion",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-02",
+    "pregunta": "Una seccion sindical en la Administracion es una manifestacion de:",
+    "opciones": [
+      "la accion sindical dentro de la organizacion",
+      "la potestad reglamentaria local",
+      "la fiscalizacion externa",
+      "la iniciativa legislativa popular"
+    ],
+    "correcta": 0,
+    "explicacion": "La accion sindical se articula a traves de secciones, delegados y organos de representacion.",
+    "referencia": "III.4 · Derecho de sindicacion",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-03",
+    "pregunta": "La negociacion colectiva de los empleados publicos se realiza en los terminos del:",
+    "opciones": [
+      "EBEP",
+      "Codigo Penal",
+      "Reglamento del Senado",
+      "Texto refundido de la Ley del Suelo"
+    ],
+    "correcta": 0,
+    "explicacion": "El EBEP ordena la negociacion colectiva en el empleo publico.",
+    "referencia": "III.4 · Negociacion colectiva",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-04",
+    "pregunta": "No todas las materias son negociables porque quedan fuera, entre otras, las relativas a:",
+    "opciones": [
+      "potestades publicas y regulacion de derechos de la ciudadania",
+      "vacaciones y jornada",
+      "salud laboral",
+      "accion social"
+    ],
+    "correcta": 0,
+    "explicacion": "La negociacion colectiva tiene limites materiales en el empleo publico.",
+    "referencia": "III.4 · Negociacion colectiva",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-05",
+    "pregunta": "El derecho de huelga permite:",
+    "opciones": [
+      "cesar colectivamente en el trabajo para defender intereses laborales",
+      "imponer sanciones administrativas",
+      "aprobar reglamentos organicos",
+      "acordar la sucesion a la Corona"
+    ],
+    "correcta": 0,
+    "explicacion": "La huelga es un derecho constitucional de defensa de intereses laborales.",
+    "referencia": "III.4 · Derecho de huelga",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-06",
+    "pregunta": "En servicios esenciales para la comunidad, la huelga puede someterse a:",
+    "opciones": [
+      "servicios minimos proporcionados y motivados",
+      "prohibicion absoluta automatica",
+      "autorizacion judicial previa en todo caso",
+      "silencio administrativo negativo"
+    ],
+    "correcta": 0,
+    "explicacion": "Los servicios minimos deben conciliar el derecho de huelga con la continuidad de servicios esenciales.",
+    "referencia": "III.4 · Derecho de huelga",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-07",
+    "pregunta": "Durante la huelga, con caracter general, se suspende:",
+    "opciones": [
+      "el trabajo y el salario en los terminos legales",
+      "la relacion estatutaria de forma definitiva",
+      "la existencia del Ayuntamiento",
+      "la vigencia de la Constitucion"
+    ],
+    "correcta": 0,
+    "explicacion": "La huelga tiene efectos suspensivos sobre trabajo y retribucion.",
+    "referencia": "III.4 · Derecho de huelga",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-08",
+    "pregunta": "El regimen de incompatibilidades persigue especialmente salvaguardar:",
+    "opciones": [
+      "imparcialidad e independencia",
+      "la discrecionalidad politica absoluta",
+      "la reserva judicial",
+      "la inviolabilidad parlamentaria"
+    ],
+    "correcta": 0,
+    "explicacion": "Las incompatibilidades evitan conflictos de intereses y garantizan dedicacion al puesto publico.",
+    "referencia": "III.4 · Regimen de incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-09",
+    "pregunta": "La regla general en materia de incompatibilidades del personal publico es que:",
+    "opciones": [
+      "no se puede compatibilizar un puesto publico con otro salvo excepciones legales",
+      "siempre se pueden acumular dos puestos publicos",
+      "solo se prohiben las actividades artisticas",
+      "la compatibilidad nunca necesita autorizacion"
+    ],
+    "correcta": 0,
+    "explicacion": "La compatibilidad es excepcional y debe ajustarse a la ley.",
+    "referencia": "III.4 · Regimen de incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-10",
+    "pregunta": "Una actividad privada relacionada con expedientes tramitados por el empleado publico puede ser incompatible por afectar a la:",
+    "opciones": [
+      "imparcialidad",
+      "publicidad activa",
+      "regencia",
+      "investidura"
+    ],
+    "correcta": 0,
+    "explicacion": "El conflicto de intereses es uno de los riesgos centrales del regimen de incompatibilidades.",
+    "referencia": "III.4 · Regimen de incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-11",
+    "pregunta": "La compatibilidad para una segunda actividad debe solicitarse:",
+    "opciones": [
+      "antes de iniciar la actividad",
+      "despues de cobrar la primera mensualidad",
+      "solo si lo pide un sindicato",
+      "cuando lo autorice verbalmente un companero"
+    ],
+    "correcta": 0,
+    "explicacion": "La autorizacion previa es esencial en el regimen de incompatibilidades.",
+    "referencia": "III.4 · Compatibilidad",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-12",
+    "pregunta": "Entre las actividades normalmente exceptuadas del regimen de incompatibilidades se encuentra:",
+    "opciones": [
+      "la administracion del patrimonio personal",
+      "la tramitacion privada de licencias del propio Ayuntamiento",
+      "la representacion habitual de contratistas municipales",
+      "la inspeccion privada de expedientes sancionadores"
+    ],
+    "correcta": 0,
+    "explicacion": "La ley exceptua determinadas actividades que no comprometen la imparcialidad en los terminos legales.",
+    "referencia": "III.4 · Compatibilidad",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-13",
+    "pregunta": "El incumplimiento del regimen de incompatibilidades puede generar:",
+    "opciones": [
+      "responsabilidad disciplinaria",
+      "investidura automatica",
+      "nulidad de toda la funcion publica",
+      "creacion de una tasa municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "El incumplimiento puede derivar en sanciones y otras consecuencias juridicas.",
+    "referencia": "III.4 · Incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-14",
+    "pregunta": "Una represalia por actividad sindical legitima seria contraria al principio de:",
+    "opciones": [
+      "libertad sindical",
+      "tesoreria unica",
+      "no afectacion presupuestaria",
+      "jerarquia normativa"
+    ],
+    "correcta": 0,
+    "explicacion": "La libertad sindical protege frente a discriminaciones o represalias por accion sindical.",
+    "referencia": "III.4 · Derecho de sindicacion",
+    "tema": 25
   }
 ]

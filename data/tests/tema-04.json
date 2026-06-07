@@ -1,5 +1,19 @@
 [
   {
+    "id": "pdf-2023-burgos-r02",
+    "tema": 4,
+    "pregunta": "Conforme al articulo 97 de la Constitucion Espanola, el Gobierno NO dirige:",
+    "opciones": [
+      "La politica interior y exterior",
+      "La Administracion civil y militar",
+      "La defensa del Estado",
+      "La funcion ejecutiva"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · reserva 2",
+    "explicacion": "El Gobierno dirige la politica interior y exterior, la Administracion civil y militar y la defensa del Estado, y ejerce la funcion ejecutiva."
+  },
+  {
     "id": "t05-p010",
     "tema": 4,
     "pregunta": "Según el art. 69 LRJSP, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
@@ -250,5 +264,19 @@
     "correcta": 0,
     "explicacion": "El art. 103.1 CE recoge expresamente esos principios de actuacion administrativa.",
     "referencia": "I.4 · 2.1 Los principios constitucionales (art. 103.1 CE)"
+  },
+  {
+    "id": "topup-04-01",
+    "pregunta": "La Administracion publica sirve con objetividad los intereses generales y actua de acuerdo con los principios del articulo 103 CE, entre ellos:",
+    "opciones": [
+      "jerarquia, descentralizacion y coordinacion",
+      "discrecionalidad absoluta y reserva de actuacion",
+      "confidencialidad general y autotutela penal",
+      "libre designacion universal de organos"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 103 CE menciona eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion, con sometimiento pleno a la ley y al Derecho.",
+    "referencia": "I.4 · Administracion publica en el ordenamiento juridico",
+    "tema": 4
   }
 ]

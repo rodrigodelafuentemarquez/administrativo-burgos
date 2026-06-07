@@ -1,5 +1,61 @@
 [
   {
+    "id": "pdf-2023-burgos-q45",
+    "tema": 38,
+    "pregunta": "La relacion electronica con las Administraciones Publicas para las personas juridicas:",
+    "opciones": [
+      "Es una obligacion",
+      "Es una opcion",
+      "Es igual que para las personas fisicas",
+      "Ninguna de las respuestas anteriores es correcta"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 45",
+    "explicacion": "Las personas juridicas estan obligadas a relacionarse electronicamente con las Administraciones."
+  },
+  {
+    "id": "pdf-2023-burgos-q46",
+    "tema": 38,
+    "pregunta": "De acuerdo con el articulo 38 de la Ley 40/2015, la sede electronica es:",
+    "opciones": [
+      "Aquella sede administrativa donde se controla la red intranet de una Administracion Publica",
+      "La direccion electronica, disponible para los ciudadanos a traves de redes de telecomunicaciones, cuya titularidad corresponde a una Administracion Publica o a organismos o entidades de derecho publico en el ejercicio de sus competencias",
+      "La sede donde radica la Direccion General de nuevas tecnologias",
+      "Ninguna es correcta"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 46",
+    "explicacion": "La sede electronica es una direccion electronica oficial cuya titularidad corresponde a una Administracion u organismo publico."
+  },
+  {
+    "id": "pdf-2025-burgos-q47-reg",
+    "tema": 38,
+    "pregunta": "Los registros telematicos permiten la presentacion de solicitudes:",
+    "opciones": [
+      "En el mismo horario que las oficinas presenciales",
+      "De lunes a viernes, las 24 horas del dia",
+      "De lunes a viernes, de 8 a 20 horas y los sabados de 9 a 14 horas",
+      "Todos los dias del ano, las 24 horas del dia"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 47",
+    "explicacion": "El registro electronico permite la presentacion de solicitudes todos los dias del ano durante las 24 horas."
+  },
+  {
+    "id": "pdf-2025-burgos-q57",
+    "tema": 38,
+    "pregunta": "En que articulo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electronicos?",
+    "opciones": [
+      "Articulo 41",
+      "Articulo 38",
+      "Articulo 14",
+      "Articulo 51"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 57",
+    "explicacion": "El articulo 41 LPAC regula la practica de las notificaciones y establece su preferencia por medios electronicos."
+  },
+  {
     "id": "t34-p001",
     "tema": 38,
     "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",

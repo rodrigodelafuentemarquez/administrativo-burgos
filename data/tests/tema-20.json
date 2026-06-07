@@ -208,5 +208,75 @@
     "correcta": 0,
     "explicacion": "El tema les atribuye funciones de estudio, informe y consulta.",
     "referencia": "II.11 · 7. Régimen de sesiones de las Comisiones Informativas"
+  },
+  {
+    "id": "topup-20-01",
+    "pregunta": "El orden del dia de un organo colegiado local sirve para:",
+    "opciones": [
+      "fijar los asuntos que seran tratados en la sesion",
+      "nombrar automaticamente al secretario",
+      "aprobar el presupuesto sin debate",
+      "sustituir al acta"
+    ],
+    "correcta": 0,
+    "explicacion": "La convocatoria debe incluir el orden del dia de los asuntos a tratar.",
+    "referencia": "II.11 · Convocatorias y orden del dia",
+    "tema": 20
+  },
+  {
+    "id": "topup-20-02",
+    "pregunta": "Como regla general, no deben tratarse asuntos no incluidos en el orden del dia salvo:",
+    "opciones": [
+      "supuestos de urgencia conforme a la normativa aplicable",
+      "peticion verbal de cualquier asistente",
+      "siempre que lo pida la oposicion",
+      "si son asuntos tributarios"
+    ],
+    "correcta": 0,
+    "explicacion": "La inclusion en el orden del dia es una garantia, con excepciones tasadas por urgencia.",
+    "referencia": "II.11 · Orden del dia",
+    "tema": 20
+  },
+  {
+    "id": "topup-20-03",
+    "pregunta": "El quorum de constitucion de un organo colegiado se refiere a:",
+    "opciones": [
+      "la asistencia minima necesaria para sesionar validamente",
+      "la duracion maxima de la reunion",
+      "el numero de mociones presentadas",
+      "el importe del presupuesto"
+    ],
+    "correcta": 0,
+    "explicacion": "Sin quorum suficiente el organo no puede constituirse validamente.",
+    "referencia": "II.11 · Requisitos de constitucion",
+    "tema": 20
+  },
+  {
+    "id": "topup-20-04",
+    "pregunta": "El voto de calidad del presidente opera normalmente en caso de:",
+    "opciones": [
+      "empate",
+      "ausencia del secretario",
+      "falta de orden del dia",
+      "intervencion del Tribunal Supremo"
+    ],
+    "correcta": 0,
+    "explicacion": "El voto de calidad deshace empates cuando asi lo preve la norma aplicable.",
+    "referencia": "II.11 · Votaciones",
+    "tema": 20
+  },
+  {
+    "id": "topup-20-05",
+    "pregunta": "El acta del organo colegiado tiene como finalidad principal:",
+    "opciones": [
+      "dejar constancia de asistentes, asuntos y acuerdos",
+      "sustituir a la convocatoria",
+      "aprobar ordenanzas fiscales",
+      "tramitar licencias urbanisticas"
+    ],
+    "correcta": 0,
+    "explicacion": "El acta documenta formalmente el desarrollo y acuerdos de la sesion.",
+    "referencia": "II.11 · Funcionamiento de organos colegiados",
+    "tema": 20
   }
 ]

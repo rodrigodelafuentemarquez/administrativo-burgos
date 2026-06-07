@@ -70,6 +70,20 @@
     "referencia": "III.2 · 7.4 Excedencia"
   },
   {
+    "id": "t46-p025",
+    "tema": 23,
+    "pregunta": "De acuerdo con el Tema 46, la condicion de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
+    "opciones": [
+      "Superacion del proceso selectivo, nombramiento por el organo competente y toma de posesion dentro del plazo establecido",
+      "Nombramiento provisional, periodo de prueba y evaluacion del desempeno",
+      "Superacion del concurso de traslados, adscripcion provisional y toma de posesion",
+      "Aprobacion de la OEP, publicacion en el BOCYL y juramento ante las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema enumera de forma expresa esos tres requisitos sucesivos para adquirir la condicion de funcionario de carrera.",
+    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
     "id": "t46-p029",
     "tema": 23,
     "pregunta": "De acuerdo con el Tema 46, son causas de perdida de la condicion de funcionario de carrera, entre otras:",
@@ -82,5 +96,187 @@
     "correcta": 0,
     "explicacion": "El tema enumera esas causas tasadas de perdida de la condicion de funcionario de carrera.",
     "referencia": "III.2 · 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p032",
+    "tema": 23,
+    "pregunta": "De acuerdo con el TREBEP y con el Tema 46, la condicion de funcionario de carrera se adquiere, ademas de por la superacion del proceso selectivo, por:",
+    "opciones": [
+      "La toma de posesion dentro del plazo senalado",
+      "La presentacion del certificado de antecedentes penales",
+      "La superacion obligatoria de un reconocimiento medico excluyente en todo caso",
+      "Ningun requisito adicional"
+    ],
+    "correcta": 0,
+    "explicacion": "Entre los requisitos sucesivos figura la toma de posesion dentro del plazo establecido, ademas del nombramiento por el organo competente.",
+    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p033",
+    "tema": 23,
+    "pregunta": "Conforme al TREBEP y al Tema 46, se podra nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
+    "opciones": [
+      "El exceso o acumulacion de tareas por plazo maximo de doce meses dentro de un periodo de dieciocho meses",
+      "La sustitucion transitoria de los titulares durante el tiempo estrictamente necesario",
+      "La cobertura de plazas vacantes por un maximo de cuatro anos cuando no sea posible su cobertura por funcionarios de carrera",
+      "La ejecucion de programas temporales con duracion maxima de dos anos ampliable a doce meses mas"
+    ],
+    "correcta": 1,
+    "explicacion": "El tema recoge la sustitucion transitoria del titular como supuesto de nombramiento de funcionario interino.",
+    "referencia": "Banco legado · Tema 46, 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "topup-23-01",
+    "pregunta": "La rehabilitacion de la condicion de funcionario puede plantearse, entre otros supuestos, cuando:",
+    "opciones": [
+      "desaparece la causa que produjo la perdida y la ley lo permite",
+      "se gana un concurso-oposicion",
+      "lo solicita cualquier sindicato",
+      "lo decide verbalmente el alcalde"
+    ],
+    "correcta": 0,
+    "explicacion": "La rehabilitacion no es automatica y depende del supuesto legal.",
+    "referencia": "III.2 · Rehabilitacion",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-02",
+    "pregunta": "La renuncia del funcionario, para producir la perdida de la condicion, debe ser:",
+    "opciones": [
+      "voluntaria y aceptada por la Administracion, con los limites legales",
+      "siempre oral",
+      "aprobada por los vecinos",
+      "ratificada por el Pleno municipal en todos los casos"
+    ],
+    "correcta": 0,
+    "explicacion": "La renuncia exige aceptacion administrativa y puede no admitirse si existen responsabilidades pendientes.",
+    "referencia": "III.2 · Perdida de la condicion de funcionario",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-03",
+    "pregunta": "No debe confundirse la perdida de la condicion de funcionario con:",
+    "opciones": [
+      "el cese en un puesto concreto",
+      "la sancion de separacion del servicio",
+      "la jubilacion total",
+      "la inhabilitacion firme"
+    ],
+    "correcta": 0,
+    "explicacion": "Puede cesarse en un puesto y seguir conservando la condicion funcionarial.",
+    "referencia": "III.2 · Perdida de la condicion y cese en el puesto",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-04",
+    "pregunta": "La situacion de servicio activo implica, con caracter general:",
+    "opciones": [
+      "plenitud ordinaria de derechos y deberes",
+      "perdida de la condicion funcionarial",
+      "suspension de retribuciones en todo caso",
+      "reserva exclusiva a altos cargos"
+    ],
+    "correcta": 0,
+    "explicacion": "El funcionario en servicio activo presta servicios y conserva el estatuto ordinario.",
+    "referencia": "III.2 · Servicio activo",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-05",
+    "pregunta": "La excedencia por interes particular genera, como regla general:",
+    "opciones": [
+      "ausencia de retribuciones y sin reserva de puesto",
+      "plena reserva de puesto y sueldo integro",
+      "perdida automatica de la condicion de funcionario",
+      "nombramiento como personal eventual"
+    ],
+    "correcta": 0,
+    "explicacion": "Es la modalidad mas abierta al interes personal, con efectos menos protectores.",
+    "referencia": "III.2 · Excedencias",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-06",
+    "pregunta": "La excedencia por cuidado de hijos o familiares protege especialmente:",
+    "opciones": [
+      "la conciliacion",
+      "la potestad sancionadora",
+      "la recaudacion tributaria",
+      "la contratacion menor"
+    ],
+    "correcta": 0,
+    "explicacion": "Es una excedencia orientada a la conciliacion y el cuidado familiar.",
+    "referencia": "III.2 · Excedencias",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-07",
+    "pregunta": "La suspension firme de funciones deriva de:",
+    "opciones": [
+      "sancion disciplinaria o sentencia judicial",
+      "simple solicitud del interesado",
+      "mudanza de domicilio",
+      "disolucion de las Cortes"
+    ],
+    "correcta": 0,
+    "explicacion": "La suspension firme responde a una decision sancionadora o judicial.",
+    "referencia": "III.2 · Suspension de funciones",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-08",
+    "pregunta": "La suspension provisional se acuerda durante la tramitacion de un procedimiento cuando:",
+    "opciones": [
+      "sea necesario y conforme a la ley",
+      "el interesado quiera cobrar mas",
+      "lo solicite un vecino",
+      "se trate de una licencia urbanistica"
+    ],
+    "correcta": 0,
+    "explicacion": "La suspension provisional es una medida cautelar vinculada a un procedimiento.",
+    "referencia": "III.2 · Suspension de funciones",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-09",
+    "pregunta": "La publicacion del nombramiento del funcionario, cuando proceda, cumple una funcion de:",
+    "opciones": [
+      "publicidad oficial y control",
+      "fiscalizacion contable",
+      "recaudacion tributaria",
+      "aprobacion del planeamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "La adquisicion de la condicion funcionarial incluye, cuando proceda, la publicacion oficial del nombramiento.",
+    "referencia": "III.2 · Adquisicion de la condicion de funcionario",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-10",
+    "pregunta": "En servicios especiales, el funcionario suele percibir las retribuciones del:",
+    "opciones": [
+      "cargo o puesto desempenado en esa situacion",
+      "puesto de origen acumuladas a las nuevas",
+      "Pleno municipal",
+      "sindicato de pertenencia"
+    ],
+    "correcta": 0,
+    "explicacion": "En servicios especiales se perciben normalmente las retribuciones del cargo desempenado, no las del puesto de origen.",
+    "referencia": "III.2 · Servicios especiales",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-11",
+    "pregunta": "El servicio en otras Administraciones no supone perder la condicion de funcionario de origen, sino:",
+    "opciones": [
+      "integrarse funcionalmente en la Administracion de destino",
+      "renunciar automaticamente al cuerpo de origen",
+      "pasar a personal laboral",
+      "convertirse en eventual"
+    ],
+    "correcta": 0,
+    "explicacion": "La movilidad entre Administraciones mantiene la condicion de origen con los efectos legales correspondientes.",
+    "referencia": "III.2 · Servicio en otras Administraciones",
+    "tema": 23
   }
 ]

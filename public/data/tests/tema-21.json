@@ -1,0 +1,282 @@
+[
+  {
+    "id": "pdf-2023-burgos-q26-ord",
+    "tema": 21,
+    "pregunta": "Conforme al articulo 123 de la Ley 7/1985, corresponde al Pleno:",
+    "opciones": [
+      "La aprobacion y modificacion de las ordenanzas y reglamentos municipales",
+      "La aprobacion y modificacion de las leyes municipales",
+      "La aprobacion y modificacion de los bandos",
+      "La aprobacion de decretos-leyes municipales"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 26",
+    "explicacion": "La aprobacion y modificacion de ordenanzas y reglamentos municipales corresponde al Pleno."
+  },
+  {
+    "id": "pdf-2025-burgos-q32-org",
+    "tema": 21,
+    "pregunta": "Segun el articulo 123 de la Ley 7/1985:",
+    "opciones": [
+      "Los reglamentos de naturaleza organica se aprueban por mayoria absoluta del Pleno",
+      "Tienen naturaleza organica las normas de division del municipio en distritos y la regulacion de los organos de los distritos",
+      "Tienen naturaleza organica las normas que regulan el Consejo Social de la ciudad",
+      "Todas son correctas"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 32",
+    "explicacion": "Las tres afirmaciones forman parte del regimen organico municipal previsto para municipios de gran poblacion."
+  },
+  {
+    "id": "topup-21-01",
+    "pregunta": "Las ordenanzas y reglamentos locales son manifestaciones de la potestad:",
+    "opciones": [
+      "reglamentaria de las entidades locales",
+      "jurisdiccional del Ayuntamiento",
+      "constituyente derivada",
+      "legislativa estatal"
+    ],
+    "correcta": 0,
+    "explicacion": "Las entidades locales aprueban disposiciones reglamentarias, no leyes.",
+    "referencia": "II.12 · Concepto y fundamento",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-02",
+    "pregunta": "El bando del alcalde es normalmente un instrumento de:",
+    "opciones": [
+      "direccion, informacion o policia municipal",
+      "aprobacion de leyes organicas",
+      "reforma estatutaria",
+      "enjuiciamiento penal"
+    ],
+    "correcta": 0,
+    "explicacion": "El bando no sustituye al procedimiento propio de las ordenanzas y reglamentos.",
+    "referencia": "II.12 · Los bandos",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-03",
+    "pregunta": "Entre las clases de normas locales puede distinguirse entre:",
+    "opciones": [
+      "reglamentos organicos, ordenanzas y bandos",
+      "decretos-leyes municipales y leyes locales",
+      "reales decretos y reglamentos europeos",
+      "sentencias y autos"
+    ],
+    "correcta": 0,
+    "explicacion": "La tipologia local incluye ordenanzas, reglamentos y bandos, entre otras normas reglamentarias.",
+    "referencia": "II.12 · Clases",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-04",
+    "pregunta": "La aprobacion inicial de una ordenanza local corresponde normalmente al:",
+    "opciones": [
+      "Pleno",
+      "Interventor General",
+      "Tribunal Economico-Administrativo",
+      "Consejo de Ministros"
+    ],
+    "correcta": 0,
+    "explicacion": "La potestad normativa local se canaliza por acuerdo plenario.",
+    "referencia": "II.12 · Procedimiento de aprobacion",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-05",
+    "pregunta": "Tras la aprobacion inicial de una ordenanza, se abre un tramite de informacion publica y audiencia por un plazo minimo de:",
+    "opciones": [
+      "treinta dias",
+      "dos dias habiles",
+      "veinticuatro horas",
+      "noventa dias"
+    ],
+    "correcta": 0,
+    "explicacion": "La publicacion inicial abre un plazo de treinta dias para reclamaciones y sugerencias.",
+    "referencia": "II.12 · Procedimiento de aprobacion",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-06",
+    "pregunta": "Si durante la informacion publica no se presentan reclamaciones a la ordenanza:",
+    "opciones": [
+      "el acuerdo puede entenderse definitivamente adoptado",
+      "debe repetirse todo el expediente",
+      "la competencia pasa al alcalde",
+      "la ordenanza queda anulada"
+    ],
+    "correcta": 0,
+    "explicacion": "La ausencia de reclamaciones permite elevar automaticamente el acuerdo a definitivo.",
+    "referencia": "II.12 · Procedimiento de aprobacion",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-07",
+    "pregunta": "Si se presentan reclamaciones durante la exposicion publica de una ordenanza, corresponde:",
+    "opciones": [
+      "resolverlas y aprobar definitivamente el texto",
+      "archivar sin resolverlas",
+      "trasladarlas al Senado",
+      "someterlas a referendo obligatorio"
+    ],
+    "correcta": 0,
+    "explicacion": "Las reclamaciones deben resolverse antes de la aprobacion definitiva.",
+    "referencia": "II.12 · Procedimiento de aprobacion",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-08",
+    "pregunta": "La entrada en vigor de una ordenanza exige, entre otros requisitos:",
+    "opciones": [
+      "publicacion integra del texto definitivo",
+      "solo firma del concejal delegado",
+      "aprobacion por la Diputacion Provincial",
+      "anuncio en prensa privada exclusivamente"
+    ],
+    "correcta": 0,
+    "explicacion": "Las normas locales necesitan publicacion oficial para entrar en vigor.",
+    "referencia": "II.12 · Publicacion y entrada en vigor",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-09",
+    "pregunta": "El reglamento organico municipal se refiere especialmente a:",
+    "opciones": [
+      "la organizacion y funcionamiento internos de la entidad local",
+      "los impuestos estatales",
+      "la estructura del CGPJ",
+      "la sucesion a la Corona"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento organico ordena la organizacion institucional del Ayuntamiento.",
+    "referencia": "II.12 · Clases de reglamentos",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-10",
+    "pregunta": "Las ordenanzas fiscales se diferencian porque regulan:",
+    "opciones": [
+      "tributos y otros ingresos de Derecho publico en el ambito local",
+      "la organizacion del Pleno",
+      "los estados de alarma",
+      "el procedimiento penal"
+    ],
+    "correcta": 0,
+    "explicacion": "Las ordenanzas fiscales desarrollan la potestad reglamentaria tributaria local.",
+    "referencia": "II.12 · Clases de ordenanzas",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-11",
+    "pregunta": "El bando del alcalde puede ser util para:",
+    "opciones": [
+      "recordar obligaciones ciudadanas o regular aspectos de policia urbana dentro de su ambito",
+      "crear un impuesto nuevo no previsto en la ley",
+      "modificar el Estatuto de Autonomia",
+      "imponer penas de prision"
+    ],
+    "correcta": 0,
+    "explicacion": "El bando tiene un alcance propio, pero no sustituye a la ordenanza cuando la materia exige procedimiento reglamentario.",
+    "referencia": "II.12 · Los bandos",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-12",
+    "pregunta": "No debe confundirse una ordenanza con un bando porque la ordenanza:",
+    "opciones": [
+      "requiere procedimiento plenario con informacion publica",
+      "se dicta solo verbalmente",
+      "no necesita publicacion",
+      "es siempre un acto singular"
+    ],
+    "correcta": 0,
+    "explicacion": "La ordenanza sigue un procedimiento normativo reforzado y tiene vocacion general.",
+    "referencia": "II.12 · Diferencias entre ordenanza y bando",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-13",
+    "pregunta": "Las entidades locales pueden aprobar reglamentos y ordenanzas dentro de los limites de:",
+    "opciones": [
+      "la Constitucion y las leyes",
+      "la voluntad unilateral del alcalde",
+      "los acuerdos privados",
+      "cualquier instruccion verbal"
+    ],
+    "correcta": 0,
+    "explicacion": "La potestad reglamentaria local esta subordinada a la ley.",
+    "referencia": "II.12 · Fundamento y limites",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-14",
+    "pregunta": "La publicacion oficial de ordenanzas locales se realiza normalmente en el:",
+    "opciones": [
+      "Boletin Oficial de la Provincia",
+      "Diario Oficial de la Union Europea exclusivamente",
+      "tablón del Congreso",
+      "BOE en todo caso"
+    ],
+    "correcta": 0,
+    "explicacion": "La publicacion provincial es la regla comun en el regimen local.",
+    "referencia": "II.12 · Publicacion",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-15",
+    "pregunta": "El contenido de los reglamentos locales puede referirse a:",
+    "opciones": [
+      "organizacion, funcionamiento o materias de competencia local",
+      "tipificar delitos",
+      "regular la Corona",
+      "aprobar presupuestos estatales"
+    ],
+    "correcta": 0,
+    "explicacion": "Las normas locales deben moverse dentro de las competencias municipales o provinciales.",
+    "referencia": "II.12 · Clases y contenido",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-16",
+    "pregunta": "Una norma local de caracter general aprobada por el Pleno para regular convivencia o uso de bienes municipales suele ser una:",
+    "opciones": [
+      "ordenanza",
+      "sentencia",
+      "mocion de censura",
+      "providencia de apremio"
+    ],
+    "correcta": 0,
+    "explicacion": "La ordenanza es el instrumento tipico para regular conductas generales en el ambito local.",
+    "referencia": "II.12 · Ordenanzas",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-17",
+    "pregunta": "El procedimiento de elaboracion de las ordenanzas protege especialmente:",
+    "opciones": [
+      "participacion ciudadana y control de legalidad",
+      "la ausencia de publicidad",
+      "la arbitrariedad del organo gestor",
+      "la inaplicacion de la ley"
+    ],
+    "correcta": 0,
+    "explicacion": "Informacion publica y publicidad oficial son garantias esenciales del procedimiento normativo local.",
+    "referencia": "II.12 · Procedimiento de elaboracion",
+    "tema": 21
+  },
+  {
+    "id": "topup-21-18",
+    "pregunta": "La impugnacion de una ordenanza o reglamento local aprobado definitivamente se dirige normalmente a la via:",
+    "opciones": [
+      "contencioso-administrativa",
+      "penal ordinaria",
+      "laboral",
+      "electoral"
+    ],
+    "correcta": 0,
+    "explicacion": "Las disposiciones generales locales se combaten ante la jurisdiccion contencioso-administrativa.",
+    "referencia": "II.12 · Control de legalidad de ordenanzas y reglamentos",
+    "tema": 21
+  }
+]

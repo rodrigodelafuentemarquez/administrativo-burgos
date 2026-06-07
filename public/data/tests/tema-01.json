@@ -1,5 +1,47 @@
 [
   {
+    "id": "pdf-2023-burgos-q01",
+    "tema": 1,
+    "pregunta": "De conformidad con el articulo 167 de la Constitucion Espanola, los proyectos de reforma constitucional deberan ser aprobados:",
+    "opciones": [
+      "Por mayoria de 2/3 del Senado",
+      "Por mayoria de 3/5 del Congreso",
+      "Por una mayoria de 3/5 de cada una de las Camaras",
+      "Por una mayoria de 2/3 de cada una de las Camaras"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 1",
+    "explicacion": "La reforma ordinaria de la Constitucion del articulo 167 CE exige mayoria de tres quintos en cada Camara."
+  },
+  {
+    "id": "pdf-2025-burgos-q01",
+    "tema": 1,
+    "pregunta": "En que fecha fue publicada la Constitucion Espanola en el Boletin Oficial del Estado?",
+    "opciones": [
+      "El 6 de diciembre de 1978",
+      "El 27 de diciembre de 1978",
+      "El 29 de diciembre de 1978",
+      "Ninguna respuesta es correcta"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 1",
+    "explicacion": "La Constitucion fue publicada en el BOE el 29 de diciembre de 1978."
+  },
+  {
+    "id": "pdf-2025-burgos-q03",
+    "tema": 1,
+    "pregunta": "Ante quien se presenta el recurso de amparo segun la Constitucion Espanola?",
+    "opciones": [
+      "Ante el Tribunal Supremo",
+      "Ante el Tribunal Constitucional",
+      "Ante el Consejo General del Poder Judicial",
+      "Ante cualquier juzgado o tribunal"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 3",
+    "explicacion": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional."
+  },
+  {
     "id": "t01-p001",
     "tema": 1,
     "pregunta": "¿Qué norma ocupa la posición suprema del ordenamiento jurídico español?",

@@ -1,5 +1,47 @@
 [
   {
+    "id": "pdf-2023-burgos-q31",
+    "tema": 13,
+    "pregunta": "De conformidad con la Ley 39/2015, los actos administrativos que no pongan fin a la via administrativa podran ser recurridos:",
+    "opciones": [
+      "Potestativamente en reposicion",
+      "Preceptivamente en reposicion",
+      "En alzada",
+      "Solo cabra el recurso extraordinario de revision"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 31",
+    "explicacion": "Contra los actos que no ponen fin a la via administrativa procede el recurso de alzada."
+  },
+  {
+    "id": "pdf-2025-burgos-q19",
+    "tema": 13,
+    "pregunta": "Contra los actos firmes en via administrativa se podra interponer el siguiente recurso:",
+    "opciones": [
+      "Recurso de alzada",
+      "Recurso potestativo de reposicion",
+      "Recurso extraordinario de revision",
+      "No cabe recurso administrativo, solo el recurso contencioso-administrativo"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 19",
+    "explicacion": "El recurso administrativo extraordinario frente a actos firmes es el recurso extraordinario de revision."
+  },
+  {
+    "id": "pdf-2025-burgos-r01-lesividad",
+    "tema": 13,
+    "pregunta": "Pueden las Administraciones Publicas impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados?",
+    "opciones": [
+      "Si, los actos administrativos anulables, previa su declaracion de lesividad para el interes publico",
+      "Si, los actos administrativos nulos, previa su declaracion de lesividad para el interes publico",
+      "Si, los actos administrativos anulables, previo dictamen favorable del Consejo de Estado",
+      "Si, los actos administrativos nulos, previo dictamen favorable del Consejo de Estado"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · reserva 1",
+    "explicacion": "Los actos favorables anulables exigen declaracion de lesividad antes de su impugnacion contenciosa."
+  },
+  {
     "id": "t16-p014",
     "tema": 13,
     "pregunta": "La revisión de actos nulos de pleno derecho requiere dictamen favorable del:",

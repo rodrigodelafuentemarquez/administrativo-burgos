@@ -222,5 +222,61 @@
     "correcta": 0,
     "explicacion": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
     "referencia": "III.5 · 7.1 La MUFACE"
+  },
+  {
+    "id": "topup-26-01",
+    "pregunta": "La Seguridad Social se estructura en Espana alrededor de un sistema con accion protectora:",
+    "opciones": [
+      "frente a contingencias y situaciones de necesidad",
+      "solo para funcionarios locales",
+      "exclusivamente urbanistica",
+      "sin cobertura sanitaria"
+    ],
+    "correcta": 0,
+    "explicacion": "La accion protectora es el nucleo del sistema de Seguridad Social.",
+    "referencia": "III.5 · Accion protectora",
+    "tema": 26
+  },
+  {
+    "id": "topup-26-02",
+    "pregunta": "El campo de aplicacion del sistema de Seguridad Social delimita:",
+    "opciones": [
+      "quienes quedan incluidos y protegidos por el sistema",
+      "la organizacion del Pleno",
+      "la aprobacion de ordenanzas",
+      "la composicion del Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "El campo de aplicacion fija el ambito subjetivo del sistema.",
+    "referencia": "III.5 · Campo de aplicacion",
+    "tema": 26
+  },
+  {
+    "id": "topup-26-03",
+    "pregunta": "La asistencia sanitaria forma parte de la:",
+    "opciones": [
+      "accion protectora de la Seguridad Social",
+      "potestad reglamentaria tributaria",
+      "funcion interventora",
+      "potestad sancionadora local"
+    ],
+    "correcta": 0,
+    "explicacion": "La asistencia sanitaria es una prestacion basica de la accion protectora.",
+    "referencia": "III.5 · Accion protectora",
+    "tema": 26
+  },
+  {
+    "id": "topup-26-04",
+    "pregunta": "La estructura del sistema de Seguridad Social se apoya en un regimen general y, en su caso, en:",
+    "opciones": [
+      "regimenes especiales",
+      "regimenes urbanisticos",
+      "regimenes parlamentarios",
+      "regimenes contenciosos"
+    ],
+    "correcta": 0,
+    "explicacion": "La organizacion del sistema distingue regimen general y regimenes especiales.",
+    "referencia": "III.5 · Estructura del sistema",
+    "tema": 26
   }
 ]

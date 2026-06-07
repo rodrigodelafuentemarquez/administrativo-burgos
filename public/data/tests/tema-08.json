@@ -1,5 +1,47 @@
 [
   {
+    "id": "pdf-2025-burgos-q23",
+    "tema": 8,
+    "pregunta": "Segun el articulo 14.1 del Tratado de la Union Europea, las funciones legislativa y presupuestaria son ejercidas por:",
+    "opciones": [
+      "El Parlamento Europeo conjuntamente con el Consejo",
+      "El Parlamento Europeo",
+      "El Consejo",
+      "El Parlamento Europeo conjuntamente con el Consejo Europeo"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 23",
+    "explicacion": "El Parlamento Europeo y el Consejo ejercen conjuntamente la funcion legislativa y presupuestaria."
+  },
+  {
+    "id": "pdf-2025-burgos-q31",
+    "tema": 8,
+    "pregunta": "Conforme al articulo 288 del Tratado de Funcionamiento de la Union Europea, el reglamento:",
+    "opciones": [
+      "Obligara al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando a las autoridades nacionales la eleccion de la forma y los medios",
+      "Desarrolla las normas legislativas adoptadas por el Parlamento Europeo",
+      "Tiene alcance general, sera obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "Sera obligatorio en todos sus elementos y, cuando designe destinatarios, solo sera obligatorio para estos"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 31",
+    "explicacion": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable."
+  },
+  {
+    "id": "pdf-2025-burgos-r01",
+    "tema": 8,
+    "pregunta": "Los miembros del Comite de las Regiones:",
+    "opciones": [
+      "Seran elegidos por un periodo renovable de cinco anos y no podran ser miembros simultaneamente del Parlamento Europeo",
+      "Seran elegidos por un periodo renovable de seis anos y no podran ser miembros simultaneamente del Parlamento Europeo",
+      "Seran elegidos por un periodo no renovable de cinco anos y no podran ser miembros simultaneamente del Parlamento Europeo",
+      "Seran elegidos por un periodo renovable de seis anos"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · reserva 1",
+    "explicacion": "Los miembros del Comite de las Regiones tienen mandato renovable de cinco anos y no pueden ser simultaneamente eurodiputados."
+  },
+  {
     "id": "t41-p001",
     "tema": 8,
     "pregunta": "La creación de la CECA se produce por el Tratado de:",
