@@ -91,7 +91,7 @@ La LCSP regula los siguientes **contratos típicos**, cada uno con régimen jur�
 | **Contrato de concesión de servicios** | El contratista gestiona un servicio de competencia de la Administración asumiendo el riesgo operacional (ej. gestión de un aparcamiento municipal) |
 | **Contrato de suministro** | Adquisición, arrendamiento o adquisición a plazos de productos o bienes muebles (ej. compra de equipos informáticos, vehículos, mobiliario) |
 | **Contrato de servicios** | Prestación de servicios de carácter intelectual o material distintos de la concesión (ej. servicios de limpieza, consultoría jurídica, vigilancia, mantenimiento) |
-| **Contrato mixto** | Cuando un contrato incluye prestaciones propias de más de un tipo; se aplica el régimen del tipo que define la prestación principal |
+| **Contrato mixto** | Cuándo un contrato incluye prestaciones propias de más de un tipo; se aplica el régimen del tipo que define la prestación principal |
 
 ### 3.2 Criterio de distinción entre obras, suministros y servicios
 
@@ -155,7 +155,7 @@ Además de la capacidad, el licitador debe acreditar **solvencia económica y fi
 
 ### 4.4 La Unión Temporal de Empresas (UTE)
 
-Cuando ninguna empresa por sí sola tiene la solvencia suficiente para un contrato, varias empresas pueden concurrir conjuntamente formando una **Unión Temporal de Empresas (UTE)**. Las empresas de la UTE responden solidariamente ante la Administración y deben nombrar a un representante único. La UTE no requiere constitución formal previa: se formaliza en el momento de la adjudicación.
+Cuándo ninguna empresa por sí sola tiene la solvencia suficiente para un contrato, varias empresas pueden concurrir conjuntamente formando una **Unión Temporal de Empresas (UTE)**. Las empresas de la UTE responden solidariamente ante la Administración y deben nombrar a un representante único. La UTE no requiere constitución formal previa: se formaliza en el momento de la adjudicación.
 
 ### 4.5 El Registro Oficial de Licitadores y Empresas Clasificadas (ROLECE)
 
@@ -175,7 +175,7 @@ El **expediente de contratación** es el conjunto de documentos que recoge todo 
 
 - **Memoria justificativa** de la necesidad e idoneidad.
 - **Pliego de Cláusulas Administrativas Particulares (PCAP):** las condiciones jurídicas, económicas y administrativas del contrato (procedimiento de adjudicación, criterios de valoración, garantías exigidas, causas de resolución...).
-- **Pliego de Prescripciones Técnicas Particulares (PPTP):** las condiciones técnicas de la prestación (características del bien a suministrar, del servicio a prestar o de la obra a ejecutar).
+- **Pliego de Prescripciones Técnicas Particulares (PPTP):** las condiciones técnicas de la prestación (carácterísticas del bien a suministrar, del servicio a prestar o de la obra a ejecutar).
 - **Certificado de existencia de crédito presupuestario:** acredita que hay dotación presupuestaria suficiente para financiar el contrato.
 
 ### 5.3 El presupuesto base de licitación (PBL)
@@ -322,11 +322,11 @@ La forma más segura de modificar un contrato es haberlo **previsto expresamente
 
 ### 10.3 Modificaciones no previstas en el pliego
 
-Cuando la modificación no estaba prevista en el pliego, solo es posible en supuestos tasados muy restrictivos, entre otros:
+Cuándo la modificación no estaba prevista en el pliego, solo es posible en supuestos tasados muy restrictivos, entre otros:
 
-- Cuando la necesidad de modificación derive de circunstancias **imprevisibles** para un órgano de contratación diligente.
-- Cuando el valor de la modificación sea inferior al **15%** del precio inicial (o al 50% si se acumulan varias modificaciones).
-- Cuando sea necesario añadir obras, suministros o servicios **adicionales** que no estaban incluidos en el contrato inicial, que sean necesarios para completar la prestación, y siempre que el cambio de contratista sea inviable por razones económicas o técnicas.
+- Cuándo la necesidad de modificación derive de circunstancias **imprevisibles** para un órgano de contratación diligente.
+- Cuándo el valor de la modificación sea inferior al **15%** del precio inicial (o al 50% si se acumulan varias modificaciones).
+- Cuándo sea necesario añadir obras, suministros o servicios **adicionales** que no estaban incluidos en el contrato inicial, que sean necesarios para completar la prestación, y siempre que el cambio de contratista sea inviable por razones económicas o técnicas.
 
 En ningún caso las modificaciones pueden alterar las condiciones esenciales del contrato (precio, objeto, plazo) de forma tan sustancial que equivalga a una nueva licitación encubierta.
 

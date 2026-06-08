@@ -237,7 +237,7 @@ En la base de la organización judicial se encuentran los **Juzgados**, órganos
 | **Juzgados de Menores** | Causas penales contra menores de 14 a 18 años |
 | **Juzgados de Violencia sobre la Mujer** | Instrucción de causas por violencia de género |
 | **Juzgados de lo Mercantil** | Concursos de acreedores, competencia desleal, propiedad industrial |
-| **Juzgados de Familia** | (Donde existan) Nulidades matrimoniales, separación, divorcio, filiación |
+| **Juzgados de Familia** | (Dónde existan) Nulidades matrimoniales, separación, divorcio, filiación |
 | **Juzgados de Paz** | Municipios donde no haya Juzgado de Primera Instancia; conocen de asuntos de mínima cuantía |
 
 ---

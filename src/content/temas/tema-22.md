@@ -164,7 +164,7 @@ Son las mismas para todos los funcionarios del mismo subgrupo o grupo de clasifi
 
 ### 5.3 Retribuciones complementarias (art. 24 TREBEP)
 
-Son las que retribuyen las características del puesto de trabajo, la carrera, el rendimiento o la actividad extraordinaria:
+Son las que retribuyen las carácterísticas del puesto de trabajo, la carrera, el rendimiento o la actividad extraordinaria:
 
 | Retribución complementaria | Concepto |
 |---|---|
@@ -195,7 +195,7 @@ Las **situaciones administrativas** regulan la relación entre el funcionario de
 | **Servicios especiales** | Ocupa cargos de especial relevancia (miembro del Gobierno, parlamentario, magistrado del TC, Defensor del Pueblo…) | Cómputo de tiempo a efectos de trienios, carrera y derechos pasivos. Reserva de puesto |
 | **Servicio en otras Administraciones** | Presta servicios en otra Administración distinta a la de origen | Cómputo de tiempo. Reserva de puesto en origen |
 | **Excedencia** | Separación temporal del servicio activo por motivos varios | Según el tipo de excedencia |
-| **Suspensión de funciones** | Como consecuencia de condena penal o sanción disciplinaria | Pierde temporalmente sus derechos |
+| **Suspensión de funciones** | Cómo consecuencia de condena penal o sanción disciplinaria | Pierde temporalmente sus derechos |
 
 #### Tipos de excedencia:
 

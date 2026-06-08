@@ -2,7 +2,7 @@
   {
     "id": "pdf-2025-burgos-q10",
     "tema": 14,
-    "pregunta": "Conforme a la Ley 40/2015, para la valida constitucion de un organo colegiado, a efectos de celebracion de sesiones, deliberaciones y toma de acuerdos, se requerira:",
+    "pregunta": "Conforme a la Ley 40/2015, para la valida constitución de un órgano colegiado, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, se requerira:",
     "opciones": [
       "La asistencia presencial o a distancia de la mayoria de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario",
       "La asistencia presencial o a distancia de la mayoria de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario o de quienes les suplan",
@@ -11,35 +11,35 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 10",
-    "explicacion": "La valida constitucion exige presidente y secretario o suplentes y al menos la mitad de los miembros."
+    "explicación": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros."
   },
   {
     "id": "pdf-2025-burgos-q11",
     "tema": 14,
-    "pregunta": "El articulo 3 de la Ley 40/2015 establece que las Administraciones Publicas deberan respetar en su actuacion y relaciones los siguientes principios:",
+    "pregunta": "El artículo 3 de la Ley 40/2015 establece que las Administraciones Públicas deberan respetar en su actuación y relaciones los siguientes principios:",
     "opciones": [
       "Garantizar a los ciudadanos unos procedimientos administrativos eficaces, aunque sean complejos",
-      "Cooperacion, colaboracion y coordinacion entre las Administraciones europeas",
-      "Participacion, objetividad y transparencia de la actuacion administrativa",
+      "Cooperación, colaboración y coordinación entre las Administraciones europeas",
+      "Participación, objetividad y transparencia de la actuación administrativa",
       "Buena fe, confianza plena e incondicional y lealtad institucional"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 11",
-    "explicacion": "La Ley 40/2015 incluye participacion, objetividad y transparencia entre sus principios de actuacion."
+    "explicación": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación."
   },
   {
     "id": "pdf-2025-burgos-q22",
     "tema": 14,
-    "pregunta": "El articulo 2.1 de la Ley 40/2015 establece que la presente Ley se aplica al sector publico que comprende:",
+    "pregunta": "El artículo 2.1 de la Ley 40/2015 establece que la presente Ley se aplica al sector público que comprende:",
     "opciones": [
-      "La Administracion General del Estado, las Administraciones de las Comunidades Autonomas y las entidades que integran la Administracion Local",
-      "La Administracion General del Estado, las Administraciones de las Comunidades Autonomas, las entidades que integran la Administracion Local y el sector publico institucional",
-      "La Administracion General del Estado, las Administraciones de las Comunidades Autonomas, las entidades que integran la Administracion Local y las entidades de derecho privado vinculadas o dependientes de las Administraciones Publicas",
-      "Cualesquiera organismos publicos y entidades de derecho publico vinculados o dependientes de las Administraciones Publicas"
+      "La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las entidades que integran la Administración Local",
+      "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración Local y el sector público institucional",
+      "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración Local y las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas",
+      "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 22",
-    "explicacion": "La Ley 40/2015 extiende su aplicacion al sector publico institucional, ademas de Estado, comunidades autonomas y entidades locales."
+    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, ademas de Estado, comunidades autonomas y entidades locales."
   },
   {
     "id": "t14-p001",
@@ -52,7 +52,7 @@
       "la jurisdicción penal"
     ],
     "correcta": 1,
-    "explicacion": "El tema resume ese contenido central de la LRJSP.",
+    "explicación": "El tema resume ese contenido central de la LRJSP.",
     "referencia": "II.5 · 1.1 Contexto y estructura"
   },
   {
@@ -66,7 +66,7 @@
       "Título V"
     ],
     "correcta": 1,
-    "explicacion": "El tema atribuye a ese título la regulación de los órganos.",
+    "explicación": "El tema atribuye a ese título la regulación de los órganos.",
     "referencia": "II.5 · 1.1 Contexto y estructura"
   },
   {
@@ -80,7 +80,7 @@
       "jurisdicción propia"
     ],
     "correcta": 0,
-    "explicacion": "El tema define el órgano por la competencia propia atribuida por el ordenamiento.",
+    "explicación": "El tema define el órgano por la competencia propia atribuida por el ordenamiento.",
     "referencia": "II.5 · 2.1 Concepto de órgano administrativo"
   },
   {
@@ -94,7 +94,7 @@
       "Acuerdo de la Junta de Portavoces"
     ],
     "correcta": 1,
-    "explicacion": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos.",
+    "explicación": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos.",
     "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
   },
   {
@@ -108,7 +108,7 @@
       "todos sus miembros sin excepción"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija ese quórum para la constitución válida.",
+    "explicación": "El tema fija ese quórum para la constitución válida.",
     "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
   },
   {
@@ -122,7 +122,7 @@
       "15 días hábiles"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala un mínimo de 48 horas salvo urgencia.",
+    "explicación": "El tema señala un mínimo de 48 horas salvo urgencia.",
     "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
   },
   {
@@ -136,7 +136,7 @@
       "decidida por el interesado"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo presenta como deber obligatorio.",
+    "explicación": "El tema lo presenta como deber obligatorio.",
     "referencia": "II.5 · 2.5 La abstención y la recusación"
   },
   {
@@ -150,7 +150,7 @@
       "Nulidad radical"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como principio rector de las relaciones interadministrativas.",
+    "explicación": "El tema lo identifica como principio rector de las relaciones interadministrativas.",
     "referencia": "II.5 · 3.1 Concepto y principios generales"
   },
   {
@@ -164,7 +164,7 @@
       "recurso administrativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA.",
+    "explicación": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA.",
     "referencia": "II.5 · 3.2.2 Las Conferencias Sectoriales"
   },
   {
@@ -178,7 +178,7 @@
       "10 años"
     ],
     "correcta": 2,
-    "explicacion": "El tema señala una duración máxima de 4 años, prorrogable.",
+    "explicación": "El tema señala una duración máxima de 4 años, prorrogable.",
     "referencia": "II.5 · 3.2.4 Los convenios de colaboración"
   },
   {
@@ -192,7 +192,7 @@
       "el Congreso de los Diputados"
     ],
     "correcta": 0,
-    "explicacion": "El tema remite a los conflictos de competencia ante el TC.",
+    "explicación": "El tema remite a los conflictos de competencia ante el TC.",
     "referencia": "II.5 · 3.4 Conflictos interadministrativos"
   },
   {
@@ -206,7 +206,7 @@
       "Art. 103 CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye esa subrogación al art. 60 LBRL.",
+    "explicación": "El tema atribuye esa subrogación al art. 60 LBRL.",
     "referencia": "II.5 · 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales"
   },
   {
@@ -220,7 +220,7 @@
       "exclusivamente judicial"
     ],
     "correcta": 2,
-    "explicacion": "El tema distingue ambos planos.",
+    "explicación": "El tema distingue ambos planos.",
     "referencia": "II.5 · 2.2.4 Coordinación"
   },
   {
@@ -234,7 +234,7 @@
       "Principio de publicidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo menciona expresamente al hablar de creación de órganos.",
+    "explicación": "El tema lo menciona expresamente al hablar de creación de órganos.",
     "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
   },
   {
@@ -248,35 +248,35 @@
       "instrumentos sancionadores"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define como documentos de planificación conjunta.",
+    "explicación": "El tema los define como documentos de planificación conjunta.",
     "referencia": "II.5 · 3.2.5 Los Planes y Programas conjuntos"
   },
   {
     "id": "topup-14-01",
-    "pregunta": "La avocacion consiste en que:",
+    "pregunta": "La avocación consiste en que:",
     "opciones": [
-      "un organo superior asume para si el conocimiento de un asunto atribuido a uno inferior",
-      "un organo cede definitivamente su competencia normativa",
+      "un órgano superior asume para si el conocimiento de un asunto atribuido a uno inferior",
+      "un órgano cede definitivamente su competencia normativa",
       "el secretario sustituye al alcalde",
-      "el ciudadano delega su firma en la Administracion"
+      "el ciudadano delega su firma en la Administración"
     ],
     "correcta": 0,
-    "explicacion": "La avocacion permite al organo superior atraer un asunto concreto por razones justificadas.",
-    "referencia": "II.5 · Tecnicas de alteracion del ejercicio de competencias",
+    "explicación": "La avocación permite al órgano superior atraer un asunto concreto por razones justificadas.",
+    "referencia": "II.5 · Tecnicas de alteración del ejercicio de competencias",
     "tema": 14
   },
   {
     "id": "topup-14-02",
-    "pregunta": "La delegacion de firma supone:",
+    "pregunta": "La delegación de firma supone:",
     "opciones": [
-      "autorizar a otro organo o titular para firmar actos sin alterar la competencia",
-      "trasladar la titularidad de la competencia a otra Administracion",
+      "autorizar a otro órgano o titular para firmar actos sin alterar la competencia",
+      "trasladar la titularidad de la competencia a otra Administración",
       "renunciar al ejercicio de toda potestad",
       "encomendar la gestion material de un servicio a un particular"
     ],
     "correcta": 0,
-    "explicacion": "La delegacion de firma no cambia la titularidad competencial, solo la firma formal.",
-    "referencia": "II.5 · Delegacion de firma",
+    "explicación": "La delegación de firma no cambia la titularidad competencial, solo la firma formal.",
+    "referencia": "II.5 · Delegación de firma",
     "tema": 14
   }
 ]

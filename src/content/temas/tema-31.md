@@ -96,7 +96,7 @@ El art. 14 LPACAP establece que están **obligados a relacionarse electrónicame
 - Los **profesionales** que ejerzan una actividad para la que se requiera colegiación obligatoria.
 - Los representantes de sujetos obligados a relacionarse electrónicamente.
 - Los **empleados de las Administraciones Públicas** en sus actuaciones con la Administración.
-- Quienes reglamentariamente se establezca.
+- Quiénes reglamentariamente se establezca.
 
 Las **personas físicas** pueden elegir si relacionarse por medios electrónicos o presencialmente, salvo que estén incluidas en los colectivos anteriores. No obstante, en cualquier momento pueden cambiar el canal elegido.
 
@@ -121,7 +121,7 @@ Si la solicitud de inicio de un procedimiento no reúne los requisitos exigidos,
 
 Las personas físicas que no estén obligadas a relacionarse electrónicamente con la Administración pueden presentar sus solicitudes y documentos en soporte papel en las oficinas de asistencia en materia de registros o en Correos.
 
-Cuando se presenta un documento en papel en una oficina de registro, el funcionario:
+Cuándo se presenta un documento en papel en una oficina de registro, el funcionario:
 1. Sella el documento original con la **fecha y hora de presentación** y el **número de registro de entrada**.
 2. Entrega al presentador una **copia sellada** como acuse de recibo.
 3. Realiza el **asiento registral** correspondiente.
@@ -148,7 +148,7 @@ Sin embargo, cuando se presenta un documento en el registro de una Administraci�
 
 ### 4.3 Entrada de documentos
 
-La **entrada** es el asiento que se practica en el registro cuando un documento llega a la Administración, procedente del exterior (de un ciudadano, de otra Administración, de un juzgado, etc.). El asiento de entrada incluye:
+La **entrada** es el asiento que se práctica en el registro cuando un documento llega a la Administración, procedente del exterior (de un ciudadano, de otra Administración, de un juzgado, etc.). El asiento de entrada incluye:
 
 - **Número de registro de entrada** (correlativo e ininterrumpido a lo largo del año).
 - **Fecha y hora** de presentación.
@@ -159,7 +159,7 @@ La **entrada** es el asiento que se practica en el registro cuando un documento 
 
 ### 4.4 Salida de documentos
 
-La **salida** es el asiento que se practica cuando la Administración expide un documento hacia el exterior (una resolución, una notificación, una comunicación a otra Administración, una respuesta a un escrito…). El asiento de salida incluye:
+La **salida** es el asiento que se práctica cuando la Administración expide un documento hacia el exterior (una resolución, una notificación, una comunicación a otra Administración, una respuesta a un escrito…). El asiento de salida incluye:
 
 - **Número de registro de salida** (correlativo e ininterrumpido).
 - **Fecha y hora** de expedición.
@@ -205,21 +205,21 @@ La LPACAP distingue dos medios de notificación:
 
 **A) Notificación electrónica (medio preferente para obligados a relacionarse electrónicamente):**
 
-- Se practica a través de la **Dirección Electrónica Habilitada única (DEHú)** o mediante comparecencia en la **sede electrónica** de la Administración.
+- Se práctica a través de la **Dirección Electrónica Habilitada única (DEHú)** o mediante comparecencia en la **sede electrónica** de la Administración.
 - Se entiende practicada cuando el interesado accede a la notificación en el sistema. Si transcurren **10 días naturales** sin que el interesado acceda al contenido de la notificación, se entiende **rechazada**, con los efectos propios de la notificación (salvo que se acredite imposibilidad técnica o material).
 - Las Administraciones Públicas deben enviar un **aviso** al interesado (por correo electrónico u otro sistema) informándole de que tiene una notificación pendiente. Este aviso no sustituye a la notificación; es solo un recordatorio.
 
 **B) Notificación en papel (para personas físicas no obligadas a relacionarse electrónicamente):**
 
-- Se practica mediante **entrega personal** en el domicilio del interesado o en el lugar que haya señalado en la solicitud.
+- Se práctica mediante **entrega personal** en el domicilio del interesado o en el lugar que haya señalado en la solicitud.
 - Si no se encuentra al interesado en el domicilio, puede entregarse a cualquier persona mayor de 14 años que se encuentre en el domicilio y haga constar su identidad. Si nadie recoge la notificación, se deja aviso para que el interesado se persone en la oficina correspondiente.
 - Si no es posible practicar la notificación en el domicilio, se procede a la **notificación por publicación en el BOE** (Tablón Edictal Único) o en el tablón de edictos de la Corporación, en los términos del art. 44 LPACAP.
 
 #### 5.2.5 Notificación infructuosa y notificación edictal
 
-Cuando la notificación personal no puede practicarse (por ausencia, domicilio desconocido o negativa del interesado), se recurre a la **notificación edictal** (art. 44 LPACAP):
+Cuándo la notificación personal no puede practicarse (por ausencia, domicilio desconocido o negativa del interesado), se recurre a la **notificación edictal** (art. 44 LPACAP):
 
-- Se publica un anuncio en el **Boletín Oficial del Estado (BOE)**, a través del **Tablón Edictal Único (TEU)**, de acceso gratuito en la sede electrónica del BOE.
+- Se pública un anuncio en el **Boletín Oficial del Estado (BOE)**, a través del **Tablón Edictal Único (TEU)**, de acceso gratuito en la sede electrónica del BOE.
 - La publicación en el BOE sustituye a la notificación personal y produce sus mismos efectos.
 - Adicionalmente, puede publicarse en el tablón de edictos del Ayuntamiento del último domicilio conocido.
 
@@ -230,15 +230,15 @@ Si el interesado o su representante comparece en las dependencias del órgano co
 ### 5.3 La publicación como sustitutivo de la notificación
 
 En determinados supuestos, la notificación individual se sustituye por la **publicación** en el diario oficial correspondiente (art. 45 LPACAP):
-- Cuando el acto tenga por destinatario a una **pluralidad indeterminada de personas**.
-- Cuando se trate de actos integrantes de un procedimiento de concurrencia competitiva (oposiciones, subvenciones en concurrencia…).
-- Cuando así lo establezca expresamente la norma reguladora del procedimiento.
+- Cuándo el acto tenga por destinatario a una **pluralidad indeterminada de personas**.
+- Cuándo se trate de actos integrantes de un procedimiento de concurrencia competitiva (oposiciones, subvenciones en concurrencia…).
+- Cuándo así lo establezca expresamente la norma reguladora del procedimiento.
 
 ### 5.4 Comunicaciones entre Administraciones
 
 Las comunicaciones entre órganos de distintas Administraciones Públicas se realizan preferentemente por **medios electrónicos**, a través de las plataformas de intercambio de datos habilitadas al efecto (como la **Plataforma de Intermediación de Datos** del Ministerio de Hacienda o el **SIR** para el intercambio de registros).
 
-Cuando la comunicación interadministrativa afecta al traslado de expedientes o documentos, se utiliza el **Registro de Comunicaciones Interadministrativas** y los instrumentos de la administración electrónica que garanticen la autenticidad, integridad y trazabilidad de los documentos transmitidos.
+Cuándo la comunicación interadministrativa afecta al traslado de expedientes o documentos, se utiliza el **Registro de Comunicaciones Interadministrativas** y los instrumentos de la administración electrónica que garanticen la autenticidad, integridad y trazabilidad de los documentos transmitidos.
 
 ### 5.5 Comunicaciones internas
 
@@ -328,7 +328,7 @@ A efectos del interesado, lo que computa es la **fecha de presentación** en la 
         </ul></li>
       <li>Notificación edictal (art. 44): publicación en BOE (TEU)
         <ul>
-          <li>→ Cuando no es posible la notificación personal</li>
+          <li>→ Cuándo no es posible la notificación personal</li>
         </ul></li>
       <li>Publicación (art. 45): sustituye notificación cuando hay pluralidad indeterminada
         <ul>

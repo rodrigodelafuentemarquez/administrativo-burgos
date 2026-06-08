@@ -156,10 +156,10 @@ Es **extraordinario** porque solo procede en supuestos excepcionales y por causa
 
 | Causa | Plazo de interposición |
 |---|---|
-| **a)** Que al dictarlos se hubiera incurrido en **error de hecho** que resulte de los propios documentos incorporados al expediente | **4 años** desde la notificación del acto |
-| **b)** Que aparezcan **documentos de valor esencial** para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución, o que siendo anteriores no hubieran podido aportarse al expediente | **3 meses** desde que se conocieron o pudieron conocerse los documentos |
-| **c)** Que en la resolución hayan influido **documentos o testimonios declarados falsos** por sentencia judicial firme anterior o posterior a aquella resolución | **3 meses** desde que fue firme la sentencia |
-| **d)** Que la resolución se hubiese dictado como consecuencia de **prevaricación, cohecho, violencia, maquinación fraudulenta** u otra conducta punible, y se haya declarado así por sentencia firme | **3 meses** desde que fue firme la sentencia |
+| **a)** Qué al dictarlos se hubiera incurrido en **error de hecho** que resulte de los propios documentos incorporados al expediente | **4 años** desde la notificación del acto |
+| **b)** Qué aparezcan **documentos de valor esencial** para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución, o que siendo anteriores no hubieran podido aportarse al expediente | **3 meses** desde que se conocieron o pudieron conocerse los documentos |
+| **c)** Qué en la resolución hayan influido **documentos o testimonios declarados falsos** por sentencia judicial firme anterior o posterior a aquella resolución | **3 meses** desde que fue firme la sentencia |
+| **d)** Qué la resolución se hubiese dictado como consecuencia de **prevaricación, cohecho, violencia, maquinación fraudulenta** u otra conducta punible, y se haya declarado así por sentencia firme | **3 meses** desde que fue firme la sentencia |
 
 #### Órgano competente
 El **órgano administrativo que dictó el acto**, o su superior si aquel ya no existe.

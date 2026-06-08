@@ -206,10 +206,10 @@ Puede ser interpuesto por la Comisión (lo más habitual) o por otro Estado miem
 Permite impugnar la legalidad de los actos de las instituciones de la UE. Pueden interponerlo los Estados miembros, el Parlamento, el Consejo y la Comisión (recurso privilegiado, sin necesidad de demostrar interés), y los particulares y empresas (recurso no privilegiado, condicionado al cumplimiento de ciertos requisitos de legitimación activa).
 
 **Recurso por omisión (art. 265 TFUE):**
-Cuando una institución de la UE incumple su obligación de actuar, los Estados miembros y otras instituciones pueden recurrir ante el TJUE.
+Cuándo una institución de la UE incumple su obligación de actuar, los Estados miembros y otras instituciones pueden recurrir ante el TJUE.
 
 **Cuestión prejudicial (art. 267 TFUE):**
-Es el mecanismo más utilizado y más importante del TJUE. Cuando un órgano jurisdiccional nacional está conociendo de un litigio en el que se plantea una duda sobre la interpretación o validez del Derecho de la UE, puede (y en última instancia debe) suspender el procedimiento y plantear la cuestión al TJUE, que emite una resolución vinculante sobre la interpretación del Derecho de la UE. La cuestión prejudicial garantiza la aplicación uniforme del Derecho de la UE en todos los Estados miembros.
+Es el mecanismo más utilizado y más importante del TJUE. Cuándo un órgano jurisdiccional nacional está conociendo de un litigio en el que se plantea una duda sobre la interpretación o validez del Derecho de la UE, puede (y en última instancia debe) suspender el procedimiento y plantear la cuestión al TJUE, que emite una resolución vinculante sobre la interpretación del Derecho de la UE. La cuestión prejudicial garantiza la aplicación uniforme del Derecho de la UE en todos los Estados miembros.
 
 ---
 
@@ -276,7 +276,7 @@ El Derecho de la UE prevalece sobre el Derecho nacional en los ámbitos de compe
 Determinadas normas del Derecho de la UE (los Tratados y los reglamentos siempre; las directivas bajo ciertas condiciones) son directamente invocables por los particulares ante los tribunales nacionales, sin necesidad de ningún acto de transposición. El TJUE estableció este principio en la sentencia **Van Gend en Loos (1963)**.
 
 **Principio de responsabilidad del Estado por daños causados a particulares:**
-Cuando un Estado miembro incumple el Derecho de la UE y causa daños a un particular, este tiene derecho a ser indemnizado por el Estado (sentencia **Francovich, 1991**). Este principio garantiza la efectividad del Derecho de la UE frente a los incumplimientos estatales.
+Cuándo un Estado miembro incumple el Derecho de la UE y causa daños a un particular, este tiene derecho a ser indemnizado por el Estado (sentencia **Francovich, 1991**). Este principio garantiza la efectividad del Derecho de la UE frente a los incumplimientos estatales.
 
 ---
 

@@ -6,12 +6,12 @@ export type NormativeSource = {
 
 const S = {
   ce: {
-    label: 'Constitucion Espanola de 1978',
+    label: 'Constitución Española de 1978',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229',
     tag: 'BOE',
   },
   cc: {
-    label: 'Codigo Civil',
+    label: 'Código Civil',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1889-4763',
     tag: 'BOE',
   },
@@ -26,17 +26,17 @@ const S = {
     tag: 'BOE',
   },
   ley40: {
-    label: 'Ley 40/2015, Regimen Juridico del Sector Publico',
+    label: 'Ley 40/2015, Régimen Jurídico del Sector Publico',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566',
     tag: 'BOE',
   },
   lrbrl: {
-    label: 'Ley 7/1985, Bases del Regimen Local',
+    label: 'Ley 7/1985, Bases del Régimen Local',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392',
     tag: 'BOE',
   },
   trrl: {
-    label: 'TRRL, disposiciones vigentes de Regimen Local',
+    label: 'TRRL, disposiciones vigentes de Régimen Local',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1986-9865',
     tag: 'BOE',
   },
@@ -51,7 +51,7 @@ const S = {
     tag: 'Ayuntamiento',
   },
   estatutoCyl: {
-    label: 'Estatuto de Autonomia de Castilla y Leon',
+    label: 'Estatuto de Autonomía de Castilla y León',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1983-7474',
     tag: 'BOE',
   },
@@ -91,7 +91,7 @@ const S = {
     tag: 'BOE',
   },
   tribunalCuentas: {
-    label: 'Ley Organica 2/1982, Tribunal de Cuentas',
+    label: 'Ley Orgánica 2/1982, Tribunal de Cuentas',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1982-11584',
     tag: 'BOE',
   },
@@ -101,7 +101,7 @@ const S = {
     tag: 'BOE',
   },
   ljca: {
-    label: 'Ley 29/1998, Jurisdiccion Contencioso-administrativa',
+    label: 'Ley 29/1998, Jurisdicción Contencioso-administrativa',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718',
     tag: 'BOE',
   },
@@ -121,7 +121,7 @@ const S = {
     tag: 'BOE',
   },
   libertadSindical: {
-    label: 'Ley Organica 11/1985, Libertad Sindical',
+    label: 'Ley Orgánica 11/1985, Libertad Sindical',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1985-16660',
     tag: 'BOE',
   },
@@ -131,22 +131,22 @@ const S = {
     tag: 'BOE',
   },
   suelo: {
-    label: 'Texto Refundido de la Ley de Suelo y Rehabilitacion Urbana',
+    label: 'Texto Refundido de la Ley de Suelo y Rehabilitación Urbana',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723',
     tag: 'BOE',
   },
   urbanismoCyl: {
-    label: 'Ley 5/1999, Urbanismo de Castilla y Leon',
+    label: 'Ley 5/1999, Urbanismo de Castilla y León',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1999-12599',
     tag: 'BOE',
   },
   igualdad: {
-    label: 'Ley Organica 3/2007, igualdad efectiva',
+    label: 'Ley Orgánica 3/2007, igualdad efectiva',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2007-6115',
     tag: 'BOE',
   },
   violenciaGenero: {
-    label: 'Ley Organica 1/2004, violencia de genero',
+    label: 'Ley Orgánica 1/2004, violencia de género',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2004-21760',
     tag: 'BOE',
   },
@@ -166,22 +166,22 @@ const S = {
     tag: 'BOE',
   },
   prl: {
-    label: 'Ley 31/1995, Prevencion de Riesgos Laborales',
+    label: 'Ley 31/1995, Prevención de Riesgos Laborales',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1995-24292',
     tag: 'BOE',
   },
   lopdgdd: {
-    label: 'LO 3/2018, proteccion de datos y derechos digitales',
+    label: 'LO 3/2018, protección de datos y derechos digitales',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673',
     tag: 'BOE',
   },
   rgpd: {
-    label: 'Reglamento General de Proteccion de Datos',
+    label: 'Reglamento General de Protección de Datos',
     url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:32016R0679',
     tag: 'UE',
   },
   rd203: {
-    label: 'Real Decreto 203/2021, actuacion electronica',
+    label: 'Real Decreto 203/2021, actuación electrónica',
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032',
     tag: 'BOE',
   },
@@ -201,7 +201,7 @@ const S = {
     tag: 'BOE',
   },
   sedeBurgos: {
-    label: 'Sede electronica del Ayuntamiento de Burgos',
+    label: 'Sede electrónica del Ayuntamiento de Burgos',
     url: 'https://sede.aytoburgos.es/',
     tag: 'Ayuntamiento',
   },

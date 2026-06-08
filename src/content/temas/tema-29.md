@@ -125,7 +125,7 @@ El contrato de trabajo regula o remite a convenio colectivo las siguientes condi
 
 ### 2.7 Modificación del contrato
 
-La Corporación Local puede, en el ejercicio de su **poder de dirección**, modificar las condiciones de trabajo en los términos del art. 41 ET (**modificación sustancial de condiciones de trabajo**). Cuando la modificación afecte a condiciones reconocidas en convenio colectivo, debe seguirse el procedimiento de negociación colectiva.
+La Corporación Local puede, en el ejercicio de su **poder de dirección**, modificar las condiciones de trabajo en los términos del art. 41 ET (**modificación sustancial de condiciones de trabajo**). Cuándo la modificación afecte a condiciones reconocidas en convenio colectivo, debe seguirse el procedimiento de negociación colectiva.
 
 Las modificaciones sustanciales que perjudiquen al trabajador le dan derecho a rescindir el contrato con derecho a indemnización (20 días por año trabajado, máx. 9 mensualidades) o a impugnarlas ante la jurisdicción social.
 

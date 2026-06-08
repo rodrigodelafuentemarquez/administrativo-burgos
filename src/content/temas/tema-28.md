@@ -87,7 +87,7 @@ Adicionalmente, el art. 55.2 TREBEP exige que los procedimientos selectivos gara
 
 Las necesidades de personal que no puedan cubrirse con los efectivos existentes deben ser objeto de **Oferta de Empleo Público (OEP)** (art. 70 TREBEP). La OEP:
 - La aprueba el **Pleno** de la Entidad Local, a propuesta de la Presidencia.
-- Se publica en el **Boletín Oficial de la Provincia** y en el **Boletín Oficial de la Comunidad Autónoma**.
+- Se pública en el **Boletín Oficial de la Provincia** y en el **Boletín Oficial de la Comunidad Autónoma**.
 - Una vez aprobada la OEP, la convocatoria del proceso selectivo debe realizarse en el plazo máximo de **tres años**.
 
 ### 2.3 Sistemas de selección
@@ -111,8 +111,8 @@ El proceso selectivo es dirigido por un **órgano de selección** (tribunal cali
 
 No pueden formar parte del órgano de selección:
 - El personal de elección política o de libre designación.
-- Quienes hayan realizado tareas de preparación de aspirantes en los cinco años anteriores.
-- Quienes tengan relación de parentesco o conflicto de interés con algún aspirante.
+- Quiénes hayan realizado tareas de preparación de aspirantes en los cinco años anteriores.
+- Quiénes tengan relación de parentesco o conflicto de interés con algún aspirante.
 
 ### 2.5 Fases del proceso selectivo
 
@@ -219,7 +219,7 @@ La excedencia puede ser de varias clases:
 Situación en la que el funcionario queda privado temporalmente del ejercicio de sus funciones y de la percepción de sus retribuciones:
 
 - **Suspensión provisional:** durante la tramitación de un expediente disciplinario o penal. Máximo 6 meses, salvo que la paralización del procedimiento sea imputable al interesado.
-- **Suspensión firme:** impuesta como sanción disciplinaria. Cuando es superior a 6 meses, el funcionario pierde el puesto de trabajo y debe participar en concurso para obtener uno nuevo una vez cumplida la sanción.
+- **Suspensión firme:** impuesta como sanción disciplinaria. Cuándo es superior a 6 meses, el funcionario pierde el puesto de trabajo y debe participar en concurso para obtener uno nuevo una vez cumplida la sanción.
 
 ### 5.6 Reingreso al servicio activo
 

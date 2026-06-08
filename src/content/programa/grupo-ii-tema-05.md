@@ -1,118 +1,118 @@
 ---
-grupo: "Grupo II. Derecho y regimen juridico de las Administraciones Publicas"
+grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas"
 tema: 5
 codigo: "Tema II.5"
-titulo: "El regimen juridico del sector publico: principios de actuacion y funcionamiento. Los organos de las administraciones publicas: especial referencia a los organos colegiados. La atribucion de competencias a los organos administrativos: desconcentracion, delegacion, avocacion, encomienda de gestion, delegacion de firma y suplencia."
+titulo: "El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestion, delegación de firma y suplencia."
 estado: "borrador"
 ---
 
 ## Normativa de referencia
 
-La norma central es la Ley 40/2015, de Regimen Juridico del Sector Publico. Tambien deben manejarse la Constitucion, la Ley 39/2015 y, para entidades locales, la Ley 7/1985 y el Reglamento de Organizacion, Funcionamiento y Regimen Juridico de las Entidades Locales.
+La norma central es la Ley 40/2015, de Régimen Jurídico del Sector Publico. También deben manejarse la Constitución, la Ley 39/2015 y, para entidades locales, la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
 
-## Sector publico y Administraciones Publicas
+## Sector público y Administraciones Públicas
 
-La Ley 40/2015 regula el sector publico en sentido amplio. Incluye la Administracion General del Estado, las Administraciones de las comunidades autonomas, las entidades que integran la Administracion Local y el sector publico institucional.
+La Ley 40/2015 regula el sector público en sentido amplio. Incluye la Administración General del Estado, las Administraciones de las comunidades autonomas, las entidades que integran la Administración Local y el sector público institucional.
 
-No todo el sector publico actua siempre con el mismo regimen juridico. Las Administraciones Publicas territoriales actuan normalmente con sujecion al Derecho Administrativo. Algunas entidades instrumentales pueden actuar en parte con Derecho privado, pero quedan sometidas a principios publicos cuando ejercen potestades administrativas, gestionan fondos publicos, contratan, seleccionan personal o prestan servicios de interes general.
+No todo el sector público actua siempre con el mismo régimen jurídico. Las Administraciones Públicas territoriales actuan normalmente con sujeción al Derecho Administrativo. Algunas entidades instrumentales pueden actuar en parte con Derecho privado, pero quedan sometidas a principios públicos cuando ejercen potestades administrativas, gestionan fondos públicos, contratan, seleccionan personal o prestan servicios de interes general.
 
-## Principios de actuacion y funcionamiento
+## Principios de actuación y funcionamiento
 
-Las Administraciones Publicas sirven con objetividad los intereses generales y actuan conforme a principios de eficacia, eficiencia, jerarquia, descentralizacion, desconcentracion, coordinacion, cooperacion, transparencia, buena fe, confianza legitima, responsabilidad, planificacion y servicio efectivo a los ciudadanos.
+Las Administraciones Públicas sirven con objetividad los intereses generales y actuan conforme a principios de eficacia, eficiencia, jerarquia, descentralización, desconcentración, coordinación, cooperación, transparencia, buena fe, confianza legitima, responsabilidad, planificación y servicio efectivo a los ciudadanos.
 
-La eficacia busca alcanzar fines publicos. La eficiencia exige utilizar racionalmente recursos. La jerarquia ordena relaciones internas entre organos superiores e inferiores. La descentralizacion atribuye competencias a entidades con personalidad propia. La desconcentracion distribuye competencias dentro de una misma Administracion. La coordinacion evita contradicciones y duplicidades. La cooperacion es esencial entre Administraciones sin relacion jerarquica.
+La eficacia busca alcanzar fines públicos. La eficiencia exige utilizar racionalmente recursos. La jerarquia ordena relaciones internas entre órganos superiores e inferiores. La descentralización atribuye competencias a entidades con personalidad propia. La desconcentración distribuye competencias dentro de una misma Administración. La coordinación evita contradicciones y duplicidades. La cooperación es esencial entre Administraciones sin relación jerarquica.
 
-| Principio | Explicacion rapida |
+| Principio | Explicación rapida |
 | --- | --- |
-| Eficacia | Cumplir fines publicos. |
+| Eficacia | Cumplir fines públicos. |
 | Eficiencia | Usar bien los recursos. |
-| Jerarquia | Relacion superior-inferior dentro de la organizacion. |
-| Descentralizacion | Competencias en otra entidad con personalidad propia. |
-| Desconcentracion | Competencias en organos inferiores de la misma Administracion. |
-| Coordinacion | Evitar contradicciones entre actuaciones. |
-| Cooperacion | Colaborar entre Administraciones sin jerarquia. |
-| Transparencia | Hacer comprensible y controlable la actuacion publica. |
+| Jerarquia | Relación superior-inferior dentro de la organización. |
+| Descentralización | Competencias en otra entidad con personalidad propia. |
+| Desconcentración | Competencias en órganos inferiores de la misma Administración. |
+| Coordinación | Evitar contradicciones entre actuaciones. |
+| Cooperación | Colaborar entre Administraciones sin jerarquia. |
+| Transparencia | Hacer comprensible y controlable la actuación pública. |
 
-<mark>Trampa frecuente:</mark> descentralizacion y desconcentracion no son sinonimos. La primera implica otra entidad; la segunda, reparto interno dentro de la misma Administracion.
+<mark>Trampa frecuente:</mark> descentralización y desconcentración no son sinonimos. La primera implica otra entidad; la segunda, reparto interno dentro de la misma Administración.
 
 ## Organos administrativos
 
-Un organo administrativo es la unidad a la que se atribuyen funciones con efectos juridicos frente a terceros o cuya actuacion tenga caracter preceptivo. La Administracion tiene personalidad juridica; los organos no tienen personalidad propia, sino que actuan por ella.
+Un órgano administrativo es la unidad a la que se atribuyen funciones con efectos jurídicos frente a terceros o cuya actuación tenga carácter preceptivo. La Administración tiene personalidad jurídica; los órganos no tienen personalidad propia, sino que actuan por ella.
 
-La creacion de organos exige determinar su integracion en la Administracion, dependencia jerarquica, funciones y creditos necesarios. No pueden crearse organos que dupliquen otros ya existentes sin justificar supresion o restriccion de competencias.
+La creación de órganos exige determinar su integración en la Administración, dependencia jerarquica, funciones y créditos necesarios. No pueden crearse órganos que dupliquen otros ya existentes sin justificar supresión o restricción de competencias.
 
-Los organos pueden ser unipersonales o colegiados. Los unipersonales se integran por una sola persona titular. Los colegiados se componen de varias personas y forman voluntad mediante sesiones, deliberaciones y votaciones.
+Los órganos pueden ser unipersonales o colegiados. Los unipersonales se integran por una sola persona titular. Los colegiados se componen de varias personas y forman voluntad mediante sesiones, deliberaciones y votaciones.
 
 ## Organos colegiados
 
-Los organos colegiados se rigen por reglas de convocatoria, constitucion, deliberacion, votacion, actas y certificacion. En todo organo colegiado existen Presidente, Secretario y miembros. El Presidente ostenta representacion, acuerda convocatoria, fija orden del dia cuando proceda, preside sesiones, modera debates, dirime empates si tiene voto de calidad y asegura cumplimiento de normas. El Secretario prepara convocatorias, asiste a sesiones, levanta actas, expide certificaciones y custodia documentacion.
+Los órganos colegiados se rigen por reglas de convocatoria, constitución, deliberación, votación, actas y certificación. En todo órgano colegiado existen Presidente, Secretario y miembros. El Presidente ostenta representación, acuerda convocatoria, fija orden del día cuando proceda, preside sesiones, modera debates, dirime empates si tiene voto de calidad y asegura cumplimiento de normas. El Secretario prepara convocatorias, asiste a sesiones, levanta actas, expide certificaciones y custodia documentación.
 
-Para constituirse validamente se exige presencia de Presidente y Secretario, o quienes les sustituyan, y quorum de miembros. Las reglas concretas dependen de la normativa aplicable. En organos locales hay especialidades por la Ley de Bases y el ROF.
+Para constituirse validamente se exige presencia de Presidente y Secretario, o quienes les sustituyan, y quorum de miembros. Las reglas concretas dependen de la normativa aplicable. En órganos locales hay especialidades por la Ley de Bases y el ROF.
 
-Las actas documentan asistentes, orden del dia, circunstancias de lugar y tiempo, deliberaciones esenciales si proceden, acuerdos adoptados y resultado de votaciones. El acta es fundamental para acreditar la voluntad del organo.
+Las actas documentan asistentes, orden del día, circunstancias de lugar y tiempo, deliberaciones esenciales si proceden, acuerdos adoptados y resultado de votaciones. El acta es fundamental para acreditar la voluntad del órgano.
 
-| Pieza del organo colegiado | Funcion |
+| Pieza del órgano colegiado | Función |
 | --- | --- |
 | Presidente | Convoca, dirige, modera y asegura cumplimiento de reglas. |
-| Secretario | Da fe, prepara documentacion, levanta acta y certifica. |
+| Secretario | Da fe, prepara documentación, levanta acta y certifica. |
 | Miembros | Deliberan y votan. |
-| Convocatoria | Comunica sesion y orden del dia. |
-| Acta | Documenta formalmente la sesion y acuerdos. |
+| Convocatoria | Comunica sesión y orden del día. |
+| Acta | Documenta formalmente la sesión y acuerdos. |
 
-Para que el acuerdo sea valido no basta con que exista mayoria politica: deben respetarse convocatoria, quorum, competencia, deliberacion, votacion y documentacion.
+Para que el acuerdo sea valido no basta con que exista mayoria política: deben respetarse convocatoria, quorum, competencia, deliberación, votación y documentación.
 
 ## Competencia administrativa
 
-La competencia es el conjunto de funciones atribuidas a un organo. Es irrenunciable y se ejerce por los organos que la tienen atribuida, salvo los mecanismos legalmente previstos.
+La competencia es el conjunto de funciones atribuidas a un órgano. Es irrenunciable y se ejerce por los órganos que la tienen atribuida, salvo los mecanismos legalmente previstos.
 
-La competencia puede atribuirse por materia, territorio y jerarquia. Un acto dictado por organo manifiestamente incompetente por materia o territorio es nulo. Si la incompetencia no es manifiesta o es jerarquica, puede generar anulabilidad.
+La competencia puede atribuirse por materia, territorio y jerarquia. Un acto dictado por órgano manifiestamente incompetente por materia o territorio es nulo. Si la incompetencia no es manifiesta o es jerarquica, puede generar anulabilidad.
 
 | Tipo de competencia | Ejemplo |
 | --- | --- |
-| Materia | Urbanismo, tributos, personal, contratacion. |
-| Territorio | Termino municipal o ambito territorial del organo. |
+| Materia | Urbanismo, tributos, personal, contratación. |
+| Territorio | Termino municipal o ámbito territorial del órgano. |
 | Jerarquia | Organo superior o inferior dentro de la estructura. |
 
-La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas tecnicas es alterar el ejercicio, la firma o la gestion material, pero no renunciar a la titularidad fuera de la ley.
+La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas técnicas es alterar el ejercicio, la firma o la gestion material, pero no renunciar a la titularidad fuera de la ley.
 
-## Desconcentracion
+## Desconcentración
 
-La desconcentracion atribuye competencias de organos superiores a organos inferiores dentro de la misma Administracion. Tiene caracter estable y se aprueba por norma. Busca acercar decisiones, agilizar gestion y descargar organos superiores.
+La desconcentración atribuye competencias de órganos superiores a órganos inferiores dentro de la misma Administración. Tiene carácter estable y se aprueba por norma. Busca acercar decisiones, agilizar gestion y descargar órganos superiores.
 
-No debe confundirse con descentralizacion, que transfiere competencias a otra entidad con personalidad juridica propia.
+No debe confundirse con descentralización, que transfiere competencias a otra entidad con personalidad jurídica propia.
 
-## Delegacion
+## Delegación
 
-La delegacion permite que un organo encomiende el ejercicio de competencias a otro organo de la misma Administracion o de entidades dependientes, aunque no sean jerarquicamente dependientes, en los terminos de la Ley 40/2015.
+La delegación permite que un órgano encomiende el ejercicio de competencias a otro órgano de la misma Administración o de entidades dependientes, aunque no sean jerarquicamente dependientes, en los terminos de la Ley 40/2015.
 
-No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autonomas y asambleas legislativas; adopcion de disposiciones generales; resolucion de recursos en organos que dictaron actos; ni materias prohibidas por norma.
+No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autonomas y asambleas legislativas; adopción de disposiciones generales; resolución de recursos en órganos que dictaron actos; ni materias prohibidas por norma.
 
-Los actos dictados por delegacion se consideran dictados por el organo delegante y deben indicar expresamente esta circunstancia.
+Los actos dictados por delegación se consideran dictados por el órgano delegante y deben indicar expresamente esta circunstancia.
 
 | Tecnica | Altera titularidad? | Alcance |
 | --- | --- | --- |
-| Delegacion | No | Otro organo ejerce la competencia delegada. |
-| Avocacion | No | El superior asume un asunto concreto. |
-| Encomienda | No | Encargo material o tecnico, no decision juridica. |
-| Delegacion de firma | No | Solo se autoriza firmar por otro. |
-| Suplencia | No | Sustitucion temporal del titular. |
+| Delegación | No | Otro órgano ejerce la competencia delegada. |
+| Avocación | No | El superior asume un asunto concreto. |
+| Encomienda | No | Encargo material o tecnico, no decisión jurídica. |
+| Delegación de firma | No | Solo se autoriza firmar por otro. |
+| Suplencia | No | Sustitución temporal del titular. |
 
-<mark>Clave:</mark> si se dicta una resolucion juridica, debe hacerlo el organo competente o quien ejerza validamente la competencia. La encomienda no permite que el encomendado decida el fondo.
+<mark>Clave:</mark> si se dicta una resolución jurídica, debe hacerlo el órgano competente o quien ejerza validamente la competencia. La encomienda no permite que el encomendado decida el fondo.
 
-## Avocacion
+## Avocación
 
-La avocacion permite que un organo superior asuma para si el conocimiento de un asunto cuya resolucion corresponda ordinariamente o por delegacion a un organo dependiente. Debe motivarse por circunstancias tecnicas, economicas, sociales, juridicas o territoriales.
+La avocación permite que un órgano superior asuma para si el conocimiento de un asunto cuya resolución corresponda ordinariamente o por delegación a un órgano dependiente. Debe motivarse por circunstancias técnicas, económicas, sociales, jurídicas o territoriales.
 
-La avocacion es puntual, referida a un asunto concreto. No altera de forma permanente la distribucion de competencias.
+La avocación es puntual, referida a un asunto concreto. No altera de forma permanente la distribución de competencias.
 
 ## Encomienda de gestion
 
-La encomienda de gestion supone encargar actividades materiales o tecnicas a otro organo o entidad por razones de eficacia o falta de medios idoneos. No transfiere titularidad de competencia ni elementos sustantivos de su ejercicio. El organo encomendante sigue siendo responsable de dictar actos o resoluciones juridicas.
+La encomienda de gestion supone encargar actividades materiales o técnicas a otro órgano o entidad por razones de eficacia o falta de medios idoneos. No transfiere titularidad de competencia ni elementos sustantivos de su ejercicio. El órgano encomendante sigue siendo responsable de dictar actos o resoluciones jurídicas.
 
-No puede tener por objeto prestaciones propias de contratos del sector publico si concurren sus elementos, porque entonces debe acudirse a contratacion.
+No puede tener por objeto prestaciones propias de contratos del sector público si concurren sus elementos, porque entonces debe acudirse a contratación.
 
-## Delegacion de firma y suplencia
+## Delegación de firma y suplencia
 
-La delegacion de firma permite que un titular autorice a otro organo o unidad dependiente a firmar actos en su nombre. No altera competencia ni requiere publicacion, salvo norma especifica. En los documentos debe constar la autoridad de procedencia.
+La delegación de firma permite que un titular autorice a otro órgano o unidad dependiente a firmar actos en su nombre. No altera competencia ni requiere publicación, salvo norma específica. En los documentos debe constar la autoridad de procedencia.
 
-La suplencia sustituye temporalmente al titular de un organo en casos de vacante, ausencia, enfermedad, abstencion o recusacion. Tampoco altera competencia; solo permite continuidad administrativa.
+La suplencia sustituye temporalmente al titular de un órgano en casos de vacante, ausencia, enfermedad, abstención o recusación. Tampoco altera competencia; solo permite continuidad administrativa.

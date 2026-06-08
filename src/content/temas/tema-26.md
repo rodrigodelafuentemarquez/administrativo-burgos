@@ -139,7 +139,7 @@ El ROF distingue los siguientes tipos de votación (art. 95 y ss.):
 | Tipo | Descripción | Cuándo se usa |
 |---|---|---|
 | **Ordinaria** | Mediante signos convencionales: alzando la mano, poniéndose en pie o mediante llamada nominal registrada en acta | Regla general para todos los asuntos |
-| **Nominal** | Se llama a cada miembro por su nombre y este manifiesta su voto en voz alta (sí, no o abstención) | Cuando lo solicite algún miembro o lo decida la Presidencia |
+| **Nominal** | Se llama a cada miembro por su nombre y este manifiesta su voto en voz alta (sí, no o abstención) | Cuándo lo solicite algún miembro o lo decida la Presidencia |
 | **Secreta** | Mediante papeletas o sistema equivalente | Solo para asuntos que afecten a personas (por ejemplo, elección de cargos) o cuando lo acuerde el órgano por mayoría |
 
 La votación ordinaria o nominal es la regla general. La votación secreta es la excepción y requiere una causa que la justifique.

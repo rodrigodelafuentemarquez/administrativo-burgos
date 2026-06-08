@@ -312,7 +312,7 @@ Si la Administración no adopta las medidas sugeridas, el Procurador puede inclu
 
 ### 4.9 Relaciones con el Defensor del Pueblo
 
-El Procurador del Común coordina su actividad con el **Defensor del Pueblo** estatal. Cuando una queja afecte simultáneamente a la Administración estatal y a la autonómica o local, ambas instituciones colaboran para una mejor atención al ciudadano.
+El Procurador del Común coordina su actividad con el **Defensor del Pueblo** estatal. Cuándo una queja afecte simultáneamente a la Administración estatal y a la autonómica o local, ambas instituciones colaboran para una mejor atención al ciudadano.
 
 En caso de conflicto de atribuciones, prevalece la competencia del **Defensor del Pueblo** cuando se trate de actos de la Administración General del Estado.
 

@@ -208,7 +208,7 @@ El marco normativo actual de la protección de datos en España se compone de do
 Adoptado por el Parlamento Europeo y el Consejo de la UE, es directamente aplicable en todos los Estados miembros desde el **25 de mayo de 2018** sin necesidad de transposición. Al ser un Reglamento (no una Directiva), crea un marco normativo uniforme en toda la UE y tiene primacía sobre las leyes nacionales. Sustituyó a la Directiva 95/46/CE, que había sido la norma marco hasta entonces.
 
 **2. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD):**
-Adapta el ordenamiento español al RGPD, ejerciendo las habilitaciones que el Reglamento concede a los Estados miembros para regular determinadas materias. Derogó la anterior Ley Orgánica 15/1999 (LOPD). Como ley orgánica, su aprobación requirió mayoría absoluta del Congreso.
+Adapta el ordenamiento español al RGPD, ejerciendo las habilitaciones que el Reglamento concede a los Estados miembros para regular determinadas materias. Derogó la anterior Ley Orgánica 15/1999 (LOPD). Cómo ley orgánica, su aprobación requirió mayoría absoluta del Congreso.
 
 ### 5.3 Conceptos fundamentales
 
@@ -317,7 +317,7 @@ El interesado tiene derecho a **recibir sus datos en un formato estructurado, de
 
 ### 8.7 Derecho de oposición
 
-El interesado tiene derecho a **oponerse** en cualquier momento al tratamiento de sus datos cuando esté basado en el interés público o en el interés legítimo, incluida la elaboración de perfiles. Cuando se ejerce este derecho, el responsable debe cesar el tratamiento salvo que acredite motivos legítimos imperiosos que prevalezcan sobre los intereses del interesado.
+El interesado tiene derecho a **oponerse** en cualquier momento al tratamiento de sus datos cuando esté basado en el interés público o en el interés legítimo, incluida la elaboración de perfiles. Cuándo se ejerce este derecho, el responsable debe cesar el tratamiento salvo que acredite motivos legítimos imperiosos que prevalezcan sobre los intereses del interesado.
 
 ### 8.8 Derechos frente a decisiones automatizadas y elaboración de perfiles
 
@@ -341,7 +341,7 @@ El responsable y el encargado deben llevar un **Registro de Actividades de Trata
 
 ### 9.3 La Evaluación de Impacto sobre la Protección de Datos (EIPD)
 
-Cuando un tratamiento sea susceptible de entrañar un **alto riesgo** para los derechos y libertades de las personas (tratamientos a gran escala, datos sensibles, perfilado, vigilancia sistemática de áreas públicas, etc.), el responsable debe realizar previamente una **Evaluación de Impacto sobre la Protección de Datos (EIPD)**. La EIPD analiza la necesidad y proporcionalidad del tratamiento, evalúa los riesgos y determina las medidas para mitigarlos.
+Cuándo un tratamiento sea susceptible de entrañar un **alto riesgo** para los derechos y libertades de las personas (tratamientos a gran escala, datos sensibles, perfilado, vigilancia sistemática de áreas públicas, etc.), el responsable debe realizar previamente una **Evaluación de Impacto sobre la Protección de Datos (EIPD)**. La EIPD analiza la necesidad y proporcionalidad del tratamiento, evalúa los riesgos y determina las medidas para mitigarlos.
 
 ### 9.4 La notificación de brechas de seguridad
 

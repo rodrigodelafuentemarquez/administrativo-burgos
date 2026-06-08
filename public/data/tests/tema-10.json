@@ -2,30 +2,30 @@
   {
     "id": "pdf-2023-burgos-q24",
     "tema": 10,
-    "pregunta": "El Codigo Civil recoge literalmente en su articulo 1.1 que las fuentes del ordenamiento juridico espanol son:",
+    "pregunta": "El Código Civil recoge literalmente en su artículo 1.1 que las fuentes del ordenamiento jurídico español son:",
     "opciones": [
-      "La Constitucion, las leyes y los reglamentos",
+      "La Constitución, las leyes y los reglamentos",
       "Las leyes, la costumbre y los reglamentos",
       "La ley, la costumbre y los principios generales del derecho",
-      "La Constitucion y la ley"
+      "La Constitución y la ley"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 24",
-    "explicacion": "El articulo 1.1 del Codigo Civil enumera la ley, la costumbre y los principios generales del derecho."
+    "explicación": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho."
   },
   {
     "id": "pdf-2023-burgos-q25",
     "tema": 10,
-    "pregunta": "El articulo 86 de la Constitucion Espanola establece que:",
+    "pregunta": "El artículo 86 de la Constitución Española establece que:",
     "opciones": [
-      "El Gobierno podra dictar, siempre que se necesite, disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
-      "En caso de extraordinaria y urgente necesidad, el Gobierno podra dictar disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
+      "El Gobierno podrá dictar, siempre que se necesite, disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
       "El Gobierno no puede dictar disposiciones legislativas",
-      "En caso de extraordinaria y urgente necesidad, el Gobierno podra dictar leyes especiales sin control parlamentario"
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar leyes especiales sin control parlamentario"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 25",
-    "explicacion": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad."
+    "explicación": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad."
   },
   {
     "id": "t11-p001",
@@ -38,7 +38,7 @@
       "Solo el procedimiento penal"
     ],
     "correcta": 1,
-    "explicacion": "El tema define el Derecho Administrativo como la rama que regula organización, funcionamiento, potestades y actividad administrativa.",
+    "explicación": "El tema define el Derecho Administrativo como la rama que regula organización, funcionamiento, potestades y actividad administrativa.",
     "referencia": "II.1 · 1.1 Concepto"
   },
   {
@@ -52,7 +52,7 @@
       "Penal"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica expresamente que el Derecho Administrativo es estatutario.",
+    "explicación": "El tema indica expresamente que el Derecho Administrativo es estatutario.",
     "referencia": "II.1 · 1.1 Concepto"
   },
   {
@@ -66,7 +66,7 @@
       "la discrecionalidad política"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge el principio de legalidad proclamado en los arts. 9.1 y 103.1 CE.",
+    "explicación": "El tema recoge el principio de legalidad proclamado en los arts. 9.1 y 103.1 CE.",
     "referencia": "II.1 · 1.2 El principio de legalidad"
   },
   {
@@ -80,7 +80,7 @@
       "Quinto rango"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa la Constitución en la cúspide del orden jerárquico.",
+    "explicación": "El tema sitúa la Constitución en la cúspide del orden jerárquico.",
     "referencia": "II.1 · 2.2 La jerarquía normativa"
   },
   {
@@ -94,7 +94,7 @@
       "Sexto"
     ],
     "correcta": 2,
-    "explicacion": "El esquema del tema sitúa los reglamentos por debajo de leyes y normas con rango de ley.",
+    "explicación": "El esquema del tema sitúa los reglamentos por debajo de leyes y normas con rango de ley.",
     "referencia": "II.1 · 2.2 La jerarquía normativa"
   },
   {
@@ -108,7 +108,7 @@
       "No vincula a los poderes públicos"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya la eficacia directa de la Constitución.",
+    "explicación": "El tema subraya la eficacia directa de la Constitución.",
     "referencia": "II.1 · 3.2 Eficacia directa"
   },
   {
@@ -122,7 +122,7 @@
       "conveniencia política del Gobierno"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica la extraordinaria y urgente necesidad como presupuesto del decreto-ley.",
+    "explicación": "El tema identifica la extraordinaria y urgente necesidad como presupuesto del decreto-ley.",
     "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)"
   },
   {
@@ -136,7 +136,7 @@
       "2 meses"
     ],
     "correcta": 2,
-    "explicacion": "El tema señala el plazo de 30 días para convalidar, derogar o tramitar como proyecto de ley.",
+    "explicación": "El tema señala el plazo de 30 días para convalidar, derogar o tramitar como proyecto de ley.",
     "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)"
   },
   {
@@ -150,7 +150,7 @@
       "una iniciativa popular"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo define como norma con rango de ley dictada por el Gobierno en virtud de delegación de las Cortes.",
+    "explicación": "El tema lo define como norma con rango de ley dictada por el Gobierno en virtud de delegación de las Cortes.",
     "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
   },
   {
@@ -164,7 +164,7 @@
       "De urgencia"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que los reglamentos ejecutivos desarrollan una ley y requieren dictamen obligatorio del Consejo de Estado.",
+    "explicación": "El tema indica que los reglamentos ejecutivos desarrollan una ley y requieren dictamen obligatorio del Consejo de Estado.",
     "referencia": "II.1 · 6.3 Clases de reglamentos"
   },
   {
@@ -178,7 +178,7 @@
       "válido hasta que lo derogue otra norma reglamentaria"
     ],
     "correcta": 1,
-    "explicacion": "El tema afirma que un reglamento contra legem es nulo.",
+    "explicación": "El tema afirma que un reglamento contra legem es nulo.",
     "referencia": "II.1 · 6.4 Límites del poder reglamentario"
   },
   {
@@ -192,7 +192,7 @@
       "Veto del Senado"
     ],
     "correcta": 0,
-    "explicacion": "El tema menciona la consulta pública previa como primer paso salvo excepciones.",
+    "explicación": "El tema menciona la consulta pública previa como primer paso salvo excepciones.",
     "referencia": "II.1 · 6.5 Procedimiento de elaboración de reglamentos"
   },
   {
@@ -206,7 +206,7 @@
       "El reglamento"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que la costumbre tiene aplicación muy residual en Derecho Administrativo.",
+    "explicación": "El tema señala que la costumbre tiene aplicación muy residual en Derecho Administrativo.",
     "referencia": "II.1 · 7.1 La costumbre"
   },
   {
@@ -220,7 +220,7 @@
       "deroga las leyes"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge que la jurisprudencia complementa el ordenamiento, pero no es formalmente fuente.",
+    "explicación": "El tema recoge que la jurisprudencia complementa el ordenamiento, pero no es formalmente fuente.",
     "referencia": "II.1 · 7.3 La jurisprudencia"
   },
   {
@@ -234,7 +234,7 @@
       "La delegación legislativa"
     ],
     "correcta": 1,
-    "explicacion": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE.",
+    "explicación": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE.",
     "referencia": "II.1 · 1.2 El principio de legalidad"
   },
   {
@@ -248,35 +248,35 @@
       "aprobación por decreto-ley"
     ],
     "correcta": 0,
-    "explicacion": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto.",
+    "explicación": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto.",
     "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)"
   },
   {
     "id": "t11-p017",
     "tema": 10,
-    "pregunta": "Segun el art. 81.1 CE, tienen caracter de leyes organicas, entre otras:",
+    "pregunta": "Según el art. 81.1 CE, tienen carácter de leyes organicas, entre otras:",
     "opciones": [
-      "Las relativas al desarrollo de los derechos fundamentales y libertades publicas",
+      "Las relativas al desarrollo de los derechos fundamentales y libertades públicas",
       "Todas las leyes aprobadas por mayoria absoluta en ambas Camaras",
       "Las leyes de presupuestos generales del Estado",
       "Los reglamentos ejecutivos del Gobierno"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el desarrollo de los derechos fundamentales y libertades publicas entre las materias reservadas a ley organica.",
-    "referencia": "II.1 · 4.2 Ley Organica (art. 81 CE)"
+    "explicación": "El tema incluye el desarrollo de los derechos fundamentales y libertades públicas entre las materias reservadas a ley orgánica.",
+    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)"
   },
   {
     "id": "t11-p018",
     "tema": 10,
-    "pregunta": "Segun el art. 82 CE, cuando la delegacion legislativa tenga por objeto la formacion de textos articulados, debera otorgarse mediante:",
+    "pregunta": "Según el art. 82 CE, cuando la delegación legislativa tenga por objeto la formación de textos articulados, debera otorgarse mediante:",
     "opciones": [
       "Ley de bases",
-      "Ley ordinaria de autorizacion",
+      "Ley ordinaria de autorización",
       "Decreto-ley",
       "Reglamento parlamentario"
     ],
     "correcta": 0,
-    "explicacion": "La delegacion para formar textos articulados se canaliza a traves de una ley de bases.",
+    "explicación": "La delegación para formar textos articulados se canaliza a traves de una ley de bases.",
     "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
   },
   {
@@ -290,7 +290,7 @@
       "privado y mercantil"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue expresamente entre sentido subjetivo u orgánico y sentido objetivo o funcional.",
+    "explicación": "El tema distingue expresamente entre sentido subjetivo u orgánico y sentido objetivo o funcional.",
     "referencia": "II.1 · 1.1 Aproximación al concepto"
   },
   {
@@ -304,7 +304,7 @@
       "Art. 137 CE"
     ],
     "correcta": 1,
-    "explicacion": "El tema remite al art. 103 CE como sede de los principios administrativos.",
+    "explicación": "El tema remite al art. 103 CE como sede de los principios administrativos.",
     "referencia": "II.1 · 1.2 Reconocimiento constitucional"
   },
   {
@@ -318,7 +318,7 @@
       "solo entes territoriales con potestad legislativa"
     ],
     "correcta": 1,
-    "explicacion": "El tema enumera expresamente esas cuatro categorías.",
+    "explicación": "El tema enumera expresamente esas cuatro categorías.",
     "referencia": "II.1 · 1.3 Las Administraciones Públicas en la LRJSP"
   },
   {
@@ -332,7 +332,7 @@
       "Su independencia absoluta del Gobierno"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como conjunto de personas jurídico-públicas con personalidad jurídica propia, sometidas al Derecho Administrativo.",
+    "explicación": "El tema la define como conjunto de personas jurídico-públicas con personalidad jurídica propia, sometidas al Derecho Administrativo.",
     "referencia": "II.1 · 1.1 Aproximación al concepto"
   },
   {
@@ -346,7 +346,7 @@
       "Lealtad institucional"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que la desconcentración actúa dentro de una misma Administración y persona jurídica.",
+    "explicación": "El tema explica que la desconcentración actúa dentro de una misma Administración y persona jurídica.",
     "referencia": "II.1 · 2.2.3 Desconcentración"
   },
   {
@@ -360,7 +360,7 @@
       "órganos judiciales"
     ],
     "correcta": 1,
-    "explicacion": "El tema la identifica con la transferencia a entes territoriales distintos dotados de personalidad jurídica.",
+    "explicación": "El tema la identifica con la transferencia a entes territoriales distintos dotados de personalidad jurídica.",
     "referencia": "II.1 · 2.2.2 Descentralización"
   },
   {
@@ -374,7 +374,7 @@
       "Jerarquía normativa"
     ],
     "correcta": 0,
-    "explicacion": "El tema menciona la autotutela declarativa y ejecutiva como potestades administrativas características.",
+    "explicación": "El tema menciona la autotutela declarativa y ejecutiva como potestades administrativas carácterísticas.",
     "referencia": "II.1 · 1.4 Las potestades administrativas"
   },
   {
@@ -388,7 +388,7 @@
       "lo autorice la costumbre"
     ],
     "correcta": 0,
-    "explicacion": "El tema identifica el principio de vinculación positiva: la Administración solo puede hacer lo que la ley permite.",
+    "explicación": "El tema identifica el principio de vinculación positiva: la Administración solo puede hacer lo que la ley permite.",
     "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
   },
   {
@@ -402,7 +402,7 @@
       "Solo la actividad contractual privada"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge el art. 106 CE en estos términos.",
+    "explicación": "El tema recoge el art. 106 CE en estos términos.",
     "referencia": "II.1 · 3.4 Control judicial de la Administración"
   },
   {
@@ -416,7 +416,7 @@
       "controlada por los tribunales"
     ],
     "correcta": 1,
-    "explicacion": "El tema diferencia discrecionalidad de arbitrariedad y prohíbe la actuación caprichosa.",
+    "explicación": "El tema diferencia discrecionalidad de arbitrariedad y prohíbe la actuación caprichosa.",
     "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad"
   },
   {
@@ -430,7 +430,7 @@
       "Supletoriedad"
     ],
     "correcta": 0,
-    "explicacion": "El tema cita la proporcionalidad como parámetro de control de la discrecionalidad.",
+    "explicación": "El tema cita la proporcionalidad como parámetro de control de la discrecionalidad.",
     "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad"
   },
   {
@@ -444,7 +444,7 @@
       "solo pueden crear normas"
     ],
     "correcta": 1,
-    "explicacion": "El tema dice que los órganos actúan en nombre de la Administración y no tienen personalidad jurídica propia.",
+    "explicación": "El tema dice que los órganos actúan en nombre de la Administración y no tienen personalidad jurídica propia.",
     "referencia": "II.1 · 1.2 Personalidad jurídica"
   },
   {
@@ -458,7 +458,7 @@
       "Potestad constituyente"
     ],
     "correcta": 1,
-    "explicacion": "El tema enumera la potestad expropiatoria entre las principales potestades administrativas.",
+    "explicación": "El tema enumera la potestad expropiatoria entre las principales potestades administrativas.",
     "referencia": "II.1 · 1.4 Las potestades administrativas"
   },
   {
@@ -472,7 +472,7 @@
       "reglamentos orgánicos del Parlamento"
     ],
     "correcta": 0,
-    "explicacion": "El tema presenta esas técnicas como instrumentos de coordinación interadministrativa.",
+    "explicación": "El tema presenta esas técnicas como instrumentos de coordinación interadministrativa.",
     "referencia": "II.1 · 2.2.4 Coordinación"
   },
   {
@@ -486,7 +486,7 @@
       "dictados solo por órganos colegiados"
     ],
     "correcta": 1,
-    "explicacion": "El tema distingue la legalidad material como conformidad con el contenido de la ley.",
+    "explicación": "El tema distingue la legalidad material como conformidad con el contenido de la ley.",
     "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
   }
 ]

@@ -10,7 +10,7 @@
       "la convocatoria de elecciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la negociación colectiva como derecho colectivo.",
+    "explicación": "El tema enumera la negociación colectiva como derecho colectivo.",
     "referencia": "III.4 · 3.2 Derechos individuales de ejercicio colectivo (art. 15 TREBEP)"
   },
   {
@@ -24,7 +24,7 @@
       "no hay limitaciones para el empleo privado"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo expresa como principio general.",
+    "explicación": "El tema lo expresa como principio general.",
     "referencia": "III.4 · 7.2 Principio general"
   },
   {
@@ -38,7 +38,7 @@
       "una actividad privada que genere conflicto de intereses con el servicio público"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye la creación literaria, artística, científica y técnica entre las actividades permitidas sin autorización.",
+    "explicación": "El tema incluye la creación literaria, artística, científica y técnica entre las actividades permitidas sin autorización.",
     "referencia": "III.4 · 7.4 Actividades permitidas sin necesidad de autorización"
   },
   {
@@ -46,116 +46,116 @@
     "tema": 25,
     "pregunta": "De acuerdo con el Tema 46, cual de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
     "opciones": [
-      "La negociacion colectiva",
-      "La libre eleccion del puesto sin procedimiento de provision",
-      "La percepcion automatica del complemento de productividad",
+      "La negociación colectiva",
+      "La libre elección del puesto sin procedimiento de provisión",
+      "La percepción automatica del complemento de productividad",
       "La inamovilidad en cualquier puesto concreto"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye la negociacion colectiva entre los derechos individuales de ejercicio colectivo.",
+    "explicación": "El tema incluye la negociación colectiva entre los derechos individuales de ejercicio colectivo.",
     "referencia": "III.4 · 8.1 Derechos"
   },
   {
     "id": "t46-p024",
     "tema": 25,
-    "pregunta": "Segun el Tema 46, el incumplimiento de los servicios minimos en caso de huelga por parte del personal al servicio de la Administracion:",
+    "pregunta": "Según el Tema 46, el incumplimiento de los servicios mínimos en caso de huelga por parte del personal al servicio de la Administración:",
     "opciones": [
       "No produce consecuencia alguna al tratarse del ejercicio de un derecho fundamental",
       "Puede dar lugar a responsabilidad disciplinaria",
-      "Supone automaticamente la perdida de la condicion de funcionario",
+      "Supone automaticamente la perdida de la condición de funcionario",
       "Solo puede sancionarse penalmente"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica expresamente que el incumplimiento de los servicios minimos puede generar responsabilidad disciplinaria.",
+    "explicación": "El tema indica expresamente que el incumplimiento de los servicios mínimos puede generar responsabilidad disciplinaria.",
     "referencia": "III.4 · 10.3 El derecho de huelga"
   },
   {
     "id": "t46-p028",
     "tema": 25,
-    "pregunta": "De acuerdo con el Tema 46, son objeto de negociacion colectiva, entre otras materias:",
+    "pregunta": "De acuerdo con el Tema 46, son objeto de negociación colectiva, entre otras materias:",
     "opciones": [
-      "La aplicacion del incremento de retribuciones y los planes de empleo y oferta de empleo publico",
-      "La imposicion individual de sanciones disciplinarias muy graves",
-      "La resolucion de los expedientes de incompatibilidades concretos",
-      "La designacion nominativa de los miembros de los tribunales selectivos"
+      "La aplicación del incremento de retribuciones y los planes de empleo y oferta de empleo público",
+      "La imposición individual de sanciones disciplinarias muy graves",
+      "La resolución de los expedientes de incompatibilidades concretos",
+      "La designación nominativa de los miembros de los tribunales selectivos"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye expresamente esas materias entre las negociables en las Mesas de Negociacion.",
-    "referencia": "III.4 · 10.2 Materias objeto de negociacion"
+    "explicación": "El tema incluye expresamente esas materias entre las negociables en las Mesas de Negociación.",
+    "referencia": "III.4 · 10.2 Materias objeto de negociación"
   },
   {
     "id": "topup-25-04",
     "pregunta": "No todas las materias son negociables porque quedan fuera, entre otras, las relativas a:",
     "opciones": [
-      "potestades publicas y regulacion de derechos de la ciudadania",
+      "potestades públicas y regulación de derechos de la ciudadania",
       "vacaciones y jornada",
       "salud laboral",
-      "accion social"
+      "acción social"
     ],
     "correcta": 0,
-    "explicacion": "La negociacion colectiva tiene limites materiales en el empleo publico.",
-    "referencia": "III.4 · Negociacion colectiva",
+    "explicación": "La negociación colectiva tiene limites materiales en el empleo público.",
+    "referencia": "III.4 · Negociación colectiva",
     "tema": 25
   },
   {
     "id": "topup-25-06",
     "pregunta": "En servicios esenciales para la comunidad, la huelga puede someterse a:",
     "opciones": [
-      "servicios minimos proporcionados y motivados",
-      "prohibicion absoluta automatica",
-      "autorizacion judicial previa en todo caso",
+      "servicios mínimos proporcionados y motivados",
+      "prohibición absoluta automatica",
+      "autorización judicial previa en todo caso",
       "silencio administrativo negativo"
     ],
     "correcta": 0,
-    "explicacion": "Los servicios minimos deben conciliar el derecho de huelga con la continuidad de servicios esenciales.",
+    "explicación": "Los servicios mínimos deben conciliar el derecho de huelga con la continuidad de servicios esenciales.",
     "referencia": "III.4 · Derecho de huelga",
     "tema": 25
   },
   {
     "id": "topup-25-07",
-    "pregunta": "Durante la huelga, con caracter general, se suspende:",
+    "pregunta": "Durante la huelga, con carácter general, se suspende:",
     "opciones": [
       "el trabajo y el salario en los terminos legales",
-      "la relacion estatutaria de forma definitiva",
+      "la relación estatutaria de forma definitiva",
       "la existencia del Ayuntamiento",
-      "la vigencia de la Constitucion"
+      "la vigencia de la Constitución"
     ],
     "correcta": 0,
-    "explicacion": "La huelga tiene efectos suspensivos sobre trabajo y retribucion.",
+    "explicación": "La huelga tiene efectos suspensivos sobre trabajo y retribución.",
     "referencia": "III.4 · Derecho de huelga",
     "tema": 25
   },
   {
     "id": "topup-25-08",
-    "pregunta": "El regimen de incompatibilidades persigue especialmente salvaguardar:",
+    "pregunta": "El régimen de incompatibilidades persigue especialmente salvaguardar:",
     "opciones": [
       "imparcialidad e independencia",
-      "la discrecionalidad politica absoluta",
+      "la discrecionalidad política absoluta",
       "la reserva judicial",
       "la inviolabilidad parlamentaria"
     ],
     "correcta": 0,
-    "explicacion": "Las incompatibilidades evitan conflictos de intereses y garantizan dedicacion al puesto publico.",
-    "referencia": "III.4 · Regimen de incompatibilidades",
+    "explicación": "Las incompatibilidades evitan conflictos de intereses y garantizan dedicación al puesto público.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
     "tema": 25
   },
   {
     "id": "topup-25-09",
-    "pregunta": "La regla general en materia de incompatibilidades del personal publico es que:",
+    "pregunta": "La regla general en materia de incompatibilidades del personal público es que:",
     "opciones": [
-      "no se puede compatibilizar un puesto publico con otro salvo excepciones legales",
-      "siempre se pueden acumular dos puestos publicos",
+      "no se puede compatibilizar un puesto público con otro salvo excepciones legales",
+      "siempre se pueden acumular dos puestos públicos",
       "solo se prohiben las actividades artisticas",
-      "la compatibilidad nunca necesita autorizacion"
+      "la compatibilidad nunca necesita autorización"
     ],
     "correcta": 0,
-    "explicacion": "La compatibilidad es excepcional y debe ajustarse a la ley.",
-    "referencia": "III.4 · Regimen de incompatibilidades",
+    "explicación": "La compatibilidad es excepcional y debe ajustarse a la ley.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
     "tema": 25
   },
   {
     "id": "topup-25-10",
-    "pregunta": "Una actividad privada relacionada con expedientes tramitados por el empleado publico puede ser incompatible por afectar a la:",
+    "pregunta": "Una actividad privada relacionada con expedientes tramitados por el empleado público puede ser incompatible por afectar a la:",
     "opciones": [
       "imparcialidad",
       "publicidad activa",
@@ -163,8 +163,8 @@
       "investidura"
     ],
     "correcta": 0,
-    "explicacion": "El conflicto de intereses es uno de los riesgos centrales del regimen de incompatibilidades.",
-    "referencia": "III.4 · Regimen de incompatibilidades",
+    "explicación": "El conflicto de intereses es uno de los riesgos centrales del régimen de incompatibilidades.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
     "tema": 25
   },
   {
@@ -177,106 +177,106 @@
       "cuando lo autorice verbalmente un companero"
     ],
     "correcta": 0,
-    "explicacion": "La autorizacion previa es esencial en el regimen de incompatibilidades.",
+    "explicación": "La autorización previa es esencial en el régimen de incompatibilidades.",
     "referencia": "III.4 · Compatibilidad",
     "tema": 25
   },
   {
     "id": "topup-25-12",
-    "pregunta": "Entre las actividades normalmente exceptuadas del regimen de incompatibilidades se encuentra:",
+    "pregunta": "Entre las actividades normalmente exceptuadas del régimen de incompatibilidades se encuentra:",
     "opciones": [
-      "la administracion del patrimonio personal",
-      "la tramitacion privada de licencias del propio Ayuntamiento",
-      "la representacion habitual de contratistas municipales",
-      "la inspeccion privada de expedientes sancionadores"
+      "la administración del patrimonio personal",
+      "la tramitación privada de licencias del propio Ayuntamiento",
+      "la representación habitual de contratistas municipales",
+      "la inspección privada de expedientes sancionadores"
     ],
     "correcta": 0,
-    "explicacion": "La ley exceptua determinadas actividades que no comprometen la imparcialidad en los terminos legales.",
+    "explicación": "La ley exceptua determinadas actividades que no comprometen la imparcialidad en los terminos legales.",
     "referencia": "III.4 · Compatibilidad",
     "tema": 25
   },
   {
     "id": "topup-25-13",
-    "pregunta": "El incumplimiento del regimen de incompatibilidades puede generar:",
+    "pregunta": "El incumplimiento del régimen de incompatibilidades puede generar:",
     "opciones": [
       "responsabilidad disciplinaria",
       "investidura automatica",
-      "nulidad de toda la funcion publica",
-      "creacion de una tasa municipal"
+      "nulidad de toda la función pública",
+      "creación de una tasa municipal"
     ],
     "correcta": 0,
-    "explicacion": "El incumplimiento puede derivar en sanciones y otras consecuencias juridicas.",
+    "explicación": "El incumplimiento puede derivar en sanciones y otras consecuencias jurídicas.",
     "referencia": "III.4 · Incompatibilidades",
     "tema": 25
   },
   {
     "id": "refine-25-01",
-    "pregunta": "La libertad sindical en el empleo publico comprende, entre otras facultades, la de:",
+    "pregunta": "La libertad sindical en el empleo público comprende, entre otras facultades, la de:",
     "opciones": [
-      "fundar sindicatos y afiliarse al de su eleccion",
+      "fundar sindicatos y afiliarse al de su elección",
       "suspender unilateralmente cualquier procedimiento administrativo",
       "ocupar sin limite cualquier dependencia municipal",
       "eximir de cumplimiento de jornada a toda la plantilla"
     ],
     "correcta": 0,
-    "referencia": "III.4 · Derecho de sindicacion",
-    "explicacion": "La libertad sindical incluye fundacion, afiliacion, actividad sindical y representacion en los terminos legales.",
+    "referencia": "III.4 · Derecho de sindicación",
+    "explicación": "La libertad sindical incluye fundación, afiliación, actividad sindical y representación en los terminos legales.",
     "tema": 25
   },
   {
     "id": "refine-25-02",
-    "pregunta": "La negociacion colectiva de los empleados publicos se desarrolla dentro del marco fijado por:",
+    "pregunta": "La negociación colectiva de los empleados públicos se desarrolla dentro del marco fijado por:",
     "opciones": [
       "el TREBEP y la normativa aplicable",
       "solo el Estatuto de los Trabajadores comun",
       "exclusivamente el reglamento organico municipal",
-      "unicamente los estatutos sindicales"
+      "únicamente los estatutos sindicales"
     ],
     "correcta": 0,
-    "referencia": "III.4 · Negociacion colectiva",
-    "explicacion": "La negociacion del personal publico tiene un regimen especifico presidido por el TREBEP.",
+    "referencia": "III.4 · Negociación colectiva",
+    "explicación": "La negociación del personal público tiene un régimen específico presidido por el TREBEP.",
     "tema": 25
   },
   {
     "id": "refine-25-03",
     "pregunta": "En los servicios esenciales para la comunidad, el ejercicio del derecho de huelga puede condicionarse mediante:",
     "opciones": [
-      "servicios minimos proporcionados y motivados",
-      "prohibicion automatica e incondicionada de la huelga",
-      "sustitucion general de huelguistas por personal externo sin limites",
-      "negacion absoluta de cualquier derecho colectivo"
+      "servicios mínimos proporcionados y motivados",
+      "prohibición automatica e incondicionada de la huelga",
+      "sustitución general de huelguistas por personal externo sin limites",
+      "negación absoluta de cualquier derecho colectivo"
     ],
     "correcta": 0,
     "referencia": "III.4 · Derecho de huelga",
-    "explicacion": "La fijacion de servicios minimos debe respetar el derecho de huelga y el principio de proporcionalidad.",
+    "explicación": "La fijación de servicios mínimos debe respetar el derecho de huelga y el principio de proporcionalidad.",
     "tema": 25
   },
   {
     "id": "refine-25-04",
-    "pregunta": "La regla general del regimen de incompatibilidades del personal al servicio del sector publico es que:",
+    "pregunta": "La regla general del régimen de incompatibilidades del personal al servicio del sector público es que:",
     "opciones": [
       "no puede compatibilizarse un segundo puesto o actividad salvo en los supuestos legalmente previstos",
-      "toda actividad privada es libre sin autorizacion",
-      "pueden acumularse dos puestos publicos por mera conveniencia",
+      "toda actividad privada es libre sin autorización",
+      "pueden acumularse dos puestos públicos por mera conveniencia",
       "la compatibilidad nunca requiere reconocimiento previo"
     ],
     "correcta": 0,
-    "referencia": "III.4 · Regimen de incompatibilidades",
-    "explicacion": "La compatibilidad es excepcional y necesita cobertura y, en su caso, reconocimiento conforme a la ley.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "explicación": "La compatibilidad es excepcional y necesita cobertura y, en su caso, reconocimiento conforme a la ley.",
     "tema": 25
   },
   {
     "id": "refine-25-05",
-    "pregunta": "Una actividad privada relacionada con expedientes que tramite el propio empleado publico puede ser incompatible por comprometer la:",
+    "pregunta": "Una actividad privada relacionada con expedientes que trámite el propio empleado público puede ser incompatible por comprometer la:",
     "opciones": [
       "imparcialidad e independencia",
       "publicidad institucional",
       "prorroga presupuestaria",
-      "fe publica local"
+      "fe pública local"
     ],
     "correcta": 0,
-    "referencia": "III.4 · Regimen de incompatibilidades",
-    "explicacion": "La finalidad central del regimen es evitar conflictos de intereses y preservar la imparcialidad.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "explicación": "La finalidad central del régimen es evitar conflictos de intereses y preservar la imparcialidad.",
     "tema": 25
   }
 ]

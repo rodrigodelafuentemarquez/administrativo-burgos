@@ -70,7 +70,7 @@ El **expediente electrónico** debe cumplir los siguientes requisitos:
 - Todos los documentos que lo integran deben estar en **formato electrónico** y contar con los metadatos mínimos exigidos por el Esquema Nacional de Interoperabilidad (ENI).
 - Debe disponer de un **índice electrónico firmado** por la Administración que garantice su integridad.
 - Debe ser posible su **remisión o puesta a disposición** con el pleno respeto de los derechos de los interesados.
-- Cuando el expediente deba remitirse a otro órgano o Administración (por ejemplo, en caso de recurso), se envía en formato electrónico, con el índice.
+- Cuándo el expediente deba remitirse a otro órgano o Administración (por ejemplo, en caso de recurso), se envía en formato electrónico, con el índice.
 
 La formación del expediente electrónico se articula a través de los **sistemas de gestión documental** de cada Administración, que permiten incorporar, ordenar y firmar los documentos de forma automatizada.
 
@@ -91,7 +91,7 @@ Los documentos oficiales deben reunir, como mínimo, los siguientes elementos fo
 - **Identificación del firmante:** nombre, apellidos y cargo.
 - **Destinatario** o destinatarios del documento.
 
-A continuación se analizan los principales tipos de documentos administrativos y sus características específicas.
+A continuación se analizan los principales tipos de documentos administrativos y sus carácterísticas específicas.
 
 ---
 
@@ -159,7 +159,7 @@ Se recogen los datos identificativos del interesado: nombre y apellidos (o denom
 Esta parte contiene la **exposición de hechos**: el interesado relata de forma ordenada, clara y concisa los hechos y circunstancias que fundamentan su petición. Se redacta en tercera persona y en párrafos numerados si son varios los hechos.
 
 **3. Solicita** (o «Suplica»).
-Esta parte contiene la **petición concreta** que el interesado formula a la Administración, en términos claros y precisos. Debe guardar coherencia con los hechos expuestos. Se redacta en infinitivo: «Que se le conceda…», «Que se reconozca…», «Que se dicte resolución…».
+Esta parte contiene la **petición concreta** que el interesado formula a la Administración, en términos claros y precisos. Debe guardar coherencia con los hechos expuestos. Se redacta en infinitivo: «Qué se le conceda…», «Qué se reconozca…», «Qué se dicte resolución…».
 
 **4. Documentos que se acompañan.**
 Relación de los documentos o anexos que se adjuntan a la solicitud como medio de prueba o para acreditar los requisitos exigidos.

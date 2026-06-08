@@ -7,7 +7,7 @@ titulo: "El presupuesto público: concepto, principios y estructura. El ciclo pr
 > - [Ley 47/2003, de 26 de noviembre, General Presupuestaria (LGP)](https://www.boe.es/buscar/act.php?id=BOE-A-2003-21614)
 > - [Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL)](https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214)
 > - [Ley Orgánica 2/2012, de 27 de abril, de Estabilidad Presupuestaria y Sostenibilidad Financiera (LOEPSF)](https://www.boe.es/buscar/act.php?id=BOE-A-2012-5730)
-> - [Decreto Legislativo 1/1999, de 25 de febrero, Texto Refundido de la Ley de Hacienda de la Comunidad de Castilla y León](https://www.bocyl.es/boletin/2.html)
+> - [Decreto Legislativo 1/1999, de 25 de febrero, Texto Refundido de la Ley de Hacienda de la Comunidad de Castilla y León](https://www.bocyl.es/boletín/2.html)
 
 ---
 
@@ -18,8 +18,8 @@ titulo: "El presupuesto público: concepto, principios y estructura. El ciclo pr
 El **presupuesto** es el instrumento jurídico y financiero por excelencia de la actividad pública: es la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, puede reconocer la Administración y de los derechos que prevé liquidar durante el correspondiente ejercicio presupuestario. En términos más sencillos: es la autorización que concede el Parlamento (o el Pleno en el caso de las Entidades Locales) al Gobierno (o a la Corporación) para gastar hasta un determinado importe y para recaudar los ingresos necesarios para financiarlo.
 
 La naturaleza del presupuesto es **dual**:
-- Como **acto jurídico**, es una ley (o acto equivalente) que tiene fuerza vinculante: ningún gasto puede realizarse sin crédito presupuestario suficiente.
-- Como **instrumento económico**, es el plan financiero anual del sector público: determina la política económica del Gobierno y distribuye los recursos entre los distintos objetivos públicos.
+- Cómo **acto jurídico**, es una ley (o acto equivalente) que tiene fuerza vinculante: ningún gasto puede realizarse sin crédito presupuestario suficiente.
+- Cómo **instrumento económico**, es el plan financiero anual del sector público: determina la política económica del Gobierno y distribuye los recursos entre los distintos objetivos públicos.
 
 El presupuesto es **anual**: cada ejercicio presupuestario coincide con el año natural (del 1 de enero al 31 de diciembre).
 

@@ -6,10 +6,10 @@
       "IBI",
       "ICIO",
       "IIVTNU potestativo en el esquema del temario",
-      "canon urbanistico"
+      "canon urbanístico"
     ],
     "correcta": 0,
-    "explicacion": "El IBI es un impuesto municipal obligatorio.",
+    "explicación": "El IBI es un impuesto municipal obligatorio.",
     "referencia": "IV.1 · Impuestos municipales",
     "tema": 27
   },
@@ -17,13 +17,13 @@
     "id": "topup-27-07",
     "pregunta": "Las tasas se exigen, entre otros supuestos, por:",
     "opciones": [
-      "uso privativo o aprovechamiento especial del dominio publico local",
+      "uso privativo o aprovechamiento especial del dominio público local",
       "la mera titularidad de un inmueble urbano",
       "el ejercicio de actividades empresariales en abstracto",
-      "cualquier hecho sin relacion con servicio o dominio publico"
+      "cualquier hecho sin relación con servicio o dominio público"
     ],
     "correcta": 0,
-    "explicacion": "La tasa conecta con dominio publico o con servicios/actividades de competencia local.",
+    "explicación": "La tasa conecta con dominio público o con servicios/actividades de competencia local.",
     "referencia": "IV.1 · Tasas",
     "tema": 27
   },
@@ -33,11 +33,11 @@
     "opciones": [
       "beneficio especial o aumento de valor",
       "solo un gasto corriente indiferenciado",
-      "una sancion disciplinaria",
-      "la eleccion del alcalde"
+      "una sanción disciplinaria",
+      "la elección del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "La contribucion especial requiere un beneficio particular para determinados sujetos.",
+    "explicación": "La contribución especial requiere un beneficio particular para determinados sujetos.",
     "referencia": "IV.1 · Contribuciones especiales",
     "tema": 27
   },
@@ -51,7 +51,7 @@
       "decretos-leyes municipales"
     ],
     "correcta": 0,
-    "explicacion": "Los Ayuntamientos desarrollan sus tributos dentro de la ley por medio de ordenanzas fiscales.",
+    "explicación": "Los Ayuntamientos desarrollan sus tributos dentro de la ley por medio de ordenanzas fiscales.",
     "referencia": "IV.1 · Potestad reglamentaria tributaria",
     "tema": 27
   },
@@ -65,7 +65,7 @@
       "Si, mediante bando del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "La autonomia financiera local no elimina la reserva de ley tributaria.",
+    "explicación": "La autonomía financiera local no elimina la reserva de ley tributaria.",
     "referencia": "IV.1 · Potestad reglamentaria tributaria",
     "tema": 27
   },
@@ -74,32 +74,32 @@
     "pregunta": "Entre los elementos que debe contener una ordenanza fiscal esta el:",
     "opciones": [
       "hecho imponible",
-      "orden de sucesion a la Corona",
+      "orden de sucesión a la Corona",
       "nombramiento del Fiscal General",
-      "resultado de una mocion de censura"
+      "resultado de una moción de censura"
     ],
     "correcta": 0,
-    "explicacion": "La ordenanza fiscal regula los elementos esenciales del tributo dentro de la ley.",
+    "explicación": "La ordenanza fiscal regula los elementos esenciales del tributo dentro de la ley.",
     "referencia": "IV.1 · Contenido de las ordenanzas fiscales",
     "tema": 27
   },
   {
     "id": "topup-27-13",
-    "pregunta": "En una tasa, la memoria tecnico-economica es importante porque debe justificar:",
+    "pregunta": "En una tasa, la memoria tecnico-económica es importante porque debe justificar:",
     "opciones": [
       "el coste real o previsible del servicio o actividad",
-      "la composicion del Pleno",
+      "la composición del Pleno",
       "la plantilla de personal laboral",
-      "la capitalidad de Castilla y Leon"
+      "la capitalidad de Castilla y León"
     ],
     "correcta": 0,
-    "explicacion": "La cuantia de la tasa no puede desvincularse del coste o valor del servicio.",
+    "explicación": "La cuantia de la tasa no puede desvincularse del coste o valor del servicio.",
     "referencia": "IV.1 · Contenido de las ordenanzas fiscales",
     "tema": 27
   },
   {
     "id": "topup-27-14",
-    "pregunta": "La aprobacion provisional de las ordenanzas fiscales corresponde al:",
+    "pregunta": "La aprobación provisional de las ordenanzas fiscales corresponde al:",
     "opciones": [
       "Pleno",
       "Secretario General",
@@ -107,55 +107,55 @@
       "Tribunal Supremo"
     ],
     "correcta": 0,
-    "explicacion": "El procedimiento arranca con acuerdo plenario de aprobacion provisional.",
-    "referencia": "IV.1 · Tramitacion de ordenanzas fiscales",
+    "explicación": "El procedimiento arranca con acuerdo plenario de aprobación provisional.",
+    "referencia": "IV.1 · Tramitación de ordenanzas fiscales",
     "tema": 27
   },
   {
     "id": "topup-27-15",
-    "pregunta": "Tras la aprobacion provisional de una ordenanza fiscal debe abrirse exposicion publica por un plazo minimo de:",
+    "pregunta": "Tras la aprobación provisional de una ordenanza fiscal debe abrirse exposición pública por un plazo mínimo de:",
     "opciones": [
-      "treinta dias",
-      "dos dias habiles",
+      "treinta días",
+      "dos días habiles",
       "cinco meses",
       "veinticuatro horas"
     ],
     "correcta": 0,
-    "explicacion": "La tramitacion incluye exposicion publica para reclamaciones.",
-    "referencia": "IV.1 · Tramitacion de ordenanzas fiscales",
+    "explicación": "La tramitación incluye exposición pública para reclamaciones.",
+    "referencia": "IV.1 · Tramitación de ordenanzas fiscales",
     "tema": 27
   },
   {
     "id": "topup-27-16",
-    "pregunta": "La imposicion de un tributo potestativo local significa:",
+    "pregunta": "La imposición de un tributo potestativo local significa:",
     "opciones": [
       "decidir establecerlo",
-      "aprobar una sancion tributaria",
-      "resolver una reclamacion economico-administrativa",
+      "aprobar una sanción tributaria",
+      "resolver una reclamación económico-administrativa",
       "dictar una sentencia"
     ],
     "correcta": 0,
-    "explicacion": "Imponer es decidir que la figura tributaria potestativa se exigira en la entidad local.",
-    "referencia": "IV.1 · Imposicion y ordenacion",
+    "explicación": "Imponer es decidir que la figura tributaria potestativa se exigira en la entidad local.",
+    "referencia": "IV.1 · Imposición y ordenación",
     "tema": 27
   },
   {
     "id": "topup-27-17",
-    "pregunta": "La ordenacion del tributo consiste en:",
+    "pregunta": "La ordenación del tributo consiste en:",
     "opciones": [
       "regular concretamente sus elementos mediante ordenanza fiscal",
       "nombrar al recaudador",
       "aprobar el padrón municipal",
-      "fijar servicios minimos de huelga"
+      "fijar servicios mínimos de huelga"
     ],
     "correcta": 0,
-    "explicacion": "La ordenacion concreta el regimen del tributo dentro del marco legal.",
-    "referencia": "IV.1 · Imposicion y ordenacion",
+    "explicación": "La ordenación concreta el régimen del tributo dentro del marco legal.",
+    "referencia": "IV.1 · Imposición y ordenación",
     "tema": 27
   },
   {
     "id": "topup-27-18",
-    "pregunta": "Los acuerdos de imposicion y ordenacion de tributos locales se impugnan habitualmente ante la jurisdiccion:",
+    "pregunta": "Los acuerdos de imposición y ordenación de tributos locales se impugnan habitualmente ante la jurisdicción:",
     "opciones": [
       "contencioso-administrativa",
       "penal",
@@ -163,41 +163,41 @@
       "militar"
     ],
     "correcta": 0,
-    "explicacion": "Las disposiciones generales tributarias locales se controlan en via contenciosa.",
-    "referencia": "IV.1 · Impugnacion",
+    "explicación": "Las disposiciones generales tributarias locales se controlan en via contenciosa.",
+    "referencia": "IV.1 · Impugnación",
     "tema": 27
   },
   {
     "id": "topup-27-19",
-    "pregunta": "Un recibo, liquidacion o providencia de apremio se combate normalmente como:",
+    "pregunta": "Un recibo, liquidación o providencia de apremio se combate normalmente como:",
     "opciones": [
       "acto administrativo tributario concreto",
       "reforma constitucional",
-      "disposicion general estatal",
+      "disposición general estatal",
       "decreto legislativo"
     ],
     "correcta": 0,
-    "explicacion": "No es lo mismo impugnar la ordenanza que el acto individual de aplicacion.",
-    "referencia": "IV.1 · Impugnacion de actos tributarios",
+    "explicación": "No es lo mismo impugnar la ordenanza que el acto individual de aplicación.",
+    "referencia": "IV.1 · Impugnación de actos tributarios",
     "tema": 27
   },
   {
     "id": "topup-27-20",
-    "pregunta": "En municipios de gran poblacion, determinadas controversias tributarias pueden revisarse en sede de:",
+    "pregunta": "En municipios de gran población, determinadas controversias tributarias pueden revisarse en sede de:",
     "opciones": [
-      "tribunal economico-administrativo municipal",
+      "tribunal económico-administrativo municipal",
       "Cortes Generales",
       "Consejo Europeo",
-      "Diputacion Permanente"
+      "Diputación Permanente"
     ],
     "correcta": 0,
-    "explicacion": "El temario conecta la revision tributaria con el TEAM municipal cuando existe.",
-    "referencia": "IV.1 · Impugnacion de actos tributarios",
+    "explicación": "El temario conecta la revisión tributaria con el TEAM municipal cuando existe.",
+    "referencia": "IV.1 · Impugnación de actos tributarios",
     "tema": 27
   },
   {
     "id": "refine-27-01",
-    "pregunta": "Entre los impuestos municipales de exaccion obligatoria se encuentran:",
+    "pregunta": "Entre los impuestos municipales de exacción obligatoria se encuentran:",
     "opciones": [
       "IBI, IAE e IVTM",
       "ICIO, IIVTNU e IAE",
@@ -206,12 +206,12 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Tributos locales",
-    "explicacion": "Los tres impuestos municipales obligatorios son IBI, IAE e IVTM.",
+    "explicación": "Los tres impuestos municipales obligatorios son IBI, IAE e IVTM.",
     "tema": 27
   },
   {
     "id": "refine-27-02",
-    "pregunta": "La imposicion de un tributo local potestativo supone que el Ayuntamiento:",
+    "pregunta": "La imposición de un tributo local potestativo supone que el Ayuntamiento:",
     "opciones": [
       "decide si establece o no ese tributo dentro del marco legal",
       "puede crear cualquier impuesto nuevo sin ley",
@@ -219,50 +219,50 @@
       "puede aprobarlo por decreto de alcaldia sin ordenanza"
     ],
     "correcta": 0,
-    "referencia": "IV.1 · Imposicion y ordenacion de tributos",
-    "explicacion": "Los tributos potestativos requieren decision municipal expresa, pero siempre dentro del marco legal estatal.",
+    "referencia": "IV.1 · Imposición y ordenación de tributos",
+    "explicación": "Los tributos potestativos requieren decisión municipal expresa, pero siempre dentro del marco legal estatal.",
     "tema": 27
   },
   {
     "id": "refine-27-03",
-    "pregunta": "La ordenacion de un tributo local se realiza fundamentalmente mediante:",
+    "pregunta": "La ordenación de un tributo local se realiza fundamentalmente mediante:",
     "opciones": [
       "la correspondiente ordenanza fiscal",
       "un bando de alcaldia",
-      "una instruccion interna de tesoreria",
-      "una mocion de censura"
+      "una instrucción interna de tesorería",
+      "una moción de censura"
     ],
     "correcta": 0,
     "referencia": "IV.1 · Potestad reglamentaria tributaria",
-    "explicacion": "La ordenacion del tributo local se articula mediante ordenanza fiscal.",
+    "explicación": "La ordenación del tributo local se articula mediante ordenanza fiscal.",
     "tema": 27
   },
   {
     "id": "refine-27-04",
-    "pregunta": "La aprobacion provisional de ordenanzas fiscales debe someterse a exposicion publica por un plazo minimo de:",
+    "pregunta": "La aprobación provisional de ordenanzas fiscales debe someterse a exposición pública por un plazo mínimo de:",
     "opciones": [
-      "30 dias",
-      "10 dias",
-      "15 dias",
+      "30 días",
+      "10 días",
+      "15 días",
       "2 meses"
     ],
     "correcta": 0,
     "referencia": "IV.1 · Ordenanzas fiscales",
-    "explicacion": "La tramitacion de las ordenanzas fiscales exige exposicion publica minima de treinta dias.",
+    "explicación": "La tramitación de las ordenanzas fiscales exige exposición pública mínima de treinta días.",
     "tema": 27
   },
   {
     "id": "refine-27-05",
     "pregunta": "Las tasas locales pueden exigirse, entre otros supuestos, por:",
     "opciones": [
-      "la utilizacion privativa o el aprovechamiento especial del dominio publico local",
+      "la utilización privativa o el aprovechamiento especial del dominio público local",
       "la mera existencia del municipio",
-      "la aprobacion del presupuesto anual",
-      "la celebracion de plenos ordinarios"
+      "la aprobación del presupuesto anual",
+      "la celebración de plenos ordinarios"
     ],
     "correcta": 0,
     "referencia": "IV.1 · Tasas",
-    "explicacion": "La tasa se conecta con un aprovechamiento especial del dominio publico o con servicios y actividades administrativas en los terminos legales.",
+    "explicación": "La tasa se conecta con un aprovechamiento especial del dominio público o con servicios y actividades administrativas en los terminos legales.",
     "tema": 27
   },
   {
@@ -271,17 +271,17 @@
     "opciones": [
       "un beneficio especial para determinadas personas o bienes",
       "un beneficio indistinto para todo el pais",
-      "unicamente un gasto interno de personal",
-      "solo una ventaja politica para el equipo de gobierno"
+      "únicamente un gasto interno de personal",
+      "solo una ventaja política para el equipo de gobierno"
     ],
     "correcta": 0,
     "referencia": "IV.1 · Contribuciones especiales",
-    "explicacion": "Las contribuciones especiales descansan en la obtencion de un beneficio especial derivado de la obra o servicio.",
+    "explicación": "Las contribuciones especiales descansan en la obtención de un beneficio especial derivado de la obra o servicio.",
     "tema": 27
   },
   {
     "id": "refine-27-07",
-    "pregunta": "La impugnacion directa de una ordenanza fiscal aprobada definitivamente se plantea, con caracter general, ante la jurisdiccion:",
+    "pregunta": "La impugnación directa de una ordenanza fiscal aprobada definitivamente se plantea, con carácter general, ante la jurisdicción:",
     "opciones": [
       "contencioso-administrativa",
       "social",
@@ -289,22 +289,22 @@
       "penal"
     ],
     "correcta": 0,
-    "referencia": "IV.1 · Impugnacion de ordenanzas fiscales",
-    "explicacion": "La ordenanza fiscal es una disposicion de caracter general y su control corresponde a la jurisdiccion contencioso-administrativa.",
+    "referencia": "IV.1 · Impugnación de ordenanzas fiscales",
+    "explicación": "La ordenanza fiscal es una disposición de carácter general y su control corresponde a la jurisdicción contencioso-administrativa.",
     "tema": 27
   },
   {
     "id": "refine-27-08",
-    "pregunta": "En un municipio de gran poblacion, determinados actos de gestion tributaria municipal pueden ser revisados en via economico-administrativa ante:",
+    "pregunta": "En un municipio de gran población, determinados actos de gestion tributaria municipal pueden ser revisados en via económico-administrativa ante:",
     "opciones": [
       "el Tribunal Economico-Administrativo Municipal",
-      "el Pleno en sesion ordinaria",
+      "el Pleno en sesión ordinaria",
       "la Junta Electoral de Zona",
-      "la Diputacion Provincial como organo revisor necesario"
+      "la Diputación Provincial como órgano revisor necesario"
     ],
     "correcta": 0,
-    "referencia": "IV.1 · Revision de actos tributarios locales",
-    "explicacion": "En los municipios de gran poblacion puede existir un organo economico-administrativo municipal para esta revision especializada.",
+    "referencia": "IV.1 · Revisión de actos tributarios locales",
+    "explicación": "En los municipios de gran población puede existir un órgano económico-administrativo municipal para esta revisión especializada.",
     "tema": 27
   }
 ]

@@ -10,7 +10,7 @@
       "un gestor de bases de datos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta así.",
+    "explicación": "El tema lo presenta así.",
     "referencia": "V.11 · 8.1 Qué es Outlook 365"
   },
   {
@@ -24,7 +24,7 @@
       "archivos exportados"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como carpeta de mensajes recibidos.",
+    "explicación": "El tema la define como carpeta de mensajes recibidos.",
     "referencia": "V.11 · 8.3 Las carpetas de correo"
   },
   {
@@ -38,7 +38,7 @@
       "borrar el mensaje original"
     ],
     "correcta": 0,
-    "explicacion": "El tema destaca su utilidad en la Administración.",
+    "explicación": "El tema destaca su utilidad en la Administración.",
     "referencia": "V.11 · 9.2 Importancia de la CCO en la Administración"
   },
   {
@@ -52,7 +52,7 @@
       "un formato de archivo"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como automatización de correo.",
+    "explicación": "El tema la define como automatización de correo.",
     "referencia": "V.11 · 10.1 Concepto"
   },
   {
@@ -66,7 +66,7 @@
       "Wi-Fi"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa el origen en ARPANET.",
+    "explicación": "El tema sitúa el origen en ARPANET.",
     "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)"
   },
   {
@@ -80,7 +80,7 @@
       "4 de julio de 2007"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa fecha concreta.",
+    "explicación": "El tema da esa fecha concreta.",
     "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)"
   },
   {
@@ -94,7 +94,7 @@
       "2004"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija 1983.",
+    "explicación": "El tema fija 1983.",
     "referencia": "V.11 · 1.2 Los protocolos TCP/IP (1974-1983)"
   },
   {
@@ -108,7 +108,7 @@
       "Mosaic"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye la WWW a Berners-Lee.",
+    "explicación": "El tema atribuye la WWW a Berners-Lee.",
     "referencia": "V.11 · 1.3 La World Wide Web y la expansión civil (1991)"
   },
   {
@@ -122,7 +122,7 @@
       "UDP"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como protocolo de hipertexto.",
+    "explicación": "El tema lo identifica como protocolo de hipertexto.",
     "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS"
   },
   {
@@ -136,7 +136,7 @@
       "correos en contactos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como sistema de nombres de dominio.",
+    "explicación": "El tema lo define como sistema de nombres de dominio.",
     "referencia": "V.11 · 2.3 El Sistema de Nombres de Dominio (DNS)"
   },
   {
@@ -150,7 +150,7 @@
       "64 bits"
     ],
     "correcta": 0,
-    "explicacion": "El tema precisa esa longitud.",
+    "explicación": "El tema precisa esa longitud.",
     "referencia": "V.11 · 2.2 El protocolo TCP/IP"
   },
   {
@@ -164,7 +164,7 @@
       "un formato de compresión"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como versión segura con cifrado.",
+    "explicación": "El tema lo define como versión segura con cifrado.",
     "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS"
   },
   {
@@ -178,7 +178,7 @@
       "firmar documentos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo destaca como acceso sincronizado.",
+    "explicación": "El tema lo destaca como acceso sincronizado.",
     "referencia": "V.11 · 2.5.1 Correo electrónico"
   },
   {
@@ -192,7 +192,7 @@
       "un protocolo de impresión"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como red privada virtual.",
+    "explicación": "El tema la define como red privada virtual.",
     "referencia": "V.11 · 2.5.3 VPN"
   },
   {
@@ -206,7 +206,7 @@
       "una cookie persistente"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así.",
+    "explicación": "El tema la define así.",
     "referencia": "V.11 · 2.5.5 La dirección URL"
   },
   {
@@ -220,7 +220,7 @@
       "sistema de archivos seguro"
     ],
     "correcta": 0,
-    "explicacion": "El tema presenta SaaS como software en la nube.",
+    "explicación": "El tema presenta SaaS como software en la nube.",
     "referencia": "V.11 · 2.6 La Nube (Cloud Computing)"
   },
   {
@@ -234,7 +234,7 @@
       "compilar código fuente"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
+    "explicación": "El tema lo define así.",
     "referencia": "V.11 · 3.1 Qué es un navegador web"
   },
   {
@@ -248,7 +248,7 @@
       "crear cuentas de correo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo incluye entre las funciones básicas.",
+    "explicación": "El tema lo incluye entre las funciones básicas.",
     "referencia": "V.11 · 3.4.3 Favoritos / Marcadores"
   },
   {
@@ -262,7 +262,7 @@
       "convierte el navegador en un antivirus"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo explica así y advierte que no da anonimato total.",
+    "explicación": "El tema lo explica así y advierte que no da anonimato total.",
     "referencia": "V.11 · 3.5.2 Navegación privada / InPrivate / Incógnito"
   },
   {
@@ -276,7 +276,7 @@
       "HTTPS es el protocolo habitual para remitir correo entre servidores."
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
+    "explicación": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
     "referencia": "V.11 · 2.5.1 Correo electrónico"
   }
 ]

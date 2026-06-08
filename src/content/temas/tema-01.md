@@ -22,7 +22,7 @@ Se denomina **norma normarum**: la norma que regula cómo se crean las demás no
 
 ### 1.2 Características
 
-La Constitución de 1978 presenta las siguientes características esenciales:
+La Constitución de 1978 presenta las siguientes carácterísticas esenciales:
 
 | Característica | Explicación |
 |---|---|

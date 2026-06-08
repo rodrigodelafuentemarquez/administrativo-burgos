@@ -2,7 +2,7 @@
   {
     "id": "pdf-2025-burgos-q23",
     "tema": 8,
-    "pregunta": "Segun el articulo 14.1 del Tratado de la Union Europea, las funciones legislativa y presupuestaria son ejercidas por:",
+    "pregunta": "Según el artículo 14.1 del Tratado de la Union Europea, las funciones legislativa y presupuestaria son ejercidas por:",
     "opciones": [
       "El Parlamento Europeo conjuntamente con el Consejo",
       "El Parlamento Europeo",
@@ -11,35 +11,35 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 23",
-    "explicacion": "El Parlamento Europeo y el Consejo ejercen conjuntamente la funcion legislativa y presupuestaria."
+    "explicación": "El Parlamento Europeo y el Consejo ejercen conjuntamente la función legislativa y presupuestaria."
   },
   {
     "id": "pdf-2025-burgos-q31",
     "tema": 8,
-    "pregunta": "Conforme al articulo 288 del Tratado de Funcionamiento de la Union Europea, el reglamento:",
+    "pregunta": "Conforme al artículo 288 del Tratado de Funcionamiento de la Union Europea, el reglamento:",
     "opciones": [
-      "Obligara al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando a las autoridades nacionales la eleccion de la forma y los medios",
+      "Obligara al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando a las autoridades nacionales la elección de la forma y los medios",
       "Desarrolla las normas legislativas adoptadas por el Parlamento Europeo",
       "Tiene alcance general, sera obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
       "Sera obligatorio en todos sus elementos y, cuando designe destinatarios, solo sera obligatorio para estos"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 31",
-    "explicacion": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable."
+    "explicación": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable."
   },
   {
     "id": "pdf-2025-burgos-r01",
     "tema": 8,
     "pregunta": "Los miembros del Comite de las Regiones:",
     "opciones": [
-      "Seran elegidos por un periodo renovable de cinco anos y no podran ser miembros simultaneamente del Parlamento Europeo",
-      "Seran elegidos por un periodo renovable de seis anos y no podran ser miembros simultaneamente del Parlamento Europeo",
-      "Seran elegidos por un periodo no renovable de cinco anos y no podran ser miembros simultaneamente del Parlamento Europeo",
-      "Seran elegidos por un periodo renovable de seis anos"
+      "Seran elegidos por un período renovable de cinco anos y no podrán ser miembros simultaneamente del Parlamento Europeo",
+      "Seran elegidos por un período renovable de seis anos y no podrán ser miembros simultaneamente del Parlamento Europeo",
+      "Seran elegidos por un período no renovable de cinco anos y no podrán ser miembros simultaneamente del Parlamento Europeo",
+      "Seran elegidos por un período renovable de seis anos"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · reserva 1",
-    "explicacion": "Los miembros del Comite de las Regiones tienen mandato renovable de cinco anos y no pueden ser simultaneamente eurodiputados."
+    "explicación": "Los miembros del Comite de las Regiones tienen mandato renovable de cinco anos y no pueden ser simultaneamente eurodiputados."
   },
   {
     "id": "t41-p001",
@@ -52,7 +52,7 @@
       "Maastricht de 1993"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa la CECA en el Tratado de París de 1951.",
+    "explicación": "El tema sitúa la CECA en el Tratado de París de 1951.",
     "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)"
   },
   {
@@ -66,7 +66,7 @@
       "el Tribunal de Justicia y el Parlamento"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo dice expresamente.",
+    "explicación": "El tema lo dice expresamente.",
     "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)"
   },
   {
@@ -80,7 +80,7 @@
       "da lugar a la CEE"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo relaciona con la creación de la UE.",
+    "explicación": "El tema lo relaciona con la creación de la UE.",
     "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos"
   },
   {
@@ -94,7 +94,7 @@
       "Tratado de París"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa ahí el art. 50 TUE.",
+    "explicación": "El tema sitúa ahí el art. 50 TUE.",
     "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos"
   },
   {
@@ -108,7 +108,7 @@
       "1 de enero de 1957"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa fecha concreta.",
+    "explicación": "El tema da esa fecha concreta.",
     "referencia": "I.8 · 1.4 Las ampliaciones"
   },
   {
@@ -122,7 +122,7 @@
       "art. 18 CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica con el art. 2 TUE.",
+    "explicación": "El tema lo identifica con el art. 2 TUE.",
     "referencia": "I.8 · 1.5 Valores y objetivos de la Unión"
   },
   {
@@ -136,7 +136,7 @@
       "tres poderes clásicos"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera siete instituciones en el art. 13 TUE.",
+    "explicación": "El tema enumera siete instituciones en el art. 13 TUE.",
     "referencia": "I.8 · 2. Las instituciones de la Unión Europea"
   },
   {
@@ -150,7 +150,7 @@
       "los jueces del TJUE"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
+    "explicación": "El tema lo define así.",
     "referencia": "I.8 · 3.1 Composición y presidencia"
   },
   {
@@ -164,7 +164,7 @@
       "seis meses"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija ese mandato.",
+    "explicación": "El tema fija ese mandato.",
     "referencia": "I.8 · 3.1 Composición y presidencia"
   },
   {
@@ -178,7 +178,7 @@
       "gestiona el euro"
     ],
     "correcta": 0,
-    "explicacion": "El tema destaca su carácter político y de orientación estratégica.",
+    "explicación": "El tema destaca su carácter político y de orientación estratégica.",
     "referencia": "I.8 · 3.2 Funciones"
   },
   {
@@ -192,7 +192,7 @@
       "las regiones y municipios"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como institución de representación gubernamental.",
+    "explicación": "El tema lo presenta como institución de representación gubernamental.",
     "referencia": "I.8 · 4.1 Composición"
   },
   {
@@ -206,7 +206,7 @@
       "un juez por Estado"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica un comisario por Estado miembro.",
+    "explicación": "El tema indica un comisario por Estado miembro.",
     "referencia": "I.8 · 6.1 Composición"
   },
   {
@@ -220,7 +220,7 @@
       "elección de alcaldes"
     ],
     "correcta": 0,
-    "explicacion": "El tema subraya esa función.",
+    "explicación": "El tema subraya esa función.",
     "referencia": "I.8 · 6.3 Funciones"
   },
   {
@@ -234,7 +234,7 @@
       "solo del Tribunal de Justicia"
     ],
     "correcta": 0,
-    "explicacion": "El tema desglosa así el TJUE.",
+    "explicación": "El tema desglosa así el TJUE.",
     "referencia": "I.8 · 7.1 Composición y estructura"
   },
   {
@@ -248,7 +248,7 @@
       "la selección de funcionarios"
     ],
     "correcta": 0,
-    "explicacion": "El tema la presenta como mecanismo clave de uniformidad.",
+    "explicación": "El tema la presenta como mecanismo clave de uniformidad.",
     "referencia": "I.8 · 7.2 Funciones y tipos de recursos"
   },
   {
@@ -262,7 +262,7 @@
       "ejercer el control político sobre la Comisión"
     ],
     "correcta": 0,
-    "explicacion": "El BCE tiene como objetivo principal mantener la estabilidad de precios en la zona euro.",
+    "explicación": "El BCE tiene como objetivo principal mantener la estabilidad de precios en la zona euro.",
     "referencia": "I.8 · 8.1 El Banco Central Europeo (BCE)"
   },
   {
@@ -276,7 +276,7 @@
       "nombra a los comisarios europeos"
     ],
     "correcta": 0,
-    "explicacion": "Es un órgano de auditoría externa y, a diferencia del español, no ejerce funciones jurisdiccionales.",
+    "explicación": "Es un órgano de auditoría externa y, a diferencia del español, no ejerce funciones jurisdiccionales.",
     "referencia": "I.8 · 8.2 El Tribunal de Cuentas Europeo"
   },
   {
@@ -290,7 +290,7 @@
       "aplicable únicamente tras su transposición al Derecho interno"
     ],
     "correcta": 0,
-    "explicacion": "El reglamento tiene alcance general y no necesita transposición para producir efectos.",
+    "explicación": "El reglamento tiene alcance general y no necesita transposición para producir efectos.",
     "referencia": "I.8 · 9.2 Derecho derivado"
   },
   {
@@ -304,7 +304,7 @@
       "reservados al Parlamento Europeo"
     ],
     "correcta": 0,
-    "explicacion": "No crean obligaciones jurídicas, aunque pueden orientar la interpretación del Derecho nacional.",
+    "explicación": "No crean obligaciones jurídicas, aunque pueden orientar la interpretación del Derecho nacional.",
     "referencia": "I.8 · 9.2 Derecho derivado"
   },
   {
@@ -318,35 +318,35 @@
       "puede modificar unilateralmente los Tratados"
     ],
     "correcta": 0,
-    "explicacion": "La Unión solo puede actuar en las materias y con el alcance que los Tratados le atribuyen.",
+    "explicación": "La Unión solo puede actuar en las materias y con el alcance que los Tratados le atribuyen.",
     "referencia": "I.8 · 10.1 El principio de atribución"
   },
   {
     "id": "t41-p021",
     "tema": 8,
-    "pregunta": "Segun el art. 16.4 del Tratado de la Union Europea y conforme al Tema 41, la mayoria cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
+    "pregunta": "Según el art. 16.4 del Tratado de la Union Europea y conforme al Tema 41, la mayoria cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
     "opciones": [
-      "El 50% de los Estados miembros que representen al menos el 50% de la poblacion de la Union",
-      "El 55% de los Estados miembros que representen al menos el 65% de la poblacion de la Union",
-      "Dos tercios de los Estados miembros, con independencia de la poblacion",
+      "El 50% de los Estados miembros que representen al menos el 50% de la población de la Union",
+      "El 55% de los Estados miembros que representen al menos el 65% de la población de la Union",
+      "Dos tercios de los Estados miembros, con independencia de la población",
       "La unanimidad de los Estados miembros presentes y votantes"
     ],
     "correcta": 1,
-    "explicacion": "El resumen del tema recoge expresamente la regla del 55% de Estados y 65% de la poblacion.",
+    "explicación": "El resumen del tema recoge expresamente la regla del 55% de Estados y 65% de la población.",
     "referencia": "I.8 · Resumen esquemático para repasar"
   },
   {
     "id": "t41-p022",
     "tema": 8,
-    "pregunta": "Conforme al TFUE y al Tema 41, si el Parlamento Europeo aprueba una mocion de censura sobre la gestion de la Comision Europea:",
+    "pregunta": "Conforme al TFUE y al Tema 41, si el Parlamento Europeo aprueba una moción de censura sobre la gestion de la Comisión Europea:",
     "opciones": [
-      "Debe dimitir unicamente el Presidente de la Comision",
-      "Debe dimitir la Comision en pleno",
+      "Debe dimitir únicamente el Presidente de la Comisión",
+      "Debe dimitir la Comisión en pleno",
       "Queda disuelto automaticamente el Consejo Europeo",
       "Se convoca de forma obligatoria un referendum europeo"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que, si prospera la mocion de censura, la Comision en pleno debe dimitir.",
+    "explicación": "El tema indica que, si prospera la moción de censura, la Comisión en pleno debe dimitir.",
     "referencia": "I.8 · 6.1 Composición y nombramiento"
   },
   {
@@ -360,27 +360,27 @@
       "El Tribunal de Cuentas"
     ],
     "correcta": 2,
-    "explicacion": "El Consejo de Europa no es una institucion de la UE; el art. 13 TUE enumera siete instituciones propias de la Union.",
+    "explicación": "El Consejo de Europa no es una institución de la UE; el art. 13 TUE enumera siete instituciones propias de la Union.",
     "referencia": "I.8 · 3.1 El marco institucional (art. 13 TUE)"
   },
   {
     "id": "t41-p024",
     "tema": 8,
-    "pregunta": "De acuerdo con el art. 2 TUE y con el Tema 41, la existencia de una violacion grave y persistente de los valores de la Union por un Estado miembro puede ser constatada por:",
+    "pregunta": "De acuerdo con el art. 2 TUE y con el Tema 41, la existencia de una violación grave y persistente de los valores de la Union por un Estado miembro puede ser constatada por:",
     "opciones": [
       "El Parlamento Europeo por mayoria simple",
-      "La Comision Europea por decision colegiada",
+      "La Comisión Europea por decisión colegiada",
       "El Consejo Europeo",
       "El Comite de las Regiones"
     ],
     "correcta": 2,
-    "explicacion": "El tema atribuye expresamente al Consejo Europeo esa funcion en relacion con los valores de la Union.",
+    "explicación": "El tema atribuye expresamente al Consejo Europeo esa función en relación con los valores de la Union.",
     "referencia": "I.8 · 3.2 Funciones"
   },
   {
     "id": "t41-p025",
     "tema": 8,
-    "pregunta": "Segun el Tema 41, el Parlamento Europeo es la unica institucion de la Union elegida directamente por sufragio universal cada:",
+    "pregunta": "Según el Tema 41, el Parlamento Europeo es la unica institución de la Union elegida directamente por sufragio universal cada:",
     "opciones": [
       "Cuatro anos",
       "Cinco anos",
@@ -388,21 +388,21 @@
       "Siete anos"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco anos.",
-    "referencia": "I.8 · 5.1 Composicion y eleccion"
+    "explicación": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco anos.",
+    "referencia": "I.8 · 5.1 Composición y elección"
   },
   {
     "id": "t41-p026",
     "tema": 8,
-    "pregunta": "Conforme al Tema 41, la Comision Europea tiene el monopolio de la:",
+    "pregunta": "Conforme al Tema 41, la Comisión Europea tiene el monopolio de la:",
     "opciones": [
       "Potestad jurisdiccional europea",
       "Iniciativa legislativa",
-      "Aprobacion definitiva del presupuesto sin intervencion de otras instituciones",
+      "Aprobación definitiva del presupuesto sin intervención de otras instituciones",
       "Reforma de los Tratados"
     ],
     "correcta": 1,
-    "explicacion": "El tema destaca la posicion singular de la Comision por su monopolio de la iniciativa legislativa.",
+    "explicación": "El tema destaca la posición singular de la Comisión por su monopolio de la iniciativa legislativa.",
     "referencia": "I.8 · 6.3 Funciones"
   },
   {
@@ -410,13 +410,13 @@
     "tema": 8,
     "pregunta": "De acuerdo con el art. 16 TUE, señale la respuesta correcta respecto del Consejo de la Union Europea:",
     "opciones": [
-      "Es el organo ejecutivo de la Union Europea",
-      "Ejerce conjuntamente con el Parlamento Europeo la funcion legislativa y la funcion presupuestaria",
-      "Ejerce conjuntamente con la Comision Europea la funcion legislativa y la funcion presupuestaria",
-      "Supervisa la aplicacion del Derecho de la Union bajo el control del TJUE"
+      "Es el órgano ejecutivo de la Union Europea",
+      "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria",
+      "Ejerce conjuntamente con la Comisión Europea la función legislativa y la función presupuestaria",
+      "Supervisa la aplicación del Derecho de la Union bajo el control del TJUE"
     ],
     "correcta": 1,
-    "explicacion": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",
+    "explicación": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",
     "referencia": "I.8 · 4.3 Funciones"
   }
 ]

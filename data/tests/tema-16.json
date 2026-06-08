@@ -4,33 +4,33 @@
     "tema": 16,
     "pregunta": "De conformidad con la Ley 9/2017, NO son contratos de suministro:",
     "opciones": [
-      "Los que tengan por objeto la adquisicion de energia primaria",
-      "Los contratos de fabricacion",
-      "Los de adquisicion de equipos y sistemas de telecomunicaciones",
-      "Los contratos de adquisicion de programas de ordenador desarrollados a medida"
+      "Los que tengan por objeto la adquisición de energia primaria",
+      "Los contratos de fabricación",
+      "Los de adquisición de equipos y sistemas de telecomunicaciones",
+      "Los contratos de adquisición de programas de ordenador desarrollados a medida"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 34",
-    "explicacion": "Los programas de ordenador desarrollados a medida se excluyen del contrato de suministro."
+    "explicación": "Los programas de ordenador desarrollados a medida se excluyen del contrato de suministro."
   },
   {
     "id": "pdf-2023-burgos-q35",
     "tema": 16,
     "pregunta": "De conformidad con la Ley 9/2017:",
     "opciones": [
-      "No podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad inherente a los poderes publicos",
+      "No podrán ser objeto del contrato de servicios los que impliquen ejercicio de autoridad inherente a los poderes públicos",
       "Podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso del Pleno",
       "Podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso de la Junta de Gobierno Local",
-      "No podran ser objeto de contrato de servicios los que impliquen ejercicio de autoridad salvo en materia tributaria"
+      "No podrán ser objeto de contrato de servicios los que impliquen ejercicio de autoridad salvo en materia tributaria"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 35",
-    "explicacion": "Los servicios que impliquen ejercicio de autoridad no pueden ser objeto de contrato de servicios."
+    "explicación": "Los servicios que impliquen ejercicio de autoridad no pueden ser objeto de contrato de servicios."
   },
   {
     "id": "pdf-2023-burgos-q36",
     "tema": 16,
-    "pregunta": "En que procedimiento de adjudicacion solo podran presentar proposiciones aquellos empresarios que, a su solicitud y en atencion a su solvencia, sean seleccionados por el organo de contratacion?",
+    "pregunta": "En qué procedimiento de adjudicación solo podrán presentar proposiciones aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación?",
     "opciones": [
       "Procedimiento abierto",
       "Procedimiento abierto simplificado",
@@ -39,12 +39,12 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 36",
-    "explicacion": "Esa configuracion corresponde al procedimiento restringido."
+    "explicación": "Esa configuración corresponde al procedimiento restringido."
   },
   {
     "id": "pdf-2025-burgos-q33",
     "tema": 16,
-    "pregunta": "En los Ayuntamientos de los municipios de gran poblacion, segun la disposicion adicional segunda de la Ley 9/2017, las competencias como organo de contratacion se ejerceran por:",
+    "pregunta": "En los Ayuntamientos de los municipios de gran población, segun la disposición adicional segunda de la Ley 9/2017, las competencias como órgano de contratación se ejerceran por:",
     "opciones": [
       "El Pleno",
       "La Junta de Gobierno Local",
@@ -53,21 +53,21 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 33",
-    "explicacion": "En los municipios de gran poblacion, la competencia como organo de contratacion se atribuye a la Junta de Gobierno Local."
+    "explicación": "En los municipios de gran población, la competencia como órgano de contratación se atribuye a la Junta de Gobierno Local."
   },
   {
     "id": "pdf-2025-burgos-q34",
     "tema": 16,
-    "pregunta": "De conformidad con el articulo 44 de la Ley 9/2017, podran ser objeto de recurso especial en materia de contratacion:",
+    "pregunta": "De conformidad con el artículo 44 de la Ley 9/2017, podrán ser objeto de recurso especial en materia de contratación:",
     "opciones": [
-      "Los anuncios de licitacion",
+      "Los anuncios de licitación",
       "Los pliegos",
-      "Los acuerdos de adjudicacion",
+      "Los acuerdos de adjudicación",
       "Todas las respuestas anteriores son correctas"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 34",
-    "explicacion": "Los anuncios de licitacion, los pliegos y los acuerdos de adjudicacion pueden ser objeto de recurso especial en los supuestos legales."
+    "explicación": "Los anuncios de licitación, los pliegos y los acuerdos de adjudicación pueden ser objeto de recurso especial en los supuestos legales."
   },
   {
     "id": "t20-p001",
@@ -80,7 +80,7 @@
       "únicamente reglamentos"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así la contratación administrativa.",
+    "explicación": "El tema define así la contratación administrativa.",
     "referencia": "II.7 · 1.1 Concepto"
   },
   {
@@ -94,7 +94,7 @@
       "LJCA"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica la LCSP como norma básica.",
+    "explicación": "El tema identifica la LCSP como norma básica.",
     "referencia": "II.7 · 1.2 Marco normativo"
   },
   {
@@ -108,7 +108,7 @@
       "supletoriedad y jerarquía judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos principios de contratación pública.",
+    "explicación": "El tema enumera esos principios de contratación pública.",
     "referencia": "II.7 · 1.2 Marco normativo"
   },
   {
@@ -122,7 +122,7 @@
       "Contrato mixto"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica el contrato de obras con la realización de una obra o trabajos equivalentes.",
+    "explicación": "El tema identifica el contrato de obras con la realización de una obra o trabajos equivalentes.",
     "referencia": "II.7 · 2.2.1 Contrato de obras"
   },
   {
@@ -136,7 +136,7 @@
       "dicte resoluciones sancionadoras"
     ],
     "correcta": 1,
-    "explicacion": "El tema define esa gestión con asunción del riesgo operacional.",
+    "explicación": "El tema define esa gestión con asunción del riesgo operacional.",
     "referencia": "II.7 · 2.2.2 Contrato de concesión de servicios"
   },
   {
@@ -150,7 +150,7 @@
       "100.000 euros"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que el valor estimado debe ser inferior a 40.000 euros.",
+    "explicación": "El tema señala que el valor estimado debe ser inferior a 40.000 euros.",
     "referencia": "II.7 · 2.4 Contratos menores"
   },
   {
@@ -164,7 +164,7 @@
       "asociación para la innovación"
     ],
     "correcta": 1,
-    "explicacion": "El tema presenta el procedimiento abierto como el ordinario.",
+    "explicación": "El tema presenta el procedimiento abierto como el ordinario.",
     "referencia": "II.7 · 3.2 Procedimientos de adjudicación"
   },
   {
@@ -178,7 +178,7 @@
       "Aprobar el presupuesto general del Estado"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye la interpretación de los contratos entre las prerrogativas.",
+    "explicación": "El tema incluye la interpretación de los contratos entre las prerrogativas.",
     "referencia": "II.7 · 4.1 Prerrogativas de la Administración"
   },
   {
@@ -192,7 +192,7 @@
       "solo si lo aprueba el Senado"
     ],
     "correcta": 1,
-    "explicacion": "El tema destaca que la modificación está tasada legalmente.",
+    "explicación": "El tema destaca que la modificación está tasada legalmente.",
     "referencia": "II.7 · 4.3 Modificación del contrato"
   },
   {
@@ -206,7 +206,7 @@
       "5 años"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija un año como plazo mínimo en obras.",
+    "explicación": "El tema fija un año como plazo mínimo en obras.",
     "referencia": "II.7 · 5.1 Extinción por cumplimiento"
   },
   {
@@ -220,7 +220,7 @@
       "convertir el contrato en verbal"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese efecto de la resolución culpable.",
+    "explicación": "El tema recoge ese efecto de la resolución culpable.",
     "referencia": "II.7 · 5.2 Extinción por resolución"
   },
   {
@@ -234,7 +234,7 @@
       "El Consejo de Estado"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así el órgano de contratación.",
+    "explicación": "El tema define así el órgano de contratación.",
     "referencia": "II.7 · 6.1 El órgano de contratación"
   },
   {
@@ -248,7 +248,7 @@
       "modifican los pliegos libremente"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya que son órganos de asistencia, no decisorios.",
+    "explicación": "El tema subraya que son órganos de asistencia, no decisorios.",
     "referencia": "II.7 · 6.4 Órganos de asistencia: las Mesas de Contratación"
   },
   {
@@ -262,13 +262,13 @@
       "inscripción en el padrón"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica la formalización como requisito de perfección.",
+    "explicación": "El tema identifica la formalización como requisito de perfección.",
     "referencia": "II.7 · 7.1 La formalización como requisito de perfección"
   },
   {
     "id": "t20-p015",
     "tema": 16,
-    "pregunta": "Según el art. 63 LCSP, ¿qué información publica el Perfil del Contratante?",
+    "pregunta": "Según el art. 63 LCSP, ¿qué información pública el Perfil del Contratante?",
     "opciones": [
       "Solo las multas impuestas",
       "Anuncios de licitación, pliegos, actas, adjudicaciones y datos estadísticos",
@@ -276,7 +276,7 @@
       "Solo el presupuesto de la entidad"
     ],
     "correcta": 1,
-    "explicacion": "El tema enumera ese contenido del perfil del contratante.",
+    "explicación": "El tema enumera ese contenido del perfil del contratante.",
     "referencia": "II.7 · 7.4 El Perfil del Contratante (art. 63 LCSP)"
   },
   {
@@ -290,13 +290,13 @@
       "la necesidad de una nueva licitación"
     ],
     "correcta": 0,
-    "explicacion": "El temario vincula el transcurso del plazo de garantía sin incidencias con la devolución o cancelación de la garantía definitiva.",
+    "explicación": "El temario vincula el transcurso del plazo de garantía sin incidencias con la devolución o cancelación de la garantía definitiva.",
     "referencia": "II.7 · 5.1 Extinción por cumplimiento (arts. 210-213 LCSP)"
   },
   {
     "id": "t20-p017",
     "tema": 16,
-    "pregunta": "Conforme al art. 118 LCSP, tienen la consideracion de contratos menores los contratos de suministros y servicios cuyo valor estimado sea inferior a:",
+    "pregunta": "Conforme al art. 118 LCSP, tienen la consideración de contratos menores los contratos de suministros y servicios cuyo valor estimado sea inferior a:",
     "opciones": [
       "15.000 euros",
       "18.000 euros",
@@ -304,50 +304,50 @@
       "50.000 euros"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija el umbral de 15.000 euros para suministros y servicios en los contratos menores.",
+    "explicación": "El tema fija el umbral de 15.000 euros para suministros y servicios en los contratos menores.",
     "referencia": "II.7 · 2.4 Contratos menores (art. 118 LCSP)"
   },
   {
     "id": "t20-p018",
     "tema": 16,
-    "pregunta": "Segun el art. 16 LCSP, son contratos de suministro los que tienen por objeto:",
+    "pregunta": "Según el art. 16 LCSP, son contratos de suministro los que tienen por objeto:",
     "opciones": [
-      "La realizacion de prestaciones de hacer que no sean obras ni suministros",
-      "La adquisicion, arrendamiento financiero, arrendamiento con o sin opcion de compra, o adquisicion de bienes muebles",
-      "La gestion de un servicio publico asumiendo el contratista el riesgo operacional",
-      "La ejecucion de una obra o de alguno de los trabajos del Anexo I de la LCSP"
+      "La realización de prestaciones de hacer que no sean obras ni suministros",
+      "La adquisición, arrendamiento financiero, arrendamiento con o sin opción de compra, o adquisición de bienes muebles",
+      "La gestion de un servicio público asumiendo el contratista el riesgo operacional",
+      "La ejecución de una obra o de alguno de los trabajos del Anexo I de la LCSP"
     ],
     "correcta": 1,
-    "explicacion": "El tema define el contrato de suministro mediante esas operaciones sobre bienes muebles.",
+    "explicación": "El tema define el contrato de suministro mediante esas operaciones sobre bienes muebles.",
     "referencia": "II.7 · 2.2.3 Contrato de suministro (arts. 16 y 272-283 LCSP)"
   },
   {
     "id": "t20-p019",
     "tema": 16,
-    "pregunta": "De acuerdo con el Tema 20, si un contrato abarca prestaciones correspondientes a distintos tipos contractuales, su regimen juridico se determinara atendiendo a:",
+    "pregunta": "De acuerdo con el Tema 20, si un contrato abarca prestaciones correspondientes a distintos tipos contractuales, su régimen jurídico se determinara atendiendo a:",
     "opciones": [
       "La voluntad unilateral del contratista",
-      "La cuantia economica mas baja del contrato",
-      "La prestacion principal del contrato",
-      "La decision de la Mesa de Contratacion"
+      "La cuantia económica mas baja del contrato",
+      "La prestación principal del contrato",
+      "La decisión de la Mesa de Contratación"
     ],
     "correcta": 2,
-    "explicacion": "En los contratos mixtos, el tema indica que el regimen se determina por la prestacion principal.",
+    "explicación": "En los contratos mixtos, el tema indica que el régimen se determina por la prestación principal.",
     "referencia": "II.7 · 2.2.5 Contrato mixto (art. 18 LCSP)"
   },
   {
     "id": "t20-p020",
     "tema": 16,
-    "pregunta": "Segun el Tema 20, cuando la Administracion incurra en demora en el pago superior a cuatro meses, podra instar la resolucion del contrato:",
+    "pregunta": "Según el Tema 20, cuando la Administración incurra en demora en el pago superior a cuatro meses, podrá instar la resolución del contrato:",
     "opciones": [
       "El interventor de la entidad",
-      "El organo de contratacion de oficio",
+      "El órgano de contratación de oficio",
       "El contratista",
-      "La Mesa de Contratacion"
+      "La Mesa de Contratación"
     ],
     "correcta": 2,
-    "explicacion": "La demora de la Administracion en el pago superior a cuatro meses figura como causa de resolucion a instancia del contratista.",
-    "referencia": "II.7 · 5.2 Extincion por resolucion (art. 211 LCSP)"
+    "explicación": "La demora de la Administración en el pago superior a cuatro meses figura como causa de resolución a instancia del contratista.",
+    "referencia": "II.7 · 5.2 Extinción por resolución (art. 211 LCSP)"
   },
   {
     "id": "t20-p021",
@@ -360,7 +360,7 @@
       "Los contratos de concesión de obras, concesión de servicios y subvenciones."
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue esos cinco tipos contractuales al tratar la delimitación de los contratos del sector público.",
+    "explicación": "El tema distingue esos cinco tipos contractuales al tratar la delimitación de los contratos del sector público.",
     "referencia": "II.7 · 2.2 Contratos administrativos típicos"
   },
   {
@@ -374,7 +374,7 @@
       "98/83/CE y 2000/60/CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema cita esas dos directivas como base europea.",
+    "explicación": "El tema cita esas dos directivas como base europea.",
     "referencia": "II.7 · 1.2 La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
   },
   {
@@ -388,7 +388,7 @@
       "la prioridad sindical"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la transparencia entre los principios del objeto de la LCSP.",
+    "explicación": "El tema enumera la transparencia entre los principios del objeto de la LCSP.",
     "referencia": "II.7 · 1.3 Objeto de la LCSP"
   },
   {
@@ -402,7 +402,7 @@
       "asociaciones vecinales"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue el régimen pleno para las Administraciones Públicas.",
+    "explicación": "El tema distingue el régimen pleno para las Administraciones Públicas.",
     "referencia": "II.7 · 2.1 El concepto de «sector público» a efectos de contratación"
   },
   {
@@ -416,7 +416,7 @@
       "limitados a la Administración local"
     ],
     "correcta": 0,
-    "explicacion": "El tema los incluye entre los contratos excluidos.",
+    "explicación": "El tema los incluye entre los contratos excluidos.",
     "referencia": "II.7 · 2.2 Contratos excluidos"
   },
   {
@@ -430,7 +430,7 @@
       "la intermediación financiera"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así el contrato de obras.",
+    "explicación": "El tema define así el contrato de obras.",
     "referencia": "II.7 · 3.1 Contratos típicos del sector público"
   },
   {
@@ -444,7 +444,7 @@
       "aprueba el presupuesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema resalta el riesgo operacional.",
+    "explicación": "El tema resalta el riesgo operacional.",
     "referencia": "II.7 · 3.1 Contratos típicos del sector público"
   },
   {
@@ -458,7 +458,7 @@
       "un contrato de escasa cuantía"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo niega como tipo autónomo.",
+    "explicación": "El tema lo niega como tipo autónomo.",
     "referencia": "II.7 · 3.3 El contrato menor"
   },
   {
@@ -472,7 +472,7 @@
       "un expediente de modificación"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como agrupación temporal de empresas.",
+    "explicación": "El tema la define como agrupación temporal de empresas.",
     "referencia": "II.7 · 4.4 La Unión Temporal de Empresas (UTE)"
   },
   {
@@ -486,7 +486,7 @@
       "resolver recursos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como registro de licitadores.",
+    "explicación": "El tema lo presenta como registro de licitadores.",
     "referencia": "II.7 · 4.5 El Registro Oficial de Licitadores y Empresas Clasificadas (ROLECE)"
   },
   {
@@ -500,7 +500,7 @@
       "solo el anuncio de licitación"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos documentos básicos.",
+    "explicación": "El tema enumera esos documentos básicos.",
     "referencia": "II.7 · 5.2 El expediente de contratación"
   },
   {
@@ -514,7 +514,7 @@
       "el saldo de tesorería"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como límite máximo.",
+    "explicación": "El tema lo define como límite máximo.",
     "referencia": "II.7 · 5.3 El presupuesto base de licitación (PBL)"
   },
   {
@@ -528,7 +528,7 @@
       "solo con la oferta más baja"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
+    "explicación": "El tema lo define así.",
     "referencia": "II.7 · 5.4 El valor estimado del contrato (VEC)"
   },
   {
@@ -542,7 +542,7 @@
       "un concurso de traslado"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo llama ordinario y general.",
+    "explicación": "El tema lo llama ordinario y general.",
     "referencia": "II.7 · 6.2 El procedimiento abierto"
   },
   {
@@ -556,7 +556,7 @@
       "actúa sin pliegos"
     ],
     "correcta": 0,
-    "explicacion": "El tema destaca la negociación con las empresas.",
+    "explicación": "El tema destaca la negociación con las empresas.",
     "referencia": "II.7 · 6.4 El procedimiento negociado"
   },
   {
@@ -570,7 +570,7 @@
       "con la lengua materna del adjudicatario"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo exige expresamente.",
+    "explicación": "El tema lo exige expresamente.",
     "referencia": "II.7 · 6.7 Los criterios de adjudicación"
   },
   {
@@ -584,7 +584,7 @@
       "221.000 euros"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija en 40.000 euros el umbral del contrato menor de obras.",
+    "explicación": "El tema fija en 40.000 euros el umbral del contrato menor de obras.",
     "referencia": "II.7 · 3.3 El contrato menor"
   },
   {
@@ -598,7 +598,7 @@
       "el Secretario General"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye esa competencia ordinaria al Alcalde o Presidente de la Diputación.",
+    "explicación": "El tema atribuye esa competencia ordinaria al Alcalde o Presidente de la Diputación.",
     "referencia": "II.7 · 4.1 La Administración: el órgano de contratación"
   },
   {
@@ -612,7 +612,7 @@
       "el importe mínimo que deben ofrecer los licitadores"
     ],
     "correcta": 0,
-    "explicacion": "El PBL fija el techo de gasto del contrato y las ofertas no pueden superarlo.",
+    "explicación": "El PBL fija el techo de gasto del contrato y las ofertas no pueden superarlo.",
     "referencia": "II.7 · 5.3 El presupuesto base de licitación (PBL)"
   },
   {
@@ -626,7 +626,7 @@
       "2 % del precio del contrato con IVA"
     ],
     "correcta": 0,
-    "explicacion": "El adjudicatario debe constituir una garantía definitiva del 5 % del precio de adjudicación sin IVA.",
+    "explicación": "El adjudicatario debe constituir una garantía definitiva del 5 % del precio de adjudicación sin IVA.",
     "referencia": "II.7 · 7.2 La garantía definitiva"
   },
   {
@@ -640,7 +640,7 @@
       "la ejecución queda suspendida si varía el mercado"
     ],
     "correcta": 0,
-    "explicacion": "La ejecución corre por cuenta y riesgo del contratista, salvo los supuestos previstos legalmente.",
+    "explicación": "La ejecución corre por cuenta y riesgo del contratista, salvo los supuestos previstos legalmente.",
     "referencia": "II.7 · 9.1 Principio de riesgo y ventura"
   }
 ]

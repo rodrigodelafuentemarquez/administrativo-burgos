@@ -2,16 +2,16 @@
   {
     "id": "pdf-2025-burgos-q14",
     "tema": 11,
-    "pregunta": "El articulo 40 de la Ley 39/2015 establece que toda notificacion debera ser cursada dentro del plazo de:",
+    "pregunta": "El artículo 40 de la Ley 39/2015 establece que toda notificación debera ser cursada dentro del plazo de:",
     "opciones": [
-      "Cinco dias",
-      "Siete dias",
-      "Diez dias a partir de la fecha en que el acto haya sido dictado",
-      "Un mes desde la resolucion"
+      "Cinco días",
+      "Siete días",
+      "Diez días a partir de la fecha en que el acto haya sido dictado",
+      "Un mes desde la resolución"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 14",
-    "explicacion": "La notificacion debe cursarse en el plazo de diez dias desde que el acto ha sido dictado."
+    "explicación": "La notificación debe cursarse en el plazo de diez días desde que el acto ha sido dictado."
   },
   {
     "id": "t16-p001",
@@ -24,7 +24,7 @@
       "una actuación material sin declaración jurídica"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como declaración de voluntad, deseo, conocimiento o juicio con efectos jurídicos.",
+    "explicación": "El tema lo define como declaración de voluntad, deseo, conocimiento o juicio con efectos jurídicos.",
     "referencia": "II.2 · 1.1 Definición"
   },
   {
@@ -38,7 +38,7 @@
       "El reglamento emana de la Administración local y el acto del Parlamento"
     ],
     "correcta": 1,
-    "explicacion": "El tema presenta el reglamento como norma general y el acto como decisión singular.",
+    "explicación": "El tema presenta el reglamento como norma general y el acto como decisión singular.",
     "referencia": "II.2 · 1.2 Distinción con otras categorías"
   },
   {
@@ -52,7 +52,7 @@
       "solo pueden ser verbales"
     ],
     "correcta": 1,
-    "explicacion": "El tema los identifica con licencias, subvenciones o autorizaciones.",
+    "explicación": "El tema los identifica con licencias, subvenciones o autorizaciones.",
     "referencia": "II.2 · 2.1 Por sus efectos sobre los destinatarios"
   },
   {
@@ -66,7 +66,7 @@
       "Tácito"
     ],
     "correcta": 1,
-    "explicacion": "El tema distingue actos reglados y discrecionales.",
+    "explicación": "El tema distingue actos reglados y discrecionales.",
     "referencia": "II.2 · 2.3 Por su relación con el ordenamiento"
   },
   {
@@ -80,7 +80,7 @@
       "no pueden impugnarse nunca"
     ],
     "correcta": 1,
-    "explicacion": "El tema enumera esos supuestos para la impugnación autónoma.",
+    "explicación": "El tema enumera esos supuestos para la impugnación autónoma.",
     "referencia": "II.2 · 2.4 Por su posición en el procedimiento"
   },
   {
@@ -88,13 +88,13 @@
     "tema": 11,
     "pregunta": "Según el Tema 16, ¿qué requisito subjetivo se exige para la validez del acto en cuanto a competencia?",
     "opciones": [
-      "Que lo dicte cualquier funcionario",
-      "Que lo dicte el órgano competente y con investidura regular del titular",
-      "Que lo apruebe el Tribunal Constitucional",
-      "Que lo firme el interesado"
+      "Qué lo dicte cualquier funcionario",
+      "Qué lo dicte el órgano competente y con investidura regular del titular",
+      "Qué lo apruebe el Tribunal Constitucional",
+      "Qué lo firme el interesado"
     ],
     "correcta": 1,
-    "explicacion": "El tema menciona competencia e investidura regular del titular.",
+    "explicación": "El tema menciona competencia e investidura regular del titular.",
     "referencia": "II.2 · 3.1 Elementos subjetivos"
   },
   {
@@ -108,7 +108,7 @@
       "lo pida cualquier tercero"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge literalmente la regla general y la excepción.",
+    "explicación": "El tema recoge literalmente la regla general y la excepción.",
     "referencia": "II.2 · 3.3 Elementos formales"
   },
   {
@@ -122,7 +122,7 @@
       "Solo los reglamentos"
     ],
     "correcta": 1,
-    "explicacion": "El tema enumera como motivables, entre otros, los actos limitativos de derechos.",
+    "explicación": "El tema enumera como motivables, entre otros, los actos limitativos de derechos.",
     "referencia": "II.2 · 3.3 Elementos formales"
   },
   {
@@ -136,7 +136,7 @@
       "solo ejecutivos tras notificación personal"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge el principio de ejecutividad del art. 38 LPACAP.",
+    "explicación": "El tema recoge el principio de ejecutividad del art. 38 LPACAP.",
     "referencia": "II.2 · 4.1 El principio de ejecutividad"
   },
   {
@@ -150,7 +150,7 @@
       "30 días"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 10 días.",
+    "explicación": "El tema fija 10 días.",
     "referencia": "II.2 · 4.2 La notificación"
   },
   {
@@ -164,7 +164,7 @@
       "sin informe facultativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge esa causa tasada de nulidad.",
+    "explicación": "El tema recoge esa causa tasada de nulidad.",
     "referencia": "II.2 · 5.1 Nulidad de pleno derecho (art. 47 LPACAP)"
   },
   {
@@ -178,7 +178,7 @@
       "el acto carece de motivación pero nunca causa indefensión"
     ],
     "correcta": 0,
-    "explicacion": "El tema define la anulabilidad como infracción del ordenamiento no constitutiva de nulidad.",
+    "explicación": "El tema define la anulabilidad como infracción del ordenamiento no constitutiva de nulidad.",
     "referencia": "II.2 · 5.2 Anulabilidad (art. 48 LPACAP)"
   },
   {
@@ -192,63 +192,63 @@
       "Lesividad"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye a la convalidación la subsanación de actos anulables.",
+    "explicación": "El tema atribuye a la convalidación la subsanación de actos anulables.",
     "referencia": "II.2 · 5.3 La convalidación (art. 52 LPACAP)"
   },
   {
     "id": "t16-p016",
     "tema": 11,
-    "pregunta": "Según el art. 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Publicas sujetos al Derecho Administrativo se presumiran validos y produciran efectos:",
+    "pregunta": "Según el art. 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumiran validos y produciran efectos:",
     "opciones": [
       "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
-      "Solo desde su publicacion en el diario oficial correspondiente",
-      "Exclusivamente desde su notificacion personal al interesado",
-      "Unicamente tras su convalidacion expresa"
+      "Solo desde su publicación en el diario oficial correspondiente",
+      "Exclusivamente desde su notificación personal al interesado",
+      "Unicamente tras su convalidación expresa"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge la regla general de eficacia desde la fecha del acto, salvo que el propio acto disponga otra cosa.",
+    "explicación": "El tema recoge la regla general de eficacia desde la fecha del acto, salvo que el propio acto disponga otra cosa.",
     "referencia": "II.2 · 4. Eficacia de los actos administrativos"
   },
   {
     "id": "t16-p017",
     "tema": 11,
-    "pregunta": "Segun el art. 35 LPACAP, senale cual de los siguientes actos debe ser motivado:",
+    "pregunta": "Según el art. 35 LPACAP, señale cual de los siguientes actos debe ser motivado:",
     "opciones": [
       "Los actos que limiten derechos subjetivos o intereses legitimos",
       "Todos los actos favorables al interesado",
-      "Las comunicaciones internas sin efectos juridicos",
-      "Las actuaciones materiales de ejecucion sin contenido decisorio"
+      "Las comunicaciones internas sin efectos jurídicos",
+      "Las actuaciones materiales de ejecución sin contenido decisorio"
     ],
     "correcta": 0,
-    "explicacion": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivacion obligatoria.",
+    "explicación": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivación obligatoria.",
     "referencia": "II.2 · 3.3 Elementos formales"
   },
   {
     "id": "t16-p018",
     "tema": 11,
-    "pregunta": "Segun el art. 44 LPACAP, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificacion o, intentada esta, no se hubiese podido practicar, la notificacion se hara:",
+    "pregunta": "Según el art. 44 LPACAP, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o, intentada esta, no se hubiese podido practicar, la notificación se hara:",
     "opciones": [
       "Exclusivamente por correo certificado con acuse de recibo",
       "Mediante anuncio publicado en el Boletin Oficial del Estado",
       "Siempre en el tablon de edictos del ayuntamiento del ultimo domicilio",
-      "Unicamente por comparecencia en la sede electronica"
+      "Unicamente por comparecencia en la sede electrónica"
     ],
     "correcta": 1,
-    "explicacion": "La LPACAP impone en estos supuestos la publicacion del anuncio en el BOE.",
-    "referencia": "II.2 · 5.2 La notificacion por anuncio"
+    "explicación": "La LPACAP impone en estos supuestos la publicación del anuncio en el BOE.",
+    "referencia": "II.2 · 5.2 La notificación por anuncio"
   },
   {
     "id": "t16-p020",
     "tema": 11,
-    "pregunta": "Conforme al art. 48 LPACAP, son anulables los actos de la Administracion:",
+    "pregunta": "Conforme al art. 48 LPACAP, son anulables los actos de la Administración:",
     "opciones": [
-      "Contrarios al ordenamiento juridico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisicion",
-      "Dictados por organo manifiestamente incompetente por razon de la materia o del territorio",
+      "Contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición",
+      "Dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
       "Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido",
-      "Que incurran en cualquier infraccion del ordenamiento juridico, incluso la desviacion de poder"
+      "Qué incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder"
     ],
     "correcta": 3,
-    "explicacion": "La anulabilidad comprende cualquier infraccion del ordenamiento juridico que no sea causa de nulidad de pleno derecho, incluida la desviacion de poder.",
+    "explicación": "La anulabilidad comprende cualquier infracción del ordenamiento jurídico que no sea causa de nulidad de pleno derecho, incluida la desviación de poder.",
     "referencia": "II.2 · 5.2 La anulabilidad (art. 48 LPACAP)"
   },
   {
@@ -262,7 +262,7 @@
       "la orden del día"
     ],
     "correcta": 0,
-    "explicacion": "El tema diferencia notificación y comunicación.",
+    "explicación": "El tema diferencia notificación y comunicación.",
     "referencia": "II.2 · 5.1 Concepto y distinción"
   },
   {
@@ -276,7 +276,7 @@
       "solo la firma del notificante"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige texto íntegro, recursos y plazos.",
+    "explicación": "El tema exige texto íntegro, recursos y plazos.",
     "referencia": "II.2 · 5.2.3 Contenido de la notificación"
   },
   {
@@ -290,7 +290,7 @@
       "caducada sin efectos"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija el rechazo por inactividad.",
+    "explicación": "El tema fija el rechazo por inactividad.",
     "referencia": "II.2 · 5.2.4 Medios de notificación"
   },
   {
@@ -304,7 +304,7 @@
       "Diario Oficial de la Unión Europea"
     ],
     "correcta": 0,
-    "explicacion": "El tema identifica el BOE/TEU como cauce edictal.",
+    "explicación": "El tema identifica el BOE/TEU como cauce edictal.",
     "referencia": "II.2 · 5.2.5 Notificación infructuosa y notificación edictal"
   }
 ]

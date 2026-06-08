@@ -31,7 +31,7 @@ Su fundamento constitucional se encuentra en:
 - **Art. 105.b CE:** la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos.
 
 La norma básica estatal en materia de transparencia es la **Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTBG)**, que regula tres instrumentos complementarios:
-1. La **publicidad activa** (información que la Administración publica de oficio).
+1. La **publicidad activa** (información que la Administración pública de oficio).
 2. El **derecho de acceso** a la información pública (a petición del ciudadano).
 3. El **buen gobierno** (obligaciones de conducta de los responsables públicos).
 
@@ -148,7 +148,7 @@ Estos límites son de **aplicación restrictiva** y deben justificarse. El órga
 
 ### 3.5 Protección de datos personales y acceso (art. 15 LTBG)
 
-Cuando la información solicitada contiene **datos personales** de terceros, se aplica una ponderación:
+Cuándo la información solicitada contiene **datos personales** de terceros, se aplica una ponderación:
 
 - Si los datos son **especialmente protegidos** (salud, ideología, religión, orientación sexual, origen racial…): el acceso solo se permite con el **consentimiento expreso** del afectado o amparado por ley.
 - Si los datos son de **carácter meramente identificativo** relacionados con la organización o actividad pública del afectado: el acceso se permite salvo que el afectado se oponga.
@@ -264,9 +264,9 @@ Los responsables y encargados deben llevar un **registro** de todas las activida
 
 #### Delegado de Protección de Datos - DPD (arts. 37-39 RGPD)
 Es obligatorio designar un **DPD** (o DPO, Data Protection Officer) en los siguientes casos:
-- Cuando el tratamiento lo lleve a cabo una **autoridad u organismo público**.
-- Cuando las actividades principales del responsable requieran una **observación habitual y sistemática a gran escala** de interesados.
-- Cuando el tratamiento a gran escala se refiera a **categorías especiales de datos**.
+- Cuándo el tratamiento lo lleve a cabo una **autoridad u organismo público**.
+- Cuándo las actividades principales del responsable requieran una **observación habitual y sistemática a gran escala** de interesados.
+- Cuándo el tratamiento a gran escala se refiera a **categorías especiales de datos**.
 
 > ⚠️ Las **Administraciones Públicas** están obligadas a designar DPD. El DPD actúa con independencia, no puede ser destituido por realizar sus funciones, y debe ser informado de todas las cuestiones relativas a la protección de datos.
 
@@ -275,7 +275,7 @@ Es obligatorio designar un **DPD** (o DPO, Data Protection Officer) en los sigui
 - Si la violación entraña un alto riesgo para los derechos y libertades de los interesados, debe también **comunicarla a los propios interesados** sin dilación indebida.
 
 #### Evaluación de Impacto (art. 35 RGPD)
-Cuando un tipo de tratamiento entrañe un alto riesgo para los derechos y libertades, el responsable debe realizar una **Evaluación de Impacto en Protección de Datos (EIPD)** antes de proceder al tratamiento.
+Cuándo un tipo de tratamiento entrañe un alto riesgo para los derechos y libertades, el responsable debe realizar una **Evaluación de Impacto en Protección de Datos (EIPD)** antes de proceder al tratamiento.
 
 ### 5.8 La Agencia Española de Protección de Datos (AEPD)
 

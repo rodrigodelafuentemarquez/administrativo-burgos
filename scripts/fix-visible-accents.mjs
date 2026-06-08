@@ -1,0 +1,315 @@
+import fs from 'node:fs';
+import path from 'node:path';
+
+const rootDir = path.resolve('.');
+
+const targetDirs = [
+  path.join(rootDir, 'src', 'content'),
+  path.join(rootDir, 'src', 'data'),
+  path.join(rootDir, 'src', 'pages'),
+  path.join(rootDir, 'data', 'tests'),
+];
+
+const allowedExtensions = new Set(['.md', '.astro', '.ts', '.json']);
+
+const exactReplacements = [
+  ['Constitucion', 'Constitución'],
+  ['constitucion', 'constitución'],
+  ['Constitucional', 'Constitucional'],
+  ['Espanola', 'Española'],
+  ['espanola', 'española'],
+  ['espanol', 'español'],
+  ['espanoles', 'españoles'],
+  ['autonomico', 'autonómico'],
+  ['autonomica', 'autonómica'],
+  ['autonomicas', 'autonómicas'],
+  ['autonomico', 'autonómico'],
+  ['autonomia', 'autonomía'],
+  ['autonomias', 'autonomías'],
+  ['articulo', 'artículo'],
+  ['articulos', 'artículos'],
+  ['organo', 'órgano'],
+  ['organos', 'órganos'],
+  ['sesion', 'sesión'],
+  ['sesiones', 'sesiones'],
+  ['funcion', 'función'],
+  ['funciones', 'funciones'],
+  ['intervencion', 'intervención'],
+  ['informacion', 'información'],
+  ['informaciones', 'informaciones'],
+  ['tecnica', 'técnica'],
+  ['tecnicas', 'técnicas'],
+  ['practico', 'práctico'],
+  ['practica', 'práctica'],
+  ['practicas', 'prácticas'],
+  ['teorica', 'teórica'],
+  ['juridico', 'jurídico'],
+  ['juridica', 'jurídica'],
+  ['juridicas', 'jurídicas'],
+  ['juridicos', 'jurídicos'],
+  ['economico', 'económico'],
+  ['economica', 'económica'],
+  ['economicas', 'económicas'],
+  ['economicos', 'económicos'],
+  ['politica', 'política'],
+  ['politicas', 'políticas'],
+  ['publico', 'público'],
+  ['publicos', 'públicos'],
+  ['regimen', 'régimen'],
+  ['organizacion', 'organización'],
+  ['organizaciones', 'organizaciones'],
+  ['clasificacion', 'clasificación'],
+  ['calificacion', 'calificación'],
+  ['proteccion', 'protección'],
+  ['administracion', 'administración'],
+  ['administraciones', 'administraciones'],
+  ['aplicacion', 'aplicación'],
+  ['aplicaciones', 'aplicaciones'],
+  ['obligacion', 'obligación'],
+  ['obligaciones', 'obligaciones'],
+  ['documentacion', 'documentación'],
+  ['expedicion', 'expedición'],
+  ['expediciones', 'expediciones'],
+  ['planificacion', 'planificación'],
+  ['comunicacion', 'comunicación'],
+  ['comunicaciones', 'comunicaciones'],
+  ['peticion', 'petición'],
+  ['peticiones', 'peticiones'],
+  ['resolucion', 'resolución'],
+  ['resoluciones', 'resoluciones'],
+  ['situacion', 'situación'],
+  ['situaciones', 'situaciones'],
+  ['denominacion', 'denominación'],
+  ['denominaciones', 'denominaciones'],
+  ['fiscalizacion', 'fiscalización'],
+  ['federacion', 'federación'],
+  ['cooperacion', 'cooperación'],
+  ['coordinacion', 'coordinación'],
+  ['relacion', 'relación'],
+  ['relaciones', 'relaciones'],
+  ['administrativo comun', 'administrativo común'],
+  ['administrativa comun', 'administrativa común'],
+  ['administrativos comunes', 'administrativos comunes'],
+  ['administracion electronica', 'administración electrónica'],
+  ['sede electronica', 'sede electrónica'],
+  ['medios electronicos', 'medios electrónicos'],
+  ['notificaciones electronicas', 'notificaciones electrónicas'],
+  ['proteccion de datos', 'protección de datos'],
+  ['informacion publica', 'información pública'],
+  ['funcion publica', 'función pública'],
+  ['patrimonio historico', 'patrimonio histórico'],
+  ['credito', 'crédito'],
+  ['creditos', 'créditos'],
+  ['tesoreria', 'tesorería'],
+  ['tecnologia', 'tecnología'],
+  ['tecnologias', 'tecnologías'],
+  ['periodo', 'período'],
+  ['periodos', 'períodos'],
+  ['jurisdiccion', 'jurisdicción'],
+  ['eleccion', 'elección'],
+  ['elecciones', 'elecciones'],
+  ['economico-administrativo', 'económico-administrativo'],
+  ['economico-administrativa', 'económico-administrativa'],
+  ['administrativo Comun', 'administrativo Común'],
+  ['dias', 'días'],
+  ['dia', 'día'],
+  ['boletin', 'boletín'],
+  ['organica', 'orgánica'],
+  ['genero', 'género'],
+  ['minimos', 'mínimos'],
+  ['ambito', 'ámbito'],
+  ['ambitos', 'ámbitos'],
+  ['caracter', 'carácter'],
+  ['caracteristicas', 'características'],
+  ['caracteristica', 'característica'],
+  ['fisica', 'física'],
+  ['fisicas', 'físicas'],
+  ['logica', 'lógica'],
+  ['especifico', 'específico'],
+  ['especificos', 'específicos'],
+  ['especificas', 'específicas'],
+  ['carácteristicas', 'características'],
+  ['carácterística', 'característica'],
+  ['practicos', 'prácticos'],
+  ['critico', 'crítico'],
+  ['criticos', 'críticos'],
+  ['critica', 'crítica'],
+  ['criticas', 'críticas'],
+  ['teoria', 'teoría'],
+  ['teorias', 'teorías'],
+  ['conclusion', 'conclusión'],
+  ['conclusiones', 'conclusiones'],
+  ['correccion', 'corrección'],
+  ['correcciones', 'correcciones'],
+  ['solucion', 'solución'],
+  ['soluciones', 'soluciones'],
+  ['interpretacion', 'interpretación'],
+  ['interpretaciones', 'interpretaciones'],
+  ['argumentacion', 'argumentación'],
+  ['analisis', 'análisis'],
+  ['sintesis', 'síntesis'],
+  ['redaccion', 'redacción'],
+  ['util', 'útil'],
+  ['utiles', 'útiles'],
+  ['minimo', 'mínimo'],
+  ['minimos', 'mínimos'],
+  ['minima', 'mínima'],
+  ['minimas', 'mínimas'],
+  ['maximo', 'máximo'],
+  ['maximos', 'máximos'],
+  ['nucleo', 'núcleo'],
+  ['organica', 'orgánica'],
+  ['obligacion', 'obligación'],
+  ['obstaculos', 'obstáculos'],
+  ['razon', 'razón'],
+  ['razones', 'razones'],
+  ['promocion', 'promoción'],
+  ['conciliacion', 'conciliación'],
+  ['reduccion', 'reducción'],
+  ['seleccion', 'selección'],
+  ['valoracion', 'valoración'],
+  ['eliminacion', 'eliminación'],
+  ['discriminacion', 'discriminación'],
+  ['formacion', 'formación'],
+  ['politico', 'político'],
+  ['politicos', 'políticos'],
+  ['civilizacion', 'civilización'],
+  ['conformacion', 'conformación'],
+  ['tramite', 'trámite'],
+  ['tramites', 'trámites'],
+  ['publicacion', 'publicación'],
+  ['publicaciones', 'publicaciones'],
+  ['exposicion', 'exposición'],
+  ['comparecencia', 'comparecencia'],
+  ['inhabil', 'inhábil'],
+  ['telematicos', 'telemáticos'],
+  ['telematico', 'telemático'],
+  ['esfera', 'esfera'],
+  ['esferas', 'esferas'],
+  ['equivale', 'equivale'],
+  ['Garantia', 'Garantía'],
+  ['Garantias', 'Garantías'],
+  ['garantia', 'garantía'],
+  ['garantias', 'garantías'],
+  ['Regimen', 'Régimen'],
+  ['Regimenes', 'Regímenes'],
+  ['Juridico', 'Jurídico'],
+  ['Juridica', 'Jurídica'],
+  ['Juridicas', 'Jurídicas'],
+  ['Juridicos', 'Jurídicos'],
+  ['Autonomia', 'Autonomía'],
+  ['Autonomias', 'Autonomías'],
+  ['Autonoma', 'Autónoma'],
+  ['Autonomas', 'Autónomas'],
+  ['Leon', 'León'],
+  ['Genero', 'Género'],
+  ['Garantia', 'Garantía'],
+  ['tipologia', 'tipología'],
+  ['urbanistico', 'urbanístico'],
+  ['urbanistica', 'urbanística'],
+  ['urbanisticas', 'urbanísticas'],
+  ['Senale', 'Señale'],
+  ['senale', 'señale'],
+  ['podra', 'podrá'],
+  ['podran', 'podrán'],
+  ['realizara', 'realizará'],
+  ['especificamente', 'específicamente'],
+  ['basica', 'básica'],
+  ['basicas', 'básicas'],
+  ['basico', 'básico'],
+  ['basicos', 'básicos'],
+  ['electronica', 'electrónica'],
+  ['electronico', 'electrónico'],
+  ['electronicos', 'electrónicos'],
+  ['economia', 'economía'],
+  ['Codigo', 'Código'],
+  ['codigo', 'código'],
+  ['unicamente', 'únicamente'],
+];
+
+const phraseReplacements = [
+  [/\bQue\b/g, 'Qué'],
+  [/\bque articulo\b/g, 'qué artículo'],
+  [/\bQue articulo\b/g, 'Qué artículo'],
+  [/\bQue Ley\b/g, 'Qué Ley'],
+  [/\bQue situacion\b/g, 'Qué situación'],
+  [/\bComo\b/g, 'Cómo'],
+  [/\bCual\b/g, 'Cuál'],
+  [/\bCuales\b/g, 'Cuáles'],
+  [/\bQuien\b/g, 'Quién'],
+  [/\bQuienes\b/g, 'Quiénes'],
+  [/\bCuando\b/g, 'Cuándo'],
+  [/\bDonde\b/g, 'Dónde'],
+  [/\bEn que\b/g, 'En qué'],
+  [/\bDe que\b/g, 'De qué'],
+  [/\bPor que\b/g, 'Por qué'],
+  [/\bSegun\b/g, 'Según'],
+  [/\bTambien\b/g, 'También'],
+  [/\bA traves\b/g, 'A través'],
+  [/\bsi mismo\b/g, 'sí mismo'],
+  [/\bcuál de las siguientes no\b/g, 'cuál de las siguientes no'],
+  [/\bLey Organica\b/g, 'Ley Orgánica'],
+  [/\bConstitucion Espanola\b/g, 'Constitución Española'],
+  [/\bAdministraciones Publicas\b/g, 'Administraciones Públicas'],
+  [/\bAdministracion Publica\b/g, 'Administración Pública'],
+  [/\badministracion publica\b/g, 'administración pública'],
+  [/\bfuncion publica\b/g, 'función pública'],
+  [/\binformacion publica\b/g, 'información pública'],
+  [/\bse pública\b/g, 'se publica'],
+  [/\bespecífica los puestos\b/g, 'especifica los puestos'],
+  [/\bespecífica el\b/g, 'especifica el'],
+  [/\bmediante el cuál\b/g, 'mediante el cual'],
+  [/\bmediante la cuál\b/g, 'mediante la cual'],
+  [/\bal cuál\b/g, 'al cual'],
+  [/\bdel cuál\b/g, 'del cual'],
+];
+
+function walk(dir, files = []) {
+  if (!fs.existsSync(dir)) return files;
+  for (const entry of fs.readdirSync(dir, { withFileTypes: true })) {
+    const fullPath = path.join(dir, entry.name);
+    if (entry.isDirectory()) {
+      walk(fullPath, files);
+      continue;
+    }
+    if (allowedExtensions.has(path.extname(entry.name))) files.push(fullPath);
+  }
+  return files;
+}
+
+function replaceWholeWord(text, source, target) {
+  return text.replace(new RegExp(`\\b${source}\\b`, 'g'), target);
+}
+
+let touched = 0;
+
+for (const dir of targetDirs) {
+  for (const filePath of walk(dir)) {
+    const original = fs.readFileSync(filePath, 'utf8');
+    let next = original;
+
+    for (const [source, target] of exactReplacements) {
+      next = replaceWholeWord(next, source, target);
+    }
+
+    next = next
+      .replace(/\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+)cion\b/g, '$1ción')
+      .replace(/\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+)ciones\b/g, '$1ciones')
+      .replace(/\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+)sion\b/g, '$1sión')
+      .replace(/\b([A-Za-zÁÉÍÓÚÜÑáéíóúüñ]+)siones\b/g, '$1siones');
+
+    for (const [pattern, replacement] of phraseReplacements) {
+      next = next.replace(pattern, replacement);
+    }
+
+    next = next.replace(/^código:/gm, 'codigo:');
+
+    if (next !== original) {
+      fs.writeFileSync(filePath, next);
+      touched += 1;
+      console.log(path.relative(rootDir, filePath));
+    }
+  }
+}
+
+console.log(`Archivos corregidos: ${touched}`);

@@ -2,85 +2,85 @@
 grupo: "Grupo V. Competencias"
 tema: 7
 codigo: "Tema V.7"
-titulo: "Las nuevas tecnologias en la gestion de las administraciones publicas. La Administracion electronica. El funcionamiento electronico del sector publico."
+titulo: "Las nuevas tecnologías en la gestion de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público."
 estado: "borrador"
 ---
 
 ## Normativa de referencia
 
-La administracion electronica se regula por la Ley 39/2015, la Ley 40/2015, el Real Decreto 203/2021, el Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y normativa de identificacion, firma y archivo electronico.
+La administración electrónica se regula por la Ley 39/2015, la Ley 40/2015, el Real Decreto 203/2021, el Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y normativa de identificación, firma y archivo electrónico.
 
-## Nuevas tecnologias en la gestion publica
+## Nuevas tecnologías en la gestion pública
 
-Las tecnologias permiten tramitar expedientes, registrar documentos, notificar, firmar, archivar, intercambiar datos, automatizar tareas y prestar servicios sin presencia fisica. Su finalidad no es solo digitalizar papel, sino mejorar eficacia, trazabilidad, accesibilidad y transparencia.
+Las tecnologías permiten tramitar expedientes, registrar documentos, notificar, firmar, archivar, intercambiar datos, automatizar tareas y prestar servicios sin presencia física. Su finalidad no es solo digitalizar papel, sino mejorar eficacia, trazabilidad, accesibilidad y transparencia.
 
-La transformacion digital de la Administracion tiene una consecuencia muy importante: el procedimiento ya no se concibe como una carpeta fisica que circula entre mesas, sino como una secuencia documentada de actuaciones electronicas. Cada actuacion debe poder identificarse, fecharse, firmarse, conservarse y auditarse. Por eso las nuevas tecnologias no son un accesorio informatico, sino una parte del regimen juridico del procedimiento.
+La transformación digital de la Administración tiene una consecuencia muy importante: el procedimiento ya no se concibe como una carpeta física que circula entre mesas, sino como una secuencia documentada de actuaciones electronicas. Cada actuación debe poder identificarse, fecharse, firmarse, conservarse y auditarse. Por eso las nuevas tecnologías no son un accesorio informatico, sino una parte del régimen jurídico del procedimiento.
 
-| Elemento | Funcion en la gestion publica |
+| Elemento | Función en la gestion pública |
 | --- | --- |
-| Sede electronica | Punto oficial de acceso a tramites y servicios electronicos. |
-| Registro electronico | Entrada y salida de solicitudes, escritos y comunicaciones. |
-| Expediente electronico | Conjunto ordenado de documentos y actuaciones del procedimiento. |
-| Firma electronica | Acredita autoria, integridad y voluntad de firma. |
-| Notificacion electronica | Comunica actos administrativos por medios electronicos. |
-| Archivo electronico | Conserva documentos y expedientes con garantias. |
+| Sede electrónica | Punto oficial de acceso a trámites y servicios electrónicos. |
+| Registro electrónico | Entrada y salida de solicitudes, escritos y comunicaciones. |
+| Expediente electrónico | Conjunto ordenado de documentos y actuaciones del procedimiento. |
+| Firma electrónica | Acredita autoria, integridad y voluntad de firma. |
+| Notificación electrónica | Comunica actos administrativos por medios electrónicos. |
+| Archivo electrónico | Conserva documentos y expedientes con garantías. |
 | Interoperabilidad | Permite intercambio seguro de datos entre Administraciones. |
 | Seguridad | Protege disponibilidad, autenticidad, integridad, confidencialidad y trazabilidad. |
 
-## Administracion electronica
+## Administración electrónica
 
-La Administracion electronica es el uso de medios electronicos en relaciones internas y externas de las Administraciones. Incluye sede electronica, registro electronico, notificacion electronica, expediente electronico, archivo electronico, firma electronica, intercambio de datos y actuacion administrativa automatizada.
+La Administración electrónica es el uso de medios electrónicos en relaciones internas y externas de las Administraciones. Incluye sede electrónica, registro electrónico, notificación electrónica, expediente electrónico, archivo electrónico, firma electrónica, intercambio de datos y actuación administrativa automatizada.
 
-La Ley 39/2015 parte de una idea basica: la tramitacion electronica debe ser el funcionamiento ordinario de las Administraciones. Esto afecta tanto a relaciones con ciudadanos como a relaciones internas. Los expedientes deben impulsarse electronicamente, los documentos deben incorporarse en formato electronico, las comunicaciones entre Administraciones deben realizarse por medios electronicos y las copias deben emitirse con garantias de autenticidad.
+La Ley 39/2015 parte de una idea básica: la tramitación electrónica debe ser el funcionamiento ordinario de las Administraciones. Esto afecta tanto a relaciones con ciudadanos como a relaciones internas. Los expedientes deben impulsarse electronicamente, los documentos deben incorporarse en formato electrónico, las comunicaciones entre Administraciones deben realizarse por medios electrónicos y las copias deben emitirse con garantías de autenticidad.
 
 ## Derechos y obligaciones
 
-Las personas fisicas pueden elegir relacionarse electronicamente o no, salvo que esten obligadas. Estan obligadas, entre otros, personas juridicas, entidades sin personalidad, profesionales colegiados para tramites de su actividad, representantes de obligados y empleados publicos en actuaciones por razon de su condicion.
+Las personas físicas pueden elegir relacionarse electronicamente o no, salvo que esten obligadas. Estan obligadas, entre otros, personas jurídicas, entidades sin personalidad, profesionales colegiados para trámites de su actividad, representantes de obligados y empleados públicos en actuaciones por razón de su condición.
 
-Los interesados tienen derecho a no aportar documentos ya presentados o elaborados por Administraciones, salvo oposicion o imposibilidad legal. La Administracion debe consultar datos mediante plataformas de intermediacion cuando proceda.
+Los interesados tienen derecho a no aportar documentos ya presentados o elaborados por Administraciones, salvo oposición o imposibilidad legal. La Administración debe consultar datos mediante plataformas de intermediación cuando proceda.
 
-| Sujeto | Relacion electronica |
+| Sujeto | Relación electrónica |
 | --- | --- |
-| Persona fisica no obligada | Puede elegir canal presencial o electronico. |
-| Persona juridica | Obligada a relacionarse electronicamente. |
-| Entidad sin personalidad juridica | Obligada a relacionarse electronicamente. |
-| Profesional colegiado | Obligado para tramites de su actividad profesional. |
-| Representante de obligado electronico | Debe usar medios electronicos. |
-| Empleado publico | Obligado en tramites vinculados a su condicion de empleado publico. |
+| Persona física no obligada | Puede elegir canal presencial o electrónico. |
+| Persona jurídica | Obligada a relacionarse electronicamente. |
+| Entidad sin personalidad jurídica | Obligada a relacionarse electronicamente. |
+| Profesional colegiado | Obligado para trámites de su actividad profesional. |
+| Representante de obligado electrónico | Debe usar medios electrónicos. |
+| Empleado público | Obligado en trámites vinculados a su condición de empleado público. |
 
-El derecho a no aportar documentos ya obrantes en la Administracion es especialmente importante en atencion ciudadana. No debe pedirse al ciudadano un certificado que la Administracion pueda consultar, salvo que exista oposicion justificada, imposibilidad tecnica o una norma exija aportacion.
+El derecho a no aportar documentos ya obrantes en la Administración es especialmente importante en atención ciudadana. No debe pedirse al ciudadano un certificado que la Administración pueda consultar, salvo que exista oposición justificada, imposibilidad técnica o una norma exija aportación.
 
-## Sede, registro y notificacion
+## Sede, registro y notificación
 
-La sede electronica es la direccion electronica titularidad de una Administracion que garantiza identificacion, autenticidad y responsabilidad. El registro electronico permite presentar documentos todos los dias y horas. La notificacion electronica se practica mediante comparecencia en sede o direccion electronica habilitada.
+La sede electrónica es la dirección electrónica titularidad de una Administración que garantiza identificación, autenticidad y responsabilidad. El registro electrónico permite presentar documentos todos los días y horas. La notificación electrónica se práctica mediante comparecencia en sede o dirección electrónica habilitada.
 
-La sede debe identificar a su titular, garantizar canales seguros, publicar informacion de tramites, permitir acceso al registro y ofrecer medios de comprobacion de documentos. El registro electronico emite recibo con fecha, hora, numero de registro y relacion de documentos presentados.
+La sede debe identificar a su titular, garantizar canales seguros, publicar información de trámites, permitir acceso al registro y ofrecer medios de comprobación de documentos. El registro electrónico emite recibo con fecha, hora, numero de registro y relación de documentos presentados.
 
-La notificacion electronica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad tecnica o material. En la practica administrativa es esencial comprobar si el interesado esta obligado a medios electronicos, si ha comparecido, si la notificacion ha caducado o si procede intento en papel.
+La notificación electrónica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado esta obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
 
-## Funcionamiento electronico del sector publico
+## Funcionamiento electrónico del sector público
 
-La Ley 40/2015 regula relaciones electronicas entre Administraciones, archivo electronico, intercambio de informacion, identificacion de sedes, portales, sistemas de firma y actuacion automatizada.
+La Ley 40/2015 regula relaciones electronicas entre Administraciones, archivo electrónico, intercambio de información, identificación de sedes, portales, sistemas de firma y actuación automatizada.
 
 La interoperabilidad permite que sistemas distintos se comuniquen. La seguridad protege confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad.
 
-El Esquema Nacional de Interoperabilidad busca que los sistemas puedan compartir informacion y documentos de forma coherente. El Esquema Nacional de Seguridad establece medidas para proteger sistemas e informacion. Ambos son esenciales porque un expediente electronico solo es util si puede conservarse, consultarse, verificarse y compartirse con garantias.
+El Esquema Nacional de Interoperabilidad busca que los sistemas puedan compartir información y documentos de forma coherente. El Esquema Nacional de Seguridad establece medidas para proteger sistemas e información. Ambos son esenciales porque un expediente electrónico solo es útil si puede conservarse, consultarse, verificarse y compartirse con garantías.
 
-## Actuacion administrativa automatizada
+## Actuación administrativa automatizada
 
-Es cualquier acto o actuacion realizada integramente por medios electronicos sin intervencion directa de empleado publico en cada caso. Debe definirse organo responsable, sistemas, supervision y recursos posibles.
+Es cualquier acto o actuación realizada integramente por medios electrónicos sin intervención directa de empleado público en cada caso. Debe definirse órgano responsable, sistemas, supervisión y recursos posibles.
 
-En un Ayuntamiento, la administracion electronica afecta a registro, padron, tributos, licencias, facturas, contratacion, notificaciones, archivo y atencion ciudadana.
+En un Ayuntamiento, la administración electrónica afecta a registro, padron, tributos, licencias, facturas, contratación, notificaciones, archivo y atención ciudadana.
 
 ## Ejemplos municipales
 
-| Ambito | Uso electronico habitual |
+| Ambito | Uso electrónico habitual |
 | --- | --- |
 | Padron | Solicitudes, certificados, cita previa, intercambio de datos. |
 | Tributos | Autoliquidaciones, recibos, domiciliaciones, recursos y pagos. |
 | Urbanismo | Licencias, declaraciones responsables, informes y notificaciones. |
-| Contratacion | Perfil del contratante, licitacion electronica y facturacion. |
-| Registro | Digitalizacion, asiento, recibo y remision a unidad gestora. |
-| Archivo | Conservacion de expedientes y control de acceso. |
+| Contratación | Perfil del contratante, licitación electrónica y facturación. |
+| Registro | Digitalización, asiento, recibo y remisión a unidad gestora. |
+| Archivo | Conservación de expedientes y control de acceso. |
 
-El error mas comun es pensar que el documento electronico es una simple copia digital del papel. Juridicamente debe reunir requisitos de autenticidad, integridad, conservacion, metadatos y firma cuando proceda. Si falta alguno, pueden aparecer problemas de prueba, acceso, archivo o validez.
+El error mas comun es pensar que el documento electrónico es una simple copia digital del papel. Juridicamente debe reunir requisitos de autenticidad, integridad, conservación, metadatos y firma cuando proceda. Si falta alguno, pueden aparecer problemas de prueba, acceso, archivo o validez.

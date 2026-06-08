@@ -10,7 +10,7 @@
       "un sistema operativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
+    "explicación": "El tema lo define así.",
     "referencia": "V.10 · 1.1 Qué es Word 365"
   },
   {
@@ -24,7 +24,7 @@
       "pila de protocolos"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la cinta de opciones como elemento principal.",
+    "explicación": "El tema enumera la cinta de opciones como elemento principal.",
     "referencia": "V.10 · 1.2 La interfaz de Word 365"
   },
   {
@@ -38,7 +38,7 @@
       "un protocolo de internet"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así los estilos.",
+    "explicación": "El tema define así los estilos.",
     "referencia": "V.10 · 2.4 Estilos"
   },
   {
@@ -52,7 +52,7 @@
       "los comentarios"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo indica expresamente.",
+    "explicación": "El tema lo indica expresamente.",
     "referencia": "V.10 · 2.10 Tabla de contenido"
   },
   {
@@ -66,7 +66,7 @@
       "comprimir archivos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como herramienta de revisión colaborativa.",
+    "explicación": "El tema lo presenta como herramienta de revisión colaborativa.",
     "referencia": "V.10 · 2.13 Seguimiento de cambios y comentarios"
   },
   {
@@ -80,7 +80,7 @@
       "bases de datos relacionales"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo explica así.",
+    "explicación": "El tema lo explica así.",
     "referencia": "V.10 · 2.14 Combinar correspondencia"
   },
   {
@@ -94,7 +94,7 @@
       ".html solo"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera .docx entre los formatos principales.",
+    "explicación": "El tema enumera .docx entre los formatos principales.",
     "referencia": "V.10 · 3.1 Guardar documentos"
   },
   {
@@ -108,7 +108,7 @@
       "Vista → Zoom"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa ahí la impresión.",
+    "explicación": "El tema sitúa ahí la impresión.",
     "referencia": "V.10 · 3.3 Impresión de documentos"
   },
   {
@@ -122,7 +122,7 @@
       "Referencias → Citas"
     ],
     "correcta": 0,
-    "explicacion": "El tema ubica la personalización en Archivo → Opciones.",
+    "explicación": "El tema ubica la personalización en Archivo → Opciones.",
     "referencia": "V.10 · 4.1 Opciones de Word"
   },
   {
@@ -136,7 +136,7 @@
       "un sistema operativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como hoja de cálculo.",
+    "explicación": "El tema lo define como hoja de cálculo.",
     "referencia": "V.10 · 5.1 Qué es Excel 365"
   },
   {
@@ -150,7 +150,7 @@
       "mensajes"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue el libro y sus hojas.",
+    "explicación": "El tema distingue el libro y sus hojas.",
     "referencia": "V.10 · 6.1 El libro de Excel / 6.2 Las hojas de cálculo"
   },
   {
@@ -164,7 +164,7 @@
       "no puede usarse en fórmulas"
     ],
     "correcta": 0,
-    "explicacion": "El tema trata las referencias a celdas en las fórmulas.",
+    "explicación": "El tema trata las referencias a celdas en las fórmulas.",
     "referencia": "V.10 · 9.2 Referencias a celdas"
   },
   {
@@ -178,7 +178,7 @@
       "CIRCULAR"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye funciones principales en el apartado de fórmulas y funciones.",
+    "explicación": "El tema incluye funciones principales en el apartado de fórmulas y funciones.",
     "referencia": "V.10 · 9.3 Funciones principales"
   },
   {
@@ -192,7 +192,7 @@
       "crear macros de Word"
     ],
     "correcta": 0,
-    "explicacion": "El tema dedica un apartado a los gráficos.",
+    "explicación": "El tema dedica un apartado a los gráficos.",
     "referencia": "V.10 · 10. Gráficos en Excel"
   },
   {
@@ -206,7 +206,7 @@
       "copias de seguridad"
     ],
     "correcta": 0,
-    "explicacion": "El tema las incluye en la gestión de datos.",
+    "explicación": "El tema las incluye en la gestión de datos.",
     "referencia": "V.10 · 11.4 Tablas dinámicas (PivotTable)"
   },
   {
@@ -220,7 +220,7 @@
       "Ctrl + P"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la tabla de contenido puede actualizarse con clic derecho o con F9.",
+    "explicación": "El tema indica que la tabla de contenido puede actualizarse con clic derecho o con F9.",
     "referencia": "V.10 · 2.10 Tabla de contenido"
   },
   {
@@ -234,7 +234,7 @@
       "una copia impresa del último documento abierto"
     ],
     "correcta": 0,
-    "explicacion": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado.",
+    "explicación": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado.",
     "referencia": "V.10 · 3.2 Recuperación de documentos"
   },
   {
@@ -248,7 +248,7 @@
       "F7"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge expresamente el atajo Ctrl + 1 para abrir Formato de celdas.",
+    "explicación": "El tema recoge expresamente el atajo Ctrl + 1 para abrir Formato de celdas.",
     "referencia": "V.10 · 7.3 Formato de celdas"
   },
   {
@@ -262,7 +262,7 @@
       "A$"
     ],
     "correcta": 0,
-    "explicacion": "La referencia absoluta fija tanto columna como fila mediante el signo $.",
+    "explicación": "La referencia absoluta fija tanto columna como fila mediante el signo $.",
     "referencia": "V.10 · 9.2 Referencias a celdas"
   },
   {
@@ -276,13 +276,13 @@
       "una opción de impresión avanzada"
     ],
     "correcta": 0,
-    "explicacion": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
+    "explicación": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
     "referencia": "V.10 · 9.3 Funciones principales"
   },
   {
     "id": "t38-p021",
     "tema": 41,
-    "pregunta": "¿Que funcion de Excel 365 invierte el valor logico de su argumento?",
+    "pregunta": "¿Qué función de Excel 365 invierte el valor logico de su argumento?",
     "opciones": [
       "NO",
       "MINVERSA",
@@ -290,7 +290,7 @@
       "ESLOGICO"
     ],
     "correcta": 0,
-    "explicacion": "La funcion NO devuelve el valor logico contrario del argumento evaluado.",
+    "explicación": "La función NO devuelve el valor logico contrario del argumento evaluado.",
     "referencia": "V.10 · 9.3 Funciones logicas"
   }
 ]

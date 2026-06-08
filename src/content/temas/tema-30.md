@@ -380,7 +380,7 @@ Si la Intervención observa reparos a la legalidad del gasto, lo comunica al ór
 
 ### 10.6 Modificaciones presupuestarias
 
-Cuando durante el ejercicio es necesario gastar en conceptos no previstos o por encima del crédito aprobado, se tramitan **modificaciones presupuestarias**. Las principales son:
+Cuándo durante el ejercicio es necesario gastar en conceptos no previstos o por encima del crédito aprobado, se tramitan **modificaciones presupuestarias**. Las principales son:
 
 | Tipo | Descripción | Órgano que la aprueba |
 |---|---|---|

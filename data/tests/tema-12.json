@@ -2,7 +2,7 @@
   {
     "id": "pdf-2023-burgos-q27",
     "tema": 12,
-    "pregunta": "La Ley 39/2015 indica que, cuando las normas reguladoras de los procedimientos no fijen el plazo maximo para resolver, este sera de:",
+    "pregunta": "La Ley 39/2015 indica que, cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para resolver, este sera de:",
     "opciones": [
       "Un mes",
       "Dos meses",
@@ -11,40 +11,40 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 27",
-    "explicacion": "Si no existe plazo maximo especifico, el plazo general para resolver es de tres meses."
+    "explicación": "Si no existe plazo máximo específico, el plazo general para resolver es de tres meses."
   },
   {
     "id": "pdf-2023-burgos-q29",
     "tema": 12,
-    "pregunta": "Segun el articulo 54 de la Ley 39/2015, los procedimientos administrativos podran iniciarse:",
+    "pregunta": "Según el artículo 54 de la Ley 39/2015, los procedimientos administrativos podrán iniciarse:",
     "opciones": [
-      "Solo a traves del registro general o del registro electronico",
+      "Solo a traves del registro general o del registro electrónico",
       "Por el interesado, aunque sea menor de edad, en cualquier caso",
       "De oficio o a solicitud del interesado",
       "En cualquier momento y sin tener que aportar datos personales"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 29",
-    "explicacion": "La iniciacion del procedimiento puede producirse de oficio o a solicitud del interesado."
+    "explicación": "La iniciación del procedimiento puede producirse de oficio o a solicitud del interesado."
   },
   {
     "id": "pdf-2023-burgos-q30",
     "tema": 12,
-    "pregunta": "Segun el articulo 84 de la Ley 39/2015, pondran fin al procedimiento administrativo:",
+    "pregunta": "Según el artículo 84 de la Ley 39/2015, pondran fin al procedimiento administrativo:",
     "opciones": [
-      "La resolucion, el desistimiento, la renuncia cuando proceda y la declaracion de caducidad",
-      "La resolucion y la denuncia",
+      "La resolución, el desistimiento, la renuncia cuando proceda y la declaración de caducidad",
+      "La resolución y la denuncia",
       "Las respuestas a) y b)",
       "Ninguna es correcta"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 30",
-    "explicacion": "La Ley 39/2015 enumera la resolucion y otras formas tasadas de terminacion, entre ellas desistimiento, renuncia y caducidad."
+    "explicación": "La Ley 39/2015 enumera la resolución y otras formas tasadas de terminación, entre ellas desistimiento, renuncia y caducidad."
   },
   {
     "id": "pdf-2025-burgos-q16",
     "tema": 12,
-    "pregunta": "En que articulo de la Ley 39/2015 se recoge que los tramites que deban ser cumplimentados por los interesados deberan realizarse en el plazo de diez dias desde la notificacion del correspondiente acto?",
+    "pregunta": "En qué artículo de la Ley 39/2015 se recoge que los trámites que deban ser cumplimentados por los interesados deberan realizarse en el plazo de diez días desde la notificación del correspondiente acto?",
     "opciones": [
       "Articulo 71",
       "Articulo 72",
@@ -53,35 +53,35 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 16",
-    "explicacion": "El articulo 73 LPAC regula el cumplimiento de tramites por los interesados."
+    "explicación": "El artículo 73 LPAC regula el cumplimiento de trámites por los interesados."
   },
   {
     "id": "pdf-2025-burgos-q17",
     "tema": 12,
-    "pregunta": "En relacion con el articulo 80 de la Ley 39/2015, cual de las siguientes afirmaciones referidas a la emision de informes es falsa?",
+    "pregunta": "En relación con el artículo 80 de la Ley 39/2015, cual de las siguientes afirmaciones referidas a la emisión de informes es falsa?",
     "opciones": [
-      "Salvo disposicion expresa en contrario, los informes seran facultativos y no vinculantes",
-      "Si no se emiten en plazo, podran proseguirse las actuaciones salvo cuando se trate de un informe preceptivo",
-      "Si el informe debe ser emitido por otra Administracion y no llega en plazo, no podran proseguirse las actuaciones hasta que lo emita o se sustituya por uno propio",
-      "Los informes se emitiran preferentemente por medios electronicos en el plazo de diez dias, salvo disposicion especifica"
+      "Salvo disposición expresa en contrario, los informes seran facultativos y no vinculantes",
+      "Si no se emiten en plazo, podrán proseguirse las actuaciones salvo cuando se trate de un informe preceptivo",
+      "Si el informe debe ser emitido por otra Administración y no llega en plazo, no podrán proseguirse las actuaciones hasta que lo emita o se sustituya por uno propio",
+      "Los informes se emitiran preferentemente por medios electrónicos en el plazo de diez días, salvo disposición específica"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 17",
-    "explicacion": "La falta de informe de otra Administracion no paraliza siempre las actuaciones de forma absoluta; la opcion c formula incorrectamente ese efecto."
+    "explicación": "La falta de informe de otra Administración no paraliza siempre las actuaciones de forma absoluta; la opción c formula incorrectamente ese efecto."
   },
   {
     "id": "pdf-2025-burgos-q18",
     "tema": 12,
-    "pregunta": "Segun la Ley 39/2015, la ejecucion forzosa por las Administraciones Publicas podra efectuarse por diversos medios. Indica la respuesta incorrecta:",
+    "pregunta": "Según la Ley 39/2015, la ejecución forzosa por las Administraciones Públicas podrá efectuarse por diversos medios. Indica la respuesta incorrecta:",
     "opciones": [
       "Apremio sobre el patrimonio",
-      "Ejecucion subsidiaria",
+      "Ejecución subsidiaria",
       "Multa progresiva",
-      "Compulsion sobre las personas"
+      "Compulsión sobre las personas"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 18",
-    "explicacion": "La Ley 39/2015 habla de multa coercitiva, no de multa progresiva."
+    "explicación": "La Ley 39/2015 habla de multa coercitiva, no de multa progresiva."
   },
   {
     "id": "t15-p001",
@@ -94,7 +94,7 @@
       "únicamente la responsabilidad patrimonial"
     ],
     "correcta": 1,
-    "explicacion": "El tema resume así el objeto de la Ley 39/2015.",
+    "explicación": "El tema resume así el objeto de la Ley 39/2015.",
     "referencia": "II.3 · 1.1 Contexto y objeto"
   },
   {
@@ -108,7 +108,7 @@
       "1 mes"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 10 días hábiles para la subsanación.",
+    "explicación": "El tema fija 10 días hábiles para la subsanación.",
     "referencia": "II.3 · 3.1 Fase de iniciación"
   },
   {
@@ -122,7 +122,7 @@
       "la sentencia previa"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos elementos de la solicitud.",
+    "explicación": "El tema enumera esos elementos de la solicitud.",
     "referencia": "II.3 · 2.1 Los interesados en el procedimiento / 3.1 Fase de iniciación"
   },
   {
@@ -136,7 +136,7 @@
       "No superior a 60 días"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija ese intervalo para la prueba.",
+    "explicación": "El tema fija ese intervalo para la prueba.",
     "referencia": "II.3 · 3.2.2 Prueba"
   },
   {
@@ -150,7 +150,7 @@
       "1 mes"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija entre 10 y 15 días hábiles.",
+    "explicación": "El tema fija entre 10 y 15 días hábiles.",
     "referencia": "II.3 · 3.2.4 Trámite de audiencia"
   },
   {
@@ -164,7 +164,7 @@
       "6 meses"
     ],
     "correcta": 2,
-    "explicacion": "El tema señala un plazo supletorio de 3 meses si no hay uno específico.",
+    "explicación": "El tema señala un plazo supletorio de 3 meses si no hay uno específico.",
     "referencia": "II.3 · 4.1 Deber de resolver"
   },
   {
@@ -178,7 +178,7 @@
       "el silencio del interesado"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera varios supuestos tasados de suspensión.",
+    "explicación": "El tema enumera varios supuestos tasados de suspensión.",
     "referencia": "II.3 · 4.3 Suspensión del plazo para resolver"
   },
   {
@@ -192,7 +192,7 @@
       "Inexistencia de efectos"
     ],
     "correcta": 1,
-    "explicacion": "El tema afirma que la regla general es el silencio positivo.",
+    "explicación": "El tema afirma que la regla general es el silencio positivo.",
     "referencia": "II.3 · 5.2 Silencio positivo"
   },
   {
@@ -206,7 +206,7 @@
       "siempre estimatorio"
     ],
     "correcta": 1,
-    "explicacion": "El tema establece que en los recursos administrativos el silencio es siempre negativo, salvo la excepción indicada en la alzada.",
+    "explicación": "El tema establece que en los recursos administrativos el silencio es siempre negativo, salvo la excepción indicada en la alzada.",
     "referencia": "II.3 · 5.4 Silencio en procedimientos de impugnación"
   },
   {
@@ -220,7 +220,7 @@
       "Se convierte en procedimiento de oficio"
     ],
     "correcta": 1,
-    "explicacion": "El tema regula la caducidad para esos supuestos.",
+    "explicación": "El tema regula la caducidad para esos supuestos.",
     "referencia": "II.3 · 3.3.3 Caducidad"
   },
   {
@@ -234,7 +234,7 @@
       "Vetar la resolución"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese derecho expresamente en el art. 53 LPACAP.",
+    "explicación": "El tema recoge ese derecho expresamente en el art. 53 LPACAP.",
     "referencia": "II.3 · 2.4 Derechos de los interesados"
   },
   {
@@ -248,7 +248,7 @@
       "certificado del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos medios de acreditación.",
+    "explicación": "El tema enumera esos medios de acreditación.",
     "referencia": "II.3 · 2.2 La representación"
   },
   {
@@ -262,7 +262,7 @@
       "1 mes"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 10 días desde que el acto ha sido dictado.",
+    "explicación": "El tema fija 10 días desde que el acto ha sido dictado.",
     "referencia": "II.3 · 4.2 La notificación"
   },
   {
@@ -276,7 +276,7 @@
       "la nulidad del procedimiento"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que el silencio positivo se produce de forma automática por el mero transcurso del plazo.",
+    "explicación": "El tema explica que el silencio positivo se produce de forma automática por el mero transcurso del plazo.",
     "referencia": "II.3 · 5.2 Silencio positivo"
   },
   {
@@ -290,7 +290,7 @@
       "la notificación de la resolución"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la tramitación de urgencia reduce los plazos a la mitad, salvo los relativos a la presentación de solicitudes y recursos.",
+    "explicación": "El tema indica que la tramitación de urgencia reduce los plazos a la mitad, salvo los relativos a la presentación de solicitudes y recursos.",
     "referencia": "II.3 · 2.5 Términos y plazos (arts. 29-32 LPACAP)"
   },
   {
@@ -304,7 +304,7 @@
       "Formular exclusivamente prueba pericial"
     ],
     "correcta": 0,
-    "explicacion": "El trámite de audiencia sirve para que los interesados aleguen y presenten documentos y justificaciones antes de la resolución.",
+    "explicación": "El trámite de audiencia sirve para que los interesados aleguen y presenten documentos y justificaciones antes de la resolución.",
     "referencia": "II.3 · 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
   },
   {
@@ -318,63 +318,63 @@
       "El interesado no haya designado representante"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge expresamente esa excepción a la audiencia.",
+    "explicación": "El tema recoge expresamente esa excepción a la audiencia.",
     "referencia": "II.3 · 3.2.4 Trámite de audiencia (art. 82 LPACAP)"
   },
   {
     "id": "t15-p018",
     "tema": 12,
-    "pregunta": "De acuerdo con el tema y con el art. 61 LPACAP, la iniciacion de oficio del procedimiento por peticion razonada de otros organos se produce cuando:",
+    "pregunta": "De acuerdo con el tema y con el art. 61 LPACAP, la iniciación de oficio del procedimiento por petición razonada de otros órganos se produce cuando:",
     "opciones": [
-      "Un organo administrativo comunica al competente la existencia de circunstancias que justifican la iniciacion del procedimiento",
+      "Un órgano administrativo comunica al competente la existencia de circunstancias que justifican la iniciación del procedimiento",
       "El interesado renuncia expresamente a sus derechos",
-      "El organo competente dicta directamente la resolucion final",
-      "La Administracion sustituye el tramite de audiencia por una consulta publica"
+      "El órgano competente dicta directamente la resolución final",
+      "La Administración sustituye el trámite de audiencia por una consulta pública"
     ],
     "correcta": 0,
-    "explicacion": "La peticion razonada consiste en la comunicacion a otro organo competente de hechos o circunstancias que justifican la iniciacion de oficio.",
-    "referencia": "II.3 · 2.2 Iniciacion de oficio"
+    "explicación": "La petición razonada consiste en la comunicación a otro órgano competente de hechos o circunstancias que justifican la iniciación de oficio.",
+    "referencia": "II.3 · 2.2 Iniciación de oficio"
   },
   {
     "id": "t15-p019",
     "tema": 12,
-    "pregunta": "Segun el art. 76 LPACAP, los interesados podran formular alegaciones y aportar documentos y otros elementos de juicio:",
+    "pregunta": "Según el art. 76 LPACAP, los interesados podrán formular alegaciones y aportar documentos y otros elementos de juicio:",
     "opciones": [
-      "Solo dentro de los diez dias siguientes a la iniciacion",
-      "Unicamente durante el tramite de informacion publica",
-      "En cualquier momento del procedimiento anterior al tramite de audiencia",
-      "Solo despues de la propuesta de resolucion"
+      "Solo dentro de los diez días siguientes a la iniciación",
+      "Unicamente durante el trámite de información pública",
+      "En cualquier momento del procedimiento anterior al trámite de audiencia",
+      "Solo despues de la propuesta de resolución"
     ],
     "correcta": 2,
-    "explicacion": "El tema recoge expresamente que las alegaciones pueden formularse en cualquier momento anterior al tramite de audiencia.",
+    "explicación": "El tema recoge expresamente que las alegaciones pueden formularse en cualquier momento anterior al trámite de audiencia.",
     "referencia": "II.3 · 3.2.1 Alegaciones (art. 76 LPACAP)"
   },
   {
     "id": "t15-p020",
     "tema": 12,
-    "pregunta": "De conformidad con el Tema 15, la comparecencia en el tramite de informacion publica:",
+    "pregunta": "De conformidad con el Tema 15, la comparecencia en el trámite de información pública:",
     "opciones": [
-      "Otorga siempre la condicion de interesado",
-      "Solo otorga legitimacion para recurrir en alzada",
-      "No otorga por si sola la condicion de interesado",
-      "Sustituye al tramite de audiencia de los interesados"
+      "Otorga siempre la condición de interesado",
+      "Solo otorga legitimación para recurrir en alzada",
+      "No otorga por si sola la condición de interesado",
+      "Sustituye al trámite de audiencia de los interesados"
     ],
     "correcta": 2,
-    "explicacion": "El tema señala expresamente que comparecer en la informacion publica no atribuye por si solo la condicion de interesado.",
-    "referencia": "II.3 · 3.2.5 Informacion publica (art. 83 LPACAP)"
+    "explicación": "El tema señala expresamente que comparecer en la información pública no atribuye por si solo la condición de interesado.",
+    "referencia": "II.3 · 3.2.5 Información pública (art. 83 LPACAP)"
   },
   {
     "id": "t15-p021",
     "tema": 12,
     "pregunta": "De acuerdo con el art. 87 LPACAP, las actuaciones complementarias indispensables para resolver el procedimiento deberan practicarse en un plazo:",
     "opciones": [
-      "No superior a quince dias",
-      "No inferior a diez dias ni superior a quince dias",
-      "De siete dias",
-      "De veinte dias"
+      "No superior a quince días",
+      "No inferior a diez días ni superior a quince días",
+      "De siete días",
+      "De veinte días"
     ],
     "correcta": 0,
-    "explicacion": "El plazo maximo para practicar las actuaciones complementarias es de quince dias.",
-    "referencia": "II.3 · 3.3.1 Resolucion (art. 88 LPACAP)"
+    "explicación": "El plazo máximo para practicar las actuaciones complementarias es de quince días.",
+    "referencia": "II.3 · 3.3.1 Resolución (art. 88 LPACAP)"
   }
 ]

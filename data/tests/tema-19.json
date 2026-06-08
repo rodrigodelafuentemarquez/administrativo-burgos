@@ -1,35 +1,35 @@
 [
   {
     "id": "topup-19-04",
-    "pregunta": "La actividad economica publica implica:",
+    "pregunta": "La actividad económica pública implica:",
     "opciones": [
-      "intervencion en el mercado o gestion de actividades empresariales publicas",
-      "funcion jurisdiccional",
-      "aprobacion de mociones de censura",
-      "solo inspeccion sanitaria"
+      "intervención en el mercado o gestion de actividades empresariales públicas",
+      "función jurisdiccional",
+      "aprobación de mociones de censura",
+      "solo inspección sanitaria"
     ],
     "correcta": 0,
-    "explicacion": "La Administracion puede desarrollar iniciativa economica en supuestos legales.",
-    "referencia": "II.10 · Actividad economica",
+    "explicación": "La Administración puede desarrollar iniciativa económica en supuestos legales.",
+    "referencia": "II.10 · Actividad económica",
     "tema": 19
   },
   {
     "id": "topup-19-06",
-    "pregunta": "Una piscina municipal abierta al publico se encuadra principalmente como:",
+    "pregunta": "Una piscina municipal abierta al público se encuadra principalmente como:",
     "opciones": [
-      "servicio publico",
+      "servicio público",
       "acto legislativo",
       "pena administrativa",
       "expediente disciplinario"
     ],
     "correcta": 0,
-    "explicacion": "Es una prestacion organizada para atender intereses generales.",
-    "referencia": "II.10 · Servicio publico",
+    "explicación": "Es una prestación organizada para atender intereses generales.",
+    "referencia": "II.10 · Servicio público",
     "tema": 19
   },
   {
     "id": "topup-19-07",
-    "pregunta": "Entre las notas clasicas del servicio publico figura la:",
+    "pregunta": "Entre las notas clasicas del servicio público figura la:",
     "opciones": [
       "continuidad",
       "reserva judicial",
@@ -37,55 +37,55 @@
       "intangibilidad del presupuesto"
     ],
     "correcta": 0,
-    "explicacion": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos tipicos.",
-    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "explicación": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos tipicos.",
+    "referencia": "II.10 · Caracteristicas del servicio público",
     "tema": 19
   },
   {
     "id": "topup-19-08",
-    "pregunta": "La regularidad del servicio publico significa que debe prestarse:",
+    "pregunta": "La regularidad del servicio público significa que debe prestarse:",
     "opciones": [
       "conforme a reglas y condiciones preestablecidas",
       "solo cuando lo pida la mayoria absoluta del Pleno",
       "sin control alguno",
-      "unicamente por empresas privadas"
+      "únicamente por empresas privadas"
     ],
     "correcta": 0,
-    "explicacion": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas.",
-    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "explicación": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas.",
+    "referencia": "II.10 · Caracteristicas del servicio público",
     "tema": 19
   },
   {
     "id": "topup-19-09",
-    "pregunta": "La igualdad en el acceso al servicio publico implica:",
+    "pregunta": "La igualdad en el acceso al servicio público implica:",
     "opciones": [
-      "trato equivalente a usuarios en situacion equivalente",
+      "trato equivalente a usuarios en situación equivalente",
       "gratuidad obligatoria en todos los casos",
-      "supresion de cualquier tasa o precio publico",
+      "supresión de cualquier tasa o precio público",
       "reserva exclusiva a funcionarios"
     ],
     "correcta": 0,
-    "explicacion": "La igualdad prohíbe discriminaciones injustificadas.",
-    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "explicación": "La igualdad prohíbe discriminaciones injustificadas.",
+    "referencia": "II.10 · Caracteristicas del servicio público",
     "tema": 19
   },
   {
     "id": "topup-19-10",
-    "pregunta": "La adaptabilidad del servicio publico supone que:",
+    "pregunta": "La adaptabilidad del servicio público supone que:",
     "opciones": [
-      "puede modificarse para responder a nuevas necesidades publicas",
+      "puede modificarse para responder a nuevas necesidades públicas",
       "queda congelado para siempre en su forma inicial",
       "solo puede variar por referendum",
-      "impide toda digitalizacion"
+      "impide toda digitalización"
     ],
     "correcta": 0,
-    "explicacion": "Los servicios deben ajustarse a la evolucion de las necesidades colectivas.",
-    "referencia": "II.10 · Caracteristicas del servicio publico",
+    "explicación": "Los servicios deben ajustarse a la evolución de las necesidades colectivas.",
+    "referencia": "II.10 · Caracteristicas del servicio público",
     "tema": 19
   },
   {
     "id": "topup-19-11",
-    "pregunta": "En la gestion directa de un servicio publico:",
+    "pregunta": "En la gestion directa de un servicio público:",
     "opciones": [
       "el Ayuntamiento lo presta con medios propios",
       "siempre existe concesionario privado",
@@ -93,91 +93,91 @@
       "no puede haber personal funcionario"
     ],
     "correcta": 0,
-    "explicacion": "La gestion directa utiliza medios municipales o entes instrumentales publicos.",
+    "explicación": "La gestion directa utiliza medios municipales o entes instrumentales públicos.",
     "referencia": "II.10 · Formas de gestion",
     "tema": 19
   },
   {
     "id": "topup-19-12",
-    "pregunta": "La concesion de servicios se caracteriza porque:",
+    "pregunta": "La concesión de servicios se caracteriza porque:",
     "opciones": [
-      "el contratista asume la explotacion bajo riesgo operacional",
+      "el contratista asume la explotación bajo riesgo operacional",
       "el Pleno renuncia a toda potestad de control",
-      "la licencia urbanistica sustituye al contrato",
+      "la licencia urbanística sustituye al contrato",
       "no existe interes general"
     ],
     "correcta": 0,
-    "explicacion": "En la concesion el contratista explota el servicio bajo control administrativo.",
+    "explicación": "En la concesión el contratista explota el servicio bajo control administrativo.",
     "referencia": "II.10 · Formas de gestion",
     "tema": 19
   },
   {
     "id": "topup-19-14",
-    "pregunta": "La eleccion de la forma de gestion de un servicio debe justificarse por criterios de:",
+    "pregunta": "La elección de la forma de gestion de un servicio debe justificarse por criterios de:",
     "opciones": [
       "eficacia, sostenibilidad, coste y calidad",
-      "afinidad politica exclusiva",
+      "afinidad política exclusiva",
       "azar",
       "preferencia personal del contratista"
     ],
     "correcta": 0,
-    "explicacion": "La eleccion no es arbitraria: requiere motivacion en interes publico.",
+    "explicación": "La elección no es arbitraria: requiere motivación en interes público.",
     "referencia": "II.10 · Formas de gestion",
     "tema": 19
   },
   {
     "id": "topup-19-15",
-    "pregunta": "La remunicipalizacion consiste en:",
+    "pregunta": "La remunicipalización consiste en:",
     "opciones": [
-      "recuperar para gestion publica un servicio antes gestionado indirectamente",
+      "recuperar para gestion pública un servicio antes gestionado indirectamente",
       "crear una nueva provincia",
       "disolver el Pleno municipal",
       "privatizar obligatoriamente el servicio"
     ],
     "correcta": 0,
-    "explicacion": "La remunicipalizacion supone volver a la gestion publica directa o instrumental.",
-    "referencia": "II.10 · Remunicipalizacion",
+    "explicación": "La remunicipalización supone volver a la gestion pública directa o instrumental.",
+    "referencia": "II.10 · Remunicipalización",
     "tema": 19
   },
   {
     "id": "topup-19-16",
-    "pregunta": "La remunicipalizacion debe respetar, entre otras cuestiones:",
+    "pregunta": "La remunicipalización debe respetar, entre otras cuestiones:",
     "opciones": [
       "contratos vigentes, personal y sostenibilidad financiera",
       "solo el criterio del concejal delegado",
       "la inexistencia de memoria",
-      "la supresion de cualquier control interno"
+      "la supresión de cualquier control interno"
     ],
     "correcta": 0,
-    "explicacion": "La recuperacion del servicio exige procedimiento y analisis juridico-economico.",
-    "referencia": "II.10 · Remunicipalizacion",
+    "explicación": "La recuperación del servicio exige procedimiento y análisis jurídico-económico.",
+    "referencia": "II.10 · Remunicipalización",
     "tema": 19
   },
   {
     "id": "topup-19-17",
-    "pregunta": "La iniciativa economica publica local exige especial prudencia porque debe valorar:",
+    "pregunta": "La iniciativa económica pública local exige especial prudencia porque debe valorar:",
     "opciones": [
-      "interes publico, mercado y sostenibilidad financiera",
+      "interes público, mercado y sostenibilidad financiera",
       "solo el numero de concejales",
-      "exclusivamente el color politico del gobierno",
+      "exclusivamente el color político del gobierno",
       "la firma del delegado sindical"
     ],
     "correcta": 0,
-    "explicacion": "La actividad economica publica local requiere memoria justificativa y control.",
-    "referencia": "II.10 · Iniciativa economica publica",
+    "explicación": "La actividad económica pública local requiere memoria justificativa y control.",
+    "referencia": "II.10 · Iniciativa económica pública",
     "tema": 19
   },
   {
     "id": "topup-19-18",
     "pregunta": "Aunque un servicio se gestione indirectamente, el Ayuntamiento conserva:",
     "opciones": [
-      "responsabilidad y potestades de direccion y control",
-      "ninguna obligacion frente a la ciudadania",
+      "responsabilidad y potestades de dirección y control",
+      "ninguna obligación frente a la ciudadania",
       "solo funciones notariales",
       "competencia judicial penal"
     ],
     "correcta": 0,
-    "explicacion": "La responsabilidad publica no desaparece por externalizar la gestion.",
+    "explicación": "La responsabilidad pública no desaparece por externalizar la gestion.",
     "referencia": "II.10 · Gestion y control del servicio",
     "tema": 19
   },
@@ -186,111 +186,111 @@
     "pregunta": "Un riesgo de baja calidad en la gestion del servicio puede afrontarse mediante:",
     "opciones": [
       "indicadores, inspecciones y penalidades",
-      "desaparicion del control municipal",
-      "supresion de toda documentacion",
+      "desaparición del control municipal",
+      "supresión de toda documentación",
       "nombramiento de un regente"
     ],
     "correcta": 0,
-    "explicacion": "La Administracion debe vigilar calidad y cumplimiento del servicio.",
+    "explicación": "La Administración debe vigilar calidad y cumplimiento del servicio.",
     "referencia": "II.10 · Gestion y control del servicio",
     "tema": 19
   },
   {
     "id": "refine-19-01",
-    "pregunta": "La actividad de limitacion o policia se caracteriza porque la Administracion:",
+    "pregunta": "La actividad de limitación o policia se caracteriza porque la Administración:",
     "opciones": [
-      "condiciona o restringe derechos y actividades privadas en atencion al interes general",
+      "condiciona o restringe derechos y actividades privadas en atención al interes general",
       "subvenciona libremente cualquier conducta privada",
-      "gestiona siempre un servicio publico de forma directa",
+      "gestiona siempre un servicio público de forma directa",
       "actua sin cobertura normativa previa"
     ],
     "correcta": 0,
     "referencia": "II.10 · Formas de actividad administrativa",
-    "explicacion": "La actividad de policia actua sobre actividades privadas para ordenarlas, condicionarlas o limitarlas en interes general.",
+    "explicación": "La actividad de policia actua sobre actividades privadas para ordenarlas, condicionarlas o limitarlas en interes general.",
     "tema": 19
   },
   {
     "id": "refine-19-02",
-    "pregunta": "En la gestion indirecta de un servicio publico, el Ayuntamiento conserva:",
+    "pregunta": "En la gestion indirecta de un servicio público, el Ayuntamiento conserva:",
     "opciones": [
-      "la titularidad del servicio y las potestades de direccion y control",
-      "solo una funcion simbolica sin capacidad de intervenir",
-      "la obligacion de no supervisar al contratista",
+      "la titularidad del servicio y las potestades de dirección y control",
+      "solo una función simbolica sin capacidad de intervenir",
+      "la obligación de no supervisar al contratista",
       "la competencia jurisdiccional sobre litigios penales"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Gestion de los servicios publicos",
-    "explicacion": "Aunque la prestacion se externalice, la Administracion mantiene la titularidad y sus potestades de control.",
+    "referencia": "II.10 · Gestion de los servicios públicos",
+    "explicación": "Aunque la prestación se externalice, la Administración mantiene la titularidad y sus potestades de control.",
     "tema": 19
   },
   {
     "id": "refine-19-03",
-    "pregunta": "La concesion de servicios se distingue porque el contratista asume:",
+    "pregunta": "La concesión de servicios se distingue porque el contratista asume:",
     "opciones": [
-      "el riesgo operacional de la explotacion",
+      "el riesgo operacional de la explotación",
       "la potestad reglamentaria municipal",
-      "la fe publica de los acuerdos",
-      "la funcion interventora"
+      "la fe pública de los acuerdos",
+      "la función interventora"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Gestion indirecta y concesion",
-    "explicacion": "La asuncion del riesgo operacional es la nota propia de la concesion de servicios.",
+    "referencia": "II.10 · Gestion indirecta y concesión",
+    "explicación": "La asunción del riesgo operacional es la nota propia de la concesión de servicios.",
     "tema": 19
   },
   {
     "id": "refine-19-04",
-    "pregunta": "La remunicipalizacion de un servicio publico no permite, por si sola:",
+    "pregunta": "La remunicipalización de un servicio público no permite, por si sola:",
     "opciones": [
       "ignorar contratos vigentes, personal afectado y sostenibilidad financiera",
-      "recuperar la gestion publica del servicio",
+      "recuperar la gestion pública del servicio",
       "tramitar una memoria justificativa",
       "valorar la forma de gestion mas eficiente"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Remunicipalizacion",
-    "explicacion": "La vuelta a la gestion publica exige respetar el marco contractual, laboral y economico aplicable.",
+    "referencia": "II.10 · Remunicipalización",
+    "explicación": "La vuelta a la gestion pública exige respetar el marco contractual, laboral y económico aplicable.",
     "tema": 19
   },
   {
     "id": "refine-19-05",
-    "pregunta": "La iniciativa economica publica local requiere motivar especialmente:",
+    "pregunta": "La iniciativa económica pública local requiere motivar especialmente:",
     "opciones": [
       "su conveniencia para el interes general y su sostenibilidad",
       "la ausencia de control interno",
       "que no exista competencia privada alguna",
-      "la sustitucion del presupuesto por tarifas libres"
+      "la sustitución del presupuesto por tarifas libres"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Iniciativa economica publica local",
-    "explicacion": "La actividad economica publica necesita justificacion reforzada desde la perspectiva del interes general y la sostenibilidad financiera.",
+    "referencia": "II.10 · Iniciativa económica pública local",
+    "explicación": "La actividad económica pública necesita justificación reforzada desde la perspectiva del interes general y la sostenibilidad financiera.",
     "tema": 19
   },
   {
     "id": "refine-19-06",
-    "pregunta": "Cuando el Ayuntamiento elige una forma de gestion de un servicio, no actua con libertad absoluta porque debe atender, entre otros, a criterios de:",
+    "pregunta": "Cuándo el Ayuntamiento elige una forma de gestion de un servicio, no actua con libertad absoluta porque debe atender, entre otros, a criterios de:",
     "opciones": [
       "eficacia, coste, calidad, control y sostenibilidad",
-      "afinidad politica del futuro gestor",
+      "afinidad política del futuro gestor",
       "azar o turno entre empresas",
       "preferencia personal del alcalde sin expediente"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Eleccion de la forma de gestion",
-    "explicacion": "La seleccion de la forma de gestion debe justificarse objetivamente en un expediente y responder al interes publico.",
+    "referencia": "II.10 · Elección de la forma de gestion",
+    "explicación": "La selección de la forma de gestion debe justificarse objetivamente en un expediente y responder al interes público.",
     "tema": 19
   },
   {
     "id": "refine-19-07",
-    "pregunta": "Una nota clasica del servicio publico es la continuidad, lo que implica que su prestacion:",
+    "pregunta": "Una nota clasica del servicio público es la continuidad, lo que implica que su prestación:",
     "opciones": [
       "no puede interrumpirse arbitrariamente si afecta a necesidades colectivas",
       "debe cesar en vacaciones salvo acuerdo contrario",
       "depende solo del criterio del concesionario",
-      "carece de relacion con la igualdad de los usuarios"
+      "carece de relación con la igualdad de los usuarios"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Servicio publico",
-    "explicacion": "La continuidad expresa la necesidad de asegurar una prestacion regular a la colectividad.",
+    "referencia": "II.10 · Servicio público",
+    "explicación": "La continuidad expresa la necesidad de asegurar una prestación regular a la colectividad.",
     "tema": 19
   }
 ]

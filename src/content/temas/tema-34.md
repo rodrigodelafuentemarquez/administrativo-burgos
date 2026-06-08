@@ -79,7 +79,7 @@ En el ámbito local, la Diputación Provincial de Burgos y los ayuntamientos dis
 
 ### 2.3 Punto de Acceso General electrónico de la AGE
 
-El **Punto de Acceso General (PAGe)** es el portal web de la Administración General del Estado que actúa como puerta de entrada única a los servicios electrónicos del Estado. Su dirección es https://administracion.gob.es.
+El **Punto de Acceso General (PAGe)** es el portal web de la Administración General del Estado que actúa como puerta de entrada única a los servicios electrónicos del Estado. Su dirección es https://administración.gob.es.
 
 ---
 
@@ -330,7 +330,7 @@ A pesar del avance normativo, la administración electrónica local afronta vari
     <ul>
       <li>Dirección electrónica de titularidad de la Administración → equivale a oficina presencial</li>
       <li>Garantiza: fecha y hora oficial + responsabilidad de la AAPP + disponibilidad 24h/365</li>
-      <li>Punto de Acceso General (PAGe): https://administracion.gob.es (AGE)</li>
+      <li>Punto de Acceso General (PAGe): https://administración.gob.es (AGE)</li>
     </ul></li>
   <li>IDENTIFICACIÓN Y FIRMA ELECTRÓNICA
     <ul>

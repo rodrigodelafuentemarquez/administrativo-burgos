@@ -17,7 +17,7 @@ La primera conexión de ARPANET se estableció el **29 de octubre de 1969** entr
 
 ### 1.2 Los protocolos TCP/IP (1974-1983)
 
-El gran salto hacia la internet moderna se produjo con el desarrollo del protocolo **TCP/IP** (Transmission Control Protocol / Internet Protocol) por Vinton Cerf y Robert Kahn, publicado en 1974 y adoptado como estándar de ARPANET en **1983**. TCP/IP resolvió el problema de la interoperabilidad: permitió que redes distintas, con tecnologías diferentes, pudieran comunicarse entre sí siguiendo un protocolo común. Por eso se considera a Cerf y Kahn los «padres de internet».
+El gran salto hacia la internet moderna se produjo con el desarrollo del protocolo **TCP/IP** (Transmissión Control Protocol / Internet Protocol) por Vinton Cerf y Robert Kahn, publicado en 1974 y adoptado como estándar de ARPANET en **1983**. TCP/IP resolvió el problema de la interoperabilidad: permitió que redes distintas, con tecnologías diferentes, pudieran comunicarse entre sí siguiendo un protocolo común. Por eso se considera a Cerf y Kahn los «padres de internet».
 
 ### 1.3 La World Wide Web y la expansión civil (1991)
 
@@ -41,7 +41,7 @@ El lanzamiento del **iPhone** en 2007 y la expansión de los smartphones transfo
 
 ### 1.7 Estado actual
 
-En la actualidad, internet es una infraestructura global que conecta a más de **5.000 millones de usuarios** en todo el mundo. Sus características actuales son:
+En la actualidad, internet es una infraestructura global que conecta a más de **5.000 millones de usuarios** en todo el mundo. Sus carácterísticas actuales son:
 
 - **Ubicuidad:** accesible desde smartphones, tabletas, ordenadores, televisores y todo tipo de dispositivos.
 - **Velocidad:** las conexiones de banda ancha (fibra óptica) alcanzan velocidades de 1 Gbps o más; las redes móviles 5G superan los 100 Mbps.
@@ -69,7 +69,7 @@ Los protocolos de internet se organizan en capas (modelo OSI o modelo TCP/IP), d
 - **IPv4:** dirección de 32 bits, expresada en cuatro grupos de números decimales separados por puntos (ej. 192.168.1.1). Permite algo más de 4.000 millones de direcciones únicas, insuficiente para el número actual de dispositivos.
 - **IPv6:** dirección de 128 bits, expresada en ocho grupos de cuatro dígitos hexadecimales separados por dos puntos (ej. 2001:0db8:85a3:0000:0000:8a2e:0370:7334). Prácticamente ilimitada en número de direcciones.
 
-**TCP (Transmission Control Protocol):** se encarga de la **transmisión fiable** de los datos. Divide los datos en paquetes, garantiza que todos llegan al destino, los reordena si llegan desordenados y solicita la retransmisión de los que se pierden.
+**TCP (Transmissión Control Protocol):** se encarga de la **transmisión fiable** de los datos. Divide los datos en paquetes, garantiza que todos llegan al destino, los reordena si llegan desordenados y solicita la retransmisión de los que se pierden.
 
 **UDP (User Datagram Protocol):** alternativa a TCP para aplicaciones que priorizan la velocidad sobre la fiabilidad (videollamadas, streaming, juegos online): envía los paquetes sin garantizar su entrega ni su orden.
 
@@ -77,7 +77,7 @@ Los protocolos de internet se organizan en capas (modelo OSI o modelo TCP/IP), d
 
 Las personas recordamos las direcciones web por su nombre (www.diputaciondeburgos.es), no por su dirección IP (un número como 85.32.149.5). El **DNS** (Domain Name System — Sistema de Nombres de Dominio) es el sistema que traduce los nombres de dominio en direcciones IP.
 
-Cuando el usuario escribe una URL en el navegador, este consulta al servidor DNS para obtener la dirección IP correspondiente y poder conectarse al servidor web. El DNS funciona como una agenda telefónica distribuida de internet.
+Cuándo el usuario escribe una URL en el navegador, este consulta al servidor DNS para obtener la dirección IP correspondiente y poder conectarse al servidor web. El DNS funciona como una agenda telefónica distribuida de internet.
 
 **Estructura de un nombre de dominio:**
 

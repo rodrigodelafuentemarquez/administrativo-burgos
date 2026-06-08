@@ -93,7 +93,7 @@ La regencia es la institución que permite que otra persona ejerza las funciones
 
 ### 3.1 Regencia por minoría de edad del Rey (art. 59.1 CE)
 
-Cuando el Rey sea **menor de edad** (menos de 18 años), el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, ejercerá la Regencia.
+Cuándo el Rey sea **menor de edad** (menos de 18 años), el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, ejercerá la Regencia.
 
 La regencia se ejercerá **por mandato constitucional** (no hay elección parlamentaria), de forma automática.
 
@@ -164,7 +164,7 @@ El art. 62 CE enumera las funciones del Rey en el ámbito interno en un listado 
 | d) | **Convocar referéndum** | En los casos previstos en la CE, con autorización del Congreso (art. 92 CE). | Presidente del Gobierno |
 | e) | **Proponer candidato a Presidente del Gobierno e, en su caso, nombrarlo** | Previa consulta con los representantes de los grupos parlamentarios. Es la función con mayor margen de discrecionalidad real del Rey, aunque muy reducida en la práctica política. | Presidente del Congreso |
 | f) | **Nombrar y separar a los miembros del Gobierno** | A propuesta del Presidente del Gobierno. El Rey formaliza, no decide. | Presidente del Gobierno |
-| g) | **Ser informado de los asuntos de Estado y presidir el Consejo de Ministros** | Cuando lo estime oportuno, a petición del Presidente del Gobierno. | Presidente del Gobierno |
+| g) | **Ser informado de los asuntos de Estado y presidir el Consejo de Ministros** | Cuándo lo estime oportuno, a petición del Presidente del Gobierno. | Presidente del Gobierno |
 | h) | **Mando supremo de las Fuerzas Armadas** | Es un mando simbólico y constitucional. El mando efectivo y la dirección de la defensa corresponden al Gobierno. | Presidente del Gobierno |
 | i) | **Ejercer el derecho de gracia** | Con arreglo a la ley, que no puede autorizar indultos generales (desde la LO 1/1988 están prohibidos los indultos generales). | Ministro de Justicia |
 | j) | **Alto patronazgo de las Reales Academias** | Función honorífica y de representación cultural del Estado. | — |

@@ -136,7 +136,7 @@ Las medidas preventivas deben ser **proporcionadas** a la naturaleza de los ries
 ### 7.1 Evaluación de riesgos (art. 16 LPRL)
 
 La **evaluación de riesgos** es la base de la acción preventiva. El empresario debe:
-- Realizar una **evaluación inicial** de los riesgos para la seguridad y salud de los trabajadores, teniendo en cuenta la naturaleza de la actividad, las características de los puestos y de los trabajadores que deban ocuparlos.
+- Realizar una **evaluación inicial** de los riesgos para la seguridad y salud de los trabajadores, teniendo en cuenta la naturaleza de la actividad, las carácterísticas de los puestos y de los trabajadores que deban ocuparlos.
 - Actualizar la evaluación cuando cambien las condiciones de trabajo o se produzcan daños para la salud.
 - La evaluación será realizada por el **servicio de prevención** de la empresa.
 
@@ -155,8 +155,8 @@ El empresario debe informar a los trabajadores, directamente o a través de sus 
 
 El empresario debe garantizar que cada trabajador reciba una **formación teórica y práctica, suficiente y adecuada**, en materia preventiva:
 - En el **momento de la contratación**, cualquiera que sea la modalidad o duración del contrato.
-- Cuando se produzcan **cambios en las funciones** que desempeñe.
-- Cuando se introduzcan **nuevas tecnologías** o cambios en los equipos de trabajo.
+- Cuándo se produzcan **cambios en las funciones** que desempeñe.
+- Cuándo se introduzcan **nuevas tecnologías** o cambios en los equipos de trabajo.
 
 La formación debe estar centrada en el **puesto de trabajo o función** de cada trabajador, adaptarse a la evolución de los riesgos y repetirse periódicamente si fuera necesario.
 
@@ -179,7 +179,7 @@ A tal efecto, debe designar al personal encargado de poner en práctica estas me
 
 ### 7.7 Riesgo grave e inminente (art. 21 LPRL)
 
-Cuando los trabajadores estén o puedan estar expuestos a un **riesgo grave e inminente**, el empresario está obligado a:
+Cuándo los trabajadores estén o puedan estar expuestos a un **riesgo grave e inminente**, el empresario está obligado a:
 - **Informar** a todos los trabajadores afectados lo antes posible.
 - **Adoptar las medidas** y dar las instrucciones para que los trabajadores puedan interrumpir su actividad y alejarse del lugar de peligro.
 

@@ -41,7 +41,7 @@ El art. 26 de la Ley 39/2015 (LPACAP) regula los documentos públicos administra
 
 ### 1.3 Características del documento administrativo
 
-El documento administrativo presenta las siguientes notas características:
+El documento administrativo presenta las siguientes notas carácterísticas:
 
 **1. Autenticidad.** El documento administrativo debe estar firmado por el órgano o empleado público competente para emitirlo. En el entorno electrónico, la autenticidad se garantiza mediante **firma electrónica** reconocida o cualificada, sello electrónico de la Administración, o código seguro de verificación (CSV).
 
@@ -334,7 +334,7 @@ La protección de los datos personales es el límite más frecuente en la práct
 
 #### 5.3.1 Datos especialmente protegidos
 
-Cuando la información solicitada contiene **datos especialmente sensibles**, el acceso será **denegado** en todo caso, salvo que el titular del dato haya prestado su consentimiento:
+Cuándo la información solicitada contiene **datos especialmente sensibles**, el acceso será **denegado** en todo caso, salvo que el titular del dato haya prestado su consentimiento:
 
 - Datos que revelen **ideología, afiliación sindical, religión y creencias**.
 - Datos relativos al **origen racial o étnico, salud o vida sexual**.
@@ -342,14 +342,14 @@ Cuando la información solicitada contiene **datos especialmente sensibles**, el
 
 #### 5.3.2 Otros datos personales
 
-Cuando la información contiene datos personales **no especialmente protegidos**, el órgano debe ponderar en función de:
+Cuándo la información contiene datos personales **no especialmente protegidos**, el órgano debe ponderar en función de:
 
 - Si el solicitante **acredita un interés legítimo o necesidad** de conocer la información.
 - Si los datos son **meramente identificativos** en relación con la organización, funcionamiento o actividad pública del órgano.
 - Si se trata de datos de **personas fallecidas**.
 - El **tiempo transcurrido** desde los hechos a que se refieren los datos.
 
-Cuando la ponderación es favorable al acceso, el órgano puede facilitar la información **disociando** o **anonimizando** los datos de carácter personal, de modo que no sea posible identificar a los afectados.
+Cuándo la ponderación es favorable al acceso, el órgano puede facilitar la información **disociando** o **anonimizando** los datos de carácter personal, de modo que no sea posible identificar a los afectados.
 
 ### 5.4 Información excluida del ámbito de la LTAIBG
 

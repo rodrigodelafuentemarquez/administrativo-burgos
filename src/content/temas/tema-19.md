@@ -170,8 +170,8 @@ La LJCA prevé diferentes procedimientos adaptados al objeto del recurso:
 | **Procedimiento ordinario** | Recurso general contra actos y disposiciones |
 | **Procedimiento abreviado** | Asuntos de cuantía inferior a 30.000 euros o materias tasadas |
 | **Procedimiento especial de derechos fundamentales** | Protección de derechos del art. 14-29 CE (preferente y sumario) |
-| **Recurso contra la inactividad** | Cuando la Administración incumple una obligación legal de actuar |
-| **Recurso contra vía de hecho** | Cuando la Administración actúa sin cobertura jurídica |
+| **Recurso contra la inactividad** | Cuándo la Administración incumple una obligación legal de actuar |
+| **Recurso contra vía de hecho** | Cuándo la Administración actúa sin cobertura jurídica |
 | **Recurso de casación** | Revisión de sentencias de instancia por el TS por interés casacional |
 
 ### 5.2 Medidas cautelares (art. 129 LJCA)

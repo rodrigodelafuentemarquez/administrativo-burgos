@@ -180,7 +180,7 @@ Además, el **empleador (la Administración)** cotiza a la Seguridad Social por 
 
 #### 4.3.2 Retención del IRPF
 
-La Administración practica mensualmente una **retención a cuenta del Impuesto sobre la Renta de las Personas Físicas (IRPF)** sobre las retribuciones del empleado. El tipo de retención se calcula al inicio del año teniendo en cuenta las retribuciones anuales previstas y las circunstancias personales y familiares del trabajador (situación familiar, número de hijos, discapacidad, etc.) para calcular la cuota íntegra anual estimada y distribuirla en doce partes iguales. El empleado facilita sus datos personales y familiares a través del **modelo 145 de comunicación de datos al pagador**.
+La Administración práctica mensualmente una **retención a cuenta del Impuesto sobre la Renta de las Personas Físicas (IRPF)** sobre las retribuciones del empleado. El tipo de retención se calcula al inicio del año teniendo en cuenta las retribuciones anuales previstas y las circunstancias personales y familiares del trabajador (situación familiar, número de hijos, discapacidad, etc.) para calcular la cuota íntegra anual estimada y distribuirla en doce partes iguales. El empleado facilita sus datos personales y familiares a través del **modelo 145 de comunicación de datos al pagador**.
 
 El tipo de retención puede variar a lo largo del año si cambian las circunstancias del trabajador o si se producen variaciones retributivas significativas. La Administración ingresa las retenciones practicadas en la Agencia Tributaria mediante el **modelo 111** (trimestralmente o mensualmente, según el número de trabajadores).
 

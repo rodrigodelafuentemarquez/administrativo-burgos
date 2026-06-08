@@ -125,7 +125,7 @@ La LOVG y la LOIEMH establecen que los Protocolos de Prevención y Actuación fr
 
 ### 4.1 La Ley 15/2022, de igualdad de trato y no discriminación
 
-La **Ley 15/2022, de 12 de julio, integral para la igualdad de trato y no discriminación** es la primera ley de alcance general en España que prohíbe la discriminación por un amplio catálogo de razones: origen nacional, étnico o racial, sexo, orientación e identidad sexual, expresión de género, características sexuales, religión o convicciones, discapacidad, edad, situación socioeconómica, enfermedad o condición de salud, estado serológico del VIH, entre otras.
+La **Ley 15/2022, de 12 de julio, integral para la igualdad de trato y no discriminación** es la primera ley de alcance general en España que prohíbe la discriminación por un amplio catálogo de razones: origen nacional, étnico o racial, sexo, orientación e identidad sexual, expresión de género, carácterísticas sexuales, religión o convicciones, discapacidad, edad, situación socioeconómica, enfermedad o condición de salud, estado serológico del VIH, entre otras.
 
 La ley establece:
 - El derecho de toda persona a ser tratada de forma igualitaria sin discriminación.

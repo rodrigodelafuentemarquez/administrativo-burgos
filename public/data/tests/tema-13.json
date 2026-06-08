@@ -2,44 +2,44 @@
   {
     "id": "pdf-2023-burgos-q31",
     "tema": 13,
-    "pregunta": "De conformidad con la Ley 39/2015, los actos administrativos que no pongan fin a la via administrativa podran ser recurridos:",
+    "pregunta": "De conformidad con la Ley 39/2015, los actos administrativos que no pongan fin a la via administrativa podrán ser recurridos:",
     "opciones": [
-      "Potestativamente en reposicion",
-      "Preceptivamente en reposicion",
+      "Potestativamente en reposición",
+      "Preceptivamente en reposición",
       "En alzada",
-      "Solo cabra el recurso extraordinario de revision"
+      "Solo cabra el recurso extraordinario de revisión"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 31",
-    "explicacion": "Contra los actos que no ponen fin a la via administrativa procede el recurso de alzada."
+    "explicación": "Contra los actos que no ponen fin a la via administrativa procede el recurso de alzada."
   },
   {
     "id": "pdf-2025-burgos-q19",
     "tema": 13,
-    "pregunta": "Contra los actos firmes en via administrativa se podra interponer el siguiente recurso:",
+    "pregunta": "Contra los actos firmes en via administrativa se podrá interponer el siguiente recurso:",
     "opciones": [
       "Recurso de alzada",
-      "Recurso potestativo de reposicion",
-      "Recurso extraordinario de revision",
+      "Recurso potestativo de reposición",
+      "Recurso extraordinario de revisión",
       "No cabe recurso administrativo, solo el recurso contencioso-administrativo"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 19",
-    "explicacion": "El recurso administrativo extraordinario frente a actos firmes es el recurso extraordinario de revision."
+    "explicación": "El recurso administrativo extraordinario frente a actos firmes es el recurso extraordinario de revisión."
   },
   {
     "id": "pdf-2025-burgos-r01-lesividad",
     "tema": 13,
-    "pregunta": "Pueden las Administraciones Publicas impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados?",
+    "pregunta": "Pueden las Administraciones Públicas impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados?",
     "opciones": [
-      "Si, los actos administrativos anulables, previa su declaracion de lesividad para el interes publico",
-      "Si, los actos administrativos nulos, previa su declaracion de lesividad para el interes publico",
+      "Si, los actos administrativos anulables, previa su declaración de lesividad para el interes público",
+      "Si, los actos administrativos nulos, previa su declaración de lesividad para el interes público",
       "Si, los actos administrativos anulables, previo dictamen favorable del Consejo de Estado",
       "Si, los actos administrativos nulos, previo dictamen favorable del Consejo de Estado"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · reserva 1",
-    "explicacion": "Los actos favorables anulables exigen declaracion de lesividad antes de su impugnacion contenciosa."
+    "explicación": "Los actos favorables anulables exigen declaración de lesividad antes de su impugnación contenciosa."
   },
   {
     "id": "t16-p014",
@@ -52,7 +52,7 @@
       "Defensor del Pueblo"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige dictamen preceptivo y favorable del Consejo de Estado u órgano equivalente.",
+    "explicación": "El tema exige dictamen preceptivo y favorable del Consejo de Estado u órgano equivalente.",
     "referencia": "II.4 · 6.2 Revisión de actos nulos de pleno derecho"
   },
   {
@@ -66,22 +66,22 @@
       "solo por el Consejo de Estado"
     ],
     "correcta": 1,
-    "explicacion": "El tema permite su rectificación en cualquier momento.",
+    "explicación": "El tema permite su rectificación en cualquier momento.",
     "referencia": "II.4 · 6.5 Rectificación de errores"
   },
   {
     "id": "t16-p019",
     "tema": 13,
-    "pregunta": "De conformidad con el art. 109 LPACAP, las Administraciones Publicas podran revocar sus actos de gravamen o desfavorables:",
+    "pregunta": "De conformidad con el art. 109 LPACAP, las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
     "opciones": [
-      "En cualquier momento, siempre que tal revocacion no constituya dispensa o exencion no permitida por las leyes ni sea contraria al principio de igualdad, al interes publico o al ordenamiento juridico",
-      "Solo dentro del plazo de un mes desde su notificacion",
-      "Unicamente si media autorizacion judicial previa",
-      "Solo cuando hayan sido impugnados por el interesado en reposicion"
+      "En cualquier momento, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes ni sea contraria al principio de igualdad, al interes público o al ordenamiento jurídico",
+      "Solo dentro del plazo de un mes desde su notificación",
+      "Unicamente si media autorización judicial previa",
+      "Solo cuando hayan sido impugnados por el interesado en reposición"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge esa revocacion con los limites legales de igualdad, interes publico y respeto al ordenamiento.",
-    "referencia": "II.4 · 6.4 Revocacion de actos (art. 109 LPACAP)"
+    "explicación": "El tema recoge esa revocación con los limites legales de igualdad, interes público y respeto al ordenamiento.",
+    "referencia": "II.4 · 6.4 Revocación de actos (art. 109 LPACAP)"
   },
   {
     "id": "t17-p001",
@@ -94,7 +94,7 @@
       "un procedimiento sancionador"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo define como el acto por el que un interesado pide a la Administración revisar su propio acto.",
+    "explicación": "El tema lo define como el acto por el que un interesado pide a la Administración revisar su propio acto.",
     "referencia": "II.4 · 1.1 Concepto"
   },
   {
@@ -108,7 +108,7 @@
       "Especialidad"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo define como interpretación favorable a la admisión.",
+    "explicación": "El tema lo define como interpretación favorable a la admisión.",
     "referencia": "II.4 · 2.2 Principio pro actione"
   },
   {
@@ -122,7 +122,7 @@
       "tramitarse por escrito"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge el principio non reformatio in peius.",
+    "explicación": "El tema recoge el principio non reformatio in peius.",
     "referencia": "II.4 · 2.3 Principio de no reforma en perjuicio"
   },
   {
@@ -136,7 +136,7 @@
       "Solo en reposición"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que no hay suspensión automática.",
+    "explicación": "El tema indica que no hay suspensión automática.",
     "referencia": "II.4 · 2.4 Principio de suspensión"
   },
   {
@@ -150,7 +150,7 @@
       "hayan sido notificados en papel"
     ],
     "correcta": 1,
-    "explicacion": "El tema enumera esos supuestos para admitir el recurso.",
+    "explicación": "El tema enumera esos supuestos para admitir el recurso.",
     "referencia": "II.4 · 3.2 Acto recurrible"
   },
   {
@@ -164,7 +164,7 @@
       "Casación"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye esa función al recurso de alzada.",
+    "explicación": "El tema atribuye esa función al recurso de alzada.",
     "referencia": "II.4 · 4.1 Recurso de alzada"
   },
   {
@@ -178,7 +178,7 @@
       "el Consejo de Ministros en todo caso"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo atribuye al superior jerárquico.",
+    "explicación": "El tema lo atribuye al superior jerárquico.",
     "referencia": "II.4 · 4.1 Recurso de alzada"
   },
   {
@@ -192,7 +192,7 @@
       "6 meses"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija un mes para el acto expreso.",
+    "explicación": "El tema fija un mes para el acto expreso.",
     "referencia": "II.4 · 4.2 Recurso potestativo de reposición"
   },
   {
@@ -206,7 +206,7 @@
       "solo para actos reglamentarios"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo define como recurso potestativo.",
+    "explicación": "El tema lo define como recurso potestativo.",
     "referencia": "II.4 · 4.2 Recurso potestativo de reposición"
   },
   {
@@ -220,7 +220,7 @@
       "3 meses"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 1 mes.",
+    "explicación": "El tema fija 1 mes.",
     "referencia": "II.4 · 4.2 Recurso potestativo de reposición"
   },
   {
@@ -234,7 +234,7 @@
       "reglamentarios siempre"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo limita a actos firmes en vía administrativa.",
+    "explicación": "El tema lo limita a actos firmes en vía administrativa.",
     "referencia": "II.4 · 4.3 Recurso extraordinario de revisión"
   },
   {
@@ -248,7 +248,7 @@
       "Falta de motivación del recurso"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija esa causa tasada con plazo de 4 años.",
+    "explicación": "El tema fija esa causa tasada con plazo de 4 años.",
     "referencia": "II.4 · 4.3 Recurso extraordinario de revisión"
   },
   {
@@ -262,7 +262,7 @@
       "se convierte en alzada"
     ],
     "correcta": 1,
-    "explicacion": "El tema establece que se remite al órgano competente sin perder la fecha de presentación.",
+    "explicación": "El tema establece que se remite al órgano competente sin perder la fecha de presentación.",
     "referencia": "II.4 · 5.1 Interposición"
   },
   {
@@ -276,7 +276,7 @@
       "inviolabilidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo menciona expresamente entre los principios generales.",
+    "explicación": "El tema lo menciona expresamente entre los principios generales.",
     "referencia": "II.4 · 2.5 Principio de congruencia"
   },
   {
@@ -290,35 +290,35 @@
       "Inexistencia de efectos"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que transcurridos 3 meses el recurso se entiende desestimado.",
+    "explicación": "El tema señala que transcurridos 3 meses el recurso se entiende desestimado.",
     "referencia": "II.4 · 4.1 Recurso de alzada"
   },
   {
     "id": "t17-p016",
     "tema": 13,
-    "pregunta": "Segun el art. 117.1 de la Ley 39/2015, de 1 de octubre, la interposicion de cualquier recurso, excepto en los casos en que una disposicion establezca lo contrario:",
+    "pregunta": "Según el art. 117.1 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario:",
     "opciones": [
-      "Suspendera automaticamente la ejecucion del acto impugnado",
-      "No suspendera la ejecucion del acto impugnado",
-      "Impedira la eficacia del acto durante diez dias",
-      "Exigira siempre la adopcion de medidas cautelares"
+      "Suspendera automaticamente la ejecución del acto impugnado",
+      "No suspendera la ejecución del acto impugnado",
+      "Impedira la eficacia del acto durante diez días",
+      "Exigira siempre la adopción de medidas cautelares"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que la interposicion del recurso no suspende automaticamente la ejecucion del acto.",
+    "explicación": "El tema explica que la interposición del recurso no suspende automaticamente la ejecución del acto.",
     "referencia": "II.4 · 2.4 Principio de suspensión"
   },
   {
     "id": "t17-p017",
     "tema": 13,
-    "pregunta": "De acuerdo con el Tema 17, si transcurren treinta dias desde la solicitud de suspension sin que la Administracion se pronuncie:",
+    "pregunta": "De acuerdo con el Tema 17, si transcurren treinta días desde la solicitud de suspensión sin que la Administración se pronuncie:",
     "opciones": [
       "La solicitud se entiende desestimada",
-      "La suspension se entiende concedida",
+      "La suspensión se entiende concedida",
       "El recurso queda archivado",
       "El acto pasa a ser nulo de pleno derecho"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge silencio positivo en materia de suspension cuando la Administracion no resuelve en treinta dias.",
+    "explicación": "El tema recoge silencio positivo en materia de suspensión cuando la Administración no resuelve en treinta días.",
     "referencia": "II.4 · 2.4 Principio de suspensión"
   },
   {
@@ -326,13 +326,13 @@
     "tema": 13,
     "pregunta": "Conforme al art. 114 LPACAP, ponen fin a la via administrativa:",
     "opciones": [
-      "Los actos emanados de organos directivos con nivel de Subdirector General en materia de personal",
-      "Las resoluciones de organos administrativos, salvo que una disposicion legal o reglamentaria disponga lo contrario",
-      "Los acuerdos, pactos, convenios o contratos que tengan la consideracion de finalizadores del procedimiento",
-      "Las resoluciones que acuerden la aplicacion de medidas provisionales"
+      "Los actos emanados de órganos directivos con nivel de Subdirector General en materia de personal",
+      "Las resoluciones de órganos administrativos, salvo que una disposición legal o reglamentaria disponga lo contrario",
+      "Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento",
+      "Las resoluciones que acuerden la aplicación de medidas provisionales"
     ],
     "correcta": 2,
-    "explicacion": "El art. 114 LPACAP incluye los acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que ponen fin a la via administrativa.",
+    "explicación": "El art. 114 LPACAP incluye los acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que ponen fin a la via administrativa.",
     "referencia": "II.4 · 2.2 Actos que ponen fin a la via administrativa"
   },
   {
@@ -346,7 +346,7 @@
       "resolver conflictos electorales"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como el orden jurisdiccional que controla la actuación administrativa.",
+    "explicación": "El tema la define como el orden jurisdiccional que controla la actuación administrativa.",
     "referencia": "II.4 · 1.1 La Jurisdicción Contencioso-Administrativa"
   },
   {
@@ -360,7 +360,7 @@
       "Art. 82 CE y art. 86 CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema cita ambos preceptos como fundamento constitucional.",
+    "explicación": "El tema cita ambos preceptos como fundamento constitucional.",
     "referencia": "II.4 · 1.1 La Jurisdicción Contencioso-Administrativa"
   },
   {
@@ -374,7 +374,7 @@
       "arbitrario"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que hoy puede conocer también de inactividad y vía de hecho.",
+    "explicación": "El tema explica que hoy puede conocer también de inactividad y vía de hecho.",
     "referencia": "II.4 · 1.2 Carácter revisor y plenario"
   },
   {
@@ -388,7 +388,7 @@
       "Las cuestiones electorales"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la actividad administrativa y también disposiciones generales, inactividad, vía de hecho, etc.",
+    "explicación": "El tema enumera la actividad administrativa y también disposiciones generales, inactividad, vía de hecho, etc.",
     "referencia": "II.4 · 2.1 Lo que conoce la JCA"
   },
   {
@@ -402,7 +402,7 @@
       "6 meses y 2 años"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 2 meses para actos expresos y 6 meses para actos presuntos.",
+    "explicación": "El tema fija 2 meses para actos expresos y 6 meses para actos presuntos.",
     "referencia": "II.4 · 3.3 El plazo de interposición"
   },
   {
@@ -416,7 +416,7 @@
       "Juzgados Centrales de lo Contencioso-Administrativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye esa materia a los Juzgados de lo Contencioso-Administrativo.",
+    "explicación": "El tema atribuye esa materia a los Juzgados de lo Contencioso-Administrativo.",
     "referencia": "II.4 · 4.1 Juzgados de lo Contencioso-Administrativo"
   },
   {
@@ -430,7 +430,7 @@
       "Juzgados de lo Penal"
     ],
     "correcta": 1,
-    "explicacion": "El tema asigna esa competencia a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional en única instancia.",
+    "explicación": "El tema asigna esa competencia a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional en única instancia.",
     "referencia": "II.4 · 4.4 Audiencia Nacional — Sala de lo Contencioso-Administrativo"
   },
   {
@@ -444,7 +444,7 @@
       "la responsabilidad penal de los ministros"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge expresamente esa competencia de los TSJ.",
+    "explicación": "El tema recoge expresamente esa competencia de los TSJ.",
     "referencia": "II.4 · 4.3 Tribunales Superiores de Justicia"
   },
   {
@@ -458,7 +458,7 @@
       "electoral"
     ],
     "correcta": 0,
-    "explicacion": "El tema la presenta como la medida cautelar más habitual.",
+    "explicación": "El tema la presenta como la medida cautelar más habitual.",
     "referencia": "II.4 · 5.2 Medidas cautelares"
   },
   {
@@ -466,13 +466,13 @@
     "tema": 13,
     "pregunta": "¿Qué es necesario para que la Administración pueda actuar sin cobertura jurídica?",
     "opciones": [
-      "Que exista silencio positivo",
+      "Qué exista silencio positivo",
       "Nada, porque eso sería vía de hecho",
-      "Que lo autorice el Congreso",
-      "Que se trate de un contrato privado"
+      "Qué lo autorice el Congreso",
+      "Qué se trate de un contrato privado"
     ],
     "correcta": 1,
-    "explicacion": "El tema define la vía de hecho como actuación sin cobertura jurídica o excediéndola.",
+    "explicación": "El tema define la vía de hecho como actuación sin cobertura jurídica o excediéndola.",
     "referencia": "II.4 · 2.1 Lo que conoce la JCA"
   },
   {
@@ -486,7 +486,7 @@
       "1 año"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica 2 meses desde la publicación del reglamento.",
+    "explicación": "El tema indica 2 meses desde la publicación del reglamento.",
     "referencia": "II.4 · 3.3 El plazo de interposición"
   },
   {
@@ -500,7 +500,7 @@
       "únicamente al Consejo de Estado"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya la obligatoriedad de cumplimiento y la posibilidad de multas coercitivas.",
+    "explicación": "El tema subraya la obligatoriedad de cumplimiento y la posibilidad de multas coercitivas.",
     "referencia": "II.4 · 5.3 Ejecución de sentencias"
   },
   {
@@ -514,7 +514,7 @@
       "La vía de hecho"
     ],
     "correcta": 1,
-    "explicacion": "El tema excluye los actos del Tribunal Constitucional.",
+    "explicación": "El tema excluye los actos del Tribunal Constitucional.",
     "referencia": "II.4 · 2.2 Materias excluidas"
   },
   {
@@ -528,7 +528,7 @@
       "el Consejo de Ministros"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye al TS el recurso de casación en el orden contencioso-administrativo.",
+    "explicación": "El tema atribuye al TS el recurso de casación en el orden contencioso-administrativo.",
     "referencia": "II.4 · 4.5 Tribunal Supremo — Sala de lo Contencioso-Administrativo"
   },
   {
@@ -542,7 +542,7 @@
       "únicamente a dictar reglamentos"
     ],
     "correcta": 0,
-    "explicacion": "El tema explica esa ampliación funcional de la jurisdicción.",
+    "explicación": "El tema explica esa ampliación funcional de la jurisdicción.",
     "referencia": "II.4 · 1.2 Carácter revisor y plenario"
   },
   {
@@ -556,7 +556,7 @@
       "15 días"
     ],
     "correcta": 0,
-    "explicacion": "El temario fija 6 meses para recurrir los actos presuntos por silencio administrativo.",
+    "explicación": "El temario fija 6 meses para recurrir los actos presuntos por silencio administrativo.",
     "referencia": "II.4 · 3.3 Límite temporal: el plazo de interposición (art. 46 LJCA)"
   }
 ]

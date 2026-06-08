@@ -4,22 +4,22 @@ import { officialTopics } from '../data/burgosSyllabus';
 import { practicalCases, practicalChecklist, practicalLegalTexts } from '../data/practicalCases';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
-const practicalTopics = officialTopics.filter((topic) => topic.ejercicios.includes('practico'));
+const practicalTopics = officialTopics.filter((topic) => topic.ejercicios.includes('práctico'));
 const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
 ---
 
 <Layout title="Segundo ejercicio">
   <div class="bd-intro ps-lg-2">
     <h1 class="bd-title">Segundo ejercicio</h1>
-    <p class="bd-subtitle mb-0">Supuestos practicos, checklist de resolucion, textos legales y bloques criticos para entrenar el ejercicio escrito.</p>
+    <p class="bd-subtitle mb-0">Supuestos prácticos, checklist de resolución, textos legales y bloques críticos para entrenar el ejercicio escrito.</p>
   </div>
 
   <section class="bd-content ps-lg-2">
     <section class="official-group">
       <div class="official-group-heading">
         <div>
-          <h2>Como es el ejercicio<a class="anchor-link" aria-label="Enlace a esta seccion" href="#como-es-el-ejercicio"></a></h2>
-          <p>Bloque practico centrado en grupos III, IV y V. Lo importante no es solo saber la teoria, sino aplicarla con orden, fundamento juridico y una conclusion clara.</p>
+          <h2>Cómo es el ejercicio<a class="anchor-link" aria-label="Enlace a esta sección" href="#como-es-el-ejercicio"></a></h2>
+          <p>Bloque práctico centrado en grupos III, IV y V. Lo importante no es solo saber la teoría, sino aplicarla con orden, fundamento jurídico y una conclusión clara.</p>
         </div>
         <span class="badge text-bg-primary">Hasta 4 horas</span>
       </div>
@@ -28,12 +28,12 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
           <div class="official-topic-main">
             <div class="official-topic-number">1</div>
             <div class="official-topic-body">
-              <h3>Que suele valorar el tribunal</h3>
+              <h3>Qué suele valorar el tribunal</h3>
               <ul class="mb-0">
-                <li>Correccion de la solucion propuesta.</li>
-                <li>Aplicacion, interpretacion y argumentacion juridica.</li>
-                <li>Capacidad de juicio, analisis y sintesis.</li>
-                <li>Claridad, sencillez y fluidez en la redaccion.</li>
+                <li>Corrección de la solución propuesta.</li>
+                <li>Aplicación, interpretación y argumentación jurídica.</li>
+                <li>Capacidad de juicio, análisis y síntesis.</li>
+                <li>Claridad, sencillez y fluidez en la redacción.</li>
               </ul>
             </div>
           </div>
@@ -43,17 +43,17 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
             <div class="official-topic-number">2</div>
             <div class="official-topic-body">
               <h3>Material que conviene llevar</h3>
-              <p class="mb-0">Textos normativos limpios, sin comentarios. Merece la pena entrenar ya con leyes subrayadas de forma util, pero no anotadas como manual.</p>
+              <p class="mb-0">Textos normativos limpios, sin comentarios. Merece la pena entrenar ya con leyes subrayadas de forma útil, pero no anotadas como manual.</p>
             </div>
           </div>
         </article>
       </div>
     </section>
 
-    <section class="official-group" id="checklist-resolucion">
+    <section class="official-group" id="checklist-resolución">
       <div class="official-group-heading">
         <div>
-          <h2>Checklist de resolucion<a class="anchor-link" aria-label="Enlace a esta seccion" href="#checklist-resolucion"></a></h2>
+          <h2>Checklist de resolución<a class="anchor-link" aria-label="Enlace a esta sección" href="#checklist-resolución"></a></h2>
           <p>Guion corto para no perderse cuando el caso mezcle procedimiento, personal, presupuesto, registro o transparencia.</p>
         </div>
       </div>
@@ -74,8 +74,8 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
     <section class="official-group" id="textos-legales">
       <div class="official-group-heading">
         <div>
-          <h2>Textos legales utiles<a class="anchor-link" aria-label="Enlace a esta seccion" href="#textos-legales"></a></h2>
-          <p>Base minima para entrenar supuestos. No hace falta llevarlo todo siempre, pero este bloque es el nucleo.</p>
+          <h2>Textos legales útiles<a class="anchor-link" aria-label="Enlace a esta sección" href="#textos-legales"></a></h2>
+          <p>Base mínima para entrenar supuestos. No hace falta llevarlo todo siempre, pero este bloque es el núcleo.</p>
         </div>
       </div>
       <div class="official-topic-list">
@@ -95,8 +95,8 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
     <section class="official-group" id="supuestos-modelo">
       <div class="official-group-heading">
         <div>
-          <h2>Supuestos modelo<a class="anchor-link" aria-label="Enlace a esta seccion" href="#supuestos-modelo"></a></h2>
-          <p>Casos de entrenamiento inspirados en ejercicios reales o construidos con el tipo de mezcla que mas castiga en oposicion administrativa.</p>
+          <h2>Supuestos modelo<a class="anchor-link" aria-label="Enlace a esta sección" href="#supuestos-modelo"></a></h2>
+          <p>Casos de entrenamiento inspirados en ejercicios reales o construidos con el tipo de mezcla que mas castiga en oposición administrativa.</p>
         </div>
         <span class="badge text-bg-secondary">{practicalCases.length} supuestos</span>
       </div>
@@ -118,7 +118,7 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
                   <div class="col-lg-6">
                     <div class="card border-0 bg-body-tertiary h-100">
                       <div class="card-body">
-                        <h4 class="h6 mb-3">Que te preguntaria el tribunal</h4>
+                        <h4 class="h6 mb-3">Qué te preguntaria el tribunal</h4>
                         <ul class="mb-0">
                           {practicalCase.tasks.map((task) => <li>{task}</li>)}
                         </ul>
@@ -128,7 +128,7 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
                   <div class="col-lg-6">
                     <div class="card border-0 bg-body-tertiary h-100">
                       <div class="card-body">
-                        <h4 class="h6 mb-3">Como resolverlo</h4>
+                        <h4 class="h6 mb-3">Cómo resolverlo</h4>
                         <ol class="mb-0">
                           {practicalCase.resolutionSteps.map((step) => <li>{step}</li>)}
                         </ol>
@@ -163,10 +163,10 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
       </div>
     </section>
 
-    <section class="official-group" id="bloques-criticos-practico">
+    <section class="official-group" id="bloques-críticos-práctico">
       <div class="official-group-heading">
         <div>
-          <h2>Temas criticos del practico<a class="anchor-link" aria-label="Enlace a esta seccion" href="#bloques-criticos-practico"></a></h2>
+          <h2>Temas críticos del práctico<a class="anchor-link" aria-label="Enlace a esta sección" href="#bloques-críticos-práctico"></a></h2>
           <p>Son los temas que entran de lleno en el segundo ejercicio. Conviene cruzarlos entre si en vez de estudiarlos aislados.</p>
         </div>
       </div>
@@ -178,7 +178,7 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
               <div class="official-topic-body">
                 <div class="official-topic-meta">
                   <span class="badge text-bg-primary">Practico</span>
-                  <span class="badge text-bg-dark">{topic.prioridad === 'critica' ? 'Muy repetible' : 'Apoyo'}</span>
+                  <span class="badge text-bg-dark">{topic.prioridad === 'crítica' ? 'Muy repetible' : 'Apoyo'}</span>
                 </div>
                 <h3>{topic.titulo}</h3>
                 <a class="btn btn-sm btn-primary" href={`${base}programa/${topicSlug(topic.grupo, topic.numero)}`}>Abrir tema</a>

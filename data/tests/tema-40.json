@@ -10,7 +10,7 @@
       "el estudio de la legislación laboral"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa definición básica.",
+    "explicación": "El tema da esa definición básica.",
     "referencia": "V.9 · 1.1 Qué es la informática"
   },
   {
@@ -24,7 +24,7 @@
       "publicidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la velocidad entre sus rasgos fundamentales.",
+    "explicación": "El tema enumera la velocidad entre sus rasgos fundamentales.",
     "referencia": "V.9 · 1.1 Qué es la informática"
   },
   {
@@ -38,7 +38,7 @@
       "monitor táctil obligatorio"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el bus entre los elementos de la arquitectura.",
+    "explicación": "El tema incluye el bus entre los elementos de la arquitectura.",
     "referencia": "V.9 · 2.2 La arquitectura von Neumann"
   },
   {
@@ -52,7 +52,7 @@
       "el programa de correo"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
+    "explicación": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
     "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
   },
   {
@@ -66,7 +66,7 @@
       "inembargable"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como volátil.",
+    "explicación": "El tema la define como volátil.",
     "referencia": "V.9 · 2.3.2 La memoria RAM"
   },
   {
@@ -80,7 +80,7 @@
       "las hojas de cálculo"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo sitúa en la ROM.",
+    "explicación": "El tema lo sitúa en la ROM.",
     "referencia": "V.9 · 2.3.3 La memoria ROM"
   },
   {
@@ -94,7 +94,7 @@
       "Sistema de archivos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como conjunto de circuitos de comunicación.",
+    "explicación": "El tema lo identifica como conjunto de circuitos de comunicación.",
     "referencia": "V.9 · 2.3.4 La placa base (motherboard)"
   },
   {
@@ -108,7 +108,7 @@
       "cifrado de correos"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así.",
+    "explicación": "El tema la define así.",
     "referencia": "V.9 · 2.3.5 La tarjeta gráfica (GPU)"
   },
   {
@@ -122,7 +122,7 @@
       "cambiar el sistema operativo"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define por esa función.",
+    "explicación": "El tema los define por esa función.",
     "referencia": "V.9 · 2.4.1 Periféricos de entrada"
   },
   {
@@ -136,7 +136,7 @@
       "convierte la corriente eléctrica"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye esa función.",
+    "explicación": "El tema le atribuye esa función.",
     "referencia": "V.9 · 2.5 Los buses del sistema"
   },
   {
@@ -150,7 +150,7 @@
       "solo las bases de datos relacionales"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo indica entre las categorías.",
+    "explicación": "El tema lo indica entre las categorías.",
     "referencia": "V.9 · 3.2.1 Software de sistema (o software base)"
   },
   {
@@ -164,7 +164,7 @@
       "instalarlo en un solo equipo sin más"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define por esas libertades.",
+    "explicación": "El tema lo define por esas libertades.",
     "referencia": "V.9 · 3.3 Clasificación del software según su licencia"
   },
   {
@@ -178,7 +178,7 @@
       "un navegador web"
     ],
     "correcta": 0,
-    "explicacion": "El tema desarrolla esa función en el apartado 4.",
+    "explicación": "El tema desarrolla esa función en el apartado 4.",
     "referencia": "V.9 · 4.1 Concepto y funciones"
   },
   {
@@ -192,7 +192,7 @@
       "contratación pública"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo cita en la referencia normativa.",
+    "explicación": "El tema lo cita en la referencia normativa.",
     "referencia": "V.9 · Referencia normativa"
   },
   {
@@ -206,7 +206,7 @@
       "programas de diseño gráfico"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define como objetos cotidianos conectados.",
+    "explicación": "El tema los define como objetos cotidianos conectados.",
     "referencia": "V.9 · 1.2 Tipos de ordenadores"
   },
   {
@@ -220,7 +220,7 @@
       "funcionar únicamente en servidores"
     ],
     "correcta": 0,
-    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
+    "explicación": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
     "referencia": "V.9 · 4.2.1 Por el tipo de interfaz"
   },
   {
@@ -234,7 +234,7 @@
       "dos tarjetas gráficas dedicadas"
     ],
     "correcta": 0,
-    "explicacion": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
+    "explicación": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
     "referencia": "V.9 · 4.3.1 Microsoft Windows"
   },
   {
@@ -248,7 +248,7 @@
       "duplicar el contenido del disco en la nube"
     ],
     "correcta": 0,
-    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
+    "explicación": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
     "referencia": "V.9 · 4.4 Conceptos clave de los sistemas operativos"
   },
   {
@@ -262,7 +262,7 @@
       "se basan en platos magnéticos giratorios"
     ],
     "correcta": 0,
-    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
+    "explicación": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
     "referencia": "V.9 · 5.3 La unidad de estado sólido (SSD)"
   },
   {
@@ -276,27 +276,27 @@
       "los datos deben permanecer cifrados en cualquier circunstancia"
     ],
     "correcta": 0,
-    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
+    "explicación": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
     "referencia": "V.9 · 6.1 Concepto y objetivos"
   },
   {
     "id": "t36-p021",
     "tema": 40,
-    "pregunta": "¿Cual de las siguientes definiciones corresponde a un procesador?",
+    "pregunta": "¿Cuál de las siguientes definiciones corresponde a un procesador?",
     "opciones": [
       "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
-      "Unidad de informacion compuesta generalmente de ocho bits",
-      "Unidad funcional que se encarga de la busqueda, interpretacion y ejecucion de instrucciones",
+      "Unidad de información compuesta generalmente de ocho bits",
+      "Unidad funcional que se encarga de la busqueda, interpretación y ejecución de instrucciones",
       "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
     ],
     "correcta": 2,
-    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
+    "explicación": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
     "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
   },
   {
     "id": "t36-p022",
     "tema": 40,
-    "pregunta": "¿Que sistema de seguridad tiene como funcion especifica detectar, bloquear y eliminar software malicioso?",
+    "pregunta": "¿Qué sistema de seguridad tiene como función específica detectar, bloquear y eliminar software malicioso?",
     "opciones": [
       "VPN",
       "Firewall",
@@ -304,13 +304,13 @@
       "Gestor de contraseñas"
     ],
     "correcta": 2,
-    "explicacion": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
+    "explicación": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
     "referencia": "V.9 · 6.5 El antivirus"
   },
   {
     "id": "t36-p023",
     "tema": 40,
-    "pregunta": "¿Que elemento realiza la funcion de guardar de forma temporal programas y procesos en ejecucion?",
+    "pregunta": "¿Qué elemento realiza la función de guardar de forma temporal programas y procesos en ejecución?",
     "opciones": [
       "Disipador",
       "Memoria RAM",
@@ -318,7 +318,7 @@
       "CPU"
     ],
     "correcta": 1,
-    "explicacion": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecucion inmediata.",
+    "explicación": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecución inmediata.",
     "referencia": "V.9 · 2.3.2 La memoria RAM"
   },
   {
@@ -332,7 +332,7 @@
       "un sistema de bases de datos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como sistema operativo de referencia.",
+    "explicación": "El tema lo presenta como sistema operativo de referencia.",
     "referencia": "V.9 · 1.1 Qué es Windows"
   },
   {
@@ -346,7 +346,7 @@
       "un disco duro mecánico"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala esos requisitos de seguridad.",
+    "explicación": "El tema señala esos requisitos de seguridad.",
     "referencia": "V.9 · 1.1 Qué es Windows"
   },
   {
@@ -360,7 +360,7 @@
       "Access"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera Enterprise entre las ediciones.",
+    "explicación": "El tema enumera Enterprise entre las ediciones.",
     "referencia": "V.9 · 1.2 Versiones de Windows 11"
   },
   {
@@ -374,7 +374,7 @@
       "el uso exclusivo de comandos de voz"
     ],
     "correcta": 0,
-    "explicacion": "El tema menciona Snap Layouts como novedad.",
+    "explicación": "El tema menciona Snap Layouts como novedad.",
     "referencia": "V.9 · 1.3 Novedades de Windows 11 respecto a Windows 10"
   },
   {
@@ -388,7 +388,7 @@
       "solo los accesos a Word"
     ],
     "correcta": 0,
-    "explicacion": "El tema describe esos elementos en la barra.",
+    "explicación": "El tema describe esos elementos en la barra.",
     "referencia": "V.9 · 2.2 La barra de tareas"
   },
   {
@@ -402,7 +402,7 @@
       "no tienen icono"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo indica expresamente.",
+    "explicación": "El tema lo indica expresamente.",
     "referencia": "V.9 · 2.3 Los iconos del escritorio"
   },
   {
@@ -416,7 +416,7 @@
       "solo el explorador clásico"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esas secciones.",
+    "explicación": "El tema enumera esas secciones.",
     "referencia": "V.9 · 3.1 Estructura del menú Inicio en Windows 11"
   },
   {
@@ -430,7 +430,7 @@
       "desconecta la batería"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como estado de bajo consumo.",
+    "explicación": "El tema la define como estado de bajo consumo.",
     "referencia": "V.9 · 3.2 Opciones de inicio/apagado"
   },
   {
@@ -444,7 +444,7 @@
       "F2"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese atajo.",
+    "explicación": "El tema recoge ese atajo.",
     "referencia": "V.9 · 4.1 Qué es Copilot"
   },
   {
@@ -458,7 +458,7 @@
       "arrastrar la ventana"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
+    "explicación": "El tema lo define así.",
     "referencia": "V.9 · 5.3 Los menús contextuales"
   },
   {
@@ -472,7 +472,7 @@
       "administrar usuarios del sistema"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye esa función.",
+    "explicación": "El tema le atribuye esa función.",
     "referencia": "V.9 · 6.1 Concepto y acceso"
   },
   {
@@ -486,7 +486,7 @@
       "Contenido"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala la vista Detalles como la más informativa.",
+    "explicación": "El tema señala la vista Detalles como la más informativa.",
     "referencia": "V.9 · 6.3 Modos de visualización"
   },
   {
@@ -500,7 +500,7 @@
       "impide recuperar nada"
     ],
     "correcta": 0,
-    "explicacion": "El tema la presenta como almacenamiento temporal recuperable.",
+    "explicación": "El tema la presenta como almacenamiento temporal recuperable.",
     "referencia": "V.9 · 2.3 Los iconos del escritorio"
   },
   {
@@ -514,7 +514,7 @@
       "una edición de Windows"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo incluye entre las herramientas del entorno.",
+    "explicación": "El tema lo incluye entre las herramientas del entorno.",
     "referencia": "V.9 · 9.2 Acceso rápido"
   },
   {
@@ -528,27 +528,27 @@
       "Calculadora"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera el Administrador de tareas entre las herramientas del sistema.",
+    "explicación": "El tema enumera el Administrador de tareas entre las herramientas del sistema.",
     "referencia": "V.9 · 11.1 Administrador de tareas (Task Manager)"
   },
   {
     "id": "t37-p016",
     "tema": 40,
-    "pregunta": "¿Cual es la funcion principal de Microsoft Copilot en Windows 11?",
+    "pregunta": "¿Cuál es la función principal de Microsoft Copilot en Windows 11?",
     "opciones": [
-      "Gestionar de forma autonoma la seguridad de la red sin intervencion del administrador",
-      "Actuar como asistente de inteligencia artificial para responder preguntas, buscar informacion y ayudar con tareas",
+      "Gestionar de forma autonoma la seguridad de la red sin intervención del administrador",
+      "Actuar como asistente de inteligencia artificial para responder preguntas, buscar información y ayudar con tareas",
       "Servir exclusivamente como sistema de almacenamiento en la nube",
       "Sustituir al Explorador de archivos en la gestion de carpetas"
     ],
     "correcta": 1,
-    "explicacion": "El tema presenta Copilot como un asistente de inteligencia artificial capaz de responder preguntas, buscar informacion y ayudar con acciones del sistema.",
+    "explicación": "El tema presenta Copilot como un asistente de inteligencia artificial capaz de responder preguntas, buscar información y ayudar con acciones del sistema.",
     "referencia": "V.9 · 4.2 Funciones de Copilot en Windows"
   },
   {
     "id": "t37-p017",
     "tema": 40,
-    "pregunta": "¿Cual de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualizacion validos segun el tema?",
+    "pregunta": "¿Cuál de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualización validos segun el tema?",
     "opciones": [
       "Lista, Detalles e Iconos medianos",
       "Iconos muy pequeños, Extendido y Mosaico",
@@ -556,7 +556,7 @@
       "Iconos muy grandes, Contenido e Iconos muy pequeños"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye como vistas validas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido ni la denominacion iconos muy pequeños.",
-    "referencia": "V.9 · 6.3 Modos de visualizacion"
+    "explicación": "El tema incluye como vistas validas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido ni la denominación iconos muy pequeños.",
+    "referencia": "V.9 · 6.3 Modos de visualización"
   }
 ]

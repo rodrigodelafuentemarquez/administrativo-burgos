@@ -46,11 +46,11 @@ Para que la Administración quede obligada a indemnizar deben concurrir **todos*
 - **Evaluable económicamente:** debe ser susceptible de cuantificación en términos económicos.
 - **Individualizada:** el daño debe afectar a una persona o grupo de personas concreto, no a la generalidad de los ciudadanos.
 
-### 2.2 Que la lesión sea antijurídica
+### 2.2 Qué la lesión sea antijurídica
 
 La antijuridicidad no se refiere a la conducta de la Administración (que puede ser perfectamente legal) sino a que el particular **no tenga el deber jurídico de soportar el daño**. Si existe ese deber (por ejemplo, porque la ley así lo establece), no hay responsabilidad aunque el daño sea real.
 
-> 💡 Este es el rasgo más característico del sistema español: la Administración responde aunque haya actuado legalmente, si el particular no estaba obligado a soportar el daño.
+> 💡 Este es el rasgo más carácterístico del sistema español: la Administración responde aunque haya actuado legalmente, si el particular no estaba obligado a soportar el daño.
 
 ### 2.3 Nexo causal entre el funcionamiento del servicio público y la lesión
 
@@ -58,7 +58,7 @@ Debe existir una **relación de causalidad directa, inmediata y exclusiva** entr
 
 Si el nexo causal se rompe por alguna de las causas de exclusión, no hay responsabilidad.
 
-### 2.4 Que no concurra fuerza mayor
+### 2.4 Qué no concurra fuerza mayor
 
 La **fuerza mayor** es la única causa de exclusión expresamente prevista en el art. 106.2 CE. La fuerza mayor es un acontecimiento exterior, imprevisible e irresistible, ajeno al funcionamiento del servicio, que rompe el nexo causal.
 
@@ -70,7 +70,7 @@ Se distingue del **caso fortuito** (acontecimiento interno al servicio, imprevis
 
 ### 3.1 Fuerza mayor
 
-Como se ha indicado, la fuerza mayor rompe el nexo causal y exime totalmente de responsabilidad a la Administración.
+Cómo se ha indicado, la fuerza mayor rompe el nexo causal y exime totalmente de responsabilidad a la Administración.
 
 ### 3.2 Culpa exclusiva del perjudicado
 
@@ -155,10 +155,10 @@ Los particulares que hayan sufrido daños como consecuencia de la aplicación de
 
 **b) Por leyes contrarias al Derecho de la UE:**
 Igualmente, cuando una ley española sea contraria al Derecho de la UE y cause daños a los particulares, estos pueden reclamar indemnización, con los requisitos:
-- Que la norma de la UE infringida confiera derechos a los particulares.
-- Que la infracción sea suficientemente caracterizada.
-- Que exista relación de causalidad directa entre la infracción y el daño.
-- Que el particular haya obtenido sentencia firme desestimatoria de recurso contra el acto de aplicación, alegando la infracción del Derecho de la UE.
+- Qué la norma de la UE infringida confiera derechos a los particulares.
+- Qué la infracción sea suficientemente caracterizada.
+- Qué exista relación de causalidad directa entre la infracción y el daño.
+- Qué el particular haya obtenido sentencia firme desestimatoria de recurso contra el acto de aplicación, alegando la infracción del Derecho de la UE.
 
 ### 6.2 Responsabilidad por funcionamiento anormal de la Administración de Justicia (art. 121 CE)
 
@@ -170,16 +170,16 @@ El Estado responde también por los daños causados por **error judicial** o por
 
 ### 7.1 La responsabilidad directa es de la Administración
 
-Como se ha señalado, el sistema español es de **responsabilidad directa**: el ciudadano reclama siempre a la Administración, no al funcionario. Esto protege al particular, que no tiene que identificar ni probar la culpa individual de ningún empleado público.
+Cómo se ha señalado, el sistema español es de **responsabilidad directa**: el ciudadano reclama siempre a la Administración, no al funcionario. Esto protege al particular, que no tiene que identificar ni probar la culpa individual de ningún empleado público.
 
 ### 7.2 La acción de regreso (art. 36 LRJSP)
 
 Una vez que la Administración ha indemnizado al ciudadano, puede **repetir** (reclamar) contra la autoridad o funcionario que causó el daño, si este actuó con **dolo, culpa o negligencia grave**.
 
 **Requisitos para la acción de regreso:**
-- Que la Administración haya indemnizado efectivamente al particular.
-- Que la actuación del empleado público haya sido constitutiva de dolo, culpa o negligencia graves.
-- Que exista relación de causalidad entre esa actuación y el daño.
+- Qué la Administración haya indemnizado efectivamente al particular.
+- Qué la actuación del empleado público haya sido constitutiva de dolo, culpa o negligencia graves.
+- Qué exista relación de causalidad entre esa actuación y el daño.
 
 El ejercicio de la acción de regreso es **obligatorio** para la Administración cuando concurran los requisitos (no es discrecional). La exigencia de responsabilidad se tramitará mediante el procedimiento administrativo que corresponda, respetando los principios del procedimiento sancionador.
 

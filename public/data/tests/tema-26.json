@@ -10,7 +10,7 @@
       "ningún régimen de Seguridad Social"
     ],
     "correcta": 0,
-    "explicacion": "El tema concluye que el personal local queda en el Régimen General.",
+    "explicación": "El tema concluye que el personal local queda en el Régimen General.",
     "referencia": "III.5 · 1.2 Encuadramiento del personal local"
   },
   {
@@ -24,7 +24,7 @@
       "entidades sin obligaciones de alta"
     ],
     "correcta": 0,
-    "explicacion": "El tema las define como empresarios a efectos de Seguridad Social.",
+    "explicación": "El tema las define como empresarios a efectos de Seguridad Social.",
     "referencia": "III.5 · 1.3 La Corporación Local como empresario cotizante"
   },
   {
@@ -38,7 +38,7 @@
       "solo dietas y asistencias"
     ],
     "correcta": 0,
-    "explicacion": "El tema desarrolla esas modalidades de asistencia.",
+    "explicación": "El tema desarrolla esas modalidades de asistencia.",
     "referencia": "III.5 · 3.2 Modalidades de asistencia sanitaria"
   },
   {
@@ -52,7 +52,7 @@
       "suspensión de funciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así en el art. 169 TRLGSS.",
+    "explicación": "El tema la define así en el art. 169 TRLGSS.",
     "referencia": "III.5 · 4.1 Concepto"
   },
   {
@@ -66,7 +66,7 @@
       "180 días improrrogables"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija ese límite de 365 + 180 días.",
+    "explicación": "El tema fija ese límite de 365 + 180 días.",
     "referencia": "III.5 · 4.4 Duración de la IT"
   },
   {
@@ -80,7 +80,7 @@
       "18 meses"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica 16 semanas para cada progenitor.",
+    "explicación": "El tema indica 16 semanas para cada progenitor.",
     "referencia": "III.5 · 5.2 Duración del permiso"
   },
   {
@@ -94,7 +94,7 @@
       "sustituibles por compensación económica"
     ],
     "correcta": 0,
-    "explicacion": "El tema las declara obligatorias e ininterrumpidas.",
+    "explicación": "El tema las declara obligatorias e ininterrumpidas.",
     "referencia": "III.5 · 5.2 Duración del permiso"
   },
   {
@@ -108,7 +108,7 @@
       "50 % del salario mensual"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija el 100 % de la base reguladora.",
+    "explicación": "El tema fija el 100 % de la base reguladora.",
     "referencia": "III.5 · 5.3 Cuantía del subsidio"
   },
   {
@@ -122,7 +122,7 @@
       "únicamente los trabajos nocturnos"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así y permite otra profesión distinta.",
+    "explicación": "El tema la define así y permite otra profesión distinta.",
     "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
   },
   {
@@ -136,7 +136,7 @@
       "no se exige cotización en ningún caso"
     ],
     "correcta": 0,
-    "explicacion": "Ese es el requisito general de cotización que recoge el tema, con especialidades por edad.",
+    "explicación": "Ese es el requisito general de cotización que recoge el tema, con especialidades por edad.",
     "referencia": "III.5 · 5.4 Requisitos"
   },
   {
@@ -150,7 +150,7 @@
       "un complemento por gran invalidez"
     ],
     "correcta": 0,
-    "explicacion": "La IP parcial disminuye el rendimiento en la profesión habitual sin impedir las tareas fundamentales y se indemniza con 24 mensualidades.",
+    "explicación": "La IP parcial disminuye el rendimiento en la profesión habitual sin impedir las tareas fundamentales y se indemniza con 24 mensualidades.",
     "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
   },
   {
@@ -164,7 +164,7 @@
       "Sesenta días naturales"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija tres días naturales tras el cese.",
+    "explicación": "El tema fija tres días naturales tras el cese.",
     "referencia": "III.5 · 5.2 Bajas"
   },
   {
@@ -178,7 +178,7 @@
       "Régimen especial de funcionarios locales"
     ],
     "correcta": 2,
-    "explicacion": "El tema sitúa al personal laboral en el Régimen General de la Seguridad Social.",
+    "explicación": "El tema sitúa al personal laboral en el Régimen General de la Seguridad Social.",
     "referencia": "III.5 · 6.1 El Régimen General de la Seguridad Social"
   },
   {
@@ -192,7 +192,7 @@
       "Cotizar mediante el modelo 145"
     ],
     "correcta": 0,
-    "explicacion": "El tema destaca esa posibilidad de elección sanitaria.",
+    "explicación": "El tema destaca esa posibilidad de elección sanitaria.",
     "referencia": "III.5 · 7.1 La MUFACE"
   },
   {
@@ -206,7 +206,7 @@
       "Solo a los funcionarios locales"
     ],
     "correcta": 0,
-    "explicacion": "El corte temporal del tema es el 1 de enero de 2011.",
+    "explicación": "El corte temporal del tema es el 1 de enero de 2011.",
     "referencia": "III.5 · 7.2 Las Clases Pasivas del Estado"
   },
   {
@@ -220,54 +220,54 @@
       "La opción sanitaria la determina en exclusiva la Administración."
     ],
     "correcta": 0,
-    "explicacion": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
+    "explicación": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
     "referencia": "III.5 · 7.1 La MUFACE"
   },
   {
     "id": "topup-26-01",
-    "pregunta": "La Seguridad Social se estructura en Espana alrededor de un sistema con accion protectora:",
+    "pregunta": "La Seguridad Social se estructura en Espana alrededor de un sistema con acción protectora:",
     "opciones": [
       "frente a contingencias y situaciones de necesidad",
       "solo para funcionarios locales",
-      "exclusivamente urbanistica",
+      "exclusivamente urbanística",
       "sin cobertura sanitaria"
     ],
     "correcta": 0,
-    "explicacion": "La accion protectora es el nucleo del sistema de Seguridad Social.",
-    "referencia": "III.5 · Accion protectora",
+    "explicación": "La acción protectora es el núcleo del sistema de Seguridad Social.",
+    "referencia": "III.5 · Acción protectora",
     "tema": 26
   },
   {
     "id": "topup-26-02",
-    "pregunta": "El campo de aplicacion del sistema de Seguridad Social delimita:",
+    "pregunta": "El campo de aplicación del sistema de Seguridad Social delimita:",
     "opciones": [
       "quienes quedan incluidos y protegidos por el sistema",
-      "la organizacion del Pleno",
-      "la aprobacion de ordenanzas",
-      "la composicion del Senado"
+      "la organización del Pleno",
+      "la aprobación de ordenanzas",
+      "la composición del Senado"
     ],
     "correcta": 0,
-    "explicacion": "El campo de aplicacion fija el ambito subjetivo del sistema.",
-    "referencia": "III.5 · Campo de aplicacion",
+    "explicación": "El campo de aplicación fija el ámbito subjetivo del sistema.",
+    "referencia": "III.5 · Campo de aplicación",
     "tema": 26
   },
   {
     "id": "topup-26-03",
     "pregunta": "La asistencia sanitaria forma parte de la:",
     "opciones": [
-      "accion protectora de la Seguridad Social",
+      "acción protectora de la Seguridad Social",
       "potestad reglamentaria tributaria",
-      "funcion interventora",
+      "función interventora",
       "potestad sancionadora local"
     ],
     "correcta": 0,
-    "explicacion": "La asistencia sanitaria es una prestacion basica de la accion protectora.",
-    "referencia": "III.5 · Accion protectora",
+    "explicación": "La asistencia sanitaria es una prestación básica de la acción protectora.",
+    "referencia": "III.5 · Acción protectora",
     "tema": 26
   },
   {
     "id": "topup-26-04",
-    "pregunta": "La estructura del sistema de Seguridad Social se apoya en un regimen general y, en su caso, en:",
+    "pregunta": "La estructura del sistema de Seguridad Social se apoya en un régimen general y, en su caso, en:",
     "opciones": [
       "regimenes especiales",
       "regimenes urbanisticos",
@@ -275,7 +275,7 @@
       "regimenes contenciosos"
     ],
     "correcta": 0,
-    "explicacion": "La organizacion del sistema distingue regimen general y regimenes especiales.",
+    "explicación": "La organización del sistema distingue régimen general y regimenes especiales.",
     "referencia": "III.5 · Estructura del sistema",
     "tema": 26
   }

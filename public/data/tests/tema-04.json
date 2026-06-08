@@ -2,16 +2,16 @@
   {
     "id": "pdf-2023-burgos-r02",
     "tema": 4,
-    "pregunta": "Conforme al articulo 97 de la Constitucion Espanola, el Gobierno NO dirige:",
+    "pregunta": "Conforme al artículo 97 de la Constitución Española, el Gobierno NO dirige:",
     "opciones": [
-      "La politica interior y exterior",
-      "La Administracion civil y militar",
+      "La política interior y exterior",
+      "La Administración civil y militar",
       "La defensa del Estado",
-      "La funcion ejecutiva"
+      "La función ejecutiva"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · reserva 2",
-    "explicacion": "El Gobierno dirige la politica interior y exterior, la Administracion civil y militar y la defensa del Estado, y ejerce la funcion ejecutiva."
+    "explicación": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva."
   },
   {
     "id": "t05-p010",
@@ -24,7 +24,7 @@
       "El Director Insular"
     ],
     "correcta": 1,
-    "explicacion": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
+    "explicación": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
     "referencia": "I.4 · 10.3 Organización periférica de la AGE (art. 69 LRJSP)"
   },
   {
@@ -38,7 +38,7 @@
       "autonomía legislativa"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge esos principios en el art. 103 CE.",
+    "explicación": "El tema recoge esos principios en el art. 103 CE.",
     "referencia": "I.4 · 10.1 Concepto y caracterización"
   },
   {
@@ -52,7 +52,7 @@
       "una Administración sin personalidad jurídica"
     ],
     "correcta": 1,
-    "explicacion": "El tema afirma que hay una pluralidad de Administraciones con personalidad y competencias propias.",
+    "explicación": "El tema afirma que hay una pluralidad de Administraciones con personalidad y competencias propias.",
     "referencia": "I.4 · 1.1 Concepto y pluralidad"
   },
   {
@@ -66,7 +66,7 @@
       "Art. 149 CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce literalmente el art. 103.1 CE.",
+    "explicación": "El tema reproduce literalmente el art. 103.1 CE.",
     "referencia": "I.4 · 2.1 Los principios constitucionales"
   },
   {
@@ -80,7 +80,7 @@
       "solo entre Estado y CC.AA."
     ],
     "correcta": 1,
-    "explicacion": "El tema precisa que no hay jerarquía entre Administraciones distintas.",
+    "explicación": "El tema precisa que no hay jerarquía entre Administraciones distintas.",
     "referencia": "I.4 · 2.2.1 Jerarquía"
   },
   {
@@ -94,7 +94,7 @@
       "Avocación"
     ],
     "correcta": 0,
-    "explicacion": "El tema define la descentralización como transferencia entre entes territoriales distintos con personalidad propia.",
+    "explicación": "El tema define la descentralización como transferencia entre entes territoriales distintos con personalidad propia.",
     "referencia": "I.4 · 2.2.2 Descentralización"
   },
   {
@@ -108,7 +108,7 @@
       "de la ley al reglamento"
     ],
     "correcta": 0,
-    "explicacion": "El tema la sitúa dentro de la misma Administración y persona jurídica.",
+    "explicación": "El tema la sitúa dentro de la misma Administración y persona jurídica.",
     "referencia": "I.4 · 2.2.3 Desconcentración"
   },
   {
@@ -122,7 +122,7 @@
       "Primacía judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye la lealtad institucional entre los principios adicionales del art. 3 LRJSP.",
+    "explicación": "El tema incluye la lealtad institucional entre los principios adicionales del art. 3 LRJSP.",
     "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP"
   },
   {
@@ -136,7 +136,7 @@
       "sustituye al órgano administrativo"
     ],
     "correcta": 1,
-    "explicacion": "El tema diferencia claramente órganos y unidades administrativas.",
+    "explicación": "El tema diferencia claramente órganos y unidades administrativas.",
     "referencia": "I.4 · 2.4 Técnicas de organización"
   },
   {
@@ -150,7 +150,7 @@
       "la condición de interesado en un procedimiento"
     ],
     "correcta": 0,
-    "explicacion": "El tema define la competencia como el conjunto de facultades y potestades del órgano.",
+    "explicación": "El tema define la competencia como el conjunto de facultades y potestades del órgano.",
     "referencia": "I.4 · 2.5 La competencia administrativa"
   },
   {
@@ -164,7 +164,7 @@
       "delegable sin límites en cualquier caso"
     ],
     "correcta": 1,
-    "explicacion": "El tema destaca que la competencia es irrenunciable e improrrogable.",
+    "explicación": "El tema destaca que la competencia es irrenunciable e improrrogable.",
     "referencia": "I.4 · 2.5 La competencia administrativa"
   },
   {
@@ -178,7 +178,7 @@
       "Encomienda de gestión"
     ],
     "correcta": 2,
-    "explicacion": "El tema define la delegación de firma como transferencia solo de la firma.",
+    "explicación": "El tema define la delegación de firma como transferencia solo de la firma.",
     "referencia": "I.4 · 2.5 La competencia administrativa"
   },
   {
@@ -192,7 +192,7 @@
       "requiere ley orgánica siempre"
     ],
     "correcta": 1,
-    "explicacion": "El tema la define así de forma expresa.",
+    "explicación": "El tema la define así de forma expresa.",
     "referencia": "I.4 · 2.5 La competencia administrativa"
   },
   {
@@ -206,7 +206,7 @@
       "Tribunal Constitucional exclusivamente"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa el control de la actuación administrativa en la jurisdicción contencioso-administrativa.",
+    "explicación": "El tema sitúa el control de la actuación administrativa en la jurisdicción contencioso-administrativa.",
     "referencia": "I.4 · 3.4 Control judicial de la Administración"
   },
   {
@@ -220,7 +220,7 @@
       "el consentimiento judicial previo en todo caso"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica esos límites para la autotutela.",
+    "explicación": "El tema indica esos límites para la autotutela.",
     "referencia": "I.4 · 3.5 La autotutela administrativa y sus límites"
   },
   {
@@ -234,7 +234,7 @@
       "Convalidación"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo vincula al art. 9.3 CE.",
+    "explicación": "El tema lo vincula al art. 9.3 CE.",
     "referencia": "I.4 · 3.6 La interdicción de la arbitrariedad"
   },
   {
@@ -248,35 +248,35 @@
       "solo la potestad sancionadora"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera varios de esos principios de actuación.",
+    "explicación": "El tema enumera varios de esos principios de actuación.",
     "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP"
   },
   {
     "id": "t13-p016",
     "tema": 4,
-    "pregunta": "De acuerdo con el art. 103.1 CE, la Administracion Publica actua de acuerdo con los principios de:",
+    "pregunta": "De acuerdo con el art. 103.1 CE, la Administración Publica actua de acuerdo con los principios de:",
     "opciones": [
-      "Eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion",
-      "Publicidad, irretroactividad, seguridad juridica y responsabilidad",
-      "Legalidad penal, tipicidad, culpabilidad y presuncion de inocencia",
-      "Solidaridad, autonomia financiera, subsidiariedad y lealtad institucional"
+      "Eficacia, jerarquia, descentralización, desconcentración y coordinación",
+      "Publicidad, irretroactividad, seguridad jurídica y responsabilidad",
+      "Legalidad penal, tipicidad, culpabilidad y presunción de inocencia",
+      "Solidaridad, autonomía financiera, subsidiariedad y lealtad institucional"
     ],
     "correcta": 0,
-    "explicacion": "El art. 103.1 CE recoge expresamente esos principios de actuacion administrativa.",
+    "explicación": "El art. 103.1 CE recoge expresamente esos principios de actuación administrativa.",
     "referencia": "I.4 · 2.1 Los principios constitucionales (art. 103.1 CE)"
   },
   {
     "id": "topup-04-01",
-    "pregunta": "La Administracion publica sirve con objetividad los intereses generales y actua de acuerdo con los principios del articulo 103 CE, entre ellos:",
+    "pregunta": "La Administración pública sirve con objetividad los intereses generales y actua de acuerdo con los principios del artículo 103 CE, entre ellos:",
     "opciones": [
-      "jerarquia, descentralizacion y coordinacion",
-      "discrecionalidad absoluta y reserva de actuacion",
+      "jerarquia, descentralización y coordinación",
+      "discrecionalidad absoluta y reserva de actuación",
       "confidencialidad general y autotutela penal",
-      "libre designacion universal de organos"
+      "libre designación universal de órganos"
     ],
     "correcta": 0,
-    "explicacion": "El art. 103 CE menciona eficacia, jerarquia, descentralizacion, desconcentracion y coordinacion, con sometimiento pleno a la ley y al Derecho.",
-    "referencia": "I.4 · Administracion publica en el ordenamiento juridico",
+    "explicación": "El art. 103 CE menciona eficacia, jerarquia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+    "referencia": "I.4 · Administración pública en el ordenamiento jurídico",
     "tema": 4
   }
 ]

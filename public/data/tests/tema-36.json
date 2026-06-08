@@ -2,35 +2,35 @@
   {
     "id": "pdf-2023-burgos-q41",
     "tema": 36,
-    "pregunta": "Segun la Ley de Prevencion de Riesgos Laborales, las enfermedades, patologias o lesiones sufridas con motivo u ocasion del trabajo se consideraran como:",
+    "pregunta": "Según la Ley de Prevención de Riesgos Laborales, las enfermedades, patologias o lesiones sufridas con motivo u ocasión del trabajo se consideraran como:",
     "opciones": [
-      "Proteccion de los trabajadores",
+      "Protección de los trabajadores",
       "Danos derivados del trabajo",
       "Riesgo laboral grave e inminente",
       "Ninguna es correcta"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 41",
-    "explicacion": "La Ley de Prevencion de Riesgos Laborales define esos supuestos como danos derivados del trabajo."
+    "explicación": "La Ley de Prevención de Riesgos Laborales define esos supuestos como danos derivados del trabajo."
   },
   {
     "id": "pdf-2025-burgos-q54",
     "tema": 36,
-    "pregunta": "Cual es el ambito de aplicacion de la Ley 31/1995, de Prevencion de Riesgos Laborales?",
+    "pregunta": "Cuál es el ámbito de aplicación de la Ley 31/1995, de Prevención de Riesgos Laborales?",
     "opciones": [
-      "Es de aplicacion en todos los ambitos sin excepcion",
-      "Aunque pretende ser una ley aplicable a todos los ambitos, ella misma proclama ciertas exclusiones",
-      "Se aplica exclusivamente a las relaciones de caracter administrativo o estatutario del personal al servicio de las Administraciones Publicas",
+      "Es de aplicación en todos los ámbitos sin excepción",
+      "Aunque pretende ser una ley aplicable a todos los ámbitos, ella misma proclama ciertas exclusiones",
+      "Se aplica exclusivamente a las relaciones de carácter administrativo o estatutario del personal al servicio de las Administraciones Públicas",
       "Se aplica exclusivamente a las relaciones laborales reguladas en el Estatuto de los Trabajadores"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 54",
-    "explicacion": "La ley tiene un ambito amplio de aplicacion, pero contempla exclusiones expresas."
+    "explicación": "La ley tiene un ámbito amplio de aplicación, pero contempla exclusiones expresas."
   },
   {
     "id": "pdf-2025-burgos-q55",
     "tema": 36,
-    "pregunta": "Segun el articulo 4 de la Ley 31/1995, se entiende por riesgo grave e inminente:",
+    "pregunta": "Según el artículo 4 de la Ley 31/1995, se entiende por riesgo grave e inminente:",
     "opciones": [
       "La posibilidad de que un trabajador sufra un determinado dano grave derivado del trabajo y que resulte probable que se materialice en un futuro inmediato",
       "La posibilidad de que un trabajador sufra lesiones o enfermedades graves derivadas del trabajo y que resulte probable que se materialice en un futuro inmediato",
@@ -39,7 +39,7 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 55",
-    "explicacion": "La definicion legal pone el acento en la probabilidad racional de materializacion inmediata y en el dano grave para la salud."
+    "explicación": "La definición legal pone el acento en la probabilidad racional de materialización inmediata y en el dano grave para la salud."
   },
   {
     "id": "pdf-2025-burgos-q56",
@@ -48,12 +48,12 @@
     "opciones": [
       "La probabilidad de que se produzca",
       "La cantidad de trabajadores de la empresa",
-      "La existencia o no de equipos individuales de proteccion",
+      "La existencia o no de equipos individuales de protección",
       "Las condiciones de trabajo"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 56",
-    "explicacion": "La gravedad del riesgo se valora atendiendo a la severidad del dano y a la probabilidad de que llegue a producirse."
+    "explicación": "La gravedad del riesgo se valora atendiendo a la severidad del dano y a la probabilidad de que llegue a producirse."
   },
   {
     "id": "t23-p001",
@@ -66,7 +66,7 @@
       "art. 105 CE y la LJCA"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala ese fundamento constitucional y comunitario.",
+    "explicación": "El tema señala ese fundamento constitucional y comunitario.",
     "referencia": "V.5 · 1.1 Fundamento constitucional y comunitario"
   },
   {
@@ -80,7 +80,7 @@
       "aprobar el presupuesto local"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo formula así en su art. 2.",
+    "explicación": "El tema lo formula así en su art. 2.",
     "referencia": "V.5 · 1.2 Objeto (art. 2 LPRL)"
   },
   {
@@ -94,7 +94,7 @@
       "únicamente a los menores de edad"
     ],
     "correcta": 0,
-    "explicacion": "El tema vincula la ley al trabajo prestado para empleadores públicos o privados.",
+    "explicación": "El tema vincula la ley al trabajo prestado para empleadores públicos o privados.",
     "referencia": "V.5 · 2.1 Ámbito subjetivo (art. 3 LPRL)"
   },
   {
@@ -108,7 +108,7 @@
       "la denominación del puesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye esa noción entre las definiciones clave.",
+    "explicación": "El tema incluye esa noción entre las definiciones clave.",
     "referencia": "V.5 · 3. Definiciones clave (art. 4 LPRL)"
   },
   {
@@ -122,7 +122,7 @@
       "el órgano competente para contratar obras"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como el organismo científico técnico especializado.",
+    "explicación": "El tema lo presenta como el organismo científico técnico especializado.",
     "referencia": "V.5 · 4.2 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)"
   },
   {
@@ -136,7 +136,7 @@
       "la aprobación de las plantillas"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo recoge en el art. 14 LPRL.",
+    "explicación": "El tema lo recoge en el art. 14 LPRL.",
     "referencia": "V.5 · 5.1 Derecho a la protección frente a los riesgos laborales (art. 14 LPRL)"
   },
   {
@@ -150,7 +150,7 @@
       "priorizar el riesgo sobre la protección"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo enumera expresamente en el art. 15 LPRL.",
+    "explicación": "El tema lo enumera expresamente en el art. 15 LPRL.",
     "referencia": "V.5 · 6. Principios de la acción preventiva (art. 15 LPRL)"
   },
   {
@@ -164,7 +164,7 @@
       "art. 63 LCSP"
     ],
     "correcta": 0,
-    "explicacion": "El tema las sitúa en el art. 16 LPRL.",
+    "explicación": "El tema las sitúa en el art. 16 LPRL.",
     "referencia": "V.5 · 7.1 Evaluación de riesgos (art. 16 LPRL)"
   },
   {
@@ -178,7 +178,7 @@
       "arts. 48 y 49 TREBEP"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye esas materias a los arts. 18 y 19 LPRL.",
+    "explicación": "El tema atribuye esas materias a los arts. 18 y 19 LPRL.",
     "referencia": "V.5 · 7.3 Información a los trabajadores (art. 18 LPRL) / 7.4 Formación de los trabajadores (art. 19 LPRL)"
   },
   {
@@ -192,7 +192,7 @@
       "art. 162 TRLRHL"
     ],
     "correcta": 0,
-    "explicacion": "El tema la vincula al art. 22 LPRL.",
+    "explicación": "El tema la vincula al art. 22 LPRL.",
     "referencia": "V.5 · 7.5 Vigilancia de la salud (art. 22 LPRL)"
   },
   {
@@ -206,7 +206,7 @@
       "convertirse en órgano de selección"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese derecho en el art. 21 LPRL.",
+    "explicación": "El tema recoge ese derecho en el art. 21 LPRL.",
     "referencia": "V.5 · 7.7 Riesgo grave e inminente (art. 21 LPRL)"
   },
   {
@@ -220,7 +220,7 @@
       "redactar el presupuesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo contempla en el art. 29 LPRL.",
+    "explicación": "El tema lo contempla en el art. 29 LPRL.",
     "referencia": "V.5 · 8.1 Usar adecuadamente máquinas, herramientas y EPIs (art. 29.2.1º LPRL)"
   },
   {
@@ -234,7 +234,7 @@
       "los secretarios generales"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define como representantes de los trabajadores en prevención.",
+    "explicación": "El tema los define como representantes de los trabajadores en prevención.",
     "referencia": "V.5 · 9.1 Delegados de Prevención (arts. 35-36 LPRL)"
   },
   {
@@ -248,7 +248,7 @@
       "una comisión de cuentas"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta así en el art. 38 LPRL.",
+    "explicación": "El tema lo presenta así en el art. 38 LPRL.",
     "referencia": "V.5 · 9.2 Comité de Seguridad y Salud (art. 38 LPRL)"
   },
   {
@@ -262,12 +262,12 @@
       "realizar inspecciones judiciales"
     ],
     "correcta": 0,
-    "explicacion": "El tema los regula en los arts. 31 y 32 LPRL con esa función.",
+    "explicación": "El tema los regula en los arts. 31 y 32 LPRL con esa función.",
     "referencia": "V.5 · 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)"
   },
   {
     "id": "topup-36-01",
-    "pregunta": "La prevencion de riesgos laborales aplicada al puesto administrativo incluye medidas frente a riesgos:",
+    "pregunta": "La prevención de riesgos laborales aplicada al puesto administrativo incluye medidas frente a riesgos:",
     "opciones": [
       "ergonomicos, visuales y psicosociales",
       "solo maritimos",
@@ -275,7 +275,7 @@
       "reservados a la policia judicial"
     ],
     "correcta": 0,
-    "explicacion": "El trabajo administrativo tambien presenta riesgos propios que requieren prevencion.",
+    "explicación": "El trabajo administrativo tambien presenta riesgos propios que requieren prevención.",
     "referencia": "V.5 · Riesgos y medidas preventivas del puesto administrativo",
     "tema": 36
   }

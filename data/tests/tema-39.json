@@ -2,16 +2,16 @@
   {
     "id": "pdf-2023-burgos-q48-doc",
     "tema": 39,
-    "pregunta": "Segun la Ley 40/2015, los documentos electronicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberan conservarse en:",
+    "pregunta": "Según la Ley 40/2015, los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberan conservarse en:",
     "opciones": [
-      "El Archivo General de la Administracion",
-      "Soportes de naturaleza electronica",
-      "Cualquier formato o soporte que asegure la identidad e integridad de la informacion necesaria para reproducirlo",
+      "El Archivo General de la Administración",
+      "Soportes de naturaleza electrónica",
+      "Cualquier formato o soporte que asegure la identidad e integridad de la información necesaria para reproducirlo",
       "Siempre en formato papel"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 48",
-    "explicacion": "Los documentos electronicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electronico."
+    "explicación": "Los documentos electrónicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electrónico."
   },
   {
     "id": "t32-p001",
@@ -24,7 +24,7 @@
       "solo una resolución administrativa"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa definición amplia.",
+    "explicación": "El tema da esa definición amplia.",
     "referencia": "V.8 · 1.1 Concepto general de documento"
   },
   {
@@ -38,7 +38,7 @@
       "una empresa privada sin relación pública"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo vincula a la actuación administrativa.",
+    "explicación": "El tema lo vincula a la actuación administrativa.",
     "referencia": "V.8 · 1.2 El documento administrativo: concepto"
   },
   {
@@ -52,7 +52,7 @@
       "opcionalidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera la autenticidad entre sus notas.",
+    "explicación": "El tema enumera la autenticidad entre sus notas.",
     "referencia": "V.8 · 1.3 Características del documento administrativo"
   },
   {
@@ -66,7 +66,7 @@
       "no puede expedirse electrónicamente"
     ],
     "correcta": 0,
-    "explicacion": "El tema la equipara al original.",
+    "explicación": "El tema la equipara al original.",
     "referencia": "V.8 · 1.5 Copias de documentos"
   },
   {
@@ -80,7 +80,7 @@
       "guía"
     ],
     "correcta": 0,
-    "explicacion": "El tema clasifica la resolución como documento de decisión.",
+    "explicación": "El tema clasifica la resolución como documento de decisión.",
     "referencia": "V.8 · 2.1.1 Documentos de decisión"
   },
   {
@@ -94,7 +94,7 @@
       "notificación"
     ],
     "correcta": 0,
-    "explicacion": "El tema la incluye entre los documentos de constancia.",
+    "explicación": "El tema la incluye entre los documentos de constancia.",
     "referencia": "V.8 · 2.1.2 Documentos de constancia"
   },
   {
@@ -108,7 +108,7 @@
       "solo expedientes sancionadores"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa ahí los expedientes activos o recientes.",
+    "explicación": "El tema sitúa ahí los expedientes activos o recientes.",
     "referencia": "V.8 · 3.2.1 Archivo de oficina o de gestión"
   },
   {
@@ -122,7 +122,7 @@
       "exclusivamente tributarios"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye conservación permanente.",
+    "explicación": "El tema le atribuye conservación permanente.",
     "referencia": "V.8 · 3.2.3 Archivo histórico"
   },
   {
@@ -136,7 +136,7 @@
       "un índice de teléfonos"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así dentro de los instrumentos de descripción.",
+    "explicación": "El tema lo define así dentro de los instrumentos de descripción.",
     "referencia": "V.8 · 3.3 La organización del archivo: instrumentos de descripción"
   },
   {
@@ -150,7 +150,7 @@
       "el código de una consulta"
     ],
     "correcta": 0,
-    "explicacion": "El tema la presenta como localización física.",
+    "explicación": "El tema la presenta como localización física.",
     "referencia": "V.8 · 3.4 Clasificación, ordenación y signatura topográfica"
   },
   {
@@ -164,7 +164,7 @@
       "la consulta de la comisión de fiestas"
     ],
     "correcta": 0,
-    "explicacion": "El tema niega la eliminación unilateral.",
+    "explicación": "El tema niega la eliminación unilateral.",
     "referencia": "V.8 · 3.5 La evaluación y selección documental: eliminación y conservación"
   },
   {
@@ -178,7 +178,7 @@
       "las cuentas bancarias privadas"
     ],
     "correcta": 0,
-    "explicacion": "El tema cita ese fundamento constitucional.",
+    "explicación": "El tema cita ese fundamento constitucional.",
     "referencia": "V.8 · 4.1 Fundamento constitucional y legal"
   },
   {
@@ -192,7 +192,7 @@
       "sustituir el órgano competente"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye ese derecho en el procedimiento.",
+    "explicación": "El tema atribuye ese derecho en el procedimiento.",
     "referencia": "V.8 · 4.1 Fundamento constitucional y legal"
   },
   {
@@ -206,7 +206,7 @@
       "solo la primera es electrónica"
     ],
     "correcta": 0,
-    "explicacion": "El tema diferencia ambas modalidades en el epígrafe de acceso.",
+    "explicación": "El tema diferencia ambas modalidades en el epígrafe de acceso.",
     "referencia": "V.8 · 4.2 Modalidades de acceso"
   },
   {
@@ -220,7 +220,7 @@
       "emitir notificaciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como portal de acceso a la información.",
+    "explicación": "El tema lo presenta como portal de acceso a la información.",
     "referencia": "V.8 · 6.3 El Portal de Transparencia"
   },
   {
@@ -234,7 +234,7 @@
       "la notificación de un acto"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define de ese modo.",
+    "explicación": "El tema lo define de ese modo.",
     "referencia": "V.8 · 1.1 Concepto de expediente administrativo"
   },
   {
@@ -248,7 +248,7 @@
       "discrecionalidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera unidad, ordenación, completitud, foliación y conservación.",
+    "explicación": "El tema enumera unidad, ordenación, completitud, foliación y conservación.",
     "referencia": "V.8 · 1.2 Principios que rigen la formación del expediente"
   },
   {
@@ -262,7 +262,7 @@
       "subvención"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo vincula a la garantía de integridad.",
+    "explicación": "El tema lo vincula a la garantía de integridad.",
     "referencia": "V.8 · 1.4 El índice del expediente"
   },
   {
@@ -276,7 +276,7 @@
       "únicamente empresas privadas"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define por su origen administrativo.",
+    "explicación": "El tema los define por su origen administrativo.",
     "referencia": "V.8 · 2. Los documentos oficiales"
   },
   {
@@ -290,7 +290,7 @@
       "tributaria y recaudatoria"
     ],
     "correcta": 0,
-    "explicacion": "El tema la describe como comunicación interna e informal.",
+    "explicación": "El tema la describe como comunicación interna e informal.",
     "referencia": "V.8 · 3.1 La nota interior o memorándum"
   },
   {
@@ -304,7 +304,7 @@
       "una resolución de Pleno"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como anotación en el expediente.",
+    "explicación": "El tema la define como anotación en el expediente.",
     "referencia": "V.8 · 3.2 La diligencia"
   },
   {
@@ -318,7 +318,7 @@
       "autoliquidar un impuesto"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así.",
+    "explicación": "El tema la define así.",
     "referencia": "V.8 · 4.1 Concepto y función"
   },
   {
@@ -332,7 +332,7 @@
       "la relación de vocales asistentes"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige esos elementos mínimos.",
+    "explicación": "El tema exige esos elementos mínimos.",
     "referencia": "V.8 · 4.2 Contenido mínimo (art. 66 LPACAP)"
   },
   {
@@ -346,7 +346,7 @@
       "plantillas judiciales"
     ],
     "correcta": 0,
-    "explicacion": "El tema habla de modelos normalizados.",
+    "explicación": "El tema habla de modelos normalizados.",
     "referencia": "V.8 · 4.4 Modelos normalizados"
   },
   {
@@ -360,7 +360,7 @@
       "la emisión de certificaciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como comunicación formal interadministrativa o interna.",
+    "explicación": "El tema lo presenta como comunicación formal interadministrativa o interna.",
     "referencia": "V.8 · 5.1 Concepto y función"
   },
   {
@@ -374,7 +374,7 @@
       "fiscalización"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esa clase entre las principales.",
+    "explicación": "El tema enumera esa clase entre las principales.",
     "referencia": "V.8 · 5.2 Clases de oficio"
   },
   {
@@ -388,7 +388,7 @@
       "impone una sanción"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como documento de fe pública.",
+    "explicación": "El tema lo define como documento de fe pública.",
     "referencia": "V.8 · 6.1 Concepto y función"
   },
   {
@@ -402,7 +402,7 @@
       "Tesorero"
     ],
     "correcta": 0,
-    "explicacion": "El tema asigna esa función al Secretario.",
+    "explicación": "El tema asigna esa función al Secretario.",
     "referencia": "V.8 · 6.3 El papel del Secretario en la certificación local"
   },
   {
@@ -416,7 +416,7 @@
       "de un ciudadano a otro"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como comunicación general y simultánea.",
+    "explicación": "El tema la define como comunicación general y simultánea.",
     "referencia": "V.8 · 8.1 Concepto y función"
   },
   {
@@ -430,7 +430,7 @@
       "un informe técnico"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define como resolución unipersonal.",
+    "explicación": "El tema lo define como resolución unipersonal.",
     "referencia": "V.8 · 10.1 Concepto y función"
   },
   {
@@ -444,7 +444,7 @@
       "una autorización judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige ese índice firmado.",
+    "explicación": "El tema exige ese índice firmado.",
     "referencia": "V.8 · 5.3 El expediente electrónico"
   },
   {
@@ -458,7 +458,7 @@
       "el tratamiento de datos de personal"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo presenta como marco técnico de interoperabilidad.",
+    "explicación": "El tema lo presenta como marco técnico de interoperabilidad.",
     "referencia": "V.8 · 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico"
   }
 ]

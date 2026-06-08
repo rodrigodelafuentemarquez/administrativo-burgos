@@ -134,7 +134,7 @@ El art. 3 LPACAP establece quiénes tienen **capacidad de obrar** ante las Admin
 
 - Las personas que tengan **capacidad de obrar con arreglo a las normas civiles**: las personas físicas mayores de edad que no estén incapacitadas judicialmente, y las personas jurídicas que actúen a través de sus representantes legales.
 - Los **menores de edad** para el ejercicio y defensa de aquellos derechos e intereses cuya actuación esté permitida por el ordenamiento jurídico-administrativo sin la asistencia de quien ejerza la patria potestad, tutela o curatela. Ejemplos: el menor emancipado, o el menor que solicita una prestación social que le corresponde por ley.
-- Cuando la ley así lo prevea expresamente, los **grupos de afectados**, las **uniones** y entidades sin personalidad jurídica y los **patrimonios independientes o autónomos**.
+- Cuándo la ley así lo prevea expresamente, los **grupos de afectados**, las **uniones** y entidades sin personalidad jurídica y los **patrimonios independientes o autónomos**.
 
 ### 2.4 La representación
 
@@ -255,7 +255,7 @@ Estas oficinas garantizan que las personas físicas que no estén obligadas a re
 El art. 12 LPACAP establece la obligación de las Administraciones de **garantizar la asistencia** en el uso de los medios electrónicos a todos los ciudadanos que la necesiten. Esta asistencia puede concretarse en:
 
 **a) Asistencia para la identificación electrónica.**
-Cuando el ciudadano carece de los medios de identificación electrónica o tiene dificultades para usarlos, el funcionario puede identificarle con su propio sistema de firma y actuar en su nombre, siempre que el ciudadano consienta expresamente y el funcionario deje constancia de ello.
+Cuándo el ciudadano carece de los medios de identificación electrónica o tiene dificultades para usarlos, el funcionario puede identificarle con su propio sistema de firma y actuar en su nombre, siempre que el ciudadano consienta expresamente y el funcionario deje constancia de ello.
 
 **b) Asistencia para la cumplimentación de formularios.**
 El funcionario puede ayudar al ciudadano a cumplimentar el formulario electrónico, actuando como intermediario entre el ciudadano y el sistema.
@@ -274,7 +274,7 @@ Para ello:
 
 ### 5.5 La digitalización de documentos en papel presentados presencialmente
 
-Cuando el ciudadano presenta documentos en papel en una oficina de asistencia, el funcionario debe **digitalizarlos** y remitirlos al registro electrónico, incorporando los metadatos que acrediten la fidelidad de la copia con el original y la fecha y hora de la digitalización. El ciudadano puede recuperar los originales en papel salvo que la normativa del procedimiento exija su conservación.
+Cuándo el ciudadano presenta documentos en papel en una oficina de asistencia, el funcionario debe **digitalizarlos** y remitirlos al registro electrónico, incorporando los metadatos que acrediten la fidelidad de la copia con el original y la fecha y hora de la digitalización. El ciudadano puede recuperar los originales en papel salvo que la normativa del procedimiento exija su conservación.
 
 Este proceso es la **digitalización auténtica** regulada en el ENI: la copia electrónica obtenida tiene la misma validez que el original en papel para todos los efectos del procedimiento.
 
@@ -293,7 +293,7 @@ El art. 14 LPACAP establece quiénes están **obligados** a relacionarse exclusi
 - Los **profesionales colegiados** para los trámites relacionados con su actividad profesional.
 - Los **empleados de las Administraciones Públicas** en sus actuaciones como tales.
 - Los **representantes** de sujetos obligados a relacionarse electrónicamente.
-- Quienes **reglamentariamente** se establezca.
+- Quiénes **reglamentariamente** se establezca.
 
 Las **personas físicas**, en cambio, pueden elegir libremente si relacionarse con la Administración por medios electrónicos o presencialmente, salvo que estén incluidas en alguna de las categorías anteriores. Esta libertad de elección es un derecho que la Administración no puede restringir unilateralmente.
 
@@ -315,7 +315,7 @@ Este derecho tiene, sin embargo, los siguientes límites:
 
 - El ciudadano debe **señalar en qué momento y ante qué órgano** presentó el documento o fue elaborado, para que la Administración pueda localizarlo.
 - Si el ciudadano **no autoriza** la consulta electrónica de sus datos (por ejemplo, de datos fiscales), la Administración no puede obtenerlos directamente y debe exigir la aportación.
-- Cuando los datos **han variado** desde que fueron aportados o elaborados, el ciudadano debe aportar los nuevos.
+- Cuándo los datos **han variado** desde que fueron aportados o elaborados, el ciudadano debe aportar los nuevos.
 - En los supuestos de **imposibilidad técnica o legal** de la consulta interadministrativa, se puede exigir la aportación.
 
 ---

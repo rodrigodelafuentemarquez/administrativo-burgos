@@ -2,7 +2,7 @@
   {
     "id": "pdf-2023-burgos-q01",
     "tema": 1,
-    "pregunta": "De conformidad con el articulo 167 de la Constitucion Espanola, los proyectos de reforma constitucional deberan ser aprobados:",
+    "pregunta": "De conformidad con el artículo 167 de la Constitución Española, los proyectos de reforma constitucional deberan ser aprobados:",
     "opciones": [
       "Por mayoria de 2/3 del Senado",
       "Por mayoria de 3/5 del Congreso",
@@ -11,12 +11,12 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 1",
-    "explicacion": "La reforma ordinaria de la Constitucion del articulo 167 CE exige mayoria de tres quintos en cada Camara."
+    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoria de tres quintos en cada Camara."
   },
   {
     "id": "pdf-2025-burgos-q01",
     "tema": 1,
-    "pregunta": "En que fecha fue publicada la Constitucion Espanola en el Boletin Oficial del Estado?",
+    "pregunta": "En qué fecha fue publicada la Constitución Española en el Boletin Oficial del Estado?",
     "opciones": [
       "El 6 de diciembre de 1978",
       "El 27 de diciembre de 1978",
@@ -25,12 +25,12 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 1",
-    "explicacion": "La Constitucion fue publicada en el BOE el 29 de diciembre de 1978."
+    "explicación": "La Constitución fue publicada en el BOE el 29 de diciembre de 1978."
   },
   {
     "id": "pdf-2025-burgos-q03",
     "tema": 1,
-    "pregunta": "Ante quien se presenta el recurso de amparo segun la Constitucion Espanola?",
+    "pregunta": "Ante quien se presenta el recurso de amparo segun la Constitución Española?",
     "opciones": [
       "Ante el Tribunal Supremo",
       "Ante el Tribunal Constitucional",
@@ -39,7 +39,7 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 3",
-    "explicacion": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional."
+    "explicación": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional."
   },
   {
     "id": "t01-p001",
@@ -52,7 +52,7 @@
       "El estatuto de autonomía"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la Constitución es la norma suprema del ordenamiento jurídico español.",
+    "explicación": "El tema indica que la Constitución es la norma suprema del ordenamiento jurídico español.",
     "referencia": "I.1 · 1.1 Concepto y naturaleza"
   },
   {
@@ -66,7 +66,7 @@
       "Mérito, capacidad, eficacia y descentralización"
     ],
     "correcta": 0,
-    "explicacion": "El Tema 1 recoge expresamente los cuatro valores superiores del art. 1.1 CE.",
+    "explicación": "El Tema 1 recoge expresamente los cuatro valores superiores del art. 1.1 CE.",
     "referencia": "I.1 · 1.2 Características"
   },
   {
@@ -80,7 +80,7 @@
       "La organización territorial del Estado"
     ],
     "correcta": 1,
-    "explicacion": "El Título I se dedica a los derechos y deberes fundamentales, entre los arts. 10 y 55 CE.",
+    "explicación": "El Título I se dedica a los derechos y deberes fundamentales, entre los arts. 10 y 55 CE.",
     "referencia": "I.1 · 1.3 Estructura"
   },
   {
@@ -94,7 +94,7 @@
       "La libertad sindical"
     ],
     "correcta": 1,
-    "explicacion": "El temario identifica el art. 14 CE con el principio de igualdad y la prohibición de discriminación.",
+    "explicación": "El temario identifica el art. 14 CE con el principio de igualdad y la prohibición de discriminación.",
     "referencia": "I.1 · Artículo 14"
   },
   {
@@ -108,7 +108,7 @@
       "96 horas"
     ],
     "correcta": 2,
-    "explicacion": "El art. 17 CE, tal como recoge el tema, fija un máximo de 72 horas.",
+    "explicación": "El art. 17 CE, tal como recoge el tema, fija un máximo de 72 horas.",
     "referencia": "I.1 · Sección 1ª, art. 17 CE"
   },
   {
@@ -122,7 +122,7 @@
       "Art. 21 CE"
     ],
     "correcta": 2,
-    "explicacion": "El tema sitúa en el art. 20 CE las libertades de expresión e información.",
+    "explicación": "El tema sitúa en el art. 20 CE las libertades de expresión e información.",
     "referencia": "I.1 · Sección 1ª, art. 20 CE"
   },
   {
@@ -136,7 +136,7 @@
       "El Ministerio Fiscal"
     ],
     "correcta": 1,
-    "explicacion": "El tema define al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I.",
+    "explicación": "El tema define al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I.",
     "referencia": "I.1 · 3.2 El Defensor del Pueblo"
   },
   {
@@ -150,7 +150,7 @@
       "La tutela judicial efectiva en su contenido esencial"
     ],
     "correcta": 1,
-    "explicacion": "El tema lista entre los derechos suspendibles en esos estados los previstos en el art. 20.1.a) y d).",
+    "explicación": "El tema lista entre los derechos suspendibles en esos estados los previstos en el art. 20.1.a) y d).",
     "referencia": "I.1 · 4.1 Suspensión general"
   },
   {
@@ -164,7 +164,7 @@
       "Los de los arts. 24 y 25 CE"
     ],
     "correcta": 1,
-    "explicacion": "El temario indica que la suspensión individual por terrorismo puede afectar al art. 17.2 y a los apartados 18.2 y 18.3.",
+    "explicación": "El temario indica que la suspensión individual por terrorismo puede afectar al art. 17.2 y a los apartados 18.2 y 18.3.",
     "referencia": "I.1 · 4.2 Suspensión individual"
   },
   {
@@ -178,7 +178,7 @@
       "La reforma por ley ordinaria sin referéndum"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que para esas materias se aplica el procedimiento agravado del art. 168 CE.",
+    "explicación": "El tema señala que para esas materias se aplica el procedimiento agravado del art. 168 CE.",
     "referencia": "I.1 · 1.3 Estructura / 3.4 Suspensión y reforma"
   },
   {
@@ -186,13 +186,13 @@
     "tema": 1,
     "pregunta": "¿Qué afirma el art. 10.1 CE sobre la dignidad de la persona y los derechos inviolables?",
     "opciones": [
-      "Que son fundamento del orden político y de la paz social",
-      "Que solo vinculan al legislador",
-      "Que dependen de una ley orgánica",
-      "Que se aplican solo a los extranjeros"
+      "Qué son fundamento del orden político y de la paz social",
+      "Qué solo vinculan al legislador",
+      "Qué dependen de una ley orgánica",
+      "Qué se aplican solo a los extranjeros"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge que la dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.",
+    "explicación": "El tema recoge que la dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.",
     "referencia": "I.1 · 2.1 Artículo 10 CE"
   },
   {
@@ -206,7 +206,7 @@
       "25 años"
     ],
     "correcta": 1,
-    "explicacion": "El temario indica que la mayoría de edad se alcanza a los 18 años.",
+    "explicación": "El temario indica que la mayoría de edad se alcanza a los 18 años.",
     "referencia": "I.1 · 2.2 Capítulo I — Españoles y extranjeros"
   },
   {
@@ -220,7 +220,7 @@
       "La libertad de residencia y circulación"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
+    "explicación": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
     "referencia": "I.1 · Sección 1ª, art. 15 CE"
   },
   {
@@ -234,7 +234,7 @@
       "Solo pueden celebrarse por la noche"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que no necesitan autorización previa, aunque sí comunicación previa a la autoridad.",
+    "explicación": "El tema indica que no necesitan autorización previa, aunque sí comunicación previa a la autoridad.",
     "referencia": "I.1 · Sección 1ª, art. 21 CE"
   },
   {
@@ -248,7 +248,7 @@
       "Solo obligan a las Comunidades Autónomas"
     ],
     "correcta": 1,
-    "explicacion": "El temario explica que no son derechos subjetivos directamente exigibles, sino mandatos al legislador.",
+    "explicación": "El temario explica que no son derechos subjetivos directamente exigibles, sino mandatos al legislador.",
     "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica"
   },
   {
@@ -262,7 +262,7 @@
       "La producción y creación literaria, artística, científica y técnica"
     ],
     "correcta": 1,
-    "explicacion": "El tema incluye entre los derechos suspendibles del art. 55.1 CE la libertad de información del art. 20.1.d).",
+    "explicación": "El tema incluye entre los derechos suspendibles del art. 55.1 CE la libertad de información del art. 20.1.d).",
     "referencia": "I.1 · 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio"
   },
   {
@@ -276,7 +276,7 @@
       "Pueden suspenderse en el estado de excepción en los mismos términos que los derechos fundamentales"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
+    "explicación": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
     "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica"
   }
 ]

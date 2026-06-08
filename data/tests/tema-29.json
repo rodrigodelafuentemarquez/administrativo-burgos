@@ -10,7 +10,7 @@
       "L, M, N y Ñ"
     ],
     "correcta": 0,
-    "explicacion": "El tema identifica esas fases contables.",
+    "explicación": "El tema identifica esas fases contables.",
     "referencia": "IV.3 · 10.2 Fases del procedimiento de gasto y documentos contables"
   },
   {
@@ -24,7 +24,7 @@
       "Indefinido"
     ],
     "correcta": 1,
-    "explicacion": "El art. 134 CE establece el carácter anual de los presupuestos.",
+    "explicación": "El art. 134 CE establece el carácter anual de los presupuestos.",
     "referencia": "IV.3 · art. 134 CE"
   },
   {
@@ -38,7 +38,7 @@
       "Ordenación del pago"
     ],
     "correcta": 1,
-    "explicacion": "La disposición compromete jurídicamente a la Administración con un tercero.",
+    "explicación": "La disposición compromete jurídicamente a la Administración con un tercero.",
     "referencia": "IV.3 · 5.2 Las fases de la ejecución del presupuesto de gastos"
   },
   {
@@ -52,7 +52,7 @@
       "Reconocimiento de obligación y pago material"
     ],
     "correcta": 0,
-    "explicacion": "AD acumula las fases A y D cuando se tramitan conjuntamente.",
+    "explicación": "AD acumula las fases A y D cuando se tramitan conjuntamente.",
     "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
   },
   {
@@ -66,7 +66,7 @@
       "P"
     ],
     "correcta": 2,
-    "explicacion": "El documento O corresponde al reconocimiento de la obligación.",
+    "explicación": "El documento O corresponde al reconocimiento de la obligación.",
     "referencia": "IV.3 · 5.2 Fase 3 — Reconocimiento de la obligación"
   },
   {
@@ -80,7 +80,7 @@
       "Transferencia de crédito"
     ],
     "correcta": 1,
-    "explicacion": "El tema reserva los anticipos de caja fija para gastos menores y periódicos.",
+    "explicación": "El tema reserva los anticipos de caja fija para gastos menores y periódicos.",
     "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
   },
   {
@@ -94,7 +94,7 @@
       "solo puede dictarla la Tesorería"
     ],
     "correcta": 0,
-    "explicacion": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros.",
+    "explicación": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros.",
     "referencia": "IV.3 · 5.2 Fase 1 — Autorización del gasto (documento A)"
   },
   {
@@ -108,7 +108,7 @@
       "disposición, obligación y fiscalización posterior"
     ],
     "correcta": 0,
-    "explicacion": "El documento ADO acumula las tres primeras fases del gasto.",
+    "explicación": "El documento ADO acumula las tres primeras fases del gasto.",
     "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
   },
   {
@@ -122,48 +122,48 @@
       "financiar transferencias de capital a largo plazo"
     ],
     "correcta": 0,
-    "explicacion": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos.",
+    "explicación": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos.",
     "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
   },
   {
     "id": "t44-p021",
     "tema": 29,
-    "pregunta": "El art. 134 CE establece que, si los Presupuestos Generales del Estado no se aprobaran antes del primer dia del ejercicio economico correspondiente:",
+    "pregunta": "El art. 134 CE establece que, si los Presupuestos Generales del Estado no se aprobaran antes del primer día del ejercicio económico correspondiente:",
     "opciones": [
       "Quedaran automaticamente anulados los del ejercicio anterior",
-      "Se consideraran automaticamente prorrogados los del ejercicio anterior hasta la aprobacion de los nuevos",
+      "Se consideraran automaticamente prorrogados los del ejercicio anterior hasta la aprobación de los nuevos",
       "El Gobierno debera aprobarlos por decreto-ley",
       "Las Cortes Generales perderan la competencia presupuestaria durante ese ejercicio"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge la prorroga automatica de los presupuestos anteriores.",
+    "explicación": "El tema recoge la prorroga automatica de los presupuestos anteriores.",
     "referencia": "IV.3 · art. 134 CE"
   },
   {
     "id": "t44-p023",
     "tema": 29,
-    "pregunta": "Segun la Ley General Presupuestaria y el Tema 44, el Proyecto de Ley de Presupuestos Generales del Estado sera remitido a las Cortes Generales:",
+    "pregunta": "Según la Ley General Presupuestaria y el Tema 44, el Proyecto de Ley de Presupuestos Generales del Estado sera remitido a las Cortes Generales:",
     "opciones": [
       "Antes del 1 de octubre del año anterior al que se refiera",
       "Antes del 31 de diciembre del mismo ejercicio",
-      "Al menos seis meses antes de la expiracion de los del año anterior",
+      "Al menos seis meses antes de la expiración de los del año anterior",
       "Dentro del primer trimestre del ejercicio presupuestario"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
-    "referencia": "IV.3 · 3.1 Elaboracion y aprobacion"
+    "explicación": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
+    "referencia": "IV.3 · 3.1 Elaboración y aprobación"
   },
   {
     "id": "topup-29-05",
     "pregunta": "Un documento contable ADO acumula:",
     "opciones": [
-      "autorizacion, disposicion y reconocimiento de la obligacion",
-      "aprobacion del presupuesto y ordenacion del pago",
-      "auditoria, devolucion y ordenanza",
-      "afectacion, deslinde y ocupacion"
+      "autorización, disposición y reconocimiento de la obligación",
+      "aprobación del presupuesto y ordenación del pago",
+      "auditoria, devolución y ordenanza",
+      "afectación, deslinde y ocupación"
     ],
     "correcta": 0,
-    "explicacion": "El documento ADO permite acumular varias fases del gasto en ciertos supuestos.",
+    "explicación": "El documento ADO permite acumular varias fases del gasto en ciertos supuestos.",
     "referencia": "IV.3 · Documentos contables",
     "tema": 29
   },
@@ -174,38 +174,38 @@
       "los limites legales aplicables a los gastos plurianuales",
       "solo la voluntad del concejal delegado",
       "la ausencia de expediente",
-      "la decision del proveedor"
+      "la decisión del proveedor"
     ],
     "correcta": 0,
-    "explicacion": "No pueden asumirse libremente al margen de los limites normativos.",
+    "explicación": "No pueden asumirse libremente al margen de los limites normativos.",
     "referencia": "IV.3 · Compromisos para ejercicios posteriores",
     "tema": 29
   },
   {
     "id": "topup-29-08",
-    "pregunta": "El organo competente para ordenar el pago se determina por:",
+    "pregunta": "El órgano competente para ordenar el pago se determina por:",
     "opciones": [
-      "la normativa presupuestaria y la organizacion de la entidad local",
+      "la normativa presupuestaria y la organización de la entidad local",
       "la ley electoral",
-      "el Estatuto de Autonomia",
+      "el Estatuto de Autonomía",
       "la voluntad del proveedor"
     ],
     "correcta": 0,
-    "explicacion": "La ordenacion del pago responde a reglas competenciales especificas.",
+    "explicación": "La ordenación del pago responde a reglas competenciales específicas.",
     "referencia": "IV.3 · Organos competentes",
     "tema": 29
   },
   {
     "id": "topup-29-09",
-    "pregunta": "Antes del reconocimiento de la obligacion debe constar normalmente:",
+    "pregunta": "Antes del reconocimiento de la obligación debe constar normalmente:",
     "opciones": [
-      "la acreditacion de que la prestacion se ha realizado",
+      "la acreditación de que la prestación se ha realizado",
       "solo la firma del interesado",
-      "la publicacion en el BOE",
+      "la publicación en el BOE",
       "un bando del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "No puede reconocerse la obligacion sin soporte justificativo adecuado.",
+    "explicación": "No puede reconocerse la obligación sin soporte justificativo adecuado.",
     "referencia": "IV.3 · Fases del procedimiento de gasto",
     "tema": 29
   },
@@ -213,56 +213,56 @@
     "id": "refine-29-01",
     "pregunta": "La fase A del gasto expresa el acto por el que se:",
     "opciones": [
-      "autoriza la realizacion de un gasto determinado",
-      "reconoce la obligacion ya nacida",
+      "autoriza la realización de un gasto determinado",
+      "reconoce la obligación ya nacida",
       "ordena materialmente el pago al acreedor",
       "fiscaliza externamente la cuenta general"
     ],
     "correcta": 0,
     "referencia": "IV.3 · Fases del gasto",
-    "explicacion": "La autorizacion es la primera decision por la que se aprueba la realizacion del gasto.",
+    "explicación": "La autorización es la primera decisión por la que se aprueba la realización del gasto.",
     "tema": 29
   },
   {
     "id": "refine-29-02",
     "pregunta": "La fase D del procedimiento de gasto implica:",
     "opciones": [
-      "el compromiso o disposicion del gasto frente a un tercero determinado",
-      "la simple existencia de credito en presupuesto",
-      "la ordenacion formal del pago",
-      "la formacion de la cuenta general"
+      "el compromiso o disposición del gasto frente a un tercero determinado",
+      "la simple existencia de crédito en presupuesto",
+      "la ordenación formal del pago",
+      "la formación de la cuenta general"
     ],
     "correcta": 0,
     "referencia": "IV.3 · Fases del gasto",
-    "explicacion": "La disposicion compromete el gasto y vincula a la Administracion frente al tercero.",
+    "explicación": "La disposición compromete el gasto y vincula a la Administración frente al tercero.",
     "tema": 29
   },
   {
     "id": "refine-29-03",
-    "pregunta": "El reconocimiento de la obligacion supone:",
+    "pregunta": "El reconocimiento de la obligación supone:",
     "opciones": [
-      "declarar que existe un credito exigible contra la entidad una vez acreditada la prestacion",
-      "autorizar una modificacion presupuestaria",
+      "declarar que existe un crédito exigible contra la entidad una vez acreditada la prestación",
+      "autorizar una modificación presupuestaria",
       "aprobar inicialmente la ordenanza fiscal",
       "resolver un reparo del control externo"
     ],
     "correcta": 0,
     "referencia": "IV.3 · Fases del gasto",
-    "explicacion": "La fase O acredita y reconoce la deuda a favor del acreedor.",
+    "explicación": "La fase O acredita y reconoce la deuda a favor del acreedor.",
     "tema": 29
   },
   {
     "id": "refine-29-04",
-    "pregunta": "La ordenacion del pago consiste en:",
+    "pregunta": "La ordenación del pago consiste en:",
     "opciones": [
       "expedir la orden para satisfacer obligaciones ya reconocidas",
-      "crear credito extraordinario",
+      "crear crédito extraordinario",
       "aprobar el presupuesto general",
       "liquidar tributos municipales"
     ],
     "correcta": 0,
-    "referencia": "IV.3 · Ordenacion del pago",
-    "explicacion": "La ordenacion del pago es posterior al reconocimiento de la obligacion y antecede al pago material.",
+    "referencia": "IV.3 · Ordenación del pago",
+    "explicación": "La ordenación del pago es posterior al reconocimiento de la obligación y antecede al pago material.",
     "tema": 29
   },
   {
@@ -270,13 +270,13 @@
     "pregunta": "Los anticipos de caja fija se emplean principalmente para:",
     "opciones": [
       "gastos periodicos o repetitivos de pequena cuantia que requieren agilidad",
-      "cualquier subvencion de capital plurianual",
-      "modificar el presupuesto por falta de credito",
+      "cualquier subvención de capital plurianual",
+      "modificar el presupuesto por falta de crédito",
       "ordenar pagos sin justificante alguno"
     ],
     "correcta": 0,
     "referencia": "IV.3 · Procedimientos especiales de pago",
-    "explicacion": "Son un mecanismo de agilizacion para gastos menores de caracter repetitivo.",
+    "explicación": "Son un mecanismo de agilización para gastos menores de carácter repetitivo.",
     "tema": 29
   }
 ]

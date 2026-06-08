@@ -2,16 +2,16 @@
   {
     "id": "pdf-2025-burgos-q42",
     "tema": 28,
-    "pregunta": "Aprobado inicialmente el presupuesto general de la entidad local, de conformidad con el articulo 169 del texto refundido de la Ley Reguladora de las Haciendas Locales:",
+    "pregunta": "Aprobado inicialmente el presupuesto general de la entidad local, de conformidad con el artículo 169 del texto refundido de la Ley Reguladora de las Haciendas Locales:",
     "opciones": [
-      "Se expondra al publico, previo anuncio en el boletin oficial correspondiente, por quince dias",
-      "Se expondra al publico en el tablon de anuncios y en las Secretarias Generales por plazo de un mes",
-      "La aprobacion inicial del presupuesto no necesita publicacion",
-      "Los interesados podran presentar reclamaciones que el Pleno debera resolver en veinte dias desde su presentacion"
+      "Se expondra al público, previo anuncio en el boletín oficial correspondiente, por quince días",
+      "Se expondra al público en el tablon de anuncios y en las Secretarias Generales por plazo de un mes",
+      "La aprobación inicial del presupuesto no necesita publicación",
+      "Los interesados podrán presentar reclamaciones que el Pleno debera resolver en veinte días desde su presentación"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 42",
-    "explicacion": "La aprobacion inicial del presupuesto local se somete a exposicion publica por quince dias."
+    "explicación": "La aprobación inicial del presupuesto local se somete a exposición pública por quince días."
   },
   {
     "id": "t30-p012",
@@ -24,7 +24,7 @@
       "una norma reglamentaria de personal"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce la definición del art. 162 TRLRHL.",
+    "explicación": "El tema reproduce la definición del art. 162 TRLRHL.",
     "referencia": "IV.2 · 7.1 Concepto"
   },
   {
@@ -38,7 +38,7 @@
       "solo los planes provinciales"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese contenido en el art. 164 TRLRHL.",
+    "explicación": "El tema recoge ese contenido en el art. 164 TRLRHL.",
     "referencia": "IV.2 · 7.3 Contenido del Presupuesto General"
   },
   {
@@ -52,7 +52,7 @@
       "se suspende la contabilidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema prevé la prórroga automática.",
+    "explicación": "El tema prevé la prórroga automática.",
     "referencia": "IV.2 · 9.2 Prórroga del presupuesto"
   },
   {
@@ -66,7 +66,7 @@
       "ingresos patrimoniales"
     ],
     "correcta": 0,
-    "explicacion": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos.",
+    "explicación": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos.",
     "referencia": "IV.2 · 8.1 Estado de ingresos (previsiones)"
   },
   {
@@ -80,7 +80,7 @@
       "20 días hábiles"
     ],
     "correcta": 0,
-    "explicacion": "El presupuesto debe exponerse al público durante 15 días hábiles para posibles reclamaciones.",
+    "explicación": "El presupuesto debe exponerse al público durante 15 días hábiles para posibles reclamaciones.",
     "referencia": "IV.2 · 9.1 Fases de elaboración"
   },
   {
@@ -94,7 +94,7 @@
       "Una reserva de tesorería para imprevistos"
     ],
     "correcta": 0,
-    "explicacion": "El tema define el presupuesto como autorización para gastar e ingresar en el ejercicio.",
+    "explicación": "El tema define el presupuesto como autorización para gastar e ingresar en el ejercicio.",
     "referencia": "IV.2 · 1.1 Qué es el presupuesto público"
   },
   {
@@ -108,7 +108,7 @@
       "Inmediación"
     ],
     "correcta": 3,
-    "explicacion": "Inmediación no aparece; sí se recogen unidad, no afectación y especialidad.",
+    "explicación": "Inmediación no aparece; sí se recogen unidad, no afectación y especialidad.",
     "referencia": "IV.2 · 2 Principios presupuestarios"
   },
   {
@@ -122,7 +122,7 @@
       "El presupuesto se apruebe cada dos años"
     ],
     "correcta": 0,
-    "explicacion": "La universalidad impide compensaciones y exige incluir todo ingreso y gasto.",
+    "explicación": "La universalidad impide compensaciones y exige incluir todo ingreso y gasto.",
     "referencia": "IV.2 · 2.3 Principio de universalidad"
   },
   {
@@ -136,7 +136,7 @@
       "Solo orgánica"
     ],
     "correcta": 1,
-    "explicacion": "El texto distingue tres vertientes de la especialidad.",
+    "explicación": "El texto distingue tres vertientes de la especialidad.",
     "referencia": "IV.2 · 2.6 Principio de especialidad"
   },
   {
@@ -150,7 +150,7 @@
       "Pasivos financieros"
     ],
     "correcta": 0,
-    "explicacion": "El capítulo 1 se reserva a gastos de personal.",
+    "explicación": "El capítulo 1 se reserva a gastos de personal.",
     "referencia": "IV.2 · 3.3 Clasificación económica"
   },
   {
@@ -164,7 +164,7 @@
       "Capítulos 1 a 9: todos son gastos corrientes"
     ],
     "correcta": 0,
-    "explicacion": "El tema clasifica así los capítulos presupuestarios.",
+    "explicación": "El tema clasifica así los capítulos presupuestarios.",
     "referencia": "IV.2 · 3.3 Clasificación económica"
   },
   {
@@ -178,7 +178,7 @@
       "No requiere aprobación alguna"
     ],
     "correcta": 1,
-    "explicacion": "El crédito extraordinario crea una partida nueva y aumenta el gasto total.",
+    "explicación": "El crédito extraordinario crea una partida nueva y aumenta el gasto total.",
     "referencia": "IV.2 · 6.2 Créditos extraordinarios y suplementos de crédito"
   },
   {
@@ -192,21 +192,21 @@
       "Solo sirven para crear nuevas partidas"
     ],
     "correcta": 1,
-    "explicacion": "El tema las define como redistribución sin alterar el gasto total.",
+    "explicación": "El tema las define como redistribución sin alterar el gasto total.",
     "referencia": "IV.2 · 6.4 Transferencias de crédito"
   },
   {
     "id": "t44-p022",
     "tema": 28,
-    "pregunta": "Conforme al Tema 44, los anticipos de tesoreria permiten al Gobierno, con la autorizacion correspondiente:",
+    "pregunta": "Conforme al Tema 44, los anticipos de tesorería permiten al Gobierno, con la autorización correspondiente:",
     "opciones": [
       "Atender gastos urgentes antes de que se apruebe el nuevo presupuesto o cuando el vigente resulte insuficiente",
-      "Financiar con caracter ordinario cualquier ampliacion de plantillas",
-      "Sustituir definitivamente al credito extraordinario y al suplemento de credito",
-      "Evitar toda intervencion del organo legislativo en materia presupuestaria"
+      "Financiar con carácter ordinario cualquier ampliación de plantillas",
+      "Sustituir definitivamente al crédito extraordinario y al suplemento de crédito",
+      "Evitar toda intervención del órgano legislativo en materia presupuestaria"
     ],
     "correcta": 0,
-    "explicacion": "El tema presenta los anticipos de tesoreria como un instrumento excepcional para gastos urgentes.",
+    "explicación": "El tema presenta los anticipos de tesorería como un instrumento excepcional para gastos urgentes.",
     "referencia": "IV.2 · 6.7 Anticipos de tesorería"
   },
   {
@@ -214,69 +214,69 @@
     "pregunta": "El presupuesto general de la entidad local integra, entre otros documentos, el presupuesto de la propia entidad y el de:",
     "opciones": [
       "sus organismos autonomos",
-      "solo sus grupos politicos municipales",
+      "solo sus grupos políticos municipales",
       "las comunidades de propietarios del municipio",
       "los partidos concurrentes a elecciones locales"
     ],
     "correcta": 0,
     "referencia": "IV.2 · Presupuesto general",
-    "explicacion": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los terminos legales.",
+    "explicación": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los terminos legales.",
     "tema": 28
   },
   {
     "id": "refine-28-02",
-    "pregunta": "El credito extraordinario procede cuando:",
+    "pregunta": "El crédito extraordinario procede cuando:",
     "opciones": [
-      "debe realizarse un gasto especifico que no puede demorarse y no existe credito para el",
-      "hay credito insuficiente en una aplicacion ya existente",
+      "debe realizarse un gasto específico que no puede demorarse y no existe crédito para el",
+      "hay crédito insuficiente en una aplicación ya existente",
       "se redistribuyen saldos sin alterar el presupuesto total",
       "se prorroga automaticamente el presupuesto"
     ],
     "correcta": 0,
     "referencia": "IV.2 · Modificaciones presupuestarias",
-    "explicacion": "El credito extraordinario crea credito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente.",
+    "explicación": "El crédito extraordinario crea crédito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente.",
     "tema": 28
   },
   {
     "id": "refine-28-03",
-    "pregunta": "El suplemento de credito se utiliza cuando:",
+    "pregunta": "El suplemento de crédito se utiliza cuando:",
     "opciones": [
-      "el credito existente resulta insuficiente y no puede demorarse el gasto",
-      "no existe ninguna aplicacion presupuestaria previa",
+      "el crédito existente resulta insuficiente y no puede demorarse el gasto",
+      "no existe ninguna aplicación presupuestaria previa",
       "se pretende desafectar un bien patrimonial",
       "se tramita una ordenanza fiscal"
     ],
     "correcta": 0,
     "referencia": "IV.2 · Modificaciones presupuestarias",
-    "explicacion": "El suplemento no crea una partida completamente nueva, sino que amplía una insuficiente.",
+    "explicación": "El suplemento no crea una partida completamente nueva, sino que amplía una insuficiente.",
     "tema": 28
   },
   {
     "id": "refine-28-04",
-    "pregunta": "Las transferencias de credito se caracterizan porque:",
+    "pregunta": "Las transferencias de crédito se caracterizan porque:",
     "opciones": [
-      "redistribuyen credito entre aplicaciones sin aumentar el importe global del presupuesto",
+      "redistribuyen crédito entre aplicaciones sin aumentar el importe global del presupuesto",
       "incrementan necesariamente el total de gasto aprobado",
       "solo pueden aplicarse a ingresos patrimoniales",
-      "sustituyen siempre a los anticipos de tesoreria"
+      "sustituyen siempre a los anticipos de tesorería"
     ],
     "correcta": 0,
-    "referencia": "IV.2 · Transferencias de credito",
-    "explicacion": "La transferencia mueve credito entre partidas, pero no incrementa el volumen total del presupuesto.",
+    "referencia": "IV.2 · Transferencias de crédito",
+    "explicación": "La transferencia mueve crédito entre partidas, pero no incrementa el volumen total del presupuesto.",
     "tema": 28
   },
   {
     "id": "refine-28-05",
-    "pregunta": "La incorporacion de creditos permite, en los supuestos legalmente previstos:",
+    "pregunta": "La incorporación de créditos permite, en los supuestos legalmente previstos:",
     "opciones": [
       "trasladar al nuevo presupuesto determinados remanentes del ejercicio anterior",
       "anular definitivamente cualquier saldo pendiente",
       "convertir todos los ingresos en operaciones financieras",
-      "evitar la aprobacion del presupuesto anual"
+      "evitar la aprobación del presupuesto anual"
     ],
     "correcta": 0,
-    "referencia": "IV.2 · Incorporaciones de credito",
-    "explicacion": "La incorporacion permite arrastrar determinados creditos del ejercicio anterior cuando concurren los requisitos legales.",
+    "referencia": "IV.2 · Incorporaciones de crédito",
+    "explicación": "La incorporación permite arrastrar determinados créditos del ejercicio anterior cuando concurren los requisitos legales.",
     "tema": 28
   }
 ]

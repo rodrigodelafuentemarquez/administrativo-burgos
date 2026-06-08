@@ -646,7 +646,7 @@ La **validación de datos** (Datos → Validación de datos) permite restringir 
 - Solo valores de una lista desplegable predefinida.
 - Solo texto de longitud máxima determinada.
 
-Cuando el usuario intenta introducir un dato inválido, Excel muestra un mensaje de error configurable.
+Cuándo el usuario intenta introducir un dato inválido, Excel muestra un mensaje de error configurable.
 
 ### 11.7 Atajos de teclado esenciales en Excel
 

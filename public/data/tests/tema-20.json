@@ -10,7 +10,7 @@
       "RGPD"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala expresamente el ROF como régimen supletorio.",
+    "explicación": "El tema señala expresamente el ROF como régimen supletorio.",
     "referencia": "II.11 · 1.3 Régimen supletorio"
   },
   {
@@ -24,7 +24,7 @@
       "Tesorero"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye la convocatoria al Presidente.",
+    "explicación": "El tema atribuye la convocatoria al Presidente.",
     "referencia": "II.11 · 2.1 Competencia para convocar"
   },
   {
@@ -38,7 +38,7 @@
       "un solo miembro"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge ese umbral para solicitar la convocatoria plenaria.",
+    "explicación": "El tema recoge ese umbral para solicitar la convocatoria plenaria.",
     "referencia": "II.11 · 2.1 Competencia para convocar"
   },
   {
@@ -52,7 +52,7 @@
       "10 días hábiles"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija dos días hábiles de antelación.",
+    "explicación": "El tema fija dos días hábiles de antelación.",
     "referencia": "II.11 · 2.2 Antelación mínima de la convocatoria"
   },
   {
@@ -66,7 +66,7 @@
       "solo puede hacerse por el Secretario"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la urgencia elimina el plazo mínimo.",
+    "explicación": "El tema indica que la urgencia elimina el plazo mínimo.",
     "referencia": "II.11 · 2.2 Antelación mínima de la convocatoria"
   },
   {
@@ -80,7 +80,7 @@
       "solo se usa en la Junta de Gobierno"
     ],
     "correcta": 0,
-    "explicacion": "El tema subraya que marca los asuntos a tratar.",
+    "explicación": "El tema subraya que marca los asuntos a tratar.",
     "referencia": "II.11 · 2.5 El orden del día"
   },
   {
@@ -94,7 +94,7 @@
       "la presencia de todos los concejales"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija un tercio y un mínimo de tres.",
+    "explicación": "El tema fija un tercio y un mínimo de tres.",
     "referencia": "II.11 · 3.2 Quórum de constitución (quórum inicial)"
   },
   {
@@ -108,7 +108,7 @@
       "el tesorero y dos vocales"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige la presencia de Presidente y Secretario.",
+    "explicación": "El tema exige la presencia de Presidente y Secretario.",
     "referencia": "II.11 · 3.4 Asistencia del Presidente y del Secretario"
   },
   {
@@ -122,7 +122,7 @@
       "sustituye al voto de calidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo prohíbe expresamente.",
+    "explicación": "El tema lo prohíbe expresamente.",
     "referencia": "II.11 · 4.6 Voto delegado"
   },
   {
@@ -136,7 +136,7 @@
       "voto ponderado automático"
     ],
     "correcta": 0,
-    "explicacion": "El tema contempla el voto de calidad del Presidente.",
+    "explicación": "El tema contempla el voto de calidad del Presidente.",
     "referencia": "II.11 · 4.5 Empate en la votación / 4.7 Voto de calidad y voto ponderado"
   },
   {
@@ -150,7 +150,7 @@
       "siempre de la unanimidad"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue mayoría simple, absoluta y cualificadas.",
+    "explicación": "El tema distingue mayoría simple, absoluta y cualificadas.",
     "referencia": "II.11 · 4.4 Mayorías exigidas para la adopción de acuerdos"
   },
   {
@@ -164,7 +164,7 @@
       "solo la fecha de publicación"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos extremos como contenido del acta.",
+    "explicación": "El tema enumera esos extremos como contenido del acta.",
     "referencia": "II.11 · 5.2 Contenido del acta (art. 109 ROF)"
   },
   {
@@ -178,7 +178,7 @@
       "el interventor de fondos"
     ],
     "correcta": 0,
-    "explicacion": "El tema atribuye esa función al Secretario.",
+    "explicación": "El tema atribuye esa función al Secretario.",
     "referencia": "II.11 · 6.2 Quién puede expedir certificados"
   },
   {
@@ -192,7 +192,7 @@
       "eficacia reglamentaria"
     ],
     "correcta": 0,
-    "explicacion": "El tema les atribuye un valor jurídico relevante.",
+    "explicación": "El tema les atribuye un valor jurídico relevante.",
     "referencia": "II.11 · 6.4 Efectos del certificado"
   },
   {
@@ -206,77 +206,77 @@
       "recaudación ejecutiva"
     ],
     "correcta": 0,
-    "explicacion": "El tema les atribuye funciones de estudio, informe y consulta.",
+    "explicación": "El tema les atribuye funciones de estudio, informe y consulta.",
     "referencia": "II.11 · 7. Régimen de sesiones de las Comisiones Informativas"
   },
   {
     "id": "topup-20-02",
-    "pregunta": "Como regla general, no deben tratarse asuntos no incluidos en el orden del dia salvo:",
+    "pregunta": "Cómo regla general, no deben tratarse asuntos no incluidos en el orden del día salvo:",
     "opciones": [
       "supuestos de urgencia conforme a la normativa aplicable",
-      "peticion verbal de cualquier asistente",
-      "siempre que lo pida la oposicion",
+      "petición verbal de cualquier asistente",
+      "siempre que lo pida la oposición",
       "si son asuntos tributarios"
     ],
     "correcta": 0,
-    "explicacion": "La inclusion en el orden del dia es una garantia, con excepciones tasadas por urgencia.",
-    "referencia": "II.11 · Orden del dia",
+    "explicación": "La inclusión en el orden del día es una garantía, con excepciones tasadas por urgencia.",
+    "referencia": "II.11 · Orden del día",
     "tema": 20
   },
   {
     "id": "topup-20-05",
-    "pregunta": "El acta del organo colegiado tiene como finalidad principal:",
+    "pregunta": "El acta del órgano colegiado tiene como finalidad principal:",
     "opciones": [
       "dejar constancia de asistentes, asuntos y acuerdos",
       "sustituir a la convocatoria",
       "aprobar ordenanzas fiscales",
-      "tramitar licencias urbanisticas"
+      "tramitar licencias urbanísticas"
     ],
     "correcta": 0,
-    "explicacion": "El acta documenta formalmente el desarrollo y acuerdos de la sesion.",
-    "referencia": "II.11 · Funcionamiento de organos colegiados",
+    "explicación": "El acta documenta formalmente el desarrollo y acuerdos de la sesión.",
+    "referencia": "II.11 · Funcionamiento de órganos colegiados",
     "tema": 20
   },
   {
     "id": "refine-20-01",
-    "pregunta": "El orden del dia de un organo colegiado local cumple, entre otras, una funcion de:",
+    "pregunta": "El orden del día de un órgano colegiado local cumple, entre otras, una función de:",
     "opciones": [
-      "delimitar los asuntos sobre los que podran recaer validamente deliberacion y acuerdo",
-      "sustituir al acta de la sesion",
-      "convertir en publicos todos los expedientes reservados",
-      "permitir votar cualquier asunto sin relacion previa"
+      "delimitar los asuntos sobre los que podrán recaer validamente deliberación y acuerdo",
+      "sustituir al acta de la sesión",
+      "convertir en públicos todos los expedientes reservados",
+      "permitir votar cualquier asunto sin relación previa"
     ],
     "correcta": 0,
-    "referencia": "II.11 · Convocatorias y orden del dia",
-    "explicacion": "El orden del dia concreta y limita los asuntos a tratar, con las excepciones legalmente previstas.",
+    "referencia": "II.11 · Convocatorias y orden del día",
+    "explicación": "El orden del día concreta y limita los asuntos a tratar, con las excepciones legalmente previstas.",
     "tema": 20
   },
   {
     "id": "refine-20-02",
-    "pregunta": "La valida constitucion de un organo colegiado local exige comprobar el quorum relativo a:",
+    "pregunta": "La valida constitución de un órgano colegiado local exige comprobar el quorum relativo a:",
     "opciones": [
-      "asistencia minima legalmente exigida para celebrar sesion y adoptar acuerdos",
-      "porcentaje de ejecucion presupuestaria del area",
+      "asistencia mínima legalmente exigida para celebrar sesión y adoptar acuerdos",
+      "porcentaje de ejecución presupuestaria del area",
       "numero de expedientes pendientes de secretaria",
-      "porcentaje de participacion ciudadana del barrio"
+      "porcentaje de participación ciudadana del barrio"
     ],
     "correcta": 0,
-    "referencia": "II.11 · Requisitos para la constitucion",
-    "explicacion": "El quorum se refiere al minimo de asistentes legalmente necesario para sesionar validamente.",
+    "referencia": "II.11 · Requisitos para la constitución",
+    "explicación": "El quorum se refiere al mínimo de asistentes legalmente necesario para sesionar validamente.",
     "tema": 20
   },
   {
     "id": "refine-20-03",
     "pregunta": "El voto de calidad del presidente opera, como regla general, en caso de:",
     "opciones": [
-      "empate en la votacion",
+      "empate en la votación",
       "ausencia del secretario",
       "falta de convocatoria escrita",
-      "aprobacion por unanimidad"
+      "aprobación por unanimidad"
     ],
     "correcta": 0,
     "referencia": "II.11 · Votaciones",
-    "explicacion": "El voto de calidad resuelve el empate cuando el regimen juridico aplicable asi lo previene.",
+    "explicación": "El voto de calidad resuelve el empate cuando el régimen jurídico aplicable asi lo previene.",
     "tema": 20
   }
 ]

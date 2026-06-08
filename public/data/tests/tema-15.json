@@ -10,7 +10,7 @@
       "revocar automáticamente el acto dañoso"
     ],
     "correcta": 0,
-    "explicacion": "El tema parte de esa definición general.",
+    "explicación": "El tema parte de esa definición general.",
     "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
   },
   {
@@ -24,7 +24,7 @@
       "Art. 149.1 CE"
     ],
     "correcta": 1,
-    "explicacion": "El tema cita expresamente el art. 106.2 CE.",
+    "explicación": "El tema cita expresamente el art. 106.2 CE.",
     "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
   },
   {
@@ -38,7 +38,7 @@
       "discrecional y revisable"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo explica así de forma expresa.",
+    "explicación": "El tema lo explica así de forma expresa.",
     "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
   },
   {
@@ -46,13 +46,13 @@
     "tema": 15,
     "pregunta": "Para que nazca la responsabilidad patrimonial, además de ser efectiva y evaluable económicamente, la lesión debe ser:",
     "opciones": [
-      "Que sea colectiva",
-      "Que sea individualizada",
-      "Que se haya publicado en el BOE",
-      "Que tenga naturaleza penal"
+      "Qué sea colectiva",
+      "Qué sea individualizada",
+      "Qué se haya publicado en el BOE",
+      "Qué tenga naturaleza penal"
     ],
     "correcta": 1,
-    "explicacion": "El tema exige que el daño esté individualizado.",
+    "explicación": "El tema exige que el daño esté individualizado.",
     "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada"
   },
   {
@@ -66,8 +66,8 @@
       "el daño se presume antijurídico"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo.",
-    "referencia": "II.6 · 2.2 Que la lesión sea antijurídica"
+    "explicación": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo.",
+    "referencia": "II.6 · 2.2 Qué la lesión sea antijurídica"
   },
   {
     "id": "t18-p006",
@@ -80,8 +80,8 @@
       "Riesgo del desarrollo"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión.",
-    "referencia": "II.6 · 2.4 Que no concurra fuerza mayor"
+    "explicación": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión.",
+    "referencia": "II.6 · 2.4 Qué no concurra fuerza mayor"
   },
   {
     "id": "t18-p007",
@@ -94,7 +94,7 @@
       "se convierten automáticamente en responsabilidad penal"
     ],
     "correcta": 1,
-    "explicacion": "El tema los excluye en el art. 34.4 LRJSP.",
+    "explicación": "El tema los excluye en el art. 34.4 LRJSP.",
     "referencia": "II.6 · 3.4 Riesgos del desarrollo"
   },
   {
@@ -108,7 +108,7 @@
       "4 años"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija el plazo de 1 año y lo califica como prescripción.",
+    "explicación": "El tema fija el plazo de 1 año y lo califica como prescripción.",
     "referencia": "II.6 · 5.1 Iniciación (art. 67 LPACAP)"
   },
   {
@@ -122,7 +122,7 @@
       "1 año"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija 6 meses.",
+    "explicación": "El tema fija 6 meses.",
     "referencia": "II.6 · 5.3 Resolución y plazo"
   },
   {
@@ -136,7 +136,7 @@
       "Mesa de Contratación"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo exige expresamente en la instrucción.",
+    "explicación": "El tema lo exige expresamente en la instrucción.",
     "referencia": "II.6 · 5.2 Instrucción"
   },
   {
@@ -150,7 +150,7 @@
       "cualquier error material"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo condiciona a esa gravedad.",
+    "explicación": "El tema lo condiciona a esa gravedad.",
     "referencia": "II.6 · 7.2 La acción de regreso (art. 36 LRJSP)"
   },
   {
@@ -164,7 +164,7 @@
       "Solo por sentencias penales"
     ],
     "correcta": 1,
-    "explicacion": "El tema contempla esos dos supuestos especiales.",
+    "explicación": "El tema contempla esos dos supuestos especiales.",
     "referencia": "II.6 · 6.1 Responsabilidad del Estado legislador"
   },
   {
@@ -178,7 +178,7 @@
       "fijada libremente por el perjudicado"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge el principio de indemnidad.",
+    "explicación": "El tema recoge el principio de indemnidad.",
     "referencia": "II.6 · 4.1 Principio de indemnidad"
   },
   {
@@ -186,13 +186,13 @@
     "tema": 15,
     "pregunta": "¿Qué elemento del daño se exige para que nazca la responsabilidad patrimonial?",
     "opciones": [
-      "Que sea evaluable económicamente",
-      "Que sea siempre moral",
-      "Que sea aprobado por el Consejo de Estado",
-      "Que sea imputable penalmente"
+      "Qué sea evaluable económicamente",
+      "Qué sea siempre moral",
+      "Qué sea aprobado por el Consejo de Estado",
+      "Qué sea imputable penalmente"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige la evaluabilidad económica junto con la efectividad e individualización.",
+    "explicación": "El tema exige la evaluabilidad económica junto con la efectividad e individualización.",
     "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada"
   },
   {
@@ -206,13 +206,13 @@
       "la nulidad del expediente"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala esa compatibilidad expresamente.",
+    "explicación": "El tema señala esa compatibilidad expresamente.",
     "referencia": "II.6 · 7.3 Responsabilidad penal / 7.4 Responsabilidad disciplinaria"
   },
   {
     "id": "t18-p016",
     "tema": 15,
-    "pregunta": "De acuerdo con el art. 32 LRJSP y con el Tema 18, para que nazca la responsabilidad patrimonial es necesario que la lesion sea:",
+    "pregunta": "De acuerdo con el art. 32 LRJSP y con el Tema 18, para que nazca la responsabilidad patrimonial es necesario que la lesión sea:",
     "opciones": [
       "Efectiva, evaluable economicamente e individualizada",
       "Solamente ilicita desde el punto de vista penal",
@@ -220,26 +220,26 @@
       "Necesariamente producida por funcionamiento anormal del servicio"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige lesion efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal.",
-    "referencia": "II.6 · 2.1 Lesion efectiva, evaluable economicamente e individualizada"
+    "explicación": "El tema exige lesión efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal.",
+    "referencia": "II.6 · 2.1 Lesión efectiva, evaluable economicamente e individualizada"
   },
   {
     "id": "t18-p017",
     "tema": 15,
-    "pregunta": "Segun el Tema 18, cuando la indemnizacion reclamada sea igual o superior a 50.000 euros, durante la instruccion del procedimiento debera recabarse dictamen de:",
+    "pregunta": "Según el Tema 18, cuando la indemnización reclamada sea igual o superior a 50.000 euros, durante la instrucción del procedimiento debera recabarse dictamen de:",
     "opciones": [
-      "La Intervencion General del Estado",
-      "El Consejo de Estado u organo consultivo equivalente de la Comunidad Autonoma",
+      "La Intervención General del Estado",
+      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
       "El Ministerio Fiscal",
       "La Abogacia del Estado en todo caso"
     ],
     "correcta": 1,
-    "explicacion": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
-    "referencia": "II.6 · 5.2 Instruccion"
+    "explicación": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
+    "referencia": "II.6 · 5.2 Instrucción"
   },
   {
     "id": "topup-15-01",
-    "pregunta": "La responsabilidad patrimonial de la Administracion tiene caracter:",
+    "pregunta": "La responsabilidad patrimonial de la Administración tiene carácter:",
     "opciones": [
       "objetivo y directo",
       "penal y subsidiario",
@@ -247,7 +247,7 @@
       "graciable y eventual"
     ],
     "correcta": 0,
-    "explicacion": "La responsabilidad patrimonial responde a danos antijuridicos causados por el funcionamiento de los servicios publicos.",
+    "explicación": "La responsabilidad patrimonial responde a danos antijuridicos causados por el funcionamiento de los servicios públicos.",
     "referencia": "II.6 · Caracteres de la responsabilidad administrativa",
     "tema": 15
   },
@@ -261,21 +261,21 @@
       "puramente hipotetico"
     ],
     "correcta": 0,
-    "explicacion": "La lesion indemnizable exige efectividad, evaluacion economica e individualizacion.",
+    "explicación": "La lesión indemnizable exige efectividad, evaluación económica e individualización.",
     "referencia": "II.6 · Presupuestos de la responsabilidad",
     "tema": 15
   },
   {
     "id": "topup-15-03",
-    "pregunta": "La accion de regreso permite a la Administracion reclamar al empleado publico cuando haya actuado con:",
+    "pregunta": "La acción de regreso permite a la Administración reclamar al empleado público cuando haya actuado con:",
     "opciones": [
       "dolo, culpa o negligencia grave",
       "simple error material inocuo",
-      "discrepancia politica",
-      "mera opinion juridica"
+      "discrepancia política",
+      "mera opinion jurídica"
     ],
     "correcta": 0,
-    "explicacion": "La accion de regreso exige una conducta especialmente grave del personal responsable.",
+    "explicación": "La acción de regreso exige una conducta especialmente grave del personal responsable.",
     "referencia": "II.6 · Responsabilidad de autoridades y personal",
     "tema": 15
   }

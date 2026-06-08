@@ -2,44 +2,44 @@
   {
     "id": "pdf-2023-burgos-q11",
     "tema": 9,
-    "pregunta": "Que Ley aprobo el Estatuto de Autonomia de Castilla y Leon?",
+    "pregunta": "Qué Ley aprobo el Estatuto de Autonomía de Castilla y León?",
     "opciones": [
-      "Ley Organica 4/1985, de 25 de febrero",
-      "Ley Organica 4/1983, de 25 de febrero",
-      "Ley Organica 5/1985, de 25 de febrero",
-      "Ley Organica 5/1983, de 25 de febrero"
+      "Ley Orgánica 4/1985, de 25 de febrero",
+      "Ley Orgánica 4/1983, de 25 de febrero",
+      "Ley Orgánica 5/1985, de 25 de febrero",
+      "Ley Orgánica 5/1983, de 25 de febrero"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 11",
-    "explicacion": "El Estatuto de Autonomia de Castilla y Leon fue aprobado por la Ley Organica 4/1983."
+    "explicación": "El Estatuto de Autonomía de Castilla y León fue aprobado por la Ley Orgánica 4/1983."
   },
   {
     "id": "pdf-2025-burgos-q07",
     "tema": 9,
-    "pregunta": "Para reformar el vigente Estatuto de Autonomia de Castilla y Leon, el procedimiento requerira en todo caso la aprobacion de las Cortes de Castilla y Leon por:",
+    "pregunta": "Para reformar el vigente Estatuto de Autonomía de Castilla y León, el procedimiento requerira en todo caso la aprobación de las Cortes de Castilla y León por:",
     "opciones": [
-      "Mayoria absoluta y posterior aprobacion por las Cortes Generales de mayoria simple",
-      "Mayoria absoluta y posterior aprobacion de las Cortes Generales mediante Ley Organica",
-      "Mayoria de dos tercios y posterior aprobacion del Congreso mediante Ley Organica",
-      "Mayoria de dos tercios y posterior aprobacion de las Cortes Generales mediante Ley Organica"
+      "Mayoria absoluta y posterior aprobación por las Cortes Generales de mayoria simple",
+      "Mayoria absoluta y posterior aprobación de las Cortes Generales mediante Ley Orgánica",
+      "Mayoria de dos tercios y posterior aprobación del Congreso mediante Ley Orgánica",
+      "Mayoria de dos tercios y posterior aprobación de las Cortes Generales mediante Ley Orgánica"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 7",
-    "explicacion": "La reforma estatutaria exige mayoria de dos tercios en las Cortes de Castilla y Leon y aprobacion estatal mediante ley organica."
+    "explicación": "La reforma estatutaria exige mayoria de dos tercios en las Cortes de Castilla y León y aprobación estatal mediante ley orgánica."
   },
   {
     "id": "pdf-2025-burgos-q08",
     "tema": 9,
-    "pregunta": "Las instituciones basicas de la Comunidad de Castilla y Leon, segun su Estatuto de Autonomia, son:",
+    "pregunta": "Las instituciones básicas de la Comunidad de Castilla y León, segun su Estatuto de Autonomía, son:",
     "opciones": [
-      "Las Cortes y la Junta de Castilla y Leon",
-      "La Junta de Castilla y Leon y el Presidente",
-      "Las Cortes, el Presidente de la Junta de Castilla y Leon y el Procurador del Comun",
-      "Las Cortes, el Presidente y la Junta de Castilla y Leon"
+      "Las Cortes y la Junta de Castilla y León",
+      "La Junta de Castilla y León y el Presidente",
+      "Las Cortes, el Presidente de la Junta de Castilla y León y el Procurador del Comun",
+      "Las Cortes, el Presidente y la Junta de Castilla y León"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 8",
-    "explicacion": "Las instituciones basicas son las Cortes, el Presidente y la Junta de Castilla y Leon."
+    "explicación": "Las instituciones básicas son las Cortes, el Presidente y la Junta de Castilla y León."
   },
   {
     "id": "t08-p001",
@@ -52,7 +52,7 @@
       "Ley Orgánica 3/1981"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que la reforma más importante y vigente es la operada por la Ley Orgánica 14/2007.",
+    "explicación": "El tema señala que la reforma más importante y vigente es la operada por la Ley Orgánica 14/2007.",
     "referencia": "I.9 · 1.1 Antecedentes y evolución"
   },
   {
@@ -66,7 +66,7 @@
       "10"
     ],
     "correcta": 2,
-    "explicacion": "El temario enumera nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.",
+    "explicación": "El temario enumera nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.",
     "referencia": "I.9 · 1.3 Territorio (art. 2 EACyL)"
   },
   {
@@ -80,7 +80,7 @@
       "Valladolid"
     ],
     "correcta": 3,
-    "explicacion": "El tema sitúa la capital en Valladolid, donde radica la sede de la Junta y la Presidencia de la Comunidad.",
+    "explicación": "El tema sitúa la capital en Valladolid, donde radica la sede de la Junta y la Presidencia de la Comunidad.",
     "referencia": "I.9 · 1.4 Capital y sede de las instituciones (art. 4 EACyL)"
   },
   {
@@ -94,7 +94,7 @@
       "El Procurador del Común"
     ],
     "correcta": 3,
-    "explicacion": "El tema enumera como instituciones de autogobierno a las Cortes, la Junta, el Presidente y el TSJ; el Procurador del Común se trata aparte como comisionado.",
+    "explicación": "El tema enumera como instituciones de autogobierno a las Cortes, la Junta, el Presidente y el TSJ; el Procurador del Común se trata aparte como comisionado.",
     "referencia": "I.9 · 2.1 Las instituciones de autogobierno (art. 19 EACyL)"
   },
   {
@@ -108,7 +108,7 @@
       "100 a 125 procuradores"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija una composición entre 61 y 83 procuradores; actualmente son 81.",
+    "explicación": "El tema fija una composición entre 61 y 83 procuradores; actualmente son 81.",
     "referencia": "I.9 · 2.2 Las Cortes de Castilla y León"
   },
   {
@@ -122,7 +122,7 @@
       "Mayoría de dos tercios"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que en primera votación se requiere mayoría absoluta y en la segunda mayoría simple.",
+    "explicación": "El tema indica que en primera votación se requiere mayoría absoluta y en la segunda mayoría simple.",
     "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León"
   },
   {
@@ -136,7 +136,7 @@
       "Palencia"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que el TSJ de Castilla y León tiene su sede en Burgos.",
+    "explicación": "El tema señala que el TSJ de Castilla y León tiene su sede en Burgos.",
     "referencia": "I.9 · 2.5 El Tribunal Superior de Justicia de Castilla y León (art. 42 EACyL)"
   },
   {
@@ -150,7 +150,7 @@
       "Reservada a las Diputaciones Provinciales"
     ],
     "correcta": 1,
-    "explicacion": "El temario presenta esas materias como competencias compartidas más relevantes de Castilla y León.",
+    "explicación": "El temario presenta esas materias como competencias compartidas más relevantes de Castilla y León.",
     "referencia": "I.9 · 3.3 Competencias compartidas más relevantes"
   },
   {
@@ -164,7 +164,7 @@
       "Mayoría de 2/3"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que el Procurador del Común se elige por mayoría de 3/5 y, si no se alcanza, por mayoría absoluta en segunda votación.",
+    "explicación": "El tema indica que el Procurador del Común se elige por mayoría de 3/5 y, si no se alcanza, por mayoría absoluta en segunda votación.",
     "referencia": "I.9 · 4.2 Elección y mandato"
   },
   {
@@ -178,7 +178,7 @@
       "El Consejo Consultivo"
     ],
     "correcta": 1,
-    "explicacion": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
+    "explicación": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
     "referencia": "I.9 · 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión"
   },
   {
@@ -192,7 +192,7 @@
       "6 de diciembre"
     ],
     "correcta": 2,
-    "explicacion": "El temario fija el 23 de abril como fiesta de la Comunidad, en conmemoración de Villalar.",
+    "explicación": "El temario fija el 23 de abril como fiesta de la Comunidad, en conmemoración de Villalar.",
     "referencia": "I.9 · 1.5 Símbolos (art. 3 EACyL)"
   },
   {
@@ -206,7 +206,7 @@
       "Derecho a la declaración de guerra"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el derecho a una buena administración como derecho estatutario.",
+    "explicación": "El tema incluye el derecho a una buena administración como derecho estatutario.",
     "referencia": "I.9 · 1.6 Derechos y principios rectores"
   },
   {
@@ -220,7 +220,7 @@
       "municipal"
     ],
     "correcta": 1,
-    "explicacion": "El temario indica que la circunscripción es la provincia.",
+    "explicación": "El temario indica que la circunscripción es la provincia.",
     "referencia": "I.9 · 2.2 Las Cortes de Castilla y León"
   },
   {
@@ -234,7 +234,7 @@
       "Designar al Tribunal Superior de Justicia"
     ],
     "correcta": 1,
-    "explicacion": "El tema recoge entre sus funciones la cuestión de confianza y la posibilidad de disolver las Cortes.",
+    "explicación": "El tema recoge entre sus funciones la cuestión de confianza y la posibilidad de disolver las Cortes.",
     "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León"
   },
   {
@@ -248,7 +248,7 @@
       "8 años, renovable por mitades"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija un mandato de 5 años y una sola renovación.",
+    "explicación": "El tema fija un mandato de 5 años y una sola renovación.",
     "referencia": "I.9 · 4.2 Elección y mandato"
   },
   {
@@ -262,7 +262,7 @@
       "149 CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema dice expresamente que Castilla y León siguió la vía ordinaria del art. 143 CE.",
+    "explicación": "El tema dice expresamente que Castilla y León siguió la vía ordinaria del art. 143 CE.",
     "referencia": "I.9 · 1.1 Fundamento constitucional y proceso de acceso a la autonomía"
   },
   {
@@ -276,7 +276,7 @@
       "Salamanca"
     ],
     "correcta": 1,
-    "explicacion": "El tema sitúa la capital en Valladolid.",
+    "explicación": "El tema sitúa la capital en Valladolid.",
     "referencia": "I.9 · 1.3 Denominación, territorio y capitalidad"
   },
   {
@@ -290,7 +290,7 @@
       "Consultiva"
     ],
     "correcta": 1,
-    "explicacion": "El tema las define como unicamerales.",
+    "explicación": "El tema las define como unicamerales.",
     "referencia": "I.9 · 2.1 Naturaleza y composición"
   },
   {
@@ -304,7 +304,7 @@
       "100 a 104"
     ],
     "correcta": 2,
-    "explicacion": "El Estatuto fija un mínimo de 80 y un máximo de 84.",
+    "explicación": "El Estatuto fija un mínimo de 80 y un máximo de 84.",
     "referencia": "I.9 · 2.1 Naturaleza y composición"
   },
   {
@@ -318,7 +318,7 @@
       "Seis años"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala un mandato de cuatro años.",
+    "explicación": "El tema señala un mandato de cuatro años.",
     "referencia": "I.9 · 2.1 Naturaleza y composición"
   },
   {
@@ -332,7 +332,7 @@
       "Ejercer la potestad reglamentaria del Gobierno"
     ],
     "correcta": 1,
-    "explicacion": "La función presupuestaria corresponde a las Cortes.",
+    "explicación": "La función presupuestaria corresponde a las Cortes.",
     "referencia": "I.9 · 2.2 Funciones"
   },
   {
@@ -346,7 +346,7 @@
       "El Procurador del Común"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que el candidato es investido por las Cortes.",
+    "explicación": "El tema explica que el candidato es investido por las Cortes.",
     "referencia": "I.9 · 3.1 Elección y mandato"
   },
   {
@@ -360,7 +360,7 @@
       "Designar al Procurador del Común"
     ],
     "correcta": 1,
-    "explicacion": "El Presidente promulga y ordena publicar las leyes.",
+    "explicación": "El Presidente promulga y ordena publicar las leyes.",
     "referencia": "I.9 · 3.2 Atribuciones"
   },
   {
@@ -374,7 +374,7 @@
       "Alcaldes y Diputados"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica al Presidente y los Consejeros como miembros del Consejo de Gobierno.",
+    "explicación": "El tema identifica al Presidente y los Consejeros como miembros del Consejo de Gobierno.",
     "referencia": "I.9 · 4.1 Composición"
   },
   {
@@ -388,7 +388,7 @@
       "Mancomunidades"
     ],
     "correcta": 1,
-    "explicacion": "El tema sitúa las Consejerías como órgano superior de la organización central.",
+    "explicación": "El tema sitúa las Consejerías como órgano superior de la organización central.",
     "referencia": "I.9 · 5.1 La organización central"
   },
   {
@@ -402,7 +402,7 @@
       "El CES"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo describe como equivalente autonómico del Defensor del Pueblo.",
+    "explicación": "El tema lo describe como equivalente autonómico del Defensor del Pueblo.",
     "referencia": "I.9 · 6.1 El Procurador del Común"
   },
   {
@@ -416,7 +416,7 @@
       "Órgano jurisdiccional"
     ],
     "correcta": 1,
-    "explicacion": "Ese es el papel que le atribuye el tema.",
+    "explicación": "Ese es el papel que le atribuye el tema.",
     "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
   },
   {
@@ -430,7 +430,7 @@
       "Ejecutiva"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya su función fiscalizadora y no jurisdiccional.",
+    "explicación": "El tema subraya su función fiscalizadora y no jurisdiccional.",
     "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
   },
   {
@@ -444,7 +444,7 @@
       "Sanción administrativa"
     ],
     "correcta": 1,
-    "explicacion": "El tema lo define como órgano de consulta y participación.",
+    "explicación": "El tema lo define como órgano de consulta y participación.",
     "referencia": "I.9 · 6.4 El Consejo Económico y Social de Castilla y León (CES)"
   },
   {
@@ -458,13 +458,13 @@
       "Consulados"
     ],
     "correcta": 0,
-    "explicacion": "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
+    "explicación": "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
     "referencia": "I.9 · 5.2 La Administración Periférica: las Delegaciones Territoriales"
   },
   {
     "id": "t47-p016",
     "tema": 9,
-    "pregunta": "De acuerdo con el Estatuto de Autonomia de Castilla y Leon y con el Tema 47, a cada provincia le corresponde un minimo de:",
+    "pregunta": "De acuerdo con el Estatuto de Autonomía de Castilla y León y con el Tema 47, a cada provincia le corresponde un mínimo de:",
     "opciones": [
       "Dos Procuradores",
       "Tres Procuradores",
@@ -472,35 +472,35 @@
       "Cinco Procuradores"
     ],
     "correcta": 1,
-    "explicacion": "El tema indica que la circunscripcion es provincial y que cada provincia cuenta con un minimo de tres Procuradores.",
+    "explicación": "El tema indica que la circunscripción es provincial y que cada provincia cuenta con un mínimo de tres Procuradores.",
     "referencia": "I.9 · 2.1 Naturaleza y composición"
   },
   {
     "id": "t47-p017",
     "tema": 9,
-    "pregunta": "De acuerdo con el Tema 47, corresponde al Presidente de la Junta de Castilla y Leon:",
+    "pregunta": "De acuerdo con el Tema 47, corresponde al Presidente de la Junta de Castilla y León:",
     "opciones": [
       "Nombrar y cesar libremente a los Consejeros",
       "Elegir a los Procuradores provinciales",
       "Fiscalizar las cuentas de las entidades locales",
-      "Resolver los recursos de casacion ante el Tribunal Superior de Justicia"
+      "Resolver los recursos de casación ante el Tribunal Superior de Justicia"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera entre las atribuciones del Presidente el nombramiento y cese de los Consejeros.",
+    "explicación": "El tema enumera entre las atribuciones del Presidente el nombramiento y cese de los Consejeros.",
     "referencia": "I.9 · 3.2 Atribuciones"
   },
   {
     "id": "t47-p018",
     "tema": 9,
-    "pregunta": "El Consejo Consultivo de Castilla y Leon emite dictamen preceptivo, entre otros casos, sobre:",
+    "pregunta": "El Consejo Consultivo de Castilla y León emite dictamen preceptivo, entre otros casos, sobre:",
     "opciones": [
-      "Proyectos de reforma del Estatuto de Autonomia",
-      "La eleccion de los Procuradores de las Cortes de Castilla y Leon",
-      "La aprobacion inicial de los presupuestos municipales",
-      "La designacion del Delegado Territorial en cada provincia"
+      "Proyectos de reforma del Estatuto de Autonomía",
+      "La elección de los Procuradores de las Cortes de Castilla y León",
+      "La aprobación inicial de los presupuestos municipales",
+      "La designación del Delegado Territorial en cada provincia"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye los proyectos de reforma del Estatuto entre los supuestos de dictamen preceptivo.",
+    "explicación": "El tema incluye los proyectos de reforma del Estatuto entre los supuestos de dictamen preceptivo.",
     "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
   },
   {
@@ -514,13 +514,13 @@
       "Universal, censitario, directo y secreto."
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce la elección por sufragio universal, libre, igual, directo y secreto.",
+    "explicación": "El tema reproduce la elección por sufragio universal, libre, igual, directo y secreto.",
     "referencia": "I.9 · 2.1 Naturaleza y composición"
   },
   {
     "id": "t47-p020",
     "tema": 9,
-    "pregunta": "Segun el Tema 47, los Consejeros electivos del Consejo Consultivo de Castilla y Leon son elegidos por las Cortes de Castilla y Leon para un mandato de:",
+    "pregunta": "Según el Tema 47, los Consejeros electivos del Consejo Consultivo de Castilla y León son elegidos por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
       "Cuatro anos",
       "Cinco anos",
@@ -528,13 +528,13 @@
       "Ocho anos"
     ],
     "correcta": 0,
-    "explicacion": "El tema establece un mandato de cuatro anos para los Consejeros electivos del Consejo Consultivo.",
-    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y Leon"
+    "explicación": "El tema establece un mandato de cuatro anos para los Consejeros electivos del Consejo Consultivo.",
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
   },
   {
     "id": "t47-p021",
     "tema": 9,
-    "pregunta": "De acuerdo con el Tema 47, el candidato a Presidente de la Junta de Castilla y Leon resultara investido en segunda votacion si obtiene:",
+    "pregunta": "De acuerdo con el Tema 47, el candidato a Presidente de la Junta de Castilla y León resultara investido en segunda votación si obtiene:",
     "opciones": [
       "Mayoria de tres quintos de las Cortes",
       "Mayoria absoluta de las Cortes",
@@ -542,13 +542,13 @@
       "Unanimidad de los Procuradores presentes"
     ],
     "correcta": 2,
-    "explicacion": "El tema indica que, tras no lograr mayoria absoluta en primera votacion, basta la mayoria simple en segunda.",
-    "referencia": "I.9 · 3.1 Eleccion y mandato"
+    "explicación": "El tema indica que, tras no lograr mayoria absoluta en primera votación, basta la mayoria simple en segunda.",
+    "referencia": "I.9 · 3.1 Elección y mandato"
   },
   {
     "id": "t47-p022",
     "tema": 9,
-    "pregunta": "Segun el Tema 47, el Procurador del Comun es elegido por las Cortes de Castilla y Leon para un mandato de:",
+    "pregunta": "Según el Tema 47, el Procurador del Comun es elegido por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
       "Cuatro anos, renovable",
       "Cinco anos, no renovable",
@@ -556,22 +556,22 @@
       "Ocho anos, no renovable"
     ],
     "correcta": 1,
-    "explicacion": "El tema fija un mandato de cinco anos para el Procurador del Comun y lo califica como no renovable.",
+    "explicación": "El tema fija un mandato de cinco anos para el Procurador del Comun y lo califica como no renovable.",
     "referencia": "I.9 · 6.1 El Procurador del Comun"
   },
   {
     "id": "t47-p023",
     "tema": 9,
-    "pregunta": "Conforme al Tema 47, el Consejo de Cuentas de Castilla y Leon:",
+    "pregunta": "Conforme al Tema 47, el Consejo de Cuentas de Castilla y León:",
     "opciones": [
       "Tiene funciones fiscalizadora y jurisdiccional, al igual que el Tribunal de Cuentas del Estado",
-      "Solo tiene funcion fiscalizadora y no puede enjuiciar la responsabilidad contable",
+      "Solo tiene función fiscalizadora y no puede enjuiciar la responsabilidad contable",
       "Depende jerarquicamente del Tribunal Supremo",
-      "Es un organo consultivo de la Junta en materia presupuestaria"
+      "Es un órgano consultivo de la Junta en materia presupuestaria"
     ],
     "correcta": 1,
-    "explicacion": "El tema subraya que el Consejo de Cuentas solo fiscaliza y carece de funcion jurisdiccional.",
-    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y Leon"
+    "explicación": "El tema subraya que el Consejo de Cuentas solo fiscaliza y carece de función jurisdiccional.",
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
   },
   {
     "id": "t47-p024",
@@ -584,7 +584,7 @@
       "Mayoría de dos tercios en única votación."
     ],
     "correcta": 0,
-    "explicacion": "El tema señala ese sistema de elección para el Procurador del Común.",
+    "explicación": "El tema señala ese sistema de elección para el Procurador del Común.",
     "referencia": "I.9 · 6.1 El Procurador del Común"
   },
   {
@@ -598,7 +598,7 @@
       "Tres Consejeros elegidos por las Cortes por mayoría absoluta para un mandato de cinco años."
     ],
     "correcta": 0,
-    "explicacion": "El tema fija en siete los Consejeros, elegidos por las Cortes por mayoría de tres quintos para seis años.",
+    "explicación": "El tema fija en siete los Consejeros, elegidos por las Cortes por mayoría de tres quintos para seis años.",
     "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
   },
   {
@@ -612,7 +612,7 @@
       "Los Procuradores designados por cada grupo parlamentario al inicio de cada legislatura."
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye como Consejeros permanentes a los ex-Presidentes de la Junta y de las Cortes que lo soliciten.",
+    "explicación": "El tema incluye como Consejeros permanentes a los ex-Presidentes de la Junta y de las Cortes que lo soliciten.",
     "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
   }
 ]

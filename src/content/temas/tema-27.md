@@ -107,7 +107,7 @@ Las Entidades Locales pueden adquirir bienes y derechos por los siguientes modos
 
 | Modo | Descripción |
 |---|---|
-| **Por atribución legal** | Cuando la ley determina directamente que ciertos bienes son de titularidad local (p. ej., bienes mostrencos, herencias intestadas a favor del municipio) |
+| **Por atribución legal** | Cuándo la ley determina directamente que ciertos bienes son de titularidad local (p. ej., bienes mostrencos, herencias intestadas a favor del municipio) |
 | **Por prescripción adquisitiva (usucapión)** | Posesión continuada durante el tiempo que señala el Derecho Civil, respecto de bienes patrimoniales |
 | **Por expropiación forzosa** | La Entidad Local puede expropiar bienes de particulares por causa de utilidad pública o interés social, con la correspondiente indemnización |
 | **A título oneroso** | Compraventa, permuta y demás contratos onerosos de adquisición |
@@ -220,9 +220,9 @@ La enajenación de bienes patrimoniales inmuebles requiere los siguientes pasos 
 ### 6.3 Enajenación directa (sin subasta)
 
 De forma excepcional, la enajenación puede realizarse **directamente** (sin licitación pública) en los siguientes supuestos (art. 112 RBEL):
-- Cuando el adquirente sea otra **Administración Pública** o entidad de Derecho público.
-- Cuando se ejercite un **derecho de adquisición preferente** (retracto, tanteo...) reconocido legalmente.
-- Cuando hayan quedado **desiertas dos subastas** sucesivas y el precio de enajenación directa no sea inferior al tipo de la segunda subasta.
+- Cuándo el adquirente sea otra **Administración Pública** o entidad de Derecho público.
+- Cuándo se ejercite un **derecho de adquisición preferente** (retracto, tanteo...) reconocido legalmente.
+- Cuándo hayan quedado **desiertas dos subastas** sucesivas y el precio de enajenación directa no sea inferior al tipo de la segunda subasta.
 - Bienes de escaso valor.
 
 ### 6.4 Permuta
@@ -239,7 +239,7 @@ Requiere acuerdo del Pleno y, cuando supere los umbrales legales, autorización 
 
 ### 6.6 Enajenación de bienes muebles
 
-La enajenación de bienes **muebles** sigue un procedimiento simplificado respecto de los inmuebles. Cuando su valor supere los umbrales reglamentarios, requiere licitación pública. Para bienes de escaso valor, basta con acuerdo de la Presidencia o de la Junta de Gobierno.
+La enajenación de bienes **muebles** sigue un procedimiento simplificado respecto de los inmuebles. Cuándo su valor supere los umbrales reglamentarios, requiere licitación pública. Para bienes de escaso valor, basta con acuerdo de la Presidencia o de la Junta de Gobierno.
 
 ---
 

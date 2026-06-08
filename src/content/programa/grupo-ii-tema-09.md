@@ -1,78 +1,78 @@
 ---
-grupo: "Grupo II. Derecho y regimen juridico de las Administraciones Publicas"
+grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas"
 tema: 9
 codigo: "Tema II.9"
-titulo: "Los bienes de las entidades locales: concepto, clases. Bienes de dominio publico local. Bienes patrimoniales locales, enajenacion, cesion y utilizacion."
+titulo: "Los bienes de las entidades locales: concepto, clases. Bienes de dominio público local. Bienes patrimoniales locales, enajenación, cesión y utilización."
 estado: "borrador"
 ---
 
 ## Normativa de referencia
 
-Los bienes locales se regulan por la Ley 7/1985, el Real Decreto Legislativo 781/1986, el Reglamento de Bienes de las Entidades Locales y, con caracter general, por la normativa de patrimonio de las Administraciones Publicas y legislacion sectorial.
+Los bienes locales se regulan por la Ley 7/1985, el Real Decreto Legislativo 781/1986, el Reglamento de Bienes de las Entidades Locales y, con carácter general, por la normativa de patrimonio de las Administraciones Públicas y legislación sectorial.
 
 ## Concepto
 
 Los bienes de las entidades locales son el conjunto de bienes, derechos y acciones que pertenecen a municipios, provincias y demas entidades locales. Constituyen su patrimonio y permiten prestar servicios, ejercer competencias y obtener recursos.
 
-La gestion patrimonial local exige inventario, defensa, conservacion, aprovechamiento eficiente y respeto a los fines publicos. Un Ayuntamiento no administra sus bienes como un particular; debe someterse a procedimientos, controles y principios de interes publico.
+La gestion patrimonial local exige inventario, defensa, conservación, aprovechamiento eficiente y respeto a los fines públicos. Un Ayuntamiento no administra sus bienes como un particular; debe someterse a procedimientos, controles y principios de interes público.
 
 ## Clases
 
-Los bienes locales se clasifican en bienes de dominio publico y bienes patrimoniales. Los de dominio publico estan afectados a uso publico o servicio publico, o tienen tal caracter por ley. Los patrimoniales no estan destinados directamente a uso o servicio publico y pueden producir rendimientos.
+Los bienes locales se clasifican en bienes de dominio público y bienes patrimoniales. Los de dominio público estan afectados a uso público o servicio público, o tienen tal carácter por ley. Los patrimoniales no estan destinados directamente a uso o servicio público y pueden producir rendimientos.
 
-Tambien pueden existir bienes comunales, cuyo aprovechamiento corresponde al comun de vecinos. En muchos municipios tienen importancia historica, agricola o forestal.
+También pueden existir bienes comunales, cuyo aprovechamiento corresponde al comun de vecinos. En muchos municipios tienen importancia historica, agricola o forestal.
 
-| Clase de bien | Destino | Regimen basico |
+| Clase de bien | Destino | Régimen básico |
 | --- | --- | --- |
-| Dominio publico de uso publico | Uso general por la ciudadania. | Calles, plazas, parques, caminos; proteccion reforzada. |
-| Dominio publico de servicio publico | Prestacion directa de servicios o funciones publicas. | Casa consistorial, colegios, mercados, instalaciones deportivas. |
-| Comunal | Aprovechamiento por el comun de vecinos. | Regimen especial, vinculado a usos vecinales tradicionales. |
-| Patrimonial | No afectado a uso o servicio publico. | Puede arrendarse, cederse o enajenarse con procedimiento. |
+| Dominio público de uso público | Uso general por la ciudadania. | Calles, plazas, parques, caminos; protección reforzada. |
+| Dominio público de servicio público | Prestación directa de servicios o funciones públicas. | Casa consistorial, colegios, mercados, instalaciones deportivas. |
+| Comunal | Aprovechamiento por el comun de vecinos. | Régimen especial, vinculado a usos vecinales tradicionales. |
+| Patrimonial | No afectado a uso o servicio público. | Puede arrendarse, cederse o enajenarse con procedimiento. |
 
-La afectacion es la clave. Un mismo inmueble puede cambiar de regimen si se afecta a servicio publico o se desafecta. La desafectacion debe tramitarse formalmente; no basta con que el bien deje de usarse de hecho durante un tiempo.
+La afectación es la clave. Un mismo inmueble puede cambiar de régimen si se afecta a servicio público o se desafecta. La desafectación debe tramitarse formalmente; no basta con que el bien deje de usarse de hecho durante un tiempo.
 
-## Bienes de dominio publico local
+## Bienes de dominio público local
 
-Son bienes de uso publico local caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demas obras publicas de aprovechamiento o utilizacion general cuya conservacion y policia sean competencia local.
+Son bienes de uso público local caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demas obras públicas de aprovechamiento o utilización general cuya conservación y policia sean competencia local.
 
-Son bienes de servicio publico los destinados directamente al cumplimiento de fines publicos locales: casas consistoriales, mercados, centros civicos, colegios publicos de titularidad municipal, instalaciones deportivas, cementerios, parques de bomberos o edificios administrativos.
+Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos locales: casas consistoriales, mercados, centros civicos, colegios públicos de titularidad municipal, instalaciones deportivas, cementerios, parques de bomberos o edificios administrativos.
 
-Los bienes de dominio publico son inalienables, inembargables e imprescriptibles. No pueden venderse mientras conserven esa condicion, no pueden ser embargados y no se adquieren por prescripcion. Su utilizacion privativa o aprovechamiento especial requiere titulo habilitante: autorizacion, concesion u otro instrumento legal.
+Los bienes de dominio público son inalienables, inembargables e imprescriptibles. No pueden venderse mientras conserven esa condición, no pueden ser embargados y no se adquieren por prescripción. Su utilización privativa o aprovechamiento especial requiere titulo habilitante: autorización, concesión u otro instrumento legal.
 
 | Nota demanial | Consecuencia |
 | --- | --- |
-| Inalienabilidad | No pueden venderse mientras sean dominio publico. |
+| Inalienabilidad | No pueden venderse mientras sean dominio público. |
 | Inembargabilidad | No pueden ser objeto de embargo para cobrar deudas. |
-| Imprescriptibilidad | No se adquieren por posesion prolongada de un particular. |
-| Potestad de recuperacion | La entidad local puede defenderlos y recuperar su posesion conforme a la ley. |
+| Imprescriptibilidad | No se adquieren por posesión prolongada de un particular. |
+| Potestad de recuperación | La entidad local puede defenderlos y recuperar su posesión conforme a la ley. |
 
-En expedientes de ocupacion de via publica, terrazas, quioscos, canalizaciones, vados o instalaciones temporales, el Ayuntamiento no "alquila" simplemente un espacio: autoriza o concede un aprovechamiento de dominio publico sometido a condiciones, tasas, plazos y potestad de revocacion en los terminos legales.
+En expedientes de ocupación de via pública, terrazas, quioscos, canalizaciones, vados o instalaciones temporales, el Ayuntamiento no "alquila" simplemente un espacio: autoriza o concede un aprovechamiento de dominio público sometido a condiciones, tasas, plazos y potestad de revocación en los terminos legales.
 
 ## Bienes patrimoniales
 
-Los bienes patrimoniales pertenecen a la entidad local pero no estan afectados a uso o servicio publico. Pueden ser solares, locales, viviendas, derechos de credito, acciones, participaciones o fincas no destinadas directamente a servicio publico.
+Los bienes patrimoniales pertenecen a la entidad local pero no estan afectados a uso o servicio público. Pueden ser solares, locales, viviendas, derechos de crédito, acciones, participaciones o fincas no destinadas directamente a servicio público.
 
-Aunque su regimen es mas cercano al Derecho privado, su gestion sigue sometida a reglas publicas. Debe buscarse rentabilidad, conservacion, transparencia y defensa del patrimonio local. La entidad local debe inventariarlos y protegerlos.
+Aunque su régimen es mas cercano al Derecho privado, su gestion sigue sometida a reglas públicas. Debe buscarse rentabilidad, conservación, transparencia y defensa del patrimonio local. La entidad local debe inventariarlos y protegerlos.
 
-## Enajenacion
+## Enajenación
 
-La enajenacion de bienes patrimoniales exige procedimiento. Deben justificarse oportunidad, valoracion tecnica, competencia del organo, depuracion fisica y juridica del bien, publicidad y, como regla general, licitacion.
+La enajenación de bienes patrimoniales exige procedimiento. Deben justificarse oportunidad, valoración técnica, competencia del órgano, depuración física y jurídica del bien, publicidad y, como regla general, licitación.
 
-La venta directa solo procede en supuestos tasados. La finalidad es evitar arbitrariedad, garantizar concurrencia y proteger el patrimonio publico. Los bienes de dominio publico solo pueden enajenarse si previamente se desafectan, convirtiendose en patrimoniales.
+La venta directa solo procede en supuestos tasados. La finalidad es evitar arbitrariedad, garantizar concurrencia y proteger el patrimonio público. Los bienes de dominio público solo pueden enajenarse si previamente se desafectan, convirtiendose en patrimoniales.
 
-## Cesion y utilizacion
+## Cesión y utilización
 
-Los bienes patrimoniales pueden cederse gratuitamente a otras Administraciones o entidades sin animo de lucro para fines de utilidad publica o interes social, cumpliendo requisitos legales. La cesion debe vincularse a un destino y puede revertir si no se cumple.
+Los bienes patrimoniales pueden cederse gratuitamente a otras Administraciones o entidades sin animo de lucro para fines de utilidad pública o interes social, cumpliendo requisitos legales. La cesión debe vincularse a un destino y puede revertir si no se cumple.
 
-La utilizacion de bienes de dominio publico puede ser uso comun general, uso comun especial, uso privativo o uso normal/anormal segun el bien. El uso comun general corresponde a todos en condiciones de igualdad. El aprovechamiento especial o uso privativo requiere autorizacion o concesion y puede generar tasas.
+La utilización de bienes de dominio público puede ser uso comun general, uso comun especial, uso privativo o uso normal/anormal segun el bien. El uso comun general corresponde a todos en condiciones de igualdad. El aprovechamiento especial o uso privativo requiere autorización o concesión y puede generar tasas.
 
-En un Ayuntamiento, la gestion de bienes aparece en expedientes de terrazas, quioscos, ocupacion de via publica, cesion de locales, inventario, recuperacion de oficio, deslindes, concesiones y patrimonio municipal del suelo.
+En un Ayuntamiento, la gestion de bienes aparece en expedientes de terrazas, quioscos, ocupación de via pública, cesión de locales, inventario, recuperación de oficio, deslindes, concesiones y patrimonio municipal del suelo.
 
 | Tipo de uso | Ejemplo | Titulo habitual |
 | --- | --- | --- |
-| Uso comun general | Pasear por una plaza o circular por una calle. | No requiere autorizacion individual ordinaria. |
-| Uso comun especial | Terraza, vado, contenedor de obra, ocupacion temporal. | Autorizacion y tasa. |
-| Uso privativo | Quiosco estable, concesion de instalacion en dominio publico. | Concesion o titulo equivalente. |
+| Uso comun general | Pasear por una plaza o circular por una calle. | No requiere autorización individual ordinaria. |
+| Uso comun especial | Terraza, vado, contenedor de obra, ocupación temporal. | Autorización y tasa. |
+| Uso privativo | Quiosco estable, concesión de instalación en dominio público. | Concesión o titulo equivalente. |
 | Uso anormal | Uso distinto del destino natural del bien. | Requiere control reforzado o puede ser prohibido. |
 
-El inventario municipal es fundamental: identifica bienes, naturaleza, ubicacion, valor, cargas, destino y situacion juridica. Sin inventario actualizado, se dificulta defender el patrimonio, tramitar cesiones, controlar ocupaciones y rendir cuentas.
+El inventario municipal es fundamental: identifica bienes, naturaleza, ubicación, valor, cargas, destino y situación jurídica. Sin inventario actualizado, se dificulta defender el patrimonio, tramitar cesiones, controlar ocupaciones y rendir cuentas.

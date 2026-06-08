@@ -5,8 +5,8 @@ titulo: "El Estatuto de Autonomía de Castilla y León. La organización de la C
 
 > **Normativa de referencia:**
 > - [Ley Orgánica 4/1983, de 25 de febrero, del Estatuto de Autonomía de Castilla y León (reformada por LO 14/2007, de 30 de noviembre)](https://www.boe.es/buscar/act.php?id=BOE-A-1983-7474)
-> - [Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León](https://www.bocyl.es/boletin/130.html)
-> - [Ley 2/1994, de 9 de marzo, del Procurador del Común de Castilla y León](https://www.bocyl.es/boletin/50.html)
+> - [Ley 3/2001, de 3 de julio, del Gobierno y de la Administración de la Comunidad de Castilla y León](https://www.bocyl.es/boletín/130.html)
+> - [Ley 2/1994, de 9 de marzo, del Procurador del Común de Castilla y León](https://www.bocyl.es/boletín/50.html)
 
 ---
 

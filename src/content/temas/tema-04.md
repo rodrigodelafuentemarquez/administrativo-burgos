@@ -210,7 +210,7 @@ En cada Cámara existe una **Diputación Permanente** que vela por los poderes d
 
 - Compuesta por un **mínimo de 21 miembros** que representan a los grupos parlamentarios en proporción a su importancia numérica.
 - Presidida por el **Presidente de la respectiva Cámara**.
-- Cuando las Cámaras se disuelven (art. 115 CE), las Diputaciones Permanentes asumen sus funciones de control y, en su caso, convalidan los decretos-leyes.
+- Cuándo las Cámaras se disuelven (art. 115 CE), las Diputaciones Permanentes asumen sus funciones de control y, en su caso, convalidan los decretos-leyes.
 
 ---
 
@@ -337,8 +337,8 @@ Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango 
 
 | Tipo | Instrumento | Para qué |
 |---|---|---|
-| **Ley de bases** | Texto articulado | Cuando la delegación autoriza al Gobierno a elaborar un texto articulado a partir de las bases fijadas por las Cortes |
-| **Ley ordinaria** | Texto refundido | Cuando la delegación autoriza al Gobierno a refundir varios textos legales en uno |
+| **Ley de bases** | Texto articulado | Cuándo la delegación autoriza al Gobierno a elaborar un texto articulado a partir de las bases fijadas por las Cortes |
+| **Ley ordinaria** | Texto refundido | Cuándo la delegación autoriza al Gobierno a refundir varios textos legales en uno |
 
 La delegación debe ser **expresa, concreta y con plazo determinado**. No puede autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo.
 

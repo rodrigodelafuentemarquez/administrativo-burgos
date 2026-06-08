@@ -18,7 +18,7 @@ La **informática** es la ciencia que estudia el tratamiento automático y racio
 
 El **ordenador** (o computadora) es una máquina electrónica capaz de recibir datos, procesarlos según un conjunto de instrucciones previamente definidas (programa), y producir resultados en forma de información útil para el usuario.
 
-Las características fundamentales de un ordenador son:
+Las carácterísticas fundamentales de un ordenador son:
 
 - **Velocidad:** es capaz de realizar millones o miles de millones de operaciones por segundo.
 - **Exactitud:** ejecuta las instrucciones con precisión absoluta, siempre que estas sean correctas.
@@ -484,7 +484,7 @@ Windows Update gestiona las actualizaciones de Windows y de los productos Micros
 
 #### 6.3.4 Las contraseñas seguras
 
-Una **contraseña segura** debe cumplir las siguientes características:
+Una **contraseña segura** debe cumplir las siguientes carácterísticas:
 - **Longitud mínima** de 8-12 caracteres (cuanto más larga, más segura).
 - **Combinación** de letras mayúsculas y minúsculas, números y caracteres especiales.
 - No debe contener información personal fácilmente deducible (nombre, fecha de nacimiento).

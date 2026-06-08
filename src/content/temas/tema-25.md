@@ -165,7 +165,7 @@ El **Pleno** es el órgano de máxima representación de la Diputación. Está i
 
 | Tipo de sesión | Periodicidad / Convocatoria |
 |---|---|
-| **Ordinaria** | Como mínimo, cada **tres meses** |
+| **Ordinaria** | Cómo mínimo, cada **tres meses** |
 | **Extraordinaria** | Convocada por el Presidente cuando lo estime oportuno o a solicitud de al menos **la cuarta parte del número legal de Diputados** |
 | **Extraordinaria urgente** | Convocada por el Presidente cuando la urgencia no permite la convocatoria con la antelación ordinaria |
 
@@ -304,7 +304,7 @@ Ejemplos habituales en la Diputación de Burgos:
 
 ## 8. LOS ORGANISMOS AUTÓNOMOS
 
-### 8.1 Concepto y características
+### 8.1 Concepto y carácterísticas
 
 Los **Organismos Autónomos** son entidades de Derecho público dependientes de la Diputación Provincial, creadas por el Pleno para la realización de actividades de fomento, prestacionales o de gestión de servicios propios de la Diputación, dotadas de personalidad jurídica y gestión presupuestaria independientes.
 

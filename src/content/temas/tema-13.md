@@ -110,8 +110,8 @@ La eficacia está vinculada a los principios de **celeridad** (agilidad en la tr
 
 La Administración sirve **con objetividad** los intereses generales (art. 103.1 CE), lo que implica:
 
-- Que no puede actuar en beneficio de intereses particulares o de partido.
-- Que sus funcionarios deben actuar con **imparcialidad** (art. 103.3 CE garantiza la imparcialidad en el ejercicio de funciones mediante el sistema de acceso por mérito y capacidad y el régimen de incompatibilidades).
+- Qué no puede actuar en beneficio de intereses particulares o de partido.
+- Qué sus funcionarios deben actuar con **imparcialidad** (art. 103.3 CE garantiza la imparcialidad en el ejercicio de funciones mediante el sistema de acceso por mérito y capacidad y el régimen de incompatibilidades).
 
 La abstención y la recusación (arts. 23 y 24 LRJSP) son las técnicas para garantizar la imparcialidad en casos concretos.
 

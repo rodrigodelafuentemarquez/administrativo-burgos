@@ -511,7 +511,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       .tema-content mark {
         padding: .08rem .22rem;
         color: #191400;
-        background: linear-gradient(transparent 12%, rgba(var(--bd-accent-rgb), .82) 12%, rgba(var(--bd-accent-rgb), .82) 88%, transparent 88%);
+        background: rgba(var(--bd-accent-rgb), .82);
         border-radius: .18rem;
       }
       .tema-content .study-mark {
@@ -523,7 +523,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         padding: .03rem .18rem .06rem;
         color: var(--study-mark-text);
         font-weight: 760;
-        background: linear-gradient(104deg, transparent 0%, var(--study-mark-color) 8%, var(--study-mark-color) 88%, transparent 100%);
+        background: var(--study-mark-color);
         border-radius: .16rem;
       }
       .tema-content .study-mark-law {

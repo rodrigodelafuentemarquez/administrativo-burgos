@@ -75,7 +75,7 @@ También es contrato de suministro la adquisición y el arrendamiento de equipos
 Tiene por objeto la realización de **prestaciones de hacer** que no sean obras ni suministros: servicios de mantenimiento, limpieza, vigilancia, consultoría, asistencia técnica, estudios y trabajos técnicos, servicios de telecomunicaciones, financieros, jurídicos, de formación…
 
 #### 2.2.5 Contrato mixto (art. 18 LCSP)
-Cuando un contrato abarca prestaciones correspondientes a otro tipo de contrato, se califica como **mixto**. Su régimen jurídico se determina atendiendo a la **prestación principal** del contrato.
+Cuándo un contrato abarca prestaciones correspondientes a otro tipo de contrato, se califica como **mixto**. Su régimen jurídico se determina atendiendo a la **prestación principal** del contrato.
 
 ### 2.3 Contratos excluidos (art. 11 LCSP)
 
@@ -152,7 +152,7 @@ Toda modificación debe formalizarse en **escritura pública** si el contrato in
 
 ### 4.4 Cumplimiento defectuoso y penalidades (art. 192 LCSP)
 
-Cuando el contratista incurra en **demora** en el cumplimiento de los plazos, la Administración puede:
+Cuándo el contratista incurra en **demora** en el cumplimiento de los plazos, la Administración puede:
 - Imponer **penalidades** pactadas en el pliego o, en su defecto, las legales.
 - Optar entre la **resolución del contrato** o la imposición de penalidades.
 
@@ -175,7 +175,7 @@ La forma normal de extinción es el **cumplimiento**: el contratista ejecuta la 
 **Actos vinculados al cumplimiento:**
 
 - **Recepción:** acto formal por el que la Administración comprueba que la prestación se ha realizado conforme a lo pactado. En los contratos de obras, se levanta **acta de recepción** a la que asisten el representante de la Administración, el director facultativo de la obra y el contratista.
-- **Plazo de garantía:** periodo posterior a la recepción durante el cual el contratista responde de los defectos que aparezcan. En obras, el plazo mínimo es de **1 año** salvo que el pliego establezca otro mayor.
+- **Plazo de garantía:** período posterior a la recepción durante el cual el contratista responde de los defectos que aparezcan. En obras, el plazo mínimo es de **1 año** salvo que el pliego establezca otro mayor.
 - **Devolución o cancelación de la garantía definitiva:** una vez transcurrido el plazo de garantía sin incidencias, se devuelve al contratista la garantía definitiva que depositó.
 - **Liquidación:** pago del saldo resultante de las relaciones económicas del contrato.
 

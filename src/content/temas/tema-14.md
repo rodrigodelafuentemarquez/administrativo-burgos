@@ -193,7 +193,7 @@ La **coordinación** puede ser:
 
 ### 3.4 Conflictos interadministrativos
 
-Cuando existen desacuerdos entre Administraciones sobre el ejercicio de competencias, pueden plantearse:
+Cuándo existen desacuerdos entre Administraciones sobre el ejercicio de competencias, pueden plantearse:
 
 - **Conflictos de competencia ante el Tribunal Constitucional** (arts. 60-72 LOTC): cuando Estado y CC.AA. discrepan sobre a quién corresponde una competencia.
 - **Conflictos en vía administrativa:** el art. 44 LPACAP prevé que las Administraciones no puedan interponer recurso contencioso-administrativo contra actos de otra Administración, debiendo resolver los conflictos por los mecanismos de cooperación o, en último término, acudir al TC o a los tribunales ordinarios según la materia.

@@ -107,7 +107,7 @@ La alteración de los términos municipales (fusiones, segregaciones, incorporac
 
 #### c) La población: el padrón municipal (art. 15 LBRL)
 
-Toda persona que viva en España está obligada a inscribirse en el **padrón municipal** del municipio en que resida habitualmente. Quien viva en varios municipios se inscribe donde resida más tiempo.
+Toda persona que viva en España está obligada a inscribirse en el **padrón municipal** del municipio en que resida habitualmente. Quién viva en varios municipios se inscribe donde resida más tiempo.
 
 El padrón municipal es el **registro administrativo** donde constan los vecinos del municipio. Sus datos son prueba de residencia y domicilio habitual. El **Instituto Nacional de Estadística (INE)** coordina los padrones de todos los municipios.
 
@@ -137,7 +137,7 @@ La LBRL prevé regímenes especiales para determinados municipios:
 | Régimen especial | Aplicación |
 |---|---|
 | **Municipios de gran población** (Tít. X LBRL) | Municipios con más de 250.000 habitantes y capitales de provincia con más de 175.000; organización reforzada con Junta de Gobierno Local con funciones ejecutivas |
-| **Régimen de Concejo Abierto** (art. 29 LBRL) | Municipios con menos de 100 habitantes o con características especiales; el gobierno lo ejerce una asamblea de todos los vecinos |
+| **Régimen de Concejo Abierto** (art. 29 LBRL) | Municipios con menos de 100 habitantes o con carácterísticas especiales; el gobierno lo ejerce una asamblea de todos los vecinos |
 | **Madrid y Barcelona** | Leyes especiales propias |
 
 ---
@@ -180,7 +180,7 @@ Son entidades de ámbito territorial inferior al municipio, que pueden constitui
 
 ### 2.6 Las Comarcas
 
-Las comarcas son **agrupaciones de municipios** limítrofes con características geográficas, económicas, históricas o culturales comunes, que pueden crearse por las CC.AA. para la gestión de determinados servicios y competencias.
+Las comarcas son **agrupaciones de municipios** limítrofes con carácterísticas geográficas, económicas, históricas o culturales comunes, que pueden crearse por las CC.AA. para la gestión de determinados servicios y competencias.
 
 - Su creación requiere ley autonómica.
 - No están previstas en todas las CC.AA. (por ejemplo, tienen pleno desarrollo en Aragón y Cataluña).

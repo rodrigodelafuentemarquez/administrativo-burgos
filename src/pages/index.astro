@@ -9,7 +9,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
 const priorityLabel = {
   normal: 'Test y desarrollo',
   alta: 'Alta prioridad',
-  critica: 'Practico + desarrollo',
+  crítica: 'Practico + desarrollo',
 };
 const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
 ---
@@ -23,8 +23,8 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
     <section class="official-group" id="por-ejercicio">
       <div class="official-group-heading">
         <div>
-          <h2>Preparacion por ejercicio<a class="anchor-link" aria-label="Enlace a esta seccion" href="#por-ejercicio"></a></h2>
-          <p>La web ya esta separada por lo que de verdad necesitas entrenar: test, supuesto practico y desarrollo de temas.</p>
+          <h2>Preparación por ejercicio<a class="anchor-link" aria-label="Enlace a esta sección" href="#por-ejercicio"></a></h2>
+          <p>La web ya esta separada por lo que de verdad necesitas entrenar: test, supuesto práctico y desarrollo de temas.</p>
         </div>
       </div>
       <div class="official-topic-list">
@@ -34,7 +34,7 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
             <div class="official-topic-body">
               <div class="official-topic-meta">
                 <span class="badge text-bg-success">70 preguntas</span>
-                <span class="badge text-bg-dark">Penalizacion real</span>
+                <span class="badge text-bg-dark">Penalización real</span>
               </div>
               <h3>Primer ejercicio</h3>
               <p>Tests por tema, por mezcla, simulacro oficial y repaso inteligente.</p>
@@ -47,10 +47,10 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
             <div class="official-topic-number">R</div>
             <div class="official-topic-body">
               <div class="official-topic-meta">
-                <span class="badge text-bg-warning text-dark">Depuracion</span>
+                <span class="badge text-bg-warning text-dark">Depuración</span>
                 <span class="badge text-bg-dark">Dudosas</span>
               </div>
-              <h3>Revision de preguntas</h3>
+              <h3>Revisión de preguntas</h3>
               <p>Marca preguntas dudosas al corregir y revísalas luego en un bloque separado para afinar el banco.</p>
               <a class="btn btn-sm btn-primary" href={`${base}dudosas`}>Ir a dudosas</a>
             </div>
@@ -66,7 +66,7 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
               </div>
               <h3>Segundo ejercicio</h3>
               <p>Checklist, textos legales y supuestos modelo inspirados en ejercicios reales.</p>
-              <a class="btn btn-sm btn-primary" href={`${base}practico`}>Ir al practico</a>
+              <a class="btn btn-sm btn-primary" href={`${base}práctico`}>Ir al práctico</a>
             </div>
           </div>
         </article>
@@ -79,7 +79,7 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
                 <span class="badge text-bg-dark">Desarrollo</span>
               </div>
               <h3>Tercer ejercicio</h3>
-              <p>Esquemas e indices de los temas para memorizar estructura y orden de exposicion.</p>
+              <p>Esquemas e indices de los temas para memorizar estructura y orden de exposición.</p>
               <a class="btn btn-sm btn-primary" href={`${base}desarrollo`}>Ir a desarrollo</a>
             </div>
           </div>
@@ -91,8 +91,8 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
       <section class="official-group" id={group.id}>
         <div class="official-group-heading">
           <div>
-            <h2>{group.titulo}<a class="anchor-link" aria-label="Enlace a esta seccion" href={`#${group.id}`}></a></h2>
-            <p>{group.descripcion}</p>
+            <h2>{group.titulo}<a class="anchor-link" aria-label="Enlace a esta sección" href={`#${group.id}`}></a></h2>
+            <p>{group.descripción}</p>
           </div>
           <span class="badge text-bg-secondary">{group.topics.length} temas</span>
         </div>
@@ -109,13 +109,13 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
                 <div class="official-topic-body">
                   <div class="official-topic-meta">
                     <span class={hasOfficialContent ? 'badge text-bg-success' : 'badge text-bg-danger'}>{hasOfficialContent ? 'Tema oficial' : 'Pendiente'}</span>
-                    <span class={topic.prioridad === 'critica' ? 'badge text-bg-primary' : 'badge text-bg-dark'}>{priorityLabel[topic.prioridad]}</span>
+                    <span class={topic.prioridad === 'crítica' ? 'badge text-bg-primary' : 'badge text-bg-dark'}>{priorityLabel[topic.prioridad]}</span>
                   </div>
                   <h3>{topic.titulo}</h3>
                   {hasOfficialContent ? (
                     <a class="btn btn-sm btn-primary" href={`${base}programa/${slug}`}>Abrir tema</a>
                   ) : (
-                    <p class="topic-missing mb-0">Pendiente de crear contenido especifico.</p>
+                    <p class="topic-missing mb-0">Pendiente de crear contenido específico.</p>
                   )}
                 </div>
               </div>

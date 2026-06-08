@@ -2,49 +2,49 @@
   {
     "id": "pdf-2023-burgos-q45",
     "tema": 38,
-    "pregunta": "La relacion electronica con las Administraciones Publicas para las personas juridicas:",
+    "pregunta": "La relación electrónica con las Administraciones Públicas para las personas jurídicas:",
     "opciones": [
-      "Es una obligacion",
-      "Es una opcion",
-      "Es igual que para las personas fisicas",
+      "Es una obligación",
+      "Es una opción",
+      "Es igual que para las personas físicas",
       "Ninguna de las respuestas anteriores es correcta"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 45",
-    "explicacion": "Las personas juridicas estan obligadas a relacionarse electronicamente con las Administraciones."
+    "explicación": "Las personas jurídicas estan obligadas a relacionarse electronicamente con las Administraciones."
   },
   {
     "id": "pdf-2023-burgos-q46",
     "tema": 38,
-    "pregunta": "De acuerdo con el articulo 38 de la Ley 40/2015, la sede electronica es:",
+    "pregunta": "De acuerdo con el artículo 38 de la Ley 40/2015, la sede electrónica es:",
     "opciones": [
-      "Aquella sede administrativa donde se controla la red intranet de una Administracion Publica",
-      "La direccion electronica, disponible para los ciudadanos a traves de redes de telecomunicaciones, cuya titularidad corresponde a una Administracion Publica o a organismos o entidades de derecho publico en el ejercicio de sus competencias",
-      "La sede donde radica la Direccion General de nuevas tecnologias",
+      "Aquella sede administrativa donde se controla la red intranet de una Administración Publica",
+      "La dirección electrónica, disponible para los ciudadanos a traves de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Publica o a organismos o entidades de derecho público en el ejercicio de sus competencias",
+      "La sede donde radica la Dirección General de nuevas tecnologías",
       "Ninguna es correcta"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 46",
-    "explicacion": "La sede electronica es una direccion electronica oficial cuya titularidad corresponde a una Administracion u organismo publico."
+    "explicación": "La sede electrónica es una dirección electrónica oficial cuya titularidad corresponde a una Administración u organismo público."
   },
   {
     "id": "pdf-2025-burgos-q47-reg",
     "tema": 38,
-    "pregunta": "Los registros telematicos permiten la presentacion de solicitudes:",
+    "pregunta": "Los registros telemáticos permiten la presentación de solicitudes:",
     "opciones": [
       "En el mismo horario que las oficinas presenciales",
-      "De lunes a viernes, las 24 horas del dia",
+      "De lunes a viernes, las 24 horas del día",
       "De lunes a viernes, de 8 a 20 horas y los sabados de 9 a 14 horas",
-      "Todos los dias del ano, las 24 horas del dia"
+      "Todos los días del ano, las 24 horas del día"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 47",
-    "explicacion": "El registro electronico permite la presentacion de solicitudes todos los dias del ano durante las 24 horas."
+    "explicación": "El registro electrónico permite la presentación de solicitudes todos los días del ano durante las 24 horas."
   },
   {
     "id": "pdf-2025-burgos-q57",
     "tema": 38,
-    "pregunta": "En que articulo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electronicos?",
+    "pregunta": "En qué artículo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electrónicos?",
     "opciones": [
       "Articulo 41",
       "Articulo 38",
@@ -53,7 +53,7 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 57",
-    "explicacion": "El articulo 41 LPAC regula la practica de las notificaciones y establece su preferencia por medios electronicos."
+    "explicación": "El artículo 41 LPAC regula la práctica de las notificaciones y establece su preferencia por medios electrónicos."
   },
   {
     "id": "t34-p001",
@@ -66,7 +66,7 @@
       "la publicación de leyes orgánicas"
     ],
     "correcta": 0,
-    "explicacion": "El tema da esa definición de e-Administración.",
+    "explicación": "El tema da esa definición de e-Administración.",
     "referencia": "V.7 · 1.1 Concepto"
   },
   {
@@ -80,7 +80,7 @@
       "solo para grandes empresas"
     ],
     "correcta": 0,
-    "explicacion": "El tema la eleva a forma ordinaria.",
+    "explicación": "El tema la eleva a forma ordinaria.",
     "referencia": "V.7 · 1.2 Evolución normativa"
   },
   {
@@ -94,7 +94,7 @@
       "la reserva de papel"
     ],
     "correcta": 0,
-    "explicacion": "El tema la enumera entre los principios.",
+    "explicación": "El tema la enumera entre los principios.",
     "referencia": "V.7 · 1.3 Principios de la administración electrónica"
   },
   {
@@ -108,7 +108,7 @@
       "el correo personal del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como equivalente electrónico de las oficinas presenciales.",
+    "explicación": "El tema la define como equivalente electrónico de las oficinas presenciales.",
     "referencia": "V.7 · 2.1 Concepto"
   },
   {
@@ -122,7 +122,7 @@
       "una base de datos de sanciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo identifica como puerta de entrada única.",
+    "explicación": "El tema lo identifica como puerta de entrada única.",
     "referencia": "V.7 · 2.3 Punto de Acceso General electrónico de la AGE"
   },
   {
@@ -136,7 +136,7 @@
       "el número de afiliación a la Seguridad Social"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el DNIe entre los sistemas admitidos.",
+    "explicación": "El tema incluye el DNIe entre los sistemas admitidos.",
     "referencia": "V.7 · 3.1 La identificación electrónica de los ciudadanos"
   },
   {
@@ -150,7 +150,7 @@
       "la reserva del registro"
     ],
     "correcta": 0,
-    "explicacion": "El tema le atribuye autenticidad e integridad.",
+    "explicación": "El tema le atribuye autenticidad e integridad.",
     "referencia": "V.7 · 3.2 La firma electrónica"
   },
   {
@@ -164,7 +164,7 @@
       "solo el teléfono de atención"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica esas vías de inicio.",
+    "explicación": "El tema indica esas vías de inicio.",
     "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento"
   },
   {
@@ -178,7 +178,7 @@
       "por radio local"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo dice expresamente.",
+    "explicación": "El tema lo dice expresamente.",
     "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
   },
   {
@@ -192,7 +192,7 @@
       "una plataforma de firma de presupuestos"
     ],
     "correcta": 0,
-    "explicacion": "El tema la identifica como sistema de notificación electrónica de referencia.",
+    "explicación": "El tema la identifica como sistema de notificación electrónica de referencia.",
     "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
   },
   {
@@ -206,7 +206,7 @@
       "nula"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce ese efecto.",
+    "explicación": "El tema reproduce ese efecto.",
     "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
   },
   {
@@ -220,7 +220,7 @@
       "mediante resolución judicial"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define así.",
+    "explicación": "El tema la define así.",
     "referencia": "V.7 · 4.3 Instrucción electrónica del procedimiento"
   },
   {
@@ -234,7 +234,7 @@
       "la estructura del calendario laboral"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo menciona como marco de seguridad.",
+    "explicación": "El tema lo menciona como marco de seguridad.",
     "referencia": "V.7 · 1.2 Evolución normativa / referencias"
   },
   {
@@ -248,7 +248,7 @@
       "clasificar los sistemas conforme al ENS"
     ],
     "correcta": 0,
-    "explicacion": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento.",
+    "explicación": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento.",
     "referencia": "V.7 · 3.3 Identificación de las Administraciones Públicas"
   },
   {
@@ -262,7 +262,7 @@
       "el texto íntegro de la resolución final"
     ],
     "correcta": 0,
-    "explicacion": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales.",
+    "explicación": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales.",
     "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento"
   },
   {
@@ -276,7 +276,7 @@
       "solo es obligatorio en los procedimientos sancionadores"
     ],
     "correcta": 0,
-    "explicacion": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico.",
+    "explicación": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico.",
     "referencia": "V.7 · 6.2 El aviso de notificación"
   },
   {
@@ -290,7 +290,7 @@
       "desconcentración funcional"
     ],
     "correcta": 0,
-    "explicacion": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria.",
+    "explicación": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria.",
     "referencia": "V.7 · 7.3 El Sistema de Interconexión de Registros (SIR)"
   },
   {
@@ -304,35 +304,35 @@
       "un registro exclusivamente en soporte papel"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye expresamente el catálogo de procedimientos entre los elementos que deben existir en la sede electrónica local.",
+    "explicación": "El tema incluye expresamente el catálogo de procedimientos entre los elementos que deben existir en la sede electrónica local.",
     "referencia": "V.7 · 8.1 Obligaciones de las Entidades Locales"
   },
   {
     "id": "t34-p021",
     "tema": 38,
-    "pregunta": "De acuerdo con el Tema 34, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con caracter general:",
+    "pregunta": "De acuerdo con el Tema 34, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con carácter general:",
     "opciones": [
       "Unicamente en soporte papel para garantizar su autenticidad",
-      "Por medios electronicos",
+      "Por medios electrónicos",
       "En cualquier soporte, sin preferencia legal",
       "Solo en formato fisico cuando afecten a derechos de los particulares"
     ],
     "correcta": 1,
-    "explicacion": "El tema explica que la tramitacion ordinaria es electronica y que los documentos administrativos deben almacenarse por medios electronicos.",
-    "referencia": "V.7 · 4.1 La tramitacion electronica como forma ordinaria"
+    "explicación": "El tema explica que la tramitación ordinaria es electrónica y que los documentos administrativos deben almacenarse por medios electrónicos.",
+    "referencia": "V.7 · 4.1 La tramitación electrónica como forma ordinaria"
   },
   {
     "id": "t34-p022",
     "tema": 38,
-    "pregunta": "Segun el art. 40 LRJSP y el Tema 34, las Administraciones Publicas podran identificarse mediante:",
+    "pregunta": "Según el art. 40 LRJSP y el Tema 34, las Administraciones Públicas podrán identificarse mediante:",
     "opciones": [
-      "Un sello electronico basado en un certificado electronico reconocido o cualificado",
+      "Un sello electrónico basado en un certificado electrónico reconocido o cualificado",
       "Exclusivamente mediante firma manuscrita digitalizada",
-      "Unicamente mediante certificado de empleado publico",
-      "Cualquier sistema privado aunque no cumpla la legislacion de firma electronica"
+      "Unicamente mediante certificado de empleado público",
+      "Cualquier sistema privado aunque no cumpla la legislación de firma electrónica"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge el sello electronico basado en certificado reconocido o cualificado como sistema valido de identificacion de la Administracion.",
-    "referencia": "V.7 · 3.2 Sistemas de firma e identificacion"
+    "explicación": "El tema recoge el sello electrónico basado en certificado reconocido o cualificado como sistema valido de identificación de la Administración.",
+    "referencia": "V.7 · 3.2 Sistemas de firma e identificación"
   }
 ]

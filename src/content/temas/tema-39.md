@@ -177,7 +177,7 @@ Los **criterios** en la cuadrícula QBE permiten filtrar registros:
 | No «Burgos» | Distinto de "Burgos" | — |
 | >1000 | Mayor que 1000 | — |
 | Entre 100 Y 500 | En el rango [100, 500] | — |
-| Como «M*» | Texto que empieza por M | Todos los nombres que empiezan por M |
+| Cómo «M*» | Texto que empieza por M | Todos los nombres que empiezan por M |
 | Es Nulo | El campo está vacío | — |
 | Es No Nulo | El campo no está vacío | — |
 | En (1;3;5) | El valor es 1, 3 o 5 | — |
@@ -313,8 +313,8 @@ Se accede desde **Datos externos → Exportar**.
 **Microsoft Outlook** es el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365. Es la aplicación estándar de gestión de comunicaciones y productividad personal en el entorno de trabajo administrativo.
 
 Outlook 365 puede funcionar de dos formas:
-- Como cliente de correo **local**, conectado a servidores de correo corporativos (Microsoft Exchange, Microsoft 365) o servidores de correo externos (Gmail, Yahoo, correo de la Diputación…).
-- Como **aplicación web** (Outlook en la Web, también llamado OWA — Outlook Web App), accesible desde el navegador sin necesidad de instalar la aplicación.
+- Cómo cliente de correo **local**, conectado a servidores de correo corporativos (Microsoft Exchange, Microsoft 365) o servidores de correo externos (Gmail, Yahoo, correo de la Diputación…).
+- Cómo **aplicación web** (Outlook en la Web, también llamado OWA — Outlook Web App), accesible desde el navegador sin necesidad de instalar la aplicación.
 
 ### 8.2 La interfaz de Outlook 365
 

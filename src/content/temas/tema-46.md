@@ -4,9 +4,9 @@ titulo: "La Ley de la Función Pública de Castilla y León. Objeto y ámbito de
 ---
 
 > **Normativa de referencia:**
-> - [Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León (LFPCYL)](https://www.bocyl.es/boletin/99.html)
+> - [Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León (LFPCYL)](https://www.bocyl.es/boletín/99.html)
 > - [Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
-> - [Decreto 67/1999, de 15 de abril, por el que se aprueba el Reglamento General de ingreso del personal y provisión de puestos de trabajo en la Administración de la Comunidad de Castilla y León](https://www.bocyl.es/boletin/72.html)
+> - [Decreto 67/1999, de 15 de abril, por el que se aprueba el Reglamento General de ingreso del personal y provisión de puestos de trabajo en la Administración de la Comunidad de Castilla y León](https://www.bocyl.es/boletín/72.html)
 
 ---
 
@@ -135,7 +135,7 @@ El **concurso** consiste exclusivamente en la valoración de méritos y capacida
 
 #### 4.4.4 Los procesos de estabilización
 
-Como consecuencia de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, la Junta de Castilla y León (como todas las Administraciones) ejecutó procesos extraordinarios de **estabilización** del empleo temporal, que podían tramitarse mediante concurso-oposición (con valoración de méritos por experiencia previa) o concurso de méritos, según el tiempo de ocupación del puesto y otras circunstancias.
+Cómo consecuencia de la Ley 20/2021, de 28 de diciembre, de medidas urgentes para la reducción de la temporalidad en el empleo público, la Junta de Castilla y León (como todas las Administraciones) ejecutó procesos extraordinarios de **estabilización** del empleo temporal, que podían tramitarse mediante concurso-oposición (con valoración de méritos por experiencia previa) o concurso de méritos, según el tiempo de ocupación del puesto y otras circunstancias.
 
 ### 4.5 Los órganos de selección
 
@@ -149,7 +149,7 @@ El órgano de selección propone al órgano convocante los candidatos que han su
 
 ### 5.1 La Relación de Puestos de Trabajo (RPT)
 
-La **Relación de Puestos de Trabajo (RPT)** es el instrumento técnico a través del cual la Administración de Castilla y León ordena su personal, especifica los puestos de trabajo existentes, sus características (denominación, adscripción orgánica, grupo y nivel de complemento de destino, complemento específico, forma de provisión y requisitos de desempeño) y determina los efectivos de personal necesarios. La RPT es pública y debe publicarse en el BOCYL.
+La **Relación de Puestos de Trabajo (RPT)** es el instrumento técnico a través del cual la Administración de Castilla y León ordena su personal, especifica los puestos de trabajo existentes, sus carácterísticas (denominación, adscripción orgánica, grupo y nivel de complemento de destino, complemento específico, forma de provisión y requisitos de desempeño) y determina los efectivos de personal necesarios. La RPT es pública y debe publicarse en el BOCYL.
 
 ### 5.2 Sistemas de provisión
 
@@ -157,7 +157,7 @@ Los funcionarios de carrera de la Junta de Castilla y León pueden cubrir puesto
 
 #### 5.2.1 Concurso de méritos
 
-El **concurso de méritos** es el sistema ordinario de provisión de puestos de trabajo para funcionarios de carrera. Consiste en la valoración de méritos, capacidades y aptitudes de los candidatos en relación con las características del puesto a cubrir. Los méritos valorables son fundamentalmente: el grado personal consolidado (nivel del puesto desempeñado durante al menos dos años seguidos o tres con interrupción), la experiencia en puestos de similar naturaleza, los cursos de formación y la antigüedad.
+El **concurso de méritos** es el sistema ordinario de provisión de puestos de trabajo para funcionarios de carrera. Consiste en la valoración de méritos, capacidades y aptitudes de los candidatos en relación con las carácterísticas del puesto a cubrir. Los méritos valorables son fundamentalmente: el grado personal consolidado (nivel del puesto desempeñado durante al menos dos años seguidos o tres con interrupción), la experiencia en puestos de similar naturaleza, los cursos de formación y la antigüedad.
 
 Los puestos cubiertos por concurso generan **reserva del puesto**: el funcionario no puede ser removido salvo por las causas tasadas en la ley (reorganización administrativa, rendimiento insuficiente, condena penal, sanción disciplinaria).
 
@@ -215,7 +215,7 @@ En servicios especiales, el funcionario tiene derecho a reserva del puesto de tr
 
 ### 7.3 Servicio en otras Administraciones Públicas
 
-Cuando un funcionario de la Junta de Castilla y León es transferido o pasa a prestar servicios en otra Administración Pública mediante los mecanismos previstos en la ley (traslado, comisión de servicios, adscripción), pasa a la situación de **servicio en otras Administraciones Públicas**. Conserva su condición de funcionario de carrera de la Junta de Castilla y León.
+Cuándo un funcionario de la Junta de Castilla y León es transferido o pasa a prestar servicios en otra Administración Pública mediante los mecanismos previstos en la ley (traslado, comisión de servicios, adscripción), pasa a la situación de **servicio en otras Administraciones Públicas**. Conserva su condición de funcionario de carrera de la Junta de Castilla y León.
 
 ### 7.4 Excedencia
 

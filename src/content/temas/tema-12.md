@@ -60,7 +60,7 @@ El **art. 2 LRJSP** delimita qué entes tienen la consideración de Administraci
 
 ### 1.4 Las potestades administrativas
 
-Una de las características que distingue a la Administración de los particulares es que actúa investida de **potestades** que el ordenamiento le atribuye para cumplir sus fines. Las principales son:
+Una de las carácterísticas que distingue a la Administración de los particulares es que actúa investida de **potestades** que el ordenamiento le atribuye para cumplir sus fines. Las principales son:
 
 - **Potestad reglamentaria:** dictar normas de carácter general (reglamentos).
 - **Potestad de autotutela declarativa:** la Administración declara por sí misma sus derechos y los impone sin necesidad de acudir a un juez.

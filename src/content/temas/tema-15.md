@@ -59,9 +59,9 @@ El procedimiento administrativo es el **cauce formal** a través del cual la Adm
 
 Son **interesados** en el procedimiento administrativo:
 
-- Quienes lo **promuevan** como titulares de derechos o intereses legítimos individuales o colectivos.
-- Quienes, sin haberlo iniciado, tengan **derechos** que puedan resultar afectados por la resolución.
-- Quienes cuyos **intereses legítimos**, individuales o colectivos, puedan resultar afectados por la resolución, y comparezcan mientras no haya recaído resolución definitiva.
+- Quiénes lo **promuevan** como titulares de derechos o intereses legítimos individuales o colectivos.
+- Quiénes, sin haberlo iniciado, tengan **derechos** que puedan resultar afectados por la resolución.
+- Quiénes cuyos **intereses legítimos**, individuales o colectivos, puedan resultar afectados por la resolución, y comparezcan mientras no haya recaído resolución definitiva.
 
 Las **asociaciones y organizaciones representativas** de intereses económicos y sociales también son interesadas cuando actúen en defensa de los intereses colectivos que representan.
 
@@ -112,7 +112,7 @@ Los plazos en el procedimiento administrativo son obligatorios tanto para los in
 - La ampliación no puede exceder de la mitad del plazo concedido.
 
 **Tramitación de urgencia (art. 33 LPACAP):**
-- Cuando razones de interés público lo aconsejen, puede acordarse la tramitación de urgencia, que reduce los plazos a la **mitad**, salvo los relativos a la presentación de solicitudes y recursos.
+- Cuándo razones de interés público lo aconsejen, puede acordarse la tramitación de urgencia, que reduce los plazos a la **mitad**, salvo los relativos a la presentación de solicitudes y recursos.
 
 ### 2.6 Los registros (arts. 16-17 LPACAP)
 
@@ -169,7 +169,7 @@ La instrucción es la fase en que se realizan todos los actos necesarios para de
 Los interesados pueden, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir **alegaciones** y aportar documentos y otros elementos de juicio. La Administración está obligada a tenerlos en cuenta.
 
 #### 3.2.2 Prueba (art. 77 LPACAP)
-Los hechos relevantes pueden acreditarse por cualquier medio de prueba admisible en Derecho. El órgano instructor decidirá sobre la pertinencia de las pruebas propuestas. El periodo de prueba tiene una duración no superior a **30 días** ni inferior a **10 días**.
+Los hechos relevantes pueden acreditarse por cualquier medio de prueba admisible en Derecho. El órgano instructor decidirá sobre la pertinencia de las pruebas propuestas. El período de prueba tiene una duración no superior a **30 días** ni inferior a **10 días**.
 
 #### 3.2.3 Informes (arts. 79-80 LPACAP)
 Los informes son pronunciamientos de otros órganos sobre el asunto:
@@ -245,11 +245,11 @@ El plazo máximo para resolver y notificar se computa:
 ### 4.3 Suspensión del plazo para resolver (art. 22 LPACAP)
 
 El transcurso del plazo máximo puede suspenderse en casos tasados, entre otros:
-- Cuando deba requerirse al interesado para **subsanar defectos** (durante el tiempo que tarde en subsanarlos o expire el plazo concedido).
-- Cuando deban solicitarse **informes preceptivos** a otros órganos de la UE (hasta que se reciban, con un máximo de 3 meses).
-- Cuando se soliciten **informes** que sean determinantes para el procedimiento.
-- Cuando el procedimiento esté **vinculado a otro** que deba resolverse primero.
-- Cuando se hayan iniciado **negociaciones** para la terminación convencional.
+- Cuándo deba requerirse al interesado para **subsanar defectos** (durante el tiempo que tarde en subsanarlos o expire el plazo concedido).
+- Cuándo deban solicitarse **informes preceptivos** a otros órganos de la UE (hasta que se reciban, con un máximo de 3 meses).
+- Cuándo se soliciten **informes** que sean determinantes para el procedimiento.
+- Cuándo el procedimiento esté **vinculado a otro** que deba resolverse primero.
+- Cuándo se hayan iniciado **negociaciones** para la terminación convencional.
 
 ### 4.4 Incumplimiento del deber de resolver: responsabilidad
 
@@ -273,9 +273,9 @@ El silencio no exime a la Administración de su obligación de resolver expresam
 En los procedimientos iniciados **a solicitud del interesado**, el vencimiento del plazo máximo sin resolución expresa legitima al interesado para entender **estimada su solicitud**, salvo en los siguientes supuestos (en que el silencio es negativo):
 
 - Los que tengan por objeto el **acceso a actividades** o su ejercicio cuando una norma de la UE o española así lo establezca.
-- Cuando la estimación tuviera como consecuencia que se transfieran al solicitante o a terceros **facultades relativas al dominio público o al servicio público**.
-- Cuando la estimación implicara el ejercicio de **actividades que puedan dañar el medio ambiente**.
-- Cuando la resolución expresa tenga carácter **desestimatorio** según la normativa aplicable y así se indique.
+- Cuándo la estimación tuviera como consecuencia que se transfieran al solicitante o a terceros **facultades relativas al dominio público o al servicio público**.
+- Cuándo la estimación implicara el ejercicio de **actividades que puedan dañar el medio ambiente**.
+- Cuándo la resolución expresa tenga carácter **desestimatorio** según la normativa aplicable y así se indique.
 
 > 💡 La regla general en procedimientos a instancia de parte es **silencio positivo**. El silencio negativo es la excepción y debe estar expresamente previsto.
 

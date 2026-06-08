@@ -10,7 +10,7 @@
       "los tributos recaudados"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así el patrimonio local.",
+    "explicación": "El tema define así el patrimonio local.",
     "referencia": "II.9 · 1.1 El patrimonio de las Entidades Locales"
   },
   {
@@ -24,7 +24,7 @@
       "un documento tributario"
     ],
     "correcta": 0,
-    "explicacion": "El tema impone la obligación de formar y actualizar inventario.",
+    "explicación": "El tema impone la obligación de formar y actualizar inventario.",
     "referencia": "II.9 · 1.2 El Inventario de bienes"
   },
   {
@@ -38,7 +38,7 @@
       "solo usufructuarios"
     ],
     "correcta": 0,
-    "explicacion": "El tema resume esas tres notas esenciales.",
+    "explicación": "El tema resume esas tres notas esenciales.",
     "referencia": "II.9 · 2.1 Bienes de dominio público"
   },
   {
@@ -52,7 +52,7 @@
       "las empresas adjudicatarias"
     ],
     "correcta": 0,
-    "explicacion": "El tema reserva su aprovechamiento a los vecinos.",
+    "explicación": "El tema reserva su aprovechamiento a los vecinos.",
     "referencia": "II.9 · 2.1.3 Bienes comunales"
   },
   {
@@ -66,7 +66,7 @@
       "son de uso común general"
     ],
     "correcta": 0,
-    "explicacion": "El tema los define por su falta de afectación pública.",
+    "explicación": "El tema los define por su falta de afectación pública.",
     "referencia": "II.9 · 2.2 Bienes patrimoniales"
   },
   {
@@ -80,7 +80,7 @@
       "un contrato se formaliza"
     ],
     "correcta": 0,
-    "explicacion": "El tema la describe como cambio de patrimonial a demanial.",
+    "explicación": "El tema la describe como cambio de patrimonial a demanial.",
     "referencia": "II.9 · 2.4 Cambio de categoría: afectación y desafectación"
   },
   {
@@ -94,7 +94,7 @@
       "solo herencia intestada"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera varios modos, entre ellos la expropiación.",
+    "explicación": "El tema enumera varios modos, entre ellos la expropiación.",
     "referencia": "II.9 · 3.1 Modos de adquisición"
   },
   {
@@ -108,7 +108,7 @@
       "publicación en el BOE"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige tasación y escritura pública.",
+    "explicación": "El tema exige tasación y escritura pública.",
     "referencia": "II.9 · 3.2 Adquisición a título oneroso: procedimiento"
   },
   {
@@ -122,7 +122,7 @@
       "diez años desde la pérdida"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija el año como plazo para la recuperación posesoria.",
+    "explicación": "El tema fija el año como plazo para la recuperación posesoria.",
     "referencia": "II.9 · 4.2.3 Recuperación de oficio (recuperación posesoria)"
   },
   {
@@ -136,7 +136,7 @@
       "regular la jornada laboral"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así esta potestad.",
+    "explicación": "El tema define así esta potestad.",
     "referencia": "II.9 · 4.2.2 Deslinde"
   },
   {
@@ -150,7 +150,7 @@
       "ningún título habilitante"
     ],
     "correcta": 0,
-    "explicacion": "El tema diferencia el uso común especial del privativo.",
+    "explicación": "El tema diferencia el uso común especial del privativo.",
     "referencia": "II.9 · 5.1 Aprovechamiento de los bienes de uso público"
   },
   {
@@ -164,7 +164,7 @@
       "concesión administrativa a empresas privadas"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera esos tres modos.",
+    "explicación": "El tema enumera esos tres modos.",
     "referencia": "II.9 · 5.2 Aprovechamiento de los bienes comunales"
   },
   {
@@ -178,7 +178,7 @@
       "el precio se fija libremente sin límites"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo admite tras dos subastas desiertas, entre otros supuestos.",
+    "explicación": "El tema lo admite tras dos subastas desiertas, entre otros supuestos.",
     "referencia": "II.9 · 6.3 Enajenación directa (sin subasta)"
   },
   {
@@ -192,7 +192,7 @@
       "100 % del valor del bien de mayor valor"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija ese límite del 40 %.",
+    "explicación": "El tema fija ese límite del 40 %.",
     "referencia": "II.9 · 6.4 Permuta"
   },
   {
@@ -206,7 +206,7 @@
       "solo partidos políticos"
     ],
     "correcta": 0,
-    "explicacion": "El tema limita la cesión a esos destinatarios.",
+    "explicación": "El tema limita la cesión a esos destinatarios.",
     "referencia": "II.9 · 6.5 Cesión gratuita"
   },
   {
@@ -214,18 +214,18 @@
     "pregunta": "El inventario de bienes de la entidad local sirve para:",
     "opciones": [
       "identificar y controlar su patrimonio",
-      "aprobar sanciones urbanisticas",
+      "aprobar sanciones urbanísticas",
       "nombrar funcionarios interinos",
       "tramitar recursos contenciosos"
     ],
     "correcta": 0,
-    "explicacion": "El inventario es un instrumento basico de conocimiento y gestion patrimonial.",
+    "explicación": "El inventario es un instrumento básico de conocimiento y gestion patrimonial.",
     "referencia": "II.9 · Inventario de bienes",
     "tema": 18
   },
   {
     "id": "topup-18-05",
-    "pregunta": "Los bienes de dominio publico se caracterizan, entre otras notas, por ser:",
+    "pregunta": "Los bienes de dominio público se caracterizan, entre otras notas, por ser:",
     "opciones": [
       "inalienables, imprescriptibles e inembargables",
       "libremente permutables sin expediente",
@@ -233,13 +233,13 @@
       "siempre cedibles a titulo oneroso"
     ],
     "correcta": 0,
-    "explicacion": "Son las notas clasicas del dominio publico local.",
-    "referencia": "II.9 · Bienes de dominio publico",
+    "explicación": "Son las notas clasicas del dominio público local.",
+    "referencia": "II.9 · Bienes de dominio público",
     "tema": 18
   },
   {
     "id": "refine-18-01",
-    "pregunta": "Los bienes de dominio publico local se caracterizan, entre otras notas, por ser:",
+    "pregunta": "Los bienes de dominio público local se caracterizan, entre otras notas, por ser:",
     "opciones": [
       "inalienables, inembargables e imprescriptibles",
       "siempre arrendables sin limitaciones",
@@ -247,36 +247,36 @@
       "libremente enajenables por decreto de alcaldia"
     ],
     "correcta": 0,
-    "referencia": "II.9 · Bienes de dominio publico local",
-    "explicacion": "El dominio publico se protege mediante esas notas clasicas de indisponibilidad reforzada.",
+    "referencia": "II.9 · Bienes de dominio público local",
+    "explicación": "El dominio público se protege mediante esas notas clasicas de indisponibilidad reforzada.",
     "tema": 18
   },
   {
     "id": "refine-18-02",
-    "pregunta": "La afectacion de un bien local significa:",
+    "pregunta": "La afectación de un bien local significa:",
     "opciones": [
-      "su destino a un uso general o a un servicio publico",
+      "su destino a un uso general o a un servicio público",
       "su venta forzosa en subasta",
-      "su incorporacion al patrimonio sindical",
-      "su desinscripcion del inventario municipal"
+      "su incorporación al patrimonio sindical",
+      "su desinscripción del inventario municipal"
     ],
     "correcta": 0,
-    "referencia": "II.9 · Afectacion y desafectacion",
-    "explicacion": "La afectacion transforma el destino juridico del bien hacia el dominio publico o servicio publico.",
+    "referencia": "II.9 · Afectación y desafectación",
+    "explicación": "La afectación transforma el destino jurídico del bien hacia el dominio público o servicio público.",
     "tema": 18
   },
   {
     "id": "refine-18-03",
     "pregunta": "Los bienes patrimoniales de las entidades locales son aquellos que:",
     "opciones": [
-      "no estan destinados directamente a uso publico ni afectados a un servicio publico",
+      "no estan destinados directamente a uso público ni afectados a un servicio público",
       "pertenecen siempre a los vecinos por turnos",
-      "gozan necesariamente del mismo regimen que el dominio publico",
+      "gozan necesariamente del mismo régimen que el dominio público",
       "solo pueden ser bienes muebles"
     ],
     "correcta": 0,
     "referencia": "II.9 · Bienes patrimoniales",
-    "explicacion": "Los bienes patrimoniales se definen por exclusion respecto del dominio publico.",
+    "explicación": "Los bienes patrimoniales se definen por exclusión respecto del dominio público.",
     "tema": 18
   }
 ]

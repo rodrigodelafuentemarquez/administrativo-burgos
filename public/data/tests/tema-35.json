@@ -2,44 +2,44 @@
   {
     "id": "pdf-2025-burgos-q47",
     "tema": 35,
-    "pregunta": "El servicio 010 de atencion ciudadana realizara los siguientes servicios. Indique cual NO es correcto:",
+    "pregunta": "El servicio 010 de atención ciudadana realizará los siguientes servicios. Indique cual NO es correcto:",
     "opciones": [
-      "Dar informacion municipal y de la ciudad de Burgos agil y verazmente",
+      "Dar información municipal y de la ciudad de Burgos agil y verazmente",
       "Canalizar avisos o incidencias, reclamaciones y sugerencias",
-      "Realizacion de diversos tramites municipales",
-      "Expedicion de copias selladas de los documentos originales que aporten los interesados"
+      "Realización de diversos trámites municipales",
+      "Expedición de copias selladas de los documentos originales que aporten los interesados"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 47",
-    "explicacion": "La expedicion de copias selladas no forma parte del servicio 010 de atencion ciudadana."
+    "explicación": "La expedición de copias selladas no forma parte del servicio 010 de atención ciudadana."
   },
   {
     "id": "pdf-2025-burgos-q49-reg",
     "tema": 35,
-    "pregunta": "Cuando se entiende presentado un documento en un registro, si se realizo la presentacion en un dia inhabil?",
+    "pregunta": "Cuándo se entiende presentado un documento en un registro, si se realizo la presentación en un día inhábil?",
     "opciones": [
-      "A la primera hora habil del primer dia habil siguiente",
-      "A la primera hora del primer dia habil siguiente",
-      "En el dia inhabil de su presentacion",
-      "No se pueden presentar documentos en un dia inhabil"
+      "A la primera hora habil del primer día habil siguiente",
+      "A la primera hora del primer día habil siguiente",
+      "En el día inhábil de su presentación",
+      "No se pueden presentar documentos en un día inhábil"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 49",
-    "explicacion": "La presentacion en dia inhabil se entiende realizada en la primera hora habil del primer dia habil siguiente, salvo norma especial."
+    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora habil del primer día habil siguiente, salvo norma especial."
   },
   {
     "id": "pdf-2025-burgos-q58",
     "tema": 35,
-    "pregunta": "Cual de los siguientes es un documento de un particular dirigido a la Administracion?",
+    "pregunta": "Cuál de los siguientes es un documento de un particular dirigido a la Administración?",
     "opciones": [
       "Solicitud",
       "Informe",
       "Traslado",
-      "Certificacion"
+      "Certificación"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 58",
-    "explicacion": "La solicitud es el documento tipico del particular dirigido a la Administracion."
+    "explicación": "La solicitud es el documento tipico del particular dirigido a la Administración."
   },
   {
     "id": "t31-p001",
@@ -52,7 +52,7 @@
       "la aprobación de reglamentos"
     ],
     "correcta": 0,
-    "explicacion": "El tema define así el registro.",
+    "explicación": "El tema define así el registro.",
     "referencia": "V.4 · 1.1 Concepto"
   },
   {
@@ -66,7 +66,7 @@
       "Libretas de direcciones"
     ],
     "correcta": 0,
-    "explicacion": "El tema prevé registros auxiliares bajo dependencia del general.",
+    "explicación": "El tema prevé registros auxiliares bajo dependencia del general.",
     "referencia": "V.4 · 1.2 El Registro General y los Registros Auxiliares"
   },
   {
@@ -80,7 +80,7 @@
       "la contratación de personal"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge la función de distribución.",
+    "explicación": "El tema recoge la función de distribución.",
     "referencia": "V.4 · 1.3 Funciones del Registro"
   },
   {
@@ -94,7 +94,7 @@
       "solo por la mañana"
     ],
     "correcta": 0,
-    "explicacion": "El tema señala disponibilidad permanente.",
+    "explicación": "El tema señala disponibilidad permanente.",
     "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico"
   },
   {
@@ -108,7 +108,7 @@
       "el día que indique el interesado"
     ],
     "correcta": 0,
-    "explicacion": "El tema fija esa regla general.",
+    "explicación": "El tema fija esa regla general.",
     "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico"
   },
   {
@@ -122,7 +122,7 @@
       "una oficina de correos digital"
     ],
     "correcta": 0,
-    "explicacion": "El tema la define como dirección electrónica de la Administración.",
+    "explicación": "El tema la define como dirección electrónica de la Administración.",
     "referencia": "V.4 · 2.3 La Sede Electrónica"
   },
   {
@@ -136,7 +136,7 @@
       "solo la ventanilla del secretario"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye el registro electrónico del órgano destinatario.",
+    "explicación": "El tema incluye el registro electrónico del órgano destinatario.",
     "referencia": "V.4 · 3.1 Lugares de presentación (art. 16.4 LPACAP)"
   },
   {
@@ -150,7 +150,7 @@
       "entidades deportivas sin ánimo de lucro en todo caso"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo impone a las personas jurídicas.",
+    "explicación": "El tema lo impone a las personas jurídicas.",
     "referencia": "V.4 · 3.2 Obligación de relacionarse electrónicamente con la Administración"
   },
   {
@@ -164,7 +164,7 @@
       "la firma del alcalde"
     ],
     "correcta": 0,
-    "explicacion": "El tema exige esos tres elementos de contenido.",
+    "explicación": "El tema exige esos tres elementos de contenido.",
     "referencia": "V.4 · 3.3 Requisitos formales de los escritos y solicitudes"
   },
   {
@@ -178,7 +178,7 @@
       "nunca"
     ],
     "correcta": 0,
-    "explicacion": "El tema reserva la posibilidad a quienes no estén obligados electrónicamente.",
+    "explicación": "El tema reserva la posibilidad a quienes no estén obligados electrónicamente.",
     "referencia": "V.4 · 3.5 Presentación de documentos por personas físicas en soporte papel"
   },
   {
@@ -192,77 +192,77 @@
       "el portal de transparencia"
     ],
     "correcta": 0,
-    "explicacion": "El tema lo define así.",
+    "explicación": "El tema lo define así.",
     "referencia": "V.4 · 6. El principio de ventanilla única"
   },
   {
     "id": "topup-35-02",
-    "pregunta": "Si una persona fisica no obligada a relacionarse electronicamente carece de medios, la oficina puede prestarle asistencia mediante:",
+    "pregunta": "Si una persona física no obligada a relacionarse electronicamente carece de medios, la oficina puede prestarle asistencia mediante:",
     "opciones": [
       "funcionario habilitado en los supuestos legales",
       "simple entrega del expediente a un tercero",
-      "eliminacion del tramite de firma",
-      "sustitucion del interesado por el alcalde"
+      "eliminación del trámite de firma",
+      "sustitución del interesado por el alcalde"
     ],
     "correcta": 0,
-    "explicacion": "La ley permite asistencia mediante funcionario habilitado con consentimiento.",
-    "referencia": "V.4 · Asistencia electronica",
+    "explicación": "La ley permite asistencia mediante funcionario habilitado con consentimiento.",
+    "referencia": "V.4 · Asistencia electrónica",
     "tema": 35
   },
   {
     "id": "topup-35-05",
-    "pregunta": "La comprobacion de la representacion es especialmente importante cuando el interesado pretende:",
+    "pregunta": "La comprobación de la representación es especialmente importante cuando el interesado pretende:",
     "opciones": [
       "interponer un recurso o renunciar a derechos en nombre de otra persona",
-      "pedir informacion general anonima",
+      "pedir información general anonima",
       "consultar el horario de una oficina",
       "leer un bando ya publicado"
     ],
     "correcta": 0,
-    "explicacion": "No toda actuacion admite la misma flexibilidad en materia de representacion.",
-    "referencia": "V.4 · Representacion y apoderamientos",
+    "explicación": "No toda actuación admite la misma flexibilidad en materia de representación.",
+    "referencia": "V.4 · Representación y apoderamientos",
     "tema": 35
   },
   {
     "id": "refine-35-01",
-    "pregunta": "Las oficinas de asistencia en materia de registros cumplen una funcion que va mas alla del mero asiento registral porque tambien pueden:",
+    "pregunta": "Las oficinas de asistencia en materia de registros cumplen una función que va mas alla del mero asiento registral porque tambien pueden:",
     "opciones": [
-      "asistir en el uso de medios electronicos y en la presentacion de solicitudes",
+      "asistir en el uso de medios electrónicos y en la presentación de solicitudes",
       "resolver recursos contencioso-administrativos",
-      "sustituir al organo instructor del procedimiento",
+      "sustituir al órgano instructor del procedimiento",
       "aprobar el presupuesto municipal"
     ],
     "correcta": 0,
     "referencia": "V.4 · Funciones de las oficinas de asistencia",
-    "explicacion": "Su papel incluye asistencia a la ciudadania para relacionarse con la Administracion, especialmente por medios electronicos.",
+    "explicación": "Su papel incluye asistencia a la ciudadania para relacionarse con la Administración, especialmente por medios electrónicos.",
     "tema": 35
   },
   {
     "id": "refine-35-02",
-    "pregunta": "Si una persona fisica no obligada a relacionarse electronicamente acude sin medios tecnicos, la oficina de asistencia puede:",
+    "pregunta": "Si una persona física no obligada a relacionarse electronicamente acude sin medios tecnicos, la oficina de asistencia puede:",
     "opciones": [
-      "prestar ayuda para presentar electronicamente la solicitud o documentacion",
-      "rechazar sin mas la presentacion",
+      "prestar ayuda para presentar electronicamente la solicitud o documentación",
+      "rechazar sin mas la presentación",
       "obligarle a contratar un gestor privado",
       "resolver directamente el fondo del expediente"
     ],
     "correcta": 0,
     "referencia": "V.4 · Asistencia a la ciudadania",
-    "explicacion": "La oficina esta precisamente para facilitar la relacion electronica a quien no dispone de medios o conocimientos suficientes.",
+    "explicación": "La oficina esta precisamente para facilitar la relación electrónica a quien no dispone de medios o conocimientos suficientes.",
     "tema": 35
   },
   {
     "id": "refine-35-03",
     "pregunta": "La constancia exacta de fecha y hora en el asiento registral resulta especialmente relevante por sus efectos sobre:",
     "opciones": [
-      "plazos, prelacion y acreditacion de la presentacion",
-      "clasificacion presupuestaria del gasto",
+      "plazos, prelación y acreditación de la presentación",
+      "clasificación presupuestaria del gasto",
       "competencia del Tribunal de Cuentas",
       "nombramiento de tenientes de alcalde"
     ],
     "correcta": 0,
     "referencia": "V.4 · Funcionamiento registral",
-    "explicacion": "Fecha y hora son datos nucleares para acreditar la presentacion y sus efectos procedimentales.",
+    "explicación": "Fecha y hora son datos nucleares para acreditar la presentación y sus efectos procedimentales.",
     "tema": 35
   },
   {
@@ -271,12 +271,12 @@
     "opciones": [
       "acredita la identidad y fidelidad respecto del original en los terminos legalmente previstos",
       "siempre sustituye al original a todos los efectos sin limite",
-      "solo puede existir en papel y nunca en formato electronico",
-      "no requiere actuacion administrativa alguna para su expedicion"
+      "solo puede existir en papel y nunca en formato electrónico",
+      "no requiere actuación administrativa alguna para su expedición"
     ],
     "correcta": 0,
-    "referencia": "V.4 · Copias y digitalizacion",
-    "explicacion": "La copia autentica incorpora un plus de garantia juridica sobre su correspondencia con el original.",
+    "referencia": "V.4 · Copias y digitalización",
+    "explicación": "La copia autentica incorpora un plus de garantía jurídica sobre su correspondencia con el original.",
     "tema": 35
   }
 ]

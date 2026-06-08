@@ -2,30 +2,30 @@
   {
     "id": "pdf-2023-burgos-q10",
     "tema": 3,
-    "pregunta": "Como se organiza territorialmente el Estado, segun el articulo 137 de la Constitucion Espanola?",
+    "pregunta": "Cómo se organiza territorialmente el Estado, segun el artículo 137 de la Constitución Española?",
     "opciones": [
-      "En municipios, en provincias y en las Comunidades Autonomas que se constituyan",
-      "En municipios, mancomunidades, provincias, territorios insulares y Comunidades Autonomas",
-      "En entidades locales y autonomicas",
-      "En municipios, provincias, territorios insulares y en las Comunidades Autonomas que se constituyan"
+      "En municipios, en provincias y en las Comunidades Autónomas que se constituyan",
+      "En municipios, mancomunidades, provincias, territorios insulares y Comunidades Autónomas",
+      "En entidades locales y autonómicas",
+      "En municipios, provincias, territorios insulares y en las Comunidades Autónomas que se constituyan"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 10",
-    "explicacion": "El articulo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autonomas que se constituyan."
+    "explicación": "El artículo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autonomas que se constituyan."
   },
   {
     "id": "pdf-2025-burgos-q09",
     "tema": 3,
-    "pregunta": "Cualquier alteracion de los limites de una provincia debera ser aprobada por:",
+    "pregunta": "Cualquier alteración de los limites de una provincia debera ser aprobada por:",
     "opciones": [
-      "Ley Organica de las Cortes Generales",
+      "Ley Orgánica de las Cortes Generales",
       "Ley Ordinaria de las Cortes Generales",
       "Decreto Ley del Gobierno",
-      "Acuerdo entre las Cortes Generales y la Comunidad Autonoma afectada"
+      "Acuerdo entre las Cortes Generales y la Comunidad Autónoma afectada"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 9",
-    "explicacion": "La alteracion de los limites provinciales requiere ley organica conforme al articulo 141 CE."
+    "explicación": "La alteración de los limites provinciales requiere ley orgánica conforme al artículo 141 CE."
   },
   {
     "id": "t07-p001",
@@ -38,7 +38,7 @@
       "municipios, distritos y barrios"
     ],
     "correcta": 0,
-    "explicacion": "El tema reproduce el art. 137 CE y la organización territorial en municipios, provincias y comunidades autónomas.",
+    "explicación": "El tema reproduce el art. 137 CE y la organización territorial en municipios, provincias y comunidades autónomas.",
     "referencia": "I.3 · 1.1 El modelo constitucional (art. 137 CE)"
   },
   {
@@ -52,7 +52,7 @@
       "La prevalencia del derecho autonómico en todo caso"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica el art. 139 CE como la garantía de igualdad de los españoles en todo el territorio.",
+    "explicación": "El tema identifica el art. 139 CE como la garantía de igualdad de los españoles en todo el territorio.",
     "referencia": "I.3 · 1.4 Igualdad de los españoles en todo el territorio (art. 139 CE)"
   },
   {
@@ -66,7 +66,7 @@
       "Art. 155 CE"
     ],
     "correcta": 1,
-    "explicacion": "El tema señala que el art. 149 CE contiene la lista de materias de competencia exclusiva del Estado.",
+    "explicación": "El tema señala que el art. 149 CE contiene la lista de materias de competencia exclusiva del Estado.",
     "referencia": "I.3 · 3.1 Las tres listas constitucionales"
   },
   {
@@ -74,13 +74,13 @@
     "tema": 3,
     "pregunta": "¿Qué se entiende por cláusula de prevalencia?",
     "opciones": [
-      "Que el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
-      "Que el Derecho autonómico prevalece siempre sobre el estatal",
-      "Que el Derecho europeo suple a todos los demás",
-      "Que las ordenanzas locales prevalecen sobre la ley"
+      "Qué el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
+      "Qué el Derecho autonómico prevalece siempre sobre el estatal",
+      "Qué el Derecho europeo suple a todos los demás",
+      "Qué las ordenanzas locales prevalecen sobre la ley"
     ],
     "correcta": 0,
-    "explicacion": "El tema recoge la prevalencia del Derecho estatal en caso de conflicto, en los términos del art. 149.3 CE.",
+    "explicación": "El tema recoge la prevalencia del Derecho estatal en caso de conflicto, en los términos del art. 149.3 CE.",
     "referencia": "I.3 · 3.5 Cláusula de prevalencia y supletoriedad"
   },
   {
@@ -94,7 +94,7 @@
       "la iniciativa legislativa popular"
     ],
     "correcta": 1,
-    "explicacion": "El tema afirma que las leyes de armonización se dictan cuando así lo exija el interés general.",
+    "explicación": "El tema afirma que las leyes de armonización se dictan cuando así lo exija el interés general.",
     "referencia": "I.3 · 3.6 Cláusula de armonización (art. 150.3 CE)"
   },
   {
@@ -108,7 +108,7 @@
       "La suspensión del Congreso"
     ],
     "correcta": 1,
-    "explicacion": "El tema identifica el art. 155 CE con el mecanismo de coerción estatal sobre una Comunidad Autónoma.",
+    "explicación": "El tema identifica el art. 155 CE con el mecanismo de coerción estatal sobre una Comunidad Autónoma.",
     "referencia": "I.3 · 4.1 El art. 155 CE"
   },
   {
@@ -116,13 +116,13 @@
     "tema": 3,
     "pregunta": "¿Qué permiten las leyes marco del art. 150.1 CE?",
     "opciones": [
-      "Que las CC.AA. dicten normas legislativas en materias de competencia estatal, dentro de los principios y directrices fijados",
-      "Que el Estado transfiera competencias propias mediante ley orgánica",
-      "Que el Estado armonice las disposiciones autonómicas sin límite material",
-      "Que las CC.AA. asuman la competencia exclusiva del Estado sobre relaciones internacionales"
+      "Qué las CC.AA. dicten normas legislativas en materias de competencia estatal, dentro de los principios y directrices fijados",
+      "Qué el Estado transfiera competencias propias mediante ley orgánica",
+      "Qué el Estado armonice las disposiciones autonómicas sin límite material",
+      "Qué las CC.AA. asuman la competencia exclusiva del Estado sobre relaciones internacionales"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que las leyes marco permiten a las CC.AA. dictar normas legislativas en materias de competencia estatal, dentro de los principios y directrices fijados por las Cortes.",
+    "explicación": "El tema indica que las leyes marco permiten a las CC.AA. dictar normas legislativas en materias de competencia estatal, dentro de los principios y directrices fijados por las Cortes.",
     "referencia": "I.3 · 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)"
   },
   {
@@ -136,7 +136,7 @@
       "La financiación de los partidos políticos"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que el FCI sirve para corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad.",
+    "explicación": "El tema indica que el FCI sirve para corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad.",
     "referencia": "I.3 · 5. La financiación autonómica (arts. 156-158 CE)"
   },
   {
@@ -150,7 +150,7 @@
       "las relaciones internacionales"
     ],
     "correcta": 0,
-    "explicacion": "El tema incluye la organización de las instituciones de autogobierno entre las materias del art. 148 CE que las CC.AA. pueden asumir.",
+    "explicación": "El tema incluye la organización de las instituciones de autogobierno entre las materias del art. 148 CE que las CC.AA. pueden asumir.",
     "referencia": "I.3 · 3.3 Las competencias de las CC.AA. (art. 148 CE)"
   },
   {
@@ -164,7 +164,7 @@
       "La recaudación del IVA estatal en exclusiva"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera entre los recursos autonómicos el producto de las operaciones de crédito.",
+    "explicación": "El tema enumera entre los recursos autonómicos el producto de las operaciones de crédito.",
     "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)"
   },
   {
@@ -178,7 +178,7 @@
       "Art. 155 CE"
     ],
     "correcta": 0,
-    "explicacion": "El tema identifica el art. 148 CE con las materias susceptibles de asunción autonómica.",
+    "explicación": "El tema identifica el art. 148 CE con las materias susceptibles de asunción autonómica.",
     "referencia": "I.3 · 3.1 Las tres listas constitucionales"
   },
   {
@@ -192,7 +192,7 @@
       "Asistencia social"
     ],
     "correcta": 2,
-    "explicacion": "El tema incluye defensa y Fuerzas Armadas dentro de las competencias exclusivas del Estado.",
+    "explicación": "El tema incluye defensa y Fuerzas Armadas dentro de las competencias exclusivas del Estado.",
     "referencia": "I.3 · 3.2 Las competencias exclusivas del Estado (art. 149.1 CE)"
   },
   {
@@ -206,7 +206,7 @@
       "Reglamento de las Cortes"
     ],
     "correcta": 0,
-    "explicacion": "El tema indica que la transferencia o delegación de competencias propias del Estado a las CC.AA. se hace mediante Ley Orgánica.",
+    "explicación": "El tema indica que la transferencia o delegación de competencias propias del Estado a las CC.AA. se hace mediante Ley Orgánica.",
     "referencia": "I.3 · 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)"
   },
   {
@@ -220,7 +220,7 @@
       "Consejo de Estado"
     ],
     "correcta": 1,
-    "explicacion": "El tema establece que el Gobierno debe requerir al Presidente autonómico y, si no hay cumplimiento, necesita acuerdo del Senado por mayoría absoluta.",
+    "explicación": "El tema establece que el Gobierno debe requerir al Presidente autonómico y, si no hay cumplimiento, necesita acuerdo del Senado por mayoría absoluta.",
     "referencia": "I.3 · 4.1 El art. 155 CE — Coerción estatal"
   },
   {
@@ -234,49 +234,49 @@
       "Los derechos arancelarios de aduana"
     ],
     "correcta": 0,
-    "explicacion": "El tema enumera el producto de las operaciones de crédito como recurso autonómico.",
+    "explicación": "El tema enumera el producto de las operaciones de crédito como recurso autonómico.",
     "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)"
   },
   {
     "id": "t07-p016",
     "tema": 3,
-    "pregunta": "¿A quien corresponde la representacion ordinaria del Estado en la Comunidad Autonoma conforme al art. 152 CE?",
+    "pregunta": "¿A quien corresponde la representación ordinaria del Estado en la Comunidad Autónoma conforme al art. 152 CE?",
     "opciones": [
       "Al Delegado del Gobierno",
       "Al Ministro competente en materia territorial",
-      "Al Presidente de la Comunidad Autonoma",
+      "Al Presidente de la Comunidad Autónoma",
       "Al Presidente del Gobierno"
     ],
     "correcta": 2,
-    "explicacion": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
-    "referencia": "I.3 · 2.4 Organizacion institucional de las CC.AA. (art. 152 CE)"
+    "explicación": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
+    "referencia": "I.3 · 2.4 Organización institucional de las CC.AA. (art. 152 CE)"
   },
   {
     "id": "topup-03-01",
-    "pregunta": "La iniciativa del proceso autonomico por la via del articulo 143 CE corresponde, entre otros, a:",
+    "pregunta": "La iniciativa del proceso autonómico por la via del artículo 143 CE corresponde, entre otros, a:",
     "opciones": [
       "las Diputaciones interesadas y a las dos terceras partes de los municipios afectados",
-      "solo al Gobierno de la Nacion",
+      "solo al Gobierno de la Nación",
       "exclusivamente al Senado",
       "a cualquier Ayuntamiento por mayoria simple"
     ],
     "correcta": 0,
-    "explicacion": "La via ordinaria del art. 143 CE exige iniciativa provincial o insular y una mayoria reforzada de municipios.",
-    "referencia": "I.3 · Proceso de constitucion de las comunidades autonomas",
+    "explicación": "La via ordinaria del art. 143 CE exige iniciativa provincial o insular y una mayoria reforzada de municipios.",
+    "referencia": "I.3 · Proceso de constitución de las comunidades autonomas",
     "tema": 3
   },
   {
     "id": "topup-03-02",
     "pregunta": "Las materias que el Estado puede asumir en exclusiva se enumeran de forma principal en el:",
     "opciones": [
-      "articulo 137 CE",
-      "articulo 148 CE",
-      "articulo 149 CE",
-      "articulo 150 CE"
+      "artículo 137 CE",
+      "artículo 148 CE",
+      "artículo 149 CE",
+      "artículo 150 CE"
     ],
     "correcta": 2,
-    "explicacion": "El art. 149 CE recoge la lista principal de competencias exclusivas estatales.",
-    "referencia": "I.3 · Distribucion de competencias",
+    "explicación": "El art. 149 CE recoge la lista principal de competencias exclusivas estatales.",
+    "referencia": "I.3 · Distribución de competencias",
     "tema": 3
   }
 ]
