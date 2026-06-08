@@ -210,48 +210,6 @@
     "referencia": "II.9 · 6.5 Cesión gratuita"
   },
   {
-    "id": "topup-18-01",
-    "pregunta": "Los bienes patrimoniales de las entidades locales son aquellos que:",
-    "opciones": [
-      "no estan afectados a uso o servicio publico",
-      "siempre son comunales",
-      "nunca pueden enajenarse",
-      "se destinan exclusivamente a parques y calles"
-    ],
-    "correcta": 0,
-    "explicacion": "Los bienes patrimoniales carecen de la afectacion propia del dominio publico.",
-    "referencia": "II.9 · Bienes patrimoniales locales",
-    "tema": 18
-  },
-  {
-    "id": "topup-18-02",
-    "pregunta": "La afectacion supone:",
-    "opciones": [
-      "atribuir un bien a un uso o servicio publico",
-      "vender un inmueble municipal",
-      "inscribir un vehiculo en el padron",
-      "delegar competencias en una mancomunidad"
-    ],
-    "correcta": 0,
-    "explicacion": "La afectacion incorpora un bien al dominio publico por su destino.",
-    "referencia": "II.9 · Afectacion y desafectacion",
-    "tema": 18
-  },
-  {
-    "id": "topup-18-03",
-    "pregunta": "La desafectacion implica:",
-    "opciones": [
-      "que el bien deja de estar destinado a uso o servicio publico",
-      "la cesion gratuita de todos los bienes municipales",
-      "la aprobacion del presupuesto",
-      "la extincion del termino municipal"
-    ],
-    "correcta": 0,
-    "explicacion": "La desafectacion permite pasar del dominio publico a la categoria patrimonial.",
-    "referencia": "II.9 · Afectacion y desafectacion",
-    "tema": 18
-  },
-  {
     "id": "topup-18-04",
     "pregunta": "El inventario de bienes de la entidad local sirve para:",
     "opciones": [
@@ -277,6 +235,48 @@
     "correcta": 0,
     "explicacion": "Son las notas clasicas del dominio publico local.",
     "referencia": "II.9 · Bienes de dominio publico",
+    "tema": 18
+  },
+  {
+    "id": "refine-18-01",
+    "pregunta": "Los bienes de dominio publico local se caracterizan, entre otras notas, por ser:",
+    "opciones": [
+      "inalienables, inembargables e imprescriptibles",
+      "siempre arrendables sin limitaciones",
+      "susceptibles de embargo por cualquier deuda tributaria",
+      "libremente enajenables por decreto de alcaldia"
+    ],
+    "correcta": 0,
+    "referencia": "II.9 · Bienes de dominio publico local",
+    "explicacion": "El dominio publico se protege mediante esas notas clasicas de indisponibilidad reforzada.",
+    "tema": 18
+  },
+  {
+    "id": "refine-18-02",
+    "pregunta": "La afectacion de un bien local significa:",
+    "opciones": [
+      "su destino a un uso general o a un servicio publico",
+      "su venta forzosa en subasta",
+      "su incorporacion al patrimonio sindical",
+      "su desinscripcion del inventario municipal"
+    ],
+    "correcta": 0,
+    "referencia": "II.9 · Afectacion y desafectacion",
+    "explicacion": "La afectacion transforma el destino juridico del bien hacia el dominio publico o servicio publico.",
+    "tema": 18
+  },
+  {
+    "id": "refine-18-03",
+    "pregunta": "Los bienes patrimoniales de las entidades locales son aquellos que:",
+    "opciones": [
+      "no estan destinados directamente a uso publico ni afectados a un servicio publico",
+      "pertenecen siempre a los vecinos por turnos",
+      "gozan necesariamente del mismo regimen que el dominio publico",
+      "solo pueden ser bienes muebles"
+    ],
+    "correcta": 0,
+    "referencia": "II.9 · Bienes patrimoniales",
+    "explicacion": "Los bienes patrimoniales se definen por exclusion respecto del dominio publico.",
     "tema": 18
   }
 ]

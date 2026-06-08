@@ -210,20 +210,6 @@
     "referencia": "II.11 · 7. Régimen de sesiones de las Comisiones Informativas"
   },
   {
-    "id": "topup-20-01",
-    "pregunta": "El orden del dia de un organo colegiado local sirve para:",
-    "opciones": [
-      "fijar los asuntos que seran tratados en la sesion",
-      "nombrar automaticamente al secretario",
-      "aprobar el presupuesto sin debate",
-      "sustituir al acta"
-    ],
-    "correcta": 0,
-    "explicacion": "La convocatoria debe incluir el orden del dia de los asuntos a tratar.",
-    "referencia": "II.11 · Convocatorias y orden del dia",
-    "tema": 20
-  },
-  {
     "id": "topup-20-02",
     "pregunta": "Como regla general, no deben tratarse asuntos no incluidos en el orden del dia salvo:",
     "opciones": [
@@ -238,34 +224,6 @@
     "tema": 20
   },
   {
-    "id": "topup-20-03",
-    "pregunta": "El quorum de constitucion de un organo colegiado se refiere a:",
-    "opciones": [
-      "la asistencia minima necesaria para sesionar validamente",
-      "la duracion maxima de la reunion",
-      "el numero de mociones presentadas",
-      "el importe del presupuesto"
-    ],
-    "correcta": 0,
-    "explicacion": "Sin quorum suficiente el organo no puede constituirse validamente.",
-    "referencia": "II.11 · Requisitos de constitucion",
-    "tema": 20
-  },
-  {
-    "id": "topup-20-04",
-    "pregunta": "El voto de calidad del presidente opera normalmente en caso de:",
-    "opciones": [
-      "empate",
-      "ausencia del secretario",
-      "falta de orden del dia",
-      "intervencion del Tribunal Supremo"
-    ],
-    "correcta": 0,
-    "explicacion": "El voto de calidad deshace empates cuando asi lo preve la norma aplicable.",
-    "referencia": "II.11 · Votaciones",
-    "tema": 20
-  },
-  {
     "id": "topup-20-05",
     "pregunta": "El acta del organo colegiado tiene como finalidad principal:",
     "opciones": [
@@ -277,6 +235,48 @@
     "correcta": 0,
     "explicacion": "El acta documenta formalmente el desarrollo y acuerdos de la sesion.",
     "referencia": "II.11 · Funcionamiento de organos colegiados",
+    "tema": 20
+  },
+  {
+    "id": "refine-20-01",
+    "pregunta": "El orden del dia de un organo colegiado local cumple, entre otras, una funcion de:",
+    "opciones": [
+      "delimitar los asuntos sobre los que podran recaer validamente deliberacion y acuerdo",
+      "sustituir al acta de la sesion",
+      "convertir en publicos todos los expedientes reservados",
+      "permitir votar cualquier asunto sin relacion previa"
+    ],
+    "correcta": 0,
+    "referencia": "II.11 · Convocatorias y orden del dia",
+    "explicacion": "El orden del dia concreta y limita los asuntos a tratar, con las excepciones legalmente previstas.",
+    "tema": 20
+  },
+  {
+    "id": "refine-20-02",
+    "pregunta": "La valida constitucion de un organo colegiado local exige comprobar el quorum relativo a:",
+    "opciones": [
+      "asistencia minima legalmente exigida para celebrar sesion y adoptar acuerdos",
+      "porcentaje de ejecucion presupuestaria del area",
+      "numero de expedientes pendientes de secretaria",
+      "porcentaje de participacion ciudadana del barrio"
+    ],
+    "correcta": 0,
+    "referencia": "II.11 · Requisitos para la constitucion",
+    "explicacion": "El quorum se refiere al minimo de asistentes legalmente necesario para sesionar validamente.",
+    "tema": 20
+  },
+  {
+    "id": "refine-20-03",
+    "pregunta": "El voto de calidad del presidente opera, como regla general, en caso de:",
+    "opciones": [
+      "empate en la votacion",
+      "ausencia del secretario",
+      "falta de convocatoria escrita",
+      "aprobacion por unanimidad"
+    ],
+    "correcta": 0,
+    "referencia": "II.11 · Votaciones",
+    "explicacion": "El voto de calidad resuelve el empate cuando el regimen juridico aplicable asi lo previene.",
     "tema": 20
   }
 ]

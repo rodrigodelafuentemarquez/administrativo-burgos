@@ -210,34 +210,6 @@
     "referencia": "III.3 · 4.2 Deberes de los empleados públicos laborales según el TREBEP"
   },
   {
-    "id": "topup-24-01",
-    "pregunta": "En la seleccion del personal laboral al servicio de las Administraciones publicas deben respetarse, entre otros, los principios de:",
-    "opciones": [
-      "igualdad, merito, capacidad y publicidad",
-      "confianza politica y discrecionalidad plena",
-      "antiguedad y afinidad personal",
-      "gratuidad y unanimidad"
-    ],
-    "correcta": 0,
-    "explicacion": "El acceso del personal laboral publico tambien se somete a principios constitucionales y legales.",
-    "referencia": "III.3 · Seleccion de personal laboral",
-    "tema": 24
-  },
-  {
-    "id": "topup-24-02",
-    "pregunta": "El personal laboral al servicio de la Administracion se vincula mediante:",
-    "opciones": [
-      "contrato de trabajo",
-      "acto de regencia",
-      "ley organica",
-      "providencia de apremio"
-    ],
-    "correcta": 0,
-    "explicacion": "Su relacion es contractual, a diferencia del personal funcionario.",
-    "referencia": "III.3 · Personal laboral",
-    "tema": 24
-  },
-  {
     "id": "topup-24-03",
     "pregunta": "Las incompatibilidades del personal laboral publico se rigen, ademas del Estatuto de los Trabajadores, por:",
     "opciones": [
@@ -252,20 +224,6 @@
     "tema": 24
   },
   {
-    "id": "topup-24-04",
-    "pregunta": "Entre los deberes del personal laboral al servicio de las Administraciones publicas se incluye:",
-    "opciones": [
-      "cumplir diligentemente las obligaciones del puesto",
-      "aprobar ordenanzas municipales",
-      "dictar sentencias",
-      "fiscalizar el presupuesto en todo caso"
-    ],
-    "correcta": 0,
-    "explicacion": "Los deberes laborales se complementan con los derivados del servicio publico.",
-    "referencia": "III.3 · Derechos y deberes",
-    "tema": 24
-  },
-  {
     "id": "topup-24-05",
     "pregunta": "El personal laboral no puede ejercer funciones que impliquen:",
     "opciones": [
@@ -277,6 +235,48 @@
     "correcta": 0,
     "explicacion": "Las funciones reservadas a funcionarios no pueden atribuirse libremente al personal laboral.",
     "referencia": "III.3 · Regimen juridico del personal laboral",
+    "tema": 24
+  },
+  {
+    "id": "refine-24-01",
+    "pregunta": "La seleccion del personal laboral al servicio de las Administraciones Publicas debe ajustarse a los principios de:",
+    "opciones": [
+      "igualdad, merito, capacidad y publicidad",
+      "libre designacion absoluta",
+      "designacion directa por el alcalde sin proceso",
+      "antiguedad exclusiva en la Administracion"
+    ],
+    "correcta": 0,
+    "referencia": "III.3 · Seleccion del personal laboral",
+    "explicacion": "Tambien en el personal laboral rigen los principios constitucionales de acceso al empleo publico.",
+    "tema": 24
+  },
+  {
+    "id": "refine-24-02",
+    "pregunta": "El personal laboral al servicio de una Administracion Publica se vincula mediante:",
+    "opciones": [
+      "contrato de trabajo",
+      "nombramiento funcionarial de carrera",
+      "eleccion politica",
+      "convenio de colaboracion interadministrativa"
+    ],
+    "correcta": 0,
+    "referencia": "III.3 · Personal laboral",
+    "explicacion": "La nota definitoria del personal laboral es su vinculacion por contrato de trabajo.",
+    "tema": 24
+  },
+  {
+    "id": "refine-24-03",
+    "pregunta": "Las incompatibilidades del personal laboral publico no se rigen solo por el Estatuto de los Trabajadores, sino tambien por:",
+    "opciones": [
+      "la normativa especifica de incompatibilidades del sector publico",
+      "la ley electoral general",
+      "el reglamento del Pleno municipal",
+      "la ley hipotecaria"
+    ],
+    "correcta": 0,
+    "referencia": "III.3 · Derechos, deberes e incompatibilidades",
+    "explicacion": "El personal laboral publico queda sujeto ademas al regimen especifico de incompatibilidades del sector publico.",
     "tema": 24
   }
 ]

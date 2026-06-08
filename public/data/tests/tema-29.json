@@ -154,62 +154,6 @@
     "referencia": "IV.3 · 3.1 Elaboracion y aprobacion"
   },
   {
-    "id": "topup-29-01",
-    "pregunta": "La fase A del gasto corresponde a la:",
-    "opciones": [
-      "autorizacion del gasto",
-      "ordenacion del pago",
-      "fiscalizacion externa",
-      "aprobacion definitiva del presupuesto"
-    ],
-    "correcta": 0,
-    "explicacion": "La fase A autoriza la realizacion del gasto.",
-    "referencia": "IV.3 · Fases del procedimiento de gasto",
-    "tema": 29
-  },
-  {
-    "id": "topup-29-02",
-    "pregunta": "La fase D del gasto significa:",
-    "opciones": [
-      "disposicion o compromiso del gasto",
-      "devolucion de ingresos indebidos",
-      "desafectacion de bienes",
-      "diligencia de archivo"
-    ],
-    "correcta": 0,
-    "explicacion": "La fase D compromete el gasto frente a un tercero.",
-    "referencia": "IV.3 · Fases del procedimiento de gasto",
-    "tema": 29
-  },
-  {
-    "id": "topup-29-03",
-    "pregunta": "La fase O del procedimiento de gasto se refiere al:",
-    "opciones": [
-      "reconocimiento de la obligacion",
-      "otorgamiento de licencia urbanistica",
-      "orden del dia del Pleno",
-      "registro padronal"
-    ],
-    "correcta": 0,
-    "explicacion": "La obligacion se reconoce cuando la prestacion se acredita correctamente.",
-    "referencia": "IV.3 · Fases del procedimiento de gasto",
-    "tema": 29
-  },
-  {
-    "id": "topup-29-04",
-    "pregunta": "La ordenacion del pago consiste en:",
-    "opciones": [
-      "expedir la orden para hacer efectivo el pago",
-      "aprobar el presupuesto inicial",
-      "crear el credito presupuestario",
-      "sustituir la funcion interventora"
-    ],
-    "correcta": 0,
-    "explicacion": "Ordenar el pago es una fase distinta del reconocimiento de la obligacion.",
-    "referencia": "IV.3 · Ordenacion del pago",
-    "tema": 29
-  },
-  {
     "id": "topup-29-05",
     "pregunta": "Un documento contable ADO acumula:",
     "opciones": [
@@ -238,20 +182,6 @@
     "tema": 29
   },
   {
-    "id": "topup-29-07",
-    "pregunta": "Los anticipos de caja fija se usan principalmente para:",
-    "opciones": [
-      "gastos pequenos y repetitivos",
-      "crear credito extraordinario",
-      "aprobar ordenanzas",
-      "tramitar mociones de censura"
-    ],
-    "correcta": 0,
-    "explicacion": "Son un mecanismo agil para atender gastos periodicos de escasa cuantia.",
-    "referencia": "IV.3 · Procedimiento de gasto",
-    "tema": 29
-  },
-  {
     "id": "topup-29-08",
     "pregunta": "El organo competente para ordenar el pago se determina por:",
     "opciones": [
@@ -277,6 +207,76 @@
     "correcta": 0,
     "explicacion": "No puede reconocerse la obligacion sin soporte justificativo adecuado.",
     "referencia": "IV.3 · Fases del procedimiento de gasto",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-01",
+    "pregunta": "La fase A del gasto expresa el acto por el que se:",
+    "opciones": [
+      "autoriza la realizacion de un gasto determinado",
+      "reconoce la obligacion ya nacida",
+      "ordena materialmente el pago al acreedor",
+      "fiscaliza externamente la cuenta general"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Fases del gasto",
+    "explicacion": "La autorizacion es la primera decision por la que se aprueba la realizacion del gasto.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-02",
+    "pregunta": "La fase D del procedimiento de gasto implica:",
+    "opciones": [
+      "el compromiso o disposicion del gasto frente a un tercero determinado",
+      "la simple existencia de credito en presupuesto",
+      "la ordenacion formal del pago",
+      "la formacion de la cuenta general"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Fases del gasto",
+    "explicacion": "La disposicion compromete el gasto y vincula a la Administracion frente al tercero.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-03",
+    "pregunta": "El reconocimiento de la obligacion supone:",
+    "opciones": [
+      "declarar que existe un credito exigible contra la entidad una vez acreditada la prestacion",
+      "autorizar una modificacion presupuestaria",
+      "aprobar inicialmente la ordenanza fiscal",
+      "resolver un reparo del control externo"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Fases del gasto",
+    "explicacion": "La fase O acredita y reconoce la deuda a favor del acreedor.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-04",
+    "pregunta": "La ordenacion del pago consiste en:",
+    "opciones": [
+      "expedir la orden para satisfacer obligaciones ya reconocidas",
+      "crear credito extraordinario",
+      "aprobar el presupuesto general",
+      "liquidar tributos municipales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Ordenacion del pago",
+    "explicacion": "La ordenacion del pago es posterior al reconocimiento de la obligacion y antecede al pago material.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-05",
+    "pregunta": "Los anticipos de caja fija se emplean principalmente para:",
+    "opciones": [
+      "gastos periodicos o repetitivos de pequena cuantia que requieren agilidad",
+      "cualquier subvencion de capital plurianual",
+      "modificar el presupuesto por falta de credito",
+      "ordenar pagos sin justificante alguno"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Procedimientos especiales de pago",
+    "explicacion": "Son un mecanismo de agilizacion para gastos menores de caracter repetitivo.",
     "tema": 29
   }
 ]

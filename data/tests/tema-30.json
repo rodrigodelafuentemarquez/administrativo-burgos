@@ -70,20 +70,6 @@
     "referencia": "IV.4 · 7.4 El Tribunal de Cuentas"
   },
   {
-    "id": "topup-30-01",
-    "pregunta": "El control interno en la entidad local se ejerce con autonomia funcional por la:",
-    "opciones": [
-      "Intervencion",
-      "Junta de Gobierno Local",
-      "Asesoria Juridica",
-      "Mesa de negociacion"
-    ],
-    "correcta": 0,
-    "explicacion": "La Intervencion local ejerce el control interno con autonomia funcional.",
-    "referencia": "IV.4 · Control interno",
-    "tema": 30
-  },
-  {
     "id": "topup-30-02",
     "pregunta": "La funcion interventora controla principalmente la:",
     "opciones": [
@@ -109,20 +95,6 @@
     "correcta": 0,
     "explicacion": "El control financiero mira mas alla del expediente aislado.",
     "referencia": "IV.4 · Control financiero",
-    "tema": 30
-  },
-  {
-    "id": "topup-30-04",
-    "pregunta": "Una auditoria publica local es una modalidad de:",
-    "opciones": [
-      "control financiero",
-      "potestad sancionadora",
-      "actividad de fomento",
-      "excedencia voluntaria"
-    ],
-    "correcta": 0,
-    "explicacion": "La auditoria publica se integra dentro del control financiero.",
-    "referencia": "IV.4 · Control interno",
     "tema": 30
   },
   {
@@ -168,20 +140,6 @@
     "tema": 30
   },
   {
-    "id": "topup-30-08",
-    "pregunta": "La Cuenta General de la entidad local refleja, entre otros extremos:",
-    "opciones": [
-      "ejecucion presupuestaria y situacion patrimonial",
-      "resultado de las elecciones sindicales",
-      "orden del dia del Pleno",
-      "clasificacion del suelo"
-    ],
-    "correcta": 0,
-    "explicacion": "La Cuenta General resume la gestion economico-financiera de la entidad.",
-    "referencia": "IV.4 · Cuenta General",
-    "tema": 30
-  },
-  {
     "id": "topup-30-09",
     "pregunta": "La Comision Especial de Cuentas interviene en la secuencia de la Cuenta General antes de su:",
     "opciones": [
@@ -224,20 +182,6 @@
     "tema": 30
   },
   {
-    "id": "topup-30-12",
-    "pregunta": "Las Cortes de Castilla y Leon, en relacion con el control externo, reciben:",
-    "opciones": [
-      "informes del Consejo de Cuentas",
-      "liquidaciones del IBI municipal para aprobacion individual",
-      "sentencias del Tribunal Supremo para ejecucion",
-      "nombramientos de interventores"
-    ],
-    "correcta": 0,
-    "explicacion": "Las Cortes ejercen el control politico en el ambito autonómico a partir de esos informes.",
-    "referencia": "IV.4 · Control externo",
-    "tema": 30
-  },
-  {
     "id": "topup-30-13",
     "pregunta": "La responsabilidad contable puede surgir por menoscabo de fondos publicos causado con:",
     "opciones": [
@@ -252,20 +196,6 @@
     "tema": 30
   },
   {
-    "id": "topup-30-14",
-    "pregunta": "Controlar el gasto publico no significa poner trabas, sino asegurar:",
-    "opciones": [
-      "competencia, credito, procedimiento, justificacion y finalidad publica",
-      "solo rapidez en el pago",
-      "solamente la voluntad del organo gestor",
-      "que nunca haya informes"
-    ],
-    "correcta": 0,
-    "explicacion": "El control protege la legalidad y el buen uso de los fondos publicos.",
-    "referencia": "IV.4 · Control del gasto publico",
-    "tema": 30
-  },
-  {
     "id": "topup-30-15",
     "pregunta": "El control financiero permanente se desarrolla habitualmente conforme a un:",
     "opciones": [
@@ -277,6 +207,76 @@
     "correcta": 0,
     "explicacion": "El control financiero se organiza con planificacion y seguimiento de recomendaciones.",
     "referencia": "IV.4 · Control financiero",
+    "tema": 30
+  },
+  {
+    "id": "refine-30-01",
+    "pregunta": "La funcion interventora constituye una modalidad de control interno dirigida a fiscalizar:",
+    "opciones": [
+      "los actos con contenido economico antes o en el momento procedente de su aprobacion",
+      "unicamente la publicidad institucional del Ayuntamiento",
+      "solo la actividad de los grupos politicos municipales",
+      "los delitos penales cometidos por particulares"
+    ],
+    "correcta": 0,
+    "referencia": "IV.4 · Funcion interventora",
+    "explicacion": "La funcion interventora verifica la legalidad presupuestaria y economica de los actos sometidos a fiscalizacion.",
+    "tema": 30
+  },
+  {
+    "id": "refine-30-02",
+    "pregunta": "Si la Intervencion formula un reparo suspensivo, la tramitacion del expediente no debe continuar hasta:",
+    "opciones": [
+      "su solucion o, en su caso, el levantamiento conforme al procedimiento legal",
+      "que finalice el ejercicio presupuestario",
+      "que se publique la Cuenta General",
+      "que intervenga el Tribunal Supremo"
+    ],
+    "correcta": 0,
+    "referencia": "IV.4 · Reparo",
+    "explicacion": "El reparo suspensivo impide proseguir hasta que se solvente o se levante por el cauce legalmente previsto.",
+    "tema": 30
+  },
+  {
+    "id": "refine-30-03",
+    "pregunta": "El control financiero se orienta principalmente a comprobar:",
+    "opciones": [
+      "el funcionamiento economico-financiero de los servicios y entes desde la perspectiva de legalidad, eficacia y eficiencia",
+      "solo la asistencia de concejales a los plenos",
+      "la regularidad de los procesos electorales",
+      "exclusivamente el contenido de los bandos de alcaldia"
+    ],
+    "correcta": 0,
+    "referencia": "IV.4 · Control financiero",
+    "explicacion": "El control financiero tiene un enfoque mas amplio y sistemico que la funcion interventora.",
+    "tema": 30
+  },
+  {
+    "id": "refine-30-04",
+    "pregunta": "La Comision Especial de Cuentas interviene en relacion con:",
+    "opciones": [
+      "el examen e informe previo de la Cuenta General",
+      "la aprobacion de ordenanzas fiscales",
+      "la tramitacion de recursos de reposicion",
+      "la designacion de delegados de prevencion"
+    ],
+    "correcta": 0,
+    "referencia": "IV.4 · Cuenta General y control externo",
+    "explicacion": "La Comision Especial de Cuentas cumple un papel preceptivo en la tramitacion de la Cuenta General.",
+    "tema": 30
+  },
+  {
+    "id": "refine-30-05",
+    "pregunta": "En Castilla y Leon, el organo de control externo especifico sobre el sector publico autonómico y local es el:",
+    "opciones": [
+      "Consejo de Cuentas de Castilla y Leon",
+      "Consejo de Estado",
+      "Tribunal Economico-Administrativo Municipal",
+      "Instituto Nacional de Estadistica"
+    ],
+    "correcta": 0,
+    "referencia": "IV.4 · Control externo",
+    "explicacion": "El Consejo de Cuentas es el organo autonómico de fiscalizacion externa en Castilla y Leon.",
     "tema": 30
   }
 ]

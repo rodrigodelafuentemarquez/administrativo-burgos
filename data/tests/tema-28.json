@@ -210,73 +210,73 @@
     "referencia": "IV.2 · 6.7 Anticipos de tesorería"
   },
   {
-    "id": "topup-28-01",
-    "pregunta": "El principio presupuestario de unidad exige que:",
+    "id": "refine-28-01",
+    "pregunta": "El presupuesto general de la entidad local integra, entre otros documentos, el presupuesto de la propia entidad y el de:",
     "opciones": [
-      "el presupuesto se presente como un documento sistematico e integrado",
-      "solo exista un capitulo de gastos",
-      "no se publiquen modificaciones de credito",
-      "cada servicio apruebe su propio presupuesto independiente"
+      "sus organismos autonomos",
+      "solo sus grupos politicos municipales",
+      "las comunidades de propietarios del municipio",
+      "los partidos concurrentes a elecciones locales"
     ],
     "correcta": 0,
-    "explicacion": "La unidad presupuestaria ordena la vision global e integrada del presupuesto.",
-    "referencia": "IV.2 · Principios presupuestarios",
+    "referencia": "IV.2 · Presupuesto general",
+    "explicacion": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los terminos legales.",
     "tema": 28
   },
   {
-    "id": "topup-28-02",
-    "pregunta": "Los creditos extraordinarios se utilizan cuando:",
+    "id": "refine-28-02",
+    "pregunta": "El credito extraordinario procede cuando:",
     "opciones": [
-      "debe realizarse un gasto especifico que no puede demorarse y no existe credito",
-      "el credito existente es suficiente pero insuficientemente ejecutado",
-      "solo hay que mover credito entre aplicaciones vinculadas",
-      "se quiere aprobar un bando"
+      "debe realizarse un gasto especifico que no puede demorarse y no existe credito para el",
+      "hay credito insuficiente en una aplicacion ya existente",
+      "se redistribuyen saldos sin alterar el presupuesto total",
+      "se prorroga automaticamente el presupuesto"
     ],
     "correcta": 0,
-    "explicacion": "El credito extraordinario cubre gastos inaplazables para los que no existe credito.",
     "referencia": "IV.2 · Modificaciones presupuestarias",
+    "explicacion": "El credito extraordinario crea credito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente.",
     "tema": 28
   },
   {
-    "id": "topup-28-03",
-    "pregunta": "Los suplementos de credito proceden cuando:",
+    "id": "refine-28-03",
+    "pregunta": "El suplemento de credito se utiliza cuando:",
     "opciones": [
-      "el credito existente es insuficiente y el gasto no puede demorarse",
+      "el credito existente resulta insuficiente y no puede demorarse el gasto",
       "no existe ninguna aplicacion presupuestaria previa",
-      "se quiere crear una ordenanza fiscal",
-      "no hay presupuesto aprobado"
+      "se pretende desafectar un bien patrimonial",
+      "se tramita una ordenanza fiscal"
     ],
     "correcta": 0,
-    "explicacion": "El suplemento refuerza una aplicacion ya existente pero insuficiente.",
     "referencia": "IV.2 · Modificaciones presupuestarias",
+    "explicacion": "El suplemento no crea una partida completamente nueva, sino que amplía una insuficiente.",
     "tema": 28
   },
   {
-    "id": "topup-28-04",
-    "pregunta": "Los gastos plurianuales comprometen creditos de:",
+    "id": "refine-28-04",
+    "pregunta": "Las transferencias de credito se caracterizan porque:",
     "opciones": [
-      "ejercicios futuros dentro de los limites legales",
-      "solo el ejercicio corriente",
-      "unicamente el ultimo trimestre",
-      "solo ejercicios ya cerrados"
+      "redistribuyen credito entre aplicaciones sin aumentar el importe global del presupuesto",
+      "incrementan necesariamente el total de gasto aprobado",
+      "solo pueden aplicarse a ingresos patrimoniales",
+      "sustituyen siempre a los anticipos de tesoreria"
     ],
     "correcta": 0,
-    "explicacion": "La ley permite compromisos que alcanzan a ejercicios posteriores con limites.",
-    "referencia": "IV.2 · Gastos plurianuales",
+    "referencia": "IV.2 · Transferencias de credito",
+    "explicacion": "La transferencia mueve credito entre partidas, pero no incrementa el volumen total del presupuesto.",
     "tema": 28
   },
   {
-    "id": "topup-28-05",
-    "pregunta": "La incorporacion de creditos consiste en:",
+    "id": "refine-28-05",
+    "pregunta": "La incorporacion de creditos permite, en los supuestos legalmente previstos:",
     "opciones": [
-      "trasladar a un ejercicio posterior determinados remanentes de credito",
-      "anular siempre el credito sobrante",
-      "crear un impuesto nuevo",
-      "ordenar el pago sin fase previa"
+      "trasladar al nuevo presupuesto determinados remanentes del ejercicio anterior",
+      "anular definitivamente cualquier saldo pendiente",
+      "convertir todos los ingresos en operaciones financieras",
+      "evitar la aprobacion del presupuesto anual"
     ],
     "correcta": 0,
-    "explicacion": "Es una modalidad de modificacion presupuestaria prevista legalmente.",
     "referencia": "IV.2 · Incorporaciones de credito",
+    "explicacion": "La incorporacion permite arrastrar determinados creditos del ejercicio anterior cuando concurren los requisitos legales.",
     "tema": 28
   }
 ]

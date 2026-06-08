@@ -84,48 +84,6 @@
     "referencia": "III.4 · 10.2 Materias objeto de negociacion"
   },
   {
-    "id": "topup-25-01",
-    "pregunta": "La libertad sindical comprende tambien el derecho a:",
-    "opciones": [
-      "no afiliarse a ningun sindicato",
-      "ser nombrado funcionario sin oposicion",
-      "exigir dos sueldos publicos",
-      "sustituir al alcalde"
-    ],
-    "correcta": 0,
-    "explicacion": "La libertad sindical incluye afiliacion positiva y negativa.",
-    "referencia": "III.4 · Derecho de sindicacion",
-    "tema": 25
-  },
-  {
-    "id": "topup-25-02",
-    "pregunta": "Una seccion sindical en la Administracion es una manifestacion de:",
-    "opciones": [
-      "la accion sindical dentro de la organizacion",
-      "la potestad reglamentaria local",
-      "la fiscalizacion externa",
-      "la iniciativa legislativa popular"
-    ],
-    "correcta": 0,
-    "explicacion": "La accion sindical se articula a traves de secciones, delegados y organos de representacion.",
-    "referencia": "III.4 · Derecho de sindicacion",
-    "tema": 25
-  },
-  {
-    "id": "topup-25-03",
-    "pregunta": "La negociacion colectiva de los empleados publicos se realiza en los terminos del:",
-    "opciones": [
-      "EBEP",
-      "Codigo Penal",
-      "Reglamento del Senado",
-      "Texto refundido de la Ley del Suelo"
-    ],
-    "correcta": 0,
-    "explicacion": "El EBEP ordena la negociacion colectiva en el empleo publico.",
-    "referencia": "III.4 · Negociacion colectiva",
-    "tema": 25
-  },
-  {
     "id": "topup-25-04",
     "pregunta": "No todas las materias son negociables porque quedan fuera, entre otras, las relativas a:",
     "opciones": [
@@ -137,20 +95,6 @@
     "correcta": 0,
     "explicacion": "La negociacion colectiva tiene limites materiales en el empleo publico.",
     "referencia": "III.4 · Negociacion colectiva",
-    "tema": 25
-  },
-  {
-    "id": "topup-25-05",
-    "pregunta": "El derecho de huelga permite:",
-    "opciones": [
-      "cesar colectivamente en el trabajo para defender intereses laborales",
-      "imponer sanciones administrativas",
-      "aprobar reglamentos organicos",
-      "acordar la sucesion a la Corona"
-    ],
-    "correcta": 0,
-    "explicacion": "La huelga es un derecho constitucional de defensa de intereses laborales.",
-    "referencia": "III.4 · Derecho de huelga",
     "tema": 25
   },
   {
@@ -266,17 +210,73 @@
     "tema": 25
   },
   {
-    "id": "topup-25-14",
-    "pregunta": "Una represalia por actividad sindical legitima seria contraria al principio de:",
+    "id": "refine-25-01",
+    "pregunta": "La libertad sindical en el empleo publico comprende, entre otras facultades, la de:",
     "opciones": [
-      "libertad sindical",
-      "tesoreria unica",
-      "no afectacion presupuestaria",
-      "jerarquia normativa"
+      "fundar sindicatos y afiliarse al de su eleccion",
+      "suspender unilateralmente cualquier procedimiento administrativo",
+      "ocupar sin limite cualquier dependencia municipal",
+      "eximir de cumplimiento de jornada a toda la plantilla"
     ],
     "correcta": 0,
-    "explicacion": "La libertad sindical protege frente a discriminaciones o represalias por accion sindical.",
     "referencia": "III.4 · Derecho de sindicacion",
+    "explicacion": "La libertad sindical incluye fundacion, afiliacion, actividad sindical y representacion en los terminos legales.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-02",
+    "pregunta": "La negociacion colectiva de los empleados publicos se desarrolla dentro del marco fijado por:",
+    "opciones": [
+      "el TREBEP y la normativa aplicable",
+      "solo el Estatuto de los Trabajadores comun",
+      "exclusivamente el reglamento organico municipal",
+      "unicamente los estatutos sindicales"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Negociacion colectiva",
+    "explicacion": "La negociacion del personal publico tiene un regimen especifico presidido por el TREBEP.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-03",
+    "pregunta": "En los servicios esenciales para la comunidad, el ejercicio del derecho de huelga puede condicionarse mediante:",
+    "opciones": [
+      "servicios minimos proporcionados y motivados",
+      "prohibicion automatica e incondicionada de la huelga",
+      "sustitucion general de huelguistas por personal externo sin limites",
+      "negacion absoluta de cualquier derecho colectivo"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Derecho de huelga",
+    "explicacion": "La fijacion de servicios minimos debe respetar el derecho de huelga y el principio de proporcionalidad.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-04",
+    "pregunta": "La regla general del regimen de incompatibilidades del personal al servicio del sector publico es que:",
+    "opciones": [
+      "no puede compatibilizarse un segundo puesto o actividad salvo en los supuestos legalmente previstos",
+      "toda actividad privada es libre sin autorizacion",
+      "pueden acumularse dos puestos publicos por mera conveniencia",
+      "la compatibilidad nunca requiere reconocimiento previo"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Regimen de incompatibilidades",
+    "explicacion": "La compatibilidad es excepcional y necesita cobertura y, en su caso, reconocimiento conforme a la ley.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-05",
+    "pregunta": "Una actividad privada relacionada con expedientes que tramite el propio empleado publico puede ser incompatible por comprometer la:",
+    "opciones": [
+      "imparcialidad e independencia",
+      "publicidad institucional",
+      "prorroga presupuestaria",
+      "fe publica local"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Regimen de incompatibilidades",
+    "explicacion": "La finalidad central del regimen es evitar conflictos de intereses y preservar la imparcialidad.",
     "tema": 25
   }
 ]
