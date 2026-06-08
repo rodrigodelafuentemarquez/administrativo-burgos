@@ -1,47 +1,5 @@
 [
   {
-    "id": "topup-19-01",
-    "pregunta": "La actividad administrativa de policia o limitacion se manifiesta mediante:",
-    "opciones": [
-      "licencias, inspecciones y ordenes",
-      "subvenciones y premios exclusivamente",
-      "sentencias judiciales",
-      "elecciones sindicales"
-    ],
-    "correcta": 0,
-    "explicacion": "La actividad de limitacion ordena y controla conductas privadas.",
-    "referencia": "II.10 · Formas de actividad administrativa",
-    "tema": 19
-  },
-  {
-    "id": "topup-19-02",
-    "pregunta": "La actividad de fomento busca:",
-    "opciones": [
-      "impulsar conductas de interes publico mediante ayudas o incentivos",
-      "imponer sanciones penales",
-      "sustituir al planeamiento urbanistico",
-      "aprobar presupuestos municipales"
-    ],
-    "correcta": 0,
-    "explicacion": "El fomento utiliza subvenciones, ayudas, premios o beneficios.",
-    "referencia": "II.10 · Formas de actividad administrativa",
-    "tema": 19
-  },
-  {
-    "id": "topup-19-03",
-    "pregunta": "La actividad de servicio publico se orienta a:",
-    "opciones": [
-      "satisfacer necesidades de interes general de forma regular y organizada",
-      "crear tributos estatales",
-      "resolver recursos de casacion",
-      "aprobar reglamentos parlamentarios"
-    ],
-    "correcta": 0,
-    "explicacion": "El servicio publico atiende prestaciones de interes general bajo responsabilidad administrativa.",
-    "referencia": "II.10 · Servicio publico",
-    "tema": 19
-  },
-  {
     "id": "topup-19-04",
     "pregunta": "La actividad economica publica implica:",
     "opciones": [
@@ -53,20 +11,6 @@
     "correcta": 0,
     "explicacion": "La Administracion puede desarrollar iniciativa economica en supuestos legales.",
     "referencia": "II.10 · Actividad economica",
-    "tema": 19
-  },
-  {
-    "id": "topup-19-05",
-    "pregunta": "Un ejemplo claro de actividad de fomento municipal es:",
-    "opciones": [
-      "una subvencion deportiva",
-      "una providencia de apremio",
-      "una sentencia contenciosa",
-      "la regencia de la Corona"
-    ],
-    "correcta": 0,
-    "explicacion": "Las subvenciones son un instrumento tipico de fomento.",
-    "referencia": "II.10 · Formas de actividad administrativa",
     "tema": 19
   },
   {
@@ -168,20 +112,6 @@
     "tema": 19
   },
   {
-    "id": "topup-19-13",
-    "pregunta": "La sociedad mercantil local es una forma de gestion:",
-    "opciones": [
-      "empresarial bajo control publico",
-      "jurisdiccional",
-      "electoral",
-      "regencial"
-    ],
-    "correcta": 0,
-    "explicacion": "La sociedad mercantil local integra una formula instrumental de gestion.",
-    "referencia": "II.10 · Formas de gestion",
-    "tema": 19
-  },
-  {
     "id": "topup-19-14",
     "pregunta": "La eleccion de la forma de gestion de un servicio debe justificarse por criterios de:",
     "opciones": [
@@ -266,17 +196,101 @@
     "tema": 19
   },
   {
-    "id": "topup-19-20",
-    "pregunta": "En la practica municipal, un mismo servicio puede combinar actividad de servicio publico, control e incluso:",
+    "id": "refine-19-01",
+    "pregunta": "La actividad de limitacion o policia se caracteriza porque la Administracion:",
     "opciones": [
-      "fomento o actividad economica",
-      "sucesion a la Corona",
-      "enjuiciamiento criminal",
-      "investidura parlamentaria"
+      "condiciona o restringe derechos y actividades privadas en atencion al interes general",
+      "subvenciona libremente cualquier conducta privada",
+      "gestiona siempre un servicio publico de forma directa",
+      "actua sin cobertura normativa previa"
     ],
     "correcta": 0,
-    "explicacion": "Las formas de actividad administrativa no son compartimentos estancos.",
     "referencia": "II.10 · Formas de actividad administrativa",
+    "explicacion": "La actividad de policia actua sobre actividades privadas para ordenarlas, condicionarlas o limitarlas en interes general.",
+    "tema": 19
+  },
+  {
+    "id": "refine-19-02",
+    "pregunta": "En la gestion indirecta de un servicio publico, el Ayuntamiento conserva:",
+    "opciones": [
+      "la titularidad del servicio y las potestades de direccion y control",
+      "solo una funcion simbolica sin capacidad de intervenir",
+      "la obligacion de no supervisar al contratista",
+      "la competencia jurisdiccional sobre litigios penales"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Gestion de los servicios publicos",
+    "explicacion": "Aunque la prestacion se externalice, la Administracion mantiene la titularidad y sus potestades de control.",
+    "tema": 19
+  },
+  {
+    "id": "refine-19-03",
+    "pregunta": "La concesion de servicios se distingue porque el contratista asume:",
+    "opciones": [
+      "el riesgo operacional de la explotacion",
+      "la potestad reglamentaria municipal",
+      "la fe publica de los acuerdos",
+      "la funcion interventora"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Gestion indirecta y concesion",
+    "explicacion": "La asuncion del riesgo operacional es la nota propia de la concesion de servicios.",
+    "tema": 19
+  },
+  {
+    "id": "refine-19-04",
+    "pregunta": "La remunicipalizacion de un servicio publico no permite, por si sola:",
+    "opciones": [
+      "ignorar contratos vigentes, personal afectado y sostenibilidad financiera",
+      "recuperar la gestion publica del servicio",
+      "tramitar una memoria justificativa",
+      "valorar la forma de gestion mas eficiente"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Remunicipalizacion",
+    "explicacion": "La vuelta a la gestion publica exige respetar el marco contractual, laboral y economico aplicable.",
+    "tema": 19
+  },
+  {
+    "id": "refine-19-05",
+    "pregunta": "La iniciativa economica publica local requiere motivar especialmente:",
+    "opciones": [
+      "su conveniencia para el interes general y su sostenibilidad",
+      "la ausencia de control interno",
+      "que no exista competencia privada alguna",
+      "la sustitucion del presupuesto por tarifas libres"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Iniciativa economica publica local",
+    "explicacion": "La actividad economica publica necesita justificacion reforzada desde la perspectiva del interes general y la sostenibilidad financiera.",
+    "tema": 19
+  },
+  {
+    "id": "refine-19-06",
+    "pregunta": "Cuando el Ayuntamiento elige una forma de gestion de un servicio, no actua con libertad absoluta porque debe atender, entre otros, a criterios de:",
+    "opciones": [
+      "eficacia, coste, calidad, control y sostenibilidad",
+      "afinidad politica del futuro gestor",
+      "azar o turno entre empresas",
+      "preferencia personal del alcalde sin expediente"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Eleccion de la forma de gestion",
+    "explicacion": "La seleccion de la forma de gestion debe justificarse objetivamente en un expediente y responder al interes publico.",
+    "tema": 19
+  },
+  {
+    "id": "refine-19-07",
+    "pregunta": "Una nota clasica del servicio publico es la continuidad, lo que implica que su prestacion:",
+    "opciones": [
+      "no puede interrumpirse arbitrariamente si afecta a necesidades colectivas",
+      "debe cesar en vacaciones salvo acuerdo contrario",
+      "depende solo del criterio del concesionario",
+      "carece de relacion con la igualdad de los usuarios"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Servicio publico",
+    "explicacion": "La continuidad expresa la necesidad de asegurar una prestacion regular a la colectividad.",
     "tema": 19
   }
 ]

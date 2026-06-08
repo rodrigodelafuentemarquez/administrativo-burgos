@@ -28,48 +28,6 @@
     "explicacion": "Las tres afirmaciones forman parte del regimen organico municipal previsto para municipios de gran poblacion."
   },
   {
-    "id": "topup-21-01",
-    "pregunta": "Las ordenanzas y reglamentos locales son manifestaciones de la potestad:",
-    "opciones": [
-      "reglamentaria de las entidades locales",
-      "jurisdiccional del Ayuntamiento",
-      "constituyente derivada",
-      "legislativa estatal"
-    ],
-    "correcta": 0,
-    "explicacion": "Las entidades locales aprueban disposiciones reglamentarias, no leyes.",
-    "referencia": "II.12 · Concepto y fundamento",
-    "tema": 21
-  },
-  {
-    "id": "topup-21-02",
-    "pregunta": "El bando del alcalde es normalmente un instrumento de:",
-    "opciones": [
-      "direccion, informacion o policia municipal",
-      "aprobacion de leyes organicas",
-      "reforma estatutaria",
-      "enjuiciamiento penal"
-    ],
-    "correcta": 0,
-    "explicacion": "El bando no sustituye al procedimiento propio de las ordenanzas y reglamentos.",
-    "referencia": "II.12 · Los bandos",
-    "tema": 21
-  },
-  {
-    "id": "topup-21-03",
-    "pregunta": "Entre las clases de normas locales puede distinguirse entre:",
-    "opciones": [
-      "reglamentos organicos, ordenanzas y bandos",
-      "decretos-leyes municipales y leyes locales",
-      "reales decretos y reglamentos europeos",
-      "sentencias y autos"
-    ],
-    "correcta": 0,
-    "explicacion": "La tipologia local incluye ordenanzas, reglamentos y bandos, entre otras normas reglamentarias.",
-    "referencia": "II.12 · Clases",
-    "tema": 21
-  },
-  {
     "id": "topup-21-04",
     "pregunta": "La aprobacion inicial de una ordenanza local corresponde normalmente al:",
     "opciones": [
@@ -168,20 +126,6 @@
     "tema": 21
   },
   {
-    "id": "topup-21-11",
-    "pregunta": "El bando del alcalde puede ser util para:",
-    "opciones": [
-      "recordar obligaciones ciudadanas o regular aspectos de policia urbana dentro de su ambito",
-      "crear un impuesto nuevo no previsto en la ley",
-      "modificar el Estatuto de Autonomia",
-      "imponer penas de prision"
-    ],
-    "correcta": 0,
-    "explicacion": "El bando tiene un alcance propio, pero no sustituye a la ordenanza cuando la materia exige procedimiento reglamentario.",
-    "referencia": "II.12 · Los bandos",
-    "tema": 21
-  },
-  {
     "id": "topup-21-12",
     "pregunta": "No debe confundirse una ordenanza con un bando porque la ordenanza:",
     "opciones": [
@@ -277,6 +221,76 @@
     "correcta": 0,
     "explicacion": "Las disposiciones generales locales se combaten ante la jurisdiccion contencioso-administrativa.",
     "referencia": "II.12 · Control de legalidad de ordenanzas y reglamentos",
+    "tema": 21
+  },
+  {
+    "id": "refine-21-01",
+    "pregunta": "Si durante la informacion publica de una ordenanza local no se presentan reclamaciones ni sugerencias:",
+    "opciones": [
+      "el acuerdo inicial se entiende definitivamente adoptado",
+      "la ordenanza decae automaticamente",
+      "debe repetirse siempre la aprobacion inicial",
+      "solo puede aprobarla definitivamente la Junta de Gobierno Local"
+    ],
+    "correcta": 0,
+    "referencia": "II.12 · Procedimiento de aprobacion",
+    "explicacion": "La legislacion local permite que, sin reclamaciones, el acuerdo inicial pase a ser definitivo automaticamente.",
+    "tema": 21
+  },
+  {
+    "id": "refine-21-02",
+    "pregunta": "Para que una ordenanza o reglamento local entre en vigor se requiere, entre otros requisitos:",
+    "opciones": [
+      "publicacion integra de su texto y transcurso del plazo legal correspondiente",
+      "simple anuncio del alcalde en rueda de prensa",
+      "aprobacion provisional sin publicacion",
+      "firma del interventor y del tesorero"
+    ],
+    "correcta": 0,
+    "referencia": "II.12 · Publicacion y entrada en vigor",
+    "explicacion": "La eficacia general de la norma local exige publicacion integra y respeto al plazo legal de entrada en vigor.",
+    "tema": 21
+  },
+  {
+    "id": "refine-21-03",
+    "pregunta": "El reglamento organico municipal se orienta principalmente a regular:",
+    "opciones": [
+      "la organizacion y el funcionamiento interno de la corporacion",
+      "la estructura del IRPF",
+      "las penas por infracciones penales",
+      "la concesion de nacionalidad espanola"
+    ],
+    "correcta": 0,
+    "referencia": "II.12 · Clases de reglamentos locales",
+    "explicacion": "El reglamento organico ordena la organizacion y el funcionamiento de la entidad local.",
+    "tema": 21
+  },
+  {
+    "id": "refine-21-04",
+    "pregunta": "El bando del alcalde se diferencia de la ordenanza porque, con caracter general, el bando:",
+    "opciones": [
+      "no sustituye a una disposicion reglamentaria de rango local aprobada por el Pleno",
+      "tiene siempre rango superior a la ordenanza",
+      "deroga automaticamente cualquier reglamento municipal",
+      "solo puede dictarse si existe ley organica habilitante"
+    ],
+    "correcta": 0,
+    "referencia": "II.12 · Los bandos",
+    "explicacion": "El bando es un instrumento de la alcaldia para difundir o concretar mandatos y no equivale a una ordenanza aprobada por el Pleno.",
+    "tema": 21
+  },
+  {
+    "id": "refine-21-05",
+    "pregunta": "Si durante la exposicion publica de una ordenanza se presentan reclamaciones o sugerencias, corresponde resolverlas y aprobar definitivamente la norma al:",
+    "opciones": [
+      "Pleno",
+      "alcalde",
+      "secretario general",
+      "tribunal economico-administrativo municipal"
+    ],
+    "correcta": 0,
+    "referencia": "II.12 · Procedimiento de aprobacion",
+    "explicacion": "La competencia para resolver reclamaciones y cerrar la aprobacion definitiva sigue residiendo en el Pleno.",
     "tema": 21
   }
 ]

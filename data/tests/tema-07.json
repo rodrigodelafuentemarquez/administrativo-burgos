@@ -154,34 +154,6 @@
     "tema": 7
   },
   {
-    "id": "topup-07-06",
-    "pregunta": "La Junta de Gobierno Local en un municipio de gran poblacion tiene un peso especialmente:",
-    "opciones": [
-      "ejecutivo y administrativo",
-      "meramente ceremonial",
-      "judicial",
-      "electoral"
-    ],
-    "correcta": 0,
-    "explicacion": "En gran poblacion la Junta de Gobierno Local asume un papel ejecutivo muy intenso.",
-    "referencia": "I.7 · Junta de Gobierno Local",
-    "tema": 7
-  },
-  {
-    "id": "topup-07-07",
-    "pregunta": "Las sesiones de la Junta de Gobierno Local tienen el mismo caracter publico que las del Pleno?",
-    "opciones": [
-      "No",
-      "Si, siempre",
-      "Solo en agosto",
-      "Solo si lo autoriza el Congreso"
-    ],
-    "correcta": 0,
-    "explicacion": "No tienen el mismo regimen de publicidad que las sesiones plenarias.",
-    "referencia": "I.7 · Junta de Gobierno Local",
-    "tema": 7
-  },
-  {
     "id": "topup-07-08",
     "pregunta": "La Secretaria General garantiza principalmente la fe publica y el:",
     "opciones": [
@@ -238,34 +210,6 @@
     "tema": 7
   },
   {
-    "id": "topup-07-12",
-    "pregunta": "El Organo de Gestion Tributaria y Tesoreria se ocupa principalmente de:",
-    "opciones": [
-      "ingresos, recaudacion y gestion de fondos",
-      "nombramientos judiciales",
-      "disciplina urbanistica exclusiva",
-      "negociacion colectiva"
-    ],
-    "correcta": 0,
-    "explicacion": "Gestion tributaria y tesoreria cubren aplicacion de tributos, recaudacion y liquidez.",
-    "referencia": "I.7 · Organo de Gestion Tributaria y Tesoreria",
-    "tema": 7
-  },
-  {
-    "id": "topup-07-13",
-    "pregunta": "La tesoreria municipal se relaciona directamente con:",
-    "opciones": [
-      "cobros, pagos y liquidez",
-      "mociones de censura",
-      "aprobacion de leyes organicas",
-      "juramento del Rey"
-    ],
-    "correcta": 0,
-    "explicacion": "La tesoreria administra fondos, cuentas y planificacion de liquidez.",
-    "referencia": "I.7 · Organo de Gestion Tributaria y Tesoreria",
-    "tema": 7
-  },
-  {
     "id": "topup-07-14",
     "pregunta": "El Tribunal Economico-Administrativo Municipal de Burgos se relaciona especialmente con:",
     "opciones": [
@@ -277,6 +221,76 @@
     "correcta": 0,
     "explicacion": "Es el organo especializado para reclamaciones economico-administrativas municipales.",
     "referencia": "I.7 · Relacion con el TEAM",
+    "tema": 7
+  },
+  {
+    "id": "refine-07-01",
+    "pregunta": "En los municipios de gran poblacion, el control y la fiscalizacion de los organos de gobierno municipales corresponde de forma principal al:",
+    "opciones": [
+      "Pleno",
+      "alcalde",
+      "Interventor General",
+      "Organo de Gestion Tributaria"
+    ],
+    "correcta": 0,
+    "referencia": "I.7 · Pleno en municipios de gran poblacion",
+    "explicacion": "El Pleno conserva la funcion central de control y fiscalizacion politica de los organos de gobierno.",
+    "tema": 7
+  },
+  {
+    "id": "refine-07-02",
+    "pregunta": "La Junta de Gobierno Local, en un municipio de gran poblacion como Burgos, se caracteriza especialmente por:",
+    "opciones": [
+      "ejercer funciones ejecutivas y administrativas, ademas de colaborar en la funcion politica del alcalde",
+      "aprobar definitivamente las ordenanzas fiscales sin intervencion del Pleno",
+      "sustituir al Tribunal Economico-Administrativo Municipal",
+      "ejercer la funcion interventora y el control financiero"
+    ],
+    "correcta": 0,
+    "referencia": "I.7 · Junta de Gobierno Local",
+    "explicacion": "En gran poblacion, la Junta de Gobierno Local tiene un peso ejecutivo y administrativo muy relevante y colabora en la funcion politica del alcalde.",
+    "tema": 7
+  },
+  {
+    "id": "refine-07-03",
+    "pregunta": "La Secretaria General del Ayuntamiento se vincula a funciones reservadas como:",
+    "opciones": [
+      "la fe publica y el asesoramiento legal preceptivo",
+      "la recaudacion en via ejecutiva y la inspeccion tributaria",
+      "la ordenacion de pagos y la gestion de tesoreria",
+      "la direccion politica del gobierno municipal"
+    ],
+    "correcta": 0,
+    "referencia": "I.7 · Secretaria General",
+    "explicacion": "La Secretaria General asume las funciones reservadas de fe publica y asesoramiento legal preceptivo.",
+    "tema": 7
+  },
+  {
+    "id": "refine-07-04",
+    "pregunta": "El Tribunal Economico-Administrativo Municipal de Burgos conoce principalmente de reclamaciones relativas a:",
+    "opciones": [
+      "actos tributarios y otros ingresos de derecho publico de competencia municipal",
+      "sanciones penales impuestas por los juzgados",
+      "acuerdos plenarios de mocion de censura",
+      "nombramientos de personal eventual"
+    ],
+    "correcta": 0,
+    "referencia": "I.7 · Tribunal Economico-Administrativo Municipal",
+    "explicacion": "El TEAM se proyecta sobre la revision especializada de actos tributarios e ingresos de derecho publico municipales.",
+    "tema": 7
+  },
+  {
+    "id": "refine-07-05",
+    "pregunta": "En el ambito municipal, el organo de gestion tributaria se relaciona de forma directa con funciones de:",
+    "opciones": [
+      "gestion, liquidacion, inspeccion y recaudacion de tributos e ingresos de derecho publico",
+      "aprobacion del planeamiento general",
+      "fe publica de las sesiones plenarias",
+      "convocatoria de elecciones locales"
+    ],
+    "correcta": 0,
+    "referencia": "I.7 · Organo de Gestion Tributaria",
+    "explicacion": "Su nucleo funcional gira en torno a la aplicacion de los tributos y la recaudacion de los ingresos de derecho publico.",
     "tema": 7
   }
 ]

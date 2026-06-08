@@ -1,33 +1,5 @@
 [
   {
-    "id": "topup-27-01",
-    "pregunta": "El principio constitucional que sirve de base al sistema tributario se formula principalmente en el articulo:",
-    "opciones": [
-      "31 CE",
-      "103 CE",
-      "117 CE",
-      "137 CE"
-    ],
-    "correcta": 0,
-    "explicacion": "El art. 31 CE recoge capacidad economica, igualdad, progresividad y no confiscatoriedad.",
-    "referencia": "IV.1 · Principios tributarios",
-    "tema": 27
-  },
-  {
-    "id": "topup-27-02",
-    "pregunta": "Los tributos locales se clasifican en:",
-    "opciones": [
-      "impuestos, tasas y contribuciones especiales",
-      "impuestos, recargos y sanciones",
-      "tasas, multas y precios privados",
-      "solo impuestos"
-    ],
-    "correcta": 0,
-    "explicacion": "La legislacion de haciendas locales distingue esas tres categorias.",
-    "referencia": "IV.1 · Tributos locales",
-    "tema": 27
-  },
-  {
     "id": "topup-27-03",
     "pregunta": "Entre los impuestos municipales obligatorios se encuentra el:",
     "opciones": [
@@ -38,48 +10,6 @@
     ],
     "correcta": 0,
     "explicacion": "El IBI es un impuesto municipal obligatorio.",
-    "referencia": "IV.1 · Impuestos municipales",
-    "tema": 27
-  },
-  {
-    "id": "topup-27-04",
-    "pregunta": "El IAE grava principalmente:",
-    "opciones": [
-      "el ejercicio de actividades empresariales, profesionales o artisticas",
-      "la residencia padronal",
-      "la celebracion de sesiones plenarias",
-      "las bajas medicas"
-    ],
-    "correcta": 0,
-    "explicacion": "El IAE se refiere al ejercicio de actividades economicas.",
-    "referencia": "IV.1 · Impuestos municipales",
-    "tema": 27
-  },
-  {
-    "id": "topup-27-05",
-    "pregunta": "El IVTM grava:",
-    "opciones": [
-      "la titularidad de vehiculos aptos para circular",
-      "la compraventa de inmuebles",
-      "la herencia yacente",
-      "la afiliacion sindical"
-    ],
-    "correcta": 0,
-    "explicacion": "El IVTM es el impuesto sobre vehiculos de traccion mecanica.",
-    "referencia": "IV.1 · Impuestos municipales",
-    "tema": 27
-  },
-  {
-    "id": "topup-27-06",
-    "pregunta": "El ICIO tiene naturaleza de impuesto:",
-    "opciones": [
-      "potestativo e indirecto",
-      "obligatorio y real",
-      "personal y progresivo",
-      "autonomico"
-    ],
-    "correcta": 0,
-    "explicacion": "El ICIO requiere acuerdo de establecimiento y ordenanza fiscal.",
     "referencia": "IV.1 · Impuestos municipales",
     "tema": 27
   },
@@ -109,20 +39,6 @@
     "correcta": 0,
     "explicacion": "La contribucion especial requiere un beneficio particular para determinados sujetos.",
     "referencia": "IV.1 · Contribuciones especiales",
-    "tema": 27
-  },
-  {
-    "id": "topup-27-09",
-    "pregunta": "La diferencia clasica entre impuesto y tasa es que en la tasa:",
-    "opciones": [
-      "existe una relacion mas directa con un servicio o el dominio publico",
-      "siempre hay progresividad",
-      "nunca hace falta ordenanza",
-      "no hay sujeto pasivo"
-    ],
-    "correcta": 0,
-    "explicacion": "La tasa se vincula a un servicio o aprovechamiento que afecta o beneficia especialmente.",
-    "referencia": "IV.1 · Tasas e impuestos",
     "tema": 27
   },
   {
@@ -277,6 +193,118 @@
     "correcta": 0,
     "explicacion": "El temario conecta la revision tributaria con el TEAM municipal cuando existe.",
     "referencia": "IV.1 · Impugnacion de actos tributarios",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-01",
+    "pregunta": "Entre los impuestos municipales de exaccion obligatoria se encuentran:",
+    "opciones": [
+      "IBI, IAE e IVTM",
+      "ICIO, IIVTNU e IAE",
+      "IBI, ICIO e IIVTNU",
+      "solo el IBI"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Tributos locales",
+    "explicacion": "Los tres impuestos municipales obligatorios son IBI, IAE e IVTM.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-02",
+    "pregunta": "La imposicion de un tributo local potestativo supone que el Ayuntamiento:",
+    "opciones": [
+      "decide si establece o no ese tributo dentro del marco legal",
+      "puede crear cualquier impuesto nuevo sin ley",
+      "debe exigirlo obligatoriamente cada ejercicio",
+      "puede aprobarlo por decreto de alcaldia sin ordenanza"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Imposicion y ordenacion de tributos",
+    "explicacion": "Los tributos potestativos requieren decision municipal expresa, pero siempre dentro del marco legal estatal.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-03",
+    "pregunta": "La ordenacion de un tributo local se realiza fundamentalmente mediante:",
+    "opciones": [
+      "la correspondiente ordenanza fiscal",
+      "un bando de alcaldia",
+      "una instruccion interna de tesoreria",
+      "una mocion de censura"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Potestad reglamentaria tributaria",
+    "explicacion": "La ordenacion del tributo local se articula mediante ordenanza fiscal.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-04",
+    "pregunta": "La aprobacion provisional de ordenanzas fiscales debe someterse a exposicion publica por un plazo minimo de:",
+    "opciones": [
+      "30 dias",
+      "10 dias",
+      "15 dias",
+      "2 meses"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Ordenanzas fiscales",
+    "explicacion": "La tramitacion de las ordenanzas fiscales exige exposicion publica minima de treinta dias.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-05",
+    "pregunta": "Las tasas locales pueden exigirse, entre otros supuestos, por:",
+    "opciones": [
+      "la utilizacion privativa o el aprovechamiento especial del dominio publico local",
+      "la mera existencia del municipio",
+      "la aprobacion del presupuesto anual",
+      "la celebracion de plenos ordinarios"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Tasas",
+    "explicacion": "La tasa se conecta con un aprovechamiento especial del dominio publico o con servicios y actividades administrativas en los terminos legales.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-06",
+    "pregunta": "Las contribuciones especiales se justifican cuando una obra o servicio municipal produce:",
+    "opciones": [
+      "un beneficio especial para determinadas personas o bienes",
+      "un beneficio indistinto para todo el pais",
+      "unicamente un gasto interno de personal",
+      "solo una ventaja politica para el equipo de gobierno"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Contribuciones especiales",
+    "explicacion": "Las contribuciones especiales descansan en la obtencion de un beneficio especial derivado de la obra o servicio.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-07",
+    "pregunta": "La impugnacion directa de una ordenanza fiscal aprobada definitivamente se plantea, con caracter general, ante la jurisdiccion:",
+    "opciones": [
+      "contencioso-administrativa",
+      "social",
+      "civil",
+      "penal"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Impugnacion de ordenanzas fiscales",
+    "explicacion": "La ordenanza fiscal es una disposicion de caracter general y su control corresponde a la jurisdiccion contencioso-administrativa.",
+    "tema": 27
+  },
+  {
+    "id": "refine-27-08",
+    "pregunta": "En un municipio de gran poblacion, determinados actos de gestion tributaria municipal pueden ser revisados en via economico-administrativa ante:",
+    "opciones": [
+      "el Tribunal Economico-Administrativo Municipal",
+      "el Pleno en sesion ordinaria",
+      "la Junta Electoral de Zona",
+      "la Diputacion Provincial como organo revisor necesario"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Revision de actos tributarios locales",
+    "explicacion": "En los municipios de gran poblacion puede existir un organo economico-administrativo municipal para esta revision especializada.",
     "tema": 27
   }
 ]

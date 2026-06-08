@@ -1,75 +1,5 @@
 [
   {
-    "id": "topup-31-01",
-    "pregunta": "La propiedad del suelo queda delimitada por:",
-    "opciones": [
-      "su funcion social y la ordenacion urbanistica",
-      "la sola voluntad del propietario",
-      "el padrón municipal",
-      "las reglas del Senado"
-    ],
-    "correcta": 0,
-    "explicacion": "La propiedad del suelo no es un derecho absoluto al margen del planeamiento.",
-    "referencia": "IV.5 · Regimen urbanistico de la propiedad",
-    "tema": 31
-  },
-  {
-    "id": "topup-31-02",
-    "pregunta": "Uno de los principios urbanisticos basicos es la:",
-    "opciones": [
-      "funcion social de la propiedad",
-      "inviolabilidad parlamentaria",
-      "retroactividad sancionadora",
-      "autotutela penal"
-    ],
-    "correcta": 0,
-    "explicacion": "La funcion social es una idea estructural del urbanismo.",
-    "referencia": "IV.5 · Principios",
-    "tema": 31
-  },
-  {
-    "id": "topup-31-03",
-    "pregunta": "Tambien es un principio urbanistico relevante la:",
-    "opciones": [
-      "equidistribucion de beneficios y cargas",
-      "reserva de Senado",
-      "jerarquia militar",
-      "suspension de derechos fundamentales"
-    ],
-    "correcta": 0,
-    "explicacion": "La equidistribucion evita repartos injustos de aprovechamientos y cargas.",
-    "referencia": "IV.5 · Principios",
-    "tema": 31
-  },
-  {
-    "id": "topup-31-04",
-    "pregunta": "La clasificacion del suelo responde a la pregunta:",
-    "opciones": [
-      "que clase juridica de suelo es",
-      "quien preside la sesion plenaria",
-      "que sindicato tiene mas representacion",
-      "que documento contable procede"
-    ],
-    "correcta": 0,
-    "explicacion": "La clasificacion distingue suelo urbano, urbanizable y rustico/no urbanizable.",
-    "referencia": "IV.5 · Clasificacion del suelo",
-    "tema": 31
-  },
-  {
-    "id": "topup-31-05",
-    "pregunta": "La calificacion urbanistica responde a la pregunta:",
-    "opciones": [
-      "que uso y condiciones concretas tiene el suelo",
-      "cuantos concejales integran el Pleno",
-      "que organo fiscaliza el gasto",
-      "que edad tiene el menor empadronado"
-    ],
-    "correcta": 0,
-    "explicacion": "La calificacion asigna usos y parametros urbanisticos concretos.",
-    "referencia": "IV.5 · Calificacion del suelo",
-    "tema": 31
-  },
-  {
     "id": "topup-31-06",
     "pregunta": "El suelo urbano se caracteriza porque:",
     "opciones": [
@@ -266,17 +196,115 @@
     "tema": 31
   },
   {
-    "id": "topup-31-20",
-    "pregunta": "En urbanismo, una mala tramitacion de plazos, notificaciones o prueba puede:",
+    "id": "refine-31-01",
+    "pregunta": "La clasificacion del suelo determina principalmente:",
     "opciones": [
-      "hacer fracasar la actuacion administrativa",
-      "convertir automaticamente la obra en legal",
-      "anular toda competencia municipal",
-      "sustituir el planeamiento por un bando"
+      "la clase juridica de suelo a la que pertenece cada terreno",
+      "el color de las fachadas del municipio",
+      "la titularidad registral de cada finca",
+      "la imposicion de tasas municipales"
     ],
     "correcta": 0,
-    "explicacion": "La disciplina urbanistica es muy procedimental y exige rigor formal.",
-    "referencia": "IV.5 · Relevancia procedimental",
+    "referencia": "IV.5 · Clasificacion y calificacion del suelo",
+    "explicacion": "La clasificacion distingue las grandes clases de suelo; la calificacion concreta usos y condiciones pormenorizadas.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-02",
+    "pregunta": "La calificacion urbanistica precisa sobre cada suelo, entre otras cuestiones:",
+    "opciones": [
+      "los usos, intensidades y condiciones de edificacion",
+      "la nacionalidad del propietario",
+      "la forma de votacion del Pleno",
+      "el regimen disciplinario del personal"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Clasificacion y calificacion del suelo",
+    "explicacion": "La calificacion concreta el destino urbanistico pormenorizado del suelo.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-03",
+    "pregunta": "La licencia urbanistica es un acto de control previo que verifica principalmente:",
+    "opciones": [
+      "la conformidad de la actuacion con la legalidad y el planeamiento urbanistico",
+      "la rentabilidad economica privada del promotor",
+      "la oportunidad politica del proyecto segun el alcalde",
+      "la capacidad del contratista para intervenir en procesos electorales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Licencia urbanistica",
+    "explicacion": "La licencia urbanistica controla la adecuacion de la actuacion pretendida a la normativa aplicable.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-04",
+    "pregunta": "Cuando se ejecuta una obra sin licencia o contra sus condiciones, la Administracion puede reaccionar mediante:",
+    "opciones": [
+      "medidas de suspension, restauracion de la legalidad y, en su caso, sancion",
+      "solo una recomendacion verbal",
+      "exclusivamente una subida del IBI",
+      "la perdida automatica de la propiedad por ministerio de la ley"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Proteccion de la legalidad urbanistica",
+    "explicacion": "La disciplina urbanistica combina restauracion de la legalidad con, en su caso, potestad sancionadora.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-05",
+    "pregunta": "La sancion urbanistica y la restauracion de la legalidad son tecnicas:",
+    "opciones": [
+      "compatibles e independientes entre si",
+      "excluyentes, de modo que solo puede aplicarse una de ellas",
+      "reservadas exclusivamente a los juzgados penales",
+      "sustituidas siempre por indemnizaciones"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Infracciones y sanciones urbanisticas",
+    "explicacion": "La imposicion de una sancion no elimina la obligacion de reponer la realidad fisica alterada cuando proceda.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-06",
+    "pregunta": "La competencia urbanistica municipal comprende normalmente funciones de:",
+    "opciones": [
+      "planeamiento, gestion, intervencion y disciplina urbanistica",
+      "legislacion organica estatal exclusiva",
+      "control del poder judicial",
+      "gestion de la Seguridad Social contributiva"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Competencia urbanistica municipal",
+    "explicacion": "El municipio interviene en planeamiento, gestion, licencias y disciplina en los terminos que marque la normativa.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-07",
+    "pregunta": "El suelo rustico o no urbanizable se preserva, entre otras razones, por:",
+    "opciones": [
+      "valores ambientales, paisajisticos, agrarios o de proteccion especial",
+      "la simple voluntad del promotor privado",
+      "la necesidad de ubicar siempre oficinas administrativas",
+      "la existencia de cualquier padron fiscal"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Clasificacion del suelo",
+    "explicacion": "La preservacion de este suelo responde a valores o finalidades que justifican su proteccion frente al proceso urbanizador.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-08",
+    "pregunta": "La legalizacion de una obra ejecutada sin licencia solo puede plantearse cuando:",
+    "opciones": [
+      "la actuacion sea compatible con el planeamiento y la legalidad urbanistica aplicable",
+      "haya transcurrido cualquier plazo sin mas",
+      "el promotor pague una tasa extraordinaria",
+      "el alcalde manifieste verbalmente su conformidad"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Proteccion de la legalidad urbanistica",
+    "explicacion": "No toda obra clandestina es legalizable: solo la que resulte materialmente compatible con el ordenamiento urbanistico.",
     "tema": 31
   }
 ]

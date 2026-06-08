@@ -28,20 +28,6 @@
     "explicacion": "La irretroactividad de las disposiciones sancionadoras se regula en el articulo 26 LRJSP."
   },
   {
-    "id": "topup-17-01",
-    "pregunta": "La potestad sancionadora administrativa permite a la Administracion:",
-    "opciones": [
-      "imponer sanciones por infracciones administrativas",
-      "aprobar leyes organicas",
-      "dictar sentencias penales",
-      "nombrar jueces"
-    ],
-    "correcta": 0,
-    "explicacion": "Es la potestad de reaccion frente a conductas tipificadas como infraccion administrativa.",
-    "referencia": "II.8 · Concepto de potestad sancionadora",
-    "tema": 17
-  },
-  {
     "id": "topup-17-02",
     "pregunta": "El principio de legalidad sancionadora exige:",
     "opciones": [
@@ -154,20 +140,6 @@
     "tema": 17
   },
   {
-    "id": "topup-17-10",
-    "pregunta": "Una medida provisional en un procedimiento sancionador sirve para:",
-    "opciones": [
-      "asegurar la eficacia de la resolucion final",
-      "sustituir definitivamente a la sancion",
-      "eliminar el tramite de audiencia",
-      "evitar toda prueba"
-    ],
-    "correcta": 0,
-    "explicacion": "Las medidas provisionales protegen el interes general y la eficacia del procedimiento.",
-    "referencia": "II.8 · Medidas provisionales",
-    "tema": 17
-  },
-  {
     "id": "topup-17-11",
     "pregunta": "La iniciacion del procedimiento sancionador debe identificar al menos:",
     "opciones": [
@@ -207,20 +179,6 @@
     "correcta": 0,
     "explicacion": "La resolucion final ha de motivar hechos, fundamento y sancion.",
     "referencia": "II.8 · Resolucion",
-    "tema": 17
-  },
-  {
-    "id": "topup-17-14",
-    "pregunta": "La potestad sancionadora local se ejerce especialmente en materias como:",
-    "opciones": [
-      "convivencia, ruidos, residuos o uso de via publica",
-      "sucesion a la Corona",
-      "jurisdiccion constitucional",
-      "tratados internacionales"
-    ],
-    "correcta": 0,
-    "explicacion": "Las entidades locales sancionan dentro de sus competencias y del marco legal.",
-    "referencia": "II.8 · Potestad sancionadora local",
     "tema": 17
   },
   {
@@ -266,17 +224,59 @@
     "tema": 17
   },
   {
-    "id": "topup-17-18",
-    "pregunta": "En el ambito local, el cumplimiento correcto del procedimiento sancionador exige especial cuidado en:",
+    "id": "refine-17-01",
+    "pregunta": "Para apreciar vulneracion del principio non bis in idem en materia sancionadora debe existir identidad de:",
     "opciones": [
-      "hechos, prueba, audiencia, motivacion y notificacion",
-      "solo la firma del alcalde",
-      "el uso del padron municipal",
-      "la publicacion en el BOE de toda resolucion"
+      "sujeto, hecho y fundamento",
+      "organo, territorio y plazo",
+      "procedimiento, recurso y prueba",
+      "norma, reglamento y costumbre"
     ],
     "correcta": 0,
-    "explicacion": "La tramitacion sancionadora local requiere rigor probatorio y formal.",
-    "referencia": "II.8 · Especialidades del procedimiento sancionador",
+    "referencia": "II.8 · Principios de la potestad sancionadora",
+    "explicacion": "La prohibicion de doble sancion exige identidad de sujeto, hechos y fundamento.",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-02",
+    "pregunta": "Las medidas provisionales en un procedimiento sancionador deben ser:",
+    "opciones": [
+      "proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolucion final",
+      "automaticas y siempre pecuniarias",
+      "identicas a la sancion definitiva",
+      "acordadas solo al final del procedimiento"
+    ],
+    "correcta": 0,
+    "referencia": "II.8 · Medidas provisionales",
+    "explicacion": "Las medidas provisionales no son sanciones anticipadas: deben ser necesarias, proporcionadas y motivadas.",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-03",
+    "pregunta": "La separacion entre fase instructora y fase resolutoria en el procedimiento sancionador persigue reforzar especialmente la:",
+    "opciones": [
+      "imparcialidad y objetividad",
+      "recaudacion inmediata",
+      "publicidad activa",
+      "automaticidad de la sancion"
+    ],
+    "correcta": 0,
+    "referencia": "II.8 · Procedimiento sancionador",
+    "explicacion": "La diferenciacion entre instructor y organo resolutor sirve para garantizar mayor imparcialidad.",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-05",
+    "pregunta": "La resolucion sancionadora debe pronunciarse sobre:",
+    "opciones": [
+      "los hechos, su calificacion juridica, la persona responsable y la sancion o inexistencia de infraccion",
+      "unicamente el importe economico de la multa",
+      "solo la denuncia inicial",
+      "solo la identificacion del instructor"
+    ],
+    "correcta": 0,
+    "referencia": "II.8 · Resolucion sancionadora",
+    "explicacion": "La resolucion final debe cerrar de forma motivada el debate sobre hechos, calificacion y responsabilidad.",
     "tema": 17
   }
 ]
