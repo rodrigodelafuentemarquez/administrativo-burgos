@@ -1,0 +1,44 @@
+---
+import type { MemoryAid } from '../data/memoryAids';
+
+type Props = {
+  aid?: MemoryAid;
+};
+
+const { aid } = Astro.props;
+---
+
+{aid && (
+  <section class="memory-aid" aria-labelledby="memory-aid-title">
+    <div class="memory-aid__header">
+      <p class="memory-aid__eyebrow">Memorización útil</p>
+      <h2 id="memory-aid-title">Mnemotecnia y anclajes del tema</h2>
+    </div>
+
+    <p class="memory-aid__mnemonic">
+      <strong>Regla mnemotécnica:</strong> {aid.mnemonic}
+    </p>
+
+    <div class="memory-aid__grid">
+      <div>
+        <h3>Números y anclas</h3>
+        <ul>
+          {aid.anchors.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+      <div>
+        <h3>Confusiones típicas</h3>
+        <ul>
+          {aid.confusions.map((item) => <li>{item}</li>)}
+        </ul>
+      </div>
+    </div>
+
+    <div class="memory-aid__drills">
+      <h3>Vuelta rápida de recuerdo</h3>
+      <ul>
+        {aid.drills.map((item) => <li>{item}</li>)}
+      </ul>
+    </div>
+  </section>
+)}

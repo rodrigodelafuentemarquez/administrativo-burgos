@@ -1,0 +1,166 @@
+---
+import Layout from '../layouts/Layout.astro';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+
+const sources = [
+  {
+    title: 'Ayuntamiento de Burgos: empleo y oposiciones',
+    description: 'Página general donde suelen colgar convocatorias, anuncios y enlaces del proceso.',
+    url: 'https://cultura.aytoburgos.es/web/ayuntamiento-de-burgos/empleo-y-oposiciones',
+    tag: 'Ayuntamiento',
+  },
+  {
+    title: 'Sede electrónica del Ayuntamiento de Burgos',
+    description: 'Útil para tablón, trámites, instancias y anuncios que remitan a sede.',
+    url: 'https://sede.aytoburgos.es/',
+    tag: 'Sede',
+  },
+  {
+    title: 'Boletín Oficial de la Provincia de Burgos',
+    description: 'Aquí suelen publicarse bases, listas, correcciones y resoluciones del proceso.',
+    url: 'https://bopbur.diputaciondeburgos.es/',
+    tag: 'BOP',
+  },
+  {
+    title: 'Mi BOE',
+    description: 'Servicio oficial de alertas por correo para nombramientos, oposiciones y búsquedas guardadas.',
+    url: 'https://www.boe.es/mi_boe/',
+    tag: 'BOE',
+  },
+];
+---
+
+<Layout title="Seguimiento de la convocatoria">
+  <div class="bd-intro ps-lg-2">
+    <h1 class="bd-title">Seguimiento oficial</h1>
+    <p class="bd-subtitle mb-0">Dónde mirar, qué vigilar y cómo enterarte a tiempo de listas, fechas y novedades de la oposición.</p>
+  </div>
+
+  <section class="bd-content ps-lg-2">
+    <section class="official-group">
+      <div class="official-group-heading">
+        <div>
+          <h2>Fuentes que sí cuentan</h2>
+          <p>Para este tipo de proceso, lo importante es seguir fuentes oficiales y no depender de academias, grupos o capturas sueltas.</p>
+        </div>
+      </div>
+
+      <div class="official-topic-list">
+        {sources.map((source) => (
+          <article class="official-topic">
+            <div class="official-topic-body">
+              <div class="official-topic-meta">
+                <span class="badge text-bg-dark">{source.tag}</span>
+              </div>
+              <h3>{source.title}</h3>
+              <p>{source.description}</p>
+              <a class="btn btn-sm btn-primary" href={source.url} target="_blank" rel="noreferrer">Abrir fuente oficial</a>
+            </div>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="rutina">
+      <div class="official-group-heading">
+        <div>
+          <h2>Rutina recomendada<a class="anchor-link" aria-label="Enlace a esta sección" href="#rutina"></a></h2>
+          <p>La idea es que no se te escape ninguna fecha importante sin tener que mirar todo cada día.</p>
+        </div>
+      </div>
+
+      <div class="study-list">
+        <ul>
+          <li><strong>Una revisión fija a la semana</strong> del apartado de empleo y oposiciones del Ayuntamiento.</li>
+          <li><strong>Revisión extra los días posteriores</strong> a publicación de bases, plantilla, listas o notas, porque suelen encadenarse anuncios.</li>
+          <li><strong>Mirar el BOP</strong> cuando esperes listas de admitidos, correcciones, tribunal, fecha de examen o resultados.</li>
+          <li><strong>Comprobar la sede</strong> si el anuncio remite a tablón o trámite electrónico.</li>
+          <li><strong>Guardar un registro propio</strong> con fecha, enlace y qué salió, para no perder el hilo del proceso.</li>
+        </ul>
+      </div>
+    </section>
+
+    <section class="official-group" id="alertas">
+      <div class="official-group-heading">
+        <div>
+          <h2>Alertas que merece la pena activar<a class="anchor-link" aria-label="Enlace a esta sección" href="#alertas"></a></h2>
+          <p>Lo más útil suele ser combinar una alerta general con una búsqueda guardada más fina.</p>
+        </div>
+      </div>
+
+      <div class="review-grid">
+        <article>
+          <h3>Mi BOE</h3>
+          <ul>
+            <li>Activa la alerta de <strong>“Nombramientos, oposiciones y concursos”</strong>.</li>
+            <li>Guarda además búsquedas como <strong>“Ayuntamiento de Burgos”</strong>, <strong>“Administrativo Burgos”</strong> y el nombre exacto de la plaza si aparece en BOE.</li>
+            <li>Sirve para enterarte por correo cuando salga algo nuevo relacionado con esa búsqueda.</li>
+          </ul>
+        </article>
+        <article>
+          <h3>Control manual corto</h3>
+          <ul>
+            <li>Mira primero el Ayuntamiento para contexto del proceso.</li>
+            <li>Confirma después en el <strong>BOP</strong> el texto publicado.</li>
+            <li>Si hay plazo o lista, revisa también la <strong>sede</strong> por si el detalle está en el tablón o en el trámite.</li>
+          </ul>
+        </article>
+      </div>
+    </section>
+
+    <section class="official-group" id="que-buscar">
+      <div class="official-group-heading">
+        <div>
+          <h2>Qué suele salir como novedad<a class="anchor-link" aria-label="Enlace a esta sección" href="#que-buscar"></a></h2>
+          <p>Cuando revises, busca siempre estos hitos del proceso.</p>
+        </div>
+      </div>
+
+      <table>
+        <thead>
+          <tr>
+            <th>Momento</th>
+            <th>Qué puede publicarse</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Inicio</td>
+            <td>Bases, extracto o anuncio en boletín y apertura de plazo.</td>
+          </tr>
+          <tr>
+            <td>Tras solicitudes</td>
+            <td>Lista provisional, exclusiones y plazo de subsanación.</td>
+          </tr>
+          <tr>
+            <td>Antes del examen</td>
+            <td>Lista definitiva, tribunal, fecha, hora, aula o llamamientos.</td>
+          </tr>
+          <tr>
+            <td>Después del examen</td>
+            <td>Plantilla, plazo de alegaciones, notas y convocatorias del siguiente ejercicio.</td>
+          </tr>
+          <tr>
+            <td>Final</td>
+            <td>Resultados finales, bolsa, nombramientos o propuesta de aspirantes.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <p class="study-note mb-0">
+        Referencias oficiales comprobadas hoy, <strong>9 de junio de 2026</strong>: [Ayuntamiento de Burgos - Empleo y Oposiciones](https://cultura.aytoburgos.es/web/ayuntamiento-de-burgos/empleo-y-oposiciones), [Sede electrónica](https://sede.aytoburgos.es/), [BOP Burgos](https://bopbur.diputaciondeburgos.es/) y [Mi BOE](https://www.boe.es/mi_boe/).
+      </p>
+    </section>
+
+    <section class="official-group">
+      <div class="official-group-heading">
+        <div>
+          <h2>Siguiente paso útil</h2>
+          <p>Ahora que esto queda montado, podemos ir metiendo mnemotecnia todavía más fina tema por tema, sobre todo en Constitución, Ley 39/2015, Ley 40/2015, personal, presupuesto y registro.</p>
+        </div>
+      </div>
+      <a class="btn btn-primary" href={`${base}programa/grupo-i-tema-01`}>Volver al temario</a>
+    </section>
+  </section>
+</Layout>

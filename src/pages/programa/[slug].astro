@@ -6,6 +6,8 @@ import NormativeSourceLinks from '../../components/NormativeSourceLinks.astro';
 import { getNormativeSources } from '../../data/normativeSources';
 import StudyAidBox from '../../components/StudyAidBox.astro';
 import { getStudyAid } from '../../data/studyAids';
+import MemoryAidBox from '../../components/MemoryAidBox.astro';
+import { getMemoryAid } from '../../data/memoryAids';
 import TopicReviewBox from '../../components/TopicReviewBox.astro';
 import { getTopicReview } from '../../data/topicReview';
 
@@ -19,6 +21,7 @@ const { Content } = await render(tema);
 const slug = tema.id.replace(/\.md$/, '');
 const sources = getNormativeSources(slug);
 const studyAid = getStudyAid(slug);
+const memoryAid = getMemoryAid(slug);
 const topicReview = getTopicReview(slug);
 const slugger = new GithubSlugger();
 const toc = tema.body
@@ -45,6 +48,7 @@ const toc = tema.body
   <div class="bd-content tema-content ps-lg-2">
     <NormativeSourceLinks sources={sources} />
     <StudyAidBox aid={studyAid} />
+    <MemoryAidBox aid={memoryAid} />
     <TopicReviewBox review={topicReview} />
     <Content />
   </div>
