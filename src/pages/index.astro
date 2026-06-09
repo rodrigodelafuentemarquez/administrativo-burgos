@@ -23,21 +23,26 @@ const officialSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCa
     <section class="official-group" id="seguimiento">
       <div class="official-group-heading">
         <div>
-          <h2>Seguimiento oficial<a class="anchor-link" aria-label="Enlace a esta sección" href="#seguimiento"></a></h2>
-          <p>Hemos dejado también una guía rápida para saber dónde salen novedades, fechas, listas y anuncios del proceso.</p>
+          <h2>Estado de la convocatoria<a class="anchor-link" aria-label="Enlace a esta sección" href="#seguimiento"></a></h2>
+          <p>Lo justo para no perder el plazo ni la documentación de estas 5 plazas.</p>
         </div>
       </div>
       <div class="official-topic-list">
         <article class="official-topic">
           <div class="official-topic-main">
-            <div class="official-topic-number">!</div>
+            <div class="official-topic-number">5</div>
             <div class="official-topic-body">
               <div class="official-topic-meta">
-                <span class="badge text-bg-dark">Ayuntamiento + BOP + BOE</span>
+                <span class="badge text-bg-warning text-dark">Pendiente de BOE</span>
+                <span class="badge text-bg-dark">20 días hábiles</span>
               </div>
-              <h3>Cómo seguir la convocatoria</h3>
-              <p>Enlaces oficiales, rutina de revisión y alertas recomendadas para no perder ninguna novedad.</p>
-              <a class="btn btn-sm btn-primary" href={`${base}convocatoria`}>Abrir seguimiento</a>
+              <h3>Administrativo Ayuntamiento de Burgos</h3>
+              <p>Las bases ya están publicadas en BOP, pero el plazo de solicitud arrancará cuando salga el extracto en BOE. Hemos dejado el resumen, enlaces oficiales y los PDFs guardados dentro de la web.</p>
+              <div class="official-topic-meta">
+                <a class="btn btn-sm btn-primary" href={`${base}convocatoria`}>Ver seguimiento</a>
+                <a class="btn btn-sm btn-outline-light" href={`${base}convocatoria/bases-administrativo-burgos-2026-bop.pdf`} target="_blank" rel="noreferrer">Abrir bases</a>
+                <a class="btn btn-sm btn-outline-light" href={`${base}convocatoria/anexo-1-instancia-administrativo-burgos-2026.pdf`} target="_blank" rel="noreferrer">Abrir anexo 1</a>
+              </div>
             </div>
           </div>
         </article>
