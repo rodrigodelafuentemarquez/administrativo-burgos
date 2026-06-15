@@ -99,6 +99,8 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       /\brespuesta\s+[abcd](?:\)|\.)?/,
       /\b[abcd]\s+y\s+[abcd]\s+son\s+correctas\b/,
       /\bopciones?\s+[abcd](?:\)|\.)?\s+y\s+[abcd](?:\)|\.)?/,
+      /\banteriores?\b/,
+      /\bsiguientes?\b/,
     ].some((pattern) => pattern.test(joined));
   }
 
