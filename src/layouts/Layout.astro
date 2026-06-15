@@ -51,6 +51,11 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       }
       body {
         font-family: ui-sans-serif, system-ui, -apple-system, "Segoe UI", sans-serif;
+        min-height: 100dvh;
+        overflow-x: clip;
+        overflow-y: auto;
+        -webkit-overflow-scrolling: touch;
+        touch-action: pan-y;
       }
       .btn-primary {
         --bs-btn-bg: var(--bd-violet);
@@ -169,6 +174,23 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       .bd-content {
         grid-area: content;
         min-width: 1px;
+      }
+      .bd-layout,
+      .bd-main,
+      .bd-content,
+      .official-topic,
+      .official-topic-main,
+      .official-topic-body,
+      .review-grid,
+      .study-structure,
+      .structure-grid,
+      .protection-levels,
+      .test-shell,
+      .test-panel,
+      .question-card,
+      .correction-card,
+      .result-summary {
+        min-width: 0;
       }
       .normative-sources {
         margin: 0 0 1.75rem;
@@ -606,29 +628,40 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         --study-mark-text: #d9ffe9;
       }
       .tema-content table {
-        width: 100%;
-        max-width: 100%;
+        width: max(100%, 38rem);
+        max-width: none;
         margin-bottom: 1.5rem;
         font-size: .875rem;
         vertical-align: top;
         border-color: var(--bs-border-color);
-        display: table;
+        table-layout: auto;
+        border-collapse: collapse;
+        display: block;
+        overflow-x: auto;
       }
       @media (max-width: 991.98px) {
         .tema-content table {
-          display: block;
-          overflow-x: auto;
+          width: max(100%, 34rem);
         }
       }
       .tema-content th,
       .tema-content td {
         padding: .5rem .5rem;
         border: 1px solid var(--bs-border-color);
+        min-width: 8.5rem;
+        vertical-align: top;
+        white-space: normal;
+        overflow-wrap: anywhere;
+        word-break: normal;
+        hyphens: auto;
       }
       .tema-content th {
         color: var(--bs-emphasis-color);
-        white-space: nowrap;
         background: transparent;
+      }
+      .tema-content th:first-child,
+      .tema-content td:first-child {
+        min-width: 7rem;
       }
       .tema-content thead {
         border-bottom: 2px solid currentcolor;
@@ -728,6 +761,11 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         flex-wrap: wrap;
         gap: .4rem;
         margin-bottom: .5rem;
+      }
+      .official-topic-meta .badge {
+        max-width: 100%;
+        white-space: normal;
+        text-align: left;
       }
       .official-topic h3 {
         margin-bottom: .75rem;
@@ -1006,6 +1044,31 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       }
       .test-actions {
         background: linear-gradient(180deg, rgba(33, 37, 41, 0), var(--bs-body-bg) 35%);
+      }
+      .official-topic .row {
+        --bs-gutter-x: .75rem;
+        margin-right: 0;
+        margin-left: 0;
+      }
+      .official-topic .row > * {
+        min-width: 0;
+        padding-right: 0;
+        padding-left: 0;
+      }
+      .official-topic .card,
+      .official-topic .card-body,
+      .official-topic p,
+      .official-topic li,
+      .answer-option span {
+        overflow-wrap: anywhere;
+        word-break: normal;
+      }
+      @media (max-width: 767.98px) {
+        .test-actions {
+          position: static !important;
+          padding-bottom: 0 !important;
+          background: transparent;
+        }
       }
       .score-ring {
         display: grid;

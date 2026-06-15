@@ -90,7 +90,23 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     return arr.map((v) => [Math.random(), v]).sort((a, b) => a[0] - b[0]).map((x) => x[1]);
   }
 
+  function optionOrderMatters(question) {
+    const texts = [question.pregunta, ...(question.opciones ?? [])]
+      .map((value) => String(value ?? '').toLowerCase());
+    const joined = texts.join(' || ');
+    return [
+      /\blas respuestas?\s+[abcd](?:\)|\.)?\s+y\s+[abcd](?:\)|\.)?/,
+      /\brespuesta\s+[abcd](?:\)|\.)?/,
+      /\b[abcd]\s+y\s+[abcd]\s+son\s+correctas\b/,
+      /\bopciones?\s+[abcd](?:\)|\.)?\s+y\s+[abcd](?:\)|\.)?/,
+    ].some((pattern) => pattern.test(joined));
+  }
+
   function shuffleQuestionOptions(question) {
+    if (optionOrderMatters(question)) {
+      return { ...question, opciones: [...question.opciones] };
+    }
+
     const options = question.opciones.map((texto, index) => ({
       texto,
       originalIndex: index,
