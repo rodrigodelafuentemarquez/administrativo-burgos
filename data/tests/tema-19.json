@@ -3,7 +3,7 @@
     "id": "topup-19-04",
     "pregunta": "La actividad económica pública implica:",
     "opciones": [
-      "intervención en el mercado o gestion de actividades empresariales públicas",
+      "intervención en el mercado o gestión de actividades empresariales públicas",
       "función jurisdiccional",
       "aprobación de mociones de censura",
       "solo inspección sanitaria"
@@ -46,7 +46,7 @@
     "pregunta": "La regularidad del servicio público significa que debe prestarse:",
     "opciones": [
       "conforme a reglas y condiciones preestablecidas",
-      "solo cuando lo pida la mayoria absoluta del Pleno",
+      "solo cuando lo pida la mayoría absoluta del Pleno",
       "sin control alguno",
       "únicamente por empresas privadas"
     ],
@@ -85,7 +85,7 @@
   },
   {
     "id": "topup-19-11",
-    "pregunta": "En la gestion directa de un servicio público:",
+    "pregunta": "En la gestión directa de un servicio público:",
     "opciones": [
       "el Ayuntamiento lo presta con medios propios",
       "siempre existe concesionario privado",
@@ -93,8 +93,8 @@
       "no puede haber personal funcionario"
     ],
     "correcta": 0,
-    "explicación": "La gestion directa utiliza medios municipales o entes instrumentales públicos.",
-    "referencia": "II.10 · Formas de gestion",
+    "explicación": "La gestión directa utiliza medios municipales o entes instrumentales públicos.",
+    "referencia": "II.10 · Formas de gestión",
     "tema": 19
   },
   {
@@ -108,12 +108,12 @@
     ],
     "correcta": 0,
     "explicación": "En la concesión el contratista explota el servicio bajo control administrativo.",
-    "referencia": "II.10 · Formas de gestion",
+    "referencia": "II.10 · Formas de gestión",
     "tema": 19
   },
   {
     "id": "topup-19-14",
-    "pregunta": "La elección de la forma de gestion de un servicio debe justificarse por criterios de:",
+    "pregunta": "La elección de la forma de gestión de un servicio debe justificarse por criterios de:",
     "opciones": [
       "eficacia, sostenibilidad, coste y calidad",
       "afinidad política exclusiva",
@@ -122,20 +122,20 @@
     ],
     "correcta": 0,
     "explicación": "La elección no es arbitraria: requiere motivación en interes público.",
-    "referencia": "II.10 · Formas de gestion",
+    "referencia": "II.10 · Formas de gestión",
     "tema": 19
   },
   {
     "id": "topup-19-15",
     "pregunta": "La remunicipalización consiste en:",
     "opciones": [
-      "recuperar para gestion pública un servicio antes gestionado indirectamente",
+      "recuperar para gestión pública un servicio antes gestionado indirectamente",
       "crear una nueva provincia",
       "disolver el Pleno municipal",
       "privatizar obligatoriamente el servicio"
     ],
     "correcta": 0,
-    "explicación": "La remunicipalización supone volver a la gestion pública directa o instrumental.",
+    "explicación": "La remunicipalización supone volver a la gestión pública directa o instrumental.",
     "referencia": "II.10 · Remunicipalización",
     "tema": 19
   },
@@ -158,7 +158,7 @@
     "pregunta": "La iniciativa económica pública local exige especial prudencia porque debe valorar:",
     "opciones": [
       "interes público, mercado y sostenibilidad financiera",
-      "solo el numero de concejales",
+      "solo el número de concejales",
       "exclusivamente el color político del gobierno",
       "la firma del delegado sindical"
     ],
@@ -177,13 +177,13 @@
       "competencia judicial penal"
     ],
     "correcta": 0,
-    "explicación": "La responsabilidad pública no desaparece por externalizar la gestion.",
+    "explicación": "La responsabilidad pública no desaparece por externalizar la gestión.",
     "referencia": "II.10 · Gestion y control del servicio",
     "tema": 19
   },
   {
     "id": "topup-19-19",
-    "pregunta": "Un riesgo de baja calidad en la gestion del servicio puede afrontarse mediante:",
+    "pregunta": "Un riesgo de baja calidad en la gestión del servicio puede afrontarse mediante:",
     "opciones": [
       "indicadores, inspecciones y penalidades",
       "desaparición del control municipal",
@@ -211,7 +211,7 @@
   },
   {
     "id": "refine-19-02",
-    "pregunta": "En la gestion indirecta de un servicio público, el Ayuntamiento conserva:",
+    "pregunta": "En la gestión indirecta de un servicio público, el Ayuntamiento conserva:",
     "opciones": [
       "la titularidad del servicio y las potestades de dirección y control",
       "solo una función simbolica sin capacidad de intervenir",
@@ -242,13 +242,13 @@
     "pregunta": "La remunicipalización de un servicio público no permite, por si sola:",
     "opciones": [
       "ignorar contratos vigentes, personal afectado y sostenibilidad financiera",
-      "recuperar la gestion pública del servicio",
+      "recuperar la gestión pública del servicio",
       "tramitar una memoria justificativa",
-      "valorar la forma de gestion mas eficiente"
+      "valorar la forma de gestión mas eficiente"
     ],
     "correcta": 0,
     "referencia": "II.10 · Remunicipalización",
-    "explicación": "La vuelta a la gestion pública exige respetar el marco contractual, laboral y económico aplicable.",
+    "explicación": "La vuelta a la gestión pública exige respetar el marco contractual, laboral y económico aplicable.",
     "tema": 19
   },
   {
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-19-06",
-    "pregunta": "Cuándo el Ayuntamiento elige una forma de gestion de un servicio, no actua con libertad absoluta porque debe atender, entre otros, a criterios de:",
+    "pregunta": "Cuándo el Ayuntamiento elige una forma de gestión de un servicio, no actua con libertad absoluta porque debe atender, entre otros, a criterios de:",
     "opciones": [
       "eficacia, coste, calidad, control y sostenibilidad",
       "afinidad política del futuro gestor",
@@ -275,8 +275,8 @@
       "preferencia personal del alcalde sin expediente"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Elección de la forma de gestion",
-    "explicación": "La selección de la forma de gestion debe justificarse objetivamente en un expediente y responder al interes público.",
+    "referencia": "II.10 · Elección de la forma de gestión",
+    "explicación": "La selección de la forma de gestión debe justificarse objetivamente en un expediente y responder al interes público.",
     "tema": 19
   },
   {

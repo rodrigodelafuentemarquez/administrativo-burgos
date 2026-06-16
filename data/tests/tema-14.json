@@ -4,9 +4,9 @@
     "tema": 14,
     "pregunta": "Conforme a la Ley 40/2015, para la valida constitución de un órgano colegiado, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, se requerira:",
     "opciones": [
-      "La asistencia presencial o a distancia de la mayoria de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario",
-      "La asistencia presencial o a distancia de la mayoria de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario o de quienes les suplan",
-      "La asistencia, presencial o a distancia, del presidente y secretario o de quienes les suplan, y la mayoria de sus miembros",
+      "La asistencia presencial o a distancia de la mayoría de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario",
+      "La asistencia presencial o a distancia de la mayoría de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario o de quienes les suplan",
+      "La asistencia, presencial o a distancia, del presidente y secretario o de quienes les suplan, y la mayoría de sus miembros",
       "La asistencia, presencial o a distancia, del presidente y secretario o de quienes les suplan, y la de la mitad, al menos, de sus miembros"
     ],
     "correcta": 3,
@@ -272,7 +272,7 @@
       "autorizar a otro órgano o titular para firmar actos sin alterar la competencia",
       "trasladar la titularidad de la competencia a otra Administración",
       "renunciar al ejercicio de toda potestad",
-      "encomendar la gestion material de un servicio a un particular"
+      "encomendar la gestión material de un servicio a un particular"
     ],
     "correcta": 0,
     "explicación": "La delegación de firma no cambia la titularidad competencial, solo la firma formal.",

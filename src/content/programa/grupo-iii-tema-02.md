@@ -102,7 +102,7 @@ Durante la suspensión se priva temporalmente del ejercicio de funciones y de de
 
 ## Efectos prácticos
 
-Las situaciones administrativas afectan a nominas, vacantes, reserva de puesto, computo de antiguedad, derechos de carrera, provisión, sustituciones y oferta de empleo. En un Ayuntamiento, su gestion exige resoluciones motivadas, informes de personal, control de plazos y correcta anotación en expediente personal.
+Las situaciones administrativas afectan a nóminas, vacantes, reserva de puesto, computo de antiguedad, derechos de carrera, provisión, sustituciones y oferta de empleo. En un Ayuntamiento, su gestión exige resoluciones motivadas, informes de personal, control de plazos y correcta anotación en expediente personal.
 
 | Efecto | Por qué importa en personal |
 | --- | --- |

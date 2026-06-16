@@ -63,7 +63,7 @@ Los principios son evitar riesgos, evaluar los que no se puedan evitar, combatir
 
 La Administración debe garantizar seguridad y salud del personal. Debe elaborar evaluación de riesgos, plan preventivo, medidas de emergencia, información, formación, vigilancia de salud, equipos adecuados y coordinación de actividades empresariales.
 
-También debe consultar y permitir participación a trabajadores mediante delegados de prevención y comite de seguridad y salud cuando proceda.
+También debe consultar y permitir participación a trabajadores mediante delegados de prevención y comité de seguridad y salud cuando proceda.
 
 La vigilancia de la salud debe ser proporcional al riesgo y respetar intimidad y confidencialidad. Con carácter general requiere consentimiento, salvo supuestos en que sea imprescindible para evaluar efectos de condiciones de trabajo o verificar si el estado del trabajador puede constituir peligro.
 
@@ -122,4 +122,4 @@ La prevención en oficinas no es menor: reduce bajas, errores, conflictos y dete
 
 La prevención genera documentación: evaluación de riesgos, planificación preventiva, información y formación, entrega de equipos, investigación de accidentes, vigilancia de salud, medidas de emergencia y coordinación de actividades empresariales.
 
-En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comites o gestion de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.
+En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comites o gestión de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.

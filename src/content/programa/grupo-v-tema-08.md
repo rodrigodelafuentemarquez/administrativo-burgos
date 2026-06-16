@@ -52,9 +52,9 @@ El indice electrónico equivale a una garantía de integridad del expediente. Pe
 
 ## Archivo
 
-El archivo administrativo conserva documentos para gestion, prueba, transparencia, memoria institucional e investigación. No es un almacen pasivo: ordena, clasifica, custodia, describe y facilita acceso.
+El archivo administrativo conserva documentos para gestión, prueba, transparencia, memoria institucional e investigación. No es un almacen pasivo: ordena, clasifica, custodia, describe y facilita acceso.
 
-La función de archivo empieza antes de que el expediente termine. Si durante la tramitación se nombran mal los documentos, se duplican versiones o no se incorporan justificantes, el archivo posterior sera deficiente. Por eso la gestion documental debe estar presente desde la entrada del primer documento.
+La función de archivo empieza antes de que el expediente termine. Si durante la tramitación se nombran mal los documentos, se duplican versiones o no se incorporan justificantes, el archivo posterior sera deficiente. Por eso la gestión documental debe estar presente desde la entrada del primer documento.
 
 ## Clases de archivos
 

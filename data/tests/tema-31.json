@@ -17,7 +17,7 @@
     "id": "topup-31-07",
     "pregunta": "El suelo urbanizable es aquel que:",
     "opciones": [
-      "puede transformarse mediante planeamiento y gestion",
+      "puede transformarse mediante planeamiento y gestión",
       "queda siempre excluido de cualquier actuación",
       "equivale al dominio público local",
       "solo admite uso forestal"
@@ -51,7 +51,7 @@
       "control del Banco de Espana"
     ],
     "correcta": 0,
-    "explicación": "El Ayuntamiento interviene en planeamiento, gestion y disciplina dentro del marco legal.",
+    "explicación": "El Ayuntamiento interviene en planeamiento, gestión y disciplina dentro del marco legal.",
     "referencia": "IV.5 · Competencia urbanística municipal",
     "tema": 31
   },
@@ -269,14 +269,14 @@
     "id": "refine-31-06",
     "pregunta": "La competencia urbanística municipal comprende normalmente funciones de:",
     "opciones": [
-      "planeamiento, gestion, intervención y disciplina urbanística",
+      "planeamiento, gestión, intervención y disciplina urbanística",
       "legislación orgánica estatal exclusiva",
       "control del poder judicial",
-      "gestion de la Seguridad Social contributiva"
+      "gestión de la Seguridad Social contributiva"
     ],
     "correcta": 0,
     "referencia": "IV.5 · Competencia urbanística municipal",
-    "explicación": "El municipio interviene en planeamiento, gestion, licencias y disciplina en los terminos que marque la normativa.",
+    "explicación": "El municipio interviene en planeamiento, gestión, licencias y disciplina en los terminos que marque la normativa.",
     "tema": 31
   },
   {

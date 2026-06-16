@@ -32,7 +32,7 @@ Los funcionarios interinos son nombrados por razones justificadas de necesidad y
 
 El personal laboral se vincula mediante contrato de trabajo. Puede ser fijo, por tiempo indefinido o temporal. Su régimen se rige por legislación laboral, EBEP en lo aplicable, convenio colectivo y contrato.
 
-El personal eventual realiza funciones expresamente calificadas de confianza o asesoramiento especial. Su nombramiento y cese son libres y cesa automaticamente cuando cesa la autoridad a la que presta función de confianza.
+El personal eventual realiza funciones expresamente calificadas de confianza o asesoramiento especial. Su nombramiento y cese son libres y cesa automáticamente cuando cesa la autoridad a la que presta función de confianza.
 
 | Clase de personal | Vinculo | Rasgo esencial | Atención en test |
 | --- | --- | --- | --- |

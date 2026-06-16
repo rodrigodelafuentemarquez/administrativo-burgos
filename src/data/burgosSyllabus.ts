@@ -89,8 +89,8 @@ export const officialGroups: OfficialGroup[] = [
         match(9, 'Régimen Local español. Clases de Entes Locales. Regulación jurídica.', 'parcial', 'Falta desarrollo específico de municipio, población y padron.'),
       ]),
       topic('I', 7, 'Organización política y administrativa del Ayuntamiento de Burgos: Pleno, alcalde, tenientes de alcalde, Junta de Gobierno Local, Secretaria, Intervención y Gestion Tributaria.', 'alta', 'base aprovechable'),
-      topic('I', 8, 'La Union Europea. Instituciones comunitarias principales.', 'normal', 'base aprovechable', [
-        match(41, 'La Union Europea: origen, evolución e instituciones europeas.', 'alta'),
+      topic('I', 8, 'La Unión Europea. Instituciones comunitarias principales.', 'normal', 'base aprovechable', [
+        match(41, 'La Unión Europea: origen, evolución e instituciones europeas.', 'alta'),
       ]),
       topic('I', 9, 'La Comunidad de Castilla y León. Estatuto de Autonomía: estructura, derechos, principios, competencias y reforma.', 'normal', 'base aprovechable', [
         match(8, 'El Estatuto de Autonomía de Castilla y León. Organización de la Comunidad Autónoma.', 'alta'),
@@ -133,7 +133,7 @@ export const officialGroups: OfficialGroup[] = [
       topic('II', 9, 'Bienes de las entidades locales: dominio público, patrimoniales, enajenación, cesión y utilización.', 'normal', 'base aprovechable', [
         match(27, 'Clasificación y régimen jurídico de los bienes de las Entidades Locales.', 'alta'),
       ]),
-      topic('II', 10, 'Formas de actividad administrativa, servicio público, gestion, remunicipalización e iniciativa económica pública.', 'normal', 'pendiente'),
+      topic('II', 10, 'Formas de actividad administrativa, servicio público, gestión, remunicipalización e iniciativa económica pública.', 'normal', 'pendiente'),
       topic('II', 11, 'Funcionamiento de órganos colegiados locales: convocatorias, orden del día, constitución y votaciones.', 'normal', 'base aprovechable', [
         match(26, 'Funcionamiento de los órganos colegiados locales.', 'alta'),
       ]),
@@ -173,7 +173,7 @@ export const officialGroups: OfficialGroup[] = [
     topics: [
       topic('IV', 1, 'Tributos locales, potestad reglamentaria tributaria, ordenanzas fiscales e impugnación.', 'crítica', 'pendiente'),
       topic('IV', 2, 'Presupuesto, principios, créditos, gastos plurianuales y modificaciones presupuestarias.', 'crítica', 'base aprovechable', [
-        match(30, 'Presupuesto de las Entidades Locales. Estructura y gestion económica local.', 'parcial'),
+        match(30, 'Presupuesto de las Entidades Locales. Estructura y gestión económica local.', 'parcial'),
         match(44, 'Presupuesto público, ciclo, ejecución, modificaciones y control.', 'alta'),
       ]),
       topic('IV', 3, 'Ejecución del presupuesto de gasto: órganos, fases, documentos contables, compromisos futuros y ordenación del pago.', 'crítica', 'base aprovechable', [

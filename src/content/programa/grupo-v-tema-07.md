@@ -2,7 +2,7 @@
 grupo: "Grupo V. Competencias"
 tema: 7
 codigo: "Tema V.7"
-titulo: "Las nuevas tecnologías en la gestion de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público."
+titulo: "Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público."
 estado: "borrador"
 ---
 
@@ -10,13 +10,13 @@ estado: "borrador"
 
 La administración electrónica se regula por la Ley 39/2015, la Ley 40/2015, el Real Decreto 203/2021, el Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y normativa de identificación, firma y archivo electrónico.
 
-## Nuevas tecnologías en la gestion pública
+## Nuevas tecnologías en la gestión pública
 
 Las tecnologías permiten tramitar expedientes, registrar documentos, notificar, firmar, archivar, intercambiar datos, automatizar tareas y prestar servicios sin presencia física. Su finalidad no es solo digitalizar papel, sino mejorar eficacia, trazabilidad, accesibilidad y transparencia.
 
 La transformación digital de la Administración tiene una consecuencia muy importante: el procedimiento ya no se concibe como una carpeta física que circula entre mesas, sino como una secuencia documentada de actuaciones electronicas. Cada actuación debe poder identificarse, fecharse, firmarse, conservarse y auditarse. Por eso las nuevas tecnologías no son un accesorio informatico, sino una parte del régimen jurídico del procedimiento.
 
-| Elemento | Función en la gestion pública |
+| Elemento | Función en la gestión pública |
 | --- | --- |
 | Sede electrónica | Punto oficial de acceso a trámites y servicios electrónicos. |
 | Registro electrónico | Entrada y salida de solicitudes, escritos y comunicaciones. |
@@ -54,7 +54,7 @@ El derecho a no aportar documentos ya obrantes en la Administración es especial
 
 La sede electrónica es la dirección electrónica titularidad de una Administración que garantiza identificación, autenticidad y responsabilidad. El registro electrónico permite presentar documentos todos los días y horas. La notificación electrónica se práctica mediante comparecencia en sede o dirección electrónica habilitada.
 
-La sede debe identificar a su titular, garantizar canales seguros, publicar información de trámites, permitir acceso al registro y ofrecer medios de comprobación de documentos. El registro electrónico emite recibo con fecha, hora, numero de registro y relación de documentos presentados.
+La sede debe identificar a su titular, garantizar canales seguros, publicar información de trámites, permitir acceso al registro y ofrecer medios de comprobación de documentos. El registro electrónico emite recibo con fecha, hora, número de registro y relación de documentos presentados.
 
 La notificación electrónica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado esta obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
 

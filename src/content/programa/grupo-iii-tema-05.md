@@ -14,7 +14,7 @@ La norma central es el Real Decreto Legislativo 8/2015, por el que se aprueba el
 
 La Seguridad Social es un sistema público destinado a garantizar asistencia y prestaciones suficientes ante situaciones de necesidad. La Constitución encomienda a los poderes públicos mantener un régimen público de Seguridad Social para todos los ciudadanos.
 
-El sistema se basa en principios de universalidad, unidad, solidaridad, igualdad, suficiencia de prestaciones y gestion pública, aunque admite colaboración de entidades gestoras, servicios comunes, mutuas y empresas en determinados ámbitos.
+El sistema se basa en principios de universalidad, unidad, solidaridad, igualdad, suficiencia de prestaciones y gestión pública, aunque admite colaboración de entidades gestoras, servicios comunes, mutuas y empresas en determinados ámbitos.
 
 | Principio | Significado |
 | --- | --- |
@@ -25,7 +25,7 @@ El sistema se basa en principios de universalidad, unidad, solidaridad, igualdad
 | Suficiencia | Las prestaciones deben atender necesidades protegidas de forma adecuada. |
 | Gestion pública | La dirección del sistema corresponde a poderes públicos, con colaboraciones previstas. |
 
-La Seguridad Social no es solo una materia de prestaciones. En la Administración local aparece en nominas, cotización, contratación de personal, bajas medicas, accidentes de trabajo, jubilaciones, permisos vinculados al nacimiento y cuidado, desempleo de personal laboral temporal y presupuestación del capitulo de personal.
+La Seguridad Social no es solo una materia de prestaciones. En la Administración local aparece en nóminas, cotización, contratación de personal, bajas médicas, accidentes de trabajo, jubilaciones, permisos vinculados al nacimiento y cuidado, desempleo de personal laboral temporal y presupuestación del capítulo de personal.
 
 ## Campo de aplicación
 
@@ -46,17 +46,17 @@ La distinción es importante porque muchas prestaciones exigen cotización previ
 
 El sistema se estructura en régimen general y regimenes especiales. El Régimen General es el núcleo principal e incluye trabajadores por cuenta ajena y asimilados. Los regimenes especiales atienden actividades con peculiaridades: trabajadores autonomos, trabajadores del mar, mineria del carbon u otros que subsistan.
 
-La gestion corresponde a entidades gestoras como el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina en su ámbito, y servicios comunes como la Tesoreria General de la Seguridad Social. Las mutuas colaboradoras participan en contingencias profesionales, incapacidad temporal y otras prestaciones en los terminos legales.
+La gestión corresponde a entidades gestoras como el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina en su ámbito, y servicios comunes como la Tesoreria General de la Seguridad Social. Las mutuas colaboradoras participan en contingencias profesionales, incapacidad temporal y otras prestaciones en los terminos legales.
 
 | Entidad u organismo | Función principal |
 | --- | --- |
-| INSS | Reconocimiento y gestion de muchas prestaciones económicas del sistema. |
+| INSS | Reconocimiento y gestión de muchas prestaciones económicas del sistema. |
 | TGSS | Afiliación, altas, bajas, cotización y recaudación. |
 | Mutuas colaboradoras | Colaboración en contingencias profesionales e incapacidad temporal segun cobertura. |
 | Servicio público de salud | Asistencia sanitaria en el ámbito correspondiente. |
 | SEPE | Prestaciones por desempleo en coordinación con Seguridad Social. |
 
-En la gestion cotidiana, recursos humanos suele relacionarse con el sistema RED, partes de incapacidad temporal, liquidaciones de seguros sociales, variaciones de datos, certificados de empresa, jubilaciones y comunicación de accidentes.
+En la gestión cotidiana, recursos humanos suele relacionarse con el sistema RED, partes de incapacidad temporal, liquidaciones de seguros sociales, variaciones de datos, certificados de empresa, jubilaciones y comunicación de accidentes.
 
 ## Afiliación, altas, bajas y cotización
 
@@ -66,7 +66,7 @@ En una Administración local, recursos humanos debe tramitar altas, bajas, varia
 
 | Acto | Momento | Importancia |
 | --- | --- | --- |
-| Afiliación | Primera incorporación al sistema. | Asigna numero de Seguridad Social. |
+| Afiliación | Primera incorporación al sistema. | Asigna número de Seguridad Social. |
 | Alta | Inicio de actividad incluida. | Activa protección y obligación de cotizar. |
 | Baja | Cese de actividad. | Finaliza obligación ordinaria de cotizar por ese vinculo. |
 | Variación de datos | Cambio de contrato, jornada, grupo u otros datos. | Evita errores de cotización y prestaciones. |
@@ -97,7 +97,7 @@ La acción protectora esta ligada al hecho causante, la base reguladora, el per�
 
 Las contingencias pueden ser comunes o profesionales. Las comunes derivan de enfermedad comun o accidente no laboral. Las profesionales derivan de accidente de trabajo o enfermedad profesional.
 
-La calificación de contingencia afecta a requisitos, cuantia, responsable, cotización y gestion. En el empleo público local, la prevención de riesgos y la correcta comunicación de accidentes son esenciales.
+La calificación de contingencia afecta a requisitos, cuantia, responsable, cotización y gestión. En el empleo público local, la prevención de riesgos y la correcta comunicación de accidentes son esenciales.
 
 | Contingencia | Origen | Ejemplo |
 | --- | --- | --- |
@@ -110,7 +110,7 @@ La diferencia tiene efectos en parte de baja, investigación preventiva, recargo
 
 ## Relevancia administrativa
 
-La Seguridad Social afecta a nominas, cotizaciones, permisos, incapacidades, jubilaciones, contratos, recursos humanos y presupuestos. Un administrativo municipal puede intervenir en expedientes de personal, partes de baja, certificados, seguros sociales, vida laboral, jubilación y acción social.
+La Seguridad Social afecta a nóminas, cotizaciones, permisos, incapacidades, jubilaciones, contratos, recursos humanos y presupuestos. Un administrativo municipal puede intervenir en expedientes de personal, partes de baja, certificados, seguros sociales, vida laboral, jubilación y acción social.
 
 ## Relación con recursos humanos municipal
 

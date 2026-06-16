@@ -103,7 +103,7 @@
     "opciones": [
       "cuando se inscribe en el padron municipal",
       "al pagar el IBI",
-      "al cumplir 18 anos",
+      "al cumplir 18 años",
       "al votar en elecciones generales"
     ],
     "correcta": 0,
@@ -135,7 +135,7 @@
       "la Diputación Permanente"
     ],
     "correcta": 0,
-    "explicación": "La gestion padronal es una competencia municipal, con coordinación del INE.",
+    "explicación": "La gestión padronal es una competencia municipal, con coordinación del INE.",
     "referencia": "I.6 · Gestion del padron",
     "tema": 6
   },
@@ -215,7 +215,7 @@
     "opciones": [
       "la inscripción en el padron municipal",
       "el pago del IBI durante dos ejercicios",
-      "la residencia continuada de hecho durante un ano aunque no exista inscripción",
+      "la residencia continuada de hecho durante un año aunque no exista inscripción",
       "la inclusión en el censo electoral general"
     ],
     "correcta": 0,
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-06-04",
-    "pregunta": "La gestion y formación del padron municipal corresponde al Ayuntamiento, bajo la coordinación de:",
+    "pregunta": "La gestión y formación del padron municipal corresponde al Ayuntamiento, bajo la coordinación de:",
     "opciones": [
       "el Instituto Nacional de Estadistica",
       "el Consejo General del Poder Judicial",
@@ -270,8 +270,8 @@
     "pregunta": "La inscripción padronal de una persona extranjera:",
     "opciones": [
       "no equivale por si sola a la regularización de su situación de extranjeria",
-      "supone automaticamente autorización de residencia",
-      "solo es posible si la persona pertenece a la Union Europea",
+      "supone automáticamente autorización de residencia",
+      "solo es posible si la persona pertenece a la Unión Europea",
       "requiere una resolución judicial previa"
     ],
     "correcta": 0,

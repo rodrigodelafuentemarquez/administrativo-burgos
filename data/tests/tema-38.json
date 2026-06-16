@@ -35,11 +35,11 @@
       "En el mismo horario que las oficinas presenciales",
       "De lunes a viernes, las 24 horas del día",
       "De lunes a viernes, de 8 a 20 horas y los sabados de 9 a 14 horas",
-      "Todos los días del ano, las 24 horas del día"
+      "Todos los días del año, las 24 horas del día"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 47",
-    "explicación": "El registro electrónico permite la presentación de solicitudes todos los días del ano durante las 24 horas."
+    "explicación": "El registro electrónico permite la presentación de solicitudes todos los días del año durante las 24 horas."
   },
   {
     "id": "pdf-2025-burgos-q57",

@@ -230,7 +230,7 @@
       "debe realizarse un gasto específico que no puede demorarse y no existe crédito para el",
       "hay crédito insuficiente en una aplicación ya existente",
       "se redistribuyen saldos sin alterar el presupuesto total",
-      "se prorroga automaticamente el presupuesto"
+      "se prorroga automáticamente el presupuesto"
     ],
     "correcta": 0,
     "referencia": "IV.2 · Modificaciones presupuestarias",

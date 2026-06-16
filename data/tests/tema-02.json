@@ -466,10 +466,10 @@
     "tema": 2,
     "pregunta": "De acuerdo con el art. 67 CE, señale la afirmación correcta:",
     "opciones": [
-      "Nadie podrá ser miembro de las dos Camaras simultaneamente, salvo el Presidente del Gobierno",
-      "Nadie podrá ser miembro de las dos Camaras simultaneamente",
+      "Nadie podrá ser miembro de las dos Camaras simultáneamente, salvo el Presidente del Gobierno",
+      "Nadie podrá ser miembro de las dos Camaras simultáneamente",
       "Podra acumularse libremente el acta de una Asamblea autonómica con la de Diputado al Congreso",
-      "Los Ministros pueden ser miembros de las dos Camaras simultaneamente"
+      "Los Ministros pueden ser miembros de las dos Camaras simultáneamente"
     ],
     "correcta": 1,
     "explicación": "El art. 67 CE prohíbe ser miembro de ambas Cámaras a la vez.",
@@ -660,16 +660,16 @@
   {
     "id": "t05-p016",
     "tema": 2,
-    "pregunta": "De acuerdo con el art. 112 CE, la cuestion de confianza planteada por el Presidente del Gobierno se entendera otorgada cuando vote a favor de la misma:",
+    "pregunta": "De acuerdo con el art. 112 CE, la cuestión de confianza planteada por el Presidente del Gobierno se entendera otorgada cuando vote a favor de la misma:",
     "opciones": [
-      "La mayoria absoluta del Congreso de los Diputados y del Senado",
-      "La mayoria simple del Congreso de los Diputados",
-      "La mayoria absoluta del Congreso de los Diputados",
-      "La mayoria simple del Congreso de los Diputados y del Senado"
+      "La mayoría absoluta del Congreso de los Diputados y del Senado",
+      "La mayoría simple del Congreso de los Diputados",
+      "La mayoría absoluta del Congreso de los Diputados",
+      "La mayoría simple del Congreso de los Diputados y del Senado"
     ],
     "correcta": 1,
-    "explicación": "La cuestion de confianza se entiende otorgada si obtiene la mayoria simple del Congreso.",
-    "referencia": "I.2 · 7.1 La cuestion de confianza (art. 112 CE)"
+    "explicación": "La cuestión de confianza se entiende otorgada si obtiene la mayoría simple del Congreso.",
+    "referencia": "I.2 · 7.1 La cuestión de confianza (art. 112 CE)"
   },
   {
     "id": "t06-p001",

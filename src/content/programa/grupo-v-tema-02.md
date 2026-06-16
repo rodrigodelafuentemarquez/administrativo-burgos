@@ -69,7 +69,7 @@ Los limites deben aplicarse de forma proporcionada y atendiendo al caso concreto
 | Confidencialidad | Información protegida por una norma específica. |
 | Propiedad intelectual | Acceso al documento sin autorizar usos que vulneren derechos. |
 
-La regla no es denegar automaticamente. Primero hay que identificar el limite, justificar el perjuicio, ponderar el interes público y valorar acceso parcial o disociación de datos.
+La regla no es denegar automáticamente. Primero hay que identificar el limite, justificar el perjuicio, ponderar el interes público y valorar acceso parcial o disociación de datos.
 
 ## Ejercicio del derecho
 
@@ -96,6 +96,6 @@ En el Ayuntamiento, transparencia afecta a contratos, presupuestos, actas, orden
 
 ## Transparencia, archivo y buen gobierno
 
-La transparencia depende de una buena gestion documental. Si los expedientes estan incompletos, mal clasificados o dispersos, sera dificil cumplir publicidad activa y derecho de acceso. Por eso este tema se conecta directamente con registro, archivo, administración electrónica y protección de datos.
+La transparencia depende de una buena gestión documental. Si los expedientes estan incompletos, mal clasificados o dispersos, sera dificil cumplir publicidad activa y derecho de acceso. Por eso este tema se conecta directamente con registro, archivo, administración electrónica y protección de datos.
 
-El buen gobierno completa el sistema: exige conducta responsable de altos cargos y responsables públicos, respeto a la ley, gestion adecuada de recursos, imparcialidad, diligencia y rendición de cuentas. La transparencia permite ver; el buen gobierno exige actuar correctamente.
+El buen gobierno completa el sistema: exige conducta responsable de altos cargos y responsables públicos, respeto a la ley, gestión adecuada de recursos, imparcialidad, diligencia y rendición de cuentas. La transparencia permite ver; el buen gobierno exige actuar correctamente.

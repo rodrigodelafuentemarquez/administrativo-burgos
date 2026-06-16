@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo I. Organización del Estado, de la Union Europea, de las entidades locales y de la Comunidad de Castilla y León"
+grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidades locales y de la Comunidad de Castilla y León"
 tema: 3
 codigo: "Tema I.3"
 titulo: "La Constitución Española (III): la organización territorial del Estado español. Las comunidades autonomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autonomas."
@@ -14,7 +14,7 @@ También debe ponerse en relación con los Estatutos de Autonomía, que son leye
 
 ## La organización territorial del Estado
 
-La Constitución regula la organización territorial del Estado en el titulo VIII. El punto de partida es el artículo 137, segun el cual el Estado se organiza territorialmente en municipios, provincias y comunidades autonomas que se constituyan. Todas estas entidades gozan de autonomía para la gestion de sus respectivos intereses.
+La Constitución regula la organización territorial del Estado en el titulo VIII. El punto de partida es el artículo 137, segun el cual el Estado se organiza territorialmente en municipios, provincias y comunidades autonomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
 
 | Articulo | Materia | Clave |
 |---|---|---|
@@ -56,7 +56,7 @@ Estos artículos conectan directamente con el régimen local que aparece en otro
 
 ## Las comunidades autonomas
 
-Las comunidades autonomas son entidades territoriales dotadas de autonomía política para la gestion de sus intereses. Su existencia se fundamenta en el artículo 2 y se desarrolla en el titulo VIII.
+Las comunidades autonomas son entidades territoriales dotadas de autonomía política para la gestión de sus intereses. Su existencia se fundamenta en el artículo 2 y se desarrolla en el titulo VIII.
 
 La Constitución distingue entre nacionalidades y regiones, pero no define ambas categorias. Lo relevante juridicamente es que los territorios que cumplan los requisitos constitucionales pueden acceder a su autogobierno y constituirse en comunidad autonoma mediante la aprobación de su Estatuto de Autonomía.
 
@@ -75,7 +75,7 @@ Las comunidades autonomas tienen instituciones propias, competencias propias y p
 
 La Constitución establecio distintas vias de acceso a la autonomía.
 
-La via ordinaria se articula en el artículo 143. Podian acceder al autogobierno las provincias limitrofes con carácterísticas historicas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional historica. La iniciativa correspondia a las Diputaciones interesadas u órganos interinsulares correspondientes y a las dos terceras partes de los municipios cuya población representase, al menos, la mayoria del censo electoral de cada provincia o isla.
+La via ordinaria se articula en el artículo 143. Podian acceder al autogobierno las provincias limitrofes con carácterísticas historicas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional historica. La iniciativa correspondia a las Diputaciones interesadas u órganos interinsulares correspondientes y a las dos terceras partes de los municipios cuya población representase, al menos, la mayoría del censo electoral de cada provincia o isla.
 
 La via especial del artículo 151 permitia alcanzar desde el inicio un mayor nivel competencial, sin esperar los plazos previstos para la ampliación progresiva de competencias. Exigia una iniciativa mas reforzada y referendum en los terminos constitucionales.
 
@@ -85,7 +85,7 @@ Ademas, el artículo 144 permite a las Cortes Generales, mediante ley orgánica 
 
 | Via o regla | Articulo | Rasgo principal |
 |---|---|---|
-| Via ordinaria | Articulo 143 | Iniciativa de Diputaciones u órganos insulares y municipios con mayoria reforzada. |
+| Via ordinaria | Articulo 143 | Iniciativa de Diputaciones u órganos insulares y municipios con mayoría reforzada. |
 | Via especial | Articulo 151 | Acceso inicial a mayor nivel competencial con requisitos reforzados. |
 | Regla historica | Disposición transitoria segunda | Territorios con proyectos estatutarios plebiscitados. |
 | Interes nacional | Articulo 144 | Intervención de Cortes Generales mediante ley orgánica. |
@@ -94,7 +94,7 @@ Ademas, el artículo 144 permite a las Cortes Generales, mediante ley orgánica 
 
 ## Estatutos de Autonomía
 
-El Estatuto de Autonomía es la norma institucional básica de cada comunidad autonoma. El Estado lo reconoce y ampara como parte integrante de su ordenamiento jurídico. Se aprueba por ley orgánica, lo que exige intervención de las Cortes Generales y mayoria absoluta del Congreso en votación final sobre el conjunto.
+El Estatuto de Autonomía es la norma institucional básica de cada comunidad autonoma. El Estado lo reconoce y ampara como parte integrante de su ordenamiento jurídico. Se aprueba por ley orgánica, lo que exige intervención de las Cortes Generales y mayoría absoluta del Congreso en votación final sobre el conjunto.
 
 El contenido mínimo del Estatuto se recoge en el artículo 147. Debe incluir la denominación de la comunidad que mejor corresponda a su identidad historica, la delimitación de su territorio, la denominación, organización y sede de las instituciones autonomas propias, y las competencias asumidas dentro del marco constitucional, asi como las bases para el traspaso de los servicios correspondientes.
 
@@ -129,7 +129,7 @@ También se contempla un Tribunal Superior de Justicia, que culmina la organizac
 
 La distribución de competencias entre el Estado y las comunidades autonomas se articula principalmente a traves de los artículos 148 y 149.
 
-El artículo 148 enumera materias que las comunidades autonomas podian asumir en sus Estatutos. Entre ellas figuran organización de sus instituciones de autogobierno, alteraciones de terminos municipales, ordenación del territorio, urbanismo y vivienda, obras públicas de interes de la comunidad, ferrocarriles y carreteras cuyo itinerario se desarrolle integramente en el territorio autononomico, agricultura y ganaderia, montes, gestion ambiental, patrimonio monumental, cultura, turismo, deporte, asistencia social, sanidad e higiene, entre otras.
+El artículo 148 enumera materias que las comunidades autonomas podian asumir en sus Estatutos. Entre ellas figuran organización de sus instituciones de autogobierno, alteraciones de terminos municipales, ordenación del territorio, urbanismo y vivienda, obras públicas de interes de la comunidad, ferrocarriles y carreteras cuyo itinerario se desarrolle integramente en el territorio autononomico, agricultura y ganaderia, montes, gestión ambiental, patrimonio monumental, cultura, turismo, deporte, asistencia social, sanidad e higiene, entre otras.
 
 El artículo 149 reserva al Estado competencias exclusivas. Incluye materias como regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de derechos y deberes constitucionales, nacionalidad, inmigración, relaciones internacionales, defensa, Administración de Justicia, legislación mercantil, penal y penitenciaria, legislación laboral, legislación civil en los terminos constitucionales, hacienda general, deuda del Estado, bases y coordinación de la planificación general de la actividad económica, seguridad pública, legislación básica sobre protección del medio ambiente, bases del régimen jurídico de las Administraciones Públicas y procedimiento administrativo común, legislación básica sobre contratos y concesiones administrativas, y sistema de responsabilidad de todas las Administraciones Públicas.
 
@@ -150,7 +150,7 @@ El artículo 149.3 contiene reglas esenciales para resolver lagunas y conflictos
 
 Las normas del Estado prevalecen, en caso de conflicto, sobre las de las comunidades autonomas en todo lo que no este atribuido a la exclusiva competencia de estas. El Derecho estatal es, en todo caso, supletorio del Derecho de las comunidades autonomas.
 
-Esta clausula debe entenderse junto con la jurisprudencia constitucional. La prevalencia no autoriza al Estado a invadir competencias autonómicas, y la supletoriedad no permite dictar normas estatales con la unica finalidad de suplir el Derecho autonómico cuando el Estado carece de titulo competencial propio.
+Esta clausula debe entenderse junto con la jurisprudencia constitucional. La prevalencia no autoriza al Estado a invadir competencias autonómicas, y la supletoriedad no permite dictar normas estatales con la única finalidad de suplir el Derecho autonómico cuando el Estado carece de titulo competencial propio.
 
 | Regla del artículo 149.3 | Aplicación |
 |---|---|
@@ -163,7 +163,7 @@ Esta clausula debe entenderse junto con la jurisprudencia constitucional. La pre
 
 La autonomía se ejerce bajo control constitucional. El artículo 153 establece diversos controles: el Tribunal Constitucional controla la constitucionalidad de las disposiciones normativas con fuerza de ley de las comunidades autonomas; el Gobierno, previo dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas; la jurisdicción contencioso-administrativa controla la administración autonoma y sus normas reglamentarias; el Tribunal de Cuentas controla la actividad económica y presupuestaria.
 
-El artículo 155 regula un mecanismo excepcional. Si una comunidad autonoma no cumple las obligaciones que la Constitución u otras leyes le impongan, o actua de forma que atente gravemente al interes general de Espana, el Gobierno, previo requerimiento al Presidente de la comunidad autonoma y, si no fuera atendido, con aprobación por mayoria absoluta del Senado, puede adoptar las medidas necesarias para obligar a aquella al cumplimiento forzoso de dichas obligaciones o para proteger el interes general.
+El artículo 155 regula un mecanismo excepcional. Si una comunidad autonoma no cumple las obligaciones que la Constitución u otras leyes le impongan, o actua de forma que atente gravemente al interes general de Espana, el Gobierno, previo requerimiento al Presidente de la comunidad autonoma y, si no fuera atendido, con aprobación por mayoría absoluta del Senado, puede adoptar las medidas necesarias para obligar a aquella al cumplimiento forzoso de dichas obligaciones o para proteger el interes general.
 
 El artículo 161 atribuye al Tribunal Constitucional el conocimiento de los conflictos de competencia entre el Estado y las comunidades autonomas o de estas entre si.
 

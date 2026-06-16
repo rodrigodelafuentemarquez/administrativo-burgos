@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo I. Organización del Estado, de la Union Europea, de las entidades locales y de la Comunidad de Castilla y León"
+grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidades locales y de la Comunidad de Castilla y León"
 tema: 1
 codigo: "Tema I.1"
 titulo: "La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión."
@@ -18,13 +18,13 @@ La Constitución Española de 1978 es la norma jurídica superior del ordenamien
 
 La consecuencia de esa supremacia es doble. En primer lugar, ninguna norma puede contradecir la Constitución. Si una ley vulnera el texto constitucional, puede ser expulsada del ordenamiento por el Tribunal Constitucional a traves de los procedimientos correspondientes. En segundo lugar, la actuación de las Administraciones Públicas, de los órganos constitucionales y de los tribunales debe interpretarse conforme a los principios constitucionales.
 
-La Constitución tambien ordena el sistema de fuentes. Determina que materias deben regularse por ley orgánica, cual es el papel de las Cortes Generales, como se articulan las competencias entre Estado y comunidades autonomas, como se integra el Derecho de la Union Europea y que limites tienen los poderes públicos cuando actuan sobre derechos fundamentales.
+La Constitución tambien ordena el sistema de fuentes. Determina que materias deben regularse por ley orgánica, cual es el papel de las Cortes Generales, como se articulan las competencias entre Estado y comunidades autonomas, como se integra el Derecho de la Unión Europea y que limites tienen los poderes públicos cuando actuan sobre derechos fundamentales.
 
 ## Caracteristicas generales
 
 La Constitución de 1978 es escrita, extensa, rigida, normativa, consensuada y democratica.
 
-Es escrita porque se contiene en un texto formal aprobado por el poder constituyente. Es extensa porque regula no solo la organización básica del Estado, sino tambien derechos fundamentales, principios rectores, sistema territorial, economía, reforma constitucional y órganos constitucionales. Es rigida porque su reforma no puede realizarse por el procedimiento legislativo ordinario: los artículos 167 y 168 establecen procedimientos especiales que exigen mayorias reforzadas y, en determinados casos, referendum.
+Es escrita porque se contiene en un texto formal aprobado por el poder constituyente. Es extensa porque regula no solo la organización básica del Estado, sino tambien derechos fundamentales, principios rectores, sistema territorial, economía, reforma constitucional y órganos constitucionales. Es rigida porque su reforma no puede realizarse por el procedimiento legislativo ordinario: los artículos 167 y 168 establecen procedimientos especiales que exigen mayorías reforzadas y, en determinados casos, referendum.
 
 Es normativa porque tiene eficacia jurídica directa. La Constitución no queda subordinada al legislador, sino que limita al legislador. Esto es especialmente importante en materia de derechos fundamentales: el legislador puede desarrollarlos, pero no vaciarlos de contenido.
 
@@ -154,7 +154,7 @@ La estructura interna del Titulo I es fundamental:
 | Parte del Titulo I | Articulos | Contenido |
 |---|---:|---|
 | Articulo 10 | 10 | Dignidad de la persona y fundamento del orden político. |
-| Capitulo I | 11 a 13 | Nacionalidad, mayoria de edad y extranjeros. |
+| Capitulo I | 11 a 13 | Nacionalidad, mayoría de edad y extranjeros. |
 | Articulo 14 | 14 | Igualdad ante la ley. |
 | Capitulo II, sección primera | 15 a 29 | Derechos fundamentales y libertades públicas. |
 | Capitulo II, sección segunda | 30 a 38 | Derechos y deberes de los ciudadanos. |
@@ -189,7 +189,7 @@ La sección segunda, artículos 30 a 38, incluye derechos y deberes de los ciuda
 - Negociación colectiva.
 - Libertad de empresa.
 
-Los principios rectores del capitulo III: no tienen la misma protección directa que los derechos fundamentales, pero orientan la legislación, la práctica judicial y la actuación de los poderes públicos. Incluyen familia, Seguridad Social, salud, cultura, medio ambiente, vivienda, consumidores, juventud, personas mayores y personas con discapacidad.
+Los principios rectores del capítulo III: no tienen la misma protección directa que los derechos fundamentales, pero orientan la legislación, la práctica judicial y la actuación de los poderes públicos. Incluyen familia, Seguridad Social, salud, cultura, medio ambiente, vivienda, consumidores, juventud, personas mayores y personas con discapacidad.
 
 ## Garantías de los derechos
 
@@ -198,10 +198,10 @@ El artículo 53 establece tres niveles de protección:
 | Derechos o principios | Protección | Clave de examen |
 |---|---|---|
 | Capitulo II | Vinculan a todos los poderes públicos y se regulan por ley. | La ley debe respetar el contenido esencial. |
-| Articulo 14 + sección primera del capitulo II | Procedimiento preferente y sumario + recurso de amparo. | Son los de maxima protección. |
+| Articulo 14 + sección primera del capítulo II | Procedimiento preferente y sumario + recurso de amparo. | Son los de maxima protección. |
 | Capitulo III | Solo pueden alegarse segun las leyes que los desarrollen. | Informan legislación, práctica judicial y actuación administrativa. |
 
-Ademas, el desarrollo de los derechos fundamentales y libertades públicas debe realizarse mediante ley orgánica, conforme al artículo 81. Esta garantía exige mayoria absoluta del Congreso en una votación final sobre el conjunto del proyecto.
+Ademas, el desarrollo de los derechos fundamentales y libertades públicas debe realizarse mediante ley orgánica, conforme al artículo 81. Esta garantía exige mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto.
 
 El Defensor del Pueblo, regulado en el artículo 54, es alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el titulo I. Sus notas básicas son:
 

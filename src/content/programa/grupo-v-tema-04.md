@@ -51,7 +51,7 @@ Las oficinas reciben solicitudes, escritos y comunicaciones dirigidos al Ayuntam
 
 La Ley 39/2015 permite presentar documentos en registros electrónicos, oficinas de Correos, representaciones diplomaticas, oficinas de asistencia en registros y otros lugares previstos. Las oficinas municipales deben aplicar estas reglas.
 
-El asiento registral debe reflejar datos esenciales: numero, fecha y hora, identificación del interesado, órgano destinatario, asunto y documentos aportados. El justificante de registro acredita la presentación y protege al ciudadano.
+El asiento registral debe reflejar datos esenciales: número, fecha y hora, identificación del interesado, órgano destinatario, asunto y documentos aportados. El justificante de registro acredita la presentación y protege al ciudadano.
 
 | Actuación | Importancia |
 | --- | --- |

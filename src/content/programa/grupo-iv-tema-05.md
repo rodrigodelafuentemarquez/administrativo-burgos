@@ -24,7 +24,7 @@ La equidistribución evita que unos propietarios reciban aprovechamientos sin ca
 
 ## Clasificación y calificación
 
-La clasificación divide el suelo en categorias básicas segun legislación aplicable: urbano, urbanizable y rustico o no urbanizable, con subcategorias. El suelo urbano cuenta con servicios y consolidación. El urbanizable puede transformarse mediante planeamiento y gestion. El rustico se preserva por valores agrarios, ambientales, paisajisticos, culturales o por inadecuación para urbanizar.
+La clasificación divide el suelo en categorias básicas segun legislación aplicable: urbano, urbanizable y rustico o no urbanizable, con subcategorias. El suelo urbano cuenta con servicios y consolidación. El urbanizable puede transformarse mediante planeamiento y gestión. El rustico se preserva por valores agrarios, ambientales, paisajisticos, culturales o por inadecuación para urbanizar.
 
 La calificación asigna usos y condiciones: residencial, industrial, terciario, dotacional, espacios libres, equipamientos, viario, alturas, edificabilidad, retranqueos y demas parametros.
 
@@ -39,9 +39,9 @@ La clasificación responde a la pregunta "que tipo de suelo es"; la calificació
 
 ## Competencia municipal
 
-El Ayuntamiento tiene competencias en planeamiento, gestion, disciplina, licencias, inspección y protección de legalidad, dentro del marco estatal y autonómico. Aprueba instrumentos en los supuestos que le correspondan y tramita expedientes urbanisticos.
+El Ayuntamiento tiene competencias en planeamiento, gestión, disciplina, licencias, inspección y protección de legalidad, dentro del marco estatal y autonómico. Aprueba instrumentos en los supuestos que le correspondan y tramita expedientes urbanisticos.
 
-En municipios como Burgos, la gestion urbanística exige coordinación técnica, jurídica, ambiental, patrimonial y económica.
+En municipios como Burgos, la gestión urbanística exige coordinación técnica, jurídica, ambiental, patrimonial y económica.
 
 ## Intervención administrativa
 

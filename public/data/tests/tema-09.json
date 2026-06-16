@@ -18,14 +18,14 @@
     "tema": 9,
     "pregunta": "Para reformar el vigente Estatuto de Autonomía de Castilla y León, el procedimiento requerira en todo caso la aprobación de las Cortes de Castilla y León por:",
     "opciones": [
-      "Mayoria absoluta y posterior aprobación por las Cortes Generales de mayoria simple",
+      "Mayoria absoluta y posterior aprobación por las Cortes Generales de mayoría simple",
       "Mayoria absoluta y posterior aprobación de las Cortes Generales mediante Ley Orgánica",
       "Mayoria de dos tercios y posterior aprobación del Congreso mediante Ley Orgánica",
       "Mayoria de dos tercios y posterior aprobación de las Cortes Generales mediante Ley Orgánica"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 7",
-    "explicación": "La reforma estatutaria exige mayoria de dos tercios en las Cortes de Castilla y León y aprobación estatal mediante ley orgánica."
+    "explicación": "La reforma estatutaria exige mayoría de dos tercios en las Cortes de Castilla y León y aprobación estatal mediante ley orgánica."
   },
   {
     "id": "pdf-2025-burgos-q08",
@@ -522,13 +522,13 @@
     "tema": 9,
     "pregunta": "Según el Tema 47, los Consejeros electivos del Consejo Consultivo de Castilla y León son elegidos por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
-      "Cuatro anos",
-      "Cinco anos",
-      "Seis anos",
-      "Ocho anos"
+      "Cuatro años",
+      "Cinco años",
+      "Seis años",
+      "Ocho años"
     ],
     "correcta": 0,
-    "explicación": "El tema establece un mandato de cuatro anos para los Consejeros electivos del Consejo Consultivo.",
+    "explicación": "El tema establece un mandato de cuatro años para los Consejeros electivos del Consejo Consultivo.",
     "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
   },
   {
@@ -542,7 +542,7 @@
       "Unanimidad de los Procuradores presentes"
     ],
     "correcta": 2,
-    "explicación": "El tema indica que, tras no lograr mayoria absoluta en primera votación, basta la mayoria simple en segunda.",
+    "explicación": "El tema indica que, tras no lograr mayoría absoluta en primera votación, basta la mayoría simple en segunda.",
     "referencia": "I.9 · 3.1 Elección y mandato"
   },
   {
@@ -550,13 +550,13 @@
     "tema": 9,
     "pregunta": "Según el Tema 47, el Procurador del Comun es elegido por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
-      "Cuatro anos, renovable",
-      "Cinco anos, no renovable",
-      "Seis anos, renovable una vez",
-      "Ocho anos, no renovable"
+      "Cuatro años, renovable",
+      "Cinco años, no renovable",
+      "Seis años, renovable una vez",
+      "Ocho años, no renovable"
     ],
     "correcta": 1,
-    "explicación": "El tema fija un mandato de cinco anos para el Procurador del Comun y lo califica como no renovable.",
+    "explicación": "El tema fija un mandato de cinco años para el Procurador del Comun y lo califica como no renovable.",
     "referencia": "I.9 · 6.1 El Procurador del Comun"
   },
   {

@@ -38,7 +38,7 @@ La convocatoria comunica la celebración de la sesión, fecha, hora, lugar, moda
 | Documentación | Permite estudiar expedientes antes de votar. |
 | Urgencia | Debe motivarse y ratificarse cuando proceda. |
 
-Cómo regla, no pueden adoptarse acuerdos sobre asuntos no incluidos en el orden del día salvo supuestos legalmente previstos, normalmente vinculados a urgencia y mayoria exigida. Esta garantía protege tanto a miembros de la corporación como a la ciudadania.
+Cómo regla, no pueden adoptarse acuerdos sobre asuntos no incluidos en el orden del día salvo supuestos legalmente previstos, normalmente vinculados a urgencia y mayoría exigida. Esta garantía protege tanto a miembros de la corporación como a la ciudadania.
 
 ## Constitución, quorum y votaciones
 
@@ -56,7 +56,7 @@ Las votaciones pueden ser ordinarias, nominales o secretas segun las reglas apli
 
 El acta documenta la sesión y permite acreditar lo acordado. Debe aprobarse en los terminos reglamentarios y custodiarse adecuadamente. Los acuerdos se notifican, publican o ejecutan segun su naturaleza: no es lo mismo aprobar una ordenanza, adjudicar un contrato, resolver una moción política o aprobar la Cuenta General.
 
-Para un administrativo, este tema se traduce en preparar convocatorias, recopilar expedientes, controlar firmas, publicar anuncios, tramitar notificaciones, numerar acuerdos y archivar actas. La calidad administrativa del órgano colegiado depende mucho de esa gestion previa y posterior.
+Para un administrativo, este tema se traduce en preparar convocatorias, recopilar expedientes, controlar firmas, publicar anuncios, tramitar notificaciones, numerar acuerdos y archivar actas. La calidad administrativa del órgano colegiado depende mucho de esa gestión previa y posterior.
 
 ## Convocatoria
 
@@ -74,7 +74,7 @@ En el Pleno, el orden del día puede incluir aprobación de actas, parte resolut
 
 ## Constitución valida
 
-Para que un órgano colegiado pueda actuar validamente debe concurrir quorum. En general se exige presencia del Presidente y Secretario o quienes legalmente les sustituyan, y numero mínimo de miembros. En el Pleno local se exige quorum de un tercio del numero legal de miembros, que nunca puede ser inferior a tres, manteniendose durante toda la sesión.
+Para que un órgano colegiado pueda actuar validamente debe concurrir quorum. En general se exige presencia del Presidente y Secretario o quienes legalmente les sustituyan, y número mínimo de miembros. En el Pleno local se exige quorum de un tercio del número legal de miembros, que nunca puede ser inferior a tres, manteniendose durante toda la sesión.
 
 Si no existe quorum, no puede celebrarse validamente la sesión. La falta de Secretario o sustituto impide dar fe y documentar correctamente acuerdos.
 
@@ -86,9 +86,9 @@ En órganos políticos como el Pleno, la deliberación tiene importancia democra
 
 ## Votaciones
 
-Los acuerdos se adoptan mediante votación. Pueden existir votaciones ordinarias, nominales o secretas, segun materia y reglamento. La regla general es mayoria simple de miembros presentes, salvo materias que exijan mayoria absoluta u otras mayorias reforzadas.
+Los acuerdos se adoptan mediante votación. Pueden existir votaciones ordinarias, nominales o secretas, segun materia y reglamento. La regla general es mayoría simple de miembros presentes, salvo materias que exijan mayoría absoluta u otras mayorías reforzadas.
 
-La mayoria simple se alcanza cuando hay mas votos a favor que en contra. La mayoria absoluta exige voto favorable de mas de la mitad del numero legal de miembros de la corporación. Algunas materias, como alteración de terminos municipales o aprobaciones especialmente relevantes, pueden exigir mayorias cualificadas.
+La mayoría simple se alcanza cuando hay mas votos a favor que en contra. La mayoría absoluta exige voto favorable de mas de la mitad del número legal de miembros de la corporación. Algunas materias, como alteración de terminos municipales o aprobaciones especialmente relevantes, pueden exigir mayorías cualificadas.
 
 El voto puede ser afirmativo, negativo o abstención. En órganos locales, el sentido del voto queda reflejado en acta cuando proceda. Los empates se resuelven conforme a reglas legales, normalmente con voto de calidad del Presidente en determinados órganos.
 

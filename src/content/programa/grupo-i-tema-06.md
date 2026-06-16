@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo I. Organización del Estado, de la Union Europea, de las entidades locales y de la Comunidad de Castilla y León"
+grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidades locales y de la Comunidad de Castilla y León"
 tema: 6
 codigo: "Tema I.6"
 titulo: "El municipio: concepto y elementos. El termino municipal. La población: especial referencia al empadronamiento."
@@ -16,7 +16,7 @@ El municipio es la entidad local básica del sistema territorial. Para una oposi
 
 La Ley de Bases del Régimen Local define el municipio como la entidad local básica de la organización territorial del Estado. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.
 
-El municipio es una Administración Publica territorial. Esto significa que su poder de actuación se vincula a un territorio y a una población. No es una simple oficina administrativa del Estado ni de la comunidad autonoma. Tiene autonomía constitucionalmente garantizada para la gestion de sus intereses.
+El municipio es una Administración Publica territorial. Esto significa que su poder de actuación se vincula a un territorio y a una población. No es una simple oficina administrativa del Estado ni de la comunidad autonoma. Tiene autonomía constitucionalmente garantizada para la gestión de sus intereses.
 
 El artículo 140 de la Constitución garantiza la autonomía de los municipios. Su gobierno y administración corresponde a los Ayuntamientos, integrados por Alcaldes y Concejales. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto, y los Alcaldes son elegidos por los Concejales o por los vecinos en los terminos legalmente establecidos.
 
@@ -46,7 +46,7 @@ Estos tres elementos se relacionan entre si. El Ayuntamiento ejerce sus potestad
 
 ## El termino municipal
 
-El termino municipal es el territorio en que el Ayuntamiento ejerce sus competencias. Cada municipio pertenece a una sola provincia. La delimitación del termino municipal es esencial porque determina el ámbito territorial de prestación de servicios, ejercicio de potestades urbanísticas, gestion tributaria, padron, policia local y actuación administrativa.
+El termino municipal es el territorio en que el Ayuntamiento ejerce sus competencias. Cada municipio pertenece a una sola provincia. La delimitación del termino municipal es esencial porque determina el ámbito territorial de prestación de servicios, ejercicio de potestades urbanísticas, gestión tributaria, padron, policia local y actuación administrativa.
 
 Las alteraciones de terminos municipales pueden producirse por incorporación de uno o mas municipios a otro, fusión de municipios, segregación de parte del territorio para constituir un municipio independiente, segregación para agregarla a otro municipio o modificación de limites territoriales.
 
@@ -68,11 +68,11 @@ La alteración de limites provinciales tiene especial relevancia constitucional,
 
 La población del municipio esta constituida por el conjunto de personas inscritas en el padron municipal. La condición de vecino se adquiere en el momento de la inscripción padronal.
 
-Toda persona que viva en Espana esta obligada a inscribirse en el padron del municipio en el que resida habitualmente. Quién viva en varios municipios debe inscribirse solo en aquel en el que habite durante mas tiempo al ano.
+Toda persona que viva en Espana esta obligada a inscribirse en el padron del municipio en el que resida habitualmente. Quién viva en varios municipios debe inscribirse solo en aquel en el que habite durante mas tiempo al año.
 
 La inscripción en el padron no depende de la nacionalidad. Pueden inscribirse españoles y extranjeros. La inscripción padronal de extranjeros no constituye por si misma prueba de residencia legal en Espana ni atribuye derechos que no reconozca la normativa de extranjeria, pero si acredita residencia habitual en el municipio a efectos administrativos.
 
-La población municipal tiene consecuencias jurídicas muy importantes. Determina servicios mínimos obligatorios, numero de Concejales, régimen organizativo, participación en ingresos, planificación de recursos, competencias y estadisticas oficiales.
+La población municipal tiene consecuencias jurídicas muy importantes. Determina servicios mínimos obligatorios, número de Concejales, régimen organizativo, participación en ingresos, planificación de recursos, competencias y estadisticas oficiales.
 
 | Regla padronal | Consecuencia |
 |---|---|
@@ -85,9 +85,9 @@ La población municipal tiene consecuencias jurídicas muy importantes. Determin
 
 El padron municipal es el registro administrativo donde constan los vecinos del municipio. Sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo.
 
-La formación, mantenimiento, revisión y custodia del padron corresponde al Ayuntamiento. La gestion padronal es una función administrativa permanente. No se agota en altas y bajas, sino que exige actualización, comprobación, coordinación con otras Administraciones y respeto a la protección de datos personales.
+La formación, mantenimiento, revisión y custodia del padron corresponde al Ayuntamiento. La gestión padronal es una función administrativa permanente. No se agota en altas y bajas, sino que exige actualización, comprobación, coordinación con otras Administraciones y respeto a la protección de datos personales.
 
-Los datos obligatorios del padron incluyen nombre y apellidos, sexo, domicilio habitual, nacionalidad, lugar y fecha de nacimiento, numero de documento nacional de identidad o documento equivalente, certificado o titulo escolar o academico que se posea y otros datos que puedan ser necesarios para la elaboración del censo electoral, siempre que se respeten los derechos fundamentales.
+Los datos obligatorios del padron incluyen nombre y apellidos, sexo, domicilio habitual, nacionalidad, lugar y fecha de nacimiento, número de documento nacional de identidad o documento equivalente, certificado o titulo escolar o academico que se posea y otros datos que puedan ser necesarios para la elaboración del censo electoral, siempre que se respeten los derechos fundamentales.
 
 El Ayuntamiento puede comprobar la veracidad de los datos consignados por los vecinos y exigir documentación acreditativa de identidad y domicilio. La finalidad es garantizar que el padron refleje la residencia habitual real.
 
@@ -119,7 +119,7 @@ En el caso de extranjeros no comunitarios sin autorización de residencia de lar
 
 ## Derechos y deberes de los vecinos
 
-La condición de vecino comporta derechos y deberes. Entre los derechos se encuentran ser elector y elegible de acuerdo con la legislación electoral, participar en la gestion municipal en los terminos previstos por la ley, utilizar los servicios públicos municipales, acceder a aprovechamientos comunales cuando proceda, ser informado, pedir consulta popular en los terminos legales, exigir la prestación de servicios obligatorios y ejercer la iniciativa popular municipal cuando se cumplan los requisitos.
+La condición de vecino comporta derechos y deberes. Entre los derechos se encuentran ser elector y elegible de acuerdo con la legislación electoral, participar en la gestión municipal en los terminos previstos por la ley, utilizar los servicios públicos municipales, acceder a aprovechamientos comunales cuando proceda, ser informado, pedir consulta popular en los terminos legales, exigir la prestación de servicios obligatorios y ejercer la iniciativa popular municipal cuando se cumplan los requisitos.
 
 Los vecinos deben contribuir mediante prestaciones económicas y personales legalmente previstas a la realización de competencias municipales, respetar las ordenanzas y reglamentos, colaborar con la Administración municipal cuando proceda y comunicar datos veraces para la inscripción padronal.
 
@@ -129,16 +129,16 @@ La participación vecinal se canaliza a traves de elecciones municipales, inform
 |---|---|
 | Derecho | Ser elector y elegible conforme a la legislación electoral. |
 | Derecho | Usar servicios públicos municipales y exigir servicios obligatorios. |
-| Derecho | Participar en la gestion municipal e iniciativa popular cuando proceda. |
+| Derecho | Participar en la gestión municipal e iniciativa popular cuando proceda. |
 | Deber | Contribuir con prestaciones legalmente previstas. |
 | Deber | Respetar ordenanzas y reglamentos. |
-| Deber | Facilitar datos veraces para la gestion padronal. |
+| Deber | Facilitar datos veraces para la gestión padronal. |
 
 ## Padron y servicios públicos
 
 El padron es una herramienta esencial para planificar servicios públicos. Permite conocer cuantos vecinos residen en el municipio, donde se concentran, que estructura de edad existe y que necesidades pueden derivarse de esa población.
 
-En la práctica municipal, los datos padronales se relacionan con servicios sociales, educación, transporte, limpieza, abastecimiento, seguridad, urbanismo, participación ciudadana y gestion tributaria. También tienen relevancia para acreditar domicilio en trámites administrativos.
+En la práctica municipal, los datos padronales se relacionan con servicios sociales, educación, transporte, limpieza, abastecimiento, seguridad, urbanismo, participación ciudadana y gestión tributaria. También tienen relevancia para acreditar domicilio en trámites administrativos.
 
 El certificado o volante de empadronamiento se utiliza habitualmente para acreditar residencia o domicilio. El certificado tiene mayor valor formal y suele ir firmado por autoridad o funcionario habilitado, mientras que el volante tiene finalidad informativa. En ambos casos debe respetarse la normativa de protección de datos.
 

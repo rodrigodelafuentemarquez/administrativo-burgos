@@ -14,7 +14,7 @@ Los bienes locales se regulan por la Ley 7/1985, el Real Decreto Legislativo 781
 
 Los bienes de las entidades locales son el conjunto de bienes, derechos y acciones que pertenecen a municipios, provincias y demas entidades locales. Constituyen su patrimonio y permiten prestar servicios, ejercer competencias y obtener recursos.
 
-La gestion patrimonial local exige inventario, defensa, conservación, aprovechamiento eficiente y respeto a los fines públicos. Un Ayuntamiento no administra sus bienes como un particular; debe someterse a procedimientos, controles y principios de interes público.
+La gestión patrimonial local exige inventario, defensa, conservación, aprovechamiento eficiente y respeto a los fines públicos. Un Ayuntamiento no administra sus bienes como un particular; debe someterse a procedimientos, controles y principios de interes público.
 
 ## Clases
 
@@ -52,7 +52,7 @@ En expedientes de ocupación de via pública, terrazas, quioscos, canalizaciones
 
 Los bienes patrimoniales pertenecen a la entidad local pero no estan afectados a uso o servicio público. Pueden ser solares, locales, viviendas, derechos de crédito, acciones, participaciones o fincas no destinadas directamente a servicio público.
 
-Aunque su régimen es mas cercano al Derecho privado, su gestion sigue sometida a reglas públicas. Debe buscarse rentabilidad, conservación, transparencia y defensa del patrimonio local. La entidad local debe inventariarlos y protegerlos.
+Aunque su régimen es mas cercano al Derecho privado, su gestión sigue sometida a reglas públicas. Debe buscarse rentabilidad, conservación, transparencia y defensa del patrimonio local. La entidad local debe inventariarlos y protegerlos.
 
 ## Enajenación
 
@@ -66,7 +66,7 @@ Los bienes patrimoniales pueden cederse gratuitamente a otras Administraciones o
 
 La utilización de bienes de dominio público puede ser uso comun general, uso comun especial, uso privativo o uso normal/anormal segun el bien. El uso comun general corresponde a todos en condiciones de igualdad. El aprovechamiento especial o uso privativo requiere autorización o concesión y puede generar tasas.
 
-En un Ayuntamiento, la gestion de bienes aparece en expedientes de terrazas, quioscos, ocupación de via pública, cesión de locales, inventario, recuperación de oficio, deslindes, concesiones y patrimonio municipal del suelo.
+En un Ayuntamiento, la gestión de bienes aparece en expedientes de terrazas, quioscos, ocupación de via pública, cesión de locales, inventario, recuperación de oficio, deslindes, concesiones y patrimonio municipal del suelo.
 
 | Tipo de uso | Ejemplo | Titulo habitual |
 | --- | --- | --- |

@@ -77,7 +77,7 @@ La Administración puede adoptar medidas provisionales antes o despues de inicia
 
 La ordenación comprende las reglas de impulso y tramitación. El procedimiento se impulsa de oficio en todos sus trámites y por medios electrónicos. Los expedientes deben guardar orden, incorporar documentos, informes, resoluciones y diligencias, y permitir trazabilidad.
 
-El principio de celeridad exige acordar en un solo acto todos los trámites que admitan impulso simultaneo. El cumplimiento de plazos es obligatorio para Administración e interesados. Los terminos y plazos se computan conforme a la Ley 39/2015, distinguiendo días habiles, naturales, meses y anos.
+El principio de celeridad exige acordar en un solo acto todos los trámites que admitan impulso simultaneo. El cumplimiento de plazos es obligatorio para Administración e interesados. Los terminos y plazos se computan conforme a la Ley 39/2015, distinguiendo días habiles, naturales, meses y años.
 
 La tramitación electrónica se configura como funcionamiento ordinario del sector público. El expediente electrónico debe formarse mediante agregación ordenada de documentos, pruebas, dictamenes, informes, acuerdos, notificaciones y demas diligencias.
 

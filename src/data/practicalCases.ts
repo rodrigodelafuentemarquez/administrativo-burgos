@@ -117,7 +117,7 @@ export const practicalCases: PracticalCase[] = [
     legalTexts: ['Ley 39/2015', 'Ley 40/2015', 'Ley 19/2013', 'normativa municipal de registro y sede electrónica'],
     commonMistakes: [
       'Confundir requerimiento de subsanación con trámite de alegaciones.',
-      'Tratar cualquier incidencia técnica como si anulara automaticamente la notificación electrónica.',
+      'Tratar cualquier incidencia técnica como si anulara automáticamente la notificación electrónica.',
       'Mezclar acceso al expediente de un interesado con solicitud general de transparencia.',
     ],
   },
@@ -146,7 +146,7 @@ export const practicalCases: PracticalCase[] = [
     legalTexts: ['TRLRHL', 'RD 500/1990', 'bases de ejecución del presupuesto', 'normas de control interno local'],
     commonMistakes: [
       'Confundir modificaciones presupuestarias entre si sin atender a la causa y financiación.',
-      'Saltarse el orden A-D-O-P o usarlo como si siempre coincidiera con un unico acto.',
+      'Saltarse el orden A-D-O-P o usarlo como si siempre coincidiera con un único acto.',
       'Responder sobre control interno en abstracto sin aterrizarlo al reparo concreto del expediente.',
     ],
   },

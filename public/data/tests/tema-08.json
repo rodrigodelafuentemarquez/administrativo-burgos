@@ -2,7 +2,7 @@
   {
     "id": "pdf-2025-burgos-q23",
     "tema": 8,
-    "pregunta": "Según el artículo 14.1 del Tratado de la Union Europea, las funciones legislativa y presupuestaria son ejercidas por:",
+    "pregunta": "Según el artículo 14.1 del Tratado de la Unión Europea, las funciones legislativa y presupuestaria son ejercidas por:",
     "opciones": [
       "El Parlamento Europeo conjuntamente con el Consejo",
       "El Parlamento Europeo",
@@ -16,7 +16,7 @@
   {
     "id": "pdf-2025-burgos-q31",
     "tema": 8,
-    "pregunta": "Conforme al artículo 288 del Tratado de Funcionamiento de la Union Europea, el reglamento:",
+    "pregunta": "Conforme al artículo 288 del Tratado de Funcionamiento de la Unión Europea, el reglamento:",
     "opciones": [
       "Obligara al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando a las autoridades nacionales la elección de la forma y los medios",
       "Desarrolla las normas legislativas adoptadas por el Parlamento Europeo",
@@ -30,16 +30,16 @@
   {
     "id": "pdf-2025-burgos-r01",
     "tema": 8,
-    "pregunta": "Los miembros del Comite de las Regiones:",
+    "pregunta": "Los miembros del Comité de las Regiones:",
     "opciones": [
-      "Seran elegidos por un período renovable de cinco anos y no podrán ser miembros simultaneamente del Parlamento Europeo",
-      "Seran elegidos por un período renovable de seis anos y no podrán ser miembros simultaneamente del Parlamento Europeo",
-      "Seran elegidos por un período no renovable de cinco anos y no podrán ser miembros simultaneamente del Parlamento Europeo",
-      "Seran elegidos por un período renovable de seis anos"
+      "Seran elegidos por un período renovable de cinco años y no podrán ser miembros simultáneamente del Parlamento Europeo",
+      "Seran elegidos por un período renovable de seis años y no podrán ser miembros simultáneamente del Parlamento Europeo",
+      "Seran elegidos por un período no renovable de cinco años y no podrán ser miembros simultáneamente del Parlamento Europeo",
+      "Seran elegidos por un período renovable de seis años"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · reserva 1",
-    "explicación": "Los miembros del Comite de las Regiones tienen mandato renovable de cinco anos y no pueden ser simultaneamente eurodiputados."
+    "explicación": "Los miembros del Comité de las Regiones tienen mandato renovable de cinco años y no pueden ser simultáneamente eurodiputados."
   },
   {
     "id": "t41-p001",
@@ -324,25 +324,25 @@
   {
     "id": "t41-p021",
     "tema": 8,
-    "pregunta": "Según el art. 16.4 del Tratado de la Union Europea y conforme al Tema 41, la mayoria cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
+    "pregunta": "Según el art. 16.4 del Tratado de la Unión Europea, la mayoría cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
     "opciones": [
-      "El 50% de los Estados miembros que representen al menos el 50% de la población de la Union",
-      "El 55% de los Estados miembros que representen al menos el 65% de la población de la Union",
+      "El 50% de los Estados miembros que representen al menos el 50% de la población de la Unión",
+      "El 55% de los Estados miembros que representen al menos el 65% de la población de la Unión",
       "Dos tercios de los Estados miembros, con independencia de la población",
       "La unanimidad de los Estados miembros presentes y votantes"
     ],
     "correcta": 1,
-    "explicación": "El resumen del tema recoge expresamente la regla del 55% de Estados y 65% de la población.",
+    "explicación": "El tema recoge expresamente la regla del 55% de Estados y del 65% de la población.",
     "referencia": "I.8 · Resumen esquemático para repasar"
   },
   {
     "id": "t41-p022",
     "tema": 8,
-    "pregunta": "Conforme al TFUE y al Tema 41, si el Parlamento Europeo aprueba una moción de censura sobre la gestion de la Comisión Europea:",
+    "pregunta": "Conforme al TFUE, si el Parlamento Europeo aprueba una moción de censura sobre la gestión de la Comisión Europea:",
     "opciones": [
       "Debe dimitir únicamente el Presidente de la Comisión",
       "Debe dimitir la Comisión en pleno",
-      "Queda disuelto automaticamente el Consejo Europeo",
+      "Queda disuelto automáticamente el Consejo Europeo",
       "Se convoca de forma obligatoria un referendum europeo"
     ],
     "correcta": 1,
@@ -352,49 +352,49 @@
   {
     "id": "t41-p023",
     "tema": 8,
-    "pregunta": "Conforme al art. 13 TUE, cual de las siguientes entidades no forma parte del marco institucional de la Union Europea?",
+    "pregunta": "Conforme al art. 13 TUE, cual de las siguientes entidades no forma parte del marco institucional de la Unión Europea?",
     "opciones": [
-      "El Tribunal de Justicia de la Union Europea",
+      "El Tribunal de Justicia de la Unión Europea",
       "El Banco Central Europeo",
       "El Consejo de Europa",
       "El Tribunal de Cuentas"
     ],
     "correcta": 2,
-    "explicación": "El Consejo de Europa no es una institución de la UE; el art. 13 TUE enumera siete instituciones propias de la Union.",
+    "explicación": "El Consejo de Europa no es una institución de la UE; el art. 13 TUE enumera siete instituciones propias de la Unión.",
     "referencia": "I.8 · 3.1 El marco institucional (art. 13 TUE)"
   },
   {
     "id": "t41-p024",
     "tema": 8,
-    "pregunta": "De acuerdo con el art. 2 TUE y con el Tema 41, la existencia de una violación grave y persistente de los valores de la Union por un Estado miembro puede ser constatada por:",
+    "pregunta": "De acuerdo con el art. 2 TUE, la existencia de una violación grave y persistente de los valores de la Unión por un Estado miembro puede ser constatada por:",
     "opciones": [
-      "El Parlamento Europeo por mayoria simple",
+      "El Parlamento Europeo por mayoría simple",
       "La Comisión Europea por decisión colegiada",
       "El Consejo Europeo",
-      "El Comite de las Regiones"
+      "El Comité de las Regiones"
     ],
     "correcta": 2,
-    "explicación": "El tema atribuye expresamente al Consejo Europeo esa función en relación con los valores de la Union.",
+    "explicación": "El tema atribuye expresamente al Consejo Europeo esa función en relación con los valores de la Unión.",
     "referencia": "I.8 · 3.2 Funciones"
   },
   {
     "id": "t41-p025",
     "tema": 8,
-    "pregunta": "Según el Tema 41, el Parlamento Europeo es la unica institución de la Union elegida directamente por sufragio universal cada:",
+    "pregunta": "El Parlamento Europeo es la única institución de la Unión elegida directamente por sufragio universal cada:",
     "opciones": [
-      "Cuatro anos",
-      "Cinco anos",
-      "Seis anos",
-      "Siete anos"
+      "Cuatro años",
+      "Cinco años",
+      "Seis años",
+      "Siete años"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco anos.",
+    "explicación": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco años.",
     "referencia": "I.8 · 5.1 Composición y elección"
   },
   {
     "id": "t41-p026",
     "tema": 8,
-    "pregunta": "Conforme al Tema 41, la Comisión Europea tiene el monopolio de la:",
+    "pregunta": "La Comisión Europea tiene el monopolio de la:",
     "opciones": [
       "Potestad jurisdiccional europea",
       "Iniciativa legislativa",
@@ -408,12 +408,12 @@
   {
     "id": "t41-p027",
     "tema": 8,
-    "pregunta": "De acuerdo con el art. 16 TUE, señale la respuesta correcta respecto del Consejo de la Union Europea:",
+    "pregunta": "De acuerdo con el art. 16 TUE, señale la respuesta correcta respecto del Consejo de la Unión Europea:",
     "opciones": [
-      "Es el órgano ejecutivo de la Union Europea",
+      "Es el órgano ejecutivo de la Unión Europea",
       "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria",
       "Ejerce conjuntamente con la Comisión Europea la función legislativa y la función presupuestaria",
-      "Supervisa la aplicación del Derecho de la Union bajo el control del TJUE"
+      "Supervisa la aplicación del Derecho de la Unión bajo el control del TJUE"
     ],
     "correcta": 1,
     "explicación": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",

@@ -86,7 +86,7 @@ Operaciones habituales:
 
 Una carpeta organiza archivos. Un archivo contiene información y se identifica por nombre y extensión. La extensión indica tipo: `.docx`, `.xlsx`, `.pdf`, `.jpg`, `.zip`.
 
-La gestion correcta exige nomenclatura clara, evitar duplicidades, respetar permisos, no guardar información sensible en ubicaciones inseguras, usar unidades corporativas y seguir políticas de archivo.
+La gestión correcta exige nomenclatura clara, evitar duplicidades, respetar permisos, no guardar información sensible en ubicaciones inseguras, usar unidades corporativas y seguir políticas de archivo.
 
 Eliminar no siempre destruye definitivamente: puede enviarse a papelera. En entornos corporativos pueden existir copias de seguridad y restricciones.
 

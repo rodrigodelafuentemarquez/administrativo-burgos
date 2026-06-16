@@ -595,7 +595,7 @@
       "Exclusivamente en el BOCYL",
       "Exclusivamente en el BOE",
       "El BOCYL y el BOE",
-      "El BOCYL y el Diario Oficial de la Union Europea"
+      "El BOCYL y el Diario Oficial de la Unión Europea"
     ],
     "correcta": 2,
     "explicación": "El tema indica expresamente que la OEP se publica tanto en el BOCYL como en el BOE.",
@@ -677,12 +677,12 @@
     "pregunta": "De acuerdo con el TREBEP y con el Tema 46, para poder participar en los procesos selectivos sera necesario:",
     "opciones": [
       "Poseer nacionalidad española en todo caso",
-      "Tener cumplidos dieciocho anos y no exceder de la edad maxima de jubilación forzosa",
-      "Tener cumplidos dieciseis anos y no exceder, en su caso, de la edad maxima de jubilación forzosa",
+      "Tener cumplidos dieciocho años y no exceder de la edad maxima de jubilación forzosa",
+      "Tener cumplidos dieciseis años y no exceder, en su caso, de la edad maxima de jubilación forzosa",
       "Conocer siempre la lengua cooficial del territorio de la Administración convocante"
     ],
     "correcta": 2,
-    "explicación": "El tema incluye como requisito general haber cumplido dieciseis anos y no haber alcanzado la edad de jubilación forzosa.",
+    "explicación": "El tema incluye como requisito general haber cumplido dieciseis años y no haber alcanzado la edad de jubilación forzosa.",
     "referencia": "III.1 · 4.3 Requisitos generales para el acceso"
   },
   {
@@ -706,8 +706,8 @@
     "opciones": [
       "El exceso o acumulación de tareas por plazo máximo de doce meses dentro de un período de dieciocho meses",
       "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
-      "La cobertura de plazas vacantes por un máximo de cuatro anos cuando no sea posible su cobertura por funcionarios de carrera",
-      "La ejecución de programas temporales con duración maxima de dos anos ampliable a doce meses mas"
+      "La cobertura de plazas vacantes por un máximo de cuatro años cuando no sea posible su cobertura por funcionarios de carrera",
+      "La ejecución de programas temporales con duración maxima de dos años ampliable a doce meses mas"
     ],
     "correcta": 1,
     "explicación": "El tema recoge la sustitución transitoria del titular como supuesto de nombramiento de funcionario interino.",

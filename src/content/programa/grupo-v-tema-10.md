@@ -79,7 +79,7 @@ Las tablas dinamicas resumen datos por categorias. Los graficos visualizan infor
 | SUMA | Sumar importes o unidades. | Total de tasas, facturas o solicitudes. |
 | CONTAR / CONTARA | Contar celdas numericas o no vacias. | Numero de expedientes registrados. |
 | SI | Aplicar condición lógica. | Si plazo vencido, mostrar "revisar". |
-| BUSCARX | Localizar datos en una tabla. | Buscar nombre por numero de expediente. |
+| BUSCARX | Localizar datos en una tabla. | Buscar nombre por número de expediente. |
 | FECHA / HOY | Gestionar fechas. | Calculo auxiliar de vencimientos. |
 | REDONDEAR | Ajustar decimales. | Importes económicos auxiliares. |
 

@@ -86,15 +86,15 @@ Cuándo se omite fiscalización previa obligatoria, debe tramitarse procedimient
 
 ## Control externo
 
-El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas y gestion económica del Estado y sector público, sin perjuicio de órganos autonomicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir responsabilidad contable.
+El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas y gestión económica del Estado y sector público, sin perjuicio de órganos autonomicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir responsabilidad contable.
 
-El Consejo de Cuentas de Castilla y León fiscaliza la gestion económica, financiera y contable del sector público de la Comunidad y de las entidades locales de Castilla y León, en coordinación con el Tribunal de Cuentas.
+El Consejo de Cuentas de Castilla y León fiscaliza la gestión económica, financiera y contable del sector público de la Comunidad y de las entidades locales de Castilla y León, en coordinación con el Tribunal de Cuentas.
 
 Las Cortes de Castilla y León reciben informes del Consejo de Cuentas y ejercen control político sobre el sector público autonómico y, en lo que proceda, sobre la fiscalización del sector local.
 
 ## Cuenta general
 
-Las entidades locales deben formar, informar, someter a comisión especial de cuentas, exponer y aprobar su Cuenta General, remitiendola a los órganos de control externo. La Cuenta General refleja ejecución presupuestaria, situación patrimonial, resultados y gestion.
+Las entidades locales deben formar, informar, someter a comisión especial de cuentas, exponer y aprobar su Cuenta General, remitiendola a los órganos de control externo. La Cuenta General refleja ejecución presupuestaria, situación patrimonial, resultados y gestión.
 
 Secuencia básica de la Cuenta General:
 

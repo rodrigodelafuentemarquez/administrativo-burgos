@@ -88,7 +88,7 @@
     "pregunta": "En Burgos, el Pleno es principalmente el órgano de:",
     "opciones": [
       "debate, control y aprobación de grandes decisiones",
-      "gestion diaria de cobros y pagos",
+      "gestión diaria de cobros y pagos",
       "inspección de obras privadas exclusivamente",
       "recaudación ejecutiva de multas"
     ],
@@ -183,7 +183,7 @@
   },
   {
     "id": "topup-07-10",
-    "pregunta": "La Intervención General ejerce el control interno de la gestion:",
+    "pregunta": "La Intervención General ejerce el control interno de la gestión:",
     "opciones": [
       "económico-financiera y presupuestaria",
       "electoral y parlamentaria",
@@ -257,7 +257,7 @@
     "opciones": [
       "la fe pública y el asesoramiento legal preceptivo",
       "la recaudación en via ejecutiva y la inspección tributaria",
-      "la ordenación de pagos y la gestion de tesorería",
+      "la ordenación de pagos y la gestión de tesorería",
       "la dirección política del gobierno municipal"
     ],
     "correcta": 0,
@@ -281,9 +281,9 @@
   },
   {
     "id": "refine-07-05",
-    "pregunta": "En el ámbito municipal, el órgano de gestion tributaria se relaciona de forma directa con funciones de:",
+    "pregunta": "En el ámbito municipal, el órgano de gestión tributaria se relaciona de forma directa con funciones de:",
     "opciones": [
-      "gestion, liquidación, inspección y recaudación de tributos e ingresos de derecho público",
+      "gestión, liquidación, inspección y recaudación de tributos e ingresos de derecho público",
       "aprobación del planeamiento general",
       "fe pública de las sesiones plenarias",
       "convocatoria de elecciones locales"

@@ -41,9 +41,9 @@ export const studyAidsBySlug: Record<string, StudyAid> = {
     points: ['Separar órganos políticos de órganos directivos y tecnicos.', 'En gran población, la Junta de Gobierno tiene peso organizativo relevante.', 'Secretaria, Intervención y Gestion Tributaria son piezas esenciales del funcionamiento municipal.'],
   },
   'grupo-i-tema-08': {
-    focus: 'Identificar instituciones de la Union Europea y sus funciones principales.',
+    focus: 'Identificar instituciones de la Unión Europea y sus funciones principales.',
     highlight: 'Consejo Europeo, Consejo, Parlamento, Comisión y TJUE',
-    points: ['No confundir Consejo Europeo y Consejo de la Union Europea.', 'La Comisión impulsa y vela por el cumplimiento del Derecho de la Union.', 'El TJUE garantiza interpretación y aplicación uniforme.'],
+    points: ['No confundir Consejo Europeo y Consejo de la Unión Europea.', 'La Comisión impulsa y vela por el cumplimiento del Derecho de la Unión.', 'El TJUE garantiza interpretación y aplicación uniforme.'],
   },
   'grupo-i-tema-09': {
     focus: 'Ubicar el Estatuto de Castilla y León, sus competencias y reforma.',
@@ -98,7 +98,7 @@ export const studyAidsBySlug: Record<string, StudyAid> = {
   },
   'grupo-ii-tema-10': {
     focus: 'Separar actividad de policia, fomento, servicio público y actividad económica.',
-    highlight: 'policia, fomento, servicio público y gestion',
+    highlight: 'policia, fomento, servicio público y gestión',
     points: ['Un servicio puede gestionarse directa o indirectamente.', 'La remunicipalización exige estudio jurídico y económico.', 'La Administración conserva control aunque contrate el servicio.'],
   },
   'grupo-ii-tema-11': {
@@ -135,7 +135,7 @@ export const studyAidsBySlug: Record<string, StudyAid> = {
   'grupo-iii-tema-05': {
     focus: 'Ubicar campo de aplicación, estructura y acción protectora de Seguridad Social.',
     highlight: 'régimen general, cotización, contingencias y prestaciones',
-    points: ['Contributivo y no contributivo no son lo mismo.', 'Alta, baja y cotización afectan a prestaciones.', 'Contingencia comun/profesional cambia gestion y efectos.'],
+    points: ['Contributivo y no contributivo no son lo mismo.', 'Alta, baja y cotización afectan a prestaciones.', 'Contingencia comun/profesional cambia gestión y efectos.'],
   },
 
   'grupo-iv-tema-01': {
@@ -156,7 +156,7 @@ export const studyAidsBySlug: Record<string, StudyAid> = {
   'grupo-iv-tema-04': {
     focus: 'Separar función interventora, control financiero y control externo.',
     highlight: 'reparo, fiscalización, control financiero y cuenta general',
-    points: ['El reparo puede suspender la tramitación.', 'El control financiero mira gestion, eficacia y eficiencia.', 'Tribunal de Cuentas y Consejo de Cuentas ejercen control externo.'],
+    points: ['El reparo puede suspender la tramitación.', 'El control financiero mira gestión, eficacia y eficiencia.', 'Tribunal de Cuentas y Consejo de Cuentas ejercen control externo.'],
   },
   'grupo-iv-tema-05': {
     focus: 'Distinguir clasificación, calificación, licencia, restauración y sanción.',

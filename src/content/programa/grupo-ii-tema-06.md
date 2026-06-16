@@ -52,7 +52,7 @@ No se indemnizan expectativas inciertas ni meras molestias no antijuridicas. Tam
 
 ## Acción de responsabilidad
 
-El derecho a reclamar prescribe al ano de producido el hecho o acto que motive la indemnización o de manifestarse su efecto lesivo. En danos fisicos o psiquicos, el plazo empieza desde la curación o determinación del alcance de las secuelas.
+El derecho a reclamar prescribe al año de producido el hecho o acto que motive la indemnización o de manifestarse su efecto lesivo. En danos fisicos o psiquicos, el plazo empieza desde la curación o determinación del alcance de las secuelas.
 
 La reclamación debe identificar al reclamante, dano sufrido, relación causal, evaluación económica si es posible y momento de producción. Debe aportar pruebas. La Administración instruye expediente, puede solicitar informes, practicar prueba, dar audiencia y resolver.
 

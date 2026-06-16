@@ -56,12 +56,12 @@ const S = {
     tag: 'BOE',
   },
   tue: {
-    label: 'Tratado de la Union Europea',
+    label: 'Tratado de la Unión Europea',
     url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012M/TXT',
     tag: 'UE',
   },
   tfue: {
-    label: 'Tratado de Funcionamiento de la Union Europea',
+    label: 'Tratado de Funcionamiento de la Unión Europea',
     url: 'https://eur-lex.europa.eu/legal-content/ES/TXT/?uri=CELEX:12012E/TXT',
     tag: 'UE',
   },

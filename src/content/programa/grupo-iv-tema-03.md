@@ -75,7 +75,7 @@ La autorización de gasto plurianual no elimina la necesidad de crédito en ejer
 
 La ordenación del pago es el acto por el que se ordena a Tesoreria satisfacer una obligación reconocida. La competencia corresponde al Presidente de la entidad local, salvo delegación o régimen específico.
 
-El pago material corresponde a Tesoreria. Deben respetarse planes de disposición de fondos, prioridades legales, disponibilidad liquida y medios de pago. La morosidad y período medio de pago son indicadores relevantes de gestion.
+El pago material corresponde a Tesoreria. Deben respetarse planes de disposición de fondos, prioridades legales, disponibilidad liquida y medios de pago. La morosidad y período medio de pago son indicadores relevantes de gestión.
 
 ## Errores frecuentes en ejecución del gasto
 

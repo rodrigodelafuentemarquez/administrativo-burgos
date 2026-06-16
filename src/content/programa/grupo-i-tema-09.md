@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo I. Organización del Estado, de la Union Europea, de las entidades locales y de la Comunidad de Castilla y León"
+grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidades locales y de la Comunidad de Castilla y León"
 tema: 9
 codigo: "Tema I.9"
 titulo: "La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto."
@@ -99,7 +99,7 @@ En una comunidad con fuerte dispersión territorial y muchos municipios pequenos
 | Desarrollo rural | Atención al medio rural y lucha contra desequilibrios. |
 | Protección social | Mayores, dependencia, discapacidad y familia. |
 | Medio ambiente y patrimonio | Conservación del entorno y de los bienes culturales. |
-| Calidad de servicios públicos | Mejora de gestion y proximidad administrativa. |
+| Calidad de servicios públicos | Mejora de gestión y proximidad administrativa. |
 
 ## Instituciones de Castilla y León
 
@@ -113,7 +113,7 @@ El Procurador del Comun es el alto comisionado de las Cortes para la defensa de 
 
 El Consejo Consultivo es el superior órgano consultivo de la Junta y de la Administración de la comunidad, sin perjuicio de su intervención en asuntos de entidades locales cuando la normativa lo prevea.
 
-El Consejo de Cuentas fiscaliza la gestion económica, financiera y contable del sector público de Castilla y León y de las entidades locales de la comunidad en los terminos legalmente establecidos.
+El Consejo de Cuentas fiscaliza la gestión económica, financiera y contable del sector público de Castilla y León y de las entidades locales de la comunidad en los terminos legalmente establecidos.
 
 El Consejo Economico y Social es un órgano consultivo y de participación en materia socioeconomica y laboral.
 
@@ -156,7 +156,7 @@ Para el Ayuntamiento de Burgos, las competencias autonómicas tienen relevancia 
 - `Medio ambiente`.
 - `Régimen local` y función pública local.
 
-## Relaciones con el Estado, otras comunidades y la Union Europea
+## Relaciones con el Estado, otras comunidades y la Unión Europea
 
 El Estatuto regula mecanismos de relación con el Estado y con otras comunidades autonomas. La cooperación interadministrativa es esencial en un Estado compuesto. Convenios, conferencias sectoriales, órganos mixtos y participación en decisiones estatales permiten coordinar competencias concurrentes.
 
@@ -168,7 +168,7 @@ Las relaciones exteriores corresponden al Estado, pero las comunidades autonomas
 |---|---|
 | Con el Estado | Coordinación, cooperación y participación en decisiones que afecten a competencias autonómicas. |
 | Con otras comunidades | Convenios y mecanismos de colaboración. |
-| Con la Union Europea | Participación en asuntos europeos vinculados a materias propias. |
+| Con la Unión Europea | Participación en asuntos europeos vinculados a materias propias. |
 
 ## Hacienda y patrimonio
 
@@ -176,7 +176,7 @@ La comunidad autonoma cuenta con hacienda propia para financiar el ejercicio de 
 
 Sus recursos pueden incluir tributos propios, impuestos cedidos total o parcialmente por el Estado, recargos, participaciones en ingresos estatales, transferencias, ingresos patrimoniales, operaciones de crédito y otros recursos previstos por la ley.
 
-La gestion económica debe ajustarse a principios de estabilidad presupuestaria, sostenibilidad financiera, control, transparencia y responsabilidad. El presupuesto de la comunidad expresa las obligaciones y derechos económicos previstos para cada ejercicio y es aprobado por las Cortes de Castilla y León.
+La gestión económica debe ajustarse a principios de estabilidad presupuestaria, sostenibilidad financiera, control, transparencia y responsabilidad. El presupuesto de la comunidad expresa las obligaciones y derechos económicos previstos para cada ejercicio y es aprobado por las Cortes de Castilla y León.
 
 | Recursos de la Hacienda autonoma | Ejemplos |
 |---|---|

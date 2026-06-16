@@ -14,7 +14,7 @@ Este tema se estudia sobre la Constitución Española, el Código Civil en mater
 
 El Derecho administrativo es la rama del ordenamiento que regula la organización, funcionamiento y actividad de las Administraciones Públicas y sus relaciones con los ciudadanos y con otros sujetos públicos o privados cuando actuan en ejercicio de potestades administrativas.
 
-Las fuentes del Derecho son los modos de producción de normas jurídicas. En el sistema español, el Código Civil menciona la ley, la costumbre y los principios generales del Derecho. En Derecho administrativo, la ley se entiende en sentido amplio: Constitución, leyes estatales y autonómicas, normas con rango de ley, reglamentos y Derecho de la Union Europea. La costumbre tiene un papel mucho menor que en otros sectores, porque la Administración necesita habilitación jurídica expresa para actuar. Los principios generales tienen gran importancia para interpretar normas, cubrir lagunas y controlar la actuación administrativa.
+Las fuentes del Derecho son los modos de producción de normas jurídicas. En el sistema español, el Código Civil menciona la ley, la costumbre y los principios generales del Derecho. En Derecho administrativo, la ley se entiende en sentido amplio: Constitución, leyes estatales y autonómicas, normas con rango de ley, reglamentos y Derecho de la Unión Europea. La costumbre tiene un papel mucho menor que en otros sectores, porque la Administración necesita habilitación jurídica expresa para actuar. Los principios generales tienen gran importancia para interpretar normas, cubrir lagunas y controlar la actuación administrativa.
 
 | Fuente | Papel en Derecho administrativo |
 |---|---|
@@ -26,7 +26,7 @@ Las fuentes del Derecho son los modos de producción de normas jurídicas. En el
 
 ## Jerarquia normativa
 
-La jerarquia normativa significa que las normas inferiores no pueden contradecir a las superiores. La Constitución ocupa la posición suprema. Por debajo se situan el Derecho de la Union Europea en los terminos derivados de sus principios de primacia y aplicación, los tratados internacionales validamente celebrados y publicados, las leyes y normas con rango de ley, y los reglamentos.
+La jerarquia normativa significa que las normas inferiores no pueden contradecir a las superiores. La Constitución ocupa la posición suprema. Por debajo se situan el Derecho de la Unión Europea en los terminos derivados de sus principios de primacia y aplicación, los tratados internacionales validamente celebrados y publicados, las leyes y normas con rango de ley, y los reglamentos.
 
 La jerarquia se combina con otros criterios. El principio de competencia determina que una norma solo es valida si el órgano que la aprueba tiene competencia material y territorial. Por eso una ley autonómica puede regular materias de competencia autonómica, pero no invadir competencias estatales. El principio de especialidad permite que una norma específica prevalezca sobre una general en su ámbito propio. El principio temporal hace que la norma posterior derogue la anterior si tienen el mismo rango y regulan la misma materia de forma incompatible.
 
@@ -40,13 +40,13 @@ La jerarquia se combina con otros criterios. El principio de competencia determi
 ### Escalon básico de fuentes
 
 1. `Constitución`.
-2. `Tratados internacionales` y Derecho de la Union Europea en su ámbito.
+2. `Tratados internacionales` y Derecho de la Unión Europea en su ámbito.
 3. `Leyes` y normas con rango de ley.
 4. `Reglamentos`.
 
 ## La ley
 
-La ley es la norma aprobada por las Cortes Generales o por los Parlamentos autonomicos dentro de sus competencias. En el ámbito estatal hay leyes organicas y leyes ordinarias. La ley orgánica se reserva a materias especialmente protegidas: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demas previstas por la Constitución. Su aprobación exige mayoria absoluta del Congreso en votación final sobre el conjunto.
+La ley es la norma aprobada por las Cortes Generales o por los Parlamentos autonomicos dentro de sus competencias. En el ámbito estatal hay leyes organicas y leyes ordinarias. La ley orgánica se reserva a materias especialmente protegidas: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demas previstas por la Constitución. Su aprobación exige mayoría absoluta del Congreso en votación final sobre el conjunto.
 
 La ley ordinaria regula las materias no reservadas a ley orgánica y se aprueba por el procedimiento legislativo ordinario. En el ámbito autonómico, las Cortes de Castilla y León pueden aprobar leyes en materias de competencia de la Comunidad.
 
@@ -119,15 +119,15 @@ Los limites del reglamento son esenciales. No puede vulnerar la Constitución ni
 
 ## Otras fuentes
 
-Los tratados internacionales forman parte del ordenamiento una vez validamente celebrados y publicados oficialmente. El Derecho de la Union Europea tiene primacia sobre el Derecho nacional incompatible dentro de su ámbito de competencia.
+Los tratados internacionales forman parte del ordenamiento una vez validamente celebrados y publicados oficialmente. El Derecho de la Unión Europea tiene primacia sobre el Derecho nacional incompatible dentro de su ámbito de competencia.
 
-La jurisprudencia complementa el ordenamiento al interpretar y aplicar la ley, la costumbre y los principios generales. En Derecho administrativo tiene especial importancia la jurisprudencia del Tribunal Supremo, del Tribunal Constitucional y del Tribunal de Justicia de la Union Europea.
+La jurisprudencia complementa el ordenamiento al interpretar y aplicar la ley, la costumbre y los principios generales. En Derecho administrativo tiene especial importancia la jurisprudencia del Tribunal Supremo, del Tribunal Constitucional y del Tribunal de Justicia de la Unión Europea.
 
 Los principios generales del Derecho son fuente esencial en la actuación administrativa: legalidad, proporcionalidad, igualdad, buena fe, confianza legitima, seguridad jurídica, interdicción de la arbitrariedad, responsabilidad, transparencia y servicio al interes general.
 
 | Otras fuentes o referencias | Utilidad |
 |---|---|
 | Tratados internacionales | Se integran en el ordenamiento tras su publicación oficial. |
-| Derecho de la Union Europea | Tiene primacia en su ámbito. |
+| Derecho de la Unión Europea | Tiene primacia en su ámbito. |
 | Jurisprudencia | Interpreta y complementa el ordenamiento. |
 | Principios generales | Cubren lagunas y orientan el control de la Administración. |

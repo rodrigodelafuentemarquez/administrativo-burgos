@@ -20,7 +20,7 @@ La potestad normativa local se fundamenta en la autonomía local. Sin normas pro
 
 Las ordenanzas son disposiciones generales aprobadas por entidades locales para regular materias de competencia municipal. Pueden afectar a convivencia ciudadana, limpieza, ruido, terrazas, mercados, trafico, licencias, medio ambiente urbano, administración electrónica, padron, servicios o uso de espacios públicos.
 
-Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas, contribuciones especiales, beneficios fiscales, gestion, liquidación, inspección y recaudación dentro del marco de la Ley de Haciendas Locales.
+Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas, contribuciones especiales, beneficios fiscales, gestión, liquidación, inspección y recaudación dentro del marco de la Ley de Haciendas Locales.
 
 Las ordenanzas no pueden vulnerar leyes, invadir competencias ajenas, tipificar infracciones sin habilitación suficiente ni restringir derechos de forma desproporcionada.
 
@@ -36,7 +36,7 @@ Una ordenanza local debe apoyarse en competencia municipal. Si el Ayuntamiento r
 
 ## Reglamentos
 
-Los reglamentos locales suelen regular organización y funcionamiento interno: reglamento organico municipal, reglamentos de órganos, participación ciudadana, consejo social, sugerencias y reclamaciones, gestion tributaria, archivos u otros órganos especializados.
+Los reglamentos locales suelen regular organización y funcionamiento interno: reglamento organico municipal, reglamentos de órganos, participación ciudadana, consejo social, sugerencias y reclamaciones, gestión tributaria, archivos u otros órganos especializados.
 
 El reglamento organico tiene especial importancia porque adapta la organización municipal a la ley y concreta órganos, funcionamiento, derechos de concejales, sesiones, comisiones y estructura institucional.
 
@@ -62,7 +62,7 @@ El expediente normativo debe permitir reconstruir por que se aprueba la norma. U
 
 ## Ordenanzas fiscales
 
-Las ordenanzas fiscales tienen procedimiento propio. Deben aprobarse provisionalmente por el Pleno, exponerse al público, resolver reclamaciones y aprobarse definitivamente. Regulan elementos necesarios de cada tributo dentro de la ley: hecho imponible, sujetos, beneficios, cuota, devengo, gestion y obligaciones formales cuando proceda.
+Las ordenanzas fiscales tienen procedimiento propio. Deben aprobarse provisionalmente por el Pleno, exponerse al público, resolver reclamaciones y aprobarse definitivamente. Regulan elementos necesarios de cada tributo dentro de la ley: hecho imponible, sujetos, beneficios, cuota, devengo, gestión y obligaciones formales cuando proceda.
 
 Su importancia en un Ayuntamiento es enorme porque habilitan la aplicación de tasas, impuestos potestativos y contribuciones especiales. Sin ordenanza fiscal valida, determinados ingresos no pueden exigirse.
 

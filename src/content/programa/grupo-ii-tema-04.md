@@ -41,7 +41,7 @@ El procedimiento puede inadmitirse cuando la solicitud no se base en causa de nu
 
 La revocación permite a la Administración dejar sin efecto actos de gravamen o desfavorables, siempre que no constituya dispensa o exención no permitida por las leyes, no sea contraria al principio de igualdad, al interes público o al ordenamiento jurídico. Es una via para retirar decisiones que perjudican al ciudadano cuando ya no resultan adecuadas o procedentes.
 
-La rectificación de errores permite corregir en cualquier momento errores materiales, de hecho o aritmeticos existentes en los actos. No puede utilizarse para cambiar el sentido de la decisión ni para revisar valoraciones jurídicas. Corregir un numero mal transcrito es rectificación; cambiar una denegación por una concesión no lo es.
+La rectificación de errores permite corregir en cualquier momento errores materiales, de hecho o aritmeticos existentes en los actos. No puede utilizarse para cambiar el sentido de la decisión ni para revisar valoraciones jurídicas. Corregir un número mal transcrito es rectificación; cambiar una denegación por una concesión no lo es.
 
 ## Recursos administrativos
 
@@ -49,7 +49,7 @@ Los recursos administrativos son medios de impugnación ante la propia Administr
 
 Pueden interponerlos los interesados contra resoluciones y actos de trámite cualificados. Los escritos de recurso deben identificar recurrente, acto impugnado, razón de impugnación, lugar, fecha, firma y órgano al que se dirigen.
 
-La interposición de recurso no suspende automaticamente la ejecución del acto, salvo que una norma disponga lo contrario o el órgano competente acuerde la suspensión por perjuicios de imposible o dificil reparación o impugnación fundada en causa de nulidad.
+La interposición de recurso no suspende automáticamente la ejecución del acto, salvo que una norma disponga lo contrario o el órgano competente acuerde la suspensión por perjuicios de imposible o dificil reparación o impugnación fundada en causa de nulidad.
 
 | Recurso | Acto contra el que procede | Organo que resuelve | Plazo para resolver |
 | --- | --- | --- | --- |
@@ -109,7 +109,7 @@ La jurisdicción contencioso-administrativa controla la legalidad de la actuaci�
 
 Su naturaleza es jurisdiccional, no administrativa. La decisión corresponde a jueces y tribunales independientes. Su función es garantizar que la Administración actue conforme a Derecho y proteger derechos e intereses legitimos.
 
-Puede impugnarse la actuación de Administraciones territoriales, entidades públicas, órganos constitucionales en materia de personal, administración y gestion patrimonial, y otros sujetos cuando ejercen potestades administrativas. Para el Ayuntamiento, esta jurisdicción es el cauce normal de control judicial de acuerdos, resoluciones, ordenanzas, sanciones, tributos, responsabilidad patrimonial y contratación en los terminos legales.
+Puede impugnarse la actuación de Administraciones territoriales, entidades públicas, órganos constitucionales en materia de personal, administración y gestión patrimonial, y otros sujetos cuando ejercen potestades administrativas. Para el Ayuntamiento, esta jurisdicción es el cauce normal de control judicial de acuerdos, resoluciones, ordenanzas, sanciones, tributos, responsabilidad patrimonial y contratación en los terminos legales.
 
 En el ámbito municipal suelen acabar en esta jurisdicción:
 

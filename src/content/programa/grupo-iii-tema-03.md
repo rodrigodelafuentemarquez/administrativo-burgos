@@ -64,7 +64,7 @@ En la práctica municipal, estos derechos se concretan en calendario laboral, pe
 | Retribución | Nomina, complementos y cotización. |
 | Formación | Planes de formación y autorizaciones. |
 | Salud laboral | Adaptaciones, reconocimientos y PRL. |
-| Representación colectiva | Comite de empresa, secciones sindicales y negociación. |
+| Representación colectiva | Comité de empresa, secciones sindicales y negociación. |
 
 ## Deberes
 
@@ -110,7 +110,7 @@ Puntos de control antes de autorizar compatibilidad:
 
 El personal laboral puede incurrir en responsabilidad disciplinaria conforme al EBEP, convenio colectivo y Estatuto de los Trabajadores. Las faltas pueden ser leves, graves o muy graves, y las sanciones incluyen apercibimiento, suspensión de empleo y sueldo, traslado o despido disciplinario.
 
-En el Ayuntamiento, la gestion del personal laboral exige expedientes de contratación, llamamientos, nominas, permisos, control horario, prevención de riesgos, formación, incompatibilidades y disciplina.
+En el Ayuntamiento, la gestión del personal laboral exige expedientes de contratación, llamamientos, nóminas, permisos, control horario, prevención de riesgos, formación, incompatibilidades y disciplina.
 
 | Materia | Documento o trámite habitual |
 | --- | --- |

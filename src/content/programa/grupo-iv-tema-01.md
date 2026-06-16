@@ -40,7 +40,7 @@ La diferencia entre impuesto y tasa es esencial en examen. En el impuesto no hay
 | ICIO | Potestativo, indirecto. | Grava construcciones, instalaciones u obras que exijan licencia, declaración responsable o control urbanístico equivalente. |
 | IIVTNU | Potestativo, directo. | Grava el incremento de valor de terrenos urbanos puesto de manifiesto por transmisión, en los terminos legales. |
 
-En la práctica municipal, estos tributos sostienen buena parte de los ingresos corrientes. Por eso el personal administrativo debe distinguir entre padrones periodicos, liquidaciones individuales, autoliquidaciones, bonificaciones rogadas, exenciones legales, gestion recaudatoria voluntaria y ejecutiva.
+En la práctica municipal, estos tributos sostienen buena parte de los ingresos corrientes. Por eso el personal administrativo debe distinguir entre padrones periodicos, liquidaciones individuales, autoliquidaciones, bonificaciones rogadas, exenciones legales, gestión recaudatoria voluntaria y ejecutiva.
 
 ## Potestad reglamentaria tributaria
 
@@ -50,11 +50,11 @@ La potestad tributaria local conecta con autonomía financiera y suficiencia de 
 
 ## Contenido de ordenanzas fiscales
 
-Las ordenanzas fiscales deben contener elementos necesarios para aplicar el tributo: hecho imponible, sujetos pasivos, responsables, exenciones y bonificaciones, base imponible, tipo o tarifa, cuota, período impositivo, devengo, normas de gestion, liquidación, inspección, recaudación, infracciones y sanciones cuando proceda dentro del marco legal.
+Las ordenanzas fiscales deben contener elementos necesarios para aplicar el tributo: hecho imponible, sujetos pasivos, responsables, exenciones y bonificaciones, base imponible, tipo o tarifa, cuota, período impositivo, devengo, normas de gestión, liquidación, inspección, recaudación, infracciones y sanciones cuando proceda dentro del marco legal.
 
 En tasas debe justificarse que el importe no excede, en conjunto, del coste real o previsible del servicio o actividad o del valor de la prestación recibida. Los informes tecnico-económicos son relevantes.
 
-Una ordenanza fiscal no debe estudiarse solo como un texto normativo. Es una herramienta de gestion: permite saber quien debe pagar, cuando nace la obligación, como se calcula la cuota, que beneficios fiscales existen, que documentación se exige y que órgano resuelve. Si la ordenanza es imprecisa, despues aparecen problemas en liquidaciones, recursos, padrones y atención al contribuyente.
+Una ordenanza fiscal no debe estudiarse solo como un texto normativo. Es una herramienta de gestión: permite saber quien debe pagar, cuando nace la obligación, como se calcula la cuota, que beneficios fiscales existen, que documentación se exige y que órgano resuelve. Si la ordenanza es imprecisa, despues aparecen problemas en liquidaciones, recursos, padrones y atención al contribuyente.
 
 | Elemento de la ordenanza | Pregunta que responde |
 | --- | --- |
@@ -74,7 +74,7 @@ Si no se presentan reclamaciones, el acuerdo provisional se entiende definitivam
 
 ## Imposición y ordenación
 
-La imposición es la decisión de establecer un tributo potestativo o exigir una figura permitida. La ordenación es la regulación concreta de sus elementos mediante ordenanza fiscal. En impuestos obligatorios, la ley ya exige su existencia, pero la ordenanza concreta aspectos como tipos dentro de limites, bonificaciones potestativas y gestion.
+La imposición es la decisión de establecer un tributo potestativo o exigir una figura permitida. La ordenación es la regulación concreta de sus elementos mediante ordenanza fiscal. En impuestos obligatorios, la ley ya exige su existencia, pero la ordenanza concreta aspectos como tipos dentro de limites, bonificaciones potestativas y gestión.
 
 ## Impugnación
 

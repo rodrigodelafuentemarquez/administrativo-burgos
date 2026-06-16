@@ -2,7 +2,7 @@
 grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas"
 tema: 5
 codigo: "Tema II.5"
-titulo: "El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestion, delegación de firma y suplencia."
+titulo: "El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia."
 estado: "borrador"
 ---
 
@@ -59,7 +59,7 @@ Las actas documentan asistentes, orden del día, circunstancias de lugar y tiemp
 | Convocatoria | Comunica sesión y orden del día. |
 | Acta | Documenta formalmente la sesión y acuerdos. |
 
-Para que el acuerdo sea valido no basta con que exista mayoria política: deben respetarse convocatoria, quorum, competencia, deliberación, votación y documentación.
+Para que el acuerdo sea valido no basta con que exista mayoría política: deben respetarse convocatoria, quorum, competencia, deliberación, votación y documentación.
 
 ## Competencia administrativa
 
@@ -73,11 +73,11 @@ La competencia puede atribuirse por materia, territorio y jerarquia. Un acto dic
 | Territorio | Termino municipal o ámbito territorial del órgano. |
 | Jerarquia | Organo superior o inferior dentro de la estructura. |
 
-La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas técnicas es alterar el ejercicio, la firma o la gestion material, pero no renunciar a la titularidad fuera de la ley.
+La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas técnicas es alterar el ejercicio, la firma o la gestión material, pero no renunciar a la titularidad fuera de la ley.
 
 ## Desconcentración
 
-La desconcentración atribuye competencias de órganos superiores a órganos inferiores dentro de la misma Administración. Tiene carácter estable y se aprueba por norma. Busca acercar decisiones, agilizar gestion y descargar órganos superiores.
+La desconcentración atribuye competencias de órganos superiores a órganos inferiores dentro de la misma Administración. Tiene carácter estable y se aprueba por norma. Busca acercar decisiones, agilizar gestión y descargar órganos superiores.
 
 No debe confundirse con descentralización, que transfiere competencias a otra entidad con personalidad jurídica propia.
 
@@ -105,9 +105,9 @@ La avocación permite que un órgano superior asuma para si el conocimiento de u
 
 La avocación es puntual, referida a un asunto concreto. No altera de forma permanente la distribución de competencias.
 
-## Encomienda de gestion
+## Encomienda de gestión
 
-La encomienda de gestion supone encargar actividades materiales o técnicas a otro órgano o entidad por razones de eficacia o falta de medios idoneos. No transfiere titularidad de competencia ni elementos sustantivos de su ejercicio. El órgano encomendante sigue siendo responsable de dictar actos o resoluciones jurídicas.
+La encomienda de gestión supone encargar actividades materiales o técnicas a otro órgano o entidad por razones de eficacia o falta de medios idoneos. No transfiere titularidad de competencia ni elementos sustantivos de su ejercicio. El órgano encomendante sigue siendo responsable de dictar actos o resoluciones jurídicas.
 
 No puede tener por objeto prestaciones propias de contratos del sector público si concurren sus elementos, porque entonces debe acudirse a contratación.
 

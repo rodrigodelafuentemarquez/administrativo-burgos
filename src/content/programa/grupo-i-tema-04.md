@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo I. Organización del Estado, de la Union Europea, de las entidades locales y de la Comunidad de Castilla y León"
+grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidades locales y de la Comunidad de Castilla y León"
 tema: 4
 codigo: "Tema I.4"
 titulo: "El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Espanol."
@@ -20,7 +20,7 @@ La posición del Gobierno debe entenderse dentro de la monarquia parlamentaria. 
 
 El artículo 97 de la Constitución concentra sus funciones básicas: dirección política, dirección administrativa, defensa del Estado, función ejecutiva y potestad reglamentaria. Esta ultima permite aprobar normas de rango reglamentario, siempre subordinadas a la Constitución y a la ley. El Gobierno no puede utilizar el reglamento para invadir materias reservadas a la ley ni para contradecir normas superiores.
 
-El Gobierno actua colegiadamente, pero dentro de el tiene una posición central el Presidente. El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestion.
+El Gobierno actua colegiadamente, pero dentro de el tiene una posición central el Presidente. El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestión.
 
 | Función del Gobierno | Alcance | Limite |
 |---|---|---|
@@ -67,11 +67,11 @@ El Gobierno puede dictar reglamentos en forma de reales decretos cuando proceden
 
 Tras la renovación del Congreso y en los demas supuestos constitucionales, el Rey propone un candidato a la Presidencia del Gobierno previa consulta con los representantes designados por los grupos políticos con representación parlamentaria y a traves del Presidente del Congreso.
 
-El candidato expone ante el Congreso su programa político y solicita la confianza de la Camara. En primera votación necesita mayoria absoluta. Si no la obtiene, se celebra una nueva votación cuarenta y ocho horas despues, en la que basta mayoria simple. Si en el plazo de dos meses desde la primera votación ningun candidato obtiene la confianza, el Rey disuelve ambas Camaras y convoca nuevas elecciones con el refrendo del Presidente del Congreso.
+El candidato expone ante el Congreso su programa político y solicita la confianza de la Camara. En primera votación necesita mayoría absoluta. Si no la obtiene, se celebra una nueva votación cuarenta y ocho horas despues, en la que basta mayoría simple. Si en el plazo de dos meses desde la primera votación ningun candidato obtiene la confianza, el Rey disuelve ambas Camaras y convoca nuevas elecciones con el refrendo del Presidente del Congreso.
 
 El Gobierno cesa tras la celebración de elecciones generales, por perdida de la confianza parlamentaria, por dimisión o fallecimiento de su Presidente. El Gobierno cesante continua en funciones hasta la toma de posesión del nuevo Gobierno. La continuidad en funciones evita vacios de poder, pero limita politicamente la actuación gubernamental.
 
-La responsabilidad política se articula mediante la cuestion de confianza y la moción de censura. La cuestion de confianza la plantea el Presidente previa deliberación del Consejo de Ministros. La moción de censura debe ser constructiva: debe incluir candidato alternativo a la Presidencia. Si prospera, el Gobierno cesa y queda investido el candidato incluido en la moción.
+La responsabilidad política se articula mediante la cuestión de confianza y la moción de censura. La cuestión de confianza la plantea el Presidente previa deliberación del Consejo de Ministros. La moción de censura debe ser constructiva: debe incluir candidato alternativo a la Presidencia. Si prospera, el Gobierno cesa y queda investido el candidato incluido en la moción.
 
 | Institución | Iniciativa | Efecto |
 |---|---|---|
@@ -101,7 +101,7 @@ La Administración General del Estado se organiza en órganos centrales, órgano
 
 La organización central se articula en Ministerios. Cada Ministerio comprende uno o varios sectores funcionalmente homogeneos de actividad administrativa. En su estructura pueden existir Secretarias de Estado, Subsecretarias, Secretarias Generales, Secretarias Generales Tecnicas, Direcciones Generales y Subdirecciones Generales.
 
-Los Ministros son a la vez miembros del Gobierno y jefes superiores de sus departamentos. Los Secretarios de Estado son órganos superiores directamente responsables de la ejecución de la acción del Gobierno en un sector concreto. Los Subsecretarios dirigen los servicios comunes del Ministerio y desempenan funciones de gestion interna, asesoramiento y coordinación. Las Direcciones Generales gestionan areas funcionales, y las Subdirecciones Generales son órganos directivos de nivel inferior.
+Los Ministros son a la vez miembros del Gobierno y jefes superiores de sus departamentos. Los Secretarios de Estado son órganos superiores directamente responsables de la ejecución de la acción del Gobierno en un sector concreto. Los Subsecretarios dirigen los servicios comunes del Ministerio y desempenan funciones de gestión interna, asesoramiento y coordinación. Las Direcciones Generales gestionan areas funcionales, y las Subdirecciones Generales son órganos directivos de nivel inferior.
 
 La estructura ministerial se basa en los principios de jerarquia y especialización. La jerarquia permite dirección y control interno. La especialización permite distribuir materias complejas entre órganos tecnicos.
 
@@ -109,7 +109,7 @@ La estructura ministerial se basa en los principios de jerarquia y especializaci
 |---|---|---|
 | Ministro | Organo superior | Jefe del departamento y miembro del Gobierno. |
 | Secretario de Estado | Organo superior | Ejecución de acción del Gobierno en sector concreto. |
-| Subsecretario | Organo directivo | Servicios comunes, gestion interna y coordinación. |
+| Subsecretario | Organo directivo | Servicios comunes, gestión interna y coordinación. |
 | Director General | Organo directivo | Gestion de areas funcionales. |
 | Subdirector General | Organo directivo inferior | Ejecución técnica y administrativa. |
 

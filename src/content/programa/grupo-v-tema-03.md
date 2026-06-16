@@ -29,7 +29,7 @@ La atención a personas con discapacidad exige accesibilidad universal, ajustes 
 
 Esto incluye lenguaje claro, apoyo en tramitación, accesibilidad web, documentos comprensibles, atención preferente cuando proceda, bucles magneticos, lectura facil, asistencia para medios electrónicos y respeto a autonomía personal.
 
-La discapacidad no debe tratarse como excepción caritativa, sino como cuestion de igualdad de derechos y no discriminación.
+La discapacidad no debe tratarse como excepción caritativa, sino como cuestión de igualdad de derechos y no discriminación.
 
 Ejemplos de ajustes razonables en atención municipal:
 

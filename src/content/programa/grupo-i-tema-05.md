@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo I. Organización del Estado, de la Union Europea, de las entidades locales y de la Comunidad de Castilla y León"
+grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidades locales y de la Comunidad de Castilla y León"
 tema: 5
 codigo: "Tema I.5"
 titulo: "Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales."
@@ -14,9 +14,9 @@ También resultan relevantes el Real Decreto Legislativo 781/1986, de 18 de abri
 
 ## La Administración Local en la Constitución
 
-La Constitución reconoce la Administración Local dentro de la organización territorial del Estado. El artículo 137 establece que el Estado se organiza territorialmente en municipios, provincias y comunidades autonomas que se constituyan, y que todas estas entidades gozan de autonomía para la gestion de sus respectivos intereses.
+La Constitución reconoce la Administración Local dentro de la organización territorial del Estado. El artículo 137 establece que el Estado se organiza territorialmente en municipios, provincias y comunidades autonomas que se constituyan, y que todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
 
-La autonomía local no es soberania ni autonomía política equiparable a la de las comunidades autonomas. Es una autonomía institucional y administrativa garantizada constitucionalmente. Significa que municipios y provincias deben disponer de un ámbito propio de decisión y gestion, de órganos representativos y de recursos suficientes para cumplir las funciones que la ley les atribuye.
+La autonomía local no es soberania ni autonomía política equiparable a la de las comunidades autonomas. Es una autonomía institucional y administrativa garantizada constitucionalmente. Significa que municipios y provincias deben disponer de un ámbito propio de decisión y gestión, de órganos representativos y de recursos suficientes para cumplir las funciones que la ley les atribuye.
 
 El artículo 140 garantiza la autonomía de los municipios y atribuye su gobierno y administración a los Ayuntamientos, integrados por Alcaldes y Concejales. El artículo 141 regula la provincia como entidad local con personalidad jurídica propia. El artículo 142 establece la suficiencia financiera de las Haciendas locales.
 
@@ -29,7 +29,7 @@ El artículo 140 garantiza la autonomía de los municipios y atribuye su gobiern
 
 ## Concepto de entidad local
 
-Las entidades locales son Administraciones Públicas de base territorial que gestionan intereses propios de una colectividad asentada en un territorio determinado. Tienen personalidad jurídica, capacidad de obrar, potestades administrativas y autonomía para la gestion de sus intereses.
+Las entidades locales son Administraciones Públicas de base territorial que gestionan intereses propios de una colectividad asentada en un territorio determinado. Tienen personalidad jurídica, capacidad de obrar, potestades administrativas y autonomía para la gestión de sus intereses.
 
 La Ley de Bases del Régimen Local reconoce como entidades locales territoriales el municipio, la provincia y la isla en los archipielagos balear y canario. Ademas, pueden existir otras entidades de ámbito territorial inferior al municipio, comarcas u otras entidades que agrupen varios municipios, areas metropolitanas y mancomunidades de municipios, en los terminos previstos por la legislación estatal y autonómica.
 
@@ -56,7 +56,7 @@ Las areas metropolitanas son entidades locales integradas por municipios de gran
 
 Las mancomunidades son asociaciones voluntarias de municipios para la ejecución en comun de obras y servicios determinados de su competencia. Tienen personalidad y capacidad para cumplir sus fines, pero no sustituyen a los municipios que las integran.
 
-Las entidades de ámbito territorial inferior al municipio, cuando existan conforme a la normativa aplicable, canalizan la gestion de intereses propios de nucleos separados dentro de un municipio.
+Las entidades de ámbito territorial inferior al municipio, cuando existan conforme a la normativa aplicable, canalizan la gestión de intereses propios de nucleos separados dentro de un municipio.
 
 | Tipo de entidad local | Caracter |
 |---|---|
@@ -74,7 +74,7 @@ La Ley de Bases del Régimen Local establece las bases del régimen jurídico de
 
 Entre los principios fundamentales se encuentran autonomía local, personalidad jurídica, suficiencia financiera, participación ciudadana, representatividad democratica, responsabilidad, control de legalidad, cooperación interadministrativa y servicio a los intereses vecinales.
 
-La autonomía local se protege mediante la atribución de competencias, la existencia de órganos propios, la potestad reglamentaria y de autoorganización, la potestad tributaria dentro de los limites legales, la capacidad de gestion de servicios y la defensa jurisdiccional de sus intereses.
+La autonomía local se protege mediante la atribución de competencias, la existencia de órganos propios, la potestad reglamentaria y de autoorganización, la potestad tributaria dentro de los limites legales, la capacidad de gestión de servicios y la defensa jurisdiccional de sus intereses.
 
 Las entidades locales actuan con potestades públicas. Entre ellas figuran potestad reglamentaria y de autoorganización, potestad tributaria y financiera, potestad de programación o planificación, potestad expropiatoria, potestad sancionadora, potestad de investigación, deslinde y recuperación de oficio de sus bienes, potestad de ejecución forzosa y potestad de revisión de oficio, en los terminos legalmente establecidos.
 
@@ -198,6 +198,6 @@ El control interno se ejerce por la Intervención, mediante función interventor
 
 ## Importancia del régimen local para la plaza convocada
 
-Para una plaza de Administrativo del Ayuntamiento de Burgos, el régimen local no es un bloque teorico aislado. Afecta al funcionamiento diario de la entidad: tramitación de expedientes, acuerdos de órganos colegiados, ordenanzas, padron, gestion tributaria, contratación, presupuestos, atención ciudadana y archivo.
+Para una plaza de Administrativo del Ayuntamiento de Burgos, el régimen local no es un bloque teorico aislado. Afecta al funcionamiento diario de la entidad: tramitación de expedientes, acuerdos de órganos colegiados, ordenanzas, padron, gestión tributaria, contratación, presupuestos, atención ciudadana y archivo.
 
 El opositor debe dominar las ideas constitucionales y legales básicas, pero tambien comprender que el Ayuntamiento actua como Administración Publica territorial con potestades propias, órganos representativos, competencias, presupuesto y responsabilidad ante los vecinos.

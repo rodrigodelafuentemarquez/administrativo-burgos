@@ -18,7 +18,7 @@
     "tema": 21,
     "pregunta": "Según el artículo 123 de la Ley 7/1985:",
     "opciones": [
-      "Los reglamentos de naturaleza orgánica se aprueban por mayoria absoluta del Pleno",
+      "Los reglamentos de naturaleza orgánica se aprueban por mayoría absoluta del Pleno",
       "Tienen naturaleza orgánica las normas de división del municipio en distritos y la regulación de los órganos de los distritos",
       "Tienen naturaleza orgánica las normas que regulan el Consejo Social de la ciudad",
       "Las tres afirmaciones anteriores son compatibles con el régimen del artículo 123"
@@ -65,7 +65,7 @@
       "la ordenanza queda anulada"
     ],
     "correcta": 0,
-    "explicación": "La ausencia de reclamaciones permite elevar automaticamente el acuerdo a definitivo.",
+    "explicación": "La ausencia de reclamaciones permite elevar automáticamente el acuerdo a definitivo.",
     "referencia": "II.12 · Procedimiento de aprobación",
     "tema": 21
   },
@@ -158,7 +158,7 @@
     "pregunta": "La publicación oficial de ordenanzas locales se realiza normalmente en el:",
     "opciones": [
       "Boletin Oficial de la Provincia",
-      "Diario Oficial de la Union Europea exclusivamente",
+      "Diario Oficial de la Unión Europea exclusivamente",
       "tablón del Congreso",
       "BOE en todo caso"
     ],
@@ -228,13 +228,13 @@
     "pregunta": "Si durante la información pública de una ordenanza local no se presentan reclamaciones ni sugerencias:",
     "opciones": [
       "el acuerdo inicial se entiende definitivamente adoptado",
-      "la ordenanza decae automaticamente",
+      "la ordenanza decae automáticamente",
       "debe repetirse siempre la aprobación inicial",
       "solo puede aprobarla definitivamente la Junta de Gobierno Local"
     ],
     "correcta": 0,
     "referencia": "II.12 · Procedimiento de aprobación",
-    "explicación": "La legislación local permite que, sin reclamaciones, el acuerdo inicial pase a ser definitivo automaticamente.",
+    "explicación": "La legislación local permite que, sin reclamaciones, el acuerdo inicial pase a ser definitivo automáticamente.",
     "tema": 21
   },
   {
@@ -271,7 +271,7 @@
     "opciones": [
       "no sustituye a una disposición reglamentaria de rango local aprobada por el Pleno",
       "tiene siempre rango superior a la ordenanza",
-      "deroga automaticamente cualquier reglamento municipal",
+      "deroga automáticamente cualquier reglamento municipal",
       "solo puede dictarse si existe ley orgánica habilitante"
     ],
     "correcta": 0,

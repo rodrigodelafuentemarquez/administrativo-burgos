@@ -8,13 +8,13 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El régimen se basa en el Reglamento General de Protección de Datos de la Union Europea y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de derechos digitales.
+El régimen se basa en el Reglamento General de Protección de Datos de la Unión Europea y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de derechos digitales.
 
 ## Datos personales y tratamiento
 
 Dato personal es toda información sobre una **persona física identificada o identificable**. Tratamiento es cualquier operación sobre datos: recogida, registro, consulta, comunicación, conservación, supresión o modificación.
 
-Un Ayuntamiento trata datos constantemente: padron, tributos, multas, licencias, servicios sociales, personal, proveedores, expedientes, camaras, registro y sede electrónica.
+Un Ayuntamiento trata datos constantemente: padron, tributos, multas, licencias, servicios sociales, personal, proveedores, expedientes, cámaras, registro y sede electrónica.
 
 | Dato | Ejemplo municipal |
 | --- | --- |
@@ -95,7 +95,7 @@ El Delegado de Protección de Datos informa, asesora, supervisa cumplimiento, co
 | Delegado de Protección de Datos | Asesora, supervisa y actua como punto de contacto. |
 | Autoridad de control | Vigila cumplimiento y tramita reclamaciones. |
 
-Cuándo el Ayuntamiento contrata una aplicación de gestion de expedientes, una empresa de mantenimiento informatico o una plataforma de turnos, debe analizar si el proveedor actua como encargado y formalizar contrato de encargo.
+Cuándo el Ayuntamiento contrata una aplicación de gestión de expedientes, una empresa de mantenimiento informatico o una plataforma de turnos, debe analizar si el proveedor actua como encargado y formalizar contrato de encargo.
 
 <mark>No confundir figuras:</mark>
 

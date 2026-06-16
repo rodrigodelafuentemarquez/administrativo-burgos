@@ -78,10 +78,10 @@ El expediente debe acreditar necesidad, financiación, competencia, efecto sobre
 
 Los anticipos de tesorería permiten atender necesidades inaplazables con carácter excepcional antes de tramitar modificación definitiva, en los terminos legales. No deben confundirse con operaciones ordinarias de tesorería.
 
-La gestion presupuestaria local exige control constante de crédito, financiación afectada, estabilidad y cumplimiento de reglas fiscales.
+La gestión presupuestaria local exige control constante de crédito, financiación afectada, estabilidad y cumplimiento de reglas fiscales.
 
 ## Secuencia básica de aprobación del presupuesto
 
-Aunque el tema se centra en concepto y modificaciones, conviene situar el ciclo presupuestario. El proyecto se elabora por la Alcaldia o Presidencia con informes e integración de anexos; se somete a aprobación inicial del Pleno; se expone al público para reclamaciones; y, si no hay reclamaciones o una vez resueltas, se aprueba definitivamente y se publica resumido por capitulos.
+Aunque el tema se centra en concepto y modificaciones, conviene situar el ciclo presupuestario. El proyecto se elabora por la Alcaldia o Presidencia con informes e integración de anexos; se somete a aprobación inicial del Pleno; se expone al público para reclamaciones; y, si no hay reclamaciones o una vez resueltas, se aprueba definitivamente y se publica resumido por capítulos.
 
-Si al inicio del ejercicio no existe presupuesto aprobado, se prorroga automaticamente el del ejercicio anterior con los ajustes legales necesarios. La prorroga no significa libertad absoluta: ciertas partidas no prorrogables o gastos vinculados a programas finalizados deben revisarse.
+Si al inicio del ejercicio no existe presupuesto aprobado, se prorroga automáticamente el del ejercicio anterior con los ajustes legales necesarios. La prorroga no significa libertad absoluta: ciertas partidas no prorrogables o gastos vinculados a programas finalizados deben revisarse.
