@@ -13,6 +13,15 @@ const { title, toc = [] } = Astro.props;
 import AccessGate from '../components/AccessGate.astro';
 const temasPrograma = (await getCollection('programa')).sort((a, b) => a.id.localeCompare(b.id));
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const normalizePath = (value: string) => value.replace(/\/+$/, '') || '/';
+const currentPath = normalizePath(Astro.url.pathname);
+const navClass = (href: string, exact = false) => {
+  const target = normalizePath(href);
+  const active = exact
+    ? currentPath === target
+    : currentPath === target || currentPath.startsWith(`${target}/`);
+  return active ? 'active' : '';
+};
 ---
 
 <html lang="es" data-bs-theme="dark">
@@ -88,15 +97,22 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
         transform: rotate(-3deg) scale(1.03);
       }
       .bd-brand-mark {
-        display: inline-grid;
-        width: 2.5rem;
-        height: 2rem;
+        display: inline-flex;
+        width: 2.2rem;
+        height: 2.2rem;
         margin-right: .5rem;
-        place-items: center;
-        color: var(--bd-violet);
-        font-weight: 800;
-        background: #fff;
+        align-items: center;
+        justify-content: center;
+        overflow: hidden;
+        background: rgba(255,255,255,.14);
         border-radius: .45rem;
+        box-shadow: inset 0 0 0 1px rgba(255,255,255,.12);
+      }
+      .bd-brand-mark img {
+        display: block;
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
       }
       .bd-navbar .nav-link,
       .bd-navbar .navbar-toggler {
@@ -1115,21 +1131,21 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
           <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal" aria-label="Abrir navegacion">
             <span class="navbar-toggler-icon"></span>
           </button>
-          <a class="bd-brand d-inline-flex align-items-center p-0 me-lg-3" href={base} aria-label="Oposición Burgos">
-            <span class="bd-brand-mark">B</span>
-            <span>Oposición Burgos</span>
+          <a class="bd-brand d-inline-flex align-items-center p-0 me-lg-3" href={base} aria-label="Administrativo Burgos">
+            <span class="bd-brand-mark"><img src={`${base}favicon.png`} alt="" /></span>
+            <span>Administrativo Burgos</span>
           </a>
         </div>
 
         <div class="d-flex align-items-center gap-2 ms-lg-auto">
           <ul class="navbar-nav flex-row flex-wrap d-none d-lg-flex">
-            <li class="nav-item"><a class="nav-link py-2 px-2 active" href={base}>Docs</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}convocatoria`}>Convocatoria</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}test`}>Tests</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}practico`}>2º ejercicio</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}desarrollo`}>3º ejercicio</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}progreso`}>Progreso</a></li>
-            <li class="nav-item"><a class="nav-link py-2 px-2" href={`${base}dudosas`}>Dudosas</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(base, true)}`} href={base}>Inicio</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(`${base}convocatoria`)}`} href={`${base}convocatoria`}>Convocatoria</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(`${base}test`)}`} href={`${base}test`}>Tests</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(`${base}practico`)}`} href={`${base}practico`}>2º ejercicio</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(`${base}desarrollo`)}`} href={`${base}desarrollo`}>3º ejercicio</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(`${base}progreso`)}`} href={`${base}progreso`}>Progreso</a></li>
+            <li class="nav-item"><a class={`nav-link py-2 px-2 ${navClass(`${base}dudosas`)}`} href={`${base}dudosas`}>Dudosas</a></li>
           </ul>
           <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas" aria-label="Abrir temas">
             Temas
@@ -1146,14 +1162,14 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       <div class="offcanvas-body">
         <nav class="bd-links-nav">
           <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong>
-          <a class="bd-links-link rounded active" href={base}>Inicio</a>
-          <a class="bd-links-link rounded" href={`${base}convocatoria`}>Seguimiento oficial</a>
-          <a class="bd-links-link rounded" href={`${base}test`}>Hacer test</a>
-          <a class="bd-links-link rounded" href={`${base}practico`}>Segundo ejercicio</a>
-          <a class="bd-links-link rounded" href={`${base}desarrollo`}>Tercer ejercicio</a>
-          <a class="bd-links-link rounded" href={`${base}progreso`}>Progreso</a>
-          <a class="bd-links-link rounded" href={`${base}dudosas`}>Preguntas dudosas</a>
-          <a class="bd-links-link rounded" href={`${base}fallos`}>Repetir fallos</a>
+          <a class={`bd-links-link rounded ${navClass(base, true)}`} href={base}>Inicio</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}convocatoria`)}`} href={`${base}convocatoria`}>Seguimiento oficial</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}test`)}`} href={`${base}test`}>Hacer test</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}practico`)}`} href={`${base}practico`}>Segundo ejercicio</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}desarrollo`)}`} href={`${base}desarrollo`}>Tercer ejercicio</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}progreso`)}`} href={`${base}progreso`}>Progreso</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}dudosas`)}`} href={`${base}dudosas`}>Preguntas dudosas</a>
+          <a class={`bd-links-link rounded ${navClass(`${base}fallos`)}`} href={`${base}fallos`}>Repetir fallos</a>
         </nav>
       </div>
     </div>
@@ -1166,7 +1182,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
       <div class="offcanvas-body">
         <nav class="bd-links-nav theme-list" aria-label="Listado de temas">
           {temasPrograma.map((t) => (
-            <a class="bd-links-link rounded" href={`${base}programa/${t.id.replace(/\.md$/, '')}`}>
+            <a class={`bd-links-link rounded ${navClass(`${base}programa/${t.id.replace(/\.md$/, '')}`, true)}`} href={`${base}programa/${t.id.replace(/\.md$/, '')}`}>
               {t.data.codigo}: {t.data.titulo}
             </a>
           ))}
@@ -1181,14 +1197,14 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
             <li class="bd-links-group py-2">
               <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong>
               <ul class="list-unstyled fw-normal pb-2 small">
-                <li><a class="bd-links-link d-inline-block rounded active" href={base}>Inicio</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}convocatoria`}>Seguimiento oficial</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}test`}>Hacer test</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}practico`}>Segundo ejercicio</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}desarrollo`}>Tercer ejercicio</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}progreso`}>Progreso</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}dudosas`}>Preguntas dudosas</a></li>
-                <li><a class="bd-links-link d-inline-block rounded" href={`${base}fallos`}>Repetir fallos</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(base, true)}`} href={base}>Inicio</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}convocatoria`)}`} href={`${base}convocatoria`}>Seguimiento oficial</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}test`)}`} href={`${base}test`}>Hacer test</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}practico`)}`} href={`${base}practico`}>Segundo ejercicio</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}desarrollo`)}`} href={`${base}desarrollo`}>Tercer ejercicio</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}progreso`)}`} href={`${base}progreso`}>Progreso</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}dudosas`)}`} href={`${base}dudosas`}>Preguntas dudosas</a></li>
+                <li><a class={`bd-links-link d-inline-block rounded ${navClass(`${base}fallos`)}`} href={`${base}fallos`}>Repetir fallos</a></li>
               </ul>
             </li>
             <li class="bd-links-group py-2">
@@ -1196,7 +1212,7 @@ const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL :
               <ul class="list-unstyled fw-normal pb-2 small">
                 {temasPrograma.map((t) => (
                   <li>
-                    <a class="bd-links-link d-inline-block rounded" href={`${base}programa/${t.id.replace(/\.md$/, '')}`}>
+                    <a class={`bd-links-link d-inline-block rounded ${navClass(`${base}programa/${t.id.replace(/\.md$/, '')}`, true)}`} href={`${base}programa/${t.id.replace(/\.md$/, '')}`}>
                       {t.data.codigo}
                     </a>
                   </li>
