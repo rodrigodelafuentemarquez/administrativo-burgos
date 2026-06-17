@@ -348,5 +348,33 @@
     "correcta": 0,
     "explicacion": "El Pleno se configura como órgano representativo, normativo y de control; la gestión ejecutiva ordinaria se desplaza a otros órganos.",
     "referencia": "Tema I.7, El Pleno"
+  },
+  {
+    "id": "estado2026-i07-01",
+    "tema": 7,
+    "pregunta": "En el régimen de municipios de gran población, el Pleno se caracteriza especialmente por:",
+    "opciones": [
+      "Sus funciones normativas, presupuestarias y de control político",
+      "La dirección ordinaria de todos los expedientes administrativos",
+      "La sustitución de la Secretaría General",
+      "La gestión directa de la recaudación tributaria diaria"
+    ],
+    "correcta": 0,
+    "explicacion": "En municipios de gran población, el Pleno concentra debate, aprobación normativa y presupuestaria y control político, mientras la gestión ejecutiva corresponde a otros órganos.",
+    "referencia": "Tema I.7, Pleno del Ayuntamiento de Burgos"
+  },
+  {
+    "id": "estado2026-i07-02",
+    "tema": 7,
+    "pregunta": "¿Qué órgano municipal debe existir en municipios de gran población para la defensa de los derechos de los vecinos ante la Administración municipal?",
+    "opciones": [
+      "Comisión Especial de Sugerencias y Reclamaciones",
+      "Consejo de Estado municipal",
+      "Tribunal Constitucional local",
+      "Comisión Delegada del Gobierno municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "La Comisión Especial de Sugerencias y Reclamaciones se vincula a la defensa de los derechos de los vecinos ante la Administración municipal.",
+    "referencia": "Tema I.7, municipios de gran población"
   }
 ]

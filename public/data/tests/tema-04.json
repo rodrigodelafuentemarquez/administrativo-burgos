@@ -334,5 +334,47 @@
     "correcta": 0,
     "explicacion": "El art. 106 CE encomienda a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa.",
     "referencia": "Tema I.4, Sometimiento de la Administración a la ley"
+  },
+  {
+    "id": "estado2026-i04-01",
+    "tema": 4,
+    "pregunta": "Según la Ley 40/2015, ¿a qué órgano corresponde desempeñar la jefatura superior de todo el personal del Departamento?",
+    "opciones": [
+      "A los Subsecretarios",
+      "A los Secretarios de Estado",
+      "A los Directores Generales",
+      "A los Subdirectores Generales"
+    ],
+    "correcta": 0,
+    "explicacion": "La jefatura superior de todo el personal del Departamento corresponde a la Subsecretaría.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 8; Tema I.4, Administración del Estado"
+  },
+  {
+    "id": "estado2026-i04-02",
+    "tema": 4,
+    "pregunta": "Conforme al art. 107 CE, el supremo órgano consultivo del Gobierno es:",
+    "opciones": [
+      "El Consejo de Estado",
+      "El Tribunal Constitucional",
+      "El Consejo General del Poder Judicial",
+      "La Comisión General de Secretarios de Estado y Subsecretarios"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 107 CE define al Consejo de Estado como supremo órgano consultivo del Gobierno.",
+    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.4, Gobierno y Administración"
+  },
+  {
+    "id": "estado2026-i04-03",
+    "tema": 4,
+    "pregunta": "¿Cuál de estos órganos pertenece a la organización central de la Administración General del Estado, no a la periférica?",
+    "opciones": [
+      "Subsecretario",
+      "Delegado del Gobierno",
+      "Subdelegado del Gobierno",
+      "Director Insular"
+    ],
+    "correcta": 0,
+    "explicacion": "Los Subsecretarios forman parte de la organización central de los Departamentos ministeriales; Delegados, Subdelegados y Directores Insulares pertenecen a la organización periférica.",
+    "referencia": "Tema I.4, Administración General del Estado"
   }
 ]

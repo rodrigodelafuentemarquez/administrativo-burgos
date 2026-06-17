@@ -978,5 +978,47 @@
     "correcta": 0,
     "explicacion": "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales.",
     "referencia": "Tema I.2, Poder Judicial"
+  },
+  {
+    "id": "estado2026-i02-01",
+    "tema": 2,
+    "pregunta": "De acuerdo con el art. 67 CE, ¿qué incompatibilidad parlamentaria se formula de manera expresa?",
+    "opciones": [
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente",
+      "Los Ministros pueden ser miembros de ambas Cámaras simultáneamente",
+      "El Presidente del Gobierno puede acumular Senado y Congreso",
+      "Un Diputado puede acumular siempre acta autonómica y acta del Congreso"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 67 CE impide ser miembro de las dos Cámaras simultáneamente y también acumular acta autonómica con la de Diputado al Congreso.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 3; Tema I.2, Cortes Generales"
+  },
+  {
+    "id": "estado2026-i02-02",
+    "tema": 2,
+    "pregunta": "La cuestión de confianza del art. 112 CE se entiende otorgada cuando vota a favor:",
+    "opciones": [
+      "La mayoría simple del Congreso de los Diputados",
+      "La mayoría absoluta del Congreso de los Diputados",
+      "La mayoría simple del Congreso y del Senado",
+      "La mayoría absoluta de ambas Cámaras"
+    ],
+    "correcta": 0,
+    "explicacion": "La cuestión de confianza se decide solo en el Congreso y se entiende otorgada por mayoría simple.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 5; Tema I.2, Gobierno y Cortes"
+  },
+  {
+    "id": "estado2026-i02-03",
+    "tema": 2,
+    "pregunta": "¿Qué opción recoge correctamente el nombramiento del Presidente del Tribunal Supremo?",
+    "opciones": [
+      "El Rey lo nombra a propuesta del Consejo General del Poder Judicial",
+      "El Consejo de Ministros lo nombra a propuesta del Rey",
+      "El Congreso lo elige por mayoría de tres quintos",
+      "El Fiscal General del Estado lo propone al Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 4; Tema I.2, Poder Judicial"
   }
 ]

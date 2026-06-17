@@ -390,5 +390,33 @@
     "correcta": 0,
     "explicacion": "La autonomía local permite gestionar intereses propios, pero siempre dentro del marco de la Constitución y la ley.",
     "referencia": "Tema I.5, Régimen local: contenido y principios"
+  },
+  {
+    "id": "estado2026-i05-01",
+    "tema": 5,
+    "pregunta": "El régimen de organización de municipios de gran población se aplica, entre otros, a:",
+    "opciones": [
+      "Municipios capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas cuando lo decida la Asamblea Legislativa correspondiente a iniciativa del Ayuntamiento",
+      "Todos los municipios de más de 100.000 habitantes sin excepción",
+      "Todos los municipios de menos de 75.000 habitantes con circunstancias especiales",
+      "Solo municipios que sean capitales de provincia y superen 75.000 habitantes"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 121 LBRL contempla esta vía de aplicación del régimen de gran población por decisión autonómica a iniciativa municipal.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 10; Tema I.5, régimen local"
+  },
+  {
+    "id": "estado2026-i05-02",
+    "tema": 5,
+    "pregunta": "¿Qué tipo de entidad local se crea para gestionar intereses comunes de varios municipios sin sustituirlos?",
+    "opciones": [
+      "Mancomunidad",
+      "Provincia",
+      "Isla",
+      "Municipio de gran población"
+    ],
+    "correcta": 0,
+    "explicacion": "La mancomunidad permite a varios municipios gestionar conjuntamente obras o servicios de su competencia, sin desaparecer como municipios.",
+    "referencia": "Tema I.5, tipología de entidades locales"
   }
 ]

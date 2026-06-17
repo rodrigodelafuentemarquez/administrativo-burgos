@@ -334,5 +334,33 @@
     "correcta": 0,
     "explicacion": "La gestión y formación del padrón corresponde al Ayuntamiento, bajo la coordinación del INE en los términos legales.",
     "referencia": "Tema I.6, Padrón municipal"
+  },
+  {
+    "id": "estado2026-i06-01",
+    "tema": 6,
+    "pregunta": "¿Qué afirmación sobre el término municipal es correcta?",
+    "opciones": [
+      "Es el territorio en el que el Ayuntamiento ejerce sus competencias",
+      "Es la población inscrita en el padrón",
+      "Es el órgano ejecutivo municipal",
+      "Es la agrupación de provincias limítrofes"
+    ],
+    "correcta": 0,
+    "explicacion": "El término municipal es el ámbito territorial en el que el Ayuntamiento ejerce sus competencias.",
+    "referencia": "Tema I.6, término municipal"
+  },
+  {
+    "id": "estado2026-i06-02",
+    "tema": 6,
+    "pregunta": "¿Qué dato NO convierte por sí solo a una persona en vecina de un municipio?",
+    "opciones": [
+      "Ser propietario de una vivienda en el municipio",
+      "Estar inscrito en el padrón municipal",
+      "Residir habitualmente y constar en el padrón",
+      "Figurar como vecino en el padrón"
+    ],
+    "correcta": 0,
+    "explicacion": "La propiedad de una vivienda no determina la vecindad administrativa; esta deriva de la inscripción padronal.",
+    "referencia": "Tema I.6, población y empadronamiento"
   }
 ]

@@ -334,5 +334,33 @@
     "correcta": 0,
     "explicacion": "El art. 155 CE exige requerimiento previo al Presidente autonómico y aprobación por mayoría absoluta del Senado.",
     "referencia": "Tema I.3, Control de las Comunidades Autónomas"
+  },
+  {
+    "id": "estado2026-i03-01",
+    "tema": 3,
+    "pregunta": "¿Quién ostenta la representación ordinaria del Estado en una Comunidad Autónoma conforme al art. 152 CE?",
+    "opciones": [
+      "El Presidente de la Comunidad Autónoma",
+      "El Delegado del Gobierno",
+      "El Presidente del Gobierno",
+      "El Ministro competente en política territorial"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 152 CE atribuye al Presidente autonómico la suprema representación de la Comunidad y la ordinaria del Estado en ella.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 9; Tema I.3, organización autonómica"
+  },
+  {
+    "id": "estado2026-i03-02",
+    "tema": 3,
+    "pregunta": "¿Qué afirmación distingue mejor la cláusula de prevalencia de la supletoriedad del Derecho estatal?",
+    "opciones": [
+      "La prevalencia resuelve conflictos competenciales a favor del Estado en lo no atribuido exclusivamente a las Comunidades; la supletoriedad cubre lagunas",
+      "La prevalencia convierte siempre cualquier norma autonómica en nula",
+      "La supletoriedad impide aplicar Derecho estatal en las Comunidades Autónomas",
+      "Ambas cláusulas atribuyen competencias nuevas a los municipios"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 149.3 CE combina prevalencia del Derecho estatal en caso de conflicto, salvo competencias exclusivas autonómicas, y supletoriedad general del Derecho estatal.",
+    "referencia": "Tema I.3, distribución de competencias"
   }
 ]

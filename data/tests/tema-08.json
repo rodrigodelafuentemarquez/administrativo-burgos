@@ -474,5 +474,47 @@
     "correcta": 0,
     "explicacion": "El reglamento es obligatorio en todos sus elementos y directamente aplicable; la directiva obliga en cuanto al resultado.",
     "referencia": "Tema I.8, Derecho de la Unión Europea"
+  },
+  {
+    "id": "estado2026-i08-01",
+    "tema": 8,
+    "pregunta": "Según el art. 16 TUE, el Consejo de la Unión Europea:",
+    "opciones": [
+      "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria",
+      "Supervisa la aplicación del Derecho de la Unión bajo el control del TJUE",
+      "Es el órgano ejecutivo de la Unión Europea",
+      "Ejerce la función legislativa junto con la Comisión Europea"
+    ],
+    "correcta": 0,
+    "explicacion": "El Consejo ejerce con el Parlamento Europeo la función legislativa y presupuestaria.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 11; Tema I.8, Consejo de la Unión Europea"
+  },
+  {
+    "id": "estado2026-i08-02",
+    "tema": 8,
+    "pregunta": "Según el art. 3 TFUE, ¿en qué ámbito dispone la Unión Europea de competencia exclusiva?",
+    "opciones": [
+      "Unión aduanera",
+      "Sanidad pública general",
+      "Educación obligatoria",
+      "Organización municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 3 TFUE enumera la unión aduanera entre las competencias exclusivas de la Unión.",
+    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.8, competencias de la Unión Europea"
+  },
+  {
+    "id": "estado2026-i08-03",
+    "tema": 8,
+    "pregunta": "¿Qué institución vela por la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia?",
+    "opciones": [
+      "La Comisión Europea",
+      "El Consejo Europeo",
+      "El Consejo de la Unión Europea",
+      "El Comité de las Regiones"
+    ],
+    "correcta": 0,
+    "explicacion": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
+    "referencia": "Tema I.8, Comisión Europea"
   }
 ]

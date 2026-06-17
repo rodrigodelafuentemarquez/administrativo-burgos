@@ -670,5 +670,33 @@
     "correcta": 0,
     "explicacion": "El Consejo de Cuentas es el órgano de control externo de la actividad económico-financiera del sector público de Castilla y León.",
     "referencia": "Tema I.9, Instituciones propias de Castilla y León"
+  },
+  {
+    "id": "estado2026-i09-01",
+    "tema": 9,
+    "pregunta": "En la reforma del Estatuto de Autonomía de Castilla y León, la aprobación por las Cortes de Castilla y León requiere con carácter general:",
+    "opciones": [
+      "Mayoría de dos tercios",
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Unanimidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El procedimiento de reforma estatutaria exige aprobación por las Cortes de Castilla y León por mayoría reforzada de dos tercios.",
+    "referencia": "Tema I.9, reforma del Estatuto de Autonomía"
+  },
+  {
+    "id": "estado2026-i09-02",
+    "tema": 9,
+    "pregunta": "¿Qué institución propia de Castilla y León actúa como alto comisionado de las Cortes para la defensa de derechos y supervisión administrativa?",
+    "opciones": [
+      "Procurador del Común",
+      "Consejo de Cuentas",
+      "Consejo Consultivo",
+      "Consejo Económico y Social"
+    ],
+    "correcta": 0,
+    "explicacion": "El Procurador del Común es el equivalente autonómico del Defensor del Pueblo y supervisa la actividad administrativa en su ámbito.",
+    "referencia": "Tema I.9, instituciones propias de Castilla y León"
   }
 ]

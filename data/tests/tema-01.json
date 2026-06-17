@@ -334,5 +334,33 @@
     "correcta": 0,
     "explicacion": "La interdicción de la arbitrariedad impide actuaciones públicas caprichosas o carentes de justificación racional.",
     "referencia": "Tema I.1, Principios constitucionales"
+  },
+  {
+    "id": "estado2026-i01-01",
+    "tema": 1,
+    "pregunta": "En el procedimiento ordinario de reforma constitucional, si el texto obtiene tres quintos de cada Cámara, el referéndum:",
+    "opciones": [
+      "Solo se somete si lo solicita una décima parte de los miembros de cualquiera de las Cámaras dentro de plazo",
+      "Es obligatorio en todo caso",
+      "Solo puede pedirlo el Gobierno",
+      "Queda sustituido por informe del Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "En la reforma ordinaria del art. 167 CE el referéndum no es automático: procede si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
+    "referencia": "Tema I.1, reforma constitucional ordinaria"
+  },
+  {
+    "id": "estado2026-i01-02",
+    "tema": 1,
+    "pregunta": "¿Qué bloque de derechos exige reforma agravada del art. 168 CE si se pretende una revisión que le afecte?",
+    "opciones": [
+      "La Sección 1.ª del Capítulo II del Título I",
+      "Todo el Capítulo III del Título I",
+      "Solo los principios rectores del art. 53.3 CE",
+      "Las disposiciones transitorias"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 168 CE se aplica, entre otros supuestos, a revisiones que afecten a la Sección 1.ª del Capítulo II del Título I.",
+    "referencia": "Tema I.1, reforma constitucional agravada"
   }
 ]

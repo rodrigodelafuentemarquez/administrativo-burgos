@@ -2,55 +2,55 @@
   {
     "tema": 1,
     "archivo": "tema-01.json",
-    "preguntas": 24,
+    "preguntas": 26,
     "titulo": "Tema I.1 · La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión."
   },
   {
     "tema": 2,
     "archivo": "tema-02.json",
-    "preguntas": 70,
+    "preguntas": 73,
     "titulo": "Tema I.2 · La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial."
   },
   {
     "tema": 3,
     "archivo": "tema-03.json",
-    "preguntas": 24,
+    "preguntas": 26,
     "titulo": "Tema I.3 · La Constitución Española (III): la organización territorial del Estado español. Las comunidades autonomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autonomas."
   },
   {
     "tema": 4,
     "archivo": "tema-04.json",
-    "preguntas": 24,
+    "preguntas": 27,
     "titulo": "Tema I.4 · El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Espanol."
   },
   {
     "tema": 5,
     "archivo": "tema-05.json",
-    "preguntas": 28,
+    "preguntas": 30,
     "titulo": "Tema I.5 · Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales."
   },
   {
     "tema": 6,
     "archivo": "tema-06.json",
-    "preguntas": 24,
+    "preguntas": 26,
     "titulo": "Tema I.6 · El municipio: concepto y elementos. El termino municipal. La población: especial referencia al empadronamiento."
   },
   {
     "tema": 7,
     "archivo": "tema-07.json",
-    "preguntas": 25,
+    "preguntas": 27,
     "titulo": "Tema I.7 · La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaria General. La Intervención General. El órgano de Gestion Tributaria."
   },
   {
     "tema": 8,
     "archivo": "tema-08.json",
-    "preguntas": 34,
+    "preguntas": 37,
     "titulo": "Tema I.8 · La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea."
   },
   {
     "tema": 9,
     "archivo": "tema-09.json",
-    "preguntas": 48,
+    "preguntas": 50,
     "titulo": "Tema I.9 · La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto."
   },
   {
