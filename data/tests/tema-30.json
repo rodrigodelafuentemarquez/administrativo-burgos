@@ -278,5 +278,33 @@
     "referencia": "IV.4 · Control externo",
     "explicación": "El Consejo de Cuentas es el órgano autonómico de fiscalización externa en Castilla y León.",
     "tema": 30
+  },
+  {
+    "id": "estado2026-extra-t30-01",
+    "tema": 30,
+    "pregunta": "El Tribunal de Cuentas ejerce, entre otras, la función de:",
+    "opciones": [
+      "Fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público",
+      "Función interventora interna previa",
+      "Control financiero permanente de cada entidad local",
+      "Ordenación material de pagos"
+    ],
+    "correcta": 0,
+    "explicacion": "La función característica del Tribunal de Cuentas es la fiscalización externa de la actividad económico-financiera del sector público.",
+    "referencia": "Examen Estado 2026, Tribunal de Cuentas; Tema IV.4, control externo"
+  },
+  {
+    "id": "estado2026-extra-t30-02",
+    "tema": 30,
+    "pregunta": "¿Qué diferencia básica separa función interventora y control externo?",
+    "opciones": [
+      "La función interventora es control interno; el Tribunal de Cuentas y órganos equivalentes realizan control externo",
+      "Ambas son siempre el mismo órgano",
+      "El control externo sustituye a la contabilidad",
+      "La función interventora solo existe en empresas privadas"
+    ],
+    "correcta": 0,
+    "explicacion": "El control interno corresponde a la Intervención; el control externo se atribuye al Tribunal de Cuentas y, en su ámbito, a órganos autonómicos como el Consejo de Cuentas.",
+    "referencia": "Tema IV.4, control del gasto público"
   }
 ]

@@ -558,5 +558,33 @@
     "correcta": 0,
     "explicación": "El temario fija 6 meses para recurrir los actos presuntos por silencio administrativo.",
     "referencia": "II.4 · 3.3 Límite temporal: el plazo de interposición (art. 46 LJCA)"
+  },
+  {
+    "id": "estado2026-extra-t13-01",
+    "tema": 13,
+    "pregunta": "¿Cuál de estas resoluciones pone fin a la vía administrativa según la LPACAP?",
+    "opciones": [
+      "Los acuerdos, pactos, convenios o contratos que tengan la consideración de finalizadores del procedimiento",
+      "Las resoluciones que acuerdan medidas provisionales",
+      "Todos los actos de trámite simple",
+      "Cualquier resolución de órgano administrativo sin excepción"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 114 LPACAP incluye entre los actos que ponen fin a la vía administrativa los acuerdos, pactos, convenios o contratos finalizadores del procedimiento.",
+    "referencia": "Examen Estado 2026, art. 114 LPACAP; Tema II.4, recursos administrativos"
+  },
+  {
+    "id": "estado2026-extra-t13-02",
+    "tema": 13,
+    "pregunta": "Si una resolución pone fin a la vía administrativa, ¿qué recurso administrativo ordinario puede interponerse con carácter potestativo?",
+    "opciones": [
+      "Recurso potestativo de reposición",
+      "Recurso de alzada",
+      "Recurso extraordinario de revisión en todo caso",
+      "Recurso de súplica ante el Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "Frente a actos que ponen fin a la vía administrativa cabe reposición potestativa o acudir directamente a la jurisdicción contencioso-administrativa.",
+    "referencia": "Tema II.4, recurso de reposición"
   }
 ]

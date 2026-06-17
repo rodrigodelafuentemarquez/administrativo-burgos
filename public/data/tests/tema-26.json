@@ -278,5 +278,33 @@
     "explicación": "La organización del sistema distingue régimen general y regimenes especiales.",
     "referencia": "III.5 · Estructura del sistema",
     "tema": 26
+  },
+  {
+    "id": "estado2026-extra-t26-01",
+    "tema": 26,
+    "pregunta": "MUFACE se integra en el sector público institucional estatal como:",
+    "opciones": [
+      "Organismo público",
+      "Sociedad mercantil estatal",
+      "Fundación del sector público",
+      "Consorcio local"
+    ],
+    "correcta": 0,
+    "explicacion": "El examen de Estado 2026 recuerda que MUFACE se integra como organismo público.",
+    "referencia": "Examen Estado 2026, MUFACE; Tema III.5, Seguridad Social y mutualismo"
+  },
+  {
+    "id": "estado2026-extra-t26-02",
+    "tema": 26,
+    "pregunta": "En jubilación parcial de personal laboral con discapacidad igual o superior al 33 por ciento, el examen de Estado 2026 preguntaba por un periodo mínimo de cotización de:",
+    "opciones": [
+      "Veinticinco años",
+      "Veinte años",
+      "Treinta años",
+      "Treinta y tres años"
+    ],
+    "correcta": 0,
+    "explicacion": "La pregunta del examen fijaba como respuesta correcta veinticinco años para el supuesto descrito.",
+    "referencia": "Examen Estado 2026, Seguridad Social; Tema III.5"
   }
 ]

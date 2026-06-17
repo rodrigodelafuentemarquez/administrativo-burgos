@@ -334,5 +334,33 @@
     "correcta": 0,
     "explicación": "El tema recoge el sello electrónico basado en certificado reconocido o cualificado como sistema valido de identificación de la Administración.",
     "referencia": "V.7 · 3.2 Sistemas de firma e identificación"
+  },
+  {
+    "id": "estado2026-extra-t38-01",
+    "tema": 38,
+    "pregunta": "Una Administración Pública puede identificarse electrónicamente mediante:",
+    "opciones": [
+      "Sello electrónico basado en certificado electrónico reconocido o cualificado",
+      "Usuario y contraseña de un empleado sin trazabilidad",
+      "Una imagen escaneada del escudo",
+      "Un correo electrónico ordinario sin certificado"
+    ],
+    "correcta": 0,
+    "explicacion": "La identificación electrónica administrativa puede realizarse mediante sello electrónico basado en certificado reconocido o cualificado.",
+    "referencia": "Examen Estado 2026, identificación electrónica; Tema V.7, Administración electrónica"
+  },
+  {
+    "id": "estado2026-extra-t38-02",
+    "tema": 38,
+    "pregunta": "El aviso de puesta a disposición de una notificación electrónica:",
+    "opciones": [
+      "No sustituye a la notificación, aunque informa de que existe una notificación pendiente",
+      "Equivale siempre a la práctica de la notificación",
+      "Anula el plazo de acceso",
+      "Solo puede enviarse por correo postal certificado"
+    ],
+    "correcta": 0,
+    "explicacion": "El aviso es un complemento informativo y no sustituye a la notificación electrónica practicada por acceso o rechazo.",
+    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema V.7"
   }
 ]

@@ -306,5 +306,33 @@
     "correcta": 0,
     "explicación": "El tema identifica el BOE/TEU como cauce edictal.",
     "referencia": "II.2 · 5.2.5 Notificación infructuosa y notificación edictal"
+  },
+  {
+    "id": "estado2026-extra-t11-01",
+    "tema": 11,
+    "pregunta": "Conforme al art. 48 LPACAP, son anulables los actos administrativos que:",
+    "opciones": [
+      "Incurran en cualquier infracción del ordenamiento jurídico, incluso desviación de poder",
+      "Sean dictados por órgano manifiestamente incompetente por razón de la materia",
+      "Prescindan total y absolutamente del procedimiento",
+      "Lesionen derechos susceptibles de amparo constitucional"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla general de anulabilidad comprende cualquier infracción del ordenamiento jurídico, incluida la desviación de poder; las otras opciones son causas típicas de nulidad de pleno derecho.",
+    "referencia": "Examen Estado 2026, art. 48 LPACAP; Tema II.2, validez de los actos"
+  },
+  {
+    "id": "estado2026-extra-t11-02",
+    "tema": 11,
+    "pregunta": "¿Qué vicio apunta a anulabilidad y no, por sí mismo, a nulidad de pleno derecho?",
+    "opciones": [
+      "Desviación de poder",
+      "Incompetencia manifiesta por razón de la materia",
+      "Contenido imposible",
+      "Acto dictado prescindiendo total y absolutamente del procedimiento"
+    ],
+    "correcta": 0,
+    "explicacion": "La desviación de poder se cita expresamente en el art. 48 LPACAP como supuesto de anulabilidad.",
+    "referencia": "Tema II.2, invalidez del acto administrativo"
   }
 ]

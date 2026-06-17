@@ -278,5 +278,33 @@
     "referencia": "III.4 · Régimen de incompatibilidades",
     "explicación": "La finalidad central del régimen es evitar conflictos de intereses y preservar la imparcialidad.",
     "tema": 25
+  },
+  {
+    "id": "estado2026-extra-t25-01",
+    "tema": 25,
+    "pregunta": "¿Qué actividad está exceptuada del régimen de incompatibilidades del personal al servicio de las Administraciones Públicas?",
+    "opciones": [
+      "La participación en tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas",
+      "El desempeño de cargos en empresas concesionarias del sector público",
+      "La participación superior al 10 por ciento en empresas contratistas",
+      "Cualquier segunda actividad privada coincidente con el horario"
+    ],
+    "correcta": 0,
+    "explicacion": "La participación en tribunales calificadores figura entre las actividades exceptuadas del régimen de incompatibilidades.",
+    "referencia": "Examen Estado 2026, Ley 53/1984; Tema III.4, incompatibilidades"
+  },
+  {
+    "id": "estado2026-extra-t25-02",
+    "tema": 25,
+    "pregunta": "El desempeño de un segundo puesto público o privado compatible exige, como regla general:",
+    "opciones": [
+      "Autorización o reconocimiento previo de compatibilidad cuando proceda",
+      "Simple comunicación posterior al superior jerárquico",
+      "Ningún control si se realiza por la tarde",
+      "Solo inscripción en el padrón municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "El régimen de incompatibilidades exige autorización o reconocimiento de compatibilidad en los supuestos legalmente previstos.",
+    "referencia": "Tema III.4, régimen de incompatibilidades"
   }
 ]

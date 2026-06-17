@@ -278,5 +278,33 @@
     "explicación": "La AEPD es la autoridad estatal de control en protección de datos.",
     "referencia": "V.6 · Autoridades de protección de datos",
     "tema": 37
+  },
+  {
+    "id": "estado2026-extra-t37-01",
+    "tema": 37,
+    "pregunta": "El deber de confidencialidad en protección de datos alcanza a:",
+    "opciones": [
+      "Responsables, encargados y todas las personas que intervengan en cualquier fase del tratamiento",
+      "Solo a funcionarios de carrera",
+      "Solo a delegados de prevención",
+      "A todos los ciudadanos aunque no traten datos"
+    ],
+    "correcta": 0,
+    "explicacion": "La LOPDGDD extiende el deber de confidencialidad a responsables, encargados y personas que intervengan en cualquier fase del tratamiento.",
+    "referencia": "Examen Estado 2026, art. 5 LOPDGDD; Tema V.6, protección de datos"
+  },
+  {
+    "id": "estado2026-extra-t37-02",
+    "tema": 37,
+    "pregunta": "El deber de confidencialidad en materia de protección de datos:",
+    "opciones": [
+      "Subsiste incluso después de finalizar la relación con el responsable o encargado del tratamiento",
+      "Desaparece al cerrar el expediente",
+      "Solo opera mientras se trabaja presencialmente",
+      "No afecta al personal externo que interviene en el tratamiento"
+    ],
+    "correcta": 0,
+    "explicacion": "El deber de confidencialidad permanece aun cuando haya terminado la relación de la persona con el responsable o encargado.",
+    "referencia": "Tema V.6, deber de confidencialidad"
   }
 ]

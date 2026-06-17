@@ -278,5 +278,103 @@
     "correcta": 0,
     "explicación": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
     "referencia": "V.11 · 2.5.1 Correo electrónico"
+  },
+  {
+    "id": "estado2026-extra-t42-01",
+    "tema": 42,
+    "pregunta": "Respecto al correo electrónico, ¿qué afirmación es correcta?",
+    "opciones": [
+      "No se envían mensajes entre dos equipos sin intervención de un servidor de correo",
+      "Una dirección de correo no utiliza arroba",
+      "No requiere protocolos de comunicación",
+      "Siempre se envía directamente entre terminales sin servidores"
+    ],
+    "correcta": 0,
+    "explicacion": "El correo electrónico ordinario funciona mediante servidores y protocolos de comunicación.",
+    "referencia": "Examen Estado 2026, correo electrónico; Tema V.11"
+  },
+  {
+    "id": "estado2026-extra-t42-02",
+    "tema": 42,
+    "pregunta": "En Outlook 365 clásico, el permiso que permite crear nuevos elementos en una carpeta sin leer ni editar los existentes es:",
+    "opciones": [
+      "Colaborador",
+      "Revisor",
+      "Editor",
+      "Autor de publicación"
+    ],
+    "correcta": 0,
+    "explicacion": "El nivel Colaborador permite crear elementos, pero no leer ni editar los ya existentes.",
+    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11"
+  },
+  {
+    "id": "estado2026-extra-t42-03",
+    "tema": 42,
+    "pregunta": "En Outlook, la búsqueda cc:\"Ana Muñoz\" devuelve:",
+    "opciones": [
+      "Mensajes en los que el nombre Ana Muñoz aparece en la línea CC",
+      "Mensajes enviados por Ana Muñoz",
+      "Mensajes donde Ana Muñoz está en CCO",
+      "Solo mensajes con archivo adjunto de Ana Muñoz"
+    ],
+    "correcta": 0,
+    "explicacion": "El operador cc: busca en la línea de copia de los mensajes.",
+    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11"
+  },
+  {
+    "id": "estado2026-extra-t42-04",
+    "tema": 42,
+    "pregunta": "Al crear un grupo público en Outlook 365:",
+    "opciones": [
+      "Se genera una dirección de correo del grupo a la que cualquiera puede enviar mensajes que se distribuyen a sus integrantes",
+      "No se genera dirección de correo",
+      "Solo puede escribir el creador del grupo",
+      "Los mensajes se eliminan al distribuirse"
+    ],
+    "correcta": 0,
+    "explicacion": "Los grupos de Outlook pueden tener dirección propia; si el grupo es público, cualquiera puede enviar mensajes al grupo.",
+    "referencia": "Examen Estado 2026, grupos de Outlook; Tema V.11"
+  },
+  {
+    "id": "estado2026-extra-t42-05",
+    "tema": 42,
+    "pregunta": "¿Puede anclarse un sitio web al menú Inicio desde Microsoft Edge en Windows 11?",
+    "opciones": [
+      "Sí, desde Configuración y más, Más herramientas, Anclar a Inicio",
+      "No, solo se pueden anclar aplicaciones instaladas",
+      "Solo si se descarga como PDF",
+      "Solo desde Internet Explorer"
+    ],
+    "correcta": 0,
+    "explicacion": "Microsoft Edge permite anclar sitios al Inicio mediante el menú de Más herramientas.",
+    "referencia": "Examen Estado 2026, navegadores; Tema V.11"
+  },
+  {
+    "id": "estado2026-extra-t42-06",
+    "tema": 42,
+    "pregunta": "¿Qué término describe el envío masivo de comunicaciones no solicitadas?",
+    "opciones": [
+      "Spamming",
+      "Streaming",
+      "Dumping",
+      "Phishing inverso"
+    ],
+    "correcta": 0,
+    "explicacion": "Spamming es el envío masivo de comunicaciones no solicitadas por correo u otros medios.",
+    "referencia": "Examen Estado 2026, Internet y correo; Tema V.11"
+  },
+  {
+    "id": "estado2026-extra-t42-07",
+    "tema": 42,
+    "pregunta": "Una estación de trabajo virtual separada del dispositivo físico desde el que se accede es un:",
+    "opciones": [
+      "Escritorio virtual",
+      "Servicio web",
+      "Sistema de detección de intrusos",
+      "Marcador del navegador"
+    ],
+    "correcta": 0,
+    "explicacion": "Un escritorio virtual permite trabajar sobre una estación lógica separada del dispositivo físico de acceso.",
+    "referencia": "Examen Estado 2026, Internet y servicios; Tema V.11"
   }
 ]

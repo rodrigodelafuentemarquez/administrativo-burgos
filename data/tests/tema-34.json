@@ -292,5 +292,33 @@
     "correcta": 1,
     "explicación": "El tema identifica el Grado II con la dependencia severa.",
     "referencia": "V.3 · 6.3 Grados de dependencia"
+  },
+  {
+    "id": "estado2026-extra-t34-01",
+    "tema": 34,
+    "pregunta": "Las cartas de servicios en la AGE deben actualizarse periódicamente y, en todo caso, al menos:",
+    "opciones": [
+      "Cada tres años",
+      "Anualmente",
+      "Cada dos años",
+      "Cada cuatro años"
+    ],
+    "correcta": 0,
+    "explicacion": "El examen de Estado 2026 recoge la actualización mínima cada tres años en el marco del RD 951/2005.",
+    "referencia": "Examen Estado 2026, cartas de servicios; Tema V.3, servicios de información y atención"
+  },
+  {
+    "id": "estado2026-extra-t34-02",
+    "tema": 34,
+    "pregunta": "Cuando se presenta una queja en el marco de calidad de servicios de la AGE, el plazo de información sobre actuaciones realizadas es:",
+    "opciones": [
+      "15 días hábiles",
+      "10 días hábiles",
+      "20 días hábiles",
+      "Un mes natural"
+    ],
+    "correcta": 0,
+    "explicacion": "El examen de Estado 2026 planteaba el plazo de 15 días hábiles para informar de las actuaciones realizadas ante una queja.",
+    "referencia": "Examen Estado 2026, quejas; Tema V.3, quejas y reclamaciones"
   }
 ]

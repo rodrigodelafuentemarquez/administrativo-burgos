@@ -278,5 +278,47 @@
     "explicación": "La delegación de firma no cambia la titularidad competencial, solo la firma formal.",
     "referencia": "II.5 · Delegación de firma",
     "tema": 14
+  },
+  {
+    "id": "estado2026-extra-t14-01",
+    "tema": 14,
+    "pregunta": "En relación con los sistemas de identificación de las Administraciones Públicas, estas pueden identificarse mediante:",
+    "opciones": [
+      "Sello electrónico basado en certificado electrónico reconocido o cualificado",
+      "Firma manuscrita escaneada del titular del órgano",
+      "Clave concertada de un empleado público concreto",
+      "Certificado privado sin requisitos legales de firma electrónica"
+    ],
+    "correcta": 0,
+    "explicacion": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos.",
+    "referencia": "Examen Estado 2026, art. 40 LRJSP; Tema II.5, funcionamiento electrónico y órganos"
+  },
+  {
+    "id": "estado2026-extra-t14-02",
+    "tema": 14,
+    "pregunta": "¿Cuál es la duración máxima ordinaria de los convenios administrativos, salvo previsión normativa superior?",
+    "opciones": [
+      "Cuatro años, prorrogables unánimemente por hasta cuatro años adicionales",
+      "Dos años, sin posibilidad de prórroga",
+      "Cinco años, prorrogables tácitamente",
+      "Duración indefinida si hay financiación pública"
+    ],
+    "correcta": 0,
+    "explicacion": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales.",
+    "referencia": "Examen Estado 2026, convenios; Tema II.5, relaciones y convenios"
+  },
+  {
+    "id": "estado2026-extra-t14-03",
+    "tema": 14,
+    "pregunta": "¿Cuál de estas causas extingue un convenio administrativo?",
+    "opciones": [
+      "El cumplimiento de las actuaciones que constituyen su objeto",
+      "La mera voluntad unilateral de una Administración sin cobertura legal",
+      "La falta de publicación de una nota de prensa",
+      "La sustitución automática por un contrato menor"
+    ],
+    "correcta": 0,
+    "explicacion": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga.",
+    "referencia": "Examen Estado 2026, convenios; Tema II.5, convenios administrativos"
   }
 ]

@@ -712,5 +712,61 @@
     "correcta": 1,
     "explicación": "El tema recoge la sustitución transitoria del titular como supuesto de nombramiento de funcionario interino.",
     "referencia": "III.1 · 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "estado2026-extra-t22-01",
+    "tema": 22,
+    "pregunta": "Para participar en procesos selectivos de empleo público, la edad mínima general según el TREBEP es:",
+    "opciones": [
+      "Tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa",
+      "Tener cumplidos dieciocho años en todo caso",
+      "Tener cumplidos veintiún años",
+      "No existe requisito de edad"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 56 TREBEP exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+    "referencia": "Examen Estado 2026, art. 56 TREBEP; Tema III.1, acceso al empleo público"
+  },
+  {
+    "id": "estado2026-extra-t22-02",
+    "tema": 22,
+    "pregunta": "¿Qué supuesto permite nombrar personal funcionario interino según el TREBEP?",
+    "opciones": [
+      "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
+      "La cobertura permanente de cualquier puesto sin convocatoria",
+      "La promoción profesional automática",
+      "La libre designación sin causa de necesidad"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 10 TREBEP permite nombrar interinos, entre otros supuestos, para sustitución transitoria de titulares.",
+    "referencia": "Examen Estado 2026, art. 10 TREBEP; Tema III.1, clases de personal"
+  },
+  {
+    "id": "estado2026-extra-t22-03",
+    "tema": 22,
+    "pregunta": "¿Qué caracteriza a la carrera profesional horizontal en la regulación estatal reciente?",
+    "opciones": [
+      "Tiene carácter voluntario y se estructura en tramos",
+      "Es obligatoria y sustituye a todos los sistemas de provisión",
+      "Solo se aplica al personal laboral temporal",
+      "Implica necesariamente cambio de puesto"
+    ],
+    "correcta": 0,
+    "explicacion": "La carrera horizontal permite progresar profesionalmente sin cambiar de puesto y tiene carácter voluntario.",
+    "referencia": "Examen Estado 2026, carrera profesional; Tema III.1, carrera administrativa"
+  },
+  {
+    "id": "estado2026-extra-t22-04",
+    "tema": 22,
+    "pregunta": "En materia retributiva, si un funcionario presta servicios sucesivamente en cuerpos de distinto grupo:",
+    "opciones": [
+      "Conserva el derecho a percibir los trienios devengados en los grupos anteriores",
+      "Pierde todos los trienios anteriores",
+      "Solo conserva los trienios del grupo superior",
+      "Los trienios se sustituyen por productividad"
+    ],
+    "correcta": 0,
+    "explicacion": "Los trienios ya devengados se siguen percibiendo aunque el funcionario pase a prestar servicios en cuerpos o escalas de distinto grupo.",
+    "referencia": "Examen Estado 2026, retribuciones; Tema III.1, derechos retributivos"
   }
 ]

@@ -404,5 +404,33 @@
     "correcta": 0,
     "explicación": "El tema fija un plazo de un mes para interponer la reclamación potestativa ante el CTBG.",
     "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "estado2026-extra-t33-01",
+    "tema": 33,
+    "pregunta": "El derecho de acceso a la información pública puede limitarse cuando acceder a la información suponga perjuicio para:",
+    "opciones": [
+      "La seguridad nacional",
+      "La protección del anonimato de todos los empleados públicos",
+      "La seguridad e higiene en el trabajo como límite general autónomo",
+      "La protección de datos profesionales no personales"
+    ],
+    "correcta": 0,
+    "explicacion": "La seguridad nacional figura entre los límites del art. 14 de la Ley 19/2013.",
+    "referencia": "Examen Estado 2026, art. 14 Ley 19/2013; Tema V.2, derecho de acceso"
+  },
+  {
+    "id": "estado2026-extra-t33-02",
+    "tema": 33,
+    "pregunta": "Los límites del derecho de acceso a la información pública deben aplicarse:",
+    "opciones": [
+      "De forma justificada y proporcionada atendiendo al daño y al interés público en la divulgación",
+      "Automáticamente siempre que haya datos administrativos",
+      "Solo por instrucciones internas no publicadas",
+      "Sin motivación para proteger a la Administración"
+    ],
+    "correcta": 0,
+    "explicacion": "La aplicación de límites exige ponderación, motivación y proporcionalidad.",
+    "referencia": "Tema V.2, límites al derecho de acceso"
   }
 ]

@@ -278,5 +278,33 @@
     "explicación": "La acción de regreso exige una conducta especialmente grave del personal responsable.",
     "referencia": "II.6 · Responsabilidad de autoridades y personal",
     "tema": 15
+  },
+  {
+    "id": "estado2026-extra-t15-01",
+    "tema": 15,
+    "pregunta": "Cuando el Tribunal Constitucional declara funcionamiento anormal en la tramitación de recursos de amparo o cuestiones de inconstitucionalidad, ¿quién fija la indemnización que proceda?",
+    "opciones": [
+      "El Consejo de Ministros",
+      "El propio Tribunal Constitucional",
+      "El Consejo de Estado",
+      "El Ministerio Fiscal"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos.",
+    "referencia": "Examen Estado 2026, art. 32.8 LRJSP; Tema II.6, responsabilidad de la Administración"
+  },
+  {
+    "id": "estado2026-extra-t15-02",
+    "tema": 15,
+    "pregunta": "¿Qué rasgo diferencia la fuerza mayor del funcionamiento anormal del servicio a efectos de responsabilidad patrimonial?",
+    "opciones": [
+      "La fuerza mayor excluye la responsabilidad cuando rompe el nexo causal",
+      "La fuerza mayor agrava siempre la indemnización",
+      "La fuerza mayor solo opera en contratación pública",
+      "El funcionamiento anormal impide reclamar daños efectivos"
+    ],
+    "correcta": 0,
+    "explicacion": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración.",
+    "referencia": "Tema II.6, presupuestos de la responsabilidad patrimonial"
   }
 ]

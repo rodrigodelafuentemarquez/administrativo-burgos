@@ -642,5 +642,89 @@
     "correcta": 0,
     "explicación": "La ejecución corre por cuenta y riesgo del contratista, salvo los supuestos previstos legalmente.",
     "referencia": "II.7 · 9.1 Principio de riesgo y ventura"
+  },
+  {
+    "id": "estado2026-extra-t16-01",
+    "tema": 16,
+    "pregunta": "En los contratos celebrados con precios provisionales, ¿cabe revisión de precios conforme al art. 102 LCSP?",
+    "opciones": [
+      "No cabe revisión de precios",
+      "Cabe siempre que haya transcurrido un año",
+      "Cabe al ejecutar el 20 por ciento del importe",
+      "Cabe si el contratista lo solicita antes de formalizar"
+    ],
+    "correcta": 0,
+    "explicacion": "El examen de Estado 2026 subraya que no cabe revisión de precios en contratos celebrados con precios provisionales.",
+    "referencia": "Examen Estado 2026, art. 102 LCSP; Tema II.7, revisión de precios"
+  },
+  {
+    "id": "estado2026-extra-t16-02",
+    "tema": 16,
+    "pregunta": "Para calcular el valor estimado de un contrato de servicios con prórroga debe atenderse a:",
+    "opciones": [
+      "El importe total sin IVA, incluyendo las eventuales prórrogas",
+      "El importe total con IVA, excluyendo prórrogas",
+      "Solo la primera anualidad con IVA",
+      "El presupuesto base de licitación sin considerar modificaciones"
+    ],
+    "correcta": 0,
+    "explicacion": "El valor estimado se calcula sin IVA e incluyendo prórrogas y demás elementos computables legalmente.",
+    "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, expediente de contratación"
+  },
+  {
+    "id": "estado2026-extra-t16-03",
+    "tema": 16,
+    "pregunta": "Con carácter general, ¿qué duración máxima tienen los contratos de servicios de prestación sucesiva incluyendo prórrogas?",
+    "opciones": [
+      "Cinco años",
+      "Cuatro años sin prórrogas",
+      "Diez años",
+      "Un año improrrogable"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla general de la LCSP para contratos de servicios de prestación sucesiva es un plazo máximo de cinco años, incluidas posibles prórrogas.",
+    "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, duración"
+  },
+  {
+    "id": "estado2026-extra-t16-04",
+    "tema": 16,
+    "pregunta": "Si el único criterio de adjudicación es el precio, el plazo máximo de adjudicación del contrato será:",
+    "opciones": [
+      "Quince días desde el siguiente a la apertura de proposiciones",
+      "Cinco días desde la aprobación del expediente",
+      "Dos meses desde la formalización",
+      "Treinta días desde el anuncio de licitación"
+    ],
+    "correcta": 0,
+    "explicacion": "La LCSP fija quince días como plazo máximo de adjudicación cuando el único criterio es el precio.",
+    "referencia": "Examen Estado 2026, adjudicación; Tema II.7, procedimientos de adjudicación"
+  },
+  {
+    "id": "estado2026-extra-t16-05",
+    "tema": 16,
+    "pregunta": "Si el contrato no se formaliza por causa imputable al adjudicatario, se le exige como penalidad:",
+    "opciones": [
+      "El 3 por ciento del presupuesto base de licitación, IVA excluido",
+      "El 5 por ciento del valor estimado, IVA incluido",
+      "El 10 por ciento de la garantía definitiva",
+      "La totalidad del precio del contrato"
+    ],
+    "correcta": 0,
+    "explicacion": "La LCSP prevé una penalidad del 3 por ciento del presupuesto base de licitación, IVA excluido, que se hará efectiva conforme a la garantía si procede.",
+    "referencia": "Examen Estado 2026, formalización; Tema II.7, formalización e invalidez"
+  },
+  {
+    "id": "estado2026-extra-t16-06",
+    "tema": 16,
+    "pregunta": "La prórroga de un contrato público:",
+    "opciones": [
+      "Debe acordarla el órgano de contratación y es obligatoria para el empresario si se preavisa en los términos legales y del pliego",
+      "Se produce siempre por consentimiento tácito",
+      "Es potestativa para el empresario aunque el pliego diga lo contrario",
+      "Solo puede acordarse después de extinguido el contrato"
+    ],
+    "correcta": 0,
+    "explicacion": "La prórroga debe acordarse por el órgano de contratación; no cabe prórroga tácita, y será obligatoria si se cumplen los requisitos de preaviso.",
+    "referencia": "Examen Estado 2026, prórroga contractual; Tema II.7, efectos y extinción"
   }
 ]

@@ -278,5 +278,33 @@
     "referencia": "III.2 · Perdida de la condición de funcionario",
     "explicación": "La jubilación figura entre las causas legales de perdida de la condición de funcionario de carrera.",
     "tema": 23
+  },
+  {
+    "id": "estado2026-extra-t23-01",
+    "tema": 23,
+    "pregunta": "La condición de funcionario de carrera se adquiere, además de superar el proceso selectivo, mediante:",
+    "opciones": [
+      "Nombramiento, acatamiento de la Constitución y toma de posesión dentro del plazo",
+      "La mera publicación de la convocatoria",
+      "La inscripción automática en una bolsa de empleo",
+      "Un contrato laboral indefinido"
+    ],
+    "correcta": 0,
+    "explicacion": "El TREBEP exige superar el proceso selectivo, nombramiento, acto de acatamiento de la Constitución y toma de posesión dentro del plazo.",
+    "referencia": "Examen Estado 2026, art. 62 TREBEP; Tema III.2, adquisición de la condición de funcionario"
+  },
+  {
+    "id": "estado2026-extra-t23-02",
+    "tema": 23,
+    "pregunta": "Un funcionario en comisión de servicios se encuentra en situación de:",
+    "opciones": [
+      "Servicio activo",
+      "Servicios especiales",
+      "Excedencia voluntaria por interés particular",
+      "Expectativa de destino"
+    ],
+    "correcta": 0,
+    "explicacion": "La comisión de servicios no rompe el servicio activo; es una forma temporal de desempeño.",
+    "referencia": "Examen Estado 2026, situaciones administrativas; Tema III.2"
   }
 ]

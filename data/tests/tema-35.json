@@ -278,5 +278,19 @@
     "referencia": "V.4 · Copias y digitalización",
     "explicación": "La copia autentica incorpora un plus de garantía jurídica sobre su correspondencia con el original.",
     "tema": 35
+  },
+  {
+    "id": "estado2026-extra-t35-01",
+    "tema": 35,
+    "pregunta": "El Registro Electrónico General debe estar orientado a:",
+    "opciones": [
+      "Anotar documentos presentados o recibidos y facilitar la interoperabilidad con otros registros",
+      "Sustituir todos los actos administrativos por correos electrónicos",
+      "Registrar únicamente documentos internos sin efectos para ciudadanos",
+      "Eliminar la necesidad de recibos de presentación"
+    ],
+    "correcta": 0,
+    "explicacion": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables.",
+    "referencia": "Examen Estado 2026, registros; Tema V.4, oficinas de asistencia en materia de registros"
   }
 ]

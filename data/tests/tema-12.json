@@ -376,5 +376,47 @@
     "correcta": 0,
     "explicación": "El plazo máximo para practicar las actuaciones complementarias es de quince días.",
     "referencia": "II.3 · 3.3.1 Resolución (art. 88 LPACAP)"
+  },
+  {
+    "id": "estado2026-extra-t12-01",
+    "tema": 12,
+    "pregunta": "En materia de registros, los organismos públicos vinculados o dependientes de cada Administración:",
+    "opciones": [
+      "Podrán disponer de su propio registro electrónico interoperable e interconectado con el Registro Electrónico General de la Administración de la que dependen",
+      "Deberán tener siempre un registro físico independiente no interoperable",
+      "No pueden tener registro electrónico propio",
+      "Solo anotan documentos de salida, nunca de entrada"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 16 LPACAP permite que los organismos vinculados o dependientes dispongan de registro electrónico propio, interoperable e interconectado con el Registro Electrónico General.",
+    "referencia": "Examen Estado 2026, art. 16 LPACAP; Tema II.3, procedimiento administrativo"
+  },
+  {
+    "id": "estado2026-extra-t12-02",
+    "tema": 12,
+    "pregunta": "Antes de dictar resolución, las actuaciones complementarias indispensables para resolver deben practicarse en un plazo:",
+    "opciones": [
+      "No superior a quince días",
+      "De siete días improrrogables",
+      "De veinte días hábiles",
+      "No inferior a diez ni superior a quince días"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 87 LPACAP fija para las actuaciones complementarias un plazo no superior a quince días.",
+    "referencia": "Examen Estado 2026, art. 87 LPACAP; Tema II.3, fase de finalización"
+  },
+  {
+    "id": "estado2026-extra-t12-03",
+    "tema": 12,
+    "pregunta": "La práctica de una notificación electrónica se entiende producida:",
+    "opciones": [
+      "Cuando el interesado accede a su contenido en la sede o dirección electrónica habilitada",
+      "Cuando se envía el aviso al correo electrónico del interesado",
+      "Cuando la Administración firma internamente el acto",
+      "Cuando transcurren diez días desde la firma del acto, aunque no se haya puesto a disposición"
+    ],
+    "correcta": 0,
+    "explicacion": "La notificación electrónica se practica por comparecencia electrónica y se entiende realizada con el acceso a su contenido; el aviso no sustituye a la notificación.",
+    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema II.3, ejecución y notificación"
   }
 ]

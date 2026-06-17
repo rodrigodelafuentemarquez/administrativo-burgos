@@ -278,5 +278,47 @@
     "referencia": "IV.3 · Procedimientos especiales de pago",
     "explicación": "Son un mecanismo de agilización para gastos menores de carácter repetitivo.",
     "tema": 29
+  },
+  {
+    "id": "estado2026-extra-t29-01",
+    "tema": 29,
+    "pregunta": "En los pagos librados a justificar, la aplicación de las cantidades recibidas debe justificarse:",
+    "opciones": [
+      "Dentro del mes siguiente a su inversión y, en todo caso, en el plazo de tres meses desde la percepción de los fondos",
+      "Siempre dentro de seis meses desde la aprobación del presupuesto",
+      "Solo al cierre del ejercicio siguiente",
+      "Antes de la aprobación del expediente de gasto"
+    ],
+    "correcta": 0,
+    "explicacion": "El examen de Estado 2026 recuerda el plazo de un mes desde la inversión y, en todo caso, tres meses desde la percepción de los fondos.",
+    "referencia": "Examen Estado 2026, pagos a justificar; Tema IV.3, ejecución del gasto"
+  },
+  {
+    "id": "estado2026-extra-t29-02",
+    "tema": 29,
+    "pregunta": "En una tramitación anticipada de expedientes de contratación, el servicio gestor expide normalmente:",
+    "opciones": [
+      "Documento RC de tramitación anticipada",
+      "Documento OK de pago material",
+      "Documento ADOK de ejercicio cerrado",
+      "Mandamiento de ingreso extrapresupuestario"
+    ],
+    "correcta": 0,
+    "explicacion": "La operatoria contable estatal prevé documento RC de tramitación anticipada para reflejar importes de ejercicios posteriores afectados.",
+    "referencia": "Examen Estado 2026, operatoria contable; Tema IV.3, documentos contables"
+  },
+  {
+    "id": "estado2026-extra-t29-03",
+    "tema": 29,
+    "pregunta": "El reconocimiento de la obligación en la ejecución del gasto se documenta mediante:",
+    "opciones": [
+      "Documento O u OK, según proceda",
+      "Documento RC exclusivamente",
+      "Documento A exclusivamente",
+      "Documento P antes de reconocer la obligación"
+    ],
+    "correcta": 0,
+    "explicacion": "La fase de reconocimiento de obligación se refleja mediante documento O u OK cuando se acumulan fases.",
+    "referencia": "Examen Estado 2026, supuesto práctico; Tema IV.3, fases del gasto"
   }
 ]

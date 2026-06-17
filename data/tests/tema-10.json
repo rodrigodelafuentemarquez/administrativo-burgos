@@ -488,5 +488,33 @@
     "correcta": 1,
     "explicación": "El tema distingue la legalidad material como conformidad con el contenido de la ley.",
     "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
+  },
+  {
+    "id": "estado2026-extra-t10-01",
+    "tema": 10,
+    "pregunta": "Si una ley no dispone otra cosa, ¿cuándo entra en vigor según el art. 2 del Código Civil?",
+    "opciones": [
+      "A los veinte días de su completa publicación en el BOE",
+      "A los quince días de su publicación",
+      "A los treinta días de su publicación",
+      "Al día siguiente de su publicación"
+    ],
+    "correcta": 0,
+    "explicacion": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
+    "referencia": "Examen Estado 2026, art. 2 CC; Tema II.1, fuentes del Derecho"
+  },
+  {
+    "id": "estado2026-extra-t10-02",
+    "tema": 10,
+    "pregunta": "¿Qué afirmación sobre la vacatio legis es correcta?",
+    "opciones": [
+      "Puede ser modificada por la propia ley mediante una regla específica de entrada en vigor",
+      "Siempre dura exactamente un mes",
+      "Solo existe en los reglamentos locales",
+      "Impide aplicar la ley aunque ya haya entrado en vigor"
+    ],
+    "correcta": 0,
+    "explicacion": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
+    "referencia": "Tema II.1, vigencia de las normas"
   }
 ]
