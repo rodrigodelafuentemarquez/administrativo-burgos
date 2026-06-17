@@ -614,5 +614,61 @@
     "correcta": 0,
     "explicación": "El tema incluye como Consejeros permanentes a los ex-Presidentes de la Junta y de las Cortes que lo soliciten.",
     "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+  },
+  {
+    "id": "burgos-i09-hard-01",
+    "tema": 9,
+    "pregunta": "¿Qué afirmación sobre el Estatuto de Autonomía de Castilla y León es correcta?",
+    "opciones": [
+      "Es la norma institucional básica de la Comunidad y tiene rango formal de ley orgánica estatal",
+      "Es un reglamento aprobado por la Junta de Castilla y León",
+      "Tiene rango inferior a cualquier ordenanza municipal",
+      "Solo regula símbolos y carece de contenido competencial"
+    ],
+    "correcta": 0,
+    "explicacion": "El Estatuto es la norma institucional básica de Castilla y León y se aprueba o reforma mediante ley orgánica estatal.",
+    "referencia": "Tema I.9, Estatuto de Autonomía"
+  },
+  {
+    "id": "burgos-i09-hard-02",
+    "tema": 9,
+    "pregunta": "¿Cuál de estas provincias NO integra Castilla y León?",
+    "opciones": [
+      "Logroño",
+      "Burgos",
+      "Soria",
+      "Zamora"
+    ],
+    "correcta": 0,
+    "explicacion": "Castilla y León está integrada por Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora; Logroño no es provincia de la Comunidad.",
+    "referencia": "Tema I.9, Provincias integradas en Castilla y León"
+  },
+  {
+    "id": "burgos-i09-hard-03",
+    "tema": 9,
+    "pregunta": "Los derechos estatutarios de Castilla y León deben entenderse:",
+    "opciones": [
+      "Dentro del ámbito competencial autonómico y compatibles con la Constitución",
+      "Como sustitutos de los derechos fundamentales constitucionales",
+      "Como derechos absolutos frente a cualquier ley estatal",
+      "Como meras declaraciones sin relación con la actuación de los poderes públicos"
+    ],
+    "correcta": 0,
+    "explicacion": "Los derechos estatutarios operan dentro de las competencias autonómicas y no sustituyen ni reducen los derechos constitucionales.",
+    "referencia": "Tema I.9, Derechos en el Estatuto"
+  },
+  {
+    "id": "burgos-i09-hard-04",
+    "tema": 9,
+    "pregunta": "¿Qué institución propia de Castilla y León se ocupa del control externo de la actividad económico-financiera del sector público autonómico?",
+    "opciones": [
+      "Consejo de Cuentas",
+      "Procurador del Común",
+      "Consejo Consultivo",
+      "Consejo Económico y Social"
+    ],
+    "correcta": 0,
+    "explicacion": "El Consejo de Cuentas es el órgano de control externo de la actividad económico-financiera del sector público de Castilla y León.",
+    "referencia": "Tema I.9, Instituciones propias de Castilla y León"
   }
 ]

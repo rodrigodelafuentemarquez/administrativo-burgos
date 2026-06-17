@@ -278,5 +278,61 @@
     "explicación": "El art. 103 CE menciona eficacia, jerarquia, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
     "referencia": "I.4 · Administración pública en el ordenamiento jurídico",
     "tema": 4
+  },
+  {
+    "id": "burgos-i04-hard-01",
+    "tema": 4,
+    "pregunta": "¿Qué principio explica que la Administración solo pueda actuar cuando el ordenamiento le atribuye una potestad?",
+    "opciones": [
+      "Vinculación positiva a la ley",
+      "Autonomía de la voluntad",
+      "Libre disposición administrativa",
+      "Soberanía administrativa"
+    ],
+    "correcta": 0,
+    "explicacion": "La Administración no actúa con libertad general como un particular: necesita habilitación normativa para ejercer potestades.",
+    "referencia": "Tema I.4, Administración pública en el ordenamiento jurídico"
+  },
+  {
+    "id": "burgos-i04-hard-02",
+    "tema": 4,
+    "pregunta": "¿Qué órgano representa al Gobierno del Estado en una Comunidad Autónoma?",
+    "opciones": [
+      "Delegado del Gobierno",
+      "Subdelegado del Gobierno",
+      "Presidente de la Comunidad Autónoma",
+      "Secretario de Estado"
+    ],
+    "correcta": 0,
+    "explicacion": "El Delegado del Gobierno representa al Gobierno en el territorio de la Comunidad Autónoma.",
+    "referencia": "Tema I.4, Gobierno y Administración del Estado"
+  },
+  {
+    "id": "burgos-i04-hard-03",
+    "tema": 4,
+    "pregunta": "¿Cuál de estos NO es un principio del art. 103.1 CE expresamente asociado a la actuación administrativa?",
+    "opciones": [
+      "Primogenitura",
+      "Eficacia",
+      "Jerarquía",
+      "Coordinación"
+    ],
+    "correcta": 0,
+    "explicacion": "La primogenitura pertenece al régimen sucesorio de la Corona, no a los principios de actuación administrativa del art. 103.1 CE.",
+    "referencia": "Tema I.4, Principios de actuación administrativa"
+  },
+  {
+    "id": "burgos-i04-hard-04",
+    "tema": 4,
+    "pregunta": "¿Qué control prevé el art. 106 CE sobre la Administración?",
+    "opciones": [
+      "Control judicial de la potestad reglamentaria y de la legalidad de la actuación administrativa",
+      "Control exclusivo del Gobierno sobre los jueces",
+      "Control del Rey sobre todos los actos administrativos",
+      "Control del Senado sobre cada expediente administrativo"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 106 CE encomienda a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa.",
+    "referencia": "Tema I.4, Sometimiento de la Administración a la ley"
   }
 ]

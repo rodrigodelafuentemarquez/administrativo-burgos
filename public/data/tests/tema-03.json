@@ -278,5 +278,61 @@
     "explicación": "El art. 149 CE recoge la lista principal de competencias exclusivas estatales.",
     "referencia": "I.3 · Distribución de competencias",
     "tema": 3
+  },
+  {
+    "id": "burgos-i03-hard-01",
+    "tema": 3,
+    "pregunta": "¿Qué afirmación expresa mejor la diferencia entre autonomía local y autonomía de las comunidades autónomas?",
+    "opciones": [
+      "La autonomía autonómica tiene dimensión política y legislativa; la local se orienta a gestionar intereses propios dentro de la ley",
+      "La autonomía local tiene potestad legislativa general y la autonómica solo reglamentaria",
+      "Ambas son soberanías originarias independientes de la Constitución",
+      "La autonomía provincial elimina la autonomía municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "El tema distingue la autonomía política de las comunidades autónomas de la autonomía local de municipios y provincias.",
+    "referencia": "Tema I.3, Organización territorial del Estado"
+  },
+  {
+    "id": "burgos-i03-hard-02",
+    "tema": 3,
+    "pregunta": "¿Qué exige la Constitución para alterar los límites provinciales?",
+    "opciones": [
+      "Ley orgánica",
+      "Real decreto del Consejo de Ministros",
+      "Orden ministerial",
+      "Acuerdo del Pleno provincial por mayoría simple"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 141 CE exige ley orgánica para alterar los límites provinciales.",
+    "referencia": "Tema I.3, Municipios y provincias en la Constitución"
+  },
+  {
+    "id": "burgos-i03-hard-03",
+    "tema": 3,
+    "pregunta": "¿Qué ocurre con las materias no asumidas por los Estatutos de Autonomía?",
+    "opciones": [
+      "Corresponden al Estado",
+      "Quedan sin titular competencial",
+      "Pasan automáticamente a los municipios",
+      "Se atribuyen al Senado por prevalencia"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 149.3 CE establece que las materias no asumidas por los Estatutos corresponden al Estado.",
+    "referencia": "Tema I.3, Distribución de competencias"
+  },
+  {
+    "id": "burgos-i03-hard-04",
+    "tema": 3,
+    "pregunta": "Antes de aplicar las medidas del art. 155 CE, el Gobierno debe:",
+    "opciones": [
+      "Requerir al Presidente de la Comunidad Autónoma y obtener aprobación por mayoría absoluta del Senado si el requerimiento no es atendido",
+      "Obtener autorización previa del Tribunal Constitucional por unanimidad",
+      "Convocar referendum estatal obligatorio",
+      "Solicitar mayoría absoluta del Congreso sin intervención del Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 155 CE exige requerimiento previo al Presidente autonómico y aprobación por mayoría absoluta del Senado.",
+    "referencia": "Tema I.3, Control de las Comunidades Autónomas"
   }
 ]

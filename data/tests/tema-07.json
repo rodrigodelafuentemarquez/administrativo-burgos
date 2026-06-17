@@ -292,5 +292,61 @@
     "referencia": "I.7 · Organo de Gestion Tributaria",
     "explicación": "Su núcleo funcional gira en torno a la aplicación de los tributos y la recaudación de los ingresos de derecho público.",
     "tema": 7
+  },
+  {
+    "id": "burgos-i07-hard-01",
+    "tema": 7,
+    "pregunta": "En un municipio de gran población como Burgos, ¿qué órgano concentra de forma especialmente relevante funciones ejecutivas?",
+    "opciones": [
+      "La Junta de Gobierno Local",
+      "El Pleno",
+      "La Comisión Especial de Sugerencias y Reclamaciones",
+      "La Secretaría General"
+    ],
+    "correcta": 0,
+    "explicacion": "El régimen de municipios de gran población refuerza el papel ejecutivo de la Junta de Gobierno Local, separándolo del control plenario.",
+    "referencia": "Tema I.7, Organización política y administrativa del Ayuntamiento de Burgos"
+  },
+  {
+    "id": "burgos-i07-hard-02",
+    "tema": 7,
+    "pregunta": "¿Qué función se asocia de forma más directa a la Secretaría General del Ayuntamiento?",
+    "opciones": [
+      "Fe pública y asesoramiento legal preceptivo",
+      "Control financiero interno",
+      "Recaudación ejecutiva de tributos",
+      "Dirección política del Gobierno municipal"
+    ],
+    "correcta": 0,
+    "explicacion": "La Secretaría General se vincula a funciones reservadas de fe pública y asesoramiento legal.",
+    "referencia": "Tema I.7, Secretaría General"
+  },
+  {
+    "id": "burgos-i07-hard-03",
+    "tema": 7,
+    "pregunta": "¿Qué órgano municipal se relaciona de forma más directa con el control económico-financiero interno?",
+    "opciones": [
+      "Intervención General",
+      "Alcaldía",
+      "Tenientes de Alcalde",
+      "Junta de Portavoces"
+    ],
+    "correcta": 0,
+    "explicacion": "La Intervención General realiza funciones de control y fiscalización económico-financiera.",
+    "referencia": "Tema I.7, Intervención General"
+  },
+  {
+    "id": "burgos-i07-hard-04",
+    "tema": 7,
+    "pregunta": "¿Qué afirmación sobre el Pleno en municipios de gran población es más precisa?",
+    "opciones": [
+      "Es órgano de máxima representación política, debate, aprobación normativa y control",
+      "Es el órgano que ejecuta ordinariamente todos los expedientes de gestión",
+      "Sustituye a la Junta de Gobierno Local en las funciones ejecutivas diarias",
+      "Carece de funciones de fiscalización de órganos de gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "El Pleno se configura como órgano representativo, normativo y de control; la gestión ejecutiva ordinaria se desplaza a otros órganos.",
+    "referencia": "Tema I.7, El Pleno"
   }
 ]

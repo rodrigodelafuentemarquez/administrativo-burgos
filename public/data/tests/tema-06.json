@@ -278,5 +278,61 @@
     "referencia": "I.6 · Empadronamiento de personas extranjeras",
     "explicación": "El empadronamiento tiene efectos administrativos propios, pero no regulariza por sí mismo la situación de extranjeria.",
     "tema": 6
+  },
+  {
+    "id": "burgos-i06-hard-01",
+    "tema": 6,
+    "pregunta": "¿Qué elemento NO forma parte de los elementos clásicos del municipio?",
+    "opciones": [
+      "La comarca",
+      "El territorio",
+      "La población",
+      "La organización"
+    ],
+    "correcta": 0,
+    "explicacion": "Los elementos del municipio son territorio, población y organización; la comarca es otra posible entidad local.",
+    "referencia": "Tema I.6, Municipio: concepto y elementos"
+  },
+  {
+    "id": "burgos-i06-hard-02",
+    "tema": 6,
+    "pregunta": "La condición de vecino se adquiere mediante:",
+    "opciones": [
+      "Inscripción en el padrón municipal",
+      "Nacimiento en la provincia",
+      "Pago de cualquier tributo estatal",
+      "Residencia ocasional durante una semana"
+    ],
+    "correcta": 0,
+    "explicacion": "La inscripción en el padrón municipal determina la condición de vecino del municipio.",
+    "referencia": "Tema I.6, Población y empadronamiento"
+  },
+  {
+    "id": "burgos-i06-hard-03",
+    "tema": 6,
+    "pregunta": "¿Qué afirmación sobre el padrón municipal es la más precisa?",
+    "opciones": [
+      "Es un registro administrativo donde constan los vecinos del municipio",
+      "Es un censo electoral que solo se actualiza cada cuatro años",
+      "Es un registro tributario reservado a propietarios de inmuebles",
+      "Es una autorización administrativa para residir en España"
+    ],
+    "correcta": 0,
+    "explicacion": "El padrón municipal es el registro administrativo en el que constan los vecinos del municipio.",
+    "referencia": "Tema I.6, Empadronamiento"
+  },
+  {
+    "id": "burgos-i06-hard-04",
+    "tema": 6,
+    "pregunta": "¿A quién corresponde la gestión y formación del padrón municipal, bajo coordinación estatal?",
+    "opciones": [
+      "Al Ayuntamiento",
+      "A la Diputación Provincial exclusivamente",
+      "Al Tribunal Económico-Administrativo Municipal",
+      "A las Cortes Generales"
+    ],
+    "correcta": 0,
+    "explicacion": "La gestión y formación del padrón corresponde al Ayuntamiento, bajo la coordinación del INE en los términos legales.",
+    "referencia": "Tema I.6, Padrón municipal"
   }
 ]

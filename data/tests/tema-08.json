@@ -418,5 +418,61 @@
     "correcta": 1,
     "explicación": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",
     "referencia": "I.8 · 4.3 Funciones"
+  },
+  {
+    "id": "burgos-i08-hard-01",
+    "tema": 8,
+    "pregunta": "¿Qué institución de la Unión Europea NO ejerce función legislativa ordinaria?",
+    "opciones": [
+      "Consejo Europeo",
+      "Parlamento Europeo",
+      "Consejo de la Unión Europea",
+      "Comisión Europea mediante iniciativa legislativa"
+    ],
+    "correcta": 0,
+    "explicacion": "El Consejo Europeo define orientaciones y prioridades políticas generales, pero no ejerce función legislativa ordinaria.",
+    "referencia": "Tema I.8, Consejo Europeo"
+  },
+  {
+    "id": "burgos-i08-hard-02",
+    "tema": 8,
+    "pregunta": "¿Qué principio delimita que la Unión Europea solo actúe en competencias atribuidas por los Tratados?",
+    "opciones": [
+      "Principio de atribución",
+      "Principio de primogenitura",
+      "Principio de jerarquía administrativa",
+      "Principio de autonomía local"
+    ],
+    "correcta": 0,
+    "explicacion": "La Unión solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados.",
+    "referencia": "Tema I.8, Principios de atribución, subsidiariedad y proporcionalidad"
+  },
+  {
+    "id": "burgos-i08-hard-03",
+    "tema": 8,
+    "pregunta": "¿Qué institución representa principalmente el interés general de la Unión?",
+    "opciones": [
+      "Comisión Europea",
+      "Consejo Europeo",
+      "Consejo de la Unión Europea",
+      "Parlamentos nacionales"
+    ],
+    "correcta": 0,
+    "explicacion": "La Comisión Europea impulsa y vela por el interés general de la Unión.",
+    "referencia": "Tema I.8, Sistema institucional de la Unión"
+  },
+  {
+    "id": "burgos-i08-hard-04",
+    "tema": 8,
+    "pregunta": "¿Qué efecto tiene un reglamento de la Unión Europea según el esquema básico del Derecho de la Unión?",
+    "opciones": [
+      "Es obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "Obliga solo en cuanto al resultado y necesita siempre ley nacional de transposición",
+      "Es una recomendación sin fuerza obligatoria",
+      "Solo vincula a la institución que lo dicta"
+    ],
+    "correcta": 0,
+    "explicacion": "El reglamento es obligatorio en todos sus elementos y directamente aplicable; la directiva obliga en cuanto al resultado.",
+    "referencia": "Tema I.8, Derecho de la Unión Europea"
   }
 ]

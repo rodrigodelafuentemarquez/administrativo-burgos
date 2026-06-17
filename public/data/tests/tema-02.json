@@ -922,5 +922,61 @@
     "correcta": 3,
     "explicación": "El tema indica que el Presidente del Tribunal Supremo es elegido por los vocales del CGPJ y nombrado por el Rey.",
     "referencia": "I.2 · 3.3 El Presidente del Tribunal Supremo"
+  },
+  {
+    "id": "burgos-i02-hard-01",
+    "tema": 2,
+    "pregunta": "¿Qué acto del Rey queda fuera de la regla general del refrendo?",
+    "opciones": [
+      "Nombrar y relevar libremente a los miembros civiles y militares de su Casa",
+      "Sancionar y promulgar las leyes",
+      "Convocar elecciones generales",
+      "Proponer candidato a Presidente del Gobierno"
+    ],
+    "correcta": 0,
+    "explicacion": "Los actos relativos al nombramiento y relevo de los miembros de la Casa del Rey son excepción al refrendo.",
+    "referencia": "Tema I.2, Corona y refrendo"
+  },
+  {
+    "id": "burgos-i02-hard-02",
+    "tema": 2,
+    "pregunta": "Si en una primera votación de investidura el candidato a Presidente del Gobierno no obtiene mayoría absoluta, ¿qué mayoría necesita en la segunda votación?",
+    "opciones": [
+      "Mayoría simple",
+      "Mayoría absoluta",
+      "Tres quintos del Congreso",
+      "Mayoría absoluta del Congreso y del Senado"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 99 CE exige mayoría absoluta en primera votación y mayoría simple en la segunda.",
+    "referencia": "Tema I.2, Gobierno e investidura"
+  },
+  {
+    "id": "burgos-i02-hard-03",
+    "tema": 2,
+    "pregunta": "¿Qué afirmación diferencia correctamente inviolabilidad e inmunidad parlamentaria?",
+    "opciones": [
+      "La inviolabilidad protege opiniones y votos; la inmunidad limita detención y procesamiento",
+      "La inviolabilidad limita detención y procesamiento; la inmunidad protege opiniones y votos",
+      "Ambas se aplican solo a los Diputados, no a los Senadores",
+      "Ambas cesan al terminar cada periodo ordinario de sesiones"
+    ],
+    "correcta": 0,
+    "explicacion": "La inviolabilidad cubre opiniones y votos emitidos en el ejercicio del cargo; la inmunidad se refiere a detención y procesamiento.",
+    "referencia": "Tema I.2, Cortes Generales"
+  },
+  {
+    "id": "burgos-i02-hard-04",
+    "tema": 2,
+    "pregunta": "¿Cuál es la composición constitucional básica del Consejo General del Poder Judicial?",
+    "opciones": [
+      "Presidente del Tribunal Supremo y veinte vocales",
+      "Presidente del Gobierno y veinte vocales",
+      "Doce magistrados del Tribunal Constitucional",
+      "Presidente del Congreso, Presidente del Senado y veinte vocales"
+    ],
+    "correcta": 0,
+    "explicacion": "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales.",
+    "referencia": "Tema I.2, Poder Judicial"
   }
 ]

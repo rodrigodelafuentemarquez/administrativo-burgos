@@ -334,5 +334,61 @@
     "correcta": 2,
     "explicación": "El tema destaca la cooperación en el desarrollo económico y social y la asistencia a los municipios como competencias provinciales.",
     "referencia": "I.5 · 3.1 Las competencias provinciales en la LBRL (arts. 36 y 37 LBRL)"
+  },
+  {
+    "id": "burgos-i05-hard-01",
+    "tema": 5,
+    "pregunta": "¿Qué entidad local territorial es de existencia necesaria junto al municipio y la isla?",
+    "opciones": [
+      "La provincia",
+      "La comarca",
+      "La mancomunidad",
+      "El área metropolitana"
+    ],
+    "correcta": 0,
+    "explicacion": "La LBRL distingue como entidades locales territoriales de existencia necesaria municipio, provincia e isla.",
+    "referencia": "Tema I.5, Entidades locales"
+  },
+  {
+    "id": "burgos-i05-hard-02",
+    "tema": 5,
+    "pregunta": "¿Qué servicio mínimo debe prestarse en todos los municipios, con independencia de su población?",
+    "opciones": [
+      "Alumbrado público",
+      "Transporte colectivo urbano",
+      "Protección civil",
+      "Instalaciones deportivas de uso público"
+    ],
+    "correcta": 0,
+    "explicacion": "El alumbrado público es servicio mínimo de todos los municipios; otros servicios dependen de tramos de población.",
+    "referencia": "Tema I.5, Ley de Bases de Régimen Local"
+  },
+  {
+    "id": "burgos-i05-hard-03",
+    "tema": 5,
+    "pregunta": "¿Qué caracteriza a una mancomunidad de municipios?",
+    "opciones": [
+      "Asociación voluntaria de municipios para ejecutar en común obras o servicios de su competencia",
+      "Órgano necesario de todos los ayuntamientos",
+      "Entidad estatal de control financiero local",
+      "Forma obligatoria de gobierno provincial"
+    ],
+    "correcta": 0,
+    "explicacion": "Las mancomunidades son entidades asociativas voluntarias para la ejecución común de obras o servicios.",
+    "referencia": "Tema I.5, Tipología de entidades locales"
+  },
+  {
+    "id": "burgos-i05-hard-04",
+    "tema": 5,
+    "pregunta": "¿Qué idea conecta mejor la autonomía local con la Ley de Bases de Régimen Local?",
+    "opciones": [
+      "Gestión de intereses propios dentro del marco constitucional y legal",
+      "Soberanía normativa plena frente al Estado",
+      "Supresión de controles judiciales",
+      "Dependencia jerárquica ordinaria del municipio respecto de la provincia"
+    ],
+    "correcta": 0,
+    "explicacion": "La autonomía local permite gestionar intereses propios, pero siempre dentro del marco de la Constitución y la ley.",
+    "referencia": "Tema I.5, Régimen local: contenido y principios"
   }
 ]

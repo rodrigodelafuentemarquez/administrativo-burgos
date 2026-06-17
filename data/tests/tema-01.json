@@ -278,5 +278,61 @@
     "correcta": 1,
     "explicación": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
     "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica"
+  },
+  {
+    "id": "burgos-i01-hard-01",
+    "tema": 1,
+    "pregunta": "¿Cuál de estos derechos queda fuera del recurso de amparo del art. 53.2 CE, aunque sí esté constitucionalmente reconocido?",
+    "opciones": [
+      "La propiedad privada del art. 33 CE",
+      "La igualdad ante la ley del art. 14 CE",
+      "La libertad ideológica del art. 16 CE",
+      "La objeción de conciencia del art. 30 CE"
+    ],
+    "correcta": 0,
+    "explicacion": "El recurso de amparo protege el art. 14, los derechos de la Sección 1ª del Capítulo II y la objeción de conciencia del art. 30. La propiedad privada pertenece a la Sección 2ª.",
+    "referencia": "Tema I.1, Derechos fundamentales: garantía y suspensión"
+  },
+  {
+    "id": "burgos-i01-hard-02",
+    "tema": 1,
+    "pregunta": "¿Qué dato sobre la estructura de la Constitución Española es correcto?",
+    "opciones": [
+      "El Título Preliminar comprende los artículos 1 a 9",
+      "El Título I comprende los artículos 1 a 55",
+      "El Título IX regula la reforma constitucional",
+      "El Preámbulo tiene eficacia articulada como los demás títulos"
+    ],
+    "correcta": 0,
+    "explicacion": "El Título Preliminar abarca los artículos 1 a 9. El Título I comprende los artículos 10 a 55, el Título IX regula el Tribunal Constitucional y la reforma está en el Título X.",
+    "referencia": "Tema I.1, Estructura de la Constitución"
+  },
+  {
+    "id": "burgos-i01-hard-03",
+    "tema": 1,
+    "pregunta": "En la suspensión general de derechos del art. 55.1 CE, ¿qué derecho NO aparece entre los suspendibles en estados de excepción o sitio?",
+    "opciones": [
+      "La tutela judicial efectiva",
+      "La inviolabilidad del domicilio",
+      "La libertad de circulación",
+      "El derecho de reunión"
+    ],
+    "correcta": 0,
+    "explicacion": "El art. 55.1 permite suspender determinados derechos en excepción o sitio, pero no incluye la tutela judicial efectiva.",
+    "referencia": "Tema I.1, Suspensión de derechos"
+  },
+  {
+    "id": "burgos-i01-hard-04",
+    "tema": 1,
+    "pregunta": "¿Qué principio del art. 9.3 CE se vulnera más directamente cuando un poder público actúa de forma caprichosa y sin justificación objetiva?",
+    "opciones": [
+      "Interdicción de la arbitrariedad de los poderes públicos",
+      "Irretroactividad absoluta de todas las normas",
+      "Pluralismo político",
+      "Soberanía nacional"
+    ],
+    "correcta": 0,
+    "explicacion": "La interdicción de la arbitrariedad impide actuaciones públicas caprichosas o carentes de justificación racional.",
+    "referencia": "Tema I.1, Principios constitucionales"
   }
 ]
