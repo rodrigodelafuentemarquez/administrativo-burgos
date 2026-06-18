@@ -644,8 +644,8 @@ const navClass = (href: string, exact = false) => {
         --study-mark-text: #d9ffe9;
       }
       .tema-content table {
-        width: max(100%, 38rem);
-        max-width: none;
+        width: 100%;
+        max-width: 100%;
         margin-bottom: 1.5rem;
         font-size: .875rem;
         vertical-align: top;
@@ -654,11 +654,11 @@ const navClass = (href: string, exact = false) => {
         border-collapse: collapse;
         display: block;
         overflow-x: auto;
+        overscroll-behavior-inline: contain;
+        -webkit-overflow-scrolling: touch;
       }
-      @media (max-width: 991.98px) {
-        .tema-content table {
-          width: max(100%, 34rem);
-        }
+      .tema-content {
+        min-width: 0;
       }
       .tema-content th,
       .tema-content td {
