@@ -199,14 +199,14 @@
     "id": "topup-29-09",
     "pregunta": "Antes del reconocimiento de la obligación debe constar normalmente:",
     "opciones": [
-      "la acreditación de que la prestación se ha realizado",
-      "solo la firma del interesado",
-      "la publicación en el BOE",
-      "un bando del alcalde"
+      "La conformidad o acreditación de que la prestación, el servicio o el suministro se ha realizado correctamente",
+      "La mera firma del interesado o del contratista, aunque no exista comprobación material",
+      "La publicación del expediente en el BOE o en el boletín oficial correspondiente",
+      "Un bando del alcalde ordenando el pago con independencia del expediente"
     ],
     "correcta": 0,
-    "explicación": "No puede reconocerse la obligación sin soporte justificativo adecuado.",
-    "referencia": "IV.3 · Fases del procedimiento de gasto",
+    "explicación": "El reconocimiento de la obligación exige acreditar previamente la efectiva realización de la prestación.",
+    "referencia": "Gestión del gasto · reconocimiento de la obligación",
     "tema": 29
   },
   {

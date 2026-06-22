@@ -662,14 +662,14 @@
     "tema": 22,
     "pregunta": "Según el Tema 46, los funcionarios interinos pueden ser nombrados, entre otros supuestos, por:",
     "opciones": [
-      "La ejecución de programas de carácter temporal y el exceso o acumulación de tareas por tiempo máximo de seis meses dentro de un período de doce meses",
-      "La simple conveniencia organizativa sin necesidad de justificación",
-      "La cobertura definitiva de plazas amortizadas",
-      "La valoración discrecional del órgano político competente sin causa legal"
+      "La ejecución de programas de carácter temporal y el exceso o acumulación de tareas por plazo máximo de seis meses dentro de un período de doce meses",
+      "La mera conveniencia organizativa del órgano convocante sin causa legal específica",
+      "La cobertura definitiva de plazas amortizadas o suprimidas",
+      "La provisión ordinaria de puestos reservados a personal eventual"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge expresamente ambos supuestos como causas de nombramiento de funcionarios interinos.",
-    "referencia": "III.1 · 2.2 Funcionarios interinos"
+    "explicación": "El nombramiento de personal interino exige alguno de los supuestos legales tasados, entre ellos programas temporales o acumulación de tareas.",
+    "referencia": "TREBEP · funcionario interino"
   },
   {
     "id": "t46-p031",

@@ -10,8 +10,8 @@
       "Expedición de copias selladas de los documentos originales que aporten los interesados"
     ],
     "correcta": 3,
-    "referencia": "PDF Burgos 2023 · pregunta 47",
-    "explicación": "La expedición de copias selladas no forma parte del servicio 010 de atención ciudadana."
+    "referencia": "PDF Burgos 2025 · pregunta 47",
+    "explicación": "La expedición de copias selladas de documentos originales aportados por los interesados no figura entre las funciones ordinarias del servicio 010 de atención ciudadana."
   },
   {
     "id": "pdf-2025-burgos-q49-reg",
@@ -44,16 +44,16 @@
   {
     "id": "t31-p001",
     "tema": 35,
-    "pregunta": "El registro es el instrumento administrativo mediante el cual las Administraciones dejan constancia fehaciente de:",
+    "pregunta": "El registro administrativo permite dejar constancia fehaciente de:",
     "opciones": [
-      "la entrada y salida de documentos, solicitudes, escritos y comunicaciones",
-      "la composición del Pleno",
-      "la nómina del personal",
-      "la aprobación de reglamentos"
+      "La entrada y salida de solicitudes, escritos, comunicaciones y documentos que se presenten o remitan",
+      "La aprobación de las ordenanzas y reglamentos municipales",
+      "La composición de los órganos colegiados en cada mandato corporativo",
+      "La relación de puestos de trabajo y las nóminas del personal"
     ],
     "correcta": 0,
-    "explicación": "El tema define así el registro.",
-    "referencia": "V.4 · 1.1 Concepto"
+    "explicación": "La función básica del registro es dejar constancia de la entrada y salida de documentos y escritos administrativos.",
+    "referencia": "Ley 39/2015 · art. 16"
   },
   {
     "id": "t31-p002",

@@ -60,14 +60,14 @@
     "tema": 38,
     "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",
     "opciones": [
-      "la tramitación de procedimientos, la prestación de servicios y las relaciones con los ciudadanos",
-      "la sustitución del personal funcionario por robots",
-      "la recaudación tributaria exclusiva",
-      "la publicación de leyes orgánicas"
+      "La tramitación de procedimientos, la prestación de servicios públicos y las relaciones electrónicas con ciudadanía y empresas",
+      "La sustitución del personal empleado público por sistemas automáticos de decisión",
+      "La recaudación tributaria exclusivamente por medios telemáticos",
+      "La publicación de leyes orgánicas y de sentencias judiciales"
     ],
     "correcta": 0,
-    "explicación": "El tema da esa definición de e-Administración.",
-    "referencia": "V.7 · 1.1 Concepto"
+    "explicación": "La administración electrónica integra las TIC en la gestión, los servicios y las relaciones con ciudadanía y empresas, no en una única función aislada.",
+    "referencia": "Administración electrónica · concepto"
   },
   {
     "id": "t34-p002",

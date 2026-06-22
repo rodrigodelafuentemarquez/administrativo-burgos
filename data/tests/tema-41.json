@@ -74,14 +74,14 @@
     "tema": 41,
     "pregunta": "Combinar correspondencia permite generar:",
     "opciones": [
-      "documentos personalizados en serie a partir de un documento base y una fuente de datos",
-      "solo gráficos estadísticos",
-      "únicamente fórmulas automáticas",
-      "bases de datos relacionales"
+      "Documentos personalizados en serie a partir de un documento principal y una fuente de datos",
+      "Gráficos dinámicos vinculados a una hoja de cálculo externa",
+      "Fórmulas y funciones automáticas sobre rangos de Excel",
+      "Bases de datos relacionales con integridad referencial"
     ],
     "correcta": 0,
-    "explicación": "El tema lo explica así.",
-    "referencia": "V.10 · 2.14 Combinar correspondencia"
+    "explicación": "La combinación de correspondencia sirve para producir documentos personalizados en serie usando un documento base y una fuente de datos.",
+    "referencia": "Word 365 · combinar correspondencia"
   },
   {
     "id": "t38-p007",

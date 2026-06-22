@@ -60,14 +60,14 @@
     "tema": 6,
     "pregunta": "Las mancomunidades de municipios son:",
     "opciones": [
-      "asociaciones voluntarias de municipios para la ejecución en común de obras y servicios",
-      "órganos de gobierno de la provincia",
-      "entidades de existencia necesaria",
-      "organismos estatales desconcentrados"
+      "Asociaciones voluntarias de municipios para ejecutar en común obras, servicios o actividades de su competencia",
+      "Entidades locales territoriales de existencia necesaria equivalentes a la provincia",
+      "Órganos complementarios del ayuntamiento para la gestión descentralizada de servicios",
+      "Organismos autónomos creados por el Estado para coordinar servicios municipales"
     ],
     "correcta": 0,
-    "explicación": "El tema define las mancomunidades como asociaciones voluntarias para obras y servicios comunes.",
-    "referencia": "I.6 · 2.8 Las Mancomunidades de Municipios"
+    "explicación": "La mancomunidad es una asociación voluntaria de municipios para prestar conjuntamente obras, servicios o actividades de su competencia.",
+    "referencia": "Ley 7/1985 · art. 44"
   },
   {
     "id": "t09-p014",

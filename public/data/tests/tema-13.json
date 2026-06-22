@@ -88,14 +88,14 @@
     "tema": 13,
     "pregunta": "Un recurso administrativo es:",
     "opciones": [
-      "la impugnación ante el juez contencioso",
-      "la solicitud a la propia Administración para revisar un acto que se considera contrario al ordenamiento",
-      "una queja parlamentaria",
-      "un procedimiento sancionador"
+      "La impugnación ante la jurisdicción contencioso-administrativa de una disposición general",
+      "El cauce de revisión ante la propia Administración de un acto que se considera contrario al ordenamiento",
+      "Una petición graciable carente de efectos jurídicos revisores",
+      "Un trámite interno reservado al órgano instructor dentro del procedimiento sancionador"
     ],
     "correcta": 1,
-    "explicación": "El tema lo define como el acto por el que un interesado pide a la Administración revisar su propio acto.",
-    "referencia": "II.4 · 1.1 Concepto"
+    "explicación": "El recurso administrativo busca la revisión, por la propia Administración, de un acto administrativo que se considera contrario al ordenamiento.",
+    "referencia": "Ley 39/2015 · recursos administrativos"
   },
   {
     "id": "t17-p002",

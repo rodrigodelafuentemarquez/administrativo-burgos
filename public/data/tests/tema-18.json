@@ -198,16 +198,16 @@
   {
     "id": "t27-p015",
     "tema": 18,
-    "pregunta": "La cesión gratuita de bienes patrimoniales, puede hacerse a favor de:",
+    "pregunta": "La cesión gratuita de bienes patrimoniales puede hacerse a favor de:",
     "opciones": [
-      "otras Administraciones Públicas o entidades sin ánimo de lucro para fines de interés público o social",
-      "cualquier particular que lo solicite",
-      "solo empresas mercantiles",
-      "solo partidos políticos"
+      "Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines de utilidad pública o interés social",
+      "Cualquier persona física empadronada en el municipio que lo solicite",
+      "Exclusivamente sociedades mercantiles con participación pública mayoritaria",
+      "Solo partidos políticos y organizaciones sindicales con representación institucional"
     ],
     "correcta": 0,
-    "explicación": "El tema limita la cesión a esos destinatarios.",
-    "referencia": "II.9 · 6.5 Cesión gratuita"
+    "explicación": "La cesión gratuita de bienes patrimoniales exige un destino de utilidad pública o interés social y un beneficiario legalmente idóneo.",
+    "referencia": "Bienes patrimoniales · cesión gratuita"
   },
   {
     "id": "topup-18-04",

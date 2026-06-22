@@ -88,14 +88,14 @@
     "tema": 28,
     "pregunta": "El presupuesto público es principalmente:",
     "opciones": [
-      "Una autorización jurídica y financiera para gastar e ingresar durante un ejercicio",
-      "Un mero estado contable sin eficacia jurídica",
-      "Un plan plurianual sin límite temporal",
-      "Una reserva de tesorería para imprevistos"
+      "Una autorización jurídica y financiera para realizar gastos y prever ingresos durante un ejercicio determinado",
+      "Un mero estado contable interno carente de eficacia jurídica externa",
+      "Un plan económico plurianual sin referencia a un ejercicio presupuestario",
+      "Una reserva de tesorería constituida solo para atender gastos imprevistos"
     ],
     "correcta": 0,
-    "explicación": "El tema define el presupuesto como autorización para gastar e ingresar en el ejercicio.",
-    "referencia": "IV.2 · 1.1 Qué es el presupuesto público"
+    "explicación": "El presupuesto tiene dimensión jurídica y financiera, y se refiere a un ejercicio concreto.",
+    "referencia": "Presupuesto público · concepto"
   },
   {
     "id": "t44-p003",

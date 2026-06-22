@@ -255,14 +255,14 @@
     "id": "refine-23-05",
     "pregunta": "El servicio en otras Administraciones Públicas implica normalmente:",
     "opciones": [
-      "mantener la condición de funcionario de origen dentro del régimen legal de movilidad o integración aplicable",
-      "perder automáticamente toda vinculación con la Administración de procedencia",
-      "pasar necesariamente a excedencia por interes particular",
-      "adquirir una relación laboral comun en lugar de funcionarial"
+      "Mantener la condición de funcionario de la administración de origen, con sujeción al régimen legal de movilidad o integración aplicable",
+      "Extinguir automáticamente la relación de servicio con la administración de procedencia",
+      "Pasar siempre a excedencia voluntaria por interés particular",
+      "Transformar la relación funcionarial en laboral común mientras dure el servicio"
     ],
     "correcta": 0,
-    "referencia": "III.2 · Situaciones administrativas",
-    "explicación": "Esta situación no equivale sin mas a perder la condición funcionarial de origen.",
+    "referencia": "Situaciones administrativas · servicio en otras Administraciones Públicas",
+    "explicación": "La situación de servicio en otras administraciones no extingue por sí misma la condición funcionarial de origen.",
     "tema": 23
   },
   {

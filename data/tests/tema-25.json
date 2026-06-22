@@ -74,14 +74,14 @@
     "tema": 25,
     "pregunta": "De acuerdo con el Tema 46, son objeto de negociación colectiva, entre otras materias:",
     "opciones": [
-      "La aplicación del incremento de retribuciones y los planes de empleo y oferta de empleo público",
-      "La imposición individual de sanciones disciplinarias muy graves",
-      "La resolución de los expedientes de incompatibilidades concretos",
-      "La designación nominativa de los miembros de los tribunales selectivos"
+      "La aplicación del incremento global de retribuciones, los planes de empleo y la oferta de empleo público",
+      "La resolución de expedientes disciplinarios individuales y la imposición concreta de sanciones",
+      "La designación nominativa de los miembros de los tribunales de selección",
+      "La tramitación singular de expedientes de incompatibilidades y jubilación"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye expresamente esas materias entre las negociables en las Mesas de Negociación.",
-    "referencia": "III.4 · 10.2 Materias objeto de negociación"
+    "explicación": "La negociación colectiva alcanza materias generales de condiciones de trabajo, pero no decisiones individualizadas de aplicación ni potestades estrictamente organizativas o disciplinarias.",
+    "referencia": "TREBEP · negociación colectiva"
   },
   {
     "id": "topup-25-04",

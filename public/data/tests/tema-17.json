@@ -269,14 +269,14 @@
     "id": "refine-17-05",
     "pregunta": "La resolución sancionadora debe pronunciarse sobre:",
     "opciones": [
-      "los hechos, su calificación jurídica, la persona responsable y la sanción o inexistencia de infracción",
-      "únicamente el importe económico de la multa",
-      "solo la denuncia inicial",
-      "solo la identificación del instructor"
+      "Los hechos, su calificación jurídica, la persona responsable y la sanción impuesta o la declaración de inexistencia de infracción o responsabilidad",
+      "Únicamente la cuantía económica de la multa, si la hubiera",
+      "Solo la transcripción literal de la denuncia y de las alegaciones presentadas",
+      "La identificación del instructor y del secretario, sin necesidad de resolver sobre el fondo"
     ],
     "correcta": 0,
-    "referencia": "II.8 · Resolución sancionadora",
-    "explicación": "La resolución final debe cerrar de forma motivada el debate sobre hechos, calificación y responsabilidad.",
+    "referencia": "Procedimiento sancionador · resolución",
+    "explicación": "La resolución debe fijar los hechos, su calificación, la persona responsable y la sanción o, en su caso, declarar la inexistencia de infracción o responsabilidad.",
     "tema": 17
   }
 ]

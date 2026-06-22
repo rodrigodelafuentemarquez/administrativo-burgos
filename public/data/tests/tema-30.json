@@ -61,13 +61,13 @@
     "pregunta": "De conformidad con la Ley Orgánica del Tribunal de Cuentas y con el Tema 44, al Tribunal de Cuentas le corresponde:",
     "opciones": [
       "La fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público",
-      "El control financiero permanente interno de todos los departamentos",
-      "La función interventora previa de los actos con contenido económico",
-      "La auditoria pública interna de la Administración General del Estado"
+      "El control financiero permanente interno de todos los departamentos ministeriales y entidades locales",
+      "La función interventora previa de los actos con contenido económico-presupuestario",
+      "La auditoría pública interna de la Administración General del Estado"
     ],
     "correcta": 0,
-    "explicación": "El tema define al Tribunal de Cuentas como supremo órgano fiscalizador externo del sector público.",
-    "referencia": "IV.4 · 7.4 El Tribunal de Cuentas"
+    "explicación": "La función propia del Tribunal de Cuentas es la fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público.",
+    "referencia": "Ley Orgánica 2/1982 · Tribunal de Cuentas"
   },
   {
     "id": "topup-30-02",

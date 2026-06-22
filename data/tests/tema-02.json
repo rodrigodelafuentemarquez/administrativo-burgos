@@ -352,16 +352,16 @@
   {
     "id": "t04-p009",
     "tema": 2,
-    "pregunta": "Según el art. 81 CE, para las leyes orgánicas se exige:",
+    "pregunta": "De acuerdo con el artículo 81 CE, la aprobación, modificación o derogación de una ley orgánica requerirá:",
     "opciones": [
-      "mayoría simple en Congreso y Senado",
-      "mayoría absoluta del Congreso en votación final sobre el conjunto del texto",
-      "mayoría de tres quintos de ambas Cámaras",
-      "referéndum obligatorio previo"
+      "Mayoría simple del Congreso en una votación final sobre el conjunto del texto",
+      "Mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto",
+      "Mayoría absoluta del Senado y simple del Congreso en lectura única",
+      "Mayoría de tres quintos de cada Cámara y referéndum posterior"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que las leyes orgánicas requieren mayoría absoluta del Congreso en votación final sobre el conjunto del texto.",
-    "referencia": "I.2 · 7.1 c) Leyes Orgánicas (art. 81 CE)"
+    "explicación": "El art. 81.2 CE exige mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto, para aprobar, modificar o derogar una ley orgánica.",
+    "referencia": "Constitución Española · art. 81.2"
   },
   {
     "id": "t04-p010",

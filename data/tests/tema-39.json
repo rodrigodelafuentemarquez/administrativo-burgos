@@ -130,14 +130,14 @@
     "tema": 39,
     "pregunta": "El cuadro de clasificación es:",
     "opciones": [
-      "la estructura jerárquica que refleja la organización de los documentos por competencias y funciones",
-      "un listado de sanciones",
-      "la relación de asistentes al Pleno",
-      "un índice de teléfonos"
+      "La estructura jerárquica que organiza los documentos según funciones, actividades y series documentales",
+      "El inventario topográfico que localiza físicamente las cajas en el depósito",
+      "El índice nominal de personas o entidades citadas en un expediente",
+      "La relación cronológica de transferencias realizadas al archivo histórico"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define así dentro de los instrumentos de descripción.",
-    "referencia": "V.8 · 3.3 La organización del archivo: instrumentos de descripción"
+    "explicación": "El cuadro de clasificación ordena la documentación conforme a las funciones y series, y no se confunde con otros instrumentos descriptivos.",
+    "referencia": "Archivística · cuadro de clasificación"
   },
   {
     "id": "t32-p010",

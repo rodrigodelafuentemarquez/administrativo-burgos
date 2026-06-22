@@ -144,14 +144,14 @@
     "tema": 37,
     "pregunta": "En las Administraciones Públicas, la base jurídica predominante del tratamiento de datos personales es:",
     "opciones": [
-      "el cumplimiento de una misión en interés público o el ejercicio de poderes públicos",
-      "el consentimiento del interesado en todo caso",
-      "el interés legítimo de la Administración",
-      "la libre elección del encargado del tratamiento"
+      "El cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable",
+      "El consentimiento expreso del interesado en todo tratamiento de datos realizado por la administración",
+      "El interés legítimo de la administración como base ordinaria y preferente de sus tratamientos",
+      "La libre elección del encargado del tratamiento y del sistema informático utilizado"
     ],
     "correcta": 0,
-    "explicación": "En el ámbito público la base jurídica típica es el art. 6.1.e RGPD, no el consentimiento.",
-    "referencia": "V.6 · 7. Bases jurídicas del tratamiento"
+    "explicación": "En el ámbito administrativo predomina la base jurídica del interés público o del ejercicio de poderes públicos, no el consentimiento como regla general.",
+    "referencia": "RGPD · art. 6.1.e) / LOPDGDD"
   },
   {
     "id": "t43-p019",

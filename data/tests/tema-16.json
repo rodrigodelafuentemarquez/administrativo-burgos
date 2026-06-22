@@ -312,14 +312,14 @@
     "tema": 16,
     "pregunta": "Según el art. 16 LCSP, son contratos de suministro los que tienen por objeto:",
     "opciones": [
-      "La realización de prestaciones de hacer que no sean obras ni suministros",
-      "La adquisición, arrendamiento financiero, arrendamiento con o sin opción de compra, o adquisición de bienes muebles",
-      "La gestión de un servicio público asumiendo el contratista el riesgo operacional",
-      "La ejecución de una obra o de alguno de los trabajos del Anexo I de la LCSP"
+      "La realización de prestaciones consistentes en desarrollar una actividad o dirigidas a obtener un resultado distinto de una obra o suministro",
+      "La adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+      "La atribución al contratista del derecho a explotar un servicio asumiendo el riesgo operacional",
+      "La ejecución de una obra o de alguno de los trabajos comprendidos en el Anexo I de la LCSP"
     ],
     "correcta": 1,
-    "explicación": "El tema define el contrato de suministro mediante esas operaciones sobre bienes muebles.",
-    "referencia": "II.7 · 2.2.3 Contrato de suministro (arts. 16 y 272-283 LCSP)"
+    "explicación": "El contrato de suministro se refiere a la adquisición o arrendamiento de bienes muebles, con o sin opción de compra.",
+    "referencia": "Ley 9/2017 · art. 16"
   },
   {
     "id": "t20-p019",

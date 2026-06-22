@@ -172,14 +172,14 @@
     "tema": 12,
     "pregunta": "El transcurso del plazo máximo de resolución puede suspenderse por:",
     "opciones": [
-      "solicitud de subsanación y solicitud de informes determinantes",
-      "la mera voluntad del funcionario",
-      "la interposición de cualquier recurso",
-      "el silencio del interesado"
+      "La solicitud de subsanación o mejora y la petición de informes preceptivos y determinantes para resolver",
+      "La mera conveniencia organizativa del órgano instructor",
+      "La interposición de cualquier recurso administrativo, aunque sea ajeno al procedimiento",
+      "La falta de actividad del interesado sin requerimiento previo"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera varios supuestos tasados de suspensión.",
-    "referencia": "II.3 · 4.3 Suspensión del plazo para resolver"
+    "explicación": "La suspensión del plazo de resolución responde a causas tasadas, como la subsanación o la emisión de informes preceptivos y determinantes.",
+    "referencia": "Ley 39/2015 · art. 22"
   },
   {
     "id": "t15-p008",

@@ -172,14 +172,14 @@
     "tema": 40,
     "pregunta": "Un sistema operativo es:",
     "opciones": [
-      "el software base que administra los recursos del hardware y permite la ejecución de aplicaciones",
-      "una periferia de salida",
-      "un archivo comprimido",
-      "un navegador web"
+      "El software básico que gestiona los recursos del hardware y permite la ejecución de programas y aplicaciones",
+      "Un dispositivo periférico destinado exclusivamente a la salida de datos",
+      "Un archivo comprimido que agrupa documentos de un mismo proyecto",
+      "Una aplicación de navegación por internet instalada por defecto"
     ],
     "correcta": 0,
-    "explicación": "El tema desarrolla esa función en el apartado 4.",
-    "referencia": "V.9 · 4.1 Concepto y funciones"
+    "explicación": "El sistema operativo es el software base que administra los recursos del equipo y posibilita la ejecución de aplicaciones.",
+    "referencia": "Informática básica · sistema operativo"
   },
   {
     "id": "t36-p014",

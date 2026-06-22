@@ -130,14 +130,14 @@
     "tema": 26,
     "pregunta": "Para acceder a la prestación por nacimiento y cuidado de menor, el período mínimo general de cotización es de:",
     "opciones": [
-      "180 días en los últimos 7 años o 360 días a lo largo de la vida laboral",
-      "90 días en los últimos 5 años",
-      "365 días en el último año",
-      "no se exige cotización en ningún caso"
+      "180 días dentro de los 7 años inmediatamente anteriores o 360 días a lo largo de la vida laboral",
+      "90 días dentro de los 5 años anteriores o 180 a lo largo de toda la vida laboral",
+      "365 días cotizados en el último año natural completo",
+      "Ningún período de cotización, con independencia de la edad del causante"
     ],
     "correcta": 0,
-    "explicación": "Ese es el requisito general de cotización que recoge el tema, con especialidades por edad.",
-    "referencia": "III.5 · 5.4 Requisitos"
+    "explicación": "Con carácter general, se exige acreditar 180 días cotizados en los 7 años anteriores o 360 días en toda la vida laboral.",
+    "referencia": "LGSS · nacimiento y cuidado de menor"
   },
   {
     "id": "t30-p018",

@@ -228,14 +228,14 @@
     "tema": 9,
     "pregunta": "¿Qué puede hacer el Presidente de la Junta de Castilla y León?",
     "opciones": [
-      "Nombrar al Rey",
-      "Plantear la cuestión de confianza y disolver las Cortes en los términos estatutarios",
-      "Legislar por decreto-ley estatal",
-      "Designar al Tribunal Superior de Justicia"
+      "Convocar elecciones generales y disolver las Cortes Generales",
+      "Plantear la cuestión de confianza y acordar la disolución anticipada de las Cortes de Castilla y León en los casos previstos estatutariamente",
+      "Nombrar a los magistrados del Tribunal Superior de Justicia de Castilla y León",
+      "Aprobar decretos-leyes estatales por razones de extraordinaria y urgente necesidad"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge entre sus funciones la cuestión de confianza y la posibilidad de disolver las Cortes.",
-    "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León"
+    "explicación": "Entre las facultades del Presidente de la Junta se incluyen la cuestión de confianza y la disolución anticipada de las Cortes autonómicas en los términos del Estatuto.",
+    "referencia": "Estatuto de Autonomía de Castilla y León · Presidencia de la Junta"
   },
   {
     "id": "t08-p015",

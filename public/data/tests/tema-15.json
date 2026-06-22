@@ -158,14 +158,14 @@
     "tema": 15,
     "pregunta": "¿Cuál de los siguientes supuestos forma parte de la responsabilidad patrimonial del Estado legislador?",
     "opciones": [
-      "Solo por reglamentos ilegales",
-      "Por leyes declaradas inconstitucionales y por leyes contrarias al Derecho de la UE",
-      "Solo por contratos administrativos",
-      "Solo por sentencias penales"
+      "Los daños causados exclusivamente por reglamentos declarados nulos, con exclusión de las leyes",
+      "Los daños derivados de leyes declaradas inconstitucionales y de leyes contrarias al Derecho de la Unión Europea en los términos legales",
+      "La responsabilidad nacida solo de actos contractuales dictados por órganos legislativos",
+      "Los perjuicios ocasionados exclusivamente por sentencias penales erróneas"
     ],
     "correcta": 1,
-    "explicación": "El tema contempla esos dos supuestos especiales.",
-    "referencia": "II.6 · 6.1 Responsabilidad del Estado legislador"
+    "explicación": "La responsabilidad patrimonial del Estado legislador se contempla, entre otros casos, respecto de leyes declaradas inconstitucionales o contrarias al Derecho de la Unión Europea.",
+    "referencia": "Ley 40/2015 · responsabilidad del Estado legislador"
   },
   {
     "id": "t18-p013",

@@ -46,14 +46,14 @@
     "tema": 34,
     "pregunta": "Según el art. 53 LPACAP, los interesados pueden no presentar documentos que:",
     "opciones": [
-      "ya se encuentren en poder de las Administraciones Públicas o hayan sido elaborados por éstas",
-      "sean escritos en letra pequeña",
-      "estén en papel y no en digital",
-      "contengan firmas manuscritas"
+      "Ya obren en poder de las Administraciones Públicas o hayan sido elaborados por cualquiera de ellas",
+      "Estén redactados en soporte papel y no en formato electrónico",
+      "Contengan firma manuscrita en vez de firma electrónica",
+      "Resulten extensos o de difícil digitalización"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge esa dispensa documental.",
-    "referencia": "V.3 · 1.3 Derechos específicos en el procedimiento administrativo (art. 53 LPACAP)"
+    "explicación": "El interesado no está obligado a aportar documentos ya elaborados por las administraciones o que ya obren en su poder, con las condiciones legales previstas.",
+    "referencia": "Ley 39/2015 · art. 53.1.d)"
   },
   {
     "id": "t35-p005",

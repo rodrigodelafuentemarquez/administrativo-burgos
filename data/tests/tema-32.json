@@ -88,14 +88,14 @@
     "tema": 32,
     "pregunta": "¿Cuál de las siguientes opciones define mejor la discriminación indirecta?",
     "opciones": [
-      "Trato menos favorable directo por razón de sexo",
-      "Disposición aparentemente neutra que perjudica especialmente a un sexo",
-      "Violencia física ejercida en pareja",
-      "Negación de una prestación por dependencia"
+      "El trato menos favorable dispensado expresamente a una persona por razón de sexo",
+      "La situación en que una disposición, criterio o práctica aparentemente neutros ocasiona una desventaja particular a personas de un sexo respecto de otro",
+      "Cualquier conducta física o verbal producida exclusivamente en el ámbito de la pareja",
+      "La negativa administrativa a reconocer una prestación del sistema de dependencia"
     ],
     "correcta": 1,
-    "explicación": "La definición del tema corresponde a la discriminación indirecta.",
-    "referencia": "V.1 · 2.2 Conceptos clave de la LOIEMH"
+    "explicación": "La discriminación indirecta aparece cuando una medida aparentemente neutra ocasiona una desventaja particular a personas de un sexo respecto de otro.",
+    "referencia": "Ley Orgánica 3/2007 · conceptos de discriminación"
   },
   {
     "id": "t48-p004",

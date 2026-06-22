@@ -172,14 +172,14 @@
     "tema": 42,
     "pregunta": "IMAP permite:",
     "opciones": [
-      "acceder a los correos manteniéndolos en el servidor y sincronizando varios dispositivos",
-      "descargar y borrar por defecto los mensajes del servidor",
-      "solo enviar correos",
-      "firmar documentos"
+      "Acceder a los mensajes manteniéndolos en el servidor y sincronizando carpetas y estados entre varios dispositivos",
+      "Descargar normalmente los mensajes al equipo local y eliminarlos del servidor una vez recibidos",
+      "Enviar mensajes salientes sin necesidad de un protocolo complementario",
+      "Firmar electrónicamente correos y documentos desde el cliente de correo"
     ],
     "correcta": 0,
-    "explicación": "El tema lo destaca como acceso sincronizado.",
-    "referencia": "V.11 · 2.5.1 Correo electrónico"
+    "explicación": "IMAP mantiene los mensajes en el servidor y sincroniza el estado del buzón entre distintos dispositivos.",
+    "referencia": "Correo electrónico · IMAP"
   },
   {
     "id": "t40-p010",

@@ -60,14 +60,14 @@
     "tema": 33,
     "pregunta": "Según el art. 7 LTBG, la información de relevancia jurídica comprende:",
     "opciones": [
-      "directrices, instrucciones, acuerdos, circulares o respuestas a consultas con efectos jurídicos externos",
-      "solo los presupuestos y las cuentas anuales",
-      "únicamente los contratos menores",
-      "solo las estadísticas de población"
+      "Directrices, instrucciones, acuerdos, circulares o respuestas a consultas planteadas por particulares u otros órganos con efectos jurídicos externos",
+      "Únicamente los presupuestos, las cuentas anuales y los estados de ejecución",
+      "Solo la información estadística necesaria para valorar la calidad de los servicios públicos",
+      "Exclusivamente las resoluciones judiciales firmes que afecten a la entidad"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce ese bloque del art. 7 LTBG.",
-    "referencia": "V.2 · 2.2 Información objeto de publicidad activa (art. 7 LTBG)"
+    "explicación": "El art. 7 LTBG incluye dentro de la información de relevancia jurídica las instrucciones, circulares y respuestas con efectos jurídicos externos.",
+    "referencia": "Ley 19/2013 · art. 7"
   },
   {
     "id": "t21-p006",

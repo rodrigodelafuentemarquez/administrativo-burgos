@@ -116,14 +116,14 @@
     "tema": 11,
     "pregunta": "¿Qué actos requieren motivación obligatoria?",
     "opciones": [
-      "Solo los favorables",
-      "Los que limiten derechos subjetivos o intereses legítimos",
-      "Solo los de trámite",
-      "Solo los reglamentos"
+      "Los actos favorables que no afecten a terceros",
+      "Los actos que limiten derechos subjetivos o intereses legítimos, así como los demás supuestos previstos legalmente",
+      "Exclusivamente los actos de trámite no cualificados",
+      "Solo las disposiciones administrativas de carácter general"
     ],
     "correcta": 1,
-    "explicación": "El tema enumera como motivables, entre otros, los actos limitativos de derechos.",
-    "referencia": "II.2 · 3.3 Elementos formales"
+    "explicación": "La LPACAP exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legítimos.",
+    "referencia": "Ley 39/2015 · art. 35"
   },
   {
     "id": "t16-p009",

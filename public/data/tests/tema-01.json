@@ -240,16 +240,16 @@
   {
     "id": "t01-p015",
     "tema": 1,
-    "pregunta": "¿Qué naturaleza tienen los principios rectores de la política social y económica?",
+    "pregunta": "Conforme al art. 53.3 CE, los principios rectores de la política social y económica:",
     "opciones": [
-      "Son derechos directamente exigibles ante cualquier tribunal",
-      "Son mandatos al legislador y solo alegables según las leyes que los desarrollen",
-      "Son normas de rango reglamentario",
-      "Solo obligan a las Comunidades Autónomas"
+      "Son directamente exigibles mediante recurso de amparo ante el Tribunal Constitucional",
+      "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos, y solo podrán alegarse conforme a las leyes que los desarrollen",
+      "Vinculan únicamente al legislador estatal y no a los demás poderes públicos",
+      "Tienen la misma protección jurisdiccional que los derechos de la Sección 1.ª del Capítulo II"
     ],
     "correcta": 1,
-    "explicación": "El temario explica que no son derechos subjetivos directamente exigibles, sino mandatos al legislador.",
-    "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica"
+    "explicación": "El art. 53.3 CE atribuye a los principios rectores una función de orientación e interpretación, y condiciona su alegación a las leyes que los desarrollen.",
+    "referencia": "Constitución Española · art. 53.3"
   },
   {
     "id": "t01-p016",

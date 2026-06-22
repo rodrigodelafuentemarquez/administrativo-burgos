@@ -46,14 +46,14 @@
     "tema": 14,
     "pregunta": "La LRJSP regula principalmente:",
     "opciones": [
-      "solo el procedimiento administrativo",
-      "los principios de actuación, la organización administrativa y las relaciones interadministrativas",
-      "únicamente el régimen electoral",
-      "la jurisdicción penal"
+      "Exclusivamente el procedimiento administrativo común y los recursos administrativos",
+      "Los principios de actuación del sector público, la organización administrativa y las relaciones interadministrativas",
+      "Solo la responsabilidad patrimonial derivada de actos legislativos",
+      "El régimen electoral general y la organización de las Cortes Generales"
     ],
     "correcta": 1,
-    "explicación": "El tema resume ese contenido central de la LRJSP.",
-    "referencia": "II.5 · 1.1 Contexto y estructura"
+    "explicación": "La Ley 40/2015 se centra en los principios y organización del sector público y en las relaciones entre administraciones.",
+    "referencia": "Ley 40/2015 · objeto y estructura"
   },
   {
     "id": "t14-p002",

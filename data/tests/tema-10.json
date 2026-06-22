@@ -214,14 +214,14 @@
     "tema": 10,
     "pregunta": "La jurisprudencia del Tribunal Supremo:",
     "opciones": [
-      "es fuente formal directa y obliga normativamente",
-      "complementa el ordenamiento jurídico, pero no es formalmente fuente",
-      "solo se aplica a las CC.AA.",
-      "deroga las leyes"
+      "Constituye fuente directa del Derecho con el mismo rango que la ley",
+      "Complementa el ordenamiento jurídico con la doctrina reiterada del Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales del Derecho",
+      "Vincula únicamente a la Administración General del Estado y a sus organismos dependientes",
+      "Puede derogar por sí misma leyes y reglamentos cuando exista contradicción interpretativa"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge que la jurisprudencia complementa el ordenamiento, pero no es formalmente fuente.",
-    "referencia": "II.1 · 7.3 La jurisprudencia"
+    "explicación": "El Código Civil atribuye a la jurisprudencia una función complementaria del ordenamiento, pero no la configura como fuente formal directa.",
+    "referencia": "Código Civil · art. 1.6"
   },
   {
     "id": "t11-p015",

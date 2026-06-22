@@ -241,14 +241,14 @@
     "id": "refine-20-01",
     "pregunta": "El orden del día de un órgano colegiado local cumple, entre otras, una función de:",
     "opciones": [
-      "delimitar los asuntos sobre los que podrán recaer validamente deliberación y acuerdo",
-      "sustituir al acta de la sesión",
-      "convertir en públicos todos los expedientes reservados",
-      "permitir votar cualquier asunto sin relación previa"
+      "Delimitar los asuntos sobre los que podrán recaer válidamente la deliberación y, en su caso, el acuerdo del órgano colegiado",
+      "Sustituir al acta de la sesión y reflejar directamente los acuerdos adoptados",
+      "Habilitar para votar cualquier asunto aunque no figure previamente relacionado",
+      "Convertir automáticamente en públicos todos los expedientes incluidos en la convocatoria"
     ],
     "correcta": 0,
-    "referencia": "II.11 · Convocatorias y orden del día",
-    "explicación": "El orden del día concreta y limita los asuntos a tratar, con las excepciones legalmente previstas.",
+    "referencia": "Órganos colegiados locales · convocatorias y orden del día",
+    "explicación": "El orden del día delimita los asuntos sobre los que el órgano puede deliberar y adoptar acuerdos, salvo excepciones legales.",
     "tema": 20
   },
   {
