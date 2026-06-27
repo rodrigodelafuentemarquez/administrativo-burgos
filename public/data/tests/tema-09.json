@@ -698,5 +698,33 @@
     "correcta": 0,
     "explicacion": "El Procurador del Común es el equivalente autonómico del Defensor del Pueblo y supervisa la actividad administrativa en su ámbito.",
     "referencia": "Tema I.9, instituciones propias de Castilla y León"
+  },
+  {
+    "id": "realstyle-i09-01",
+    "tema": 9,
+    "pregunta": "Según el Estatuto de Autonomía de Castilla y León, cada provincia tiene asignado inicialmente un mínimo de:",
+    "opciones": [
+      "Cinco Procuradores y uno más por cada 45.000 habitantes o fracción superior a 22.500",
+      "Tres Procuradores y uno más por cada 50.000 habitantes o fracción superior a 25.000",
+      "Un Procurador por cada partido judicial y dos por cada capital de provincia",
+      "Diez Procuradores fijos, sin corrección por población"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 21 EACyL",
+    "explicación": "El Estatuto fija un mínimo provincial y una corrección poblacional, fórmula típica de pregunta real."
+  },
+  {
+    "id": "realstyle-i09-02",
+    "tema": 9,
+    "pregunta": "En Castilla y León, los Consejeros electivos del Consejo Consultivo son elegidos por las Cortes de Castilla y León para un mandato de:",
+    "opciones": [
+      "Tres años",
+      "Cuatro años",
+      "Cinco años",
+      "Seis años"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · Consejo Consultivo de Castilla y León",
+    "explicación": "Los exámenes reales preguntan con frecuencia mandatos y composición de instituciones propias."
   }
 ]

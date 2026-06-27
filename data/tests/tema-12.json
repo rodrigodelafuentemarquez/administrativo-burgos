@@ -418,5 +418,33 @@
     "correcta": 0,
     "explicacion": "La notificación electrónica se practica por comparecencia electrónica y se entiende realizada con el acceso a su contenido; el aviso no sustituye a la notificación.",
     "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema II.3, ejecución y notificación"
+  },
+  {
+    "id": "realstyle-ii03-01",
+    "tema": 12,
+    "pregunta": "Conforme al art. 74 LPACAP, las cuestiones incidentales que se susciten en el procedimiento administrativo:",
+    "opciones": [
+      "Suspenderán siempre la tramitación del procedimiento principal",
+      "No suspenderán la tramitación salvo la recusación",
+      "Solo podrán plantearse antes de la iniciación",
+      "Se resolverán necesariamente por el orden jurisdiccional contencioso-administrativo"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 74 LPACAP",
+    "explicación": "La regla general es que las cuestiones incidentales no suspenden, salvo la recusación."
+  },
+  {
+    "id": "realstyle-ii03-02",
+    "tema": 12,
+    "pregunta": "En el procedimiento administrativo común, si la Administración acuerda la tramitación simplificada y algún interesado manifiesta oposición expresa:",
+    "opciones": [
+      "La Administración deberá seguir la tramitación ordinaria",
+      "La oposición se tendrá por no formulada",
+      "El procedimiento caduca automáticamente",
+      "La Administración queda obligada a inadmitir la solicitud inicial"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · procedimiento simplificado LPACAP",
+    "explicación": "La tramitación simplificada no puede imponerse si consta oposición expresa de interesado."
   }
 ]

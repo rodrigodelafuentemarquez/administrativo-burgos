@@ -278,5 +278,33 @@
     "referencia": "Procedimiento sancionador · resolución",
     "explicación": "La resolución debe fijar los hechos, su calificación, la persona responsable y la sanción o, en su caso, declarar la inexistencia de infracción o responsabilidad.",
     "tema": 17
+  },
+  {
+    "id": "realstyle-ii08-01",
+    "tema": 17,
+    "pregunta": "Según la LRJSP, en la graduación de la sanción deberá observarse la debida idoneidad y necesidad de la sanción a imponer y su adecuación a la gravedad del hecho, atendiendo, entre otros criterios, a:",
+    "opciones": [
+      "El grado de culpabilidad o la existencia de intencionalidad",
+      "La nacionalidad del presunto responsable",
+      "La antigüedad del instructor del expediente",
+      "La cuantía del presupuesto municipal"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 29 LRJSP",
+    "explicación": "El art. 29 LRJSP recoge criterios de proporcionalidad como culpabilidad, continuidad, perjuicios y reincidencia."
+  },
+  {
+    "id": "realstyle-ii08-02",
+    "tema": 17,
+    "pregunta": "En materia sancionadora, la reincidencia como criterio de graduación exige la comisión de más de una infracción de la misma naturaleza cuando así haya sido declarado por:",
+    "opciones": [
+      "Resolución firme en vía administrativa",
+      "Informe del instructor, aunque no sea firme",
+      "Simple denuncia de un particular",
+      "Acuerdo verbal del órgano competente"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · reincidencia sancionadora",
+    "explicación": "La reincidencia exige declaración por resolución firme en vía administrativa."
   }
 ]

@@ -362,5 +362,33 @@
     "correcta": 0,
     "explicacion": "El aviso es un complemento informativo y no sustituye a la notificación electrónica practicada por acceso o rechazo.",
     "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema V.7"
+  },
+  {
+    "id": "realstyle-v07-01",
+    "tema": 38,
+    "pregunta": "Según el art. 38 LRJSP, la sede electrónica es:",
+    "opciones": [
+      "La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad corresponde a una Administración Pública o entidad pública en el ejercicio de sus competencias",
+      "El edificio donde se ubica el departamento de informática",
+      "La intranet municipal de uso exclusivo por empleados",
+      "Un buzón de correo electrónico sin identificación de titularidad ni responsabilidad"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 38 LRJSP",
+    "explicación": "La definición legal de sede electrónica es literal y suele aparecer en test reales."
+  },
+  {
+    "id": "realstyle-v07-02",
+    "tema": 38,
+    "pregunta": "Según la LPACAP, las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado:",
+    "opciones": [
+      "Resulte obligado a recibirlas por esta vía",
+      "Lo solicite verbalmente a cualquier empleado público",
+      "Sea persona física no obligada en todos los casos",
+      "Haya presentado alguna vez una solicitud en papel"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 41 LPACAP",
+    "explicación": "La preferencia electrónica se convierte en obligación cuando el interesado está obligado a relacionarse electrónicamente."
   }
 ]

@@ -1,0 +1,284 @@
+---
+import Layout from '../layouts/Layout.astro';
+import {
+  acronymEntries,
+  allGlossaryEntries,
+  constitutionArticles,
+  dateEntries,
+  institutionEntries,
+  keyArticleEntries,
+} from '../data/glossary';
+
+const tags = Array.from(new Set(allGlossaryEntries.flatMap((entry) => entry.tags))).sort((a, b) => a.localeCompare(b, 'es'));
+const keyConstitutionArticles = constitutionArticles.filter((article) => article.key);
+const constitutionBlocks = Array.from(new Set(constitutionArticles.map((article) => article.block)));
+---
+
+<Layout title="Glosario global">
+  <div class="bd-intro ps-lg-2">
+    <h1 class="bd-title">Glosario global</h1>
+    <p class="bd-subtitle mb-0">Siglas, artículos, instituciones, fechas y conceptos que se repiten en todo el temario.</p>
+  </div>
+
+  <section class="bd-content ps-lg-2 glossary-page">
+    <section class="glossary-tools" aria-label="Herramientas del glosario">
+      <label class="form-label" for="glossarySearch">Buscar en el glosario</label>
+      <input id="glossarySearch" class="form-control form-control-lg" type="search" placeholder="Ej.: art. 103, LCSP, Procurador del Común, mayoría cualificada" />
+      <div class="glossary-filter-row" aria-label="Filtros rápidos">
+        <button class="btn btn-sm btn-primary" type="button" data-glossary-filter="">Todo</button>
+        {tags.map((tag) => (
+          <button class="btn btn-sm btn-outline-light" type="button" data-glossary-filter={tag}>{tag}</button>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="constitucion-clave">
+      <div class="official-group-heading">
+        <div>
+          <h2>Constitución: artículos que más preguntan<a class="anchor-link" aria-label="Enlace a esta sección" href="#constitucion-clave"></a></h2>
+          <p>Mapa rápido de artículos de examen. Debajo tienes la tabla completa del 1 al 169.</p>
+        </div>
+        <span class="badge text-bg-warning text-dark">{keyConstitutionArticles.length} clave</span>
+      </div>
+      <div class="glossary-grid">
+        {keyConstitutionArticles.map((article) => (
+          <article class="glossary-card" data-glossary-text={`art ${article.number} constitucion ce ${article.block} ${article.label}`} data-glossary-tags="Constitución Artículos">
+            <div class="glossary-card__top">
+              <span class="glossary-term">Art. {article.number} CE</span>
+              <span class="badge text-bg-dark">{article.block}</span>
+            </div>
+            <p>{article.label}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="siglas">
+      <div class="official-group-heading">
+        <div>
+          <h2>Siglas<a class="anchor-link" aria-label="Enlace a esta sección" href="#siglas"></a></h2>
+          <p>Abreviaturas que aparecen mezcladas en preguntas reales.</p>
+        </div>
+        <span class="badge text-bg-secondary">{acronymEntries.length} entradas</span>
+      </div>
+      <div class="glossary-grid">
+        {acronymEntries.map((entry) => (
+          <article class="glossary-card" data-glossary-text={`${entry.term} ${entry.meaning} ${entry.detail ?? ''}`} data-glossary-tags={entry.tags.join(' ')}>
+            <div class="glossary-card__top">
+              <span class="glossary-term">{entry.term}</span>
+              <span class="badge text-bg-dark">{entry.tags[0]}</span>
+            </div>
+            <p>{entry.meaning}</p>
+            {entry.detail && <small>{entry.detail}</small>}
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="articulos-importantes">
+      <div class="official-group-heading">
+        <div>
+          <h2>Artículos importantes fuera de la Constitución<a class="anchor-link" aria-label="Enlace a esta sección" href="#articulos-importantes"></a></h2>
+          <p>Preceptos de LPACAP, LRJSP, TREBEP, LCSP, LBRL y otras normas que conviene reconocer al vuelo.</p>
+        </div>
+        <span class="badge text-bg-secondary">{keyArticleEntries.length} artículos</span>
+      </div>
+      <div class="glossary-grid">
+        {keyArticleEntries.map((entry) => (
+          <article class="glossary-card" data-glossary-text={`${entry.term} ${entry.meaning} ${entry.detail ?? ''}`} data-glossary-tags={entry.tags.join(' ')}>
+            <div class="glossary-card__top">
+              <span class="glossary-term">{entry.term}</span>
+              <span class="badge text-bg-dark">{entry.tags[0]}</span>
+            </div>
+            <p>{entry.meaning}</p>
+            {entry.detail && <small>{entry.detail}</small>}
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="instituciones">
+      <div class="official-group-heading">
+        <div>
+          <h2>Instituciones<a class="anchor-link" aria-label="Enlace a esta sección" href="#instituciones"></a></h2>
+          <p>Quién hace qué: Estado, Ayuntamiento, Castilla y León y Unión Europea.</p>
+        </div>
+        <span class="badge text-bg-secondary">{institutionEntries.length} instituciones</span>
+      </div>
+      <div class="glossary-grid">
+        {institutionEntries.map((entry) => (
+          <article class="glossary-card" data-glossary-text={`${entry.term} ${entry.meaning} ${entry.detail ?? ''}`} data-glossary-tags={entry.tags.join(' ')}>
+            <div class="glossary-card__top">
+              <span class="glossary-term">{entry.term}</span>
+              <span class="badge text-bg-dark">{entry.tags[0]}</span>
+            </div>
+            <p>{entry.meaning}</p>
+            {entry.detail && <small>{entry.detail}</small>}
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="fechas">
+      <div class="official-group-heading">
+        <div>
+          <h2>Fechas<a class="anchor-link" aria-label="Enlace a esta sección" href="#fechas"></a></h2>
+          <p>Fechas de publicación, entrada en vigor y tratados que suelen convertirse en pregunta corta.</p>
+        </div>
+        <span class="badge text-bg-secondary">{dateEntries.length} fechas</span>
+      </div>
+      <div class="glossary-grid">
+        {dateEntries.map((entry) => (
+          <article class="glossary-card" data-glossary-text={`${entry.term} ${entry.meaning}`} data-glossary-tags={entry.tags.join(' ')}>
+            <div class="glossary-card__top">
+              <span class="glossary-term">{entry.term}</span>
+              <span class="badge text-bg-dark">{entry.tags[0]}</span>
+            </div>
+            <p>{entry.meaning}</p>
+          </article>
+        ))}
+      </div>
+    </section>
+
+    <section class="official-group" id="constitucion-completa">
+      <div class="official-group-heading">
+        <div>
+          <h2>Todos los artículos de la Constitución<a class="anchor-link" aria-label="Enlace a esta sección" href="#constitucion-completa"></a></h2>
+          <p>Vista completa del 1 al 169, agrupada por bloque constitucional.</p>
+        </div>
+        <span class="badge text-bg-secondary">169 artículos</span>
+      </div>
+      <div class="constitution-table">
+        {constitutionBlocks.map((block) => (
+          <section class="constitution-block">
+            <h3>{block}</h3>
+            <div class="table-responsive">
+              <table class="table table-dark table-sm align-middle">
+                <tbody>
+                  {constitutionArticles.filter((article) => article.block === block).map((article) => (
+                    <tr data-glossary-text={`art ${article.number} ce constitucion ${article.block} ${article.label}`} data-glossary-tags="Constitución Artículos">
+                      <th scope="row">Art. {article.number}</th>
+                      <td>{article.label}</td>
+                      <td>{article.key && <span class="badge text-bg-warning text-dark">Clave</span>}</td>
+                    </tr>
+                  ))}
+                </tbody>
+              </table>
+            </div>
+          </section>
+        ))}
+      </div>
+    </section>
+
+    <p class="glossary-empty text-body-secondary" hidden>No hay resultados para esa búsqueda.</p>
+  </section>
+
+  <script>
+    const search = document.querySelector<HTMLInputElement>('#glossarySearch');
+    const filterButtons = Array.from(document.querySelectorAll<HTMLButtonElement>('[data-glossary-filter]'));
+    const searchable = Array.from(document.querySelectorAll<HTMLElement>('[data-glossary-text]'));
+    const empty = document.querySelector<HTMLElement>('.glossary-empty');
+    let activeFilter = '';
+
+    const normalize = (value: string) => value.toLowerCase().normalize('NFD').replace(/\p{Diacritic}/gu, '');
+
+    const applyFilter = () => {
+      const query = normalize(search?.value ?? '');
+      let visible = 0;
+      searchable.forEach((node) => {
+        const text = normalize(node.dataset.glossaryText ?? '');
+        const tags = normalize(node.dataset.glossaryTags ?? '');
+        const matchesQuery = !query || text.includes(query) || tags.includes(query);
+        const matchesFilter = !activeFilter || tags.includes(normalize(activeFilter));
+        const show = matchesQuery && matchesFilter;
+        node.hidden = !show;
+        if (show && !node.classList.contains('constitution-block')) visible += 1;
+      });
+      document.querySelectorAll<HTMLElement>('.constitution-block').forEach((block) => {
+        const rows = Array.from(block.querySelectorAll<HTMLElement>('tr[data-glossary-text]'));
+        block.hidden = rows.length > 0 && rows.every((row) => row.hidden);
+      });
+      if (empty) empty.hidden = visible > 0;
+    };
+
+    search?.addEventListener('input', applyFilter);
+    filterButtons.forEach((button) => {
+      button.addEventListener('click', () => {
+        activeFilter = button.dataset.glossaryFilter ?? '';
+        filterButtons.forEach((item) => {
+          item.classList.toggle('btn-primary', item === button);
+          item.classList.toggle('btn-outline-light', item !== button);
+        });
+        applyFilter();
+      });
+    });
+  </script>
+
+  <style>
+    .glossary-tools {
+      margin-bottom: 2rem;
+      padding: 1rem;
+      border: 1px solid var(--bs-border-color);
+      border-radius: .5rem;
+      background: rgba(255, 255, 255, .035);
+    }
+    .glossary-filter-row {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .45rem;
+      margin-top: .85rem;
+    }
+    .glossary-grid {
+      display: grid;
+      grid-template-columns: minmax(0, 1fr);
+      gap: .8rem;
+    }
+    @media (min-width: 768px) {
+      .glossary-grid {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+    .glossary-card {
+      padding: .9rem;
+      border: 1px solid var(--bs-border-color);
+      border-radius: .5rem;
+      background: rgba(255, 255, 255, .03);
+    }
+    .glossary-card__top {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-between;
+      gap: .75rem;
+      margin-bottom: .5rem;
+    }
+    .glossary-term {
+      color: var(--bs-emphasis-color);
+      font-weight: 800;
+      line-height: 1.25;
+    }
+    .glossary-card p {
+      margin-bottom: .35rem;
+    }
+    .glossary-card small {
+      color: var(--bs-secondary-color);
+    }
+    .constitution-block {
+      margin-bottom: 1.5rem;
+    }
+    .constitution-block h3 {
+      margin-bottom: .65rem;
+      font-size: 1.05rem;
+    }
+    .constitution-table th {
+      width: 5.5rem;
+      white-space: nowrap;
+    }
+    .constitution-table td:last-child {
+      width: 4.5rem;
+      text-align: right;
+    }
+    [hidden] {
+      display: none !important;
+    }
+  </style>
+</Layout>

@@ -376,5 +376,33 @@
     "correcta": 0,
     "explicacion": "La función NO devuelve el valor lógico opuesto de su argumento.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
+  },
+  {
+    "id": "realstyle-v10-01",
+    "tema": 41,
+    "pregunta": "En Word 365, para imprimir un documento sin marcas de revisión sin aceptar definitivamente los cambios, debe:",
+    "opciones": [
+      "Desactivar la impresión de marcas o documento con revisiones en las opciones de impresión",
+      "Aceptar todos los cambios antes de imprimir obligatoriamente",
+      "Guardar el documento como imagen PNG",
+      "Eliminar el historial del portapapeles de Windows"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · Word 365",
+    "explicación": "Los exámenes ofimáticos reales suelen preguntar por rutas funcionales concretas, no solo por definiciones."
+  },
+  {
+    "id": "realstyle-v10-02",
+    "tema": 41,
+    "pregunta": "En Excel 365, ¿qué resultado devuelve la función FILAS aplicada a una columna de una tabla estructurada, por ejemplo =FILAS(Registros[Fecha])?",
+    "opciones": [
+      "El número de filas de esa columna de la tabla",
+      "La fecha más reciente del rango",
+      "El número de columnas de la tabla",
+      "La posición de la columna Fecha dentro del libro"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · Excel 365",
+    "explicación": "FILAS devuelve el número de filas de una referencia; con una columna estructurada cuenta sus filas."
   }
 ]

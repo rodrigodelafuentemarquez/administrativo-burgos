@@ -292,5 +292,33 @@
     "referencia": "II.12 · Procedimiento de aprobación",
     "explicación": "La competencia para resolver reclamaciones y cerrar la aprobación definitiva sigue residiendo en el Pleno.",
     "tema": 21
+  },
+  {
+    "id": "realstyle-ii12-01",
+    "tema": 21,
+    "pregunta": "En el procedimiento de aprobación de ordenanzas locales, tras la aprobación inicial por el Pleno, el acuerdo se somete a información pública y audiencia a los interesados por el plazo mínimo de:",
+    "opciones": [
+      "Diez días hábiles",
+      "Quince días naturales",
+      "Treinta días",
+      "Dos meses"
+    ],
+    "correcta": 2,
+    "referencia": "Revisión test reales · art. 49 LBRL",
+    "explicación": "El art. 49 LBRL fija un plazo mínimo de treinta días para reclamaciones y sugerencias."
+  },
+  {
+    "id": "realstyle-ii12-02",
+    "tema": 21,
+    "pregunta": "Si no se presenta ninguna reclamación o sugerencia durante la información pública de una ordenanza local:",
+    "opciones": [
+      "Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional",
+      "Debe repetirse obligatoriamente la aprobación inicial",
+      "La ordenanza caduca y no puede aprobarse",
+      "Debe remitirse a referéndum local en todo caso"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 49 LBRL",
+    "explicación": "La ausencia de reclamaciones convierte en definitivo el acuerdo provisional."
   }
 ]

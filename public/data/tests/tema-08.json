@@ -516,5 +516,47 @@
     "correcta": 0,
     "explicacion": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
     "referencia": "Tema I.8, Comisión Europea"
+  },
+  {
+    "id": "realstyle-i08-01",
+    "tema": 8,
+    "pregunta": "Conforme al art. 13 TUE, ¿cuál de las siguientes instituciones forma parte del marco institucional de la Unión Europea?",
+    "opciones": [
+      "El Comité Europeo de las Regiones",
+      "El Tribunal de Cuentas",
+      "El Banco Europeo de Inversiones",
+      "El Defensor del Pueblo Europeo"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 13 TUE",
+    "explicación": "El art. 13 TUE enumera, entre otras, el Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión, el TJUE, el BCE y el Tribunal de Cuentas."
+  },
+  {
+    "id": "realstyle-i08-02",
+    "tema": 8,
+    "pregunta": "De acuerdo con el art. 16.4 TUE, la mayoría cualificada del Consejo exige, como regla general:",
+    "opciones": [
+      "El 55 % de los miembros del Consejo que representen al menos el 65 % de la población de la Unión",
+      "La mayoría absoluta del Parlamento Europeo y unanimidad del Consejo Europeo",
+      "Dos tercios de los Estados miembros sin requisito de población",
+      "El 60 % de la población y la mayoría simple de Estados miembros"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · mayoría cualificada del Consejo",
+    "explicación": "La regla general combina doble mayoría: Estados miembros y población representada."
+  },
+  {
+    "id": "realstyle-i08-03",
+    "tema": 8,
+    "pregunta": "Si el Parlamento Europeo aprueba una moción de censura sobre la gestión de la Comisión Europea, conforme al TFUE:",
+    "opciones": [
+      "Solo cesa el Presidente de la Comisión, pero continúan los Comisarios",
+      "Los miembros de la Comisión deben dimitir colectivamente de sus cargos",
+      "El Consejo Europeo queda automáticamente disuelto",
+      "La moción solo produce efectos si la confirma el Tribunal de Justicia"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · control parlamentario de la Comisión",
+    "explicación": "La moción de censura aprobada obliga a la dimisión colectiva de la Comisión."
   }
 ]

@@ -376,5 +376,33 @@
     "correcta": 0,
     "explicacion": "Un escritorio virtual permite trabajar sobre una estación lógica separada del dispositivo físico de acceso.",
     "referencia": "Examen Estado 2026, Internet y servicios; Tema V.11"
+  },
+  {
+    "id": "realstyle-v11-01",
+    "tema": 42,
+    "pregunta": "En Outlook 365, la búsqueda cc:\"Ana Muñoz\" localiza:",
+    "opciones": [
+      "Mensajes en los que Ana Muñoz aparece en la línea CC",
+      "Mensajes enviados necesariamente por Ana Muñoz",
+      "Mensajes donde Ana Muñoz aparece en CCO",
+      "Solo contactos guardados con ese nombre"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · búsqueda en Outlook",
+    "explicación": "La sintaxis cc: filtra por destinatarios incluidos en copia."
+  },
+  {
+    "id": "realstyle-v11-02",
+    "tema": 42,
+    "pregunta": "Respecto al correo electrónico, ¿qué afirmación se ajusta mejor a su funcionamiento general?",
+    "opciones": [
+      "Intervienen servidores de correo y protocolos de comunicación, no una conexión directa simple entre dos terminales",
+      "Siempre se envía directamente de un ordenador a otro sin servidores",
+      "No utiliza direcciones con dominio",
+      "Solo puede funcionar dentro de una red local cerrada"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · conceptos elementales de correo",
+    "explicación": "El correo electrónico se apoya en servidores y protocolos como SMTP, POP o IMAP."
   }
 ]

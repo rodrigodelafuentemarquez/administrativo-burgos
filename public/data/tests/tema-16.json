@@ -726,5 +726,47 @@
     "correcta": 0,
     "explicacion": "La prórroga debe acordarse por el órgano de contratación; no cabe prórroga tácita, y será obligatoria si se cumplen los requisitos de preaviso.",
     "referencia": "Examen Estado 2026, prórroga contractual; Tema II.7, efectos y extinción"
+  },
+  {
+    "id": "realstyle-ii07-01",
+    "tema": 16,
+    "pregunta": "Según el art. 99 LCSP, el objeto de los contratos del sector público deberá ser:",
+    "opciones": [
+      "Determinado y podrá definirse en atención a las necesidades o funcionalidades concretas que se pretendan satisfacer",
+      "Indeterminado mientras se fije el presupuesto base de licitación",
+      "Decidido por el contratista después de la adjudicación",
+      "Siempre dividido en lotes, sin posibilidad de justificar lo contrario"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 99 LCSP",
+    "explicación": "La determinación del objeto y la posible definición funcional son focos habituales de examen."
+  },
+  {
+    "id": "realstyle-ii07-02",
+    "tema": 16,
+    "pregunta": "Conforme al art. 16 LCSP, son contratos de suministro los que tienen por objeto, entre otros:",
+    "opciones": [
+      "La ejecución de una obra completa o la realización de trabajos de construcción",
+      "La adquisición, el arrendamiento financiero o el arrendamiento, con o sin opción de compra, de productos o bienes muebles",
+      "La explotación de un servicio con transferencia del riesgo operacional",
+      "La redacción de proyectos técnicos sin entrega de bienes"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 16 LCSP",
+    "explicación": "El contrato de suministro se centra en productos o bienes muebles; las demás opciones describen otros tipos contractuales."
+  },
+  {
+    "id": "realstyle-ii07-03",
+    "tema": 16,
+    "pregunta": "En contratación del sector público, la calificación de los contratos conforme al art. 12 LCSP se refiere a:",
+    "opciones": [
+      "Contratos de obras, concesión de obras, concesión de servicios, suministro y servicios",
+      "Contratos mayores, menores, urgentes y de emergencia",
+      "Contratos estatales, autonómicos, provinciales y municipales",
+      "Contratos administrativos ordinarios y contratos sancionadores"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 12 LCSP",
+    "explicación": "La calificación legal por tipos contractuales es literal y muy propia de test real."
   }
 ]

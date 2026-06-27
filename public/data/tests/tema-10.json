@@ -516,5 +516,33 @@
     "correcta": 0,
     "explicacion": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
     "referencia": "Tema II.1, vigencia de las normas"
+  },
+  {
+    "id": "realstyle-ii01-01",
+    "tema": 10,
+    "pregunta": "Según el art. 82.2 CE, cuando la delegación legislativa tenga por objeto la formación de textos articulados, deberá otorgarse mediante:",
+    "opciones": [
+      "Una ley ordinaria",
+      "Una ley de bases",
+      "Un real decreto-ley",
+      "Una ley orgánica de armonización"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 82 CE",
+    "explicación": "La delegación para textos articulados se otorga por ley de bases; para refundir textos, por ley ordinaria."
+  },
+  {
+    "id": "realstyle-ii01-02",
+    "tema": 10,
+    "pregunta": "De acuerdo con el art. 81.1 CE, son leyes orgánicas las relativas, entre otras materias:",
+    "opciones": [
+      "A cualquier reglamento ejecutivo aprobado por el Gobierno",
+      "Al desarrollo de los derechos fundamentales y de las libertades públicas",
+      "A todos los tributos estatales y locales",
+      "A la aprobación inicial de ordenanzas municipales"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 81 CE",
+    "explicación": "El art. 81.1 CE conecta la ley orgánica con derechos fundamentales, estatutos, régimen electoral general y demás supuestos constitucionales."
   }
 ]

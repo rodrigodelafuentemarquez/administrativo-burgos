@@ -306,5 +306,19 @@
     "correcta": 0,
     "explicacion": "El régimen de incompatibilidades exige autorización o reconocimiento de compatibilidad en los supuestos legalmente previstos.",
     "referencia": "Tema III.4, régimen de incompatibilidades"
+  },
+  {
+    "id": "realstyle-iii04-01",
+    "tema": 25,
+    "pregunta": "En caso de huelga del personal al servicio de la Administración, el incumplimiento de los servicios mínimos fijados puede dar lugar a:",
+    "opciones": [
+      "Responsabilidad disciplinaria, sin perjuicio de otras responsabilidades que procedan",
+      "La pérdida automática de la condición de funcionario en todo caso",
+      "La supresión del derecho de sindicación del empleado",
+      "La convalidación retroactiva de la ausencia como vacaciones"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · servicios mínimos en huelga",
+    "explicación": "Los exámenes reales suelen formular esta materia en clave de responsabilidad por incumplimiento de servicios esenciales."
   }
 ]

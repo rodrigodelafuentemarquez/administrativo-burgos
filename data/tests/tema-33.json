@@ -432,5 +432,33 @@
     "correcta": 0,
     "explicacion": "La aplicación de límites exige ponderación, motivación y proporcionalidad.",
     "referencia": "Tema V.2, límites al derecho de acceso"
+  },
+  {
+    "id": "realstyle-v02-01",
+    "tema": 33,
+    "pregunta": "Según la Ley 19/2013, el derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
+    "opciones": [
+      "La seguridad nacional",
+      "La comodidad organizativa de la unidad administrativa",
+      "La mera existencia de trabajo pendiente",
+      "La preferencia de la Administración por no publicar expedientes"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 14 LTAIBG",
+    "explicación": "La seguridad nacional es uno de los límites expresos del art. 14 LTAIBG."
+  },
+  {
+    "id": "realstyle-v02-02",
+    "tema": 33,
+    "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno frente a una resolución en materia de acceso a la información pública tiene carácter:",
+    "opciones": [
+      "Potestativo y previo a la impugnación contencioso-administrativa",
+      "Obligatorio y posterior a la sentencia",
+      "Sustitutivo permanente de cualquier recurso judicial",
+      "Exclusivamente interno y no impugnable"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · reclamación CTBG",
+    "explicación": "La reclamación es potestativa y previa a la vía contencioso-administrativa."
   }
 ]

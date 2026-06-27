@@ -44,19 +44,19 @@
   {
     "tema": 8,
     "archivo": "tema-08.json",
-    "preguntas": 37,
+    "preguntas": 40,
     "titulo": "Tema I.8 · La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea."
   },
   {
     "tema": 9,
     "archivo": "tema-09.json",
-    "preguntas": 50,
+    "preguntas": 52,
     "titulo": "Tema I.9 · La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto."
   },
   {
     "tema": 10,
     "archivo": "tema-10.json",
-    "preguntas": 37,
+    "preguntas": 39,
     "titulo": "Tema II.1 · Las fuentes del derecho administrativo. La jerarquia de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y limites. Otras fuentes del derecho administrativo."
   },
   {
@@ -68,13 +68,13 @@
   {
     "tema": 12,
     "archivo": "tema-12.json",
-    "preguntas": 30,
+    "preguntas": 32,
     "titulo": "Tema II.3 · El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución."
   },
   {
     "tema": 13,
     "archivo": "tema-13.json",
-    "preguntas": 42,
+    "preguntas": 44,
     "titulo": "Tema II.4 · La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza."
   },
   {
@@ -92,13 +92,13 @@
   {
     "tema": 16,
     "archivo": "tema-16.json",
-    "preguntas": 52,
+    "preguntas": 55,
     "titulo": "Tema II.7 · Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos."
   },
   {
     "tema": 17,
     "archivo": "tema-17.json",
-    "preguntas": 20,
+    "preguntas": 22,
     "titulo": "Tema II.8 · La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local."
   },
   {
@@ -122,13 +122,13 @@
   {
     "tema": 21,
     "archivo": "tema-21.json",
-    "preguntas": 21,
+    "preguntas": 23,
     "titulo": "Tema II.12 · Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboración y aprobación. Los bandos."
   },
   {
     "tema": 22,
     "archivo": "tema-22.json",
-    "preguntas": 55,
+    "preguntas": 58,
     "titulo": "Tema III.1 · El personal al servicio de las entidades locales: clases y régimen jurídico. Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna."
   },
   {
@@ -146,7 +146,7 @@
   {
     "tema": 25,
     "archivo": "tema-25.json",
-    "preguntas": 22,
+    "preguntas": 23,
     "titulo": "Tema III.4 · El derecho de sindicación y de huelga. Régimen de incompatibilidades."
   },
   {
@@ -194,7 +194,7 @@
   {
     "tema": 33,
     "archivo": "tema-33.json",
-    "preguntas": 31,
+    "preguntas": 33,
     "titulo": "Tema V.2 · La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Publica y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública."
   },
   {
@@ -224,7 +224,7 @@
   {
     "tema": 38,
     "archivo": "tema-38.json",
-    "preguntas": 26,
+    "preguntas": 28,
     "titulo": "Tema V.7 · Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público."
   },
   {
@@ -242,13 +242,13 @@
   {
     "tema": 41,
     "archivo": "tema-41.json",
-    "preguntas": 27,
+    "preguntas": 29,
     "titulo": "Tema V.10 · Sistemas ofimaticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de calculo: Excel para Microsoft 365. Funciones y utilidades."
   },
   {
     "tema": 42,
     "archivo": "tema-42.json",
-    "preguntas": 27,
+    "preguntas": 29,
     "titulo": "Tema V.11 · Correo electrónico: conceptos elementales y funcionamiento. La red Internet: conceptos elementales y servicios."
   }
 ]

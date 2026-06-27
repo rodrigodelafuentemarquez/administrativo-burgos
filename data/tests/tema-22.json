@@ -768,5 +768,47 @@
     "correcta": 0,
     "explicacion": "Los trienios ya devengados se siguen percibiendo aunque el funcionario pase a prestar servicios en cuerpos o escalas de distinto grupo.",
     "referencia": "Examen Estado 2026, retribuciones; Tema III.1, derechos retributivos"
+  },
+  {
+    "id": "realstyle-iii01-01",
+    "tema": 22,
+    "pregunta": "Según el art. 37 TREBEP, serán objeto de negociación colectiva, entre otras materias:",
+    "opciones": [
+      "Los criterios generales sobre ofertas de empleo público",
+      "La potestad de autoorganización cuando no afecte a condiciones de trabajo",
+      "La regulación del ejercicio de los derechos de los ciudadanos ante funcionarios",
+      "La determinación concreta de cada sanción disciplinaria ya impuesta"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 37 TREBEP",
+    "explicación": "Los criterios generales en materia de OEP figuran entre las materias negociables."
+  },
+  {
+    "id": "realstyle-iii01-02",
+    "tema": 22,
+    "pregunta": "Conforme al art. 52 TREBEP, el código de conducta de los empleados públicos está configurado por:",
+    "opciones": [
+      "Principios éticos y principios de conducta",
+      "Solo incompatibilidades económicas",
+      "Únicamente deberes penales",
+      "Reglas de protocolo institucional sin efectos jurídicos"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 52 TREBEP",
+    "explicación": "El código de conducta integra principios éticos y de conducta, desarrollados en los arts. 53 y 54 TREBEP."
+  },
+  {
+    "id": "realstyle-iii01-03",
+    "tema": 22,
+    "pregunta": "En empleo público, indique cuál de las siguientes afirmaciones se ajusta mejor al art. 10 TREBEP sobre funcionarios interinos:",
+    "opciones": [
+      "Son nombrados por razones expresamente justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera",
+      "Pueden ser nombrados libremente para cualquier función directiva sin límite causal",
+      "Solo pueden existir en la Administración General del Estado",
+      "Tienen la condición de funcionarios de carrera desde el nombramiento"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 10 TREBEP",
+    "explicación": "El nombramiento interino exige razones justificadas de necesidad y urgencia y supuestos tasados."
   }
 ]

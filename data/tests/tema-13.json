@@ -586,5 +586,33 @@
     "correcta": 0,
     "explicacion": "Frente a actos que ponen fin a la vía administrativa cabe reposición potestativa o acudir directamente a la jurisdicción contencioso-administrativa.",
     "referencia": "Tema II.4, recurso de reposición"
+  },
+  {
+    "id": "realstyle-ii04-01",
+    "tema": 13,
+    "pregunta": "Según la LJCA, cuando el recurso contencioso-administrativo se interponga contra una disposición general, el plazo ordinario será de:",
+    "opciones": [
+      "Un mes desde la publicación",
+      "Dos meses desde el día siguiente a la publicación",
+      "Tres meses desde la firmeza en vía administrativa",
+      "Seis meses desde la notificación individual"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 46 LJCA",
+    "explicación": "La impugnación directa de disposiciones generales se formula, con carácter general, en dos meses desde la publicación."
+  },
+  {
+    "id": "realstyle-ii04-02",
+    "tema": 13,
+    "pregunta": "De acuerdo con el art. 109 LPACAP, las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
+    "opciones": [
+      "Siempre que la revocación no constituya dispensa no permitida por las leyes ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
+      "Solo si previamente los declara lesivos para el interés público",
+      "Únicamente dentro del plazo de diez días desde la notificación",
+      "Aunque la revocación sea contraria al ordenamiento, si favorece al interesado"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 109 LPACAP",
+    "explicación": "La revocación de actos desfavorables tiene límites materiales expresos."
   }
 ]
