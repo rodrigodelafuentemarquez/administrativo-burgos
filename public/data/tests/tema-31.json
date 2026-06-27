@@ -1,7 +1,7 @@
 [
   {
     "id": "topup-31-06",
-    "pregunta": "El suelo urbano se caracteriza porque:",
+    "pregunta": "En urbanismo, el suelo urbano se caracteriza porque:",
     "opciones": [
       "cuenta con servicios y un grado de consolidación urbanística",
       "siempre esta protegido por valores agrarios",
@@ -15,7 +15,7 @@
   },
   {
     "id": "topup-31-07",
-    "pregunta": "El suelo urbanizable es aquel que:",
+    "pregunta": "En urbanismo, el suelo urbanizable es aquel que:",
     "opciones": [
       "puede transformarse mediante planeamiento y gestión",
       "queda siempre excluido de cualquier actuación",
@@ -29,7 +29,7 @@
   },
   {
     "id": "topup-31-08",
-    "pregunta": "El suelo rustico o no urbanizable se preserva por razones como:",
+    "pregunta": "En urbanismo, el suelo rústico o no urbanizable se preserva por razones como:",
     "opciones": [
       "valores ambientales, agrarios o paisajisticos",
       "votaciones plenarias fallidas",
@@ -57,7 +57,7 @@
   },
   {
     "id": "topup-31-10",
-    "pregunta": "La intervención administrativa en la edificación puede realizarse mediante:",
+    "pregunta": "En urbanismo, la intervención administrativa en la edificación puede realizarse mediante:",
     "opciones": [
       "licencia, declaración responsable o comunicación previa segun la normativa",
       "solo referendum vecinal",
@@ -71,7 +71,7 @@
   },
   {
     "id": "topup-31-11",
-    "pregunta": "La licencia urbanística es un acto:",
+    "pregunta": "En urbanismo, la licencia urbanística es un acto:",
     "opciones": [
       "reglado",
       "puramente discrecional",
@@ -85,7 +85,7 @@
   },
   {
     "id": "topup-31-12",
-    "pregunta": "Una licencia urbanística se otorga, como formula clasica, salvo derecho de propiedad y:",
+    "pregunta": "Una licencia urbanística se otorga, como formula clásica, salvo derecho de propiedad y:",
     "opciones": [
       "sin perjuicio de tercero",
       "con reserva de ley orgánica",
@@ -99,7 +99,7 @@
   },
   {
     "id": "topup-31-13",
-    "pregunta": "La licencia urbanística no legaliza actuaciones:",
+    "pregunta": "En urbanismo, la licencia urbanística no legaliza actuaciones:",
     "opciones": [
       "contrarias al planeamiento",
       "que cuenten con informe tecnico favorable",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-31-15",
-    "pregunta": "La restauración de la legalidad urbanística busca:",
+    "pregunta": "En urbanismo, la restauración de la legalidad urbanística busca:",
     "opciones": [
       "Reponer la realidad física alterada y restaurar el orden urbanístico infringido cuando la actuación no sea legalizable",
       "Imponer necesariamente una sanción penal privativa de libertad en todo caso",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-31-16",
-    "pregunta": "La legalización de una obra puede plantearse cuando:",
+    "pregunta": "En urbanismo, la legalización de una obra puede plantearse cuando:",
     "opciones": [
       "la actuación es compatible con el planeamiento",
       "toda obra ilegal debe demolerse sin excepción",
@@ -155,7 +155,7 @@
   },
   {
     "id": "topup-31-17",
-    "pregunta": "Las infracciones urbanísticas deben estar:",
+    "pregunta": "En urbanismo, las infracciones urbanísticas deben estar:",
     "opciones": [
       "tipificadas por la ley",
       "descritas solo en una circular interna",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-31-18",
-    "pregunta": "La responsabilidad por infracciones urbanísticas puede alcanzar, segun los casos, a:",
+    "pregunta": "La responsabilidad por infracciones urbanísticas puede alcanzar, según los casos a:",
     "opciones": [
       "promotores, propietarios, constructores o tecnicos",
       "solo al alcalde",
@@ -197,7 +197,7 @@
   },
   {
     "id": "refine-31-01",
-    "pregunta": "La clasificación del suelo determina principalmente:",
+    "pregunta": "En urbanismo, la clasificación del suelo determina principalmente:",
     "opciones": [
       "la clase jurídica de suelo a la que pertenece cada terreno",
       "el color de las fachadas del municipio",
@@ -281,7 +281,7 @@
   },
   {
     "id": "refine-31-07",
-    "pregunta": "El suelo rustico o no urbanizable se preserva, entre otras razones, por:",
+    "pregunta": "En urbanismo, el suelo rústico o no urbanizable se preserva, entre otras razones, por:",
     "opciones": [
       "valores ambientales, paisajisticos, agrarios o de protección especial",
       "la simple voluntad del promotor privado",
@@ -295,7 +295,7 @@
   },
   {
     "id": "refine-31-08",
-    "pregunta": "La legalización de una obra ejecutada sin licencia solo puede plantearse cuando:",
+    "pregunta": "En urbanismo, la legalización de una obra ejecutada sin licencia solo puede plantearse cuando:",
     "opciones": [
       "la actuación sea compatible con el planeamiento y la legalidad urbanística aplicable",
       "haya transcurrido cualquier plazo sin mas",

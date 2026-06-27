@@ -99,7 +99,7 @@
   },
   {
     "id": "topup-21-09",
-    "pregunta": "El reglamento organico municipal se refiere especialmente a:",
+    "pregunta": "En ordenanzas y reglamentos locales, el reglamento orgánico municipal se refiere especialmente a:",
     "opciones": [
       "la organización y funcionamiento internos de la entidad local",
       "los impuestos estatales",
@@ -113,7 +113,7 @@
   },
   {
     "id": "topup-21-10",
-    "pregunta": "Las ordenanzas fiscales se diferencian porque regulan:",
+    "pregunta": "En ordenanzas y reglamentos locales, las ordenanzas fiscales se diferencian porque regulan:",
     "opciones": [
       "tributos y otros ingresos de Derecho público en el ámbito local",
       "la organización del Pleno",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-21-15",
-    "pregunta": "El contenido de los reglamentos locales puede referirse a:",
+    "pregunta": "En ordenanzas y reglamentos locales, el contenido de los reglamentos locales puede referirse a:",
     "opciones": [
       "organización, funcionamiento o materias de competencia local",
       "tipificar delitos",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-21-18",
-    "pregunta": "La impugnación de una ordenanza o reglamento local aprobado definitivamente se dirige normalmente a la via:",
+    "pregunta": "La impugnación de una ordenanza o reglamento local aprobado definitivamente se dirige normalmente a la vía:",
     "opciones": [
       "contencioso-administrativa",
       "penal ordinaria",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-21-03",
-    "pregunta": "El reglamento organico municipal se orienta principalmente a regular:",
+    "pregunta": "El reglamento orgánico municipal se orienta principalmente a regular:",
     "opciones": [
       "la organización y el funcionamiento interno de la corporación",
       "la estructura del IRPF",

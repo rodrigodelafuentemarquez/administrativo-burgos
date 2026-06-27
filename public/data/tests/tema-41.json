@@ -2,7 +2,7 @@
   {
     "id": "t38-p001",
     "tema": 41,
-    "pregunta": "Word 365 es:",
+    "pregunta": "En ofimática Microsoft 365, Word 365 es:",
     "opciones": [
       "un procesador de texto",
       "una base de datos relacional",
@@ -16,7 +16,7 @@
   {
     "id": "t38-p002",
     "tema": 41,
-    "pregunta": "En la interfaz de Word aparece la:",
+    "pregunta": "En ofimática Microsoft 365, en la interfaz de Word aparece la:",
     "opciones": [
       "cinta de opciones (Ribbon)",
       "barra de direcciones",
@@ -30,7 +30,7 @@
   {
     "id": "t38-p003",
     "tema": 41,
-    "pregunta": "Un estilo de Word es:",
+    "pregunta": "En ofimática Microsoft 365, un estilo de Word es:",
     "opciones": [
       "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
       "una tabla dinámica",
@@ -44,7 +44,7 @@
   {
     "id": "t38-p004",
     "tema": 41,
-    "pregunta": "La tabla de contenido se genera automáticamente a partir de:",
+    "pregunta": "En ofimática Microsoft 365, la tabla de contenido se genera automáticamente a partir de:",
     "opciones": [
       "los estilos de Título aplicados al documento",
       "las notas al pie",
@@ -58,7 +58,7 @@
   {
     "id": "t38-p005",
     "tema": 41,
-    "pregunta": "El seguimiento de cambios sirve para:",
+    "pregunta": "En ofimática Microsoft 365, el seguimiento de cambios sirve para:",
     "opciones": [
       "registrar todas las modificaciones del documento",
       "eliminar automáticamente errores",
@@ -72,7 +72,7 @@
   {
     "id": "t38-p006",
     "tema": 41,
-    "pregunta": "Combinar correspondencia permite generar:",
+    "pregunta": "En ofimática Microsoft 365, combinar correspondencia permite generar:",
     "opciones": [
       "Documentos personalizados en serie a partir de un documento principal y una fuente de datos",
       "Gráficos dinámicos vinculados a una hoja de cálculo externa",
@@ -86,7 +86,7 @@
   {
     "id": "t38-p007",
     "tema": 41,
-    "pregunta": "Un formato de guardado de Word es:",
+    "pregunta": "En ofimática Microsoft 365, un formato de guardado de Word es:",
     "opciones": [
       ".docx",
       ".mdb",
@@ -100,7 +100,7 @@
   {
     "id": "t38-p008",
     "tema": 41,
-    "pregunta": "La impresión de documentos se gestiona desde:",
+    "pregunta": "En ofimática Microsoft 365, la impresión de documentos se gestiona desde:",
     "opciones": [
       "Archivo → Imprimir",
       "Insertar → Tabla",
@@ -114,7 +114,7 @@
   {
     "id": "t38-p009",
     "tema": 41,
-    "pregunta": "Las opciones de Word se encuentran en:",
+    "pregunta": "En ofimática Microsoft 365, las opciones de Word se encuentran en:",
     "opciones": [
       "Archivo → Opciones",
       "Inicio → Nuevo",
@@ -128,7 +128,7 @@
   {
     "id": "t38-p010",
     "tema": 41,
-    "pregunta": "Excel 365 es una aplicación de:",
+    "pregunta": "En ofimática Microsoft 365, Excel 365 es una aplicación de:",
     "opciones": [
       "una hoja de cálculo",
       "un procesador de texto",
@@ -142,7 +142,7 @@
   {
     "id": "t38-p011",
     "tema": 41,
-    "pregunta": "El libro de Excel está compuesto por:",
+    "pregunta": "En ofimática Microsoft 365, el libro de Excel está compuesto por:",
     "opciones": [
       "hojas de cálculo",
       "párrafos",
@@ -156,7 +156,7 @@
   {
     "id": "t38-p012",
     "tema": 41,
-    "pregunta": "Una referencia relativa en Excel:",
+    "pregunta": "En ofimática Microsoft 365, una referencia relativa en Excel:",
     "opciones": [
       "se ajusta al copiar una fórmula",
       "permanece fija siempre",
@@ -170,7 +170,7 @@
   {
     "id": "t38-p013",
     "tema": 41,
-    "pregunta": "Una función principal de Excel es:",
+    "pregunta": "En ofimática Microsoft 365, una función principal de Excel es:",
     "opciones": [
       "SUMA",
       "CERTIFICADO",
@@ -184,7 +184,7 @@
   {
     "id": "t38-p014",
     "tema": 41,
-    "pregunta": "Los gráficos en Excel sirven para:",
+    "pregunta": "En ofimática Microsoft 365, los gráficos en Excel sirven para:",
     "opciones": [
       "representar visualmente datos",
       "firmar documentos",
@@ -198,7 +198,7 @@
   {
     "id": "t38-p015",
     "tema": 41,
-    "pregunta": "Las tablas dinámicas se estudian dentro de:",
+    "pregunta": "En ofimática Microsoft 365, las tablas dinámicas se estudian dentro de:",
     "opciones": [
       "gestión de datos en Excel",
       "gestión de correo",
@@ -254,7 +254,7 @@
   {
     "id": "t38-p019",
     "tema": 41,
-    "pregunta": "Una referencia absoluta en Excel se representa como:",
+    "pregunta": "En ofimática Microsoft 365, una referencia absoluta en Excel se representa como:",
     "opciones": [
       "$A$1",
       "A1",
@@ -268,7 +268,7 @@
   {
     "id": "t38-p020",
     "tema": 41,
-    "pregunta": "BUSCARX se caracteriza por ser:",
+    "pregunta": "En ofimática Microsoft 365, BUSCARX se caracteriza por ser:",
     "opciones": [
       "una versión moderna y más flexible de BUSCARV",
       "una función exclusiva para insertar gráficos",
@@ -296,7 +296,7 @@
   {
     "id": "estado2026-extra-t41-01",
     "tema": 41,
-    "pregunta": "La función Transcribir de Word 365 permite:",
+    "pregunta": "En ofimática Microsoft 365, la función Transcribir de Word 365 permite:",
     "opciones": [
       "Transcribir voz grabando directamente en Word o cargando un archivo de audio",
       "Traducir hojas de cálculo automáticamente",
@@ -310,7 +310,7 @@
   {
     "id": "estado2026-extra-t41-02",
     "tema": 41,
-    "pregunta": "Para imprimir un documento Word sin marcas de revisión sin aceptar los cambios, debe:",
+    "pregunta": "Para imprimir un documento Word sin marcas de revisión sin aceptar los cambios debe:",
     "opciones": [
       "Desmarcar la opción de imprimir documento con revisiones en la configuración de impresión",
       "Aceptar todos los cambios obligatoriamente",
@@ -352,7 +352,7 @@
   {
     "id": "estado2026-extra-t41-05",
     "tema": 41,
-    "pregunta": "¿Cuál es un ejemplo de rango discontinuo en Excel?",
+    "pregunta": "En ofimática Microsoft 365, ¿cuál es un ejemplo de rango discontinuo en Excel?",
     "opciones": [
       "B2:C2;B4:C4",
       "B2:C4",
@@ -366,7 +366,7 @@
   {
     "id": "estado2026-extra-t41-06",
     "tema": 41,
-    "pregunta": "¿Qué función de Excel invierte el valor lógico de su argumento?",
+    "pregunta": "En ofimática Microsoft 365, ¿qué función de Excel invierte el valor lógico de su argumento?",
     "opciones": [
       "NO",
       "ESLOGICO",

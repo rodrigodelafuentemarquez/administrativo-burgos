@@ -1,7 +1,7 @@
 [
   {
     "id": "topup-27-03",
-    "pregunta": "Entre los impuestos municipales obligatorios se encuentra el:",
+    "pregunta": "En tributos locales, entre los impuestos municipales obligatorios se encuentra el:",
     "opciones": [
       "IBI",
       "ICIO",
@@ -15,7 +15,7 @@
   },
   {
     "id": "topup-27-07",
-    "pregunta": "Las tasas se exigen, entre otros supuestos, por:",
+    "pregunta": "En tributos locales, las tasas se exigen, entre otros supuestos, por:",
     "opciones": [
       "uso privativo o aprovechamiento especial del dominio público local",
       "la mera titularidad de un inmueble urbano",
@@ -29,7 +29,7 @@
   },
   {
     "id": "topup-27-08",
-    "pregunta": "Las contribuciones especiales financian obras o servicios que producen:",
+    "pregunta": "En tributos locales, las contribuciones especiales financian obras o servicios que producen:",
     "opciones": [
       "beneficio especial o aumento de valor",
       "solo un gasto corriente indiferenciado",
@@ -43,7 +43,7 @@
   },
   {
     "id": "topup-27-10",
-    "pregunta": "La potestad reglamentaria tributaria local se ejerce mediante:",
+    "pregunta": "En tributos locales, la potestad reglamentaria tributaria local se ejerce mediante:",
     "opciones": [
       "ordenanzas fiscales",
       "sentencias del Tribunal de Cuentas",
@@ -57,7 +57,7 @@
   },
   {
     "id": "topup-27-11",
-    "pregunta": "Las entidades locales pueden crear libremente nuevos tributos?",
+    "pregunta": "En tributos locales, ¿las entidades locales pueden crear libremente nuevos tributos?",
     "opciones": [
       "No, solo establecer y ordenar los previstos por la ley",
       "Si, sin limite alguno",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-27-16",
-    "pregunta": "La imposición de un tributo potestativo local significa:",
+    "pregunta": "En tributos locales, la imposición de un tributo potestativo local significa:",
     "opciones": [
       "decidir establecerlo",
       "aprobar una sanción tributaria",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-27-17",
-    "pregunta": "La ordenación del tributo consiste en:",
+    "pregunta": "En tributos locales, la ordenación del tributo consiste en:",
     "opciones": [
       "Concretar los elementos del tributo local mediante la correspondiente ordenanza fiscal",
       "Aprobar el padrón o matrícula de contribuyentes de cada ejercicio",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-27-19",
-    "pregunta": "Un recibo, liquidación o providencia de apremio se combate normalmente como:",
+    "pregunta": "En tributos locales, un recibo, liquidación o providencia de apremio se combate normalmente como:",
     "opciones": [
       "acto administrativo tributario concreto",
       "reforma constitucional",
@@ -197,7 +197,7 @@
   },
   {
     "id": "refine-27-01",
-    "pregunta": "Entre los impuestos municipales de exacción obligatoria se encuentran:",
+    "pregunta": "En tributos locales, entre los impuestos municipales de exacción obligatoria se encuentran:",
     "opciones": [
       "IBI, IAE e IVTM",
       "ICIO, IIVTNU e IAE",
@@ -295,7 +295,7 @@
   },
   {
     "id": "refine-27-08",
-    "pregunta": "En un municipio de gran población, determinados actos de gestión tributaria municipal pueden ser revisados en via económico-administrativa ante:",
+    "pregunta": "En un municipio de gran población, determinados actos de gestión tributaria municipal pueden ser revisados en vía económico-administrativa ante:",
     "opciones": [
       "el Tribunal Economico-Administrativo Municipal",
       "el Pleno en sesión ordinaria",

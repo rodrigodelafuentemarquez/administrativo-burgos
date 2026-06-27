@@ -44,7 +44,7 @@
   {
     "id": "t13-p001",
     "tema": 4,
-    "pregunta": "En el Estado autonómico español existe:",
+    "pregunta": "En la organización administrativa del Estado autonómico español existe:",
     "opciones": [
       "una única Administración Pública",
       "una pluralidad de Administraciones Públicas",
@@ -72,7 +72,7 @@
   {
     "id": "t13-p003",
     "tema": 4,
-    "pregunta": "La jerarquía opera:",
+    "pregunta": "En la organización administrativa, la jerarquía opera:",
     "opciones": [
       "entre Administraciones distintas",
       "dentro de una misma Administración y de una misma línea orgánica",
@@ -100,7 +100,7 @@
   {
     "id": "t13-p005",
     "tema": 4,
-    "pregunta": "La desconcentración supone transferencia de competencias:",
+    "pregunta": "En la organización administrativa, la desconcentración supone transferencia de competencias:",
     "opciones": [
       "desde un órgano superior a otro inferior de la misma persona jurídica",
       "del Estado a una Comunidad Autónoma",
@@ -128,7 +128,7 @@
   {
     "id": "t13-p007",
     "tema": 4,
-    "pregunta": "Una unidad administrativa:",
+    "pregunta": "En la organización administrativa, una unidad administrativa:",
     "opciones": [
       "tiene competencia propia atribuida por norma",
       "es una estructura de apoyo sin competencia propia atribuida por norma",
@@ -142,7 +142,7 @@
   {
     "id": "t13-p008",
     "tema": 4,
-    "pregunta": "La competencia administrativa es:",
+    "pregunta": "En la organización administrativa, la competencia administrativa es:",
     "opciones": [
       "el conjunto de facultades y potestades atribuidas a un órgano",
       "una capacidad moral del funcionario",
@@ -156,7 +156,7 @@
   {
     "id": "t13-p009",
     "tema": 4,
-    "pregunta": "La competencia es:",
+    "pregunta": "En la organización administrativa, la competencia es:",
     "opciones": [
       "renunciable por el órgano",
       "irrenunciable e improrrogable",
@@ -184,7 +184,7 @@
   {
     "id": "t13-p011",
     "tema": 4,
-    "pregunta": "La encomienda de gestión:",
+    "pregunta": "En la organización administrativa, la encomienda de gestión:",
     "opciones": [
       "Supone la cesión de la titularidad de la competencia y de su ejercicio al órgano encomendado",
       "Permite encargar actividades materiales, técnicas o de servicios sin cesión de la titularidad ni de los elementos sustantivos del ejercicio de la competencia",
@@ -198,7 +198,7 @@
   {
     "id": "t13-p012",
     "tema": 4,
-    "pregunta": "¿Qué control judicial prevé el en relación con la Administración?",
+    "pregunta": "Según el art. 106 CE, ¿qué control judicial se prevé en relación con la Administración?",
     "opciones": [
       "Tribunales contencioso-administrativos",
       "Tribunales militares",
@@ -212,7 +212,7 @@
   {
     "id": "t13-p013",
     "tema": 4,
-    "pregunta": "La autotutela administrativa está sometida a:",
+    "pregunta": "En la organización administrativa, la autotutela administrativa está sometida a:",
     "opciones": [
       "los principios de proporcionalidad y necesidad",
       "la voluntad de los particulares",
@@ -240,7 +240,7 @@
   {
     "id": "t13-p015",
     "tema": 4,
-    "pregunta": "Los principios adicionales del art. 3 LRJSP incluyen:",
+    "pregunta": "En la organización administrativa, los principios adicionales del art. 3 LRJSP incluyen:",
     "opciones": [
       "servicio efectivo a los ciudadanos, buena fe y confianza legítima, proporcionalidad y sostenibilidad",
       "solo jerarquía y descentralización",
@@ -254,7 +254,7 @@
   {
     "id": "t13-p016",
     "tema": 4,
-    "pregunta": "De acuerdo con el art. 103.1 CE, la Administración Publica actua de acuerdo con los principios de:",
+    "pregunta": "De acuerdo con el art. 103.1 CE, la Administración Pública actúa de acuerdo con los principios de:",
     "opciones": [
       "Eficacia, jerarquia, descentralización, desconcentración y coordinación",
       "Publicidad, irretroactividad, seguridad jurídica y responsabilidad",
@@ -267,7 +267,7 @@
   },
   {
     "id": "topup-04-01",
-    "pregunta": "La Administración pública sirve con objetividad los intereses generales y actua de acuerdo con los principios del artículo 103 CE, entre ellos:",
+    "pregunta": "La Administración pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios del artículo 103 CE, entre ellos:",
     "opciones": [
       "jerarquia, descentralización y coordinación",
       "discrecionalidad absoluta y reserva de actuación",
@@ -324,7 +324,7 @@
   {
     "id": "burgos-i04-hard-04",
     "tema": 4,
-    "pregunta": "¿Qué control prevé el art. 106 CE sobre la Administración?",
+    "pregunta": "Según el art. 106 CE, ¿qué control prevé sobre la Administración?",
     "opciones": [
       "Control judicial de la potestad reglamentaria y de la legalidad de la actuación administrativa",
       "Control exclusivo del Gobierno sobre los jueces",

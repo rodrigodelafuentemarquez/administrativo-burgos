@@ -1,7 +1,7 @@
 [
   {
     "id": "topup-19-04",
-    "pregunta": "La actividad económica pública implica:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la actividad económica pública implica:",
     "opciones": [
       "intervención en el mercado o gestión de actividades empresariales públicas",
       "función jurisdiccional",
@@ -15,7 +15,7 @@
   },
   {
     "id": "topup-19-06",
-    "pregunta": "Una piscina municipal abierta al público se encuadra principalmente como:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, una piscina municipal abierta al público se encuadra principalmente como:",
     "opciones": [
       "servicio público",
       "acto legislativo",
@@ -29,7 +29,7 @@
   },
   {
     "id": "topup-19-07",
-    "pregunta": "Entre las notas clasicas del servicio público figura la:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, entre las notas clásicas del servicio público figura la:",
     "opciones": [
       "continuidad",
       "reserva judicial",
@@ -43,7 +43,7 @@
   },
   {
     "id": "topup-19-08",
-    "pregunta": "La regularidad del servicio público significa que debe prestarse:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la regularidad del servicio público significa que debe prestarse:",
     "opciones": [
       "conforme a reglas y condiciones preestablecidas",
       "solo cuando lo pida la mayoría absoluta del Pleno",
@@ -57,7 +57,7 @@
   },
   {
     "id": "topup-19-09",
-    "pregunta": "La igualdad en el acceso al servicio público implica:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la igualdad en el acceso al servicio público implica:",
     "opciones": [
       "trato equivalente a usuarios en situación equivalente",
       "gratuidad obligatoria en todos los casos",
@@ -71,7 +71,7 @@
   },
   {
     "id": "topup-19-10",
-    "pregunta": "La adaptabilidad del servicio público supone que:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la adaptabilidad del servicio público supone que:",
     "opciones": [
       "puede modificarse para responder a nuevas necesidades públicas",
       "queda congelado para siempre en su forma inicial",
@@ -85,7 +85,7 @@
   },
   {
     "id": "topup-19-11",
-    "pregunta": "En la gestión directa de un servicio público:",
+    "pregunta": "En las formas de gestión del servicio público, en la gestión directa:",
     "opciones": [
       "el Ayuntamiento lo presta con medios propios",
       "siempre existe concesionario privado",
@@ -99,7 +99,7 @@
   },
   {
     "id": "topup-19-12",
-    "pregunta": "La concesión de servicios se caracteriza porque:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la concesión de servicios se caracteriza porque:",
     "opciones": [
       "el contratista asume la explotación bajo riesgo operacional",
       "el Pleno renuncia a toda potestad de control",
@@ -113,7 +113,7 @@
   },
   {
     "id": "topup-19-14",
-    "pregunta": "La elección de la forma de gestión de un servicio debe justificarse por criterios de:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la elección de la forma de gestión de un servicio debe justificarse por criterios de:",
     "opciones": [
       "eficacia, sostenibilidad, coste y calidad",
       "afinidad política exclusiva",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-19-15",
-    "pregunta": "La remunicipalización consiste en:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la remunicipalización consiste en:",
     "opciones": [
       "recuperar para gestión pública un servicio antes gestionado indirectamente",
       "crear una nueva provincia",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-19-16",
-    "pregunta": "La remunicipalización debe respetar, entre otras cuestiones:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la remunicipalización debe respetar, entre otras cuestiones:",
     "opciones": [
       "contratos vigentes, personal y sostenibilidad financiera",
       "solo el criterio del concejal delegado",
@@ -183,7 +183,7 @@
   },
   {
     "id": "topup-19-19",
-    "pregunta": "Un riesgo de baja calidad en la gestión del servicio puede afrontarse mediante:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, un riesgo de baja calidad en la gestión del servicio puede afrontarse mediante:",
     "opciones": [
       "indicadores, inspecciones y penalidades",
       "desaparición del control municipal",
@@ -239,7 +239,7 @@
   },
   {
     "id": "refine-19-04",
-    "pregunta": "La remunicipalización de un servicio público no permite, por si sola:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la remunicipalización de un servicio público no permite, por si sola:",
     "opciones": [
       "ignorar contratos vigentes, personal afectado y sostenibilidad financiera",
       "recuperar la gestión pública del servicio",
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-19-06",
-    "pregunta": "Cuándo el Ayuntamiento elige una forma de gestión de un servicio, no actua con libertad absoluta porque debe atender, entre otros, a criterios de:",
+    "pregunta": "Cuando el Ayuntamiento elige una forma de gestión de un servicio, no actúa con libertad absoluta porque debe atender, entre otros, a criterios de:",
     "opciones": [
       "eficacia, coste, calidad, control y sostenibilidad",
       "afinidad política del futuro gestor",
@@ -281,7 +281,7 @@
   },
   {
     "id": "refine-19-07",
-    "pregunta": "Una nota clasica del servicio público es la continuidad, lo que implica que su prestación:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, una nota clásica del servicio público es la continuidad, lo que implica que su prestación:",
     "opciones": [
       "no puede interrumpirse arbitrariamente si afecta a necesidades colectivas",
       "debe cesar en vacaciones salvo acuerdo contrario",

@@ -2,7 +2,7 @@
   {
     "id": "t36-p001",
     "tema": 40,
-    "pregunta": "La informática es:",
+    "pregunta": "En informática básica y Windows 11, la informática es:",
     "opciones": [
       "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
       "el conjunto de normas de archivo",
@@ -16,7 +16,7 @@
   {
     "id": "t36-p002",
     "tema": 40,
-    "pregunta": "Una característica fundamental del ordenador es la:",
+    "pregunta": "En informática básica y Windows 11, una característica fundamental del ordenador es la:",
     "opciones": [
       "velocidad",
       "inalienabilidad",
@@ -44,7 +44,7 @@
   {
     "id": "t36-p004",
     "tema": 40,
-    "pregunta": "La CPU es:",
+    "pregunta": "En informática básica y Windows 11, la CPU es:",
     "opciones": [
       "el cerebro del ordenador",
       "la unidad de respaldo externo",
@@ -58,7 +58,7 @@
   {
     "id": "t36-p005",
     "tema": 40,
-    "pregunta": "La RAM es una memoria:",
+    "pregunta": "En informática básica y Windows 11, la RAM es una memoria:",
     "opciones": [
       "volátil",
       "permanente",
@@ -72,7 +72,7 @@
   {
     "id": "t36-p006",
     "tema": 40,
-    "pregunta": "La ROM alberga el firmware del sistema, en particular:",
+    "pregunta": "En informática básica y Windows 11, la ROM alberga el firmware del sistema, en particular:",
     "opciones": [
       "la BIOS o la UEFI",
       "el navegador web",
@@ -86,7 +86,7 @@
   {
     "id": "t36-p007",
     "tema": 40,
-    "pregunta": "La placa base incorpora el:",
+    "pregunta": "En informática básica y Windows 11, la placa base incorpora el:",
     "opciones": [
       "chipset",
       "Panel de control",
@@ -100,7 +100,7 @@
   {
     "id": "t36-p008",
     "tema": 40,
-    "pregunta": "La GPU es el componente responsable del:",
+    "pregunta": "En informática básica y Windows 11, la GPU es el componente responsable del:",
     "opciones": [
       "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
       "almacenamiento masivo de archivos",
@@ -114,7 +114,7 @@
   {
     "id": "t36-p009",
     "tema": 40,
-    "pregunta": "Los periféricos de entrada permiten:",
+    "pregunta": "En informática básica y Windows 11, los periféricos de entrada permiten:",
     "opciones": [
       "introducir datos o instrucciones en el ordenador",
       "solo mostrar imágenes",
@@ -128,7 +128,7 @@
   {
     "id": "t36-p010",
     "tema": 40,
-    "pregunta": "El bus de datos:",
+    "pregunta": "En informática básica y Windows 11, el bus de datos:",
     "opciones": [
       "transporta los datos entre CPU, memoria y periféricos",
       "define los permisos de usuario",
@@ -142,7 +142,7 @@
   {
     "id": "t36-p011",
     "tema": 40,
-    "pregunta": "El software de sistema incluye:",
+    "pregunta": "En informática básica y Windows 11, el software de sistema incluye:",
     "opciones": [
       "el sistema operativo y los controladores",
       "solo los documentos PDF",
@@ -156,7 +156,7 @@
   {
     "id": "t36-p012",
     "tema": 40,
-    "pregunta": "El software libre permite:",
+    "pregunta": "En informática básica y Windows 11, el software libre permite:",
     "opciones": [
       "usar, copiar, distribuir, estudiar y modificar el software",
       "solo usarlo sin copiar",
@@ -170,7 +170,7 @@
   {
     "id": "t36-p013",
     "tema": 40,
-    "pregunta": "Un sistema operativo es:",
+    "pregunta": "En informática básica y Windows 11, un sistema operativo es:",
     "opciones": [
       "El software básico que gestiona los recursos del hardware y permite la ejecución de programas y aplicaciones",
       "Un dispositivo periférico destinado exclusivamente a la salida de datos",
@@ -184,7 +184,7 @@
   {
     "id": "t36-p014",
     "tema": 40,
-    "pregunta": "El Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de:",
+    "pregunta": "En informática básica y Windows 11, el Esquema Nacional de Seguridad (ENS) es la referencia normativa en materia de:",
     "opciones": [
       "seguridad informática en el sector público",
       "contabilidad local",
@@ -198,7 +198,7 @@
   {
     "id": "t36-p015",
     "tema": 40,
-    "pregunta": "Los dispositivos IoT son:",
+    "pregunta": "En informática básica y Windows 11, los dispositivos IoT son:",
     "opciones": [
       "objetos cotidianos con capacidad de conexión y procesamiento",
       "solo servidores de alta gama",
@@ -212,7 +212,7 @@
   {
     "id": "t36-p016",
     "tema": 40,
-    "pregunta": "La interfaz gráfica de usuario (GUI) se caracteriza por:",
+    "pregunta": "En informática básica y Windows 11, la interfaz gráfica de usuario (GUI) se caracteriza por:",
     "opciones": [
       "permitir la interacción mediante ventanas, iconos, menús y ratón",
       "exigir exclusivamente el uso de comandos de texto",
@@ -226,7 +226,7 @@
   {
     "id": "t36-p017",
     "tema": 40,
-    "pregunta": "Windows 11 requiere hardware compatible con:",
+    "pregunta": "En informática básica y Windows 11, Windows 11 requiere hardware compatible con:",
     "opciones": [
       "TPM 2.0 y arranque seguro (Secure Boot)",
       "lectora Blu-ray y puerto VGA",
@@ -240,7 +240,7 @@
   {
     "id": "t36-p018",
     "tema": 40,
-    "pregunta": "La memoria virtual consiste en:",
+    "pregunta": "En informática básica y Windows 11, la memoria virtual consiste en:",
     "opciones": [
       "utilizar parte del disco como extensión de la RAM",
       "reservar una zona de la ROM para ejecutar aplicaciones",
@@ -254,7 +254,7 @@
   {
     "id": "t36-p019",
     "tema": 40,
-    "pregunta": "Una característica propia de los SSD frente a los HDD es que:",
+    "pregunta": "En informática básica y Windows 11, una característica propia de los SSD frente a los HDD es que:",
     "opciones": [
       "no tienen partes móviles",
       "solo pueden usarse como almacenamiento externo",
@@ -282,7 +282,7 @@
   {
     "id": "t36-p021",
     "tema": 40,
-    "pregunta": "¿Cuál de las siguientes definiciones corresponde a un procesador?",
+    "pregunta": "En informática básica y Windows 11, ¿cuál de las siguientes definiciones corresponde a un procesador?",
     "opciones": [
       "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
       "Unidad de información compuesta generalmente de ocho bits",
@@ -324,7 +324,7 @@
   {
     "id": "t37-p001",
     "tema": 40,
-    "pregunta": "Windows 11 es:",
+    "pregunta": "En informática básica y Windows 11, Windows 11 es:",
     "opciones": [
       "la versión de referencia actual del sistema operativo de escritorio de Microsoft",
       "un navegador web",
@@ -338,7 +338,7 @@
   {
     "id": "t37-p002",
     "tema": 40,
-    "pregunta": "Windows 11 requiere hardware compatible con:",
+    "pregunta": "En informática básica y Windows 11, Windows 11 requiere hardware compatible con:",
     "opciones": [
       "TPM 2.0 y Secure Boot",
       "solo Wi-Fi 6",
@@ -352,7 +352,7 @@
   {
     "id": "t37-p003",
     "tema": 40,
-    "pregunta": "Una edición de Windows 11 es:",
+    "pregunta": "En informática básica y Windows 11, una edición de Windows 11 es:",
     "opciones": [
       "Enterprise",
       "Writer",
@@ -366,7 +366,7 @@
   {
     "id": "t37-p004",
     "tema": 40,
-    "pregunta": "Una novedad de Windows 11 respecto a Windows 10 es:",
+    "pregunta": "En informática básica y Windows 11, una novedad de Windows 11 respecto a Windows 10 es:",
     "opciones": [
       "Snap Layouts",
       "la eliminación total del escritorio",
@@ -380,7 +380,7 @@
   {
     "id": "t37-p005",
     "tema": 40,
-    "pregunta": "La barra de tareas, contiene entre otros:",
+    "pregunta": "En informática básica y Windows 11, la barra de tareas contiene entre otros:",
     "opciones": [
       "el botón Inicio, iconos anclados y el área de notificación",
       "solo el Explorador de archivos",
@@ -394,7 +394,7 @@
   {
     "id": "t37-p006",
     "tema": 40,
-    "pregunta": "Los accesos directos del escritorio se identifican porque:",
+    "pregunta": "En informática básica y Windows 11, los accesos directos del escritorio se identifican porque:",
     "opciones": [
       "llevan una pequeña flecha en la esquina inferior izquierda",
       "siempre están en rojo",
@@ -408,7 +408,7 @@
   {
     "id": "t37-p007",
     "tema": 40,
-    "pregunta": "El menú Inicio de Windows 11 muestra entre otros:",
+    "pregunta": "En informática básica y Windows 11, el menú Inicio de Windows 11 muestra entre otros:",
     "opciones": [
       "aplicaciones ancladas y recomendados",
       "solo la papelera",
@@ -422,7 +422,7 @@
   {
     "id": "t37-p008",
     "tema": 40,
-    "pregunta": "La opción Suspender del menú Inicio:",
+    "pregunta": "En informática básica y Windows 11, la opción Suspender del menú Inicio:",
     "opciones": [
       "guarda el estado de la sesión en la RAM y permite arranque rápido",
       "borra todos los documentos",
@@ -436,7 +436,7 @@
   {
     "id": "t37-p009",
     "tema": 40,
-    "pregunta": "Copilot en Windows, puede abrirse con:",
+    "pregunta": "En informática básica y Windows 11, Copilot en Windows puede abrirse con:",
     "opciones": [
       "Windows + C",
       "Ctrl + Alt + Supr",
@@ -450,7 +450,7 @@
   {
     "id": "t37-p010",
     "tema": 40,
-    "pregunta": "Un menú contextual aparece al hacer:",
+    "pregunta": "En informática básica y Windows 11, un menú contextual aparece al hacer:",
     "opciones": [
       "clic con el botón derecho del ratón",
       "doble clic izquierdo siempre",
@@ -464,7 +464,7 @@
   {
     "id": "t37-p011",
     "tema": 40,
-    "pregunta": "El Explorador de archivos sirve para:",
+    "pregunta": "En informática básica y Windows 11, el Explorador de archivos sirve para:",
     "opciones": [
       "navegar por la estructura de carpetas y archivos y gestionarlos",
       "redactar documentos de Word",
@@ -492,7 +492,7 @@
   {
     "id": "t37-p013",
     "tema": 40,
-    "pregunta": "La Papelera de reciclaje:",
+    "pregunta": "En informática básica y Windows 11, la Papelera de reciclaje:",
     "opciones": [
       "almacena temporalmente los archivos eliminados",
       "borra de forma irreversible al instante",
@@ -506,7 +506,7 @@
   {
     "id": "t37-p014",
     "tema": 40,
-    "pregunta": "El acceso rápido es:",
+    "pregunta": "En informática básica y Windows 11, el acceso rápido es:",
     "opciones": [
       "una herramienta para acceder a carpetas y archivos usados con frecuencia",
       "un antivirus",
@@ -520,7 +520,7 @@
   {
     "id": "t37-p015",
     "tema": 40,
-    "pregunta": "Una herramienta del sistema es:",
+    "pregunta": "En informática básica y Windows 11, una herramienta del sistema es:",
     "opciones": [
       "Administrador de tareas",
       "Papelera de reciclaje",
@@ -548,7 +548,7 @@
   {
     "id": "t37-p017",
     "tema": 40,
-    "pregunta": "¿Cuál de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualización validos segun el tema?",
+    "pregunta": "¿Cuál de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualización válidos según el tema?",
     "opciones": [
       "Lista, Detalles e Iconos medianos",
       "Iconos muy pequeños, Extendido y Mosaico",
@@ -562,7 +562,7 @@
   {
     "id": "estado2026-extra-t40-01",
     "tema": 40,
-    "pregunta": "¿Qué componente ejecuta instrucciones en un ordenador?",
+    "pregunta": "En informática básica, ¿qué componente ejecuta instrucciones en un ordenador?",
     "opciones": [
       "Procesador o CPU",
       "Byte",

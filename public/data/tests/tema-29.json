@@ -2,7 +2,7 @@
   {
     "id": "t30-p014",
     "tema": 29,
-    "pregunta": "El ciclo del gasto local sigue las fases:",
+    "pregunta": "En la ejecución del presupuesto de gasto, el ciclo del gasto local sigue las fases:",
     "opciones": [
       "A, D, O y P",
       "R, S, T y U",
@@ -30,7 +30,7 @@
   {
     "id": "t44-p008",
     "tema": 29,
-    "pregunta": "La fase D del gasto público es la de:",
+    "pregunta": "En la ejecución del presupuesto de gasto, la fase D del gasto público es la de:",
     "opciones": [
       "Autorización",
       "Disposición o compromiso",
@@ -44,7 +44,7 @@
   {
     "id": "t44-p009",
     "tema": 29,
-    "pregunta": "El documento contable AD recoge:",
+    "pregunta": "En la ejecución del presupuesto de gasto, el documento contable AD recoge:",
     "opciones": [
       "Autorización y disposición acumuladas",
       "Autorización y pago material",
@@ -86,7 +86,7 @@
   {
     "id": "t44-p016",
     "tema": 29,
-    "pregunta": "La autorización del gasto (documento A):",
+    "pregunta": "En la ejecución del presupuesto de gasto, la autorización del gasto (documento A):",
     "opciones": [
       "no genera obligación frente a terceros",
       "supone el pago material al acreedor",
@@ -100,7 +100,7 @@
   {
     "id": "t44-p017",
     "tema": 29,
-    "pregunta": "El documento ADO acumula las fases de:",
+    "pregunta": "En la ejecución del presupuesto de gasto, el documento ADO acumula las fases de:",
     "opciones": [
       "autorización, disposición y reconocimiento de la obligación",
       "autorización, ordenación del pago y pago material",
@@ -114,7 +114,7 @@
   {
     "id": "t44-p018",
     "tema": 29,
-    "pregunta": "Los anticipos de caja fija se utilizan para:",
+    "pregunta": "En la ejecución del presupuesto de gasto, los anticipos de caja fija se utilizan para:",
     "opciones": [
       "gastos corrientes de pequeña cuantía y carácter periódico",
       "cualquier contrato sujeto a licitación pública",
@@ -142,7 +142,7 @@
   {
     "id": "t44-p023",
     "tema": 29,
-    "pregunta": "Según la Ley General Presupuestaria y el Tema 44, el Proyecto de Ley de Presupuestos Generales del Estado sera remitido a las Cortes Generales:",
+    "pregunta": "Según la Ley General Presupuestaria, el Proyecto de Ley de Presupuestos Generales del Estado será remitido a las Cortes Generales:",
     "opciones": [
       "Antes del 1 de octubre del año anterior al que se refiera",
       "Antes del 31 de diciembre del mismo ejercicio",
@@ -155,7 +155,7 @@
   },
   {
     "id": "topup-29-05",
-    "pregunta": "Un documento contable ADO acumula:",
+    "pregunta": "En la ejecución del presupuesto de gasto, un documento contable ADO acumula:",
     "opciones": [
       "autorización, disposición y reconocimiento de la obligación",
       "aprobación del presupuesto y ordenación del pago",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-29-06",
-    "pregunta": "Los compromisos de gasto para ejercicios posteriores deben respetar:",
+    "pregunta": "En la ejecución del presupuesto de gasto, los compromisos de gasto para ejercicios posteriores deben respetar:",
     "opciones": [
       "los limites legales aplicables a los gastos plurianuales",
       "solo la voluntad del concejal delegado",
@@ -183,7 +183,7 @@
   },
   {
     "id": "topup-29-08",
-    "pregunta": "El órgano competente para ordenar el pago se determina por:",
+    "pregunta": "En la ejecución del presupuesto de gasto, el órgano competente para ordenar el pago se determina por:",
     "opciones": [
       "la normativa presupuestaria y la organización de la entidad local",
       "la ley electoral",
@@ -211,7 +211,7 @@
   },
   {
     "id": "refine-29-01",
-    "pregunta": "La fase A del gasto expresa el acto por el que se:",
+    "pregunta": "En la ejecución del presupuesto de gasto, la fase A del gasto expresa el acto por el que se:",
     "opciones": [
       "autoriza la realización de un gasto determinado",
       "reconoce la obligación ya nacida",
@@ -225,7 +225,7 @@
   },
   {
     "id": "refine-29-02",
-    "pregunta": "La fase D del procedimiento de gasto implica:",
+    "pregunta": "En la ejecución del presupuesto de gasto, la fase D del procedimiento de gasto implica:",
     "opciones": [
       "el compromiso o disposición del gasto frente a un tercero determinado",
       "la simple existencia de crédito en presupuesto",
@@ -239,7 +239,7 @@
   },
   {
     "id": "refine-29-03",
-    "pregunta": "El reconocimiento de la obligación supone:",
+    "pregunta": "En la ejecución del presupuesto de gasto, el reconocimiento de la obligación supone:",
     "opciones": [
       "declarar que existe un crédito exigible contra la entidad una vez acreditada la prestación",
       "autorizar una modificación presupuestaria",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-29-04",
-    "pregunta": "La ordenación del pago consiste en:",
+    "pregunta": "En la ejecución del presupuesto de gasto, la ordenación del pago consiste en:",
     "opciones": [
       "expedir la orden para satisfacer obligaciones ya reconocidas",
       "crear crédito extraordinario",
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-29-05",
-    "pregunta": "Los anticipos de caja fija se emplean principalmente para:",
+    "pregunta": "En la ejecución del presupuesto de gasto, los anticipos de caja fija se emplean principalmente para:",
     "opciones": [
       "gastos periodicos o repetitivos de pequena cuantia que requieren agilidad",
       "cualquier subvención de capital plurianual",
@@ -310,7 +310,7 @@
   {
     "id": "estado2026-extra-t29-03",
     "tema": 29,
-    "pregunta": "El reconocimiento de la obligación en la ejecución del gasto se documenta mediante:",
+    "pregunta": "En la ejecución del presupuesto de gasto, el reconocimiento de la obligación en la ejecución del gasto se documenta mediante:",
     "opciones": [
       "Documento O u OK, según proceda",
       "Documento RC exclusivamente",

@@ -2,7 +2,7 @@
   {
     "id": "t44-p014",
     "tema": 30,
-    "pregunta": "El control interno previo más importante es:",
+    "pregunta": "En el control del gasto público, el control interno previo más importante es:",
     "opciones": [
       "El control político",
       "La función interventora",
@@ -16,7 +16,7 @@
   {
     "id": "t44-p015",
     "tema": 30,
-    "pregunta": "En Castilla y León, el órgano de control externo es:",
+    "pregunta": "En el control del gasto público de Castilla y León, el órgano de control externo es:",
     "opciones": [
       "La Intervención General",
       "El Consejo de Cuentas de Castilla y León",
@@ -58,7 +58,7 @@
   {
     "id": "t44-p024",
     "tema": 30,
-    "pregunta": "De conformidad con la Ley Orgánica del Tribunal de Cuentas y con el Tema 44, al Tribunal de Cuentas le corresponde:",
+    "pregunta": "De conformidad con la Ley Orgánica del Tribunal de Cuentas, al Tribunal de Cuentas le corresponde:",
     "opciones": [
       "La fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público",
       "El control financiero permanente interno de todos los departamentos ministeriales y entidades locales",
@@ -71,7 +71,7 @@
   },
   {
     "id": "topup-30-02",
-    "pregunta": "La función interventora controla principalmente la:",
+    "pregunta": "En el control del gasto público, la función interventora controla principalmente la:",
     "opciones": [
       "legalidad de actos con contenido económico-presupuestario",
       "conveniencia política general",
@@ -85,7 +85,7 @@
   },
   {
     "id": "topup-30-03",
-    "pregunta": "El control financiero se dirige a verificar, entre otros aspectos:",
+    "pregunta": "En el control del gasto público, el control financiero se dirige a verificar, entre otros aspectos:",
     "opciones": [
       "cumplimiento normativo, eficacia y eficiencia",
       "la sucesión al trono",
@@ -113,7 +113,7 @@
   },
   {
     "id": "topup-30-06",
-    "pregunta": "El reparo suspensivo impide continuar el expediente hasta:",
+    "pregunta": "En el control del gasto público, el reparo suspensivo impide continuar el expediente hasta:",
     "opciones": [
       "resolver la discrepancia o subsanar el defecto",
       "que lo firme un proveedor",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-30-07",
-    "pregunta": "La omisión de fiscalización previa obligatoria exige:",
+    "pregunta": "En el control del gasto público, la omisión de fiscalización previa obligatoria exige:",
     "opciones": [
       "tramitar un procedimiento específico de regularización",
       "pagar automáticamente",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-30-09",
-    "pregunta": "La Comisión Especial de Cuentas interviene en la secuencia de la Cuenta General antes de su:",
+    "pregunta": "En el control del gasto público, la Comisión Especial de Cuentas interviene en la secuencia de la Cuenta General antes de su:",
     "opciones": [
       "aprobación por el Pleno",
       "envio al Senado",
@@ -155,7 +155,7 @@
   },
   {
     "id": "topup-30-10",
-    "pregunta": "El Tribunal de Cuentas es el supremo órgano de control:",
+    "pregunta": "En el control del gasto público, el Tribunal de Cuentas es el supremo órgano de control:",
     "opciones": [
       "externo del sector público",
       "interno de cada Ayuntamiento",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-30-11",
-    "pregunta": "El Consejo de Cuentas de Castilla y León fiscaliza:",
+    "pregunta": "En el control del gasto público, el Consejo de Cuentas de Castilla y León fiscaliza:",
     "opciones": [
       "la gestión económico-financiera del sector público de la Comunidad y entidades locales",
       "solo delitos urbanisticos",
@@ -183,7 +183,7 @@
   },
   {
     "id": "topup-30-13",
-    "pregunta": "La responsabilidad contable puede surgir por menoscabo de fondos públicos causado con:",
+    "pregunta": "En el control del gasto público, la responsabilidad contable puede surgir por menoscabo de fondos públicos causado con:",
     "opciones": [
       "dolo, culpa o negligencia grave",
       "mera discrepancia doctrinal",
@@ -197,7 +197,7 @@
   },
   {
     "id": "topup-30-15",
-    "pregunta": "El control financiero permanente se desarrolla habitualmente conforme a un:",
+    "pregunta": "En el control del gasto público, el control financiero permanente se desarrolla habitualmente conforme a un:",
     "opciones": [
       "plan anual de control",
       "orden del día sindical",
@@ -211,7 +211,7 @@
   },
   {
     "id": "refine-30-01",
-    "pregunta": "La función interventora constituye una modalidad de control interno dirigida a fiscalizar:",
+    "pregunta": "En el control del gasto público, la función interventora constituye una modalidad de control interno dirigida a fiscalizar:",
     "opciones": [
       "los actos con contenido económico antes o en el momento procedente de su aprobación",
       "únicamente la publicidad institucional del Ayuntamiento",
@@ -239,7 +239,7 @@
   },
   {
     "id": "refine-30-03",
-    "pregunta": "El control financiero se orienta principalmente a comprobar:",
+    "pregunta": "En el control del gasto público, el control financiero se orienta principalmente a comprobar:",
     "opciones": [
       "el funcionamiento económico-financiero de los servicios y entes desde la perspectiva de legalidad, eficacia y eficiencia",
       "solo la asistencia de concejales a los plenos",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-30-04",
-    "pregunta": "La Comisión Especial de Cuentas interviene en relación con:",
+    "pregunta": "En el control del gasto público, la Comisión Especial de Cuentas interviene en relación con:",
     "opciones": [
       "el examen e informe previo de la Cuenta General",
       "la aprobación de ordenanzas fiscales",
@@ -282,7 +282,7 @@
   {
     "id": "estado2026-extra-t30-01",
     "tema": 30,
-    "pregunta": "El Tribunal de Cuentas ejerce, entre otras, la función de:",
+    "pregunta": "En el control del gasto público, el Tribunal de Cuentas ejerce, entre otras, la función de:",
     "opciones": [
       "Fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público",
       "Función interventora interna previa",

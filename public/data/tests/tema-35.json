@@ -2,7 +2,7 @@
   {
     "id": "pdf-2025-burgos-q47",
     "tema": 35,
-    "pregunta": "El servicio 010 de atención ciudadana realizará los siguientes servicios. Indique cual NO es correcto:",
+    "pregunta": "En oficinas de asistencia en materia de registros, el servicio 010 de atención ciudadana realizará los siguientes servicios. Indique cuál NO es correcto:",
     "opciones": [
       "Dar información municipal y de la ciudad de Burgos agil y verazmente",
       "Canalizar avisos o incidencias, reclamaciones y sugerencias",
@@ -58,7 +58,7 @@
   {
     "id": "t31-p002",
     "tema": 35,
-    "pregunta": "El Registro General debe complementarse con:",
+    "pregunta": "En oficinas de asistencia en materia de registros, el Registro General debe complementarse con:",
     "opciones": [
       "Registros Auxiliares",
       "Comisiones Informativas",
@@ -72,7 +72,7 @@
   {
     "id": "t31-p003",
     "tema": 35,
-    "pregunta": "Una función del registro es:",
+    "pregunta": "En oficinas de asistencia en materia de registros, una función del registro es:",
     "opciones": [
       "la distribución de los documentos recibidos hacia las unidades competentes",
       "la aprobación de presupuestos",
@@ -86,7 +86,7 @@
   {
     "id": "t31-p004",
     "tema": 35,
-    "pregunta": "El Registro Electrónico General está disponible:",
+    "pregunta": "En oficinas de asistencia en materia de registros, el Registro Electrónico General está disponible:",
     "opciones": [
       "las 24 horas del día, los 365 días del año",
       "solo en horario de oficina",
@@ -114,7 +114,7 @@
   {
     "id": "t31-p006",
     "tema": 35,
-    "pregunta": "La sede electrónica es:",
+    "pregunta": "En oficinas de asistencia en materia de registros, la sede electrónica es:",
     "opciones": [
       "la dirección electrónica de titularidad de una Administración Pública",
       "un archivo histórico",
@@ -156,7 +156,7 @@
   {
     "id": "t31-p009",
     "tema": 35,
-    "pregunta": "Los escritos y solicitudes deben incluir, entre otros,:",
+    "pregunta": "En oficinas de asistencia en materia de registros, los escritos y solicitudes deben incluir, entre otros,:",
     "opciones": [
       "hechos, razones y petición",
       "solo el título del expediente",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-35-05",
-    "pregunta": "La comprobación de la representación es especialmente importante cuando el interesado pretende:",
+    "pregunta": "En oficinas de asistencia en materia de registros, la comprobación de la representación es especialmente importante cuando el interesado pretende:",
     "opciones": [
       "interponer un recurso o renunciar a derechos en nombre de otra persona",
       "pedir información general anonima",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-35-03",
-    "pregunta": "La constancia exacta de fecha y hora en el asiento registral resulta especialmente relevante por sus efectos sobre:",
+    "pregunta": "En oficinas de asistencia en materia de registros, la constancia exacta de fecha y hora en el asiento registral resulta especialmente relevante por sus efectos sobre:",
     "opciones": [
       "plazos, prelación y acreditación de la presentación",
       "clasificación presupuestaria del gasto",
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-35-04",
-    "pregunta": "Una copia autentica se diferencia de una copia simple porque:",
+    "pregunta": "En oficinas de asistencia en materia de registros, una copia auténtica se diferencia de una copia simple porque:",
     "opciones": [
       "acredita la identidad y fidelidad respecto del original en los terminos legalmente previstos",
       "siempre sustituye al original a todos los efectos sin limite",
@@ -282,7 +282,7 @@
   {
     "id": "estado2026-extra-t35-01",
     "tema": 35,
-    "pregunta": "El Registro Electrónico General debe estar orientado a:",
+    "pregunta": "En oficinas de asistencia en materia de registros, el Registro Electrónico General debe estar orientado a:",
     "opciones": [
       "Anotar documentos presentados o recibidos y facilitar la interoperabilidad con otros registros",
       "Sustituir todos los actos administrativos por correos electrónicos",

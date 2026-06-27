@@ -16,7 +16,7 @@
   {
     "id": "t26-p002",
     "tema": 20,
-    "pregunta": "La convocatoria del órgano colegiado corresponde al:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, la convocatoria del órgano colegiado corresponde al:",
     "opciones": [
       "Presidente",
       "Secretario",
@@ -30,7 +30,7 @@
   {
     "id": "t26-p003",
     "tema": 20,
-    "pregunta": "La convocatoria del Pleno puede ser solicitada por al menos:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, la convocatoria del Pleno puede ser solicitada por al menos:",
     "opciones": [
       "la cuarta parte de los miembros",
       "la mitad de los asistentes",
@@ -44,7 +44,7 @@
   {
     "id": "t26-p004",
     "tema": 20,
-    "pregunta": "La antelación mínima de la convocatoria ordinaria o extraordinaria es de:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, la antelación mínima de la convocatoria ordinaria o extraordinaria es de:",
     "opciones": [
       "2 días hábiles",
       "24 horas",
@@ -58,7 +58,7 @@
   {
     "id": "t26-p005",
     "tema": 20,
-    "pregunta": "La convocatoria urgente:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, la convocatoria urgente:",
     "opciones": [
       "no exige plazo mínimo",
       "debe notificarse con 15 días hábiles",
@@ -72,7 +72,7 @@
   {
     "id": "t26-p006",
     "tema": 20,
-    "pregunta": "El orden del día:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, el orden del día:",
     "opciones": [
       "limita los asuntos que pueden debatirse y votarse",
       "solo sirve como archivo histórico",
@@ -86,7 +86,7 @@
   {
     "id": "t26-p007",
     "tema": 20,
-    "pregunta": "El quórum inicial de constitución exige:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, el quórum inicial de constitución exige:",
     "opciones": [
       "un tercio del número legal de miembros, con un mínimo de tres",
       "la mayoría absoluta de los miembros",
@@ -100,7 +100,7 @@
   {
     "id": "t26-p008",
     "tema": 20,
-    "pregunta": "Para constituirse válidamente, deben estar presentes:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, para constituirse válidamente deben estar presentes:",
     "opciones": [
       "el Presidente y el Secretario",
       "el alcalde y el interventor",
@@ -114,7 +114,7 @@
   {
     "id": "t26-p009",
     "tema": 20,
-    "pregunta": "El voto delegado:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, el voto delegado:",
     "opciones": [
       "no está permitido",
       "es obligatorio en todas las sesiones",
@@ -128,7 +128,7 @@
   {
     "id": "t26-p010",
     "tema": 20,
-    "pregunta": "¿Cuándo hay empate en una votación, el Presidente dispone de?",
+    "pregunta": "En las votaciones de órganos colegiados locales, cuando hay empate, ¿de qué dispone el Presidente?",
     "opciones": [
       "voto de calidad",
       "veto suspensivo",
@@ -142,7 +142,7 @@
   {
     "id": "t26-p011",
     "tema": 20,
-    "pregunta": "Las mayorías exigidas para adoptar acuerdos dependen:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, las mayorías exigidas para adoptar acuerdos dependen:",
     "opciones": [
       "del tipo de asunto y de lo que establezca la ley",
       "solo de la edad del Presidente",
@@ -156,7 +156,7 @@
   {
     "id": "t26-p012",
     "tema": 20,
-    "pregunta": "Según el art. 109 ROF, el acta, debe recoger entre otros:",
+    "pregunta": "Según el art. 109 ROF, el acta de un órgano colegiado local debe recoger, entre otros:",
     "opciones": [
       "asistentes, orden del día, desarrollo de debates, votaciones y acuerdos",
       "solo el nombre del Presidente",
@@ -170,7 +170,7 @@
   {
     "id": "t26-p013",
     "tema": 20,
-    "pregunta": "Los certificados de acuerdos pueden ser expedidos por:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, los certificados de acuerdos pueden ser expedidos por:",
     "opciones": [
       "el Secretario",
       "cualquier diputado",
@@ -184,7 +184,7 @@
   {
     "id": "t26-p014",
     "tema": 20,
-    "pregunta": "Los certificados tienen:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, los certificados tienen:",
     "opciones": [
       "valor de fe pública respecto de los acuerdos certificados",
       "solo valor informativo sin eficacia alguna",
@@ -198,7 +198,7 @@
   {
     "id": "t26-p015",
     "tema": 20,
-    "pregunta": "Las Comisiones Informativas, tienen como función principal el:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, las Comisiones Informativas, tienen como función principal el:",
     "opciones": [
       "estudio, informe y consulta",
       "dictado de sentencias",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-20-02",
-    "pregunta": "Cómo regla general, no deben tratarse asuntos no incluidos en el orden del día salvo:",
+    "pregunta": "Como regla general, no deben tratarse asuntos no incluidos en el orden del día salvo:",
     "opciones": [
       "supuestos de urgencia conforme a la normativa aplicable",
       "petición verbal de cualquier asistente",
@@ -225,7 +225,7 @@
   },
   {
     "id": "topup-20-05",
-    "pregunta": "El acta del órgano colegiado tiene como finalidad principal:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, el acta tiene como finalidad principal:",
     "opciones": [
       "dejar constancia de asistentes, asuntos y acuerdos",
       "sustituir a la convocatoria",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-20-02",
-    "pregunta": "La valida constitución de un órgano colegiado local exige comprobar el quorum relativo a:",
+    "pregunta": "La válida constitución de un órgano colegiado local exige comprobar el quórum relativo a:",
     "opciones": [
       "asistencia mínima legalmente exigida para celebrar sesión y adoptar acuerdos",
       "porcentaje de ejecución presupuestaria del area",
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-20-03",
-    "pregunta": "El voto de calidad del presidente opera, como regla general, en caso de:",
+    "pregunta": "En el funcionamiento de órganos colegiados locales, el voto de calidad del presidente opera, como regla general, en caso de:",
     "opciones": [
       "empate en la votación",
       "ausencia del secretario",

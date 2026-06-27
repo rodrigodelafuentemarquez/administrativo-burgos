@@ -2,7 +2,7 @@
   {
     "id": "pdf-2023-burgos-q31",
     "tema": 13,
-    "pregunta": "De conformidad con la Ley 39/2015, los actos administrativos que no pongan fin a la via administrativa podrán ser recurridos:",
+    "pregunta": "De conformidad con la Ley 39/2015, los actos administrativos que no pongan fin a la vía administrativa podrán ser recurridos:",
     "opciones": [
       "Potestativamente en reposición",
       "Preceptivamente en reposición",
@@ -16,7 +16,7 @@
   {
     "id": "pdf-2025-burgos-q19",
     "tema": 13,
-    "pregunta": "Contra los actos firmes en via administrativa se podrá interponer el siguiente recurso:",
+    "pregunta": "Contra los actos firmes en vía administrativa se podrá interponer el siguiente recurso:",
     "opciones": [
       "Recurso de alzada",
       "Recurso potestativo de reposición",
@@ -44,7 +44,7 @@
   {
     "id": "t16-p014",
     "tema": 13,
-    "pregunta": "La revisión de actos nulos de pleno derecho requiere dictamen favorable del:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la revisión de actos nulos de pleno derecho requiere dictamen favorable del:",
     "opciones": [
       "Consejo de Estado u órgano consultivo equivalente",
       "Tribunal Supremo",
@@ -58,7 +58,7 @@
   {
     "id": "t16-p015",
     "tema": 13,
-    "pregunta": "Los errores materiales, aritméticos o de hecho pueden rectificarse:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, los errores materiales, aritméticos o de hecho pueden rectificarse:",
     "opciones": [
       "solo por sentencia firme",
       "en cualquier momento",
@@ -86,7 +86,7 @@
   {
     "id": "t17-p001",
     "tema": 13,
-    "pregunta": "Un recurso administrativo es:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, un recurso administrativo es:",
     "opciones": [
       "La impugnación ante la jurisdicción contencioso-administrativa de una disposición general",
       "El cauce de revisión ante la propia Administración de un acto que se considera contrario al ordenamiento",
@@ -114,7 +114,7 @@
   {
     "id": "t17-p003",
     "tema": 13,
-    "pregunta": "La resolución del recurso no puede:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la resolución del recurso no puede:",
     "opciones": [
       "ser congruente",
       "agravar la situación del recurrente en perjuicio si solo recurre él",
@@ -142,7 +142,7 @@
   {
     "id": "t17-p005",
     "tema": 13,
-    "pregunta": "Pueden recurrirse autónomamente los actos de trámite cualificados cuando:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, pueden recurrirse autónomamente los actos de trámite cualificados cuando:",
     "opciones": [
       "sean meramente de impulso procesal",
       "produzcan indefensión o perjuicio irreparable",
@@ -170,7 +170,7 @@
   {
     "id": "t17-p007",
     "tema": 13,
-    "pregunta": "El recurso de alzada se resuelve por:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, el recurso de alzada se resuelve por:",
     "opciones": [
       "el órgano superior jerárquico del que dictó el acto",
       "el mismo órgano siempre",
@@ -198,7 +198,7 @@
   {
     "id": "t17-p009",
     "tema": 13,
-    "pregunta": "El recurso de reposición es:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, el recurso de reposición es:",
     "opciones": [
       "obligatorio antes del contencioso",
       "potestativo",
@@ -212,7 +212,7 @@
   {
     "id": "t17-p010",
     "tema": 13,
-    "pregunta": "¿Qué plazo para resolver el recurso de reposición indica el?",
+    "pregunta": "Según la LPACAP, ¿qué plazo hay para resolver el recurso de reposición?",
     "opciones": [
       "10 días",
       "1 mes",
@@ -226,7 +226,7 @@
   {
     "id": "t17-p011",
     "tema": 13,
-    "pregunta": "El recurso extraordinario de revisión procede contra actos:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, el recurso extraordinario de revisión procede contra actos:",
     "opciones": [
       "firmes en vía administrativa",
       "nulos en vía judicial",
@@ -240,7 +240,7 @@
   {
     "id": "t17-p012",
     "tema": 13,
-    "pregunta": "¿Cuál de las siguientes causas forma parte del recurso extraordinario de revisión?",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, ¿cuál de las siguientes causas forma parte del recurso extraordinario de revisión?",
     "opciones": [
       "Error de hecho que resulte de los propios documentos del expediente",
       "Simple desacuerdo político",
@@ -254,7 +254,7 @@
   {
     "id": "t17-p013",
     "tema": 13,
-    "pregunta": "Si un recurso llega al órgano incompetente para resolverlo:",
+    "pregunta": "En recursos administrativos, si un recurso llega al órgano incompetente para resolverlo:",
     "opciones": [
       "se inadmite sin más",
       "se remite al competente y el plazo se entiende cumplido",
@@ -268,7 +268,7 @@
   {
     "id": "t17-p014",
     "tema": 13,
-    "pregunta": "La resolución del recurso debe respetar el principio de:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la resolución del recurso debe respetar el principio de:",
     "opciones": [
       "congruencia",
       "retroactividad",
@@ -310,7 +310,7 @@
   {
     "id": "t17-p017",
     "tema": 13,
-    "pregunta": "De acuerdo con el Tema 17, si transcurren treinta días desde la solicitud de suspensión sin que la Administración se pronuncie:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, si transcurren treinta días desde la solicitud de suspensión sin que la Administración se pronuncie:",
     "opciones": [
       "La solicitud se entiende desestimada",
       "La suspensión se entiende concedida",
@@ -324,7 +324,7 @@
   {
     "id": "t17-p018",
     "tema": 13,
-    "pregunta": "Conforme al art. 114 LPACAP, ponen fin a la via administrativa:",
+    "pregunta": "Conforme al art. 114 LPACAP, ponen fin a la vía administrativa:",
     "opciones": [
       "Los actos emanados de órganos directivos con nivel de Subdirector General en materia de personal",
       "Las resoluciones de órganos administrativos, salvo que una disposición legal o reglamentaria disponga lo contrario",
@@ -338,7 +338,7 @@
   {
     "id": "t19-p001",
     "tema": 13,
-    "pregunta": "La Jurisdicción Contencioso-Administrativa está encargada de:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la Jurisdicción Contencioso-Administrativa está encargada de:",
     "opciones": [
       "controlar la actuación de las Administraciones Públicas y garantizar tutela judicial frente a ellas",
       "juzgar exclusivamente delitos administrativos",
@@ -352,7 +352,7 @@
   {
     "id": "t19-p002",
     "tema": 13,
-    "pregunta": "Según el Tema 19, ¿qué preceptos constitucionales se citan como fundamento del control judicial de la Administración?",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, ¿qué preceptos constitucionales se citan como fundamento del control judicial de la Administración?",
     "opciones": [
       "Art. 24 CE y art. 106.1 CE",
       "Art. 137 CE y art. 141 CE",
@@ -366,7 +366,7 @@
   {
     "id": "t19-p003",
     "tema": 13,
-    "pregunta": "La LJCA tiene también carácter:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la LJCA tiene también carácter:",
     "opciones": [
       "de simple recurso penal",
       "plenario",
@@ -380,7 +380,7 @@
   {
     "id": "t19-p004",
     "tema": 13,
-    "pregunta": "Según el Tema 19, la Jurisdicción Contencioso-Administrativa conoce de pretensiones deducidas en relación con:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la Jurisdicción Contencioso-Administrativa conoce de pretensiones deducidas en relación con:",
     "opciones": [
       "La actividad administrativa sujeta al Derecho Administrativo",
       "Solo las resoluciones del Tribunal Constitucional",
@@ -394,7 +394,7 @@
   {
     "id": "t19-p005",
     "tema": 13,
-    "pregunta": "Los plazos para interponer el recurso contencioso-administrativo son de:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, los plazos para interponer el recurso contencioso-administrativo son de:",
     "opciones": [
       "1 mes y 3 meses",
       "2 meses y 6 meses",
@@ -436,7 +436,7 @@
   {
     "id": "t19-p008",
     "tema": 13,
-    "pregunta": "Los Tribunales Superiores de Justicia conocen en el orden contencioso-administrativo de:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, los Tribunales Superiores de Justicia conocen en el orden contencioso-administrativo de:",
     "opciones": [
       "la impugnación de reglamentos y actos de los órganos superiores de la Administración autonómica",
       "los delitos contra la Corona",
@@ -450,7 +450,7 @@
   {
     "id": "t19-p009",
     "tema": 13,
-    "pregunta": "La suspensión de un acto administrativo impugnado es una medida:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la suspensión de un acto administrativo impugnado es una medida:",
     "opciones": [
       "cautelar",
       "penal",
@@ -478,7 +478,7 @@
   {
     "id": "t19-p011",
     "tema": 13,
-    "pregunta": "Según el Tema 19, ¿cuál es el plazo para impugnar reglamentos?",
+    "pregunta": "En la jurisdicción contencioso-administrativa, ¿cuál es el plazo para impugnar reglamentos?",
     "opciones": [
       "1 mes",
       "2 meses desde la publicación",
@@ -492,7 +492,7 @@
   {
     "id": "t19-p012",
     "tema": 13,
-    "pregunta": "La ejecución de sentencias firmes obliga a:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la ejecución de sentencias firmes obliga a:",
     "opciones": [
       "solo a los particulares",
       "las partes y la Administración en sus propios términos",
@@ -506,7 +506,7 @@
   {
     "id": "t19-p013",
     "tema": 13,
-    "pregunta": "¿Qué materia está excluida de la JCA?",
+    "pregunta": "En la jurisdicción contencioso-administrativa, ¿qué materia está excluida de la JCA?",
     "opciones": [
       "La responsabilidad patrimonial",
       "Los actos del Tribunal Constitucional",
@@ -520,7 +520,7 @@
   {
     "id": "t19-p014",
     "tema": 13,
-    "pregunta": "El recurso de casación lo resuelve:",
+    "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, el recurso de casación lo resuelve:",
     "opciones": [
       "el Tribunal Supremo",
       "la Audiencia Nacional",

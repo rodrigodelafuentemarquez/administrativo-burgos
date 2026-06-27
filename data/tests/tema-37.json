@@ -16,7 +16,7 @@
   {
     "id": "pdf-2025-burgos-q52",
     "tema": 37,
-    "pregunta": "Cuál es el objeto de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales?",
+    "pregunta": "¿Cuál es el objeto de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales?",
     "opciones": [
       "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679",
       "Garantizar los derechos electrónicos de la ciudadania al mandato del artículo 22.4 CE",
@@ -30,7 +30,7 @@
   {
     "id": "pdf-2025-burgos-r06",
     "tema": 37,
-    "pregunta": "El empleador podrá acceder a los contenidos derivados del uso de medios digitales facilitados a los trabajadores?:",
+    "pregunta": "En protección de datos personales, el empleador podrá acceder a los contenidos derivados del uso de medios digitales facilitados a los trabajadores?:",
     "opciones": [
       "Si, en cualquier caso",
       "Si, para el control de la productividad del trabajador",
@@ -72,7 +72,7 @@
   {
     "id": "t21-p014",
     "tema": 37,
-    "pregunta": "La Agencia Española de Protección de Datos es:",
+    "pregunta": "En protección de datos personales, la Agencia Española de Protección de Datos es:",
     "opciones": [
       "la autoridad de control independiente encargada de velar por el cumplimiento de la normativa",
       "un órgano dependiente del Consejo de Transparencia",
@@ -86,7 +86,7 @@
   {
     "id": "t43-p007",
     "tema": 37,
-    "pregunta": "El límite de protección de datos exige:",
+    "pregunta": "En protección de datos personales, el límite de protección de datos exige:",
     "opciones": [
       "ponderar el interés público en conocer la información y los derechos de las personas afectadas",
       "denegar siempre el acceso",
@@ -100,7 +100,7 @@
   {
     "id": "t43-p013",
     "tema": 37,
-    "pregunta": "El RGPD es directamente aplicable desde:",
+    "pregunta": "En protección de datos personales, el RGPD es directamente aplicable desde:",
     "opciones": [
       "25 de mayo de 2018",
       "1 de enero de 2016",
@@ -114,7 +114,7 @@
   {
     "id": "t43-p014",
     "tema": 37,
-    "pregunta": "Un dato personal es:",
+    "pregunta": "En protección de datos personales, un dato personal es:",
     "opciones": [
       "toda información sobre una persona física identificada o identificable",
       "solo el nombre y apellidos",
@@ -128,7 +128,7 @@
   {
     "id": "t43-p015",
     "tema": 37,
-    "pregunta": "Un principio del RGPD es:",
+    "pregunta": "En protección de datos personales, un principio del RGPD es:",
     "opciones": [
       "la minimización de datos",
       "la publicidad total",
@@ -156,7 +156,7 @@
   {
     "id": "t43-p019",
     "tema": 37,
-    "pregunta": "El derecho a la portabilidad permite al interesado:",
+    "pregunta": "En protección de datos personales, el derecho a la portabilidad permite al interesado:",
     "opciones": [
       "recibir sus datos en formato estructurado, de uso común y lectura mecánica y transmitirlos a otro responsable",
       "exigir la supresión inmediata de cualquier dato sin límites",
@@ -197,7 +197,7 @@
   },
   {
     "id": "topup-37-02",
-    "pregunta": "El responsable del tratamiento es quien:",
+    "pregunta": "En protección de datos personales, el responsable del tratamiento es quien:",
     "opciones": [
       "determina los fines y medios del tratamiento",
       "ejecuta materialmente siempre la política del Gobierno",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-37-03",
-    "pregunta": "El encargado del tratamiento trata datos personales:",
+    "pregunta": "En protección de datos personales, el encargado del tratamiento trata datos personales:",
     "opciones": [
       "por cuenta del responsable",
       "siempre por cuenta propia",
@@ -225,7 +225,7 @@
   },
   {
     "id": "topup-37-04",
-    "pregunta": "El delegado de protección de datos desempena funciones de:",
+    "pregunta": "El delegado de protección de datos desempeña funciones de:",
     "opciones": [
       "asesoramiento, supervisión y cooperación con la autoridad de control",
       "recaudación ejecutiva",

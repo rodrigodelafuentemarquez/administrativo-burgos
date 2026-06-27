@@ -16,7 +16,7 @@
   {
     "id": "t27-p002",
     "tema": 18,
-    "pregunta": "El inventario de bienes de las Entidades Locales es:",
+    "pregunta": "En los bienes de las entidades locales, el inventario de bienes de las Entidades Locales es:",
     "opciones": [
       "obligatorio y debe mantenerse actualizado",
       "facultativo y secreto",
@@ -30,7 +30,7 @@
   {
     "id": "t27-p003",
     "tema": 18,
-    "pregunta": "Los bienes de dominio público se caracterizan por ser:",
+    "pregunta": "En los bienes de las entidades locales, los bienes de dominio público se caracterizan por ser:",
     "opciones": [
       "inalienables, inembargables e imprescriptibles",
       "alienables y embargables por regla general",
@@ -44,7 +44,7 @@
   {
     "id": "t27-p004",
     "tema": 18,
-    "pregunta": "Los bienes comunales son aquellos cuyo aprovechamiento corresponde exclusivamente a:",
+    "pregunta": "En los bienes de las entidades locales, los bienes comunales son aquellos cuyo aprovechamiento corresponde exclusivamente a:",
     "opciones": [
       "los vecinos del municipio",
       "cualquier persona sin limitación",
@@ -58,7 +58,7 @@
   {
     "id": "t27-p005",
     "tema": 18,
-    "pregunta": "Los bienes patrimoniales:",
+    "pregunta": "En los bienes de las entidades locales, los bienes patrimoniales:",
     "opciones": [
       "no están afectados a uso o servicio público",
       "siempre son inalienables",
@@ -72,7 +72,7 @@
   {
     "id": "t27-p006",
     "tema": 18,
-    "pregunta": "La afectación es el acto por el que:",
+    "pregunta": "En los bienes de las entidades locales, la afectación es el acto por el que:",
     "opciones": [
       "un bien patrimonial pasa a ser de dominio público",
       "un bien de dominio público se vende",
@@ -86,7 +86,7 @@
   {
     "id": "t27-p007",
     "tema": 18,
-    "pregunta": "Una Entidad Local puede adquirir bienes por:",
+    "pregunta": "En los bienes de las entidades locales, una Entidad Local puede adquirir bienes por:",
     "opciones": [
       "expropiación forzosa",
       "solo compraventa",
@@ -100,7 +100,7 @@
   {
     "id": "t27-p008",
     "tema": 18,
-    "pregunta": "La adquisición de bienes inmuebles a título oneroso, requiere:",
+    "pregunta": "En los bienes de las entidades locales, la adquisición de bienes inmuebles a título oneroso, requiere:",
     "opciones": [
       "tasación pericial previa y formalización en escritura pública",
       "solo un acuerdo verbal",
@@ -114,7 +114,7 @@
   {
     "id": "t27-p009",
     "tema": 18,
-    "pregunta": "La recuperación de oficio de un bien de dominio público debe ejercitarse dentro del plazo de:",
+    "pregunta": "En los bienes de las entidades locales, la recuperación de oficio de un bien de dominio público debe ejercitarse dentro del plazo de:",
     "opciones": [
       "un año desde el despojo",
       "cinco años desde la ocupación",
@@ -128,7 +128,7 @@
   {
     "id": "t27-p010",
     "tema": 18,
-    "pregunta": "El deslinde sirve para:",
+    "pregunta": "En los bienes de las entidades locales, el deslinde sirve para:",
     "opciones": [
       "fijar la línea divisoria entre bienes de dominio público y fincas colindantes",
       "aprobar las cuentas anuales",
@@ -142,7 +142,7 @@
   {
     "id": "t27-p011",
     "tema": 18,
-    "pregunta": "El uso común especial de un bien de dominio público requiere:",
+    "pregunta": "En los bienes de las entidades locales, el uso común especial de un bien de dominio público requiere:",
     "opciones": [
       "licencia o autorización",
       "siempre concesión por 99 años",
@@ -156,7 +156,7 @@
   {
     "id": "t27-p012",
     "tema": 18,
-    "pregunta": "El aprovechamiento de los bienes comunales puede hacerse en:",
+    "pregunta": "En los bienes de las entidades locales, el aprovechamiento de los bienes comunales puede hacerse en:",
     "opciones": [
       "explotación común, lotes o suertes, y adjudicación mediante precio",
       "venta libre al mejor postor sin restricciones",
@@ -170,7 +170,7 @@
   {
     "id": "t27-p013",
     "tema": 18,
-    "pregunta": "La enajenación directa excepcional puede darse cuando:",
+    "pregunta": "En los bienes de las entidades locales, la enajenación directa excepcional puede darse cuando:",
     "opciones": [
       "han quedado desiertas dos subastas sucesivas",
       "lo solicita cualquier vecino",
@@ -184,7 +184,7 @@
   {
     "id": "t27-p014",
     "tema": 18,
-    "pregunta": "La permuta es posible cuando la diferencia de valor no excede del:",
+    "pregunta": "En los bienes de las entidades locales, la permuta es posible cuando la diferencia de valor no excede del:",
     "opciones": [
       "40 % del valor del bien de mayor valor",
       "10 % del valor medio",
@@ -198,7 +198,7 @@
   {
     "id": "t27-p015",
     "tema": 18,
-    "pregunta": "La cesión gratuita de bienes patrimoniales puede hacerse a favor de:",
+    "pregunta": "En los bienes de las entidades locales, la cesión gratuita de bienes patrimoniales puede hacerse a favor de:",
     "opciones": [
       "Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines de utilidad pública o interés social",
       "Cualquier persona física empadronada en el municipio que lo solicite",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-18-04",
-    "pregunta": "El inventario de bienes de la entidad local sirve para:",
+    "pregunta": "En los bienes de las entidades locales, el inventario de bienes de la entidad local sirve para:",
     "opciones": [
       "identificar y controlar su patrimonio",
       "aprobar sanciones urbanísticas",
@@ -225,7 +225,7 @@
   },
   {
     "id": "topup-18-05",
-    "pregunta": "Los bienes de dominio público se caracterizan, entre otras notas, por ser:",
+    "pregunta": "En los bienes de las entidades locales, los bienes de dominio público se caracterizan, entre otras notas, por ser:",
     "opciones": [
       "inalienables, imprescriptibles e inembargables",
       "libremente permutables sin expediente",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-18-02",
-    "pregunta": "La afectación de un bien local significa:",
+    "pregunta": "En los bienes de las entidades locales, la afectación de un bien local significa:",
     "opciones": [
       "su destino a un uso general o a un servicio público",
       "su venta forzosa en subasta",

@@ -2,7 +2,7 @@
   {
     "id": "t39-p012",
     "tema": 42,
-    "pregunta": "Outlook 365 es:",
+    "pregunta": "En Internet y correo electrónico, Outlook 365 es:",
     "opciones": [
       "el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365",
       "una hoja de cálculo",
@@ -16,7 +16,7 @@
   {
     "id": "t39-p013",
     "tema": 42,
-    "pregunta": "La Bandeja de entrada contiene:",
+    "pregunta": "En Internet y correo electrónico, la Bandeja de entrada contiene:",
     "opciones": [
       "mensajes recibidos",
       "mensajes eliminados",
@@ -30,7 +30,7 @@
   {
     "id": "t39-p014",
     "tema": 42,
-    "pregunta": "La CCO sirve para:",
+    "pregunta": "En Internet y correo electrónico, la CCO sirve para:",
     "opciones": [
       "enviar copias ocultas, protegiendo la privacidad de las direcciones de los destinatarios",
       "anunciar el asunto del correo a todos",
@@ -44,7 +44,7 @@
   {
     "id": "t39-p015",
     "tema": 42,
-    "pregunta": "Una regla de mensaje en Outlook es:",
+    "pregunta": "En Internet y correo electrónico, una regla de mensaje en Outlook es:",
     "opciones": [
       "una instrucción automática aplicada a mensajes entrantes o salientes cuando se cumplen ciertas condiciones",
       "una carpeta de correo",
@@ -58,7 +58,7 @@
   {
     "id": "t40-p001",
     "tema": 42,
-    "pregunta": "Internet tiene su origen en:",
+    "pregunta": "En Internet y correo electrónico, Internet tiene su origen en:",
     "opciones": [
       "ARPANET",
       "DNS",
@@ -72,7 +72,7 @@
   {
     "id": "t40-p002",
     "tema": 42,
-    "pregunta": "La primera conexión de ARPANET se estableció el:",
+    "pregunta": "En Internet y correo electrónico, la primera conexión de ARPANET se estableció el:",
     "opciones": [
       "29 de octubre de 1969",
       "1 de enero de 1991",
@@ -86,7 +86,7 @@
   {
     "id": "t40-p003",
     "tema": 42,
-    "pregunta": "TCP/IP se adoptó como estándar de ARPANET en:",
+    "pregunta": "En Internet y correo electrónico, TCP/IP se adoptó como estándar de ARPANET en:",
     "opciones": [
       "1983",
       "1969",
@@ -100,7 +100,7 @@
   {
     "id": "t40-p004",
     "tema": 42,
-    "pregunta": "La World Wide Web fue ideada por:",
+    "pregunta": "En Internet y correo electrónico, la World Wide Web fue ideada por:",
     "opciones": [
       "Tim Berners-Lee",
       "Vinton Cerf",
@@ -114,7 +114,7 @@
   {
     "id": "t40-p005",
     "tema": 42,
-    "pregunta": "El protocolo que define cómo se comunican navegador y servidor es:",
+    "pregunta": "En Internet y correo electrónico, el protocolo que define cómo se comunican navegador y servidor es:",
     "opciones": [
       "HTTP",
       "FTP",
@@ -128,7 +128,7 @@
   {
     "id": "t40-p006",
     "tema": 42,
-    "pregunta": "DNS traduce:",
+    "pregunta": "En Internet y correo electrónico, DNS traduce:",
     "opciones": [
       "nombres de dominio en direcciones IP",
       "ficheros en carpetas",
@@ -142,7 +142,7 @@
   {
     "id": "t40-p007",
     "tema": 42,
-    "pregunta": "IPv4 es una dirección de:",
+    "pregunta": "En Internet y correo electrónico, IPv4 es una dirección de:",
     "opciones": [
       "32 bits",
       "128 bits",
@@ -156,7 +156,7 @@
   {
     "id": "t40-p008",
     "tema": 42,
-    "pregunta": "HTTPS añade a HTTP:",
+    "pregunta": "En Internet y correo electrónico, HTTPS añade a HTTP:",
     "opciones": [
       "cifrado SSL/TLS",
       "una hoja de cálculo",
@@ -170,7 +170,7 @@
   {
     "id": "t40-p009",
     "tema": 42,
-    "pregunta": "IMAP permite:",
+    "pregunta": "En Internet y correo electrónico, IMAP permite:",
     "opciones": [
       "Acceder a los mensajes manteniéndolos en el servidor y sincronizando carpetas y estados entre varios dispositivos",
       "Descargar normalmente los mensajes al equipo local y eliminarlos del servidor una vez recibidos",
@@ -184,7 +184,7 @@
   {
     "id": "t40-p010",
     "tema": 42,
-    "pregunta": "Una VPN es:",
+    "pregunta": "En Internet y correo electrónico, una VPN es:",
     "opciones": [
       "una conexión cifrada que crea un túnel seguro a través de internet",
       "un tipo de navegador",
@@ -198,7 +198,7 @@
   {
     "id": "t40-p011",
     "tema": 42,
-    "pregunta": "Una URL es:",
+    "pregunta": "En Internet y correo electrónico, una URL es:",
     "opciones": [
       "la dirección completa que identifica un recurso en internet",
       "un archivo comprimido",
@@ -212,7 +212,7 @@
   {
     "id": "t40-p012",
     "tema": 42,
-    "pregunta": "SaaS significa:",
+    "pregunta": "En Internet y correo electrónico, SaaS significa:",
     "opciones": [
       "software accesible desde el navegador sin instalación local",
       "infraestructura física virtualizada",
@@ -226,7 +226,7 @@
   {
     "id": "t40-p013",
     "tema": 42,
-    "pregunta": "Un navegador web es el programa que permite:",
+    "pregunta": "En Internet y correo electrónico, un navegador web es el programa que permite:",
     "opciones": [
       "acceder, visualizar e interactuar con los recursos de la World Wide Web",
       "crear bases de datos",
@@ -254,7 +254,7 @@
   {
     "id": "t40-p015",
     "tema": 42,
-    "pregunta": "La navegación privada:",
+    "pregunta": "En Internet y correo electrónico, la navegación privada:",
     "opciones": [
       "no guarda historial ni cookies al cerrar la ventana, aunque no hace anónimo al usuario",
       "borra todos los archivos del equipo",
@@ -366,7 +366,7 @@
   {
     "id": "estado2026-extra-t42-07",
     "tema": 42,
-    "pregunta": "Una estación de trabajo virtual separada del dispositivo físico desde el que se accede es un:",
+    "pregunta": "En Internet y correo electrónico, una estación de trabajo virtual separada del dispositivo físico desde el que se accede es un:",
     "opciones": [
       "Escritorio virtual",
       "Servicio web",

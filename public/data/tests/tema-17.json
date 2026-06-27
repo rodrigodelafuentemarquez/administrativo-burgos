@@ -16,7 +16,7 @@
   {
     "id": "pdf-2025-burgos-q21",
     "tema": 17,
-    "pregunta": "Señale el artículo de la Ley 40/2015 que regula el principio de la potestad sancionadora segun el cual seran de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa:",
+    "pregunta": "En potestad sancionadora, señale el artículo de la Ley 40/2015 que regula el principio de la potestad sancionadora según el cuál serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa:",
     "opciones": [
       "Articulo 25. Principio de legalidad",
       "Articulo 26. Irretroactividad",
@@ -29,7 +29,7 @@
   },
   {
     "id": "topup-17-02",
-    "pregunta": "El principio de legalidad sancionadora exige:",
+    "pregunta": "En potestad sancionadora, el principio de legalidad sancionadora exige:",
     "opciones": [
       "cobertura normativa suficiente para infracciones y sanciones",
       "libertad total del instructor para fijar la sanción",
@@ -43,7 +43,7 @@
   },
   {
     "id": "topup-17-03",
-    "pregunta": "El principio de tipicidad implica que:",
+    "pregunta": "En potestad sancionadora, el principio de tipicidad implica que:",
     "opciones": [
       "la conducta debe encajar en una infracción previamente definida",
       "puede sancionarse por analogia amplia",
@@ -57,7 +57,7 @@
   },
   {
     "id": "topup-17-04",
-    "pregunta": "La analogia en materia sancionadora:",
+    "pregunta": "En potestad sancionadora, la analogía en materia sancionadora:",
     "opciones": [
       "no puede utilizarse para sancionar",
       "es obligatoria cuando falte ordenanza",
@@ -71,7 +71,7 @@
   },
   {
     "id": "topup-17-05",
-    "pregunta": "La retroactividad favorable en materia sancionadora permite aplicar:",
+    "pregunta": "En potestad sancionadora, la retroactividad favorable en materia sancionadora permite aplicar:",
     "opciones": [
       "la disposición posterior mas beneficiosa",
       "siempre la norma mas antigua",
@@ -85,7 +85,7 @@
   },
   {
     "id": "topup-17-06",
-    "pregunta": "El principio de responsabilidad en materia sancionadora se dirige a:",
+    "pregunta": "En potestad sancionadora, el principio de responsabilidad en materia sancionadora se dirige a:",
     "opciones": [
       "las personas físicas o jurídicas responsables de la infracción",
       "cualquier vecino del municipio",
@@ -99,7 +99,7 @@
   },
   {
     "id": "topup-17-07",
-    "pregunta": "El principio non bis in idem impide:",
+    "pregunta": "En potestad sancionadora, el principio non bis in idem impide:",
     "opciones": [
       "sancionar dos veces por los mismos hechos, sujeto y fundamento",
       "tramitar audiencia al interesado",
@@ -113,7 +113,7 @@
   },
   {
     "id": "topup-17-08",
-    "pregunta": "La proporcionalidad sancionadora exige que la sanción:",
+    "pregunta": "En potestad sancionadora, la proporcionalidad sancionadora exige que la sanción:",
     "opciones": [
       "guarde adecuada relación con la gravedad de la infracción",
       "sea siempre la maxima posible",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-17-09",
-    "pregunta": "La presunción de inocencia en el procedimiento sancionador implica que:",
+    "pregunta": "En potestad sancionadora, la presunción de inocencia en el procedimiento sancionador implica que:",
     "opciones": [
       "la Administración debe acreditar los hechos",
       "el interesado debe probar siempre su inocencia",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-17-11",
-    "pregunta": "La iniciación del procedimiento sancionador debe identificar al menos:",
+    "pregunta": "En potestad sancionadora, la iniciación del procedimiento sancionador debe identificar al menos:",
     "opciones": [
       "hechos, posible responsable y sanciones que pudieran corresponder",
       "solo el nombre del instructor",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-17-13",
-    "pregunta": "La resolución sancionadora debe ser:",
+    "pregunta": "En potestad sancionadora, la resolución sancionadora debe ser:",
     "opciones": [
       "motivada y congruente con los hechos probados",
       "verbal y sin firma",
@@ -197,7 +197,7 @@
   },
   {
     "id": "topup-17-16",
-    "pregunta": "La separación entre fase instructora y resolutoria busca garantizar:",
+    "pregunta": "En potestad sancionadora, la separación entre fase instructora y resolutoria busca garantizar:",
     "opciones": [
       "imparcialidad del procedimiento",
       "mayor recaudación",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-17-17",
-    "pregunta": "La sanción administrativa puede ser pecuniaria o no pecuniaria, pero nunca:",
+    "pregunta": "En potestad sancionadora, la sanción administrativa puede ser pecuniaria o no pecuniaria, pero nunca:",
     "opciones": [
       "privativa de libertad",
       "motivada",
@@ -239,7 +239,7 @@
   },
   {
     "id": "refine-17-02",
-    "pregunta": "Las medidas provisionales en un procedimiento sancionador deben ser:",
+    "pregunta": "En potestad sancionadora, las medidas provisionales en un procedimiento sancionador deben ser:",
     "opciones": [
       "proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolución final",
       "automaticas y siempre pecuniarias",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-17-03",
-    "pregunta": "La separación entre fase instructora y fase resolutoria en el procedimiento sancionador persigue reforzar especialmente la:",
+    "pregunta": "En potestad sancionadora, la separación entre fase instructora y fase resolutoria en el procedimiento sancionador persigue reforzar especialmente la:",
     "opciones": [
       "imparcialidad y objetividad",
       "recaudación inmediata",
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-17-05",
-    "pregunta": "La resolución sancionadora debe pronunciarse sobre:",
+    "pregunta": "En potestad sancionadora, la resolución sancionadora debe pronunciarse sobre:",
     "opciones": [
       "Los hechos, su calificación jurídica, la persona responsable y la sanción impuesta o la declaración de inexistencia de infracción o responsabilidad",
       "Únicamente la cuantía económica de la multa, si la hubiera",

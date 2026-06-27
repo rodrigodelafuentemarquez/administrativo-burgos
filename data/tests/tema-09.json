@@ -2,7 +2,7 @@
   {
     "id": "pdf-2023-burgos-q11",
     "tema": 9,
-    "pregunta": "Qué Ley aprobo el Estatuto de Autonomía de Castilla y León?",
+    "pregunta": "¿Qué Ley aprobó el Estatuto de Autonomía de Castilla y León?",
     "opciones": [
       "Ley Orgánica 4/1985, de 25 de febrero",
       "Ley Orgánica 4/1983, de 25 de febrero",
@@ -30,7 +30,7 @@
   {
     "id": "pdf-2025-burgos-q08",
     "tema": 9,
-    "pregunta": "Las instituciones básicas de la Comunidad de Castilla y León, segun su Estatuto de Autonomía, son:",
+    "pregunta": "Las instituciones básicas de la Comunidad de Castilla y León, según su Estatuto de Autonomía, son:",
     "opciones": [
       "Las Cortes y la Junta de Castilla y León",
       "La Junta de Castilla y León y el Presidente",
@@ -72,7 +72,7 @@
   {
     "id": "t08-p003",
     "tema": 9,
-    "pregunta": "Según el art. 4 EACyL, la capital de Castilla y León es:",
+    "pregunta": "Según el Estatuto de Autonomía de Castilla y León, la capital de Castilla y León es:",
     "opciones": [
       "Burgos",
       "León",
@@ -100,7 +100,7 @@
   {
     "id": "t08-p005",
     "tema": 9,
-    "pregunta": "Las Cortes de Castilla y León se componen de:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, las Cortes de Castilla y León se componen de:",
     "opciones": [
       "61 a 83 procuradores",
       "50 a 100 procuradores",
@@ -114,7 +114,7 @@
   {
     "id": "t08-p006",
     "tema": 9,
-    "pregunta": "Según el Tema 8, ¿qué mayoría se exige para elegir al Presidente de la Junta en primera votación?",
+    "pregunta": "En Castilla y León, ¿qué mayoría se exige para elegir al Presidente de la Junta en primera votación?",
     "opciones": [
       "Mayoría simple",
       "Mayoría absoluta",
@@ -142,7 +142,7 @@
   {
     "id": "t08-p008",
     "tema": 9,
-    "pregunta": "Según el Tema 8, sanidad, educación, medio ambiente y régimen local son materias de competencia:",
+    "pregunta": "En Castilla y León, sanidad, educación, medio ambiente y régimen local son materias de competencia:",
     "opciones": [
       "Exclusiva del Estado",
       "Compartida o de desarrollo legislativo",
@@ -226,7 +226,7 @@
   {
     "id": "t08-p014",
     "tema": 9,
-    "pregunta": "¿Qué puede hacer el Presidente de la Junta de Castilla y León?",
+    "pregunta": "En la organización institucional de Castilla y León, ¿qué puede hacer el Presidente de la Junta?",
     "opciones": [
       "Convocar elecciones generales y disolver las Cortes Generales",
       "Plantear la cuestión de confianza y acordar la disolución anticipada de las Cortes de Castilla y León en los casos previstos estatutariamente",
@@ -240,7 +240,7 @@
   {
     "id": "t08-p015",
     "tema": 9,
-    "pregunta": "¿Cuánto dura el mandato del Procurador del Común?",
+    "pregunta": "En Castilla y León, ¿cuánto dura el mandato del Procurador del Común?",
     "opciones": [
       "4 años, renovable indefinidamente",
       "5 años, renovable una sola vez",
@@ -268,7 +268,7 @@
   {
     "id": "t47-p002",
     "tema": 9,
-    "pregunta": "La capital de Castilla y León es:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, la capital de Castilla y León es:",
     "opciones": [
       "León",
       "Valladolid",
@@ -282,7 +282,7 @@
   {
     "id": "t47-p003",
     "tema": 9,
-    "pregunta": "Las Cortes de Castilla y León son una asamblea:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, las Cortes de Castilla y León son una asamblea:",
     "opciones": [
       "Bicameral",
       "Unicameral",
@@ -310,7 +310,7 @@
   {
     "id": "t47-p005",
     "tema": 9,
-    "pregunta": "El mandato de los Procuradores es de:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, el mandato de los Procuradores es de:",
     "opciones": [
       "Tres años",
       "Cuatro años",
@@ -338,7 +338,7 @@
   {
     "id": "t47-p007",
     "tema": 9,
-    "pregunta": "El Presidente de la Junta es elegido por:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, el Presidente de la Junta es elegido por:",
     "opciones": [
       "El Rey directamente",
       "Las Cortes mediante investidura",
@@ -352,7 +352,7 @@
   {
     "id": "t47-p008",
     "tema": 9,
-    "pregunta": "¿Cuál de las siguientes es una atribución del Presidente de la Junta?",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, ¿cuál de las siguientes es una atribución del Presidente de la Junta?",
     "opciones": [
       "Aprobar las leyes autonómicas",
       "Promulgar y ordenar la publicación de las leyes",
@@ -366,7 +366,7 @@
   {
     "id": "t47-p009",
     "tema": 9,
-    "pregunta": "El Consejo de Gobierno está compuesto por:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, el Consejo de Gobierno está compuesto por:",
     "opciones": [
       "Procuradores y Senadores",
       "Presidente y Consejeros",
@@ -394,7 +394,7 @@
   {
     "id": "t47-p011",
     "tema": 9,
-    "pregunta": "El Procurador del Común es el equivalente autonómico de:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, el Procurador del Común es el equivalente autonómico de:",
     "opciones": [
       "El Tribunal de Cuentas",
       "El Defensor del Pueblo",
@@ -422,7 +422,7 @@
   {
     "id": "t47-p013",
     "tema": 9,
-    "pregunta": "El Consejo de Cuentas de Castilla y León tiene función:",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, el Consejo de Cuentas de Castilla y León tiene función:",
     "opciones": [
       "Jurisdiccional y consultiva",
       "Fiscalizadora",
@@ -464,7 +464,7 @@
   {
     "id": "t47-p016",
     "tema": 9,
-    "pregunta": "De acuerdo con el Estatuto de Autonomía de Castilla y León y con el Tema 47, a cada provincia le corresponde un mínimo de:",
+    "pregunta": "De acuerdo con el Estatuto de Autonomía de Castilla y León, a cada provincia le corresponde un mínimo de:",
     "opciones": [
       "Dos Procuradores",
       "Tres Procuradores",
@@ -478,7 +478,7 @@
   {
     "id": "t47-p017",
     "tema": 9,
-    "pregunta": "De acuerdo con el Tema 47, corresponde al Presidente de la Junta de Castilla y León:",
+    "pregunta": "En Castilla y León, corresponde al Presidente de la Junta de Castilla y León:",
     "opciones": [
       "Nombrar y cesar libremente a los Consejeros",
       "Elegir a los Procuradores provinciales",
@@ -520,7 +520,7 @@
   {
     "id": "t47-p020",
     "tema": 9,
-    "pregunta": "Según el Tema 47, los Consejeros electivos del Consejo Consultivo de Castilla y León son elegidos por las Cortes de Castilla y León para un mandato de:",
+    "pregunta": "En Castilla y León, los Consejeros electivos del Consejo Consultivo de Castilla y León son elegidos por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
       "Cuatro años",
       "Cinco años",
@@ -534,7 +534,7 @@
   {
     "id": "t47-p021",
     "tema": 9,
-    "pregunta": "De acuerdo con el Tema 47, el candidato a Presidente de la Junta de Castilla y León resultara investido en segunda votación si obtiene:",
+    "pregunta": "En Castilla y León, el candidato a Presidente de la Junta de Castilla y León resultara investido en segunda votación si obtiene:",
     "opciones": [
       "Mayoria de tres quintos de las Cortes",
       "Mayoria absoluta de las Cortes",
@@ -548,7 +548,7 @@
   {
     "id": "t47-p022",
     "tema": 9,
-    "pregunta": "Según el Tema 47, el Procurador del Comun es elegido por las Cortes de Castilla y León para un mandato de:",
+    "pregunta": "En Castilla y León, el Procurador del Comun es elegido por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
       "Cuatro años, renovable",
       "Cinco años, no renovable",
@@ -562,7 +562,7 @@
   {
     "id": "t47-p023",
     "tema": 9,
-    "pregunta": "Conforme al Tema 47, el Consejo de Cuentas de Castilla y León:",
+    "pregunta": "En Castilla y León, el Consejo de Cuentas de Castilla y León:",
     "opciones": [
       "Tiene funciones fiscalizadora y jurisdiccional, al igual que el Tribunal de Cuentas del Estado",
       "Solo tiene función fiscalizadora y no puede enjuiciar la responsabilidad contable",
@@ -576,7 +576,7 @@
   {
     "id": "t47-p024",
     "tema": 9,
-    "pregunta": "Según el Tema 47, el Procurador del Común es elegido por las Cortes de Castilla y León por:",
+    "pregunta": "En Castilla y León, el Procurador del Común es elegido por las Cortes de Castilla y León por:",
     "opciones": [
       "Mayoría de tres quintos en primera votación o mayoría absoluta en segunda.",
       "Mayoría absoluta en primera votación y mayoría simple en segunda.",
@@ -590,7 +590,7 @@
   {
     "id": "t47-p025",
     "tema": 9,
-    "pregunta": "De acuerdo con el Tema 47, el Consejo de Cuentas de Castilla y León está compuesto por:",
+    "pregunta": "En Castilla y León, el Consejo de Cuentas de Castilla y León está compuesto por:",
     "opciones": [
       "Siete Consejeros elegidos por las Cortes por mayoría de tres quintos para un mandato de seis años.",
       "Cinco Consejeros elegidos por la Junta por mayoría simple para un mandato de cuatro años.",
@@ -604,7 +604,7 @@
   {
     "id": "t47-p026",
     "tema": 9,
-    "pregunta": "Según el Tema 47, forman parte del Consejo Consultivo de Castilla y León como Consejeros permanentes:",
+    "pregunta": "En Castilla y León, forman parte del Consejo Consultivo de Castilla y León como Consejeros permanentes:",
     "opciones": [
       "Los ex-Presidentes de la Junta y los ex-Presidentes de las Cortes de Castilla y León que así lo soliciten.",
       "Los Presidentes de las Diputaciones Provinciales en activo.",
@@ -632,7 +632,7 @@
   {
     "id": "burgos-i09-hard-02",
     "tema": 9,
-    "pregunta": "¿Cuál de estas provincias NO integra Castilla y León?",
+    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, ¿cuál de estas provincias NO integra Castilla y León?",
     "opciones": [
       "Logroño",
       "Burgos",

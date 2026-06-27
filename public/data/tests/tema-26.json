@@ -30,7 +30,7 @@
   {
     "id": "t30-p004",
     "tema": 26,
-    "pregunta": "La asistencia sanitaria comprende:",
+    "pregunta": "En Seguridad Social, la asistencia sanitaria comprende:",
     "opciones": [
       "atención primaria, atención especializada y prestaciones farmacéuticas",
       "solo cirugía hospitalaria",
@@ -44,7 +44,7 @@
   {
     "id": "t30-p005",
     "tema": 26,
-    "pregunta": "La incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
+    "pregunta": "En Seguridad Social, la incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
     "opciones": [
       "asistencia sanitaria de la Seguridad Social",
       "autorización presupuestaria",
@@ -58,7 +58,7 @@
   {
     "id": "t30-p007",
     "tema": 26,
-    "pregunta": "La duración máxima de la incapacidad temporal es de:",
+    "pregunta": "En Seguridad Social, la duración máxima de la incapacidad temporal es de:",
     "opciones": [
       "365 días, prorrogables por otros 180",
       "90 días, prorrogables por otros 30",
@@ -72,7 +72,7 @@
   {
     "id": "t30-p008",
     "tema": 26,
-    "pregunta": "La prestación por nacimiento y cuidado de menor dura, con carácter general,:",
+    "pregunta": "En Seguridad Social, la prestación por nacimiento y cuidado de menor dura, con carácter general,:",
     "opciones": [
       "16 semanas por cada progenitor",
       "8 semanas por unidad familiar",
@@ -86,7 +86,7 @@
   {
     "id": "t30-p009",
     "tema": 26,
-    "pregunta": "Las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son:",
+    "pregunta": "En Seguridad Social, las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son:",
     "opciones": [
       "obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento",
       "voluntarias y acumulables al final",
@@ -100,7 +100,7 @@
   {
     "id": "t30-p010",
     "tema": 26,
-    "pregunta": "La prestación económica por nacimiento y cuidado de menor, equivale al:",
+    "pregunta": "En Seguridad Social, la prestación económica por nacimiento y cuidado de menor, equivale al:",
     "opciones": [
       "100 % de la base reguladora",
       "75 % de la base mínima",
@@ -114,7 +114,7 @@
   {
     "id": "t30-p011",
     "tema": 26,
-    "pregunta": "La incapacidad permanente total inhabilita al trabajador para:",
+    "pregunta": "En Seguridad Social, la incapacidad permanente total inhabilita al trabajador para:",
     "opciones": [
       "todas o las fundamentales tareas de su profesión habitual",
       "cualquier trabajo retribuido en cualquier caso",
@@ -142,7 +142,7 @@
   {
     "id": "t30-p018",
     "tema": 26,
-    "pregunta": "La incapacidad permanente parcial da derecho a:",
+    "pregunta": "En Seguridad Social, la incapacidad permanente parcial da derecho a:",
     "opciones": [
       "una indemnización a tanto alzado de 24 mensualidades de la base reguladora",
       "una pensión del 55 % de la base reguladora",
@@ -184,7 +184,7 @@
   {
     "id": "t45-p014",
     "tema": 26,
-    "pregunta": "MUFACE se caracteriza por permitir al mutualista:",
+    "pregunta": "En Seguridad Social de empleados públicos, MUFACE se caracteriza por permitir al mutualista:",
     "opciones": [
       "Elegir entre red pública y aseguradora privada concertada",
       "Percibir retribuciones complementarias",
@@ -239,7 +239,7 @@
   },
   {
     "id": "topup-26-02",
-    "pregunta": "El campo de aplicación del sistema de Seguridad Social delimita:",
+    "pregunta": "En Seguridad Social, el campo de aplicación del sistema delimita:",
     "opciones": [
       "quienes quedan incluidos y protegidos por el sistema",
       "la organización del Pleno",
@@ -253,7 +253,7 @@
   },
   {
     "id": "topup-26-03",
-    "pregunta": "La asistencia sanitaria forma parte de la:",
+    "pregunta": "En Seguridad Social, la asistencia sanitaria forma parte de la:",
     "opciones": [
       "acción protectora de la Seguridad Social",
       "potestad reglamentaria tributaria",

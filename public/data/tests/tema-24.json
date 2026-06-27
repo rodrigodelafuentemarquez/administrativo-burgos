@@ -16,7 +16,7 @@
   {
     "id": "t29-p002",
     "tema": 24,
-    "pregunta": "El personal laboral no puede desempeñar funciones que impliquen:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el personal laboral no puede desempeñar funciones que impliquen:",
     "opciones": [
       "participación directa o indirecta en el ejercicio de potestades públicas",
       "atención al ciudadano",
@@ -30,7 +30,7 @@
   {
     "id": "t29-p003",
     "tema": 24,
-    "pregunta": "Una clase de personal laboral es:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, una clase de personal laboral es:",
     "opciones": [
       "fijo, indefinido no fijo y temporal",
       "titular, suplente y eventual",
@@ -44,7 +44,7 @@
   {
     "id": "t29-p004",
     "tema": 24,
-    "pregunta": "El contrato de trabajo es:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato de trabajo es:",
     "opciones": [
       "El acuerdo por el que el trabajador presta servicios voluntariamente, por cuenta ajena y dentro del ámbito de organización y dirección del empleador, a cambio de retribución",
       "La decisión unilateral de la administración de adscribir a una persona a un puesto sin contraprestación salarial",
@@ -58,7 +58,7 @@
   {
     "id": "t29-p005",
     "tema": 24,
-    "pregunta": "Son notas esenciales del contrato de trabajo:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, son notas esenciales del contrato de trabajo:",
     "opciones": [
       "voluntariedad, retribución, ajenidad y dependencia",
       "publicidad, igualdad, mérito y capacidad",
@@ -72,7 +72,7 @@
   {
     "id": "t29-p006",
     "tema": 24,
-    "pregunta": "El contrato de trabajo puede celebrarse:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato de trabajo puede celebrarse:",
     "opciones": [
       "por escrito o de palabra, aunque algunos deben constar por escrito",
       "solo por escrito en todos los casos",
@@ -86,7 +86,7 @@
   {
     "id": "t29-p007",
     "tema": 24,
-    "pregunta": "El período de prueba máximo para técnicos titulados es de:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el período de prueba máximo para técnicos titulados es de:",
     "opciones": [
       "6 meses",
       "2 meses",
@@ -100,7 +100,7 @@
   {
     "id": "t29-p008",
     "tema": 24,
-    "pregunta": "El contrato indefinido es:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato indefinido es:",
     "opciones": [
       "la modalidad ordinaria y preferente",
       "una excepción residual",
@@ -114,7 +114,7 @@
   {
     "id": "t29-p009",
     "tema": 24,
-    "pregunta": "Una modalidad temporal es:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, una modalidad temporal es:",
     "opciones": [
       "el contrato por circunstancias de la producción",
       "el contrato de arrendamiento",
@@ -128,7 +128,7 @@
   {
     "id": "t29-p010",
     "tema": 24,
-    "pregunta": "El contrato fijo-discontinuo se utiliza para:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato fijo-discontinuo se utiliza para:",
     "opciones": [
       "trabajos de naturaleza estacional o vinculados a actividades de temporada",
       "funciones de libre designación",
@@ -142,7 +142,7 @@
   {
     "id": "t29-p011",
     "tema": 24,
-    "pregunta": "Según el art. 4 ET, un derecho básico de los trabajadores es:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, un derecho básico de los trabajadores es:",
     "opciones": [
       "la huelga",
       "la potestad reglamentaria",
@@ -156,7 +156,7 @@
   {
     "id": "t29-p012",
     "tema": 24,
-    "pregunta": "Según el art. 4 ET, el trabajador tiene derecho a:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el trabajador tiene derecho a:",
     "opciones": [
       "la ocupación efectiva del puesto de trabajo",
       "la designación de sus superiores",
@@ -198,7 +198,7 @@
   {
     "id": "t29-p015",
     "tema": 24,
-    "pregunta": "Entre los principios éticos del personal público está:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, entre los principios éticos del personal público está:",
     "opciones": [
       "no aceptar regalos o favores que puedan comprometer la imparcialidad",
       "favorecer a los amigos del servicio",
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-24-03",
-    "pregunta": "Las incompatibilidades del personal laboral público se rigen, ademas del Estatuto de los Trabajadores, por:",
+    "pregunta": "Las incompatibilidades del personal laboral público se rigen, además del Estatuto de los Trabajadores, por:",
     "opciones": [
       "la normativa de incompatibilidades del sector público",
       "solo el Código Civil",
@@ -225,7 +225,7 @@
   },
   {
     "id": "topup-24-05",
-    "pregunta": "El personal laboral no puede ejercer funciones que impliquen:",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el personal laboral no puede ejercer funciones que impliquen:",
     "opciones": [
       "participación en potestades públicas reservadas a funcionarios",
       "uso de herramientas ofimaticas",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-24-02",
-    "pregunta": "El personal laboral al servicio de una Administración Publica se vincula mediante:",
+    "pregunta": "El personal laboral al servicio de una Administración Pública se vincula mediante:",
     "opciones": [
       "contrato de trabajo",
       "nombramiento funcionarial de carrera",

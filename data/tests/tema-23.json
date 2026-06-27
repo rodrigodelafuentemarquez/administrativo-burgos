@@ -2,7 +2,7 @@
   {
     "id": "t22-p012",
     "tema": 23,
-    "pregunta": "Según los arts. 85-92 TREBEP, el servicio activo es:",
+    "pregunta": "En situaciones administrativas de los funcionarios, el servicio activo es:",
     "opciones": [
       "la situación ordinaria en la que el funcionario presta servicios en su puesto",
       "una sanción disciplinaria",
@@ -30,7 +30,7 @@
   {
     "id": "t28-p014",
     "tema": 23,
-    "pregunta": "El servicio activo es la situación:",
+    "pregunta": "En situaciones administrativas de los funcionarios, el servicio activo es la situación:",
     "opciones": [
       "ordinaria del funcionario que presta servicios en su puesto",
       "que se da exclusivamente al jubilarse",
@@ -58,7 +58,7 @@
   {
     "id": "t46-p013",
     "tema": 23,
-    "pregunta": "La excedencia voluntaria por interés particular requiere:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia voluntaria por interés particular requiere:",
     "opciones": [
       "Cinco años de antigüedad",
       "Un año de antigüedad",
@@ -72,7 +72,7 @@
   {
     "id": "t46-p025",
     "tema": 23,
-    "pregunta": "De acuerdo con el Tema 46, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
     "opciones": [
       "Superación del proceso selectivo, nombramiento por el órgano competente y toma de posesión dentro del plazo establecido",
       "Nombramiento provisional, período de prueba y evaluación del desempeno",
@@ -86,7 +86,7 @@
   {
     "id": "t46-p029",
     "tema": 23,
-    "pregunta": "De acuerdo con el Tema 46, son causas de perdida de la condición de funcionario de carrera, entre otras:",
+    "pregunta": "En situaciones administrativas de los funcionarios, son causas de pérdida de la condición de funcionario de carrera, entre otras:",
     "opciones": [
       "La renuncia, la jubilación y la sanción disciplinaria de separación del servicio",
       "La falta de promoción interna en dos convocatorias consecutivas",
@@ -100,7 +100,7 @@
   {
     "id": "t46-p032",
     "tema": 23,
-    "pregunta": "De acuerdo con el TREBEP y con el Tema 46, la condición de funcionario de carrera se adquiere, ademas de por la superación del proceso selectivo, por:",
+    "pregunta": "De acuerdo con el TREBEP, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por:",
     "opciones": [
       "La toma de posesión dentro del plazo senalado",
       "La presentación del certificado de antecedentes penales",
@@ -114,7 +114,7 @@
   {
     "id": "t46-p033",
     "tema": 23,
-    "pregunta": "Conforme al TREBEP y al Tema 46, se podrá nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
+    "pregunta": "Conforme al TREBEP, se podrá nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
     "opciones": [
       "El exceso o acumulación de tareas por plazo máximo de doce meses dentro de un período de dieciocho meses",
       "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-23-02",
-    "pregunta": "La renuncia del funcionario, para producir la perdida de la condición, debe ser:",
+    "pregunta": "La renuncia del funcionario, para producir la pérdida de la condición debe ser:",
     "opciones": [
       "voluntaria y aceptada por la Administración, con los limites legales",
       "siempre oral",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-23-05",
-    "pregunta": "La excedencia por interes particular genera, como regla general:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia por interés particular genera, como regla general:",
     "opciones": [
       "ausencia de retribuciones y sin reserva de puesto",
       "plena reserva de puesto y sueldo integro",
@@ -155,7 +155,7 @@
   },
   {
     "id": "topup-23-06",
-    "pregunta": "La excedencia por cuidado de hijos o familiares protege especialmente:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia por cuidado de hijos o familiares protege especialmente:",
     "opciones": [
       "la conciliación",
       "la potestad sancionadora",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-23-07",
-    "pregunta": "La suspensión firme de funciones deriva de:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la suspensión firme de funciones deriva de:",
     "opciones": [
       "sanción disciplinaria o sentencia judicial",
       "simple solicitud del interesado",
@@ -183,7 +183,7 @@
   },
   {
     "id": "topup-23-08",
-    "pregunta": "La suspensión provisional se acuerda durante la tramitación de un procedimiento cuando:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la suspensión provisional se acuerda durante la tramitación de un procedimiento cuando:",
     "opciones": [
       "sea necesario y conforme a la ley",
       "el interesado quiera cobrar mas",
@@ -211,7 +211,7 @@
   },
   {
     "id": "refine-23-01",
-    "pregunta": "La renuncia a la condición de funcionario de carrera, para producir efectos, debe ser:",
+    "pregunta": "La renuncia a la condición de funcionario de carrera, para producir efectos debe ser:",
     "opciones": [
       "expresa y aceptada por la Administración salvo que la aceptación quede legalmente impedida",
       "siempre tacita si el funcionario no acude al puesto",
@@ -225,7 +225,7 @@
   },
   {
     "id": "refine-23-02",
-    "pregunta": "Los servicios especiales constituyen una situación administrativa propia de quien pasa a desempenar:",
+    "pregunta": "En situaciones administrativas de los funcionarios, los servicios especiales constituyen una situación administrativa propia de quien pasa a desempeñar:",
     "opciones": [
       "determinados cargos o funciones incompatibles con el servicio activo ordinario",
       "cualquier puesto temporal dentro del mismo departamento",
@@ -239,7 +239,7 @@
   },
   {
     "id": "refine-23-03",
-    "pregunta": "La excedencia voluntaria por interes particular se caracteriza, como regla general, porque:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia voluntaria por interés particular se caracteriza, como regla general, porque:",
     "opciones": [
       "no comporta reserva de puesto ni devengo de retribuciones",
       "mantiene siempre el mismo puesto reservado",
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-23-06",
-    "pregunta": "La jubilación del funcionario produce con carácter general:",
+    "pregunta": "En situaciones administrativas de los funcionarios, la jubilación produce con carácter general:",
     "opciones": [
       "la perdida de la condición de funcionario de carrera",
       "el pase automatico a servicios especiales",

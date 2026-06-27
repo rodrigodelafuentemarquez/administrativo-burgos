@@ -2,7 +2,7 @@
   {
     "id": "t09-p001",
     "tema": 5,
-    "pregunta": "La autonomía local tiene su fundamento directo en:",
+    "pregunta": "En régimen local, la autonomía local tiene su fundamento directo en:",
     "opciones": [
       "la Constitución Española de 1978",
       "la Carta Europea de Autonomía Local",
@@ -30,7 +30,7 @@
   {
     "id": "t09-p006",
     "tema": 5,
-    "pregunta": "¿Qué órgano de gobierno insular existe en Canarias?",
+    "pregunta": "En régimen local, ¿qué órgano de gobierno insular existe en Canarias?",
     "opciones": [
       "Consejos Insulares",
       "Cabildos Insulares",
@@ -44,7 +44,7 @@
   {
     "id": "t09-p007",
     "tema": 5,
-    "pregunta": "¿Cuál de las siguientes es una entidad local menor?",
+    "pregunta": "En régimen local, ¿cuál de las siguientes es una entidad local menor?",
     "opciones": [
       "Junta Vecinal",
       "Consejo Económico y Social",
@@ -86,7 +86,7 @@
   {
     "id": "t09-p011",
     "tema": 5,
-    "pregunta": "Las Haciendas Locales deben disponer de:",
+    "pregunta": "En régimen local, las Haciendas Locales deben disponer de:",
     "opciones": [
       "medios suficientes para el desempeño de sus funciones",
       "potestad legislativa propia",
@@ -114,7 +114,7 @@
   {
     "id": "t09-p015",
     "tema": 5,
-    "pregunta": "La autonomía local es:",
+    "pregunta": "En régimen local, la autonomía local es:",
     "opciones": [
       "una autonomía legislativa",
       "una autonomía administrativa, no política",
@@ -156,7 +156,7 @@
   {
     "id": "t10-p003",
     "tema": 5,
-    "pregunta": "¿Cuántas provincias tiene España?",
+    "pregunta": "En régimen local y organización territorial, ¿cuántas provincias tiene España?",
     "opciones": [
       "47",
       "48",
@@ -212,7 +212,7 @@
   {
     "id": "t10-p007",
     "tema": 5,
-    "pregunta": "¿Cómo se eligen los Diputados Provinciales?",
+    "pregunta": "En régimen local, ¿cómo se eligen los Diputados Provinciales?",
     "opciones": [
       "Por sufragio directo de todos los ciudadanos",
       "De forma indirecta entre los concejales de los municipios de la provincia",
@@ -310,7 +310,7 @@
   {
     "id": "t10-p014",
     "tema": 5,
-    "pregunta": "Según el Tema 10, ¿qué quórum de asistencia se exige para la válida constitución del Pleno de la Diputación?",
+    "pregunta": "En régimen local, ¿qué quórum de asistencia se exige para la válida constitución del Pleno de la Diputación?",
     "opciones": [
       "La mitad más uno de sus miembros",
       "Un tercio del número legal de miembros y nunca menos de tres",
@@ -366,7 +366,7 @@
   {
     "id": "burgos-i05-hard-03",
     "tema": 5,
-    "pregunta": "¿Qué caracteriza a una mancomunidad de municipios?",
+    "pregunta": "En régimen local, ¿qué caracteriza a una mancomunidad de municipios?",
     "opciones": [
       "Asociación voluntaria de municipios para ejecutar en común obras o servicios de su competencia",
       "Órgano necesario de todos los ayuntamientos",
@@ -394,7 +394,7 @@
   {
     "id": "estado2026-i05-01",
     "tema": 5,
-    "pregunta": "El régimen de organización de municipios de gran población se aplica, entre otros, a:",
+    "pregunta": "El régimen de organización de municipios de gran población se aplica, entre otros a:",
     "opciones": [
       "Municipios capitales de provincia, capitales autonómicas o sedes de instituciones autonómicas cuando lo decida la Asamblea Legislativa correspondiente a iniciativa del Ayuntamiento",
       "Todos los municipios de más de 100.000 habitantes sin excepción",

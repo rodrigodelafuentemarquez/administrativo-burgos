@@ -16,7 +16,7 @@
   {
     "id": "t22-p014",
     "tema": 25,
-    "pregunta": "El régimen de incompatibilidades del personal público, parte de que:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el régimen de incompatibilidades del personal público, parte de que:",
     "opciones": [
       "la incompatibilidad es la regla y la compatibilidad la excepción autorizada",
       "la compatibilidad es automática con cualquier segunda actividad",
@@ -30,7 +30,7 @@
   {
     "id": "t22-p019",
     "tema": 25,
-    "pregunta": "No requiere reconocimiento de compatibilidad:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, no requiere reconocimiento de compatibilidad:",
     "opciones": [
       "la producción y creación literaria, artística, científica y técnica",
       "el desempeño de una segunda actividad pública retribuida",
@@ -44,7 +44,7 @@
   {
     "id": "t46-p023",
     "tema": 25,
-    "pregunta": "De acuerdo con el Tema 46, cual de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, cuál de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
     "opciones": [
       "La negociación colectiva",
       "La libre elección del puesto sin procedimiento de provisión",
@@ -58,7 +58,7 @@
   {
     "id": "t46-p024",
     "tema": 25,
-    "pregunta": "Según el Tema 46, el incumplimiento de los servicios mínimos en caso de huelga por parte del personal al servicio de la Administración:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el incumplimiento de los servicios mínimos en caso de huelga por parte del personal al servicio de la Administración:",
     "opciones": [
       "No produce consecuencia alguna al tratarse del ejercicio de un derecho fundamental",
       "Puede dar lugar a responsabilidad disciplinaria",
@@ -72,7 +72,7 @@
   {
     "id": "t46-p028",
     "tema": 25,
-    "pregunta": "De acuerdo con el Tema 46, son objeto de negociación colectiva, entre otras materias:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, son objeto de negociación colectiva, entre otras materias:",
     "opciones": [
       "La aplicación del incremento global de retribuciones, los planes de empleo y la oferta de empleo público",
       "La resolución de expedientes disciplinarios individuales y la imposición concreta de sanciones",
@@ -113,7 +113,7 @@
   },
   {
     "id": "topup-25-07",
-    "pregunta": "Durante la huelga, con carácter general, se suspende:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, durante la huelga se suspende:",
     "opciones": [
       "el trabajo y el salario en los terminos legales",
       "la relación estatutaria de forma definitiva",
@@ -127,7 +127,7 @@
   },
   {
     "id": "topup-25-08",
-    "pregunta": "El régimen de incompatibilidades persigue especialmente salvaguardar:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el régimen de incompatibilidades persigue especialmente salvaguardar:",
     "opciones": [
       "imparcialidad e independencia",
       "la discrecionalidad política absoluta",
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-25-09",
-    "pregunta": "La regla general en materia de incompatibilidades del personal público es que:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la regla general en materia de incompatibilidades del personal público es que:",
     "opciones": [
       "no se puede compatibilizar un puesto público con otro salvo excepciones legales",
       "siempre se pueden acumular dos puestos públicos",
@@ -169,7 +169,7 @@
   },
   {
     "id": "topup-25-11",
-    "pregunta": "La compatibilidad para una segunda actividad debe solicitarse:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la compatibilidad para una segunda actividad debe solicitarse:",
     "opciones": [
       "antes de iniciar la actividad",
       "despues de cobrar la primera mensualidad",
@@ -183,7 +183,7 @@
   },
   {
     "id": "topup-25-12",
-    "pregunta": "Entre las actividades normalmente exceptuadas del régimen de incompatibilidades se encuentra:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, entre las actividades normalmente exceptuadas del régimen de incompatibilidades se encuentra:",
     "opciones": [
       "la administración del patrimonio personal",
       "la tramitación privada de licencias del propio Ayuntamiento",
@@ -197,7 +197,7 @@
   },
   {
     "id": "topup-25-13",
-    "pregunta": "El incumplimiento del régimen de incompatibilidades puede generar:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el incumplimiento del régimen de incompatibilidades puede generar:",
     "opciones": [
       "responsabilidad disciplinaria",
       "investidura automatica",
@@ -225,7 +225,7 @@
   },
   {
     "id": "refine-25-02",
-    "pregunta": "La negociación colectiva de los empleados públicos se desarrolla dentro del marco fijado por:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la negociación colectiva de los empleados públicos se desarrolla dentro del marco fijado por:",
     "opciones": [
       "el TREBEP y la normativa aplicable",
       "solo el Estatuto de los Trabajadores comun",
@@ -253,7 +253,7 @@
   },
   {
     "id": "refine-25-04",
-    "pregunta": "La regla general del régimen de incompatibilidades del personal al servicio del sector público es que:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la regla general del régimen de incompatibilidades del personal al servicio del sector público es que:",
     "opciones": [
       "no puede compatibilizarse un segundo puesto o actividad salvo en los supuestos legalmente previstos",
       "toda actividad privada es libre sin autorización",
@@ -296,7 +296,7 @@
   {
     "id": "estado2026-extra-t25-02",
     "tema": 25,
-    "pregunta": "El desempeño de un segundo puesto público o privado compatible exige, como regla general:",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el desempeño de un segundo puesto público o privado compatible exige, como regla general:",
     "opciones": [
       "Autorización o reconocimiento previo de compatibilidad cuando proceda",
       "Simple comunicación posterior al superior jerárquico",

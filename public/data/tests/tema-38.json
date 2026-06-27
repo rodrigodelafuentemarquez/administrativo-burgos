@@ -44,7 +44,7 @@
   {
     "id": "pdf-2025-burgos-q57",
     "tema": 38,
-    "pregunta": "En qué artículo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electrónicos?",
+    "pregunta": "¿En qué artículo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electrónicos?",
     "opciones": [
       "Articulo 41",
       "Articulo 38",
@@ -86,7 +86,7 @@
   {
     "id": "t34-p003",
     "tema": 38,
-    "pregunta": "Uno de los principios de la administración electrónica es:",
+    "pregunta": "En administración electrónica, uno de sus principios es:",
     "opciones": [
       "la interoperabilidad",
       "la opacidad",
@@ -100,7 +100,7 @@
   {
     "id": "t34-p004",
     "tema": 38,
-    "pregunta": "La sede electrónica es:",
+    "pregunta": "En administración electrónica, la sede electrónica es:",
     "opciones": [
       "la dirección electrónica de titularidad, gestión y administración de una Administración Pública",
       "un simple enlace de redes sociales",
@@ -114,7 +114,7 @@
   {
     "id": "t34-p005",
     "tema": 38,
-    "pregunta": "El Punto de Acceso General electrónico de la AGE es:",
+    "pregunta": "En administración electrónica, el Punto de Acceso General electrónico de la AGE es:",
     "opciones": [
       "el portal web de entrada única a los servicios electrónicos del Estado",
       "un archivo municipal",
@@ -128,7 +128,7 @@
   {
     "id": "t34-p006",
     "tema": 38,
-    "pregunta": "Un sistema de identificación admitido es:",
+    "pregunta": "En administración electrónica, un sistema de identificación admitido es:",
     "opciones": [
       "el DNI electrónico",
       "solo el pasaporte ordinario",
@@ -142,7 +142,7 @@
   {
     "id": "t34-p007",
     "tema": 38,
-    "pregunta": "La firma electrónica sirve para garantizar:",
+    "pregunta": "En administración electrónica, la firma electrónica sirve para garantizar:",
     "opciones": [
       "la autenticidad del firmante y la integridad del documento firmado",
       "la velocidad de conexión",
@@ -156,7 +156,7 @@
   {
     "id": "t34-p008",
     "tema": 38,
-    "pregunta": "El procedimiento administrativo puede iniciarse electrónicamente a través de:",
+    "pregunta": "En administración electrónica, el procedimiento administrativo puede iniciarse electrónicamente a través de:",
     "opciones": [
       "la sede electrónica o el registro electrónico",
       "solo el buzón postal",
@@ -170,7 +170,7 @@
   {
     "id": "t34-p010",
     "tema": 38,
-    "pregunta": "Las notificaciones se practicarán preferentemente:",
+    "pregunta": "En administración electrónica, las notificaciones se practicarán preferentemente:",
     "opciones": [
       "por medios electrónicos",
       "solo en papel",
@@ -184,7 +184,7 @@
   {
     "id": "t34-p011",
     "tema": 38,
-    "pregunta": "La DEHú es:",
+    "pregunta": "En administración electrónica, la DEHú es:",
     "opciones": [
       "el sistema de notificación electrónica de la Administración General del Estado",
       "un archivo histórico digital",
@@ -212,7 +212,7 @@
   {
     "id": "t34-p013",
     "tema": 38,
-    "pregunta": "La actuación automatizada es aquella en la que determinados actos pueden ser adoptados:",
+    "pregunta": "En administración electrónica, la actuación automatizada es aquella en la que determinados actos pueden ser adoptados:",
     "opciones": [
       "sin intervención directa de un empleado público, cuando el procedimiento pueda resolverse mediante reglas predeterminadas",
       "solo por el interventor",
@@ -226,7 +226,7 @@
   {
     "id": "t34-p014",
     "tema": 38,
-    "pregunta": "El ENS es el esquema que establece:",
+    "pregunta": "En administración electrónica, el ENS es el esquema que establece:",
     "opciones": [
       "los principios y requisitos de seguridad en los sistemas de información del sector público",
       "las reglas del presupuesto local",
@@ -240,7 +240,7 @@
   {
     "id": "t34-p016",
     "tema": 38,
-    "pregunta": "El código seguro de verificación (CSV) permite:",
+    "pregunta": "En administración electrónica, el código seguro de verificación (CSV) permite:",
     "opciones": [
       "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
       "sustituir en todo caso la firma electrónica cualificada del ciudadano",
@@ -254,7 +254,7 @@
   {
     "id": "t34-p017",
     "tema": 38,
-    "pregunta": "La presentación electrónica de una solicitud genera automáticamente un recibo con:",
+    "pregunta": "En administración electrónica, la presentación electrónica de una solicitud genera automáticamente un recibo con:",
     "opciones": [
       "número de registro, fecha, hora e identificación del documento presentado",
       "solo la identidad del funcionario que tramitará el expediente",
@@ -268,7 +268,7 @@
   {
     "id": "t34-p018",
     "tema": 38,
-    "pregunta": "El aviso de que existe una notificación electrónica pendiente:",
+    "pregunta": "En administración electrónica, el aviso de que existe una notificación electrónica pendiente:",
     "opciones": [
       "no sustituye a la notificación",
       "equivale por sí mismo a la práctica de la notificación",
@@ -282,7 +282,7 @@
   {
     "id": "t34-p019",
     "tema": 38,
-    "pregunta": "El SIR materializa principalmente el principio de:",
+    "pregunta": "En administración electrónica, el SIR materializa principalmente el principio de:",
     "opciones": [
       "ventanilla única",
       "jerarquía normativa",
@@ -310,7 +310,7 @@
   {
     "id": "t34-p021",
     "tema": 38,
-    "pregunta": "De acuerdo con el Tema 34, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con carácter general:",
+    "pregunta": "En administración electrónica, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con carácter general:",
     "opciones": [
       "Unicamente en soporte papel para garantizar su autenticidad",
       "Por medios electrónicos",
@@ -324,7 +324,7 @@
   {
     "id": "t34-p022",
     "tema": 38,
-    "pregunta": "Según el art. 40 LRJSP y el Tema 34, las Administraciones Públicas podrán identificarse mediante:",
+    "pregunta": "Según el art. 40 LRJSP, las Administraciones Públicas podrán identificarse mediante:",
     "opciones": [
       "Un sello electrónico basado en un certificado electrónico reconocido o cualificado",
       "Exclusivamente mediante firma manuscrita digitalizada",
@@ -352,7 +352,7 @@
   {
     "id": "estado2026-extra-t38-02",
     "tema": 38,
-    "pregunta": "El aviso de puesta a disposición de una notificación electrónica:",
+    "pregunta": "En administración electrónica, el aviso de puesta a disposición de una notificación electrónica:",
     "opciones": [
       "No sustituye a la notificación, aunque informa de que existe una notificación pendiente",
       "Equivale siempre a la práctica de la notificación",
