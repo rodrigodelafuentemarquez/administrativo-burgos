@@ -71,7 +71,7 @@
   },
   {
     "id": "topup-27-12",
-    "pregunta": "Entre los elementos que debe contener una ordenanza fiscal esta el:",
+    "pregunta": "Entre los elementos que debe contener una ordenanza fiscal está el:",
     "opciones": [
       "hecho imponible",
       "orden de sucesión a la Corona",
@@ -85,7 +85,7 @@
   },
   {
     "id": "topup-27-13",
-    "pregunta": "En una tasa, la memoria tecnico-económica es importante porque debe justificar:",
+    "pregunta": "En una tasa, la memoria técnico-económica es importante porque debe justificar:",
     "opciones": [
       "el coste real o previsible del servicio o actividad",
       "la composición del Pleno",
@@ -93,7 +93,7 @@
       "la capitalidad de Castilla y León"
     ],
     "correcta": 0,
-    "explicación": "La cuantia de la tasa no puede desvincularse del coste o valor del servicio.",
+    "explicación": "La cuantía de la tasa no puede desvincularse del coste o valor del servicio.",
     "referencia": "IV.1 · Contenido de las ordenanzas fiscales",
     "tema": 27
   },
@@ -103,7 +103,7 @@
     "opciones": [
       "Pleno",
       "Secretario General",
-      "Consejo de Gobierno de la comunidad autonoma",
+      "Consejo de Gobierno de la comunidad autónoma",
       "Tribunal Supremo"
     ],
     "correcta": 0,
@@ -163,7 +163,7 @@
       "militar"
     ],
     "correcta": 0,
-    "explicación": "Las disposiciones generales tributarias locales se controlan en via contenciosa.",
+    "explicación": "Las disposiciones generales tributarias locales se controlan en vía contenciosa.",
     "referencia": "IV.1 · Impugnación",
     "tema": 27
   },
@@ -262,7 +262,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Tasas",
-    "explicación": "La tasa se conecta con un aprovechamiento especial del dominio público o con servicios y actividades administrativas en los terminos legales.",
+    "explicación": "La tasa se conecta con un aprovechamiento especial del dominio público o con servicios y actividades administrativas en los términos legales.",
     "tema": 27
   },
   {
@@ -297,7 +297,7 @@
     "id": "refine-27-08",
     "pregunta": "En un municipio de gran población, determinados actos de gestión tributaria municipal pueden ser revisados en vía económico-administrativa ante:",
     "opciones": [
-      "el Tribunal Economico-Administrativo Municipal",
+      "el Tribunal Económico-Administrativo Municipal",
       "el Pleno en sesión ordinaria",
       "la Junta Electoral de Zona",
       "la Diputación Provincial como órgano revisor necesario"

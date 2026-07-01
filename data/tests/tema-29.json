@@ -171,13 +171,13 @@
     "id": "topup-29-06",
     "pregunta": "En la ejecución del presupuesto de gasto, los compromisos de gasto para ejercicios posteriores deben respetar:",
     "opciones": [
-      "los limites legales aplicables a los gastos plurianuales",
+      "los límites legales aplicables a los gastos plurianuales",
       "solo la voluntad del concejal delegado",
       "la ausencia de expediente",
       "la decisión del proveedor"
     ],
     "correcta": 0,
-    "explicación": "No pueden asumirse libremente al margen de los limites normativos.",
+    "explicación": "No pueden asumirse libremente al margen de los límites normativos.",
     "referencia": "IV.3 · Compromisos para ejercicios posteriores",
     "tema": 29
   },
@@ -269,7 +269,7 @@
     "id": "refine-29-05",
     "pregunta": "En la ejecución del presupuesto de gasto, los anticipos de caja fija se emplean principalmente para:",
     "opciones": [
-      "gastos periodicos o repetitivos de pequena cuantia que requieren agilidad",
+      "gastos periodicos o repetitivos de pequena cuantía que requieren agilidad",
       "cualquier subvención de capital plurianual",
       "modificar el presupuesto por falta de crédito",
       "ordenar pagos sin justificante alguno"
@@ -290,7 +290,7 @@
       "Antes de la aprobación del expediente de gasto"
     ],
     "correcta": 0,
-    "explicacion": "El examen de Estado 2026 recuerda el plazo de un mes desde la inversión y, en todo caso, tres meses desde la percepción de los fondos.",
+    "explicación": "El examen de Estado 2026 recuerda el plazo de un mes desde la inversión y, en todo caso, tres meses desde la percepción de los fondos.",
     "referencia": "Examen Estado 2026, pagos a justificar; Tema IV.3, ejecución del gasto"
   },
   {
@@ -304,7 +304,7 @@
       "Mandamiento de ingreso extrapresupuestario"
     ],
     "correcta": 0,
-    "explicacion": "La operatoria contable estatal prevé documento RC de tramitación anticipada para reflejar importes de ejercicios posteriores afectados.",
+    "explicación": "La operatoria contable estatal prevé documento RC de tramitación anticipada para reflejar importes de ejercicios posteriores afectados.",
     "referencia": "Examen Estado 2026, operatoria contable; Tema IV.3, documentos contables"
   },
   {
@@ -318,7 +318,7 @@
       "Documento P antes de reconocer la obligación"
     ],
     "correcta": 0,
-    "explicacion": "La fase de reconocimiento de obligación se refleja mediante documento O u OK cuando se acumulan fases.",
+    "explicación": "La fase de reconocimiento de obligación se refleja mediante documento O u OK cuando se acumulan fases.",
     "referencia": "Examen Estado 2026, supuesto práctico; Tema IV.3, fases del gasto"
   }
 ]

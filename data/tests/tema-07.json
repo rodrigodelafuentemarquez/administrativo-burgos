@@ -2,12 +2,12 @@
   {
     "id": "pdf-2023-burgos-q21",
     "tema": 7,
-    "pregunta": "El Titulo X de la Ley 7/1985 regula los municipios de gran población. Burgos es un municipio de gran población?",
+    "pregunta": "El Título X de la Ley 7/1985 regula los municipios de gran población. ¿Burgos es un municipio de gran población?",
     "opciones": [
       "Si",
       "No",
       "Esta en trámite",
-      "No hay ningun municipio de gran población en Castilla y León"
+      "No hay ningún municipio de gran población en Castilla y León"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 21",
@@ -16,12 +16,12 @@
   {
     "id": "pdf-2023-burgos-q22",
     "tema": 7,
-    "pregunta": "Quién realiza el control financiero en el Ayuntamiento de Burgos?",
+    "pregunta": "¿Quién realiza el control financiero en el Ayuntamiento de Burgos?",
     "opciones": [
-      "La Asesoria Jurídica",
+      "La Asesoría Jurídica",
       "La Intervención General",
       "Las Comisiones informativas",
-      "El Organo de Gestion Tributaria"
+      "El Órgano de Gestión Tributaria"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 22",
@@ -30,16 +30,16 @@
   {
     "id": "pdf-2023-burgos-q23",
     "tema": 7,
-    "pregunta": "Quién ostenta la función de fe pública en el Ayuntamiento de Burgos?",
+    "pregunta": "¿Quién ostenta la función de fe pública en el Ayuntamiento de Burgos?",
     "opciones": [
-      "La Asesoria Jurídica",
+      "La Asesoría Jurídica",
       "El Tribunal económico-administrativo",
-      "La Secretaria General",
+      "La Secretaría General",
       "La Junta de Gobierno"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 23",
-    "explicación": "La función de fe pública se vincula a la Secretaria General."
+    "explicación": "La función de fe pública se vincula a la Secretaría General."
   },
   {
     "id": "pdf-2025-burgos-q26",
@@ -58,12 +58,12 @@
   {
     "id": "pdf-2025-burgos-q29",
     "tema": 7,
-    "pregunta": "De acuerdo con el artículo 3.1 del Reglamento del Tribunal Economico-Administrativo Municipal de Burgos:",
+    "pregunta": "De acuerdo con el artículo 3.1 del Reglamento del Tribunal Económico-Administrativo Municipal de Burgos:",
     "opciones": [
-      "El Tribunal estara formado exclusivamente por un presidente, un vocal y un vocal-secretario",
-      "El Tribunal estara formado por un presidente, un vocal en representación de la parte reclamante, un vocal en representación de la Hacienda municipal y un vocal-secretario",
-      "El Tribunal estara formado, como mínimo, por un presidente, un vocal y un vocal-secretario",
-      "El Tribunal estara formado por un presidente, dos vocales y un secretario, este ultimo con voz pero sin voto"
+      "El Tribunal estará formado exclusivamente por un presidente, un vocal y un vocal-secretario",
+      "El Tribunal estará formado por un presidente, un vocal en representación de la parte reclamante, un vocal en representación de la Hacienda municipal y un vocal-secretario",
+      "El Tribunal estará formado, como mínimo, por un presidente, un vocal y un vocal-secretario",
+      "El Tribunal estará formado por un presidente, dos vocales y un secretario, este último con voz pero sin voto"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 29",
@@ -104,7 +104,7 @@
       "Pleno",
       "teniente de alcalde de mayor edad",
       "Interventor General",
-      "Organo de Gestion Tributaria"
+      "Órgano de Gestión Tributaria"
     ],
     "correcta": 0,
     "explicación": "La función normativa local se reserva con carácter general al Pleno.",
@@ -121,7 +121,7 @@
       "Consejo Europeo"
     ],
     "correcta": 0,
-    "explicación": "El alcalde es presidente de la corporación y maxima representación municipal.",
+    "explicación": "El alcalde es presidente de la corporación y máxima representación municipal.",
     "referencia": "I.7 · El alcalde",
     "tema": 7
   },
@@ -155,21 +155,21 @@
   },
   {
     "id": "topup-07-08",
-    "pregunta": "En la organización del Ayuntamiento de Burgos, la Secretaria General garantiza principalmente la fe pública y el:",
+    "pregunta": "En la organización del Ayuntamiento de Burgos, la Secretaría General garantiza principalmente la fe pública y el:",
     "opciones": [
       "asesoramiento legal preceptivo",
       "control financiero permanente",
-      "cobro en via ejecutiva",
+      "cobro en vía ejecutiva",
       "planeamiento urbanístico"
     ],
     "correcta": 0,
     "explicación": "La función secretarial reservada combina fe pública y asesoramiento legal.",
-    "referencia": "I.7 · Secretaria General",
+    "referencia": "I.7 · Secretaría General",
     "tema": 7
   },
   {
     "id": "topup-07-09",
-    "pregunta": "En la organización del Ayuntamiento de Burgos, entre las funciones tipicas de la Secretaria General se encuentra:",
+    "pregunta": "En la organización del Ayuntamiento de Burgos, entre las funciones típicas de la Secretaría General se encuentra:",
     "opciones": [
       "certificar acuerdos y custodiar actas",
       "aprobar el padrón fiscal del IBI",
@@ -178,7 +178,7 @@
     ],
     "correcta": 0,
     "explicación": "La fe pública incluye actas, certificaciones y regularidad formal de sesiones y acuerdos.",
-    "referencia": "I.7 · Secretaria General",
+    "referencia": "I.7 · Secretaría General",
     "tema": 7
   },
   {
@@ -211,7 +211,7 @@
   },
   {
     "id": "topup-07-14",
-    "pregunta": "El Tribunal Economico-Administrativo Municipal de Burgos se relaciona especialmente con:",
+    "pregunta": "El Tribunal Económico-Administrativo Municipal de Burgos se relaciona especialmente con:",
     "opciones": [
       "la revisión de actos tributarios municipales",
       "la instrucción de delitos",
@@ -230,7 +230,7 @@
       "Pleno",
       "alcalde",
       "Interventor General",
-      "Organo de Gestion Tributaria"
+      "Órgano de Gestión Tributaria"
     ],
     "correcta": 0,
     "referencia": "I.7 · Pleno en municipios de gran población",
@@ -241,9 +241,9 @@
     "id": "refine-07-02",
     "pregunta": "La Junta de Gobierno Local, en un municipio de gran población como Burgos, se caracteriza especialmente por:",
     "opciones": [
-      "ejercer funciones ejecutivas y administrativas, ademas de colaborar en la función política del alcalde",
+      "ejercer funciones ejecutivas y administrativas, además de colaborar en la función política del alcalde",
       "aprobar definitivamente las ordenanzas fiscales sin intervención del Pleno",
-      "sustituir al Tribunal Economico-Administrativo Municipal",
+      "sustituir al Tribunal Económico-Administrativo Municipal",
       "ejercer la función interventora y el control financiero"
     ],
     "correcta": 0,
@@ -253,16 +253,16 @@
   },
   {
     "id": "refine-07-03",
-    "pregunta": "La Secretaria General del Ayuntamiento se vincula a funciones reservadas como:",
+    "pregunta": "La Secretaría General del Ayuntamiento se vincula a funciones reservadas como:",
     "opciones": [
       "la fe pública y el asesoramiento legal preceptivo",
-      "la recaudación en via ejecutiva y la inspección tributaria",
+      "la recaudación en vía ejecutiva y la inspección tributaria",
       "la ordenación de pagos y la gestión de tesorería",
       "la dirección política del gobierno municipal"
     ],
     "correcta": 0,
-    "referencia": "I.7 · Secretaria General",
-    "explicación": "La Secretaria General asume las funciones reservadas de fe pública y asesoramiento legal preceptivo.",
+    "referencia": "I.7 · Secretaría General",
+    "explicación": "La Secretaría General asume las funciones reservadas de fe pública y asesoramiento legal preceptivo.",
     "tema": 7
   },
   {
@@ -289,7 +289,7 @@
       "convocatoria de elecciones locales"
     ],
     "correcta": 0,
-    "referencia": "I.7 · Organo de Gestion Tributaria",
+    "referencia": "I.7 · Órgano de Gestión Tributaria",
     "explicación": "Su núcleo funcional gira en torno a la aplicación de los tributos y la recaudación de los ingresos de derecho público.",
     "tema": 7
   },
@@ -304,7 +304,7 @@
       "La Secretaría General"
     ],
     "correcta": 0,
-    "explicacion": "El régimen de municipios de gran población refuerza el papel ejecutivo de la Junta de Gobierno Local, separándolo del control plenario.",
+    "explicación": "El régimen de municipios de gran población refuerza el papel ejecutivo de la Junta de Gobierno Local, separándolo del control plenario.",
     "referencia": "Tema I.7, Organización política y administrativa del Ayuntamiento de Burgos"
   },
   {
@@ -318,7 +318,7 @@
       "Dirección política del Gobierno municipal"
     ],
     "correcta": 0,
-    "explicacion": "La Secretaría General se vincula a funciones reservadas de fe pública y asesoramiento legal.",
+    "explicación": "La Secretaría General se vincula a funciones reservadas de fe pública y asesoramiento legal.",
     "referencia": "Tema I.7, Secretaría General"
   },
   {
@@ -332,7 +332,7 @@
       "Junta de Portavoces"
     ],
     "correcta": 0,
-    "explicacion": "La Intervención General realiza funciones de control y fiscalización económico-financiera.",
+    "explicación": "La Intervención General realiza funciones de control y fiscalización económico-financiera.",
     "referencia": "Tema I.7, Intervención General"
   },
   {
@@ -346,7 +346,7 @@
       "Carece de funciones de fiscalización de órganos de gobierno"
     ],
     "correcta": 0,
-    "explicacion": "El Pleno se configura como órgano representativo, normativo y de control; la gestión ejecutiva ordinaria se desplaza a otros órganos.",
+    "explicación": "El Pleno se configura como órgano representativo, normativo y de control; la gestión ejecutiva ordinaria se desplaza a otros órganos.",
     "referencia": "Tema I.7, El Pleno"
   },
   {
@@ -360,7 +360,7 @@
       "La gestión directa de la recaudación tributaria diaria"
     ],
     "correcta": 0,
-    "explicacion": "En municipios de gran población, el Pleno concentra debate, aprobación normativa y presupuestaria y control político, mientras la gestión ejecutiva corresponde a otros órganos.",
+    "explicación": "En municipios de gran población, el Pleno concentra debate, aprobación normativa y presupuestaria y control político, mientras la gestión ejecutiva corresponde a otros órganos.",
     "referencia": "Tema I.7, Pleno del Ayuntamiento de Burgos"
   },
   {
@@ -374,7 +374,7 @@
       "Comisión Delegada del Gobierno municipal"
     ],
     "correcta": 0,
-    "explicacion": "La Comisión Especial de Sugerencias y Reclamaciones se vincula a la defensa de los derechos de los vecinos ante la Administración municipal.",
+    "explicación": "La Comisión Especial de Sugerencias y Reclamaciones se vincula a la defensa de los derechos de los vecinos ante la Administración municipal.",
     "referencia": "Tema I.7, municipios de gran población"
   }
 ]

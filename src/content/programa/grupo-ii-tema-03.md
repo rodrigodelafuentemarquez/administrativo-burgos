@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El procedimiento administrativo común se regula en la Ley 39/2015, de 1 de octubre. La Ley 40/2015 completa el marco institucional y organico. En materia local se aplica tambien la Ley 7/1985 y la normativa de funcionamiento de las entidades locales.
+El procedimiento administrativo común se regula en la Ley 39/2015, de 1 de octubre. La Ley 40/2015 completa el marco institucional y orgánico. En materia local se aplica también la Ley 7/1985 y la normativa de funcionamiento de las entidades locales.
 
 ## Concepto y naturaleza
 
@@ -16,7 +16,7 @@ El procedimiento administrativo común es el conjunto ordenado de actos y trámi
 
 Su naturaleza es doble. Desde la perspectiva de la Administración, permite ordenar el expediente, asegurar legalidad y preparar una decisión fundada. Desde la perspectiva del ciudadano, garantiza derechos de información, audiencia, alegación, prueba, acceso al expediente, identificación de autoridades responsables y recurso.
 
-La Ley 39/2015 establece reglas comunes para todas las Administraciones Públicas. Las especialidades sectoriales son posibles, pero deben respetar el marco comun.
+La Ley 39/2015 establece reglas comunes para todas las Administraciones Públicas. Las especialidades sectoriales son posibles, pero deben respetar el marco común.
 
 | Procedimiento administrativo común | Idea esencial |
 |---|---|
@@ -51,11 +51,11 @@ Los interesados tienen derecho a conocer el estado de tramitación, acceder al e
 
 ## Iniciación
 
-El procedimiento puede iniciarse de oficio o a solicitud del interesado. La iniciación de oficio puede acordarse por propia iniciativa del órgano competente, orden superior, petición razonada de otros órganos o denuncia. La denuncia no convierte por si misma al denunciante en interesado, salvo que tenga derecho o interes legitimo afectado.
+El procedimiento puede iniciarse de oficio o a solicitud del interesado. La iniciación de oficio puede acordarse por propia iniciativa del órgano competente, orden superior, petición razonada de otros órganos o denuncia. La denuncia no convierte por si misma al denunciante en interesado, salvo que tenga derecho o interés legítimo afectado.
 
 La solicitud de iniciación debe contener identificación del interesado, medio de notificación, hechos, razones y petición, lugar y fecha, firma y órgano al que se dirige. Si la solicitud no reune requisitos, se requiere subsanación por plazo de diez días, con advertencia de desistimiento si no se atiende.
 
-La Administración puede adoptar medidas provisionales antes o despues de iniciado el procedimiento cuando sean necesarias para asegurar la eficacia de la resolución, proteger intereses implicados o evitar perjuicios, siempre con proporcionalidad.
+La Administración puede adoptar medidas provisionales antes o después de iniciado el procedimiento cuando sean necesarias para asegurar la eficacia de la resolución, proteger intereses implicados o evitar perjuicios, siempre con proporcionalidad.
 
 | Inicio del procedimiento | Regla |
 |---|---|
@@ -71,15 +71,15 @@ La Administración puede adoptar medidas provisionales antes o despues de inicia
 - Hechos, razones y petición.
 - Lugar y fecha.
 - Firma.
-- Organo al que se dirige.
+- Órgano al que se dirige.
 
 ## Ordenación
 
 La ordenación comprende las reglas de impulso y tramitación. El procedimiento se impulsa de oficio en todos sus trámites y por medios electrónicos. Los expedientes deben guardar orden, incorporar documentos, informes, resoluciones y diligencias, y permitir trazabilidad.
 
-El principio de celeridad exige acordar en un solo acto todos los trámites que admitan impulso simultaneo. El cumplimiento de plazos es obligatorio para Administración e interesados. Los terminos y plazos se computan conforme a la Ley 39/2015, distinguiendo días habiles, naturales, meses y años.
+El principio de celeridad exige acordar en un solo acto todos los trámites que admitan impulso simultaneo. El cumplimiento de plazos es obligatorio para Administración e interesados. Los términos y plazos se computan conforme a la Ley 39/2015, distinguiendo días habiles, naturales, meses y años.
 
-La tramitación electrónica se configura como funcionamiento ordinario del sector público. El expediente electrónico debe formarse mediante agregación ordenada de documentos, pruebas, dictamenes, informes, acuerdos, notificaciones y demas diligencias.
+La tramitación electrónica se configura como funcionamiento ordinario del sector público. El expediente electrónico debe formarse mediante agregación ordenada de documentos, pruebas, dictamenes, informes, acuerdos, notificaciones y demás diligencias.
 
 | Ordenación | Contenido |
 |---|---|
@@ -94,7 +94,7 @@ La instrucción comprende los actos necesarios para determinar, conocer y compro
 
 Los interesados pueden formular alegaciones y aportar documentos en cualquier momento anterior al trámite de audiencia. La prueba se práctica cuando la Administración no tenga por ciertos los hechos alegados o la naturaleza del procedimiento lo exija. El instructor puede rechazar pruebas manifiestamente improcedentes o innecesarias mediante resolución motivada.
 
-Los informes pueden ser preceptivos o facultativos, vinculantes o no vinculantes. Salvo disposición expresa, son facultativos y no vinculantes. La falta de emisión de informes puede tener consecuencias distintas segun su naturaleza.
+Los informes pueden ser preceptivos o facultativos, vinculantes o no vinculantes. Salvo disposición expresa, son facultativos y no vinculantes. La falta de emisión de informes puede tener consecuencias distintas según su naturaleza.
 
 El trámite de audiencia se concede instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución, para que los interesados aleguen y presenten documentos. Puede prescindirse de audiencia cuando no figuren ni sean tenidos en cuenta otros hechos ni alegaciones que los aducidos por el interesado.
 
@@ -104,8 +104,8 @@ La información pública permite que cualquier persona examine el expediente o p
 |---|---|
 | Alegaciones | Permiten al interesado defender su posición. |
 | Prueba | Acredita hechos controvertidos o no admitidos. |
-| Informes | Aportan juicio tecnico o jurídico. |
-| Audiencia | Ultima defensa antes de la propuesta de resolución. |
+| Informes | Aportan juicio técnico o jurídico. |
+| Audiencia | Última defensa antes de la propuesta de resolución. |
 | Información pública | Participación de terceros o del público cuando proceda. |
 
 ### Regla muy útil para examen
@@ -138,7 +138,7 @@ Los actos administrativos son ejecutivos salvo suspensión. La Administración p
 
 El apremio se usa para deudas liquidas. La ejecución subsidiaria procede cuando se trata de actos no personalisimos que puede realizar un tercero a costa del obligado. La multa coercitiva exige habilitación legal y busca vencer resistencia. La compulsión sobre las personas solo procede en los casos autorizados por ley y con respeto a dignidad y derechos fundamentales.
 
-| Medio de ejecución forzosa | Cuándo procede |
+| Medio de ejecución forzosa | Cuando procede |
 |---|---|
 | Apremio sobre el patrimonio | Cobro de cantidades liquidas. |
 | Ejecución subsidiaria | Actos no personalisimos realizables por tercero. |

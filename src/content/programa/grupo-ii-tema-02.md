@@ -8,11 +8,11 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El acto administrativo se regula principalmente en la Ley 39/2015, de Procedimiento Administrativo Comun, y se complementa con la Ley 40/2015, de Régimen Jurídico del Sector Publico. En el ámbito local tambien se aplican la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
+El acto administrativo se regula principalmente en la Ley 39/2015, de Procedimiento Administrativo Común, y se complementa con la Ley 40/2015, de Régimen Jurídico del Sector Público. En el ámbito local también se aplican la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
 
 ## Concepto de acto administrativo
 
-El acto administrativo es una **declaración de voluntad, juicio, conocimiento o deseo** realizada por una Administración Publica en el ejercicio de una potestad administrativa y sometida al Derecho Administrativo. Es la forma ordinaria mediante la cual la Administración decide expedientes concretos, reconoce derechos, impone obligaciones, autoriza actividades, liquida tributos, concede ayudas, sanciona o resuelve solicitudes.
+El acto administrativo es una **declaración de voluntad, juicio, conocimiento o deseo** realizada por una Administración Pública en el ejercicio de una potestad administrativa y sometida al Derecho Administrativo. Es la forma ordinaria mediante la cual la Administración decide expedientes concretos, reconoce derechos, impone obligaciones, autoriza actividades, liquida tributos, concede ayudas, sanciona o resuelve solicitudes.
 
 Debe distinguirse del reglamento. El reglamento es norma general y abstracta; el acto administrativo aplica el Derecho a una situación concreta. Una ordenanza municipal regula una materia para una pluralidad de casos; una licencia urbanística autoriza una actuación singular.
 
@@ -27,7 +27,7 @@ Debe distinguirse del reglamento. El reglamento es norma general y abstracta; el
 
 ## Clases de actos administrativos
 
-Por sus efectos, los actos pueden ser favorables o de gravamen. Los favorables reconocen o amplian derechos o intereses: licencias, autorizaciones, concesiones, subvenciones. Los de gravamen limitan derechos o imponen obligaciones: sanciones, liquidaciones, ordenes de ejecución, denegaciones.
+Por sus efectos, los actos pueden ser favorables o de gravamen. Los favorables reconocen o amplian derechos o intereses: licencias, autorizaciones, concesiones, subvenciones. Los de gravamen limitan derechos o imponen obligaciones: sanciones, liquidaciones, órdenes de ejecución, denegaciones.
 
 Por su posición en el procedimiento, pueden ser definitivos o de trámite. Los definitivos resuelven el fondo del asunto o impiden su continuación. Los actos de trámite impulsan el procedimiento; solo son recurribles de forma independiente cuando deciden directa o indirectamente el fondo, determinan imposibilidad de continuar, producen indefensión o perjuicio irreparable.
 
@@ -46,11 +46,11 @@ Los **actos de trámite cualificados** son importantes: aunque no resuelvan el p
 
 ## Elementos del acto
 
-El elemento subjetivo es el órgano competente. Un acto debe dictarse por la Administración y órgano que tenga competencia por razón de materia, territorio y jerarquia. La competencia es irrenunciable y se ejerce por los órganos que la tienen atribuida, salvo delegación, avocación, encomienda, delegación de firma o suplencia conforme a la ley.
+El elemento subjetivo es el órgano competente. Un acto debe dictarse por la Administración y órgano que tenga competencia por razón de materia, territorio y jerarquía. La competencia es irrenunciable y se ejerce por los órganos que la tienen atribuida, salvo delegación, avocación, encomienda, delegación de firma o suplencia conforme a la ley.
 
 El elemento objetivo es el contenido del acto. Debe ser posible, licito, determinado o determinable y adecuado a los fines de la potestad. No puede tener contenido contrario al ordenamiento ni perseguir fines distintos de los que justifican la competencia.
 
-El elemento causal o finalista exige que el acto responda al interes público y al fin propio de la potestad. La desviación de poder se produce cuando la Administración usa una potestad para fines distintos de los previstos.
+El elemento causal o finalista exige que el acto responda al interés público y al fin propio de la potestad. La desviación de poder se produce cuando la Administración usa una potestad para fines distintos de los previstos.
 
 El elemento formal incluye procedimiento, forma escrita cuando proceda, motivación, firma, identificación del órgano, fecha y notificación o publicación. El procedimiento es garantía esencial porque permite audiencia, informes, prueba y control.
 
@@ -67,18 +67,18 @@ El elemento formal incluye procedimiento, forma escrita cuando proceda, motivaci
 
 La motivación es la exposición de las razones de hecho y de Derecho que justifican el acto. No todos los actos requieren igual intensidad de motivación, pero la Ley 39/2015 exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legitimos, resuelvan procedimientos de revisión, recursos y reclamaciones, se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, acuerden suspensión de actos, adopten medidas provisionales, rechacen pruebas propuestas, acuerden terminación por imposibilidad material, propuestas de resolución sancionadora y actos dictados en ejercicio de potestades discrecionales.
 
-La motivación permite al interesado comprender por que se decide, valorar si recurre y facilita el control judicial. Una motivación aparente o generica puede ser insuficiente si no explica la decisión real.
+La motivación permite al interesado comprender por que se decide, valorar si recurre y facilita el control judicial. Una motivación aparente o genérica puede ser insuficiente si no explica la decisión real.
 
 La motivación debe ser:
 
 - **suficiente**, porque debe explicar la razón real;
 - **comprensible**, para que el interesado pueda defenderse;
-- **conectada con el expediente**, no una formula vacia;
+- **conectada con el expediente**, no una fórmula vacia;
 - **proporcionada**, con mayor intensidad en sanciones, discrecionalidad, recursos o limitación de derechos.
 
 ## Notificación
 
-La notificación comunica el acto al interesado y permite que produzca efectos frente a el. Debe contener el texto integro de la resolución, indicar si pone fin o no a la via administrativa, expresar recursos procedentes, órgano ante el que interponerlos y plazo.
+La notificación comunica el acto al interesado y permite que produzca efectos frente a el. Debe contener el texto íntegro de la resolución, indicar si pone fin o no a la vía administrativa, expresar recursos procedentes, órgano ante el que interponerlos y plazo.
 
 Las notificaciones deben practicarse preferentemente por medios electrónicos cuando el interesado este obligado a relacionarse electronicamente o lo haya elegido. Las personas físicas no obligadas pueden escoger canal, salvo excepciones.
 
@@ -86,10 +86,10 @@ La notificación defectuosa puede surtir efecto desde la fecha en que el interes
 
 | Debe contener la notificación | Finalidad |
 | --- | --- |
-| Texto integro del acto | Saber que se ha decidido. |
-| Indicar si pone fin a la via administrativa | Elegir recurso correcto. |
+| Texto íntegro del acto | Saber que se ha decidido. |
+| Indicar si pone fin a la vía administrativa | Elegir recurso correcto. |
 | Recursos procedentes | Evitar indefensión. |
-| Organo ante el que recurrir | Dirigir correctamente el recurso. |
+| Órgano ante el que recurrir | Dirigir correctamente el recurso. |
 | Plazo de recurso | Computar la reacción del interesado. |
 
 Una notificación mal hecha puede no impedir que el acto exista, pero si puede afectar a su eficacia frente al interesado y al inicio de plazos.
@@ -104,7 +104,7 @@ Son anulables los actos que incurran en cualquier infracción del ordenamiento, 
 
 | Categoria | Gravedad | Ejemplo |
 | --- | --- | --- |
-| Nulidad de pleno derecho | Maxima gravedad. | Lesión de derechos fundamentales o prescindir totalmente del procedimiento. |
+| Nulidad de pleno derecho | Máxima gravedad. | Lesión de derechos fundamentales o prescindir totalmente del procedimiento. |
 | Anulabilidad | Infracción ordinaria del ordenamiento. | Error procedimental relevante que no llega a nulidad. |
 | Irregularidad no invalidante | Defecto sin indefensión ni impacto esencial. | Error formal menor sin efecto real. |
 

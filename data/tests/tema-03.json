@@ -11,12 +11,12 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 10",
-    "explicación": "El artículo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autonomas que se constituyan."
+    "explicación": "El artículo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autónomas que se constituyan."
   },
   {
     "id": "pdf-2025-burgos-q09",
     "tema": 3,
-    "pregunta": "Cualquier alteración de los limites de una provincia deberá ser aprobada por:",
+    "pregunta": "Cualquier alteración de los límites de una provincia deberá ser aprobada por:",
     "opciones": [
       "Ley Orgánica de las Cortes Generales",
       "Ley Ordinaria de las Cortes Generales",
@@ -25,7 +25,7 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 9",
-    "explicación": "La alteración de los limites provinciales requiere ley orgánica conforme al artículo 141 CE."
+    "explicación": "La alteración de los límites provinciales requiere ley orgánica conforme al artículo 141 CE."
   },
   {
     "id": "t07-p001",
@@ -261,8 +261,8 @@
       "a cualquier Ayuntamiento por mayoría simple"
     ],
     "correcta": 0,
-    "explicación": "La via ordinaria del art. 143 CE exige iniciativa provincial o insular y una mayoría reforzada de municipios.",
-    "referencia": "I.3 · Proceso de constitución de las comunidades autonomas",
+    "explicación": "La vía ordinaria del art. 143 CE exige iniciativa provincial o insular y una mayoría reforzada de municipios.",
+    "referencia": "I.3 · Proceso de constitución de las comunidades autónomas",
     "tema": 3
   },
   {
@@ -290,7 +290,7 @@
       "La autonomía provincial elimina la autonomía municipal"
     ],
     "correcta": 0,
-    "explicacion": "El tema distingue la autonomía política de las comunidades autónomas de la autonomía local de municipios y provincias.",
+    "explicación": "El tema distingue la autonomía política de las comunidades autónomas de la autonomía local de municipios y provincias.",
     "referencia": "Tema I.3, Organización territorial del Estado"
   },
   {
@@ -304,7 +304,7 @@
       "Acuerdo del Pleno provincial por mayoría simple"
     ],
     "correcta": 0,
-    "explicacion": "El art. 141 CE exige ley orgánica para alterar los límites provinciales.",
+    "explicación": "El art. 141 CE exige ley orgánica para alterar los límites provinciales.",
     "referencia": "Tema I.3, Municipios y provincias en la Constitución"
   },
   {
@@ -318,7 +318,7 @@
       "Se atribuyen al Senado por prevalencia"
     ],
     "correcta": 0,
-    "explicacion": "El art. 149.3 CE establece que las materias no asumidas por los Estatutos corresponden al Estado.",
+    "explicación": "El art. 149.3 CE establece que las materias no asumidas por los Estatutos corresponden al Estado.",
     "referencia": "Tema I.3, Distribución de competencias"
   },
   {
@@ -328,11 +328,11 @@
     "opciones": [
       "Requerir al Presidente de la Comunidad Autónoma y obtener aprobación por mayoría absoluta del Senado si el requerimiento no es atendido",
       "Obtener autorización previa del Tribunal Constitucional por unanimidad",
-      "Convocar referendum estatal obligatorio",
+      "Convocar referéndum estatal obligatorio",
       "Solicitar mayoría absoluta del Congreso sin intervención del Senado"
     ],
     "correcta": 0,
-    "explicacion": "El art. 155 CE exige requerimiento previo al Presidente autonómico y aprobación por mayoría absoluta del Senado.",
+    "explicación": "El art. 155 CE exige requerimiento previo al Presidente autonómico y aprobación por mayoría absoluta del Senado.",
     "referencia": "Tema I.3, Control de las Comunidades Autónomas"
   },
   {
@@ -346,7 +346,7 @@
       "El Ministro competente en política territorial"
     ],
     "correcta": 0,
-    "explicacion": "El art. 152 CE atribuye al Presidente autonómico la suprema representación de la Comunidad y la ordinaria del Estado en ella.",
+    "explicación": "El art. 152 CE atribuye al Presidente autonómico la suprema representación de la Comunidad y la ordinaria del Estado en ella.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 9; Tema I.3, organización autonómica"
   },
   {
@@ -360,7 +360,7 @@
       "Ambas cláusulas atribuyen competencias nuevas a los municipios"
     ],
     "correcta": 0,
-    "explicacion": "El art. 149.3 CE combina prevalencia del Derecho estatal en caso de conflicto, salvo competencias exclusivas autonómicas, y supletoriedad general del Derecho estatal.",
+    "explicación": "El art. 149.3 CE combina prevalencia del Derecho estatal en caso de conflicto, salvo competencias exclusivas autonómicas, y supletoriedad general del Derecho estatal.",
     "referencia": "Tema I.3, distribución de competencias"
   }
 ]

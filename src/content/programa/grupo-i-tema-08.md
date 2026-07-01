@@ -29,13 +29,13 @@ Los objetivos de la Unión incluyen promover la paz, sus valores y el bienestar 
 
 ### Ideas base que suelen preguntarse
 
-1. La Unión no actua con competencia general.
-2. Sus instituciones representan intereses distintos: ciudadanos, Estados e interes general europeo.
+1. La Unión no actúa con competencia general.
+2. Sus instituciones representan intereses distintos: ciudadanos, Estados e interés general europeo.
 3. El Tribunal de Justicia asegura una interpretación uniforme del Derecho de la Unión.
 
 ## Principios de atribución, subsidiariedad y proporcionalidad
 
-La Unión actua conforme al principio de atribución. Solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados. Las competencias no atribuidas a la Unión corresponden a los Estados miembros.
+La Unión actúa conforme al principio de atribución. Solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados. Las competencias no atribuidas a la Unión corresponden a los Estados miembros.
 
 El principio de subsidiariedad opera en ámbitos que no son de competencia exclusiva de la Unión. Según este principio, la Unión interviene solo si los objetivos de la acción pretendida no pueden ser alcanzados de manera suficiente por los Estados miembros y pueden lograrse mejor a escala de la Unión.
 
@@ -45,17 +45,17 @@ Estos principios son importantes porque delimitan el alcance de la actuación eu
 
 | Principio | Regla esencial |
 |---|---|
-| Atribución | La Unión solo actua en competencias atribuidas por los Tratados. |
-| Subsidiariedad | En competencias no exclusivas, solo actua si la escala europea es mas eficaz. |
+| Atribución | La Unión solo actúa en competencias atribuidas por los Tratados. |
+| Subsidiariedad | En competencias no exclusivas, solo actúa si la escala europea es más eficaz. |
 | Proporcionalidad | La acción no debe exceder de lo necesario. |
 
 ## Sistema institucional de la Unión
 
 La Unión dispone de un marco institucional destinado a promover sus valores, perseguir sus objetivos, defender sus intereses, los de sus ciudadanos y los de los Estados miembros, y garantizar coherencia, eficacia y continuidad de sus políticas y acciones.
 
-Las instituciones principales son Parlamento Europeo, Consejo Europeo, Consejo, Comisión Europea, Tribunal de Justicia de la Unión Europea, Banco Central Europeo y Tribunal de Cuentas. El programa de Burgos selecciona cinco de ellas, que son las mas relevantes para el equilibrio político y jurídico de la Unión.
+Las instituciones principales son Parlamento Europeo, Consejo Europeo, Consejo, Comisión Europea, Tribunal de Justicia de la Unión Europea, Banco Central Europeo y Tribunal de Cuentas. El programa de Burgos selecciona cinco de ellas, que son las más relevantes para el equilibrio político y jurídico de la Unión.
 
-El sistema institucional europeo se basa en equilibrios. La Comisión impulsa y vela por el interes general de la Unión. El Parlamento representa a la ciudadania europea. El Consejo representa a los Gobiernos de los Estados miembros. El Consejo Europeo define orientaciones políticas generales. El Tribunal de Justicia garantiza la interpretación y aplicación uniforme del Derecho de la Unión.
+El sistema institucional europeo se basa en equilibrios. La Comisión impulsa y vela por el interés general de la Unión. El Parlamento representa a la ciudadania europea. El Consejo representa a los Gobiernos de los Estados miembros. El Consejo Europeo define orientaciones políticas generales. El Tribunal de Justicia garantiza la interpretación y aplicación uniforme del Derecho de la Unión.
 
 | Institución | A quien representa o que asegura |
 |---|---|
@@ -67,7 +67,7 @@ El sistema institucional europeo se basa en equilibrios. La Comisión impulsa y 
 
 ## El Consejo Europeo
 
-El Consejo Europeo esta compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión. Participa tambien el Alto Representante de la Unión para Asuntos Exteriores y Politica de Seguridad.
+El Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión. Participa también el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad.
 
 Su función principal es dar a la Unión los impulsos necesarios para su desarrollo y definir sus orientaciones y prioridades políticas generales. No ejerce función legislativa ordinaria.
 
@@ -87,11 +87,11 @@ Las decisiones del Consejo Europeo suelen adoptarse por consenso, salvo que los 
 
 ## El Consejo de la Unión Europea
 
-El Consejo de la Unión Europea, tambien llamado Consejo, esta compuesto por un representante de cada Estado miembro de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que represente y para ejercer el derecho de voto.
+El Consejo de la Unión Europea, también llamado Consejo, está compuesto por un representante de cada Estado miembro de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que represente y para ejercer el derecho de voto.
 
-No tiene composición fija única. Se reune en distintas formaciones segun la materia: Asuntos Generales, Asuntos Exteriores, Economia y Finanzas, Justicia y Asuntos de Interior, Empleo y Politica Social, Medio Ambiente, Agricultura y Pesca, Competitividad, Transporte, Telecomunicaciones y Energia, Educación y Cultura, entre otras.
+No tiene composición fija única. Se reune en distintas formaciones según la materia: Asuntos Generales, Asuntos Exteriores, Economia y Finanzas, Justicia y Asuntos de Interior, Empleo y Política Social, Medio Ambiente, Agricultura y Pesca, Competitividad, Transporte, Telecomunicaciones y Energia, Educación y Cultura, entre otras.
 
-El Consejo ejerce, junto con el Parlamento Europeo, la función legislativa y presupuestaria. También define políticas y coordina actuaciones en los terminos establecidos por los Tratados.
+El Consejo ejerce, junto con el Parlamento Europeo, la función legislativa y presupuestaria. También define políticas y coordina actuaciones en los términos establecidos por los Tratados.
 
 La presidencia de las formaciones del Consejo, salvo Asuntos Exteriores, se ejerce por grupos predeterminados de tres Estados miembros durante períodos de dieciocho meses, con turnos semestrales. La formación de Asuntos Exteriores es presidida por el Alto Representante.
 
@@ -101,11 +101,11 @@ El Comité de Representantes Permanentes, COREPER, prepara los trabajos del Cons
 
 | Consejo de la Unión Europea | Idea clave |
 |---|---|
-| Composición | Un ministro por cada Estado miembro segun la materia. |
+| Composición | Un ministro por cada Estado miembro según la materia. |
 | Función | Colegisla y aprueba presupuesto junto al Parlamento. |
 | Formaciones | ECOFIN, Asuntos Generales, Justicia e Interior y otras. |
 | Regla de voto general | Mayoria cualificada. |
-| Apoyo tecnico-político | COREPER. |
+| Apoyo técnico-político | COREPER. |
 
 ### Lo que no conviene confundir
 
@@ -118,7 +118,7 @@ El Parlamento Europeo representa directamente a los ciudadanos de la Unión. Sus
 
 El Parlamento comparte con el Consejo la función legislativa y presupuestaria. En el procedimiento legislativo ordinario, Parlamento y Consejo actuan como colegisladores sobre propuestas de la Comisión. Esto significa que una norma europea ordinaria requiere participación de ambas instituciones.
 
-El Parlamento ejerce tambien funciones de control político. Elige al Presidente de la Comisión, aprueba al conjunto de la Comisión, puede formular preguntas, crear comisiones de investigación, debatir informes y aprobar una moción de censura contra la Comisión. Si prospera una moción de censura, los miembros de la Comisión deben dimitir colectivamente.
+El Parlamento ejerce también funciones de control político. Elige al Presidente de la Comisión, aprueba al conjunto de la Comisión, puede formular preguntas, crear comisiones de investigación, debatir informes y aprobar una moción de censura contra la Comisión. Si prospera una moción de censura, los miembros de la Comisión deben dimitir colectivamente.
 
 En materia presupuestaria, el Parlamento participa en la aprobación del presupuesto anual de la Unión junto con el Consejo. También controla la ejecución presupuestaria mediante el procedimiento de aprobación de la gestión.
 
@@ -134,23 +134,23 @@ El Parlamento se organiza en Presidente, Mesa, Conferencia de Presidentes, comis
 
 ## La Comisión Europea
 
-La Comisión Europea promueve el interes general de la Unión. Es una institución independiente de los Gobiernos nacionales. Sus miembros deben ejercer sus funciones con plena independencia y no solicitar ni aceptar instrucciones de ningun Gobierno, institución, órgano u organismo.
+La Comisión Europea promueve el interés general de la Unión. Es una institución independiente de los Gobiernos nacionales. Sus miembros deben ejercer sus funciones con plena independencia y no solicitar ni aceptar instrucciones de ningún Gobierno, institución, órgano u organismo.
 
 La Comisión tiene el derecho de iniciativa legislativa en la mayoría de materias. Esto significa que, con carácter general, los actos legislativos de la Unión se adoptan a partir de una propuesta de la Comisión. Esta función le permite impulsar políticas europeas y garantizar coherencia técnica.
 
 También vela por la aplicación de los Tratados y del Derecho de la Unión. Por ello se la denomina a menudo "guardiana de los Tratados". Puede iniciar procedimientos de infracción contra Estados miembros que incumplan obligaciones europeas y, en su caso, acudir al Tribunal de Justicia.
 
-La Comisión ejecuta el presupuesto, gestiona programas europeos, adopta actos de ejecución y representa a la Unión en determinados ámbitos exteriores, salvo en política exterior y de seguridad comun cuando corresponda al Alto Representante.
+La Comisión ejecuta el presupuesto, gestiona programas europeos, adopta actos de ejecución y representa a la Unión en determinados ámbitos exteriores, salvo en política exterior y de seguridad común cuando corresponda al Alto Representante.
 
-El Presidente de la Comisión marca orientaciones, organiza la institución, distribuye responsabilidades entre comisarios y representa politicamente a la Comisión. El Colegio de Comisarios adopta decisiones de forma colegiada.
+El Presidente de la Comisión marca orientaciones, organiza la institución, distribuye responsabilidades entre comisarios y representa políticamente a la Comisión. El Colegio de Comisarios adopta decisiones de forma colegiada.
 
 | Comisión Europea | Función |
 |---|---|
-| Papel central | Promover el interes general de la Unión. |
+| Papel central | Promover el interés general de la Unión. |
 | Independencia | No recibe instrucciones de los Gobiernos nacionales. |
 | Poder destacado | Iniciativa legislativa en la mayoría de materias. |
 | Otra función clave | Vigilar cumplimiento de los Tratados. |
-| Gestion | Ejecuta presupuesto y programas europeos. |
+| Gestión | Ejecuta presupuesto y programas europeos. |
 
 ## El Tribunal de Justicia de la Unión Europea
 
@@ -158,7 +158,7 @@ El Tribunal de Justicia de la Unión Europea garantiza el respeto del Derecho en
 
 Su función es asegurar que el Derecho de la Unión se interprete y aplique de manera uniforme en todos los Estados miembros. Sin ese control jurisdiccional, el Derecho europeo podria fragmentarse en interpretaciones nacionales divergentes.
 
-Entre los procedimientos mas relevantes se encuentran el recurso por incumplimiento, el recurso de anulación, el recurso por omisión, la cuestión prejudicial y los recursos de casación contra resoluciones del Tribunal General.
+Entre los procedimientos más relevantes se encuentran el recurso por incumplimiento, el recurso de anulación, el recurso por omisión, la cuestión prejudicial y los recursos de casación contra resoluciones del Tribunal General.
 
 La cuestión prejudicial es especialmente importante. Permite que jueces nacionales planteen al Tribunal de Justicia preguntas sobre interpretación de los Tratados o validez e interpretación de actos de las instituciones. La respuesta del Tribunal vincula al juez nacional y contribuye a la uniformidad del Derecho de la Unión.
 
@@ -191,5 +191,5 @@ Para un administrativo municipal, la Unión Europea no es una materia lejana. Af
 |---|---|
 | Contratación pública | Publicidad, competencia y procedimientos armonizados. |
 | Protección de datos | Aplicación del RGPD. |
-| Fondos europeos | Gestion y justificación de subvenciones. |
+| Fondos europeos | Gestión y justificación de subvenciones. |
 | Medio ambiente y consumo | Normativa europea aplicada a expedientes locales. |

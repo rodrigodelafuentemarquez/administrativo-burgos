@@ -2,7 +2,7 @@
 grupo: "Grupo V. Competencias"
 tema: 5
 codigo: "Tema V.5"
-titulo: "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: objeto y ámbito de aplicación. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempenar."
+titulo: "La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: objeto y ámbito de aplicación. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempeñar."
 estado: "borrador"
 ---
 
@@ -14,11 +14,11 @@ La norma principal es la Ley 31/1995 de Prevención de Riesgos Laborales y su no
 
 La Ley de Prevención tiene por objeto promover seguridad y salud de los trabajadores mediante aplicación de medidas y desarrollo de actividades necesarias para prevenir riesgos derivados del trabajo.
 
-La prevención no se limita a reaccionar ante accidentes. Exige evaluar riesgos, planificar actividad preventiva, informar, formar, vigilar salud, adaptar puestos, investigar danos y mejorar continuamente.
+La prevención no se limita a reaccionar ante accidentes. Exige evaluar riesgos, planificar actividad preventiva, informar, formar, vigilar salud, adaptar puestos, investigar daños y mejorar continuamente.
 
-La idea central de la Ley 31/1995 es preventiva, no reparadora. El accidente o la enfermedad profesional son el fracaso de la prevención. Por eso la Administración debe anticiparse, identificar riesgos y adoptar medidas antes de que se produzca el dano.
+La idea central de la Ley 31/1995 es preventiva, no reparadora. El accidente o la enfermedad profesional son el fracaso de la prevención. Por eso la Administración debe anticiparse, identificar riesgos y adoptar medidas antes de que se produzca el daño.
 
-<mark>Clave de examen:</mark> la prevención de riesgos laborales no empieza cuando ocurre el accidente. Empieza con la **evaluación de riesgos**, continua con la **planificación preventiva** y se mantiene con información, formación, vigilancia de la salud y mejora continua.
+<mark>Clave de examen:</mark> la prevención de riesgos laborales no empieza cuando ocurre el accidente. Empieza con la **evaluación de riesgos**, continúa con la **planificación preventiva** y se mantiene con información, formación, vigilancia de la salud y mejora continua.
 
 La secuencia básica es:
 
@@ -27,14 +27,14 @@ La secuencia básica es:
 3. Planificar medidas preventivas.
 4. Informar y formar al personal.
 5. Vigilar la salud cuando proceda.
-6. Investigar danos e incidentes.
+6. Investigar daños e incidentes.
 7. Revisar y mejorar el sistema.
 
 ## Ambito de aplicación
 
-Se aplica a relaciones laborales y al personal civil al servicio de Administraciones Públicas. Incluye funcionarios, laborales y otros empleados en los terminos legales. Existen particularidades para policia, protección civil, emergencias y actividades con normativa específica.
+Se aplica a relaciones laborales y al personal civil al servicio de Administraciones Públicas. Incluye funcionarios, laborales y otros empleados en los términos legales. Existen particularidades para policía, protección civil, emergencias y actividades con normativa específica.
 
-En una entidad local, la ley alcanza al personal administrativo, policia local, personal de oficios, limpieza, instalaciones deportivas, bibliotecas, servicios sociales, brigadas, cementerio, mercados y demas servicios municipales. Cada puesto tiene riesgos diferentes, por lo que no basta una prevención generica.
+En una entidad local, la ley alcanza al personal administrativo, policía local, personal de oficios, limpieza, instalaciones deportivas, bibliotecas, servicios sociales, brigadas, cementerio, mercados y demás servicios municipales. Cada puesto tiene riesgos diferentes, por lo que no basta una prevención genérica.
 
 | Colectivo municipal | Riesgos habituales |
 | --- | --- |
@@ -84,11 +84,11 @@ Obligaciones que conviene memorizar:
 
 Los empleados deben usar adecuadamente equipos, medios y dispositivos de seguridad, informar de riesgos, cooperar con la Administración y cumplir instrucciones preventivas. El incumplimiento puede generar responsabilidad disciplinaria.
 
-El trabajador no asume la responsabilidad principal de la prevención, pero si tiene deberes de colaboración. Por ejemplo, debe comunicar una silla rota, no manipular instalaciones electricas, bloquear zonas peligrosas si procede, respetar pausas de pantalla y seguir protocolos de evacuación.
+El trabajador no asume la responsabilidad principal de la prevención, pero si tiene deberes de colaboración. Por ejemplo, debe comunicar una silla rota, no manipular instalaciones eléctricas, bloquear zonas peligrosas si procede, respetar pausas de pantalla y seguir protocolos de evacuación.
 
 ## Riesgos del puesto administrativo
 
-En un puesto administrativo destacan riesgos ergonomicos por pantalla, teclado, silla, posturas mantenidas y movimientos repetitivos; riesgos visuales por pantallas; fatiga mental por carga de trabajo, plazos y atención al público; riesgos psicosociales por conflicto, estres, acoso o violencia ocupacional; riesgos de caidas al mismo nivel; manipulación de cargas ligeras; incendios y emergencias; y riesgos derivados de uso electrico básico.
+En un puesto administrativo destacan riesgos ergonómicos por pantalla, teclado, silla, posturas mantenidas y movimientos repetitivos; riesgos visuales por pantallas; fatiga mental por carga de trabajo, plazos y atención al público; riesgos psicosociales por conflicto, estres, acoso o violencia ocupacional; riesgos de caidas al mismo nivel; manipulación de cargas ligeras; incendios y emergencias; y riesgos derivados de uso electrico básico.
 
 | Riesgo | Ejemplo | Medida preventiva |
 | --- | --- | --- |
@@ -116,10 +116,10 @@ La prevención en oficinas no es menor: reduce bajas, errores, conflictos y dete
 | Atención conflictiva | Protocolos, apoyo, formación y aviso a responsables. |
 | Emergencias | Conocer salidas, alarmas, puntos de reunion y roles. |
 
-<mark>No minusvalorar el puesto administrativo:</mark> aunque no haya maquinaria pesada, existen riesgos ergonomicos, visuales, psicosociales, organizativos y de seguridad que deben evaluarse y prevenirse.
+<mark>No minusvalorar el puesto administrativo:</mark> aunque no haya maquinaria pesada, existen riesgos ergonómicos, visuales, psicosociales, organizativos y de seguridad que deben evaluarse y prevenirse.
 
 ## Documentación preventiva
 
 La prevención genera documentación: evaluación de riesgos, planificación preventiva, información y formación, entrega de equipos, investigación de accidentes, vigilancia de salud, medidas de emergencia y coordinación de actividades empresariales.
 
-En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comites o gestión de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.
+En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comités o gestión de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.

@@ -8,19 +8,19 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La norma central es la Ley 40/2015, de Régimen Jurídico del Sector Publico. También deben manejarse la Constitución, la Ley 39/2015 y, para entidades locales, la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
+La norma central es la Ley 40/2015, de Régimen Jurídico del Sector Público. También deben manejarse la Constitución, la Ley 39/2015 y, para entidades locales, la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
 
 ## Sector público y Administraciones Públicas
 
-La Ley 40/2015 regula el sector público en sentido amplio. Incluye la Administración General del Estado, las Administraciones de las comunidades autonomas, las entidades que integran la Administración Local y el sector público institucional.
+La Ley 40/2015 regula el sector público en sentido amplio. Incluye la Administración General del Estado, las Administraciones de las comunidades autónomas, las entidades que integran la Administración Local y el sector público institucional.
 
-No todo el sector público actua siempre con el mismo régimen jurídico. Las Administraciones Públicas territoriales actuan normalmente con sujeción al Derecho Administrativo. Algunas entidades instrumentales pueden actuar en parte con Derecho privado, pero quedan sometidas a principios públicos cuando ejercen potestades administrativas, gestionan fondos públicos, contratan, seleccionan personal o prestan servicios de interes general.
+No todo el sector público actúa siempre con el mismo régimen jurídico. Las Administraciones Públicas territoriales actuan normalmente con sujeción al Derecho Administrativo. Algunas entidades instrumentales pueden actuar en parte con Derecho privado, pero quedan sometidas a principios públicos cuando ejercen potestades administrativas, gestionan fondos públicos, contratan, seleccionan personal o prestan servicios de interés general.
 
 ## Principios de actuación y funcionamiento
 
-Las Administraciones Públicas sirven con objetividad los intereses generales y actuan conforme a principios de eficacia, eficiencia, jerarquia, descentralización, desconcentración, coordinación, cooperación, transparencia, buena fe, confianza legitima, responsabilidad, planificación y servicio efectivo a los ciudadanos.
+Las Administraciones Públicas sirven con objetividad los intereses generales y actuan conforme a principios de eficacia, eficiencia, jerarquía, descentralización, desconcentración, coordinación, cooperación, transparencia, buena fe, confianza legitima, responsabilidad, planificación y servicio efectivo a los ciudadanos.
 
-La eficacia busca alcanzar fines públicos. La eficiencia exige utilizar racionalmente recursos. La jerarquia ordena relaciones internas entre órganos superiores e inferiores. La descentralización atribuye competencias a entidades con personalidad propia. La desconcentración distribuye competencias dentro de una misma Administración. La coordinación evita contradicciones y duplicidades. La cooperación es esencial entre Administraciones sin relación jerarquica.
+La eficacia busca alcanzar fines públicos. La eficiencia exige utilizar racionalmente recursos. La jerarquía ordena relaciones internas entre órganos superiores e inferiores. La descentralización atribuye competencias a entidades con personalidad propia. La desconcentración distribuye competencias dentro de una misma Administración. La coordinación evita contradicciones y duplicidades. La cooperación es esencial entre Administraciones sin relación jerarquica.
 
 | Principio | Explicación rapida |
 | --- | --- |
@@ -30,7 +30,7 @@ La eficacia busca alcanzar fines públicos. La eficiencia exige utilizar raciona
 | Descentralización | Competencias en otra entidad con personalidad propia. |
 | Desconcentración | Competencias en órganos inferiores de la misma Administración. |
 | Coordinación | Evitar contradicciones entre actuaciones. |
-| Cooperación | Colaborar entre Administraciones sin jerarquia. |
+| Cooperación | Colaborar entre Administraciones sin jerarquía. |
 | Transparencia | Hacer comprensible y controlable la actuación pública. |
 
 <mark>Trampa frecuente:</mark> descentralización y desconcentración no son sinonimos. La primera implica otra entidad; la segunda, reparto interno dentro de la misma Administración.
@@ -65,13 +65,13 @@ Para que el acuerdo sea valido no basta con que exista mayoría política: deben
 
 La competencia es el conjunto de funciones atribuidas a un órgano. Es irrenunciable y se ejerce por los órganos que la tienen atribuida, salvo los mecanismos legalmente previstos.
 
-La competencia puede atribuirse por materia, territorio y jerarquia. Un acto dictado por órgano manifiestamente incompetente por materia o territorio es nulo. Si la incompetencia no es manifiesta o es jerarquica, puede generar anulabilidad.
+La competencia puede atribuirse por materia, territorio y jerarquía. Un acto dictado por órgano manifiestamente incompetente por materia o territorio es nulo. Si la incompetencia no es manifiesta o es jerarquica, puede generar anulabilidad.
 
 | Tipo de competencia | Ejemplo |
 | --- | --- |
 | Materia | Urbanismo, tributos, personal, contratación. |
 | Territorio | Termino municipal o ámbito territorial del órgano. |
-| Jerarquia | Organo superior o inferior dentro de la estructura. |
+| Jerarquia | Órgano superior o inferior dentro de la estructura. |
 
 La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas técnicas es alterar el ejercicio, la firma o la gestión material, pero no renunciar a la titularidad fuera de la ley.
 
@@ -83,9 +83,9 @@ No debe confundirse con descentralización, que transfiere competencias a otra e
 
 ## Delegación
 
-La delegación permite que un órgano encomiende el ejercicio de competencias a otro órgano de la misma Administración o de entidades dependientes, aunque no sean jerarquicamente dependientes, en los terminos de la Ley 40/2015.
+La delegación permite que un órgano encomiende el ejercicio de competencias a otro órgano de la misma Administración o de entidades dependientes, aunque no sean jerarquicamente dependientes, en los términos de la Ley 40/2015.
 
-No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autonomas y asambleas legislativas; adopción de disposiciones generales; resolución de recursos en órganos que dictaron actos; ni materias prohibidas por norma.
+No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autónomas y asambleas legislativas; adopción de disposiciones generales; resolución de recursos en órganos que dictaron actos; ni materias prohibidas por norma.
 
 Los actos dictados por delegación se consideran dictados por el órgano delegante y deben indicar expresamente esta circunstancia.
 
@@ -93,7 +93,7 @@ Los actos dictados por delegación se consideran dictados por el órgano delegan
 | --- | --- | --- |
 | Delegación | No | Otro órgano ejerce la competencia delegada. |
 | Avocación | No | El superior asume un asunto concreto. |
-| Encomienda | No | Encargo material o tecnico, no decisión jurídica. |
+| Encomienda | No | Encargo material o técnico, no decisión jurídica. |
 | Delegación de firma | No | Solo se autoriza firmar por otro. |
 | Suplencia | No | Sustitución temporal del titular. |
 

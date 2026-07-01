@@ -11,7 +11,7 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 41",
-    "explicación": "La Ley de Prevención de Riesgos Laborales define esos supuestos como danos derivados del trabajo."
+    "explicación": "La Ley de Prevención de Riesgos Laborales define esos supuestos como daños derivados del trabajo."
   },
   {
     "id": "pdf-2025-burgos-q54",
@@ -32,19 +32,19 @@
     "tema": 36,
     "pregunta": "Según el artículo 4 de la Ley 31/1995, se entiende por riesgo grave e inminente:",
     "opciones": [
-      "La posibilidad de que un trabajador sufra un determinado dano grave derivado del trabajo y que resulte probable que se materialice en un futuro inmediato",
+      "La posibilidad de que un trabajador sufra un determinado daño grave derivado del trabajo y que resulte probable que se materialice en un futuro inmediato",
       "La posibilidad de que un trabajador sufra lesiones o enfermedades graves derivadas del trabajo y que resulte probable que se materialice en un futuro inmediato",
-      "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un dano grave para la salud de los trabajadores",
+      "Aquel que resulte probable racionalmente que se materialice en un futuro inmediato y pueda suponer un daño grave para la salud de los trabajadores",
       "Aquel que origine riesgos para la salud y seguridad de los trabajadores y que se materialice en un futuro inmediato"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 55",
-    "explicación": "La definición legal pone el acento en la probabilidad racional de materialización inmediata y en el dano grave para la salud."
+    "explicación": "La definición legal pone el acento en la probabilidad racional de materialización inmediata y en el daño grave para la salud."
   },
   {
     "id": "pdf-2025-burgos-q56",
     "tema": 36,
-    "pregunta": "Para calificar un riesgo desde el punto de vista de su gravedad, se valoraran conjuntamente la severidad del dano y:",
+    "pregunta": "Para calificar un riesgo desde el punto de vista de su gravedad, se valoraran conjuntamente la severidad del daño y:",
     "opciones": [
       "La probabilidad de que se produzca",
       "La cantidad de trabajadores de la empresa",
@@ -53,7 +53,7 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 56",
-    "explicación": "La gravedad del riesgo se valora atendiendo a la severidad del dano y a la probabilidad de que llegue a producirse."
+    "explicación": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse."
   },
   {
     "id": "t23-p001",
@@ -80,7 +80,7 @@
       "aprobar el presupuesto local"
     ],
     "correcta": 0,
-    "explicación": "El tema lo formula así en su art. 2.",
+    "explicación": "El tema lo fórmula así en su art. 2.",
     "referencia": "V.5 · 1.2 Objeto (art. 2 LPRL)"
   },
   {
@@ -102,13 +102,13 @@
     "tema": 36,
     "pregunta": "Según el art. 4 LPRL, una condición de trabajo es:",
     "opciones": [
-      "Cualquier característica del trabajo que pueda influir significativamente en la generación de riesgos para la seguridad y la salud del trabajador",
+      "Cualquier carácterística del trabajo que pueda influir significativamente en la generación de riesgos para la seguridad y la salud del trabajador",
       "Exclusivamente la cuantía salarial asignada al puesto",
       "Solo la antigüedad o experiencia profesional del trabajador",
       "La denominación formal del puesto en la relación de puestos de trabajo"
     ],
     "correcta": 0,
-    "explicación": "La LPRL define condición de trabajo de forma amplia, atendiendo a cualquier característica que pueda influir en los riesgos laborales.",
+    "explicación": "La LPRL define condición de trabajo de forma amplia, atendiendo a cualquier carácterística que pueda influir en los riesgos laborales.",
     "referencia": "Ley 31/1995 · art. 4"
   },
   {
@@ -269,13 +269,13 @@
     "id": "topup-36-01",
     "pregunta": "La prevención de riesgos laborales aplicada al puesto administrativo incluye medidas frente a riesgos:",
     "opciones": [
-      "ergonomicos, visuales y psicosociales",
+      "ergonómicos, visuales y psicosociales",
       "solo maritimos",
       "exclusivamente mineros",
-      "reservados a la policia judicial"
+      "reservados a la policía judicial"
     ],
     "correcta": 0,
-    "explicación": "El trabajo administrativo tambien presenta riesgos propios que requieren prevención.",
+    "explicación": "El trabajo administrativo también presenta riesgos propios que requieren prevención.",
     "referencia": "V.5 · Riesgos y medidas preventivas del puesto administrativo",
     "tema": 36
   }

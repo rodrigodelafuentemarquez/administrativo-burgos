@@ -16,21 +16,21 @@
   {
     "id": "pdf-2025-burgos-q49-reg",
     "tema": 35,
-    "pregunta": "Cuándo se entiende presentado un documento en un registro, si se realizo la presentación en un día inhábil?",
+    "pregunta": "¿Cuándo se entiende presentado un documento en un registro, si se realizó la presentación en un día inhábil?",
     "opciones": [
-      "A la primera hora habil del primer día habil siguiente",
-      "A la primera hora del primer día habil siguiente",
+      "A la primera hora hábil del primer día hábil siguiente",
+      "A la primera hora del primer día hábil siguiente",
       "En el día inhábil de su presentación",
       "No se pueden presentar documentos en un día inhábil"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 49",
-    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora habil del primer día habil siguiente, salvo norma especial."
+    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora hábil del primer día hábil siguiente, salvo norma especial."
   },
   {
     "id": "pdf-2025-burgos-q58",
     "tema": 35,
-    "pregunta": "Cuál de los siguientes es un documento de un particular dirigido a la Administración?",
+    "pregunta": "¿Cuál de los siguientes es un documento de un particular dirigido a la Administración?",
     "opciones": [
       "Solicitud",
       "Informe",
@@ -225,7 +225,7 @@
   },
   {
     "id": "refine-35-01",
-    "pregunta": "Las oficinas de asistencia en materia de registros cumplen una función que va mas alla del mero asiento registral porque tambien pueden:",
+    "pregunta": "Las oficinas de asistencia en materia de registros cumplen una función que va más allá del mero asiento registral porque también pueden:",
     "opciones": [
       "asistir en el uso de medios electrónicos y en la presentación de solicitudes",
       "resolver recursos contencioso-administrativos",
@@ -239,16 +239,16 @@
   },
   {
     "id": "refine-35-02",
-    "pregunta": "Si una persona física no obligada a relacionarse electronicamente acude sin medios tecnicos, la oficina de asistencia puede:",
+    "pregunta": "Si una persona física no obligada a relacionarse electronicamente acude sin medios técnicos, la oficina de asistencia puede:",
     "opciones": [
       "prestar ayuda para presentar electronicamente la solicitud o documentación",
-      "rechazar sin mas la presentación",
+      "rechazar sin más la presentación",
       "obligarle a contratar un gestor privado",
       "resolver directamente el fondo del expediente"
     ],
     "correcta": 0,
     "referencia": "V.4 · Asistencia a la ciudadania",
-    "explicación": "La oficina esta precisamente para facilitar la relación electrónica a quien no dispone de medios o conocimientos suficientes.",
+    "explicación": "La oficina está precisamente para facilitar la relación electrónica a quien no dispone de medios o conocimientos suficientes.",
     "tema": 35
   },
   {
@@ -269,7 +269,7 @@
     "id": "refine-35-04",
     "pregunta": "En oficinas de asistencia en materia de registros, una copia auténtica se diferencia de una copia simple porque:",
     "opciones": [
-      "acredita la identidad y fidelidad respecto del original en los terminos legalmente previstos",
+      "acredita la identidad y fidelidad respecto del original en los términos legalmente previstos",
       "siempre sustituye al original a todos los efectos sin limite",
       "solo puede existir en papel y nunca en formato electrónico",
       "no requiere actuación administrativa alguna para su expedición"
@@ -290,7 +290,7 @@
       "Eliminar la necesidad de recibos de presentación"
     ],
     "correcta": 0,
-    "explicacion": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables.",
+    "explicación": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables.",
     "referencia": "Examen Estado 2026, registros; Tema V.4, oficinas de asistencia en materia de registros"
   }
 ]

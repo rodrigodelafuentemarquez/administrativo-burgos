@@ -8,17 +8,17 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La potestad normativa local se regula en la Constitución, la Ley 7/1985, la Ley de Haciendas Locales para ordenanzas fiscales, la Ley 39/2015 en materia de procedimiento y participación normativa, y los reglamentos organicos municipales.
+La potestad normativa local se regula en la Constitución, la Ley 7/1985, la Ley de Haciendas Locales para ordenanzas fiscales, la Ley 39/2015 en materia de procedimiento y participación normativa, y los reglamentos orgánicos municipales.
 
 ## Potestad reglamentaria local
 
 Las entidades locales tienen potestad reglamentaria y de autoorganización. Esta potestad permite aprobar ordenanzas, reglamentos y bandos dentro del ámbito de sus competencias.
 
-La potestad normativa local se fundamenta en la autonomía local. Sin normas propias, el Ayuntamiento no podria ordenar convivencia, servicios, tributos, uso de bienes, procedimientos internos o participación ciudadana. No obstante, las normas locales estan subordinadas a Constitución, leyes estatales y autonómicas.
+La potestad normativa local se fundamenta en la autonomía local. Sin normas propias, el Ayuntamiento no podria ordenar convivencia, servicios, tributos, uso de bienes, procedimientos internos o participación ciudadana. No obstante, las normas locales están subordinadas a Constitución, leyes estatales y autonómicas.
 
 ## Ordenanzas
 
-Las ordenanzas son disposiciones generales aprobadas por entidades locales para regular materias de competencia municipal. Pueden afectar a convivencia ciudadana, limpieza, ruido, terrazas, mercados, trafico, licencias, medio ambiente urbano, administración electrónica, padron, servicios o uso de espacios públicos.
+Las ordenanzas son disposiciones generales aprobadas por entidades locales para regular materias de competencia municipal. Pueden afectar a convivencia ciudadana, limpieza, ruido, terrazas, mercados, trafico, licencias, medio ambiente urbano, administración electrónica, padrón, servicios o uso de espacios públicos.
 
 Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas, contribuciones especiales, beneficios fiscales, gestión, liquidación, inspección y recaudación dentro del marco de la Ley de Haciendas Locales.
 
@@ -36,17 +36,17 @@ Una ordenanza local debe apoyarse en competencia municipal. Si el Ayuntamiento r
 
 ## Reglamentos
 
-Los reglamentos locales suelen regular organización y funcionamiento interno: reglamento organico municipal, reglamentos de órganos, participación ciudadana, consejo social, sugerencias y reclamaciones, gestión tributaria, archivos u otros órganos especializados.
+Los reglamentos locales suelen regular organización y funcionamiento interno: reglamento orgánico municipal, reglamentos de órganos, participación ciudadana, consejo social, sugerencias y reclamaciones, gestión tributaria, archivos u otros órganos especializados.
 
-El reglamento organico tiene especial importancia porque adapta la organización municipal a la ley y concreta órganos, funcionamiento, derechos de concejales, sesiones, comisiones y estructura institucional.
+El reglamento orgánico tiene especial importancia porque adapta la organización municipal a la ley y concreta órganos, funcionamiento, derechos de concejales, sesiones, comisiones y estructura institucional.
 
 ## Procedimiento de aprobación
 
 El procedimiento general de aprobación de ordenanzas y reglamentos locales incluye aprobación inicial por el Pleno, información pública y audiencia a interesados por plazo mínimo legal, resolución de reclamaciones y sugerencias, y aprobación definitiva. Si no se presentan reclamaciones, el acuerdo inicial puede entenderse definitivo.
 
-Despues debe publicarse el texto integro en el Boletin Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
+Despues debe publicarse el texto íntegro en el Boletín Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
 
-Antes de la aprobación pueden realizarse consultas, informes jurídicos, informes económicos, memoria de impacto, evaluación normativa y otros trámites segun materia. En ordenanzas fiscales se aplican reglas específicas de la Ley de Haciendas Locales.
+Antes de la aprobación pueden realizarse consultas, informes jurídicos, informes económicos, memoria de impacto, evaluación normativa y otros trámites según materia. En ordenanzas fiscales se aplican reglas específicas de la Ley de Haciendas Locales.
 
 | Fase | Finalidad |
 | --- | --- |
@@ -70,21 +70,21 @@ Su importancia en un Ayuntamiento es enorme porque habilitan la aplicación de t
 
 Las ordenanzas y reglamentos pueden impugnarse ante la jurisdicción contencioso-administrativa. También pueden ser objeto de requerimientos o impugnaciones por Administraciones competentes cuando vulneren el ordenamiento.
 
-Los actos dictados en aplicación de una ordenanza tambien pueden recurrirse. Si la ordenanza es ilegal, puede plantearse impugnación directa o indirecta en los terminos de la Ley de la Jurisdicción Contencioso-Administrativa.
+Los actos dictados en aplicación de una ordenanza también pueden recurrirse. Si la ordenanza es ilegal, puede plantearse impugnación directa o indirecta en los términos de la Ley de la Jurisdicción Contencioso-Administrativa.
 
 ## Bandos
 
 Los bandos son disposiciones o comunicaciones dictadas por el Alcalde para recordar, concretar o adoptar medidas dentro de sus competencias, especialmente en materias de convivencia, seguridad, fiestas, emergencias, limpieza, trafico o información vecinal.
 
-El bando no sustituye a la ordenanza ni puede crear regulaciones generales de competencia plenaria. Su función habitual es ejecutiva, informativa o de policia municipal. Debe respetar leyes, ordenanzas y competencias de otros órganos.
+El bando no sustituye a la ordenanza ni puede crear regulaciones generales de competencia plenaria. Su función habitual es ejecutiva, informativa o de policía municipal. Debe respetar leyes, ordenanzas y competencias de otros órganos.
 
 En situaciones de urgencia o riesgo, el Alcalde puede dictar bandos para adoptar medidas necesarias, dando cuenta al Pleno cuando proceda. Para el administrativo municipal, los bandos implican redacción, publicación, difusión, archivo y, a veces, tramitación de expedientes posteriores.
 
 | Instrumento | Quién lo aprueba/dicta | Alcance |
 | --- | --- | --- |
 | Ordenanza | Pleno | Norma general para materias de competencia local. |
-| Reglamento organico | Pleno | Organización y funcionamiento municipal. |
+| Reglamento orgánico | Pleno | Organización y funcionamiento municipal. |
 | Ordenanza fiscal | Pleno | Regulación tributaria local dentro de la ley. |
-| Bando | Alcaldia | Comunicación, recordatorio o medida ejecutiva dentro de competencias. |
+| Bando | Alcaldía | Comunicación, recordatorio o medida ejecutiva dentro de competencias. |
 
-La diferencia práctica es clara: si se quiere regular de forma estable una materia municipal, se aprueba ordenanza o reglamento. Si se quiere comunicar una medida concreta, recordar obligaciones o actuar en una situación puntual dentro de competencias de Alcaldia, puede usarse bando. El bando no debe utilizarse para evitar el procedimiento plenario.
+La diferencia práctica es clara: si se quiere regular de forma estable una materia municipal, se aprueba ordenanza o reglamento. Si se quiere comunicar una medida concreta, recordar obligaciones o actuar en una situación puntual dentro de competencias de Alcaldía, puede usarse bando. El bando no debe utilizarse para evitar el procedimiento plenario.

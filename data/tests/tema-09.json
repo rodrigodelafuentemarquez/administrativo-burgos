@@ -34,7 +34,7 @@
     "opciones": [
       "Las Cortes y la Junta de Castilla y León",
       "La Junta de Castilla y León y el Presidente",
-      "Las Cortes, el Presidente de la Junta de Castilla y León y el Procurador del Comun",
+      "Las Cortes, el Presidente de la Junta de Castilla y León y el Procurador del Común",
       "Las Cortes, el Presidente y la Junta de Castilla y León"
     ],
     "correcta": 3,
@@ -548,7 +548,7 @@
   {
     "id": "t47-p022",
     "tema": 9,
-    "pregunta": "En Castilla y León, el Procurador del Comun es elegido por las Cortes de Castilla y León para un mandato de:",
+    "pregunta": "En Castilla y León, el Procurador del Común es elegido por las Cortes de Castilla y León para un mandato de:",
     "opciones": [
       "Cuatro años, renovable",
       "Cinco años, no renovable",
@@ -556,8 +556,8 @@
       "Ocho años, no renovable"
     ],
     "correcta": 1,
-    "explicación": "El tema fija un mandato de cinco años para el Procurador del Comun y lo califica como no renovable.",
-    "referencia": "I.9 · 6.1 El Procurador del Comun"
+    "explicación": "El tema fija un mandato de cinco años para el Procurador del Común y lo califica como no renovable.",
+    "referencia": "I.9 · 6.1 El Procurador del Común"
   },
   {
     "id": "t47-p023",
@@ -626,7 +626,7 @@
       "Solo regula símbolos y carece de contenido competencial"
     ],
     "correcta": 0,
-    "explicacion": "El Estatuto es la norma institucional básica de Castilla y León y se aprueba o reforma mediante ley orgánica estatal.",
+    "explicación": "El Estatuto es la norma institucional básica de Castilla y León y se aprueba o reforma mediante ley orgánica estatal.",
     "referencia": "Tema I.9, Estatuto de Autonomía"
   },
   {
@@ -640,7 +640,7 @@
       "Zamora"
     ],
     "correcta": 0,
-    "explicacion": "Castilla y León está integrada por Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora; Logroño no es provincia de la Comunidad.",
+    "explicación": "Castilla y León está integrada por Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora; Logroño no es provincia de la Comunidad.",
     "referencia": "Tema I.9, Provincias integradas en Castilla y León"
   },
   {
@@ -654,7 +654,7 @@
       "Como meras declaraciones sin relación con la actuación de los poderes públicos"
     ],
     "correcta": 0,
-    "explicacion": "Los derechos estatutarios operan dentro de las competencias autonómicas y no sustituyen ni reducen los derechos constitucionales.",
+    "explicación": "Los derechos estatutarios operan dentro de las competencias autonómicas y no sustituyen ni reducen los derechos constitucionales.",
     "referencia": "Tema I.9, Derechos en el Estatuto"
   },
   {
@@ -668,7 +668,7 @@
       "Consejo Económico y Social"
     ],
     "correcta": 0,
-    "explicacion": "El Consejo de Cuentas es el órgano de control externo de la actividad económico-financiera del sector público de Castilla y León.",
+    "explicación": "El Consejo de Cuentas es el órgano de control externo de la actividad económico-financiera del sector público de Castilla y León.",
     "referencia": "Tema I.9, Instituciones propias de Castilla y León"
   },
   {
@@ -682,7 +682,7 @@
       "Unanimidad"
     ],
     "correcta": 0,
-    "explicacion": "El procedimiento de reforma estatutaria exige aprobación por las Cortes de Castilla y León por mayoría reforzada de dos tercios.",
+    "explicación": "El procedimiento de reforma estatutaria exige aprobación por las Cortes de Castilla y León por mayoría reforzada de dos tercios.",
     "referencia": "Tema I.9, reforma del Estatuto de Autonomía"
   },
   {
@@ -696,7 +696,7 @@
       "Consejo Económico y Social"
     ],
     "correcta": 0,
-    "explicacion": "El Procurador del Común es el equivalente autonómico del Defensor del Pueblo y supervisa la actividad administrativa en su ámbito.",
+    "explicación": "El Procurador del Común es el equivalente autonómico del Defensor del Pueblo y supervisa la actividad administrativa en su ámbito.",
     "referencia": "Tema I.9, instituciones propias de Castilla y León"
   },
   {

@@ -225,7 +225,7 @@
   },
   {
     "id": "topup-26-01",
-    "pregunta": "La Seguridad Social se estructura en Espana alrededor de un sistema con acción protectora:",
+    "pregunta": "La Seguridad Social se estructura en España alrededor de un sistema con acción protectora:",
     "opciones": [
       "frente a contingencias y situaciones de necesidad",
       "solo para funcionarios locales",
@@ -270,7 +270,7 @@
     "pregunta": "La estructura del sistema de Seguridad Social se apoya en un régimen general y, en su caso, en:",
     "opciones": [
       "regimenes especiales",
-      "regimenes urbanisticos",
+      "regimenes urbanísticos",
       "regimenes parlamentarios",
       "regimenes contenciosos"
     ],
@@ -290,13 +290,13 @@
       "Consorcio local"
     ],
     "correcta": 0,
-    "explicacion": "El examen de Estado 2026 recuerda que MUFACE se integra como organismo público.",
+    "explicación": "El examen de Estado 2026 recuerda que MUFACE se integra como organismo público.",
     "referencia": "Examen Estado 2026, MUFACE; Tema III.5, Seguridad Social y mutualismo"
   },
   {
     "id": "estado2026-extra-t26-02",
     "tema": 26,
-    "pregunta": "En jubilación parcial de personal laboral con discapacidad igual o superior al 33 por ciento, el examen de Estado 2026 preguntaba por un periodo mínimo de cotización de:",
+    "pregunta": "En jubilación parcial de personal laboral con discapacidad igual o superior al 33 por ciento, el examen de Estado 2026 preguntaba por un período mínimo de cotización de:",
     "opciones": [
       "Veinticinco años",
       "Veinte años",
@@ -304,7 +304,7 @@
       "Treinta y tres años"
     ],
     "correcta": 0,
-    "explicacion": "La pregunta del examen fijaba como respuesta correcta veinticinco años para el supuesto descrito.",
+    "explicación": "La pregunta del examen fijaba como respuesta correcta veinticinco años para el supuesto descrito.",
     "referencia": "Examen Estado 2026, Seguridad Social; Tema III.5"
   }
 ]

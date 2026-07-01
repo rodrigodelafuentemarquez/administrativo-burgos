@@ -12,12 +12,12 @@ La atención al público es una función esencial en la Administración local. C
 
 El personal administrativo debe conocer procedimientos, canales, plazos, derechos, obligaciones, registros, sede electrónica y servicios municipales. Una buena atención evita errores, reduce reclamaciones y facilita ejercicio de derechos.
 
-La atención al público no es solo trato amable. Tiene contenido jurídico: informar sin invadir competencias, orientar sin resolver verbalmente expedientes, proteger datos personales, registrar correctamente solicitudes y derivar al órgano competente. Una información incorrecta puede provocar perdida de plazos, presentación defectuosa o quejas.
+La atención al público no es solo trato amable. Tiene contenido jurídico: informar sin invadir competencias, orientar sin resolver verbalmente expedientes, proteger datos personales, registrar correctamente solicitudes y derivar al órgano competente. Una información incorrecta puede provocar pérdida de plazos, presentación defectuosa o quejas.
 
 | Principio | Cómo se aplica |
 | --- | --- |
 | Claridad | Explicar requisitos y plazos con lenguaje comprensible. |
-| Neutralidad | No valorar politicamente ni prometer resultados. |
+| Neutralidad | No valorar políticamente ni prometer resultados. |
 | Confidencialidad | No exponer datos personales ante terceros. |
 | Accesibilidad | Adaptar atención a necesidades de cada persona. |
 | Trazabilidad | Registrar solicitudes y dejar constancia cuando proceda. |
@@ -43,7 +43,7 @@ Ejemplos de ajustes razonables en atención municipal:
 
 ## Servicios de información administrativa
 
-La información administrativa puede ser general o particular. La información general orienta sobre competencias, órganos, horarios, procedimientos, requisitos, documentos, tasas, plazos, recursos y canales. Puede darse sin acreditar interes específico.
+La información administrativa puede ser general o particular. La información general orienta sobre competencias, órganos, horarios, procedimientos, requisitos, documentos, tasas, plazos, recursos y canales. Puede darse sin acreditar interés específico.
 
 La información particular se refiere a expedientes concretos. Solo puede facilitarse a interesados o representantes acreditados, respetando protección de datos y confidencialidad.
 
@@ -53,7 +53,7 @@ Los servicios de información se prestan presencialmente, por telefono, sede ele
 | --- | --- | --- |
 | General | Cualquier persona | Requisitos para solicitar una licencia. |
 | Particular | Interesado o representante | Estado de un expediente concreto. |
-| Publica por transparencia | Cualquier persona, con limites | Contratos, presupuestos, ordenanzas. |
+| Pública por transparencia | Cualquier persona, con límites | Contratos, presupuestos, ordenanzas. |
 | Reservada | Solo órganos o personas autorizadas | Datos sociales, sancionadores o tributarios protegidos. |
 
 La información general no crea por si sola derechos si contradice la normativa, pero la Administración debe procurar que sea correcta y actualizada. Por eso es importante consultar fuentes oficiales internas, ordenanzas vigentes y sede electrónica.
@@ -64,7 +64,7 @@ La ciudadania puede promover iniciativas, propuestas y mecanismos de participaci
 
 El personal administrativo debe registrar, tramitar y derivar estas iniciativas al órgano competente.
 
-En la Administración local, la participación ciudadana conecta con el principio democratico municipal. No toda propuesta obliga al Ayuntamiento a adoptar una decisión determinada, pero si puede obligar a tramitar, contestar o someter a consideración segun la normativa aplicable.
+En la Administración local, la participación ciudadana conecta con el principio democratico municipal. No toda propuesta obliga al Ayuntamiento a adoptar una decisión determinada, pero si puede obligar a tramitar, contestar o someter a consideración según la normativa aplicable.
 
 ## Reclamaciones, quejas y sugerencias
 
@@ -79,9 +79,9 @@ Las Administraciones deben disponer de canales para presentarlas, analizarlas y 
 | Reclamación | Exigir reparación o actuación. | Puede iniciar expediente específico. |
 | Recurso | Impugnar acto administrativo. | Procedimiento de revisión. |
 | Denuncia | Poner hechos en conocimiento. | Puede iniciar actuaciones previas o sancionador. |
-| Petición | Solicitar actuación institucional. | Tramitación segun derecho de petición. |
+| Petición | Solicitar actuación institucional. | Tramitación según derecho de petición. |
 
-La calificación correcta evita errores. Si un ciudadano llama "reclamación" a lo que juridicamente es recurso, la Administración debe atender al contenido real del escrito, no solo al titulo.
+La calificación correcta evita errores. Si un ciudadano llama "reclamación" a lo que jurídicamente es recurso, la Administración debe atender al contenido real del escrito, no solo al título.
 
 ## Peticiones
 
@@ -93,4 +93,4 @@ En la práctica, la primera tarea administrativa es calificar correctamente lo p
 
 El personal de atención debe actuar con metodo. Primero identifica que quiere la persona. Despues comprueba si se trata de información general o expediente concreto. Si hay expediente, verifica identidad y representación. Si se presenta documentación, registra o indica canal correcto. Si falta documentación, informa sin impedir la presentación salvo que la normativa lo exija. Si el asunto corresponde a otra Administración, orienta correctamente.
 
-No se debe denegar verbalmente la presentación de un escrito por considerar que esta incompleto. Lo ordinario es registrar y que el órgano competente requiera subsanación si procede. Tampoco debe facilitarse información particular a familiares, gestores o terceros sin representación acreditada.
+No se debe denegar verbalmente la presentación de un escrito por considerar que está incompleto. Lo ordinario es registrar y que el órgano competente requiera subsanación si procede. Tampoco debe facilitarse información particular a familiares, gestores o terceros sin representación acreditada.

@@ -100,7 +100,7 @@
   {
     "id": "t11-p006",
     "tema": 10,
-    "pregunta": "¿Qué característica destaca sobre la eficacia de la Constitución?",
+    "pregunta": "¿Qué carácterística destaca sobre la eficacia de la Constitución?",
     "opciones": [
       "Es solo programática",
       "Es directamente aplicable",
@@ -254,10 +254,10 @@
   {
     "id": "t11-p017",
     "tema": 10,
-    "pregunta": "Según el art. 81.1 CE, tienen carácter de leyes organicas, entre otras:",
+    "pregunta": "Según el art. 81.1 CE, tienen carácter de leyes orgánicas, entre otras:",
     "opciones": [
       "Las relativas al desarrollo de los derechos fundamentales y libertades públicas",
-      "Todas las leyes aprobadas por mayoría absoluta en ambas Camaras",
+      "Todas las leyes aprobadas por mayoría absoluta en ambas Cámaras",
       "Las leyes de presupuestos generales del Estado",
       "Los reglamentos ejecutivos del Gobierno"
     ],
@@ -276,7 +276,7 @@
       "Reglamento parlamentario"
     ],
     "correcta": 0,
-    "explicación": "La delegación para formar textos articulados se canaliza a traves de una ley de bases.",
+    "explicación": "La delegación para formar textos articulados se canaliza a través de una ley de bases.",
     "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
   },
   {
@@ -500,7 +500,7 @@
       "Al día siguiente de su publicación"
     ],
     "correcta": 0,
-    "explicacion": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
+    "explicación": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
     "referencia": "Examen Estado 2026, art. 2 CC; Tema II.1, fuentes del Derecho"
   },
   {
@@ -514,7 +514,7 @@
       "Impide aplicar la ley aunque ya haya entrado en vigor"
     ],
     "correcta": 0,
-    "explicacion": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
+    "explicación": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
     "referencia": "Tema II.1, vigencia de las normas"
   },
   {

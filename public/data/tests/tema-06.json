@@ -93,7 +93,7 @@
       "vecindad, nacionalidad y Parlamento"
     ],
     "correcta": 0,
-    "explicación": "El municipio se estructura sobre termino municipal, población y organización.",
+    "explicación": "El municipio se estructura sobre término municipal, población y organización.",
     "referencia": "I.6 · Concepto y elementos del municipio",
     "tema": 6
   },
@@ -101,7 +101,7 @@
     "id": "topup-06-04",
     "pregunta": "En materia de municipio y padrón municipal, la condición de vecino del municipio se adquiere:",
     "opciones": [
-      "cuando se inscribe en el padron municipal",
+      "cuando se inscribe en el padrón municipal",
       "al pagar el IBI",
       "al cumplir 18 años",
       "al votar en elecciones generales"
@@ -136,7 +136,7 @@
     ],
     "correcta": 0,
     "explicación": "La gestión padronal es una competencia municipal, con coordinación del INE.",
-    "referencia": "I.6 · Gestion del padron",
+    "referencia": "I.6 · Gestión del padrón",
     "tema": 6
   },
   {
@@ -163,8 +163,8 @@
       "decreto-ley municipal"
     ],
     "correcta": 0,
-    "explicación": "La legislación local contempla fusión, incorporación, segregación y modificación de limites.",
-    "referencia": "I.6 · Alteraciones del termino municipal",
+    "explicación": "La legislación local contempla fusión, incorporación, segregación y modificación de límites.",
+    "referencia": "I.6 · Alteraciones del término municipal",
     "tema": 6
   },
   {
@@ -174,10 +174,10 @@
       "recursos suficientes para prestar servicios obligatorios",
       "autorización del Congreso por ley orgánica en todo caso",
       "la unanimidad de todos los vecinos de la provincia",
-      "que sea capital de comunidad autonoma"
+      "que sea capital de comunidad autónoma"
     ],
     "correcta": 0,
-    "explicación": "La viabilidad del nuevo municipio exige recursos suficientes y justificación de interes público.",
+    "explicación": "La viabilidad del nuevo municipio exige recursos suficientes y justificación de interés público.",
     "referencia": "I.6 · Creación de municipios",
     "tema": 6
   },
@@ -185,7 +185,7 @@
     "id": "topup-06-14",
     "pregunta": "En materia de municipio y padrón municipal, la inscripción padronal de personas extranjeras:",
     "opciones": [
-      "no prueba por si sola la residencia legal en Espana",
+      "no prueba por si sola la residencia legal en España",
       "equivale siempre a una autorización de residencia",
       "solo es posible para ciudadanos de la UE",
       "requiere sentencia judicial previa"
@@ -213,14 +213,14 @@
     "id": "refine-06-01",
     "pregunta": "La condición de vecino de un municipio se adquiere legalmente mediante:",
     "opciones": [
-      "la inscripción en el padron municipal",
+      "la inscripción en el padrón municipal",
       "el pago del IBI durante dos ejercicios",
       "la residencia continuada de hecho durante un año aunque no exista inscripción",
       "la inclusión en el censo electoral general"
     ],
     "correcta": 0,
     "referencia": "I.6 · Población y empadronamiento",
-    "explicación": "La condición de vecino se anuda a la inscripción en el padron municipal.",
+    "explicación": "La condición de vecino se anuda a la inscripción en el padrón municipal.",
     "tema": 6
   },
   {
@@ -234,21 +234,21 @@
     ],
     "correcta": 0,
     "referencia": "I.6 · Padron municipal",
-    "explicación": "La eficacia probatoria del padron se refiere a residencia y domicilio habitual, no a otros extremos ajenos.",
+    "explicación": "La eficacia probatoria del padrón se refiere a residencia y domicilio habitual, no a otros extremos ajenos.",
     "tema": 6
   },
   {
     "id": "refine-06-03",
     "pregunta": "En materia de municipio y padrón municipal, la alteración del término municipal puede producirse, entre otros supuestos, por:",
     "opciones": [
-      "fusión, incorporación o segregación en los terminos legalmente previstos",
+      "fusión, incorporación o segregación en los términos legalmente previstos",
       "acuerdo verbal entre alcaldes colindantes",
       "resolución del interventor municipal",
       "petición de cualquier vecino sin expediente"
     ],
     "correcta": 0,
     "referencia": "I.6 · Termino municipal",
-    "explicación": "Las modificaciones del termino municipal exigen procedimiento y causa legalmente prevista.",
+    "explicación": "Las modificaciones del término municipal exigen procedimiento y causa legalmente prevista.",
     "tema": 6
   },
   {
@@ -290,7 +290,7 @@
       "La organización"
     ],
     "correcta": 0,
-    "explicacion": "Los elementos del municipio son territorio, población y organización; la comarca es otra posible entidad local.",
+    "explicación": "Los elementos del municipio son territorio, población y organización; la comarca es otra posible entidad local.",
     "referencia": "Tema I.6, Municipio: concepto y elementos"
   },
   {
@@ -304,7 +304,7 @@
       "Residencia ocasional durante una semana"
     ],
     "correcta": 0,
-    "explicacion": "La inscripción en el padrón municipal determina la condición de vecino del municipio.",
+    "explicación": "La inscripción en el padrón municipal determina la condición de vecino del municipio.",
     "referencia": "Tema I.6, Población y empadronamiento"
   },
   {
@@ -318,7 +318,7 @@
       "Es una autorización administrativa para residir en España"
     ],
     "correcta": 0,
-    "explicacion": "El padrón municipal es el registro administrativo en el que constan los vecinos del municipio.",
+    "explicación": "El padrón municipal es el registro administrativo en el que constan los vecinos del municipio.",
     "referencia": "Tema I.6, Empadronamiento"
   },
   {
@@ -332,7 +332,7 @@
       "A las Cortes Generales"
     ],
     "correcta": 0,
-    "explicacion": "La gestión y formación del padrón corresponde al Ayuntamiento, bajo la coordinación del INE en los términos legales.",
+    "explicación": "La gestión y formación del padrón corresponde al Ayuntamiento, bajo la coordinación del INE en los términos legales.",
     "referencia": "Tema I.6, Padrón municipal"
   },
   {
@@ -346,7 +346,7 @@
       "Es la agrupación de provincias limítrofes"
     ],
     "correcta": 0,
-    "explicacion": "El término municipal es el ámbito territorial en el que el Ayuntamiento ejerce sus competencias.",
+    "explicación": "El término municipal es el ámbito territorial en el que el Ayuntamiento ejerce sus competencias.",
     "referencia": "Tema I.6, término municipal"
   },
   {
@@ -360,7 +360,7 @@
       "Figurar como vecino en el padrón"
     ],
     "correcta": 0,
-    "explicacion": "La propiedad de una vivienda no determina la vecindad administrativa; esta deriva de la inscripción padronal.",
+    "explicación": "La propiedad de una vivienda no determina la vecindad administrativa; esta deriva de la inscripción padronal.",
     "referencia": "Tema I.6, población y empadronamiento"
   }
 ]

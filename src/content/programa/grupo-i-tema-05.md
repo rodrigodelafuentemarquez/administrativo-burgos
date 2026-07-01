@@ -14,35 +14,35 @@ También resultan relevantes el Real Decreto Legislativo 781/1986, de 18 de abri
 
 ## La Administración Local en la Constitución
 
-La Constitución reconoce la Administración Local dentro de la organización territorial del Estado. El artículo 137 establece que el Estado se organiza territorialmente en municipios, provincias y comunidades autonomas que se constituyan, y que todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
+La Constitución reconoce la Administración Local dentro de la organización territorial del Estado. El artículo 137 establece que el Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan, y que todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
 
-La autonomía local no es soberania ni autonomía política equiparable a la de las comunidades autonomas. Es una autonomía institucional y administrativa garantizada constitucionalmente. Significa que municipios y provincias deben disponer de un ámbito propio de decisión y gestión, de órganos representativos y de recursos suficientes para cumplir las funciones que la ley les atribuye.
+La autonomía local no es soberania ni autonomía política equiparable a la de las comunidades autónomas. Es una autonomía institucional y administrativa garantizada constitucionalmente. Significa que municipios y provincias deben disponer de un ámbito propio de decisión y gestión, de órganos representativos y de recursos suficientes para cumplir las funciones que la ley les atribuye.
 
 El artículo 140 garantiza la autonomía de los municipios y atribuye su gobierno y administración a los Ayuntamientos, integrados por Alcaldes y Concejales. El artículo 141 regula la provincia como entidad local con personalidad jurídica propia. El artículo 142 establece la suficiencia financiera de las Haciendas locales.
 
-| Articulo constitucional | Materia local | Idea de examen |
+| Artículo constitucional | Materia local | Idea de examen |
 |---|---|---|
-| Articulo 137 | Organización territorial | Municipios, provincias y comunidades autonomas. |
-| Articulo 140 | Municipio | Autonomía municipal y gobierno por Ayuntamiento. |
-| Articulo 141 | Provincia e islas | Provincia como entidad local y división territorial. |
-| Articulo 142 | Haciendas locales | Suficiencia financiera con tributos propios y participación. |
+| Artículo 137 | Organización territorial | Municipios, provincias y comunidades autónomas. |
+| Artículo 140 | Municipio | Autonomía municipal y gobierno por Ayuntamiento. |
+| Artículo 141 | Provincia e islas | Provincia como entidad local y división territorial. |
+| Artículo 142 | Haciendas locales | Suficiencia financiera con tributos propios y participación. |
 
 ## Concepto de entidad local
 
 Las entidades locales son Administraciones Públicas de base territorial que gestionan intereses propios de una colectividad asentada en un territorio determinado. Tienen personalidad jurídica, capacidad de obrar, potestades administrativas y autonomía para la gestión de sus intereses.
 
-La Ley de Bases del Régimen Local reconoce como entidades locales territoriales el municipio, la provincia y la isla en los archipielagos balear y canario. Ademas, pueden existir otras entidades de ámbito territorial inferior al municipio, comarcas u otras entidades que agrupen varios municipios, areas metropolitanas y mancomunidades de municipios, en los terminos previstos por la legislación estatal y autonómica.
+La Ley de Bases del Régimen Local reconoce como entidades locales territoriales el municipio, la provincia y la isla en los archipielagos balear y canario. Además, pueden existir otras entidades de ámbito territorial inferior al municipio, comarcas u otras entidades que agrupen varios municipios, areas metropolitanas y mancomunidades de municipios, en los términos previstos por la legislación estatal y autonómica.
 
 No todas las entidades locales tienen la misma posición constitucional. El municipio y la provincia aparecen directamente en la Constitución. Otras entidades dependen de la legislación que las cree o regule.
 
 | Rasgo | Entidad local |
 |---|---|
 | Base territorial | Gestiona intereses de una colectividad asentada en un territorio. |
-| Personalidad jurídica | Puede actuar, contratar, ser titular de bienes y responder juridicamente. |
+| Personalidad jurídica | Puede actuar, contratar, ser titular de bienes y responder jurídicamente. |
 | Potestades administrativas | Reglamentaria, tributaria, sancionadora, expropiatoria y otras legalmente previstas. |
-| Autonomía | Gestion de intereses propios dentro de la ley. |
+| Autonomía | Gestión de intereses propios dentro de la ley. |
 
-## Tipologia de entidades locales
+## Tipología de entidades locales
 
 El municipio es la entidad local básica de la organización territorial del Estado. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines. Sus elementos esenciales son el territorio, la población y la organización.
 
@@ -50,15 +50,15 @@ La provincia es una entidad local determinada por la agrupación de municipios. 
 
 Las islas tienen organización propia en los archipielagos. En Canarias existen Cabildos Insulares y en Baleares Consejos Insulares, con régimen específico.
 
-Las comarcas u otras entidades que agrupen varios municipios pueden ser creadas por las comunidades autonomas de acuerdo con su legislación. Su finalidad suele ser gestionar intereses comunes de municipios proximos.
+Las comarcas u otras entidades que agrupen varios municipios pueden ser creadas por las comunidades autónomas de acuerdo con su legislación. Su finalidad suele ser gestionar intereses comunes de municipios proximos.
 
-Las areas metropolitanas son entidades locales integradas por municipios de grandes aglomeraciones urbanas entre cuyos nucleos existan vinculaciones económicas y sociales que hagan necesaria la planificación conjunta y coordinación de servicios y obras.
+Las areas metropolitanas son entidades locales integradas por municipios de grandes aglomeraciones urbanas entre cuyos núcleos existan vinculaciones económicas y sociales que hagan necesaria la planificación conjunta y coordinación de servicios y obras.
 
-Las mancomunidades son asociaciones voluntarias de municipios para la ejecución en comun de obras y servicios determinados de su competencia. Tienen personalidad y capacidad para cumplir sus fines, pero no sustituyen a los municipios que las integran.
+Las mancomunidades son asociaciones voluntarias de municipios para la ejecución en común de obras y servicios determinados de su competencia. Tienen personalidad y capacidad para cumplir sus fines, pero no sustituyen a los municipios que las integran.
 
-Las entidades de ámbito territorial inferior al municipio, cuando existan conforme a la normativa aplicable, canalizan la gestión de intereses propios de nucleos separados dentro de un municipio.
+Las entidades de ámbito territorial inferior al municipio, cuando existan conforme a la normativa aplicable, canalizan la gestión de intereses propios de núcleos separados dentro de un municipio.
 
-| Tipo de entidad local | Caracter |
+| Tipo de entidad local | Carácter |
 |---|---|
 | Municipio | Entidad local básica; territorio, población y organización. |
 | Provincia | Agrupación de municipios y división territorial del Estado. |
@@ -66,24 +66,24 @@ Las entidades de ámbito territorial inferior al municipio, cuando existan confo
 | Comarca | Agrupa municipios conforme a legislación autonómica. |
 | Area metropolitana | Municipios de gran aglomeración con vinculaciones económicas y sociales. |
 | Mancomunidad | Asociación voluntaria de municipios para obras o servicios concretos. |
-| Entidad inferior al municipio | Gestion de intereses de nucleos separados, si existe en la normativa aplicable. |
+| Entidad inferior al municipio | Gestión de intereses de núcleos separados, si existe en la normativa aplicable. |
 
 ## Principios generales del régimen local
 
-La Ley de Bases del Régimen Local establece las bases del régimen jurídico de la Administración Local. Su finalidad es garantizar un mínimo comun en todo el Estado, respetando al mismo tiempo la capacidad normativa de las comunidades autonomas y la autonomía local.
+La Ley de Bases del Régimen Local establece las bases del régimen jurídico de la Administración Local. Su finalidad es garantizar un mínimo común en todo el Estado, respetando al mismo tiempo la capacidad normativa de las comunidades autónomas y la autonomía local.
 
 Entre los principios fundamentales se encuentran autonomía local, personalidad jurídica, suficiencia financiera, participación ciudadana, representatividad democratica, responsabilidad, control de legalidad, cooperación interadministrativa y servicio a los intereses vecinales.
 
-La autonomía local se protege mediante la atribución de competencias, la existencia de órganos propios, la potestad reglamentaria y de autoorganización, la potestad tributaria dentro de los limites legales, la capacidad de gestión de servicios y la defensa jurisdiccional de sus intereses.
+La autonomía local se protege mediante la atribución de competencias, la existencia de órganos propios, la potestad reglamentaria y de autoorganización, la potestad tributaria dentro de los límites legales, la capacidad de gestión de servicios y la defensa jurisdiccional de sus intereses.
 
-Las entidades locales actuan con potestades públicas. Entre ellas figuran potestad reglamentaria y de autoorganización, potestad tributaria y financiera, potestad de programación o planificación, potestad expropiatoria, potestad sancionadora, potestad de investigación, deslinde y recuperación de oficio de sus bienes, potestad de ejecución forzosa y potestad de revisión de oficio, en los terminos legalmente establecidos.
+Las entidades locales actuan con potestades públicas. Entre ellas figuran potestad reglamentaria y de autoorganización, potestad tributaria y financiera, potestad de programación o planificación, potestad expropiatoria, potestad sancionadora, potestad de investigación, deslinde y recuperación de oficio de sus bienes, potestad de ejecución forzosa y potestad de revisión de oficio, en los términos legalmente establecidos.
 
 | Potestad local | Para que sirve |
 |---|---|
 | Reglamentaria y autoorganización | Aprobar ordenanzas, reglamentos y organizar servicios. |
 | Tributaria y financiera | Establecer y gestionar ingresos dentro de la ley. |
 | Planificación | Programar actividad y servicios. |
-| Expropiatoria | Obtener bienes o derechos por causa de utilidad pública/interes social. |
+| Expropiatoria | Obtener bienes o derechos por causa de utilidad pública/interés social. |
 | Sancionadora | Imponer sanciones cuando exista habilitación legal. |
 | Bienes | Investigar, deslindar y recuperar de oficio bienes locales. |
 | Ejecución forzosa y revisión de oficio | Hacer cumplir actos y depurar actos invalidos. |
@@ -92,9 +92,9 @@ Las entidades locales actuan con potestades públicas. Entre ellas figuran potes
 
 La Ley 7/1985 regula los elementos del municipio, organización municipal, competencias, régimen de funcionamiento, relaciones interadministrativas, bienes, actividades y servicios, personal al servicio de las entidades locales, haciendas locales en conexion con su normativa específica y régimen de impugnación de actos y acuerdos.
 
-El municipio se configura como entidad básica. Su gobierno corresponde al Ayuntamiento, formado por Alcalde y Concejales. En todos los Ayuntamientos existen Alcalde, Tenientes de Alcalde y Pleno. La Junta de Gobierno Local existe en municipios con población superior a 5.000 habitantes y en los de menos cuando asi lo disponga su reglamento organico o lo acuerde el Pleno.
+El municipio se configura como entidad básica. Su gobierno corresponde al Ayuntamiento, formado por Alcalde y Concejales. En todos los Ayuntamientos existen Alcalde, Tenientes de Alcalde y Pleno. La Junta de Gobierno Local existe en municipios con población superior a 5.000 habitantes y en los de menos cuando así lo disponga su reglamento orgánico o lo acuerde el Pleno.
 
-La Ley tambien regula municipios de gran población, introducidos por la Ley 57/2003. En ellos se refuerza la separación entre órganos de gobierno y órganos administrativos, se regula una Junta de Gobierno Local con funciones ejecutivas relevantes, se contempla la existencia de órganos directivos y se crean órganos como el Consejo Social de la Ciudad y la Comisión Especial de Sugerencias y Reclamaciones. Burgos se encuadra en este régimen por su población y por la aplicación de la normativa correspondiente.
+La Ley también regula municipios de gran población, introducidos por la Ley 57/2003. En ellos se refuerza la separación entre órganos de gobierno y órganos administrativos, se regula una Junta de Gobierno Local con funciones ejecutivas relevantes, se contempla la existencia de órganos directivos y se crean órganos como el Consejo Social de la Ciudad y la Comisión Especial de Sugerencias y Reclamaciones. Burgos se encuadra en este régimen por su población y por la aplicación de la normativa correspondiente.
 
 | Contenido LBRL | Materias |
 |---|---|
@@ -108,55 +108,55 @@ La Ley tambien regula municipios de gran población, introducidos por la Ley 57/
 
 ## Competencias locales
 
-Las competencias municipales se ejercen sobre materias de interes local. La Ley de Bases distingue entre competencias propias, competencias delegadas y otras competencias ejercidas en los terminos legalmente previstos.
+Las competencias municipales se ejercen sobre materias de interés local. La Ley de Bases distingue entre competencias propias, competencias delegadas y otras competencias ejercidas en los términos legalmente previstos.
 
 Las competencias propias se ejercen en régimen de autonomía y bajo la responsabilidad de la entidad local. Deben atribuirse por ley y atender a principios de descentralización, eficiencia, estabilidad presupuestaria y sostenibilidad financiera.
 
-Las competencias delegadas proceden del Estado o de las comunidades autonomas. La delegación debe determinar alcance, contenido, condiciones, duración y control, asi como medios personales, materiales y económicos necesarios.
+Las competencias delegadas proceden del Estado o de las comunidades autónomas. La delegación debe determinar alcance, contenido, condiciones, duración y control, así como medios personales, materiales y económicos necesarios.
 
-Ademas, los municipios deben prestar servicios mínimos en función de su población. Todos deben prestar alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a nucleos de población y pavimentación de vias públicas. A medida que aumenta la población, se incorporan otros servicios como parque público, biblioteca pública, tratamiento de residuos, protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios, instalaciones deportivas y transporte colectivo urbano.
+Además, los municipios deben prestar servicios mínimos en función de su población. Todos deben prestar alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a núcleos de población y pavimentación de vías públicas. A medida que aumenta la población, se incorporan otros servicios como parque público, biblioteca pública, tratamiento de residuos, protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios, instalaciones deportivas y transporte colectivo urbano.
 
 | Tipo de competencia | Rasgo |
 |---|---|
 | Propia | Se ejerce en régimen de autonomía y responsabilidad propia. |
-| Delegada | Procede del Estado o comunidad autonoma, con alcance, condiciones y medios. |
-| Otras competencias | Solo en los terminos y limites legalmente previstos. |
-| Servicios mínimos | Obligatorios segun tramo de población. |
+| Delegada | Procede del Estado o comunidad autónoma, con alcance, condiciones y medios. |
+| Otras competencias | Solo en los términos y límites legalmente previstos. |
+| Servicios mínimos | Obligatorios según tramo de población. |
 
 **Para Burgos:** por población, interesan especialmente servicios urbanos, transporte colectivo, protección civil, instalaciones deportivas, servicios sociales, residuos y bibliotecas.
 
 ## Relaciones entre Administraciones
 
-El régimen local se integra en un sistema de relaciones con el Estado y las comunidades autonomas. La autonomía local no excluye coordinación, cooperación ni control de legalidad.
+El régimen local se integra en un sistema de relaciones con el Estado y las comunidades autónomas. La autonomía local no excluye coordinación, cooperación ni control de legalidad.
 
-Las Administraciones deben respetar el ejercicio legitimo de competencias de las demas, ponderar la totalidad de intereses públicos implicados, facilitar información y prestar cooperación y asistencia. La coordinación puede establecerse cuando las actividades o servicios locales trasciendan el interes propio de la entidad, incidan en competencias de otras Administraciones o sean concurrentes.
+Las Administraciones deben respetar el ejercicio legítimo de competencias de las demás, ponderar la totalidad de intereses públicos implicados, facilitar información y prestar cooperación y asistencia. La coordinación puede establecerse cuando las actividades o servicios locales trasciendan el interés propio de la entidad, incidan en competencias de otras Administraciones o sean concurrentes.
 
-El control sobre entidades locales no es jerarquico. El Estado y las comunidades autonomas no son superiores jerarquicos de los Ayuntamientos. Pueden ejercer controles de legalidad y mecanismos de tutela previstos en la ley, pero respetando la autonomía local.
+El control sobre entidades locales no es jerarquico. El Estado y las comunidades autónomas no son superiores jerarquicos de los Ayuntamientos. Pueden ejercer controles de legalidad y mecanismos de tutela previstos en la ley, pero respetando la autonomía local.
 
 | Relación interadministrativa | Significado |
 |---|---|
 | Cooperación | Ayuda voluntaria o convenida entre Administraciones. |
 | Coordinación | Ordenación para evitar duplicidades o contradicciones. |
-| Asistencia | Apoyo tecnico, jurídico o económico, especialmente a municipios. |
-| Control de legalidad | Revisión conforme a ley, sin jerarquia general. |
+| Asistencia | Apoyo técnico, jurídico o económico, especialmente a municipios. |
+| Control de legalidad | Revisión conforme a ley, sin jerarquía general. |
 | Información reciproca | Deber de comunicar datos relevantes para competencias concurrentes. |
 
 ## La Ley de Haciendas Locales
 
-La autonomía local necesita recursos económicos. El artículo 142 de la Constitución exige que las Haciendas locales dispongan de medios suficientes para desempenar las funciones atribuidas a las corporaciones respectivas. Esos medios se nutren fundamentalmente de tributos propios y de participación en los tributos del Estado y de las comunidades autonomas.
+La autonomía local necesita recursos económicos. El artículo 142 de la Constitución exige que las Haciendas locales dispongan de medios suficientes para desempeñar las funciones atribuidas a las corporaciones respectivas. Esos medios se nutren fundamentalmente de tributos propios y de participación en los tributos del Estado y de las comunidades autónomas.
 
 El texto refundido de la Ley Reguladora de las Haciendas Locales regula recursos de las entidades locales, tributos locales, participación en ingresos del Estado, presupuestos, contabilidad, tesorería, control y endeudamiento.
 
-Los recursos de las Haciendas locales incluyen ingresos procedentes de su patrimonio, tributos propios, participaciones en tributos del Estado y de las comunidades autonomas, subvenciones, precios públicos, producto de operaciones de crédito, multas y sanciones, y demas prestaciones de Derecho público.
+Los recursos de las Haciendas locales incluyen ingresos procedentes de su patrimonio, tributos propios, participaciones en tributos del Estado y de las comunidades autónomas, subvenciones, precios públicos, producto de operaciones de crédito, multas y sanciones, y demás prestaciones de Derecho público.
 
 | Recurso local | Ejemplo |
 |---|---|
 | Patrimonio | Rendimientos de bienes locales. |
 | Tributos propios | Impuestos, tasas y contribuciones especiales. |
-| Participación en tributos | Participación en ingresos del Estado y comunidades autonomas. |
+| Participación en tributos | Participación en ingresos del Estado y comunidades autónomas. |
 | Subvenciones | Financiación finalista o de apoyo. |
 | Precios públicos | Contraprestación por servicios o actividades no tributarias. |
-| Operaciones de crédito | Endeudamiento dentro de limites legales. |
+| Operaciones de crédito | Endeudamiento dentro de límites legales. |
 | Multas y sanciones | Ingresos derivados de potestad sancionadora. |
 
 ## Tributos locales
@@ -181,15 +181,15 @@ Las contribuciones especiales se exigen cuando el sujeto pasivo obtiene un benef
 
 ## Presupuesto y control local
 
-La Ley de Haciendas Locales regula tambien el presupuesto de las entidades locales. El presupuesto general constituye la expresión cifrada, conjunta y sistematica de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autonomos, y de los derechos que se preve liquidar durante el ejercicio.
+La Ley de Haciendas Locales regula también el presupuesto de las entidades locales. El presupuesto general constituye la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autonomos, y de los derechos que se prevé liquidar durante el ejercicio.
 
 El presupuesto local se somete a principios de anualidad, unidad, equilibrio, especialidad y publicidad. Su aprobación corresponde al Pleno. La ejecución presupuestaria, la ordenación de gastos y pagos, la intervención y la tesorería se desarrollan conforme a la normativa presupuestaria local.
 
-El control interno se ejerce por la Intervención, mediante función interventora y control financiero. El control externo corresponde al Tribunal de Cuentas y, en Castilla y León, al Consejo de Cuentas en los terminos de su normativa.
+El control interno se ejerce por la Intervención, mediante función interventora y control financiero. El control externo corresponde al Tribunal de Cuentas y, en Castilla y León, al Consejo de Cuentas en los términos de su normativa.
 
 | Elemento presupuestario | Regla |
 |---|---|
-| Presupuesto general | Expresión cifrada, conjunta y sistematica de obligaciones y derechos. |
+| Presupuesto general | Expresión cifrada, conjunta y sistemática de obligaciones y derechos. |
 | Aprobación | Corresponde al Pleno. |
 | Principios | Anualidad, unidad, equilibrio, especialidad y publicidad. |
 | Ejecución | Ordenación de gastos y pagos conforme a normativa local. |
@@ -198,6 +198,6 @@ El control interno se ejerce por la Intervención, mediante función interventor
 
 ## Importancia del régimen local para la plaza convocada
 
-Para una plaza de Administrativo del Ayuntamiento de Burgos, el régimen local no es un bloque teorico aislado. Afecta al funcionamiento diario de la entidad: tramitación de expedientes, acuerdos de órganos colegiados, ordenanzas, padron, gestión tributaria, contratación, presupuestos, atención ciudadana y archivo.
+Para una plaza de Administrativo del Ayuntamiento de Burgos, el régimen local no es un bloque teorico aislado. Afecta al funcionamiento diario de la entidad: tramitación de expedientes, acuerdos de órganos colegiados, ordenanzas, padrón, gestión tributaria, contratación, presupuestos, atención ciudadana y archivo.
 
-El opositor debe dominar las ideas constitucionales y legales básicas, pero tambien comprender que el Ayuntamiento actua como Administración Publica territorial con potestades propias, órganos representativos, competencias, presupuesto y responsabilidad ante los vecinos.
+El opositor debe dominar las ideas constitucionales y legales básicas, pero también comprender que el Ayuntamiento actúa como Administración Pública territorial con potestades propias, órganos representativos, competencias, presupuesto y responsabilidad ante los vecinos.

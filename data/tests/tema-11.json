@@ -226,11 +226,11 @@
   {
     "id": "t16-p018",
     "tema": 11,
-    "pregunta": "Según el art. 44 LPACAP, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o, intentada esta, no se hubiese podido practicar, la notificación se hara:",
+    "pregunta": "Según el art. 44 LPACAP, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o, intentada esta, no se hubiese podido practicar, la notificación se hará:",
     "opciones": [
       "Exclusivamente por correo certificado con acuse de recibo",
-      "Mediante anuncio publicado en el Boletin Oficial del Estado",
-      "Siempre en el tablon de edictos del ayuntamiento del ultimo domicilio",
+      "Mediante anuncio publicado en el Boletín Oficial del Estado",
+      "Siempre en el tablon de edictos del ayuntamiento del último domicilio",
       "Unicamente por comparecencia en la sede electrónica"
     ],
     "correcta": 1,
@@ -318,7 +318,7 @@
       "Lesionen derechos susceptibles de amparo constitucional"
     ],
     "correcta": 0,
-    "explicacion": "La regla general de anulabilidad comprende cualquier infracción del ordenamiento jurídico, incluida la desviación de poder; las otras opciones son causas típicas de nulidad de pleno derecho.",
+    "explicación": "La regla general de anulabilidad comprende cualquier infracción del ordenamiento jurídico, incluida la desviación de poder; las otras opciones son causas típicas de nulidad de pleno derecho.",
     "referencia": "Examen Estado 2026, art. 48 LPACAP; Tema II.2, validez de los actos"
   },
   {
@@ -332,7 +332,7 @@
       "Acto dictado prescindiendo total y absolutamente del procedimiento"
     ],
     "correcta": 0,
-    "explicacion": "La desviación de poder se cita expresamente en el art. 48 LPACAP como supuesto de anulabilidad.",
+    "explicación": "La desviación de poder se cita expresamente en el art. 48 LPACAP como supuesto de anulabilidad.",
     "referencia": "Tema II.2, invalidez del acto administrativo"
   }
 ]

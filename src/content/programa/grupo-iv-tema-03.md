@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo IV. Gestion financiera y urbanismo"
+grupo: "Grupo IV. Gestión financiera y urbanismo"
 tema: 3
 codigo: "Tema IV.3"
 titulo: "El procedimiento administrativo de ejecución del presupuesto de gasto. Organos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenación del pago: concepto y competencia."
@@ -18,25 +18,25 @@ El gasto público local requiere crédito adecuado y suficiente, competencia del
 
 ## Organos competentes
 
-La competencia depende de la materia, cuantia y organización municipal. En municipios de gran población pueden intervenir Alcaldia, Junta de Gobierno Local, Concejales delegados, órganos directivos, Intervención, Tesoreria y Pleno en supuestos reservados.
+La competencia depende de la materia, cuantía y organización municipal. En municipios de gran población pueden intervenir Alcaldía, Junta de Gobierno Local, Concejales delegados, órganos directivos, Intervención, Tesorería y Pleno en supuestos reservados.
 
-La Intervención fiscaliza y contabiliza. La Tesoreria gestiona pagos. Los centros gestores proponen gasto y acreditan necesidad. El órgano de contratación o competente aprueba el expediente.
+La Intervención fiscaliza y contabiliza. La Tesorería gestiona pagos. Los centros gestores proponen gasto y acreditan necesidad. El órgano de contratación o competente aprueba el expediente.
 
-| Organo o unidad | Función en el gasto |
+| Órgano o unidad | Función en el gasto |
 | --- | --- |
 | Centro gestor | Detecta la necesidad, impulsa el expediente y acredita la prestación o suministro. |
-| Organo competente para contratar o gastar | Aprueba gasto, adjudica, concede subvenciones o dicta resoluciones económicas. |
-| Intervención | Fiscaliza, controla existencia de crédito, contabiliza y formula reparos si procede. |
-| Tesoreria | Gestiona liquidez, plan de disposición de fondos y pago material. |
+| Órgano competente para contratar o gastar | Aprueba gasto, adjudica, concede subvenciones o dicta resoluciones económicas. |
+| Intervención | Fiscaliza, controla existencia de crédito, contabiliza y fórmula reparos si procede. |
+| Tesorería | Gestiona liquidez, plan de disposición de fondos y pago material. |
 | Pleno | Interviene en materias reservadas, presupuestos, modificaciones relevantes y control político. |
 
 En expedientes reales, la corrección formal es tan importante como la material. Una factura correcta no debe pagarse si no existe conformidad, si falta crédito, si el órgano es incompetente o si se omitio una fase obligatoria.
 
 ## Fases del gasto
 
-La autorización del gasto, fase A, acuerda realizar un gasto por importe determinado o determinable, reservando crédito. El compromiso o disposición, fase D, vincula a la entidad frente a tercero tras adjudicación, concesión o acto que genera obligación futura. El reconocimiento de la obligación, fase O, declara que el acreedor ha cumplido y que existe deuda exigible. La ordenación del pago, fase P, dispone que Tesoreria pague.
+La autorización del gasto, fase A, acuerda realizar un gasto por importe determinado o determinable, reservando crédito. El compromiso o disposición, fase D, vincula a la entidad frente a tercero tras adjudicación, concesión o acto que genera obligación futura. El reconocimiento de la obligación, fase O, declara que el acreedor ha cumplido y que existe deuda exigible. La ordenación del pago, fase P, dispone que Tesorería pague.
 
-En algunos expedientes se acumulan fases: AD, ADO u O, segun naturaleza del gasto y bases de ejecución. Por ejemplo, facturas menores pueden tramitarse ADO si el gasto ya esta realizado y procede reconocimiento.
+En algunos expedientes se acumulan fases: AD, ADO u O, según naturaleza del gasto y bases de ejecución. Por ejemplo, facturas menores pueden tramitarse ADO si el gasto ya está realizado y procede reconocimiento.
 
 | Fase | Nombre | Efecto |
 | --- | --- | --- |
@@ -44,10 +44,10 @@ En algunos expedientes se acumulan fases: AD, ADO u O, segun naturaleza del gast
 | A | Autorización | Se aprueba realizar un gasto máximo. |
 | D | Disposición o compromiso | Se compromete el gasto frente a un tercero concreto. |
 | O | Reconocimiento de obligación | Se reconoce que hay deuda exigible porque la prestación se cumplio. |
-| P | Ordenación del pago | Se ordena a Tesoreria pagar una obligación reconocida. |
+| P | Ordenación del pago | Se ordena a Tesorería pagar una obligación reconocida. |
 | Pago material | Salida de fondos | Se transfiere o abona efectivamente al acreedor. |
 
-Ejemplo: en un contrato de suministro, primero se reserva crédito, despues se autoriza y adjudica el gasto, mas tarde se recibe el suministro, se conforma la factura, se reconoce la obligación y finalmente se ordena y realiza el pago.
+Ejemplo: en un contrato de suministro, primero se reserva crédito, después se autoriza y adjudica el gasto, más tarde se recibe el suministro, se conforma la factura, se reconoce la obligación y finalmente se ordena y realiza el pago.
 
 ## Documentos contables
 
@@ -67,22 +67,22 @@ No debe confundirse documento contable con justificante material. El documento c
 
 ## Compromisos para ejercicios posteriores
 
-Los compromisos de gasto plurianuales permiten adquirir obligaciones que se extienden a ejercicios futuros. Deben respetar limites legales y consignarse adecuadamente. Son habituales en contratos de servicios, suministros, obras plurianuales o arrendamientos.
+Los compromisos de gasto plurianuales permiten adquirir obligaciones que se extienden a ejercicios futuros. Deben respetar límites legales y consignarse adecuadamente. Son habituales en contratos de servicios, suministros, obras plurianuales o arrendamientos.
 
 La autorización de gasto plurianual no elimina la necesidad de crédito en ejercicios posteriores. Debe preverse en presupuestos futuros.
 
 ## Ordenación del pago
 
-La ordenación del pago es el acto por el que se ordena a Tesoreria satisfacer una obligación reconocida. La competencia corresponde al Presidente de la entidad local, salvo delegación o régimen específico.
+La ordenación del pago es el acto por el que se ordena a Tesorería satisfacer una obligación reconocida. La competencia corresponde al Presidente de la entidad local, salvo delegación o régimen específico.
 
-El pago material corresponde a Tesoreria. Deben respetarse planes de disposición de fondos, prioridades legales, disponibilidad liquida y medios de pago. La morosidad y período medio de pago son indicadores relevantes de gestión.
+El pago material corresponde a Tesorería. Deben respetarse planes de disposición de fondos, prioridades legales, disponibilidad liquida y medios de pago. La morosidad y período medio de pago son indicadores relevantes de gestión.
 
 ## Errores frecuentes en ejecución del gasto
 
 | Error | Consecuencia posible |
 | --- | --- |
 | Tramitar gasto sin crédito adecuado y suficiente | Reparo, nulidad o necesidad de reconocimiento extrajudicial/regularización. |
-| Aprobar por órgano incompetente | Vicio de competencia y posible anulabilidad o nulidad segun caso. |
+| Aprobar por órgano incompetente | Vicio de competencia y posible anulabilidad o nulidad según caso. |
 | Reconocer obligación sin conformidad | Riesgo de pagar prestaciones no realizadas o defectuosas. |
 | Fraccionar contratos para evitar procedimiento | Infracción de normativa de contratación y control. |
 | Omitir fiscalización previa | Expediente de omisión y posibles responsabilidades. |

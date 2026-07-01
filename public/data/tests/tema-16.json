@@ -19,8 +19,8 @@
     "pregunta": "De conformidad con la Ley 9/2017:",
     "opciones": [
       "No podrán ser objeto del contrato de servicios los que impliquen ejercicio de autoridad inherente a los poderes públicos",
-      "Podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso del Pleno",
-      "Podran ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso de la Junta de Gobierno Local",
+      "Podrán ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso del Pleno",
+      "Podrán ser objeto del contrato de servicios los que impliquen ejercicio de autoridad previo acuerdo expreso de la Junta de Gobierno Local",
       "No podrán ser objeto de contrato de servicios los que impliquen ejercicio de autoridad salvo en materia tributaria"
     ],
     "correcta": 0,
@@ -30,7 +30,7 @@
   {
     "id": "pdf-2023-burgos-q36",
     "tema": 16,
-    "pregunta": "En qué procedimiento de adjudicación solo podrán presentar proposiciones aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación?",
+    "pregunta": "¿En qué procedimiento de adjudicación solo podrán presentar proposiciones aquellos empresarios que, a su solicitud y en atención a su solvencia, sean seleccionados por el órgano de contratación?",
     "opciones": [
       "Procedimiento abierto",
       "Procedimiento abierto simplificado",
@@ -327,7 +327,7 @@
     "pregunta": "En contratación del sector público, si un contrato abarca prestaciones correspondientes a distintos tipos contractuales, su régimen jurídico se determinara atendiendo a:",
     "opciones": [
       "La voluntad unilateral del contratista",
-      "La cuantia económica mas baja del contrato",
+      "La cuantía económica más baja del contrato",
       "La prestación principal del contrato",
       "La decisión de la Mesa de Contratación"
     ],
@@ -654,7 +654,7 @@
       "Cabe si el contratista lo solicita antes de formalizar"
     ],
     "correcta": 0,
-    "explicacion": "El examen de Estado 2026 subraya que no cabe revisión de precios en contratos celebrados con precios provisionales.",
+    "explicación": "El examen de Estado 2026 subraya que no cabe revisión de precios en contratos celebrados con precios provisionales.",
     "referencia": "Examen Estado 2026, art. 102 LCSP; Tema II.7, revisión de precios"
   },
   {
@@ -668,7 +668,7 @@
       "El presupuesto base de licitación sin considerar modificaciones"
     ],
     "correcta": 0,
-    "explicacion": "El valor estimado se calcula sin IVA e incluyendo prórrogas y demás elementos computables legalmente.",
+    "explicación": "El valor estimado se calcula sin IVA e incluyendo prórrogas y demás elementos computables legalmente.",
     "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, expediente de contratación"
   },
   {
@@ -682,7 +682,7 @@
       "Un año improrrogable"
     ],
     "correcta": 0,
-    "explicacion": "La regla general de la LCSP para contratos de servicios de prestación sucesiva es un plazo máximo de cinco años, incluidas posibles prórrogas.",
+    "explicación": "La regla general de la LCSP para contratos de servicios de prestación sucesiva es un plazo máximo de cinco años, incluidas posibles prórrogas.",
     "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, duración"
   },
   {
@@ -696,7 +696,7 @@
       "Treinta días desde el anuncio de licitación"
     ],
     "correcta": 0,
-    "explicacion": "La LCSP fija quince días como plazo máximo de adjudicación cuando el único criterio es el precio.",
+    "explicación": "La LCSP fija quince días como plazo máximo de adjudicación cuando el único criterio es el precio.",
     "referencia": "Examen Estado 2026, adjudicación; Tema II.7, procedimientos de adjudicación"
   },
   {
@@ -710,7 +710,7 @@
       "La totalidad del precio del contrato"
     ],
     "correcta": 0,
-    "explicacion": "La LCSP prevé una penalidad del 3 por ciento del presupuesto base de licitación, IVA excluido, que se hará efectiva conforme a la garantía si procede.",
+    "explicación": "La LCSP prevé una penalidad del 3 por ciento del presupuesto base de licitación, IVA excluido, que se hará efectiva conforme a la garantía si procede.",
     "referencia": "Examen Estado 2026, formalización; Tema II.7, formalización e invalidez"
   },
   {
@@ -724,7 +724,7 @@
       "Solo puede acordarse después de extinguido el contrato"
     ],
     "correcta": 0,
-    "explicacion": "La prórroga debe acordarse por el órgano de contratación; no cabe prórroga tácita, y será obligatoria si se cumplen los requisitos de preaviso.",
+    "explicación": "La prórroga debe acordarse por el órgano de contratación; no cabe prórroga tácita, y será obligatoria si se cumplen los requisitos de preaviso.",
     "referencia": "Examen Estado 2026, prórroga contractual; Tema II.7, efectos y extinción"
   },
   {

@@ -590,7 +590,7 @@
   {
     "id": "t46-p021",
     "tema": 22,
-    "pregunta": "En empleo público local, la Oferta de Empleo Publico de la Junta de Castilla y León se pública en:",
+    "pregunta": "En empleo público local, la Oferta de Empleo Público de la Junta de Castilla y León se pública en:",
     "opciones": [
       "Exclusivamente en el BOCYL",
       "Exclusivamente en el BOE",
@@ -606,7 +606,7 @@
     "tema": 22,
     "pregunta": "En empleo público local, el personal eventual:",
     "opciones": [
-      "Puede desempenar puestos que impliquen el ejercicio de potestades administrativas",
+      "Puede desempeñar puestos que impliquen el ejercicio de potestades administrativas",
       "Es nombrado para puestos de confianza o asesoramiento especial y no puede ejercer potestades administrativas",
       "Solo puede existir en las entidades locales",
       "Adquiere la condición de funcionario de carrera por el mero transcurso del tiempo"
@@ -621,7 +621,7 @@
     "pregunta": "En empleo público local, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
     "opciones": [
       "Superación del proceso selectivo, nombramiento por el órgano competente y toma de posesión dentro del plazo establecido",
-      "Nombramiento provisional, período de prueba y evaluación del desempeno",
+      "Nombramiento provisional, período de prueba y evaluación del desempeño",
       "Superación del concurso de traslados, adscripción provisional y toma de posesión",
       "Aprobación de la OEP, publicación en el BOCYL y juramento ante las Cortes"
     ],
@@ -640,7 +640,7 @@
       "Oposición, adscripción provisional y promoción interna"
     ],
     "correcta": 0,
-    "explicación": "La LFPCYL y el TREBEP prevén oposición, concurso-oposición y concurso, aunque este ultimo con carácter excepcional.",
+    "explicación": "La LFPCYL y el TREBEP prevén oposición, concurso-oposición y concurso, aunque este último con carácter excepcional.",
     "referencia": "III.1 · 4.4 Sistemas selectivos"
   },
   {
@@ -677,8 +677,8 @@
     "pregunta": "De acuerdo con el TREBEP, para poder participar en los procesos selectivos será necesario:",
     "opciones": [
       "Poseer nacionalidad española en todo caso",
-      "Tener cumplidos dieciocho años y no exceder de la edad maxima de jubilación forzosa",
-      "Tener cumplidos dieciseis años y no exceder, en su caso, de la edad maxima de jubilación forzosa",
+      "Tener cumplidos dieciocho años y no exceder de la edad máxima de jubilación forzosa",
+      "Tener cumplidos dieciseis años y no exceder, en su caso, de la edad máxima de jubilación forzosa",
       "Conocer siempre la lengua cooficial del territorio de la Administración convocante"
     ],
     "correcta": 2,
@@ -690,13 +690,13 @@
     "tema": 22,
     "pregunta": "De acuerdo con el TREBEP, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por:",
     "opciones": [
-      "La toma de posesión dentro del plazo senalado",
+      "La toma de posesión dentro del plazo señalado",
       "La presentación del certificado de antecedentes penales",
-      "La superación obligatoria de un reconocimiento medico excluyente en todo caso",
+      "La superación obligatoria de un reconocimiento médico excluyente en todo caso",
       "Ningun requisito adicional"
     ],
     "correcta": 0,
-    "explicación": "Entre los requisitos sucesivos figura la toma de posesión dentro del plazo establecido, ademas del nombramiento por el órgano competente.",
+    "explicación": "Entre los requisitos sucesivos figura la toma de posesión dentro del plazo establecido, además del nombramiento por el órgano competente.",
     "referencia": "III.1 · 2.1 Funcionarios de carrera"
   },
   {
@@ -707,7 +707,7 @@
       "El exceso o acumulación de tareas por plazo máximo de doce meses dentro de un período de dieciocho meses",
       "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
       "La cobertura de plazas vacantes por un máximo de cuatro años cuando no sea posible su cobertura por funcionarios de carrera",
-      "La ejecución de programas temporales con duración maxima de dos años ampliable a doce meses mas"
+      "La ejecución de programas temporales con duración máxima de dos años ampliable a doce meses más"
     ],
     "correcta": 1,
     "explicación": "El tema recoge la sustitución transitoria del titular como supuesto de nombramiento de funcionario interino.",
@@ -724,7 +724,7 @@
       "No existe requisito de edad"
     ],
     "correcta": 0,
-    "explicacion": "El art. 56 TREBEP exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
+    "explicación": "El art. 56 TREBEP exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
     "referencia": "Examen Estado 2026, art. 56 TREBEP; Tema III.1, acceso al empleo público"
   },
   {
@@ -738,7 +738,7 @@
       "La libre designación sin causa de necesidad"
     ],
     "correcta": 0,
-    "explicacion": "El art. 10 TREBEP permite nombrar interinos, entre otros supuestos, para sustitución transitoria de titulares.",
+    "explicación": "El art. 10 TREBEP permite nombrar interinos, entre otros supuestos, para sustitución transitoria de titulares.",
     "referencia": "Examen Estado 2026, art. 10 TREBEP; Tema III.1, clases de personal"
   },
   {
@@ -752,7 +752,7 @@
       "Implica necesariamente cambio de puesto"
     ],
     "correcta": 0,
-    "explicacion": "La carrera horizontal permite progresar profesionalmente sin cambiar de puesto y tiene carácter voluntario.",
+    "explicación": "La carrera horizontal permite progresar profesionalmente sin cambiar de puesto y tiene carácter voluntario.",
     "referencia": "Examen Estado 2026, carrera profesional; Tema III.1, carrera administrativa"
   },
   {
@@ -766,7 +766,7 @@
       "Los trienios se sustituyen por productividad"
     ],
     "correcta": 0,
-    "explicacion": "Los trienios ya devengados se siguen percibiendo aunque el funcionario pase a prestar servicios en cuerpos o escalas de distinto grupo.",
+    "explicación": "Los trienios ya devengados se siguen percibiendo aunque el funcionario pase a prestar servicios en cuerpos o escalas de distinto grupo.",
     "referencia": "Examen Estado 2026, retribuciones; Tema III.1, derechos retributivos"
   },
   {

@@ -20,16 +20,16 @@ El sistema se basa en principios de universalidad, unidad, solidaridad, igualdad
 | --- | --- |
 | Universalidad | Tendencia a proteger a toda la población ante situaciones de necesidad. |
 | Unidad | Sistema coordinado, aunque existan regimenes y entidades distintas. |
-| Solidaridad | Las cotizaciones y recursos sostienen prestaciones de quienes estan protegidos. |
+| Solidaridad | Las cotizaciones y recursos sostienen prestaciones de quienes están protegidos. |
 | Igualdad | Situaciones equivalentes deben recibir tratamiento equivalente. |
 | Suficiencia | Las prestaciones deben atender necesidades protegidas de forma adecuada. |
-| Gestion pública | La dirección del sistema corresponde a poderes públicos, con colaboraciones previstas. |
+| Gestión pública | La dirección del sistema corresponde a poderes públicos, con colaboraciones previstas. |
 
 La Seguridad Social no es solo una materia de prestaciones. En la Administración local aparece en nóminas, cotización, contratación de personal, bajas médicas, accidentes de trabajo, jubilaciones, permisos vinculados al nacimiento y cuidado, desempleo de personal laboral temporal y presupuestación del capítulo de personal.
 
 ## Campo de aplicación
 
-Estan incluidos en el sistema los españoles que residan en Espana y los extranjeros que residan o se encuentren legalmente en Espana, siempre que ejerzan actividad incluida o cumplan requisitos de modalidad no contributiva.
+Estan incluidos en el sistema los españoles que residan en España y los extranjeros que residan o se encuentren legalmente en España, siempre que ejerzan actividad incluida o cumplan requisitos de modalidad no contributiva.
 
 La modalidad contributiva protege a quienes realizan actividad profesional y cotizan. La modalidad no contributiva protege situaciones de necesidad de personas que carecen de recursos suficientes, aunque no hayan cotizado lo necesario.
 
@@ -40,19 +40,19 @@ En el ámbito de empleados públicos, muchos trabajadores y funcionarios de nuev
 | Contributiva | Personas que realizan actividad y cotizan. | Afiliación, alta o situación asimilada y períodos de cotización cuando se exijan. |
 | No contributiva | Personas en situación de necesidad sin cotización suficiente. | Residencia, carencia de rentas y requisitos específicos. |
 
-La distinción es importante porque muchas prestaciones exigen cotización previa, mientras que otras se reconocen por necesidad. En personal municipal, la modalidad habitual sera contributiva, ya que existe relación de servicio o laboral y obligación de cotizar.
+La distinción es importante porque muchas prestaciones exigen cotización previa, mientras que otras se reconocen por necesidad. En personal municipal, la modalidad habitual será contributiva, ya que existe relación de servicio o laboral y obligación de cotizar.
 
 ## Estructura del sistema
 
 El sistema se estructura en régimen general y regimenes especiales. El Régimen General es el núcleo principal e incluye trabajadores por cuenta ajena y asimilados. Los regimenes especiales atienden actividades con peculiaridades: trabajadores autonomos, trabajadores del mar, mineria del carbon u otros que subsistan.
 
-La gestión corresponde a entidades gestoras como el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina en su ámbito, y servicios comunes como la Tesoreria General de la Seguridad Social. Las mutuas colaboradoras participan en contingencias profesionales, incapacidad temporal y otras prestaciones en los terminos legales.
+La gestión corresponde a entidades gestoras como el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina en su ámbito, y servicios comunes como la Tesorería General de la Seguridad Social. Las mutuas colaboradoras participan en contingencias profesionales, incapacidad temporal y otras prestaciones en los términos legales.
 
 | Entidad u organismo | Función principal |
 | --- | --- |
 | INSS | Reconocimiento y gestión de muchas prestaciones económicas del sistema. |
 | TGSS | Afiliación, altas, bajas, cotización y recaudación. |
-| Mutuas colaboradoras | Colaboración en contingencias profesionales e incapacidad temporal segun cobertura. |
+| Mutuas colaboradoras | Colaboración en contingencias profesionales e incapacidad temporal según cobertura. |
 | Servicio público de salud | Asistencia sanitaria en el ámbito correspondiente. |
 | SEPE | Prestaciones por desempleo en coordinación con Seguridad Social. |
 
@@ -60,7 +60,7 @@ En la gestión cotidiana, recursos humanos suele relacionarse con el sistema RED
 
 ## Afiliación, altas, bajas y cotización
 
-La afiliación incorpora por primera vez al sistema. El alta situa al trabajador en un régimen concreto por inicio de actividad. La baja refleja cese. La cotización financia prestaciones y es obligatoria para empresarios y trabajadores en los terminos legales.
+La afiliación incorpora por primera vez al sistema. El alta situa al trabajador en un régimen concreto por inicio de actividad. La baja refleja cese. La cotización financia prestaciones y es obligatoria para empresarios y trabajadores en los términos legales.
 
 En una Administración local, recursos humanos debe tramitar altas, bajas, variaciones, cotizaciones, partes de incapacidad, accidentes de trabajo y relaciones con Seguridad Social.
 
@@ -78,11 +78,11 @@ Un error de alta, grupo de cotización o base puede afectar a prestaciones futur
 
 La acción protectora comprende asistencia sanitaria en los casos legalmente previstos, incapacidad temporal, nacimiento y cuidado de menor, riesgo durante embarazo y lactancia, incapacidad permanente, jubilación, muerte y supervivencia, prestaciones familiares, desempleo cuando proceda, cese de actividad en autonomos y servicios sociales complementarios.
 
-Las prestaciones pueden ser contributivas o no contributivas, económicas o en especie, temporales o vitalicias. Su reconocimiento exige requisitos de afiliación, alta, cotización, situación protegida y solicitud, segun cada caso.
+Las prestaciones pueden ser contributivas o no contributivas, económicas o en especie, temporales o vitalicias. Su reconocimiento exige requisitos de afiliación, alta, cotización, situación protegida y solicitud, según cada caso.
 
 | Prestación o protección | Situación protegida |
 | --- | --- |
-| Asistencia sanitaria | Necesidad de atención medica en terminos legales. |
+| Asistencia sanitaria | Necesidad de atención medica en términos legales. |
 | Incapacidad temporal | Imposibilidad temporal de trabajar por enfermedad o accidente. |
 | Nacimiento y cuidado de menor | Suspensión por nacimiento, adopción, guarda o acogimiento. |
 | Riesgo durante embarazo o lactancia | Puesto incompatible con salud de trabajadora, feto o lactante. |
@@ -91,22 +91,22 @@ Las prestaciones pueden ser contributivas o no contributivas, económicas o en e
 | Muerte y supervivencia | Protección de familiares ante fallecimiento. |
 | Desempleo | Perdida de empleo en personas protegidas que cumplen requisitos. |
 
-La acción protectora esta ligada al hecho causante, la base reguladora, el período de carencia cuando proceda y la contingencia. Estos conceptos ayudan a entender por que dos personas con bajas o jubilaciones aparentemente parecidas pueden tener prestaciones diferentes.
+La acción protectora está ligada al hecho causante, la base reguladora, el período de carencia cuando proceda y la contingencia. Estos conceptos ayudan a entender por que dos personas con bajas o jubilaciones aparentemente parecidas pueden tener prestaciones diferentes.
 
 ## Contingencias
 
-Las contingencias pueden ser comunes o profesionales. Las comunes derivan de enfermedad comun o accidente no laboral. Las profesionales derivan de accidente de trabajo o enfermedad profesional.
+Las contingencias pueden ser comunes o profesionales. Las comunes derivan de enfermedad común o accidente no laboral. Las profesionales derivan de accidente de trabajo o enfermedad profesional.
 
-La calificación de contingencia afecta a requisitos, cuantia, responsable, cotización y gestión. En el empleo público local, la prevención de riesgos y la correcta comunicación de accidentes son esenciales.
+La calificación de contingencia afecta a requisitos, cuantía, responsable, cotización y gestión. En el empleo público local, la prevención de riesgos y la correcta comunicación de accidentes son esenciales.
 
 | Contingencia | Origen | Ejemplo |
 | --- | --- | --- |
-| Enfermedad comun | Patologia no causada por el trabajo. | Gripe, enfermedad ordinaria, proceso no laboral. |
+| Enfermedad común | Patologia no causada por el trabajo. | Gripe, enfermedad ordinaria, proceso no laboral. |
 | Accidente no laboral | Lesión ajena al trabajo. | Caida en actividad privada. |
 | Accidente de trabajo | Lesión sufrida con ocasión o por consecuencia del trabajo. | Accidente durante servicio municipal o desplazamiento protegido si procede. |
 | Enfermedad profesional | Enfermedad causada por actividad incluida en cuadro legal. | Patologia vinculada a exposición laboral reconocida. |
 
-La diferencia tiene efectos en parte de baja, investigación preventiva, recargo de prestaciones si hubiera falta de medidas de seguridad, entidad responsable y cuantia. Por eso debe documentarse bien el accidente, el lugar, la hora, las tareas realizadas y las medidas preventivas.
+La diferencia tiene efectos en parte de baja, investigación preventiva, recargo de prestaciones si hubiera falta de medidas de seguridad, entidad responsable y cuantía. Por eso debe documentarse bien el accidente, el lugar, la hora, las tareas realizadas y las medidas preventivas.
 
 ## Relevancia administrativa
 
@@ -114,11 +114,11 @@ La Seguridad Social afecta a nóminas, cotizaciones, permisos, incapacidades, ju
 
 ## Relación con recursos humanos municipal
 
-| Tramite municipal | Conexion con Seguridad Social |
+| Trámite municipal | Conexion con Seguridad Social |
 | --- | --- |
 | Alta de empleado | Comunicación previa o en plazo, encuadramiento y cotización. |
 | Nomina mensual | Bases de cotización, deducciones y aportación empresarial. |
-| Baja medica | Gestion de incapacidad temporal y partes. |
+| Baja medica | Gestión de incapacidad temporal y partes. |
 | Accidente de trabajo | Comunicación, investigación y coordinación con prevención/mutua. |
 | Fin de contrato laboral | Baja, certificado de empresa y posible desempleo. |
 | Jubilación | Verificación de edad, cotización y efectos en plantilla. |

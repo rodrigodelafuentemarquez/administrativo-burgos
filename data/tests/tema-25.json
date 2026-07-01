@@ -44,7 +44,7 @@
   {
     "id": "t46-p023",
     "tema": 25,
-    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, cuál de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, ¿cuál de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
     "opciones": [
       "La negociación colectiva",
       "La libre elección del puesto sin procedimiento de provisión",
@@ -62,7 +62,7 @@
     "opciones": [
       "No produce consecuencia alguna al tratarse del ejercicio de un derecho fundamental",
       "Puede dar lugar a responsabilidad disciplinaria",
-      "Supone automáticamente la perdida de la condición de funcionario",
+      "Supone automáticamente la pérdida de la condición de funcionario",
       "Solo puede sancionarse penalmente"
     ],
     "correcta": 1,
@@ -93,7 +93,7 @@
       "acción social"
     ],
     "correcta": 0,
-    "explicación": "La negociación colectiva tiene limites materiales en el empleo público.",
+    "explicación": "La negociación colectiva tiene límites materiales en el empleo público.",
     "referencia": "III.4 · Negociación colectiva",
     "tema": 25
   },
@@ -115,7 +115,7 @@
     "id": "topup-25-07",
     "pregunta": "En sindicación, huelga e incompatibilidades del personal público, durante la huelga se suspende:",
     "opciones": [
-      "el trabajo y el salario en los terminos legales",
+      "el trabajo y el salario en los términos legales",
       "la relación estatutaria de forma definitiva",
       "la existencia del Ayuntamiento",
       "la vigencia de la Constitución"
@@ -172,7 +172,7 @@
     "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la compatibilidad para una segunda actividad debe solicitarse:",
     "opciones": [
       "antes de iniciar la actividad",
-      "despues de cobrar la primera mensualidad",
+      "después de cobrar la primera mensualidad",
       "solo si lo pide un sindicato",
       "cuando lo autorice verbalmente un companero"
     ],
@@ -191,7 +191,7 @@
       "la inspección privada de expedientes sancionadores"
     ],
     "correcta": 0,
-    "explicación": "La ley exceptua determinadas actividades que no comprometen la imparcialidad en los terminos legales.",
+    "explicación": "La ley exceptua determinadas actividades que no comprometen la imparcialidad en los términos legales.",
     "referencia": "III.4 · Compatibilidad",
     "tema": 25
   },
@@ -220,7 +220,7 @@
     ],
     "correcta": 0,
     "referencia": "III.4 · Derecho de sindicación",
-    "explicación": "La libertad sindical incluye fundación, afiliación, actividad sindical y representación en los terminos legales.",
+    "explicación": "La libertad sindical incluye fundación, afiliación, actividad sindical y representación en los términos legales.",
     "tema": 25
   },
   {
@@ -228,8 +228,8 @@
     "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la negociación colectiva de los empleados públicos se desarrolla dentro del marco fijado por:",
     "opciones": [
       "el TREBEP y la normativa aplicable",
-      "solo el Estatuto de los Trabajadores comun",
-      "exclusivamente el reglamento organico municipal",
+      "solo el Estatuto de los Trabajadores común",
+      "exclusivamente el reglamento orgánico municipal",
       "únicamente los estatutos sindicales"
     ],
     "correcta": 0,
@@ -243,7 +243,7 @@
     "opciones": [
       "servicios mínimos proporcionados y motivados",
       "prohibición automatica e incondicionada de la huelga",
-      "sustitución general de huelguistas por personal externo sin limites",
+      "sustitución general de huelguistas por personal externo sin límites",
       "negación absoluta de cualquier derecho colectivo"
     ],
     "correcta": 0,
@@ -290,7 +290,7 @@
       "Cualquier segunda actividad privada coincidente con el horario"
     ],
     "correcta": 0,
-    "explicacion": "La participación en tribunales calificadores figura entre las actividades exceptuadas del régimen de incompatibilidades.",
+    "explicación": "La participación en tribunales calificadores figura entre las actividades exceptuadas del régimen de incompatibilidades.",
     "referencia": "Examen Estado 2026, Ley 53/1984; Tema III.4, incompatibilidades"
   },
   {
@@ -304,7 +304,7 @@
       "Solo inscripción en el padrón municipal"
     ],
     "correcta": 0,
-    "explicacion": "El régimen de incompatibilidades exige autorización o reconocimiento de compatibilidad en los supuestos legalmente previstos.",
+    "explicación": "El régimen de incompatibilidades exige autorización o reconocimiento de compatibilidad en los supuestos legalmente previstos.",
     "referencia": "Tema III.4, régimen de incompatibilidades"
   },
   {

@@ -38,7 +38,7 @@
     ],
     "correcta": 0,
     "explicación": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos tipicos.",
-    "referencia": "II.10 · Caracteristicas del servicio público",
+    "referencia": "II.10 · Carácterísticas del servicio público",
     "tema": 19
   },
   {
@@ -52,7 +52,7 @@
     ],
     "correcta": 0,
     "explicación": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas.",
-    "referencia": "II.10 · Caracteristicas del servicio público",
+    "referencia": "II.10 · Carácterísticas del servicio público",
     "tema": 19
   },
   {
@@ -66,7 +66,7 @@
     ],
     "correcta": 0,
     "explicación": "La igualdad prohíbe discriminaciones injustificadas.",
-    "referencia": "II.10 · Caracteristicas del servicio público",
+    "referencia": "II.10 · Carácterísticas del servicio público",
     "tema": 19
   },
   {
@@ -75,12 +75,12 @@
     "opciones": [
       "puede modificarse para responder a nuevas necesidades públicas",
       "queda congelado para siempre en su forma inicial",
-      "solo puede variar por referendum",
+      "solo puede variar por referéndum",
       "impide toda digitalización"
     ],
     "correcta": 0,
     "explicación": "Los servicios deben ajustarse a la evolución de las necesidades colectivas.",
-    "referencia": "II.10 · Caracteristicas del servicio público",
+    "referencia": "II.10 · Carácterísticas del servicio público",
     "tema": 19
   },
   {
@@ -104,7 +104,7 @@
       "el contratista asume la explotación bajo riesgo operacional",
       "el Pleno renuncia a toda potestad de control",
       "la licencia urbanística sustituye al contrato",
-      "no existe interes general"
+      "no existe interés general"
     ],
     "correcta": 0,
     "explicación": "En la concesión el contratista explota el servicio bajo control administrativo.",
@@ -121,7 +121,7 @@
       "preferencia personal del contratista"
     ],
     "correcta": 0,
-    "explicación": "La elección no es arbitraria: requiere motivación en interes público.",
+    "explicación": "La elección no es arbitraria: requiere motivación en interés público.",
     "referencia": "II.10 · Formas de gestión",
     "tema": 19
   },
@@ -157,7 +157,7 @@
     "id": "topup-19-17",
     "pregunta": "La iniciativa económica pública local exige especial prudencia porque debe valorar:",
     "opciones": [
-      "interes público, mercado y sostenibilidad financiera",
+      "interés público, mercado y sostenibilidad financiera",
       "solo el número de concejales",
       "exclusivamente el color político del gobierno",
       "la firma del delegado sindical"
@@ -178,7 +178,7 @@
     ],
     "correcta": 0,
     "explicación": "La responsabilidad pública no desaparece por externalizar la gestión.",
-    "referencia": "II.10 · Gestion y control del servicio",
+    "referencia": "II.10 · Gestión y control del servicio",
     "tema": 19
   },
   {
@@ -192,7 +192,7 @@
     ],
     "correcta": 0,
     "explicación": "La Administración debe vigilar calidad y cumplimiento del servicio.",
-    "referencia": "II.10 · Gestion y control del servicio",
+    "referencia": "II.10 · Gestión y control del servicio",
     "tema": 19
   },
   {
@@ -219,7 +219,7 @@
       "la competencia jurisdiccional sobre litigios penales"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Gestion de los servicios públicos",
+    "referencia": "II.10 · Gestión de los servicios públicos",
     "explicación": "Aunque la prestación se externalice, la Administración mantiene la titularidad y sus potestades de control.",
     "tema": 19
   },
@@ -233,7 +233,7 @@
       "la función interventora"
     ],
     "correcta": 0,
-    "referencia": "II.10 · Gestion indirecta y concesión",
+    "referencia": "II.10 · Gestión indirecta y concesión",
     "explicación": "La asunción del riesgo operacional es la nota propia de la concesión de servicios.",
     "tema": 19
   },
@@ -244,7 +244,7 @@
       "ignorar contratos vigentes, personal afectado y sostenibilidad financiera",
       "recuperar la gestión pública del servicio",
       "tramitar una memoria justificativa",
-      "valorar la forma de gestión mas eficiente"
+      "valorar la forma de gestión más eficiente"
     ],
     "correcta": 0,
     "referencia": "II.10 · Remunicipalización",
@@ -255,14 +255,14 @@
     "id": "refine-19-05",
     "pregunta": "La iniciativa económica pública local requiere motivar especialmente:",
     "opciones": [
-      "su conveniencia para el interes general y su sostenibilidad",
+      "su conveniencia para el interés general y su sostenibilidad",
       "la ausencia de control interno",
       "que no exista competencia privada alguna",
       "la sustitución del presupuesto por tarifas libres"
     ],
     "correcta": 0,
     "referencia": "II.10 · Iniciativa económica pública local",
-    "explicación": "La actividad económica pública necesita justificación reforzada desde la perspectiva del interes general y la sostenibilidad financiera.",
+    "explicación": "La actividad económica pública necesita justificación reforzada desde la perspectiva del interés general y la sostenibilidad financiera.",
     "tema": 19
   },
   {
@@ -276,7 +276,7 @@
     ],
     "correcta": 0,
     "referencia": "II.10 · Elección de la forma de gestión",
-    "explicación": "La selección de la forma de gestión debe justificarse objetivamente en un expediente y responder al interes público.",
+    "explicación": "La selección de la forma de gestión debe justificarse objetivamente en un expediente y responder al interés público.",
     "tema": 19
   },
   {

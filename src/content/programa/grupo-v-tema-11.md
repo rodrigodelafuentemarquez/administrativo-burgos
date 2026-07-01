@@ -8,9 +8,9 @@ estado: "borrador"
 
 ## Correo electrónico
 
-El correo electrónico es un servicio de comunicación que permite enviar y recibir mensajes a traves de redes. Cada cuenta se identifica mediante una dirección con formato usuario@dominio. En Administración se usa para comunicaciones internas, avisos, coordinación y, con cautela, relación con ciudadanos.
+El correo electrónico es un servicio de comunicación que permite enviar y recibir mensajes a través de redes. Cada cuenta se identifica mediante una dirección con formato usuario@dominio. En Administración se usa para comunicaciones internas, avisos, coordinación y, con cautela, relación con ciudadanos.
 
-Un mensaje incluye remitente, destinatarios, asunto, cuerpo, adjuntos y fecha. Puede enviarse con copia (CC) o copia oculta (CCO). La copia oculta es importante cuando se envia a multiples destinatarios que no deben conocer direcciones de los demas.
+Un mensaje incluye remitente, destinatarios, asunto, cuerpo, adjuntos y fecha. Puede enviarse con copia (CC) o copia oculta (CCO). La copia oculta es importante cuando se envia a multiples destinatarios que no deben conocer direcciones de los demás.
 
 | Campo | Función |
 | --- | --- |
@@ -45,7 +45,7 @@ Los adjuntos permiten enviar documentos, pero deben controlarse tamano, formato,
 | --- | --- |
 | SMTP | Protocolo habitual de envio de correo. |
 | IMAP | Sincroniza mensajes con el servidor. |
-| POP | Descarga correo desde servidor, segun configuración. |
+| POP | Descarga correo desde servidor, según configuración. |
 | Servidor de correo | Sistema que envia, recibe y almacena mensajes. |
 | Lista de distribución | Grupo de destinatarios gestionado conjuntamente. |
 | Calendario | Organiza reuniones, citas y convocatorias. |
@@ -66,7 +66,7 @@ Antes de enviar un correo administrativo conviene comprobar:
 - que se usa CCO cuando hay multiples destinatarios externos;
 - que el canal es adecuado y no deberia usarse registro o sede.
 
-También conviene aplicar una regla sencilla: **una idea por asunto y un asunto comprensible**. Un correo con asunto "varios" o "urgente" no permite localizar despues el expediente, la unidad o el trámite.
+También conviene aplicar una regla sencilla: **una idea por asunto y un asunto comprensible**. Un correo con asunto "varios" o "urgente" no permite localizar después el expediente, la unidad o el trámite.
 
 | Situación | Buena práctica |
 | --- | --- |
@@ -99,13 +99,13 @@ Las cookies almacenan información de navegación. La cache guarda recursos para
 | Cookie | Dato almacenado por un sitio en el navegador. |
 | Cache | Almacenamiento temporal para acelerar carga. |
 
-<mark>HTTPS no garantiza que una pagina sea correcta o oficial</mark>; garantiza que la conexion va cifrada con ese sitio. Una pagina fraudulenta tambien puede usar HTTPS. Por eso hay que comprobar dominio, certificado, contexto y fuente oficial.
+<mark>HTTPS no garantiza que una página sea correcta o oficial</mark>; garantiza que la conexion va cifrada con ese sitio. Una página fraudulenta también puede usar HTTPS. Por eso hay que comprobar dominio, certificado, contexto y fuente oficial.
 
 ## Servicios de Internet
 
-Los servicios mas habituales son World Wide Web, correo electrónico, almacenamiento en nube, videoconferencia, redes privadas virtuales, transferencia de archivos, sedes electronicas, pasarelas de pago, plataformas de contratación y sistemas de notificación.
+Los servicios más habituales son World Wide Web, correo electrónico, almacenamiento en nube, videoconferencia, redes privadas virtuales, transferencia de archivos, sedes electronicas, pasarelas de pago, plataformas de contratación y sistemas de notificación.
 
-En la Administración, Internet permite registro electrónico, consulta de expedientes, transparencia, licitación pública, factura electrónica, pagos tributarios, padron, cita previa y comunicación institucional.
+En la Administración, Internet permite registro electrónico, consulta de expedientes, transparencia, licitación pública, factura electrónica, pagos tributarios, padrón, cita previa y comunicación institucional.
 
 | Servicio | Uso administrativo |
 | --- | --- |
@@ -121,7 +121,7 @@ En la Administración, Internet permite registro electrónico, consulta de exped
 
 La navegación segura exige comprobar URL, certificado, dominio oficial, privacidad, permisos, descargas y credenciales. No se deben introducir claves en paginas dudosas ni descargar software no autorizado. La información administrativa debe tratarse en sistemas corporativos, no en servicios personales.
 
-Un criterio práctico para fuentes oficiales: si se estudia una ley, debe consultarse en BOE o boletín oficial correspondiente; si se realiza un trámite municipal, debe usarse sede o web municipal; si se descarga un modelo, debe verificarse que pertenece al organismo competente y que esta actualizado.
+Un criterio práctico para fuentes oficiales: si se estudia una ley, debe consultarse en BOE o boletín oficial correspondiente; si se realiza un trámite municipal, debe usarse sede o web municipal; si se descarga un modelo, debe verificarse que pertenece al organismo competente y que está actualizado.
 
 Senales de alerta:
 
@@ -129,7 +129,7 @@ Senales de alerta:
 - mensaje que exige actuar con urgencia;
 - enlaces acortados o sospechosos;
 - faltas de ortografia o formato inusual;
-- petición de contrasenas o codigos;
+- petición de contrasenas o códigos;
 - adjuntos inesperados;
 - remitente que suplanta a un organismo.
 

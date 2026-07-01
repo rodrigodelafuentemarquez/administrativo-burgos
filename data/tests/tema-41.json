@@ -304,7 +304,7 @@
       "Enviar correos con copia oculta"
     ],
     "correcta": 0,
-    "explicacion": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo.",
+    "explicación": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo.",
     "referencia": "Examen Estado 2026, Word 365; Tema V.10"
   },
   {
@@ -318,7 +318,7 @@
       "Convertirlo a imagen"
     ],
     "correcta": 0,
-    "explicacion": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión.",
+    "explicación": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión.",
     "referencia": "Examen Estado 2026, Word 365; Tema V.10"
   },
   {
@@ -332,7 +332,7 @@
       "El formato de fecha aplicado"
     ],
     "correcta": 0,
-    "explicacion": "FILAS devuelve el número de filas de una referencia; aplicada a Registros[Fecha], cuenta las filas de esa columna.",
+    "explicación": "FILAS devuelve el número de filas de una referencia; aplicada a Registros[Fecha], cuenta las filas de esa columna.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
   },
   {
@@ -346,7 +346,7 @@
       "2024-08-11 completo"
     ],
     "correcta": 0,
-    "explicacion": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras.",
+    "explicación": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
   },
   {
@@ -360,7 +360,7 @@
       "B2:B2"
     ],
     "correcta": 0,
-    "explicacion": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4.",
+    "explicación": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
   },
   {
@@ -374,7 +374,7 @@
       "MINVERSA"
     ],
     "correcta": 0,
-    "explicacion": "La función NO devuelve el valor lógico opuesto de su argumento.",
+    "explicación": "La función NO devuelve el valor lógico opuesto de su argumento.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
   },
   {

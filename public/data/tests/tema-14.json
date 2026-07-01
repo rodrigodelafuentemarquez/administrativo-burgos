@@ -39,7 +39,7 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 22",
-    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, ademas de Estado, comunidades autonomas y entidades locales."
+    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales."
   },
   {
     "id": "t14-p001",
@@ -290,7 +290,7 @@
       "Certificado privado sin requisitos legales de firma electrónica"
     ],
     "correcta": 0,
-    "explicacion": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos.",
+    "explicación": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos.",
     "referencia": "Examen Estado 2026, art. 40 LRJSP; Tema II.5, funcionamiento electrónico y órganos"
   },
   {
@@ -304,7 +304,7 @@
       "Duración indefinida si hay financiación pública"
     ],
     "correcta": 0,
-    "explicacion": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales.",
+    "explicación": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales.",
     "referencia": "Examen Estado 2026, convenios; Tema II.5, relaciones y convenios"
   },
   {
@@ -318,7 +318,7 @@
       "La sustitución automática por un contrato menor"
     ],
     "correcta": 0,
-    "explicacion": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga.",
+    "explicación": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga.",
     "referencia": "Examen Estado 2026, convenios; Tema II.5, convenios administrativos"
   }
 ]

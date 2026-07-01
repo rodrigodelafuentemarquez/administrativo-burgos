@@ -2,7 +2,7 @@
 grupo: "Grupo III. Régimen jurídico de los empleados públicos"
 tema: 2
 codigo: "Tema III.2"
-titulo: "Adquisición y perdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas."
+titulo: "Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas."
 estado: "borrador"
 ---
 
@@ -14,11 +14,11 @@ La materia se regula en el EBEP, normativa estatal y autonómica de función pú
 
 La condición de funcionario de carrera se adquiere mediante cumplimiento sucesivo de requisitos. Debe superarse el proceso selectivo, producirse nombramiento por el órgano competente, publicarse el nombramiento cuando proceda, prestarse acto de acatamiento de la Constitución y del Estatuto de Autonomía correspondiente, y tomarse posesión dentro del plazo establecido.
 
-La selección se basa en igualdad, merito y capacidad. La superación de pruebas por si sola no basta si no hay nombramiento y toma de posesión. La toma de posesión incorpora al funcionario al servicio activo y al cuerpo, escala o subescala correspondiente.
+La selección se basa en igualdad, mérito y capacidad. La superación de pruebas por si sola no basta si no hay nombramiento y toma de posesión. La toma de posesión incorpora al funcionario al servicio activo y al cuerpo, escala o subescala correspondiente.
 
 | Requisito | Efecto |
 | --- | --- |
-| Superación del proceso selectivo | Acredita merito y capacidad conforme a la convocatoria. |
+| Superación del proceso selectivo | Acredita mérito y capacidad conforme a la convocatoria. |
 | Nombramiento | La Administración reconoce formalmente la condición. |
 | Publicación | Da publicidad oficial y permite control. |
 | Acatamiento | Compromiso de respeto al orden constitucional y estatutario. |
@@ -28,25 +28,25 @@ La secuencia es importante porque cada fase tiene efectos distintos. Una persona
 
 ## Perdida de la condición de funcionario
 
-La condición de funcionario de carrera se pierde por renuncia, perdida de nacionalidad, jubilación total, sanción disciplinaria de separación del servicio con carácter firme, pena principal o accesoria de inhabilitación absoluta o especial para cargo público, y otros supuestos legalmente previstos.
+La condición de funcionario de carrera se pierde por renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación del servicio con carácter firme, pena principal o accesoria de inhabilitación absoluta o especial para cargo público, y otros supuestos legalmente previstos.
 
 La renuncia debe ser voluntaria y aceptada expresamente por la Administración, salvo que el funcionario este sujeto a expediente disciplinario o procesamiento que impida aceptarla. La renuncia no inhabilita para nuevo ingreso.
 
-La jubilación puede ser voluntaria, forzosa por edad o por incapacidad permanente. La separación del servicio es la sanción disciplinaria mas grave y extingue la relación funcionarial. La inhabilitación deriva de sentencia penal.
+La jubilación puede ser voluntaria, forzosa por edad o por incapacidad permanente. La separación del servicio es la sanción disciplinaria más grave y extingue la relación funcionarial. La inhabilitación deriva de sentencia penal.
 
-| Causa de perdida | Rasgo principal |
+| Causa de pérdida | Rasgo principal |
 | --- | --- |
-| Renuncia | Voluntaria, escrita y aceptada, con limites si hay responsabilidades pendientes. |
+| Renuncia | Voluntaria, escrita y aceptada, con límites si hay responsabilidades pendientes. |
 | Perdida de nacionalidad | Afecta cuando la nacionalidad es requisito del puesto. |
 | Jubilación | Puede ser forzosa, voluntaria o por incapacidad. |
-| Separación del servicio | Sanción disciplinaria firme de maxima gravedad. |
+| Separación del servicio | Sanción disciplinaria firme de máxima gravedad. |
 | Inhabilitación | Pena judicial que impide ejercer cargo o empleo público. |
 
-No debe confundirse perdida de condición con cese en un puesto. Un funcionario puede cesar en un puesto por provisión, libre designación, comisión o reorganización y seguir siendo funcionario. La perdida extingue la relación funcionarial.
+No debe confundirse pérdida de condición con cese en un puesto. Un funcionario puede cesar en un puesto por provisión, libre designación, comisión o reorganización y seguir siendo funcionario. La pérdida extingue la relación funcionarial.
 
 ## Rehabilitación
 
-En determinados supuestos puede solicitarse rehabilitación de la condición de funcionario, especialmente cuando desaparece la causa que produjo la perdida, como recuperación de nacionalidad o revisión de incapacidad. La rehabilitación no es automatica en todos los casos y debe tramitarse conforme a la normativa aplicable.
+En determinados supuestos puede solicitarse rehabilitación de la condición de funcionario, especialmente cuando desaparece la causa que produjo la pérdida, como recuperación de nacionalidad o revisión de incapacidad. La rehabilitación no es automatica en todos los casos y debe tramitarse conforme a la normativa aplicable.
 
 ## Situaciones administrativas
 
@@ -62,13 +62,13 @@ Las situaciones administrativas reflejan la posición jurídica del funcionario 
 
 ## Servicio activo
 
-El funcionario esta en servicio activo cuando presta servicios en su Administración ocupando puesto o en supuestos asimilados. Tiene plenitud de derechos y deberes: retribuciones, carrera, Seguridad Social o régimen correspondiente, deber de desempeño, incompatibilidades y responsabilidad disciplinaria.
+El funcionario está en servicio activo cuando presta servicios en su Administración ocupando puesto o en supuestos asimilados. Tiene plenitud de derechos y deberes: retribuciones, carrera, Seguridad Social o régimen correspondiente, deber de desempeño, incompatibilidades y responsabilidad disciplinaria.
 
 ## Servicios especiales
 
 Los servicios especiales se producen cuando el funcionario desempeña cargos o funciones de especial relevancia pública: cargos electivos, altos cargos, miembros de órganos constitucionales o estatutarios, personal eventual en determinados supuestos, organismos internacionales u otros previstos.
 
-En servicios especiales se reserva plaza o destino en los terminos legales, se computa tiempo a efectos de trienios, carrera y derechos pasivos o Seguridad Social, y se perciben retribuciones del puesto o cargo desempenado, no las del puesto de origen.
+En servicios especiales se reserva plaza o destino en los términos legales, se computa tiempo a efectos de trienios, carrera y derechos pasivos o Seguridad Social, y se perciben retribuciones del puesto o cargo desempenado, no las del puesto de origen.
 
 ## Servicio en otras Administraciones
 
@@ -76,9 +76,9 @@ Esta situación aparece cuando un funcionario obtiene destino en otra Administra
 
 ## Excedencias
 
-La excedencia puede ser voluntaria por interes particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género, por violencia terrorista u otras modalidades.
+La excedencia puede ser voluntaria por interés particular, voluntaria por agrupación familiar, por cuidado de familiares, por razón de violencia de género, por violencia terrorista u otras modalidades.
 
-La excedencia voluntaria por interes particular exige requisitos de servicios previos y queda condicionada a necesidades del servicio. No genera reserva de puesto, salvo previsiones específicas, ni retribuciones. El tiempo puede no computar a efectos de carrera y derechos.
+La excedencia voluntaria por interés particular exige requisitos de servicios previos y queda condicionada a necesidades del servicio. No genera reserva de puesto, salvo previsiones específicas, ni retribuciones. El tiempo puede no computar a efectos de carrera y derechos.
 
 La excedencia por cuidado de hijos o familiares protege conciliación. Puede generar reserva de puesto durante un período y computo de tiempo a determinados efectos.
 
@@ -98,7 +98,7 @@ Los efectos varian mucho: reserva de puesto, computo de tiempo, derechos económ
 
 La suspensión puede ser provisional o firme. La provisional se acuerda durante tramitación de procedimiento judicial o disciplinario cuando sea necesario. La firme deriva de sanción disciplinaria o sentencia judicial.
 
-Durante la suspensión se priva temporalmente del ejercicio de funciones y de derechos retributivos en los terminos legales. Si la suspensión provisional no se convierte en firme, debe regularizarse la situación.
+Durante la suspensión se priva temporalmente del ejercicio de funciones y de derechos retributivos en los términos legales. Si la suspensión provisional no se convierte en firme, debe regularizarse la situación.
 
 ## Efectos prácticos
 

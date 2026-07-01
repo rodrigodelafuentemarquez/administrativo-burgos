@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El régimen de empleados públicos se basa en el Texto Refundido de la Ley del Estatuto Basico del Empleado Publico, la Ley 7/1985, el Real Decreto Legislativo 781/1986, la normativa de funcionarios de Administración Local con habilitación nacional, la legislación de Castilla y León y los instrumentos municipales como plantilla, relación de puestos de trabajo y ofertas de empleo público.
+El régimen de empleados públicos se basa en el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la Ley 7/1985, el Real Decreto Legislativo 781/1986, la normativa de funcionarios de Administración Local con habilitación nacional, la legislación de Castilla y León y los instrumentos municipales como plantilla, relación de puestos de trabajo y ofertas de empleo público.
 
 ## Personal al servicio de las entidades locales
 
@@ -26,9 +26,9 @@ Para estudiar este tema conviene separar tres planos:
 
 El EBEP distingue funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual.
 
-Los funcionarios de carrera estan vinculados por nombramiento legal a una Administración, desempeñan servicios profesionales retribuidos de carácter permanente y ejercen funciones públicas. En las entidades locales, determinadas funciones quedan reservadas a funcionarios, especialmente las que implican ejercicio de autoridad, fe pública, asesoramiento legal, control y fiscalización interna, contabilidad, tesorería y recaudación.
+Los funcionarios de carrera están vinculados por nombramiento legal a una Administración, desempeñan servicios profesionales retribuidos de carácter permanente y ejercen funciones públicas. En las entidades locales, determinadas funciones quedan reservadas a funcionarios, especialmente las que implican ejercicio de autoridad, fe pública, asesoramiento legal, control y fiscalización interna, contabilidad, tesorería y recaudación.
 
-Los funcionarios interinos son nombrados por razones justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera en supuestos tasados: vacantes no cubiertas, sustitución transitoria, programas temporales o exceso/acumulación de tareas. Su temporalidad debe respetar limites legales.
+Los funcionarios interinos son nombrados por razones justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera en supuestos tasados: vacantes no cubiertas, sustitución transitoria, programas temporales o exceso/acumulación de tareas. Su temporalidad debe respetar límites legales.
 
 El personal laboral se vincula mediante contrato de trabajo. Puede ser fijo, por tiempo indefinido o temporal. Su régimen se rige por legislación laboral, EBEP en lo aplicable, convenio colectivo y contrato.
 
@@ -45,9 +45,9 @@ El personal eventual realiza funciones expresamente calificadas de confianza o a
 
 ## Régimen jurídico
 
-El régimen jurídico de los funcionarios combina derechos, deberes, situaciones administrativas, carrera, provisión, incompatibilidades, responsabilidad disciplinaria y perdida de condición. El personal laboral se rige por el Estatuto de los Trabajadores y por el EBEP en materias comunes como principios de selección, derechos básicos, deberes, código de conducta e incompatibilidades.
+El régimen jurídico de los funcionarios combina derechos, deberes, situaciones administrativas, carrera, provisión, incompatibilidades, responsabilidad disciplinaria y pérdida de condición. El personal laboral se rige por el Estatuto de los Trabajadores y por el EBEP en materias comunes como principios de selección, derechos básicos, deberes, código de conducta e incompatibilidades.
 
-La selección debe respetar igualdad, merito, capacidad, publicidad, transparencia, imparcialidad, profesionalidad de órganos selectivos, independencia, adecuación entre pruebas y funciones, y agilidad sin perjuicio de objetividad.
+La selección debe respetar igualdad, mérito, capacidad, publicidad, transparencia, imparcialidad, profesionalidad de órganos selectivos, independencia, adecuación entre pruebas y funciones, y agilidad sin perjuicio de objetividad.
 
 En oposición suele preguntarse la diferencia entre **acceso** y **provisión**:
 
@@ -64,7 +64,7 @@ Los procedimientos ordinarios de provisión de puestos de funcionarios son concu
 
 También existen formas provisionales: comisión de servicios, adscripción provisional, reasignación de efectivos, movilidad por motivos de salud, violencia de género, violencia terrorista u otros supuestos.
 
-| Forma de provisión | Caracter | Ejemplo |
+| Forma de provisión | Carácter | Ejemplo |
 | --- | --- | --- |
 | Concurso | Ordinaria y basada en meritos. | Puesto administrativo con baremo de antiguedad, formación y experiencia. |
 | Libre designación | Excepcional para puestos de especial responsabilidad. | Puestos directivos o de confianza técnica cuando la norma lo permite. |
@@ -78,12 +78,12 @@ También existen formas provisionales: comisión de servicios, adscripción prov
 
 Los empleados públicos tienen derechos individuales: inamovilidad en la condición de funcionario de carrera, desempeño efectivo de funciones, progresión en carrera, percepción de retribuciones, formación, respeto a intimidad y dignidad, vacaciones, permisos, conciliación, protección frente a riesgos laborales, jubilación y prestaciones sociales.
 
-Tienen derechos individuales ejercidos colectivamente: libertad sindical, negociación colectiva, participación, huelga en los terminos legales, planteamiento de conflictos colectivos y reunion.
+Tienen derechos individuales ejercidos colectivamente: libertad sindical, negociación colectiva, participación, huelga en los términos legales, planteamiento de conflictos colectivos y reunion.
 
 | Derecho | Traducción práctica |
 | --- | --- |
 | Inamovilidad | Protege la condición de funcionario de carrera, no impide todo cambio de puesto. |
-| Carrera | Permite progresar por merito, capacidad, formación y evaluación. |
+| Carrera | Permite progresar por mérito, capacidad, formación y evaluación. |
 | Formación | Debe relacionarse con mejora del servicio y desarrollo profesional. |
 | Conciliación | Permisos y medidas para vida familiar y laboral. |
 | Salud laboral | Evaluación de riesgos, adaptación y protección preventiva. |
@@ -93,22 +93,22 @@ Tienen derechos individuales ejercidos colectivamente: libertad sindical, negoci
 
 Los empleados públicos deben desempeñar con diligencia las tareas asignadas, velar por intereses generales, actuar con objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, austeridad y respeto a ciudadanos y companeros.
 
-El código de conducta del EBEP incluye principios eticos y de conducta. Exige abstenerse en asuntos con interes personal, no aceptar tratos de favor, guardar secreto, administrar recursos con austeridad, rechazar regalos indebidos y tratar a los ciudadanos con atención y respeto.
+El código de conducta del EBEP incluye principios eticos y de conducta. Exige abstenerse en asuntos con interés personal, no aceptar tratos de favor, guardar secreto, administrar recursos con austeridad, rechazar regalos indebidos y tratar a los ciudadanos con atención y respeto.
 
 Los deberes no son una declaración abstracta. En un Ayuntamiento se concretan en conductas diarias:
 
 - tramitar expedientes con **diligencia** y dentro de plazo;
-- no revelar datos de padron, personal, servicios sociales, sanciones o tributos;
-- abstenerse si existe interes personal o conflicto;
+- no revelar datos de padrón, personal, servicios sociales, sanciones o tributos;
+- abstenerse si existe interés personal o conflicto;
 - no aceptar regalos o favores por actuaciones administrativas;
 - atender a la ciudadania con respeto y lenguaje claro;
 - conservar documentos y evidencias de cada trámite.
 
 ## Carrera administrativa
 
-La carrera profesional es el conjunto de oportunidades de ascenso y progresión. Puede ser carrera horizontal, progresión de grado, categoria o escalon sin cambiar de puesto; carrera vertical, ascenso en estructura de puestos; promoción interna vertical, ascenso de cuerpo o escala de subgrupo inferior a superior; y promoción interna horizontal, acceso a cuerpos o escalas del mismo subgrupo.
+La carrera profesional es el conjunto de oportunidades de ascenso y progresión. Puede ser carrera horizontal, progresión de grado, categoría o escalon sin cambiar de puesto; carrera vertical, ascenso en estructura de puestos; promoción interna vertical, ascenso de cuerpo o escala de subgrupo inferior a superior; y promoción interna horizontal, acceso a cuerpos o escalas del mismo subgrupo.
 
-La carrera debe basarse en merito, capacidad, evaluación del desempeño, formación y trayectoria profesional.
+La carrera debe basarse en mérito, capacidad, evaluación del desempeño, formación y trayectoria profesional.
 
 | Modalidad | En qué consiste |
 | --- | --- |
@@ -121,6 +121,6 @@ La carrera debe basarse en merito, capacidad, evaluación del desempeño, formac
 
 ## Promoción interna
 
-La promoción interna permite progresar desde cuerpos o escalas inferiores a superiores. Exige titulación, antiguedad, requisitos de convocatoria y superación de pruebas. Es una herramienta de profesionalización y motivación, pero debe respetar igualdad, merito y capacidad.
+La promoción interna permite progresar desde cuerpos o escalas inferiores a superiores. Exige titulación, antiguedad, requisitos de convocatoria y superación de pruebas. Es una herramienta de profesionalización y motivación, pero debe respetar igualdad, mérito y capacidad.
 
 En el ámbito local, la promoción interna se articula mediante ofertas de empleo público, bases, convocatorias y procesos selectivos. Para personal administrativo, es relevante porque conecta con carrera, formación, provisión y planificación de recursos humanos.

@@ -234,7 +234,7 @@
       "La Abogacia del Estado en todo caso"
     ],
     "correcta": 1,
-    "explicación": "El tema exige ese dictamen en las reclamaciones de cuantia igual o superior a 50.000 euros.",
+    "explicación": "El tema exige ese dictamen en las reclamaciones de cuantía igual o superior a 50.000 euros.",
     "referencia": "II.6 · 5.2 Instrucción"
   },
   {
@@ -243,17 +243,17 @@
     "opciones": [
       "objetivo y directo",
       "penal y subsidiario",
-      "electoral y automatico",
+      "electoral y automático",
       "graciable y eventual"
     ],
     "correcta": 0,
-    "explicación": "La responsabilidad patrimonial responde a danos antijuridicos causados por el funcionamiento de los servicios públicos.",
+    "explicación": "La responsabilidad patrimonial responde a daños antijuridicos causados por el funcionamiento de los servicios públicos.",
     "referencia": "II.6 · Caracteres de la responsabilidad administrativa",
     "tema": 15
   },
   {
     "id": "topup-15-02",
-    "pregunta": "Para que exista responsabilidad patrimonial, el dano debe ser, entre otras notas:",
+    "pregunta": "Para que exista responsabilidad patrimonial, el daño debe ser, entre otras notas:",
     "opciones": [
       "efectivo, evaluable economicamente e individualizado",
       "solo moral y simbolico",
@@ -290,7 +290,7 @@
       "El Ministerio Fiscal"
     ],
     "correcta": 0,
-    "explicacion": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos.",
+    "explicación": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos.",
     "referencia": "Examen Estado 2026, art. 32.8 LRJSP; Tema II.6, responsabilidad de la Administración"
   },
   {
@@ -304,7 +304,7 @@
       "El funcionamiento anormal impide reclamar daños efectivos"
     ],
     "correcta": 0,
-    "explicacion": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración.",
+    "explicación": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración.",
     "referencia": "Tema II.6, presupuestos de la responsabilidad patrimonial"
   }
 ]

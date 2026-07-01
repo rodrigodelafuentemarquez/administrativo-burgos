@@ -18,7 +18,7 @@
     "tema": 12,
     "pregunta": "Según el artículo 54 de la Ley 39/2015, los procedimientos administrativos podrán iniciarse:",
     "opciones": [
-      "Solo a traves del registro general o del registro electrónico",
+      "Solo a través del registro general o del registro electrónico",
       "Por el interesado, aunque sea menor de edad, en cualquier caso",
       "De oficio o a solicitud del interesado",
       "En cualquier momento y sin tener que aportar datos personales"
@@ -46,10 +46,10 @@
     "tema": 12,
     "pregunta": "¿En qué artículo de la Ley 39/2015 se recoge que los trámites que deban ser cumplimentados por los interesados deberán realizarse en el plazo de diez días desde la notificación del correspondiente acto?",
     "opciones": [
-      "Articulo 71",
-      "Articulo 72",
-      "Articulo 73",
-      "Articulo 74"
+      "Artículo 71",
+      "Artículo 72",
+      "Artículo 73",
+      "Artículo 74"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 16",
@@ -58,7 +58,7 @@
   {
     "id": "pdf-2025-burgos-q17",
     "tema": 12,
-    "pregunta": "En relación con el artículo 80 de la Ley 39/2015, cuál de las siguientes afirmaciones referidas a la emisión de informes es falsa?",
+    "pregunta": "En relación con el artículo 80 de la Ley 39/2015, ¿cuál de las siguientes afirmaciones referidas a la emisión de informes es falsa?",
     "opciones": [
       "Salvo disposición expresa en contrario, los informes seran facultativos y no vinculantes",
       "Si no se emiten en plazo, podrán proseguirse las actuaciones salvo cuando se trate de un informe preceptivo",
@@ -67,7 +67,7 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 17",
-    "explicación": "La falta de informe de otra Administración no paraliza siempre las actuaciones de forma absoluta; la opción c formula incorrectamente ese efecto."
+    "explicación": "La falta de informe de otra Administración no paraliza siempre las actuaciones de forma absoluta; la opción c fórmula incorrectamente ese efecto."
   },
   {
     "id": "pdf-2025-burgos-q18",
@@ -343,7 +343,7 @@
       "Solo dentro de los diez días siguientes a la iniciación",
       "Unicamente durante el trámite de información pública",
       "En cualquier momento del procedimiento anterior al trámite de audiencia",
-      "Solo despues de la propuesta de resolución"
+      "Solo después de la propuesta de resolución"
     ],
     "correcta": 2,
     "explicación": "El tema recoge expresamente que las alegaciones pueden formularse en cualquier momento anterior al trámite de audiencia.",
@@ -388,7 +388,7 @@
       "Solo anotan documentos de salida, nunca de entrada"
     ],
     "correcta": 0,
-    "explicacion": "El art. 16 LPACAP permite que los organismos vinculados o dependientes dispongan de registro electrónico propio, interoperable e interconectado con el Registro Electrónico General.",
+    "explicación": "El art. 16 LPACAP permite que los organismos vinculados o dependientes dispongan de registro electrónico propio, interoperable e interconectado con el Registro Electrónico General.",
     "referencia": "Examen Estado 2026, art. 16 LPACAP; Tema II.3, procedimiento administrativo"
   },
   {
@@ -402,7 +402,7 @@
       "No inferior a diez ni superior a quince días"
     ],
     "correcta": 0,
-    "explicacion": "El art. 87 LPACAP fija para las actuaciones complementarias un plazo no superior a quince días.",
+    "explicación": "El art. 87 LPACAP fija para las actuaciones complementarias un plazo no superior a quince días.",
     "referencia": "Examen Estado 2026, art. 87 LPACAP; Tema II.3, fase de finalización"
   },
   {
@@ -416,7 +416,7 @@
       "Cuando transcurren diez días desde la firma del acto, aunque no se haya puesto a disposición"
     ],
     "correcta": 0,
-    "explicacion": "La notificación electrónica se practica por comparecencia electrónica y se entiende realizada con el acceso a su contenido; el aviso no sustituye a la notificación.",
+    "explicación": "La notificación electrónica se practica por comparecencia electrónica y se entiende realizada con el acceso a su contenido; el aviso no sustituye a la notificación.",
     "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema II.3, ejecución y notificación"
   },
   {

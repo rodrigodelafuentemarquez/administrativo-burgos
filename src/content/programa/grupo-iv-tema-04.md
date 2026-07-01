@@ -1,5 +1,5 @@
 ---
-grupo: "Grupo IV. Gestion financiera y urbanismo"
+grupo: "Grupo IV. Gestión financiera y urbanismo"
 tema: 4
 codigo: "Tema IV.4"
 titulo: "El control del gasto público. El control interno: la función interventora y el control financiero. El control externo realizado por el Tribunal de Cuentas, el Consejo de Cuentas de Castilla y León y las Cortes de Castilla y León."
@@ -20,8 +20,8 @@ El control del gasto público garantiza **legalidad, eficiencia, estabilidad, tr
 | --- | --- |
 | Hay competencia? | Qué el órgano puede aprobar el gasto. |
 | Hay crédito? | Qué existe aplicación presupuestaria adecuada y suficiente. |
-| Hay procedimiento? | Qué se tramito contrato, subvención, nomina o expediente correcto. |
-| Hay prestación? | Qué el servicio, suministro u obra se realizo. |
+| Hay procedimiento? | Qué se tramito contrato, subvención, nómina o expediente correcto. |
+| Hay prestación? | Qué el servicio, suministro u obra se realizó. |
 | Hay justificante? | Factura, certificación, resolución, informe o documento soporte. |
 
 ## Control interno
@@ -31,16 +31,16 @@ El control interno lo ejerce la Intervención de la entidad local con plena auto
 | Modalidad | Qué controla | Momento principal |
 | --- | --- | --- |
 | Función interventora | Legalidad de actos con contenido económico-presupuestario. | Normalmente antes de que el acto produzca efectos económicos. |
-| Control financiero permanente | Gestion económico-financiera de servicios y entidades. | Durante el ejercicio, segun plan de control. |
+| Control financiero permanente | Gestión económico-financiera de servicios y entidades. | Durante el ejercicio, según plan de control. |
 | Auditoria pública | Cuentas, cumplimiento y operativa de entidades dependientes. | Posterior, con técnicas de auditoria. |
 
-La Intervención no sustituye al órgano gestor. El gestor decide y ejecuta; Intervención controla. Esta separación protege el interes público y permite detectar insuficiencia de crédito, incompetencia, ausencia de procedimiento, incumplimiento de estabilidad o falta de justificación.
+La Intervención no sustituye al órgano gestor. El gestor decide y ejecuta; Intervención controla. Esta separación protege el interés público y permite detectar insuficiencia de crédito, incompetencia, ausencia de procedimiento, incumplimiento de estabilidad o falta de justificación.
 
 ## Función interventora
 
 La función interventora controla actos que reconocen derechos u obligaciones económicas, ingresos y pagos, recaudación, inversión y aplicación de fondos. Puede ejercerse como fiscalización previa plena o limitada previa, con control posterior.
 
-Si Intervención aprecia infracción, formula reparo. El reparo puede suspender la tramitación en supuestos legalmente previstos, como insuficiencia de crédito, incompetencia, omisión de requisitos esenciales o gastos sin fiscalización obligatoria. Las discrepancias se resuelven por el órgano competente, a veces Pleno o Alcaldia, segun materia.
+Si Intervención aprecia infracción, fórmula reparo. El reparo puede suspender la tramitación en supuestos legalmente previstos, como insuficiencia de crédito, incompetencia, omisión de requisitos esenciales o gastos sin fiscalización obligatoria. Las discrepancias se resuelven por el órgano competente, a veces Pleno o Alcaldía, según materia.
 
 | Resultado de la fiscalización | Significado |
 | --- | --- |
@@ -49,7 +49,7 @@ Si Intervención aprecia infracción, formula reparo. El reparo puede suspender 
 | Reparo suspensivo | El expediente no puede continuar hasta resolver la discrepancia o subsanar. |
 | Observación complementaria | Advertencia o recomendación que mejora el expediente sin bloquearlo. |
 
-El reparo no es una opinion informal: es un acto tecnico de control. Si se levanta indebidamente o se ignora, puede abrir la puerta a responsabilidades políticas, administrativas, contables o disciplinarias.
+El reparo no es una opinion informal: es un acto técnico de control. Si se levanta indebidamente o se ignora, puede abrir la puerta a responsabilidades políticas, administrativas, contables o disciplinarias.
 
 Supuestos tipicos de reparo suspensivo:
 
@@ -68,7 +68,7 @@ El control financiero verifica funcionamiento económico-financiero de servicios
 
 Puede plasmarse en informes de control, planes anuales, recomendaciones y seguimiento de medidas correctoras.
 
-El control financiero permite mirar mas alla de un expediente aislado. Por ejemplo, puede comprobar si un servicio cumple sus objetivos, si las subvenciones se justifican correctamente, si una sociedad municipal aplica controles adecuados, si hay riesgos repetidos en contratación menor o si se cumplen los plazos de pago.
+El control financiero permite mirar más allá de un expediente aislado. Por ejemplo, puede comprobar si un servicio cumple sus objetivos, si las subvenciones se justifican correctamente, si una sociedad municipal aplica controles adecuados, si hay riesgos repetidos en contratación menor o si se cumplen los plazos de pago.
 
 | Criterio | Pregunta de control |
 | --- | --- |
@@ -80,13 +80,13 @@ El control financiero permite mirar mas alla de un expediente aislado. Por ejemp
 
 ## Omisión de fiscalización
 
-Cuándo se omite fiscalización previa obligatoria, debe tramitarse procedimiento específico antes de reconocer obligaciones. Intervención emite informe y el órgano competente decide si continua, sin perjuicio de responsabilidades.
+Cuando se omite fiscalización previa obligatoria, debe tramitarse procedimiento específico antes de reconocer obligaciones. Intervención emite informe y el órgano competente decide si continúa, sin perjuicio de responsabilidades.
 
 <mark>No confundir:</mark> omisión de fiscalización no significa que la prestación no se haya hecho. Significa que el expediente no paso por el control previo obligatorio. Puede existir servicio realizado, pero la Administración debe regularizar con cautelas antes de reconocer y pagar.
 
 ## Control externo
 
-El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas y gestión económica del Estado y sector público, sin perjuicio de órganos autonomicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir responsabilidad contable.
+El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas y gestión económica del Estado y sector público, sin perjuicio de órganos autonómicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir responsabilidad contable.
 
 El Consejo de Cuentas de Castilla y León fiscaliza la gestión económica, financiera y contable del sector público de la Comunidad y de las entidades locales de Castilla y León, en coordinación con el Tribunal de Cuentas.
 

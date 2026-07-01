@@ -5,23 +5,23 @@
     "pregunta": "Senala la afirmación correcta de conformidad con la Ley 40/2015 en materia de potestad sancionadora:",
     "opciones": [
       "Las normas definidoras de sanciones e infracciones seran susceptibles de aplicación analogica si son favorables al presunto infractor",
-      "El principio de responsabilidad permite sancionar a las personas físicas o jurídicas responsables solo a titulo de dolo",
+      "El principio de responsabilidad permite sancionar a las personas físicas o jurídicas responsables solo a título de dolo",
       "El principio de proporcionalidad permite que las sanciones administrativas no pecuniarias impliquen penas privativas de libertad en caso de reincidencia",
       "Seran de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa"
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 32",
-    "explicación": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los terminos legales."
+    "explicación": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los términos legales."
   },
   {
     "id": "pdf-2025-burgos-q21",
     "tema": 17,
     "pregunta": "En potestad sancionadora, señale el artículo de la Ley 40/2015 que regula el principio de la potestad sancionadora según el cuál serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa:",
     "opciones": [
-      "Articulo 25. Principio de legalidad",
-      "Articulo 26. Irretroactividad",
-      "Articulo 27. Principio de tipicidad",
-      "Articulo 28. Responsabilidad"
+      "Artículo 25. Principio de legalidad",
+      "Artículo 26. Irretroactividad",
+      "Artículo 27. Principio de tipicidad",
+      "Artículo 28. Responsabilidad"
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 21",
@@ -73,13 +73,13 @@
     "id": "topup-17-05",
     "pregunta": "En potestad sancionadora, la retroactividad favorable en materia sancionadora permite aplicar:",
     "opciones": [
-      "la disposición posterior mas beneficiosa",
-      "siempre la norma mas antigua",
+      "la disposición posterior más beneficiosa",
+      "siempre la norma más antigua",
       "solo la ordenanza municipal vigente",
-      "únicamente la norma mas gravosa"
+      "únicamente la norma más gravosa"
     ],
     "correcta": 0,
-    "explicación": "La ley admite retroactividad de la norma sancionadora mas favorable.",
+    "explicación": "La ley admite retroactividad de la norma sancionadora más favorable.",
     "referencia": "II.8 · Irretroactividad y retroactividad favorable",
     "tema": 17
   },
@@ -116,12 +116,12 @@
     "pregunta": "En potestad sancionadora, la proporcionalidad sancionadora exige que la sanción:",
     "opciones": [
       "guarde adecuada relación con la gravedad de la infracción",
-      "sea siempre la maxima posible",
+      "sea siempre la máxima posible",
       "sea siempre económica",
       "se imponga sin motivación"
     ],
     "correcta": 0,
-    "explicación": "La sanción debe graduarse razonablemente segun la infracción y circunstancias.",
+    "explicación": "La sanción debe graduarse razonablemente según la infracción y circunstancias.",
     "referencia": "II.8 · Principio de proporcionalidad",
     "tema": 17
   },
@@ -185,7 +185,7 @@
     "id": "topup-17-15",
     "pregunta": "Las ordenanzas locales pueden tipificar infracciones y sanciones:",
     "opciones": [
-      "dentro de los limites legales",
+      "dentro de los límites legales",
       "sin necesidad de cobertura legal alguna",
       "solo por acuerdo del alcalde",
       "incluso con penas privativas de libertad"

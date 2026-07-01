@@ -30,7 +30,7 @@
   {
     "id": "t44-p019",
     "tema": 30,
-    "pregunta": "En las Entidades Locales, si la Intervención formula reparos y el órgano gestor quiere mantener el gasto, puede elevarse el asunto al:",
+    "pregunta": "En las Entidades Locales, si la Intervención fórmula reparos y el órgano gestor quiere mantener el gasto, puede elevarse el asunto al:",
     "opciones": [
       "Pleno",
       "Consejo Europeo",
@@ -93,7 +93,7 @@
       "el número de concejales de la oposición"
     ],
     "correcta": 0,
-    "explicación": "El control financiero mira mas alla del expediente aislado.",
+    "explicación": "El control financiero mira más allá del expediente aislado.",
     "referencia": "IV.4 · Control financiero",
     "tema": 30
   },
@@ -131,7 +131,7 @@
     "opciones": [
       "tramitar un procedimiento específico de regularización",
       "pagar automáticamente",
-      "archivar sin mas",
+      "archivar sin más",
       "sustituir al interventor"
     ],
     "correcta": 0,
@@ -172,7 +172,7 @@
     "pregunta": "En el control del gasto público, el Consejo de Cuentas de Castilla y León fiscaliza:",
     "opciones": [
       "la gestión económico-financiera del sector público de la Comunidad y entidades locales",
-      "solo delitos urbanisticos",
+      "solo delitos urbanísticos",
       "la aprobación de bandos municipales",
       "las elecciones generales"
     ],
@@ -187,7 +187,7 @@
     "opciones": [
       "dolo, culpa o negligencia grave",
       "mera discrepancia doctrinal",
-      "simple error sin dano",
+      "simple error sin daño",
       "motivos electorales"
     ],
     "correcta": 0,
@@ -201,7 +201,7 @@
     "opciones": [
       "plan anual de control",
       "orden del día sindical",
-      "reglamento organico del Senado",
+      "reglamento orgánico del Senado",
       "procedimiento de regencia"
     ],
     "correcta": 0,
@@ -225,7 +225,7 @@
   },
   {
     "id": "refine-30-02",
-    "pregunta": "Si la Intervención formula un reparo suspensivo, la tramitación del expediente no debe continuar hasta:",
+    "pregunta": "Si la Intervención fórmula un reparo suspensivo, la tramitación del expediente no debe continuar hasta:",
     "opciones": [
       "su solución o, en su caso, el levantamiento conforme al procedimiento legal",
       "que finalice el ejercicio presupuestario",
@@ -248,7 +248,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.4 · Control financiero",
-    "explicación": "El control financiero tiene un enfoque mas amplio y sistemico que la función interventora.",
+    "explicación": "El control financiero tiene un enfoque más amplio y sistemico que la función interventora.",
     "tema": 30
   },
   {
@@ -271,7 +271,7 @@
     "opciones": [
       "Consejo de Cuentas de Castilla y León",
       "Consejo de Estado",
-      "Tribunal Economico-Administrativo Municipal",
+      "Tribunal Económico-Administrativo Municipal",
       "Instituto Nacional de Estadistica"
     ],
     "correcta": 0,
@@ -290,7 +290,7 @@
       "Ordenación material de pagos"
     ],
     "correcta": 0,
-    "explicacion": "La función característica del Tribunal de Cuentas es la fiscalización externa de la actividad económico-financiera del sector público.",
+    "explicación": "La función carácterística del Tribunal de Cuentas es la fiscalización externa de la actividad económico-financiera del sector público.",
     "referencia": "Examen Estado 2026, Tribunal de Cuentas; Tema IV.4, control externo"
   },
   {
@@ -304,7 +304,7 @@
       "La función interventora solo existe en empresas privadas"
     ],
     "correcta": 0,
-    "explicacion": "El control interno corresponde a la Intervención; el control externo se atribuye al Tribunal de Cuentas y, en su ámbito, a órganos autonómicos como el Consejo de Cuentas.",
+    "explicación": "El control interno corresponde a la Intervención; el control externo se atribuye al Tribunal de Cuentas y, en su ámbito, a órganos autonómicos como el Consejo de Cuentas.",
     "referencia": "Tema IV.4, control del gasto público"
   }
 ]

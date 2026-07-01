@@ -21,7 +21,7 @@ No es una potestad libre. Tiene naturaleza punitiva y por ello se somete a garan
 | Legalidad | Solo se sanciona cuando una norma habilita la potestad. |
 | Tipicidad | La conducta debe encajar en una infracción previamente definida. |
 | Culpabilidad | Debe existir responsabilidad de la persona infractora; no basta el resultado. |
-| Proporcionalidad | La sanción debe adecuarse a gravedad, dano, intencionalidad y circunstancias. |
+| Proporcionalidad | La sanción debe adecuarse a gravedad, daño, intencionalidad y circunstancias. |
 | Presunción de inocencia | La Administración debe probar los hechos. |
 | Non bis in idem | No puede sancionarse dos veces por los mismos hechos, sujeto y fundamento. |
 
@@ -35,7 +35,7 @@ El procedimiento sancionador suele iniciarse de oficio por acuerdo del órgano c
 | --- | --- |
 | Actuaciones previas | Comprobar si existen indicios suficientes. |
 | Iniciación | Abre formalmente el expediente e informa de hechos y derechos. |
-| Instrucción | Practica prueba, recibe alegaciones y formula propuesta. |
+| Instrucción | Practica prueba, recibe alegaciones y fórmula propuesta. |
 | Audiencia | Permite defenderse antes de resolver. |
 | Resolución | Declara responsabilidad o archivo, motivando hechos y sanción. |
 | Ejecución | Hace efectiva la sanción cuando sea firme o ejecutiva. |
@@ -44,12 +44,12 @@ La separación entre fase instructora y resolutoria refuerza la imparcialidad. Q
 
 ## Potestad sancionadora local
 
-En el ámbito municipal aparecen sanciones por ordenanzas de convivencia, trafico urbano, limpieza, ruidos, terrazas, venta ambulante, animales, urbanismo, medio ambiente, actividades o uso de instalaciones. La ordenanza debe tener cobertura legal suficiente y respetar limites de cuantia y tipificación.
+En el ámbito municipal aparecen sanciones por ordenanzas de convivencia, trafico urbano, limpieza, ruidos, terrazas, venta ambulante, animales, urbanismo, medio ambiente, actividades o uso de instalaciones. La ordenanza debe tener cobertura legal suficiente y respetar límites de cuantía y tipificación.
 
-| Ejemplo local | Posible interes protegido |
+| Ejemplo local | Posible interés protegido |
 | --- | --- |
 | Ruido o molestias | Convivencia, descanso y medio ambiente urbano. |
-| Ocupación de via pública sin titulo | Uso comun del dominio público. |
+| Ocupación de vía pública sin título | Uso común del dominio público. |
 | Incumplimiento de licencia | Legalidad urbanística o actividad. |
 | Vertidos o suciedad | Salubridad y limpieza urbana. |
 | Venta ambulante irregular | Ordenación del comercio y espacio público. |
@@ -58,9 +58,9 @@ En un expediente sancionador municipal es decisivo cuidar notificaciones, prueba
 
 ## Principio de legalidad
 
-Solo pueden sancionarse conductas que constituyan infracción administrativa segun norma con rango suficiente. Nadie puede ser sancionado por acciones u omisiones que en el momento de producirse no constituyan infracción.
+Solo pueden sancionarse conductas que constituyan infracción administrativa según norma con rango suficiente. Nadie puede ser sancionado por acciones u omisiones que en el momento de producirse no constituyan infracción.
 
-Las entidades locales pueden tipificar infracciones y sanciones mediante ordenanzas dentro de los limites de la ley. La Ley de Bases permite ordenanzas en materias de competencia local, respetando criterios legales y sin invadir reservas de ley.
+Las entidades locales pueden tipificar infracciones y sanciones mediante ordenanzas dentro de los límites de la ley. La Ley de Bases permite ordenanzas en materias de competencia local, respetando criterios legales y sin invadir reservas de ley.
 
 ## Tipicidad y culpabilidad
 
@@ -72,7 +72,7 @@ La responsabilidad sancionadora exige culpabilidad. Puede haber dolo o culpa. La
 
 La sanción debe ser proporcionada a la gravedad de la infracción. Se valoran intencionalidad, reiteración, naturaleza de perjuicios, reincidencia, beneficio obtenido y circunstancias concurrentes.
 
-El principio non bis in idem impide sancionar dos veces por los mismos hechos, sujeto y fundamento. También condiciona la relación entre procedimiento penal y administrativo. Si los hechos pueden ser delito, la Administración debe respetar la prioridad penal en los terminos legales.
+El principio non bis in idem impide sancionar dos veces por los mismos hechos, sujeto y fundamento. También condiciona la relación entre procedimiento penal y administrativo. Si los hechos pueden ser delito, la Administración debe respetar la prioridad penal en los términos legales.
 
 ## Procedimiento sancionador
 
@@ -86,13 +86,13 @@ La resolución debe ser motivada y decidir todas las cuestiones planteadas. No p
 
 ## Medidas sancionadoras administrativas
 
-Las sanciones pueden consistir en multas, suspensión de actividades, clausura, retirada de autorizaciones, perdida de derechos, decomiso u otras medidas previstas por ley u ordenanza. Las medidas accesorias deben estar habilitadas y ser proporcionadas.
+Las sanciones pueden consistir en multas, suspensión de actividades, clausura, retirada de autorizaciones, pérdida de derechos, decomiso u otras medidas previstas por ley u ordenanza. Las medidas accesorias deben estar habilitadas y ser proporcionadas.
 
 No deben confundirse sanciones con medidas provisionales, medidas de restablecimiento de legalidad o multas coercitivas. Una orden de retirar un elemento ilegal puede ser restablecimiento; la multa por la infracción es sanción.
 
 ## Potestad sancionadora local
 
-Los Ayuntamientos ejercen potestad sancionadora en materias de competencia municipal: convivencia ciudadana, trafico urbano, limpieza, residuos, ruidos, terrazas, ocupación de via pública, mercados, licencias, urbanismo, medio ambiente urbano y tributos, entre otras.
+Los Ayuntamientos ejercen potestad sancionadora en materias de competencia municipal: convivencia ciudadana, trafico urbano, limpieza, residuos, ruidos, terrazas, ocupación de vía pública, mercados, licencias, urbanismo, medio ambiente urbano y tributos, entre otras.
 
 La potestad sancionadora local se apoya en leyes sectoriales y ordenanzas. El Pleno aprueba ordenanzas que definen deberes ciudadanos e infracciones dentro del marco legal. La tramitación de expedientes sancionadores exige rigor: identificación de hechos, prueba suficiente, audiencia, motivación, proporcionalidad y notificación correcta.
 

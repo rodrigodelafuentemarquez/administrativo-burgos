@@ -20,8 +20,8 @@
     "opciones": [
       "Obligara al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando a las autoridades nacionales la elección de la forma y los medios",
       "Desarrolla las normas legislativas adoptadas por el Parlamento Europeo",
-      "Tiene alcance general, sera obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
-      "Sera obligatorio en todos sus elementos y, cuando designe destinatarios, solo sera obligatorio para estos"
+      "Tiene alcance general, será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "Sera obligatorio en todos sus elementos y, cuando designe destinatarios, solo será obligatorio para estos"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 31",
@@ -343,7 +343,7 @@
       "Debe dimitir únicamente el Presidente de la Comisión",
       "Debe dimitir la Comisión en pleno",
       "Queda disuelto automáticamente el Consejo Europeo",
-      "Se convoca de forma obligatoria un referendum europeo"
+      "Se convoca de forma obligatoria un referéndum europeo"
     ],
     "correcta": 1,
     "explicación": "El tema indica que, si prospera la moción de censura, la Comisión en pleno debe dimitir.",
@@ -352,7 +352,7 @@
   {
     "id": "t41-p023",
     "tema": 8,
-    "pregunta": "Conforme al art. 13 TUE, cuál de las siguientes entidades no forma parte del marco institucional de la Unión Europea?",
+    "pregunta": "Conforme al art. 13 TUE, ¿cuál de las siguientes entidades no forma parte del marco institucional de la Unión Europea?",
     "opciones": [
       "El Tribunal de Justicia de la Unión Europea",
       "El Banco Central Europeo",
@@ -430,7 +430,7 @@
       "Comisión Europea mediante iniciativa legislativa"
     ],
     "correcta": 0,
-    "explicacion": "El Consejo Europeo define orientaciones y prioridades políticas generales, pero no ejerce función legislativa ordinaria.",
+    "explicación": "El Consejo Europeo define orientaciones y prioridades políticas generales, pero no ejerce función legislativa ordinaria.",
     "referencia": "Tema I.8, Consejo Europeo"
   },
   {
@@ -444,7 +444,7 @@
       "Principio de autonomía local"
     ],
     "correcta": 0,
-    "explicacion": "La Unión solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados.",
+    "explicación": "La Unión solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados.",
     "referencia": "Tema I.8, Principios de atribución, subsidiariedad y proporcionalidad"
   },
   {
@@ -458,7 +458,7 @@
       "Parlamentos nacionales"
     ],
     "correcta": 0,
-    "explicacion": "La Comisión Europea impulsa y vela por el interés general de la Unión.",
+    "explicación": "La Comisión Europea impulsa y vela por el interés general de la Unión.",
     "referencia": "Tema I.8, Sistema institucional de la Unión"
   },
   {
@@ -472,7 +472,7 @@
       "Solo vincula a la institución que lo dicta"
     ],
     "correcta": 0,
-    "explicacion": "El reglamento es obligatorio en todos sus elementos y directamente aplicable; la directiva obliga en cuanto al resultado.",
+    "explicación": "El reglamento es obligatorio en todos sus elementos y directamente aplicable; la directiva obliga en cuanto al resultado.",
     "referencia": "Tema I.8, Derecho de la Unión Europea"
   },
   {
@@ -486,7 +486,7 @@
       "Ejerce la función legislativa junto con la Comisión Europea"
     ],
     "correcta": 0,
-    "explicacion": "El Consejo ejerce con el Parlamento Europeo la función legislativa y presupuestaria.",
+    "explicación": "El Consejo ejerce con el Parlamento Europeo la función legislativa y presupuestaria.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 11; Tema I.8, Consejo de la Unión Europea"
   },
   {
@@ -500,7 +500,7 @@
       "Organización municipal"
     ],
     "correcta": 0,
-    "explicacion": "El art. 3 TFUE enumera la unión aduanera entre las competencias exclusivas de la Unión.",
+    "explicación": "El art. 3 TFUE enumera la unión aduanera entre las competencias exclusivas de la Unión.",
     "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.8, competencias de la Unión Europea"
   },
   {
@@ -514,7 +514,7 @@
       "El Comité de las Regiones"
     ],
     "correcta": 0,
-    "explicacion": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
+    "explicación": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
     "referencia": "Tema I.8, Comisión Europea"
   },
   {

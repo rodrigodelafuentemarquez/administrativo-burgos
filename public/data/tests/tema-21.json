@@ -25,7 +25,7 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 32",
-    "explicación": "Las tres afirmaciones forman parte del régimen organico municipal previsto para municipios de gran población."
+    "explicación": "Las tres afirmaciones forman parte del régimen orgánico municipal previsto para municipios de gran población."
   },
   {
     "id": "topup-21-04",
@@ -33,7 +33,7 @@
     "opciones": [
       "Pleno",
       "Interventor General",
-      "Tribunal Economico-Administrativo",
+      "Tribunal Económico-Administrativo",
       "Consejo de Ministros"
     ],
     "correcta": 0,
@@ -107,7 +107,7 @@
       "la sucesión a la Corona"
     ],
     "correcta": 0,
-    "explicación": "El reglamento organico ordena la organización institucional del Ayuntamiento.",
+    "explicación": "El reglamento orgánico ordena la organización institucional del Ayuntamiento.",
     "referencia": "II.12 · Clases de reglamentos",
     "tema": 21
   },
@@ -141,7 +141,7 @@
   },
   {
     "id": "topup-21-13",
-    "pregunta": "Las entidades locales pueden aprobar reglamentos y ordenanzas dentro de los limites de:",
+    "pregunta": "Las entidades locales pueden aprobar reglamentos y ordenanzas dentro de los límites de:",
     "opciones": [
       "la Constitución y las leyes",
       "la voluntad unilateral del alcalde",
@@ -149,21 +149,21 @@
       "cualquier instrucción verbal"
     ],
     "correcta": 0,
-    "explicación": "La potestad reglamentaria local esta subordinada a la ley.",
-    "referencia": "II.12 · Fundamento y limites",
+    "explicación": "La potestad reglamentaria local está subordinada a la ley.",
+    "referencia": "II.12 · Fundamento y límites",
     "tema": 21
   },
   {
     "id": "topup-21-14",
     "pregunta": "La publicación oficial de ordenanzas locales se realiza normalmente en el:",
     "opciones": [
-      "Boletin Oficial de la Provincia",
+      "Boletín Oficial de la Provincia",
       "Diario Oficial de la Unión Europea exclusivamente",
       "tablón del Congreso",
       "BOE en todo caso"
     ],
     "correcta": 0,
-    "explicación": "La publicación provincial es la regla comun en el régimen local.",
+    "explicación": "La publicación provincial es la regla común en el régimen local.",
     "referencia": "II.12 · Publicación",
     "tema": 21
   },
@@ -262,7 +262,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · Clases de reglamentos locales",
-    "explicación": "El reglamento organico ordena la organización y el funcionamiento de la entidad local.",
+    "explicación": "El reglamento orgánico ordena la organización y el funcionamiento de la entidad local.",
     "tema": 21
   },
   {

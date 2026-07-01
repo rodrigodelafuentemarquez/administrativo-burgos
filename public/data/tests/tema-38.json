@@ -11,15 +11,15 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 45",
-    "explicación": "Las personas jurídicas estan obligadas a relacionarse electronicamente con las Administraciones."
+    "explicación": "Las personas jurídicas están obligadas a relacionarse electronicamente con las Administraciones."
   },
   {
     "id": "pdf-2023-burgos-q46",
     "tema": 38,
     "pregunta": "De acuerdo con el artículo 38 de la Ley 40/2015, la sede electrónica es:",
     "opciones": [
-      "Aquella sede administrativa donde se controla la red intranet de una Administración Publica",
-      "La dirección electrónica, disponible para los ciudadanos a traves de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Publica o a organismos o entidades de derecho público en el ejercicio de sus competencias",
+      "Aquella sede administrativa donde se controla la red intranet de una Administración Pública",
+      "La dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública o a organismos o entidades de derecho público en el ejercicio de sus competencias",
       "La sede donde radica la Dirección General de nuevas tecnologías",
       "Un espacio físico de atención presencial al ciudadano"
     ],
@@ -46,10 +46,10 @@
     "tema": 38,
     "pregunta": "¿En qué artículo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electrónicos?",
     "opciones": [
-      "Articulo 41",
-      "Articulo 38",
-      "Articulo 14",
-      "Articulo 51"
+      "Artículo 41",
+      "Artículo 38",
+      "Artículo 14",
+      "Artículo 51"
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 57",
@@ -315,7 +315,7 @@
       "Unicamente en soporte papel para garantizar su autenticidad",
       "Por medios electrónicos",
       "En cualquier soporte, sin preferencia legal",
-      "Solo en formato fisico cuando afecten a derechos de los particulares"
+      "Solo en formato físico cuando afecten a derechos de los particulares"
     ],
     "correcta": 1,
     "explicación": "El tema explica que la tramitación ordinaria es electrónica y que los documentos administrativos deben almacenarse por medios electrónicos.",
@@ -346,7 +346,7 @@
       "Un correo electrónico ordinario sin certificado"
     ],
     "correcta": 0,
-    "explicacion": "La identificación electrónica administrativa puede realizarse mediante sello electrónico basado en certificado reconocido o cualificado.",
+    "explicación": "La identificación electrónica administrativa puede realizarse mediante sello electrónico basado en certificado reconocido o cualificado.",
     "referencia": "Examen Estado 2026, identificación electrónica; Tema V.7, Administración electrónica"
   },
   {
@@ -360,7 +360,7 @@
       "Solo puede enviarse por correo postal certificado"
     ],
     "correcta": 0,
-    "explicacion": "El aviso es un complemento informativo y no sustituye a la notificación electrónica practicada por acceso o rechazo.",
+    "explicación": "El aviso es un complemento informativo y no sustituye a la notificación electrónica practicada por acceso o rechazo.",
     "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema V.7"
   },
   {

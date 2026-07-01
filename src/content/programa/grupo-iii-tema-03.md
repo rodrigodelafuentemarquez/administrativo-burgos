@@ -19,13 +19,13 @@ No todas las funciones pueden desempenarse por personal laboral. Las que impliqu
 La idea principal es doble:
 
 1. Es personal con **vinculo laboral**, no nombramiento funcionarial.
-2. Pero su empleador es una Administración, por lo que no desaparecen igualdad, merito, capacidad, publicidad, incompatibilidades ni código de conducta.
+2. Pero su empleador es una Administración, por lo que no desaparecen igualdad, mérito, capacidad, publicidad, incompatibilidades ni código de conducta.
 
 ## Selección
 
-La selección del personal laboral debe respetar igualdad, merito, capacidad y publicidad. No basta con reglas laborales privadas. Las Administraciones deben convocar procesos transparentes, con bases, requisitos, pruebas adecuadas y órganos de selección imparciales.
+La selección del personal laboral debe respetar igualdad, mérito, capacidad y publicidad. No basta con reglas laborales privadas. Las Administraciones deben convocar procesos transparentes, con bases, requisitos, pruebas adecuadas y órganos de selección imparciales.
 
-El personal laboral fijo accede mediante procesos incluidos en oferta de empleo público cuando proceda. El temporal solo puede nombrarse o contratarse por causas justificadas y con limites. La utilización abusiva de temporalidad genera responsabilidades y consecuencias jurídicas.
+El personal laboral fijo accede mediante procesos incluidos en oferta de empleo público cuando proceda. El temporal solo puede nombrarse o contratarse por causas justificadas y con límites. La utilización abusiva de temporalidad genera responsabilidades y consecuencias jurídicas.
 
 | Tipo de personal laboral | Rasgo principal |
 | --- | --- |
@@ -33,7 +33,7 @@ El personal laboral fijo accede mediante procesos incluidos en oferta de empleo 
 | Indefinido no fijo | Figura derivada normalmente de irregularidad o abuso; no equivale a fijo de plantilla. |
 | Temporal | Contratado por causa temporal legalmente justificada. |
 
-La Administración no puede contratar como una empresa privada ordinaria. Incluso cuando aplica Derecho laboral, esta vinculada por publicidad, igualdad, merito y capacidad. Por eso las bolsas de empleo, convocatorias, baremos, tribunales y listas deben tener reglas claras y motivadas.
+La Administración no puede contratar como una empresa privada ordinaria. Incluso cuando aplica Derecho laboral, está vinculada por publicidad, igualdad, mérito y capacidad. Por eso las bolsas de empleo, convocatorias, baremos, tribunales y listas deben tener reglas claras y motivadas.
 
 <mark>Clave de examen:</mark> el contrato laboral no permite saltarse los principios constitucionales de acceso al empleo público. La Administración no elige libremente a quien contratar para puestos públicos estructurales.
 
@@ -55,9 +55,9 @@ El personal laboral tiene derechos laborales: ocupación efectiva, promoción y 
 
 También disfruta de derechos del EBEP aplicables a empleados públicos: formación, negociación, participación, prevención de riesgos, protección frente al acoso y respeto a principios de igualdad.
 
-En la práctica municipal, estos derechos se concretan en calendario laboral, permisos, vacaciones, licencias, ayudas sociales, formación, adaptaciones por salud, medidas de conciliación, prevención de riesgos y participación sindical. Deben gestionarse con igualdad de trato y trazabilidad documental, porque afectan a nomina, sustituciones, servicios mínimos y organización del trabajo.
+En la práctica municipal, estos derechos se concretan en calendario laboral, permisos, vacaciones, licencias, ayudas sociales, formación, adaptaciones por salud, medidas de conciliación, prevención de riesgos y participación sindical. Deben gestionarse con igualdad de trato y trazabilidad documental, porque afectan a nómina, sustituciones, servicios mínimos y organización del trabajo.
 
-| Derecho | Gestion municipal asociada |
+| Derecho | Gestión municipal asociada |
 | --- | --- |
 | Jornada y descansos | Calendario, turnos y control horario. |
 | Vacaciones y permisos | Resoluciones, sustituciones y organización del servicio. |
@@ -70,20 +70,20 @@ En la práctica municipal, estos derechos se concretan en calendario laboral, pe
 
 Debe cumplir obligaciones del contrato y del puesto, actuar con diligencia, obedecer instrucciones legitimas, respetar normas de seguridad, cumplir jornada, guardar confidencialidad, atender correctamente a la ciudadania y observar el código de conducta del EBEP.
 
-El hecho de tener contrato laboral no elimina el deber de servicio al interes general. El personal laboral municipal participa en servicios públicos y debe actuar con profesionalidad, neutralidad e integridad.
+El hecho de tener contrato laboral no elimina el deber de servicio al interés general. El personal laboral municipal participa en servicios públicos y debe actuar con profesionalidad, neutralidad e integridad.
 
 | Deber | Ejemplo práctico |
 | --- | --- |
 | Diligencia | Tramitar tareas dentro de plazo y con cuidado documental. |
 | Obediencia debida | Cumplir instrucciones legitimas del superior. |
-| Confidencialidad | No divulgar datos de expedientes, padron, servicios sociales o personal. |
+| Confidencialidad | No divulgar datos de expedientes, padrón, servicios sociales o personal. |
 | Neutralidad | No favorecer intereses particulares, políticos o empresariales. |
 | Atención correcta | Tratar a la ciudadania con respeto, claridad y ausencia de discriminación. |
 | Prevención | Usar medios de protección y comunicar riesgos. |
 
 ## Incompatibilidades
 
-El personal laboral esta sometido al régimen de incompatibilidades del personal al servicio de las Administraciones Públicas. Cómo regla general, no puede desempenar un segundo puesto público salvo excepciones autorizadas, ni actividades privadas incompatibles con su puesto, horario, imparcialidad o dedicación.
+El personal laboral está sometido al régimen de incompatibilidades del personal al servicio de las Administraciones Públicas. Cómo regla general, no puede desempeñar un segundo puesto público salvo excepciones autorizadas, ni actividades privadas incompatibles con su puesto, horario, imparcialidad o dedicación.
 
 Las compatibilidades deben solicitarse y autorizarse antes de iniciar actividad. La finalidad es evitar conflictos de intereses, doble percepción indebida de retribuciones públicas y perjuicio al servicio.
 
@@ -92,9 +92,9 @@ Las compatibilidades deben solicitarse y autorizarse antes de iniciar actividad.
 | Segundo puesto público | Regla general de incompatibilidad, salvo excepciones legales autorizables. |
 | Actividad privada relacionada con el puesto | Riesgo alto de incompatibilidad por conflicto de intereses. |
 | Actividad privada fuera de horario | Puede requerir reconocimiento de compatibilidad si no perjudica al servicio. |
-| Actividades docentes o investigadoras | Pueden tener tratamientos específicos segun condiciones legales. |
+| Actividades docentes o investigadoras | Pueden tener tratamientos específicos según condiciones legales. |
 
-Lo decisivo es que la compatibilidad no se presume. Debe pedirse antes, valorando horario, dedicación, imparcialidad, posible colisión con funciones municipales y limites retributivos.
+Lo decisivo es que la compatibilidad no se presume. Debe pedirse antes, valorando horario, dedicación, imparcialidad, posible colisión con funciones municipales y límites retributivos.
 
 Puntos de control antes de autorizar compatibilidad:
 
@@ -102,7 +102,7 @@ Puntos de control antes de autorizar compatibilidad:
 - relación con funciones municipales;
 - posible conflicto de intereses;
 - dedicación y rendimiento;
-- limites retributivos;
+- límites retributivos;
 - imparcialidad y apariencia de neutralidad;
 - autorización expresa previa.
 

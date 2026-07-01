@@ -14,19 +14,19 @@ El régimen se basa en el Reglamento General de Protección de Datos de la Unió
 
 Dato personal es toda información sobre una **persona física identificada o identificable**. Tratamiento es cualquier operación sobre datos: recogida, registro, consulta, comunicación, conservación, supresión o modificación.
 
-Un Ayuntamiento trata datos constantemente: padron, tributos, multas, licencias, servicios sociales, personal, proveedores, expedientes, cámaras, registro y sede electrónica.
+Un Ayuntamiento trata datos constantemente: padrón, tributos, multas, licencias, servicios sociales, personal, proveedores, expedientes, cámaras, registro y sede electrónica.
 
 | Dato | Ejemplo municipal |
 | --- | --- |
 | Identificativo | Nombre, DNI, dirección, telefono. |
-| Economico | Deudas tributarias, recibos, datos bancarios. |
-| Administrativo | Numero de expediente, licencia, sanción. |
+| Económico | Deudas tributarias, recibos, datos bancarios. |
+| Administrativo | Número de expediente, licencia, sanción. |
 | Social | Informes de servicios sociales. |
 | Salud | Adaptaciones, bajas, discapacidad si consta. |
-| Imagen | Camaras de seguridad o fotografia. |
+| Imagen | Cámaras de seguridad o fotografia. |
 | Firma | Firma manuscrita o electrónica. |
 
-Los datos de categorias especiales, como salud, ideologia, afiliación sindical, religion, orientación sexual o datos biometricos en determinados usos, tienen protección reforzada. En un Ayuntamiento pueden aparecer en servicios sociales, recursos humanos, igualdad, discapacidad o expedientes especialmente sensibles.
+Los datos de categorías especiales, como salud, ideologia, afiliación sindical, religion, orientación sexual o datos biometricos en determinados usos, tienen protección reforzada. En un Ayuntamiento pueden aparecer en servicios sociales, recursos humanos, igualdad, discapacidad o expedientes especialmente sensibles.
 
 <mark>Clave de examen:</mark> proteger datos no significa ocultarlo todo. Significa tratar cada dato con base jurídica, finalidad legitima, minimización, seguridad y respeto a derechos.
 
@@ -42,23 +42,23 @@ La Administración debe poder demostrar cumplimiento. No basta con afirmar que c
 | Finalidad | No usar datos padronales para fines incompatibles. |
 | Minimización | Pedir solo datos necesarios. |
 | Exactitud | Corregir datos erroneos cuando se detecten. |
-| Conservación | No mantener datos mas tiempo del necesario. |
+| Conservación | No mantener datos más tiempo del necesario. |
 | Confidencialidad | Evitar accesos y divulgaciones indebidas. |
 | Responsabilidad proactiva | Poder demostrar medidas adoptadas. |
 
 ## Licitud
 
-El tratamiento necesita base jurídica: cumplimiento de obligación legal, ejercicio de poderes públicos, misión en interes público, contrato, consentimiento, interes vital u otros supuestos. En Administraciones, las bases mas habituales son obligación legal y ejercicio de potestades públicas.
+El tratamiento necesita base jurídica: cumplimiento de obligación legal, ejercicio de poderes públicos, misión en interés público, contrato, consentimiento, interés vital u otros supuestos. En Administraciones, las bases más habituales son obligación legal y ejercicio de potestades públicas.
 
-El consentimiento no debe usarse cuando la Administración actua en potestad pública si existe base legal.
+El consentimiento no debe usarse cuando la Administración actúa en potestad pública si existe base legal.
 
-Ejemplo: para gestionar el padron, el Ayuntamiento no necesita consentimiento, porque actua en cumplimiento de obligaciones legales. Para enviar información no obligatoria o usar imagenes en contextos no cubiertos por potestad pública, puede requerirse otra base jurídica.
+Ejemplo: para gestionar el padrón, el Ayuntamiento no necesita consentimiento, porque actúa en cumplimiento de obligaciones legales. Para enviar información no obligatoria o usar imagenes en contextos no cubiertos por potestad pública, puede requerirse otra base jurídica.
 
 | Base jurídica | Ejemplo municipal |
 | --- | --- |
 | Obligación legal | Padron, tributos, conservación de expedientes. |
-| Misión de interes público/poderes públicos | Licencias, sanciones, servicios públicos. |
-| Contrato | Gestion de proveedores o relaciones laborales. |
+| Misión de interés público/poderes públicos | Licencias, sanciones, servicios públicos. |
+| Contrato | Gestión de proveedores o relaciones laborales. |
 | Consentimiento | Usos no obligatorios, boletines o imagenes en ciertos contextos. |
 | Interes vital | Emergencias que afecten a vida o salud. |
 
@@ -86,16 +86,16 @@ En Administraciones, algunos derechos pueden no prosperar si existe obligación 
 
 El responsable decide fines y medios del tratamiento. En el Ayuntamiento suele ser la propia entidad u órgano correspondiente. El encargado trata datos por cuenta del responsable, por ejemplo una empresa de software o servicio contratado, mediante contrato de encargo.
 
-El Delegado de Protección de Datos informa, asesora, supervisa cumplimiento, coopera con autoridad de control y actua como punto de contacto. Las Administraciones Públicas deben designarlo.
+El Delegado de Protección de Datos informa, asesora, supervisa cumplimiento, coopera con autoridad de control y actúa como punto de contacto. Las Administraciones Públicas deben designarlo.
 
 | Figura | Papel |
 | --- | --- |
 | Responsable | Decide para que y como se tratan los datos. |
 | Encargado | Trata datos siguiendo instrucciones del responsable. |
-| Delegado de Protección de Datos | Asesora, supervisa y actua como punto de contacto. |
+| Delegado de Protección de Datos | Asesora, supervisa y actúa como punto de contacto. |
 | Autoridad de control | Vigila cumplimiento y tramita reclamaciones. |
 
-Cuándo el Ayuntamiento contrata una aplicación de gestión de expedientes, una empresa de mantenimiento informatico o una plataforma de turnos, debe analizar si el proveedor actua como encargado y formalizar contrato de encargo.
+Cuando el Ayuntamiento contrata una aplicación de gestión de expedientes, una empresa de mantenimiento informatico o una plataforma de turnos, debe analizar si el proveedor actúa como encargado y formalizar contrato de encargo.
 
 <mark>No confundir figuras:</mark>
 

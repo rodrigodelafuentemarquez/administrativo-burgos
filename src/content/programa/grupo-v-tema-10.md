@@ -2,11 +2,11 @@
 grupo: "Grupo V. Competencias"
 tema: 10
 codigo: "Tema V.10"
-titulo: "Sistemas ofimaticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de calculo: Excel para Microsoft 365. Funciones y utilidades."
+titulo: "Sistemas ofimáticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de cálculo: Excel para Microsoft 365. Funciones y utilidades."
 estado: "borrador"
 ---
 
-## Sistemas ofimaticos colaborativos
+## Sistemas ofimáticos colaborativos
 
 Los sistemas ofimaticos colaborativos permiten crear, editar, compartir y conservar documentos de trabajo. Microsoft 365 integra Word, Excel, Outlook, OneDrive, SharePoint, Teams y otras herramientas. En Administración, su uso debe ajustarse a seguridad, protección de datos y políticas corporativas.
 
@@ -36,7 +36,7 @@ Word es procesador de textos. Permite redactar informes, oficios, propuestas, ac
 
 Sus funciones principales incluyen formato de texto, estilos, encabezados, pies, numeración, tablas, imagenes, indices, notas, revisión ortografica, control de cambios, comentarios, plantillas, combinación de correspondencia y exportación a PDF.
 
-El uso de estilos es importante para documentos largos, porque permite estructura coherente, indice automatico y accesibilidad. El control de cambios permite revisar borradores. La combinación de correspondencia genera comunicaciones repetitivas a partir de datos.
+El uso de estilos es importante para documentos largos, porque permite estructura coherente, indice automático y accesibilidad. El control de cambios permite revisar borradores. La combinación de correspondencia genera comunicaciones repetitivas a partir de datos.
 
 En documentos administrativos debe cuidarse claridad, fecha, órgano, asunto, destinatario, firma, CSV si procede y adecuación al expediente.
 
@@ -52,7 +52,7 @@ Estructura habitual de un documento administrativo sencillo:
 
 | Función de Word | Utilidad |
 | --- | --- |
-| Estilos | Mantienen estructura uniforme y permiten indice automatico. |
+| Estilos | Mantienen estructura uniforme y permiten indice automático. |
 | Encabezado y pie | Incorporan logos, paginas, expediente o unidad. |
 | Tablas | Ordenan datos comparativos o listados simples. |
 | Control de cambios | Permite revisar borradores sin perder trazabilidad. |
@@ -60,7 +60,7 @@ Estructura habitual de un documento administrativo sencillo:
 | Combinar correspondencia | Genera comunicaciones masivas personalizadas. |
 | Exportar a PDF | Produce documento estable para remisión o publicación. |
 
-Un error frecuente es dar formato manual a cada titulo. En documentos largos, esto complica cambios y genera incoherencias. Lo correcto es usar estilos predefinidos. Otro error es enviar documentos con comentarios internos o control de cambios visible; antes de remitir debe revisarse la versión final.
+Un error frecuente es dar formato manual a cada título. En documentos largos, esto complica cambios y genera incoherencias. Lo correcto es usar estilos predefinidos. Otro error es enviar documentos con comentarios internos o control de cambios visible; antes de remitir debe revisarse la versión final.
 
 <mark>Clave práctica:</mark> en Word, los **estilos** no son estetica; son estructura. Permiten indice, accesibilidad, navegación, coherencia y cambios globales.
 
@@ -68,16 +68,16 @@ Un error frecuente es dar formato manual a cada titulo. En documentos largos, es
 
 Excel es hoja de calculo. Permite organizar datos en libros, hojas, filas, columnas y celdas. Se usa para listados, presupuestos, seguimiento de expedientes, estadisticas, liquidaciones auxiliares, controles y análisis.
 
-Las funciones básicas incluyen introducción de datos, formato, filtros, ordenación, tablas, formulas, referencias absolutas y relativas, graficos, validación, formato condicional y protección de hojas.
+Las funciones básicas incluyen introducción de datos, formato, filtros, ordenación, tablas, fórmulas, referencias absolutas y relativas, graficos, validación, formato condicional y protección de hojas.
 
-Funciones frecuentes: SUMA, PROMEDIO, MIN, MAX, CONTAR, CONTARA, SI, Y, O, BUSCARV o BUSCARX, CONCAT, TEXTO, FECHA, HOY, REDONDEAR y funciones de filtros o tablas dinamicas segun versión.
+Funciones frecuentes: SUMA, PROMEDIO, MIN, MAX, CONTAR, CONTARA, SI, Y, O, BUSCARV o BUSCARX, CONCAT, TEXTO, FECHA, HOY, REDONDEAR y funciones de filtros o tablas dinamicas según versión.
 
-Las tablas dinamicas resumen datos por categorias. Los graficos visualizan información. El formato condicional destaca valores. La validación evita entradas incorrectas.
+Las tablas dinamicas resumen datos por categorías. Los graficos visualizan información. El formato condicional destaca valores. La validación evita entradas incorrectas.
 
 | Función | Para que sirve | Ejemplo |
 | --- | --- | --- |
 | SUMA | Sumar importes o unidades. | Total de tasas, facturas o solicitudes. |
-| CONTAR / CONTARA | Contar celdas numericas o no vacias. | Numero de expedientes registrados. |
+| CONTAR / CONTARA | Contar celdas numericas o no vacias. | Número de expedientes registrados. |
 | SI | Aplicar condición lógica. | Si plazo vencido, mostrar "revisar". |
 | BUSCARX | Localizar datos en una tabla. | Buscar nombre por número de expediente. |
 | FECHA / HOY | Gestionar fechas. | Calculo auxiliar de vencimientos. |
@@ -88,22 +88,22 @@ Las tablas dinamicas resumen datos por categorias. Los graficos visualizan infor
 | Libro | Archivo de Excel completo. |
 | Hoja | Pagina interna del libro. |
 | Celda | Intersección de fila y columna. |
-| Formula | Operación que calcula un resultado. |
-| Función | Formula predefinida, como SUMA o SI. |
-| Referencia relativa | Cambia al copiar la formula. |
+| Fórmula | Operación que calcula un resultado. |
+| Función | Fórmula predefinida, como SUMA o SI. |
+| Referencia relativa | Cambia al copiar la fórmula. |
 | Referencia absoluta | Permanece fija usando `$`, por ejemplo `$A$1`. |
 | Filtro | Muestra solo registros que cumplen condiciones. |
 | Tabla dinamica | Resume grandes conjuntos de datos. |
 
 Ejemplos de uso administrativo: seguimiento de solicitudes por estado, control de facturas, relación de expedientes pendientes, calculo auxiliar de importes, estadisticas de atención ciudadana o comprobación de plazos. Aunque Excel sea útil, los datos definitivos deben estar en los sistemas corporativos cuando exista aplicación oficial.
 
-<mark>Riesgo habitual:</mark> una hoja de Excel puede contener errores invisibles: formulas arrastradas mal, rangos incompletos, filtros activos, duplicados o datos personales innecesarios. Por eso debe revisarse antes de usarla para una decisión administrativa.
+<mark>Riesgo habitual:</mark> una hoja de Excel puede contener errores invisibles: fórmulas arrastradas mal, rangos incompletos, filtros activos, duplicados o datos personales innecesarios. Por eso debe revisarse antes de usarla para una decisión administrativa.
 
 ## Buen uso administrativo
 
 Word y Excel no sustituyen a aplicaciones corporativas ni expedientes electrónicos. Deben usarse como apoyo, respetando protección de datos, versionado y archivo. Los documentos definitivos deben incorporarse al expediente por canales oficiales.
 
-En Excel hay que evitar errores de formulas, rangos incompletos, datos personales innecesarios y hojas sin protección cuando se comparten. En Word hay que evitar plantillas obsoletas, firmas incorrectas y copiar textos normativos sin actualizar.
+En Excel hay que evitar errores de fórmulas, rangos incompletos, datos personales innecesarios y hojas sin protección cuando se comparten. En Word hay que evitar plantillas obsoletas, firmas incorrectas y copiar textos normativos sin actualizar.
 
 | Mala práctica | Forma correcta |
 | --- | --- |

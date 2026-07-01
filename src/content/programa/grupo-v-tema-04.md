@@ -23,7 +23,7 @@ La oficina de asistencia es una pieza clave porque convierte la relación entre 
 En una actuación ordinaria deben comprobarse, como mínimo:
 
 1. quien presenta el documento;
-2. si actua en nombre propio o representado;
+2. si actúa en nombre propio o representado;
 3. a que órgano se dirige;
 4. que documentos aporta;
 5. fecha y hora de entrada;
@@ -65,7 +65,7 @@ El asiento registral debe reflejar datos esenciales: número, fecha y hora, iden
 | Error en oficina | Posible consecuencia |
 | --- | --- |
 | Fecha u hora incorrecta | Problemas de plazo. |
-| Organo destinatario equivocado | Retrasos y riesgo de indefensión. |
+| Órgano destinatario equivocado | Retrasos y riesgo de indefensión. |
 | No relacionar anexos | Dificultad para probar que se presentaron. |
 | Digitalización defectuosa | Documento incompleto en expediente. |
 | No comprobar representación | Actuación ineficaz o subsanación posterior. |
@@ -74,22 +74,22 @@ La precisión registral protege tanto a la Administración como al ciudadano. El
 
 ## Asistencia electrónica
 
-Las personas físicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electrónicos. Si no disponen de medios, un funcionario habilitado puede identificarlas o firmar en su nombre con consentimiento expreso en los terminos legales.
+Las personas físicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electrónicos. Si no disponen de medios, un funcionario habilitado puede identificarlas o firmar en su nombre con consentimiento expreso en los términos legales.
 
 Las personas obligadas a relacionarse electronicamente, como personas jurídicas, deben usar medios electrónicos. La oficina puede informar, pero la obligación permanece.
 
-El funcionario habilitado no actua como representante libre del ciudadano, sino como apoyo tecnico para identificación o firma cuando la ley lo permite. Debe quedar constancia del consentimiento. Esta función exige especial cuidado porque una firma electrónica produce efectos jurídicos.
+El funcionario habilitado no actúa como representante libre del ciudadano, sino como apoyo técnico para identificación o firma cuando la ley lo permite. Debe quedar constancia del consentimiento. Esta función exige especial cuidado porque una firma electrónica produce efectos jurídicos.
 
 <mark>No confundir:</mark>
 
 - **Asistencia:** ayuda técnica o material para que la persona pueda relacionarse con la Administración.
-- **Representación:** actuar juridicamente en nombre de otra persona.
+- **Representación:** actuar jurídicamente en nombre de otra persona.
 - **Funcionario habilitado:** puede identificar o firmar en nombre de una persona en los supuestos legales y con consentimiento.
 - **Apoderamiento:** acredita que alguien puede actuar por otra persona.
 
 ## Digitalización y copias
 
-Los documentos en papel pueden digitalizarse para incorporarse al expediente electrónico. La digitalización debe garantizar integridad, autenticidad y conservación. Cuándo proceda, se devuelve el original al interesado, salvo normas que exijan custodia.
+Los documentos en papel pueden digitalizarse para incorporarse al expediente electrónico. La digitalización debe garantizar integridad, autenticidad y conservación. Cuando proceda, se devuelve el original al interesado, salvo normas que exijan custodia.
 
 Las oficinas pueden expedir copias autenticas en los supuestos previstos. Una copia autentica tiene la misma validez que el original para el procedimiento.
 
@@ -123,7 +123,7 @@ Listado útil de funciones:
 
 ## Representación y apoderamientos
 
-La oficina debe comprobar si quien actua lo hace en nombre propio o en representación de otra persona. La representación puede acreditarse por apoderamiento apud acta, registro electrónico de apoderamientos, documento público, documento privado con firma legitimada u otros medios validos.
+La oficina debe comprobar si quien actúa lo hace en nombre propio o en representación de otra persona. La representación puede acreditarse por apoderamiento apud acta, registro electrónico de apoderamientos, documento público, documento privado con firma legitimada u otros medios validos.
 
 En trámites sencillos puede presumirse representación en determinados actos de mero trámite, pero no cuando se formulan solicitudes, se desiste, se renuncia a derechos o se interponen recursos si la normativa exige acreditación. La comprobación de representación es especialmente importante en expedientes tributarios, sancionadores, padronales o de servicios sociales.
 

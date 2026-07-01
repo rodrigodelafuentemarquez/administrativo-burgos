@@ -56,7 +56,7 @@ La sede electrónica es la dirección electrónica titularidad de una Administra
 
 La sede debe identificar a su titular, garantizar canales seguros, publicar información de trámites, permitir acceso al registro y ofrecer medios de comprobación de documentos. El registro electrónico emite recibo con fecha, hora, número de registro y relación de documentos presentados.
 
-La notificación electrónica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado esta obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
+La notificación electrónica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado está obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
 
 ## Funcionamiento electrónico del sector público
 
@@ -70,7 +70,7 @@ El Esquema Nacional de Interoperabilidad busca que los sistemas puedan compartir
 
 Es cualquier acto o actuación realizada integramente por medios electrónicos sin intervención directa de empleado público en cada caso. Debe definirse órgano responsable, sistemas, supervisión y recursos posibles.
 
-En un Ayuntamiento, la administración electrónica afecta a registro, padron, tributos, licencias, facturas, contratación, notificaciones, archivo y atención ciudadana.
+En un Ayuntamiento, la administración electrónica afecta a registro, padrón, tributos, licencias, facturas, contratación, notificaciones, archivo y atención ciudadana.
 
 ## Ejemplos municipales
 
@@ -83,4 +83,4 @@ En un Ayuntamiento, la administración electrónica afecta a registro, padron, t
 | Registro | Digitalización, asiento, recibo y remisión a unidad gestora. |
 | Archivo | Conservación de expedientes y control de acceso. |
 
-El error mas comun es pensar que el documento electrónico es una simple copia digital del papel. Juridicamente debe reunir requisitos de autenticidad, integridad, conservación, metadatos y firma cuando proceda. Si falta alguno, pueden aparecer problemas de prueba, acceso, archivo o validez.
+El error más común es pensar que el documento electrónico es una simple copia digital del papel. Jurídicamente debe reunir requisitos de autenticidad, integridad, conservación, metadatos y firma cuando proceda. Si falta alguno, pueden aparecer problemas de prueba, acceso, archivo o validez.

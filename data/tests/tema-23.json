@@ -75,7 +75,7 @@
     "pregunta": "En situaciones administrativas de los funcionarios, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
     "opciones": [
       "Superación del proceso selectivo, nombramiento por el órgano competente y toma de posesión dentro del plazo establecido",
-      "Nombramiento provisional, período de prueba y evaluación del desempeno",
+      "Nombramiento provisional, período de prueba y evaluación del desempeño",
       "Superación del concurso de traslados, adscripción provisional y toma de posesión",
       "Aprobación de la OEP, publicación en el BOCYL y juramento ante las Cortes"
     ],
@@ -90,11 +90,11 @@
     "opciones": [
       "La renuncia, la jubilación y la sanción disciplinaria de separación del servicio",
       "La falta de promoción interna en dos convocatorias consecutivas",
-      "La evaluación negativa del desempeno en un ejercicio",
+      "La evaluación negativa del desempeño en un ejercicio",
       "La adscripción provisional a otro puesto"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera esas causas tasadas de perdida de la condición de funcionario de carrera.",
+    "explicación": "El tema enumera esas causas tasadas de pérdida de la condición de funcionario de carrera.",
     "referencia": "III.2 · 2.1 Funcionarios de carrera"
   },
   {
@@ -102,13 +102,13 @@
     "tema": 23,
     "pregunta": "De acuerdo con el TREBEP, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por:",
     "opciones": [
-      "La toma de posesión dentro del plazo senalado",
+      "La toma de posesión dentro del plazo señalado",
       "La presentación del certificado de antecedentes penales",
-      "La superación obligatoria de un reconocimiento medico excluyente en todo caso",
+      "La superación obligatoria de un reconocimiento médico excluyente en todo caso",
       "Ningun requisito adicional"
     ],
     "correcta": 0,
-    "explicación": "Entre los requisitos sucesivos figura la toma de posesión dentro del plazo establecido, ademas del nombramiento por el órgano competente.",
+    "explicación": "Entre los requisitos sucesivos figura la toma de posesión dentro del plazo establecido, además del nombramiento por el órgano competente.",
     "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
   },
   {
@@ -119,7 +119,7 @@
       "El exceso o acumulación de tareas por plazo máximo de doce meses dentro de un período de dieciocho meses",
       "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
       "La cobertura de plazas vacantes por un máximo de cuatro años cuando no sea posible su cobertura por funcionarios de carrera",
-      "La ejecución de programas temporales con duración maxima de dos años ampliable a doce meses mas"
+      "La ejecución de programas temporales con duración máxima de dos años ampliable a doce meses más"
     ],
     "correcta": 1,
     "explicación": "El tema recoge la sustitución transitoria del titular como supuesto de nombramiento de funcionario interino.",
@@ -129,7 +129,7 @@
     "id": "topup-23-02",
     "pregunta": "La renuncia del funcionario, para producir la pérdida de la condición debe ser:",
     "opciones": [
-      "voluntaria y aceptada por la Administración, con los limites legales",
+      "voluntaria y aceptada por la Administración, con los límites legales",
       "siempre oral",
       "aprobada por los vecinos",
       "ratificada por el Pleno municipal en todos los casos"
@@ -144,12 +144,12 @@
     "pregunta": "En situaciones administrativas de los funcionarios, la excedencia por interés particular genera, como regla general:",
     "opciones": [
       "ausencia de retribuciones y sin reserva de puesto",
-      "plena reserva de puesto y sueldo integro",
-      "perdida automatica de la condición de funcionario",
+      "plena reserva de puesto y sueldo íntegro",
+      "pérdida automatica de la condición de funcionario",
       "nombramiento como personal eventual"
     ],
     "correcta": 0,
-    "explicación": "Es la modalidad mas abierta al interes personal, con efectos menos protectores.",
+    "explicación": "Es la modalidad más abierta al interés personal, con efectos menos protectores.",
     "referencia": "III.2 · Excedencias",
     "tema": 23
   },
@@ -186,7 +186,7 @@
     "pregunta": "En situaciones administrativas de los funcionarios, la suspensión provisional se acuerda durante la tramitación de un procedimiento cuando:",
     "opciones": [
       "sea necesario y conforme a la ley",
-      "el interesado quiera cobrar mas",
+      "el interesado quiera cobrar más",
       "lo solicite un vecino",
       "se trate de una licencia urbanística"
     ],
@@ -214,7 +214,7 @@
     "pregunta": "La renuncia a la condición de funcionario de carrera, para producir efectos debe ser:",
     "opciones": [
       "expresa y aceptada por la Administración salvo que la aceptación quede legalmente impedida",
-      "siempre tacita si el funcionario no acude al puesto",
+      "siempre tácita si el funcionario no acude al puesto",
       "verbal ante el superior inmediato",
       "aprobada por los representantes sindicales"
     ],
@@ -248,7 +248,7 @@
     ],
     "correcta": 0,
     "referencia": "III.2 · Excedencias",
-    "explicación": "La excedencia por interes particular suspende la prestación de servicios sin reserva ordinaria de puesto ni retribuciones.",
+    "explicación": "La excedencia por interés particular suspende la prestación de servicios sin reserva ordinaria de puesto ni retribuciones.",
     "tema": 23
   },
   {
@@ -269,14 +269,14 @@
     "id": "refine-23-06",
     "pregunta": "En situaciones administrativas de los funcionarios, la jubilación produce con carácter general:",
     "opciones": [
-      "la perdida de la condición de funcionario de carrera",
-      "el pase automatico a servicios especiales",
+      "la pérdida de la condición de funcionario de carrera",
+      "el pase automático a servicios especiales",
       "la suspensión provisional de funciones",
       "la permanencia indefinida en servicio activo"
     ],
     "correcta": 0,
     "referencia": "III.2 · Perdida de la condición de funcionario",
-    "explicación": "La jubilación figura entre las causas legales de perdida de la condición de funcionario de carrera.",
+    "explicación": "La jubilación figura entre las causas legales de pérdida de la condición de funcionario de carrera.",
     "tema": 23
   },
   {
@@ -290,7 +290,7 @@
       "Un contrato laboral indefinido"
     ],
     "correcta": 0,
-    "explicacion": "El TREBEP exige superar el proceso selectivo, nombramiento, acto de acatamiento de la Constitución y toma de posesión dentro del plazo.",
+    "explicación": "El TREBEP exige superar el proceso selectivo, nombramiento, acto de acatamiento de la Constitución y toma de posesión dentro del plazo.",
     "referencia": "Examen Estado 2026, art. 62 TREBEP; Tema III.2, adquisición de la condición de funcionario"
   },
   {
@@ -304,7 +304,7 @@
       "Expectativa de destino"
     ],
     "correcta": 0,
-    "explicacion": "La comisión de servicios no rompe el servicio activo; es una forma temporal de desempeño.",
+    "explicación": "La comisión de servicios no rompe el servicio activo; es una forma temporal de desempeño.",
     "referencia": "Examen Estado 2026, situaciones administrativas; Tema III.2"
   }
 ]

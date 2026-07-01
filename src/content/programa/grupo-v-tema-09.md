@@ -2,13 +2,13 @@
 grupo: "Grupo V. Competencias"
 tema: 9
 codigo: "Tema V.9"
-titulo: "Informatica básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestion de carpetas y archivos. Nociones básicas de seguridad informatica."
+titulo: "Informática básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática."
 estado: "borrador"
 ---
 
-## Informatica básica
+## Informática básica
 
-La informatica estudia el tratamiento automatico de información mediante sistemas compuestos por hardware, software, datos, redes y usuarios. En un puesto administrativo municipal es herramienta diaria para expedientes, registro, correo, ofimatica, sede electrónica, bases de datos y archivo.
+La informática estudia el tratamiento automático de información mediante sistemas compuestos por hardware, software, datos, redes y usuarios. En un puesto administrativo municipal es herramienta diaria para expedientes, registro, correo, ofimática, sede electrónica, bases de datos y archivo.
 
 La oposición no exige conocimientos de programación, sino manejo conceptual y práctico de herramientas habituales. Lo importante es entender que un ordenador administrativo forma parte de un entorno corporativo: usuarios, permisos, red, aplicaciones, seguridad y datos públicos.
 
@@ -27,15 +27,15 @@ El software son programas y sistemas: sistema operativo, aplicaciones, controlad
 | SSD/disco | Conserva archivos y aplicaciones. |
 | Placa base | Conecta componentes internos. |
 | Monitor | Muestra interfaz y documentos. |
-| Teclado y raton | Permiten introducir ordenes y datos. |
+| Teclado y raton | Permiten introducir órdenes y datos. |
 | Impresora/escaner | Salida e incorporación de documentos fisicos. |
 | Tarjeta de red | Conexion a red local o internet. |
 
 La diferencia entre RAM y almacenamiento suele preguntarse: la RAM es rapida y temporal; el disco conserva datos aunque se apague el equipo.
 
-| Concepto | Se recuerda asi |
+| Concepto | Se recuerda así |
 | --- | --- |
-| Hardware | Lo fisico: equipo, pantalla, teclado, disco, impresora. |
+| Hardware | Lo físico: equipo, pantalla, teclado, disco, impresora. |
 | Software | Programas: Windows, Word, Excel, navegador, antivirus. |
 | Datos | Documentos, expedientes, correos, imagenes, registros. |
 | Red | Conexion con internet, servidores, unidades compartidas y aplicaciones. |
@@ -82,7 +82,7 @@ Operaciones habituales:
 
 <mark>Advertencia:</mark> el escritorio local no debe ser archivo administrativo. Puede servir como zona temporal de trabajo, pero la documentación oficial debe conservarse en sistemas corporativos o expediente electrónico.
 
-## Gestion de carpetas y archivos
+## Gestión de carpetas y archivos
 
 Una carpeta organiza archivos. Un archivo contiene información y se identifica por nombre y extensión. La extensión indica tipo: `.docx`, `.xlsx`, `.pdf`, `.jpg`, `.zip`.
 
@@ -102,13 +102,13 @@ Eliminar no siempre destruye definitivamente: puede enviarse a papelera. En ento
 
 Buenas prácticas: usar nombres descriptivos, evitar caracteres problematicos, no mezclar versiones finales y borradores, no guardar claves en archivos de texto y comprobar que el documento adjunto es el correcto antes de enviarlo.
 
-## Seguridad informatica
+## Seguridad informática
 
-La seguridad busca proteger confidencialidad, integridad y disponibilidad. Riesgos frecuentes: contrasenas debiles, phishing, malware, ransomware, perdida de dispositivos, envio erroneo de correos, uso de USB no seguros, enlaces falsos y acceso indebido a expedientes.
+La seguridad busca proteger confidencialidad, integridad y disponibilidad. Riesgos frecuentes: contrasenas debiles, phishing, malware, ransomware, pérdida de dispositivos, envio erroneo de correos, uso de USB no seguros, enlaces falsos y acceso indebido a expedientes.
 
 Medidas básicas: contrasenas robustas, doble factor, bloqueo de pantalla, actualizaciones, antivirus, copias de seguridad, prudencia con adjuntos, verificación de remitentes, no compartir claves, usar redes seguras y respetar permisos.
 
-En Administración, la seguridad informatica se relaciona con protección de datos, Esquema Nacional de Seguridad, expediente electrónico y continuidad de servicios públicos.
+En Administración, la seguridad informática se relaciona con protección de datos, Esquema Nacional de Seguridad, expediente electrónico y continuidad de servicios públicos.
 
 | Riesgo | Ejemplo | Prevención |
 | --- | --- | --- |
@@ -125,11 +125,11 @@ Buenas prácticas mínimas:
 
 1. Bloquear pantalla al ausentarse.
 2. No compartir contrasenas.
-3. Usar doble factor si esta disponible.
+3. Usar doble factor si está disponible.
 4. Revisar destinatarios antes de enviar.
 5. No abrir adjuntos sospechosos.
 6. No instalar software no autorizado.
 7. Comunicar incidentes de seguridad cuanto antes.
 8. Respetar permisos: acceder solo a expedientes necesarios.
 
-<mark>Confidencialidad, integridad y disponibilidad</mark> son las tres ideas básicas: que solo acceda quien debe, que la información no se altere indebidamente y que los sistemas esten disponibles cuando se necesitan.
+<mark>Confidencialidad, integridad y disponibilidad</mark> son las tres ideas básicas: que solo acceda quien debe, que la información no se altere indebidamente y que los sistemas estén disponibles cuando se necesitan.

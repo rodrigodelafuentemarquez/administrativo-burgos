@@ -6,17 +6,17 @@
     "opciones": [
       "Por mayoría de 2/3 del Senado",
       "Por mayoría de 3/5 del Congreso",
-      "Por una mayoría de 3/5 de cada una de las Camaras",
-      "Por una mayoría de 2/3 de cada una de las Camaras"
+      "Por una mayoría de 3/5 de cada una de las Cámaras",
+      "Por una mayoría de 2/3 de cada una de las Cámaras"
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 1",
-    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoría de tres quintos en cada Camara."
+    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoría de tres quintos en cada Cámara."
   },
   {
     "id": "pdf-2025-burgos-q01",
     "tema": 1,
-    "pregunta": "En qué fecha fue publicada la Constitución Española en el Boletin Oficial del Estado?",
+    "pregunta": "¿En qué fecha fue publicada la Constitución Española en el Boletín Oficial del Estado?",
     "opciones": [
       "El 6 de diciembre de 1978",
       "El 27 de diciembre de 1978",
@@ -67,7 +67,7 @@
     ],
     "correcta": 0,
     "explicación": "El Tema 1 recoge expresamente los cuatro valores superiores del art. 1.1 CE.",
-    "referencia": "I.1 · 1.2 Características"
+    "referencia": "I.1 · 1.2 Carácterísticas"
   },
   {
     "id": "t01-p003",
@@ -226,7 +226,7 @@
   {
     "id": "t01-p014",
     "tema": 1,
-    "pregunta": "Según el art. 21 CE, ¿qué característica tienen las reuniones en lugares de tránsito público y las manifestaciones?",
+    "pregunta": "Según el art. 21 CE, ¿qué carácterística tienen las reuniones en lugares de tránsito público y las manifestaciones?",
     "opciones": [
       "Necesitan autorización previa",
       "Exigen comunicación previa a la autoridad",
@@ -290,7 +290,7 @@
       "La objeción de conciencia del art. 30 CE"
     ],
     "correcta": 0,
-    "explicacion": "El recurso de amparo protege el art. 14, los derechos de la Sección 1ª del Capítulo II y la objeción de conciencia del art. 30. La propiedad privada pertenece a la Sección 2ª.",
+    "explicación": "El recurso de amparo protege el art. 14, los derechos de la Sección 1ª del Capítulo II y la objeción de conciencia del art. 30. La propiedad privada pertenece a la Sección 2ª.",
     "referencia": "Tema I.1, Derechos fundamentales: garantía y suspensión"
   },
   {
@@ -304,7 +304,7 @@
       "El Preámbulo tiene eficacia articulada como los demás títulos"
     ],
     "correcta": 0,
-    "explicacion": "El Título Preliminar abarca los artículos 1 a 9. El Título I comprende los artículos 10 a 55, el Título IX regula el Tribunal Constitucional y la reforma está en el Título X.",
+    "explicación": "El Título Preliminar abarca los artículos 1 a 9. El Título I comprende los artículos 10 a 55, el Título IX regula el Tribunal Constitucional y la reforma está en el Título X.",
     "referencia": "Tema I.1, Estructura de la Constitución"
   },
   {
@@ -318,7 +318,7 @@
       "El derecho de reunión"
     ],
     "correcta": 0,
-    "explicacion": "El art. 55.1 permite suspender determinados derechos en excepción o sitio, pero no incluye la tutela judicial efectiva.",
+    "explicación": "El art. 55.1 permite suspender determinados derechos en excepción o sitio, pero no incluye la tutela judicial efectiva.",
     "referencia": "Tema I.1, Suspensión de derechos"
   },
   {
@@ -332,7 +332,7 @@
       "Soberanía nacional"
     ],
     "correcta": 0,
-    "explicacion": "La interdicción de la arbitrariedad impide actuaciones públicas caprichosas o carentes de justificación racional.",
+    "explicación": "La interdicción de la arbitrariedad impide actuaciones públicas caprichosas o carentes de justificación racional.",
     "referencia": "Tema I.1, Principios constitucionales"
   },
   {
@@ -346,7 +346,7 @@
       "Queda sustituido por informe del Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicacion": "En la reforma ordinaria del art. 167 CE el referéndum no es automático: procede si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
+    "explicación": "En la reforma ordinaria del art. 167 CE el referéndum no es automático: procede si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
     "referencia": "Tema I.1, reforma constitucional ordinaria"
   },
   {
@@ -360,7 +360,7 @@
       "Las disposiciones transitorias"
     ],
     "correcta": 0,
-    "explicacion": "El art. 168 CE se aplica, entre otros supuestos, a revisiones que afecten a la Sección 1.ª del Capítulo II del Título I.",
+    "explicación": "El art. 168 CE se aplica, entre otros supuestos, a revisiones que afecten a la Sección 1.ª del Capítulo II del Título I.",
     "referencia": "Tema I.1, reforma constitucional agravada"
   }
 ]

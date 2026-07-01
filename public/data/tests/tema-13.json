@@ -11,7 +11,7 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 31",
-    "explicación": "Contra los actos que no ponen fin a la via administrativa procede el recurso de alzada."
+    "explicación": "Contra los actos que no ponen fin a la vía administrativa procede el recurso de alzada."
   },
   {
     "id": "pdf-2025-burgos-q19",
@@ -30,10 +30,10 @@
   {
     "id": "pdf-2025-burgos-r01-lesividad",
     "tema": 13,
-    "pregunta": "Pueden las Administraciones Públicas impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados?",
+    "pregunta": "¿Pueden las Administraciones Públicas impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados?",
     "opciones": [
-      "Si, los actos administrativos anulables, previa su declaración de lesividad para el interes público",
-      "Si, los actos administrativos nulos, previa su declaración de lesividad para el interes público",
+      "Si, los actos administrativos anulables, previa su declaración de lesividad para el interés público",
+      "Si, los actos administrativos nulos, previa su declaración de lesividad para el interés público",
       "Si, los actos administrativos anulables, previo dictamen favorable del Consejo de Estado",
       "Si, los actos administrativos nulos, previo dictamen favorable del Consejo de Estado"
     ],
@@ -74,13 +74,13 @@
     "tema": 13,
     "pregunta": "De conformidad con el art. 109 LPACAP, las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
     "opciones": [
-      "En cualquier momento, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes ni sea contraria al principio de igualdad, al interes público o al ordenamiento jurídico",
+      "En cualquier momento, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
       "Solo dentro del plazo de un mes desde su notificación",
       "Unicamente si media autorización judicial previa",
       "Solo cuando hayan sido impugnados por el interesado en reposición"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge esa revocación con los limites legales de igualdad, interes público y respeto al ordenamiento.",
+    "explicación": "El tema recoge esa revocación con los límites legales de igualdad, interés público y respeto al ordenamiento.",
     "referencia": "II.4 · 6.4 Revocación de actos (art. 109 LPACAP)"
   },
   {
@@ -332,8 +332,8 @@
       "Las resoluciones que acuerden la aplicación de medidas provisionales"
     ],
     "correcta": 2,
-    "explicación": "El art. 114 LPACAP incluye los acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que ponen fin a la via administrativa.",
-    "referencia": "II.4 · 2.2 Actos que ponen fin a la via administrativa"
+    "explicación": "El art. 114 LPACAP incluye los acuerdos, pactos, convenios o contratos finalizadores del procedimiento entre los actos que ponen fin a la vía administrativa.",
+    "referencia": "II.4 · 2.2 Actos que ponen fin a la vía administrativa"
   },
   {
     "id": "t19-p001",
@@ -570,7 +570,7 @@
       "Cualquier resolución de órgano administrativo sin excepción"
     ],
     "correcta": 0,
-    "explicacion": "El art. 114 LPACAP incluye entre los actos que ponen fin a la vía administrativa los acuerdos, pactos, convenios o contratos finalizadores del procedimiento.",
+    "explicación": "El art. 114 LPACAP incluye entre los actos que ponen fin a la vía administrativa los acuerdos, pactos, convenios o contratos finalizadores del procedimiento.",
     "referencia": "Examen Estado 2026, art. 114 LPACAP; Tema II.4, recursos administrativos"
   },
   {
@@ -584,7 +584,7 @@
       "Recurso de súplica ante el Senado"
     ],
     "correcta": 0,
-    "explicacion": "Frente a actos que ponen fin a la vía administrativa cabe reposición potestativa o acudir directamente a la jurisdicción contencioso-administrativa.",
+    "explicación": "Frente a actos que ponen fin a la vía administrativa cabe reposición potestativa o acudir directamente a la jurisdicción contencioso-administrativa.",
     "referencia": "Tema II.4, recurso de reposición"
   },
   {
@@ -599,7 +599,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · art. 46 LJCA",
-    "explicación": "La impugnación directa de disposiciones generales se formula, con carácter general, en dos meses desde la publicación."
+    "explicación": "La impugnación directa de disposiciones generales se fórmula, con carácter general, en dos meses desde la publicación."
   },
   {
     "id": "realstyle-ii04-02",

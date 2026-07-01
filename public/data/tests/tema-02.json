@@ -165,7 +165,7 @@
     ],
     "correcta": 0,
     "explicación": "El tema recoge expresamente que para ejercer la Regencia es preciso ser español y mayor de edad.",
-    "referencia": "I.2 · 3.3 Características generales de la Regencia"
+    "referencia": "I.2 · 3.3 Carácterísticas generales de la Regencia"
   },
   {
     "id": "t03-p013",
@@ -450,7 +450,7 @@
   {
     "id": "t04-p016",
     "tema": 2,
-    "pregunta": "Según el art. 76 CE, señale la afirmación correcta sobre las comisiones de investigación de las Camaras:",
+    "pregunta": "Según el art. 76 CE, señale la afirmación correcta sobre las comisiones de investigación de las Cámaras:",
     "opciones": [
       "Sus conclusiones son vinculantes para los jueces y tribunales",
       "La comparecencia ante ellas es voluntaria",
@@ -466,10 +466,10 @@
     "tema": 2,
     "pregunta": "De acuerdo con el art. 67 CE, señale la afirmación correcta:",
     "opciones": [
-      "Nadie podrá ser miembro de las dos Camaras simultáneamente, salvo el Presidente del Gobierno",
-      "Nadie podrá ser miembro de las dos Camaras simultáneamente",
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente, salvo el Presidente del Gobierno",
+      "Nadie podrá ser miembro de las dos Cámaras simultáneamente",
       "Podra acumularse libremente el acta de una Asamblea autonómica con la de Diputado al Congreso",
-      "Los Ministros pueden ser miembros de las dos Camaras simultáneamente"
+      "Los Ministros pueden ser miembros de las dos Cámaras simultáneamente"
     ],
     "correcta": 1,
     "explicación": "El art. 67 CE prohíbe ser miembro de ambas Cámaras a la vez.",
@@ -564,7 +564,7 @@
     "tema": 2,
     "pregunta": "Según la Constitución Española, ¿en qué supuesto puede dictar el Gobierno un decreto-ley?",
     "opciones": [
-      "Cuándo estime conveniente acelerar una reforma",
+      "Cuando estime conveniente acelerar una reforma",
       "En caso de extraordinaria y urgente necesidad",
       "Solo previa autorización del Senado",
       "Solo para modificar la Constitución"
@@ -934,7 +934,7 @@
       "Proponer candidato a Presidente del Gobierno"
     ],
     "correcta": 0,
-    "explicacion": "Los actos relativos al nombramiento y relevo de los miembros de la Casa del Rey son excepción al refrendo.",
+    "explicación": "Los actos relativos al nombramiento y relevo de los miembros de la Casa del Rey son excepción al refrendo.",
     "referencia": "Tema I.2, Corona y refrendo"
   },
   {
@@ -948,7 +948,7 @@
       "Mayoría absoluta del Congreso y del Senado"
     ],
     "correcta": 0,
-    "explicacion": "El art. 99 CE exige mayoría absoluta en primera votación y mayoría simple en la segunda.",
+    "explicación": "El art. 99 CE exige mayoría absoluta en primera votación y mayoría simple en la segunda.",
     "referencia": "Tema I.2, Gobierno e investidura"
   },
   {
@@ -959,10 +959,10 @@
       "La inviolabilidad protege opiniones y votos; la inmunidad limita detención y procesamiento",
       "La inviolabilidad limita detención y procesamiento; la inmunidad protege opiniones y votos",
       "Ambas se aplican solo a los Diputados, no a los Senadores",
-      "Ambas cesan al terminar cada periodo ordinario de sesiones"
+      "Ambas cesan al terminar cada período ordinario de sesiones"
     ],
     "correcta": 0,
-    "explicacion": "La inviolabilidad cubre opiniones y votos emitidos en el ejercicio del cargo; la inmunidad se refiere a detención y procesamiento.",
+    "explicación": "La inviolabilidad cubre opiniones y votos emitidos en el ejercicio del cargo; la inmunidad se refiere a detención y procesamiento.",
     "referencia": "Tema I.2, Cortes Generales"
   },
   {
@@ -976,13 +976,13 @@
       "Presidente del Congreso, Presidente del Senado y veinte vocales"
     ],
     "correcta": 0,
-    "explicacion": "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales.",
+    "explicación": "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales.",
     "referencia": "Tema I.2, Poder Judicial"
   },
   {
     "id": "estado2026-i02-01",
     "tema": 2,
-    "pregunta": "De acuerdo con el art. 67 CE, ¿qué incompatibilidad parlamentaria se formula de manera expresa?",
+    "pregunta": "De acuerdo con el art. 67 CE, ¿qué incompatibilidad parlamentaria se fórmula de manera expresa?",
     "opciones": [
       "Nadie podrá ser miembro de las dos Cámaras simultáneamente",
       "Los Ministros pueden ser miembros de ambas Cámaras simultáneamente",
@@ -990,7 +990,7 @@
       "Un Diputado puede acumular siempre acta autonómica y acta del Congreso"
     ],
     "correcta": 0,
-    "explicacion": "El art. 67 CE impide ser miembro de las dos Cámaras simultáneamente y también acumular acta autonómica con la de Diputado al Congreso.",
+    "explicación": "El art. 67 CE impide ser miembro de las dos Cámaras simultáneamente y también acumular acta autonómica con la de Diputado al Congreso.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 3; Tema I.2, Cortes Generales"
   },
   {
@@ -1004,7 +1004,7 @@
       "La mayoría absoluta de ambas Cámaras"
     ],
     "correcta": 0,
-    "explicacion": "La cuestión de confianza se decide solo en el Congreso y se entiende otorgada por mayoría simple.",
+    "explicación": "La cuestión de confianza se decide solo en el Congreso y se entiende otorgada por mayoría simple.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 5; Tema I.2, Gobierno y Cortes"
   },
   {
@@ -1018,7 +1018,7 @@
       "El Fiscal General del Estado lo propone al Gobierno"
     ],
     "correcta": 0,
-    "explicacion": "El Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
+    "explicación": "El Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 4; Tema I.2, Poder Judicial"
   }
 ]

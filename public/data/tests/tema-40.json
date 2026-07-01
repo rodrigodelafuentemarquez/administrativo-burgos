@@ -16,7 +16,7 @@
   {
     "id": "t36-p002",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, una característica fundamental del ordenador es la:",
+    "pregunta": "En informática básica y Windows 11, una carácterística fundamental del ordenador es la:",
     "opciones": [
       "velocidad",
       "inalienabilidad",
@@ -254,7 +254,7 @@
   {
     "id": "t36-p019",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, una característica propia de los SSD frente a los HDD es que:",
+    "pregunta": "En informática básica y Windows 11, una carácterística propia de los SSD frente a los HDD es que:",
     "opciones": [
       "no tienen partes móviles",
       "solo pueden usarse como almacenamiento externo",
@@ -536,7 +536,7 @@
     "tema": 40,
     "pregunta": "¿Cuál es la función principal de Microsoft Copilot en Windows 11?",
     "opciones": [
-      "Gestionar de forma autonoma la seguridad de la red sin intervención del administrador",
+      "Gestionar de forma autónoma la seguridad de la red sin intervención del administrador",
       "Actuar como asistente de inteligencia artificial para responder preguntas, buscar información y ayudar con tareas",
       "Servir exclusivamente como sistema de almacenamiento en la nube",
       "Sustituir al Explorador de archivos en la gestión de carpetas"
@@ -570,7 +570,7 @@
       "Antivirus"
     ],
     "correcta": 0,
-    "explicacion": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones.",
+    "explicación": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones.",
     "referencia": "Examen Estado 2026, informática básica; Tema V.9"
   },
   {
@@ -584,7 +584,7 @@
       "Compresor de archivos"
     ],
     "correcta": 0,
-    "explicacion": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso.",
+    "explicación": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso.",
     "referencia": "Examen Estado 2026, seguridad informática; Tema V.9"
   },
   {
@@ -598,7 +598,7 @@
       "Tarjeta de red"
     ],
     "correcta": 0,
-    "explicacion": "La memoria RAM almacena temporalmente datos y procesos utilizados durante la ejecución.",
+    "explicación": "La memoria RAM almacena temporalmente datos y procesos utilizados durante la ejecución.",
     "referencia": "Examen Estado 2026, hardware; Tema V.9"
   },
   {
@@ -612,7 +612,7 @@
       "3.000.000 KB"
     ],
     "correcta": 0,
-    "explicacion": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB.",
+    "explicación": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB.",
     "referencia": "Examen Estado 2026, unidades de información; Tema V.9"
   },
   {
@@ -626,7 +626,7 @@
       "La papelera de reciclaje"
     ],
     "correcta": 0,
-    "explicacion": "Windows 11 permite acceder a notificaciones desde el área de calendario y notificación en la esquina inferior derecha.",
+    "explicación": "Windows 11 permite acceder a notificaciones desde el área de calendario y notificación en la esquina inferior derecha.",
     "referencia": "Examen Estado 2026, Windows 11; Tema V.9"
   },
   {
@@ -640,7 +640,7 @@
       "Eliminar automáticamente malware"
     ],
     "correcta": 0,
-    "explicacion": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto.",
+    "explicación": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto.",
     "referencia": "Examen Estado 2026, Windows 11; Tema V.9"
   }
 ]

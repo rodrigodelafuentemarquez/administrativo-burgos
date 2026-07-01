@@ -219,7 +219,7 @@
       "ninguna norma específica"
     ],
     "correcta": 0,
-    "explicación": "El personal laboral público tambien esta sujeto a reglas de incompatibilidad y conflictos de interes.",
+    "explicación": "El personal laboral público también está sujeto a reglas de incompatibilidad y conflictos de interés.",
     "referencia": "III.3 · Incompatibilidades",
     "tema": 24
   },
@@ -241,7 +241,7 @@
     "id": "refine-24-01",
     "pregunta": "La selección del personal laboral al servicio de las Administraciones Públicas debe ajustarse a los principios de:",
     "opciones": [
-      "igualdad, merito, capacidad y publicidad",
+      "igualdad, mérito, capacidad y publicidad",
       "libre designación absoluta",
       "designación directa por el alcalde sin proceso",
       "antiguedad exclusiva en la Administración"
@@ -267,7 +267,7 @@
   },
   {
     "id": "refine-24-03",
-    "pregunta": "Las incompatibilidades del personal laboral público no se rigen solo por el Estatuto de los Trabajadores, sino tambien por:",
+    "pregunta": "Las incompatibilidades del personal laboral público no se rigen solo por el Estatuto de los Trabajadores, sino también por:",
     "opciones": [
       "la normativa específica de incompatibilidades del sector público",
       "la ley electoral general",
@@ -276,7 +276,7 @@
     ],
     "correcta": 0,
     "referencia": "III.3 · Derechos, deberes e incompatibilidades",
-    "explicación": "El personal laboral público queda sujeto ademas al régimen específico de incompatibilidades del sector público.",
+    "explicación": "El personal laboral público queda sujeto además al régimen específico de incompatibilidades del sector público.",
     "tema": 24
   },
   {
@@ -290,7 +290,7 @@
       "Nombramiento como funcionario de carrera"
     ],
     "correcta": 0,
-    "explicacion": "El examen de Estado 2026 pregunta por la anotación de bajas temporales y definitivas respecto del personal laboral.",
+    "explicación": "El examen de Estado 2026 pregunta por la anotación de bajas temporales y definitivas respecto del personal laboral.",
     "referencia": "Examen Estado 2026, Registro Central de Personal; Tema III.3, personal laboral"
   },
   {
@@ -304,7 +304,7 @@
       "El puesto tenga ordenador asignado"
     ],
     "correcta": 0,
-    "explicacion": "El ámbito subjetivo de un convenio colectivo viene delimitado por su regulación y puede excluir colectivos sometidos a régimen específico.",
+    "explicación": "El ámbito subjetivo de un convenio colectivo viene delimitado por su regulación y puede excluir colectivos sometidos a régimen específico.",
     "referencia": "Examen Estado 2026, personal laboral; Tema III.3"
   }
 ]

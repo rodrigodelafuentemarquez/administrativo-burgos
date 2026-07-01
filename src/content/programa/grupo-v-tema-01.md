@@ -32,7 +32,7 @@ Entre los principios destacan igualdad de trato y oportunidades, transversalidad
 
 La acción positiva permite adoptar medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad, siempre que sean razonables y proporcionadas.
 
-La transversalidad significa que la igualdad no se limita al area de igualdad. Debe incorporarse a ordenanzas, presupuestos, contratos, subvenciones, recursos humanos, comunicación, policia local, deportes, cultura, urbanismo y servicios sociales. En un Ayuntamiento, esto puede reflejarse en lenguaje administrativo inclusivo, clausulas sociales, datos desagregados, protocolos de acoso, formación y planes de igualdad.
+La transversalidad significa que la igualdad no se limita al area de igualdad. Debe incorporarse a ordenanzas, presupuestos, contratos, subvenciones, recursos humanos, comunicación, policía local, deportes, cultura, urbanismo y servicios sociales. En un Ayuntamiento, esto puede reflejarse en lenguaje administrativo inclusivo, clausulas sociales, datos desagregados, protocolos de acoso, formación y planes de igualdad.
 
 ## Violencia de género
 
@@ -40,21 +40,21 @@ La Ley Orgánica 1/2004 tiene por objeto actuar contra la violencia que, como ma
 
 Su enfoque es integral: prevención, sensibilización, educación, derechos de las victimas, asistencia social, asistencia jurídica, protección laboral, prestaciones, tutela judicial y medidas penales.
 
-Los poderes públicos deben garantizar información, atención, apoyo, protección y recuperación. En el ámbito municipal, la violencia de género se relaciona con servicios sociales, policia local, empadronamiento protegido, atención ciudadana, igualdad y coordinación institucional.
+Los poderes públicos deben garantizar información, atención, apoyo, protección y recuperación. En el ámbito municipal, la violencia de género se relaciona con servicios sociales, policía local, empadronamiento protegido, atención ciudadana, igualdad y coordinación institucional.
 
 | Ambito de protección | Contenido |
 | --- | --- |
 | Información y asistencia | Derecho a recibir información clara sobre recursos y ayudas. |
 | Asistencia social integral | Atención psicologica, social, educativa y de apoyo a menores cuando proceda. |
-| Asistencia jurídica | Orientación y defensa jurídica en los terminos legales. |
+| Asistencia jurídica | Orientación y defensa jurídica en los términos legales. |
 | Protección laboral | Derechos de movilidad, reducción o reordenación de jornada y otras medidas. |
 | Protección administrativa | Confidencialidad, coordinación institucional y trato especializado. |
 
-Para el personal administrativo, un punto crucial es la confidencialidad. Datos de domicilio, padron, telefonos, expedientes de servicios sociales o actuaciones policiales pueden afectar directamente a la seguridad de la victima. La atención debe ser respetuosa, discreta y orientada a derivar al recurso competente.
+Para el personal administrativo, un punto crucial es la confidencialidad. Datos de domicilio, padrón, telefonos, expedientes de servicios sociales o actuaciones policiales pueden afectar directamente a la seguridad de la victima. La atención debe ser respetuosa, discreta y orientada a derivar al recurso competente.
 
 ## Personas trans y derechos LGTBI
 
-La Ley 4/2023 tiene por objeto garantizar y promover el derecho a la igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales, asi como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
+La Ley 4/2023 tiene por objeto garantizar y promover el derecho a la igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales, así como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
 
 Reconoce principios de igualdad de trato, no discriminación, respeto a la diversidad, libre desarrollo de la personalidad, integridad física y moral, protección frente a violencias y promoción de políticas públicas inclusivas.
 
@@ -82,6 +82,6 @@ Aunque son normas distintas, comparten una idea: la Administración no debe ser 
 
 ## Aplicación administrativa
 
-Un Ayuntamiento debe incorporar estas normas en empleo público, atención ciudadana, policia local, servicios sociales, subvenciones, contratación, comunicación institucional, formación del personal, protocolos internos y tratamiento de quejas.
+Un Ayuntamiento debe incorporar estas normas en empleo público, atención ciudadana, policía local, servicios sociales, subvenciones, contratación, comunicación institucional, formación del personal, protocolos internos y tratamiento de quejas.
 
 La igualdad no es un tema declarativo: afecta a procedimientos, lenguaje administrativo, datos personales, protección de victimas, accesibilidad de servicios y trato cotidiano a la ciudadania.
