@@ -69,6 +69,7 @@ const phaseOf = (date: Date) => {
   if (date < new Date('2027-04-15T00:00:00')) return 'Preparación 2º ejercicio';
   return 'Preparación 3º ejercicio';
 };
+const isVacation = (dateKey: string) => dateKey >= '2026-08-22' && dateKey <= '2026-08-30';
 const iso = (date: Date) => date.toISOString().slice(0, 10);
 const addDays = (date: Date, days: number) => {
   const next = new Date(date);
@@ -104,8 +105,8 @@ const introduceTopicTask = (dateKey: string, minutes: number): PlanTask => {
   };
 };
 const rereadRecentTask = (dateKey: string, minutes: number): PlanTask => {
-  const pool = introducedTopics.length ? introducedTopics : [orderedTopics[0]];
-  const topic = pool[Math.max(0, pool.length - 2 - (reviewCursor % Math.min(pool.length, 3)))];
+  const index = ((studyCursor - 1 - (reviewCursor % 2)) % orderedTopics.length + orderedTopics.length) % orderedTopics.length;
+  const topic = orderedTopics[index] ?? orderedTopics[0];
   reviewCursor += 1;
   return {
     id: `${dateKey}-reread-${reviewCursor}`,
@@ -173,12 +174,16 @@ const buildDay = (date: Date): PlanDay => {
   const dow = date.getDay();
   const isSaturday = dow === 6;
   const isSunday = dow === 0;
-  const phase = phaseOf(date);
+  const phase = isVacation(dateKey) ? 'Vacaciones' : phaseOf(date);
   const tasks: PlanTask[] = [];
   let title = '';
   let focus = '';
 
-  if (phase === 'Vuelta 1') {
+  if (isVacation(dateKey)) {
+    title = 'Vacaciones: mantenimiento';
+    focus = 'Sin temario nuevo. Poco repaso y tests diarios para no perder ritmo.';
+    tasks.push(testTask(dateKey, 45, '3 tests de 15 preguntas'), reviewTask(dateKey, 25, 'Repaso ligero'));
+  } else if (phase === 'Vuelta 1') {
     title = 'Temario seguido + test';
     focus = 'Leer varios temas en orden oficial y testar solo lo ya visto.';
     if (isSaturday) {
