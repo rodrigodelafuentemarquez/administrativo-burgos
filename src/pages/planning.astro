@@ -40,41 +40,25 @@ const developmentUrl = `${base}desarrollo`;
 const topics = officialTopics.map((topic) => {
   const slug = slugOf(topic.grupo, topic.numero);
   const words = wordCountBySlug.get(slug) ?? 1100;
-  const weight = topic.prioridad === 'crítica' ? 1.55 : topic.prioridad === 'alta' ? 1.25 : 1;
   return {
     ...topic,
     slug,
     code: `${topic.grupo}.${topic.numero}`,
     title: titleBySlug.get(slug) ?? topic.titulo,
     words,
-    units: Math.max(1, Math.ceil((words / 850) * weight)),
   };
 });
 
-const byGroup = new Map<string, typeof topics>();
-topics.forEach((topic) => {
-  byGroup.set(topic.grupo, [...(byGroup.get(topic.grupo) ?? []), topic]);
-});
-
-const buildStudyQueue = () => {
-  const groupOrder = ['I', 'II', 'III', 'IV', 'V'];
-  return groupOrder.flatMap((group) =>
-    (byGroup.get(group) ?? []).flatMap((topic) =>
-      Array.from({ length: topic.units }, (_, index) => ({
-        topic,
-        part: index + 1,
-        total: topic.units,
-      }))
-    )
-  );
-};
-
-const weightedReviewTopics = [...topics].sort((a, b) => {
+const groupOrder = ['I', 'II', 'III', 'IV', 'V'];
+const orderedTopics = [...topics].sort((a, b) =>
+  (groupOrder.indexOf(a.grupo) - groupOrder.indexOf(b.grupo)) || (a.numero - b.numero)
+);
+const priorityTopics = [...topics].sort((a, b) => {
   const priority = { crítica: 3, alta: 2, normal: 1 };
   return (priority[b.prioridad] - priority[a.prioridad]) || (b.words - a.words);
 });
-const criticalTopics = weightedReviewTopics.filter((topic) => topic.prioridad === 'crítica');
-const practicalTopics = weightedReviewTopics.filter((topic) => ['III', 'IV', 'V'].includes(topic.grupo));
+const criticalTopics = priorityTopics.filter((topic) => topic.prioridad === 'crítica');
+const practicalTopics = orderedTopics.filter((topic) => ['III', 'IV', 'V'].includes(topic.grupo));
 
 const start = new Date('2026-07-06T12:00:00');
 const end = new Date('2027-05-31T12:00:00');
@@ -91,54 +75,75 @@ const addDays = (date: Date, days: number) => {
   next.setDate(next.getDate() + days);
   return next;
 };
-const pick = <T,>(items: T[], index: number) => items[index % items.length];
-
-const studyQueue = buildStudyQueue();
 let studyCursor = 0;
 let reviewCursor = 0;
 let criticalCursor = 0;
 let practicalCursor = 0;
 let dayNumber = 0;
+const introducedTopics: typeof orderedTopics = [];
+const topicReadCounts = new Map<string, number>();
 
-const studyTask = (dateKey: string, minutes: number, weekend = false): PlanTask => {
-  const item = studyQueue[studyCursor % studyQueue.length];
+const pickFromIntroduced = (offset = 0) => {
+  const pool = introducedTopics.length ? introducedTopics : [orderedTopics[0]];
+  return pool[(reviewCursor + offset) % pool.length];
+};
+const introduceTopicTask = (dateKey: string, minutes: number): PlanTask => {
+  const topic = orderedTopics[studyCursor % orderedTopics.length];
+  const count = (topicReadCounts.get(topic.code) ?? 0) + 1;
+  topicReadCounts.set(topic.code, count);
   studyCursor += 1;
-  const suffix = item.total > 1 ? ` bloque ${item.part}/${item.total}` : '';
+  if (!introducedTopics.some((seen) => seen.code === topic.code)) introducedTopics.push(topic);
+  const labelPrefix = count === 1 ? 'Leer' : `${count}ª lectura`;
   return {
     id: `${dateKey}-study-${studyCursor}`,
     kind: 'estudio',
-    label: `Estudiar Tema ${item.topic.code}${suffix}`,
-    detail: `${item.topic.title}. Subraya artículos, plazos, órganos y excepciones; cierra con un mini-esquema de 8-10 líneas.`,
-    minutes,
-    href: topicUrl(item.topic.slug),
-  };
-};
-const reviewTask = (dateKey: string, minutes: number, scope = 'repaso activo'): PlanTask => {
-  const topic = pick(weightedReviewTopics, reviewCursor++);
-  return {
-    id: `${dateKey}-review-${reviewCursor}`,
-    kind: 'repaso',
-    label: `1 hora de ${scope}: Tema ${topic.code}`,
-    detail: `${topic.title}. Relee solo esquemas, tablas y marcas; escribe de memoria los puntos que más caen.`,
+    label: `${labelPrefix} Tema ${topic.code}`,
+    detail: `${topic.title}. Lectura activa: estructura, artículos/plazos y 5 ideas que puedan caer en test.`,
     minutes,
     href: topicUrl(topic.slug),
   };
 };
-const testTask = (dateKey: string, minutes: number, label = '3 tests de 10 preguntas'): PlanTask => {
-  const t1 = pick(weightedReviewTopics, reviewCursor + 1);
-  const t2 = pick(weightedReviewTopics, reviewCursor + 5);
-  const t3 = pick(weightedReviewTopics, reviewCursor + 11);
+const rereadRecentTask = (dateKey: string, minutes: number): PlanTask => {
+  const pool = introducedTopics.length ? introducedTopics : [orderedTopics[0]];
+  const topic = pool[Math.max(0, pool.length - 2 - (reviewCursor % Math.min(pool.length, 3)))];
+  reviewCursor += 1;
+  return {
+    id: `${dateKey}-reread-${reviewCursor}`,
+    kind: 'estudio',
+    label: `Releer Tema ${topic.code}`,
+    detail: `${topic.title}. Segunda lectura rápida: índice, epígrafes, artículos y errores de test.`,
+    minutes,
+    href: topicUrl(topic.slug),
+  };
+};
+const reviewTask = (dateKey: string, minutes: number, scope = 'repaso'): PlanTask => {
+  const topic = pickFromIntroduced();
+  reviewCursor += 1;
+  return {
+    id: `${dateKey}-review-${reviewCursor}`,
+    kind: 'repaso',
+    label: `${scope}: Tema ${topic.code}`,
+    detail: `${topic.title}. Relee solo esquema, marcas y fallos; no vuelvas a estudiar todo el tema.`,
+    minutes,
+    href: topicUrl(topic.slug),
+  };
+};
+const testTask = (dateKey: string, minutes: number, label = '3 tests de 15 preguntas'): PlanTask => {
+  const t1 = pickFromIntroduced(0);
+  const t2 = pickFromIntroduced(1);
+  const t3 = pickFromIntroduced(2);
   return {
     id: `${dateKey}-test-${dayNumber}`,
     kind: 'test',
     label,
-    detail: `Haz bloques cortos mezclando ${t1.code}, ${t2.code} y ${t3.code}. Corrige al momento y apunta fallos repetidos.`,
+    detail: `Solo con temas ya vistos: ${t1.code}, ${t2.code} y ${t3.code}. Corrige al momento y guarda fallos/dudosas.`,
     minutes,
     href: testUrl,
   };
 };
 const practicalTask = (dateKey: string, minutes: number): PlanTask => {
-  const topic = pick(practicalTopics, practicalCursor++);
+  const topic = practicalTopics[practicalCursor % practicalTopics.length];
+  practicalCursor += 1;
   return {
     id: `${dateKey}-practical-${practicalCursor}`,
     kind: 'practico',
@@ -149,7 +154,9 @@ const practicalTask = (dateKey: string, minutes: number): PlanTask => {
   };
 };
 const developmentTask = (dateKey: string, minutes: number): PlanTask => {
-  const topic = pick(criticalTopics.length ? criticalTopics : weightedReviewTopics, criticalCursor++);
+  const pool = criticalTopics.length ? criticalTopics : priorityTopics;
+  const topic = pool[criticalCursor % pool.length];
+  criticalCursor += 1;
   return {
     id: `${dateKey}-development-${criticalCursor}`,
     kind: 'desarrollo',
@@ -170,37 +177,36 @@ const buildDay = (date: Date): PlanDay => {
   const tasks: PlanTask[] = [];
   let title = '';
   let focus = '';
-  let load = isSaturday ? '5 h' : isSunday ? '4 h' : '3 h';
 
   if (phase === 'Vuelta 1') {
-    title = 'Construir base y primera memoria';
-    focus = 'Avanzar temario ponderando longitud, con repaso espaciado desde el primer día.';
+    title = 'Temario seguido + test';
+    focus = 'Leer varios temas en orden oficial y testar solo lo ya visto.';
     if (isSaturday) {
-      tasks.push(studyTask(dateKey, 120, true), studyTask(dateKey, 90, true), reviewTask(dateKey, 60), testTask(dateKey, 30, 'Simulacro parcial de 35 preguntas'));
+      tasks.push(introduceTopicTask(dateKey, 55), introduceTopicTask(dateKey, 55), rereadRecentTask(dateKey, 35), testTask(dateKey, 75, '5 tests de 15 preguntas'));
     } else if (isSunday) {
-      tasks.push(reviewTask(dateKey, 90, 'repaso semanal'), developmentTask(dateKey, 75), practicalTask(dateKey, 75));
+      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas'), reviewTask(dateKey, 45, 'Repaso de fallos'), reviewTask(dateKey, 45, 'Segunda vuelta rápida'));
     } else {
-      tasks.push(studyTask(dateKey, 90), reviewTask(dateKey, 60), testTask(dateKey, 30));
+      tasks.push(introduceTopicTask(dateKey, 60), rereadRecentTask(dateKey, 30), testTask(dateKey, 60), reviewTask(dateKey, 30));
     }
   } else if (phase === 'Consolidación') {
-    title = 'Cerrar vuelta 2 y subir test';
-    focus = 'Menos lectura nueva, más recuperación activa, corrección de fallos y temas críticos.';
+    title = 'Relectura + test fuerte';
+    focus = 'Segundas lecturas en orden, muchos tests y corrección de fallos.';
     if (isSaturday) {
-      tasks.push(testTask(dateKey, 80, 'Simulacro de 70 preguntas'), reviewTask(dateKey, 90, 'corrección de simulacro'), practicalTask(dateKey, 80), developmentTask(dateKey, 50));
+      tasks.push(testTask(dateKey, 90, 'Simulacro de 70 preguntas'), reviewTask(dateKey, 60, 'Corrección'), introduceTopicTask(dateKey, 45), introduceTopicTask(dateKey, 45));
     } else if (isSunday) {
-      tasks.push(reviewTask(dateKey, 90, 'arrastre semanal'), developmentTask(dateKey, 90), testTask(dateKey, 60, '2 tests de 20 preguntas'));
+      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas'), reviewTask(dateKey, 60, 'Fallos de la semana'));
     } else {
-      tasks.push(reviewTask(dateKey, 60), testTask(dateKey, 50, '3 tests de 12 preguntas'), developmentTask(dateKey, 40), practicalTask(dateKey, 30));
+      tasks.push(introduceTopicTask(dateKey, 40), testTask(dateKey, 75, '5 tests de 15 preguntas'), reviewTask(dateKey, 35, 'Fallos'), introduceTopicTask(dateKey, 30));
     }
   } else if (phase === 'Ventana 1º ejercicio') {
-    title = 'Modo examen test sin soltar 2º y 3º';
-    focus = 'Prioridad al primer ejercicio: velocidad, penalización, fallos y simulacros completos.';
+    title = 'Modo test';
+    focus = 'Primer ejercicio: simulacro, velocidad y fallos.';
     if (isSaturday) {
-      tasks.push(testTask(dateKey, 100, 'Simulacro oficial de 70 preguntas'), reviewTask(dateKey, 100, 'corrección profunda'), developmentTask(dateKey, 60), practicalTask(dateKey, 40));
+      tasks.push(testTask(dateKey, 100, 'Simulacro oficial de 70 preguntas'), reviewTask(dateKey, 80, 'Corrección profunda'), testTask(dateKey, 45, '3 tests de 15 preguntas'));
     } else if (isSunday) {
-      tasks.push(reviewTask(dateKey, 90, 'leyes críticas'), practicalTask(dateKey, 90), developmentTask(dateKey, 60));
+      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas'), reviewTask(dateKey, 60, 'Fallos y dudosas'));
     } else {
-      tasks.push(testTask(dateKey, 55, '3 tests de 15 preguntas'), reviewTask(dateKey, 60, 'fallos y dudosas'), developmentTask(dateKey, 35), practicalTask(dateKey, 30));
+      tasks.push(testTask(dateKey, 75, '5 tests de 15 preguntas'), reviewTask(dateKey, 45, 'Fallos y dudosas'), introduceTopicTask(dateKey, 45));
     }
   } else if (phase === 'Preparación 2º ejercicio') {
     title = 'Supuesto práctico con mantenimiento de test';
@@ -225,6 +231,7 @@ const buildDay = (date: Date): PlanDay => {
   }
 
   const minutes = tasks.reduce((sum, task) => sum + task.minutes, 0);
+  const load = minutes >= 60 ? `${Math.floor(minutes / 60)} h${minutes % 60 ? ` ${minutes % 60} min` : ''}` : `${minutes} min`;
   if (!tasks.length) {
     tasks.push({
       id: `${dateKey}-rest`,
@@ -244,7 +251,6 @@ for (let date = start; date <= end; date = addDays(date, 1)) {
 }
 
 const planJson = JSON.stringify(planDays);
-const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
 ---
 
 <Layout title="Planning de estudio">
@@ -276,35 +282,7 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
 
       <aside class="planning-detail" aria-live="polite">
         <div id="day-detail"></div>
-        <div class="planning-detail-actions">
-          <button class="btn btn-outline-danger btn-sm" id="reset-plan" type="button">Reiniciar checks</button>
-        </div>
       </aside>
-    </section>
-
-    <details class="planning-notes">
-      <summary>Criterio del planning</summary>
-      <div class="planning-method" aria-label="Criterios del plan">
-        <div>
-          <h2 class="h4">Orden real</h2>
-          <p>Estudio nuevo de I.1 a V.11; los temas largos ocupan varios bloques seguidos.</p>
-        </div>
-        <div>
-          <h2 class="h4">Ritmo</h2>
-          <p>Entre semana: 3 h. Fin de semana: simulacro, repaso semanal, práctico y desarrollo.</p>
-        </div>
-        <div>
-          <h2 class="h4">Peso</h2>
-          <p>Longitud real, prioridad y ejercicio. Más largos: {heavyTopics.slice(0, 4).map((topic) => `Tema ${topic.code}`).join(', ')}.</p>
-        </div>
-      </div>
-    </details>
-
-    <section class="planning-summary" aria-label="Fases">
-      <article><span>1</span><strong>Vuelta 1</strong><small>Orden oficial + test corto.</small></article>
-      <article><span>2</span><strong>Consolidación</strong><small>Fallos, simulacros e índices.</small></article>
-      <article><span>3</span><strong>Ventana examen</strong><small>Simulacro de 70 y corrección.</small></article>
-      <article><span>4</span><strong>2º y 3º</strong><small>Práctico y desarrollo.</small></article>
     </section>
   </section>
 
@@ -508,12 +486,6 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       visibleMonth = new Date(visibleMonth.getFullYear(), visibleMonth.getMonth() + 1, 1, 12);
       renderCalendar();
     });
-    document.getElementById('reset-plan')?.addEventListener('click', () => {
-      if (!window.confirm('Se borraran solo los checks del planning.')) return;
-      localStorage.removeItem(DONE_KEY);
-      renderCalendar(true);
-    });
-
     renderCalendar();
   </script>
 
@@ -534,57 +506,22 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .planning-page {
       display: grid;
-      gap: 1.25rem;
-    }
-    .planning-summary,
-    .planning-method {
-      display: grid;
       gap: .75rem;
     }
-    .planning-summary article,
-    .planning-method > div,
-    .planning-notes,
     .planning-calendar-card,
     .planning-detail,
     .planning-day,
     .planning-carried {
-      padding: 1rem;
+      padding: .85rem;
       background: var(--bs-tertiary-bg);
       border: 1px solid var(--bs-border-color);
-      border-radius: var(--bs-border-radius);
-    }
-    .planning-summary article span {
-      display: inline-grid;
-      width: 1.65rem;
-      height: 1.65rem;
-      place-items: center;
-      color: #111;
-      font-size: .82rem;
-      font-weight: 800;
-      background: var(--bd-accent);
       border-radius: .35rem;
     }
-    .planning-summary article {
-      display: grid;
-      grid-template-columns: auto minmax(0, 1fr);
-      gap: .3rem .6rem;
-      align-items: start;
-      padding: .75rem;
-    }
-    .planning-summary strong,
-    .planning-method h2,
     .planning-day h2,
     .planning-day h3,
     .planning-carried h3 {
       color: var(--bs-emphasis-color);
     }
-    .planning-summary small {
-      grid-column: 2;
-      color: var(--bs-secondary-color);
-      line-height: 1.35;
-    }
-    .planning-summary p,
-    .planning-method p,
     .planning-day-head p {
       margin-bottom: 0;
       color: var(--bs-secondary-color);
@@ -601,19 +538,6 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       gap: 1rem;
       align-items: flex-start;
       justify-content: space-between;
-    }
-    .planning-notes {
-      padding: 0;
-      overflow: hidden;
-    }
-    .planning-notes summary {
-      padding: .85rem 1rem;
-      cursor: pointer;
-      color: var(--bs-emphasis-color);
-      font-weight: 750;
-    }
-    .planning-notes .planning-method {
-      padding: 0 1rem 1rem;
     }
     .planning-toolbar h2 {
       margin: .25rem 0 0;
@@ -632,10 +556,10 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     .planning-calendar {
       display: grid;
       grid-template-columns: repeat(7, minmax(0, 1fr));
-      gap: .45rem;
+      gap: .25rem;
     }
     .planning-weekdays {
-      margin: 1rem 0 .45rem;
+      margin: .85rem 0 .35rem;
       color: var(--bs-secondary-color);
       font-size: .78rem;
       font-weight: 800;
@@ -647,13 +571,13 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       display: grid;
       grid-template-rows: auto auto minmax(1rem, 1fr) auto auto;
       gap: .25rem;
-      min-height: 7.5rem;
-      padding: .55rem;
+      min-height: 6.2rem;
+      padding: .45rem;
       color: var(--bs-body-color);
       text-align: left;
       background: var(--bs-body-bg);
       border: 1px solid var(--bs-border-color);
-      border-radius: .45rem;
+      border-radius: .25rem;
     }
     .calendar-day:hover,
     .calendar-day:focus {
@@ -661,7 +585,7 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .calendar-day.is-selected {
       border-color: var(--bd-accent);
-      box-shadow: 0 0 0 .16rem rgba(var(--bd-accent-rgb), .16);
+      box-shadow: inset 0 0 0 1px rgba(var(--bd-accent-rgb), .35);
     }
     .calendar-day.is-today .calendar-day__number {
       color: #111;
@@ -669,24 +593,24 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .calendar-day--empty,
     .calendar-day--outside {
-      min-height: 7.5rem;
+      min-height: 6.2rem;
       border: 1px dashed rgba(255,255,255,.08);
-      border-radius: .45rem;
+      border-radius: .25rem;
       background: rgba(255,255,255,.015);
     }
     .calendar-day--outside {
       display: grid;
       place-items: start;
-      padding: .55rem;
+      padding: .45rem;
       color: var(--bs-secondary-color);
     }
     .calendar-day__number {
       display: inline-grid;
-      width: 1.8rem;
-      height: 1.8rem;
+      width: 1.55rem;
+      height: 1.55rem;
       place-items: center;
       color: var(--bs-emphasis-color);
-      font-size: .82rem;
+      font-size: .78rem;
       font-weight: 850;
       border-radius: .35rem;
       background: rgba(255,255,255,.05);
@@ -694,7 +618,7 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     .calendar-day strong {
       min-width: 0;
       color: var(--bs-emphasis-color);
-      font-size: 1.05rem;
+      font-size: .95rem;
       line-height: 1.15;
       overflow-wrap: anywhere;
     }
@@ -750,17 +674,17 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .planning-task-list {
       display: grid;
-      gap: .6rem;
-      margin-top: .9rem;
+      gap: .45rem;
+      margin-top: .75rem;
     }
     .planning-task {
       display: grid;
       gap: .45rem;
-      padding: .75rem;
+      padding: .6rem;
       background: var(--bs-body-bg);
       border: 1px solid var(--bs-border-color);
       border-left: .35rem solid var(--bs-secondary);
-      border-radius: var(--bs-border-radius-sm);
+      border-radius: .3rem;
     }
     .planning-task--estudio { border-left-color: var(--bd-violet); }
     .planning-task--repaso { border-left-color: var(--bs-info); }
@@ -820,21 +744,11 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .planning-detail {
       display: grid;
-      gap: 1rem;
-    }
-    .planning-detail-actions {
-      display: flex;
-      justify-content: flex-end;
+      gap: .75rem;
     }
     @media (min-width: 768px) {
-      .planning-summary {
-        grid-template-columns: repeat(4, minmax(0, 1fr));
-      }
-      .planning-method {
-        grid-template-columns: repeat(3, minmax(0, 1fr));
-      }
       .planning-board {
-        grid-template-columns: minmax(0, 1.45fr) minmax(20rem, .8fr);
+        grid-template-columns: minmax(0, 1.55fr) minmax(18rem, .75fr);
       }
       .planning-detail {
         position: sticky;
