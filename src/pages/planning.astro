@@ -57,28 +57,16 @@ topics.forEach((topic) => {
 });
 
 const buildStudyQueue = () => {
-  const groupOrder = ['III', 'V', 'II', 'IV', 'I', 'V', 'II', 'III', 'I', 'IV'];
-  const queues = new Map(
-    [...byGroup.entries()].map(([group, items]) => [
-      group,
-      items.flatMap((topic) =>
-        Array.from({ length: topic.units }, (_, index) => ({
-          topic,
-          part: index + 1,
-          total: topic.units,
-        }))
-      ),
-    ])
+  const groupOrder = ['I', 'II', 'III', 'IV', 'V'];
+  return groupOrder.flatMap((group) =>
+    (byGroup.get(group) ?? []).flatMap((topic) =>
+      Array.from({ length: topic.units }, (_, index) => ({
+        topic,
+        part: index + 1,
+        total: topic.units,
+      }))
+    )
   );
-  const queue = [];
-  let guard = 0;
-  while ([...queues.values()].some((items) => items.length) && guard < 400) {
-    const group = groupOrder[guard % groupOrder.length];
-    const items = queues.get(group);
-    if (items?.length) queue.push(items.shift());
-    guard += 1;
-  }
-  return queue.filter(Boolean) as Array<{ topic: typeof topics[number]; part: number; total: number }>;
 };
 
 const weightedReviewTopics = [...topics].sort((a, b) => {
@@ -271,7 +259,7 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       <article>
         <span>1</span>
         <h2>Vuelta 1</h2>
-        <p>Julio a mediados de septiembre: lectura activa, esquemas mínimos, 1 hora de repaso y tests cortos diarios.</p>
+        <p>Julio a mediados de septiembre: temario nuevo en orden oficial, esquemas mínimos, 1 hora de repaso y tests cortos diarios.</p>
       </article>
       <article>
         <span>2</span>
@@ -314,7 +302,7 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     <section class="planning-method" aria-label="Criterios del plan">
       <div>
         <h2 class="h4">Criterio de carga</h2>
-        <p>Los temas se ponderan por prioridad oficial, ejercicio afectado y longitud real del Markdown. Los más largos ahora mismo son: {heavyTopics.map((topic) => `Tema ${topic.code} (${topic.words.toLocaleString('es-ES')} palabras)`).join(', ')}.</p>
+        <p>El estudio nuevo sigue el orden oficial de temas, de I.1 a V.11. La ponderación por prioridad, ejercicio afectado y longitud real del Markdown decide cuántos bloques consecutivos ocupa cada tema. Los más largos ahora mismo son: {heavyTopics.map((topic) => `Tema ${topic.code} (${topic.words.toLocaleString('es-ES')} palabras)`).join(', ')}.</p>
       </div>
       <div>
         <h2 class="h4">Regla diaria</h2>
