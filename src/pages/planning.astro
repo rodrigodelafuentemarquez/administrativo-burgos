@@ -1,0 +1,595 @@
+---
+import { getCollection } from 'astro:content';
+import Layout from '../layouts/Layout.astro';
+import { officialTopics } from '../data/burgosSyllabus';
+
+type PlanTask = {
+  id: string;
+  kind: 'estudio' | 'repaso' | 'test' | 'simulacro' | 'practico' | 'desarrollo' | 'descanso';
+  label: string;
+  detail: string;
+  minutes: number;
+  href?: string;
+};
+
+type PlanDay = {
+  date: string;
+  phase: string;
+  title: string;
+  load: string;
+  minutes: number;
+  focus: string;
+  tasks: PlanTask[];
+};
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const programa = await getCollection('programa');
+const wordCountBySlug = new Map(
+  programa.map((entry) => [
+    entry.id.replace(/\.md$/, ''),
+    entry.body.split(/\s+/).filter(Boolean).length,
+  ])
+);
+const titleBySlug = new Map(programa.map((entry) => [entry.id.replace(/\.md$/, ''), entry.data.titulo]));
+const slugOf = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
+const topicUrl = (slug: string) => `${base}programa/${slug}`;
+const testUrl = `${base}test`;
+const practicalUrl = `${base}practico`;
+const developmentUrl = `${base}desarrollo`;
+
+const topics = officialTopics.map((topic) => {
+  const slug = slugOf(topic.grupo, topic.numero);
+  const words = wordCountBySlug.get(slug) ?? 1100;
+  const weight = topic.prioridad === 'crítica' ? 1.55 : topic.prioridad === 'alta' ? 1.25 : 1;
+  return {
+    ...topic,
+    slug,
+    code: `${topic.grupo}.${topic.numero}`,
+    title: titleBySlug.get(slug) ?? topic.titulo,
+    words,
+    units: Math.max(1, Math.ceil((words / 850) * weight)),
+  };
+});
+
+const byGroup = new Map<string, typeof topics>();
+topics.forEach((topic) => {
+  byGroup.set(topic.grupo, [...(byGroup.get(topic.grupo) ?? []), topic]);
+});
+
+const buildStudyQueue = () => {
+  const groupOrder = ['III', 'V', 'II', 'IV', 'I', 'V', 'II', 'III', 'I', 'IV'];
+  const queues = new Map(
+    [...byGroup.entries()].map(([group, items]) => [
+      group,
+      items.flatMap((topic) =>
+        Array.from({ length: topic.units }, (_, index) => ({
+          topic,
+          part: index + 1,
+          total: topic.units,
+        }))
+      ),
+    ])
+  );
+  const queue = [];
+  let guard = 0;
+  while ([...queues.values()].some((items) => items.length) && guard < 400) {
+    const group = groupOrder[guard % groupOrder.length];
+    const items = queues.get(group);
+    if (items?.length) queue.push(items.shift());
+    guard += 1;
+  }
+  return queue.filter(Boolean) as Array<{ topic: typeof topics[number]; part: number; total: number }>;
+};
+
+const weightedReviewTopics = [...topics].sort((a, b) => {
+  const priority = { crítica: 3, alta: 2, normal: 1 };
+  return (priority[b.prioridad] - priority[a.prioridad]) || (b.words - a.words);
+});
+const criticalTopics = weightedReviewTopics.filter((topic) => topic.prioridad === 'crítica');
+const practicalTopics = weightedReviewTopics.filter((topic) => ['III', 'IV', 'V'].includes(topic.grupo));
+
+const start = new Date('2026-07-06T12:00:00');
+const end = new Date('2027-05-31T12:00:00');
+const phaseOf = (date: Date) => {
+  if (date < new Date('2026-09-14T00:00:00')) return 'Vuelta 1';
+  if (date < new Date('2026-11-01T00:00:00')) return 'Consolidación';
+  if (date < new Date('2027-03-01T00:00:00')) return 'Ventana 1º ejercicio';
+  if (date < new Date('2027-04-15T00:00:00')) return 'Preparación 2º ejercicio';
+  return 'Preparación 3º ejercicio';
+};
+const iso = (date: Date) => date.toISOString().slice(0, 10);
+const addDays = (date: Date, days: number) => {
+  const next = new Date(date);
+  next.setDate(next.getDate() + days);
+  return next;
+};
+const pick = <T,>(items: T[], index: number) => items[index % items.length];
+
+const studyQueue = buildStudyQueue();
+let studyCursor = 0;
+let reviewCursor = 0;
+let criticalCursor = 0;
+let practicalCursor = 0;
+let dayNumber = 0;
+
+const studyTask = (dateKey: string, minutes: number, weekend = false): PlanTask => {
+  const item = studyQueue[studyCursor % studyQueue.length];
+  studyCursor += 1;
+  const suffix = item.total > 1 ? ` bloque ${item.part}/${item.total}` : '';
+  return {
+    id: `${dateKey}-study-${studyCursor}`,
+    kind: 'estudio',
+    label: `Estudiar Tema ${item.topic.code}${suffix}`,
+    detail: `${item.topic.title}. Subraya artículos, plazos, órganos y excepciones; cierra con un mini-esquema de 8-10 líneas.`,
+    minutes,
+    href: topicUrl(item.topic.slug),
+  };
+};
+const reviewTask = (dateKey: string, minutes: number, scope = 'repaso activo'): PlanTask => {
+  const topic = pick(weightedReviewTopics, reviewCursor++);
+  return {
+    id: `${dateKey}-review-${reviewCursor}`,
+    kind: 'repaso',
+    label: `1 hora de ${scope}: Tema ${topic.code}`,
+    detail: `${topic.title}. Relee solo esquemas, tablas y marcas; escribe de memoria los puntos que más caen.`,
+    minutes,
+    href: topicUrl(topic.slug),
+  };
+};
+const testTask = (dateKey: string, minutes: number, label = '3 tests de 10 preguntas'): PlanTask => {
+  const t1 = pick(weightedReviewTopics, reviewCursor + 1);
+  const t2 = pick(weightedReviewTopics, reviewCursor + 5);
+  const t3 = pick(weightedReviewTopics, reviewCursor + 11);
+  return {
+    id: `${dateKey}-test-${dayNumber}`,
+    kind: 'test',
+    label,
+    detail: `Haz bloques cortos mezclando ${t1.code}, ${t2.code} y ${t3.code}. Corrige al momento y apunta fallos repetidos.`,
+    minutes,
+    href: testUrl,
+  };
+};
+const practicalTask = (dateKey: string, minutes: number): PlanTask => {
+  const topic = pick(practicalTopics, practicalCursor++);
+  return {
+    id: `${dateKey}-practical-${practicalCursor}`,
+    kind: 'practico',
+    label: `Supuesto práctico sobre Tema ${topic.code}`,
+    detail: `${topic.title}. Resuelve con estructura: hechos, norma aplicable, trámites, órgano competente y conclusión.`,
+    minutes,
+    href: practicalUrl,
+  };
+};
+const developmentTask = (dateKey: string, minutes: number): PlanTask => {
+  const topic = pick(criticalTopics.length ? criticalTopics : weightedReviewTopics, criticalCursor++);
+  return {
+    id: `${dateKey}-development-${criticalCursor}`,
+    kind: 'desarrollo',
+    label: `Desarrollo escrito Tema ${topic.code}`,
+    detail: `${topic.title}. Memoriza índice, redacta introducción y canta el orden completo sin mirar.`,
+    minutes,
+    href: developmentUrl,
+  };
+};
+
+const buildDay = (date: Date): PlanDay => {
+  dayNumber += 1;
+  const dateKey = iso(date);
+  const dow = date.getDay();
+  const isSaturday = dow === 6;
+  const isSunday = dow === 0;
+  const phase = phaseOf(date);
+  const tasks: PlanTask[] = [];
+  let title = '';
+  let focus = '';
+  let load = isSaturday ? '5 h' : isSunday ? '4 h' : '3 h';
+
+  if (phase === 'Vuelta 1') {
+    title = 'Construir base y primera memoria';
+    focus = 'Avanzar temario ponderando longitud, con repaso espaciado desde el primer día.';
+    if (isSaturday) {
+      tasks.push(studyTask(dateKey, 120, true), studyTask(dateKey, 90, true), reviewTask(dateKey, 60), testTask(dateKey, 30, 'Simulacro parcial de 35 preguntas'));
+    } else if (isSunday) {
+      tasks.push(reviewTask(dateKey, 90, 'repaso semanal'), developmentTask(dateKey, 75), practicalTask(dateKey, 75));
+    } else {
+      tasks.push(studyTask(dateKey, 90), reviewTask(dateKey, 60), testTask(dateKey, 30));
+    }
+  } else if (phase === 'Consolidación') {
+    title = 'Cerrar vuelta 2 y subir test';
+    focus = 'Menos lectura nueva, más recuperación activa, corrección de fallos y temas críticos.';
+    if (isSaturday) {
+      tasks.push(testTask(dateKey, 80, 'Simulacro de 70 preguntas'), reviewTask(dateKey, 90, 'corrección de simulacro'), practicalTask(dateKey, 80), developmentTask(dateKey, 50));
+    } else if (isSunday) {
+      tasks.push(reviewTask(dateKey, 90, 'arrastre semanal'), developmentTask(dateKey, 90), testTask(dateKey, 60, '2 tests de 20 preguntas'));
+    } else {
+      tasks.push(reviewTask(dateKey, 60), testTask(dateKey, 50, '3 tests de 12 preguntas'), developmentTask(dateKey, 40), practicalTask(dateKey, 30));
+    }
+  } else if (phase === 'Ventana 1º ejercicio') {
+    title = 'Modo examen test sin soltar 2º y 3º';
+    focus = 'Prioridad al primer ejercicio: velocidad, penalización, fallos y simulacros completos.';
+    if (isSaturday) {
+      tasks.push(testTask(dateKey, 100, 'Simulacro oficial de 70 preguntas'), reviewTask(dateKey, 100, 'corrección profunda'), developmentTask(dateKey, 60), practicalTask(dateKey, 40));
+    } else if (isSunday) {
+      tasks.push(reviewTask(dateKey, 90, 'leyes críticas'), practicalTask(dateKey, 90), developmentTask(dateKey, 60));
+    } else {
+      tasks.push(testTask(dateKey, 55, '3 tests de 15 preguntas'), reviewTask(dateKey, 60, 'fallos y dudosas'), developmentTask(dateKey, 35), practicalTask(dateKey, 30));
+    }
+  } else if (phase === 'Preparación 2º ejercicio') {
+    title = 'Supuesto práctico con mantenimiento de test';
+    focus = 'Entrenar casos de grupos III, IV y V y conservar el nivel de preguntas tipo test.';
+    if (isSaturday) {
+      tasks.push(practicalTask(dateKey, 130), reviewTask(dateKey, 80, 'normativa aplicable'), testTask(dateKey, 45, 'Test mantenimiento 40 preguntas'), developmentTask(dateKey, 45));
+    } else if (isSunday) {
+      tasks.push(practicalTask(dateKey, 110), developmentTask(dateKey, 80), reviewTask(dateKey, 50, 'fallos prácticos'));
+    } else {
+      tasks.push(practicalTask(dateKey, 75), reviewTask(dateKey, 55, 'norma y plazos'), testTask(dateKey, 30, 'Test mantenimiento 25 preguntas'), developmentTask(dateKey, 20));
+    }
+  } else {
+    title = 'Desarrollo final y defensa de estructura';
+    focus = 'Memorizar índices, redactar temas completos y mantener una mínima agilidad de test.';
+    if (isSaturday) {
+      tasks.push(developmentTask(dateKey, 140), reviewTask(dateKey, 70, 'comparativa de temas'), testTask(dateKey, 40, 'Test mantenimiento 35 preguntas'), practicalTask(dateKey, 50));
+    } else if (isSunday) {
+      tasks.push(developmentTask(dateKey, 120), reviewTask(dateKey, 70, 'canto de índices'), practicalTask(dateKey, 50));
+    } else {
+      tasks.push(developmentTask(dateKey, 80), reviewTask(dateKey, 55, 'artículos y plazos'), testTask(dateKey, 25, 'Test mantenimiento 20 preguntas'), practicalTask(dateKey, 20));
+    }
+  }
+
+  const minutes = tasks.reduce((sum, task) => sum + task.minutes, 0);
+  if (!tasks.length) {
+    tasks.push({
+      id: `${dateKey}-rest`,
+      kind: 'descanso',
+      label: 'Descanso activo',
+      detail: 'Solo lectura ligera o recuperación si vas muy justo.',
+      minutes: 30,
+    });
+  }
+
+  return { date: dateKey, phase, title, load, minutes, focus, tasks };
+};
+
+const planDays: PlanDay[] = [];
+for (let date = start; date <= end; date = addDays(date, 1)) {
+  planDays.push(buildDay(date));
+}
+
+const planJson = JSON.stringify(planDays);
+const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
+---
+
+<Layout title="Planning de estudio">
+  <div class="bd-intro ps-lg-2 planning-intro">
+    <span class="test-kicker">Planning adaptativo</span>
+    <h1 class="bd-title mb-3">Planning de estudio</h1>
+    <p class="bd-subtitle mb-0">Desde el 6 de julio de 2026 hasta el 31 de mayo de 2027, con máximo de 3 horas entre semana, más carga el fin de semana y arrastre automático de tareas no completadas.</p>
+  </div>
+
+  <section class="bd-content ps-lg-2 planning-page">
+    <section class="planning-summary" aria-label="Estrategia">
+      <article>
+        <span>1</span>
+        <h2>Vuelta 1</h2>
+        <p>Julio a mediados de septiembre: lectura activa, esquemas mínimos, 1 hora de repaso y tests cortos diarios.</p>
+      </article>
+      <article>
+        <span>2</span>
+        <h2>Consolidación</h2>
+        <p>Hasta noviembre: más test, fallos, simulacros parciales y desarrollo de índices.</p>
+      </article>
+      <article>
+        <span>3</span>
+        <h2>Ventana de examen</h2>
+        <p>Noviembre a febrero: simulacros de 70, corrección exigente y mantenimiento de práctico/desarrollo.</p>
+      </article>
+      <article>
+        <span>4</span>
+        <h2>Segundo y tercero</h2>
+        <p>Después: supuestos prácticos primero, desarrollo escrito después, sin abandonar del todo el test.</p>
+      </article>
+    </section>
+
+    <section class="planning-tools" aria-label="Controles del planning">
+      <div>
+        <h2 class="h4 mb-2">Hoy y arrastres</h2>
+        <p class="text-body-secondary mb-0">Si una tarea de días anteriores queda sin marcar, aparece aquí como pendiente arrastrado. Al completarla desaparece del bloque de hoy.</p>
+      </div>
+      <div class="planning-actions">
+        <select class="form-select form-select-sm" id="phase-filter" aria-label="Filtrar fase">
+          <option value="all">Todas las fases</option>
+          <option value="Vuelta 1">Vuelta 1</option>
+          <option value="Consolidación">Consolidación</option>
+          <option value="Ventana 1º ejercicio">Ventana 1º ejercicio</option>
+          <option value="Preparación 2º ejercicio">Preparación 2º ejercicio</option>
+          <option value="Preparación 3º ejercicio">Preparación 3º ejercicio</option>
+        </select>
+        <button class="btn btn-outline-secondary btn-sm" id="jump-today" type="button">Ir a hoy</button>
+        <button class="btn btn-outline-danger btn-sm" id="reset-plan" type="button">Reiniciar checks</button>
+      </div>
+    </section>
+
+    <section id="today-panel" class="planning-today" aria-live="polite"></section>
+
+    <section class="planning-method" aria-label="Criterios del plan">
+      <div>
+        <h2 class="h4">Criterio de carga</h2>
+        <p>Los temas se ponderan por prioridad oficial, ejercicio afectado y longitud real del Markdown. Los más largos ahora mismo son: {heavyTopics.map((topic) => `Tema ${topic.code} (${topic.words.toLocaleString('es-ES')} palabras)`).join(', ')}.</p>
+      </div>
+      <div>
+        <h2 class="h4">Regla diaria</h2>
+        <p>Entre semana: 90 minutos de estudio o práctico/desarrollo, 1 hora de repaso y 25-55 minutos de test. Sábado: simulacro o bloque largo. Domingo: repaso semanal y memoria.</p>
+      </div>
+    </section>
+
+    <div class="planning-calendar-heading">
+      <h2 class="h3 mb-0">Calendario día a día</h2>
+      <p class="text-body-secondary mb-0"><span id="plan-count"></span></p>
+    </div>
+    <section id="planning-calendar" class="planning-calendar"></section>
+  </section>
+
+  <script define:vars={{ planJson }}>
+    const PLAN = JSON.parse(planJson);
+    const DONE_KEY = 'oposicion-planning-done-v1';
+    const calendarRoot = document.getElementById('planning-calendar');
+    const todayPanel = document.getElementById('today-panel');
+    const phaseFilter = document.getElementById('phase-filter');
+    const planCount = document.getElementById('plan-count');
+    const fmt = new Intl.DateTimeFormat('es-ES', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+    const toLocalIso = (date) => {
+      const year = date.getFullYear();
+      const month = String(date.getMonth() + 1).padStart(2, '0');
+      const day = String(date.getDate()).padStart(2, '0');
+      return `${year}-${month}-${day}`;
+    };
+    const todayIso = toLocalIso(new Date());
+
+    const readDone = () => {
+      try {
+        const raw = JSON.parse(localStorage.getItem(DONE_KEY) ?? '{}');
+        return raw && typeof raw === 'object' ? raw : {};
+      } catch {
+        return {};
+      }
+    };
+    const writeDone = (done) => localStorage.setItem(DONE_KEY, JSON.stringify(done));
+    const isDone = (done, id) => Boolean(done[id]);
+    const taskClass = (kind) => `planning-task planning-task--${kind}`;
+    const escapeHtml = (value) => String(value)
+      .replaceAll('&', '&amp;')
+      .replaceAll('<', '&lt;')
+      .replaceAll('>', '&gt;')
+      .replaceAll('"', '&quot;');
+
+    const taskTemplate = (task, done, carried = false) => `
+      <label class="${taskClass(task.kind)} ${isDone(done, task.id) ? 'is-done' : ''}">
+        <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
+        <span>
+          <strong>${escapeHtml(task.label)}</strong>
+          <small>${carried ? 'Arrastrado. ' : ''}${escapeHtml(task.detail)} · ${task.minutes} min</small>
+          ${task.href ? `<a href="${task.href}">Abrir</a>` : ''}
+        </span>
+      </label>`;
+
+    const getCarriedTasks = (done) => PLAN
+      .filter((day) => day.date < todayIso)
+      .flatMap((day) => day.tasks.map((task) => ({ ...task, sourceDate: day.date })))
+      .filter((task) => !isDone(done, task.id));
+
+    const renderToday = (done) => {
+      const today = PLAN.find((day) => day.date === todayIso) ?? PLAN[0];
+      const carried = getCarriedTasks(done);
+      const carriedHtml = carried.length
+        ? `<div class="planning-carried"><h3>Pendiente arrastrado (${carried.length})</h3>${carried.slice(0, 12).map((task) => taskTemplate(task, done, true)).join('')}${carried.length > 12 ? `<p class="text-body-secondary small mb-0">Hay ${carried.length - 12} tareas pendientes más en días anteriores.</p>` : ''}</div>`
+        : `<div class="planning-carried is-clear"><h3>Sin arrastres</h3><p class="mb-0 text-body-secondary">Vas limpio: lo de hoy es lo único abierto.</p></div>`;
+      todayPanel.innerHTML = `
+        <article class="planning-day planning-day--today" id="today">
+          <div class="planning-day-head">
+            <div>
+              <span class="test-kicker">${escapeHtml(today.phase)}</span>
+              <h2>${fmt.format(new Date(`${today.date}T12:00:00`))}</h2>
+              <p>${escapeHtml(today.focus)}</p>
+            </div>
+            <strong>${today.load}</strong>
+          </div>
+          <div class="planning-task-list">${today.tasks.map((task) => taskTemplate(task, done)).join('')}</div>
+        </article>
+        ${carriedHtml}`;
+    };
+
+    const renderCalendar = () => {
+      const done = readDone();
+      const filter = phaseFilter.value;
+      const days = PLAN.filter((day) => filter === 'all' || day.phase === filter);
+      planCount.textContent = `${days.length} días visibles`;
+      calendarRoot.innerHTML = days.map((day) => {
+        const completed = day.tasks.filter((task) => isDone(done, task.id)).length;
+        return `
+          <article class="planning-day ${day.date === todayIso ? 'is-current' : ''}" data-date="${day.date}">
+            <div class="planning-day-head">
+              <div>
+                <span class="test-kicker">${escapeHtml(day.phase)}</span>
+                <h3>${fmt.format(new Date(`${day.date}T12:00:00`))}</h3>
+                <p>${escapeHtml(day.title)} · ${escapeHtml(day.focus)}</p>
+              </div>
+              <div class="planning-load">
+                <strong>${escapeHtml(day.load)}</strong>
+                <small>${completed}/${day.tasks.length}</small>
+              </div>
+            </div>
+            <div class="planning-task-list">${day.tasks.map((task) => taskTemplate(task, done)).join('')}</div>
+          </article>`;
+      }).join('');
+      renderToday(done);
+    };
+
+    document.addEventListener('change', (event) => {
+      const input = event.target;
+      if (!(input instanceof HTMLInputElement) || !input.dataset.taskId) return;
+      const done = readDone();
+      if (input.checked) done[input.dataset.taskId] = Date.now();
+      else delete done[input.dataset.taskId];
+      writeDone(done);
+      renderCalendar();
+    });
+
+    phaseFilter.addEventListener('change', renderCalendar);
+    document.getElementById('jump-today')?.addEventListener('click', () => {
+      document.getElementById('today')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+    document.getElementById('reset-plan')?.addEventListener('click', () => {
+      if (!window.confirm('Se borraran solo los checks del planning.')) return;
+      localStorage.removeItem(DONE_KEY);
+      renderCalendar();
+    });
+
+    renderCalendar();
+  </script>
+
+  <style>
+    .planning-page {
+      display: grid;
+      gap: 1.25rem;
+    }
+    .planning-summary,
+    .planning-method {
+      display: grid;
+      gap: .75rem;
+    }
+    .planning-summary article,
+    .planning-method,
+    .planning-tools,
+    .planning-day,
+    .planning-carried {
+      padding: 1rem;
+      background: var(--bs-tertiary-bg);
+      border: 1px solid var(--bs-border-color);
+      border-radius: var(--bs-border-radius);
+    }
+    .planning-summary article span {
+      display: inline-grid;
+      width: 2rem;
+      height: 2rem;
+      margin-bottom: .6rem;
+      place-items: center;
+      color: #111;
+      font-weight: 800;
+      background: var(--bd-accent);
+      border-radius: .35rem;
+    }
+    .planning-summary h2,
+    .planning-method h2,
+    .planning-day h2,
+    .planning-day h3,
+    .planning-carried h3 {
+      color: var(--bs-emphasis-color);
+    }
+    .planning-summary p,
+    .planning-method p,
+    .planning-day-head p {
+      margin-bottom: 0;
+      color: var(--bs-secondary-color);
+    }
+    .planning-tools,
+    .planning-calendar-heading,
+    .planning-day-head {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 1rem;
+      align-items: flex-start;
+      justify-content: space-between;
+    }
+    .planning-actions {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .5rem;
+      align-items: center;
+    }
+    .planning-actions .form-select {
+      width: min(100%, 15rem);
+    }
+    .planning-today,
+    .planning-calendar {
+      display: grid;
+      gap: 1rem;
+    }
+    .planning-day--today,
+    .planning-day.is-current {
+      border-color: rgba(var(--bd-accent-rgb), .7);
+    }
+    .planning-load {
+      display: grid;
+      gap: .15rem;
+      justify-items: end;
+      color: var(--bs-secondary-color);
+    }
+    .planning-load strong,
+    .planning-day-head > strong {
+      color: var(--bd-accent);
+      font-size: 1.1rem;
+    }
+    .planning-task-list {
+      display: grid;
+      gap: .6rem;
+      margin-top: .9rem;
+    }
+    .planning-task {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: .7rem;
+      padding: .75rem;
+      background: var(--bs-body-bg);
+      border: 1px solid var(--bs-border-color);
+      border-left: .35rem solid var(--bs-secondary);
+      border-radius: var(--bs-border-radius-sm);
+    }
+    .planning-task--estudio { border-left-color: var(--bd-violet); }
+    .planning-task--repaso { border-left-color: var(--bs-info); }
+    .planning-task--test,
+    .planning-task--simulacro { border-left-color: var(--bs-warning); }
+    .planning-task--practico { border-left-color: var(--bs-success); }
+    .planning-task--desarrollo { border-left-color: var(--bs-primary); }
+    .planning-task input {
+      margin-top: .25rem;
+    }
+    .planning-task strong,
+    .planning-task small,
+    .planning-task a {
+      display: block;
+    }
+    .planning-task small {
+      margin-top: .15rem;
+      color: var(--bs-secondary-color);
+      line-height: 1.45;
+    }
+    .planning-task a {
+      width: fit-content;
+      margin-top: .35rem;
+      color: var(--bd-accent);
+      text-decoration: none;
+    }
+    .planning-task.is-done {
+      opacity: .62;
+    }
+    .planning-task.is-done strong {
+      text-decoration: line-through;
+    }
+    .planning-carried.is-clear {
+      border-style: dashed;
+    }
+    @media (min-width: 768px) {
+      .planning-summary {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+      .planning-method {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+      }
+    }
+    @media (min-width: 1200px) {
+      .planning-summary {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+      }
+    }
+  </style>
+</Layout>
