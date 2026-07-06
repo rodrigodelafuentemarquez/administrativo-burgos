@@ -250,81 +250,73 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
 <Layout title="Planning de estudio">
   <div class="bd-intro ps-lg-2 planning-intro">
     <span class="test-kicker">Planning adaptativo</span>
-    <h1 class="bd-title mb-3">Planning de estudio</h1>
-    <p class="bd-subtitle mb-0">Desde el 6 de julio de 2026 hasta el 31 de mayo de 2027, con máximo de 3 horas entre semana, más carga el fin de semana y arrastre automático de tareas no completadas.</p>
+    <h1 class="planning-title mb-2">Planning de estudio</h1>
+    <p class="planning-subtitle mb-0">Calendario diario desde julio de 2026, con arrastre automático de pendientes.</p>
   </div>
 
   <section class="bd-content ps-lg-2 planning-page">
-    <section class="planning-summary" aria-label="Estrategia">
-      <article>
-        <span>1</span>
-        <h2>Vuelta 1</h2>
-        <p>Julio a mediados de septiembre: temario nuevo en orden oficial, esquemas mínimos, 1 hora de repaso y tests cortos diarios.</p>
-      </article>
-      <article>
-        <span>2</span>
-        <h2>Consolidación</h2>
-        <p>Hasta noviembre: más test, fallos, simulacros parciales y desarrollo de índices.</p>
-      </article>
-      <article>
-        <span>3</span>
-        <h2>Ventana de examen</h2>
-        <p>Noviembre a febrero: simulacros de 70, corrección exigente y mantenimiento de práctico/desarrollo.</p>
-      </article>
-      <article>
-        <span>4</span>
-        <h2>Segundo y tercero</h2>
-        <p>Después: supuestos prácticos primero, desarrollo escrito después, sin abandonar del todo el test.</p>
-      </article>
+    <section class="planning-board" aria-label="Calendario de estudio">
+      <div class="planning-calendar-card">
+        <div class="planning-toolbar">
+          <div>
+            <span class="test-kicker" id="month-phase">Planning</span>
+            <h2 id="month-title">Calendario</h2>
+          </div>
+          <div class="planning-actions">
+            <button class="btn btn-outline-secondary btn-sm" id="prev-month" type="button" aria-label="Mes anterior">‹</button>
+            <button class="btn btn-outline-secondary btn-sm" id="jump-today" type="button">Hoy</button>
+            <button class="btn btn-outline-secondary btn-sm" id="next-month" type="button" aria-label="Mes siguiente">›</button>
+          </div>
+        </div>
+        <div class="planning-weekdays" aria-hidden="true">
+          <span>L</span><span>M</span><span>X</span><span>J</span><span>V</span><span>S</span><span>D</span>
+        </div>
+        <div id="planning-calendar" class="planning-calendar"></div>
+      </div>
+
+      <aside class="planning-detail" aria-live="polite">
+        <div id="day-detail"></div>
+        <div class="planning-detail-actions">
+          <button class="btn btn-outline-danger btn-sm" id="reset-plan" type="button">Reiniciar checks</button>
+        </div>
+      </aside>
     </section>
 
-    <section class="planning-tools" aria-label="Controles del planning">
-      <div>
-        <h2 class="h4 mb-2">Hoy y arrastres</h2>
-        <p class="text-body-secondary mb-0">Si una tarea de días anteriores queda sin marcar, aparece aquí como pendiente arrastrado. Al completarla desaparece del bloque de hoy.</p>
+    <details class="planning-notes">
+      <summary>Criterio del planning</summary>
+      <div class="planning-method" aria-label="Criterios del plan">
+        <div>
+          <h2 class="h4">Orden real</h2>
+          <p>Estudio nuevo de I.1 a V.11; los temas largos ocupan varios bloques seguidos.</p>
+        </div>
+        <div>
+          <h2 class="h4">Ritmo</h2>
+          <p>Entre semana: 3 h. Fin de semana: simulacro, repaso semanal, práctico y desarrollo.</p>
+        </div>
+        <div>
+          <h2 class="h4">Peso</h2>
+          <p>Longitud real, prioridad y ejercicio. Más largos: {heavyTopics.slice(0, 4).map((topic) => `Tema ${topic.code}`).join(', ')}.</p>
+        </div>
       </div>
-      <div class="planning-actions">
-        <select class="form-select form-select-sm" id="phase-filter" aria-label="Filtrar fase">
-          <option value="all">Todas las fases</option>
-          <option value="Vuelta 1">Vuelta 1</option>
-          <option value="Consolidación">Consolidación</option>
-          <option value="Ventana 1º ejercicio">Ventana 1º ejercicio</option>
-          <option value="Preparación 2º ejercicio">Preparación 2º ejercicio</option>
-          <option value="Preparación 3º ejercicio">Preparación 3º ejercicio</option>
-        </select>
-        <button class="btn btn-outline-secondary btn-sm" id="jump-today" type="button">Ir a hoy</button>
-        <button class="btn btn-outline-danger btn-sm" id="reset-plan" type="button">Reiniciar checks</button>
-      </div>
+    </details>
+
+    <section class="planning-summary" aria-label="Fases">
+      <article><span>1</span><strong>Vuelta 1</strong><small>Orden oficial + test corto.</small></article>
+      <article><span>2</span><strong>Consolidación</strong><small>Fallos, simulacros e índices.</small></article>
+      <article><span>3</span><strong>Ventana examen</strong><small>Simulacro de 70 y corrección.</small></article>
+      <article><span>4</span><strong>2º y 3º</strong><small>Práctico y desarrollo.</small></article>
     </section>
-
-    <section id="today-panel" class="planning-today" aria-live="polite"></section>
-
-    <section class="planning-method" aria-label="Criterios del plan">
-      <div>
-        <h2 class="h4">Criterio de carga</h2>
-        <p>El estudio nuevo sigue el orden oficial de temas, de I.1 a V.11. La ponderación por prioridad, ejercicio afectado y longitud real del Markdown decide cuántos bloques consecutivos ocupa cada tema. Los más largos ahora mismo son: {heavyTopics.map((topic) => `Tema ${topic.code} (${topic.words.toLocaleString('es-ES')} palabras)`).join(', ')}.</p>
-      </div>
-      <div>
-        <h2 class="h4">Regla diaria</h2>
-        <p>Entre semana: 90 minutos de estudio o práctico/desarrollo, 1 hora de repaso y 25-55 minutos de test. Sábado: simulacro o bloque largo. Domingo: repaso semanal y memoria.</p>
-      </div>
-    </section>
-
-    <div class="planning-calendar-heading">
-      <h2 class="h3 mb-0">Calendario día a día</h2>
-      <p class="text-body-secondary mb-0"><span id="plan-count"></span></p>
-    </div>
-    <section id="planning-calendar" class="planning-calendar"></section>
   </section>
 
   <script define:vars={{ planJson }}>
     const PLAN = JSON.parse(planJson);
     const DONE_KEY = 'oposicion-planning-done-v1';
     const calendarRoot = document.getElementById('planning-calendar');
-    const todayPanel = document.getElementById('today-panel');
-    const phaseFilter = document.getElementById('phase-filter');
-    const planCount = document.getElementById('plan-count');
-    const fmt = new Intl.DateTimeFormat('es-ES', { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' });
+    const dayDetail = document.getElementById('day-detail');
+    const monthTitle = document.getElementById('month-title');
+    const monthPhase = document.getElementById('month-phase');
+    const dayFmt = new Intl.DateTimeFormat('es-ES', { weekday: 'long', day: 'numeric', month: 'long' });
+    const monthFmt = new Intl.DateTimeFormat('es-ES', { month: 'long', year: 'numeric' });
     const toLocalIso = (date) => {
       const year = date.getFullYear();
       const month = String(date.getMonth() + 1).padStart(2, '0');
@@ -332,6 +324,12 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       return `${year}-${month}-${day}`;
     };
     const todayIso = toLocalIso(new Date());
+    const firstPlanDate = new Date(`${PLAN[0].date}T12:00:00`);
+    const todayInPlan = PLAN.some((day) => day.date === todayIso);
+    let visibleMonth = todayInPlan ? new Date() : firstPlanDate;
+    visibleMonth = new Date(visibleMonth.getFullYear(), visibleMonth.getMonth(), 1, 12);
+    let selectedDate = todayInPlan ? todayIso : PLAN[0].date;
+    const dayByDate = new Map(PLAN.map((day) => [day.date, day]));
 
     const readDone = () => {
       try {
@@ -344,72 +342,140 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     const writeDone = (done) => localStorage.setItem(DONE_KEY, JSON.stringify(done));
     const isDone = (done, id) => Boolean(done[id]);
     const taskClass = (kind) => `planning-task planning-task--${kind}`;
+    const kindLabel = {
+      estudio: 'Estudio',
+      repaso: 'Repaso',
+      test: 'Test',
+      simulacro: 'Simulacro',
+      practico: 'Práctico',
+      desarrollo: 'Desarrollo',
+      descanso: 'Descanso',
+    };
     const escapeHtml = (value) => String(value)
       .replaceAll('&', '&amp;')
       .replaceAll('<', '&lt;')
       .replaceAll('>', '&gt;')
       .replaceAll('"', '&quot;');
+    const shortTask = (task) => {
+      const topic = task.label.match(/Tema [IVX]+\.\d+(?: bloque \d+\/\d+)?/);
+      if (topic) return topic[0].replace('Tema ', '');
+      if (task.label.includes('Simulacro')) return 'Simulacro';
+      if (task.label.includes('tests') || task.label.includes('Test')) return 'Tests';
+      if (task.kind === 'repaso') return 'Repaso';
+      return kindLabel[task.kind] ?? task.kind;
+    };
+    const splitCalendarLabel = (task) => {
+      const raw = shortTask(task);
+      const topic = raw.match(/^([IVX]+\.\d+)(?: bloque (\d+\/\d+))?/);
+      const compactKind = {
+        estudio: 'Est.',
+        repaso: 'Rep.',
+        test: 'Test',
+        simulacro: 'Sim.',
+        practico: 'Prác.',
+        desarrollo: 'Des.',
+        descanso: 'Libre',
+      };
+      if (topic) return { main: topic[1], sub: topic[2] ?? compactKind[task.kind] ?? kindLabel[task.kind] };
+      return { main: raw, sub: `${task.minutes} min` };
+    };
+    const monthKey = (date) => `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
 
     const taskTemplate = (task, done, carried = false) => `
-      <label class="${taskClass(task.kind)} ${isDone(done, task.id) ? 'is-done' : ''}">
-        <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
-        <span>
-          <strong>${escapeHtml(task.label)}</strong>
-          <small>${carried ? 'Arrastrado. ' : ''}${escapeHtml(task.detail)} · ${task.minutes} min</small>
+      <div class="${taskClass(task.kind)} ${isDone(done, task.id) ? 'is-done' : ''}">
+        <label class="planning-task-check">
+          <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
+          <span>
+            <strong>${escapeHtml(task.label)}</strong>
+            <small>${carried ? 'Arrastrado · ' : ''}${task.minutes} min</small>
+          </span>
+        </label>
+        <details>
+          <summary>Detalle</summary>
+          <p>${escapeHtml(task.detail)}</p>
           ${task.href ? `<a href="${task.href}">Abrir</a>` : ''}
-        </span>
-      </label>`;
+        </details>
+      </div>`;
 
     const getCarriedTasks = (done) => PLAN
       .filter((day) => day.date < todayIso)
       .flatMap((day) => day.tasks.map((task) => ({ ...task, sourceDate: day.date })))
       .filter((task) => !isDone(done, task.id));
 
-    const renderToday = (done) => {
-      const today = PLAN.find((day) => day.date === todayIso) ?? PLAN[0];
+    const renderDetail = (done) => {
+      const day = dayByDate.get(selectedDate) ?? PLAN[0];
       const carried = getCarriedTasks(done);
-      const carriedHtml = carried.length
-        ? `<div class="planning-carried"><h3>Pendiente arrastrado (${carried.length})</h3>${carried.slice(0, 12).map((task) => taskTemplate(task, done, true)).join('')}${carried.length > 12 ? `<p class="text-body-secondary small mb-0">Hay ${carried.length - 12} tareas pendientes más en días anteriores.</p>` : ''}</div>`
-        : `<div class="planning-carried is-clear"><h3>Sin arrastres</h3><p class="mb-0 text-body-secondary">Vas limpio: lo de hoy es lo único abierto.</p></div>`;
-      todayPanel.innerHTML = `
-        <article class="planning-day planning-day--today" id="today">
+      const completed = day.tasks.filter((task) => isDone(done, task.id)).length;
+      const carriedHtml = selectedDate === todayIso
+        ? (carried.length
+          ? `<section class="planning-carried"><h3>Arrastre (${carried.length})</h3>${carried.slice(0, 6).map((task) => taskTemplate(task, done, true)).join('')}${carried.length > 6 ? `<p class="text-body-secondary small mb-0">+${carried.length - 6} pendientes anteriores.</p>` : ''}</section>`
+          : `<section class="planning-carried is-clear"><h3>Sin arrastres</h3><p class="mb-0 text-body-secondary">Nada pendiente de días anteriores.</p></section>`)
+        : '';
+      dayDetail.innerHTML = `
+        <article class="planning-day ${day.date === todayIso ? 'planning-day--today' : ''}" id="today">
           <div class="planning-day-head">
             <div>
-              <span class="test-kicker">${escapeHtml(today.phase)}</span>
-              <h2>${fmt.format(new Date(`${today.date}T12:00:00`))}</h2>
-              <p>${escapeHtml(today.focus)}</p>
+              <span class="test-kicker">${escapeHtml(day.phase)}</span>
+              <h2>${dayFmt.format(new Date(`${day.date}T12:00:00`))}</h2>
+              <p>${escapeHtml(day.title)}</p>
             </div>
-            <strong>${today.load}</strong>
+            <div class="planning-load">
+              <strong>${day.load}</strong>
+              <small>${completed}/${day.tasks.length}</small>
+            </div>
           </div>
-          <div class="planning-task-list">${today.tasks.map((task) => taskTemplate(task, done)).join('')}</div>
+          <div class="planning-task-list">${day.tasks.map((task) => taskTemplate(task, done)).join('')}</div>
         </article>
         ${carriedHtml}`;
     };
 
-    const renderCalendar = () => {
+    const renderCalendar = (preserveDetail = false) => {
       const done = readDone();
-      const filter = phaseFilter.value;
-      const days = PLAN.filter((day) => filter === 'all' || day.phase === filter);
-      planCount.textContent = `${days.length} días visibles`;
-      calendarRoot.innerHTML = days.map((day) => {
+      const year = visibleMonth.getFullYear();
+      const month = visibleMonth.getMonth();
+      const first = new Date(year, month, 1, 12);
+      const last = new Date(year, month + 1, 0, 12);
+      const leading = (first.getDay() + 6) % 7;
+      const monthDays = [];
+      for (let i = 0; i < leading; i += 1) monthDays.push(null);
+      for (let day = 1; day <= last.getDate(); day += 1) monthDays.push(new Date(year, month, day, 12));
+      while (monthDays.length % 7) monthDays.push(null);
+      const visibleDays = monthDays
+        .filter(Boolean)
+        .map((date) => dayByDate.get(toLocalIso(date)))
+        .filter(Boolean);
+      const phases = [...new Set(visibleDays.map((day) => day.phase))];
+      monthTitle.textContent = monthFmt.format(visibleMonth).replace(/^\w/, (letter) => letter.toUpperCase());
+      monthPhase.textContent = phases.length === 1 ? phases[0] : 'Calendario';
+      if (!preserveDetail) {
+        const currentMonthSelected = selectedDate.startsWith(monthKey(visibleMonth));
+        selectedDate = currentMonthSelected ? selectedDate : (visibleDays[0]?.date ?? PLAN[0].date);
+      }
+      calendarRoot.innerHTML = monthDays.map((date) => {
+        if (!date) return `<div class="calendar-day calendar-day--empty"></div>`;
+        const dateKey = toLocalIso(date);
+        const day = dayByDate.get(dateKey);
+        if (!day) return `<div class="calendar-day calendar-day--outside"><span>${date.getDate()}</span></div>`;
         const completed = day.tasks.filter((task) => isDone(done, task.id)).length;
+        const mainStudy = day.tasks.find((task) => task.kind === 'estudio')
+          ?? day.tasks.find((task) => task.kind === 'practico')
+          ?? day.tasks.find((task) => task.kind === 'desarrollo')
+          ?? day.tasks[0];
+        const kinds = [...new Set(day.tasks.map((task) => task.kind))].slice(0, 4);
+        const label = splitCalendarLabel(mainStudy);
+        const pct = Math.round((completed / day.tasks.length) * 100);
         return `
-          <article class="planning-day ${day.date === todayIso ? 'is-current' : ''}" data-date="${day.date}">
-            <div class="planning-day-head">
-              <div>
-                <span class="test-kicker">${escapeHtml(day.phase)}</span>
-                <h3>${fmt.format(new Date(`${day.date}T12:00:00`))}</h3>
-                <p>${escapeHtml(day.title)} · ${escapeHtml(day.focus)}</p>
-              </div>
-              <div class="planning-load">
-                <strong>${escapeHtml(day.load)}</strong>
-                <small>${completed}/${day.tasks.length}</small>
-              </div>
+          <button class="calendar-day ${day.date === selectedDate ? 'is-selected' : ''} ${day.date === todayIso ? 'is-today' : ''}" type="button" data-date="${day.date}">
+            <span class="calendar-day__number">${date.getDate()}</span>
+            <strong>${escapeHtml(label.main)}</strong>
+            <small>${escapeHtml(label.sub)}</small>
+            <div class="calendar-day__chips">
+              ${kinds.map((kind) => `<span class="chip chip--${kind}" title="${escapeHtml(kindLabel[kind] ?? kind)}" aria-label="${escapeHtml(kindLabel[kind] ?? kind)}"></span>`).join('')}
             </div>
-            <div class="planning-task-list">${day.tasks.map((task) => taskTemplate(task, done)).join('')}</div>
-          </article>`;
+            <span class="calendar-day__bar"><i style="width:${pct}%"></i></span>
+          </button>`;
       }).join('');
-      renderToday(done);
+      renderDetail(done);
     };
 
     document.addEventListener('change', (event) => {
@@ -419,23 +485,53 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       if (input.checked) done[input.dataset.taskId] = Date.now();
       else delete done[input.dataset.taskId];
       writeDone(done);
-      renderCalendar();
+      renderCalendar(true);
     });
 
-    phaseFilter.addEventListener('change', renderCalendar);
+    calendarRoot.addEventListener('click', (event) => {
+      const button = event.target.closest('[data-date]');
+      if (!button) return;
+      selectedDate = button.dataset.date;
+      renderCalendar(true);
+    });
     document.getElementById('jump-today')?.addEventListener('click', () => {
-      document.getElementById('today')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      selectedDate = todayInPlan ? todayIso : PLAN[0].date;
+      const target = new Date(`${selectedDate}T12:00:00`);
+      visibleMonth = new Date(target.getFullYear(), target.getMonth(), 1, 12);
+      renderCalendar(true);
+    });
+    document.getElementById('prev-month')?.addEventListener('click', () => {
+      visibleMonth = new Date(visibleMonth.getFullYear(), visibleMonth.getMonth() - 1, 1, 12);
+      renderCalendar();
+    });
+    document.getElementById('next-month')?.addEventListener('click', () => {
+      visibleMonth = new Date(visibleMonth.getFullYear(), visibleMonth.getMonth() + 1, 1, 12);
+      renderCalendar();
     });
     document.getElementById('reset-plan')?.addEventListener('click', () => {
       if (!window.confirm('Se borraran solo los checks del planning.')) return;
       localStorage.removeItem(DONE_KEY);
-      renderCalendar();
+      renderCalendar(true);
     });
 
     renderCalendar();
   </script>
 
   <style>
+    .planning-intro {
+      padding-bottom: .25rem;
+    }
+    .planning-title {
+      color: var(--bs-emphasis-color);
+      font-size: clamp(2rem, 4vw, 3rem);
+      line-height: 1.05;
+    }
+    .planning-subtitle {
+      max-width: 48rem;
+      color: var(--bs-secondary-color);
+      font-size: 1.05rem;
+      line-height: 1.45;
+    }
     .planning-page {
       display: grid;
       gap: 1.25rem;
@@ -446,8 +542,10 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       gap: .75rem;
     }
     .planning-summary article,
-    .planning-method,
-    .planning-tools,
+    .planning-method > div,
+    .planning-notes,
+    .planning-calendar-card,
+    .planning-detail,
     .planning-day,
     .planning-carried {
       padding: 1rem;
@@ -457,21 +555,33 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .planning-summary article span {
       display: inline-grid;
-      width: 2rem;
-      height: 2rem;
-      margin-bottom: .6rem;
+      width: 1.65rem;
+      height: 1.65rem;
       place-items: center;
       color: #111;
+      font-size: .82rem;
       font-weight: 800;
       background: var(--bd-accent);
       border-radius: .35rem;
     }
-    .planning-summary h2,
+    .planning-summary article {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: .3rem .6rem;
+      align-items: start;
+      padding: .75rem;
+    }
+    .planning-summary strong,
     .planning-method h2,
     .planning-day h2,
     .planning-day h3,
     .planning-carried h3 {
       color: var(--bs-emphasis-color);
+    }
+    .planning-summary small {
+      grid-column: 2;
+      color: var(--bs-secondary-color);
+      line-height: 1.35;
     }
     .planning-summary p,
     .planning-method p,
@@ -479,8 +589,12 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       margin-bottom: 0;
       color: var(--bs-secondary-color);
     }
-    .planning-tools,
-    .planning-calendar-heading,
+    .planning-board {
+      display: grid;
+      gap: 1rem;
+      align-items: start;
+    }
+    .planning-toolbar,
     .planning-day-head {
       display: flex;
       flex-wrap: wrap;
@@ -488,19 +602,136 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
       align-items: flex-start;
       justify-content: space-between;
     }
+    .planning-notes {
+      padding: 0;
+      overflow: hidden;
+    }
+    .planning-notes summary {
+      padding: .85rem 1rem;
+      cursor: pointer;
+      color: var(--bs-emphasis-color);
+      font-weight: 750;
+    }
+    .planning-notes .planning-method {
+      padding: 0 1rem 1rem;
+    }
+    .planning-toolbar h2 {
+      margin: .25rem 0 0;
+      color: var(--bs-emphasis-color);
+      font-size: clamp(1.35rem, 2vw, 2rem);
+      line-height: 1.15;
+      text-transform: capitalize;
+    }
     .planning-actions {
       display: flex;
       flex-wrap: wrap;
       gap: .5rem;
       align-items: center;
     }
-    .planning-actions .form-select {
-      width: min(100%, 15rem);
-    }
-    .planning-today,
+    .planning-weekdays,
     .planning-calendar {
       display: grid;
-      gap: 1rem;
+      grid-template-columns: repeat(7, minmax(0, 1fr));
+      gap: .45rem;
+    }
+    .planning-weekdays {
+      margin: 1rem 0 .45rem;
+      color: var(--bs-secondary-color);
+      font-size: .78rem;
+      font-weight: 800;
+      text-align: center;
+      text-transform: uppercase;
+    }
+    .calendar-day {
+      position: relative;
+      display: grid;
+      grid-template-rows: auto auto minmax(1rem, 1fr) auto auto;
+      gap: .25rem;
+      min-height: 7.5rem;
+      padding: .55rem;
+      color: var(--bs-body-color);
+      text-align: left;
+      background: var(--bs-body-bg);
+      border: 1px solid var(--bs-border-color);
+      border-radius: .45rem;
+    }
+    .calendar-day:hover,
+    .calendar-day:focus {
+      border-color: rgba(var(--bd-accent-rgb), .7);
+    }
+    .calendar-day.is-selected {
+      border-color: var(--bd-accent);
+      box-shadow: 0 0 0 .16rem rgba(var(--bd-accent-rgb), .16);
+    }
+    .calendar-day.is-today .calendar-day__number {
+      color: #111;
+      background: var(--bd-accent);
+    }
+    .calendar-day--empty,
+    .calendar-day--outside {
+      min-height: 7.5rem;
+      border: 1px dashed rgba(255,255,255,.08);
+      border-radius: .45rem;
+      background: rgba(255,255,255,.015);
+    }
+    .calendar-day--outside {
+      display: grid;
+      place-items: start;
+      padding: .55rem;
+      color: var(--bs-secondary-color);
+    }
+    .calendar-day__number {
+      display: inline-grid;
+      width: 1.8rem;
+      height: 1.8rem;
+      place-items: center;
+      color: var(--bs-emphasis-color);
+      font-size: .82rem;
+      font-weight: 850;
+      border-radius: .35rem;
+      background: rgba(255,255,255,.05);
+    }
+    .calendar-day strong {
+      min-width: 0;
+      color: var(--bs-emphasis-color);
+      font-size: 1.05rem;
+      line-height: 1.15;
+      overflow-wrap: anywhere;
+    }
+    .calendar-day small {
+      color: var(--bs-secondary-color);
+      font-size: .72rem;
+      line-height: 1.15;
+    }
+    .calendar-day__chips {
+      display: flex;
+      flex-wrap: wrap;
+      gap: .22rem;
+    }
+    .chip {
+      display: inline-block;
+      width: .48rem;
+      height: .48rem;
+      border-radius: 999px;
+      background: var(--bs-secondary);
+    }
+    .chip--estudio { background: var(--bd-violet); }
+    .chip--repaso { background: #0dcaf0; color: #06252d; }
+    .chip--test,
+    .chip--simulacro { background: #ffc107; color: #332701; }
+    .chip--practico { background: #198754; }
+    .chip--desarrollo { background: #0d6efd; }
+    .calendar-day__bar {
+      height: .28rem;
+      overflow: hidden;
+      background: var(--bs-secondary-bg);
+      border-radius: 999px;
+    }
+    .calendar-day__bar i {
+      display: block;
+      height: 100%;
+      background: var(--bd-accent);
+      border-radius: inherit;
     }
     .planning-day--today,
     .planning-day.is-current {
@@ -524,8 +755,7 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     }
     .planning-task {
       display: grid;
-      grid-template-columns: auto minmax(0, 1fr);
-      gap: .7rem;
+      gap: .45rem;
       padding: .75rem;
       background: var(--bs-body-bg);
       border: 1px solid var(--bs-border-color);
@@ -538,7 +768,13 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     .planning-task--simulacro { border-left-color: var(--bs-warning); }
     .planning-task--practico { border-left-color: var(--bs-success); }
     .planning-task--desarrollo { border-left-color: var(--bs-primary); }
-    .planning-task input {
+    .planning-task-check {
+      display: grid;
+      grid-template-columns: auto minmax(0, 1fr);
+      gap: .65rem;
+      margin: 0;
+    }
+    .planning-task-check input {
       margin-top: .25rem;
     }
     .planning-task strong,
@@ -549,6 +785,22 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     .planning-task small {
       margin-top: .15rem;
       color: var(--bs-secondary-color);
+      line-height: 1.45;
+    }
+    .planning-task details {
+      margin-left: 1.55rem;
+      color: var(--bs-secondary-color);
+      font-size: .9rem;
+    }
+    .planning-task summary {
+      width: fit-content;
+      cursor: pointer;
+      color: var(--bd-accent);
+      font-size: .82rem;
+      font-weight: 700;
+    }
+    .planning-task details p {
+      margin: .4rem 0 0;
       line-height: 1.45;
     }
     .planning-task a {
@@ -566,17 +818,64 @@ const heavyTopics = [...topics].sort((a, b) => b.words - a.words).slice(0, 8);
     .planning-carried.is-clear {
       border-style: dashed;
     }
+    .planning-detail {
+      display: grid;
+      gap: 1rem;
+    }
+    .planning-detail-actions {
+      display: flex;
+      justify-content: flex-end;
+    }
     @media (min-width: 768px) {
       .planning-summary {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(4, minmax(0, 1fr));
       }
       .planning-method {
-        grid-template-columns: repeat(2, minmax(0, 1fr));
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+      }
+      .planning-board {
+        grid-template-columns: minmax(0, 1.45fr) minmax(20rem, .8fr);
+      }
+      .planning-detail {
+        position: sticky;
+        top: 5.5rem;
       }
     }
-    @media (min-width: 1200px) {
-      .planning-summary {
-        grid-template-columns: repeat(4, minmax(0, 1fr));
+    @media (max-width: 575.98px) {
+      .planning-title {
+        font-size: 2rem;
+      }
+      .planning-calendar-card,
+      .planning-detail {
+        padding: .75rem;
+      }
+      .planning-weekdays,
+      .planning-calendar {
+        gap: .25rem;
+      }
+      .calendar-day,
+      .calendar-day--empty,
+      .calendar-day--outside {
+        min-height: 5.75rem;
+        padding: .38rem;
+        border-radius: .35rem;
+      }
+      .calendar-day {
+        grid-template-rows: auto auto minmax(1.2rem, 1fr) auto;
+      }
+      .calendar-day strong {
+        font-size: .82rem;
+      }
+      .calendar-day small {
+        font-size: .64rem;
+      }
+      .calendar-day__number {
+        width: 1.45rem;
+        height: 1.45rem;
+        font-size: .72rem;
+      }
+      .calendar-day__chips {
+        display: none;
       }
     }
   </style>
