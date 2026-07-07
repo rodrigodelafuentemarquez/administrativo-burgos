@@ -37,6 +37,7 @@
       const p = String(fd.get('p') ?? '');
       if (u === USER && p === PASS) {
         localStorage.setItem(KEY, '1');
+        window.dispatchEvent(new Event('study-access-granted'));
         overlay.remove();
       } else {
         const err = overlay.querySelector('#gate-error');

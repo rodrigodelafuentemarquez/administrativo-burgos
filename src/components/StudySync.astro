@@ -1,0 +1,231 @@
+---
+---
+<script>
+  const SYNC_CONFIG = {
+    url: 'https://fncmebbvgblmvhkluwhr.supabase.co',
+    key: 'sb_publishable_kzzohVz7InP1FmsgMPbMMg_SZBqVNIv',
+    table: 'study_state',
+    rowId: 'rodrigo',
+  };
+  const ACCESS_KEY = 'oposicion-access-ok-v1';
+  const DEVICE_KEY = 'oposicion-device-id-v1';
+  const META_KEY = 'oposicion-sync-meta-v1';
+  const TRACKED_KEYS = [
+    'oposicion-stats-v3',
+    'oposicion-fallos-v3',
+    'oposicion-dudosas-v1',
+    'oposicion-planning-done-v1',
+  ];
+
+  if (typeof window !== 'undefined' && typeof localStorage !== 'undefined') {
+    const nativeSetItem = localStorage.setItem.bind(localStorage);
+    const nativeRemoveItem = localStorage.removeItem.bind(localStorage);
+    const nativeGetItem = localStorage.getItem.bind(localStorage);
+    let syncTimer = 0;
+    let applyingRemote = false;
+
+    const getDeviceId = () => {
+      const current = nativeGetItem(DEVICE_KEY);
+      if (current) return current;
+      const next = crypto?.randomUUID?.() ?? `${Date.now()}-${Math.random().toString(16).slice(2)}`;
+      nativeSetItem(DEVICE_KEY, next);
+      return next;
+    };
+    const deviceId = getDeviceId();
+
+    const parseJson = (value, fallback) => {
+      try {
+        return value == null ? fallback : JSON.parse(value);
+      } catch {
+        return fallback;
+      }
+    };
+
+    const readMeta = () => parseJson(nativeGetItem(META_KEY), {});
+    const writeMeta = (meta) => nativeSetItem(META_KEY, JSON.stringify(meta));
+    const markKeyChanged = (key) => {
+      if (!TRACKED_KEYS.includes(key)) return;
+      const meta = readMeta();
+      meta[key] = { updatedAt: Date.now(), deviceId };
+      writeMeta(meta);
+    };
+    const readLocalState = () => {
+      const meta = readMeta();
+      return {
+        version: 1,
+        keys: Object.fromEntries(TRACKED_KEYS.map((key) => [
+          key,
+          {
+            value: parseJson(nativeGetItem(key), null),
+            updatedAt: Number(meta[key]?.updatedAt ?? 0) || 0,
+            deviceId: meta[key]?.deviceId ?? deviceId,
+          },
+        ])),
+      };
+    };
+    const applyState = (state) => {
+      if (!state?.keys) return;
+      applyingRemote = true;
+      const meta = readMeta();
+      TRACKED_KEYS.forEach((key) => {
+        const entry = state.keys[key];
+        if (!entry) return;
+        if (entry.value == null) nativeRemoveItem(key);
+        else nativeSetItem(key, JSON.stringify(entry.value));
+        meta[key] = {
+          updatedAt: Number(entry.updatedAt ?? Date.now()) || Date.now(),
+          deviceId: entry.deviceId ?? deviceId,
+        };
+      });
+      writeMeta(meta);
+      applyingRemote = false;
+      window.dispatchEvent(new Event('study-sync-applied'));
+    };
+
+    const mergePlanningDone = (remoteValue, localValue) => ({
+      ...(remoteValue && typeof remoteValue === 'object' ? remoteValue : {}),
+      ...(localValue && typeof localValue === 'object' ? localValue : {}),
+    });
+    const mergeByIdArray = (remoteValue, localValue, resolve) => {
+      const byId = new Map();
+      [...(Array.isArray(remoteValue) ? remoteValue : []), ...(Array.isArray(localValue) ? localValue : [])]
+        .filter((item) => item?.id)
+        .forEach((item) => {
+          const previous = byId.get(item.id);
+          byId.set(item.id, previous ? resolve(previous, item) : item);
+        });
+      return [...byId.values()];
+    };
+    const mergeStats = (remoteValue, localValue) => {
+      const remote = remoteValue && typeof remoteValue === 'object' ? remoteValue : {};
+      const local = localValue && typeof localValue === 'object' ? localValue : {};
+      const keys = new Set([...Object.keys(remote), ...Object.keys(local)]);
+      const merged = {};
+      keys.forEach((tema) => {
+        const a = remote[tema] ?? {};
+        const b = local[tema] ?? {};
+        const attempts = [...(Array.isArray(a.attempts) ? a.attempts : []), ...(Array.isArray(b.attempts) ? b.attempts : [])]
+          .filter((attempt) => Number(attempt?.at))
+          .sort((x, y) => Number(x.at) - Number(y.at));
+        const uniqueAttempts = [...new Map(attempts.map((attempt) => [`${attempt.at}:${attempt.total}:${attempt.correctas}`, attempt])).values()].slice(-16);
+        const attemptTotal = uniqueAttempts.reduce((sum, attempt) => sum + (Number(attempt.total) || 0), 0);
+        const attemptCorrectas = uniqueAttempts.reduce((sum, attempt) => sum + (Number(attempt.correctas) || 0), 0);
+        const total = Math.max(Number(a.total) || 0, Number(b.total) || 0, attemptTotal);
+        const correctas = Math.max(Number(a.correctas) || 0, Number(b.correctas) || 0, attemptCorrectas);
+        const recent = uniqueAttempts.length
+          ? uniqueAttempts.map((attempt) => Number(attempt.pct) || 0).slice(-8)
+          : [...(Array.isArray(a.recent) ? a.recent : []), ...(Array.isArray(b.recent) ? b.recent : [])].slice(-8);
+        merged[tema] = {
+          total,
+          correctas: Math.min(correctas, total),
+          recent,
+          attempts: uniqueAttempts,
+          updatedAt: Math.max(Number(a.updatedAt) || 0, Number(b.updatedAt) || 0),
+        };
+      });
+      return merged;
+    };
+    const mergeValues = (key, remoteValue, localValue) => {
+      if (key === 'oposicion-planning-done-v1') return mergePlanningDone(remoteValue, localValue);
+      if (key === 'oposicion-stats-v3') return mergeStats(remoteValue, localValue);
+      if (key === 'oposicion-fallos-v3') {
+        return mergeByIdArray(remoteValue, localValue, (a, b) => ({
+          ...a,
+          ...b,
+          fallos: Math.max(Number(a.fallos) || 1, Number(b.fallos) || 1),
+          firstFailedAt: Math.min(Number(a.firstFailedAt) || Date.now(), Number(b.firstFailedAt) || Date.now()),
+          lastFailedAt: Math.max(Number(a.lastFailedAt) || 0, Number(b.lastFailedAt) || 0),
+        }));
+      }
+      if (key === 'oposicion-dudosas-v1') {
+        return mergeByIdArray(remoteValue, localValue, (a, b) => (
+          Number(a.createdAt) >= Number(b.createdAt) ? a : b
+        ));
+      }
+      return localValue ?? remoteValue ?? null;
+    };
+    const mergeStates = (remoteState, localState) => {
+      const now = Date.now();
+      const remote = remoteState?.keys ?? {};
+      const local = localState?.keys ?? {};
+      return {
+        version: 1,
+        keys: Object.fromEntries(TRACKED_KEYS.map((key) => {
+          const remoteEntry = remote[key] ?? { value: null, updatedAt: 0 };
+          const localEntry = local[key] ?? { value: null, updatedAt: 0 };
+          const value = mergeValues(key, remoteEntry.value, localEntry.value);
+          return [key, {
+            value,
+            updatedAt: Math.max(Number(remoteEntry.updatedAt) || 0, Number(localEntry.updatedAt) || 0, value == null ? 0 : now),
+            deviceId: Number(localEntry.updatedAt) >= Number(remoteEntry.updatedAt) ? deviceId : remoteEntry.deviceId,
+          }];
+        })),
+      };
+    };
+
+    const headers = {
+      apikey: SYNC_CONFIG.key,
+      Authorization: `Bearer ${SYNC_CONFIG.key}`,
+      'Content-Type': 'application/json',
+    };
+    const pullRemote = async () => {
+      const endpoint = `${SYNC_CONFIG.url}/rest/v1/${SYNC_CONFIG.table}?id=eq.${encodeURIComponent(SYNC_CONFIG.rowId)}&select=state`;
+      const response = await fetch(endpoint, { headers });
+      if (!response.ok) throw new Error(`sync pull ${response.status}`);
+      const rows = await response.json();
+      return rows[0]?.state ?? null;
+    };
+    const pushRemote = async (state) => {
+      const endpoint = `${SYNC_CONFIG.url}/rest/v1/${SYNC_CONFIG.table}`;
+      const response = await fetch(endpoint, {
+        method: 'POST',
+        headers: { ...headers, Prefer: 'resolution=merge-duplicates,return=minimal' },
+        body: JSON.stringify({
+          id: SYNC_CONFIG.rowId,
+          state,
+          updated_at: new Date().toISOString(),
+        }),
+      });
+      if (!response.ok) throw new Error(`sync push ${response.status}`);
+    };
+    const syncNow = async () => {
+      if (nativeGetItem(ACCESS_KEY) !== '1') return;
+      try {
+        const remoteState = await pullRemote();
+        const localState = readLocalState();
+        const merged = mergeStates(remoteState, localState);
+        applyState(merged);
+        await pushRemote(merged);
+      } catch (error) {
+        console.warn('No se pudo sincronizar el progreso.', error);
+      }
+    };
+    const scheduleSync = () => {
+      window.clearTimeout(syncTimer);
+      syncTimer = window.setTimeout(syncNow, 900);
+    };
+
+    localStorage.setItem = (key, value) => {
+      nativeSetItem(key, value);
+      if (!applyingRemote && TRACKED_KEYS.includes(key)) {
+        markKeyChanged(key);
+        scheduleSync();
+      }
+    };
+    localStorage.removeItem = (key) => {
+      nativeRemoveItem(key);
+      if (!applyingRemote && TRACKED_KEYS.includes(key)) {
+        markKeyChanged(key);
+        scheduleSync();
+      }
+    };
+
+    window.addEventListener('study-access-granted', syncNow);
+    window.addEventListener('pageshow', syncNow);
+    document.addEventListener('visibilitychange', () => {
+      if (document.visibilityState === 'visible') syncNow();
+    });
+    window.__studySync = { syncNow };
+    syncNow();
+  }
+</script>
