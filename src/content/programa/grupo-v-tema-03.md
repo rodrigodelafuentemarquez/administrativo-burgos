@@ -23,6 +23,16 @@ La atención al público no es solo trato amable. Tiene contenido jurídico: inf
 | Trazabilidad | Registrar solicitudes y dejar constancia cuando proceda. |
 | Derivación correcta | Enviar al servicio competente sin marear al ciudadano. |
 
+Los derechos de las personas en sus relaciones con las Administraciones incluyen comunicarse por el canal admitido, ser asistidas en el uso de medios electrónicos cuando proceda, usar lenguas oficiales según normativa, conocer estado de tramitación si son interesadas, no aportar documentos ya presentados o elaborados por Administraciones, formular alegaciones, obtener copia de documentos y exigir responsabilidades cuando proceda.
+
+| Derecho ciudadano | Aplicación en atención |
+| --- | --- |
+| Identificar autoridades y personal | Informar de unidad u órgano responsable cuando proceda. |
+| No aportar documentos ya obrantes | Consultar o recabar datos si la ley lo permite. |
+| Obtener recibo de presentación | Registrar y entregar justificante. |
+| Acceso a expediente propio | Verificar condición de interesado y límites. |
+| Asistencia electrónica | Ayudar a personas no obligadas o con dificultades. |
+
 ## Personas con discapacidad
 
 La atención a personas con discapacidad exige accesibilidad universal, ajustes razonables y trato adecuado. La Administración debe eliminar barreras físicas, sensoriales, cognitivas y digitales.
@@ -94,3 +104,5 @@ En la práctica, la primera tarea administrativa es calificar correctamente lo p
 El personal de atención debe actuar con metodo. Primero identifica que quiere la persona. Despues comprueba si se trata de información general o expediente concreto. Si hay expediente, verifica identidad y representación. Si se presenta documentación, registra o indica canal correcto. Si falta documentación, informa sin impedir la presentación salvo que la normativa lo exija. Si el asunto corresponde a otra Administración, orienta correctamente.
 
 No se debe denegar verbalmente la presentación de un escrito por considerar que está incompleto. Lo ordinario es registrar y que el órgano competente requiera subsanación si procede. Tampoco debe facilitarse información particular a familiares, gestores o terceros sin representación acreditada.
+
+Una regla útil en mostrador es separar informar, registrar y resolver. El personal de atención puede orientar y registrar, pero la inadmisión, denegación, subsanación o resolución corresponde al órgano competente mediante trámite formal. Esta separación evita indefensión y protege al propio empleado.

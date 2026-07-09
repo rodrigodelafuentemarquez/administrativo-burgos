@@ -72,6 +72,16 @@ El asiento registral debe reflejar datos esenciales: número, fecha y hora, iden
 
 La precisión registral protege tanto a la Administración como al ciudadano. El justificante de registro es una prueba esencial de presentación.
 
+Las oficinas deben admitir documentos dirigidos a cualquier Administración cuando proceda y remitirlos mediante los sistemas de interconexión registral. Si el escrito se dirige a otra Administración, la oficina no resuelve el fondo: registra, emite justificante y remite al destino correcto. El cómputo de plazos queda vinculado a la presentación válida en registro.
+
+| Lugar de presentación | Idea clave |
+| --- | --- |
+| Registro electrónico | Abierto todos los días y horas. |
+| Oficina de asistencia en registros | Presentación presencial y asistencia. |
+| Correos | En la forma reglamentaria. |
+| Representaciones diplomáticas u oficinas consulares | Para supuestos en el extranjero. |
+| Otros previstos legalmente | Según normativa específica. |
+
 ## Asistencia electrónica
 
 Las personas físicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electrónicos. Si no disponen de medios, un funcionario habilitado puede identificarlas o firmar en su nombre con consentimiento expreso en los términos legales.
@@ -134,3 +144,5 @@ En trámites sencillos puede presumirse representación en determinados actos de
 | Interponer recurso | Requiere especial cuidado y acreditación. |
 | Desistir o renunciar | Requiere representación suficiente. |
 | Tramites tributarios o sancionadores | Comprobación especialmente relevante. |
+
+Cuando falta acreditación de representación, lo normal es registrar la solicitud y requerir subsanación si procede. No debe bloquearse sin más la entrada del escrito si contiene una petición dirigida a la Administración. La unidad tramitadora valorará la eficacia de la actuación y los efectos de la falta de acreditación.

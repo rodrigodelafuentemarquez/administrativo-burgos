@@ -46,6 +46,16 @@ La Administración debe poder demostrar cumplimiento. No basta con afirmar que c
 | Confidencialidad | Evitar accesos y divulgaciones indebidas. |
 | Responsabilidad proactiva | Poder demostrar medidas adoptadas. |
 
+La responsabilidad proactiva se concreta en registro de actividades de tratamiento, análisis de riesgos, medidas de seguridad, contratos con encargados, información a interesados, formación del personal, gestión de brechas y consulta al Delegado de Protección de Datos cuando proceda.
+
+| Medida de cumplimiento | Para qué sirve |
+| --- | --- |
+| Registro de actividades | Identifica tratamientos, fines, bases y cesiones. |
+| Análisis de riesgos | Determina medidas según sensibilidad y amenazas. |
+| Evaluación de impacto | Necesaria en tratamientos de alto riesgo. |
+| Contrato de encargo | Regula proveedores que tratan datos por cuenta municipal. |
+| Política de conservación | Evita guardar datos indefinidamente sin motivo. |
+
 ## Licitud
 
 El tratamiento necesita base jurídica: cumplimiento de obligación legal, ejercicio de poderes públicos, misión en interés público, contrato, consentimiento, interés vital u otros supuestos. En Administraciones, las bases más habituales son obligación legal y ejercicio de potestades públicas.
@@ -103,6 +113,15 @@ Cuando el Ayuntamiento contrata una aplicación de gestión de expedientes, una 
 - el **encargado** trata datos por cuenta del responsable;
 - el **DPO** asesora, supervisa y sirve de punto de contacto;
 - la **autoridad de control** investiga, requiere y puede sancionar o apercibir.
+
+Una brecha de seguridad es un incidente que ocasiona destrucción, pérdida, alteración, comunicación o acceso no autorizado a datos personales. Debe comunicarse internamente de inmediato para valorar riesgo, medidas de contención y, si procede, notificación a la autoridad de control y a las personas afectadas.
+
+| Incidente | Posible brecha |
+| --- | --- |
+| Enviar expediente al destinatario equivocado | Comunicación no autorizada. |
+| Perder un portátil sin cifrado | Riesgo de acceso indebido. |
+| Publicar listado con DNI completos | Divulgación excesiva. |
+| Ransomware sobre unidad compartida | Pérdida de disponibilidad e integridad. |
 
 ## Autoridades de control
 

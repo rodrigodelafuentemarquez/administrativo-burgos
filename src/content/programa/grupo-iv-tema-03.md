@@ -49,6 +49,16 @@ En algunos expedientes se acumulan fases: AD, ADO u O, según naturaleza del gas
 
 Ejemplo: en un contrato de suministro, primero se reserva crédito, después se autoriza y adjudica el gasto, más tarde se recibe el suministro, se conforma la factura, se reconoce la obligación y finalmente se ordena y realiza el pago.
 
+La factura electrónica es obligatoria para muchos proveedores y se presenta a través del punto general de entrada correspondiente. Su entrada no implica pago automático: debe registrarse, asignarse a unidad tramitadora, comprobarse la prestación, conformarse, fiscalizarse si procede y reconocerse la obligación.
+
+| Momento | Control básico |
+| --- | --- |
+| Entrada de factura | Fecha, proveedor, expediente, importe y unidad destinataria. |
+| Conformidad | El servicio acredita recepción correcta de la prestación. |
+| Fiscalización | Intervención comprueba requisitos económicos cuando proceda. |
+| Reconocimiento | El órgano competente declara obligación exigible. |
+| Pago | Tesorería paga conforme al plan de disposición de fondos. |
+
 ## Documentos contables
 
 Los documentos contables reflejan las fases: A, D, O, P y combinados. Permiten controlar crédito disponible, obligaciones reconocidas, pagos ordenados y ejecución presupuestaria.
@@ -71,6 +81,8 @@ Los compromisos de gasto plurianuales permiten adquirir obligaciones que se exti
 
 La autorización de gasto plurianual no elimina la necesidad de crédito en ejercicios posteriores. Debe preverse en presupuestos futuros.
 
+Los compromisos futuros deben quedar reflejados para no comprometer la capacidad presupuestaria de ejercicios posteriores. En contratación, la duración, prórrogas, revisión de precios y anualidades deben estar coordinadas con el crédito disponible y con los límites de gasto plurianual.
+
 ## Ordenación del pago
 
 La ordenación del pago es el acto por el que se ordena a Tesorería satisfacer una obligación reconocida. La competencia corresponde al Presidente de la entidad local, salvo delegación o régimen específico.
@@ -86,5 +98,7 @@ El pago material corresponde a Tesorería. Deben respetarse planes de disposici�
 | Reconocer obligación sin conformidad | Riesgo de pagar prestaciones no realizadas o defectuosas. |
 | Fraccionar contratos para evitar procedimiento | Infracción de normativa de contratación y control. |
 | Omitir fiscalización previa | Expediente de omisión y posibles responsabilidades. |
+
+El reconocimiento extrajudicial de créditos puede aparecer cuando existen obligaciones de ejercicios anteriores o gastos realizados sin tramitación ordinaria suficiente. No debe usarse como vía normal de gestión. Sirve para regularizar situaciones excepcionales cuando se acredita prestación, deuda y ausencia de enriquecimiento injusto, sin perjuicio de responsabilidades por la omisión procedimental.
 
 La ejecución presupuestaria es, por tanto, una cadena. Si una fase falla, las fases posteriores quedan contaminadas. Esta idea es muy útil para contestar preguntas prácticas.

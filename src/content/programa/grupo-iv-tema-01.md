@@ -42,6 +42,20 @@ La diferencia entre impuesto y tasa es esencial en examen. En el impuesto no hay
 
 En la práctica municipal, estos tributos sostienen buena parte de los ingresos corrientes. Por eso el personal administrativo debe distinguir entre padrones periodicos, liquidaciones individuales, autoliquidaciones, bonificaciones rogadas, exenciones legales, gestión recaudatoria voluntaria y ejecutiva.
 
+## Gestión, recaudación e inspección
+
+La aplicación de los tributos locales comprende gestión, liquidación, recaudación, inspección y revisión. La gestión identifica hechos imponibles, sujetos pasivos, bases, cuotas, beneficios fiscales y padrones. La recaudación hace efectivo el cobro en periodo voluntario o ejecutivo. La inspección comprueba la situación tributaria y regulariza incumplimientos.
+
+| Función tributaria | Actuación típica municipal |
+| --- | --- |
+| Gestión | Padrones de IBI o IVTM, liquidaciones, autoliquidaciones, bonificaciones. |
+| Recaudación voluntaria | Puesta al cobro de recibos dentro del plazo ordinario. |
+| Recaudación ejecutiva | Providencia de apremio, recargos, intereses y embargo si procede. |
+| Inspección | Comprobación de hechos no declarados o datos incorrectos. |
+| Revisión | Recursos, devoluciones de ingresos indebidos y rectificaciones. |
+
+No debe confundirse el periodo ejecutivo con la vía de apremio material. El periodo ejecutivo se inicia cuando la deuda no se paga en plazo voluntario. La providencia de apremio es el acto que abre formalmente el procedimiento de apremio y permite exigir recargos, intereses y costas en los términos legales.
+
 ## Potestad reglamentaria tributaria
 
 Las entidades locales no crean libremente tributos. La ley define figuras tributarias y habilita su establecimiento. El Ayuntamiento ejerce potestad reglamentaria mediante ordenanzas fiscales, concretando elementos dentro de los límites legales.
@@ -75,6 +89,8 @@ Si no se presentan reclamaciones, el acuerdo provisional se entiende definitivam
 ## Imposición y ordenación
 
 La imposición es la decisión de establecer un tributo potestativo o exigir una figura permitida. La ordenación es la regulación concreta de sus elementos mediante ordenanza fiscal. En impuestos obligatorios, la ley ya exige su existencia, pero la ordenanza concreta aspectos como tipos dentro de límites, bonificaciones potestativas y gestión.
+
+En los impuestos obligatorios, el Ayuntamiento no decide si existen, pero sí puede aprobar tipos, coeficientes, bonificaciones potestativas y reglas de gestión dentro del margen legal. En los potestativos, primero debe acordarse la imposición y después ordenarse mediante ordenanza fiscal. En tasas y contribuciones especiales, el expediente debe justificar el servicio, actividad, aprovechamiento u obra que sirve de fundamento.
 
 ## Impugnación
 

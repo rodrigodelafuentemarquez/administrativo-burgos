@@ -38,6 +38,8 @@ Sus funciones principales incluyen formato de texto, estilos, encabezados, pies,
 
 El uso de estilos es importante para documentos largos, porque permite estructura coherente, indice automático y accesibilidad. El control de cambios permite revisar borradores. La combinación de correspondencia genera comunicaciones repetitivas a partir de datos.
 
+La accesibilidad documental también cuenta. Un documento administrativo debe usar estilos reales, tablas simples, texto alternativo en imágenes relevantes, contraste suficiente y estructura comprensible. Exportar a PDF no debe destruir esa accesibilidad ni ocultar comentarios o metadatos internos.
+
 En documentos administrativos debe cuidarse claridad, fecha, órgano, asunto, destinatario, firma, CSV si procede y adecuación al expediente.
 
 Estructura habitual de un documento administrativo sencillo:
@@ -83,6 +85,8 @@ Las tablas dinamicas resumen datos por categorías. Los graficos visualizan info
 | FECHA / HOY | Gestionar fechas. | Calculo auxiliar de vencimientos. |
 | REDONDEAR | Ajustar decimales. | Importes económicos auxiliares. |
 
+En fórmulas es clave distinguir referencias relativas, absolutas y mixtas. Al copiar una fórmula, una referencia relativa cambia; una absoluta se mantiene con `$`; una mixta fija solo fila o columna. Muchas hojas administrativas fallan por arrastrar fórmulas sin fijar correctamente una celda de tarifa, porcentaje o fecha.
+
 | Concepto | Explicación |
 | --- | --- |
 | Libro | Archivo de Excel completo. |
@@ -98,6 +102,14 @@ Las tablas dinamicas resumen datos por categorías. Los graficos visualizan info
 Ejemplos de uso administrativo: seguimiento de solicitudes por estado, control de facturas, relación de expedientes pendientes, calculo auxiliar de importes, estadisticas de atención ciudadana o comprobación de plazos. Aunque Excel sea útil, los datos definitivos deben estar en los sistemas corporativos cuando exista aplicación oficial.
 
 <mark>Riesgo habitual:</mark> una hoja de Excel puede contener errores invisibles: fórmulas arrastradas mal, rangos incompletos, filtros activos, duplicados o datos personales innecesarios. Por eso debe revisarse antes de usarla para una decisión administrativa.
+
+| Riesgo en Excel | Control recomendado |
+| --- | --- |
+| Filtro activo | Comprobar si se están ocultando filas. |
+| Rango incompleto | Revisar que la fórmula incluye todos los datos. |
+| Duplicados | Usar herramientas de detección o validación. |
+| Datos personales excesivos | Minimizar columnas antes de compartir. |
+| Fórmulas modificadas | Proteger celdas o separar entrada y cálculo. |
 
 ## Buen uso administrativo
 

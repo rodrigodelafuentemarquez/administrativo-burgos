@@ -50,6 +50,14 @@ Cuando se remite un expediente electrónico, debe enviarse foliado mediante indi
 
 El indice electrónico equivale a una garantía de integridad del expediente. Permite comprobar que los documentos incluidos son los que corresponden y que no han sido alterados. Los metadatos identifican datos como órgano, fecha, tipo documental, interesado, estado, firma o código seguro de verificación.
 
+| Elemento del expediente electrónico | Función |
+| --- | --- |
+| Documento electrónico | Contenido administrativo incorporado. |
+| Índice electrónico | Relaciona documentos y garantiza integridad del conjunto. |
+| Firma electrónica | Acredita autoría e integridad cuando procede. |
+| Metadatos | Describen documento, expediente, fechas, órgano, estado y acceso. |
+| CSV | Permite verificar copias o documentos en sede. |
+
 ## Archivo
 
 El archivo administrativo conserva documentos para gestión, prueba, transparencia, memoria institucional e investigación. No es un almacen pasivo: ordena, clasifica, custodia, describe y facilita acceso.
@@ -78,6 +86,17 @@ La serie documental agrupa expedientes o documentos de la misma naturaleza produ
 El archivo electrónico debe conservar documentos con garantías de autenticidad, integridad, confidencialidad, disponibilidad y trazabilidad. Requiere metadatos, políticas de conservación, copias, control de accesos y medidas de seguridad.
 
 El archivo electrónico no consiste en guardar PDF en una carpeta compartida. Debe preservar documentos a largo plazo, mantener evidencias de firma, controlar permisos, evitar manipulaciones, permitir busquedas y cumplir el Esquema Nacional de Seguridad e Interoperabilidad.
+
+La gestión documental incluye ciclo de vida: creación o captura, tramitación, cierre de expediente, transferencia al archivo, conservación, acceso, eliminación autorizada o conservación permanente. No se elimina un expediente porque "ya no se usa"; debe aplicarse la normativa de archivo, calendarios de conservación y autorizaciones correspondientes.
+
+| Fase | Control documental |
+| --- | --- |
+| Captura | Incorporar documento correcto y metadatos. |
+| Tramitación | Mantener orden, versiones y firmas. |
+| Cierre | Completar índice y resolución/notificación. |
+| Transferencia | Pasar del archivo de oficina al sistema que corresponda. |
+| Conservación/eliminación | Aplicar calendario y autorización. |
+| Acceso | Resolver consultas respetando límites. |
 
 ## Acceso a documentos
 

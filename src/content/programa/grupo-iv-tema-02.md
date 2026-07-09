@@ -16,6 +16,17 @@ El presupuesto general de una entidad local es la expresión cifrada, conjunta y
 
 El presupuesto es instrumento jurídico, económico y político. Autoriza gasto, estima ingresos, ordena prioridades y permite control. Sin crédito adecuado no puede asumirse gasto valido.
 
+El presupuesto general local incluye el presupuesto de la propia entidad, los de sus organismos autónomos y las previsiones o estados de sociedades mercantiles y entidades dependientes cuando proceda. Debe acompañarse de anexos e informes que permiten entender plantilla, inversiones, deuda, beneficios fiscales, liquidación anterior y estabilidad presupuestaria.
+
+| Documento presupuestario | Utilidad |
+| --- | --- |
+| Estado de gastos | Créditos máximos para obligaciones. |
+| Estado de ingresos | Previsión de derechos a liquidar. |
+| Bases de ejecución | Reglas internas de gestión, vinculación y modificaciones. |
+| Anexo de personal | Relación económica de plazas y costes de personal. |
+| Anexo de inversiones | Programa inversiones y financiación. |
+| Informe económico-financiero | Explica suficiencia de ingresos y equilibrio. |
+
 ## Principios presupuestarios
 
 Rigen anualidad, unidad, universalidad, equilibrio, especialidad, publicidad, estabilidad presupuestaria, sostenibilidad financiera y transparencia.
@@ -51,6 +62,17 @@ La clasificación presupuestaria ayuda a leer el presupuesto desde tres pregunta
 
 La aplicación presupuestaria resulta de combinar esas dimensiones. Por eso un gasto puede ser correcto en cuanto a necesidad, pero incorrecto si se imputa a una aplicación no adecuada o sin crédito suficiente.
 
+Los créditos pueden ser iniciales, definitivos, retenidos, autorizados, comprometidos, obligados y pagados según avance la ejecución. Esta lectura permite saber si queda crédito disponible o si el presupuesto ya está vinculado por expedientes anteriores.
+
+| Situación del crédito | Significado |
+| --- | --- |
+| Crédito inicial | Aprobado con el presupuesto. |
+| Crédito definitivo | Inicial más modificaciones aprobadas. |
+| Crédito retenido | Reservado para un expediente. |
+| Crédito autorizado | Gasto aprobado hasta un máximo. |
+| Crédito comprometido | Vinculado a tercero concreto. |
+| Obligación reconocida | Deuda exigible ya declarada. |
+
 ## Gastos plurianuales
 
 Los gastos plurianuales extienden sus efectos a ejercicios futuros. Solo pueden comprometerse en supuestos legales y con límites de anualidades y porcentajes, salvo excepciones. Son frecuentes en contratos, inversiones, arrendamientos o subvenciones plurianuales.
@@ -73,6 +95,8 @@ Las ampliaciones de crédito permiten aumentar créditos declarados ampliables c
 | Incorporación de remanentes | Se trasladan créditos no usados del ejercicio anterior. | Solo en casos permitidos; no es automatica para todo. |
 
 El expediente debe acreditar necesidad, financiación, competencia, efecto sobre estabilidad y cumplimiento de límites. En términos prácticos, una modificación presupuestaria no es una "simple rectificación": altera la autorización inicial aprobada por el Pleno y debe tramitarse con garantías.
+
+La financiación de una modificación es tan importante como su finalidad. Si se financia con remanente líquido de tesorería, mayores ingresos, bajas de créditos u operaciones de crédito, debe justificarse que la fuente es válida, disponible y compatible con estabilidad, sostenibilidad y financiación afectada.
 
 ## Anticipos de tesorería
 

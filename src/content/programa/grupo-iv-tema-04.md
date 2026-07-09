@@ -40,6 +40,8 @@ La Intervención no sustituye al órgano gestor. El gestor decide y ejecuta; Int
 
 La función interventora controla actos que reconocen derechos u obligaciones económicas, ingresos y pagos, recaudación, inversión y aplicación de fondos. Puede ejercerse como fiscalización previa plena o limitada previa, con control posterior.
 
+La fiscalización previa limitada comprueba extremos básicos fijados por la normativa y por los acuerdos de la entidad, dejando otros aspectos para control posterior. No significa ausencia de control: cambia la intensidad del control previo y exige actuaciones posteriores para revisar muestras, expedientes o áreas de riesgo.
+
 Si Intervención aprecia infracción, fórmula reparo. El reparo puede suspender la tramitación en supuestos legalmente previstos, como insuficiencia de crédito, incompetencia, omisión de requisitos esenciales o gastos sin fiscalización obligatoria. Las discrepancias se resuelven por el órgano competente, a veces Pleno o Alcaldía, según materia.
 
 | Resultado de la fiscalización | Significado |
@@ -78,11 +80,21 @@ El control financiero permite mirar más allá de un expediente aislado. Por eje
 | Economia | Se ha obtenido el coste adecuado? |
 | Sostenibilidad | El gasto es compatible con estabilidad y capacidad financiera? |
 
+El plan anual de control financiero ordena las actuaciones de control permanente y auditoría pública. Permite seleccionar áreas de riesgo, entidades dependientes, subvenciones, contratación, ingresos o servicios que se revisarán durante el ejercicio. Sus resultados pueden generar recomendaciones y planes de acción.
+
 ## Omisión de fiscalización
 
 Cuando se omite fiscalización previa obligatoria, debe tramitarse procedimiento específico antes de reconocer obligaciones. Intervención emite informe y el órgano competente decide si continúa, sin perjuicio de responsabilidades.
 
 <mark>No confundir:</mark> omisión de fiscalización no significa que la prestación no se haya hecho. Significa que el expediente no paso por el control previo obligatorio. Puede existir servicio realizado, pero la Administración debe regularizar con cautelas antes de reconocer y pagar.
+
+| Reacción de control | Finalidad |
+| --- | --- |
+| Reparo | Advertir infracción antes de continuar. |
+| Discrepancia | Resolver desacuerdo entre órgano gestor e Intervención. |
+| Omisión de fiscalización | Regularizar falta de control previo obligatorio. |
+| Control posterior | Revisar expedientes ya tramitados o muestras. |
+| Plan de acción | Corregir deficiencias detectadas por control financiero. |
 
 ## Control externo
 

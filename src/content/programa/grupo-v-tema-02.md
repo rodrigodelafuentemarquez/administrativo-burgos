@@ -88,9 +88,27 @@ El plazo general para resolver es de un mes, ampliable por otro si el volumen o 
 
 Las causas de inadmisición deben interpretarse con prudencia. Pueden referirse, entre otras, a información en curso de elaboración, solicitudes abusivas, información auxiliar o necesidad de reelaboración. La motivación es imprescindible, porque el derecho de acceso es un derecho legalmente reconocido.
 
+| Causa de inadmisión | Matiz de examen |
+| --- | --- |
+| Información en curso de elaboración | No basta con que el expediente esté abierto si el documento ya existe y es accesible. |
+| Información auxiliar o de apoyo | Borradores, notas o comunicaciones internas sin relevancia decisoria. |
+| Reelaboración necesaria | Exige un tratamiento complejo, no una mera búsqueda o extracción razonable. |
+| Solicitud abusiva | Debe justificarse por carácter irrazonable o uso desviado del derecho. |
+| Órgano incompetente | Debe remitirse al competente si se conoce o informar al solicitante. |
+
+Si la información afecta a derechos o intereses de terceros, debe darse audiencia para que aleguen. Esa audiencia no convierte al tercero en dueño de la información, pero permite ponderar datos personales, secretos comerciales, confidencialidad u otros límites antes de resolver.
+
 ## Transparencia y datos personales
 
 Cuando la información contiene datos personales, debe ponderarse transparencia y protección de datos. Si son datos meramente identificativos relacionados con organización y funcionamiento público, suele prevalecer acceso salvo circunstancias. Si son datos especialmente protegidos, el acceso exige mayores cautelas o consentimiento/legalidad específica.
+
+| Tipo de dato | Criterio orientativo |
+| --- | --- |
+| Identificativo profesional | Puede facilitarse si se vincula a organización o función pública. |
+| Datos personales ordinarios de terceros | Requiere ponderación y posible anonimización. |
+| Categorías especiales | Protección reforzada y regla restrictiva. |
+| Datos de infracciones o sanciones | Especial cautela y base legal suficiente. |
+| Información anonimizada | Puede permitir acceso parcial sin lesionar derechos. |
 
 En el Ayuntamiento, transparencia afecta a contratos, presupuestos, actas, ordenanzas, subvenciones, urbanismo, personal, retribuciones, agendas y expedientes, siempre con equilibrio entre publicidad y derechos.
 

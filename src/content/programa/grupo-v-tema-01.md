@@ -34,6 +34,16 @@ La acción positiva permite adoptar medidas específicas a favor de las mujeres 
 
 La transversalidad significa que la igualdad no se limita al area de igualdad. Debe incorporarse a ordenanzas, presupuestos, contratos, subvenciones, recursos humanos, comunicación, policía local, deportes, cultura, urbanismo y servicios sociales. En un Ayuntamiento, esto puede reflejarse en lenguaje administrativo inclusivo, clausulas sociales, datos desagregados, protocolos de acoso, formación y planes de igualdad.
 
+La igualdad en el empleo público se concreta en procesos selectivos no discriminatorios, planes de igualdad, protocolos frente al acoso sexual y por razón de sexo, medidas de conciliación corresponsable, formación, presencia equilibrada cuando proceda y revisión de brechas o desigualdades en condiciones de trabajo.
+
+| Herramienta municipal | Finalidad |
+| --- | --- |
+| Plan de igualdad | Diagnosticar y corregir desigualdades internas. |
+| Protocolo de acoso | Prevenir, detectar y actuar ante conductas de acoso. |
+| Informes de impacto | Valorar efectos de normas o planes sobre igualdad. |
+| Lenguaje claro e inclusivo | Evitar comunicaciones excluyentes o estereotipadas. |
+| Datos desagregados | Detectar desigualdades reales y evaluar políticas. |
+
 ## Violencia de género
 
 La Ley Orgánica 1/2004 tiene por objeto actuar contra la violencia que, como manifestación de discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por quienes sean o hayan sido sus conyuges o esten o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.
@@ -52,6 +62,8 @@ Los poderes públicos deben garantizar información, atención, apoyo, protecci�
 
 Para el personal administrativo, un punto crucial es la confidencialidad. Datos de domicilio, padrón, telefonos, expedientes de servicios sociales o actuaciones policiales pueden afectar directamente a la seguridad de la victima. La atención debe ser respetuosa, discreta y orientada a derivar al recurso competente.
 
+En expedientes relacionados con violencia de género debe extremarse la coordinación sin multiplicar innecesariamente los datos. La prioridad administrativa es proteger a la víctima, evitar revictimización, respetar confidencialidad y derivar al recurso competente. La acreditación de la situación puede tener efectos en empleo público, padrón, servicios sociales, ayudas, vivienda, movilidad o atención policial.
+
 ## Personas trans y derechos LGTBI
 
 La Ley 4/2023 tiene por objeto garantizar y promover el derecho a la igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales, así como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
@@ -69,6 +81,8 @@ Para la Administración, implica adaptar atención, formularios, lenguaje, proto
 | Protección frente a violencias | Prevención, atención y respuesta ante agresiones o discursos discriminatorios. |
 
 Los formularios, bases de convocatorias, protocolos de atención y comunicaciones municipales deben revisarse para no producir discriminaciones. A veces la mejora es sencilla: campos no innecesarios, trato nominal adecuado, ausencia de preguntas invasivas, información clara y derivación correcta.
+
+En atención administrativa, el trato debe respetar identidad, orientación, expresión de género y características sexuales. Esto exige evitar preguntas no necesarias, adaptar formularios cuando proceda, proteger datos especialmente sensibles y actuar frente a incidentes discriminatorios en servicios municipales.
 
 ## Comparación de las tres normas
 

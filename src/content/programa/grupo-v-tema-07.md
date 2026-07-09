@@ -50,6 +50,16 @@ Los interesados tienen derecho a no aportar documentos ya presentados o elaborad
 
 El derecho a no aportar documentos ya obrantes en la Administración es especialmente importante en atención ciudadana. No debe pedirse al ciudadano un certificado que la Administración pueda consultar, salvo que exista oposición justificada, imposibilidad técnica o una norma exija aportación.
 
+La identificación y firma electrónica no son exactamente lo mismo. Identificarse permite saber quién accede o actúa; firmar expresa voluntad y vincula un documento o solicitud. Pueden utilizarse certificados electrónicos, DNI electrónico, sistemas Cl@ve, sellos electrónicos, códigos seguros de verificación y otros sistemas admitidos.
+
+| Sistema | Utilidad |
+| --- | --- |
+| Certificado electrónico | Identificación y firma de persona física, jurídica o empleado público. |
+| DNI electrónico | Identificación y firma con certificado incorporado. |
+| Cl@ve | Identificación para trámites admitidos. |
+| Sello electrónico | Actuaciones automatizadas de Administración u órgano. |
+| Código seguro de verificación | Comprobación de autenticidad de documentos. |
+
 ## Sede, registro y notificación
 
 La sede electrónica es la dirección electrónica titularidad de una Administración que garantiza identificación, autenticidad y responsabilidad. El registro electrónico permite presentar documentos todos los días y horas. La notificación electrónica se práctica mediante comparecencia en sede o dirección electrónica habilitada.
@@ -57,6 +67,8 @@ La sede electrónica es la dirección electrónica titularidad de una Administra
 La sede debe identificar a su titular, garantizar canales seguros, publicar información de trámites, permitir acceso al registro y ofrecer medios de comprobación de documentos. El registro electrónico emite recibo con fecha, hora, número de registro y relación de documentos presentados.
 
 La notificación electrónica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado está obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
+
+En notificaciones electrónicas, el aviso al correo o teléfono no sustituye a la notificación. El aviso ayuda, pero la validez depende de la puesta a disposición y del acceso o rechazo en la sede, dirección electrónica habilitada o sistema previsto. Esta distinción es muy preguntable.
 
 ## Funcionamiento electrónico del sector público
 
@@ -69,6 +81,8 @@ El Esquema Nacional de Interoperabilidad busca que los sistemas puedan compartir
 ## Actuación administrativa automatizada
 
 Es cualquier acto o actuación realizada integramente por medios electrónicos sin intervención directa de empleado público en cada caso. Debe definirse órgano responsable, sistemas, supervisión y recursos posibles.
+
+La actuación automatizada exige que se determine previamente el órgano responsable de definir especificaciones, programación, mantenimiento, supervisión y auditoría del sistema, así como el órgano competente a efectos de impugnación. No puede ser una "caja negra" sin responsable administrativo.
 
 En un Ayuntamiento, la administración electrónica afecta a registro, padrón, tributos, licencias, facturas, contratación, notificaciones, archivo y atención ciudadana.
 

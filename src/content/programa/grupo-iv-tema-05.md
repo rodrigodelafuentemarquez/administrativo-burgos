@@ -43,6 +43,16 @@ El Ayuntamiento tiene competencias en planeamiento, gestión, disciplina, licenc
 
 En municipios como Burgos, la gestión urbanística exige coordinación técnica, jurídica, ambiental, patrimonial y económica.
 
+La competencia urbanística municipal se ejerce dentro de la legislación autonómica de Castilla y León y del planeamiento vigente. El Ayuntamiento no puede apartarse del plan por razones de oportunidad en una licencia concreta: debe aplicar clasificación, calificación, ordenanzas, alineaciones, condiciones de uso y normativa sectorial.
+
+| Actuación municipal | Contenido |
+| --- | --- |
+| Planeamiento | Tramitación y aprobación de instrumentos cuando corresponda. |
+| Gestión urbanística | Reparcelación, urbanización, cesiones y ejecución del plan. |
+| Intervención | Licencias, declaraciones responsables y comunicaciones. |
+| Inspección | Comprobación de obras, usos y actividades. |
+| Disciplina | Restauración de legalidad y sanción de infracciones. |
+
 ## Intervención administrativa
 
 La edificación y uso del suelo pueden someterse a licencia, declaración responsable o comunicación previa según la normativa. La finalidad es comprobar adecuación a planeamiento, seguridad, salubridad, accesibilidad, patrimonio y normativa sectorial.
@@ -60,6 +70,13 @@ No todo acto requiere el mismo control. Obras mayores, parcelaciones, demolicion
 
 La simplificación administrativa no significa ausencia de control. La declaración responsable desplaza parte de la carga al interesado, pero el Ayuntamiento puede comprobar después y adoptar medidas si la actuación no se ajusta a la legalidad.
 
+| Título o control | Rasgo |
+| --- | --- |
+| Licencia | Control previo municipal antes de actuar. |
+| Declaración responsable | El interesado declara cumplir requisitos y puede iniciar en los términos legales. |
+| Comunicación previa | Pone en conocimiento de la Administración una actuación sujeta a control simple. |
+| Inspección posterior | Verifica realidad, documentación y ajuste a normativa. |
+
 ## Licencia urbanística
 
 La licencia urbanística es acto reglado por el que el Ayuntamiento autoriza una actuación si se ajusta al ordenamiento. No concede derechos contra el planeamiento ni legaliza actuaciones ilegales. Debe resolverse conforme a informes técnicos y jurídicos.
@@ -76,11 +93,15 @@ La licencia se otorga salvo derecho de propiedad y sin perjuicio de terceros. Pu
 
 En un expediente de licencia suelen incorporarse solicitud, proyecto o memoria, justificante de tasas o impuestos, informes técnicos, informe jurídico cuando proceda, resolución, notificación y, en su caso, inspecciones.
 
+El silencio administrativo en urbanismo debe manejarse con cautela. En ningún caso pueden entenderse adquiridas por silencio facultades contrarias al ordenamiento territorial o urbanístico. Por eso, aunque se invoque silencio, debe comprobarse siempre compatibilidad con planeamiento y normativa aplicable.
+
 ## Protección de legalidad
 
 Si se realizan actos sin licencia, contra licencia o contra planeamiento, la Administración debe restaurar legalidad. Puede ordenar suspensión, legalización si es posible, demolición, reposición, cese de uso o medidas correctoras.
 
 La protección de legalidad es independiente de la sanción. Una obra ilegal puede requerir demolición y además multa si hay infracción.
+
+La inspección urbanística documenta hechos mediante actas, informes y fotografías. Esa prueba es decisiva para ordenar suspensión, requerir legalización, iniciar restauración o incoar sancionador. Sin una buena acreditación de hechos, el expediente queda debilitado aunque la infracción exista materialmente.
 
 ## Infracciones y sanciones
 

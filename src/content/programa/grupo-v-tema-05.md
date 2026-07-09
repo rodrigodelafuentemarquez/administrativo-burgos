@@ -80,6 +80,15 @@ Obligaciones que conviene memorizar:
 - vigilar la salud con garantías;
 - investigar accidentes y enfermedades profesionales.
 
+La coordinación de actividades empresariales es esencial cuando concurren empleados municipales y empresas contratistas en el mismo centro o servicio: limpieza, mantenimiento, obras, instalaciones deportivas, eventos o edificios administrativos. Deben intercambiarse riesgos, instrucciones, medidas de emergencia y documentación preventiva necesaria.
+
+| Supuesto | Riesgo de coordinación |
+| --- | --- |
+| Contrata de limpieza en edificio municipal | Productos, suelos húmedos, horarios y señalización. |
+| Obra en dependencias abiertas al público | Separación de zonas, ruido, polvo, caídas y evacuación. |
+| Mantenimiento informático o eléctrico | Acceso a dependencias, cableado, equipos y cortes de servicio. |
+| Evento municipal | Afluencia de público, emergencias, montaje y responsabilidades. |
+
 ## Obligaciones de trabajadores
 
 Los empleados deben usar adecuadamente equipos, medios y dispositivos de seguridad, informar de riesgos, cooperar con la Administración y cumplir instrucciones preventivas. El incumplimiento puede generar responsabilidad disciplinaria.
@@ -123,3 +132,5 @@ La prevención en oficinas no es menor: reduce bajas, errores, conflictos y dete
 La prevención genera documentación: evaluación de riesgos, planificación preventiva, información y formación, entrega de equipos, investigación de accidentes, vigilancia de salud, medidas de emergencia y coordinación de actividades empresariales.
 
 En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comités o gestión de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.
+
+Los delegados de prevención representan al personal en materia preventiva y participan en consulta, vigilancia y propuesta de mejoras. El Comité de Seguridad y Salud, cuando procede por tamaño de plantilla, es órgano paritario de participación. Sus actas, convocatorias y acuerdos también forman parte de la gestión administrativa preventiva.

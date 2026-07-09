@@ -43,6 +43,16 @@ La diferencia entre RAM y almacenamiento suele preguntarse: la RAM es rapida y t
 
 Ejemplo práctico: si una persona no puede abrir una carpeta compartida, el problema puede no ser del archivo, sino de permisos de red, perfil de usuario o ubicación corporativa.
 
+También conviene manejar unidades de medida. El bit es la unidad mínima de información; el byte agrupa 8 bits. En uso ordinario se habla de KB, MB, GB y TB para tamaño de archivos, memoria o almacenamiento.
+
+| Unidad | Uso habitual |
+| --- | --- |
+| bit | Unidad mínima, frecuente en velocidades de red. |
+| byte | Base para tamaño de archivos. |
+| KB / MB | Documentos pequeños, imágenes o adjuntos. |
+| GB | Memoria, discos, copias y archivos grandes. |
+| TB | Almacenamiento masivo o servidores. |
+
 ## Sistemas operativos
 
 El sistema operativo administra recursos del ordenador y permite ejecutar aplicaciones. Gestiona memoria, procesos, archivos, dispositivos, usuarios, seguridad y comunicaciones.
@@ -102,6 +112,8 @@ Eliminar no siempre destruye definitivamente: puede enviarse a papelera. En ento
 
 Buenas prácticas: usar nombres descriptivos, evitar caracteres problematicos, no mezclar versiones finales y borradores, no guardar claves en archivos de texto y comprobar que el documento adjunto es el correcto antes de enviarlo.
 
+La ruta de un archivo indica su ubicación. Puede ser local, como una carpeta del equipo, o de red, como una unidad compartida. En un entorno administrativo importa saber si el documento está en ubicación personal, compartida, expediente electrónico o sistema corporativo, porque cambian permisos, copias de seguridad y trazabilidad.
+
 ## Seguridad informática
 
 La seguridad busca proteger confidencialidad, integridad y disponibilidad. Riesgos frecuentes: contrasenas debiles, phishing, malware, ransomware, pérdida de dispositivos, envio erroneo de correos, uso de USB no seguros, enlaces falsos y acceso indebido a expedientes.
@@ -133,3 +145,5 @@ Buenas prácticas mínimas:
 8. Respetar permisos: acceder solo a expedientes necesarios.
 
 <mark>Confidencialidad, integridad y disponibilidad</mark> son las tres ideas básicas: que solo acceda quien debe, que la información no se altere indebidamente y que los sistemas estén disponibles cuando se necesitan.
+
+Las copias de seguridad protegen frente a borrados, fallos y ataques. Pero una copia solo es útil si puede restaurarse. Por eso deben existir políticas corporativas de copia, restauración, cifrado y conservación; no basta con duplicar documentos manualmente en carpetas personales.

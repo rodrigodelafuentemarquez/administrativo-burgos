@@ -50,6 +50,8 @@ Los adjuntos permiten enviar documentos, pero deben controlarse tamano, formato,
 | Lista de distribución | Grupo de destinatarios gestionado conjuntamente. |
 | Calendario | Organiza reuniones, citas y convocatorias. |
 
+El calendario corporativo permite convocar reuniones, reservar salas, enviar invitaciones, modificar horarios y controlar asistentes. En órganos colegiados formales no sustituye la convocatoria administrativa cuando la normativa exige orden del día, documentación y notificación formal.
+
 ## Buenas prácticas
 
 Debe escribirse asunto claro, mensaje breve, destinatarios correctos, firma adecuada, lenguaje respetuoso y adjuntos comprobados. No deben enviarse datos personales innecesarios ni información sensible sin garantías.
@@ -134,3 +136,5 @@ Senales de alerta:
 - remitente que suplanta a un organismo.
 
 En caso de duda, no se responde ni se pincha: se verifica por canal oficial o se consulta al servicio informatico.
+
+Los navegadores permiten marcadores, historial, descargas, pestañas, extensiones y configuración de privacidad. En equipos municipales deben evitarse extensiones no autorizadas, descargas de software externo y almacenamiento de contraseñas en navegadores si la política corporativa no lo permite. La comodidad no puede comprometer credenciales ni datos administrativos.
