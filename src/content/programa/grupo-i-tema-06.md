@@ -107,7 +107,9 @@ Cuando una persona cambia su residencia a otro municipio, debe solicitar el alta
 
 Los Ayuntamientos deben remitir al Instituto Nacional de Estadistica las variaciones padronales. El INE coordina los padrones municipales y realiza comprobaciones para evitar duplicidades. La cifra oficial de población se obtiene a partir de la revisión padronal y se declara oficialmente.
 
-En el caso de extranjeros no comunitarios sin autorización de residencia de larga duración, la normativa prevé renovación periódica de la inscripción padronal. La falta de renovación puede dar lugar a la caducidad de la inscripción.
+El Consejo de Empadronamiento es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales en materia padronal. Informa las discrepancias entre Administraciones, colabora en la coordinación del padrón y participa en cuestiones técnicas relevantes para asegurar que las cifras oficiales reflejen la residencia real.
+
+En el caso de extranjeros no comunitarios sin autorización de residencia de larga duración, la normativa prevé renovación periódica de la inscripción padronal cada dos años. La falta de renovación puede dar lugar a la caducidad de la inscripción, que debe tramitarse con las garantías procedentes. Esta regla suele aparecer vinculada a la sigla ENCSARP: extranjeros no comunitarios sin autorización de residencia permanente o de larga duración.
 
 | Actuación padronal | Contenido |
 |---|---|
@@ -115,7 +117,8 @@ En el caso de extranjeros no comunitarios sin autorización de residencia de lar
 | Baja | Traslado, defunción, duplicidad o inscripción indebida. |
 | Modificación | Cambio de domicilio o de datos personales. |
 | Coordinación con INE | Evita duplicidades y fija cifra oficial de población. |
-| Renovación en ciertos extranjeros | Evita permanencia de inscripciones caducadas. |
+| Consejo de Empadronamiento | Colabora e informa en coordinación padronal. |
+| Renovación ENCSARP | Renovación cada dos años para evitar caducidad. |
 
 ## Derechos y deberes de los vecinos
 

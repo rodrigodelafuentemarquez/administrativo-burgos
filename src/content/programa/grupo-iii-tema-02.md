@@ -60,6 +60,17 @@ Las situaciones administrativas reflejan la posición jurídica del funcionario 
 | Excedencia | Se aparta temporalmente del servicio por causa legal, con efectos variables. |
 | Suspensión | Queda privado temporalmente del ejercicio de funciones. |
 
+Las preguntas suelen centrarse en los efectos de cada situación: reserva de puesto, cómputo del tiempo, retribuciones, cotización o derechos de carrera. No basta con reconocer el nombre de la situación.
+
+| Situación | Reserva de puesto | Retribuciones | Cómputo de tiempo | Reingreso |
+| --- | --- | --- | --- | --- |
+| Servicio activo | Ocupa puesto. | Del puesto desempeñado. | Sí. | No procede, ya está activo. |
+| Servicios especiales | En los términos legales. | Del cargo o puesto desempeñado. | Sí para trienios, carrera y derechos que procedan. | Al cesar en la causa. |
+| Servicio en otras Administraciones | Según normativa de movilidad. | Administración de destino. | Según régimen aplicable. | Conforme a movilidad o reingreso. |
+| Excedencia por interés particular | Regla general: sin reserva. | No. | Regla general: no computa. | Requiere solicitud y vacante/procedimiento. |
+| Excedencias protegidas | Reserva y cómputos según modalidad y plazo. | Normalmente no, salvo previsiones. | Sí en los términos legales. | Con protección reforzada. |
+| Suspensión firme | No se prestan servicios. | No, salvo efectos legalmente previstos. | No computa ordinariamente mientras dure. | Tras cumplir sanción o pena si procede. |
+
 ## Servicio activo
 
 El funcionario está en servicio activo cuando presta servicios en su Administración ocupando puesto o en supuestos asimilados. Tiene plenitud de derechos y deberes: retribuciones, carrera, Seguridad Social o régimen correspondiente, deber de desempeño, incompatibilidades y responsabilidad disciplinaria.
@@ -99,6 +110,8 @@ Los efectos varian mucho: reserva de puesto, computo de tiempo, derechos económ
 La suspensión puede ser provisional o firme. La provisional se acuerda durante tramitación de procedimiento judicial o disciplinario cuando sea necesario. La firme deriva de sanción disciplinaria o sentencia judicial.
 
 Durante la suspensión se priva temporalmente del ejercicio de funciones y de derechos retributivos en los términos legales. Si la suspensión provisional no se convierte en firme, debe regularizarse la situación.
+
+La suspensión provisional es cautelar y puede acordarse durante un procedimiento judicial o disciplinario. La suspensión firme es consecuencia de sanción disciplinaria o sentencia. Esta diferencia importa porque la provisional puede dar lugar a regularización si finalmente no se confirma, mientras que la firme produce los efectos sancionadores o penales que correspondan.
 
 ## Efectos prácticos
 

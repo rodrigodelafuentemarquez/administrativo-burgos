@@ -92,6 +92,13 @@ La mayoría simple se alcanza cuando hay más votos a favor que en contra. La ma
 
 El voto puede ser afirmativo, negativo o abstención. En órganos locales, el sentido del voto queda reflejado en acta cuando proceda. Los empates se resuelven conforme a reglas legales, normalmente con voto de calidad del Presidente en determinados órganos.
 
+| Mayoría | Cómo se calcula | Ejemplo de uso |
+| --- | --- | --- |
+| Mayoría simple | Más votos afirmativos que negativos de los presentes. | Acuerdos ordinarios si la ley no exige otra. |
+| Mayoría absoluta | Más de la mitad del número legal de miembros. | Materias reservadas por legislación local. |
+| Mayoría cualificada | Proporción reforzada prevista por ley. | Supuestos especialmente relevantes si la norma lo exige. |
+| Voto de calidad | Decide empate cuando procede. | Órganos en los que la presidencia tiene voto dirimente. |
+
 ## Actas y certificaciones
 
 El Secretario levanta acta de cada sesión. El acta recoge asistentes, orden del día, lugar y hora, incidencias, acuerdos, votaciones y otros extremos. Una vez aprobada, acredita formalmente lo ocurrido.

@@ -72,6 +72,16 @@ El procedimiento negociado solo procede en supuestos tasados. El dialogo competi
 
 La adjudicación se basa en criterios establecidos en pliegos. Pueden ser automaticos, mediante fórmulas, o dependientes de juicio de valor. La mesa de contratación asiste al órgano de contratación en muchos procedimientos.
 
+El contrato menor permite tramitar contratos de pequeña cuantía con expediente simplificado, pero no autoriza fraccionar artificialmente el objeto para evitar publicidad o concurrencia. Deben justificarse necesidad, no alteración indebida del objeto, aprobación del gasto, incorporación de factura y, cuando proceda, informe o presupuesto.
+
+| Procedimiento | Rasgo | Cuándo encaja |
+| --- | --- | --- |
+| Abierto | Puede licitar cualquier empresario interesado. | Regla general. |
+| Abierto simplificado | Tramitación más ágil con requisitos legales. | Contratos no complejos dentro de límites. |
+| Restringido | Solo presentan oferta candidatos seleccionados. | Prestaciones que requieren selección previa. |
+| Negociado | Negociación en supuestos tasados. | Solo cuando la ley lo permite. |
+| Contrato menor | Expediente mínimo y límites cuantitativos. | Necesidades puntuales, sin fraccionamiento. |
+
 ## Efectos, cumplimiento y extinción
 
 Los contratos obligan a las partes según pliegos, oferta y documento contractual. La Administración conserva prerrogativas como interpretar contratos, resolver dudas, modificarlos por razones de interés público, declarar responsabilidad del contratista, suspender ejecución y acordar resolución, siempre con límites y procedimiento.
@@ -89,6 +99,8 @@ La modificación contractual está fuertemente limitada. Puede estar prevista en
 Los contratos pueden ser invalidos por causas de nulidad o anulabilidad de Derecho Administrativo o por infracciones contractuales específicas. La invalidez puede afectar a preparación, adjudicación o formalización.
 
 El recurso especial en materia de contratación procede frente a determinados actos y contratos sujetos a umbrales y condiciones legales. Es un recurso rapido y especializado. En otros casos proceden recursos administrativos ordinarios o la jurisdicción contencioso-administrativa.
+
+Son actos típicamente recurribles mediante recurso especial, cuando concurren los requisitos legales, los anuncios de licitación, pliegos, documentos contractuales que establezcan condiciones de la licitación, actos de trámite cualificados, acuerdos de adjudicación, modificaciones basadas en incumplimiento de requisitos legales y determinados encargos a medios propios. Su interposición puede producir efectos suspensivos en los casos previstos, especialmente frente a la adjudicación.
 
 ## Control de ejecución
 

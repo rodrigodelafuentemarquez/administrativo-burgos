@@ -74,6 +74,15 @@ La sanción debe ser proporcionada a la gravedad de la infracción. Se valoran i
 
 El principio non bis in idem impide sancionar dos veces por los mismos hechos, sujeto y fundamento. También condiciona la relación entre procedimiento penal y administrativo. Si los hechos pueden ser delito, la Administración debe respetar la prioridad penal en los términos legales.
 
+La irretroactividad es regla en materia sancionadora desfavorable: no puede aplicarse una infracción o sanción posterior a hechos anteriores si perjudica al presunto infractor. En cambio, las disposiciones sancionadoras producen efecto retroactivo cuando favorecen al infractor, tanto respecto de tipificación como de sanción o plazos, en los términos legales.
+
+| Regla temporal | Consecuencia |
+| --- | --- |
+| Irretroactividad desfavorable | No se sanciona con norma posterior más gravosa. |
+| Retroactividad favorable | Se aplica la norma posterior más beneficiosa. |
+| Prescripción | Extingue infracción o sanción por transcurso del plazo legal. |
+| Caducidad | Finaliza el procedimiento por superar el plazo máximo sin resolución. |
+
 ## Procedimiento sancionador
 
 El procedimiento sancionador se inicia siempre de oficio, por acuerdo del órgano competente, a iniciativa propia, orden superior, petición razonada o denuncia. Antes de iniciar puede abrirse información o actuaciones previas para determinar si existen indicios.
@@ -83,6 +92,8 @@ El acuerdo de iniciación debe identificar hechos, posible calificación, sancio
 La instrucción incorpora alegaciones, pruebas, informes y propuesta de resolución. La propuesta debe fijar hechos probados, infracción, persona responsable, sanción y valoración jurídica. El interesado tiene trámite de audiencia.
 
 La resolución debe ser motivada y decidir todas las cuestiones planteadas. No puede aceptar hechos distintos de los determinados en instrucción salvo actuaciones complementarias. Debe indicar recursos.
+
+Las medidas provisionales pueden adoptarse para asegurar la eficacia de la resolución final, evitar el mantenimiento de efectos de la infracción o proteger intereses generales. Deben estar previstas legalmente, ser proporcionales, motivarse y no causar perjuicios de imposible o difícil reparación. No son sanciones anticipadas.
 
 ## Medidas sancionadoras administrativas
 

@@ -97,4 +97,17 @@ En el Ayuntamiento son frecuentes reclamaciones por caidas en vía pública, da�
 | Contratista | Puede responder cuando el daño deriva de su actuación o incumplimiento. |
 | Autoridad o empleado | Acción de regreso si hay dolo, culpa o negligencia grave. |
 
+## Responsabilidad concurrente y acción de regreso
+
+Puede existir responsabilidad concurrente cuando intervienen varias Administraciones o cuando participan Administración y contratista. Si la gestión deriva de fórmulas conjuntas, convenios o actuaciones coordinadas, debe analizarse quien tenía la competencia, quien dirigía el servicio, quien ejecutó materialmente la actuación y si es posible distribuir cuotas de responsabilidad. Cuando no pueda determinarse la participación de cada Administración, puede operar responsabilidad solidaria frente al perjudicado.
+
+La acción de regreso protege el interés público después de indemnizar. La Administración que paga debe exigir de oficio responsabilidad a autoridades, empleados o contratistas cuando proceda, pero no por cualquier error: se requiere dolo, culpa o negligencia grave en autoridades y personal, y en contratistas se atiende a pliegos, órdenes recibidas y causa concreta del daño.
+
+| Situación | Pregunta que debe hacerse |
+| --- | --- |
+| Varias Administraciones | Qué competencia ejercía cada una y si puede individualizarse la causa. |
+| Contratista de servicio | Si el daño deriva de orden administrativa, defecto del proyecto o ejecución del contratista. |
+| Empleado público | Si hubo dolo, culpa o negligencia grave y relación causal con el daño. |
+| Culpa de la victima | Si rompe la causalidad o solo reduce la indemnización. |
+
 Para contestar bien este tema conviene seguir siempre el mismo orden: daño, antijuridicidad, causalidad, imputación al servicio, ausencia de fuerza mayor, plazo y procedimiento.

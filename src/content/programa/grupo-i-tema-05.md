@@ -159,6 +159,16 @@ Los recursos de las Haciendas locales incluyen ingresos procedentes de su patrim
 | Operaciones de crédito | Endeudamiento dentro de límites legales. |
 | Multas y sanciones | Ingresos derivados de potestad sancionadora. |
 
+La diferencia entre ingresos tributarios y no tributarios es muy preguntable. Los tributos se exigen coactivamente y comprenden impuestos, tasas y contribuciones especiales. Los precios públicos son ingresos de Derecho público, pero no tienen naturaleza tributaria: remuneran servicios o actividades prestados también por el sector privado o solicitados voluntariamente por el interesado, en los términos legales.
+
+| Ingreso | Naturaleza | Nota práctica |
+|---|---|---|
+| Impuesto | Tributo sin contraprestación directa. | Grava capacidad económica. |
+| Tasa | Tributo vinculado a dominio público o servicio/actividad administrativa. | Puede existir aunque el servicio sea obligatorio o no lo preste el sector privado. |
+| Contribución especial | Tributo por beneficio o aumento de valor. | Deriva de obra pública o establecimiento/ampliación de servicio. |
+| Precio público | Ingreso público no tributario. | Requiere voluntariedad o concurrencia con sector privado. |
+| Prestación patrimonial pública no tributaria | Prestación coactiva no tributaria. | Relevante en servicios gestionados de forma directa mediante personificación privada o indirecta. |
+
 ## Tributos locales
 
 Los tributos locales se clasifican en impuestos, tasas y contribuciones especiales. Los municipios pueden exigir impuestos obligatorios y, en determinados casos, impuestos potestativos.
@@ -178,6 +188,16 @@ Las contribuciones especiales se exigen cuando el sujeto pasivo obtiene un benef
 | IIVTNU | Incremento de valor de terrenos de naturaleza urbana. |
 | Tasas | Uso privativo/aprovechamiento especial o servicios que afecten al sujeto. |
 | Contribuciones especiales | Beneficio o aumento de valor por obra o servicio público local. |
+
+Los impuestos municipales obligatorios deben exigirse por todos los Ayuntamientos conforme a la Ley de Haciendas Locales. Los potestativos solo se exigen si la entidad local los establece mediante la correspondiente ordenanza fiscal. Esta diferencia no afecta a su naturaleza tributaria, sino a la necesidad de acuerdo municipal de establecimiento.
+
+| Impuestos obligatorios | Impuestos potestativos |
+|---|---|
+| IBI | ICIO |
+| IAE | IIVTNU |
+| IVTM |  |
+
+Las ordenanzas fiscales regulan la imposición, supresión y ordenación de tributos propios dentro de los límites legales. Deben identificar elementos esenciales como hecho imponible, sujeto pasivo, exenciones, reducciones, base imponible, tipo o cuota, devengo, periodo impositivo y régimen de gestión cuando proceda. La entidad local no crea libremente tributos nuevos: necesita habilitación legal.
 
 ## Presupuesto y control local
 

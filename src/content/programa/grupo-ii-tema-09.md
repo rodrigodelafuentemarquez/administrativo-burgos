@@ -31,6 +31,15 @@ También pueden existir bienes comunales, cuyo aprovechamiento corresponde al co
 
 La afectación es la clave. Un mismo inmueble puede cambiar de régimen si se afecta a servicio público o se desafecta. La desafectación debe tramitarse formalmente; no basta con que el bien deje de usarse de hecho durante un tiempo.
 
+La alteración de la calificación jurídica de los bienes exige expediente. La afectación incorpora un bien patrimonial al dominio público por destinarlo a uso o servicio público. La desafectación hace que un bien demanial deje de estar destinado a uso o servicio público y pase, en su caso, a patrimonial. También puede existir mutación demanial cuando cambia el destino público sin salir del dominio público.
+
+| Operación | Efecto |
+| --- | --- |
+| Afectación | Patrimonial o adquirido pasa a dominio público. |
+| Desafectación | Dominio público pasa a patrimonial si deja de estar afectado. |
+| Mutación demanial | Cambia el destino público conservando naturaleza demanial. |
+| Adscripción | Se asigna un bien a órgano, organismo o servicio para su gestión. |
+
 ## Bienes de dominio público local
 
 Son bienes de uso público local caminos, plazas, calles, paseos, parques, aguas de fuentes y estanques, puentes y demás obras públicas de aprovechamiento o utilización general cuya conservación y policía sean competencia local.
@@ -47,6 +56,15 @@ Los bienes de dominio público son inalienables, inembargables e imprescriptible
 | Potestad de recuperación | La entidad local puede defenderlos y recuperar su posesión conforme a la ley. |
 
 En expedientes de ocupación de vía pública, terrazas, quioscos, canalizaciones, vados o instalaciones temporales, el Ayuntamiento no "alquila" simplemente un espacio: autoriza o concede un aprovechamiento de dominio público sometido a condiciones, tasas, plazos y potestad de revocación en los términos legales.
+
+Las entidades locales disponen de prerrogativas para defender sus bienes: investigación, deslinde, recuperación de oficio y desahucio administrativo en los supuestos legalmente previstos. Estas potestades evitan que la defensa del patrimonio público dependa siempre de un pleito civil ordinario.
+
+| Prerrogativa | Utilidad |
+| --- | --- |
+| Investigación | Averiguar titularidad o situación de bienes y derechos. |
+| Deslinde | Fijar límites entre bienes locales y colindantes. |
+| Recuperación de oficio | Recuperar posesión indebidamente perdida. |
+| Desahucio administrativo | Recuperar bienes ocupados por título extinguido o insuficiente. |
 
 ## Bienes patrimoniales
 

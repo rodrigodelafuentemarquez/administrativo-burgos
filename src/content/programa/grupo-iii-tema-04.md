@@ -28,6 +28,16 @@ El ejercicio de la libertad sindical no puede justificar discriminación ni repr
 
 En el empleo público local, este derecho se combina con la necesidad de mantener servicios. Por eso se regulan crédito horario, permisos sindicales, locales, tablones, comunicaciones internas y participación en mesas. La Administración debe facilitar el ejercicio del derecho sin convertirlo en privilegio ni permitir que se paralice injustificadamente el servicio.
 
+Los órganos de representación dependen del tipo de personal. La Junta de Personal representa al personal funcionario. El Comité de Empresa o delegados de personal representan al personal laboral. Las secciones sindicales y delegados sindicales responden a la organización sindical. En un Ayuntamiento pueden coexistir todos ellos, además de mesas generales o sectoriales de negociación.
+
+| Instrumento | Representa o canaliza |
+| --- | --- |
+| Junta de Personal | Personal funcionario. |
+| Comité de Empresa/delegados de personal | Personal laboral. |
+| Sección sindical | Actividad del sindicato dentro de la Administración. |
+| Delegado sindical | Representación sindical cuando concurren requisitos. |
+| Mesa de negociación | Negociación de condiciones de trabajo del empleo público. |
+
 ## Negociación colectiva
 
 Los empleados públicos tienen derecho a negociación colectiva en los términos del EBEP. Los funcionarios negocian mediante mesas de negociación y acuerdos o pactos. El personal laboral negocia convenios colectivos conforme a la legislación laboral.
@@ -61,6 +71,8 @@ Los funcionarios y personal laboral pueden ejercer huelga con las peculiaridades
 
 En un Ayuntamiento pueden verse afectados servicios como policía local, protección civil, recogida de residuos, cementerio, servicios sociales, registro, atención ciudadana, instalaciones deportivas o escuelas municipales. No todos tienen la misma intensidad esencial; la motivación de servicios mínimos debe explicar por que se fija cada dotación.
 
+Los servicios mínimos no los fija libremente el Ayuntamiento como empleador para mantener la actividad ordinaria. Deben responder a servicios esenciales para la comunidad, ser proporcionados y estar motivados. Una dotación excesiva puede vaciar el derecho de huelga; una dotación insuficiente puede poner en riesgo derechos de la ciudadanía.
+
 ## Régimen de incompatibilidades
 
 El régimen de incompatibilidades busca garantizar imparcialidad, independencia, dedicación y ausencia de conflictos de intereses. Se aplica al personal al servicio de Administraciones Públicas, organismos, entidades y empresas públicas en los términos legales.
@@ -84,6 +96,8 @@ La compatibilidad debe solicitarse y obtenerse antes de iniciar la segunda activ
 Existen actividades exceptuadas, como administración del patrimonio personal, producción literaria o artistica no derivada de relación de empleo, participación ocasional en cursos o conferencias dentro de límites, y otras previstas.
 
 El incumplimiento del régimen puede generar responsabilidad disciplinaria y obligación de reintegro de cantidades indebidamente percibidas.
+
+El procedimiento de compatibilidad debe terminar en resolución expresa. En la tramitación se comprueban puesto principal, jornada, complementos que impliquen incompatibilidad, horario de la actividad secundaria, relación material con expedientes municipales, posible conflicto de intereses y límites retributivos. La autorización puede quedar sin efecto si cambian las circunstancias.
 
 ## Aplicación local
 

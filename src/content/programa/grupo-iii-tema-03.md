@@ -33,6 +33,16 @@ El personal laboral fijo accede mediante procesos incluidos en oferta de empleo 
 | Indefinido no fijo | Figura derivada normalmente de irregularidad o abuso; no equivale a fijo de plantilla. |
 | Temporal | Contratado por causa temporal legalmente justificada. |
 
+El personal indefinido no fijo es una figura de origen jurisprudencial ligada a contratación irregular o abuso de temporalidad en el sector público. No equivale a personal laboral fijo, porque no ha accedido a una plaza fija mediante proceso selectivo ordinario respetuoso con igualdad, mérito y capacidad. Permanece hasta que la plaza se cubra reglamentariamente, se amortice conforme a Derecho o concurra causa legal de extinción.
+
+| Figura | Acceso | Estabilidad |
+| --- | --- | --- |
+| Laboral fijo | Proceso selectivo para plaza fija. | Estabilidad propia de plaza laboral fija. |
+| Indefinido no fijo | Declaración por irregularidad o abuso. | Subsiste hasta cobertura regular, amortización o causa legal. |
+| Temporal | Causa temporal legal. | Limitada a la causa y duración permitida. |
+
+El abuso de temporalidad no convierte automáticamente en fijo al empleado público si no se ha superado un proceso selectivo adecuado. Puede generar consecuencias indemnizatorias, estabilización por procesos legales específicos o declaración de indefinido no fijo según el caso, pero siempre condicionada por los principios constitucionales de acceso.
+
 La Administración no puede contratar como una empresa privada ordinaria. Incluso cuando aplica Derecho laboral, está vinculada por publicidad, igualdad, mérito y capacidad. Por eso las bolsas de empleo, convocatorias, baremos, tribunales y listas deben tener reglas claras y motivadas.
 
 <mark>Clave de examen:</mark> el contrato laboral no permite saltarse los principios constitucionales de acceso al empleo público. La Administración no elige libremente a quien contratar para puestos públicos estructurales.

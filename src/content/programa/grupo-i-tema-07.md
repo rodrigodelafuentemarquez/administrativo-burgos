@@ -28,6 +28,8 @@ La organización municipal tiene dos dimensiones. La organización política est
 | Organización administrativa | Secretaría, Intervención, gestión tributaria, tesorería, asesoría jurídica, servicios y unidades administrativas. |
 | Función del modelo de gran población | Separar mejor dirección política, control plenario y gestión ejecutiva. |
 
+El Reglamento Organico y de Funcionamiento completa la aplicación local de este modelo. En examen conviene razonar siempre desde tres capas: primero la Ley de Bases, después el régimen de municipios de gran población y finalmente la organización concreta aprobada por el Ayuntamiento de Burgos. Esa secuencia evita atribuir al Pleno, al Alcalde o a la Junta funciones que en Burgos pueden estar desarrolladas o distribuidas por el reglamento orgánico, decretos de organización y delegaciones.
+
 ## Esquema general de órganos del programa
 
 Para fijar bien el tema conviene partir de un esquema muy simple:

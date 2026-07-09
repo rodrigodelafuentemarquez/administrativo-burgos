@@ -51,11 +51,22 @@ La "crisis" del concepto clasico de servicio público se explica porque muchas p
 
 La elección de forma de gestión debe justificarse por eficacia, sostenibilidad, coste, calidad, control y cumplimiento legal. No es una decisión puramente ideologica ni automatica: exige memoria, informes, análisis económico y control del interés público.
 
+Puede distinguirse entre gestión directa e indirecta. En la gestión directa, la entidad local conserva la prestación mediante sus propios medios o entidades instrumentales. En la gestión indirecta, un tercero presta o explota el servicio mediante contrato, normalmente concesión de servicios o fórmulas contractuales previstas por la Ley de Contratos.
+
+| Gestión directa | Gestión indirecta |
+| --- | --- |
+| Por la propia entidad local. | Por contratista o concesionario. |
+| Mediante organismo autónomo, entidad pública empresarial o sociedad mercantil local, si procede. | Mediante contrato y bajo control administrativo. |
+| Mayor integración en estructura pública. | Puede transferir riesgo operacional si hay concesión. |
+| Exige medios, organización y financiación propios. | Exige pliegos sólidos, responsable del contrato e indicadores de control. |
+
 ## Remunicipalización e iniciativa económica
 
 La remunicipalización consiste en recuperar para gestión pública directa o instrumental un servicio que estaba gestionado indirectamente. Puede plantearse por finalización de contrato, mala calidad, coste, interés estrategico o decisión política, pero debe respetar contratos vigentes, personal, bienes, costes, estabilidad presupuestaria y procedimiento.
 
 La iniciativa económica pública permite a las entidades públicas desarrollar actividades económicas cuando exista interés público y se cumplan requisitos legales. En el ámbito local exige especial prudencia: memoria justificativa, análisis de mercado, sostenibilidad financiera, respeto a competencia, transparencia, control financiero y responsabilidad.
+
+La remunicipalización no es solo terminar un contrato y asumir el servicio. Requiere expediente que compare alternativas, analice costes reales, medios personales y materiales, subrogación si procede, bienes afectos, tarifas, impacto presupuestario, estabilidad financiera y continuidad del servicio. También debe respetar la duración y extinción de contratos vigentes.
 
 ## Servicios locales
 

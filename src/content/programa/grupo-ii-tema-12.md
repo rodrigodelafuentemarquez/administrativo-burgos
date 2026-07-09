@@ -66,11 +66,23 @@ Las ordenanzas fiscales tienen procedimiento propio. Deben aprobarse provisional
 
 Su importancia en un Ayuntamiento es enorme porque habilitan la aplicación de tasas, impuestos potestativos y contribuciones especiales. Sin ordenanza fiscal valida, determinados ingresos no pueden exigirse.
 
+El expediente de ordenanza fiscal debe cuidar especialmente la memoria económico-financiera cuando se regulan tasas o precios vinculados al coste del servicio. La cuota no puede fijarse de forma arbitraria: debe justificarse conforme a la Ley de Haciendas Locales y a los informes económicos incorporados al expediente.
+
+| Ordenanza fiscal | Punto de control |
+| --- | --- |
+| Imposición | Acuerdo plenario que establece el tributo cuando es potestativo. |
+| Ordenación | Regulación de elementos del tributo dentro de la ley. |
+| Exposición pública | Reclamaciones durante el plazo legal. |
+| Publicación íntegra | Condición para entrada en vigor y exigibilidad. |
+| Memoria económica | Justifica coste, cuota o impacto cuando procede. |
+
 ## Control e impugnación
 
 Las ordenanzas y reglamentos pueden impugnarse ante la jurisdicción contencioso-administrativa. También pueden ser objeto de requerimientos o impugnaciones por Administraciones competentes cuando vulneren el ordenamiento.
 
 Los actos dictados en aplicación de una ordenanza también pueden recurrirse. Si la ordenanza es ilegal, puede plantearse impugnación directa o indirecta en los términos de la Ley de la Jurisdicción Contencioso-Administrativa.
+
+En ordenanzas fiscales, los interesados pueden formular reclamaciones durante la exposición pública. Tras la aprobación definitiva y publicación, la impugnación ordinaria de la disposición se dirige a la jurisdicción contencioso-administrativa. Distinto es recurrir un recibo, liquidación o providencia de apremio dictado en aplicación de la ordenanza: ahí se impugna el acto tributario concreto por las vías económico-administrativas o recursos procedentes.
 
 ## Bandos
 

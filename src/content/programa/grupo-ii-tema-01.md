@@ -87,6 +87,15 @@ Las comunidades autónomas pueden tener instituciones equivalentes en sus Estatu
 2. El `decreto legislativo` nace por delegación.
 3. En el decreto legislativo, el Gobierno debe respetar estrictamente la ley delegante.
 
+La delegación legislativa se agota por el uso que haga de ella el Gobierno mediante la publicación del decreto legislativo correspondiente. No cabe una delegación indefinida ni una habilitación genérica para legislar sobre cualquier materia.
+
+| Delegación | Norma delegante | Resultado | Contenido de la delegación |
+|---|---|---|---|
+| Texto articulado | Ley de bases | Decreto legislativo que articula una regulación nueva. | Las bases delimitan objeto, alcance, principios y criterios. |
+| Texto refundido | Ley ordinaria | Decreto legislativo que integra textos legales existentes. | Puede limitarse a refundir o incluir regularización, aclaración y armonización si se autoriza. |
+
+**Cuidado en test:** la ley de bases no puede autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo.
+
 ## El reglamento
 
 El reglamento es una norma jurídica de rango inferior a la ley dictada por una Administración Pública en ejercicio de potestad reglamentaria. En el Estado, la potestad reglamentaria corresponde al Gobierno, sin perjuicio de la potestad de los Ministros en su ámbito. En las entidades locales, el Pleno aprueba ordenanzas y reglamentos en materias de competencia local.

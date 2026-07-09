@@ -109,3 +109,17 @@ Son anulables los actos que incurran en cualquier infracción del ordenamiento, 
 | Irregularidad no invalidante | Defecto sin indefensión ni impacto esencial. | Error formal menor sin efecto real. |
 
 <mark>Resumen operativo:</mark> un acto puede ser valido pero no eficaz frente al interesado hasta que se notifique; y puede ser eficaz aunque luego sea anulado si se impugna con exito.
+
+## Conservación, conversión y convalidación
+
+La invalidez de un acto no siempre destruye todo el expediente. La Ley 39/2015 permite conservar actos y trámites cuyo contenido se hubiera mantenido igual aunque no se hubiera cometido la infracción. Esta regla evita repetir actuaciones inútiles y protege la economía procedimental.
+
+La conversión permite que un acto nulo o anulable produzca los efectos de otro distinto cuando contenga los elementos constitutivos de ese otro acto. La convalidación permite subsanar actos anulables corrigiendo el vicio, con efectos desde la fecha de convalidación salvo supuestos de retroactividad admitidos legalmente.
+
+| Técnica | Cuándo opera | Límite |
+| --- | --- | --- |
+| Conservación | Se mantienen trámites no afectados por el vicio. | No puede conservar lo que dependa del defecto invalidante. |
+| Conversión | El acto inválido reúne requisitos de otro acto. | Deben existir elementos suficientes del acto convertido. |
+| Convalidación | Se subsana un vicio de anulabilidad. | No sirve para actos nulos de pleno derecho. |
+
+Si el vicio consiste en incompetencia no determinante de nulidad, puede convalidar el órgano competente cuando sea superior jerárquico del que dictó el acto. Si falta autorización, puede convalidarse mediante su otorgamiento por el órgano competente.

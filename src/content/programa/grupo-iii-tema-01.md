@@ -43,6 +43,15 @@ El personal eventual realiza funciones expresamente calificadas de confianza o a
 
 <mark>Idea clave:</mark> no todas las tareas municipales pueden asignarse libremente a cualquier clase de personal. Las funciones que implican autoridad, fe pública, asesoramiento legal preceptivo, control interno, contabilidad, tesorería o recaudación tienen un régimen reforzado y, en muchos casos, reserva funcionarial.
 
+En la función pública local debe distinguirse también entre funcionarios con habilitación de carácter nacional y funcionarios propios de la entidad local. Los habilitados nacionales ocupan puestos reservados vinculados a secretaría, intervención-tesorería y secretaría-intervención. El resto se ordena en escalas y subescalas locales, de acuerdo con la normativa de régimen local.
+
+| Bloque de personal funcionario local | Función orientativa |
+| --- | --- |
+| Habilitación nacional | Fe pública, asesoramiento legal, control interno, contabilidad, tesorería y recaudación en puestos reservados. |
+| Escala de Administración General | Tareas comunes de gestión, tramitación, administración y apoyo. |
+| Escala de Administración Especial | Funciones propias de profesiones, oficios o cometidos técnicos específicos. |
+| Subescalas | Técnica, gestión, administrativa, auxiliar, subalterna u otras según régimen aplicable. |
+
 ## Régimen jurídico
 
 El régimen jurídico de los funcionarios combina derechos, deberes, situaciones administrativas, carrera, provisión, incompatibilidades, responsabilidad disciplinaria y pérdida de condición. El personal laboral se rige por el Estatuto de los Trabajadores y por el EBEP en materias comunes como principios de selección, derechos básicos, deberes, código de conducta e incompatibilidades.
@@ -55,6 +64,15 @@ En oposición suele preguntarse la diferencia entre **acceso** y **provisión**:
 - **Provisión:** permite ocupar un puesto concreto por quien ya pertenece a la Administración o reune condición previa.
 - **Promoción interna:** permite progresar a otro cuerpo, escala, subescala o grupo conforme a requisitos.
 - **Carrera profesional:** es la progresión profesional durante la relación de servicio.
+
+La plantilla presupuestaria, la relación de puestos de trabajo y la oferta de empleo público no son documentos equivalentes. La plantilla recoge plazas dotadas presupuestariamente. La RPT ordena puestos concretos con funciones, requisitos, forma de provisión y complementos. La OEP incluye necesidades de recursos humanos con asignación presupuestaria que deben cubrirse mediante incorporación de nuevo personal.
+
+| Instrumento | Responde a | Uso práctico |
+| --- | --- | --- |
+| Plantilla | Qué plazas existen y están presupuestadas. | Presupuesto y estructura de plazas. |
+| RPT | Qué puestos hay y cómo se desempeñan. | Funciones, requisitos, complementos y provisión. |
+| OEP | Qué plazas se convocarán para nuevo ingreso. | Planificación del acceso al empleo público. |
+| Bases de convocatoria | Cómo se selecciona o provee. | Reglas del proceso concreto. |
 
 ## Provisión de puestos
 
@@ -73,6 +91,8 @@ También existen formas provisionales: comisión de servicios, adscripción prov
 | Movilidad protegida | Atiende salud, violencia de género, violencia terrorista u otras causas. | Cambio de destino por protección o adaptación. |
 
 <mark>No confundir:</mark> la libre designación no es nombramiento arbitrario. Debe haber convocatoria pública, requisitos, motivación suficiente y respeto a la normativa.
+
+El personal directivo público profesional, cuando exista conforme a la normativa aplicable, ejerce funciones directivas profesionales sujetas a principios de mérito, capacidad, idoneidad, eficacia, eficiencia y responsabilidad por la gestión. No debe confundirse con personal eventual de confianza ni con órganos políticos.
 
 ## Derechos de los funcionarios
 

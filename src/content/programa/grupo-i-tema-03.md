@@ -144,6 +144,24 @@ La técnica de reparto no siempre consiste en atribuir una materia completa a un
 
 **Materias muy preguntables del artículo 149:** igualdad básica, nacionalidad, inmigración, relaciones internacionales, defensa, Administración de Justicia, legislación penal, laboral, mercantil, hacienda general, bases del régimen jurídico, procedimiento administrativo común, contratos y responsabilidad de las Administraciones Públicas.
 
+## Leyes marco, transferencia y armonización
+
+El artículo 150 de la Constitución completa el sistema de distribución competencial con tres técnicas de relación entre Estado y comunidades autónomas. Son importantes porque permiten modular el reparto de competencias sin reformar la Constitución ni el Estatuto.
+
+El artículo 150.1 permite a las Cortes Generales atribuir a todas o a alguna comunidad autónoma la facultad de dictar normas legislativas en materias de competencia estatal, dentro del marco de principios, bases y directrices fijado por una ley estatal. Esa ley se conoce como ley marco y debe establecer la modalidad de control de las Cortes Generales sobre las normas autonómicas.
+
+El artículo 150.2 permite al Estado transferir o delegar en las comunidades autónomas, mediante ley orgánica, facultades correspondientes a materias de titularidad estatal que por su propia naturaleza sean susceptibles de transferencia o delegación. La ley debe prever la correspondiente transferencia de medios financieros y las formas de control que se reserve el Estado.
+
+El artículo 150.3 permite al Estado dictar leyes que establezcan los principios necesarios para armonizar las disposiciones normativas de las comunidades autónomas, incluso en materias atribuidas a la competencia de estas, cuando así lo exija el interés general. La apreciación de esta necesidad corresponde a las Cortes Generales por mayoría absoluta de cada Cámara.
+
+| Técnica del artículo 150 | Instrumento | Finalidad | Clave de examen |
+|---|---|---|---|
+| Ley marco | Ley estatal ordinaria | Autoriza normas legislativas autonómicas sobre materia estatal. | El Estado fija principios, bases y directrices. |
+| Transferencia o delegación | Ley orgánica | Desplaza facultades estatales susceptibles de transferencia o delegación. | Debe prever medios financieros y controles estatales. |
+| Armonización | Ley estatal de armonización | Unifica principios cuando lo exige el interés general. | Requiere mayoría absoluta de cada Cámara para apreciar la necesidad. |
+
+**Cuidado en test:** el artículo 150 no es una lista de competencias materiales. Es un conjunto de técnicas de flexibilización, control y coordinación del Estado autonómico.
+
 ## Clausulas de cierre del sistema competencial
 
 El artículo 149.3 contiene reglas esenciales para resolver lagunas y conflictos. Las materias no atribuidas expresamente al Estado por la Constitución pueden corresponder a las comunidades autónomas si las asumen en sus Estatutos. Las competencias no asumidas por los Estatutos corresponden al Estado.

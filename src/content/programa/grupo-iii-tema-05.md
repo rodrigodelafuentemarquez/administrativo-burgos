@@ -56,6 +56,15 @@ La gestión corresponde a entidades gestoras como el Instituto Nacional de la Se
 | Servicio público de salud | Asistencia sanitaria en el ámbito correspondiente. |
 | SEPE | Prestaciones por desempleo en coordinación con Seguridad Social. |
 
+La estructura del sistema combina tres planos: régimen de encuadramiento, entidades que gestionan prestaciones y servicios comunes que gestionan actos instrumentales. En un expediente de personal no es lo mismo comunicar un alta a la Tesorería General que tramitar una prestación ante el INSS o gestionar una baja por contingencia profesional con una mutua.
+
+| Plano | Pregunta que resuelve |
+| --- | --- |
+| Régimen | En qué bloque del sistema queda encuadrada la persona. |
+| Entidad gestora | Quién reconoce o gestiona la prestación. |
+| Servicio común | Quién tramita afiliación, cotización o recaudación. |
+| Mutua colaboradora | Quién colabora en contingencias profesionales o IT según cobertura. |
+
 En la gestión cotidiana, recursos humanos suele relacionarse con el sistema RED, partes de incapacidad temporal, liquidaciones de seguros sociales, variaciones de datos, certificados de empresa, jubilaciones y comunicación de accidentes.
 
 ## Afiliación, altas, bajas y cotización
@@ -92,6 +101,14 @@ Las prestaciones pueden ser contributivas o no contributivas, económicas o en e
 | Desempleo | Perdida de empleo en personas protegidas que cumplen requisitos. |
 
 La acción protectora está ligada al hecho causante, la base reguladora, el período de carencia cuando proceda y la contingencia. Estos conceptos ayudan a entender por que dos personas con bajas o jubilaciones aparentemente parecidas pueden tener prestaciones diferentes.
+
+| Concepto | Significado |
+| --- | --- |
+| Hecho causante | Acontecimiento que origina la protección. |
+| Base reguladora | Magnitud económica usada para calcular la prestación. |
+| Carencia | Periodo mínimo de cotización exigido en algunas prestaciones. |
+| Situación de alta o asimilada | Conexión con el sistema exigida para muchas prestaciones. |
+| Contingencia | Origen común o profesional de la situación protegida. |
 
 ## Contingencias
 
