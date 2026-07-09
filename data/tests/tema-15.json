@@ -291,7 +291,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos.",
-    "referencia": "Examen Estado 2026, art. 32.8 LRJSP; Tema II.6, responsabilidad de la Administración"
+    "referencia": "Examen Estado 2026, art. 32.8 LRJSP; Tema II.6, responsabilidad de la Administración",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t15-02",
@@ -305,6 +308,9 @@
     ],
     "correcta": 0,
     "explicación": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración.",
-    "referencia": "Tema II.6, presupuestos de la responsabilidad patrimonial"
+    "referencia": "Tema II.6, presupuestos de la responsabilidad patrimonial",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

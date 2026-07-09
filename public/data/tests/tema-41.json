@@ -305,7 +305,10 @@
     ],
     "correcta": 0,
     "explicación": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo.",
-    "referencia": "Examen Estado 2026, Word 365; Tema V.10"
+    "referencia": "Examen Estado 2026, Word 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t41-02",
@@ -319,7 +322,10 @@
     ],
     "correcta": 0,
     "explicación": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión.",
-    "referencia": "Examen Estado 2026, Word 365; Tema V.10"
+    "referencia": "Examen Estado 2026, Word 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t41-03",
@@ -333,7 +339,10 @@
     ],
     "correcta": 0,
     "explicación": "FILAS devuelve el número de filas de una referencia; aplicada a Registros[Fecha], cuenta las filas de esa columna.",
-    "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t41-04",
@@ -347,7 +356,10 @@
     ],
     "correcta": 0,
     "explicación": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras.",
-    "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t41-05",
@@ -361,7 +373,10 @@
     ],
     "correcta": 0,
     "explicación": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4.",
-    "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t41-06",
@@ -375,7 +390,10 @@
     ],
     "correcta": 0,
     "explicación": "La función NO devuelve el valor lógico opuesto de su argumento.",
-    "referencia": "Examen Estado 2026, Excel 365; Tema V.10"
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-v10-01",

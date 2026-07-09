@@ -11,7 +11,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 21",
-    "explicación": "Burgos tiene la condición de municipio de gran población."
+    "explicación": "Burgos tiene la condición de municipio de gran población.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q22",
@@ -25,7 +28,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 22",
-    "explicación": "El control financiero en el Ayuntamiento corresponde a la Intervención General."
+    "explicación": "El control financiero en el Ayuntamiento corresponde a la Intervención General.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q23",
@@ -39,7 +45,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 23",
-    "explicación": "La función de fe pública se vincula a la Secretaría General."
+    "explicación": "La función de fe pública se vincula a la Secretaría General.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q26",
@@ -53,7 +62,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 26",
-    "explicación": "El reglamento considera no adscritos tanto a quienes no se integran en su grupo originario como a quienes lo abandonan o son expulsados."
+    "explicación": "El reglamento considera no adscritos tanto a quienes no se integran en su grupo originario como a quienes lo abandonan o son expulsados.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q29",
@@ -67,7 +79,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 29",
-    "explicación": "El reglamento municipal fija una composición mínima de presidente, vocal y vocal-secretario."
+    "explicación": "El reglamento municipal fija una composición mínima de presidente, vocal y vocal-secretario.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q44",
@@ -81,7 +96,44 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 44",
-    "explicación": "En los municipios de gran población existe la Comisión especial de sugerencias y reclamaciones."
+    "explicación": "En los municipios de gran población existe la Comisión especial de sugerencias y reclamaciones.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q27",
+    "tema": 7,
+    "pregunta": "El Reglamento Orgánico y de Funcionamiento del Ayuntamiento de Burgos establece que las sesiones ordinarias del Pleno del Ayuntamiento de Burgos:",
+    "opciones": [
+      "Se celebrará una al mes. La fecha y horario de celebración de las sesiones ordinarias se determinará en la sesión constitutiva de la corporación.",
+      "Se celebrará una al mes. La fecha y horario de celebración de las sesiones ordinarias se determinará en una sesión extraordinaria del Pleno convocada dentro de los treinta días siguientes al de la sesión constitutiva de la corporación.",
+      "Se celebrará una al mes. La fecha y horario de celebración de las sesiones ordinarias se determinará en la sesión constitutiva de la corporación. La Junta de Portavoces, por mayoría cualificada y siempre que existan causas justificadas, podrá modificar la fecha de celebración de las sesiones ordinarias.",
+      "Se celebrará una al mes. La fecha y horario de celebración de las sesiones ordinarias se determinará en una sesión extraordinaria del Pleno convocada dentro de los treinta días siguientes al de la sesión constitutiva de la corporación. La Junta de Portavoces, por mayoría cualificada y siempre que existan causas justificadas, podrá modificar la fecha de celebración de las sesiones ordinarias."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 27",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q28",
+    "tema": 7,
+    "pregunta": "De acuerdo con el artículo 109 del Reglamento Orgánico de Funcionamiento del Ayuntamiento de Burgos, la Secretaría Municipal es una unidad administrativa integrada por:",
+    "opciones": [
+      "El Secretario General.",
+      "El Vicesecretario General.",
+      "Las dos anteriores son correctas.",
+      "A y B y los Secretarios Delegados."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 28",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "topup-07-01",
@@ -361,7 +413,10 @@
     ],
     "correcta": 0,
     "explicación": "En municipios de gran población, el Pleno concentra debate, aprobación normativa y presupuestaria y control político, mientras la gestión ejecutiva corresponde a otros órganos.",
-    "referencia": "Tema I.7, Pleno del Ayuntamiento de Burgos"
+    "referencia": "Tema I.7, Pleno del Ayuntamiento de Burgos",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i07-02",
@@ -375,6 +430,9 @@
     ],
     "correcta": 0,
     "explicación": "La Comisión Especial de Sugerencias y Reclamaciones se vincula a la defensa de los derechos de los vecinos ante la Administración municipal.",
-    "referencia": "Tema I.7, municipios de gran población"
+    "referencia": "Tema I.7, municipios de gran población",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

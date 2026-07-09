@@ -11,7 +11,44 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 14",
-    "explicación": "La notificación debe cursarse en el plazo de diez días desde que el acto ha sido dictado."
+    "explicación": "La notificación debe cursarse en el plazo de diez días desde que el acto ha sido dictado.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q13",
+    "tema": 11,
+    "pregunta": "Según La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados con sucinta referencia de hechos y fundamentos de derecho:",
+    "opciones": [
+      "Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales previstas en el artículo 56.",
+      "Los actos que admitan pruebas propuestas por los interesados.",
+      "Las certificaciones expedidas por Secretaria.",
+      "Los actos que se dicten en el ejercicio de potestades discrecionales, así como los que deban serlo en virtud de disposición administrativa expresa."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 13",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q15",
+    "tema": 11,
+    "pregunta": "Según indica la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, los actos de las Administraciones Públicas son nulos de pleno derecho en los siguientes casos:",
+    "opciones": [
+      "Los dictados prescindiendo del procedimiento utilizado en situaciones anteriores, análogas a la presente.",
+      "Los dictados por órgano manifiestamente incompetente por razón de la jerarquía, competencia o del territorio.",
+      "Los que lesionen los derechos y libertades susceptibles de amparo legal.",
+      "Cualquiera que se establezca expresamente en una disposición con rango de Ley."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 15",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t16-p001",
@@ -319,7 +356,10 @@
     ],
     "correcta": 0,
     "explicación": "La regla general de anulabilidad comprende cualquier infracción del ordenamiento jurídico, incluida la desviación de poder; las otras opciones son causas típicas de nulidad de pleno derecho.",
-    "referencia": "Examen Estado 2026, art. 48 LPACAP; Tema II.2, validez de los actos"
+    "referencia": "Examen Estado 2026, art. 48 LPACAP; Tema II.2, validez de los actos",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t11-02",
@@ -333,6 +373,9 @@
     ],
     "correcta": 0,
     "explicación": "La desviación de poder se cita expresamente en el art. 48 LPACAP como supuesto de anulabilidad.",
-    "referencia": "Tema II.2, invalidez del acto administrativo"
+    "referencia": "Tema II.2, invalidez del acto administrativo",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

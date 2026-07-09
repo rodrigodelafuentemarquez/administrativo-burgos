@@ -1,5 +1,56 @@
 [
   {
+    "id": "pdf-2025-burgos-q37",
+    "tema": 27,
+    "pregunta": "Según el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, artículo 2, la hacienda de las entidades locales estará constituida por los siguientes recursos:",
+    "opciones": [
+      "Los ingresos procedentes de su patrimonio y demás de derecho privado.",
+      "Las subvenciones.",
+      "Los percibidos en concepto de precios públicos.",
+      "Todas las anteriores son correctas."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 37",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q38",
+    "tema": 27,
+    "pregunta": "Respecto de los precios públicos, el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, señala que:",
+    "opciones": [
+      "Los precios públicos se determinarán a un nivel que cubra no menos del diez por ciento ni por encima del veinte por ciento de los costes económicos originados por la realización de las actividades o la prestación de los servicios.",
+      "Las corporaciones locales podrán exigir precios públicos por los servicios de alumbrado de vías públicas.",
+      "No procederá, en ningún caso, la devolución del importe correspondiente al precio público abonado.",
+      "La obligación de pagar el precio público nace desde que se inicie la prestación del servicio o la realización de la actividad."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 38",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q39",
+    "tema": 27,
+    "pregunta": "De conformidad con el art. 26 del Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, las tasas podrán devengarse, según la naturaleza de su hecho imponible y conforme determine la respectiva ordenanza fiscal:",
+    "opciones": [
+      "Cuando se inicie el uso privativo o el aprovechamiento especial.",
+      "Cuando se presente la solicitud que inicie la actuación o el expediente que no se realizará o tramitará sin que se haya efectuado el pago correspondiente.",
+      "Las respuestas a y b son correctas.",
+      "Las respuestas a y b son incorrectas."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 39",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "topup-27-03",
     "pregunta": "En tributos locales, entre los impuestos municipales obligatorios se encuentra el:",
     "opciones": [

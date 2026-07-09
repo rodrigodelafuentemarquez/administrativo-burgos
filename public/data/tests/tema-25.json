@@ -291,7 +291,10 @@
     ],
     "correcta": 0,
     "explicación": "La participación en tribunales calificadores figura entre las actividades exceptuadas del régimen de incompatibilidades.",
-    "referencia": "Examen Estado 2026, Ley 53/1984; Tema III.4, incompatibilidades"
+    "referencia": "Examen Estado 2026, Ley 53/1984; Tema III.4, incompatibilidades",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t25-02",
@@ -305,7 +308,10 @@
     ],
     "correcta": 0,
     "explicación": "El régimen de incompatibilidades exige autorización o reconocimiento de compatibilidad en los supuestos legalmente previstos.",
-    "referencia": "Tema III.4, régimen de incompatibilidades"
+    "referencia": "Tema III.4, régimen de incompatibilidades",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-iii04-01",

@@ -11,7 +11,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 45",
-    "explicación": "Las personas jurídicas están obligadas a relacionarse electronicamente con las Administraciones."
+    "explicación": "Las personas jurídicas están obligadas a relacionarse electronicamente con las Administraciones.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q46",
@@ -25,7 +28,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 46",
-    "explicación": "La sede electrónica es una dirección electrónica oficial cuya titularidad corresponde a una Administración u organismo público."
+    "explicación": "La sede electrónica es una dirección electrónica oficial cuya titularidad corresponde a una Administración u organismo público.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q47-reg",
@@ -39,7 +45,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 47",
-    "explicación": "El registro electrónico permite la presentación de solicitudes todos los días del año durante las 24 horas."
+    "explicación": "El registro electrónico permite la presentación de solicitudes todos los días del año durante las 24 horas.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q57",
@@ -53,7 +62,44 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 57",
-    "explicación": "El artículo 41 LPAC regula la práctica de las notificaciones y establece su preferencia por medios electrónicos."
+    "explicación": "El artículo 41 LPAC regula la práctica de las notificaciones y establece su preferencia por medios electrónicos.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q45",
+    "tema": 38,
+    "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas:",
+    "opciones": [
+      "Proveerán los medios y sistemas electrónicos con los que desean comunicarse.",
+      "Nunca podrán ser obligadas a relacionarse a través de medios electrónicos con las administraciones públicas.",
+      "Podrán optar por un medio de comunicación y este no podrá modificarlo.",
+      "Podrán elegir en todo momento si se comunican con las administraciones públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 45",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q46",
+    "tema": 38,
+    "pregunta": "¿A qué concepto se le atribuye la siguiente definición en la Ley 40/2015, de 1 octubre, de Régimen Jurídico del Sector Público “dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública”?",
+    "opciones": [
+      "Página web.",
+      "PAGe.",
+      "Sede electrónica.",
+      "Intranet."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 46",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t34-p001",
@@ -347,7 +393,10 @@
     ],
     "correcta": 0,
     "explicación": "La identificación electrónica administrativa puede realizarse mediante sello electrónico basado en certificado reconocido o cualificado.",
-    "referencia": "Examen Estado 2026, identificación electrónica; Tema V.7, Administración electrónica"
+    "referencia": "Examen Estado 2026, identificación electrónica; Tema V.7, Administración electrónica",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t38-02",
@@ -361,7 +410,10 @@
     ],
     "correcta": 0,
     "explicación": "El aviso es un complemento informativo y no sustituye a la notificación electrónica practicada por acceso o rechazo.",
-    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema V.7"
+    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema V.7",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-v07-01",

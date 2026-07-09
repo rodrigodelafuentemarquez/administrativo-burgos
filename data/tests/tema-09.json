@@ -11,7 +11,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 11",
-    "explicación": "El Estatuto de Autonomía de Castilla y León fue aprobado por la Ley Orgánica 4/1983."
+    "explicación": "El Estatuto de Autonomía de Castilla y León fue aprobado por la Ley Orgánica 4/1983.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q07",
@@ -25,7 +28,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 7",
-    "explicación": "La reforma estatutaria exige mayoría de dos tercios en las Cortes de Castilla y León y aprobación estatal mediante ley orgánica."
+    "explicación": "La reforma estatutaria exige mayoría de dos tercios en las Cortes de Castilla y León y aprobación estatal mediante ley orgánica.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q08",
@@ -39,7 +45,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 8",
-    "explicación": "Las instituciones básicas son las Cortes, el Presidente y la Junta de Castilla y León."
+    "explicación": "Las instituciones básicas son las Cortes, el Presidente y la Junta de Castilla y León.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t08-p001",
@@ -683,7 +692,10 @@
     ],
     "correcta": 0,
     "explicación": "El procedimiento de reforma estatutaria exige aprobación por las Cortes de Castilla y León por mayoría reforzada de dos tercios.",
-    "referencia": "Tema I.9, reforma del Estatuto de Autonomía"
+    "referencia": "Tema I.9, reforma del Estatuto de Autonomía",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i09-02",
@@ -697,7 +709,10 @@
     ],
     "correcta": 0,
     "explicación": "El Procurador del Común es el equivalente autonómico del Defensor del Pueblo y supervisa la actividad administrativa en su ámbito.",
-    "referencia": "Tema I.9, instituciones propias de Castilla y León"
+    "referencia": "Tema I.9, instituciones propias de Castilla y León",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-i09-01",

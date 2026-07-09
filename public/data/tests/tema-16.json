@@ -11,7 +11,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 34",
-    "explicación": "Los programas de ordenador desarrollados a medida se excluyen del contrato de suministro."
+    "explicación": "Los programas de ordenador desarrollados a medida se excluyen del contrato de suministro.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q35",
@@ -25,7 +28,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 35",
-    "explicación": "Los servicios que impliquen ejercicio de autoridad no pueden ser objeto de contrato de servicios."
+    "explicación": "Los servicios que impliquen ejercicio de autoridad no pueden ser objeto de contrato de servicios.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q36",
@@ -39,7 +45,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 36",
-    "explicación": "Esa configuración corresponde al procedimiento restringido."
+    "explicación": "Esa configuración corresponde al procedimiento restringido.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q33",
@@ -53,7 +62,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 33",
-    "explicación": "En los municipios de gran población, la competencia como órgano de contratación se atribuye a la Junta de Gobierno Local."
+    "explicación": "En los municipios de gran población, la competencia como órgano de contratación se atribuye a la Junta de Gobierno Local.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q34",
@@ -67,7 +79,44 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 34",
-    "explicación": "Los anuncios de licitación, los pliegos y los acuerdos de adjudicación pueden ser objeto de recurso especial en los supuestos legales."
+    "explicación": "Los anuncios de licitación, los pliegos y los acuerdos de adjudicación pueden ser objeto de recurso especial en los supuestos legales.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q35",
+    "tema": 16,
+    "pregunta": "Respecto de los contratos menores:",
+    "opciones": [
+      "Podrán adjudicarse directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria.",
+      "Los contratos menores no podrán tener una duración superior a un año y podrán ser objeto de una única prórroga.",
+      "Los contratos menores se perfeccionan con su formalización.",
+      "Conforme a lo señalado en el art. 63.4, la publicación de la información relativa a los contratos menores en el perfil del contratante deberá realizarse, al menos, semestralmente."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 35",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q36",
+    "tema": 16,
+    "pregunta": "De conformidad con el art. 22 de la Ley 9/2017, de 8 de noviembre de Contratos del Sector Público, están sujetos a regulación armonizada los contratos de servicios que licite el Ayuntamiento de Burgos que tengan por objeto los servicios sociales y otros servicios específicos enumerados en el anexo IV cuyo valor estimado sea igual o superior a las siguientes cantidades:",
+    "opciones": [
+      "175.000 euros.",
+      "143.000 euros.",
+      "750.000 euros.",
+      "221.000 euros."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 36",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t20-p001",
@@ -368,13 +417,13 @@
     "tema": 16,
     "pregunta": "En contratación del sector público, la LCSP transpone principalmente las Directivas:",
     "opciones": [
-      "2014/24/UE y 2014/25/UE",
+      "2014/23/UE y 2014/24/UE",
       "2006/123/CE y 2009/72/CE",
       "2016/679/UE y 2017/2455/UE",
       "98/83/CE y 2000/60/CE"
     ],
     "correcta": 0,
-    "explicación": "El tema cita esas dos directivas como base europea.",
+    "explicación": "La LCSP incorpora principalmente la Directiva 2014/24/UE, sobre contratación pública, y la Directiva 2014/23/UE, relativa a concesiones.",
     "referencia": "II.7 · 1.2 La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público"
   },
   {
@@ -655,7 +704,10 @@
     ],
     "correcta": 0,
     "explicación": "El examen de Estado 2026 subraya que no cabe revisión de precios en contratos celebrados con precios provisionales.",
-    "referencia": "Examen Estado 2026, art. 102 LCSP; Tema II.7, revisión de precios"
+    "referencia": "Examen Estado 2026, art. 102 LCSP; Tema II.7, revisión de precios",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t16-02",
@@ -669,7 +721,10 @@
     ],
     "correcta": 0,
     "explicación": "El valor estimado se calcula sin IVA e incluyendo prórrogas y demás elementos computables legalmente.",
-    "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, expediente de contratación"
+    "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, expediente de contratación",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t16-03",
@@ -683,7 +738,10 @@
     ],
     "correcta": 0,
     "explicación": "La regla general de la LCSP para contratos de servicios de prestación sucesiva es un plazo máximo de cinco años, incluidas posibles prórrogas.",
-    "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, duración"
+    "referencia": "Examen Estado 2026, contrato de servicios; Tema II.7, duración",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t16-04",
@@ -697,7 +755,10 @@
     ],
     "correcta": 0,
     "explicación": "La LCSP fija quince días como plazo máximo de adjudicación cuando el único criterio es el precio.",
-    "referencia": "Examen Estado 2026, adjudicación; Tema II.7, procedimientos de adjudicación"
+    "referencia": "Examen Estado 2026, adjudicación; Tema II.7, procedimientos de adjudicación",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t16-05",
@@ -711,7 +772,10 @@
     ],
     "correcta": 0,
     "explicación": "La LCSP prevé una penalidad del 3 por ciento del presupuesto base de licitación, IVA excluido, que se hará efectiva conforme a la garantía si procede.",
-    "referencia": "Examen Estado 2026, formalización; Tema II.7, formalización e invalidez"
+    "referencia": "Examen Estado 2026, formalización; Tema II.7, formalización e invalidez",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t16-06",
@@ -725,7 +789,10 @@
     ],
     "correcta": 0,
     "explicación": "La prórroga debe acordarse por el órgano de contratación; no cabe prórroga tácita, y será obligatoria si se cumplen los requisitos de preaviso.",
-    "referencia": "Examen Estado 2026, prórroga contractual; Tema II.7, efectos y extinción"
+    "referencia": "Examen Estado 2026, prórroga contractual; Tema II.7, efectos y extinción",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-ii07-01",

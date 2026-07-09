@@ -291,7 +291,10 @@
     ],
     "correcta": 0,
     "explicación": "La función carácterística del Tribunal de Cuentas es la fiscalización externa de la actividad económico-financiera del sector público.",
-    "referencia": "Examen Estado 2026, Tribunal de Cuentas; Tema IV.4, control externo"
+    "referencia": "Examen Estado 2026, Tribunal de Cuentas; Tema IV.4, control externo",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t30-02",
@@ -305,6 +308,9 @@
     ],
     "correcta": 0,
     "explicación": "El control interno corresponde a la Intervención; el control externo se atribuye al Tribunal de Cuentas y, en su ámbito, a órganos autonómicos como el Consejo de Cuentas.",
-    "referencia": "Tema IV.4, control del gasto público"
+    "referencia": "Tema IV.4, control del gasto público",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

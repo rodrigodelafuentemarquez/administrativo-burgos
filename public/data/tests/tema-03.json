@@ -11,7 +11,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 10",
-    "explicación": "El artículo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autónomas que se constituyan."
+    "explicación": "El artículo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autónomas que se constituyan.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q09",
@@ -25,7 +28,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 9",
-    "explicación": "La alteración de los límites provinciales requiere ley orgánica conforme al artículo 141 CE."
+    "explicación": "La alteración de los límites provinciales requiere ley orgánica conforme al artículo 141 CE.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t07-p001",
@@ -347,7 +353,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 152 CE atribuye al Presidente autonómico la suprema representación de la Comunidad y la ordinaria del Estado en ella.",
-    "referencia": "Examen Estado 2026 modelo A, pregunta 9; Tema I.3, organización autonómica"
+    "referencia": "Examen Estado 2026 modelo A, pregunta 9; Tema I.3, organización autonómica",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i03-02",
@@ -361,6 +370,9 @@
     ],
     "correcta": 0,
     "explicación": "El art. 149.3 CE combina prevalencia del Derecho estatal en caso de conflicto, salvo competencias exclusivas autonómicas, y supletoriedad general del Derecho estatal.",
-    "referencia": "Tema I.3, distribución de competencias"
+    "referencia": "Tema I.3, distribución de competencias",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

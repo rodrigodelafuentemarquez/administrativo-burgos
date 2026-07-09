@@ -11,7 +11,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 1",
-    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoría de tres quintos en cada Cámara."
+    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoría de tres quintos en cada Cámara.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q01",
@@ -25,7 +28,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 1",
-    "explicación": "La Constitución fue publicada en el BOE el 29 de diciembre de 1978."
+    "explicación": "La Constitución fue publicada en el BOE el 29 de diciembre de 1978.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q03",
@@ -39,7 +45,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 3",
-    "explicación": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional."
+    "explicación": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t01-p001",
@@ -347,7 +356,10 @@
     ],
     "correcta": 0,
     "explicación": "En la reforma ordinaria del art. 167 CE el referéndum no es automático: procede si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
-    "referencia": "Tema I.1, reforma constitucional ordinaria"
+    "referencia": "Tema I.1, reforma constitucional ordinaria",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i01-02",
@@ -361,6 +373,9 @@
     ],
     "correcta": 0,
     "explicación": "El art. 168 CE se aplica, entre otros supuestos, a revisiones que afecten a la Sección 1.ª del Capítulo II del Título I.",
-    "referencia": "Tema I.1, reforma constitucional agravada"
+    "referencia": "Tema I.1, reforma constitucional agravada",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

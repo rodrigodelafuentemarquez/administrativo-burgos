@@ -1,5 +1,73 @@
 [
   {
+    "id": "pdf-2025-burgos-q02",
+    "tema": 2,
+    "pregunta": "¿Qué órgano asume la función de las Cámaras entre los períodos de sesiones?",
+    "opciones": [
+      "La Diputación Permanente de las Cortes Generales.",
+      "La Diputación Permanente de cada Cámara.",
+      "La Diputación Permanente del Congreso.",
+      "La Diputación Permanente del Senado."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 2",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q04",
+    "tema": 2,
+    "pregunta": "La Constitución Española indica en su artículo 68 que el Congreso se compone de:",
+    "opciones": [
+      "350 Diputados.",
+      "300 Diputados.",
+      "Un mínimo de 200 y un máximo de 300 Diputados.",
+      "Un mínimo de 300 y un máximo de 400 Diputados."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 4",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q05",
+    "tema": 2,
+    "pregunta": "Respecto a la exigencia de responsabilidad criminal del Presidente y los demás miembros del Gobierno, ¿Cuál es el órgano competente?",
+    "opciones": [
+      "La Sala de lo Civil del Tribunal Supremo.",
+      "El Tribunal Constitucional.",
+      "La Sala de lo Penal del Tribunal Supremo.",
+      "La Audiencia Nacional."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 5",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q06",
+    "tema": 2,
+    "pregunta": "¿Quién puede plantear una cuestión de confianza?",
+    "opciones": [
+      "El Congreso de los Diputados.",
+      "El Gobierno.",
+      "El Rey.",
+      "El Presidente del Gobierno."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 6",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t03-p001",
     "tema": 2,
     "pregunta": "En una Monarquía parlamentaria, el Rey:",
@@ -991,7 +1059,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 67 CE impide ser miembro de las dos Cámaras simultáneamente y también acumular acta autonómica con la de Diputado al Congreso.",
-    "referencia": "Examen Estado 2026 modelo A, pregunta 3; Tema I.2, Cortes Generales"
+    "referencia": "Examen Estado 2026 modelo A, pregunta 3; Tema I.2, Cortes Generales",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i02-02",
@@ -1005,7 +1076,10 @@
     ],
     "correcta": 0,
     "explicación": "La cuestión de confianza se decide solo en el Congreso y se entiende otorgada por mayoría simple.",
-    "referencia": "Examen Estado 2026 modelo A, pregunta 5; Tema I.2, Gobierno y Cortes"
+    "referencia": "Examen Estado 2026 modelo A, pregunta 5; Tema I.2, Gobierno y Cortes",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i02-03",
@@ -1019,6 +1093,9 @@
     ],
     "correcta": 0,
     "explicación": "El Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
-    "referencia": "Examen Estado 2026 modelo A, pregunta 4; Tema I.2, Poder Judicial"
+    "referencia": "Examen Estado 2026 modelo A, pregunta 4; Tema I.2, Poder Judicial",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

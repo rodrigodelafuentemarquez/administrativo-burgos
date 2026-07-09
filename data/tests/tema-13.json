@@ -11,7 +11,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 31",
-    "explicación": "Contra los actos que no ponen fin a la vía administrativa procede el recurso de alzada."
+    "explicación": "Contra los actos que no ponen fin a la vía administrativa procede el recurso de alzada.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q19",
@@ -25,7 +28,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 19",
-    "explicación": "El recurso administrativo extraordinario frente a actos firmes es el recurso extraordinario de revisión."
+    "explicación": "El recurso administrativo extraordinario frente a actos firmes es el recurso extraordinario de revisión.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-r01-lesividad",
@@ -39,7 +45,27 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · reserva 1",
-    "explicación": "Los actos favorables anulables exigen declaración de lesividad antes de su impugnación contenciosa."
+    "explicación": "Los actos favorables anulables exigen declaración de lesividad antes de su impugnación contenciosa.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q20",
+    "tema": 13,
+    "pregunta": "Conforme al artículo 107 la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": [
+      "Las Administraciones Públicas podrán impugnar ante el orden jurisdiccional contencioso-administrativo los actos favorables para los interesados que sean nulos de pleno derecho.",
+      "La declaración de lesividad no podrá adoptarse una vez transcurridos cinco años desde que se dictó el acto administrativo.",
+      "Si el acto proviniera de las entidades que integran la Administración Local, la declaración de lesividad se adoptará por la Comunidad Autónoma correspondiente.",
+      "Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 20",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t16-p014",
@@ -425,12 +451,12 @@
     "pregunta": "¿Qué órgano conoce de recursos contra actos de los Ministros y Secretarios de Estado?",
     "opciones": [
       "Juzgados Centrales de lo Contencioso-Administrativo",
-      "Tribunal Supremo",
+      "Audiencia Nacional",
       "Tribunales Superiores de Justicia",
       "Juzgados de lo Penal"
     ],
     "correcta": 1,
-    "explicación": "El tema asigna esa competencia a la Sala de lo Contencioso-Administrativo de la Audiencia Nacional en única instancia.",
+    "explicación": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional conoce en única instancia de los recursos contra disposiciones generales y actos de Ministros y Secretarios de Estado.",
     "referencia": "II.4 · 4.4 Audiencia Nacional — Sala de lo Contencioso-Administrativo"
   },
   {
@@ -571,7 +597,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 114 LPACAP incluye entre los actos que ponen fin a la vía administrativa los acuerdos, pactos, convenios o contratos finalizadores del procedimiento.",
-    "referencia": "Examen Estado 2026, art. 114 LPACAP; Tema II.4, recursos administrativos"
+    "referencia": "Examen Estado 2026, art. 114 LPACAP; Tema II.4, recursos administrativos",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t13-02",
@@ -585,7 +614,10 @@
     ],
     "correcta": 0,
     "explicación": "Frente a actos que ponen fin a la vía administrativa cabe reposición potestativa o acudir directamente a la jurisdicción contencioso-administrativa.",
-    "referencia": "Tema II.4, recurso de reposición"
+    "referencia": "Tema II.4, recurso de reposición",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-ii04-01",

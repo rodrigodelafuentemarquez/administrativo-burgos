@@ -291,7 +291,10 @@
     ],
     "correcta": 0,
     "explicación": "El correo electrónico ordinario funciona mediante servidores y protocolos de comunicación.",
-    "referencia": "Examen Estado 2026, correo electrónico; Tema V.11"
+    "referencia": "Examen Estado 2026, correo electrónico; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t42-02",
@@ -305,7 +308,10 @@
     ],
     "correcta": 0,
     "explicación": "El nivel Colaborador permite crear elementos, pero no leer ni editar los ya existentes.",
-    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11"
+    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t42-03",
@@ -319,7 +325,10 @@
     ],
     "correcta": 0,
     "explicación": "El operador cc: busca en la línea de copia de los mensajes.",
-    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11"
+    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t42-04",
@@ -333,7 +342,10 @@
     ],
     "correcta": 0,
     "explicación": "Los grupos de Outlook pueden tener dirección propia; si el grupo es público, cualquiera puede enviar mensajes al grupo.",
-    "referencia": "Examen Estado 2026, grupos de Outlook; Tema V.11"
+    "referencia": "Examen Estado 2026, grupos de Outlook; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t42-05",
@@ -347,7 +359,10 @@
     ],
     "correcta": 0,
     "explicación": "Microsoft Edge permite anclar sitios al Inicio mediante el menú de Más herramientas.",
-    "referencia": "Examen Estado 2026, navegadores; Tema V.11"
+    "referencia": "Examen Estado 2026, navegadores; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t42-06",
@@ -361,7 +376,10 @@
     ],
     "correcta": 0,
     "explicación": "Spamming es el envío masivo de comunicaciones no solicitadas por correo u otros medios.",
-    "referencia": "Examen Estado 2026, Internet y correo; Tema V.11"
+    "referencia": "Examen Estado 2026, Internet y correo; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t42-07",
@@ -375,7 +393,10 @@
     ],
     "correcta": 0,
     "explicación": "Un escritorio virtual permite trabajar sobre una estación lógica separada del dispositivo físico de acceso.",
-    "referencia": "Examen Estado 2026, Internet y servicios; Tema V.11"
+    "referencia": "Examen Estado 2026, Internet y servicios; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-v11-01",

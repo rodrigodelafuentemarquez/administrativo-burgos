@@ -11,7 +11,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 41",
-    "explicación": "La Ley de Prevención de Riesgos Laborales define esos supuestos como daños derivados del trabajo."
+    "explicación": "La Ley de Prevención de Riesgos Laborales define esos supuestos como daños derivados del trabajo.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q54",
@@ -25,7 +28,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 54",
-    "explicación": "La ley tiene un ámbito amplio de aplicación, pero contempla exclusiones expresas."
+    "explicación": "La ley tiene un ámbito amplio de aplicación, pero contempla exclusiones expresas.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q55",
@@ -39,7 +45,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 55",
-    "explicación": "La definición legal pone el acento en la probabilidad racional de materialización inmediata y en el daño grave para la salud."
+    "explicación": "La definición legal pone el acento en la probabilidad racional de materialización inmediata y en el daño grave para la salud.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q56",
@@ -53,7 +62,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 56",
-    "explicación": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse."
+    "explicación": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t23-p001",

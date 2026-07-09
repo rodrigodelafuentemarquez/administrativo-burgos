@@ -11,7 +11,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 47",
-    "explicación": "La expedición de copias selladas de documentos originales aportados por los interesados no figura entre las funciones ordinarias del servicio 010 de atención ciudadana."
+    "explicación": "La expedición de copias selladas de documentos originales aportados por los interesados no figura entre las funciones ordinarias del servicio 010 de atención ciudadana.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q49-reg",
@@ -25,7 +28,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 49",
-    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora hábil del primer día hábil siguiente, salvo norma especial."
+    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora hábil del primer día hábil siguiente, salvo norma especial.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q58",
@@ -39,7 +45,27 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 58",
-    "explicación": "La solicitud es el documento tipico del particular dirigido a la Administración."
+    "explicación": "La solicitud es el documento tipico del particular dirigido a la Administración.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q48",
+    "tema": 35,
+    "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿En qué plazo se deben emitir las copias de los documentos válidamente emitidos por las Administraciones?",
+    "opciones": [
+      "10 días.",
+      "15 días.",
+      "1 mes.",
+      "30 días."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 48",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t31-p001",
@@ -291,6 +317,9 @@
     ],
     "correcta": 0,
     "explicación": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables.",
-    "referencia": "Examen Estado 2026, registros; Tema V.4, oficinas de asistencia en materia de registros"
+    "referencia": "Examen Estado 2026, registros; Tema V.4, oficinas de asistencia en materia de registros",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

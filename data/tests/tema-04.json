@@ -11,7 +11,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · reserva 2",
-    "explicación": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva."
+    "explicación": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t05-p010",
@@ -347,7 +350,10 @@
     ],
     "correcta": 0,
     "explicación": "La jefatura superior de todo el personal del Departamento corresponde a la Subsecretaría.",
-    "referencia": "Examen Estado 2026 modelo A, pregunta 8; Tema I.4, Administración del Estado"
+    "referencia": "Examen Estado 2026 modelo A, pregunta 8; Tema I.4, Administración del Estado",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i04-02",
@@ -361,7 +367,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 107 CE define al Consejo de Estado como supremo órgano consultivo del Gobierno.",
-    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.4, Gobierno y Administración"
+    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.4, Gobierno y Administración",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i04-03",
@@ -375,6 +384,9 @@
     ],
     "correcta": 0,
     "explicación": "Los Subsecretarios forman parte de la organización central de los Departamentos ministeriales; Delegados, Subdelegados y Directores Insulares pertenecen a la organización periférica.",
-    "referencia": "Tema I.4, Administración General del Estado"
+    "referencia": "Tema I.4, Administración General del Estado",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

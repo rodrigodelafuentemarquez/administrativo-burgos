@@ -11,7 +11,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 27",
-    "explicación": "Si no existe plazo máximo específico, el plazo general para resolver es de tres meses."
+    "explicación": "Si no existe plazo máximo específico, el plazo general para resolver es de tres meses.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q29",
@@ -25,7 +28,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 29",
-    "explicación": "La iniciación del procedimiento puede producirse de oficio o a solicitud del interesado."
+    "explicación": "La iniciación del procedimiento puede producirse de oficio o a solicitud del interesado.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q30",
@@ -39,7 +45,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 30",
-    "explicación": "La Ley 39/2015 enumera la resolución y otras formas tasadas de terminación, entre ellas desistimiento, renuncia y caducidad."
+    "explicación": "La Ley 39/2015 enumera la resolución y otras formas tasadas de terminación, entre ellas desistimiento, renuncia y caducidad.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q16",
@@ -53,7 +62,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 16",
-    "explicación": "El artículo 73 LPAC regula el cumplimiento de trámites por los interesados."
+    "explicación": "El artículo 73 LPAC regula el cumplimiento de trámites por los interesados.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q17",
@@ -67,7 +79,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 17",
-    "explicación": "La falta de informe de otra Administración no paraliza siempre las actuaciones de forma absoluta; la opción c fórmula incorrectamente ese efecto."
+    "explicación": "La falta de informe de otra Administración no paraliza siempre las actuaciones de forma absoluta; la opción c fórmula incorrectamente ese efecto.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q18",
@@ -81,7 +96,27 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 18",
-    "explicación": "La Ley 39/2015 habla de multa coercitiva, no de multa progresiva."
+    "explicación": "La Ley 39/2015 habla de multa coercitiva, no de multa progresiva.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q12",
+    "tema": 12,
+    "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, indica que se consideran interesados en el procedimiento administrativo:",
+    "opciones": [
+      "Los que, sin haber iniciado el procedimiento, tengan intereses que puedan resultar afectados por la decisión que en el mismo se adopte.",
+      "Aquellos cuyos derechos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en el procedimiento en tanto no haya recaído resolución definitiva.",
+      "Quienes lo promuevan como titulares de derechos o intereses legítimos individuales o colectivos.",
+      "Quienes lo promuevan como titulares de derechos e intereses legítimos individuales o colectivos."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 12",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t15-p001",
@@ -389,7 +424,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 16 LPACAP permite que los organismos vinculados o dependientes dispongan de registro electrónico propio, interoperable e interconectado con el Registro Electrónico General.",
-    "referencia": "Examen Estado 2026, art. 16 LPACAP; Tema II.3, procedimiento administrativo"
+    "referencia": "Examen Estado 2026, art. 16 LPACAP; Tema II.3, procedimiento administrativo",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t12-02",
@@ -403,7 +441,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 87 LPACAP fija para las actuaciones complementarias un plazo no superior a quince días.",
-    "referencia": "Examen Estado 2026, art. 87 LPACAP; Tema II.3, fase de finalización"
+    "referencia": "Examen Estado 2026, art. 87 LPACAP; Tema II.3, fase de finalización",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t12-03",
@@ -417,7 +458,10 @@
     ],
     "correcta": 0,
     "explicación": "La notificación electrónica se practica por comparecencia electrónica y se entiende realizada con el acceso a su contenido; el aviso no sustituye a la notificación.",
-    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema II.3, ejecución y notificación"
+    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema II.3, ejecución y notificación",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-ii03-01",

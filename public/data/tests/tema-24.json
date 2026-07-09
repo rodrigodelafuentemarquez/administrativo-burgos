@@ -291,7 +291,10 @@
     ],
     "correcta": 0,
     "explicación": "El examen de Estado 2026 pregunta por la anotación de bajas temporales y definitivas respecto del personal laboral.",
-    "referencia": "Examen Estado 2026, Registro Central de Personal; Tema III.3, personal laboral"
+    "referencia": "Examen Estado 2026, Registro Central de Personal; Tema III.3, personal laboral",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t24-02",
@@ -305,6 +308,9 @@
     ],
     "correcta": 0,
     "explicación": "El ámbito subjetivo de un convenio colectivo viene delimitado por su regulación y puede excluir colectivos sometidos a régimen específico.",
-    "referencia": "Examen Estado 2026, personal laboral; Tema III.3"
+    "referencia": "Examen Estado 2026, personal laboral; Tema III.3",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

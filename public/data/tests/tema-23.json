@@ -1,5 +1,39 @@
 [
   {
+    "id": "pdf-2025-burgos-q59",
+    "tema": 23,
+    "pregunta": "Son causas de pérdida de la condición de funcionario de carrera (señale la INCORRECTA):",
+    "opciones": [
+      "La pérdida de la nacionalidad.",
+      "La jubilación total del funcionario.",
+      "La sanción disciplinaria de separación del servicio, aunque no tuviera carácter firme.",
+      "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviera carácter firme."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 59",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q60",
+    "tema": 23,
+    "pregunta": "Podrán obtener la excedencia voluntaria por interés particular los funcionarios de carrera que hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+    "opciones": [
+      "2 años inmediatamente anteriores.",
+      "5 años inmediatamente anteriores.",
+      "10 años inmediatamente anteriores.",
+      "No se exige ningún período mínimo de servicios."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 60",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t22-p012",
     "tema": 23,
     "pregunta": "En situaciones administrativas de los funcionarios, el servicio activo es:",
@@ -16,15 +50,15 @@
   {
     "id": "t22-p013",
     "tema": 23,
-    "pregunta": "Según los arts. 85-92 TREBEP, la excedencia voluntaria por interés particular exige un tiempo mínimo de:",
+    "pregunta": "Según el art. 89 TREBEP, la excedencia voluntaria por interés particular exige haber prestado servicios efectivos durante un período mínimo de:",
     "opciones": [
-      "5 años continuados",
+      "cinco años inmediatamente anteriores",
       "6 meses",
       "1 año",
       "10 años"
     ],
     "correcta": 0,
-    "explicación": "El tema fija ese mínimo para esta excedencia.",
+    "explicación": "El TREBEP exige cinco años de servicios efectivos en cualquiera de las Administraciones Públicas durante el período inmediatamente anterior, sin perjuicio de lo que puedan establecer las leyes de desarrollo.",
     "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
   },
   {
@@ -60,17 +94,17 @@
     "tema": 23,
     "pregunta": "En situaciones administrativas de los funcionarios, la excedencia voluntaria por interés particular requiere:",
     "opciones": [
-      "Cinco años de antigüedad",
+      "Cinco años de servicios efectivos inmediatamente anteriores, salvo previsión de desarrollo más favorable",
       "Un año de antigüedad",
       "Diez años de servicios",
       "Ninguna antigüedad"
     ],
     "correcta": 0,
-    "explicación": "El tema exige cinco años de antigüedad.",
+    "explicación": "El TREBEP exige cinco años de servicios efectivos inmediatamente anteriores para poder obtener esta excedencia, aunque las leyes de desarrollo pueden reducir ese período.",
     "referencia": "III.2 · 7.4 Excedencia"
   },
   {
-    "id": "t46-p025",
+    "id": "t23-p025-funcionario-carrera",
     "tema": 23,
     "pregunta": "En situaciones administrativas de los funcionarios, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
     "opciones": [
@@ -98,7 +132,7 @@
     "referencia": "III.2 · 2.1 Funcionarios de carrera"
   },
   {
-    "id": "t46-p032",
+    "id": "t23-p032-toma-posesion",
     "tema": 23,
     "pregunta": "De acuerdo con el TREBEP, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por:",
     "opciones": [
@@ -112,7 +146,7 @@
     "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
   },
   {
-    "id": "t46-p033",
+    "id": "t23-p033-interino",
     "tema": 23,
     "pregunta": "Conforme al TREBEP, se podrá nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
     "opciones": [
@@ -291,7 +325,10 @@
     ],
     "correcta": 0,
     "explicación": "El TREBEP exige superar el proceso selectivo, nombramiento, acto de acatamiento de la Constitución y toma de posesión dentro del plazo.",
-    "referencia": "Examen Estado 2026, art. 62 TREBEP; Tema III.2, adquisición de la condición de funcionario"
+    "referencia": "Examen Estado 2026, art. 62 TREBEP; Tema III.2, adquisición de la condición de funcionario",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t23-02",
@@ -305,6 +342,9 @@
     ],
     "correcta": 0,
     "explicación": "La comisión de servicios no rompe el servicio activo; es una forma temporal de desempeño.",
-    "referencia": "Examen Estado 2026, situaciones administrativas; Tema III.2"
+    "referencia": "Examen Estado 2026, situaciones administrativas; Tema III.2",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

@@ -11,7 +11,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 10",
-    "explicación": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros."
+    "explicación": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q11",
@@ -25,7 +28,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 11",
-    "explicación": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación."
+    "explicación": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q22",
@@ -39,7 +45,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 22",
-    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales."
+    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t14-p001",
@@ -291,7 +300,10 @@
     ],
     "correcta": 0,
     "explicación": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos.",
-    "referencia": "Examen Estado 2026, art. 40 LRJSP; Tema II.5, funcionamiento electrónico y órganos"
+    "referencia": "Examen Estado 2026, art. 40 LRJSP; Tema II.5, funcionamiento electrónico y órganos",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t14-02",
@@ -305,7 +317,10 @@
     ],
     "correcta": 0,
     "explicación": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales.",
-    "referencia": "Examen Estado 2026, convenios; Tema II.5, relaciones y convenios"
+    "referencia": "Examen Estado 2026, convenios; Tema II.5, relaciones y convenios",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t14-03",
@@ -319,6 +334,9 @@
     ],
     "correcta": 0,
     "explicación": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga.",
-    "referencia": "Examen Estado 2026, convenios; Tema II.5, convenios administrativos"
+    "referencia": "Examen Estado 2026, convenios; Tema II.5, convenios administrativos",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

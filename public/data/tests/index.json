@@ -8,7 +8,7 @@
   {
     "tema": 2,
     "archivo": "tema-02.json",
-    "preguntas": 73,
+    "preguntas": 77,
     "título": "Tema I.2 · La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial."
   },
   {
@@ -26,19 +26,19 @@
   {
     "tema": 5,
     "archivo": "tema-05.json",
-    "preguntas": 30,
+    "preguntas": 31,
     "título": "Tema I.5 · Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales."
   },
   {
     "tema": 6,
     "archivo": "tema-06.json",
-    "preguntas": 26,
+    "preguntas": 27,
     "título": "Tema I.6 · El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento."
   },
   {
     "tema": 7,
     "archivo": "tema-07.json",
-    "preguntas": 27,
+    "preguntas": 29,
     "título": "Tema I.7 · La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaría General. La Intervención General. El órgano de Gestión Tributaria."
   },
   {
@@ -56,25 +56,25 @@
   {
     "tema": 10,
     "archivo": "tema-10.json",
-    "preguntas": 39,
+    "preguntas": 40,
     "título": "Tema II.1 · Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo."
   },
   {
     "tema": 11,
     "archivo": "tema-11.json",
-    "preguntas": 24,
+    "preguntas": 26,
     "título": "Tema II.2 · El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos."
   },
   {
     "tema": 12,
     "archivo": "tema-12.json",
-    "preguntas": 32,
+    "preguntas": 33,
     "título": "Tema II.3 · El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución."
   },
   {
     "tema": 13,
     "archivo": "tema-13.json",
-    "preguntas": 44,
+    "preguntas": 45,
     "título": "Tema II.4 · La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza."
   },
   {
@@ -92,7 +92,7 @@
   {
     "tema": 16,
     "archivo": "tema-16.json",
-    "preguntas": 55,
+    "preguntas": 57,
     "título": "Tema II.7 · Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos."
   },
   {
@@ -128,13 +128,13 @@
   {
     "tema": 22,
     "archivo": "tema-22.json",
-    "preguntas": 58,
+    "preguntas": 60,
     "título": "Tema III.1 · El personal al servicio de las entidades locales: clases y régimen jurídico. Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna."
   },
   {
     "tema": 23,
     "archivo": "tema-23.json",
-    "preguntas": 22,
+    "preguntas": 24,
     "título": "Tema III.2 · Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas."
   },
   {
@@ -158,7 +158,7 @@
   {
     "tema": 27,
     "archivo": "tema-27.json",
-    "preguntas": 22,
+    "preguntas": 25,
     "título": "Tema IV.1 · Los tributos locales: principios. La potestad reglamentaria de las entidades locales en materia tributaria: contenido de las ordenanzas fiscales, tramitación y régimen de impugnación de los actos de imposición y ordenación de tributos."
   },
   {
@@ -194,19 +194,19 @@
   {
     "tema": 33,
     "archivo": "tema-33.json",
-    "preguntas": 33,
+    "preguntas": 35,
     "título": "Tema V.2 · La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública."
   },
   {
     "tema": 34,
     "archivo": "tema-34.json",
-    "preguntas": 23,
+    "preguntas": 24,
     "título": "Tema V.3 · Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones."
   },
   {
     "tema": 35,
     "archivo": "tema-35.json",
-    "preguntas": 21,
+    "preguntas": 22,
     "título": "Tema V.4 · Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones."
   },
   {
@@ -224,7 +224,7 @@
   {
     "tema": 38,
     "archivo": "tema-38.json",
-    "preguntas": 28,
+    "preguntas": 30,
     "título": "Tema V.7 · Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público."
   },
   {

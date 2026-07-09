@@ -291,7 +291,10 @@
     ],
     "correcta": 0,
     "explicación": "El examen de Estado 2026 recuerda que MUFACE se integra como organismo público.",
-    "referencia": "Examen Estado 2026, MUFACE; Tema III.5, Seguridad Social y mutualismo"
+    "referencia": "Examen Estado 2026, MUFACE; Tema III.5, Seguridad Social y mutualismo",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t26-02",
@@ -305,6 +308,9 @@
     ],
     "correcta": 0,
     "explicación": "La pregunta del examen fijaba como respuesta correcta veinticinco años para el supuesto descrito.",
-    "referencia": "Examen Estado 2026, Seguridad Social; Tema III.5"
+    "referencia": "Examen Estado 2026, Seguridad Social; Tema III.5",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

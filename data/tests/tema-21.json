@@ -11,7 +11,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 26",
-    "explicación": "La aprobación y modificación de ordenanzas y reglamentos municipales corresponde al Pleno."
+    "explicación": "La aprobación y modificación de ordenanzas y reglamentos municipales corresponde al Pleno.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q32-org",
@@ -25,7 +28,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 32",
-    "explicación": "Las tres afirmaciones forman parte del régimen orgánico municipal previsto para municipios de gran población."
+    "explicación": "Las tres afirmaciones forman parte del régimen orgánico municipal previsto para municipios de gran población.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "topup-21-04",

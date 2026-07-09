@@ -11,7 +11,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 24",
-    "explicación": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho."
+    "explicación": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q25",
@@ -25,7 +28,27 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 25",
-    "explicación": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad."
+    "explicación": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q30",
+    "tema": 10,
+    "pregunta": "Se aprueba mediante Ley Orgánica:",
+    "opciones": [
+      "La reforma de los Estatutos de Autonomía.",
+      "La regulación de los estados de alarma, excepción y guerra.",
+      "Las competencias, organización y funcionamiento del Procurador del Común en Castilla y León.",
+      "La regulación del estatuto de los funcionarios públicos y el acceso a la función pública."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 30",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t11-p001",
@@ -501,7 +524,10 @@
     ],
     "correcta": 0,
     "explicación": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
-    "referencia": "Examen Estado 2026, art. 2 CC; Tema II.1, fuentes del Derecho"
+    "referencia": "Examen Estado 2026, art. 2 CC; Tema II.1, fuentes del Derecho",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t10-02",
@@ -515,7 +541,10 @@
     ],
     "correcta": 0,
     "explicación": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
-    "referencia": "Tema II.1, vigencia de las normas"
+    "referencia": "Tema II.1, vigencia de las normas",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-ii01-01",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "pdf-2025-burgos-q24",
+    "tema": 6,
+    "pregunta": "Según el artículo 16.2. de la Ley 7/1985, de 2 abril, reguladora de las Bases del Régimen Local ¿Cuál de los siguientes es un dato obligatorio en el padrón de habitantes?",
+    "opciones": [
+      "Estado civil.",
+      "Situación laboral.",
+      "Domicilio habitual con especificación de la referencia catastral.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 24",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t09-p002",
     "tema": 6,
     "pregunta": "¿Qué artículo de la Constitución garantiza la autonomía del municipio?",
@@ -347,7 +364,10 @@
     ],
     "correcta": 0,
     "explicación": "El término municipal es el ámbito territorial en el que el Ayuntamiento ejerce sus competencias.",
-    "referencia": "Tema I.6, término municipal"
+    "referencia": "Tema I.6, término municipal",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i06-02",
@@ -361,6 +381,9 @@
     ],
     "correcta": 0,
     "explicación": "La propiedad de una vivienda no determina la vecindad administrativa; esta deriva de la inscripción padronal.",
-    "referencia": "Tema I.6, población y empadronamiento"
+    "referencia": "Tema I.6, población y empadronamiento",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

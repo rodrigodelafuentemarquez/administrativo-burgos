@@ -11,7 +11,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 23",
-    "explicación": "El Parlamento Europeo y el Consejo ejercen conjuntamente la función legislativa y presupuestaria."
+    "explicación": "El Parlamento Europeo y el Consejo ejercen conjuntamente la función legislativa y presupuestaria.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q31",
@@ -25,7 +28,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 31",
-    "explicación": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable."
+    "explicación": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-r01",
@@ -39,7 +45,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · reserva 1",
-    "explicación": "Los miembros del Comité de las Regiones tienen mandato renovable de cinco años y no pueden ser simultáneamente eurodiputados."
+    "explicación": "Los miembros del Comité de las Regiones tienen mandato renovable de cinco años y no pueden ser simultáneamente eurodiputados.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t41-p001",
@@ -487,7 +496,10 @@
     ],
     "correcta": 0,
     "explicación": "El Consejo ejerce con el Parlamento Europeo la función legislativa y presupuestaria.",
-    "referencia": "Examen Estado 2026 modelo A, pregunta 11; Tema I.8, Consejo de la Unión Europea"
+    "referencia": "Examen Estado 2026 modelo A, pregunta 11; Tema I.8, Consejo de la Unión Europea",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i08-02",
@@ -501,7 +513,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 3 TFUE enumera la unión aduanera entre las competencias exclusivas de la Unión.",
-    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.8, competencias de la Unión Europea"
+    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.8, competencias de la Unión Europea",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-i08-03",
@@ -515,7 +530,10 @@
     ],
     "correcta": 0,
     "explicación": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
-    "referencia": "Tema I.8, Comisión Europea"
+    "referencia": "Tema I.8, Comisión Europea",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-i08-01",

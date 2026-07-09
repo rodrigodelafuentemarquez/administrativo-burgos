@@ -1,5 +1,39 @@
 [
   {
+    "id": "pdf-2025-burgos-q40",
+    "tema": 22,
+    "pregunta": "El abandono del servicio de un funcionario público, así como no hacerse cargo voluntariamente de las tareas o funciones que tienen encomendadas, según el art. 95 de la Ley del Estatuto Básico del Empleado Público:",
+    "opciones": [
+      "Es una falta disciplinaria leve.",
+      "Es una falta disciplinaria grave.",
+      "Es una falta disciplinaria muy grave.",
+      "Podrá ser calificada como grave o muy grave en función de su reiteración."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 40",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q41",
+    "tema": 22,
+    "pregunta": "Respecto de las prescripciones de las faltas y sanciones que prevé el art. 97 de la Ley del Estatuto Básico del Empleado Público:",
+    "opciones": [
+      "Las infracciones muy graves prescribirán a los cuatro años.",
+      "Las infracciones graves prescribirán a los dos años.",
+      "Las infracciones leves prescribirán a los tres meses.",
+      "Las sanciones impuestas por faltas muy graves prescribirán a los cuatro años."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 41",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t22-p001",
     "tema": 22,
     "pregunta": "¿Cuál de estas clases forma parte del personal al servicio de las Administraciones Públicas?",
@@ -214,13 +248,13 @@
     "tema": 22,
     "pregunta": "En empleo público local, la Oferta de Empleo Público, la aprueba:",
     "opciones": [
-      "el Pleno de la Entidad Local",
+      "el Alcalde o Presidente de la Entidad Local, salvo municipios de gran población",
       "el Secretario General",
       "la Junta de Gobierno de la Comunidad Autónoma",
       "el Tribunal de Cuentas"
     ],
     "correcta": 0,
-    "explicación": "El tema atribuye su aprobación al Pleno.",
+    "explicación": "En régimen común local, la Alcaldía o Presidencia aprueba la oferta de empleo público de acuerdo con el presupuesto y la plantilla aprobados por el Pleno; en municipios de gran población corresponde a la Junta de Gobierno Local.",
     "referencia": "III.1 · 2.2 Oferta de Empleo Público (OEP)"
   },
   {
@@ -662,13 +696,13 @@
     "tema": 22,
     "pregunta": "En empleo público local, los funcionarios interinos pueden ser nombrados, entre otros supuestos, por:",
     "opciones": [
-      "La ejecución de programas de carácter temporal y el exceso o acumulación de tareas por plazo máximo de seis meses dentro de un período de doce meses",
+      "La ejecución de programas temporales y el exceso o acumulación de tareas por plazo máximo de nueve meses dentro de un período de dieciocho meses",
       "La mera conveniencia organizativa del órgano convocante sin causa legal específica",
       "La cobertura definitiva de plazas amortizadas o suprimidas",
       "La provisión ordinaria de puestos reservados a personal eventual"
     ],
     "correcta": 0,
-    "explicación": "El nombramiento de personal interino exige alguno de los supuestos legales tasados, entre ellos programas temporales o acumulación de tareas.",
+    "explicación": "El TREBEP permite interinos por programas temporales y por exceso o acumulación de tareas, con el límite de nueve meses dentro de un período de dieciocho meses.",
     "referencia": "TREBEP · funcionario interino"
   },
   {
@@ -725,7 +759,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 56 TREBEP exige tener cumplidos dieciséis años y no exceder, en su caso, de la edad máxima de jubilación forzosa.",
-    "referencia": "Examen Estado 2026, art. 56 TREBEP; Tema III.1, acceso al empleo público"
+    "referencia": "Examen Estado 2026, art. 56 TREBEP; Tema III.1, acceso al empleo público",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t22-02",
@@ -739,7 +776,10 @@
     ],
     "correcta": 0,
     "explicación": "El art. 10 TREBEP permite nombrar interinos, entre otros supuestos, para sustitución transitoria de titulares.",
-    "referencia": "Examen Estado 2026, art. 10 TREBEP; Tema III.1, clases de personal"
+    "referencia": "Examen Estado 2026, art. 10 TREBEP; Tema III.1, clases de personal",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t22-03",
@@ -753,7 +793,10 @@
     ],
     "correcta": 0,
     "explicación": "La carrera horizontal permite progresar profesionalmente sin cambiar de puesto y tiene carácter voluntario.",
-    "referencia": "Examen Estado 2026, carrera profesional; Tema III.1, carrera administrativa"
+    "referencia": "Examen Estado 2026, carrera profesional; Tema III.1, carrera administrativa",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t22-04",
@@ -767,7 +810,10 @@
     ],
     "correcta": 0,
     "explicación": "Los trienios ya devengados se siguen percibiendo aunque el funcionario pase a prestar servicios en cuerpos o escalas de distinto grupo.",
-    "referencia": "Examen Estado 2026, retribuciones; Tema III.1, derechos retributivos"
+    "referencia": "Examen Estado 2026, retribuciones; Tema III.1, derechos retributivos",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-iii01-01",

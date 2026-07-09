@@ -11,7 +11,10 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 42",
-    "explicación": "La conciliación no puede articularse a costa de reducir la promoción profesional."
+    "explicación": "La conciliación no puede articularse a costa de reducir la promoción profesional.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-q43",
@@ -25,7 +28,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 43",
-    "explicación": "La igualdad y prohibición de discriminación por razón de sexo se recoge en el artículo 14 CE."
+    "explicación": "La igualdad y prohibición de discriminación por razón de sexo se recoge en el artículo 14 CE.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2023-burgos-r05",
@@ -39,7 +45,10 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · reserva 5",
-    "explicación": "La ley cita expresamente las esferas política, civil, laboral, económica, social y cultural."
+    "explicación": "La ley cita expresamente las esferas política, civil, laboral, económica, social y cultural.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q53",
@@ -53,7 +62,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 53",
-    "explicación": "La Ley Orgánica 3/2007 arranca afirmando la igualdad en dignidad humana y en derechos y deberes de mujeres y hombres."
+    "explicación": "La Ley Orgánica 3/2007 arranca afirmando la igualdad en dignidad humana y en derechos y deberes de mujeres y hombres.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "t48-p001",
@@ -291,6 +303,9 @@
     ],
     "correcta": 0,
     "explicación": "La Ley 4/2023 impone a los poderes públicos deberes de reconocimiento, promoción y participación en la igualdad real y efectiva de las personas LGTBI.",
-    "referencia": "Examen Estado 2026, Ley 4/2023; Tema V.1, igualdad y no discriminación"
+    "referencia": "Examen Estado 2026, Ley 4/2023; Tema V.1, igualdad y no discriminación",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

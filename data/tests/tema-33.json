@@ -1,5 +1,39 @@
 [
   {
+    "id": "pdf-2025-burgos-q50",
+    "tema": 33,
+    "pregunta": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso podrá ser limitado cuando acceder a la información suponga perjuicio para:",
+    "opciones": [
+      "Las funciones administrativas de vigilancia, inspección y control.",
+      "La seguridad privada.",
+      "Las relaciones interiores.",
+      "No se puede limitar el derecho de acceso."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 50",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q51",
+    "tema": 33,
+    "pregunta": "¿De qué herramienta trata el artículo 10 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la cual se adecuará a los principios de accesibilidad, interoperabilidad y reutilización de la información?",
+    "opciones": [
+      "Consejo de transparencia y Buen Gobierno.",
+      "Portal de transparencia.",
+      "Carpeta ciudadana.",
+      "Sede electrónica."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 51",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t21-p001",
     "tema": 33,
     "pregunta": "Según el art. 2 LTBG, la LTBG se aplica a:",
@@ -417,7 +451,10 @@
     ],
     "correcta": 0,
     "explicación": "La seguridad nacional figura entre los límites del art. 14 de la Ley 19/2013.",
-    "referencia": "Examen Estado 2026, art. 14 Ley 19/2013; Tema V.2, derecho de acceso"
+    "referencia": "Examen Estado 2026, art. 14 Ley 19/2013; Tema V.2, derecho de acceso",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t33-02",
@@ -431,7 +468,10 @@
     ],
     "correcta": 0,
     "explicación": "La aplicación de límites exige ponderación, motivación y proporcionalidad.",
-    "referencia": "Tema V.2, límites al derecho de acceso"
+    "referencia": "Tema V.2, límites al derecho de acceso",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "realstyle-v02-01",

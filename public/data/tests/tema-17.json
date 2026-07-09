@@ -11,7 +11,10 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 32",
-    "explicación": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los términos legales."
+    "explicación": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los términos legales.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "pdf-2025-burgos-q21",
@@ -25,7 +28,10 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 21",
-    "explicación": "La irretroactividad de las disposiciones sancionadoras se regula en el artículo 26 LRJSP."
+    "explicación": "La irretroactividad de las disposiciones sancionadoras se regula en el artículo 26 LRJSP.",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "topup-17-02",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "pdf-2025-burgos-q43",
+    "tema": 34,
+    "pregunta": "Señale la respuesta INCORRECTA. Según el artículo 70 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de las personas con discapacidad y de su inclusión social, las administraciones públicas deberán adecuar sus planes de calidad para asegurar la igualdad de oportunidades a los ciudadanos con discapacidad. Para ello:",
+    "opciones": [
+      "Elaborarán una guía de buenas prácticas.",
+      "Se incluirán en los planes normas mínimas de no discriminación y de accesibilidad.",
+      "Se eliminarán las oficinas públicas, dispositivos y servicios de atención al ciudadano que no estén adaptados.",
+      "Desarrollarán indicadores de calidad."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 43",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t35-p001",
     "tema": 34,
     "pregunta": "El art. 13 LPACAP reconoce el derecho de las personas a:",
@@ -305,7 +322,10 @@
     ],
     "correcta": 0,
     "explicación": "El examen de Estado 2026 recoge la actualización mínima cada tres años en el marco del RD 951/2005.",
-    "referencia": "Examen Estado 2026, cartas de servicios; Tema V.3, servicios de información y atención"
+    "referencia": "Examen Estado 2026, cartas de servicios; Tema V.3, servicios de información y atención",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t34-02",
@@ -319,6 +339,9 @@
     ],
     "correcta": 0,
     "explicación": "El examen de Estado 2026 planteaba el plazo de 15 días hábiles para informar de las actuaciones realizadas ante una queja.",
-    "referencia": "Examen Estado 2026, quejas; Tema V.3, quejas y reclamaciones"
+    "referencia": "Examen Estado 2026, quejas; Tema V.3, quejas y reclamaciones",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

@@ -571,7 +571,10 @@
     ],
     "correcta": 0,
     "explicación": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones.",
-    "referencia": "Examen Estado 2026, informática básica; Tema V.9"
+    "referencia": "Examen Estado 2026, informática básica; Tema V.9",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t40-02",
@@ -585,7 +588,10 @@
     ],
     "correcta": 0,
     "explicación": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso.",
-    "referencia": "Examen Estado 2026, seguridad informática; Tema V.9"
+    "referencia": "Examen Estado 2026, seguridad informática; Tema V.9",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t40-03",
@@ -599,7 +605,10 @@
     ],
     "correcta": 0,
     "explicación": "La memoria RAM almacena temporalmente datos y procesos utilizados durante la ejecución.",
-    "referencia": "Examen Estado 2026, hardware; Tema V.9"
+    "referencia": "Examen Estado 2026, hardware; Tema V.9",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t40-04",
@@ -613,7 +622,10 @@
     ],
     "correcta": 0,
     "explicación": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB.",
-    "referencia": "Examen Estado 2026, unidades de información; Tema V.9"
+    "referencia": "Examen Estado 2026, unidades de información; Tema V.9",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t40-05",
@@ -627,7 +639,10 @@
     ],
     "correcta": 0,
     "explicación": "Windows 11 permite acceder a notificaciones desde el área de calendario y notificación en la esquina inferior derecha.",
-    "referencia": "Examen Estado 2026, Windows 11; Tema V.9"
+    "referencia": "Examen Estado 2026, Windows 11; Tema V.9",
+    "tags": [
+      "Pregunta real"
+    ]
   },
   {
     "id": "estado2026-extra-t40-06",
@@ -641,6 +656,9 @@
     ],
     "correcta": 0,
     "explicación": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto.",
-    "referencia": "Examen Estado 2026, Windows 11; Tema V.9"
+    "referencia": "Examen Estado 2026, Windows 11; Tema V.9",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]
