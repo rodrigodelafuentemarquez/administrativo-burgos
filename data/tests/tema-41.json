@@ -1,5 +1,103 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q45",
+    "tema": 41,
+    "pregunta": "¿Qué combinación de teclas te permite seleccionar todo el texto escrito en un documento Word?:",
+    "opciones": [
+      "Ctrl + T",
+      "Ctrl + E",
+      "Ctrl +S"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 45",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q46",
+    "tema": 41,
+    "pregunta": "¿Cómo se pueden controlar los tipos de cambios que otros usuarios pueden hacer en un documento Word?:",
+    "opciones": [
+      "Restringir edición.",
+      "Bloquear edición.",
+      "Proteger edición."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 46",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q49",
+    "tema": 41,
+    "pregunta": "Qué función y rango utilizarías para obtener la media aritmética de la fila 1 y de las cinco primeras columnas de una Tabla:",
+    "opciones": [
+      "=PROMEDIO (A1:E1).",
+      "=MEDIA (A1:E1).",
+      "=PROMEDIO (A1:E5)."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 49",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q50",
+    "tema": 41,
+    "pregunta": "¿Cómo se llama el archivo en el que se almacenen las hojas de cálculo?:",
+    "opciones": [
+      "Disco duro.",
+      "Bloc de notas.",
+      "Libro de trabajo."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 50",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q17",
+    "tema": 41,
+    "pregunta": "La presentación predeterminada de un documento Word es:",
+    "opciones": [
+      "Presentación preliminar.",
+      "Presentación diseño de página.",
+      "Presentación diseño de impresión.",
+      "Presentación pantalla completa."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 17",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q18",
+    "tema": 41,
+    "pregunta": "En Excel, ¿En qué consiste la opción de “Transponer” un rango?",
+    "opciones": [
+      "Llevarlo a otra hoja vacía.",
+      "Cambiar filas por columnas o viceversa.",
+      "Cambiarlo de lugar.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 18",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t38-p001",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, Word 365 es:",

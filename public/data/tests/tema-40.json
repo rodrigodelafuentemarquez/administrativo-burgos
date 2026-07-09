@@ -1,5 +1,55 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q47",
+    "tema": 40,
+    "pregunta": "¿Qué atajo de teclas usamos para cerrar una ventana en Windows ?:",
+    "opciones": [
+      "Alt + F4.",
+      "Ctrl + S.",
+      "Ctrl + F4."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 47",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q14",
+    "tema": 40,
+    "pregunta": "¿Cuál de los siguientes términos NO corresponde a un tipo de software malicioso?:",
+    "opciones": [
+      "Virus.",
+      "Troyano.",
+      "Interfaz de usuario.",
+      "Spyware."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 14",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q19",
+    "tema": 40,
+    "pregunta": "El “phishing” es:",
+    "opciones": [
+      "Aplicación electrónica para organizar el correo entrante.",
+      "Una práctica que permite \"pescar\" los virus informáticos que infectan el disco duro del ordenador.",
+      "Un modelo de previsión de malware a través de medios electrónicos, que permite reconocer los sitios web que se visitan más frecuentemente.",
+      "Un modelo de abuso informático caracterizado por intentar adquirir información confidencial de forma fraudulenta."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 19",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t36-p001",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la informática es:",

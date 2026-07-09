@@ -8,7 +8,7 @@
   {
     "tema": 2,
     "archivo": "tema-02.json",
-    "preguntas": 77,
+    "preguntas": 85,
     "título": "Tema I.2 · La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial."
   },
   {
@@ -32,19 +32,19 @@
   {
     "tema": 6,
     "archivo": "tema-06.json",
-    "preguntas": 27,
+    "preguntas": 28,
     "título": "Tema I.6 · El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento."
   },
   {
     "tema": 7,
     "archivo": "tema-07.json",
-    "preguntas": 29,
+    "preguntas": 34,
     "título": "Tema I.7 · La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaría General. La Intervención General. El órgano de Gestión Tributaria."
   },
   {
     "tema": 8,
     "archivo": "tema-08.json",
-    "preguntas": 40,
+    "preguntas": 41,
     "título": "Tema I.8 · La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea."
   },
   {
@@ -68,37 +68,37 @@
   {
     "tema": 12,
     "archivo": "tema-12.json",
-    "preguntas": 33,
+    "preguntas": 40,
     "título": "Tema II.3 · El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución."
   },
   {
     "tema": 13,
     "archivo": "tema-13.json",
-    "preguntas": 45,
+    "preguntas": 48,
     "título": "Tema II.4 · La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza."
   },
   {
     "tema": 14,
     "archivo": "tema-14.json",
-    "preguntas": 23,
+    "preguntas": 26,
     "título": "Tema II.5 · El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia."
   },
   {
     "tema": 15,
     "archivo": "tema-15.json",
-    "preguntas": 22,
+    "preguntas": 24,
     "título": "Tema II.6 · La responsabilidad de la administración pública: caracteres. Los presupuestos de la responsabilidad. Danos resarcibles. La acción de responsabilidad. Especialidades del procedimiento administrativo en materia de responsabilidad. La responsabilidad patrimonial de las autoridades y personal al servicio de las administraciones públicas."
   },
   {
     "tema": 16,
     "archivo": "tema-16.json",
-    "preguntas": 57,
+    "preguntas": 60,
     "título": "Tema II.7 · Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos."
   },
   {
     "tema": 17,
     "archivo": "tema-17.json",
-    "preguntas": 22,
+    "preguntas": 25,
     "título": "Tema II.8 · La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local."
   },
   {
@@ -122,19 +122,19 @@
   {
     "tema": 21,
     "archivo": "tema-21.json",
-    "preguntas": 23,
+    "preguntas": 25,
     "título": "Tema II.12 · Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboración y aprobación. Los bandos."
   },
   {
     "tema": 22,
     "archivo": "tema-22.json",
-    "preguntas": 60,
+    "preguntas": 63,
     "título": "Tema III.1 · El personal al servicio de las entidades locales: clases y régimen jurídico. Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna."
   },
   {
     "tema": 23,
     "archivo": "tema-23.json",
-    "preguntas": 24,
+    "preguntas": 28,
     "título": "Tema III.2 · Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas."
   },
   {
@@ -158,7 +158,7 @@
   {
     "tema": 27,
     "archivo": "tema-27.json",
-    "preguntas": 25,
+    "preguntas": 27,
     "título": "Tema IV.1 · Los tributos locales: principios. La potestad reglamentaria de las entidades locales en materia tributaria: contenido de las ordenanzas fiscales, tramitación y régimen de impugnación de los actos de imposición y ordenación de tributos."
   },
   {
@@ -188,67 +188,67 @@
   {
     "tema": 32,
     "archivo": "tema-32.json",
-    "preguntas": 21,
+    "preguntas": 23,
     "título": "Tema V.1 · La Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva entre Mujeres y Hombres. Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. Ley 4/2023, de 28 de febrero, para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI. Objeto y principios rectores."
   },
   {
     "tema": 33,
     "archivo": "tema-33.json",
-    "preguntas": 35,
+    "preguntas": 36,
     "título": "Tema V.2 · La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública."
   },
   {
     "tema": 34,
     "archivo": "tema-34.json",
-    "preguntas": 24,
+    "preguntas": 26,
     "título": "Tema V.3 · Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones."
   },
   {
     "tema": 35,
     "archivo": "tema-35.json",
-    "preguntas": 22,
+    "preguntas": 25,
     "título": "Tema V.4 · Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones."
   },
   {
     "tema": 36,
     "archivo": "tema-36.json",
-    "preguntas": 20,
+    "preguntas": 22,
     "título": "Tema V.5 · La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: objeto y ámbito de aplicación. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempeñar."
   },
   {
     "tema": 37,
     "archivo": "tema-37.json",
-    "preguntas": 22,
+    "preguntas": 23,
     "título": "Tema V.6 · La protección de datos personales y su régimen jurídico: principios, derechos, responsable y encargado del tratamiento, delegado y autoridades de protección de datos. Derechos digitales."
   },
   {
     "tema": 38,
     "archivo": "tema-38.json",
-    "preguntas": 30,
+    "preguntas": 31,
     "título": "Tema V.7 · Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público."
   },
   {
     "tema": 39,
     "archivo": "tema-39.json",
-    "preguntas": 33,
+    "preguntas": 37,
     "título": "Tema V.8 · El concepto de documento. Formación del expediente. El expediente electrónico. El archivo de los documentos administrativos. Clases de archivos y criterios de ordenación. Archivo electrónico de documentos. El acceso a los documentos administrativos: sus limitaciones y formas de acceso."
   },
   {
     "tema": 40,
     "archivo": "tema-40.json",
-    "preguntas": 46,
+    "preguntas": 49,
     "título": "Tema V.9 · Informatica básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática."
   },
   {
     "tema": 41,
     "archivo": "tema-41.json",
-    "preguntas": 29,
+    "preguntas": 35,
     "título": "Tema V.10 · Sistemas ofimaticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de calculo: Excel para Microsoft 365. Funciones y utilidades."
   },
   {
     "tema": 42,
     "archivo": "tema-42.json",
-    "preguntas": 29,
+    "preguntas": 32,
     "título": "Tema V.11 · Correo electrónico: conceptos elementales y funcionamiento. La red Internet: conceptos elementales y servicios."
   }
 ]

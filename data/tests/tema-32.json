@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q28",
+    "tema": 32,
+    "pregunta": "Las obligaciones establecidas en la Ley Orgánica 3/2007, de 2 de marzo, para la igualdad efectiva de mujeres y hombres, serán de aplicación a toda persona:",
+    "opciones": [
+      "Física o jurídica, que se encuentre o actúe en territorio español, con nacionalidad, domicilio o residencia española.",
+      "Física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.",
+      "Física o jurídica, cualquiera que fuese su nacionalidad, domicilio o residencia, aunque no se encuentre o actúe en territorio español."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 28",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q29",
+    "tema": 32,
+    "pregunta": "El artículo 1.1 de la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, establece literalmente:",
+    "opciones": [
+      "Las mujeres y los hombres son iguales en dignidad humana, e iguales en derechos y deberes.",
+      "Las mujeres y los hombres son iguales ante la Ley e iguales en derechos, deberes.",
+      "Las personas son iguales ante la Ley, e iguales en derechos y deberes."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 29",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q42",
     "tema": 32,
     "pregunta": "De acuerdo con el artículo 51 de la Ley Orgánica para la igualdad efectiva de mujeres y hombres, ¿cuál de las siguientes NO es una obligación de las Administraciones Públicas en aplicación del principio de igualdad entre mujeres y hombres?",

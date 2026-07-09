@@ -1,5 +1,53 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q13",
+    "tema": 17,
+    "pregunta": "El artículo 89 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas desarrolla la Propuesta de Resolución en los procedimientos de carácter sancionador y expone que resolverá la finalización del procedimiento:",
+    "opciones": [
+      "Cuando los hechos no resulten acreditados.",
+      "Cuando los hechos probados no constituyan infracción penal.",
+      "Cuando se concluyera que han caducado los hechos."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 13",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q18",
+    "tema": 17,
+    "pregunta": "El porcentaje de reducción del procedimiento sancionador, establecido en el artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": [
+      "No podrá ser incrementado, pero sí reducido legal o reglamentariamente.",
+      "Podrá ser incrementado reglamentariamente.",
+      "No podrá ser incrementado ni reducido."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 18",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q19",
+    "tema": 17,
+    "pregunta": "De conformidad con el artículo 89 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿en qué supuestos el órgano instructor resolverá la finalización del procedimiento sancionador?",
+    "opciones": [
+      "Nunca, porque el órgano instructor sólo debe emitir propuesta de resolución al órgano que resuelve.",
+      "Cuando los hechos resulten acreditados.",
+      "Cuando se concluyera, en cualquier momento, que ha prescrito la infracción."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 19",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q32",
     "tema": 17,
     "pregunta": "Senala la afirmación correcta de conformidad con la Ley 40/2015 en materia de potestad sancionadora:",

@@ -1,5 +1,69 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q11",
+    "tema": 39,
+    "pregunta": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, conforme al artículo 70 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": [
+      "Es el registro administrativo.",
+      "Es el expediente administrativo.",
+      "Es el procedimiento administrativo."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 11",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q39",
+    "tema": 39,
+    "pregunta": "¿Según el artículo 28 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?:",
+    "opciones": [
+      "Los interesados se responsabilizan de la veracidad de los documentos que presentan.",
+      "El empleado público es responsable de la veracidad de los documentos que aporten los interesados.",
+      "La responsabilidad de la veracidad de los datos es el emisor del documento y, subsidiariamente, del interesado que aporta el documento."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 39",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q40",
+    "tema": 39,
+    "pregunta": "¿Cuál de los siguientes es un documento particular dirigido a la Administración?:",
+    "opciones": [
+      "Solicitud.",
+      "Informe.",
+      "Certificación."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 40",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q43",
+    "tema": 39,
+    "pregunta": "En base al artículo 153 del Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales el número de orden de un documento se refiere a/al:",
+    "opciones": [
+      "Su fecha de despacho.",
+      "La entrada o salida del registro.",
+      "Día en que recae la resolución."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 43",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q48-doc",
     "tema": 39,
     "pregunta": "Según la Ley 40/2015, los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán conservarse en:",

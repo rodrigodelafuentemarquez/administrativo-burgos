@@ -1,5 +1,53 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q32",
+    "tema": 22,
+    "pregunta": "Según el artículo 10 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, pueden nombrarse funcionarios interinos:",
+    "opciones": [
+      "Para la ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta seis meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+      "Para la ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta nueve meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto.",
+      "Para la ejecución de programas de carácter temporal, que no podrán tener una duración superior a tres años, ampliable hasta doce meses más por las leyes de Función Pública que se dicten en desarrollo de este Estatuto."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 32",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q33",
+    "tema": 22,
+    "pregunta": "Según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, todos los ciudadanos tienen derecho al acceso al empleo público de acuerdo con los principios constitucionales de:",
+    "opciones": [
+      "Igualdad, legalidad y capacidad.",
+      "Igualdad, mérito y capacidad.",
+      "Igualdad, mérito, capacidad y publicidad."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 33",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q36",
+    "tema": 22,
+    "pregunta": "Conforme al artículo 97 del Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, la prescripción de una falta leve se produce:",
+    "opciones": [
+      "Al año desde que la falta se produce.",
+      "A los tres meses desde que la falta se produce.",
+      "A los seis meses desde que la falta se produce."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 36",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2025-burgos-q40",
     "tema": 22,
     "pregunta": "El abandono del servicio de un funcionario público, así como no hacerse cargo voluntariamente de las tareas o funciones que tienen encomendadas, según el art. 95 de la Ley del Estatuto Básico del Empleado Público:",

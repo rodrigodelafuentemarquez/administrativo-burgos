@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q16",
+    "tema": 13,
+    "pregunta": "La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas regula el Recurso de Alzada, cuál de las siguientes afirmaciones NO ES CORRECTA:",
+    "opciones": [
+      "Contra la resolución de un recurso de alzada no cabrá ningún otro recurso administrativo, salvo el recurso extraordinario de revisión, en los casos establecidos en el artículo 125.1.",
+      "El plazo máximo para dictar y notificar la resolución será de tres meses.",
+      "El plazo para la interposición del recurso de alzada será de tres meses, si el acto fuera expreso."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 16",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q17",
+    "tema": 13,
+    "pregunta": "El artículo 107 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas regula la Lesividad de actos anulables e indica que:",
+    "opciones": [
+      "La declaración de lesividad no podrá adoptarse una vez transcurridos cinco años desde que se dictó el acto administrativo.",
+      "Transcurrido el plazo de seis meses desde la iniciación del procedimiento sin que se hubiera declarado la lesividad, se producirá la caducidad del mismo.",
+      "Las Administraciones Públicas podrán impugnar ante al Defensor del Pueblo los actos favorables para los interesados que sean anulables."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 17",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q31",
     "tema": 13,
     "pregunta": "De conformidad con la Ley 39/2015, los actos administrativos que no pongan fin a la vía administrativa podrán ser recurridos:",
@@ -63,6 +95,23 @@
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 20",
     "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q38",
+    "tema": 13,
+    "pregunta": "De conformidad con la Ley 39/2015, del Procedimiento Administrativo Común de las Administraciones Públicas, contra la resolución de un recurso de reposición:",
+    "opciones": [
+      "Podrá interponerse recurso contencioso administrativo.",
+      "Podrá interponerse un nuevo recurso de reposición si la resolución no es expresa.",
+      "Podrá interponerse recurso de alzada.",
+      "Podrá interponerse recurso extraordinario de revisión en los casos establecido en el artículo 29 de la Ley 39/2015."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 38",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
     ]

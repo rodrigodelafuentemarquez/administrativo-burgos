@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q30",
+    "tema": 36,
+    "pregunta": "Según la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales, se entenderá como “riesgo laboral”:",
+    "opciones": [
+      "Las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo.",
+      "La posibilidad de que un trabajador sufra un determinado daño derivado del trabajo.",
+      "Cualquier máquina, aparato, instrumento o instalación utilizada en el trabajo que provoque peligro para el trabajador."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 30",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q31",
+    "tema": 36,
+    "pregunta": "El artículo 4 de la Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales indica que, para calificar un riesgo desde el punto de vista de su gravedad, se valorarán conjuntamente:",
+    "opciones": [
+      "Las características del centro de trabajo y las condiciones personales del trabajador.",
+      "La probabilidad de que se produzca el daño y la severidad del mismo.",
+      "El tipo de riesgo y el número de posibles afectados."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 31",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q41",
     "tema": 36,
     "pregunta": "Según la Ley de Prevención de Riesgos Laborales, las enfermedades, patologias o lesiones sufridas con motivo u ocasión del trabajo se consideraran como:",

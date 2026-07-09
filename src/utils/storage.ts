@@ -22,6 +22,7 @@ export type FailedQuestion = {
   opciones: string[];
   correcta: number;
   referencia: string;
+  tags?: string[];
   fallos: number;
   firstFailedAt: number;
   lastFailedAt: number;
@@ -34,6 +35,7 @@ export type DoubtQuestion = {
   opciones: string[];
   correcta: number;
   referencia: string;
+  tags?: string[];
   createdAt: number;
 };
 
@@ -93,7 +95,7 @@ function normalizeFailedQuestion(value: unknown): FailedQuestion | null {
   const raw = value as Partial<FailedQuestion>;
   const opciones = Array.isArray(raw.opciones) ? raw.opciones.map((item) => String(item ?? '')) : [];
   const correcta = Number(raw.correcta);
-  if (!String(raw.id ?? '') || opciones.length !== 4 || ![0, 1, 2, 3].includes(correcta)) return null;
+  if (!String(raw.id ?? '') || opciones.length < 2 || correcta < 0 || correcta >= opciones.length) return null;
 
   const now = Date.now();
   const firstFailedAt = Number(raw.firstFailedAt ?? 0) || now;
@@ -107,6 +109,7 @@ function normalizeFailedQuestion(value: unknown): FailedQuestion | null {
     opciones,
     correcta,
     referencia: String(raw.referencia ?? ''),
+    tags: Array.isArray(raw.tags) ? raw.tags.map((tag) => String(tag ?? '')).filter(Boolean) : [],
     fallos,
     firstFailedAt,
     lastFailedAt,
@@ -118,7 +121,7 @@ function normalizeDoubtQuestion(value: unknown): DoubtQuestion | null {
   const raw = value as Partial<DoubtQuestion>;
   const opciones = Array.isArray(raw.opciones) ? raw.opciones.map((item) => String(item ?? '')) : [];
   const correcta = Number(raw.correcta);
-  if (!String(raw.id ?? '') || opciones.length !== 4 || ![0, 1, 2, 3].includes(correcta)) return null;
+  if (!String(raw.id ?? '') || opciones.length < 2 || correcta < 0 || correcta >= opciones.length) return null;
 
   return {
     id: String(raw.id),
@@ -127,6 +130,7 @@ function normalizeDoubtQuestion(value: unknown): DoubtQuestion | null {
     opciones,
     correcta,
     referencia: String(raw.referencia ?? ''),
+    tags: Array.isArray(raw.tags) ? raw.tags.map((tag) => String(tag ?? '')).filter(Boolean) : [],
     createdAt: Number(raw.createdAt ?? 0) || Date.now(),
   };
 }
@@ -188,6 +192,7 @@ export function addFails(newFails: FailedQuestion[]): void {
         opciones: q.opciones,
         correcta: q.correcta,
         referencia: q.referencia,
+        tags: q.tags,
         fallos: currentFail.fallos + 1,
         lastFailedAt: now,
       });

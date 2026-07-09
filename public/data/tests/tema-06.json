@@ -17,6 +17,23 @@
     ]
   },
   {
+    "id": "pdf-2023-burgos-q12",
+    "tema": 6,
+    "pregunta": "Según el artículo 140 de la Constitución Española, respecto a la autonomía de los municipios:",
+    "opciones": [
+      "No existe autonomía para los municipios.",
+      "Se accederá a la misma en los casos en que una Ley así lo recoja.",
+      "Se garantiza.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 12",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t09-p002",
     "tema": 6,
     "pregunta": "¿Qué artículo de la Constitución garantiza la autonomía del municipio?",

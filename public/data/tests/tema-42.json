@@ -1,5 +1,55 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q48",
+    "tema": 42,
+    "pregunta": "Para enviar un mensaje, a través del correo electrónico, a varias direcciones utilizaremos como separador entre esas direcciones el signo:",
+    "opciones": [
+      "/ -barra invertida-.",
+      ". -punto-.",
+      "; -punto y coma-."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 48",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q16",
+    "tema": 42,
+    "pregunta": "Los archivos de texto que contienen información sobre la navegación y que se almacenan en el disco duro se llaman:",
+    "opciones": [
+      "Download.",
+      "Pop- up.",
+      "Spam.",
+      "Cookies."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 16",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q20",
+    "tema": 42,
+    "pregunta": "Señale cuál de las siguientes opciones es la más eficaz para evitar automáticamente el SPAM o correo basura:",
+    "opciones": [
+      "Vaciar la carpeta de mensajes eliminados o papelera.",
+      "Utilizar un filtro.",
+      "Emplear la libreta de direcciones.",
+      "Utilizar un borrador."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 20",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t39-p012",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, Outlook 365 es:",

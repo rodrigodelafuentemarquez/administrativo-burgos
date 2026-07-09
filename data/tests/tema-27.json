@@ -1,5 +1,21 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q24",
+    "tema": 27,
+    "pregunta": "De conformidad con la Ley de Haciendas Locales, es un impuesto obligatorio para los Ayuntamientos:",
+    "opciones": [
+      "Impuesto sobre Construcciones, Instalaciones y Obras.",
+      "Impuesto sobre el Incremento de Valor de los Terrenos de Naturaleza Urbana.",
+      "Impuesto sobre Vehículos de Tracción Mecánica."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 24",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2025-burgos-q37",
     "tema": 27,
     "pregunta": "Según el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales, artículo 2, la hacienda de las entidades locales estará constituida por los siguientes recursos:",
@@ -46,6 +62,23 @@
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 39",
     "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q37",
+    "tema": 27,
+    "pregunta": "De conformidad con el Real Decreto Legislativo 2/2004, por el que se aprueba el texto refundido de la Ley de Haciendas Locales, tienen la consideración de ingresos de derecho público:",
+    "opciones": [
+      "El importe obtenido en la enajenación de bienes integrantes en el patrimonio de las Entidades Locales como consecuencia de la desafectación de bienes de dominio público.",
+      "Las adquisiciones a título de herencia, legado o donación.",
+      "Las multas y sanciones pecuniarias.",
+      "Todas las respuestas son correctas."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 37",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
     ]

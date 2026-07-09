@@ -1,5 +1,53 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q25",
+    "tema": 14,
+    "pregunta": "El artículo 3.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, establece que las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquía, centralización, desconcentración y coordinación.",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+      "Eficacia, jerarquía, descentralización, desconcentración y cooperación."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 25",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q26",
+    "tema": 14,
+    "pregunta": "Según el artículo 9.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las delegaciones de competencias y su revocación:",
+    "opciones": [
+      "Deberán publicarse en el tablón de anuncios del Ayuntamiento de la Administración delegante.",
+      "No precisan publicarse para ser válidos.",
+      "Deberán publicarse en el Boletín del Estado, en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 26",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q27",
+    "tema": 14,
+    "pregunta": "Contra el acuerdo de avocación, según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+    "opciones": [
+      "Podrá interponerse recurso potestativo de reposición.",
+      "No cabrá recurso, ni podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+      "No cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 27",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2025-burgos-q10",
     "tema": 14,
     "pregunta": "Conforme a la Ley 40/2015, para la válida constitución de un órgano colegiado, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, se requerira:",

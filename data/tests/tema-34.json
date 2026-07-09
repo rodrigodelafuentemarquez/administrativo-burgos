@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q37",
+    "tema": 34,
+    "pregunta": "¿Quiénes podrán presentar sugerencias o reclamaciones ante la Comisión especial de sugerencias y reclamaciones del Ayuntamiento de Burgos? Señale la incorrecta:",
+    "opciones": [
+      "Una entidad ciudadana debidamente registrada en el correspondiente Registro de Entidades del Ayuntamiento de Burgos.",
+      "El Consejo Social de la ciudad.",
+      "Las Juntas de Distrito."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 37",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q38",
+    "tema": 34,
+    "pregunta": "La función cuya finalidad es la de ofrecer las aclaraciones y ayudas de índole práctica que los ciudadanos requieren sobre procedimientos, trámites, requisitos y documentación para los proyectos, actuaciones o solicitudes que se propongan realizar o para acceder al disfrute de un servicio público o beneficiarse de una prestación, se denomina:",
+    "opciones": [
+      "Función de recepción y acogida a los ciudadanos.",
+      "Función de orientación e información.",
+      "Función de asistencia a los ciudadanos en el ejercicio del derecho de petición."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 38",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2025-burgos-q43",
     "tema": 34,
     "pregunta": "Señale la respuesta INCORRECTA. Según el artículo 70 del Real Decreto Legislativo 1/2013, de 29 de noviembre, por el que se aprueba el texto refundido de las personas con discapacidad y de su inclusión social, las administraciones públicas deberán adecuar sus planes de calidad para asegurar la igualdad de oportunidades a los ciudadanos con discapacidad. Para ello:",

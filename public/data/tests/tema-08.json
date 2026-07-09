@@ -51,6 +51,23 @@
     ]
   },
   {
+    "id": "pdf-2023-burgos-q13",
+    "tema": 8,
+    "pregunta": "¿Dónde tiene su sede el Parlamento Europeo?:",
+    "opciones": [
+      "En Estrasburgo.",
+      "En Madrid.",
+      "En Bruselas.",
+      "En Luxemburgo."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 13",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t41-p001",
     "tema": 8,
     "pregunta": "En la Unión Europea, la creación de la CECA se produce por el Tratado de:",

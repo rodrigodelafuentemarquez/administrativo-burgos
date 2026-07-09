@@ -68,6 +68,142 @@
     ]
   },
   {
+    "id": "pdf-2023-burgos-q02",
+    "tema": 2,
+    "pregunta": "En el artículo 62 de la Constitución Española de 1978 se regulan las atribuciones que corresponden al Rey, NO siendo competencia de éste:",
+    "opciones": [
+      "Sancionar y promulgar las leyes.",
+      "El Alto Patronazgo de las Reales Academias.",
+      "Nombrar y separar a los miembros del Gobierno, a propuesta de su Presidente.",
+      "Nombrar al Presidente del Senado."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 2",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q03",
+    "tema": 2,
+    "pregunta": "¿Pueden asumir funciones constitucionales la Reina consorte o el consorte de la Reina según el artículo 58 de la Constitución Española de 1978?",
+    "opciones": [
+      "Sí, en todo caso.",
+      "No, en ningún caso.",
+      "No, salvo lo dispuesto para la Regencia.",
+      "Sí, pero con autorización de las Cortes Generales."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 3",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q04",
+    "tema": 2,
+    "pregunta": "¿Qué Título de la Constitución Española regula Las Cortes Generales?:",
+    "opciones": [
+      "Título IV.",
+      "Título III.",
+      "Título VII.",
+      "Título V."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 4",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q05",
+    "tema": 2,
+    "pregunta": "En las causas contra Diputados y Senadores será competente:",
+    "opciones": [
+      "El Juzgado de la Penal que corresponda.",
+      "La Sala de lo Penal del Tribunal Supremo.",
+      "El Juzgado que corresponda dependiente de tipo de infracción.",
+      "La Sala de lo Penal de la Audiencia Nacional."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 5",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q06",
+    "tema": 2,
+    "pregunta": "¿Quién propone al candidato a la Presidencia del Gobierno conforme el artículo 99.1 de la Constitución Española?:",
+    "opciones": [
+      "El Presidente del Gobierno, previa consulta al Rey.",
+      "El Presidente del Congreso, previa consulta con los representantes designados por los Grupos políticos con representación parlamentaria.",
+      "El Rey, previa consulta con los portavoces de los Grupos políticos que concurrieron a las elecciones.",
+      "El Rey, previa consulta con los representantes designados por los Grupos políticos, con representación parlamentaria."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 6",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q07",
+    "tema": 2,
+    "pregunta": "El estatuto e incompatibilidades de los miembros del Gobierno, según el artículo 98.4 de la Constitución Española:",
+    "opciones": [
+      "Se regulará por Ley Orgánica.",
+      "Se regulará en la Constitución.",
+      "Se regulará por Ley.",
+      "Se regulará mediante Real Decreto."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 7",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q08",
+    "tema": 2,
+    "pregunta": "¿Quién presidirá el Consejo del Poder Judicial?:",
+    "opciones": [
+      "El Presidente del Tribunal Supremo.",
+      "El Presidente del Tribunal Constitucional.",
+      "El vocal elegido por mayoría absoluta de entre sus miembros.",
+      "El vocal de más edad de entre sus miembros."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 8",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q09",
+    "tema": 2,
+    "pregunta": "¿Por qué período son nombrados los miembros del Consejo General del Poder Judicial?:",
+    "opciones": [
+      "Tres años.",
+      "Cinco años.",
+      "Nueve años.",
+      "Cuatro años."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 9",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t03-p001",
     "tema": 2,
     "pregunta": "En una Monarquía parlamentaria, el Rey:",

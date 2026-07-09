@@ -1,5 +1,38 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q20",
+    "tema": 15,
+    "pregunta": "Según el artículo 34.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, serán indemnizables las lesiones producidas al particular provenientes de daños:",
+    "opciones": [
+      "En todo caso, por el funcionamiento anormal de las Administraciones Públicas.",
+      "Por la actuación negligente de los funcionarios públicos.",
+      "Que no tenga el deber jurídico de soportar de acuerdo con la Ley."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 20",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q33",
+    "tema": 15,
+    "pregunta": "Señala la afirmación correcta de conformidad con la Ley 40/2015, de Régimen Jurídico del Sector Público, en materia de responsabilidad patrimonial de las Administraciones Públicas:",
+    "opciones": [
+      "Sólo el funcionamiento anormal de los servicios públicos puede dar lugar a responsabilidad de las Administraciones Públicas por los daños causados.",
+      "Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas en los casos de fuerza mayor o caso fortuito.",
+      "El daño alegado por el particular tiene que ser evaluable económicamente.",
+      "Sólo el funcionamiento normal de los servicios públicos puede dar lugar a responsabilidad de las Administraciones Públicas por los daños causados."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 33",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t18-p001",
     "tema": 15,
     "pregunta": "En responsabilidad patrimonial de la Administración, esta queda obligada a:",

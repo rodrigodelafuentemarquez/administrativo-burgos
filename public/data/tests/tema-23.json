@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q34",
+    "tema": 23,
+    "pregunta": "¿Son causa de pérdida de la condición de funcionario de carrera según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público? (señale la incorrecta):",
+    "opciones": [
+      "La pérdida de la nacionalidad.",
+      "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviera carácter firme.",
+      "La sanción disciplinaria de separación del servicio aunque no tuviera carácter firme."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 34",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q35",
+    "tema": 23,
+    "pregunta": "De conformidad con el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público señale el período máximo de duración de la situación administrativa de excedencia por cuidado de familiares:",
+    "opciones": [
+      "1 año.",
+      "2 años.",
+      "3 años."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 35",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2025-burgos-q59",
     "tema": 23,
     "pregunta": "Son causas de pérdida de la condición de funcionario de carrera (señale la INCORRECTA):",
@@ -29,6 +61,40 @@
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 60",
     "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q39",
+    "tema": 23,
+    "pregunta": "De conformidad con los requisitos exigidos por el Real Decreto Legislativo 5/2015, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el interesado podrá solicitar la rehabilitación de la condición de funcionario público en caso de:",
+    "opciones": [
+      "Extinción de la relación de servicios como consecuencia de la pérdida de la nacionalidad.",
+      "Extinción de la relación de servicios como consecuencia de la jubilación forzosa.",
+      "Declarada la pérdida de la condición de funcionario no cabe la rehabilitación en ningún caso.",
+      "Extinción de la relación de servicios como consecuencia de sanción disciplinaria de separación del servicio."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 39",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q40",
+    "tema": 23,
+    "pregunta": "De conformidad con el Real Decreto Legislativo 5/2015, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+    "opciones": [
+      "2 años inmediatamente anteriores.",
+      "3 años inmediatamente anteriores.",
+      "8 años inmediatamente anteriores.",
+      "5 años inmediatamente anteriores."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 40",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
     ]

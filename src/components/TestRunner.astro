@@ -40,6 +40,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   let currentDoubtFilter = 'mixed';
   let currentPenalty = 0;
   let currentTimerMinutes = 0;
+  let currentOnlyReal = false;
   let activeTimerId = null;
   let sessionFinished = false;
   let finishReason = 'manual';
@@ -62,7 +63,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     const opciones = Array.isArray(item.opciones) ? item.opciones.map((value) => String(value ?? '')) : [];
     const correcta = Number(item.correcta);
     const tema = Number(item.tema ?? fallbackTema);
-    if (opciones.length !== 4 || ![0, 1, 2, 3].includes(correcta)) return null;
+    if (opciones.length < 2 || correcta < 0 || correcta >= opciones.length) return null;
 
     return {
       ...item,
@@ -91,6 +92,10 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     const tags = Array.isArray(question.tags) ? question.tags.filter(Boolean) : [];
     if (!tags.length) return '';
     return `<span class="question-tags">${tags.map((tag) => `<span class="badge text-bg-success">${escapeHtml(tag)}</span>`).join('')}</span>`;
+  }
+
+  function isRealQuestion(question) {
+    return Array.isArray(question.tags) && question.tags.includes('Pregunta real');
   }
 
   function shuffle(arr) {
@@ -418,6 +423,11 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           <select class="form-select mb-3" id="timer-minutes">${timerOptions.map((n) => `<option value="${n}" ${n === 0 ? 'selected' : ''}>${n === 0 ? 'Sin temporizador' : `${n} minutos`}</option>`).join('')}</select>
           <label class="form-label fw-semibold" for="penalty-mode">Corrección</label>
           <select class="form-select" id="penalty-mode">${penaltyOptions.map((option) => `<option value="${option.value}" ${option.value === 0 ? 'selected' : ''}>${option.label}</option>`).join('')}</select>
+          <div class="form-check mt-3">
+            <input class="form-check-input" type="checkbox" id="only-real-questions">
+            <label class="form-check-label fw-semibold" for="only-real-questions">Solo preguntas reales</label>
+          </div>
+          <p class="text-body-secondary small mt-1 mb-0">Usa únicamente preguntas etiquetadas como "Pregunta real" dentro de los temas seleccionados.</p>
           <p class="text-body-secondary small mt-2 mb-0">La penalización solo afecta a la nota mostrada del intento. El progreso por tema sigue contando aciertos reales. Si no hay suficientes preguntas, se usan todas las disponibles.</p>
           <button class="btn btn-primary btn-lg w-100 mt-3" id="start" type="button">Empezar test</button>
         </div>
@@ -431,7 +441,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
 
     document.getElementById('select-all-topics')?.addEventListener('click', () => {
-      root.querySelectorAll('input[type=checkbox]').forEach((el) => {
+      root.querySelectorAll('.test-topic-option input[type=checkbox]').forEach((el) => {
         el.checked = true;
       });
       updateTopicSelectionSummary();
@@ -463,8 +473,15 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           .filter(Boolean);
       }));
       allQuestions = chunks.flat();
+      currentOnlyReal = Boolean(document.getElementById('only-real-questions')?.checked);
+      if (currentOnlyReal) {
+        allQuestions = allQuestions.filter(isRealQuestion);
+      }
       if (!allQuestions.length) {
-        renderEmpty('No hay preguntas válidas en los temas seleccionados.', 'Revisa los JSON de test o prueba con otros temas.');
+        renderEmpty(
+          currentOnlyReal ? 'No hay preguntas reales en los temas seleccionados.' : 'No hay preguntas válidas en los temas seleccionados.',
+          currentOnlyReal ? 'Quita el filtro de preguntas reales o añade otros temas con preguntas oficiales.' : 'Revisa los JSON de test o prueba con otros temas.',
+        );
         return;
       }
       currentPenalty = Number(document.getElementById('penalty-mode')?.value ?? '0') || 0;
@@ -512,17 +529,19 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       ? 'Repaso de fallos'
       : (mode === 'doubts'
         ? 'Revision de dudosas'
-        : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio')));
+        : (currentOnlyReal ? 'Preguntas reales' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio'))));
 
     const heroText = mode === 'fails'
       ? 'Las preguntas se priorizan por recurrencia de error. Si aciertas una aquí, desaparece de fallos.'
       : (mode === 'doubts'
         ? 'Este bloque agrupa preguntas que has marcado para revisar con calma. Si aquí ya las ves claras, se limpian automáticamente al acertarlas.'
-        : (isOfficial
+        : (currentOnlyReal
+          ? 'El test usa solo preguntas etiquetadas como reales dentro de los temas seleccionados.'
+          : (isOfficial
           ? 'Sin pistas durante el examen: la referencia normativa solo aparece al corregir. Ajuste inicial: 70 preguntas, 90 minutos y penalización de 0,25.'
           : (isSmart
             ? 'Combina preguntas nuevas con fallos recurrentes del bloque elegido para repasar sin repetir siempre lo mismo.'
-            : 'Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.')));
+            : 'Marca una opción por pregunta. La corrección aparece al final con la respuesta correcta y la referencia.'))));
 
     const timerBadge = mode === 'normal' && currentTimerMinutes > 0
       ? `<span class="badge text-bg-dark" id="timer-display">${formatDuration(Math.round(currentTimerMinutes * 60))}</span>`
@@ -531,13 +550,14 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       ? `<span class="badge text-bg-secondary">Penalización -${formatPenalty(currentPenalty)} por fallo</span>`
       : '';
     const modeBadge = isSmart ? '<span class="badge text-bg-info">Nuevas + recurrentes</span>' : '';
+    const realBadge = currentOnlyReal ? '<span class="badge text-bg-success">Solo preguntas reales</span>' : '';
 
     root.innerHTML = `
       <div class="test-hero mb-4">
         <span class="test-kicker">${heroLabel}</span>
         <h2 class="display-6 mb-2">${selected.length} preguntas</h2>
         <p class="text-body-secondary mb-0">${heroText}</p>
-        ${(timerBadge || penaltyBadge || modeBadge) ? `<div class="d-flex flex-wrap gap-2 mt-3">${modeBadge}${penaltyBadge}${timerBadge}</div>` : ''}
+        ${(timerBadge || penaltyBadge || modeBadge || realBadge) ? `<div class="d-flex flex-wrap gap-2 mt-3">${realBadge}${modeBadge}${penaltyBadge}${timerBadge}</div>` : ''}
       </div>
       <form id="quiz" class="test-question-list"></form>
       <div class="test-actions sticky-bottom py-3 mt-4">

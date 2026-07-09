@@ -102,6 +102,23 @@
     ]
   },
   {
+    "id": "pdf-2023-burgos-q44",
+    "tema": 38,
+    "pregunta": "Según la Ley 39/2015, de 1 de Octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a los efectos del cómputo de plazos en registros electrónicos.",
+    "opciones": [
+      "Permitirán la presentación de solicitudes, escritos y comunicaciones todos los días del año durante las horas de 9:00 a 21:00 horas.",
+      "La presentación en un día inhábil se entenderá realizada a primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil.",
+      "Con carácter general, no permitirán la presentación de solicitudes, escritos y comunicaciones en días inhábiles.",
+      "La presentación en un día inhábil se entenderá realizada expresamente como fuera de plazo, salvo que una norma permita expresamente la recepción en día inhábil."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 44",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t34-p001",
     "tema": 38,
     "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",

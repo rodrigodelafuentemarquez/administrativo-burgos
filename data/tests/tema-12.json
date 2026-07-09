@@ -1,5 +1,101 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q08",
+    "tema": 12,
+    "pregunta": "El artículo 4 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas regula el “Concepto de Interesado”, en el punto 1 indica que se consideran interesados en el procedimiento administrativo:",
+    "opciones": [
+      "Los que, habiendo iniciado el procedimiento, tengan derechos que puedan resultar afectados por la decisión que en el mismo se adopte.",
+      "Quienes lo promueven como titulares de derechos o intereses legítimos individuales o colectivos.",
+      "Aquellos cuyos intereses legítimos, individuales o colectivos, puedan resultar afectados por la resolución y se personen en cualquier momento en el procedimiento."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 8",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q09",
+    "tema": 12,
+    "pregunta": "El artículo 7 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas recoge literalmente que “Cuando en una solicitud, escrito o comunicación figuren varios interesados, las actuaciones a que den lugar se efectuarán con:",
+    "opciones": [
+      "el representante o el interesado que expresamente hayan señalado, y, en su defecto, con el que figure en primer término.”",
+      "el representante o el interesado, según decida la Administración.”",
+      "el representante o el interesado que expresamente hayan señalado, y, en su defecto, con uno de los interesados que figure en el expediente.”"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 9",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q10",
+    "tema": 12,
+    "pregunta": "El artículo 54 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con las clases de iniciación del procedimiento administrativo, indica que:",
+    "opciones": [
+      "Los procedimientos podrán iniciarse de oficio, a instancia de parte o por denuncia.",
+      "Los procedimientos podrán iniciarse de oficio, a solicitud del interesado o por resolución judicial.",
+      "Los procedimientos podrán iniciarse de oficio o a solicitud del interesado."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 10",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q12",
+    "tema": 12,
+    "pregunta": "El artículo 80 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en relación con la emisión de informes, indica que:",
+    "opciones": [
+      "Salvo disposición expresa en contrario, los informes serán preceptivos y vinculantes.",
+      "El informe emitido fuera de plazo no se tendrá en cuenta al adoptar la correspondiente resolución.",
+      "Salvo disposición expresa en contrario, los informes serán facultativos y no vinculantes."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 12",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q14",
+    "tema": 12,
+    "pregunta": "La obligación de resolver los procedimientos por parte de la Administración viene regulada en el art. 21 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, e indica que:",
+    "opciones": [
+      "La Administración está obligada a dictar resolución expresa y a notificarla, únicamente, en los procedimientos iniciados a instancia de interesado.",
+      "El plazo máximo en el que debe notificarse la resolución expresa será el fijado por la norma reguladora del correspondiente procedimiento.",
+      "La Administración está obligada a dictar resolución expresa y a notificarla, salvo que decida conceder de forma inmediata lo solicitado al interesado y no sea preciso iniciar procedimiento."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 14",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q15",
+    "tema": 12,
+    "pregunta": "En relación con el silencio administrativo, la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, en su artículo 24, expone que:",
+    "opciones": [
+      "En los casos de estimación por silencio administrativo, ya no es necesaria una resolución expresa posterior al vencimiento del plazo por parte de la Administración.",
+      "En los casos de desestimación por silencio administrativo, la resolución expresa posterior al vencimiento del plazo se adoptará por la Administración sin vinculación alguna al sentido del silencio.",
+      "En los casos de desestimación por silencio administrativo, no será necesaria la resolución expresa posterior al vencimiento del plazo por la Administración, salvo que fuera una resolución de estimación."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 15",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q27",
     "tema": 12,
     "pregunta": "En el procedimiento administrativo común, la Ley 39/2015 indica que, cuando las normas reguladoras de los procedimientos no fijen el plazo máximo para resolver, este será de:",
@@ -114,6 +210,23 @@
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 12",
     "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q28",
+    "tema": 12,
+    "pregunta": "El silencio administrativo está regulado en el artículo 24 de la Ley 39/20215, de 1 de octubre, del Procedimiento Administrativo Común, en este artículo se recoge que:",
+    "opciones": [
+      "En los procedimientos iniciados a solicitud del interesado siempre es estimatorio.",
+      "Siempre es desestimatorio, cualquiera que sea la forma de iniciación del Procedimiento.",
+      "No existe ese concepto en la Ley 39/2015.",
+      "Los actos administrativos producidos por silencio administrativo se podrán hacer valer tanto ante la Administración como ante cualquier persona física o jurídica, pública o privada."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 28",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
     ]

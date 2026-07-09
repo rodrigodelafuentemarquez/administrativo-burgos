@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q06",
+    "tema": 21,
+    "pregunta": "Señala la afirmación correcta. De conformidad con el artículo 127 de la Ley 7/1985, de 2 de abril, reguladora de las Bases de Régimen Local, la aprobación de los proyectos de ordenanzas corresponde a:",
+    "opciones": [
+      "Pleno.",
+      "Alcalde.",
+      "Junta de Gobierno Local."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 6",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q07",
+    "tema": 21,
+    "pregunta": "Según el artículo 47 de la Ley 7/85 de 2 de abril, reguladora de las Bases de Régimen Local, ¿Cuál es la mayoría exigible para aprobar el Reglamento Orgánico de la Corporación?:",
+    "opciones": [
+      "Mayoría absoluta del número legal de miembros de la Corporación.",
+      "Mayoría de 2/3 de número legal de miembros de la Corporación.",
+      "Mayoría simple del número legal de miembros de la Corporación."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 7",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q26-ord",
     "tema": 21,
     "pregunta": "Conforme al artículo 123 de la Ley 7/1985, corresponde al Pleno:",

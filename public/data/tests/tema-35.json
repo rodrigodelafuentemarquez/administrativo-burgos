@@ -1,5 +1,37 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q41",
+    "tema": 35,
+    "pregunta": "Cuando el interesado presenta un documento en el registro electrónico de una Administración, puede recibir como prueba:",
+    "opciones": [
+      "Un recibo consistente en una copia autenticada del documento de que se trate.",
+      "Una copia del documento presentado.",
+      "La simple presentación es garantía de prueba."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 41",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q42",
+    "tema": 35,
+    "pregunta": "Según el artículo 151.2 del Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales el Registro General de una entidad permanecerá abierto al público:",
+    "opciones": [
+      "Todos los días hábiles.",
+      "Todos los días incluidos los fines de semana.",
+      "Todos los días naturales."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 42",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2025-burgos-q47",
     "tema": 35,
     "pregunta": "En oficinas de asistencia en materia de registros, el servicio 010 de atención ciudadana realizará los siguientes servicios. Indique cuál NO es correcto:",
@@ -63,6 +95,23 @@
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 48",
     "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q47",
+    "tema": 35,
+    "pregunta": "El servicio 010 de atención ciudadana realizará los siguientes servicios, indique cual NO es correcto:",
+    "opciones": [
+      "Dar información municipal y de la ciudad de Burgos ágil y verazmente.",
+      "Canalizar avisos o incidencias, reclamaciones y sugerencias.",
+      "Realización de diversos trámites municipales.",
+      "Expedición de copias selladas de los documentos originales que aporten los interesados."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 47",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
     ]

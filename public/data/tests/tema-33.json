@@ -34,6 +34,23 @@
     ]
   },
   {
+    "id": "pdf-2023-burgos-q50",
+    "tema": 33,
+    "pregunta": "La norma que regula la transparencia, acceso a la información pública y buen gobierno, es:",
+    "opciones": [
+      "Ley 39/2015, de 1 de octubre.",
+      "Ley 40/2015, de 1 de octubre.",
+      "Real Decreto 951/2005, de 29 de julio.",
+      "Ley 19/2013, de 9 de diciembre."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 50",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "t21-p001",
     "tema": 33,
     "pregunta": "Según el art. 2 LTBG, la LTBG se aplica a:",

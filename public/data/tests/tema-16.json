@@ -1,5 +1,53 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q21",
+    "tema": 16,
+    "pregunta": "¿Cuál de los siguientes tipos de contratos está excluido de la Ley de Contratos del Sector Público?",
+    "opciones": [
+      "Contrato de concesión de obras públicas.",
+      "Contrato relativo a servicios de arbitraje y conciliación.",
+      "Contrato de concesión de servicios."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 21",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q22",
+    "tema": 16,
+    "pregunta": "La adjudicación de un contrato de obras requerirá la previa elaboración, supervisión, aprobación y replanteo del correspondiente proyecto que definirá con precisión:",
+    "opciones": [
+      "El precio del contrato.",
+      "La causa del contrato.",
+      "El objeto del contrato."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 22",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q23",
+    "tema": 16,
+    "pregunta": "De conformidad con el artículo 131 de la Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público:",
+    "opciones": [
+      "La adjudicación se realizará, ordinariamente utilizando una pluralidad de criterios de adjudicación basados en el principio de mejor relación calidad-precio, y utilizando el procedimiento abierto o el procedimiento restringido.",
+      "La adjudicación se realizará, ordinariamente utilizando una pluralidad de criterios de adjudicación basados en el principio de mejor relación calidad-precio, y utilizando el procedimiento abierto o el procedimiento negociado sin publicidad.",
+      "La adjudicación se realizará, ordinariamente utilizando una pluralidad de criterios de adjudicación basados en el principio de mejor relación calidad-precio, y utilizando el procedimiento abierto o el dialogo competitivo."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 23",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q34",
     "tema": 16,
     "pregunta": "De conformidad con la Ley 9/2017, NO son contratos de suministro:",

@@ -1,5 +1,85 @@
 [
   {
+    "id": "pdf-2024-burgos-est-q01",
+    "tema": 7,
+    "pregunta": "En el Ayuntamiento de Burgos, el Pleno determinará la fecha y horario de celebración de las sesiones ordinarias:",
+    "opciones": [
+      "En sesión extraordinaria convocada dentro de los 30 días siguientes al de la sesión constitutiva de la Corporación.",
+      "En sesión extraordinaria convocada dentro de los 20 días siguientes al de la sesión constitutiva de la Corporación.",
+      "En la misma sesión constitutiva de la Corporación."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 1",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q02",
+    "tema": 7,
+    "pregunta": "En el Ayuntamiento de Burgos NO es función del Alcalde:",
+    "opciones": [
+      "Nombrar y cesar a los Tenientes de Alcalde y a los Presidentes de los Distritos.",
+      "Aprobar la Oferta de Empleo Público.",
+      "Las facultades de revisión de oficio de sus propios actos."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 2",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q03",
+    "tema": 7,
+    "pregunta": "¿A quién corresponde expedir las certificaciones de los actos y acuerdos que se adoptan en el Pleno?",
+    "opciones": [
+      "Presidente del Pleno.",
+      "Concejal delegado en la materia con el Visto Bueno del Presidente del Pleno.",
+      "Secretario General del Pleno con el Visto Bueno del Presidente del Pleno."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 3",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q04",
+    "tema": 7,
+    "pregunta": "El titular al frente de la Asesoría Jurídica será nombrado y separado por:",
+    "opciones": [
+      "Alcalde.",
+      "Pleno.",
+      "Junta de Gobierno Local."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 4",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q05",
+    "tema": 7,
+    "pregunta": "En el Ayuntamiento de Burgos, ¿quién se encarga del conocimiento y resolución de las reclamaciones sobre actos de gestión, liquidación, recaudación e inspección de Tributos e Ingresos de derecho público que sean de competencia municipal?",
+    "opciones": [
+      "Tribunal Económico Administrativo.",
+      "Intervención General Municipal.",
+      "La Sección de Tributos."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 5",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
     "id": "pdf-2023-burgos-q21",
     "tema": 7,
     "pregunta": "El Título X de la Ley 7/1985 regula los municipios de gran población. ¿Burgos es un municipio de gran población?",
