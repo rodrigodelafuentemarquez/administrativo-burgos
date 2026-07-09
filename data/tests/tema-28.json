@@ -1,0 +1,336 @@
+[
+  {
+    "id": "pdf-2025-burgos-q42",
+    "tema": 28,
+    "pregunta": "Aprobado inicialmente el presupuesto general de la entidad local, de conformidad con el artículo 169 del texto refundido de la Ley Reguladora de las Haciendas Locales:",
+    "opciones": [
+      "Se expondra al público, previo anuncio en el boletín oficial correspondiente, por quince días",
+      "Se expondra al público en el tablon de anuncios y en las Secretarias Generales por plazo de un mes",
+      "La aprobación inicial del presupuesto no necesita publicación",
+      "Los interesados podrán presentar reclamaciones que el Pleno debera resolver en veinte días desde su presentación"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 42",
+    "explicación": "La aprobación inicial del presupuesto local se somete a exposición pública por quince días.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t30-p012",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, el Presupuesto de las Entidades Locales es:",
+    "opciones": [
+      "la expresión cifrada, conjunta y sistemática de obligaciones máximas y derechos previstos para el ejercicio",
+      "un simple listado de facturas pagadas",
+      "un documento exclusivamente contable sin valor jurídico",
+      "una norma reglamentaria de personal"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reproduce la definición del art. 162 TRLRHL.",
+    "referencia": "IV.2 · 7.1 Concepto"
+  },
+  {
+    "id": "t30-p013",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, el Presupuesto General integra entre otros:",
+    "opciones": [
+      "el presupuesto de la propia Entidad Local y el de sus organismos autónomos",
+      "solo el del Ayuntamiento",
+      "únicamente el de la Tesorería",
+      "solo los planes provinciales"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge ese contenido en el art. 164 TRLRHL.",
+    "referencia": "IV.2 · 7.3 Contenido del Presupuesto General"
+  },
+  {
+    "id": "t30-p015",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, si el presupuesto no se aprueba antes del 1 de enero:",
+    "opciones": [
+      "queda automáticamente prorrogado el del ejercicio anterior",
+      "se disuelve la Corporación",
+      "se aplica el presupuesto del Estado",
+      "se suspende la contabilidad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema prevé la prórroga automática.",
+    "referencia": "IV.2 · 9.2 Prórroga del presupuesto"
+  },
+  {
+    "id": "t30-p019",
+    "tema": 28,
+    "pregunta": "En el estado de ingresos del presupuesto local, el capítulo 3 corresponde a:",
+    "opciones": [
+      "tasas, precios públicos y otros ingresos",
+      "transferencias corrientes",
+      "impuestos directos",
+      "ingresos patrimoniales"
+    ],
+    "correcta": 0,
+    "explicación": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos.",
+    "referencia": "IV.2 · 8.1 Estado de ingresos (previsiones)"
+  },
+  {
+    "id": "t30-p020",
+    "tema": 28,
+    "pregunta": "Tras la aprobación inicial del presupuesto local, el expediente se somete a exposición pública durante:",
+    "opciones": [
+      "15 días hábiles",
+      "10 días naturales",
+      "1 mes",
+      "20 días hábiles"
+    ],
+    "correcta": 0,
+    "explicación": "El presupuesto debe exponerse al público durante 15 días hábiles para posibles reclamaciones.",
+    "referencia": "IV.2 · 9.1 Fases de elaboración"
+  },
+  {
+    "id": "t44-p001",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, el presupuesto público es principalmente:",
+    "opciones": [
+      "Una autorización jurídica y financiera para realizar gastos y prever ingresos durante un ejercicio determinado",
+      "Un mero estado contable interno carente de eficacia jurídica externa",
+      "Un plan económico plurianual sin referencia a un ejercicio presupuestario",
+      "Una reserva de tesorería constituida solo para atender gastos imprevistos"
+    ],
+    "correcta": 0,
+    "explicación": "El presupuesto tiene dimensión jurídica y financiera, y se refiere a un ejercicio concreto.",
+    "referencia": "Presupuesto público · concepto"
+  },
+  {
+    "id": "t44-p003",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, ¿cuál de los siguientes no figura entre los principios presupuestarios?",
+    "opciones": [
+      "Unidad",
+      "No afectación",
+      "Especialidad",
+      "Inmediación"
+    ],
+    "correcta": 3,
+    "explicación": "Inmediación no aparece; sí se recogen unidad, no afectación y especialidad.",
+    "referencia": "IV.2 · 2 Principios presupuestarios"
+  },
+  {
+    "id": "t44-p004",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, el principio de universalidad exige que:",
+    "opciones": [
+      "Todos los ingresos y gastos se incluyan íntegramente en el presupuesto",
+      "Solo se incluyan los gastos corrientes",
+      "Los ingresos financien gastos concretos afectados",
+      "El presupuesto se apruebe cada dos años"
+    ],
+    "correcta": 0,
+    "explicación": "La universalidad impide compensaciones y exige incluir todo ingreso y gasto.",
+    "referencia": "IV.2 · 2.3 Principio de universalidad"
+  },
+  {
+    "id": "t44-p005",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, el principio de especialidad presupuestaria tiene una vertiente:",
+    "opciones": [
+      "Solo territorial",
+      "Cualitativa, cuantitativa y temporal",
+      "Únicamente financiera",
+      "Solo orgánica"
+    ],
+    "correcta": 1,
+    "explicación": "El texto distingue tres vertientes de la especialidad.",
+    "referencia": "IV.2 · 2.6 Principio de especialidad"
+  },
+  {
+    "id": "t44-p006",
+    "tema": 28,
+    "pregunta": "En la clasificación económica del presupuesto, el capítulo 1 corresponde a:",
+    "opciones": [
+      "Gastos de personal",
+      "Transferencias corrientes",
+      "Inversiones reales",
+      "Pasivos financieros"
+    ],
+    "correcta": 0,
+    "explicación": "El capítulo 1 se reserva a gastos de personal.",
+    "referencia": "IV.2 · 3.3 Clasificación económica"
+  },
+  {
+    "id": "t44-p007",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, ¿cuál de las siguientes agrupaciones es correcta?",
+    "opciones": [
+      "Capítulos 1 a 5: gastos corrientes; 6 y 7: capital; 8 y 9: operaciones financieras",
+      "Capítulos 1 a 3: capital; 4 a 6: corrientes; 7 a 9: financieras",
+      "Capítulos 1 a 4: financieras; 5 a 7: corrientes; 8 a 9: capital",
+      "Capítulos 1 a 9: todos son gastos corrientes"
+    ],
+    "correcta": 0,
+    "explicación": "El tema clasifica así los capítulos presupuestarios.",
+    "referencia": "IV.2 · 3.3 Clasificación económica"
+  },
+  {
+    "id": "t44-p012",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, un crédito extraordinario se caracteriza porque:",
+    "opciones": [
+      "Redistribuye crédito sin alterar el gasto total",
+      "Crea una nueva partida para un gasto no previsto",
+      "Solo se aplica a gastos de personal",
+      "No requiere aprobación alguna"
+    ],
+    "correcta": 1,
+    "explicación": "El crédito extraordinario crea una partida nueva y aumenta el gasto total.",
+    "referencia": "IV.2 · 6.2 Créditos extraordinarios y suplementos de crédito"
+  },
+  {
+    "id": "t44-p013",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, las transferencias de crédito:",
+    "opciones": [
+      "Aumentan el gasto total del presupuesto",
+      "Redistribuyen créditos entre partidas sin alterar el gasto total",
+      "Solo las aprueba el Tribunal de Cuentas",
+      "Solo sirven para crear nuevas partidas"
+    ],
+    "correcta": 1,
+    "explicación": "El tema las define como redistribución sin alterar el gasto total.",
+    "referencia": "IV.2 · 6.4 Transferencias de crédito"
+  },
+  {
+    "id": "t44-p022",
+    "tema": 28,
+    "pregunta": "En materia presupuestaria, los anticipos de tesorería permiten al Gobierno, con la autorización correspondiente:",
+    "opciones": [
+      "Atender gastos urgentes antes de que se apruebe el nuevo presupuesto o cuando el vigente resulte insuficiente",
+      "Financiar con carácter ordinario cualquier ampliación de plantillas",
+      "Sustituir definitivamente al crédito extraordinario y al suplemento de crédito",
+      "Evitar toda intervención del órgano legislativo en materia presupuestaria"
+    ],
+    "correcta": 0,
+    "explicación": "El tema presenta los anticipos de tesorería como un instrumento excepcional para gastos urgentes.",
+    "referencia": "IV.2 · 6.7 Anticipos de tesorería"
+  },
+  {
+    "id": "refine-28-01",
+    "pregunta": "El presupuesto general de la entidad local integra, entre otros documentos, el presupuesto de la propia entidad y el de:",
+    "opciones": [
+      "sus organismos autonomos",
+      "solo sus grupos políticos municipales",
+      "las comunidades de propietarios del municipio",
+      "los partidos concurrentes a elecciones locales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.2 · Presupuesto general",
+    "explicación": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los términos legales.",
+    "tema": 28
+  },
+  {
+    "id": "refine-28-02",
+    "pregunta": "En materia presupuestaria, el crédito extraordinario procede cuando:",
+    "opciones": [
+      "debe realizarse un gasto específico que no puede demorarse y no existe crédito para el",
+      "hay crédito insuficiente en una aplicación ya existente",
+      "se redistribuyen saldos sin alterar el presupuesto total",
+      "se prorroga automáticamente el presupuesto"
+    ],
+    "correcta": 0,
+    "referencia": "IV.2 · Modificaciones presupuestarias",
+    "explicación": "El crédito extraordinario crea crédito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente.",
+    "tema": 28
+  },
+  {
+    "id": "refine-28-03",
+    "pregunta": "En materia presupuestaria, el suplemento de crédito se utiliza cuando:",
+    "opciones": [
+      "el crédito existente resulta insuficiente y no puede demorarse el gasto",
+      "no existe ninguna aplicación presupuestaria previa",
+      "se pretende desafectar un bien patrimonial",
+      "se tramita una ordenanza fiscal"
+    ],
+    "correcta": 0,
+    "referencia": "IV.2 · Modificaciones presupuestarias",
+    "explicación": "El suplemento no crea una partida completamente nueva, sino que amplía una insuficiente.",
+    "tema": 28
+  },
+  {
+    "id": "refine-28-04",
+    "pregunta": "En materia presupuestaria, las transferencias de crédito se caracterizan porque:",
+    "opciones": [
+      "redistribuyen crédito entre aplicaciones sin aumentar el importe global del presupuesto",
+      "incrementan necesariamente el total de gasto aprobado",
+      "solo pueden aplicarse a ingresos patrimoniales",
+      "sustituyen siempre a los anticipos de tesorería"
+    ],
+    "correcta": 0,
+    "referencia": "IV.2 · Transferencias de crédito",
+    "explicación": "La transferencia mueve crédito entre partidas, pero no incrementa el volumen total del presupuesto.",
+    "tema": 28
+  },
+  {
+    "id": "refine-28-05",
+    "pregunta": "En materia presupuestaria, la incorporación de créditos permite, en los supuestos legalmente previstos:",
+    "opciones": [
+      "trasladar al nuevo presupuesto determinados remanentes del ejercicio anterior",
+      "anular definitivamente cualquier saldo pendiente",
+      "convertir todos los ingresos en operaciones financieras",
+      "evitar la aprobación del presupuesto anual"
+    ],
+    "correcta": 0,
+    "referencia": "IV.2 · Incorporaciones de crédito",
+    "explicación": "La incorporación permite arrastrar determinados créditos del ejercicio anterior cuando concurren los requisitos legales.",
+    "tema": 28
+  },
+  {
+    "id": "estado2026-extra-t28-01",
+    "tema": 28,
+    "pregunta": "El proyecto de Ley de Presupuestos Generales del Estado debe remitirse a las Cortes Generales:",
+    "opciones": [
+      "Antes del 1 de octubre del año anterior al que se refiera",
+      "Antes del 1 de enero del ejercicio presupuestario",
+      "Seis meses antes de expirar el presupuesto anterior",
+      "Cuando lo autorice el Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "explicación": "La regla estatal exige remisión a las Cortes antes del 1 de octubre del año anterior al que se refiera el presupuesto.",
+    "referencia": "Examen Estado 2026, Ley General Presupuestaria; Tema IV.2, ciclo presupuestario",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t28-02",
+    "tema": 28,
+    "pregunta": "Las incorporaciones de crédito que afecten al presupuesto del Estado se financian, según la LGP, mediante:",
+    "opciones": [
+      "Baja en el Fondo de Contingencia o baja en otros créditos de operaciones no financieras",
+      "Solo con remanente de tesorería",
+      "Únicamente con mayores ingresos",
+      "Con endeudamiento automático sin límite"
+    ],
+    "correcta": 0,
+    "explicación": "El examen de Estado 2026 recoge la financiación por baja en el Fondo de Contingencia o en otros créditos de operaciones no financieras.",
+    "referencia": "Examen Estado 2026, incorporaciones de crédito; Tema IV.2, modificaciones presupuestarias",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t28-03",
+    "tema": 28,
+    "pregunta": "Una generación de crédito se produce, en términos generales, cuando:",
+    "opciones": [
+      "Determinados ingresos no previstos o superiores a los inicialmente previstos permiten incrementar créditos",
+      "Se reduce siempre el presupuesto total",
+      "Se sustituye una obligación reconocida por un pago material",
+      "Se aprueba una ordenanza fiscal"
+    ],
+    "correcta": 0,
+    "explicación": "La generación de crédito incrementa créditos como consecuencia de determinados ingresos legalmente habilitantes.",
+    "referencia": "Examen Estado 2026, modificaciones presupuestarias; Tema IV.2",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

@@ -1,0 +1,390 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q25",
+    "tema": 14,
+    "pregunta": "El artículo 3.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, establece que las Administraciones Públicas sirven con objetividad los intereses generales y actúan de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquía, centralización, desconcentración y coordinación.",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación.",
+      "Eficacia, jerarquía, descentralización, desconcentración y cooperación."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 25",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q26",
+    "tema": 14,
+    "pregunta": "Según el artículo 9.3 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, las delegaciones de competencias y su revocación:",
+    "opciones": [
+      "Deberán publicarse en el tablón de anuncios del Ayuntamiento de la Administración delegante.",
+      "No precisan publicarse para ser válidos.",
+      "Deberán publicarse en el Boletín del Estado, en el de la Comunidad Autónoma o en el de la Provincia, según la Administración a que pertenezca el órgano delegante, y el ámbito territorial de competencia de éste."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 26",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q27",
+    "tema": 14,
+    "pregunta": "Contra el acuerdo de avocación, según la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público:",
+    "opciones": [
+      "Podrá interponerse recurso potestativo de reposición.",
+      "No cabrá recurso, ni podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento.",
+      "No cabrá recurso, aunque podrá impugnarse en el que, en su caso, se interponga contra la resolución del procedimiento."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 27",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q10",
+    "tema": 14,
+    "pregunta": "Conforme a la Ley 40/2015, para la válida constitución de un órgano colegiado, a efectos de celebración de sesiones, deliberaciones y toma de acuerdos, se requerira:",
+    "opciones": [
+      "La asistencia presencial o a distancia de la mayoría de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario",
+      "La asistencia presencial o a distancia de la mayoría de sus miembros, teniendo siempre cubiertos los puestos de presidente y secretario o de quienes les suplan",
+      "La asistencia, presencial o a distancia, del presidente y secretario o de quienes les suplan, y la mayoría de sus miembros",
+      "La asistencia, presencial o a distancia, del presidente y secretario o de quienes les suplan, y la de la mitad, al menos, de sus miembros"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 10",
+    "explicación": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q11",
+    "tema": 14,
+    "pregunta": "El artículo 3 de la Ley 40/2015 establece que las Administraciones Públicas deberán respetar en su actuación y relaciones los siguientes principios:",
+    "opciones": [
+      "Garantizar a los ciudadanos unos procedimientos administrativos eficaces, aunque sean complejos",
+      "Cooperación, colaboración y coordinación entre las Administraciones europeas",
+      "Participación, objetividad y transparencia de la actuación administrativa",
+      "Buena fe, confianza plena e incondicional y lealtad institucional"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 11",
+    "explicación": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q22",
+    "tema": 14,
+    "pregunta": "El artículo 2.1 de la Ley 40/2015 establece que la presente Ley se aplica al sector público que comprende:",
+    "opciones": [
+      "La Administración General del Estado, las Administraciones de las Comunidades Autónomas y las entidades que integran la Administración Local",
+      "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración Local y el sector público institucional",
+      "La Administración General del Estado, las Administraciones de las Comunidades Autónomas, las entidades que integran la Administración Local y las entidades de derecho privado vinculadas o dependientes de las Administraciones Públicas",
+      "Cualesquiera organismos públicos y entidades de derecho público vinculados o dependientes de las Administraciones Públicas"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 22",
+    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t14-p001",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, la LRJSP regula principalmente:",
+    "opciones": [
+      "Exclusivamente el procedimiento administrativo común y los recursos administrativos",
+      "Los principios de actuación del sector público, la organización administrativa y las relaciones interadministrativas",
+      "Solo la responsabilidad patrimonial derivada de actos legislativos",
+      "El régimen electoral general y la organización de las Cortes Generales"
+    ],
+    "correcta": 1,
+    "explicación": "La Ley 40/2015 se centra en los principios y organización del sector público y en las relaciones entre administraciones.",
+    "referencia": "Ley 40/2015 · objeto y estructura"
+  },
+  {
+    "id": "t14-p002",
+    "tema": 14,
+    "pregunta": "¿Qué título de la LRJSP regula los órganos de las Administraciones Públicas?",
+    "opciones": [
+      "Título I",
+      "Título II",
+      "Título III",
+      "Título V"
+    ],
+    "correcta": 1,
+    "explicación": "El tema atribuye a ese título la regulación de los órganos.",
+    "referencia": "II.5 · 1.1 Contexto y estructura"
+  },
+  {
+    "id": "t14-p003",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, un órgano administrativo es una unidad funcional dotada de:",
+    "opciones": [
+      "competencias propias atribuidas por el ordenamiento",
+      "personalidad jurídica propia",
+      "poder legislativo",
+      "jurisdicción propia"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define el órgano por la competencia propia atribuida por el ordenamiento.",
+    "referencia": "II.5 · 2.1 Concepto de órgano administrativo"
+  },
+  {
+    "id": "t14-p004",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, ¿mediante qué instrumento se crean ordinariamente los órganos de nivel superior o directivo?",
+    "opciones": [
+      "Orden Ministerial",
+      "Real Decreto del Consejo de Ministros",
+      "Ley orgánica",
+      "Acuerdo de la Junta de Portavoces"
+    ],
+    "correcta": 1,
+    "explicación": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos.",
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
+  },
+  {
+    "id": "t14-p005",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, los órganos colegiados requieren al menos la presencia de:",
+    "opciones": [
+      "Presidente y Secretario, más la mitad de sus miembros",
+      "dos tercios de sus miembros",
+      "solo el Presidente y el Secretario",
+      "todos sus miembros sin excepción"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija ese quórum para la constitución válida.",
+    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
+  },
+  {
+    "id": "t14-p006",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, salvo urgencia, ¿cuál es el plazo mínimo de convocatoria de los órganos colegiados?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "15 días hábiles"
+    ],
+    "correcta": 1,
+    "explicación": "El tema señala un mínimo de 48 horas salvo urgencia.",
+    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
+  },
+  {
+    "id": "t14-p007",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, la abstención de una autoridad o empleado público es:",
+    "opciones": [
+      "opcional",
+      "obligatoria cuando concurre una causa legal",
+      "solo aconsejable",
+      "decidida por el interesado"
+    ],
+    "correcta": 1,
+    "explicación": "El tema lo presenta como deber obligatorio.",
+    "referencia": "II.5 · 2.5 La abstención y la recusación"
+  },
+  {
+    "id": "t14-p008",
+    "tema": 14,
+    "pregunta": "¿Qué principio interadministrativo destaca como deber de respetar competencias ajenas?",
+    "opciones": [
+      "Lealtad institucional",
+      "Inviolabilidad",
+      "Suplencia",
+      "Nulidad radical"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo identifica como principio rector de las relaciones interadministrativas.",
+    "referencia": "II.5 · 3.1 Concepto y principios generales"
+  },
+  {
+    "id": "t14-p009",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, las conferencias sectoriales son órganos de:",
+    "opciones": [
+      "cooperación multilateral de composición sectorial",
+      "control jurisdiccional",
+      "dirección jerárquica entre Administraciones",
+      "recurso administrativo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA.",
+    "referencia": "II.5 · 3.2.2 Las Conferencias Sectoriales"
+  },
+  {
+    "id": "t14-p010",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, ¿qué duración máxima tienen los convenios de colaboración?",
+    "opciones": [
+      "2 años",
+      "3 años",
+      "4 años",
+      "10 años"
+    ],
+    "correcta": 2,
+    "explicación": "El tema señala una duración máxima de 4 años, prorrogable.",
+    "referencia": "II.5 · 3.2.4 Los convenios de colaboración"
+  },
+  {
+    "id": "t14-p011",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, un conflicto de competencia entre Estado y CC.AA. puede plantearse ante:",
+    "opciones": [
+      "el Tribunal Constitucional",
+      "el Tribunal Supremo en casación",
+      "el Consejo de Estado",
+      "el Congreso de los Diputados"
+    ],
+    "correcta": 0,
+    "explicación": "El tema remite a los conflictos de competencia ante el TC.",
+    "referencia": "II.5 · 3.4 Conflictos interadministrativos"
+  },
+  {
+    "id": "t14-p012",
+    "tema": 14,
+    "pregunta": "¿Qué artículo permite al Estado subrogarse en competencias de Entidades Locales cuando incumplen sus obligaciones?",
+    "opciones": [
+      "Art. 60 LBRL",
+      "Art. 155 CE",
+      "Art. 149.1 CE",
+      "Art. 103 CE"
+    ],
+    "correcta": 0,
+    "explicación": "El tema atribuye esa subrogación al art. 60 LBRL.",
+    "referencia": "II.5 · 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales"
+  },
+  {
+    "id": "t14-p013",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, la coordinación puede ser:",
+    "opciones": [
+      "solo interna",
+      "solo interadministrativa",
+      "interna e interadministrativa",
+      "exclusivamente judicial"
+    ],
+    "correcta": 2,
+    "explicación": "El tema distingue ambos planos.",
+    "referencia": "II.5 · 2.2.4 Coordinación"
+  },
+  {
+    "id": "t14-p014",
+    "tema": 14,
+    "pregunta": "¿Qué principio impide la duplicidad de órganos en la creación administrativa?",
+    "opciones": [
+      "Principio de no duplicidad",
+      "Principio de especialidad penal",
+      "Principio de autotutela",
+      "Principio de publicidad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo menciona expresamente al hablar de creación de órganos.",
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
+  },
+  {
+    "id": "t14-p015",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, los planes y programas conjuntos son:",
+    "opciones": [
+      "documentos de planificación aprobados conjuntamente para objetivos comunes",
+      "recursos jurisdiccionales",
+      "reglamentos orgánicos de las Cortes",
+      "instrumentos sancionadores"
+    ],
+    "correcta": 0,
+    "explicación": "El tema los define como documentos de planificación conjunta.",
+    "referencia": "II.5 · 3.2.5 Los Planes y Programas conjuntos"
+  },
+  {
+    "id": "topup-14-01",
+    "pregunta": "En el régimen jurídico del sector público, la avocación consiste en que:",
+    "opciones": [
+      "un órgano superior asume para si el conocimiento de un asunto atribuido a uno inferior",
+      "un órgano cede definitivamente su competencia normativa",
+      "el secretario sustituye al alcalde",
+      "el ciudadano delega su firma en la Administración"
+    ],
+    "correcta": 0,
+    "explicación": "La avocación permite al órgano superior atraer un asunto concreto por razones justificadas.",
+    "referencia": "II.5 · Tecnicas de alteración del ejercicio de competencias",
+    "tema": 14
+  },
+  {
+    "id": "topup-14-02",
+    "pregunta": "En el régimen jurídico del sector público, la delegación de firma supone:",
+    "opciones": [
+      "autorizar a otro órgano o titular para firmar actos sin alterar la competencia",
+      "trasladar la titularidad de la competencia a otra Administración",
+      "renunciar al ejercicio de toda potestad",
+      "encomendar la gestión material de un servicio a un particular"
+    ],
+    "correcta": 0,
+    "explicación": "La delegación de firma no cambia la titularidad competencial, solo la firma formal.",
+    "referencia": "II.5 · Delegación de firma",
+    "tema": 14
+  },
+  {
+    "id": "estado2026-extra-t14-01",
+    "tema": 14,
+    "pregunta": "En relación con los sistemas de identificación de las Administraciones Públicas, estas pueden identificarse mediante:",
+    "opciones": [
+      "Sello electrónico basado en certificado electrónico reconocido o cualificado",
+      "Firma manuscrita escaneada del titular del órgano",
+      "Clave concertada de un empleado público concreto",
+      "Certificado privado sin requisitos legales de firma electrónica"
+    ],
+    "correcta": 0,
+    "explicación": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos.",
+    "referencia": "Examen Estado 2026, art. 40 LRJSP; Tema II.5, funcionamiento electrónico y órganos",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t14-02",
+    "tema": 14,
+    "pregunta": "¿Cuál es la duración máxima ordinaria de los convenios administrativos, salvo previsión normativa superior?",
+    "opciones": [
+      "Cuatro años, prorrogables unánimemente por hasta cuatro años adicionales",
+      "Dos años, sin posibilidad de prórroga",
+      "Cinco años, prorrogables tácitamente",
+      "Duración indefinida si hay financiación pública"
+    ],
+    "correcta": 0,
+    "explicación": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales.",
+    "referencia": "Examen Estado 2026, convenios; Tema II.5, relaciones y convenios",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t14-03",
+    "tema": 14,
+    "pregunta": "En el régimen jurídico del sector público, ¿cuál de estas causas extingue un convenio administrativo?",
+    "opciones": [
+      "El cumplimiento de las actuaciones que constituyen su objeto",
+      "La mera voluntad unilateral de una Administración sin cobertura legal",
+      "La falta de publicación de una nota de prensa",
+      "La sustitución automática por un contrato menor"
+    ],
+    "correcta": 0,
+    "explicación": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga.",
+    "referencia": "Examen Estado 2026, convenios; Tema II.5, convenios administrativos",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

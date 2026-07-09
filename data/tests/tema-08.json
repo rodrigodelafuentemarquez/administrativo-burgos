@@ -1,0 +1,597 @@
+[
+  {
+    "id": "pdf-2025-burgos-q23",
+    "tema": 8,
+    "pregunta": "Según el artículo 14.1 del Tratado de la Unión Europea, las funciones legislativa y presupuestaria son ejercidas por:",
+    "opciones": [
+      "El Parlamento Europeo conjuntamente con el Consejo",
+      "El Parlamento Europeo",
+      "El Consejo",
+      "El Parlamento Europeo conjuntamente con el Consejo Europeo"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 23",
+    "explicación": "El Parlamento Europeo y el Consejo ejercen conjuntamente la función legislativa y presupuestaria.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q31",
+    "tema": 8,
+    "pregunta": "Conforme al artículo 288 del Tratado de Funcionamiento de la Unión Europea, el reglamento:",
+    "opciones": [
+      "Obligara al Estado miembro destinatario en cuanto al resultado que deba conseguirse, dejando a las autoridades nacionales la elección de la forma y los medios",
+      "Desarrolla las normas legislativas adoptadas por el Parlamento Europeo",
+      "Tiene alcance general, será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "Sera obligatorio en todos sus elementos y, cuando designe destinatarios, solo será obligatorio para estos"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 31",
+    "explicación": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-r01",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, los miembros del Comité de las Regiones:",
+    "opciones": [
+      "Seran elegidos por un período renovable de cinco años y no podrán ser miembros simultáneamente del Parlamento Europeo",
+      "Seran elegidos por un período renovable de seis años y no podrán ser miembros simultáneamente del Parlamento Europeo",
+      "Seran elegidos por un período no renovable de cinco años y no podrán ser miembros simultáneamente del Parlamento Europeo",
+      "Seran elegidos por un período renovable de seis años"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · reserva 1",
+    "explicación": "Los miembros del Comité de las Regiones tienen mandato renovable de cinco años y no pueden ser simultáneamente eurodiputados.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q13",
+    "tema": 8,
+    "pregunta": "¿Dónde tiene su sede el Parlamento Europeo?:",
+    "opciones": [
+      "En Estrasburgo.",
+      "En Madrid.",
+      "En Bruselas.",
+      "En Luxemburgo."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 13",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t41-p001",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, la creación de la CECA se produce por el Tratado de:",
+    "opciones": [
+      "París de 1951",
+      "Roma de 1957",
+      "Lisboa de 2009",
+      "Maastricht de 1993"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa la CECA en el Tratado de París de 1951.",
+    "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)"
+  },
+  {
+    "id": "t41-p002",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Tratado de Roma de 1957 creó:",
+    "opciones": [
+      "la CEE y EURATOM",
+      "la UE y la moneda única",
+      "el Consejo Europeo y el BCE",
+      "el Tribunal de Justicia y el Parlamento"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo dice expresamente.",
+    "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)"
+  },
+  {
+    "id": "t41-p003",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Tratado de Maastricht:",
+    "opciones": [
+      "crea la Unión Europea y la ciudadanía europea",
+      "suprime la CECA",
+      "crea el euro como moneda física en 1957",
+      "da lugar a la CEE"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo relaciona con la creación de la UE.",
+    "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos"
+  },
+  {
+    "id": "t41-p004",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el derecho de retirada de la Unión se introduce con el:",
+    "opciones": [
+      "Tratado de Lisboa",
+      "Tratado de Niza",
+      "Acta Única Europea",
+      "Tratado de París"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa ahí el art. 50 TUE.",
+    "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos"
+  },
+  {
+    "id": "t41-p005",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, España se incorporó a la CEE el:",
+    "opciones": [
+      "1 de enero de 1986",
+      "1 de mayo de 2004",
+      "31 de enero de 2020",
+      "1 de enero de 1957"
+    ],
+    "correcta": 0,
+    "explicación": "El tema da esa fecha concreta.",
+    "referencia": "I.8 · 1.4 Las ampliaciones"
+  },
+  {
+    "id": "t41-p006",
+    "tema": 8,
+    "pregunta": "Según el TUE, ¿en qué artículo se recogen los valores de la Unión?",
+    "opciones": [
+      "art. 2 TUE",
+      "art. 50 TUE",
+      "art. 263 TFUE",
+      "art. 18 CE"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo identifica con el art. 2 TUE.",
+    "referencia": "I.8 · 1.5 Valores y objetivos de la Unión"
+  },
+  {
+    "id": "t41-p007",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el marco institucional de la Unión incluye:",
+    "opciones": [
+      "siete instituciones",
+      "cinco ministerios",
+      "veintisiete direcciones generales locales",
+      "tres poderes clásicos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera siete instituciones en el art. 13 TUE.",
+    "referencia": "I.8 · 2. Las instituciones de la Unión Europea"
+  },
+  {
+    "id": "t41-p008",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Consejo Europeo reúne a:",
+    "opciones": [
+      "los Jefes de Estado o de Gobierno de los Estados miembros",
+      "los ministros de asuntos exteriores exclusivamente",
+      "los presidentes de parlamento nacionales",
+      "los jueces del TJUE"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define así.",
+    "referencia": "I.8 · 3.1 Composición y presidencia"
+  },
+  {
+    "id": "t41-p009",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Presidente del Consejo Europeo tiene un mandato de:",
+    "opciones": [
+      "dos años y medio, renovable una vez",
+      "cinco años, no renovable",
+      "un año, renovable indefinidamente",
+      "seis meses"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija ese mandato.",
+    "referencia": "I.8 · 3.1 Composición y presidencia"
+  },
+  {
+    "id": "t41-p010",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Consejo Europeo:",
+    "opciones": [
+      "no ejerce función legislativa",
+      "es el tribunal supremo de la UE",
+      "aprueba los presupuestos locales",
+      "gestiona el euro"
+    ],
+    "correcta": 0,
+    "explicación": "El tema destaca su carácter político y de orientación estratégica.",
+    "referencia": "I.8 · 3.2 Funciones"
+  },
+  {
+    "id": "t41-p011",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Consejo de la Unión Europea representa a:",
+    "opciones": [
+      "los Gobiernos de los Estados miembros",
+      "la ciudadanía europea en sufragio directo",
+      "los jueces de los Estados",
+      "las regiones y municipios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como institución de representación gubernamental.",
+    "referencia": "I.8 · 4.1 Composición"
+  },
+  {
+    "id": "t41-p012",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, la Comisión Europea está compuesta por:",
+    "opciones": [
+      "un comisario por Estado miembro",
+      "dos ministros por país",
+      "un diputado por provincia",
+      "un juez por Estado"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica un comisario por Estado miembro.",
+    "referencia": "I.8 · 6.1 Composición"
+  },
+  {
+    "id": "t41-p013",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, la Comisión tiene el monopolio de la:",
+    "opciones": [
+      "iniciativa legislativa",
+      "jurisdicción penal",
+      "aprobación de presupuestos locales",
+      "elección de alcaldes"
+    ],
+    "correcta": 0,
+    "explicación": "El tema subraya esa función.",
+    "referencia": "I.8 · 6.3 Funciones"
+  },
+  {
+    "id": "t41-p014",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el TJUE se compone de:",
+    "opciones": [
+      "Tribunal de Justicia, Tribunal General y tribunales especializados",
+      "Consejo, Comisión y Parlamento",
+      "BCE, Tribunal de Cuentas y CESE",
+      "solo del Tribunal de Justicia"
+    ],
+    "correcta": 0,
+    "explicación": "El tema desglosa así el TJUE.",
+    "referencia": "I.8 · 7.1 Composición y estructura"
+  },
+  {
+    "id": "t41-p015",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, la cuestión prejudicial permite que un órgano jurisdiccional nacional plantee dudas sobre:",
+    "opciones": [
+      "la interpretación o validez del Derecho de la UE",
+      "la contabilidad de una Administración local",
+      "la legalidad de una multa municipal",
+      "la selección de funcionarios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la presenta como mecanismo clave de uniformidad.",
+    "referencia": "I.8 · 7.2 Funciones y tipos de recursos"
+  },
+  {
+    "id": "t41-p016",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el objetivo principal del Banco Central Europeo es:",
+    "opciones": [
+      "mantener la estabilidad de precios",
+      "aprobar el presupuesto general de la Unión",
+      "resolver las cuestiones prejudiciales",
+      "ejercer el control político sobre la Comisión"
+    ],
+    "correcta": 0,
+    "explicación": "El BCE tiene como objetivo principal mantener la estabilidad de precios en la zona euro.",
+    "referencia": "I.8 · 8.1 El Banco Central Europeo (BCE)"
+  },
+  {
+    "id": "t41-p017",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Tribunal de Cuentas Europeo:",
+    "opciones": [
+      "no tiene funciones jurisdiccionales",
+      "puede anular reglamentos de la Unión",
+      "resuelve recursos prejudiciales",
+      "nombra a los comisarios europeos"
+    ],
+    "correcta": 0,
+    "explicación": "Es un órgano de auditoría externa y, a diferencia del español, no ejerce funciones jurisdiccionales.",
+    "referencia": "I.8 · 8.2 El Tribunal de Cuentas Europeo"
+  },
+  {
+    "id": "t41-p018",
+    "tema": 8,
+    "pregunta": "Según el art. 288 TFUE, el reglamento:",
+    "opciones": [
+      "Tendrá un alcance general, será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "Obligará al Estado miembro destinatario únicamente en cuanto al resultado que deba conseguirse",
+      "Carecerá de fuerza vinculante, como las recomendaciones y los dictámenes",
+      "Exigirá siempre una norma interna de transposición para desplegar efectos"
+    ],
+    "correcta": 0,
+    "explicación": "El reglamento de la Unión tiene alcance general, es obligatorio en todos sus elementos y resulta directamente aplicable en los Estados miembros.",
+    "referencia": "TFUE · art. 288"
+  },
+  {
+    "id": "t41-p019",
+    "tema": 8,
+    "pregunta": "Las recomendaciones y los dictámenes de la Unión Europea son actos:",
+    "opciones": [
+      "no vinculantes",
+      "directamente aplicables y de alcance general",
+      "obligatorios solo para los Estados miembros",
+      "reservados al Parlamento Europeo"
+    ],
+    "correcta": 0,
+    "explicación": "No crean obligaciones jurídicas, aunque pueden orientar la interpretación del Derecho nacional.",
+    "referencia": "I.8 · 9.2 Derecho derivado"
+  },
+  {
+    "id": "t41-p020",
+    "tema": 8,
+    "pregunta": "El principio de atribución implica que la Unión Europea:",
+    "opciones": [
+      "solo actúa dentro de las competencias que le atribuyen los Tratados",
+      "puede asumir cualquier competencia de los Estados miembros",
+      "tiene competencia general sobre todas las materias económicas",
+      "puede modificar unilateralmente los Tratados"
+    ],
+    "correcta": 0,
+    "explicación": "La Unión solo puede actuar en las materias y con el alcance que los Tratados le atribuyen.",
+    "referencia": "I.8 · 10.1 El principio de atribución"
+  },
+  {
+    "id": "t41-p021",
+    "tema": 8,
+    "pregunta": "Según el art. 16.4 del Tratado de la Unión Europea, la mayoría cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
+    "opciones": [
+      "El 50% de los Estados miembros que representen al menos el 50% de la población de la Unión",
+      "El 55% de los Estados miembros que representen al menos el 65% de la población de la Unión",
+      "Dos tercios de los Estados miembros, con independencia de la población",
+      "La unanimidad de los Estados miembros presentes y votantes"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge expresamente la regla del 55% de Estados y del 65% de la población.",
+    "referencia": "I.8 · Resumen esquemático para repasar"
+  },
+  {
+    "id": "t41-p022",
+    "tema": 8,
+    "pregunta": "Conforme al TFUE, si el Parlamento Europeo aprueba una moción de censura sobre la gestión de la Comisión Europea:",
+    "opciones": [
+      "Debe dimitir únicamente el Presidente de la Comisión",
+      "Debe dimitir la Comisión en pleno",
+      "Queda disuelto automáticamente el Consejo Europeo",
+      "Se convoca de forma obligatoria un referéndum europeo"
+    ],
+    "correcta": 1,
+    "explicación": "El tema indica que, si prospera la moción de censura, la Comisión en pleno debe dimitir.",
+    "referencia": "I.8 · 6.1 Composición y nombramiento"
+  },
+  {
+    "id": "t41-p023",
+    "tema": 8,
+    "pregunta": "Conforme al art. 13 TUE, ¿cuál de las siguientes entidades no forma parte del marco institucional de la Unión Europea?",
+    "opciones": [
+      "El Tribunal de Justicia de la Unión Europea",
+      "El Banco Central Europeo",
+      "El Consejo de Europa",
+      "El Tribunal de Cuentas"
+    ],
+    "correcta": 2,
+    "explicación": "El Consejo de Europa no es una institución de la UE; el art. 13 TUE enumera siete instituciones propias de la Unión.",
+    "referencia": "I.8 · 3.1 El marco institucional (art. 13 TUE)"
+  },
+  {
+    "id": "t41-p024",
+    "tema": 8,
+    "pregunta": "De acuerdo con el art. 2 TUE, la existencia de una violación grave y persistente de los valores de la Unión por un Estado miembro puede ser constatada por:",
+    "opciones": [
+      "El Parlamento Europeo por mayoría simple",
+      "La Comisión Europea por decisión colegiada",
+      "El Consejo Europeo",
+      "El Comité de las Regiones"
+    ],
+    "correcta": 2,
+    "explicación": "El tema atribuye expresamente al Consejo Europeo esa función en relación con los valores de la Unión.",
+    "referencia": "I.8 · 3.2 Funciones"
+  },
+  {
+    "id": "t41-p025",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, el Parlamento Europeo es la única institución de la Unión elegida directamente por sufragio universal cada:",
+    "opciones": [
+      "Cuatro años",
+      "Cinco años",
+      "Seis años",
+      "Siete años"
+    ],
+    "correcta": 1,
+    "explicación": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco años.",
+    "referencia": "I.8 · 5.1 Composición y elección"
+  },
+  {
+    "id": "t41-p026",
+    "tema": 8,
+    "pregunta": "En la Unión Europea, la Comisión Europea tiene el monopolio de la:",
+    "opciones": [
+      "Potestad jurisdiccional europea",
+      "Iniciativa legislativa",
+      "Aprobación definitiva del presupuesto sin intervención de otras instituciones",
+      "Reforma de los Tratados"
+    ],
+    "correcta": 1,
+    "explicación": "El tema destaca la posición singular de la Comisión por su monopolio de la iniciativa legislativa.",
+    "referencia": "I.8 · 6.3 Funciones"
+  },
+  {
+    "id": "t41-p027",
+    "tema": 8,
+    "pregunta": "De acuerdo con el art. 16 TUE, señale la respuesta correcta respecto del Consejo de la Unión Europea:",
+    "opciones": [
+      "Es el órgano ejecutivo de la Unión Europea",
+      "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria",
+      "Ejerce conjuntamente con la Comisión Europea la función legislativa y la función presupuestaria",
+      "Supervisa la aplicación del Derecho de la Unión bajo el control del TJUE"
+    ],
+    "correcta": 1,
+    "explicación": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",
+    "referencia": "I.8 · 4.3 Funciones"
+  },
+  {
+    "id": "burgos-i08-hard-01",
+    "tema": 8,
+    "pregunta": "¿Qué institución de la Unión Europea NO ejerce función legislativa ordinaria?",
+    "opciones": [
+      "Consejo Europeo",
+      "Parlamento Europeo",
+      "Consejo de la Unión Europea",
+      "Comisión Europea mediante iniciativa legislativa"
+    ],
+    "correcta": 0,
+    "explicación": "El Consejo Europeo define orientaciones y prioridades políticas generales, pero no ejerce función legislativa ordinaria.",
+    "referencia": "Tema I.8, Consejo Europeo"
+  },
+  {
+    "id": "burgos-i08-hard-02",
+    "tema": 8,
+    "pregunta": "¿Qué principio delimita que la Unión Europea solo actúe en competencias atribuidas por los Tratados?",
+    "opciones": [
+      "Principio de atribución",
+      "Principio de primogenitura",
+      "Principio de jerarquía administrativa",
+      "Principio de autonomía local"
+    ],
+    "correcta": 0,
+    "explicación": "La Unión solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados.",
+    "referencia": "Tema I.8, Principios de atribución, subsidiariedad y proporcionalidad"
+  },
+  {
+    "id": "burgos-i08-hard-03",
+    "tema": 8,
+    "pregunta": "¿Qué institución representa principalmente el interés general de la Unión?",
+    "opciones": [
+      "Comisión Europea",
+      "Consejo Europeo",
+      "Consejo de la Unión Europea",
+      "Parlamentos nacionales"
+    ],
+    "correcta": 0,
+    "explicación": "La Comisión Europea impulsa y vela por el interés general de la Unión.",
+    "referencia": "Tema I.8, Sistema institucional de la Unión"
+  },
+  {
+    "id": "burgos-i08-hard-04",
+    "tema": 8,
+    "pregunta": "¿Qué efecto tiene un reglamento de la Unión Europea según el esquema básico del Derecho de la Unión?",
+    "opciones": [
+      "Es obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
+      "Obliga solo en cuanto al resultado y necesita siempre ley nacional de transposición",
+      "Es una recomendación sin fuerza obligatoria",
+      "Solo vincula a la institución que lo dicta"
+    ],
+    "correcta": 0,
+    "explicación": "El reglamento es obligatorio en todos sus elementos y directamente aplicable; la directiva obliga en cuanto al resultado.",
+    "referencia": "Tema I.8, Derecho de la Unión Europea"
+  },
+  {
+    "id": "estado2026-i08-01",
+    "tema": 8,
+    "pregunta": "Según el art. 16 TUE, el Consejo de la Unión Europea:",
+    "opciones": [
+      "Ejerce conjuntamente con el Parlamento Europeo la función legislativa y la función presupuestaria",
+      "Supervisa la aplicación del Derecho de la Unión bajo el control del TJUE",
+      "Es el órgano ejecutivo de la Unión Europea",
+      "Ejerce la función legislativa junto con la Comisión Europea"
+    ],
+    "correcta": 0,
+    "explicación": "El Consejo ejerce con el Parlamento Europeo la función legislativa y presupuestaria.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 11; Tema I.8, Consejo de la Unión Europea",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-i08-02",
+    "tema": 8,
+    "pregunta": "Según el art. 3 TFUE, ¿en qué ámbito dispone la Unión Europea de competencia exclusiva?",
+    "opciones": [
+      "Unión aduanera",
+      "Sanidad pública general",
+      "Educación obligatoria",
+      "Organización municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 3 TFUE enumera la unión aduanera entre las competencias exclusivas de la Unión.",
+    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.8, competencias de la Unión Europea",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-i08-03",
+    "tema": 8,
+    "pregunta": "¿Qué institución vela por la aplicación del Derecho de la Unión bajo el control del Tribunal de Justicia?",
+    "opciones": [
+      "La Comisión Europea",
+      "El Consejo Europeo",
+      "El Consejo de la Unión Europea",
+      "El Comité de las Regiones"
+    ],
+    "correcta": 0,
+    "explicación": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
+    "referencia": "Tema I.8, Comisión Europea",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-i08-01",
+    "tema": 8,
+    "pregunta": "Conforme al art. 13 TUE, ¿cuál de las siguientes instituciones forma parte del marco institucional de la Unión Europea?",
+    "opciones": [
+      "El Comité Europeo de las Regiones",
+      "El Tribunal de Cuentas",
+      "El Banco Europeo de Inversiones",
+      "El Defensor del Pueblo Europeo"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 13 TUE",
+    "explicación": "El art. 13 TUE enumera, entre otras, el Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión, el TJUE, el BCE y el Tribunal de Cuentas."
+  },
+  {
+    "id": "realstyle-i08-02",
+    "tema": 8,
+    "pregunta": "De acuerdo con el art. 16.4 TUE, la mayoría cualificada del Consejo exige, como regla general:",
+    "opciones": [
+      "El 55 % de los miembros del Consejo que representen al menos el 65 % de la población de la Unión",
+      "La mayoría absoluta del Parlamento Europeo y unanimidad del Consejo Europeo",
+      "Dos tercios de los Estados miembros sin requisito de población",
+      "El 60 % de la población y la mayoría simple de Estados miembros"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · mayoría cualificada del Consejo",
+    "explicación": "La regla general combina doble mayoría: Estados miembros y población representada."
+  },
+  {
+    "id": "realstyle-i08-03",
+    "tema": 8,
+    "pregunta": "Si el Parlamento Europeo aprueba una moción de censura sobre la gestión de la Comisión Europea, conforme al TFUE:",
+    "opciones": [
+      "Solo cesa el Presidente de la Comisión, pero continúan los Comisarios",
+      "Los miembros de la Comisión deben dimitir colectivamente de sus cargos",
+      "El Consejo Europeo queda automáticamente disuelto",
+      "La moción solo produce efectos si la confirma el Tribunal de Justicia"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · control parlamentario de la Comisión",
+    "explicación": "La moción de censura aprobada obliga a la dimisión colectiva de la Comisión."
+  }
+]

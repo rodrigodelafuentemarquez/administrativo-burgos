@@ -1,0 +1,531 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q11",
+    "tema": 39,
+    "pregunta": "El conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa, conforme al artículo 70 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": [
+      "Es el registro administrativo.",
+      "Es el expediente administrativo.",
+      "Es el procedimiento administrativo."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 11",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q39",
+    "tema": 39,
+    "pregunta": "¿Según el artículo 28 de la Ley 39/2015, de 1 de octubre, del procedimiento administrativo común de las administraciones públicas?:",
+    "opciones": [
+      "Los interesados se responsabilizan de la veracidad de los documentos que presentan.",
+      "El empleado público es responsable de la veracidad de los documentos que aporten los interesados.",
+      "La responsabilidad de la veracidad de los datos es el emisor del documento y, subsidiariamente, del interesado que aporta el documento."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 39",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q40",
+    "tema": 39,
+    "pregunta": "¿Cuál de los siguientes es un documento particular dirigido a la Administración?:",
+    "opciones": [
+      "Solicitud.",
+      "Informe.",
+      "Certificación."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 40",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q43",
+    "tema": 39,
+    "pregunta": "En base al artículo 153 del Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales el número de orden de un documento se refiere a/al:",
+    "opciones": [
+      "Su fecha de despacho.",
+      "La entrada o salida del registro.",
+      "Día en que recae la resolución."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 43",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q48-doc",
+    "tema": 39,
+    "pregunta": "Según la Ley 40/2015, los documentos electrónicos que contengan actos administrativos que afecten a derechos o intereses de los particulares deberán conservarse en:",
+    "opciones": [
+      "El Archivo General de la Administración",
+      "Soportes de naturaleza electrónica",
+      "Cualquier formato o soporte que asegure la identidad e integridad de la información necesaria para reproducirlo",
+      "Siempre en formato papel"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 48",
+    "explicación": "Los documentos electrónicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electrónico.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t32-p001",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, un documento es:",
+    "opciones": [
+      "cualquier soporte material o digital que contiene información y puede ser leído, reproducido o percibido",
+      "solo un escrito en papel firmado",
+      "únicamente un archivo electrónico con firma",
+      "solo una resolución administrativa"
+    ],
+    "correcta": 0,
+    "explicación": "El tema da esa definición amplia.",
+    "referencia": "V.8 · 1.1 Concepto general de documento"
+  },
+  {
+    "id": "t32-p002",
+    "tema": 39,
+    "pregunta": "El documento administrativo es aquel que ha sido producido, recibido o gestionado por:",
+    "opciones": [
+      "una Administración Pública en el ejercicio de sus competencias",
+      "un particular sin intervención administrativa",
+      "un juzgado exclusivamente",
+      "una empresa privada sin relación pública"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo vincula a la actuación administrativa.",
+    "referencia": "V.8 · 1.2 El documento administrativo: concepto"
+  },
+  {
+    "id": "t32-p003",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, una carácterística del documento administrativo es la:",
+    "opciones": [
+      "autenticidad",
+      "aleatoriedad",
+      "imprecisión",
+      "opcionalidad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera la autenticidad entre sus notas.",
+    "referencia": "V.8 · 1.3 Carácterísticas del documento administrativo"
+  },
+  {
+    "id": "t32-p004",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, la copia auténtica:",
+    "opciones": [
+      "tiene la misma validez y eficacia que el documento original",
+      "solo sirve como recuerdo",
+      "carece de valor probatorio",
+      "no puede expedirse electrónicamente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la equipara al original.",
+    "referencia": "V.8 · 1.5 Copias de documentos"
+  },
+  {
+    "id": "t32-p005",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, un documento de decisión puede ser una:",
+    "opciones": [
+      "resolución",
+      "copia simple",
+      "diligencia",
+      "guía"
+    ],
+    "correcta": 0,
+    "explicación": "El tema clasifica la resolución como documento de decisión.",
+    "referencia": "V.8 · 2.1.1 Documentos de decisión"
+  },
+  {
+    "id": "t32-p006",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, un acta es un documento de:",
+    "opciones": [
+      "constancia",
+      "decisión",
+      "publicidad",
+      "notificación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la incluye entre los documentos de constancia.",
+    "referencia": "V.8 · 2.1.2 Documentos de constancia"
+  },
+  {
+    "id": "t32-p007",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, los archivos de gestión, custodian:",
+    "opciones": [
+      "expedientes en tramitación o recién terminados, de uso frecuente",
+      "solo documentos históricos",
+      "únicamente libros contables",
+      "solo expedientes sancionadores"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa ahí los expedientes activos o recientes.",
+    "referencia": "V.8 · 3.2.1 Archivo de oficina o de gestión"
+  },
+  {
+    "id": "t32-p008",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el archivo histórico conserva documentos:",
+    "opciones": [
+      "de valor histórico, artístico, cultural o científico de forma permanente",
+      "solo durante 5 años",
+      "sin valor probatorio alguno",
+      "exclusivamente tributarios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema le atribuye conservación permanente.",
+    "referencia": "V.8 · 3.2.3 Archivo histórico"
+  },
+  {
+    "id": "t32-p009",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el cuadro de clasificación es:",
+    "opciones": [
+      "La estructura jerárquica que organiza los documentos según funciones, actividades y series documentales",
+      "El inventario topográfico que localiza físicamente las cajas en el depósito",
+      "El índice nominal de personas o entidades citadas en un expediente",
+      "La relación cronológica de transferencias realizadas al archivo histórico"
+    ],
+    "correcta": 0,
+    "explicación": "El cuadro de clasificación ordena la documentación conforme a las funciones y series, y no se confunde con otros instrumentos descriptivos.",
+    "referencia": "Archivística · cuadro de clasificación"
+  },
+  {
+    "id": "t32-p010",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, la signatura topográfica, indica:",
+    "opciones": [
+      "la ubicación física exacta de un documento dentro del depósito de archivo",
+      "la fecha de nacimiento del interesado",
+      "la cuantía de una subvención",
+      "el código de una consulta"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la presenta como localización física.",
+    "referencia": "V.8 · 3.4 Clasificación, ordenación y signatura topográfica"
+  },
+  {
+    "id": "t32-p011",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, la eliminación de documentos requiere:",
+    "opciones": [
+      "un expediente de expurgo con autorización del órgano competente",
+      "la decisión unilateral del archivero",
+      "la firma del alcalde sin más",
+      "la consulta de la comisión de fiestas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema niega la eliminación unilateral.",
+    "referencia": "V.8 · 3.5 La evaluación y selección documental: eliminación y conservación"
+  },
+  {
+    "id": "t32-p012",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el art. 105.b CE garantiza el acceso a:",
+    "opciones": [
+      "archivos y registros administrativos",
+      "los secretos de Estado sin límite",
+      "los domicilios particulares",
+      "las cuentas bancarias privadas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema cita ese fundamento constitucional.",
+    "referencia": "V.8 · 4.1 Fundamento constitucional y legal"
+  },
+  {
+    "id": "t32-p013",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, la LPACAP reconoce a los interesados el derecho a:",
+    "opciones": [
+      "acceder y obtener copia de los documentos del expediente en cualquier fase del procedimiento",
+      "resolver el expediente por sí mismos",
+      "publicar el contenido en prensa",
+      "sustituir el órgano competente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema atribuye ese derecho en el procedimiento.",
+    "referencia": "V.8 · 4.1 Fundamento constitucional y legal"
+  },
+  {
+    "id": "t32-p014",
+    "tema": 39,
+    "pregunta": "La transparencia activa se diferencia de la pasiva porque la primera consiste en:",
+    "opciones": [
+      "publicidad de oficio y la segunda en acceso a petición",
+      "la primera es secreta y la segunda pública",
+      "ambas son idénticas",
+      "solo la primera es electrónica"
+    ],
+    "correcta": 0,
+    "explicación": "El tema diferencia ambas modalidades en el epígrafe de acceso.",
+    "referencia": "V.8 · 4.2 Modalidades de acceso"
+  },
+  {
+    "id": "t32-p015",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el Portal de Transparencia sirve para:",
+    "opciones": [
+      "centralizar la publicación y el acceso a la información pública",
+      "archivar expedientes históricos",
+      "firmar documentos electrónicos",
+      "emitir notificaciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como portal de acceso a la información.",
+    "referencia": "V.8 · 6.3 El Portal de Transparencia"
+  },
+  {
+    "id": "t33-p001",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el expediente administrativo es:",
+    "opciones": [
+      "el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa",
+      "un simple archivo de facturas",
+      "la lista de asistentes a una sesión",
+      "la notificación de un acto"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define de ese modo.",
+    "referencia": "V.8 · 1.1 Concepto de expediente administrativo"
+  },
+  {
+    "id": "t33-p002",
+    "tema": 39,
+    "pregunta": "Uno de los principios que rigen la formación del expediente es el de:",
+    "opciones": [
+      "unidad",
+      "aleatoriedad",
+      "publicidad",
+      "discrecionalidad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera unidad, ordenación, completitud, foliación y conservación.",
+    "referencia": "V.8 · 1.2 Principios que rigen la formación del expediente"
+  },
+  {
+    "id": "t33-p003",
+    "tema": 39,
+    "pregunta": "En documentos y expedientes administrativos, el índice del expediente cumple una función esencial de:",
+    "opciones": [
+      "integridad",
+      "sanción",
+      "delegación",
+      "subvención"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo vincula a la garantía de integridad.",
+    "referencia": "V.8 · 1.4 El índice del expediente"
+  },
+  {
+    "id": "t33-p004",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, los documentos oficiales son los producidos por:",
+    "opciones": [
+      "los órganos de las Administraciones Públicas en el ejercicio de sus funciones",
+      "cualquier ciudadano en cualquier trámite",
+      "solo los tribunales",
+      "únicamente empresas privadas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema los define por su origen administrativo.",
+    "referencia": "V.8 · 2. Los documentos oficiales"
+  },
+  {
+    "id": "t33-p005",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, la nota interior o memorándum es una comunicación:",
+    "opciones": [
+      "interna e informal",
+      "externa y solemne",
+      "judicial y sancionadora",
+      "tributaria y recaudatoria"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la describe como comunicación interna e informal.",
+    "referencia": "V.8 · 3.1 La nota interior o memorándum"
+  },
+  {
+    "id": "t33-p006",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, la diligencia es:",
+    "opciones": [
+      "la anotación que el funcionario tramitador incorpora al expediente para dejar constancia de una actuación concreta",
+      "una sentencia administrativa",
+      "un contrato menor",
+      "una resolución de Pleno"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como anotación en el expediente.",
+    "referencia": "V.8 · 3.2 La diligencia"
+  },
+  {
+    "id": "t33-p007",
+    "tema": 39,
+    "pregunta": "La solicitud o instancia es el documento mediante el cuál una persona se dirige a la Administración para:",
+    "opciones": [
+      "iniciar un procedimiento o pedir que se adopte una decisión en su favor",
+      "dictar un reglamento",
+      "convocar una sesión",
+      "autoliquidar un impuesto"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define así.",
+    "referencia": "V.8 · 4.1 Concepto y función"
+  },
+  {
+    "id": "t33-p008",
+    "tema": 39,
+    "pregunta": "Según el art. 66 LPACAP, la solicitud debe contener, entre otros,:",
+    "opciones": [
+      "hechos, razones y petición",
+      "solo la firma del interesado",
+      "únicamente el sello del órgano",
+      "la relación de vocales asistentes"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige esos elementos mínimos.",
+    "referencia": "V.8 · 4.2 Contenido mínimo (art. 66 LPACAP)"
+  },
+  {
+    "id": "t33-p009",
+    "tema": 39,
+    "pregunta": "Las Administraciones deben poner a disposición de los interesados:",
+    "opciones": [
+      "modelos normalizados para los procedimientos más frecuentes",
+      "solo hojas en blanco",
+      "únicamente formularios manuscritos",
+      "plantillas judiciales"
+    ],
+    "correcta": 0,
+    "explicación": "El tema habla de modelos normalizados.",
+    "referencia": "V.8 · 4.4 Modelos normalizados"
+  },
+  {
+    "id": "t33-p010",
+    "tema": 39,
+    "pregunta": "El oficio es el documento de comunicación formal que se utiliza para:",
+    "opciones": [
+      "las relaciones escritas entre órganos o unidades de distintas Administraciones Públicas",
+      "la contabilidad de tesorería",
+      "los registros de entrada",
+      "la emisión de certificaciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como comunicación formal interadministrativa o interna.",
+    "referencia": "V.8 · 5.1 Concepto y función"
+  },
+  {
+    "id": "t33-p011",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, una clase de oficio es el oficio de:",
+    "opciones": [
+      "traslado",
+      "compensación",
+      "suspensión",
+      "fiscalización"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera esa clase entre las principales.",
+    "referencia": "V.8 · 5.2 Clases de oficio"
+  },
+  {
+    "id": "t33-p012",
+    "tema": 39,
+    "pregunta": "El certificado es el documento oficial mediante el cuál un funcionario competente:",
+    "opciones": [
+      "da fe de la existencia o contenido de un hecho, acto, dato o situación",
+      "aprueba un presupuesto",
+      "convoca un pleno",
+      "impone una sanción"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como documento de fe pública.",
+    "referencia": "V.8 · 6.1 Concepto y función"
+  },
+  {
+    "id": "t33-p013",
+    "tema": 39,
+    "pregunta": "En las Entidades Locales, la función de fe pública corresponde al:",
+    "opciones": [
+      "Secretario de la Corporación",
+      "Alcalde",
+      "Interventor",
+      "Tesorero"
+    ],
+    "correcta": 0,
+    "explicación": "El tema asigna esa función al Secretario.",
+    "referencia": "V.8 · 6.3 El papel del Secretario en la certificación local"
+  },
+  {
+    "id": "t33-p014",
+    "tema": 39,
+    "pregunta": "La circular es el documento que transmite instrucciones o directrices a un conjunto de órganos:",
+    "opciones": [
+      "subordinados o dependientes de forma simultánea",
+      "de una sola persona sin relación administrativa",
+      "de un juzgado al Congreso",
+      "de un ciudadano a otro"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como comunicación general y simultánea.",
+    "referencia": "V.8 · 8.1 Concepto y función"
+  },
+  {
+    "id": "t33-p015",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el decreto en el ámbito local es:",
+    "opciones": [
+      "la resolución dictada por el órgano unipersonal competente",
+      "un acuerdo del Pleno",
+      "una simple nota interior",
+      "un informe técnico"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como resolución unipersonal.",
+    "referencia": "V.8 · 10.1 Concepto y función"
+  },
+  {
+    "id": "t34-p009",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el expediente electrónico debe contar con:",
+    "opciones": [
+      "un índice electrónico firmado por la Administración",
+      "un sello manual en cada hoja",
+      "un visto bueno del vecindario",
+      "una autorización judicial"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige ese índice firmado.",
+    "referencia": "V.8 · 5.3 El expediente electrónico"
+  },
+  {
+    "id": "t34-p015",
+    "tema": 39,
+    "pregunta": "En documentos, expedientes y archivos administrativos, el ENI establece:",
+    "opciones": [
+      "los requisitos técnicos de interoperabilidad para documentos y expedientes electrónicos",
+      "las normas tributarias locales",
+      "los límites de contratación menor",
+      "el tratamiento de datos de personal"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como marco técnico de interoperabilidad.",
+    "referencia": "V.8 · 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico"
+  }
+]

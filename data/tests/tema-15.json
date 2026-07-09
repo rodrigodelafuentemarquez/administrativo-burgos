@@ -1,0 +1,349 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q20",
+    "tema": 15,
+    "pregunta": "Según el artículo 34.1 de la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público, serán indemnizables las lesiones producidas al particular provenientes de daños:",
+    "opciones": [
+      "En todo caso, por el funcionamiento anormal de las Administraciones Públicas.",
+      "Por la actuación negligente de los funcionarios públicos.",
+      "Que no tenga el deber jurídico de soportar de acuerdo con la Ley."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 20",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q33",
+    "tema": 15,
+    "pregunta": "Señala la afirmación correcta de conformidad con la Ley 40/2015, de Régimen Jurídico del Sector Público, en materia de responsabilidad patrimonial de las Administraciones Públicas:",
+    "opciones": [
+      "Sólo el funcionamiento anormal de los servicios públicos puede dar lugar a responsabilidad de las Administraciones Públicas por los daños causados.",
+      "Los particulares tendrán derecho a ser indemnizados por las Administraciones Públicas en los casos de fuerza mayor o caso fortuito.",
+      "El daño alegado por el particular tiene que ser evaluable económicamente.",
+      "Sólo el funcionamiento normal de los servicios públicos puede dar lugar a responsabilidad de las Administraciones Públicas por los daños causados."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 33",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t18-p001",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, esta queda obligada a:",
+    "opciones": [
+      "indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos",
+      "sancionar a los ciudadanos",
+      "dictar reglamentos compensatorios",
+      "revocar automáticamente el acto dañoso"
+    ],
+    "correcta": 0,
+    "explicación": "El tema parte de esa definición general.",
+    "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p002",
+    "tema": 15,
+    "pregunta": "¿Qué fundamento constitucional ampara la responsabilidad patrimonial de la Administración?",
+    "opciones": [
+      "Art. 24.1 CE",
+      "Art. 106.2 CE",
+      "Art. 137 CE",
+      "Art. 149.1 CE"
+    ],
+    "correcta": 1,
+    "explicación": "El tema cita expresamente el art. 106.2 CE.",
+    "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p003",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, la responsabilidad patrimonial es:",
+    "opciones": [
+      "subjetiva y subsidiaria",
+      "objetiva y directa",
+      "penal y solidaria",
+      "discrecional y revisable"
+    ],
+    "correcta": 1,
+    "explicación": "El tema lo explica así de forma expresa.",
+    "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración"
+  },
+  {
+    "id": "t18-p004",
+    "tema": 15,
+    "pregunta": "Para que nazca la responsabilidad patrimonial, además de ser efectiva y evaluable económicamente, la lesión debe ser:",
+    "opciones": [
+      "Qué sea colectiva",
+      "Qué sea individualizada",
+      "Qué se haya publicado en el BOE",
+      "Qué tenga naturaleza penal"
+    ],
+    "correcta": 1,
+    "explicación": "El tema exige que el daño esté individualizado.",
+    "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada"
+  },
+  {
+    "id": "t18-p005",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, si existe un deber jurídico de soportar el daño:",
+    "opciones": [
+      "siempre hay indemnización",
+      "no hay responsabilidad",
+      "la responsabilidad pasa al funcionario",
+      "el daño se presume antijurídico"
+    ],
+    "correcta": 1,
+    "explicación": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo.",
+    "referencia": "II.6 · 2.2 Qué la lesión sea antijurídica"
+  },
+  {
+    "id": "t18-p006",
+    "tema": 15,
+    "pregunta": "¿Cuál es la única causa de exclusión expresamente prevista en el art. 106.2 CE?",
+    "opciones": [
+      "Caso fortuito",
+      "Fuerza mayor",
+      "Culpa leve del perjudicado",
+      "Riesgo del desarrollo"
+    ],
+    "correcta": 1,
+    "explicación": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión.",
+    "referencia": "II.6 · 2.4 Qué no concurra fuerza mayor"
+  },
+  {
+    "id": "t18-p007",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, los daños derivados de riesgos del desarrollo:",
+    "opciones": [
+      "siempre son indemnizables",
+      "no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes",
+      "solo se indemnizan si los aprueba el Senado",
+      "se convierten automáticamente en responsabilidad penal"
+    ],
+    "correcta": 1,
+    "explicación": "El tema los excluye en el art. 34.4 LRJSP.",
+    "referencia": "II.6 · 3.4 Riesgos del desarrollo"
+  },
+  {
+    "id": "t18-p008",
+    "tema": 15,
+    "pregunta": "Según el art. 67 LPACAP, ¿qué plazo general tiene el interesado para presentar la reclamación?",
+    "opciones": [
+      "6 meses",
+      "1 año",
+      "2 años",
+      "4 años"
+    ],
+    "correcta": 1,
+    "explicación": "El tema fija el plazo de 1 año y lo califica como prescripción.",
+    "referencia": "II.6 · 5.1 Iniciación (art. 67 LPACAP)"
+  },
+  {
+    "id": "t18-p009",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, el procedimiento de responsabilidad patrimonial debe resolverse en:",
+    "opciones": [
+      "3 meses",
+      "6 meses",
+      "9 meses",
+      "1 año"
+    ],
+    "correcta": 1,
+    "explicación": "El tema fija 6 meses.",
+    "referencia": "II.6 · 5.3 Resolución y plazo"
+  },
+  {
+    "id": "t18-p010",
+    "tema": 15,
+    "pregunta": "¿Qué dictamen es obligatorio cuando la reclamación supera 50.000 euros?",
+    "opciones": [
+      "Consejo de Estado u órgano consultivo equivalente",
+      "Tribunal Supremo",
+      "Defensor del Pueblo",
+      "Mesa de Contratación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo exige expresamente en la instrucción.",
+    "referencia": "II.6 · 5.2 Instrucción"
+  },
+  {
+    "id": "t18-p011",
+    "tema": 15,
+    "pregunta": "Según el art. 36 LRJSP, la acción de regreso permite a la Administración reclamar al funcionario si actuó con:",
+    "opciones": [
+      "dolo, culpa o negligencia grave",
+      "mera discrepancia técnica",
+      "una simple duda razonable",
+      "cualquier error material"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo condiciona a esa gravedad.",
+    "referencia": "II.6 · 7.2 La acción de regreso (art. 36 LRJSP)"
+  },
+  {
+    "id": "t18-p012",
+    "tema": 15,
+    "pregunta": "¿Cuál de los siguientes supuestos forma parte de la responsabilidad patrimonial del Estado legislador?",
+    "opciones": [
+      "Los daños causados exclusivamente por reglamentos declarados nulos, con exclusión de las leyes",
+      "Los daños derivados de leyes declaradas inconstitucionales y de leyes contrarias al Derecho de la Unión Europea en los términos legales",
+      "La responsabilidad nacida solo de actos contractuales dictados por órganos legislativos",
+      "Los perjuicios ocasionados exclusivamente por sentencias penales erróneas"
+    ],
+    "correcta": 1,
+    "explicación": "La responsabilidad patrimonial del Estado legislador se contempla, entre otros casos, respecto de leyes declaradas inconstitucionales o contrarias al Derecho de la Unión Europea.",
+    "referencia": "Ley 40/2015 · responsabilidad del Estado legislador"
+  },
+  {
+    "id": "t18-p013",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, la indemnización debe ser:",
+    "opciones": [
+      "inferior al daño para evitar enriquecimiento",
+      "íntegra, ni inferior ni superior al daño real",
+      "siempre simbólica",
+      "fijada libremente por el perjudicado"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge el principio de indemnidad.",
+    "referencia": "II.6 · 4.1 Principio de indemnidad"
+  },
+  {
+    "id": "t18-p014",
+    "tema": 15,
+    "pregunta": "¿Qué elemento del daño se exige para que nazca la responsabilidad patrimonial?",
+    "opciones": [
+      "Qué sea evaluable económicamente",
+      "Qué sea siempre moral",
+      "Qué sea aprobado por el Consejo de Estado",
+      "Qué sea imputable penalmente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige la evaluabilidad económica junto con la efectividad e individualización.",
+    "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada"
+  },
+  {
+    "id": "t18-p015",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, la responsabilidad patrimonial es compatible con:",
+    "opciones": [
+      "la responsabilidad penal y disciplinaria",
+      "la derogación de la ley",
+      "la suspensión automática del procedimiento administrativo",
+      "la nulidad del expediente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema señala esa compatibilidad expresamente.",
+    "referencia": "II.6 · 7.3 Responsabilidad penal / 7.4 Responsabilidad disciplinaria"
+  },
+  {
+    "id": "t18-p016",
+    "tema": 15,
+    "pregunta": "De acuerdo con el art. 32 LRJSP, para que nazca la responsabilidad patrimonial es necesario que la lesión sea:",
+    "opciones": [
+      "Efectiva, evaluable economicamente e individualizada",
+      "Solamente ilicita desde el punto de vista penal",
+      "Exclusivamente imputable a un funcionario concreto",
+      "Necesariamente producida por funcionamiento anormal del servicio"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige lesión efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal.",
+    "referencia": "II.6 · 2.1 Lesión efectiva, evaluable economicamente e individualizada"
+  },
+  {
+    "id": "t18-p017",
+    "tema": 15,
+    "pregunta": "En responsabilidad patrimonial de la Administración, cuando la indemnización reclamada sea igual o superior a 50.000 euros, durante la instrucción del procedimiento deberá recabarse dictamen de:",
+    "opciones": [
+      "La Intervención General del Estado",
+      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
+      "El Ministerio Fiscal",
+      "La Abogacia del Estado en todo caso"
+    ],
+    "correcta": 1,
+    "explicación": "El tema exige ese dictamen en las reclamaciones de cuantía igual o superior a 50.000 euros.",
+    "referencia": "II.6 · 5.2 Instrucción"
+  },
+  {
+    "id": "topup-15-01",
+    "pregunta": "La responsabilidad patrimonial de la Administración tiene carácter:",
+    "opciones": [
+      "objetivo y directo",
+      "penal y subsidiario",
+      "electoral y automático",
+      "graciable y eventual"
+    ],
+    "correcta": 0,
+    "explicación": "La responsabilidad patrimonial responde a daños antijuridicos causados por el funcionamiento de los servicios públicos.",
+    "referencia": "II.6 · Caracteres de la responsabilidad administrativa",
+    "tema": 15
+  },
+  {
+    "id": "topup-15-02",
+    "pregunta": "Para que exista responsabilidad patrimonial, el daño debe ser, entre otras notas:",
+    "opciones": [
+      "efectivo, evaluable economicamente e individualizado",
+      "solo moral y simbolico",
+      "siempre colectivo",
+      "puramente hipotetico"
+    ],
+    "correcta": 0,
+    "explicación": "La lesión indemnizable exige efectividad, evaluación económica e individualización.",
+    "referencia": "II.6 · Presupuestos de la responsabilidad",
+    "tema": 15
+  },
+  {
+    "id": "topup-15-03",
+    "pregunta": "La acción de regreso permite a la Administración reclamar al empleado público cuando haya actuado con:",
+    "opciones": [
+      "dolo, culpa o negligencia grave",
+      "simple error material inocuo",
+      "discrepancia política",
+      "mera opinion jurídica"
+    ],
+    "correcta": 0,
+    "explicación": "La acción de regreso exige una conducta especialmente grave del personal responsable.",
+    "referencia": "II.6 · Responsabilidad de autoridades y personal",
+    "tema": 15
+  },
+  {
+    "id": "estado2026-extra-t15-01",
+    "tema": 15,
+    "pregunta": "Cuando el Tribunal Constitucional declara funcionamiento anormal en la tramitación de recursos de amparo o cuestiones de inconstitucionalidad, ¿quién fija la indemnización que proceda?",
+    "opciones": [
+      "El Consejo de Ministros",
+      "El propio Tribunal Constitucional",
+      "El Consejo de Estado",
+      "El Ministerio Fiscal"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos.",
+    "referencia": "Examen Estado 2026, art. 32.8 LRJSP; Tema II.6, responsabilidad de la Administración",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t15-02",
+    "tema": 15,
+    "pregunta": "¿Qué rasgo diferencia la fuerza mayor del funcionamiento anormal del servicio a efectos de responsabilidad patrimonial?",
+    "opciones": [
+      "La fuerza mayor excluye la responsabilidad cuando rompe el nexo causal",
+      "La fuerza mayor agrava siempre la indemnización",
+      "La fuerza mayor solo opera en contratación pública",
+      "El funcionamiento anormal impide reclamar daños efectivos"
+    ],
+    "correcta": 0,
+    "explicación": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración.",
+    "referencia": "Tema II.6, presupuestos de la responsabilidad patrimonial",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

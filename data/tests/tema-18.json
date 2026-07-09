@@ -1,0 +1,282 @@
+[
+  {
+    "id": "t27-p001",
+    "tema": 18,
+    "pregunta": "El patrimonio de las Entidades Locales está constituido por:",
+    "opciones": [
+      "el conjunto de bienes, derechos y acciones que les pertenecen",
+      "solo los edificios administrativos",
+      "únicamente el presupuesto anual",
+      "los tributos recaudados"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define así el patrimonio local.",
+    "referencia": "II.9 · 1.1 El patrimonio de las Entidades Locales"
+  },
+  {
+    "id": "t27-p002",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, el inventario de bienes de las Entidades Locales es:",
+    "opciones": [
+      "obligatorio y debe mantenerse actualizado",
+      "facultativo y secreto",
+      "solo una relación de personal",
+      "un documento tributario"
+    ],
+    "correcta": 0,
+    "explicación": "El tema impone la obligación de formar y actualizar inventario.",
+    "referencia": "II.9 · 1.2 El Inventario de bienes"
+  },
+  {
+    "id": "t27-p003",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, los bienes de dominio público se caracterizan por ser:",
+    "opciones": [
+      "inalienables, inembargables e imprescriptibles",
+      "alienables y embargables por regla general",
+      "prescriptibles si pasan 10 años",
+      "solo usufructuarios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema resume esas tres notas esenciales.",
+    "referencia": "II.9 · 2.1 Bienes de dominio público"
+  },
+  {
+    "id": "t27-p004",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, los bienes comunales son aquellos cuyo aprovechamiento corresponde exclusivamente a:",
+    "opciones": [
+      "los vecinos del municipio",
+      "cualquier persona sin limitación",
+      "solo a los funcionarios",
+      "las empresas adjudicatarias"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reserva su aprovechamiento a los vecinos.",
+    "referencia": "II.9 · 2.1.3 Bienes comunales"
+  },
+  {
+    "id": "t27-p005",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, los bienes patrimoniales:",
+    "opciones": [
+      "no están afectados a uso o servicio público",
+      "siempre son inalienables",
+      "solo pueden ser usados por vecinos",
+      "son de uso común general"
+    ],
+    "correcta": 0,
+    "explicación": "El tema los define por su falta de afectación pública.",
+    "referencia": "II.9 · 2.2 Bienes patrimoniales"
+  },
+  {
+    "id": "t27-p006",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, la afectación es el acto por el que:",
+    "opciones": [
+      "un bien patrimonial pasa a ser de dominio público",
+      "un bien de dominio público se vende",
+      "un tributo se convierte en precio público",
+      "un contrato se formaliza"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la describe como cambio de patrimonial a demanial.",
+    "referencia": "II.9 · 2.4 Cambio de categoría: afectación y desafectación"
+  },
+  {
+    "id": "t27-p007",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, una Entidad Local puede adquirir bienes por:",
+    "opciones": [
+      "expropiación forzosa",
+      "solo compraventa",
+      "solo prescripción",
+      "solo herencia intestada"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera varios modos, entre ellos la expropiación.",
+    "referencia": "II.9 · 3.1 Modos de adquisición"
+  },
+  {
+    "id": "t27-p008",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, la adquisición de bienes inmuebles a título oneroso, requiere:",
+    "opciones": [
+      "tasación pericial previa y formalización en escritura pública",
+      "solo un acuerdo verbal",
+      "autorización judicial previa en todo caso",
+      "publicación en el BOE"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige tasación y escritura pública.",
+    "referencia": "II.9 · 3.2 Adquisición a título oneroso: procedimiento"
+  },
+  {
+    "id": "t27-p009",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, la recuperación de oficio de un bien de dominio público debe ejercitarse dentro del plazo de:",
+    "opciones": [
+      "un año desde el despojo",
+      "cinco años desde la ocupación",
+      "treinta días desde la pérdida",
+      "diez años desde la pérdida"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija el año como plazo para la recuperación posesoria.",
+    "referencia": "II.9 · 4.2.3 Recuperación de oficio (recuperación posesoria)"
+  },
+  {
+    "id": "t27-p010",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, el deslinde sirve para:",
+    "opciones": [
+      "fijar la línea divisoria entre bienes de dominio público y fincas colindantes",
+      "aprobar las cuentas anuales",
+      "determinar la nómina de personal",
+      "regular la jornada laboral"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define así esta potestad.",
+    "referencia": "II.9 · 4.2.2 Deslinde"
+  },
+  {
+    "id": "t27-p011",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, el uso común especial de un bien de dominio público requiere:",
+    "opciones": [
+      "licencia o autorización",
+      "siempre concesión por 99 años",
+      "subasta judicial",
+      "ningún título habilitante"
+    ],
+    "correcta": 0,
+    "explicación": "El tema diferencia el uso común especial del privativo.",
+    "referencia": "II.9 · 5.1 Aprovechamiento de los bienes de uso público"
+  },
+  {
+    "id": "t27-p012",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, el aprovechamiento de los bienes comunales puede hacerse en:",
+    "opciones": [
+      "explotación común, lotes o suertes, y adjudicación mediante precio",
+      "venta libre al mejor postor sin restricciones",
+      "arrendamiento mercantil ordinario",
+      "concesión administrativa a empresas privadas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera esos tres modos.",
+    "referencia": "II.9 · 5.2 Aprovechamiento de los bienes comunales"
+  },
+  {
+    "id": "t27-p013",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, la enajenación directa excepcional puede darse cuando:",
+    "opciones": [
+      "han quedado desiertas dos subastas sucesivas",
+      "lo solicita cualquier vecino",
+      "el bien sea demanial y no patrimonial",
+      "el precio se fija libremente sin límites"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo admite tras dos subastas desiertas, entre otros supuestos.",
+    "referencia": "II.9 · 6.3 Enajenación directa (sin subasta)"
+  },
+  {
+    "id": "t27-p014",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, la permuta es posible cuando la diferencia de valor no excede del:",
+    "opciones": [
+      "40 % del valor del bien de mayor valor",
+      "10 % del valor medio",
+      "75 % del valor del bien de menor valor",
+      "100 % del valor del bien de mayor valor"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija ese límite del 40 %.",
+    "referencia": "II.9 · 6.4 Permuta"
+  },
+  {
+    "id": "t27-p015",
+    "tema": 18,
+    "pregunta": "En los bienes de las entidades locales, la cesión gratuita de bienes patrimoniales puede hacerse a favor de:",
+    "opciones": [
+      "Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines de utilidad pública o interés social",
+      "Cualquier persona física empadronada en el municipio que lo solicite",
+      "Exclusivamente sociedades mercantiles con participación pública mayoritaria",
+      "Solo partidos políticos y organizaciones sindicales con representación institucional"
+    ],
+    "correcta": 0,
+    "explicación": "La cesión gratuita de bienes patrimoniales exige un destino de utilidad pública o interés social y un beneficiario legalmente idóneo.",
+    "referencia": "Bienes patrimoniales · cesión gratuita"
+  },
+  {
+    "id": "topup-18-04",
+    "pregunta": "En los bienes de las entidades locales, el inventario de bienes de la entidad local sirve para:",
+    "opciones": [
+      "identificar y controlar su patrimonio",
+      "aprobar sanciones urbanísticas",
+      "nombrar funcionarios interinos",
+      "tramitar recursos contenciosos"
+    ],
+    "correcta": 0,
+    "explicación": "El inventario es un instrumento básico de conocimiento y gestión patrimonial.",
+    "referencia": "II.9 · Inventario de bienes",
+    "tema": 18
+  },
+  {
+    "id": "topup-18-05",
+    "pregunta": "En los bienes de las entidades locales, los bienes de dominio público se caracterizan, entre otras notas, por ser:",
+    "opciones": [
+      "inalienables, imprescriptibles e inembargables",
+      "libremente permutables sin expediente",
+      "susceptibles de embargo ordinario",
+      "siempre cedibles a título oneroso"
+    ],
+    "correcta": 0,
+    "explicación": "Son las notas clasicas del dominio público local.",
+    "referencia": "II.9 · Bienes de dominio público",
+    "tema": 18
+  },
+  {
+    "id": "refine-18-01",
+    "pregunta": "Los bienes de dominio público local se caracterizan, entre otras notas, por ser:",
+    "opciones": [
+      "inalienables, inembargables e imprescriptibles",
+      "siempre arrendables sin limitaciones",
+      "susceptibles de embargo por cualquier deuda tributaria",
+      "libremente enajenables por decreto de alcaldia"
+    ],
+    "correcta": 0,
+    "referencia": "II.9 · Bienes de dominio público local",
+    "explicación": "El dominio público se protege mediante esas notas clasicas de indisponibilidad reforzada.",
+    "tema": 18
+  },
+  {
+    "id": "refine-18-02",
+    "pregunta": "En los bienes de las entidades locales, la afectación de un bien local significa:",
+    "opciones": [
+      "su destino a un uso general o a un servicio público",
+      "su venta forzosa en subasta",
+      "su incorporación al patrimonio sindical",
+      "su desinscripción del inventario municipal"
+    ],
+    "correcta": 0,
+    "referencia": "II.9 · Afectación y desafectación",
+    "explicación": "La afectación transforma el destino jurídico del bien hacia el dominio público o servicio público.",
+    "tema": 18
+  },
+  {
+    "id": "refine-18-03",
+    "pregunta": "Los bienes patrimoniales de las entidades locales son aquellos que:",
+    "opciones": [
+      "no están destinados directamente a uso público ni afectados a un servicio público",
+      "pertenecen siempre a los vecinos por turnos",
+      "gozan necesariamente del mismo régimen que el dominio público",
+      "solo pueden ser bienes muebles"
+    ],
+    "correcta": 0,
+    "referencia": "II.9 · Bienes patrimoniales",
+    "explicación": "Los bienes patrimoniales se definen por exclusión respecto del dominio público.",
+    "tema": 18
+  }
+]

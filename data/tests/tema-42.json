@@ -1,0 +1,479 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q48",
+    "tema": 42,
+    "pregunta": "Para enviar un mensaje, a través del correo electrónico, a varias direcciones utilizaremos como separador entre esas direcciones el signo:",
+    "opciones": [
+      "/ -barra invertida-.",
+      ". -punto-.",
+      "; -punto y coma-."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 48",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q16",
+    "tema": 42,
+    "pregunta": "Los archivos de texto que contienen información sobre la navegación y que se almacenan en el disco duro se llaman:",
+    "opciones": [
+      "Download.",
+      "Pop- up.",
+      "Spam.",
+      "Cookies."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 16",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q20",
+    "tema": 42,
+    "pregunta": "Señale cuál de las siguientes opciones es la más eficaz para evitar automáticamente el SPAM o correo basura:",
+    "opciones": [
+      "Vaciar la carpeta de mensajes eliminados o papelera.",
+      "Utilizar un filtro.",
+      "Emplear la libreta de direcciones.",
+      "Utilizar un borrador."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 20",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t39-p012",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, Outlook 365 es:",
+    "opciones": [
+      "el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365",
+      "una hoja de cálculo",
+      "un sistema de archivos",
+      "un gestor de bases de datos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta así.",
+    "referencia": "V.11 · 8.1 Qué es Outlook 365"
+  },
+  {
+    "id": "t39-p013",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, la Bandeja de entrada contiene:",
+    "opciones": [
+      "mensajes recibidos",
+      "mensajes eliminados",
+      "borradores",
+      "archivos exportados"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como carpeta de mensajes recibidos.",
+    "referencia": "V.11 · 8.3 Las carpetas de correo"
+  },
+  {
+    "id": "t39-p014",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, la CCO sirve para:",
+    "opciones": [
+      "enviar copias ocultas, protegiendo la privacidad de las direcciones de los destinatarios",
+      "anunciar el asunto del correo a todos",
+      "cifrar automáticamente todos los adjuntos",
+      "borrar el mensaje original"
+    ],
+    "correcta": 0,
+    "explicación": "El tema destaca su utilidad en la Administración.",
+    "referencia": "V.11 · 9.2 Importancia de la CCO en la Administración"
+  },
+  {
+    "id": "t39-p015",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, una regla de mensaje en Outlook es:",
+    "opciones": [
+      "una instrucción automática aplicada a mensajes entrantes o salientes cuando se cumplen ciertas condiciones",
+      "una carpeta de correo",
+      "un tipo de firma electrónica",
+      "un formato de archivo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como automatización de correo.",
+    "referencia": "V.11 · 10.1 Concepto"
+  },
+  {
+    "id": "t40-p001",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, Internet tiene su origen en:",
+    "opciones": [
+      "ARPANET",
+      "DNS",
+      "HTTP",
+      "Wi-Fi"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa el origen en ARPANET.",
+    "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)"
+  },
+  {
+    "id": "t40-p002",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, la primera conexión de ARPANET se estableció el:",
+    "opciones": [
+      "29 de octubre de 1969",
+      "1 de enero de 1991",
+      "15 de mayo de 1983",
+      "4 de julio de 2007"
+    ],
+    "correcta": 0,
+    "explicación": "El tema da esa fecha concreta.",
+    "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)"
+  },
+  {
+    "id": "t40-p003",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, TCP/IP se adoptó como estándar de ARPANET en:",
+    "opciones": [
+      "1983",
+      "1969",
+      "1991",
+      "2004"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija 1983.",
+    "referencia": "V.11 · 1.2 Los protocolos TCP/IP (1974-1983)"
+  },
+  {
+    "id": "t40-p004",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, la World Wide Web fue ideada por:",
+    "opciones": [
+      "Tim Berners-Lee",
+      "Vinton Cerf",
+      "Robert Kahn",
+      "Mosaic"
+    ],
+    "correcta": 0,
+    "explicación": "El tema atribuye la WWW a Berners-Lee.",
+    "referencia": "V.11 · 1.3 La World Wide Web y la expansión civil (1991)"
+  },
+  {
+    "id": "t40-p005",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, el protocolo que define cómo se comunican navegador y servidor es:",
+    "opciones": [
+      "HTTP",
+      "FTP",
+      "SMTP",
+      "UDP"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo identifica como protocolo de hipertexto.",
+    "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS"
+  },
+  {
+    "id": "t40-p006",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, DNS traduce:",
+    "opciones": [
+      "nombres de dominio en direcciones IP",
+      "ficheros en carpetas",
+      "códigos en tablas",
+      "correos en contactos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como sistema de nombres de dominio.",
+    "referencia": "V.11 · 2.3 El Sistema de Nombres de Dominio (DNS)"
+  },
+  {
+    "id": "t40-p007",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, IPv4 es una dirección de:",
+    "opciones": [
+      "32 bits",
+      "128 bits",
+      "16 bits",
+      "64 bits"
+    ],
+    "correcta": 0,
+    "explicación": "El tema precisa esa longitud.",
+    "referencia": "V.11 · 2.2 El protocolo TCP/IP"
+  },
+  {
+    "id": "t40-p008",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, HTTPS añade a HTTP:",
+    "opciones": [
+      "cifrado SSL/TLS",
+      "una hoja de cálculo",
+      "un archivo adjunto",
+      "un formato de compresión"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como versión segura con cifrado.",
+    "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS"
+  },
+  {
+    "id": "t40-p009",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, IMAP permite:",
+    "opciones": [
+      "Acceder a los mensajes manteniéndolos en el servidor y sincronizando carpetas y estados entre varios dispositivos",
+      "Descargar normalmente los mensajes al equipo local y eliminarlos del servidor una vez recibidos",
+      "Enviar mensajes salientes sin necesidad de un protocolo complementario",
+      "Firmar electrónicamente correos y documentos desde el cliente de correo"
+    ],
+    "correcta": 0,
+    "explicación": "IMAP mantiene los mensajes en el servidor y sincroniza el estado del buzón entre distintos dispositivos.",
+    "referencia": "Correo electrónico · IMAP"
+  },
+  {
+    "id": "t40-p010",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, una VPN es:",
+    "opciones": [
+      "una conexión cifrada que crea un túnel seguro a través de internet",
+      "un tipo de navegador",
+      "una dirección de correo",
+      "un protocolo de impresión"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como red privada virtual.",
+    "referencia": "V.11 · 2.5.3 VPN"
+  },
+  {
+    "id": "t40-p011",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, una URL es:",
+    "opciones": [
+      "la dirección completa que identifica un recurso en internet",
+      "un archivo comprimido",
+      "un protocolo de correo",
+      "una cookie persistente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define así.",
+    "referencia": "V.11 · 2.5.5 La dirección URL"
+  },
+  {
+    "id": "t40-p012",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, SaaS significa:",
+    "opciones": [
+      "software accesible desde el navegador sin instalación local",
+      "infraestructura física virtualizada",
+      "plataforma para desarrollar aplicaciones",
+      "sistema de archivos seguro"
+    ],
+    "correcta": 0,
+    "explicación": "El tema presenta SaaS como software en la nube.",
+    "referencia": "V.11 · 2.6 La Nube (Cloud Computing)"
+  },
+  {
+    "id": "t40-p013",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, un navegador web es el programa que permite:",
+    "opciones": [
+      "acceder, visualizar e interactuar con los recursos de la World Wide Web",
+      "crear bases de datos",
+      "firmar electrónicamente documentos",
+      "compilar código fuente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define así.",
+    "referencia": "V.11 · 3.1 Qué es un navegador web"
+  },
+  {
+    "id": "t40-p014",
+    "tema": 42,
+    "pregunta": "En los navegadores actuales la barra de favoritos sirve para:",
+    "opciones": [
+      "guardar URLs para acceder rápidamente en el futuro",
+      "eliminar cookies automáticamente",
+      "cifrar el tráfico",
+      "crear cuentas de correo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo incluye entre las funciones básicas.",
+    "referencia": "V.11 · 3.4.3 Favoritos / Marcadores"
+  },
+  {
+    "id": "t40-p015",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, la navegación privada:",
+    "opciones": [
+      "no guarda historial ni cookies al cerrar la ventana, aunque no hace anónimo al usuario",
+      "borra todos los archivos del equipo",
+      "impide abrir pestañas",
+      "convierte el navegador en un antivirus"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo explica así y advierte que no da anonimato total.",
+    "referencia": "V.11 · 3.5.2 Navegación privada / InPrivate / Incógnito"
+  },
+  {
+    "id": "t40-p016",
+    "tema": 42,
+    "pregunta": "En relación con los protocolos de correo electrónico, señale la respuesta correcta:",
+    "opciones": [
+      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
+      "POP3 es el protocolo para el envío de correos con sincronización entre dispositivos.",
+      "IMAP descarga los mensajes del servidor y los elimina por defecto.",
+      "HTTPS es el protocolo habitual para remitir correo entre servidores."
+    ],
+    "correcta": 0,
+    "explicación": "El tema distingue SMTP como protocolo de envío, POP3 como descarga e IMAP como acceso sincronizado.",
+    "referencia": "V.11 · 2.5.1 Correo electrónico"
+  },
+  {
+    "id": "estado2026-extra-t42-01",
+    "tema": 42,
+    "pregunta": "Respecto al correo electrónico, ¿qué afirmación es correcta?",
+    "opciones": [
+      "No se envían mensajes entre dos equipos sin intervención de un servidor de correo",
+      "Una dirección de correo no utiliza arroba",
+      "No requiere protocolos de comunicación",
+      "Siempre se envía directamente entre terminales sin servidores"
+    ],
+    "correcta": 0,
+    "explicación": "El correo electrónico ordinario funciona mediante servidores y protocolos de comunicación.",
+    "referencia": "Examen Estado 2026, correo electrónico; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t42-02",
+    "tema": 42,
+    "pregunta": "En Outlook 365 clásico, el permiso que permite crear nuevos elementos en una carpeta sin leer ni editar los existentes es:",
+    "opciones": [
+      "Colaborador",
+      "Revisor",
+      "Editor",
+      "Autor de publicación"
+    ],
+    "correcta": 0,
+    "explicación": "El nivel Colaborador permite crear elementos, pero no leer ni editar los ya existentes.",
+    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t42-03",
+    "tema": 42,
+    "pregunta": "En Outlook, la búsqueda cc:\"Ana Muñoz\" devuelve:",
+    "opciones": [
+      "Mensajes en los que el nombre Ana Muñoz aparece en la línea CC",
+      "Mensajes enviados por Ana Muñoz",
+      "Mensajes donde Ana Muñoz está en CCO",
+      "Solo mensajes con archivo adjunto de Ana Muñoz"
+    ],
+    "correcta": 0,
+    "explicación": "El operador cc: busca en la línea de copia de los mensajes.",
+    "referencia": "Examen Estado 2026, Outlook 365; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t42-04",
+    "tema": 42,
+    "pregunta": "Al crear un grupo público en Outlook 365:",
+    "opciones": [
+      "Se genera una dirección de correo del grupo a la que cualquiera puede enviar mensajes que se distribuyen a sus integrantes",
+      "No se genera dirección de correo",
+      "Solo puede escribir el creador del grupo",
+      "Los mensajes se eliminan al distribuirse"
+    ],
+    "correcta": 0,
+    "explicación": "Los grupos de Outlook pueden tener dirección propia; si el grupo es público, cualquiera puede enviar mensajes al grupo.",
+    "referencia": "Examen Estado 2026, grupos de Outlook; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t42-05",
+    "tema": 42,
+    "pregunta": "¿Puede anclarse un sitio web al menú Inicio desde Microsoft Edge en Windows 11?",
+    "opciones": [
+      "Sí, desde Configuración y más, Más herramientas, Anclar a Inicio",
+      "No, solo se pueden anclar aplicaciones instaladas",
+      "Solo si se descarga como PDF",
+      "Solo desde Internet Explorer"
+    ],
+    "correcta": 0,
+    "explicación": "Microsoft Edge permite anclar sitios al Inicio mediante el menú de Más herramientas.",
+    "referencia": "Examen Estado 2026, navegadores; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t42-06",
+    "tema": 42,
+    "pregunta": "¿Qué término describe el envío masivo de comunicaciones no solicitadas?",
+    "opciones": [
+      "Spamming",
+      "Streaming",
+      "Dumping",
+      "Phishing inverso"
+    ],
+    "correcta": 0,
+    "explicación": "Spamming es el envío masivo de comunicaciones no solicitadas por correo u otros medios.",
+    "referencia": "Examen Estado 2026, Internet y correo; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t42-07",
+    "tema": 42,
+    "pregunta": "En Internet y correo electrónico, una estación de trabajo virtual separada del dispositivo físico desde el que se accede es un:",
+    "opciones": [
+      "Escritorio virtual",
+      "Servicio web",
+      "Sistema de detección de intrusos",
+      "Marcador del navegador"
+    ],
+    "correcta": 0,
+    "explicación": "Un escritorio virtual permite trabajar sobre una estación lógica separada del dispositivo físico de acceso.",
+    "referencia": "Examen Estado 2026, Internet y servicios; Tema V.11",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-v11-01",
+    "tema": 42,
+    "pregunta": "En Outlook 365, la búsqueda cc:\"Ana Muñoz\" localiza:",
+    "opciones": [
+      "Mensajes en los que Ana Muñoz aparece en la línea CC",
+      "Mensajes enviados necesariamente por Ana Muñoz",
+      "Mensajes donde Ana Muñoz aparece en CCO",
+      "Solo contactos guardados con ese nombre"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · búsqueda en Outlook",
+    "explicación": "La sintaxis cc: filtra por destinatarios incluidos en copia."
+  },
+  {
+    "id": "realstyle-v11-02",
+    "tema": 42,
+    "pregunta": "Respecto al correo electrónico, ¿qué afirmación se ajusta mejor a su funcionamiento general?",
+    "opciones": [
+      "Intervienen servidores de correo y protocolos de comunicación, no una conexión directa simple entre dos terminales",
+      "Siempre se envía directamente de un ordenador a otro sin servidores",
+      "No utiliza direcciones con dominio",
+      "Solo puede funcionar dentro de una red local cerrada"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · conceptos elementales de correo",
+    "explicación": "El correo electrónico se apoya en servidores y protocolos como SMTP, POP o IMAP."
+  }
+]

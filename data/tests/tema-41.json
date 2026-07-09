@@ -1,0 +1,524 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q45",
+    "tema": 41,
+    "pregunta": "¿Qué combinación de teclas te permite seleccionar todo el texto escrito en un documento Word?:",
+    "opciones": [
+      "Ctrl + T",
+      "Ctrl + E",
+      "Ctrl +S"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 45",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q46",
+    "tema": 41,
+    "pregunta": "¿Cómo se pueden controlar los tipos de cambios que otros usuarios pueden hacer en un documento Word?:",
+    "opciones": [
+      "Restringir edición.",
+      "Bloquear edición.",
+      "Proteger edición."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 46",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q49",
+    "tema": 41,
+    "pregunta": "Qué función y rango utilizarías para obtener la media aritmética de la fila 1 y de las cinco primeras columnas de una Tabla:",
+    "opciones": [
+      "=PROMEDIO (A1:E1).",
+      "=MEDIA (A1:E1).",
+      "=PROMEDIO (A1:E5)."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 49",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q50",
+    "tema": 41,
+    "pregunta": "¿Cómo se llama el archivo en el que se almacenen las hojas de cálculo?:",
+    "opciones": [
+      "Disco duro.",
+      "Bloc de notas.",
+      "Libro de trabajo."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 50",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q17",
+    "tema": 41,
+    "pregunta": "La presentación predeterminada de un documento Word es:",
+    "opciones": [
+      "Presentación preliminar.",
+      "Presentación diseño de página.",
+      "Presentación diseño de impresión.",
+      "Presentación pantalla completa."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 17",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q18",
+    "tema": 41,
+    "pregunta": "En Excel, ¿En qué consiste la opción de “Transponer” un rango?",
+    "opciones": [
+      "Llevarlo a otra hoja vacía.",
+      "Cambiar filas por columnas o viceversa.",
+      "Cambiarlo de lugar.",
+      "Ninguna de las anteriores."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 18",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t38-p001",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, Word 365 es:",
+    "opciones": [
+      "un procesador de texto",
+      "una base de datos relacional",
+      "un navegador web",
+      "un sistema operativo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define así.",
+    "referencia": "V.10 · 1.1 Qué es Word 365"
+  },
+  {
+    "id": "t38-p002",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, en la interfaz de Word aparece la:",
+    "opciones": [
+      "cinta de opciones (Ribbon)",
+      "barra de direcciones",
+      "lista global de direcciones",
+      "pila de protocolos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera la cinta de opciones como elemento principal.",
+    "referencia": "V.10 · 1.2 La interfaz de Word 365"
+  },
+  {
+    "id": "t38-p003",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, un estilo de Word es:",
+    "opciones": [
+      "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
+      "una tabla dinámica",
+      "un archivo .accdb",
+      "un protocolo de internet"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define así los estilos.",
+    "referencia": "V.10 · 2.4 Estilos"
+  },
+  {
+    "id": "t38-p004",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, la tabla de contenido se genera automáticamente a partir de:",
+    "opciones": [
+      "los estilos de Título aplicados al documento",
+      "las notas al pie",
+      "la fecha de creación",
+      "los comentarios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo indica expresamente.",
+    "referencia": "V.10 · 2.10 Tabla de contenido"
+  },
+  {
+    "id": "t38-p005",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, el seguimiento de cambios sirve para:",
+    "opciones": [
+      "registrar todas las modificaciones del documento",
+      "eliminar automáticamente errores",
+      "cambiar el idioma",
+      "comprimir archivos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como herramienta de revisión colaborativa.",
+    "referencia": "V.10 · 2.13 Seguimiento de cambios y comentarios"
+  },
+  {
+    "id": "t38-p006",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, combinar correspondencia permite generar:",
+    "opciones": [
+      "Documentos personalizados en serie a partir de un documento principal y una fuente de datos",
+      "Gráficos dinámicos vinculados a una hoja de cálculo externa",
+      "Fórmulas y funciones automáticas sobre rangos de Excel",
+      "Bases de datos relacionales con integridad referencial"
+    ],
+    "correcta": 0,
+    "explicación": "La combinación de correspondencia sirve para producir documentos personalizados en serie usando un documento base y una fuente de datos.",
+    "referencia": "Word 365 · combinar correspondencia"
+  },
+  {
+    "id": "t38-p007",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, un formato de guardado de Word es:",
+    "opciones": [
+      ".docx",
+      ".mdb",
+      ".pptx",
+      ".html solo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera .docx entre los formatos principales.",
+    "referencia": "V.10 · 3.1 Guardar documentos"
+  },
+  {
+    "id": "t38-p008",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, la impresión de documentos se gestiona desde:",
+    "opciones": [
+      "Archivo → Imprimir",
+      "Insertar → Tabla",
+      "Revisar → Idioma",
+      "Vista → Zoom"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa ahí la impresión.",
+    "referencia": "V.10 · 3.3 Impresión de documentos"
+  },
+  {
+    "id": "t38-p009",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, las opciones de Word se encuentran en:",
+    "opciones": [
+      "Archivo → Opciones",
+      "Inicio → Nuevo",
+      "Vista → Reglas",
+      "Referencias → Citas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema ubica la personalización en Archivo → Opciones.",
+    "referencia": "V.10 · 4.1 Opciones de Word"
+  },
+  {
+    "id": "t38-p010",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, Excel 365 es una aplicación de:",
+    "opciones": [
+      "una hoja de cálculo",
+      "un procesador de texto",
+      "un cliente de correo",
+      "un sistema operativo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como hoja de cálculo.",
+    "referencia": "V.10 · 5.1 Qué es Excel 365"
+  },
+  {
+    "id": "t38-p011",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, el libro de Excel está compuesto por:",
+    "opciones": [
+      "hojas de cálculo",
+      "párrafos",
+      "nodos",
+      "mensajes"
+    ],
+    "correcta": 0,
+    "explicación": "El tema distingue el libro y sus hojas.",
+    "referencia": "V.10 · 6.1 El libro de Excel / 6.2 Las hojas de cálculo"
+  },
+  {
+    "id": "t38-p012",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, una referencia relativa en Excel:",
+    "opciones": [
+      "se ajusta al copiar una fórmula",
+      "permanece fija siempre",
+      "solo existe en Word",
+      "no puede usarse en fórmulas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema trata las referencias a celdas en las fórmulas.",
+    "referencia": "V.10 · 9.2 Referencias a celdas"
+  },
+  {
+    "id": "t38-p013",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, una función principal de Excel es:",
+    "opciones": [
+      "SUMA",
+      "CERTIFICADO",
+      "NOTIFICACIÓN",
+      "CIRCULAR"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye funciones principales en el apartado de fórmulas y funciones.",
+    "referencia": "V.10 · 9.3 Funciones principales"
+  },
+  {
+    "id": "t38-p014",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, los gráficos en Excel sirven para:",
+    "opciones": [
+      "representar visualmente datos",
+      "firmar documentos",
+      "organizar el correo",
+      "crear macros de Word"
+    ],
+    "correcta": 0,
+    "explicación": "El tema dedica un apartado a los gráficos.",
+    "referencia": "V.10 · 10. Gráficos en Excel"
+  },
+  {
+    "id": "t38-p015",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, las tablas dinámicas se estudian dentro de:",
+    "opciones": [
+      "gestión de datos en Excel",
+      "gestión de correo",
+      "personalización de Word",
+      "copias de seguridad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema las incluye en la gestión de datos.",
+    "referencia": "V.10 · 11.4 Tablas dinámicas (PivotTable)"
+  },
+  {
+    "id": "t38-p016",
+    "tema": 41,
+    "pregunta": "La tabla de contenido de Word se actualiza, entre otros medios, con la tecla:",
+    "opciones": [
+      "F9",
+      "F2",
+      "F12",
+      "Ctrl + P"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica que la tabla de contenido puede actualizarse con clic derecho o con F9.",
+    "referencia": "V.10 · 2.10 Tabla de contenido"
+  },
+  {
+    "id": "t38-p017",
+    "tema": 41,
+    "pregunta": "Si Word se cierra inesperadamente, la recuperación de documentos ofrece:",
+    "opciones": [
+      "las versiones autoguardadas disponibles al reiniciarse",
+      "solo el documento original guardado manualmente",
+      "únicamente los archivos PDF exportados previamente",
+      "una copia impresa del último documento abierto"
+    ],
+    "correcta": 0,
+    "explicación": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado.",
+    "referencia": "V.10 · 3.2 Recuperación de documentos"
+  },
+  {
+    "id": "t38-p018",
+    "tema": 41,
+    "pregunta": "En Excel, el cuadro de diálogo de Formato de celdas se abre con:",
+    "opciones": [
+      "Ctrl + 1",
+      "Ctrl + 9",
+      "Alt + F4",
+      "F7"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge expresamente el atajo Ctrl + 1 para abrir Formato de celdas.",
+    "referencia": "V.10 · 7.3 Formato de celdas"
+  },
+  {
+    "id": "t38-p019",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, una referencia absoluta en Excel se representa como:",
+    "opciones": [
+      "$A$1",
+      "A1",
+      "$A1",
+      "A$"
+    ],
+    "correcta": 0,
+    "explicación": "La referencia absoluta fija tanto columna como fila mediante el signo $.",
+    "referencia": "V.10 · 9.2 Referencias a celdas"
+  },
+  {
+    "id": "t38-p020",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, BUSCARX se caracteriza por ser:",
+    "opciones": [
+      "una versión moderna y más flexible de BUSCARV",
+      "una función exclusiva para insertar gráficos",
+      "una herramienta para proteger libros con contraseña",
+      "una opción de impresión avanzada"
+    ],
+    "correcta": 0,
+    "explicación": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
+    "referencia": "V.10 · 9.3 Funciones principales"
+  },
+  {
+    "id": "t38-p021",
+    "tema": 41,
+    "pregunta": "¿Qué función de Excel 365 invierte el valor logico de su argumento?",
+    "opciones": [
+      "NO",
+      "MINVERSA",
+      "CAMBIAR",
+      "ESLOGICO"
+    ],
+    "correcta": 0,
+    "explicación": "La función NO devuelve el valor logico contrario del argumento evaluado.",
+    "referencia": "V.10 · 9.3 Funciones logicas"
+  },
+  {
+    "id": "estado2026-extra-t41-01",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, la función Transcribir de Word 365 permite:",
+    "opciones": [
+      "Transcribir voz grabando directamente en Word o cargando un archivo de audio",
+      "Traducir hojas de cálculo automáticamente",
+      "Crear relaciones entre tablas de Access",
+      "Enviar correos con copia oculta"
+    ],
+    "correcta": 0,
+    "explicación": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo.",
+    "referencia": "Examen Estado 2026, Word 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t41-02",
+    "tema": 41,
+    "pregunta": "Para imprimir un documento Word sin marcas de revisión sin aceptar los cambios debe:",
+    "opciones": [
+      "Desmarcar la opción de imprimir documento con revisiones en la configuración de impresión",
+      "Aceptar todos los cambios obligatoriamente",
+      "Cambiar a vista de lectura",
+      "Convertirlo a imagen"
+    ],
+    "correcta": 0,
+    "explicación": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión.",
+    "referencia": "Examen Estado 2026, Word 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t41-03",
+    "tema": 41,
+    "pregunta": "En Excel 365, la fórmula =FILAS(Registros[Fecha]) devuelve:",
+    "opciones": [
+      "El número de filas de la columna Fecha en la tabla Registros",
+      "La fecha más antigua de la tabla",
+      "El número de columnas de Registros",
+      "El formato de fecha aplicado"
+    ],
+    "correcta": 0,
+    "explicación": "FILAS devuelve el número de filas de una referencia; aplicada a Registros[Fecha], cuenta las filas de esa columna.",
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t41-04",
+    "tema": 41,
+    "pregunta": "En Excel 365, el formato de fecha dd/mmm/aa mostraría correctamente:",
+    "opciones": [
+      "11/ago/24",
+      "11/agosto/2024",
+      "Once de agosto de 2024",
+      "2024-08-11 completo"
+    ],
+    "correcta": 0,
+    "explicación": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras.",
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t41-05",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, ¿cuál es un ejemplo de rango discontinuo en Excel?",
+    "opciones": [
+      "B2:C2;B4:C4",
+      "B2:C4",
+      "$B$2:$C$4",
+      "B2:B2"
+    ],
+    "correcta": 0,
+    "explicación": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4.",
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t41-06",
+    "tema": 41,
+    "pregunta": "En ofimática Microsoft 365, ¿qué función de Excel invierte el valor lógico de su argumento?",
+    "opciones": [
+      "NO",
+      "ESLOGICO",
+      "CAMBIAR",
+      "MINVERSA"
+    ],
+    "correcta": 0,
+    "explicación": "La función NO devuelve el valor lógico opuesto de su argumento.",
+    "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-v10-01",
+    "tema": 41,
+    "pregunta": "En Word 365, para imprimir un documento sin marcas de revisión sin aceptar definitivamente los cambios, debe:",
+    "opciones": [
+      "Desactivar la impresión de marcas o documento con revisiones en las opciones de impresión",
+      "Aceptar todos los cambios antes de imprimir obligatoriamente",
+      "Guardar el documento como imagen PNG",
+      "Eliminar el historial del portapapeles de Windows"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · Word 365",
+    "explicación": "Los exámenes ofimáticos reales suelen preguntar por rutas funcionales concretas, no solo por definiciones."
+  },
+  {
+    "id": "realstyle-v10-02",
+    "tema": 41,
+    "pregunta": "En Excel 365, ¿qué resultado devuelve la función FILAS aplicada a una columna de una tabla estructurada, por ejemplo =FILAS(Registros[Fecha])?",
+    "opciones": [
+      "El número de filas de esa columna de la tabla",
+      "La fecha más reciente del rango",
+      "El número de columnas de la tabla",
+      "La posición de la columna Fecha dentro del libro"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · Excel 365",
+    "explicación": "FILAS devuelve el número de filas de una referencia; con una columna estructurada cuenta sus filas."
+  }
+]

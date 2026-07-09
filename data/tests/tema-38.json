@@ -1,0 +1,463 @@
+[
+  {
+    "id": "pdf-2023-burgos-q45",
+    "tema": 38,
+    "pregunta": "La relación electrónica con las Administraciones Públicas para las personas jurídicas:",
+    "opciones": [
+      "Es una obligación",
+      "Es una opción",
+      "Es igual que para las personas físicas",
+      "Solo es obligatoria si la persona jurídica lo acepta expresamente"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 45",
+    "explicación": "Las personas jurídicas están obligadas a relacionarse electronicamente con las Administraciones.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q46",
+    "tema": 38,
+    "pregunta": "De acuerdo con el artículo 38 de la Ley 40/2015, la sede electrónica es:",
+    "opciones": [
+      "Aquella sede administrativa donde se controla la red intranet de una Administración Pública",
+      "La dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública o a organismos o entidades de derecho público en el ejercicio de sus competencias",
+      "La sede donde radica la Dirección General de nuevas tecnologías",
+      "Un espacio físico de atención presencial al ciudadano"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 46",
+    "explicación": "La sede electrónica es una dirección electrónica oficial cuya titularidad corresponde a una Administración u organismo público.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q47-reg",
+    "tema": 38,
+    "pregunta": "Los registros telemáticos permiten la presentación de solicitudes:",
+    "opciones": [
+      "En el mismo horario que las oficinas presenciales",
+      "De lunes a viernes, las 24 horas del día",
+      "De lunes a viernes, de 8 a 20 horas y los sabados de 9 a 14 horas",
+      "Todos los días del año, las 24 horas del día"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 47",
+    "explicación": "El registro electrónico permite la presentación de solicitudes todos los días del año durante las 24 horas.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q57",
+    "tema": 38,
+    "pregunta": "¿En qué artículo de la Ley 39/2015 se establece que las notificaciones se practicaran preferentemente por medios electrónicos?",
+    "opciones": [
+      "Artículo 41",
+      "Artículo 38",
+      "Artículo 14",
+      "Artículo 51"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 57",
+    "explicación": "El artículo 41 LPAC regula la práctica de las notificaciones y establece su preferencia por medios electrónicos.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q45",
+    "tema": 38,
+    "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, las personas físicas:",
+    "opciones": [
+      "Proveerán los medios y sistemas electrónicos con los que desean comunicarse.",
+      "Nunca podrán ser obligadas a relacionarse a través de medios electrónicos con las administraciones públicas.",
+      "Podrán optar por un medio de comunicación y este no podrá modificarlo.",
+      "Podrán elegir en todo momento si se comunican con las administraciones públicas para el ejercicio de sus derechos y obligaciones a través de medios electrónicos o no."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 45",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q46",
+    "tema": 38,
+    "pregunta": "¿A qué concepto se le atribuye la siguiente definición en la Ley 40/2015, de 1 octubre, de Régimen Jurídico del Sector Público “dirección electrónica, disponible para los ciudadanos a través de redes de telecomunicaciones, cuya titularidad corresponde a una Administración Pública”?",
+    "opciones": [
+      "Página web.",
+      "PAGe.",
+      "Sede electrónica.",
+      "Intranet."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 46",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q44",
+    "tema": 38,
+    "pregunta": "Según la Ley 39/2015, de 1 de Octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, a los efectos del cómputo de plazos en registros electrónicos.",
+    "opciones": [
+      "Permitirán la presentación de solicitudes, escritos y comunicaciones todos los días del año durante las horas de 9:00 a 21:00 horas.",
+      "La presentación en un día inhábil se entenderá realizada a primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil.",
+      "Con carácter general, no permitirán la presentación de solicitudes, escritos y comunicaciones en días inhábiles.",
+      "La presentación en un día inhábil se entenderá realizada expresamente como fuera de plazo, salvo que una norma permita expresamente la recepción en día inhábil."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 44",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t34-p001",
+    "tema": 38,
+    "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",
+    "opciones": [
+      "La tramitación de procedimientos, la prestación de servicios públicos y las relaciones electrónicas con ciudadanía y empresas",
+      "La sustitución del personal empleado público por sistemas automáticos de decisión",
+      "La recaudación tributaria exclusivamente por medios telemáticos",
+      "La publicación de leyes orgánicas y de sentencias judiciales"
+    ],
+    "correcta": 0,
+    "explicación": "La administración electrónica integra las TIC en la gestión, los servicios y las relaciones con ciudadanía y empresas, no en una única función aislada.",
+    "referencia": "Administración electrónica · concepto"
+  },
+  {
+    "id": "t34-p002",
+    "tema": 38,
+    "pregunta": "La LPACAP y la LRJSP integran la administración electrónica como forma:",
+    "opciones": [
+      "ordinaria y preferente de actuación de las Administraciones Públicas",
+      "opcional y residual",
+      "exclusivamente interna y privada",
+      "solo para grandes empresas"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la eleva a forma ordinaria.",
+    "referencia": "V.7 · 1.2 Evolución normativa"
+  },
+  {
+    "id": "t34-p003",
+    "tema": 38,
+    "pregunta": "En administración electrónica, uno de sus principios es:",
+    "opciones": [
+      "la interoperabilidad",
+      "la opacidad",
+      "la arbitrariedad",
+      "la reserva de papel"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la enumera entre los principios.",
+    "referencia": "V.7 · 1.3 Principios de la administración electrónica"
+  },
+  {
+    "id": "t34-p004",
+    "tema": 38,
+    "pregunta": "En administración electrónica, la sede electrónica es:",
+    "opciones": [
+      "la dirección electrónica de titularidad, gestión y administración de una Administración Pública",
+      "un simple enlace de redes sociales",
+      "una carpeta de archivos físicos",
+      "el correo personal del alcalde"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como equivalente electrónico de las oficinas presenciales.",
+    "referencia": "V.7 · 2.1 Concepto"
+  },
+  {
+    "id": "t34-p005",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el Punto de Acceso General electrónico de la AGE es:",
+    "opciones": [
+      "el portal web de entrada única a los servicios electrónicos del Estado",
+      "un archivo municipal",
+      "una oficina de registro físico",
+      "una base de datos de sanciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo identifica como puerta de entrada única.",
+    "referencia": "V.7 · 2.3 Punto de Acceso General electrónico de la AGE"
+  },
+  {
+    "id": "t34-p006",
+    "tema": 38,
+    "pregunta": "En administración electrónica, un sistema de identificación admitido es:",
+    "opciones": [
+      "el DNI electrónico",
+      "solo el pasaporte ordinario",
+      "únicamente la firma manuscrita",
+      "el número de afiliación a la Seguridad Social"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye el DNIe entre los sistemas admitidos.",
+    "referencia": "V.7 · 3.1 La identificación electrónica de los ciudadanos"
+  },
+  {
+    "id": "t34-p007",
+    "tema": 38,
+    "pregunta": "En administración electrónica, la firma electrónica sirve para garantizar:",
+    "opciones": [
+      "la autenticidad del firmante y la integridad del documento firmado",
+      "la velocidad de conexión",
+      "la presencia física del interesado",
+      "la reserva del registro"
+    ],
+    "correcta": 0,
+    "explicación": "El tema le atribuye autenticidad e integridad.",
+    "referencia": "V.7 · 3.2 La firma electrónica"
+  },
+  {
+    "id": "t34-p008",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el procedimiento administrativo puede iniciarse electrónicamente a través de:",
+    "opciones": [
+      "la sede electrónica o el registro electrónico",
+      "solo el buzón postal",
+      "únicamente el tablón de anuncios",
+      "solo el teléfono de atención"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica esas vías de inicio.",
+    "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento"
+  },
+  {
+    "id": "t34-p010",
+    "tema": 38,
+    "pregunta": "En administración electrónica, las notificaciones se practicarán preferentemente:",
+    "opciones": [
+      "por medios electrónicos",
+      "solo en papel",
+      "por teléfono móvil",
+      "por radio local"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo dice expresamente.",
+    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
+  },
+  {
+    "id": "t34-p011",
+    "tema": 38,
+    "pregunta": "En administración electrónica, la DEHú es:",
+    "opciones": [
+      "el sistema de notificación electrónica de la Administración General del Estado",
+      "un archivo histórico digital",
+      "un motor de búsqueda",
+      "una plataforma de firma de presupuestos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la identifica como sistema de notificación electrónica de referencia.",
+    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
+  },
+  {
+    "id": "t34-p012",
+    "tema": 38,
+    "pregunta": "Si transcurren 10 días naturales sin acceder a una notificación electrónica en DEHú, la notificación se entiende:",
+    "opciones": [
+      "rechazada",
+      "estimada",
+      "suspendida",
+      "nula"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reproduce ese efecto.",
+    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente"
+  },
+  {
+    "id": "t34-p013",
+    "tema": 38,
+    "pregunta": "En administración electrónica, la actuación automatizada es aquella en la que determinados actos pueden ser adoptados:",
+    "opciones": [
+      "sin intervención directa de un empleado público, cuando el procedimiento pueda resolverse mediante reglas predeterminadas",
+      "solo por el interventor",
+      "únicamente en papel",
+      "mediante resolución judicial"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define así.",
+    "referencia": "V.7 · 4.3 Instrucción electrónica del procedimiento"
+  },
+  {
+    "id": "t34-p014",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el ENS es el esquema que establece:",
+    "opciones": [
+      "los principios y requisitos de seguridad en los sistemas de información del sector público",
+      "las reglas del presupuesto local",
+      "las clases de personal laboral",
+      "la estructura del calendario laboral"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo menciona como marco de seguridad.",
+    "referencia": "V.7 · 1.2 Evolución normativa / referencias"
+  },
+  {
+    "id": "t34-p016",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el código seguro de verificación (CSV) permite:",
+    "opciones": [
+      "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
+      "sustituir en todo caso la firma electrónica cualificada del ciudadano",
+      "presentar solicitudes sin identificación previa",
+      "clasificar los sistemas conforme al ENS"
+    ],
+    "correcta": 0,
+    "explicación": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento.",
+    "referencia": "V.7 · 3.3 Identificación de las Administraciones Públicas"
+  },
+  {
+    "id": "t34-p017",
+    "tema": 38,
+    "pregunta": "En administración electrónica, la presentación electrónica de una solicitud genera automáticamente un recibo con:",
+    "opciones": [
+      "número de registro, fecha, hora e identificación del documento presentado",
+      "solo la identidad del funcionario que tramitará el expediente",
+      "únicamente el número de expediente definitivo",
+      "el texto íntegro de la resolución final"
+    ],
+    "correcta": 0,
+    "explicación": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales.",
+    "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento"
+  },
+  {
+    "id": "t34-p018",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el aviso de que existe una notificación electrónica pendiente:",
+    "opciones": [
+      "no sustituye a la notificación",
+      "equivale por sí mismo a la práctica de la notificación",
+      "amplía automáticamente el plazo de 10 días",
+      "solo es obligatorio en los procedimientos sancionadores"
+    ],
+    "correcta": 0,
+    "explicación": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico.",
+    "referencia": "V.7 · 6.2 El aviso de notificación"
+  },
+  {
+    "id": "t34-p019",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el SIR materializa principalmente el principio de:",
+    "opciones": [
+      "ventanilla única",
+      "jerarquía normativa",
+      "inderogabilidad singular del reglamento",
+      "desconcentración funcional"
+    ],
+    "correcta": 0,
+    "explicación": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria.",
+    "referencia": "V.7 · 7.3 El Sistema de Interconexión de Registros (SIR)"
+  },
+  {
+    "id": "t34-p020",
+    "tema": 38,
+    "pregunta": "Entre las obligaciones de las Entidades Locales en materia de administración electrónica figura disponer de:",
+    "opciones": [
+      "un catálogo de procedimientos disponible en la sede electrónica",
+      "una oficina física abierta las 24 horas del día",
+      "un sistema propio de certificación notarial",
+      "un registro exclusivamente en soporte papel"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye expresamente el catálogo de procedimientos entre los elementos que deben existir en la sede electrónica local.",
+    "referencia": "V.7 · 8.1 Obligaciones de las Entidades Locales"
+  },
+  {
+    "id": "t34-p021",
+    "tema": 38,
+    "pregunta": "En administración electrónica, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con carácter general:",
+    "opciones": [
+      "Unicamente en soporte papel para garantizar su autenticidad",
+      "Por medios electrónicos",
+      "En cualquier soporte, sin preferencia legal",
+      "Solo en formato físico cuando afecten a derechos de los particulares"
+    ],
+    "correcta": 1,
+    "explicación": "El tema explica que la tramitación ordinaria es electrónica y que los documentos administrativos deben almacenarse por medios electrónicos.",
+    "referencia": "V.7 · 4.1 La tramitación electrónica como forma ordinaria"
+  },
+  {
+    "id": "t34-p022",
+    "tema": 38,
+    "pregunta": "Según el art. 40 LRJSP, las Administraciones Públicas podrán identificarse mediante:",
+    "opciones": [
+      "Un sello electrónico basado en un certificado electrónico reconocido o cualificado",
+      "Exclusivamente mediante firma manuscrita digitalizada",
+      "Unicamente mediante certificado de empleado público",
+      "Cualquier sistema privado aunque no cumpla la legislación de firma electrónica"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge el sello electrónico basado en certificado reconocido o cualificado como sistema valido de identificación de la Administración.",
+    "referencia": "V.7 · 3.2 Sistemas de firma e identificación"
+  },
+  {
+    "id": "estado2026-extra-t38-01",
+    "tema": 38,
+    "pregunta": "Una Administración Pública puede identificarse electrónicamente mediante:",
+    "opciones": [
+      "Sello electrónico basado en certificado electrónico reconocido o cualificado",
+      "Usuario y contraseña de un empleado sin trazabilidad",
+      "Una imagen escaneada del escudo",
+      "Un correo electrónico ordinario sin certificado"
+    ],
+    "correcta": 0,
+    "explicación": "La identificación electrónica administrativa puede realizarse mediante sello electrónico basado en certificado reconocido o cualificado.",
+    "referencia": "Examen Estado 2026, identificación electrónica; Tema V.7, Administración electrónica",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t38-02",
+    "tema": 38,
+    "pregunta": "En administración electrónica, el aviso de puesta a disposición de una notificación electrónica:",
+    "opciones": [
+      "No sustituye a la notificación, aunque informa de que existe una notificación pendiente",
+      "Equivale siempre a la práctica de la notificación",
+      "Anula el plazo de acceso",
+      "Solo puede enviarse por correo postal certificado"
+    ],
+    "correcta": 0,
+    "explicación": "El aviso es un complemento informativo y no sustituye a la notificación electrónica practicada por acceso o rechazo.",
+    "referencia": "Examen Estado 2026, notificaciones electrónicas; Tema V.7",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-v07-01",
+    "tema": 38,
+    "pregunta": "Según el art. 38 LRJSP, la sede electrónica es:",
+    "opciones": [
+      "La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad corresponde a una Administración Pública o entidad pública en el ejercicio de sus competencias",
+      "El edificio donde se ubica el departamento de informática",
+      "La intranet municipal de uso exclusivo por empleados",
+      "Un buzón de correo electrónico sin identificación de titularidad ni responsabilidad"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 38 LRJSP",
+    "explicación": "La definición legal de sede electrónica es literal y suele aparecer en test reales."
+  },
+  {
+    "id": "realstyle-v07-02",
+    "tema": 38,
+    "pregunta": "Según la LPACAP, las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado:",
+    "opciones": [
+      "Resulte obligado a recibirlas por esta vía",
+      "Lo solicite verbalmente a cualquier empleado público",
+      "Sea persona física no obligada en todos los casos",
+      "Haya presentado alguna vez una solicitud en papel"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 41 LPACAP",
+    "explicación": "La preferencia electrónica se convierte en obligación cuando el interesado está obligado a relacionarse electrónicamente."
+  }
+]

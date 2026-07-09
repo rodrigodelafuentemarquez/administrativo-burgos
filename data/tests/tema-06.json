@@ -1,0 +1,406 @@
+[
+  {
+    "id": "pdf-2025-burgos-q24",
+    "tema": 6,
+    "pregunta": "Según el artículo 16.2. de la Ley 7/1985, de 2 abril, reguladora de las Bases del Régimen Local ¿Cuál de los siguientes es un dato obligatorio en el padrón de habitantes?",
+    "opciones": [
+      "Estado civil.",
+      "Situación laboral.",
+      "Domicilio habitual con especificación de la referencia catastral.",
+      "Ninguna de las anteriores es correcta."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 24",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q12",
+    "tema": 6,
+    "pregunta": "Según el artículo 140 de la Constitución Española, respecto a la autonomía de los municipios:",
+    "opciones": [
+      "No existe autonomía para los municipios.",
+      "Se accederá a la misma en los casos en que una Ley así lo recoja.",
+      "Se garantiza.",
+      "Ninguna de las respuestas anteriores es correcta."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 12",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t09-p002",
+    "tema": 6,
+    "pregunta": "¿Qué artículo de la Constitución garantiza la autonomía del municipio?",
+    "opciones": [
+      "Art. 137 CE",
+      "Art. 140 CE",
+      "Art. 141 CE",
+      "Art. 142 CE"
+    ],
+    "correcta": 1,
+    "explicación": "El tema atribuye al art. 140 CE la garantía constitucional de la autonomía municipal.",
+    "referencia": "I.6 · 1.1 Fundamento constitucional de la autonomía local"
+  },
+  {
+    "id": "t09-p004",
+    "tema": 6,
+    "pregunta": "En régimen local, ¿qué entidad es el gobierno y la administración del municipio?",
+    "opciones": [
+      "El Ayuntamiento",
+      "La Diputación Provincial",
+      "La Junta Vecinal",
+      "El Cabildo Insular"
+    ],
+    "correcta": 0,
+    "explicación": "El temario identifica al Ayuntamiento como órgano de gobierno y administración del municipio.",
+    "referencia": "I.6 · 2.2 El Municipio"
+  },
+  {
+    "id": "t09-p005",
+    "tema": 6,
+    "pregunta": "En materia de municipio y padrón municipal, el padrón municipal es:",
+    "opciones": [
+      "el registro administrativo donde constan los vecinos del municipio",
+      "un registro estatal de funcionarios",
+      "un censo exclusivamente electoral",
+      "un libro de actas del Pleno"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define el padrón municipal como el registro administrativo donde constan los vecinos del municipio.",
+    "referencia": "I.6 · 2.2 c) La población: el padrón municipal"
+  },
+  {
+    "id": "t09-p010",
+    "tema": 6,
+    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo es obligatorio en todos los municipios?",
+    "opciones": [
+      "Transporte colectivo urbano de viajeros",
+      "Biblioteca pública",
+      "Alumbrado público",
+      "Protección civil"
+    ],
+    "correcta": 2,
+    "explicación": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
+    "referencia": "I.6 · 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
+  },
+  {
+    "id": "t09-p013",
+    "tema": 6,
+    "pregunta": "En materia de municipio y padrón municipal, las mancomunidades de municipios son:",
+    "opciones": [
+      "Asociaciones voluntarias de municipios para ejecutar en común obras, servicios o actividades de su competencia",
+      "Entidades locales territoriales de existencia necesaria equivalentes a la provincia",
+      "Órganos complementarios del ayuntamiento para la gestión descentralizada de servicios",
+      "Organismos autónomos creados por el Estado para coordinar servicios municipales"
+    ],
+    "correcta": 0,
+    "explicación": "La mancomunidad es una asociación voluntaria de municipios para prestar conjuntamente obras, servicios o actividades de su competencia.",
+    "referencia": "Ley 7/1985 · art. 44"
+  },
+  {
+    "id": "t09-p014",
+    "tema": 6,
+    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo debe prestar todo municipio?",
+    "opciones": [
+      "Transporte colectivo urbano de viajeros",
+      "Tratamiento de residuos",
+      "Alumbrado público",
+      "Protección civil"
+    ],
+    "correcta": 2,
+    "explicación": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
+    "referencia": "I.6 · 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
+  },
+  {
+    "id": "topup-06-01",
+    "pregunta": "En materia de municipio y padrón municipal, los elementos esenciales del municipio son:",
+    "opciones": [
+      "territorio, población y organización",
+      "territorio, Senado y Gobierno",
+      "provincia, comarca y diputación",
+      "vecindad, nacionalidad y Parlamento"
+    ],
+    "correcta": 0,
+    "explicación": "El municipio se estructura sobre término municipal, población y organización.",
+    "referencia": "I.6 · Concepto y elementos del municipio",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-04",
+    "pregunta": "En materia de municipio y padrón municipal, la condición de vecino del municipio se adquiere:",
+    "opciones": [
+      "cuando se inscribe en el padrón municipal",
+      "al pagar el IBI",
+      "al cumplir 18 años",
+      "al votar en elecciones generales"
+    ],
+    "correcta": 0,
+    "explicación": "La inscripción padronal atribuye la condición de vecino.",
+    "referencia": "I.6 · Población y vecindad",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-06",
+    "pregunta": "En materia de municipio y padrón municipal, los datos padronales prueban:",
+    "opciones": [
+      "la residencia y el domicilio habitual",
+      "la titularidad de una vivienda",
+      "la situación laboral",
+      "la nacionalidad española"
+    ],
+    "correcta": 0,
+    "explicación": "La ley atribuye a los datos padronales valor probatorio de residencia y domicilio habitual.",
+    "referencia": "I.6 · Padron municipal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-08",
+    "pregunta": "En materia de municipio y padrón municipal, la formación y custodia del padrón corresponde principalmente a:",
+    "opciones": [
+      "el Ayuntamiento",
+      "el Senado",
+      "la comunidad de vecinos",
+      "la Diputación Permanente"
+    ],
+    "correcta": 0,
+    "explicación": "La gestión padronal es una competencia municipal, con coordinación del INE.",
+    "referencia": "I.6 · Gestión del padrón",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-09",
+    "pregunta": "En materia de municipio y padrón municipal, el INE desarrolla funciones de:",
+    "opciones": [
+      "coordinación",
+      "recaudación ejecutiva",
+      "control disciplinario",
+      "aprobación de ordenanzas"
+    ],
+    "correcta": 0,
+    "explicación": "El Instituto Nacional de Estadistica coordina los padrones municipales.",
+    "referencia": "I.6 · Coordinación padronal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-10",
+    "pregunta": "En materia de municipio y padrón municipal, la alteración de términos municipales puede producirse, entre otros supuestos, por:",
+    "opciones": [
+      "fusión o segregación",
+      "moción de censura",
+      "recurso de alzada",
+      "decreto-ley municipal"
+    ],
+    "correcta": 0,
+    "explicación": "La legislación local contempla fusión, incorporación, segregación y modificación de límites.",
+    "referencia": "I.6 · Alteraciones del término municipal",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-11",
+    "pregunta": "En materia de municipio y padrón municipal, la creación de un nuevo municipio exige, entre otros requisitos:",
+    "opciones": [
+      "recursos suficientes para prestar servicios obligatorios",
+      "autorización del Congreso por ley orgánica en todo caso",
+      "la unanimidad de todos los vecinos de la provincia",
+      "que sea capital de comunidad autónoma"
+    ],
+    "correcta": 0,
+    "explicación": "La viabilidad del nuevo municipio exige recursos suficientes y justificación de interés público.",
+    "referencia": "I.6 · Creación de municipios",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-14",
+    "pregunta": "En materia de municipio y padrón municipal, la inscripción padronal de personas extranjeras:",
+    "opciones": [
+      "no prueba por si sola la residencia legal en España",
+      "equivale siempre a una autorización de residencia",
+      "solo es posible para ciudadanos de la UE",
+      "requiere sentencia judicial previa"
+    ],
+    "correcta": 0,
+    "explicación": "El empadronamiento acredita residencia habitual a efectos administrativos, no regulariza por sí mismo la situación de extranjeria.",
+    "referencia": "I.6 · Padron y personas extranjeras",
+    "tema": 6
+  },
+  {
+    "id": "topup-06-15",
+    "pregunta": "La organización municipal constituye uno de los elementos del municipio junto con:",
+    "opciones": [
+      "territorio y población",
+      "Parlamento y Senado",
+      "comarcas y cabildos",
+      "tratados y reglamentos europeos"
+    ],
+    "correcta": 0,
+    "explicación": "Los tres elementos clasicos del municipio son territorio, población y organización.",
+    "referencia": "I.6 · Elementos del municipio",
+    "tema": 6
+  },
+  {
+    "id": "refine-06-01",
+    "pregunta": "La condición de vecino de un municipio se adquiere legalmente mediante:",
+    "opciones": [
+      "la inscripción en el padrón municipal",
+      "el pago del IBI durante dos ejercicios",
+      "la residencia continuada de hecho durante un año aunque no exista inscripción",
+      "la inclusión en el censo electoral general"
+    ],
+    "correcta": 0,
+    "referencia": "I.6 · Población y empadronamiento",
+    "explicación": "La condición de vecino se anuda a la inscripción en el padrón municipal.",
+    "tema": 6
+  },
+  {
+    "id": "refine-06-02",
+    "pregunta": "En materia de municipio y padrón municipal, los datos del padrón municipal constituyen prueba de:",
+    "opciones": [
+      "la residencia en el municipio y del domicilio habitual",
+      "la titularidad dominical de la vivienda",
+      "la situación laboral del inscrito",
+      "la regularidad administrativa en materia de extranjeria"
+    ],
+    "correcta": 0,
+    "referencia": "I.6 · Padron municipal",
+    "explicación": "La eficacia probatoria del padrón se refiere a residencia y domicilio habitual, no a otros extremos ajenos.",
+    "tema": 6
+  },
+  {
+    "id": "refine-06-03",
+    "pregunta": "En materia de municipio y padrón municipal, la alteración del término municipal puede producirse, entre otros supuestos, por:",
+    "opciones": [
+      "fusión, incorporación o segregación en los términos legalmente previstos",
+      "acuerdo verbal entre alcaldes colindantes",
+      "resolución del interventor municipal",
+      "petición de cualquier vecino sin expediente"
+    ],
+    "correcta": 0,
+    "referencia": "I.6 · Termino municipal",
+    "explicación": "Las modificaciones del término municipal exigen procedimiento y causa legalmente prevista.",
+    "tema": 6
+  },
+  {
+    "id": "refine-06-04",
+    "pregunta": "La gestión y formación del padrón municipal corresponde al Ayuntamiento, bajo la coordinación de:",
+    "opciones": [
+      "el Instituto Nacional de Estadistica",
+      "el Consejo General del Poder Judicial",
+      "la Junta Electoral Central",
+      "el Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "referencia": "I.6 · Padron municipal",
+    "explicación": "La coordinación padronal corresponde al INE.",
+    "tema": 6
+  },
+  {
+    "id": "refine-06-05",
+    "pregunta": "En materia de municipio y padrón municipal, la inscripción padronal de una persona extranjera:",
+    "opciones": [
+      "no equivale por si sola a la regularización de su situación de extranjeria",
+      "supone automáticamente autorización de residencia",
+      "solo es posible si la persona pertenece a la Unión Europea",
+      "requiere una resolución judicial previa"
+    ],
+    "correcta": 0,
+    "referencia": "I.6 · Empadronamiento de personas extranjeras",
+    "explicación": "El empadronamiento tiene efectos administrativos propios, pero no regulariza por sí mismo la situación de extranjeria.",
+    "tema": 6
+  },
+  {
+    "id": "burgos-i06-hard-01",
+    "tema": 6,
+    "pregunta": "¿Qué elemento NO forma parte de los elementos clásicos del municipio?",
+    "opciones": [
+      "La comarca",
+      "El territorio",
+      "La población",
+      "La organización"
+    ],
+    "correcta": 0,
+    "explicación": "Los elementos del municipio son territorio, población y organización; la comarca es otra posible entidad local.",
+    "referencia": "Tema I.6, Municipio: concepto y elementos"
+  },
+  {
+    "id": "burgos-i06-hard-02",
+    "tema": 6,
+    "pregunta": "En materia de municipio y padrón municipal, la condición de vecino se adquiere mediante:",
+    "opciones": [
+      "Inscripción en el padrón municipal",
+      "Nacimiento en la provincia",
+      "Pago de cualquier tributo estatal",
+      "Residencia ocasional durante una semana"
+    ],
+    "correcta": 0,
+    "explicación": "La inscripción en el padrón municipal determina la condición de vecino del municipio.",
+    "referencia": "Tema I.6, Población y empadronamiento"
+  },
+  {
+    "id": "burgos-i06-hard-03",
+    "tema": 6,
+    "pregunta": "¿Qué afirmación sobre el padrón municipal es la más precisa?",
+    "opciones": [
+      "Es un registro administrativo donde constan los vecinos del municipio",
+      "Es un censo electoral que solo se actualiza cada cuatro años",
+      "Es un registro tributario reservado a propietarios de inmuebles",
+      "Es una autorización administrativa para residir en España"
+    ],
+    "correcta": 0,
+    "explicación": "El padrón municipal es el registro administrativo en el que constan los vecinos del municipio.",
+    "referencia": "Tema I.6, Empadronamiento"
+  },
+  {
+    "id": "burgos-i06-hard-04",
+    "tema": 6,
+    "pregunta": "¿A quién corresponde la gestión y formación del padrón municipal, bajo coordinación estatal?",
+    "opciones": [
+      "Al Ayuntamiento",
+      "A la Diputación Provincial exclusivamente",
+      "Al Tribunal Económico-Administrativo Municipal",
+      "A las Cortes Generales"
+    ],
+    "correcta": 0,
+    "explicación": "La gestión y formación del padrón corresponde al Ayuntamiento, bajo la coordinación del INE en los términos legales.",
+    "referencia": "Tema I.6, Padrón municipal"
+  },
+  {
+    "id": "estado2026-i06-01",
+    "tema": 6,
+    "pregunta": "¿Qué afirmación sobre el término municipal es correcta?",
+    "opciones": [
+      "Es el territorio en el que el Ayuntamiento ejerce sus competencias",
+      "Es la población inscrita en el padrón",
+      "Es el órgano ejecutivo municipal",
+      "Es la agrupación de provincias limítrofes"
+    ],
+    "correcta": 0,
+    "explicación": "El término municipal es el ámbito territorial en el que el Ayuntamiento ejerce sus competencias.",
+    "referencia": "Tema I.6, término municipal",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-i06-02",
+    "tema": 6,
+    "pregunta": "¿Qué dato NO convierte por sí solo a una persona en vecina de un municipio?",
+    "opciones": [
+      "Ser propietario de una vivienda en el municipio",
+      "Estar inscrito en el padrón municipal",
+      "Residir habitualmente y constar en el padrón",
+      "Figurar como vecino en el padrón"
+    ],
+    "correcta": 0,
+    "explicación": "La propiedad de una vivienda no determina la vecindad administrativa; esta deriva de la inscripción padronal.",
+    "referencia": "Tema I.6, población y empadronamiento",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

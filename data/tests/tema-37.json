@@ -1,0 +1,341 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q44",
+    "tema": 37,
+    "pregunta": "¿De acuerdo con la Ley Orgánica 3/2018, de 5 de diciembre, de Protección de datos personales y garantía de los derechos digitales, el tratamiento de los datos personales de un menor de edad únicamente podrá fundarse en su consentimiento cuando sea mayor de?:",
+    "opciones": [
+      "14 años.",
+      "16 años.",
+      "En ningún caso."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 44",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q49-lopd",
+    "tema": 37,
+    "pregunta": "¿Según la Ley Orgánica de Protección de Datos Personales y garantía de los derechos digitales, a partir de qué edad el tratamiento de los datos personales de un menor podrá fundarse únicamente en su consentimiento?",
+    "opciones": [
+      "Cuando sea mayor de 14 años",
+      "Cuando sea mayor de 18 años",
+      "Cuando sea mayor de 16 años",
+      "Cuando sea mayor de 12 años"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 49",
+    "explicación": "La LOPDGDD fija en 14 años la edad a partir de la cual el menor puede consentir por sí mismo el tratamiento de sus datos.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q52",
+    "tema": 37,
+    "pregunta": "¿Cuál es el objeto de la Ley Orgánica 3/2018, de Protección de Datos Personales y garantía de los derechos digitales?",
+    "opciones": [
+      "Adaptar el ordenamiento jurídico español al Reglamento (UE) 2016/679",
+      "Garantizar los derechos electrónicos de la ciudadania al mandato del artículo 22.4 CE",
+      "Exigir a las autoridades de protección de datos una máxima eficiencia en materia de seguridad",
+      "Adaptar el ordenamiento español al RGPD y garantizar los derechos digitales"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 52",
+    "explicación": "La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD y, además, garantiza los derechos digitales.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-r06",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, el empleador podrá acceder a los contenidos derivados del uso de medios digitales facilitados a los trabajadores?:",
+    "opciones": [
+      "Si, en cualquier caso",
+      "Si, para el control de la productividad del trabajador",
+      "No, porque el trabajador tiene derecho a la protección de la intimidad en el uso de dispositivos digitales",
+      "Si, solo a los efectos de controlar el cumplimiento de las obligaciones laborales o estatutarias y de garantizar la integridad de dichos dispositivos"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · reserva 6",
+    "explicación": "El acceso empresarial a esos contenidos está limitado a fines de control laboral y garantía de integridad de los dispositivos, con respeto a la intimidad.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t21-p012",
+    "tema": 37,
+    "pregunta": "Según el art. 15 LTBG, cuando la información solicitada contiene datos personales especialmente protegidos, la ley indica que el acceso solo se permite:",
+    "opciones": [
+      "con consentimiento expreso del afectado o habilitación legal",
+      "siempre que lo pida cualquier ciudadano",
+      "sin ninguna ponderación adicional",
+      "solo si han pasado más de 5 años"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige consentimiento expreso o cobertura legal.",
+    "referencia": "V.6 · 3.5 Protección de datos personales y acceso (art. 15 LTBG)"
+  },
+  {
+    "id": "t21-p013",
+    "tema": 37,
+    "pregunta": "Según los arts. 15-22 RGPD, entre los derechos de los interesados en protección de datos se encuentra:",
+    "opciones": [
+      "la portabilidad",
+      "la expropiación",
+      "la permuta",
+      "la publicidad activa"
+    ],
+    "correcta": 0,
+    "explicación": "La portabilidad forma parte de los derechos ARSOPOL.",
+    "referencia": "V.6 · 5.6 Derechos de los interesados (arts. 15-22 RGPD)"
+  },
+  {
+    "id": "t21-p014",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, la Agencia Española de Protección de Datos es:",
+    "opciones": [
+      "la autoridad de control independiente encargada de velar por el cumplimiento de la normativa",
+      "un órgano dependiente del Consejo de Transparencia",
+      "una comisión parlamentaria sin funciones ejecutivas",
+      "un registro auxiliar de la Administración"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como autoridad de control independiente.",
+    "referencia": "V.6 · 5.8 La Agencia Española de Protección de Datos (AEPD)"
+  },
+  {
+    "id": "t43-p007",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, el límite de protección de datos exige:",
+    "opciones": [
+      "ponderar el interés público en conocer la información y los derechos de las personas afectadas",
+      "denegar siempre el acceso",
+      "publicar siempre todos los datos sin anonimizar",
+      "pedir autorización del alcalde"
+    ],
+    "correcta": 0,
+    "explicación": "El tema plantea una ponderación entre intereses.",
+    "referencia": "V.6 · 3.4 El límite de la protección de datos"
+  },
+  {
+    "id": "t43-p013",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, el RGPD es directamente aplicable desde:",
+    "opciones": [
+      "25 de mayo de 2018",
+      "1 de enero de 2016",
+      "9 de diciembre de 2013",
+      "6 de diciembre de 1978"
+    ],
+    "correcta": 0,
+    "explicación": "El tema da esa fecha de aplicación.",
+    "referencia": "V.6 · 5.2 El marco normativo vigente"
+  },
+  {
+    "id": "t43-p014",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, un dato personal es:",
+    "opciones": [
+      "toda información sobre una persona física identificada o identificable",
+      "solo el nombre y apellidos",
+      "únicamente un dato bancario",
+      "un documento administrativo"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reproduce ese concepto fundamental.",
+    "referencia": "V.6 · 5.3 Conceptos fundamentales"
+  },
+  {
+    "id": "t43-p015",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, un principio del RGPD es:",
+    "opciones": [
+      "la minimización de datos",
+      "la publicidad total",
+      "la libre difusión",
+      "la permanencia indefinida"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge la minimización entre los principios.",
+    "referencia": "V.6 · 6.3 Minimización de datos"
+  },
+  {
+    "id": "t43-p018",
+    "tema": 37,
+    "pregunta": "En las Administraciones Públicas, la base jurídica predominante del tratamiento de datos personales es:",
+    "opciones": [
+      "El cumplimiento de una misión realizada en interés público o en el ejercicio de poderes públicos conferidos al responsable",
+      "El consentimiento expreso del interesado en todo tratamiento de datos realizado por la administración",
+      "El interés legítimo de la administración como base ordinaria y preferente de sus tratamientos",
+      "La libre elección del encargado del tratamiento y del sistema informático utilizado"
+    ],
+    "correcta": 0,
+    "explicación": "En el ámbito administrativo predomina la base jurídica del interés público o del ejercicio de poderes públicos, no el consentimiento como regla general.",
+    "referencia": "RGPD · art. 6.1.e) / LOPDGDD"
+  },
+  {
+    "id": "t43-p019",
+    "tema": 37,
+    "pregunta": "En protección de datos personales, el derecho a la portabilidad permite al interesado:",
+    "opciones": [
+      "recibir sus datos en formato estructurado, de uso común y lectura mecánica y transmitirlos a otro responsable",
+      "exigir la supresión inmediata de cualquier dato sin límites",
+      "obtener siempre una indemnización automática por cualquier tratamiento",
+      "impedir cualquier decisión administrativa basada en datos personales"
+    ],
+    "correcta": 0,
+    "explicación": "La portabilidad opera en determinados tratamientos automatizados basados en consentimiento o contrato.",
+    "referencia": "V.6 · 8.6 Derecho a la portabilidad de los datos"
+  },
+  {
+    "id": "t43-p020",
+    "tema": 37,
+    "pregunta": "El Registro de Actividades de Tratamiento (RAT) debe estar disponible para:",
+    "opciones": [
+      "la autoridad de control, si lo solicita",
+      "cualquier ciudadano en el Portal de Transparencia",
+      "solo el delegado sindical del centro",
+      "los tribunales de oposición de la Comunidad Autónoma"
+    ],
+    "correcta": 0,
+    "explicación": "El RAT no tiene que publicarse, pero sí debe poder exhibirse ante la autoridad de control cuando lo requiera.",
+    "referencia": "V.6 · 9.2 El Registro de Actividades de Tratamiento (RAT)"
+  },
+  {
+    "id": "topup-37-01",
+    "pregunta": "Un principio básico de protección de datos es la minimización, que exige tratar:",
+    "opciones": [
+      "solo los datos adecuados, pertinentes y limitados a lo necesario",
+      "todos los datos posibles por si acaso",
+      "únicamente datos anonimos siempre",
+      "datos sin base jurídica"
+    ],
+    "correcta": 0,
+    "explicación": "La minimización limita el tratamiento a lo necesario para la finalidad.",
+    "referencia": "V.6 · Principios del tratamiento",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-02",
+    "pregunta": "En protección de datos personales, el responsable del tratamiento es quien:",
+    "opciones": [
+      "determina los fines y medios del tratamiento",
+      "ejecuta materialmente siempre la política del Gobierno",
+      "representa al sindicato mayoritario",
+      "fiscaliza externamente las cuentas"
+    ],
+    "correcta": 0,
+    "explicación": "Responsable es quien decide sobre para que y como se tratan los datos.",
+    "referencia": "V.6 · Responsable del tratamiento",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-03",
+    "pregunta": "En protección de datos personales, el encargado del tratamiento trata datos personales:",
+    "opciones": [
+      "por cuenta del responsable",
+      "siempre por cuenta propia",
+      "solo cuando es autoridad judicial",
+      "sin necesidad de instrucciones"
+    ],
+    "correcta": 0,
+    "explicación": "El encargado actúa siguiendo las instrucciones del responsable.",
+    "referencia": "V.6 · Encargado del tratamiento",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-04",
+    "pregunta": "El delegado de protección de datos desempeña funciones de:",
+    "opciones": [
+      "asesoramiento, supervisión y cooperación con la autoridad de control",
+      "recaudación ejecutiva",
+      "aprobación de bandos",
+      "investidura del presidente"
+    ],
+    "correcta": 0,
+    "explicación": "El DPD es una figura de garantía y enlace en materia de protección de datos.",
+    "referencia": "V.6 · Delegado de protección de datos",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-05",
+    "pregunta": "Entre los derechos del interesado en protección de datos figura el derecho de:",
+    "opciones": [
+      "supresión",
+      "moción de censura",
+      "huelga general",
+      "aprovechamiento especial del dominio público"
+    ],
+    "correcta": 0,
+    "explicación": "Los derechos clasicos incluyen acceso, rectificación, supresión, oposición y otros.",
+    "referencia": "V.6 · Derechos de las personas interesadas",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-06",
+    "pregunta": "Los derechos digitales incluidos en la LOPDGDD abarcan, entre otros, la protección de la intimidad en el uso de:",
+    "opciones": [
+      "dispositivos digitales en el ámbito laboral",
+      "diputaciones provinciales",
+      "padrones fiscales",
+      "presupuestos prorrogados"
+    ],
+    "correcta": 0,
+    "explicación": "La ley reconoce también derechos digitales junto al régimen general de datos.",
+    "referencia": "V.6 · Derechos digitales",
+    "tema": 37
+  },
+  {
+    "id": "topup-37-07",
+    "pregunta": "La autoridad de control en materia de protección de datos en el ámbito estatal es la:",
+    "opciones": [
+      "Agencia Española de Protección de Datos",
+      "Intervención General del Estado",
+      "Fiscalia General del Estado",
+      "Oficina del Censo Electoral"
+    ],
+    "correcta": 0,
+    "explicación": "La AEPD es la autoridad estatal de control en protección de datos.",
+    "referencia": "V.6 · Autoridades de protección de datos",
+    "tema": 37
+  },
+  {
+    "id": "estado2026-extra-t37-01",
+    "tema": 37,
+    "pregunta": "El deber de confidencialidad en protección de datos alcanza a:",
+    "opciones": [
+      "Responsables, encargados y todas las personas que intervengan en cualquier fase del tratamiento",
+      "Solo a funcionarios de carrera",
+      "Solo a delegados de prevención",
+      "A todos los ciudadanos aunque no traten datos"
+    ],
+    "correcta": 0,
+    "explicación": "La LOPDGDD extiende el deber de confidencialidad a responsables, encargados y personas que intervengan en cualquier fase del tratamiento.",
+    "referencia": "Examen Estado 2026, art. 5 LOPDGDD; Tema V.6, protección de datos",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t37-02",
+    "tema": 37,
+    "pregunta": "El deber de confidencialidad en materia de protección de datos:",
+    "opciones": [
+      "Subsiste incluso después de finalizar la relación con el responsable o encargado del tratamiento",
+      "Desaparece al cerrar el expediente",
+      "Solo opera mientras se trabaja presencialmente",
+      "No afecta al personal externo que interviene en el tratamiento"
+    ],
+    "correcta": 0,
+    "explicación": "El deber de confidencialidad permanece aun cuando haya terminado la relación de la persona con el responsable o encargado.",
+    "referencia": "Tema V.6, deber de confidencialidad",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

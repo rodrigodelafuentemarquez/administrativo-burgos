@@ -1,0 +1,392 @@
+[
+  {
+    "id": "pdf-2023-burgos-r02",
+    "tema": 4,
+    "pregunta": "Conforme al artículo 97 de la Constitución Española, el Gobierno NO dirige:",
+    "opciones": [
+      "La política interior y exterior",
+      "La Administración civil y militar",
+      "La defensa del Estado",
+      "La función ejecutiva"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · reserva 2",
+    "explicación": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t05-p010",
+    "tema": 4,
+    "pregunta": "Según el art. 69 LRJSP, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
+    "opciones": [
+      "El Subdelegado del Gobierno",
+      "El Delegado del Gobierno",
+      "El Secretario de Estado",
+      "El Director Insular"
+    ],
+    "correcta": 1,
+    "explicación": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
+    "referencia": "I.4 · 10.3 Organización periférica de la AGE (art. 69 LRJSP)"
+  },
+  {
+    "id": "t05-p015",
+    "tema": 4,
+    "pregunta": "Según el art. 103.1 CE, ¿cuál de los siguientes recoge un principio constitucional de actuación de la Administración Pública?",
+    "opciones": [
+      "centralización absoluta",
+      "objetividad, eficacia, jerarquía, descentralización, desconcentración y coordinación",
+      "mandato imperativo y supremacía política",
+      "autonomía legislativa"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge esos principios en el art. 103 CE.",
+    "referencia": "I.4 · 10.1 Concepto y caracterización"
+  },
+  {
+    "id": "t13-p001",
+    "tema": 4,
+    "pregunta": "En la organización administrativa del Estado autonómico español existe:",
+    "opciones": [
+      "una única Administración Pública",
+      "una pluralidad de Administraciones Públicas",
+      "una sola Administración Local",
+      "una Administración sin personalidad jurídica"
+    ],
+    "correcta": 1,
+    "explicación": "El tema afirma que hay una pluralidad de Administraciones con personalidad y competencias propias.",
+    "referencia": "I.4 · 1.1 Concepto y pluralidad"
+  },
+  {
+    "id": "t13-p002",
+    "tema": 4,
+    "pregunta": "¿Qué artículo de la Constitución recoge los principios de actuación de la Administración Pública?",
+    "opciones": [
+      "Art. 103.1 CE",
+      "Art. 106.1 CE",
+      "Art. 137 CE",
+      "Art. 149 CE"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reproduce literalmente el art. 103.1 CE.",
+    "referencia": "I.4 · 2.1 Los principios constitucionales"
+  },
+  {
+    "id": "t13-p003",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, la jerarquía opera:",
+    "opciones": [
+      "entre Administraciones distintas",
+      "dentro de una misma Administración y de una misma línea orgánica",
+      "solo entre órganos judiciales",
+      "solo entre Estado y CC.AA."
+    ],
+    "correcta": 1,
+    "explicación": "El tema precisa que no hay jerarquía entre Administraciones distintas.",
+    "referencia": "I.4 · 2.2.1 Jerarquía"
+  },
+  {
+    "id": "t13-p004",
+    "tema": 4,
+    "pregunta": "¿Qué técnica de organización supone transferencia de competencias entre personas jurídicas distintas?",
+    "opciones": [
+      "Descentralización",
+      "Desconcentración",
+      "Suplencia",
+      "Avocación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define la descentralización como transferencia entre entes territoriales distintos con personalidad propia.",
+    "referencia": "I.4 · 2.2.2 Descentralización"
+  },
+  {
+    "id": "t13-p005",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, la desconcentración supone transferencia de competencias:",
+    "opciones": [
+      "desde un órgano superior a otro inferior de la misma persona jurídica",
+      "del Estado a una Comunidad Autónoma",
+      "de un tribunal a otro",
+      "de la ley al reglamento"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la sitúa dentro de la misma Administración y persona jurídica.",
+    "referencia": "I.4 · 2.2.3 Desconcentración"
+  },
+  {
+    "id": "t13-p006",
+    "tema": 4,
+    "pregunta": "¿Qué principio del art. 3 LRJSP menciona como exigencia de actuación conjunta y no obstaculizadora?",
+    "opciones": [
+      "Lealtad institucional",
+      "Reserva de ley",
+      "Publicidad normativa",
+      "Primacía judicial"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye la lealtad institucional entre los principios adicionales del art. 3 LRJSP.",
+    "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP"
+  },
+  {
+    "id": "t13-p007",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, una unidad administrativa:",
+    "opciones": [
+      "tiene competencia propia atribuida por norma",
+      "es una estructura de apoyo sin competencia propia atribuida por norma",
+      "puede dictar leyes",
+      "sustituye al órgano administrativo"
+    ],
+    "correcta": 1,
+    "explicación": "El tema diferencia claramente órganos y unidades administrativas.",
+    "referencia": "I.4 · 2.4 Técnicas de organización"
+  },
+  {
+    "id": "t13-p008",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, la competencia administrativa es:",
+    "opciones": [
+      "el conjunto de facultades y potestades atribuidas a un órgano",
+      "una capacidad moral del funcionario",
+      "la suma de reglamentos aplicables",
+      "la condición de interesado en un procedimiento"
+    ],
+    "correcta": 0,
+    "explicación": "El tema define la competencia como el conjunto de facultades y potestades del órgano.",
+    "referencia": "I.4 · 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p009",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, la competencia es:",
+    "opciones": [
+      "renunciable por el órgano",
+      "irrenunciable e improrrogable",
+      "disponible por pacto entre órganos",
+      "delegable sin límites en cualquier caso"
+    ],
+    "correcta": 1,
+    "explicación": "El tema destaca que la competencia es irrenunciable e improrrogable.",
+    "referencia": "I.4 · 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p010",
+    "tema": 4,
+    "pregunta": "¿Cuál de las siguientes técnicas de alteración de la competencia implica solo la firma y no la competencia?",
+    "opciones": [
+      "Delegación",
+      "Avocación",
+      "Delegación de firma",
+      "Encomienda de gestión"
+    ],
+    "correcta": 2,
+    "explicación": "El tema define la delegación de firma como transferencia solo de la firma.",
+    "referencia": "I.4 · 2.5 La competencia administrativa"
+  },
+  {
+    "id": "t13-p011",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, la encomienda de gestión:",
+    "opciones": [
+      "Supone la cesión de la titularidad de la competencia y de su ejercicio al órgano encomendado",
+      "Permite encargar actividades materiales, técnicas o de servicios sin cesión de la titularidad ni de los elementos sustantivos del ejercicio de la competencia",
+      "Solo puede formalizarse entre órganos constitucionales del Estado y mediante norma con rango de ley",
+      "Equivale a una delegación de firma con efectos resolutorios plenos frente a terceros"
+    ],
+    "correcta": 1,
+    "explicación": "La encomienda de gestión no altera la titularidad de la competencia ni los elementos sustantivos de su ejercicio; solo desplaza la realización de actividades materiales, técnicas o de servicios.",
+    "referencia": "Ley 40/2015 · art. 11"
+  },
+  {
+    "id": "t13-p012",
+    "tema": 4,
+    "pregunta": "Según el art. 106 CE, ¿qué control judicial se prevé en relación con la Administración?",
+    "opciones": [
+      "Tribunales contencioso-administrativos",
+      "Tribunales militares",
+      "Tribunales de justicia de paz",
+      "Tribunal Constitucional exclusivamente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa el control de la actuación administrativa en la jurisdicción contencioso-administrativa.",
+    "referencia": "I.4 · 3.4 Control judicial de la Administración"
+  },
+  {
+    "id": "t13-p013",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, la autotutela administrativa está sometida a:",
+    "opciones": [
+      "los principios de proporcionalidad y necesidad",
+      "la voluntad de los particulares",
+      "la aprobación del Senado",
+      "el consentimiento judicial previo en todo caso"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica esos límites para la autotutela.",
+    "referencia": "I.4 · 3.5 La autotutela administrativa y sus límites"
+  },
+  {
+    "id": "t13-p014",
+    "tema": 4,
+    "pregunta": "¿Qué principio prohíbe la actuación caprichosa de los poderes públicos?",
+    "opciones": [
+      "Interdicción de la arbitrariedad",
+      "Supletoriedad normativa",
+      "Delegación legislativa",
+      "Convalidación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo vincula al art. 9.3 CE.",
+    "referencia": "I.4 · 3.6 La interdicción de la arbitrariedad"
+  },
+  {
+    "id": "t13-p015",
+    "tema": 4,
+    "pregunta": "En la organización administrativa, los principios adicionales del art. 3 LRJSP incluyen:",
+    "opciones": [
+      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, proporcionalidad y sostenibilidad",
+      "solo jerarquía y descentralización",
+      "únicamente la legalidad penal",
+      "solo la potestad sancionadora"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera varios de esos principios de actuación.",
+    "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP"
+  },
+  {
+    "id": "t13-p016",
+    "tema": 4,
+    "pregunta": "De acuerdo con el art. 103.1 CE, la Administración Pública actúa de acuerdo con los principios de:",
+    "opciones": [
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación",
+      "Publicidad, irretroactividad, seguridad jurídica y responsabilidad",
+      "Legalidad penal, tipicidad, culpabilidad y presunción de inocencia",
+      "Solidaridad, autonomía financiera, subsidiariedad y lealtad institucional"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 103.1 CE recoge expresamente esos principios de actuación administrativa.",
+    "referencia": "I.4 · 2.1 Los principios constitucionales (art. 103.1 CE)"
+  },
+  {
+    "id": "topup-04-01",
+    "pregunta": "La Administración pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios del artículo 103 CE, entre ellos:",
+    "opciones": [
+      "jerarquía, descentralización y coordinación",
+      "discrecionalidad absoluta y reserva de actuación",
+      "confidencialidad general y autotutela penal",
+      "libre designación universal de órganos"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 103 CE menciona eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
+    "referencia": "I.4 · Administración pública en el ordenamiento jurídico",
+    "tema": 4
+  },
+  {
+    "id": "burgos-i04-hard-01",
+    "tema": 4,
+    "pregunta": "¿Qué principio explica que la Administración solo pueda actuar cuando el ordenamiento le atribuye una potestad?",
+    "opciones": [
+      "Vinculación positiva a la ley",
+      "Autonomía de la voluntad",
+      "Libre disposición administrativa",
+      "Soberanía administrativa"
+    ],
+    "correcta": 0,
+    "explicación": "La Administración no actúa con libertad general como un particular: necesita habilitación normativa para ejercer potestades.",
+    "referencia": "Tema I.4, Administración pública en el ordenamiento jurídico"
+  },
+  {
+    "id": "burgos-i04-hard-02",
+    "tema": 4,
+    "pregunta": "¿Qué órgano representa al Gobierno del Estado en una Comunidad Autónoma?",
+    "opciones": [
+      "Delegado del Gobierno",
+      "Subdelegado del Gobierno",
+      "Presidente de la Comunidad Autónoma",
+      "Secretario de Estado"
+    ],
+    "correcta": 0,
+    "explicación": "El Delegado del Gobierno representa al Gobierno en el territorio de la Comunidad Autónoma.",
+    "referencia": "Tema I.4, Gobierno y Administración del Estado"
+  },
+  {
+    "id": "burgos-i04-hard-03",
+    "tema": 4,
+    "pregunta": "¿Cuál de estos NO es un principio del art. 103.1 CE expresamente asociado a la actuación administrativa?",
+    "opciones": [
+      "Primogenitura",
+      "Eficacia",
+      "Jerarquía",
+      "Coordinación"
+    ],
+    "correcta": 0,
+    "explicación": "La primogenitura pertenece al régimen sucesorio de la Corona, no a los principios de actuación administrativa del art. 103.1 CE.",
+    "referencia": "Tema I.4, Principios de actuación administrativa"
+  },
+  {
+    "id": "burgos-i04-hard-04",
+    "tema": 4,
+    "pregunta": "Según el art. 106 CE, ¿qué control prevé sobre la Administración?",
+    "opciones": [
+      "Control judicial de la potestad reglamentaria y de la legalidad de la actuación administrativa",
+      "Control exclusivo del Gobierno sobre los jueces",
+      "Control del Rey sobre todos los actos administrativos",
+      "Control del Senado sobre cada expediente administrativo"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 106 CE encomienda a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa.",
+    "referencia": "Tema I.4, Sometimiento de la Administración a la ley"
+  },
+  {
+    "id": "estado2026-i04-01",
+    "tema": 4,
+    "pregunta": "Según la Ley 40/2015, ¿a qué órgano corresponde desempeñar la jefatura superior de todo el personal del Departamento?",
+    "opciones": [
+      "A los Subsecretarios",
+      "A los Secretarios de Estado",
+      "A los Directores Generales",
+      "A los Subdirectores Generales"
+    ],
+    "correcta": 0,
+    "explicación": "La jefatura superior de todo el personal del Departamento corresponde a la Subsecretaría.",
+    "referencia": "Examen Estado 2026 modelo A, pregunta 8; Tema I.4, Administración del Estado",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-i04-02",
+    "tema": 4,
+    "pregunta": "Conforme al art. 107 CE, el supremo órgano consultivo del Gobierno es:",
+    "opciones": [
+      "El Consejo de Estado",
+      "El Tribunal Constitucional",
+      "El Consejo General del Poder Judicial",
+      "La Comisión General de Secretarios de Estado y Subsecretarios"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 107 CE define al Consejo de Estado como supremo órgano consultivo del Gobierno.",
+    "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.4, Gobierno y Administración",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-i04-03",
+    "tema": 4,
+    "pregunta": "¿Cuál de estos órganos pertenece a la organización central de la Administración General del Estado, no a la periférica?",
+    "opciones": [
+      "Subsecretario",
+      "Delegado del Gobierno",
+      "Subdelegado del Gobierno",
+      "Director Insular"
+    ],
+    "correcta": 0,
+    "explicación": "Los Subsecretarios forman parte de la organización central de los Departamentos ministeriales; Delegados, Subdelegados y Directores Insulares pertenecen a la organización periférica.",
+    "referencia": "Tema I.4, Administración General del Estado",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

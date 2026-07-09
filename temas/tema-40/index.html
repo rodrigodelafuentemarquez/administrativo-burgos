@@ -1,0 +1,697 @@
+<!DOCTYPE html><html lang="es" data-bs-theme="dark"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Astro v6.2.2"><meta name="theme-color" content="#712cf9"><link rel="manifest" href="/administrativo-burgos/manifest.webmanifest"><link rel="icon" href="/administrativo-burgos/favicon.ico" sizes="any"><link rel="icon" href="/administrativo-burgos/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/administrativo-burgos/icons/icon-192.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous"><title>Tema 40 - La Red Internet: origen, evolución y estado actual. Conceptos elementales sobre protocolos y servicios en Internet. Funcionalidades básicas de los navegadores web.</title><link rel="stylesheet" href="/administrativo-burgos/_astro/Layout.BKXYEglG.css"></head> <body> <header class="navbar navbar-expand-lg bd-navbar sticky-top"> <nav class="container-xxl flex-wrap flex-lg-nowrap" aria-label="Navegacion principal"> <div class="d-flex align-items-center"> <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal" aria-label="Abrir navegacion"> <span class="navbar-toggler-icon"></span> </button> <a class="bd-brand d-inline-flex align-items-center p-0 me-lg-3" href="/administrativo-burgos/" aria-label="Administrativo Burgos"> <span class="bd-brand-mark"><img src="/administrativo-burgos/favicon.png" alt=""></span> <span>Administrativo Burgos</span> </a> </div> <div class="d-flex align-items-center gap-2 ms-lg-auto"> <ul class="navbar-nav flex-row flex-wrap d-none d-lg-flex"> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/">Inicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/convocatoria">Convocatoria</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/planning">Planning</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/test">Tests</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/glosario">Glosario</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/practico">2º ejercicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/desarrollo">3º ejercicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/progreso">Progreso</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/dudosas">Dudosas</a></li> </ul> <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas" aria-label="Abrir temas">
+Temas
+</button> </div> </nav> </header> <div class="offcanvas offcanvas-start" tabindex="-1" id="menuPrincipal" aria-labelledby="menuPrincipalLabel"> <div class="offcanvas-header"> <h5 id="menuPrincipalLabel" class="offcanvas-title">Estudio</h5> <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button> </div> <div class="offcanvas-body"> <nav class="bd-links-nav"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong> <a class="bd-links-link rounded " href="/administrativo-burgos/">Inicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/convocatoria">Seguimiento oficial</a> <a class="bd-links-link rounded " href="/administrativo-burgos/planning">Planning</a> <a class="bd-links-link rounded " href="/administrativo-burgos/test">Hacer test</a> <a class="bd-links-link rounded " href="/administrativo-burgos/glosario">Glosario global</a> <a class="bd-links-link rounded " href="/administrativo-burgos/practico">Segundo ejercicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/desarrollo">Tercer ejercicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/progreso">Progreso</a> <a class="bd-links-link rounded " href="/administrativo-burgos/dudosas">Preguntas dudosas</a> <a class="bd-links-link rounded " href="/administrativo-burgos/fallos">Repetir fallos</a> </nav> </div> </div> <div class="offcanvas offcanvas-end" tabindex="-1" id="menuTemas" aria-labelledby="menuTemasLabel"> <div class="offcanvas-header"> <h5 id="menuTemasLabel" class="offcanvas-title">Temas</h5> <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button> </div> <div class="offcanvas-body"> <nav class="bd-links-nav theme-list" aria-label="Listado de temas"> <a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-01"> Tema I.1: La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-02"> Tema I.2: La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-03"> Tema I.3: La Constitución Española (III): la organización territorial del Estado español. Las comunidades autónomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autónomas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-04"> Tema I.4: El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Español. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-05"> Tema I.5: Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-06"> Tema I.6: El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-07"> Tema I.7: La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaría General. La Intervención General. El órgano de Gestión Tributaria. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-08"> Tema I.8: La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-09"> Tema I.9: La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-01"> Tema II.1: Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-02"> Tema II.2: El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-03"> Tema II.3: El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-04"> Tema II.4: La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-05"> Tema II.5: El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-06"> Tema II.6: La responsabilidad de la administración pública: caracteres. Los presupuestos de la responsabilidad. Daños resarcibles. La acción de responsabilidad. Especialidades del procedimiento administrativo en materia de responsabilidad. La responsabilidad patrimonial de las autoridades y personal al servicio de las administraciones públicas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-07"> Tema II.7: Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-08"> Tema II.8: La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-09"> Tema II.9: Los bienes de las entidades locales: concepto, clases. Bienes de dominio público local. Bienes patrimoniales locales, enajenación, cesión y utilización. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-10"> Tema II.10: Las formas de actividad administrativa. El servicio público. Concepto. Evolución y crisis. Las formas de gestión de los servicios públicos. La remunicipalización de los servicios públicos. La iniciativa económica pública y los servicios públicos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-11"> Tema II.11: Funcionamiento de los órganos colegiados locales. Convocatorias y orden del día. Requisitos para su constitución. Votaciones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-12"> Tema II.12: Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboración y aprobación. Los bandos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-01"> Tema III.1: El personal al servicio de las entidades locales: clases y régimen jurídico. Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-02"> Tema III.2: Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-03"> Tema III.3: El personal laboral al servicio de las administraciones públicas. Selección. Derechos, deberes e incompatibilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-04"> Tema III.4: El derecho de sindicación y de huelga. Régimen de incompatibilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-05"> Tema III.5: El texto refundido de la Ley General de la Seguridad Social: disposiciones generales sobre el campo de aplicación y estructura del sistema de la Seguridad Social. Acción protectora: disposiciones generales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-01"> Tema IV.1: Los tributos locales: principios. La potestad reglamentaria de las entidades locales en materia tributaria: contenido de las ordenanzas fiscales, tramitación y régimen de impugnación de los actos de imposición y ordenación de tributos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-02"> Tema IV.2: El presupuesto: concepto. Los principios presupuestarios. Los créditos presupuestarios: clasificación. Gastos plurianuales. Las modificaciones presupuestarias: créditos extraordinarios y suplementos de crédito. Ampliaciones de crédito. Generaciones de crédito. Transferencias de crédito. Incorporaciones de crédito. Anticipos de Tesorería. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-03"> Tema IV.3: El procedimiento administrativo de ejecución del presupuesto de gasto. Organos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenación del pago: concepto y competencia. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-04"> Tema IV.4: El control del gasto público. El control interno: la función interventora y el control financiero. El control externo realizado por el Tribunal de Cuentas, el Consejo de Cuentas de Castilla y León y las Cortes de Castilla y León. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-05"> Tema IV.5: Régimen urbanístico de la propiedad del suelo. Principios. Clasificación y calificación del suelo. Competencia urbanística municipal. Intervención administrativa en la edificación y uso del suelo. La licencia urbanística. Protección de la legalidad urbanística. Infracciones y sanciones urbanísticas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-01"> Tema V.1: La Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva entre Mujeres y Hombres. Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. Ley 4/2023, de 28 de febrero, para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI. Objeto y principios rectores. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-02"> Tema V.2: La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-03"> Tema V.3: Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-04"> Tema V.4: Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-05"> Tema V.5: La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: objeto y ámbito de aplicación. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempeñar. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-06"> Tema V.6: La protección de datos personales y su régimen jurídico: principios, derechos, responsable y encargado del tratamiento, delegado y autoridades de protección de datos. Derechos digitales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-07"> Tema V.7: Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-08"> Tema V.8: El concepto de documento. Formación del expediente. El expediente electrónico. El archivo de los documentos administrativos. Clases de archivos y criterios de ordenación. Archivo electrónico de documentos. El acceso a los documentos administrativos: sus limitaciones y formas de acceso. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-09"> Tema V.9: Informática básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-10"> Tema V.10: Sistemas ofimáticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de cálculo: Excel para Microsoft 365. Funciones y utilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-11"> Tema V.11: Correo electrónico: conceptos elementales y funcionamiento. La red Internet: conceptos elementales y servicios. </a> </nav> </div> </div> <div class="bd-layout has-toc"> <aside class="bd-sidebar"> <nav class="bd-links-nav"> <ul class="list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2"> <li class="bd-links-group py-2"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong> <ul class="list-unstyled fw-normal pb-2 small"> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/">Inicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/convocatoria">Seguimiento oficial</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/planning">Planning</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/test">Hacer test</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/glosario">Glosario global</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/practico">Segundo ejercicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/desarrollo">Tercer ejercicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/progreso">Progreso</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/dudosas">Preguntas dudosas</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/fallos">Repetir fallos</a></li> </ul> </li> <li class="bd-links-group py-2"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Temario</strong> <ul class="list-unstyled fw-normal pb-2 small"> <li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-01"> Tema I.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-02"> Tema I.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-03"> Tema I.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-04"> Tema I.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-05"> Tema I.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-06"> Tema I.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-07"> Tema I.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-08"> Tema I.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-09"> Tema I.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-01"> Tema II.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-02"> Tema II.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-03"> Tema II.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-04"> Tema II.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-05"> Tema II.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-06"> Tema II.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-07"> Tema II.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-08"> Tema II.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-09"> Tema II.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-10"> Tema II.10 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-11"> Tema II.11 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-12"> Tema II.12 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-01"> Tema III.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-02"> Tema III.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-03"> Tema III.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-04"> Tema III.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-05"> Tema III.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-01"> Tema IV.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-02"> Tema IV.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-03"> Tema IV.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-04"> Tema IV.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-05"> Tema IV.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-01"> Tema V.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-02"> Tema V.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-03"> Tema V.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-04"> Tema V.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-05"> Tema V.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-06"> Tema V.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-07"> Tema V.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-08"> Tema V.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-09"> Tema V.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-10"> Tema V.10 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-11"> Tema V.11 </a> </li> </ul> </li> </ul> </nav> </aside> <main class="bd-main has-toc"> <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary"> <strong class="d-block mb-2">En esta página</strong> <nav aria-label="Contenido de esta página"> <ul> <li class> <a href="#1-origen-y-evolución-de-internet">1. ORIGEN Y EVOLUCIÓN DE INTERNET</a> </li><li class="ms-3"> <a href="#11-los-orígenes-arpanet-1969">1.1 Los orígenes: ARPANET (1969)</a> </li><li class="ms-3"> <a href="#12-los-protocolos-tcpip-1974-1983">1.2 Los protocolos TCP/IP (1974-1983)</a> </li><li class="ms-3"> <a href="#13-la-world-wide-web-y-la-expansión-civil-1991">1.3 La World Wide Web y la expansión civil (1991)</a> </li><li class="ms-3"> <a href="#14-la-expansión-de-los-años-90-y-la-burbuja-com">1.4 La expansión de los años 90 y la burbuja .com</a> </li><li class="ms-3"> <a href="#15-la-web-20-y-las-redes-sociales-2004-en-adelante">1.5 La Web 2.0 y las redes sociales (2004 en adelante)</a> </li><li class="ms-3"> <a href="#16-la-web-móvil-y-el-iot-2007-en-adelante">1.6 La Web Móvil y el IoT (2007 en adelante)</a> </li><li class="ms-3"> <a href="#17-estado-actual">1.7 Estado actual</a> </li><li class> <a href="#2-conceptos-elementales-sobre-protocolos-y-servicios-en-internet">2. CONCEPTOS ELEMENTALES SOBRE PROTOCOLOS Y SERVICIOS EN INTERNET</a> </li><li class="ms-3"> <a href="#21-qué-es-un-protocolo-de-red">2.1 Qué es un protocolo de red</a> </li><li class="ms-3"> <a href="#22-el-protocolo-tcpip">2.2 El protocolo TCP/IP</a> </li><li class="ms-3"> <a href="#23-el-sistema-de-nombres-de-dominio-dns">2.3 El Sistema de Nombres de Dominio (DNS)</a> </li> </ul> </nav> </div>  <div class="bd-intro ps-lg-2"> <h1 class="bd-title">Tema 40</h1> <p class="bd-subtitle mb-0">La Red Internet: origen, evolución y estado actual. Conceptos elementales sobre protocolos y servicios en Internet. Funcionalidades básicas de los navegadores web.</p> </div> <div class="bd-content tema-content ps-lg-2"> <blockquote>
+<p><strong>Referencia del programa:</strong> Adams <mark class="study-mark study-mark-date">2026</mark>. Versión de referencia: navegadores actuales (Microsoft Edge, Google Chrome, Mozilla Firefox).</p>
+</blockquote>
+<hr>
+<h2 id="1-origen-y-evolución-de-internet">1. ORIGEN Y EVOLUCIÓN DE <mark class="study-mark study-mark-key">INTERNET</mark><a class="anchor-link" aria-label="Enlace a esta seccion" href="#1-origen-y-evolución-de-internet"><span class="icon icon-link"></span></a></h2>
+<h3 id="11-los-orígenes-arpanet-1969">1.1 Los orígenes: ARPANET (<mark class="study-mark study-mark-date">1969</mark>)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#11-los-orígenes-arpanet-1969"><span class="icon icon-link"></span></a></h3>
+<p><mark class="study-mark study-mark-key">Internet</mark> tiene su origen en <strong>ARPANET</strong> (Advanced Research Projects Agency Network), la red desarrollada por el Departamento de Defensa de los Estados Unidos a finales de los años 60. ARPANET fue la primera red de ordenadores que utilizó la <strong>conmutación de paquetes</strong> (técnica que divide la información en pequeños fragmentos llamados paquetes, que se transmiten de forma independiente y se reensamblan en el destino), en lugar de la conmutación de circuitos utilizada en la telefonía tradicional.</p>
+<p>La primera conexión de ARPANET se estableció el <strong><mark class="study-mark study-mark-date">29 de octubre de 1969</mark></strong> entre la Universidad de California en Los Ángeles (UCLA) y el Stanford Research Institute. El mensaje que se intentó enviar fue «login», pero el sistema se bloqueó tras las dos primeras letras: la primera comunicación real de <mark class="study-mark study-mark-key">internet</mark> fue, literalmente, «lo».</p>
+<h3 id="12-los-protocolos-tcpip-1974-1983">1.2 Los protocolos TCP/IP (<mark class="study-mark study-mark-date">1974</mark>-<mark class="study-mark study-mark-date">1983</mark>)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#12-los-protocolos-tcpip-1974-1983"><span class="icon icon-link"></span></a></h3>
+<p>El gran salto hacia la <mark class="study-mark study-mark-key">internet</mark> moderna se produjo con el desarrollo del protocolo <strong>TCP/IP</strong> (Transmissión Control Protocol / <mark class="study-mark study-mark-key">Internet</mark> Protocol) por Vinton Cerf y Robert Kahn, publicado en <mark class="study-mark study-mark-date">1974</mark> y adoptado como estándar de ARPANET en <strong><mark class="study-mark study-mark-date">1983</mark></strong>. TCP/IP resolvió el problema de la interoperabilidad: permitió que redes distintas, con tecnologías diferentes, pudieran comunicarse entre sí siguiendo un protocolo común. Por eso se considera a Cerf y Kahn los «padres de <mark class="study-mark study-mark-key">internet</mark>».</p>
+<h3 id="13-la-world-wide-web-y-la-expansión-civil-1991">1.3 La World Wide Web y la expansión civil (<mark class="study-mark study-mark-date">1991</mark>)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#13-la-world-wide-web-y-la-expansión-civil-1991"><span class="icon icon-link"></span></a></h3>
+<p><mark class="study-mark study-mark-key">Internet</mark> era hasta finales de los años 80 una red de uso fundamentalmente académico y militar. El salto a la sociedad civil se produjo con la invención de la <strong>World Wide Web (WWW)</strong> por <strong>Tim Berners-Lee</strong>, investigador del CERN (Ginebra), en <strong><mark class="study-mark study-mark-date">1991</mark></strong>.</p>
+<p>Berners-Lee ideó un sistema de documentos de hipertexto interconectados mediante enlaces (<strong>hipervínculos</strong>), accesibles a través de <mark class="study-mark study-mark-key">internet</mark> mediante un protocolo específico (HTTP) y visualizados en un programa llamado <strong>navegador web</strong> (browser). La primera página web de la historia se publicó en agosto de <mark class="study-mark study-mark-date">1991</mark> en el servidor del CERN.</p>
+<p>En <mark class="study-mark study-mark-date">1993</mark>, el navegador <strong>Mosaic</strong> (desarrollado por el NCSA) popularizó la web al ser el primero en mostrar imágenes junto al texto, haciendo la experiencia visual y accesible para el público general. Le siguieron <strong>Netscape Navigator</strong> (<mark class="study-mark study-mark-date">1994</mark>), <strong><mark class="study-mark study-mark-key">Internet</mark> Explorer</strong> (<mark class="study-mark study-mark-date">1995</mark>) y otros.</p>
+<h3 id="14-la-expansión-de-los-años-90-y-la-burbuja-com">1.4 La expansión de los años 90 y la burbuja .com<a class="anchor-link" aria-label="Enlace a esta seccion" href="#14-la-expansión-de-los-años-90-y-la-burbuja-com"><span class="icon icon-link"></span></a></h3>
+<p>Durante la segunda mitad de los años 90 se produjo una expansión explosiva de <mark class="study-mark study-mark-key">internet</mark>: aparecieron los primeros buscadores (Yahoo!, AltaVista, Google en <mark class="study-mark study-mark-date">1998</mark>), el comercio electrónico (Amazon en <mark class="study-mark study-mark-date">1994</mark>, eBay en <mark class="study-mark study-mark-date">1995</mark>), el correo electrónico comercial y los primeros portales web. Este período terminó con el estallido de la <strong>burbuja punto com</strong> en <mark class="study-mark study-mark-date">2000</mark>-<mark class="study-mark study-mark-date">2001</mark>, cuando muchas empresas de <mark class="study-mark study-mark-key">internet</mark> sin modelo de negocio sostenible quebraron.</p>
+<h3 id="15-la-web-20-y-las-redes-sociales-2004-en-adelante">1.5 La Web 2.0 y las redes sociales (<mark class="study-mark study-mark-date">2004</mark> en adelante)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#15-la-web-20-y-las-redes-sociales-2004-en-adelante"><span class="icon icon-link"></span></a></h3>
+<p>El concepto de <strong>Web 2.0</strong> (término popularizado en <mark class="study-mark study-mark-date">2004</mark>) describe la evolución de la web hacia la <strong>participación activa de los usuarios</strong>: en lugar de ser solo consumidores de contenido, los usuarios pasan a ser también productores. Surgen los blogs, las wikis (Wikipedia, <mark class="study-mark study-mark-date">2001</mark>), las redes sociales (Facebook <mark class="study-mark study-mark-date">2004</mark>, Twitter <mark class="study-mark study-mark-date">2006</mark>, YouTube <mark class="study-mark study-mark-date">2005</mark>, Instagram <mark class="study-mark study-mark-date">2010</mark>) y los servicios en la nube.</p>
+<h3 id="16-la-web-móvil-y-el-iot-2007-en-adelante">1.6 La Web Móvil y el IoT (<mark class="study-mark study-mark-date">2007</mark> en adelante)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#16-la-web-móvil-y-el-iot-2007-en-adelante"><span class="icon icon-link"></span></a></h3>
+<p>El lanzamiento del <strong>iPhone</strong> en <mark class="study-mark study-mark-date">2007</mark> y la expansión de los smartphones transformaron el acceso a <mark class="study-mark study-mark-key">internet</mark>: por primera vez más de la mitad del tráfico web proviene de dispositivos móviles. Paralelamente, el <strong><mark class="study-mark study-mark-key">Internet</mark> de las cosas (IoT)</strong> conecta a <mark class="study-mark study-mark-key">internet</mark> dispositivos cotidianos (electrodomésticos, sensores, wearables, vehículos), ampliando la red más allá de los ordenadores tradicionales.</p>
+<h3 id="17-estado-actual">1.7 <mark class="study-mark study-mark-key">Estado</mark> actual<a class="anchor-link" aria-label="Enlace a esta seccion" href="#17-estado-actual"><span class="icon icon-link"></span></a></h3>
+<p>En la actualidad, <mark class="study-mark study-mark-key">internet</mark> es una infraestructura global que conecta a más de <strong>5.000 millones de usuarios</strong> en todo el mundo. Sus carácterísticas actuales son:</p>
+<ul>
+<li><strong>Ubicuidad:</strong> accesible desde smartphones, tabletas, ordenadores, televisores y todo tipo de dispositivos.</li>
+<li><strong>Velocidad:</strong> las conexiones de banda ancha (fibra óptica) alcanzan velocidades de 1 Gbps o más; las redes móviles 5G superan los 100 Mbps.</li>
+<li><strong>Servicios en la nube:</strong> el almacenamiento, el procesamiento y las aplicaciones se trasladan progresivamente a servidores remotos.</li>
+<li><strong>Inteligencia artificial:</strong> los motores de búsqueda, los asistentes virtuales, la personalización de contenidos y los servicios de traducción están impulsados por IA.</li>
+<li><strong>Ciberseguridad:</strong> la creciente dependencia de <mark class="study-mark study-mark-key">internet</mark> ha convertido la seguridad en una prioridad global.</li>
+<li><strong>Regulación:</strong> la Unión Europea lidera la regulación de <mark class="study-mark study-mark-key">internet</mark> con normas como el RGPD (privacidad), la DSA (servicios digitales) y la DMA (mercados digitales).</li>
+</ul>
+<hr>
+<h2 id="2-conceptos-elementales-sobre-protocolos-y-servicios-en-internet">2. CONCEPTOS ELEMENTALES SOBRE PROTOCOLOS Y SERVICIOS EN <mark class="study-mark study-mark-key">INTERNET</mark><a class="anchor-link" aria-label="Enlace a esta seccion" href="#2-conceptos-elementales-sobre-protocolos-y-servicios-en-internet"><span class="icon icon-link"></span></a></h2>
+<h3 id="21-qué-es-un-protocolo-de-red">2.1 Qué es un protocolo de red<a class="anchor-link" aria-label="Enlace a esta seccion" href="#21-qué-es-un-protocolo-de-red"><span class="icon icon-link"></span></a></h3>
+<p>Un <strong>protocolo de red</strong> es un conjunto de reglas y estándares que definen cómo se comunican los dispositivos en una red: el formato de los mensajes, el orden en que se intercambian, cómo se gestionan los errores y cómo se establece y cierra una conexión. Los protocolos permiten que equipos de fabricantes distintos, con sistemas operativos diferentes, puedan comunicarse sin problemas.</p>
+<p>Los protocolos de <mark class="study-mark study-mark-key">internet</mark> se organizan en capas (modelo OSI o modelo TCP/IP), de forma que cada capa se encarga de una función específica y proporciona servicios a la capa superior.</p>
+<h3 id="22-el-protocolo-tcpip">2.2 El protocolo TCP/IP<a class="anchor-link" aria-label="Enlace a esta seccion" href="#22-el-protocolo-tcpip"><span class="icon icon-link"></span></a></h3>
+<p><strong>TCP/IP</strong> es el protocolo fundamental de <mark class="study-mark study-mark-key">internet</mark>, en realidad una suite (conjunto) de protocolos que trabajan juntos:</p>
+<p><strong>IP (<mark class="study-mark study-mark-key">Internet</mark> Protocol):</strong> se encarga del <strong>direccionamiento</strong> y el <strong>enrutamiento</strong> de los paquetes de datos. Cada dispositivo conectado a <mark class="study-mark study-mark-key">internet</mark> tiene asignada una <strong>dirección IP</strong> (<mark class="study-mark study-mark-key">Internet</mark> Protocol Address) que lo identifica de forma única en la red.</p>
+<ul>
+<li><strong>IPv4:</strong> dirección de 32 bits, expresada en cuatro grupos de números decimales separados por puntos (ej. 192.168.1.1). Permite algo más de 4.000 millones de direcciones únicas, insuficiente para el número actual de dispositivos.</li>
+<li><strong>IPv6:</strong> dirección de 128 bits, expresada en ocho grupos de cuatro dígitos hexadecimales separados por dos puntos (ej. <mark class="study-mark study-mark-date">2001</mark>:0db8:85a3:<mark class="study-mark study-mark-date">0000</mark>:<mark class="study-mark study-mark-date">0000</mark>:8a2e:<mark class="study-mark study-mark-date">0370</mark>:<mark class="study-mark study-mark-date">7334</mark>). Prácticamente ilimitada en número de direcciones.</li>
+</ul>
+<p><strong>TCP (Transmissión Control Protocol):</strong> se encarga de la <strong>transmisión fiable</strong> de los datos. Divide los datos en paquetes, garantiza que todos llegan al destino, los reordena si llegan desordenados y solicita la retransmisión de los que se pierden.</p>
+<p><strong>UDP (User Datagram Protocol):</strong> alternativa a TCP para aplicaciones que priorizan la velocidad sobre la fiabilidad (videollamadas, streaming, juegos online): envía los paquetes sin garantizar su entrega ni su orden.</p>
+<h3 id="23-el-sistema-de-nombres-de-dominio-dns">2.3 El Sistema de Nombres de Dominio (DNS)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#23-el-sistema-de-nombres-de-dominio-dns"><span class="icon icon-link"></span></a></h3>
+<p>Las personas recordamos las direcciones web por su nombre (<a href="http://www.diputaciondeburgos.es">www.diputaciondeburgos.es</a>), no por su dirección IP (un número como 85.32.149.5). El <strong>DNS</strong> (Domain Name System — Sistema de Nombres de Dominio) es el sistema que traduce los nombres de dominio en direcciones IP.</p>
+<p>Cuándo el usuario escribe una URL en el navegador, este consulta al servidor DNS para obtener la dirección IP correspondiente y poder conectarse al servidor web. El DNS funciona como una agenda telefónica distribuida de <mark class="study-mark study-mark-key">internet</mark>.</p>
+<p><strong>Estructura de un nombre de dominio:</strong></p>
+<p>Un nombre de dominio se lee de derecha a izquierda, en niveles jerárquicos:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Parte</th><th>Ejemplo</th><th>Significado</th></tr></thead><tbody><tr><td><strong>Dominio de nivel superior (TLD)</strong></td><td>.es / .com / .org / .gov / .eu</td><td>Tipo de entidad o país</td></tr><tr><td><strong>Dominio de segundo nivel</strong></td><td>diputaciondeburgos</td><td>Nombre de la organización</td></tr><tr><td><strong>Subdominio</strong></td><td>www / correo / sede</td><td>Servicio específico</td></tr></tbody></table>
+<p>La URL completa sería: <a href="https://sede.diputaciondeburgos.es">https://sede.diputaciondeburgos.es</a></p>
+<p><strong>TLD más habituales:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>TLD</th><th>Uso</th></tr></thead><tbody><tr><td><strong>.com</strong></td><td>Organizaciones comerciales (uso generalizado)</td></tr><tr><td><strong>.org</strong></td><td>Organizaciones sin ánimo de lucro</td></tr><tr><td><strong>.net</strong></td><td>Redes e infraestructuras</td></tr><tr><td><strong>.gov</strong></td><td>Administración pública de EEUU</td></tr><tr><td><strong>.gob.es</strong></td><td>Administración pública española</td></tr><tr><td><strong>.es</strong></td><td>Dominio de España</td></tr><tr><td><strong>.eu</strong></td><td>Unión Europea</td></tr><tr><td><strong>.edu</strong></td><td>Instituciones educativas (EEUU)</td></tr></tbody></table>
+<h3 id="24-protocolo-http-y-https">2.4 Protocolo HTTP y <mark class="study-mark study-mark-key">HTTPS</mark><a class="anchor-link" aria-label="Enlace a esta seccion" href="#24-protocolo-http-y-https"><span class="icon icon-link"></span></a></h3>
+<p><strong>HTTP</strong> (HyperText Transfer Protocol) es el protocolo que define cómo se comunican el navegador web del usuario (cliente) y el servidor web donde está alojada la página que se quiere consultar. Funciona mediante un modelo de petición-respuesta:</p>
+<ol>
+<li>El navegador envía una <strong>petición HTTP</strong> al servidor (GET, POST, etc.).</li>
+<li>El servidor responde con un <strong>código de <mark class="study-mark study-mark-key">estado</mark></strong> y el contenido solicitado (la página HTML, la imagen, etc.).</li>
+</ol>
+<p><strong>Códigos de <mark class="study-mark study-mark-key">estado</mark> HTTP más habituales:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Código</th><th>Significado</th></tr></thead><tbody><tr><td><strong>200 OK</strong></td><td>La petición se ha completado correctamente</td></tr><tr><td><strong>301 / 302</strong></td><td>Redirección permanente / temporal a otra URL</td></tr><tr><td><strong>400 Bad Request</strong></td><td>La petición del cliente es incorrecta</td></tr><tr><td><strong>401 Unauthorized</strong></td><td>Se requiere autenticación</td></tr><tr><td><strong>403 Forbidden</strong></td><td>El servidor rechaza la petición (acceso denegado)</td></tr><tr><td><strong>404 Not Found</strong></td><td>El recurso solicitado no existe en el servidor</td></tr><tr><td><strong>500 Internal Server Error</strong></td><td>Error en el servidor</td></tr></tbody></table>
+<p><strong><mark class="study-mark study-mark-key">HTTPS</mark></strong> (HTTP Secure) es la versión segura del protocolo HTTP: añade una capa de <strong>cifrado SSL/TLS</strong> que protege la comunicación entre el navegador y el servidor, garantizando la <strong>confidencialidad</strong> (nadie puede interceptar los datos en tránsito), la <strong>integridad</strong> (los datos no pueden modificarse durante la transmisión) y la <strong>autenticidad</strong> (el certificado SSL garantiza que el servidor es quien dice ser).</p>
+<p>Se identifica por el <strong>prefijo <mark class="study-mark study-mark-key">https</mark>://</strong> en la URL y por el <strong>icono de candado</strong> en la barra de direcciones del navegador. Es obligatorio para cualquier web que maneje datos personales o transacciones económicas. Las sedes electrónicas de las Administraciones Públicas deben usar siempre <mark class="study-mark study-mark-key">HTTPS</mark>.</p>
+<h3 id="25-otros-protocolos-y-servicios-de-internet">2.5 Otros protocolos y servicios de <mark class="study-mark study-mark-key">internet</mark><a class="anchor-link" aria-label="Enlace a esta seccion" href="#25-otros-protocolos-y-servicios-de-internet"><span class="icon icon-link"></span></a></h3>
+<h4 id="251-correo-electrónico">2.5.1 Correo electrónico<a class="anchor-link" aria-label="Enlace a esta seccion" href="#251-correo-electrónico"><span class="icon icon-link"></span></a></h4>
+<p>El correo electrónico utiliza varios protocolos complementarios:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Protocolo</th><th>Función</th></tr></thead><tbody><tr><td><strong>SMTP</strong> (Simple Mail Transfer Protocol)</td><td>Protocolo para el <strong>envío</strong> de correos electrónicos desde el cliente al servidor de correo y entre servidores</td></tr><tr><td><strong>POP3</strong> (Post Office Protocol v3)</td><td>Protocolo para <strong>recibir</strong> correos: descarga los mensajes del servidor al cliente y (por defecto) los elimina del servidor</td></tr><tr><td><strong>IMAP</strong> (<mark class="study-mark study-mark-key">Internet</mark> Message Access Protocol)</td><td>Protocolo para <strong>acceder</strong> a los correos: los mensajes permanecen en el servidor y el cliente los consulta remotamente; permite acceso desde múltiples dispositivos</td></tr></tbody></table>
+<p>En el entorno actual, <strong>IMAP</strong> ha desplazado a POP3 porque permite sincronizar el correo entre varios dispositivos (ordenador, smartphone, tablet), lo que es fundamental en el entorno de trabajo moderno.</p>
+<h4 id="252-ftp">2.5.2 FTP<a class="anchor-link" aria-label="Enlace a esta seccion" href="#252-ftp"><span class="icon icon-link"></span></a></h4>
+<p><strong>FTP</strong> (File Transfer Protocol) es el protocolo para la <strong>transferencia de archivos</strong> entre sistemas en una red. Permite subir y descargar archivos a un servidor remoto. Su variante segura es <strong>FTPS</strong> (FTP Secure, con cifrado SSL/TLS) o <strong>SFTP</strong> (SSH File Transfer Protocol, que usa el protocolo SSH para el cifrado).</p>
+<p>En el entorno de las Administraciones Públicas, FTP/SFTP se utiliza para intercambiar grandes volúmenes de archivos con otras entidades o para subir actualizaciones a servidores web.</p>
+<h4 id="253-vpn">2.5.3 VPN<a class="anchor-link" aria-label="Enlace a esta seccion" href="#253-vpn"><span class="icon icon-link"></span></a></h4>
+<p>Una <strong>VPN</strong> (Virtual Private Network — Red Privada Virtual) es una conexión cifrada que se establece a través de <mark class="study-mark study-mark-key">internet</mark> entre el dispositivo del usuario y un servidor VPN, creando un túnel seguro que protege el tráfico de datos. Permite:</p>
+<ul>
+<li>Acceder de forma segura a la red interna de una organización desde el exterior (teletrabajo).</li>
+<li>Proteger la conexión cuando se usa una red Wi-Fi pública.</li>
+<li>Ocultar la dirección IP real del usuario.</li>
+</ul>
+<p>En las Administraciones Públicas, las VPN son la solución habitual para el acceso remoto seguro de los empleados públicos en situaciones de teletrabajo.</p>
+<h4 id="254-wi-fi-y-otras-formas-de-conexión-a-internet">2.5.4 Wi-Fi y otras formas de conexión a <mark class="study-mark study-mark-key">internet</mark><a class="anchor-link" aria-label="Enlace a esta seccion" href="#254-wi-fi-y-otras-formas-de-conexión-a-internet"><span class="icon icon-link"></span></a></h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tecnología</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>ADSL</strong></td><td>Conexión a <mark class="study-mark study-mark-key">internet</mark> a través de la línea telefónica convencional; velocidades de hasta 20-50 Mbps</td></tr><tr><td><strong>Fibra óptica</strong></td><td>Conexión a través de cable de fibra óptica; velocidades de 100 Mbps a 10 Gbps; la más extendida actualmente</td></tr><tr><td><strong>Wi-Fi</strong></td><td>Conexión inalámbrica de área local (LAN); los equipos se conectan al router mediante ondas de radio. Estándares: Wi-Fi 5 (802.11ac) y Wi-Fi 6 (802.11ax)</td></tr><tr><td><strong>4G / 5G</strong></td><td>Redes móviles de cuarta y quinta generación; 5G supera los 100 Mbps y reduce la latencia por debajo de 1 ms</td></tr><tr><td><strong>Ethernet</strong></td><td>Conexión por cable de red (RJ-45); muy estable y rápida, habitual en entornos de oficina</td></tr></tbody></table>
+<h4 id="255-la-dirección-url">2.5.5 La dirección URL<a class="anchor-link" aria-label="Enlace a esta seccion" href="#255-la-dirección-url"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>URL</strong> (Uniform Resource Locator — Localizador Uniforme de Recursos) es la dirección completa que identifica un recurso en <mark class="study-mark study-mark-key">internet</mark>. Su estructura es:</p>
+<div class="study-list study-list-summary">
+<ul>
+  <li><code>https://sede.diputaciondeburgos.es/carpeta/página.html</code>
+    <ul>
+      <li><strong>Protocolo:</strong> <code>https://</code></li>
+      <li><strong>Nombre de dominio:</strong> <code>sede.diputaciondeburgos.es</code></li>
+      <li><strong>Directorio:</strong> <code>/carpeta/</code></li>
+      <li><strong>Ruta del recurso:</strong> <code>página.html</code></li>
+    </ul></li>
+</ul>
+</div>
+<p>Partes de una URL:</p>
+<ul>
+<li><strong>Protocolo:</strong> <mark class="study-mark study-mark-key">https</mark>://, http://, ftp://, etc.</li>
+<li><strong>Nombre de host / dominio:</strong> la dirección del servidor (<a href="http://www.ejemplo.es">www.ejemplo.es</a>).</li>
+<li><strong>Ruta:</strong> la ubicación del recurso en el servidor (/carpeta/pagina.html).</li>
+<li><strong>Parámetros</strong> (opcional): información adicional enviada al servidor (?id=123&#x26;categoria=noticias).</li>
+<li><strong>Ancla o fragmento</strong> (opcional): referencia a una sección específica de la página (#seccion2).</li>
+</ul>
+<h3 id="26-la-nube-cloud-computing">2.6 La Nube (Cloud Computing)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#26-la-nube-cloud-computing"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>computación en la nube</strong> (cloud computing) es el modelo de prestación de servicios informáticos (almacenamiento, servidores, software, bases de datos, redes) a través de <mark class="study-mark study-mark-key">internet</mark>, con facturación por uso.</p>
+<p>Los tres modelos principales de servicio en la nube son:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Modelo</th><th>Significado</th><th>Ejemplos</th></tr></thead><tbody><tr><td><strong>IaaS</strong> (Infrastructure as a Service)</td><td>Infraestructura física virtualizada (servidores, almacenamiento, redes)</td><td>Amazon AWS, Microsoft Azure, Google Cloud</td></tr><tr><td><strong>PaaS</strong> (Platform as a Service)</td><td>Plataforma para desarrollar y desplegar aplicaciones sin gestionar la infraestructura subyacente</td><td>Google App Engine, Azure App Service</td></tr><tr><td><strong>SaaS</strong> (Software as a Service)</td><td>Software accesible desde el navegador sin instalación local</td><td>Microsoft 365, Google Workspace, Salesforce</td></tr></tbody></table>
+<hr>
+<h2 id="3-funcionalidades-básicas-de-los-navegadores-web">3. FUNCIONALIDADES BÁSICAS DE LOS NAVEGADORES WEB<a class="anchor-link" aria-label="Enlace a esta seccion" href="#3-funcionalidades-básicas-de-los-navegadores-web"><span class="icon icon-link"></span></a></h2>
+<h3 id="31-qué-es-un-navegador-web">3.1 Qué es un navegador web<a class="anchor-link" aria-label="Enlace a esta seccion" href="#31-qué-es-un-navegador-web"><span class="icon icon-link"></span></a></h3>
+<p>Un <strong>navegador web</strong> (browser) es el programa que permite al usuario acceder, visualizar e interactuar con los recursos disponibles en la World Wide Web. El navegador interpreta el código HTML, CSS y JavaScript de las páginas web y los muestra de forma visual e interactiva.</p>
+<h3 id="32-principales-navegadores-actuales">3.2 Principales navegadores actuales<a class="anchor-link" aria-label="Enlace a esta seccion" href="#32-principales-navegadores-actuales"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Navegador</th><th>Desarrollador</th><th>Motor de renderizado</th><th>Cuota de mercado (aprox.)</th></tr></thead><tbody><tr><td><strong>Google Chrome</strong></td><td>Google</td><td>Blink</td><td>~65% (el más usado)</td></tr><tr><td><strong>Microsoft Edge</strong></td><td>Microsoft</td><td>Blink (desde <mark class="study-mark study-mark-date">2020</mark>)</td><td>~13%</td></tr><tr><td><strong>Mozilla Firefox</strong></td><td>Mozilla Foundation</td><td>Gecko</td><td>~3-5%</td></tr><tr><td><strong>Safari</strong></td><td>Apple</td><td>WebKit</td><td>~19% (mayoritariamente en dispositivos Apple)</td></tr><tr><td><strong>Opera</strong></td><td>Opera Software</td><td>Blink</td><td>~2%</td></tr></tbody></table>
+<p><strong>Microsoft Edge</strong> es el navegador predeterminado de <mark class="study-mark study-mark-key">Windows 11</mark> y la opción recomendada en el entorno corporativo de Microsoft. Está basado en el mismo motor que Chrome (Chromium/Blink), lo que garantiza compatibilidad con la mayoría de las páginas web y con las extensiones disponibles para Chrome.</p>
+<h3 id="33-elementos-de-la-interfaz-del-navegador">3.3 Elementos de la interfaz del navegador<a class="anchor-link" aria-label="Enlace a esta seccion" href="#33-elementos-de-la-interfaz-del-navegador"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Elemento</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Barra de dirección (omnibox)</strong></td><td>Campo donde se escribe la URL de la página que se quiere visitar o los términos de búsqueda (en los navegadores modernos, actúa también como barra de búsqueda). En Chrome y Edge se denomina <strong>omnibox</strong></td></tr><tr><td><strong>Botones de navegación</strong></td><td><strong>← (Atrás):</strong> vuelve a la página anterior / <strong>→ (Adelante):</strong> avanza a la página siguiente / <strong>↺ (Actualizar):</strong> recarga la página actual</td></tr><tr><td><strong>Inicio</strong></td><td>Botón (configurable) que lleva a la página de inicio definida por el usuario</td></tr><tr><td><strong>Pestañas (tabs)</strong></td><td>Permiten tener varias páginas abiertas simultáneamente en la misma ventana del navegador</td></tr><tr><td><strong>Barra de marcadores (favoritos)</strong></td><td>Barra con accesos directos a las páginas guardadas como favoritos/marcadores</td></tr><tr><td><strong>Botón de extensiones</strong></td><td>Acceso a las extensiones instaladas en el navegador</td></tr><tr><td><strong>Menú principal (≡ o …)</strong></td><td>Acceso a todas las opciones del navegador: historial, descargas, configuración, herramientas, etc.</td></tr><tr><td><strong>Icono de seguridad / candado</strong></td><td>Indica si la conexión con el sitio web es segura (<mark class="study-mark study-mark-key">HTTPS</mark> con certificado válido) o no</td></tr></tbody></table>
+<h3 id="34-funcionalidades-básicas-del-navegador">3.4 Funcionalidades básicas del navegador<a class="anchor-link" aria-label="Enlace a esta seccion" href="#34-funcionalidades-básicas-del-navegador"><span class="icon icon-link"></span></a></h3>
+<h4 id="341-navegación-por-páginas-web">3.4.1 Navegación por páginas web<a class="anchor-link" aria-label="Enlace a esta seccion" href="#341-navegación-por-páginas-web"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>Escribir una URL:</strong> hacer clic en la barra de dirección, escribir la URL y pulsar <strong>Enter</strong>.</li>
+<li><strong>Buscar desde la barra de dirección:</strong> escribir los términos de búsqueda (sin URL completa); el navegador los envía al motor de búsqueda predeterminado (por defecto, Google en Chrome, Bing en Edge).</li>
+<li><strong>Navegar entre páginas:</strong> usar los botones <strong>← Atrás</strong> y <strong>→ Adelante</strong> o los atajos <strong>Alt + ← / Alt + →</strong>.</li>
+<li><strong>Actualizar la página:</strong> botón <strong>↺</strong> o tecla <strong>F5</strong>. Para actualización forzada (sin caché): <strong>Ctrl + F5</strong> o <strong>Ctrl + Mayúsculas + R</strong>.</li>
+<li><strong>Detener la carga:</strong> tecla <strong>Esc</strong>.</li>
+<li><strong>Ir a la página de inicio:</strong> botón de inicio (si está visible) o <strong>Alt + Inicio</strong>.</li>
+</ul>
+<h4 id="342-gestión-de-pestañas">3.4.2 Gestión de pestañas<a class="anchor-link" aria-label="Enlace a esta seccion" href="#342-gestión-de-pestañas"><span class="icon icon-link"></span></a></h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Acción</th><th>Atajo</th></tr></thead><tbody><tr><td>Nueva pestaña</td><td>Ctrl + T</td></tr><tr><td>Cerrar pestaña activa</td><td>Ctrl + W</td></tr><tr><td>Reabrir la última pestaña cerrada</td><td>Ctrl + Mayúsculas + T</td></tr><tr><td>Cambiar a la siguiente pestaña</td><td>Ctrl + Tab</td></tr><tr><td>Cambiar a una pestaña concreta</td><td>Ctrl + 1 a 9</td></tr><tr><td>Nueva ventana</td><td>Ctrl + N</td></tr><tr><td>Nueva ventana de incógnito / InPrivate</td><td>Ctrl + Mayúsculas + N</td></tr></tbody></table>
+<p><strong>Pestañas ancladas:</strong> al hacer clic derecho en una pestaña → <strong>Anclar pestaña</strong>, esta queda fijada a la izquierda de la barra de pestañas y no puede cerrarse accidentalmente.</p>
+<h4 id="343-favoritos--marcadores">3.4.3 Favoritos / Marcadores<a class="anchor-link" aria-label="Enlace a esta seccion" href="#343-favoritos--marcadores"><span class="icon icon-link"></span></a></h4>
+<p>Los <strong>favoritos</strong> (llamados <strong>marcadores</strong> en Firefox y en la terminología técnica) permiten guardar la URL de una página para acceder a ella rápidamente en el futuro.</p>
+<ul>
+<li><strong>Añadir favorito:</strong> clic en el icono de estrella (☆) en la barra de dirección, o <strong>Ctrl + D</strong>.</li>
+<li><strong>Ver favoritos guardados:</strong> barra de marcadores (Ctrl + Mayúsculas + B para mostrarla/ocultarla) o desde el menú principal → Favoritos/Marcadores.</li>
+<li><strong>Organizar favoritos:</strong> se pueden crear carpetas para agrupar los favoritos por categorías.</li>
+<li><strong>Importar/Exportar favoritos:</strong> el navegador permite importar marcadores de otro navegador o exportarlos a un archivo HTML.</li>
+</ul>
+<h4 id="344-historial-de-navegación">3.4.4 Historial de navegación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#344-historial-de-navegación"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>historial</strong> registra las páginas web visitadas por el usuario, con la fecha y hora de cada visita. Se accede desde el menú principal o con <strong>Ctrl + H</strong>.</p>
+<p>Funciones del historial:</p>
+<ul>
+<li>Ver las páginas visitadas recientemente.</li>
+<li>Volver a visitar una página buscándola en el historial.</li>
+<li>Eliminar entradas individuales o todo el historial.</li>
+</ul>
+<p>El historial forma parte de los <strong>datos de navegación</strong> que puede borrarse desde la configuración del navegador.</p>
+<h4 id="345-descargas">3.4.5 Descargas<a class="anchor-link" aria-label="Enlace a esta seccion" href="#345-descargas"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>gestor de descargas</strong> lleva un registro de los archivos descargados desde el navegador. Se accede con <strong>Ctrl + J</strong> o desde el menú principal → Descargas.</p>
+<p>Desde el gestor de descargas se puede:</p>
+<ul>
+<li>Ver el progreso de las descargas en curso.</li>
+<li>Abrir los archivos descargados.</li>
+<li>Abrir la carpeta donde se han guardado.</li>
+<li>Cancelar o reintentar descargas.</li>
+</ul>
+<p>La carpeta de descarga predeterminada puede cambiarse en la configuración del navegador.</p>
+<h4 id="346-búsqueda-en-la-página">3.4.6 Búsqueda en la página<a class="anchor-link" aria-label="Enlace a esta seccion" href="#346-búsqueda-en-la-página"><span class="icon icon-link"></span></a></h4>
+<p>Para buscar un texto concreto dentro de la página que se está visualizando: <strong>Ctrl + F</strong>. Abre la barra de búsqueda dentro de la página, donde se puede escribir el término buscado; el navegador resalta todas las coincidencias y permite navegar entre ellas.</p>
+<h4 id="347-zoom">3.4.7 Zoom<a class="anchor-link" aria-label="Enlace a esta seccion" href="#347-zoom"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>Aumentar zoom:</strong> Ctrl + / Ctrl + rueda del ratón hacia arriba.</li>
+<li><strong>Reducir zoom:</strong> Ctrl - / Ctrl + rueda del ratón hacia abajo.</li>
+<li><strong>Restaurar zoom al 100%:</strong> Ctrl + 0.</li>
+</ul>
+<p>El nivel de zoom afecta solo a la visualización, no al contenido real de la página.</p>
+<h4 id="348-guardar-la-página-web">3.4.8 Guardar la página web<a class="anchor-link" aria-label="Enlace a esta seccion" href="#348-guardar-la-página-web"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>Guardar como:</strong> Ctrl + S. Permite guardar la página web completa (HTML + recursos) o solo el HTML en el equipo local para consultarla sin conexión.</li>
+<li><strong>Imprimir:</strong> Ctrl + P. El navegador abre la vista de impresión desde la que se puede imprimir la página o guardarla como PDF.</li>
+</ul>
+<h4 id="349-modo-pantalla-completa">3.4.9 Modo pantalla completa<a class="anchor-link" aria-label="Enlace a esta seccion" href="#349-modo-pantalla-completa"><span class="icon icon-link"></span></a></h4>
+<p><strong>F11</strong> activa el modo de pantalla completa, ocultando la interfaz del navegador para que la página ocupe toda la pantalla. Se desactiva volviendo a pulsar <strong>F11</strong> o la tecla <strong>Esc</strong>.</p>
+<h3 id="35-privacidad-y-seguridad-en-el-navegador">3.5 Privacidad y seguridad en el navegador<a class="anchor-link" aria-label="Enlace a esta seccion" href="#35-privacidad-y-seguridad-en-el-navegador"><span class="icon icon-link"></span></a></h3>
+<h4 id="351-borrar-datos-de-navegación">3.5.1 Borrar datos de navegación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#351-borrar-datos-de-navegación"><span class="icon icon-link"></span></a></h4>
+<p>Desde <strong>Configuración → Privacidad y seguridad</strong> (o con <strong>Ctrl + Mayúsculas + Supr</strong>) se pueden eliminar:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Dato</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Historial de navegación</strong></td><td>Registro de páginas visitadas</td></tr><tr><td><strong>Cookies</strong></td><td>Pequeños archivos que los sitios web guardan en el navegador para recordar preferencias, sesiones iniciadas, etc.</td></tr><tr><td><strong>Caché</strong></td><td>Copias de páginas e imágenes almacenadas localmente para acelerar la carga en visitas sucesivas</td></tr><tr><td><strong>Contraseñas guardadas</strong></td><td>Credenciales de inicio de sesión almacenadas en el navegador</td></tr><tr><td><strong>Datos de formularios</strong></td><td>Texto introducido anteriormente en formularios web</td></tr></tbody></table>
+<h4 id="352-navegación-privada--inprivate--incógnito">3.5.2 Navegación privada / InPrivate / Incógnito<a class="anchor-link" aria-label="Enlace a esta seccion" href="#352-navegación-privada--inprivate--incógnito"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>navegación privada</strong> (InPrivate en Edge, Incógnito en Chrome, Ventana privada en Firefox) abre una ventana de navegación en la que:</p>
+<ul>
+<li>No se guarda el historial de navegación.</li>
+<li>No se guardan cookies ni datos de formularios al cerrar la ventana.</li>
+<li>Los favoritos añadidos y los archivos descargados <strong>sí</strong> se conservan.</li>
+</ul>
+<p><strong>Importante:</strong> la navegación privada NO hace al usuario anónimo en <mark class="study-mark study-mark-key">internet</mark>: el proveedor de acceso a <mark class="study-mark study-mark-key">internet</mark> (ISP), el empleador (si se usa la red corporativa) y los sitios web visitados pueden seguir registrando la actividad.</p>
+<h4 id="353-las-cookies">3.5.3 Las cookies<a class="anchor-link" aria-label="Enlace a esta seccion" href="#353-las-cookies"><span class="icon icon-link"></span></a></h4>
+<p>Las <strong>cookies</strong> son pequeños archivos de texto que los sitios web almacenan en el navegador del usuario para distintos propósitos:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Función</th></tr></thead><tbody><tr><td><strong>Cookies de sesión</strong></td><td>Mantienen la sesión iniciada mientras el usuario navega; se eliminan al cerrar el navegador</td></tr><tr><td><strong>Cookies persistentes</strong></td><td>Permanecen en el equipo durante un tiempo determinado; recuerdan preferencias, idioma, inicio de sesión, etc.</td></tr><tr><td><strong>Cookies propias</strong></td><td>Las crea el sitio web que se está visitando</td></tr><tr><td><strong>Cookies de terceros</strong></td><td>Las crean dominios distintos al que se visita; usadas habitualmente para publicidad dirigida y seguimiento del usuario entre sitios</td></tr></tbody></table>
+<p>El RGPD exige que los sitios web informen a los usuarios sobre el uso de cookies y obtengan su consentimiento para las cookies no esenciales, de ahí los ubicuos <strong>banners de cookies</strong> que aparecen en todas las páginas web.</p>
+<h4 id="354-las-extensiones-o-complementos">3.5.4 Las extensiones o complementos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#354-las-extensiones-o-complementos"><span class="icon icon-link"></span></a></h4>
+<p>Las <strong>extensiones</strong> (extensions o add-ons) son pequeños programas que se instalan en el navegador para añadir funcionalidades adicionales:</p>
+<ul>
+<li>Bloqueadores de publicidad (uBlock Origin).</li>
+<li>Gestores de contraseñas (LastPass, Bitwarden).</li>
+<li>Traductores.</li>
+<li>Comprobadores de gramática y ortografía.</li>
+<li>Herramientas de accesibilidad.</li>
+<li>Integraciones con servicios específicos.</li>
+</ul>
+<p>Las extensiones se instalan desde la tienda de extensiones del navegador (Chrome Web Store para Chrome, Microsoft Edge Add-ons para Edge).</p>
+<p><strong>Precaución:</strong> instalar extensiones de fuentes no confiables puede suponer un riesgo para la seguridad y la privacidad, ya que algunas extensiones maliciosas pueden robar datos o redirigir el tráfico de navegación.</p>
+<h3 id="36-herramientas-del-navegador-para-el-entorno-administrativo">3.6 Herramientas del navegador para el entorno administrativo<a class="anchor-link" aria-label="Enlace a esta seccion" href="#36-herramientas-del-navegador-para-el-entorno-administrativo"><span class="icon icon-link"></span></a></h3>
+<p>En el entorno de las Administraciones Públicas, los navegadores web son la puerta de entrada a:</p>
+<ul>
+<li>Las <strong>sedes electrónicas</strong> y portales de tramitación de las Administraciones (interna y de otras AAPP).</li>
+<li>Los sistemas de <strong>gestión de expedientes</strong> accesibles vía web.</li>
+<li>El <strong>Portal de <mark class="study-mark study-mark-key">Transparencia</mark></strong> y otros portales de información pública.</li>
+<li>Los servicios de <strong>Microsoft 365</strong> accesibles vía web (Outlook Web, SharePoint, Teams).</li>
+<li>La <strong>Carpeta Ciudadana</strong> y el sistema de notificaciones electrónicas (DEHú).</li>
+</ul>
+<p>Para acceder a las sedes electrónicas con certificado digital o DNI electrónico, es habitual que el navegador requiera la instalación de software adicional (como <strong>AutoFirma</strong>, la aplicación del Ministerio de Asuntos Económicos que permite firmar documentos con certificado electrónico desde el navegador).</p>
+<hr>
+<h2 id="resumen-esquemático-para-repasar">RESUMEN ESQUEMÁTICO PARA REPASAR<a class="anchor-link" aria-label="Enlace a esta seccion" href="#resumen-esquemático-para-repasar"><span class="icon icon-link"></span></a></h2>
+<div class="study-list study-list-summary">
+<ul>
+  <li>ORIGEN Y EVOLUCIÓN DE INTERNET
+    <ul>
+      <li>1969: ARPANET — primera red con conmutación de paquetes (Dpto. Defensa EE.UU.)
+        <ul>
+          <li>Primera conexión: UCLA ↔ Stanford Research Institute (29/10/1969)</li>
+        </ul></li>
+      <li>1974-1983: TCP/IP — Vinton Cerf y Robert Kahn / estándar de ARPANET en 1983</li>
+      <li>1991: World Wide Web — Tim Berners-Lee (CERN) / hipertexto + HTTP + navegador
+        <ul>
+          <li>Primera página web: agosto 1991 / Primer navegador visual: Mosaic (1993)</li>
+        </ul></li>
+      <li>1990s: buscadores (Yahoo!, AltaVista, Google 1998) / e-commerce / burbuja .com (2000)</li>
+      <li>2004+: Web 2.0 — participación del usuario / blogs / wikis / redes sociales
+        <ul>
+          <li>(Facebook 2004, YouTube 2005, Twitter 2006)</li>
+        </ul></li>
+      <li>2007+: Web móvil (iPhone) → más tráfico desde móvil que desde PC / IoT</li>
+      <li>Actualidad: +5.000 M usuarios / fibra / 5G / IA / cloud / regulación UE (RGPD, DSA, DMA)</li>
+    </ul></li>
+  <li>PROTOCOLOS Y SERVICIOS
+    <ul>
+      <li>TCP/IP: protocolo fundamental de internet
+        <ul>
+          <li>IP: direccionamiento y enrutamiento de paquetes
+            <ul>
+              <li>→ IPv4: 32 bits / cuatro grupos decimales (ej. 192.168.1.1) / ~4.000 M dir. → IPv6: 128 bits / ocho grupos hexadecimales / prácticamente ilimitado</li>
+            </ul></li>
+          <li>TCP: transmisión FIABLE (garantiza entrega, orden y retransmisión)</li>
+          <li>UDP: transmisión rápida sin garantía de entrega (streaming, videollamadas)</li>
+        </ul></li>
+      <li>DNS: traduce nombres de dominio en direcciones IP
+        <ul>
+          <li>→ Estructura: protocolo://subdominio.dominio.TLD/ruta → TLD: .com / .org / .es / .gob.es / .eu / .edu</li>
+        </ul></li>
+      <li>HTTP / HTTPS
+        <ul>
+          <li>HTTP: protocolo de transferencia de hipertexto (petición-respuesta cliente-servidor)
+            <ul>
+              <li>→ Códigos: 200 OK / 301-302 redirección / 404 no encontrado / 500 error servidor</li>
+            </ul></li>
+          <li>HTTPS: HTTP + cifrado SSL/TLS → confidencialidad + integridad + autenticidad
+            <ul>
+              <li>→ Candado en el navegador / obligatorio para sedes electrónicas y datos personales</li>
+            </ul></li>
+        </ul></li>
+      <li>Correo electrónico:
+        <ul>
+          <li>SMTP: envío de correos (cliente → servidor y entre servidores)</li>
+          <li>POP3: descarga mensajes del servidor (los elimina del servidor por defecto)</li>
+          <li>IMAP: accede a mensajes en el servidor sin descargarlos (sincronización multi-dispositivo)
+            <ul>
+              <li>→ IMAP ha desplazado a POP3 por permitir acceso desde varios dispositivos</li>
+            </ul></li>
+        </ul></li>
+      <li>FTP / SFTP: transferencia de archivos entre sistemas</li>
+      <li>VPN: túnel cifrado a través de internet → acceso remoto seguro (teletrabajo)</li>
+      <li>URL: protocolo + dominio + ruta (+ parámetros + ancla)</li>
+      <li>Cloud Computing: IaaS / PaaS / SaaS
+        <ul>
+          <li>→ SaaS relevante: Microsoft 365, Google Workspace (acceso vía navegador)</li>
+        </ul></li>
+    </ul></li>
+  <li>NAVEGADORES WEB
+    <ul>
+      <li>Concepto: programa que interpreta HTML/CSS/JS y muestra páginas web</li>
+      <li>Principales: Chrome (Blink, ~65%) / Edge (Blink, pred. Windows 11) /
+        <ul>
+          <li>Firefox (Gecko) / Safari (WebKit, Apple)</li>
+        </ul></li>
+      <li>Interfaz: barra de dirección (omnibox) / botones ←→↺ / pestañas /
+        <ul>
+          <li>barra de favoritos / candado de seguridad / menú principal</li>
+        </ul></li>
+      <li>FUNCIONALIDADES
+        <ul>
+          <li>Navegación: escribir URL / buscar desde omnibox / Atrás-Adelante / F5 (actualizar) /
+            <ul>
+              <li>Ctrl+F5 (actualización forzada sin caché) / Esc (detener)</li>
+            </ul></li>
+          <li>Pestañas: Ctrl+T (nueva) / Ctrl+W (cerrar) / Ctrl+Mayúsc+T (reabrir cerrada)
+            <ul>
+              <li>Ctrl+Mayúsc+N (incógnito/InPrivate)</li>
+            </ul></li>
+          <li>Favoritos/Marcadores: Ctrl+D (añadir) / organizar en carpetas / importar-exportar</li>
+          <li>Historial: Ctrl+H / ver y eliminar páginas visitadas</li>
+          <li>Descargas: Ctrl+J / gestionar archivos descargados</li>
+          <li>Búsqueda en página: Ctrl+F → resalta coincidencias</li>
+          <li>Zoom: Ctrl+ / Ctrl- / Ctrl+0 (restaurar 100%)</li>
+          <li>Pantalla completa: F11</li>
+        </ul></li>
+      <li>PRIVACIDAD Y SEGURIDAD
+        <ul>
+          <li>Borrar datos (Ctrl+Mayúsc+Supr): historial / cookies / caché / contraseñas</li>
+          <li>Navegación privada/incógnito: no guarda historial ni cookies al cerrar
+            <ul>
+              <li>¡ATENCIÓN! No hace anónimo al usuario frente al ISP, empleador ni sitios web</li>
+            </ul></li>
+          <li>Cookies: sesión / persistentes / propias / terceros (publicidad)
+            <ul>
+              <li>→ RGPD: banner de cookies + consentimiento para no esenciales</li>
+            </ul></li>
+          <li>Extensiones: añaden funcionalidades / solo instalar de fuentes confiables</li>
+        </ul></li>
+      <li>En el entorno administrativo:
+        <ul>
+          <li>→ Acceso a sedes electrónicas / expedientes / Portal Transparencia / Microsoft 365 web / DEHú / Carpeta Ciudadana → AutoFirma: aplicación para firmar con certificado electrónico desde el navegador</li>
+        </ul></li>
+    </ul></li>
+</ul>
+</div>
+<hr>
+<p><em>Fin del Tema 40 — Administrativo C1 | Preparación OEP <mark class="study-mark study-mark-date">2026</mark></em></p>
+<hr>
+<p><strong>¡TEMARIO COMPLETO! Temas 1-40 desarrollados.</strong></p> </div>  </main> </div> <script type="module" src="/administrativo-burgos/_astro/StudySync.astro_astro_type_script_index_0_lang.CXqdfJvd.js"></script> <script type="module">const r="oposicion-access-ok-v1",i="rodrigo",d="xof13odi";function c(){const e=document.createElement("div");e.setAttribute("id","access-gate"),e.setAttribute("class","position-fixed top-0 start-0 w-100 h-100 d-grid align-items-center bg-body"),e.setAttribute("style","z-index:9999;padding:1rem;"),e.innerHTML=`
+      <form class="card shadow-sm border-0 mx-auto p-4" style="max-width:380px;width:100%;" id="gate-form">
+        <div class="d-flex align-items-center mb-3">
+          <span class="bd-brand-mark me-2">B</span>
+          <h1 class="h4 mb-0">Acceso</h1>
+        </div>
+        <p class="text-body-secondary mb-3">Zona de estudio privada.</p>
+        <div class="mb-3">
+          <label class="form-label" for="gate-user">Usuario</label>
+          <input class="form-control" required id="gate-user" name="u" />
+        </div>
+        <div class="mb-3">
+          <label class="form-label" for="gate-pass">Contraseña</label>
+          <input class="form-control" required id="gate-pass" name="p" type="password" />
+        </div>
+        <button class="btn btn-primary w-100" type="submit">Entrar</button>
+        <p id="gate-error" class="text-danger small mt-3 mb-0" style="min-height:1.2em"></p>
+      </form>`,document.body.appendChild(e),e.querySelector("#gate-form")?.addEventListener("submit",t=>{t.preventDefault();const s=new FormData(t.target),o=String(s.get("u")??""),n=String(s.get("p")??"");if(o===i&&n===d)localStorage.setItem(r,"1"),window.dispatchEvent(new Event("study-access-granted")),e.remove();else{const a=e.querySelector("#gate-error");a&&(a.textContent="Credenciales incorrectas")}})}typeof localStorage<"u"&&localStorage.getItem(r)!=="1"&&c();</script> <script type="module">"serviceWorker"in navigator&&window.addEventListener("load",()=>{navigator.serviceWorker.getRegistrations().then(i=>i.forEach(e=>e.unregister())).catch(()=>null)});"caches"in window&&caches.keys().then(i=>i.filter(e=>e.includes("administrativo-burgos")).forEach(e=>caches.delete(e))).catch(()=>null);</script> <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script> </body> </html>

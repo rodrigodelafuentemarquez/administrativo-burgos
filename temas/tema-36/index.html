@@ -1,0 +1,840 @@
+<!DOCTYPE html><html lang="es" data-bs-theme="dark"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Astro v6.2.2"><meta name="theme-color" content="#712cf9"><link rel="manifest" href="/administrativo-burgos/manifest.webmanifest"><link rel="icon" href="/administrativo-burgos/favicon.ico" sizes="any"><link rel="icon" href="/administrativo-burgos/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/administrativo-burgos/icons/icon-192.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous"><title>Tema 36 - Informática básica: conceptos fundamentales sobre el hardware y el software. Sistemas de almacenamiento de datos. Sistemas operativos. Nociones básicas de seguridad informática.</title><link rel="stylesheet" href="/administrativo-burgos/_astro/Layout.BKXYEglG.css"></head> <body> <header class="navbar navbar-expand-lg bd-navbar sticky-top"> <nav class="container-xxl flex-wrap flex-lg-nowrap" aria-label="Navegacion principal"> <div class="d-flex align-items-center"> <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal" aria-label="Abrir navegacion"> <span class="navbar-toggler-icon"></span> </button> <a class="bd-brand d-inline-flex align-items-center p-0 me-lg-3" href="/administrativo-burgos/" aria-label="Administrativo Burgos"> <span class="bd-brand-mark"><img src="/administrativo-burgos/favicon.png" alt=""></span> <span>Administrativo Burgos</span> </a> </div> <div class="d-flex align-items-center gap-2 ms-lg-auto"> <ul class="navbar-nav flex-row flex-wrap d-none d-lg-flex"> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/">Inicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/convocatoria">Convocatoria</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/planning">Planning</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/test">Tests</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/glosario">Glosario</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/practico">2º ejercicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/desarrollo">3º ejercicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/progreso">Progreso</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/dudosas">Dudosas</a></li> </ul> <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas" aria-label="Abrir temas">
+Temas
+</button> </div> </nav> </header> <div class="offcanvas offcanvas-start" tabindex="-1" id="menuPrincipal" aria-labelledby="menuPrincipalLabel"> <div class="offcanvas-header"> <h5 id="menuPrincipalLabel" class="offcanvas-title">Estudio</h5> <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button> </div> <div class="offcanvas-body"> <nav class="bd-links-nav"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong> <a class="bd-links-link rounded " href="/administrativo-burgos/">Inicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/convocatoria">Seguimiento oficial</a> <a class="bd-links-link rounded " href="/administrativo-burgos/planning">Planning</a> <a class="bd-links-link rounded " href="/administrativo-burgos/test">Hacer test</a> <a class="bd-links-link rounded " href="/administrativo-burgos/glosario">Glosario global</a> <a class="bd-links-link rounded " href="/administrativo-burgos/practico">Segundo ejercicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/desarrollo">Tercer ejercicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/progreso">Progreso</a> <a class="bd-links-link rounded " href="/administrativo-burgos/dudosas">Preguntas dudosas</a> <a class="bd-links-link rounded " href="/administrativo-burgos/fallos">Repetir fallos</a> </nav> </div> </div> <div class="offcanvas offcanvas-end" tabindex="-1" id="menuTemas" aria-labelledby="menuTemasLabel"> <div class="offcanvas-header"> <h5 id="menuTemasLabel" class="offcanvas-title">Temas</h5> <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button> </div> <div class="offcanvas-body"> <nav class="bd-links-nav theme-list" aria-label="Listado de temas"> <a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-01"> Tema I.1: La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-02"> Tema I.2: La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-03"> Tema I.3: La Constitución Española (III): la organización territorial del Estado español. Las comunidades autónomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autónomas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-04"> Tema I.4: El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Español. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-05"> Tema I.5: Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-06"> Tema I.6: El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-07"> Tema I.7: La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaría General. La Intervención General. El órgano de Gestión Tributaria. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-08"> Tema I.8: La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-09"> Tema I.9: La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-01"> Tema II.1: Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-02"> Tema II.2: El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-03"> Tema II.3: El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-04"> Tema II.4: La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-05"> Tema II.5: El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-06"> Tema II.6: La responsabilidad de la administración pública: caracteres. Los presupuestos de la responsabilidad. Daños resarcibles. La acción de responsabilidad. Especialidades del procedimiento administrativo en materia de responsabilidad. La responsabilidad patrimonial de las autoridades y personal al servicio de las administraciones públicas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-07"> Tema II.7: Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-08"> Tema II.8: La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-09"> Tema II.9: Los bienes de las entidades locales: concepto, clases. Bienes de dominio público local. Bienes patrimoniales locales, enajenación, cesión y utilización. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-10"> Tema II.10: Las formas de actividad administrativa. El servicio público. Concepto. Evolución y crisis. Las formas de gestión de los servicios públicos. La remunicipalización de los servicios públicos. La iniciativa económica pública y los servicios públicos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-11"> Tema II.11: Funcionamiento de los órganos colegiados locales. Convocatorias y orden del día. Requisitos para su constitución. Votaciones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-12"> Tema II.12: Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboración y aprobación. Los bandos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-01"> Tema III.1: El personal al servicio de las entidades locales: clases y régimen jurídico. Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-02"> Tema III.2: Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-03"> Tema III.3: El personal laboral al servicio de las administraciones públicas. Selección. Derechos, deberes e incompatibilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-04"> Tema III.4: El derecho de sindicación y de huelga. Régimen de incompatibilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-05"> Tema III.5: El texto refundido de la Ley General de la Seguridad Social: disposiciones generales sobre el campo de aplicación y estructura del sistema de la Seguridad Social. Acción protectora: disposiciones generales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-01"> Tema IV.1: Los tributos locales: principios. La potestad reglamentaria de las entidades locales en materia tributaria: contenido de las ordenanzas fiscales, tramitación y régimen de impugnación de los actos de imposición y ordenación de tributos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-02"> Tema IV.2: El presupuesto: concepto. Los principios presupuestarios. Los créditos presupuestarios: clasificación. Gastos plurianuales. Las modificaciones presupuestarias: créditos extraordinarios y suplementos de crédito. Ampliaciones de crédito. Generaciones de crédito. Transferencias de crédito. Incorporaciones de crédito. Anticipos de Tesorería. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-03"> Tema IV.3: El procedimiento administrativo de ejecución del presupuesto de gasto. Organos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenación del pago: concepto y competencia. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-04"> Tema IV.4: El control del gasto público. El control interno: la función interventora y el control financiero. El control externo realizado por el Tribunal de Cuentas, el Consejo de Cuentas de Castilla y León y las Cortes de Castilla y León. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-05"> Tema IV.5: Régimen urbanístico de la propiedad del suelo. Principios. Clasificación y calificación del suelo. Competencia urbanística municipal. Intervención administrativa en la edificación y uso del suelo. La licencia urbanística. Protección de la legalidad urbanística. Infracciones y sanciones urbanísticas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-01"> Tema V.1: La Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva entre Mujeres y Hombres. Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. Ley 4/2023, de 28 de febrero, para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI. Objeto y principios rectores. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-02"> Tema V.2: La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-03"> Tema V.3: Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-04"> Tema V.4: Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-05"> Tema V.5: La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: objeto y ámbito de aplicación. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempeñar. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-06"> Tema V.6: La protección de datos personales y su régimen jurídico: principios, derechos, responsable y encargado del tratamiento, delegado y autoridades de protección de datos. Derechos digitales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-07"> Tema V.7: Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-08"> Tema V.8: El concepto de documento. Formación del expediente. El expediente electrónico. El archivo de los documentos administrativos. Clases de archivos y criterios de ordenación. Archivo electrónico de documentos. El acceso a los documentos administrativos: sus limitaciones y formas de acceso. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-09"> Tema V.9: Informática básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-10"> Tema V.10: Sistemas ofimáticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de cálculo: Excel para Microsoft 365. Funciones y utilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-11"> Tema V.11: Correo electrónico: conceptos elementales y funcionamiento. La red Internet: conceptos elementales y servicios. </a> </nav> </div> </div> <div class="bd-layout has-toc"> <aside class="bd-sidebar"> <nav class="bd-links-nav"> <ul class="list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2"> <li class="bd-links-group py-2"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong> <ul class="list-unstyled fw-normal pb-2 small"> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/">Inicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/convocatoria">Seguimiento oficial</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/planning">Planning</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/test">Hacer test</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/glosario">Glosario global</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/practico">Segundo ejercicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/desarrollo">Tercer ejercicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/progreso">Progreso</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/dudosas">Preguntas dudosas</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/fallos">Repetir fallos</a></li> </ul> </li> <li class="bd-links-group py-2"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Temario</strong> <ul class="list-unstyled fw-normal pb-2 small"> <li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-01"> Tema I.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-02"> Tema I.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-03"> Tema I.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-04"> Tema I.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-05"> Tema I.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-06"> Tema I.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-07"> Tema I.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-08"> Tema I.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-09"> Tema I.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-01"> Tema II.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-02"> Tema II.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-03"> Tema II.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-04"> Tema II.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-05"> Tema II.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-06"> Tema II.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-07"> Tema II.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-08"> Tema II.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-09"> Tema II.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-10"> Tema II.10 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-11"> Tema II.11 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-12"> Tema II.12 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-01"> Tema III.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-02"> Tema III.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-03"> Tema III.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-04"> Tema III.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-05"> Tema III.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-01"> Tema IV.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-02"> Tema IV.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-03"> Tema IV.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-04"> Tema IV.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-05"> Tema IV.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-01"> Tema V.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-02"> Tema V.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-03"> Tema V.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-04"> Tema V.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-05"> Tema V.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-06"> Tema V.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-07"> Tema V.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-08"> Tema V.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-09"> Tema V.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-10"> Tema V.10 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-11"> Tema V.11 </a> </li> </ul> </li> </ul> </nav> </aside> <main class="bd-main has-toc"> <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary"> <strong class="d-block mb-2">En esta página</strong> <nav aria-label="Contenido de esta página"> <ul> <li class> <a href="#1-conceptos-fundamentales-de-informática">1. CONCEPTOS FUNDAMENTALES DE INFORMÁTICA</a> </li><li class="ms-3"> <a href="#11-qué-es-la-informática">1.1 Qué es la informática</a> </li><li class="ms-3"> <a href="#12-tipos-de-ordenadores">1.2 Tipos de ordenadores</a> </li><li class> <a href="#2-el-hardware">2. EL HARDWARE</a> </li><li class="ms-3"> <a href="#21-concepto-de-hardware">2.1 Concepto de hardware</a> </li><li class="ms-3"> <a href="#22-la-arquitectura-von-neumann">2.2 La arquitectura von Neumann</a> </li><li class="ms-3"> <a href="#23-componentes-internos-del-ordenador">2.3 Componentes internos del ordenador</a> </li><li class="ms-3"> <a href="#24-los-periféricos">2.4 Los periféricos</a> </li><li class="ms-3"> <a href="#25-los-buses-del-sistema">2.5 Los buses del sistema</a> </li><li class> <a href="#3-el-software">3. EL SOFTWARE</a> </li><li class="ms-3"> <a href="#31-concepto-de-software">3.1 Concepto de software</a> </li><li class="ms-3"> <a href="#32-clasificación-del-software">3.2 Clasificación del software</a> </li> </ul> </nav> </div>  <div class="bd-intro ps-lg-2"> <h1 class="bd-title">Tema 36</h1> <p class="bd-subtitle mb-0">Informática básica: conceptos fundamentales sobre el hardware y el software. Sistemas de almacenamiento de datos. Sistemas operativos. Nociones básicas de seguridad informática.</p> </div> <div class="bd-content tema-content ps-lg-2"> <blockquote>
+<p><strong>Referencia del programa:</strong> Adams <mark class="study-mark study-mark-date">2026</mark> (temas 36-40 del programa específico de la oposición).</p>
+<p>🔗 <strong><mark class="study-mark study-mark-law">Real Decreto 3/2010, de 8 de enero</mark>, Esquema Nacional de Seguridad (ENS) — referencia normativa en materia de seguridad informática en el sector público:</strong>
+<a href="https://www.boe.es/eli/es/rd/2010/01/08/3/con">https://www.boe.es/eli/es/rd/2010/01/08/3/con</a></p>
+</blockquote>
+<hr>
+<h2 id="1-conceptos-fundamentales-de-informática">1. CONCEPTOS FUNDAMENTALES DE INFORMÁTICA<a class="anchor-link" aria-label="Enlace a esta seccion" href="#1-conceptos-fundamentales-de-informática"><span class="icon icon-link"></span></a></h2>
+<h3 id="11-qué-es-la-informática">1.1 Qué es la informática<a class="anchor-link" aria-label="Enlace a esta seccion" href="#11-qué-es-la-informática"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>informática</strong> es la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores y sistemas computacionales. El término proviene de la contracción de las palabras francesas <em>information</em> y <em>automatique</em>.</p>
+<p>El <strong>ordenador</strong> (o computadora) es una máquina electrónica capaz de recibir datos, procesarlos según un conjunto de instrucciones previamente definidas (programa), y producir resultados en forma de información útil para el usuario.</p>
+<p>Las carácterísticas fundamentales de un ordenador son:</p>
+<ul>
+<li><strong>Velocidad:</strong> es capaz de realizar millones o miles de millones de operaciones por segundo.</li>
+<li><strong>Exactitud:</strong> ejecuta las instrucciones con precisión absoluta, siempre que estas sean correctas.</li>
+<li><strong>Capacidad de almacenamiento:</strong> puede guardar grandes volúmenes de información durante períodos indefinidos.</li>
+<li><strong>Automatización:</strong> puede ejecutar tareas repetitivas sin intervención humana, siguiendo las instrucciones del programa.</li>
+<li><strong>Versatilidad:</strong> el mismo hardware puede realizar tareas muy diferentes dependiendo del software instalado.</li>
+</ul>
+<h3 id="12-tipos-de-ordenadores">1.2 Tipos de ordenadores<a class="anchor-link" aria-label="Enlace a esta seccion" href="#12-tipos-de-ordenadores"><span class="icon icon-link"></span></a></h3>
+<p>Los sistemas informáticos se clasifican según su tamaño, capacidad de procesamiento y uso previsto:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Descripción</th><th>Uso típico</th></tr></thead><tbody><tr><td><strong>Superordenador</strong></td><td>El más potente; capaz de realizar billones de operaciones por segundo (teraflops)</td><td>Investigación científica, predicción meteorológica, simulaciones complejas</td></tr><tr><td><strong>Servidor</strong></td><td>Equipo de alto rendimiento diseñado para prestar servicios a otros equipos en red</td><td>Alojamiento web, bases de datos, correo electrónico corporativo</td></tr><tr><td><strong>Ordenador personal (PC)</strong></td><td>Equipo de uso individual, de sobremesa o portátil</td><td>Trabajo de oficina, navegación, entretenimiento</td></tr><tr><td><strong>Estación de trabajo (workstation)</strong></td><td>PC de alto rendimiento para tareas de diseño, ingeniería o análisis</td><td>CAD, edición de vídeo, modelado 3D</td></tr><tr><td><strong>Tableta (tablet)</strong></td><td>Equipo con pantalla táctil, sin teclado físico</td><td>Consulta de información, gestión, consumo de contenidos</td></tr><tr><td><strong>Smartphone</strong></td><td>Teléfono inteligente con capacidades de ordenador</td><td>Comunicación, gestión personal, apps</td></tr><tr><td><strong>Dispositivos IoT</strong></td><td>Objetos cotidianos con capacidad de conexión y procesamiento</td><td>Sensores, domótica, wearables</td></tr></tbody></table>
+<hr>
+<h2 id="2-el-hardware">2. EL HARDWARE<a class="anchor-link" aria-label="Enlace a esta seccion" href="#2-el-hardware"><span class="icon icon-link"></span></a></h2>
+<h3 id="21-concepto-de-hardware">2.1 Concepto de hardware<a class="anchor-link" aria-label="Enlace a esta seccion" href="#21-concepto-de-hardware"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>hardware</strong> es el conjunto de componentes físicos, tangibles, que forman un sistema informático: todo lo que se puede tocar, ver y manipular. Engloba tanto los componentes internos del ordenador como los periféricos externos que se conectan a él.</p>
+<h3 id="22-la-arquitectura-von-neumann">2.2 La arquitectura von Neumann<a class="anchor-link" aria-label="Enlace a esta seccion" href="#22-la-arquitectura-von-neumann"><span class="icon icon-link"></span></a></h3>
+<p>La mayoría de los ordenadores modernos se basan en la <strong>arquitectura von Neumann</strong> (propuesta por el matemático John von Neumann en <mark class="study-mark study-mark-date">1945</mark>), que establece que un ordenador debe constar de:</p>
+<ul>
+<li>Una <strong>unidad central de procesamiento</strong> (CPU) que ejecuta las instrucciones.</li>
+<li>Una <strong>memoria</strong> donde se almacenan tanto las instrucciones (programas) como los datos.</li>
+<li>Un sistema de <strong>entrada/salida</strong> para comunicarse con el exterior.</li>
+<li>Un <strong>bus</strong> que interconecta todos los componentes anteriores.</li>
+</ul>
+<p>Esta arquitectura sigue siendo la base de los ordenadores actuales.</p>
+<h3 id="23-componentes-internos-del-ordenador">2.3 Componentes internos del ordenador<a class="anchor-link" aria-label="Enlace a esta seccion" href="#23-componentes-internos-del-ordenador"><span class="icon icon-link"></span></a></h3>
+<h4 id="231-la-unidad-central-de-procesamiento-cpu-o-procesador">2.3.1 La Unidad Central de Procesamiento (CPU o procesador)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#231-la-unidad-central-de-procesamiento-cpu-o-procesador"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>CPU</strong> (Central Processing Unit) es el cerebro del ordenador: el componente que interpreta y ejecuta las instrucciones de los programas. Sus elementos principales son:</p>
+<ul>
+<li><strong>Unidad de Control (UC):</strong> coordina y dirige el funcionamiento de todos los demás componentes, interpretando las instrucciones del programa y generando las señales de control necesarias para su ejecución.</li>
+<li><strong>Unidad Aritmético-Lógica (UAL o ALU):</strong> realiza las operaciones matemáticas (suma, resta, multiplicación, división) y las operaciones lógicas (comparaciones, AND, OR, NOT) sobre los datos.</li>
+<li><strong>Registros:</strong> pequeñas memorias internas de la CPU, de acceso ultrarrápido, donde se almacenan temporalmente los datos e instrucciones que están siendo procesados en cada momento.</li>
+<li><strong>Caché:</strong> memoria intermedia ultrarrápida integrada en la CPU (niveles L1, L2 y L3) que almacena los datos e instrucciones más frecuentemente usados, reduciendo el tiempo de acceso a la RAM.</li>
+</ul>
+<p>Los procesadores actuales son <strong>multinúcleo</strong> (dual-core, quad-core, octa-core…): integran varios núcleos de procesamiento independientes en un único chip, lo que permite la ejecución paralela de varias tareas simultáneamente.</p>
+<p>La <strong>velocidad de la CPU</strong> se mide en <strong>gigahercios (GHz)</strong>: indica cuántos ciclos de reloj por segundo puede ejecutar el procesador. Un procesador de 3,5 GHz ejecuta 3.500 millones de ciclos por segundo.</p>
+<p>Los fabricantes de procesadores más relevantes son <strong>Intel</strong> (Core i3, i5, i7, i9) y <strong>AMD</strong> (Ryzen).</p>
+<h4 id="232-la-memoria-ram">2.3.2 La memoria RAM<a class="anchor-link" aria-label="Enlace a esta seccion" href="#232-la-memoria-ram"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>RAM</strong> (Random Access Memory — Memoria de Acceso Aleatorio) es la memoria principal del ordenador, donde se cargan el sistema operativo, los programas en ejecución y los datos que están siendo procesados en cada momento.</p>
+<p>Características fundamentales de la RAM:</p>
+<ul>
+<li>Es una memoria <strong>volátil</strong>: pierde su contenido cuando el ordenador se apaga o reinicia.</li>
+<li>Su <strong>velocidad</strong> de acceso es muy superior a la de los discos duros, lo que permite una ejecución fluida de los programas.</li>
+<li>Su <strong>capacidad</strong> se mide en gigabytes (GB). Un ordenador de trabajo habitual dispone de 8 a 32 GB de RAM; los servidores pueden tener terabytes.</li>
+<li>Cuanta más RAM tiene un equipo, más programas puede ejecutar simultáneamente sin ralentizarse.</li>
+</ul>
+<p>La RAM actual sigue las especificaciones <strong>DDR4</strong> o <strong>DDR5</strong> (Double Data Rate), que determinan su velocidad y consumo.</p>
+<h4 id="233-la-memoria-rom">2.3.3 La memoria ROM<a class="anchor-link" aria-label="Enlace a esta seccion" href="#233-la-memoria-rom"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>ROM</strong> (Read Only Memory — Memoria de Solo Lectura) es una memoria no volátil cuyo contenido se graba en fábrica y no puede ser modificado por el usuario en condiciones normales. Conserva su contenido aunque se apague el equipo.</p>
+<p>En los ordenadores, la ROM alberga el <strong>firmware</strong> del sistema, en particular la <strong>BIOS</strong> (Basic Input/Output System) o su sucesor moderno, la <strong>UEFI</strong> (Unified Extensible Firmware Interface): el programa de bajo nivel que se ejecuta al encender el ordenador, realiza las pruebas de arranque (POST) e inicializa el hardware antes de cargar el sistema operativo.</p>
+<h4 id="234-la-placa-base-motherboard">2.3.4 La placa base (motherboard)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#234-la-placa-base-motherboard"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>placa base</strong> es el circuito impreso principal del ordenador, sobre el que se instalan y conectan todos los demás componentes internos: la CPU (en su zócalo o socket), los módulos de RAM (en sus ranuras), las tarjetas de expansión (en los puertos PCIe), los discos de almacenamiento (mediante conectores SATA o M.2), y los conectores de alimentación y periféricos.</p>
+<p>La placa base incorpora también el <strong>chipset</strong>, el conjunto de circuitos que gestiona la comunicación entre los distintos componentes del sistema.</p>
+<h4 id="235-la-tarjeta-gráfica-gpu">2.3.5 La tarjeta gráfica (GPU)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#235-la-tarjeta-gráfica-gpu"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>tarjeta gráfica</strong> (también llamada GPU — Graphics Processing Unit) es el componente responsable del procesamiento de gráficos y del envío de la señal de vídeo al monitor. En los equipos de oficina, la función gráfica suele estar integrada en la propia CPU o en la placa base (gráficos integrados). En equipos de diseño, juego o inteligencia artificial se instalan GPUs dedicadas de alto rendimiento (NVIDIA GeForce/Quadro, AMD Radeon).</p>
+<h4 id="236-la-fuente-de-alimentación">2.3.6 La fuente de alimentación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#236-la-fuente-de-alimentación"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>fuente de alimentación</strong> (PSU — Power Supply Unit) convierte la corriente alterna de la red eléctrica en las tensiones de corriente continua que necesitan los distintos componentes del ordenador (+12V, +5V, +3,3V). Su potencia se mide en vatios (W).</p>
+<h3 id="24-los-periféricos">2.4 Los periféricos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#24-los-periféricos"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>periféricos</strong> son los dispositivos externos que se conectan al ordenador para permitir la entrada de datos, la salida de información o el almacenamiento. Se clasifican en:</p>
+<h4 id="241-periféricos-de-entrada">2.4.1 Periféricos de entrada<a class="anchor-link" aria-label="Enlace a esta seccion" href="#241-periféricos-de-entrada"><span class="icon icon-link"></span></a></h4>
+<p>Permiten al usuario introducir datos o instrucciones en el ordenador:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Dispositivo</th><th>Función</th></tr></thead><tbody><tr><td><strong>Teclado</strong></td><td>Introduce texto, números y comandos mediante teclas</td></tr><tr><td><strong>Ratón (mouse)</strong></td><td>Dispositivo señalador; controla el puntero en pantalla</td></tr><tr><td><strong>Escáner</strong></td><td>Digitaliza documentos e imágenes en papel</td></tr><tr><td><strong>Cámara web (webcam)</strong></td><td>Captura vídeo e imágenes para videoconferencia</td></tr><tr><td><strong>Micrófono</strong></td><td>Captura audio</td></tr><tr><td><strong>Lápiz óptico / pantalla táctil</strong></td><td>Permite la entrada mediante contacto directo</td></tr><tr><td><strong>Lector de código de barras / QR</strong></td><td>Lee e introduce códigos</td></tr></tbody></table>
+<h4 id="242-periféricos-de-salida">2.4.2 Periféricos de salida<a class="anchor-link" aria-label="Enlace a esta seccion" href="#242-periféricos-de-salida"><span class="icon icon-link"></span></a></h4>
+<p>Presentan al usuario los resultados del procesamiento:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Dispositivo</th><th>Función</th></tr></thead><tbody><tr><td><strong>Monitor</strong></td><td>Muestra la información visual generada por la tarjeta gráfica</td></tr><tr><td><strong>Impresora</strong></td><td>Produce copias en papel de documentos y gráficos</td></tr><tr><td><strong>Altavoces</strong></td><td>Reproducen el sonido generado por el sistema</td></tr><tr><td><strong>Proyector</strong></td><td>Muestra la imagen del ordenador en una superficie o pantalla grande</td></tr></tbody></table>
+<h4 id="243-periféricos-de-entradasalida-mixtos">2.4.3 Periféricos de entrada/salida (mixtos)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#243-periféricos-de-entradasalida-mixtos"><span class="icon icon-link"></span></a></h4>
+<p>Permiten tanto la entrada como la salida de datos:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Dispositivo</th><th>Función</th></tr></thead><tbody><tr><td><strong>Pantalla táctil</strong></td><td>Funciona como monitor (salida) y como dispositivo señalador (entrada)</td></tr><tr><td><strong>Disco duro externo / USB</strong></td><td>Permite leer y escribir datos</td></tr><tr><td><strong>Impresora multifunción</strong></td><td>Imprime (salida), escanea y copia (entrada/salida)</td></tr><tr><td><strong>Tarjeta de red</strong></td><td>Envía y recibe datos a través de la red</td></tr></tbody></table>
+<h3 id="25-los-buses-del-sistema">2.5 Los buses del sistema<a class="anchor-link" aria-label="Enlace a esta seccion" href="#25-los-buses-del-sistema"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>buses</strong> son los canales de comunicación que interconectan los distintos componentes del ordenador, permitiendo la transferencia de datos, direcciones y señales de control entre ellos. Los buses principales son:</p>
+<ul>
+<li><strong>Bus de datos:</strong> transporta los datos entre la CPU, la memoria y los periféricos.</li>
+<li><strong>Bus de direcciones:</strong> indica la dirección de memoria donde se deben leer o escribir los datos.</li>
+<li><strong>Bus de control:</strong> transporta las señales de control que coordinan el funcionamiento de los componentes.</li>
+</ul>
+<p>Los buses modernos más relevantes en el exterior del equipo son <strong>USB</strong> (Universal Serial Bus), <strong>Thunderbolt</strong>, <strong>HDMI</strong> y <strong>DisplayPort</strong> para la conexión de periféricos y monitores.</p>
+<hr>
+<h2 id="3-el-software">3. EL SOFTWARE<a class="anchor-link" aria-label="Enlace a esta seccion" href="#3-el-software"><span class="icon icon-link"></span></a></h2>
+<h3 id="31-concepto-de-software">3.1 Concepto de software<a class="anchor-link" aria-label="Enlace a esta seccion" href="#31-concepto-de-software"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>software</strong> es el conjunto de programas, instrucciones, datos y documentación que permiten al hardware realizar las funciones para las que ha sido diseñado. A diferencia del hardware, el software es intangible: no tiene existencia física.</p>
+<p>La relación entre hardware y software es de dependencia mutua: el hardware sin software no puede hacer nada útil, y el software no puede ejecutarse sin el hardware que le proporcione los recursos de cómputo.</p>
+<h3 id="32-clasificación-del-software">3.2 Clasificación del software<a class="anchor-link" aria-label="Enlace a esta seccion" href="#32-clasificación-del-software"><span class="icon icon-link"></span></a></h3>
+<p>El software se clasifica en tres grandes categorías:</p>
+<h4 id="321-software-de-sistema-o-software-base">3.2.1 Software de sistema (o software base)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#321-software-de-sistema-o-software-base"><span class="icon icon-link"></span></a></h4>
+<p>Es el software que gestiona y controla los recursos del hardware y proporciona una plataforma sobre la que pueden ejecutarse los programas de aplicación. Su función es hacer que el hardware sea utilizable. Incluye:</p>
+<ul>
+<li><strong>Sistema operativo:</strong> el más importante. Se estudia en detalle en el apartado 4.</li>
+<li><strong>Controladores (drivers):</strong> programas que permiten al sistema operativo comunicarse con los periféricos (tarjeta gráfica, impresora, escáner, etc.). Sin el driver adecuado, el sistema operativo no puede utilizar el periférico.</li>
+<li><strong>BIOS/UEFI:</strong> el firmware de bajo nivel que inicializa el hardware al arrancar el equipo.</li>
+<li><strong>Utilidades del sistema:</strong> herramientas para el mantenimiento, diagnóstico y optimización del sistema (desfragmentadores, antivirus, herramientas de disco, etc.).</li>
+</ul>
+<h4 id="322-software-de-aplicación">3.2.2 Software de aplicación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#322-software-de-aplicación"><span class="icon icon-link"></span></a></h4>
+<p>Es el software diseñado para que el usuario realice tareas concretas. Se ejecuta sobre el sistema operativo y aprovecha los recursos que este le proporciona. Ejemplos:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Categoría</th><th>Ejemplos</th></tr></thead><tbody><tr><td><strong>Procesadores de texto</strong></td><td>Microsoft <mark class="study-mark study-mark-key">Word</mark>, LibreOffice Writer</td></tr><tr><td><strong>Hojas de cálculo</strong></td><td>Microsoft <mark class="study-mark study-mark-key">Excel</mark>, LibreOffice Calc</td></tr><tr><td><strong>Bases de datos</strong></td><td>Microsoft Access, MySQL, Oracle</td></tr><tr><td><strong>Navegadores web</strong></td><td>Microsoft Edge, Google Chrome, Mozilla Firefox</td></tr><tr><td><strong>Correo electrónico</strong></td><td>Microsoft Outlook, Mozilla Thunderbird</td></tr><tr><td><strong>Presentaciones</strong></td><td>Microsoft PowerPoint, LibreOffice Impress</td></tr><tr><td><strong>Edición de imagen</strong></td><td>Adobe Photoshop, GIMP</td></tr><tr><td><strong>Videoconferencia</strong></td><td>Microsoft Teams, Zoom</td></tr><tr><td><strong>Gestión empresarial (ERP)</strong></td><td>SAP, Microsoft Dynamics</td></tr></tbody></table>
+<h4 id="323-software-de-programación">3.2.3 Software de programación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#323-software-de-programación"><span class="icon icon-link"></span></a></h4>
+<p>Son las herramientas que utilizan los programadores para desarrollar nuevas aplicaciones: compiladores, intérpretes, entornos de desarrollo integrado (IDE), depuradores, etc.</p>
+<h3 id="33-clasificación-del-software-según-su-licencia">3.3 Clasificación del software según su licencia<a class="anchor-link" aria-label="Enlace a esta seccion" href="#33-clasificación-del-software-según-su-licencia"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo de licencia</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Software propietario</strong></td><td>Los derechos de uso, copia, distribución y modificación están reservados al titular. El usuario paga una licencia para usar el programa pero no tiene acceso al código fuente. Ejemplo: Microsoft Office, Adobe Acrobat</td></tr><tr><td><strong>Software libre (Free Software)</strong></td><td>El usuario tiene <mark class="study-mark study-mark-key">libertad</mark> para usar, copiar, distribuir, estudiar y modificar el software. El código fuente es accesible. Ejemplo: LibreOffice, Linux</td></tr><tr><td><strong>Software de código abierto (Open Source)</strong></td><td>Similar al software libre, con acceso al código fuente, aunque las condiciones de uso pueden variar según la licencia concreta</td></tr><tr><td><strong>Freeware</strong></td><td>Software de distribución gratuita, pero generalmente sin acceso al código fuente ni <mark class="study-mark study-mark-key">libertad</mark> de modificación</td></tr><tr><td><strong>Shareware</strong></td><td>Software de distribución gratuita para su evaluación, con funcionalidades limitadas o con plazo de uso restringido; requiere pago para la versión completa</td></tr><tr><td><strong>Software en la nube (SaaS)</strong></td><td>Se accede al software a través de <mark class="study-mark study-mark-key">internet</mark> sin necesidad de instalación local; el proveedor gestiona el mantenimiento. Ejemplo: Microsoft 365, Google Workspace</td></tr></tbody></table>
+<hr>
+<h2 id="4-sistemas-operativos">4. SISTEMAS OPERATIVOS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#4-sistemas-operativos"><span class="icon icon-link"></span></a></h2>
+<h3 id="41-concepto-y-funciones">4.1 Concepto y funciones<a class="anchor-link" aria-label="Enlace a esta seccion" href="#41-concepto-y-funciones"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>sistema operativo (SO)</strong> es el software más importante de un ordenador: el programa que actúa como intermediario entre el hardware y los programas de aplicación, gestionando los recursos del sistema y proporcionando una interfaz al usuario.</p>
+<p>El sistema operativo cumple las siguientes funciones esenciales:</p>
+<ul>
+<li><strong>Gestión del procesador:</strong> asigna tiempo de CPU a los distintos programas en ejecución mediante algoritmos de planificación, permitiendo la multitarea.</li>
+<li><strong>Gestión de la memoria:</strong> controla qué parte de la RAM está asignada a cada programa, evita que los programas interfieran entre sí y gestiona la memoria virtual (uso del disco como extensión de la RAM cuando esta se agota).</li>
+<li><strong>Gestión del almacenamiento:</strong> organiza los archivos y directorios en los dispositivos de almacenamiento a través del sistema de archivos, y controla el acceso a los datos.</li>
+<li><strong>Gestión de periféricos:</strong> a través de los drivers, controla la comunicación con los dispositivos de entrada/salida.</li>
+<li><strong>Gestión de usuarios y seguridad:</strong> controla el acceso al sistema mediante cuentas de usuario, contraseñas y permisos; registra la actividad en los logs del sistema.</li>
+<li><strong>Gestión de la red:</strong> gestiona las conexiones de red, los protocolos de comunicación y el acceso a recursos compartidos.</li>
+<li><strong>Interfaz de usuario:</strong> proporciona el entorno mediante el cual el usuario interactúa con el sistema (interfaz gráfica o de línea de comandos).</li>
+</ul>
+<h3 id="42-tipos-de-sistemas-operativos">4.2 Tipos de sistemas operativos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#42-tipos-de-sistemas-operativos"><span class="icon icon-link"></span></a></h3>
+<h4 id="421-por-el-tipo-de-interfaz">4.2.1 Por el tipo de interfaz<a class="anchor-link" aria-label="Enlace a esta seccion" href="#421-por-el-tipo-de-interfaz"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>Interfaz de línea de comandos (CLI):</strong> el usuario interactúa con el sistema escribiendo comandos de texto. Ejemplo: la terminal de Linux, el símbolo del sistema de Windows (CMD), PowerShell.</li>
+<li><strong>Interfaz gráfica de usuario (GUI):</strong> el usuario interactúa mediante ventanas, iconos, menús y el ratón. Es el tipo de interfaz dominante en los SO modernos de uso general.</li>
+</ul>
+<h4 id="422-por-el-número-de-usuarios-y-tareas">4.2.2 Por el número de usuarios y tareas<a class="anchor-link" aria-label="Enlace a esta seccion" href="#422-por-el-número-de-usuarios-y-tareas"><span class="icon icon-link"></span></a></h4>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Descripción</th><th>Ejemplo</th></tr></thead><tbody><tr><td><strong>Monousuario / monotarea</strong></td><td>Un solo usuario ejecuta una sola tarea a la vez</td><td>MS-DOS</td></tr><tr><td><strong>Monousuario / multitarea</strong></td><td>Un solo usuario puede ejecutar varias tareas simultáneamente</td><td>Windows en un PC personal</td></tr><tr><td><strong>Multiusuario / multitarea</strong></td><td>Varios usuarios acceden al sistema simultáneamente, cada uno con sus propias sesiones y tareas</td><td>Linux en un servidor, Windows Server</td></tr></tbody></table>
+<h3 id="43-principales-sistemas-operativos">4.3 Principales sistemas operativos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#43-principales-sistemas-operativos"><span class="icon icon-link"></span></a></h3>
+<h4 id="431-microsoft-windows">4.3.1 Microsoft Windows<a class="anchor-link" aria-label="Enlace a esta seccion" href="#431-microsoft-windows"><span class="icon icon-link"></span></a></h4>
+<p><strong>Windows</strong> es el sistema operativo de escritorio más extendido en el mundo, desarrollado por Microsoft. Su versión actual para usuarios finales es <strong><mark class="study-mark study-mark-key">Windows 11</mark></strong> (lanzado en octubre de <mark class="study-mark study-mark-date">2021</mark>), que requiere hardware compatible con TPM 2.0 y arranque seguro (Secure Boot).</p>
+<p>Para entornos de servidor, Microsoft ofrece <strong>Windows Server</strong> (versión actual: Windows Server <mark class="study-mark study-mark-date">2022</mark>).</p>
+<p>Windows es el sistema operativo predominante en las Administraciones Públicas españolas y en el entorno de la Diputación Provincial de Burgos.</p>
+<h4 id="432-linux">4.3.2 Linux<a class="anchor-link" aria-label="Enlace a esta seccion" href="#432-linux"><span class="icon icon-link"></span></a></h4>
+<p><strong>Linux</strong> es un sistema operativo de <strong>código abierto</strong> basado en el núcleo (kernel) creado por Linus Torvalds en <mark class="study-mark study-mark-date">1991</mark>. No existe una única versión de Linux: se distribuye en múltiples <strong>distribuciones</strong> (distros), que combinan el kernel Linux con distintos entornos gráficos, herramientas y aplicaciones.</p>
+<p>Distribuciones más conocidas: <strong>Ubuntu</strong>, <strong>Debian</strong>, <strong>Fedora</strong>, <strong>CentOS/AlmaLinux</strong>, <strong>openSUSE</strong>. Para servidores, Linux es el sistema operativo dominante a nivel mundial.</p>
+<p>En el ámbito de las Administraciones Públicas españolas, algunas han adoptado distribuciones de Linux para reducir costes de licencias (como <strong>LliureX</strong> en la Comunitat Valenciana).</p>
+<h4 id="433-macos">4.3.3 macOS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#433-macos"><span class="icon icon-link"></span></a></h4>
+<p><strong>macOS</strong> (anteriormente OS X) es el sistema operativo desarrollado por Apple para sus ordenadores Mac. Es un sistema propietario, de interfaz gráfica muy cuidada, basado en Unix. Su uso en el entorno de trabajo administrativo es más reducido que Windows.</p>
+<h4 id="434-sistemas-operativos-para-dispositivos-móviles">4.3.4 Sistemas operativos para dispositivos móviles<a class="anchor-link" aria-label="Enlace a esta seccion" href="#434-sistemas-operativos-para-dispositivos-móviles"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>Android</strong> (Google): el sistema operativo más extendido en smartphones y tabletas a nivel mundial. Basado en el kernel Linux y de código abierto (aunque con componentes propietarios de Google).</li>
+<li><strong>iOS / iPadOS</strong> (Apple): sistema operativo de los iPhone y iPad; propietario, de alto rendimiento y gran integración con el ecosistema Apple.</li>
+</ul>
+<h4 id="435-sistemas-operativos-para-servidores">4.3.5 Sistemas operativos para servidores<a class="anchor-link" aria-label="Enlace a esta seccion" href="#435-sistemas-operativos-para-servidores"><span class="icon icon-link"></span></a></h4>
+<p>Además de <strong>Windows Server</strong> y las distribuciones <strong>Linux</strong> para servidores, existen sistemas especializados como <strong>VMware ESXi</strong> para virtualización o <strong>FreeBSD</strong> para entornos de red de alto rendimiento.</p>
+<h3 id="44-conceptos-clave-de-los-sistemas-operativos">4.4 Conceptos clave de los sistemas operativos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#44-conceptos-clave-de-los-sistemas-operativos"><span class="icon icon-link"></span></a></h3>
+<p><strong>Proceso:</strong> instancia en ejecución de un programa. El SO gestiona los procesos asignándoles tiempo de CPU y recursos de memoria.</p>
+<p><strong>Multitarea:</strong> capacidad del SO para gestionar la ejecución simultánea (o aparentemente simultánea) de varios procesos. En los procesadores de un solo núcleo se logra dividiendo el tiempo de CPU entre los procesos (time-sharing); en los multinúcleo, la ejecución es realmente simultánea.</p>
+<p><strong>Memoria virtual:</strong> técnica mediante la cual el SO utiliza parte del disco de almacenamiento como extensión de la RAM (en Windows, el archivo de paginación o pagefile.sys). Permite ejecutar programas aunque la RAM esté casi llena, aunque con una reducción significativa del rendimiento.</p>
+<p><strong>Sistema de archivos:</strong> la estructura que el SO utiliza para organizar y gestionar los archivos y directorios en los dispositivos de almacenamiento. Los más comunes son <strong>NTFS</strong> (Windows), <strong>ext4</strong> (Linux) y <strong>APFS</strong> (macOS). El sistema de archivos define cómo se nombran, ubican y acceden los archivos.</p>
+<p><strong>Usuarios y permisos:</strong> los SO multiusuario gestionan diferentes cuentas de usuario, cada una con sus propios archivos, configuraciones y permisos de acceso. En Windows, la cuenta de <strong>Administrador</strong> tiene control total del sistema; las cuentas de <strong>usuario estándar</strong> tienen permisos limitados para proteger la seguridad del sistema.</p>
+<hr>
+<h2 id="5-sistemas-de-almacenamiento-de-datos">5. SISTEMAS DE ALMACENAMIENTO DE DATOS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#5-sistemas-de-almacenamiento-de-datos"><span class="icon icon-link"></span></a></h2>
+<h3 id="51-concepto-y-clasificación">5.1 Concepto y clasificación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#51-concepto-y-clasificación"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>dispositivos de almacenamiento</strong> son los componentes que permiten guardar datos de forma persistente, es decir, que los datos se conservan aunque el equipo se apague (a diferencia de la RAM, que es volátil).</p>
+<p>Se clasifican según varios criterios:</p>
+<p><strong>Por la tecnología empleada:</strong></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Tecnología</th><th>Ejemplos</th></tr></thead><tbody><tr><td><strong>Magnética</strong></td><td>Lectura/escritura mediante cabezas magnéticas sobre discos o cintas</td><td>HDD, cintas magnéticas</td></tr><tr><td><strong>Óptica</strong></td><td>Lectura/escritura mediante rayos láser sobre discos</td><td>CD, DVD, Blu-ray</td></tr><tr><td><strong>Flash (electrónica)</strong></td><td>Almacenamiento en chips de memoria sin partes móviles</td><td>SSD, USB, tarjetas SD</td></tr><tr><td><strong>En la nube</strong></td><td>Almacenamiento en servidores remotos accesibles por <mark class="study-mark study-mark-key">internet</mark></td><td>Google Drive, OneDrive, Dropbox</td></tr></tbody></table>
+<p><strong>Por su ubicación respecto al sistema:</strong></p>
+<ul>
+<li><strong>Almacenamiento interno:</strong> integrado dentro del ordenador (disco duro interno, SSD interno).</li>
+<li><strong>Almacenamiento externo:</strong> conectado al ordenador por cable o de forma inalámbrica (disco duro externo, USB, tarjeta SD).</li>
+<li><strong>Almacenamiento en red (NAS/SAN):</strong> dispositivos de almacenamiento accesibles a través de una red local.</li>
+<li><strong>Almacenamiento en la nube:</strong> accesible a través de <mark class="study-mark study-mark-key">internet</mark>.</li>
+</ul>
+<h3 id="52-el-disco-duro-hdd">5.2 El disco duro (HDD)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#52-el-disco-duro-hdd"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>disco duro</strong> (Hard Disk Drive — HDD) es el dispositivo de almacenamiento interno tradicional. Está formado por uno o varios <strong>platos</strong> magnéticos que giran a alta velocidad (típicamente 5.400 o 7.200 RPM), y por unas <strong>cabezas de lectura/escritura</strong> que se desplazan sobre los platos para leer y escribir datos.</p>
+<p>Características:</p>
+<ul>
+<li><strong>Gran capacidad</strong> a bajo coste: los HDD actuales van de 1 TB a varios decenas de TB.</li>
+<li><strong>Velocidad de acceso</strong> moderada: entre 80 y 160 MB/s en lectura/escritura secuencial.</li>
+<li><strong>Vulnerabilidad a golpes:</strong> al tener partes mecánicas en movimiento, son sensibles a vibraciones e impactos.</li>
+<li><strong>Mayor consumo y ruido</strong> que los SSD.</li>
+</ul>
+<p>Se utilizan principalmente para el almacenamiento masivo de datos (NAS, servidores de backup, discos externos).</p>
+<h3 id="53-la-unidad-de-estado-sólido-ssd">5.3 La unidad de <mark class="study-mark study-mark-key">estado</mark> sólido (SSD)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#53-la-unidad-de-estado-sólido-ssd"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>SSD</strong> (Solid State Drive) es el dispositivo de almacenamiento moderno que utiliza <strong>memoria flash</strong> (chips electrónicos) en lugar de platos magnéticos. No tiene partes móviles.</p>
+<p>Características:</p>
+<ul>
+<li><strong>Velocidad muy superior</strong> a los HDD: los SSD SATA alcanzan 500-550 MB/s; los SSD NVMe (conectados por PCIe) superan los 3.000-7.000 MB/s.</li>
+<li><strong>Resistencia a golpes:</strong> al no tener partes mecánicas, son mucho más robustos.</li>
+<li><strong>Silencioso y con menor consumo</strong> energético.</li>
+<li><strong>Mayor precio por GB</strong> que los HDD, aunque la diferencia se ha reducido enormemente.</li>
+<li><strong>Vida útil limitada</strong> en número de ciclos de escritura, aunque suficiente para uso normal.</li>
+</ul>
+<p>Los SSD se han convertido en el dispositivo de almacenamiento estándar para el disco del sistema en los ordenadores modernos, tanto de sobremesa como portátiles.</p>
+<p>Los SSD pueden conectarse mediante:</p>
+<ul>
+<li><strong>SATA:</strong> interfaz tradicional, compatible con los conectores de los HDD. Velocidad limitada a ~550 MB/s.</li>
+<li><strong>M.2 NVMe (PCIe):</strong> interfaz moderna, mucho más rápida. El disco se conecta directamente a un slot M.<mark class="study-mark study-mark-date">2 de la</mark> placa base.</li>
+</ul>
+<h3 id="54-los-dispositivos-ópticos">5.4 Los dispositivos ópticos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#54-los-dispositivos-ópticos"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>discos ópticos</strong> utilizan rayos láser para leer y escribir datos sobre una superficie reflectante:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Capacidad aproximada</th><th>Uso actual</th></tr></thead><tbody><tr><td><strong>CD</strong> (Compact Disc)</td><td>700 MB</td><td>En declive; música, pequeñas copias</td></tr><tr><td><strong>DVD</strong> (Digital Versatile Disc)</td><td>4,7 GB (simple capa) / 8,5 GB (doble capa)</td><td>Software, películas, copias de seguridad</td></tr><tr><td><strong>Blu-ray</strong></td><td>25 GB (simple capa) / 50 GB (doble capa)</td><td>Películas en alta definición, archivo</td></tr></tbody></table>
+<p>Los dispositivos ópticos han perdido protagonismo con la expansión de los dispositivos USB y el almacenamiento en la nube.</p>
+<h3 id="55-las-memorias-flash-portátiles">5.5 Las memorias flash portátiles<a class="anchor-link" aria-label="Enlace a esta seccion" href="#55-las-memorias-flash-portátiles"><span class="icon icon-link"></span></a></h3>
+<h4 id="551-el-usb-pendrive-o-memoria-usb">5.5.1 El USB (pendrive o memoria USB)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#551-el-usb-pendrive-o-memoria-usb"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>pendrive</strong> o <strong>memoria USB</strong> es un pequeño dispositivo de almacenamiento flash que se conecta al ordenador mediante un puerto USB. Su capacidad oscila entre 4 GB y 1 TB, y su velocidad depende de la versión USB (USB 2.0: hasta 60 MB/s; USB 3.0/3.1/3.2: hasta 600 MB/s o más).</p>
+<p>Es el dispositivo de almacenamiento portátil más utilizado en la actualidad por su comodidad, pequeño tamaño y bajo coste.</p>
+<h4 id="552-las-tarjetas-de-memoria-sd-microsd">5.5.2 Las tarjetas de memoria (SD, microSD)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#552-las-tarjetas-de-memoria-sd-microsd"><span class="icon icon-link"></span></a></h4>
+<p>Las <strong>tarjetas de memoria</strong> SD (Secure Digital) y microSD son dispositivos de almacenamiento flash en formato tarjeta. Se utilizan en cámaras fotográficas, smartphones, tabletas, y como almacenamiento adicional en portátiles. Su capacidad va de unos pocos GB hasta 1 TB.</p>
+<h3 id="56-el-almacenamiento-en-red-nas-y-san">5.6 El almacenamiento en red (NAS y SAN)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#56-el-almacenamiento-en-red-nas-y-san"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>NAS</strong> (Network Attached Storage — Almacenamiento Conectado en Red) es un dispositivo de almacenamiento que se conecta a la red local y permite que múltiples usuarios y equipos accedan a sus archivos de forma simultánea. Es habitual en empresas, oficinas y Administraciones Públicas para compartir documentos y realizar copias de seguridad centralizadas.</p>
+<p>El <strong>SAN</strong> (Storage Area Network) es una red de almacenamiento de alto rendimiento utilizada en entornos empresariales de gran escala, donde múltiples servidores acceden a recursos de almacenamiento compartidos de forma muy rápida.</p>
+<h3 id="57-el-almacenamiento-en-la-nube">5.7 El almacenamiento en la nube<a class="anchor-link" aria-label="Enlace a esta seccion" href="#57-el-almacenamiento-en-la-nube"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>almacenamiento en la nube</strong> (cloud storage) consiste en guardar los datos en servidores remotos gestionados por un proveedor, accesibles a través de <mark class="study-mark study-mark-key">internet</mark> desde cualquier dispositivo y ubicación.</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Servicio</th><th>Proveedor</th><th>Almacenamiento gratuito</th></tr></thead><tbody><tr><td><strong>OneDrive</strong></td><td>Microsoft</td><td>5 GB (integrado en Windows y Microsoft 365)</td></tr><tr><td><strong>Google Drive</strong></td><td>Google</td><td>15 GB</td></tr><tr><td><strong>iCloud Drive</strong></td><td>Apple</td><td>5 GB</td></tr><tr><td><strong>Dropbox</strong></td><td>Dropbox Inc.</td><td>2 GB</td></tr></tbody></table>
+<p>Ventajas del almacenamiento en la nube: acceso desde cualquier lugar, sincronización automática entre dispositivos, no se pierde la información si el dispositivo local falla.</p>
+<p>Inconvenientes: depende de la conexión a <mark class="study-mark study-mark-key">internet</mark>, implica ceder el control de los datos a un tercero (privacidad), puede generar costes de suscripción para grandes volúmenes.</p>
+<h3 id="58-unidades-de-medida-de-la-información">5.8 Unidades de medida de la información<a class="anchor-link" aria-label="Enlace a esta seccion" href="#58-unidades-de-medida-de-la-información"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Unidad</th><th>Equivalencia</th><th>Abreviatura</th></tr></thead><tbody><tr><td><strong>Bit</strong></td><td>Unidad mínima de información (0 o 1)</td><td>b</td></tr><tr><td><strong>Byte</strong></td><td>8 bits</td><td>B</td></tr><tr><td><strong>Kilobyte</strong></td><td>1.024 bytes</td><td>KB</td></tr><tr><td><strong>Megabyte</strong></td><td>1.024 KB = 1.048.576 bytes</td><td>MB</td></tr><tr><td><strong>Gigabyte</strong></td><td>1.024 MB</td><td>GB</td></tr><tr><td><strong>Terabyte</strong></td><td>1.024 GB</td><td>TB</td></tr><tr><td><strong>Petabyte</strong></td><td>1.024 TB</td><td>PB</td></tr></tbody></table>
+<hr>
+<h2 id="6-nociones-básicas-de-seguridad-informática">6. NOCIONES BÁSICAS DE SEGURIDAD INFORMÁTICA<a class="anchor-link" aria-label="Enlace a esta seccion" href="#6-nociones-básicas-de-seguridad-informática"><span class="icon icon-link"></span></a></h2>
+<h3 id="61-concepto-y-objetivos">6.1 Concepto y objetivos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#61-concepto-y-objetivos"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>seguridad informática</strong> (también llamada ciberseguridad) es el conjunto de medidas técnicas, organizativas y jurídicas destinadas a proteger los sistemas informáticos, las redes y los datos frente a accesos no autorizados, daños, alteraciones, destrucción o robo.</p>
+<p>Los tres objetivos fundamentales de la seguridad informática se resumen en la <strong>triada CIA</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Objetivo</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Confidencialidad</strong> (Confidentiality)</td><td>Solo las personas autorizadas pueden acceder a la información. Los datos no deben ser accesibles a terceros no autorizados</td></tr><tr><td><strong>Integridad</strong> (Integrity)</td><td>La información debe ser exacta y completa. Nadie puede modificarla sin autorización, y cualquier modificación no autorizada debe poder detectarse</td></tr><tr><td><strong>Disponibilidad</strong> (Availability)</td><td>Los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten, sin interrupciones no planificadas</td></tr></tbody></table>
+<p>En el ámbito de las Administraciones Públicas, el marco normativo de la seguridad informática es el <strong>Esquema Nacional de Seguridad (ENS)</strong>, aprobado por el <mark class="study-mark study-mark-law">Real Decreto 3/2010</mark> y actualizado por el <mark class="study-mark study-mark-law">Real Decreto 311/2022</mark>, que establece las medidas de seguridad que deben aplicar las AAPP en sus sistemas de información.</p>
+<h3 id="62-principales-amenazas-a-la-seguridad-informática">6.2 Principales amenazas a la seguridad informática<a class="anchor-link" aria-label="Enlace a esta seccion" href="#62-principales-amenazas-a-la-seguridad-informática"><span class="icon icon-link"></span></a></h3>
+<h4 id="621-malware">6.2.1 Malware<a class="anchor-link" aria-label="Enlace a esta seccion" href="#621-malware"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>malware</strong> (malicious software — software malicioso) es cualquier programa diseñado para dañar, alterar o acceder sin autorización a sistemas informáticos o datos. Los tipos más comunes son:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Virus</strong></td><td>Programa que se inserta en otros ficheros o programas y se propaga al ejecutarlos. Puede dañar o destruir datos</td></tr><tr><td><strong>Gusano (worm)</strong></td><td>Programa que se propaga automáticamente por la red sin necesidad de un fichero huésped, consumiendo ancho de banda y recursos</td></tr><tr><td><strong>Troyano (trojan)</strong></td><td>Se presenta como un programa legítimo pero ejecuta acciones maliciosas en segundo plano (robo de datos, apertura de puertas traseras)</td></tr><tr><td><strong>Ransomware</strong></td><td>Cifra los archivos del sistema y exige un rescate económico (normalmente en criptomonedas) para proporcionar la clave de descifrado. Es una de las amenazas más graves para las organizaciones</td></tr><tr><td><strong>Spyware</strong></td><td>Espía la actividad del usuario y envía la información a terceros sin consentimiento</td></tr><tr><td><strong>Adware</strong></td><td>Muestra publicidad no solicitada al usuario</td></tr><tr><td><strong>Rootkit</strong></td><td>Se oculta en el sistema a nivel muy bajo (incluso en el firmware) para mantener el acceso no autorizado de forma persistente</td></tr><tr><td><strong>Keylogger</strong></td><td>Registra las pulsaciones de teclado del usuario para robar contraseñas y datos sensibles</td></tr></tbody></table>
+<h4 id="622-phishing-y-ingeniería-social">6.2.2 <mark class="study-mark study-mark-key">Phishing</mark> y ingeniería social<a class="anchor-link" aria-label="Enlace a esta seccion" href="#622-phishing-y-ingeniería-social"><span class="icon icon-link"></span></a></h4>
+<p>El <strong><mark class="study-mark study-mark-key">phishing</mark></strong> es una técnica de engaño mediante la cual el atacante suplanta la identidad de una entidad legítima (banco, Administración, empresa) para engañar al usuario y conseguir que revele sus credenciales, datos personales o bancarios.</p>
+<p>Se realiza habitualmente mediante:</p>
+<ul>
+<li><strong>Correos electrónicos fraudulentos</strong> que simulan ser de una entidad de confianza.</li>
+<li><strong>Páginas web falsas</strong> que imitan las de servicios legítimos (banca online, servicios de la Administración).</li>
+<li><strong>SMS fraudulentos</strong> (smishing) o llamadas telefónicas (vishing).</li>
+</ul>
+<p>La <strong>ingeniería social</strong> es el conjunto de técnicas psicológicas que utilizan los atacantes para manipular a las personas y conseguir que realicen acciones que comprometan la seguridad (revelar contraseñas, ejecutar archivos maliciosos, transferir dinero, etc.).</p>
+<h4 id="623-ataques-a-contraseñas">6.2.3 Ataques a contraseñas<a class="anchor-link" aria-label="Enlace a esta seccion" href="#623-ataques-a-contraseñas"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>Fuerza bruta:</strong> el atacante prueba sistemáticamente todas las combinaciones posibles de contraseñas hasta encontrar la correcta.</li>
+<li><strong>Diccionario:</strong> similar a la fuerza bruta, pero utilizando listas de palabras comunes y contraseñas habituales.</li>
+<li><strong>Credential stuffing:</strong> uso de pares usuario/contraseña filtrados en otras brechas de seguridad para intentar acceder a otros servicios.</li>
+</ul>
+<h4 id="624-ataques-de-denegación-de-servicio-dos--ddos">6.2.4 Ataques de denegación de servicio (DoS / DDoS)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#624-ataques-de-denegación-de-servicio-dos--ddos"><span class="icon icon-link"></span></a></h4>
+<p>Los ataques de <strong>denegación de servicio</strong> (Denial of Service) consisten en saturar un servidor o red con un volumen masivo de solicitudes para impedir que los usuarios legítimos puedan acceder al servicio. Los ataques <strong>DDoS</strong> (Distributed DoS) se realizan desde miles de dispositivos comprometidos simultáneamente (botnet).</p>
+<h4 id="625-vulnerabilidades-y-exploits">6.2.5 Vulnerabilidades y exploits<a class="anchor-link" aria-label="Enlace a esta seccion" href="#625-vulnerabilidades-y-exploits"><span class="icon icon-link"></span></a></h4>
+<p>Una <strong>vulnerabilidad</strong> es un fallo o debilidad en un sistema o programa que puede ser aprovechada por un atacante. Un <strong>exploit</strong> es el programa o código que aprovecha una vulnerabilidad concreta para atacar el sistema. Por ello es fundamental mantener los sistemas y aplicaciones actualizados con los últimos <strong>parches de seguridad</strong>.</p>
+<h3 id="63-medidas-de-protección">6.3 Medidas de protección<a class="anchor-link" aria-label="Enlace a esta seccion" href="#63-medidas-de-protección"><span class="icon icon-link"></span></a></h3>
+<h4 id="631-antivirus-y-antimalware">6.3.1 Antivirus y antimalware<a class="anchor-link" aria-label="Enlace a esta seccion" href="#631-antivirus-y-antimalware"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>antivirus</strong> es el software de seguridad diseñado para detectar, bloquear y eliminar malware. Funciona comparando los archivos del sistema con su base de datos de firmas de malware conocido, y utilizando técnicas heurísticas para detectar comportamientos sospechosos de nuevas amenazas no conocidas.</p>
+<p>Es imprescindible mantener el antivirus <strong>actualizado</strong> para que su base de datos de firmas refleje las amenazas más recientes.</p>
+<p><mark class="study-mark study-mark-key">Windows 11</mark> incorpora de serie <strong>Microsoft Defender</strong>, un antivirus integrado que ofrece protección en tiempo real sin coste adicional.</p>
+<h4 id="632-el-cortafuegos-firewall">6.3.2 El cortafuegos (firewall)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#632-el-cortafuegos-firewall"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>cortafuegos</strong> (firewall) es el sistema (hardware o software) que controla el tráfico de red entre el equipo o la red interna y el exterior (<mark class="study-mark study-mark-key">internet</mark>), permitiendo o bloqueando las conexiones según unas reglas predefinidas. Su función es impedir que accesos no autorizados lleguen al sistema desde la red.</p>
+<p>Windows incorpora un firewall de software integrado. En entornos corporativos se utilizan también firewalls de hardware (dispositivos dedicados).</p>
+<h4 id="633-las-actualizaciones-del-sistema-y-las-aplicaciones">6.3.3 Las actualizaciones del sistema y las aplicaciones<a class="anchor-link" aria-label="Enlace a esta seccion" href="#633-las-actualizaciones-del-sistema-y-las-aplicaciones"><span class="icon icon-link"></span></a></h4>
+<p>Mantener el sistema operativo y las aplicaciones <strong>actualizados</strong> es una de las medidas de seguridad más importantes. Las actualizaciones corrigen vulnerabilidades conocidas que podrían ser explotadas por atacantes.</p>
+<p>Windows Update gestiona las actualizaciones de Windows y de los productos Microsoft. Es fundamental no deshabilitar las actualizaciones automáticas en los equipos de trabajo.</p>
+<h4 id="634-las-contraseñas-seguras">6.3.4 Las contraseñas seguras<a class="anchor-link" aria-label="Enlace a esta seccion" href="#634-las-contraseñas-seguras"><span class="icon icon-link"></span></a></h4>
+<p>Una <strong>contraseña segura</strong> debe cumplir las siguientes carácterísticas:</p>
+<ul>
+<li><strong>Longitud mínima</strong> de 8-12 caracteres (cuanto más larga, más segura).</li>
+<li><strong>Combinación</strong> de letras mayúsculas y minúsculas, números y caracteres especiales.</li>
+<li>No debe contener información personal fácilmente deducible (nombre, fecha de nacimiento).</li>
+<li>Debe ser <strong>única</strong> para cada servicio o cuenta (no reutilizar contraseñas).</li>
+<li>Debe cambiarse periódicamente, especialmente si se sospecha que ha sido comprometida.</li>
+</ul>
+<p>Los <strong>gestores de contraseñas</strong> (password managers) son herramientas que permiten generar y almacenar contraseñas seguras y únicas para cada servicio, sin necesidad de memorizarlas todas.</p>
+<h4 id="635-la-autenticación-de-doble-factor-2fa">6.3.5 La autenticación de doble factor (2FA)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#635-la-autenticación-de-doble-factor-2fa"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>autenticación de doble factor</strong> (Two-Factor Authentication — 2FA) añade una segunda capa de seguridad al proceso de inicio de sesión, además de la contraseña. El segundo factor puede ser:</p>
+<ul>
+<li>Un <strong>código de un solo uso (OTP)</strong> recibido por SMS o generado por una aplicación de autenticación (Google Authenticator, Microsoft Authenticator).</li>
+<li>Una <strong>clave de seguridad física</strong> (USB hardware token).</li>
+<li>La <strong>biometría</strong> (huella dactilar, reconocimiento facial).</li>
+</ul>
+<p>Con 2FA, aunque un atacante obtenga la contraseña del usuario, no puede acceder a la cuenta sin el segundo factor.</p>
+<h4 id="636-las-copias-de-seguridad-backup">6.3.6 Las copias de seguridad (backup)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#636-las-copias-de-seguridad-backup"><span class="icon icon-link"></span></a></h4>
+<p>La <strong>copia de seguridad</strong> (backup) consiste en duplicar los datos en un soporte diferente al original, de forma que puedan recuperarse en caso de pérdida, borrado accidental, fallo del hardware o ataque de ransomware.</p>
+<p>Regla del <strong>3-2-1</strong>: mantener <strong>3</strong> copias de los datos, en <strong>2</strong> soportes distintos, con <strong>1</strong> copia almacenada fuera de las instalaciones (offsite) o en la nube.</p>
+<p>En las Administraciones Públicas, la realización de copias de seguridad es una obligación derivada del ENS.</p>
+<h4 id="637-el-cifrado-de-datos">6.3.7 El cifrado de datos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#637-el-cifrado-de-datos"><span class="icon icon-link"></span></a></h4>
+<p>El <strong>cifrado</strong> (encriptación) transforma la información en un formato ilegible para quien no disponga de la clave correspondiente. Se aplica para proteger la confidencialidad de los datos tanto en el almacenamiento (cifrado de disco) como en la transmisión (conexiones <mark class="study-mark study-mark-key">HTTPS</mark>, VPN).</p>
+<p><strong><mark class="study-mark study-mark-key">HTTPS</mark></strong> (HyperText Transfer Protocol Secure) es el protocolo de comunicación segura que cifra el tráfico entre el navegador y el servidor web. Identificable por el candado en la barra de direcciones del navegador y porque la URL comienza por <em><mark class="study-mark study-mark-key">https</mark>://</em>.</p>
+<p><strong>BitLocker</strong> es la herramienta de cifrado de disco incluida en Windows, que protege los datos del disco duro mediante cifrado en caso de que el dispositivo sea robado o accedido físicamente por un usuario no autorizado.</p>
+<h4 id="638-buenas-prácticas-del-usuario">6.3.8 Buenas prácticas del usuario<a class="anchor-link" aria-label="Enlace a esta seccion" href="#638-buenas-prácticas-del-usuario"><span class="icon icon-link"></span></a></h4>
+<ul>
+<li><strong>No abrir archivos adjuntos</strong> ni hacer clic en enlaces de correos electrónicos sospechosos o no solicitados.</li>
+<li><strong>Verificar la dirección del remitente</strong> y la URL del sitio web antes de introducir credenciales.</li>
+<li><strong>Bloquear el equipo</strong> (Windows + L) cuando se abandone el puesto de trabajo.</li>
+<li><strong>No conectar dispositivos USB</strong> de origen desconocido.</li>
+<li><strong>Usar redes Wi-Fi seguras</strong> y evitar las redes públicas para trámites sensibles; si es necesario usarlas, utilizar una VPN.</li>
+<li><strong>Cerrar sesión</strong> en los servicios de la Administración al terminar de usarlos.</li>
+<li><strong>No instalar software</strong> no autorizado por el departamento de informática.</li>
+<li><strong>Reportar incidencias de seguridad</strong> al responsable de informática de la organización.</li>
+</ul>
+<h3 id="64-el-esquema-nacional-de-seguridad-ens">6.4 El Esquema Nacional de Seguridad (ENS)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#64-el-esquema-nacional-de-seguridad-ens"><span class="icon icon-link"></span></a></h3>
+<p>El <strong>ENS</strong> establece la política de seguridad que deben aplicar las Administraciones Públicas en sus sistemas de información. Sus principios básicos son:</p>
+<ul>
+<li><strong>Seguridad integral:</strong> la seguridad es un proceso global que afecta a todos los componentes del sistema, no solo a los técnicos.</li>
+<li><strong>Gestión de riesgos:</strong> las medidas de seguridad deben ser proporcionales a los riesgos evaluados.</li>
+<li><strong>Prevención, detección, respuesta y recuperación:</strong> la seguridad no solo busca prevenir los incidentes, sino también detectarlos rápidamente, responder a ellos y recuperarse.</li>
+<li><strong>Mejora continua:</strong> la seguridad debe revisarse y actualizarse permanentemente.</li>
+</ul>
+<p>El ENS clasifica los sistemas en tres <strong>categorías</strong> (básica, media, alta) en función del impacto que tendría un fallo de seguridad, y exige distintos niveles de medidas de protección para cada categoría.</p>
+<hr>
+<h2 id="resumen-esquemático-para-repasar">RESUMEN ESQUEMÁTICO PARA REPASAR<a class="anchor-link" aria-label="Enlace a esta seccion" href="#resumen-esquemático-para-repasar"><span class="icon icon-link"></span></a></h2>
+<div class="study-list study-list-summary">
+<ul>
+  <li>HARDWARE
+    <ul>
+      <li>CPU (procesador): UC (coordina) + UAL (opera) + registros + caché L1/L2/L3
+        <ul>
+          <li>→ Velocidad en GHz / núcleos (dual, quad, octa-core) / fabricantes: Intel y AMD</li>
+        </ul></li>
+      <li>RAM: memoria principal, VOLÁTIL, se pierde al apagar / capacidad en GB / DDR4-DDR5</li>
+      <li>ROM / BIOS-UEFI: memoria no volátil / firmware de arranque / POST</li>
+      <li>Placa base: conecta todos los componentes / chipset / zócalo CPU / ranuras RAM / puertos</li>
+      <li>SSD vs HDD:
+        <ul>
+          <li>HDD: magnético, partes móviles, gran capacidad a bajo coste, más lento y frágil</li>
+          <li>SSD: flash, sin partes móviles, mucho más rápido, resistente, mayor precio por GB
+            <ul>
+              <li>→ Interfaces SSD: SATA (~550 MB/s) / M.2 NVMe PCIe (>3.000 MB/s)</li>
+            </ul></li>
+        </ul></li>
+      <li>Periféricos: entrada (teclado, ratón, escáner) / salida (monitor, impresora) / mixtos</li>
+    </ul></li>
+  <li>SOFTWARE
+    <ul>
+      <li>De sistema: SO + drivers + BIOS/UEFI + utilidades</li>
+      <li>De aplicación: Word, Excel, navegadores, correo, ERP…</li>
+      <li>De programación: compiladores, IDEs, depuradores</li>
+      <li>Por licencia: propietario / libre (código abierto) / freeware / shareware / SaaS</li>
+    </ul></li>
+  <li>SISTEMAS OPERATIVOS
+    <ul>
+      <li>Funciones: gestión de CPU + RAM + almacenamiento + periféricos + usuarios + red + interfaz</li>
+      <li>Tipos de interfaz: CLI (línea de comandos) vs. GUI (gráfica)</li>
+      <li>Principales SO:
+        <ul>
+          <li>Windows 11 (Microsoft): dominante en escritorio y en AAPP españolas</li>
+          <li>Linux (código abierto): dominante en servidores / múltiples distribuciones</li>
+          <li>macOS (Apple): uso minoritario en entornos de trabajo administrativo</li>
+          <li>Android / iOS: sistemas móviles</li>
+        </ul></li>
+      <li>Conceptos clave: proceso / multitarea / memoria virtual /
+        <ul>
+          <li>sistema de archivos (NTFS en Windows, ext4 en Linux) / usuarios y permisos</li>
+        </ul></li>
+      <li>Administrador vs. usuario estándar: el administrador tiene control total del sistema</li>
+    </ul></li>
+  <li>SISTEMAS DE ALMACENAMIENTO
+    <ul>
+      <li>HDD: magnético / 5.400-7.200 RPM / 1 TB-varios TB / lento / barato / frágil</li>
+      <li>SSD: flash / sin partes móviles / muy rápido / robusto / más caro por GB</li>
+      <li>Ópticos: CD (700 MB) / DVD (4,7-8,5 GB) / Blu-ray (25-50 GB) / en declive</li>
+      <li>Flash portátil: USB/pendrive + tarjetas SD/microSD</li>
+      <li>Almacenamiento en red: NAS (oficinas) / SAN (grandes empresas)</li>
+      <li>Nube: OneDrive / Google Drive / iCloud / Dropbox</li>
+      <li>Unidades: bit → byte (8b) → KB → MB → GB → TB → PB</li>
+    </ul></li>
+  <li>SEGURIDAD INFORMÁTICA
+    <ul>
+      <li>Triada CIA: Confidencialidad + Integridad + Disponibilidad</li>
+      <li>Marco normativo AAPP: Esquema Nacional de Seguridad — ENS (RD 3/2010, actualiz. RD 311/2022)
+        <ul>
+          <li>→ Categorías: básica / media / alta según impacto del fallo</li>
+        </ul></li>
+      <li>Amenazas:
+        <ul>
+          <li>Malware: virus / gusano / troyano / RANSOMWARE (cifra y pide rescate) /
+            <ul>
+              <li>spyware / keylogger / rootkit</li>
+            </ul></li>
+          <li>Phishing / ingeniería social: suplantación de identidad para robar credenciales</li>
+          <li>Ataques a contraseñas: fuerza bruta / diccionario / credential stuffing</li>
+          <li>DoS/DDoS: saturación del servicio para hacerlo inaccesible</li>
+        </ul></li>
+      <li>Medidas de protección:
+        <ul>
+          <li>Antivirus / antimalware → actualizado (Windows: Defender integrado)</li>
+          <li>Firewall (cortafuegos): controla tráfico de red</li>
+          <li>Actualizaciones del SO y aplicaciones: corrigen vulnerabilidades</li>
+          <li>Contraseñas seguras: larga + mixta (may/min/núm/especiales) + única por servicio</li>
+          <li>2FA (doble factor): contraseña + OTP/biometría/token físico</li>
+          <li>Copias de seguridad (backup): regla 3-2-1 (3 copias / 2 soportes / 1 offsite)</li>
+          <li>Cifrado: BitLocker (disco) / HTTPS (navegación) / VPN (red)</li>
+          <li>Buenas prácticas: no abrir adjuntos sospechosos / bloquear equipo / no conectar USB desconocidos /
+            <ul>
+              <li>no usar Wi-Fi pública sin VPN / reportar incidencias</li>
+            </ul></li>
+        </ul></li>
+      <li>ENS: principios: seguridad integral / gestión de riesgos / prevención-detección-respuesta-recuperación / mejora continua</li>
+    </ul></li>
+</ul>
+</div>
+<hr>
+<p><em>Fin del Tema 36 — Administrativo C1 | Preparación OEP <mark class="study-mark study-mark-date">2026</mark></em></p> </div>  </main> </div> <script type="module" src="/administrativo-burgos/_astro/StudySync.astro_astro_type_script_index_0_lang.CXqdfJvd.js"></script> <script type="module">const r="oposicion-access-ok-v1",i="rodrigo",d="xof13odi";function c(){const e=document.createElement("div");e.setAttribute("id","access-gate"),e.setAttribute("class","position-fixed top-0 start-0 w-100 h-100 d-grid align-items-center bg-body"),e.setAttribute("style","z-index:9999;padding:1rem;"),e.innerHTML=`
+      <form class="card shadow-sm border-0 mx-auto p-4" style="max-width:380px;width:100%;" id="gate-form">
+        <div class="d-flex align-items-center mb-3">
+          <span class="bd-brand-mark me-2">B</span>
+          <h1 class="h4 mb-0">Acceso</h1>
+        </div>
+        <p class="text-body-secondary mb-3">Zona de estudio privada.</p>
+        <div class="mb-3">
+          <label class="form-label" for="gate-user">Usuario</label>
+          <input class="form-control" required id="gate-user" name="u" />
+        </div>
+        <div class="mb-3">
+          <label class="form-label" for="gate-pass">Contraseña</label>
+          <input class="form-control" required id="gate-pass" name="p" type="password" />
+        </div>
+        <button class="btn btn-primary w-100" type="submit">Entrar</button>
+        <p id="gate-error" class="text-danger small mt-3 mb-0" style="min-height:1.2em"></p>
+      </form>`,document.body.appendChild(e),e.querySelector("#gate-form")?.addEventListener("submit",t=>{t.preventDefault();const s=new FormData(t.target),o=String(s.get("u")??""),n=String(s.get("p")??"");if(o===i&&n===d)localStorage.setItem(r,"1"),window.dispatchEvent(new Event("study-access-granted")),e.remove();else{const a=e.querySelector("#gate-error");a&&(a.textContent="Credenciales incorrectas")}})}typeof localStorage<"u"&&localStorage.getItem(r)!=="1"&&c();</script> <script type="module">"serviceWorker"in navigator&&window.addEventListener("load",()=>{navigator.serviceWorker.getRegistrations().then(i=>i.forEach(e=>e.unregister())).catch(()=>null)});"caches"in window&&caches.keys().then(i=>i.filter(e=>e.includes("administrativo-burgos")).forEach(e=>caches.delete(e))).catch(()=>null);</script> <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script> </body> </html>

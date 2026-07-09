@@ -1,0 +1,577 @@
+[
+  {
+    "id": "pdf-2023-burgos-q24",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, el Código Civil recoge literalmente en su artículo 1.1 que las fuentes del ordenamiento jurídico español son:",
+    "opciones": [
+      "La Constitución, las leyes y los reglamentos",
+      "Las leyes, la costumbre y los reglamentos",
+      "La ley, la costumbre y los principios generales del derecho",
+      "La Constitución y la ley"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 24",
+    "explicación": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q25",
+    "tema": 10,
+    "pregunta": "El artículo 86 de la Constitución Española establece que:",
+    "opciones": [
+      "El Gobierno podrá dictar, siempre que se necesite, disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar disposiciones legislativas provisionales que tomaran la forma de decretos-leyes",
+      "El Gobierno no puede dictar disposiciones legislativas",
+      "En caso de extraordinaria y urgente necesidad, el Gobierno podrá dictar leyes especiales sin control parlamentario"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2023 · pregunta 25",
+    "explicación": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q30",
+    "tema": 10,
+    "pregunta": "Se aprueba mediante Ley Orgánica:",
+    "opciones": [
+      "La reforma de los Estatutos de Autonomía.",
+      "La regulación de los estados de alarma, excepción y guerra.",
+      "Las competencias, organización y funcionamiento del Procurador del Común en Castilla y León.",
+      "La regulación del estatuto de los funcionarios públicos y el acceso a la función pública."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 30",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t11-p001",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, ¿qué regula el Derecho Administrativo?",
+    "opciones": [
+      "Solo las relaciones entre particulares",
+      "La organización, funcionamiento, potestades y actividad de las Administraciones Públicas",
+      "Únicamente los contratos privados",
+      "Solo el procedimiento penal"
+    ],
+    "correcta": 1,
+    "explicación": "El tema define el Derecho Administrativo como la rama que regula organización, funcionamiento, potestades y actividad administrativa.",
+    "referencia": "II.1 · 1.1 Concepto"
+  },
+  {
+    "id": "t11-p002",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, ¿qué carácter tiene el Derecho Administrativo cuando se define como propio de las Administraciones Públicas?",
+    "opciones": [
+      "Civilista",
+      "Estatutario",
+      "Mercantil",
+      "Penal"
+    ],
+    "correcta": 1,
+    "explicación": "El tema indica expresamente que el Derecho Administrativo es estatutario.",
+    "referencia": "II.1 · 1.1 Concepto"
+  },
+  {
+    "id": "t11-p003",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, la Administración está sometida en todo momento a:",
+    "opciones": [
+      "la costumbre y la jurisprudencia",
+      "la ley y el Derecho",
+      "los reglamentos y las circulares",
+      "la discrecionalidad política"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge el principio de legalidad proclamado en los arts. 9.1 y 103.1 CE.",
+    "referencia": "II.1 · 1.2 El principio de legalidad"
+  },
+  {
+    "id": "t11-p004",
+    "tema": 10,
+    "pregunta": "¿Qué orden ocupa la Constitución en la jerarquía normativa expuesta?",
+    "opciones": [
+      "Primer rango",
+      "Segundo rango",
+      "Tercer rango",
+      "Quinto rango"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa la Constitución en la cúspide del orden jerárquico.",
+    "referencia": "II.1 · 2.2 La jerarquía normativa"
+  },
+  {
+    "id": "t11-p005",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, ¿qué rango ocupan los reglamentos en el orden jerárquico?",
+    "opciones": [
+      "Segundo",
+      "Cuarto",
+      "Quinto",
+      "Sexto"
+    ],
+    "correcta": 2,
+    "explicación": "El esquema del tema sitúa los reglamentos por debajo de leyes y normas con rango de ley.",
+    "referencia": "II.1 · 2.2 La jerarquía normativa"
+  },
+  {
+    "id": "t11-p006",
+    "tema": 10,
+    "pregunta": "¿Qué carácterística destaca sobre la eficacia de la Constitución?",
+    "opciones": [
+      "Es solo programática",
+      "Es directamente aplicable",
+      "Depende siempre de una ley de desarrollo",
+      "No vincula a los poderes públicos"
+    ],
+    "correcta": 1,
+    "explicación": "El tema subraya la eficacia directa de la Constitución.",
+    "referencia": "II.1 · 3.2 Eficacia directa"
+  },
+  {
+    "id": "t11-p007",
+    "tema": 10,
+    "pregunta": "Según el art. 86 CE, el decreto-ley puede dictarse en casos de:",
+    "opciones": [
+      "interés general ordinario",
+      "extraordinaria y urgente necesidad",
+      "reforma constitucional agravada",
+      "conveniencia política del Gobierno"
+    ],
+    "correcta": 1,
+    "explicación": "El tema identifica la extraordinaria y urgente necesidad como presupuesto del decreto-ley.",
+    "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)"
+  },
+  {
+    "id": "t11-p008",
+    "tema": 10,
+    "pregunta": "Según el art. 86 CE, ¿en qué plazo debe pronunciarse el Congreso sobre un decreto-ley?",
+    "opciones": [
+      "15 días",
+      "20 días",
+      "30 días",
+      "2 meses"
+    ],
+    "correcta": 2,
+    "explicación": "El tema señala el plazo de 30 días para convalidar, derogar o tramitar como proyecto de ley.",
+    "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)"
+  },
+  {
+    "id": "t11-p009",
+    "tema": 10,
+    "pregunta": "Según los arts. 82-85 CE, el decreto legislativo responde a:",
+    "opciones": [
+      "una urgencia política",
+      "una delegación expresa de las Cortes Generales",
+      "un poder originario del Gobierno",
+      "una iniciativa popular"
+    ],
+    "correcta": 1,
+    "explicación": "El tema lo define como norma con rango de ley dictada por el Gobierno en virtud de delegación de las Cortes.",
+    "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
+  },
+  {
+    "id": "t11-p010",
+    "tema": 10,
+    "pregunta": "¿Qué tipo de reglamento desarrolla y complementa una ley preexistente?",
+    "opciones": [
+      "Independiente",
+      "Ejecutivo",
+      "De necesidad",
+      "De urgencia"
+    ],
+    "correcta": 1,
+    "explicación": "El tema indica que los reglamentos ejecutivos desarrollan una ley y requieren dictamen obligatorio del Consejo de Estado.",
+    "referencia": "II.1 · 6.3 Clases de reglamentos"
+  },
+  {
+    "id": "t11-p011",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, un reglamento contrario a una ley es:",
+    "opciones": [
+      "válido si fue aprobado por el órgano competente",
+      "nulo de pleno derecho",
+      "solo anulable si hay perjuicio económico",
+      "válido hasta que lo derogue otra norma reglamentaria"
+    ],
+    "correcta": 1,
+    "explicación": "El tema afirma que un reglamento contra legem es nulo.",
+    "referencia": "II.1 · 6.4 Límites del poder reglamentario"
+  },
+  {
+    "id": "t11-p012",
+    "tema": 10,
+    "pregunta": "¿Qué trámite previo incluye el procedimiento de elaboración de reglamentos?",
+    "opciones": [
+      "Consulta pública previa",
+      "Suplicatorio parlamentario",
+      "Iniciativa legislativa popular",
+      "Veto del Senado"
+    ],
+    "correcta": 0,
+    "explicación": "El tema menciona la consulta pública previa como primer paso salvo excepciones.",
+    "referencia": "II.1 · 6.5 Procedimiento de elaboración de reglamentos"
+  },
+  {
+    "id": "t11-p013",
+    "tema": 10,
+    "pregunta": "¿Qué fuente del Derecho tiene aplicación muy limitada en el Derecho Administrativo?",
+    "opciones": [
+      "La ley",
+      "La costumbre",
+      "La Constitución",
+      "El reglamento"
+    ],
+    "correcta": 1,
+    "explicación": "El tema señala que la costumbre tiene aplicación muy residual en Derecho Administrativo.",
+    "referencia": "II.1 · 7.1 La costumbre"
+  },
+  {
+    "id": "t11-p014",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, la jurisprudencia del Tribunal Supremo:",
+    "opciones": [
+      "Constituye fuente directa del Derecho con el mismo rango que la ley",
+      "Complementa el ordenamiento jurídico con la doctrina reiterada del Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales del Derecho",
+      "Vincula únicamente a la Administración General del Estado y a sus organismos dependientes",
+      "Puede derogar por sí misma leyes y reglamentos cuando exista contradicción interpretativa"
+    ],
+    "correcta": 1,
+    "explicación": "El Código Civil atribuye a la jurisprudencia una función complementaria del ordenamiento, pero no la configura como fuente formal directa.",
+    "referencia": "Código Civil · art. 1.6"
+  },
+  {
+    "id": "t11-p015",
+    "tema": 10,
+    "pregunta": "Según el art. 9.3 CE, ¿qué principio se menciona junto con la publicidad de las normas y la seguridad jurídica?",
+    "opciones": [
+      "La discrecionalidad administrativa",
+      "La jerarquía normativa",
+      "La potestad sancionadora",
+      "La delegación legislativa"
+    ],
+    "correcta": 1,
+    "explicación": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE.",
+    "referencia": "II.1 · 1.2 El principio de legalidad"
+  },
+  {
+    "id": "t11-p016",
+    "tema": 10,
+    "pregunta": "Según el art. 81.2 CE, la aprobación, modificación o derogación de una ley orgánica exige:",
+    "opciones": [
+      "mayoría absoluta del Congreso en una votación final sobre el conjunto del proyecto",
+      "mayoría simple del Congreso y del Senado",
+      "mayoría de dos tercios del Senado",
+      "aprobación por decreto-ley"
+    ],
+    "correcta": 0,
+    "explicación": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto.",
+    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)"
+  },
+  {
+    "id": "t11-p017",
+    "tema": 10,
+    "pregunta": "Según el art. 81.1 CE, tienen carácter de leyes orgánicas, entre otras:",
+    "opciones": [
+      "Las relativas al desarrollo de los derechos fundamentales y libertades públicas",
+      "Todas las leyes aprobadas por mayoría absoluta en ambas Cámaras",
+      "Las leyes de presupuestos generales del Estado",
+      "Los reglamentos ejecutivos del Gobierno"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye el desarrollo de los derechos fundamentales y libertades públicas entre las materias reservadas a ley orgánica.",
+    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)"
+  },
+  {
+    "id": "t11-p018",
+    "tema": 10,
+    "pregunta": "Según el art. 82 CE, cuando la delegación legislativa tenga por objeto la formación de textos articulados deberá otorgarse mediante:",
+    "opciones": [
+      "Ley de bases",
+      "Ley ordinaria de autorización",
+      "Decreto-ley",
+      "Reglamento parlamentario"
+    ],
+    "correcta": 0,
+    "explicación": "La delegación para formar textos articulados se canaliza a través de una ley de bases.",
+    "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
+  },
+  {
+    "id": "t12-p001",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, la Administración Pública puede entenderse en sentido:",
+    "opciones": [
+      "subjetivo u orgánico y objetivo o funcional",
+      "penal y procesal",
+      "constitucional y orgánico únicamente",
+      "privado y mercantil"
+    ],
+    "correcta": 0,
+    "explicación": "El tema distingue expresamente entre sentido subjetivo u orgánico y sentido objetivo o funcional.",
+    "referencia": "II.1 · 1.1 Aproximación al concepto"
+  },
+  {
+    "id": "t12-p002",
+    "tema": 10,
+    "pregunta": "¿Qué artículo constitucional recoge los principios de actuación de la Administración Pública?",
+    "opciones": [
+      "Art. 9 CE",
+      "Art. 103 CE",
+      "Art. 106 CE",
+      "Art. 137 CE"
+    ],
+    "correcta": 1,
+    "explicación": "El tema remite al art. 103 CE como sede de los principios administrativos.",
+    "referencia": "II.1 · 1.2 Reconocimiento constitucional"
+  },
+  {
+    "id": "t12-p003",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, las Administraciones Públicas en la LRJSP incluyen:",
+    "opciones": [
+      "solo la AGE",
+      "AGE, CC.AA., Administración Local y sector público institucional",
+      "únicamente AGE y CC.AA.",
+      "solo entes territoriales con potestad legislativa"
+    ],
+    "correcta": 1,
+    "explicación": "El tema enumera expresamente esas cuatro categorías.",
+    "referencia": "II.1 · 1.3 Las Administraciones Públicas en la LRJSP"
+  },
+  {
+    "id": "t12-p004",
+    "tema": 10,
+    "pregunta": "¿Qué caracteriza a la Administración en sentido técnico-jurídico?",
+    "opciones": [
+      "Su personalidad jurídica propia y su sometimiento al Derecho Administrativo",
+      "Su ausencia de control jurisdiccional",
+      "Su poder legislativo propio",
+      "Su independencia absoluta del Gobierno"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como conjunto de personas jurídico-públicas con personalidad jurídica propia, sometidas al Derecho Administrativo.",
+    "referencia": "II.1 · 1.1 Aproximación al concepto"
+  },
+  {
+    "id": "t12-p005",
+    "tema": 10,
+    "pregunta": "¿Qué principio distingue como transferencia de competencias entre órganos de una misma persona jurídica?",
+    "opciones": [
+      "Descentralización",
+      "Desconcentración",
+      "Coordinación",
+      "Lealtad institucional"
+    ],
+    "correcta": 1,
+    "explicación": "El tema explica que la desconcentración actúa dentro de una misma Administración y persona jurídica.",
+    "referencia": "II.1 · 2.2.3 Desconcentración"
+  },
+  {
+    "id": "t12-p006",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, la descentralización supone la transferencia de competencias desde el Estado a:",
+    "opciones": [
+      "órganos inferiores de la misma Administración",
+      "entes territoriales distintos con personalidad jurídica propia",
+      "unidades administrativas sin competencia",
+      "órganos judiciales"
+    ],
+    "correcta": 1,
+    "explicación": "El tema la identifica con la transferencia a entes territoriales distintos dotados de personalidad jurídica.",
+    "referencia": "II.1 · 2.2.2 Descentralización"
+  },
+  {
+    "id": "t12-p007",
+    "tema": 10,
+    "pregunta": "¿Qué técnica permite a la Administración declarar por sí misma sus derechos y ejecutarlos sin acudir a un juez?",
+    "opciones": [
+      "Autotutela",
+      "Descentralización",
+      "Delegación legislativa",
+      "Jerarquía normativa"
+    ],
+    "correcta": 0,
+    "explicación": "El tema menciona la autotutela declarativa y ejecutiva como potestades administrativas carácterísticas.",
+    "referencia": "II.1 · 1.4 Las potestades administrativas"
+  },
+  {
+    "id": "t12-p008",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, la Administración solo puede actuar cuando:",
+    "opciones": [
+      "la ley la habilita expresamente",
+      "el particular no lo prohíbe",
+      "lo estime oportuno políticamente",
+      "lo autorice la costumbre"
+    ],
+    "correcta": 0,
+    "explicación": "El tema identifica el principio de vinculación positiva: la Administración solo puede hacer lo que la ley permite.",
+    "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
+  },
+  {
+    "id": "t12-p009",
+    "tema": 10,
+    "pregunta": "En Derecho administrativo, ¿qué controla la Jurisdicción Contencioso-Administrativa?",
+    "opciones": [
+      "Solo la legalidad de las leyes",
+      "La potestad reglamentaria y la legalidad de la actuación administrativa",
+      "Únicamente los actos del Parlamento",
+      "Solo la actividad contractual privada"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge el art. 106 CE en estos términos.",
+    "referencia": "II.1 · 3.4 Control judicial de la Administración"
+  },
+  {
+    "id": "t12-p010",
+    "tema": 10,
+    "pregunta": "Una decisión discrecional de la Administración nunca puede ser:",
+    "opciones": [
+      "motivada",
+      "arbitraria",
+      "razonable",
+      "controlada por los tribunales"
+    ],
+    "correcta": 1,
+    "explicación": "El tema diferencia discrecionalidad de arbitrariedad y prohíbe la actuación caprichosa.",
+    "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad"
+  },
+  {
+    "id": "t12-p011",
+    "tema": 10,
+    "pregunta": "¿Qué principio exige que una medida discrecional no sea excesiva respecto del fin perseguido?",
+    "opciones": [
+      "Proporcionalidad",
+      "Inmutabilidad",
+      "Inviolabilidad",
+      "Supletoriedad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema cita la proporcionalidad como parámetro de control de la discrecionalidad.",
+    "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad"
+  },
+  {
+    "id": "t12-p012",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, los órganos de cada Administración:",
+    "opciones": [
+      "tienen personalidad jurídica propia",
+      "no tienen personalidad jurídica propia",
+      "solo existen en la AGE",
+      "solo pueden crear normas"
+    ],
+    "correcta": 1,
+    "explicación": "El tema dice que los órganos actúan en nombre de la Administración y no tienen personalidad jurídica propia.",
+    "referencia": "II.1 · 1.2 Personalidad jurídica"
+  },
+  {
+    "id": "t12-p013",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, ¿cuál de las siguientes es una potestad administrativa recogida?",
+    "opciones": [
+      "Potestad electoral",
+      "Potestad expropiatoria",
+      "Potestad jurisdiccional",
+      "Potestad constituyente"
+    ],
+    "correcta": 1,
+    "explicación": "El tema enumera la potestad expropiatoria entre las principales potestades administrativas.",
+    "referencia": "II.1 · 1.4 Las potestades administrativas"
+  },
+  {
+    "id": "t12-p014",
+    "tema": 10,
+    "pregunta": "La coordinación entre distintas Administraciones puede materializarse mediante:",
+    "opciones": [
+      "conferencias sectoriales, comisiones bilaterales y convenios de colaboración",
+      "sentencias penales",
+      "referéndum consultivo",
+      "reglamentos orgánicos del Parlamento"
+    ],
+    "correcta": 0,
+    "explicación": "El tema presenta esas técnicas como instrumentos de coordinación interadministrativa.",
+    "referencia": "II.1 · 2.2.4 Coordinación"
+  },
+  {
+    "id": "t12-p015",
+    "tema": 10,
+    "pregunta": "En las fuentes del Derecho administrativo, el régimen de legalidad material exige que los actos administrativos sean:",
+    "opciones": [
+      "políticamente convenientes",
+      "conformes con el contenido de la ley, no solo con su existencia formal",
+      "aprobados por unanimidad",
+      "dictados solo por órganos colegiados"
+    ],
+    "correcta": 1,
+    "explicación": "El tema distingue la legalidad material como conformidad con el contenido de la ley.",
+    "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
+  },
+  {
+    "id": "estado2026-extra-t10-01",
+    "tema": 10,
+    "pregunta": "Si una ley no dispone otra cosa, ¿cuándo entra en vigor según el art. 2 del Código Civil?",
+    "opciones": [
+      "A los veinte días de su completa publicación en el BOE",
+      "A los quince días de su publicación",
+      "A los treinta días de su publicación",
+      "Al día siguiente de su publicación"
+    ],
+    "correcta": 0,
+    "explicación": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
+    "referencia": "Examen Estado 2026, art. 2 CC; Tema II.1, fuentes del Derecho",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t10-02",
+    "tema": 10,
+    "pregunta": "¿Qué afirmación sobre la vacatio legis es correcta?",
+    "opciones": [
+      "Puede ser modificada por la propia ley mediante una regla específica de entrada en vigor",
+      "Siempre dura exactamente un mes",
+      "Solo existe en los reglamentos locales",
+      "Impide aplicar la ley aunque ya haya entrado en vigor"
+    ],
+    "correcta": 0,
+    "explicación": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
+    "referencia": "Tema II.1, vigencia de las normas",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-ii01-01",
+    "tema": 10,
+    "pregunta": "Según el art. 82.2 CE, cuando la delegación legislativa tenga por objeto la formación de textos articulados, deberá otorgarse mediante:",
+    "opciones": [
+      "Una ley ordinaria",
+      "Una ley de bases",
+      "Un real decreto-ley",
+      "Una ley orgánica de armonización"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 82 CE",
+    "explicación": "La delegación para textos articulados se otorga por ley de bases; para refundir textos, por ley ordinaria."
+  },
+  {
+    "id": "realstyle-ii01-02",
+    "tema": 10,
+    "pregunta": "De acuerdo con el art. 81.1 CE, son leyes orgánicas las relativas, entre otras materias:",
+    "opciones": [
+      "A cualquier reglamento ejecutivo aprobado por el Gobierno",
+      "Al desarrollo de los derechos fundamentales y de las libertades públicas",
+      "A todos los tributos estatales y locales",
+      "A la aprobación inicial de ordenanzas municipales"
+    ],
+    "correcta": 1,
+    "referencia": "Revisión test reales · art. 81 CE",
+    "explicación": "El art. 81.1 CE conecta la ley orgánica con derechos fundamentales, estatutos, régimen electoral general y demás supuestos constitucionales."
+  }
+]

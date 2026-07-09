@@ -1,0 +1,416 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q34",
+    "tema": 23,
+    "pregunta": "¿Son causa de pérdida de la condición de funcionario de carrera según el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público? (señale la incorrecta):",
+    "opciones": [
+      "La pérdida de la nacionalidad.",
+      "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviera carácter firme.",
+      "La sanción disciplinaria de separación del servicio aunque no tuviera carácter firme."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 34",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q35",
+    "tema": 23,
+    "pregunta": "De conformidad con el Real Decreto Legislativo 5/2015, de 30 de octubre, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público señale el período máximo de duración de la situación administrativa de excedencia por cuidado de familiares:",
+    "opciones": [
+      "1 año.",
+      "2 años.",
+      "3 años."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 35",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q59",
+    "tema": 23,
+    "pregunta": "Son causas de pérdida de la condición de funcionario de carrera (señale la INCORRECTA):",
+    "opciones": [
+      "La pérdida de la nacionalidad.",
+      "La jubilación total del funcionario.",
+      "La sanción disciplinaria de separación del servicio, aunque no tuviera carácter firme.",
+      "La pena principal o accesoria de inhabilitación absoluta o especial para cargo público que tuviera carácter firme."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 59",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q60",
+    "tema": 23,
+    "pregunta": "Podrán obtener la excedencia voluntaria por interés particular los funcionarios de carrera que hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+    "opciones": [
+      "2 años inmediatamente anteriores.",
+      "5 años inmediatamente anteriores.",
+      "10 años inmediatamente anteriores.",
+      "No se exige ningún período mínimo de servicios."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 60",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q39",
+    "tema": 23,
+    "pregunta": "De conformidad con los requisitos exigidos por el Real Decreto Legislativo 5/2015, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, el interesado podrá solicitar la rehabilitación de la condición de funcionario público en caso de:",
+    "opciones": [
+      "Extinción de la relación de servicios como consecuencia de la pérdida de la nacionalidad.",
+      "Extinción de la relación de servicios como consecuencia de la jubilación forzosa.",
+      "Declarada la pérdida de la condición de funcionario no cabe la rehabilitación en ningún caso.",
+      "Extinción de la relación de servicios como consecuencia de sanción disciplinaria de separación del servicio."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2023 · pregunta 39",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q40",
+    "tema": 23,
+    "pregunta": "De conformidad con el Real Decreto Legislativo 5/2015, por el que se aprueba el texto refundido de la Ley del Estatuto Básico del Empleado Público, los funcionarios de carrera podrán obtener la excedencia voluntaria por interés particular cuando hayan prestado servicios efectivos en cualquiera de las Administraciones Públicas durante un periodo mínimo de:",
+    "opciones": [
+      "2 años inmediatamente anteriores.",
+      "3 años inmediatamente anteriores.",
+      "8 años inmediatamente anteriores.",
+      "5 años inmediatamente anteriores."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 40",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t22-p012",
+    "tema": 23,
+    "pregunta": "En situaciones administrativas de los funcionarios, el servicio activo es:",
+    "opciones": [
+      "la situación ordinaria en la que el funcionario presta servicios en su puesto",
+      "una sanción disciplinaria",
+      "una excedencia por interés particular",
+      "una baja por incapacidad temporal"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como la situación ordinaria.",
+    "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
+  },
+  {
+    "id": "t22-p013",
+    "tema": 23,
+    "pregunta": "Según el art. 89 TREBEP, la excedencia voluntaria por interés particular exige haber prestado servicios efectivos durante un período mínimo de:",
+    "opciones": [
+      "cinco años inmediatamente anteriores",
+      "6 meses",
+      "1 año",
+      "10 años"
+    ],
+    "correcta": 0,
+    "explicación": "El TREBEP exige cinco años de servicios efectivos en cualquiera de las Administraciones Públicas durante el período inmediatamente anterior, sin perjuicio de lo que puedan establecer las leyes de desarrollo.",
+    "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
+  },
+  {
+    "id": "t28-p014",
+    "tema": 23,
+    "pregunta": "En situaciones administrativas de los funcionarios, el servicio activo es la situación:",
+    "opciones": [
+      "ordinaria del funcionario que presta servicios en su puesto",
+      "que se da exclusivamente al jubilarse",
+      "propia de la excedencia voluntaria",
+      "propia de la suspensión de funciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como situación ordinaria.",
+    "referencia": "III.2 · 5.1 Servicio activo"
+  },
+  {
+    "id": "t46-p012",
+    "tema": 23,
+    "pregunta": "Qué situación administrativa corresponde al funcionario nombrado para determinados cargos incompatibles con su puesto ordinario:",
+    "opciones": [
+      "Excedencia voluntaria",
+      "Servicios especiales",
+      "Suspensión firme",
+      "Servicio activo"
+    ],
+    "correcta": 1,
+    "explicación": "El tema reserva esa categoría para esos cargos.",
+    "referencia": "III.2 · 7.2 Servicios especiales"
+  },
+  {
+    "id": "t46-p013",
+    "tema": 23,
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia voluntaria por interés particular requiere:",
+    "opciones": [
+      "Cinco años de servicios efectivos inmediatamente anteriores, salvo previsión de desarrollo más favorable",
+      "Un año de antigüedad",
+      "Diez años de servicios",
+      "Ninguna antigüedad"
+    ],
+    "correcta": 0,
+    "explicación": "El TREBEP exige cinco años de servicios efectivos inmediatamente anteriores para poder obtener esta excedencia, aunque las leyes de desarrollo pueden reducir ese período.",
+    "referencia": "III.2 · 7.4 Excedencia"
+  },
+  {
+    "id": "t23-p025-funcionario-carrera",
+    "tema": 23,
+    "pregunta": "En situaciones administrativas de los funcionarios, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
+    "opciones": [
+      "Superación del proceso selectivo, nombramiento por el órgano competente y toma de posesión dentro del plazo establecido",
+      "Nombramiento provisional, período de prueba y evaluación del desempeño",
+      "Superación del concurso de traslados, adscripción provisional y toma de posesión",
+      "Aprobación de la OEP, publicación en el BOCYL y juramento ante las Cortes"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera de forma expresa esos tres requisitos sucesivos para adquirir la condición de funcionario de carrera.",
+    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t46-p029",
+    "tema": 23,
+    "pregunta": "En situaciones administrativas de los funcionarios, son causas de pérdida de la condición de funcionario de carrera, entre otras:",
+    "opciones": [
+      "La renuncia, la jubilación y la sanción disciplinaria de separación del servicio",
+      "La falta de promoción interna en dos convocatorias consecutivas",
+      "La evaluación negativa del desempeño en un ejercicio",
+      "La adscripción provisional a otro puesto"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera esas causas tasadas de pérdida de la condición de funcionario de carrera.",
+    "referencia": "III.2 · 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t23-p032-toma-posesion",
+    "tema": 23,
+    "pregunta": "De acuerdo con el TREBEP, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por:",
+    "opciones": [
+      "La toma de posesión dentro del plazo señalado",
+      "La presentación del certificado de antecedentes penales",
+      "La superación obligatoria de un reconocimiento médico excluyente en todo caso",
+      "Ningun requisito adicional"
+    ],
+    "correcta": 0,
+    "explicación": "Entre los requisitos sucesivos figura la toma de posesión dentro del plazo establecido, además del nombramiento por el órgano competente.",
+    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
+  },
+  {
+    "id": "t23-p033-interino",
+    "tema": 23,
+    "pregunta": "Conforme al TREBEP, se podrá nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
+    "opciones": [
+      "El exceso o acumulación de tareas por plazo máximo de doce meses dentro de un período de dieciocho meses",
+      "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
+      "La cobertura de plazas vacantes por un máximo de cuatro años cuando no sea posible su cobertura por funcionarios de carrera",
+      "La ejecución de programas temporales con duración máxima de dos años ampliable a doce meses más"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge la sustitución transitoria del titular como supuesto de nombramiento de funcionario interino.",
+    "referencia": "Banco legado · Tema 46, 2.2 Funcionarios interinos"
+  },
+  {
+    "id": "topup-23-02",
+    "pregunta": "La renuncia del funcionario, para producir la pérdida de la condición debe ser:",
+    "opciones": [
+      "voluntaria y aceptada por la Administración, con los límites legales",
+      "siempre oral",
+      "aprobada por los vecinos",
+      "ratificada por el Pleno municipal en todos los casos"
+    ],
+    "correcta": 0,
+    "explicación": "La renuncia exige aceptación administrativa y puede no admitirse si existen responsabilidades pendientes.",
+    "referencia": "III.2 · Perdida de la condición de funcionario",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-05",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia por interés particular genera, como regla general:",
+    "opciones": [
+      "ausencia de retribuciones y sin reserva de puesto",
+      "plena reserva de puesto y sueldo íntegro",
+      "pérdida automatica de la condición de funcionario",
+      "nombramiento como personal eventual"
+    ],
+    "correcta": 0,
+    "explicación": "Es la modalidad más abierta al interés personal, con efectos menos protectores.",
+    "referencia": "III.2 · Excedencias",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-06",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia por cuidado de hijos o familiares protege especialmente:",
+    "opciones": [
+      "la conciliación",
+      "la potestad sancionadora",
+      "la recaudación tributaria",
+      "la contratación menor"
+    ],
+    "correcta": 0,
+    "explicación": "Es una excedencia orientada a la conciliación y el cuidado familiar.",
+    "referencia": "III.2 · Excedencias",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-07",
+    "pregunta": "En situaciones administrativas de los funcionarios, la suspensión firme de funciones deriva de:",
+    "opciones": [
+      "sanción disciplinaria o sentencia judicial",
+      "simple solicitud del interesado",
+      "mudanza de domicilio",
+      "disolución de las Cortes"
+    ],
+    "correcta": 0,
+    "explicación": "La suspensión firme responde a una decisión sancionadora o judicial.",
+    "referencia": "III.2 · Suspensión de funciones",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-08",
+    "pregunta": "En situaciones administrativas de los funcionarios, la suspensión provisional se acuerda durante la tramitación de un procedimiento cuando:",
+    "opciones": [
+      "sea necesario y conforme a la ley",
+      "el interesado quiera cobrar más",
+      "lo solicite un vecino",
+      "se trate de una licencia urbanística"
+    ],
+    "correcta": 0,
+    "explicación": "La suspensión provisional es una medida cautelar vinculada a un procedimiento.",
+    "referencia": "III.2 · Suspensión de funciones",
+    "tema": 23
+  },
+  {
+    "id": "topup-23-11",
+    "pregunta": "El servicio en otras Administraciones no supone perder la condición de funcionario de origen, sino:",
+    "opciones": [
+      "integrarse funcionalmente en la Administración de destino",
+      "renunciar automáticamente al cuerpo de origen",
+      "pasar a personal laboral",
+      "convertirse en eventual"
+    ],
+    "correcta": 0,
+    "explicación": "La movilidad entre Administraciones mantiene la condición de origen con los efectos legales correspondientes.",
+    "referencia": "III.2 · Servicio en otras Administraciones",
+    "tema": 23
+  },
+  {
+    "id": "refine-23-01",
+    "pregunta": "La renuncia a la condición de funcionario de carrera, para producir efectos debe ser:",
+    "opciones": [
+      "expresa y aceptada por la Administración salvo que la aceptación quede legalmente impedida",
+      "siempre tácita si el funcionario no acude al puesto",
+      "verbal ante el superior inmediato",
+      "aprobada por los representantes sindicales"
+    ],
+    "correcta": 0,
+    "referencia": "III.2 · Perdida de la condición de funcionario",
+    "explicación": "La renuncia exige una manifestación expresa y su tratamiento se sujeta al régimen legal correspondiente.",
+    "tema": 23
+  },
+  {
+    "id": "refine-23-02",
+    "pregunta": "En situaciones administrativas de los funcionarios, los servicios especiales constituyen una situación administrativa propia de quien pasa a desempeñar:",
+    "opciones": [
+      "determinados cargos o funciones incompatibles con el servicio activo ordinario",
+      "cualquier puesto temporal dentro del mismo departamento",
+      "solo actividades privadas compatibles",
+      "exclusivamente un segundo puesto docente"
+    ],
+    "correcta": 0,
+    "referencia": "III.2 · Situaciones administrativas",
+    "explicación": "Los servicios especiales se conectan con cargos o funciones que justifican la separación temporal del puesto ordinario.",
+    "tema": 23
+  },
+  {
+    "id": "refine-23-03",
+    "pregunta": "En situaciones administrativas de los funcionarios, la excedencia voluntaria por interés particular se caracteriza, como regla general, porque:",
+    "opciones": [
+      "no comporta reserva de puesto ni devengo de retribuciones",
+      "mantiene siempre el mismo puesto reservado",
+      "solo puede durar un máximo de seis meses",
+      "obliga a percibir el 50 por 100 del sueldo base"
+    ],
+    "correcta": 0,
+    "referencia": "III.2 · Excedencias",
+    "explicación": "La excedencia por interés particular suspende la prestación de servicios sin reserva ordinaria de puesto ni retribuciones.",
+    "tema": 23
+  },
+  {
+    "id": "refine-23-05",
+    "pregunta": "El servicio en otras Administraciones Públicas implica normalmente:",
+    "opciones": [
+      "Mantener la condición de funcionario de la administración de origen, con sujeción al régimen legal de movilidad o integración aplicable",
+      "Extinguir automáticamente la relación de servicio con la administración de procedencia",
+      "Pasar siempre a excedencia voluntaria por interés particular",
+      "Transformar la relación funcionarial en laboral común mientras dure el servicio"
+    ],
+    "correcta": 0,
+    "referencia": "Situaciones administrativas · servicio en otras Administraciones Públicas",
+    "explicación": "La situación de servicio en otras administraciones no extingue por sí misma la condición funcionarial de origen.",
+    "tema": 23
+  },
+  {
+    "id": "refine-23-06",
+    "pregunta": "En situaciones administrativas de los funcionarios, la jubilación produce con carácter general:",
+    "opciones": [
+      "la pérdida de la condición de funcionario de carrera",
+      "el pase automático a servicios especiales",
+      "la suspensión provisional de funciones",
+      "la permanencia indefinida en servicio activo"
+    ],
+    "correcta": 0,
+    "referencia": "III.2 · Perdida de la condición de funcionario",
+    "explicación": "La jubilación figura entre las causas legales de pérdida de la condición de funcionario de carrera.",
+    "tema": 23
+  },
+  {
+    "id": "estado2026-extra-t23-01",
+    "tema": 23,
+    "pregunta": "La condición de funcionario de carrera se adquiere, además de superar el proceso selectivo, mediante:",
+    "opciones": [
+      "Nombramiento, acatamiento de la Constitución y toma de posesión dentro del plazo",
+      "La mera publicación de la convocatoria",
+      "La inscripción automática en una bolsa de empleo",
+      "Un contrato laboral indefinido"
+    ],
+    "correcta": 0,
+    "explicación": "El TREBEP exige superar el proceso selectivo, nombramiento, acto de acatamiento de la Constitución y toma de posesión dentro del plazo.",
+    "referencia": "Examen Estado 2026, art. 62 TREBEP; Tema III.2, adquisición de la condición de funcionario",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t23-02",
+    "tema": 23,
+    "pregunta": "Un funcionario en comisión de servicios se encuentra en situación de:",
+    "opciones": [
+      "Servicio activo",
+      "Servicios especiales",
+      "Excedencia voluntaria por interés particular",
+      "Expectativa de destino"
+    ],
+    "correcta": 0,
+    "explicación": "La comisión de servicios no rompe el servicio activo; es una forma temporal de desempeño.",
+    "referencia": "Examen Estado 2026, situaciones administrativas; Tema III.2",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

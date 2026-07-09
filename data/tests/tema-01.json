@@ -1,0 +1,381 @@
+[
+  {
+    "id": "pdf-2023-burgos-q01",
+    "tema": 1,
+    "pregunta": "De conformidad con el artículo 167 de la Constitución Española, los proyectos de reforma constitucional deberán ser aprobados:",
+    "opciones": [
+      "Por mayoría de 2/3 del Senado",
+      "Por mayoría de 3/5 del Congreso",
+      "Por una mayoría de 3/5 de cada una de las Cámaras",
+      "Por una mayoría de 2/3 de cada una de las Cámaras"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2023 · pregunta 1",
+    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoría de tres quintos en cada Cámara.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q01",
+    "tema": 1,
+    "pregunta": "¿En qué fecha fue publicada la Constitución Española en el Boletín Oficial del Estado?",
+    "opciones": [
+      "El 6 de diciembre de 1978",
+      "El 27 de diciembre de 1978",
+      "El 29 de diciembre de 1978",
+      "Ninguna respuesta es correcta"
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2025 · pregunta 1",
+    "explicación": "La Constitución fue publicada en el BOE el 29 de diciembre de 1978.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q03",
+    "tema": 1,
+    "pregunta": "¿Ante quién se presenta el recurso de amparo según la Constitución Española?",
+    "opciones": [
+      "Ante el Tribunal Supremo",
+      "Ante el Tribunal Constitucional",
+      "Ante el Consejo General del Poder Judicial",
+      "Ante cualquier juzgado o tribunal"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 3",
+    "explicación": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t01-p001",
+    "tema": 1,
+    "pregunta": "¿Qué norma ocupa la posición suprema del ordenamiento jurídico español?",
+    "opciones": [
+      "La Constitución",
+      "La ley orgánica",
+      "El reglamento",
+      "El estatuto de autonomía"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica que la Constitución es la norma suprema del ordenamiento jurídico español.",
+    "referencia": "I.1 · 1.1 Concepto y naturaleza"
+  },
+  {
+    "id": "t01-p002",
+    "tema": 1,
+    "pregunta": "¿Cuáles son los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE?",
+    "opciones": [
+      "Libertad, justicia, igualdad y pluralismo político",
+      "Unidad, autonomía, solidaridad y coordinación",
+      "Legalidad, seguridad jurídica y publicidad",
+      "Mérito, capacidad, eficacia y descentralización"
+    ],
+    "correcta": 0,
+    "explicación": "El Tema 1 recoge expresamente los cuatro valores superiores del art. 1.1 CE.",
+    "referencia": "I.1 · 1.2 Carácterísticas"
+  },
+  {
+    "id": "t01-p003",
+    "tema": 1,
+    "pregunta": "En la estructura constitucional, ¿qué regula el Título I?",
+    "opciones": [
+      "La Corona",
+      "Los derechos y deberes fundamentales",
+      "La reforma constitucional",
+      "La organización territorial del Estado"
+    ],
+    "correcta": 1,
+    "explicación": "El Título I se dedica a los derechos y deberes fundamentales, entre los arts. 10 y 55 CE.",
+    "referencia": "I.1 · 1.3 Estructura"
+  },
+  {
+    "id": "t01-p004",
+    "tema": 1,
+    "pregunta": "Según el art. 14 CE, ¿qué principio se reconoce expresamente?",
+    "opciones": [
+      "El derecho a la educación",
+      "El principio de igualdad",
+      "El derecho de petición",
+      "La libertad sindical"
+    ],
+    "correcta": 1,
+    "explicación": "El temario identifica el art. 14 CE con el principio de igualdad y la prohibición de discriminación.",
+    "referencia": "I.1 · Artículo 14"
+  },
+  {
+    "id": "t01-p005",
+    "tema": 1,
+    "pregunta": "Según el art. 17 CE, ¿cuál es el plazo máximo ordinario de detención preventiva?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "96 horas"
+    ],
+    "correcta": 2,
+    "explicación": "El art. 17 CE, tal como recoge el tema, fija un máximo de 72 horas.",
+    "referencia": "I.1 · Sección 1ª, art. 17 CE"
+  },
+  {
+    "id": "t01-p006",
+    "tema": 1,
+    "pregunta": "¿En qué precepto constitucional se reconocen la libertad de expresión, la producción y creación literaria, artística, científica y técnica, y la libertad de información?",
+    "opciones": [
+      "Art. 18 CE",
+      "Art. 19 CE",
+      "Art. 20 CE",
+      "Art. 21 CE"
+    ],
+    "correcta": 2,
+    "explicación": "El tema sitúa en el art. 20 CE las libertades de expresión e información.",
+    "referencia": "I.1 · Sección 1ª, art. 20 CE"
+  },
+  {
+    "id": "t01-p007",
+    "tema": 1,
+    "pregunta": "¿Quién es el alto comisionado de las Cortes Generales para la defensa de los derechos del Título I?",
+    "opciones": [
+      "El Tribunal Constitucional",
+      "El Defensor del Pueblo",
+      "El Consejo General del Poder Judicial",
+      "El Ministerio Fiscal"
+    ],
+    "correcta": 1,
+    "explicación": "El tema define al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I.",
+    "referencia": "I.1 · 3.2 El Defensor del Pueblo"
+  },
+  {
+    "id": "t01-p008",
+    "tema": 1,
+    "pregunta": "¿Cuál de los siguientes derechos puede ser suspendido en los estados de excepción o de sitio?",
+    "opciones": [
+      "El derecho a la vida",
+      "La libertad de expresión e información en los términos del art. 20.1.a) y d)",
+      "La libertad ideológica",
+      "La tutela judicial efectiva en su contenido esencial"
+    ],
+    "correcta": 1,
+    "explicación": "El tema lista entre los derechos suspendibles en esos estados los previstos en el art. 20.1.a) y d).",
+    "referencia": "I.1 · 4.1 Suspensión general"
+  },
+  {
+    "id": "t01-p009",
+    "tema": 1,
+    "pregunta": "¿Qué derechos pueden ser suspendidos individualmente para personas vinculadas a investigaciones por terrorismo?",
+    "opciones": [
+      "Los de los arts. 15 y 16 CE",
+      "Los de los arts. 17.2 y 18.2 y 18.3 CE",
+      "Los de los arts. 20 y 21 CE",
+      "Los de los arts. 24 y 25 CE"
+    ],
+    "correcta": 1,
+    "explicación": "El temario indica que la suspensión individual por terrorismo puede afectar al art. 17.2 y a los apartados 18.2 y 18.3.",
+    "referencia": "I.1 · 4.2 Suspensión individual"
+  },
+  {
+    "id": "t01-p010",
+    "tema": 1,
+    "pregunta": "Según la Constitución, ¿qué procedimiento de reforma se aplica cuando la revisión afecta al Título Preliminar, al Título II o a la Sección 1.ª del Capítulo II del Título I?",
+    "opciones": [
+      "El procedimiento legislativo ordinario",
+      "El procedimiento agravado del art. 168 CE",
+      "La reforma por decreto-ley",
+      "La reforma por ley ordinaria sin referéndum"
+    ],
+    "correcta": 1,
+    "explicación": "El tema señala que para esas materias se aplica el procedimiento agravado del art. 168 CE.",
+    "referencia": "I.1 · 1.3 Estructura / 3.4 Suspensión y reforma"
+  },
+  {
+    "id": "t01-p011",
+    "tema": 1,
+    "pregunta": "¿Qué afirma el art. 10.1 CE sobre la dignidad de la persona y los derechos inviolables?",
+    "opciones": [
+      "Qué son fundamento del orden político y de la paz social",
+      "Qué solo vinculan al legislador",
+      "Qué dependen de una ley orgánica",
+      "Qué se aplican solo a los extranjeros"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge que la dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.",
+    "referencia": "I.1 · 2.1 Artículo 10 CE"
+  },
+  {
+    "id": "t01-p012",
+    "tema": 1,
+    "pregunta": "Según la Constitución Española, ¿a qué edad alcanza la mayoría de edad una persona?",
+    "opciones": [
+      "16 años",
+      "18 años",
+      "21 años",
+      "25 años"
+    ],
+    "correcta": 1,
+    "explicación": "El temario indica que la mayoría de edad se alcanza a los 18 años.",
+    "referencia": "I.1 · 2.2 Capítulo I — Españoles y extranjeros"
+  },
+  {
+    "id": "t01-p013",
+    "tema": 1,
+    "pregunta": "Según el art. 15 CE, ¿cuál de los siguientes derechos incluye la prohibición de la pena de muerte, salvo lo que puedan disponer las leyes penales militares para tiempos de guerra?",
+    "opciones": [
+      "El derecho a la vida y a la integridad física y moral",
+      "La libertad ideológica, religiosa y de culto",
+      "El derecho al honor, a la intimidad personal y familiar y a la propia imagen",
+      "La libertad de residencia y circulación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
+    "referencia": "I.1 · Sección 1ª, art. 15 CE"
+  },
+  {
+    "id": "t01-p014",
+    "tema": 1,
+    "pregunta": "Según el art. 21 CE, ¿qué carácterística tienen las reuniones en lugares de tránsito público y las manifestaciones?",
+    "opciones": [
+      "Necesitan autorización previa",
+      "Exigen comunicación previa a la autoridad",
+      "Son siempre secretas",
+      "Solo pueden celebrarse por la noche"
+    ],
+    "correcta": 1,
+    "explicación": "El tema indica que no necesitan autorización previa, aunque sí comunicación previa a la autoridad.",
+    "referencia": "I.1 · Sección 1ª, art. 21 CE"
+  },
+  {
+    "id": "t01-p015",
+    "tema": 1,
+    "pregunta": "Conforme al art. 53.3 CE, los principios rectores de la política social y económica:",
+    "opciones": [
+      "Son directamente exigibles mediante recurso de amparo ante el Tribunal Constitucional",
+      "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos, y solo podrán alegarse conforme a las leyes que los desarrollen",
+      "Vinculan únicamente al legislador estatal y no a los demás poderes públicos",
+      "Tienen la misma protección jurisdiccional que los derechos de la Sección 1.ª del Capítulo II"
+    ],
+    "correcta": 1,
+    "explicación": "El art. 53.3 CE atribuye a los principios rectores una función de orientación e interpretación, y condiciona su alegación a las leyes que los desarrollen.",
+    "referencia": "Constitución Española · art. 53.3"
+  },
+  {
+    "id": "t01-p016",
+    "tema": 1,
+    "pregunta": "Según lo dispuesto en el art. 55.1 de la Constitución Española de 1978, en el estado de sitio puede ser suspendido el derecho a:",
+    "opciones": [
+      "La negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios",
+      "Comunicar o recibir libremente información veraz por cualquier medio de difusión",
+      "La libertad de empresa",
+      "La producción y creación literaria, artística, científica y técnica"
+    ],
+    "correcta": 1,
+    "explicación": "El tema incluye entre los derechos suspendibles del art. 55.1 CE la libertad de información del art. 20.1.d).",
+    "referencia": "I.1 · 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio"
+  },
+  {
+    "id": "t01-p017",
+    "tema": 1,
+    "pregunta": "De acuerdo con el art. 53.3 de la Constitución Española de 1978, los principios rectores de la política social y económica:",
+    "opciones": [
+      "Son derechos subjetivos directamente exigibles ante cualquier tribunal",
+      "Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen",
+      "Solo vinculan al Gobierno, pero no al legislador",
+      "Pueden suspenderse en el estado de excepción en los mismos términos que los derechos fundamentales"
+    ],
+    "correcta": 1,
+    "explicación": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
+    "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica"
+  },
+  {
+    "id": "burgos-i01-hard-01",
+    "tema": 1,
+    "pregunta": "¿Cuál de estos derechos queda fuera del recurso de amparo del art. 53.2 CE, aunque sí esté constitucionalmente reconocido?",
+    "opciones": [
+      "La propiedad privada del art. 33 CE",
+      "La igualdad ante la ley del art. 14 CE",
+      "La libertad ideológica del art. 16 CE",
+      "La objeción de conciencia del art. 30 CE"
+    ],
+    "correcta": 0,
+    "explicación": "El recurso de amparo protege el art. 14, los derechos de la Sección 1ª del Capítulo II y la objeción de conciencia del art. 30. La propiedad privada pertenece a la Sección 2ª.",
+    "referencia": "Tema I.1, Derechos fundamentales: garantía y suspensión"
+  },
+  {
+    "id": "burgos-i01-hard-02",
+    "tema": 1,
+    "pregunta": "¿Qué dato sobre la estructura de la Constitución Española es correcto?",
+    "opciones": [
+      "El Título Preliminar comprende los artículos 1 a 9",
+      "El Título I comprende los artículos 1 a 55",
+      "El Título IX regula la reforma constitucional",
+      "El Preámbulo tiene eficacia articulada como los demás títulos"
+    ],
+    "correcta": 0,
+    "explicación": "El Título Preliminar abarca los artículos 1 a 9. El Título I comprende los artículos 10 a 55, el Título IX regula el Tribunal Constitucional y la reforma está en el Título X.",
+    "referencia": "Tema I.1, Estructura de la Constitución"
+  },
+  {
+    "id": "burgos-i01-hard-03",
+    "tema": 1,
+    "pregunta": "En la suspensión general de derechos del art. 55.1 CE, ¿qué derecho NO aparece entre los suspendibles en estados de excepción o sitio?",
+    "opciones": [
+      "La tutela judicial efectiva",
+      "La inviolabilidad del domicilio",
+      "La libertad de circulación",
+      "El derecho de reunión"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 55.1 permite suspender determinados derechos en excepción o sitio, pero no incluye la tutela judicial efectiva.",
+    "referencia": "Tema I.1, Suspensión de derechos"
+  },
+  {
+    "id": "burgos-i01-hard-04",
+    "tema": 1,
+    "pregunta": "¿Qué principio del art. 9.3 CE se vulnera más directamente cuando un poder público actúa de forma caprichosa y sin justificación objetiva?",
+    "opciones": [
+      "Interdicción de la arbitrariedad de los poderes públicos",
+      "Irretroactividad absoluta de todas las normas",
+      "Pluralismo político",
+      "Soberanía nacional"
+    ],
+    "correcta": 0,
+    "explicación": "La interdicción de la arbitrariedad impide actuaciones públicas caprichosas o carentes de justificación racional.",
+    "referencia": "Tema I.1, Principios constitucionales"
+  },
+  {
+    "id": "estado2026-i01-01",
+    "tema": 1,
+    "pregunta": "En el procedimiento ordinario de reforma constitucional, si el texto obtiene tres quintos de cada Cámara, el referéndum:",
+    "opciones": [
+      "Solo se somete si lo solicita una décima parte de los miembros de cualquiera de las Cámaras dentro de plazo",
+      "Es obligatorio en todo caso",
+      "Solo puede pedirlo el Gobierno",
+      "Queda sustituido por informe del Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicación": "En la reforma ordinaria del art. 167 CE el referéndum no es automático: procede si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
+    "referencia": "Tema I.1, reforma constitucional ordinaria",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-i01-02",
+    "tema": 1,
+    "pregunta": "¿Qué bloque de derechos exige reforma agravada del art. 168 CE si se pretende una revisión que le afecte?",
+    "opciones": [
+      "La Sección 1.ª del Capítulo II del Título I",
+      "Todo el Capítulo III del Título I",
+      "Solo los principios rectores del art. 53.3 CE",
+      "Las disposiciones transitorias"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 168 CE se aplica, entre otros supuestos, a revisiones que afecten a la Sección 1.ª del Capítulo II del Título I.",
+    "referencia": "Tema I.1, reforma constitucional agravada",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

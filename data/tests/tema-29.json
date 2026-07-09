@@ -1,0 +1,333 @@
+[
+  {
+    "id": "t30-p014",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, el ciclo del gasto local sigue las fases:",
+    "opciones": [
+      "A, D, O y P",
+      "R, S, T y U",
+      "I, II, III y IV",
+      "L, M, N y Ñ"
+    ],
+    "correcta": 0,
+    "explicación": "El tema identifica esas fases contables.",
+    "referencia": "IV.3 · 10.2 Fases del procedimiento de gasto y documentos contables"
+  },
+  {
+    "id": "t44-p002",
+    "tema": 29,
+    "pregunta": "Según el artículo 134 CE, los Presupuestos Generales del Estado tienen carácter:",
+    "opciones": [
+      "Mensual",
+      "Anual",
+      "Bianual",
+      "Indefinido"
+    ],
+    "correcta": 1,
+    "explicación": "El art. 134 CE establece el carácter anual de los presupuestos.",
+    "referencia": "IV.3 · art. 134 CE"
+  },
+  {
+    "id": "t44-p008",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, la fase D del gasto público es la de:",
+    "opciones": [
+      "Autorización",
+      "Disposición o compromiso",
+      "Reconocimiento de la obligación",
+      "Ordenación del pago"
+    ],
+    "correcta": 1,
+    "explicación": "La disposición compromete jurídicamente a la Administración con un tercero.",
+    "referencia": "IV.3 · 5.2 Las fases de la ejecución del presupuesto de gastos"
+  },
+  {
+    "id": "t44-p009",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, el documento contable AD recoge:",
+    "opciones": [
+      "Autorización y disposición acumuladas",
+      "Autorización y pago material",
+      "Disposición y reconocimiento de obligación",
+      "Reconocimiento de obligación y pago material"
+    ],
+    "correcta": 0,
+    "explicación": "AD acumula las fases A y D cuando se tramitan conjuntamente.",
+    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
+  },
+  {
+    "id": "t44-p010",
+    "tema": 29,
+    "pregunta": "Qué documento contable se asocia al reconocimiento de la obligación:",
+    "opciones": [
+      "A",
+      "D",
+      "O",
+      "P"
+    ],
+    "correcta": 2,
+    "explicación": "El documento O corresponde al reconocimiento de la obligación.",
+    "referencia": "IV.3 · 5.2 Fase 3 — Reconocimiento de la obligación"
+  },
+  {
+    "id": "t44-p011",
+    "tema": 29,
+    "pregunta": "¿Cuál de los siguientes mecanismos se describe como idóneo para gastos pequeños y urgentes de carácter periódico?",
+    "opciones": [
+      "Crédito extraordinario",
+      "Anticipos de caja fija",
+      "Suplemento de crédito",
+      "Transferencia de crédito"
+    ],
+    "correcta": 1,
+    "explicación": "El tema reserva los anticipos de caja fija para gastos menores y periódicos.",
+    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
+  },
+  {
+    "id": "t44-p016",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, la autorización del gasto (documento A):",
+    "opciones": [
+      "no genera obligación frente a terceros",
+      "supone el pago material al acreedor",
+      "equivale al reconocimiento de la obligación",
+      "solo puede dictarla la Tesorería"
+    ],
+    "correcta": 0,
+    "explicación": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros.",
+    "referencia": "IV.3 · 5.2 Fase 1 — Autorización del gasto (documento A)"
+  },
+  {
+    "id": "t44-p017",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, el documento ADO acumula las fases de:",
+    "opciones": [
+      "autorización, disposición y reconocimiento de la obligación",
+      "autorización, ordenación del pago y pago material",
+      "disposición, ordenación del pago y pago material",
+      "disposición, obligación y fiscalización posterior"
+    ],
+    "correcta": 0,
+    "explicación": "El documento ADO acumula las tres primeras fases del gasto.",
+    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
+  },
+  {
+    "id": "t44-p018",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, los anticipos de caja fija se utilizan para:",
+    "opciones": [
+      "gastos corrientes de pequeña cuantía y carácter periódico",
+      "cualquier contrato sujeto a licitación pública",
+      "adquirir inmuebles mediante contratación de emergencia",
+      "financiar transferencias de capital a largo plazo"
+    ],
+    "correcta": 0,
+    "explicación": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos.",
+    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
+  },
+  {
+    "id": "t44-p021",
+    "tema": 29,
+    "pregunta": "El art. 134 CE establece que, si los Presupuestos Generales del Estado no se aprobaran antes del primer día del ejercicio económico correspondiente:",
+    "opciones": [
+      "Quedaran automáticamente anulados los del ejercicio anterior",
+      "Se consideraran automáticamente prorrogados los del ejercicio anterior hasta la aprobación de los nuevos",
+      "El Gobierno debera aprobarlos por decreto-ley",
+      "Las Cortes Generales perderan la competencia presupuestaria durante ese ejercicio"
+    ],
+    "correcta": 1,
+    "explicación": "El tema recoge la prorroga automatica de los presupuestos anteriores.",
+    "referencia": "IV.3 · art. 134 CE"
+  },
+  {
+    "id": "t44-p023",
+    "tema": 29,
+    "pregunta": "Según la Ley General Presupuestaria, el Proyecto de Ley de Presupuestos Generales del Estado será remitido a las Cortes Generales:",
+    "opciones": [
+      "Antes del 1 de octubre del año anterior al que se refiera",
+      "Antes del 31 de diciembre del mismo ejercicio",
+      "Al menos seis meses antes de la expiración de los del año anterior",
+      "Dentro del primer trimestre del ejercicio presupuestario"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
+    "referencia": "IV.3 · 3.1 Elaboración y aprobación"
+  },
+  {
+    "id": "topup-29-05",
+    "pregunta": "En la ejecución del presupuesto de gasto, un documento contable ADO acumula:",
+    "opciones": [
+      "autorización, disposición y reconocimiento de la obligación",
+      "aprobación del presupuesto y ordenación del pago",
+      "auditoria, devolución y ordenanza",
+      "afectación, deslinde y ocupación"
+    ],
+    "correcta": 0,
+    "explicación": "El documento ADO permite acumular varias fases del gasto en ciertos supuestos.",
+    "referencia": "IV.3 · Documentos contables",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-06",
+    "pregunta": "En la ejecución del presupuesto de gasto, los compromisos de gasto para ejercicios posteriores deben respetar:",
+    "opciones": [
+      "los límites legales aplicables a los gastos plurianuales",
+      "solo la voluntad del concejal delegado",
+      "la ausencia de expediente",
+      "la decisión del proveedor"
+    ],
+    "correcta": 0,
+    "explicación": "No pueden asumirse libremente al margen de los límites normativos.",
+    "referencia": "IV.3 · Compromisos para ejercicios posteriores",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-08",
+    "pregunta": "En la ejecución del presupuesto de gasto, el órgano competente para ordenar el pago se determina por:",
+    "opciones": [
+      "la normativa presupuestaria y la organización de la entidad local",
+      "la ley electoral",
+      "el Estatuto de Autonomía",
+      "la voluntad del proveedor"
+    ],
+    "correcta": 0,
+    "explicación": "La ordenación del pago responde a reglas competenciales específicas.",
+    "referencia": "IV.3 · Organos competentes",
+    "tema": 29
+  },
+  {
+    "id": "topup-29-09",
+    "pregunta": "Antes del reconocimiento de la obligación debe constar normalmente:",
+    "opciones": [
+      "La conformidad o acreditación de que la prestación, el servicio o el suministro se ha realizado correctamente",
+      "La mera firma del interesado o del contratista, aunque no exista comprobación material",
+      "La publicación del expediente en el BOE o en el boletín oficial correspondiente",
+      "Un bando del alcalde ordenando el pago con independencia del expediente"
+    ],
+    "correcta": 0,
+    "explicación": "El reconocimiento de la obligación exige acreditar previamente la efectiva realización de la prestación.",
+    "referencia": "Gestión del gasto · reconocimiento de la obligación",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-01",
+    "pregunta": "En la ejecución del presupuesto de gasto, la fase A del gasto expresa el acto por el que se:",
+    "opciones": [
+      "autoriza la realización de un gasto determinado",
+      "reconoce la obligación ya nacida",
+      "ordena materialmente el pago al acreedor",
+      "fiscaliza externamente la cuenta general"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Fases del gasto",
+    "explicación": "La autorización es la primera decisión por la que se aprueba la realización del gasto.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-02",
+    "pregunta": "En la ejecución del presupuesto de gasto, la fase D del procedimiento de gasto implica:",
+    "opciones": [
+      "el compromiso o disposición del gasto frente a un tercero determinado",
+      "la simple existencia de crédito en presupuesto",
+      "la ordenación formal del pago",
+      "la formación de la cuenta general"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Fases del gasto",
+    "explicación": "La disposición compromete el gasto y vincula a la Administración frente al tercero.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-03",
+    "pregunta": "En la ejecución del presupuesto de gasto, el reconocimiento de la obligación supone:",
+    "opciones": [
+      "declarar que existe un crédito exigible contra la entidad una vez acreditada la prestación",
+      "autorizar una modificación presupuestaria",
+      "aprobar inicialmente la ordenanza fiscal",
+      "resolver un reparo del control externo"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Fases del gasto",
+    "explicación": "La fase O acredita y reconoce la deuda a favor del acreedor.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-04",
+    "pregunta": "En la ejecución del presupuesto de gasto, la ordenación del pago consiste en:",
+    "opciones": [
+      "expedir la orden para satisfacer obligaciones ya reconocidas",
+      "crear crédito extraordinario",
+      "aprobar el presupuesto general",
+      "liquidar tributos municipales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Ordenación del pago",
+    "explicación": "La ordenación del pago es posterior al reconocimiento de la obligación y antecede al pago material.",
+    "tema": 29
+  },
+  {
+    "id": "refine-29-05",
+    "pregunta": "En la ejecución del presupuesto de gasto, los anticipos de caja fija se emplean principalmente para:",
+    "opciones": [
+      "gastos periodicos o repetitivos de pequena cuantía que requieren agilidad",
+      "cualquier subvención de capital plurianual",
+      "modificar el presupuesto por falta de crédito",
+      "ordenar pagos sin justificante alguno"
+    ],
+    "correcta": 0,
+    "referencia": "IV.3 · Procedimientos especiales de pago",
+    "explicación": "Son un mecanismo de agilización para gastos menores de carácter repetitivo.",
+    "tema": 29
+  },
+  {
+    "id": "estado2026-extra-t29-01",
+    "tema": 29,
+    "pregunta": "En los pagos librados a justificar, la aplicación de las cantidades recibidas debe justificarse:",
+    "opciones": [
+      "Dentro del mes siguiente a su inversión y, en todo caso, en el plazo de tres meses desde la percepción de los fondos",
+      "Siempre dentro de seis meses desde la aprobación del presupuesto",
+      "Solo al cierre del ejercicio siguiente",
+      "Antes de la aprobación del expediente de gasto"
+    ],
+    "correcta": 0,
+    "explicación": "El examen de Estado 2026 recuerda el plazo de un mes desde la inversión y, en todo caso, tres meses desde la percepción de los fondos.",
+    "referencia": "Examen Estado 2026, pagos a justificar; Tema IV.3, ejecución del gasto",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t29-02",
+    "tema": 29,
+    "pregunta": "En una tramitación anticipada de expedientes de contratación, el servicio gestor expide normalmente:",
+    "opciones": [
+      "Documento RC de tramitación anticipada",
+      "Documento OK de pago material",
+      "Documento ADOK de ejercicio cerrado",
+      "Mandamiento de ingreso extrapresupuestario"
+    ],
+    "correcta": 0,
+    "explicación": "La operatoria contable estatal prevé documento RC de tramitación anticipada para reflejar importes de ejercicios posteriores afectados.",
+    "referencia": "Examen Estado 2026, operatoria contable; Tema IV.3, documentos contables",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t29-03",
+    "tema": 29,
+    "pregunta": "En la ejecución del presupuesto de gasto, el reconocimiento de la obligación en la ejecución del gasto se documenta mediante:",
+    "opciones": [
+      "Documento O u OK, según proceda",
+      "Documento RC exclusivamente",
+      "Documento A exclusivamente",
+      "Documento P antes de reconocer la obligación"
+    ],
+    "correcta": 0,
+    "explicación": "La fase de reconocimiento de obligación se refleja mediante documento O u OK cuando se acumulan fases.",
+    "referencia": "Examen Estado 2026, supuesto práctico; Tema IV.3, fases del gasto",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

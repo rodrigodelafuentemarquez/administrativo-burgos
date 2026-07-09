@@ -1,0 +1,310 @@
+[
+  {
+    "id": "topup-31-06",
+    "pregunta": "En urbanismo, el suelo urbano se caracteriza porque:",
+    "opciones": [
+      "cuenta con servicios y un grado de consolidación urbanística",
+      "siempre está protegido por valores agrarios",
+      "no admite ningún uso residencial",
+      "queda fuera de toda competencia municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El suelo urbano presenta las condiciones propias de urbanización y consolidación.",
+    "referencia": "IV.5 · Clasificación del suelo",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-07",
+    "pregunta": "En urbanismo, el suelo urbanizable es aquel que:",
+    "opciones": [
+      "puede transformarse mediante planeamiento y gestión",
+      "queda siempre excluido de cualquier actuación",
+      "equivale al dominio público local",
+      "solo admite uso forestal"
+    ],
+    "correcta": 0,
+    "explicación": "Su transformación exige ordenación y ejecución urbanística.",
+    "referencia": "IV.5 · Clasificación del suelo",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-08",
+    "pregunta": "En urbanismo, el suelo rústico o no urbanizable se preserva por razones como:",
+    "opciones": [
+      "valores ambientales, agrarios o paisajísticos",
+      "votaciones plenarias fallidas",
+      "ausencia de correo electrónico",
+      "huelga de empleados públicos"
+    ],
+    "correcta": 0,
+    "explicación": "Su protección responde a valores o a la inadecuación para urbanizar.",
+    "referencia": "IV.5 · Clasificación del suelo",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-09",
+    "pregunta": "La competencia urbanística municipal comprende, entre otras funciones, la de:",
+    "opciones": [
+      "licencias, inspección y protección de la legalidad",
+      "aprobación de leyes orgánicas estatales",
+      "nombramiento de magistrados",
+      "control del Banco de España"
+    ],
+    "correcta": 0,
+    "explicación": "El Ayuntamiento interviene en planeamiento, gestión y disciplina dentro del marco legal.",
+    "referencia": "IV.5 · Competencia urbanística municipal",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-10",
+    "pregunta": "En urbanismo, la intervención administrativa en la edificación puede realizarse mediante:",
+    "opciones": [
+      "licencia, declaración responsable o comunicación previa según la normativa",
+      "solo referéndum vecinal",
+      "exclusivamente silencio positivo",
+      "orden verbal de un técnico privado"
+    ],
+    "correcta": 0,
+    "explicación": "El control urbanístico admite títulos y técnicas distintas según el acto y la norma.",
+    "referencia": "IV.5 · Intervención administrativa",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-11",
+    "pregunta": "En urbanismo, la licencia urbanística es un acto:",
+    "opciones": [
+      "reglado",
+      "puramente discrecional",
+      "jurisdiccional",
+      "legislativo"
+    ],
+    "correcta": 0,
+    "explicación": "Si el proyecto cumple la legalidad debe concederse; si no, debe denegarse.",
+    "referencia": "IV.5 · Licencia urbanística",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-12",
+    "pregunta": "Una licencia urbanística se otorga, como fórmula clásica, salvo derecho de propiedad y:",
+    "opciones": [
+      "sin perjuicio de tercero",
+      "con reserva de ley orgánica",
+      "con efecto penal",
+      "sin expediente"
+    ],
+    "correcta": 0,
+    "explicación": "La licencia no resuelve conflictos civiles ni elimina derechos de terceros.",
+    "referencia": "IV.5 · Licencia urbanística",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-13",
+    "pregunta": "En urbanismo, la licencia urbanística no legaliza actuaciones:",
+    "opciones": [
+      "contrarias al planeamiento",
+      "que cuenten con informe técnico favorable",
+      "sobre suelo urbano consolidado",
+      "de simple mantenimiento"
+    ],
+    "correcta": 0,
+    "explicación": "La licencia no puede amparar lo que sea incompatible con la legalidad urbanística.",
+    "referencia": "IV.5 · Licencia urbanística",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-14",
+    "pregunta": "Si una obra se realiza sin licencia o contra el planeamiento, la Administración debe proteger la legalidad mediante medidas como:",
+    "opciones": [
+      "suspensión, legalización si procede o restauración",
+      "solo una felicitación formal",
+      "ninguna actuación hasta el final de la obra",
+      "aprobación de la Cuenta General"
+    ],
+    "correcta": 0,
+    "explicación": "La disciplina urbanística exige reacción administrativa frente a actuaciones ilegales.",
+    "referencia": "IV.5 · Protección de la legalidad urbanística",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-15",
+    "pregunta": "En urbanismo, la restauración de la legalidad urbanística busca:",
+    "opciones": [
+      "Reponer la realidad física alterada y restaurar el orden urbanístico infringido cuando la actuación no sea legalizable",
+      "Imponer necesariamente una sanción penal privativa de libertad en todo caso",
+      "Aprobar la ordenanza fiscal aplicable a las obras ejecutadas sin título",
+      "Reclasificar el suelo afectado para adaptarlo a la actuación ya realizada"
+    ],
+    "correcta": 0,
+    "explicación": "La restauración de la legalidad urbanística se dirige a restablecer el orden infringido, no a regularizar automáticamente la actuación ilegal.",
+    "referencia": "Urbanismo · protección de la legalidad",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-16",
+    "pregunta": "En urbanismo, la legalización de una obra puede plantearse cuando:",
+    "opciones": [
+      "la actuación es compatible con el planeamiento",
+      "toda obra ilegal debe demolerse sin excepción",
+      "no existe ninguna norma urbanística",
+      "el interesado no presenta proyecto alguno"
+    ],
+    "correcta": 0,
+    "explicación": "Si la obra es compatible, puede abrirse la vía de legalización con el título habilitante correspondiente.",
+    "referencia": "IV.5 · Legalización, restauración y sanción",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-17",
+    "pregunta": "En urbanismo, las infracciones urbanísticas deben estar:",
+    "opciones": [
+      "tipificadas por la ley",
+      "descritas solo en una circular interna",
+      "creadas libremente por el técnico",
+      "aprobadas por correo electrónico"
+    ],
+    "correcta": 0,
+    "explicación": "El urbanismo sancionador también respeta legalidad y tipicidad.",
+    "referencia": "IV.5 · Infracciones y sanciones urbanísticas",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-18",
+    "pregunta": "La responsabilidad por infracciones urbanísticas puede alcanzar, según los casos a:",
+    "opciones": [
+      "promotores, propietarios, constructores o técnicos",
+      "solo al alcalde",
+      "únicamente al secretario general",
+      "cualquier vecino aleatoriamente"
+    ],
+    "correcta": 0,
+    "explicación": "La responsabilidad se distribuye según la participación en la infracción.",
+    "referencia": "IV.5 · Infracciones y sanciones urbanísticas",
+    "tema": 31
+  },
+  {
+    "id": "topup-31-19",
+    "pregunta": "La sanción urbanística es independiente de la medida de restauración, lo que significa que:",
+    "opciones": [
+      "pueden coexistir reposición de la legalidad y multa",
+      "si hay multa nunca hay restauración",
+      "si se legaliza siempre hay prisión",
+      "la restauración sustituye a toda prueba"
+    ],
+    "correcta": 0,
+    "explicación": "Disciplina y sanción cumplen finalidades distintas.",
+    "referencia": "IV.5 · Legalización, restauración y sanción",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-01",
+    "pregunta": "En urbanismo, la clasificación del suelo determina principalmente:",
+    "opciones": [
+      "la clase jurídica de suelo a la que pertenece cada terreno",
+      "el color de las fachadas del municipio",
+      "la titularidad registral de cada finca",
+      "la imposición de tasas municipales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Clasificación y calificación del suelo",
+    "explicación": "La clasificación distingue las grandes clases de suelo; la calificación concreta usos y condiciones pormenorizadas.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-02",
+    "pregunta": "La calificación urbanística precisa sobre cada suelo, entre otras cuestiones:",
+    "opciones": [
+      "los usos, intensidades y condiciones de edificación",
+      "la nacionalidad del propietario",
+      "la forma de votación del Pleno",
+      "el régimen disciplinario del personal"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Clasificación y calificación del suelo",
+    "explicación": "La calificación concreta el destino urbanístico pormenorizado del suelo.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-03",
+    "pregunta": "La licencia urbanística es un acto de control previo que verifica principalmente:",
+    "opciones": [
+      "la conformidad de la actuación con la legalidad y el planeamiento urbanístico",
+      "la rentabilidad económica privada del promotor",
+      "la oportunidad política del proyecto según el alcalde",
+      "la capacidad del contratista para intervenir en procesos electorales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Licencia urbanística",
+    "explicación": "La licencia urbanística controla la adecuación de la actuación pretendida a la normativa aplicable.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-04",
+    "pregunta": "Cuando se ejecuta una obra sin licencia o contra sus condiciones, la Administración puede reaccionar mediante:",
+    "opciones": [
+      "medidas de suspensión, restauración de la legalidad y, en su caso, sanción",
+      "solo una recomendación verbal",
+      "exclusivamente una subida del IBI",
+      "la pérdida automatica de la propiedad por ministerio de la ley"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Protección de la legalidad urbanística",
+    "explicación": "La disciplina urbanística combina restauración de la legalidad con, en su caso, potestad sancionadora.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-05",
+    "pregunta": "La sanción urbanística y la restauración de la legalidad son técnicas:",
+    "opciones": [
+      "compatibles e independientes entre si",
+      "excluyentes, de modo que solo puede aplicarse una de ellas",
+      "reservadas exclusivamente a los juzgados penales",
+      "sustituidas siempre por indemnizaciones"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Infracciones y sanciones urbanísticas",
+    "explicación": "La imposición de una sanción no elimina la obligación de reponer la realidad física alterada cuando proceda.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-06",
+    "pregunta": "La competencia urbanística municipal comprende normalmente funciones de:",
+    "opciones": [
+      "planeamiento, gestión, intervención y disciplina urbanística",
+      "legislación orgánica estatal exclusiva",
+      "control del poder judicial",
+      "gestión de la Seguridad Social contributiva"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Competencia urbanística municipal",
+    "explicación": "El municipio interviene en planeamiento, gestión, licencias y disciplina en los términos que marque la normativa.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-07",
+    "pregunta": "En urbanismo, el suelo rústico o no urbanizable se preserva, entre otras razones, por:",
+    "opciones": [
+      "valores ambientales, paisajísticos, agrarios o de protección especial",
+      "la simple voluntad del promotor privado",
+      "la necesidad de ubicar siempre oficinas administrativas",
+      "la existencia de cualquier padrón fiscal"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Clasificación del suelo",
+    "explicación": "La preservación de este suelo responde a valores o finalidades que justifican su protección frente al proceso urbanizador.",
+    "tema": 31
+  },
+  {
+    "id": "refine-31-08",
+    "pregunta": "En urbanismo, la legalización de una obra ejecutada sin licencia solo puede plantearse cuando:",
+    "opciones": [
+      "la actuación sea compatible con el planeamiento y la legalidad urbanística aplicable",
+      "haya transcurrido cualquier plazo sin más",
+      "el promotor pague una tasa extraordinaria",
+      "el alcalde manifieste verbalmente su conformidad"
+    ],
+    "correcta": 0,
+    "referencia": "IV.5 · Protección de la legalidad urbanística",
+    "explicación": "No toda obra clandestina es legalizable: solo la que resulte materialmente compatible con el ordenamiento urbanístico.",
+    "tema": 31
+  }
+]

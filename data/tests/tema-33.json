@@ -1,0 +1,521 @@
+[
+  {
+    "id": "pdf-2025-burgos-q50",
+    "tema": 33,
+    "pregunta": "Según la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, el derecho de acceso podrá ser limitado cuando acceder a la información suponga perjuicio para:",
+    "opciones": [
+      "Las funciones administrativas de vigilancia, inspección y control.",
+      "La seguridad privada.",
+      "Las relaciones interiores.",
+      "No se puede limitar el derecho de acceso."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 50",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q51",
+    "tema": 33,
+    "pregunta": "¿De qué herramienta trata el artículo 10 de la Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno, la cual se adecuará a los principios de accesibilidad, interoperabilidad y reutilización de la información?",
+    "opciones": [
+      "Consejo de transparencia y Buen Gobierno.",
+      "Portal de transparencia.",
+      "Carpeta ciudadana.",
+      "Sede electrónica."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 51",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q50",
+    "tema": 33,
+    "pregunta": "La norma que regula la transparencia, acceso a la información pública y buen gobierno, es:",
+    "opciones": [
+      "Ley 39/2015, de 1 de octubre.",
+      "Ley 40/2015, de 1 de octubre.",
+      "Real Decreto 951/2005, de 29 de julio.",
+      "Ley 19/2013, de 9 de diciembre."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 50",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t21-p001",
+    "tema": 33,
+    "pregunta": "Según el art. 2 LTBG, la LTBG se aplica a:",
+    "opciones": [
+      "las Entidades Locales",
+      "solo la Administración General del Estado",
+      "únicamente las sociedades mercantiles privadas",
+      "solo los partidos políticos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye expresamente a las Entidades Locales en su ámbito subjetivo.",
+    "referencia": "V.2 · 1.2 Ámbito de aplicación subjetivo (art. 2 LTBG)"
+  },
+  {
+    "id": "t21-p002",
+    "tema": 33,
+    "pregunta": "¿Cuáles son los tres instrumentos complementarios que regula la LTBG?",
+    "opciones": [
+      "publicidad activa, derecho de acceso y buen gobierno",
+      "registro, archivo y notificación",
+      "procedimiento, recurso y ejecución",
+      "organización, personal y contratación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema estructura la ley en esos tres instrumentos.",
+    "referencia": "V.2 · 1.1 Concepto y fundamento"
+  },
+  {
+    "id": "t21-p003",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, la publicidad activa consiste en:",
+    "opciones": [
+      "publicar de oficio información relevante sin necesidad de solicitud previa",
+      "entregar solo la información reservada al interesado",
+      "denegar cualquier acceso a datos internos",
+      "publicar únicamente sentencias judiciales"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como información publicada de oficio.",
+    "referencia": "V.2 · 2.1 Concepto"
+  },
+  {
+    "id": "t21-p004",
+    "tema": 33,
+    "pregunta": "Según el art. 6 LTBG, la información institucional, organizativa y de planificación incluye:",
+    "opciones": [
+      "las funciones, la normativa aplicable y la estructura organizativa",
+      "solo las sanciones disciplinarias firmes",
+      "únicamente los convenios colectivos",
+      "solo las resoluciones judiciales"
+    ],
+    "correcta": 0,
+    "explicación": "Ese es el contenido del art. 6 LTBG recogido en el tema.",
+    "referencia": "V.2 · 2.2 Información objeto de publicidad activa (art. 6 LTBG)"
+  },
+  {
+    "id": "t21-p005",
+    "tema": 33,
+    "pregunta": "Según el art. 7 LTBG, la información de relevancia jurídica comprende:",
+    "opciones": [
+      "Directrices, instrucciones, acuerdos, circulares o respuestas a consultas planteadas por particulares u otros órganos con efectos jurídicos externos",
+      "Únicamente los presupuestos, las cuentas anuales y los estados de ejecución",
+      "Solo la información estadística necesaria para valorar la calidad de los servicios públicos",
+      "Exclusivamente las resoluciones judiciales firmes que afecten a la entidad"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 7 LTBG incluye dentro de la información de relevancia jurídica las instrucciones, circulares y respuestas con efectos jurídicos externos.",
+    "referencia": "Ley 19/2013 · art. 7"
+  },
+  {
+    "id": "t21-p006",
+    "tema": 33,
+    "pregunta": "Según el art. 8 LTBG, forma parte de la información económica, presupuestaria y estadística:",
+    "opciones": [
+      "los contratos, los convenios y las subvenciones",
+      "solo las normas urbanísticas",
+      "únicamente los expedientes sancionadores",
+      "solo los nombres de los funcionarios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye contratos, convenios y subvenciones entre los datos del art. 8 LTBG.",
+    "referencia": "V.2 · 2.2 Información objeto de publicidad activa (art. 8 LTBG)"
+  },
+  {
+    "id": "t21-p007",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, ¿cuál de los siguientes es un límite citado por el a la publicidad activa?",
+    "opciones": [
+      "la seguridad nacional",
+      "la simpatía del órgano gestor",
+      "la comodidad administrativa",
+      "la antigüedad del expediente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera la seguridad nacional entre los límites.",
+    "referencia": "V.2 · 2.3 Límites a la publicidad activa"
+  },
+  {
+    "id": "t21-p008",
+    "tema": 33,
+    "pregunta": "Según el art. 12 LTBG, el derecho de acceso a la información pública corresponde:",
+    "opciones": [
+      "a cualquier persona, sin necesidad de ser ciudadana española ni residente",
+      "solo a los concejales y diputados",
+      "exclusivamente a los interesados en un expediente sancionador",
+      "solo a los funcionarios públicos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema subraya la titularidad universal del derecho.",
+    "referencia": "V.2 · 3.1 Concepto y titularidad (art. 12 LTBG)"
+  },
+  {
+    "id": "t21-p009",
+    "tema": 33,
+    "pregunta": "Según los arts. 17-18 LTBG, para ejercer el derecho de acceso:",
+    "opciones": [
+      "no es necesario motivar la solicitud",
+      "siempre hay que justificar un interés legítimo",
+      "solo puede pedirse por abogado",
+      "la solicitud debe ir firmada por dos testigos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica que no es necesario motivar la solicitud.",
+    "referencia": "V.2 · 3.2 Ejercicio del derecho (arts. 17-18 LTBG)"
+  },
+  {
+    "id": "t21-p010",
+    "tema": 33,
+    "pregunta": "Según el art. 20 LTBG, ¿qué plazo de resolución se fija para las solicitudes de acceso?",
+    "opciones": [
+      "1 mes, ampliable a otro mes cuando el volumen o la complejidad lo justifiquen",
+      "10 días, improrrogables",
+      "3 meses, sin posibilidad de ampliación",
+      "15 días hábiles, siempre"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija un mes con posible ampliación de otro mes.",
+    "referencia": "V.2 · 3.3 Plazo de resolución (art. 20 LTBG)"
+  },
+  {
+    "id": "t21-p011",
+    "tema": 33,
+    "pregunta": "Según el art. 20 LTBG, si transcurre el plazo sin resolver una solicitud de acceso 21 se entiende:",
+    "opciones": [
+      "desestimada por silencio negativo",
+      "estimada por silencio positivo",
+      "caducada sin efectos",
+      "suspendida automáticamente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema señala silencio negativo.",
+    "referencia": "V.2 · 3.3 Plazo de resolución (art. 20 LTBG)"
+  },
+  {
+    "id": "t21-p015",
+    "tema": 33,
+    "pregunta": "Según los arts. 33-40 LTBG, la reclamación ante el Consejo de Transparencia y Buen Gobierno es:",
+    "opciones": [
+      "potestativa y previa o alternativa al recurso contencioso-administrativo",
+      "obligatoria antes de cualquier solicitud",
+      "solo posible en materia tributaria",
+      "siempre extemporánea"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la presenta como potestativa y previa o alternativa.",
+    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (arts. 33-40 LTBG)"
+  },
+  {
+    "id": "t43-p001",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, la Ley 19/2013 regula:",
+    "opciones": [
+      "la transparencia, el acceso a la información pública y el buen gobierno",
+      "la contratación pública",
+      "la función pública estatal",
+      "el presupuesto local"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica ese objeto de la LTAIBG.",
+    "referencia": "V.2 · 1.2 Estructura y objeto de la LTAIBG"
+  },
+  {
+    "id": "t43-p002",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, la publicidad activa consiste en:",
+    "opciones": [
+      "difundir proactivamente la información sin esperar solicitud",
+      "responder solo a peticiones judiciales",
+      "publicar únicamente sentencias",
+      "ocultar la información salvo petición motivada"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la contrapone al derecho de acceso.",
+    "referencia": "V.2 · 2.1 Concepto y fundamento"
+  },
+  {
+    "id": "t43-p003",
+    "tema": 33,
+    "pregunta": "Debe publicarse la información institucional, organizativa y de planificación incluyendo:",
+    "opciones": [
+      "funciones, normativa, estructura organizativa y planes y programas",
+      "solo las sanciones disciplinarias",
+      "únicamente las actas del Pleno",
+      "solo los contratos menores"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera ese contenido.",
+    "referencia": "V.2 · 2.2 Información institucional, organizativa y de planificación"
+  },
+  {
+    "id": "t43-p004",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, la información económica, presupuestaria y estadística incluye:",
+    "opciones": [
+      "presupuestos, cuentas anuales, contratos y subvenciones",
+      "solo nóminas de funcionarios",
+      "únicamente padrones de habitantes",
+      "solo registros de entrada"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo recoge de manera expresa.",
+    "referencia": "V.2 · 2.4 Información económica, presupuestaria y estadística"
+  },
+  {
+    "id": "t43-p005",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, el derecho de acceso a la información pública es el derecho de:",
+    "opciones": [
+      "cualquier persona a solicitar y obtener información en poder de las entidades sujetas",
+      "solo los interesados en un expediente sancionador",
+      "los funcionarios de carrera exclusivamente",
+      "los diputados nacionales únicamente"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define como un derecho de cualquier persona.",
+    "referencia": "V.2 · 3.1 Concepto y naturaleza"
+  },
+  {
+    "id": "t43-p006",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, los límites al derecho de acceso deben interpretarse:",
+    "opciones": [
+      "de forma restrictiva",
+      "de forma extensiva",
+      "sin motivación",
+      "solo cuando lo diga un político"
+    ],
+    "correcta": 0,
+    "explicación": "El tema insiste en esa interpretación restrictiva.",
+    "referencia": "V.2 · 3.3 Límites al derecho de acceso"
+  },
+  {
+    "id": "t43-p008",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, el Consejo de Transparencia y Buen Gobierno es:",
+    "opciones": [
+      "el órgano independiente que tutela el derecho de acceso y supervisa la transparencia",
+      "un tribunal administrativo",
+      "una oficina de registro",
+      "un órgano de contratación"
+    ],
+    "correcta": 0,
+    "explicación": "El tema le atribuye esa función.",
+    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "t43-p009",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, el Portal de Transparencia de la AGE es:",
+    "opciones": [
+      "el punto de acceso centralizado para la información de publicidad activa y el derecho de acceso",
+      "un archivo histórico",
+      "una web de contratación privada",
+      "un sistema de notificación interna"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo identifica como portal centralizado.",
+    "referencia": "V.2 · 3.7 El Portal de Transparencia"
+  },
+  {
+    "id": "t43-p010",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, el buen gobierno se refiere a:",
+    "opciones": [
+      "los principios de actuación de los altos cargos y el régimen sancionador",
+      "los archivos municipales",
+      "la selección de funcionarios interinos",
+      "el registro de entrada"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo sitúa como parte de la LTAIBG.",
+    "referencia": "V.2 · 4.1 Concepto y fundamento"
+  },
+  {
+    "id": "t43-p011",
+    "tema": 33,
+    "pregunta": "Uno de los principios de buen gobierno es:",
+    "opciones": [
+      "actuar con transparencia en el ejercicio de las funciones",
+      "ocultar el conflicto de interés",
+      "usar la información para beneficio propio",
+      "rechazar la legalidad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera ese principio de actuación.",
+    "referencia": "V.2 · 4.2 Principios de buen gobierno"
+  },
+  {
+    "id": "t43-p012",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, la sanción de una infracción muy grave en buen gobierno puede incluir:",
+    "opciones": [
+      "cese inmediato y prohibición de ocupar cargos de responsabilidad durante 5 a 10 años",
+      "solo una amonestación verbal",
+      "únicamente un apercibimiento",
+      "la nulidad automática de todos los actos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija esa consecuencia sancionadora.",
+    "referencia": "V.2 · 4.3 Régimen sancionador del buen gobierno"
+  },
+  {
+    "id": "t43-p016",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, el plazo máximo para resolver y notificar una solicitud de acceso a la información pública es de:",
+    "opciones": [
+      "un mes",
+      "10 días hábiles",
+      "15 días naturales",
+      "tres meses"
+    ],
+    "correcta": 0,
+    "explicación": "La LTAIBG fija un mes, prorrogable por otro en supuestos justificados de volumen o complejidad.",
+    "referencia": "V.2 · 3.5 El procedimiento de ejercicio del derecho de acceso"
+  },
+  {
+    "id": "t43-p017",
+    "tema": 33,
+    "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno es:",
+    "opciones": [
+      "potestativa, gratuita y no requiere abogado ni procurador",
+      "obligatoria antes de cualquier resolución administrativa",
+      "solo admisible si se fórmula por procurador",
+      "incompatible con el silencio negativo"
+    ],
+    "correcta": 0,
+    "explicación": "La reclamación ante el CTBG es una garantía accesible y gratuita que sustituye a la reclamación administrativa ordinaria.",
+    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "t43-p021",
+    "tema": 33,
+    "pregunta": "Según la Ley 19/2013, de 9 de diciembre, el derecho de acceso a la información pública podrá ser limitado cuando el acceso suponga un perjuicio para:",
+    "opciones": [
+      "La seguridad nacional",
+      "La mera incomodidad administrativa del órgano requerido",
+      "La crítica política al Gobierno",
+      "El interés estadistico del solicitante"
+    ],
+    "correcta": 0,
+    "explicación": "La seguridad nacional aparece expresamente entre los límites legales al derecho de acceso.",
+    "referencia": "V.2 · 3.3 Límites al derecho de acceso"
+  },
+  {
+    "id": "t43-p022",
+    "tema": 33,
+    "pregunta": "Frente a una resolución expresa o presunta en materia de acceso a la información pública podrá interponerse, con carácter potestativo y previo a la vía contencioso-administrativa, reclamación ante:",
+    "opciones": [
+      "La Agencia Española de Protección de Datos",
+      "El Consejo de Transparencia y Buen Gobierno",
+      "El Tribunal de Cuentas",
+      "La Comisión General de Secretarios de Estado y Subsecretarios"
+    ],
+    "correcta": 1,
+    "explicación": "El tema atribuye esa reclamación potestativa al CTBG.",
+    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "t43-p023",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, indique cuál de los siguientes figura entre los límites al derecho de acceso a la información pública en la Ley 19/2013:",
+    "opciones": [
+      "La garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión.",
+      "La mera incomodidad administrativa del órgano requerido.",
+      "La discrepancia política con el contenido solicitado.",
+      "La falta de interés profesional del solicitante."
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera expresamente la confidencialidad o secreto en los procesos de toma de decisión como uno de los límites legales.",
+    "referencia": "V.2 · 3.3 Límites al derecho de acceso"
+  },
+  {
+    "id": "t43-p024",
+    "tema": 33,
+    "pregunta": "Según la Ley 19/2013, frente a una resolución expresa o presunta en materia de acceso a la información pública, la reclamación ante el Consejo de Transparencia y Buen Gobierno podrá interponerse en el plazo de:",
+    "opciones": [
+      "Un mes.",
+      "Diez días hábiles.",
+      "Quince días naturales.",
+      "Tres meses."
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija un plazo de un mes para interponer la reclamación potestativa ante el CTBG.",
+    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
+  },
+  {
+    "id": "estado2026-extra-t33-01",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, el derecho de acceso a la información pública puede limitarse cuando acceder a la información suponga perjuicio para:",
+    "opciones": [
+      "La seguridad nacional",
+      "La protección del anonimato de todos los empleados públicos",
+      "La seguridad e higiene en el trabajo como límite general autónomo",
+      "La protección de datos profesionales no personales"
+    ],
+    "correcta": 0,
+    "explicación": "La seguridad nacional figura entre los límites del art. 14 de la Ley 19/2013.",
+    "referencia": "Examen Estado 2026, art. 14 Ley 19/2013; Tema V.2, derecho de acceso",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t33-02",
+    "tema": 33,
+    "pregunta": "En transparencia y derecho de acceso, los límites del derecho de acceso a la información pública deben aplicarse:",
+    "opciones": [
+      "De forma justificada y proporcionada atendiendo al daño y al interés público en la divulgación",
+      "Automáticamente siempre que haya datos administrativos",
+      "Solo por instrucciones internas no publicadas",
+      "Sin motivación para proteger a la Administración"
+    ],
+    "correcta": 0,
+    "explicación": "La aplicación de límites exige ponderación, motivación y proporcionalidad.",
+    "referencia": "Tema V.2, límites al derecho de acceso",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-v02-01",
+    "tema": 33,
+    "pregunta": "Según la Ley 19/2013, el derecho de acceso a la información pública podrá ser limitado cuando acceder a la información suponga un perjuicio para:",
+    "opciones": [
+      "La seguridad nacional",
+      "La comodidad organizativa de la unidad administrativa",
+      "La mera existencia de trabajo pendiente",
+      "La preferencia de la Administración por no publicar expedientes"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 14 LTAIBG",
+    "explicación": "La seguridad nacional es uno de los límites expresos del art. 14 LTAIBG."
+  },
+  {
+    "id": "realstyle-v02-02",
+    "tema": 33,
+    "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno frente a una resolución en materia de acceso a la información pública tiene carácter:",
+    "opciones": [
+      "Potestativo y previo a la impugnación contencioso-administrativa",
+      "Obligatorio y posterior a la sentencia",
+      "Sustitutivo permanente de cualquier recurso judicial",
+      "Exclusivamente interno y no impugnable"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · reclamación CTBG",
+    "explicación": "La reclamación es potestativa y previa a la vía contencioso-administrativa."
+  }
+]

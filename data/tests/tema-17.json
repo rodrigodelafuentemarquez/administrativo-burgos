@@ -1,0 +1,364 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q13",
+    "tema": 17,
+    "pregunta": "El artículo 89 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas desarrolla la Propuesta de Resolución en los procedimientos de carácter sancionador y expone que resolverá la finalización del procedimiento:",
+    "opciones": [
+      "Cuando los hechos no resulten acreditados.",
+      "Cuando los hechos probados no constituyan infracción penal.",
+      "Cuando se concluyera que han caducado los hechos."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 13",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q18",
+    "tema": 17,
+    "pregunta": "El porcentaje de reducción del procedimiento sancionador, establecido en el artículo 85 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas:",
+    "opciones": [
+      "No podrá ser incrementado, pero sí reducido legal o reglamentariamente.",
+      "Podrá ser incrementado reglamentariamente.",
+      "No podrá ser incrementado ni reducido."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 18",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q19",
+    "tema": 17,
+    "pregunta": "De conformidad con el artículo 89 de la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿en qué supuestos el órgano instructor resolverá la finalización del procedimiento sancionador?",
+    "opciones": [
+      "Nunca, porque el órgano instructor sólo debe emitir propuesta de resolución al órgano que resuelve.",
+      "Cuando los hechos resulten acreditados.",
+      "Cuando se concluyera, en cualquier momento, que ha prescrito la infracción."
+    ],
+    "correcta": 2,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 19",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q32",
+    "tema": 17,
+    "pregunta": "Senala la afirmación correcta de conformidad con la Ley 40/2015 en materia de potestad sancionadora:",
+    "opciones": [
+      "Las normas definidoras de sanciones e infracciones seran susceptibles de aplicación analogica si son favorables al presunto infractor",
+      "El principio de responsabilidad permite sancionar a las personas físicas o jurídicas responsables solo a título de dolo",
+      "El principio de proporcionalidad permite que las sanciones administrativas no pecuniarias impliquen penas privativas de libertad en caso de reincidencia",
+      "Seran de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 32",
+    "explicación": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los términos legales.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q21",
+    "tema": 17,
+    "pregunta": "En potestad sancionadora, señale el artículo de la Ley 40/2015 que regula el principio de la potestad sancionadora según el cuál serán de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que constituyan infracción administrativa:",
+    "opciones": [
+      "Artículo 25. Principio de legalidad",
+      "Artículo 26. Irretroactividad",
+      "Artículo 27. Principio de tipicidad",
+      "Artículo 28. Responsabilidad"
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 21",
+    "explicación": "La irretroactividad de las disposiciones sancionadoras se regula en el artículo 26 LRJSP.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "topup-17-02",
+    "pregunta": "En potestad sancionadora, el principio de legalidad sancionadora exige:",
+    "opciones": [
+      "cobertura normativa suficiente para infracciones y sanciones",
+      "libertad total del instructor para fijar la sanción",
+      "que toda sanción se imponga por decreto-ley municipal",
+      "que siempre intervenga un juez penal"
+    ],
+    "correcta": 0,
+    "explicación": "No cabe sancionar sin cobertura legal suficiente.",
+    "referencia": "II.8 · Principio de legalidad",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-03",
+    "pregunta": "En potestad sancionadora, el principio de tipicidad implica que:",
+    "opciones": [
+      "la conducta debe encajar en una infracción previamente definida",
+      "puede sancionarse por analogia amplia",
+      "la Administración crea infracciones caso por caso",
+      "las ordenanzas sustituyen siempre a la ley"
+    ],
+    "correcta": 0,
+    "explicación": "La tipicidad prohíbe sancionar conductas no descritas normativamente.",
+    "referencia": "II.8 · Principio de tipicidad",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-04",
+    "pregunta": "En potestad sancionadora, la analogía en materia sancionadora:",
+    "opciones": [
+      "no puede utilizarse para sancionar",
+      "es obligatoria cuando falte ordenanza",
+      "solo vale en materia tributaria",
+      "sustituye al principio de legalidad"
+    ],
+    "correcta": 0,
+    "explicación": "No cabe analogia desfavorable al presunto infractor.",
+    "referencia": "II.8 · Principio de tipicidad",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-05",
+    "pregunta": "En potestad sancionadora, la retroactividad favorable en materia sancionadora permite aplicar:",
+    "opciones": [
+      "la disposición posterior más beneficiosa",
+      "siempre la norma más antigua",
+      "solo la ordenanza municipal vigente",
+      "únicamente la norma más gravosa"
+    ],
+    "correcta": 0,
+    "explicación": "La ley admite retroactividad de la norma sancionadora más favorable.",
+    "referencia": "II.8 · Irretroactividad y retroactividad favorable",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-06",
+    "pregunta": "En potestad sancionadora, el principio de responsabilidad en materia sancionadora se dirige a:",
+    "opciones": [
+      "las personas físicas o jurídicas responsables de la infracción",
+      "cualquier vecino del municipio",
+      "solo a autoridades políticas",
+      "exclusivamente a funcionarios de carrera"
+    ],
+    "correcta": 0,
+    "explicación": "La responsabilidad exige identificar al sujeto responsable conforme a la norma.",
+    "referencia": "II.8 · Principio de responsabilidad",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-07",
+    "pregunta": "En potestad sancionadora, el principio non bis in idem impide:",
+    "opciones": [
+      "sancionar dos veces por los mismos hechos, sujeto y fundamento",
+      "tramitar audiencia al interesado",
+      "notificar la resolución sancionadora",
+      "usar medios electrónicos en el procedimiento"
+    ],
+    "correcta": 0,
+    "explicación": "No puede haber doble sanción por identidad de sujeto, hecho y fundamento.",
+    "referencia": "II.8 · Principios del ejercicio",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-08",
+    "pregunta": "En potestad sancionadora, la proporcionalidad sancionadora exige que la sanción:",
+    "opciones": [
+      "guarde adecuada relación con la gravedad de la infracción",
+      "sea siempre la máxima posible",
+      "sea siempre económica",
+      "se imponga sin motivación"
+    ],
+    "correcta": 0,
+    "explicación": "La sanción debe graduarse razonablemente según la infracción y circunstancias.",
+    "referencia": "II.8 · Principio de proporcionalidad",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-09",
+    "pregunta": "En potestad sancionadora, la presunción de inocencia en el procedimiento sancionador implica que:",
+    "opciones": [
+      "la Administración debe acreditar los hechos",
+      "el interesado debe probar siempre su inocencia",
+      "la denuncia vale como prueba definitiva",
+      "la multa puede imponerse sin expediente"
+    ],
+    "correcta": 0,
+    "explicación": "Corresponde a la Administración probar los hechos constitutivos de la infracción.",
+    "referencia": "II.8 · Garantías del procedimiento sancionador",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-11",
+    "pregunta": "En potestad sancionadora, la iniciación del procedimiento sancionador debe identificar al menos:",
+    "opciones": [
+      "hechos, posible responsable y sanciones que pudieran corresponder",
+      "solo el nombre del instructor",
+      "solo el órgano judicial competente",
+      "el presupuesto municipal afectado"
+    ],
+    "correcta": 0,
+    "explicación": "La incoación debe concretar los elementos básicos de la imputación.",
+    "referencia": "II.8 · Iniciación del procedimiento",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-12",
+    "pregunta": "En el procedimiento sancionador, el trámite de audiencia permite al interesado:",
+    "opciones": [
+      "formular alegaciones y proponer prueba",
+      "aprobar la ordenanza aplicable",
+      "resolver el expediente",
+      "suspender la ley"
+    ],
+    "correcta": 0,
+    "explicación": "La audiencia garantiza contradicción y defensa del interesado.",
+    "referencia": "II.8 · Audiencia y prueba",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-13",
+    "pregunta": "En potestad sancionadora, la resolución sancionadora debe ser:",
+    "opciones": [
+      "motivada y congruente con los hechos probados",
+      "verbal y sin firma",
+      "siempre secreta",
+      "dictada por el denunciante"
+    ],
+    "correcta": 0,
+    "explicación": "La resolución final ha de motivar hechos, fundamento y sanción.",
+    "referencia": "II.8 · Resolución",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-15",
+    "pregunta": "Las ordenanzas locales pueden tipificar infracciones y sanciones:",
+    "opciones": [
+      "dentro de los límites legales",
+      "sin necesidad de cobertura legal alguna",
+      "solo por acuerdo del alcalde",
+      "incluso con penas privativas de libertad"
+    ],
+    "correcta": 0,
+    "explicación": "La potestad ordenancista local debe respetar la ley y la reserva de ley sancionadora.",
+    "referencia": "II.8 · Potestad sancionadora local",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-16",
+    "pregunta": "En potestad sancionadora, la separación entre fase instructora y resolutoria busca garantizar:",
+    "opciones": [
+      "imparcialidad del procedimiento",
+      "mayor recaudación",
+      "publicidad activa",
+      "sustitución del trámite de prueba"
+    ],
+    "correcta": 0,
+    "explicación": "La separación funcional refuerza la objetividad en la decisión sancionadora.",
+    "referencia": "II.8 · Garantías procedimentales",
+    "tema": 17
+  },
+  {
+    "id": "topup-17-17",
+    "pregunta": "En potestad sancionadora, la sanción administrativa puede ser pecuniaria o no pecuniaria, pero nunca:",
+    "opciones": [
+      "privativa de libertad",
+      "motivada",
+      "proporcional",
+      "susceptible de recurso"
+    ],
+    "correcta": 0,
+    "explicación": "La Administración no puede imponer penas privativas de libertad.",
+    "referencia": "II.8 · Medidas sancionadoras",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-01",
+    "pregunta": "Para apreciar vulneración del principio non bis in idem en materia sancionadora debe existir identidad de:",
+    "opciones": [
+      "sujeto, hecho y fundamento",
+      "órgano, territorio y plazo",
+      "procedimiento, recurso y prueba",
+      "norma, reglamento y costumbre"
+    ],
+    "correcta": 0,
+    "referencia": "II.8 · Principios de la potestad sancionadora",
+    "explicación": "La prohibición de doble sanción exige identidad de sujeto, hechos y fundamento.",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-02",
+    "pregunta": "En potestad sancionadora, las medidas provisionales en un procedimiento sancionador deben ser:",
+    "opciones": [
+      "proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolución final",
+      "automaticas y siempre pecuniarias",
+      "identicas a la sanción definitiva",
+      "acordadas solo al final del procedimiento"
+    ],
+    "correcta": 0,
+    "referencia": "II.8 · Medidas provisionales",
+    "explicación": "Las medidas provisionales no son sanciones anticipadas: deben ser necesarias, proporcionadas y motivadas.",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-03",
+    "pregunta": "En potestad sancionadora, la separación entre fase instructora y fase resolutoria en el procedimiento sancionador persigue reforzar especialmente la:",
+    "opciones": [
+      "imparcialidad y objetividad",
+      "recaudación inmediata",
+      "publicidad activa",
+      "automaticidad de la sanción"
+    ],
+    "correcta": 0,
+    "referencia": "II.8 · Procedimiento sancionador",
+    "explicación": "La diferenciación entre instructor y órgano resolutor sirve para garantizar mayor imparcialidad.",
+    "tema": 17
+  },
+  {
+    "id": "refine-17-05",
+    "pregunta": "En potestad sancionadora, la resolución sancionadora debe pronunciarse sobre:",
+    "opciones": [
+      "Los hechos, su calificación jurídica, la persona responsable y la sanción impuesta o la declaración de inexistencia de infracción o responsabilidad",
+      "Únicamente la cuantía económica de la multa, si la hubiera",
+      "Solo la transcripción literal de la denuncia y de las alegaciones presentadas",
+      "La identificación del instructor y del secretario, sin necesidad de resolver sobre el fondo"
+    ],
+    "correcta": 0,
+    "referencia": "Procedimiento sancionador · resolución",
+    "explicación": "La resolución debe fijar los hechos, su calificación, la persona responsable y la sanción o, en su caso, declarar la inexistencia de infracción o responsabilidad.",
+    "tema": 17
+  },
+  {
+    "id": "realstyle-ii08-01",
+    "tema": 17,
+    "pregunta": "Según la LRJSP, en la graduación de la sanción deberá observarse la debida idoneidad y necesidad de la sanción a imponer y su adecuación a la gravedad del hecho, atendiendo, entre otros criterios, a:",
+    "opciones": [
+      "El grado de culpabilidad o la existencia de intencionalidad",
+      "La nacionalidad del presunto responsable",
+      "La antigüedad del instructor del expediente",
+      "La cuantía del presupuesto municipal"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · art. 29 LRJSP",
+    "explicación": "El art. 29 LRJSP recoge criterios de proporcionalidad como culpabilidad, continuidad, perjuicios y reincidencia."
+  },
+  {
+    "id": "realstyle-ii08-02",
+    "tema": 17,
+    "pregunta": "En materia sancionadora, la reincidencia como criterio de graduación exige la comisión de más de una infracción de la misma naturaleza cuando así haya sido declarado por:",
+    "opciones": [
+      "Resolución firme en vía administrativa",
+      "Informe del instructor, aunque no sea firme",
+      "Simple denuncia de un particular",
+      "Acuerdo verbal del órgano competente"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · reincidencia sancionadora",
+    "explicación": "La reincidencia exige declaración por resolución firme en vía administrativa."
+  }
+]

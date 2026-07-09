@@ -1,0 +1,374 @@
+[
+  {
+    "id": "pdf-2024-burgos-est-q41",
+    "tema": 35,
+    "pregunta": "Cuando el interesado presenta un documento en el registro electrónico de una Administración, puede recibir como prueba:",
+    "opciones": [
+      "Un recibo consistente en una copia autenticada del documento de que se trate.",
+      "Una copia del documento presentado.",
+      "La simple presentación es garantía de prueba."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 41",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2024-burgos-est-q42",
+    "tema": 35,
+    "pregunta": "Según el artículo 151.2 del Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales el Registro General de una entidad permanecerá abierto al público:",
+    "opciones": [
+      "Todos los días hábiles.",
+      "Todos los días incluidos los fines de semana.",
+      "Todos los días naturales."
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2024 estabilización · pregunta 42",
+    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q47",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, el servicio 010 de atención ciudadana realizará los siguientes servicios. Indique cuál NO es correcto:",
+    "opciones": [
+      "Dar información municipal y de la ciudad de Burgos agil y verazmente",
+      "Canalizar avisos o incidencias, reclamaciones y sugerencias",
+      "Realización de diversos trámites municipales",
+      "Expedición de copias selladas de los documentos originales que aporten los interesados"
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2025 · pregunta 47",
+    "explicación": "La expedición de copias selladas de documentos originales aportados por los interesados no figura entre las funciones ordinarias del servicio 010 de atención ciudadana.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q49-reg",
+    "tema": 35,
+    "pregunta": "¿Cuándo se entiende presentado un documento en un registro, si se realizó la presentación en un día inhábil?",
+    "opciones": [
+      "A la primera hora hábil del primer día hábil siguiente",
+      "A la primera hora del primer día hábil siguiente",
+      "En el día inhábil de su presentación",
+      "No se pueden presentar documentos en un día inhábil"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 49",
+    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora hábil del primer día hábil siguiente, salvo norma especial.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q58",
+    "tema": 35,
+    "pregunta": "¿Cuál de los siguientes es un documento de un particular dirigido a la Administración?",
+    "opciones": [
+      "Solicitud",
+      "Informe",
+      "Traslado",
+      "Certificación"
+    ],
+    "correcta": 0,
+    "referencia": "PDF Burgos 2025 · pregunta 58",
+    "explicación": "La solicitud es el documento tipico del particular dirigido a la Administración.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2025-burgos-q48",
+    "tema": 35,
+    "pregunta": "Según la Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas ¿En qué plazo se deben emitir las copias de los documentos válidamente emitidos por las Administraciones?",
+    "opciones": [
+      "10 días.",
+      "15 días.",
+      "1 mes.",
+      "30 días."
+    ],
+    "correcta": 1,
+    "referencia": "PDF Burgos 2025 · pregunta 48",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "pdf-2023-burgos-q47",
+    "tema": 35,
+    "pregunta": "El servicio 010 de atención ciudadana realizará los siguientes servicios, indique cual NO es correcto:",
+    "opciones": [
+      "Dar información municipal y de la ciudad de Burgos ágil y verazmente.",
+      "Canalizar avisos o incidencias, reclamaciones y sugerencias.",
+      "Realización de diversos trámites municipales.",
+      "Expedición de copias selladas de los documentos originales que aporten los interesados."
+    ],
+    "correcta": 3,
+    "referencia": "PDF Burgos 2023 · pregunta 47",
+    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "t31-p001",
+    "tema": 35,
+    "pregunta": "El registro administrativo permite dejar constancia fehaciente de:",
+    "opciones": [
+      "La entrada y salida de solicitudes, escritos, comunicaciones y documentos que se presenten o remitan",
+      "La aprobación de las ordenanzas y reglamentos municipales",
+      "La composición de los órganos colegiados en cada mandato corporativo",
+      "La relación de puestos de trabajo y las nóminas del personal"
+    ],
+    "correcta": 0,
+    "explicación": "La función básica del registro es dejar constancia de la entrada y salida de documentos y escritos administrativos.",
+    "referencia": "Ley 39/2015 · art. 16"
+  },
+  {
+    "id": "t31-p002",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, el Registro General debe complementarse con:",
+    "opciones": [
+      "Registros Auxiliares",
+      "Comisiones Informativas",
+      "Oficinas de recaudación",
+      "Libretas de direcciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema prevé registros auxiliares bajo dependencia del general.",
+    "referencia": "V.4 · 1.2 El Registro General y los Registros Auxiliares"
+  },
+  {
+    "id": "t31-p003",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, una función del registro es:",
+    "opciones": [
+      "la distribución de los documentos recibidos hacia las unidades competentes",
+      "la aprobación de presupuestos",
+      "la emisión de sentencias",
+      "la contratación de personal"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge la función de distribución.",
+    "referencia": "V.4 · 1.3 Funciones del Registro"
+  },
+  {
+    "id": "t31-p004",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, el Registro Electrónico General está disponible:",
+    "opciones": [
+      "las 24 horas del día, los 365 días del año",
+      "solo en horario de oficina",
+      "únicamente en días hábiles",
+      "solo por la mañana"
+    ],
+    "correcta": 0,
+    "explicación": "El tema señala disponibilidad permanente.",
+    "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico"
+  },
+  {
+    "id": "t31-p005",
+    "tema": 35,
+    "pregunta": "Los documentos presentados en un día inhábil se entienden presentados:",
+    "opciones": [
+      "el primer día hábil siguiente",
+      "ese mismo día a las 12:00",
+      "al siguiente mes",
+      "el día que indique el interesado"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija esa regla general.",
+    "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico"
+  },
+  {
+    "id": "t31-p006",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, la sede electrónica es:",
+    "opciones": [
+      "la dirección electrónica de titularidad de una Administración Pública",
+      "un archivo histórico",
+      "un registro auxiliar en papel",
+      "una oficina de correos digital"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define como dirección electrónica de la Administración.",
+    "referencia": "V.4 · 2.3 La Sede Electrónica"
+  },
+  {
+    "id": "t31-p007",
+    "tema": 35,
+    "pregunta": "Según el art. 16.4 LPACAP, una de las vías de presentación es:",
+    "opciones": [
+      "el Registro Electrónico de la Administración a la que se dirige el documento",
+      "solo el correo certificado",
+      "únicamente el BOE",
+      "solo la ventanilla del secretario"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye el registro electrónico del órgano destinatario.",
+    "referencia": "V.4 · 3.1 Lugares de presentación (art. 16.4 LPACAP)"
+  },
+  {
+    "id": "t31-p008",
+    "tema": 35,
+    "pregunta": "Están obligadas a relacionarse electrónicamente con la Administración, entre otros, las:",
+    "opciones": [
+      "personas jurídicas",
+      "personas físicas en todo caso",
+      "personas menores de edad siempre",
+      "entidades deportivas sin ánimo de lucro en todo caso"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo impone a las personas jurídicas.",
+    "referencia": "V.4 · 3.2 Obligación de relacionarse electrónicamente con la Administración"
+  },
+  {
+    "id": "t31-p009",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, los escritos y solicitudes deben incluir, entre otros,:",
+    "opciones": [
+      "hechos, razones y petición",
+      "solo el título del expediente",
+      "únicamente el DNI del interesado",
+      "la firma del alcalde"
+    ],
+    "correcta": 0,
+    "explicación": "El tema exige esos tres elementos de contenido.",
+    "referencia": "V.4 · 3.3 Requisitos formales de los escritos y solicitudes"
+  },
+  {
+    "id": "t31-p010",
+    "tema": 35,
+    "pregunta": "La presentación de documentos por personas físicas en soporte papel se mantiene:",
+    "opciones": [
+      "cuando no estén obligadas a relacionarse electrónicamente",
+      "solo en procedimientos sancionadores",
+      "solo si lo autoriza el interventor",
+      "nunca"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reserva la posibilidad a quienes no estén obligados electrónicamente.",
+    "referencia": "V.4 · 3.5 Presentación de documentos por personas físicas en soporte papel"
+  },
+  {
+    "id": "t31-p015",
+    "tema": 35,
+    "pregunta": "El principio de ventanilla única permite que el ciudadano presente documentos en:",
+    "opciones": [
+      "el registro de cualquier Administración Pública aunque vayan dirigidos a otra",
+      "solo la sede de la Administración destinataria",
+      "únicamente el registro municipal de su domicilio",
+      "el portal de transparencia"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo define así.",
+    "referencia": "V.4 · 6. El principio de ventanilla única"
+  },
+  {
+    "id": "topup-35-02",
+    "pregunta": "Si una persona física no obligada a relacionarse electronicamente carece de medios, la oficina puede prestarle asistencia mediante:",
+    "opciones": [
+      "funcionario habilitado en los supuestos legales",
+      "simple entrega del expediente a un tercero",
+      "eliminación del trámite de firma",
+      "sustitución del interesado por el alcalde"
+    ],
+    "correcta": 0,
+    "explicación": "La ley permite asistencia mediante funcionario habilitado con consentimiento.",
+    "referencia": "V.4 · Asistencia electrónica",
+    "tema": 35
+  },
+  {
+    "id": "topup-35-05",
+    "pregunta": "En oficinas de asistencia en materia de registros, la comprobación de la representación es especialmente importante cuando el interesado pretende:",
+    "opciones": [
+      "interponer un recurso o renunciar a derechos en nombre de otra persona",
+      "pedir información general anonima",
+      "consultar el horario de una oficina",
+      "leer un bando ya publicado"
+    ],
+    "correcta": 0,
+    "explicación": "No toda actuación admite la misma flexibilidad en materia de representación.",
+    "referencia": "V.4 · Representación y apoderamientos",
+    "tema": 35
+  },
+  {
+    "id": "refine-35-01",
+    "pregunta": "Las oficinas de asistencia en materia de registros cumplen una función que va más allá del mero asiento registral porque también pueden:",
+    "opciones": [
+      "asistir en el uso de medios electrónicos y en la presentación de solicitudes",
+      "resolver recursos contencioso-administrativos",
+      "sustituir al órgano instructor del procedimiento",
+      "aprobar el presupuesto municipal"
+    ],
+    "correcta": 0,
+    "referencia": "V.4 · Funciones de las oficinas de asistencia",
+    "explicación": "Su papel incluye asistencia a la ciudadania para relacionarse con la Administración, especialmente por medios electrónicos.",
+    "tema": 35
+  },
+  {
+    "id": "refine-35-02",
+    "pregunta": "Si una persona física no obligada a relacionarse electronicamente acude sin medios técnicos, la oficina de asistencia puede:",
+    "opciones": [
+      "prestar ayuda para presentar electronicamente la solicitud o documentación",
+      "rechazar sin más la presentación",
+      "obligarle a contratar un gestor privado",
+      "resolver directamente el fondo del expediente"
+    ],
+    "correcta": 0,
+    "referencia": "V.4 · Asistencia a la ciudadania",
+    "explicación": "La oficina está precisamente para facilitar la relación electrónica a quien no dispone de medios o conocimientos suficientes.",
+    "tema": 35
+  },
+  {
+    "id": "refine-35-03",
+    "pregunta": "En oficinas de asistencia en materia de registros, la constancia exacta de fecha y hora en el asiento registral resulta especialmente relevante por sus efectos sobre:",
+    "opciones": [
+      "plazos, prelación y acreditación de la presentación",
+      "clasificación presupuestaria del gasto",
+      "competencia del Tribunal de Cuentas",
+      "nombramiento de tenientes de alcalde"
+    ],
+    "correcta": 0,
+    "referencia": "V.4 · Funcionamiento registral",
+    "explicación": "Fecha y hora son datos nucleares para acreditar la presentación y sus efectos procedimentales.",
+    "tema": 35
+  },
+  {
+    "id": "refine-35-04",
+    "pregunta": "En oficinas de asistencia en materia de registros, una copia auténtica se diferencia de una copia simple porque:",
+    "opciones": [
+      "acredita la identidad y fidelidad respecto del original en los términos legalmente previstos",
+      "siempre sustituye al original a todos los efectos sin limite",
+      "solo puede existir en papel y nunca en formato electrónico",
+      "no requiere actuación administrativa alguna para su expedición"
+    ],
+    "correcta": 0,
+    "referencia": "V.4 · Copias y digitalización",
+    "explicación": "La copia autentica incorpora un plus de garantía jurídica sobre su correspondencia con el original.",
+    "tema": 35
+  },
+  {
+    "id": "estado2026-extra-t35-01",
+    "tema": 35,
+    "pregunta": "En oficinas de asistencia en materia de registros, el Registro Electrónico General debe estar orientado a:",
+    "opciones": [
+      "Anotar documentos presentados o recibidos y facilitar la interoperabilidad con otros registros",
+      "Sustituir todos los actos administrativos por correos electrónicos",
+      "Registrar únicamente documentos internos sin efectos para ciudadanos",
+      "Eliminar la necesidad de recibos de presentación"
+    ],
+    "correcta": 0,
+    "explicación": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables.",
+    "referencia": "Examen Estado 2026, registros; Tema V.4, oficinas de asistencia en materia de registros",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

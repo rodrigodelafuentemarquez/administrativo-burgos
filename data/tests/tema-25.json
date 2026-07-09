@@ -1,0 +1,330 @@
+[
+  {
+    "id": "t22-p005",
+    "tema": 25,
+    "pregunta": "Según el art. 15 TREBEP, un derecho individual de ejercicio colectivo es:",
+    "opciones": [
+      "la negociación colectiva",
+      "la permuta de puestos",
+      "la enajenación de bienes",
+      "la convocatoria de elecciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera la negociación colectiva como derecho colectivo.",
+    "referencia": "III.4 · 3.2 Derechos individuales de ejercicio colectivo (art. 15 TREBEP)"
+  },
+  {
+    "id": "t22-p014",
+    "tema": 25,
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el régimen de incompatibilidades del personal público, parte de que:",
+    "opciones": [
+      "la incompatibilidad es la regla y la compatibilidad la excepción autorizada",
+      "la compatibilidad es automática con cualquier segunda actividad",
+      "solo existen incompatibilidades para los funcionarios interinos",
+      "no hay limitaciones para el empleo privado"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo expresa como principio general.",
+    "referencia": "III.4 · 7.2 Principio general"
+  },
+  {
+    "id": "t22-p019",
+    "tema": 25,
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, no requiere reconocimiento de compatibilidad:",
+    "opciones": [
+      "la producción y creación literaria, artística, científica y técnica",
+      "el desempeño de una segunda actividad pública retribuida",
+      "una actividad privada retribuida relacionada directamente con las competencias del puesto",
+      "una actividad privada que genere conflicto de intereses con el servicio público"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye la creación literaria, artística, científica y técnica entre las actividades permitidas sin autorización.",
+    "referencia": "III.4 · 7.4 Actividades permitidas sin necesidad de autorización"
+  },
+  {
+    "id": "t46-p023",
+    "tema": 25,
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, ¿cuál de los siguientes derechos individuales de ejercicio colectivo corresponde a los funcionarios?",
+    "opciones": [
+      "La negociación colectiva",
+      "La libre elección del puesto sin procedimiento de provisión",
+      "La percepción automatica del complemento de productividad",
+      "La inamovilidad en cualquier puesto concreto"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye la negociación colectiva entre los derechos individuales de ejercicio colectivo.",
+    "referencia": "III.4 · 8.1 Derechos"
+  },
+  {
+    "id": "t46-p024",
+    "tema": 25,
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el incumplimiento de los servicios mínimos en caso de huelga por parte del personal al servicio de la Administración:",
+    "opciones": [
+      "No produce consecuencia alguna al tratarse del ejercicio de un derecho fundamental",
+      "Puede dar lugar a responsabilidad disciplinaria",
+      "Supone automáticamente la pérdida de la condición de funcionario",
+      "Solo puede sancionarse penalmente"
+    ],
+    "correcta": 1,
+    "explicación": "El tema indica expresamente que el incumplimiento de los servicios mínimos puede generar responsabilidad disciplinaria.",
+    "referencia": "III.4 · 10.3 El derecho de huelga"
+  },
+  {
+    "id": "t46-p028",
+    "tema": 25,
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, son objeto de negociación colectiva, entre otras materias:",
+    "opciones": [
+      "La aplicación del incremento global de retribuciones, los planes de empleo y la oferta de empleo público",
+      "La resolución de expedientes disciplinarios individuales y la imposición concreta de sanciones",
+      "La designación nominativa de los miembros de los tribunales de selección",
+      "La tramitación singular de expedientes de incompatibilidades y jubilación"
+    ],
+    "correcta": 0,
+    "explicación": "La negociación colectiva alcanza materias generales de condiciones de trabajo, pero no decisiones individualizadas de aplicación ni potestades estrictamente organizativas o disciplinarias.",
+    "referencia": "TREBEP · negociación colectiva"
+  },
+  {
+    "id": "topup-25-04",
+    "pregunta": "No todas las materias son negociables porque quedan fuera, entre otras, las relativas a:",
+    "opciones": [
+      "potestades públicas y regulación de derechos de la ciudadania",
+      "vacaciones y jornada",
+      "salud laboral",
+      "acción social"
+    ],
+    "correcta": 0,
+    "explicación": "La negociación colectiva tiene límites materiales en el empleo público.",
+    "referencia": "III.4 · Negociación colectiva",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-06",
+    "pregunta": "En servicios esenciales para la comunidad, la huelga puede someterse a:",
+    "opciones": [
+      "servicios mínimos proporcionados y motivados",
+      "prohibición absoluta automatica",
+      "autorización judicial previa en todo caso",
+      "silencio administrativo negativo"
+    ],
+    "correcta": 0,
+    "explicación": "Los servicios mínimos deben conciliar el derecho de huelga con la continuidad de servicios esenciales.",
+    "referencia": "III.4 · Derecho de huelga",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-07",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, durante la huelga se suspende:",
+    "opciones": [
+      "el trabajo y el salario en los términos legales",
+      "la relación estatutaria de forma definitiva",
+      "la existencia del Ayuntamiento",
+      "la vigencia de la Constitución"
+    ],
+    "correcta": 0,
+    "explicación": "La huelga tiene efectos suspensivos sobre trabajo y retribución.",
+    "referencia": "III.4 · Derecho de huelga",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-08",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el régimen de incompatibilidades persigue especialmente salvaguardar:",
+    "opciones": [
+      "imparcialidad e independencia",
+      "la discrecionalidad política absoluta",
+      "la reserva judicial",
+      "la inviolabilidad parlamentaria"
+    ],
+    "correcta": 0,
+    "explicación": "Las incompatibilidades evitan conflictos de intereses y garantizan dedicación al puesto público.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-09",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la regla general en materia de incompatibilidades del personal público es que:",
+    "opciones": [
+      "no se puede compatibilizar un puesto público con otro salvo excepciones legales",
+      "siempre se pueden acumular dos puestos públicos",
+      "solo se prohiben las actividades artisticas",
+      "la compatibilidad nunca necesita autorización"
+    ],
+    "correcta": 0,
+    "explicación": "La compatibilidad es excepcional y debe ajustarse a la ley.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-10",
+    "pregunta": "Una actividad privada relacionada con expedientes tramitados por el empleado público puede ser incompatible por afectar a la:",
+    "opciones": [
+      "imparcialidad",
+      "publicidad activa",
+      "regencia",
+      "investidura"
+    ],
+    "correcta": 0,
+    "explicación": "El conflicto de intereses es uno de los riesgos centrales del régimen de incompatibilidades.",
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-11",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la compatibilidad para una segunda actividad debe solicitarse:",
+    "opciones": [
+      "antes de iniciar la actividad",
+      "después de cobrar la primera mensualidad",
+      "solo si lo pide un sindicato",
+      "cuando lo autorice verbalmente un companero"
+    ],
+    "correcta": 0,
+    "explicación": "La autorización previa es esencial en el régimen de incompatibilidades.",
+    "referencia": "III.4 · Compatibilidad",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-12",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, entre las actividades normalmente exceptuadas del régimen de incompatibilidades se encuentra:",
+    "opciones": [
+      "la administración del patrimonio personal",
+      "la tramitación privada de licencias del propio Ayuntamiento",
+      "la representación habitual de contratistas municipales",
+      "la inspección privada de expedientes sancionadores"
+    ],
+    "correcta": 0,
+    "explicación": "La ley exceptua determinadas actividades que no comprometen la imparcialidad en los términos legales.",
+    "referencia": "III.4 · Compatibilidad",
+    "tema": 25
+  },
+  {
+    "id": "topup-25-13",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el incumplimiento del régimen de incompatibilidades puede generar:",
+    "opciones": [
+      "responsabilidad disciplinaria",
+      "investidura automatica",
+      "nulidad de toda la función pública",
+      "creación de una tasa municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El incumplimiento puede derivar en sanciones y otras consecuencias jurídicas.",
+    "referencia": "III.4 · Incompatibilidades",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-01",
+    "pregunta": "La libertad sindical en el empleo público comprende, entre otras facultades, la de:",
+    "opciones": [
+      "fundar sindicatos y afiliarse al de su elección",
+      "suspender unilateralmente cualquier procedimiento administrativo",
+      "ocupar sin limite cualquier dependencia municipal",
+      "eximir de cumplimiento de jornada a toda la plantilla"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Derecho de sindicación",
+    "explicación": "La libertad sindical incluye fundación, afiliación, actividad sindical y representación en los términos legales.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-02",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la negociación colectiva de los empleados públicos se desarrolla dentro del marco fijado por:",
+    "opciones": [
+      "el TREBEP y la normativa aplicable",
+      "solo el Estatuto de los Trabajadores común",
+      "exclusivamente el reglamento orgánico municipal",
+      "únicamente los estatutos sindicales"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Negociación colectiva",
+    "explicación": "La negociación del personal público tiene un régimen específico presidido por el TREBEP.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-03",
+    "pregunta": "En los servicios esenciales para la comunidad, el ejercicio del derecho de huelga puede condicionarse mediante:",
+    "opciones": [
+      "servicios mínimos proporcionados y motivados",
+      "prohibición automatica e incondicionada de la huelga",
+      "sustitución general de huelguistas por personal externo sin límites",
+      "negación absoluta de cualquier derecho colectivo"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Derecho de huelga",
+    "explicación": "La fijación de servicios mínimos debe respetar el derecho de huelga y el principio de proporcionalidad.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-04",
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, la regla general del régimen de incompatibilidades del personal al servicio del sector público es que:",
+    "opciones": [
+      "no puede compatibilizarse un segundo puesto o actividad salvo en los supuestos legalmente previstos",
+      "toda actividad privada es libre sin autorización",
+      "pueden acumularse dos puestos públicos por mera conveniencia",
+      "la compatibilidad nunca requiere reconocimiento previo"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "explicación": "La compatibilidad es excepcional y necesita cobertura y, en su caso, reconocimiento conforme a la ley.",
+    "tema": 25
+  },
+  {
+    "id": "refine-25-05",
+    "pregunta": "Una actividad privada relacionada con expedientes que trámite el propio empleado público puede ser incompatible por comprometer la:",
+    "opciones": [
+      "imparcialidad e independencia",
+      "publicidad institucional",
+      "prorroga presupuestaria",
+      "fe pública local"
+    ],
+    "correcta": 0,
+    "referencia": "III.4 · Régimen de incompatibilidades",
+    "explicación": "La finalidad central del régimen es evitar conflictos de intereses y preservar la imparcialidad.",
+    "tema": 25
+  },
+  {
+    "id": "estado2026-extra-t25-01",
+    "tema": 25,
+    "pregunta": "¿Qué actividad está exceptuada del régimen de incompatibilidades del personal al servicio de las Administraciones Públicas?",
+    "opciones": [
+      "La participación en tribunales calificadores de pruebas selectivas para ingreso en las Administraciones Públicas",
+      "El desempeño de cargos en empresas concesionarias del sector público",
+      "La participación superior al 10 por ciento en empresas contratistas",
+      "Cualquier segunda actividad privada coincidente con el horario"
+    ],
+    "correcta": 0,
+    "explicación": "La participación en tribunales calificadores figura entre las actividades exceptuadas del régimen de incompatibilidades.",
+    "referencia": "Examen Estado 2026, Ley 53/1984; Tema III.4, incompatibilidades",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t25-02",
+    "tema": 25,
+    "pregunta": "En sindicación, huelga e incompatibilidades del personal público, el desempeño de un segundo puesto público o privado compatible exige, como regla general:",
+    "opciones": [
+      "Autorización o reconocimiento previo de compatibilidad cuando proceda",
+      "Simple comunicación posterior al superior jerárquico",
+      "Ningún control si se realiza por la tarde",
+      "Solo inscripción en el padrón municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El régimen de incompatibilidades exige autorización o reconocimiento de compatibilidad en los supuestos legalmente previstos.",
+    "referencia": "Tema III.4, régimen de incompatibilidades",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "realstyle-iii04-01",
+    "tema": 25,
+    "pregunta": "En caso de huelga del personal al servicio de la Administración, el incumplimiento de los servicios mínimos fijados puede dar lugar a:",
+    "opciones": [
+      "Responsabilidad disciplinaria, sin perjuicio de otras responsabilidades que procedan",
+      "La pérdida automática de la condición de funcionario en todo caso",
+      "La supresión del derecho de sindicación del empleado",
+      "La convalidación retroactiva de la ausencia como vacaciones"
+    ],
+    "correcta": 0,
+    "referencia": "Revisión test reales · servicios mínimos en huelga",
+    "explicación": "Los exámenes reales suelen formular esta materia en clave de responsabilidad por incumplimiento de servicios esenciales."
+  }
+]

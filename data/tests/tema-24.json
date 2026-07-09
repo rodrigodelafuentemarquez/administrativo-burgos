@@ -1,0 +1,316 @@
+[
+  {
+    "id": "t29-p001",
+    "tema": 24,
+    "pregunta": "El personal laboral al servicio de las Corporaciones Locales se vincula mediante:",
+    "opciones": [
+      "un contrato de trabajo",
+      "una relación estatutaria",
+      "un nombramiento vitalicio",
+      "una concesión administrativa"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo diferencia claramente del funcionario.",
+    "referencia": "III.3 · 1.1 Concepto y régimen jurídico"
+  },
+  {
+    "id": "t29-p002",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el personal laboral no puede desempeñar funciones que impliquen:",
+    "opciones": [
+      "participación directa o indirecta en el ejercicio de potestades públicas",
+      "atención al ciudadano",
+      "mantenimiento de instalaciones",
+      "servicios generales"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reserva esas funciones a funcionarios de carrera.",
+    "referencia": "III.3 · 1.2 Posición del personal laboral respecto al funcionario"
+  },
+  {
+    "id": "t29-p003",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, una clase de personal laboral es:",
+    "opciones": [
+      "fijo, indefinido no fijo y temporal",
+      "titular, suplente y eventual",
+      "jefe, mando y base",
+      "ordinario, extraordinario y mixto"
+    ],
+    "correcta": 0,
+    "explicación": "El tema distingue esas tres modalidades.",
+    "referencia": "III.3 · 1.3 Clases de personal laboral"
+  },
+  {
+    "id": "t29-p004",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato de trabajo es:",
+    "opciones": [
+      "El acuerdo por el que el trabajador presta servicios voluntariamente, por cuenta ajena y dentro del ámbito de organización y dirección del empleador, a cambio de retribución",
+      "La decisión unilateral de la administración de adscribir a una persona a un puesto sin contraprestación salarial",
+      "La adquisición por la entidad local de bienes inmuebles destinados al servicio público",
+      "La norma interna que regula la organización general del personal laboral"
+    ],
+    "correcta": 0,
+    "explicación": "El contrato de trabajo se caracteriza por la voluntariedad, la ajenidad, la dependencia y la retribución.",
+    "referencia": "Estatuto de los Trabajadores · concepto de contrato de trabajo"
+  },
+  {
+    "id": "t29-p005",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, son notas esenciales del contrato de trabajo:",
+    "opciones": [
+      "voluntariedad, retribución, ajenidad y dependencia",
+      "publicidad, igualdad, mérito y capacidad",
+      "competencia, jerarquía y discrecionalidad",
+      "autonomía, gratuidad y temporalidad"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera esas cuatro notas.",
+    "referencia": "III.3 · 2.2 Elementos esenciales del contrato de trabajo"
+  },
+  {
+    "id": "t29-p006",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato de trabajo puede celebrarse:",
+    "opciones": [
+      "por escrito o de palabra, aunque algunos deben constar por escrito",
+      "solo por escrito en todos los casos",
+      "solo de palabra",
+      "mediante decreto de alcaldía"
+    ],
+    "correcta": 0,
+    "explicación": "El tema admite ambas formas, con exigencias de escritura en ciertos casos.",
+    "referencia": "III.3 · 2.3 Forma del contrato"
+  },
+  {
+    "id": "t29-p007",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el período de prueba máximo para técnicos titulados es de:",
+    "opciones": [
+      "6 meses",
+      "2 meses",
+      "15 días",
+      "1 año"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija seis meses para técnicos titulados.",
+    "referencia": "III.3 · 2.4 Período de prueba"
+  },
+  {
+    "id": "t29-p008",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato indefinido es:",
+    "opciones": [
+      "la modalidad ordinaria y preferente",
+      "una excepción residual",
+      "siempre temporal",
+      "un contrato verbal sin control"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo presenta como modalidad ordinaria y preferente.",
+    "referencia": "III.3 · 2.5.1 Contrato indefinido"
+  },
+  {
+    "id": "t29-p009",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, una modalidad temporal es:",
+    "opciones": [
+      "el contrato por circunstancias de la producción",
+      "el contrato de arrendamiento",
+      "la concesión demanial",
+      "la comisión de servicios"
+    ],
+    "correcta": 0,
+    "explicación": "El tema enumera esa modalidad temporal.",
+    "referencia": "III.3 · 2.5.2 Contratos temporales"
+  },
+  {
+    "id": "t29-p010",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el contrato fijo-discontinuo se utiliza para:",
+    "opciones": [
+      "trabajos de naturaleza estacional o vinculados a actividades de temporada",
+      "funciones de libre designación",
+      "aprobación de presupuestos",
+      "cargos representativos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema lo vincula a trabajos estacionales o discontinuos.",
+    "referencia": "III.3 · 2.5.2 Contratos temporales"
+  },
+  {
+    "id": "t29-p011",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, un derecho básico de los trabajadores es:",
+    "opciones": [
+      "la huelga",
+      "la potestad reglamentaria",
+      "la fiscalización de cuentas",
+      "la aprobación de sanciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge la huelga entre los derechos básicos.",
+    "referencia": "III.3 · 3.1 Derechos básicos (art. 4 ET)"
+  },
+  {
+    "id": "t29-p012",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, el trabajador tiene derecho a:",
+    "opciones": [
+      "la ocupación efectiva del puesto de trabajo",
+      "la designación de sus superiores",
+      "la aprobación del presupuesto",
+      "la potestad disciplinaria"
+    ],
+    "correcta": 0,
+    "explicación": "El tema incluye la ocupación efectiva entre los derechos individuales.",
+    "referencia": "III.3 · 3.1 Derechos básicos (art. 4 ET)"
+  },
+  {
+    "id": "t29-p013",
+    "tema": 24,
+    "pregunta": "Ningún trabajador puede percibir por jornada completa un salario inferior al:",
+    "opciones": [
+      "SMI",
+      "IPREM siempre y en todo caso",
+      "sueldo base del subgrupo A1",
+      "complemento específico"
+    ],
+    "correcta": 0,
+    "explicación": "El tema menciona el SMI como límite mínimo.",
+    "referencia": "III.3 · 3.3 Derechos retributivos"
+  },
+  {
+    "id": "t29-p014",
+    "tema": 24,
+    "pregunta": "Según el art. 5 ET, entre los deberes básicos del trabajador se encuentra:",
+    "opciones": [
+      "cumplir las obligaciones con buena fe y diligencia",
+      "aprobar las bases de selección",
+      "dictar instrucciones a la Corporación",
+      "resolver recursos administrativos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema reproduce ese deber básico del art. 5 ET.",
+    "referencia": "III.3 · 4.1 Deberes básicos (art. 5 ET)"
+  },
+  {
+    "id": "t29-p015",
+    "tema": 24,
+    "pregunta": "En personal laboral de las Administraciones Públicas, entre los principios éticos del personal público está:",
+    "opciones": [
+      "no aceptar regalos o favores que puedan comprometer la imparcialidad",
+      "favorecer a los amigos del servicio",
+      "ocultar información a los ciudadanos siempre",
+      "priorizar intereses privados"
+    ],
+    "correcta": 0,
+    "explicación": "El tema recoge esa obligación ética.",
+    "referencia": "III.3 · 4.2 Deberes de los empleados públicos laborales según el TREBEP"
+  },
+  {
+    "id": "topup-24-03",
+    "pregunta": "Las incompatibilidades del personal laboral público se rigen, además del Estatuto de los Trabajadores, por:",
+    "opciones": [
+      "la normativa de incompatibilidades del sector público",
+      "solo el Código Civil",
+      "exclusivamente la ley electoral",
+      "ninguna norma específica"
+    ],
+    "correcta": 0,
+    "explicación": "El personal laboral público también está sujeto a reglas de incompatibilidad y conflictos de interés.",
+    "referencia": "III.3 · Incompatibilidades",
+    "tema": 24
+  },
+  {
+    "id": "topup-24-05",
+    "pregunta": "En personal laboral de las Administraciones Públicas, el personal laboral no puede ejercer funciones que impliquen:",
+    "opciones": [
+      "participación en potestades públicas reservadas a funcionarios",
+      "uso de herramientas ofimaticas",
+      "atención al público",
+      "archivo de expedientes"
+    ],
+    "correcta": 0,
+    "explicación": "Las funciones reservadas a funcionarios no pueden atribuirse libremente al personal laboral.",
+    "referencia": "III.3 · Régimen jurídico del personal laboral",
+    "tema": 24
+  },
+  {
+    "id": "refine-24-01",
+    "pregunta": "La selección del personal laboral al servicio de las Administraciones Públicas debe ajustarse a los principios de:",
+    "opciones": [
+      "igualdad, mérito, capacidad y publicidad",
+      "libre designación absoluta",
+      "designación directa por el alcalde sin proceso",
+      "antiguedad exclusiva en la Administración"
+    ],
+    "correcta": 0,
+    "referencia": "III.3 · Selección del personal laboral",
+    "explicación": "También en el personal laboral rigen los principios constitucionales de acceso al empleo público.",
+    "tema": 24
+  },
+  {
+    "id": "refine-24-02",
+    "pregunta": "El personal laboral al servicio de una Administración Pública se vincula mediante:",
+    "opciones": [
+      "contrato de trabajo",
+      "nombramiento funcionarial de carrera",
+      "elección política",
+      "convenio de colaboración interadministrativa"
+    ],
+    "correcta": 0,
+    "referencia": "III.3 · Personal laboral",
+    "explicación": "La nota definitoria del personal laboral es su vinculación por contrato de trabajo.",
+    "tema": 24
+  },
+  {
+    "id": "refine-24-03",
+    "pregunta": "Las incompatibilidades del personal laboral público no se rigen solo por el Estatuto de los Trabajadores, sino también por:",
+    "opciones": [
+      "la normativa específica de incompatibilidades del sector público",
+      "la ley electoral general",
+      "el reglamento del Pleno municipal",
+      "la ley hipotecaria"
+    ],
+    "correcta": 0,
+    "referencia": "III.3 · Derechos, deberes e incompatibilidades",
+    "explicación": "El personal laboral público queda sujeto además al régimen específico de incompatibilidades del sector público.",
+    "tema": 24
+  },
+  {
+    "id": "estado2026-extra-t24-01",
+    "tema": 24,
+    "pregunta": "En relación con el personal laboral, ¿qué actuación es típicamente objeto de anotación registral?",
+    "opciones": [
+      "Bajas temporales y definitivas",
+      "Toma de posesión de puestos funcionariales",
+      "Reconocimiento de grado personal funcionarial",
+      "Nombramiento como funcionario de carrera"
+    ],
+    "correcta": 0,
+    "explicación": "El examen de Estado 2026 pregunta por la anotación de bajas temporales y definitivas respecto del personal laboral.",
+    "referencia": "Examen Estado 2026, Registro Central de Personal; Tema III.3, personal laboral",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t24-02",
+    "tema": 24,
+    "pregunta": "En los convenios colectivos del personal laboral, el ámbito de aplicación puede excluir determinados colectivos cuando:",
+    "opciones": [
+      "La propia norma convencional o su régimen específico así lo establezca",
+      "Lo decida verbalmente cada unidad administrativa",
+      "El trabajador no haya solicitado vacaciones",
+      "El puesto tenga ordenador asignado"
+    ],
+    "correcta": 0,
+    "explicación": "El ámbito subjetivo de un convenio colectivo viene delimitado por su regulación y puede excluir colectivos sometidos a régimen específico.",
+    "referencia": "Examen Estado 2026, personal laboral; Tema III.3",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]

@@ -1,0 +1,854 @@
+<!DOCTYPE html><html lang="es" data-bs-theme="dark"> <head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><meta name="generator" content="Astro v6.2.2"><meta name="theme-color" content="#712cf9"><link rel="manifest" href="/administrativo-burgos/manifest.webmanifest"><link rel="icon" href="/administrativo-burgos/favicon.ico" sizes="any"><link rel="icon" href="/administrativo-burgos/favicon.png" type="image/png"><link rel="apple-touch-icon" href="/administrativo-burgos/icons/icon-192.png"><link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous"><title>Tema 39 - Bases de datos: Access 365. Principales funciones y utilidades. Tablas. Consultas. Formularios. Informes. Relaciones. Importación, vinculación y exportación de datos. Correo electrónico: Outlook 365. Conceptos elementales y funcionamiento. Enviar, recibir, responder y reenviar mensajes. Reglas de mensaje. Libreta de direcciones.</title><link rel="stylesheet" href="/administrativo-burgos/_astro/Layout.BKXYEglG.css"></head> <body> <header class="navbar navbar-expand-lg bd-navbar sticky-top"> <nav class="container-xxl flex-wrap flex-lg-nowrap" aria-label="Navegacion principal"> <div class="d-flex align-items-center"> <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuPrincipal" aria-controls="menuPrincipal" aria-label="Abrir navegacion"> <span class="navbar-toggler-icon"></span> </button> <a class="bd-brand d-inline-flex align-items-center p-0 me-lg-3" href="/administrativo-burgos/" aria-label="Administrativo Burgos"> <span class="bd-brand-mark"><img src="/administrativo-burgos/favicon.png" alt=""></span> <span>Administrativo Burgos</span> </a> </div> <div class="d-flex align-items-center gap-2 ms-lg-auto"> <ul class="navbar-nav flex-row flex-wrap d-none d-lg-flex"> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/">Inicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/convocatoria">Convocatoria</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/planning">Planning</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/test">Tests</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/glosario">Glosario</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/practico">2º ejercicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/desarrollo">3º ejercicio</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/progreso">Progreso</a></li> <li class="nav-item"><a class="nav-link py-2 px-2 " href="/administrativo-burgos/dudosas">Dudosas</a></li> </ul> <button class="navbar-toggler p-2 d-lg-none" type="button" data-bs-toggle="offcanvas" data-bs-target="#menuTemas" aria-controls="menuTemas" aria-label="Abrir temas">
+Temas
+</button> </div> </nav> </header> <div class="offcanvas offcanvas-start" tabindex="-1" id="menuPrincipal" aria-labelledby="menuPrincipalLabel"> <div class="offcanvas-header"> <h5 id="menuPrincipalLabel" class="offcanvas-title">Estudio</h5> <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button> </div> <div class="offcanvas-body"> <nav class="bd-links-nav"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong> <a class="bd-links-link rounded " href="/administrativo-burgos/">Inicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/convocatoria">Seguimiento oficial</a> <a class="bd-links-link rounded " href="/administrativo-burgos/planning">Planning</a> <a class="bd-links-link rounded " href="/administrativo-burgos/test">Hacer test</a> <a class="bd-links-link rounded " href="/administrativo-burgos/glosario">Glosario global</a> <a class="bd-links-link rounded " href="/administrativo-burgos/practico">Segundo ejercicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/desarrollo">Tercer ejercicio</a> <a class="bd-links-link rounded " href="/administrativo-burgos/progreso">Progreso</a> <a class="bd-links-link rounded " href="/administrativo-burgos/dudosas">Preguntas dudosas</a> <a class="bd-links-link rounded " href="/administrativo-burgos/fallos">Repetir fallos</a> </nav> </div> </div> <div class="offcanvas offcanvas-end" tabindex="-1" id="menuTemas" aria-labelledby="menuTemasLabel"> <div class="offcanvas-header"> <h5 id="menuTemasLabel" class="offcanvas-title">Temas</h5> <button type="button" class="btn-close" data-bs-dismiss="offcanvas" aria-label="Cerrar"></button> </div> <div class="offcanvas-body"> <nav class="bd-links-nav theme-list" aria-label="Listado de temas"> <a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-01"> Tema I.1: La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-02"> Tema I.2: La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-03"> Tema I.3: La Constitución Española (III): la organización territorial del Estado español. Las comunidades autónomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autónomas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-04"> Tema I.4: El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Español. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-05"> Tema I.5: Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-06"> Tema I.6: El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-07"> Tema I.7: La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaría General. La Intervención General. El órgano de Gestión Tributaria. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-08"> Tema I.8: La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-i-tema-09"> Tema I.9: La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-01"> Tema II.1: Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-02"> Tema II.2: El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-03"> Tema II.3: El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-04"> Tema II.4: La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-05"> Tema II.5: El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-06"> Tema II.6: La responsabilidad de la administración pública: caracteres. Los presupuestos de la responsabilidad. Daños resarcibles. La acción de responsabilidad. Especialidades del procedimiento administrativo en materia de responsabilidad. La responsabilidad patrimonial de las autoridades y personal al servicio de las administraciones públicas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-07"> Tema II.7: Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-08"> Tema II.8: La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-09"> Tema II.9: Los bienes de las entidades locales: concepto, clases. Bienes de dominio público local. Bienes patrimoniales locales, enajenación, cesión y utilización. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-10"> Tema II.10: Las formas de actividad administrativa. El servicio público. Concepto. Evolución y crisis. Las formas de gestión de los servicios públicos. La remunicipalización de los servicios públicos. La iniciativa económica pública y los servicios públicos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-11"> Tema II.11: Funcionamiento de los órganos colegiados locales. Convocatorias y orden del día. Requisitos para su constitución. Votaciones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-ii-tema-12"> Tema II.12: Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboración y aprobación. Los bandos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-01"> Tema III.1: El personal al servicio de las entidades locales: clases y régimen jurídico. Provisión de puestos de trabajo en la función pública. Los deberes y derechos de los funcionarios. La carrera administrativa. Promoción interna. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-02"> Tema III.2: Adquisición y pérdida de la condición de funcionario. Situaciones administrativas de los funcionarios. Supuestos y efectos de cada una de ellas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-03"> Tema III.3: El personal laboral al servicio de las administraciones públicas. Selección. Derechos, deberes e incompatibilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-04"> Tema III.4: El derecho de sindicación y de huelga. Régimen de incompatibilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iii-tema-05"> Tema III.5: El texto refundido de la Ley General de la Seguridad Social: disposiciones generales sobre el campo de aplicación y estructura del sistema de la Seguridad Social. Acción protectora: disposiciones generales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-01"> Tema IV.1: Los tributos locales: principios. La potestad reglamentaria de las entidades locales en materia tributaria: contenido de las ordenanzas fiscales, tramitación y régimen de impugnación de los actos de imposición y ordenación de tributos. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-02"> Tema IV.2: El presupuesto: concepto. Los principios presupuestarios. Los créditos presupuestarios: clasificación. Gastos plurianuales. Las modificaciones presupuestarias: créditos extraordinarios y suplementos de crédito. Ampliaciones de crédito. Generaciones de crédito. Transferencias de crédito. Incorporaciones de crédito. Anticipos de Tesorería. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-03"> Tema IV.3: El procedimiento administrativo de ejecución del presupuesto de gasto. Organos competentes. Fases del procedimiento y sus documentos contables. Compromisos de gasto para ejercicios posteriores. La ordenación del pago: concepto y competencia. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-04"> Tema IV.4: El control del gasto público. El control interno: la función interventora y el control financiero. El control externo realizado por el Tribunal de Cuentas, el Consejo de Cuentas de Castilla y León y las Cortes de Castilla y León. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-iv-tema-05"> Tema IV.5: Régimen urbanístico de la propiedad del suelo. Principios. Clasificación y calificación del suelo. Competencia urbanística municipal. Intervención administrativa en la edificación y uso del suelo. La licencia urbanística. Protección de la legalidad urbanística. Infracciones y sanciones urbanísticas. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-01"> Tema V.1: La Ley Orgánica 3/2007, de 22 de marzo, para la Igualdad Efectiva entre Mujeres y Hombres. Ley Orgánica 1/2004, de 28 de diciembre, de Medidas de Protección Integral contra la Violencia de Género. Ley 4/2023, de 28 de febrero, para la Igualdad Real y Efectiva de las Personas Trans y para la Garantía de los Derechos de las Personas LGTBI. Objeto y principios rectores. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-02"> Tema V.2: La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-03"> Tema V.3: Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-04"> Tema V.4: Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-05"> Tema V.5: La Ley 31/1995, de 8 de noviembre, de Prevención de Riesgos Laborales: objeto y ámbito de aplicación. Riesgos y medidas preventivas asociadas al puesto de trabajo a desempeñar. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-06"> Tema V.6: La protección de datos personales y su régimen jurídico: principios, derechos, responsable y encargado del tratamiento, delegado y autoridades de protección de datos. Derechos digitales. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-07"> Tema V.7: Las nuevas tecnologías en la gestión de las administraciones públicas. La Administración electrónica. El funcionamiento electrónico del sector público. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-08"> Tema V.8: El concepto de documento. Formación del expediente. El expediente electrónico. El archivo de los documentos administrativos. Clases de archivos y criterios de ordenación. Archivo electrónico de documentos. El acceso a los documentos administrativos: sus limitaciones y formas de acceso. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-09"> Tema V.9: Informática básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-10"> Tema V.10: Sistemas ofimáticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de cálculo: Excel para Microsoft 365. Funciones y utilidades. </a><a class="bd-links-link rounded " href="/administrativo-burgos/programa/grupo-v-tema-11"> Tema V.11: Correo electrónico: conceptos elementales y funcionamiento. La red Internet: conceptos elementales y servicios. </a> </nav> </div> </div> <div class="bd-layout has-toc"> <aside class="bd-sidebar"> <nav class="bd-links-nav"> <ul class="list-unstyled mb-0 pb-3 pb-md-2 pe-lg-2"> <li class="bd-links-group py-2"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Estudio</strong> <ul class="list-unstyled fw-normal pb-2 small"> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/">Inicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/convocatoria">Seguimiento oficial</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/planning">Planning</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/test">Hacer test</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/glosario">Glosario global</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/practico">Segundo ejercicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/desarrollo">Tercer ejercicio</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/progreso">Progreso</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/dudosas">Preguntas dudosas</a></li> <li><a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/fallos">Repetir fallos</a></li> </ul> </li> <li class="bd-links-group py-2"> <strong class="bd-links-heading d-flex w-100 align-items-center fw-semibold">Temario</strong> <ul class="list-unstyled fw-normal pb-2 small"> <li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-01"> Tema I.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-02"> Tema I.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-03"> Tema I.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-04"> Tema I.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-05"> Tema I.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-06"> Tema I.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-07"> Tema I.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-08"> Tema I.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-i-tema-09"> Tema I.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-01"> Tema II.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-02"> Tema II.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-03"> Tema II.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-04"> Tema II.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-05"> Tema II.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-06"> Tema II.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-07"> Tema II.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-08"> Tema II.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-09"> Tema II.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-10"> Tema II.10 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-11"> Tema II.11 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-ii-tema-12"> Tema II.12 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-01"> Tema III.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-02"> Tema III.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-03"> Tema III.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-04"> Tema III.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iii-tema-05"> Tema III.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-01"> Tema IV.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-02"> Tema IV.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-03"> Tema IV.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-04"> Tema IV.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-iv-tema-05"> Tema IV.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-01"> Tema V.1 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-02"> Tema V.2 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-03"> Tema V.3 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-04"> Tema V.4 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-05"> Tema V.5 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-06"> Tema V.6 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-07"> Tema V.7 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-08"> Tema V.8 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-09"> Tema V.9 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-10"> Tema V.10 </a> </li><li> <a class="bd-links-link d-inline-block rounded " href="/administrativo-burgos/programa/grupo-v-tema-11"> Tema V.11 </a> </li> </ul> </li> </ul> </nav> </aside> <main class="bd-main has-toc"> <div class="bd-toc mt-3 mb-5 my-lg-0 mb-lg-5 px-sm-1 text-body-secondary"> <strong class="d-block mb-2">En esta página</strong> <nav aria-label="Contenido de esta página"> <ul> <li class> <a href="#parte-i--access-365">PARTE I — ACCESS 365</a> </li><li class> <a href="#1-concepto-y-funciones-principales-de-access-365">1. CONCEPTO Y FUNCIONES PRINCIPALES DE ACCESS 365</a> </li><li class="ms-3"> <a href="#11-qué-es-una-base-de-datos">1.1 Qué es una base de datos</a> </li><li class="ms-3"> <a href="#12-qué-es-microsoft-access">1.2 Qué es Microsoft Access</a> </li><li class="ms-3"> <a href="#13-los-objetos-de-access">1.3 Los objetos de Access</a> </li><li class="ms-3"> <a href="#14-la-interfaz-de-access-365">1.4 La interfaz de Access 365</a> </li><li class> <a href="#2-tablas">2. TABLAS</a> </li><li class="ms-3"> <a href="#21-concepto">2.1 Concepto</a> </li><li class="ms-3"> <a href="#22-tipos-de-datos-de-los-campos">2.2 Tipos de datos de los campos</a> </li><li class="ms-3"> <a href="#23-la-clave-principal-primary-key">2.3 La clave principal (Primary Key)</a> </li><li class="ms-3"> <a href="#24-vistas-de-la-tabla">2.4 Vistas de la tabla</a> </li><li class="ms-3"> <a href="#25-propiedades-de-campo">2.5 Propiedades de campo</a> </li> </ul> </nav> </div>  <div class="bd-intro ps-lg-2"> <h1 class="bd-title">Tema 39</h1> <p class="bd-subtitle mb-0">Bases de datos: Access 365. Principales funciones y utilidades. Tablas. Consultas. Formularios. Informes. Relaciones. Importación, vinculación y exportación de datos. Correo electrónico: Outlook 365. Conceptos elementales y funcionamiento. Enviar, recibir, responder y reenviar mensajes. Reglas de mensaje. Libreta de direcciones.</p> </div> <div class="bd-content tema-content ps-lg-2"> <blockquote>
+<p><strong>Referencia del programa:</strong> Adams <mark class="study-mark study-mark-date">2026</mark>. Versión de referencia: <strong>Microsoft 365</strong> (Access y Outlook en su versión de suscripción).</p>
+</blockquote>
+<hr>
+<h2 id="parte-i--access-365">PARTE I — ACCESS 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#parte-i--access-365"><span class="icon icon-link"></span></a></h2>
+<h2 id="1-concepto-y-funciones-principales-de-access-365">1. CONCEPTO Y FUNCIONES PRINCIPALES DE ACCESS 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#1-concepto-y-funciones-principales-de-access-365"><span class="icon icon-link"></span></a></h2>
+<h3 id="11-qué-es-una-base-de-datos">1.1 Qué es una base de datos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#11-qué-es-una-base-de-datos"><span class="icon icon-link"></span></a></h3>
+<p>Una <strong>base de datos</strong> es un conjunto organizado de información estructurada, almacenada electrónicamente, que permite gestionar grandes volúmenes de datos de forma eficiente: almacenarlos, consultarlos, filtrarlos, ordenarlos, modificarlos y producir informes a partir de ellos.</p>
+<p>La diferencia fundamental entre una hoja de cálculo (<mark class="study-mark study-mark-key">Excel</mark>) y una base de datos (Access) es que Access permite gestionar datos <strong>relacionados entre sí</strong> que se distribuyen en múltiples tablas vinculadas, evitando la redundancia y garantizando la integridad de la información.</p>
+<h3 id="12-qué-es-microsoft-access">1.2 Qué es Microsoft Access<a class="anchor-link" aria-label="Enlace a esta seccion" href="#12-qué-es-microsoft-access"><span class="icon icon-link"></span></a></h3>
+<p><strong>Microsoft Access</strong> es el sistema de gestión de bases de datos relacionales (SGBDR) de escritorio incluido en Microsoft 365. Está orientado a usuarios no especializados en programación que necesitan gestionar datos estructurados en un entorno de oficina.</p>
+<p>Access combina en una sola aplicación:</p>
+<ul>
+<li>El motor de base de datos (almacenamiento de datos en tablas relacionadas).</li>
+<li>La interfaz visual para crear y gestionar los objetos de la base de datos (tablas, consultas, formularios, informes).</li>
+<li>Un lenguaje de consulta (SQL, accesible de forma visual mediante el diseño de consultas).</li>
+<li>Un entorno de programación (Visual Basic for Applications — VBA) para automatizar tareas.</li>
+</ul>
+<p>El archivo de Access tiene extensión <strong>.accdb</strong> (Access Database).</p>
+<h3 id="13-los-objetos-de-access">1.3 Los objetos de Access<a class="anchor-link" aria-label="Enlace a esta seccion" href="#13-los-objetos-de-access"><span class="icon icon-link"></span></a></h3>
+<p>Una base de datos de Access se compone de los siguientes <strong>objetos</strong>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Objeto</th><th>Función</th></tr></thead><tbody><tr><td><strong>Tablas</strong></td><td>Almacenan los datos organizados en filas (registros) y columnas (campos)</td></tr><tr><td><strong>Consultas</strong></td><td>Permiten buscar, filtrar, ordenar y calcular datos de una o varias tablas</td></tr><tr><td><strong>Formularios</strong></td><td>Interfaces visuales para introducir, ver y editar datos de forma cómoda</td></tr><tr><td><strong>Informes</strong></td><td>Presentan los datos formateados para su impresión o exportación</td></tr><tr><td><strong>Macros</strong></td><td>Secuencias de acciones automatizadas que se ejecutan sin programación</td></tr><tr><td><strong>Módulos</strong></td><td>Código VBA para automatización avanzada</td></tr></tbody></table>
+<p>Todos los objetos se gestionan desde el <strong>Panel de navegación</strong>, situado en la parte izquierda de la ventana de Access.</p>
+<h3 id="14-la-interfaz-de-access-365">1.4 La interfaz de Access 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#14-la-interfaz-de-access-365"><span class="icon icon-link"></span></a></h3>
+<p>La interfaz de Access sigue la estructura de la cinta de opciones común a Microsoft 365, con las siguientes fichas principales:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Ficha</th><th>Contenido</th></tr></thead><tbody><tr><td><strong>Inicio</strong></td><td>Vistas, portapapeles, ordenar y filtrar, registros, buscar</td></tr><tr><td><strong>Crear</strong></td><td>Creación de nuevos objetos: tablas, consultas, formularios, informes, macros</td></tr><tr><td><strong>Datos externos</strong></td><td>Importación, vinculación y exportación de datos</td></tr><tr><td><strong>Herramientas de base de datos</strong></td><td>Relaciones, analizar, mover datos, macros</td></tr></tbody></table>
+<hr>
+<h2 id="2-tablas">2. TABLAS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#2-tablas"><span class="icon icon-link"></span></a></h2>
+<h3 id="21-concepto">2.1 Concepto<a class="anchor-link" aria-label="Enlace a esta seccion" href="#21-concepto"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>tabla</strong> es el objeto fundamental de Access: es donde se almacenan los datos. Cada tabla representa una entidad (por ejemplo: Empleados, Expedientes, <mark class="study-mark study-mark-key">Municipios</mark>) y se organiza en:</p>
+<ul>
+<li><strong>Registros (filas):</strong> cada fila es un elemento individual de la tabla (un empleado, un expediente, un municipio).</li>
+<li><strong>Campos (columnas):</strong> cada columna es una característica o atributo de los registros (nombre, apellidos, fecha de nacimiento, DNI…).</li>
+</ul>
+<h3 id="22-tipos-de-datos-de-los-campos">2.2 Tipos de datos de los campos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#22-tipos-de-datos-de-los-campos"><span class="icon icon-link"></span></a></h3>
+<p>Al crear una tabla, cada campo debe tener asignado un <strong>tipo de datos</strong> que determina qué información puede almacenar:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo de datos</th><th>Descripción</th><th>Uso típico</th></tr></thead><tbody><tr><td><strong>Texto corto</strong></td><td>Cadena de caracteres de hasta 255 caracteres</td><td>Nombre, apellidos, dirección, código postal</td></tr><tr><td><strong>Texto largo</strong></td><td>Texto de longitud ilimitada</td><td>Observaciones, descripciones largas</td></tr><tr><td><strong>Número</strong></td><td>Valores numéricos (entero, entero largo, simple, doble…)</td><td>Cantidades, edades, códigos numéricos</td></tr><tr><td><strong>Fecha/Hora</strong></td><td>Valores de fecha y hora</td><td>Fecha de nacimiento, fecha de alta</td></tr><tr><td><strong>Moneda</strong></td><td>Valores monetarios con alta precisión</td><td>Importes económicos</td></tr><tr><td><strong>Autonumérico</strong></td><td>Número entero que se incrementa automáticamente; suele usarse como clave principal</td><td>ID de registro</td></tr><tr><td><strong>Sí/No</strong></td><td>Valor booleano (verdadero/falso, sí/no, activado/desactivado)</td><td>Activo/inactivo, aprobado/rechazado</td></tr><tr><td><strong>Objeto OLE</strong></td><td>Imagen, documento u otro objeto vinculado</td><td>Fotos, archivos adjuntos</td></tr><tr><td><strong>Hipervínculo</strong></td><td>Dirección web o correo electrónico</td><td>URL, email</td></tr><tr><td><strong>Datos adjuntos</strong></td><td>Archivos adjuntos a un registro</td><td>Documentos, imágenes</td></tr><tr><td><strong>Calculado</strong></td><td>Campo cuyo valor se calcula a partir de otros campos</td><td>Totales, concatenaciones</td></tr></tbody></table>
+<h3 id="23-la-clave-principal-primary-key">2.3 La clave principal (Primary Key)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#23-la-clave-principal-primary-key"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>clave principal</strong> (o clave primaria) es el campo o conjunto de campos que identifica de forma <strong>única e inequívoca</strong> cada registro de la tabla. No puede haber dos registros con el mismo valor en la clave principal, y el campo clave no puede estar vacío (valor nulo).</p>
+<p>Access recomienda definir una clave principal para cada tabla. El campo de tipo <strong>Autonumérico</strong> es la opción más habitual para la clave principal, ya que Access asigna automáticamente un número único a cada nuevo registro.</p>
+<h3 id="24-vistas-de-la-tabla">2.4 Vistas de la tabla<a class="anchor-link" aria-label="Enlace a esta seccion" href="#24-vistas-de-la-tabla"><span class="icon icon-link"></span></a></h3>
+<ul>
+<li><strong>Vista Hoja de datos:</strong> muestra los datos de la tabla en formato de cuadrícula (filas y columnas), similar a una hoja de cálculo. Permite visualizar, introducir y editar registros directamente.</li>
+<li><strong>Vista Diseño:</strong> permite definir y modificar la estructura de la tabla: campos, tipos de datos y propiedades de cada campo. En esta vista no se ven los datos, solo la estructura.</li>
+</ul>
+<h3 id="25-propiedades-de-campo">2.5 Propiedades de campo<a class="anchor-link" aria-label="Enlace a esta seccion" href="#25-propiedades-de-campo"><span class="icon icon-link"></span></a></h3>
+<p>En la Vista Diseño, cada campo tiene una serie de <strong>propiedades</strong> que controlan su comportamiento:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Propiedad</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Tamaño del campo</strong></td><td>Número máximo de caracteres (para Texto corto) o rango de valores numéricos</td></tr><tr><td><strong>Formato</strong></td><td>Cómo se muestran los datos al usuario (ej. dd/mm/aaaa para fechas)</td></tr><tr><td><strong>Máscara de entrada</strong></td><td>Patrón de entrada que facilita y valida la introducción de datos (ej. 00000 para un código postal de 5 dígitos)</td></tr><tr><td><strong>Título</strong></td><td>Etiqueta que se muestra en los formularios e informes en lugar del nombre del campo</td></tr><tr><td><strong>Valor predeterminado</strong></td><td>Valor que se introduce automáticamente cuando se crea un nuevo registro</td></tr><tr><td><strong>Regla de validación</strong></td><td>Condición que debe cumplir el dato introducido (ej. >0 para que solo acepte números positivos)</td></tr><tr><td><strong>Texto de validación</strong></td><td>Mensaje de error que se muestra cuando no se cumple la regla de validación</td></tr><tr><td><strong>Requerido</strong></td><td>Si es Sí, el campo no puede dejarse vacío</td></tr><tr><td><strong>Indexado</strong></td><td>Si es Sí, Access crea un índice para acelerar las búsquedas por ese campo; puede ser con o sin duplicados</td></tr></tbody></table>
+<hr>
+<h2 id="3-relaciones">3. RELACIONES<a class="anchor-link" aria-label="Enlace a esta seccion" href="#3-relaciones"><span class="icon icon-link"></span></a></h2>
+<h3 id="31-concepto-de-relación">3.1 Concepto de relación<a class="anchor-link" aria-label="Enlace a esta seccion" href="#31-concepto-de-relación"><span class="icon icon-link"></span></a></h3>
+<p>Las <strong>relaciones</strong> son los vínculos que se establecen entre tablas de la base de datos a través de campos comunes, permitiendo combinar datos de varias tablas en consultas, formularios e informes. Las relaciones son la característica fundamental que diferencia una base de datos relacional de una simple hoja de cálculo.</p>
+<p>Se accede al panel de relaciones desde <strong>Herramientas de base de datos → Relaciones</strong>.</p>
+<h3 id="32-tipos-de-relaciones">3.2 Tipos de relaciones<a class="anchor-link" aria-label="Enlace a esta seccion" href="#32-tipos-de-relaciones"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Descripción</th><th>Ejemplo</th></tr></thead><tbody><tr><td><strong>Uno a uno (1:1)</strong></td><td>Un registro de la tabla A se relaciona con un único registro de la tabla B, y viceversa</td><td>Empleado ↔ Nómina (cada empleado tiene una sola nómina mensual y cada nómina pertenece a un solo empleado)</td></tr><tr><td><strong>Uno a varios (1:N)</strong></td><td>Un registro de la tabla A puede relacionarse con varios registros de la tabla B, pero cada registro de B solo se relaciona con uno de A</td><td>Departamento (1) ↔ Empleados (N): un departamento tiene varios empleados, pero cada empleado pertenece a un solo departamento</td></tr><tr><td><strong>Varios a varios (M:N)</strong></td><td>Un registro de A puede relacionarse con varios de B, y viceversa. Se implementa mediante una <strong>tabla intermedia</strong> o tabla de unión</td><td>Alumnos (M) ↔ Cursos (N): un alumno puede estar en varios cursos y un curso puede tener varios alumnos</td></tr></tbody></table>
+<p>La relación más habitual en bases de datos de gestión es la <strong>uno a varios (1:N)</strong>.</p>
+<h3 id="33-integridad-referencial">3.3 Integridad referencial<a class="anchor-link" aria-label="Enlace a esta seccion" href="#33-integridad-referencial"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>integridad referencial</strong> es un conjunto de reglas que garantiza la coherencia de los datos entre tablas relacionadas. Al activarla en una relación de Access, el sistema impide:</p>
+<ul>
+<li>Introducir en la tabla del lado «varios» (tabla secundaria) un valor en el campo de relación que no exista en la tabla del lado «uno» (tabla principal).</li>
+<li>Eliminar un registro de la tabla principal si tiene registros relacionados en la tabla secundaria.</li>
+<li>Cambiar el valor de la clave principal en la tabla principal si hay registros relacionados.</li>
+</ul>
+<p>Al activar la integridad referencial pueden habilitarse opciones adicionales:</p>
+<ul>
+<li><strong>Actualizar en cascada los campos relacionados:</strong> si cambia la clave principal en la tabla principal, se actualizan automáticamente todos los registros relacionados.</li>
+<li><strong>Eliminar en cascada los registros relacionados:</strong> si se elimina un registro en la tabla principal, se eliminan automáticamente todos sus registros relacionados.</li>
+</ul>
+<hr>
+<h2 id="4-consultas">4. CONSULTAS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#4-consultas"><span class="icon icon-link"></span></a></h2>
+<h3 id="41-concepto">4.1 Concepto<a class="anchor-link" aria-label="Enlace a esta seccion" href="#41-concepto"><span class="icon icon-link"></span></a></h3>
+<p>Las <strong>consultas</strong> son preguntas que se hacen a la base de datos para obtener información. Permiten seleccionar, filtrar, ordenar y calcular datos de una o varias tablas, mostrando solo los registros y campos que cumplen los criterios especificados. Los datos originales en las tablas no se modifican al ejecutar una consulta de selección.</p>
+<h3 id="42-tipos-de-consultas">4.2 Tipos de consultas<a class="anchor-link" aria-label="Enlace a esta seccion" href="#42-tipos-de-consultas"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Tipo</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Consulta de selección</strong></td><td>El tipo más habitual. Recupera y muestra datos de una o varias tablas según los criterios definidos</td></tr><tr><td><strong>Consulta de parámetros</strong></td><td>Solicita al usuario que introduzca un valor (parámetro) cada vez que se ejecuta, para filtrar los resultados dinámicamente</td></tr><tr><td><strong>Consulta de totales</strong></td><td>Agrupa registros y calcula totales, promedios, máximos, mínimos u otras funciones de agregado por grupo</td></tr><tr><td><strong>Consulta de tabla de referencias cruzadas</strong></td><td>Muestra los resultados en formato de tabla con encabezados de fila y columna (similar a una tabla dinámica de <mark class="study-mark study-mark-key">Excel</mark>)</td></tr><tr><td><strong>Consulta de acción</strong></td><td>Modifica los datos de la base de datos: puede añadir registros (consulta de datos anexados), eliminarlos (consulta de eliminación), actualizarlos (consulta de actualización) o crear una nueva tabla (consulta de creación de tabla)</td></tr></tbody></table>
+<h3 id="43-el-diseño-de-consultas-qbe">4.3 El diseño de consultas (QBE)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#43-el-diseño-de-consultas-qbe"><span class="icon icon-link"></span></a></h3>
+<p>Access permite diseñar consultas de forma visual mediante la cuadrícula <strong>QBE</strong> (Query By Example — Consulta por Ejemplo), en la <strong>Vista Diseño</strong> de la consulta:</p>
+<ul>
+<li>La parte superior muestra las tablas (o consultas) de origen con sus campos.</li>
+<li>La parte inferior es la cuadrícula donde se arrastran los campos que se quieren mostrar.</li>
+<li>Para cada campo se puede especificar: si se muestra o no, el criterio de filtrado, y el orden (ascendente o descendente).</li>
+</ul>
+<p>Los <strong>criterios</strong> en la cuadrícula QBE permiten filtrar registros:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Criterio</th><th>Significado</th><th>Ejemplo</th></tr></thead><tbody><tr><td>«Burgos»</td><td>Igual a “Burgos”</td><td>Municipio = “Burgos”</td></tr><tr><td>No «Burgos»</td><td>Distinto de “Burgos”</td><td>—</td></tr><tr><td>><mark class="study-mark study-mark-date">1000</mark></td><td>Mayor que <mark class="study-mark study-mark-date">1000</mark></td><td>—</td></tr><tr><td>Entre 100 Y 500</td><td>En el rango [100, 500]</td><td>—</td></tr><tr><td>Cómo «M*»</td><td>Texto que empieza por M</td><td>Todos los nombres que empiezan por M</td></tr><tr><td>Es Nulo</td><td>El campo está vacío</td><td>—</td></tr><tr><td>Es No Nulo</td><td>El campo no está vacío</td><td>—</td></tr><tr><td>En (1;3;5)</td><td>El valor es 1, 3 o 5</td><td>—</td></tr></tbody></table>
+<p>Criterios en la <strong>misma fila</strong> de la cuadrícula se combinan con <strong>Y</strong> (AND); criterios en <strong>filas distintas</strong> se combinan con <strong>O</strong> (OR).</p>
+<p>Access genera automáticamente el código <strong>SQL</strong> correspondiente a la consulta diseñada visualmente, visible desde la Vista SQL.</p>
+<hr>
+<h2 id="5-formularios">5. FORMULARIOS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#5-formularios"><span class="icon icon-link"></span></a></h2>
+<h3 id="51-concepto">5.1 Concepto<a class="anchor-link" aria-label="Enlace a esta seccion" href="#51-concepto"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>formularios</strong> son interfaces gráficas diseñadas para facilitar la <strong>introducción, visualización y edición</strong> de datos de la base de datos, de forma más cómoda e intuitiva que la vista Hoja de datos de la tabla. Permiten mostrar un registro a la vez, con diseño personalizado.</p>
+<p>Los formularios pueden mostrar datos de una sola tabla o de varias tablas relacionadas (formularios con subformularios).</p>
+<h3 id="52-creación-de-formularios">5.2 Creación de formularios<a class="anchor-link" aria-label="Enlace a esta seccion" href="#52-creación-de-formularios"><span class="icon icon-link"></span></a></h3>
+<p>Access ofrece varias formas de crear formularios:</p>
+<ul>
+<li><strong>Asistente para formularios (Crear → Asistente para formularios):</strong> guía paso a paso para elegir los campos, el diseño y el estilo. Es la forma más rápida para usuarios no especializados.</li>
+<li><strong>Formulario automático (Crear → Formulario):</strong> crea automáticamente un formulario con todos los campos de la tabla o consulta seleccionada.</li>
+<li><strong>Vista Diseño (Crear → Diseño de formulario):</strong> permite diseñar el formulario desde cero, con total control sobre el diseño y los controles.</li>
+<li><strong>Formulario dividido:</strong> muestra simultáneamente el formulario (un registro a la vez) y la hoja de datos (todos los registros).</li>
+</ul>
+<h3 id="53-controles-del-formulario">5.3 Controles del formulario<a class="anchor-link" aria-label="Enlace a esta seccion" href="#53-controles-del-formulario"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>controles</strong> son los elementos gráficos que componen un formulario:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Control</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Cuadro de texto</strong></td><td>Muestra y permite editar el valor de un campo</td></tr><tr><td><strong>Etiqueta</strong></td><td>Texto estático descriptivo (no editable)</td></tr><tr><td><strong>Cuadro combinado</strong></td><td>Lista desplegable que permite elegir o escribir un valor</td></tr><tr><td><strong>Cuadro de lista</strong></td><td>Lista de valores entre los que se puede elegir</td></tr><tr><td><strong>Casilla de verificación</strong></td><td>Para campos de tipo Sí/No</td></tr><tr><td><strong>Botón de opción</strong></td><td>Para elegir una opción entre varias mutuamente excluyentes</td></tr><tr><td><strong>Botón de comando</strong></td><td>Ejecuta una acción al hacer clic (abrir otro formulario, guardar registro, ejecutar consulta…)</td></tr><tr><td><strong>Imagen</strong></td><td>Muestra una imagen fija en el formulario</td></tr><tr><td><strong>Subformulario</strong></td><td>Formulario anidado dentro de otro, que muestra los registros relacionados</td></tr></tbody></table>
+<h3 id="54-secciones-del-formulario">5.4 Secciones del formulario<a class="anchor-link" aria-label="Enlace a esta seccion" href="#54-secciones-del-formulario"><span class="icon icon-link"></span></a></h3>
+<p>Un formulario se divide en <strong>secciones</strong>:</p>
+<ul>
+<li><strong>Encabezado del formulario:</strong> se muestra en la parte superior; típicamente contiene el título del formulario.</li>
+<li><strong>Detalle:</strong> la sección principal, donde se muestran los datos de cada registro.</li>
+<li><strong>Pie del formulario:</strong> se muestra en la parte inferior; puede contener totales, botones de navegación, etc.</li>
+</ul>
+<hr>
+<h2 id="6-informes">6. INFORMES<a class="anchor-link" aria-label="Enlace a esta seccion" href="#6-informes"><span class="icon icon-link"></span></a></h2>
+<h3 id="61-concepto">6.1 Concepto<a class="anchor-link" aria-label="Enlace a esta seccion" href="#61-concepto"><span class="icon icon-link"></span></a></h3>
+<p>Los <strong>informes</strong> son los objetos de Access diseñados para presentar los datos de forma formateada, lista para ser impresa o exportada. A diferencia de los formularios (orientados a la entrada y edición de datos), los informes están orientados a la <strong>salida</strong> de información.</p>
+<p>Los informes pueden mostrar datos de tablas o consultas, calcular totales y subtotales por grupos, y aplicar un formato profesional.</p>
+<h3 id="62-creación-de-informes">6.2 Creación de informes<a class="anchor-link" aria-label="Enlace a esta seccion" href="#62-creación-de-informes"><span class="icon icon-link"></span></a></h3>
+<p>De forma similar a los formularios:</p>
+<ul>
+<li><strong>Asistente para informes (Crear → Asistente para informes):</strong> guía paso a paso para elegir campos, criterios de agrupación, orden y estilo.</li>
+<li><strong>Informe automático (Crear → Informe):</strong> crea automáticamente un informe básico.</li>
+<li><strong>Vista Diseño:</strong> diseño manual con control total.</li>
+</ul>
+<h3 id="63-agrupación-y-totales-en-informes">6.3 Agrupación y totales en informes<a class="anchor-link" aria-label="Enlace a esta seccion" href="#63-agrupación-y-totales-en-informes"><span class="icon icon-link"></span></a></h3>
+<p>Una de las funciones más útiles de los informes es la posibilidad de <strong>agrupar</strong> los registros por el valor de uno o varios campos, y calcular <strong>totales</strong> (suma, promedio, recuento, máximo, mínimo) para cada grupo y para el informe completo.</p>
+<p>Por ejemplo: un informe de expedientes agrupado por tipo de expediente, con el número de expedientes de cada tipo y el total general al final.</p>
+<h3 id="64-secciones-del-informe">6.4 Secciones del informe<a class="anchor-link" aria-label="Enlace a esta seccion" href="#64-secciones-del-informe"><span class="icon icon-link"></span></a></h3>
+<p>Un informe se divide en las siguientes secciones:</p>
+<ul>
+<li><strong>Encabezado del informe:</strong> se imprime una sola vez al inicio del informe (título, logotipo, fecha).</li>
+<li><strong>Encabezado de página:</strong> se repite en la parte superior de cada página (número de página, nombres de columna).</li>
+<li><strong>Encabezado de grupo:</strong> se imprime al inicio de cada grupo (si se ha definido agrupación).</li>
+<li><strong>Detalle:</strong> una línea por cada registro.</li>
+<li><strong>Pie de grupo:</strong> se imprime al final de cada grupo; contiene los subtotales del grupo.</li>
+<li><strong>Pie de página:</strong> se repite al final de cada página (número de página, fecha).</li>
+<li><strong>Pie del informe:</strong> se imprime una sola vez al final del informe (totales generales).</li>
+</ul>
+<hr>
+<h2 id="7-importación-vinculación-y-exportación-de-datos">7. IMPORTACIÓN, VINCULACIÓN Y EXPORTACIÓN DE DATOS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#7-importación-vinculación-y-exportación-de-datos"><span class="icon icon-link"></span></a></h2>
+<h3 id="71-importación-de-datos">7.1 Importación de datos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#71-importación-de-datos"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>importación</strong> permite copiar datos desde un origen externo a una tabla de Access. Los datos importados pasan a formar parte de la base de datos de Access y son independientes del origen: los cambios posteriores en el origen no se reflejan en Access.</p>
+<p>Access puede importar desde:</p>
+<ul>
+<li><strong><mark class="study-mark study-mark-key">Excel</mark>:</strong> el formato más habitual. Cada columna de la hoja se convierte en un campo de la tabla.</li>
+<li><strong>Texto delimitado o de ancho fijo</strong> (.txt, .csv): datos separados por comas, punto y coma u otros delimitadores.</li>
+<li><strong>XML:</strong> formato de intercambio de datos estructurados.</li>
+<li><strong>Otras bases de datos Access.</strong></li>
+<li><strong>SQL Server, SharePoint, ODBC</strong> (bases de datos externas mediante controladores).</li>
+</ul>
+<p>Se accede desde <strong>Datos externos → Importar y vincular → grupo de la fuente de datos deseada</strong>.</p>
+<p>El <strong>Asistente para importación</strong> guía el proceso paso a paso: selección del archivo, configuración de columnas y tipos de datos, y destino (tabla existente o nueva).</p>
+<p>Access permite guardar los parámetros de una importación como <strong>especificación guardada</strong> para reutilizarla en el futuro.</p>
+<h3 id="72-vinculación-de-datos">7.2 Vinculación de datos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#72-vinculación-de-datos"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>vinculación</strong> (enlace) conecta Access con una fuente de datos externa sin copiar los datos: Access muestra y puede manipular los datos del origen externo, pero los datos siguen almacenados en el origen. Si el origen cambia, los cambios se reflejan en Access automáticamente.</p>
+<p>Las tablas vinculadas se muestran en el Panel de navegación con un icono especial (con una flecha). Son útiles cuando los datos se actualizan frecuentemente en el origen y no se quiere duplicarlos.</p>
+<p>Access puede vincularse con hojas de <mark class="study-mark study-mark-key">Excel</mark>, listas de SharePoint, bases de datos SQL Server, etc.</p>
+<h3 id="73-exportación-de-datos">7.3 Exportación de datos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#73-exportación-de-datos"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>exportación</strong> permite enviar datos de Access a otros formatos para su uso en otras aplicaciones:</p>
+<ul>
+<li><strong><mark class="study-mark study-mark-key">Excel</mark></strong> (.xlsx): el destino más habitual.</li>
+<li><strong>PDF</strong> (.pdf): para distribuir informes sin que puedan modificarse.</li>
+<li><strong>Texto delimitado</strong> (.txt, .csv): para intercambio con otros sistemas.</li>
+<li><strong>XML.</strong></li>
+<li><strong><mark class="study-mark study-mark-key">Word</mark></strong> (mediante la función Combinar con <mark class="study-mark study-mark-key">Word</mark> para combinación de correspondencia).</li>
+</ul>
+<p>Se accede desde <strong>Datos externos → Exportar</strong>.</p>
+<hr>
+<h2 id="parte-ii--outlook-365">PARTE II — OUTLOOK 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#parte-ii--outlook-365"><span class="icon icon-link"></span></a></h2>
+<h2 id="8-concepto-y-funciones-principales-de-outlook-365">8. CONCEPTO Y FUNCIONES PRINCIPALES DE OUTLOOK 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#8-concepto-y-funciones-principales-de-outlook-365"><span class="icon icon-link"></span></a></h2>
+<h3 id="81-qué-es-outlook-365">8.1 Qué es Outlook 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#81-qué-es-outlook-365"><span class="icon icon-link"></span></a></h3>
+<p><strong>Microsoft Outlook</strong> es el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365. Es la aplicación estándar de gestión de comunicaciones y productividad personal en el entorno de trabajo administrativo.</p>
+<p>Outlook 365 puede funcionar de dos formas:</p>
+<ul>
+<li>Cómo cliente de correo <strong>local</strong>, conectado a servidores de correo corporativos (Microsoft Exchange, Microsoft 365) o servidores de correo externos (Gmail, Yahoo, correo de la Diputación…).</li>
+<li>Cómo <strong>aplicación web</strong> (Outlook en la Web, también llamado OWA — Outlook Web App), accesible desde el navegador sin necesidad de instalar la aplicación.</li>
+</ul>
+<h3 id="82-la-interfaz-de-outlook-365">8.2 La interfaz de Outlook 365<a class="anchor-link" aria-label="Enlace a esta seccion" href="#82-la-interfaz-de-outlook-365"><span class="icon icon-link"></span></a></h3>
+<p>La interfaz de Outlook se organiza en torno a los siguientes elementos:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Elemento</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Barra de navegación</strong></td><td>Barra lateral izquierda con acceso a las distintas secciones: Correo, Calendario, Personas (Contactos), Tareas, Notas</td></tr><tr><td><strong>Panel de carpetas</strong></td><td>Lista de carpetas de correo de la cuenta (Bandeja de entrada, Enviados, Borradores, Eliminados, Correo no deseado y carpetas personalizadas)</td></tr><tr><td><strong>Lista de mensajes</strong></td><td>Lista de los mensajes de la carpeta seleccionada</td></tr><tr><td><strong>Panel de lectura</strong></td><td>Muestra el contenido del mensaje seleccionado sin necesidad de abrirlo en una ventana nueva</td></tr><tr><td><strong>Cinta de opciones</strong></td><td>Herramientas y comandos de la sección activa</td></tr></tbody></table>
+<h3 id="83-las-carpetas-de-correo">8.3 Las carpetas de correo<a class="anchor-link" aria-label="Enlace a esta seccion" href="#83-las-carpetas-de-correo"><span class="icon icon-link"></span></a></h3>
+<p>Las carpetas predeterminadas de Outlook son:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Carpeta</th><th>Contenido</th></tr></thead><tbody><tr><td><strong>Bandeja de entrada</strong></td><td>Mensajes recibidos</td></tr><tr><td><strong>Borradores</strong></td><td>Mensajes guardados pero no enviados todavía</td></tr><tr><td><strong>Elementos enviados</strong></td><td>Copias de los mensajes enviados</td></tr><tr><td><strong>Elementos eliminados</strong></td><td>Mensajes eliminados (equivalente a la Papelera de reciclaje)</td></tr><tr><td><strong>Correo no deseado (Spam)</strong></td><td>Mensajes detectados automáticamente como spam</td></tr><tr><td><strong>Archivo</strong></td><td>Mensajes archivados para liberar espacio en la Bandeja de entrada</td></tr></tbody></table>
+<p>Además de las carpetas predeterminadas, el usuario puede crear <strong>carpetas personalizadas</strong> para organizar los mensajes por proyecto, remitente, asunto, etc.</p>
+<hr>
+<h2 id="9-enviar-recibir-responder-y-reenviar-mensajes">9. ENVIAR, RECIBIR, RESPONDER Y REENVIAR MENSAJES<a class="anchor-link" aria-label="Enlace a esta seccion" href="#9-enviar-recibir-responder-y-reenviar-mensajes"><span class="icon icon-link"></span></a></h2>
+<h3 id="91-redactar-y-enviar-un-mensaje-nuevo">9.1 Redactar y enviar un mensaje nuevo<a class="anchor-link" aria-label="Enlace a esta seccion" href="#91-redactar-y-enviar-un-mensaje-nuevo"><span class="icon icon-link"></span></a></h3>
+<p>Para crear un nuevo mensaje de correo electrónico:</p>
+<ol>
+<li>Clic en <strong>Nuevo mensaje</strong> (o <strong>Nuevo correo electrónico</strong>) en la ficha Inicio, o atajo <strong>Ctrl + U</strong> (nueva ventana de Outlook) / <strong>Ctrl + N</strong> (nuevo mensaje si el correo es la sección activa).</li>
+<li>Se abre la ventana de redacción con los siguientes campos:</li>
+</ol>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Campo</th><th>Descripción</th></tr></thead><tbody><tr><td><strong>Para:</strong></td><td>Dirección de correo del destinatario principal. Puede haber varios, separados por punto y coma</td></tr><tr><td><strong>CC:</strong> (Con Copia)</td><td>Destinatarios que reciben una copia del mensaje; todos los destinatarios pueden ver quién está en CC</td></tr><tr><td><strong>CCO:</strong> (Con Copia Oculta)</td><td>Destinatarios que reciben una copia pero cuya dirección no es visible para los demás destinatarios; útil para envíos masivos respetando la privacidad</td></tr><tr><td><strong>Asunto:</strong></td><td>Resumen del contenido del mensaje; es el campo que aparece en la lista de mensajes del destinatario</td></tr><tr><td><strong>Cuerpo del mensaje</strong></td><td>Texto del mensaje; admite formato enriquecido (negrita, cursiva, color, listas, imágenes, vínculos…)</td></tr></tbody></table>
+<ol start="3">
+<li>Adjuntar archivos si es necesario: <strong>Insertar → Adjuntar archivo</strong> o arrastrar el archivo al cuerpo del mensaje.</li>
+<li>Clic en <strong>Enviar</strong> (o <strong>Ctrl + Enter</strong>).</li>
+</ol>
+<h3 id="92-importancia-de-la-cco-en-la-administración">9.2 Importancia de la CCO en la Administración<a class="anchor-link" aria-label="Enlace a esta seccion" href="#92-importancia-de-la-cco-en-la-administración"><span class="icon icon-link"></span></a></h3>
+<p>El uso de <strong>CCO</strong> (Con Copia Oculta) es especialmente relevante en el entorno administrativo cuando se envía un mensaje a múltiples destinatarios: al incluirlos en CCO en lugar de en CC o Para, se protege la <strong>privacidad</strong> de las direcciones de correo de todos los destinatarios, en cumplimiento de la normativa de protección de datos (RGPD y LOPDGDD).</p>
+<h3 id="93-recibir-mensajes">9.3 Recibir mensajes<a class="anchor-link" aria-label="Enlace a esta seccion" href="#93-recibir-mensajes"><span class="icon icon-link"></span></a></h3>
+<p>Outlook comprueba periódicamente si hay mensajes nuevos en el servidor. La frecuencia de comprobación puede configurarse. Los mensajes nuevos aparecen en la <strong>Bandeja de entrada</strong> y se muestran en negrita hasta que son leídos.</p>
+<p>Al recibir un mensaje, Outlook puede mostrar:</p>
+<ul>
+<li>Una <strong>notificación de escritorio</strong> (popup) en la esquina de la pantalla.</li>
+<li>Un <strong>sonido de alerta</strong>.</li>
+<li>El <strong>icono de sobre</strong> en el área de notificación de la barra de tareas de Windows.</li>
+</ul>
+<h3 id="94-responder-a-un-mensaje">9.4 Responder a un mensaje<a class="anchor-link" aria-label="Enlace a esta seccion" href="#94-responder-a-un-mensaje"><span class="icon icon-link"></span></a></h3>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table><thead><tr><th>Opción</th><th>Descripción</th><th>Atajo</th></tr></thead><tbody><tr><td><strong>Responder</strong></td><td>Abre una ventana de redacción con el campo Para: ya completado con la dirección del remitente original. Solo se responde al remitente</td><td>Ctrl + R</td></tr><tr><td><strong>Responder a todos</strong></td><td>Responde al remitente y a todos los destinatarios del mensaje original (los que estaban en Para: y en CC:)</td><td>Ctrl + Mayúsc + R</td></tr></tbody></table>
+<p>Al responder, el texto original del mensaje se incluye por defecto al final de la respuesta (cita del mensaje original), aunque esto puede configurarse.</p>
+<h3 id="95-reenviar-un-mensaje">9.5 Reenviar un mensaje<a class="anchor-link" aria-label="Enlace a esta seccion" href="#95-reenviar-un-mensaje"><span class="icon icon-link"></span></a></h3>
+<p><strong>Reenviar</strong> (Ctrl + M en Outlook) permite enviar un mensaje recibido a uno o varios destinatarios nuevos. El mensaje reenviado incluye el contenido original y permite añadir un texto introductorio. Los archivos adjuntos del mensaje original también se reenvían por defecto.</p>
+<h3 id="96-opciones-adicionales-al-enviar">9.6 Opciones adicionales al enviar<a class="anchor-link" aria-label="Enlace a esta seccion" href="#96-opciones-adicionales-al-enviar"><span class="icon icon-link"></span></a></h3>
+<ul>
+<li><strong>Solicitar confirmación de lectura:</strong> Outlook pide al destinatario que confirme que ha leído el mensaje. La confirmación es opcional para el destinatario.</li>
+<li><strong>Solicitar confirmación de entrega:</strong> el servidor de correo notifica cuando el mensaje ha sido entregado al buzón del destinatario (no garantiza que haya sido leído).</li>
+<li><strong>Importancia:</strong> puede marcarse como alta (!) o baja, lo que añade un indicador visual en el mensaje del destinatario.</li>
+<li><strong>Retraso en el envío:</strong> permite programar el envío del mensaje en un momento futuro.</li>
+<li><strong>Caducidad del mensaje:</strong> el mensaje se marca como expirado después de una fecha determinada.</li>
+</ul>
+<h3 id="97-gestión-de-mensajes-recibidos">9.7 Gestión de mensajes recibidos<a class="anchor-link" aria-label="Enlace a esta seccion" href="#97-gestión-de-mensajes-recibidos"><span class="icon icon-link"></span></a></h3>
+<ul>
+<li><strong>Marcar como leído/no leído:</strong> clic derecho → Marcar como leído/no leído, o Ctrl + Q / Ctrl + U.</li>
+<li><strong>Marcar con seguimiento (flag):</strong> añade un indicador de seguimiento al mensaje para recordar que requiere acción posterior.</li>
+<li><strong>Categorizar:</strong> asigna un color y una etiqueta al mensaje para organizarlo visualmente.</li>
+<li><strong>Mover a carpeta:</strong> clic derecho → Mover → Otra carpeta.</li>
+<li><strong>Eliminar:</strong> tecla Supr (mueve a Elementos eliminados).</li>
+<li><strong>Archivar:</strong> mueve el mensaje a la carpeta Archivo para liberar la Bandeja de entrada.</li>
+<li><strong>Buscar:</strong> campo de búsqueda en la parte superior de la lista de mensajes; puede buscar en la carpeta actual, en todas las carpetas o en toda la cuenta.</li>
+</ul>
+<hr>
+<h2 id="10-reglas-de-mensaje">10. REGLAS DE MENSAJE<a class="anchor-link" aria-label="Enlace a esta seccion" href="#10-reglas-de-mensaje"><span class="icon icon-link"></span></a></h2>
+<h3 id="101-concepto">10.1 Concepto<a class="anchor-link" aria-label="Enlace a esta seccion" href="#101-concepto"><span class="icon icon-link"></span></a></h3>
+<p>Las <strong>reglas de mensaje</strong> (o reglas de correo) son instrucciones automáticas que Outlook aplica a los mensajes entrantes (y salientes) cuando se cumplen determinadas condiciones. Permiten gestionar automáticamente el correo sin intervención manual, organizando, filtrando, respondiendo o redirigiendo mensajes según criterios predefinidos.</p>
+<p>Se crean desde <strong>Inicio → Reglas → Administrar reglas y alertas</strong> o desde <strong>Archivo → Administrar reglas y alertas</strong>.</p>
+<h3 id="102-estructura-de-una-regla">10.2 Estructura de una regla<a class="anchor-link" aria-label="Enlace a esta seccion" href="#102-estructura-de-una-regla"><span class="icon icon-link"></span></a></h3>
+<p>Cada regla consta de tres partes:</p>
+<p><strong>1. Condiciones (cuándo se aplica la regla):</strong></p>
+<ul>
+<li>El asunto contiene ciertas palabras.</li>
+<li>El remitente es una persona específica.</li>
+<li>El mensaje fue enviado a una lista de distribución.</li>
+<li>El mensaje tiene archivos adjuntos.</li>
+<li>El tamaño del mensaje es mayor que X KB.</li>
+<li>El mensaje está marcado con una importancia determinada.</li>
+</ul>
+<p><strong>2. Acciones (qué hacer cuando se cumple la condición):</strong></p>
+<ul>
+<li>Mover el mensaje a una carpeta específica.</li>
+<li>Copiar el mensaje a una carpeta.</li>
+<li>Eliminar el mensaje.</li>
+<li>Reenviar automáticamente a otra dirección.</li>
+<li>Marcar el mensaje con una categoría o color.</li>
+<li>Marcar el mensaje para seguimiento.</li>
+<li>Reproducir un sonido.</li>
+<li>Responder automáticamente con una plantilla.</li>
+</ul>
+<p><strong>3. Excepciones (cuándo NO aplicar la regla aunque se cumplan las condiciones):</strong></p>
+<ul>
+<li>Excepto si el asunto contiene ciertas palabras.</li>
+<li>Excepto si el remitente está en una lista determinada.</li>
+<li>etc.</li>
+</ul>
+<h3 id="103-ejemplos-prácticos-de-reglas">10.3 Ejemplos prácticos de reglas<a class="anchor-link" aria-label="Enlace a esta seccion" href="#103-ejemplos-prácticos-de-reglas"><span class="icon icon-link"></span></a></h3>
+<ul>
+<li><strong>Organización automática:</strong> todos los mensajes del dominio @diputaciondeburgos.es se mueven automáticamente a la carpeta «Diputación».</li>
+<li><strong>Filtrado de publicidad:</strong> mensajes con «oferta» o «promoción» en el asunto se mueven directamente a Correo no deseado.</li>
+<li><strong>Respuesta automática de ausencia:</strong> cuando se está de vacaciones, se responde automáticamente a cada remitente con un mensaje indicando la fecha de regreso (en Outlook esto se gestiona más habitualmente desde <strong>Archivo → Respuestas automáticas / Fuera de la oficina</strong>).</li>
+<li><strong>Notificación especial:</strong> los mensajes de un remitente prioritario activan un sonido o aparecen en la pantalla de forma destacada.</li>
+</ul>
+<h3 id="104-respuestas-automáticas-fuera-de-la-oficina">10.4 Respuestas automáticas (Fuera de la oficina)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#104-respuestas-automáticas-fuera-de-la-oficina"><span class="icon icon-link"></span></a></h3>
+<p>La función <strong>Respuestas automáticas</strong> (Archivo → Respuestas automáticas) permite configurar una respuesta automática que se envía a cualquier persona que mande un correo durante un período de ausencia (vacaciones, baja, etc.). Puede configurarse un mensaje distinto para remitentes internos (de la misma organización) y externos.</p>
+<hr>
+<h2 id="11-libreta-de-direcciones-y-contactos">11. LIBRETA DE DIRECCIONES Y CONTACTOS<a class="anchor-link" aria-label="Enlace a esta seccion" href="#11-libreta-de-direcciones-y-contactos"><span class="icon icon-link"></span></a></h2>
+<h3 id="111-la-libreta-de-direcciones">11.1 La Libreta de direcciones<a class="anchor-link" aria-label="Enlace a esta seccion" href="#111-la-libreta-de-direcciones"><span class="icon icon-link"></span></a></h3>
+<p>La <strong>Libreta de direcciones</strong> de Outlook almacena las direcciones de correo electrónico y otros datos de contacto de las personas y grupos con los que se comunica el usuario. Se accede desde <strong>Inicio → Libreta de direcciones</strong> o desde el icono de libreta al hacer clic en los campos Para:, CC: o CCO: al redactar un mensaje.</p>
+<p>En un entorno corporativo (Microsoft Exchange / Microsoft 365), Outlook tiene acceso a la <strong>Lista global de direcciones (GAL)</strong>, que contiene las cuentas de correo de todos los usuarios de la organización, mantenida por el administrador del sistema.</p>
+<h3 id="112-contactos-en-outlook">11.2 Contactos en Outlook<a class="anchor-link" aria-label="Enlace a esta seccion" href="#112-contactos-en-outlook"><span class="icon icon-link"></span></a></h3>
+<p>La sección <strong>Personas</strong> de Outlook (accesible desde la barra de navegación) es el gestor de contactos completo. Permite almacenar para cada contacto:</p>
+<ul>
+<li>Nombre completo y empresa.</li>
+<li>Dirección de correo electrónico (puede haber varias).</li>
+<li>Número de teléfono (trabajo, móvil, casa…).</li>
+<li>Dirección postal.</li>
+<li>Fecha de cumpleaños y aniversario.</li>
+<li>Notas.</li>
+<li>Imagen del contacto.</li>
+</ul>
+<h3 id="113-listas-de-distribución-grupos-de-contactos">11.3 Listas de distribución (Grupos de contactos)<a class="anchor-link" aria-label="Enlace a esta seccion" href="#113-listas-de-distribución-grupos-de-contactos"><span class="icon icon-link"></span></a></h3>
+<p>Una <strong>lista de distribución</strong> (o <strong>grupo de contactos</strong> en Outlook) es un conjunto de direcciones de correo agrupadas bajo un único nombre. Al enviar un mensaje a la lista, este se envía automáticamente a todas las direcciones incluidas en ella, sin necesidad de añadirlas una por una.</p>
+<p>Son muy útiles para envíos frecuentes a los mismos grupos de destinatarios (un departamento, un equipo de trabajo, una comisión…). Se crean desde <strong>Personas → Nuevo grupo de contactos</strong>.</p>
+<h3 id="114-autocompletar">11.4 Autocompletar<a class="anchor-link" aria-label="Enlace a esta seccion" href="#114-autocompletar"><span class="icon icon-link"></span></a></h3>
+<p>Outlook mantiene una lista de autocompletar con las direcciones de correo introducidas manualmente en los campos Para:, CC: y CCO:. Al comenzar a escribir el nombre o la dirección, Outlook sugiere las coincidencias de la lista de autocompletar y de la Libreta de direcciones. Si aparece una dirección incorrecta en las sugerencias, se puede eliminar pulsando la tecla Supr mientras está resaltada.</p>
+<h3 id="115-el-calendario-de-outlook">11.5 El Calendario de Outlook<a class="anchor-link" aria-label="Enlace a esta seccion" href="#115-el-calendario-de-outlook"><span class="icon icon-link"></span></a></h3>
+<p>Aunque no figura explícitamente en el enunciado del tema, el <strong>Calendario</strong> es un componente fundamental de Outlook:</p>
+<ul>
+<li>Permite crear <strong>citas</strong> (eventos personales), <strong>reuniones</strong> (con invitación a otros contactos) y <strong>eventos de todo el día</strong>.</li>
+<li>Se puede ver en vista de día, semana laboral, semana completa o mes.</li>
+<li>Las <strong>invitaciones a reunión</strong> se envían como mensajes de correo especiales; los destinatarios pueden aceptar, rechazar o aceptar provisionalmente.</li>
+<li>Se integra con el correo: los mensajes con información de vuelos, reservas, eventos, etc. pueden añadirse al calendario automáticamente.</li>
+</ul>
+<hr>
+<h2 id="resumen-esquemático-para-repasar">RESUMEN ESQUEMÁTICO PARA REPASAR<a class="anchor-link" aria-label="Enlace a esta seccion" href="#resumen-esquemático-para-repasar"><span class="icon icon-link"></span></a></h2>
+<div class="study-list study-list-summary">
+<ul>
+  <li>ACCESS 365 — BASE DE DATOS RELACIONAL
+    <ul>
+      <li>Objetos: TABLAS / CONSULTAS / FORMULARIOS / INFORMES / Macros / Módulos</li>
+      <li>Archivo: extensión .accdb</li>
+      <li>TABLAS
+        <ul>
+          <li>Registros (filas) + Campos (columnas)</li>
+          <li>Tipos de datos: Texto corto / Texto largo / Número / Fecha-Hora /
+            <ul>
+              <li>Moneda / Autonumérico / Sí-No / Calculado / Hipervínculo</li>
+            </ul></li>
+          <li>Clave principal: identifica cada registro de forma única e inequívoca
+            <ul>
+              <li>→ Autonumérico: opción más habitual para clave principal</li>
+            </ul></li>
+          <li>Vista Hoja de datos (ver/editar datos) ↔ Vista Diseño (estructura/campos)</li>
+          <li>Propiedades del campo: tamaño / formato / máscara / regla de validación /
+            <ul>
+              <li>valor predeterminado / requerido / indexado</li>
+            </ul></li>
+        </ul></li>
+      <li>RELACIONES (Herramientas BD → Relaciones)
+        <ul>
+          <li>1:1 — uno a uno</li>
+          <li>1:N — uno a varios (la más habitual)</li>
+          <li>M:N — varios a varios → necesita tabla intermedia Integridad referencial: evita datos huérfanos / opción actualizar/eliminar en cascada</li>
+        </ul></li>
+      <li>CONSULTAS
+        <ul>
+          <li>Selección: recupera y muestra datos según criterios (no modifica los datos)</li>
+          <li>Parámetros: solicita valor al usuario al ejecutarse</li>
+          <li>Totales: agrupa y calcula (suma, promedio, máximo, mínimo, recuento)</li>
+          <li>Tabla de referencias cruzadas: filas × columnas (como tabla dinámica)</li>
+          <li>Acción: modifica datos → datos anexados / eliminación / actualización / creación de tabla Diseño QBE: cuadrícula visual + criterios (misma fila=Y / filas distintas=O) → Access genera SQL automáticamente</li>
+        </ul></li>
+      <li>FORMULARIOS
+        <ul>
+          <li>Para introducir, ver y editar datos de forma visual</li>
+          <li>Creación: Asistente / Automático / Vista Diseño / Formulario dividido</li>
+          <li>Controles: cuadro de texto / etiqueta / combo / lista / casilla verificación /
+            <ul>
+              <li>botón de comando / subformulario</li>
+            </ul></li>
+          <li>Secciones: Encabezado del formulario / Detalle / Pie del formulario</li>
+        </ul></li>
+      <li>INFORMES
+        <ul>
+          <li>Para presentar datos formateados, listos para imprimir o exportar</li>
+          <li>Agrupación + totales por grupo y totales generales</li>
+          <li>Secciones: Encabezado del informe / Encabezado de página /
+            <ul>
+              <li>Encabezado de grupo / Detalle / Pie de grupo / Pie de página / Pie del informe</li>
+            </ul></li>
+        </ul></li>
+      <li>IMPORTACIÓN, VINCULACIÓN Y EXPORTACIÓN (Datos externos)
+        <ul>
+          <li>Importación: copia datos del origen a Access (independiente del origen)
+            <ul>
+              <li>→ Desde: Excel / CSV-TXT / XML / otras BD</li>
+            </ul></li>
+          <li>Vinculación: Access accede a datos externos sin copiarlos (se actualizan en tiempo real)</li>
+          <li>Exportación: envía datos de Access a Excel / PDF / CSV / XML / Word</li>
+        </ul></li>
+    </ul></li>
+  <li>OUTLOOK 365 — CORREO ELECTRÓNICO Y PRODUCTIVIDAD
+    <ul>
+      <li>Secciones: Correo / Calendario / Personas (Contactos) / Tareas / Notas</li>
+      <li>Carpetas predeterminadas: Bandeja de entrada / Borradores / Enviados /
+        <ul>
+          <li>Eliminados / Correo no deseado / Archivo</li>
+        </ul></li>
+      <li>ENVIAR MENSAJES
+        <ul>
+          <li>Campos: Para (destinatario) / CC (copia visible) / CCO (copia oculta, privacidad)
+            <ul>
+              <li>→ En AAPP: usar CCO en envíos masivos para proteger datos personales (RGPD)</li>
+            </ul></li>
+          <li>Asunto: resumen del mensaje / Cuerpo: texto con formato enriquecido</li>
+          <li>Adjuntar archivos + opciones: importancia / confirmación lectura / retraso en envío</li>
+        </ul></li>
+      <li>RECIBIR / RESPONDER / REENVIAR
+        <ul>
+          <li>Responder (Ctrl+R): solo al remitente</li>
+          <li>Responder a todos (Ctrl+Mayúsc+R): al remitente y todos los destinatarios</li>
+          <li>Reenviar (Ctrl+M): enviar el mensaje a nuevos destinatarios</li>
+        </ul></li>
+      <li>REGLAS DE MENSAJE (Inicio → Reglas → Administrar reglas y alertas)
+        <ul>
+          <li>Estructura: CONDICIÓN → ACCIÓN (→ Excepción)</li>
+          <li>Condiciones: remitente / asunto / destinatario / tamaño / importancia</li>
+          <li>Acciones: mover / copiar / eliminar / reenviar / categorizar / responder auto</li>
+          <li>Respuestas automáticas / fuera de la oficina: Archivo → Respuestas automáticas</li>
+        </ul></li>
+      <li>LIBRETA DE DIRECCIONES Y CONTACTOS
+        <ul>
+          <li>Libreta de direcciones: almacén de direcciones de correo y datos de contacto</li>
+          <li>Lista global de direcciones (GAL): todos los usuarios de la organización (Exchange/M365)</li>
+          <li>Sección Personas: contactos completos (nombre, email, teléfono, dirección…)</li>
+          <li>Grupos de contactos (listas de distribución): envío a múltiples destinatarios con un solo nombre</li>
+          <li>Autocompletar: sugerencias de direcciones al escribir en Para/CC/CCO</li>
+        </ul></li>
+    </ul></li>
+</ul>
+</div>
+<hr>
+<p><em>Fin del Tema 39 — Administrativo C1 | Preparación OEP <mark class="study-mark study-mark-date">2026</mark></em></p> </div>  </main> </div> <script type="module" src="/administrativo-burgos/_astro/StudySync.astro_astro_type_script_index_0_lang.CXqdfJvd.js"></script> <script type="module">const r="oposicion-access-ok-v1",i="rodrigo",d="xof13odi";function c(){const e=document.createElement("div");e.setAttribute("id","access-gate"),e.setAttribute("class","position-fixed top-0 start-0 w-100 h-100 d-grid align-items-center bg-body"),e.setAttribute("style","z-index:9999;padding:1rem;"),e.innerHTML=`
+      <form class="card shadow-sm border-0 mx-auto p-4" style="max-width:380px;width:100%;" id="gate-form">
+        <div class="d-flex align-items-center mb-3">
+          <span class="bd-brand-mark me-2">B</span>
+          <h1 class="h4 mb-0">Acceso</h1>
+        </div>
+        <p class="text-body-secondary mb-3">Zona de estudio privada.</p>
+        <div class="mb-3">
+          <label class="form-label" for="gate-user">Usuario</label>
+          <input class="form-control" required id="gate-user" name="u" />
+        </div>
+        <div class="mb-3">
+          <label class="form-label" for="gate-pass">Contraseña</label>
+          <input class="form-control" required id="gate-pass" name="p" type="password" />
+        </div>
+        <button class="btn btn-primary w-100" type="submit">Entrar</button>
+        <p id="gate-error" class="text-danger small mt-3 mb-0" style="min-height:1.2em"></p>
+      </form>`,document.body.appendChild(e),e.querySelector("#gate-form")?.addEventListener("submit",t=>{t.preventDefault();const s=new FormData(t.target),o=String(s.get("u")??""),n=String(s.get("p")??"");if(o===i&&n===d)localStorage.setItem(r,"1"),window.dispatchEvent(new Event("study-access-granted")),e.remove();else{const a=e.querySelector("#gate-error");a&&(a.textContent="Credenciales incorrectas")}})}typeof localStorage<"u"&&localStorage.getItem(r)!=="1"&&c();</script> <script type="module">"serviceWorker"in navigator&&window.addEventListener("load",()=>{navigator.serviceWorker.getRegistrations().then(i=>i.forEach(e=>e.unregister())).catch(()=>null)});"caches"in window&&caches.keys().then(i=>i.filter(e=>e.includes("administrativo-burgos")).forEach(e=>caches.delete(e))).catch(()=>null);</script> <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script> </body> </html>

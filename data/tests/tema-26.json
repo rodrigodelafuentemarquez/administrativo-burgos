@@ -1,0 +1,316 @@
+[
+  {
+    "id": "t30-p001",
+    "tema": 26,
+    "pregunta": "El personal al servicio de las Entidades Locales queda encuadrado actualmente en:",
+    "opciones": [
+      "el Régimen General de la Seguridad Social",
+      "el Régimen Especial de Trabajadores Autónomos",
+      "MUFACE para todo el personal",
+      "ningún régimen de Seguridad Social"
+    ],
+    "correcta": 0,
+    "explicación": "El tema concluye que el personal local queda en el Régimen General.",
+    "referencia": "III.5 · 1.2 Encuadramiento del personal local"
+  },
+  {
+    "id": "t30-p002",
+    "tema": 26,
+    "pregunta": "Las Corporaciones Locales actúan a efectos de Seguridad Social como:",
+    "opciones": [
+      "empresarios cotizantes",
+      "mutuas privadas",
+      "órganos jurisdiccionales",
+      "entidades sin obligaciones de alta"
+    ],
+    "correcta": 0,
+    "explicación": "El tema las define como empresarios a efectos de Seguridad Social.",
+    "referencia": "III.5 · 1.3 La Corporación Local como empresario cotizante"
+  },
+  {
+    "id": "t30-p004",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la asistencia sanitaria comprende:",
+    "opciones": [
+      "atención primaria, atención especializada y prestaciones farmacéuticas",
+      "solo cirugía hospitalaria",
+      "únicamente transporte sanitario",
+      "solo dietas y asistencias"
+    ],
+    "correcta": 0,
+    "explicación": "El tema desarrolla esas modalidades de asistencia.",
+    "referencia": "III.5 · 3.2 Modalidades de asistencia sanitaria"
+  },
+  {
+    "id": "t30-p005",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
+    "opciones": [
+      "asistencia sanitaria de la Seguridad Social",
+      "autorización presupuestaria",
+      "designación de un interventor",
+      "suspensión de funciones"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define así en el art. 169 TRLGSS.",
+    "referencia": "III.5 · 4.1 Concepto"
+  },
+  {
+    "id": "t30-p007",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la duración máxima de la incapacidad temporal es de:",
+    "opciones": [
+      "365 días, prorrogables por otros 180",
+      "90 días, prorrogables por otros 30",
+      "dos años sin revisión",
+      "180 días improrrogables"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija ese límite de 365 + 180 días.",
+    "referencia": "III.5 · 4.4 Duración de la IT"
+  },
+  {
+    "id": "t30-p008",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la prestación por nacimiento y cuidado de menor dura, con carácter general,:",
+    "opciones": [
+      "16 semanas por cada progenitor",
+      "8 semanas por unidad familiar",
+      "30 días naturales",
+      "18 meses"
+    ],
+    "correcta": 0,
+    "explicación": "El tema indica 16 semanas para cada progenitor.",
+    "referencia": "III.5 · 5.2 Duración del permiso"
+  },
+  {
+    "id": "t30-p009",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, las 6 primeras semanas de la prestación por nacimiento y cuidado de menor son:",
+    "opciones": [
+      "obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento",
+      "voluntarias y acumulables al final",
+      "solo aplicables al segundo progenitor",
+      "sustituibles por compensación económica"
+    ],
+    "correcta": 0,
+    "explicación": "El tema las declara obligatorias e ininterrumpidas.",
+    "referencia": "III.5 · 5.2 Duración del permiso"
+  },
+  {
+    "id": "t30-p010",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la prestación económica por nacimiento y cuidado de menor, equivale al:",
+    "opciones": [
+      "100 % de la base reguladora",
+      "75 % de la base mínima",
+      "60 % de la nómina",
+      "50 % del salario mensual"
+    ],
+    "correcta": 0,
+    "explicación": "El tema fija el 100 % de la base reguladora.",
+    "referencia": "III.5 · 5.3 Cuantía del subsidio"
+  },
+  {
+    "id": "t30-p011",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la incapacidad permanente total inhabilita al trabajador para:",
+    "opciones": [
+      "todas o las fundamentales tareas de su profesión habitual",
+      "cualquier trabajo retribuido en cualquier caso",
+      "solo las tareas de administración",
+      "únicamente los trabajos nocturnos"
+    ],
+    "correcta": 0,
+    "explicación": "El tema la define así y permite otra profesión distinta.",
+    "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
+  },
+  {
+    "id": "t30-p017",
+    "tema": 26,
+    "pregunta": "Para acceder a la prestación por nacimiento y cuidado de menor, el período mínimo general de cotización es de:",
+    "opciones": [
+      "180 días dentro de los 7 años inmediatamente anteriores o 360 días a lo largo de la vida laboral",
+      "90 días dentro de los 5 años anteriores o 180 a lo largo de toda la vida laboral",
+      "365 días cotizados en el último año natural completo",
+      "Ningún período de cotización, con independencia de la edad del causante"
+    ],
+    "correcta": 0,
+    "explicación": "Con carácter general, se exige acreditar 180 días cotizados en los 7 años anteriores o 360 días en toda la vida laboral.",
+    "referencia": "LGSS · nacimiento y cuidado de menor"
+  },
+  {
+    "id": "t30-p018",
+    "tema": 26,
+    "pregunta": "En Seguridad Social, la incapacidad permanente parcial da derecho a:",
+    "opciones": [
+      "una indemnización a tanto alzado de 24 mensualidades de la base reguladora",
+      "una pensión del 55 % de la base reguladora",
+      "una pensión del 100 % de la base reguladora",
+      "un complemento por gran invalidez"
+    ],
+    "correcta": 0,
+    "explicación": "La IP parcial disminuye el rendimiento en la profesión habitual sin impedir las tareas fundamentales y se indemniza con 24 mensualidades.",
+    "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
+  },
+  {
+    "id": "t45-p011",
+    "tema": 26,
+    "pregunta": "Una baja en nómina debe comunicarse a la Seguridad Social, dentro de:",
+    "opciones": [
+      "Un mes",
+      "Tres días naturales",
+      "Quince días hábiles",
+      "Sesenta días naturales"
+    ],
+    "correcta": 1,
+    "explicación": "El tema fija tres días naturales tras el cese.",
+    "referencia": "III.5 · 5.2 Bajas"
+  },
+  {
+    "id": "t45-p012",
+    "tema": 26,
+    "pregunta": "El personal laboral de las Administraciones Públicas se integra, por regla general, en:",
+    "opciones": [
+      "MUFACE",
+      "Clases Pasivas",
+      "Régimen General de la Seguridad Social",
+      "Régimen especial de funcionarios locales"
+    ],
+    "correcta": 2,
+    "explicación": "El tema sitúa al personal laboral en el Régimen General de la Seguridad Social.",
+    "referencia": "III.5 · 6.1 El Régimen General de la Seguridad Social"
+  },
+  {
+    "id": "t45-p014",
+    "tema": 26,
+    "pregunta": "En Seguridad Social de empleados públicos, MUFACE se caracteriza por permitir al mutualista:",
+    "opciones": [
+      "Elegir entre red pública y aseguradora privada concertada",
+      "Percibir retribuciones complementarias",
+      "Cobrar solo en junio y diciembre",
+      "Cotizar mediante el modelo 145"
+    ],
+    "correcta": 0,
+    "explicación": "El tema destaca esa posibilidad de elección sanitaria.",
+    "referencia": "III.5 · 7.1 La MUFACE"
+  },
+  {
+    "id": "t45-p015",
+    "tema": 26,
+    "pregunta": "Las clases pasivas afectan, a los funcionarios civiles del Estado ingresados:",
+    "opciones": [
+      "Antes del 1 de enero de 2011",
+      "Después del 1 de enero de 2011",
+      "Antes del 1 de enero de 2007",
+      "Solo a los funcionarios locales"
+    ],
+    "correcta": 0,
+    "explicación": "El corte temporal del tema es el 1 de enero de 2011.",
+    "referencia": "III.5 · 7.2 Las Clases Pasivas del Estado"
+  },
+  {
+    "id": "t45-p018",
+    "tema": 26,
+    "pregunta": "En relación con la asistencia sanitaria de los mutualistas de MUFACE, señale la respuesta correcta:",
+    "opciones": [
+      "Pueden elegir libremente entre la red pública y una entidad médica privada concertada.",
+      "Solo pueden recibir asistencia sanitaria a través de la red pública.",
+      "Deben adscribirse necesariamente a una entidad médica privada concertada.",
+      "La opción sanitaria la determina en exclusiva la Administración."
+    ],
+    "correcta": 0,
+    "explicación": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
+    "referencia": "III.5 · 7.1 La MUFACE"
+  },
+  {
+    "id": "topup-26-01",
+    "pregunta": "La Seguridad Social se estructura en España alrededor de un sistema con acción protectora:",
+    "opciones": [
+      "frente a contingencias y situaciones de necesidad",
+      "solo para funcionarios locales",
+      "exclusivamente urbanística",
+      "sin cobertura sanitaria"
+    ],
+    "correcta": 0,
+    "explicación": "La acción protectora es el núcleo del sistema de Seguridad Social.",
+    "referencia": "III.5 · Acción protectora",
+    "tema": 26
+  },
+  {
+    "id": "topup-26-02",
+    "pregunta": "En Seguridad Social, el campo de aplicación del sistema delimita:",
+    "opciones": [
+      "quienes quedan incluidos y protegidos por el sistema",
+      "la organización del Pleno",
+      "la aprobación de ordenanzas",
+      "la composición del Senado"
+    ],
+    "correcta": 0,
+    "explicación": "El campo de aplicación fija el ámbito subjetivo del sistema.",
+    "referencia": "III.5 · Campo de aplicación",
+    "tema": 26
+  },
+  {
+    "id": "topup-26-03",
+    "pregunta": "En Seguridad Social, la asistencia sanitaria forma parte de la:",
+    "opciones": [
+      "acción protectora de la Seguridad Social",
+      "potestad reglamentaria tributaria",
+      "función interventora",
+      "potestad sancionadora local"
+    ],
+    "correcta": 0,
+    "explicación": "La asistencia sanitaria es una prestación básica de la acción protectora.",
+    "referencia": "III.5 · Acción protectora",
+    "tema": 26
+  },
+  {
+    "id": "topup-26-04",
+    "pregunta": "La estructura del sistema de Seguridad Social se apoya en un régimen general y, en su caso, en:",
+    "opciones": [
+      "regimenes especiales",
+      "regimenes urbanísticos",
+      "regimenes parlamentarios",
+      "regimenes contenciosos"
+    ],
+    "correcta": 0,
+    "explicación": "La organización del sistema distingue régimen general y regimenes especiales.",
+    "referencia": "III.5 · Estructura del sistema",
+    "tema": 26
+  },
+  {
+    "id": "estado2026-extra-t26-01",
+    "tema": 26,
+    "pregunta": "MUFACE se integra en el sector público institucional estatal como:",
+    "opciones": [
+      "Organismo público",
+      "Sociedad mercantil estatal",
+      "Fundación del sector público",
+      "Consorcio local"
+    ],
+    "correcta": 0,
+    "explicación": "El examen de Estado 2026 recuerda que MUFACE se integra como organismo público.",
+    "referencia": "Examen Estado 2026, MUFACE; Tema III.5, Seguridad Social y mutualismo",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "id": "estado2026-extra-t26-02",
+    "tema": 26,
+    "pregunta": "En jubilación parcial de personal laboral con discapacidad igual o superior al 33 por ciento, el examen de Estado 2026 preguntaba por un período mínimo de cotización de:",
+    "opciones": [
+      "Veinticinco años",
+      "Veinte años",
+      "Treinta años",
+      "Treinta y tres años"
+    ],
+    "correcta": 0,
+    "explicación": "La pregunta del examen fijaba como respuesta correcta veinticinco años para el supuesto descrito.",
+    "referencia": "Examen Estado 2026, Seguridad Social; Tema III.5",
+    "tags": [
+      "Pregunta real"
+    ]
+  }
+]
