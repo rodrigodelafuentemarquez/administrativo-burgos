@@ -8,19 +8,19 @@
   {
     "tema": 2,
     "archivo": "tema-02.json",
-    "preguntas": 85,
+    "preguntas": 87,
     "título": "Tema I.2 · La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial."
   },
   {
     "tema": 3,
     "archivo": "tema-03.json",
-    "preguntas": 26,
+    "preguntas": 27,
     "título": "Tema I.3 · La Constitución Española (III): la organización territorial del Estado español. Las comunidades autónomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autónomas."
   },
   {
     "tema": 4,
     "archivo": "tema-04.json",
-    "preguntas": 27,
+    "preguntas": 29,
     "título": "Tema I.4 · El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Español."
   },
   {
@@ -32,7 +32,7 @@
   {
     "tema": 6,
     "archivo": "tema-06.json",
-    "preguntas": 28,
+    "preguntas": 29,
     "título": "Tema I.6 · El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento."
   },
   {
@@ -44,43 +44,43 @@
   {
     "tema": 8,
     "archivo": "tema-08.json",
-    "preguntas": 41,
+    "preguntas": 44,
     "título": "Tema I.8 · La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea."
   },
   {
     "tema": 9,
     "archivo": "tema-09.json",
-    "preguntas": 52,
+    "preguntas": 58,
     "título": "Tema I.9 · La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto."
   },
   {
     "tema": 10,
     "archivo": "tema-10.json",
-    "preguntas": 40,
+    "preguntas": 41,
     "título": "Tema II.1 · Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo."
   },
   {
     "tema": 11,
     "archivo": "tema-11.json",
-    "preguntas": 26,
+    "preguntas": 27,
     "título": "Tema II.2 · El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos."
   },
   {
     "tema": 12,
     "archivo": "tema-12.json",
-    "preguntas": 40,
+    "preguntas": 43,
     "título": "Tema II.3 · El procedimiento administrativo común: concepto, naturaleza y principios generales. Fases del procedimiento: iniciación, ordenación, instrucción y finalización. Ejecución."
   },
   {
     "tema": 13,
     "archivo": "tema-13.json",
-    "preguntas": 48,
+    "preguntas": 49,
     "título": "Tema II.4 · La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza."
   },
   {
     "tema": 14,
     "archivo": "tema-14.json",
-    "preguntas": 26,
+    "preguntas": 28,
     "título": "Tema II.5 · El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia."
   },
   {
@@ -92,7 +92,7 @@
   {
     "tema": 16,
     "archivo": "tema-16.json",
-    "preguntas": 60,
+    "preguntas": 63,
     "título": "Tema II.7 · Los contratos del sector público: tipología contractual. Las partes en el contrato. El expediente de contratación. Procedimientos de adjudicación. Efectos, cumplimiento y extinción de los contratos de las administraciones públicas. La revisión de precios y otras alteraciones contractuales. Régimen de invalidez y recursos."
   },
   {
@@ -206,7 +206,7 @@
   {
     "tema": 35,
     "archivo": "tema-35.json",
-    "preguntas": 25,
+    "preguntas": 26,
     "título": "Tema V.4 · Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones."
   },
   {

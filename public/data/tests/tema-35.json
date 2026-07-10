@@ -370,5 +370,22 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "tema": 35,
+    "id": "jcyl-adm-2026-q064",
+    "pregunta": "En relación con los requisitos de validez de los documentos electrónicos administrativos, el artículo 26 de la Ley 39/2015 establece que éstos deberán:",
+    "opciones": [
+      "Presentar un formato determinado que sea susceptible de identificación y tratamiento diferenciado.",
+      "Incorporar metadatos adicionales definidos por el órgano emisor en su normativa de autoorganización.",
+      "Disponer de datos de identificación que impidan en todo momento su incorporación a un expediente administrativo posterior.",
+      "Contener una referencia temporal del momento en que el documento ha sido notificado al interesado."
+    ],
+    "correcta": 0,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 64",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

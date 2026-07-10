@@ -402,5 +402,22 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "tema": 6,
+    "id": "jcyl-aux-2026-q006",
+    "pregunta": "Según el artículo 16 de la Ley 7/1985, una de las siguientes opciones no es un dato obligatorio que figure en el padrón municipal:",
+    "opciones": [
+      "Sexo.",
+      "Nacionalidad.",
+      "Certificado o título escolar o académico que se posea.",
+      "Estado civil."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 6",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

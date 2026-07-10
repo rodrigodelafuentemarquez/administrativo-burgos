@@ -695,5 +695,22 @@
     "correcta": 0,
     "referencia": "Revisión test reales · art. 109 LPACAP",
     "explicación": "La revocación de actos desfavorables tiene límites materiales expresos."
+  },
+  {
+    "tema": 13,
+    "id": "jcyl-adm-2026-q017",
+    "pregunta": "Según el artículo 106 de la Ley 39/2015, ¿cuándo podrá el órgano competente para la revisión de oficio inadmitir motivadamente solicitudes formuladas por los interesados sin recabar dictamen del órgano consultivo?",
+    "opciones": [
+      "Cuando las solicitudes se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como cuando se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.",
+      "Cuando las solicitudes se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como cuando no se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.",
+      "Cuando las solicitudes no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como cuando no se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales.",
+      "Cuando las solicitudes no se basen en alguna de las causas de nulidad del artículo 47.1 o carezcan manifiestamente de fundamento, así como cuando se hubieran desestimado en cuanto al fondo otras solicitudes sustancialmente iguales."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 17",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

@@ -374,5 +374,22 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "tema": 3,
+    "id": "jcyl-adm-2026-q001",
+    "pregunta": "Según la Constitución Española, ¿quién tiene competencia sobre la inmigración?",
+    "opciones": [
+      "El Estado tiene la competencia exclusiva, según el artículo 149.1 de la Constitución Española.",
+      "Las comunidades autónomas tienen la competencia exclusiva, según el artículo 148.1 de la Constitución Española.",
+      "Las comunidades autónomas podrán asumir la competencia, según el artículo 148.1 de la Constitución Española.",
+      "Esta materia no está regulada en la Constitución."
+    ],
+    "correcta": 0,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 1",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

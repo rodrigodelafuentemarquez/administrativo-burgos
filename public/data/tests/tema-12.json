@@ -603,5 +603,56 @@
     "correcta": 0,
     "referencia": "Revisión test reales · procedimiento simplificado LPACAP",
     "explicación": "La tramitación simplificada no puede imponerse si consta oposición expresa de interesado."
+  },
+  {
+    "tema": 12,
+    "id": "jcyl-adm-2026-q015",
+    "pregunta": "Según el artículo 57 de la Ley 39/2015, podrá disponerse la acumulación de expedientes:",
+    "opciones": [
+      "Cuando hayan sido presentados por la misma persona, aunque se trate de asuntos diferentes.",
+      "Cuando así lo disponga el órgano administrativo que inicie o tramite un procedimiento.",
+      "Siempre que lo ordene el titular del departamento.",
+      "Siempre que se hayan iniciado en la misma fecha."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 15",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 12,
+    "id": "jcyl-adm-2026-q016",
+    "pregunta": "De acuerdo con el artículo 84 de la Ley 39/2015, la imposibilidad material de continuar el procedimiento por causas sobrevenidas produce:",
+    "opciones": [
+      "La terminación del procedimiento.",
+      "El archivo del expediente.",
+      "La caducidad del procedimiento.",
+      "La renuncia."
+    ],
+    "correcta": 0,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 16",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 12,
+    "id": "jcyl-adm-2026-q063",
+    "pregunta": "Según el artículo 70 de la Ley 39/2015, ¿en qué caso concreto los juicios de valor emitidos por las Administraciones Públicas sí formarán parte del expediente administrativo?",
+    "opciones": [
+      "Siempre que se emitan por un órgano consultivo debidamente identificado.",
+      "Únicamente cuando se trate de informes, ya sean preceptivos o facultativos, solicitados antes de la resolución que ponga fin al procedimiento.",
+      "Cuando se incorporen como anexos necesarios en la fase de ejecución de la resolución administrativa.",
+      "En ningún caso, ya que los juicios de valor se consideran legalmente como información auxiliar o de apoyo."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 63",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

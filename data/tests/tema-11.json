@@ -377,5 +377,22 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "tema": 11,
+    "id": "jcyl-adm-2026-q013",
+    "pregunta": "Según el artículo 36 de la Ley 39/2015, cuando el acto administrativo se dicte de forma oral, la constancia escrita del mismo cuando se necesite:",
+    "opciones": [
+      "Se realizará por el funcionario competente, con referencia a quien lo ha dictado y los recursos que proceden contra el mismo.",
+      "Se efectuará y firmará por el titular del órgano que dictó el acto.",
+      "Se hará constar mediante escrito realizado por el funcionario competente, expresando la fecha y los recursos que caben contra el mismo.",
+      "Se efectuará y firmará por el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación del mismo la autoridad de la que procede."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 13",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

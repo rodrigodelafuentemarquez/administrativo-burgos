@@ -593,5 +593,56 @@
     "correcta": 1,
     "referencia": "Revisión test reales · control parlamentario de la Comisión",
     "explicación": "La moción de censura aprobada obliga a la dimisión colectiva de la Comisión."
+  },
+  {
+    "tema": 8,
+    "id": "jcyl-adm-2026-q004",
+    "pregunta": "Según el artículo 4 del Tratado de Funcionamiento de la Unión Europea, ¿qué tipo de competencia se aplica en el ámbito de la protección de los consumidores?",
+    "opciones": [
+      "Específica.",
+      "De apoyo.",
+      "Exclusiva.",
+      "Compartida."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 4",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 8,
+    "id": "jcyl-aux-2026-q007",
+    "pregunta": "Según el artículo 15 del Tratado de la Unión Europea, el Presidente del Consejo Europeo será elegido por:",
+    "opciones": [
+      "Mayoría absoluta para un mandato de seis meses, que podrá renovarse una sola vez.",
+      "Mayoría absoluta para un mandato de dos años y medio, que podrá renovarse una sola vez.",
+      "Mayoría cualificada para un mandato de dos años y medio, que podrá renovarse una sola vez.",
+      "Mayoría cualificada para un mandato de cinco años, que no podrá renovarse."
+    ],
+    "correcta": 2,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 7",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 8,
+    "id": "jcyl-aux-2026-q008",
+    "pregunta": "Según el artículo 14 del Tratado de la Unión Europea, la representación de los ciudadanos en el Parlamento Europeo, por Estado miembro, será decrecientemente proporcional, con:",
+    "opciones": [
+      "Un mínimo de cuatro diputados y no superior a ochenta y seis escaños.",
+      "Un mínimo de cuatro diputados y no superior a ochenta y ocho escaños.",
+      "Un mínimo de seis diputados y no superior a noventa escaños.",
+      "Un mínimo de seis diputados y no superior a noventa y seis escaños."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 8",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

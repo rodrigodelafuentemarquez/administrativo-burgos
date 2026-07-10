@@ -883,5 +883,56 @@
     "correcta": 0,
     "referencia": "Revisión test reales · art. 12 LCSP",
     "explicación": "La calificación legal por tipos contractuales es literal y muy propia de test real."
+  },
+  {
+    "tema": 16,
+    "id": "jcyl-adm-2026-q023",
+    "pregunta": "Según el artículo 62 de la Ley 9/2017, ¿cuál de las siguientes afirmaciones sobre el responsable del contrato es incorrecta?",
+    "opciones": [
+      "En los contratos de concesión de obras, las facultades del responsable del contrato serán ejercidas por el director facultativo.",
+      "El órgano de contratación deberá designar un responsable del contrato.",
+      "En los contratos de obras, las facultades del responsable del contrato serán ejercidas por el director facultativo.",
+      "El responsable del contrato podrá ser una persona física o jurídica, vinculada o ajena a la entidad contratante."
+    ],
+    "correcta": 0,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 23",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 16,
+    "id": "jcyl-adm-2026-q024",
+    "pregunta": "Según el artículo 13 de la Ley 9/2017, ¿qué debe entenderse por una obra completa a efectos de la celebración de un contrato de obras?",
+    "opciones": [
+      "Aquella que incluya necesariamente tanto la redacción del proyecto como la ejecución de los trabajos de construcción.",
+      "La que sea susceptible de ser entregada al uso general o al servicio correspondiente, comprendiendo todos y cada uno de los elementos precisos para su utilización.",
+      "Cualquier trabajo de ingeniería civil que modifique la forma o sustancia del terreno o de su vuelo.",
+      "La que, por su importe, pueda contratarse mediante procedimiento abierto simplificado."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 24",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 16,
+    "id": "jcyl-adm-2026-q046",
+    "pregunta": "Según el artículo 106 de la Ley 9/2017, en los casos en que el órgano de contratación haya acordado la exigencia de una garantía provisional, ésta:",
+    "opciones": [
+      "No podrá ser superior a un 3 por 100 del valor estimado del contrato.",
+      "No podrá ser superior a un 5 por 100 del valor estimado del contrato.",
+      "No podrá ser superior a un 5 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido.",
+      "No podrá ser superior a un 3 por 100 del presupuesto base de licitación del contrato, excluido el Impuesto sobre el Valor Añadido."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 46",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

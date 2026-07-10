@@ -741,5 +741,107 @@
     "correcta": 1,
     "referencia": "Revisión test reales · Consejo Consultivo de Castilla y León",
     "explicación": "Los exámenes reales preguntan con frecuencia mandatos y composición de instituciones propias."
+  },
+  {
+    "tema": 9,
+    "id": "jcyl-adm-2026-q006",
+    "pregunta": "De acuerdo con el artículo 23.4 del Estatuto de Autonomía de Castilla y León, ¿qué mayoría se requiere para la aprobación y reforma del Reglamento de las Cortes de Castilla y León?",
+    "opciones": [
+      "Mayoría absoluta en una votación final sobre su totalidad.",
+      "Mayoría simple en una votación final sobre su totalidad.",
+      "Mayoría de tres quintos en una votación final sobre su totalidad.",
+      "Mayoría de dos tercios en una votación final sobre su totalidad."
+    ],
+    "correcta": 0,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 6",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 9,
+    "id": "jcyl-aux-2026-q009",
+    "pregunta": "Según el artículo 41 del Estatuto de Autonomía de Castilla y León, el nombramiento de los Magistrados, Jueces, Secretarios y restante personal del Tribunal Superior y de los demás órganos de la Administración de Justicia en la Comunidad se efectuará según la forma prevista:",
+    "opciones": [
+      "Exclusivamente en la Constitución.",
+      "En la Constitución y en el Estatuto de Autonomía de Castilla y León.",
+      "En una Ley aprobada por las Cortes de Castilla y León.",
+      "En la legislación del Estado."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 9",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 9,
+    "id": "jcyl-aux-2026-q010",
+    "pregunta": "Según el artículo 7 del Estatuto de Autonomía, gozarán de los derechos de participación en asuntos públicos como ciudadanos de Castilla y León:",
+    "opciones": [
+      "Los españoles residentes en el extranjero que hayan tenido una vecindad administrativa en Castilla y León y acrediten esta condición en la forma prevista en la legislación autonómica.",
+      "Los españoles residentes en el extranjero que hayan tenido la última vecindad administrativa en Castilla y León y acrediten esta condición en la forma prevista en la legislación estatal.",
+      "Los naturales de Castilla y León que residan en el extranjero y hayan tenido la última vecindad administrativa en Castilla y León y acrediten esta condición en la forma prevista en la legislación estatal.",
+      "Los naturales de Castilla y León que residan en el extranjero y hayan tenido una vecindad administrativa en Castilla y León y acrediten esta condición en la forma prevista en la legislación autonómica."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 10",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 9,
+    "id": "jcyl-aux-2026-q011",
+    "pregunta": "Según el artículo 91 del Estatuto de Autonomía, una vez aprobada la propuesta de reforma del mismo por las Cortes de Castilla y León se remitirá:",
+    "opciones": [
+      "Al Rey para sancionar la Ley Orgánica.",
+      "Al Gobierno de la nación.",
+      "Al Congreso de los Diputados.",
+      "A la Junta de Castilla y León."
+    ],
+    "correcta": 2,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 11",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 9,
+    "id": "jcyl-aux-2026-q014",
+    "pregunta": "Según el artículo 24 del Estatuto de Autonomía, corresponde a las Cortes de Castilla y León:",
+    "opciones": [
+      "Ejercer la potestad reglamentaria de la Comunidad en los términos establecidos en la Constitución.",
+      "Controlar e impulsar la acción política y de gobierno de la Junta y de su Presidente.",
+      "Designar a los Diputados que han de representar a la Comunidad Autónoma según lo previsto en el artículo 69.5 de la Constitución.",
+      "Elegir de entre sus miembros al Presidente de la Junta de Castilla y León y a los Consejeros."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 14",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 9,
+    "id": "jcyl-aux-2026-q015",
+    "pregunta": "Según el artículo 1 del Reglamento de las Cortes de Castilla y León, celebradas las elecciones a las Cortes, éstas se reunirán en sesión constitutiva el día y hora señalados en el Decreto de convocatoria:",
+    "opciones": [
+      "Dentro de los veinticinco días siguientes a la fecha de celebración de las elecciones.",
+      "Dentro de los veinte días siguientes a la fecha de celebración de las elecciones.",
+      "Dentro de los treinta días siguientes a la fecha de celebración de las elecciones.",
+      "Dentro de los quince días siguientes a la fecha de celebración de las elecciones."
+    ],
+    "correcta": 2,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 15",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

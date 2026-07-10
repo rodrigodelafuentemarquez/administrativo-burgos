@@ -573,5 +573,22 @@
     "correcta": 1,
     "referencia": "Revisión test reales · art. 81 CE",
     "explicación": "El art. 81.1 CE conecta la ley orgánica con derechos fundamentales, estatutos, régimen electoral general y demás supuestos constitucionales."
+  },
+  {
+    "tema": 10,
+    "id": "jcyl-adm-2026-q011",
+    "pregunta": "Según el artículo 128.2 de la Ley 39/2015, ¿cuál es uno de los límites que tienen los reglamentos y disposiciones administrativas?",
+    "opciones": [
+      "No pueden regular materias que tengan impacto económico.",
+      "No podrán regular aquellas materias que la Constitución o los Estatutos de Autonomía reconocen de la competencia de las Cortes Generales o de las Asambleas Legislativas de las Comunidades Autónomas.",
+      "Podrán modificar leyes anteriores en caso de urgente necesidad.",
+      "Para que puedan dictarse debe existir una delegación expresa mediante ley de bases."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 11",
+    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]

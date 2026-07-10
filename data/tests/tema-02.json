@@ -1233,5 +1233,39 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "tema": 2,
+    "id": "jcyl-aux-2026-q002",
+    "pregunta": "De acuerdo con el artículo 108 de la Constitución Española, el Gobierno responde solidariamente en su gestión política ante:",
+    "opciones": [
+      "El Tribunal Constitucional.",
+      "El Consejo General del Poder Judicial.",
+      "El Senado.",
+      "El Congreso de los Diputados."
+    ],
+    "correcta": 3,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 2",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
+  },
+  {
+    "tema": 2,
+    "id": "jcyl-aux-2026-q003",
+    "pregunta": "Según el artículo 159 de la Constitución Española, ¿cuántos miembros componen el Tribunal Constitucional?",
+    "opciones": [
+      "12 miembros nombrados por el Rey; de ellos dos a propuesta del Congreso por mayoría de 2/3 de sus miembros; dos a propuesta del Senado, con idéntica mayoría; cuatro a propuesta del Gobierno, y cuatro a propuesta del Consejo General del Poder Judicial.",
+      "12 miembros nombrados por el Rey; de ellos cuatro a propuesta del Congreso por mayoría de 3/5 de sus miembros; cuatro a propuesta del Senado, con idéntica mayoría; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+      "12 miembros nombrados por el Rey; de ellos cuatro a propuesta del Congreso por mayoría de 2/3, cuatro a propuesta del Senado; dos a propuesta del Gobierno, y dos a propuesta del Consejo General del Poder Judicial.",
+      "12 miembros nombrados por el Rey; de ellos dos a propuesta del Congreso, dos a propuesta del Senado por mayoría de 3/5; cuatro a propuesta del Gobierno, y cuatro a propuesta del Consejo General del Poder Judicial."
+    ],
+    "correcta": 1,
+    "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 3",
+    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
+    "tags": [
+      "Pregunta real"
+    ]
   }
 ]
