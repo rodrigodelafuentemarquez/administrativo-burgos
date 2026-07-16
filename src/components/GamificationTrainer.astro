@@ -666,6 +666,12 @@ const simulatorData = JSON.stringify(practicalSimulators);
     font-weight: 700;
   }
 
+  .game-controls .btn,
+  .game-actions .btn,
+  .sim-question .btn {
+    min-height: 2.75rem;
+  }
+
   .game-controls label span {
     color: var(--bs-secondary-color);
     font-size: .8rem;
@@ -810,7 +816,7 @@ const simulatorData = JSON.stringify(practicalSimulators);
 
   .order-buttons {
     display: inline-flex;
-    gap: .3rem;
+    gap: .4rem;
   }
 
   .order-item.is-correct {
@@ -826,13 +832,14 @@ const simulatorData = JSON.stringify(practicalSimulators);
   .game-actions {
     display: flex;
     flex-wrap: wrap;
-    gap: .5rem;
+    gap: .65rem;
+    margin-top: 1rem;
   }
 
   .quiz-list,
   .sim-question-list {
     display: grid;
-    gap: .8rem;
+    gap: .9rem;
   }
 
   .quiz-card__top {
@@ -941,6 +948,10 @@ const simulatorData = JSON.stringify(practicalSimulators);
     margin-top: .7rem;
   }
 
+  .sim-question-list + .game-actions {
+    margin-top: 1.15rem;
+  }
+
   @media (min-width: 768px) {
     .game-hero {
       grid-template-columns: minmax(0, 1fr) minmax(11rem, auto);
@@ -962,6 +973,14 @@ const simulatorData = JSON.stringify(practicalSimulators);
     .game-controls,
     .game-board {
       padding: .85rem;
+    }
+
+    .game-shell {
+      gap: .85rem;
+    }
+
+    .game-controls {
+      gap: .65rem;
     }
 
     .game-hero h1 {
@@ -997,6 +1016,11 @@ const simulatorData = JSON.stringify(practicalSimulators);
       width: 100%;
     }
 
+    .game-actions {
+      gap: .55rem;
+      margin-top: .85rem;
+    }
+
     .choice-option {
       min-height: 3.25rem;
       padding: .7rem;
@@ -1006,6 +1030,7 @@ const simulatorData = JSON.stringify(practicalSimulators);
 
     .order-item {
       grid-template-columns: auto minmax(0, 1fr);
+      gap: .55rem;
     }
 
     .order-buttons {
@@ -1015,7 +1040,11 @@ const simulatorData = JSON.stringify(practicalSimulators);
 
     .order-buttons .btn {
       flex: 1 1 0;
-      min-height: 2.45rem;
+      min-height: 2.75rem;
+    }
+
+    .sim-question .btn {
+      width: 100%;
     }
   }
 </style>
