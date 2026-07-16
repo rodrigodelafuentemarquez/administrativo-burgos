@@ -1,10 +1,25 @@
 ---
 import { gameGroups } from '../data/gamification';
+import { constitutionQuestions } from '../data/constitutionGames';
+import { errorHuntItems } from '../data/errorHuntGames';
+import { guidedCases } from '../data/guidedCases';
+import { practicalSimulators } from '../data/practicalSimulators';
 
 const gameData = JSON.stringify(gameGroups);
+const constitutionData = JSON.stringify(constitutionQuestions);
+const errorData = JSON.stringify(errorHuntItems);
+const caseData = JSON.stringify(guidedCases);
+const simulatorData = JSON.stringify(practicalSimulators);
 ---
 
-<section class="game-shell" data-game-groups={gameData}>
+<section
+  class="game-shell"
+  data-game-groups={gameData}
+  data-constitution-games={constitutionData}
+  data-error-games={errorData}
+  data-guided-cases={caseData}
+  data-practical-simulators={simulatorData}
+>
   <div class="game-hero">
     <div>
       <span class="game-kicker">Repaso activo</span>
@@ -32,6 +47,10 @@ const gameData = JSON.stringify(gameGroups);
         <option value="matches">Parejas</option>
         <option value="fills">Completar huecos</option>
         <option value="orders">Ordenar</option>
+        <option value="constitution">Constitución intensiva</option>
+        <option value="errors">Detecta el error</option>
+        <option value="cases">Casos guiados</option>
+        <option value="simulators">Simuladores prácticos</option>
       </select>
     </label>
     <button id="game-reset" class="btn btn-primary btn-lg" type="button">Nueva partida</button>
@@ -43,6 +62,10 @@ const gameData = JSON.stringify(gameGroups);
 <script>
   const shell = document.querySelector('.game-shell');
   const groups = JSON.parse(shell?.getAttribute('data-game-groups') ?? '[]');
+  const constitutionGames = JSON.parse(shell?.getAttribute('data-constitution-games') ?? '[]');
+  const errorGames = JSON.parse(shell?.getAttribute('data-error-games') ?? '[]');
+  const guidedCaseGames = JSON.parse(shell?.getAttribute('data-guided-cases') ?? '[]');
+  const practicalSimulatorGames = JSON.parse(shell?.getAttribute('data-practical-simulators') ?? '[]');
   const groupSelect = document.getElementById('game-group');
   const modeSelect = document.getElementById('game-mode');
   const resetButton = document.getElementById('game-reset');
@@ -53,6 +76,9 @@ const gameData = JSON.stringify(gameGroups);
   let selectedLeftId = null;
   let activeOrderItems = [];
   let activeOrder = null;
+  let activeGuidedCase = null;
+  let activeGuidedStep = 0;
+  let activeGuidedCorrect = 0;
 
   const escapeHtml = (value) => String(value ?? '')
     .replaceAll('&', '&amp;')
@@ -86,6 +112,18 @@ const gameData = JSON.stringify(gameGroups);
           <span class="game-kicker">${escapeHtml(group.label)}</span>
           <h2>${escapeHtml(modeTitle)}</h2>
           <p>${escapeHtml(group.summary)}</p>
+        </div>
+      </div>
+    `;
+  }
+
+  function renderModeIntro(label, modeTitle, summary) {
+    return `
+      <div class="game-board-head">
+        <div>
+          <span class="game-kicker">${escapeHtml(label)}</span>
+          <h2>${escapeHtml(modeTitle)}</h2>
+          <p>${escapeHtml(summary)}</p>
         </div>
       </div>
     `;
@@ -205,14 +243,182 @@ const gameData = JSON.stringify(gameGroups);
     `;
   }
 
+  function renderChoiceExercise(items, config) {
+    const cards = shuffle(items).slice(0, config.limit);
+    setScore(`0/${cards.length}`, config.scoreLabel);
+
+    board.innerHTML = `
+      ${renderModeIntro(config.label, config.title, config.summary)}
+      <div class="game-help">${escapeHtml(config.help)}</div>
+      <div class="quiz-list">
+        ${cards.map((item) => {
+          const answer = item.answer;
+          const options = shuffle(item.options);
+          return `
+            <article class="quiz-card" data-quiz-card>
+              <div class="quiz-card__top">
+                <span class="badge text-bg-dark">${escapeHtml(item.tag)}</span>
+              </div>
+              <h3>${escapeHtml(item.prompt ?? item.statement)}</h3>
+              <div class="choice-grid">
+                ${options.map((option) => `
+                  <button class="choice-option" type="button" data-choice-option data-correct="${option === answer ? 'true' : 'false'}">
+                    ${escapeHtml(option)}
+                  </button>
+                `).join('')}
+              </div>
+              <p class="quiz-explanation" hidden>${escapeHtml(item.explanation)}</p>
+            </article>
+          `;
+        }).join('')}
+      </div>
+    `;
+  }
+
+  function updateChoiceScore(label) {
+    const total = board?.querySelectorAll('[data-quiz-card]').length ?? 0;
+    const correct = board?.querySelectorAll('[data-quiz-card].is-correct').length ?? 0;
+    setScore(`${correct}/${total}`, correct === total && total > 0 ? 'Bloque perfecto' : label);
+  }
+
+  function renderConstitution() {
+    renderChoiceExercise(constitutionGames, {
+      label: 'Constitución',
+      title: 'Artículos, títulos y garantías',
+      summary: 'Entrena reconocimiento rápido: artículo, materia, bloque constitucional y protección de derechos.',
+      help: 'Toca la respuesta correcta. Cada tarjeta muestra la explicación al responder.',
+      limit: 10,
+      scoreLabel: 'Aciertos constitucionales',
+    });
+  }
+
+  function renderErrors() {
+    const group = currentGroup();
+    const items = errorGames.filter((item) => item.groupId === group.id);
+    renderChoiceExercise(items, {
+      label: group.label,
+      title: 'Detecta el error',
+      summary: 'Frases con trampas de examen: plazo, órgano, norma, trámite o concepto.',
+      help: 'Lee la frase y marca qué tipo de error contiene. Después verás la explicación.',
+      limit: 8,
+      scoreLabel: 'Errores detectados',
+    });
+  }
+
+  function renderGuidedCaseStep() {
+    if (!activeGuidedCase) return;
+    const step = activeGuidedCase.steps[activeGuidedStep];
+    const total = activeGuidedCase.steps.length;
+    setScore(`${activeGuidedCorrect}/${total}`, `Paso ${activeGuidedStep + 1}/${total}`);
+
+    board.innerHTML = `
+      ${renderModeIntro(currentGroup().label, 'Caso guiado', 'Supuestos cortos con decisiones encadenadas para entrenar razonamiento de examen.')}
+      <article class="case-card">
+        <div class="quiz-card__top">
+          <span class="badge text-bg-dark">${escapeHtml(activeGuidedCase.tag)}</span>
+          <span class="badge text-bg-secondary">${escapeHtml(activeGuidedCase.difficulty)}</span>
+        </div>
+        <h3>${escapeHtml(activeGuidedCase.title)}</h3>
+        <p>${escapeHtml(activeGuidedCase.scenario)}</p>
+        <div class="case-step">
+          <strong>Paso ${activeGuidedStep + 1} de ${total}</strong>
+          <h4>${escapeHtml(step.prompt)}</h4>
+          <div class="choice-grid">
+            ${shuffle(step.options).map((option) => `
+              <button class="choice-option" type="button" data-case-option data-correct="${option === step.answer ? 'true' : 'false'}">
+                ${escapeHtml(option)}
+              </button>
+            `).join('')}
+          </div>
+          <p class="quiz-explanation" hidden>${escapeHtml(step.explanation)}</p>
+          <div class="game-actions case-next-row" hidden>
+            <button class="btn btn-primary" type="button" data-next-case-step>
+              ${activeGuidedStep + 1 >= total ? 'Nuevo caso' : 'Siguiente paso'}
+            </button>
+          </div>
+        </div>
+      </article>
+    `;
+  }
+
+  function renderCases() {
+    const group = currentGroup();
+    const cases = guidedCaseGames.filter((item) => item.groupId === group.id);
+    activeGuidedCase = shuffle(cases)[0];
+    activeGuidedStep = 0;
+    activeGuidedCorrect = 0;
+    renderGuidedCaseStep();
+  }
+
+  function renderSimulators() {
+    const group = currentGroup();
+    const simulators = practicalSimulatorGames.filter((item) => item.groupId === group.id);
+    const simulator = shuffle(simulators)[0];
+    if (!simulator) {
+      board.innerHTML = `${renderModeIntro(group.label, 'Simuladores prácticos', 'Todavía no hay simuladores para este grupo.')}`;
+      setScore('0/0', 'Sin simuladores');
+      return;
+    }
+    setScore(`${simulator.questions.length}`, 'Preguntas prácticas');
+
+    board.innerHTML = `
+      ${renderModeIntro(group.label, 'Simulador práctico', 'Lee el supuesto, revisa los datos relevantes y revela respuestas como si corrigieras tu propio esquema.')}
+      <article class="case-card">
+        <div class="quiz-card__top">
+          <span class="badge text-bg-dark">${escapeHtml(simulator.tag)}</span>
+          <span class="badge text-bg-secondary">${escapeHtml(simulator.difficulty)}</span>
+        </div>
+        <h3>${escapeHtml(simulator.title)}</h3>
+        <p>${escapeHtml(simulator.scenario)}</p>
+        <section class="sim-checklist">
+          <h4>Checklist del supuesto</h4>
+          <ul>
+            ${simulator.checklist.map((item) => `<li>${escapeHtml(item)}</li>`).join('')}
+          </ul>
+        </section>
+        <div class="sim-question-list">
+          ${simulator.questions.map((question, index) => `
+            <article class="sim-question">
+              <h4>${index + 1}. ${escapeHtml(question.prompt)}</h4>
+              <button class="btn btn-outline-light" type="button" data-reveal-sim-answer>Ver respuesta</button>
+              <p class="quiz-explanation" hidden>${escapeHtml(question.answer)}</p>
+            </article>
+          `).join('')}
+        </div>
+        <div class="game-actions">
+          <button class="btn btn-primary" type="button" data-reveal-sim-solution>Ver solución completa</button>
+          <button class="btn btn-outline-light" type="button" data-new-simulator>Nuevo supuesto</button>
+        </div>
+        <p class="quiz-explanation sim-solution" hidden>${escapeHtml(simulator.solution)}</p>
+      </article>
+    `;
+  }
+
   function renderGame() {
     const mode = currentMode();
+    activeGuidedCase = null;
     if (mode === 'fills') {
       renderFills();
       return;
     }
     if (mode === 'orders') {
       renderOrders();
+      return;
+    }
+    if (mode === 'constitution') {
+      renderConstitution();
+      return;
+    }
+    if (mode === 'errors') {
+      renderErrors();
+      return;
+    }
+    if (mode === 'cases') {
+      renderCases();
+      return;
+    }
+    if (mode === 'simulators') {
+      renderSimulators();
       return;
     }
     renderMatches();
@@ -294,6 +500,73 @@ const gameData = JSON.stringify(gameGroups);
       activeOrderItems = [...activeOrder.items];
       updateOrderList(true);
       setScore('1/1', 'Respuesta visible');
+      return;
+    }
+
+    const choice = target.closest('[data-choice-option]');
+    if (choice) {
+      const card = choice.closest('[data-quiz-card]');
+      if (!card || card.classList.contains('is-answered')) return;
+      const isCorrect = choice.getAttribute('data-correct') === 'true';
+      card.classList.add('is-answered', isCorrect ? 'is-correct' : 'is-wrong');
+      card.querySelectorAll('[data-choice-option]').forEach((button) => {
+        button.disabled = true;
+        if (button.getAttribute('data-correct') === 'true') button.classList.add('is-correct');
+      });
+      choice.classList.add(isCorrect ? 'is-correct' : 'is-wrong');
+      const explanation = card.querySelector('.quiz-explanation');
+      if (explanation) explanation.hidden = false;
+      updateChoiceScore(currentMode() === 'errors' ? 'Errores detectados' : 'Aciertos constitucionales');
+      return;
+    }
+
+    const caseChoice = target.closest('[data-case-option]');
+    if (caseChoice) {
+      const step = caseChoice.closest('.case-step');
+      if (!step || step.classList.contains('is-answered')) return;
+      const isCorrect = caseChoice.getAttribute('data-correct') === 'true';
+      if (isCorrect) activeGuidedCorrect += 1;
+      step.classList.add('is-answered');
+      step.querySelectorAll('[data-case-option]').forEach((button) => {
+        button.disabled = true;
+        if (button.getAttribute('data-correct') === 'true') button.classList.add('is-correct');
+      });
+      caseChoice.classList.add(isCorrect ? 'is-correct' : 'is-wrong');
+      const explanation = step.querySelector('.quiz-explanation');
+      const nextRow = step.querySelector('.case-next-row');
+      if (explanation) explanation.hidden = false;
+      if (nextRow) nextRow.hidden = false;
+      setScore(`${activeGuidedCorrect}/${activeGuidedCase.steps.length}`, isCorrect ? 'Paso correcto' : 'Revisa este paso');
+      return;
+    }
+
+    if (target.closest('[data-next-case-step]')) {
+      if (!activeGuidedCase) return;
+      activeGuidedStep += 1;
+      if (activeGuidedStep >= activeGuidedCase.steps.length) {
+        renderCases();
+        return;
+      }
+      renderGuidedCaseStep();
+      return;
+    }
+
+    if (target.closest('[data-reveal-sim-answer]')) {
+      const parent = target.closest('.sim-question');
+      const explanation = parent?.querySelector('.quiz-explanation');
+      if (explanation) explanation.hidden = false;
+      target.disabled = true;
+      return;
+    }
+
+    if (target.closest('[data-reveal-sim-solution]')) {
+      const solution = board.querySelector('.sim-solution');
+      if (solution) solution.hidden = false;
+      return;
+    }
+
+    if (target.closest('[data-new-simulator]')) {
+      renderSimulators();
     }
   });
 
@@ -315,7 +588,10 @@ const gameData = JSON.stringify(gameGroups);
   .game-board,
   .game-card,
   .fill-card,
-  .order-card {
+  .order-card,
+  .quiz-card,
+  .case-card,
+  .sim-question {
     min-width: 0;
   }
 
@@ -463,7 +739,10 @@ const gameData = JSON.stringify(gameGroups);
   }
 
   .fill-card,
-  .order-card {
+  .order-card,
+  .quiz-card,
+  .case-card,
+  .sim-question {
     padding: 1rem;
     border: 1px solid var(--bs-border-color);
     border-radius: .5rem;
@@ -550,6 +829,118 @@ const gameData = JSON.stringify(gameGroups);
     gap: .5rem;
   }
 
+  .quiz-list,
+  .sim-question-list {
+    display: grid;
+    gap: .8rem;
+  }
+
+  .quiz-card__top {
+    display: flex;
+    flex-wrap: wrap;
+    gap: .4rem;
+    margin-bottom: .65rem;
+  }
+
+  .quiz-card h3,
+  .case-card h3,
+  .case-step h4,
+  .sim-checklist h4,
+  .sim-question h4 {
+    margin: 0 0 .8rem;
+    font-size: 1.05rem;
+    line-height: 1.25;
+  }
+
+  .case-card > p {
+    color: var(--bs-secondary-color);
+    line-height: 1.45;
+  }
+
+  .choice-grid {
+    display: grid;
+    gap: .55rem;
+  }
+
+  .choice-option {
+    width: 100%;
+    min-height: 3rem;
+    padding: .75rem;
+    color: var(--bs-body-color);
+    text-align: left;
+    overflow-wrap: anywhere;
+    border: 1px solid var(--bs-border-color);
+    border-radius: .45rem;
+    background: rgba(255, 255, 255, .025);
+  }
+
+  .choice-option:hover,
+  .choice-option:focus {
+    color: var(--bs-emphasis-color);
+    border-color: var(--bd-violet);
+    background: rgba(var(--bd-violet-rgb), .16);
+  }
+
+  .choice-option.is-correct {
+    color: var(--bs-emphasis-color);
+    border-color: rgba(var(--bs-success-rgb), .8);
+    background: rgba(var(--bs-success-rgb), .16);
+  }
+
+  .choice-option.is-wrong {
+    color: var(--bs-emphasis-color);
+    border-color: rgba(var(--bs-danger-rgb), .85);
+    background: rgba(var(--bs-danger-rgb), .16);
+  }
+
+  .choice-option:disabled {
+    opacity: 1;
+  }
+
+  .quiz-explanation {
+    margin: .85rem 0 0;
+    padding: .75rem;
+    color: var(--bs-emphasis-color);
+    border: 1px solid rgba(var(--bd-accent-rgb), .36);
+    border-radius: .45rem;
+    background: rgba(var(--bd-accent-rgb), .07);
+  }
+
+  .case-step {
+    margin-top: 1rem;
+    padding: .9rem;
+    border: 1px solid rgba(var(--bd-violet-rgb), .32);
+    border-radius: .5rem;
+    background: rgba(var(--bd-violet-rgb), .08);
+  }
+
+  .case-step strong {
+    display: inline-block;
+    margin-bottom: .55rem;
+    color: var(--bd-accent);
+  }
+
+  .case-next-row {
+    margin-top: .85rem;
+  }
+
+  .sim-checklist {
+    margin: 1rem 0;
+    padding: .85rem;
+    border: 1px solid var(--bs-border-color);
+    border-radius: .45rem;
+    background: rgba(255, 255, 255, .025);
+  }
+
+  .sim-checklist ul {
+    margin-bottom: 0;
+    padding-left: 1.1rem;
+  }
+
+  .sim-question + .sim-question {
+    margin-top: .7rem;
+  }
+
   @media (min-width: 768px) {
     .game-hero {
       grid-template-columns: minmax(0, 1fr) minmax(11rem, auto);
@@ -561,6 +952,9 @@ const gameData = JSON.stringify(gameGroups);
       align-items: end;
     }
 
+    .choice-grid {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
   }
 
   @media (max-width: 575.98px) {
@@ -601,6 +995,13 @@ const gameData = JSON.stringify(gameGroups);
     .game-controls .btn,
     .game-actions .btn {
       width: 100%;
+    }
+
+    .choice-option {
+      min-height: 3.25rem;
+      padding: .7rem;
+      font-size: .92rem;
+      line-height: 1.25;
     }
 
     .order-item {
