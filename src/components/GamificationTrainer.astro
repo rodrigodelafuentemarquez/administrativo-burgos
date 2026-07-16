@@ -415,6 +415,7 @@ const gameData = JSON.stringify(gameGroups);
 
   .match-layout {
     display: grid;
+    grid-template-columns: repeat(2, minmax(0, 1fr));
     gap: .75rem;
   }
 
@@ -560,9 +561,6 @@ const gameData = JSON.stringify(gameGroups);
       align-items: end;
     }
 
-    .match-layout {
-      grid-template-columns: repeat(2, minmax(0, 1fr));
-    }
   }
 
   @media (max-width: 575.98px) {
@@ -578,6 +576,26 @@ const gameData = JSON.stringify(gameGroups);
 
     .game-board h2 {
       font-size: 1.35rem;
+    }
+
+    .match-layout {
+      gap: .5rem;
+    }
+
+    .match-column {
+      gap: .5rem;
+    }
+
+    .match-card {
+      min-height: 4.75rem;
+      padding: .6rem;
+      font-size: .88rem;
+      line-height: 1.2;
+    }
+
+    .match-card small {
+      font-size: .72rem;
+      line-height: 1.15;
     }
 
     .game-controls .btn,
