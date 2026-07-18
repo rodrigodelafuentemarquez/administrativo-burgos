@@ -449,7 +449,8 @@ const planJson = JSON.stringify(planDays);
       <div class="${taskClass(task.kind)} ${isDone(done, task.id) ? 'is-done' : ''}">
         <label class="planning-task-check">
           <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
-          <span>
+          <span class="planning-check-mark" aria-hidden="true"></span>
+          <span class="planning-task-copy">
             <strong>${escapeHtml(task.label)}</strong>
             <small>${carried ? 'Arrastrado · ' : ''}${task.advanceFrom ? `Previsto ${task.advanceFrom} · ` : ''}${task.minutes} min</small>
           </span>
@@ -625,10 +626,13 @@ const planJson = JSON.stringify(planDays);
     .planning-detail,
     .planning-day,
     .planning-carried {
-      padding: .85rem;
-      background: var(--bs-tertiary-bg);
-      border: 1px solid var(--bs-border-color);
-      border-radius: .35rem;
+      padding: 1rem;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.045), rgba(255,255,255,.018)),
+        var(--bs-tertiary-bg);
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: .5rem;
+      box-shadow: 0 1rem 2.4rem rgba(0,0,0,.18);
     }
     .planning-day h2,
     .planning-day h3,
@@ -654,7 +658,7 @@ const planJson = JSON.stringify(planDays);
     .planning-day-head {
       display: flex;
       flex-wrap: wrap;
-      gap: 1rem;
+      gap: .85rem;
       align-items: flex-start;
       justify-content: space-between;
     }
@@ -668,8 +672,13 @@ const planJson = JSON.stringify(planDays);
     .planning-actions {
       display: flex;
       flex-wrap: wrap;
-      gap: .5rem;
+      gap: .4rem;
       align-items: center;
+    }
+    .planning-actions .btn {
+      min-width: 2.25rem;
+      border-radius: .45rem;
+      font-weight: 800;
     }
     .planning-weekdays,
     .planning-calendar {
@@ -679,7 +688,7 @@ const planJson = JSON.stringify(planDays);
     }
     .planning-weekdays {
       margin: .85rem 0 .35rem;
-      color: var(--bs-secondary-color);
+      color: rgba(255,255,255,.58);
       font-size: .78rem;
       font-weight: 800;
       text-align: center;
@@ -689,33 +698,46 @@ const planJson = JSON.stringify(planDays);
       position: relative;
       display: grid;
       grid-template-rows: auto auto minmax(1rem, 1fr) auto auto;
-      gap: .25rem;
-      min-height: 6.2rem;
-      padding: .45rem;
+      gap: .32rem;
+      min-height: 6.45rem;
+      padding: .55rem;
       color: var(--bs-body-color);
       text-align: left;
-      background: var(--bs-body-bg);
-      border: 1px solid var(--bs-border-color);
-      border-radius: .25rem;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.038), rgba(255,255,255,.012)),
+        rgba(255,255,255,.032);
+      border: 1px solid rgba(255,255,255,.09);
+      border-radius: .45rem;
+      box-shadow: inset 0 1px rgba(255,255,255,.04);
+      transition: transform .16s ease, border-color .16s ease, background .16s ease, box-shadow .16s ease;
     }
     .calendar-day:hover,
     .calendar-day:focus {
       border-color: rgba(var(--bd-accent-rgb), .7);
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.065), rgba(255,255,255,.018)),
+        rgba(var(--bd-violet-rgb), .08);
+      box-shadow: 0 .8rem 1.5rem rgba(0,0,0,.18), inset 0 1px rgba(255,255,255,.06);
+      transform: translateY(-1px);
     }
     .calendar-day.is-selected {
       border-color: var(--bd-accent);
-      box-shadow: inset 0 0 0 1px rgba(var(--bd-accent-rgb), .35);
+      background:
+        linear-gradient(180deg, rgba(var(--bd-accent-rgb), .14), rgba(var(--bd-violet-rgb), .1)),
+        rgba(255,255,255,.04);
+      box-shadow: inset 0 0 0 1px rgba(var(--bd-accent-rgb), .28), 0 .9rem 1.8rem rgba(0,0,0,.22);
     }
     .calendar-day.is-today .calendar-day__number {
       color: #111;
       background: var(--bd-accent);
+      box-shadow: 0 0 0 .2rem rgba(var(--bd-accent-rgb), .18);
     }
     .calendar-day--empty,
     .calendar-day--outside {
-      min-height: 6.2rem;
-      border: 1px dashed rgba(255,255,255,.08);
-      border-radius: .25rem;
-      background: rgba(255,255,255,.015);
+      min-height: 6.45rem;
+      border: 1px dashed rgba(255,255,255,.06);
+      border-radius: .45rem;
+      background: rgba(255,255,255,.01);
     }
     .calendar-day--outside {
       display: grid;
@@ -725,19 +747,19 @@ const planJson = JSON.stringify(planDays);
     }
     .calendar-day__number {
       display: inline-grid;
-      width: 1.55rem;
-      height: 1.55rem;
+      width: 1.65rem;
+      height: 1.65rem;
       place-items: center;
       color: var(--bs-emphasis-color);
       font-size: .78rem;
       font-weight: 850;
-      border-radius: .35rem;
-      background: rgba(255,255,255,.05);
+      border-radius: .45rem;
+      background: rgba(255,255,255,.07);
     }
     .calendar-day strong {
       min-width: 0;
       color: var(--bs-emphasis-color);
-      font-size: .95rem;
+      font-size: .98rem;
       line-height: 1.15;
       overflow-wrap: anywhere;
     }
@@ -749,14 +771,15 @@ const planJson = JSON.stringify(planDays);
     .calendar-day__chips {
       display: flex;
       flex-wrap: wrap;
-      gap: .22rem;
+      gap: .24rem;
     }
     .chip {
       display: inline-block;
-      width: .48rem;
-      height: .48rem;
+      width: .52rem;
+      height: .52rem;
       border-radius: 999px;
       background: var(--bs-secondary);
+      box-shadow: 0 0 0 1px rgba(0,0,0,.18);
     }
     .chip--estudio { background: var(--bd-violet); }
     .chip--repaso { background: #0dcaf0; color: #06252d; }
@@ -765,15 +788,15 @@ const planJson = JSON.stringify(planDays);
     .chip--practico { background: #198754; }
     .chip--desarrollo { background: #0d6efd; }
     .calendar-day__bar {
-      height: .28rem;
+      height: .32rem;
       overflow: hidden;
-      background: var(--bs-secondary-bg);
+      background: rgba(255,255,255,.08);
       border-radius: 999px;
     }
     .calendar-day__bar i {
       display: block;
       height: 100%;
-      background: var(--bd-accent);
+      background: linear-gradient(90deg, var(--bd-accent), #7dd3fc);
       border-radius: inherit;
     }
     .planning-day--today,
@@ -793,9 +816,9 @@ const planJson = JSON.stringify(planDays);
       align-self: center;
       margin: 0;
       padding: .22rem;
-      border: 1px solid var(--bs-border-color);
-      border-radius: .35rem;
-      background: var(--bs-body-bg);
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: .5rem;
+      background: rgba(0,0,0,.18);
     }
     .planning-mode label {
       margin: 0;
@@ -816,7 +839,7 @@ const planJson = JSON.stringify(planDays);
       color: var(--bs-secondary-color);
       font-size: .82rem;
       font-weight: 800;
-      border-radius: .22rem;
+      border-radius: .36rem;
       cursor: pointer;
     }
     .planning-mode label:hover span,
@@ -835,17 +858,20 @@ const planJson = JSON.stringify(planDays);
     }
     .planning-task-list {
       display: grid;
-      gap: .45rem;
-      margin-top: .75rem;
+      gap: .55rem;
+      margin-top: .85rem;
     }
     .planning-task {
       display: grid;
-      gap: .45rem;
-      padding: .6rem;
-      background: var(--bs-body-bg);
-      border: 1px solid var(--bs-border-color);
-      border-left: .35rem solid var(--bs-secondary);
-      border-radius: .3rem;
+      gap: .5rem;
+      padding: .72rem .78rem;
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.045), rgba(255,255,255,.015)),
+        rgba(0,0,0,.14);
+      border: 1px solid rgba(255,255,255,.09);
+      border-left: .24rem solid var(--bs-secondary);
+      border-radius: .5rem;
+      box-shadow: inset 0 1px rgba(255,255,255,.04);
     }
     .planning-task--estudio { border-left-color: var(--bd-violet); }
     .planning-task--repaso { border-left-color: var(--bs-info); }
@@ -856,11 +882,53 @@ const planJson = JSON.stringify(planDays);
     .planning-task-check {
       display: grid;
       grid-template-columns: auto minmax(0, 1fr);
-      gap: .65rem;
+      gap: .7rem;
+      align-items: start;
       margin: 0;
+      cursor: pointer;
     }
     .planning-task-check input {
-      margin-top: .25rem;
+      position: absolute;
+      inline-size: 1px;
+      block-size: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
+    .planning-check-mark {
+      position: relative;
+      display: inline-grid;
+      width: 1.25rem;
+      height: 1.25rem;
+      margin-top: .1rem;
+      place-items: center;
+      border: 1px solid rgba(255,255,255,.28);
+      border-radius: .35rem;
+      background: rgba(255,255,255,.04);
+      box-shadow: inset 0 1px rgba(255,255,255,.06);
+      transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
+    }
+    .planning-check-mark::after {
+      width: .56rem;
+      height: .32rem;
+      border: solid #111;
+      border-width: 0 0 2px 2px;
+      content: "";
+      opacity: 0;
+      transform: translateY(-1px) rotate(-45deg) scale(.75);
+      transition: opacity .16s ease, transform .16s ease;
+    }
+    .planning-task-check:hover .planning-check-mark,
+    .planning-task-check:focus-within .planning-check-mark {
+      border-color: rgba(var(--bd-accent-rgb), .8);
+      box-shadow: 0 0 0 .18rem rgba(var(--bd-accent-rgb), .12), inset 0 1px rgba(255,255,255,.08);
+    }
+    .planning-task-check input:checked + .planning-check-mark {
+      border-color: var(--bd-accent);
+      background: var(--bd-accent);
+    }
+    .planning-task-check input:checked + .planning-check-mark::after {
+      opacity: 1;
+      transform: translateY(-1px) rotate(-45deg) scale(1);
     }
     .planning-task strong,
     .planning-task small,
@@ -873,7 +941,7 @@ const planJson = JSON.stringify(planDays);
       line-height: 1.45;
     }
     .planning-task details {
-      margin-left: 1.55rem;
+      margin-left: 1.95rem;
       color: var(--bs-secondary-color);
       font-size: .9rem;
     }
@@ -883,6 +951,10 @@ const planJson = JSON.stringify(planDays);
       color: var(--bd-accent);
       font-size: .82rem;
       font-weight: 700;
+      list-style: none;
+    }
+    .planning-task summary::-webkit-details-marker {
+      display: none;
     }
     .planning-task details p {
       margin: .4rem 0 0;
@@ -894,11 +966,17 @@ const planJson = JSON.stringify(planDays);
       color: var(--bd-accent);
       text-decoration: none;
     }
+    .planning-task a:hover {
+      text-decoration: underline;
+    }
     .planning-task.is-done {
-      opacity: .62;
+      opacity: .72;
+      background: rgba(255,255,255,.028);
     }
     .planning-task.is-done strong {
       text-decoration: line-through;
+      text-decoration-thickness: 2px;
+      text-decoration-color: rgba(var(--bd-accent-rgb), .7);
     }
     .planning-carried.is-clear {
       border-style: dashed;
