@@ -327,6 +327,7 @@ const planJson = JSON.stringify(planDays);
       normal: 'Normal',
       extra: 'Extra',
     };
+    const coreKinds = new Set(['estudio', 'practico', 'desarrollo']);
 
     const readDone = () => {
       try {
@@ -389,28 +390,59 @@ const planJson = JSON.stringify(planDays);
     const monthKey = (date) => `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
     const loadLabel = (minutes) => minutes >= 60 ? `${Math.floor(minutes / 60)} h${minutes % 60 ? ` ${minutes % 60} min` : ''}` : `${minutes} min`;
     const baseTasksForMode = (day, mode) => day.tasks.filter((task) => {
-        if (mode === 'minimo') return task.effort === 'minimo';
-        if (mode === 'extra') return task.effort !== 'extra';
-        return task.effort !== 'extra';
-      });
-    const visibleTasksForMode = (day, done, mode) => {
-      const baseTasks = baseTasksForMode(day, mode);
-
-      if (mode !== 'extra') return baseTasks;
-
-      const advanceTasks = PLAN
-        .filter((futureDay) => futureDay.date > day.date)
-        .flatMap((futureDay) => futureDay.tasks.map((task) => ({ ...task, advanceFrom: futureDay.date })))
-        .filter((task) => !isDone(done, task.id))
-        .filter((task) => ['estudio', 'practico', 'desarrollo'].includes(task.kind))
-        .slice(0, 1)
-        .map((task) => ({
+      if (mode === 'minimo') return task.effort === 'minimo';
+      if (mode === 'extra') return task.effort !== 'extra';
+      return task.effort !== 'extra';
+    });
+    const isCoreTask = (task) => coreKinds.has(task.kind);
+    const isCompletedOnDate = (done, taskId, dateKey) => {
+      const completedAt = Number(done[taskId] ?? 0);
+      return completedAt > 0 && toLocalIso(new Date(completedAt)) === dateKey;
+    };
+    const plannedCoreTasksUntil = (dateKey, includeFuture = false) => PLAN
+      .filter((planDay) => includeFuture || planDay.date <= dateKey)
+      .flatMap((planDay) => planDay.tasks
+        .filter(isCoreTask)
+        .map((task) => ({ ...task, plannedDate: planDay.date })));
+    const decorateCoreTask = (task, currentDate) => {
+      if (task.plannedDate < currentDate) {
+        return {
+          ...task,
+          label: `Pendiente: ${task.label}`,
+          detail: `${task.detail} Tarea arrastrada desde ${dayFmt.format(new Date(`${task.plannedDate}T12:00:00`))}.`,
+        };
+      }
+      if (task.plannedDate > currentDate) {
+        return {
           ...task,
           label: `Adelantar: ${task.label}`,
-          detail: `${task.detail} Tarea prevista para ${dayFmt.format(new Date(`${task.advanceFrom}T12:00:00`))}.`,
-        }));
+          detail: `${task.detail} Tarea prevista para ${dayFmt.format(new Date(`${task.plannedDate}T12:00:00`))}.`,
+          advanceFrom: task.plannedDate,
+        };
+      }
+      return task;
+    };
+    const visibleTasksForMode = (day, done, mode) => {
+      const baseTasks = baseTasksForMode(day, mode);
+      const coreSlots = baseTasks.filter(isCoreTask).length + (mode === 'extra' ? 1 : 0);
+      const coreQueue = plannedCoreTasksUntil(day.date, mode === 'extra')
+        .filter((task) => !isDone(done, task.id) || isCompletedOnDate(done, task.id, day.date))
+        .slice(0, coreSlots)
+        .map((task) => decorateCoreTask(task, day.date));
 
-      return [...baseTasks, ...advanceTasks];
+      if (!coreSlots) return baseTasks;
+
+      const adjustedTasks = [];
+      baseTasks.forEach((task) => {
+        if (!isCoreTask(task)) {
+          adjustedTasks.push(task);
+          return;
+        }
+        const nextCoreTask = coreQueue.shift();
+        if (nextCoreTask) adjustedTasks.push(nextCoreTask);
+      });
+      adjustedTasks.push(...coreQueue);
+      return adjustedTasks;
     };
 
     const taskTemplate = (task, done, carried = false) => `
@@ -441,7 +473,8 @@ const planJson = JSON.stringify(planDays);
       const day = dayByDate.get(selectedDate) ?? PLAN[0];
       const mode = modeForDate(day.date);
       const visibleTasks = visibleTasksForMode(day, done, mode);
-      const carried = getCarriedTasks(done);
+      const visibleTaskIds = new Set(visibleTasks.map((task) => task.id));
+      const carried = getCarriedTasks(done).filter((task) => !visibleTaskIds.has(task.id));
       const completed = visibleTasks.filter((task) => isDone(done, task.id)).length;
       const visibleMinutes = visibleTasks.reduce((sum, task) => sum + task.minutes, 0);
       const carriedHtml = selectedDate === todayIso
