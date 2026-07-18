@@ -451,6 +451,7 @@ const planJson = JSON.stringify(planDays);
           <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
           <span class="planning-check-mark" aria-hidden="true"></span>
           <span class="planning-task-copy">
+            <span class="planning-task-kind">${escapeHtml(kindLabel[task.kind] ?? task.kind)}</span>
             <strong>${escapeHtml(task.label)}</strong>
             <small>${carried ? 'Arrastrado · ' : ''}${task.advanceFrom ? `Previsto ${task.advanceFrom} · ` : ''}${task.minutes} min</small>
           </span>
@@ -548,8 +549,9 @@ const planJson = JSON.stringify(planDays);
         const label = splitCalendarLabel(mainStudy);
         const pct = visibleTasks.length ? Math.round((completed / visibleTasks.length) * 100) : 0;
         return `
-          <button class="calendar-day ${day.date === selectedDate ? 'is-selected' : ''} ${day.date === todayIso ? 'is-today' : ''}" type="button" data-date="${day.date}">
+          <button class="calendar-day ${day.date === selectedDate ? 'is-selected' : ''} ${day.date === todayIso ? 'is-today' : ''} ${pct === 100 ? 'is-complete' : ''}" type="button" data-date="${day.date}">
             <span class="calendar-day__number">${date.getDate()}</span>
+            <span class="calendar-day__mode">${escapeHtml(modeLabel[mode])}</span>
             <strong>${escapeHtml(label.main)}</strong>
             <small>${escapeHtml(label.sub)}</small>
             <div class="calendar-day__chips">
@@ -634,6 +636,12 @@ const planJson = JSON.stringify(planDays);
       border-radius: .5rem;
       box-shadow: 0 1rem 2.4rem rgba(0,0,0,.18);
     }
+    .planning-calendar-card {
+      background:
+        linear-gradient(180deg, rgba(255,255,255,.06), rgba(255,255,255,.018)),
+        linear-gradient(135deg, rgba(var(--bd-violet-rgb), .18), rgba(13, 202, 240, .06) 46%, rgba(255,255,255,.018)),
+        var(--bs-tertiary-bg);
+    }
     .planning-day h2,
     .planning-day h3,
     .planning-carried h3 {
@@ -684,10 +692,10 @@ const planJson = JSON.stringify(planDays);
     .planning-calendar {
       display: grid;
       grid-template-columns: repeat(7, minmax(0, 1fr));
-      gap: .25rem;
+      gap: .42rem;
     }
     .planning-weekdays {
-      margin: .85rem 0 .35rem;
+      margin: .95rem 0 .45rem;
       color: rgba(255,255,255,.58);
       font-size: .78rem;
       font-weight: 800;
@@ -697,10 +705,12 @@ const planJson = JSON.stringify(planDays);
     .calendar-day {
       position: relative;
       display: grid;
+      grid-template-columns: 1fr auto;
       grid-template-rows: auto auto minmax(1rem, 1fr) auto auto;
       gap: .32rem;
-      min-height: 6.45rem;
-      padding: .55rem;
+      min-height: 7rem;
+      padding: .62rem;
+      overflow: hidden;
       color: var(--bs-body-color);
       text-align: left;
       background:
@@ -710,6 +720,13 @@ const planJson = JSON.stringify(planDays);
       border-radius: .45rem;
       box-shadow: inset 0 1px rgba(255,255,255,.04);
       transition: transform .16s ease, border-color .16s ease, background .16s ease, box-shadow .16s ease;
+    }
+    .calendar-day::before {
+      position: absolute;
+      inset: 0 auto 0 0;
+      width: .22rem;
+      content: "";
+      background: rgba(255,255,255,.14);
     }
     .calendar-day:hover,
     .calendar-day:focus {
@@ -727,6 +744,18 @@ const planJson = JSON.stringify(planDays);
         rgba(255,255,255,.04);
       box-shadow: inset 0 0 0 1px rgba(var(--bd-accent-rgb), .28), 0 .9rem 1.8rem rgba(0,0,0,.22);
     }
+    .calendar-day.is-selected::before {
+      background: var(--bd-accent);
+    }
+    .calendar-day.is-complete {
+      border-color: rgba(25, 135, 84, .7);
+      background:
+        linear-gradient(180deg, rgba(25, 135, 84, .18), rgba(255,255,255,.015)),
+        rgba(255,255,255,.026);
+    }
+    .calendar-day.is-complete::before {
+      background: #42d392;
+    }
     .calendar-day.is-today .calendar-day__number {
       color: #111;
       background: var(--bd-accent);
@@ -734,7 +763,7 @@ const planJson = JSON.stringify(planDays);
     }
     .calendar-day--empty,
     .calendar-day--outside {
-      min-height: 6.45rem;
+      min-height: 7rem;
       border: 1px dashed rgba(255,255,255,.06);
       border-radius: .45rem;
       background: rgba(255,255,255,.01);
@@ -756,7 +785,20 @@ const planJson = JSON.stringify(planDays);
       border-radius: .45rem;
       background: rgba(255,255,255,.07);
     }
+    .calendar-day__mode {
+      justify-self: end;
+      align-self: start;
+      padding: .12rem .34rem;
+      color: rgba(255,255,255,.74);
+      font-size: .62rem;
+      font-weight: 850;
+      line-height: 1.2;
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: 999px;
+      background: rgba(0,0,0,.18);
+    }
     .calendar-day strong {
+      grid-column: 1 / -1;
       min-width: 0;
       color: var(--bs-emphasis-color);
       font-size: .98rem;
@@ -764,11 +806,13 @@ const planJson = JSON.stringify(planDays);
       overflow-wrap: anywhere;
     }
     .calendar-day small {
+      grid-column: 1 / -1;
       color: var(--bs-secondary-color);
       font-size: .72rem;
       line-height: 1.15;
     }
     .calendar-day__chips {
+      grid-column: 1 / -1;
       display: flex;
       flex-wrap: wrap;
       gap: .24rem;
@@ -788,6 +832,7 @@ const planJson = JSON.stringify(planDays);
     .chip--practico { background: #198754; }
     .chip--desarrollo { background: #0d6efd; }
     .calendar-day__bar {
+      grid-column: 1 / -1;
       height: .32rem;
       overflow: hidden;
       background: rgba(255,255,255,.08);
@@ -862,6 +907,7 @@ const planJson = JSON.stringify(planDays);
       margin-top: .85rem;
     }
     .planning-task {
+      position: relative;
       display: grid;
       gap: .5rem;
       padding: .72rem .78rem;
@@ -872,6 +918,14 @@ const planJson = JSON.stringify(planDays);
       border-left: .24rem solid var(--bs-secondary);
       border-radius: .5rem;
       box-shadow: inset 0 1px rgba(255,255,255,.04);
+    }
+    .planning-task::before {
+      position: absolute;
+      inset: 0;
+      border-radius: inherit;
+      content: "";
+      pointer-events: none;
+      box-shadow: inset 0 1px rgba(255,255,255,.05);
     }
     .planning-task--estudio { border-left-color: var(--bd-violet); }
     .planning-task--repaso { border-left-color: var(--bs-info); }
@@ -935,6 +989,26 @@ const planJson = JSON.stringify(planDays);
     .planning-task a {
       display: block;
     }
+    .planning-task-kind {
+      display: inline-flex;
+      width: fit-content;
+      margin-bottom: .28rem;
+      padding: .1rem .38rem;
+      color: rgba(255,255,255,.82);
+      font-size: .68rem;
+      font-weight: 850;
+      line-height: 1.25;
+      letter-spacing: 0;
+      border: 1px solid rgba(255,255,255,.1);
+      border-radius: 999px;
+      background: rgba(255,255,255,.055);
+    }
+    .planning-task--estudio .planning-task-kind { color: #dacbff; background: rgba(var(--bd-violet-rgb), .18); }
+    .planning-task--repaso .planning-task-kind { color: #bcf3ff; background: rgba(13, 202, 240, .16); }
+    .planning-task--test .planning-task-kind,
+    .planning-task--simulacro .planning-task-kind { color: #ffe8a3; background: rgba(255, 193, 7, .16); }
+    .planning-task--practico .planning-task-kind { color: #c9f7df; background: rgba(25, 135, 84, .18); }
+    .planning-task--desarrollo .planning-task-kind { color: #cfe2ff; background: rgba(13, 110, 253, .18); }
     .planning-task small {
       margin-top: .15rem;
       color: var(--bs-secondary-color);
@@ -1004,17 +1078,17 @@ const planJson = JSON.stringify(planDays);
       }
       .planning-weekdays,
       .planning-calendar {
-        gap: .25rem;
+        gap: .28rem;
       }
       .calendar-day,
       .calendar-day--empty,
       .calendar-day--outside {
-        min-height: 5.75rem;
-        padding: .38rem;
+        min-height: 6rem;
+        padding: .42rem;
         border-radius: .35rem;
       }
       .calendar-day {
-        grid-template-rows: auto auto minmax(1.2rem, 1fr) auto;
+        grid-template-rows: auto auto minmax(1.2rem, 1fr) auto auto;
       }
       .calendar-day strong {
         font-size: .82rem;
@@ -1026,6 +1100,10 @@ const planJson = JSON.stringify(planDays);
         width: 1.45rem;
         height: 1.45rem;
         font-size: .72rem;
+      }
+      .calendar-day__mode {
+        padding-inline: .25rem;
+        font-size: .56rem;
       }
       .calendar-day__chips {
         display: none;
