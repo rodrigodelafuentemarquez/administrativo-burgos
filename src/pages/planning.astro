@@ -449,11 +449,15 @@ const planJson = JSON.stringify(planDays);
       <div class="${taskClass(task.kind)} ${isDone(done, task.id) ? 'is-done' : ''}">
         <label class="planning-task-check">
           <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
-          <span class="planning-check-mark" aria-hidden="true"></span>
           <span class="planning-task-copy">
             <span class="planning-task-kind">${escapeHtml(kindLabel[task.kind] ?? task.kind)}</span>
             <strong>${escapeHtml(task.label)}</strong>
             <small>${carried ? 'Arrastrado · ' : ''}${task.advanceFrom ? `Previsto ${task.advanceFrom} · ` : ''}${task.minutes} min</small>
+          </span>
+          <span class="planning-task-action" aria-hidden="true">
+            <span class="planning-check-mark"></span>
+            <span class="planning-action-pending">Marcar</span>
+            <span class="planning-action-done">Hecho</span>
           </span>
         </label>
         <details>
@@ -935,9 +939,9 @@ const planJson = JSON.stringify(planDays);
     .planning-task--desarrollo { border-left-color: var(--bs-primary); }
     .planning-task-check {
       display: grid;
-      grid-template-columns: auto minmax(0, 1fr);
-      gap: .7rem;
-      align-items: start;
+      grid-template-columns: minmax(0, 1fr) auto;
+      gap: .8rem;
+      align-items: center;
       margin: 0;
       cursor: pointer;
     }
@@ -951,38 +955,84 @@ const planJson = JSON.stringify(planDays);
     .planning-check-mark {
       position: relative;
       display: inline-grid;
-      width: 1.25rem;
-      height: 1.25rem;
-      margin-top: .1rem;
+      width: 1.05rem;
+      height: 1.05rem;
       place-items: center;
-      border: 1px solid rgba(255,255,255,.28);
-      border-radius: .35rem;
-      background: rgba(255,255,255,.04);
-      box-shadow: inset 0 1px rgba(255,255,255,.06);
-      transition: background .16s ease, border-color .16s ease, box-shadow .16s ease;
+      border: 1px solid currentColor;
+      border-radius: 999px;
+      background: rgba(255,255,255,.06);
+      opacity: .9;
+      transition: background .16s ease, color .16s ease, transform .16s ease;
     }
     .planning-check-mark::after {
-      width: .56rem;
-      height: .32rem;
-      border: solid #111;
+      width: .48rem;
+      height: .28rem;
+      border: solid currentColor;
       border-width: 0 0 2px 2px;
       content: "";
       opacity: 0;
       transform: translateY(-1px) rotate(-45deg) scale(.75);
       transition: opacity .16s ease, transform .16s ease;
     }
-    .planning-task-check:hover .planning-check-mark,
-    .planning-task-check:focus-within .planning-check-mark {
-      border-color: rgba(var(--bd-accent-rgb), .8);
-      box-shadow: 0 0 0 .18rem rgba(var(--bd-accent-rgb), .12), inset 0 1px rgba(255,255,255,.08);
+    .planning-task-action {
+      display: inline-flex;
+      min-width: 6.4rem;
+      min-height: 2.45rem;
+      align-items: center;
+      justify-content: center;
+      gap: .42rem;
+      padding: .38rem .72rem;
+      color: var(--bd-accent);
+      font-size: .82rem;
+      font-weight: 850;
+      line-height: 1;
+      border: 1px solid rgba(var(--bd-accent-rgb), .48);
+      border-radius: .55rem;
+      background:
+        linear-gradient(180deg, rgba(var(--bd-accent-rgb), .14), rgba(var(--bd-accent-rgb), .055)),
+        rgba(0,0,0,.18);
+      box-shadow: inset 0 1px rgba(255,255,255,.05);
+      transition: transform .16s ease, border-color .16s ease, background .16s ease, box-shadow .16s ease, color .16s ease;
+      user-select: none;
+      white-space: nowrap;
     }
-    .planning-task-check input:checked + .planning-check-mark {
+    .planning-action-done {
+      display: none;
+    }
+    .planning-task-check:hover .planning-task-action,
+    .planning-task-check:focus-within .planning-task-action {
+      color: #111;
       border-color: var(--bd-accent);
       background: var(--bd-accent);
+      box-shadow: 0 .45rem 1rem rgba(var(--bd-accent-rgb), .15);
+      transform: translateY(-1px);
     }
-    .planning-task-check input:checked + .planning-check-mark::after {
+    .planning-task-check:hover .planning-check-mark,
+    .planning-task-check:focus-within .planning-check-mark {
+      background: rgba(0,0,0,.1);
+      transform: scale(1.04);
+    }
+    .planning-task-check input:checked ~ .planning-task-action {
+      color: #dff8ea;
+      border-color: rgba(66, 211, 146, .75);
+      background:
+        linear-gradient(180deg, rgba(66, 211, 146, .3), rgba(25, 135, 84, .22)),
+        rgba(25, 135, 84, .24);
+    }
+    .planning-task-check input:checked ~ .planning-task-action .planning-check-mark {
+      color: #0f2e1b;
+      border-color: #42d392;
+      background: #42d392;
+    }
+    .planning-task-check input:checked ~ .planning-task-action .planning-check-mark::after {
       opacity: 1;
       transform: translateY(-1px) rotate(-45deg) scale(1);
+    }
+    .planning-task-check input:checked ~ .planning-task-action .planning-action-pending {
+      display: none;
+    }
+    .planning-task-check input:checked ~ .planning-task-action .planning-action-done {
+      display: inline;
     }
     .planning-task strong,
     .planning-task small,
@@ -1015,7 +1065,6 @@ const planJson = JSON.stringify(planDays);
       line-height: 1.45;
     }
     .planning-task details {
-      margin-left: 1.95rem;
       color: var(--bs-secondary-color);
       font-size: .9rem;
     }
@@ -1121,6 +1170,13 @@ const planJson = JSON.stringify(planDays);
       .planning-load {
         align-items: start;
         justify-items: start;
+      }
+      .planning-task-check {
+        grid-template-columns: minmax(0, 1fr);
+      }
+      .planning-task-action {
+        width: 100%;
+        min-width: 0;
       }
     }
   </style>
