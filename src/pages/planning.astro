@@ -9,6 +9,7 @@ type PlanTask = {
   label: string;
   detail: string;
   minutes: number;
+  effort: 'minimo' | 'normal' | 'extra';
   href?: string;
 };
 
@@ -60,7 +61,7 @@ const priorityTopics = [...topics].sort((a, b) => {
 const criticalTopics = priorityTopics.filter((topic) => topic.prioridad === 'crítica');
 const practicalTopics = orderedTopics.filter((topic) => ['III', 'IV', 'V'].includes(topic.grupo));
 
-const start = new Date('2026-07-06T12:00:00');
+const start = new Date('2026-07-18T12:00:00');
 const end = new Date('2027-05-31T12:00:00');
 const phaseOf = (date: Date) => {
   if (date < new Date('2026-09-14T00:00:00')) return 'Vuelta 1';
@@ -69,26 +70,26 @@ const phaseOf = (date: Date) => {
   if (date < new Date('2027-04-15T00:00:00')) return 'Preparación 2º ejercicio';
   return 'Preparación 3º ejercicio';
 };
-const isVacation = (dateKey: string) => dateKey >= '2026-08-22' && dateKey <= '2026-08-30';
+const isVacation = (dateKey: string) => dateKey >= '2026-08-19' && dateKey <= '2026-08-30';
 const iso = (date: Date) => date.toISOString().slice(0, 10);
 const addDays = (date: Date, days: number) => {
   const next = new Date(date);
   next.setDate(next.getDate() + days);
   return next;
 };
-let studyCursor = 0;
+let studyCursor = 9;
 let reviewCursor = 0;
 let criticalCursor = 0;
 let practicalCursor = 0;
 let dayNumber = 0;
-const introducedTopics: typeof orderedTopics = [];
-const topicReadCounts = new Map<string, number>();
+const introducedTopics: typeof orderedTopics = orderedTopics.slice(0, studyCursor);
+const topicReadCounts = new Map<string, number>(introducedTopics.map((topic) => [topic.code, 1]));
 
 const pickFromIntroduced = (offset = 0) => {
   const pool = introducedTopics.length ? introducedTopics : [orderedTopics[0]];
   return pool[(reviewCursor + offset) % pool.length];
 };
-const introduceTopicTask = (dateKey: string, minutes: number): PlanTask => {
+const introduceTopicTask = (dateKey: string, minutes: number, effort: PlanTask['effort'] = 'minimo'): PlanTask => {
   const topic = orderedTopics[studyCursor % orderedTopics.length];
   const count = (topicReadCounts.get(topic.code) ?? 0) + 1;
   topicReadCounts.set(topic.code, count);
@@ -101,10 +102,11 @@ const introduceTopicTask = (dateKey: string, minutes: number): PlanTask => {
     label: `${labelPrefix} Tema ${topic.code}`,
     detail: `${topic.title}. Lectura activa: estructura, artículos/plazos y 5 ideas que puedan caer en test.`,
     minutes,
+    effort,
     href: topicUrl(topic.slug),
   };
 };
-const rereadRecentTask = (dateKey: string, minutes: number): PlanTask => {
+const rereadRecentTask = (dateKey: string, minutes: number, effort: PlanTask['effort'] = 'normal'): PlanTask => {
   const index = ((studyCursor - 1 - (reviewCursor % 2)) % orderedTopics.length + orderedTopics.length) % orderedTopics.length;
   const topic = orderedTopics[index] ?? orderedTopics[0];
   reviewCursor += 1;
@@ -114,10 +116,11 @@ const rereadRecentTask = (dateKey: string, minutes: number): PlanTask => {
     label: `Releer Tema ${topic.code}`,
     detail: `${topic.title}. Segunda lectura rápida: índice, epígrafes, artículos y errores de test.`,
     minutes,
+    effort,
     href: topicUrl(topic.slug),
   };
 };
-const reviewTask = (dateKey: string, minutes: number, scope = 'repaso'): PlanTask => {
+const reviewTask = (dateKey: string, minutes: number, scope = 'repaso', effort: PlanTask['effort'] = 'normal'): PlanTask => {
   const topic = pickFromIntroduced();
   reviewCursor += 1;
   return {
@@ -126,10 +129,11 @@ const reviewTask = (dateKey: string, minutes: number, scope = 'repaso'): PlanTas
     label: `${scope}: Tema ${topic.code}`,
     detail: `${topic.title}. Relee solo esquema, marcas y fallos; no vuelvas a estudiar todo el tema.`,
     minutes,
+    effort,
     href: topicUrl(topic.slug),
   };
 };
-const testTask = (dateKey: string, minutes: number, label = '3 tests de 15 preguntas'): PlanTask => {
+const testTask = (dateKey: string, minutes: number, label = '3 tests de 15 preguntas', effort: PlanTask['effort'] = 'normal'): PlanTask => {
   const t1 = pickFromIntroduced(0);
   const t2 = pickFromIntroduced(1);
   const t3 = pickFromIntroduced(2);
@@ -139,10 +143,11 @@ const testTask = (dateKey: string, minutes: number, label = '3 tests de 15 pregu
     label,
     detail: `Solo con temas ya vistos: ${t1.code}, ${t2.code} y ${t3.code}. Corrige al momento y guarda fallos/dudosas.`,
     minutes,
+    effort,
     href: testUrl,
   };
 };
-const practicalTask = (dateKey: string, minutes: number): PlanTask => {
+const practicalTask = (dateKey: string, minutes: number, effort: PlanTask['effort'] = 'minimo'): PlanTask => {
   const topic = practicalTopics[practicalCursor % practicalTopics.length];
   practicalCursor += 1;
   return {
@@ -151,10 +156,11 @@ const practicalTask = (dateKey: string, minutes: number): PlanTask => {
     label: `Supuesto práctico sobre Tema ${topic.code}`,
     detail: `${topic.title}. Resuelve con estructura: hechos, norma aplicable, trámites, órgano competente y conclusión.`,
     minutes,
+    effort,
     href: practicalUrl,
   };
 };
-const developmentTask = (dateKey: string, minutes: number): PlanTask => {
+const developmentTask = (dateKey: string, minutes: number, effort: PlanTask['effort'] = 'minimo'): PlanTask => {
   const pool = criticalTopics.length ? criticalTopics : priorityTopics;
   const topic = pool[criticalCursor % pool.length];
   criticalCursor += 1;
@@ -164,6 +170,7 @@ const developmentTask = (dateKey: string, minutes: number): PlanTask => {
     label: `Desarrollo escrito Tema ${topic.code}`,
     detail: `${topic.title}. Memoriza índice, redacta introducción y canta el orden completo sin mirar.`,
     minutes,
+    effort,
     href: developmentUrl,
   };
 };
@@ -182,56 +189,56 @@ const buildDay = (date: Date): PlanDay => {
   if (isVacation(dateKey)) {
     title = 'Vacaciones: mantenimiento';
     focus = 'Sin temario nuevo. Poco repaso y tests diarios para no perder ritmo.';
-    tasks.push(testTask(dateKey, 45, '3 tests de 15 preguntas'), reviewTask(dateKey, 25, 'Repaso ligero'));
+    tasks.push(testTask(dateKey, 30, '2 tests de 15 preguntas', 'minimo'), reviewTask(dateKey, 25, 'Repaso ligero', 'normal'));
   } else if (phase === 'Vuelta 1') {
     title = 'Temario seguido + test';
-    focus = 'Leer varios temas en orden oficial y testar solo lo ya visto.';
+    focus = 'Continuar desde el Grupo II sin arrastrar días pasados; si vas fuerte, adelanta la siguiente tarea futura en modo extra.';
     if (isSaturday) {
-      tasks.push(introduceTopicTask(dateKey, 55), introduceTopicTask(dateKey, 55), rereadRecentTask(dateKey, 35), testTask(dateKey, 75, '5 tests de 15 preguntas'));
+      tasks.push(introduceTopicTask(dateKey, 60), introduceTopicTask(dateKey, 50, 'normal'), rereadRecentTask(dateKey, 30, 'normal'), testTask(dateKey, 60, '4 tests de 15 preguntas', 'normal'));
     } else if (isSunday) {
-      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas'), reviewTask(dateKey, 45, 'Repaso de fallos'), reviewTask(dateKey, 45, 'Segunda vuelta rápida'));
+      tasks.push(testTask(dateKey, 60, '4 tests de 15 preguntas', 'minimo'), reviewTask(dateKey, 40, 'Repaso de fallos', 'normal'), reviewTask(dateKey, 35, 'Segunda vuelta rápida', 'normal'));
     } else {
-      tasks.push(introduceTopicTask(dateKey, 60), rereadRecentTask(dateKey, 30), testTask(dateKey, 60), reviewTask(dateKey, 30));
+      tasks.push(introduceTopicTask(dateKey, 60), testTask(dateKey, 45, '3 tests de 15 preguntas', 'normal'), reviewTask(dateKey, 25, 'Repaso breve', 'normal'));
     }
   } else if (phase === 'Consolidación') {
     title = 'Relectura + test fuerte';
     focus = 'Segundas lecturas en orden, muchos tests y corrección de fallos.';
     if (isSaturday) {
-      tasks.push(testTask(dateKey, 90, 'Simulacro de 70 preguntas'), reviewTask(dateKey, 60, 'Corrección'), introduceTopicTask(dateKey, 45), introduceTopicTask(dateKey, 45));
+      tasks.push(testTask(dateKey, 90, 'Simulacro de 70 preguntas', 'minimo'), reviewTask(dateKey, 60, 'Corrección', 'normal'), introduceTopicTask(dateKey, 45, 'normal'));
     } else if (isSunday) {
-      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas'), reviewTask(dateKey, 60, 'Fallos de la semana'));
+      tasks.push(testTask(dateKey, 75, '5 tests de 15 preguntas', 'minimo'), reviewTask(dateKey, 55, 'Fallos de la semana', 'normal'));
     } else {
-      tasks.push(introduceTopicTask(dateKey, 40), testTask(dateKey, 75, '5 tests de 15 preguntas'), reviewTask(dateKey, 35, 'Fallos'), introduceTopicTask(dateKey, 30));
+      tasks.push(introduceTopicTask(dateKey, 45), testTask(dateKey, 60, '4 tests de 15 preguntas', 'normal'), reviewTask(dateKey, 35, 'Fallos', 'normal'));
     }
   } else if (phase === 'Ventana 1º ejercicio') {
     title = 'Modo test';
     focus = 'Primer ejercicio: simulacro, velocidad y fallos.';
     if (isSaturday) {
-      tasks.push(testTask(dateKey, 100, 'Simulacro oficial de 70 preguntas'), reviewTask(dateKey, 80, 'Corrección profunda'), testTask(dateKey, 45, '3 tests de 15 preguntas'));
+      tasks.push(testTask(dateKey, 100, 'Simulacro oficial de 70 preguntas', 'minimo'), reviewTask(dateKey, 80, 'Corrección profunda', 'normal'), testTask(dateKey, 45, '3 tests de 15 preguntas', 'normal'));
     } else if (isSunday) {
-      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas'), reviewTask(dateKey, 60, 'Fallos y dudosas'));
+      tasks.push(testTask(dateKey, 90, '6 tests de 15 preguntas', 'minimo'), reviewTask(dateKey, 60, 'Fallos y dudosas', 'normal'));
     } else {
-      tasks.push(testTask(dateKey, 75, '5 tests de 15 preguntas'), reviewTask(dateKey, 45, 'Fallos y dudosas'), introduceTopicTask(dateKey, 45));
+      tasks.push(testTask(dateKey, 75, '5 tests de 15 preguntas', 'minimo'), reviewTask(dateKey, 45, 'Fallos y dudosas', 'normal'), introduceTopicTask(dateKey, 45, 'normal'));
     }
   } else if (phase === 'Preparación 2º ejercicio') {
     title = 'Supuesto práctico con mantenimiento de test';
     focus = 'Entrenar casos de grupos III, IV y V y conservar el nivel de preguntas tipo test.';
     if (isSaturday) {
-      tasks.push(practicalTask(dateKey, 130), reviewTask(dateKey, 80, 'normativa aplicable'), testTask(dateKey, 45, 'Test mantenimiento 40 preguntas'), developmentTask(dateKey, 45));
+      tasks.push(practicalTask(dateKey, 130), reviewTask(dateKey, 80, 'normativa aplicable', 'normal'), testTask(dateKey, 45, 'Test mantenimiento 40 preguntas', 'normal'), developmentTask(dateKey, 45, 'normal'));
     } else if (isSunday) {
-      tasks.push(practicalTask(dateKey, 110), developmentTask(dateKey, 80), reviewTask(dateKey, 50, 'fallos prácticos'));
+      tasks.push(practicalTask(dateKey, 110), developmentTask(dateKey, 80, 'normal'), reviewTask(dateKey, 50, 'fallos prácticos', 'normal'));
     } else {
-      tasks.push(practicalTask(dateKey, 75), reviewTask(dateKey, 55, 'norma y plazos'), testTask(dateKey, 30, 'Test mantenimiento 25 preguntas'), developmentTask(dateKey, 20));
+      tasks.push(practicalTask(dateKey, 75), reviewTask(dateKey, 55, 'norma y plazos', 'normal'), testTask(dateKey, 30, 'Test mantenimiento 25 preguntas', 'normal'), developmentTask(dateKey, 20, 'normal'));
     }
   } else {
     title = 'Desarrollo final y defensa de estructura';
     focus = 'Memorizar índices, redactar temas completos y mantener una mínima agilidad de test.';
     if (isSaturday) {
-      tasks.push(developmentTask(dateKey, 140), reviewTask(dateKey, 70, 'comparativa de temas'), testTask(dateKey, 40, 'Test mantenimiento 35 preguntas'), practicalTask(dateKey, 50));
+      tasks.push(developmentTask(dateKey, 140), reviewTask(dateKey, 70, 'comparativa de temas', 'normal'), testTask(dateKey, 40, 'Test mantenimiento 35 preguntas', 'normal'), practicalTask(dateKey, 50, 'normal'));
     } else if (isSunday) {
-      tasks.push(developmentTask(dateKey, 120), reviewTask(dateKey, 70, 'canto de índices'), practicalTask(dateKey, 50));
+      tasks.push(developmentTask(dateKey, 120), reviewTask(dateKey, 70, 'canto de índices', 'normal'), practicalTask(dateKey, 50, 'normal'));
     } else {
-      tasks.push(developmentTask(dateKey, 80), reviewTask(dateKey, 55, 'artículos y plazos'), testTask(dateKey, 25, 'Test mantenimiento 20 preguntas'), practicalTask(dateKey, 20));
+      tasks.push(developmentTask(dateKey, 80), reviewTask(dateKey, 55, 'artículos y plazos', 'normal'), testTask(dateKey, 25, 'Test mantenimiento 20 preguntas', 'normal'), practicalTask(dateKey, 20, 'normal'));
     }
   }
 
@@ -244,6 +251,7 @@ const buildDay = (date: Date): PlanDay => {
       label: 'Descanso activo',
       detail: 'Solo lectura ligera o recuperación si vas muy justo.',
       minutes: 30,
+      effort: 'minimo',
     });
   }
 
@@ -294,6 +302,7 @@ const planJson = JSON.stringify(planDays);
   <script define:vars={{ planJson }}>
     const PLAN = JSON.parse(planJson);
     const DONE_KEY = 'oposicion-planning-done-v1';
+    const MODE_KEY = 'oposicion-planning-mode-v1';
     const calendarRoot = document.getElementById('planning-calendar');
     const dayDetail = document.getElementById('day-detail');
     const monthTitle = document.getElementById('month-title');
@@ -313,6 +322,11 @@ const planJson = JSON.stringify(planDays);
     visibleMonth = new Date(visibleMonth.getFullYear(), visibleMonth.getMonth(), 1, 12);
     let selectedDate = todayInPlan ? todayIso : PLAN[0].date;
     const dayByDate = new Map(PLAN.map((day) => [day.date, day]));
+    const modeLabel = {
+      minimo: 'Mínimo',
+      normal: 'Normal',
+      extra: 'Extra',
+    };
 
     const readDone = () => {
       try {
@@ -323,6 +337,16 @@ const planJson = JSON.stringify(planDays);
       }
     };
     const writeDone = (done) => localStorage.setItem(DONE_KEY, JSON.stringify(done));
+    const readModes = () => {
+      try {
+        const raw = JSON.parse(localStorage.getItem(MODE_KEY) ?? '{}');
+        return raw && typeof raw === 'object' ? raw : {};
+      } catch {
+        return {};
+      }
+    };
+    const writeModes = (modes) => localStorage.setItem(MODE_KEY, JSON.stringify(modes));
+    const modeForDate = (date) => readModes()[date] ?? 'normal';
     const isDone = (done, id) => Boolean(done[id]);
     const taskClass = (kind) => `planning-task planning-task--${kind}`;
     const kindLabel = {
@@ -363,6 +387,31 @@ const planJson = JSON.stringify(planDays);
       return { main: raw, sub: `${task.minutes} min` };
     };
     const monthKey = (date) => `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}`;
+    const loadLabel = (minutes) => minutes >= 60 ? `${Math.floor(minutes / 60)} h${minutes % 60 ? ` ${minutes % 60} min` : ''}` : `${minutes} min`;
+    const baseTasksForMode = (day, mode) => day.tasks.filter((task) => {
+        if (mode === 'minimo') return task.effort === 'minimo';
+        if (mode === 'extra') return task.effort !== 'extra';
+        return task.effort !== 'extra';
+      });
+    const visibleTasksForMode = (day, done, mode) => {
+      const baseTasks = baseTasksForMode(day, mode);
+
+      if (mode !== 'extra') return baseTasks;
+
+      const advanceTasks = PLAN
+        .filter((futureDay) => futureDay.date > day.date)
+        .flatMap((futureDay) => futureDay.tasks.map((task) => ({ ...task, advanceFrom: futureDay.date })))
+        .filter((task) => !isDone(done, task.id))
+        .filter((task) => ['estudio', 'practico', 'desarrollo'].includes(task.kind))
+        .slice(0, 1)
+        .map((task) => ({
+          ...task,
+          label: `Adelantar: ${task.label}`,
+          detail: `${task.detail} Tarea prevista para ${dayFmt.format(new Date(`${task.advanceFrom}T12:00:00`))}.`,
+        }));
+
+      return [...baseTasks, ...advanceTasks];
+    };
 
     const taskTemplate = (task, done, carried = false) => `
       <div class="${taskClass(task.kind)} ${isDone(done, task.id) ? 'is-done' : ''}">
@@ -370,7 +419,7 @@ const planJson = JSON.stringify(planDays);
           <input type="checkbox" data-task-id="${task.id}" ${isDone(done, task.id) ? 'checked' : ''} />
           <span>
             <strong>${escapeHtml(task.label)}</strong>
-            <small>${carried ? 'Arrastrado · ' : ''}${task.minutes} min</small>
+            <small>${carried ? 'Arrastrado · ' : ''}${task.advanceFrom ? `Previsto ${task.advanceFrom} · ` : ''}${task.minutes} min</small>
           </span>
         </label>
         <details>
@@ -380,15 +429,21 @@ const planJson = JSON.stringify(planDays);
         </details>
       </div>`;
 
-    const getCarriedTasks = (done) => PLAN
-      .filter((day) => day.date < todayIso)
-      .flatMap((day) => day.tasks.map((task) => ({ ...task, sourceDate: day.date })))
-      .filter((task) => !isDone(done, task.id));
+    const getCarriedTasks = (done) => {
+      const modes = readModes();
+      return PLAN
+        .filter((day) => day.date < todayIso)
+        .flatMap((day) => baseTasksForMode(day, modes[day.date] ?? 'normal').map((task) => ({ ...task, sourceDate: day.date })))
+        .filter((task) => !isDone(done, task.id));
+    };
 
     const renderDetail = (done) => {
       const day = dayByDate.get(selectedDate) ?? PLAN[0];
+      const mode = modeForDate(day.date);
+      const visibleTasks = visibleTasksForMode(day, done, mode);
       const carried = getCarriedTasks(done);
-      const completed = day.tasks.filter((task) => isDone(done, task.id)).length;
+      const completed = visibleTasks.filter((task) => isDone(done, task.id)).length;
+      const visibleMinutes = visibleTasks.reduce((sum, task) => sum + task.minutes, 0);
       const carriedHtml = selectedDate === todayIso
         ? (carried.length
           ? `<section class="planning-carried"><h3>Arrastre (${carried.length})</h3>${carried.slice(0, 6).map((task) => taskTemplate(task, done, true)).join('')}${carried.length > 6 ? `<p class="text-body-secondary small mb-0">+${carried.length - 6} pendientes anteriores.</p>` : ''}</section>`
@@ -402,12 +457,21 @@ const planJson = JSON.stringify(planDays);
               <h2>${dayFmt.format(new Date(`${day.date}T12:00:00`))}</h2>
               <p>${escapeHtml(day.title)}</p>
             </div>
+            <fieldset class="planning-mode" aria-label="Carga de estudio del día">
+              ${['minimo', 'normal', 'extra'].map((option) => `
+                <label class="${mode === option ? 'is-active' : ''}">
+                  <input type="radio" name="planning-mode-${day.date}" value="${option}" data-mode-date="${day.date}" ${mode === option ? 'checked' : ''} />
+                  <span>${modeLabel[option]}</span>
+                </label>
+              `).join('')}
+            </fieldset>
             <div class="planning-load">
-              <strong>${day.load}</strong>
-              <small>${completed}/${day.tasks.length}</small>
+              <strong>${loadLabel(visibleMinutes)}</strong>
+              <small>${completed}/${visibleTasks.length} · ${modeLabel[mode]}</small>
             </div>
           </div>
-          <div class="planning-task-list">${day.tasks.map((task) => taskTemplate(task, done)).join('')}</div>
+          <p class="planning-focus">${escapeHtml(day.focus)}</p>
+          <div class="planning-task-list">${visibleTasks.map((task) => taskTemplate(task, done)).join('')}</div>
         </article>
         ${carriedHtml}`;
     };
@@ -439,14 +503,16 @@ const planJson = JSON.stringify(planDays);
         const dateKey = toLocalIso(date);
         const day = dayByDate.get(dateKey);
         if (!day) return `<div class="calendar-day calendar-day--outside"><span>${date.getDate()}</span></div>`;
-        const completed = day.tasks.filter((task) => isDone(done, task.id)).length;
-        const mainStudy = day.tasks.find((task) => task.kind === 'estudio')
-          ?? day.tasks.find((task) => task.kind === 'practico')
-          ?? day.tasks.find((task) => task.kind === 'desarrollo')
-          ?? day.tasks[0];
-        const kinds = [...new Set(day.tasks.map((task) => task.kind))].slice(0, 4);
+        const mode = modeForDate(day.date);
+        const visibleTasks = visibleTasksForMode(day, done, mode);
+        const completed = visibleTasks.filter((task) => isDone(done, task.id)).length;
+        const mainStudy = visibleTasks.find((task) => task.kind === 'estudio')
+          ?? visibleTasks.find((task) => task.kind === 'practico')
+          ?? visibleTasks.find((task) => task.kind === 'desarrollo')
+          ?? visibleTasks[0];
+        const kinds = [...new Set(visibleTasks.map((task) => task.kind))].slice(0, 4);
         const label = splitCalendarLabel(mainStudy);
-        const pct = Math.round((completed / day.tasks.length) * 100);
+        const pct = visibleTasks.length ? Math.round((completed / visibleTasks.length) * 100) : 0;
         return `
           <button class="calendar-day ${day.date === selectedDate ? 'is-selected' : ''} ${day.date === todayIso ? 'is-today' : ''}" type="button" data-date="${day.date}">
             <span class="calendar-day__number">${date.getDate()}</span>
@@ -468,6 +534,14 @@ const planJson = JSON.stringify(planDays);
       if (input.checked) done[input.dataset.taskId] = Date.now();
       else delete done[input.dataset.taskId];
       writeDone(done);
+      renderCalendar(true);
+    });
+    document.addEventListener('change', (event) => {
+      const input = event.target;
+      if (!(input instanceof HTMLInputElement) || !input.dataset.modeDate) return;
+      const modes = readModes();
+      modes[input.dataset.modeDate] = input.value;
+      writeModes(modes);
       renderCalendar(true);
     });
 
@@ -531,6 +605,12 @@ const planJson = JSON.stringify(planDays);
     .planning-day-head p {
       margin-bottom: 0;
       color: var(--bs-secondary-color);
+    }
+    .planning-focus {
+      margin: .7rem 0 0;
+      color: var(--bs-secondary-color);
+      font-size: .95rem;
+      line-height: 1.45;
     }
     .planning-board {
       display: grid;
@@ -673,6 +753,48 @@ const planJson = JSON.stringify(planDays);
       justify-items: end;
       color: var(--bs-secondary-color);
     }
+    .planning-mode {
+      display: inline-flex;
+      gap: .25rem;
+      align-items: center;
+      align-self: center;
+      margin: 0;
+      padding: .22rem;
+      border: 1px solid var(--bs-border-color);
+      border-radius: .35rem;
+      background: var(--bs-body-bg);
+    }
+    .planning-mode label {
+      margin: 0;
+    }
+    .planning-mode input {
+      position: absolute;
+      inline-size: 1px;
+      block-size: 1px;
+      opacity: 0;
+      pointer-events: none;
+    }
+    .planning-mode span {
+      display: inline-flex;
+      min-height: 2rem;
+      align-items: center;
+      justify-content: center;
+      padding: .25rem .55rem;
+      color: var(--bs-secondary-color);
+      font-size: .82rem;
+      font-weight: 800;
+      border-radius: .22rem;
+      cursor: pointer;
+    }
+    .planning-mode label:hover span,
+    .planning-mode label:focus-within span {
+      color: var(--bs-emphasis-color);
+      background: var(--bs-secondary-bg);
+    }
+    .planning-mode label.is-active span {
+      color: #111;
+      background: var(--bd-accent);
+    }
     .planning-load strong,
     .planning-day-head > strong {
       color: var(--bd-accent);
@@ -796,6 +918,20 @@ const planJson = JSON.stringify(planDays);
       }
       .calendar-day__chips {
         display: none;
+      }
+      .planning-mode {
+        order: 3;
+        width: 100%;
+      }
+      .planning-mode label {
+        flex: 1;
+      }
+      .planning-mode span {
+        width: 100%;
+      }
+      .planning-load {
+        align-items: start;
+        justify-items: start;
       }
     }
   </style>
