@@ -3,12 +3,12 @@ tema: 15
 titulo: "Ley de Procedimiento Administrativo Común de las Administraciones Públicas. Disposiciones generales. Fases del procedimiento administrativo: iniciación, desarrollo y terminación. Obligación de resolver. El silencio administrativo."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP), texto consolidado:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 >
-> 🔗 **Constitución Española (arts. 9.3, 103, 105, 106):**
+> 🔗 Constitución Española (arts. 9.3, 103, 105, 106):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 
 ---
@@ -17,7 +17,7 @@ titulo: "Ley de Procedimiento Administrativo Común de las Administraciones Púb
 
 ### 1.1 Contexto y objeto
 
-La **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)** sustituyó a la Ley 30/1992, junto con la Ley 40/2015 (LRJSP), en el marco de la reforma integral del Derecho Administrativo de 2015.
+La <mark>Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPACAP)</mark> sustituyó a la Ley 30/1992, junto con la Ley 40/2015 (LRJSP), en el marco de la reforma integral del Derecho Administrativo de 2015.
 
 Su objeto es regular:
 - Los **derechos y garantías** de los ciudadanos en sus relaciones con las Administraciones.
@@ -42,14 +42,14 @@ El procedimiento administrativo es el **cauce formal** a través del cual la Adm
 
 | Principio | Contenido |
 |---|---|
-| **Legalidad** | El procedimiento se ajusta a la ley; cualquier infracción puede dar lugar a nulidad o anulabilidad |
-| **Eficacia** | La tramitación debe conseguir el resultado previsto con agilidad |
-| **Celeridad** | Impulso de oficio, concentración de trámites, plazos breves |
-| **Economía procesal** | Evitar trámites innecesarios, acumular expedientes relacionados |
-| **Contradicción** | El interesado puede alegar, proponer prueba y conocer el expediente |
-| **Imparcialidad** | El instructor no puede tener interés en el asunto (abstención y recusación) |
-| **Transparencia** | Acceso al expediente, motivación de las resoluciones |
-| **Simplicidad** | Procedimientos claros y accesibles para el ciudadano |
+| Legalidad | El procedimiento se ajusta a la ley; cualquier infracción puede dar lugar a nulidad o anulabilidad |
+| Eficacia | La tramitación debe conseguir el resultado previsto con agilidad |
+| Celeridad | Impulso de oficio, concentración de trámites, plazos breves |
+| Economía procesal | Evitar trámites innecesarios, acumular expedientes relacionados |
+| Contradicción | El interesado puede alegar, proponer prueba y conocer el expediente |
+| Imparcialidad | El instructor no puede tener interés en el asunto (abstención y recusación) |
+| Transparencia | Acceso al expediente, motivación de las resoluciones |
+| Simplicidad | Procedimientos claros y accesibles para el ciudadano |
 
 ---
 
@@ -103,7 +103,7 @@ Los interesados en el procedimiento tienen derecho a:
 
 Los plazos en el procedimiento administrativo son obligatorios tanto para los interesados como para la Administración:
 
-- Los plazos se computan en **días hábiles**, salvo que se indique expresamente que son naturales (se excluyen sábados, domingos y festivos nacionales, autonómicos o locales donde radique el órgano).
+- Los plazos se computan en <mark>días hábiles</mark>, salvo que se indique expresamente que son naturales (se excluyen sábados, domingos y festivos nacionales, autonómicos o locales donde radique el órgano).
 - Si el último día es inhábil, el plazo se prorroga al **primer día hábil siguiente**.
 - Los plazos expresados en **meses o años** se cuentan de fecha a fecha.
 
@@ -151,7 +151,7 @@ Las solicitudes deben contener:
 - **Órgano, centro o unidad** a la que se dirige.
 - Cualquier otro dato o documento que se exija expresamente.
 
-Si la solicitud presenta defectos o falta de documentos, la Administración requerirá al interesado para que los **subsane en el plazo de 10 días hábiles**, con indicación de que si no lo hace se le tendrá por desistido (art. 68 LPACAP).
+Si la solicitud presenta defectos o falta de documentos, la Administración requerirá al interesado para que los <mark>subsane en el plazo de 10 días hábiles</mark>, con indicación de que si no lo hace se le tendrá por desistido (art. 68 LPACAP).
 
 #### Medidas provisionales (art. 56 LPACAP)
 Antes o durante la tramitación, el órgano competente puede adoptar medidas provisionales para asegurar la eficacia de la resolución que pudiera recaer. Estas medidas no pueden:
@@ -169,22 +169,22 @@ La instrucción es la fase en que se realizan todos los actos necesarios para de
 Los interesados pueden, en cualquier momento del procedimiento anterior al trámite de audiencia, aducir **alegaciones** y aportar documentos y otros elementos de juicio. La Administración está obligada a tenerlos en cuenta.
 
 #### 3.2.2 Prueba (art. 77 LPACAP)
-Los hechos relevantes pueden acreditarse por cualquier medio de prueba admisible en Derecho. El órgano instructor decidirá sobre la pertinencia de las pruebas propuestas. El período de prueba tiene una duración no superior a **30 días** ni inferior a **10 días**.
+Los hechos relevantes pueden acreditarse por cualquier medio de prueba admisible en Derecho. El órgano instructor decidirá sobre la pertinencia de las pruebas propuestas. El período de prueba tiene una duración no superior a <mark>30 días</mark> ni inferior a <mark>10 días</mark>.
 
 #### 3.2.3 Informes (arts. 79-80 LPACAP)
 Los informes son pronunciamientos de otros órganos sobre el asunto:
 
 | Tipo | Descripción |
 |---|---|
-| **Preceptivos** | Exigidos por la ley. Deben solicitarse obligatoriamente |
-| **Facultativos** | No exigidos por la ley, pero la Administración puede solicitarlos |
-| **Vinculantes** | Obligan al órgano instructor a seguir su criterio |
-| **No vinculantes** | Orientan, pero el órgano instructor puede apartarse de ellos motivadamente |
+| Preceptivos | Exigidos por la ley. Deben solicitarse obligatoriamente |
+| Facultativos | No exigidos por la ley, pero la Administración puede solicitarlos |
+| Vinculantes | Obligan al órgano instructor a seguir su criterio |
+| No vinculantes | Orientan, pero el órgano instructor puede apartarse de ellos motivadamente |
 
-El plazo para emitir informes es de **10 días hábiles**, salvo que la norma establezca otro. Si no se emite en plazo, el procedimiento puede continuar (salvo que sea preceptivo y determinante).
+El plazo para emitir informes es de <mark>10 días hábiles</mark>, salvo que la norma establezca otro. Si no se emite en plazo, el procedimiento puede continuar (salvo que sea preceptivo y determinante).
 
 #### 3.2.4 Trámite de audiencia (art. 82 LPACAP)
-Una vez instruido el procedimiento y antes de dictar resolución, se otorga a los interesados un trámite de **audiencia** de entre **10 y 15 días hábiles** para que:
+Una vez instruido el procedimiento y antes de dictar resolución, se otorga a los interesados un trámite de <mark>audiencia de entre 10 y 15 días hábiles</mark> para que:
 - Examinen el expediente.
 - Formulen alegaciones.
 - Aporten documentos y justificaciones.
@@ -208,13 +208,13 @@ Es la forma **normal** de terminación. La resolución debe:
 - Indicar el **régimen de recursos** que procede contra ella.
 
 #### 3.3.2 Desistimiento y renuncia (art. 94 LPACAP)
-- **Desistimiento:** el interesado abandona el procedimiento pero conserva el derecho que le asistía. Puede volver a solicitarlo.
-- **Renuncia:** el interesado abandona el procedimiento y, además, renuncia al derecho que lo motivaba. No puede volver a ejercerlo.
+- Desistimiento: el interesado abandona el procedimiento pero conserva el derecho que le asistía. Puede volver a solicitarlo.
+- Renuncia: el interesado abandona el procedimiento y, además, renuncia al derecho que lo motivaba. No puede volver a ejercerlo.
 
 Ambas deben ser aceptadas por la Administración, que verificará que no hay perjuicio para el interés general o para terceros.
 
 #### 3.3.3 Caducidad (art. 95 LPACAP)
-Se produce cuando el procedimiento iniciado **a solicitud del interesado** queda paralizado por causa imputable a éste durante **más de 3 meses**. La Administración advertirá al interesado que si no activa el procedimiento en el plazo de **3 meses** desde la advertencia, se declarará la caducidad y se archivará el expediente.
+Se produce cuando el procedimiento iniciado <mark>a solicitud del interesado</mark> queda paralizado por causa imputable a éste durante <mark>más de 3 meses</mark>. La Administración advertirá al interesado que si no activa el procedimiento en el plazo de **3 meses** desde la advertencia, se declarará la caducidad y se archivará el expediente.
 
 En los procedimientos iniciados **de oficio** que pudieran tener efectos desfavorables para los interesados, la caducidad se produce también si la tramitación se paraliza por causa imputable a la Administración durante el plazo máximo establecido para resolver.
 
@@ -234,7 +234,7 @@ Las Administraciones pueden celebrar **acuerdos, pactos, convenios o contratos**
 
 La Administración está obligada a **dictar resolución expresa** y a notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación. Este deber es **absoluto e incondicional**: no puede excusarse en el silencio, la oscuridad o la insuficiencia de los preceptos aplicables.
 
-La resolución expresa se dictará en el **plazo máximo** fijado por la norma reguladora del procedimiento concreto. Si no hay plazo específico, el plazo **supletorio es de 3 meses** (art. 21.3 LPACAP).
+La resolución expresa se dictará en el **plazo máximo** fijado por la norma reguladora del procedimiento concreto. Si no hay plazo específico, el plazo <mark>supletorio es de 3 meses</mark> (art. 21.3 LPACAP).
 
 ### 4.2 Cómputo del plazo para resolver
 
@@ -277,7 +277,7 @@ En los procedimientos iniciados **a solicitud del interesado**, el vencimiento d
 - Cuándo la estimación implicara el ejercicio de **actividades que puedan dañar el medio ambiente**.
 - Cuándo la resolución expresa tenga carácter **desestimatorio** según la normativa aplicable y así se indique.
 
-> 💡 La regla general en procedimientos a instancia de parte es **silencio positivo**. El silencio negativo es la excepción y debe estar expresamente previsto.
+> 💡 La regla general en procedimientos a instancia de parte es <mark>silencio positivo</mark>. El silencio negativo es la excepción y debe estar expresamente previsto.
 
 **Efectos del silencio positivo:**
 - Se produce de forma **automática** por el mero transcurso del plazo.
@@ -295,18 +295,18 @@ El silencio es **negativo** (desestimatorio) en los supuestos excepcionales indi
 
 ### 5.4 Silencio en procedimientos de impugnación
 
-En los recursos administrativos el silencio es siempre **negativo** (desestimatorio), con una excepción: si el recurso de alzada se interpone contra la desestimación por silencio negativo de una solicitud, el silencio en el recurso de alzada se entiende **estimatorio**.
+En los recursos administrativos el silencio es siempre <mark>negativo</mark> (desestimatorio), con una excepción: si el recurso de alzada se interpone contra la desestimación por silencio negativo de una solicitud, el silencio en el recurso de alzada se entiende <mark>estimatorio</mark>.
 
 ### 5.5 Cuadro resumen del silencio administrativo
 
 | Tipo de procedimiento | Tipo de silencio | Efecto |
 |---|---|---|
-| **A instancia del interesado** (regla general) | **Positivo** | La solicitud se entiende estimada |
-| **A instancia del interesado** (excepciones legales) | **Negativo** | Ficción de desestimación; permite recurrir |
-| **De oficio** con efectos favorables | **Negativo** | Ficción de desestimación |
-| **De oficio** con efectos desfavorables | Caducidad del procedimiento | Se archiva sin efecto |
-| **Recursos administrativos** (regla general) | **Negativo** | Ficción de desestimación; permite recurrir |
-| **Recurso de alzada contra silencio negativo** | **Positivo** | El recurso se entiende estimado |
+| A instancia del interesado (regla general) | Positivo | La solicitud se entiende estimada |
+| A instancia del interesado (excepciones legales) | Negativo | Ficción de desestimación; permite recurrir |
+| De oficio con efectos favorables | Negativo | Ficción de desestimación |
+| De oficio con efectos desfavorables | Caducidad del procedimiento | Se archiva sin efecto |
+| Recursos administrativos (regla general) | Negativo | Ficción de desestimación; permite recurrir |
+| Recurso de alzada contra silencio negativo | Positivo | El recurso se entiende estimado |
 
 ---
 

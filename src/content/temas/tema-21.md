@@ -3,18 +3,18 @@ tema: 21
 titulo: "La transparencia de la actividad pública. El derecho de acceso a la información pública. La protección de datos de carácter personal."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTBG), texto consolidado:**
+> 🔗 Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTBG), texto consolidado:
 > https://www.boe.es/eli/es/l/2013/12/09/19/con
 >
-> 🔗 **Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (RGPD):**
+> 🔗 Reglamento (UE) 2016/679 del Parlamento Europeo y del Consejo, de 27 de abril de 2016 (RGPD):
 > https://www.boe.es/doue/2016/119/L00001-00088.pdf
 >
-> 🔗 **Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD):**
+> 🔗 Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD):
 > https://www.boe.es/eli/es/lo/2018/12/05/3/con
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP):**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP):
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 
 ---
@@ -23,14 +23,14 @@ titulo: "La transparencia de la actividad pública. El derecho de acceso a la in
 
 ### 1.1 Concepto y fundamento
 
-La **transparencia** es el principio en virtud del cual las Administraciones Públicas deben actuar de forma abierta y comprensible, facilitando a los ciudadanos el conocimiento de su organización, actividad, normativa, gestión de recursos públicos y resultados. Es el antídoto institucional frente a la opacidad y la corrupción.
+La <mark>transparencia</mark> es el principio en virtud del cual las Administraciones Públicas deben actuar de forma abierta y comprensible, facilitando a los ciudadanos el conocimiento de su organización, actividad, normativa, gestión de recursos públicos y resultados. Es el antídoto institucional frente a la opacidad y la corrupción.
 
 Su fundamento constitucional se encuentra en:
-- **Art. 9.2 CE:** los poderes públicos deben facilitar la participación de los ciudadanos en la vida política, económica, cultural y social.
-- **Art. 103.1 CE:** la Administración actúa con objetividad al servicio del interés general.
-- **Art. 105.b CE:** la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos.
+- Art. 9.2 CE: los poderes públicos deben facilitar la participación de los ciudadanos en la vida política, económica, cultural y social.
+- Art. 103.1 CE: la Administración actúa con objetividad al servicio del interés general.
+- Art. 105.b CE: la ley regulará el acceso de los ciudadanos a los archivos y registros administrativos.
 
-La norma básica estatal en materia de transparencia es la **Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTBG)**, que regula tres instrumentos complementarios:
+La norma básica estatal en materia de transparencia es la <mark>Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno (LTBG)</mark>, que regula tres instrumentos complementarios:
 1. La **publicidad activa** (información que la Administración pública de oficio).
 2. El **derecho de acceso** a la información pública (a petición del ciudadano).
 3. El **buen gobierno** (obligaciones de conducta de los responsables públicos).
@@ -41,11 +41,11 @@ La LTBG se aplica a:
 - La **Administración General del Estado, las Administraciones de las CC.AA. y de Ceuta y Melilla, y las Entidades Locales**.
 - Las **entidades gestoras y servicios comunes de la Seguridad Social**.
 - Los **organismos autónomos, agencias estatales, entidades públicas empresariales** y demás organismos del sector público.
-- Las **sociedades mercantiles** en cuyo capital social la participación directa o indirecta de las anteriores entidades sea superior al **50%**.
+- Las **sociedades mercantiles** en cuyo capital social la participación directa o indirecta de las anteriores entidades sea superior al <mark>50%</mark>.
 - Las **fundaciones del sector público** con participación mayoritaria.
 - Las **asociaciones** constituidas por las Administraciones, órganos o entidades previstas.
 - El **Congreso de los Diputados, el Senado, el TC, el CGPJ** y demás órganos constitucionales y de relevancia constitucional, en lo relativo a sus actividades sujetas a Derecho Administrativo.
-- Los **partidos políticos, organizaciones sindicales y empresariales** y las entidades privadas que perciban subvenciones o ayudas públicas de cuantía superior a **100.000 euros** o cuando al menos el **40%** del total de sus ingresos anuales tengan carácter de ayuda o subvención pública (con ciertas obligaciones específicas).
+- Los **partidos políticos, organizaciones sindicales y empresariales** y las entidades privadas que perciban subvenciones o ayudas públicas de cuantía superior a <mark>100.000 euros</mark> o cuando al menos el <mark>40%</mark> del total de sus ingresos anuales tengan carácter de ayuda o subvención pública (con ciertas obligaciones específicas).
 
 ---
 
@@ -53,7 +53,7 @@ La LTBG se aplica a:
 
 ### 2.1 Concepto
 
-La **publicidad activa** es la obligación de las entidades incluidas en el ámbito de aplicación de la LTBG de publicar de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad, sin necesidad de que el ciudadano lo solicite.
+La <mark>publicidad activa</mark> es la obligación de las entidades incluidas en el ámbito de aplicación de la LTBG de publicar de forma periódica y actualizada la información cuyo conocimiento sea relevante para garantizar la transparencia de su actividad, sin necesidad de que el ciudadano lo solicite.
 
 La información debe publicarse en las **sedes electrónicas o páginas web** de las entidades, de forma clara, estructurada y comprensible. El **Portal de la Transparencia** del Estado centraliza la publicación de la información de la AGE.
 
@@ -104,25 +104,25 @@ La publicidad activa no alcanza a la información cuya difusión pudiera perjudi
 
 ### 3.1 Concepto y titularidad (art. 12 LTBG)
 
-El **derecho de acceso a la información pública** es el derecho de toda persona a acceder a la información en poder de los sujetos incluidos en el ámbito de aplicación de la LTBG.
+El <mark>derecho de acceso a la información pública</mark> es el derecho de toda persona a acceder a la información en poder de los sujetos incluidos en el ámbito de aplicación de la LTBG.
 
-- **Titularidad universal:** cualquier persona, sin necesidad de ser ciudadano español ni residente, puede ejercerlo. No es necesario acreditar un interés concreto.
-- **Objeto:** la información pública, entendida como los **contenidos o documentos** (cualquiera que sea su formato o soporte) que obren en poder de los sujetos obligados y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.
+- Titularidad universal: cualquier persona, sin necesidad de ser ciudadano español ni residente, puede ejercerlo. No es necesario acreditar un interés concreto.
+- Objeto: la información pública, entendida como los **contenidos o documentos** (cualquiera que sea su formato o soporte) que obren en poder de los sujetos obligados y que hayan sido elaborados o adquiridos en el ejercicio de sus funciones.
 
 ### 3.2 Ejercicio del derecho (arts. 17-18 LTBG)
 
 La solicitud debe presentarse:
 - Por vía **electrónica** a través del **Portal de la Transparencia** u otros medios electrónicos de la entidad.
 - **Presencialmente** o por correo postal.
-- **Sin necesidad de motivar** la solicitud, aunque el solicitante puede indicar los motivos (que podrán ser tenidos en cuenta para resolver).
+- <mark>Sin necesidad de motivar</mark> la solicitud, aunque el solicitante puede indicar los motivos (que podrán ser tenidos en cuenta para resolver).
 
 La solicitud debe identificar la información solicitada con suficiente precisión. Si la Administración no puede identificarla, pedirá al solicitante que la **concrete en un plazo de 10 días**.
 
 ### 3.3 Plazo de resolución (art. 20 LTBG)
 
-La solicitud debe resolverse y notificarse en el plazo máximo de **1 mes** desde su recepción. Este plazo puede **ampliarse** hasta otro mes cuando el volumen o la complejidad de la información lo hagan necesario, previa notificación al solicitante.
+La solicitud debe resolverse y notificarse en el plazo máximo de <mark>1 mes</mark> desde su recepción. Este plazo puede <mark>ampliarse hasta otro mes</mark> cuando el volumen o la complejidad de la información lo hagan necesario, previa notificación al solicitante.
 
-Si transcurre el plazo sin resolución, la solicitud se entiende **desestimada** (silencio negativo).
+Si transcurre el plazo sin resolución, la solicitud se entiende <mark>desestimada</mark> (silencio negativo).
 
 ### 3.4 Límites al derecho de acceso (art. 14 LTBG)
 
@@ -144,7 +144,7 @@ El derecho de acceso puede ser **limitado** cuando el acceso a la información s
 | Garantía de confidencialidad en procesos decisorios | Deliberaciones internas previas a la decisión |
 | Protección del medio ambiente | Localización de especies amenazadas |
 
-Estos límites son de **aplicación restrictiva** y deben justificarse. El órgano resolutorio debe aplicar un **test de daño** (si el acceso causa perjuicio real al bien protegido) y un **test de interés público** (si el interés en divulgar supera al interés en proteger).
+Estos límites son de <mark>aplicación restrictiva</mark> y deben justificarse. El órgano resolutorio debe aplicar un <mark>test de daño</mark> y un <mark>test de interés público</mark>.
 
 ### 3.5 Protección de datos personales y acceso (art. 15 LTBG)
 
@@ -152,7 +152,7 @@ Cuándo la información solicitada contiene **datos personales** de terceros, se
 
 - Si los datos son **especialmente protegidos** (salud, ideología, religión, orientación sexual, origen racial…): el acceso solo se permite con el **consentimiento expreso** del afectado o amparado por ley.
 - Si los datos son de **carácter meramente identificativo** relacionados con la organización o actividad pública del afectado: el acceso se permite salvo que el afectado se oponga.
-- **Datos de personas fallecidas:** se permite el acceso salvo que el fallecido lo hubiera prohibido o existan razones fundadas de daño.
+- Datos de personas fallecidas: se permite el acceso salvo que el fallecido lo hubiera prohibido o existan razones fundadas de daño.
 
 ### 3.6 El Consejo de Transparencia y Buen Gobierno (arts. 33-40 LTBG)
 
@@ -186,20 +186,20 @@ Establece **principios de actuación** (de conducta y buen gobierno) y un **rég
 ### 5.1 Marco normativo
 
 La protección de datos personales en España se rige por:
-- El **Reglamento General de Protección de Datos (RGPD)**, Reglamento (UE) 2016/679, de 27 de abril de 2016, de aplicación directa en todos los Estados miembros desde el **25 de mayo de 2018**.
+- El **Reglamento General de Protección de Datos (RGPD)**, Reglamento (UE) 2016/679, de 27 de abril de 2016, de aplicación directa en todos los Estados miembros desde el <mark>25 de mayo de 2018</mark>.
 - La **Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales (LOPDGDD)**, que adapta el ordenamiento español al RGPD y amplía su ámbito a los derechos digitales.
 
 ### 5.2 Conceptos fundamentales (art. 4 RGPD)
 
 | Concepto | Definición |
 |---|---|
-| **Dato personal** | Toda información sobre una persona física identificada o identificable |
-| **Tratamiento** | Cualquier operación sobre datos personales: recogida, registro, organización, conservación, consulta, utilización, comunicación, modificación, supresión… |
-| **Responsable del tratamiento** | Persona física o jurídica que determina los fines y medios del tratamiento |
-| **Encargado del tratamiento** | Persona que trata datos por cuenta del responsable |
-| **Interesado** | Persona física cuyos datos son objeto de tratamiento |
-| **Consentimiento** | Manifestación de voluntad libre, específica, informada e inequívoca del interesado |
-| **Violación de seguridad** | Destrucción, pérdida, alteración o divulgación no autorizada de datos personales |
+| Dato personal | Toda información sobre una persona física identificada o identificable |
+| Tratamiento | Cualquier operación sobre datos personales: recogida, registro, organización, conservación, consulta, utilización, comunicación, modificación, supresión… |
+| Responsable del tratamiento | Persona física o jurídica que determina los fines y medios del tratamiento |
+| Encargado del tratamiento | Persona que trata datos por cuenta del responsable |
+| Interesado | Persona física cuyos datos son objeto de tratamiento |
+| Consentimiento | Manifestación de voluntad libre, específica, informada e inequívoca del interesado |
+| Violación de seguridad | Destrucción, pérdida, alteración o divulgación no autorizada de datos personales |
 
 ### 5.3 Principios del tratamiento de datos (art. 5 RGPD)
 
@@ -207,13 +207,13 @@ El tratamiento de datos personales debe respetar los siguientes principios:
 
 | Principio | Contenido |
 |---|---|
-| **Licitud, lealtad y transparencia** | Debe existir una base jurídica para el tratamiento y el interesado debe ser informado |
-| **Limitación de la finalidad** | Los datos se recogen con fines determinados y no pueden tratarse de forma incompatible con esos fines |
-| **Minimización de datos** | Solo se recogen los datos adecuados, pertinentes y limitados a lo necesario |
-| **Exactitud** | Los datos deben ser exactos y actualizados |
-| **Limitación del plazo de conservación** | Los datos no se conservan más tiempo del necesario para la finalidad |
-| **Integridad y confidencialidad** | Tratamiento con medidas de seguridad adecuadas |
-| **Responsabilidad proactiva (accountability)** | El responsable debe poder demostrar el cumplimiento de todos los principios |
+| Licitud, lealtad y transparencia | Debe existir una base jurídica para el tratamiento y el interesado debe ser informado |
+| Limitación de la finalidad | Los datos se recogen con fines determinados y no pueden tratarse de forma incompatible con esos fines |
+| Minimización de datos | Solo se recogen los datos adecuados, pertinentes y limitados a lo necesario |
+| Exactitud | Los datos deben ser exactos y actualizados |
+| Limitación del plazo de conservación | Los datos no se conservan más tiempo del necesario para la finalidad |
+| Integridad y confidencialidad | Tratamiento con medidas de seguridad adecuadas |
+| Responsabilidad proactiva (accountability) | El responsable debe poder demostrar el cumplimiento de todos los principios |
 
 ### 5.4 Bases jurídicas para el tratamiento (art. 6 RGPD)
 
@@ -230,7 +230,7 @@ El tratamiento de datos personales solo es lícito si se basa en alguna de las s
 
 ### 5.5 Datos especialmente protegidos (art. 9 RGPD)
 
-Se prohíbe el tratamiento de las siguientes categorías especiales de datos salvo excepciones tasadas:
+Se prohíbe el tratamiento de las siguientes <mark>categorías especiales de datos</mark> salvo excepciones tasadas:
 - **Origen étnico o racial.**
 - **Opiniones políticas.**
 - **Convicciones religiosas o filosóficas.**
@@ -241,18 +241,18 @@ Se prohíbe el tratamiento de las siguientes categorías especiales de datos sal
 
 ### 5.6 Derechos de los interesados (arts. 15-22 RGPD)
 
-Los interesados tienen los siguientes derechos, conocidos como **derechos ARSOPOL**:
+Los interesados tienen los siguientes derechos, conocidos como <mark>derechos ARSOPOL</mark>:
 
 | Derecho | Contenido |
 |---|---|
-| **Acceso (A)** | Conocer qué datos se tratan, con qué finalidad y durante cuánto tiempo |
-| **Rectificación (R)** | Corregir datos inexactos o incompletos |
-| **Supresión o "derecho al olvido" (S)** | Solicitar la eliminación de los datos cuando ya no sean necesarios o se retire el consentimiento |
-| **Oposición (O)** | Oponerse al tratamiento en determinadas circunstancias |
-| **Portabilidad (P)** | Recibir los datos en formato estructurado y transferirlos a otro responsable |
-| **Limitación del tratamiento (L)** | Solicitar que se limite el uso de los datos en determinados supuestos |
+| Acceso (A) | Conocer qué datos se tratan, con qué finalidad y durante cuánto tiempo |
+| Rectificación (R) | Corregir datos inexactos o incompletos |
+| Supresión o "derecho al olvido" (S) | Solicitar la eliminación de los datos cuando ya no sean necesarios o se retire el consentimiento |
+| Oposición (O) | Oponerse al tratamiento en determinadas circunstancias |
+| Portabilidad (P) | Recibir los datos en formato estructurado y transferirlos a otro responsable |
+| Limitación del tratamiento (L) | Solicitar que se limite el uso de los datos en determinados supuestos |
 
-El plazo para responder a las solicitudes de ejercicio de derechos es de **1 mes** (ampliable a 2 meses en casos complejos).
+El plazo para responder a las solicitudes de ejercicio de derechos es de <mark>1 mes</mark> (ampliable a 2 meses en casos complejos).
 
 ### 5.7 Obligaciones de los responsables del tratamiento
 
@@ -268,10 +268,10 @@ Es obligatorio designar un **DPD** (o DPO, Data Protection Officer) en los sigui
 - Cuándo las actividades principales del responsable requieran una **observación habitual y sistemática a gran escala** de interesados.
 - Cuándo el tratamiento a gran escala se refiera a **categorías especiales de datos**.
 
-> ⚠️ Las **Administraciones Públicas** están obligadas a designar DPD. El DPD actúa con independencia, no puede ser destituido por realizar sus funciones, y debe ser informado de todas las cuestiones relativas a la protección de datos.
+> ⚠️ Las <mark>Administraciones Públicas están obligadas a designar DPD</mark>. El DPD actúa con independencia, no puede ser destituido por realizar sus funciones, y debe ser informado de todas las cuestiones relativas a la protección de datos.
 
 #### Notificación de violaciones de seguridad (arts. 33-34 RGPD)
-- El responsable debe notificar la violación de seguridad a la **autoridad de control** en un plazo de **72 horas** desde que tenga conocimiento de ella.
+- El responsable debe notificar la violación de seguridad a la **autoridad de control** en un plazo de <mark>72 horas</mark> desde que tenga conocimiento de ella.
 - Si la violación entraña un alto riesgo para los derechos y libertades de los interesados, debe también **comunicarla a los propios interesados** sin dilación indebida.
 
 #### Evaluación de Impacto (art. 35 RGPD)
@@ -279,7 +279,7 @@ Cuándo un tipo de tratamiento entrañe un alto riesgo para los derechos y liber
 
 ### 5.8 La Agencia Española de Protección de Datos (AEPD)
 
-La **Agencia Española de Protección de Datos (AEPD)** es la autoridad de control independiente encargada de velar por el cumplimiento de la normativa de protección de datos en España.
+La <mark>Agencia Española de Protección de Datos (AEPD)</mark> es la autoridad de control independiente encargada de velar por el cumplimiento de la normativa de protección de datos en España.
 
 Sus funciones principales son:
 - Supervisar y controlar la aplicación del RGPD y la LOPDGDD.
@@ -292,8 +292,8 @@ Sus funciones principales son:
 
 | Tipo de infracción | Sanción máxima |
 |---|---|
-| **Muy grave** (art. 83.5 RGPD) | Hasta **20 millones de euros** o el **4% del volumen de negocio anual global** |
-| **Grave** (art. 83.4 RGPD) | Hasta **10 millones de euros** o el **2% del volumen de negocio anual global** |
+| Muy grave (art. 83.5 RGPD) | Hasta **20 millones de euros** o el **4% del volumen de negocio anual global** |
+| Grave (art. 83.4 RGPD) | Hasta **10 millones de euros** o el **2% del volumen de negocio anual global** |
 
 > ⚠️ Las **Administraciones Públicas** no pueden ser sancionadas económicamente (salvo las entidades de Derecho Privado del sector público). En su caso, la AEPD formula **apercibimientos** y puede dar traslado al órgano competente para exigir responsabilidad disciplinaria.
 

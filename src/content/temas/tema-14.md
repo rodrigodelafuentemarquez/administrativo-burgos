@@ -3,12 +3,12 @@ tema: 14
 titulo: "Ley de Régimen Jurídico del Sector Público. Los órganos de las Administraciones Públicas. Las relaciones interadministrativas."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:**
+> 🔗 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/40/con
 >
-> 🔗 **Constitución Española (arts. 103, 137, 138, 149, 150):**
+> 🔗 Constitución Española (arts. 103, 137, 138, 149, 150):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 
 ---
@@ -17,7 +17,7 @@ titulo: "Ley de Régimen Jurídico del Sector Público. Los órganos de las Admi
 
 ### 1.1 Contexto y estructura
 
-La **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP)** forma parte de la reforma integral del Derecho Administrativo llevada a cabo en 2015, junto con la Ley 39/2015 de Procedimiento Administrativo Común. Juntas sustituyeron a la anterior Ley 30/1992.
+La <mark>Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP)</mark> forma parte de la reforma integral del Derecho Administrativo llevada a cabo en 2015, junto con la Ley 39/2015 de Procedimiento Administrativo Común. Juntas sustituyeron a la anterior Ley 30/1992.
 
 La LRJSP regula fundamentalmente:
 - Los **principios de actuación** y funcionamiento del sector público.
@@ -56,9 +56,9 @@ Las **Cortes Generales, las Asambleas legislativas autonómicas y los órganos c
 
 ### 2.1 Concepto de órgano administrativo
 
-Un **órgano administrativo** es la unidad funcional dotada de competencias propias atribuidas por el ordenamiento, a través de la cual la Administración actúa y expresa su voluntad con eficacia jurídica. Sus actos se imputan directamente a la Administración a la que pertenece.
+Un <mark>órgano administrativo</mark> es la unidad funcional dotada de competencias propias atribuidas por el ordenamiento, a través de la cual la Administración actúa y expresa su voluntad con eficacia jurídica. Sus actos se imputan directamente a la Administración a la que pertenece.
 
-El órgano se distingue de la **unidad administrativa**: esta última es una estructura organizativa de apoyo que no tiene competencias propias atribuidas por norma y no puede dictar actos administrativos con eficacia externa.
+El órgano se distingue de la <mark>unidad administrativa</mark>: esta última es una estructura organizativa de apoyo que no tiene competencias propias atribuidas por norma y no puede dictar actos administrativos con eficacia externa.
 
 ### 2.2 Creación, modificación y supresión de órganos (art. 5 LRJSP)
 
@@ -77,13 +77,13 @@ Los órganos administrativos se crean, modifican y suprimen mediante:
 ### 2.3 Clasificación de los órganos
 
 #### Por su composición:
-- **Órganos unipersonales:** su titular es una sola persona física (Ministro, Alcalde, Secretario…).
-- **Órganos colegiados:** formados por varios miembros que deliberan y deciden conjuntamente (Consejo de Ministros, Pleno municipal, Comisiones…). Se rigen por las normas específicas de funcionamiento de los órganos colegiados (arts. 15 a 22 LRJSP).
+- Órganos unipersonales: su titular es una sola persona física (Ministro, Alcalde, Secretario…).
+- Órganos colegiados: formados por varios miembros que deliberan y deciden conjuntamente (Consejo de Ministros, Pleno municipal, Comisiones…). Se rigen por las normas específicas de funcionamiento de los órganos colegiados (arts. 15 a 22 LRJSP).
 
 #### Por su posición jerárquica (en la AGE):
-- **Órganos superiores:** Ministros y Secretarios de Estado.
-- **Órganos directivos:** Subsecretarios, Secretarios Generales, Secretarios Generales Técnicos, Directores Generales y Subdirectores Generales. Llevan a cabo la gestión directa.
-- **Órganos de gestión:** el resto de unidades orgánicas.
+- Órganos superiores: Ministros y Secretarios de Estado.
+- Órganos directivos: Subsecretarios, Secretarios Generales, Secretarios Generales Técnicos, Directores Generales y Subdirectores Generales. Llevan a cabo la gestión directa.
+- Órganos de gestión: el resto de unidades orgánicas.
 
 ### 2.4 Funcionamiento de los órganos colegiados (arts. 15-22 LRJSP)
 
@@ -96,14 +96,14 @@ Los **órganos colegiados** tienen reglas específicas de funcionamiento que gar
 
 #### Convocatoria:
 - La convocatoria corresponde al Presidente.
-- Debe hacerse con **antelación suficiente** (al menos **48 horas** salvo urgencia).
+- Debe hacerse con **antelación suficiente** (al menos <mark>48 horas</mark> salvo urgencia).
 - Debe incluir el **orden del día**: no pueden adoptarse acuerdos sobre asuntos no incluidos en él, salvo que estén presentes todos los miembros y se declare la urgencia por mayoría.
 
 #### Constitución (quórum):
-- El órgano queda válidamente constituido cuando estén presentes el Presidente y el Secretario (o quienes los sustituyan) y, al menos, la **mitad de sus miembros**.
+- El órgano queda válidamente constituido cuando estén presentes el Presidente y el Secretario (o quienes los sustituyan) y, al menos, <mark>la mitad de sus miembros</mark>.
 
 #### Adopción de acuerdos:
-- Los acuerdos se adoptan por **mayoría de votos** de los miembros presentes, salvo que la norma específica establezca una mayoría especial.
+- Los acuerdos se adoptan por <mark>mayoría de votos</mark> de los miembros presentes, salvo que la norma específica establezca una mayoría especial.
 - El voto del Presidente dirime los empates (**voto de calidad**).
 - Los miembros pueden hacer constar su **voto particular** en el acta.
 - No puede ser objeto de delegación el voto (salvo autorización expresa de la norma).
@@ -126,9 +126,9 @@ Son técnicas para garantizar la **imparcialidad** en la actuación de las autor
 - Haber formulado en el expediente **denuncia o acusación** como particular.
 - **Amistad íntima o enemistad manifiesta** con alguno de los interesados.
 
-La abstención es **obligatoria**: el funcionario que incurra en causa de abstención debe comunicarlo a su superior y abstenerse de actuar. Si no lo hace, puede incurrir en responsabilidad.
+La abstención es <mark>obligatoria</mark>: el funcionario que incurra en causa de abstención debe comunicarlo a su superior y abstenerse de actuar. Si no lo hace, puede incurrir en responsabilidad.
 
-La **recusación** es el derecho de los interesados a pedir que se aparte del procedimiento a la autoridad o empleado que incurra en alguna de las causas de abstención. La resuelve el superior jerárquico del recusado.
+La <mark>recusación</mark> es el derecho de los interesados a pedir que se aparte del procedimiento a la autoridad o empleado que incurra en alguna de las causas de abstención. La resuelve el superior jerárquico del recusado.
 
 ### 2.6 Instrucciones y circulares (art. 6 LRJSP)
 
@@ -149,10 +149,10 @@ El **art. 140 LRJSP** establece los principios que rigen estas relaciones:
 
 | Principio | Contenido |
 |---|---|
-| **Lealtad institucional** | Las Administraciones deben respetar el ejercicio legítimo de las competencias ajenas y ponderar los intereses públicos del conjunto |
-| **Colaboración** | Deber genérico de actuar conjuntamente cuando sea necesario para el cumplimiento de sus fines |
-| **Cooperación** | Actuación conjunta voluntaria para la realización de actividades de interés común |
-| **Coordinación** | La Administración competente puede establecer instrumentos vinculantes para que otras Administraciones adapten su actuación a fines comunes |
+| Lealtad institucional | Las Administraciones deben respetar el ejercicio legítimo de las competencias ajenas y ponderar los intereses públicos del conjunto |
+| Colaboración | Deber genérico de actuar conjuntamente cuando sea necesario para el cumplimiento de sus fines |
+| Cooperación | Actuación conjunta voluntaria para la realización de actividades de interés común |
+| Coordinación | La Administración competente puede establecer instrumentos vinculantes para que otras Administraciones adapten su actuación a fines comunes |
 
 > 💡 **Distinción clave:** La **colaboración y cooperación** son voluntarias; la **coordinación** puede ser impuesta por la Administración competente, aunque con límites que respeten la autonomía del ente coordinado.
 
@@ -165,8 +165,8 @@ Las Administraciones deben facilitarse mutuamente la información que precisen s
 Son órganos de **cooperación multilateral** de composición sectorial, integrados por el Ministro o Consejero competente en una materia y los correspondientes Consejeros autonómicos. Son los principales instrumentos de cooperación vertical Estado-CC.AA.
 
 Sus acuerdos pueden revestir la forma de:
-- **Acuerdo:** vincula solo a las Administraciones que lo aprobaron.
-- **Recomendación:** no vinculante, expresa la posición común sobre una materia.
+- Acuerdo: vincula solo a las Administraciones que lo aprobaron.
+- Recomendación: no vinculante, expresa la posición común sobre una materia.
 
 #### 3.2.3 Las Comisiones Bilaterales de Cooperación (art. 153 LRJSP)
 Órganos de cooperación entre el Estado y cada Comunidad Autónoma en particular. Son el cauce para resolver discrepancias y negociar traspasos de competencias.
@@ -175,7 +175,7 @@ Sus acuerdos pueden revestir la forma de:
 Acuerdos con efectos jurídicos entre Administraciones Públicas o entre una Administración y una entidad privada, para un fin de interés común. Deben:
 - Constar por escrito.
 - Publicarse en el boletín oficial correspondiente.
-- Tener una **duración máxima de 4 años** (prorrogable).
+- Tener una <mark>duración máxima de 4 años</mark> (prorrogable).
 - Incluir las causas de extinción y resolución.
 
 Los convenios entre Administraciones del mismo nivel se denominan **convenios interadministrativos**. Los que implican transferencia de medios personales o materiales requieren trámites adicionales.
@@ -187,23 +187,23 @@ Documentos de planificación que las Administraciones aprueban conjuntamente par
 
 La **coordinación** puede ser:
 
-- **Coordinación por ley:** las Cortes Generales o las Asambleas legislativas autonómicas pueden establecer mecanismos de coordinación en sus ámbitos de competencia.
+- Coordinación por ley: las Cortes Generales o las Asambleas legislativas autonómicas pueden establecer mecanismos de coordinación en sus ámbitos de competencia.
 - **Coordinación por el Estado sobre las CC.AA.** (arts. 149.1.13ª y 150.3 CE): mediante las leyes de armonización y la planificación económica estatal.
-- **Coordinación de la AGE sobre Entidades Locales:** a través de instrumentos sectoriales y planes subvencionados condicionados.
+- Coordinación de la AGE sobre Entidades Locales: a través de instrumentos sectoriales y planes subvencionados condicionados.
 
 ### 3.4 Conflictos interadministrativos
 
 Cuándo existen desacuerdos entre Administraciones sobre el ejercicio de competencias, pueden plantearse:
 
 - **Conflictos de competencia ante el Tribunal Constitucional** (arts. 60-72 LOTC): cuando Estado y CC.AA. discrepan sobre a quién corresponde una competencia.
-- **Conflictos en vía administrativa:** el art. 44 LPACAP prevé que las Administraciones no puedan interponer recurso contencioso-administrativo contra actos de otra Administración, debiendo resolver los conflictos por los mecanismos de cooperación o, en último término, acudir al TC o a los tribunales ordinarios según la materia.
+- Conflictos en vía administrativa: el art. 44 LPACAP prevé que las Administraciones no puedan interponer recurso contencioso-administrativo contra actos de otra Administración, debiendo resolver los conflictos por los mecanismos de cooperación o, en último término, acudir al TC o a los tribunales ordinarios según la materia.
 
 ### 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales
 
 El Estado dispone de mecanismos excepcionales de control:
 
-- **Art. 155 CE (coacción estatal):** el Gobierno, con aprobación por mayoría absoluta del Senado, puede adoptar las medidas necesarias para obligar a una CC.AA. que incumpla sus obligaciones constitucionales o legales o actúe contra el interés general.
-- **Art. 60 LBRL:** el Estado puede subrogarse en las competencias de las Entidades Locales cuando éstas incumplan obligaciones derivadas de la ley y dicho incumplimiento afecte al ejercicio de competencias estatales o autonómicas o suponga perjuicio al interés general.
+- Art. 155 CE (coacción estatal): el Gobierno, con aprobación por mayoría absoluta del Senado, puede adoptar las medidas necesarias para obligar a una CC.AA. que incumpla sus obligaciones constitucionales o legales o actúe contra el interés general.
+- Art. 60 LBRL: el Estado puede subrogarse en las competencias de las Entidades Locales cuando éstas incumplan obligaciones derivadas de la ley y dicho incumplimiento afecte al ejercicio de competencias estatales o autonómicas o suponga perjuicio al interés general.
 
 ---
 

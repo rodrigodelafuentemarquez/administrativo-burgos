@@ -3,12 +3,12 @@ tema: 16
 titulo: "El acto administrativo: concepto, clases y requisitos. Eficacia de los actos administrativos. La invalidez del acto. La revisión de oficio."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 >
-> 🔗 **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:**
+> 🔗 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/40/con
 
 ---
@@ -17,22 +17,22 @@ titulo: "El acto administrativo: concepto, clases y requisitos. Eficacia de los 
 
 ### 1.1 Definición
 
-El **acto administrativo** es toda declaración de voluntad, deseo, conocimiento o juicio realizada por una Administración Pública en el ejercicio de una potestad administrativa, con efectos jurídicos sobre los ciudadanos o sobre la propia organización administrativa.
+El **acto administrativo** es toda <mark>declaración de voluntad, deseo, conocimiento o juicio</mark> realizada por una Administración Pública en el ejercicio de una potestad administrativa, con efectos jurídicos sobre los ciudadanos o sobre la propia organización administrativa.
 
 Elementos esenciales del concepto:
-- **Declaración:** el acto es una manifestación formal de la Administración (no una actuación material).
-- **De una Administración Pública:** emana de un sujeto de Derecho Público dotado de potestades.
-- **En ejercicio de una potestad administrativa:** actúa sometida al Derecho Administrativo.
-- **Con efectos jurídicos:** crea, modifica o extingue situaciones jurídicas.
+- Declaración: el acto es una manifestación formal de la Administración (no una actuación material).
+- De una Administración Pública: emana de un sujeto de Derecho Público dotado de potestades.
+- En ejercicio de una potestad administrativa: actúa sometida al Derecho Administrativo.
+- Con efectos jurídicos: crea, modifica o extingue situaciones jurídicas.
 
 ### 1.2 Distinción con otras categorías
 
 | Figura | Distinción respecto al acto administrativo |
 |---|---|
-| **Reglamento** | El reglamento es una norma de carácter general y abstracto; el acto es concreto y singular |
-| **Contrato administrativo** | El contrato es bilateral (requiere acuerdo de voluntades); el acto es unilateral |
-| **Actuación material** | La actuación material es una operación física sin declaración jurídica formal |
-| **Acto de trámite** | El acto de trámite forma parte del procedimiento sin resolver el fondo del asunto |
+| Reglamento | El reglamento es una norma de carácter general y abstracto; el acto es concreto y singular |
+| Contrato administrativo | El contrato es bilateral (requiere acuerdo de voluntades); el acto es unilateral |
+| Actuación material | La actuación material es una operación física sin declaración jurídica formal |
+| Acto de trámite | El acto de trámite forma parte del procedimiento sin resolver el fondo del asunto |
 
 ---
 
@@ -42,25 +42,25 @@ Elementos esenciales del concepto:
 
 | Tipo | Descripción | Ejemplo |
 |---|---|---|
-| **Favorables o ampliatorios** | Amplían la esfera jurídica del destinatario, reconociéndole derechos o levantando prohibiciones | Licencia, subvención, autorización |
-| **Desfavorables o de gravamen** | Restringen la esfera jurídica del destinatario, imponiéndole obligaciones o sanciones | Sanción, orden de derribo, expropiación |
+| Favorables o ampliatorios | Amplían la esfera jurídica del destinatario, reconociéndole derechos o levantando prohibiciones | Licencia, subvención, autorización |
+| Desfavorables o de gravamen | Restringen la esfera jurídica del destinatario, imponiéndole obligaciones o sanciones | Sanción, orden de derribo, expropiación |
 
 > 💡 Esta distinción es clave porque el régimen de revocación y revisión varía: los actos favorables tienen mayor protección frente a la revocación unilateral por la Administración.
 
 ### 2.2 Por el número de destinatarios
 
-- **Actos singulares:** se dirigen a un destinatario concreto o a un conjunto determinado de personas.
-- **Actos generales o plúrimos:** se dirigen a una pluralidad indeterminada de personas (convocatoria de oposiciones, por ejemplo).
+- Actos singulares: se dirigen a un destinatario concreto o a un conjunto determinado de personas.
+- Actos generales o plúrimos: se dirigen a una pluralidad indeterminada de personas (convocatoria de oposiciones, por ejemplo).
 
 ### 2.3 Por su relación con el ordenamiento
 
-- **Actos reglados:** la norma determina de forma precisa y exhaustiva todos los elementos del acto; la Administración no tiene margen de apreciación (concesión de una pensión si se cumplen los requisitos legales).
-- **Actos discrecionales:** la norma atribuye a la Administración un margen de apreciación sobre alguno de sus elementos (oportunidad, conveniencia…). No confundir con arbitrariedad: deben estar motivados.
+- Actos reglados: la norma determina de forma precisa y exhaustiva todos los elementos del acto; la Administración no tiene margen de apreciación (concesión de una pensión si se cumplen los requisitos legales).
+- Actos discrecionales: la norma atribuye a la Administración un margen de apreciación sobre alguno de sus elementos (oportunidad, conveniencia…). No confundir con arbitrariedad: deben estar motivados.
 
 ### 2.4 Por su posición en el procedimiento
 
-- **Actos definitivos o resolutorios:** ponen fin al procedimiento decidiendo el fondo del asunto.
-- **Actos de trámite:** se producen durante la instrucción del procedimiento y no deciden el fondo (informes, propuestas, comunicaciones…). Solo pueden impugnarse autónomamente cuando sean cualificados: los que decidan directamente o indirectamente el fondo, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos.
+- Actos definitivos o resolutorios: ponen fin al procedimiento decidiendo el fondo del asunto.
+- Actos de trámite: se producen durante la instrucción del procedimiento y no deciden el fondo (informes, propuestas, comunicaciones…). Solo pueden impugnarse autónomamente cuando sean cualificados: los que decidan directamente o indirectamente el fondo, determinen la imposibilidad de continuar el procedimiento, produzcan indefensión o perjuicio irreparable a derechos e intereses legítimos.
 
 ### 2.5 Por la Administración que los dicta
 
@@ -68,9 +68,9 @@ Elementos esenciales del concepto:
 
 ### 2.6 Actos expresos, presuntos y tácitos
 
-- **Expresos:** se manifiestan formalmente mediante una declaración.
-- **Presuntos:** se producen por silencio administrativo (positivo o negativo).
-- **Tácitos:** se deducen de comportamientos o actuaciones de la Administración que implican inequívocamente una determinada voluntad (su admisión es excepcional en Derecho Administrativo).
+- Expresos: se manifiestan formalmente mediante una declaración.
+- Presuntos: se producen por silencio administrativo (positivo o negativo).
+- Tácitos: se deducen de comportamientos o actuaciones de la Administración que implican inequívocamente una determinada voluntad (su admisión es excepcional en Derecho Administrativo).
 
 ---
 
@@ -78,20 +78,20 @@ Elementos esenciales del concepto:
 
 ### 3.1 Elementos subjetivos
 
-- **Competencia:** el acto debe ser dictado por el órgano al que el ordenamiento atribuye la competencia para ello. La incompetencia absoluta (por razón de la materia o del territorio) da lugar a nulidad de pleno derecho; la relativa (por razón de la jerarquía) da lugar a anulabilidad.
-- **Investidura regular del titular:** el funcionario o autoridad que dicta el acto debe estar debidamente nombrado y en ejercicio de sus funciones.
+- Competencia: el acto debe ser dictado por el órgano al que el ordenamiento atribuye la competencia para ello. La incompetencia absoluta (por razón de la materia o del territorio) da lugar a nulidad de pleno derecho; la relativa (por razón de la jerarquía) da lugar a anulabilidad.
+- Investidura regular del titular: el funcionario o autoridad que dicta el acto debe estar debidamente nombrado y en ejercicio de sus funciones.
 
 ### 3.2 Elementos objetivos
 
-- **Causa o presupuesto de hecho:** deben existir los hechos o circunstancias que la norma exige como presupuesto para dictar el acto.
-- **Objeto:** lo que el acto dispone o declara. Debe ser **lícito, determinado o determinable, posible** y no contrario al ordenamiento jurídico.
-- **Fin:** el acto debe perseguir el fin que la norma atribuye a la potestad ejercida. Si se persigue un fin distinto, hay **desviación de poder** (causa de anulabilidad).
+- Causa o presupuesto de hecho: deben existir los hechos o circunstancias que la norma exige como presupuesto para dictar el acto.
+- Objeto: lo que el acto dispone o declara. Debe ser **lícito, determinado o determinable, posible** y no contrario al ordenamiento jurídico.
+- Fin: el acto debe perseguir el fin que la norma atribuye a la potestad ejercida. Si se persigue un fin distinto, hay **desviación de poder** (causa de anulabilidad).
 
 ### 3.3 Elementos formales
 
-- **Procedimiento:** los actos deben dictarse siguiendo el procedimiento legalmente establecido.
-- **Forma de manifestación (art. 36 LPACAP):** los actos administrativos se producirán **por escrito** salvo que su naturaleza exija o permita otra forma más adecuada de expresión (actos verbales en situaciones de urgencia, señales de tráfico…). Los actos verbales deben ser confirmados por escrito si lo solicita el interesado.
-- **Motivación (art. 35 LPACAP):** ciertos actos deben estar motivados, con sucinta referencia a los hechos y fundamentos de derecho. Son de motivación obligatoria:
+- Procedimiento: los actos deben dictarse siguiendo el procedimiento legalmente establecido.
+- Forma de manifestación (art. 36 LPACAP): los actos administrativos se producirán **por escrito** salvo que su naturaleza exija o permita otra forma más adecuada de expresión (actos verbales en situaciones de urgencia, señales de tráfico…). Los actos verbales deben ser confirmados por escrito si lo solicita el interesado.
+- Motivación (art. 35 LPACAP): ciertos actos deben estar motivados, con sucinta referencia a los hechos y fundamentos de derecho. Son de motivación obligatoria:
   - Los que limiten derechos subjetivos o intereses legítimos.
   - Los que resuelvan procedimientos de revisión de oficio, recursos o reclamaciones.
   - Los que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos.
@@ -106,14 +106,14 @@ Elementos esenciales del concepto:
 
 ### 4.1 El principio de ejecutividad (art. 38 LPACAP)
 
-Los actos de las Administraciones Públicas sujetos al Derecho Administrativo son **inmediatamente ejecutivos**, salvo que se suspenda su eficacia o se establezca lo contrario en una disposición de rango legal o en la propia resolución. Esta ejecutividad es una prerrogativa de la Administración frente al régimen general del Derecho Privado.
+Los actos de las Administraciones Públicas sujetos al Derecho Administrativo son <mark>inmediatamente ejecutivos</mark>, salvo que se suspenda su eficacia o se establezca lo contrario en una disposición de rango legal o en la propia resolución. Esta ejecutividad es una prerrogativa de la Administración frente al régimen general del Derecho Privado.
 
 ### 4.2 La notificación (arts. 40-46 LPACAP)
 
 La **notificación** es el acto mediante el cual la Administración comunica formalmente al interesado el contenido de la resolución o acto, condición necesaria para que éste despliegue sus efectos jurídicos frente al interesado.
 
 **Plazos:**
-- La notificación debe practicarse en el plazo de **10 días** desde que el acto haya sido dictado.
+- La notificación debe practicarse en el plazo de <mark>10 días</mark> desde que el acto haya sido dictado.
 
 **Contenido de la notificación:**
 - Texto íntegro de la resolución.
@@ -124,7 +124,7 @@ La **notificación** es el acto mediante el cual la Administración comunica for
 - **Preferentemente electrónica** para los sujetos obligados a relacionarse electrónicamente con la Administración (personas jurídicas, entidades sin personalidad jurídica, profesionales colegiados…).
 - **Notificación en papel** para personas físicas que no estén obligadas al uso de medios electrónicos.
 
-**Notificación electrónica:** a través de la **Dirección Electrónica Habilitada única (DEHú)** o del sistema de notificaciones del interesado. Si en el plazo de **10 días naturales** el interesado no accede a la notificación, se entenderá rechazada y producirá plenos efectos.
+**Notificación electrónica:** a través de la **Dirección Electrónica Habilitada única (DEHú)** o del sistema de notificaciones del interesado. Si en el plazo de <mark>10 días naturales</mark> el interesado no accede a la notificación, se entenderá rechazada y producirá plenos efectos.
 
 **Notificación en papel:** se intenta dos veces en el domicilio del interesado. Si no se puede practicar, se publica en el **Boletín Oficial del Estado** mediante **anuncio** (notificación por comparecencia en el BOE).
 
@@ -152,7 +152,7 @@ La ejecutividad del acto puede suspenderse:
 
 ## 5. LA INVALIDEZ DEL ACTO ADMINISTRATIVO
 
-La invalidez es la situación en que se encuentra un acto que no reúne los requisitos exigidos por el ordenamiento. El Derecho Administrativo distingue dos grados de invalidez: la **nulidad de pleno derecho** y la **anulabilidad**.
+La invalidez es la situación en que se encuentra un acto que no reúne los requisitos exigidos por el ordenamiento. El Derecho Administrativo distingue dos grados de invalidez: la <mark>nulidad de pleno derecho</mark> y la <mark>anulabilidad</mark>.
 
 ### 5.1 Nulidad de pleno derecho (art. 47 LPACAP)
 
@@ -160,13 +160,13 @@ Son nulos de pleno derecho los actos administrativos que incurran en alguna de l
 
 | Causa | Explicación |
 |---|---|
-| **a)** Lesionen los derechos y libertades susceptibles de amparo constitucional | Arts. 14-29 y 30.2 CE |
-| **b)** Dictados por órgano manifiestamente incompetente por razón de la materia o del territorio | Incompetencia absoluta, no meramente jerárquica |
-| **c)** Contenido imposible | El objeto del acto es materialmente irrealizable |
-| **d)** Constitutivos de infracción penal o dictados como consecuencia de ésta | Actos surgidos de delito |
-| **e)** Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados | Omisión total del procedimiento, no meros defectos de trámite |
-| **f)** Actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición | Silencio positivo o acto expreso que da derechos a quien no los tiene |
-| **g)** Cualquier otro que establezca expresamente una disposición con rango de ley | Causas de nulidad previstas en otras leyes |
+| a) Lesionen los derechos y libertades susceptibles de amparo constitucional | Arts. 14-29 y 30.2 CE |
+| b) Dictados por órgano manifiestamente incompetente por razón de la materia o del territorio | Incompetencia absoluta, no meramente jerárquica |
+| c) Contenido imposible | El objeto del acto es materialmente irrealizable |
+| d) Constitutivos de infracción penal o dictados como consecuencia de ésta | Actos surgidos de delito |
+| e) Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido o de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados | Omisión total del procedimiento, no meros defectos de trámite |
+| f) Actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición | Silencio positivo o acto expreso que da derechos a quien no los tiene |
+| g) Cualquier otro que establezca expresamente una disposición con rango de ley | Causas de nulidad previstas en otras leyes |
 
 **Caracteres de la nulidad de pleno derecho:**
 - Es **absoluta** e **insubsanable**: no puede convalidarse.
@@ -176,7 +176,7 @@ Son nulos de pleno derecho los actos administrativos que incurran en alguna de l
 
 ### 5.2 Anulabilidad (art. 48 LPACAP)
 
-Son anulables los actos de la Administración que **incurran en cualquier infracción del ordenamiento jurídico** que no constituya causa de nulidad de pleno derecho.
+Son anulables los actos de la Administración que <mark>incurran en cualquier infracción del ordenamiento jurídico</mark> que no constituya causa de nulidad de pleno derecho.
 
 La anulabilidad tiene un régimen más flexible:
 - Solo puede ser declarada si la infracción **ha producido indefensión** o ha influido en la resolución del asunto (art. 48.2 LPACAP: el defecto de forma solo determina anulabilidad cuando el acto carezca de los requisitos formales indispensables para alcanzar su fin o dé lugar a indefensión).
@@ -194,8 +194,8 @@ Ejemplos de convalidación:
 
 ### 5.4 La conservación y conversión de actos (arts. 49-51 LPACAP)
 
-- **Conservación:** la invalidez de un acto no implica necesariamente la de los actos sucesivos independientes de él. Los actos de trámite válidos conservan su validez.
-- **Conversión:** un acto nulo o anulable puede convertirse en otro distinto cuyos requisitos sí reúna, si contiene los elementos constitutivos de éste y no lesiona derechos del interesado.
+- Conservación: la invalidez de un acto no implica necesariamente la de los actos sucesivos independientes de él. Los actos de trámite válidos conservan su validez.
+- Conversión: un acto nulo o anulable puede convertirse en otro distinto cuyos requisitos sí reúna, si contiene los elementos constitutivos de éste y no lesiona derechos del interesado.
 
 ---
 
@@ -209,7 +209,7 @@ Se distingue de la revocación: la revisión de oficio opera sobre actos **invá
 
 ### 6.2 Revisión de actos nulos de pleno derecho (art. 106 LPACAP)
 
-Las Administraciones pueden declarar de oficio, en cualquier momento y **sin sujeción a plazo**, la nulidad de sus propios actos nulos de pleno derecho.
+Las Administraciones pueden declarar de oficio, en cualquier momento y <mark>sin sujeción a plazo</mark>, la nulidad de sus propios actos nulos de pleno derecho.
 
 **Procedimiento:**
 1. Iniciación de oficio o a solicitud del interesado (en cuyo caso se denomina **acción de nulidad**).
@@ -217,13 +217,13 @@ Las Administraciones pueden declarar de oficio, en cualquier momento y **sin suj
 3. Audiencia a los interesados.
 4. Resolución declarando la nulidad o desestimando la revisión.
 
-> ⚠️ Si el Consejo de Estado o el órgano consultivo equivalente emite dictamen **contrario** a la nulidad, la Administración **no puede** continuar con el procedimiento de revisión (debe desestimarlo).
+> ⚠️ Si el Consejo de Estado o el órgano consultivo equivalente emite dictamen <mark>contrario</mark> a la nulidad, la Administración <mark>no puede</mark> continuar con el procedimiento de revisión (debe desestimarlo).
 
 ### 6.3 Revisión de actos anulables: la declaración de lesividad (arts. 107-108 LPACAP)
 
 Los actos **anulables** favorables para el interesado **no pueden** ser revisados de oficio directamente por la Administración. Para impugnarlos, la Administración debe:
 
-1. Declarar el acto **lesivo** para el interés público (mediante **acuerdo del órgano competente**) en el plazo de **4 años** desde que se dictó el acto.
+1. Declarar el acto <mark>lesivo</mark> para el interés público (mediante **acuerdo del órgano competente**) en el plazo de <mark>4 años</mark> desde que se dictó el acto.
 2. Impugnarlo ante la **jurisdicción contencioso-administrativa** (el órgano judicial es quien anula el acto, no la Administración).
 
 > 💡 En la lesividad la Administración actúa como demandante ante los tribunales contra su propio acto. El ciudadano beneficiado por el acto tiene la posición de demandado.

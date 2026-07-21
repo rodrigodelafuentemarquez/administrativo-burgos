@@ -3,9 +3,9 @@ tema: 17
 titulo: "Los recursos administrativos. Principios generales y clases."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 
 ---
@@ -21,10 +21,10 @@ Es un mecanismo de **autotutela revisora**: la Administración controla la legal
 ### 1.2 Naturaleza y función
 
 Los recursos administrativos cumplen una doble función:
-- **Para el ciudadano:** ofrecen una vía sencilla, gratuita y rápida de impugnar los actos administrativos sin necesidad de acudir a los tribunales.
-- **Para la Administración:** permiten corregir sus propios errores antes de que el asunto llegue a la jurisdicción contencioso-administrativa.
+- Para el ciudadano: ofrecen una vía sencilla, gratuita y rápida de impugnar los actos administrativos sin necesidad de acudir a los tribunales.
+- Para la Administración: permiten corregir sus propios errores antes de que el asunto llegue a la jurisdicción contencioso-administrativa.
 
-> ⚠️ El recurso administrativo no es, en general, un requisito previo obligatorio para acceder a la jurisdicción contencioso-administrativa, salvo en los casos en que la ley expresamente lo exija (recurso de alzada cuando no se ha agotado la vía administrativa, o reclamaciones económico-administrativas). En los demás casos, el ciudadano puede optar entre interponer el recurso o ir directamente a los tribunales.
+> ⚠️ El recurso administrativo <mark>no es, en general, un requisito previo obligatorio</mark> para acceder a la jurisdicción contencioso-administrativa, salvo en los casos en que la ley expresamente lo exija (recurso de alzada cuando no se ha agotado la vía administrativa, o reclamaciones económico-administrativas). En los demás casos, el ciudadano puede optar entre interponer el recurso o ir directamente a los tribunales.
 
 ---
 
@@ -40,13 +40,13 @@ Las normas de procedimiento deben interpretarse en el sentido más favorable a l
 
 ### 2.3 Principio de no reforma en perjuicio (non reformatio in peius)
 
-La resolución del recurso **no puede agravar la situación del recurrente** más allá de lo que ya establecía el acto recurrido, salvo que la Administración haya introducido en el procedimiento otros interesados que así lo soliciten. Si solo recurre el interesado perjudicado, la Administración no puede empeorar su posición.
+La resolución del recurso <mark>no puede agravar la situación del recurrente</mark> más allá de lo que ya establecía el acto recurrido, salvo que la Administración haya introducido en el procedimiento otros interesados que así lo soliciten. Si solo recurre el interesado perjudicado, la Administración no puede empeorar su posición.
 
 ### 2.4 Principio de suspensión
 
 La interposición de un recurso administrativo **no suspende automáticamente** la ejecución del acto recurrido. Para obtener la suspensión, el interesado debe solicitarla expresamente, y la Administración debe valorar si concede o deniega la medida atendiendo a los perjuicios que la ejecución podría causar.
 
-Sin embargo, **transcurrido el plazo de 30 días** desde la solicitud de suspensión sin que la Administración se pronuncie, la suspensión se entenderá concedida (silencio positivo en materia de suspensión).
+Sin embargo, <mark>transcurrido el plazo de 30 días</mark> desde la solicitud de suspensión sin que la Administración se pronuncie, la suspensión se entenderá concedida (silencio positivo en materia de suspensión).
 
 ### 2.5 Principio de congruencia
 
@@ -95,7 +95,7 @@ La LPACAP regula en sus arts. 112 a 126 los siguientes recursos:
 ### 4.1 Recurso de alzada (arts. 121-122 LPACAP)
 
 #### Concepto y objeto
-El recurso de alzada es el recurso ordinario que se interpone contra los actos que **no pongan fin a la vía administrativa**, ante el **órgano superior jerárquico** del que dictó el acto recurrido.
+El recurso de alzada es el recurso ordinario que se interpone contra los actos que <mark>no pongan fin a la vía administrativa</mark>, ante el <mark>órgano superior jerárquico</mark> del que dictó el acto recurrido.
 
 #### Actos que no ponen fin a la vía administrativa
 Ponen fin a la vía administrativa (art. 114 LPACAP):
@@ -112,11 +112,11 @@ Los actos que **no están en esa lista** no ponen fin a la vía administrativa y
 El **órgano superior jerárquico** del que dictó el acto. Si el acto lo dictó el Ministro, no cabe alzada (ya pone fin a la vía administrativa) sino recurso potestativo de reposición o directamente el contencioso.
 
 #### Plazo de interposición
-- **1 mes** si el acto es expreso.
-- **3 meses** si el acto es presunto (silencio administrativo negativo), contados desde el día siguiente a aquel en que se produzcan los efectos del silencio.
+- <mark>1 mes</mark> si el acto es expreso.
+- <mark>3 meses</mark> si el acto es presunto (silencio administrativo negativo), contados desde el día siguiente a aquel en que se produzcan los efectos del silencio.
 
 #### Plazo para resolver
-La Administración tiene **3 meses** para resolver. Transcurrido ese plazo sin resolución expresa, el recurso se entiende **desestimado** (silencio negativo), quedando expedita la vía contencioso-administrativa.
+La Administración tiene <mark>3 meses</mark> para resolver. Transcurrido ese plazo sin resolución expresa, el recurso se entiende <mark>desestimado</mark> (silencio negativo), quedando expedita la vía contencioso-administrativa.
 
 > ⚠️ Si el recurso de alzada se interpone contra la desestimación por silencio de una solicitud, y la Administración no resuelve en plazo, el silencio en la alzada es **positivo** (la solicitud original se entiende estimada).
 
@@ -128,7 +128,7 @@ La resolución de la alzada **agota la vía administrativa**. Contra ella solo c
 ### 4.2 Recurso potestativo de reposición (arts. 123-124 LPACAP)
 
 #### Concepto y objeto
-El recurso de reposición es un recurso **potestativo** (no obligatorio) que se interpone contra los actos que **ponen fin a la vía administrativa**, ante el **mismo órgano** que los dictó.
+El recurso de reposición es un recurso <mark>potestativo</mark> (no obligatorio) que se interpone contra los actos que <mark>ponen fin a la vía administrativa</mark>, ante el <mark>mismo órgano</mark> que los dictó.
 
 Es potestativo porque el interesado puede optar entre:
 - Interponer el recurso de reposición y, si es desestimado, acudir al contencioso.
@@ -141,14 +141,14 @@ Es potestativo porque el interesado puede optar entre:
 - **3 meses** si el acto es presunto.
 
 #### Plazo para resolver
-**1 mes**. Transcurrido ese plazo sin resolución, el recurso se entiende **desestimado** (silencio negativo), pudiendo acudir al contencioso.
+<mark>1 mes</mark>. Transcurrido ese plazo sin resolución, el recurso se entiende <mark>desestimado</mark> (silencio negativo), pudiendo acudir al contencioso.
 
 ---
 
 ### 4.3 Recurso extraordinario de revisión (arts. 125-126 LPACAP)
 
 #### Concepto y objeto
-El recurso extraordinario de revisión se interpone contra los actos **firmes en vía administrativa** (actos que ya no pueden impugnarse por los recursos ordinarios por haber transcurrido los plazos o haberse agotado la vía administrativa), cuando concurra alguna de las causas **tasadas** previstas en la ley.
+El recurso extraordinario de revisión se interpone contra los actos <mark>firmes en vía administrativa</mark> (actos que ya no pueden impugnarse por los recursos ordinarios por haber transcurrido los plazos o haberse agotado la vía administrativa), cuando concurra alguna de las causas <mark>tasadas</mark> previstas en la ley.
 
 Es **extraordinario** porque solo procede en supuestos excepcionales y por causas muy concretas.
 
@@ -156,10 +156,10 @@ Es **extraordinario** porque solo procede en supuestos excepcionales y por causa
 
 | Causa | Plazo de interposición |
 |---|---|
-| **a)** Qué al dictarlos se hubiera incurrido en **error de hecho** que resulte de los propios documentos incorporados al expediente | **4 años** desde la notificación del acto |
-| **b)** Qué aparezcan **documentos de valor esencial** para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución, o que siendo anteriores no hubieran podido aportarse al expediente | **3 meses** desde que se conocieron o pudieron conocerse los documentos |
-| **c)** Qué en la resolución hayan influido **documentos o testimonios declarados falsos** por sentencia judicial firme anterior o posterior a aquella resolución | **3 meses** desde que fue firme la sentencia |
-| **d)** Qué la resolución se hubiese dictado como consecuencia de **prevaricación, cohecho, violencia, maquinación fraudulenta** u otra conducta punible, y se haya declarado así por sentencia firme | **3 meses** desde que fue firme la sentencia |
+| a) Qué al dictarlos se hubiera incurrido en **error de hecho** que resulte de los propios documentos incorporados al expediente | 4 años desde la notificación del acto |
+| b) Qué aparezcan **documentos de valor esencial** para la resolución del asunto que, aunque sean posteriores, evidencien el error de la resolución, o que siendo anteriores no hubieran podido aportarse al expediente | 3 meses desde que se conocieron o pudieron conocerse los documentos |
+| c) Qué en la resolución hayan influido **documentos o testimonios declarados falsos** por sentencia judicial firme anterior o posterior a aquella resolución | 3 meses desde que fue firme la sentencia |
+| d) Qué la resolución se hubiese dictado como consecuencia de **prevaricación, cohecho, violencia, maquinación fraudulenta** u otra conducta punible, y se haya declarado así por sentencia firme | 3 meses desde que fue firme la sentencia |
 
 #### Órgano competente
 El **órgano administrativo que dictó el acto**, o su superior si aquel ya no existe.
@@ -206,17 +206,17 @@ Si la resolución es estimatoria, debe determinar la forma en que se restituye a
 
 ## 6. CUADRO COMPARATIVO DE LOS RECURSOS
 
-| | **Alzada** | **Reposición** | **Revisión** |
+| | Alzada | Reposición | Revisión |
 |---|---|---|---|
-| **Tipo** | Ordinario | Ordinario potestativo | Extraordinario |
-| **Actos recurribles** | Los que NO ponen fin a la vía administrativa | Los que SÍ ponen fin a la vía administrativa | Actos firmes en vía administrativa |
-| **Órgano resolutorio** | Superior jerárquico del que dictó el acto | El mismo órgano que dictó el acto | El mismo órgano que dictó el acto |
-| **Plazo interposición (acto expreso)** | 1 mes | 1 mes | Según causa: 4 años o 3 meses |
-| **Plazo interposición (acto presunto)** | 3 meses | 3 meses | — |
-| **Plazo para resolver** | 3 meses | 1 mes | 3 meses |
-| **Silencio** | Negativo (salvo alzada contra silencio negativo → positivo) | Negativo | Negativo |
-| **Agota vía administrativa** | Sí | Sí | Sí |
-| **Obligatoriedad** | Obligatorio si no hay agotamiento previo | Potestativo | Potestativo |
+| Tipo | Ordinario | Ordinario potestativo | Extraordinario |
+| Actos recurribles | Los que NO ponen fin a la vía administrativa | Los que SÍ ponen fin a la vía administrativa | Actos firmes en vía administrativa |
+| Órgano resolutorio | Superior jerárquico del que dictó el acto | El mismo órgano que dictó el acto | El mismo órgano que dictó el acto |
+| Plazo interposición (acto expreso) | 1 mes | 1 mes | Según causa: 4 años o 3 meses |
+| Plazo interposición (acto presunto) | 3 meses | 3 meses | — |
+| Plazo para resolver | 3 meses | 1 mes | 3 meses |
+| Silencio | Negativo (salvo alzada contra silencio negativo → positivo) | Negativo | Negativo |
+| Agota vía administrativa | Sí | Sí | Sí |
+| Obligatoriedad | Obligatorio si no hay agotamiento previo | Potestativo | Potestativo |
 
 ---
 

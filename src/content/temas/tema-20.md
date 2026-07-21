@@ -3,15 +3,15 @@ tema: 20
 titulo: "La contratación administrativa: clases de contratos. Ejecución y extinción de los contratos. Órganos competentes para contratar. Formalización de los contratos en la esfera local."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), texto consolidado:**
+> 🔗 Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP), texto consolidado:
 > https://www.boe.es/eli/es/l/2017/11/08/9/con
 >
-> 🔗 **Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local (TRRL):**
+> 🔗 Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local (TRRL):
 > https://www.boe.es/eli/es/rdlg/1986/04/18/781/con
 >
-> 🔗 **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado:**
+> 🔗 Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado:
 > https://www.boe.es/eli/es/l/1985/04/02/7/con
 
 ---
@@ -37,9 +37,9 @@ La LCSP distingue entre:
 
 | Categoría | Definición | Régimen |
 |---|---|---|
-| **Administraciones Públicas** | AGE, CC.AA., Entidades Locales y sus organismos autónomos | Régimen pleno de la LCSP |
-| **Poderes adjudicadores no AAPP** | Entidades públicas empresariales, fundaciones públicas, mutualidades… | Régimen de la LCSP con especialidades |
-| **Resto del sector público** | Sociedades mercantiles públicas, fundaciones privadas con financiación pública | Instrucciones internas basadas en los principios de la LCSP |
+| Administraciones Públicas | AGE, CC.AA., Entidades Locales y sus organismos autónomos | Régimen pleno de la LCSP |
+| Poderes adjudicadores no AAPP | Entidades públicas empresariales, fundaciones públicas, mutualidades… | Régimen de la LCSP con especialidades |
+| Resto del sector público | Sociedades mercantiles públicas, fundaciones privadas con financiación pública | Instrucciones internas basadas en los principios de la LCSP |
 
 ---
 
@@ -60,8 +60,8 @@ Son contratos administrativos los siguientes:
 Tiene por objeto la **realización de una obra** (construcción, reforma, reparación, conservación, demolición o mantenimiento) o la ejecución de alguno de los trabajos enumerados en el Anexo I de la LCSP.
 
 Se subdivide en:
-- **Contrato de obras convencional:** el contratista ejecuta la obra a cambio de un precio.
-- **Contrato de concesión de obras:** el contratista construye y explota la obra durante un período, recuperando la inversión a través del canon que cobran a los usuarios.
+- Contrato de obras convencional: el contratista ejecuta la obra a cambio de un precio.
+- Contrato de concesión de obras: el contratista construye y explota la obra durante un período, recuperando la inversión a través del canon que cobran a los usuarios.
 
 #### 2.2.2 Contrato de concesión de servicios (arts. 284-297 LCSP)
 El contratista gestiona un **servicio público** cuya competencia tiene la Administración, asumiendo el riesgo operacional de la explotación del servicio (por ejemplo, la gestión de un aparcamiento público, una piscina municipal…).
@@ -87,14 +87,14 @@ Están excluidos del ámbito de la LCSP, entre otros:
 
 ### 2.4 Contratos menores (art. 118 LCSP)
 
-Son contratos de escasa cuantía que se pueden adjudicar directamente a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria, sin necesidad de licitación:
+Son contratos de escasa cuantía que se pueden <mark>adjudicar directamente</mark> a cualquier empresario con capacidad de obrar y que cuente con la habilitación profesional necesaria, sin necesidad de licitación:
 
 | Tipo de contrato | Umbral contrato menor |
 |---|---|
-| **Obras** | Valor estimado inferior a **40.000 euros** |
-| **Suministros y servicios** | Valor estimado inferior a **15.000 euros** |
+| Obras | Valor estimado inferior a **40.000 euros** |
+| Suministros y servicios | Valor estimado inferior a **15.000 euros** |
 
-Los contratos menores **no pueden** utilizarse con el fin de eludir los umbrales o de fraccionar un contrato más amplio.
+Los contratos menores <mark>no pueden utilizarse para eludir umbrales o fraccionar</mark> un contrato más amplio.
 
 ---
 
@@ -114,13 +114,13 @@ La LCSP establece distintos procedimientos para seleccionar al contratista:
 
 | Procedimiento | Características principales |
 |---|---|
-| **Abierto** | Cualquier empresario puede presentar oferta; es el procedimiento ordinario |
-| **Abierto simplificado** | Versión simplificada del abierto para contratos por debajo de determinados umbrales |
-| **Restringido** | Solo pueden presentar ofertas los candidatos seleccionados previamente |
-| **Negociado con publicidad** | La Administración negocia con varios candidatos; requiere publicación |
-| **Negociado sin publicidad** | Solo en supuestos tasados (urgencia extrema, seguridad nacional…) |
-| **Diálogo competitivo** | Para contratos especialmente complejos |
-| **Asociación para la innovación** | Para desarrollar productos o servicios innovadores no disponibles en el mercado |
+| Abierto | Cualquier empresario puede presentar oferta; es el procedimiento ordinario |
+| Abierto simplificado | Versión simplificada del abierto para contratos por debajo de determinados umbrales |
+| Restringido | Solo pueden presentar ofertas los candidatos seleccionados previamente |
+| Negociado con publicidad | La Administración negocia con varios candidatos; requiere publicación |
+| Negociado sin publicidad | Solo en supuestos tasados (urgencia extrema, seguridad nacional…) |
+| Diálogo competitivo | Para contratos especialmente complejos |
+| Asociación para la innovación | Para desarrollar productos o servicios innovadores no disponibles en el mercado |
 
 ---
 
@@ -128,7 +128,7 @@ La LCSP establece distintos procedimientos para seleccionar al contratista:
 
 ### 4.1 Prerrogativas de la Administración (art. 190 LCSP)
 
-Dentro de los límites y con sujeción a los requisitos y efectos señalados en la LCSP, el órgano de contratación ostenta las siguientes **prerrogativas** en la ejecución del contrato:
+Dentro de los límites y con sujeción a los requisitos y efectos señalados en la LCSP, el órgano de contratación ostenta las siguientes <mark>prerrogativas</mark> en la ejecución del contrato:
 
 - **Interpretar** los contratos administrativos.
 - **Resolver** las dudas que ofrezca su cumplimiento.
@@ -139,14 +139,14 @@ Dentro de los límites y con sujeción a los requisitos y efectos señalados en 
 
 ### 4.2 El responsable del contrato (art. 62 LCSP)
 
-Los órganos de contratación deben designar un **responsable del contrato**, que puede ser una persona física o una unidad administrativa, encargado de supervisar la ejecución y adoptar las decisiones necesarias para evitar o corregir deficiencias en la ejecución.
+Los órganos de contratación deben designar un <mark>responsable del contrato</mark>, que puede ser una persona física o una unidad administrativa, encargado de supervisar la ejecución y adoptar las decisiones necesarias para evitar o corregir deficiencias en la ejecución.
 
 ### 4.3 Modificación del contrato (arts. 203-207 LCSP)
 
 Los contratos solo pueden modificarse en los supuestos previstos en la LCSP, que distingue entre:
 
-- **Modificaciones previstas en el pliego:** aquellas que estaban previstas en los pliegos de cláusulas administrativas desde el inicio de la licitación. Son las más sencillas de tramitar.
-- **Modificaciones no previstas:** solo pueden realizarse cuando concurran circunstancias imprevisibles y su valor no supere el **35% del precio inicial** del contrato (o el **50% en casos excepcionales**).
+- Modificaciones previstas en el pliego: aquellas que estaban previstas en los pliegos de cláusulas administrativas desde el inicio de la licitación. Son las más sencillas de tramitar.
+- Modificaciones no previstas: solo pueden realizarse cuando concurran circunstancias imprevisibles y su valor no supere el <mark>35% del precio inicial</mark> del contrato (o el <mark>50% en casos excepcionales</mark>).
 
 Toda modificación debe formalizarse en **escritura pública** si el contrato inicial lo requirió, o mediante addenda al contrato.
 
@@ -166,7 +166,7 @@ El contratista puede subcontratar parte de la ejecución del contrato, con los l
 
 ## 5. EXTINCIÓN DE LOS CONTRATOS
 
-Los contratos administrativos se extinguen por **cumplimiento** o por **resolución**.
+Los contratos administrativos se extinguen por <mark>cumplimiento</mark> o por <mark>resolución</mark>.
 
 ### 5.1 Extinción por cumplimiento (arts. 210-213 LCSP)
 
@@ -174,10 +174,10 @@ La forma normal de extinción es el **cumplimiento**: el contratista ejecuta la 
 
 **Actos vinculados al cumplimiento:**
 
-- **Recepción:** acto formal por el que la Administración comprueba que la prestación se ha realizado conforme a lo pactado. En los contratos de obras, se levanta **acta de recepción** a la que asisten el representante de la Administración, el director facultativo de la obra y el contratista.
-- **Plazo de garantía:** período posterior a la recepción durante el cual el contratista responde de los defectos que aparezcan. En obras, el plazo mínimo es de **1 año** salvo que el pliego establezca otro mayor.
-- **Devolución o cancelación de la garantía definitiva:** una vez transcurrido el plazo de garantía sin incidencias, se devuelve al contratista la garantía definitiva que depositó.
-- **Liquidación:** pago del saldo resultante de las relaciones económicas del contrato.
+- Recepción: acto formal por el que la Administración comprueba que la prestación se ha realizado conforme a lo pactado. En los contratos de obras, se levanta **acta de recepción** a la que asisten el representante de la Administración, el director facultativo de la obra y el contratista.
+- Plazo de garantía: período posterior a la recepción durante el cual el contratista responde de los defectos que aparezcan. En obras, el plazo mínimo es de <mark>1 año</mark> salvo que el pliego establezca otro mayor.
+- Devolución o cancelación de la garantía definitiva: una vez transcurrido el plazo de garantía sin incidencias, se devuelve al contratista la garantía definitiva que depositó.
+- Liquidación: pago del saldo resultante de las relaciones económicas del contrato.
 
 ### 5.2 Extinción por resolución (arts. 211-213 LCSP)
 
@@ -191,8 +191,8 @@ La resolución es la **extinción anticipada** del contrato antes de que se cump
 | Declaración de concurso o insolvencia del contratista | Administración |
 | Mutuo acuerdo entre la Administración y el contratista | Ambas partes |
 | Demora en el cumplimiento de los plazos por causas imputables al contratista | Administración |
-| Demora de la Administración en el pago superior a **4 meses** | Contratista |
-| Modificación del contrato que implique variación del precio inicial en más del **20%** | Contratista |
+| Demora de la Administración en el pago superior a <mark>4 meses</mark> | Contratista |
+| Modificación del contrato que implique variación del precio inicial en más del <mark>20%</mark> | Contratista |
 | Incumplimiento de las restantes obligaciones contractuales esenciales | Administración |
 | Imposibilidad de ejecutar la prestación en los términos del contrato | Cualquiera |
 | Las establecidas expresamente en el pliego | Según el pliego |
@@ -220,11 +220,11 @@ Tiene **competencia para:**
 
 | Órgano | Competencia de contratación |
 |---|---|
-| **Consejo de Ministros** | Contratos de cuantía superior a la establecida por ley |
-| **Ministros** | Dentro de los límites de su competencia |
-| **Secretarios de Estado** | Por delegación del Ministro |
-| **Subsecretarios, Directores Generales** | Por delegación |
-| **Delegados del Gobierno** | En su ámbito territorial |
+| Consejo de Ministros | Contratos de cuantía superior a la establecida por ley |
+| Ministros | Dentro de los límites de su competencia |
+| Secretarios de Estado | Por delegación del Ministro |
+| Subsecretarios, Directores Generales | Por delegación |
+| Delegados del Gobierno | En su ámbito territorial |
 
 ### 6.3 Órganos de contratación en las Entidades Locales (art. 61 LCSP y LBRL)
 
@@ -232,9 +232,9 @@ En las Entidades Locales, los órganos de contratación son:
 
 | Órgano | Competencia |
 |---|---|
-| **Alcalde / Presidente de la Diputación** | Contratos de obras, suministros y servicios dentro del límite establecido |
-| **Pleno** | Contratos cuya cuantía supere los umbrales atribuidos al Alcalde/Presidente |
-| **Junta de Gobierno Local** | Por delegación del Alcalde cuando la cuantía no exceda de determinados límites |
+| Alcalde / Presidente de la Diputación | Contratos de obras, suministros y servicios dentro del límite establecido |
+| Pleno | Contratos cuya cuantía supere los umbrales atribuidos al Alcalde/Presidente |
+| Junta de Gobierno Local | Por delegación del Alcalde cuando la cuantía no exceda de determinados límites |
 
 En la práctica, la distribución concreta depende de lo que establezca la ley de bases del régimen local, las normas de desarrollo y los propios estatutos de cada entidad:
 
@@ -256,14 +256,14 @@ La Mesa de contratación está integrada por un **Presidente**, varios **Vocales
 
 ### 7.1 La formalización como requisito de perfección
 
-Los contratos del sector público se **perfeccionan** con su **formalización** (art. 36 LCSP), que es el acto mediante el cual las partes plasman por escrito el acuerdo que ha supuesto la adjudicación.
+Los contratos del sector público se <mark>perfeccionan con su formalización</mark> (art. 36 LCSP), que es el acto mediante el cual las partes plasman por escrito el acuerdo que ha supuesto la adjudicación.
 
-La formalización debe tener lugar dentro de los **15 días hábiles** siguientes a aquel en que se reciba la notificación de la adjudicación por los licitadores y candidatos. Si el contrato es susceptible de recurso especial en materia de contratación, el plazo es de **15 días hábiles** desde la notificación de la adjudicación, una vez transcurrido el plazo de suspensión de la formalización (10 días hábiles tras la notificación de la adjudicación).
+La formalización debe tener lugar dentro de los <mark>15 días hábiles</mark> siguientes a aquel en que se reciba la notificación de la adjudicación por los licitadores y candidatos. Si el contrato es susceptible de recurso especial en materia de contratación, el plazo es de **15 días hábiles** desde la notificación de la adjudicación, una vez transcurrido el plazo de suspensión de la formalización (10 días hábiles tras la notificación de la adjudicación).
 
 ### 7.2 Forma de la formalización
 
-- **Documento administrativo:** los contratos de las Administraciones Públicas se formalizan en **documento administrativo**, que es título suficiente para acceder a cualquier registro público.
-- **Escritura pública notarial:** cuando el contratista lo solicite a su costa, o cuando así lo exija la legislación aplicable (por ejemplo, cuando el contrato implique la cesión o constitución de derechos reales sobre bienes inmuebles).
+- Documento administrativo: los contratos de las Administraciones Públicas se formalizan en **documento administrativo**, que es título suficiente para acceder a cualquier registro público.
+- Escritura pública notarial: cuando el contratista lo solicite a su costa, o cuando así lo exija la legislación aplicable (por ejemplo, cuando el contrato implique la cesión o constitución de derechos reales sobre bienes inmuebles).
 
 ### 7.3 Especialidades de la formalización en las Entidades Locales
 

@@ -3,15 +3,15 @@ tema: 18
 titulo: "La responsabilidad de las Administraciones Públicas y de sus autoridades y demás personal a su servicio."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española (art. 106.2, 121, 149.1.18ª):**
+> 🔗 Constitución Española (art. 106.2, 121, 149.1.18ª):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), arts. 32-37:**
+> 🔗 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), arts. 32-37:
 > https://www.boe.es/eli/es/l/2015/10/01/40/con
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), arts. 65, 67, 81, 91-92, 96:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), arts. 65, 67, 81, 91-92, 96:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 
 ---
@@ -20,15 +20,15 @@ titulo: "La responsabilidad de las Administraciones Públicas y de sus autoridad
 
 ### 1.1 La responsabilidad patrimonial de la Administración
 
-La **responsabilidad patrimonial** de la Administración Pública es la obligación de indemnizar a los particulares por los daños y perjuicios que sufran como consecuencia del funcionamiento de los servicios públicos, tanto si ese funcionamiento es normal como si es anormal.
+La <mark>responsabilidad patrimonial</mark> de la Administración Pública es la obligación de indemnizar a los particulares por los daños y perjuicios que sufran como consecuencia del funcionamiento de los servicios públicos, tanto si ese funcionamiento es normal como si es anormal.
 
 Su fundamento constitucional se encuentra en el **art. 106.2 CE**:
 
 > *"Los particulares, en los términos establecidos por la ley, tendrán derecho a ser indemnizados por toda lesión que sufran en cualquiera de sus bienes y derechos, salvo en los casos de fuerza mayor, siempre que la lesión sea consecuencia del funcionamiento de los servicios públicos."*
 
-Es un sistema de responsabilidad **objetiva y directa**:
-- **Objetiva:** no es necesario probar culpa o negligencia de ningún funcionario concreto; basta con acreditar el daño, el nexo causal y la antijuridicidad de la lesión.
-- **Directa:** el ciudadano reclama directamente a la Administración, no al funcionario que causó el daño.
+Es un sistema de responsabilidad <mark>objetiva y directa</mark>:
+- Objetiva: no es necesario probar culpa o negligencia de ningún funcionario concreto; basta con acreditar el daño, el nexo causal y la antijuridicidad de la lesión.
+- Directa: el ciudadano reclama directamente a la Administración, no al funcionario que causó el daño.
 
 ### 1.2 Regulación legal
 
@@ -42,13 +42,13 @@ Para que la Administración quede obligada a indemnizar deben concurrir **todos*
 
 ### 2.1 Lesión efectiva, evaluable económicamente e individualizada
 
-- **Efectiva:** el daño debe haberse producido realmente, no ser meramente potencial o hipotético.
-- **Evaluable económicamente:** debe ser susceptible de cuantificación en términos económicos.
-- **Individualizada:** el daño debe afectar a una persona o grupo de personas concreto, no a la generalidad de los ciudadanos.
+- Efectiva: el daño debe haberse producido realmente, no ser meramente potencial o hipotético.
+- Evaluable económicamente: debe ser susceptible de cuantificación en términos económicos.
+- Individualizada: el daño debe afectar a una persona o grupo de personas concreto, no a la generalidad de los ciudadanos.
 
 ### 2.2 Qué la lesión sea antijurídica
 
-La antijuridicidad no se refiere a la conducta de la Administración (que puede ser perfectamente legal) sino a que el particular **no tenga el deber jurídico de soportar el daño**. Si existe ese deber (por ejemplo, porque la ley así lo establece), no hay responsabilidad aunque el daño sea real.
+La antijuridicidad no se refiere a la conducta de la Administración (que puede ser perfectamente legal) sino a que el particular <mark>no tenga el deber jurídico de soportar el daño</mark>. Si existe ese deber (por ejemplo, porque la ley así lo establece), no hay responsabilidad aunque el daño sea real.
 
 > 💡 Este es el rasgo más carácterístico del sistema español: la Administración responde aunque haya actuado legalmente, si el particular no estaba obligado a soportar el daño.
 
@@ -62,7 +62,7 @@ Si el nexo causal se rompe por alguna de las causas de exclusión, no hay respon
 
 La **fuerza mayor** es la única causa de exclusión expresamente prevista en el art. 106.2 CE. La fuerza mayor es un acontecimiento exterior, imprevisible e irresistible, ajeno al funcionamiento del servicio, que rompe el nexo causal.
 
-Se distingue del **caso fortuito** (acontecimiento interno al servicio, imprevisible pero no irresistible): el caso fortuito **no exime** de responsabilidad; la fuerza mayor **sí exime**.
+Se distingue del **caso fortuito** (acontecimiento interno al servicio, imprevisible pero no irresistible): el caso fortuito <mark>no exime</mark> de responsabilidad; la fuerza mayor <mark>sí exime</mark>.
 
 ---
 
@@ -118,10 +118,10 @@ La indemnización no puede superar el valor del daño real. Si se indemnizara m�
 ### 5.1 Iniciación (art. 67 LPACAP)
 
 El procedimiento puede iniciarse:
-- **A solicitud del interesado:** el particular presenta una reclamación ante la Administración responsable.
-- **De oficio:** cuando la Administración aprecia la existencia de una lesión indemnizable.
+- A solicitud del interesado: el particular presenta una reclamación ante la Administración responsable.
+- De oficio: cuando la Administración aprecia la existencia de una lesión indemnizable.
 
-El **plazo para presentar la reclamación** es de **1 año** desde que se produjo el hecho o acto que motive la indemnización o desde que se manifestó el efecto lesivo. En caso de daños físicos o psíquicos a las personas, el plazo comienza desde la curación o la determinación del alcance de las secuelas.
+El <mark>plazo para presentar la reclamación es de 1 año</mark> desde que se produjo el hecho o acto que motive la indemnización o desde que se manifestó el efecto lesivo. En caso de daños físicos o psíquicos a las personas, el plazo comienza desde la curación o la determinación del alcance de las secuelas.
 
 > ⚠️ El plazo de 1 año es de **prescripción** (no de caducidad), por lo que puede interrumpirse por cualquier acto de reclamación o reconocimiento.
 
@@ -133,7 +133,7 @@ Durante la instrucción se solicita:
 
 ### 5.3 Resolución y plazo
 
-El procedimiento debe resolverse en el plazo de **6 meses**. Transcurrido ese plazo sin resolución expresa, la reclamación se entiende **desestimada** (silencio negativo), quedando expedita la vía contencioso-administrativa.
+El procedimiento debe resolverse en el plazo de <mark>6 meses</mark>. Transcurrido ese plazo sin resolución expresa, la reclamación se entiende **desestimada** (silencio negativo), quedando expedita la vía contencioso-administrativa.
 
 ### 5.4 Reclamación en vía judicial
 
@@ -170,7 +170,7 @@ El Estado responde también por los daños causados por **error judicial** o por
 
 ### 7.1 La responsabilidad directa es de la Administración
 
-Cómo se ha señalado, el sistema español es de **responsabilidad directa**: el ciudadano reclama siempre a la Administración, no al funcionario. Esto protege al particular, que no tiene que identificar ni probar la culpa individual de ningún empleado público.
+Cómo se ha señalado, el sistema español es de **responsabilidad directa**: el ciudadano reclama <mark>siempre a la Administración, no al funcionario</mark>. Esto protege al particular, que no tiene que identificar ni probar la culpa individual de ningún empleado público.
 
 ### 7.2 La acción de regreso (art. 36 LRJSP)
 
@@ -181,7 +181,7 @@ Una vez que la Administración ha indemnizado al ciudadano, puede **repetir** (r
 - Qué la actuación del empleado público haya sido constitutiva de dolo, culpa o negligencia graves.
 - Qué exista relación de causalidad entre esa actuación y el daño.
 
-El ejercicio de la acción de regreso es **obligatorio** para la Administración cuando concurran los requisitos (no es discrecional). La exigencia de responsabilidad se tramitará mediante el procedimiento administrativo que corresponda, respetando los principios del procedimiento sancionador.
+El ejercicio de la acción de regreso es <mark>obligatorio</mark> para la Administración cuando concurran los requisitos (no es discrecional). La exigencia de responsabilidad se tramitará mediante el procedimiento administrativo que corresponda, respetando los principios del procedimiento sancionador.
 
 ### 7.3 Responsabilidad penal (art. 37 LRJSP)
 
@@ -197,16 +197,16 @@ Las autoridades y funcionarios que incurran en actuaciones causantes de daño pu
 
 | Elemento | Contenido |
 |---|---|
-| **Fundamento constitucional** | Art. 106.2 CE |
-| **Regulación legal** | Arts. 32-37 LRJSP + LPACAP (procedimiento) |
-| **Naturaleza** | Objetiva y directa |
-| **Requisitos** | Lesión efectiva + evaluable + individualizada + antijurídica + nexo causal |
-| **Causa de exclusión constitucional** | Fuerza mayor |
-| **Otras causas de exclusión** | Culpa exclusiva del perjudicado, conducta de tercero, riesgos del desarrollo |
-| **Plazo de reclamación** | 1 año (prescripción) desde el daño o desde la curación |
-| **Dictamen Consejo de Estado** | Obligatorio si reclamación ≥ 50.000 € |
-| **Plazo para resolver** | 6 meses (silencio → negativo) |
-| **Acción de regreso** | Administración → funcionario (dolo, culpa o negligencia grave) |
+| Fundamento constitucional | Art. 106.2 CE |
+| Regulación legal | Arts. 32-37 LRJSP + LPACAP (procedimiento) |
+| Naturaleza | Objetiva y directa |
+| Requisitos | Lesión efectiva + evaluable + individualizada + antijurídica + nexo causal |
+| Causa de exclusión constitucional | Fuerza mayor |
+| Otras causas de exclusión | Culpa exclusiva del perjudicado, conducta de tercero, riesgos del desarrollo |
+| Plazo de reclamación | 1 año (prescripción) desde el daño o desde la curación |
+| Dictamen Consejo de Estado | Obligatorio si reclamación ≥ 50.000 € |
+| Plazo para resolver | 6 meses (silencio → negativo) |
+| Acción de regreso | Administración → funcionario (dolo, culpa o negligencia grave) |
 
 ---
 

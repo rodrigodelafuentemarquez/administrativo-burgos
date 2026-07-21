@@ -3,15 +3,15 @@ tema: 11
 titulo: "Derecho administrativo. La jerarquía de las fuentes, la Constitución, la ley, disposiciones normativas con fuerza de ley, el Reglamento."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española (arts. 9.3, 81, 82-86, 97, 103, 106):**
+> 🔗 Constitución Española (arts. 9.3, 81, 82-86, 97, 103, 106):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:**
+> 🔗 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/40/con
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 
 ---
@@ -20,19 +20,19 @@ titulo: "Derecho administrativo. La jerarquía de las fuentes, la Constitución,
 
 ### 1.1 Concepto
 
-El **Derecho Administrativo** es la rama del Derecho Público que regula la organización, el funcionamiento, las potestades y la actividad de las Administraciones Públicas, así como las relaciones de éstas con los ciudadanos.
+El **Derecho Administrativo** es la rama del Derecho Público que regula <mark>la organización, el funcionamiento, las potestades y la actividad de las Administraciones Públicas</mark>, así como las relaciones de éstas con los ciudadanos.
 
 Se caracteriza por ser:
 
-- **Estatutario:** es el derecho propio y específico de las Administraciones Públicas.
-- **Exorbitante:** atribuye a la Administración potestades que no tienen los particulares (ejecutividad de sus actos, autotutela declarativa y ejecutiva, potestad expropiatoria, potestad sancionadora…).
-- **Garantista:** establece mecanismos de control y defensa del ciudadano frente a esas potestades (recursos, jurisdicción contencioso-administrativa, responsabilidad patrimonial…).
+- Estatutario: es el derecho propio y específico de las Administraciones Públicas.
+- Exorbitante: atribuye a la Administración potestades que no tienen los particulares (ejecutividad de sus actos, autotutela declarativa y ejecutiva, potestad expropiatoria, potestad sancionadora…).
+- Garantista: establece mecanismos de control y defensa del ciudadano frente a esas potestades (recursos, jurisdicción contencioso-administrativa, responsabilidad patrimonial…).
 
 ### 1.2 El principio de legalidad
 
 La Administración está sometida en todo momento a la ley y al Derecho. Este principio, proclamado en los **arts. 9.1 y 103.1 CE**, es la piedra angular del Derecho Administrativo: la Administración no puede actuar sin habilitación normativa previa.
 
-> 💡 **Art. 103.1 CE:** *"La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."*
+> 💡 Art. 103.1 CE: *"La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."*
 
 El **art. 9.3 CE** garantiza, además, el principio de **jerarquía normativa**, la publicidad de las normas, la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, y la seguridad jurídica.
 
@@ -48,7 +48,7 @@ En el ordenamiento jurídico español, el **art. 1 del Código Civil** reconoce 
 
 ### 2.2 La jerarquía normativa
 
-El principio de **jerarquía normativa** (art. 9.3 CE) impone que las normas de rango inferior no pueden contradecir a las de rango superior. Si lo hacen, son nulas. El orden jerárquico en el Derecho Administrativo español es el siguiente:
+El principio de <mark>jerarquía normativa</mark> (art. 9.3 CE) impone que las normas de rango inferior no pueden contradecir a las de rango superior. Si lo hacen, son nulas. El orden jerárquico en el Derecho Administrativo español es el siguiente:
 
 | Rango | Tipo de norma |
 |---|---|
@@ -58,7 +58,7 @@ El principio de **jerarquía normativa** (art. 9.3 CE) impone que las normas de 
 | 4º | Leyes ordinarias y normas con rango de ley (Decretos-leyes y Decretos legislativos) |
 | 5º | Reglamentos (Decretos del Consejo de Ministros, Órdenes ministeriales, etc.) |
 
-Dentro de cada rango rige además el principio de **competencia**: la norma dictada por el órgano competente prevalece sobre la del órgano incompetente, con independencia del rango formal.
+Dentro de cada rango rige además el principio de <mark>competencia</mark>: la norma dictada por el órgano competente prevalece sobre la del órgano incompetente, con independencia del rango formal.
 
 ---
 
@@ -68,8 +68,8 @@ Dentro de cada rango rige además el principio de **competencia**: la norma dict
 
 La **Constitución Española de 1978** ocupa la cúspide del ordenamiento jurídico. Es la **norma normarum**: la norma que regula cómo se crean las demás normas. Su superioridad se manifiesta en dos planos:
 
-- **Formal:** solo puede ser reformada mediante procedimientos especiales (arts. 167-168 CE), más exigentes que los de cualquier ley.
-- **Material:** toda norma, acto o disposición contraria a ella es nula (arts. 9.1 y 161.1.a CE).
+- Formal: solo puede ser reformada mediante procedimientos especiales (arts. 167-168 CE), más exigentes que los de cualquier ley.
+- Material: toda norma, acto o disposición contraria a ella es nula (arts. 9.1 y 161.1.a CE).
 
 ### 3.2 Eficacia directa
 
@@ -123,7 +123,7 @@ Son normas aprobadas por el **Gobierno** (poder ejecutivo) que tienen el mismo r
 ### 5.1 Decreto-ley (art. 86 CE)
 
 #### Concepto
-El Decreto-ley es una disposición legislativa **provisional** dictada por el **Gobierno** en casos de **extraordinaria y urgente necesidad**.
+El Decreto-ley es una disposición legislativa <mark>provisional</mark> dictada por el **Gobierno** en casos de <mark>extraordinaria y urgente necesidad</mark>.
 
 #### Límites materiales
 El Decreto-ley **no puede** afectar a:
@@ -134,7 +134,7 @@ El Decreto-ley **no puede** afectar a:
 
 #### Procedimiento y control parlamentario
 1. El Gobierno lo aprueba en Consejo de Ministros y se publica en el BOE.
-2. En el plazo de **30 días** desde su promulgación, el **Congreso de los Diputados** debe pronunciarse en un debate y votación de totalidad.
+2. En el plazo de <mark>30 días</mark> desde su promulgación, el <mark>Congreso de los Diputados</mark> debe pronunciarse en un debate y votación de totalidad.
 3. El Congreso puede:
    - **Convalidarlo** (mantenerlo en vigor como Decreto-ley).
    - **Derogarlo** (sin efectos retroactivos sobre lo actuado durante su vigencia).
@@ -148,36 +148,36 @@ El Decreto-ley tiene vigencia inmediata desde su publicación en el BOE, pero su
 ### 5.2 Decreto legislativo (arts. 82-85 CE)
 
 #### Concepto
-El Decreto legislativo es una norma con rango de ley dictada por el **Gobierno** en virtud de una **delegación expresa de las Cortes Generales**. No responde a la urgencia, sino a una necesidad técnica de que el Gobierno concrete o refunda textos legales.
+El Decreto legislativo es una norma con rango de ley dictada por el **Gobierno** en virtud de una <mark>delegación expresa de las Cortes Generales</mark>. No responde a la urgencia, sino a una necesidad técnica de que el Gobierno concrete o refunda textos legales.
 
 #### Presupuesto: la delegación legislativa (art. 82 CE)
 Las Cortes delegan en el Gobierno mediante:
 
 | Tipo de delegación | Instrumento | Finalidad |
 |---|---|---|
-| **Ley de bases** | Las Cortes fijan los principios y criterios básicos | El Gobierno articula un texto articulado desarrollando esas bases |
-| **Ley ordinaria de autorización** | Las Cortes autorizan la refundición | El Gobierno aprueba un texto refundido unificando varias leyes en una sola |
+| Ley de bases | Las Cortes fijan los principios y criterios básicos | El Gobierno articula un texto articulado desarrollando esas bases |
+| Ley ordinaria de autorización | Las Cortes autorizan la refundición | El Gobierno aprueba un texto refundido unificando varias leyes en una sola |
 
 #### Límites de la delegación (art. 82 CE)
-- La delegación debe otorgarse de forma **expresa**, para una **materia concreta** y con fijación de **plazo** para su ejercicio.
+- La delegación debe otorgarse de forma <mark>expresa</mark>, para una <mark>materia concreta</mark> y con fijación de <mark>plazo</mark> para su ejercicio.
 - La delegación se **agota** con su uso por el Gobierno: no puede subdelegar.
 - No puede delegarse la regulación de materias reservadas a **ley orgánica**.
 
 #### Control
 El Decreto legislativo está sujeto a:
-- **Control jurisdiccional:** los tribunales contencioso-administrativos pueden controlar si el Gobierno se ha extralimitado respecto a la delegación recibida (el exceso no tiene rango de ley, sino de reglamento).
-- **Control del TC:** en lo que tiene rango de ley, el TC controla su constitucionalidad.
-- **Control parlamentario:** las Cortes pueden establecer fórmulas adicionales de control en la propia ley de delegación.
+- Control jurisdiccional: los tribunales contencioso-administrativos pueden controlar si el Gobierno se ha extralimitado respecto a la delegación recibida (el exceso no tiene rango de ley, sino de reglamento).
+- Control del TC: en lo que tiene rango de ley, el TC controla su constitucionalidad.
+- Control parlamentario: las Cortes pueden establecer fórmulas adicionales de control en la propia ley de delegación.
 
 > 💡 **Diferencia clave Decreto-ley vs Decreto legislativo:**
 
-| | **Decreto-ley** | **Decreto legislativo** |
+| | Decreto-ley | Decreto legislativo |
 |---|---|---|
-| **Origen** | Iniciativa del Gobierno (urgencia) | Delegación de las Cortes |
-| **Habilitación previa** | No (actúa por urgencia) | Sí (ley de bases o ley de autorización) |
-| **Control parlamentario** | Posterior (30 días para convalidar) | Previo (la delegación) y posterior (control de extralimitación) |
-| **Carácter** | Provisional | Definitivo desde su aprobación |
-| **Límites materiales** | Sí (art. 86.1 CE) | Sí (no puede afectar a materias de ley orgánica) |
+| Origen | Iniciativa del Gobierno (urgencia) | Delegación de las Cortes |
+| Habilitación previa | No (actúa por urgencia) | Sí (ley de bases o ley de autorización) |
+| Control parlamentario | Posterior (30 días para convalidar) | Previo (la delegación) y posterior (control de extralimitación) |
+| Carácter | Provisional | Definitivo desde su aprobación |
+| Límites materiales | Sí (art. 86.1 CE) | Sí (no puede afectar a materias de ley orgánica) |
 
 ---
 
@@ -204,17 +204,17 @@ Las CC.AA. y los Entes Locales también tienen potestad reglamentaria en sus ám
 
 | Tipo | Descripción |
 |---|---|
-| **Reglamentos ejecutivos** | Desarrollan y complementan una ley preexistente. Requieren dictamen del Consejo de Estado (obligatorio). Son los más frecuentes. |
-| **Reglamentos independientes** | No desarrollan ninguna ley concreta. Solo pueden regular la organización interna de la Administración (relaciones de sujeción especial). En el ámbito externo, prácticamente vedados. |
-| **Reglamentos de necesidad** | Dictados en situaciones de emergencia o necesidad excepcional. Amparo en legislación especial (estados de alarma, excepción…). |
+| Reglamentos ejecutivos | Desarrollan y complementan una ley preexistente. Requieren dictamen del Consejo de Estado (obligatorio). Son los más frecuentes. |
+| Reglamentos independientes | No desarrollan ninguna ley concreta. Solo pueden regular la organización interna de la Administración (relaciones de sujeción especial). En el ámbito externo, prácticamente vedados. |
+| Reglamentos de necesidad | Dictados en situaciones de emergencia o necesidad excepcional. Amparo en legislación especial (estados de alarma, excepción…). |
 
 #### Por el órgano que los dicta (Estado):
 
 | Órgano | Instrumento |
 |---|---|
-| Consejo de Ministros | **Real Decreto** |
-| Ministros | **Orden Ministerial** |
-| Órganos inferiores | **Resoluciones, Circulares, Instrucciones** |
+| Consejo de Ministros | Real Decreto |
+| Ministros | Orden Ministerial |
+| Órganos inferiores | Resoluciones, Circulares, Instrucciones |
 
 > ⚠️ Dentro de los reglamentos también rige la jerarquía: un Real Decreto prevalece sobre una Orden Ministerial; una Orden Ministerial prevalece sobre una Resolución. Ningún reglamento puede contradecir a otro de rango superior (art. 128.3 LRJSP).
 
@@ -222,11 +222,11 @@ Las CC.AA. y los Entes Locales también tienen potestad reglamentaria en sus ám
 
 Los reglamentos deben respetar los siguientes límites:
 
-- **Principio de legalidad:** no pueden contradecir la ley ni la CE. Un reglamento contra legem es nulo de pleno derecho.
-- **Reserva de ley:** determinadas materias (derechos fundamentales, régimen electoral, Estatutos de Autonomía…) solo pueden ser reguladas por ley. El reglamento no puede entrar en esas materias salvo para completar el desarrollo de la ley habilitante.
-- **Principio de jerarquía normativa:** un reglamento inferior no puede contradecir a uno superior.
-- **Irretroactividad:** los reglamentos no pueden tener eficacia retroactiva salvo que sean favorables para los administrados (art. 9.3 CE).
-- **Interdicción de la arbitrariedad:** la potestad reglamentaria no puede ejercerse de forma arbitraria (art. 9.3 CE).
+- Principio de legalidad: no pueden contradecir la ley ni la CE. Un reglamento contra legem es nulo de pleno derecho.
+- Reserva de ley: determinadas materias (derechos fundamentales, régimen electoral, Estatutos de Autonomía…) solo pueden ser reguladas por ley. El reglamento no puede entrar en esas materias salvo para completar el desarrollo de la ley habilitante.
+- Principio de jerarquía normativa: un reglamento inferior no puede contradecir a uno superior.
+- Irretroactividad: los reglamentos no pueden tener eficacia retroactiva salvo que sean favorables para los administrados (art. 9.3 CE).
+- Interdicción de la arbitrariedad: la potestad reglamentaria no puede ejercerse de forma arbitraria (art. 9.3 CE).
 
 ### 6.5 Procedimiento de elaboración de reglamentos (art. 129 y ss. LRJSP)
 
@@ -244,7 +244,7 @@ La LRJSP establece el siguiente procedimiento para la aprobación de disposicion
 
 ### 6.6 Nulidad de los reglamentos ilegales
 
-Los reglamentos que infrinjan la Constitución, las leyes u otras normas de rango superior son **nulos de pleno derecho** (art. 47.2 LPACAP). Esta nulidad puede declararse:
+Los reglamentos que infrinjan la Constitución, las leyes u otras normas de rango superior son <mark>nulos de pleno derecho</mark> (art. 47.2 LPACAP). Esta nulidad puede declararse:
 
 - Por los **tribunales contencioso-administrativos** (recurso directo contra el reglamento, o indirecto al impugnar un acto de aplicación).
 - Por la propia **Administración**, de oficio o a instancia de parte.

@@ -3,18 +3,18 @@ tema: 10
 titulo: "La Provincia. Configuración constitucional y legal. Organización: órganos básicos y complementarios. Régimen de competencias."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española, art. 141, texto consolidado en el BOE:**
+> 🔗 Constitución Española, art. 141, texto consolidado en el BOE:
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado en el BOE:**
+> 🔗 Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/l/1985/04/02/7/con
 >
-> 🔗 **Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales (ROF), texto consolidado en el BOE:**
+> 🔗 Real Decreto 2568/1986, de 28 de noviembre, por el que se aprueba el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales (ROF), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/rd/1986/11/28/2568/con
 >
-> 🔗 **Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León:**
+> 🔗 Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León:
 > https://www.bocyl.es/boletines/1998/06/12/jcyl-b-1998-111-4745.do
 
 ---
@@ -25,14 +25,14 @@ titulo: "La Provincia. Configuración constitucional y legal. Organización: ór
 
 El art. 141.1 CE define la provincia con una doble naturaleza:
 
-> *"La provincia es una entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado."*
+> *"La provincia es una <mark>entidad local con personalidad jurídica propia</mark>, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado."*
 
 De esta definición se extraen dos dimensiones esenciales:
 
 | Dimensión | Descripción |
 |---|---|
-| **Entidad local autónoma** | Con personalidad jurídica propia y autonomía para la gestión de sus intereses, garantizada constitucionalmente |
-| **División territorial del Estado** | Circunscripción para el cumplimiento de las actividades del Estado y también de las CC.AA. (elecciones, organización judicial, periférica de la AGE…) |
+| Entidad local autónoma | Con personalidad jurídica propia y autonomía para la gestión de sus intereses, garantizada constitucionalmente |
+| División territorial del Estado | Circunscripción para el cumplimiento de las actividades del Estado y también de las CC.AA. (elecciones, organización judicial, periférica de la AGE…) |
 
 Esta doble naturaleza es una característica singular de la provincia española: es a la vez un ente local con autonomía propia y un instrumento organizativo del Estado y de las CC.AA. en el territorio.
 
@@ -48,13 +48,13 @@ La provincia goza de una **garantía institucional** reconocida por la CE: la in
 
 ### 1.3 El número de provincias
 
-España tiene **50 provincias**, número que se mantiene desde la división territorial de **Javier de Burgos** en 1833, que configuró el mapa provincial actual. Castilla y León tiene **9 provincias**: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.
+España tiene <mark>50 provincias</mark>, número que se mantiene desde la división territorial de **Javier de Burgos** en 1833, que configuró el mapa provincial actual. Castilla y León tiene <mark>9 provincias</mark>: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.
 
 ---
 
 ### 1.4 La Diputación Provincial como órgano de gobierno (art. 141.2 CE)
 
-El art. 141.2 CE establece que el gobierno y la administración autónoma de las provincias corresponde a las **Diputaciones Provinciales** u otras Corporaciones de carácter representativo.
+El art. 141.2 CE establece que el gobierno y la administración autónoma de las provincias corresponde a las <mark>Diputaciones Provinciales</mark> u otras Corporaciones de carácter representativo.
 
 > 💡 Las Diputaciones son los órganos de gobierno de las provincias de régimen común. En los territorios forales (País Vasco: Álava, Bizkaia y Gipuzkoa) existen las **Juntas Generales y Diputaciones Forales**; en Navarra la **Diputación Foral de Navarra**. En los archipiélagos, las funciones provinciales corresponden a los **Cabildos** (Canarias) y **Consells** (Baleares).
 
@@ -73,7 +73,7 @@ La LBRL desarrolla la configuración constitucional de la provincia estableciend
 
 ### 2.1 Órganos básicos necesarios (art. 32 LBRL)
 
-La LBRL establece que son **órganos necesarios** de todas las Diputaciones Provinciales:
+La LBRL establece que son <mark>órganos necesarios</mark> de todas las Diputaciones Provinciales:
 
 1. El **Presidente**
 2. Los **Vicepresidentes**
@@ -130,7 +130,7 @@ El Pleno es el órgano de máxima decisión de la Diputación. Sus atribuciones 
 
 #### d) Funcionamiento del Pleno
 
-- Se reúne en **sesión ordinaria** como mínimo una vez al mes en las Diputaciones de más de 20.000 habitantes, y como mínimo cada tres meses en las demás.
+- Se reúne en **sesión ordinaria** como mínimo <mark>una vez al mes</mark> en las Diputaciones de más de 20.000 habitantes, y como mínimo <mark>cada tres meses</mark> en las demás.
 - En **sesión extraordinaria** cuando así lo decida el Presidente o lo solicite la cuarta parte de los Diputados.
 - En **sesión extraordinaria urgente** por razones de urgencia.
 - Para la válida constitución del Pleno se requiere la asistencia de **un tercio del número legal de miembros** y nunca menos de tres. En primera convocatoria se requiere mayoría absoluta.
@@ -142,7 +142,7 @@ El Pleno es el órgano de máxima decisión de la Diputación. Sus atribuciones 
 
 #### a) Elección
 
-El Presidente de la Diputación Provincial es elegido por los **Diputados Provinciales** en sesión constitutiva del Pleno, de entre sus miembros, por **mayoría absoluta** en primera votación o por **mayoría simple** en segunda votación entre los dos candidatos que hubieran obtenido mayor número de votos en la primera.
+El Presidente de la Diputación Provincial es elegido por los **Diputados Provinciales** en sesión constitutiva del Pleno, de entre sus miembros, por <mark>mayoría absoluta</mark> en primera votación o por <mark>mayoría simple</mark> en segunda votación entre los dos candidatos que hubieran obtenido mayor número de votos en la primera.
 
 Es nombrado mediante **Real Decreto** refrendado por el Ministro de Administraciones Públicas (o equivalente).
 
@@ -163,7 +163,7 @@ Es nombrado mediante **Real Decreto** refrendado por el Ministro de Administraci
 
 #### c) Moción de censura y cuestión de confianza
 
-- El Pleno puede exigir la responsabilidad política del Presidente mediante la aprobación de una **moción de censura constructiva**, que debe proponer un candidato alternativo y ser aprobada por **mayoría absoluta** del Pleno.
+- El Pleno puede exigir la responsabilidad política del Presidente mediante la aprobación de una <mark>moción de censura constructiva</mark>, que debe proponer un candidato alternativo y ser aprobada por <mark>mayoría absoluta</mark> del Pleno.
 - El Presidente puede plantear al Pleno una **cuestión de confianza**, vinculada a la aprobación de algún asunto de especial relevancia. Si no obtiene la confianza, debe presentar su dimisión.
 
 ---
@@ -231,7 +231,7 @@ La Diputación coopera con los municipios de la provincia en la planificación y
 
 #### b) Asistencia y cooperación jurídica, económica y técnica a los municipios
 
-Especialmente los de menor capacidad económica y de gestión. Esta es la competencia nuclear de la Diputación: el servicio a los municipios, especialmente a los más pequeños.
+Especialmente los de menor capacidad económica y de gestión. Esta es la <mark>competencia nuclear de la Diputación</mark>: el servicio a los municipios, especialmente a los más pequeños.
 
 #### c) Prestación de servicios públicos de carácter supramunicipal y supracomarcal
 
@@ -265,7 +265,7 @@ Son el instrumento principal de cooperación económica de la Diputación con lo
 
 ### 3.2 Las competencias delegadas
 
-Además de las competencias propias, el Estado y las CC.AA. pueden **delegar competencias** en las Diputaciones Provinciales, con la correspondiente financiación. Esta delegación debe formalizarse mediante convenio que determine el alcance, contenido, condiciones y duración, así como el control que se reserve la Administración delegante.
+Además de las competencias propias, el Estado y las CC.AA. pueden <mark>delegar competencias</mark> en las Diputaciones Provinciales, con la correspondiente financiación. Esta delegación debe formalizarse mediante convenio que determine el alcance, contenido, condiciones y duración, así como el control que se reserve la Administración delegante.
 
 ---
 
@@ -281,8 +281,8 @@ La relación entre la Diputación Provincial y los municipios de la provincia no
 
 Las Haciendas Locales deben disponer de los medios suficientes para el desempeño de sus funciones (art. 142 CE). Los recursos de las Diputaciones Provinciales son:
 
-- **Ingresos propios:** tributos propios (tasas, contribuciones especiales, precios públicos), rendimientos del patrimonio provincial y productos de operaciones de crédito.
-- **Participación en los tributos del Estado (PIE):** es el recurso más importante de las Diputaciones de régimen común. Se calcula en función de criterios objetivos (población, esfuerzo fiscal, etc.).
+- Ingresos propios: tributos propios (tasas, contribuciones especiales, precios públicos), rendimientos del patrimonio provincial y productos de operaciones de crédito.
+- Participación en los tributos del Estado (PIE): es el recurso más importante de las Diputaciones de régimen común. Se calcula en función de criterios objetivos (población, esfuerzo fiscal, etc.).
 - **Participación en los tributos de las CC.AA.**
 - **Subvenciones** del Estado y de la Comunidad Autónoma.
 - **Ingresos procedentes de precios públicos** por servicios prestados.

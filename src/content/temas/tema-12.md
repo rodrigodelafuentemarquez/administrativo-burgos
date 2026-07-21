@@ -3,15 +3,15 @@ tema: 12
 titulo: "Los conceptos de Administración Pública y de Derecho administrativo. Las fuentes del Derecho administrativo. La jerarquía de las fuentes, la Constitución, la ley, disposiciones normativas con fuerza de ley, el Reglamento."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española (arts. 9.1, 9.3, 97, 103, 106):**
+> 🔗 Constitución Española (arts. 9.1, 9.3, 97, 103, 106):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:**
+> 🔗 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/40/con
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 
 ---
@@ -26,28 +26,28 @@ titulo: "Los conceptos de Administración Pública y de Derecho administrativo. 
 
 La expresión **"Administración Pública"** puede entenderse en dos sentidos:
 
-- **Sentido subjetivo u orgánico:** hace referencia al conjunto de entes, órganos y organismos que integran la organización administrativa del Estado. Es la Administración como sujeto.
-- **Sentido objetivo o funcional:** hace referencia a la actividad que desarrollan esos entes: la gestión de los intereses generales, la prestación de servicios públicos, la aplicación de las leyes…
+- Sentido subjetivo u orgánico: hace referencia al conjunto de entes, órganos y organismos que integran la organización administrativa del Estado. Es la Administración como sujeto.
+- Sentido objetivo o funcional: hace referencia a la actividad que desarrollan esos entes: la gestión de los intereses generales, la prestación de servicios públicos, la aplicación de las leyes…
 
-En sentido técnico-jurídico, **Administración Pública** es el conjunto de personas jurídico-públicas que, bajo la dirección del Gobierno, sirven con objetividad los intereses generales, actuando con personalidad jurídica propia, sometidas al Derecho Administrativo y sujetas al control jurisdiccional.
+En sentido técnico-jurídico, **Administración Pública** es el <mark>conjunto de personas jurídico-públicas</mark> que, bajo la dirección del Gobierno, sirven con objetividad los intereses generales, actuando con personalidad jurídica propia, sometidas al Derecho Administrativo y sujetas al control jurisdiccional.
 
 ### 1.2 Reconocimiento constitucional
 
 La Constitución se refiere a la Administración Pública en su **art. 103**, que recoge los principios que deben regir su actuación:
 
-> **Art. 103.1 CE:** *"La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."*
+> Art. 103.1 CE: *"La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho."*
 
 Los principios constitucionales de la Administración son, por tanto:
 
 | Principio | Significado |
 |---|---|
-| **Objetividad** | Actúa en interés general, no en interés propio ni partidista |
-| **Eficacia** | Debe lograr los resultados previstos con los medios disponibles |
-| **Jerarquía** | Los órganos superiores dirigen y controlan a los inferiores |
-| **Descentralización** | Atribución de competencias a entes territoriales distintos del Estado |
-| **Desconcentración** | Transferencia de competencias entre órganos de un mismo ente |
-| **Coordinación** | Armonización de la actuación de distintos órganos y Administraciones |
-| **Sometimiento a la ley y al Derecho** | Principio de legalidad: la Administración solo puede hacer lo que la ley permite |
+| Objetividad | Actúa en interés general, no en interés propio ni partidista |
+| Eficacia | Debe lograr los resultados previstos con los medios disponibles |
+| Jerarquía | Los órganos superiores dirigen y controlan a los inferiores |
+| Descentralización | Atribución de competencias a entes territoriales distintos del Estado |
+| Desconcentración | Transferencia de competencias entre órganos de un mismo ente |
+| Coordinación | Armonización de la actuación de distintos órganos y Administraciones |
+| Sometimiento a la ley y al Derecho | Principio de legalidad: la Administración solo puede hacer lo que la ley permite |
 
 ### 1.3 Las Administraciones Públicas en la LRJSP
 
@@ -60,14 +60,14 @@ El **art. 2 LRJSP** delimita qué entes tienen la consideración de Administraci
 
 ### 1.4 Las potestades administrativas
 
-Una de las carácterísticas que distingue a la Administración de los particulares es que actúa investida de **potestades** que el ordenamiento le atribuye para cumplir sus fines. Las principales son:
+Una de las carácterísticas que distingue a la Administración de los particulares es que actúa investida de <mark>potestades</mark> que el ordenamiento le atribuye para cumplir sus fines. Las principales son:
 
-- **Potestad reglamentaria:** dictar normas de carácter general (reglamentos).
-- **Potestad de autotutela declarativa:** la Administración declara por sí misma sus derechos y los impone sin necesidad de acudir a un juez.
-- **Potestad de autotutela ejecutiva:** ejecuta sus propias decisiones de forma coactiva (apremio, ejecución subsidiaria…).
-- **Potestad expropiatoria:** puede privar a los particulares de bienes o derechos por causa de utilidad pública, con indemnización.
-- **Potestad sancionadora:** impone sanciones a quienes infringen las normas administrativas.
-- **Potestad de planificación:** elabora planes vinculantes (urbanísticos, económicos…).
+- Potestad reglamentaria: dictar normas de carácter general (reglamentos).
+- Potestad de autotutela declarativa: la Administración declara por sí misma sus derechos y los impone sin necesidad de acudir a un juez.
+- Potestad de autotutela ejecutiva: ejecuta sus propias decisiones de forma coactiva (apremio, ejecución subsidiaria…).
+- Potestad expropiatoria: puede privar a los particulares de bienes o derechos por causa de utilidad pública, con indemnización.
+- Potestad sancionadora: impone sanciones a quienes infringen las normas administrativas.
+- Potestad de planificación: elabora planes vinculantes (urbanísticos, económicos…).
 
 ---
 
@@ -87,21 +87,21 @@ Es un derecho **estatutario**: se aplica a la Administración por el hecho de se
 
 | Carácter | Explicación |
 |---|---|
-| **Derecho Público** | Regula relaciones en las que interviene el poder público, con posición de supremacía respecto al particular |
-| **Derecho interno** | Es el derecho estatal o autonómico, a diferencia del Derecho Internacional o de la UE (aunque ambos influyen decisivamente) |
-| **Derecho estatutario** | Propio de la Administración como sujeto específico, no del objeto de la actividad |
-| **Derecho exorbitante** | Atribuye a la Administración poderes que los particulares no tienen (potestades) |
-| **Derecho garantista** | Establece técnicas de protección del ciudadano (recursos, control judicial, responsabilidad patrimonial…) |
-| **Derecho en expansión** | Su ámbito se amplía continuamente a medida que crece la intervención pública |
+| Derecho Público | Regula relaciones en las que interviene el poder público, con posición de supremacía respecto al particular |
+| Derecho interno | Es el derecho estatal o autonómico, a diferencia del Derecho Internacional o de la UE (aunque ambos influyen decisivamente) |
+| Derecho estatutario | Propio de la Administración como sujeto específico, no del objeto de la actividad |
+| Derecho exorbitante | Atribuye a la Administración poderes que los particulares no tienen (potestades) |
+| Derecho garantista | Establece técnicas de protección del ciudadano (recursos, control judicial, responsabilidad patrimonial…) |
+| Derecho en expansión | Su ámbito se amplía continuamente a medida que crece la intervención pública |
 
 ### 2.3 Relación con otras ramas del Derecho
 
 El Derecho Administrativo se relaciona con:
 
-- **Derecho Constitucional:** la CE es el fundamento de toda la organización administrativa y de sus principios rectores.
-- **Derecho Civil:** se aplica supletoriamente cuando el DA no regula una cuestión (art. 4.3 CC). También cuando la Administración actúa en relaciones de Derecho Privado.
-- **Derecho Penal:** delimita las infracciones administrativas de las penales; el principio non bis in idem conecta ambas ramas.
-- **Derecho de la UE:** el ordenamiento europeo obliga directamente a las Administraciones nacionales y desplaza al Derecho interno cuando hay contradicción.
+- Derecho Constitucional: la CE es el fundamento de toda la organización administrativa y de sus principios rectores.
+- Derecho Civil: se aplica supletoriamente cuando el DA no regula una cuestión (art. 4.3 CC). También cuando la Administración actúa en relaciones de Derecho Privado.
+- Derecho Penal: delimita las infracciones administrativas de las penales; el principio non bis in idem conecta ambas ramas.
+- Derecho de la UE: el ordenamiento europeo obliga directamente a las Administraciones nacionales y desplaza al Derecho interno cuando hay contradicción.
 
 ---
 
@@ -117,9 +117,9 @@ El **art. 1.1 del Código Civil** reconoce como fuentes del ordenamiento jurídi
 
 Se distingue habitualmente entre:
 
-- **Fuentes escritas:** Constitución, leyes, reglamentos, tratados internacionales, Derecho de la UE.
-- **Fuentes no escritas:** costumbre, principios generales del Derecho.
-- **Fuentes complementarias:** jurisprudencia.
+- Fuentes escritas: Constitución, leyes, reglamentos, tratados internacionales, Derecho de la UE.
+- Fuentes no escritas: costumbre, principios generales del Derecho.
+- Fuentes complementarias: jurisprudencia.
 
 ---
 
@@ -127,7 +127,7 @@ Se distingue habitualmente entre:
 
 ### 4.1 El principio de jerarquía normativa
 
-El **art. 9.3 CE** garantiza el principio de **jerarquía normativa**: toda norma de rango inferior debe respetar y no contradecir a las normas de rango superior. Si lo hace, es nula.
+El **art. 9.3 CE** garantiza el principio de <mark>jerarquía normativa</mark>: toda norma de rango inferior debe respetar y no contradecir a las normas de rango superior. Si lo hace, es nula.
 
 La escala jerárquica del ordenamiento jurídico-administrativo español es:
 
@@ -148,10 +148,10 @@ Junto a la jerarquía rige el principio de **competencia**: cuando dos normas de
 
 ### 5.1 Supremacía constitucional
 
-La Constitución ocupa la **cúspide** del ordenamiento jurídico. Es la **norma normarum**: la norma que regula cómo se crean, modifican y derogan las demás. Su supremacía es doble:
+La Constitución ocupa la <mark>cúspide</mark> del ordenamiento jurídico. Es la <mark>norma normarum</mark>: la norma que regula cómo se crean, modifican y derogan las demás. Su supremacía es doble:
 
-- **Formal:** solo puede ser modificada por los procedimientos especiales de los arts. 167-168 CE.
-- **Material:** cualquier norma contraria a ella es nula (arts. 9.1 y 161.1.a CE).
+- Formal: solo puede ser modificada por los procedimientos especiales de los arts. 167-168 CE.
+- Material: cualquier norma contraria a ella es nula (arts. 9.1 y 161.1.a CE).
 
 ### 5.2 Eficacia directa
 
@@ -178,7 +178,7 @@ Las leyes orgánicas regulan materias que la CE reserva expresamente a esta cate
 - **Régimen electoral general**.
 - Las demás **previstas expresamente** en la CE.
 
-Requieren **mayoría absoluta del Congreso** en votación final sobre el conjunto del proyecto. No son jerárquicamente superiores a las leyes ordinarias en materias no reservadas, sino que su superioridad deriva del principio de competencia (materia reservada).
+Requieren <mark>mayoría absoluta del Congreso</mark> en votación final sobre el conjunto del proyecto. No son jerárquicamente superiores a las leyes ordinarias en materias no reservadas, sino que su superioridad deriva del principio de competencia (materia reservada).
 
 ### 6.3 Ley ordinaria
 
@@ -192,7 +192,7 @@ Son normas dictadas por el **Gobierno** con el mismo rango que la ley, sin segui
 
 ### 7.1 Decreto-ley (art. 86 CE)
 
-**Concepto:** disposición legislativa provisional dictada por el Gobierno en casos de **extraordinaria y urgente necesidad**.
+**Concepto:** disposición legislativa provisional dictada por el Gobierno en casos de <mark>extraordinaria y urgente necesidad</mark>.
 
 **Límites materiales:** no puede afectar a:
 - El ordenamiento de las instituciones básicas del Estado.
@@ -200,22 +200,22 @@ Son normas dictadas por el **Gobierno** con el mismo rango que la ley, sin segui
 - El régimen de las CC.AA.
 - El Derecho electoral general.
 
-**Control parlamentario:** el Congreso dispone de **30 días** para convalidarlo o derogarlo. También puede tramitarlo como proyecto de ley por el procedimiento de urgencia.
+**Control parlamentario:** el Congreso dispone de <mark>30 días</mark> para convalidarlo o derogarlo. También puede tramitarlo como proyecto de ley por el procedimiento de urgencia.
 
 **Carácter provisional:** entra en vigor desde su publicación en el BOE, pero su vigencia queda condicionada a la convalidación parlamentaria.
 
 ### 7.2 Decreto legislativo (arts. 82-85 CE)
 
-**Concepto:** norma con rango de ley dictada por el Gobierno en virtud de una **delegación expresa de las Cortes Generales**.
+**Concepto:** norma con rango de ley dictada por el Gobierno en virtud de una <mark>delegación expresa de las Cortes Generales</mark>.
 
 **Modalidades:**
 
 | Tipo de delegación | Instrumento de delegación | Resultado |
 |---|---|---|
-| Para desarrollar principios y criterios básicos | **Ley de bases** | **Texto articulado** |
-| Para unificar varias leyes dispersas | **Ley ordinaria de autorización** | **Texto refundido** |
+| Para desarrollar principios y criterios básicos | Ley de bases | Texto articulado |
+| Para unificar varias leyes dispersas | Ley ordinaria de autorización | Texto refundido |
 
-**Límites:** la delegación debe ser expresa, para materia concreta y con plazo determinado. No puede recaer sobre materias de ley orgánica. La delegación se agota con su primer uso.
+**Límites:** la delegación debe ser <mark>expresa, para materia concreta y con plazo determinado</mark>. No puede recaer sobre materias de ley orgánica. La delegación se agota con su primer uso.
 
 **Control:**
 - Los tribunales contencioso-administrativos controlan la posible extralimitación del Gobierno respecto a la delegación recibida (el exceso tiene rango reglamentario, no legal).
@@ -233,12 +233,12 @@ Su fundamento constitucional está en el **art. 97 CE**: el Gobierno ejerce la p
 
 ### 8.2 Diferencias con la ley
 
-| | **Ley** | **Reglamento** |
+| | Ley | Reglamento |
 |---|---|---|
-| **Órgano que lo dicta** | Poder legislativo (Cortes o Asambleas CC.AA.) | Poder ejecutivo (Gobierno o Administración) |
-| **Rango** | Legal | Infralegal |
-| **Control de legalidad** | Tribunal Constitucional | Tribunales contencioso-administrativos |
-| **Derogación** | Solo por otra ley o por el TC | Por la propia Administración o por los tribunales |
+| Órgano que lo dicta | Poder legislativo (Cortes o Asambleas CC.AA.) | Poder ejecutivo (Gobierno o Administración) |
+| Rango | Legal | Infralegal |
+| Control de legalidad | Tribunal Constitucional | Tribunales contencioso-administrativos |
+| Derogación | Solo por otra ley o por el TC | Por la propia Administración o por los tribunales |
 
 ### 8.3 Clases de reglamentos
 
@@ -246,25 +246,25 @@ Su fundamento constitucional está en el **art. 97 CE**: el Gobierno ejerce la p
 
 | Tipo | Descripción |
 |---|---|
-| **Ejecutivos** | Desarrollan y complementan una ley preexistente. Requieren dictamen preceptivo del Consejo de Estado. |
-| **Independientes** | No desarrollan una ley concreta. Solo pueden regular la organización interna de la Administración. Vedados en el ámbito externo (relaciones con ciudadanos). |
-| **De necesidad** | Dictados en situaciones de emergencia al amparo de legislación especial. |
+| Ejecutivos | Desarrollan y complementan una ley preexistente. Requieren dictamen preceptivo del Consejo de Estado. |
+| Independientes | No desarrollan una ley concreta. Solo pueden regular la organización interna de la Administración. Vedados en el ámbito externo (relaciones con ciudadanos). |
+| De necesidad | Dictados en situaciones de emergencia al amparo de legislación especial. |
 
 **Por el órgano que los dicta en la AGE:**
 
 | Órgano | Instrumento |
 |---|---|
-| Consejo de Ministros | **Real Decreto** |
-| Ministros | **Orden Ministerial** |
-| Órganos inferiores | **Resoluciones, Circulares, Instrucciones** |
+| Consejo de Ministros | Real Decreto |
+| Ministros | Orden Ministerial |
+| Órganos inferiores | Resoluciones, Circulares, Instrucciones |
 
 ### 8.4 Límites del poder reglamentario
 
-- **Principio de legalidad:** no pueden contradecir la CE ni las leyes. Un reglamento contra legem es nulo de pleno derecho.
-- **Reserva de ley:** determinadas materias (derechos fundamentales, régimen electoral…) solo pueden ser reguladas por ley. El reglamento no puede invadir esas materias salvo para complementar el desarrollo legal.
-- **Jerarquía reglamentaria:** ningún reglamento puede contradecir a otro de rango superior (art. 128.3 LRJSP).
-- **Irretroactividad:** salvo que sea favorable para los administrados (art. 9.3 CE).
-- **Interdicción de la arbitrariedad:** la potestad reglamentaria no puede ejercerse de forma arbitraria (art. 9.3 CE).
+- Principio de legalidad: no pueden contradecir la CE ni las leyes. Un reglamento contra legem es nulo de pleno derecho.
+- Reserva de ley: determinadas materias (derechos fundamentales, régimen electoral…) solo pueden ser reguladas por ley. El reglamento no puede invadir esas materias salvo para complementar el desarrollo legal.
+- Jerarquía reglamentaria: ningún reglamento puede contradecir a otro de rango superior (art. 128.3 LRJSP).
+- Irretroactividad: salvo que sea favorable para los administrados (art. 9.3 CE).
+- Interdicción de la arbitrariedad: la potestad reglamentaria no puede ejercerse de forma arbitraria (art. 9.3 CE).
 
 ### 8.5 Procedimiento de elaboración (arts. 129 y ss. LRJSP)
 
@@ -278,7 +278,7 @@ Su fundamento constitucional está en el **art. 97 CE**: el Gobierno ejerce la p
 
 ### 8.6 Nulidad de los reglamentos ilegales
 
-Los reglamentos contrarios a la CE, a las leyes o a normas de rango superior son **nulos de pleno derecho** (art. 47.2 LPACAP). La nulidad puede declararse:
+Los reglamentos contrarios a la CE, a las leyes o a normas de rango superior son <mark>nulos de pleno derecho</mark> (art. 47.2 LPACAP). La nulidad puede declararse:
 
 - Por los **tribunales contencioso-administrativos** (recurso directo o indirecto).
 - Por la propia **Administración** de oficio.

@@ -3,15 +3,15 @@ tema: 13
 titulo: "Las Administraciones Públicas. Los principios de la organización administrativa. Sometimiento de la Administración a la ley y al derecho."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española (arts. 9.1, 9.3, 103, 105, 106):**
+> 🔗 Constitución Española (arts. 9.1, 9.3, 103, 105, 106):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:**
+> 🔗 Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público (LRJSP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/40/con
 >
-> 🔗 **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:**
+> 🔗 Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común (LPACAP), texto consolidado:
 > https://www.boe.es/eli/es/l/2015/10/01/39/con
 
 ---
@@ -20,20 +20,20 @@ titulo: "Las Administraciones Públicas. Los principios de la organización admi
 
 ### 1.1 Concepto y pluralidad
 
-En el Estado autonómico español no existe una única Administración Pública sino una **pluralidad de Administraciones**, cada una con personalidad jurídica propia, competencias propias y organización propia. Esta pluralidad es consecuencia directa de la organización territorial del Estado proclamada en el art. 137 CE.
+En el Estado autonómico español no existe una única Administración Pública sino una <mark>pluralidad de Administraciones</mark>, cada una con personalidad jurídica propia, competencias propias y organización propia. Esta pluralidad es consecuencia directa de la organización territorial del Estado proclamada en el art. 137 CE.
 
 El **art. 2 LRJSP** delimita el ámbito subjetivo de las Administraciones Públicas a efectos de esa ley:
 
 | Tipo de Administración | Integrantes |
 |---|---|
-| **Administración General del Estado (AGE)** | La Administración central del Estado y sus organismos dependientes |
-| **Administraciones de las Comunidades Autónomas** | La Administración propia de cada CC.AA. y sus organismos |
-| **Administración Local** | Municipios, provincias, islas y demás entidades locales |
-| **Sector público institucional** | Organismos autónomos, entidades públicas empresariales, agencias, fundaciones públicas… cuando ejercen potestades administrativas |
+| Administración General del Estado (AGE) | La Administración central del Estado y sus organismos dependientes |
+| Administraciones de las Comunidades Autónomas | La Administración propia de cada CC.AA. y sus organismos |
+| Administración Local | Municipios, provincias, islas y demás entidades locales |
+| Sector público institucional | Organismos autónomos, entidades públicas empresariales, agencias, fundaciones públicas… cuando ejercen potestades administrativas |
 
 ### 1.2 Personalidad jurídica
 
-Cada Administración Pública tiene **personalidad jurídica única** en sus relaciones con terceros. Esto significa que actúa como sujeto de derechos y obligaciones, puede contratar, ser demandada ante los tribunales, ser titular de bienes y responder patrimonialmente de sus actos.
+Cada Administración Pública tiene <mark>personalidad jurídica única</mark> en sus relaciones con terceros. Esto significa que actúa como sujeto de derechos y obligaciones, puede contratar, ser demandada ante los tribunales, ser titular de bienes y responder patrimonialmente de sus actos.
 
 Los **órganos** de cada Administración —ministerios, concejalías, servicios, etc.— no tienen personalidad jurídica propia: actúan en nombre y por cuenta de la Administración a la que pertenecen.
 
@@ -43,9 +43,9 @@ La LRJSP distingue entre:
 
 - **Administraciones Públicas** en sentido estricto (art. 2 LRJSP): sometidas íntegramente al Derecho Administrativo.
 - **Sector público institucional** (arts. 84 y ss. LRJSP): organismos y entidades que pueden estar sometidos parcialmente al Derecho Privado, aunque ejerzan funciones públicas. Incluye:
-  - **Organismos autónomos:** Derecho Administrativo, dependen de una Administración matriz.
-  - **Entidades públicas empresariales:** pueden actuar en régimen de Derecho Privado en su actividad, pero se rigen por DA en cuanto a su organización y potestades.
-  - **Sociedades mercantiles públicas:** capital mayoritariamente público, se rigen por Derecho Privado.
+  - Organismos autónomos: Derecho Administrativo, dependen de una Administración matriz.
+  - Entidades públicas empresariales: pueden actuar en régimen de Derecho Privado en su actividad, pero se rigen por DA en cuanto a su organización y potestades.
+  - Sociedades mercantiles públicas: capital mayoritariamente público, se rigen por Derecho Privado.
   - **Fundaciones del sector público.**
   - **Fondos sin personalidad jurídica.**
 
@@ -78,8 +78,8 @@ Instrumentos de la jerarquía:
 
 Supone la **transferencia de competencias** desde el Estado a **entes territoriales distintos** (CC.AA., municipios, provincias) con personalidad jurídica propia. Es una técnica de reparto del poder entre entes independientes.
 
-- **Descentralización política:** la que da lugar al Estado autonómico (art. 137 CE).
-- **Descentralización administrativa:** la que transfiere competencias de gestión a entes locales.
+- Descentralización política: la que da lugar al Estado autonómico (art. 137 CE).
+- Descentralización administrativa: la que transfiere competencias de gestión a entes locales.
 
 La descentralización implica que el ente que recibe la competencia la ejerce como propia, bajo su responsabilidad y sin instrucciones del ente transferente (aunque puede haber controles).
 
@@ -89,14 +89,14 @@ Supone la transferencia de competencias desde un **órgano superior a un órgano
 
 Ejemplos: el Ministro desconcentra competencias en el Secretario de Estado; el Alcalde en el Concejal delegado.
 
-> 💡 **Clave diferenciadora:** Descentralización = entre personas jurídicas distintas. Desconcentración = dentro de la misma persona jurídica, entre órganos.
+> 💡 **Clave diferenciadora:** <mark>Descentralización = entre personas jurídicas distintas. Desconcentración = dentro de la misma persona jurídica, entre órganos.</mark>
 
 #### 2.2.4 Coordinación
 
 Consiste en armonizar la actuación de distintos órganos o Administraciones para evitar duplicidades, contradicciones o ineficiencias. Puede ser:
 
-- **Interna:** coordinación entre órganos de una misma Administración (papel de los órganos de coordinación interministerial, comisiones interdepartamentales…).
-- **Interadministrativa:** coordinación entre distintas Administraciones (conferencias sectoriales, comisiones bilaterales, convenios de colaboración…).
+- Interna: coordinación entre órganos de una misma Administración (papel de los órganos de coordinación interministerial, comisiones interdepartamentales…).
+- Interadministrativa: coordinación entre distintas Administraciones (conferencias sectoriales, comisiones bilaterales, convenios de colaboración…).
 
 La coordinación no implica subordinación: el ente coordinado conserva su autonomía.
 
@@ -121,16 +121,16 @@ El art. 3.1 LRJSP añade a los constitucionales los siguientes principios de act
 
 | Principio | Contenido esencial |
 |---|---|
-| **Servicio efectivo a los ciudadanos** | La actividad administrativa tiene como fin último la satisfacción de las necesidades de los ciudadanos |
-| **Simplicidad, claridad y proximidad** | Los procedimientos deben ser sencillos y comprensibles; la Administración debe estar próxima al ciudadano |
-| **Participación, objetividad y transparencia** | Los ciudadanos deben poder intervenir en los procedimientos y conocer la actuación administrativa |
-| **Racionalización y agilidad** | Reducción de cargas administrativas innecesarias |
-| **Buena fe y confianza legítima** | La Administración debe actuar de buena fe y no defraudar las expectativas legítimas que ella misma ha generado en los ciudadanos |
-| **Lealtad institucional** | Las Administraciones deben colaborar, no obstaculizarse mutuamente |
-| **Responsabilidad** | La Administración responde de sus actos ante los ciudadanos y los tribunales |
-| **Planificación y dirección por objetivos** | La gestión pública debe orientarse a resultados predefinidos |
-| **Proporcionalidad** | Las medidas adoptadas deben ser adecuadas y no excesivas en relación con el fin perseguido |
-| **Sostenibilidad y eficiencia** | Uso eficiente y sostenible de los recursos públicos |
+| Servicio efectivo a los ciudadanos | La actividad administrativa tiene como fin último la satisfacción de las necesidades de los ciudadanos |
+| Simplicidad, claridad y proximidad | Los procedimientos deben ser sencillos y comprensibles; la Administración debe estar próxima al ciudadano |
+| Participación, objetividad y transparencia | Los ciudadanos deben poder intervenir en los procedimientos y conocer la actuación administrativa |
+| Racionalización y agilidad | Reducción de cargas administrativas innecesarias |
+| Buena fe y confianza legítima | La Administración debe actuar de buena fe y no defraudar las expectativas legítimas que ella misma ha generado en los ciudadanos |
+| Lealtad institucional | Las Administraciones deben colaborar, no obstaculizarse mutuamente |
+| Responsabilidad | La Administración responde de sus actos ante los ciudadanos y los tribunales |
+| Planificación y dirección por objetivos | La gestión pública debe orientarse a resultados predefinidos |
+| Proporcionalidad | Las medidas adoptadas deben ser adecuadas y no excesivas en relación con el fin perseguido |
+| Sostenibilidad y eficiencia | Uso eficiente y sostenible de los recursos públicos |
 
 ### 2.4 Técnicas de organización: órganos y unidades
 
@@ -144,11 +144,11 @@ Junto a los órganos existen las **unidades administrativas** (divisiones funcio
 
 ### 2.5 La competencia administrativa
 
-La **competencia** es el conjunto de facultades y potestades que el ordenamiento atribuye a un órgano administrativo concreto. Es un elemento esencial del acto administrativo: un acto dictado por órgano incompetente es nulo o anulable, según el tipo de incompetencia.
+La <mark>competencia</mark> es el conjunto de facultades y potestades que el ordenamiento atribuye a un órgano administrativo concreto. Es un elemento esencial del acto administrativo: un acto dictado por órgano incompetente es nulo o anulable, según el tipo de incompetencia.
 
 La competencia es:
-- **Irrenunciable:** el órgano no puede negarse a ejercerla cuando le corresponde.
-- **Improrrogable:** no puede atribuirse a otro órgano salvo en los casos previstos en la ley.
+- <mark>Irrenunciable</mark>: el órgano no puede negarse a ejercerla cuando le corresponde.
+- Improrrogable: no puede atribuirse a otro órgano salvo en los casos previstos en la ley.
 
 Técnicas de alteración de la competencia:
 - **Delegación** (art. 9 LRJSP): el órgano titular transfiere temporalmente el ejercicio de la competencia a otro órgano de la misma o distinta Administración. La titularidad sigue siendo del delegante. Debe publicarse en el boletín oficial correspondiente.
@@ -163,17 +163,17 @@ Técnicas de alteración de la competencia:
 
 ### 3.1 El principio de legalidad administrativa
 
-El **art. 103.1 CE** establece el sometimiento de la Administración **"pleno a la ley y al Derecho"**. Este principio tiene dos dimensiones:
+El **art. 103.1 CE** establece el sometimiento de la Administración <mark>"pleno a la ley y al Derecho"</mark>. Este principio tiene dos dimensiones:
 
-- **Legalidad formal (principio de vinculación positiva):** la Administración solo puede actuar cuando la ley la habilita expresamente para ello. A diferencia de los particulares —que pueden hacer todo lo que la ley no prohíbe— la Administración solo puede hacer lo que la ley permite.
-- **Legalidad material:** los actos y disposiciones de la Administración deben ser conformes con el contenido de la ley, no solo con su existencia formal.
+- Legalidad formal (principio de vinculación positiva): la Administración solo puede actuar cuando la ley la habilita expresamente para ello. A diferencia de los particulares —que pueden hacer todo lo que la ley no prohíbe— la Administración solo puede hacer lo que la ley permite.
+- Legalidad material: los actos y disposiciones de la Administración deben ser conformes con el contenido de la ley, no solo con su existencia formal.
 
 ### 3.2 La vinculación positiva y negativa a la ley
 
 En la doctrina se distingue entre:
 
-- **Vinculación negativa:** el poder actúa libremente mientras no encuentre una norma que lo prohíba (propia del legislador y de los particulares).
-- **Vinculación positiva:** el poder solo puede actuar en los espacios que la norma expresamente le habilita (propia de la Administración). Es la concepción dominante en el Derecho Administrativo moderno.
+- Vinculación negativa: el poder actúa libremente mientras no encuentre una norma que lo prohíba (propia del legislador y de los particulares).
+- <mark>Vinculación positiva</mark>: el poder solo puede actuar en los espacios que la norma expresamente le habilita (propia de la Administración). Es la concepción dominante en el Derecho Administrativo moderno.
 
 ### 3.3 El bloque de legalidad
 
@@ -181,7 +181,7 @@ La Administración no está sometida solo a la ley formal sino al ordenamiento e
 
 ### 3.4 Control judicial de la Administración (art. 106 CE)
 
-El **art. 106.1 CE** establece que **los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa**, así como el sometimiento de ésta a los fines que la justifican.
+El **art. 106.1 CE** establece que <mark>los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa</mark>, así como el sometimiento de ésta a los fines que la justifican.
 
 Este control se ejerce a través de la **Jurisdicción Contencioso-Administrativa**, que puede:
 - Anular actos y disposiciones contrarios al ordenamiento.

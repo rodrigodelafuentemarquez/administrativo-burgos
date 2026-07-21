@@ -3,15 +3,15 @@ tema: 19
 titulo: "La Jurisdicción Contencioso-Administrativa. Naturaleza, extensión y límites. Órganos y competencias."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española (arts. 24, 106, 117, 123, 152, 153):**
+> 🔗 Constitución Española (arts. 24, 106, 117, 123, 152, 153):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa (LJCA), texto consolidado:**
+> 🔗 Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa (LJCA), texto consolidado:
 > https://www.boe.es/eli/es/l/1998/07/13/29/con
 >
-> 🔗 **Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial (LOPJ), texto consolidado:**
+> 🔗 Ley Orgánica 6/1985, de 1 de julio, del Poder Judicial (LOPJ), texto consolidado:
 > https://www.boe.es/eli/es/lo/1985/07/01/6/con
 
 ---
@@ -20,17 +20,17 @@ titulo: "La Jurisdicción Contencioso-Administrativa. Naturaleza, extensión y l
 
 ### 1.1 La Jurisdicción Contencioso-Administrativa
 
-La **Jurisdicción Contencioso-Administrativa (JCA)** es el orden jurisdiccional del Poder Judicial encargado de controlar la actuación de las Administraciones Públicas y de garantizar a los ciudadanos tutela judicial frente a las mismas.
+La **Jurisdicción Contencioso-Administrativa (JCA)** es el orden jurisdiccional del Poder Judicial encargado de <mark>controlar la actuación de las Administraciones Públicas</mark> y de garantizar a los ciudadanos tutela judicial frente a las mismas.
 
 Su fundamento constitucional es doble:
-- **Art. 24 CE:** derecho a la tutela judicial efectiva de todos los ciudadanos.
-- **Art. 106.1 CE:** los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.
+- Art. 24 CE: derecho a la tutela judicial efectiva de todos los ciudadanos.
+- Art. 106.1 CE: los Tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de ésta a los fines que la justifican.
 
 Se regula principalmente en la **Ley 29/1998, de 13 de julio, reguladora de la Jurisdicción Contencioso-Administrativa (LJCA)**.
 
 ### 1.2 Carácter revisor y plenario
 
-Históricamente se concibió como una jurisdicción de carácter **revisor**: solo podía enjuiciar actos previos de la Administración. Hoy, con la LJCA de 1998, tiene también carácter **plenario**: puede conocer no solo de actos sino también de **inactividad** de la Administración y de **vías de hecho**, y puede condenar a la Administración no solo a anular un acto sino también a **hacer** algo o a **indemnizar** al ciudadano.
+Históricamente se concibió como una jurisdicción de carácter <mark>revisor</mark>: solo podía enjuiciar actos previos de la Administración. Hoy, con la LJCA de 1998, tiene también carácter <mark>plenario</mark>: puede conocer no solo de actos sino también de **inactividad** de la Administración y de **vías de hecho**, y puede condenar a la Administración no solo a anular un acto sino también a **hacer** algo o a **indemnizar** al ciudadano.
 
 ---
 
@@ -40,11 +40,11 @@ Históricamente se concibió como una jurisdicción de carácter **revisor**: so
 
 La JCA conoce de las **pretensiones** que se deduzcan en relación con:
 
-- La **actividad de las Administraciones Públicas** sujeta al Derecho Administrativo, incluidas las disposiciones de carácter general (reglamentos) y los actos expresos y presuntos.
+- La <mark>actividad de las Administraciones Públicas sujeta al Derecho Administrativo</mark>, incluidas las disposiciones de carácter general (reglamentos) y los actos expresos y presuntos.
 - La **inactividad** de la Administración cuando tenga obligación legal de actuar.
 - Las **actuaciones materiales constitutivas de vía de hecho** (cuando la Administración actúa sin cobertura jurídica o excediéndola).
 - Las **disposiciones generales** del Gobierno y demás órganos del Estado y las CC.AA. (control de reglamentos).
-- La **responsabilidad patrimonial** de las Administraciones Públicas, cualquiera que sea la naturaleza de la actividad causante del daño.
+- La <mark>responsabilidad patrimonial</mark> de las Administraciones Públicas, cualquiera que sea la naturaleza de la actividad causante del daño.
 - Los **contratos administrativos** y los actos de preparación y adjudicación de los contratos privados de las Administraciones Públicas.
 - Los actos y disposiciones de los **órganos constitucionales** del Estado y de los órganos estatutarios de las CC.AA. en materias de personal, administración y gestión patrimonial.
 - La **responsabilidad patrimonial del Estado por el funcionamiento de la Administración de Justicia** (art. 121 CE).
@@ -81,16 +81,16 @@ Solo son impugnables los actos y disposiciones sujetos al Derecho Administrativo
 
 ### 3.3 Límite temporal: el plazo de interposición (art. 46 LJCA)
 
-- **2 meses** desde la notificación o publicación del acto, si es expreso.
-- **6 meses** desde que se produce el silencio administrativo, si el acto es presunto.
+- <mark>2 meses</mark> desde la notificación o publicación del acto, si es expreso.
+- <mark>6 meses</mark> desde que se produce el silencio administrativo, si el acto es presunto.
 - Para el **recurso contra reglamentos:** 2 meses desde la publicación en el boletín oficial.
 - Para el **recurso contra la inactividad:** 2 meses desde que se requirió a la Administración que actuase y ésta no lo hizo, o desde que se produjo la vía de hecho.
 
-> ⚠️ Estos plazos son de **caducidad**, no de prescripción: su transcurso extingue el derecho a recurrir sin posibilidad de interrupción.
+> ⚠️ Estos plazos son de <mark>caducidad, no de prescripción</mark>: su transcurso extingue el derecho a recurrir sin posibilidad de interrupción.
 
 ### 3.4 El agotamiento de la vía administrativa previa
 
-Con carácter general, antes de acudir a la JCA no es necesario haber interpuesto previamente recurso administrativo alguno, salvo que sea preceptivo el **recurso de alzada** (cuando el acto no pone fin a la vía administrativa) o las **reclamaciones económico-administrativas** (en materia tributaria y de Seguridad Social).
+Con carácter general, antes de acudir a la JCA no es necesario haber interpuesto previamente recurso administrativo alguno, salvo que sea preceptivo el <mark>recurso de alzada</mark> (cuando el acto no pone fin a la vía administrativa) o las **reclamaciones económico-administrativas** (en materia tributaria y de Seguridad Social).
 
 ---
 
@@ -167,16 +167,16 @@ La LJCA prevé diferentes procedimientos adaptados al objeto del recurso:
 
 | Procedimiento | Objeto |
 |---|---|
-| **Procedimiento ordinario** | Recurso general contra actos y disposiciones |
-| **Procedimiento abreviado** | Asuntos de cuantía inferior a 30.000 euros o materias tasadas |
-| **Procedimiento especial de derechos fundamentales** | Protección de derechos del art. 14-29 CE (preferente y sumario) |
-| **Recurso contra la inactividad** | Cuándo la Administración incumple una obligación legal de actuar |
-| **Recurso contra vía de hecho** | Cuándo la Administración actúa sin cobertura jurídica |
-| **Recurso de casación** | Revisión de sentencias de instancia por el TS por interés casacional |
+| Procedimiento ordinario | Recurso general contra actos y disposiciones |
+| Procedimiento abreviado | Asuntos de cuantía inferior a 30.000 euros o materias tasadas |
+| Procedimiento especial de derechos fundamentales | Protección de derechos del art. 14-29 CE (preferente y sumario) |
+| Recurso contra la inactividad | Cuándo la Administración incumple una obligación legal de actuar |
+| Recurso contra vía de hecho | Cuándo la Administración actúa sin cobertura jurídica |
+| Recurso de casación | Revisión de sentencias de instancia por el TS por interés casacional |
 
 ### 5.2 Medidas cautelares (art. 129 LJCA)
 
-Los órganos jurisdiccionales pueden adoptar, a solicitud del interesado, las **medidas cautelares** necesarias para asegurar la efectividad de la sentencia. La más habitual es la **suspensión del acto impugnado**, que el juez puede acordar cuando su ejecución pudiera hacer perder al recurso su legítima finalidad.
+Los órganos jurisdiccionales pueden adoptar, a solicitud del interesado, las <mark>medidas cautelares</mark> necesarias para asegurar la efectividad de la sentencia. La más habitual es la <mark>suspensión del acto impugnado</mark>, que el juez puede acordar cuando su ejecución pudiera hacer perder al recurso su legítima finalidad.
 
 ### 5.3 Ejecución de sentencias (art. 103 LJCA)
 
