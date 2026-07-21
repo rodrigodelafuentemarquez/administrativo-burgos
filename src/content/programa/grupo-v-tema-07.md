@@ -70,6 +70,15 @@ La notificación electrónica se entiende practicada cuando el interesado accede
 
 En notificaciones electrónicas, el aviso al correo o teléfono no sustituye a la notificación. El aviso ayuda, pero la validez depende de la puesta a disposición y del acceso o rechazo en la sede, dirección electrónica habilitada o sistema previsto. Esta distinción es muy preguntable.
 
+| Elemento electrónico | Dato de examen |
+| --- | --- |
+| Sede electrónica | Dirección electrónica disponible por redes, titularidad de una Administración u organismo público. |
+| Registro electrónico | Disponible 24 horas, todos los días del año. |
+| Día inhábil en registro electrónico | La presentación se entiende realizada a primera hora del primer día hábil siguiente. |
+| Notificación electrónica | Preferente y obligatoria para quienes deben relacionarse electrónicamente. |
+| Rechazo por no acceso | Transcurridos diez días naturales desde la puesta a disposición sin acceder. |
+| Aviso de notificación | No sustituye a la notificación. |
+
 ## Funcionamiento electrónico del sector público
 
 La Ley 40/2015 regula relaciones electronicas entre Administraciones, archivo electrónico, intercambio de información, identificación de sedes, portales, sistemas de firma y actuación automatizada.
@@ -78,6 +87,8 @@ La interoperabilidad permite que sistemas distintos se comuniquen. La seguridad 
 
 El Esquema Nacional de Interoperabilidad busca que los sistemas puedan compartir información y documentos de forma coherente. El Esquema Nacional de Seguridad establece medidas para proteger sistemas e información. Ambos son esenciales porque un expediente electrónico solo es útil si puede conservarse, consultarse, verificarse y compartirse con garantías.
 
+El Sistema de Interconexión de Registros materializa la ventanilla única registral: permite remitir electrónicamente asientos y documentos entre Administraciones para que la persona pueda presentar documentación en un registro aunque vaya dirigida a otro órgano.
+
 ## Actuación administrativa automatizada
 
 Es cualquier acto o actuación realizada integramente por medios electrónicos sin intervención directa de empleado público en cada caso. Debe definirse órgano responsable, sistemas, supervisión y recursos posibles.
@@ -85,6 +96,8 @@ Es cualquier acto o actuación realizada integramente por medios electrónicos s
 La actuación automatizada exige que se determine previamente el órgano responsable de definir especificaciones, programación, mantenimiento, supervisión y auditoría del sistema, así como el órgano competente a efectos de impugnación. No puede ser una "caja negra" sin responsable administrativo.
 
 En un Ayuntamiento, la administración electrónica afecta a registro, padrón, tributos, licencias, facturas, contratación, notificaciones, archivo y atención ciudadana.
+
+Las Administraciones Públicas pueden identificarse electrónicamente mediante sello electrónico basado en certificado electrónico reconocido o cualificado. El código seguro de verificación permite comprobar la autenticidad e integridad de documentos o copias en la sede correspondiente.
 
 ## Ejemplos municipales
 

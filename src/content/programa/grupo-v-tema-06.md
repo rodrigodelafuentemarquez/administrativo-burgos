@@ -10,6 +10,8 @@ estado: "borrador"
 
 El régimen se basa en el Reglamento General de Protección de Datos de la Unión Europea y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de derechos digitales.
 
+El RGPD es directamente aplicable desde el 25 de mayo de 2018. La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD, completa sus previsiones y regula derechos digitales.
+
 ## Datos personales y tratamiento
 
 Dato personal es toda información sobre una **persona física identificada o identificable**. Tratamiento es cualquier operación sobre datos: recogida, registro, consulta, comunicación, conservación, supresión o modificación.
@@ -27,6 +29,8 @@ Un Ayuntamiento trata datos constantemente: padrón, tributos, multas, licencias
 | Firma | Firma manuscrita o electrónica. |
 
 Los datos de categorías especiales, como salud, ideologia, afiliación sindical, religion, orientación sexual o datos biometricos en determinados usos, tienen protección reforzada. En un Ayuntamiento pueden aparecer en servicios sociales, recursos humanos, igualdad, discapacidad o expedientes especialmente sensibles.
+
+El tratamiento de datos de menores basado únicamente en su consentimiento solo es válido en España cuando sean mayores de 14 años. Por debajo de esa edad, se requiere el consentimiento del titular de la patria potestad o tutela, salvo habilitación legal específica.
 
 <mark>Clave de examen:</mark> proteger datos no significa ocultarlo todo. Significa tratar cada dato con base jurídica, finalidad legitima, minimización, seguridad y respeto a derechos.
 
@@ -105,6 +109,13 @@ El Delegado de Protección de Datos informa, asesora, supervisa cumplimiento, co
 | Delegado de Protección de Datos | Asesora, supervisa y actúa como punto de contacto. |
 | Autoridad de control | Vigila cumplimiento y tramita reclamaciones. |
 
+| Figura | Definición corta |
+| --- | --- |
+| Responsable | Determina los fines y medios del tratamiento. |
+| Encargado | Trata datos por cuenta del responsable. |
+| Delegado de Protección de Datos | Informa, asesora, supervisa y coopera con la autoridad de control. |
+| AEPD | Autoridad estatal independiente de control en protección de datos. |
+
 Cuando el Ayuntamiento contrata una aplicación de gestión de expedientes, una empresa de mantenimiento informatico o una plataforma de turnos, debe analizar si el proveedor actúa como encargado y formalizar contrato de encargo.
 
 <mark>No confundir figuras:</mark>
@@ -132,6 +143,8 @@ La Agencia Española de Protección de Datos es autoridad estatal. Algunas comun
 La Ley Orgánica 3/2018 incorpora derechos digitales: neutralidad de internet, acceso universal, seguridad digital, educación digital, protección de menores, rectificación en internet, actualización de informaciones, intimidad en uso de dispositivos laborales, desconexion digital y derechos ante sistemas de videovigilancia y geolocalización.
 
 Para un administrativo, protección de datos significa no consultar expedientes sin motivo, no divulgar información, comprobar destinatarios, usar copia oculta cuando proceda, custodiar documentos, bloquear pantalla, destruir papel correctamente y respetar perfiles de acceso.
+
+El deber de confidencialidad alcanza al responsable, al encargado y a cualquier persona que intervenga en cualquier fase del tratamiento. Subsiste incluso cuando finaliza la relación laboral, funcionarial o contractual con la entidad.
 
 | Derecho digital | Ejemplo práctico |
 | --- | --- |

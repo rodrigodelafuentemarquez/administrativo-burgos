@@ -34,6 +34,8 @@ La secuencia básica es:
 
 Se aplica a relaciones laborales y al personal civil al servicio de Administraciones Públicas. Incluye funcionarios, laborales y otros empleados en los términos legales. Existen particularidades para policía, protección civil, emergencias y actividades con normativa específica.
 
+La Ley 31/1995 tiene vocación general, pero ella misma contempla exclusiones o particularidades para actividades cuyas características lo impidan en determinados servicios operativos, sin perjuicio de que deban inspirarse medidas de seguridad y salud.
+
 En una entidad local, la ley alcanza al personal administrativo, policía local, personal de oficios, limpieza, instalaciones deportivas, bibliotecas, servicios sociales, brigadas, cementerio, mercados y demás servicios municipales. Cada puesto tiene riesgos diferentes, por lo que no basta una prevención genérica.
 
 | Colectivo municipal | Riesgos habituales |
@@ -44,6 +46,14 @@ En una entidad local, la ley alcanza al personal administrativo, policía local,
 | Bibliotecas/cultura | Atención ciudadana, manipulación de fondos, ergonomia, evacuación. |
 | Deportes/instalaciones | Mantenimiento, humedad, productos, usuarios, emergencias. |
 | Servicios sociales | Riesgo psicosocial, visitas, situaciones conflictivas, datos sensibles. |
+
+| Concepto del art. 4 LPRL | Definición de examen |
+| --- | --- |
+| Riesgo laboral | Posibilidad de que un trabajador sufra un daño derivado del trabajo. |
+| Daños derivados del trabajo | Enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo. |
+| Riesgo grave e inminente | Riesgo racionalmente probable en un futuro inmediato y que pueda suponer daño grave para la salud. |
+| Condición de trabajo | Cualquier característica del trabajo que pueda influir significativamente en la generación de riesgos. |
+| Gravedad del riesgo | Se valora conjuntamente por probabilidad y severidad del daño. |
 
 ## Principios de acción preventiva
 
@@ -134,3 +144,10 @@ La prevención genera documentación: evaluación de riesgos, planificación pre
 En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comités o gestión de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.
 
 Los delegados de prevención representan al personal en materia preventiva y participan en consulta, vigilancia y propuesta de mejoras. El Comité de Seguridad y Salud, cuando procede por tamaño de plantilla, es órgano paritario de participación. Sus actas, convocatorias y acuerdos también forman parte de la gestión administrativa preventiva.
+
+| Órgano o figura preventiva | Dato |
+| --- | --- |
+| INSST | Organismo científico-técnico especializado en prevención. |
+| Delegados de Prevención | Representantes de los trabajadores con funciones específicas en prevención. |
+| Comité de Seguridad y Salud | Órgano paritario y colegiado de participación. |
+| Servicios de Prevención | Asesoran y asisten a la empresa, trabajadores y representantes. |

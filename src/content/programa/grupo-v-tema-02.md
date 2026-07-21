@@ -16,6 +16,12 @@ La transparencia permite conocer como actuan las Administraciones, como toman de
 
 La Ley 19/2013 se estructura en publicidad activa, derecho de acceso y buen gobierno.
 
+| Pilar de la Ley 19/2013 | Idea central |
+| --- | --- |
+| Publicidad activa | La Administración publica de oficio información relevante. |
+| Derecho de acceso | Cualquier persona puede solicitar información pública. |
+| Buen gobierno | Principios y responsabilidades de altos cargos y responsables públicos. |
+
 ## Publicidad activa
 
 La publicidad activa obliga a publicar información relevante sin necesidad de solicitud previa. Afecta a información institucional, organizativa, normativa, económica, presupuestaria y estadistica.
@@ -71,11 +77,21 @@ Los límites deben aplicarse de forma proporcionada y atendiendo al caso concret
 
 La regla no es denegar automáticamente. Primero hay que identificar el limite, justificar el perjuicio, ponderar el interés público y valorar acceso parcial o disociación de datos.
 
+<mark>Clave de test:</mark> los límites del artículo 14 deben aplicarse de forma justificada, proporcionada y restrictiva, atendiendo al daño que produciría el acceso y al interés público en la divulgación.
+
 ## Ejercicio del derecho
 
 La solicitud se dirige al titular del órgano administrativo o entidad que posea la información. Puede presentarse por medios electrónicos o presenciales. Debe identificar solicitante, información solicitada, dirección de contacto y modalidad preferida de acceso.
 
 El plazo general para resolver es de un mes, ampliable por otro si el volumen o complejidad lo justifican. El silencio tiene efecto desestimatorio. Frente a denegaciones puede interponerse reclamación ante órgano de transparencia competente o recurso contencioso-administrativo.
+
+| Plazo o recurso | Dato |
+| --- | --- |
+| Resolver solicitud de acceso | Un mes desde recepción por el órgano competente. |
+| Ampliación | Otro mes si volumen o complejidad lo justifican. |
+| Silencio | Desestimatorio. |
+| Reclamación ante CTBG u órgano equivalente | Potestativa, gratuita y previa a la vía contencioso-administrativa. |
+| Plazo de reclamación | Un mes frente a resolución expresa o presunta. |
 
 | Fase | Actuación |
 | --- | --- |
@@ -117,3 +133,5 @@ En el Ayuntamiento, transparencia afecta a contratos, presupuestos, actas, orden
 La transparencia depende de una buena gestión documental. Si los expedientes están incompletos, mal clasificados o dispersos, será dificil cumplir publicidad activa y derecho de acceso. Por eso este tema se conecta directamente con registro, archivo, administración electrónica y protección de datos.
 
 El buen gobierno completa el sistema: exige conducta responsable de altos cargos y responsables públicos, respeto a la ley, gestión adecuada de recursos, imparcialidad, diligencia y rendición de cuentas. La transparencia permite ver; el buen gobierno exige actuar correctamente.
+
+En infracciones muy graves de buen gobierno, las sanciones pueden incluir cese y prohibición de ocupar cargos de responsabilidad durante un periodo de cinco a diez años, además de otras consecuencias previstas por la ley.

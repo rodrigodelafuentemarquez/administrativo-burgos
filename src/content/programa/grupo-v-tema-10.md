@@ -62,6 +62,16 @@ Estructura habitual de un documento administrativo sencillo:
 | Combinar correspondencia | Genera comunicaciones masivas personalizadas. |
 | Exportar a PDF | Produce documento estable para remisión o publicación. |
 
+| Word 365 | Dato práctico |
+| --- | --- |
+| Vista predeterminada | Diseño de impresión. |
+| Seleccionar todo | Ctrl + E en configuración española habitual. |
+| Tabla de contenido | Se genera desde estilos de Título y puede actualizarse con F9. |
+| Restringir edición | Controla qué cambios pueden hacer otros usuarios. |
+| Recuperación de documentos | Muestra versiones autoguardadas tras cierre inesperado. |
+| Transcribir | Permite transcribir voz grabada o archivo de audio en entornos compatibles de Microsoft 365. |
+| Imprimir sin marcas | Desactivar impresión de revisiones o marcas sin aceptar definitivamente los cambios. |
+
 Un error frecuente es dar formato manual a cada título. En documentos largos, esto complica cambios y genera incoherencias. Lo correcto es usar estilos predefinidos. Otro error es enviar documentos con comentarios internos o control de cambios visible; antes de remitir debe revisarse la versión final.
 
 <mark>Clave práctica:</mark> en Word, los **estilos** no son estetica; son estructura. Permiten indice, accesibilidad, navegación, coherencia y cambios globales.
@@ -98,6 +108,19 @@ En fórmulas es clave distinguir referencias relativas, absolutas y mixtas. Al c
 | Referencia absoluta | Permanece fija usando `$`, por ejemplo `$A$1`. |
 | Filtro | Muestra solo registros que cumplen condiciones. |
 | Tabla dinamica | Resume grandes conjuntos de datos. |
+
+| Excel 365 | Dato práctico |
+| --- | --- |
+| Archivo de hojas de cálculo | Libro de trabajo. |
+| Transponer | Cambia filas por columnas o columnas por filas. |
+| Formato de celdas | Ctrl + 1. |
+| Referencia absoluta | `$A$1`. |
+| PROMEDIO de A1 a E1 | `=PROMEDIO(A1:E1)`. |
+| BUSCARX | Función moderna y flexible de búsqueda. |
+| NO | Invierte el valor lógico de su argumento. |
+| FILAS(Registros[Fecha]) | Devuelve el número de filas de esa columna de tabla. |
+| Rango discontinuo | Ejemplo: `B2:C2;B4:C4`. |
+| Formato `dd/mmm/aa` | Muestra fechas como `11/ago/24`. |
 
 Ejemplos de uso administrativo: seguimiento de solicitudes por estado, control de facturas, relación de expedientes pendientes, calculo auxiliar de importes, estadisticas de atención ciudadana o comprobación de plazos. Aunque Excel sea útil, los datos definitivos deben estar en los sistemas corporativos cuando exista aplicación oficial.
 

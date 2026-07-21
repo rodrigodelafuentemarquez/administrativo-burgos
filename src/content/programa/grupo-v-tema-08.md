@@ -23,9 +23,20 @@ El documento administrativo no se define solo por su formato. Lo relevante es qu
 | Diligencia | Deja constancia de una actuación. |
 | Acta | Documenta sesión, inspección o comparecencia. |
 
+| Documento administrativo | Clase que suele preguntarse |
+| --- | --- |
+| Resolución o decreto local | Decisión. |
+| Acta, diligencia o certificado | Constancia. |
+| Informe | Juicio técnico o jurídico. |
+| Oficio | Comunicación formal entre órganos o Administraciones. |
+| Nota interior o memorándum | Comunicación interna, normalmente más informal. |
+| Solicitud o instancia | Documento de particular para iniciar procedimiento o pedir actuación. |
+
 ## Formación del expediente
 
 El expediente es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a una resolución administrativa, así como las diligencias encaminadas a ejecutarla.
+
+Según el artículo 70 de la Ley 39/2015, esta definición de expediente administrativo es muy literal y aparece mucho en test. El expediente no es solo una carpeta: incluye documentos, actuaciones, antecedentes, fundamentos y diligencias de ejecución.
 
 Debe formarse de manera cronologica y coherente, incorporando solicitudes, informes, pruebas, propuestas, resoluciones, notificaciones y justificantes. Un expediente mal formado dificulta resolver, recurrir, fiscalizar y archivar.
 
@@ -58,6 +69,8 @@ El indice electrónico equivale a una garantía de integridad del expediente. Pe
 | Metadatos | Describen documento, expediente, fechas, órgano, estado y acceso. |
 | CSV | Permite verificar copias o documentos en sede. |
 
+El Esquema Nacional de Interoperabilidad fija los criterios técnicos para que documentos y expedientes electrónicos puedan intercambiarse, conservarse y verificarse entre Administraciones. Por eso exige estructura, metadatos, firma, índice y formatos adecuados.
+
 ## Archivo
 
 El archivo administrativo conserva documentos para gestión, prueba, transparencia, memoria institucional e investigación. No es un almacen pasivo: ordena, clasifica, custodia, describe y facilita acceso.
@@ -80,6 +93,15 @@ Puede hablarse de archivo de oficina, archivo central, archivo intermedio y arch
 Los documentos pueden ordenarse por series documentales, órganos productores, materias, cronologia, expedientes, numeración registral o clasificación funcional. La ordenación debe permitir localizar y reconstruir actuaciones.
 
 La serie documental agrupa expedientes o documentos de la misma naturaleza producidos por una misma función: licencias urbanísticas, expedientes sancionadores, padrón, contratos menores, subvenciones, recursos, facturas, decretos o actas. Trabajar por series facilita aplicar plazos de conservación y criterios de acceso.
+
+| Concepto archivístico | Definición útil |
+| --- | --- |
+| Cuadro de clasificación | Estructura jerárquica que organiza documentos por funciones, actividades y series. |
+| Serie documental | Conjunto de documentos producidos por una misma actividad o procedimiento. |
+| Signatura topográfica | Ubicación física exacta del documento en el depósito. |
+| Expurgo | Eliminación autorizada de documentos tras evaluación documental. |
+
+En entidades locales, la función de fe pública y certificación corresponde a la Secretaría de la Corporación. Por eso el certificado local no es una simple copia: acredita oficialmente un hecho, acuerdo, dato o situación.
 
 ## Archivo electrónico
 

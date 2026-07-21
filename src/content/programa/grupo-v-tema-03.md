@@ -33,11 +33,22 @@ Los derechos de las personas en sus relaciones con las Administraciones incluyen
 | Acceso a expediente propio | Verificar condición de interesado y límites. |
 | Asistencia electrónica | Ayudar a personas no obligadas o con dificultades. |
 
+| Derecho o trámite | Dato habitual |
+| --- | --- |
+| Punto de Acceso General electrónico | Permite comunicarse con las Administraciones por medios electrónicos. |
+| Estado de tramitación | Lo pueden conocer quienes tengan condición de interesados. |
+| Documentos ya aportados o elaborados por Administraciones | No deben exigirse de nuevo, salvo límites legales. |
+| Representación no acreditada | Debe requerirse subsanación por diez días hábiles. |
+| Audiencia del expediente | Plazo no inferior a diez ni superior a quince días. |
+| Información pública | Permite alegar a cualquier persona, no solo a interesados directos. |
+
 ## Personas con discapacidad
 
 La atención a personas con discapacidad exige accesibilidad universal, ajustes razonables y trato adecuado. La Administración debe eliminar barreras físicas, sensoriales, cognitivas y digitales.
 
 Esto incluye lenguaje claro, apoyo en tramitación, accesibilidad web, documentos comprensibles, atención preferente cuando proceda, bucles magneticos, lectura facil, asistencia para medios electrónicos y respeto a autonomía personal.
+
+Se considera persona con discapacidad, a efectos generales de la normativa de derechos de las personas con discapacidad, quien tenga reconocido un grado igual o superior al 33%. En empleo público, la reserva mínima de plazas para personas con discapacidad es del 7%, con desglose legal para discapacidad intelectual.
 
 La discapacidad no debe tratarse como excepción caritativa, sino como cuestión de igualdad de derechos y no discriminación.
 
@@ -96,6 +107,10 @@ La calificación correcta evita errores. Si un ciudadano llama "reclamación" a 
 ## Peticiones
 
 El derecho de petición permite dirigirse a poderes públicos para solicitar actuaciones o decisiones sobre materias de su competencia. Se regula por ley orgánica y no sustituye recursos ni procedimientos específicos.
+
+La iniciativa legislativa popular estatal exige al menos 500.000 firmas acreditadas. En el derecho de petición, la Administración debe acusar recibo y comunicar la tramitación o resultado, pero no existe derecho a obtener una resolución favorable por el mero hecho de pedirla.
+
+En el marco de calidad de servicios de la Administración General del Estado, las cartas de servicios deben actualizarse periódicamente y, en todo caso, al menos cada tres años. Las quejas y sugerencias deben recibir información sobre las actuaciones realizadas en un plazo de quince días hábiles.
 
 En la práctica, la primera tarea administrativa es calificar correctamente lo presentado: solicitud, recurso, queja, sugerencia, denuncia, petición o reclamación patrimonial. De esa calificación dependen plazos, órgano competente y efectos.
 

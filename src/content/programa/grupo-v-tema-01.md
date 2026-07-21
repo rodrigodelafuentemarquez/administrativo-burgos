@@ -14,6 +14,8 @@ Este tema se centra en tres normas: Ley Orgánica 3/2007 de igualdad efectiva en
 
 La Ley Orgánica 3/2007 tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, eliminando discriminación por razón de sexo en cualquier ámbito, especialmente político, civil, laboral, económico, social y cultural.
 
+Su ámbito de aplicación alcanza a toda persona física o jurídica que se encuentre o actúe en territorio español, cualquiera que sea su nacionalidad, domicilio o residencia. En test suele aparecer junto a la idea literal de que mujeres y hombres son iguales en dignidad humana y en derechos y deberes.
+
 La ley distingue discriminación directa e indirecta. La directa se produce cuando una persona es tratada de forma menos favorable por razón de sexo. La indirecta aparece cuando una disposición o práctica aparentemente neutra pone a personas de un sexo en desventaja particular salvo justificación objetiva.
 
 La igualdad obliga a todos los poderes públicos. Deben integrar el principio de igualdad en normas, políticas, presupuestos, empleo público, contratación, subvenciones, educación, salud, sociedad de la información y participación.
@@ -44,6 +46,12 @@ La igualdad en el empleo público se concreta en procesos selectivos no discrimi
 | Lenguaje claro e inclusivo | Evitar comunicaciones excluyentes o estereotipadas. |
 | Datos desagregados | Detectar desigualdades reales y evaluar políticas. |
 
+| Dato frecuente | Regla |
+| --- | --- |
+| Presencia equilibrada | Ningún sexo debe quedar por debajo del 40% ni superar el 60%, cuando se aplique esta regla. |
+| Planes de igualdad en empresas | Obligatorios para empresas de 50 o más personas trabajadoras. |
+| Administraciones públicas | Deben remover obstáculos, formar, prevenir acoso, facilitar conciliación sin perjudicar promoción y promover presencia equilibrada. |
+
 ## Violencia de género
 
 La Ley Orgánica 1/2004 tiene por objeto actuar contra la violencia que, como manifestación de discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por quienes sean o hayan sido sus conyuges o esten o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.
@@ -59,6 +67,8 @@ Los poderes públicos deben garantizar información, atención, apoyo, protecci�
 | Asistencia jurídica | Orientación y defensa jurídica en los términos legales. |
 | Protección laboral | Derechos de movilidad, reducción o reordenación de jornada y otras medidas. |
 | Protección administrativa | Confidencialidad, coordinación institucional y trato especializado. |
+
+La ayuda económica del artículo 27 de la Ley Orgánica 1/2004 se fija, con carácter general, en el equivalente a seis mensualidades del subsidio por desempleo, con incrementos en supuestos específicos. Es un dato muy preguntable porque combina violencia de género y prestaciones.
 
 Para el personal administrativo, un punto crucial es la confidencialidad. Datos de domicilio, padrón, telefonos, expedientes de servicios sociales o actuaciones policiales pueden afectar directamente a la seguridad de la victima. La atención debe ser respetuosa, discreta y orientada a derivar al recurso competente.
 
@@ -81,6 +91,8 @@ Para la Administración, implica adaptar atención, formularios, lenguaje, proto
 | Protección frente a violencias | Prevención, atención y respuesta ante agresiones o discursos discriminatorios. |
 
 Los formularios, bases de convocatorias, protocolos de atención y comunicaciones municipales deben revisarse para no producir discriminaciones. A veces la mejora es sencilla: campos no innecesarios, trato nominal adecuado, ausencia de preguntas invasivas, información clara y derivación correcta.
+
+En la Ley 4/2023, la rectificación registral de la mención relativa al sexo puede solicitarse por personas mayores de 16 años. En el empleo público, las Administraciones deben promover protocolos frente al acoso por orientación sexual, identidad sexual, expresión de género y características sexuales.
 
 En atención administrativa, el trato debe respetar identidad, orientación, expresión de género y características sexuales. Esto exige evitar preguntas no necesarias, adaptar formularios cuando proceda, proteger datos especialmente sensibles y actuar frente a incidentes discriminatorios en servicios municipales.
 

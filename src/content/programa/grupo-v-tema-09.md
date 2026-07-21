@@ -53,6 +53,8 @@ También conviene manejar unidades de medida. El bit es la unidad mínima de inf
 | GB | Memoria, discos, copias y archivos grandes. |
 | TB | Almacenamiento masivo o servidores. |
 
+En conversión decimal aproximada, 1 GB equivale a 1.000 MB y 1 MB a 1.000 KB; por tanto, 30 GB equivalen aproximadamente a 30.000.000 KB. En informática también existe conversión binaria, pero muchos tests administrativos usan la aproximación decimal.
+
 ## Sistemas operativos
 
 El sistema operativo administra recursos del ordenador y permite ejecutar aplicaciones. Gestiona memoria, procesos, archivos, dispositivos, usuarios, seguridad y comunicaciones.
@@ -70,11 +72,22 @@ Windows 11 es un sistema operativo de Microsoft con interfaz grafica, menu Inici
 | Portapapeles | Copiar, cortar y pegar información. |
 | Accesibilidad | Lectura, contraste, lupa, subtitulos y adaptaciones. |
 
+| Windows 11 | Dato práctico |
+| --- | --- |
+| Requisitos destacados | TPM 2.0, UEFI con arranque seguro, RAM y almacenamiento mínimos. |
+| Barra de tareas | Botón Inicio, iconos anclados, aplicaciones abiertas y área de notificación. |
+| Menú Inicio | Aplicaciones ancladas y recomendaciones. |
+| Snap Layouts | Organización rápida de ventanas. |
+| Suspender | Conserva la sesión en RAM para reanudar rápido. |
+| Alt + F4 | Cierra la ventana activa. |
+
 ## Explorador de Windows 11
 
 El Explorador de archivos permite navegar por unidades, carpetas y documentos. Incluye panel de navegación, ruta, busqueda, vistas, propiedades, accesos rapidos, bibliotecas o ubicaciones frecuentes.
 
 Permite crear, copiar, mover, renombrar, eliminar y comprimir archivos. También permite ordenar por nombre, fecha, tipo o tamano; cambiar vista; consultar propiedades; y buscar documentos.
+
+La vista **Detalles** es la más informativa porque permite ver columnas como nombre, fecha, tipo, tamaño o estado. La Papelera de reciclaje almacena temporalmente archivos eliminados, salvo eliminaciones definitivas o ubicaciones que no la usen.
 
 En entorno municipal, muchas carpetas pueden estar en unidades de red o servicios corporativos. El usuario no debe modificar permisos ni mover documentos oficiales sin saber sus consecuencias. Los expedientes deben conservarse en sistemas autorizados, no en el escritorio local.
 
@@ -130,6 +143,14 @@ En Administración, la seguridad informática se relaciona con protección de da
 | Fuga de datos | Envio a destinatario equivocado. | Revisar destinatarios y adjuntos. |
 | Acceso indebido | Consultar expediente sin motivo. | Respetar perfiles y trazabilidad. |
 | Perdida de equipo | Portatil extraviado. | Cifrado, bloqueo y comunicación inmediata. |
+
+| Amenaza o herramienta | Recuerda |
+| --- | --- |
+| Phishing | Intenta obtener información confidencial de forma fraudulenta. |
+| Spam | Comunicación masiva no solicitada; se combate con filtros. |
+| Malware | Software malicioso; no incluye la interfaz de usuario. |
+| Antivirus | Detecta, bloquea y elimina software malicioso. |
+| Asistencia rápida | Permite asistencia remota compartiendo pantalla o control del dispositivo. |
 
 La seguridad no es solo tarea del servicio informatico. Cada empleado es una barrera de protección: una clave compartida, un clic imprudente o un documento enviado a quien no corresponde puede generar una brecha de seguridad.
 

@@ -22,6 +22,8 @@ Un mensaje incluye remitente, destinatarios, asunto, cuerpo, adjuntos y fecha. P
 | Adjuntos | Documentos o archivos incorporados. |
 | Firma | Datos profesionales del remitente. |
 
+En Outlook y otros clientes corporativos, varias direcciones de correo suelen separarse con punto y coma. La búsqueda `cc:"Ana Muñoz"` localiza mensajes en los que ese nombre aparece en la línea CC.
+
 En una Administración, el correo electrónico no siempre equivale a notificación administrativa formal. Para notificar actos administrativos deben usarse los cauces legalmente previstos. El correo puede servir para comunicación auxiliar, coordinación o envio informativo, pero no debe sustituir al registro o a la notificación cuando estos son obligatorios.
 
 <mark>Idea clave:</mark> correo electrónico ordinario, registro electrónico y notificación electrónica no son lo mismo.
@@ -49,6 +51,16 @@ Los adjuntos permiten enviar documentos, pero deben controlarse tamano, formato,
 | Servidor de correo | Sistema que envia, recibe y almacena mensajes. |
 | Lista de distribución | Grupo de destinatarios gestionado conjuntamente. |
 | Calendario | Organiza reuniones, citas y convocatorias. |
+
+| Correo y Outlook | Dato de examen |
+| --- | --- |
+| SMTP | Envío de correo desde cliente a servidor y entre servidores. |
+| IMAP | Mantiene mensajes en servidor y sincroniza carpetas entre dispositivos. |
+| POP | Descarga mensajes desde el servidor según configuración. |
+| Carpeta Bandeja de entrada | Mensajes recibidos. |
+| Permiso Colaborador | Puede crear elementos en una carpeta sin leer ni editar los existentes. |
+| Grupo público de Outlook | Genera dirección de grupo a la que pueden enviarse mensajes para distribuirlos. |
+| CCO | Protege privacidad de direcciones de destinatarios. |
 
 El calendario corporativo permite convocar reuniones, reservar salas, enviar invitaciones, modificar horarios y controlar asistentes. En órganos colegiados formales no sustituye la convocatoria administrativa cuando la normativa exige orden del día, documentación y notificación formal.
 
@@ -100,6 +112,19 @@ Las cookies almacenan información de navegación. La cache guarda recursos para
 | Navegador | Programa para acceder a paginas web. |
 | Cookie | Dato almacenado por un sitio en el navegador. |
 | Cache | Almacenamiento temporal para acelerar carga. |
+
+| Internet | Dato corto |
+| --- | --- |
+| ARPANET | Origen histórico de Internet. |
+| Primera conexión ARPANET | 29 de octubre de 1969. |
+| TCP/IP como estándar en ARPANET | 1983. |
+| World Wide Web | Ideada por Tim Berners-Lee. |
+| IPv4 | Direcciones de 32 bits. |
+| VPN | Túnel cifrado seguro sobre Internet. |
+| SaaS | Software accesible desde navegador sin instalación local. |
+| Escritorio virtual | Estación de trabajo virtual separada del dispositivo físico. |
+
+En Microsoft Edge puede anclarse un sitio web al menú Inicio desde el menú de configuración y más, usando las opciones de herramientas o anclaje disponibles según versión.
 
 <mark>HTTPS no garantiza que una página sea correcta o oficial</mark>; garantiza que la conexion va cifrada con ese sitio. Una página fraudulenta también puede usar HTTPS. Por eso hay que comprobar dominio, certificado, contexto y fuente oficial.
 
