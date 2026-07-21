@@ -26,7 +26,7 @@ El control del gasto público garantiza **legalidad, eficiencia, estabilidad, tr
 
 ## Control interno
 
-El control interno lo ejerce la Intervención de la entidad local con plena autonomía funcional. Comprende función interventora y control financiero.
+El control interno lo ejerce la <mark>Intervención de la entidad local con plena autonomía funcional</mark>. Comprende <mark>función interventora y control financiero</mark>.
 
 | Modalidad | Qué controla | Momento principal |
 | --- | --- | --- |
@@ -38,11 +38,11 @@ La Intervención no sustituye al órgano gestor. El gestor decide y ejecuta; Int
 
 ## Función interventora
 
-La función interventora controla actos que reconocen derechos u obligaciones económicas, ingresos y pagos, recaudación, inversión y aplicación de fondos. Puede ejercerse como fiscalización previa plena o limitada previa, con control posterior.
+La función interventora controla actos que reconocen <mark>derechos u obligaciones económicas, ingresos y pagos, recaudación, inversión y aplicación de fondos</mark>. Puede ejercerse como fiscalización previa plena o limitada previa, con control posterior.
 
 La fiscalización previa limitada comprueba extremos básicos fijados por la normativa y por los acuerdos de la entidad, dejando otros aspectos para control posterior. No significa ausencia de control: cambia la intensidad del control previo y exige actuaciones posteriores para revisar muestras, expedientes o áreas de riesgo.
 
-Si Intervención aprecia infracción, fórmula reparo. El reparo puede suspender la tramitación en supuestos legalmente previstos, como insuficiencia de crédito, incompetencia, omisión de requisitos esenciales o gastos sin fiscalización obligatoria. Las discrepancias se resuelven por el órgano competente, a veces Pleno o Alcaldía, según materia.
+Si Intervención aprecia infracción, fórmula reparo. El <mark>reparo puede suspender la tramitación</mark> en supuestos legalmente previstos, como <mark>insuficiencia de crédito, incompetencia, omisión de requisitos esenciales o gastos sin fiscalización obligatoria</mark>. Las discrepancias se resuelven por el órgano competente, a veces Pleno o Alcaldía, según materia.
 
 | Resultado de la fiscalización | Significado |
 | --- | --- |
@@ -62,7 +62,7 @@ Supuestos tipicos de reparo suspensivo:
 - obligaciones sin acreditación suficiente;
 - expedientes con posible nulidad.
 
-La discrepancia frente al reparo debe resolverse por el órgano competente. No basta con continuar el expediente como si el reparo no existiera.
+La <mark>discrepancia frente al reparo debe resolverse por el órgano competente</mark>. No basta con continuar el expediente como si el reparo no existiera.
 
 | Reparo suspensivo | Consecuencia de test |
 | --- | --- |
@@ -73,7 +73,7 @@ La discrepancia frente al reparo debe resolverse por el órgano competente. No b
 
 ## Control financiero
 
-El control financiero verifica funcionamiento económico-financiero de servicios, organismos y entidades dependientes. Incluye control permanente y auditoria pública. Analiza cumplimiento normativo, eficacia, eficiencia, economía, estabilidad y sostenibilidad.
+El control financiero verifica funcionamiento económico-financiero de servicios, organismos y entidades dependientes. Incluye <mark>control permanente y auditoria pública</mark>. Analiza cumplimiento normativo, <mark>eficacia, eficiencia, economía, estabilidad y sostenibilidad</mark>.
 
 Puede plasmarse en informes de control, planes anuales, recomendaciones y seguimiento de medidas correctoras.
 
@@ -87,7 +87,7 @@ El control financiero permite mirar más allá de un expediente aislado. Por eje
 | Economia | Se ha obtenido el coste adecuado? |
 | Sostenibilidad | El gasto es compatible con estabilidad y capacidad financiera? |
 
-El plan anual de control financiero ordena las actuaciones de control permanente y auditoría pública. Permite seleccionar áreas de riesgo, entidades dependientes, subvenciones, contratación, ingresos o servicios que se revisarán durante el ejercicio. Sus resultados pueden generar recomendaciones y planes de acción.
+El <mark>plan anual de control financiero</mark> ordena las actuaciones de control permanente y auditoría pública. Permite seleccionar áreas de riesgo, entidades dependientes, subvenciones, contratación, ingresos o servicios que se revisarán durante el ejercicio. Sus resultados pueden generar recomendaciones y planes de acción.
 
 | Modalidad de control | No confundir |
 | --- | --- |
@@ -98,7 +98,7 @@ El plan anual de control financiero ordena las actuaciones de control permanente
 
 ## Omisión de fiscalización
 
-Cuando se omite fiscalización previa obligatoria, debe tramitarse procedimiento específico antes de reconocer obligaciones. Intervención emite informe y el órgano competente decide si continúa, sin perjuicio de responsabilidades.
+Cuando se omite fiscalización previa obligatoria, debe tramitarse <mark>procedimiento específico antes de reconocer obligaciones</mark>. Intervención emite informe y el órgano competente decide si continúa, sin perjuicio de responsabilidades.
 
 <mark>No confundir:</mark> omisión de fiscalización no significa que la prestación no se haya hecho. Significa que el expediente no paso por el control previo obligatorio. Puede existir servicio realizado, pero la Administración debe regularizar con cautelas antes de reconocer y pagar.
 
@@ -112,15 +112,15 @@ Cuando se omite fiscalización previa obligatoria, debe tramitarse procedimiento
 
 ## Control externo
 
-El Tribunal de Cuentas es el supremo órgano fiscalizador de cuentas y gestión económica del Estado y sector público, sin perjuicio de órganos autonómicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir responsabilidad contable.
+El <mark>Tribunal de Cuentas</mark> es el supremo órgano fiscalizador de cuentas y gestión económica del Estado y sector público, sin perjuicio de órganos autonómicos. Fiscaliza legalidad, eficiencia y contabilidad, y puede exigir <mark>responsabilidad contable</mark>.
 
-El Consejo de Cuentas de Castilla y León fiscaliza la gestión económica, financiera y contable del sector público de la Comunidad y de las entidades locales de Castilla y León, en coordinación con el Tribunal de Cuentas.
+El <mark>Consejo de Cuentas de Castilla y León</mark> fiscaliza la gestión económica, financiera y contable del sector público de la Comunidad y de las entidades locales de Castilla y León, en coordinación con el Tribunal de Cuentas.
 
 Las Cortes de Castilla y León reciben informes del Consejo de Cuentas y ejercen control político sobre el sector público autonómico y, en lo que proceda, sobre la fiscalización del sector local.
 
 ## Cuenta general
 
-Las entidades locales deben formar, informar, someter a comisión especial de cuentas, exponer y aprobar su Cuenta General, remitiendola a los órganos de control externo. La Cuenta General refleja ejecución presupuestaria, situación patrimonial, resultados y gestión.
+Las entidades locales deben formar, informar, someter a comisión especial de cuentas, exponer y aprobar su <mark>Cuenta General</mark>, remitiendola a los órganos de control externo. La Cuenta General refleja ejecución presupuestaria, situación patrimonial, resultados y gestión.
 
 Secuencia básica de la Cuenta General:
 
@@ -130,7 +130,7 @@ Secuencia básica de la Cuenta General:
 4. Aprobación por el Pleno.
 5. Remisión al órgano de control externo.
 
-La Comisión Especial de Cuentas no aprueba definitivamente la Cuenta General: la examina e informa antes de la exposición pública y de la aprobación por el Pleno. Este matiz aparece con frecuencia en preguntas de control externo.
+La <mark>Comisión Especial de Cuentas no aprueba definitivamente la Cuenta General</mark>: la examina e informa antes de la exposición pública y de la aprobación por el Pleno. Este matiz aparece con frecuencia en preguntas de control externo.
 
 ## Control externo y responsabilidades
 

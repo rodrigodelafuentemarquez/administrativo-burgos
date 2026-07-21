@@ -12,15 +12,15 @@ La materia se regula en la Constitución, la Ley General Tributaria, la Ley 7/19
 
 ## Principios tributarios
 
-El artículo 31 de la Constitución establece que todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su capacidad económica mediante un sistema tributario justo inspirado en igualdad y progresividad, que en ningún caso tendrá alcance confiscatorio.
+El artículo 31 de la Constitución establece que todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su <mark>capacidad económica</mark> mediante un sistema tributario justo inspirado en <mark>igualdad y progresividad</mark>, que en ningún caso tendrá alcance confiscatorio.
 
 En el ámbito local rigen legalidad, reserva de ley, capacidad económica, igualdad, generalidad, progresividad cuando proceda, no confiscatoriedad, seguridad jurídica, eficiencia y suficiencia financiera.
 
 ## Tributos locales
 
-Los tributos locales son impuestos, tasas y contribuciones especiales. Los impuestos municipales obligatorios son IBI, IAE e IVTM. Los potestativos son ICIO e IIVTNU, que requieren acuerdo de establecimiento y ordenanza fiscal.
+Los tributos locales son <mark>impuestos, tasas y contribuciones especiales</mark>. Los impuestos municipales obligatorios son <mark>IBI, IAE e IVTM</mark>. Los potestativos son <mark>ICIO e IIVTNU</mark>, que requieren acuerdo de establecimiento y ordenanza fiscal.
 
-Las tasas se exigen por uso privativo o aprovechamiento especial del dominio público local y por servicios o actividades administrativas de competencia local que afecten o beneficien de modo particular al sujeto pasivo. Las contribuciones especiales financian obras o establecimiento/ampliación de servicios que produzcan beneficio especial o aumento de valor.
+Las tasas se exigen por <mark>uso privativo o aprovechamiento especial del dominio público local</mark> y por servicios o actividades administrativas de competencia local que afecten o beneficien de modo particular al sujeto pasivo. Las contribuciones especiales financian obras o establecimiento/ampliación de servicios que produzcan <mark>beneficio especial o aumento de valor</mark>.
 
 La hacienda local no se compone solo de tributos. También incluye participación en tributos del Estado y de las Comunidades Autónomas, subvenciones, precios públicos, productos de operaciones de crédito, ingresos patrimoniales, multas y sanciones pecuniarias y demás prestaciones de derecho público. En test, las multas y sanciones aparecen como **ingresos de derecho público**, aunque no sean tributos.
 
@@ -50,7 +50,7 @@ En la práctica municipal, estos tributos sostienen buena parte de los ingresos 
 
 La tasa se exige cuando existe utilización privativa o aprovechamiento especial del dominio público local, o cuando se presta un servicio o actividad administrativa que afecta o beneficia de modo particular y concurre el régimen legal de tasa. Puede devengarse al iniciar el uso, servicio o actividad, o cuando se presente la solicitud que inicia la actuación o expediente, según la naturaleza del hecho imponible y lo que establezca la ordenanza.
 
-El precio público no es tributo. Se exige por servicios o actividades de solicitud voluntaria que también puede prestar el sector privado. La obligación de pagarlo nace desde que se inicia la prestación del servicio o la realización de la actividad, aunque puede exigirse depósito previo.
+El <mark>precio público no es tributo</mark>. Se exige por servicios o actividades de solicitud voluntaria que también puede prestar el sector privado. La obligación de pagarlo nace desde que se inicia la prestación del servicio o la realización de la actividad, aunque puede exigirse depósito previo.
 
 | Figura | Dato diferenciador |
 | --- | --- |
@@ -60,7 +60,7 @@ El precio público no es tributo. Se exige por servicios o actividades de solici
 
 ## Gestión, recaudación e inspección
 
-La aplicación de los tributos locales comprende gestión, liquidación, recaudación, inspección y revisión. La gestión identifica hechos imponibles, sujetos pasivos, bases, cuotas, beneficios fiscales y padrones. La recaudación hace efectivo el cobro en periodo voluntario o ejecutivo. La inspección comprueba la situación tributaria y regulariza incumplimientos.
+La aplicación de los tributos locales comprende <mark>gestión, liquidación, recaudación, inspección y revisión</mark>. La gestión identifica hechos imponibles, sujetos pasivos, bases, cuotas, beneficios fiscales y padrones. La recaudación hace efectivo el cobro en periodo voluntario o ejecutivo. La inspección comprueba la situación tributaria y regulariza incumplimientos.
 
 | Función tributaria | Actuación típica municipal |
 | --- | --- |
@@ -70,17 +70,17 @@ La aplicación de los tributos locales comprende gestión, liquidación, recauda
 | Inspección | Comprobación de hechos no declarados o datos incorrectos. |
 | Revisión | Recursos, devoluciones de ingresos indebidos y rectificaciones. |
 
-No debe confundirse el periodo ejecutivo con la vía de apremio material. El periodo ejecutivo se inicia cuando la deuda no se paga en plazo voluntario. La providencia de apremio es el acto que abre formalmente el procedimiento de apremio y permite exigir recargos, intereses y costas en los términos legales.
+No debe confundirse el periodo ejecutivo con la vía de apremio material. El <mark>periodo ejecutivo se inicia cuando la deuda no se paga en plazo voluntario</mark>. La providencia de apremio es el acto que abre formalmente el procedimiento de apremio y permite exigir recargos, intereses y costas en los términos legales.
 
 ## Potestad reglamentaria tributaria
 
-Las entidades locales no crean libremente tributos. La ley define figuras tributarias y habilita su establecimiento. El Ayuntamiento ejerce potestad reglamentaria mediante ordenanzas fiscales, concretando elementos dentro de los límites legales.
+Las entidades locales <mark>no crean libremente tributos</mark>. La ley define figuras tributarias y habilita su establecimiento. El Ayuntamiento ejerce potestad reglamentaria mediante <mark>ordenanzas fiscales</mark>, concretando elementos dentro de los límites legales.
 
 La potestad tributaria local conecta con autonomía financiera y suficiencia de recursos. Sin ordenanzas fiscales adecuadas, el Ayuntamiento no puede gestionar correctamente ingresos necesarios para servicios.
 
 ## Contenido de ordenanzas fiscales
 
-Las ordenanzas fiscales deben contener elementos necesarios para aplicar el tributo: hecho imponible, sujetos pasivos, responsables, exenciones y bonificaciones, base imponible, tipo o tarifa, cuota, período impositivo, devengo, normas de gestión, liquidación, inspección, recaudación, infracciones y sanciones cuando proceda dentro del marco legal.
+Las ordenanzas fiscales deben contener elementos necesarios para aplicar el tributo: <mark>hecho imponible, sujetos pasivos, responsables, exenciones y bonificaciones, base imponible, tipo o tarifa, cuota, período impositivo, devengo</mark>, normas de gestión, liquidación, inspección, recaudación, infracciones y sanciones cuando proceda dentro del marco legal.
 
 En tasas debe justificarse que el importe no excede, en conjunto, del coste real o previsible del servicio o actividad o del valor de la prestación recibida. Los informes técnico-económicos son relevantes.
 
@@ -98,9 +98,9 @@ Una ordenanza fiscal no debe estudiarse solo como un texto normativo. Es una her
 
 ## Tramitación
 
-El procedimiento comienza con elaboración de propuesta, informes técnicos, jurídicos y económicos, y aprobación provisional por el Pleno. Despues se expone al público en el tablon, boletín oficial y medios exigidos por plazo mínimo de treinta días para reclamaciones.
+El procedimiento comienza con elaboración de propuesta, informes técnicos, jurídicos y económicos, y <mark>aprobación provisional por el Pleno</mark>. Despues se expone al público en el tablon, boletín oficial y medios exigidos por <mark>plazo mínimo de treinta días</mark> para reclamaciones.
 
-Si no se presentan reclamaciones, el acuerdo provisional se entiende definitivamente adoptado. Si se presentan, deben resolverse y aprobarse definitivamente. El texto íntegro de la ordenanza o modificación debe publicarse en el Boletín Oficial de la Provincia antes de su entrada en vigor.
+Si no se presentan reclamaciones, <mark>el acuerdo provisional se entiende definitivamente adoptado</mark>. Si se presentan, deben resolverse y aprobarse definitivamente. El <mark>texto íntegro</mark> de la ordenanza o modificación debe publicarse en el Boletín Oficial de la Provincia antes de su entrada en vigor.
 
 | Fase de ordenanza fiscal | Dato básico |
 | --- | --- |
@@ -112,13 +112,13 @@ Si no se presentan reclamaciones, el acuerdo provisional se entiende definitivam
 
 ## Imposición y ordenación
 
-La imposición es la decisión de establecer un tributo potestativo o exigir una figura permitida. La ordenación es la regulación concreta de sus elementos mediante ordenanza fiscal. En impuestos obligatorios, la ley ya exige su existencia, pero la ordenanza concreta aspectos como tipos dentro de límites, bonificaciones potestativas y gestión.
+La <mark>imposición</mark> es la decisión de establecer un tributo potestativo o exigir una figura permitida. La <mark>ordenación</mark> es la regulación concreta de sus elementos mediante ordenanza fiscal. En impuestos obligatorios, la ley ya exige su existencia, pero la ordenanza concreta aspectos como tipos dentro de límites, bonificaciones potestativas y gestión.
 
 En los impuestos obligatorios, el Ayuntamiento no decide si existen, pero sí puede aprobar tipos, coeficientes, bonificaciones potestativas y reglas de gestión dentro del margen legal. En los potestativos, primero debe acordarse la imposición y después ordenarse mediante ordenanza fiscal. En tasas y contribuciones especiales, el expediente debe justificar el servicio, actividad, aprovechamiento u obra que sirve de fundamento.
 
 ## Impugnación
 
-Los acuerdos de imposición y ordenación de tributos y las ordenanzas fiscales pueden impugnarse ante la jurisdicción contencioso-administrativa. Los actos individuales de aplicación, como liquidaciones, recibos, providencias de apremio o denegaciones de bonificación, se impugnan mediante recursos administrativos o reclamaciones económico-administrativas cuando exista órgano competente, como el TEAM en municipios de gran población.
+Los acuerdos de imposición y ordenación de tributos y las ordenanzas fiscales pueden impugnarse ante la <mark>jurisdicción contencioso-administrativa</mark>. Los actos individuales de aplicación, como liquidaciones, recibos, providencias de apremio o denegaciones de bonificación, se impugnan mediante recursos administrativos o reclamaciones económico-administrativas cuando exista órgano competente, como el <mark>TEAM en municipios de gran población</mark>.
 
 En municipios de gran población, como Burgos, determinados actos de gestión, liquidación, recaudación e inspección tributaria municipal pueden revisarse en vía económico-administrativa ante el Tribunal Económico-Administrativo Municipal, en los términos de la normativa local aplicable.
 

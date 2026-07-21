@@ -15,13 +15,13 @@ titulo: "El presupuesto público: concepto, principios y estructura. El ciclo pr
 
 ### 1.1 Qué es el presupuesto público
 
-El **presupuesto** es el instrumento jurídico y financiero por excelencia de la actividad pública: es la expresión cifrada, conjunta y sistemática de las obligaciones que, como máximo, puede reconocer la Administración y de los derechos que prevé liquidar durante el correspondiente ejercicio presupuestario. En términos más sencillos: es la autorización que concede el Parlamento (o el Pleno en el caso de las Entidades Locales) al Gobierno (o a la Corporación) para gastar hasta un determinado importe y para recaudar los ingresos necesarios para financiarlo.
+El <mark>presupuesto</mark> es el instrumento jurídico y financiero por excelencia de la actividad pública: es la <mark>expresión cifrada, conjunta y sistemática</mark> de las obligaciones que, como máximo, puede reconocer la Administración y de los derechos que prevé liquidar durante el correspondiente ejercicio presupuestario. En términos más sencillos: es la autorización que concede el Parlamento (o el Pleno en el caso de las Entidades Locales) al Gobierno (o a la Corporación) para gastar hasta un determinado importe y para recaudar los ingresos necesarios para financiarlo.
 
 La naturaleza del presupuesto es **dual**:
 - Cómo **acto jurídico**, es una ley (o acto equivalente) que tiene fuerza vinculante: ningún gasto puede realizarse sin crédito presupuestario suficiente.
 - Cómo **instrumento económico**, es el plan financiero anual del sector público: determina la política económica del Gobierno y distribuye los recursos entre los distintos objetivos públicos.
 
-El presupuesto es **anual**: cada ejercicio presupuestario coincide con el año natural (del 1 de enero al 31 de diciembre).
+El presupuesto es <mark>anual</mark>: cada ejercicio presupuestario coincide con el año natural (del 1 de enero al 31 de diciembre).
 
 ### 1.2 El presupuesto en la Constitución Española
 
@@ -31,7 +31,7 @@ El art. 134 CE establece el régimen constitucional del Presupuesto General del 
 - Si los Presupuestos Generales del Estado no se aprobaran antes del primer día del ejercicio económico correspondiente, se considerarán automáticamente prorrogados los del ejercicio anterior hasta la aprobación de los nuevos.
 - El Gobierno puede presentar proyectos de ley que impliquen aumento del gasto público o disminución de los ingresos correspondientes al mismo ejercicio presupuestario, pero las Cortes no pueden aprobar enmiendas que supongan aumento de los créditos ni disminución de los ingresos sin la conformidad del Gobierno.
 
-El art. 135 CE, reformado en 2011 en el contexto de la crisis financiera, introduce el principio de **estabilidad presupuestaria** como mandato constitucional: el Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos por la Unión Europea.
+El art. 135 CE, reformado en 2011 en el contexto de la crisis financiera, introduce el principio de <mark>estabilidad presupuestaria</mark> como mandato constitucional: el Estado y las Comunidades Autónomas no podrán incurrir en un déficit estructural que supere los márgenes establecidos por la Unión Europea.
 
 ---
 
@@ -55,7 +55,7 @@ Los ingresos no pueden estar afectados a la financiación de gastos concretos, d
 El presupuesto tiene vigencia anual: los créditos presupuestarios que no se hayan gastado al final del ejercicio quedan **anulados** con carácter general (con las excepciones de las incorporaciones de crédito). Esta regla obliga a planificar con diligencia el gasto a lo largo del año.
 
 ### 2.6 Principio de especialidad
-Los créditos presupuestarios son **específicos**: se asignan a finalidades concretas (clasificación funcional y económica) y no pueden destinarse a atenciones distintas de aquellas para las que fueron autorizados. Este principio tiene tres vertientes: **cualitativa** (el gasto debe corresponder al concepto presupuestario), **cuantitativa** (no puede gastarse más de lo consignado) y **temporal** (solo puede gastarse durante el ejercicio presupuestario).
+Los créditos presupuestarios son <mark>específicos</mark>: se asignan a finalidades concretas (clasificación funcional y económica) y no pueden destinarse a atenciones distintas de aquellas para las que fueron autorizados. Este principio tiene tres vertientes: <mark>cualitativa, cuantitativa y temporal</mark>.
 
 ### 2.7 Principio de equilibrio presupuestario
 El presupuesto debe aprobarse sin déficit, o con un déficit dentro de los límites fijados por la normativa de estabilidad. Este principio ha cobrado especial relevancia tras la reforma del art. 135 CE y la aprobación de la Ley Orgánica 2/2012 de Estabilidad Presupuestaria.
@@ -90,7 +90,7 @@ Es la más importante para el control contable. Organiza los créditos según la
 | **Cap. 8** | Activos financieros | Concesión de préstamos, adquisición de acciones |
 | **Cap. 9** | Pasivos financieros | Amortización de deuda |
 
-Los capítulos 1 a 5 son **gastos corrientes** (operaciones no financieras corrientes); los capítulos 6 y 7 son **gastos de capital**; los capítulos 8 y 9 son **operaciones financieras**.
+Los capítulos <mark>1 a 5 son gastos corrientes</mark> (operaciones no financieras corrientes); los capítulos <mark>6 y 7 son gastos de capital</mark>; los capítulos <mark>8 y 9 son operaciones financieras</mark>.
 
 Dentro de cada capítulo, los créditos se desglosan en **artículos**, **conceptos** y **subconceptos**, que permiten una identificación precisa del tipo de gasto.
 
@@ -104,7 +104,7 @@ El presupuesto pasa por cuatro fases que forman el **ciclo presupuestario**:
 
 La elaboración corresponde al **Gobierno** (o a la Corporación Local). En el ámbito estatal, el proceso comienza en la primavera del año anterior al ejercicio presupuestario: el Ministerio de Hacienda establece los techos de gasto para cada departamento, los departamentos elaboran sus propuestas y el Consejo de Ministros aprueba el **Proyecto de Ley de Presupuestos Generales del Estado** para remitirlo a las Cortes antes del 1 de octubre.
 
-En las **Entidades Locales**, el Presidente forma el Proyecto de Presupuesto y lo remite al Pleno antes del 15 de octubre. Si el Pleno no lo aprueba y no existe presupuesto aprobado antes del 1 de enero, queda automáticamente prorrogado el del ejercicio anterior.
+En las <mark>Entidades Locales</mark>, el Presidente forma el Proyecto de Presupuesto y lo remite al Pleno antes del <mark>15 de octubre</mark>. Si el Pleno no lo aprueba y no existe presupuesto aprobado antes del 1 de enero, queda <mark>automáticamente prorrogado</mark> el del ejercicio anterior.
 
 ### 4.2 Aprobación
 
@@ -126,7 +126,7 @@ Al final del ejercicio, se procede a la **liquidación del presupuesto**: se cie
 
 ### 5.1 El principio de legalidad en la ejecución del gasto
 
-La ejecución del gasto público está sometida al principio de legalidad: **ninguna obligación de pago puede reconocerse sin crédito presupuestario suficiente** para hacer frente a ella. Este principio se traduce en el procedimiento de gasto, que establece una secuencia de actos administrativos que deben seguirse en orden y que se documentan mediante **documentos contables** normalizados.
+La ejecución del gasto público está sometida al principio de legalidad: <mark>ninguna obligación de pago puede reconocerse sin crédito presupuestario suficiente</mark> para hacer frente a ella. Este principio se traduce en el procedimiento de gasto, que establece una secuencia de actos administrativos que deben seguirse en orden y que se documentan mediante <mark>documentos contables</mark> normalizados.
 
 ### 5.2 Las fases de la ejecución del presupuesto de gastos
 
@@ -134,7 +134,7 @@ La ejecución del presupuesto de gastos se articula en **cuatro fases** (o cinco
 
 #### Fase 1 — Autorización del gasto (documento A)
 
-Es el primer acto administrativo del proceso. Mediante la **autorización** el órgano competente decide iniciar el gasto: aprueba la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin el crédito presupuestario necesario.
+Es el primer acto administrativo del proceso. Mediante la <mark>autorización</mark> el órgano competente decide iniciar el gasto: aprueba la realización de un gasto determinado por una cuantía cierta o aproximada, reservando a tal fin el crédito presupuestario necesario.
 
 La autorización **no genera ninguna obligación** frente a terceros: es un acto interno de la Administración que simplemente reserva el crédito. Sin embargo, desde que se autoriza, ese crédito queda comprometido y no puede dedicarse a otro gasto.
 
@@ -142,7 +142,7 @@ El documento contable correspondiente es el **documento A** (Autorización de ga
 
 #### Fase 2 — Disposición o compromiso del gasto (documento D)
 
-La **disposición** es el acto mediante el cual el órgano competente acuerda formalizar con un tercero la realización de la prestación o el servicio que va a generar el gasto. Es el momento en que la Administración contrae una **obligación jurídica** frente a un tercero concreto: la firma del contrato, la concesión de la subvención, etc.
+La <mark>disposición</mark> es el acto mediante el cual el órgano competente acuerda formalizar con un tercero la realización de la prestación o el servicio que va a generar el gasto. Es el momento en que la Administración contrae una <mark>obligación jurídica frente a un tercero concreto</mark>: la firma del contrato, la concesión de la subvención, etc.
 
 El documento contable es el **documento D** (Disposición o compromiso de gasto). Supone el paso del crédito de la fase de «autorizado» a la fase de «dispuesto» o «comprometido».
 
@@ -150,7 +150,7 @@ En la práctica, las fases A y D se tramitan frecuentemente de forma acumulada m
 
 #### Fase 3 — Reconocimiento de la obligación (documento O)
 
-El **reconocimiento de la obligación** (también llamado «liquidación» o «acreditación») es el acto por el que el órgano gestor declara que el tercero ha cumplido correctamente su prestación y que, en consecuencia, nace el derecho de ese tercero a cobrar y la obligación de la Administración de pagar.
+El <mark>reconocimiento de la obligación</mark> (también llamado «liquidación» o «acreditación») es el acto por el que el órgano gestor declara que el tercero ha cumplido correctamente su prestación y que, en consecuencia, nace el derecho de ese tercero a cobrar y la obligación de la Administración de pagar.
 
 Para reconocer la obligación es imprescindible que el gestor compruebe que la prestación se ha realizado conforme a lo pactado: que la obra está ejecutada, que el servicio se ha prestado, que el suministro se ha entregado, etc. Esta comprobación se documenta en el **acta de conformidad**, la **certificación de obra** o el **conforme** en la factura.
 
@@ -158,7 +158,7 @@ El documento contable es el **documento O** (Reconocimiento de Obligación). Sup
 
 #### Fase 4 — Ordenación del pago (documento P)
 
-La **ordenación del pago** (o «propuesta de pago») es el acto por el que el órgano competente (el **ordenador de pagos**, que en la Administración del Estado es el Ministro de Hacienda) ordena a la Tesorería que satisfaga la obligación reconocida, una vez que la Intervención ha dado su conformidad (a través de la función de fiscalización).
+La <mark>ordenación del pago</mark> (o «propuesta de pago») es el acto por el que el órgano competente (el **ordenador de pagos**, que en la Administración del Estado es el Ministro de Hacienda) ordena a la Tesorería que satisfaga la obligación reconocida, una vez que la Intervención ha dado su conformidad (a través de la función de fiscalización).
 
 El documento contable es el **documento P** (Propuesta de Pago u Orden de Pago).
 
@@ -203,10 +203,10 @@ La **modificación presupuestaria** es cualquier alteración de los créditos in
 
 ### 6.2 Créditos extraordinarios y suplementos de crédito
 
-Los **créditos extraordinarios** y los **suplementos de crédito** son modificaciones que **aumentan el gasto total** del presupuesto y que, por tanto, requieren la aprobación del órgano legislativo (Cortes Generales, Asamblea Legislativa o Pleno):
+Los <mark>créditos extraordinarios y los suplementos de crédito</mark> son modificaciones que <mark>aumentan el gasto total</mark> del presupuesto y que, por tanto, requieren la aprobación del órgano legislativo (Cortes Generales, Asamblea Legislativa o Pleno):
 
-- **Crédito extraordinario:** se crea una nueva partida presupuestaria (un nuevo concepto de gasto) para hacer frente a un gasto que no estaba previsto en el presupuesto inicial y para el que no existe crédito de ningún tipo.
-- **Suplemento de crédito:** se amplía una partida ya existente cuando el crédito inicialmente consignado es insuficiente para atender la obligación generada.
+- <mark>Crédito extraordinario</mark>: se crea una nueva partida presupuestaria (un nuevo concepto de gasto) para hacer frente a un gasto que no estaba previsto en el presupuesto inicial y para el que no existe crédito de ningún tipo.
+- <mark>Suplemento de crédito</mark>: se amplía una partida ya existente cuando el crédito inicialmente consignado es insuficiente para atender la obligación generada.
 
 En ambos casos, el Gobierno presenta al Parlamento un proyecto de ley específico, que debe financiarse con cargo a nuevos ingresos, a bajas en otros créditos o con cargo al remanente de tesorería.
 
@@ -216,7 +216,7 @@ Las **ampliaciones de crédito** son aumentos de crédito en determinadas partid
 
 ### 6.4 Transferencias de crédito
 
-Las **transferencias de crédito** son modificaciones que **redistribuyen créditos** entre partidas del presupuesto sin alterar el gasto total: bajan el crédito de una partida y suben el de otra. Son la modificación más habitual en la práctica.
+Las <mark>transferencias de crédito</mark> son modificaciones que <mark>redistribuyen créditos</mark> entre partidas del presupuesto sin alterar el gasto total: bajan el crédito de una partida y suben el de otra. Son la modificación más habitual en la práctica.
 
 Las transferencias pueden aprobarse por el Gobierno (o por el Presidente de la Corporación Local, con posterior información al Pleno) dentro de los límites establecidos por la ley. Existen limitaciones: no pueden transferirse créditos de gastos de personal a otros capítulos, ni créditos de inversiones a gastos corrientes, ni entre distintos programas en determinados supuestos.
 
@@ -265,7 +265,7 @@ El gasto público está sometido a un sistema de controles que actúan en moment
 
 ### 7.2 La función interventora (control interno previo)
 
-La **función interventora** es el mecanismo de control interno previo más importante. Es ejercida por la **Intervención General** (en el Estado y las CCAA) o por el **Interventor** (en las Entidades Locales). Consiste en la fiscalización previa de los actos administrativos que generan gastos o reconocen obligaciones, para comprobar que se ajustan a la legalidad presupuestaria y al ordenamiento jurídico.
+La <mark>función interventora</mark> es el mecanismo de control interno previo más importante. Es ejercida por la **Intervención General** (en el Estado y las CCAA) o por el <mark>Interventor</mark> (en las Entidades Locales). Consiste en la fiscalización previa de los actos administrativos que generan gastos o reconocen obligaciones, para comprobar que se ajustan a la legalidad presupuestaria y al ordenamiento jurídico.
 
 Antes de que el órgano gestor pueda ejecutar el gasto, el expediente debe pasar por la Intervención para su **fiscalización previa**, que puede resultar:
 - **Conforme:** la Intervención da el visto bueno y el acto puede ejecutarse.
@@ -277,15 +277,15 @@ El **Interventor** de las Entidades Locales es un funcionario habilitado de car�
 
 ### 7.3 El control financiero (control interno posterior)
 
-El **control financiero** es un control interno posterior a la ejecución del gasto que verifica no solo la legalidad sino también la eficacia, eficiencia y economía de la gestión. Lo ejerce la Intervención mediante auditorías de cuentas, auditorías operativas y controles de subvenciones. No es un control de legalidad puro sino un control de gestión que evalúa si los recursos se han utilizado de forma óptima.
+El <mark>control financiero</mark> es un control interno posterior a la ejecución del gasto que verifica no solo la legalidad sino también la <mark>eficacia, eficiencia y economía</mark> de la gestión. Lo ejerce la Intervención mediante auditorías de cuentas, auditorías operativas y controles de subvenciones. No es un control de legalidad puro sino un control de gestión que evalúa si los recursos se han utilizado de forma óptima.
 
 ### 7.4 El Tribunal de Cuentas
 
 El **Tribunal de Cuentas** es el supremo órgano fiscalizador de las cuentas y de la gestión económica del Estado y del sector público. Está regulado en el art. 136 CE y en su Ley Orgánica 2/1982.
 
-El Tribunal de Cuentas tiene una doble función:
-- **Función fiscalizadora:** examina y comprueba las cuentas de todas las entidades del sector público estatal y emite un informe anual sobre la Cuenta General del Estado, que remite a las Cortes Generales para su debate y aprobación.
-- **Función jurisdiccional:** enjuicia la responsabilidad contable de quienes, siendo gestores de fondos públicos, causen un daño o menoscabo al erario público por acción u omisión dolosa o gravemente negligente.
+El Tribunal de Cuentas tiene una <mark>doble función</mark>:
+- <mark>Función fiscalizadora</mark>: examina y comprueba las cuentas de todas las entidades del sector público estatal y emite un informe anual sobre la Cuenta General del Estado, que remite a las Cortes Generales para su debate y aprobación.
+- <mark>Función jurisdiccional</mark>: enjuicia la responsabilidad contable de quienes, siendo gestores de fondos públicos, causen un daño o menoscabo al erario público por acción u omisión dolosa o gravemente negligente.
 
 El Tribunal de Cuentas depende orgánicamente de las Cortes Generales, ante las que rinde cuentas de su actividad. Sus doce consejeros son elegidos por las Cortes Generales.
 
@@ -326,7 +326,7 @@ El control interno en las Entidades Locales es ejercido por el **Interventor de 
 - **Contabilidad:** llevanza de la contabilidad de la Entidad Local.
 - **Informe de presupuesto:** emite informe previo a la aprobación del presupuesto sobre su suficiencia y legalidad.
 
-El control externo de las Entidades Locales de Castilla y León corresponde al **Consejo de Cuentas de Castilla y León** y, subsidiariamente, al **Tribunal de Cuentas**.
+El control externo de las Entidades Locales de Castilla y León corresponde al <mark>Consejo de Cuentas de Castilla y León</mark> y, subsidiariamente, al <mark>Tribunal de Cuentas</mark>.
 
 ### 8.5 El remanente de tesorería
 

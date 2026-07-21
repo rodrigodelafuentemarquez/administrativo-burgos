@@ -198,9 +198,9 @@ La **incapacidad permanente (IP)** es la situación del trabajador que, después
 
 ### 7.1 Concepto
 
-El **Presupuesto** de las Entidades Locales es el documento jurídico-contable que contiene la **expresión cifrada, conjunta y sistemática de las obligaciones** que, como máximo, pueden reconocer la Entidad Local y sus organismos autónomos, y de los **derechos** que se prevé liquidar durante el ejercicio presupuestario (art. 162 TRLRHL).
+El <mark>Presupuesto de las Entidades Locales</mark> es el documento jurídico-contable que contiene la <mark>expresión cifrada, conjunta y sistemática de las obligaciones</mark> que, como máximo, pueden reconocer la Entidad Local y sus organismos autónomos, y de los <mark>derechos</mark> que se prevé liquidar durante el ejercicio presupuestario (art. 162 TRLRHL).
 
-El presupuesto tiene carácter **anual**: coincide con el año natural (1 de enero a 31 de diciembre).
+El presupuesto tiene carácter <mark>anual</mark>: coincide con el año natural (1 de enero a 31 de diciembre).
 
 ### 7.2 Marco normativo
 
@@ -211,10 +211,10 @@ La regulación del presupuesto local se contiene principalmente en:
 
 ### 7.3 Contenido del Presupuesto General
 
-El **Presupuesto General** de la Entidad Local integra (art. 164 TRLRHL):
-- El **Presupuesto de la propia Entidad Local**.
-- Los **Presupuestos de los Organismos Autónomos** dependientes de la misma.
-- Los **Presupuestos de las Sociedades Mercantiles** de capital íntegramente local.
+El <mark>Presupuesto General</mark> de la Entidad Local integra (art. 164 TRLRHL):
+- El <mark>Presupuesto de la propia Entidad Local</mark>.
+- Los <mark>Presupuestos de los Organismos Autónomos</mark> dependientes de la misma.
+- Los <mark>Presupuestos de las Sociedades Mercantiles</mark> de capital íntegramente local.
 - Las **previsiones de ingresos y gastos** de los consorcios, fundaciones y demás entes dependientes, si no tienen presupuesto propio.
 
 ---
@@ -240,7 +240,7 @@ Recoge los **recursos** que se prevé obtener durante el ejercicio. Se clasifica
 | 8 | Activos financieros |
 | 9 | Pasivos financieros |
 
-Los capítulos 1 a 5 son **ingresos corrientes**; los 6 y 7 son **ingresos de capital**; los 8 y 9 son **operaciones financieras**.
+Los capítulos <mark>1 a 5 son ingresos corrientes</mark>; los <mark>6 y 7 son ingresos de capital</mark>; los <mark>8 y 9 son operaciones financieras</mark>.
 
 ### 8.2 Estado de gastos (créditos)
 
@@ -274,11 +274,11 @@ Identifica **en qué** se gasta:
 | 8 | Activos financieros |
 | 9 | Pasivos financieros |
 
-Los capítulos 1 a 4 son **gastos corrientes** (operaciones corrientes); el 6 y 7 son **gastos de capital** (operaciones de capital); el 8 y 9 son **operaciones financieras**.
+Los capítulos <mark>1 a 4 son gastos corrientes</mark> (operaciones corrientes); el <mark>6 y 7 son gastos de capital</mark> (operaciones de capital); el <mark>8 y 9 son operaciones financieras</mark>.
 
 ### 8.3 El principio de equilibrio presupuestario
 
-El presupuesto local debe aprobarse **nivelado**, es decir, sin déficit inicial: los ingresos previstos deben cubrir los gastos autorizados. Este principio está reforzado por la Ley Orgánica 2/2012, de estabilidad presupuestaria y sostenibilidad financiera.
+El presupuesto local debe aprobarse <mark>nivelado</mark>, es decir, sin déficit inicial: los ingresos previstos deben cubrir los gastos autorizados. Este principio está reforzado por la Ley Orgánica 2/2012, de estabilidad presupuestaria y sostenibilidad financiera.
 
 ---
 
@@ -288,15 +288,15 @@ El presupuesto local debe aprobarse **nivelado**, es decir, sin déficit inicial
 
 1. **Elaboración** del anteproyecto: por el Presidente de la Corporación, con el apoyo del Área de Hacienda e Intervención.
 2. **Informe de la Intervención:** preceptivo, sobre si el presupuesto se ajusta a la normativa aplicable.
-3. **Aprobación inicial** por el **Pleno** antes del 15 de octubre del ejercicio anterior al que corresponde (aunque en la práctica frecuentemente se aprueba con posterioridad).
-4. **Exposición pública** durante 15 días hábiles en el BOP, para que los interesados puedan examinarlo y presentar reclamaciones.
+3. <mark>Aprobación inicial por el Pleno</mark> antes del 15 de octubre del ejercicio anterior al que corresponde (aunque en la práctica frecuentemente se aprueba con posterioridad).
+4. <mark>Exposición pública durante 15 días hábiles</mark> en el BOP, para que los interesados puedan examinarlo y presentar reclamaciones.
 5. Si no hay reclamaciones, el presupuesto queda **definitivamente aprobado**. Si las hay, el Pleno debe resolverlas.
 6. **Publicación** del presupuesto definitivamente aprobado en el BOP y en la sede electrónica.
 7. **Remisión** de copia a la Administración del Estado y a la Comunidad Autónoma.
 
 ### 9.2 Prórroga del presupuesto
 
-Si el presupuesto no se aprueba antes del 1 de enero del ejercicio al que corresponde, queda **automáticamente prorrogado** el del ejercicio anterior, hasta la aprobación del nuevo. La prórroga no incluye los créditos para gastos de inversión ni otros que por su naturaleza no sean prorrogables.
+Si el presupuesto no se aprueba antes del <mark>1 de enero</mark> del ejercicio al que corresponde, queda <mark>automáticamente prorrogado</mark> el del ejercicio anterior, hasta la aprobación del nuevo. La prórroga no incluye los créditos para gastos de inversión ni otros que por su naturaleza no sean prorrogables.
 
 ---
 
@@ -310,7 +310,7 @@ La gestión del gasto en las Entidades Locales sigue un **procedimiento de ejecu
 
 #### FASE 1: AUTORIZACIÓN DEL GASTO (documento «A»)
 
-La **autorización** (o aprobación del gasto) es el acto por el que el órgano competente **decide** realizar un gasto determinado con cargo al crédito presupuestario correspondiente, reservando el crédito necesario.
+La <mark>autorización</mark> (o aprobación del gasto) es el acto por el que el órgano competente decide realizar un gasto determinado con cargo al crédito presupuestario correspondiente, reservando el crédito necesario.
 
 - Documento contable: **A** (de Autorización).
 - Efecto: el crédito queda **reservado** pero aún no comprometido frente a terceros.
@@ -318,7 +318,7 @@ La **autorización** (o aprobación del gasto) es el acto por el que el órgano 
 
 #### FASE 2: DISPOSICIÓN O COMPROMISO DEL GASTO (documento «D»)
 
-La **disposición** es el acto por el que el órgano competente, en ejercicio de sus funciones, acuerda realizar o concertar con un tercero un gasto previamente autorizado. Es el momento en que la Administración se **compromete jurídicamente** frente a terceros.
+La <mark>disposición</mark> es el acto por el que el órgano competente, en ejercicio de sus funciones, acuerda realizar o concertar con un tercero un gasto previamente autorizado. Es el momento en que la Administración se <mark>compromete jurídicamente</mark> frente a terceros.
 
 - Documento contable: **D** (de Disposición).
 - Efecto: el crédito queda **comprometido**. La Corporación está obligada frente al contratista o beneficiario.
@@ -328,7 +328,7 @@ La **disposición** es el acto por el que el órgano competente, en ejercicio de
 
 #### FASE 3: RECONOCIMIENTO DE LA OBLIGACIÓN (documento «O»)
 
-El **reconocimiento de la obligación** (o liquidación) es el acto por el que el órgano competente, una vez verificado que el contratista o beneficiario ha cumplido su prestación, **declara la existencia de un crédito exigible** contra la Hacienda Local.
+El <mark>reconocimiento de la obligación</mark> (o liquidación) es el acto por el que el órgano competente, una vez verificado que el contratista o beneficiario ha cumplido su prestación, <mark>declara la existencia de un crédito exigible</mark> contra la Hacienda Local.
 
 - Documento contable: **O** (de Obligación reconocida).
 - Efecto: la Corporación reconoce que debe pagar. El crédito presupuestario queda **aplicado**.
@@ -337,7 +337,7 @@ El **reconocimiento de la obligación** (o liquidación) es el acto por el que e
 
 #### FASE 4: ORDENACIÓN DEL PAGO (documento «P»)
 
-La **ordenación del pago** es el acto por el que el órgano competente **manda a la Tesorería** que realice el pago de la obligación reconocida.
+La <mark>ordenación del pago</mark> es el acto por el que el órgano competente <mark>manda a la Tesorería</mark> que realice el pago de la obligación reconocida.
 
 - Documento contable: **P** (de Pago ordenado).
 - Efecto: la Tesorería queda obligada a realizar el pago.
@@ -371,12 +371,12 @@ El **pago material** es la salida efectiva de fondos de la Tesorería hacia el a
 
 ### 10.5 La Intervención: función fiscalizadora
 
-La **Intervención** ejerce el control interno de la gestión económico-financiera mediante la **fiscalización previa**: antes de que el órgano competente adopte un acto que comprometa fondos públicos, el Interventor emite un informe (fiscalización) verificando que:
+La <mark>Intervención</mark> ejerce el control interno de la gestión económico-financiera mediante la <mark>fiscalización previa</mark>: antes de que el órgano competente adopte un acto que comprometa fondos públicos, el Interventor emite un informe (fiscalización) verificando que:
 - Existe crédito presupuestario adecuado y suficiente.
 - El acto es conforme con la normativa aplicable.
 - Se han cumplido todos los trámites preceptivos.
 
-Si la Intervención observa reparos a la legalidad del gasto, lo comunica al órgano competente. Si el órgano insiste en su actuación (discrepancia), el expediente se eleva al Pleno para su resolución.
+Si la Intervención observa <mark>reparos</mark> a la legalidad del gasto, lo comunica al órgano competente. Si el órgano insiste en su actuación (<mark>discrepancia</mark>), el expediente se eleva al Pleno para su resolución.
 
 ### 10.6 Modificaciones presupuestarias
 
@@ -397,7 +397,7 @@ Cuándo durante el ejercicio es necesario gastar en conceptos no previstos o por
 
 ### 11.1 Concepto
 
-La **Cuenta General** es el documento contable que refleja la gestión económica, financiera y presupuestaria realizada por la Entidad Local durante el ejercicio, permitiendo el control del resultado de la ejecución del presupuesto.
+La <mark>Cuenta General</mark> es el documento contable que refleja la gestión económica, financiera y presupuestaria realizada por la Entidad Local durante el ejercicio, permitiendo el control del resultado de la ejecución del presupuesto.
 
 ### 11.2 Tramitación
 

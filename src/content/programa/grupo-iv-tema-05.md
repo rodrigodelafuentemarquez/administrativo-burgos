@@ -12,21 +12,21 @@ La materia urbanística combina normativa estatal de suelo, legislación urbaní
 
 ## Régimen urbanístico de la propiedad
 
-La propiedad del suelo está delimitada por su función social. El propietario no puede edificar o usar libremente al margen del planeamiento. El contenido del derecho de propiedad depende de clasificación, calificación, ordenación y deberes urbanísticos.
+La propiedad del suelo está delimitada por su <mark>función social</mark>. El propietario no puede edificar o usar libremente al margen del planeamiento. El contenido del derecho de propiedad depende de <mark>clasificación, calificación, ordenación y deberes urbanísticos</mark>.
 
 El urbanismo ordena utilización del suelo, crecimiento urbano, protección ambiental, dotaciones, infraestructuras, vivienda, patrimonio y equilibrio territorial.
 
 ## Principios
 
-Rigen desarrollo territorial sostenible, función social de la propiedad, participación pública, equidistribución de beneficios y cargas, publicidad del planeamiento, subordinación al interés general, protección ambiental y seguridad jurídica.
+Rigen <mark>desarrollo territorial sostenible, función social de la propiedad, participación pública, equidistribución de beneficios y cargas, publicidad del planeamiento, subordinación al interés general, protección ambiental y seguridad jurídica</mark>.
 
 La equidistribución evita que unos propietarios reciban aprovechamientos sin cargas y otros soporten dotaciones sin compensación.
 
 ## Clasificación y calificación
 
-La clasificación divide el suelo en categorías básicas según legislación aplicable: urbano, urbanizable y rústico o no urbanizable, con subcategorías. El suelo urbano cuenta con servicios y consolidación. El urbanizable puede transformarse mediante planeamiento y gestión. El rústico se preserva por valores agrarios, ambientales, paisajísticos, culturales o por inadecuación para urbanizar.
+La clasificación divide el suelo en categorías básicas según legislación aplicable: <mark>urbano, urbanizable y rústico o no urbanizable</mark>, con subcategorías. El suelo urbano cuenta con servicios y consolidación. El urbanizable puede transformarse mediante planeamiento y gestión. El rústico se preserva por valores agrarios, ambientales, paisajísticos, culturales o por inadecuación para urbanizar.
 
-La calificación asigna usos y condiciones: residencial, industrial, terciario, dotacional, espacios libres, equipamientos, viario, alturas, edificabilidad, retranqueos y demás parametros.
+La calificación asigna <mark>usos y condiciones</mark>: residencial, industrial, terciario, dotacional, espacios libres, equipamientos, viario, alturas, edificabilidad, retranqueos y demás parametros.
 
 | Concepto | Qué decide | Ejemplo |
 | --- | --- | --- |
@@ -43,11 +43,11 @@ La clasificación responde a la pregunta "que tipo de suelo es"; la calificació
 | Urbanizable | Puede transformarse mediante planeamiento y gestión urbanística. |
 | Rústico o no urbanizable | Se preserva por valores ambientales, agrarios, paisajísticos, culturales, protección especial o inadecuación para urbanizar. |
 
-La clasificación determina la clase jurídica del terreno. La calificación concreta usos, intensidades y condiciones de edificación. Por eso una respuesta correcta puede decir que la clasificación decide la clase de suelo y la calificación precisa usos, edificabilidad, alturas, dotaciones o retranqueos.
+La <mark>clasificación determina la clase jurídica</mark> del terreno. La <mark>calificación concreta usos, intensidades y condiciones de edificación</mark>. Por eso una respuesta correcta puede decir que la clasificación decide la clase de suelo y la calificación precisa usos, edificabilidad, alturas, dotaciones o retranqueos.
 
 ## Competencia municipal
 
-El Ayuntamiento tiene competencias en planeamiento, gestión, disciplina, licencias, inspección y protección de legalidad, dentro del marco estatal y autonómico. Aprueba instrumentos en los supuestos que le correspondan y tramita expedientes urbanísticos.
+El Ayuntamiento tiene competencias en <mark>planeamiento, gestión, disciplina, licencias, inspección y protección de legalidad</mark>, dentro del marco estatal y autonómico. Aprueba instrumentos en los supuestos que le correspondan y tramita expedientes urbanísticos.
 
 En municipios como Burgos, la gestión urbanística exige coordinación técnica, jurídica, ambiental, patrimonial y económica.
 
@@ -63,7 +63,7 @@ La competencia urbanística municipal se ejerce dentro de la legislación auton�
 
 ## Intervención administrativa
 
-La edificación y uso del suelo pueden someterse a licencia, declaración responsable o comunicación previa según la normativa. La finalidad es comprobar adecuación a planeamiento, seguridad, salubridad, accesibilidad, patrimonio y normativa sectorial.
+La edificación y uso del suelo pueden someterse a <mark>licencia, declaración responsable o comunicación previa</mark> según la normativa. La finalidad es comprobar adecuación a planeamiento, seguridad, salubridad, accesibilidad, patrimonio y normativa sectorial.
 
 No todo acto requiere el mismo control. Obras mayores, parcelaciones, demoliciones, cambios de uso, primera ocupación o actividades pueden tener régimen distinto.
 
@@ -76,7 +76,7 @@ No todo acto requiere el mismo control. Obras mayores, parcelaciones, demolicion
 | Demolición | Licencia y cautelas de seguridad, patrimonio y residuos. |
 | Primera ocupación/utilización | Comprobación de que lo ejecutado se ajusta a la licencia y normativa. |
 
-La simplificación administrativa no significa ausencia de control. La declaración responsable desplaza parte de la carga al interesado, pero el Ayuntamiento puede comprobar después y adoptar medidas si la actuación no se ajusta a la legalidad.
+La simplificación administrativa <mark>no significa ausencia de control</mark>. La declaración responsable desplaza parte de la carga al interesado, pero el Ayuntamiento puede comprobar después y adoptar medidas si la actuación no se ajusta a la legalidad.
 
 | Título o control | Rasgo |
 | --- | --- |
@@ -87,9 +87,9 @@ La simplificación administrativa no significa ausencia de control. La declaraci
 
 ## Licencia urbanística
 
-La licencia urbanística es acto reglado por el que el Ayuntamiento autoriza una actuación si se ajusta al ordenamiento. No concede derechos contra el planeamiento ni legaliza actuaciones ilegales. Debe resolverse conforme a informes técnicos y jurídicos.
+La licencia urbanística es <mark>acto reglado</mark> por el que el Ayuntamiento autoriza una actuación si se ajusta al ordenamiento. <mark>No concede derechos contra el planeamiento ni legaliza actuaciones ilegales</mark>. Debe resolverse conforme a informes técnicos y jurídicos.
 
-La licencia se otorga salvo derecho de propiedad y sin perjuicio de terceros. Puede caducar si no se inicia o termina la obra en plazos. Las condiciones deben vincularse a legalidad urbanística.
+La licencia se otorga <mark>salvo derecho de propiedad y sin perjuicio de terceros</mark>. Puede caducar si no se inicia o termina la obra en plazos. Las condiciones deben vincularse a legalidad urbanística.
 
 | Caracteristica | Explicación |
 | --- | --- |
@@ -101,7 +101,7 @@ La licencia se otorga salvo derecho de propiedad y sin perjuicio de terceros. Pu
 
 En un expediente de licencia suelen incorporarse solicitud, proyecto o memoria, justificante de tasas o impuestos, informes técnicos, informe jurídico cuando proceda, resolución, notificación y, en su caso, inspecciones.
 
-El silencio administrativo en urbanismo debe manejarse con cautela. En ningún caso pueden entenderse adquiridas por silencio facultades contrarias al ordenamiento territorial o urbanístico. Por eso, aunque se invoque silencio, debe comprobarse siempre compatibilidad con planeamiento y normativa aplicable.
+El silencio administrativo en urbanismo debe manejarse con cautela. En ningún caso pueden entenderse adquiridas por silencio <mark>facultades contrarias al ordenamiento territorial o urbanístico</mark>. Por eso, aunque se invoque silencio, debe comprobarse siempre compatibilidad con planeamiento y normativa aplicable.
 
 | Licencia urbanística | Clave |
 | --- | --- |
@@ -113,9 +113,9 @@ El silencio administrativo en urbanismo debe manejarse con cautela. En ningún c
 
 ## Protección de legalidad
 
-Si se realizan actos sin licencia, contra licencia o contra planeamiento, la Administración debe restaurar legalidad. Puede ordenar suspensión, legalización si es posible, demolición, reposición, cese de uso o medidas correctoras.
+Si se realizan actos <mark>sin licencia, contra licencia o contra planeamiento</mark>, la Administración debe restaurar legalidad. Puede ordenar suspensión, legalización si es posible, demolición, reposición, cese de uso o medidas correctoras.
 
-La protección de legalidad es independiente de la sanción. Una obra ilegal puede requerir demolición y además multa si hay infracción.
+La <mark>protección de legalidad es independiente de la sanción</mark>. Una obra ilegal puede requerir demolición y además multa si hay infracción.
 
 La inspección urbanística documenta hechos mediante actas, informes y fotografías. Esa prueba es decisiva para ordenar suspensión, requerir legalización, iniciar restauración o incoar sancionador. Sin una buena acreditación de hechos, el expediente queda debilitado aunque la infracción exista materialmente.
 
@@ -128,7 +128,7 @@ La inspección urbanística documenta hechos mediante actas, informes y fotograf
 
 ## Infracciones y sanciones
 
-Las infracciones urbanísticas son acciones u omisiones contrarias a normativa urbanística tipificadas por ley. Pueden ser leves, graves o muy graves. Las sanciones suelen consistir en multas, pero pueden existir medidas accesorias.
+Las infracciones urbanísticas son acciones u omisiones contrarias a normativa urbanística <mark>tipificadas por ley</mark>. Pueden ser <mark>leves, graves o muy graves</mark>. Las sanciones suelen consistir en multas, pero pueden existir medidas accesorias.
 
 La responsabilidad puede alcanzar a promotores, propietarios, constructores, técnicos, directores facultativos u otros intervinientes según su participación. El procedimiento sancionador debe respetar garantías de la Ley 39/2015 y principios de la Ley 40/2015.
 
@@ -136,7 +136,7 @@ La sanción urbanística es compatible e independiente de la restauración de la
 
 ## Legalización, restauración y sanción
 
-Hay que distinguir tres respuestas administrativas:
+Hay que distinguir <mark>tres respuestas administrativas</mark>:
 
 | Respuesta | Finalidad |
 | --- | --- |

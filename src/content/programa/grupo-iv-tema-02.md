@@ -12,11 +12,11 @@ El presupuesto local se regula en la Ley Reguladora de las Haciendas Locales, el
 
 ## Concepto
 
-El presupuesto general de una entidad local es la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo puede reconocer la entidad y sus organismos durante el ejercicio, y de los derechos que se prevé liquidar.
+El presupuesto general de una entidad local es la <mark>expresión cifrada, conjunta y sistemática</mark> de las obligaciones que como máximo puede reconocer la entidad y sus organismos durante el ejercicio, y de los derechos que se prevé liquidar.
 
 El presupuesto es instrumento jurídico, económico y político. Autoriza gasto, estima ingresos, ordena prioridades y permite control. Sin crédito adecuado no puede asumirse gasto valido.
 
-El presupuesto general local incluye el presupuesto de la propia entidad, los de sus organismos autónomos y las previsiones o estados de sociedades mercantiles y entidades dependientes cuando proceda. Debe acompañarse de anexos e informes que permiten entender plantilla, inversiones, deuda, beneficios fiscales, liquidación anterior y estabilidad presupuestaria.
+El presupuesto general local incluye el <mark>presupuesto de la propia entidad</mark>, los de sus <mark>organismos autónomos</mark> y las previsiones o estados de sociedades mercantiles y entidades dependientes cuando proceda. Debe acompañarse de anexos e informes que permiten entender plantilla, inversiones, deuda, beneficios fiscales, liquidación anterior y estabilidad presupuestaria.
 
 | Documento presupuestario | Utilidad |
 | --- | --- |
@@ -27,11 +27,11 @@ El presupuesto general local incluye el presupuesto de la propia entidad, los de
 | Anexo de inversiones | Programa inversiones y financiación. |
 | Informe económico-financiero | Explica suficiencia de ingresos y equilibrio. |
 
-En entidades locales, el presupuesto general se aprueba anualmente. Si el 1 de enero no está aprobado el nuevo presupuesto, se prorroga automáticamente el del ejercicio anterior con los ajustes legales procedentes.
+En entidades locales, el presupuesto general se aprueba anualmente. Si el <mark>1 de enero</mark> no está aprobado el nuevo presupuesto, <mark>se prorroga automáticamente el del ejercicio anterior</mark> con los ajustes legales procedentes.
 
 ## Principios presupuestarios
 
-Rigen anualidad, unidad, universalidad, equilibrio, especialidad, publicidad, estabilidad presupuestaria, sostenibilidad financiera y transparencia.
+Rigen <mark>anualidad, unidad, universalidad, equilibrio, especialidad, publicidad, estabilidad presupuestaria, sostenibilidad financiera y transparencia</mark>.
 
 La anualidad vincula presupuesto al ejercicio. La universalidad exige incluir todos los ingresos y gastos. La especialidad limita créditos por cuantía, finalidad y temporalidad. La publicidad permite conocimiento y control. La estabilidad exige equilibrio o superavit estructural en los términos legales.
 
@@ -50,7 +50,7 @@ Estos principios no son decorativos. Si falta crédito, si se usa una aplicació
 
 ## Creditos presupuestarios
 
-Los créditos son autorizaciones máximas de gasto. Se clasifican organicamente según centro gestor, funcionalmente por programas y economicamente por naturaleza: personal, gastos corrientes, financieros, transferencias, inversiones, activos y pasivos financieros.
+Los créditos son <mark>autorizaciones máximas de gasto</mark>. Se clasifican organicamente según centro gestor, funcionalmente por programas y economicamente por naturaleza: personal, gastos corrientes, financieros, transferencias, inversiones, activos y pasivos financieros.
 
 La vinculación jurídica determina el nivel al que el crédito limita el gasto. Las bases de ejecución concretan reglas internas.
 
@@ -103,15 +103,15 @@ Los créditos pueden ser iniciales, definitivos, retenidos, autorizados, comprom
 
 ## Gastos plurianuales
 
-Los gastos plurianuales extienden sus efectos a ejercicios futuros. Solo pueden comprometerse en supuestos legales y con límites de anualidades y porcentajes, salvo excepciones. Son frecuentes en contratos, inversiones, arrendamientos o subvenciones plurianuales.
+Los gastos plurianuales extienden sus efectos a ejercicios futuros. Solo pueden comprometerse en <mark>supuestos legales y con límites de anualidades y porcentajes</mark>, salvo excepciones. Son frecuentes en contratos, inversiones, arrendamientos o subvenciones plurianuales.
 
 ## Modificaciones presupuestarias
 
-Las modificaciones adaptan el presupuesto a necesidades sobrevenidas. Deben tramitarse por expediente, con informes, financiación y órgano competente.
+Las modificaciones adaptan el presupuesto a necesidades sobrevenidas. Deben tramitarse por <mark>expediente, con informes, financiación y órgano competente</mark>.
 
-Los créditos extraordinarios financian gastos específicos y determinados sin crédito inicial. Los suplementos de crédito atienden gastos con crédito insuficiente. Ambos suelen financiarse con remanente liquido de tesorería, nuevos ingresos, bajas de otros créditos u operaciones de crédito en supuestos legales.
+Los <mark>créditos extraordinarios</mark> financian gastos específicos y determinados sin crédito inicial. Los <mark>suplementos de crédito</mark> atienden gastos con crédito insuficiente. Ambos suelen financiarse con remanente liquido de tesorería, nuevos ingresos, bajas de otros créditos u operaciones de crédito en supuestos legales.
 
-Las ampliaciones de crédito permiten aumentar créditos declarados ampliables cuando se reconocen mayores ingresos afectados. Las generaciones de crédito incorporan ingresos no previstos o superiores vinculados a determinados gastos. Las transferencias desplazan crédito entre aplicaciones, con límites. Las incorporaciones trasladan remanentes de crédito del ejercicio anterior en casos permitidos.
+Las <mark>ampliaciones de crédito</mark> permiten aumentar créditos declarados ampliables cuando se reconocen mayores ingresos afectados. Las <mark>generaciones de crédito</mark> incorporan ingresos no previstos o superiores vinculados a determinados gastos. Las <mark>transferencias</mark> desplazan crédito entre aplicaciones, con límites. Las <mark>incorporaciones</mark> trasladan remanentes de crédito del ejercicio anterior en casos permitidos.
 
 | Modificación | Cuando se utiliza | Idea de examen |
 | --- | --- | --- |
@@ -136,13 +136,13 @@ La financiación de una modificación es tan importante como su finalidad. Si se
 
 ## Anticipos de tesorería
 
-Los anticipos de tesorería permiten atender necesidades inaplazables con carácter excepcional antes de tramitar modificación definitiva, en los términos legales. No deben confundirse con operaciones ordinarias de tesorería.
+Los <mark>anticipos de tesorería</mark> permiten atender necesidades inaplazables con carácter excepcional antes de tramitar modificación definitiva, en los términos legales. No deben confundirse con operaciones ordinarias de tesorería.
 
 La gestión presupuestaria local exige control constante de crédito, financiación afectada, estabilidad y cumplimiento de reglas fiscales.
 
 ## Secuencia básica de aprobación del presupuesto
 
-Aunque el tema se centra en concepto y modificaciones, conviene situar el ciclo presupuestario. El proyecto se elabora por la Alcaldía o Presidencia con informes e integración de anexos; se somete a aprobación inicial del Pleno; se expone al público para reclamaciones; y, si no hay reclamaciones o una vez resueltas, se aprueba definitivamente y se publica resumido por capítulos.
+Aunque el tema se centra en concepto y modificaciones, conviene situar el ciclo presupuestario. El proyecto se elabora por la Alcaldía o Presidencia con informes e integración de anexos; se somete a <mark>aprobación inicial del Pleno</mark>; se expone al público para reclamaciones; y, si no hay reclamaciones o una vez resueltas, se aprueba definitivamente y se publica resumido por capítulos.
 
 Si al inicio del ejercicio no existe presupuesto aprobado, se prorroga automáticamente el del ejercicio anterior con los ajustes legales necesarios. La prorroga no significa libertad absoluta: ciertas partidas no prorrogables o gastos vinculados a programas finalizados deben revisarse.
 
