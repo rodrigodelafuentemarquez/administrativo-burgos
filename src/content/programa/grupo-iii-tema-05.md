@@ -35,6 +35,8 @@ La modalidad contributiva protege a quienes realizan actividad profesional y cot
 
 En el ámbito de empleados públicos, muchos trabajadores y funcionarios de nuevo ingreso se integran en el Régimen General de la Seguridad Social, sin perjuicio de mutualismos administrativos para determinados colectivos historicos.
 
+En las entidades locales, la Corporación actúa como empleador a efectos de Seguridad Social: comunica altas, bajas y variaciones, ingresa cotizaciones y cumple las obligaciones empresariales de encuadramiento. El personal laboral municipal y buena parte del personal funcionario quedan en el Régimen General, salvo colectivos con mutualismo administrativo o derechos pasivos históricos.
+
 | Modalidad | A quien protege | Financiación/requisito básico |
 | --- | --- | --- |
 | Contributiva | Personas que realizan actividad y cotizan. | Afiliación, alta o situación asimilada y períodos de cotización cuando se exijan. |
@@ -83,6 +85,8 @@ En una Administración local, recursos humanos debe tramitar altas, bajas, varia
 
 Un error de alta, grupo de cotización o base puede afectar a prestaciones futuras. Por eso los trámites de personal no son meramente mecanicos: tienen consecuencias económicas para la persona empleada y para la Administración.
 
+La baja en Seguridad Social debe comunicarse dentro del plazo reglamentario, que con carácter general es de tres días naturales desde el cese. Las altas deben tramitarse antes del inicio de la prestación de servicios, porque son presupuesto de protección y cotización correcta.
+
 ## Acción protectora
 
 La acción protectora comprende asistencia sanitaria en los casos legalmente previstos, incapacidad temporal, nacimiento y cuidado de menor, riesgo durante embarazo y lactancia, incapacidad permanente, jubilación, muerte y supervivencia, prestaciones familiares, desempleo cuando proceda, cese de actividad en autonomos y servicios sociales complementarios.
@@ -110,6 +114,15 @@ La acción protectora está ligada al hecho causante, la base reguladora, el per
 | Situación de alta o asimilada | Conexión con el sistema exigida para muchas prestaciones. |
 | Contingencia | Origen común o profesional de la situación protegida. |
 
+| Prestación frecuente en test | Dato clave |
+| --- | --- |
+| Asistencia sanitaria | Comprende servicios médicos y farmacéuticos en los términos del sistema aplicable. |
+| Incapacidad temporal | Exige alteración de la salud que impida trabajar y asistencia sanitaria; duración máxima inicial de 365 días, prorrogable 180 días si se prevé curación. |
+| Nacimiento y cuidado de menor | En 2026, la duración general es de diecinueve semanas por progenitor; las seis primeras son obligatorias, ininterrumpidas y a jornada completa. |
+| Subsidio por nacimiento y cuidado | Equivale al 100% de la base reguladora correspondiente. |
+| Incapacidad permanente total | Inhabilita para la profesión habitual, aunque puede permitir otra distinta. |
+| Incapacidad permanente parcial | No impide totalmente la profesión habitual; la indemnización ordinaria es a tanto alzado de veinticuatro mensualidades de la base reguladora. |
+
 ## Contingencias
 
 Las contingencias pueden ser comunes o profesionales. Las comunes derivan de enfermedad común o accidente no laboral. Las profesionales derivan de accidente de trabajo o enfermedad profesional.
@@ -124,6 +137,19 @@ La calificación de contingencia afecta a requisitos, cuantía, responsable, cot
 | Enfermedad profesional | Enfermedad causada por actividad incluida en cuadro legal. | Patologia vinculada a exposición laboral reconocida. |
 
 La diferencia tiene efectos en parte de baja, investigación preventiva, recargo de prestaciones si hubiera falta de medidas de seguridad, entidad responsable y cuantía. Por eso debe documentarse bien el accidente, el lugar, la hora, las tareas realizadas y las medidas preventivas.
+
+## Mutualismo administrativo y clases pasivas
+
+Aunque el tema parte de la Ley General de la Seguridad Social, en empleo público conviene reconocer los regímenes históricos. MUFACE es un organismo autónomo de la Administración General del Estado que gestiona el mutualismo administrativo de funcionarios civiles del Estado incluidos en su campo de aplicación. Permite, en los términos de su normativa, optar por asistencia sanitaria pública o a través de entidades concertadas.
+
+El régimen de Clases Pasivas protege, con carácter histórico, a funcionarios incluidos antes del 1 de enero de 2011 y a otros colectivos previstos. Desde esa fecha, los funcionarios de nuevo ingreso se integran con carácter general en el Régimen General a efectos de pensiones, salvo excepciones.
+
+| Régimen o figura | Idea para no confundirse |
+| --- | --- |
+| Régimen General | Encuadramiento ordinario de trabajadores por cuenta ajena y muchos empleados públicos actuales. |
+| MUFACE | Mutualismo administrativo de funcionarios civiles del Estado incluidos en su ámbito. |
+| Clases Pasivas | Régimen histórico de pensiones de determinados funcionarios, especialmente anteriores a 2011. |
+| Jubilación parcial | En determinados supuestos exige requisitos de edad, cotización y, para personas con discapacidad igual o superior al 33%, periodos mínimos específicos como veinticinco años cotizados. |
 
 ## Relevancia administrativa
 

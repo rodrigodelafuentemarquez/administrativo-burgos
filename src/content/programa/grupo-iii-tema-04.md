@@ -53,6 +53,8 @@ No todas las materias son negociables. Quedan fuera decisiones que afecten a pot
 
 La negociación colectiva no puede contradecir la ley ni el presupuesto. Un acuerdo municipal no puede crear retribuciones prohibidas, saltarse la oferta de empleo público, alterar requisitos legales de acceso o desconocer límites de estabilidad presupuestaria.
 
+Los derechos colectivos que el EBEP enumera para los empleados públicos incluyen libertad sindical, negociación colectiva, participación, huelga, planteamiento de conflictos colectivos y reunión. En test conviene recordar que son derechos individuales ejercidos colectivamente, no derechos exclusivos de los sindicatos.
+
 ## Derecho de huelga
 
 El derecho de huelga permite cesar colectivamente en el trabajo para defender intereses laborales o profesionales. En servicios públicos tiene límites derivados del mantenimiento de servicios esenciales para la comunidad.
@@ -73,6 +75,8 @@ En un Ayuntamiento pueden verse afectados servicios como policía local, protecc
 
 Los servicios mínimos no los fija libremente el Ayuntamiento como empleador para mantener la actividad ordinaria. Deben responder a servicios esenciales para la comunidad, ser proporcionados y estar motivados. Una dotación excesiva puede vaciar el derecho de huelga; una dotación insuficiente puede poner en riesgo derechos de la ciudadanía.
 
+El ejercicio de la huelga suspende la obligación de trabajar y el derecho al salario correspondiente al tiempo de huelga. El incumplimiento de los servicios mínimos legalmente fijados puede generar responsabilidad disciplinaria.
+
 ## Régimen de incompatibilidades
 
 El régimen de incompatibilidades busca garantizar imparcialidad, independencia, dedicación y ausencia de conflictos de intereses. Se aplica al personal al servicio de Administraciones Públicas, organismos, entidades y empresas públicas en los términos legales.
@@ -88,6 +92,14 @@ La regla general es que no se puede compatibilizar un puesto público con otro p
 | Legalidad retributiva | No pueden percibirse retribuciones públicas incompatibles. |
 
 La incompatibilidad no se limita a "tener dos trabajos". También afecta a asesorias privadas, participación en empresas, actividades profesionales relacionadas con licencias o contratos municipales, docencia, investigación, cargos públicos y cualquier actividad que pueda generar conflicto.
+
+| Regla de incompatibilidades | Clave |
+| --- | --- |
+| Un solo puesto público | La regla general es no compatibilizar dos puestos públicos, salvo excepciones legales. |
+| Actividad privada | Puede ser incompatible por relación directa con funciones, conflicto de intereses, horario o dedicación. |
+| Autorización previa | La compatibilidad debe reconocerse antes de iniciar la segunda actividad. |
+| Retribuciones | Deben respetarse límites legales y presupuestarios. |
+| Consecuencia del incumplimiento | Puede haber responsabilidad disciplinaria y reintegro de cantidades indebidamente percibidas. |
 
 ## Compatibilidad
 

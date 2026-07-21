@@ -21,6 +21,8 @@ La idea principal es doble:
 1. Es personal con **vinculo laboral**, no nombramiento funcionarial.
 2. Pero su empleador es una Administración, por lo que no desaparecen igualdad, mérito, capacidad, publicidad, incompatibilidades ni código de conducta.
 
+El contrato de trabajo se reconoce por sus notas esenciales: prestación voluntaria de servicios, retribución, dependencia respecto del empleador y ajenidad en los frutos y riesgos de la actividad. Si faltan estas notas, puede no existir relación laboral aunque haya colaboración con la Administración.
+
 ## Selección
 
 La selección del personal laboral debe respetar igualdad, mérito, capacidad y publicidad. No basta con reglas laborales privadas. Las Administraciones deben convocar procesos transparentes, con bases, requisitos, pruebas adecuadas y órganos de selección imparciales.
@@ -45,6 +47,14 @@ El abuso de temporalidad no convierte automáticamente en fijo al empleado públ
 
 La Administración no puede contratar como una empresa privada ordinaria. Incluso cuando aplica Derecho laboral, está vinculada por publicidad, igualdad, mérito y capacidad. Por eso las bolsas de empleo, convocatorias, baremos, tribunales y listas deben tener reglas claras y motivadas.
 
+| Contrato o regla laboral | Dato de examen |
+| --- | --- |
+| Contrato indefinido | Es la forma ordinaria de contratación laboral estable, sin perjuicio de los principios de acceso al empleo público. |
+| Contrato temporal | Exige causa legal y duración vinculada a esa causa. |
+| Contrato fijo-discontinuo | Atiende trabajos de naturaleza estacional o actividades intermitentes con periodos de ejecución ciertos o previsibles. |
+| Forma escrita | Es obligatoria en muchos contratos, especialmente temporales, formativos, a tiempo parcial o fijo-discontinuos. |
+| Periodo de prueba | Si el convenio no fija otra cosa, no puede exceder de seis meses para técnicos titulados ni de dos meses para los demás trabajadores. |
+
 <mark>Clave de examen:</mark> el contrato laboral no permite saltarse los principios constitucionales de acceso al empleo público. La Administración no elige libremente a quien contratar para puestos públicos estructurales.
 
 ## Diferencias con el personal funcionario
@@ -63,6 +73,8 @@ Esta diferencia es importante para plantilla y RPT: no basta con llamar "laboral
 
 El personal laboral tiene derechos laborales: ocupación efectiva, promoción y formación, no discriminación, integridad física, seguridad y salud, respeto a intimidad y dignidad, retribución, jornada, descansos, vacaciones, permisos, conciliación y derechos de representación colectiva.
 
+El salario debe respetar el salario mínimo interprofesional, la normativa presupuestaria y el convenio colectivo aplicable. En el sector público, los incrementos retributivos también quedan condicionados por las leyes de presupuestos.
+
 También disfruta de derechos del EBEP aplicables a empleados públicos: formación, negociación, participación, prevención de riesgos, protección frente al acoso y respeto a principios de igualdad.
 
 En la práctica municipal, estos derechos se concretan en calendario laboral, permisos, vacaciones, licencias, ayudas sociales, formación, adaptaciones por salud, medidas de conciliación, prevención de riesgos y participación sindical. Deben gestionarse con igualdad de trato y trazabilidad documental, porque afectan a nómina, sustituciones, servicios mínimos y organización del trabajo.
@@ -79,6 +91,8 @@ En la práctica municipal, estos derechos se concretan en calendario laboral, pe
 ## Deberes
 
 Debe cumplir obligaciones del contrato y del puesto, actuar con diligencia, obedecer instrucciones legitimas, respetar normas de seguridad, cumplir jornada, guardar confidencialidad, atender correctamente a la ciudadania y observar el código de conducta del EBEP.
+
+El Estatuto de los Trabajadores resume deberes básicos como cumplir las obligaciones concretas del puesto conforme a buena fe y diligencia, observar medidas de prevención, cumplir órdenes e instrucciones empresariales en el ejercicio regular de dirección, no concurrir deslealmente, contribuir a la mejora de productividad y los pactados válidamente en el contrato.
 
 El hecho de tener contrato laboral no elimina el deber de servicio al interés general. El personal laboral municipal participa en servicios públicos y debe actuar con profesionalidad, neutralidad e integridad.
 
@@ -121,6 +135,8 @@ Puntos de control antes de autorizar compatibilidad:
 El personal laboral puede incurrir en responsabilidad disciplinaria conforme al EBEP, convenio colectivo y Estatuto de los Trabajadores. Las faltas pueden ser leves, graves o muy graves, y las sanciones incluyen apercibimiento, suspensión de empleo y sueldo, traslado o despido disciplinario.
 
 En el Ayuntamiento, la gestión del personal laboral exige expedientes de contratación, llamamientos, nóminas, permisos, control horario, prevención de riesgos, formación, incompatibilidades y disciplina.
+
+La relación laboral debe constar en el expediente personal y, cuando proceda, anotarse en los registros de personal. En exámenes puede aparecer el Registro Central de Personal para anotar actos relevantes de personal al servicio del sector público estatal, sin confundirlo con la RPT ni con la nómina.
 
 | Materia | Documento o trámite habitual |
 | --- | --- |

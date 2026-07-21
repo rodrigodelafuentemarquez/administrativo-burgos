@@ -30,6 +30,13 @@ Los funcionarios de carrera están vinculados por nombramiento legal a una Admin
 
 Los funcionarios interinos son nombrados por razones justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera en supuestos tasados: vacantes no cubiertas, sustitución transitoria, programas temporales o exceso/acumulación de tareas. Su temporalidad debe respetar límites legales.
 
+| Supuesto de interinidad | Dato que suele caer en test |
+| --- | --- |
+| Plaza vacante | Debe incorporarse a la OEP del ejercicio o del siguiente y cubrirse en el plazo máximo de tres años desde el nombramiento interino. |
+| Sustitución transitoria | Dura mientras exista reserva de puesto o ausencia de la persona sustituida. |
+| Programa temporal | Máximo tres años, ampliable doce meses por las leyes de función pública que desarrollen el EBEP. |
+| Exceso o acumulación de tareas | Máximo nueve meses dentro de un periodo de dieciocho meses. |
+
 El personal laboral se vincula mediante contrato de trabajo. Puede ser fijo, por tiempo indefinido o temporal. Su régimen se rige por legislación laboral, EBEP en lo aplicable, convenio colectivo y contrato.
 
 El personal eventual realiza funciones expresamente calificadas de confianza o asesoramiento especial. Su nombramiento y cese son libres y cesa automáticamente cuando cesa la autoridad a la que presta función de confianza.
@@ -57,6 +64,14 @@ En la función pública local debe distinguirse también entre funcionarios con 
 El régimen jurídico de los funcionarios combina derechos, deberes, situaciones administrativas, carrera, provisión, incompatibilidades, responsabilidad disciplinaria y pérdida de condición. El personal laboral se rige por el Estatuto de los Trabajadores y por el EBEP en materias comunes como principios de selección, derechos básicos, deberes, código de conducta e incompatibilidades.
 
 La selección debe respetar igualdad, mérito, capacidad, publicidad, transparencia, imparcialidad, profesionalidad de órganos selectivos, independencia, adecuación entre pruebas y funciones, y agilidad sin perjuicio de objetividad.
+
+| Punto de acceso | Regla de examen |
+| --- | --- |
+| Requisitos generales | Nacionalidad, capacidad funcional, edad mínima de dieciseis años, no exceder la edad máxima de jubilación forzosa, habilitación y titulación exigida. |
+| Sistemas selectivos | Oposición y concurso-oposición son los sistemas ordinarios; el concurso solo puede usarse con carácter excepcional cuando una ley lo prevea. |
+| Clasificación profesional | A1 y A2 exigen grado universitario; B exige técnico superior; C1 bachiller o técnico; C2 graduado en ESO; las agrupaciones profesionales no exigen titulación académica del sistema educativo. |
+| Oferta de empleo público | Incluye necesidades con dotación presupuestaria y debe desarrollarse mediante convocatoria dentro del plazo improrrogable de tres años. |
+| Órganos de selección | Deben ser colegiados, imparciales, profesionales e independientes. En la práctica, sus miembros deben poseer titulación igual o superior a la exigida para el acceso. |
 
 En oposición suele preguntarse la diferencia entre **acceso** y **provisión**:
 
@@ -92,11 +107,15 @@ También existen formas provisionales: comisión de servicios, adscripción prov
 
 <mark>No confundir:</mark> la libre designación no es nombramiento arbitrario. Debe haber convocatoria pública, requisitos, motivación suficiente y respeto a la normativa.
 
+El grado personal se consolida, con carácter general, por el desempeño de uno o más puestos del nivel correspondiente durante dos años continuados o tres con interrupción. Es distinto del grupo o subgrupo de clasificación y distinto del complemento de destino del puesto concreto.
+
 El personal directivo público profesional, cuando exista conforme a la normativa aplicable, ejerce funciones directivas profesionales sujetas a principios de mérito, capacidad, idoneidad, eficacia, eficiencia y responsabilidad por la gestión. No debe confundirse con personal eventual de confianza ni con órganos políticos.
 
 ## Derechos de los funcionarios
 
 Los empleados públicos tienen derechos individuales: inamovilidad en la condición de funcionario de carrera, desempeño efectivo de funciones, progresión en carrera, percepción de retribuciones, formación, respeto a intimidad y dignidad, vacaciones, permisos, conciliación, protección frente a riesgos laborales, jubilación y prestaciones sociales.
+
+En vacaciones, el mínimo básico del EBEP es de veintidos días hábiles por año completo de servicio, o los días proporcionales si el tiempo trabajado es inferior. No se cuentan sabados como hábiles salvo que el calendario aplicable establezca otro régimen.
 
 Tienen derechos individuales ejercidos colectivamente: libertad sindical, negociación colectiva, participación, huelga en los términos legales, planteamiento de conflictos colectivos y reunion.
 
@@ -114,6 +133,17 @@ Tienen derechos individuales ejercidos colectivamente: libertad sindical, negoci
 Los empleados públicos deben desempeñar con diligencia las tareas asignadas, velar por intereses generales, actuar con objetividad, integridad, neutralidad, responsabilidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, austeridad y respeto a ciudadanos y companeros.
 
 El código de conducta del EBEP incluye principios eticos y de conducta. Exige abstenerse en asuntos con interés personal, no aceptar tratos de favor, guardar secreto, administrar recursos con austeridad, rechazar regalos indebidos y tratar a los ciudadanos con atención y respeto.
+
+| Disciplina funcionarial | Plazo básico del EBEP |
+| --- | --- |
+| Prescripción de faltas muy graves | Tres años. |
+| Prescripción de faltas graves | Dos años. |
+| Prescripción de faltas leves | Seis meses. |
+| Prescripción de sanciones muy graves | Tres años. |
+| Prescripción de sanciones graves | Dos años. |
+| Prescripción de sanciones leves | Un año. |
+
+Entre las faltas muy graves pueden aparecer en test el abandono del servicio, la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave, la publicación o uso indebido de documentación o información reservada, el acoso y el incumplimiento notorio de funciones esenciales. La separación del servicio solo procede como sanción por falta muy grave.
 
 Los deberes no son una declaración abstracta. En un Ayuntamiento se concretan en conductas diarias:
 
@@ -144,3 +174,5 @@ La carrera debe basarse en mérito, capacidad, evaluación del desempeño, forma
 La promoción interna permite progresar desde cuerpos o escalas inferiores a superiores. Exige titulación, antiguedad, requisitos de convocatoria y superación de pruebas. Es una herramienta de profesionalización y motivación, pero debe respetar igualdad, mérito y capacidad.
 
 En el ámbito local, la promoción interna se articula mediante ofertas de empleo público, bases, convocatorias y procesos selectivos. Para personal administrativo, es relevante porque conecta con carrera, formación, provisión y planificación de recursos humanos.
+
+En promoción interna vertical, el EBEP exige pertenecer al subgrupo o grupo inferior, tener la titulación requerida, superar el proceso selectivo y haber prestado servicios efectivos durante al menos dos años en el cuerpo o escala de procedencia, salvo previsión legal específica.

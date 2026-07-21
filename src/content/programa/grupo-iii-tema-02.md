@@ -26,6 +26,8 @@ La selección se basa en igualdad, mérito y capacidad. La superación de prueba
 
 La secuencia es importante porque cada fase tiene efectos distintos. Una persona aprobada no es funcionaria de carrera hasta que se completa el nombramiento y toma de posesión dentro de plazo.
 
+<mark>Pregunta trampa:</mark> aprobar todos los ejercicios no equivale por si solo a adquirir la condición de funcionario de carrera. La condición nace al completar nombramiento, acatamiento y toma de posesión.
+
 ## Perdida de la condición de funcionario
 
 La condición de funcionario de carrera se pierde por renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación del servicio con carácter firme, pena principal o accesoria de inhabilitación absoluta o especial para cargo público, y otros supuestos legalmente previstos.
@@ -47,6 +49,8 @@ No debe confundirse pérdida de condición con cese en un puesto. Un funcionario
 ## Rehabilitación
 
 En determinados supuestos puede solicitarse rehabilitación de la condición de funcionario, especialmente cuando desaparece la causa que produjo la pérdida, como recuperación de nacionalidad o revisión de incapacidad. La rehabilitación no es automatica en todos los casos y debe tramitarse conforme a la normativa aplicable.
+
+La rehabilitación es especialmente relevante cuando la pérdida vino causada por pérdida de nacionalidad o por jubilación por incapacidad permanente y después desaparece la causa. En cambio, si la pérdida procede de sanción de separación del servicio o pena de inhabilitación, la rehabilitación tiene un régimen más restrictivo y no debe darse por automática.
 
 ## Situaciones administrativas
 
@@ -105,6 +109,14 @@ La excedencia por violencia de género o terrorista tiene protección reforzada,
 
 Los efectos varian mucho: reserva de puesto, computo de tiempo, derechos económicos y posibilidad de reingreso no son iguales en todas las excedencias. Esta comparación suele ser examinable.
 
+| Modalidad de excedencia | Dato típico |
+| --- | --- |
+| Interés particular | Requiere, como regla básica, haber prestado servicios efectivos durante cinco años inmediatamente anteriores; no hay reserva ordinaria de puesto ni retribuciones. |
+| Agrupación familiar | Permite acompañar al conyuge que reside en otra localidad por destino definitivo como funcionario de carrera o laboral fijo en una Administración. |
+| Cuidado de hijo | Duración máxima de tres años por cada hijo, desde nacimiento o resolución judicial/administrativa. |
+| Cuidado de familiar | Duración máxima de tres años para atender a familiar a cargo hasta el grado previsto legalmente, cuando no pueda valerse por si mismo y no desempeñe actividad retribuida. |
+| Violencia de género o terrorista | Protección reforzada, sin exigencia inicial de tiempo mínimo de servicios previos, con reserva y derechos en los términos legales. |
+
 ## Suspensión de funciones
 
 La suspensión puede ser provisional o firme. La provisional se acuerda durante tramitación de procedimiento judicial o disciplinario cuando sea necesario. La firme deriva de sanción disciplinaria o sentencia judicial.
@@ -112,6 +124,8 @@ La suspensión puede ser provisional o firme. La provisional se acuerda durante 
 Durante la suspensión se priva temporalmente del ejercicio de funciones y de derechos retributivos en los términos legales. Si la suspensión provisional no se convierte en firme, debe regularizarse la situación.
 
 La suspensión provisional es cautelar y puede acordarse durante un procedimiento judicial o disciplinario. La suspensión firme es consecuencia de sanción disciplinaria o sentencia. Esta diferencia importa porque la provisional puede dar lugar a regularización si finalmente no se confirma, mientras que la firme produce los efectos sancionadores o penales que correspondan.
+
+La comisión de servicios no es una situación administrativa autónoma de pérdida o apartamiento del servicio. Normalmente se encuadra en servicio activo, porque el funcionario sigue prestando servicios, aunque de forma temporal en otro puesto.
 
 ## Efectos prácticos
 
