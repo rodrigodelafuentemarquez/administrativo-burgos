@@ -41,6 +41,10 @@ El Estatuto se organiza en un preambulo y un texto articulado dividido en títul
 
 El título preliminar recoge elementos esenciales como la comunidad histórica y cultural, el territorio, la sede de instituciones y simbolos. El Estatuto identifica Castilla y León como comunidad autónoma integrada por las provincias de Avila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.
 
+El texto vigente del Estatuto es el resultante de la Ley Orgánica 14/2007, de 30 de noviembre, de reforma del Estatuto de Autonomía de Castilla y León. La norma originaria fue la Ley Orgánica 4/1983, de 25 de febrero. En preguntas tipo test suelen separar ambas ideas: una cosa es la ley de aprobación inicial y otra el texto vigente tras la reforma de 2007.
+
+El Estatuto vigente consta de preambulo, título preliminar, siete títulos, tres disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria y una disposición final.
+
 El bloque de derechos y principios rectores es una de las novedades reforzadas por la reforma de 2007. No convierte el Estatuto en una segunda Constitución, pero orienta la actuación de los poderes públicos autononomicos y reconoce posiciones jurídicas en el ámbito de competencias de la comunidad.
 
 El Estatuto regula las instituciones: Cortes de Castilla y León, Presidente de la Junta, Junta de Castilla y León, Administración autónoma e instituciones propias como Procurador del Común, Consejo Consultivo, Consejo de Cuentas y Consejo Económico y Social.
@@ -66,6 +70,8 @@ También sistematiza competencias de la comunidad, distinguiendo entre competenc
 7. Soria
 8. Valladolid
 9. Zamora
+
+La fiesta oficial de la Comunidad es el 23 de abril, en conmemoración de Villalar. La capitalidad se vincula a Valladolid, donde se sitúan las sedes de las instituciones básicas en los términos establecidos por la normativa autonómica.
 
 ## Derechos en el Estatuto
 
@@ -105,7 +111,15 @@ En una comunidad con fuerte dispersión territorial y muchos municipios pequenos
 
 Las Cortes de Castilla y León representan al pueblo castellano y leones y ejercen la potestad legislativa de la comunidad. Aprueban leyes autonómicas, presupuestos, controlan a la Junta y ejercen las demás funciones atribuidas por el Estatuto.
 
+El Estatuto distingue las instituciones básicas de la Comunidad: las Cortes de Castilla y León, el Presidente de la Junta de Castilla y León y la Junta de Castilla y León. No deben confundirse con otras instituciones propias, como el Procurador del Común, el Consejo Consultivo, el Consejo de Cuentas y el Consejo Económico y Social.
+
+Las Cortes son unicamerales. Sus miembros reciben la denominación tradicional de Procuradores y son elegidos por sufragio universal, libre, igual, directo y secreto. La circunscripción electoral es la provincia. A cada provincia le corresponde una representación inicial mínima y se añaden procuradores en función de la población conforme a la normativa electoral.
+
+El Reglamento de las Cortes de Castilla y León se aprueba y reforma por mayoría absoluta en una votación final sobre el conjunto del texto.
+
 El Presidente de la Junta ostenta la suprema representación de la comunidad y la ordinaria del Estado en Castilla y León. Preside la Junta, dirige su acción, coordina sus miembros y responde políticamente ante las Cortes.
+
+El Presidente de la Junta es elegido por las Cortes de Castilla y León. En primera votación necesita mayoría absoluta; si no la obtiene, puede resultar elegido por mayoría simple en segunda votación. Entre sus atribuciones están dirigir la acción de la Junta, nombrar y separar a los Consejeros, plantear la cuestión de confianza y acordar la disolución anticipada de las Cortes en los supuestos estatutarios.
 
 La Junta de Castilla y León es el órgano de gobierno y administración de la comunidad. Ejerce funciones ejecutivas y administrativas, aprueba reglamentos, dirige la Administración autónoma y ejecuta las leyes.
 
@@ -126,6 +140,17 @@ El Consejo Económico y Social es un órgano consultivo y de participación en m
 | Consejo Consultivo | Superior órgano consultivo. |
 | Consejo de Cuentas | Fiscalización económico-financiera. |
 | Consejo Económico y Social | Consulta y participación socioeconomica. |
+
+### Instituciones propias que han aparecido en test
+
+| Institución propia | Dato que conviene fijar |
+|---|---|
+| Procurador del Común | Alto comisionado de las Cortes para la defensa de derechos y supervisión administrativa. Mandato de cinco años, renovable una vez. Elección por mayoría de tres quintos y, si no se alcanza, por mayoría absoluta en segunda votación en los términos legales. |
+| Consejo Consultivo | Superior órgano consultivo de la Junta y de la Administración de la Comunidad. Sus consejeros electivos son elegidos por las Cortes por mandato de cuatro años. |
+| Consejo de Cuentas | Fiscaliza la gestión económica, financiera y contable del sector público autonómico y de las entidades locales de Castilla y León. |
+| Consejo Económico y Social | Órgano colegiado de carácter consultivo y de participación en materia socioeconomica y laboral. |
+
+**Diferencia fina:** el Procurador del Común defiende derechos frente a la actuación administrativa; el Consejo de Cuentas fiscaliza la actividad económico-financiera; el Consejo Consultivo dictamina juridicamente; el Consejo Económico y Social informa y participa en materia socioeconomica.
 
 ## Competencias de Castilla y León
 
@@ -189,7 +214,7 @@ La gestión económica debe ajustarse a principios de estabilidad presupuestaria
 
 La reforma del Estatuto se rige por el propio Estatuto y requiere intervención de las instituciones autonómicas y de las Cortes Generales. Al tratarse de una ley orgánica, la reforma debe aprobarse finalmente por las Cortes Generales mediante ley orgánica.
 
-El procedimiento garantiza que la norma institucional básica no pueda modificarse de forma ordinaria por una sola institución. Exige iniciativa legitimada, aprobación por las Cortes de Castilla y León en los términos estatutarios y tramitación estatal como ley orgánica.
+El procedimiento garantiza que la norma institucional básica no pueda modificarse de forma ordinaria por una sola institución. Exige iniciativa legitimada, aprobación por las Cortes de Castilla y León por mayoría de dos tercios y tramitación estatal como ley orgánica. Una vez aprobada la propuesta por las Cortes de Castilla y León, se remite a las Cortes Generales para su tramitación.
 
 La reforma estatutaria debe respetar la Constitución. No puede atribuir a la comunidad competencias que correspondan exclusivamente al Estado ni alterar principios constitucionales como unidad, igualdad básica de derechos, solidaridad o sistema de fuentes.
 
@@ -199,6 +224,7 @@ La reforma de 2007 tuvo especial relevancia porque modernizo el Estatuto, reforz
 |---|---|
 | Naturaleza | No es una reforma ordinaria; afecta a la norma institucional básica. |
 | Iniciativa y trámite | Intervienen instituciones autonómicas y Cortes Generales. |
+| Aprobación autonómica | Mayoría de dos tercios de las Cortes de Castilla y León. |
 | Aprobación final | Ley orgánica estatal. |
 | Limite | Respeto obligado a la Constitución. |
 

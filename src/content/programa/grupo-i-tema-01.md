@@ -82,6 +82,17 @@ La estructura de los títulos es la siguiente:
 
 **Regla mental:** el Título I: protege derechos; los Títulos II a IX: organizan instituciones; el Título X: explica como se reforma la Constitución.
 
+## Reforma constitucional que puede aparecer en test
+
+Aunque el programa de este tema se centra en estructura, principios, derechos, garantias y suspensión, algunas preguntas de test aprovechan la estructura constitucional para preguntar por la reforma. Conviene memorizar los dos procedimientos:
+
+| Procedimiento | Artículo | Cuando se usa | Mayorías y referéndum |
+|---|---|---|---|
+| Ordinario | Artículo 167 CE | Reforma que no afecta a las materias especialmente protegidas del artículo 168. | Aprobación por tres quintos de cada Cámara. Si no hay acuerdo, puede intentarse una comisión mixta y, en ciertos casos, aprobarse por dos tercios del Congreso y mayoría absoluta del Senado. El referéndum solo se celebra si lo solicita una décima parte de cualquiera de las Cámaras dentro de los quince días siguientes a la aprobación. |
+| Agravado | Artículo 168 CE | Revisión total o parcial que afecte al Título preliminar, al Capítulo II, sección 1ª, del Título I, o al Título II. | Aprobación inicial por dos tercios de cada Cámara, disolución inmediata de las Cortes, ratificación por las nuevas Cámaras, nueva aprobación por dos tercios de cada Cámara y referéndum obligatorio. |
+
+**Cuidado en test:** si la reforma afecta a derechos fundamentales de la sección primera del capítulo II del Título I, no basta el procedimiento ordinario. Se aplica el procedimiento agravado del artículo 168.
+
 ## Principios constitucionales del título preliminar
 
 El artículo 1.1 proclama que España se constituye en un Estado social y democratico de Derecho. Esta fórmula concentra tres ideas que deben diferenciarse bien:
@@ -209,6 +220,14 @@ El Defensor del Pueblo, regulado en el artículo 54, es alto comisionado de las 
 - Da cuenta a las Cortes Generales.
 - Actua en defensa de los derechos del Título I.
 - Puede interponer recurso de inconstitucionalidad y recurso de amparo en los términos constitucionales y legales.
+
+El recurso de amparo se presenta ante el Tribunal Constitucional. Protege frente a vulneraciones de los derechos del artículo 14, los derechos y libertades de la sección primera del capítulo II del Título I y la objeción de conciencia del artículo 30.2. No cubre directamente todos los derechos constitucionales; por ejemplo, los principios rectores del capítulo III no son objeto directo de amparo.
+
+| Garantía | Órgano o vía | Derechos afectados |
+|---|---|---|
+| Procedimiento preferente y sumario | Tribunales ordinarios | Artículo 14 y sección primera del capítulo II. |
+| Recurso de amparo | Tribunal Constitucional | Artículo 14, sección primera del capítulo II y art. 30.2 CE. |
+| Recurso de inconstitucionalidad | Tribunal Constitucional | Control de leyes y normas con fuerza de ley. |
 
 ## Suspensión de derechos
 

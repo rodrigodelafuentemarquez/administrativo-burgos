@@ -52,6 +52,8 @@ Entre sus atribuciones se encuentran el control y fiscalización de los órganos
 
 El Pleno funciona mediante sesiones ordinarias, extraordinarias y extraordinarias urgentes. La convocatoria debe incluir orden del día. Los asuntos no incluidos no pueden ser tratados salvo que proceda legalmente y se aprecie urgencia con los requisitos exigidos. El funcionamiento plenario se apoya en comisiones, grupos municipales, portavoces, secretaria y documentación preparatoria.
 
+En el Reglamento Organico y de Funcionamiento del Ayuntamiento de Burgos, las sesiones ordinarias del Pleno se celebran una vez al mes. La fecha y hora se determinan en sesión extraordinaria convocada dentro de los treinta días siguientes a la sesión constitutiva de la Corporación. Además, la Junta de Portavoces, por mayoría cualificada y siempre que existan causas justificadas, puede modificar la fecha de celebración de las sesiones ordinarias.
+
 El Pleno no es el órgano que resuelve todos los expedientes municipales. En municipios de gran población muchas competencias ejecutivas corresponden a la Junta de Gobierno Local, al Alcalde, a Concejales delegados u órganos directivos. Por eso es importante distinguir entre función normativa y de control, más propia del Pleno, y función ejecutiva, más vinculada a Alcaldía, Junta de Gobierno y estructura administrativa.
 
 | Pleno | Idea clave |
@@ -70,6 +72,12 @@ El Pleno no es el órgano que resuelve todos los expedientes municipales. En mun
 - Determinación de `recursos tributarios propios`.
 - Acuerdos urbanísticos reservados por la ley.
 - Moción de censura y cuestión de confianza.
+
+### Grupos municipales y concejales no adscritos
+
+En el Ayuntamiento de Burgos, como regla de test tomada del Reglamento Organico, se consideran concejales no adscritos quienes no se integren en el grupo municipal que constituya la formación política por la que fueron elegidos, o quienes abandonen o sean expulsados de su grupo municipal y mantengan la condición de concejal.
+
+Esta figura importa porque evita que el cambio de grupo altere de forma artificial la representatividad obtenida en las elecciones. El concejal conserva su acta, pero no obtiene los mismos efectos organizativos que un grupo municipal ordinario.
 
 ## El Alcalde
 
@@ -162,7 +170,9 @@ La función de secretaria comprende fe pública y asesoramiento legal preceptivo
 
 El asesoramiento legal preceptivo consiste en emitir informes jurídicos cuando la normativa lo exige, advertir de posibles ilegalidades y asistir jurídicamente a los órganos municipales. Esta función es esencial para que los acuerdos del Pleno y otros órganos se adopten con respeto al ordenamiento jurídico.
 
-En la práctica administrativa, la Secretaría General interviene en expedientes de sesiones, acuerdos plenarios, certificaciones, registro de acuerdos, ordenanzas, reglamentos, delegaciones, órganos colegiados y relaciones institucionales.
+En la práctica administrativa, la Secretaría General interviene en expedientes de sesiones, acuerdos plenarios, certificaciones, registro de acuerdos, ordenanzas, reglamentos, delegaciones, órganos colegiados y relaciones institucionales. Las certificaciones de actos y acuerdos del Pleno se expiden por el Secretario General del Pleno con el visto bueno del Presidente del Pleno.
+
+El Reglamento Organico municipal identifica la Secretaría Municipal como unidad administrativa integrada por el Secretario General, el Vicesecretario General y los Secretarios Delegados. Es un dato muy concreto, pero ha aparecido en preguntas reales y conviene memorizarlo literalmente.
 
 | Secretaría General | Función principal |
 |---|---|
@@ -189,6 +199,18 @@ Para el Ayuntamiento, la Intervención General es clave en presupuesto, modifica
 | Tecnicas básicas | Función interventora y control financiero. |
 | Posibles reacciones | Fiscalización favorable, reparo, observaciones o informes. |
 | Ámbitos frecuentes | Presupuesto, gasto, subvenciones, contratos, personal y cuentas. |
+
+## La Asesoría Jurídica
+
+En los municipios de gran población existe Asesoría Jurídica. En Burgos se vincula al asesoramiento jurídico de los órganos superiores municipales y a la defensa y representación en juicio del Ayuntamiento en los términos reglamentarios.
+
+El titular de la Asesoría Jurídica es nombrado y separado por la Junta de Gobierno Local. Esta es una de esas preguntas que se falla por intuición: no corresponde al Pleno ni al Alcalde como respuesta directa de test, sino a la Junta de Gobierno Local.
+
+| Asesoría Jurídica | Clave |
+|---|---|
+| Función | Asistencia jurídica, informes y defensa jurídica municipal. |
+| Titular | Nombrado y separado por la Junta de Gobierno Local. |
+| Diferencia | No sustituye a la Secretaría General en la fe pública. |
 
 ## El Órgano de Gestión Tributaria y Tesorería
 
@@ -220,6 +242,16 @@ En Burgos, la información municipal agrupa trámites de padrón, tributos y rec
 La normativa municipal también contempla el Tribunal Económico-Administrativo Municipal de Burgos como órgano especializado de naturaleza administrativa para resolver reclamaciones económico-administrativas en materia de competencia municipal.
 
 Aunque el programa de este tema no lo menciona expresamente, conviene conocer su existencia porque se relaciona con el Órgano de Gestión Tributaria. La gestión tributaria dicta actos de aplicación de tributos e ingresos; frente a determinados actos pueden plantearse recursos o reclamaciones en los términos previstos por la normativa local y tributaria.
+
+El Reglamento del Tribunal Económico-Administrativo Municipal de Burgos establece una composición mínima formada por Presidente, Vocal y Vocal-Secretario. Puede aumentarse el número de miembros cuando el volumen de reclamaciones u otras circunstancias lo aconsejen, pero siempre debe mantenerse un número impar.
+
+En el Ayuntamiento de Burgos, este Tribunal conoce y resuelve reclamaciones sobre actos de gestión, liquidación, recaudación e inspección de tributos e ingresos de derecho público de competencia municipal. No debe confundirse con la Intervención, que controla la gestión económico-financiera, ni con el Órgano de Gestión Tributaria y Tesorería, que aplica y recauda ingresos.
+
+## Comisión especial de sugerencias y reclamaciones
+
+En los municipios de gran población, el Pleno debe crear una Comisión especial de sugerencias y reclamaciones para la defensa de los derechos de los vecinos ante la Administración municipal.
+
+Su función no es resolver todos los expedientes ni sustituir los recursos administrativos. Sirve para canalizar quejas, sugerencias y reclamaciones sobre el funcionamiento de los servicios municipales, y para reforzar el control ciudadano de la actuación administrativa.
 
 ## Relevancia práctica del tema
 

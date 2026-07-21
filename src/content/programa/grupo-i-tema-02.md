@@ -149,7 +149,7 @@ El Gobierno cesa tras la celebración de elecciones generales, en los casos de p
 
 | Momento | Regla |
 |---|---|
-| Primera votación de investidura | Mayorías absoluta del Congreso. |
+| Primera votación de investidura | Mayoría absoluta del Congreso. |
 | Segunda votación | Cuarenta y ocho horas después; basta mayoría simple. |
 | Plazo máximo sin investidura | Dos meses desde la primera votación. |
 | Consecuencia | Disolución de ambas Cámaras y convocatoria electoral con refrendo del Presidente del Congreso. |
@@ -181,6 +181,12 @@ El Consejo General del Poder Judicial es el órgano de gobierno del Poder Judici
 
 El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales. El Ministerio Fiscal, aunque no forma parte del Poder Judicial como conjunto de jueces y magistrados, tiene relevancia constitucional: promueve la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados.
 
+Para preguntas de detalle, el Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales nombrados por el Rey por un periodo de cinco años. De esos veinte vocales, doce proceden de la carrera judicial y ocho son juristas de reconocida competencia con más de quince años de ejercicio profesional.
+
+El Tribunal Supremo se organiza en salas. Las referencias más frecuentes son: Sala Primera de lo Civil, Sala Segunda de lo Penal, Sala Tercera de lo Contencioso-Administrativo, Sala Cuarta de lo Social y Sala Quinta de lo Militar. En test, los recursos contra actos del Gobierno y de la Administración General del Estado se conectan con la Sala de lo Contencioso-Administrativo; los asuntos laborales y de Seguridad Social, con la Sala de lo Social.
+
+La Audiencia Nacional tiene sede en Madrid y conoce, entre otros asuntos, determinadas materias penales, contencioso-administrativas y sociales de especial relevancia o ámbito estatal. Los Tribunales Superiores de Justicia culminan la organización judicial en el ámbito territorial de cada comunidad autónoma, sin perjuicio de la jurisdicción del Tribunal Supremo.
+
 | Institución | Función esencial |
 |---|---|
 | Jueces y magistrados | Administran justicia en nombre del Rey, independientes y sometidos a la ley. |
@@ -190,3 +196,9 @@ El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdicci
 | Ministerio Fiscal | Promueve la acción de la justicia en defensa de legalidad, derechos e interés público. |
 
 **Diferencia clave:** Poder Judicial es el conjunto de jueces y magistrados; el Consejo General del Poder Judicial gobierna internamente ese poder, pero no juzga.
+
+## Tribunal Constitucional: dato de cierre
+
+El Tribunal Constitucional no forma parte del Poder Judicial, pero aparece a menudo en preguntas de Constitución porque se regula en el Título IX. Se compone de doce miembros nombrados por el Rey: cuatro a propuesta del Congreso, cuatro a propuesta del Senado, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.
+
+Sus competencias más conocidas son el recurso de inconstitucionalidad, la cuestión de inconstitucionalidad, el recurso de amparo, los conflictos de competencia entre el Estado y las comunidades autónomas o de estas entre si, y los conflictos entre órganos constitucionales del Estado.

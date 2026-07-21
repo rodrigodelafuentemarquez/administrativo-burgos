@@ -20,6 +20,18 @@ La Unión se fundamenta en valores como respeto de la dignidad humana, libertad,
 
 Los objetivos de la Unión incluyen promover la paz, sus valores y el bienestar de sus pueblos; ofrecer un espacio de libertad, seguridad y justicia sin fronteras interiores; establecer un mercado interior; favorecer desarrollo sostenible; combatir exclusión social y discriminación; fomentar justicia y protección social; promover cohesión económica, social y territorial; respetar diversidad cultural y linguistica; y establecer una unión económica y monetaria cuya moneda es el euro para los Estados que participan en ella.
 
+Para situar preguntas de evolución historica, conviene retener estos hitos:
+
+| Hito | Tratado o fecha | Idea de test |
+|---|---|---|
+| CECA | Tratado de Paris de 1951 | Primer gran paso de integración sectorial. |
+| CEE y EURATOM | Tratados de Roma de 1957 | Mercado común y energía atómica. |
+| Acta Única Europea | 1986 | Impulso del mercado interior. |
+| Maastricht | Tratado de la Unión Europea | Crea la Unión Europea y la ciudadania europea. |
+| Amsterdam y Niza | Reformas institucionales | Adaptación previa a ampliaciones. |
+| Lisboa | Tratado de Lisboa | Reforma institucional, personalidad jurídica de la Unión y derecho de retirada del art. 50 TUE. |
+| España | 1 de enero de 1986 | Incorporación de España a las Comunidades Europeas. |
+
 | Rasgo de la Unión Europea | Significado |
 |---|---|
 | Organización de integración | Los Estados ceden ejercicio de competencias en ciertas materias. |
@@ -65,6 +77,15 @@ El sistema institucional europeo se basa en equilibrios. La Comisión impulsa y 
 | Comisión Europea | Interes general de la Unión. |
 | Tribunal de Justicia de la Unión Europea | Legalidad e interpretación uniforme del Derecho de la Unión. |
 
+Aunque el programa enumera cinco instituciones principales, los tests pueden preguntar por las siete instituciones del artículo 13 TUE. Las dos que faltan en el enunciado del programa son:
+
+| Institución | Dato mínimo |
+|---|---|
+| Banco Central Europeo | Tiene como objetivo principal mantener la estabilidad de precios en la zona euro. |
+| Tribunal de Cuentas Europeo | Fiscaliza las cuentas de la Unión y controla ingresos y gastos europeos. |
+
+También puede aparecer el Comité de las Regiones, que no es institución del artículo 13 TUE sino órgano consultivo. Sus miembros son representantes regionales y locales, tienen mandato renovable de cinco años y no pueden ser simultaneamente miembros del Parlamento Europeo.
+
 ## El Consejo Europeo
 
 El Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión. Participa también el Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad.
@@ -96,6 +117,8 @@ El Consejo ejerce, junto con el Parlamento Europeo, la función legislativa y pr
 La presidencia de las formaciones del Consejo, salvo Asuntos Exteriores, se ejerce por grupos predeterminados de tres Estados miembros durante períodos de dieciocho meses, con turnos semestrales. La formación de Asuntos Exteriores es presidida por el Alto Representante.
 
 El Consejo adopta decisiones por mayoría cualificada como regla general, salvo materias que exigen unanimidad o mayoría simple. La mayoría cualificada combina número de Estados y porcentaje de población, lo que busca equilibrar igualdad entre Estados y peso demografico.
+
+Desde el sistema vigente, la mayoría cualificada ordinaria del Consejo exige al menos el 55% de los miembros del Consejo, que incluya como mínimo a quince Estados miembros, y que representen al menos el 65% de la población de la Unión. La minoría de bloqueo debe incluir al menos cuatro miembros del Consejo; si no, se considera alcanzada la mayoría cualificada.
 
 El Comité de Representantes Permanentes, COREPER, prepara los trabajos del Consejo. Esta integrado por representantes permanentes de los Estados miembros ante la Unión Europea y desempeña una función esencial de negociación técnica y política.
 
@@ -193,3 +216,23 @@ Para un administrativo municipal, la Unión Europea no es una materia lejana. Af
 | Protección de datos | Aplicación del RGPD. |
 | Fondos europeos | Gestión y justificación de subvenciones. |
 | Medio ambiente y consumo | Normativa europea aplicada a expedientes locales. |
+
+## Actos jurídicos de la Unión
+
+El artículo 288 TFUE distingue reglamentos, directivas, decisiones, recomendaciones y dictámenes. Es una zona muy preguntable porque las opciones suelen cambiar una sola palabra.
+
+| Acto | Efecto básico |
+|---|---|
+| Reglamento | Alcance general, obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. |
+| Directiva | Obliga al Estado miembro destinatario en cuanto al resultado, dejando a las autoridades nacionales la elección de forma y medios. |
+| Decisión | Obligatoria en todos sus elementos; si designa destinatarios, solo obliga a estos. |
+| Recomendaciones y dictámenes | No son vinculantes. |
+
+## Tipos de competencias de la Unión
+
+La Unión puede tener competencias exclusivas, compartidas o de apoyo, coordinación o complemento. En competencia exclusiva, solo la Unión puede legislar y adoptar actos jurídicamente vinculantes, salvo habilitación. En competencia compartida, pueden actuar la Unión y los Estados miembros, pero los Estados ejercen su competencia en la medida en que la Unión no la haya ejercido.
+
+| Tipo | Ejemplos de test |
+|---|---|
+| Exclusiva | Unión aduanera, normas sobre competencia necesarias para el mercado interior, política monetaria de los Estados cuya moneda es el euro, conservación de recursos biologicos marinos dentro de la política pesquera común y política comercial común. |
+| Compartida | Mercado interior, política social en ciertos aspectos, cohesión económica, social y territorial, agricultura y pesca salvo conservación de recursos biologicos marinos, medio ambiente, protección de consumidores, transportes y energía. |
