@@ -3,7 +3,7 @@ tema: 45
 titulo: "Las retribuciones del personal al servicio de las Administraciones Públicas. Retribuciones básicas y complementarias. La nómina: estructura y normas de confección. Altas y bajas. La Seguridad Social del personal laboral. El régimen de la MUFACE y las clases pasivas."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 > - [Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
 > - [Ley 30/1984, de 2 de agosto, de Medidas para la Reforma de la Función Pública (LMRFP) — arts. en vigor](https://www.boe.es/buscar/act.php?id=BOE-A-1984-17387)
 > - [Real Decreto Legislativo 2/2015, de 23 de octubre, Texto Refundido de la Ley del Estatuto de los Trabajadores (ET)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11430)
@@ -18,18 +18,18 @@ titulo: "Las retribuciones del personal al servicio de las Administraciones Púb
 
 Las retribuciones del personal al servicio de las Administraciones Públicas son la contraprestación económica que reciben los empleados públicos —tanto funcionarios como personal laboral— por el desempeño de sus funciones. Su regulación responde a principios específicos del empleo público que las diferencian del régimen retributivo privado: las retribuciones de los funcionarios están tasadas legalmente, son públicas y su cuantía debe estar consignada en los Presupuestos Generales del Estado o en los presupuestos de cada Administración.
 
-El **Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)**, aprobado por Real Decreto Legislativo 5/2015, establece en sus artículos 21 a 30 el régimen general de retribuciones de los funcionarios de carrera, funcionarios interinos y personal laboral. Las Leyes de Presupuestos Generales del Estado fijan anualmente el límite máximo de incremento de las retribuciones del sector público y, en muchos casos, las cuantías concretas de las retribuciones básicas.
+El <mark>Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)</mark>, aprobado por Real Decreto Legislativo 5/2015, establece en sus artículos 21 a 30 el régimen general de retribuciones de los funcionarios de carrera, funcionarios interinos y personal laboral. Las Leyes de Presupuestos Generales del Estado fijan anualmente el límite máximo de incremento de las retribuciones del sector público y, en muchos casos, las cuantías concretas de las retribuciones básicas.
 
 ### 1.2 Principios del sistema retributivo público
 
 El sistema retributivo del empleo público se asienta sobre los siguientes principios:
 
-- **Legalidad:** las retribuciones deben estar establecidas en norma con rango de ley (o en los convenios colectivos, para el personal laboral).
-- **Publicidad:** las retribuciones deben ser públicas y transparentes.
-- **Suficiencia:** deben garantizar al empleado público una remuneración digna y adecuada a la responsabilidad del puesto.
-- **Equidad:** retribución similar para puestos de igual naturaleza, nivel y responsabilidad.
-- **No discriminación:** la igualdad entre hombres y mujeres en materia retributiva es un principio de aplicación directa.
-- **Moderación:** la política retributiva del sector público está subordinada a los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
+- Legalidad: las retribuciones deben estar establecidas en norma con rango de ley (o en los convenios colectivos, para el personal laboral).
+- Publicidad: las retribuciones deben ser públicas y transparentes.
+- Suficiencia: deben garantizar al empleado público una remuneración digna y adecuada a la responsabilidad del puesto.
+- Equidad: retribución similar para puestos de igual naturaleza, nivel y responsabilidad.
+- No discriminación: la igualdad entre hombres y mujeres en materia retributiva es un principio de aplicación directa.
+- Moderación: la política retributiva del sector público está subordinada a los objetivos de estabilidad presupuestaria y sostenibilidad financiera.
 
 ### 1.3 Personal funcionario y personal laboral: diferencias retributivas
 
@@ -37,10 +37,10 @@ En las Administraciones Públicas conviven dos regímenes retributivos distintos
 
 | Aspecto | Personal funcionario | Personal laboral |
 |---|---|---|
-| **Norma aplicable** | TREBEP + normativa específica de cada Administración | ET + convenio colectivo aplicable |
-| **Estructura retributiva** | Retribuciones básicas + complementarias (tasadas legalmente) | Salario base + complementos (fijados en convenio) |
-| **Negociación** | Determinadas en la Ley de Presupuestos (básicas); negociación colectiva limitada (complementarias) | Negociación colectiva plena |
-| **Protección social** | MUFACE (funcionarios civiles del Estado) o equivalente autonómico / Seguridad Social (funcionarios locales y autonómicos según normativa propia) | Seguridad Social |
+| Norma aplicable | TREBEP + normativa específica de cada Administración | ET + convenio colectivo aplicable |
+| Estructura retributiva | Retribuciones básicas + complementarias (tasadas legalmente) | Salario base + complementos (fijados en convenio) |
+| Negociación | Determinadas en la Ley de Presupuestos (básicas); negociación colectiva limitada (complementarias) | Negociación colectiva plena |
+| Protección social | MUFACE (funcionarios civiles del Estado) o equivalente autonómico / Seguridad Social (funcionarios locales y autonómicos según normativa propia) | Seguridad Social |
 
 ---
 
@@ -50,12 +50,12 @@ En las Administraciones Públicas conviven dos regímenes retributivos distintos
 
 Las retribuciones de los funcionarios de carrera se dividen en dos grandes grupos:
 
-- **Retribuciones básicas:** ligadas a la condición de funcionario y al Cuerpo o Escala a que pertenece. Son iguales para todos los funcionarios del mismo subgrupo o grupo de clasificación.
-- **Retribuciones complementarias:** ligadas al puesto de trabajo específico que ocupa el funcionario y a su rendimiento personal. Son distintas para cada puesto y funcionario.
+- Retribuciones básicas: ligadas a la condición de funcionario y al Cuerpo o Escala a que pertenece. Son iguales para todos los funcionarios del mismo subgrupo o grupo de clasificación.
+- Retribuciones complementarias: ligadas al puesto de trabajo específico que ocupa el funcionario y a su rendimiento personal. Son distintas para cada puesto y funcionario.
 
 ### 2.2 Retribuciones básicas
 
-Las **retribuciones básicas** de los funcionarios son:
+Las <mark>retribuciones básicas</mark> de los funcionarios son:
 
 #### 2.2.1 El sueldo
 
@@ -63,24 +63,24 @@ El **sueldo** es la retribución básica por excelencia, asignada a cada funcion
 
 | Grupo / Subgrupo | Titulación exigida para el acceso | Observaciones |
 |---|---|---|
-| **A1** | Título universitario de Grado (o equivalente) | Antiguo Grupo A |
-| **A2** | Título universitario de Grado (o equivalente, de ciclo corto) o Diplomatura | Antiguo Grupo B |
-| **B** | Técnico Superior (FP de grado superior) | Grupo de transición, en desuso |
-| **C1** | Bachillerato o equivalente | Antiguo Grupo C — las oposiciones objeto de estudio son de este subgrupo |
-| **C2** | Graduado en Educación Secundaria Obligatoria | Antiguo Grupo D |
-| **Agrupaciones profesionales** | Sin titulación exigida | Antiguo Grupo E |
+| A1 | Título universitario de Grado (o equivalente) | Antiguo Grupo A |
+| A2 | Título universitario de Grado (o equivalente, de ciclo corto) o Diplomatura | Antiguo Grupo B |
+| B | Técnico Superior (FP de grado superior) | Grupo de transición, en desuso |
+| C1 | Bachillerato o equivalente | Antiguo Grupo C — las oposiciones objeto de estudio son de este subgrupo |
+| C2 | Graduado en Educación Secundaria Obligatoria | Antiguo Grupo D |
+| Agrupaciones profesionales | Sin titulación exigida | Antiguo Grupo E |
 
-La cuantía concreta del sueldo de cada subgrupo se fija anualmente en la **Ley de Presupuestos Generales del Estado** y es uniforme para todos los funcionarios del mismo subgrupo, independientemente de la Administración a la que pertenezcan (aunque cada Administración puede completarla con sus propias normas).
+La cuantía concreta del sueldo de cada subgrupo se fija anualmente en la <mark>Ley de Presupuestos Generales del Estado</mark> y es uniforme para todos los funcionarios del mismo subgrupo, independientemente de la Administración a la que pertenezcan (aunque cada Administración puede completarla con sus propias normas).
 
 #### 2.2.2 Los trienios
 
-Los **trienios** son cantidades fijas por cada tres años de servicios efectivos prestados en el mismo grupo o subgrupo de clasificación. El importe de cada trienio también se fija en la Ley de Presupuestos y varía según el grupo o subgrupo: a mayor grupo, mayor importe del trienio, lo que refleja la mayor cualificación y responsabilidad.
+Los <mark>trienios</mark> son cantidades fijas por cada <mark>tres años de servicios efectivos</mark> prestados en el mismo grupo o subgrupo de clasificación. El importe de cada trienio también se fija en la Ley de Presupuestos y varía según el grupo o subgrupo: a mayor grupo, mayor importe del trienio, lo que refleja la mayor cualificación y responsabilidad.
 
 Los trienios se consolidan en la carrera del funcionario: si este asciende a un grupo superior, los trienios perfeccionados en el grupo anterior se mantienen aunque su importe pase a ser el correspondiente al nuevo grupo. El reconocimiento de los servicios previos prestados en otras Administraciones a efectos de trienios está regulado en la normativa específica.
 
 #### 2.2.3 Las pagas extraordinarias
 
-Los funcionarios tienen derecho a **dos pagas extraordinarias** al año, en los meses de junio y diciembre, por importe equivalente cada una a **una mensualidad de sueldo y trienios**. La prorrata de las pagas extraordinarias puede incluirse en las doce mensualidades ordinarias (devengo mensual) en lugar de abonarse en dos pagos semestrales, según lo que establezca la normativa de cada Administración.
+Los funcionarios tienen derecho a <mark>dos pagas extraordinarias</mark> al año, en los meses de junio y diciembre, por importe equivalente cada una a <mark>una mensualidad de sueldo y trienios</mark>. La prorrata de las pagas extraordinarias puede incluirse en las doce mensualidades ordinarias (devengo mensual) en lugar de abonarse en dos pagos semestrales, según lo que establezca la normativa de cada Administración.
 
 ### 2.3 Retribuciones complementarias
 
@@ -88,19 +88,19 @@ Las **retribuciones complementarias** son específicas de cada puesto de trabajo
 
 #### 2.3.1 El complemento de destino
 
-El **complemento de destino** retribuye el **nivel del puesto de trabajo** asignado a cada funcionario en la Relación de Puestos de Trabajo (RPT). Los puestos de trabajo se clasifican en niveles del 1 al 30, correspondiendo los niveles más altos a los puestos de mayor responsabilidad. Cada grupo de clasificación tiene asignado un rango de niveles mínimo y máximo que puede desempeñar.
+El <mark>complemento de destino</mark> retribuye el <mark>nivel del puesto de trabajo</mark> asignado a cada funcionario en la Relación de Puestos de Trabajo (RPT). Los puestos de trabajo se clasifican en niveles del 1 al 30, correspondiendo los niveles más altos a los puestos de mayor responsabilidad. Cada grupo de clasificación tiene asignado un rango de niveles mínimo y máximo que puede desempeñar.
 
 El complemento de destino es fijo para todos los funcionarios que ocupen puestos del mismo nivel, independientemente del Cuerpo o Escala a que pertenezcan. Su cuantía se fija en la Ley de Presupuestos.
 
 #### 2.3.2 El complemento específico
 
-El **complemento específico** retribuye las condiciones particulares de cada puesto de trabajo, teniendo en cuenta su especial dificultad técnica, dedicación, incompatibilidad, responsabilidad, peligrosidad o penosidad. Su importe es fijado por la Administración para cada puesto en la RPT, por lo que puede variar considerablemente entre puestos del mismo nivel.
+El <mark>complemento específico</mark> retribuye las condiciones particulares de cada puesto de trabajo, teniendo en cuenta su especial dificultad técnica, dedicación, incompatibilidad, responsabilidad, peligrosidad o penosidad. Su importe es fijado por la Administración para cada puesto en la RPT, por lo que puede variar considerablemente entre puestos del mismo nivel.
 
 El complemento específico es el de mayor variabilidad y el que más diferencia las retribuciones entre funcionarios de un mismo grupo y nivel. Solo puede percibirse uno por puesto de trabajo, aunque el funcionario ocupe temporalmente varios puestos.
 
 #### 2.3.3 El complemento de productividad
 
-El **complemento de productividad** retribuye el especial rendimiento, la actividad extraordinaria y el interés e iniciativa con que el funcionario desempeña su trabajo. A diferencia del complemento de destino y el específico (que son fijos para el puesto), el complemento de productividad es **variable** y se asigna individualmente a cada funcionario en función de su desempeño real durante un período. Su abono no genera derechos consolidados para períodos posteriores.
+El <mark>complemento de productividad</mark> retribuye el especial rendimiento, la actividad extraordinaria y el interés e iniciativa con que el funcionario desempeña su trabajo. A diferencia del complemento de destino y el específico (que son fijos para el puesto), el complemento de productividad es <mark>variable</mark> y se asigna individualmente a cada funcionario en función de su desempeño real durante un período. Su abono no genera derechos consolidados para períodos posteriores.
 
 En la práctica, el complemento de productividad está escasamente desarrollado en muchas Administraciones, siendo difícil su evaluación objetiva.
 
@@ -122,10 +122,10 @@ En determinadas situaciones (incapacidad temporal, permisos no retribuidos, susp
 
 Las retribuciones del **personal laboral** se determinan mediante negociación colectiva y se recogen en los **convenios colectivos** de aplicación. La estructura retributiva del personal laboral sigue el esquema del Estatuto de los Trabajadores (ET):
 
-- **Salario base:** retribución fijada por unidad de tiempo o de obra para la categoría o grupo profesional del trabajador.
-- **Complementos salariales:** cantidades que se añaden al salario base en función de circunstancias relativas a las condiciones personales del trabajador (antigüedad), al puesto de trabajo (penosidad, peligrosidad, nocturnidad, turnicidad) o al rendimiento (comisiones, primas por objetivos).
-- **Pagas extraordinarias:** el ET establece un mínimo de dos pagas extraordinarias al año.
-- **Horas extraordinarias:** las horas trabajadas sobre la jornada ordinaria se retribuyen a un precio superior al ordinario o se compensan con descanso, según convenio.
+- Salario base: retribución fijada por unidad de tiempo o de obra para la categoría o grupo profesional del trabajador.
+- Complementos salariales: cantidades que se añaden al salario base en función de circunstancias relativas a las condiciones personales del trabajador (antigüedad), al puesto de trabajo (penosidad, peligrosidad, nocturnidad, turnicidad) o al rendimiento (comisiones, primas por objetivos).
+- Pagas extraordinarias: el ET establece un mínimo de dos pagas extraordinarias al año.
+- Horas extraordinarias: las horas trabajadas sobre la jornada ordinaria se retribuyen a un precio superior al ordinario o se compensan con descanso, según convenio.
 
 El **IV Convenio Único para el personal laboral de la Administración General del Estado** regula las retribuciones del personal laboral de la AGE. Las Comunidades Autónomas tienen sus propios convenios, y la Junta de Castilla y León tiene el **Convenio Colectivo para el personal laboral de la Administración General de la Comunidad de Castilla y León**.
 
@@ -135,7 +135,7 @@ El **IV Convenio Único para el personal laboral de la Administración General d
 
 ### 4.1 Concepto y naturaleza
 
-La **nómina** es el documento oficial mediante el cual la Administración liquida periódicamente las retribuciones que corresponden a cada empleado público en un período determinado (normalmente mensual), detallando los devengos (conceptos que generan derecho a cobro) y las deducciones (retenciones e importes que se descuentan antes del pago). La diferencia entre devengos y deducciones es el **líquido a percibir**, que es el importe que efectivamente se transfiere al empleado.
+La <mark>nómina</mark> es el documento oficial mediante el cual la Administración liquida periódicamente las retribuciones que corresponden a cada empleado público en un período determinado (normalmente mensual), detallando los <mark>devengos</mark> y las <mark>deducciones</mark>. La diferencia entre devengos y deducciones es el <mark>líquido a percibir</mark>.
 
 La nómina constituye al mismo tiempo:
 - Un documento **contable**: justifica el reconocimiento de la obligación (fase O del gasto) y la ordenación del pago (fase P).
@@ -169,10 +169,10 @@ Las **deducciones** son los importes que se descuentan del total de devengos:
 
 Los empleados públicos que están incluidos en el **Régimen General de la Seguridad Social** (personal laboral y funcionarios locales y autonómicos en la mayoría de los casos) cotizas a la Seguridad Social. Las cotizaciones a cargo del trabajador comprenden:
 
-- **Contingencias comunes:** porcentaje sobre la base de cotización (tipo general: 4,70%).
-- **Desempleo:** tipo sobre la base reguladora (tipo general para contrato indefinido: 1,55%; temporal: 1,60%).
-- **Formación profesional:** tipo sobre la base de cotización (0,10%).
-- **Mecanismo de equidad intergeneracional (MEI):** tipo del 0,13% sobre la base de cotización (vigente desde 2023 en sustitución del antiguo tipo de cotización para pensiones).
+- Contingencias comunes: porcentaje sobre la base de cotización (tipo general: 4,70%).
+- Desempleo: tipo sobre la base reguladora (tipo general para contrato indefinido: 1,55%; temporal: 1,60%).
+- Formación profesional: tipo sobre la base de cotización (0,10%).
+- Mecanismo de equidad intergeneracional (MEI): tipo del 0,13% sobre la base de cotización (vigente desde 2023 en sustitución del antiguo tipo de cotización para pensiones).
 
 La base de cotización se calcula sumando las retribuciones mensuales íntegras (incluyendo la prorrata de las pagas extraordinarias si no se abonan de golpe, pero excluyendo las indemnizaciones por razón del servicio y otros conceptos no cotizables).
 
@@ -188,11 +188,11 @@ Al final del año, la Administración entrega a cada empleado el **certificado d
 
 #### 4.3.3 Otras deducciones
 
-- **Cuotas sindicales:** si el empleado ha autorizado el descuento de la cuota sindical en nómina.
-- **Anticipos:** si el empleado ha percibido anticipos sobre retribuciones futuras.
-- **Embargos judiciales:** si existe orden judicial de embargo de parte de las retribuciones.
-- **Aportaciones a planes de pensiones del sector público:** si el empleado participa en el plan de pensiones de la Administración.
-- **Reintegros:** si el empleado debe devolver cantidades cobradas indebidamente en períodos anteriores.
+- Cuotas sindicales: si el empleado ha autorizado el descuento de la cuota sindical en nómina.
+- Anticipos: si el empleado ha percibido anticipos sobre retribuciones futuras.
+- Embargos judiciales: si existe orden judicial de embargo de parte de las retribuciones.
+- Aportaciones a planes de pensiones del sector público: si el empleado participa en el plan de pensiones de la Administración.
+- Reintegros: si el empleado debe devolver cantidades cobradas indebidamente en períodos anteriores.
 
 ### 4.4 El líquido a percibir
 
@@ -208,7 +208,7 @@ TOTAL DEVENGOS
 
 ### 4.5 Devengo y pago de las retribuciones
 
-Las retribuciones se **devengan** por meses completos, salvo en los meses de alta o baja en el servicio activo, en los que se liquidan por días. El pago se realiza normalmente por **transferencia bancaria** a la cuenta designada por el empleado, el último día hábil de cada mes o en la fecha que establezca la normativa de cada Administración.
+Las retribuciones se <mark>devengan por meses completos</mark>, salvo en los meses de alta o baja en el servicio activo, en los que se liquidan por días. El pago se realiza normalmente por **transferencia bancaria** a la cuenta designada por el empleado, el último día hábil de cada mes o en la fecha que establezca la normativa de cada Administración.
 
 ---
 
@@ -236,8 +236,8 @@ La baja debe comunicarse a la Seguridad Social dentro de los tres días naturale
 
 La **incapacidad temporal** es la situación del empleado que no puede trabajar por enfermedad o accidente y que recibe una prestación económica en sustitución del salario. En el sector público coexisten dos sistemas:
 
-- **Personal laboral y funcionarios en Régimen General de la SS:** la prestación de IT la gestiona el Instituto Nacional de la Seguridad Social (INSS) o la Mutua colaboradora. La cuantía es un porcentaje de la base reguladora que varía según los días de baja (60% del día 4 al 20; 75% a partir del día 21). La Administración puede, y en muchos casos debe por normativa propia, **complementar** la prestación hasta llegar al 100% de las retribuciones durante los primeros días.
-- **Funcionarios en MUFACE:** la mutualidad gestiona directamente la asistencia sanitaria y la prestación de IT.
+- Personal laboral y funcionarios en Régimen General de la SS: la prestación de IT la gestiona el Instituto Nacional de la Seguridad Social (INSS) o la Mutua colaboradora. La cuantía es un porcentaje de la base reguladora que varía según los días de baja (60% del día 4 al 20; 75% a partir del día 21). La Administración puede, y en muchos casos debe por normativa propia, **complementar** la prestación hasta llegar al 100% de las retribuciones durante los primeros días.
+- Funcionarios en MUFACE: la mutualidad gestiona directamente la asistencia sanitaria y la prestación de IT.
 
 ---
 
@@ -245,7 +245,7 @@ La **incapacidad temporal** es la situación del empleado que no puede trabajar 
 
 ### 6.1 El Régimen General de la Seguridad Social
 
-El **personal laboral** al servicio de las Administraciones Públicas está integrado en el **Régimen General de la Seguridad Social (RGSS)**, al igual que los trabajadores del sector privado. La Administración actúa como **empresa** a efectos de la Seguridad Social: está obligada a inscribirse como empleadora, a afiliar a sus trabajadores, a cotizar mensualmente por ellos y a ingresar las cotizaciones en la Tesorería General de la Seguridad Social (TGSS).
+El <mark>personal laboral</mark> al servicio de las Administraciones Públicas está integrado en el <mark>Régimen General de la Seguridad Social (RGSS)</mark>, al igual que los trabajadores del sector privado. La Administración actúa como <mark>empresa</mark> a efectos de la Seguridad Social: está obligada a inscribirse como empleadora, a afiliar a sus trabajadores, a cotizar mensualmente por ellos y a ingresar las cotizaciones en la Tesorería General de la Seguridad Social (TGSS).
 
 ### 6.2 La acción protectora del Régimen General
 
@@ -253,14 +253,14 @@ El RGSS cubre las siguientes **contingencias** (situaciones protegidas):
 
 | Contingencia | Prestación |
 |---|---|
-| **Incapacidad temporal (IT)** | Subsidio diario para compensar la pérdida de ingresos durante la enfermedad o accidente que impide trabajar temporalmente |
-| **Incapacidad permanente (IP)** | Pensión para compensar la reducción de la capacidad laboral de forma permanente (parcial, total, absoluta o gran invalidez) |
-| **Jubilación** | Pensión mensual vitalicia al alcanzar la edad ordinaria de jubilación (actualmente 65 años con 38 años y 6 meses cotizados, o 67 años en general) |
-| **Muerte y supervivencia** | Prestaciones en favor de familiares del fallecido: viudedad, orfandad, auxilio por defunción |
-| **Maternidad / Paternidad** | Subsidio durante el permiso por nacimiento y cuidado del menor (16 semanas en general) |
-| **Riesgo durante el embarazo / lactancia** | Subsidio cuando la trabajadora no puede ejercer su actividad por riesgo para el embarazo o la lactancia |
-| **Desempleo** | Prestación por desempleo contributivo cuando el trabajador pierde involuntariamente su empleo, habiendo cotizado el mínimo requerido |
-| **Formación profesional** | Cubierta por las cotizaciones de formación profesional |
+| Incapacidad temporal (IT) | Subsidio diario para compensar la pérdida de ingresos durante la enfermedad o accidente que impide trabajar temporalmente |
+| Incapacidad permanente (IP) | Pensión para compensar la reducción de la capacidad laboral de forma permanente (parcial, total, absoluta o gran invalidez) |
+| Jubilación | Pensión mensual vitalicia al alcanzar la edad ordinaria de jubilación (actualmente 65 años con 38 años y 6 meses cotizados, o 67 años en general) |
+| Muerte y supervivencia | Prestaciones en favor de familiares del fallecido: viudedad, orfandad, auxilio por defunción |
+| Maternidad / Paternidad | Subsidio durante el permiso por nacimiento y cuidado del menor (16 semanas en general) |
+| Riesgo durante el embarazo / lactancia | Subsidio cuando la trabajadora no puede ejercer su actividad por riesgo para el embarazo o la lactancia |
+| Desempleo | Prestación por desempleo contributivo cuando el trabajador pierde involuntariamente su empleo, habiendo cotizado el mínimo requerido |
+| Formación profesional | Cubierta por las cotizaciones de formación profesional |
 
 ### 6.3 Bases de cotización y tipos
 
@@ -282,13 +282,13 @@ La **MUFACE** (Mutualidad General de Funcionarios Civiles del Estado) es el sist
 
 La MUFACE es una entidad de derecho público con personalidad jurídica propia, adscrita al Ministerio de Hacienda y Función Pública. Cubre fundamentalmente:
 
-- **Asistencia sanitaria:** los mutualistas pueden elegir libremente recibir asistencia sanitaria a través de la red pública (INSALUD/INGESA) o a través de una entidad médica privada (aseguradoras concertadas con MUFACE: Adeslas, Asisa, DKV...). Esta posibilidad de elección entre médico público y privado es la principal particularidad del sistema MUFACE.
-- **Prestaciones económicas en situación de incapacidad temporal:** la MUFACE gestiona directamente las prestaciones por IT de los funcionarios mutualistas.
+- Asistencia sanitaria: los mutualistas pueden elegir libremente recibir asistencia sanitaria a través de la red pública (INSALUD/INGESA) o a través de una entidad médica privada (aseguradoras concertadas con MUFACE: Adeslas, Asisa, DKV...). Esta posibilidad de elección entre médico público y privado es la principal particularidad del sistema MUFACE.
+- Prestaciones económicas en situación de incapacidad temporal: la MUFACE gestiona directamente las prestaciones por IT de los funcionarios mutualistas.
 - **Subsidio de incapacidad permanente.**
 - **Auxilio por defunción y capital de fallecimiento.**
 - **Indemnización por lesiones permanentes no invalidantes.**
 
-Los **funcionarios autonómicos** (incluidos los de la Junta de Castilla y León) y los **funcionarios locales** no pertenecen a MUFACE sino que, en función de lo que establezca la normativa de su Administración, pueden estar encuadrados en:
+Los <mark>funcionarios autonómicos</mark> (incluidos los de la Junta de Castilla y León) y los <mark>funcionarios locales</mark> no pertenecen a MUFACE sino que, en función de lo que establezca la normativa de su Administración, pueden estar encuadrados en:
 - Mutualidades autonómicas equivalentes (MUGEJU para la Administración de Justicia, ISFAS para Fuerzas Armadas).
 - El **Régimen General de la Seguridad Social** (lo más habitual para funcionarios locales y, en Castilla y León, para los funcionarios de la Junta a partir de determinadas fechas).
 
@@ -297,20 +297,20 @@ Los **funcionarios autonómicos** (incluidos los de la Junta de Castilla y León
 El **régimen de Clases Pasivas** es el sistema de pensiones de los funcionarios civiles del Estado ingresados antes del 1 de enero de 2011. Está gestionado por la **Dirección General de Ordenación de la Seguridad Social** y el **Instituto Nacional de la Seguridad Social (INSS)**.
 
 Las pensiones de Clases Pasivas son:
-- **Pensión de jubilación:** al cesar definitivamente en el servicio activo por alcanzar la edad de jubilación forzosa (70 años para la mayoría de los Cuerpos, aunque hay excepciones), o por jubilación voluntaria anticipada.
-- **Pensión de retiro:** equivalente a la jubilación para los militares.
-- **Pensión de viudedad, orfandad y a favor de familiares:** en favor de los causahabientes del funcionario fallecido.
-- **Pensión de inutilidad o incapacidad permanente:** cuando el funcionario queda incapacitado para el servicio de forma definitiva.
+- Pensión de jubilación: al cesar definitivamente en el servicio activo por alcanzar la edad de jubilación forzosa (70 años para la mayoría de los Cuerpos, aunque hay excepciones), o por jubilación voluntaria anticipada.
+- Pensión de retiro: equivalente a la jubilación para los militares.
+- Pensión de viudedad, orfandad y a favor de familiares: en favor de los causahabientes del funcionario fallecido.
+- Pensión de inutilidad o incapacidad permanente: cuando el funcionario queda incapacitado para el servicio de forma definitiva.
 
-Desde el **1 de enero de 2011**, los nuevos funcionarios del Estado ya no se incorporan al régimen de Clases Pasivas sino al **Régimen General de la Seguridad Social**, en una medida de convergencia con el sistema de pensiones general. Los funcionarios ingresados antes de esa fecha mantienen el régimen de Clases Pasivas.
+Desde el <mark>1 de enero de 2011</mark>, los nuevos funcionarios del Estado ya no se incorporan al régimen de Clases Pasivas sino al <mark>Régimen General de la Seguridad Social</mark>, en una medida de convergencia con el sistema de pensiones general. Los funcionarios ingresados antes de esa fecha mantienen el régimen de Clases Pasivas.
 
 ### 7.3 Equivalencias entre los sistemas de pensiones
 
 | Sistema | Colectivo | Prestaciones de jubilación | Gestión |
 |---|---|---|---|
-| **MUFACE** | Funcionarios civiles AGE | Pensión de jubilación (Clases Pasivas si ingresaron antes del 1/1/2011) | MUFACE / DGOOSS |
-| **Régimen General SS** | Personal laboral / funcionarios locales / funcionarios AGE desde 1/1/2011 | Pensión de jubilación del RGSS | INSS |
-| **Clases Pasivas** | Funcionarios AGE ingresados antes del 1/1/2011 | Pensión de jubilación, viudedad, orfandad | INSS (desde 2011, antes Hacienda) |
+| MUFACE | Funcionarios civiles AGE | Pensión de jubilación (Clases Pasivas si ingresaron antes del 1/1/2011) | MUFACE / DGOOSS |
+| Régimen General SS | Personal laboral / funcionarios locales / funcionarios AGE desde 1/1/2011 | Pensión de jubilación del RGSS | INSS |
+| Clases Pasivas | Funcionarios AGE ingresados antes del 1/1/2011 | Pensión de jubilación, viudedad, orfandad | INSS (desde 2011, antes Hacienda) |
 
 ---
 
@@ -320,13 +320,13 @@ El TREBEP regula el régimen retributivo en las distintas **situaciones administ
 
 | Situación | Régimen retributivo |
 |---|---|
-| **Servicio activo** | Percibe todas las retribuciones básicas y complementarias |
-| **Servicios especiales** | Percibe las retribuciones del puesto o cargo que motiva la situación especial, pero conserva el derecho al cómputo de trienios y pagas extraordinarias a efectos de Seguridad Social |
-| **Excedencia voluntaria por interés particular** | No percibe retribuciones ni cotiza a la Seguridad Social por su relación con la Administración |
-| **Excedencia por cuidado de hijos (hasta 3 años)** | El primer año tiene derecho a reserva del puesto, cotización a la Seguridad Social y cómputo como servicio activo; a partir del segundo año, sin retribuciones pero con cotización |
-| **Excedencia por cuidado de familiares** | Hasta 2 años: primer período con cotización computada; resto sin retribuciones |
-| **Suspensión firme de funciones** | No percibe retribuciones; se cotiza a la Seguridad Social |
-| **Incapacidad temporal** | Percibe prestación de IT (complementada por la Administración según normativa propia) |
+| Servicio activo | Percibe todas las retribuciones básicas y complementarias |
+| Servicios especiales | Percibe las retribuciones del puesto o cargo que motiva la situación especial, pero conserva el derecho al cómputo de trienios y pagas extraordinarias a efectos de Seguridad Social |
+| Excedencia voluntaria por interés particular | No percibe retribuciones ni cotiza a la Seguridad Social por su relación con la Administración |
+| Excedencia por cuidado de hijos (hasta 3 años) | El primer año tiene derecho a reserva del puesto, cotización a la Seguridad Social y cómputo como servicio activo; a partir del segundo año, sin retribuciones pero con cotización |
+| Excedencia por cuidado de familiares | Hasta 2 años: primer período con cotización computada; resto sin retribuciones |
+| Suspensión firme de funciones | No percibe retribuciones; se cotiza a la Seguridad Social |
+| Incapacidad temporal | Percibe prestación de IT (complementada por la Administración según normativa propia) |
 
 ---
 

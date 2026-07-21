@@ -3,7 +3,7 @@ tema: 46
 titulo: "La Ley de la Función Pública de Castilla y León. Objeto y ámbito de aplicación. Clases de personal. Acceso al empleo público. Selección y provisión de puestos. Carrera profesional. Situaciones administrativas. Derechos y deberes. Régimen disciplinario. Negociación colectiva."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 > - [Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León (LFPCYL)](https://www.bocyl.es/boletín/99.html)
 > - [Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719)
 > - [Decreto 67/1999, de 15 de abril, por el que se aprueba el Reglamento General de ingreso del personal y provisión de puestos de trabajo en la Administración de la Comunidad de Castilla y León](https://www.bocyl.es/boletín/72.html)
@@ -16,11 +16,11 @@ titulo: "La Ley de la Función Pública de Castilla y León. Objeto y ámbito de
 
 La Constitución de 1978 reserva al Estado la competencia exclusiva sobre las **bases del régimen estatutario de los funcionarios públicos** (art. 149.1.18 CE). Ello implica que el Estado establece mediante el Estatuto Básico del Empleado Público (TREBEP) la regulación mínima y uniforme aplicable a todos los funcionarios de todas las Administraciones Públicas españolas. Dentro de ese marco básico, cada Comunidad Autónoma tiene competencia para desarrollar y completar la regulación de su propia función pública, adaptándola a las particularidades de su organización y a las necesidades de su estructura administrativa.
 
-Castilla y León ejerce esta competencia mediante la **Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León (LFPCYL)**, norma que regula el régimen jurídico del personal al servicio de la Administración de la Comunidad de Castilla y León y de sus organismos autónomos. La LFPCYL debe interpretarse siempre de forma conjunta con el TREBEP, que prevalece sobre la ley autonómica en todo lo que tenga carácter básico.
+Castilla y León ejerce esta competencia mediante la <mark>Ley 7/2005, de 24 de mayo, de la Función Pública de Castilla y León (LFPCYL)</mark>, norma que regula el régimen jurídico del personal al servicio de la Administración de la Comunidad de Castilla y León y de sus organismos autónomos. La LFPCYL debe interpretarse siempre de forma conjunta con el TREBEP, que prevalece sobre la ley autonómica en todo lo que tenga carácter básico.
 
 ### 1.2 Objeto y ámbito subjetivo
 
-La **Ley 7/2005** tiene por objeto la regulación del personal funcionario al servicio de la Administración de la Comunidad de Castilla y León y de sus organismos autónomos, sin perjuicio de las especialidades del personal docente, sanitario y de otros colectivos que cuentan con normativa específica.
+La <mark>Ley 7/2005</mark> tiene por objeto la regulación del personal funcionario al servicio de la Administración de la Comunidad de Castilla y León y de sus organismos autónomos, sin perjuicio de las especialidades del personal docente, sanitario y de otros colectivos que cuentan con normativa específica.
 
 La ley se aplica a:
 - Los **funcionarios de carrera** de la Administración de la Comunidad de Castilla y León.
@@ -35,7 +35,7 @@ El **personal laboral** al servicio de la Junta de Castilla y León se rige por 
 
 ### 2.1 Funcionarios de carrera
 
-Los **funcionarios de carrera** son quienes, en virtud de nombramiento legal, están vinculados a la Administración de la Comunidad de Castilla y León mediante una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.
+Los <mark>funcionarios de carrera</mark> son quienes, en virtud de nombramiento legal, están vinculados a la Administración de la Comunidad de Castilla y León mediante una relación estatutaria regulada por el Derecho Administrativo para el desempeño de servicios profesionales retribuidos de carácter permanente.
 
 La condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de tres requisitos:
 - Superación del proceso selectivo correspondiente.
@@ -51,13 +51,13 @@ Los **funcionarios interinos** son los que, por razones expresamente justificada
 - La existencia de **plazas vacantes** en la RPT que no pueden cubrirse con funcionarios de carrera por las razones que procedan.
 - La **sustitución transitoria** del titular del puesto.
 - La **ejecución de programas de carácter temporal** que no pueden atenderse con los efectivos disponibles.
-- El **exceso o acumulación de tareas** por tiempo máximo de seis meses dentro de un período de doce meses.
+- El **exceso o acumulación de tareas** por tiempo máximo de <mark>nueve meses dentro de un período de dieciocho meses</mark>.
 
 Los funcionarios interinos no son funcionarios de carrera: carecen de la estabilidad en el empleo propia de estos y pueden ser cesados cuando desaparezca la causa que motivó su nombramiento, cuando la plaza sea cubierta por un funcionario de carrera o cuando concluya el programa o la causa que justificó su nombramiento. Sin embargo, el Tribunal de Justicia de la Unión Europea ha establecido jurisprudencia que limita el uso abusivo de la interinidad y exige medidas para la estabilización del personal temporal.
 
 ### 2.3 Personal eventual
 
-El **personal eventual** es el que, en virtud de nombramiento y con carácter no permanente, desempeña puestos de trabajo considerados de **confianza o asesoramiento especial**, cuya creación, modificación y supresión corresponde al Consejo de Gobierno de la Junta de Castilla y León. Su nombramiento y cese son libres y no requieren expediente previo ni motivación especial.
+El <mark>personal eventual</mark> es el que, en virtud de nombramiento y con carácter no permanente, desempeña puestos de trabajo considerados de <mark>confianza o asesoramiento especial</mark>, cuya creación, modificación y supresión corresponde al Consejo de Gobierno de la Junta de Castilla y León. Su nombramiento y cese son libres y no requieren expediente previo ni motivación especial.
 
 El personal eventual no puede desempeñar puestos de trabajo que impliquen el ejercicio de potestades administrativas. Su número y retribuciones son públicos y se incluyen en el presupuesto de gastos de personal. El cese del cargo político al que asesoran conlleva automáticamente el cese del personal eventual vinculado a ese cargo.
 
@@ -75,13 +75,13 @@ Los funcionarios de carrera de la Administración de la Comunidad de Castilla y 
 
 | Grupo TREBEP | Cuerpos / Escala CyL | Titulación de acceso |
 |---|---|---|
-| **A1** | Cuerpo Superior de Administración de la Junta de CyL | Grado universitario (ciclo largo) |
-| **A2** | Cuerpo de Gestión de la Administración de la Junta de CyL | Grado universitario (ciclo corto) / Diplomatura |
-| **C1** | Cuerpo Administrativo de la Administración de la Junta de CyL | Bachillerato o equivalente |
-| **C2** | Cuerpo Auxiliar de la Administración de la Junta de CyL | Graduado en Educación Secundaria |
-| **Agrup. prof.** | Agrupaciones profesionales | Sin titulación académica exigida |
+| A1 | Cuerpo Superior de Administración de la Junta de CyL | Grado universitario (ciclo largo) |
+| A2 | Cuerpo de Gestión de la Administración de la Junta de CyL | Grado universitario (ciclo corto) / Diplomatura |
+| C1 | Cuerpo Administrativo de la Administración de la Junta de CyL | Bachillerato o equivalente |
+| C2 | Cuerpo Auxiliar de la Administración de la Junta de CyL | Graduado en Educación Secundaria |
+| Agrup. prof. | Agrupaciones profesionales | Sin titulación académica exigida |
 
-Las oposiciones al **Administrativo C1** de la Junta de Castilla y León corresponden precisamente al **Cuerpo Administrativo de la Administración de la Junta de Castilla y León** (Subgrupo C1). Las funciones del Cuerpo Administrativo son las propias de la gestión administrativa: tramitación de expedientes, atención al ciudadano, registro, archivo, gestión económica y presupuestaria básica, y apoyo a los órganos de la Administración.
+Las oposiciones al <mark>Administrativo C1</mark> de la Junta de Castilla y León corresponden precisamente al <mark>Cuerpo Administrativo de la Administración de la Junta de Castilla y León</mark> (Subgrupo C1). Las funciones del Cuerpo Administrativo son las propias de la gestión administrativa: tramitación de expedientes, atención al ciudadano, registro, archivo, gestión económica y presupuestaria básica, y apoyo a los órganos de la Administración.
 
 ---
 
@@ -89,20 +89,20 @@ Las oposiciones al **Administrativo C1** de la Junta de Castilla y León corresp
 
 ### 4.1 Principios constitucionales del acceso
 
-El acceso al empleo público en Castilla y León, como en toda la Administración española, está regido por los principios constitucionales recogidos en el art. 23.2 CE (derecho de acceso a funciones y cargos públicos en condiciones de igualdad) y en el art. 103.3 CE (principio de mérito y capacidad):
+El acceso al empleo público en Castilla y León, como en toda la Administración española, está regido por los principios constitucionales recogidos en el art. 23.2 CE y en el art. 103.3 CE: <mark>igualdad, mérito y capacidad</mark>.
 
-- **Igualdad:** todos los ciudadanos que reúnan los requisitos tienen derecho a acceder en condiciones de igualdad.
-- **Mérito:** la selección debe basarse en la acreditación de méritos objetivos.
-- **Capacidad:** deben evaluarse las aptitudes y conocimientos necesarios para el desempeño del puesto.
-- **Publicidad:** las convocatorias deben ser públicas.
-- **Transparencia:** los procesos selectivos deben ser transparentes y sus criterios, objetivos y conocidos de antemano.
-- **Imparcialidad:** los órganos de selección deben actuar con independencia y objetividad.
+- Igualdad: todos los ciudadanos que reúnan los requisitos tienen derecho a acceder en condiciones de igualdad.
+- Mérito: la selección debe basarse en la acreditación de méritos objetivos.
+- Capacidad: deben evaluarse las aptitudes y conocimientos necesarios para el desempeño del puesto.
+- Publicidad: las convocatorias deben ser públicas.
+- Transparencia: los procesos selectivos deben ser transparentes y sus criterios, objetivos y conocidos de antemano.
+- Imparcialidad: los órganos de selección deben actuar con independencia y objetividad.
 
 ### 4.2 La Oferta de Empleo Público (OEP)
 
 Las necesidades de personal de la Administración de la Comunidad de Castilla y León se instrumentalizan a través de la **Oferta de Empleo Público (OEP)**, que debe aprobarse anualmente por el Consejo de Gobierno cuando existan plazas vacantes en la RPT con dotación presupuestaria suficiente y no puedan cubrirse con los efectivos disponibles.
 
-La OEP se publica en el **Boletín Oficial de Castilla y León (BOCYL)** y en el **BOE**, e incluye las plazas de las distintas categorías y cuerpos que se van a convocar a lo largo del año. La convocatoria de los procesos selectivos debe producirse en el plazo máximo de tres años desde la publicación de la OEP.
+La OEP se publica en el <mark>Boletín Oficial de Castilla y León (BOCYL)</mark> y en el **BOE**, e incluye las plazas de las distintas categorías y cuerpos que se van a convocar a lo largo del año. La convocatoria de los procesos selectivos debe producirse en el plazo máximo de <mark>tres años</mark> desde la publicación de la OEP.
 
 El TREBEP introdujo el principio de que la tasa de reposición de efectivos —la proporción entre las plazas convocadas y las bajas producidas— está limitada por los objetivos de estabilidad presupuestaria: en situaciones de restricción presupuestaria, la tasa de reposición puede reducirse significativamente o incluso prohibirse.
 
@@ -112,7 +112,7 @@ Los candidatos a los procesos selectivos de la Junta de Castilla y León deben r
 
 - Tener la **nacionalidad española** o la de cualquier Estado miembro de la Unión Europea o de otros Estados con los que España tenga suscritos acuerdos de libre circulación de trabajadores (con las limitaciones establecidas para el acceso a funciones que impliquen el ejercicio de autoridad).
 - Poseer la **capacidad funcional** para el desempeño de las tareas del puesto (aptitud física y psíquica).
-- Tener **dieciséis años cumplidos** y no haber alcanzado la **edad de jubilación forzosa**.
+- Tener <mark>dieciséis años cumplidos</mark> y no haber alcanzado la <mark>edad de jubilación forzosa</mark>.
 - No haber sido separado mediante expediente disciplinario del servicio de ninguna Administración Pública, ni hallarse inhabilitado para el ejercicio de funciones públicas por sentencia judicial firme.
 - Poseer la **titulación académica** exigida para el subgrupo al que se aspira (Bachillerato o equivalente para el Subgrupo C1).
 - Abonar los **derechos de examen** establecidos en la convocatoria, salvo exenciones previstas.
@@ -131,7 +131,7 @@ El **concurso-oposición** combina una fase de oposición (pruebas de aptitud) c
 
 #### 4.4.3 Concurso
 
-El **concurso** consiste exclusivamente en la valoración de méritos y capacidades. Solo puede utilizarse en los casos expresamente previstos en la ley, y con carácter excepcional. El TREBEP lo admite para el personal laboral y en determinados supuestos de consolidación de empleo temporal.
+El <mark>concurso</mark> consiste exclusivamente en la valoración de méritos y capacidades. Solo puede utilizarse en los casos expresamente previstos en la ley, y con carácter excepcional. El TREBEP lo admite para el personal laboral y en determinados supuestos de consolidación de empleo temporal.
 
 #### 4.4.4 Los procesos de estabilización
 
@@ -149,7 +149,7 @@ El órgano de selección propone al órgano convocante los candidatos que han su
 
 ### 5.1 La Relación de Puestos de Trabajo (RPT)
 
-La **Relación de Puestos de Trabajo (RPT)** es el instrumento técnico a través del cual la Administración de Castilla y León ordena su personal, especifica los puestos de trabajo existentes, sus carácterísticas (denominación, adscripción orgánica, grupo y nivel de complemento de destino, complemento específico, forma de provisión y requisitos de desempeño) y determina los efectivos de personal necesarios. La RPT es pública y debe publicarse en el BOCYL.
+La <mark>Relación de Puestos de Trabajo (RPT)</mark> es el instrumento técnico a través del cual la Administración de Castilla y León ordena su personal, especifica los puestos de trabajo existentes, sus carácterísticas (denominación, adscripción orgánica, grupo y nivel de complemento de destino, complemento específico, forma de provisión y requisitos de desempeño) y determina los efectivos de personal necesarios. La RPT es pública y debe publicarse en el BOCYL.
 
 ### 5.2 Sistemas de provisión
 
@@ -157,13 +157,13 @@ Los funcionarios de carrera de la Junta de Castilla y León pueden cubrir puesto
 
 #### 5.2.1 Concurso de méritos
 
-El **concurso de méritos** es el sistema ordinario de provisión de puestos de trabajo para funcionarios de carrera. Consiste en la valoración de méritos, capacidades y aptitudes de los candidatos en relación con las carácterísticas del puesto a cubrir. Los méritos valorables son fundamentalmente: el grado personal consolidado (nivel del puesto desempeñado durante al menos dos años seguidos o tres con interrupción), la experiencia en puestos de similar naturaleza, los cursos de formación y la antigüedad.
+El <mark>concurso de méritos</mark> es el sistema ordinario de provisión de puestos de trabajo para funcionarios de carrera. Consiste en la valoración de méritos, capacidades y aptitudes de los candidatos en relación con las carácterísticas del puesto a cubrir. Los méritos valorables son fundamentalmente: el grado personal consolidado (nivel del puesto desempeñado durante al menos dos años seguidos o tres con interrupción), la experiencia en puestos de similar naturaleza, los cursos de formación y la antigüedad.
 
 Los puestos cubiertos por concurso generan **reserva del puesto**: el funcionario no puede ser removido salvo por las causas tasadas en la ley (reorganización administrativa, rendimiento insuficiente, condena penal, sanción disciplinaria).
 
 #### 5.2.2 Libre designación
 
-La **libre designación** permite al órgano competente nombrar y cesar libremente a un funcionario para ocupar puestos de trabajo de especial responsabilidad o confianza. Los puestos que pueden cubrirse por libre designación deben estar expresamente catalogados como tales en la RPT. El cese en puestos de libre designación no requiere motivación especial y el funcionario cesado tiene derecho a ser destinado a un puesto adecuado a su grupo y nivel con las retribuciones correspondientes.
+La <mark>libre designación</mark> permite al órgano competente nombrar y cesar libremente a un funcionario para ocupar puestos de trabajo de especial responsabilidad o confianza. Los puestos que pueden cubrirse por libre designación deben estar expresamente catalogados como tales en la RPT. El cese en puestos de libre designación no requiere motivación especial y el funcionario cesado tiene derecho a ser destinado a un puesto adecuado a su grupo y nivel con las retribuciones correspondientes.
 
 #### 5.2.3 Adscripción provisional
 
@@ -183,7 +183,7 @@ La **carrera vertical** consiste en el ascenso a puestos de trabajo de nivel sup
 
 ### 6.2 El grado personal
 
-El **grado personal** es el nivel del complemento de destino que ha consolidado el funcionario a lo largo de su carrera. Se consolida por el desempeño de un puesto de trabajo de un nivel determinado durante dos años consecutivos o tres con interrupción. Una vez consolidado el grado personal, el funcionario tiene derecho a percibir como mínimo el complemento de destino correspondiente a su grado, incluso si desempeña un puesto de nivel inferior.
+El <mark>grado personal</mark> es el nivel del complemento de destino que ha consolidado el funcionario a lo largo de su carrera. Se consolida por el desempeño de un puesto de trabajo de un nivel determinado durante <mark>dos años consecutivos o tres con interrupción</mark>. Una vez consolidado el grado personal, el funcionario tiene derecho a percibir como mínimo el complemento de destino correspondiente a su grado, incluso si desempeña un puesto de nivel inferior.
 
 El grado personal mínimo de un funcionario es el nivel mínimo del intervalo correspondiente a su grupo de clasificación, y el máximo es el de los puestos que puede desempeñar según su grupo. La Ley establece que ningún funcionario puede percibir un complemento de destino inferior al que corresponde a su grado personal consolidado.
 
@@ -221,9 +221,9 @@ Cuándo un funcionario de la Junta de Castilla y León es transferido o pasa a p
 
 La excedencia implica la suspensión de la relación de servicio entre el funcionario y la Administración, con los efectos que se detallan a continuación según la modalidad:
 
-**Excedencia voluntaria por interés particular:** puede solicitarla el funcionario con cinco años de antigüedad. Tiene una duración mínima de dos años (salvo en determinados supuestos). No genera derecho a reserva del puesto ni a remuneración. Para reingresarse es necesario que exista plaza vacante y superar un proceso de selección.
+**Excedencia voluntaria por interés particular:** puede solicitarla el funcionario que haya prestado servicios efectivos durante el período mínimo exigido por la normativa aplicable. El TREBEP fija, con carácter general, <mark>cinco años inmediatamente anteriores</mark>, aunque las leyes de desarrollo pueden establecer un período menor. Tiene una duración mínima de <mark>dos años</mark> (salvo en determinados supuestos). No genera derecho a reserva del puesto ni a remuneración.
 
-**Excedencia por cuidado de hijos o familiares:** tiene una duración máxima de tres años (cuidado de hijos) o dos años (cuidado de familiares hasta el segundo grado que no puedan valerse por sí mismos). Los primeros doce meses cuentan como servicio activo a todos los efectos. Existe reserva del puesto durante todo el período.
+**Excedencia por cuidado de hijos o familiares:** tiene una duración máxima de <mark>tres años</mark> (cuidado de hijos) o <mark>dos años</mark> (cuidado de familiares hasta el segundo grado que no puedan valerse por sí mismos). Los primeros <mark>doce meses</mark> cuentan como servicio activo a todos los efectos. Existe reserva del puesto durante todo el período.
 
 **Excedencia voluntaria por agrupación familiar:** para los funcionarios que ven trasladado con carácter forzoso a su cónyuge funcionario a otra localidad. Duración máxima de quince años. Sin retribución ni reserva de puesto específico.
 
@@ -285,12 +285,12 @@ Los funcionarios de la Junta de Castilla y León tienen, entre otros, los siguie
 
 El poder disciplinario de la Administración sobre sus funcionarios es una manifestación de la relación de sujeción especial que vincula al funcionario con la Administración. El régimen disciplinario en la Función Pública de Castilla y León, regulado en la LFPCYL y en el TREBEP, se asienta sobre los siguientes principios:
 
-- **Legalidad:** las infracciones y sanciones deben estar tipificadas previamente en la ley.
-- **Tipicidad:** solo constituyen infracción los hechos que encajen exactamente en los tipos descritos.
-- **Culpabilidad:** la responsabilidad disciplinaria exige dolo o culpa del funcionario.
-- **Proporcionalidad:** la sanción debe ser proporcionada a la gravedad de la infracción.
-- **Non bis in idem:** no puede imponerse doble sanción (disciplinaria y penal) por los mismos hechos, salvo que el bien jurídico protegido sea diferente.
-- **Presunción de inocencia:** el funcionario es inocente hasta que se pruebe su culpabilidad.
+- Legalidad: las infracciones y sanciones deben estar tipificadas previamente en la ley.
+- Tipicidad: solo constituyen infracción los hechos que encajen exactamente en los tipos descritos.
+- Culpabilidad: la responsabilidad disciplinaria exige dolo o culpa del funcionario.
+- Proporcionalidad: la sanción debe ser proporcionada a la gravedad de la infracción.
+- Non bis in idem: no puede imponerse doble sanción (disciplinaria y penal) por los mismos hechos, salvo que el bien jurídico protegido sea diferente.
+- Presunción de inocencia: el funcionario es inocente hasta que se pruebe su culpabilidad.
 
 ### 9.2 Infracciones
 
@@ -331,9 +331,9 @@ Las sanciones aplicables son las siguientes, en correspondencia con la gravedad 
 
 | Infracción | Sanciones aplicables | Prescripción de la infracción | Prescripción de la sanción |
 |---|---|---|---|
-| **Muy grave** | Separación del servicio / Suspensión de funciones de 3 a 6 años / Traslado forzoso sin derecho a indemnización a otra localidad por un período de 3 a 6 años / Demérito (puntuación negativa en concursos) | 3 años | 3 años |
-| **Grave** | Suspensión de funciones de 1 día a 3 años / Traslado forzoso a otra localidad sin indemnización hasta 3 años / Demérito | 2 años | 2 años |
-| **Leve** | Apercibimiento / Deducción proporcional de retribuciones | 6 meses | 1 año |
+| Muy grave | <mark>Separación del servicio</mark> / Suspensión de funciones de 3 a 6 años / Traslado forzoso sin derecho a indemnización a otra localidad por un período de 3 a 6 años / Demérito (puntuación negativa en concursos) | <mark>3 años</mark> | <mark>3 años</mark> |
+| Grave | Suspensión de funciones de 1 día a 3 años / Traslado forzoso a otra localidad sin indemnización hasta 3 años / Demérito | 2 años | 2 años |
+| Leve | Apercibimiento / Deducción proporcional de retribuciones | 6 meses | 1 año |
 
 ### 9.4 El procedimiento disciplinario
 

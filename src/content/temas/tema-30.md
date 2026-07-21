@@ -3,21 +3,21 @@ tema: 30
 titulo: "La Seguridad Social del personal al servicio de la Administración Local. Acción protectora. Asistencia sanitaria. Incapacidad temporal. Maternidad. Invalidez. El Presupuesto de las Entidades Locales. Estructura. Gestión económica local. Ordenación de gastos y pagos. Órganos competentes, fases del procedimiento y documentos contables que intervienen."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Real Decreto Legislativo 8/2015, de 30 de octubre, Texto Refundido de la Ley General de la Seguridad Social (TRLGSS):**
+> 🔗 Real Decreto Legislativo 8/2015, de 30 de octubre, Texto Refundido de la Ley General de la Seguridad Social (TRLGSS):
 > https://www.boe.es/eli/es/rdlg/2015/10/30/8/con
 >
-> 🔗 **Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL):**
+> 🔗 Real Decreto Legislativo 2/2004, de 5 de marzo, Texto Refundido de la Ley Reguladora de las Haciendas Locales (TRLRHL):
 > https://www.boe.es/eli/es/rdlg/2004/03/05/2/con
 >
-> 🔗 **Real Decreto 500/1990, de 20 de abril, Reglamento Presupuestario de las Entidades Locales:**
+> 🔗 Real Decreto 500/1990, de 20 de abril, Reglamento Presupuestario de las Entidades Locales:
 > https://www.boe.es/eli/es/rd/1990/04/20/500/con
 >
-> 🔗 **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL):**
+> 🔗 Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL):
 > https://www.boe.es/eli/es/l/1985/04/02/7/con
 >
-> 🔗 **Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP):**
+> 🔗 Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP):
 > https://www.boe.es/eli/es/rdlg/2015/10/30/5/con
 
 ---
@@ -36,15 +36,15 @@ El personal al servicio de las Entidades Locales queda encuadrado en el Sistema 
 
 | Colectivo | Régimen de Seguridad Social |
 |---|---|
-| **Personal laboral** (fijo, indefinido, temporal) | **Régimen General** de la Seguridad Social |
-| **Funcionarios de carrera** ingresados desde 1985 | **Régimen General** de la Seguridad Social (se integraron en 1985) |
-| **Funcionarios de carrera** ingresados antes de 1985 | **MUFACE** (Mutualidad General de Funcionarios Civiles del Estado) si son de la AGE; los funcionarios locales ingresados antes de 1985 podían estar en la **Mutualidad Nacional de Previsión de la Administración Local (MUNPAL)**, suprimida e integrada en el Régimen General en 1993 |
+| Personal laboral (fijo, indefinido, temporal) | Régimen General de la Seguridad Social |
+| Funcionarios de carrera ingresados desde 1985 | Régimen General de la Seguridad Social (se integraron en 1985) |
+| Funcionarios de carrera ingresados antes de 1985 | MUFACE (Mutualidad General de Funcionarios Civiles del Estado) si son de la AGE; los funcionarios locales ingresados antes de 1985 podían estar en la **Mutualidad Nacional de Previsión de la Administración Local (MUNPAL)**, suprimida e integrada en el Régimen General en 1993 |
 
-> 💡 **Conclusión práctica:** en la actualidad, **todo el personal** (funcionario y laboral) que presta servicios en una Corporación Local se encuadra en el **Régimen General de la Seguridad Social**. La MUNPAL fue suprimida por la Ley 31/1991 e integrada en el Régimen General con efectos desde el 1 de enero de 1993.
+> 💡 **Conclusión práctica:** en la actualidad, <mark>todo el personal</mark> (funcionario y laboral) que presta servicios en una Corporación Local se encuadra en el <mark>Régimen General de la Seguridad Social</mark>. La MUNPAL fue suprimida por la Ley 31/1991 e integrada en el Régimen General con efectos desde el 1 de enero de 1993.
 
 ### 1.3 La Corporación Local como empresario cotizante
 
-Las Corporaciones Locales actúan como **empresarios** a efectos de la Seguridad Social. Están obligadas a:
+Las Corporaciones Locales actúan como <mark>empresarios</mark> a efectos de la Seguridad Social. Están obligadas a:
 - **Inscribirse** como empresarios en la Seguridad Social.
 - **Afiliar** a sus trabajadores en el Régimen General si aún no están afiliados.
 - **Dar de alta** a cada trabajador al inicio de la relación laboral o funcionarial.
@@ -55,27 +55,27 @@ Las Corporaciones Locales actúan como **empresarios** a efectos de la Seguridad
 
 ## 2. LA ACCIÓN PROTECTORA DEL RÉGIMEN GENERAL
 
-La **acción protectora** es el conjunto de prestaciones y beneficios que el Sistema de la Seguridad Social otorga a sus beneficiarios. El art. 42 TRLGSS establece que comprende:
+La <mark>acción protectora</mark> es el conjunto de prestaciones y beneficios que el Sistema de la Seguridad Social otorga a sus beneficiarios. El art. 42 TRLGSS establece que comprende:
 
 | Contingencia / Prestación | Descripción |
 |---|---|
-| **Asistencia sanitaria** | Atención médica y hospitalaria por enfermedad común, accidente, maternidad... |
-| **Incapacidad temporal (IT)** | Subsidio económico durante la baja temporal por enfermedad o accidente |
-| **Nacimiento y cuidado de menor** | Antes denominada "maternidad/paternidad": prestación durante los permisos por nacimiento, adopción o acogimiento |
-| **Riesgo durante el embarazo o lactancia** | Subsidio si la trabajadora debe suspender su actividad por riesgo para su salud o la del feto/lactante |
-| **Cuidado de menores afectados por cáncer u otra enfermedad grave** | Reducción de jornada con subsidio |
-| **Incapacidad permanente (IP)** | Prestación económica cuando la incapacidad tiene carácter permanente |
-| **Lesiones permanentes no invalidantes** | Indemnización a tanto alzado |
-| **Jubilación** | Pensión por cese en la actividad por razón de edad |
-| **Muerte y supervivencia** | Prestaciones a los causahabientes (viudedad, orfandad, favor de familiares) |
-| **Desempleo** | Prestación por cese en la actividad laboral |
-| **Prestaciones familiares** | Por hijo a cargo con discapacidad, etc. |
-| **Prestaciones no contributivas** | Para personas sin cotización suficiente |
-| **Servicios sociales** | Complemento de las prestaciones económicas |
+| Asistencia sanitaria | Atención médica y hospitalaria por enfermedad común, accidente, maternidad... |
+| Incapacidad temporal (IT) | Subsidio económico durante la baja temporal por enfermedad o accidente |
+| Nacimiento y cuidado de menor | Antes denominada "maternidad/paternidad": prestación durante los permisos por nacimiento, adopción o acogimiento |
+| Riesgo durante el embarazo o lactancia | Subsidio si la trabajadora debe suspender su actividad por riesgo para su salud o la del feto/lactante |
+| Cuidado de menores afectados por cáncer u otra enfermedad grave | Reducción de jornada con subsidio |
+| Incapacidad permanente (IP) | Prestación económica cuando la incapacidad tiene carácter permanente |
+| Lesiones permanentes no invalidantes | Indemnización a tanto alzado |
+| Jubilación | Pensión por cese en la actividad por razón de edad |
+| Muerte y supervivencia | Prestaciones a los causahabientes (viudedad, orfandad, favor de familiares) |
+| Desempleo | Prestación por cese en la actividad laboral |
+| Prestaciones familiares | Por hijo a cargo con discapacidad, etc. |
+| Prestaciones no contributivas | Para personas sin cotización suficiente |
+| Servicios sociales | Complemento de las prestaciones económicas |
 
 Las contingencias pueden ser:
-- **Contingencias comunes:** enfermedad común y accidente no laboral.
-- **Contingencias profesionales:** accidente de trabajo y enfermedad profesional. Tienen una protección reforzada.
+- Contingencias comunes: enfermedad común y accidente no laboral.
+- Contingencias profesionales: accidente de trabajo y enfermedad profesional. Tienen una protección reforzada.
 
 ---
 
@@ -110,16 +110,16 @@ La asistencia sanitaria es gestionada principalmente por el **Sistema Nacional d
 
 ### 4.1 Concepto
 
-La **incapacidad temporal (IT)** es la situación en que se encuentra el trabajador cuando, por enfermedad común o profesional, o por accidente (laboral o no laboral), está temporalmente imposibilitado para trabajar y precisa asistencia sanitaria de la Seguridad Social (art. 169 TRLGSS).
+La <mark>incapacidad temporal (IT)</mark> es la situación en que se encuentra el trabajador cuando, por enfermedad común o profesional, o por accidente (laboral o no laboral), está temporalmente imposibilitado para trabajar y precisa asistencia sanitaria de la Seguridad Social (art. 169 TRLGSS).
 
 ### 4.2 Contingencias que dan lugar a IT
 
 | Contingencia | Descripción |
 |---|---|
-| **Enfermedad común** | Alteración de la salud no derivada del trabajo |
-| **Accidente no laboral** | Lesión producida fuera del ámbito laboral |
-| **Accidente de trabajo** | Lesión producida por o con ocasión del trabajo (art. 156 TRLGSS) |
-| **Enfermedad profesional** | Contraída a consecuencia del trabajo en las actividades reglamentariamente reconocidas como generadoras de enfermedades profesionales |
+| Enfermedad común | Alteración de la salud no derivada del trabajo |
+| Accidente no laboral | Lesión producida fuera del ámbito laboral |
+| Accidente de trabajo | Lesión producida por o con ocasión del trabajo (art. 156 TRLGSS) |
+| Enfermedad profesional | Contraída a consecuencia del trabajo en las actividades reglamentariamente reconocidas como generadoras de enfermedades profesionales |
 
 ### 4.3 Subsidio económico de IT
 
@@ -127,15 +127,15 @@ Durante la situación de IT, el trabajador tiene derecho a un **subsidio económ
 
 | Contingencia | Días 1-3 | Días 4-20 | Día 21 en adelante |
 |---|---|---|---|
-| **Enfermedad común / Acc. no laboral** | Sin subsidio (a cargo del empleador si el convenio lo mejora) | **60 %** de la base reguladora | **75 %** de la base reguladora |
-| **Accidente de trabajo / Enf. profesional** | **75 %** desde el día siguiente al de la baja | **75 %** | **75 %** |
+| Enfermedad común / Acc. no laboral | Sin subsidio | <mark>60 %</mark> de la base reguladora | <mark>75 %</mark> de la base reguladora |
+| Accidente de trabajo / Enf. profesional | <mark>75 % desde el día siguiente</mark> al de la baja | 75 % | 75 % |
 
 > 💡 En el caso de los **funcionarios locales**, el TREBEP y los acuerdos de condiciones de trabajo suelen establecer un **complemento** que garantiza el 100 % de las retribuciones durante la IT, con cargo a la Corporación Local. La Corporación paga el complemento hasta el 100 % y la Seguridad Social abona el subsidio base.
 
 ### 4.4 Duración de la IT
 
-- **Duración máxima:** 365 días, prorrogables por otros 180 días cuando se presuma que durante ellos el trabajador puede ser dado de alta médica.
-- Agotada la duración máxima (365 + 180 = 545 días), el INSS debe iniciar un expediente de incapacidad permanente o acordar el alta médica.
+- Duración máxima: <mark>365 días</mark>, prorrogables por otros <mark>180 días</mark> cuando se presuma que durante ellos el trabajador puede ser dado de alta médica.
+- Agotada la duración máxima (<mark>365 + 180 = 545 días</mark>), el INSS debe iniciar un expediente de incapacidad permanente o acordar el alta médica.
 - Pueden dictarse **altas médicas** en cualquier momento si el trabajador ha recuperado su capacidad laboral.
 
 ### 4.5 Control de la IT
@@ -155,18 +155,18 @@ Desde la reforma operada por el RDL 6/2019, la prestación por **maternidad** y 
 
 ### 5.2 Duración del permiso
 
-- **Duración:** 16 semanas para cada progenitor, de las cuales las **6 primeras semanas** son obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento.
+- Duración: <mark>16 semanas para cada progenitor</mark>, de las cuales las <mark>6 primeras semanas</mark> son obligatorias e ininterrumpidas inmediatamente después del nacimiento, adopción o acogimiento.
 - Las 10 semanas restantes pueden disfrutarse de forma flexible (a tiempo completo o parcial) dentro de los primeros 12 meses desde el nacimiento o resolución judicial/administrativa de adopción.
 - En caso de **parto múltiple**, discapacidad del menor o parto prematuro, la duración se amplía.
 
 ### 5.3 Cuantía del subsidio
 
-La prestación económica equivale al **100 % de la base reguladora**, que se calcula sobre las cotizaciones del mes anterior a la baja.
+La prestación económica equivale al <mark>100 % de la base reguladora</mark>, que se calcula sobre las cotizaciones del mes anterior a la baja.
 
 ### 5.4 Requisitos
 
 - Estar afiliado y en alta en la Seguridad Social.
-- Haber cotizado un mínimo de **180 días** en los últimos 7 años, o 360 días a lo largo de toda la vida laboral. (Para menores de 21 años no se exige período mínimo de cotización; para los de 21 a 26 años, requisito reducido.)
+- Haber cotizado un mínimo de <mark>180 días</mark> en los últimos 7 años, o <mark>360 días</mark> a lo largo de toda la vida laboral. (Para menores de 21 años no se exige período mínimo de cotización; para los de 21 a 26 años, requisito reducido.)
 
 ---
 
@@ -180,10 +180,10 @@ La **incapacidad permanente (IP)** es la situación del trabajador que, después
 
 | Grado | Descripción | Prestación |
 |---|---|---|
-| **Incapacidad permanente parcial (IPP)** | Disminuye el rendimiento normal del trabajador en su profesión habitual en un porcentaje no inferior al 33 %, sin impedir la realización de tareas fundamentales | Indemnización a tanto alzado (24 mensualidades de la base reguladora) |
-| **Incapacidad permanente total (IPT)** | Inhabilita al trabajador para la realización de todas o de las fundamentales tareas de su profesión habitual, aunque puede dedicarse a otra distinta | Pensión mensual del **55 %** de la base reguladora (puede llegar al 75 % si tiene 55 o más años y dificultades para encontrar empleo: **IPT cualificada**) |
-| **Incapacidad permanente absoluta (IPA)** | Inhabilita al trabajador para toda profesión u oficio | Pensión mensual del **100 %** de la base reguladora |
-| **Gran invalidez (GI)** | Situación del incapacitado permanente que, como consecuencia de pérdidas anatómicas o funcionales, necesita la asistencia de otra persona para los actos más esenciales de la vida | Pensión del **100 %** + complemento (45 % BR del causante + 30 % BR del cónyuge o, en su defecto, 45 % del IPREM) |
+| Incapacidad permanente parcial (IPP) | Disminuye el rendimiento normal del trabajador en su profesión habitual en un porcentaje no inferior al 33 %, sin impedir la realización de tareas fundamentales | Indemnización a tanto alzado (24 mensualidades de la base reguladora) |
+| Incapacidad permanente total (IPT) | Inhabilita al trabajador para la realización de todas o de las fundamentales tareas de su profesión habitual, aunque puede dedicarse a otra distinta | Pensión mensual del <mark>55 %</mark> de la base reguladora (puede llegar al 75 % si tiene 55 o más años y dificultades para encontrar empleo: **IPT cualificada**) |
+| Incapacidad permanente absoluta (IPA) | Inhabilita al trabajador para toda profesión u oficio | Pensión mensual del <mark>100 %</mark> de la base reguladora |
+| Gran invalidez (GI) | Situación del incapacitado permanente que, como consecuencia de pérdidas anatómicas o funcionales, necesita la asistencia de otra persona para los actos más esenciales de la vida | Pensión del **100 %** + complemento (45 % BR del causante + 30 % BR del cónyuge o, en su defecto, 45 % del IPREM) |
 
 ### 6.3 Compatibilidad de la IP con el trabajo
 
@@ -312,17 +312,17 @@ La gestión del gasto en las Entidades Locales sigue un **procedimiento de ejecu
 
 La **autorización** (o aprobación del gasto) es el acto por el que el órgano competente **decide** realizar un gasto determinado con cargo al crédito presupuestario correspondiente, reservando el crédito necesario.
 
-- **Documento contable:** **A** (de Autorización).
-- **Efecto:** el crédito queda **reservado** pero aún no comprometido frente a terceros.
-- **Órgano competente:** el Presidente (dentro de sus límites) o el Pleno (cuando supera los umbrales del Presidente).
+- Documento contable: **A** (de Autorización).
+- Efecto: el crédito queda **reservado** pero aún no comprometido frente a terceros.
+- Órgano competente: el Presidente (dentro de sus límites) o el Pleno (cuando supera los umbrales del Presidente).
 
 #### FASE 2: DISPOSICIÓN O COMPROMISO DEL GASTO (documento «D»)
 
 La **disposición** es el acto por el que el órgano competente, en ejercicio de sus funciones, acuerda realizar o concertar con un tercero un gasto previamente autorizado. Es el momento en que la Administración se **compromete jurídicamente** frente a terceros.
 
-- **Documento contable:** **D** (de Disposición).
-- **Efecto:** el crédito queda **comprometido**. La Corporación está obligada frente al contratista o beneficiario.
-- **Ejemplo:** firma del contrato de obra o de suministro.
+- Documento contable: **D** (de Disposición).
+- Efecto: el crédito queda **comprometido**. La Corporación está obligada frente al contratista o beneficiario.
+- Ejemplo: firma del contrato de obra o de suministro.
 
 > 💡 En muchos casos las fases A y D se tramitan conjuntamente en un único acto (documento **AD**), sobre todo en contratos de cuantía media o baja.
 
@@ -330,18 +330,18 @@ La **disposición** es el acto por el que el órgano competente, en ejercicio de
 
 El **reconocimiento de la obligación** (o liquidación) es el acto por el que el órgano competente, una vez verificado que el contratista o beneficiario ha cumplido su prestación, **declara la existencia de un crédito exigible** contra la Hacienda Local.
 
-- **Documento contable:** **O** (de Obligación reconocida).
-- **Efecto:** la Corporación reconoce que debe pagar. El crédito presupuestario queda **aplicado**.
-- **Requisito previo:** acreditación de que la prestación ha sido realizada (conformidad de la factura, certificación de obra, acta de recepción…).
-- **Órgano competente:** el Presidente o el órgano en quien delegue.
+- Documento contable: **O** (de Obligación reconocida).
+- Efecto: la Corporación reconoce que debe pagar. El crédito presupuestario queda **aplicado**.
+- Requisito previo: acreditación de que la prestación ha sido realizada (conformidad de la factura, certificación de obra, acta de recepción…).
+- Órgano competente: el Presidente o el órgano en quien delegue.
 
 #### FASE 4: ORDENACIÓN DEL PAGO (documento «P»)
 
 La **ordenación del pago** es el acto por el que el órgano competente **manda a la Tesorería** que realice el pago de la obligación reconocida.
 
-- **Documento contable:** **P** (de Pago ordenado).
-- **Efecto:** la Tesorería queda obligada a realizar el pago.
-- **Órgano competente:** el Presidente, que tiene atribuida la competencia de ordenar pagos.
+- Documento contable: **P** (de Pago ordenado).
+- Efecto: la Tesorería queda obligada a realizar el pago.
+- Órgano competente: el Presidente, que tiene atribuida la competencia de ordenar pagos.
 
 #### FASE 5: PAGO MATERIAL
 
@@ -351,10 +351,10 @@ El **pago material** es la salida efectiva de fondos de la Tesorería hacia el a
 
 | Fase | Acto | Documento | Efecto sobre el crédito |
 |---|---|---|---|
-| 1 | Autorización | **A** | Crédito **retenido** |
-| 2 | Disposición/Compromiso | **D** | Crédito **comprometido** |
-| 3 | Reconocimiento de obligación | **O** | Crédito **obligado** |
-| 4 | Ordenación del pago | **P** | Crédito **en pago** |
+| 1 | Autorización | A | Crédito **retenido** |
+| 2 | Disposición/Compromiso | D | Crédito **comprometido** |
+| 3 | Reconocimiento de obligación | O | Crédito **obligado** |
+| 4 | Ordenación del pago | P | Crédito **en pago** |
 | 5 | Pago material | — | Crédito **pagado** |
 
 > 💡 Las fases pueden acumularse en documentos conjuntos: **AD** (autorización + disposición simultáneas), **ADO** (las tres primeras fases juntas, muy habitual en gastos de nómina y de pequeña cuantía), o incluso **ADOP** en casos de urgencia.
@@ -363,11 +363,11 @@ El **pago material** es la salida efectiva de fondos de la Tesorería hacia el a
 
 | Órgano | Competencias principales en materia económica |
 |---|---|
-| **Pleno** | Aprobar el Presupuesto y sus modificaciones; aprobar la Cuenta General; establecer tributos y tipos impositivos; autorizar operaciones de endeudamiento por encima de los límites del Presidente |
-| **Presidente (Alcalde/Presidente Diputación)** | Ordenar pagos; autorizar y disponer gastos dentro de sus límites; contraer obligaciones; rendir cuentas; dirigir la gestión económica |
-| **Junta de Gobierno** | Competencias que le delegue el Pleno o el Presidente en materia económica y contractual |
-| **Intervención** | Función de control interno: fiscalización previa de todos los actos que afecten a ingresos y gastos; contabilidad; elaboración de informes económico-financieros; fiscalización de la Cuenta General |
-| **Tesorería** | Recaudación de derechos y pago de obligaciones; custodia de fondos y valores; gestión de la tesorería y planificación de pagos |
+| Pleno | Aprobar el Presupuesto y sus modificaciones; aprobar la Cuenta General; establecer tributos y tipos impositivos; autorizar operaciones de endeudamiento por encima de los límites del Presidente |
+| Presidente (Alcalde/Presidente Diputación) | Ordenar pagos; autorizar y disponer gastos dentro de sus límites; contraer obligaciones; rendir cuentas; dirigir la gestión económica |
+| Junta de Gobierno | Competencias que le delegue el Pleno o el Presidente en materia económica y contractual |
+| Intervención | Función de control interno: fiscalización previa de todos los actos que afecten a ingresos y gastos; contabilidad; elaboración de informes económico-financieros; fiscalización de la Cuenta General |
+| Tesorería | Recaudación de derechos y pago de obligaciones; custodia de fondos y valores; gestión de la tesorería y planificación de pagos |
 
 ### 10.5 La Intervención: función fiscalizadora
 
@@ -384,12 +384,12 @@ Cuándo durante el ejercicio es necesario gastar en conceptos no previstos o por
 
 | Tipo | Descripción | Órgano que la aprueba |
 |---|---|---|
-| **Crédito extraordinario** | Para gastos no previstos y sin crédito en el presupuesto | Pleno |
-| **Suplemento de crédito** | Para gastos previstos pero con crédito insuficiente | Pleno |
-| **Ampliación de crédito** | Créditos que se amplían automáticamente cuando aumentan los ingresos afectados | — |
-| **Transferencia de crédito** | Traspaso de crédito entre partidas del mismo capítulo o entre capítulos (con limitaciones) | Presidente (entre partidas del mismo capítulo) o Pleno (entre capítulos) |
-| **Generación de crédito** | Habilitación de nuevos créditos financiados con ingresos concretos no previstos | Presidente o Pleno según cuantía |
-| **Incorporación de remanentes** | Incorporación al nuevo ejercicio de créditos del ejercicio anterior con obligaciones pendientes | Presidente |
+| Crédito extraordinario | Para gastos no previstos y sin crédito en el presupuesto | Pleno |
+| Suplemento de crédito | Para gastos previstos pero con crédito insuficiente | Pleno |
+| Ampliación de crédito | Créditos que se amplían automáticamente cuando aumentan los ingresos afectados | — |
+| Transferencia de crédito | Traspaso de crédito entre partidas del mismo capítulo o entre capítulos (con limitaciones) | Presidente (entre partidas del mismo capítulo) o Pleno (entre capítulos) |
+| Generación de crédito | Habilitación de nuevos créditos financiados con ingresos concretos no previstos | Presidente o Pleno según cuantía |
+| Incorporación de remanentes | Incorporación al nuevo ejercicio de créditos del ejercicio anterior con obligaciones pendientes | Presidente |
 
 ---
 

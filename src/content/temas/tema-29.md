@@ -3,18 +3,18 @@ tema: 29
 titulo: "El personal laboral al servicio de las Corporaciones Locales. El contrato de trabajo. Derechos y deberes de los trabajadores."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP):**
+> 🔗 Real Decreto Legislativo 5/2015, de 30 de octubre, Texto Refundido del Estatuto Básico del Empleado Público (TREBEP):
 > https://www.boe.es/eli/es/rdlg/2015/10/30/5/con
 >
-> 🔗 **Real Decreto Legislativo 2/2015, de 23 de octubre, Texto Refundido de la Ley del Estatuto de los Trabajadores (ET):**
+> 🔗 Real Decreto Legislativo 2/2015, de 23 de octubre, Texto Refundido de la Ley del Estatuto de los Trabajadores (ET):
 > https://www.boe.es/eli/es/rdlg/2015/10/23/2/con
 >
-> 🔗 **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL):**
+> 🔗 Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL):
 > https://www.boe.es/eli/es/l/1985/04/02/7/con
 >
-> 🔗 **Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales en materia de Régimen Local (TRRL):**
+> 🔗 Real Decreto Legislativo 781/1986, de 18 de abril, Texto Refundido de disposiciones legales en materia de Régimen Local (TRRL):
 > https://www.boe.es/eli/es/rdlg/1986/04/18/781/con
 
 ---
@@ -23,7 +23,7 @@ titulo: "El personal laboral al servicio de las Corporaciones Locales. El contra
 
 ### 1.1 Concepto y régimen jurídico
 
-El **personal laboral** al servicio de las Corporaciones Locales es aquel que presta sus servicios en virtud de un **contrato de trabajo** regulado por la legislación laboral, a diferencia del personal funcionario, cuya relación con la Administración es de naturaleza estatutaria.
+El <mark>personal laboral</mark> al servicio de las Corporaciones Locales es aquel que presta sus servicios en virtud de un <mark>contrato de trabajo</mark> regulado por la legislación laboral, a diferencia del personal funcionario, cuya relación con la Administración es de naturaleza estatutaria.
 
 El régimen jurídico del personal laboral se articula a partir de dos normas que se superponen y complementan:
 
@@ -36,8 +36,8 @@ El régimen jurídico del personal laboral se articula a partir de dos normas qu
 
 Una de las cuestiones clave en el régimen del empleo público local es la delimitación entre las funciones reservadas a funcionarios y las que pueden desempeñar el personal laboral.
 
-El art. 9.2 TREBEP reserva en exclusiva a los **funcionarios de carrera** el ejercicio de funciones que impliquen:
-- La **participación directa o indirecta en el ejercicio de las potestades públicas** o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.
+El art. 9.2 TREBEP reserva en exclusiva a los <mark>funcionarios de carrera</mark> el ejercicio de funciones que impliquen:
+- La <mark>participación directa o indirecta en el ejercicio de las potestades públicas</mark> o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas.
 
 Por tanto, el personal laboral puede desempeñar el resto de funciones: trabajos de carácter técnico, de oficios, de servicios generales, de atención directa a la ciudadanía sin ejercicio de potestad, etc. En la práctica, las Corporaciones Locales cuentan con personal laboral en servicios como limpieza, mantenimiento, cultura, deportes, servicios sociales de base, etc.
 
@@ -47,9 +47,9 @@ El art. 8.2 TREBEP distingue tres modalidades de personal laboral según la dura
 
 | Clase | Descripción |
 |---|---|
-| **Personal laboral fijo** | Contratado por tiempo indefinido tras superar proceso selectivo. Es la situación estable y ordinaria |
-| **Personal laboral indefinido no fijo** | Situación creada por la jurisprudencia (TS): el trabajador temporal cuyo contrato es declarado irregular no puede ser considerado fijo de plantilla, pero tampoco puede ser despedido sin indemnización. Ocupa la plaza hasta que se provea reglamentariamente |
-| **Personal laboral temporal** | Contratado para necesidades temporales, concretas y urgentes, por el tiempo estrictamente necesario |
+| Personal laboral fijo | Contratado por tiempo indefinido tras superar proceso selectivo. Es la situación estable y ordinaria |
+| Personal laboral indefinido no fijo | <mark>Situación creada por la jurisprudencia</mark> (TS): el trabajador temporal cuyo contrato es declarado irregular no puede ser considerado fijo de plantilla, pero tampoco puede ser despedido sin indemnización. Ocupa la plaza hasta que se provea reglamentariamente |
+| Personal laboral temporal | Contratado para necesidades temporales, concretas y urgentes, por el tiempo estrictamente necesario |
 
 > 💡 La figura del **indefinido no fijo** es especialmente relevante en la Administración Local, donde ha habido históricamente una alta tasa de temporalidad. La Ley 20/2021 de estabilización del empleo temporal obligó a las AAPP a convocar procesos selectivos para consolidar estas situaciones.
 
@@ -59,15 +59,15 @@ El art. 8.2 TREBEP distingue tres modalidades de personal laboral según la dura
 
 ### 2.1 Concepto
 
-El **contrato de trabajo** es el acuerdo entre el trabajador y la Corporación Local (como empleadora) por el que el trabajador se obliga a prestar sus servicios de forma voluntaria, por cuenta y dentro del ámbito de organización y dirección de la Corporación, a cambio de una remuneración (art. 1.1 ET).
+El **contrato de trabajo** es el acuerdo entre el trabajador y la Corporación Local (como empleadora) por el que el trabajador se obliga a prestar sus servicios de forma <mark>voluntaria, por cuenta ajena, dependiente y retribuida</mark> (art. 1.1 ET).
 
 ### 2.2 Elementos esenciales del contrato de trabajo
 
 Para que exista contrato de trabajo deben concurrir las siguientes notas:
-- **Voluntariedad:** el trabajo se presta de forma libre y no forzada.
-- **Retribución:** el trabajador percibe una remuneración por su trabajo.
-- **Ajenidad:** el trabajador trabaja por cuenta de la Corporación, que se apropia de los frutos del trabajo y asume los riesgos.
-- **Dependencia:** el trabajador está sometido al poder de dirección y organización de la Corporación.
+- Voluntariedad: el trabajo se presta de forma libre y no forzada.
+- Retribución: el trabajador percibe una remuneración por su trabajo.
+- Ajenidad: el trabajador trabaja por cuenta de la Corporación, que se apropia de los frutos del trabajo y asume los riesgos.
+- Dependencia: el trabajador está sometido al poder de dirección y organización de la Corporación.
 
 ### 2.3 Forma del contrato
 
@@ -83,9 +83,9 @@ Las partes pueden pactar un **período de prueba** durante el cual cualquiera de
 
 | Tipo de trabajador | Duración máxima |
 |---|---|
-| Técnicos titulados | 6 meses |
-| Resto de trabajadores | 2 meses |
-| Empresas de menos de 25 trabajadores | 3 meses (para trabajadores no técnicos) |
+| Técnicos titulados | <mark>6 meses</mark> |
+| Resto de trabajadores | <mark>2 meses</mark> |
+| Empresas de menos de 25 trabajadores | <mark>3 meses</mark> (para trabajadores no técnicos) |
 
 Durante el período de prueba, el trabajador tiene los mismos derechos y deberes que el resto del personal.
 
@@ -93,7 +93,7 @@ Durante el período de prueba, el trabajador tiene los mismos derechos y deberes
 
 #### 2.5.1 Contrato indefinido
 
-Es la modalidad **ordinaria y preferente**. Desde la reforma laboral de 2021 (Ley 32/2021), se presume que el contrato es indefinido salvo que se acredite su naturaleza temporal.
+Es la modalidad <mark>ordinaria y preferente</mark>. Desde la reforma laboral de 2021 (Ley 32/2021), se presume que el contrato es indefinido salvo que se acredite su naturaleza temporal.
 
 En las Corporaciones Locales, el personal laboral fijo ocupa las plazas de la plantilla aprobadas por el Pleno como de carácter laboral.
 
@@ -103,9 +103,9 @@ Tras la reforma laboral de 2021, los contratos de duración determinada se reduc
 
 | Modalidad | Causa | Duración máxima |
 |---|---|---|
-| **Por circunstancias de la producción** | Incremento ocasional e imprevisible de la actividad, o situaciones ocasionales y previsibles de duración reducida | 6 meses (ampliable a 1 año por convenio) para imprevisibles; 90 días/año para previsibles |
-| **Por sustitución de persona trabajadora** | Sustitución de trabajador con derecho a reserva de puesto, o cobertura durante proceso de selección | Mientras dure la causa |
-| **Fijo-discontinuo** | Para trabajos de naturaleza estacional o vinculados a actividades productivas de temporada, o para la cobertura de necesidades que, siendo permanentes, no se prestan de forma continua | Indefinido, pero con períodos de actividad e inactividad |
+| Por circunstancias de la producción | Incremento ocasional e imprevisible de la actividad, o situaciones ocasionales y previsibles de duración reducida | <mark>6 meses</mark> (ampliable a <mark>1 año</mark> por convenio) para imprevisibles; <mark>90 días/año</mark> para previsibles |
+| Por sustitución de persona trabajadora | Sustitución de trabajador con derecho a reserva de puesto, o cobertura durante proceso de selección | Mientras dure la causa |
+| Fijo-discontinuo | Para trabajos de naturaleza estacional o vinculados a actividades productivas de temporada, o para la cobertura de necesidades que, siendo permanentes, no se prestan de forma continua | Indefinido, pero con períodos de actividad e inactividad |
 
 > 💡 En las Corporaciones Locales el contrato **fijo-discontinuo** es muy habitual para servicios como piscinas municipales, actividades deportivas o culturales de temporada, y puestos de atención turística estacional.
 
@@ -116,10 +116,10 @@ El trabajo se presta durante un número de horas al día, a la semana, al mes o 
 ### 2.6 Contenido del contrato: las condiciones de trabajo
 
 El contrato de trabajo regula o remite a convenio colectivo las siguientes condiciones esenciales:
-- **Jornada laboral:** horas diarias, semanales y anuales de trabajo.
-- **Horario:** distribución de la jornada.
-- **Salario:** retribución base y complementos.
-- **Vacaciones:** mínimo legal de 30 días naturales al año (o el que fije el convenio si es superior).
+- Jornada laboral: horas diarias, semanales y anuales de trabajo.
+- Horario: distribución de la jornada.
+- Salario: retribución base y complementos.
+- Vacaciones: mínimo legal de 30 días naturales al año (o el que fije el convenio si es superior).
 - **Categoría profesional** y funciones del puesto.
 - **Lugar de prestación** del trabajo.
 
@@ -147,21 +147,21 @@ El contrato de trabajo puede extinguirse por (art. 49 ET):
 
 | Causa | Descripción |
 |---|---|
-| **Mutuo acuerdo** | Ambas partes acuerdan poner fin a la relación laboral |
-| **Causas consignadas válidamente en el contrato** | Condición resolutoria o llegada del término pactado |
-| **Expiración del tiempo convenido** | En contratos temporales: fin del plazo o de la causa que lo justificó |
-| **Dimisión del trabajador** | Comunicación con preaviso (el que fije el convenio o, en su defecto, 15 días) |
-| **Muerte, gran invalidez o IPT del trabajador** | Causas sobrevenidas de incapacidad total o gran invalidez |
-| **Jubilación** | Del trabajador (o del empleador si es persona física) |
-| **Despido disciplinario** | Por incumplimiento grave y culpable del trabajador (art. 54 ET) |
-| **Despido colectivo (ERE)** | Por causas económicas, técnicas, organizativas o productivas, con expediente y negociación |
-| **Despido por causas objetivas** | Por causas objetivas del art. 52 ET (ineptitud, falta de adaptación, causas económicas en empresa pequeña...) |
-| **Resolución por voluntad del trabajador** | Ante incumplimientos graves del empleador |
+| Mutuo acuerdo | Ambas partes acuerdan poner fin a la relación laboral |
+| Causas consignadas válidamente en el contrato | Condición resolutoria o llegada del término pactado |
+| Expiración del tiempo convenido | En contratos temporales: fin del plazo o de la causa que lo justificó |
+| Dimisión del trabajador | Comunicación con preaviso (el que fije el convenio o, en su defecto, 15 días) |
+| Muerte, gran invalidez o IPT del trabajador | Causas sobrevenidas de incapacidad total o gran invalidez |
+| Jubilación | Del trabajador (o del empleador si es persona física) |
+| Despido disciplinario | Por incumplimiento grave y culpable del trabajador (art. 54 ET) |
+| Despido colectivo (ERE) | Por causas económicas, técnicas, organizativas o productivas, con expediente y negociación |
+| Despido por causas objetivas | Por causas objetivas del art. 52 ET (ineptitud, falta de adaptación, causas económicas en empresa pequeña...) |
+| Resolución por voluntad del trabajador | Ante incumplimientos graves del empleador |
 
 **Indemnizaciones por extinción:**
-- Despido improcedente: **33 días** de salario por año trabajado (máx. 24 mensualidades). Para contratos anteriores a 12/2/2012, los primeros años se calculan a 45 días.
-- Despido por causas objetivas procedente: **20 días** por año (máx. 12 mensualidades).
-- Extinción de contrato temporal por expiración: **12 días** por año trabajado.
+- Despido improcedente: <mark>33 días</mark> de salario por año trabajado (máx. 24 mensualidades). Para contratos anteriores a 12/2/2012, los primeros años se calculan a 45 días.
+- Despido por causas objetivas procedente: <mark>20 días</mark> por año (máx. 12 mensualidades).
+- Extinción de contrato temporal por expiración: <mark>12 días</mark> por año trabajado.
 
 ---
 
@@ -209,18 +209,18 @@ El art. 14 TREBEP reconoce a todos los empleados públicos (incluido el personal
 ### 3.3 Derechos retributivos
 
 Los trabajadores tienen derecho a percibir:
-- **Salario base:** retribución fijada por unidad de tiempo o de obra en el convenio colectivo o en el contrato.
-- **Complementos salariales:** por antigüedad, nocturnidad, peligrosidad, responsabilidad, productividad, etc.
-- **Pagas extraordinarias:** mínimo dos al año (en junio y diciembre), de cuantía no inferior a una mensualidad del salario base, salvo que se prorrateen a lo largo del año.
-- **Salario Mínimo Interprofesional (SMI):** ningún trabajador puede percibir por jornada completa un salario inferior al SMI fijado anualmente por el Gobierno.
+- Salario base: retribución fijada por unidad de tiempo o de obra en el convenio colectivo o en el contrato.
+- Complementos salariales: por antigüedad, nocturnidad, peligrosidad, responsabilidad, productividad, etc.
+- Pagas extraordinarias: mínimo dos al año (en junio y diciembre), de cuantía no inferior a una mensualidad del salario base, salvo que se prorrateen a lo largo del año.
+- Salario Mínimo Interprofesional (SMI): ningún trabajador puede percibir por jornada completa un salario inferior al SMI fijado anualmente por el Gobierno.
 
 ### 3.4 Derechos en materia de tiempo de trabajo
 
-- **Jornada máxima:** 40 horas semanales de trabajo efectivo en cómputo anual (art. 34 ET).
-- **Descanso entre jornadas:** mínimo **12 horas** entre el final de una jornada y el inicio de la siguiente.
-- **Descanso semanal:** mínimo día y medio ininterrumpido (normalmente, sábado tarde y domingo, o domingo y lunes).
-- **Vacaciones anuales:** mínimo **30 días naturales** por año trabajado (no sustituibles por compensación económica, salvo extinción del contrato).
-- **Permisos retribuidos:** por matrimonio (15 días), nacimiento de hijo, fallecimiento de familiar, traslado de domicilio, deberes inexcusables de carácter público, etc.
+- Jornada máxima: 40 horas semanales de trabajo efectivo en cómputo anual (art. 34 ET).
+- Descanso entre jornadas: mínimo **12 horas** entre el final de una jornada y el inicio de la siguiente.
+- Descanso semanal: mínimo día y medio ininterrumpido (normalmente, sábado tarde y domingo, o domingo y lunes).
+- Vacaciones anuales: mínimo <mark>30 días naturales</mark> por año trabajado (no sustituibles por compensación económica, salvo extinción del contrato).
+- Permisos retribuidos: por matrimonio (15 días), nacimiento de hijo, fallecimiento de familiar, traslado de domicilio, deberes inexcusables de carácter público, etc.
 
 ---
 
@@ -261,7 +261,7 @@ El art. 53 TREBEP establece los principios éticos y el art. 54 los principios d
 
 ### 4.3 El poder disciplinario de la Corporación Local
 
-El incumplimiento de los deberes del trabajador puede dar lugar a sanciones disciplinarias por parte de la Corporación. En el ámbito laboral, la sanción máxima es el **despido disciplinario** (art. 54 ET), que procede ante incumplimientos graves y culpables del trabajador, como:
+El incumplimiento de los deberes del trabajador puede dar lugar a sanciones disciplinarias por parte de la Corporación. En el ámbito laboral, la sanción máxima es el <mark>despido disciplinario</mark> (art. 54 ET), que procede ante incumplimientos graves y culpables del trabajador, como:
 
 - Las **faltas repetidas e injustificadas** de asistencia o puntualidad.
 - La indisciplina o desobediencia en el trabajo.
@@ -280,8 +280,8 @@ El régimen disciplinario del personal laboral se rige por el ET y el convenio c
 ### 5.1 Órganos de representación
 
 El personal laboral de las Corporaciones Locales tiene derecho a estar representado por:
-- **Delegados de personal:** en plantillas de entre 10 y 49 trabajadores.
-- **Comité de empresa:** en plantillas de 50 o más trabajadores.
+- Delegados de personal: en plantillas de entre <mark>10 y 49 trabajadores</mark>.
+- Comité de empresa: en plantillas de <mark>50 o más trabajadores</mark>.
 
 ### 5.2 Negociación colectiva
 
