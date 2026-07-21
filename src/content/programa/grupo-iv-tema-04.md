@@ -64,6 +64,13 @@ Supuestos tipicos de reparo suspensivo:
 
 La discrepancia frente al reparo debe resolverse por el órgano competente. No basta con continuar el expediente como si el reparo no existiera.
 
+| Reparo suspensivo | Consecuencia de test |
+| --- | --- |
+| Insuficiencia o inadecuación de crédito | No continúa el expediente hasta subsanar o resolver discrepancia. |
+| Órgano manifiestamente incompetente | La Intervención debe formular reparo. |
+| Omisión de requisitos esenciales | Se paraliza la tramitación en los términos legales. |
+| Discrepancia del gestor | Debe elevarse al órgano competente, y en ciertos casos al Pleno. |
+
 ## Control financiero
 
 El control financiero verifica funcionamiento económico-financiero de servicios, organismos y entidades dependientes. Incluye control permanente y auditoria pública. Analiza cumplimiento normativo, eficacia, eficiencia, economía, estabilidad y sostenibilidad.
@@ -81,6 +88,13 @@ El control financiero permite mirar más allá de un expediente aislado. Por eje
 | Sostenibilidad | El gasto es compatible con estabilidad y capacidad financiera? |
 
 El plan anual de control financiero ordena las actuaciones de control permanente y auditoría pública. Permite seleccionar áreas de riesgo, entidades dependientes, subvenciones, contratación, ingresos o servicios que se revisarán durante el ejercicio. Sus resultados pueden generar recomendaciones y planes de acción.
+
+| Modalidad de control | No confundir |
+| --- | --- |
+| Función interventora | Control interno de legalidad sobre actos con contenido económico, normalmente previo. |
+| Control financiero permanente | Control interno de funcionamiento económico-financiero, según plan anual. |
+| Auditoría pública | Control posterior de cuentas, cumplimiento u operativa de entidades dependientes. |
+| Control externo | Tribunal de Cuentas y órganos autonómicos de control externo. |
 
 ## Omisión de fiscalización
 
@@ -115,6 +129,8 @@ Secuencia básica de la Cuenta General:
 3. Exposición pública para reclamaciones u observaciones.
 4. Aprobación por el Pleno.
 5. Remisión al órgano de control externo.
+
+La Comisión Especial de Cuentas no aprueba definitivamente la Cuenta General: la examina e informa antes de la exposición pública y de la aprobación por el Pleno. Este matiz aparece con frecuencia en preguntas de control externo.
 
 ## Control externo y responsabilidades
 

@@ -27,6 +27,8 @@ El presupuesto general local incluye el presupuesto de la propia entidad, los de
 | Anexo de inversiones | Programa inversiones y financiación. |
 | Informe económico-financiero | Explica suficiencia de ingresos y equilibrio. |
 
+En entidades locales, el presupuesto general se aprueba anualmente. Si el 1 de enero no está aprobado el nuevo presupuesto, se prorroga automáticamente el del ejercicio anterior con los ajustes legales procedentes.
+
 ## Principios presupuestarios
 
 Rigen anualidad, unidad, universalidad, equilibrio, especialidad, publicidad, estabilidad presupuestaria, sostenibilidad financiera y transparencia.
@@ -61,6 +63,32 @@ La clasificación presupuestaria ayuda a leer el presupuesto desde tres pregunta
 | Economica | En qué naturaleza de gasto se emplea. | Personal, suministros, contratos, subvenciones, inversiones. |
 
 La aplicación presupuestaria resulta de combinar esas dimensiones. Por eso un gasto puede ser correcto en cuanto a necesidad, pero incorrecto si se imputa a una aplicación no adecuada o sin crédito suficiente.
+
+| Clasificación económica de gastos | Capítulo |
+| --- | --- |
+| Gastos de personal | 1 |
+| Gastos corrientes en bienes y servicios | 2 |
+| Gastos financieros | 3 |
+| Transferencias corrientes | 4 |
+| Fondo de contingencia y otros imprevistos | 5 |
+| Inversiones reales | 6 |
+| Transferencias de capital | 7 |
+| Activos financieros | 8 |
+| Pasivos financieros | 9 |
+
+| Clasificación económica de ingresos | Capítulo |
+| --- | --- |
+| Impuestos directos | 1 |
+| Impuestos indirectos | 2 |
+| Tasas, precios públicos y otros ingresos | 3 |
+| Transferencias corrientes | 4 |
+| Ingresos patrimoniales | 5 |
+| Enajenación de inversiones reales | 6 |
+| Transferencias de capital | 7 |
+| Activos financieros | 8 |
+| Pasivos financieros | 9 |
+
+<mark>Atajo de test:</mark> capítulos 1 a 5 son operaciones corrientes, 6 y 7 son operaciones de capital, y 8 y 9 son operaciones financieras.
 
 Los créditos pueden ser iniciales, definitivos, retenidos, autorizados, comprometidos, obligados y pagados según avance la ejecución. Esta lectura permite saber si queda crédito disponible o si el presupuesto ya está vinculado por expedientes anteriores.
 
@@ -98,6 +126,14 @@ El expediente debe acreditar necesidad, financiación, competencia, efecto sobre
 
 La financiación de una modificación es tan importante como su finalidad. Si se financia con remanente líquido de tesorería, mayores ingresos, bajas de créditos u operaciones de crédito, debe justificarse que la fuente es válida, disponible y compatible con estabilidad, sostenibilidad y financiación afectada.
 
+| Modificación | Diferencia rápida |
+| --- | --- |
+| Crédito extraordinario | No existe crédito y el gasto no puede demorarse. |
+| Suplemento de crédito | Existe crédito, pero es insuficiente y el gasto no puede demorarse. |
+| Transferencia | Mueve crédito entre aplicaciones sin aumentar el total del presupuesto. |
+| Generación | Un ingreso no previsto o superior habilita crédito para gasto vinculado. |
+| Incorporación | Traslada determinados remanentes del ejercicio anterior cuando la ley lo permite. |
+
 ## Anticipos de tesorería
 
 Los anticipos de tesorería permiten atender necesidades inaplazables con carácter excepcional antes de tramitar modificación definitiva, en los términos legales. No deben confundirse con operaciones ordinarias de tesorería.
@@ -109,3 +145,13 @@ La gestión presupuestaria local exige control constante de crédito, financiaci
 Aunque el tema se centra en concepto y modificaciones, conviene situar el ciclo presupuestario. El proyecto se elabora por la Alcaldía o Presidencia con informes e integración de anexos; se somete a aprobación inicial del Pleno; se expone al público para reclamaciones; y, si no hay reclamaciones o una vez resueltas, se aprueba definitivamente y se publica resumido por capítulos.
 
 Si al inicio del ejercicio no existe presupuesto aprobado, se prorroga automáticamente el del ejercicio anterior con los ajustes legales necesarios. La prorroga no significa libertad absoluta: ciertas partidas no prorrogables o gastos vinculados a programas finalizados deben revisarse.
+
+| Trámite de aprobación del presupuesto local | Dato |
+| --- | --- |
+| Aprobación inicial | Pleno de la entidad local. |
+| Exposición pública | Quince días, previo anuncio en el boletín oficial correspondiente. |
+| Sin reclamaciones | El presupuesto se considera definitivamente aprobado. |
+| Con reclamaciones | Deben resolverse por el Pleno. |
+| Publicación final | Resumen por capítulos en el boletín oficial. |
+
+En presupuestos del Estado, que a veces aparecen como comparación, el proyecto de Ley de Presupuestos Generales del Estado debe remitirse a las Cortes Generales antes del 1 de octubre del año anterior al que se refiera.

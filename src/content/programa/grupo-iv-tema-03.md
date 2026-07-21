@@ -49,6 +49,17 @@ En algunos expedientes se acumulan fases: AD, ADO u O, según naturaleza del gas
 
 Ejemplo: en un contrato de suministro, primero se reserva crédito, después se autoriza y adjudica el gasto, más tarde se recibe el suministro, se conforma la factura, se reconoce la obligación y finalmente se ordena y realiza el pago.
 
+| Documento contable | Qué acumula o refleja |
+| --- | --- |
+| RC | Retención de crédito; reserva saldo antes de aprobar el gasto. |
+| A | Autorización; permite realizar un gasto máximo y no genera todavía obligación frente a tercero. |
+| D | Disposición o compromiso; vincula el gasto a un tercero determinado. |
+| O u OK | Reconocimiento de obligación; documenta deuda exigible tras acreditar la prestación. |
+| AD | Autorización y disposición acumuladas. |
+| ADO | Autorización, disposición y reconocimiento de obligación acumulados. |
+
+En expedientes de contratación con tramitación anticipada puede utilizarse un documento RC de tramitación anticipada para reservar crédito condicionado al ejercicio futuro y a la existencia efectiva de crédito.
+
 La factura electrónica es obligatoria para muchos proveedores y se presenta a través del punto general de entrada correspondiente. Su entrada no implica pago automático: debe registrarse, asignarse a unidad tramitadora, comprobarse la prestación, conformarse, fiscalizarse si procede y reconocerse la obligación.
 
 | Momento | Control básico |
@@ -88,6 +99,17 @@ Los compromisos futuros deben quedar reflejados para no comprometer la capacidad
 La ordenación del pago es el acto por el que se ordena a Tesorería satisfacer una obligación reconocida. La competencia corresponde al Presidente de la entidad local, salvo delegación o régimen específico.
 
 El pago material corresponde a Tesorería. Deben respetarse planes de disposición de fondos, prioridades legales, disponibilidad liquida y medios de pago. La morosidad y período medio de pago son indicadores relevantes de gestión.
+
+## Anticipos de caja fija y pagos a justificar
+
+Los anticipos de caja fija son provisiones de fondos para atender gastos corrientes, periódicos o repetitivos de pequeña cuantía que requieren agilidad. No sustituyen la justificación: los gastos deben aplicarse al presupuesto y rendirse conforme a las bases de ejecución.
+
+Los pagos a justificar se usan cuando no puede aportarse documentación justificativa antes de expedir la orden de pago. La aplicación de las cantidades recibidas debe justificarse dentro del mes siguiente a su inversión y, en todo caso, en el plazo máximo de tres meses desde la percepción de los fondos, salvo régimen específico.
+
+| Procedimiento especial | Uso típico |
+| --- | --- |
+| Anticipo de caja fija | Gastos pequeños, corrientes y repetitivos. |
+| Pago a justificar | Gasto cuya documentación no puede aportarse antes del libramiento. |
 
 ## Errores frecuentes en ejecución del gasto
 

@@ -37,6 +37,14 @@ La calificación asigna usos y condiciones: residencial, industrial, terciario, 
 
 La clasificación responde a la pregunta "que tipo de suelo es"; la calificación responde a "que se puede hacer en el". Esta distinción aparece mucho en urbanismo porque una parcela urbana no permite cualquier uso: debe respetar la calificación, las ordenanzas y el planeamiento.
 
+| Clase de suelo | Idea de examen |
+| --- | --- |
+| Urbano | Cuenta con servicios urbanísticos y grado de consolidación conforme a la legislación aplicable. |
+| Urbanizable | Puede transformarse mediante planeamiento y gestión urbanística. |
+| Rústico o no urbanizable | Se preserva por valores ambientales, agrarios, paisajísticos, culturales, protección especial o inadecuación para urbanizar. |
+
+La clasificación determina la clase jurídica del terreno. La calificación concreta usos, intensidades y condiciones de edificación. Por eso una respuesta correcta puede decir que la clasificación decide la clase de suelo y la calificación precisa usos, edificabilidad, alturas, dotaciones o retranqueos.
+
 ## Competencia municipal
 
 El Ayuntamiento tiene competencias en planeamiento, gestión, disciplina, licencias, inspección y protección de legalidad, dentro del marco estatal y autonómico. Aprueba instrumentos en los supuestos que le correspondan y tramita expedientes urbanísticos.
@@ -95,6 +103,14 @@ En un expediente de licencia suelen incorporarse solicitud, proyecto o memoria, 
 
 El silencio administrativo en urbanismo debe manejarse con cautela. En ningún caso pueden entenderse adquiridas por silencio facultades contrarias al ordenamiento territorial o urbanístico. Por eso, aunque se invoque silencio, debe comprobarse siempre compatibilidad con planeamiento y normativa aplicable.
 
+| Licencia urbanística | Clave |
+| --- | --- |
+| Naturaleza | Acto reglado de control previo. |
+| Qué comprueba | Conformidad con planeamiento, ordenanzas y legalidad urbanística. |
+| Fórmula clásica | Se otorga salvo derecho de propiedad y sin perjuicio de tercero. |
+| Límite | No legaliza actuaciones contrarias al planeamiento. |
+| Silencio | No permite adquirir facultades contrarias a la ordenación territorial o urbanística. |
+
 ## Protección de legalidad
 
 Si se realizan actos sin licencia, contra licencia o contra planeamiento, la Administración debe restaurar legalidad. Puede ordenar suspensión, legalización si es posible, demolición, reposición, cese de uso o medidas correctoras.
@@ -103,11 +119,20 @@ La protección de legalidad es independiente de la sanción. Una obra ilegal pue
 
 La inspección urbanística documenta hechos mediante actas, informes y fotografías. Esa prueba es decisiva para ordenar suspensión, requerir legalización, iniciar restauración o incoar sancionador. Sin una buena acreditación de hechos, el expediente queda debilitado aunque la infracción exista materialmente.
 
+| Situación | Respuesta municipal |
+| --- | --- |
+| Obra sin licencia pero compatible con planeamiento | Suspensión si procede, requerimiento de legalización y sanción si hay infracción. |
+| Obra contra licencia | Restauración del ajuste a la licencia o legalización si es posible. |
+| Obra no legalizable | Restauración de la legalidad, incluida demolición o reposición cuando proceda. |
+| Uso urbanístico ilegal | Cese, reposición y sanción si está tipificado. |
+
 ## Infracciones y sanciones
 
 Las infracciones urbanísticas son acciones u omisiones contrarias a normativa urbanística tipificadas por ley. Pueden ser leves, graves o muy graves. Las sanciones suelen consistir en multas, pero pueden existir medidas accesorias.
 
 La responsabilidad puede alcanzar a promotores, propietarios, constructores, técnicos, directores facultativos u otros intervinientes según su participación. El procedimiento sancionador debe respetar garantías de la Ley 39/2015 y principios de la Ley 40/2015.
+
+La sanción urbanística es compatible e independiente de la restauración de la legalidad. La multa castiga la infracción; la restauración busca reponer la realidad física alterada y el orden urbanístico infringido.
 
 ## Legalización, restauración y sanción
 

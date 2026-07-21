@@ -22,6 +22,8 @@ Los tributos locales son impuestos, tasas y contribuciones especiales. Los impue
 
 Las tasas se exigen por uso privativo o aprovechamiento especial del dominio público local y por servicios o actividades administrativas de competencia local que afecten o beneficien de modo particular al sujeto pasivo. Las contribuciones especiales financian obras o establecimiento/ampliación de servicios que produzcan beneficio especial o aumento de valor.
 
+La hacienda local no se compone solo de tributos. También incluye participación en tributos del Estado y de las Comunidades Autónomas, subvenciones, precios públicos, productos de operaciones de crédito, ingresos patrimoniales, multas y sanciones pecuniarias y demás prestaciones de derecho público. En test, las multas y sanciones aparecen como **ingresos de derecho público**, aunque no sean tributos.
+
 | Figura | Idea clave | Ejemplos municipales |
 | --- | --- | --- |
 | Impuesto | Se exige sin contraprestación directa, cuando se realiza el hecho imponible definido por la ley. | IBI por titularidad de inmuebles, IVTM por vehículos, ICIO por construcciones. |
@@ -41,6 +43,20 @@ La diferencia entre impuesto y tasa es esencial en examen. En el impuesto no hay
 | IIVTNU | Potestativo, directo. | Grava el incremento de valor de terrenos urbanos puesto de manifiesto por transmisión, en los términos legales. |
 
 En la práctica municipal, estos tributos sostienen buena parte de los ingresos corrientes. Por eso el personal administrativo debe distinguir entre padrones periodicos, liquidaciones individuales, autoliquidaciones, bonificaciones rogadas, exenciones legales, gestión recaudatoria voluntaria y ejecutiva.
+
+<mark>Lista corta de examen:</mark> IBI, IAE e IVTM son impuestos municipales de exacción obligatoria. ICIO e IIVTNU son potestativos: el Ayuntamiento decide su imposición dentro del marco legal y los ordena mediante ordenanza fiscal.
+
+## Tasas, precios públicos y contribuciones especiales
+
+La tasa se exige cuando existe utilización privativa o aprovechamiento especial del dominio público local, o cuando se presta un servicio o actividad administrativa que afecta o beneficia de modo particular y concurre el régimen legal de tasa. Puede devengarse al iniciar el uso, servicio o actividad, o cuando se presente la solicitud que inicia la actuación o expediente, según la naturaleza del hecho imponible y lo que establezca la ordenanza.
+
+El precio público no es tributo. Se exige por servicios o actividades de solicitud voluntaria que también puede prestar el sector privado. La obligación de pagarlo nace desde que se inicia la prestación del servicio o la realización de la actividad, aunque puede exigirse depósito previo.
+
+| Figura | Dato diferenciador |
+| --- | --- |
+| Tasa | Tributo; requiere cobertura legal y ordenanza fiscal; su importe no debe exceder en conjunto del coste real o previsible del servicio o actividad. |
+| Precio público | Ingreso de derecho público no tributario; nace con la prestación del servicio o actividad. |
+| Contribución especial | Tributo vinculado a obra pública o establecimiento/ampliación de servicio que produce beneficio especial o aumento de valor. |
 
 ## Gestión, recaudación e inspección
 
@@ -86,6 +102,14 @@ El procedimiento comienza con elaboración de propuesta, informes técnicos, jur
 
 Si no se presentan reclamaciones, el acuerdo provisional se entiende definitivamente adoptado. Si se presentan, deben resolverse y aprobarse definitivamente. El texto íntegro de la ordenanza o modificación debe publicarse en el Boletín Oficial de la Provincia antes de su entrada en vigor.
 
+| Fase de ordenanza fiscal | Dato básico |
+| --- | --- |
+| Aprobación provisional | Corresponde al Pleno. |
+| Información pública | Mínimo treinta días para reclamaciones. |
+| Sin reclamaciones | El acuerdo provisional se entiende definitivamente adoptado. |
+| Con reclamaciones | El Pleno debe resolverlas y aprobar definitivamente. |
+| Entrada en vigor | Exige publicación del texto íntegro en el Boletín Oficial de la Provincia. |
+
 ## Imposición y ordenación
 
 La imposición es la decisión de establecer un tributo potestativo o exigir una figura permitida. La ordenación es la regulación concreta de sus elementos mediante ordenanza fiscal. En impuestos obligatorios, la ley ya exige su existencia, pero la ordenanza concreta aspectos como tipos dentro de límites, bonificaciones potestativas y gestión.
@@ -95,6 +119,8 @@ En los impuestos obligatorios, el Ayuntamiento no decide si existen, pero sí pu
 ## Impugnación
 
 Los acuerdos de imposición y ordenación de tributos y las ordenanzas fiscales pueden impugnarse ante la jurisdicción contencioso-administrativa. Los actos individuales de aplicación, como liquidaciones, recibos, providencias de apremio o denegaciones de bonificación, se impugnan mediante recursos administrativos o reclamaciones económico-administrativas cuando exista órgano competente, como el TEAM en municipios de gran población.
+
+En municipios de gran población, como Burgos, determinados actos de gestión, liquidación, recaudación e inspección tributaria municipal pueden revisarse en vía económico-administrativa ante el Tribunal Económico-Administrativo Municipal, en los términos de la normativa local aplicable.
 
 Conviene separar dos planos:
 
