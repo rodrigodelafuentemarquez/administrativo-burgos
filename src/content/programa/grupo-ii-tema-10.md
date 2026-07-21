@@ -66,6 +66,8 @@ La remunicipalización consiste en recuperar para gestión pública directa o in
 
 La iniciativa económica pública permite a las entidades públicas desarrollar actividades económicas cuando exista interés público y se cumplan requisitos legales. En el ámbito local exige especial prudencia: memoria justificativa, análisis de mercado, sostenibilidad financiera, respeto a competencia, transparencia, control financiero y responsabilidad.
 
+La iniciativa económica local no permite actuar como una empresa privada cualquiera. Debe motivarse especialmente la conveniencia y oportunidad de la actividad, el interés público perseguido, la sostenibilidad financiera, la incidencia en el mercado y el respeto a la estabilidad presupuestaria y a la libre competencia.
+
 La remunicipalización no es solo terminar un contrato y asumir el servicio. Requiere expediente que compare alternativas, analice costes reales, medios personales y materiales, subrogación si procede, bienes afectos, tarifas, impacto presupuestario, estabilidad financiera y continuidad del servicio. También debe respetar la duración y extinción de contratos vigentes.
 
 ## Servicios locales

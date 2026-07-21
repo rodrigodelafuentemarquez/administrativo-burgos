@@ -82,6 +82,10 @@ La notificación comunica el acto al interesado y permite que produzca efectos f
 
 Las notificaciones deben practicarse preferentemente por medios electrónicos cuando el interesado este obligado a relacionarse electronicamente o lo haya elegido. Las personas físicas no obligadas pueden escoger canal, salvo excepciones.
 
+Toda notificación debe ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado. Debe contener el texto íntegro de la resolución, indicar si pone fin a la vía administrativa, los recursos procedentes, órgano ante el que interponerlos y plazo.
+
+Cuando la notificación se practique por medios electrónicos, se entiende rechazada si transcurren diez días naturales desde la puesta a disposición sin que se acceda a su contenido, salvo que de oficio o a instancia del destinatario se compruebe imposibilidad técnica o material de acceso.
+
 La notificación defectuosa puede surtir efecto desde la fecha en que el interesado realice actuaciones que supongan conocimiento del contenido y alcance del acto, o interponga el recurso procedente. La publicación sustituye a la notificación en supuestos legalmente previstos, como actos con pluralidad indeterminada de interesados o procedimientos selectivos.
 
 | Debe contener la notificación | Finalidad |
@@ -92,6 +96,13 @@ La notificación defectuosa puede surtir efecto desde la fecha en que el interes
 | Órgano ante el que recurrir | Dirigir correctamente el recurso. |
 | Plazo de recurso | Computar la reacción del interesado. |
 
+| Supuesto de publicación | Ejemplo |
+|---|---|
+| Interesados desconocidos | No puede identificarse a quienes afecta el acto. |
+| Lugar de notificación ignorado | La Administración no conoce domicilio o medio válido. |
+| Notificación intentada sin éxito | Se acude al BOE en los términos de la Ley 39/2015. |
+| Actos con pluralidad indeterminada | Convocatorias, anuncios o procedimientos con destinatarios amplios. |
+
 Una notificación mal hecha puede no impedir que el acto exista, pero si puede afectar a su eficacia frente al interesado y al inicio de plazos.
 
 ## Eficacia y validez
@@ -101,6 +112,8 @@ Los actos administrativos se presumen validos y producen efectos desde la fecha 
 La validez exige conformidad con el ordenamiento jurídico. La Ley 39/2015 distingue nulidad de pleno derecho y anulabilidad. Son nulos, entre otros, los actos que lesionen derechos fundamentales, los dictados por órgano manifiestamente incompetente por materia o territorio, los de contenido imposible, los constitutivos de infracción penal, los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido, y los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos careciendo de requisitos esenciales.
 
 Son anulables los actos que incurran en cualquier infracción del ordenamiento, incluida desviación de poder, salvo que la infracción determine nulidad. Los defectos de forma solo determinan anulabilidad cuando el acto carezca de requisitos indispensables para alcanzar su fin o produzca indefensión.
+
+Si el acto se dicta verbalmente, la constancia escrita, cuando sea necesaria, la efectuará y firmará el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación la autoridad de la que procede. Si se trata de resoluciones, el titular de la competencia debe autorizar una relación de las dictadas verbalmente con expresión de su contenido.
 
 | Categoria | Gravedad | Ejemplo |
 | --- | --- | --- |

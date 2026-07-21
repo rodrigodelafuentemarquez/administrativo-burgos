@@ -31,6 +31,8 @@ El procedimiento se rige por legalidad, eficacia, celeridad, economía, transpar
 
 La obligación de resolver es esencial. La Administración debe dictar resolución expresa y notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación. El silencio administrativo opera como técnica para evitar que la inactividad administrativa perjudique indefinidamente al interesado, aunque no elimina la obligación de resolver.
 
+Cuando las normas reguladoras del procedimiento no fijen el plazo máximo para resolver, este será de tres meses. En los procedimientos iniciados a solicitud del interesado, el silencio es estimatorio como regla general, salvo excepciones legales. En los recursos administrativos, el silencio es desestimatorio como regla general, con la excepción clásica del recurso de alzada interpuesto contra la desestimación presunta de una solicitud, cuando no se refiera a materias exceptuadas.
+
 Los interesados tienen derecho a conocer el estado de tramitación, acceder al expediente, formular alegaciones, aportar documentos, no presentar documentos que ya obren en poder de la Administración, obtener copia, identificar al personal responsable y actuar asistidos de asesor cuando lo consideren conveniente.
 
 | Principio o garantía | Contenido |
@@ -40,6 +42,14 @@ Los interesados tienen derecho a conocer el estado de tramitación, acceder al e
 | Contradicción y audiencia | El interesado puede alegar y defenderse. |
 | Transparencia | Derecho a conocer el estado del expediente. |
 | Obligación de resolver | Debe existir resolución expresa y notificación. |
+
+| Plazo o efecto | Regla de examen |
+|---|---|
+| Plazo supletorio para resolver | Tres meses. |
+| Subsanación de solicitud | Diez días, ampliables prudencialmente hasta cinco días más salvo procedimientos selectivos o de concurrencia competitiva. |
+| Trámites de interesados | Diez días desde la notificación si la norma no fija otro plazo. |
+| Tramitación de urgencia | Reduce plazos a la mitad, salvo presentación de solicitudes y recursos. |
+| Caducidad por paralización imputable al interesado | Advertencia y paralización superior a tres meses. |
 
 ### Derechos tipicos del interesado
 
@@ -96,9 +106,13 @@ Los interesados pueden formular alegaciones y aportar documentos en cualquier mo
 
 Los informes pueden ser preceptivos o facultativos, vinculantes o no vinculantes. Salvo disposición expresa, son facultativos y no vinculantes. La falta de emisión de informes puede tener consecuencias distintas según su naturaleza.
 
+Los informes se emitirán por medios electrónicos y en el plazo de diez días, salvo que una disposición o el cumplimiento del resto de plazos permita o exija otro plazo. Si un informe preceptivo no se emite en plazo, se pueden proseguir las actuaciones salvo que sea determinante para resolver, en cuyo caso puede suspenderse el plazo máximo.
+
 El trámite de audiencia se concede instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución, para que los interesados aleguen y presenten documentos. Puede prescindirse de audiencia cuando no figuren ni sean tenidos en cuenta otros hechos ni alegaciones que los aducidos por el interesado.
 
 La información pública permite que cualquier persona examine el expediente o parte de el y formule alegaciones cuando la naturaleza del procedimiento lo requiera.
+
+El periodo de prueba no puede ser superior a treinta días ni inferior a diez. El trámite de audiencia se concede por plazo no inferior a diez días ni superior a quince. Las actuaciones complementarias indispensables para resolver deben practicarse en un plazo no superior a quince días.
 
 | Actuaciones de instrucción | Función |
 |---|---|
@@ -107,6 +121,13 @@ La información pública permite que cualquier persona examine el expediente o p
 | Informes | Aportan juicio técnico o jurídico. |
 | Audiencia | Última defensa antes de la propuesta de resolución. |
 | Información pública | Participación de terceros o del público cuando proceda. |
+
+| Actuación de instrucción | Plazo clave |
+|---|---|
+| Informes | Diez días salvo previsión distinta. |
+| Prueba | Entre diez y treinta días. |
+| Audiencia | Entre diez y quince días. |
+| Actuaciones complementarias | Máximo quince días. |
 
 ### Regla muy útil para examen
 
@@ -122,6 +143,8 @@ La resolución debe decidir todas las cuestiones planteadas por los interesados 
 El desistimiento supone abandono de la solicitud o procedimiento por el interesado. La renuncia implica abandono del derecho, si es renunciable. La caducidad opera en procedimientos iniciados a solicitud cuando se paralizan por causa imputable al interesado, o en procedimientos iniciados de oficio susceptibles de producir efectos desfavorables cuando vence el plazo máximo sin resolver.
 
 La terminación convencional permite acuerdos, pactos, convenios o contratos cuando no sean contrarios al ordenamiento ni versen sobre materias no susceptibles de transacción.
+
+La imposibilidad material de continuar el procedimiento por causas sobrevenidas produce la terminación del procedimiento. La resolución que la declare debe estar motivada.
 
 | Forma de finalización | Significado |
 |---|---|
@@ -144,3 +167,5 @@ El apremio se usa para deudas liquidas. La ejecución subsidiaria procede cuando
 | Ejecución subsidiaria | Actos no personalisimos realizables por tercero. |
 | Multa coercitiva | Presionar para el cumplimiento cuando lo autoriza la ley. |
 | Compulsión sobre las personas | Solo en supuestos legales y con respeto a derechos fundamentales. |
+
+El expediente administrativo se forma por la agregación ordenada de documentos, pruebas, dictámenes, informes, acuerdos, notificaciones y demás diligencias. No forman parte del expediente la información auxiliar o de apoyo, como notas, borradores, opiniones, resúmenes, comunicaciones internas o juicios de valor, salvo que se trate de informes preceptivos y facultativos solicitados antes de la resolución administrativa que ponga fin al procedimiento.

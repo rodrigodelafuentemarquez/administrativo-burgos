@@ -24,6 +24,10 @@ Las fuentes del Derecho son los modos de producción de normas jurídicas. En el
 | Principios generales | Interpretan, integran y controlan la actividad administrativa. |
 | Costumbre | Papel reducido por el principio de legalidad. |
 
+El artículo 1.1 del Código Civil formula las fuentes del ordenamiento jurídico español como `la ley, la costumbre y los principios generales del Derecho`. En Derecho Administrativo esa lista debe leerse con cautela: la costumbre solo tiene función muy limitada, porque la Administración no puede crear potestades por práctica repetida.
+
+La entrada en vigor de las leyes también aparece en test. Si la ley no dispone otra cosa, entra en vigor a los veinte días de su completa publicación en el BOE. Ese periodo entre publicación y entrada en vigor se denomina `vacatio legis`; puede ser más largo, más corto o no existir si la norma así lo establece.
+
 ## Jerarquia normativa
 
 La jerarquía normativa significa que las normas inferiores no pueden contradecir a las superiores. La Constitución ocupa la posición suprema. Por debajo se situan el Derecho de la Unión Europea en los términos derivados de sus principios de primacia y aplicación, los tratados internacionales validamente celebrados y publicados, las leyes y normas con rango de ley, y los reglamentos.
@@ -81,6 +85,13 @@ Las comunidades autónomas pueden tener instituciones equivalentes en sus Estatu
 | Decreto legislativo | Delegación previa de las Cortes al Gobierno. |
 | Limite común | Tienen rango de ley, pero no son una ley parlamentaria ordinaria. |
 
+| Dato de examen | Regla |
+|---|---|
+| Decreto-ley | Extraordinaria y urgente necesidad. |
+| Control del decreto-ley | Debate y votación de totalidad en el Congreso en el plazo de treinta días desde su promulgación. |
+| Decreto legislativo para texto articulado | La delegación se otorga mediante ley de bases. |
+| Decreto legislativo para texto refundido | La delegación se otorga mediante ley ordinaria. |
+
 ### Diferencias que conviene fijar
 
 1. El `decreto-ley` nace por urgencia.
@@ -103,6 +114,8 @@ El reglamento es una norma jurídica de rango inferior a la ley dictada por una 
 Los reglamentos pueden clasificarse por su origen en estatales, autonómicos y locales. Por su relación con la ley pueden ser ejecutivos, cuando desarrollan una ley; independientes, cuando regulan materias no reservadas a ley; y de necesidad, en supuestos excepcionales y con fuertes límites. Por su contenido pueden ser organizativos, si ordenan la estructura interna de la Administración, o normativos externos, si afectan a ciudadanos.
 
 Los límites del reglamento son esenciales. No puede vulnerar la Constitución ni la ley, regular materias reservadas a ley, establecer delitos o penas, crear tributos fuera de habilitación legal, imponer obligaciones sin cobertura suficiente ni actuar retroactivamente en perjuicio de derechos. Los tribunales controlan la potestad reglamentaria y pueden declarar la nulidad de reglamentos ilegales.
+
+La Ley 39/2015 recuerda que los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución ni las leyes, regular materias reservadas a ley, tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, ni tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.
 
 | Reglamento | Idea clave |
 |---|---|

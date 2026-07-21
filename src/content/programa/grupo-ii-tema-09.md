@@ -16,6 +16,8 @@ Los bienes de las entidades locales son el conjunto de bienes, derechos y accion
 
 La gestión patrimonial local exige inventario, defensa, conservación, aprovechamiento eficiente y respeto a los fines públicos. Un Ayuntamiento no administra sus bienes como un particular; debe someterse a procedimientos, controles y principios de interés público.
 
+El inventario de bienes es obligatorio y debe reflejar los bienes, derechos y acciones de la entidad local, con datos suficientes para su identificación, naturaleza, situación jurídica, destino, valoración y cargas. Sirve para proteger el patrimonio, rendir cuentas y tramitar correctamente afectaciones, cesiones, enajenaciones o recuperaciones.
+
 ## Clases
 
 Los bienes locales se clasifican en bienes de dominio público y bienes patrimoniales. Los de dominio público están afectados a uso público o servicio público, o tienen tal carácter por ley. Los patrimoniales no están destinados directamente a uso o servicio público y pueden producir rendimientos.
@@ -66,6 +68,8 @@ Las entidades locales disponen de prerrogativas para defender sus bienes: invest
 | Recuperación de oficio | Recuperar posesión indebidamente perdida. |
 | Desahucio administrativo | Recuperar bienes ocupados por título extinguido o insuficiente. |
 
+La recuperación de oficio de bienes de dominio público puede ejercerse en cualquier momento. En bienes patrimoniales, la recuperación de oficio debe ejercitarse dentro del plazo de un año desde la usurpación; pasado ese plazo, la entidad local debe acudir a la jurisdicción ordinaria.
+
 ## Bienes patrimoniales
 
 Los bienes patrimoniales pertenecen a la entidad local pero no están afectados a uso o servicio público. Pueden ser solares, locales, viviendas, derechos de crédito, acciones, participaciones o fincas no destinadas directamente a servicio público.
@@ -77,6 +81,8 @@ Aunque su régimen es más cercano al Derecho privado, su gestión sigue sometid
 La enajenación de bienes patrimoniales exige procedimiento. Deben justificarse oportunidad, valoración técnica, competencia del órgano, depuración física y jurídica del bien, publicidad y, como regla general, licitación.
 
 La venta directa solo procede en supuestos tasados. La finalidad es evitar arbitrariedad, garantizar concurrencia y proteger el patrimonio público. Los bienes de dominio público solo pueden enajenarse si previamente se desafectan, convirtiendose en patrimoniales.
+
+La permuta es posible cuando resulte conveniente para el interés público y se justifique la equivalencia de valores. En régimen local se estudia como dato típico que la diferencia de valor entre los bienes a permutar no debe exceder del 40% del que tenga valor superior, salvo previsión aplicable.
 
 ## Cesión y utilización
 

@@ -44,7 +44,7 @@ El reglamento orgánico tiene especial importancia porque adapta la organizació
 
 El procedimiento general de aprobación de ordenanzas y reglamentos locales incluye aprobación inicial por el Pleno, información pública y audiencia a interesados por plazo mínimo legal, resolución de reclamaciones y sugerencias, y aprobación definitiva. Si no se presentan reclamaciones, el acuerdo inicial puede entenderse definitivo.
 
-Despues debe publicarse el texto íntegro en el Boletín Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
+El plazo mínimo de información pública y audiencia a interesados es de treinta días. Despues debe publicarse el texto íntegro en el Boletín Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
 
 Antes de la aprobación pueden realizarse consultas, informes jurídicos, informes económicos, memoria de impacto, evaluación normativa y otros trámites según materia. En ordenanzas fiscales se aplican reglas específicas de la Ley de Haciendas Locales.
 
@@ -53,7 +53,7 @@ Antes de la aprobación pueden realizarse consultas, informes jurídicos, inform
 | Preparación | Definir necesidad, competencia, objetivos, alternativas e impactos. |
 | Informes | Asegurar legalidad, viabilidad económica y coherencia técnica. |
 | Aprobación inicial | El Pleno abre formalmente la tramitación. |
-| Información pública y audiencia | Permite reclamaciones, sugerencias y participación. |
+| Información pública y audiencia | Permite reclamaciones, sugerencias y participación durante al menos treinta días. |
 | Resolución de alegaciones | El Ayuntamiento acepta o rechaza motivadamente las aportaciones. |
 | Aprobación definitiva | Fija el texto final. |
 | Publicación integra | Da publicidad oficial y permite entrada en vigor. |
@@ -63,6 +63,8 @@ El expediente normativo debe permitir reconstruir por que se aprueba la norma. U
 ## Ordenanzas fiscales
 
 Las ordenanzas fiscales tienen procedimiento propio. Deben aprobarse provisionalmente por el Pleno, exponerse al público, resolver reclamaciones y aprobarse definitivamente. Regulan elementos necesarios de cada tributo dentro de la ley: hecho imponible, sujetos, beneficios, cuota, devengo, gestión y obligaciones formales cuando proceda.
+
+En municipios de gran población, la Junta de Gobierno Local aprueba los proyectos de ordenanzas y reglamentos, incluidos los orgánicos, y el Pleno aprueba las ordenanzas y reglamentos. El Reglamento Orgánico de la Corporación exige mayoría absoluta del número legal de miembros.
 
 Su importancia en un Ayuntamiento es enorme porque habilitan la aplicación de tasas, impuestos potestativos y contribuciones especiales. Sin ordenanza fiscal valida, determinados ingresos no pueden exigirse.
 
@@ -98,5 +100,14 @@ En situaciones de urgencia o riesgo, el Alcalde puede dictar bandos para adoptar
 | Reglamento orgánico | Pleno | Organización y funcionamiento municipal. |
 | Ordenanza fiscal | Pleno | Regulación tributaria local dentro de la ley. |
 | Bando | Alcaldía | Comunicación, recordatorio o medida ejecutiva dentro de competencias. |
+
+| Pregunta típica | Respuesta |
+|---|---|
+| Aprobación inicial de ordenanza | Pleno. |
+| Información pública mínima | Treinta días. |
+| Si no hay reclamaciones | El acuerdo inicial se entiende definitivamente aprobado. |
+| Si hay reclamaciones | El Pleno las resuelve y aprueba definitivamente. |
+| Publicación | Texto íntegro en el Boletín Oficial de la Provincia. |
+| Impugnación de ordenanza definitiva | Jurisdicción contencioso-administrativa. |
 
 La diferencia práctica es clara: si se quiere regular de forma estable una materia municipal, se aprueba ordenanza o reglamento. Si se quiere comunicar una medida concreta, recordar obligaciones o actuar en una situación puntual dentro de competencias de Alcaldía, puede usarse bando. El bando no debe utilizarse para evitar el procedimiento plenario.

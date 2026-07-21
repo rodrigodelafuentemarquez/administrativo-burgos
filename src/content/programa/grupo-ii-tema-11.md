@@ -66,6 +66,10 @@ Debe indicar lugar, fecha, hora y orden del día. En órganos locales, la docume
 
 Las sesiones pueden ser ordinarias, extraordinarias y extraordinarias urgentes. Las ordinarias se celebran con periodicidad establecida. Las extraordinarias responden a asuntos concretos. Las urgentes requieren ratificación de urgencia cuando proceda.
 
+En el Pleno local, la convocatoria de las sesiones ordinarias y extraordinarias debe realizarse, como regla general, con al menos dos días hábiles de antelación. Las sesiones extraordinarias urgentes pueden convocarse sin esa antelación, pero el Pleno debe ratificar la urgencia como primer punto.
+
+La convocatoria de sesión extraordinaria del Pleno puede ser solicitada por la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente.
+
 ## Orden del día
 
 El orden del día enumera los asuntos que van a tratarse. Es una garantía para miembros y ciudadanos, porque permite conocer el contenido de la sesión. Cómo regla general, no pueden adoptarse acuerdos sobre asuntos no incluidos, salvo supuestos de urgencia y con los requisitos legales.
@@ -99,8 +103,18 @@ El voto puede ser afirmativo, negativo o abstención. En órganos locales, el se
 | Mayoría cualificada | Proporción reforzada prevista por ley. | Supuestos especialmente relevantes si la norma lo exige. |
 | Voto de calidad | Decide empate cuando procede. | Órganos en los que la presidencia tiene voto dirimente. |
 
+En el Pleno de las entidades locales, el voto es personal e indelegable. Los empates se resuelven mediante nueva votación y, si persiste el empate, decide el voto de calidad del Presidente.
+
 ## Actas y certificaciones
 
 El Secretario levanta acta de cada sesión. El acta recoge asistentes, orden del día, lugar y hora, incidencias, acuerdos, votaciones y otros extremos. Una vez aprobada, acredita formalmente lo ocurrido.
 
 Las certificaciones de acuerdos permiten hacer valer el contenido de acuerdos ante unidades administrativas, interesados u otras Administraciones. En el trabajo administrativo local, preparar expedientes para órganos colegiados y ejecutar acuerdos es una función diaria.
+
+| Dato de órgano colegiado local | Regla |
+|---|---|
+| Antelación de convocatoria ordinaria o extraordinaria | Dos días hábiles, salvo urgencia. |
+| Quórum del Pleno | Un tercio del número legal de miembros, nunca inferior a tres. |
+| Presencias necesarias | Presidente y Secretario o sustitutos legales. |
+| Voto delegado | No cabe en el Pleno local como regla general. |
+| Certificaciones | Las expide Secretaría con visto bueno de la Presidencia. |

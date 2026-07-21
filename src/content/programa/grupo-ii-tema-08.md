@@ -93,7 +93,19 @@ La instrucción incorpora alegaciones, pruebas, informes y propuesta de resoluci
 
 La resolución debe ser motivada y decidir todas las cuestiones planteadas. No puede aceptar hechos distintos de los determinados en instrucción salvo actuaciones complementarias. Debe indicar recursos.
 
+El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, cuando en la instrucción se ponga de manifiesto que no existen hechos que puedan constituir infracción, que los hechos no resultan acreditados, que no constituyen infracción administrativa, que no existe o no se ha podido identificar a la persona responsable, o que la infracción ha prescrito.
+
+Cuando la sanción tenga únicamente carácter pecuniario, el reconocimiento de responsabilidad y el pago voluntario anterior a la resolución pueden llevar aparejadas reducciones acumulables de al menos el 20% cada una, en los términos del artículo 85 de la Ley 39/2015. La efectividad de esas reducciones queda condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+
 Las medidas provisionales pueden adoptarse para asegurar la eficacia de la resolución final, evitar el mantenimiento de efectos de la infracción o proteger intereses generales. Deben estar previstas legalmente, ser proporcionales, motivarse y no causar perjuicios de imposible o difícil reparación. No son sanciones anticipadas.
+
+| Dato de procedimiento sancionador | Regla |
+|---|---|
+| Inicio | Siempre de oficio. |
+| Separación instructor/resolutor | Refuerza imparcialidad. |
+| Resolución | Debe pronunciarse sobre hechos, persona responsable, infracción y sanción. |
+| Reducciones por reconocimiento y pago | Al menos 20% cada una, acumulables si proceden. |
+| Reincidencia | Requiere más de una infracción de la misma naturaleza declarada por resolución firme en vía administrativa. |
 
 ## Medidas sancionadoras administrativas
 

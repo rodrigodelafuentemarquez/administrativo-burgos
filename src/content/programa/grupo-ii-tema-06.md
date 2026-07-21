@@ -68,7 +68,7 @@ La reclamación debe identificar al reclamante, daño sufrido, relación causal,
 
 La Ley 39/2015 regula especialidades de procedimientos de responsabilidad patrimonial. Es preceptivo solicitar informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión. Cuando las indemnizaciones superen cuantias o concurran supuestos previstos, puede ser necesario dictamen del Consejo de Estado u órgano consultivo autonómico.
 
-El plazo máximo para resolver suele ser de seis meses. Transcurrido sin resolución, la solicitud puede entenderse desestimada por silencio, permitiendo acudir a la vía contencioso-administrativa.
+El plazo máximo para resolver suele ser de seis meses. Transcurrido sin resolución, la solicitud puede entenderse desestimada por silencio, permitiendo acudir a la vía contencioso-administrativa. Cuando la indemnización reclamada sea igual o superior a 50.000 euros, o a la cuantía que establezca la normativa autonómica correspondiente, durante la instrucción debe solicitarse dictamen del Consejo de Estado u órgano consultivo autonómico equivalente.
 
 La resolución debe pronunciarse sobre existencia de relación causal, valoración del daño, cuantía y modo de indemnización. La indemnización puede abonarse en dinero o sustituirse por compensación en especie o pagos periodicos si procede y hay acuerdo.
 
@@ -81,9 +81,20 @@ La resolución debe pronunciarse sobre existencia de relación causal, valoraci�
 | Dictamen consultivo | Procede en supuestos y cuantias legalmente previstos. |
 | Resolución | Estima, desestima o fija cuantía indemnizatoria. |
 
+| Dato de procedimiento | Regla |
+|---|---|
+| Plazo para reclamar | Un año. |
+| Daños físicos o psíquicos | El plazo empieza desde curación o determinación de secuelas. |
+| Plazo máximo para resolver | Seis meses. |
+| Silencio | Desestimatorio. |
+| Informe del servicio causante | Preceptivo. |
+| Dictamen consultivo | Igual o superior a 50.000 euros, salvo cuantía autonómica distinta. |
+
 ## Responsabilidad de autoridades y personal
 
 Aunque el ciudadano reclama directamente a la Administración, está debe exigir de oficio responsabilidad a autoridades y personal cuando hayan incurrido en dolo, culpa o negligencia grave, previa instrucción del procedimiento correspondiente.
+
+En los supuestos de responsabilidad por funcionamiento anormal del Tribunal Constitucional en la tramitación de recursos de amparo o cuestiones de inconstitucionalidad, el Consejo de Ministros fija el importe de la indemnización que proceda.
 
 Para exigir esa responsabilidad se valoran resultado daños, intencionalidad, responsabilidad profesional, relación con el daño y gravedad de la conducta. No todo error administrativo genera acción de regreso; se exige dolo o culpa grave.
 

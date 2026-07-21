@@ -51,6 +51,8 @@ Pueden interponerlos los interesados contra resoluciones y actos de trámite cua
 
 La interposición de recurso no suspende automáticamente la ejecución del acto, salvo que una norma disponga lo contrario o el órgano competente acuerde la suspensión por perjuicios de imposible o dificil reparación o impugnación fundada en causa de nulidad.
 
+Si solicitada la suspensión la Administración no resuelve expresamente en el plazo de un mes, la ejecución del acto impugnado queda suspendida. La resolución del recurso debe ser congruente: puede estimar, desestimar o inadmitir, pero no puede agravar la situación inicial del recurrente.
+
 | Recurso | Acto contra el que procede | Órgano que resuelve | Plazo para resolver |
 | --- | --- | --- | --- |
 | Alzada | Actos que no ponen fin a la vía administrativa. | Superior jerarquico. | Tres meses. |
@@ -101,6 +103,13 @@ Es extraordinario porque solo procede frente a actos firmes y por causas cerrada
 | Documentos o testimonios falsos | La falsedad se declara por sentencia firme. |
 | Conducta punible determinante | Prevaricación, cohecho, violencia u otra conducta declarada por sentencia firme. |
 
+| Causa | Plazo de interposición |
+|---|---|
+| Error de hecho que resulte de documentos del expediente | Cuatro años desde la notificación de la resolución. |
+| Aparición de documentos esenciales | Tres meses desde el conocimiento de los documentos. |
+| Documentos o testimonios declarados falsos | Tres meses desde que la sentencia judicial quede firme. |
+| Conducta punible determinante | Tres meses desde que la sentencia judicial quede firme. |
+
 Este recurso es una vía excepcional. Si lo que se discute es una interpretación jurídica normal, la vía correcta habria sido alzada, reposición o contencioso, no revisión extraordinaria.
 
 ## Jurisdicción contencioso-administrativa
@@ -110,6 +119,8 @@ La jurisdicción contencioso-administrativa controla la legalidad de la actuaci�
 Su naturaleza es jurisdiccional, no administrativa. La decisión corresponde a jueces y tribunales independientes. Su función es garantizar que la Administración actue conforme a Derecho y proteger derechos e intereses legitimos.
 
 Puede impugnarse la actuación de Administraciones territoriales, entidades públicas, órganos constitucionales en materia de personal, administración y gestión patrimonial, y otros sujetos cuando ejercen potestades administrativas. Para el Ayuntamiento, esta jurisdicción es el cauce normal de control judicial de acuerdos, resoluciones, ordenanzas, sanciones, tributos, responsabilidad patrimonial y contratación en los términos legales.
+
+Los plazos ordinarios son dos meses para actos expresos y disposiciones generales, y seis meses para actos presuntos por silencio administrativo. Los actos de las entidades locales suelen corresponder en primera instancia a los Juzgados de lo Contencioso-Administrativo, sin perjuicio de las reglas concretas de competencia. Los actos de Ministros y Secretarios de Estado se conectan normalmente con la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
 
 En el ámbito municipal suelen acabar en esta jurisdicción:
 
@@ -123,3 +134,11 @@ En el ámbito municipal suelen acabar en esta jurisdicción:
 - personal al servicio de la Administración.
 
 <mark>Resumen operativo:</mark> primero se identifica si procede recurso administrativo; después, si la vía administrativa está agotada, se abre la posibilidad de acudir a la jurisdicción contencioso-administrativa dentro de plazo.
+
+| Dato contencioso | Regla |
+|---|---|
+| Acto expreso | Plazo ordinario de dos meses. |
+| Acto presunto | Plazo ordinario de seis meses. |
+| Disposición general | Plazo ordinario de dos meses desde publicación. |
+| Materias excluidas | Orden jurisdiccional civil, penal y social, aunque se relacionen con Administración, salvo atribución legal expresa. |
+| Ejecución de sentencias firmes | Obliga a todas las personas y entidades afectadas. |

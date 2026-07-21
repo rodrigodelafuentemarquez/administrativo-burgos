@@ -48,11 +48,15 @@ En un lado está el órgano de contratación. En entidades locales puede ser el 
 
 En el otro lado está el contratista. Debe tener capacidad de obrar, no estar incurso en prohibición de contratar, acreditar solvencia económica, financiera, técnica o profesional, y contar con habilitación empresarial o profesional cuando proceda. En determinados contratos se exige clasificación.
 
+En los Ayuntamientos de municipios de gran población, las competencias como órgano de contratación se ejercen por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, sin perjuicio de las especialidades y delegaciones legalmente previstas.
+
 ## Expediente de contratación
 
 Todo contrato requiere expediente. Debe justificarse necesidad e idoneidad, objeto, presupuesto base de licitación, valor estimado, existencia de crédito, procedimiento, criterios de adjudicación, solvencia, pliegos y fiscalización cuando proceda.
 
 Los pliegos son piezas esenciales. El pliego de clausulas administrativas particulares regula condiciones jurídicas, procedimiento, derechos y obligaciones. El pliego de prescripciones técnicas define carácterísticas técnicas de la prestación. No pueden contener exigencias discriminatorias ni orientadas injustificadamente a un operador concreto.
+
+El presupuesto base de licitación es el límite máximo de gasto que puede comprometer el órgano de contratación, incluido el IVA. El valor estimado del contrato se calcula sin IVA e incorpora prórrogas, modificaciones previstas, opciones y otros conceptos legalmente relevantes. Esta diferencia es básica para umbrales, procedimiento y publicidad.
 
 | Pieza del expediente | Función |
 | --- | --- |
@@ -82,11 +86,22 @@ El contrato menor permite tramitar contratos de pequeña cuantía con expediente
 | Negociado | Negociación en supuestos tasados. | Solo cuando la ley lo permite. |
 | Contrato menor | Expediente mínimo y límites cuantitativos. | Necesidades puntuales, sin fraccionamiento. |
 
+| Dato de contratación | Regla general |
+|---|---|
+| Contrato menor de obras | Valor estimado inferior a 40.000 euros. |
+| Contrato menor de suministros y servicios | Valor estimado inferior a 15.000 euros. |
+| Procedimiento abierto | Puede presentar oferta cualquier empresario interesado. |
+| Procedimiento restringido | Solo presentan proposición quienes hayan sido seleccionados tras solicitar participar. |
+| Garantía definitiva | 5% del precio final ofertado, excluido IVA, salvo especialidades. |
+| Duración ordinaria de servicios de prestación sucesiva | Máximo cinco años, incluidas prórrogas, salvo excepciones legales. |
+
 ## Efectos, cumplimiento y extinción
 
 Los contratos obligan a las partes según pliegos, oferta y documento contractual. La Administración conserva prerrogativas como interpretar contratos, resolver dudas, modificarlos por razones de interés público, declarar responsabilidad del contratista, suspender ejecución y acordar resolución, siempre con límites y procedimiento.
 
-El cumplimiento normal se produce por realización de la prestación y recepción o conformidad. La extinción puede producirse por cumplimiento o resolución. Son causas de resolución, entre otras, muerte o incapacidad del contratista individual, extinción de personalidad, declaración de concurso en determinados casos, demora, incumplimiento esencial, imposibilidad de ejecutar la prestación o mutuo acuerdo cuando proceda.
+El cumplimiento normal se produce por realización de la prestación y recepción o conformidad. En el contrato de obras, salvo que el pliego establezca otro mayor, el plazo de garantía no puede ser inferior a un año. La extinción puede producirse por cumplimiento o resolución. Son causas de resolución, entre otras, muerte o incapacidad del contratista individual, extinción de personalidad, declaración de concurso en determinados casos, demora, incumplimiento esencial, imposibilidad de ejecutar la prestación o mutuo acuerdo cuando proceda.
+
+El principio de riesgo y ventura significa que el contratista asume el riesgo económico ordinario de la ejecución del contrato, sin perjuicio de los supuestos legales de restablecimiento del equilibrio o fuerza mayor cuando proceda.
 
 ## Revisión de precios y modificaciones
 
@@ -99,6 +114,8 @@ La modificación contractual está fuertemente limitada. Puede estar prevista en
 Los contratos pueden ser invalidos por causas de nulidad o anulabilidad de Derecho Administrativo o por infracciones contractuales específicas. La invalidez puede afectar a preparación, adjudicación o formalización.
 
 El recurso especial en materia de contratación procede frente a determinados actos y contratos sujetos a umbrales y condiciones legales. Es un recurso rapido y especializado. En otros casos proceden recursos administrativos ordinarios o la jurisdicción contencioso-administrativa.
+
+En contratos de servicios sociales y otros servicios específicos del anexo IV, el umbral de regulación armonizada es más elevado que en el resto de servicios: 750.000 euros. Para licitaciones municipales, conviene revisar siempre el umbral vigente en la LCSP antes del examen, porque los importes pueden actualizarse por normas europeas.
 
 Son actos típicamente recurribles mediante recurso especial, cuando concurren los requisitos legales, los anuncios de licitación, pliegos, documentos contractuales que establezcan condiciones de la licitación, actos de trámite cualificados, acuerdos de adjudicación, modificaciones basadas en incumplimiento de requisitos legales y determinados encargos a medios propios. Su interposición puede producir efectos suspensivos en los casos previstos, especialmente frente a la adjudicación.
 

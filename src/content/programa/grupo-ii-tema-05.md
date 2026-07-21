@@ -16,6 +16,8 @@ La Ley 40/2015 regula el sector público en sentido amplio. Incluye la Administr
 
 No todo el sector público actúa siempre con el mismo régimen jurídico. Las Administraciones Públicas territoriales actuan normalmente con sujeción al Derecho Administrativo. Algunas entidades instrumentales pueden actuar en parte con Derecho privado, pero quedan sometidas a principios públicos cuando ejercen potestades administrativas, gestionan fondos públicos, contratan, seleccionan personal o prestan servicios de interés general.
 
+El Título preliminar de la Ley 40/2015 regula las disposiciones generales, principios de actuación y funcionamiento del sector público. Dentro de el, el Capítulo II se dedica a los órganos de las Administraciones Públicas.
+
 ## Principios de actuación y funcionamiento
 
 Las Administraciones Públicas sirven con objetividad los intereses generales y actuan conforme a principios de eficacia, eficiencia, jerarquía, descentralización, desconcentración, coordinación, cooperación, transparencia, buena fe, confianza legitima, responsabilidad, planificación y servicio efectivo a los ciudadanos.
@@ -49,6 +51,8 @@ Los órganos colegiados se rigen por reglas de convocatoria, constitución, deli
 
 Para constituirse validamente se exige presencia de Presidente y Secretario, o quienes les sustituyan, y quorum de miembros. Las reglas concretas dependen de la normativa aplicable. En órganos locales hay especialidades por la Ley de Bases y el ROF.
 
+En el régimen general de la Ley 40/2015, salvo previsión específica, para la válida constitución del órgano colegiado se requiere la asistencia, presencial o a distancia, del Presidente y Secretario o quienes les sustituyan, y la de la mitad al menos de sus miembros. Salvo urgencia, la convocatoria debe remitirse con una antelación mínima de dos días.
+
 Las actas documentan asistentes, orden del día, circunstancias de lugar y tiempo, deliberaciones esenciales si proceden, acuerdos adoptados y resultado de votaciones. El acta es fundamental para acreditar la voluntad del órgano.
 
 | Pieza del órgano colegiado | Función |
@@ -75,6 +79,8 @@ La competencia puede atribuirse por materia, territorio y jerarquía. Un acto di
 
 La competencia es <mark>irrenunciable</mark>. Lo que permiten ciertas técnicas es alterar el ejercicio, la firma o la gestión material, pero no renunciar a la titularidad fuera de la ley.
 
+La abstención y la recusación protegen la imparcialidad. La autoridad o empleado debe abstenerse cuando concurra causa legal, como interés personal, parentesco, amistad íntima o enemistad manifiesta, relación de servicio con persona interesada o intervención previa como perito o testigo. La no abstención cuando proceda puede generar responsabilidad.
+
 ## Desconcentración
 
 La desconcentración atribuye competencias de órganos superiores a órganos inferiores dentro de la misma Administración. Tiene carácter estable y se aprueba por norma. Busca acercar decisiones, agilizar gestión y descargar órganos superiores.
@@ -87,7 +93,7 @@ La delegación permite que un órgano encomiende el ejercicio de competencias a 
 
 No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autónomas y asambleas legislativas; adopción de disposiciones generales; resolución de recursos en órganos que dictaron actos; ni materias prohibidas por norma.
 
-Los actos dictados por delegación se consideran dictados por el órgano delegante y deben indicar expresamente esta circunstancia.
+Los actos dictados por delegación se consideran dictados por el órgano delegante y deben indicar expresamente esta circunstancia. Las delegaciones de competencias y su revocación deben publicarse en el boletín oficial correspondiente, según la Administración a la que pertenezca el órgano delegante.
 
 | Tecnica | Altera titularidad? | Alcance |
 | --- | --- | --- |
@@ -105,6 +111,8 @@ La avocación permite que un órgano superior asuma para si el conocimiento de u
 
 La avocación es puntual, referida a un asunto concreto. No altera de forma permanente la distribución de competencias.
 
+Contra el acuerdo de avocación no cabe recurso, aunque puede impugnarse en el recurso que, en su caso, se interponga contra la resolución final del procedimiento.
+
 ## Encomienda de gestión
 
 La encomienda de gestión supone encargar actividades materiales o técnicas a otro órgano o entidad por razones de eficacia o falta de medios idoneos. No transfiere titularidad de competencia ni elementos sustantivos de su ejercicio. El órgano encomendante sigue siendo responsable de dictar actos o resoluciones jurídicas.
@@ -116,3 +124,19 @@ No puede tener por objeto prestaciones propias de contratos del sector público 
 La delegación de firma permite que un titular autorice a otro órgano o unidad dependiente a firmar actos en su nombre. No altera competencia ni requiere publicación, salvo norma específica. En los documentos debe constar la autoridad de procedencia.
 
 La suplencia sustituye temporalmente al titular de un órgano en casos de vacante, ausencia, enfermedad, abstención o recusación. Tampoco altera competencia; solo permite continuidad administrativa.
+
+## Relaciones interadministrativas y convenios
+
+Las Administraciones deben relacionarse conforme a los principios de lealtad institucional, cooperación, colaboración, coordinación, eficiencia, responsabilidad, respeto a competencias propias y ajenas, y servicio efectivo a los ciudadanos.
+
+Las conferencias sectoriales son órganos de cooperación multilateral entre la Administración General del Estado y las Administraciones autonómicas. Los planes y programas conjuntos son instrumentos para coordinar actuaciones cuando varias Administraciones comparten objetivos o competencias relacionadas.
+
+Los convenios administrativos son acuerdos con efectos jurídicos entre Administraciones, organismos públicos o sujetos de Derecho público y privado para un fin común. Su duración ordinaria no puede superar cuatro años, salvo que una norma prevea plazo superior. Antes de finalizar ese plazo, los firmantes pueden acordar una prórroga de hasta cuatro años adicionales o su extinción.
+
+| Figura | Dato de examen |
+|---|---|
+| Conferencia sectorial | Órgano de cooperación entre Administraciones. |
+| Convenio | Duración máxima ordinaria de cuatro años. |
+| Extinción de convenio | Cumplimiento, transcurso del plazo, acuerdo unánime, incumplimiento, decisión judicial u otras causas previstas. |
+| Conflicto Estado-CC.AA. | Puede plantearse ante el Tribunal Constitucional. |
+| Subrogación estatal por incumplimiento local | Artículo 60 LBRL en los supuestos legalmente previstos. |
