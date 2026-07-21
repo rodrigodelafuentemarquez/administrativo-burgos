@@ -3,10 +3,10 @@ tema: 1
 titulo: "La Constitución española de 1978. Características y estructura. Derechos y deberes fundamentales. Garantías y suspensión."
 ---
 
-> **Normativa de referencia:** Constitución Española, aprobada por las Cortes el 31 de octubre de 1978, ratificada en referéndum el 6 de diciembre de 1978, sancionada por S.M. el Rey el 27 de diciembre de 1978 y publicada en el BOE núm. 311, de 29 de diciembre de 1978.
+> Normativa de referencia: Constitución Española, aprobada por las Cortes el 31 de octubre de 1978, ratificada en referéndum el 6 de diciembre de 1978, sancionada por S.M. el Rey el 27 de diciembre de 1978 y publicada en el BOE núm. 311, de 29 de diciembre de 1978.
 >
-> 🔗 **Texto consolidado en el BOE:** https://www.boe.es/eli/es/c/1978/12/27/(1)/con
-> 🔗 **Publicación original BOE:** https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
+> 🔗 Texto consolidado en el BOE: https://www.boe.es/eli/es/c/1978/12/27/(1)/con
+> 🔗 Publicación original BOE: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229
 
 ---
 
@@ -14,7 +14,7 @@ titulo: "La Constitución española de 1978. Características y estructura. Dere
 
 ### 1.1 Concepto y naturaleza
 
-La Constitución es la **norma suprema del ordenamiento jurídico español**. Toda norma, acto o disposición contraria a ella es nula. Vincula a ciudadanos y poderes públicos (art. 9.1 CE).
+La Constitución es la <mark>norma suprema del ordenamiento jurídico español</mark>. Toda norma, acto o disposición contraria a ella es nula. Vincula a ciudadanos y poderes públicos (art. 9.1 CE).
 
 Se denomina **norma normarum**: la norma que regula cómo se crean las demás normas.
 
@@ -26,22 +26,22 @@ La Constitución de 1978 presenta las siguientes carácterísticas esenciales:
 
 | Característica | Explicación |
 |---|---|
-| **Escrita** | Recogida en un texto formal y solemne |
-| **Rígida** | Su reforma exige procedimientos especiales más complejos que los de la ley ordinaria (arts. 167-168 CE) |
-| **Extensa** | 169 artículos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final |
-| **Consensuada** | Fruto del acuerdo político entre fuerzas ideológicas diversas (los "Padres de la Constitución") |
-| **Social y democrática de Derecho** | Proclama un Estado social y democrático de Derecho (art. 1.1 CE) |
-| **Monárquica** | La forma política del Estado es la Monarquía parlamentaria (art. 1.3 CE) |
-| **Normativa** | Es directamente aplicable, no es un programa político sin eficacia jurídica |
+| Escrita | Recogida en un texto formal y solemne |
+| Rígida | Su reforma exige procedimientos especiales más complejos que los de la ley ordinaria (arts. 167-168 CE) |
+| Extensa | 169 artículos, 4 disposiciones adicionales, 9 transitorias, 1 derogatoria y 1 final |
+| Consensuada | Fruto del acuerdo político entre fuerzas ideológicas diversas (los "Padres de la Constitución") |
+| Social y democrática de Derecho | Proclama un Estado social y democrático de Derecho (art. 1.1 CE) |
+| Monárquica | La forma política del Estado es la Monarquía parlamentaria (art. 1.3 CE) |
+| Normativa | Es directamente aplicable, no es un programa político sin eficacia jurídica |
 
-> 💡 **Art. 1.1 CE:** *"España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político."*
+> 💡 Art. 1.1 CE: *"España se constituye en un Estado social y democrático de Derecho, que propugna como valores superiores de su ordenamiento jurídico la libertad, la justicia, la igualdad y el pluralismo político."*
 
-Los **valores superiores** del ordenamiento son cuatro: **libertad, justicia, igualdad y pluralismo político**.
+Los <mark>valores superiores</mark> del ordenamiento son cuatro: <mark>libertad, justicia, igualdad y pluralismo político</mark>.
 
 Los **principios fundamentales** del Estado son:
-- **Estado de Derecho:** sometimiento del poder público a la ley.
-- **Estado democrático:** la soberanía reside en el pueblo español (art. 1.2 CE).
-- **Estado social:** los poderes públicos deben promover condiciones de igualdad real y efectiva (art. 9.2 CE).
+- Estado de Derecho: sometimiento del poder público a la ley.
+- Estado democrático: la soberanía reside en el pueblo español (art. 1.2 CE).
+- Estado social: los poderes públicos deben promover condiciones de igualdad real y efectiva (art. 9.2 CE).
 
 ---
 
@@ -111,7 +111,7 @@ La Constitución se organiza en:
 
 ### 2.1 Artículo 10 CE — Fundamento del orden político
 
-El art. 10.1 CE establece que **la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás** son fundamento del orden político y de la paz social.
+El art. 10.1 CE establece que <mark>la dignidad de la persona, los derechos inviolables que le son inherentes, el libre desarrollo de la personalidad, el respeto a la ley y a los derechos de los demás</mark> son fundamento del orden político y de la paz social.
 
 El art. 10.2 CE dispone que las normas relativas a los derechos fundamentales **se interpretarán de conformidad con la Declaración Universal de Derechos Humanos** y los tratados internacionales ratificados por España.
 
@@ -120,8 +120,8 @@ El art. 10.2 CE dispone que las normas relativas a los derechos fundamentales **
 ### 2.2 Capítulo I — Españoles y extranjeros (arts. 11-13)
 
 - **Nacionalidad** (art. 11): Se adquiere, conserva y pierde conforme a la ley. Los españoles no pueden ser privados de su nacionalidad de origen.
-- **Mayoría de edad** (art. 12): A los **18 años**.
-- **Extranjeros** (art. 13): Gozan en España de las libertades públicas reconocidas en el Título I en los términos que establezcan los tratados y la ley. **Solo los españoles** son titulares de los derechos del art. 23 (sufragio activo y pasivo), **salvo en las elecciones municipales**, donde puede reconocerse a extranjeros por reciprocidad.
+- **Mayoría de edad** (art. 12): A los <mark>18 años</mark>.
+- **Extranjeros** (art. 13): Gozan en España de las libertades públicas reconocidas en el Título I en los términos que establezcan los tratados y la ley. <mark>Solo los españoles</mark> son titulares de los derechos del art. 23 (sufragio activo y pasivo), <mark>salvo en las elecciones municipales</mark>, donde puede reconocerse a extranjeros por reciprocidad.
 
 ---
 
@@ -137,7 +137,7 @@ Los españoles son iguales ante la ley, sin que pueda prevalecer discriminación
 
 #### Sección 1ª — Derechos fundamentales y libertades públicas (arts. 15-29)
 
-Son los derechos de **mayor protección jurídica**. Se recogen en los siguientes artículos:
+Son los derechos de <mark>mayor protección jurídica</mark>. Se recogen en los siguientes artículos:
 
 | Art. | Derecho |
 |---|---|
@@ -179,7 +179,7 @@ Son los derechos de **mayor protección jurídica**. Se recogen en los siguiente
 
 ### 2.4 Capítulo III — Principios rectores de la política social y económica (arts. 39-52)
 
-No son derechos subjetivos directamente exigibles ante los tribunales, sino **mandatos al legislador**. Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
+No son derechos subjetivos directamente exigibles ante los tribunales, sino <mark>mandatos al legislador</mark>. Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen.
 
 Incluyen, entre otros: protección de la familia y la infancia (39), derecho al trabajo (40), salud pública (43), acceso a la cultura (44), medio ambiente (45), patrimonio histórico (46), vivienda digna (47), juventud (48), discapacidad (49), personas mayores (50), defensa de los consumidores (51), organizaciones profesionales (52).
 
@@ -229,7 +229,7 @@ Es el **alto comisionado de las Cortes Generales** designado para la defensa de 
 
 ### 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio
 
-Los derechos reconocidos en los siguientes artículos **pueden ser suspendidos** cuando se declare el **estado de excepción o de sitio** (regulado en el art. 116 CE y en la LO 4/1981):
+Los derechos reconocidos en los siguientes artículos <mark>pueden ser suspendidos</mark> cuando se declare el <mark>estado de excepción o de sitio</mark> (regulado en el art. 116 CE y en la LO 4/1981):
 
 | Art. | Derecho suspendible |
 |---|---|
@@ -242,7 +242,7 @@ Los derechos reconocidos en los siguientes artículos **pueden ser suspendidos**
 | 28.2 | Derecho de huelga |
 | 37.2 | Medidas de conflicto colectivo |
 
-> ⚠️ **No se puede suspender nunca:** el derecho a la vida (art. 15), la prohibición de torturas, la libertad ideológica (art. 16), las garantías penales (art. 25.3), la prohibición de tribunales de honor (art. 26), la tutela judicial efectiva (art. 24) en su contenido esencial, y los derechos reconocidos en los arts. 17.3 (asistencia letrada al detenido) y 24.
+> ⚠️ <mark>No se puede suspender nunca</mark>: el derecho a la vida (art. 15), la prohibición de torturas, la libertad ideológica (art. 16), las garantías penales (art. 25.3), la prohibición de tribunales de honor (art. 26), la tutela judicial efectiva (art. 24) en su contenido esencial, y los derechos reconocidos en los arts. 17.3 (asistencia letrada al detenido) y 24.
 
 ### 4.2 Suspensión individual (art. 55.2 CE) — Terrorismo
 

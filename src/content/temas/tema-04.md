@@ -3,15 +3,15 @@ tema: 4
 titulo: "Las Cortes Generales. Composición, atribuciones y funcionamiento."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española, Título III — De las Cortes Generales (arts. 66-96), texto consolidado en el BOE:**
+> 🔗 Constitución Española, Título III — De las Cortes Generales (arts. 66-96), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Reglamento del Congreso de los Diputados (RCD), BOE núm. 55, de 5 de marzo de 1982:**
+> 🔗 Reglamento del Congreso de los Diputados (RCD), BOE núm. 55, de 5 de marzo de 1982:
 > https://www.boe.es/eli/es/or/1982/02/10/(1)/con
 >
-> 🔗 **Reglamento del Senado (RS), BOE núm. 114, de 13 de mayo de 1994:**
+> 🔗 Reglamento del Senado (RS), BOE núm. 114, de 13 de mayo de 1994:
 > https://www.boe.es/eli/es/or/1994/05/06/(1)/con
 
 ---
@@ -24,7 +24,7 @@ El art. 66 CE define las Cortes Generales con tres notas esenciales:
 
 1. **Representan al pueblo español** (art. 66.1 CE): son la expresión directa de la soberanía popular (art. 1.2 CE). Los diputados y senadores representan a todo el pueblo, no a sus electores particulares (mandato representativo, no imperativo).
 
-2. **Están formadas por el Congreso de los Diputados y el Senado** (art. 66.1 CE): bicameralismo imperfecto o asimétrico, porque el Congreso tiene mayor peso que el Senado en la mayoría de las decisiones.
+2. **Están formadas por el Congreso de los Diputados y el Senado** (art. 66.1 CE): <mark>bicameralismo imperfecto o asimétrico</mark>, porque el Congreso tiene mayor peso que el Senado en la mayoría de las decisiones.
 
 3. **Ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuye la Constitución** (art. 66.2 CE).
 
@@ -42,12 +42,12 @@ Las Cortes Generales son **inviolables**. Ninguna autoridad puede disolver, susp
 
 ### 2.1 Composición (art. 68 CE)
 
-- **Número de diputados:** entre **300 y 400**. La ley electoral (LOREG) fija actualmente **350 diputados**.
-- **Circunscripción electoral:** la **provincia**. Ceuta y Melilla eligen 1 diputado cada una. Las demás provincias eligen un mínimo de 2, distribuyéndose los restantes proporcionalmente a la población.
-- **Sistema electoral:** representación proporcional, método **D'Hondt**, con **barrera electoral del 3%** por circunscripción.
-- **Mandato:** **4 años** o hasta la disolución anticipada.
-- **Sufragio:** universal, libre, igual, directo y secreto.
-- **Elegibles:** españoles mayores de 18 años en pleno disfrute de sus derechos políticos.
+- Número de diputados: entre **300 y 400**. La ley electoral (LOREG) fija actualmente **350 diputados**.
+- Circunscripción electoral: la <mark>provincia</mark>. Ceuta y Melilla eligen <mark>1 diputado</mark> cada una. Las demás provincias eligen un <mark>mínimo de 2</mark>, distribuyéndose los restantes proporcionalmente a la población.
+- Sistema electoral: representación proporcional, método **D'Hondt**, con **barrera electoral del 3%** por circunscripción.
+- Mandato: **4 años** o hasta la disolución anticipada.
+- Sufragio: universal, libre, igual, directo y secreto.
+- Elegibles: españoles mayores de 18 años en pleno disfrute de sus derechos políticos.
 
 ---
 
@@ -69,15 +69,15 @@ Su composición es mixta:
 
 | Tipo de senadores | Forma de elección | Número |
 |---|---|---|
-| **Senadores provinciales** | 4 por provincia peninsular, elegidos directamente por los ciudadanos | 208 |
-| **Senadores insulares** | Cada isla mayor (Gran Canaria, Mallorca, Tenerife) elige 3; las islas menores y agrupaciones, 1 o 2 | Variable |
-| **Senadores de Ceuta y Melilla** | 2 por cada ciudad autónoma | 4 |
-| **Senadores autonómicos** | Designados por las Asambleas legislativas de las CC.AA.: 1 por CC.AA. + 1 más por cada millón de habitantes | Variable |
+| Senadores provinciales | <mark>4 por provincia peninsular</mark>, elegidos directamente por los ciudadanos | 208 |
+| Senadores insulares | Cada isla mayor (Gran Canaria, Mallorca, Tenerife) elige 3; las islas menores y agrupaciones, 1 o 2 | Variable |
+| Senadores de Ceuta y Melilla | 2 por cada ciudad autónoma | 4 |
+| Senadores autonómicos | Designados por las Asambleas legislativas de las CC.AA.: <mark>1 por CC.AA. + 1 más por cada millón de habitantes</mark> | Variable |
 
 > 💡 El número total de senadores varía según la población autonómica. Actualmente son unos **265 senadores** en total.
 
-- **Mandato:** **4 años** (senadores elegidos directamente) o el que corresponda al mandato de la Asamblea autonómica que los designe.
-- **Sistema electoral para senadores provinciales:** voto limitado (en provincias de 4 escaños cada elector vota un máximo de 3 candidatos).
+- Mandato: **4 años** (senadores elegidos directamente) o el que corresponda al mandato de la Asamblea autonómica que los designe.
+- Sistema electoral para senadores provinciales: voto limitado (en provincias de 4 escaños cada elector vota un máximo de 3 candidatos).
 
 ---
 
@@ -85,7 +85,7 @@ Su composición es mixta:
 
 ### 4.1 Inviolabilidad (art. 71.1 CE)
 
-Los diputados y senadores gozan de **inviolabilidad** por las opiniones manifestadas en el ejercicio de sus funciones. Esta prerrogativa es **absoluta e indefinida**: protege al parlamentario incluso después de cesar en su cargo, por actos realizados durante el mismo.
+Los diputados y senadores gozan de **inviolabilidad** por las opiniones manifestadas en el ejercicio de sus funciones. Esta prerrogativa es <mark>absoluta e indefinida</mark>: protege al parlamentario incluso después de cesar en su cargo, por actos realizados durante el mismo.
 
 > ⚠️ La inviolabilidad solo cubre las opiniones y votos emitidos en el ejercicio de las funciones parlamentarias, no cualquier acto de la vida privada del parlamentario.
 
@@ -96,8 +96,8 @@ Los diputados y senadores gozan de **inviolabilidad** por las opiniones manifest
 Durante el período de su mandato, los diputados y senadores gozan también de **inmunidad** y solo podrán ser detenidos en caso de **flagrante delito**. No podrán ser inculpados ni procesados sin la previa autorización de la respectiva Cámara (**suplicatorio**).
 
 > 💡 **Diferencia clave:**
-> - **Inviolabilidad** → protege las opiniones y votos parlamentarios, es permanente.
-> - **Inmunidad** → protege frente a detención y procesamiento penal, solo dura el mandato y puede ser levantada por la Cámara mediante suplicatorio.
+> - Inviolabilidad → protege las opiniones y votos parlamentarios, es permanente.
+> - Inmunidad → protege frente a detención y procesamiento penal, solo dura el mandato y puede ser levantada por la Cámara mediante suplicatorio.
 
 ---
 
@@ -121,7 +121,7 @@ La ley electoral establece el régimen de incompatibilidades de diputados y sena
 
 ### 4.5 Mandato representativo (art. 67.2 CE)
 
-Los miembros de las Cortes Generales **no estarán ligados por mandato imperativo**. Esto significa que votan según su criterio y conciencia, y no pueden ser revocados por sus electores ni por su partido por el modo en que ejercen su función parlamentaria.
+Los miembros de las Cortes Generales <mark>no estarán ligados por mandato imperativo</mark>. Esto significa que votan según su criterio y conciencia, y no pueden ser revocados por sus electores ni por su partido por el modo en que ejercen su función parlamentaria.
 
 ---
 
@@ -133,9 +133,9 @@ Cada Cámara se organiza con los siguientes órganos:
 
 | Órgano | Composición | Funciones |
 |---|---|---|
-| **Mesa** | Presidente + Vicepresidentes + Secretarios | Órgano rector de la Cámara. Dirige los trabajos, califica los escritos y documentos, fija el calendario |
-| **Junta de Portavoces** | Portavoces de los grupos parlamentarios | Fija el orden del día (junto con la Mesa), coordina la actividad de los grupos |
-| **Presidente** | Elegido en sesión constitutiva | Representa a la Cámara, dirige los debates, mantiene el orden |
+| Mesa | Presidente + Vicepresidentes + Secretarios | Órgano rector de la Cámara. Dirige los trabajos, califica los escritos y documentos, fija el calendario |
+| Junta de Portavoces | Portavoces de los grupos parlamentarios | Fija el orden del día (junto con la Mesa), coordina la actividad de los grupos |
+| Presidente | Elegido en sesión constitutiva | Representa a la Cámara, dirige los debates, mantiene el orden |
 
 ---
 
@@ -143,8 +143,8 @@ Cada Cámara se organiza con los siguientes órganos:
 
 Los diputados y senadores se integran en **grupos parlamentarios**. No pueden existir grupos que reproduzcan un partido que no haya alcanzado representación en las elecciones correspondientes.
 
-- En el **Congreso:** mínimo **15 diputados** para formar grupo; excepcionalmente 5, si han obtenido el 15% de los votos en sus circunscripciones o el 5% a nivel nacional.
-- En el **Senado:** mínimo **10 senadores**.
+- En el **Congreso:** mínimo <mark>15 diputados</mark> para formar grupo; excepcionalmente 5, si han obtenido el 15% de los votos en sus circunscripciones o el 5% a nivel nacional.
+- En el **Senado:** mínimo <mark>10 senadores</mark>.
 - Los que no se integran en ningún grupo pasan al **Grupo Mixto**.
 
 ---
@@ -155,10 +155,10 @@ Las comisiones son órganos de trabajo especializados por materias. Pueden ser:
 
 | Tipo | Características |
 |---|---|
-| **Permanentes** | Existen durante toda la legislatura, coinciden con los departamentos ministeriales (Comisión de Hacienda, de Justicia, etc.) |
-| **No permanentes** | Se crean para un objeto concreto y se disuelven cuando lo cumplen: comisiones de investigación, ponencias |
-| **Legislativas plenas** | Pueden aprobar proyectos de ley por delegación del Pleno (salvo reforma constitucional, cuestiones internacionales, leyes orgánicas y Presupuestos) |
-| **Mixtas** (Congreso y Senado) | Se constituyen para resolver discrepancias entre las dos Cámaras o para asuntos que afectan a ambas |
+| Permanentes | Existen durante toda la legislatura, coinciden con los departamentos ministeriales (Comisión de Hacienda, de Justicia, etc.) |
+| No permanentes | Se crean para un objeto concreto y se disuelven cuando lo cumplen: comisiones de investigación, ponencias |
+| Legislativas plenas | Pueden aprobar proyectos de ley por delegación del Pleno (salvo reforma constitucional, cuestiones internacionales, leyes orgánicas y Presupuestos) |
+| Mixtas (Congreso y Senado) | Se constituyen para resolver discrepancias entre las dos Cámaras o para asuntos que afectan a ambas |
 
 ---
 
@@ -173,8 +173,8 @@ Es la reunión de todos los miembros de la Cámara. Es el órgano deliberante po
 ### 6.1 Períodos de sesiones (art. 73 CE)
 
 Las Cámaras se reúnen anualmente en **dos períodos ordinarios de sesiones**:
-- **Primero:** de **septiembre a diciembre**.
-- **Segundo:** de **febrero a junio**.
+- Primero: de **septiembre a diciembre**.
+- Segundo: de **febrero a junio**.
 
 Fuera de estos períodos pueden reunirse en **sesiones extraordinarias**, convocadas a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras. Las sesiones extraordinarias deben convocarse sobre un orden del día determinado y se clausuran una vez agotado.
 
@@ -190,17 +190,17 @@ Fuera de estos períodos pueden reunirse en **sesiones extraordinarias**, convoc
 
 ### 6.3 Quórum y mayorías (art. 79 CE)
 
-- Para adoptar acuerdos, las Cámaras deben estar reunidas con la **asistencia de la mayoría de sus miembros** (quórum de asistencia).
-- Los acuerdos se adoptan por **mayoría de los votos emitidos** (mayoría simple), salvo que la CE exija una mayoría especial.
+- Para adoptar acuerdos, las Cámaras deben estar reunidas con la <mark>asistencia de la mayoría de sus miembros</mark> (quórum de asistencia).
+- Los acuerdos se adoptan por <mark>mayoría de los votos emitidos</mark> (mayoría simple), salvo que la CE exija una mayoría especial.
 
 **Tipos de mayorías relevantes:**
 
 | Tipo de mayoría | Definición | Ejemplos de uso |
 |---|---|---|
-| **Mayoría simple** | Más votos a favor que en contra | Aprobación de leyes ordinarias |
-| **Mayoría absoluta** | La mitad más uno del total de miembros de la Cámara | Investidura en segunda votación, Leyes Orgánicas |
-| **Mayoría de 3/5** | 3/5 del total de miembros | Reforma constitucional ordinaria, elección de magistrados TC |
-| **Mayoría de 2/3** | 2/3 del total de miembros | Reforma constitucional agravada |
+| Mayoría simple | Más votos a favor que en contra | Aprobación de leyes ordinarias |
+| Mayoría absoluta | La mitad más uno del total de miembros de la Cámara | Investidura en segunda votación, Leyes Orgánicas |
+| Mayoría de 3/5 | 3/5 del total de miembros | Reforma constitucional ordinaria, elección de magistrados TC |
+| Mayoría de 2/3 | 2/3 del total de miembros | Reforma constitucional agravada |
 
 ---
 
@@ -224,11 +224,11 @@ La iniciativa legislativa corresponde a:
 
 | Sujeto | Denominación |
 |---|---|
-| **Gobierno** | Proyecto de ley (la más frecuente) |
-| **Congreso** | Proposición de ley (a iniciativa de un grupo parlamentario o 15 diputados) |
-| **Senado** | Proposición de ley |
-| **Asambleas legislativas de las CC.AA.** | Proposición de ley o solicitud al Gobierno que la elabore |
-| **Ciudadanos** | Iniciativa legislativa popular: mínimo **500.000 firmas** acreditadas; excluida en materias de LO, tributarias, de gracia, internacionales y prerrogativa regia |
+| Gobierno | Proyecto de ley (la más frecuente) |
+| Congreso | Proposición de ley (a iniciativa de un grupo parlamentario o 15 diputados) |
+| Senado | Proposición de ley |
+| Asambleas legislativas de las CC.AA. | Proposición de ley o solicitud al Gobierno que la elabore |
+| Ciudadanos | Iniciativa legislativa popular: mínimo **500.000 firmas** acreditadas; excluida en materias de LO, tributarias, de gracia, internacionales y prerrogativa regia |
 
 ---
 
@@ -246,7 +246,7 @@ El proceso se desarrolla en las siguientes fases:
 
 **En el Senado:**
 7. El texto aprobado por el Congreso se remite al Senado.
-8. El Senado dispone de un plazo de **2 meses** para:
+8. El Senado dispone de un plazo de <mark>2 meses</mark> para:
    - Aprobarlo sin modificaciones.
    - Introducir enmiendas (que vuelven al Congreso para su aceptación o rechazo por mayoría simple).
    - Vetarlo (por mayoría absoluta del Senado), en cuyo caso el Congreso puede levantarlo por mayoría absoluta de forma inmediata o por mayoría simple transcurridos 2 meses.
@@ -262,14 +262,14 @@ El proceso se desarrolla en las siguientes fases:
 
 #### c) Leyes Orgánicas (art. 81 CE)
 
-Son leyes que requieren **mayoría absoluta del Congreso** en votación final sobre el conjunto del texto. Solo pueden ser Leyes Orgánicas las que regulen:
+Son leyes que requieren <mark>mayoría absoluta del Congreso</mark> en votación final sobre el conjunto del texto. Solo pueden ser Leyes Orgánicas las que regulen:
 
 - El desarrollo de los derechos fundamentales y libertades públicas (arts. 15-29 CE).
 - Los Estatutos de Autonomía.
 - El régimen electoral general.
 - Las demás materias previstas en la CE.
 
-> ⚠️ La LO **solo requiere mayoría absoluta en el Congreso**, no en el Senado. Si el Senado la modifica o veta, el Congreso puede imponerse con mayoría absoluta.
+> ⚠️ La LO <mark>solo requiere mayoría absoluta en el Congreso</mark>, no en el Senado. Si el Senado la modifica o veta, el Congreso puede imponerse con mayoría absoluta.
 
 ---
 
@@ -287,11 +287,11 @@ Las Cortes controlan la acción del Gobierno mediante varios instrumentos:
 
 | Instrumento | Regulación | Descripción |
 |---|---|---|
-| **Preguntas** | Art. 111 CE | Cualquier diputado o senador puede preguntar al Gobierno sobre cualquier asunto. Pueden ser orales (en pleno o comisión) o escritas |
-| **Interpelaciones** | Art. 111 CE | Más solemnes que las preguntas; versan sobre la conducta del Gobierno en asuntos de política general y pueden dar lugar a una moción |
-| **Proposiciones no de ley y mociones** | Reglamentos parlamentarios | Expresan la voluntad de la Cámara sobre un asunto sin fuerza de ley |
-| **Comisiones de investigación** | Art. 76 CE | Las conclusiones no son vinculantes judicialmente pero tienen gran valor político; comparecencia obligatoria ante ellas |
-| **Solicitud de información y documentación** | Art. 109 CE | Las Cámaras y sus comisiones pueden reclamar la presencia de miembros del Gobierno y la información que precisen |
+| Preguntas | Art. 111 CE | Cualquier diputado o senador puede preguntar al Gobierno sobre cualquier asunto. Pueden ser orales (en pleno o comisión) o escritas |
+| Interpelaciones | Art. 111 CE | Más solemnes que las preguntas; versan sobre la conducta del Gobierno en asuntos de política general y pueden dar lugar a una moción |
+| Proposiciones no de ley y mociones | Reglamentos parlamentarios | Expresan la voluntad de la Cámara sobre un asunto sin fuerza de ley |
+| Comisiones de investigación | Art. 76 CE | Las conclusiones no son vinculantes judicialmente pero tienen gran valor político; comparecencia obligatoria ante ellas |
+| Solicitud de información y documentación | Art. 109 CE | Las Cámaras y sus comisiones pueden reclamar la presencia de miembros del Gobierno y la información que precisen |
 
 ---
 
@@ -301,9 +301,9 @@ Estas tres figuras se desarrollan en el Tema 5 (relaciones Gobierno-Cortes), per
 
 | Figura | Cámara | Descripción breve |
 |---|---|---|
-| **Investidura** (art. 99 CE) | Congreso | El Congreso otorga (o niega) la confianza al candidato a Presidente del Gobierno |
-| **Moción de censura** (art. 113 CE) | Congreso | Instrumento del Congreso para retirar la confianza al Gobierno; debe ser **constructiva** (proponer un candidato alternativo) |
-| **Cuestión de confianza** (art. 112 CE) | Congreso | El Presidente del Gobierno plantea al Congreso si mantiene su confianza; si la pierde, debe dimitir |
+| Investidura (art. 99 CE) | Congreso | El Congreso otorga (o niega) la confianza al candidato a Presidente del Gobierno |
+| Moción de censura (art. 113 CE) | Congreso | Instrumento del Congreso para retirar la confianza al Gobierno; debe ser **constructiva** (proponer un candidato alternativo) |
+| Cuestión de confianza (art. 112 CE) | Congreso | El Presidente del Gobierno plantea al Congreso si mantiene su confianza; si la pierde, debe dimitir |
 
 ---
 
@@ -311,12 +311,12 @@ Estas tres figuras se desarrollan en el Tema 5 (relaciones Gobierno-Cortes), per
 
 | Atribución | Artículo | Descripción |
 |---|---|---|
-| **Autorización de tratados internacionales** | Art. 94 CE | Determinados tratados requieren autorización previa de las Cortes |
-| **Declaración de los estados excepcionales** | Art. 116 CE | El estado de alarma lo autoriza el Congreso; el de excepción lo autoriza también el Congreso; el de sitio lo declara el Congreso por mayoría absoluta |
-| **Reforma constitucional** | Arts. 167-168 CE | Las Cortes aprueban las reformas constitucionales |
-| **Autorización para declarar la guerra** | Art. 63.3 CE | Las Cortes autorizan al Rey para declarar la guerra |
-| **Control de los decretos-leyes** | Art. 86 CE | El Congreso debe convalidar o derogar los decretos-leyes del Gobierno en el plazo de **30 días** |
-| **Control de los decretos legislativos** | Art. 82 CE | Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley (legislación delegada) |
+| Autorización de tratados internacionales | Art. 94 CE | Determinados tratados requieren autorización previa de las Cortes |
+| Declaración de los estados excepcionales | Art. 116 CE | El estado de alarma lo autoriza el Congreso; el de excepción lo autoriza también el Congreso; el de sitio lo declara el Congreso por mayoría absoluta |
+| Reforma constitucional | Arts. 167-168 CE | Las Cortes aprueban las reformas constitucionales |
+| Autorización para declarar la guerra | Art. 63.3 CE | Las Cortes autorizan al Rey para declarar la guerra |
+| Control de los decretos-leyes | Art. 86 CE | El Congreso debe convalidar o derogar los decretos-leyes del Gobierno en el plazo de **30 días** |
+| Control de los decretos legislativos | Art. 82 CE | Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango de ley (legislación delegada) |
 
 ---
 
@@ -337,8 +337,8 @@ Las Cortes pueden delegar en el Gobierno la potestad de dictar normas con rango 
 
 | Tipo | Instrumento | Para qué |
 |---|---|---|
-| **Ley de bases** | Texto articulado | Cuándo la delegación autoriza al Gobierno a elaborar un texto articulado a partir de las bases fijadas por las Cortes |
-| **Ley ordinaria** | Texto refundido | Cuándo la delegación autoriza al Gobierno a refundir varios textos legales en uno |
+| Ley de bases | Texto articulado | Cuándo la delegación autoriza al Gobierno a elaborar un texto articulado a partir de las bases fijadas por las Cortes |
+| Ley ordinaria | Texto refundido | Cuándo la delegación autoriza al Gobierno a refundir varios textos legales en uno |
 
 La delegación debe ser **expresa, concreta y con plazo determinado**. No puede autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo.
 

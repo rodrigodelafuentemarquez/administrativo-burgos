@@ -3,15 +3,15 @@ tema: 7
 titulo: "La organización territorial del Estado. Las Comunidades Autónomas. El sistema de distribución competencial."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española, Título VIII — De la organización territorial del Estado (arts. 137-158), texto consolidado en el BOE:**
+> 🔗 Constitución Española, Título VIII — De la organización territorial del Estado (arts. 137-158), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía del País Vasco (como referencia de Estatuto de primera generación):**
+> 🔗 Ley Orgánica 3/1979, de 18 de diciembre, del Estatuto de Autonomía del País Vasco (como referencia de Estatuto de primera generación):
 > https://www.boe.es/eli/es/lo/1979/12/18/3/con
 >
-> 🔗 **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado en el BOE:**
+> 🔗 Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/l/1985/04/02/7/con
 
 ---
@@ -24,11 +24,11 @@ El art. 137 CE sienta las bases del modelo territorial español:
 
 > *"El Estado se organiza territorialmente en municipios, en provincias y en las Comunidades Autónomas que se constituyan. Todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses."*
 
-El modelo constitucional español es un **Estado autonómico**, ni centralizado ni federal, aunque con rasgos que lo aproximan al federalismo. Se caracteriza por:
+El modelo constitucional español es un <mark>Estado autonómico</mark>, ni centralizado ni federal, aunque con rasgos que lo aproximan al federalismo. Se caracteriza por:
 
-- **Descentralización política:** las CC.AA. tienen poder normativo propio (pueden dictar leyes).
-- **Principio dispositivo:** la CE no impone la creación de las CC.AA., sino que la *facilita* y regula su proceso de acceso a la autonomía. Fueron las propias regiones las que ejercieron ese derecho.
-- **Autonomía garantizada constitucionalmente:** tanto la autonomía de las CC.AA. como la de los entes locales está reconocida y garantizada por la CE.
+- Descentralización política: las CC.AA. tienen poder normativo propio (pueden dictar leyes).
+- Principio dispositivo: la CE no impone la creación de las CC.AA., sino que la *facilita* y regula su proceso de acceso a la autonomía. Fueron las propias regiones las que ejercieron ese derecho.
+- Autonomía garantizada constitucionalmente: tanto la autonomía de las CC.AA. como la de los entes locales está reconocida y garantizada por la CE.
 
 ---
 
@@ -36,11 +36,11 @@ El modelo constitucional español es un **Estado autonómico**, ni centralizado 
 
 | Entidad | Base normativa | Autonomía |
 |---|---|---|
-| **Municipio** | Art. 140 CE | Autonomía para la gestión de sus intereses. Gobierno y administración: Ayuntamiento |
-| **Provincia** | Art. 141 CE | Entidad local con personalidad jurídica propia; agrupación de municipios. Gobierno: Diputación Provincial |
-| **Comunidad Autónoma** | Arts. 143-158 CE | Autonomía política: potestad legislativa propia |
+| Municipio | Art. 140 CE | Autonomía para la gestión de sus intereses. Gobierno y administración: Ayuntamiento |
+| Provincia | Art. 141 CE | Entidad local con personalidad jurídica propia; agrupación de municipios. Gobierno: Diputación Provincial |
+| Comunidad Autónoma | Arts. 143-158 CE | Autonomía política: potestad legislativa propia |
 
-> 💡 Estas tres entidades son las únicas constitucionalmente garantizadas. La CE permite además la creación de **otras entidades territoriales** (comarcas, áreas metropolitanas, mancomunidades…) pero no las impone.
+> 💡 Estas tres entidades son las <mark>únicas constitucionalmente garantizadas</mark>. La CE permite además la creación de **otras entidades territoriales** (comarcas, áreas metropolitanas, mancomunidades…) pero no las impone.
 
 ---
 
@@ -63,7 +63,7 @@ Las diferencias entre los Estatutos de las distintas CC.AA. **no podrán implica
 
 ### 2.1 El derecho a la autonomía (art. 2 CE)
 
-El art. 2 CE, ubicado en el Título Preliminar, reconoce y garantiza el **derecho a la autonomía de las nacionalidades y regiones** que integran la Nación española, así como la solidaridad entre todas ellas.
+El art. 2 CE, ubicado en el Título Preliminar, reconoce y garantiza el <mark>derecho a la autonomía de las nacionalidades y regiones</mark> que integran la Nación española, así como la solidaridad entre todas ellas.
 
 > ⚠️ La CE reconoce una sola Nación española (la nación es indivisible, art. 2 CE), pero dentro de ella reconoce "nacionalidades y regiones" con derecho a la autonomía.
 
@@ -77,12 +77,12 @@ La CE diseñó distintas vías para acceder a la autonomía, atendiendo a la rea
 
 - Para territorios sin especial tradición autonómica o que no habían plebiscitado estatutos de autonomía en la II República.
 - La iniciativa la ejercen las Diputaciones Provinciales o los órganos interinsulares y los **2/3 de los municipios** cuya población represente al menos la mayoría del censo electoral de cada provincia.
-- Competencias iniciales más limitadas, con posibilidad de ampliación tras **5 años**.
+- Competencias iniciales más limitadas, con posibilidad de ampliación tras <mark>5 años</mark>.
 
 #### b) Vía del art. 151 CE — Vía rápida o especial
 
 - Para territorios con mayor tradición autonómica (históricamente: País Vasco, Cataluña, Galicia y, por vía especial, Andalucía).
-- La iniciativa requería el acuerdo de las Diputaciones y de los **3/4 de los municipios** con mayoría del censo, más **referéndum** en cada provincia y ratificación por las Cortes.
+- La iniciativa requería el acuerdo de las Diputaciones y de los <mark>3/4 de los municipios</mark> con mayoría del censo, más <mark>referéndum</mark> en cada provincia y ratificación por las Cortes.
 - Competencias máximas desde el inicio.
 
 #### c) Disposición Transitoria Segunda — Las comunidades históricas
@@ -95,7 +95,7 @@ Las CC.AA. que en el pasado hubieran plebiscitado afirmativamente proyectos de E
 
 ### 2.3 El Estatuto de Autonomía (art. 147 CE)
 
-El **Estatuto de Autonomía** es la **norma institucional básica** de cada Comunidad Autónoma. La CE lo reconoce como parte del ordenamiento jurídico del Estado.
+El **Estatuto de Autonomía** es la <mark>norma institucional básica</mark> de cada Comunidad Autónoma. La CE lo reconoce como parte del ordenamiento jurídico del Estado.
 
 **Contenido mínimo del Estatuto (art. 147.2 CE):**
 1. La denominación de la Comunidad.
@@ -113,10 +113,10 @@ Para las CC.AA. que accedieron por la vía del art. 151 CE, la CE prevé un mode
 
 | Institución | Función |
 |---|---|
-| **Asamblea Legislativa** | Elegida por sufragio universal, ejerce la potestad legislativa y controla al Ejecutivo autonómico |
-| **Consejo de Gobierno** | Órgano ejecutivo y administrativo de la CC.AA. |
-| **Presidente de la Comunidad** | Elegido por la Asamblea, dirige el Consejo de Gobierno y ostenta la representación de la CC.AA. y la ordinaria del Estado en la CC.AA. |
-| **Tribunal Superior de Justicia** | Culmina la organización judicial en el ámbito autonómico (art. 152.1 CE), sin perjuicio de la jurisdicción del TS |
+| Asamblea Legislativa | Elegida por sufragio universal, ejerce la potestad legislativa y controla al Ejecutivo autonómico |
+| Consejo de Gobierno | Órgano ejecutivo y administrativo de la CC.AA. |
+| Presidente de la Comunidad | Elegido por la Asamblea, dirige el Consejo de Gobierno y ostenta la representación de la CC.AA. y la ordinaria del Estado en la CC.AA. |
+| Tribunal Superior de Justicia | Culmina la organización judicial en el ámbito autonómico (art. 152.1 CE), sin perjuicio de la jurisdicción del TS |
 
 ---
 
@@ -128,9 +128,9 @@ La CE establece un sistema de distribución de competencias entre el Estado y la
 
 | Artículo | Contenido |
 |---|---|
-| **Art. 148 CE** | Lista de materias sobre las que las CC.AA. **pueden** asumir competencias |
-| **Art. 149 CE** | Lista de materias de **competencia exclusiva del Estado** |
-| **Cláusula residual (art. 149.3 CE)** | Las materias no atribuidas expresamente al Estado por la CE podrán corresponder a las CC.AA. si sus Estatutos las asumen; las que no asuman corresponderán al Estado |
+| Art. 148 CE | Lista de materias sobre las que las CC.AA. <mark>pueden</mark> asumir competencias |
+| Art. 149 CE | Lista de materias de <mark>competencia exclusiva del Estado</mark> |
+| Cláusula residual (art. 149.3 CE) | <mark>Las materias no atribuidas expresamente al Estado</mark> por la CE podrán corresponder a las CC.AA. si sus Estatutos las asumen; las que no asuman corresponderán al Estado |
 
 ---
 
@@ -184,9 +184,9 @@ Más allá de las listas constitucionales, la doctrina y la jurisprudencia del T
 
 | Tipo | Descripción | Ejemplo |
 |---|---|---|
-| **Exclusivas** | Un solo ente (Estado o CC.AA.) tiene toda la competencia (legislación y ejecución) sobre la materia | Relaciones exteriores: solo el Estado |
-| **Compartidas o concurrentes** | El Estado fija la legislación básica y las CC.AA. desarrollan la legislación y ejecutan | Sanidad, educación, medio ambiente |
-| **De ejecución** | El Estado dicta la normativa completa y las CC.AA. solo ejecutan | Legislación laboral (Estado) / ejecución (CC.AA.) |
+| Exclusivas | Un solo ente (Estado o CC.AA.) tiene toda la competencia (legislación y ejecución) sobre la materia | Relaciones exteriores: solo el Estado |
+| Compartidas o concurrentes | El Estado fija la legislación básica y las CC.AA. desarrollan la legislación y ejecutan | Sanidad, educación, medio ambiente |
+| De ejecución | El Estado dicta la normativa completa y las CC.AA. solo ejecutan | Legislación laboral (Estado) / ejecución (CC.AA.) |
 
 ---
 
@@ -194,14 +194,14 @@ Más allá de las listas constitucionales, la doctrina y la jurisprudencia del T
 
 El art. 149.3 CE establece dos reglas de cierre del sistema:
 
-1. **Cláusula de prevalencia:** el Derecho estatal prevalecerá, en caso de conflicto, sobre el Derecho de las CC.AA. en todo lo que no esté atribuido a la exclusiva competencia de estas.
-2. **Cláusula de supletoriedad:** el Derecho del Estado será en todo caso supletorio del Derecho de las CC.AA.
+1. <mark>Cláusula de prevalencia</mark>: el Derecho estatal prevalecerá, en caso de conflicto, sobre el Derecho de las CC.AA. en todo lo que no esté atribuido a la exclusiva competencia de estas.
+2. <mark>Cláusula de supletoriedad</mark>: el Derecho del Estado será en todo caso supletorio del Derecho de las CC.AA.
 
 ---
 
 ### 3.6 La cláusula de armonización (art. 150.3 CE)
 
-El Estado puede dictar **leyes de armonización** de las disposiciones normativas de las CC.AA., incluso en materias de competencia autonómica, cuando así lo exija el interés general. La apreciación de dicha necesidad corresponde a las **Cortes Generales** por mayoría absoluta de cada Cámara.
+El Estado puede dictar <mark>leyes de armonización</mark> de las disposiciones normativas de las CC.AA., incluso en materias de competencia autonómica, cuando así lo exija el interés general. La apreciación de dicha necesidad corresponde a las **Cortes Generales** por mayoría absoluta de cada Cámara.
 
 ---
 
@@ -209,9 +209,9 @@ El Estado puede dictar **leyes de armonización** de las disposiciones normativa
 
 | Tipo | Descripción |
 |---|---|
-| **Leyes marco (art. 150.1)** | Las Cortes pueden atribuir a las CC.AA. la facultad de dictar normas legislativas en materias de competencia estatal, dentro de los principios y directrices que fijen |
-| **Leyes de transferencia o delegación (art. 150.2)** | El Estado puede transferir o delegar competencias propias a las CC.AA. mediante Ley Orgánica |
-| **Leyes de armonización (art. 150.3)** | El Estado puede armonizar las disposiciones normativas de las CC.AA. cuando lo exija el interés general |
+| Leyes marco (art. 150.1) | Las Cortes pueden atribuir a las CC.AA. la facultad de dictar normas legislativas en materias de competencia estatal, dentro de los principios y directrices que fijen |
+| Leyes de transferencia o delegación (art. 150.2) | El Estado puede transferir o delegar competencias propias a las CC.AA. mediante Ley Orgánica |
+| Leyes de armonización (art. 150.3) | El Estado puede armonizar las disposiciones normativas de las CC.AA. cuando lo exija el interés general |
 
 ---
 
@@ -225,7 +225,7 @@ Es el mecanismo excepcional de intervención del Estado sobre una CC.AA. Puede a
 
 **Procedimiento:**
 1. El Gobierno requiere al Presidente de la CC.AA.
-2. Si no hay cumplimiento, el Gobierno puede adoptar las medidas necesarias, previo acuerdo por **mayoría absoluta del Senado**.
+2. Si no hay cumplimiento, el Gobierno puede adoptar las medidas necesarias, previo acuerdo por <mark>mayoría absoluta del Senado</mark>.
 
 > 💡 El art. 155 CE fue aplicado por primera vez en octubre de 2017 en relación con Cataluña, en el contexto del proceso independentista.
 
@@ -235,10 +235,10 @@ Es el mecanismo excepcional de intervención del Estado sobre una CC.AA. Puede a
 
 | Mecanismo | Descripción |
 |---|---|
-| **Control del TC** | Las leyes y disposiciones de las CC.AA. pueden ser recurridas ante el TC por inconstitucionalidad |
-| **Control del TS** | Los actos administrativos de las CC.AA. son revisables por la jurisdicción contencioso-administrativa |
-| **Control gubernativo (art. 153)** | El Gobierno, con dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas a las CC.AA. |
-| **Tribunal de Cuentas** | Controla la actividad económico-financiera de las CC.AA. |
+| Control del TC | Las leyes y disposiciones de las CC.AA. pueden ser recurridas ante el TC por inconstitucionalidad |
+| Control del TS | Los actos administrativos de las CC.AA. son revisables por la jurisdicción contencioso-administrativa |
+| Control gubernativo (art. 153) | El Gobierno, con dictamen del Consejo de Estado, controla el ejercicio de funciones delegadas a las CC.AA. |
+| Tribunal de Cuentas | Controla la actividad económico-financiera de las CC.AA. |
 
 ---
 

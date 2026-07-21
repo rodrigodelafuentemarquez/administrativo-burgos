@@ -3,18 +3,18 @@ tema: 9
 titulo: "Régimen Local español. Clases de Entes Locales. Regulación jurídica."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española, arts. 137, 140, 141 y 142, texto consolidado en el BOE:**
+> 🔗 Constitución Española, arts. 137, 140, 141 y 142, texto consolidado en el BOE:
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado en el BOE:**
+> 🔗 Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/l/1985/04/02/7/con
 >
-> 🔗 **Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local (TRRL), texto consolidado en el BOE:**
+> 🔗 Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el Texto Refundido de las disposiciones legales vigentes en materia de Régimen Local (TRRL), texto consolidado en el BOE:
 > https://www.boe.es/eli/es/rdlg/1986/04/18/781/con
 >
-> 🔗 **Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León, texto consolidado:**
+> 🔗 Ley 1/1998, de 4 de junio, de Régimen Local de Castilla y León, texto consolidado:
 > https://www.bocyl.es/boletines/1998/06/12/jcyl-b-1998-111-4745.do
 
 ---
@@ -29,12 +29,12 @@ Los preceptos constitucionales fundamentales son:
 
 | Artículo | Contenido |
 |---|---|
-| **Art. 137 CE** | El Estado se organiza territorialmente en municipios, provincias y CC.AA., todos con autonomía para la gestión de sus intereses |
-| **Art. 140 CE** | Garantía constitucional de la autonomía municipal; los municipios tienen personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos |
-| **Art. 141 CE** | La provincia como entidad local con personalidad jurídica propia; agrupación de municipios; su gobierno corresponde a las Diputaciones Provinciales |
-| **Art. 142 CE** | Las Haciendas Locales deben disponer de los medios suficientes para el desempeño de sus funciones, nutriéndose de tributos propios y participación en los del Estado y CC.AA. |
+| Art. 137 CE | El Estado se organiza territorialmente en municipios, provincias y CC.AA., todos con autonomía para la gestión de sus intereses |
+| Art. 140 CE | Garantía constitucional de la autonomía municipal; los municipios tienen personalidad jurídica plena; su gobierno y administración corresponde a los Ayuntamientos |
+| Art. 141 CE | La provincia como entidad local con personalidad jurídica propia; agrupación de municipios; su gobierno corresponde a las Diputaciones Provinciales |
+| Art. 142 CE | Las Haciendas Locales deben disponer de los medios suficientes para el desempeño de sus funciones, nutriéndose de tributos propios y participación en los del Estado y CC.AA. |
 
-> 💡 La autonomía local reconocida en la CE es una **autonomía administrativa**, no política: los entes locales no tienen potestad legislativa (no pueden dictar leyes), a diferencia de las CC.AA. La autonomía local se expresa mediante ordenanzas y reglamentos, de rango inferior a la ley.
+> 💡 La autonomía local reconocida en la CE es una <mark>autonomía administrativa, no política</mark>: los entes locales no tienen potestad legislativa (no pueden dictar leyes), a diferencia de las CC.AA. La autonomía local se expresa mediante ordenanzas y reglamentos, de rango inferior a la ley.
 
 ---
 
@@ -46,7 +46,7 @@ España ratificó la **Carta Europea de Autonomía Local**, hecha en Estrasburgo
 
 ### 1.3 La legislación básica estatal: la LBRL
 
-La norma fundamental del Régimen Local español es la **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL)**, dictada al amparo del art. 149.1.18ª CE (competencia estatal sobre las bases del régimen jurídico de las AAPP).
+La norma fundamental del Régimen Local español es la <mark>Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL)</mark>, dictada al amparo del art. 149.1.18ª CE (competencia estatal sobre las bases del régimen jurídico de las AAPP).
 
 La LBRL ha sido objeto de importantes modificaciones, destacando la operada por la **Ley 27/2013, de 27 de diciembre, de racionalización y sostenibilidad de la Administración Local (LRSAL)**, que pretendió clarificar las competencias locales y reforzar el control económico-financiero de los entes locales.
 
@@ -61,7 +61,7 @@ Junto a la LBRL, la legislación de régimen local se completa con:
 
 ### 2.1 Clasificación según la LBRL (art. 3 LBRL)
 
-La LBRL distingue entre entidades locales **necesarias o territoriales** y entidades locales **no necesarias o voluntarias**:
+La LBRL distingue entre entidades locales <mark>necesarias o territoriales</mark> y entidades locales <mark>no necesarias o voluntarias</mark>:
 
 ---
 
@@ -73,7 +73,7 @@ Son aquellas que la ley impone con carácter obligatorio en todo el territorio n
 **2. La Provincia**
 **3. La Isla** (en los archipiélagos balear y canario)
 
-Estas tres entidades están **constitucionalmente garantizadas** y no pueden ser suprimidas por la legislación ordinaria.
+Estas tres entidades están <mark>constitucionalmente garantizadas</mark> y no pueden ser suprimidas por la legislación ordinaria.
 
 ---
 
@@ -92,7 +92,7 @@ Son las que pueden crearse o no, dependiendo de la decisión de los propios ente
 
 #### a) Concepto y naturaleza (art. 11 LBRL)
 
-El **municipio** es la **entidad local básica** de la organización territorial del Estado. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.
+El **municipio** es la <mark>entidad local básica</mark> de la organización territorial del Estado. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.
 
 Sus elementos constitutivos son:
 - **El territorio** (término municipal).
@@ -107,11 +107,11 @@ La alteración de los términos municipales (fusiones, segregaciones, incorporac
 
 #### c) La población: el padrón municipal (art. 15 LBRL)
 
-Toda persona que viva en España está obligada a inscribirse en el **padrón municipal** del municipio en que resida habitualmente. Quién viva en varios municipios se inscribe donde resida más tiempo.
+Toda persona que viva en España está obligada a inscribirse en el <mark>padrón municipal</mark> del municipio en que resida habitualmente. Quién viva en varios municipios se inscribe donde resida más tiempo.
 
 El padrón municipal es el **registro administrativo** donde constan los vecinos del municipio. Sus datos son prueba de residencia y domicilio habitual. El **Instituto Nacional de Estadística (INE)** coordina los padrones de todos los municipios.
 
-La condición de **vecino** se adquiere en el momento de la inscripción padronal. Los vecinos tienen los siguientes derechos (art. 18 LBRL):
+La condición de <mark>vecino</mark> se adquiere en el momento de la inscripción padronal. Los vecinos tienen los siguientes derechos (art. 18 LBRL):
 - Ser electores y elegibles conforme a la legislación electoral.
 - Participar en la gestión municipal.
 - Utilizar los servicios públicos municipales.
@@ -136,9 +136,9 @@ La LBRL prevé regímenes especiales para determinados municipios:
 
 | Régimen especial | Aplicación |
 |---|---|
-| **Municipios de gran población** (Tít. X LBRL) | Municipios con más de 250.000 habitantes y capitales de provincia con más de 175.000; organización reforzada con Junta de Gobierno Local con funciones ejecutivas |
-| **Régimen de Concejo Abierto** (art. 29 LBRL) | Municipios con menos de 100 habitantes o con carácterísticas especiales; el gobierno lo ejerce una asamblea de todos los vecinos |
-| **Madrid y Barcelona** | Leyes especiales propias |
+| Municipios de gran población (Tít. X LBRL) | Municipios con más de 250.000 habitantes y capitales de provincia con más de 175.000; organización reforzada con Junta de Gobierno Local con funciones ejecutivas |
+| Régimen de Concejo Abierto (art. 29 LBRL) | Municipios con menos de 100 habitantes o con carácterísticas especiales; el gobierno lo ejerce una asamblea de todos los vecinos |
+| Madrid y Barcelona | Leyes especiales propias |
 
 ---
 
@@ -148,7 +148,7 @@ La provincia se estudia en detalle en el **Tema 10**. Aquí se señalan sus rasg
 
 - **Entidad local** con personalidad jurídica propia, determinada por la agrupación de municipios, y división territorial para el cumplimiento de las actividades del Estado (art. 141.1 CE).
 - Su gobierno y administración corresponde a las **Diputaciones Provinciales** (o Cabildos en Canarias y Consells en Baleares).
-- Existen **50 provincias** en España.
+- Existen <mark>50 provincias</mark> en España.
 - Tiene una doble naturaleza: entidad local autónoma **y** circunscripción territorial del Estado y de las CC.AA.
 
 ---
@@ -159,8 +159,8 @@ En los **archipiélagos**, la isla tiene también la consideración de entidad l
 
 | Archipiélago | Órgano de gobierno insular |
 |---|---|
-| **Canarias** | **Cabildos Insulares** |
-| **Baleares** | **Consells Insulars** |
+| Canarias | Cabildos Insulares |
+| Baleares | Consells Insulars |
 
 Los Cabildos y Consells asumen en su ámbito insular funciones análogas a las de las Diputaciones Provinciales en el territorio peninsular, y además tienen atribuidas funciones propias como entidades locales insulares.
 
@@ -202,7 +202,7 @@ Las **áreas metropolitanas** son entidades locales integradas por los municipio
 
 ### 2.8 Las Mancomunidades de Municipios
 
-Las **mancomunidades** son asociaciones voluntarias de municipios para la ejecución en común de obras y servicios de su competencia.
+Las **mancomunidades** son <mark>asociaciones voluntarias de municipios</mark> para la ejecución en común de obras y servicios de su competencia.
 
 - Pueden mancomunarse municipios de distintas provincias e incluso de distintas CC.AA.
 - Se rigen por sus propios **Estatutos**, aprobados por los Plenos de los municipios mancomunados.
@@ -217,11 +217,11 @@ Junto a los entes locales territoriales, las Entidades Locales pueden crear enti
 
 | Entidad | Descripción |
 |---|---|
-| **Organismos Autónomos Locales** | Entidades de Derecho público con personalidad jurídica propia, para actividades de fomento, prestacionales o de gestión de servicios |
-| **Entidades Públicas Empresariales Locales** | Para actividades de contenido económico; se rigen parcialmente por el Derecho privado |
-| **Sociedades Mercantiles Locales** | Capital total o mayoritariamente municipal; se rigen por el Derecho mercantil |
-| **Fundaciones del sector público local** | Para fines de interés general; patrimonio adscrito por el ente local |
-| **Consorcios** | Entidades con participación de varias Administraciones (local + autonómica + estatal) para fines de interés común |
+| Organismos Autónomos Locales | Entidades de Derecho público con personalidad jurídica propia, para actividades de fomento, prestacionales o de gestión de servicios |
+| Entidades Públicas Empresariales Locales | Para actividades de contenido económico; se rigen parcialmente por el Derecho privado |
+| Sociedades Mercantiles Locales | Capital total o mayoritariamente municipal; se rigen por el Derecho mercantil |
+| Fundaciones del sector público local | Para fines de interés general; patrimonio adscrito por el ente local |
+| Consorcios | Entidades con participación de varias Administraciones (local + autonómica + estatal) para fines de interés común |
 
 ---
 
@@ -235,22 +235,22 @@ La LBRL (reformada por la LRSAL de 2013) establece tres categorías de competenc
 
 | Categoría | Descripción |
 |---|---|
-| **Competencias propias** | Determinadas por la ley. El municipio las ejerce en régimen de autonomía y bajo su propia responsabilidad |
-| **Competencias delegadas** | El Estado o las CC.AA. delegan competencias en los municipios, con financiación garantizada |
-| **Competencias distintas de las propias y delegadas** | Solo pueden ejercerse si no se pone en riesgo la sostenibilidad financiera y no se incurre en duplicidad con otras Administraciones |
+| Competencias propias | Determinadas por la ley. El municipio las ejerce en régimen de autonomía y bajo su propia responsabilidad |
+| Competencias delegadas | El Estado o las CC.AA. delegan competencias en los municipios, con financiación garantizada |
+| Competencias distintas de las propias y delegadas | Solo pueden ejercerse si no se pone en riesgo la sostenibilidad financiera y no se incurre en duplicidad con otras Administraciones |
 
 ### 4.2 Servicios mínimos obligatorios (art. 26 LBRL)
 
-La LBRL establece los servicios mínimos que todo municipio debe prestar **en todo caso**, según su población:
+La LBRL establece los servicios mínimos que todo municipio debe prestar <mark>en todo caso</mark>, según su población:
 
 | Tramo de población | Servicios mínimos obligatorios |
 |---|---|
-| **Todos los municipios** | Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de vías públicas |
-| **Más de 5.000 habitantes** | Además: parque público, biblioteca pública y tratamiento de residuos |
-| **Más de 20.000 habitantes** | Además: protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios e instalaciones deportivas de uso público |
-| **Más de 50.000 habitantes** | Además: transporte colectivo urbano de viajeros y medio ambiente urbano |
+| Todos los municipios | Alumbrado público, cementerio, recogida de residuos, limpieza viaria, abastecimiento domiciliario de agua potable, alcantarillado, acceso a los núcleos de población y pavimentación de vías públicas |
+| Más de 5.000 habitantes | Además: parque público, biblioteca pública y tratamiento de residuos |
+| Más de 20.000 habitantes | Además: protección civil, evaluación e información de situaciones de necesidad social, prevención y extinción de incendios e instalaciones deportivas de uso público |
+| Más de 50.000 habitantes | Además: transporte colectivo urbano de viajeros y medio ambiente urbano |
 
-> 💡 En los municipios con población inferior a **20.000 habitantes**, la Diputación Provincial coordinará la prestación de los servicios mínimos (art. 26.2 LBRL, tras la reforma de 2013).
+> 💡 En los municipios con población inferior a <mark>20.000 habitantes</mark>, la Diputación Provincial coordinará la prestación de los servicios mínimos (art. 26.2 LBRL, tras la reforma de 2013).
 
 ### 4.3 Competencias provinciales
 
@@ -265,7 +265,7 @@ Las Diputaciones Provinciales tienen como competencias esenciales:
 
 ## 5. EL PRINCIPIO DE SUBSIDIARIEDAD Y PROPORCIONALIDAD
 
-La organización del Régimen Local español responde al principio de **subsidiariedad**: las decisiones deben tomarse en el nivel más cercano posible al ciudadano. Solo cuando un nivel inferior no puede gestionar eficazmente un asunto, lo asume el nivel superior.
+La organización del Régimen Local español responde al principio de <mark>subsidiariedad</mark>: las decisiones deben tomarse en el nivel más cercano posible al ciudadano. Solo cuando un nivel inferior no puede gestionar eficazmente un asunto, lo asume el nivel superior.
 
 Este principio, recogido en la **Carta Europea de Autonomía Local** y asumido por la LBRL, orienta la distribución de competencias entre municipios, provincias, CC.AA. y Estado.
 

@@ -3,15 +3,15 @@ tema: 2
 titulo: "El Tribunal Constitucional. El Defensor del Pueblo. La reforma de la Constitución."
 ---
 
-> **Normativa de referencia:**
+> Normativa de referencia:
 >
-> 🔗 **Constitución Española (arts. 159-165 TC; art. 54 Defensor del Pueblo; arts. 166-169 Reforma):**
+> 🔗 Constitución Española (arts. 159-165 TC; art. 54 Defensor del Pueblo; arts. 166-169 Reforma):
 > https://www.boe.es/eli/es/c/1978/12/27/(1)/con
 >
-> 🔗 **LO 2/1979, de 3 de octubre, del Tribunal Constitucional (LOTC), texto consolidado:**
+> 🔗 LO 2/1979, de 3 de octubre, del Tribunal Constitucional (LOTC), texto consolidado:
 > https://www.boe.es/eli/es/lo/1979/10/03/2/con
 >
-> 🔗 **LO 3/1981, de 6 de abril, del Defensor del Pueblo, texto consolidado:**
+> 🔗 LO 3/1981, de 6 de abril, del Defensor del Pueblo, texto consolidado:
 > https://www.boe.es/eli/es/lo/1981/04/06/3/con
 
 ---
@@ -20,7 +20,7 @@ titulo: "El Tribunal Constitucional. El Defensor del Pueblo. La reforma de la Co
 
 ### 1.1 Naturaleza y posición constitucional
 
-El Tribunal Constitucional (TC) es el **intérprete supremo de la Constitución** (art. 1 LOTC). Es único en su orden y se sitúa **fuera del Poder Judicial** ordinario, aunque ejerce función jurisdiccional. Sus sentencias tienen valor de cosa juzgada y vinculan a todos los poderes públicos.
+El Tribunal Constitucional (TC) es el <mark>intérprete supremo de la Constitución</mark> (art. 1 LOTC). Es único en su orden y se sitúa <mark>fuera del Poder Judicial</mark> ordinario, aunque ejerce función jurisdiccional. Sus sentencias tienen valor de cosa juzgada y vinculan a todos los poderes públicos.
 
 No es una tercera instancia judicial: no corrige errores de los tribunales ordinarios, sino que **controla que no se vulnere la Constitución**.
 
@@ -30,7 +30,7 @@ No es una tercera instancia judicial: no corrige errores de los tribunales ordin
 
 ### 1.2 Composición (art. 159 CE)
 
-El TC se compone de **12 magistrados** nombrados por el **Rey**, a propuesta de:
+El TC se compone de <mark>12 magistrados</mark> nombrados por el **Rey**, a propuesta de:
 
 | Órgano proponente | Nº magistrados | Forma de propuesta |
 |---|---|---|
@@ -44,8 +44,8 @@ El TC se compone de **12 magistrados** nombrados por el **Rey**, a propuesta de:
 - Más de **15 años** de ejercicio profesional
 
 **Mandato:**
-- Duración: **9 años**
-- Renovación parcial cada **3 años** (por tercios)
+- Duración: <mark>9 años</mark>
+- Renovación parcial cada <mark>3 años</mark> (por tercios)
 - **No renovables** (mandato único)
 - Incompatibilidades: no pueden ejercer ninguna otra actividad profesional o política durante su mandato
 
@@ -64,9 +64,9 @@ El TC actúa en tres formaciones:
 
 | Formación | Composición | Asuntos |
 |---|---|---|
-| **Pleno** | Los 12 magistrados | Recursos de inconstitucionalidad, conflictos constitucionales, cuestiones de inconstitucionalidad de especial trascendencia, recursos de amparo de especial relevancia |
-| **Salas** (2 salas) | 6 magistrados cada una | Recursos de amparo, cuestiones de inconstitucionalidad |
-| **Secciones** (4 secciones) | 3 magistrados cada una | Admisión o inadmisión de asuntos, trámites |
+| Pleno | Los 12 magistrados | Recursos de inconstitucionalidad, conflictos constitucionales, cuestiones de inconstitucionalidad de especial trascendencia, recursos de amparo de especial relevancia |
+| Salas (2 salas) | 6 magistrados cada una | Recursos de amparo, cuestiones de inconstitucionalidad |
+| Secciones (4 secciones) | 3 magistrados cada una | Admisión o inadmisión de asuntos, trámites |
 
 ---
 
@@ -77,24 +77,24 @@ El TC conoce de:
 #### a) Recurso de inconstitucionalidad
 Controla que las leyes y disposiciones con rango de ley sean conformes a la CE.
 
-- **Quién puede interponerlo:** el Presidente del Gobierno, el Defensor del Pueblo, 50 diputados, 50 senadores, los órganos colegiados ejecutivos de las CC.AA. y sus Asambleas legislativas.
-- **Plazo:** **3 meses** desde la publicación de la norma (puede ampliarse a 9 meses si hay negociación previa).
-- **Efecto:** si se declara inconstitucional, la norma queda **nula**.
+- Quién puede interponerlo: el Presidente del Gobierno, el Defensor del Pueblo, 50 diputados, 50 senadores, los órganos colegiados ejecutivos de las CC.AA. y sus Asambleas legislativas.
+- Plazo: <mark>3 meses</mark> desde la publicación de la norma (puede ampliarse a 9 meses si hay negociación previa).
+- Efecto: si se declara inconstitucional, la norma queda **nula**.
 
 #### b) Cuestión de inconstitucionalidad
 La plantea un **juez o tribunal** cuando, en el curso de un proceso, considera que una norma con rango de ley aplicable al caso puede ser inconstitucional. No la puede plantear un particular directamente.
 
 #### c) Recurso de amparo
-Protege los derechos y libertades de los arts. **14 a 29 y 30.2** CE frente a vulneraciones de los poderes públicos.
+Protege los derechos y libertades de los arts. <mark>14 a 29 y 30.2</mark> CE frente a vulneraciones de los poderes públicos.
 
-- **Quién puede interponerlo:** cualquier persona física o jurídica que invoque un interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal.
+- Quién puede interponerlo: cualquier persona física o jurídica que invoque un interés legítimo, el Defensor del Pueblo y el Ministerio Fiscal.
 - Es el recurso **más frecuente** ante el TC (más del 95% de los asuntos).
-- Solo es admisible si el demandante ha agotado todas las vías judiciales ordinarias previas (**carácter subsidiario**).
+- Solo es admisible si el demandante ha agotado todas las vías judiciales ordinarias previas (<mark>carácter subsidiario</mark>).
 
 #### d) Conflictos de competencia
 Resuelve los conflictos entre el Estado y las CC.AA. o entre CC.AA. sobre el reparto competencial. Pueden ser:
-- **Positivos:** dos entes se atribuyen la misma competencia.
-- **Negativos:** ninguno quiere asumir la competencia.
+- Positivos: dos entes se atribuyen la misma competencia.
+- Negativos: ninguno quiere asumir la competencia.
 
 #### e) Conflictos entre órganos constitucionales
 Entre el Gobierno, el Congreso, el Senado y el CGPJ.
@@ -122,7 +122,7 @@ El Gobierno puede impugnar disposiciones y resoluciones de CC.AA. con efecto sus
 
 El Defensor del Pueblo está regulado en el **art. 54 CE** y en la **LO 3/1981, de 6 de abril**.
 
-Es el **alto comisionado de las Cortes Generales** designado para la **defensa de los derechos del Título I de la CE**. Supervisa la actividad de la **Administración Pública** en su actuación, tanto estatal como autonómica y local.
+Es el <mark>alto comisionado de las Cortes Generales</mark> designado para la **defensa de los derechos del Título I de la CE**. Supervisa la actividad de la **Administración Pública** en su actuación, tanto estatal como autonómica y local.
 
 > ⚠️ No es un órgano judicial ni puede anular actos administrativos. Su poder es de **persuasión e influencia**, no de coerción. Sus resoluciones se denominan **sugerencias, recomendaciones, recordatorios de deberes legales y advertencias**, y no son vinculantes.
 
@@ -130,7 +130,7 @@ Es el **alto comisionado de las Cortes Generales** designado para la **defensa d
 
 ### 2.2 Elección y mandato
 
-- Elegido por las **Cortes Generales** (Congreso y Senado) por mayoría de **3/5** de cada Cámara.
+- Elegido por las **Cortes Generales** (Congreso y Senado) por mayoría de <mark>3/5</mark> de cada Cámara.
 - Nombrado formalmente por las **Mesas del Congreso y del Senado** conjuntamente.
 - Mandato: **5 años**, renovable.
 - Puede ser reelegido.
@@ -143,8 +143,8 @@ Es el **alto comisionado de las Cortes Generales** designado para la **defensa d
 
 ### 2.3 Prerrogativas
 
-- **Inviolabilidad:** no puede ser detenido, expedientado, multado, perseguido ni juzgado por las opiniones que formule o los actos que realice en el ejercicio de sus funciones.
-- **Aforamiento:** solo puede ser detenido en caso de flagrante delito. La decisión de inculparle, procesarle o juzgarle corresponde a la **Sala de lo Penal del Tribunal Supremo**.
+- Inviolabilidad: no puede ser detenido, expedientado, multado, perseguido ni juzgado por las opiniones que formule o los actos que realice en el ejercicio de sus funciones.
+- Aforamiento: solo puede ser detenido en caso de flagrante delito. La decisión de inculparle, procesarle o juzgarle corresponde a la **Sala de lo Penal del Tribunal Supremo**.
 
 ---
 
@@ -157,8 +157,8 @@ El Defensor del Pueblo está asistido por **dos adjuntos** (Adjunto Primero y Ad
 ### 2.5 Funcionamiento y queja
 
 - **¿Quién puede acudir?** Cualquier persona física o jurídica, sin restricción de nacionalidad, edad o residencia, sin necesidad de abogado ni procurador y **de forma gratuita**.
-- **Plazo:** la queja debe presentarse en el plazo de **1 año** desde que el ciudadano tuvo conocimiento de los hechos.
-- **No puede intervenir en:** asuntos pendientes de resolución judicial mientras estén en trámite; tampoco puede interferir en resoluciones judiciales firmes.
+- Plazo: la queja debe presentarse en el plazo de <mark>1 año</mark> desde que el ciudadano tuvo conocimiento de los hechos.
+- No puede intervenir en: asuntos pendientes de resolución judicial mientras estén en trámite; tampoco puede interferir en resoluciones judiciales firmes.
 
 ---
 
@@ -199,7 +199,7 @@ La iniciativa de reforma constitucional corresponde a:
 - El **Senado**
 - Las **Asambleas legislativas de las CC.AA.**
 
-> ⚠️ La iniciativa popular **NO** puede proponer reformas constitucionales (a diferencia de la iniciativa legislativa ordinaria).
+> ⚠️ La iniciativa popular <mark>NO</mark> puede proponer reformas constitucionales (a diferencia de la iniciativa legislativa ordinaria).
 
 ---
 
@@ -219,7 +219,7 @@ Para la **reforma parcial** que no afecte a las materias del art. 168.
 3. Si tampoco hay acuerdo, la reforma puede aprobarse si:
    - El Congreso la aprueba por **mayoría absoluta**, y
    - El Senado la aprueba por **mayoría de 2/3**.
-4. **Referéndum facultativo:** puede convocarse si así lo solicita **1/10 parte de los miembros** de cualquiera de las Cámaras en el plazo de 15 días tras la aprobación. No es obligatorio, solo si se pide.
+4. **Referéndum facultativo:** puede convocarse si así lo solicita <mark>1/10 parte de los miembros</mark> de cualquiera de las Cámaras en el plazo de 15 días tras la aprobación. No es obligatorio, solo si se pide.
 
 > 💡 Este procedimiento se usó para las **dos únicas reformas** habidas hasta hoy: art. 13.2 en 1992 (derecho de sufragio pasivo de extranjeros en elecciones municipales) y art. 135 en 2011 (principio de estabilidad presupuestaria). Ambas sin referéndum.
 
@@ -233,10 +233,10 @@ Para la **revisión total** de la CE o la reforma parcial que afecte a:
 
 **Pasos:**
 
-1. Aprobación del **principio de revisión** por **mayoría de 2/3** de cada Cámara.
-2. **Disolución inmediata** de las Cortes.
+1. Aprobación del **principio de revisión** por <mark>mayoría de 2/3</mark> de cada Cámara.
+2. <mark>Disolución inmediata</mark> de las Cortes.
 3. Las nuevas Cámaras (tras elecciones) **ratifican la decisión** y elaboran el nuevo texto, que debe ser aprobado por **mayoría de 2/3** de cada Cámara.
-4. **Referéndum obligatorio** para ratificación por el pueblo español.
+4. <mark>Referéndum obligatorio</mark> para ratificación por el pueblo español.
 
 > 💡 Este procedimiento es tan exigente que **nunca ha sido utilizado**. Es prácticamente imposible reformar la Corona o los derechos fundamentales por esta vía sin un amplísimo consenso político y social.
 
@@ -254,14 +254,14 @@ La Constitución **no puede ser reformada** en tiempo de guerra ni durante la vi
 
 ### 3.5 Cuadro resumen comparativo
 
-| | **Procedimiento ordinario (art. 167)** | **Procedimiento agravado (art. 168)** |
+| | Procedimiento ordinario (art. 167) | Procedimiento agravado (art. 168) |
 |---|---|---|
-| **Materias** | Todo lo no incluido en el art. 168 | Título Preliminar / Sección 1ª Cap. II Tít. I (arts. 15-29) / Título II (Corona) / Revisión total |
-| **Mayoría** | 3/5 de cada Cámara (con alternativas si no hay acuerdo) | 2/3 de cada Cámara (sin alternativas) |
-| **Disolución de Cortes** | NO | SÍ (obligatoria) |
-| **Nuevas Cortes** | NO intervienen | Deben ratificar y elaborar el texto (2/3) |
-| **Referéndum** | FACULTATIVO (si lo pide 1/10 de una Cámara) | OBLIGATORIO |
-| **¿Se ha usado?** | SÍ (1992 y 2011) | NUNCA |
+| Materias | Todo lo no incluido en el art. 168 | Título Preliminar / Sección 1ª Cap. II Tít. I (arts. 15-29) / Título II (Corona) / Revisión total |
+| Mayoría | 3/5 de cada Cámara (con alternativas si no hay acuerdo) | 2/3 de cada Cámara (sin alternativas) |
+| Disolución de Cortes | NO | SÍ (obligatoria) |
+| Nuevas Cortes | NO intervienen | Deben ratificar y elaborar el texto (2/3) |
+| Referéndum | FACULTATIVO (si lo pide 1/10 de una Cámara) | OBLIGATORIO |
+| ¿Se ha usado? | SÍ (1992 y 2011) | NUNCA |
 
 ---
 
