@@ -14,7 +14,7 @@ La norma central es la Ley 19/2013, de transparencia, acceso a la información p
 
 La transparencia permite conocer como actuan las Administraciones, como toman decisiones, como gastan recursos y que información manejan. Fortalece control democratico, previene corrupción y mejora confianza ciudadana.
 
-La Ley 19/2013 se estructura en publicidad activa, derecho de acceso y buen gobierno.
+La Ley 19/2013 se estructura en <mark>publicidad activa, derecho de acceso y buen gobierno</mark>.
 
 | Pilar de la Ley 19/2013 | Idea central |
 | --- | --- |
@@ -24,7 +24,7 @@ La Ley 19/2013 se estructura en publicidad activa, derecho de acceso y buen gobi
 
 ## Publicidad activa
 
-La publicidad activa obliga a publicar información relevante sin necesidad de solicitud previa. Afecta a información institucional, organizativa, normativa, económica, presupuestaria y estadistica.
+La <mark>publicidad activa</mark> obliga a publicar información relevante <mark>sin necesidad de solicitud previa</mark>. Afecta a información institucional, organizativa, normativa, económica, presupuestaria y estadistica.
 
 Las entidades locales deben publicar estructura organizativa, responsables, funciones, normativa, planes, contratos, convenios, subvenciones, presupuestos, cuentas, retribuciones de altos cargos, información urbanística y otros datos exigidos.
 
@@ -44,7 +44,7 @@ La publicidad activa debe estar actualizada. Publicar documentos obsoletos o dis
 
 ## Información debida
 
-La información pública es el contenido o documento, cualquiera que sea su formato o soporte, que obre en poder de sujetos obligados y haya sido elaborado o adquirido en ejercicio de sus funciones.
+La <mark>información pública</mark> es el contenido o documento, cualquiera que sea su formato o soporte, que obre en poder de sujetos obligados y haya sido elaborado o adquirido en ejercicio de sus funciones.
 
 La Administración debe conservar, organizar y facilitar información. Esto conecta con archivo, expediente electrónico, registros, protección de datos y administración electrónica.
 
@@ -60,9 +60,9 @@ El derecho de acceso se refiere a información existente. La Administración deb
 
 ## Derecho de acceso
 
-Todas las personas tienen derecho a acceder a información pública en los términos de la ley. No se exige motivar la solicitud, aunque el solicitante puede exponer razones. La falta de motivación no es causa de rechazo.
+<mark>Todas las personas</mark> tienen derecho a acceder a información pública en los términos de la ley. <mark>No se exige motivar la solicitud</mark>, aunque el solicitante puede exponer razones. La falta de motivación no es causa de rechazo.
 
-El derecho no es absoluto. Tiene límites: seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención e investigación de delitos, igualdad de partes en procesos judiciales, funciones administrativas de vigilancia e inspección, intereses económicos y comerciales, política económica, secreto profesional, propiedad intelectual, protección de datos, confidencialidad y protección ambiental.
+El derecho no es absoluto. Tiene límites: <mark>seguridad nacional, defensa, relaciones exteriores, seguridad pública, prevención e investigación de delitos, igualdad de partes en procesos judiciales, funciones administrativas de vigilancia e inspección, intereses económicos y comerciales, política económica, secreto profesional, propiedad intelectual, protección de datos, confidencialidad y protección ambiental</mark>.
 
 Los límites deben aplicarse de forma proporcionada y atendiendo al caso concreto. Si solo parte de la información está afectada, debe concederse acceso parcial cuando sea posible.
 
@@ -83,7 +83,7 @@ La regla no es denegar automáticamente. Primero hay que identificar el limite, 
 
 La solicitud se dirige al titular del órgano administrativo o entidad que posea la información. Puede presentarse por medios electrónicos o presenciales. Debe identificar solicitante, información solicitada, dirección de contacto y modalidad preferida de acceso.
 
-El plazo general para resolver es de un mes, ampliable por otro si el volumen o complejidad lo justifican. El silencio tiene efecto desestimatorio. Frente a denegaciones puede interponerse reclamación ante órgano de transparencia competente o recurso contencioso-administrativo.
+El plazo general para resolver es de <mark>un mes</mark>, ampliable por otro si el volumen o complejidad lo justifican. El silencio tiene efecto <mark>desestimatorio</mark>. Frente a denegaciones puede interponerse reclamación ante órgano de transparencia competente o recurso contencioso-administrativo.
 
 | Plazo o recurso | Dato |
 | --- | --- |
@@ -102,7 +102,7 @@ El plazo general para resolver es de un mes, ampliable por otro si el volumen o 
 | Resolución | Concede, concede parcialmente, inadmite o deniega motivadamente. |
 | Acceso material | Se entrega copia, enlace, consulta presencial u otra modalidad admitida. |
 
-Las causas de inadmisición deben interpretarse con prudencia. Pueden referirse, entre otras, a información en curso de elaboración, solicitudes abusivas, información auxiliar o necesidad de reelaboración. La motivación es imprescindible, porque el derecho de acceso es un derecho legalmente reconocido.
+Las causas de inadmisición deben interpretarse con prudencia. Pueden referirse, entre otras, a <mark>información en curso de elaboración, solicitudes abusivas, información auxiliar o necesidad de reelaboración</mark>. La motivación es imprescindible, porque el derecho de acceso es un derecho legalmente reconocido.
 
 | Causa de inadmisión | Matiz de examen |
 | --- | --- |

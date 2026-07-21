@@ -12,11 +12,11 @@ Este tema se centra en tres normas: Ley Orgánica 3/2007 de igualdad efectiva en
 
 ## Igualdad efectiva entre mujeres y hombres
 
-La Ley Orgánica 3/2007 tiene por objeto hacer efectivo el derecho de igualdad de trato y de oportunidades entre mujeres y hombres, eliminando discriminación por razón de sexo en cualquier ámbito, especialmente político, civil, laboral, económico, social y cultural.
+La Ley Orgánica 3/2007 tiene por objeto hacer efectivo el derecho de <mark>igualdad de trato y de oportunidades entre mujeres y hombres</mark>, eliminando discriminación por razón de sexo en cualquier ámbito, especialmente político, civil, laboral, económico, social y cultural.
 
 Su ámbito de aplicación alcanza a toda persona física o jurídica que se encuentre o actúe en territorio español, cualquiera que sea su nacionalidad, domicilio o residencia. En test suele aparecer junto a la idea literal de que mujeres y hombres son iguales en dignidad humana y en derechos y deberes.
 
-La ley distingue discriminación directa e indirecta. La directa se produce cuando una persona es tratada de forma menos favorable por razón de sexo. La indirecta aparece cuando una disposición o práctica aparentemente neutra pone a personas de un sexo en desventaja particular salvo justificación objetiva.
+La ley distingue <mark>discriminación directa e indirecta</mark>. La directa se produce cuando una persona es tratada de forma menos favorable por razón de sexo. La indirecta aparece cuando una disposición o práctica aparentemente neutra pone a personas de un sexo en desventaja particular salvo justificación objetiva.
 
 La igualdad obliga a todos los poderes públicos. Deben integrar el principio de igualdad en normas, políticas, presupuestos, empleo público, contratación, subvenciones, educación, salud, sociedad de la información y participación.
 
@@ -30,9 +30,9 @@ La igualdad obliga a todos los poderes públicos. Deben integrar el principio de
 
 ## Principios rectores de igualdad
 
-Entre los principios destacan igualdad de trato y oportunidades, transversalidad, acción positiva, presencia equilibrada, corresponsabilidad, protección frente al acoso sexual y por razón de sexo, igualdad en el empleo, conciliación y erradicación de estereotipos.
+Entre los principios destacan <mark>igualdad de trato y oportunidades, transversalidad, acción positiva, presencia equilibrada, corresponsabilidad, protección frente al acoso sexual y por razón de sexo</mark>, igualdad en el empleo, conciliación y erradicación de estereotipos.
 
-La acción positiva permite adoptar medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad, siempre que sean razonables y proporcionadas.
+La <mark>acción positiva</mark> permite adoptar medidas específicas a favor de las mujeres para corregir situaciones patentes de desigualdad, siempre que sean <mark>razonables y proporcionadas</mark>.
 
 La transversalidad significa que la igualdad no se limita al area de igualdad. Debe incorporarse a ordenanzas, presupuestos, contratos, subvenciones, recursos humanos, comunicación, policía local, deportes, cultura, urbanismo y servicios sociales. En un Ayuntamiento, esto puede reflejarse en lenguaje administrativo inclusivo, clausulas sociales, datos desagregados, protocolos de acoso, formación y planes de igualdad.
 
@@ -54,9 +54,9 @@ La igualdad en el empleo público se concreta en procesos selectivos no discrimi
 
 ## Violencia de género
 
-La Ley Orgánica 1/2004 tiene por objeto actuar contra la violencia que, como manifestación de discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por quienes sean o hayan sido sus conyuges o esten o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia.
+La Ley Orgánica 1/2004 tiene por objeto actuar contra la violencia que, como manifestación de discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por quienes <mark>sean o hayan sido sus conyuges o esten o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia</mark>.
 
-Su enfoque es integral: prevención, sensibilización, educación, derechos de las victimas, asistencia social, asistencia jurídica, protección laboral, prestaciones, tutela judicial y medidas penales.
+Su enfoque es integral: <mark>prevención, sensibilización, educación, derechos de las victimas, asistencia social, asistencia jurídica, protección laboral, prestaciones, tutela judicial y medidas penales</mark>.
 
 Los poderes públicos deben garantizar información, atención, apoyo, protección y recuperación. En el ámbito municipal, la violencia de género se relaciona con servicios sociales, policía local, empadronamiento protegido, atención ciudadana, igualdad y coordinación institucional.
 
@@ -68,7 +68,7 @@ Los poderes públicos deben garantizar información, atención, apoyo, protecci�
 | Protección laboral | Derechos de movilidad, reducción o reordenación de jornada y otras medidas. |
 | Protección administrativa | Confidencialidad, coordinación institucional y trato especializado. |
 
-La ayuda económica del artículo 27 de la Ley Orgánica 1/2004 se fija, con carácter general, en el equivalente a seis mensualidades del subsidio por desempleo, con incrementos en supuestos específicos. Es un dato muy preguntable porque combina violencia de género y prestaciones.
+La ayuda económica del artículo 27 de la Ley Orgánica 1/2004 se fija, con carácter general, en el equivalente a <mark>seis mensualidades del subsidio por desempleo</mark>, con incrementos en supuestos específicos. Es un dato muy preguntable porque combina violencia de género y prestaciones.
 
 Para el personal administrativo, un punto crucial es la confidencialidad. Datos de domicilio, padrón, telefonos, expedientes de servicios sociales o actuaciones policiales pueden afectar directamente a la seguridad de la victima. La atención debe ser respetuosa, discreta y orientada a derivar al recurso competente.
 
@@ -76,9 +76,9 @@ En expedientes relacionados con violencia de género debe extremarse la coordina
 
 ## Personas trans y derechos LGTBI
 
-La Ley 4/2023 tiene por objeto garantizar y promover el derecho a la igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales, así como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
+La Ley 4/2023 tiene por objeto garantizar y promover el derecho a la <mark>igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales</mark>, así como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
 
-Reconoce principios de igualdad de trato, no discriminación, respeto a la diversidad, libre desarrollo de la personalidad, integridad física y moral, protección frente a violencias y promoción de políticas públicas inclusivas.
+Reconoce principios de <mark>igualdad de trato, no discriminación, respeto a la diversidad, libre desarrollo de la personalidad, integridad física y moral, protección frente a violencias</mark> y promoción de políticas públicas inclusivas.
 
 Para la Administración, implica adaptar atención, formularios, lenguaje, protocolos, educación, empleo, salud, servicios sociales y procedimientos para evitar discriminación y garantizar trato digno.
 
@@ -92,7 +92,7 @@ Para la Administración, implica adaptar atención, formularios, lenguaje, proto
 
 Los formularios, bases de convocatorias, protocolos de atención y comunicaciones municipales deben revisarse para no producir discriminaciones. A veces la mejora es sencilla: campos no innecesarios, trato nominal adecuado, ausencia de preguntas invasivas, información clara y derivación correcta.
 
-En la Ley 4/2023, la rectificación registral de la mención relativa al sexo puede solicitarse por personas mayores de 16 años. En el empleo público, las Administraciones deben promover protocolos frente al acoso por orientación sexual, identidad sexual, expresión de género y características sexuales.
+En la Ley 4/2023, la rectificación registral de la mención relativa al sexo puede solicitarse por personas <mark>mayores de 16 años</mark>. En el empleo público, las Administraciones deben promover protocolos frente al acoso por orientación sexual, identidad sexual, expresión de género y características sexuales.
 
 En atención administrativa, el trato debe respetar identidad, orientación, expresión de género y características sexuales. Esto exige evitar preguntas no necesarias, adaptar formularios cuando proceda, proteger datos especialmente sensibles y actuar frente a incidentes discriminatorios en servicios municipales.
 

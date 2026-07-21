@@ -12,7 +12,7 @@ La administración electrónica se regula por la Ley 39/2015, la Ley 40/2015, el
 
 ## Nuevas tecnologías en la gestión pública
 
-Las tecnologías permiten tramitar expedientes, registrar documentos, notificar, firmar, archivar, intercambiar datos, automatizar tareas y prestar servicios sin presencia física. Su finalidad no es solo digitalizar papel, sino mejorar eficacia, trazabilidad, accesibilidad y transparencia.
+Las tecnologías permiten <mark>tramitar expedientes, registrar documentos, notificar, firmar, archivar, intercambiar datos, automatizar tareas y prestar servicios</mark> sin presencia física. Su finalidad no es solo digitalizar papel, sino mejorar eficacia, trazabilidad, accesibilidad y transparencia.
 
 La transformación digital de la Administración tiene una consecuencia muy importante: el procedimiento ya no se concibe como una carpeta física que circula entre mesas, sino como una secuencia documentada de actuaciones electronicas. Cada actuación debe poder identificarse, fecharse, firmarse, conservarse y auditarse. Por eso las nuevas tecnologías no son un accesorio informatico, sino una parte del régimen jurídico del procedimiento.
 
@@ -29,15 +29,15 @@ La transformación digital de la Administración tiene una consecuencia muy impo
 
 ## Administración electrónica
 
-La Administración electrónica es el uso de medios electrónicos en relaciones internas y externas de las Administraciones. Incluye sede electrónica, registro electrónico, notificación electrónica, expediente electrónico, archivo electrónico, firma electrónica, intercambio de datos y actuación administrativa automatizada.
+La Administración electrónica es el uso de medios electrónicos en relaciones internas y externas de las Administraciones. Incluye <mark>sede electrónica, registro electrónico, notificación electrónica, expediente electrónico, archivo electrónico, firma electrónica, intercambio de datos y actuación administrativa automatizada</mark>.
 
 La Ley 39/2015 parte de una idea básica: la tramitación electrónica debe ser el funcionamiento ordinario de las Administraciones. Esto afecta tanto a relaciones con ciudadanos como a relaciones internas. Los expedientes deben impulsarse electronicamente, los documentos deben incorporarse en formato electrónico, las comunicaciones entre Administraciones deben realizarse por medios electrónicos y las copias deben emitirse con garantías de autenticidad.
 
 ## Derechos y obligaciones
 
-Las personas físicas pueden elegir relacionarse electronicamente o no, salvo que esten obligadas. Estan obligadas, entre otros, personas jurídicas, entidades sin personalidad, profesionales colegiados para trámites de su actividad, representantes de obligados y empleados públicos en actuaciones por razón de su condición.
+Las <mark>personas físicas pueden elegir</mark> relacionarse electronicamente o no, salvo que esten obligadas. Estan obligadas, entre otros, <mark>personas jurídicas, entidades sin personalidad, profesionales colegiados para trámites de su actividad, representantes de obligados y empleados públicos</mark> en actuaciones por razón de su condición.
 
-Los interesados tienen derecho a no aportar documentos ya presentados o elaborados por Administraciones, salvo oposición o imposibilidad legal. La Administración debe consultar datos mediante plataformas de intermediación cuando proceda.
+Los interesados tienen derecho a <mark>no aportar documentos ya presentados o elaborados por Administraciones</mark>, salvo oposición o imposibilidad legal. La Administración debe consultar datos mediante plataformas de intermediación cuando proceda.
 
 | Sujeto | Relación electrónica |
 | --- | --- |
@@ -50,7 +50,7 @@ Los interesados tienen derecho a no aportar documentos ya presentados o elaborad
 
 El derecho a no aportar documentos ya obrantes en la Administración es especialmente importante en atención ciudadana. No debe pedirse al ciudadano un certificado que la Administración pueda consultar, salvo que exista oposición justificada, imposibilidad técnica o una norma exija aportación.
 
-La identificación y firma electrónica no son exactamente lo mismo. Identificarse permite saber quién accede o actúa; firmar expresa voluntad y vincula un documento o solicitud. Pueden utilizarse certificados electrónicos, DNI electrónico, sistemas Cl@ve, sellos electrónicos, códigos seguros de verificación y otros sistemas admitidos.
+La identificación y firma electrónica no son exactamente lo mismo. <mark>Identificarse permite saber quién accede o actúa; firmar expresa voluntad y vincula un documento o solicitud</mark>. Pueden utilizarse certificados electrónicos, DNI electrónico, sistemas Cl@ve, sellos electrónicos, códigos seguros de verificación y otros sistemas admitidos.
 
 | Sistema | Utilidad |
 | --- | --- |
@@ -62,13 +62,13 @@ La identificación y firma electrónica no son exactamente lo mismo. Identificar
 
 ## Sede, registro y notificación
 
-La sede electrónica es la dirección electrónica titularidad de una Administración que garantiza identificación, autenticidad y responsabilidad. El registro electrónico permite presentar documentos todos los días y horas. La notificación electrónica se práctica mediante comparecencia en sede o dirección electrónica habilitada.
+La <mark>sede electrónica</mark> es la dirección electrónica titularidad de una Administración que garantiza identificación, autenticidad y responsabilidad. El <mark>registro electrónico permite presentar documentos todos los días y horas</mark>. La notificación electrónica se práctica mediante comparecencia en sede o dirección electrónica habilitada.
 
 La sede debe identificar a su titular, garantizar canales seguros, publicar información de trámites, permitir acceso al registro y ofrecer medios de comprobación de documentos. El registro electrónico emite recibo con fecha, hora, número de registro y relación de documentos presentados.
 
-La notificación electrónica se entiende practicada cuando el interesado accede a su contenido. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado está obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
+La notificación electrónica se entiende practicada cuando el interesado <mark>accede a su contenido</mark>. Si transcurren los plazos legales sin acceder, puede entenderse rechazada, con los efectos correspondientes, salvo imposibilidad técnica o material. En la práctica administrativa es esencial comprobar si el interesado está obligado a medios electrónicos, si ha comparecido, si la notificación ha caducado o si procede intento en papel.
 
-En notificaciones electrónicas, el aviso al correo o teléfono no sustituye a la notificación. El aviso ayuda, pero la validez depende de la puesta a disposición y del acceso o rechazo en la sede, dirección electrónica habilitada o sistema previsto. Esta distinción es muy preguntable.
+En notificaciones electrónicas, el <mark>aviso al correo o teléfono no sustituye a la notificación</mark>. El aviso ayuda, pero la validez depende de la puesta a disposición y del acceso o rechazo en la sede, dirección electrónica habilitada o sistema previsto. Esta distinción es muy preguntable.
 
 | Elemento electrónico | Dato de examen |
 | --- | --- |
@@ -83,7 +83,7 @@ En notificaciones electrónicas, el aviso al correo o teléfono no sustituye a l
 
 La Ley 40/2015 regula relaciones electronicas entre Administraciones, archivo electrónico, intercambio de información, identificación de sedes, portales, sistemas de firma y actuación automatizada.
 
-La interoperabilidad permite que sistemas distintos se comuniquen. La seguridad protege confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad.
+La <mark>interoperabilidad</mark> permite que sistemas distintos se comuniquen. La <mark>seguridad</mark> protege confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad.
 
 El Esquema Nacional de Interoperabilidad busca que los sistemas puedan compartir información y documentos de forma coherente. El Esquema Nacional de Seguridad establece medidas para proteger sistemas e información. Ambos son esenciales porque un expediente electrónico solo es útil si puede conservarse, consultarse, verificarse y compartirse con garantías.
 
@@ -91,7 +91,7 @@ El Sistema de Interconexión de Registros materializa la ventanilla única regis
 
 ## Actuación administrativa automatizada
 
-Es cualquier acto o actuación realizada integramente por medios electrónicos sin intervención directa de empleado público en cada caso. Debe definirse órgano responsable, sistemas, supervisión y recursos posibles.
+Es cualquier acto o actuación realizada integramente por medios electrónicos <mark>sin intervención directa de empleado público en cada caso</mark>. Debe definirse órgano responsable, sistemas, supervisión y recursos posibles.
 
 La actuación automatizada exige que se determine previamente el órgano responsable de definir especificaciones, programación, mantenimiento, supervisión y auditoría del sistema, así como el órgano competente a efectos de impugnación. No puede ser una "caja negra" sin responsable administrativo.
 

@@ -12,7 +12,7 @@ La norma principal es la Ley 31/1995 de Prevención de Riesgos Laborales y su no
 
 ## Objeto
 
-La Ley de Prevención tiene por objeto promover seguridad y salud de los trabajadores mediante aplicación de medidas y desarrollo de actividades necesarias para prevenir riesgos derivados del trabajo.
+La Ley de Prevención tiene por objeto promover <mark>seguridad y salud de los trabajadores</mark> mediante aplicación de medidas y desarrollo de actividades necesarias para prevenir riesgos derivados del trabajo.
 
 La prevención no se limita a reaccionar ante accidentes. Exige evaluar riesgos, planificar actividad preventiva, informar, formar, vigilar salud, adaptar puestos, investigar daños y mejorar continuamente.
 
@@ -32,7 +32,7 @@ La secuencia básica es:
 
 ## Ambito de aplicación
 
-Se aplica a relaciones laborales y al personal civil al servicio de Administraciones Públicas. Incluye funcionarios, laborales y otros empleados en los términos legales. Existen particularidades para policía, protección civil, emergencias y actividades con normativa específica.
+Se aplica a relaciones laborales y al <mark>personal civil al servicio de Administraciones Públicas</mark>. Incluye funcionarios, laborales y otros empleados en los términos legales. Existen particularidades para policía, protección civil, emergencias y actividades con normativa específica.
 
 La Ley 31/1995 tiene vocación general, pero ella misma contempla exclusiones o particularidades para actividades cuyas características lo impidan en determinados servicios operativos, sin perjuicio de que deban inspirarse medidas de seguridad y salud.
 
@@ -57,7 +57,7 @@ En una entidad local, la ley alcanza al personal administrativo, policía local,
 
 ## Principios de acción preventiva
 
-Los principios son evitar riesgos, evaluar los que no se puedan evitar, combatir riesgos en origen, adaptar trabajo a la persona, tener en cuenta evolución técnica, sustituir lo peligroso, planificar prevención, anteponer protección colectiva a individual y dar instrucciones adecuadas.
+Los principios son <mark>evitar riesgos, evaluar los que no se puedan evitar, combatir riesgos en origen, adaptar trabajo a la persona, tener en cuenta evolución técnica, sustituir lo peligroso, planificar prevención, anteponer protección colectiva a individual y dar instrucciones adecuadas</mark>.
 
 | Principio | Aplicación práctica |
 | --- | --- |
@@ -71,11 +71,11 @@ Los principios son evitar riesgos, evaluar los que no se puedan evitar, combatir
 
 ## Obligaciones del empresario/Administración
 
-La Administración debe garantizar seguridad y salud del personal. Debe elaborar evaluación de riesgos, plan preventivo, medidas de emergencia, información, formación, vigilancia de salud, equipos adecuados y coordinación de actividades empresariales.
+La Administración debe garantizar seguridad y salud del personal. Debe elaborar <mark>evaluación de riesgos, plan preventivo, medidas de emergencia, información, formación, vigilancia de salud, equipos adecuados y coordinación de actividades empresariales</mark>.
 
 También debe consultar y permitir participación a trabajadores mediante delegados de prevención y comité de seguridad y salud cuando proceda.
 
-La vigilancia de la salud debe ser proporcional al riesgo y respetar intimidad y confidencialidad. Con carácter general requiere consentimiento, salvo supuestos en que sea imprescindible para evaluar efectos de condiciones de trabajo o verificar si el estado del trabajador puede constituir peligro.
+La <mark>vigilancia de la salud</mark> debe ser proporcional al riesgo y respetar intimidad y confidencialidad. Con carácter general requiere <mark>consentimiento</mark>, salvo supuestos en que sea imprescindible para evaluar efectos de condiciones de trabajo o verificar si el estado del trabajador puede constituir peligro.
 
 Obligaciones que conviene memorizar:
 
@@ -101,13 +101,13 @@ La coordinación de actividades empresariales es esencial cuando concurren emple
 
 ## Obligaciones de trabajadores
 
-Los empleados deben usar adecuadamente equipos, medios y dispositivos de seguridad, informar de riesgos, cooperar con la Administración y cumplir instrucciones preventivas. El incumplimiento puede generar responsabilidad disciplinaria.
+Los empleados deben <mark>usar adecuadamente equipos, medios y dispositivos de seguridad, informar de riesgos, cooperar con la Administración y cumplir instrucciones preventivas</mark>. El incumplimiento puede generar responsabilidad disciplinaria.
 
 El trabajador no asume la responsabilidad principal de la prevención, pero si tiene deberes de colaboración. Por ejemplo, debe comunicar una silla rota, no manipular instalaciones eléctricas, bloquear zonas peligrosas si procede, respetar pausas de pantalla y seguir protocolos de evacuación.
 
 ## Riesgos del puesto administrativo
 
-En un puesto administrativo destacan riesgos ergonómicos por pantalla, teclado, silla, posturas mantenidas y movimientos repetitivos; riesgos visuales por pantallas; fatiga mental por carga de trabajo, plazos y atención al público; riesgos psicosociales por conflicto, estres, acoso o violencia ocupacional; riesgos de caidas al mismo nivel; manipulación de cargas ligeras; incendios y emergencias; y riesgos derivados de uso electrico básico.
+En un puesto administrativo destacan <mark>riesgos ergonómicos</mark> por pantalla, teclado, silla, posturas mantenidas y movimientos repetitivos; <mark>riesgos visuales</mark> por pantallas; fatiga mental por carga de trabajo, plazos y atención al público; <mark>riesgos psicosociales</mark> por conflicto, estres, acoso o violencia ocupacional; riesgos de caidas al mismo nivel; manipulación de cargas ligeras; incendios y emergencias; y riesgos derivados de uso electrico básico.
 
 | Riesgo | Ejemplo | Medida preventiva |
 | --- | --- | --- |
@@ -143,7 +143,7 @@ La prevención genera documentación: evaluación de riesgos, planificación pre
 
 En un Ayuntamiento, el personal administrativo puede intervenir tramitando citas de reconocimiento, partes de accidente, comunicaciones internas, archivo de documentación preventiva, convocatorias de comités o gestión de formación. Debe tener especial cuidado con datos de salud, porque son datos especialmente protegidos.
 
-Los delegados de prevención representan al personal en materia preventiva y participan en consulta, vigilancia y propuesta de mejoras. El Comité de Seguridad y Salud, cuando procede por tamaño de plantilla, es órgano paritario de participación. Sus actas, convocatorias y acuerdos también forman parte de la gestión administrativa preventiva.
+Los <mark>delegados de prevención</mark> representan al personal en materia preventiva y participan en consulta, vigilancia y propuesta de mejoras. El <mark>Comité de Seguridad y Salud</mark>, cuando procede por tamaño de plantilla, es órgano paritario de participación. Sus actas, convocatorias y acuerdos también forman parte de la gestión administrativa preventiva.
 
 | Órgano o figura preventiva | Dato |
 | --- | --- |

@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Informática básica
 
-La informática estudia el tratamiento automático de información mediante sistemas compuestos por hardware, software, datos, redes y usuarios. En un puesto administrativo municipal es herramienta diaria para expedientes, registro, correo, ofimática, sede electrónica, bases de datos y archivo.
+La informática estudia el <mark>tratamiento automático de información</mark> mediante sistemas compuestos por <mark>hardware, software, datos, redes y usuarios</mark>. En un puesto administrativo municipal es herramienta diaria para expedientes, registro, correo, ofimática, sede electrónica, bases de datos y archivo.
 
 La oposición no exige conocimientos de programación, sino manejo conceptual y práctico de herramientas habituales. Lo importante es entender que un ordenador administrativo forma parte de un entorno corporativo: usuarios, permisos, red, aplicaciones, seguridad y datos públicos.
 
@@ -16,9 +16,9 @@ La oposición no exige conocimientos de programación, sino manejo conceptual y 
 
 ## Componentes de un ordenador
 
-El hardware son elementos fisicos: unidad central, procesador, memoria RAM, almacenamiento, placa base, pantalla, teclado, raton, impresora, escaner y dispositivos de red. El procesador ejecuta instrucciones. La RAM almacena temporalmente datos en uso. El almacenamiento conserva información de forma permanente, mediante SSD, discos duros u otros soportes.
+El <mark>hardware</mark> son elementos fisicos: unidad central, procesador, memoria RAM, almacenamiento, placa base, pantalla, teclado, raton, impresora, escaner y dispositivos de red. El procesador ejecuta instrucciones. La <mark>RAM almacena temporalmente</mark> datos en uso. El <mark>almacenamiento conserva información de forma permanente</mark>, mediante SSD, discos duros u otros soportes.
 
-El software son programas y sistemas: sistema operativo, aplicaciones, controladores, utilidades y herramientas de seguridad. Los datos son documentos, expedientes, imagenes, hojas de calculo, correos y registros.
+El <mark>software</mark> son programas y sistemas: sistema operativo, aplicaciones, controladores, utilidades y herramientas de seguridad. Los datos son documentos, expedientes, imagenes, hojas de calculo, correos y registros.
 
 | Componente | Función |
 | --- | --- |
@@ -57,7 +57,7 @@ En conversión decimal aproximada, 1 GB equivale a 1.000 MB y 1 MB a 1.000 KB; p
 
 ## Sistemas operativos
 
-El sistema operativo administra recursos del ordenador y permite ejecutar aplicaciones. Gestiona memoria, procesos, archivos, dispositivos, usuarios, seguridad y comunicaciones.
+El <mark>sistema operativo administra recursos</mark> del ordenador y permite ejecutar aplicaciones. Gestiona memoria, procesos, archivos, dispositivos, usuarios, seguridad y comunicaciones.
 
 Windows 11 es un sistema operativo de Microsoft con interfaz grafica, menu Inicio, barra de tareas, escritorios, ventanas, configuración, explorador de archivos, integración con cuentas, actualizaciones, seguridad y herramientas de accesibilidad.
 
@@ -83,11 +83,11 @@ Windows 11 es un sistema operativo de Microsoft con interfaz grafica, menu Inici
 
 ## Explorador de Windows 11
 
-El Explorador de archivos permite navegar por unidades, carpetas y documentos. Incluye panel de navegación, ruta, busqueda, vistas, propiedades, accesos rapidos, bibliotecas o ubicaciones frecuentes.
+El <mark>Explorador de archivos</mark> permite navegar por unidades, carpetas y documentos. Incluye panel de navegación, ruta, busqueda, vistas, propiedades, accesos rapidos, bibliotecas o ubicaciones frecuentes.
 
 Permite crear, copiar, mover, renombrar, eliminar y comprimir archivos. También permite ordenar por nombre, fecha, tipo o tamano; cambiar vista; consultar propiedades; y buscar documentos.
 
-La vista **Detalles** es la más informativa porque permite ver columnas como nombre, fecha, tipo, tamaño o estado. La Papelera de reciclaje almacena temporalmente archivos eliminados, salvo eliminaciones definitivas o ubicaciones que no la usen.
+La vista <mark>Detalles</mark> es la más informativa porque permite ver columnas como nombre, fecha, tipo, tamaño o estado. La <mark>Papelera de reciclaje almacena temporalmente</mark> archivos eliminados, salvo eliminaciones definitivas o ubicaciones que no la usen.
 
 En entorno municipal, muchas carpetas pueden estar en unidades de red o servicios corporativos. El usuario no debe modificar permisos ni mover documentos oficiales sin saber sus consecuencias. Los expedientes deben conservarse en sistemas autorizados, no en el escritorio local.
 
@@ -107,7 +107,7 @@ Operaciones habituales:
 
 ## Gestión de carpetas y archivos
 
-Una carpeta organiza archivos. Un archivo contiene información y se identifica por nombre y extensión. La extensión indica tipo: `.docx`, `.xlsx`, `.pdf`, `.jpg`, `.zip`.
+Una carpeta organiza archivos. Un archivo contiene información y se identifica por <mark>nombre y extensión</mark>. La extensión indica tipo: `.docx`, `.xlsx`, `.pdf`, `.jpg`, `.zip`.
 
 La gestión correcta exige nomenclatura clara, evitar duplicidades, respetar permisos, no guardar información sensible en ubicaciones inseguras, usar unidades corporativas y seguir políticas de archivo.
 
@@ -129,9 +129,9 @@ La ruta de un archivo indica su ubicación. Puede ser local, como una carpeta de
 
 ## Seguridad informática
 
-La seguridad busca proteger confidencialidad, integridad y disponibilidad. Riesgos frecuentes: contrasenas debiles, phishing, malware, ransomware, pérdida de dispositivos, envio erroneo de correos, uso de USB no seguros, enlaces falsos y acceso indebido a expedientes.
+La seguridad busca proteger <mark>confidencialidad, integridad y disponibilidad</mark>. Riesgos frecuentes: contrasenas debiles, <mark>phishing, malware, ransomware</mark>, pérdida de dispositivos, envio erroneo de correos, uso de USB no seguros, enlaces falsos y acceso indebido a expedientes.
 
-Medidas básicas: contrasenas robustas, doble factor, bloqueo de pantalla, actualizaciones, antivirus, copias de seguridad, prudencia con adjuntos, verificación de remitentes, no compartir claves, usar redes seguras y respetar permisos.
+Medidas básicas: <mark>contrasenas robustas, doble factor, bloqueo de pantalla, actualizaciones, antivirus, copias de seguridad, prudencia con adjuntos, verificación de remitentes, no compartir claves, usar redes seguras y respetar permisos</mark>.
 
 En Administración, la seguridad informática se relaciona con protección de datos, Esquema Nacional de Seguridad, expediente electrónico y continuidad de servicios públicos.
 

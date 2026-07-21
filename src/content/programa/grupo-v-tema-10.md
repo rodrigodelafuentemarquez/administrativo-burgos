@@ -8,9 +8,9 @@ estado: "borrador"
 
 ## Sistemas ofimáticos colaborativos
 
-Los sistemas ofimaticos colaborativos permiten crear, editar, compartir y conservar documentos de trabajo. Microsoft 365 integra Word, Excel, Outlook, OneDrive, SharePoint, Teams y otras herramientas. En Administración, su uso debe ajustarse a seguridad, protección de datos y políticas corporativas.
+Los sistemas ofimaticos colaborativos permiten <mark>crear, editar, compartir y conservar documentos de trabajo</mark>. Microsoft 365 integra Word, Excel, Outlook, OneDrive, SharePoint, Teams y otras herramientas. En Administración, su uso debe ajustarse a <mark>seguridad, protección de datos y políticas corporativas</mark>.
 
-La colaboración permite **coedición, control de versiones, comentarios, permisos y almacenamiento en nube corporativa**. <mark>No debe confundirse colaboración con difusión indiscriminada</mark>: cada documento debe compartirse solo con quienes lo necesitan.
+La colaboración permite <mark>coedición, control de versiones, comentarios, permisos y almacenamiento en nube corporativa</mark>. <mark>No debe confundirse colaboración con difusión indiscriminada</mark>: cada documento debe compartirse solo con quienes lo necesitan.
 
 | Herramienta | Uso administrativo habitual |
 | --- | --- |
@@ -32,11 +32,11 @@ Reglas prácticas de uso administrativo:
 
 ## Word para Microsoft 365
 
-Word es procesador de textos. Permite redactar informes, oficios, propuestas, actas, certificados, cartas, anuncios, bases y documentos administrativos.
+<mark>Word es procesador de textos</mark>. Permite redactar informes, oficios, propuestas, actas, certificados, cartas, anuncios, bases y documentos administrativos.
 
-Sus funciones principales incluyen formato de texto, estilos, encabezados, pies, numeración, tablas, imagenes, indices, notas, revisión ortografica, control de cambios, comentarios, plantillas, combinación de correspondencia y exportación a PDF.
+Sus funciones principales incluyen formato de texto, <mark>estilos, encabezados, pies, numeración, tablas, imagenes, indices, notas, revisión ortografica, control de cambios, comentarios, plantillas, combinación de correspondencia y exportación a PDF</mark>.
 
-El uso de estilos es importante para documentos largos, porque permite estructura coherente, indice automático y accesibilidad. El control de cambios permite revisar borradores. La combinación de correspondencia genera comunicaciones repetitivas a partir de datos.
+El uso de <mark>estilos</mark> es importante para documentos largos, porque permite estructura coherente, indice automático y accesibilidad. El <mark>control de cambios</mark> permite revisar borradores. La <mark>combinación de correspondencia</mark> genera comunicaciones repetitivas a partir de datos.
 
 La accesibilidad documental también cuenta. Un documento administrativo debe usar estilos reales, tablas simples, texto alternativo en imágenes relevantes, contraste suficiente y estructura comprensible. Exportar a PDF no debe destruir esa accesibilidad ni ocultar comentarios o metadatos internos.
 
@@ -78,11 +78,11 @@ Un error frecuente es dar formato manual a cada título. En documentos largos, e
 
 ## Excel para Microsoft 365
 
-Excel es hoja de calculo. Permite organizar datos en libros, hojas, filas, columnas y celdas. Se usa para listados, presupuestos, seguimiento de expedientes, estadisticas, liquidaciones auxiliares, controles y análisis.
+<mark>Excel es hoja de calculo</mark>. Permite organizar datos en <mark>libros, hojas, filas, columnas y celdas</mark>. Se usa para listados, presupuestos, seguimiento de expedientes, estadisticas, liquidaciones auxiliares, controles y análisis.
 
-Las funciones básicas incluyen introducción de datos, formato, filtros, ordenación, tablas, fórmulas, referencias absolutas y relativas, graficos, validación, formato condicional y protección de hojas.
+Las funciones básicas incluyen introducción de datos, formato, <mark>filtros, ordenación, tablas, fórmulas, referencias absolutas y relativas, graficos, validación, formato condicional y protección de hojas</mark>.
 
-Funciones frecuentes: SUMA, PROMEDIO, MIN, MAX, CONTAR, CONTARA, SI, Y, O, BUSCARV o BUSCARX, CONCAT, TEXTO, FECHA, HOY, REDONDEAR y funciones de filtros o tablas dinamicas según versión.
+Funciones frecuentes: <mark>SUMA, PROMEDIO, MIN, MAX, CONTAR, CONTARA, SI, Y, O, BUSCARV o BUSCARX, CONCAT, TEXTO, FECHA, HOY, REDONDEAR</mark> y funciones de filtros o tablas dinamicas según versión.
 
 Las tablas dinamicas resumen datos por categorías. Los graficos visualizan información. El formato condicional destaca valores. La validación evita entradas incorrectas.
 
@@ -95,7 +95,7 @@ Las tablas dinamicas resumen datos por categorías. Los graficos visualizan info
 | FECHA / HOY | Gestionar fechas. | Calculo auxiliar de vencimientos. |
 | REDONDEAR | Ajustar decimales. | Importes económicos auxiliares. |
 
-En fórmulas es clave distinguir referencias relativas, absolutas y mixtas. Al copiar una fórmula, una referencia relativa cambia; una absoluta se mantiene con `$`; una mixta fija solo fila o columna. Muchas hojas administrativas fallan por arrastrar fórmulas sin fijar correctamente una celda de tarifa, porcentaje o fecha.
+En fórmulas es clave distinguir <mark>referencias relativas, absolutas y mixtas</mark>. Al copiar una fórmula, una referencia relativa cambia; una absoluta se mantiene con `$`; una mixta fija solo fila o columna. Muchas hojas administrativas fallan por arrastrar fórmulas sin fijar correctamente una celda de tarifa, porcentaje o fecha.
 
 | Concepto | Explicación |
 | --- | --- |
@@ -136,7 +136,7 @@ Ejemplos de uso administrativo: seguimiento de solicitudes por estado, control d
 
 ## Buen uso administrativo
 
-Word y Excel no sustituyen a aplicaciones corporativas ni expedientes electrónicos. Deben usarse como apoyo, respetando protección de datos, versionado y archivo. Los documentos definitivos deben incorporarse al expediente por canales oficiales.
+<mark>Word y Excel no sustituyen a aplicaciones corporativas ni expedientes electrónicos</mark>. Deben usarse como apoyo, respetando protección de datos, versionado y archivo. Los documentos definitivos deben incorporarse al expediente por canales oficiales.
 
 En Excel hay que evitar errores de fórmulas, rangos incompletos, datos personales innecesarios y hojas sin protección cuando se comparten. En Word hay que evitar plantillas obsoletas, firmas incorrectas y copiar textos normativos sin actualizar.
 

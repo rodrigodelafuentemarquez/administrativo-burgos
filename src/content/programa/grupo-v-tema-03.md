@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Atención al público
 
-La atención al público es una función esencial en la Administración local. Consiste en recibir, orientar, informar y asistir a la ciudadania en sus relaciones con el Ayuntamiento. Debe prestarse con respeto, claridad, neutralidad, accesibilidad, confidencialidad y eficacia.
+La atención al público es una función esencial en la Administración local. Consiste en <mark>recibir, orientar, informar y asistir</mark> a la ciudadania en sus relaciones con el Ayuntamiento. Debe prestarse con <mark>respeto, claridad, neutralidad, accesibilidad, confidencialidad y eficacia</mark>.
 
 El personal administrativo debe conocer procedimientos, canales, plazos, derechos, obligaciones, registros, sede electrónica y servicios municipales. Una buena atención evita errores, reduce reclamaciones y facilita ejercicio de derechos.
 
@@ -23,7 +23,7 @@ La atención al público no es solo trato amable. Tiene contenido jurídico: inf
 | Trazabilidad | Registrar solicitudes y dejar constancia cuando proceda. |
 | Derivación correcta | Enviar al servicio competente sin marear al ciudadano. |
 
-Los derechos de las personas en sus relaciones con las Administraciones incluyen comunicarse por el canal admitido, ser asistidas en el uso de medios electrónicos cuando proceda, usar lenguas oficiales según normativa, conocer estado de tramitación si son interesadas, no aportar documentos ya presentados o elaborados por Administraciones, formular alegaciones, obtener copia de documentos y exigir responsabilidades cuando proceda.
+Los derechos de las personas en sus relaciones con las Administraciones incluyen comunicarse por el canal admitido, <mark>ser asistidas en el uso de medios electrónicos</mark> cuando proceda, usar lenguas oficiales según normativa, conocer estado de tramitación si son interesadas, <mark>no aportar documentos ya presentados o elaborados por Administraciones</mark>, formular alegaciones, obtener copia de documentos y exigir responsabilidades cuando proceda.
 
 | Derecho ciudadano | Aplicación en atención |
 | --- | --- |
@@ -44,11 +44,11 @@ Los derechos de las personas en sus relaciones con las Administraciones incluyen
 
 ## Personas con discapacidad
 
-La atención a personas con discapacidad exige accesibilidad universal, ajustes razonables y trato adecuado. La Administración debe eliminar barreras físicas, sensoriales, cognitivas y digitales.
+La atención a personas con discapacidad exige <mark>accesibilidad universal, ajustes razonables y trato adecuado</mark>. La Administración debe eliminar barreras físicas, sensoriales, cognitivas y digitales.
 
 Esto incluye lenguaje claro, apoyo en tramitación, accesibilidad web, documentos comprensibles, atención preferente cuando proceda, bucles magneticos, lectura facil, asistencia para medios electrónicos y respeto a autonomía personal.
 
-Se considera persona con discapacidad, a efectos generales de la normativa de derechos de las personas con discapacidad, quien tenga reconocido un grado igual o superior al 33%. En empleo público, la reserva mínima de plazas para personas con discapacidad es del 7%, con desglose legal para discapacidad intelectual.
+Se considera persona con discapacidad, a efectos generales de la normativa de derechos de las personas con discapacidad, quien tenga reconocido un grado <mark>igual o superior al 33%</mark>. En empleo público, la reserva mínima de plazas para personas con discapacidad es del <mark>7%</mark>, con desglose legal para discapacidad intelectual.
 
 La discapacidad no debe tratarse como excepción caritativa, sino como cuestión de igualdad de derechos y no discriminación.
 
@@ -64,9 +64,9 @@ Ejemplos de ajustes razonables en atención municipal:
 
 ## Servicios de información administrativa
 
-La información administrativa puede ser general o particular. La información general orienta sobre competencias, órganos, horarios, procedimientos, requisitos, documentos, tasas, plazos, recursos y canales. Puede darse sin acreditar interés específico.
+La información administrativa puede ser <mark>general o particular</mark>. La información general orienta sobre competencias, órganos, horarios, procedimientos, requisitos, documentos, tasas, plazos, recursos y canales. Puede darse sin acreditar interés específico.
 
-La información particular se refiere a expedientes concretos. Solo puede facilitarse a interesados o representantes acreditados, respetando protección de datos y confidencialidad.
+La información particular se refiere a expedientes concretos. Solo puede facilitarse a <mark>interesados o representantes acreditados</mark>, respetando protección de datos y confidencialidad.
 
 Los servicios de información se prestan presencialmente, por telefono, sede electrónica, correo, portales web, oficinas de asistencia en materia de registros y unidades gestoras.
 
@@ -89,7 +89,7 @@ En la Administración local, la participación ciudadana conecta con el principi
 
 ## Reclamaciones, quejas y sugerencias
 
-La queja expresa disconformidad con funcionamiento de un servicio. La reclamación puede exigir actuación concreta o denunciar perjuicio. La sugerencia propone mejora. No siempre equivalen a recurso administrativo, aunque pueden originar expediente o respuesta formal.
+La <mark>queja</mark> expresa disconformidad con funcionamiento de un servicio. La <mark>reclamación</mark> puede exigir actuación concreta o denunciar perjuicio. La <mark>sugerencia</mark> propone mejora. No siempre equivalen a recurso administrativo, aunque pueden originar expediente o respuesta formal.
 
 Las Administraciones deben disponer de canales para presentarlas, analizarlas y contestarlas. En municipios de gran población puede existir Comisión Especial de Sugerencias y Reclamaciones.
 
@@ -106,11 +106,11 @@ La calificación correcta evita errores. Si un ciudadano llama "reclamación" a 
 
 ## Peticiones
 
-El derecho de petición permite dirigirse a poderes públicos para solicitar actuaciones o decisiones sobre materias de su competencia. Se regula por ley orgánica y no sustituye recursos ni procedimientos específicos.
+El <mark>derecho de petición</mark> permite dirigirse a poderes públicos para solicitar actuaciones o decisiones sobre materias de su competencia. Se regula por ley orgánica y <mark>no sustituye recursos ni procedimientos específicos</mark>.
 
 La iniciativa legislativa popular estatal exige al menos 500.000 firmas acreditadas. En el derecho de petición, la Administración debe acusar recibo y comunicar la tramitación o resultado, pero no existe derecho a obtener una resolución favorable por el mero hecho de pedirla.
 
-En el marco de calidad de servicios de la Administración General del Estado, las cartas de servicios deben actualizarse periódicamente y, en todo caso, al menos cada tres años. Las quejas y sugerencias deben recibir información sobre las actuaciones realizadas en un plazo de quince días hábiles.
+En el marco de calidad de servicios de la Administración General del Estado, las cartas de servicios deben actualizarse periódicamente y, en todo caso, al menos <mark>cada tres años</mark>. Las quejas y sugerencias deben recibir información sobre las actuaciones realizadas en un plazo de <mark>quince días hábiles</mark>.
 
 En la práctica, la primera tarea administrativa es calificar correctamente lo presentado: solicitud, recurso, queja, sugerencia, denuncia, petición o reclamación patrimonial. De esa calificación dependen plazos, órgano competente y efectos.
 
@@ -118,6 +118,6 @@ En la práctica, la primera tarea administrativa es calificar correctamente lo p
 
 El personal de atención debe actuar con metodo. Primero identifica que quiere la persona. Despues comprueba si se trata de información general o expediente concreto. Si hay expediente, verifica identidad y representación. Si se presenta documentación, registra o indica canal correcto. Si falta documentación, informa sin impedir la presentación salvo que la normativa lo exija. Si el asunto corresponde a otra Administración, orienta correctamente.
 
-No se debe denegar verbalmente la presentación de un escrito por considerar que está incompleto. Lo ordinario es registrar y que el órgano competente requiera subsanación si procede. Tampoco debe facilitarse información particular a familiares, gestores o terceros sin representación acreditada.
+No se debe <mark>denegar verbalmente la presentación de un escrito</mark> por considerar que está incompleto. Lo ordinario es registrar y que el órgano competente requiera subsanación si procede. Tampoco debe facilitarse información particular a familiares, gestores o terceros sin representación acreditada.
 
 Una regla útil en mostrador es separar informar, registrar y resolver. El personal de atención puede orientar y registrar, pero la inadmisión, denegación, subsanación o resolución corresponde al órgano competente mediante trámite formal. Esta separación evita indefensión y protege al propio empleado.

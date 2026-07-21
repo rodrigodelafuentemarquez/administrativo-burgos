@@ -10,11 +10,11 @@ estado: "borrador"
 
 El régimen se basa en el Reglamento General de Protección de Datos de la Unión Europea y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de derechos digitales.
 
-El RGPD es directamente aplicable desde el 25 de mayo de 2018. La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD, completa sus previsiones y regula derechos digitales.
+El RGPD es directamente aplicable desde el <mark>25 de mayo de 2018</mark>. La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD, completa sus previsiones y regula derechos digitales.
 
 ## Datos personales y tratamiento
 
-Dato personal es toda información sobre una **persona física identificada o identificable**. Tratamiento es cualquier operación sobre datos: recogida, registro, consulta, comunicación, conservación, supresión o modificación.
+Dato personal es toda información sobre una <mark>persona física identificada o identificable</mark>. Tratamiento es <mark>cualquier operación sobre datos</mark>: recogida, registro, consulta, comunicación, conservación, supresión o modificación.
 
 Un Ayuntamiento trata datos constantemente: padrón, tributos, multas, licencias, servicios sociales, personal, proveedores, expedientes, cámaras, registro y sede electrónica.
 
@@ -28,15 +28,15 @@ Un Ayuntamiento trata datos constantemente: padrón, tributos, multas, licencias
 | Imagen | Cámaras de seguridad o fotografia. |
 | Firma | Firma manuscrita o electrónica. |
 
-Los datos de categorías especiales, como salud, ideologia, afiliación sindical, religion, orientación sexual o datos biometricos en determinados usos, tienen protección reforzada. En un Ayuntamiento pueden aparecer en servicios sociales, recursos humanos, igualdad, discapacidad o expedientes especialmente sensibles.
+Los datos de categorías especiales, como <mark>salud, ideologia, afiliación sindical, religion, orientación sexual o datos biometricos</mark> en determinados usos, tienen protección reforzada. En un Ayuntamiento pueden aparecer en servicios sociales, recursos humanos, igualdad, discapacidad o expedientes especialmente sensibles.
 
-El tratamiento de datos de menores basado únicamente en su consentimiento solo es válido en España cuando sean mayores de 14 años. Por debajo de esa edad, se requiere el consentimiento del titular de la patria potestad o tutela, salvo habilitación legal específica.
+El tratamiento de datos de menores basado únicamente en su consentimiento solo es válido en España cuando sean <mark>mayores de 14 años</mark>. Por debajo de esa edad, se requiere el consentimiento del titular de la patria potestad o tutela, salvo habilitación legal específica.
 
 <mark>Clave de examen:</mark> proteger datos no significa ocultarlo todo. Significa tratar cada dato con base jurídica, finalidad legitima, minimización, seguridad y respeto a derechos.
 
 ## Principios
 
-Los principios son licitud, lealtad y transparencia; limitación de finalidad; minimización; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva.
+Los principios son <mark>licitud, lealtad y transparencia; limitación de finalidad; minimización; exactitud; limitación del plazo de conservación; integridad y confidencialidad; y responsabilidad proactiva</mark>.
 
 La Administración debe poder demostrar cumplimiento. No basta con afirmar que cumple: debe documentar tratamientos, analizar riesgos, aplicar medidas y formar al personal.
 
@@ -62,7 +62,7 @@ La responsabilidad proactiva se concreta en registro de actividades de tratamien
 
 ## Licitud
 
-El tratamiento necesita base jurídica: cumplimiento de obligación legal, ejercicio de poderes públicos, misión en interés público, contrato, consentimiento, interés vital u otros supuestos. En Administraciones, las bases más habituales son obligación legal y ejercicio de potestades públicas.
+El tratamiento necesita base jurídica: cumplimiento de obligación legal, ejercicio de poderes públicos, misión en interés público, contrato, consentimiento, interés vital u otros supuestos. En Administraciones, las bases más habituales son <mark>obligación legal y ejercicio de potestades públicas</mark>.
 
 El consentimiento no debe usarse cuando la Administración actúa en potestad pública si existe base legal.
 
@@ -80,7 +80,7 @@ En Administración, el consentimiento no debe usarse como "comodin" si realmente
 
 ## Derechos
 
-Las personas tienen derechos de acceso, rectificación, supresión, oposición, limitación, portabilidad cuando proceda y no ser objeto de decisiones automatizadas en determinados supuestos.
+Las personas tienen derechos de <mark>acceso, rectificación, supresión, oposición, limitación, portabilidad</mark> cuando proceda y <mark>no ser objeto de decisiones automatizadas</mark> en determinados supuestos.
 
 El ejercicio de derechos debe tramitarse en plazo y con identificación adecuada. Puede limitarse cuando una ley lo prevea, por ejemplo en investigaciones o intereses públicos relevantes.
 
@@ -98,9 +98,9 @@ En Administraciones, algunos derechos pueden no prosperar si existe obligación 
 
 ## Responsable, encargado y delegado
 
-El responsable decide fines y medios del tratamiento. En el Ayuntamiento suele ser la propia entidad u órgano correspondiente. El encargado trata datos por cuenta del responsable, por ejemplo una empresa de software o servicio contratado, mediante contrato de encargo.
+El <mark>responsable decide fines y medios</mark> del tratamiento. En el Ayuntamiento suele ser la propia entidad u órgano correspondiente. El <mark>encargado trata datos por cuenta del responsable</mark>, por ejemplo una empresa de software o servicio contratado, mediante contrato de encargo.
 
-El Delegado de Protección de Datos informa, asesora, supervisa cumplimiento, coopera con autoridad de control y actúa como punto de contacto. Las Administraciones Públicas deben designarlo.
+El <mark>Delegado de Protección de Datos</mark> informa, asesora, supervisa cumplimiento, coopera con autoridad de control y actúa como punto de contacto. Las <mark>Administraciones Públicas deben designarlo</mark>.
 
 | Figura | Papel |
 | --- | --- |
@@ -125,7 +125,7 @@ Cuando el Ayuntamiento contrata una aplicación de gestión de expedientes, una 
 - el **DPO** asesora, supervisa y sirve de punto de contacto;
 - la **autoridad de control** investiga, requiere y puede sancionar o apercibir.
 
-Una brecha de seguridad es un incidente que ocasiona destrucción, pérdida, alteración, comunicación o acceso no autorizado a datos personales. Debe comunicarse internamente de inmediato para valorar riesgo, medidas de contención y, si procede, notificación a la autoridad de control y a las personas afectadas.
+Una <mark>brecha de seguridad</mark> es un incidente que ocasiona destrucción, pérdida, alteración, comunicación o acceso no autorizado a datos personales. Debe comunicarse internamente de inmediato para valorar riesgo, medidas de contención y, si procede, notificación a la autoridad de control y a las personas afectadas.
 
 | Incidente | Posible brecha |
 | --- | --- |
@@ -140,7 +140,7 @@ La Agencia Española de Protección de Datos es autoridad estatal. Algunas comun
 
 ## Derechos digitales
 
-La Ley Orgánica 3/2018 incorpora derechos digitales: neutralidad de internet, acceso universal, seguridad digital, educación digital, protección de menores, rectificación en internet, actualización de informaciones, intimidad en uso de dispositivos laborales, desconexion digital y derechos ante sistemas de videovigilancia y geolocalización.
+La Ley Orgánica 3/2018 incorpora derechos digitales: <mark>neutralidad de internet, acceso universal, seguridad digital, educación digital, protección de menores, rectificación en internet, actualización de informaciones, intimidad en uso de dispositivos laborales, desconexion digital y derechos ante sistemas de videovigilancia y geolocalización</mark>.
 
 Para un administrativo, protección de datos significa no consultar expedientes sin motivo, no divulgar información, comprobar destinatarios, usar copia oculta cuando proceda, custodiar documentos, bloquear pantalla, destruir papel correctamente y respetar perfiles de acceso.
 

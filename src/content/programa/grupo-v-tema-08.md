@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Documento administrativo
 
-Un documento administrativo es soporte que contiene información producida, recibida o conservada por una Administración en ejercicio de sus funciones. Puede estar en papel o formato electrónico. Tiene valor probatorio, informativo y jurídico.
+Un documento administrativo es soporte que contiene información <mark>producida, recibida o conservada por una Administración en ejercicio de sus funciones</mark>. Puede estar en papel o formato electrónico. Tiene valor <mark>probatorio, informativo y jurídico</mark>.
 
 El documento administrativo no se define solo por su formato. Lo relevante es que se integra en una función administrativa: tramitar, informar, resolver, notificar, certificar, fiscalizar, contratar, recaudar o archivar. Un correo electrónico, una solicitud, una factura, un informe técnico, una diligencia, una resolución o un justificante de registro pueden ser documentos administrativos si forman parte de la actividad pública.
 
@@ -34,7 +34,7 @@ El documento administrativo no se define solo por su formato. Lo relevante es qu
 
 ## Formación del expediente
 
-El expediente es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a una resolución administrativa, así como las diligencias encaminadas a ejecutarla.
+El expediente es el <mark>conjunto ordenado de documentos y actuaciones</mark> que sirven de antecedente y fundamento a una resolución administrativa, así como las diligencias encaminadas a ejecutarla.
 
 Según el artículo 70 de la Ley 39/2015, esta definición de expediente administrativo es muy literal y aparece mucho en test. El expediente no es solo una carpeta: incluye documentos, actuaciones, antecedentes, fundamentos y diligencias de ejecución.
 
@@ -55,9 +55,9 @@ Un expediente administrativo bien formado debe respetar estas exigencias:
 
 ## Expediente electrónico
 
-El expediente electrónico se forma mediante agregación ordenada de documentos electrónicos, indice electrónico, firma y metadatos. Debe garantizar integridad, autenticidad, conservación y recuperación.
+El expediente electrónico se forma mediante agregación ordenada de <mark>documentos electrónicos, indice electrónico, firma y metadatos</mark>. Debe garantizar <mark>integridad, autenticidad, conservación y recuperación</mark>.
 
-Cuando se remite un expediente electrónico, debe enviarse foliado mediante indice electrónico autenticado, asegurando que no se alteran documentos.
+Cuando se remite un expediente electrónico, debe enviarse <mark>foliado mediante indice electrónico autenticado</mark>, asegurando que no se alteran documentos.
 
 El indice electrónico equivale a una garantía de integridad del expediente. Permite comprobar que los documentos incluidos son los que corresponden y que no han sido alterados. Los metadatos identifican datos como órgano, fecha, tipo documental, interesado, estado, firma o código seguro de verificación.
 
@@ -79,7 +79,7 @@ La función de archivo empieza antes de que el expediente termine. Si durante la
 
 ## Clases de archivos
 
-Puede hablarse de archivo de oficina, archivo central, archivo intermedio y archivo histórico. El archivo de oficina conserva documentos en tramitación o uso frecuente. El central recibe expedientes finalizados. El intermedio conserva documentos antes de eliminación o transferencia. El histórico conserva documentos con valor permanente.
+Puede hablarse de <mark>archivo de oficina, archivo central, archivo intermedio y archivo histórico</mark>. El archivo de oficina conserva documentos en tramitación o uso frecuente. El central recibe expedientes finalizados. El intermedio conserva documentos antes de eliminación o transferencia. El histórico conserva documentos con valor permanente.
 
 | Clase de archivo | Momento del documento | Finalidad principal |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Puede hablarse de archivo de oficina, archivo central, archivo intermedio y arch
 
 Los documentos pueden ordenarse por series documentales, órganos productores, materias, cronologia, expedientes, numeración registral o clasificación funcional. La ordenación debe permitir localizar y reconstruir actuaciones.
 
-La serie documental agrupa expedientes o documentos de la misma naturaleza producidos por una misma función: licencias urbanísticas, expedientes sancionadores, padrón, contratos menores, subvenciones, recursos, facturas, decretos o actas. Trabajar por series facilita aplicar plazos de conservación y criterios de acceso.
+La <mark>serie documental</mark> agrupa expedientes o documentos de la misma naturaleza producidos por una misma función: licencias urbanísticas, expedientes sancionadores, padrón, contratos menores, subvenciones, recursos, facturas, decretos o actas. Trabajar por series facilita aplicar plazos de conservación y criterios de acceso.
 
 | Concepto archivístico | Definición útil |
 | --- | --- |
@@ -105,7 +105,7 @@ En entidades locales, la función de fe pública y certificación corresponde a 
 
 ## Archivo electrónico
 
-El archivo electrónico debe conservar documentos con garantías de autenticidad, integridad, confidencialidad, disponibilidad y trazabilidad. Requiere metadatos, políticas de conservación, copias, control de accesos y medidas de seguridad.
+El archivo electrónico debe conservar documentos con garantías de <mark>autenticidad, integridad, confidencialidad, disponibilidad y trazabilidad</mark>. Requiere metadatos, políticas de conservación, copias, control de accesos y medidas de seguridad.
 
 El archivo electrónico no consiste en guardar PDF en una carpeta compartida. Debe preservar documentos a largo plazo, mantener evidencias de firma, controlar permisos, evitar manipulaciones, permitir busquedas y cumplir el Esquema Nacional de Seguridad e Interoperabilidad.
 
@@ -122,9 +122,9 @@ La gestión documental incluye ciclo de vida: creación o captura, tramitación,
 
 ## Acceso a documentos
 
-El acceso se rige por transparencia, procedimiento administrativo, archivos, protección de datos y normativa sectorial. Los interesados pueden acceder a expedientes en que tengan tal condición. Cualquier persona puede solicitar información pública, con límites.
+El acceso se rige por transparencia, procedimiento administrativo, archivos, protección de datos y normativa sectorial. Los <mark>interesados pueden acceder a expedientes en que tengan tal condición</mark>. Cualquier persona puede solicitar información pública, con límites.
 
-Los límites incluyen datos personales, seguridad, investigación, intereses económicos, secreto profesional, propiedad intelectual, protección ambiental y otros. Puede concederse acceso parcial, anonimizar datos o denegar motivadamente.
+Los límites incluyen <mark>datos personales, seguridad, investigación, intereses económicos, secreto profesional, propiedad intelectual, protección ambiental</mark> y otros. Puede concederse acceso parcial, anonimizar datos o denegar motivadamente.
 
 ## Formas de acceso y límites
 

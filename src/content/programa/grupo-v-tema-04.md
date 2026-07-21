@@ -12,7 +12,7 @@ La materia se regula por la Ley 39/2015, el Real Decreto 203/2021 de actuación 
 
 ## Oficinas de asistencia en materia de registros
 
-Las oficinas de asistencia en materia de registros son unidades que facilitan a la ciudadania la relación con las Administraciones. Sustituyen el modelo tradicional de registro como mero punto de entrada y lo amplian con asistencia, digitalización y apoyo.
+Las <mark>oficinas de asistencia en materia de registros</mark> son unidades que facilitan a la ciudadania la relación con las Administraciones. Sustituyen el modelo tradicional de registro como mero punto de entrada y lo amplian con <mark>asistencia, digitalización y apoyo</mark>.
 
 En el Ayuntamiento de Burgos, estas oficinas se integran en la organización municipal y atienden presentación de documentos, información básica, asistencia en uso de medios electrónicos y tramitación registral.
 
@@ -32,7 +32,7 @@ En una actuación ordinaria deben comprobarse, como mínimo:
 
 ## Organización
 
-La organización depende del Ayuntamiento y de sus decisiones internas. Puede existir registro general, oficinas auxiliares o puntos de atención. Deben coordinarse con sede electrónica, archivo, unidades gestoras y sistemas de interconexion de registros.
+La organización depende del Ayuntamiento y de sus decisiones internas. Puede existir <mark>registro general, oficinas auxiliares o puntos de atención</mark>. Deben coordinarse con sede electrónica, archivo, unidades gestoras y sistemas de interconexion de registros.
 
 El personal debe estar formado en identificación, firma, digitalización, copias autenticas, apoderamientos, protección de datos, atención ciudadana y derivación de expedientes.
 
@@ -47,13 +47,13 @@ El personal debe estar formado en identificación, firma, digitalización, copia
 
 ## Funcionamiento
 
-Las oficinas reciben solicitudes, escritos y comunicaciones dirigidos al Ayuntamiento u otras Administraciones. Deben emitir justificante, registrar fecha y hora, identificar destino, digitalizar documentos en su caso y remitirlos electronicamente.
+Las oficinas reciben solicitudes, escritos y comunicaciones dirigidos al Ayuntamiento u otras Administraciones. Deben <mark>emitir justificante, registrar fecha y hora, identificar destino, digitalizar documentos</mark> en su caso y remitirlos electronicamente.
 
 La Ley 39/2015 permite presentar documentos en registros electrónicos, oficinas de Correos, representaciones diplomaticas, oficinas de asistencia en registros y otros lugares previstos. Las oficinas municipales deben aplicar estas reglas.
 
-El Registro General presencial de una entidad local permanece abierto al público todos los días hábiles, conforme al régimen clásico del ROF. El registro electrónico, en cambio, está disponible todos los días del año durante las veinticuatro horas.
+El Registro General presencial de una entidad local permanece abierto al público <mark>todos los días hábiles</mark>, conforme al régimen clásico del ROF. El registro electrónico, en cambio, está disponible <mark>todos los días del año durante las veinticuatro horas</mark>.
 
-El asiento registral debe reflejar datos esenciales: número, fecha y hora, identificación del interesado, órgano destinatario, asunto y documentos aportados. El justificante de registro acredita la presentación y protege al ciudadano.
+El asiento registral debe reflejar datos esenciales: <mark>número, fecha y hora, identificación del interesado, órgano destinatario, asunto y documentos aportados</mark>. El justificante de registro acredita la presentación y protege al ciudadano.
 
 | Actuación | Importancia |
 | --- | --- |
@@ -84,13 +84,13 @@ Las oficinas deben admitir documentos dirigidos a cualquier Administración cuan
 | Representaciones diplomáticas u oficinas consulares | Para supuestos en el extranjero. |
 | Otros previstos legalmente | Según normativa específica. |
 
-Si una solicitud se presenta electrónicamente en día inhábil, se entiende presentada a la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente recepción en día inhábil con otros efectos. El recibo de presentación debe acreditar número de registro, fecha, hora y documentos presentados.
+Si una solicitud se presenta electrónicamente en día inhábil, se entiende presentada a la <mark>primera hora del primer día hábil siguiente</mark>, salvo que una norma permita expresamente recepción en día inhábil con otros efectos. El recibo de presentación debe acreditar número de registro, fecha, hora y documentos presentados.
 
 ## Asistencia electrónica
 
-Las personas físicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electrónicos. Si no disponen de medios, un funcionario habilitado puede identificarlas o firmar en su nombre con consentimiento expreso en los términos legales.
+Las personas físicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electrónicos. Si no disponen de medios, un <mark>funcionario habilitado</mark> puede identificarlas o firmar en su nombre con <mark>consentimiento expreso</mark> en los términos legales.
 
-Las personas obligadas a relacionarse electronicamente, como personas jurídicas, deben usar medios electrónicos. La oficina puede informar, pero la obligación permanece.
+Las personas obligadas a relacionarse electronicamente, como <mark>personas jurídicas</mark>, deben usar medios electrónicos. La oficina puede informar, pero la obligación permanece.
 
 El funcionario habilitado no actúa como representante libre del ciudadano, sino como apoyo técnico para identificación o firma cuando la ley lo permite. Debe quedar constancia del consentimiento. Esta función exige especial cuidado porque una firma electrónica produce efectos jurídicos.
 
@@ -105,7 +105,7 @@ El funcionario habilitado no actúa como representante libre del ciudadano, sino
 
 Los documentos en papel pueden digitalizarse para incorporarse al expediente electrónico. La digitalización debe garantizar integridad, autenticidad y conservación. Cuando proceda, se devuelve el original al interesado, salvo normas que exijan custodia.
 
-Las oficinas pueden expedir copias autenticas en los supuestos previstos. Una copia autentica tiene la misma validez que el original para el procedimiento.
+Las oficinas pueden expedir <mark>copias autenticas</mark> en los supuestos previstos. Una copia autentica tiene la <mark>misma validez que el original</mark> para el procedimiento.
 
 No toda fotocopia es copia autentica. La copia autentica requiere actuación de órgano o funcionario habilitado y garantías de correspondencia con el original. En cambio, una copia simple solo reproduce información sin el mismo valor jurídico.
 
@@ -116,7 +116,7 @@ No toda fotocopia es copia autentica. La copia autentica requiere actuación de 
 | Documento electrónico con CSV | Verificar en sede correspondiente si es necesario. |
 | Copia autentica | Tiene validez formal equivalente al original. |
 
-Las copias auténticas de documentos públicos administrativos deben emitirse en el plazo de quince días desde la solicitud, salvo previsión específica. Los documentos electrónicos administrativos deben tener formato susceptible de identificación y tratamiento diferenciado, incorporar datos de identificación y cumplir requisitos de autenticidad e integridad.
+Las copias auténticas de documentos públicos administrativos deben emitirse en el plazo de <mark>quince días</mark> desde la solicitud, salvo previsión específica. Los documentos electrónicos administrativos deben tener formato susceptible de identificación y tratamiento diferenciado, incorporar datos de identificación y cumplir requisitos de autenticidad e integridad.
 
 ## Funciones
 

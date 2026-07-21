@@ -8,9 +8,9 @@ estado: "borrador"
 
 ## Correo electrónico
 
-El correo electrónico es un servicio de comunicación que permite enviar y recibir mensajes a través de redes. Cada cuenta se identifica mediante una dirección con formato usuario@dominio. En Administración se usa para comunicaciones internas, avisos, coordinación y, con cautela, relación con ciudadanos.
+El <mark>correo electrónico</mark> es un servicio de comunicación que permite enviar y recibir mensajes a través de redes. Cada cuenta se identifica mediante una dirección con formato <mark>usuario@dominio</mark>. En Administración se usa para comunicaciones internas, avisos, coordinación y, con cautela, relación con ciudadanos.
 
-Un mensaje incluye remitente, destinatarios, asunto, cuerpo, adjuntos y fecha. Puede enviarse con copia (CC) o copia oculta (CCO). La copia oculta es importante cuando se envia a multiples destinatarios que no deben conocer direcciones de los demás.
+Un mensaje incluye <mark>remitente, destinatarios, asunto, cuerpo, adjuntos y fecha</mark>. Puede enviarse con copia (CC) o copia oculta (CCO). La <mark>copia oculta</mark> es importante cuando se envia a multiples destinatarios que no deben conocer direcciones de los demás.
 
 | Campo | Función |
 | --- | --- |
@@ -39,7 +39,7 @@ Un correo puede ser útil para avisar, coordinar o pedir aclaraciones, pero si l
 
 ## Funcionamiento
 
-El envio y recepción se basan en servidores y protocolos. SMTP se utiliza para envio. IMAP y POP se usan para recepción o sincronización. En entornos corporativos, clientes como Outlook se integran con calendarios, contactos, tareas y directorio.
+El envio y recepción se basan en servidores y protocolos. <mark>SMTP se utiliza para envio</mark>. <mark>IMAP y POP se usan para recepción o sincronización</mark>. En entornos corporativos, clientes como Outlook se integran con calendarios, contactos, tareas y directorio.
 
 Los adjuntos permiten enviar documentos, pero deben controlarse tamano, formato, confidencialidad y seguridad. Para documentos administrativos oficiales, muchas veces debe usarse registro, sede o plataforma específica, no correo ordinario.
 
@@ -66,9 +66,9 @@ El calendario corporativo permite convocar reuniones, reservar salas, enviar inv
 
 ## Buenas prácticas
 
-Debe escribirse asunto claro, mensaje breve, destinatarios correctos, firma adecuada, lenguaje respetuoso y adjuntos comprobados. No deben enviarse datos personales innecesarios ni información sensible sin garantías.
+Debe escribirse <mark>asunto claro, mensaje breve, destinatarios correctos, firma adecuada, lenguaje respetuoso y adjuntos comprobados</mark>. No deben enviarse datos personales innecesarios ni información sensible sin garantías.
 
-Riesgos frecuentes son phishing, suplantación, malware, enlaces falsos, adjuntos infectados y envio a destinatario equivocado. Hay que verificar remitente, desconfiar de urgencias inusuales, no abrir adjuntos sospechosos y comunicar incidentes.
+Riesgos frecuentes son <mark>phishing, suplantación, malware, enlaces falsos, adjuntos infectados y envio a destinatario equivocado</mark>. Hay que verificar remitente, desconfiar de urgencias inusuales, no abrir adjuntos sospechosos y comunicar incidentes.
 
 Antes de enviar un correo administrativo conviene comprobar:
 
@@ -92,13 +92,13 @@ También conviene aplicar una regla sencilla: **una idea por asunto y un asunto 
 
 ## Internet
 
-Internet es una red mundial de redes que permite intercambio de información mediante protocolos. Sus servicios incluyen web, correo, transferencia de archivos, mensajeria, videoconferencia, servicios en nube, administración electrónica y acceso a bases de datos.
+<mark>Internet es una red mundial de redes</mark> que permite intercambio de información mediante protocolos. Sus servicios incluyen web, correo, transferencia de archivos, mensajeria, videoconferencia, servicios en nube, administración electrónica y acceso a bases de datos.
 
 La web utiliza navegadores y direcciones URL. HTTPS indica conexion cifrada entre navegador y servidor. Los buscadores localizan información, pero no garantizan oficialidad. En oposición y trabajo administrativo deben priorizarse fuentes oficiales como BOE, BOCYL, BOP, sede municipal y portales institucionales.
 
 ## Conceptos elementales
 
-Un dominio identifica un sitio. Una URL localiza un recurso. Una dirección IP identifica equipos en red. DNS traduce dominios a direcciones IP. Un navegador interpreta paginas y permite interactuar con servicios.
+Un <mark>dominio</mark> identifica un sitio. Una <mark>URL</mark> localiza un recurso. Una <mark>dirección IP</mark> identifica equipos en red. <mark>DNS traduce dominios a direcciones IP</mark>. Un navegador interpreta paginas y permite interactuar con servicios.
 
 Las cookies almacenan información de navegación. La cache guarda recursos para acelerar carga. Los certificados digitales permiten identificar sedes y usuarios, firmar y cifrar comunicaciones.
 
@@ -130,7 +130,7 @@ En Microsoft Edge puede anclarse un sitio web al menú Inicio desde el menú de 
 
 ## Servicios de Internet
 
-Los servicios más habituales son World Wide Web, correo electrónico, almacenamiento en nube, videoconferencia, redes privadas virtuales, transferencia de archivos, sedes electronicas, pasarelas de pago, plataformas de contratación y sistemas de notificación.
+Los servicios más habituales son <mark>World Wide Web, correo electrónico, almacenamiento en nube, videoconferencia, redes privadas virtuales, transferencia de archivos, sedes electronicas, pasarelas de pago, plataformas de contratación y sistemas de notificación</mark>.
 
 En la Administración, Internet permite registro electrónico, consulta de expedientes, transparencia, licitación pública, factura electrónica, pagos tributarios, padrón, cita previa y comunicación institucional.
 
@@ -146,7 +146,7 @@ En la Administración, Internet permite registro electrónico, consulta de exped
 
 ## Seguridad
 
-La navegación segura exige comprobar URL, certificado, dominio oficial, privacidad, permisos, descargas y credenciales. No se deben introducir claves en paginas dudosas ni descargar software no autorizado. La información administrativa debe tratarse en sistemas corporativos, no en servicios personales.
+La navegación segura exige comprobar <mark>URL, certificado, dominio oficial, privacidad, permisos, descargas y credenciales</mark>. No se deben introducir claves en paginas dudosas ni descargar software no autorizado. La información administrativa debe tratarse en sistemas corporativos, no en servicios personales.
 
 Un criterio práctico para fuentes oficiales: si se estudia una ley, debe consultarse en BOE o boletín oficial correspondiente; si se realiza un trámite municipal, debe usarse sede o web municipal; si se descarga un modelo, debe verificarse que pertenece al organismo competente y que está actualizado.
 
