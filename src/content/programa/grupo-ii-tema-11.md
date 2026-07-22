@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El funcionamiento de órganos colegiados locales se regula por la Ley 7/1985, el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales y los reglamentos orgánicos municipales. Para Burgos debe tenerse presente su Reglamento Organico y de Funcionamiento.
+El funcionamiento de órganos colegiados locales se regula por la <mark>Ley 7/1985</mark>, el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark> y los reglamentos orgánicos municipales. Para Burgos debe tenerse presente su Reglamento Organico y de Funcionamiento.
 
 ## Organos colegiados locales
 
@@ -66,7 +66,7 @@ Debe indicar lugar, fecha, hora y orden del día. En órganos locales, la docume
 
 Las sesiones pueden ser ordinarias, extraordinarias y extraordinarias urgentes. Las ordinarias se celebran con periodicidad establecida. Las extraordinarias responden a asuntos concretos. Las urgentes requieren ratificación de urgencia cuando proceda.
 
-En el Pleno local, la convocatoria de las sesiones ordinarias y extraordinarias debe realizarse, como regla general, con al menos dos días hábiles de antelación. Las sesiones extraordinarias urgentes pueden convocarse sin esa antelación, pero el Pleno debe ratificar la urgencia como primer punto.
+En el Pleno local, la convocatoria de las sesiones ordinarias y extraordinarias debe realizarse, como regla general, con al menos <mark>dos días hábiles</mark> de antelación. Las sesiones extraordinarias urgentes pueden convocarse sin esa antelación, pero el Pleno debe ratificar la urgencia como primer punto.
 
 La convocatoria de sesión extraordinaria del Pleno puede ser solicitada por la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente.
 
@@ -90,17 +90,17 @@ En órganos políticos como el Pleno, la deliberación tiene importancia democra
 
 ## Votaciones
 
-Los acuerdos se adoptan mediante votación. Pueden existir votaciones ordinarias, nominales o secretas, según materia y reglamento. La regla general es mayoría simple de miembros presentes, salvo materias que exijan mayoría absoluta u otras mayorías reforzadas.
+Los acuerdos se adoptan mediante votación. Pueden existir votaciones ordinarias, nominales o secretas, según materia y reglamento. La regla general es <mark>mayoría simple</mark> de miembros presentes, salvo materias que exijan <mark>mayoría absoluta</mark> u otras mayorías reforzadas.
 
-La mayoría simple se alcanza cuando hay más votos a favor que en contra. La mayoría absoluta exige voto favorable de más de la mitad del número legal de miembros de la corporación. Algunas materias, como alteración de términos municipales o aprobaciones especialmente relevantes, pueden exigir mayorías cualificadas.
+La <mark>mayoría simple</mark> se alcanza cuando hay más votos a favor que en contra. La <mark>mayoría absoluta</mark> exige voto favorable de más de la mitad del número legal de miembros de la corporación. Algunas materias, como alteración de términos municipales o aprobaciones especialmente relevantes, pueden exigir mayorías cualificadas.
 
 El voto puede ser afirmativo, negativo o abstención. En órganos locales, el sentido del voto queda reflejado en acta cuando proceda. Los empates se resuelven conforme a reglas legales, normalmente con voto de calidad del Presidente en determinados órganos.
 
 | Mayoría | Cómo se calcula | Ejemplo de uso |
 | --- | --- | --- |
-| Mayoría simple | Más votos afirmativos que negativos de los presentes. | Acuerdos ordinarios si la ley no exige otra. |
-| Mayoría absoluta | Más de la mitad del número legal de miembros. | Materias reservadas por legislación local. |
-| Mayoría cualificada | Proporción reforzada prevista por ley. | Supuestos especialmente relevantes si la norma lo exige. |
+| <mark>Mayoría simple</mark> | Más votos afirmativos que negativos de los presentes. | Acuerdos ordinarios si la ley no exige otra. |
+| <mark>Mayoría absoluta</mark> | Más de la mitad del número legal de miembros. | Materias reservadas por legislación local. |
+| <mark>Mayoría cualificada</mark> | Proporción reforzada prevista por ley. | Supuestos especialmente relevantes si la norma lo exige. |
 | Voto de calidad | Decide empate cuando procede. | Órganos en los que la presidencia tiene voto dirimente. |
 
 En el Pleno de las entidades locales, el voto es personal e indelegable. Los empates se resuelven mediante nueva votación y, si persiste el empate, decide el voto de calidad del Presidente.
@@ -113,7 +113,7 @@ Las certificaciones de acuerdos permiten hacer valer el contenido de acuerdos an
 
 | Dato de órgano colegiado local | Regla |
 |---|---|
-| Antelación de convocatoria ordinaria o extraordinaria | Dos días hábiles, salvo urgencia. |
+| Antelación de convocatoria ordinaria o extraordinaria | <mark>Dos días hábiles</mark>, salvo urgencia. |
 | Quórum del Pleno | Un tercio del número legal de miembros, nunca inferior a tres. |
 | Presencias necesarias | Presidente y Secretario o sustitutos legales. |
 | Voto delegado | No cabe en el Pleno local como regla general. |

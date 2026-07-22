@@ -8,11 +8,11 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema se apoya en la Constitución, la Ley 7/1985, la Ley 40/2015, la Ley 9/2017 de Contratos del Sector Público y normativa sectorial de servicios públicos. En lo local son importantes las competencias municipales y los modos de gestión de servicios.
+Este tema se apoya en la Constitución, la <mark>Ley 7/1985</mark>, la <mark>Ley 40/2015</mark>, la <mark>Ley 9/2017</mark> de Contratos del Sector Público y normativa sectorial de servicios públicos. En lo local son importantes las competencias municipales y los modos de gestión de servicios.
 
 ## Formas de actividad administrativa
 
-La Administración actúa de varias formas. La actividad de policía o limitación ordena y controla conductas privadas mediante licencias, autorizaciones, inspecciones, órdenes y sanciones. La actividad de fomento impulsa conductas de interés público mediante subvenciones, ayudas, premios o beneficios. La actividad de servicio público presta directamente o garantiza prestaciones a la ciudadania. La actividad económica supone intervención en el mercado o gestión de actividades empresariales públicas.
+La Administración actúa de varias formas. La <mark>actividad de policía o limitación</mark> ordena y controla conductas privadas mediante licencias, autorizaciones, inspecciones, órdenes y sanciones. La <mark>actividad de fomento</mark> impulsa conductas de interés público mediante subvenciones, ayudas, premios o beneficios. La <mark>actividad de servicio público</mark> presta directamente o garantiza prestaciones a la ciudadania. La <mark>actividad económica</mark> supone intervención en el mercado o gestión de actividades empresariales públicas.
 
 Estas formas no son compartimentos cerrados. Un servicio municipal puede requerir ordenanza, tasa, contrato, inspección y sanciones.
 
@@ -27,7 +27,7 @@ La misma realidad puede mezclar varias formas. Una piscina municipal es servicio
 
 ## Servicio público
 
-El servicio público es una actividad asumida por una Administración para satisfacer necesidades de interés general de forma regular y organizada. En el ámbito local, la idea de servicio público se vincula a competencias municipales, servicios obligatorios, calidad, continuidad, igualdad de acceso y control administrativo.
+El servicio público es una actividad asumida por una Administración para satisfacer necesidades de interés general de forma <mark>regular y organizada</mark>. En el ámbito local, la idea de servicio público se vincula a competencias municipales, servicios obligatorios, <mark>calidad, continuidad, igualdad de acceso y control administrativo</mark>.
 
 | Caracteristica | Significado |
 | --- | --- |
@@ -51,7 +51,7 @@ La "crisis" del concepto clasico de servicio público se explica porque muchas p
 
 La elección de forma de gestión debe justificarse por eficacia, sostenibilidad, coste, calidad, control y cumplimiento legal. No es una decisión puramente ideologica ni automatica: exige memoria, informes, análisis económico y control del interés público.
 
-Puede distinguirse entre gestión directa e indirecta. En la gestión directa, la entidad local conserva la prestación mediante sus propios medios o entidades instrumentales. En la gestión indirecta, un tercero presta o explota el servicio mediante contrato, normalmente concesión de servicios o fórmulas contractuales previstas por la Ley de Contratos.
+Puede distinguirse entre <mark>gestión directa e indirecta</mark>. En la gestión directa, la entidad local conserva la prestación mediante sus propios medios o entidades instrumentales. En la gestión indirecta, un tercero presta o explota el servicio mediante contrato, normalmente concesión de servicios o fórmulas contractuales previstas por la Ley de Contratos.
 
 | Gestión directa | Gestión indirecta |
 | --- | --- |
@@ -62,7 +62,7 @@ Puede distinguirse entre gestión directa e indirecta. En la gestión directa, l
 
 ## Remunicipalización e iniciativa económica
 
-La remunicipalización consiste en recuperar para gestión pública directa o instrumental un servicio que estaba gestionado indirectamente. Puede plantearse por finalización de contrato, mala calidad, coste, interés estrategico o decisión política, pero debe respetar contratos vigentes, personal, bienes, costes, estabilidad presupuestaria y procedimiento.
+La <mark>remunicipalización</mark> consiste en recuperar para gestión pública directa o instrumental un servicio que estaba gestionado indirectamente. Puede plantearse por finalización de contrato, mala calidad, coste, interés estrategico o decisión política, pero debe respetar contratos vigentes, personal, bienes, costes, estabilidad presupuestaria y procedimiento.
 
 La iniciativa económica pública permite a las entidades públicas desarrollar actividades económicas cuando exista interés público y se cumplan requisitos legales. En el ámbito local exige especial prudencia: memoria justificativa, análisis de mercado, sostenibilidad financiera, respeto a competencia, transparencia, control financiero y responsabilidad.
 

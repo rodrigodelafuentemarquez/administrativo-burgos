@@ -8,24 +8,24 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema se estudia principalmente sobre la Constitución Española, la Ley 7/1985, de 2 de abril, reguladora de las Bases del Régimen Local, y el Real Decreto Legislativo 2/2004, de 5 de marzo, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales.
+Este tema se estudia principalmente sobre la <mark>Constitución Española</mark>, la <mark>Ley 7/1985, de 2 de abril</mark>, reguladora de las Bases del Régimen Local, y el <mark>Real Decreto Legislativo 2/2004, de 5 de marzo</mark>, por el que se aprueba el texto refundido de la Ley Reguladora de las Haciendas Locales.
 
-También resultan relevantes el Real Decreto Legislativo 781/1986, de 18 de abril, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de régimen local, y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales aprobado por Real Decreto 2568/1986.
+También resultan relevantes el <mark>Real Decreto Legislativo 781/1986, de 18 de abril</mark>, por el que se aprueba el texto refundido de las disposiciones legales vigentes en materia de régimen local, y el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark> aprobado por <mark>Real Decreto 2568/1986</mark>.
 
 ## La Administración Local en la Constitución
 
-La Constitución reconoce la Administración Local dentro de la organización territorial del Estado. El artículo 137 establece que el Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan, y que todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
+La Constitución reconoce la Administración Local dentro de la organización territorial del Estado. El <mark>artículo 137</mark> establece que el Estado se organiza territorialmente en municipios, provincias y comunidades autónomas que se constituyan, y que todas estas entidades gozan de autonomía para la gestión de sus respectivos intereses.
 
 La autonomía local no es soberania ni autonomía política equiparable a la de las comunidades autónomas. Es una autonomía institucional y administrativa garantizada constitucionalmente. Significa que municipios y provincias deben disponer de un ámbito propio de decisión y gestión, de órganos representativos y de recursos suficientes para cumplir las funciones que la ley les atribuye.
 
-El artículo 140 garantiza la autonomía de los municipios y atribuye su gobierno y administración a los Ayuntamientos, integrados por Alcaldes y Concejales. El artículo 141 regula la provincia como entidad local con personalidad jurídica propia. El artículo 142 establece la suficiencia financiera de las Haciendas locales.
+El <mark>artículo 140</mark> garantiza la autonomía de los municipios y atribuye su gobierno y administración a los Ayuntamientos, integrados por Alcaldes y Concejales. El <mark>artículo 141</mark> regula la provincia como entidad local con personalidad jurídica propia. El <mark>artículo 142</mark> establece la suficiencia financiera de las Haciendas locales.
 
 | Artículo constitucional | Materia local | Idea de examen |
 |---|---|---|
-| Artículo 137 | Organización territorial | Municipios, provincias y comunidades autónomas. |
-| Artículo 140 | Municipio | Autonomía municipal y gobierno por Ayuntamiento. |
-| Artículo 141 | Provincia e islas | Provincia como entidad local y división territorial. |
-| Artículo 142 | Haciendas locales | Suficiencia financiera con tributos propios y participación. |
+| <mark>Artículo 137</mark> | Organización territorial | Municipios, provincias y comunidades autónomas. |
+| <mark>Artículo 140</mark> | Municipio | Autonomía municipal y gobierno por Ayuntamiento. |
+| <mark>Artículo 141</mark> | Provincia e islas | Provincia como entidad local y división territorial. |
+| <mark>Artículo 142</mark> | Haciendas locales | Suficiencia financiera con tributos propios y participación. |
 
 ## Concepto de entidad local
 
@@ -90,11 +90,11 @@ Las entidades locales actuan con potestades públicas. Entre ellas figuran potes
 
 ## Contenido básico de la Ley de Bases del Régimen Local
 
-La Ley 7/1985 regula los elementos del municipio, organización municipal, competencias, régimen de funcionamiento, relaciones interadministrativas, bienes, actividades y servicios, personal al servicio de las entidades locales, haciendas locales en conexion con su normativa específica y régimen de impugnación de actos y acuerdos.
+La <mark>Ley 7/1985</mark> regula los elementos del municipio, organización municipal, competencias, régimen de funcionamiento, relaciones interadministrativas, bienes, actividades y servicios, personal al servicio de las entidades locales, haciendas locales en conexion con su normativa específica y régimen de impugnación de actos y acuerdos.
 
 El municipio se configura como entidad básica. Su gobierno corresponde al Ayuntamiento, formado por Alcalde y Concejales. En todos los Ayuntamientos existen Alcalde, Tenientes de Alcalde y Pleno. La Junta de Gobierno Local existe en municipios con población superior a 5.000 habitantes y en los de menos cuando así lo disponga su reglamento orgánico o lo acuerde el Pleno.
 
-La Ley también regula municipios de gran población, introducidos por la Ley 57/2003. En ellos se refuerza la separación entre órganos de gobierno y órganos administrativos, se regula una Junta de Gobierno Local con funciones ejecutivas relevantes, se contempla la existencia de órganos directivos y se crean órganos como el Consejo Social de la Ciudad y la Comisión Especial de Sugerencias y Reclamaciones. Burgos se encuadra en este régimen por su población y por la aplicación de la normativa correspondiente.
+La Ley también regula municipios de gran población, introducidos por la <mark>Ley 57/2003</mark>. En ellos se refuerza la separación entre órganos de gobierno y órganos administrativos, se regula una Junta de Gobierno Local con funciones ejecutivas relevantes, se contempla la existencia de órganos directivos y se crean órganos como el Consejo Social de la Ciudad y la Comisión Especial de Sugerencias y Reclamaciones. Burgos se encuadra en este régimen por su población y por la aplicación de la normativa correspondiente.
 
 | Contenido LBRL | Materias |
 |---|---|
@@ -141,9 +141,9 @@ El control sobre entidades locales no es jerarquico. El Estado y las comunidades
 | Control de legalidad | Revisión conforme a ley, sin jerarquía general. |
 | Información reciproca | Deber de comunicar datos relevantes para competencias concurrentes. |
 
-## La Ley de Haciendas Locales
+## La <mark>Ley de Haciendas Locales</mark>
 
-La autonomía local necesita recursos económicos. El artículo 142 de la Constitución exige que las Haciendas locales dispongan de medios suficientes para desempeñar las funciones atribuidas a las corporaciones respectivas. Esos medios se nutren fundamentalmente de tributos propios y de participación en los tributos del Estado y de las comunidades autónomas.
+La autonomía local necesita recursos económicos. El <mark>artículo 142</mark> de la Constitución exige que las Haciendas locales dispongan de medios suficientes para desempeñar las funciones atribuidas a las corporaciones respectivas. Esos medios se nutren fundamentalmente de tributos propios y de participación en los tributos del Estado y de las comunidades autónomas.
 
 El texto refundido de la Ley Reguladora de las Haciendas Locales regula recursos de las entidades locales, tributos locales, participación en ingresos del Estado, presupuestos, contabilidad, tesorería, control y endeudamiento.
 
@@ -189,7 +189,7 @@ Las contribuciones especiales se exigen cuando el sujeto pasivo obtiene un benef
 | Tasas | Uso privativo/aprovechamiento especial o servicios que afecten al sujeto. |
 | Contribuciones especiales | Beneficio o aumento de valor por obra o servicio público local. |
 
-Los impuestos municipales obligatorios deben exigirse por todos los Ayuntamientos conforme a la Ley de Haciendas Locales. Los potestativos solo se exigen si la entidad local los establece mediante la correspondiente ordenanza fiscal. Esta diferencia no afecta a su naturaleza tributaria, sino a la necesidad de acuerdo municipal de establecimiento.
+Los impuestos municipales obligatorios deben exigirse por todos los Ayuntamientos conforme a la <mark>Ley de Haciendas Locales</mark>. Los potestativos solo se exigen si la entidad local los establece mediante la correspondiente ordenanza fiscal. Esta diferencia no afecta a su naturaleza tributaria, sino a la necesidad de acuerdo municipal de establecimiento.
 
 | Impuestos obligatorios | Impuestos potestativos |
 |---|---|
@@ -201,7 +201,7 @@ Las ordenanzas fiscales regulan la imposición, supresión y ordenación de trib
 
 ## Presupuesto y control local
 
-La Ley de Haciendas Locales regula también el presupuesto de las entidades locales. El presupuesto general constituye la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autonomos, y de los derechos que se prevé liquidar durante el ejercicio.
+La <mark>Ley de Haciendas Locales</mark> regula también el presupuesto de las entidades locales. El presupuesto general constituye la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autonomos, y de los derechos que se prevé liquidar durante el ejercicio.
 
 El presupuesto local se somete a principios de anualidad, unidad, equilibrio, especialidad y publicidad. Su aprobación corresponde al Pleno. La ejecución presupuestaria, la ordenación de gastos y pagos, la intervención y la tesorería se desarrollan conforme a la normativa presupuestaria local.
 

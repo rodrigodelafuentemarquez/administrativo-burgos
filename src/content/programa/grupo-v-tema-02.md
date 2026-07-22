@@ -8,15 +8,15 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La norma central es la Ley 19/2013, de transparencia, acceso a la información pública y buen gobierno. En Castilla y León y en el Ayuntamiento pueden existir normas y portales específicos de transparencia. También se relaciona con protección de datos y administración electrónica.
+La norma central es la <mark>Ley 19/2013</mark>, de transparencia, acceso a la información pública y buen gobierno. En Castilla y León y en el Ayuntamiento pueden existir normas y portales específicos de transparencia. También se relaciona con protección de datos y administración electrónica.
 
 ## Transparencia
 
 La transparencia permite conocer como actuan las Administraciones, como toman decisiones, como gastan recursos y que información manejan. Fortalece control democratico, previene corrupción y mejora confianza ciudadana.
 
-La Ley 19/2013 se estructura en <mark>publicidad activa, derecho de acceso y buen gobierno</mark>.
+La <mark>Ley 19/2013</mark> se estructura en <mark>publicidad activa, derecho de acceso y buen gobierno</mark>.
 
-| Pilar de la Ley 19/2013 | Idea central |
+| Pilar de la <mark>Ley 19/2013</mark> | Idea central |
 | --- | --- |
 | Publicidad activa | La Administración publica de oficio información relevante. |
 | Derecho de acceso | Cualquier persona puede solicitar información pública. |
@@ -77,7 +77,7 @@ Los límites deben aplicarse de forma proporcionada y atendiendo al caso concret
 
 La regla no es denegar automáticamente. Primero hay que identificar el limite, justificar el perjuicio, ponderar el interés público y valorar acceso parcial o disociación de datos.
 
-<mark>Clave de test:</mark> los límites del artículo 14 deben aplicarse de forma justificada, proporcionada y restrictiva, atendiendo al daño que produciría el acceso y al interés público en la divulgación.
+<mark>Clave de test:</mark> los límites del <mark>artículo 14</mark> deben aplicarse de forma justificada, proporcionada y restrictiva, atendiendo al daño que produciría el acceso y al interés público en la divulgación.
 
 ## Ejercicio del derecho
 
@@ -134,4 +134,4 @@ La transparencia depende de una buena gestión documental. Si los expedientes es
 
 El buen gobierno completa el sistema: exige conducta responsable de altos cargos y responsables públicos, respeto a la ley, gestión adecuada de recursos, imparcialidad, diligencia y rendición de cuentas. La transparencia permite ver; el buen gobierno exige actuar correctamente.
 
-En infracciones muy graves de buen gobierno, las sanciones pueden incluir cese y prohibición de ocupar cargos de responsabilidad durante un periodo de cinco a diez años, además de otras consecuencias previstas por la ley.
+En infracciones muy graves de buen gobierno, las sanciones pueden incluir cese y prohibición de ocupar cargos de responsabilidad durante un periodo de cinco a <mark>diez años</mark>, además de otras consecuencias previstas por la ley.

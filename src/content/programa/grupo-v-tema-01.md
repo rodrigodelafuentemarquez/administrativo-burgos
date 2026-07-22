@@ -8,11 +8,11 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema se centra en tres normas: Ley Orgánica 3/2007 de igualdad efectiva entre mujeres y hombres, Ley Orgánica 1/2004 de medidas de protección integral contra la violencia de género y Ley 4/2023 para la igualdad real y efectiva de las personas trans y garantía de derechos LGTBI.
+Este tema se centra en tres normas: <mark>Ley Orgánica 3/2007</mark> de igualdad efectiva entre mujeres y hombres, <mark>Ley Orgánica 1/2004</mark> de medidas de protección integral contra la violencia de género y <mark>Ley 4/2023</mark> para la igualdad real y efectiva de las personas trans y garantía de derechos LGTBI.
 
 ## Igualdad efectiva entre mujeres y hombres
 
-La Ley Orgánica 3/2007 tiene por objeto hacer efectivo el derecho de <mark>igualdad de trato y de oportunidades entre mujeres y hombres</mark>, eliminando discriminación por razón de sexo en cualquier ámbito, especialmente político, civil, laboral, económico, social y cultural.
+La <mark>Ley Orgánica 3/2007</mark> tiene por objeto hacer efectivo el derecho de <mark>igualdad de trato y de oportunidades entre mujeres y hombres</mark>, eliminando discriminación por razón de sexo en cualquier ámbito, especialmente político, civil, laboral, económico, social y cultural.
 
 Su ámbito de aplicación alcanza a toda persona física o jurídica que se encuentre o actúe en territorio español, cualquiera que sea su nacionalidad, domicilio o residencia. En test suele aparecer junto a la idea literal de que mujeres y hombres son iguales en dignidad humana y en derechos y deberes.
 
@@ -54,7 +54,7 @@ La igualdad en el empleo público se concreta en procesos selectivos no discrimi
 
 ## Violencia de género
 
-La Ley Orgánica 1/2004 tiene por objeto actuar contra la violencia que, como manifestación de discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por quienes <mark>sean o hayan sido sus conyuges o esten o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia</mark>.
+La <mark>Ley Orgánica 1/2004</mark> tiene por objeto actuar contra la violencia que, como manifestación de discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres, se ejerce sobre estas por quienes <mark>sean o hayan sido sus conyuges o esten o hayan estado ligados a ellas por relaciones similares de afectividad, aun sin convivencia</mark>.
 
 Su enfoque es integral: <mark>prevención, sensibilización, educación, derechos de las victimas, asistencia social, asistencia jurídica, protección laboral, prestaciones, tutela judicial y medidas penales</mark>.
 
@@ -68,7 +68,7 @@ Los poderes públicos deben garantizar información, atención, apoyo, protecci�
 | Protección laboral | Derechos de movilidad, reducción o reordenación de jornada y otras medidas. |
 | Protección administrativa | Confidencialidad, coordinación institucional y trato especializado. |
 
-La ayuda económica del artículo 27 de la Ley Orgánica 1/2004 se fija, con carácter general, en el equivalente a <mark>seis mensualidades del subsidio por desempleo</mark>, con incrementos en supuestos específicos. Es un dato muy preguntable porque combina violencia de género y prestaciones.
+La ayuda económica del <mark>artículo 27</mark> de la <mark>Ley Orgánica 1/2004</mark> se fija, con carácter general, en el equivalente a <mark>seis mensualidades del subsidio por desempleo</mark>, con incrementos en supuestos específicos. Es un dato muy preguntable porque combina violencia de género y prestaciones.
 
 Para el personal administrativo, un punto crucial es la confidencialidad. Datos de domicilio, padrón, telefonos, expedientes de servicios sociales o actuaciones policiales pueden afectar directamente a la seguridad de la victima. La atención debe ser respetuosa, discreta y orientada a derivar al recurso competente.
 
@@ -76,7 +76,7 @@ En expedientes relacionados con violencia de género debe extremarse la coordina
 
 ## Personas trans y derechos LGTBI
 
-La Ley 4/2023 tiene por objeto garantizar y promover el derecho a la <mark>igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales</mark>, así como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
+La <mark>Ley 4/2023</mark> tiene por objeto garantizar y promover el derecho a la <mark>igualdad real y efectiva de las personas lesbianas, gais, bisexuales, trans e intersexuales</mark>, así como de sus familias. Busca prevenir y eliminar discriminaciones, promover derechos y asegurar el libre desarrollo de la personalidad.
 
 Reconoce principios de <mark>igualdad de trato, no discriminación, respeto a la diversidad, libre desarrollo de la personalidad, integridad física y moral, protección frente a violencias</mark> y promoción de políticas públicas inclusivas.
 
@@ -92,7 +92,7 @@ Para la Administración, implica adaptar atención, formularios, lenguaje, proto
 
 Los formularios, bases de convocatorias, protocolos de atención y comunicaciones municipales deben revisarse para no producir discriminaciones. A veces la mejora es sencilla: campos no innecesarios, trato nominal adecuado, ausencia de preguntas invasivas, información clara y derivación correcta.
 
-En la Ley 4/2023, la rectificación registral de la mención relativa al sexo puede solicitarse por personas <mark>mayores de 16 años</mark>. En el empleo público, las Administraciones deben promover protocolos frente al acoso por orientación sexual, identidad sexual, expresión de género y características sexuales.
+En la <mark>Ley 4/2023</mark>, la rectificación registral de la mención relativa al sexo puede solicitarse por personas <mark>mayores de 16 años</mark>. En el empleo público, las Administraciones deben promover protocolos frente al acoso por orientación sexual, identidad sexual, expresión de género y características sexuales.
 
 En atención administrativa, el trato debe respetar identidad, orientación, expresión de género y características sexuales. Esto exige evitar preguntas no necesarias, adaptar formularios cuando proceda, proteger datos especialmente sensibles y actuar frente a incidentes discriminatorios en servicios municipales.
 
@@ -102,7 +102,7 @@ En atención administrativa, el trato debe respetar identidad, orientación, exp
 | --- | --- | --- |
 | LO 3/2007 | Igualdad efectiva entre mujeres y hombres. | Transversalidad, empleo, acción positiva, presencia equilibrada, no discriminación. |
 | LO 1/2004 | Violencia de género. | Prevención, asistencia, protección integral, tutela judicial y medidas sociales/laborales. |
-| Ley 4/2023 | Igualdad real de personas trans y garantía de derechos LGTBI. | No discriminación, diversidad, libre desarrollo, políticas inclusivas. |
+| <mark>Ley 4/2023</mark> | Igualdad real de personas trans y garantía de derechos LGTBI. | No discriminación, diversidad, libre desarrollo, políticas inclusivas. |
 
 Aunque son normas distintas, comparten una idea: la Administración no debe ser neutral ante desigualdades estructurales. Debe prevenir discriminaciones, adaptar servicios y garantizar derechos en la práctica diaria.
 

@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema se estudia sobre la Constitución Española, el Código Civil en materia de fuentes, la Ley 39/2015, la Ley 40/2015 y la normativa reguladora de la potestad reglamentaria. En el ámbito local deben tenerse presentes la Ley 7/1985, reguladora de las Bases del Régimen Local, y las ordenanzas y reglamentos municipales.
+Este tema se estudia sobre la <mark>Constitución Española</mark>, el Código Civil en materia de fuentes, la <mark>Ley 39/2015</mark>, la <mark>Ley 40/2015</mark> y la normativa reguladora de la potestad reglamentaria. En el ámbito local deben tenerse presentes la <mark>Ley 7/1985</mark>, reguladora de las Bases del Régimen Local, y las ordenanzas y reglamentos municipales.
 
 ## Derecho administrativo y fuentes
 
@@ -24,9 +24,9 @@ Las fuentes del Derecho son los modos de producción de normas jurídicas. En el
 | Principios generales | Interpretan, integran y controlan la actividad administrativa. |
 | Costumbre | Papel reducido por el principio de legalidad. |
 
-El artículo 1.1 del Código Civil formula las fuentes del ordenamiento jurídico español como `la ley, la costumbre y los principios generales del Derecho`. En Derecho Administrativo esa lista debe leerse con cautela: la costumbre solo tiene función muy limitada, porque la Administración no puede crear potestades por práctica repetida.
+El <mark>artículo 1.1</mark> del Código Civil formula las fuentes del ordenamiento jurídico español como `la ley, la costumbre y los principios generales del Derecho`. En Derecho Administrativo esa lista debe leerse con cautela: la costumbre solo tiene función muy limitada, porque la Administración no puede crear potestades por práctica repetida.
 
-La entrada en vigor de las leyes también aparece en test. Si la ley no dispone otra cosa, entra en vigor a los veinte días de su completa publicación en el BOE. Ese periodo entre publicación y entrada en vigor se denomina `vacatio legis`; puede ser más largo, más corto o no existir si la norma así lo establece.
+La entrada en vigor de las leyes también aparece en test. Si la ley no dispone otra cosa, entra en vigor a los <mark>veinte días</mark> de su completa publicación en el <mark>BOE</mark>. Ese periodo entre publicación y entrada en vigor se denomina `vacatio legis`; puede ser más largo, más corto o no existir si la norma así lo establece.
 
 ## Jerarquia normativa
 
@@ -50,7 +50,7 @@ La jerarquía se combina con otros criterios. El principio de competencia determ
 
 ## La ley
 
-La ley es la norma aprobada por las Cortes Generales o por los Parlamentos autonómicos dentro de sus competencias. En el ámbito estatal hay leyes orgánicas y leyes ordinarias. La ley orgánica se reserva a materias especialmente protegidas: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas por la Constitución. Su aprobación exige mayoría absoluta del Congreso en votación final sobre el conjunto.
+La ley es la norma aprobada por las Cortes Generales o por los Parlamentos autonómicos dentro de sus competencias. En el ámbito estatal hay leyes orgánicas y leyes ordinarias. La ley orgánica se reserva a materias especialmente protegidas: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas por la Constitución. Su aprobación exige <mark>mayoría absoluta</mark> del Congreso en votación final sobre el conjunto.
 
 La ley ordinaria regula las materias no reservadas a ley orgánica y se aprueba por el procedimiento legislativo ordinario. En el ámbito autonómico, las Cortes de Castilla y León pueden aprobar leyes en materias de competencia de la Comunidad.
 
@@ -88,7 +88,7 @@ Las comunidades autónomas pueden tener instituciones equivalentes en sus Estatu
 | Dato de examen | Regla |
 |---|---|
 | Decreto-ley | Extraordinaria y urgente necesidad. |
-| Control del decreto-ley | Debate y votación de totalidad en el Congreso en el plazo de treinta días desde su promulgación. |
+| Control del decreto-ley | Debate y votación de totalidad en el Congreso en el plazo de <mark>treinta días</mark> desde su promulgación. |
 | Decreto legislativo para texto articulado | La delegación se otorga mediante ley de bases. |
 | Decreto legislativo para texto refundido | La delegación se otorga mediante ley ordinaria. |
 
@@ -115,7 +115,7 @@ Los reglamentos pueden clasificarse por su origen en estatales, autonómicos y l
 
 Los límites del reglamento son esenciales. No puede vulnerar la Constitución ni la ley, regular materias reservadas a ley, establecer delitos o penas, crear tributos fuera de habilitación legal, imponer obligaciones sin cobertura suficiente ni actuar retroactivamente en perjuicio de derechos. Los tribunales controlan la potestad reglamentaria y pueden declarar la nulidad de reglamentos ilegales.
 
-La Ley 39/2015 recuerda que los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución ni las leyes, regular materias reservadas a ley, tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, ni tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.
+La <mark>Ley 39/2015</mark> recuerda que los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución ni las leyes, regular materias reservadas a ley, tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, ni tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.
 
 | Reglamento | Idea clave |
 |---|---|

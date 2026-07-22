@@ -12,7 +12,7 @@ La materia se regula en el EBEP, normativa estatal y autonómica de función pú
 
 ## Adquisición de la condición de funcionario
 
-La condición de funcionario de carrera se adquiere mediante cumplimiento sucesivo de requisitos. Debe superarse el proceso selectivo, producirse nombramiento por el órgano competente, publicarse el nombramiento cuando proceda, prestarse acto de acatamiento de la Constitución y del Estatuto de Autonomía correspondiente, y tomarse posesión dentro del plazo establecido.
+La condición de funcionario de carrera se adquiere mediante cumplimiento sucesivo de requisitos. Debe <mark>superarse el proceso selectivo</mark>, producirse <mark>nombramiento</mark> por el órgano competente, publicarse el nombramiento cuando proceda, prestarse acto de acatamiento de la Constitución y del <mark>Estatuto de Autonomía</mark> correspondiente, y <mark>tomarse posesión</mark> dentro del plazo establecido.
 
 La selección se basa en igualdad, mérito y capacidad. La superación de pruebas por si sola no basta si no hay nombramiento y toma de posesión. La toma de posesión incorpora al funcionario al servicio activo y al cuerpo, escala o subescala correspondiente.
 
@@ -30,7 +30,7 @@ La secuencia es importante porque cada fase tiene efectos distintos. Una persona
 
 ## Perdida de la condición de funcionario
 
-La condición de funcionario de carrera se pierde por renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación del servicio con carácter firme, pena principal o accesoria de inhabilitación absoluta o especial para cargo público, y otros supuestos legalmente previstos.
+La condición de funcionario de carrera se pierde por <mark>renuncia, pérdida de nacionalidad, jubilación total, sanción disciplinaria de separación del servicio con carácter firme, pena principal o accesoria de inhabilitación absoluta o especial</mark> para cargo público, y otros supuestos legalmente previstos.
 
 La renuncia debe ser voluntaria y aceptada expresamente por la Administración, salvo que el funcionario este sujeto a expediente disciplinario o procesamiento que impida aceptarla. La renuncia no inhabilita para nuevo ingreso.
 
@@ -54,7 +54,7 @@ La rehabilitación es especialmente relevante cuando la pérdida vino causada po
 
 ## Situaciones administrativas
 
-Las situaciones administrativas reflejan la posición jurídica del funcionario respecto al servicio. Las principales son servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones.
+Las situaciones administrativas reflejan la posición jurídica del funcionario respecto al servicio. Las principales son <mark>servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones</mark>.
 
 | Situación | Idea esencial |
 | --- | --- |
@@ -111,10 +111,10 @@ Los efectos varian mucho: reserva de puesto, computo de tiempo, derechos económ
 
 | Modalidad de excedencia | Dato típico |
 | --- | --- |
-| Interés particular | Requiere, como regla básica, haber prestado servicios efectivos durante cinco años inmediatamente anteriores; no hay reserva ordinaria de puesto ni retribuciones. |
+| Interés particular | Requiere, como regla básica, haber prestado servicios efectivos durante <mark>cinco años</mark> inmediatamente anteriores; no hay reserva ordinaria de puesto ni retribuciones. |
 | Agrupación familiar | Permite acompañar al conyuge que reside en otra localidad por destino definitivo como funcionario de carrera o laboral fijo en una Administración. |
-| Cuidado de hijo | Duración máxima de tres años por cada hijo, desde nacimiento o resolución judicial/administrativa. |
-| Cuidado de familiar | Duración máxima de tres años para atender a familiar a cargo hasta el grado previsto legalmente, cuando no pueda valerse por si mismo y no desempeñe actividad retribuida. |
+| Cuidado de hijo | Duración máxima de <mark>tres años</mark> por cada hijo, desde nacimiento o resolución judicial/administrativa. |
+| Cuidado de familiar | Duración máxima de <mark>tres años</mark> para atender a familiar a cargo hasta el grado previsto legalmente, cuando no pueda valerse por si mismo y no desempeñe actividad retribuida. |
 | Violencia de género o terrorista | Protección reforzada, sin exigencia inicial de tiempo mínimo de servicios previos, con reserva y derechos en los términos legales. |
 
 ## Suspensión de funciones

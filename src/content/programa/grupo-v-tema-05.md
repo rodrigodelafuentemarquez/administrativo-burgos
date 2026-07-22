@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La norma principal es la Ley 31/1995 de Prevención de Riesgos Laborales y su normativa de desarrollo. En Administraciones Públicas se aplica con adaptaciones derivadas de la organización administrativa y negociación colectiva.
+La norma principal es la <mark>Ley 31/1995</mark> de Prevención de Riesgos Laborales y su normativa de desarrollo. En Administraciones Públicas se aplica con adaptaciones derivadas de la organización administrativa y negociación colectiva.
 
 ## Objeto
 
@@ -16,7 +16,7 @@ La Ley de Prevención tiene por objeto promover <mark>seguridad y salud de los t
 
 La prevención no se limita a reaccionar ante accidentes. Exige evaluar riesgos, planificar actividad preventiva, informar, formar, vigilar salud, adaptar puestos, investigar daños y mejorar continuamente.
 
-La idea central de la Ley 31/1995 es preventiva, no reparadora. El accidente o la enfermedad profesional son el fracaso de la prevención. Por eso la Administración debe anticiparse, identificar riesgos y adoptar medidas antes de que se produzca el daño.
+La idea central de la <mark>Ley 31/1995</mark> es preventiva, no reparadora. El accidente o la enfermedad profesional son el fracaso de la prevención. Por eso la Administración debe anticiparse, identificar riesgos y adoptar medidas antes de que se produzca el daño.
 
 <mark>Clave de examen:</mark> la prevención de riesgos laborales no empieza cuando ocurre el accidente. Empieza con la **evaluación de riesgos**, continúa con la **planificación preventiva** y se mantiene con información, formación, vigilancia de la salud y mejora continua.
 
@@ -34,7 +34,7 @@ La secuencia básica es:
 
 Se aplica a relaciones laborales y al <mark>personal civil al servicio de Administraciones Públicas</mark>. Incluye funcionarios, laborales y otros empleados en los términos legales. Existen particularidades para policía, protección civil, emergencias y actividades con normativa específica.
 
-La Ley 31/1995 tiene vocación general, pero ella misma contempla exclusiones o particularidades para actividades cuyas características lo impidan en determinados servicios operativos, sin perjuicio de que deban inspirarse medidas de seguridad y salud.
+La <mark>Ley 31/1995</mark> tiene vocación general, pero ella misma contempla exclusiones o particularidades para actividades cuyas características lo impidan en determinados servicios operativos, sin perjuicio de que deban inspirarse medidas de seguridad y salud.
 
 En una entidad local, la ley alcanza al personal administrativo, policía local, personal de oficios, limpieza, instalaciones deportivas, bibliotecas, servicios sociales, brigadas, cementerio, mercados y demás servicios municipales. Cada puesto tiene riesgos diferentes, por lo que no basta una prevención genérica.
 
@@ -47,7 +47,7 @@ En una entidad local, la ley alcanza al personal administrativo, policía local,
 | Deportes/instalaciones | Mantenimiento, humedad, productos, usuarios, emergencias. |
 | Servicios sociales | Riesgo psicosocial, visitas, situaciones conflictivas, datos sensibles. |
 
-| Concepto del art. 4 LPRL | Definición de examen |
+| Concepto del <mark>art. 4</mark> LPRL | Definición de examen |
 | --- | --- |
 | Riesgo laboral | Posibilidad de que un trabajador sufra un daño derivado del trabajo. |
 | Daños derivados del trabajo | Enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo. |

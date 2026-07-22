@@ -8,13 +8,13 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La potestad sancionadora se regula en sus principios por la Ley 40/2015 y procedimentalmente por la Ley 39/2015. En el ámbito local son relevantes la Ley 7/1985, las ordenanzas municipales y la normativa sectorial aplicable.
+La potestad sancionadora se regula en sus principios por la <mark>Ley 40/2015</mark> y procedimentalmente por la <mark>Ley 39/2015</mark>. En el ámbito local son relevantes la <mark>Ley 7/1985</mark>, las ordenanzas municipales y la normativa sectorial aplicable.
 
 ## Concepto y significado
 
 La potestad sancionadora es la facultad de las Administraciones Públicas de imponer sanciones por infracciones administrativas. Permite proteger intereses públicos y asegurar cumplimiento de normas sin acudir siempre al Derecho penal.
 
-No es una potestad libre. Tiene naturaleza punitiva y por ello se somete a garantías estrictas: legalidad, tipicidad, culpabilidad, proporcionalidad, presunción de inocencia, procedimiento, audiencia y separación entre instrucción y resolución cuando proceda.
+No es una potestad libre. Tiene naturaleza punitiva y por ello se somete a garantías estrictas: <mark>legalidad, tipicidad, culpabilidad, proporcionalidad, presunción de inocencia, procedimiento, audiencia y separación entre instrucción y resolución</mark> cuando proceda.
 
 | Principio | Contenido |
 | --- | --- |
@@ -29,7 +29,7 @@ La potestad sancionadora administrativa se parece al Derecho penal en garantías
 
 ## Procedimiento sancionador
 
-El procedimiento sancionador suele iniciarse de oficio por acuerdo del órgano competente, a partir de denuncia, acta de inspección, informe policial o iniciativa administrativa. Debe identificar hechos, posible infracción, sanción que pudiera corresponder, instructor y órgano competente para resolver.
+El procedimiento sancionador suele iniciarse <mark>de oficio</mark> por acuerdo del órgano competente, a partir de denuncia, acta de inspección, informe policial o iniciativa administrativa. Debe identificar <mark>hechos, posible infracción, sanción que pudiera corresponder, instructor y órgano competente para resolver</mark>.
 
 | Fase | Función |
 | --- | --- |
@@ -72,7 +72,7 @@ La responsabilidad sancionadora exige culpabilidad. Puede haber dolo o culpa. La
 
 La sanción debe ser proporcionada a la gravedad de la infracción. Se valoran intencionalidad, reiteración, naturaleza de perjuicios, reincidencia, beneficio obtenido y circunstancias concurrentes.
 
-El principio non bis in idem impide sancionar dos veces por los mismos hechos, sujeto y fundamento. También condiciona la relación entre procedimiento penal y administrativo. Si los hechos pueden ser delito, la Administración debe respetar la prioridad penal en los términos legales.
+El principio <mark>non bis in idem</mark> impide sancionar dos veces por los mismos <mark>hechos, sujeto y fundamento</mark>. También condiciona la relación entre procedimiento penal y administrativo. Si los hechos pueden ser delito, la Administración debe respetar la prioridad penal en los términos legales.
 
 La irretroactividad es regla en materia sancionadora desfavorable: no puede aplicarse una infracción o sanción posterior a hechos anteriores si perjudica al presunto infractor. En cambio, las disposiciones sancionadoras producen efecto retroactivo cuando favorecen al infractor, tanto respecto de tipificación como de sanción o plazos, en los términos legales.
 
@@ -95,7 +95,7 @@ La resolución debe ser motivada y decidir todas las cuestiones planteadas. No p
 
 El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, cuando en la instrucción se ponga de manifiesto que no existen hechos que puedan constituir infracción, que los hechos no resultan acreditados, que no constituyen infracción administrativa, que no existe o no se ha podido identificar a la persona responsable, o que la infracción ha prescrito.
 
-Cuando la sanción tenga únicamente carácter pecuniario, el reconocimiento de responsabilidad y el pago voluntario anterior a la resolución pueden llevar aparejadas reducciones acumulables de al menos el 20% cada una, en los términos del artículo 85 de la Ley 39/2015. La efectividad de esas reducciones queda condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
+Cuando la sanción tenga únicamente carácter pecuniario, el reconocimiento de responsabilidad y el pago voluntario anterior a la resolución pueden llevar aparejadas reducciones acumulables de al menos el 20% cada una, en los términos del <mark>artículo 85</mark> de la <mark>Ley 39/2015</mark>. La efectividad de esas reducciones queda condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
 
 Las medidas provisionales pueden adoptarse para asegurar la eficacia de la resolución final, evitar el mantenimiento de efectos de la infracción o proteger intereses generales. Deben estar previstas legalmente, ser proporcionales, motivarse y no causar perjuicios de imposible o difícil reparación. No son sanciones anticipadas.
 
@@ -111,7 +111,7 @@ Las medidas provisionales pueden adoptarse para asegurar la eficacia de la resol
 
 Las sanciones pueden consistir en multas, suspensión de actividades, clausura, retirada de autorizaciones, pérdida de derechos, decomiso u otras medidas previstas por ley u ordenanza. Las medidas accesorias deben estar habilitadas y ser proporcionadas.
 
-No deben confundirse sanciones con medidas provisionales, medidas de restablecimiento de legalidad o multas coercitivas. Una orden de retirar un elemento ilegal puede ser restablecimiento; la multa por la infracción es sanción.
+No deben confundirse <mark>sanciones</mark> con <mark>medidas provisionales, medidas de restablecimiento de legalidad o multas coercitivas</mark>. Una orden de retirar un elemento ilegal puede ser restablecimiento; la multa por la infracción es sanción.
 
 ## Potestad sancionadora local
 

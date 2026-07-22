@@ -8,9 +8,9 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El régimen se basa en el Reglamento General de Protección de Datos de la Unión Europea y en la Ley Orgánica 3/2018 de Protección de Datos Personales y garantía de derechos digitales.
+El régimen se basa en el Reglamento General de Protección de Datos de la Unión Europea y en la <mark>Ley Orgánica 3/2018</mark> de Protección de Datos Personales y garantía de derechos digitales.
 
-El RGPD es directamente aplicable desde el <mark>25 de mayo de 2018</mark>. La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD, completa sus previsiones y regula derechos digitales.
+El <mark>RGPD</mark> es directamente aplicable desde el <mark>25 de mayo de 2018</mark>. La <mark>Ley Orgánica 3/2018</mark> adapta el ordenamiento español al <mark>RGPD</mark>, completa sus previsiones y regula derechos digitales.
 
 ## Datos personales y tratamiento
 
@@ -140,7 +140,7 @@ La Agencia Española de Protección de Datos es autoridad estatal. Algunas comun
 
 ## Derechos digitales
 
-La Ley Orgánica 3/2018 incorpora derechos digitales: <mark>neutralidad de internet, acceso universal, seguridad digital, educación digital, protección de menores, rectificación en internet, actualización de informaciones, intimidad en uso de dispositivos laborales, desconexion digital y derechos ante sistemas de videovigilancia y geolocalización</mark>.
+La <mark>Ley Orgánica 3/2018</mark> incorpora derechos digitales: <mark>neutralidad de internet, acceso universal, seguridad digital, educación digital, protección de menores, rectificación en internet, actualización de informaciones, intimidad en uso de dispositivos laborales, desconexion digital y derechos ante sistemas de videovigilancia y geolocalización</mark>.
 
 Para un administrativo, protección de datos significa no consultar expedientes sin motivo, no divulgar información, comprobar destinatarios, usar copia oculta cuando proceda, custodiar documentos, bloquear pantalla, destruir papel correctamente y respetar perfiles de acceso.
 

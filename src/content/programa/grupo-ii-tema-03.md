@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El procedimiento administrativo común se regula en la Ley 39/2015, de 1 de octubre. La Ley 40/2015 completa el marco institucional y orgánico. En materia local se aplica también la Ley 7/1985 y la normativa de funcionamiento de las entidades locales.
+El procedimiento administrativo común se regula en la <mark>Ley 39/2015, de 1 de octubre</mark>. La <mark>Ley 40/2015</mark> completa el marco institucional y orgánico. En materia local se aplica también la <mark>Ley 7/1985</mark> y la normativa de funcionamiento de las entidades locales.
 
 ## Concepto y naturaleza
 
@@ -16,7 +16,7 @@ El procedimiento administrativo común es el conjunto ordenado de actos y trámi
 
 Su naturaleza es doble. Desde la perspectiva de la Administración, permite ordenar el expediente, asegurar legalidad y preparar una decisión fundada. Desde la perspectiva del ciudadano, garantiza derechos de información, audiencia, alegación, prueba, acceso al expediente, identificación de autoridades responsables y recurso.
 
-La Ley 39/2015 establece reglas comunes para todas las Administraciones Públicas. Las especialidades sectoriales son posibles, pero deben respetar el marco común.
+La <mark>Ley 39/2015</mark> establece reglas comunes para todas las Administraciones Públicas. Las especialidades sectoriales son posibles, pero deben respetar el marco común.
 
 | Procedimiento administrativo común | Idea esencial |
 |---|---|
@@ -31,7 +31,7 @@ El procedimiento se rige por legalidad, eficacia, celeridad, economía, transpar
 
 La obligación de resolver es esencial. La Administración debe dictar resolución expresa y notificarla en todos los procedimientos, cualquiera que sea su forma de iniciación. El silencio administrativo opera como técnica para evitar que la inactividad administrativa perjudique indefinidamente al interesado, aunque no elimina la obligación de resolver.
 
-Cuando las normas reguladoras del procedimiento no fijen el plazo máximo para resolver, este será de tres meses. En los procedimientos iniciados a solicitud del interesado, el silencio es estimatorio como regla general, salvo excepciones legales. En los recursos administrativos, el silencio es desestimatorio como regla general, con la excepción clásica del recurso de alzada interpuesto contra la desestimación presunta de una solicitud, cuando no se refiera a materias exceptuadas.
+Cuando las normas reguladoras del procedimiento no fijen el plazo máximo para resolver, este será de <mark>tres meses</mark>. En los procedimientos iniciados a solicitud del interesado, el silencio es estimatorio como regla general, salvo excepciones legales. En los recursos administrativos, el silencio es desestimatorio como regla general, con la excepción clásica del recurso de alzada interpuesto contra la desestimación presunta de una solicitud, cuando no se refiera a materias exceptuadas.
 
 Los interesados tienen derecho a conocer el estado de tramitación, acceder al expediente, formular alegaciones, aportar documentos, no presentar documentos que ya obren en poder de la Administración, obtener copia, identificar al personal responsable y actuar asistidos de asesor cuando lo consideren conveniente.
 
@@ -45,11 +45,11 @@ Los interesados tienen derecho a conocer el estado de tramitación, acceder al e
 
 | Plazo o efecto | Regla de examen |
 |---|---|
-| Plazo supletorio para resolver | Tres meses. |
-| Subsanación de solicitud | Diez días, ampliables prudencialmente hasta cinco días más salvo procedimientos selectivos o de concurrencia competitiva. |
-| Trámites de interesados | Diez días desde la notificación si la norma no fija otro plazo. |
+| Plazo supletorio para resolver | <mark>Tres meses</mark>. |
+| Subsanación de solicitud | <mark>Diez días</mark>, ampliables prudencialmente hasta <mark>cinco días</mark> más salvo procedimientos selectivos o de concurrencia competitiva. |
+| Trámites de interesados | <mark>Diez días</mark> desde la notificación si la norma no fija otro plazo. |
 | Tramitación de urgencia | Reduce plazos a la mitad, salvo presentación de solicitudes y recursos. |
-| Caducidad por paralización imputable al interesado | Advertencia y paralización superior a tres meses. |
+| Caducidad por paralización imputable al interesado | Advertencia y paralización superior a <mark>tres meses</mark>. |
 
 ### Derechos tipicos del interesado
 
@@ -63,7 +63,7 @@ Los interesados tienen derecho a conocer el estado de tramitación, acceder al e
 
 El procedimiento puede iniciarse de oficio o a solicitud del interesado. La iniciación de oficio puede acordarse por propia iniciativa del órgano competente, orden superior, petición razonada de otros órganos o denuncia. La denuncia no convierte por si misma al denunciante en interesado, salvo que tenga derecho o interés legítimo afectado.
 
-La solicitud de iniciación debe contener identificación del interesado, medio de notificación, hechos, razones y petición, lugar y fecha, firma y órgano al que se dirige. Si la solicitud no reune requisitos, se requiere subsanación por plazo de diez días, con advertencia de desistimiento si no se atiende.
+La solicitud de iniciación debe contener identificación del interesado, medio de notificación, hechos, razones y petición, lugar y fecha, firma y órgano al que se dirige. Si la solicitud no reune requisitos, se requiere subsanación por plazo de <mark>diez días</mark>, con advertencia de desistimiento si no se atiende.
 
 La Administración puede adoptar medidas provisionales antes o después de iniciado el procedimiento cuando sean necesarias para asegurar la eficacia de la resolución, proteger intereses implicados o evitar perjuicios, siempre con proporcionalidad.
 
@@ -87,7 +87,7 @@ La Administración puede adoptar medidas provisionales antes o después de inici
 
 La ordenación comprende las reglas de impulso y tramitación. El procedimiento se impulsa de oficio en todos sus trámites y por medios electrónicos. Los expedientes deben guardar orden, incorporar documentos, informes, resoluciones y diligencias, y permitir trazabilidad.
 
-El principio de celeridad exige acordar en un solo acto todos los trámites que admitan impulso simultaneo. El cumplimiento de plazos es obligatorio para Administración e interesados. Los términos y plazos se computan conforme a la Ley 39/2015, distinguiendo días habiles, naturales, meses y años.
+El principio de celeridad exige acordar en un solo acto todos los trámites que admitan impulso simultaneo. El cumplimiento de plazos es obligatorio para Administración e interesados. Los términos y plazos se computan conforme a la <mark>Ley 39/2015</mark>, distinguiendo días habiles, naturales, meses y años.
 
 La tramitación electrónica se configura como funcionamiento ordinario del sector público. El expediente electrónico debe formarse mediante agregación ordenada de documentos, pruebas, dictamenes, informes, acuerdos, notificaciones y demás diligencias.
 
@@ -106,13 +106,13 @@ Los interesados pueden formular alegaciones y aportar documentos en cualquier mo
 
 Los informes pueden ser preceptivos o facultativos, vinculantes o no vinculantes. Salvo disposición expresa, son facultativos y no vinculantes. La falta de emisión de informes puede tener consecuencias distintas según su naturaleza.
 
-Los informes se emitirán por medios electrónicos y en el plazo de diez días, salvo que una disposición o el cumplimiento del resto de plazos permita o exija otro plazo. Si un informe preceptivo no se emite en plazo, se pueden proseguir las actuaciones salvo que sea determinante para resolver, en cuyo caso puede suspenderse el plazo máximo.
+Los informes se emitirán por medios electrónicos y en el plazo de <mark>diez días</mark>, salvo que una disposición o el cumplimiento del resto de plazos permita o exija otro plazo. Si un informe preceptivo no se emite en plazo, se pueden proseguir las actuaciones salvo que sea determinante para resolver, en cuyo caso puede suspenderse el plazo máximo.
 
 El trámite de audiencia se concede instruido el procedimiento e inmediatamente antes de redactar la propuesta de resolución, para que los interesados aleguen y presenten documentos. Puede prescindirse de audiencia cuando no figuren ni sean tenidos en cuenta otros hechos ni alegaciones que los aducidos por el interesado.
 
 La información pública permite que cualquier persona examine el expediente o parte de el y formule alegaciones cuando la naturaleza del procedimiento lo requiera.
 
-El periodo de prueba no puede ser superior a treinta días ni inferior a diez. El trámite de audiencia se concede por plazo no inferior a diez días ni superior a quince. Las actuaciones complementarias indispensables para resolver deben practicarse en un plazo no superior a quince días.
+El periodo de prueba no puede ser superior a <mark>treinta días</mark> ni inferior a diez. El trámite de audiencia se concede por plazo no inferior a <mark>diez días</mark> ni superior a quince. Las actuaciones complementarias indispensables para resolver deben practicarse en un plazo no superior a <mark>quince días</mark>.
 
 | Actuaciones de instrucción | Función |
 |---|---|
@@ -124,10 +124,10 @@ El periodo de prueba no puede ser superior a treinta días ni inferior a diez. E
 
 | Actuación de instrucción | Plazo clave |
 |---|---|
-| Informes | Diez días salvo previsión distinta. |
-| Prueba | Entre diez y treinta días. |
-| Audiencia | Entre diez y quince días. |
-| Actuaciones complementarias | Máximo quince días. |
+| Informes | <mark>Diez días</mark> salvo previsión distinta. |
+| Prueba | Entre diez y <mark>treinta días</mark>. |
+| Audiencia | Entre diez y <mark>quince días</mark>. |
+| Actuaciones complementarias | Máximo <mark>quince días</mark>. |
 
 ### Regla muy útil para examen
 

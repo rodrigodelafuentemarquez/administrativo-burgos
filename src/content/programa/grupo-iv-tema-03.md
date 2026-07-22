@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La ejecución del gasto local se regula por la Ley de Haciendas Locales, el Real Decreto 500/1990, la normativa contable local, las bases de ejecución del presupuesto y las reglas de control interno.
+La ejecución del gasto local se regula por la <mark>Ley de Haciendas Locales</mark>, el <mark>Real Decreto 500/1990</mark>, la normativa contable local, las bases de ejecución del presupuesto y las reglas de control interno.
 
 ## Ejecución del presupuesto de gasto
 

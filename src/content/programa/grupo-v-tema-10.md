@@ -40,7 +40,7 @@ El uso de <mark>estilos</mark> es importante para documentos largos, porque perm
 
 La accesibilidad documental también cuenta. Un documento administrativo debe usar estilos reales, tablas simples, texto alternativo en imágenes relevantes, contraste suficiente y estructura comprensible. Exportar a PDF no debe destruir esa accesibilidad ni ocultar comentarios o metadatos internos.
 
-En documentos administrativos debe cuidarse claridad, fecha, órgano, asunto, destinatario, firma, CSV si procede y adecuación al expediente.
+En documentos administrativos debe cuidarse claridad, fecha, órgano, asunto, destinatario, firma, <mark>CSV</mark> si procede y adecuación al expediente.
 
 Estructura habitual de un documento administrativo sencillo:
 
@@ -145,7 +145,7 @@ En Excel hay que evitar errores de fórmulas, rangos incompletos, datos personal
 | Enviar un Word con comentarios internos | Limpiar comentarios y enviar versión final. |
 | Compartir enlace abierto | Compartir con personas concretas y permisos mínimos. |
 | Usar Excel como registro oficial | Usar aplicación corporativa o expediente oficial. |
-| Copiar normativa sin comprobar vigencia | Consultar BOE/fuente oficial actualizada. |
+| Copiar normativa sin comprobar vigencia | Consultar <mark>BOE</mark>/fuente oficial actualizada. |
 | Mezclar datos sensibles sin necesidad | Minimizar y separar información. |
 
 ## Seguridad y colaboración

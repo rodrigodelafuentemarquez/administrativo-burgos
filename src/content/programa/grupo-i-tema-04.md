@@ -8,9 +8,9 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema se apoya principalmente en la Constitución Española, en la Ley 50/1997, de 27 de noviembre, del Gobierno, y en la Ley 40/2015, de 1 de octubre, de Régimen Jurídico del Sector Público.
+Este tema se apoya principalmente en la <mark>Constitución Española</mark>, en la <mark>Ley 50/1997, de 27 de noviembre</mark>, del Gobierno, y en la <mark>Ley 40/2015, de 1 de octubre</mark>, de Régimen Jurídico del Sector Público.
 
-La Constitución regula el Gobierno y la Administración en el título IV. La Ley del Gobierno desarrolla la posición, composición, funcionamiento y estatuto del Gobierno estatal. La Ley 40/2015 regula el sector público, sus principios, organización y funcionamiento, y contiene la estructura básica de la Administración General del Estado y del sector público institucional estatal.
+La Constitución regula el Gobierno y la Administración en el título IV. La <mark>Ley del Gobierno</mark> desarrolla la posición, composición, funcionamiento y estatuto del Gobierno estatal. La <mark>Ley 40/2015</mark> regula el sector público, sus principios, organización y funcionamiento, y contiene la estructura básica de la Administración General del Estado y del sector público institucional estatal.
 
 ## El Gobierno en el sistema constitucional
 
@@ -18,7 +18,7 @@ El Gobierno es el órgano constitucional que dirige la política interior y exte
 
 La posición del Gobierno debe entenderse dentro de la monarquía parlamentaria. La Corona no dirige la acción política; la dirección corresponde al Gobierno, que nace de la confianza del Congreso de los Diputados. Por eso el Gobierno está sometido a control parlamentario y responde políticamente ante el Congreso.
 
-El artículo 97 de la Constitución concentra sus funciones básicas: dirección política, dirección administrativa, defensa del Estado, función ejecutiva y potestad reglamentaria. Esta última permite aprobar normas de rango reglamentario, siempre subordinadas a la Constitución y a la ley. El Gobierno no puede utilizar el reglamento para invadir materias reservadas a la ley ni para contradecir normas superiores.
+El <mark>artículo 97</mark> de la Constitución concentra sus funciones básicas: dirección política, dirección administrativa, defensa del Estado, función ejecutiva y potestad reglamentaria. Esta última permite aprobar normas de rango reglamentario, siempre subordinadas a la Constitución y a la ley. El Gobierno no puede utilizar el reglamento para invadir materias reservadas a la ley ni para contradecir normas superiores.
 
 El Gobierno actúa colegiadamente, pero dentro de el tiene una posición central el Presidente. El Presidente dirige la acción del Gobierno y coordina las funciones de sus miembros, sin perjuicio de la competencia y responsabilidad directa de los Ministros en su gestión.
 
@@ -51,7 +51,7 @@ Los Vicepresidentes, cuando existan, ejercen las funciones que les encomiende el
 
 El órgano colegiado principal del Gobierno es el Consejo de Ministros. En el se aprueban proyectos de ley, reales decretos-leyes, reales decretos legislativos, reglamentos, nombramientos relevantes, acuerdos de política general y decisiones ejecutivas de especial importancia.
 
-La Ley del Gobierno regula también las Comisiones Delegadas del Gobierno, que se crean para coordinar la acción de varios Ministerios en materias que afecten a varios departamentos. Estas comisiones permiten preparar decisiones, coordinar políticas sectoriales y resolver asuntos que no siempre requieren deliberación del Consejo de Ministros en pleno.
+La <mark>Ley del Gobierno</mark> regula también las Comisiones Delegadas del Gobierno, que se crean para coordinar la acción de varios Ministerios en materias que afecten a varios departamentos. Estas comisiones permiten preparar decisiones, coordinar políticas sectoriales y resolver asuntos que no siempre requieren deliberación del Consejo de Ministros en pleno.
 
 El Gobierno puede dictar reglamentos en forma de reales decretos cuando proceden del Consejo de Ministros, y los Ministros pueden dictar órdenes ministeriales en el ámbito de sus competencias. La potestad reglamentaria queda sometida al principio de jerarquía normativa, al control de los tribunales y a los límites derivados de la reserva de ley.
 
@@ -67,7 +67,7 @@ El Gobierno puede dictar reglamentos en forma de reales decretos cuando proceden
 
 Tras la renovación del Congreso y en los demás supuestos constitucionales, el Rey propone un candidato a la Presidencia del Gobierno previa consulta con los representantes designados por los grupos políticos con representación parlamentaria y a través del Presidente del Congreso.
 
-El candidato expone ante el Congreso su programa político y solicita la confianza de la Cámara. En primera votación necesita mayoría absoluta. Si no la obtiene, se celebra una nueva votación cuarenta y ocho horas después, en la que basta mayoría simple. Si en el plazo de dos meses desde la primera votación ningún candidato obtiene la confianza, el Rey disuelve ambas Cámaras y convoca nuevas elecciones con el refrendo del Presidente del Congreso.
+El candidato expone ante el Congreso su programa político y solicita la confianza de la Cámara. En primera votación necesita <mark>mayoría absoluta</mark>. Si no la obtiene, se celebra una nueva votación <mark>cuarenta y ocho horas</mark> después, en la que basta <mark>mayoría simple</mark>. Si en el plazo de <mark>dos meses</mark> desde la primera votación ningún candidato obtiene la confianza, el Rey disuelve ambas Cámaras y convoca nuevas elecciones con el refrendo del Presidente del Congreso.
 
 El Gobierno cesa tras la celebración de elecciones generales, por pérdida de la confianza parlamentaria, por dimisión o fallecimiento de su Presidente. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno. La continuidad en funciones evita vacíos de poder, pero limita políticamente la actuación gubernamental.
 
@@ -82,7 +82,7 @@ La responsabilidad política se articula mediante la cuestión de confianza y la
 
 ## La Administración del Estado
 
-La Administración del Estado es el conjunto de órganos y unidades que, bajo la dirección del Gobierno, sirven a los intereses generales en el ámbito estatal. Su regulación constitucional básica se encuentra en el artículo 103.
+La Administración del Estado es el conjunto de órganos y unidades que, bajo la dirección del Gobierno, sirven a los intereses generales en el ámbito estatal. Su regulación constitucional básica se encuentra en el <mark>artículo 103</mark>.
 
 La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho. Esta frase debe dominarse porque resume el modelo constitucional de Administración.
 
@@ -117,7 +117,7 @@ La estructura ministerial se basa en los principios de jerarquía y especializac
 
 La Administración General del Estado no actúa solo desde Madrid. Se proyecta territorialmente a través de Delegaciones del Gobierno en las comunidades autónomas y Subdelegaciones del Gobierno en las provincias.
 
-Los Delegados del Gobierno representan al Gobierno en el territorio de la comunidad autónoma, dirigen y supervisan la Administración General del Estado en ese ámbito y coordinan los servicios estatales. Su existencia se recoge en el artículo 154 de la Constitución y se desarrolla por la legislación estatal.
+Los Delegados del Gobierno representan al Gobierno en el territorio de la comunidad autónoma, dirigen y supervisan la Administración General del Estado en ese ámbito y coordinan los servicios estatales. Su existencia se recoge en el <mark>artículo 154</mark> de la Constitución y se desarrolla por la legislación estatal.
 
 Los Subdelegados del Gobierno actuan en el ámbito provincial. En las comunidades uniprovinciales, con carácter general, no existe Subdelegado separado, salvo supuestos legalmente previstos. La organización territorial estatal debe coordinarse con las comunidades autónomas y entidades locales, evitando duplicidades y respetando competencias.
 
@@ -134,7 +134,7 @@ En el ordenamiento español no existe una sola Administración Pública. Hay una
 
 Cada Administración tiene personalidad jurídica propia. Los órganos administrativos no tienen personalidad independiente; actuan en nombre de la Administración a la que pertenecen. Esta idea es importante para entender la imputación de actos, la responsabilidad patrimonial y la validez de las resoluciones.
 
-La Ley 40/2015 define el sector público de forma amplia. Incluye las Administraciones Públicas territoriales y el sector público institucional, compuesto por organismos públicos, entidades de derecho público, entidades de derecho privado vinculadas o dependientes, universidades públicas y otros entes en los términos legales.
+La <mark>Ley 40/2015</mark> define el sector público de forma amplia. Incluye las Administraciones Públicas territoriales y el sector público institucional, compuesto por organismos públicos, entidades de derecho público, entidades de derecho privado vinculadas o dependientes, universidades públicas y otros entes en los términos legales.
 
 El sometimiento de la Administración al Derecho Administrativo no excluye que algunas entidades del sector público actúen en determinados ámbitos con sujeción al Derecho privado. Sin embargo, cuando ejercen potestades administrativas, gestionan fondos públicos, contratan, seleccionan personal o actúan sobre derechos de los ciudadanos, rigen principios públicos y controles específicos.
 
@@ -147,11 +147,11 @@ El sometimiento de la Administración al Derecho Administrativo no excluye que a
 
 ## Principios de actuación administrativa
 
-La Ley 40/2015 desarrolla los principios de actuación de las Administraciones Públicas. Entre ellos figuran eficacia, eficiencia, economía, planificación, dirección por objetivos, transparencia, participación, responsabilidad, buena fe, confianza legitima, proporcionalidad, simplicidad, claridad, servicio efectivo a la ciudadania y cooperación entre Administraciones.
+La <mark>Ley 40/2015</mark> desarrolla los principios de actuación de las Administraciones Públicas. Entre ellos figuran eficacia, eficiencia, economía, planificación, dirección por objetivos, transparencia, participación, responsabilidad, buena fe, confianza legitima, proporcionalidad, simplicidad, claridad, servicio efectivo a la ciudadania y cooperación entre Administraciones.
 
 La eficacia exige lograr los fines públicos. La eficiencia exige hacerlo con uso racional de los recursos. La jerarquía permite ordenar internamente los órganos. La descentralización desplaza competencias a entes con personalidad propia. La desconcentración distribuye competencias dentro de una misma Administración. La coordinación evita contradicciones entre órganos y Administraciones.
 
-El sometimiento pleno a la ley y al Derecho significa que toda actuación administrativa necesita cobertura jurídica y puede ser controlada. El artículo 106 de la Constitución encomienda a los tribunales el control de la potestad reglamentaria, la legalidad de la actuación administrativa y su sometimiento a los fines que la justifican.
+El sometimiento pleno a la ley y al Derecho significa que toda actuación administrativa necesita cobertura jurídica y puede ser controlada. El <mark>artículo 106</mark> de la Constitución encomienda a los tribunales el control de la potestad reglamentaria, la legalidad de la actuación administrativa y su sometimiento a los fines que la justifican.
 
 | Principio | Significado práctico |
 |---|---|
@@ -165,7 +165,7 @@ El sometimiento pleno a la ley y al Derecho significa que toda actuación admini
 
 ## Administración y ciudadania
 
-El modelo constitucional de Administración incorpora garantías para la ciudadania. El artículo 105 prevé audiencia de los ciudadanos en la elaboración de disposiciones administrativas, acceso a archivos y registros con límites, y regulación del procedimiento administrativo garantizando audiencia del interesado cuando proceda.
+El modelo constitucional de Administración incorpora garantías para la ciudadania. El <mark>artículo 105</mark> prevé audiencia de los ciudadanos en la elaboración de disposiciones administrativas, acceso a archivos y registros con límites, y regulación del procedimiento administrativo garantizando audiencia del interesado cuando proceda.
 
 La Administración debe actuar mediante procedimiento. El procedimiento no es una formalidad vacia: ordena la actuación administrativa, permite incorporar informes y pruebas, garantiza participación de los interesados, facilita control posterior y evita arbitrariedad.
 
@@ -178,4 +178,4 @@ En definitiva, el Gobierno dirige políticamente y ejerce la función ejecutiva;
 | Naturaleza | Órgano constitucional político. | Organización administrativa profesional. |
 | Función | Dirige política y ejerce función ejecutiva. | Sirve intereses generales y tramita/ejecuta. |
 | Control | Politico, parlamentario y judicial. | Legalidad, procedimiento, responsabilidad y jurisdicción. |
-| Clave para test | Artículo 97. | Artículos 103, 105 y 106. |
+| Clave para test | <mark>Artículo 97</mark>. | <mark>Artículos 103, 105 y 106</mark>. |

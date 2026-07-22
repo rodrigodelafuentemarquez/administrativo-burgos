@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El presupuesto local se regula en la Ley Reguladora de las Haciendas Locales, el Real Decreto 500/1990, la Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera, la normativa contable y las bases de ejecución del presupuesto municipal.
+El presupuesto local se regula en la Ley Reguladora de las Haciendas Locales, el <mark>Real Decreto 500/1990</mark>, la Ley Orgánica de Estabilidad Presupuestaria y Sostenibilidad Financiera, la normativa contable y las bases de ejecución del presupuesto municipal.
 
 ## Concepto
 
@@ -149,7 +149,7 @@ Si al inicio del ejercicio no existe presupuesto aprobado, se prorroga automáti
 | Trámite de aprobación del presupuesto local | Dato |
 | --- | --- |
 | Aprobación inicial | Pleno de la entidad local. |
-| Exposición pública | Quince días, previo anuncio en el boletín oficial correspondiente. |
+| Exposición pública | <mark>Quince días</mark>, previo anuncio en el boletín oficial correspondiente. |
 | Sin reclamaciones | El presupuesto se considera definitivamente aprobado. |
 | Con reclamaciones | Deben resolverse por el Pleno. |
 | Publicación final | Resumen por capítulos en el boletín oficial. |

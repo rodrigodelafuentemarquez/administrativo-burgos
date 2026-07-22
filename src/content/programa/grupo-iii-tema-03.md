@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El personal laboral se rige por el Estatuto de los Trabajadores, el EBEP, la legislación presupuestaria, convenios colectivos, contrato de trabajo y normativa de empleo público.
+El personal laboral se rige por el <mark>Estatuto de los Trabajadores</mark>, el EBEP, la legislación presupuestaria, convenios colectivos, contrato de trabajo y normativa de empleo público.
 
 ## Concepto
 
@@ -53,7 +53,7 @@ La Administración no puede contratar como una empresa privada ordinaria. Inclus
 | Contrato temporal | Exige causa legal y duración vinculada a esa causa. |
 | Contrato fijo-discontinuo | Atiende trabajos de naturaleza estacional o actividades intermitentes con periodos de ejecución ciertos o previsibles. |
 | Forma escrita | Es obligatoria en muchos contratos, especialmente temporales, formativos, a tiempo parcial o fijo-discontinuos. |
-| Periodo de prueba | Si el convenio no fija otra cosa, no puede exceder de seis meses para técnicos titulados ni de dos meses para los demás trabajadores. |
+| Periodo de prueba | Si el convenio no fija otra cosa, no puede exceder de <mark>seis meses</mark> para técnicos titulados ni de <mark>dos meses</mark> para los demás trabajadores. |
 
 <mark>Clave de examen:</mark> el contrato laboral no permite saltarse los principios constitucionales de acceso al empleo público. La Administración no elige libremente a quien contratar para puestos públicos estructurales.
 
@@ -62,7 +62,7 @@ La Administración no puede contratar como una empresa privada ordinaria. Inclus
 | Aspecto | Funcionario | Laboral |
 | --- | --- | --- |
 | Vinculo | Nombramiento administrativo. | Contrato de trabajo. |
-| Norma básica | EBEP y normativa funcionarial. | Estatuto de los Trabajadores, EBEP en lo aplicable y convenio. |
+| Norma básica | EBEP y normativa funcionarial. | <mark>Estatuto de los Trabajadores</mark>, EBEP en lo aplicable y convenio. |
 | Funciones reservadas | Puede ejercer potestades públicas y autoridad si el puesto lo exige. | No debe ocupar funciones reservadas a funcionarios. |
 | Conflictos | Jurisdicción contencioso-administrativa en muchas materias. | Jurisdicción social para materias laborales. |
 | Negociación | Mesas y acuerdos funcionariales. | Convenio colectivo y negociación laboral. |
@@ -92,7 +92,7 @@ En la práctica municipal, estos derechos se concretan en calendario laboral, pe
 
 Debe cumplir obligaciones del contrato y del puesto, actuar con diligencia, obedecer instrucciones legitimas, respetar normas de seguridad, cumplir jornada, guardar confidencialidad, atender correctamente a la ciudadania y observar el código de conducta del EBEP.
 
-El Estatuto de los Trabajadores resume deberes básicos como cumplir las obligaciones concretas del puesto conforme a buena fe y diligencia, observar medidas de prevención, cumplir órdenes e instrucciones empresariales en el ejercicio regular de dirección, no concurrir deslealmente, contribuir a la mejora de productividad y los pactados válidamente en el contrato.
+El <mark>Estatuto de los Trabajadores</mark> resume deberes básicos como cumplir las obligaciones concretas del puesto conforme a buena fe y diligencia, observar medidas de prevención, cumplir órdenes e instrucciones empresariales en el ejercicio regular de dirección, no concurrir deslealmente, contribuir a la mejora de productividad y los pactados válidamente en el contrato.
 
 El hecho de tener contrato laboral no elimina el deber de servicio al interés general. El personal laboral municipal participa en servicios públicos y debe actuar con profesionalidad, neutralidad e integridad.
 
@@ -132,7 +132,7 @@ Puntos de control antes de autorizar compatibilidad:
 
 ## Régimen disciplinario
 
-El personal laboral puede incurrir en responsabilidad disciplinaria conforme al EBEP, convenio colectivo y Estatuto de los Trabajadores. Las faltas pueden ser leves, graves o muy graves, y las sanciones incluyen apercibimiento, suspensión de empleo y sueldo, traslado o despido disciplinario.
+El personal laboral puede incurrir en responsabilidad disciplinaria conforme al EBEP, convenio colectivo y <mark>Estatuto de los Trabajadores</mark>. Las faltas pueden ser leves, graves o muy graves, y las sanciones incluyen apercibimiento, suspensión de empleo y sueldo, traslado o despido disciplinario.
 
 En el Ayuntamiento, la gestión del personal laboral exige expedientes de contratación, llamamientos, nóminas, permisos, control horario, prevención de riesgos, formación, incompatibilidades y disciplina.
 

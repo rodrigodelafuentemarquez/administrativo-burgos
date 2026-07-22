@@ -36,7 +36,7 @@ El documento administrativo no se define solo por su formato. Lo relevante es qu
 
 El expediente es el <mark>conjunto ordenado de documentos y actuaciones</mark> que sirven de antecedente y fundamento a una resolución administrativa, así como las diligencias encaminadas a ejecutarla.
 
-Según el artículo 70 de la Ley 39/2015, esta definición de expediente administrativo es muy literal y aparece mucho en test. El expediente no es solo una carpeta: incluye documentos, actuaciones, antecedentes, fundamentos y diligencias de ejecución.
+Según el <mark>artículo 70</mark> de la <mark>Ley 39/2015</mark>, esta definición de expediente administrativo es muy literal y aparece mucho en test. El expediente no es solo una carpeta: incluye documentos, actuaciones, antecedentes, fundamentos y diligencias de ejecución.
 
 Debe formarse de manera cronologica y coherente, incorporando solicitudes, informes, pruebas, propuestas, resoluciones, notificaciones y justificantes. Un expediente mal formado dificulta resolver, recurrir, fiscalizar y archivar.
 
@@ -67,7 +67,7 @@ El indice electrónico equivale a una garantía de integridad del expediente. Pe
 | Índice electrónico | Relaciona documentos y garantiza integridad del conjunto. |
 | Firma electrónica | Acredita autoría e integridad cuando procede. |
 | Metadatos | Describen documento, expediente, fechas, órgano, estado y acceso. |
-| CSV | Permite verificar copias o documentos en sede. |
+| <mark>CSV</mark> | Permite verificar copias o documentos en sede. |
 
 El Esquema Nacional de Interoperabilidad fija los criterios técnicos para que documentos y expedientes electrónicos puedan intercambiarse, conservarse y verificarse entre Administraciones. Por eso exige estructura, metadatos, firma, índice y formatos adecuados.
 

@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Los bienes locales se regulan por la Ley 7/1985, el Real Decreto Legislativo 781/1986, el Reglamento de Bienes de las Entidades Locales y, con carácter general, por la normativa de patrimonio de las Administraciones Públicas y legislación sectorial.
+Los bienes locales se regulan por la <mark>Ley 7/1985</mark>, el <mark>Real Decreto Legislativo 781/1986</mark>, el <mark>Reglamento de Bienes de las Entidades Locales</mark> y, con carácter general, por la normativa de patrimonio de las Administraciones Públicas y legislación sectorial.
 
 ## Concepto
 
@@ -20,9 +20,9 @@ El inventario de bienes es obligatorio y debe reflejar los bienes, derechos y ac
 
 ## Clases
 
-Los bienes locales se clasifican en bienes de dominio público y bienes patrimoniales. Los de dominio público están afectados a uso público o servicio público, o tienen tal carácter por ley. Los patrimoniales no están destinados directamente a uso o servicio público y pueden producir rendimientos.
+Los bienes locales se clasifican en <mark>bienes de dominio público y bienes patrimoniales</mark>. Los de dominio público están afectados a <mark>uso público o servicio público</mark>, o tienen tal carácter por ley. Los patrimoniales no están destinados directamente a uso o servicio público y pueden producir rendimientos.
 
-También pueden existir bienes comunales, cuyo aprovechamiento corresponde al común de vecinos. En muchos municipios tienen importancia histórica, agricola o forestal.
+También pueden existir <mark>bienes comunales</mark>, cuyo aprovechamiento corresponde al común de vecinos. En muchos municipios tienen importancia histórica, agricola o forestal.
 
 | Clase de bien | Destino | Régimen básico |
 | --- | --- | --- |
@@ -48,7 +48,7 @@ Son bienes de uso público local caminos, plazas, calles, paseos, parques, aguas
 
 Son bienes de servicio público los destinados directamente al cumplimiento de fines públicos locales: casas consistoriales, mercados, centros civicos, colegios públicos de titularidad municipal, instalaciones deportivas, cementerios, parques de bomberos o edificios administrativos.
 
-Los bienes de dominio público son inalienables, inembargables e imprescriptibles. No pueden venderse mientras conserven esa condición, no pueden ser embargados y no se adquieren por prescripción. Su utilización privativa o aprovechamiento especial requiere título habilitante: autorización, concesión u otro instrumento legal.
+Los bienes de dominio público son <mark>inalienables, inembargables e imprescriptibles</mark>. No pueden venderse mientras conserven esa condición, no pueden ser embargados y no se adquieren por prescripción. Su utilización privativa o aprovechamiento especial requiere título habilitante: autorización, concesión u otro instrumento legal.
 
 | Nota demanial | Consecuencia |
 | --- | --- |
@@ -68,7 +68,7 @@ Las entidades locales disponen de prerrogativas para defender sus bienes: invest
 | Recuperación de oficio | Recuperar posesión indebidamente perdida. |
 | Desahucio administrativo | Recuperar bienes ocupados por título extinguido o insuficiente. |
 
-La recuperación de oficio de bienes de dominio público puede ejercerse en cualquier momento. En bienes patrimoniales, la recuperación de oficio debe ejercitarse dentro del plazo de un año desde la usurpación; pasado ese plazo, la entidad local debe acudir a la jurisdicción ordinaria.
+La recuperación de oficio de bienes de dominio público puede ejercerse en cualquier momento. En bienes patrimoniales, la recuperación de oficio debe ejercitarse dentro del plazo de <mark>un año</mark> desde la usurpación; pasado ese plazo, la entidad local debe acudir a la jurisdicción ordinaria.
 
 ## Bienes patrimoniales
 
@@ -88,7 +88,7 @@ La permuta es posible cuando resulte conveniente para el interés público y se 
 
 Los bienes patrimoniales pueden cederse gratuitamente a otras Administraciones o entidades sin animo de lucro para fines de utilidad pública o interés social, cumpliendo requisitos legales. La cesión debe vincularse a un destino y puede revertir si no se cumple.
 
-La utilización de bienes de dominio público puede ser uso común general, uso común especial, uso privativo o uso normal/anormal según el bien. El uso común general corresponde a todos en condiciones de igualdad. El aprovechamiento especial o uso privativo requiere autorización o concesión y puede generar tasas.
+La utilización de bienes de dominio público puede ser <mark>uso común general, uso común especial, uso privativo o uso normal/anormal</mark> según el bien. El uso común general corresponde a todos en condiciones de igualdad. El aprovechamiento especial o uso privativo requiere autorización o concesión y puede generar tasas.
 
 En un Ayuntamiento, la gestión de bienes aparece en expedientes de terrazas, quioscos, ocupación de vía pública, cesión de locales, inventario, recuperación de oficio, deslindes, concesiones y patrimonio municipal del suelo.
 

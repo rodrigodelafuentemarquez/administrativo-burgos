@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema exige combinar normativa general de régimen local con normativa propia del Ayuntamiento de Burgos. La base estatal se encuentra en la Ley 7/1985, reguladora de las Bases del Régimen Local, especialmente en el régimen de municipios de gran población. También resulta relevante el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales, en lo que no se oponga al régimen específico aplicable.
+Este tema exige combinar normativa general de régimen local con normativa propia del Ayuntamiento de Burgos. La base estatal se encuentra en la <mark>Ley 7/1985</mark>, reguladora de las Bases del Régimen Local, especialmente en el régimen de municipios de gran población. También resulta relevante el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark>, en lo que no se oponga al régimen específico aplicable.
 
 La fuente municipal principal es el Reglamento Organico y de Funcionamiento del Ayuntamiento de Burgos. La propia web municipal lo presenta como la norma que regula el gobierno y la administración del Ayuntamiento de Burgos, adaptando la legislación estatal y autonómica de régimen local a la organización municipal. La normativa municipal también incluye el Reglamento del Órgano de Gestión Tributaria y de Tesorería, el Reglamento del Tribunal Económico-Administrativo Municipal y otros reglamentos orgánicos.
 
@@ -20,7 +20,7 @@ El Ayuntamiento de Burgos es la institución de gobierno y administración del m
 
 Burgos, por su población y carácter urbano, se integra en el régimen de municipios de gran población previsto en la Ley de Bases del Régimen Local. Este régimen introduce una organización municipal más compleja que la de los municipios de régimen común. Refuerza el papel de la Junta de Gobierno Local, diferencia con más claridad la función deliberante y de control del Pleno respecto de la función ejecutiva, y permite una estructura administrativa con órganos directivos.
 
-La organización municipal tiene dos dimensiones. La organización política está formada por órganos representativos y de gobierno: Pleno, Alcaldía, Tenientes de Alcalde y Junta de Gobierno Local. La organización administrativa está integrada por órganos directivos, unidades administrativas y órganos especializados que gestionan servicios municipales, expedientes, recursos humanos, presupuesto, tributos, intervención, asesoramiento jurídico, registro, archivo y atención ciudadana.
+La organización municipal tiene dos dimensiones. La <mark>organización política</mark> está formada por órganos representativos y de gobierno: <mark>Pleno, Alcaldía, Tenientes de Alcalde y Junta de Gobierno Local</mark>. La <mark>organización administrativa</mark> está integrada por órganos directivos, unidades administrativas y órganos especializados que gestionan servicios municipales, expedientes, recursos humanos, presupuesto, tributos, intervención, asesoramiento jurídico, registro, archivo y atención ciudadana.
 
 | Plano organizativo | Contenido principal |
 |---|---|
@@ -44,15 +44,15 @@ Para fijar bien el tema conviene partir de un esquema muy simple:
 
 ## El Pleno
 
-El Pleno es el órgano de máxima representación política de la ciudad. Esta integrado por el Alcalde y los Concejales. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto. El Alcalde preside el Pleno, salvo en aquellos supuestos en que el Reglamento Organico prevea fórmulas de delegación o funcionamiento específico conforme al régimen de municipios de gran población.
+El Pleno es el <mark>órgano de máxima representación política</mark> de la ciudad. Esta integrado por el <mark>Alcalde y los Concejales</mark>. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto. El Alcalde preside el Pleno, salvo en aquellos supuestos en que el Reglamento Organico prevea fórmulas de delegación o funcionamiento específico conforme al régimen de municipios de gran población.
 
-En los municipios de gran población, el Pleno se configura como órgano de debate de las grandes decisiones municipales, de aprobación normativa, de control y fiscalización de los órganos de gobierno y de adopción de acuerdos institucionales relevantes.
+En los municipios de gran población, el Pleno se configura como órgano de debate de las grandes decisiones municipales, de aprobación normativa, de <mark>control y fiscalización</mark> de los órganos de gobierno y de adopción de acuerdos institucionales relevantes.
 
-Entre sus atribuciones se encuentran el control y fiscalización de los órganos de gobierno, la votación de la moción de censura y la cuestión de confianza, la aprobación y modificación de reglamentos orgánicos, ordenanzas y reglamentos municipales, la aprobación de presupuestos, la determinación de recursos propios de carácter tributario, la aprobación de planes urbanísticos en los términos previstos por la legislación, la aceptación de delegaciones de competencias de otras Administraciones y otros acuerdos que la ley reserve expresamente al Pleno.
+Entre sus atribuciones se encuentran el control y fiscalización de los órganos de gobierno, la votación de la moción de censura y la cuestión de confianza, la <mark>aprobación y modificación de reglamentos orgánicos, ordenanzas y reglamentos municipales</mark>, la aprobación de presupuestos, la determinación de recursos propios de carácter tributario, la aprobación de planes urbanísticos en los términos previstos por la legislación, la aceptación de delegaciones de competencias de otras Administraciones y otros acuerdos que la ley reserve expresamente al Pleno.
 
 El Pleno funciona mediante sesiones ordinarias, extraordinarias y extraordinarias urgentes. La convocatoria debe incluir orden del día. Los asuntos no incluidos no pueden ser tratados salvo que proceda legalmente y se aprecie urgencia con los requisitos exigidos. El funcionamiento plenario se apoya en comisiones, grupos municipales, portavoces, secretaria y documentación preparatoria.
 
-En el Reglamento Organico y de Funcionamiento del Ayuntamiento de Burgos, las sesiones ordinarias del Pleno se celebran una vez al mes. La fecha y hora se determinan en sesión extraordinaria convocada dentro de los treinta días siguientes a la sesión constitutiva de la Corporación. Además, la Junta de Portavoces, por mayoría cualificada y siempre que existan causas justificadas, puede modificar la fecha de celebración de las sesiones ordinarias.
+En el Reglamento Organico y de Funcionamiento del Ayuntamiento de Burgos, las sesiones ordinarias del Pleno se celebran una vez al mes. La fecha y hora se determinan en sesión extraordinaria convocada dentro de los <mark>treinta días</mark> siguientes a la sesión constitutiva de la Corporación. Además, la Junta de Portavoces, por <mark>mayoría cualificada</mark> y siempre que existan causas justificadas, puede modificar la fecha de celebración de las sesiones ordinarias.
 
 El Pleno no es el órgano que resuelve todos los expedientes municipales. En municipios de gran población muchas competencias ejecutivas corresponden a la Junta de Gobierno Local, al Alcalde, a Concejales delegados u órganos directivos. Por eso es importante distinguir entre función normativa y de control, más propia del Pleno, y función ejecutiva, más vinculada a Alcaldía, Junta de Gobierno y estructura administrativa.
 
@@ -83,7 +83,7 @@ Esta figura importa porque evita que el cambio de grupo altere de forma artifici
 
 El Alcalde es el Presidente de la Corporación y ostenta la máxima representación del municipio. Dirige el gobierno y la administración municipal, sin perjuicio de las competencias del Pleno y de la Junta de Gobierno Local.
 
-En el sistema municipal español, el Alcalde es elegido conforme a la legislación electoral. Con carácter general, pueden ser candidatos todos los Concejales que encabecen sus correspondientes listas. Si alguno obtiene mayoría absoluta de los votos de los Concejales, es proclamado electo. Si ninguno obtiene esa mayoría, es proclamado Alcalde el Concejal que encabece la lista más votada.
+En el sistema municipal español, el Alcalde es elegido conforme a la legislación electoral. Con carácter general, pueden ser candidatos todos los Concejales que encabecen sus correspondientes listas. Si alguno obtiene <mark>mayoría absoluta</mark> de los votos de los Concejales, es proclamado electo. Si ninguno obtiene esa mayoría, es proclamado Alcalde el Concejal que encabece la lista más votada.
 
 El Alcalde representa al Ayuntamiento, dirige la política municipal, convoca y preside sesiones de órganos municipales cuando proceda, dicta bandos, decretos e instrucciones, adopta medidas urgentes en caso de catastrofe o riesgo grave, ejerce la jefatura superior del personal, dirige la policía municipal en los términos legales, impulsa servicios y obras, y ejerce las demás atribuciones que le reconozcan la ley y el Reglamento Organico.
 
@@ -110,7 +110,7 @@ Los actos del Alcalde suelen adoptar la forma de decreto o resolución. En la tr
 
 ## Los Tenientes de Alcalde
 
-Los Tenientes de Alcalde son nombrados por el Alcalde entre los miembros de la Junta de Gobierno Local. Su función esencial es sustituir al Alcalde, por el orden de nombramiento, en los casos de vacante, ausencia, enfermedad o impedimento.
+Los Tenientes de Alcalde son <mark>nombrados por el Alcalde entre los miembros de la Junta de Gobierno Local</mark>. Su función esencial es sustituir al Alcalde, por el orden de nombramiento, en los casos de vacante, ausencia, enfermedad o impedimento.
 
 Además de esa función de sustitución, pueden asumir delegaciones de Alcaldía. En la práctica municipal, los Tenientes de Alcalde suelen coordinar areas de gobierno o responsabilidades políticas relevantes. No obstante, su posición jurídica debe distinguirse de la de los Concejales delegados y de los órganos directivos administrativos.
 
@@ -166,7 +166,7 @@ La estructura administrativa no es estatica. Puede modificarse por acuerdos y re
 
 La Secretaría municipal es una función pública necesaria en todas las entidades locales. En municipios de gran población se distingue especialmente la Secretaría General del Pleno, responsable del apoyo jurídico, fe pública y asistencia al Pleno y sus comisiones, sin perjuicio de otros órganos de apoyo a la Junta de Gobierno Local.
 
-La función de secretaria comprende fe pública y asesoramiento legal preceptivo. La fe pública implica preparar y custodiar actas, certificar acuerdos, asistir a sesiones, garantizar la regularidad formal de convocatorias y acuerdos, y dar autenticidad a determinados actos municipales.
+La función de secretaria comprende <mark>fe pública y asesoramiento legal preceptivo</mark>. La fe pública implica preparar y custodiar actas, certificar acuerdos, asistir a sesiones, garantizar la regularidad formal de convocatorias y acuerdos, y dar autenticidad a determinados actos municipales.
 
 El asesoramiento legal preceptivo consiste en emitir informes jurídicos cuando la normativa lo exige, advertir de posibles ilegalidades y asistir jurídicamente a los órganos municipales. Esta función es esencial para que los acuerdos del Pleno y otros órganos se adopten con respeto al ordenamiento jurídico.
 
@@ -185,7 +185,7 @@ El Reglamento Organico municipal identifica la Secretaría Municipal como unidad
 
 La Intervención General municipal ejerce el control interno de la gestión económico-financiera y presupuestaria. Es una función pública necesaria reservada a funcionarios de Administración Local con habilitación de carácter nacional.
 
-Su función principal es controlar que los actos con contenido económico se ajusten a la legalidad presupuestaria y financiera. Este control se ejerce mediante función interventora y control financiero, en los términos previstos por la Ley de Haciendas Locales, el Real Decreto 424/2017 sobre control interno de las entidades del sector público local y la normativa aplicable.
+Su función principal es controlar que los actos con contenido económico se ajusten a la legalidad presupuestaria y financiera. Este control se ejerce mediante <mark>función interventora y control financiero</mark>, en los términos previstos por la <mark>Ley de Haciendas Locales</mark>, el <mark>Real Decreto 424/2017</mark> sobre control interno de las entidades del sector público local y la normativa aplicable.
 
 La función interventora fiscaliza actos que dan lugar al reconocimiento de derechos u obligaciones de contenido económico, ingresos y pagos, recaudación, inversión y aplicación de fondos públicos. Puede formular reparos cuando aprecie infracciones o insuficiencia de crédito.
 

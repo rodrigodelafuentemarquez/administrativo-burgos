@@ -8,15 +8,15 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La norma central es la Ley 40/2015, de Régimen Jurídico del Sector Público. También deben manejarse la Constitución, la Ley 39/2015 y, para entidades locales, la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
+La norma central es la <mark>Ley 40/2015</mark>, de Régimen Jurídico del Sector Público. También deben manejarse la Constitución, la <mark>Ley 39/2015</mark> y, para entidades locales, la <mark>Ley 7/1985</mark> y el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark>.
 
 ## Sector público y Administraciones Públicas
 
-La Ley 40/2015 regula el sector público en sentido amplio. Incluye la Administración General del Estado, las Administraciones de las comunidades autónomas, las entidades que integran la Administración Local y el sector público institucional.
+La <mark>Ley 40/2015</mark> regula el sector público en sentido amplio. Incluye la Administración General del Estado, las Administraciones de las comunidades autónomas, las entidades que integran la Administración Local y el sector público institucional.
 
 No todo el sector público actúa siempre con el mismo régimen jurídico. Las Administraciones Públicas territoriales actuan normalmente con sujeción al Derecho Administrativo. Algunas entidades instrumentales pueden actuar en parte con Derecho privado, pero quedan sometidas a principios públicos cuando ejercen potestades administrativas, gestionan fondos públicos, contratan, seleccionan personal o prestan servicios de interés general.
 
-El Título preliminar de la Ley 40/2015 regula las disposiciones generales, principios de actuación y funcionamiento del sector público. Dentro de el, el Capítulo II se dedica a los órganos de las Administraciones Públicas.
+El Título preliminar de la <mark>Ley 40/2015</mark> regula las disposiciones generales, principios de actuación y funcionamiento del sector público. Dentro de el, el Capítulo II se dedica a los órganos de las Administraciones Públicas.
 
 ## Principios de actuación y funcionamiento
 
@@ -51,7 +51,7 @@ Los órganos colegiados se rigen por reglas de convocatoria, constitución, deli
 
 Para constituirse validamente se exige presencia de Presidente y Secretario, o quienes les sustituyan, y quorum de miembros. Las reglas concretas dependen de la normativa aplicable. En órganos locales hay especialidades por la Ley de Bases y el ROF.
 
-En el régimen general de la Ley 40/2015, salvo previsión específica, para la válida constitución del órgano colegiado se requiere la asistencia, presencial o a distancia, del Presidente y Secretario o quienes les sustituyan, y la de la mitad al menos de sus miembros. Salvo urgencia, la convocatoria debe remitirse con una antelación mínima de dos días.
+En el régimen general de la <mark>Ley 40/2015</mark>, salvo previsión específica, para la válida constitución del órgano colegiado se requiere la asistencia, presencial o a distancia, del Presidente y Secretario o quienes les sustituyan, y la de la mitad al menos de sus miembros. Salvo urgencia, la convocatoria debe remitirse con una antelación mínima de <mark>dos días</mark>.
 
 Las actas documentan asistentes, orden del día, circunstancias de lugar y tiempo, deliberaciones esenciales si proceden, acuerdos adoptados y resultado de votaciones. El acta es fundamental para acreditar la voluntad del órgano.
 
@@ -89,7 +89,7 @@ No debe confundirse con descentralización, que transfiere competencias a otra e
 
 ## Delegación
 
-La delegación permite que un órgano encomiende el ejercicio de competencias a otro órgano de la misma Administración o de entidades dependientes, aunque no sean jerarquicamente dependientes, en los términos de la Ley 40/2015.
+La delegación permite que un órgano encomiende el ejercicio de competencias a otro órgano de la misma Administración o de entidades dependientes, aunque no sean jerarquicamente dependientes, en los términos de la <mark>Ley 40/2015</mark>.
 
 No pueden delegarse competencias relativas a asuntos que se refieran a relaciones con Jefatura del Estado, Presidencia del Gobierno, Cortes, presidencias de comunidades autónomas y asambleas legislativas; adopción de disposiciones generales; resolución de recursos en órganos que dictaron actos; ni materias prohibidas por norma.
 
@@ -131,12 +131,12 @@ Las Administraciones deben relacionarse conforme a los principios de lealtad ins
 
 Las conferencias sectoriales son órganos de cooperación multilateral entre la Administración General del Estado y las Administraciones autonómicas. Los planes y programas conjuntos son instrumentos para coordinar actuaciones cuando varias Administraciones comparten objetivos o competencias relacionadas.
 
-Los convenios administrativos son acuerdos con efectos jurídicos entre Administraciones, organismos públicos o sujetos de Derecho público y privado para un fin común. Su duración ordinaria no puede superar cuatro años, salvo que una norma prevea plazo superior. Antes de finalizar ese plazo, los firmantes pueden acordar una prórroga de hasta cuatro años adicionales o su extinción.
+Los convenios administrativos son acuerdos con efectos jurídicos entre Administraciones, organismos públicos o sujetos de Derecho público y privado para un fin común. Su duración ordinaria no puede superar <mark>cuatro años</mark>, salvo que una norma prevea plazo superior. Antes de finalizar ese plazo, los firmantes pueden acordar una prórroga de hasta <mark>cuatro años adicionales</mark> o su extinción.
 
 | Figura | Dato de examen |
 |---|---|
 | Conferencia sectorial | Órgano de cooperación entre Administraciones. |
-| Convenio | Duración máxima ordinaria de cuatro años. |
+| Convenio | Duración máxima ordinaria de <mark>cuatro años</mark>. |
 | Extinción de convenio | Cumplimiento, transcurso del plazo, acuerdo unánime, incumplimiento, decisión judicial u otras causas previstas. |
 | Conflicto Estado-CC.AA. | Puede plantearse ante el Tribunal Constitucional. |
-| Subrogación estatal por incumplimiento local | Artículo 60 LBRL en los supuestos legalmente previstos. |
+| Subrogación estatal por incumplimiento local | <mark>Artículo 60</mark> LBRL en los supuestos legalmente previstos. |

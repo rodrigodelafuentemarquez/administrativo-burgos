@@ -8,11 +8,11 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El derecho de sindicación se regula por la Constitución y la Ley Orgánica de Libertad Sindical. El derecho de huelga se reconoce en el artículo 28.2 de la Constitución y se regula por normativa específica y jurisprudencia constitucional. Las incompatibilidades se rigen por la Ley 53/1984 y normativa de desarrollo.
+El derecho de sindicación se regula por la Constitución y la <mark>Ley Orgánica de Libertad Sindical</mark>. El derecho de huelga se reconoce en el <mark>artículo 28.2</mark> de la Constitución y se regula por normativa específica y jurisprudencia constitucional. Las incompatibilidades se rigen por la <mark>Ley 53/1984</mark> y normativa de desarrollo.
 
 ## Derecho de sindicación
 
-La Constitución reconoce el derecho a sindicarse libremente. Comprende fundar sindicatos, afiliarse al de elección, no afiliarse, participar en actividad sindical y ejercer acción sindical. La libertad sindical protege a trabajadores y empleados públicos, con peculiaridades para determinados colectivos.
+La Constitución reconoce el derecho a sindicarse libremente. Comprende <mark>fundar sindicatos, afiliarse al de elección, no afiliarse, participar en actividad sindical y ejercer acción sindical</mark>. La libertad sindical protege a trabajadores y empleados públicos, con peculiaridades para determinados colectivos.
 
 En la Administración, la libertad sindical se articula mediante secciones sindicales, delegados sindicales, juntas de personal, comités de empresa, mesas de negociación y derechos de información, consulta y participación.
 
@@ -57,7 +57,7 @@ Los derechos colectivos que el EBEP enumera para los empleados públicos incluye
 
 ## Derecho de huelga
 
-El derecho de huelga permite cesar colectivamente en el trabajo para defender intereses laborales o profesionales. En servicios públicos tiene límites derivados del mantenimiento de servicios esenciales para la comunidad.
+El derecho de huelga permite <mark>cesar colectivamente en el trabajo</mark> para defender intereses laborales o profesionales. En servicios públicos tiene límites derivados del <mark>mantenimiento de servicios esenciales para la comunidad</mark>.
 
 Cuando una huelga afecta a servicios esenciales, la autoridad competente puede fijar servicios mínimos. Deben ser proporcionados, motivados y orientados a garantizar derechos fundamentales o bienes constitucionales, no a vaciar el derecho de huelga.
 
@@ -81,7 +81,7 @@ El ejercicio de la huelga suspende la obligación de trabajar y el derecho al sa
 
 El régimen de incompatibilidades busca garantizar imparcialidad, independencia, dedicación y ausencia de conflictos de intereses. Se aplica al personal al servicio de Administraciones Públicas, organismos, entidades y empresas públicas en los términos legales.
 
-La regla general es que no se puede compatibilizar un puesto público con otro puesto, cargo o actividad pública, salvo supuestos excepcionales autorizados. Tampoco se pueden ejercer actividades privadas que se relacionen directamente con asuntos tramitados, comprometan imparcialidad, coincidan con jornada o perjudiquen el cumplimiento de deberes.
+La regla general es que <mark>no se puede compatibilizar un puesto público con otro puesto, cargo o actividad pública</mark>, salvo supuestos excepcionales autorizados. Tampoco se pueden ejercer actividades privadas que se relacionen directamente con asuntos tramitados, comprometan imparcialidad, coincidan con jornada o perjudiquen el cumplimiento de deberes.
 
 | Principio | Consecuencia |
 | --- | --- |

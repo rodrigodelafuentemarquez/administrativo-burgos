@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La administración electrónica se regula por la Ley 39/2015, la Ley 40/2015, el Real Decreto 203/2021, el Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y normativa de identificación, firma y archivo electrónico.
+La administración electrónica se regula por la <mark>Ley 39/2015</mark>, la <mark>Ley 40/2015</mark>, el <mark>Real Decreto 203/2021</mark>, el Esquema Nacional de Seguridad, el Esquema Nacional de Interoperabilidad y normativa de identificación, firma y archivo electrónico.
 
 ## Nuevas tecnologías en la gestión pública
 
@@ -31,7 +31,7 @@ La transformación digital de la Administración tiene una consecuencia muy impo
 
 La Administración electrónica es el uso de medios electrónicos en relaciones internas y externas de las Administraciones. Incluye <mark>sede electrónica, registro electrónico, notificación electrónica, expediente electrónico, archivo electrónico, firma electrónica, intercambio de datos y actuación administrativa automatizada</mark>.
 
-La Ley 39/2015 parte de una idea básica: la tramitación electrónica debe ser el funcionamiento ordinario de las Administraciones. Esto afecta tanto a relaciones con ciudadanos como a relaciones internas. Los expedientes deben impulsarse electronicamente, los documentos deben incorporarse en formato electrónico, las comunicaciones entre Administraciones deben realizarse por medios electrónicos y las copias deben emitirse con garantías de autenticidad.
+La <mark>Ley 39/2015</mark> parte de una idea básica: la tramitación electrónica debe ser el funcionamiento ordinario de las Administraciones. Esto afecta tanto a relaciones con ciudadanos como a relaciones internas. Los expedientes deben impulsarse electronicamente, los documentos deben incorporarse en formato electrónico, las comunicaciones entre Administraciones deben realizarse por medios electrónicos y las copias deben emitirse con garantías de autenticidad.
 
 ## Derechos y obligaciones
 
@@ -50,13 +50,13 @@ Los interesados tienen derecho a <mark>no aportar documentos ya presentados o el
 
 El derecho a no aportar documentos ya obrantes en la Administración es especialmente importante en atención ciudadana. No debe pedirse al ciudadano un certificado que la Administración pueda consultar, salvo que exista oposición justificada, imposibilidad técnica o una norma exija aportación.
 
-La identificación y firma electrónica no son exactamente lo mismo. <mark>Identificarse permite saber quién accede o actúa; firmar expresa voluntad y vincula un documento o solicitud</mark>. Pueden utilizarse certificados electrónicos, DNI electrónico, sistemas Cl@ve, sellos electrónicos, códigos seguros de verificación y otros sistemas admitidos.
+La identificación y firma electrónica no son exactamente lo mismo. <mark>Identificarse permite saber quién accede o actúa; firmar expresa voluntad y vincula un documento o solicitud</mark>. Pueden utilizarse certificados electrónicos, <mark>DNI electrónico</mark>, sistemas <mark>Cl@ve</mark>, sellos electrónicos, códigos seguros de verificación y otros sistemas admitidos.
 
 | Sistema | Utilidad |
 | --- | --- |
 | Certificado electrónico | Identificación y firma de persona física, jurídica o empleado público. |
-| DNI electrónico | Identificación y firma con certificado incorporado. |
-| Cl@ve | Identificación para trámites admitidos. |
+| <mark>DNI electrónico</mark> | Identificación y firma con certificado incorporado. |
+| <mark>Cl@ve</mark> | Identificación para trámites admitidos. |
 | Sello electrónico | Actuaciones automatizadas de Administración u órgano. |
 | Código seguro de verificación | Comprobación de autenticidad de documentos. |
 
@@ -73,15 +73,15 @@ En notificaciones electrónicas, el <mark>aviso al correo o teléfono no sustitu
 | Elemento electrónico | Dato de examen |
 | --- | --- |
 | Sede electrónica | Dirección electrónica disponible por redes, titularidad de una Administración u organismo público. |
-| Registro electrónico | Disponible 24 horas, todos los días del año. |
+| Registro electrónico | Disponible <mark>24 horas</mark>, todos los días del año. |
 | Día inhábil en registro electrónico | La presentación se entiende realizada a primera hora del primer día hábil siguiente. |
 | Notificación electrónica | Preferente y obligatoria para quienes deben relacionarse electrónicamente. |
-| Rechazo por no acceso | Transcurridos diez días naturales desde la puesta a disposición sin acceder. |
+| Rechazo por no acceso | Transcurridos <mark>diez días naturales</mark> desde la puesta a disposición sin acceder. |
 | Aviso de notificación | No sustituye a la notificación. |
 
 ## Funcionamiento electrónico del sector público
 
-La Ley 40/2015 regula relaciones electronicas entre Administraciones, archivo electrónico, intercambio de información, identificación de sedes, portales, sistemas de firma y actuación automatizada.
+La <mark>Ley 40/2015</mark> regula relaciones electronicas entre Administraciones, archivo electrónico, intercambio de información, identificación de sedes, portales, sistemas de firma y actuación automatizada.
 
 La <mark>interoperabilidad</mark> permite que sistemas distintos se comuniquen. La <mark>seguridad</mark> protege confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad.
 

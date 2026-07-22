@@ -94,7 +94,7 @@ También conviene aplicar una regla sencilla: **una idea por asunto y un asunto 
 
 <mark>Internet es una red mundial de redes</mark> que permite intercambio de información mediante protocolos. Sus servicios incluyen web, correo, transferencia de archivos, mensajeria, videoconferencia, servicios en nube, administración electrónica y acceso a bases de datos.
 
-La web utiliza navegadores y direcciones URL. HTTPS indica conexion cifrada entre navegador y servidor. Los buscadores localizan información, pero no garantizan oficialidad. En oposición y trabajo administrativo deben priorizarse fuentes oficiales como BOE, BOCYL, BOP, sede municipal y portales institucionales.
+La web utiliza navegadores y direcciones URL. HTTPS indica conexion cifrada entre navegador y servidor. Los buscadores localizan información, pero no garantizan oficialidad. En oposición y trabajo administrativo deben priorizarse fuentes oficiales como <mark>BOE</mark>, <mark>BOCYL</mark>, <mark>BOP</mark>, sede municipal y portales institucionales.
 
 ## Conceptos elementales
 
@@ -116,7 +116,7 @@ Las cookies almacenan información de navegación. La cache guarda recursos para
 | Internet | Dato corto |
 | --- | --- |
 | ARPANET | Origen histórico de Internet. |
-| Primera conexión ARPANET | 29 de octubre de 1969. |
+| Primera conexión ARPANET | <mark>29 de octubre de 1969</mark>. |
 | TCP/IP como estándar en ARPANET | 1983. |
 | World Wide Web | Ideada por Tim Berners-Lee. |
 | IPv4 | Direcciones de 32 bits. |
@@ -137,7 +137,7 @@ En la Administración, Internet permite registro electrónico, consulta de exped
 | Servicio | Uso administrativo |
 | --- | --- |
 | Sede electrónica | Tramites, registro y notificaciones. |
-| BOE/BOP/BOCYL | Consulta normativa y publicaciones oficiales. |
+| <mark>BOE</mark>/<mark>BOP</mark>/<mark>BOCYL</mark> | Consulta normativa y publicaciones oficiales. |
 | Plataforma de contratación | Licitaciones y perfil del contratante. |
 | Pasarela de pagos | Pago de tributos, tasas o precios públicos. |
 | Carpeta ciudadana | Consulta de expedientes y datos. |
@@ -148,7 +148,7 @@ En la Administración, Internet permite registro electrónico, consulta de exped
 
 La navegación segura exige comprobar <mark>URL, certificado, dominio oficial, privacidad, permisos, descargas y credenciales</mark>. No se deben introducir claves en paginas dudosas ni descargar software no autorizado. La información administrativa debe tratarse en sistemas corporativos, no en servicios personales.
 
-Un criterio práctico para fuentes oficiales: si se estudia una ley, debe consultarse en BOE o boletín oficial correspondiente; si se realiza un trámite municipal, debe usarse sede o web municipal; si se descarga un modelo, debe verificarse que pertenece al organismo competente y que está actualizado.
+Un criterio práctico para fuentes oficiales: si se estudia una ley, debe consultarse en <mark>BOE</mark> o boletín oficial correspondiente; si se realiza un trámite municipal, debe usarse sede o web municipal; si se descarga un modelo, debe verificarse que pertenece al organismo competente y que está actualizado.
 
 Senales de alerta:
 

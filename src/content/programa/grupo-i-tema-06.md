@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-Este tema se apoya en la Constitución Española, la Ley 7/1985 reguladora de las Bases del Régimen Local, el Reglamento de Población y Demarcación Territorial de las Entidades Locales, aprobado por Real Decreto 1690/1986, y la normativa e instrucciones técnicas sobre padrón municipal.
+Este tema se apoya en la <mark>Constitución Española</mark>, la <mark>Ley 7/1985</mark> reguladora de las Bases del Régimen Local, el Reglamento de Población y Demarcación Territorial de las Entidades Locales, aprobado por <mark>Real Decreto 1690/1986</mark>, y la normativa e instrucciones técnicas sobre padrón municipal.
 
 El municipio es la entidad local básica del sistema territorial. Para una oposición al Ayuntamiento de Burgos, este tema tiene importancia directa porque conecta con padrón, vecindad administrativa, término municipal, organización municipal y prestación de servicios.
 
@@ -18,7 +18,7 @@ La Ley de Bases del Régimen Local define el municipio como la entidad local bá
 
 El municipio es una Administración Pública territorial. Esto significa que su poder de actuación se vincula a un territorio y a una población. No es una simple oficina administrativa del Estado ni de la comunidad autónoma. Tiene autonomía constitucionalmente garantizada para la gestión de sus intereses.
 
-El artículo 140 de la Constitución garantiza la autonomía de los municipios. Su gobierno y administración corresponde a los Ayuntamientos, integrados por Alcaldes y Concejales. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto, y los Alcaldes son elegidos por los Concejales o por los vecinos en los términos legalmente establecidos.
+El <mark>artículo 140</mark> de la Constitución garantiza la autonomía de los municipios. Su gobierno y administración corresponde a los Ayuntamientos, integrados por Alcaldes y Concejales. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto, y los Alcaldes son elegidos por los Concejales o por los vecinos en los términos legalmente establecidos.
 
 La autonomía municipal se traduce en capacidad para aprobar ordenanzas y reglamentos, gestionar servicios públicos, administrar bienes, aprobar presupuestos, ejercer competencias, recaudar tributos propios dentro del marco legal y defender sus intereses ante los tribunales.
 
@@ -26,7 +26,7 @@ La autonomía municipal se traduce en capacidad para aprobar ordenanzas y reglam
 |---|---|
 | Municipio | Entidad local básica de la organización territorial del Estado. |
 | Naturaleza | Administración Pública territorial con personalidad jurídica plena. |
-| Base constitucional | Artículo 140 de la Constitución. |
+| Base constitucional | <mark>Artículo 140</mark> de la Constitución. |
 | Gobierno municipal | Ayuntamiento, integrado por Alcalde y Concejales. |
 | Autonomía | Gestión de intereses propios dentro de la ley. |
 
@@ -54,7 +54,7 @@ Estas alteraciones no pueden acordarse de forma arbitraria. Deben ajustarse a la
 
 La creación de nuevos municipios exige que existan motivos de interés público, núcleos de población territorialmente diferenciados y recursos suficientes para prestar los servicios municipales obligatorios. La normativa busca evitar la fragmentación municipal inviable.
 
-La alteración de límites provinciales tiene especial relevancia constitucional, porque el artículo 141 exige que cualquier alteración de los límites provinciales sea aprobada por las Cortes Generales mediante ley orgánica.
+La alteración de límites provinciales tiene especial relevancia constitucional, porque el <mark>artículo 141</mark> exige que cualquier alteración de los límites provinciales sea aprobada por las Cortes Generales mediante ley orgánica.
 
 | Alteración del término | Ejemplo |
 |---|---|
@@ -109,7 +109,7 @@ Los Ayuntamientos deben remitir al Instituto Nacional de Estadistica las variaci
 
 El Consejo de Empadronamiento es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales en materia padronal. Informa las discrepancias entre Administraciones, colabora en la coordinación del padrón y participa en cuestiones técnicas relevantes para asegurar que las cifras oficiales reflejen la residencia real.
 
-En el caso de extranjeros no comunitarios sin autorización de residencia de larga duración, la normativa prevé renovación periódica de la inscripción padronal cada dos años. La falta de renovación puede dar lugar a la caducidad de la inscripción, que debe tramitarse con las garantías procedentes. Esta regla suele aparecer vinculada a la sigla ENCSARP: extranjeros no comunitarios sin autorización de residencia permanente o de larga duración.
+En el caso de extranjeros no comunitarios sin autorización de residencia de larga duración, la normativa prevé renovación periódica de la inscripción padronal cada <mark>dos años</mark>. La falta de renovación puede dar lugar a la caducidad de la inscripción, que debe tramitarse con las garantías procedentes. Esta regla suele aparecer vinculada a la sigla ENCSARP: extranjeros no comunitarios sin autorización de residencia permanente o de larga duración.
 
 | Actuación padronal | Contenido |
 |---|---|
@@ -118,7 +118,7 @@ En el caso de extranjeros no comunitarios sin autorización de residencia de lar
 | Modificación | Cambio de domicilio o de datos personales. |
 | Coordinación con INE | Evita duplicidades y fija cifra oficial de población. |
 | Consejo de Empadronamiento | Colabora e informa en coordinación padronal. |
-| Renovación ENCSARP | Renovación cada dos años para evitar caducidad. |
+| Renovación ENCSARP | Renovación cada <mark>dos años</mark> para evitar caducidad. |
 
 ## Derechos y deberes de los vecinos
 
@@ -154,7 +154,7 @@ El certificado o volante de empadronamiento se utiliza habitualmente para acredi
 
 ## Padron y protección de datos
 
-El padrón contiene datos personales y, por tanto, su tratamiento debe ajustarse al Reglamento General de Protección de Datos, a la Ley Orgánica 3/2018 y a la normativa local aplicable.
+El padrón contiene datos personales y, por tanto, su tratamiento debe ajustarse al Reglamento General de Protección de Datos, a la <mark>Ley Orgánica 3/2018</mark> y a la normativa local aplicable.
 
 Los datos padronales solo pueden utilizarse para fines administrativos compatibles con su naturaleza. La cesión de datos a otras Administraciones debe estar justificada por el ejercicio de competencias y respetar los principios de minimización, finalidad y legitimación.
 

@@ -8,13 +8,13 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La norma central es el Real Decreto Legislativo 8/2015, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social. Debe completarse con normativa de cotización, recaudación, prestaciones y regimenes especiales.
+La norma central es el <mark>Real Decreto Legislativo 8/2015</mark>, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social. Debe completarse con normativa de cotización, recaudación, prestaciones y regimenes especiales.
 
 ## Sistema de Seguridad Social
 
 La Seguridad Social es un sistema público destinado a garantizar asistencia y prestaciones suficientes ante situaciones de necesidad. La Constitución encomienda a los poderes públicos mantener un régimen público de Seguridad Social para todos los ciudadanos.
 
-El sistema se basa en principios de universalidad, unidad, solidaridad, igualdad, suficiencia de prestaciones y gestión pública, aunque admite colaboración de entidades gestoras, servicios comunes, mutuas y empresas en determinados ámbitos.
+El sistema se basa en principios de <mark>universalidad, unidad, solidaridad, igualdad, suficiencia de prestaciones y gestión pública</mark>, aunque admite colaboración de entidades gestoras, servicios comunes, mutuas y empresas en determinados ámbitos.
 
 | Principio | Significado |
 | --- | --- |
@@ -46,7 +46,7 @@ La distinción es importante porque muchas prestaciones exigen cotización previ
 
 ## Estructura del sistema
 
-El sistema se estructura en régimen general y regimenes especiales. El Régimen General es el núcleo principal e incluye trabajadores por cuenta ajena y asimilados. Los regimenes especiales atienden actividades con peculiaridades: trabajadores autonomos, trabajadores del mar, mineria del carbon u otros que subsistan.
+El sistema se estructura en <mark>régimen general y regimenes especiales</mark>. El Régimen General es el núcleo principal e incluye trabajadores por cuenta ajena y asimilados. Los regimenes especiales atienden actividades con peculiaridades: trabajadores autonomos, trabajadores del mar, mineria del carbon u otros que subsistan.
 
 La gestión corresponde a entidades gestoras como el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina en su ámbito, y servicios comunes como la Tesorería General de la Seguridad Social. Las mutuas colaboradoras participan en contingencias profesionales, incapacidad temporal y otras prestaciones en los términos legales.
 
@@ -71,7 +71,7 @@ En la gestión cotidiana, recursos humanos suele relacionarse con el sistema RED
 
 ## Afiliación, altas, bajas y cotización
 
-La afiliación incorpora por primera vez al sistema. El alta situa al trabajador en un régimen concreto por inicio de actividad. La baja refleja cese. La cotización financia prestaciones y es obligatoria para empresarios y trabajadores en los términos legales.
+La <mark>afiliación</mark> incorpora por primera vez al sistema. El <mark>alta</mark> situa al trabajador en un régimen concreto por inicio de actividad. La <mark>baja</mark> refleja cese. La <mark>cotización</mark> financia prestaciones y es obligatoria para empresarios y trabajadores en los términos legales.
 
 En una Administración local, recursos humanos debe tramitar altas, bajas, variaciones, cotizaciones, partes de incapacidad, accidentes de trabajo y relaciones con Seguridad Social.
 
@@ -85,11 +85,11 @@ En una Administración local, recursos humanos debe tramitar altas, bajas, varia
 
 Un error de alta, grupo de cotización o base puede afectar a prestaciones futuras. Por eso los trámites de personal no son meramente mecanicos: tienen consecuencias económicas para la persona empleada y para la Administración.
 
-La baja en Seguridad Social debe comunicarse dentro del plazo reglamentario, que con carácter general es de tres días naturales desde el cese. Las altas deben tramitarse antes del inicio de la prestación de servicios, porque son presupuesto de protección y cotización correcta.
+La baja en Seguridad Social debe comunicarse dentro del plazo reglamentario, que con carácter general es de <mark>tres días naturales</mark> desde el cese. Las altas deben tramitarse antes del inicio de la prestación de servicios, porque son presupuesto de protección y cotización correcta.
 
 ## Acción protectora
 
-La acción protectora comprende asistencia sanitaria en los casos legalmente previstos, incapacidad temporal, nacimiento y cuidado de menor, riesgo durante embarazo y lactancia, incapacidad permanente, jubilación, muerte y supervivencia, prestaciones familiares, desempleo cuando proceda, cese de actividad en autonomos y servicios sociales complementarios.
+La acción protectora comprende <mark>asistencia sanitaria, incapacidad temporal, nacimiento y cuidado de menor, riesgo durante embarazo y lactancia, incapacidad permanente, jubilación, muerte y supervivencia, prestaciones familiares, desempleo</mark> cuando proceda, cese de actividad en autonomos y servicios sociales complementarios.
 
 Las prestaciones pueden ser contributivas o no contributivas, económicas o en especie, temporales o vitalicias. Su reconocimiento exige requisitos de afiliación, alta, cotización, situación protegida y solicitud, según cada caso.
 
@@ -117,7 +117,7 @@ La acción protectora está ligada al hecho causante, la base reguladora, el per
 | Prestación frecuente en test | Dato clave |
 | --- | --- |
 | Asistencia sanitaria | Comprende servicios médicos y farmacéuticos en los términos del sistema aplicable. |
-| Incapacidad temporal | Exige alteración de la salud que impida trabajar y asistencia sanitaria; duración máxima inicial de 365 días, prorrogable 180 días si se prevé curación. |
+| Incapacidad temporal | Exige alteración de la salud que impida trabajar y asistencia sanitaria; duración máxima inicial de <mark>365 días</mark>, prorrogable <mark>180 días</mark> si se prevé curación. |
 | Nacimiento y cuidado de menor | En 2026, la duración general es de diecinueve semanas por progenitor; las seis primeras son obligatorias, ininterrumpidas y a jornada completa. |
 | Subsidio por nacimiento y cuidado | Equivale al 100% de la base reguladora correspondiente. |
 | Incapacidad permanente total | Inhabilita para la profesión habitual, aunque puede permitir otra distinta. |
@@ -142,7 +142,7 @@ La diferencia tiene efectos en parte de baja, investigación preventiva, recargo
 
 Aunque el tema parte de la Ley General de la Seguridad Social, en empleo público conviene reconocer los regímenes históricos. MUFACE es un organismo autónomo de la Administración General del Estado que gestiona el mutualismo administrativo de funcionarios civiles del Estado incluidos en su campo de aplicación. Permite, en los términos de su normativa, optar por asistencia sanitaria pública o a través de entidades concertadas.
 
-El régimen de Clases Pasivas protege, con carácter histórico, a funcionarios incluidos antes del 1 de enero de 2011 y a otros colectivos previstos. Desde esa fecha, los funcionarios de nuevo ingreso se integran con carácter general en el Régimen General a efectos de pensiones, salvo excepciones.
+El régimen de Clases Pasivas protege, con carácter histórico, a funcionarios incluidos antes del <mark>1 de enero de 2011</mark> y a otros colectivos previstos. Desde esa fecha, los funcionarios de nuevo ingreso se integran con carácter general en el Régimen General a efectos de pensiones, salvo excepciones.
 
 | Régimen o figura | Idea para no confundirse |
 | --- | --- |

@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El acto administrativo se regula principalmente en la Ley 39/2015, de Procedimiento Administrativo Común, y se complementa con la Ley 40/2015, de Régimen Jurídico del Sector Público. En el ámbito local también se aplican la Ley 7/1985 y el Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales.
+El acto administrativo se regula principalmente en la <mark>Ley 39/2015</mark>, de Procedimiento Administrativo Común, y se complementa con la <mark>Ley 40/2015</mark>, de Régimen Jurídico del Sector Público. En el ámbito local también se aplican la <mark>Ley 7/1985</mark> y el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark>.
 
 ## Concepto de acto administrativo
 
@@ -65,7 +65,7 @@ El elemento formal incluye procedimiento, forma escrita cuando proceda, motivaci
 
 ## Motivación
 
-La motivación es la exposición de las razones de hecho y de Derecho que justifican el acto. No todos los actos requieren igual intensidad de motivación, pero la Ley 39/2015 exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legitimos, resuelvan procedimientos de revisión, recursos y reclamaciones, se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, acuerden suspensión de actos, adopten medidas provisionales, rechacen pruebas propuestas, acuerden terminación por imposibilidad material, propuestas de resolución sancionadora y actos dictados en ejercicio de potestades discrecionales.
+La motivación es la exposición de las razones de hecho y de Derecho que justifican el acto. No todos los actos requieren igual intensidad de motivación, pero la <mark>Ley 39/2015</mark> exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legitimos, resuelvan procedimientos de revisión, recursos y reclamaciones, se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, acuerden suspensión de actos, adopten medidas provisionales, rechacen pruebas propuestas, acuerden terminación por imposibilidad material, propuestas de resolución sancionadora y actos dictados en ejercicio de potestades discrecionales.
 
 La motivación permite al interesado comprender por que se decide, valorar si recurre y facilita el control judicial. Una motivación aparente o genérica puede ser insuficiente si no explica la decisión real.
 
@@ -82,9 +82,9 @@ La notificación comunica el acto al interesado y permite que produzca efectos f
 
 Las notificaciones deben practicarse preferentemente por medios electrónicos cuando el interesado este obligado a relacionarse electronicamente o lo haya elegido. Las personas físicas no obligadas pueden escoger canal, salvo excepciones.
 
-Toda notificación debe ser cursada dentro del plazo de diez días a partir de la fecha en que el acto haya sido dictado. Debe contener el texto íntegro de la resolución, indicar si pone fin a la vía administrativa, los recursos procedentes, órgano ante el que interponerlos y plazo.
+Toda notificación debe ser cursada dentro del plazo de <mark>diez días</mark> a partir de la fecha en que el acto haya sido dictado. Debe contener el texto íntegro de la resolución, indicar si pone fin a la vía administrativa, los recursos procedentes, órgano ante el que interponerlos y plazo.
 
-Cuando la notificación se practique por medios electrónicos, se entiende rechazada si transcurren diez días naturales desde la puesta a disposición sin que se acceda a su contenido, salvo que de oficio o a instancia del destinatario se compruebe imposibilidad técnica o material de acceso.
+Cuando la notificación se practique por medios electrónicos, se entiende rechazada si transcurren <mark>diez días naturales</mark> desde la puesta a disposición sin que se acceda a su contenido, salvo que de oficio o a instancia del destinatario se compruebe imposibilidad técnica o material de acceso.
 
 La notificación defectuosa puede surtir efecto desde la fecha en que el interesado realice actuaciones que supongan conocimiento del contenido y alcance del acto, o interponga el recurso procedente. La publicación sustituye a la notificación en supuestos legalmente previstos, como actos con pluralidad indeterminada de interesados o procedimientos selectivos.
 
@@ -100,7 +100,7 @@ La notificación defectuosa puede surtir efecto desde la fecha en que el interes
 |---|---|
 | Interesados desconocidos | No puede identificarse a quienes afecta el acto. |
 | Lugar de notificación ignorado | La Administración no conoce domicilio o medio válido. |
-| Notificación intentada sin éxito | Se acude al BOE en los términos de la Ley 39/2015. |
+| Notificación intentada sin éxito | Se acude al <mark>BOE</mark> en los términos de la <mark>Ley 39/2015</mark>. |
 | Actos con pluralidad indeterminada | Convocatorias, anuncios o procedimientos con destinatarios amplios. |
 
 Una notificación mal hecha puede no impedir que el acto exista, pero si puede afectar a su eficacia frente al interesado y al inicio de plazos.
@@ -109,7 +109,7 @@ Una notificación mal hecha puede no impedir que el acto exista, pero si puede a
 
 Los actos administrativos se presumen validos y producen efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa. La eficacia puede quedar demorada por exigencia de notificación, publicación o aprobación superior.
 
-La validez exige conformidad con el ordenamiento jurídico. La Ley 39/2015 distingue nulidad de pleno derecho y anulabilidad. Son nulos, entre otros, los actos que lesionen derechos fundamentales, los dictados por órgano manifiestamente incompetente por materia o territorio, los de contenido imposible, los constitutivos de infracción penal, los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido, y los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos careciendo de requisitos esenciales.
+La validez exige conformidad con el ordenamiento jurídico. La <mark>Ley 39/2015</mark> distingue nulidad de pleno derecho y anulabilidad. Son nulos, entre otros, los actos que lesionen derechos fundamentales, los dictados por órgano manifiestamente incompetente por materia o territorio, los de contenido imposible, los constitutivos de infracción penal, los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido, y los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos careciendo de requisitos esenciales.
 
 Son anulables los actos que incurran en cualquier infracción del ordenamiento, incluida desviación de poder, salvo que la infracción determine nulidad. Los defectos de forma solo determinan anulabilidad cuando el acto carezca de requisitos indispensables para alcanzar su fin o produzca indefensión.
 
@@ -125,7 +125,7 @@ Si el acto se dicta verbalmente, la constancia escrita, cuando sea necesaria, la
 
 ## Conservación, conversión y convalidación
 
-La invalidez de un acto no siempre destruye todo el expediente. La Ley 39/2015 permite conservar actos y trámites cuyo contenido se hubiera mantenido igual aunque no se hubiera cometido la infracción. Esta regla evita repetir actuaciones inútiles y protege la economía procedimental.
+La invalidez de un acto no siempre destruye todo el expediente. La <mark>Ley 39/2015</mark> permite conservar actos y trámites cuyo contenido se hubiera mantenido igual aunque no se hubiera cometido la infracción. Esta regla evita repetir actuaciones inútiles y protege la economía procedimental.
 
 La conversión permite que un acto nulo o anulable produzca los efectos de otro distinto cuando contenga los elementos constitutivos de ese otro acto. La convalidación permite subsanar actos anulables corrigiendo el vicio, con efectos desde la fecha de convalidación salvo supuestos de retroactividad admitidos legalmente.
 

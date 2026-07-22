@@ -130,7 +130,7 @@ La inspección urbanística documenta hechos mediante actas, informes y fotograf
 
 Las infracciones urbanísticas son acciones u omisiones contrarias a normativa urbanística <mark>tipificadas por ley</mark>. Pueden ser <mark>leves, graves o muy graves</mark>. Las sanciones suelen consistir en multas, pero pueden existir medidas accesorias.
 
-La responsabilidad puede alcanzar a promotores, propietarios, constructores, técnicos, directores facultativos u otros intervinientes según su participación. El procedimiento sancionador debe respetar garantías de la Ley 39/2015 y principios de la Ley 40/2015.
+La responsabilidad puede alcanzar a promotores, propietarios, constructores, técnicos, directores facultativos u otros intervinientes según su participación. El procedimiento sancionador debe respetar garantías de la <mark>Ley 39/2015</mark> y principios de la <mark>Ley 40/2015</mark>.
 
 La sanción urbanística es compatible e independiente de la restauración de la legalidad. La multa castiga la infracción; la restauración busca reponer la realidad física alterada y el orden urbanístico infringido.
 

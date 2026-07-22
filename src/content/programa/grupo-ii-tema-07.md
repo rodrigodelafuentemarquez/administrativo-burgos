@@ -8,11 +8,11 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La norma central es la Ley 9/2017, de Contratos del Sector Público. En el ámbito local se complementa con la Ley 7/1985, la Ley de Haciendas Locales, las bases de ejecución presupuestaria y las normas de organización municipal.
+La norma central es la <mark>Ley 9/2017</mark>, de Contratos del Sector Público. En el ámbito local se complementa con la <mark>Ley 7/1985</mark>, la <mark>Ley de Haciendas Locales</mark>, las bases de ejecución presupuestaria y las normas de organización municipal.
 
 ## Contratación pública
 
-La contratación pública permite a las Administraciones obtener obras, suministros, servicios y prestaciones necesarias para cumplir fines públicos. No es contratación privada ordinaria: se rige por principios de publicidad, transparencia, concurrencia, igualdad, no discriminación, integridad, eficiencia y selección de la oferta con mejor relación calidad-precio.
+La contratación pública permite a las Administraciones obtener obras, suministros, servicios y prestaciones necesarias para cumplir fines públicos. No es contratación privada ordinaria: se rige por principios de <mark>publicidad, transparencia, concurrencia, igualdad, no discriminación, integridad, eficiencia</mark> y selección de la oferta con mejor relación calidad-precio.
 
 La Ley distingue sector público, poderes adjudicadores y Administraciones Públicas. El régimen más intenso se aplica a contratos de Administraciones Públicas.
 
@@ -29,7 +29,7 @@ La contratación pública empieza antes de publicar un anuncio. Primero hay que 
 
 ## Tipología contractual
 
-Los contratos tipicos son obras, concesión de obras, concesión de servicios, suministro y servicios. El contrato de obras tiene por objeto ejecución de una obra o trabajos de construcción. La concesión de obras o servicios implica transferencia al concesionario del riesgo operacional. El suministro tiene por objeto adquisición, arrendamiento financiero o arrendamiento de productos o bienes muebles. El contrato de servicios cubre prestaciones de hacer distintas de obras o suministros.
+Los contratos tipicos son <mark>obras, concesión de obras, concesión de servicios, suministro y servicios</mark>. El contrato de obras tiene por objeto ejecución de una obra o trabajos de construcción. La concesión de obras o servicios implica transferencia al concesionario del riesgo operacional. El suministro tiene por objeto adquisición, arrendamiento financiero o arrendamiento de productos o bienes muebles. El contrato de servicios cubre prestaciones de hacer distintas de obras o suministros.
 
 Existen contratos mixtos cuando contienen prestaciones de varios tipos. Su régimen se determina conforme a la prestación principal y reglas específicas.
 
@@ -46,17 +46,17 @@ Existen contratos mixtos cuando contienen prestaciones de varios tipos. Su régi
 
 En un lado está el órgano de contratación. En entidades locales puede ser el Alcalde, la Junta de Gobierno Local o el Pleno según materia, importe, duración y normativa organizativa. En municipios de gran población muchas competencias corresponden a la Junta de Gobierno Local, salvo atribuciones reservadas.
 
-En el otro lado está el contratista. Debe tener capacidad de obrar, no estar incurso en prohibición de contratar, acreditar solvencia económica, financiera, técnica o profesional, y contar con habilitación empresarial o profesional cuando proceda. En determinados contratos se exige clasificación.
+En el otro lado está el contratista. Debe tener <mark>capacidad de obrar, no estar incurso en prohibición de contratar, acreditar solvencia económica, financiera, técnica o profesional</mark>, y contar con habilitación empresarial o profesional cuando proceda. En determinados contratos se exige clasificación.
 
 En los Ayuntamientos de municipios de gran población, las competencias como órgano de contratación se ejercen por la Junta de Gobierno Local, cualquiera que sea el importe del contrato o la duración del mismo, sin perjuicio de las especialidades y delegaciones legalmente previstas.
 
 ## Expediente de contratación
 
-Todo contrato requiere expediente. Debe justificarse necesidad e idoneidad, objeto, presupuesto base de licitación, valor estimado, existencia de crédito, procedimiento, criterios de adjudicación, solvencia, pliegos y fiscalización cuando proceda.
+Todo contrato requiere expediente. Debe justificarse <mark>necesidad e idoneidad, objeto, presupuesto base de licitación, valor estimado, existencia de crédito, procedimiento, criterios de adjudicación, solvencia, pliegos y fiscalización</mark> cuando proceda.
 
 Los pliegos son piezas esenciales. El pliego de clausulas administrativas particulares regula condiciones jurídicas, procedimiento, derechos y obligaciones. El pliego de prescripciones técnicas define carácterísticas técnicas de la prestación. No pueden contener exigencias discriminatorias ni orientadas injustificadamente a un operador concreto.
 
-El presupuesto base de licitación es el límite máximo de gasto que puede comprometer el órgano de contratación, incluido el IVA. El valor estimado del contrato se calcula sin IVA e incorpora prórrogas, modificaciones previstas, opciones y otros conceptos legalmente relevantes. Esta diferencia es básica para umbrales, procedimiento y publicidad.
+El <mark>presupuesto base de licitación</mark> es el límite máximo de gasto que puede comprometer el órgano de contratación, incluido el IVA. El <mark>valor estimado del contrato se calcula sin IVA</mark> e incorpora prórrogas, modificaciones previstas, opciones y otros conceptos legalmente relevantes. Esta diferencia es básica para umbrales, procedimiento y publicidad.
 
 | Pieza del expediente | Función |
 | --- | --- |
@@ -93,13 +93,13 @@ El contrato menor permite tramitar contratos de pequeña cuantía con expediente
 | Procedimiento abierto | Puede presentar oferta cualquier empresario interesado. |
 | Procedimiento restringido | Solo presentan proposición quienes hayan sido seleccionados tras solicitar participar. |
 | Garantía definitiva | 5% del precio final ofertado, excluido IVA, salvo especialidades. |
-| Duración ordinaria de servicios de prestación sucesiva | Máximo cinco años, incluidas prórrogas, salvo excepciones legales. |
+| Duración ordinaria de servicios de prestación sucesiva | Máximo <mark>cinco años</mark>, incluidas prórrogas, salvo excepciones legales. |
 
 ## Efectos, cumplimiento y extinción
 
 Los contratos obligan a las partes según pliegos, oferta y documento contractual. La Administración conserva prerrogativas como interpretar contratos, resolver dudas, modificarlos por razones de interés público, declarar responsabilidad del contratista, suspender ejecución y acordar resolución, siempre con límites y procedimiento.
 
-El cumplimiento normal se produce por realización de la prestación y recepción o conformidad. En el contrato de obras, salvo que el pliego establezca otro mayor, el plazo de garantía no puede ser inferior a un año. La extinción puede producirse por cumplimiento o resolución. Son causas de resolución, entre otras, muerte o incapacidad del contratista individual, extinción de personalidad, declaración de concurso en determinados casos, demora, incumplimiento esencial, imposibilidad de ejecutar la prestación o mutuo acuerdo cuando proceda.
+El cumplimiento normal se produce por realización de la prestación y recepción o conformidad. En el contrato de obras, salvo que el pliego establezca otro mayor, el plazo de garantía no puede ser inferior a <mark>un año</mark>. La extinción puede producirse por cumplimiento o resolución. Son causas de resolución, entre otras, muerte o incapacidad del contratista individual, extinción de personalidad, declaración de concurso en determinados casos, demora, incumplimiento esencial, imposibilidad de ejecutar la prestación o mutuo acuerdo cuando proceda.
 
 El principio de riesgo y ventura significa que el contratista asume el riesgo económico ordinario de la ejecución del contrato, sin perjuicio de los supuestos legales de restablecimiento del equilibrio o fuerza mayor cuando proceda.
 

@@ -8,11 +8,11 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La materia se regula en la Constitución, la Ley General Tributaria, la Ley 7/1985 y el texto refundido de la Ley Reguladora de las Haciendas Locales.
+La materia se regula en la Constitución, la <mark>Ley General Tributaria</mark>, la <mark>Ley 7/1985</mark> y el texto refundido de la Ley Reguladora de las Haciendas Locales.
 
 ## Principios tributarios
 
-El artículo 31 de la Constitución establece que todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su <mark>capacidad económica</mark> mediante un sistema tributario justo inspirado en <mark>igualdad y progresividad</mark>, que en ningún caso tendrá alcance confiscatorio.
+El <mark>artículo 31</mark> de la Constitución establece que todos contribuirán al sostenimiento de los gastos públicos de acuerdo con su <mark>capacidad económica</mark> mediante un sistema tributario justo inspirado en <mark>igualdad y progresividad</mark>, que en ningún caso tendrá alcance confiscatorio.
 
 En el ámbito local rigen legalidad, reserva de ley, capacidad económica, igualdad, generalidad, progresividad cuando proceda, no confiscatoriedad, seguridad jurídica, eficiencia y suficiencia financiera.
 
@@ -105,7 +105,7 @@ Si no se presentan reclamaciones, <mark>el acuerdo provisional se entiende defin
 | Fase de ordenanza fiscal | Dato básico |
 | --- | --- |
 | Aprobación provisional | Corresponde al Pleno. |
-| Información pública | Mínimo treinta días para reclamaciones. |
+| Información pública | Mínimo <mark>treinta días</mark> para reclamaciones. |
 | Sin reclamaciones | El acuerdo provisional se entiende definitivamente adoptado. |
 | Con reclamaciones | El Pleno debe resolverlas y aprobar definitivamente. |
 | Entrada en vigor | Exige publicación del texto íntegro en el Boletín Oficial de la Provincia. |

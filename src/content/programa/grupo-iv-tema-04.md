@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El control del gasto público local se regula por la Ley de Haciendas Locales, el Real Decreto 424/2017 sobre control interno local, la normativa del Tribunal de Cuentas, la normativa del Consejo de Cuentas de Castilla y León y las reglas presupuestarias.
+El control del gasto público local se regula por la <mark>Ley de Haciendas Locales</mark>, el <mark>Real Decreto 424/2017</mark> sobre control interno local, la normativa del Tribunal de Cuentas, la normativa del Consejo de Cuentas de Castilla y León y las reglas presupuestarias.
 
 ## Control del gasto público
 

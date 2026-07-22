@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La materia se regula por la Ley 39/2015, el Real Decreto 203/2021 de actuación y funcionamiento del sector público por medios electrónicos, la normativa de administración electrónica y la organización municipal de Burgos.
+La materia se regula por la <mark>Ley 39/2015</mark>, el <mark>Real Decreto 203/2021</mark> de actuación y funcionamiento del sector público por medios electrónicos, la normativa de administración electrónica y la organización municipal de Burgos.
 
 ## Oficinas de asistencia en materia de registros
 
@@ -49,7 +49,7 @@ El personal debe estar formado en identificación, firma, digitalización, copia
 
 Las oficinas reciben solicitudes, escritos y comunicaciones dirigidos al Ayuntamiento u otras Administraciones. Deben <mark>emitir justificante, registrar fecha y hora, identificar destino, digitalizar documentos</mark> en su caso y remitirlos electronicamente.
 
-La Ley 39/2015 permite presentar documentos en registros electrónicos, oficinas de Correos, representaciones diplomaticas, oficinas de asistencia en registros y otros lugares previstos. Las oficinas municipales deben aplicar estas reglas.
+La <mark>Ley 39/2015</mark> permite presentar documentos en registros electrónicos, oficinas de Correos, representaciones diplomaticas, oficinas de asistencia en registros y otros lugares previstos. Las oficinas municipales deben aplicar estas reglas.
 
 El Registro General presencial de una entidad local permanece abierto al público <mark>todos los días hábiles</mark>, conforme al régimen clásico del ROF. El registro electrónico, en cambio, está disponible <mark>todos los días del año durante las veinticuatro horas</mark>.
 
@@ -113,7 +113,7 @@ No toda fotocopia es copia autentica. La copia autentica requiere actuación de 
 | --- | --- |
 | Original en papel presentado por ciudadano | Digitalizar y devolver, salvo excepción. |
 | Copia simple aportada | Incorporar como documento aportado, sin autenticar si no procede. |
-| Documento electrónico con CSV | Verificar en sede correspondiente si es necesario. |
+| Documento electrónico con <mark>CSV</mark> | Verificar en sede correspondiente si es necesario. |
 | Copia autentica | Tiene validez formal equivalente al original. |
 
 Las copias auténticas de documentos públicos administrativos deben emitirse en el plazo de <mark>quince días</mark> desde la solicitud, salvo previsión específica. Los documentos electrónicos administrativos deben tener formato susceptible de identificación y tratamiento diferenciado, incorporar datos de identificación y cumplir requisitos de autenticidad e integridad.

@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La revisión de actos y los recursos administrativos se regulan en la Ley 39/2015. La jurisdicción contencioso-administrativa se regula en la Ley 29/1998. En el ámbito local se aplican también la Ley 7/1985 y la normativa de régimen local.
+La revisión de actos y los recursos administrativos se regulan en la <mark>Ley 39/2015</mark>. La jurisdicción contencioso-administrativa se regula en la <mark>Ley 29/1998</mark>. En el ámbito local se aplican también la <mark>Ley 7/1985</mark> y la normativa de régimen local.
 
 ## Revisión de actos administrativos
 
@@ -55,7 +55,7 @@ Si solicitada la suspensión la Administración no resuelve expresamente en el p
 
 | Recurso | Acto contra el que procede | Órgano que resuelve | Plazo para resolver |
 | --- | --- | --- | --- |
-| Alzada | Actos que no ponen fin a la vía administrativa. | Superior jerarquico. | Tres meses. |
+| Alzada | Actos que no ponen fin a la vía administrativa. | Superior jerarquico. | <mark>Tres meses</mark>. |
 | Reposición | Actos que ponen fin a la vía administrativa. | Mismo órgano que dictó el acto. | Un mes. |
 | Extraordinario de revisión | Actos firmes y causas tasadas. | Órgano administrativo competente. | Según causa y régimen legal. |
 
@@ -65,14 +65,14 @@ Si solicitada la suspensión la Administración no resuelve expresamente en el p
 
 El recurso de alzada procede contra actos que no ponen fin a la vía administrativa. Se interpone ante el órgano que dictó el acto o ante el competente para resolver, que es el superior jerárquico.
 
-El plazo de interposición es de un mes si el acto es expreso. Si no lo es, puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio. El plazo máximo para resolver y notificar es de tres meses. Si transcurre sin resolución, se entiende desestimado, salvo supuestos específicos.
+El plazo de interposición es de un mes si el acto es expreso. Si no lo es, puede interponerse en cualquier momento a partir del día siguiente a aquel en que se produzcan los efectos del silencio. El plazo máximo para resolver y notificar es de <mark>tres meses</mark>. Si transcurre sin resolución, se entiende desestimado, salvo supuestos específicos.
 
 Puntos que conviene memorizar:
 
 - procede frente a actos que **no ponen fin** a la vía administrativa;
 - puede presentarse ante el órgano que dictó el acto o ante el superior;
 - plazo de interposición: **un mes** si el acto es expreso;
-- plazo de resolución: **tres meses**;
+- plazo de resolución: **<mark>tres meses</mark>**;
 - silencio: regla general de **desestimación**.
 
 ## Recurso potestativo de reposición
@@ -105,22 +105,22 @@ Es extraordinario porque solo procede frente a actos firmes y por causas cerrada
 
 | Causa | Plazo de interposición |
 |---|---|
-| Error de hecho que resulte de documentos del expediente | Cuatro años desde la notificación de la resolución. |
-| Aparición de documentos esenciales | Tres meses desde el conocimiento de los documentos. |
-| Documentos o testimonios declarados falsos | Tres meses desde que la sentencia judicial quede firme. |
-| Conducta punible determinante | Tres meses desde que la sentencia judicial quede firme. |
+| Error de hecho que resulte de documentos del expediente | <mark>Cuatro años</mark> desde la notificación de la resolución. |
+| Aparición de documentos esenciales | <mark>Tres meses</mark> desde el conocimiento de los documentos. |
+| Documentos o testimonios declarados falsos | <mark>Tres meses</mark> desde que la sentencia judicial quede firme. |
+| Conducta punible determinante | <mark>Tres meses</mark> desde que la sentencia judicial quede firme. |
 
 Este recurso es una vía excepcional. Si lo que se discute es una interpretación jurídica normal, la vía correcta habria sido alzada, reposición o contencioso, no revisión extraordinaria.
 
 ## Jurisdicción contencioso-administrativa
 
-La jurisdicción contencioso-administrativa controla la legalidad de la actuación administrativa, disposiciones reglamentarias, actos expresos y presuntos, inactividad administrativa y vía de hecho. Su regulación se contiene en la Ley 29/1998.
+La jurisdicción contencioso-administrativa controla la legalidad de la actuación administrativa, disposiciones reglamentarias, actos expresos y presuntos, inactividad administrativa y vía de hecho. Su regulación se contiene en la <mark>Ley 29/1998</mark>.
 
 Su naturaleza es jurisdiccional, no administrativa. La decisión corresponde a jueces y tribunales independientes. Su función es garantizar que la Administración actue conforme a Derecho y proteger derechos e intereses legitimos.
 
 Puede impugnarse la actuación de Administraciones territoriales, entidades públicas, órganos constitucionales en materia de personal, administración y gestión patrimonial, y otros sujetos cuando ejercen potestades administrativas. Para el Ayuntamiento, esta jurisdicción es el cauce normal de control judicial de acuerdos, resoluciones, ordenanzas, sanciones, tributos, responsabilidad patrimonial y contratación en los términos legales.
 
-Los plazos ordinarios son dos meses para actos expresos y disposiciones generales, y seis meses para actos presuntos por silencio administrativo. Los actos de las entidades locales suelen corresponder en primera instancia a los Juzgados de lo Contencioso-Administrativo, sin perjuicio de las reglas concretas de competencia. Los actos de Ministros y Secretarios de Estado se conectan normalmente con la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
+Los plazos ordinarios son <mark>dos meses</mark> para actos expresos y disposiciones generales, y <mark>seis meses</mark> para actos presuntos por silencio administrativo. Los actos de las entidades locales suelen corresponder en primera instancia a los Juzgados de lo Contencioso-Administrativo, sin perjuicio de las reglas concretas de competencia. Los actos de Ministros y Secretarios de Estado se conectan normalmente con la Sala de lo Contencioso-Administrativo de la Audiencia Nacional.
 
 En el ámbito municipal suelen acabar en esta jurisdicción:
 
@@ -137,8 +137,8 @@ En el ámbito municipal suelen acabar en esta jurisdicción:
 
 | Dato contencioso | Regla |
 |---|---|
-| Acto expreso | Plazo ordinario de dos meses. |
-| Acto presunto | Plazo ordinario de seis meses. |
-| Disposición general | Plazo ordinario de dos meses desde publicación. |
+| Acto expreso | Plazo ordinario de <mark>dos meses</mark>. |
+| Acto presunto | Plazo ordinario de <mark>seis meses</mark>. |
+| Disposición general | Plazo ordinario de <mark>dos meses</mark> desde publicación. |
 | Materias excluidas | Orden jurisdiccional civil, penal y social, aunque se relacionen con Administración, salvo atribución legal expresa. |
 | Ejecución de sentencias firmes | Obliga a todas las personas y entidades afectadas. |

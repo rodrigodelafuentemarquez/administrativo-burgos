@@ -38,8 +38,8 @@ Los derechos de las personas en sus relaciones con las Administraciones incluyen
 | Punto de Acceso General electrónico | Permite comunicarse con las Administraciones por medios electrónicos. |
 | Estado de tramitación | Lo pueden conocer quienes tengan condición de interesados. |
 | Documentos ya aportados o elaborados por Administraciones | No deben exigirse de nuevo, salvo límites legales. |
-| Representación no acreditada | Debe requerirse subsanación por diez días hábiles. |
-| Audiencia del expediente | Plazo no inferior a diez ni superior a quince días. |
+| Representación no acreditada | Debe requerirse subsanación por <mark>diez días hábiles</mark>. |
+| Audiencia del expediente | Plazo no inferior a diez ni superior a <mark>quince días</mark>. |
 | Información pública | Permite alegar a cualquier persona, no solo a interesados directos. |
 
 ## Personas con discapacidad

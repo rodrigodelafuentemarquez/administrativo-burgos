@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La potestad normativa local se regula en la Constitución, la Ley 7/1985, la Ley de Haciendas Locales para ordenanzas fiscales, la Ley 39/2015 en materia de procedimiento y participación normativa, y los reglamentos orgánicos municipales.
+La potestad normativa local se regula en la Constitución, la <mark>Ley 7/1985</mark>, la <mark>Ley de Haciendas Locales</mark> para ordenanzas fiscales, la <mark>Ley 39/2015</mark> en materia de procedimiento y participación normativa, y los reglamentos orgánicos municipales.
 
 ## Potestad reglamentaria local
 
@@ -20,7 +20,7 @@ La potestad normativa local se fundamenta en la autonomía local. Sin normas pro
 
 Las ordenanzas son disposiciones generales aprobadas por entidades locales para regular materias de competencia municipal. Pueden afectar a convivencia ciudadana, limpieza, ruido, terrazas, mercados, trafico, licencias, medio ambiente urbano, administración electrónica, padrón, servicios o uso de espacios públicos.
 
-Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas, contribuciones especiales, beneficios fiscales, gestión, liquidación, inspección y recaudación dentro del marco de la Ley de Haciendas Locales.
+Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas, contribuciones especiales, beneficios fiscales, gestión, liquidación, inspección y recaudación dentro del marco de la <mark>Ley de Haciendas Locales</mark>.
 
 Las ordenanzas no pueden vulnerar leyes, invadir competencias ajenas, tipificar infracciones sin habilitación suficiente ni restringir derechos de forma desproporcionada.
 
@@ -44,16 +44,16 @@ El reglamento orgánico tiene especial importancia porque adapta la organizació
 
 El procedimiento general de aprobación de ordenanzas y reglamentos locales incluye aprobación inicial por el Pleno, información pública y audiencia a interesados por plazo mínimo legal, resolución de reclamaciones y sugerencias, y aprobación definitiva. Si no se presentan reclamaciones, el acuerdo inicial puede entenderse definitivo.
 
-El plazo mínimo de información pública y audiencia a interesados es de treinta días. Despues debe publicarse el texto íntegro en el Boletín Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
+El plazo mínimo de información pública y audiencia a interesados es de <mark>treinta días</mark>. Despues debe publicarse el texto íntegro en el Boletín Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
 
-Antes de la aprobación pueden realizarse consultas, informes jurídicos, informes económicos, memoria de impacto, evaluación normativa y otros trámites según materia. En ordenanzas fiscales se aplican reglas específicas de la Ley de Haciendas Locales.
+Antes de la aprobación pueden realizarse consultas, informes jurídicos, informes económicos, memoria de impacto, evaluación normativa y otros trámites según materia. En ordenanzas fiscales se aplican reglas específicas de la <mark>Ley de Haciendas Locales</mark>.
 
 | Fase | Finalidad |
 | --- | --- |
 | Preparación | Definir necesidad, competencia, objetivos, alternativas e impactos. |
 | Informes | Asegurar legalidad, viabilidad económica y coherencia técnica. |
 | Aprobación inicial | El Pleno abre formalmente la tramitación. |
-| Información pública y audiencia | Permite reclamaciones, sugerencias y participación durante al menos treinta días. |
+| Información pública y audiencia | Permite reclamaciones, sugerencias y participación durante al menos <mark>treinta días</mark>. |
 | Resolución de alegaciones | El Ayuntamiento acepta o rechaza motivadamente las aportaciones. |
 | Aprobación definitiva | Fija el texto final. |
 | Publicación integra | Da publicidad oficial y permite entrada en vigor. |
@@ -64,11 +64,11 @@ El expediente normativo debe permitir reconstruir por que se aprueba la norma. U
 
 Las ordenanzas fiscales tienen procedimiento propio. Deben aprobarse provisionalmente por el Pleno, exponerse al público, resolver reclamaciones y aprobarse definitivamente. Regulan elementos necesarios de cada tributo dentro de la ley: hecho imponible, sujetos, beneficios, cuota, devengo, gestión y obligaciones formales cuando proceda.
 
-En municipios de gran población, la Junta de Gobierno Local aprueba los proyectos de ordenanzas y reglamentos, incluidos los orgánicos, y el Pleno aprueba las ordenanzas y reglamentos. El Reglamento Orgánico de la Corporación exige mayoría absoluta del número legal de miembros.
+En municipios de gran población, la Junta de Gobierno Local aprueba los proyectos de ordenanzas y reglamentos, incluidos los orgánicos, y el Pleno aprueba las ordenanzas y reglamentos. El Reglamento Orgánico de la Corporación exige <mark>mayoría absoluta</mark> del número legal de miembros.
 
 Su importancia en un Ayuntamiento es enorme porque habilitan la aplicación de tasas, impuestos potestativos y contribuciones especiales. Sin ordenanza fiscal valida, determinados ingresos no pueden exigirse.
 
-El expediente de ordenanza fiscal debe cuidar especialmente la memoria económico-financiera cuando se regulan tasas o precios vinculados al coste del servicio. La cuota no puede fijarse de forma arbitraria: debe justificarse conforme a la Ley de Haciendas Locales y a los informes económicos incorporados al expediente.
+El expediente de ordenanza fiscal debe cuidar especialmente la memoria económico-financiera cuando se regulan tasas o precios vinculados al coste del servicio. La cuota no puede fijarse de forma arbitraria: debe justificarse conforme a la <mark>Ley de Haciendas Locales</mark> y a los informes económicos incorporados al expediente.
 
 | Ordenanza fiscal | Punto de control |
 | --- | --- |
@@ -104,7 +104,7 @@ En situaciones de urgencia o riesgo, el Alcalde puede dictar bandos para adoptar
 | Pregunta típica | Respuesta |
 |---|---|
 | Aprobación inicial de ordenanza | Pleno. |
-| Información pública mínima | Treinta días. |
+| Información pública mínima | <mark>Treinta días</mark>. |
 | Si no hay reclamaciones | El acuerdo inicial se entiende definitivamente aprobado. |
 | Si hay reclamaciones | El Pleno las resuelve y aprueba definitivamente. |
 | Publicación | Texto íntegro en el Boletín Oficial de la Provincia. |

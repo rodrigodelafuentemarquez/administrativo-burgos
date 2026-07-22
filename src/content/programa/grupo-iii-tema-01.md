@@ -8,7 +8,7 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-El régimen de empleados públicos se basa en el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la Ley 7/1985, el Real Decreto Legislativo 781/1986, la normativa de funcionarios de Administración Local con habilitación nacional, la legislación de Castilla y León y los instrumentos municipales como plantilla, relación de puestos de trabajo y ofertas de empleo público.
+El régimen de empleados públicos se basa en el Texto Refundido de la Ley del Estatuto Básico del Empleado Público, la <mark>Ley 7/1985</mark>, el <mark>Real Decreto Legislativo 781/1986</mark>, la normativa de funcionarios de Administración Local con habilitación nacional, la legislación de Castilla y León y los instrumentos municipales como plantilla, relación de puestos de trabajo y ofertas de empleo público.
 
 ## Personal al servicio de las entidades locales
 
@@ -32,10 +32,10 @@ Los funcionarios interinos son nombrados por razones justificadas de necesidad y
 
 | Supuesto de interinidad | Dato que suele caer en test |
 | --- | --- |
-| Plaza vacante | Debe incorporarse a la OEP del ejercicio o del siguiente y cubrirse en el plazo máximo de tres años desde el nombramiento interino. |
+| Plaza vacante | Debe incorporarse a la OEP del ejercicio o del siguiente y cubrirse en el plazo máximo de <mark>tres años</mark> desde el nombramiento interino. |
 | Sustitución transitoria | Dura mientras exista reserva de puesto o ausencia de la persona sustituida. |
-| Programa temporal | Máximo tres años, ampliable doce meses por las leyes de función pública que desarrollen el EBEP. |
-| Exceso o acumulación de tareas | Máximo nueve meses dentro de un periodo de dieciocho meses. |
+| Programa temporal | Máximo <mark>tres años</mark>, ampliable <mark>doce meses</mark> por las leyes de función pública que desarrollen el EBEP. |
+| Exceso o acumulación de tareas | Máximo <mark>nueve meses</mark> dentro de un periodo de dieciocho meses. |
 
 El personal laboral se vincula mediante contrato de trabajo. Puede ser fijo, por tiempo indefinido o temporal. Su régimen se rige por legislación laboral, EBEP en lo aplicable, convenio colectivo y contrato.
 
@@ -61,16 +61,16 @@ En la función pública local debe distinguirse también entre funcionarios con 
 
 ## Régimen jurídico
 
-El régimen jurídico de los funcionarios combina derechos, deberes, situaciones administrativas, carrera, provisión, incompatibilidades, responsabilidad disciplinaria y pérdida de condición. El personal laboral se rige por el Estatuto de los Trabajadores y por el EBEP en materias comunes como principios de selección, derechos básicos, deberes, código de conducta e incompatibilidades.
+El régimen jurídico de los funcionarios combina derechos, deberes, situaciones administrativas, carrera, provisión, incompatibilidades, responsabilidad disciplinaria y pérdida de condición. El personal laboral se rige por el <mark>Estatuto de los Trabajadores</mark> y por el EBEP en materias comunes como principios de selección, derechos básicos, deberes, código de conducta e incompatibilidades.
 
 La selección debe respetar igualdad, mérito, capacidad, publicidad, transparencia, imparcialidad, profesionalidad de órganos selectivos, independencia, adecuación entre pruebas y funciones, y agilidad sin perjuicio de objetividad.
 
 | Punto de acceso | Regla de examen |
 | --- | --- |
-| Requisitos generales | Nacionalidad, capacidad funcional, edad mínima de dieciseis años, no exceder la edad máxima de jubilación forzosa, habilitación y titulación exigida. |
+| Requisitos generales | Nacionalidad, capacidad funcional, edad mínima de <mark>dieciseis años</mark>, no exceder la edad máxima de jubilación forzosa, habilitación y titulación exigida. |
 | Sistemas selectivos | Oposición y concurso-oposición son los sistemas ordinarios; el concurso solo puede usarse con carácter excepcional cuando una ley lo prevea. |
 | Clasificación profesional | A1 y A2 exigen grado universitario; B exige técnico superior; C1 bachiller o técnico; C2 graduado en ESO; las agrupaciones profesionales no exigen titulación académica del sistema educativo. |
-| Oferta de empleo público | Incluye necesidades con dotación presupuestaria y debe desarrollarse mediante convocatoria dentro del plazo improrrogable de tres años. |
+| Oferta de empleo público | Incluye necesidades con dotación presupuestaria y debe desarrollarse mediante convocatoria dentro del plazo improrrogable de <mark>tres años</mark>. |
 | Órganos de selección | Deben ser colegiados, imparciales, profesionales e independientes. En la práctica, sus miembros deben poseer titulación igual o superior a la exigida para el acceso. |
 
 En oposición suele preguntarse la diferencia entre **acceso** y **provisión**:
@@ -107,7 +107,7 @@ También existen formas provisionales: comisión de servicios, adscripción prov
 
 <mark>No confundir:</mark> la libre designación no es nombramiento arbitrario. Debe haber convocatoria pública, requisitos, motivación suficiente y respeto a la normativa.
 
-El grado personal se consolida, con carácter general, por el desempeño de uno o más puestos del nivel correspondiente durante dos años continuados o tres con interrupción. Es distinto del grupo o subgrupo de clasificación y distinto del complemento de destino del puesto concreto.
+El grado personal se consolida, con carácter general, por el desempeño de uno o más puestos del nivel correspondiente durante <mark>dos años</mark> continuados o tres con interrupción. Es distinto del grupo o subgrupo de clasificación y distinto del complemento de destino del puesto concreto.
 
 El personal directivo público profesional, cuando exista conforme a la normativa aplicable, ejerce funciones directivas profesionales sujetas a principios de mérito, capacidad, idoneidad, eficacia, eficiencia y responsabilidad por la gestión. No debe confundirse con personal eventual de confianza ni con órganos políticos.
 
@@ -136,12 +136,12 @@ El código de conducta del EBEP incluye principios eticos y de conducta. Exige a
 
 | Disciplina funcionarial | Plazo básico del EBEP |
 | --- | --- |
-| Prescripción de faltas muy graves | Tres años. |
-| Prescripción de faltas graves | Dos años. |
-| Prescripción de faltas leves | Seis meses. |
-| Prescripción de sanciones muy graves | Tres años. |
-| Prescripción de sanciones graves | Dos años. |
-| Prescripción de sanciones leves | Un año. |
+| Prescripción de faltas muy graves | <mark>Tres años</mark>. |
+| Prescripción de faltas graves | <mark>Dos años</mark>. |
+| Prescripción de faltas leves | <mark>Seis meses</mark>. |
+| Prescripción de sanciones muy graves | <mark>Tres años</mark>. |
+| Prescripción de sanciones graves | <mark>Dos años</mark>. |
+| Prescripción de sanciones leves | <mark>Un año</mark>. |
 
 Entre las faltas muy graves pueden aparecer en test el abandono del servicio, la adopción de acuerdos manifiestamente ilegales que causen perjuicio grave, la publicación o uso indebido de documentación o información reservada, el acoso y el incumplimiento notorio de funciones esenciales. La separación del servicio solo procede como sanción por falta muy grave.
 
@@ -175,4 +175,4 @@ La promoción interna permite progresar desde cuerpos o escalas inferiores a sup
 
 En el ámbito local, la promoción interna se articula mediante ofertas de empleo público, bases, convocatorias y procesos selectivos. Para personal administrativo, es relevante porque conecta con carrera, formación, provisión y planificación de recursos humanos.
 
-En promoción interna vertical, el EBEP exige pertenecer al subgrupo o grupo inferior, tener la titulación requerida, superar el proceso selectivo y haber prestado servicios efectivos durante al menos dos años en el cuerpo o escala de procedencia, salvo previsión legal específica.
+En promoción interna vertical, el EBEP exige pertenecer al subgrupo o grupo inferior, tener la titulación requerida, superar el proceso selectivo y haber prestado servicios efectivos durante al menos <mark>dos años</mark> en el cuerpo o escala de procedencia, salvo previsión legal específica.

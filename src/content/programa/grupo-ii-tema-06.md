@@ -8,13 +8,13 @@ estado: "borrador"
 
 ## Normativa de referencia
 
-La responsabilidad patrimonial se regula en la Constitución, la Ley 40/2015 y la Ley 39/2015. En el ámbito sanitario, contractual o sectorial pueden existir especialidades, pero el régimen general se contiene en esas normas.
+La responsabilidad patrimonial se regula en la Constitución, la <mark>Ley 40/2015</mark> y la <mark>Ley 39/2015</mark>. En el ámbito sanitario, contractual o sectorial pueden existir especialidades, pero el régimen general se contiene en esas normas.
 
 ## Concepto y caracteres
 
-La responsabilidad patrimonial de la Administración es el deber de indemnizar a los particulares por las lesiones que sufran en sus bienes o derechos como consecuencia del funcionamiento normal o anormal de los servicios públicos, salvo fuerza mayor o deber jurídico de soportar el daño.
+La responsabilidad patrimonial de la Administración es el deber de indemnizar a los particulares por las lesiones que sufran en sus bienes o derechos como consecuencia del <mark>funcionamiento normal o anormal de los servicios públicos</mark>, salvo <mark>fuerza mayor o deber jurídico de soportar el daño</mark>.
 
-Sus caracteres clasicos son directa, objetiva, integral y sometida a procedimiento administrativo. Es directa porque el ciudadano reclama frente a la Administración, no frente al empleado concreto. Es objetiva porque no exige necesariamente culpa; basta lesión antijuridica imputable al funcionamiento del servicio. Es integral porque busca reparar el daño efectivo evaluable economicamente.
+Sus caracteres clasicos son <mark>directa, objetiva, integral y sometida a procedimiento administrativo</mark>. Es directa porque el ciudadano reclama frente a la Administración, no frente al empleado concreto. Es objetiva porque no exige necesariamente culpa; basta lesión antijuridica imputable al funcionamiento del servicio. Es integral porque busca reparar el daño efectivo evaluable economicamente.
 
 | Carácter | Significado |
 | --- | --- |
@@ -27,7 +27,7 @@ La responsabilidad patrimonial no convierte a la Administración en aseguradora 
 
 ## Presupuestos
 
-Para que exista responsabilidad deben concurrir daño efectivo, evaluable economicamente e individualizado; antijuridicidad del daño; imputación a la Administración; relación de causalidad; y ausencia de fuerza mayor.
+Para que exista responsabilidad deben concurrir <mark>daño efectivo, evaluable economicamente e individualizado</mark>; <mark>antijuridicidad del daño</mark>; imputación a la Administración; <mark>relación de causalidad</mark>; y ausencia de fuerza mayor.
 
 | Presupuesto | Explicación |
 | --- | --- |
@@ -42,7 +42,7 @@ El daño debe ser real, no hipotetico. Debe poder valorarse economicamente. Debe
 
 La antijuridicidad significa que el perjudicado no tiene deber jurídico de soportar el daño. Una molestia derivada de una obra pública correctamente ejecutada puede no ser indemnizable si constituye carga general. En cambio, un perjuicio singular y excesivo puede generar responsabilidad.
 
-La relación causal exige conectar el funcionamiento del servicio con el daño. Si intervienen culpa exclusiva de la victima, fuerza mayor o conducta determinante de tercero, la responsabilidad puede excluirse o modularse.
+La relación causal exige conectar el funcionamiento del servicio con el daño. Si intervienen <mark>culpa exclusiva de la victima, fuerza mayor o conducta determinante de tercero</mark>, la responsabilidad puede excluirse o modularse.
 
 ## Daños resarcibles
 
@@ -66,9 +66,9 @@ La reclamación debe identificar al reclamante, daño sufrido, relación causal,
 
 ## Procedimiento
 
-La Ley 39/2015 regula especialidades de procedimientos de responsabilidad patrimonial. Es preceptivo solicitar informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión. Cuando las indemnizaciones superen cuantias o concurran supuestos previstos, puede ser necesario dictamen del Consejo de Estado u órgano consultivo autonómico.
+La <mark>Ley 39/2015</mark> regula especialidades de procedimientos de responsabilidad patrimonial. Es preceptivo solicitar informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión. Cuando las indemnizaciones superen cuantias o concurran supuestos previstos, puede ser necesario dictamen del Consejo de Estado u órgano consultivo autonómico.
 
-El plazo máximo para resolver suele ser de seis meses. Transcurrido sin resolución, la solicitud puede entenderse desestimada por silencio, permitiendo acudir a la vía contencioso-administrativa. Cuando la indemnización reclamada sea igual o superior a 50.000 euros, o a la cuantía que establezca la normativa autonómica correspondiente, durante la instrucción debe solicitarse dictamen del Consejo de Estado u órgano consultivo autonómico equivalente.
+El plazo máximo para resolver suele ser de <mark>seis meses</mark>. Transcurrido sin resolución, la solicitud puede entenderse desestimada por silencio, permitiendo acudir a la vía contencioso-administrativa. Cuando la indemnización reclamada sea igual o superior a 50.000 euros, o a la cuantía que establezca la normativa autonómica correspondiente, durante la instrucción debe solicitarse dictamen del Consejo de Estado u órgano consultivo autonómico equivalente.
 
 La resolución debe pronunciarse sobre existencia de relación causal, valoración del daño, cuantía y modo de indemnización. La indemnización puede abonarse en dinero o sustituirse por compensación en especie o pagos periodicos si procede y hay acuerdo.
 
@@ -83,9 +83,9 @@ La resolución debe pronunciarse sobre existencia de relación causal, valoraci�
 
 | Dato de procedimiento | Regla |
 |---|---|
-| Plazo para reclamar | Un año. |
+| Plazo para reclamar | <mark>Un año</mark>. |
 | Daños físicos o psíquicos | El plazo empieza desde curación o determinación de secuelas. |
-| Plazo máximo para resolver | Seis meses. |
+| Plazo máximo para resolver | <mark>Seis meses</mark>. |
 | Silencio | Desestimatorio. |
 | Informe del servicio causante | Preceptivo. |
 | Dictamen consultivo | Igual o superior a 50.000 euros, salvo cuantía autonómica distinta. |
@@ -121,4 +121,4 @@ La acción de regreso protege el interés público después de indemnizar. La Ad
 | Empleado público | Si hubo dolo, culpa o negligencia grave y relación causal con el daño. |
 | Culpa de la victima | Si rompe la causalidad o solo reduce la indemnización. |
 
-Para contestar bien este tema conviene seguir siempre el mismo orden: daño, antijuridicidad, causalidad, imputación al servicio, ausencia de fuerza mayor, plazo y procedimiento.
+Para contestar bien este tema conviene seguir siempre el mismo orden: <mark>daño, antijuridicidad, causalidad, imputación al servicio, ausencia de fuerza mayor, plazo y procedimiento</mark>.
