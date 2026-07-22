@@ -20,7 +20,7 @@ El Derecho de la contratación pública nació precisamente para resolver esta t
 
 ### 1.2 La Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público
 
-La vigente **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)** transpone al ordenamiento jurídico español las Directivas europeas 2014/24/UE (contratación en los sectores clásicos) y 2014/25/UE (contratación en los sectores del agua, energía, transportes y servicios postales), que refundieron y modernizaron el marco europeo de la contratación pública.
+La vigente **Ley 9/2017, de 8 de noviembre, de Contratos del Sector Público (LCSP)** transpone al ordenamiento jurídico español las Directivas europeas 2014/24/UE (contratación pública) y 2014/23/UE (contratos de concesión), que modernizaron el marco europeo de la contratación pública.
 
 La LCSP derogó el anterior Texto Refundido de la Ley de Contratos del Sector Público de 2011 (TRLCSP) y supone una reforma profunda en varios aspectos:
 
@@ -409,7 +409,7 @@ La LCSP impuso el uso **obligatorio de medios electrónicos** en todas las fases
 <ul>
   <li>FUNDAMENTOS Y NORMATIVA
     <ul>
-      <li>Ley 9/2017 LCSP — transpone Directivas 2014/24/UE y 2014/25/UE</li>
+      <li>Ley 9/2017 LCSP — transpone Directivas 2014/24/UE y 2014/23/UE</li>
       <li>Deroga el TRLCSP 2011</li>
       <li>Principios: publicidad / concurrencia / igualdad / transparencia /
         <ul>
