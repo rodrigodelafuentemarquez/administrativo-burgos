@@ -3,7 +3,6 @@ import { defineConfig } from 'astro/config';
 import remarkGfm from 'remark-gfm';
 import rehypeAutolinkHeadings from 'rehype-autolink-headings';
 import rehypeSlug from 'rehype-slug';
-import rehypeStudyHighlights from './src/utils/rehypeStudyHighlights.mjs';
 
 export default defineConfig({
   base: '/administrativo-burgos',
@@ -12,7 +11,6 @@ export default defineConfig({
     remarkPlugins: [remarkGfm],
     rehypePlugins: [
       rehypeSlug,
-      rehypeStudyHighlights,
       [
         rehypeAutolinkHeadings,
         {
