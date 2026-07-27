@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se revisó `rehypeStudyHighlights.mjs`. Se conservaron las marcas manuales de tratados, artículos, fechas, mayorías, órganos y conceptos nucleares; se añadieron solo `artículo 15 TUE`, `artículo 257 TFUE` y el recordatorio de la Carta, sin marcar párrafos completos. El motor automático no se modificó porque ya reconoce las cinco instituciones y las expresiones normativas relevantes. Se corrigieron tildes en texto próximo a marcas para evitar ruido visual.
 - **Tests añadidos/cambiados:** se añadieron 8 preguntas (`burgos-i08-deep-01` a `burgos-i08-deep-08`) sobre Alto Representante, presidencia rotatoria del Consejo, minoría de bloqueo, elección del Presidente de la Comisión, cuestión prejudicial obligatoria, actos no vinculantes, competencia compartida de consumidores y órganos consultivos. El banco queda en 52 preguntas, sin identificadores duplicados, con una única respuesta correcta y explicaciones útiles; se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de 52 preguntas, unicidad de identificadores, igualdad entre JSON editable y público, comprobación de marcas manuales, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** `38d0120` (`mejora profunda tema I.8 Unión Europea`), subido a `origin/main`.
+- **Commit realizado:** `c9263c5` (`mejora profunda tema I.8 Unión Europea`), subido a `origin/main` mediante actualización segura del commit previamente publicado.
 - **Siguiente tema sugerido:** I.9, Estatuto de Castilla y León; mantener separado el régimen estatutario de la organización general de las comunidades autónomas de I.3.
 
 ## 27 de julio de 2026, 10:46 (Europe/Madrid)
