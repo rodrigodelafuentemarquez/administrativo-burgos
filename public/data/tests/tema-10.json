@@ -590,5 +590,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii01-deep-01",
+    "tema": 10,
+    "pregunta": "Según el artículo 1.3 del Código Civil, ¿cuándo puede regir la costumbre?",
+    "opciones": [
+      "Siempre que exista una práctica administrativa reiterada",
+      "Solo en defecto de ley aplicable, si no es contraria a la moral o al orden público y resulta probada",
+      "Cuando contradiga una ley pero sea habitual en el municipio",
+      "Únicamente si la aprueba un reglamento"
+    ],
+    "correcta": 1,
+    "explicación": "La costumbre es subsidiaria, debe ser probada y no puede ser contraria a la moral ni al orden público. Una práctica administrativa no crea por sí sola una potestad.",
+    "referencia": "Tema II.1 · Código Civil, art. 1.3"
+  },
+  {
+    "id": "burgos-ii01-deep-02",
+    "tema": 10,
+    "pregunta": "Si una ley no fija una fecha especial de vigencia, ¿qué regla establece el artículo 2.1 del Código Civil?",
+    "opciones": [
+      "Entra en vigor al día siguiente de su publicación",
+      "Entra en vigor a los diez días de su aprobación",
+      "Entra en vigor a los veinte días de su completa publicación en el BOE",
+      "Entra en vigor a los treinta días de su publicación parcial"
+    ],
+    "correcta": 2,
+    "explicación": "La regla general se cuenta desde la completa publicación oficial y es de veinte días, salvo que la propia ley disponga otra cosa.",
+    "referencia": "Tema II.1 · Código Civil, art. 2.1"
+  },
+  {
+    "id": "burgos-ii01-deep-03",
+    "tema": 10,
+    "pregunta": "¿Cuál de estas materias está expresamente excluida del decreto-ley por el artículo 86.1 CE?",
+    "opciones": [
+      "La organización de un servicio administrativo ordinario",
+      "El régimen electoral general",
+      "La regulación interna de un ministerio",
+      "La aprobación de instrucciones administrativas"
+    ],
+    "correcta": 1,
+    "explicación": "El decreto-ley no puede afectar, entre otras materias, al régimen de las comunidades autónomas ni al Derecho electoral general.",
+    "referencia": "Tema II.1 · Constitución, art. 86.1"
+  },
+  {
+    "id": "burgos-ii01-deep-04",
+    "tema": 10,
+    "pregunta": "Para refundir varios textos legales, la delegación legislativa al Gobierno debe otorgarse mediante:",
+    "opciones": [
+      "Una ley ordinaria que autorice la refundición",
+      "Una ley de bases",
+      "Un decreto-ley del propio Gobierno",
+      "Una orden ministerial"
+    ],
+    "correcta": 0,
+    "explicación": "La ley de bases se utiliza para formar textos articulados; la refundición se autoriza mediante ley ordinaria.",
+    "referencia": "Tema II.1 · Constitución, art. 82.2"
+  },
+  {
+    "id": "burgos-ii01-deep-05",
+    "tema": 10,
+    "pregunta": "¿Qué afirmación está prohibida en una delegación legislativa de las Cortes al Gobierno?",
+    "opciones": [
+      "Que sea expresa, para una materia concreta y con fijación de plazo",
+      "Que permita al Gobierno subdelegar libremente en cualquier órgano administrativo",
+      "Que se otorgue mediante una ley",
+      "Que el Gobierno respete los límites de la ley delegante"
+    ],
+    "correcta": 1,
+    "explicación": "La Constitución prohíbe que el Gobierno subdelegue en autoridades distintas del propio Gobierno; además, la delegación debe ser expresa, concreta, legal y temporal.",
+    "referencia": "Tema II.1 · Constitución, arts. 82 y 83"
+  },
+  {
+    "id": "burgos-ii01-deep-06",
+    "tema": 10,
+    "pregunta": "Conforme al artículo 47.2 de la Ley 39/2015, una disposición administrativa que regule una materia reservada a ley es:",
+    "opciones": [
+      "Anulable únicamente si causa perjuicio económico",
+      "Nula de pleno derecho",
+      "Válida hasta que se apruebe otra disposición",
+      "Irregular, pero convalidable por el órgano superior"
+    ],
+    "correcta": 1,
+    "explicación": "La invasión de materias reservadas a ley es una causa legal de nulidad de pleno derecho de las disposiciones administrativas.",
+    "referencia": "Tema II.1 · Ley 39/2015, art. 47.2"
+  },
+  {
+    "id": "burgos-ii01-deep-07",
+    "tema": 10,
+    "pregunta": "¿Cuál de los siguientes NO es un principio de buena regulación del artículo 129 de la Ley 39/2015?",
+    "opciones": [
+      "Necesidad",
+      "Proporcionalidad",
+      "Transparencia",
+      "Oportunidad política sin justificación"
+    ],
+    "correcta": 3,
+    "explicación": "La LPAC exige necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, con justificación de la iniciativa normativa.",
+    "referencia": "Tema II.1 · Ley 39/2015, art. 129"
+  },
+  {
+    "id": "burgos-ii01-deep-08",
+    "tema": 10,
+    "pregunta": "¿Qué diferencia básica existe entre la consulta pública previa y la audiencia e información pública en la elaboración normativa?",
+    "opciones": [
+      "La consulta es posterior a la aprobación y la audiencia siempre anterior al texto",
+      "La consulta busca opiniones antes de elaborar el texto; la audiencia e información permiten formular observaciones sobre el texto en los casos previstos",
+      "Son trámites idénticos con distinto nombre",
+      "La audiencia solo se aplica a leyes orgánicas"
+    ],
+    "correcta": 1,
+    "explicación": "La consulta pública previa se sitúa antes de la elaboración del texto; audiencia e información pública se refieren al texto elaborado y tienen el alcance y excepciones de la ley.",
+    "referencia": "Tema II.1 · Ley 39/2015, art. 133"
+  },
+  {
+    "id": "burgos-ii01-deep-09",
+    "tema": 10,
+    "pregunta": "Una resolución individual del Ayuntamiento exime a una empresa de cumplir una regla general de una ordenanza vigente. ¿Qué regla se infringe?",
+    "opciones": [
+      "La inderogabilidad singular de las disposiciones generales",
+      "La vacatio legis",
+      "La delegación legislativa",
+      "La reserva de ley orgánica"
+    ],
+    "correcta": 0,
+    "explicación": "Una resolución particular no puede vulnerar ni dispensar de una disposición general, aunque proceda de un órgano de igual o superior jerarquía al que la aprobó.",
+    "referencia": "Tema II.1 · Ley 39/2015, art. 37"
+  },
+  {
+    "id": "burgos-ii01-deep-10",
+    "tema": 10,
+    "pregunta": "Según el artículo 1.6 del Código Civil, la jurisprudencia del Tribunal Supremo:",
+    "opciones": [
+      "Tiene el mismo rango que una ley formal",
+      "Complementa el ordenamiento con doctrina reiterada al interpretar y aplicar las fuentes",
+      "Puede derogar reglamentos directamente",
+      "Solo se aplica cuando no existe ninguna ley"
+    ],
+    "correcta": 1,
+    "explicación": "La jurisprudencia cumple una función complementaria mediante doctrina reiterada del Tribunal Supremo; no es una ley ni deroga por sí misma normas.",
+    "referencia": "Tema II.1 · Código Civil, art. 1.6"
   }
 ]

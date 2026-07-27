@@ -3,153 +3,194 @@ grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas
 tema: 1
 codigo: "Tema II.1"
 titulo: "Las fuentes del derecho administrativo. La jerarquía de las fuentes. La ley. Las disposiciones del ejecutivo con fuerza de ley: decreto-ley y decreto legislativo. El reglamento: concepto, clases y límites. Otras fuentes del derecho administrativo."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y mapa del tema
 
-Este tema se estudia sobre la <mark>Constitución Española</mark>, el Código Civil en materia de fuentes, la <mark>Ley 39/2015</mark>, la <mark>Ley 40/2015</mark> y la normativa reguladora de la potestad reglamentaria. En el ámbito local deben tenerse presentes la <mark>Ley 7/1985</mark>, reguladora de las Bases del Régimen Local, y las ordenanzas y reglamentos municipales.
+Las referencias básicas son la <mark>Constitución Española</mark> (arts. 9.1 y 9.3, 81 a 86, 97, 103, 105 y 106), el Título Preliminar del Código Civil (arts. 1 y 2), la <mark>Ley 39/2015</mark> (arts. 47.2, 128 a 133) y la Ley 40/2015 (arts. 3 y 22 a 27). Para el Ayuntamiento de Burgos deben añadirse la Ley 7/1985, reguladora de las Bases del Régimen Local, y la normativa autonómica y local dictada dentro de sus competencias.
 
-## Derecho administrativo y fuentes
+El hilo lógico para resolver una pregunta es:
 
-El Derecho administrativo es la rama del ordenamiento que regula la organización, funcionamiento y actividad de las Administraciones Públicas y sus relaciones con los ciudadanos y con otros sujetos públicos o privados cuando actuan en ejercicio de potestades administrativas.
+1. Identificar si se pregunta por una fuente formal, una norma con rango de ley, un reglamento o una regla interpretativa.
+2. Comprobar quién tiene competencia para aprobarla y qué procedimiento debe seguir.
+3. Aplicar jerarquía, competencia, especialidad y temporalidad.
+4. Verificar sus límites: Constitución, ley, reserva de ley, derechos y principios de buena regulación.
 
-Las fuentes del Derecho son los modos de producción de normas jurídicas. En el sistema español, el Código Civil menciona la ley, la costumbre y los principios generales del Derecho. En Derecho administrativo, la ley se entiende en sentido amplio: Constitución, leyes estatales y autonómicas, normas con rango de ley, reglamentos y Derecho de la Unión Europea. La costumbre tiene un papel mucho menor que en otros sectores, porque la Administración necesita habilitación jurídica expresa para actuar. Los principios generales tienen gran importancia para interpretar normas, cubrir lagunas y controlar la actuación administrativa.
+> **Para recordar:** la ley y la costumbre (en defecto de ley) y los principios generales (en defecto de ley y costumbre, además de su función informadora) son las fuentes enumeradas por el Código Civil. La jurisprudencia **complementa** el ordenamiento; no sustituye a la ley.
 
-| Fuente | Papel en Derecho administrativo |
+## 2. Derecho administrativo y fuentes del Derecho
+
+El Derecho administrativo es la rama del Derecho público que regula la organización, el funcionamiento y la actividad de las Administraciones Públicas, el ejercicio de sus potestades y sus relaciones con las personas y con otras entidades públicas o privadas cuando actúan sometidas al Derecho administrativo.
+
+Puede hablarse de Administración en dos sentidos:
+
+- **Subjetivo u orgánico:** conjunto de personas jurídicas públicas y órganos que integran las Administraciones Públicas.
+- **Objetivo o funcional:** actividad dirigida a servir con objetividad los intereses generales.
+
+Es un Derecho estatutario, porque regula de forma específica la posición jurídica de las Administraciones, y garantista, porque somete sus potestades a controles, procedimientos, recursos, responsabilidad patrimonial y control judicial. Que la Administración disponga de autotutela o potestad sancionadora no significa que pueda actuar sin cobertura jurídica.
+
+### 2.1. Fuentes formales y fuentes de conocimiento
+
+Las fuentes formales son los modos de creación de normas. Las fuentes de conocimiento son los instrumentos que permiten conocerlas, especialmente los diarios y boletines oficiales: BOE, boletines autonómicos y boletines provinciales, sin perjuicio de la publicidad exigible a las normas locales.
+
+El artículo 1.1 del Código Civil enumera como fuentes del ordenamiento jurídico español la ley, la costumbre y los principios generales del Derecho. El artículo 1.2 añade una regla de validez: carecen de validez las disposiciones que contradigan otra de rango superior.
+
+La costumbre solo rige en defecto de ley aplicable, debe ser probada y no puede ser contraria a la moral ni al orden público. Los usos jurídicos no meramente interpretativos de una declaración de voluntad tienen consideración de costumbre. En Derecho administrativo su papel es reducido por el principio de legalidad y porque una práctica administrativa no crea por sí sola una potestad.
+
+Los principios generales se aplican en defecto de ley o costumbre, pero también informan todo el ordenamiento y sirven para interpretar, integrar y controlar la actuación administrativa: legalidad, igualdad, proporcionalidad, buena fe, confianza legítima, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad, entre otros.
+
+## 3. Jerarquía, competencia y vigencia de las normas
+
+La <mark>jerarquía normativa</mark> impide que una norma inferior contradiga a otra superior. No debe confundirse con la competencia: una norma puede tener rango suficiente y, aun así, ser inválida si la dicta un órgano sin competencia material o territorial.
+
+| Criterio | Pregunta que resuelve | Ejemplo |
+|---|---|---|
+| Jerarquía | ¿Puede la norma inferior contradecir a la superior? | Una ordenanza no puede contradecir una ley. |
+| Competencia | ¿Quién puede regular esa materia y ámbito? | El Ayuntamiento actúa dentro de la competencia local. |
+| Especialidad | ¿Qué norma regula específicamente el supuesto? | La norma especial desplaza a la general en su ámbito. |
+| Temporalidad | ¿Cuál es posterior entre normas compatibles en rango? | La ley posterior deroga a la anterior incompatible. |
+
+Como esquema de estudio, la Constitución ocupa la posición suprema; los tratados válidamente celebrados y publicados se integran en el ordenamiento; las leyes y normas con rango de ley se sitúan por encima de los reglamentos. El Derecho de la Unión Europea tiene primacía de aplicación frente a la norma nacional incompatible dentro de su ámbito, pero esta regla de primacía no debe describirse como una simple escala interna de rangos.
+
+El artículo 95 CE exige autorización previa de las Cortes para tratados que contengan estipulaciones contrarias a la Constitución; el artículo 96 CE dispone que los tratados válidamente celebrados, una vez publicados oficialmente en España, forman parte del ordenamiento interno. La publicación íntegra es también la condición indicada por el artículo 1.5 del Código Civil para la aplicación directa de las normas contenidas en tratados.
+
+### 3.1. Entrada en vigor y derogación
+
+Según el artículo 2 del Código Civil, las leyes entran en vigor a los <mark>veinte días</mark> de su completa publicación en el <mark>BOE</mark>, si no disponen otra cosa. Ese periodo es la **vacatio legis**. La norma puede fijar una entrada en vigor distinta, incluso escalonada.
+
+Las leyes solo se derogan por otras posteriores. La derogación puede ser expresa o tácita; la tácita se extiende a lo que la ley nueva resulte incompatible con la anterior, pero no afecta a lo que pueda seguir aplicándose. Una norma no se deroga por desuso, costumbre o simple cambio de criterio administrativo.
+
+## 4. La ley
+
+La ley es una norma primaria aprobada por las Cortes Generales o por una asamblea legislativa autonómica dentro de su competencia. Vincula a la Administración y puede habilitar el ejercicio de potestades que incidan sobre derechos, obligaciones, sanciones, tributos o patrimonio.
+
+### 4.1. Ley orgánica y ley ordinaria
+
+Son materias reservadas a ley orgánica las relativas al desarrollo de los derechos fundamentales y libertades públicas, los Estatutos de Autonomía, el régimen electoral general y las demás previstas expresamente en la Constitución. Su aprobación, modificación o derogación exige <mark>mayoría absoluta del Congreso</mark> en una votación final sobre el conjunto.
+
+La ley ordinaria regula las materias no reservadas a ley orgánica. La diferencia esencial entre ambas es la materia reservada y el procedimiento constitucional, no una superioridad general de la ley orgánica sobre toda ley ordinaria. Una ley ordinaria no puede invadir una reserva orgánica; una ley orgánica tampoco debe regular materias ajenas a su reserva con la misma rigidez material.
+
+> **Error típico de test:** la ley orgánica no se aprueba por mayoría absoluta de las dos Cámaras. La exigencia constitucional se refiere al Congreso y a la votación final sobre el conjunto.
+
+Entre las leyes ordinarias con especial función territorial están las leyes marco (art. 150.1 CE), las leyes orgánicas de transferencia o delegación (art. 150.2 CE) y las leyes de armonización (art. 150.3 CE). No deben confundirse con la delegación legislativa de los artículos 82 a 85 CE, que se dirige al Gobierno.
+
+## 5. Disposiciones del ejecutivo con fuerza de ley
+
+### 5.1. Decreto-ley
+
+El Gobierno puede dictar disposiciones legislativas provisionales que adoptan la forma de decreto-ley únicamente en caso de <mark>extraordinaria y urgente necesidad</mark>. No es una ley parlamentaria ni una potestad ordinaria para legislar por conveniencia política.
+
+El decreto-ley no puede afectar al ordenamiento de las instituciones básicas del Estado, a los derechos, deberes y libertades del Título I CE, al régimen de las comunidades autónomas ni al Derecho electoral general. El Congreso debe debatirlo y votarlo en el plazo de <mark>treinta días</mark> desde su promulgación para convalidarlo o derogarlo; el acuerdo corresponde al Congreso aun cuando el Senado no interviene en esa convalidación. Las Cortes pueden tramitarlo como proyecto de ley por el procedimiento de urgencia.
+
+| Decreto-ley | Regla de examen |
 |---|---|
-| Constitución | Norma suprema y fundamento del sistema. |
-| Ley y normas con rango de ley | Habilitan y limitan la actuación administrativa. |
-| Reglamento | Desarrolla y completa la ley dentro de sus límites. |
-| Principios generales | Interpretan, integran y controlan la actividad administrativa. |
-| Costumbre | Papel reducido por el principio de legalidad. |
+| Presupuesto habilitante | Extraordinaria y urgente necesidad. |
+| Naturaleza | Disposición legislativa provisional del Gobierno. |
+| Control | Convalidación o derogación por el Congreso en 30 días. |
+| Límites | Instituciones básicas, Título I, comunidades autónomas y régimen electoral general. |
 
-El <mark>artículo 1.1</mark> del Código Civil formula las fuentes del ordenamiento jurídico español como `la ley, la costumbre y los principios generales del Derecho`. En Derecho Administrativo esa lista debe leerse con cautela: la costumbre solo tiene función muy limitada, porque la Administración no puede crear potestades por práctica repetida.
+### 5.2. Decreto legislativo
 
-La entrada en vigor de las leyes también aparece en test. Si la ley no dispone otra cosa, entra en vigor a los <mark>veinte días</mark> de su completa publicación en el <mark>BOE</mark>. Ese periodo entre publicación y entrada en vigor se denomina `vacatio legis`; puede ser más largo, más corto o no existir si la norma así lo establece.
+Es una norma con rango de ley que dicta el Gobierno por **delegación expresa** de las Cortes Generales. La delegación debe otorgarse mediante ley, referirse a una materia concreta y fijar un plazo para su ejercicio. No puede permitir la subdelegación a autoridades distintas del propio Gobierno.
 
-## Jerarquia normativa
+| Finalidad | Norma delegante | Resultado |
+|---|---|---|
+| Formar un texto articulado | Ley de bases | El Gobierno desarrolla los principios y criterios fijados por las bases. |
+| Refundir textos legales | Ley ordinaria | El Gobierno integra textos; la autorización puede incluir regularizar, aclarar y armonizar. |
 
-La jerarquía normativa significa que las normas inferiores no pueden contradecir a las superiores. La Constitución ocupa la posición suprema. Por debajo se situan el Derecho de la Unión Europea en los términos derivados de sus principios de primacia y aplicación, los tratados internacionales validamente celebrados y publicados, las leyes y normas con rango de ley, y los reglamentos.
+La ley de bases debe delimitar objeto y alcance de la delegación y los principios y criterios que han de seguirse. No puede autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo. La autorización para refundir debe precisar si se limita a formular un texto único o si permite regularizar, aclarar y armonizar.
 
-La jerarquía se combina con otros criterios. El principio de competencia determina que una norma solo es valida si el órgano que la aprueba tiene competencia material y territorial. Por eso una ley autonómica puede regular materias de competencia autonómica, pero no invadir competencias estatales. El principio de especialidad permite que una norma específica prevalezca sobre una general en su ámbito propio. El principio temporal hace que la norma posterior derogue la anterior si tienen el mismo rango y regulan la misma materia de forma incompatible.
+La delegación se agota cuando se utiliza mediante la publicación del decreto legislativo. Los tribunales pueden controlar el exceso en la delegación y la Constitución prevé además controles parlamentarios conforme a la ley delegante. **Regla mnemotécnica:** decreto-ley = urgencia; decreto legislativo = delegación.
 
-| Criterio | Función |
-|---|---|
-| Jerarquia | La norma inferior no puede contradecir a la superior. |
-| Competencia | El órgano debe poder regular esa materia y ese territorio. |
-| Especialidad | La norma especial desplaza a la general en su ámbito propio. |
-| Temporalidad | La norma posterior deroga a la anterior incompatible del mismo rango. |
+## 6. El reglamento
 
-### Escalon básico de fuentes
+El reglamento es una disposición administrativa de carácter general, subordinada a la Constitución y a la ley, dictada por una Administración con potestad reglamentaria. No es un acto administrativo singular: contiene reglas generales y abstractas destinadas a una pluralidad indeterminada de supuestos o destinatarios.
 
-1. `Constitución`.
-2. `Tratados internacionales` y Derecho de la Unión Europea en su ámbito.
-3. `Leyes` y normas con rango de ley.
-4. `Reglamentos`.
+La potestad reglamentaria estatal corresponde al Gobierno (art. 97 CE); en el ámbito local, el Pleno ejerce la potestad normativa municipal mediante ordenanzas y reglamentos dentro de la competencia local. La competencia reglamentaria no permite alterar el reparto constitucional o legal de competencias.
 
-## La ley
+### 6.1. Clases
 
-La ley es la norma aprobada por las Cortes Generales o por los Parlamentos autonómicos dentro de sus competencias. En el ámbito estatal hay leyes orgánicas y leyes ordinarias. La ley orgánica se reserva a materias especialmente protegidas: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas por la Constitución. Su aprobación exige <mark>mayoría absoluta</mark> del Congreso en votación final sobre el conjunto.
+- **Ejecutivos:** desarrollan y completan una ley.
+- **Independientes:** regulan materias no reservadas a ley, especialmente organizativas, sin contradecirla.
+- **De necesidad:** responden a situaciones excepcionales y están sometidos a una habilitación y límites especialmente estrictos.
+- **Organizativos:** ordenan la estructura y funcionamiento interno.
+- **Externos:** inciden en la esfera jurídica de la ciudadanía.
 
-La ley ordinaria regula las materias no reservadas a ley orgánica y se aprueba por el procedimiento legislativo ordinario. En el ámbito autonómico, las Cortes de Castilla y León pueden aprobar leyes en materias de competencia de la Comunidad.
+También pueden clasificarse por el órgano que los dicta: estatales, autonómicos o locales. En la Administración del Estado, la denominación formal ayuda a identificar el órgano competente: real decreto del Gobierno, orden ministerial u otras disposiciones inferiores, siempre respetando la jerarquía reglamentaria.
 
-Para la Administración, la ley es limite y habilitación. Limite, porque no puede actuar contra ella. Habilitación, porque muchas potestades administrativas solo pueden ejercerse si existe cobertura legal: sancionar, expropiar, liquidar tributos, exigir prestaciones, limitar derechos o imponer obligaciones.
+### 6.2. Límites e invalidez
 
-| Ley | Contenido esencial |
-|---|---|
-| Órgano aprobador | Cortes Generales o Parlamentos autonómicos competentes. |
-| Clases estatales | Ley orgánica y ley ordinaria. |
-| Reserva de ley | Hay materias que solo pueden regularse por ley. |
-| Función administrativa | Limitar y habilitar el ejercicio de potestades. |
+El reglamento:
 
-### Materias típicas de reserva de ley
+1. No puede vulnerar la Constitución, las leyes ni otro reglamento superior.
+2. No puede regular materias reservadas a ley.
+3. No puede tipificar delitos o infracciones, establecer penas o sanciones ni crear tributos o prestaciones patrimoniales públicas sin cobertura legal suficiente.
+4. No puede establecer retroactividad desfavorable de disposiciones sancionadoras o restrictivas de derechos individuales.
+5. Debe respetar competencia, igualdad, proporcionalidad, seguridad jurídica e interdicción de la arbitrariedad.
 
-- Derechos y libertades en los términos constitucionales.
-- Potestad sancionadora.
-- Tributos.
-- Expropiación.
-- Bases del régimen jurídico de las Administraciones Públicas cuando proceda.
+Las disposiciones administrativas que vulneren la Constitución, las leyes o disposiciones superiores, regulen materias reservadas a ley o incurran en los restantes supuestos del artículo 47.2 LPAC son <mark>nulas de pleno derecho</mark>. Además, una resolución particular no puede dispensar de la aplicación de una disposición general: es la regla de inderogabilidad singular del artículo 37 LPAC.
 
-## Decreto-ley y decreto legislativo
+El control judicial de la potestad reglamentaria corresponde a los órganos de la jurisdicción contencioso-administrativa (art. 106 CE). La Administración no puede validar un reglamento nulo mediante una resolución posterior ni convertirlo en válido porque no haya sido impugnado inmediatamente.
 
-El decreto-ley es una disposición normativa con rango de ley dictada por el Gobierno en caso de extraordinaria y urgente necesidad. No puede afectar a determinadas materias: ordenamiento de las instituciones básicas del Estado, derechos, deberes y libertades del título I de la Constitución, régimen de las comunidades autónomas ni Derecho electoral general. Debe ser sometido a debate y votación de totalidad en el Congreso para su convalidación o derogación.
+### 6.3. Buena regulación y elaboración
 
-El decreto legislativo es una norma con rango de ley dictada por el Gobierno en virtud de delegación expresa de las Cortes Generales. La delegación puede adoptar la forma de ley de bases, para aprobar textos articulados, o ley ordinaria, para refundir textos legales. El Gobierno no legisla libremente: actúa dentro de los límites de la delegación.
+En la iniciativa legislativa y la potestad reglamentaria deben observarse los principios de **necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia** (art. 129 LPAC). La regulación debe responder a un interés general, ser el instrumento adecuado, contener solo la regulación imprescindible y evitar cargas innecesarias.
 
-Las comunidades autónomas pueden tener instituciones equivalentes en sus Estatutos, dentro del marco constitucional.
+Como esquema general de participación normativa, el artículo 133 LPAC contempla consulta pública previa y, después, audiencia e información pública cuando proceda, con las excepciones legales. En la elaboración de reglamentos estatales se incorporan los informes y memorias exigibles y, cuando corresponda, el dictamen del Consejo de Estado. En el ámbito local, la aprobación de ordenanzas sigue su procedimiento específico, que se estudia con detalle en el Tema II.12.
 
-| Norma con fuerza de ley | Rasgo distintivo |
-|---|---|
-| Decreto-ley | Extraordinaria y urgente necesidad; control posterior del Congreso. |
-| Decreto legislativo | Delegación previa de las Cortes al Gobierno. |
-| Limite común | Tienen rango de ley, pero no son una ley parlamentaria ordinaria. |
+> **Muy importante:** consulta pública previa, audiencia e información pública no son sinónimos. La primera busca conocer problemas y alternativas antes de redactar; las otras permiten formular observaciones sobre el texto elaborado, en los supuestos legalmente previstos.
 
-| Dato de examen | Regla |
-|---|---|
-| Decreto-ley | Extraordinaria y urgente necesidad. |
-| Control del decreto-ley | Debate y votación de totalidad en el Congreso en el plazo de <mark>treinta días</mark> desde su promulgación. |
-| Decreto legislativo para texto articulado | La delegación se otorga mediante ley de bases. |
-| Decreto legislativo para texto refundido | La delegación se otorga mediante ley ordinaria. |
+## 7. Otras fuentes y reglas complementarias
 
-### Diferencias que conviene fijar
+### 7.1. Tratados y Derecho de la Unión Europea
 
-1. El `decreto-ley` nace por urgencia.
-2. El `decreto legislativo` nace por delegación.
-3. En el decreto legislativo, el Gobierno debe respetar estrictamente la ley delegante.
+Los tratados válidamente celebrados y publicados oficialmente forman parte del ordenamiento interno. El Derecho de la Unión Europea se aplica con primacía frente a la norma nacional incompatible dentro de su ámbito; los reglamentos europeos son directamente aplicables y las directivas obligan en cuanto al resultado, normalmente mediante transposición nacional.
 
-La delegación legislativa se agota por el uso que haga de ella el Gobierno mediante la publicación del decreto legislativo correspondiente. No cabe una delegación indefinida ni una habilitación genérica para legislar sobre cualquier materia.
+### 7.2. Jurisprudencia
 
-| Delegación | Norma delegante | Resultado | Contenido de la delegación |
+El artículo 1.6 del Código Civil establece que la jurisprudencia complementa el ordenamiento con la doctrina reiterada del Tribunal Supremo al interpretar y aplicar la ley, la costumbre y los principios generales. Por tanto, no es una fuente formal directa equiparable a la ley. Las sentencias del Tribunal Constitucional tienen los efectos previstos constitucional y legalmente, incluida la expulsión del ordenamiento de las normas declaradas inconstitucionales.
+
+### 7.3. Interpretación y principios
+
+Las normas se interpretan atendiendo a su tenor literal, contexto, antecedentes históricos y legislativos, realidad social del tiempo y espíritu y finalidad (art. 3 CC). La analogía no puede utilizarse para extender normas penales, excepcionales o temporales a supuestos no previstos.
+
+Los principios generales permiten resolver lagunas y orientan el control de la discrecionalidad. No autorizan a la Administración a apartarse de una ley clara: la buena fe, confianza legítima, proporcionalidad o igualdad actúan dentro del marco jurídico.
+
+## 8. Cuadro final de diferencias
+
+| Figura | Quién la dicta | Presupuesto o función | Control o límite clave |
 |---|---|---|---|
-| Texto articulado | Ley de bases | Decreto legislativo que articula una regulación nueva. | Las bases delimitan objeto, alcance, principios y criterios. |
-| Texto refundido | Ley ordinaria | Decreto legislativo que integra textos legales existentes. | Puede limitarse a refundir o incluir regularización, aclaración y armonización si se autoriza. |
+| Ley orgánica | Cortes Generales | Materias reservadas por la Constitución | Mayoría absoluta del Congreso en votación final de conjunto. |
+| Ley ordinaria | Cortes Generales o asamblea autonómica competente | Materias no reservadas | Constitución y reparto de competencias. |
+| Decreto-ley | Gobierno | Extraordinaria y urgente necesidad | Congreso en 30 días y límites del art. 86 CE. |
+| Decreto legislativo | Gobierno | Delegación expresa de las Cortes | Ley delegante, materia concreta y plazo. |
+| Reglamento | Administración competente | Desarrollo, organización o regulación permitida | Subordinación a Constitución, ley y reglamentos superiores. |
+| Costumbre | Práctica jurídica | En defecto de ley y con prueba | No contraria a moral u orden público. |
+| Jurisprudencia | Tribunal Supremo, principalmente | Interpretar y aplicar el ordenamiento | Complementa; no legisla. |
 
-**Cuidado en test:** la ley de bases no puede autorizar la modificación de la propia ley de bases ni facultar para dictar normas con carácter retroactivo.
+## 9. Esquema rápido y errores típicos
 
-## El reglamento
+**Fuente → rango/competencia → vigencia → límites → control.** Si el supuesto menciona urgencia, piensa en decreto-ley; si menciona autorización previa de las Cortes, en decreto legislativo; si menciona desarrollo de una ley, en reglamento ejecutivo.
 
-El reglamento es una norma jurídica de rango inferior a la ley dictada por una Administración Pública en ejercicio de potestad reglamentaria. En el Estado, la potestad reglamentaria corresponde al Gobierno, sin perjuicio de la potestad de los Ministros en su ámbito. En las entidades locales, el Pleno aprueba ordenanzas y reglamentos en materias de competencia local.
+Errores frecuentes:
 
-Los reglamentos pueden clasificarse por su origen en estatales, autonómicos y locales. Por su relación con la ley pueden ser ejecutivos, cuando desarrollan una ley; independientes, cuando regulan materias no reservadas a ley; y de necesidad, en supuestos excepcionales y con fuertes límites. Por su contenido pueden ser organizativos, si ordenan la estructura interna de la Administración, o normativos externos, si afectan a ciudadanos.
+- Confundir mayoría absoluta del Congreso con mayoría de ambas Cámaras para una ley orgánica.
+- Creer que todo decreto del Gobierno es decreto legislativo: este exige delegación parlamentaria previa.
+- Olvidar que el decreto-ley es provisional y debe pasar por el Congreso en 30 días.
+- Tratar la jurisprudencia como fuente formal directa o la costumbre administrativa como habilitación de potestades.
+- Decir que la ley orgánica tiene siempre rango superior a la ordinaria.
+- Confundir consulta pública previa con audiencia e información pública.
+- Pensar que una resolución singular puede dispensar de una ordenanza o reglamento vigente.
+- Confundir primacía del Derecho de la Unión con una simple posición ordinal en la jerarquía interna.
 
-Los límites del reglamento son esenciales. No puede vulnerar la Constitución ni la ley, regular materias reservadas a ley, establecer delitos o penas, crear tributos fuera de habilitación legal, imponer obligaciones sin cobertura suficiente ni actuar retroactivamente en perjuicio de derechos. Los tribunales controlan la potestad reglamentaria y pueden declarar la nulidad de reglamentos ilegales.
+### Caso breve
 
-La <mark>Ley 39/2015</mark> recuerda que los reglamentos y disposiciones administrativas no pueden vulnerar la Constitución ni las leyes, regular materias reservadas a ley, tipificar delitos, faltas o infracciones administrativas, establecer penas o sanciones, ni tributos, exacciones parafiscales u otras cargas o prestaciones personales o patrimoniales de carácter público.
+Si el Ayuntamiento pretende imponer mediante una ordenanza una sanción no prevista en una ley, la ordenanza no puede crear válidamente esa infracción y sanción. Debe existir cobertura legal suficiente y la regulación local debe respetar la Constitución, la ley y la competencia municipal. Si además una resolución individual exceptúa a una empresa de una regla general de la ordenanza, opera la prohibición de inderogabilidad singular.
 
-| Reglamento | Idea clave |
-|---|---|
-| Rango | Inferior a la ley. |
-| Autor | Administraciones Públicas con potestad reglamentaria. |
-| Función | Desarrollar, completar u organizar la aplicación de la ley. |
-| Control | Sometido a la ley y a control judicial. |
+### Fuentes oficiales de consulta
 
-| Clases de reglamentos | Carácter |
-|---|---|
-| Ejecutivos | Desarrollan una ley. |
-| Independientes | Regulan materias no reservadas a ley. |
-| De necesidad | Surgen en situaciones excepcionales, con límites intensos. |
-| Organizativos | Ordenan la estructura interna administrativa. |
-| Normativos externos | Inciden sobre ciudadanos o relaciones externas. |
-
-### Limites clasicos del reglamento
-
-- `No` puede contradecir la ley.
-- `No` puede entrar en materias reservadas a ley.
-- `No` puede imponer sanciones o tributos sin cobertura legal suficiente.
-- `No` puede vulnerar principios como seguridad jurídica o irretroactividad lesiva.
-
-## Otras fuentes
-
-Los tratados internacionales forman parte del ordenamiento una vez validamente celebrados y publicados oficialmente. El Derecho de la Unión Europea tiene primacia sobre el Derecho nacional incompatible dentro de su ámbito de competencia.
-
-La jurisprudencia complementa el ordenamiento al interpretar y aplicar la ley, la costumbre y los principios generales. En Derecho administrativo tiene especial importancia la jurisprudencia del Tribunal Supremo, del Tribunal Constitucional y del Tribunal de Justicia de la Unión Europea.
-
-Los principios generales del Derecho son fuente esencial en la actuación administrativa: legalidad, proporcionalidad, igualdad, buena fe, confianza legitima, seguridad jurídica, interdicción de la arbitrariedad, responsabilidad, transparencia y servicio al interés general.
-
-| Otras fuentes o referencias | Utilidad |
-|---|---|
-| Tratados internacionales | Se integran en el ordenamiento tras su publicación oficial. |
-| Derecho de la Unión Europea | Tiene primacia en su ámbito. |
-| Jurisprudencia | Interpreta y complementa el ordenamiento. |
-| Principios generales | Cubren lagunas y orientan el control de la Administración. |
+- [Constitución Española consolidada (BOE)](https://www.boe.es/eli/es/c/1978/12/27/(1)/con)
+- [Código Civil consolidado (BOE)](https://www.boe.es/eli/es/rd/1889/07/24/(1)/con)
+- [Ley 39/2015, de 1 de octubre (BOE)](https://www.boe.es/eli/es/l/2015/10/01/39/con)
+- [Ley 40/2015, de 1 de octubre (BOE)](https://www.boe.es/eli/es/l/2015/10/01/40/con)
