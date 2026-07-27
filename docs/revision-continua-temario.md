@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se leyó `rehypeStudyHighlights.mjs`; el motor automático ya cubre leyes, artículos, fechas, mayorías y muchos órganos/conceptos. Se redujo el resaltado manual ruidoso del borrador y se dejaron cinco marcas nucleares: régimen de municipios de gran población, Secretaría General, Intervención General, Asesoría Jurídica y Órgano de Gestión Tributaria y de Tesorería. No se modificó el motor común; las marcas están cerradas y no abarcan párrafos.
 - **Tests añadidos/cambiados:** se añadieron 10 preguntas (`burgos-i07-deep-01` a `burgos-i07-deep-10`) sobre proyecto/presupuesto general, límite de un tercio de la JGL, Secretaría de la JGL, funciones de Intervención, composición local de la Secretaría, TEAM, Tenientes, Comisión de Sugerencias, sesiones mensuales de Burgos y diferencia Secretaría/Intervención. El banco queda en 44 preguntas, sin identificadores duplicados, con una única respuesta correcta y explicaciones jurídicas útiles; se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de 44 preguntas, unicidad y sincronización editable/pública, comprobación de marcas manuales, `git diff --check` y `npm run build` completados correctamente (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `ba7a117` (`mejora profunda tema I.7 organización de Burgos`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.8, Unión Europea e instituciones; revisar que el alcance quede limitado a las instituciones citadas en el programa y evitar duplicidades con fuentes del Derecho de II.1.
 
 ## 27 de julio de 2026, 10:47 (Europe/Madrid)
