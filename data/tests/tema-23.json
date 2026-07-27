@@ -172,16 +172,16 @@
   {
     "id": "t23-p025-funcionario-carrera",
     "tema": 23,
-    "pregunta": "En situaciones administrativas de los funcionarios, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de los siguientes requisitos:",
+    "pregunta": "Según el artículo 62 TREBEP, la condición de funcionario de carrera se adquiere mediante el cumplimiento sucesivo de:",
     "opciones": [
-      "Superación del proceso selectivo, nombramiento por el órgano competente y toma de posesión dentro del plazo establecido",
+      "Superación del proceso selectivo, nombramiento publicado, acatamiento de la Constitución y toma de posesión dentro del plazo establecido",
       "Nombramiento provisional, período de prueba y evaluación del desempeño",
       "Superación del concurso de traslados, adscripción provisional y toma de posesión",
       "Aprobación de la OEP, publicación en el BOCYL y juramento ante las Cortes"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera de forma expresa esos tres requisitos sucesivos para adquirir la condición de funcionario de carrera.",
-    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
+    "explicación": "El artículo 62 exige cuatro pasos: superar el proceso selectivo; obtener nombramiento del órgano competente, publicado en el diario oficial; acatar la Constitución y, en su caso, el Estatuto de Autonomía y el resto del ordenamiento; y tomar posesión en plazo.",
+    "referencia": "TREBEP · art. 62 · Tema III.2"
   },
   {
     "id": "t46-p029",
@@ -412,5 +412,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-iii02-deep-01",
+    "tema": 23,
+    "pregunta": "¿Cuál de los siguientes elementos NO forma parte del cumplimiento sucesivo exigido para adquirir la condición de funcionario de carrera?",
+    "opciones": [
+      "La aprobación de la oferta de empleo público",
+      "La superación del proceso selectivo",
+      "El acto de acatamiento de la Constitución",
+      "La toma de posesión dentro del plazo establecido"
+    ],
+    "correcta": 0,
+    "explicación": "La OEP planifica necesidades de personal, pero no es uno de los cuatro requisitos del artículo 62 TREBEP; sí lo son proceso selectivo, nombramiento publicado, acatamiento y toma de posesión.",
+    "referencia": "TREBEP · art. 62 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-02",
+    "tema": 23,
+    "pregunta": "La renuncia voluntaria a la condición de funcionario de carrera debe ser:",
+    "opciones": [
+      "Manifestada por escrito y aceptada expresamente por la Administración",
+      "Siempre verbal y aceptada por el superior jerárquico",
+      "Tácita cuando no se toma posesión de un nuevo puesto",
+      "Aprobada en todo caso por el Pleno municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 64 TREBEP exige renuncia voluntaria por escrito y aceptación expresa. No puede aceptarse si existe expediente disciplinario o auto de procesamiento o apertura de juicio oral por delito.",
+    "referencia": "TREBEP · art. 64 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-03",
+    "tema": 23,
+    "pregunta": "La inhabilitación especial firme produce la pérdida de la condición de funcionario:",
+    "opciones": [
+      "Respecto de los empleos o cargos especificados en la sentencia",
+      "Respecto de todos los empleos y cargos que tuviera",
+      "Solo durante seis meses",
+      "Nunca, porque solo la inhabilitación absoluta tiene efectos funcionariales"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 66 distingue: la inhabilitación absoluta afecta a todos los empleos o cargos; la especial, únicamente a los que especifique la sentencia firme.",
+    "referencia": "TREBEP · art. 66 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-04",
+    "tema": 23,
+    "pregunta": "La rehabilitación de quien perdió la condición por inhabilitación puede concederse:",
+    "opciones": [
+      "Excepcionalmente por el órgano de gobierno, a petición del interesado, y el silencio es desestimatorio",
+      "Automáticamente al cumplir cinco años desde la sentencia",
+      "Solo por el tribunal que dictó la sentencia, con silencio estimatorio",
+      "Nunca en ningún caso"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 68.2 permite una rehabilitación excepcional por el órgano de gobierno, valorando las circunstancias y la entidad del delito; si no hay resolución expresa en plazo, la solicitud se entiende desestimada.",
+    "referencia": "TREBEP · art. 68.2 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-05",
+    "tema": 23,
+    "pregunta": "¿Cuál es la lista básica de situaciones administrativas del artículo 85 TREBEP?",
+    "opciones": [
+      "Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones",
+      "Servicio activo, comisión de servicios, jubilación, excedencia y sanción",
+      "Servicio activo, promoción interna, concurso, excedencia y retiro",
+      "Servicios especiales, personal eventual, interinidad, excedencia y jubilación"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 85 enumera servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones. La comisión de servicios no aparece como situación autónoma en esa lista.",
+    "referencia": "TREBEP · art. 85 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-06",
+    "tema": 23,
+    "pregunta": "El funcionario en servicio en otras Administraciones Públicas conserva, con carácter general:",
+    "opciones": [
+      "Su condición de funcionario de la Administración de origen y el derecho a participar en sus convocatorias de provisión",
+      "Solo la condición de personal laboral de la Administración de destino",
+      "La reserva automática del mismo puesto de origen en todos los casos",
+      "Ningún derecho relacionado con su Administración de procedencia"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 88.3 mantiene la condición de origen y el derecho a participar en sus convocatorias de provisión; el régimen concreto de reserva depende del supuesto y de la normativa aplicable.",
+    "referencia": "TREBEP · art. 88 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-07",
+    "tema": 23,
+    "pregunta": "La excedencia voluntaria por interés particular queda subordinada:",
+    "opciones": [
+      "A las necesidades del servicio debidamente motivadas",
+      "A la autorización de los representantes sindicales",
+      "A que exista siempre reserva del puesto",
+      "A que el funcionario no haya prestado nunca servicios públicos"
+    ],
+    "correcta": 0,
+    "explicación": "Además del período básico de cinco años de servicios efectivos, su concesión se subordina a necesidades del servicio debidamente motivadas y no procede durante la instrucción de expediente disciplinario.",
+    "referencia": "TREBEP · art. 89.2 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-08",
+    "tema": 23,
+    "pregunta": "En la excedencia por cuidado de familiares, el familiar puede ser, como máximo, de:",
+    "opciones": [
+      "Segundo grado de consanguinidad o afinidad",
+      "Primer grado de consanguinidad exclusivamente",
+      "Tercer grado de consanguinidad o afinidad",
+      "Cualquier grado, sin límite legal"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 89.4 exige que el familiar esté a cargo, hasta el segundo grado inclusive, no pueda valerse por sí mismo por las causas legales y no desempeñe actividad retribuida.",
+    "referencia": "TREBEP · art. 89.4 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-09",
+    "tema": 23,
+    "pregunta": "La excedencia por cuidado de hijos o familiares tiene una duración máxima básica de:",
+    "opciones": [
+      "Tres años",
+      "Dos años",
+      "Seis meses",
+      "Dieciocho meses"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 89.4 reconoce un período no superior a tres años por cada hijo o por el familiar que reúna los requisitos legales. Los dos años son la reserva mínima del puesto, no la duración máxima de la excedencia.",
+    "referencia": "TREBEP · art. 89.4 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-10",
+    "tema": 23,
+    "pregunta": "En la excedencia por cuidado de familiares, el puesto de trabajo se reserva, al menos, durante:",
+    "opciones": [
+      "Dos años; después, la reserva es a un puesto de la misma localidad y de igual retribución",
+      "Seis meses; después desaparece cualquier garantía",
+      "Tres años en el mismo puesto en todo caso",
+      "Dieciocho meses y siempre en otra localidad"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 89.4 reserva el puesto desempeñado al menos durante dos años. Transcurrido ese tiempo, la reserva pasa a un puesto de la misma localidad y de igual retribución.",
+    "referencia": "TREBEP · art. 89.4 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-11",
+    "tema": 23,
+    "pregunta": "En la excedencia por violencia de género o violencia sexual, la reserva inicial del puesto es de:",
+    "opciones": [
+      "Seis meses, prorrogables por períodos de tres hasta un máximo de dieciocho meses cuando lo exijan las actuaciones judiciales",
+      "Dos años sin posibilidad de prórroga",
+      "Tres años por cada denuncia presentada",
+      "Un mes, prorrogable hasta seis"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 89.5 establece seis meses de reserva, con prórrogas de tres meses y un máximo de dieciocho cuando las actuaciones judiciales lo exijan.",
+    "referencia": "TREBEP · art. 89.5 · Tema III.2"
+  },
+  {
+    "id": "burgos-iii02-deep-12",
+    "tema": 23,
+    "pregunta": "La suspensión de funciones determina la pérdida del puesto de trabajo cuando excede de:",
+    "opciones": [
+      "Seis meses",
+      "Tres meses",
+      "Un año",
+      "Seis años"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 90.1 establece que la suspensión determina la pérdida del puesto cuando excede de seis meses. Los seis años son el límite máximo de la suspensión firme disciplinaria, no el umbral de pérdida del puesto.",
+    "referencia": "TREBEP · art. 90 · Tema III.2"
   }
 ]
