@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se leyó `src/utils/rehypeStudyHighlights.mjs` antes de editar. Se retiraron las marcas extensas y duplicadas del borrador y se dejaron solo tres marcas manuales breves: `habilitación normativa`, `non bis in idem` y `prescripción`. Las leyes, artículos, plazos, órganos y conceptos quedan al motor automático; no se modificó el motor común. Se comprobó que no hay marcas mal cerradas ni párrafos completos resaltados.
 - **Tests añadidos/cambiados:** se añadieron 10 preguntas `burgos-ii08-deep-01` a `burgos-ii08-deep-10`, sobre prescripción, caducidad, contenido del inicio, límites de la resolución, reducciones del artículo 85, medidas provisionales, artículo 139 LRBRL, límites del artículo 141, non bis in idem y método de resolución local. El banco pasa de 25 a 35 preguntas, sin identificadores duplicados; se sincronizó la copia pública con `npm run prepare:data`.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de estructura, 35 preguntas, unicidad, tema y explicaciones, igualdad entre JSON editable y público, revisión de marcas manuales, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** `5f07d62` (`mejora profunda tema II.8 potestad sancionadora`), subido a `origin/main`.
+- **Commit realizado:** `8202aed` (`mejora profunda tema II.8 potestad sancionadora`), subido a `origin/main`.
 - **Siguiente tema sugerido:** II.9, bienes de las entidades locales; revisar dominio público, bienes patrimoniales, afectación/desafectación, utilización, enajenación y cesión.
 
 ## 27 de julio de 2026, 12:07 (Europe/Madrid)
