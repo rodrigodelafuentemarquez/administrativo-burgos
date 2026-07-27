@@ -66,7 +66,7 @@
   {
     "id": "t36-p002",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, una carácterística fundamental del ordenador es la:",
+    "pregunta": "En informática básica y Windows 11, una característica fundamental del ordenador es la:",
     "opciones": [
       "velocidad",
       "inalienabilidad",
@@ -304,7 +304,7 @@
   {
     "id": "t36-p019",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, una carácterística propia de los SSD frente a los HDD es que:",
+    "pregunta": "En informática básica y Windows 11, una característica propia de los SSD frente a los HDD es que:",
     "opciones": [
       "no tienen partes móviles",
       "solo pueden usarse como almacenamiento externo",
@@ -486,16 +486,16 @@
   {
     "id": "t37-p009",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, Copilot en Windows puede abrirse con:",
+    "pregunta": "En Windows 11, ¿qué atajo abre el Explorador de archivos?",
     "opciones": [
+      "Windows + E",
       "Windows + C",
-      "Ctrl + Alt + Supr",
       "Alt + Tab",
       "F2"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge ese atajo.",
-    "referencia": "V.9 · 4.1 Qué es Copilot"
+    "explicación": "La tecla Windows + E abre el Explorador de archivos; Windows + C no debe tratarse como un atajo estable del programa porque sus funciones pueden cambiar con la versión y la configuración.",
+    "referencia": "V.9 · 5. Explorador de Windows 11"
   },
   {
     "id": "t37-p010",
@@ -606,8 +606,176 @@
       "Iconos muy grandes, Contenido e Iconos muy pequeños"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye como vistas validas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido ni la denominación iconos muy pequeños.",
+    "explicación": "El tema incluye como vistas válidas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido.",
     "referencia": "V.9 · 6.3 Modos de visualización"
+  },
+  {
+    "id": "burgos-v09-deep-01",
+    "tema": 40,
+    "pregunta": "¿Cuál es la diferencia esencial entre la memoria RAM y el almacenamiento de un ordenador?",
+    "opciones": [
+      "La RAM es normalmente volátil y el almacenamiento conserva la información al apagar el equipo.",
+      "La RAM conserva siempre los archivos y el almacenamiento se borra al apagar.",
+      "La RAM solo sirve para imprimir y el almacenamiento solo para conectarse a Internet.",
+      "No existe diferencia funcional entre ambos."
+    ],
+    "correcta": 0,
+    "explicación": "La RAM contiene temporalmente programas y datos en uso; el SSD, HDD u otro soporte de almacenamiento conserva la información aunque el equipo se apague.",
+    "referencia": "V.9 · 2.2. Memoria y almacenamiento"
+  },
+  {
+    "id": "burgos-v09-deep-02",
+    "tema": 40,
+    "pregunta": "¿Qué función corresponde principalmente al sistema operativo?",
+    "opciones": [
+      "Administrar recursos del equipo y permitir la ejecución de aplicaciones.",
+      "Sustituir físicamente la memoria RAM.",
+      "Convertir todos los archivos en documentos PDF.",
+      "Garantizar por sí solo que ningún usuario sufra phishing."
+    ],
+    "correcta": 0,
+    "explicación": "El sistema operativo coordina procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y sirve de base para las aplicaciones.",
+    "referencia": "V.9 · 3. Software y sistema operativo"
+  },
+  {
+    "id": "burgos-v09-deep-03",
+    "tema": 40,
+    "pregunta": "¿Cuál de los siguientes es un requisito mínimo publicado por Microsoft para instalar Windows 11?",
+    "opciones": [
+      "TPM 2.0 y firmware UEFI con capacidad de arranque seguro.",
+      "Dos tarjetas gráficas dedicadas obligatorias.",
+      "Una unidad lectora de DVD obligatoria.",
+      "Un procesador exclusivamente de 32 bits."
+    ],
+    "correcta": 0,
+    "explicación": "Microsoft incluye TPM 2.0 y firmware UEFI con capacidad de Secure Boot entre los requisitos mínimos de Windows 11.",
+    "referencia": "V.9 · 4.2. Requisitos y estados de energía"
+  },
+  {
+    "id": "burgos-v09-deep-04",
+    "tema": 40,
+    "pregunta": "¿Qué ocurre normalmente al copiar un archivo y pegarlo en otra carpeta?",
+    "opciones": [
+      "Se crea otra copia y el original permanece en su ubicación.",
+      "El original se elimina siempre.",
+      "Se cambia únicamente la extensión del archivo.",
+      "Se convierte automáticamente en un acceso directo."
+    ],
+    "correcta": 0,
+    "explicación": "Copiar conserva el original y crea una copia en el destino; cortar y pegar es la operación habitual para trasladar un elemento.",
+    "referencia": "V.9 · 5. Explorador de Windows 11"
+  },
+  {
+    "id": "burgos-v09-deep-05",
+    "tema": 40,
+    "pregunta": "En el Explorador de archivos, la ruta o barra de direcciones sirve principalmente para:",
+    "opciones": [
+      "Mostrar la ubicación en la que se está trabajando.",
+      "Indicar la contraseña del usuario.",
+      "Cambiar automáticamente la extensión de todos los archivos.",
+      "Eliminar la carpeta seleccionada."
+    ],
+    "correcta": 0,
+    "explicación": "La ruta identifica la ubicación actual, que puede ser una carpeta local, una unidad o una ubicación de red.",
+    "referencia": "V.9 · 5. Explorador de Windows 11"
+  },
+  {
+    "id": "burgos-v09-deep-06",
+    "tema": 40,
+    "pregunta": "¿Qué afirmación sobre un acceso directo es correcta?",
+    "opciones": [
+      "Es un enlace que permite abrir el archivo o programa original desde otra ubicación.",
+      "Es una copia completa e independiente del archivo original.",
+      "Es siempre una copia de seguridad válida.",
+      "Es la extensión obligatoria de cualquier documento administrativo."
+    ],
+    "correcta": 0,
+    "explicación": "El acceso directo facilita el acceso, pero no sustituye al archivo original ni constituye por sí mismo una copia de seguridad.",
+    "referencia": "V.9 · 6. Gestión de carpetas y archivos"
+  },
+  {
+    "id": "burgos-v09-deep-07",
+    "tema": 40,
+    "pregunta": "¿Qué propiedad se protege cuando se impide que una persona no autorizada consulte un expediente?",
+    "opciones": [
+      "Confidencialidad.",
+      "Disponibilidad.",
+      "Compresión.",
+      "Portabilidad."
+    ],
+    "correcta": 0,
+    "explicación": "La confidencialidad limita el acceso a personas autorizadas; la integridad protege frente a alteraciones y la disponibilidad frente a interrupciones.",
+    "referencia": "V.9 · 7. Nociones básicas de seguridad informática"
+  },
+  {
+    "id": "burgos-v09-deep-08",
+    "tema": 40,
+    "pregunta": "Se recibe un correo que solicita introducir la contraseña en un enlace urgente. ¿Cuál es la respuesta más segura?",
+    "opciones": [
+      "No pulsar el enlace, verificar el mensaje por un canal seguro y comunicarlo conforme al protocolo.",
+      "Responder con la contraseña para confirmar la identidad.",
+      "Reenviarlo a todo el departamento para preguntar si es auténtico.",
+      "Descargar el adjunto antes de decidir."
+    ],
+    "correcta": 0,
+    "explicación": "Es un patrón de phishing. La urgencia y la solicitud de credenciales no justifican pulsar el enlace; debe verificarse y comunicarse sin difundirlo innecesariamente.",
+    "referencia": "V.9 · 7. Nociones básicas de seguridad informática"
+  },
+  {
+    "id": "burgos-v09-deep-09",
+    "tema": 40,
+    "pregunta": "¿Qué norma regula actualmente el Esquema Nacional de Seguridad?",
+    "opciones": [
+      "El Real Decreto 311/2022.",
+      "El Real Decreto 3/2010, que continúa siendo la norma vigente.",
+      "La Ley de Propiedad Intelectual exclusivamente.",
+      "El Código Penal como única regulación."
+    ],
+    "correcta": 0,
+    "explicación": "El Real Decreto 311/2022 regula actualmente el ENS y derogó el Real Decreto 3/2010.",
+    "referencia": "V.9 · 7. Nociones básicas de seguridad informática"
+  },
+  {
+    "id": "burgos-v09-deep-10",
+    "tema": 40,
+    "pregunta": "¿Qué atajo permite cambiar entre ventanas abiertas en Windows 11?",
+    "opciones": [
+      "Alt + Tabulador.",
+      "F2.",
+      "Windows + E.",
+      "Mayús + Supr."
+    ],
+    "correcta": 0,
+    "explicación": "Alt + Tabulador cambia entre las ventanas abiertas; Windows + E abre el Explorador y F2 cambia el nombre del elemento seleccionado.",
+    "referencia": "V.9 · 4.3. Atajos frecuentes"
+  },
+  {
+    "id": "burgos-v09-deep-11",
+    "tema": 40,
+    "pregunta": "¿Qué diferencia existe entre eliminar un archivo y enviarlo a la Papelera de reciclaje?",
+    "opciones": [
+      "La Papelera puede permitir su restauración; algunas eliminaciones son definitivas o no pasan por ella.",
+      "Son siempre operaciones idénticas e irreversibles.",
+      "La Papelera convierte el archivo en una copia de seguridad.",
+      "Eliminar solo cambia el nombre y nunca la ubicación."
+    ],
+    "correcta": 0,
+    "explicación": "La Papelera es un almacenamiento temporal para determinadas eliminaciones, pero no interviene en todas y no equivale a un archivo ni a una copia de seguridad.",
+    "referencia": "V.9 · 5. Explorador de Windows 11"
+  },
+  {
+    "id": "burgos-v09-deep-12",
+    "tema": 40,
+    "pregunta": "En una oficina municipal, ¿cuál es la actuación correcta respecto de un documento que forma parte de un expediente?",
+    "opciones": [
+      "Guardarlo en el sistema corporativo autorizado, respetar permisos y seguir las reglas de trazabilidad y conservación.",
+      "Conservar la única versión en el escritorio para acceder más rápido.",
+      "Moverlo a una USB personal para garantizar la disponibilidad.",
+      "Compartirlo por correo con cualquier compañero aunque no intervenga en el expediente."
+    ],
+    "correcta": 0,
+    "explicación": "La documentación administrativa debe mantenerse en sistemas autorizados, con acceso por necesidad, trazabilidad, copias y conservación conforme al procedimiento corporativo.",
+    "referencia": "V.9 · 6. Gestión de carpetas y archivos"
   },
   {
     "id": "estado2026-extra-t40-01",

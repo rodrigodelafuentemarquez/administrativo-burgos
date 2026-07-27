@@ -3,168 +3,173 @@ grupo: "Grupo V. Competencias"
 tema: 9
 codigo: "Tema V.9"
 titulo: "Informática básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Informática básica
+## 1. Qué debe dominar el opositor
 
-La informática estudia el <mark>tratamiento automático de información</mark> mediante sistemas compuestos por <mark>hardware, software, datos, redes y usuarios</mark>. En un puesto administrativo municipal es herramienta diaria para expedientes, registro, correo, ofimática, sede electrónica, bases de datos y archivo.
+La **informática** es el tratamiento automático de la información mediante equipos y programas. En un puesto administrativo no se exige programar: se exige comprender el entorno en el que se crean, consultan, remiten y protegen documentos, expedientes, hojas de cálculo y comunicaciones.
 
-La oposición no exige conocimientos de programación, sino manejo conceptual y práctico de herramientas habituales. Lo importante es entender que un ordenador administrativo forma parte de un entorno corporativo: usuarios, permisos, red, aplicaciones, seguridad y datos públicos.
+Un sistema informático combina **hardware**, software, datos, usuarios, permisos y comunicaciones. Esta visión es importante: que un archivo exista no significa que cualquier usuario pueda abrirlo, modificarlo o enviarlo. En una Administración deben añadirse trazabilidad, copias de seguridad, continuidad y cumplimiento de las políticas corporativas.
 
-<mark>Clave de examen:</mark> no basta con saber usar el ordenador. Hay que distinguir **hardware, software, sistema operativo, archivos, red, permisos y seguridad**.
+> **Idea nuclear:** hardware es lo físico; software son las instrucciones; el sistema operativo coordina los recursos; los archivos contienen información; las carpetas organizan; los permisos limitan el acceso.
 
-## Componentes de un ordenador
+## 2. Principales componentes de un ordenador
 
-El <mark>hardware</mark> son elementos fisicos: unidad central, procesador, memoria RAM, almacenamiento, placa base, pantalla, teclado, raton, impresora, escaner y dispositivos de red. El procesador ejecuta instrucciones. La <mark>RAM almacena temporalmente</mark> datos en uso. El <mark>almacenamiento conserva información de forma permanente</mark>, mediante SSD, discos duros u otros soportes.
+### 2.1. Procesamiento, memoria y placa base
 
-El <mark>software</mark> son programas y sistemas: sistema operativo, aplicaciones, controladores, utilidades y herramientas de seguridad. Los datos son documentos, expedientes, imagenes, hojas de calculo, correos y registros.
+El **hardware** comprende los componentes físicos, internos y externos. La **CPU o procesador** busca, interpreta y ejecuta instrucciones. En ella se distinguen, de forma básica, la unidad de control, la unidad aritmético-lógica, los registros y la memoria caché. Un procesador multinúcleo integra varios núcleos de ejecución.
 
-| Componente | Función |
+La **placa base** conecta y permite la comunicación entre procesador, memoria, almacenamiento, tarjetas y periféricos. Los buses transportan datos, direcciones y señales de control. La fuente de alimentación transforma la corriente de la red en la que necesitan los componentes.
+
+| Elemento | Función que debe recordarse |
 | --- | --- |
-| CPU/procesador | Ejecuta instrucciones y coordina operaciones. |
-| Memoria RAM | Guarda temporalmente datos y programas abiertos. |
-| SSD/disco | Conserva archivos y aplicaciones. |
-| Placa base | Conecta componentes internos. |
-| Monitor | Muestra interfaz y documentos. |
-| Teclado y raton | Permiten introducir órdenes y datos. |
-| Impresora/escaner | Salida e incorporación de documentos fisicos. |
-| Tarjeta de red | Conexion a red local o internet. |
+| CPU | Ejecuta instrucciones y coordina operaciones. |
+| RAM | Memoria principal, rápida y volátil; contiene programas y datos en uso. |
+| Caché | Memoria muy rápida próxima al procesador. |
+| Placa base | Interconecta los componentes del equipo. |
+| GPU o tarjeta gráfica | Procesa gráficos y genera la señal de vídeo. |
+| Fuente de alimentación | Suministra las tensiones eléctricas necesarias. |
 
-La diferencia entre RAM y almacenamiento suele preguntarse: la RAM es rapida y temporal; el disco conserva datos aunque se apague el equipo.
+### 2.2. Memoria y almacenamiento
 
-| Concepto | Se recuerda así |
-| --- | --- |
-| Hardware | Lo físico: equipo, pantalla, teclado, disco, impresora. |
-| Software | Programas: Windows, Word, Excel, navegador, antivirus. |
-| Datos | Documentos, expedientes, correos, imagenes, registros. |
-| Red | Conexion con internet, servidores, unidades compartidas y aplicaciones. |
-| Usuario/permisos | Determinan que puede ver o modificar cada persona. |
+La **RAM** pierde su contenido al apagar el equipo. Por eso sirve para trabajar durante la sesión, pero no es el lugar donde se conserva un expediente. El **almacenamiento** —SSD, disco duro, memoria USB, tarjeta o almacenamiento de red— conserva la información aunque el equipo se apague. La memoria virtual usa una parte del almacenamiento como apoyo de la RAM, pero es más lenta y no sustituye a la memoria principal.
 
-Ejemplo práctico: si una persona no puede abrir una carpeta compartida, el problema puede no ser del archivo, sino de permisos de red, perfil de usuario o ubicación corporativa.
+La **ROM** y el firmware contienen instrucciones de arranque; en los equipos actuales se habla especialmente de UEFI, sucesora de la BIOS. No debe confundirse el firmware de arranque con el sistema operativo ni con una aplicación.
 
-También conviene manejar unidades de medida. El bit es la unidad mínima de información; el byte agrupa 8 bits. En uso ordinario se habla de KB, MB, GB y TB para tamaño de archivos, memoria o almacenamiento.
-
-| Unidad | Uso habitual |
-| --- | --- |
-| bit | Unidad mínima, frecuente en velocidades de red. |
-| byte | Base para tamaño de archivos. |
-| KB / MB | Documentos pequeños, imágenes o adjuntos. |
-| GB | Memoria, discos, copias y archivos grandes. |
-| TB | Almacenamiento masivo o servidores. |
-
-En conversión decimal aproximada, 1 GB equivale a 1.000 MB y 1 MB a 1.000 KB; por tanto, 30 GB equivalen aproximadamente a 30.000.000 KB. En informática también existe conversión binaria, pero muchos tests administrativos usan la aproximación decimal.
-
-## Sistemas operativos
-
-El <mark>sistema operativo administra recursos</mark> del ordenador y permite ejecutar aplicaciones. Gestiona memoria, procesos, archivos, dispositivos, usuarios, seguridad y comunicaciones.
-
-Windows 11 es un sistema operativo de Microsoft con interfaz grafica, menu Inicio, barra de tareas, escritorios, ventanas, configuración, explorador de archivos, integración con cuentas, actualizaciones, seguridad y herramientas de accesibilidad.
-
-| Elemento de Windows 11 | Utilidad |
-| --- | --- |
-| Menu Inicio | Acceso a aplicaciones, busqueda y apagado. |
-| Barra de tareas | Muestra aplicaciones abiertas y accesos. |
-| Configuración | Gestiona sistema, dispositivos, red, cuentas y accesibilidad. |
-| Explorador de archivos | Administra carpetas y documentos. |
-| Escritorios virtuales | Organizan espacios de trabajo. |
-| Windows Update | Actualiza sistema y seguridad. |
-| Portapapeles | Copiar, cortar y pegar información. |
-| Accesibilidad | Lectura, contraste, lupa, subtitulos y adaptaciones. |
-
-| Windows 11 | Dato práctico |
-| --- | --- |
-| Requisitos destacados | TPM 2.0, UEFI con arranque seguro, RAM y almacenamiento mínimos. |
-| Barra de tareas | Botón Inicio, iconos anclados, aplicaciones abiertas y área de notificación. |
-| Menú Inicio | Aplicaciones ancladas y recomendaciones. |
-| Snap Layouts | Organización rápida de ventanas. |
-| Suspender | Conserva la sesión en RAM para reanudar rápido. |
-| Alt + F4 | Cierra la ventana activa. |
-
-## Explorador de Windows 11
-
-El <mark>Explorador de archivos</mark> permite navegar por unidades, carpetas y documentos. Incluye panel de navegación, ruta, busqueda, vistas, propiedades, accesos rapidos, bibliotecas o ubicaciones frecuentes.
-
-Permite crear, copiar, mover, renombrar, eliminar y comprimir archivos. También permite ordenar por nombre, fecha, tipo o tamano; cambiar vista; consultar propiedades; y buscar documentos.
-
-La vista <mark>Detalles</mark> es la más informativa porque permite ver columnas como nombre, fecha, tipo, tamaño o estado. La <mark>Papelera de reciclaje almacena temporalmente</mark> archivos eliminados, salvo eliminaciones definitivas o ubicaciones que no la usen.
-
-En entorno municipal, muchas carpetas pueden estar en unidades de red o servicios corporativos. El usuario no debe modificar permisos ni mover documentos oficiales sin saber sus consecuencias. Los expedientes deben conservarse en sistemas autorizados, no en el escritorio local.
-
-Operaciones habituales:
-
-- crear carpeta;
-- copiar, cortar y pegar;
-- renombrar archivo;
-- eliminar y restaurar desde papelera;
-- buscar por nombre o tipo;
-- ordenar por fecha, nombre, tamano o extensión;
-- comprimir/descomprimir;
-- consultar propiedades;
-- abrir ubicación de red o carpeta compartida.
-
-<mark>Advertencia:</mark> el escritorio local no debe ser archivo administrativo. Puede servir como zona temporal de trabajo, pero la documentación oficial debe conservarse en sistemas corporativos o expediente electrónico.
-
-## Gestión de carpetas y archivos
-
-Una carpeta organiza archivos. Un archivo contiene información y se identifica por <mark>nombre y extensión</mark>. La extensión indica tipo: `.docx`, `.xlsx`, `.pdf`, `.jpg`, `.zip`.
-
-La gestión correcta exige nomenclatura clara, evitar duplicidades, respetar permisos, no guardar información sensible en ubicaciones inseguras, usar unidades corporativas y seguir políticas de archivo.
-
-Eliminar no siempre destruye definitivamente: puede enviarse a papelera. En entornos corporativos pueden existir copias de seguridad y restricciones.
-
-| Extensión | Tipo habitual |
-| --- | --- |
-| `.docx` | Documento de Word. |
-| `.xlsx` | Hoja de calculo de Excel. |
-| `.pdf` | Documento portable, habitual para remisión. |
-| `.jpg` / `.png` | Imagen. |
-| `.zip` | Archivo comprimido. |
-| `.csv` | Datos separados por comas. |
-| `.txt` | Texto plano. |
-
-Buenas prácticas: usar nombres descriptivos, evitar caracteres problematicos, no mezclar versiones finales y borradores, no guardar claves en archivos de texto y comprobar que el documento adjunto es el correcto antes de enviarlo.
-
-La ruta de un archivo indica su ubicación. Puede ser local, como una carpeta del equipo, o de red, como una unidad compartida. En un entorno administrativo importa saber si el documento está en ubicación personal, compartida, expediente electrónico o sistema corporativo, porque cambian permisos, copias de seguridad y trazabilidad.
-
-## Seguridad informática
-
-La seguridad busca proteger <mark>confidencialidad, integridad y disponibilidad</mark>. Riesgos frecuentes: contrasenas debiles, <mark>phishing, malware, ransomware</mark>, pérdida de dispositivos, envio erroneo de correos, uso de USB no seguros, enlaces falsos y acceso indebido a expedientes.
-
-Medidas básicas: <mark>contrasenas robustas, doble factor, bloqueo de pantalla, actualizaciones, antivirus, copias de seguridad, prudencia con adjuntos, verificación de remitentes, no compartir claves, usar redes seguras y respetar permisos</mark>.
-
-En Administración, la seguridad informática se relaciona con protección de datos, Esquema Nacional de Seguridad, expediente electrónico y continuidad de servicios públicos.
-
-| Riesgo | Ejemplo | Prevención |
+| Comparación | RAM | Almacenamiento |
 | --- | --- | --- |
-| Phishing | Correo falso que pide clave. | Verificar remitente y enlace. |
-| Malware | Adjunto infectado. | No abrir archivos sospechosos. |
-| Ransomware | Cifrado malicioso de archivos. | Copias, actualizaciones y prudencia. |
-| Fuga de datos | Envio a destinatario equivocado. | Revisar destinatarios y adjuntos. |
-| Acceso indebido | Consultar expediente sin motivo. | Respetar perfiles y trazabilidad. |
-| Perdida de equipo | Portatil extraviado. | Cifrado, bloqueo y comunicación inmediata. |
+| Conservación al apagar | No | Sí |
+| Uso principal | Programas y datos en ejecución | Archivos, aplicaciones y sistema |
+| Ejemplo | Memoria principal | SSD, HDD o unidad de red |
+| Riesgo de confusión | Más RAM no equivale a más espacio de archivo | Más espacio no hace necesariamente más rápido el equipo |
 
-| Amenaza o herramienta | Recuerda |
+Los **SSD** usan memoria flash y carecen de partes móviles; los HDD emplean platos magnéticos y cabezales. El bit es la unidad mínima y un byte equivale a ocho bits. En medidas decimales, 1 KB son aproximadamente 1.000 bytes, 1 MB 1.000 KB y 1 GB 1.000 MB; algunos sistemas expresan capacidades con unidades binarias, por lo que el contexto de la pregunta importa.
+
+### 2.3. Periféricos y comunicaciones
+
+Los periféricos de **entrada** introducen datos (teclado, ratón, escáner, micrófono); los de **salida** muestran o producen resultados (monitor, impresora, altavoces); algunos son de entrada y salida (pantalla táctil, tarjeta de red, dispositivos de almacenamiento). Una impresora produce una salida en papel; un escáner incorpora una imagen o documento al sistema.
+
+La tarjeta de red y los dispositivos de comunicación conectan el equipo a una red local o a Internet. Una unidad compartida puede estar alojada en un servidor y sus permisos pueden ser distintos de los de una carpeta local. En la oficina, el servicio informático determina las configuraciones autorizadas: no deben instalarse dispositivos o programas por iniciativa propia.
+
+## 3. Software y sistema operativo
+
+El **software** es el conjunto de programas, instrucciones y datos que hacen funcionar el equipo. Puede distinguirse entre:
+
+- **software de sistema:** sistema operativo, controladores, firmware y utilidades;
+- **software de aplicación:** procesador de textos, hoja de cálculo, navegador, correo o gestor de expedientes;
+- **software de seguridad:** antivirus, herramientas de cifrado, cortafuegos y sistemas de detección;
+- **datos:** documentos, imágenes, bases de datos y configuraciones.
+
+El software libre se define por las libertades de usar, estudiar, modificar y redistribuir, conforme a su licencia; no significa necesariamente que no tenga coste. El software propietario restringe determinados usos o el acceso al código según su licencia.
+
+El **sistema operativo** administra procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y proporciona la interfaz para ejecutar aplicaciones. Windows 11 es un sistema operativo de Microsoft con interfaz gráfica, escritorio, ventanas, menú Inicio, barra de tareas, Configuración y Explorador de archivos.
+
+## 4. Especial referencia a Windows 11
+
+### 4.1. Elementos básicos
+
+| Elemento | Función |
 | --- | --- |
-| Phishing | Intenta obtener información confidencial de forma fraudulenta. |
-| Spam | Comunicación masiva no solicitada; se combate con filtros. |
-| Malware | Software malicioso; no incluye la interfaz de usuario. |
-| Antivirus | Detecta, bloquea y elimina software malicioso. |
-| Asistencia rápida | Permite asistencia remota compartiendo pantalla o control del dispositivo. |
+| Menú Inicio | Acceso a aplicaciones, búsqueda, configuración y opciones de apagado. |
+| Barra de tareas | Accesos anclados, aplicaciones abiertas y área de notificación. |
+| Escritorio | Área de trabajo con accesos y ventanas. |
+| Configuración | Administración de sistema, dispositivos, red, cuentas y accesibilidad. |
+| Explorador de archivos | Consulta y gestión de unidades, carpetas y archivos. |
+| Papelera de reciclaje | Conservación temporal de elementos eliminados desde ubicaciones compatibles. |
+| Windows Update | Obtención e instalación de actualizaciones del sistema. |
+| Administrador de tareas | Consulta de aplicaciones, procesos, rendimiento y servicios. |
 
-La seguridad no es solo tarea del servicio informatico. Cada empleado es una barrera de protección: una clave compartida, un clic imprudente o un documento enviado a quien no corresponde puede generar una brecha de seguridad.
+Windows 11 incluye herramientas de accesibilidad, como lupa, narrador, contraste, tamaño de texto y subtítulos. También permite organizar ventanas con diseños de ajuste y crear escritorios virtuales. Estas funciones mejoran el trabajo, pero su disponibilidad concreta puede variar por edición, actualización o configuración.
 
-Buenas prácticas mínimas:
+### 4.2. Requisitos y estados de energía
 
-1. Bloquear pantalla al ausentarse.
-2. No compartir contrasenas.
-3. Usar doble factor si está disponible.
-4. Revisar destinatarios antes de enviar.
-5. No abrir adjuntos sospechosos.
-6. No instalar software no autorizado.
-7. Comunicar incidentes de seguridad cuanto antes.
-8. Respetar permisos: acceder solo a expedientes necesarios.
+Los requisitos mínimos publicados por Microsoft incluyen procesador compatible de 64 bits a 1 GHz con dos o más núcleos, 4 GB de RAM, 64 GB de almacenamiento, firmware UEFI con capacidad de arranque seguro, TPM 2.0, tarjeta gráfica compatible con DirectX 12/WDDM 2.0 y pantalla de alta definición. Son requisitos de instalación o actualización, no una garantía de rendimiento óptimo.
 
-<mark>Confidencialidad, integridad y disponibilidad</mark> son las tres ideas básicas: que solo acceda quien debe, que la información no se altere indebidamente y que los sistemas estén disponibles cuando se necesitan.
+**Suspender** mantiene la sesión en memoria y reduce el consumo; al reanudar se continúa rápidamente, pero una pérdida total de alimentación puede hacer perder la sesión no guardada. **Reiniciar** cierra la sesión y vuelve a arrancar el sistema. **Apagar** finaliza el funcionamiento del equipo. Antes de cualquiera de estas operaciones deben guardarse los documentos y cerrarse las aplicaciones cuando proceda.
 
-Las copias de seguridad protegen frente a borrados, fallos y ataques. Pero una copia solo es útil si puede restaurarse. Por eso deben existir políticas corporativas de copia, restauración, cifrado y conservación; no basta con duplicar documentos manualmente en carpetas personales.
+### 4.3. Atajos frecuentes
+
+Los atajos no sustituyen a los menús, pero son muy preguntables y agilizan el puesto:
+
+| Atajo | Acción |
+| --- | --- |
+| Windows + E | Abre el Explorador de archivos. |
+| Windows + D | Muestra u oculta el escritorio. |
+| Alt + Tabulador | Cambia entre ventanas abiertas. |
+| Alt + F4 | Cierra la ventana activa. |
+| Ctrl + C / X / V | Copiar / cortar / pegar. |
+| Ctrl + A | Seleccionar todos los elementos del contexto. |
+| F2 | Cambiar el nombre del elemento seleccionado. |
+| Mayús + Supr | Eliminar sin pasar por la Papelera, con las cautelas correspondientes. |
+
+## 5. Explorador de Windows 11
+
+El **Explorador de archivos** permite desplazarse por unidades, ubicaciones de red, carpetas y archivos. Su ruta o barra de direcciones muestra dónde se está trabajando; el panel de navegación facilita acceder a ubicaciones frecuentes; el cuadro de búsqueda localiza elementos según el ámbito seleccionado.
+
+La vista **Detalles** muestra columnas como nombre, fecha de modificación, tipo y tamaño. Se puede ordenar por esas columnas y filtrar o buscar por nombre, extensión y otros criterios. Ordenar no cambia el contenido ni el nombre de los archivos.
+
+Operaciones básicas:
+
+1. crear una carpeta con un nombre descriptivo;
+2. seleccionar uno o varios elementos;
+3. copiar para conservar el original o cortar para trasladar;
+4. pegar en la ubicación de destino;
+5. renombrar sin cambiar accidentalmente la extensión;
+6. consultar propiedades (ubicación, tamaño, fechas y atributos);
+7. comprimir o extraer archivos cuando el procedimiento lo permita;
+8. eliminar y, si procede, restaurar desde la Papelera.
+
+Al arrastrar, el resultado puede variar según el origen y destino. Para evitar errores en documentación oficial es preferible utilizar copiar/cortar/pegar de forma explícita y comprobar la ruta final. Un acceso directo no es el archivo original: es un enlace que permite abrirlo desde otra ubicación.
+
+## 6. Gestión de carpetas y archivos
+
+Un **archivo** es una unidad de información identificada normalmente por nombre y extensión; una **carpeta** es un contenedor lógico que organiza archivos y otras carpetas. La extensión (`.docx`, `.xlsx`, `.pdf`, `.jpg`, `.zip`, `.csv` o `.txt`) orienta sobre el formato y la aplicación, pero no prueba por sí sola que el contenido sea seguro.
+
+La **ruta** identifica la ubicación completa. Puede ser local o de red. Dos archivos con el mismo nombre pueden ser distintos si están en carpetas diferentes. Copiar crea otra versión; mover cambia de ubicación; renombrar cambia el nombre; comprimir agrupa y reduce el tamaño según el formato, pero no convierte automáticamente el contenido en seguro ni en documento auténtico.
+
+> **Administración:** el escritorio o la carpeta Descargas pueden ser zonas temporales, no el archivo oficial de un expediente. La documentación debe guardarse en el gestor corporativo o sistema autorizado, con permisos, copias y trazabilidad. No se deben borrar, mover o compartir documentos oficiales sin comprobar el procedimiento.
+
+Buenas prácticas:
+
+- usar nombres homogéneos y distinguir borradores de versiones finales;
+- evitar duplicados y revisar el documento y destinatarios antes de enviarlo;
+- no guardar contraseñas en archivos de texto ni datos sensibles en ubicaciones personales;
+- respetar los permisos de lectura y escritura;
+- verificar la extensión visible y no ejecutar adjuntos inesperados;
+- conservar los documentos en la aplicación corporativa cuando forme parte de un expediente;
+- recordar que la Papelera y una copia de seguridad no son equivalentes a conservación administrativa.
+
+## 7. Nociones básicas de seguridad informática
+
+La seguridad protege la **confidencialidad** (acceso solo de personas autorizadas), la **integridad** (información completa y no alterada indebidamente) y la **disponibilidad** (servicios y datos accesibles cuando se necesitan). En un entorno público también son relevantes autenticidad, trazabilidad y conservación.
+
+| Amenaza | Qué intenta o provoca | Respuesta básica |
+| --- | --- | --- |
+| Phishing | Engaño para obtener credenciales o datos mediante correo, web o mensaje. | No pulsar; verificar remitente y dirección por canal seguro. |
+| Malware | Software malicioso, como virus, troyano o spyware. | No ejecutar; usar protección y comunicar el incidente. |
+| Ransomware | Cifra o bloquea información para exigir un rescate. | Aislar el equipo según protocolo y avisar al servicio informático. |
+| Ingeniería social | Manipula a una persona para que revele información o autorice una acción. | Confirmar identidad y autorización. |
+| Fuga o envío erróneo | Información llega a un destinatario no autorizado. | Revisar destinatarios, adjuntos y canales antes de enviar. |
+| Pérdida o robo | Exposición de equipo, soporte o credenciales. | Bloqueo, cifrado, custodia y comunicación inmediata. |
+
+Medidas mínimas: usar contraseñas robustas y no compartirlas; activar segundo factor cuando esté disponible; bloquear la pantalla al ausentarse; instalar solo software autorizado; mantener actualizaciones; emplear redes y soportes corporativos; revisar enlaces, remitentes, destinatarios y adjuntos; limitar el acceso al principio de necesidad; y comunicar incidentes sin intentar ocultarlos.
+
+Las copias de seguridad deben responder a una política: periodicidad, ubicación, protección, retención y prueba de restauración. Duplicar manualmente un archivo en otra carpeta no garantiza una copia utilizable. El antivirus ayuda a detectar o bloquear malware, pero no sustituye al usuario, las actualizaciones, las copias ni los controles de acceso.
+
+En el sector público, el **Esquema Nacional de Seguridad** se regula actualmente por el **Real Decreto 311/2022**, que derogó el Real Decreto 3/2010. Establece principios y requisitos mínimos para proteger la información y los servicios electrónicos; no es un antivirus ni una aplicación instalada en cada puesto. El usuario aplica las medidas mediante las instrucciones y procedimientos de seguridad de su organización.
+
+## 8. Esquema final y errores típicos de test
+
+**Hardware → CPU/RAM/almacenamiento → sistema operativo → Explorador → carpetas y archivos → seguridad.** Para resolver un caso, identifica primero dónde está el dato, quién necesita acceder, qué operación se pretende y qué control evita el riesgo.
+
+Errores frecuentes:
+
+- confundir RAM (volátil) con almacenamiento (persistente);
+- creer que el Explorador edita el contenido de un documento por sí mismo;
+- confundir copiar con mover y acceso directo con archivo;
+- afirmar que toda eliminación es irreversible o que toda eliminación va a la Papelera;
+- pensar que un antivirus evita por sí solo el phishing;
+- tratar el escritorio local como archivo oficial;
+- seguir estudiando el RD 3/2010 como ENS vigente: el texto vigente es el RD 311/2022;
+- confundir **Suspender**, **Reiniciar** y **Apagar**.
