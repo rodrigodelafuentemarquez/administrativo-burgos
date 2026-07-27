@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se corrigió la errata de `t21-p011`, se precisó la consecuencia sancionadora de `t43-p012` y la explicación de `t43-p017`; se añadieron 12 preguntas `burgos-v02-deep-01` a `burgos-v02-deep-12` sobre diferencia entre publicidad activa y acceso, artículos 6-8, falta de motivación, límites, acceso parcial, inadmisión, audiencia, plazos de resolución y acceso material, reclamación y casos de información inexistente. El banco pasa de 36 a 48 preguntas, con IDs únicos, cuatro opciones, una sola respuesta correcta y explicación; se sincronizó la copia pública.
 - **Fuentes oficiales consultadas:** [Ley 19/2013 en el BOE](https://www.boe.es/eli/es/l/2013/12/09/19/con), especialmente artículos 2, 5-10, 12-24, 25-32 y 33-40.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de 48 preguntas, unicidad, pertenencia al tema, cuatro opciones, explicaciones y equivalencia editable/pública; comprobación de 14 pares `<mark>` manuales; `git diff --check`; `npm run build` correcto (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `e3c79e7` (`mejora profunda tema V.2 transparencia`), subido correctamente a `origin/main`.
 - **Siguiente tema sugerido:** V.3, atención al público, discapacidad, información, iniciativas, reclamaciones, quejas y peticiones; desarrollar el circuito de atención ciudadana y distinguir sugerencia, reclamación, queja, petición e información administrativa.
 
 ## 27 de julio de 2026, 14:32 (Europe/Madrid)
