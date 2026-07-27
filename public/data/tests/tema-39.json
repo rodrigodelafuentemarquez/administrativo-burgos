@@ -527,5 +527,173 @@
     "correcta": 0,
     "explicación": "El tema lo presenta como marco técnico de interoperabilidad.",
     "referencia": "V.8 · 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico"
+  },
+  {
+    "id": "burgos-v08-deep-01",
+    "tema": 39,
+    "pregunta": "Según el artículo 26 de la Ley 39/2015, ¿cuál es un requisito de validez del documento electrónico administrativo?",
+    "opciones": [
+      "Incorporar una referencia temporal del momento en que se emitió",
+      "Estar siempre impreso y sellado manualmente",
+      "Contener únicamente la firma del interesado",
+      "Publicarse siempre en el Boletín Oficial"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 26 exige, entre otros elementos, datos de identificación, referencia temporal, metadatos mínimos y las firmas que correspondan.",
+    "referencia": "V.8 · 2.2 Documento electrónico válido"
+  },
+  {
+    "id": "burgos-v08-deep-02",
+    "tema": 39,
+    "pregunta": "¿Qué diferencia correctamente el expediente administrativo del procedimiento?",
+    "opciones": [
+      "El procedimiento es la sucesión de trámites y el expediente es su reflejo documental ordenado",
+      "El expediente es siempre anterior al procedimiento",
+      "El procedimiento solo contiene documentos y el expediente solo plazos",
+      "Son términos idénticos en la Ley 39/2015"
+    ],
+    "correcta": 0,
+    "explicación": "El procedimiento es una secuencia de actuaciones; el expediente reúne ordenadamente los documentos y actuaciones que sirven de antecedente y fundamento a la resolución.",
+    "referencia": "V.8 · 3.1 Concepto legal y contenido"
+  },
+  {
+    "id": "burgos-v08-deep-03",
+    "tema": 39,
+    "pregunta": "En un expediente electrónico remitido a otra Administración, el foliado se realiza mediante:",
+    "opciones": [
+      "un índice electrónico autenticado que garantice la integridad",
+      "una numeración manuscrita posterior a la remisión",
+      "una relación de documentos sin autenticación",
+      "un certificado de empadronamiento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 51 del Real Decreto 203/2021 vincula el foliado electrónico al índice autenticado, que permite garantizar la integridad y recuperar el expediente.",
+    "referencia": "V.8 · 3.3 Expediente electrónico"
+  },
+  {
+    "id": "burgos-v08-deep-04",
+    "tema": 39,
+    "pregunta": "Según el Real Decreto 203/2021, un mismo documento electrónico:",
+    "opciones": [
+      "puede formar parte de distintos expedientes administrativos",
+      "solo puede incorporarse a un expediente durante toda su vida",
+      "debe duplicarse siempre en papel",
+      "no puede conservarse fuera de un procedimiento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 51 permite que un mismo documento electrónico forme parte de distintos expedientes administrativos.",
+    "referencia": "V.8 · 3.3 Expediente electrónico"
+  },
+  {
+    "id": "burgos-v08-deep-05",
+    "tema": 39,
+    "pregunta": "¿Cuál de estos documentos debe conservarse en soporte electrónico conforme al régimen del archivo electrónico?",
+    "opciones": [
+      "Los documentos con valor probatorio creados al margen de un procedimiento",
+      "Solo los expedientes todavía en trámite",
+      "Únicamente las resoluciones publicadas",
+      "Solo los documentos que tengan firma manuscrita"
+    ],
+    "correcta": 0,
+    "explicación": "La obligación alcanza a los documentos de los expedientes y a los documentos con valor probatorio creados fuera de un procedimiento.",
+    "referencia": "V.8 · 5. Archivo electrónico"
+  },
+  {
+    "id": "burgos-v08-deep-06",
+    "tema": 39,
+    "pregunta": "¿Qué operación archivística identifica a qué función o procedimiento pertenece un documento?",
+    "opciones": [
+      "La clasificación",
+      "La ordenación",
+      "La destrucción",
+      "La notificación"
+    ],
+    "correcta": 0,
+    "explicación": "Clasificar es asignar el documento a una función, actividad o serie; ordenar es colocarlo después en una secuencia determinada.",
+    "referencia": "V.8 · 4.3 Ordenación y descripción"
+  },
+  {
+    "id": "burgos-v08-deep-07",
+    "tema": 39,
+    "pregunta": "Una persona que no es interesada en un expediente municipal solicita un dato de contratación. ¿Qué vía puede utilizar, con carácter general?",
+    "opciones": [
+      "El derecho de acceso a la información pública de la Ley 19/2013",
+      "El artículo 53 de la Ley 39/2015 como interesado automático",
+      "La solicitud de copia auténtica del expediente sin límites",
+      "La vía de recurso contra una resolución que no le afecta"
+    ],
+    "correcta": 0,
+    "explicación": "El acceso al expediente del artículo 53 LPAC corresponde a los interesados; quien no lo sea puede ejercer, si procede, el derecho general de acceso a información pública.",
+    "referencia": "V.8 · 6.1 Dos derechos que no deben confundirse"
+  },
+  {
+    "id": "burgos-v08-deep-08",
+    "tema": 39,
+    "pregunta": "La solicitud de acceso a información pública conforme a la Ley 19/2013:",
+    "opciones": [
+      "no tiene que estar motivada obligatoriamente",
+      "debe justificar siempre un interés legítimo",
+      "solo puede presentarla un interesado en el expediente",
+      "debe indicar necesariamente el artículo que fundamenta la petición"
+    ],
+    "correcta": 0,
+    "explicación": "El solicitante puede exponer motivos, pero la falta de motivación no es por sí sola causa de rechazo.",
+    "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso"
+  },
+  {
+    "id": "burgos-v08-deep-09",
+    "tema": 39,
+    "pregunta": "El plazo máximo general para resolver una solicitud de acceso a información pública es de:",
+    "opciones": [
+      "un mes, ampliable por otro mes por volumen o complejidad",
+      "diez días hábiles sin posibilidad de ampliación",
+      "tres meses siempre improrrogables",
+      "seis meses desde la solicitud"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 20 de la Ley 19/2013 fija un mes, con posible ampliación por otro mes si el volumen o la complejidad lo justifican y se informa al solicitante.",
+    "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso"
+  },
+  {
+    "id": "burgos-v08-deep-10",
+    "tema": 39,
+    "pregunta": "Si un documento contiene información pública y datos que deben quedar protegidos, la solución preferente es:",
+    "opciones": [
+      "conceder acceso parcial omitiendo la parte afectada, si el resultado sigue teniendo sentido",
+      "denegar siempre todo el documento",
+      "publicar todos los datos sin ponderación",
+      "destruir el documento para evitar riesgos"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 16 de la Ley 19/2013 prevé el acceso parcial, con indicación de la parte omitida, salvo que el resultado sea distorsionado o carezca de sentido.",
+    "referencia": "V.8 · 6.3 Límites, protección de datos y acceso parcial"
+  },
+  {
+    "id": "burgos-v08-deep-11",
+    "tema": 39,
+    "pregunta": "¿Cuál es la afirmación correcta sobre la eliminación de documentos administrativos?",
+    "opciones": [
+      "Requiere evaluación, calendario de conservación y autorización conforme a la normativa aplicable",
+      "Puede decidirla unilateralmente cualquier empleado cuando el expediente esté terminado",
+      "Está prohibida siempre, aunque el documento no tenga valor",
+      "Solo requiere convertir el documento a PDF"
+    ],
+    "correcta": 0,
+    "explicación": "La eliminación se integra en la evaluación documental y debe respetar las autorizaciones y plazos del sistema archivístico y del patrimonio documental.",
+    "referencia": "V.8 · 4.1 Gestión documental y ciclo de vida"
+  },
+  {
+    "id": "burgos-v08-deep-12",
+    "tema": 39,
+    "pregunta": "¿Qué afirmación distingue correctamente una copia auténtica de una copia simple?",
+    "opciones": [
+      "La copia auténtica la expide un órgano competente con garantías de identidad e integridad y tiene la eficacia prevista para el original",
+      "La copia simple siempre tiene la misma eficacia jurídica que el original",
+      "La copia auténtica solo puede ser manuscrita",
+      "La copia simple requiere siempre actuación administrativa automatizada"
+    ],
+    "correcta": 0,
+    "explicación": "La copia auténtica se expide con garantías jurídicas y técnicas por órgano competente; la copia simple es una reproducción sin esa certificación.",
+    "referencia": "V.8 · 2.4 Copias y documentos aportados"
   }
 ]
