@@ -3,118 +3,155 @@ grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas
 tema: 11
 codigo: "Tema II.11"
 titulo: "Funcionamiento de los órganos colegiados locales. Convocatorias y orden del día. Requisitos para su constitución. Votaciones."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y mapa del tema
 
-El funcionamiento de órganos colegiados locales se regula por la <mark>Ley 7/1985</mark>, el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark> y los reglamentos orgánicos municipales. Para Burgos debe tenerse presente su Reglamento Organico y de Funcionamiento.
+El funcionamiento de los órganos colegiados locales combina la regulación básica de la **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)** con el desarrollo del **Real Decreto 2568/1986, de 28 de noviembre, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales (ROF)**. También deben tenerse en cuenta el Reglamento Orgánico Municipal del Ayuntamiento de Burgos y, con carácter supletorio cuando proceda, los artículos 15 a 22 de la **Ley 40/2015** sobre órganos colegiados.
 
-## Organos colegiados locales
-
-Los órganos colegiados locales son órganos formados por varias personas que deliberan y adoptan acuerdos. En un Ayuntamiento destacan el Pleno, la Junta de Gobierno Local, comisiones informativas, comisión especial de cuentas y otros órganos previstos en la normativa municipal.
-
-El funcionamiento colegiado garantiza deliberación, control político, formación formal de voluntad y constancia documental de acuerdos.
-
-| Órgano | Función general |
+| Norma | Qué conviene localizar |
 | --- | --- |
-| Pleno | Debate y adopta acuerdos sobre materias principales, control político y potestad normativa. |
-| Junta de Gobierno Local | Asiste a la Alcaldía y ejerce competencias propias o delegadas, especialmente en gran población. |
-| Comisiones informativas | Estudian, informan y preparan asuntos que van al Pleno. |
-| Comisión Especial de Cuentas | Informa la Cuenta General antes de su aprobación. |
-| Otros órganos | Consejos, juntas o comisiones previstas por reglamento orgánico o normativa sectorial. |
+| LRBRL, arts. 20, 22, 46, 47, 70 y 73 a 75 | Órganos municipales, sesiones plenarias, quórum, mayorías, publicidad y grupos políticos. |
+| LRBRL, arts. 121 a 123 y concordantes | Especialidades de los municipios de gran población: Pleno, Junta de Gobierno Local y comisiones. |
+| ROF, arts. 77 a 103 | Sesiones, convocatoria, orden del día, quórum, debates, votaciones y actas. |
+| ROF, arts. 109 a 113 | Contenido del acta y especialidades de la Junta de Gobierno Local. |
+| Reglamento Orgánico Municipal de Burgos | Organización y reglas internas que completen la legislación básica. |
 
-El funcionamiento colegiado es formal porque el acuerdo solo existe validamente si se convoca, constituye, delibera, vota y documenta conforme a reglas. Un error de convocatoria, quórum o votación puede afectar a la validez del acuerdo.
+**Idea central:** una sesión válida exige una secuencia ordenada: convocatoria correcta, documentación disponible, constitución con quórum, deliberación, votación y acta. No debe confundirse la existencia de una propuesta o expediente con la válida formación de la voluntad del órgano.
 
-## Convocatoria y orden del día
+## 2. Órganos colegiados locales
 
-La convocatoria comunica la celebración de la sesión, fecha, hora, lugar, modalidad cuando proceda y asuntos a tratar. Debe realizarse con la antelación legal o reglamentaria, salvo sesiones urgentes. El orden del día delimita los asuntos que pueden debatirse y votarse.
+Un órgano colegiado está integrado por una pluralidad de miembros y forma su voluntad mediante deliberación y votación. En el Ayuntamiento interesan especialmente:
 
-| Elemento | Importancia |
+| Órgano | Función que debe recordarse |
 | --- | --- |
-| Fecha y hora | Permite asistencia y computo de plazos. |
-| Lugar o medio | Determina donde se celebra y como participan los miembros. |
-| Orden del día | Evita decisiones sorpresivas y garantiza preparación. |
-| Documentación | Permite estudiar expedientes antes de votar. |
-| Urgencia | Debe motivarse y ratificarse cuando proceda. |
+| **Pleno** | Control y fiscalización de los órganos de gobierno, potestad normativa municipal y decisiones atribuidas por la ley. |
+| **Junta de Gobierno Local** | Asistencia al Alcalde y ejercicio de competencias propias, delegadas o atribuidas legalmente. |
+| **Comisiones informativas** | Estudio, informe o consulta de los asuntos que vayan a someterse a decisión del Pleno y seguimiento de la gestión. Su producto ordinario es un dictamen, no la decisión final. |
+| **Comisión Especial de Cuentas** | Examen, estudio e informe de todas las cuentas que deba aprobar la Corporación. |
+| **Órganos complementarios** | Consejos sectoriales, juntas de distrito y otros previstos por la ley o el reglamento orgánico. |
 
-Cómo regla, no pueden adoptarse acuerdos sobre asuntos no incluidos en el orden del día salvo supuestos legalmente previstos, normalmente vinculados a urgencia y mayoría exigida. Esta garantía protege tanto a miembros de la corporación como a la ciudadania.
+Las comisiones informativas se integran de forma que su composición política sea proporcional a la representación existente en la Corporación. Como regla, sus sesiones no son públicas; las del Pleno sí lo son, con la excepción legal de asuntos que afecten al honor, intimidad o propia imagen.
 
-## Constitución, quórum y votaciones
+### 2.1. La Secretaría del órgano
 
-| Concepto | Explicación |
+La Secretaría asegura la asistencia jurídica, la convocatoria y el correcto desarrollo de las votaciones; redacta y custodia las actas y expide certificaciones de actos y acuerdos con el visto bueno de la Presidencia. En las materias que exijan mayoría especial, el asesoramiento legal de Secretaría es preceptivo. Esta función no convierte al Secretario en un miembro político del Pleno ni sustituye el voto de los concejales.
+
+## 3. Sesiones y convocatoria
+
+Las sesiones pueden ser **ordinarias**, cuando tienen una periodicidad preestablecida, o **extraordinarias**, cuando se convocan para asuntos concretos. Las extraordinarias pueden ser **urgentes** si no permite esperar el plazo ordinario de convocatoria.
+
+El Alcalde o Presidente convoca las sesiones del Pleno y fija el orden del día asistido por la Secretaría. La convocatoria extraordinaria debe estar motivada. Debe acompañarse del orden del día con suficiente detalle y de los borradores de actas que hayan de aprobarse; la convocatoria, orden del día y borradores se notifican a los miembros en la forma legalmente prevista.
+
+### 3.1. Convocatoria a solicitud de concejales
+
+La cuarta parte, al menos, del número legal de miembros de la Corporación puede solicitar una sesión extraordinaria del Pleno. La solicitud debe ser escrita, razonada y firmada personalmente por quienes la suscriben. Ningún concejal puede solicitar más de **tres** sesiones extraordinarias al año por esta vía.
+
+La regla básica vigente de la LRBRL exige que la sesión se celebre en un plazo máximo de **quince días hábiles** desde la solicitud. Si el Presidente no convoca dentro del plazo legal, opera la convocatoria automática prevista en el artículo 46.2.a LRBRL: se fija para el décimo día hábil siguiente a la finalización del plazo, a las 12:00 horas, con notificación de la Secretaría. El ROF contiene además reglas procedimentales sobre la convocatoria dentro de los cuatro días siguientes y el límite de dos meses; en test debe identificarse qué plazo pregunta la norma aplicable y no mezclar automáticamente ambos regímenes.
+
+### 3.2. Antelación y documentación
+
+Las sesiones plenarias se convocan con una antelación mínima de **<mark>dos días hábiles</mark>**, salvo las extraordinarias urgentes. La documentación íntegra que sirva de base al debate y, en su caso, a la votación debe estar a disposición de los concejales en la Secretaría desde el mismo día de la convocatoria.
+
+| Tipo de sesión | Regla de examen |
 | --- | --- |
-| Quórum de constitución | Número mínimo de miembros presentes para celebrar validamente. |
-| Presidencia | Dirige la sesión, ordena debate y proclama acuerdos. |
-| Secretaría | Da fe, asesora legalmente y levanta acta. |
-| Mayoria simple | Mas votos a favor que en contra. |
-| Mayorías especiales | Exigidas para materias de especial relevancia. |
+| Ordinaria o extraordinaria | Dos días hábiles de antelación. |
+| Extraordinaria urgente | Puede no respetar el plazo; la urgencia se somete a ratificación o declaración al comienzo. |
+| Junta de Gobierno Local | El ROF establece, como regla, 24 horas; en la urgente debe declararse la urgencia por la mayoría de sus miembros, sin perjuicio del reglamento orgánico aplicable. |
 
-Las votaciones pueden ser ordinarias, nominales o secretas según las reglas aplicables. En la práctica, el acta debe reflejar asistentes, asuntos tratados, resultado de votaciones, acuerdos adoptados y, cuando proceda, intervenciones o votos particulares.
+## 4. Orden del día
 
-## Actas y ejecución de acuerdos
+El orden del día es la relación ordenada y suficientemente detallada de los asuntos que se van a debatir. Cumple una doble función: permite a los miembros preparar su posición y delimita las materias sobre las que puede formarse válidamente la voluntad del órgano.
 
-El acta documenta la sesión y permite acreditar lo acordado. Debe aprobarse en los términos reglamentarios y custodiarse adecuadamente. Los acuerdos se notifican, publican o ejecutan según su naturaleza: no es lo mismo aprobar una ordenanza, adjudicar un contrato, resolver una moción política o aprobar la Cuenta General.
+En el Pleno, solo deben incluirse ordinariamente asuntos previamente dictaminados, informados o sometidos a consulta de la comisión informativa correspondiente. En las sesiones ordinarias se incluye siempre el punto de **ruegos y preguntas**, que es un instrumento de control e información y no habilita por sí mismo para adoptar acuerdos.
 
-Para un administrativo, este tema se traduce en preparar convocatorias, recopilar expedientes, controlar firmas, publicar anuncios, tramitar notificaciones, numerar acuerdos y archivar actas. La calidad administrativa del órgano colegiado depende mucho de esa gestión previa y posterior.
+Como regla, son nulos los acuerdos adoptados en sesiones extraordinarias sobre asuntos no comprendidos en la convocatoria y los adoptados en sesiones ordinarias sobre materias no incluidas en el orden del día. La excepción exige una declaración especial y previa de urgencia por el órgano correspondiente con la mayoría prevista legalmente. Además, si el asunto no ha sido informado por la comisión informativa, la inclusión urgente no permite acordar sobre él hasta que el Pleno ratifique su inclusión.
 
-## Convocatoria
+El orden de debate y votación es, en principio, el de la convocatoria. La Presidencia puede alterarlo o retirar un asunto si su aprobación exige una mayoría especial que no pueda obtenerse en ese momento. Un concejal puede pedir que un expediente se retire para completar documentos o que quede sobre la mesa; la petición se vota antes de votar el fondo.
 
-La convocatoria es el acto por el que se llama a los miembros a una sesión. Debe realizarse por quien tenga competencia, normalmente el Presidente del órgano, y notificarse con antelación suficiente según tipo de sesión y normativa aplicable.
+> **Error típico de test:** «ruegos y preguntas» no es una vía general para aprobar asuntos nuevos. Tampoco basta con que todos los asistentes conozcan verbalmente un expediente: la urgencia y la inclusión en el orden del día tienen requisitos formales.
 
-Debe indicar lugar, fecha, hora y orden del día. En órganos locales, la documentación de los asuntos debe estar a disposición de los miembros para que puedan conocerlos y deliberar. La convocatoria defectuosa puede afectar a la validez de la sesión si produce indefensión o impide participar.
+## 5. Constitución y quórum
 
-Las sesiones pueden ser ordinarias, extraordinarias y extraordinarias urgentes. Las ordinarias se celebran con periodicidad establecida. Las extraordinarias responden a asuntos concretos. Las urgentes requieren ratificación de urgencia cuando proceda.
+El **quórum de constitución** es el mínimo de asistencia necesario para que el Pleno pueda comenzar y adoptar acuerdos. El Pleno se constituye válidamente con la asistencia de **<mark>un tercio del número legal de miembros</mark>**, sin que ese mínimo pueda ser inferior a **tres**. El quórum debe mantenerse durante toda la sesión.
 
-En el Pleno local, la convocatoria de las sesiones ordinarias y extraordinarias debe realizarse, como regla general, con al menos <mark>dos días hábiles</mark> de antelación. Las sesiones extraordinarias urgentes pueden convocarse sin esa antelación, pero el Pleno debe ratificar la urgencia como primer punto.
+Siempre deben asistir la Presidencia y la Secretaría de la Corporación, o quienes legalmente les sustituyan. En el supuesto específico de municipios de hasta 100 residentes que no funcionen en régimen de concejo abierto, la LRBRL contiene una regla especial de constitución con el número legal de miembros, nunca inferior a dos.
 
-La convocatoria de sesión extraordinaria del Pleno puede ser solicitada por la cuarta parte, al menos, del número legal de miembros de la Corporación, sin que ningún concejal pueda solicitar más de tres anualmente.
+Si no se alcanza el quórum en primera convocatoria, el ROF entiende convocada automáticamente la sesión a la misma hora **dos días después**. Si tampoco entonces se alcanza, la Presidencia deja sin efecto la convocatoria y pospone los asuntos para una sesión posterior. No debe confundirse esta segunda convocatoria del ROF con una autorización para celebrar la sesión con cualquier número de asistentes.
 
-## Orden del día
+### 5.1. Publicidad y unidad del acto
 
-El orden del día enumera los asuntos que van a tratarse. Es una garantía para miembros y ciudadanos, porque permite conocer el contenido de la sesión. Cómo regla general, no pueden adoptarse acuerdos sobre asuntos no incluidos, salvo supuestos de urgencia y con los requisitos legales.
+Las sesiones del Pleno son públicas. El debate y la votación pueden ser secretos, por mayoría absoluta, cuando el asunto afecte al derecho al honor, intimidad personal o familiar o propia imagen. El público no puede intervenir ni realizar manifestaciones que perturben la sesión; una vez levantada, la Corporación puede establecer un turno de consultas sobre temas concretos de interés municipal.
 
-En el Pleno, el orden del día puede incluir aprobación de actas, parte resolutiva, mociones, asuntos de control, dación de cuenta, ruegos y preguntas, según reglamento. En la Junta de Gobierno Local se incluyen expedientes ejecutivos de su competencia.
+Las sesiones deben respetar el principio de **unidad de acto** y procurarse que terminen el mismo día. Si quedan asuntos sin debatir, se incluirán en la siguiente sesión.
 
-## Constitución valida
+## 6. Deliberación y votaciones
 
-Para que un órgano colegiado pueda actuar válidamente debe concurrir quórum. En general se exige presencia del Presidente y Secretario o quienes legalmente les sustituyan, y número mínimo de miembros. En el Pleno local se exige quórum de un tercio del número legal de miembros, que nunca puede ser inferior a tres, manteniéndose durante toda la sesión.
+Terminada la deliberación, la Presidencia plantea de forma clara los términos de la votación y su forma de emisión. Iniciada la votación no puede interrumpirse: no se concede el uso de la palabra ni se permite entrar o salir del salón mientras se vota.
 
-Si no existe quórum, no puede celebrarse validamente la sesión. La falta de Secretario o sustituto impide dar fe y documentar correctamente acuerdos.
+### 6.1. Mayorías
 
-## Deliberación
-
-La deliberación permite exponer posiciones, debatir propuestas y formular enmiendas o intervenciones. El Presidente dirige el debate, concede y retira palabras, mantiene orden y asegura cumplimiento del reglamento.
-
-En órganos políticos como el Pleno, la deliberación tiene importancia democratica y de control. En órganos ejecutivos, la deliberación suele ser más técnica y vinculada a expedientes.
-
-## Votaciones
-
-Los acuerdos se adoptan mediante votación. Pueden existir votaciones ordinarias, nominales o secretas, según materia y reglamento. La regla general es <mark>mayoría simple</mark> de miembros presentes, salvo materias que exijan <mark>mayoría absoluta</mark> u otras mayorías reforzadas.
-
-La <mark>mayoría simple</mark> se alcanza cuando hay más votos a favor que en contra. La <mark>mayoría absoluta</mark> exige voto favorable de más de la mitad del número legal de miembros de la corporación. Algunas materias, como alteración de términos municipales o aprobaciones especialmente relevantes, pueden exigir mayorías cualificadas.
-
-El voto puede ser afirmativo, negativo o abstención. En órganos locales, el sentido del voto queda reflejado en acta cuando proceda. Los empates se resuelven conforme a reglas legales, normalmente con voto de calidad del Presidente en determinados órganos.
-
-| Mayoría | Cómo se calcula | Ejemplo de uso |
+| Mayoría | Cálculo | Clave para resolver preguntas |
 | --- | --- | --- |
-| <mark>Mayoría simple</mark> | Más votos afirmativos que negativos de los presentes. | Acuerdos ordinarios si la ley no exige otra. |
-| <mark>Mayoría absoluta</mark> | Más de la mitad del número legal de miembros. | Materias reservadas por legislación local. |
-| <mark>Mayoría cualificada</mark> | Proporción reforzada prevista por ley. | Supuestos especialmente relevantes si la norma lo exige. |
-| Voto de calidad | Decide empate cuando procede. | Órganos en los que la presidencia tiene voto dirimente. |
+| **<mark>Simple</mark>** | Más votos afirmativos que negativos entre los miembros presentes. | Es la regla general. Las abstenciones no son votos negativos. |
+| **Absoluta** | Más de la mitad del número legal de miembros de la Corporación. | No se calcula solo sobre los asistentes. Solo procede cuando la ley la exige. |
+| Dos tercios y otras especiales | La proporción y la base de cálculo dependen del precepto legal aplicable. | No basta con llamar «cualificada» a cualquier mayoría reforzada. |
 
-En el Pleno de las entidades locales, el voto es personal e indelegable. Los empates se resuelven mediante nueva votación y, si persiste el empate, decide el voto de calidad del Presidente.
+El voto de los concejales es personal e indelegable. Puede emitirse a favor o en contra, o mediante abstención. Quien se ausenta del salón después de iniciada la deliberación y no está presente al votar se considera abstencionista a efectos de esa votación; si vuelve antes de votar, puede participar.
 
-## Actas y certificaciones
+Si hay empate, se realiza una segunda votación. Si persiste, decide el voto de calidad de la Presidencia. Este voto dirimente no equivale a un doble voto ordinario ni permite alterar el resultado antes de repetir la votación.
 
-El Secretario levanta acta de cada sesión. El acta recoge asistentes, orden del día, lugar y hora, incidencias, acuerdos, votaciones y otros extremos. Una vez aprobada, acredita formalmente lo ocurrido.
+### 6.2. Clases de votación
 
-Las certificaciones de acuerdos permiten hacer valer el contenido de acuerdos ante unidades administrativas, interesados u otras Administraciones. En el trabajo administrativo local, preparar expedientes para órganos colegiados y ejecutar acuerdos es una función diaria.
+| Tipo | Cómo se realiza | Regla |
+| --- | --- | --- |
+| Ordinaria | Signos convencionales de asentimiento, disentimiento o abstención. | Sistema normal. |
+| Nominal | Llamamiento por orden alfabético; cada miembro responde «sí», «no» o «me abstengo» y la Presidencia interviene en último lugar. | Requiere solicitud de un grupo municipal y aprobación del Pleno por mayoría simple en votación ordinaria. |
+| Secreta | Papeletas depositadas en urna o sistema equivalente. | Solo puede utilizarse para elección o destitución de personas. |
 
-| Dato de órgano colegiado local | Regla |
-|---|---|
-| Antelación de convocatoria ordinaria o extraordinaria | <mark>Dos días hábiles</mark>, salvo urgencia. |
-| Quórum del Pleno | Un tercio del número legal de miembros, nunca inferior a tres. |
-| Presencias necesarias | Presidente y Secretario o sustitutos legales. |
-| Voto delegado | No cabe en el Pleno local como regla general. |
-| Certificaciones | Las expide Secretaría con visto bueno de la Presidencia. |
+La LRBRL establece la votación ordinaria como regla general; la nominal y la secreta no deben presentarse como opciones indistintas para cualquier asunto. En supuestos como la moción de censura o la cuestión de confianza, la legislación electoral puede imponer un régimen específico.
+
+## 7. Actas y certificaciones
+
+De cada sesión, la Secretaría extiende acta. En el Pleno debe constar, como mínimo: lugar, fecha y hora de inicio; Presidente y miembros presentes, ausentes excusados y ausentes sin excusa; carácter de la sesión y convocatoria; asistencia de Secretaría y, si concurre, Intervención; asuntos examinados; opiniones sintetizadas e incidencias; votaciones —incluido el sentido individual en las nominales—; resultado y acuerdos.
+
+El acta se distribuye con la convocatoria de la siguiente sesión. Al comenzar esa sesión se formulan observaciones y se aprueba, si procede. No puede modificarse el fondo de los acuerdos anteriores: solo se corrigen errores materiales o de hecho. La aprobación se hace constar en el acta posterior.
+
+La certificación acredita el contenido de un acto o acuerdo que ya consta en el expediente o libro correspondiente. La expide la Secretaría con el visto bueno de la Presidencia del Pleno; no sustituye al acta ni convierte una propuesta no votada en acuerdo. Las actas de la Junta de Gobierno se transcriben en libro distinto del de las sesiones plenarias.
+
+## 8. Especialidades de la Junta de Gobierno Local y comisiones
+
+La Junta de Gobierno Local celebra sus sesiones conforme a la LRBRL, el ROF y el reglamento orgánico. Sus sesiones no son públicas y sus acuerdos se comunican a las Administraciones competentes; el ROF prevé también el envío de copia del acta a los miembros de la Corporación. Para constituirse, exige en primera convocatoria la mayoría absoluta de sus componentes y, en segunda, una tercera parte con un mínimo de tres.
+
+Cuando actúa en ejercicio de competencias delegadas o atribuidas legalmente adopta acuerdos mediante votación formal. En sus reuniones meramente deliberantes no adopta acuerdos, sino que puede formalizar el resultado como dictamen.
+
+Las comisiones informativas preparan los asuntos que deben decidirse y permiten el seguimiento de la gestión. Su dictamen no es la decisión final del Pleno. La Comisión Especial de Cuentas informa la Cuenta General antes de su aprobación plenaria.
+
+## 9. Caso práctico: preparar un Pleno municipal
+
+Ante un expediente que debe llevarse al Pleno del Ayuntamiento de Burgos, el orden lógico de comprobación es:
+
+1. Verificar que el órgano es competente y que el expediente está concluso, con los informes preceptivos.
+2. Comprobar si debe pasar por una comisión informativa y obtener su dictamen.
+3. Preparar la propuesta, el orden del día y el borrador del acta anterior.
+4. Convocar y notificar respetando los dos días hábiles; dejar la documentación íntegra en Secretaría desde la convocatoria.
+5. Comprobar al inicio la Presidencia, Secretaría y quórum, manteniéndolo durante toda la sesión.
+6. Debatir y votar en el orden previsto, identificando la mayoría exigible y el resultado de votos.
+7. Redactar el acta, aprobarla en la siguiente sesión y expedir, si se necesita, certificación del acuerdo para su notificación, publicación o ejecución.
+
+## 10. Esquema final de cifras y reglas
+
+> **Para recordar:** cuarta parte solicita sesión extraordinaria; **tres** solicitudes anuales como máximo por concejal; **quince días hábiles** para celebrarla; **dos días hábiles** de antelación plenaria; **un tercio y mínimo tres** para el quórum; segunda convocatoria del ROF a los **dos días**; **mayoría simple** como regla; empate, segunda votación y voto de calidad.
+
+> **No mezclar:** quórum de constitución (asistencia) ≠ mayoría simple (votos afirmativos frente a negativos) ≠ mayoría absoluta (más de la mitad del número legal). Convocatoria ≠ orden del día ≠ acta ≠ certificación.
+
+### Errores típicos de test
+
+- El plazo de dos días es **hábil**, no natural.
+- La documentación debe estar disponible en Secretaría desde el mismo día de la convocatoria.
+- El quórum se mantiene durante toda la sesión y exige Presidencia y Secretaría o sus sustitutos.
+- La urgencia no convierte automáticamente un asunto nuevo en acuerdo: debe declararse y cumplirse la ratificación o inclusión exigida.
+- La mayoría simple compara votos a favor y en contra; la absoluta se calcula sobre el número legal.
+- La votación secreta se reserva a elección o destitución de personas conforme al ROF.
+- La certificación la expide Secretaría con visto bueno de Presidencia; el acta recoge la sesión y se aprueba después.

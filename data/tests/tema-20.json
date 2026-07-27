@@ -278,5 +278,173 @@
     "referencia": "II.11 · Votaciones",
     "explicación": "El voto de calidad resuelve el empate cuando el régimen jurídico aplicable así lo previene.",
     "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-01",
+    "pregunta": "Según el artículo 46.2.a de la LRBRL, la sesión extraordinaria del Pleno solicitada por al menos la cuarta parte del número legal de miembros no puede demorarse más de:",
+    "opciones": [
+      "quince días hábiles desde la solicitud",
+      "quince días naturales desde la convocatoria",
+      "dos meses desde la notificación",
+      "cuatro días hábiles desde el escrito"
+    ],
+    "correcta": 0,
+    "explicación": "La regla vigente de la LRBRL fija un máximo de quince días hábiles desde que se solicita la sesión; el ROF contiene además reglas procedimentales que no deben mezclarse automáticamente con ese plazo.",
+    "referencia": "II.11 · 3.1 Convocatoria a solicitud de concejales",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-02",
+    "pregunta": "La documentación íntegra de los asuntos del orden del día que sirva de base al debate y, en su caso, a la votación debe estar a disposición de los concejales:",
+    "opciones": [
+      "Desde el mismo día de la convocatoria en la Secretaría",
+      "Solo durante la sesión plenaria",
+      "Al menos dos días naturales después de la convocatoria",
+      "Únicamente cuando la solicite la oposición"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 46.2.b LRBRL exige que la documentación íntegra esté disponible en la Secretaría desde el mismo día de la convocatoria.",
+    "referencia": "II.11 · 3.2 Antelación y documentación",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-03",
+    "pregunta": "En una sesión plenaria ordinaria, el punto de ruegos y preguntas:",
+    "opciones": [
+      "Debe incluirse siempre y no habilita por sí mismo para adoptar acuerdos sobre asuntos nuevos",
+      "Permite aprobar cualquier expediente no incluido en la convocatoria",
+      "Solo puede incluirse en sesiones extraordinarias urgentes",
+      "Sustituye al dictamen de la comisión informativa"
+    ],
+    "correcta": 0,
+    "explicación": "El ROF exige incluir ruegos y preguntas en las sesiones ordinarias, pero son un instrumento de control e información, no una vía general para aprobar asuntos nuevos.",
+    "referencia": "II.11 · 4. Orden del día",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-04",
+    "pregunta": "Si una sesión plenaria no alcanza el quórum en primera convocatoria, el ROF prevé que quede convocada automáticamente:",
+    "opciones": [
+      "A la misma hora dos días después",
+      "A la misma hora al día siguiente",
+      "Quince días después, sin nueva convocatoria",
+      "Una hora después, con cualquier número de asistentes"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 90.2 ROF fija la segunda convocatoria automática a la misma hora dos días después; si tampoco hay quórum, se deja sin efecto la convocatoria.",
+    "referencia": "II.11 · 5. Constitución y quórum",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-05",
+    "pregunta": "El quórum ordinario de constitución del Pleno exige, además de la Presidencia y la Secretaría o sus sustitutos legales:",
+    "opciones": [
+      "Un tercio del número legal de miembros, nunca inferior a tres",
+      "La mitad de los miembros presentes, sin mínimo",
+      "La mayoría absoluta de los miembros presentes",
+      "Dos tercios del número legal, siempre"
+    ],
+    "correcta": 0,
+    "explicación": "El quórum ordinario del Pleno es un tercio del número legal, con un mínimo de tres, y debe mantenerse durante toda la sesión.",
+    "referencia": "II.11 · 5. Constitución y quórum",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-06",
+    "pregunta": "Las sesiones del Pleno son públicas, pero el debate y la votación pueden ser secretos cuando:",
+    "opciones": [
+      "El asunto afecte al honor, la intimidad o la propia imagen y se acuerde por mayoría absoluta",
+      "Lo solicite verbalmente cualquier persona del público",
+      "La Presidencia lo decida sin votación en cualquier expediente",
+      "Se trate siempre de una contratación pública"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 88 ROF permite el secreto por mayoría absoluta cuando estén afectados los derechos del artículo 18.1 de la Constitución.",
+    "referencia": "II.11 · 5.1 Publicidad y unidad del acto",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-07",
+    "pregunta": "La mayoría absoluta de un órgano colegiado local se calcula atendiendo a:",
+    "opciones": [
+      "Más de la mitad del número legal de miembros",
+      "Más votos a favor que en contra entre los asistentes",
+      "La mitad de los miembros que hayan votado",
+      "Dos tercios de los miembros presentes en todo caso"
+    ],
+    "correcta": 0,
+    "explicación": "La mayoría absoluta se refiere al número legal de miembros; la comparación entre votos a favor y en contra de los presentes define la mayoría simple.",
+    "referencia": "II.11 · 6.1 Mayorías",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-08",
+    "pregunta": "En el Pleno, la votación nominal requiere:",
+    "opciones": [
+      "Solicitud de un grupo municipal y aprobación por mayoría simple en votación ordinaria",
+      "Solicitud individual de cualquier ciudadano y unanimidad",
+      "Siempre una decisión unilateral de la Secretaría",
+      "Mayoría absoluta en votación secreta"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 102 ROF exige que la solicite un grupo municipal y que el Pleno la apruebe por mayoría simple en votación ordinaria.",
+    "referencia": "II.11 · 6.2 Clases de votación",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-09",
+    "pregunta": "Conforme al ROF, la votación secreta solo puede utilizarse para:",
+    "opciones": [
+      "La elección o destitución de personas",
+      "Cualquier asunto si lo pide un concejal",
+      "Todas las cuestiones que afecten al presupuesto",
+      "La aprobación del acta anterior"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 102.3 ROF reserva la votación secreta a la elección o destitución de personas.",
+    "referencia": "II.11 · 6.2 Clases de votación",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-10",
+    "pregunta": "Si se produce empate en una votación plenaria, el procedimiento correcto es:",
+    "opciones": [
+      "Repetir la votación y, si persiste, decidir mediante el voto de calidad del Presidente",
+      "Dar por aprobada la propuesta por abstención de la Presidencia",
+      "Aplicar directamente la mayoría absoluta",
+      "Remitir siempre el asunto a la Comisión Especial de Cuentas"
+    ],
+    "correcta": 0,
+    "explicación": "El ROF prevé una segunda votación y, si continúa el empate, el voto de calidad de la Presidencia.",
+    "referencia": "II.11 · 6.1 Mayorías",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-11",
+    "pregunta": "Al aprobar el acta de la sesión anterior, las observaciones pueden servir para:",
+    "opciones": [
+      "Corregir errores materiales o de hecho, pero no modificar el fondo de los acuerdos",
+      "Reabrir cualquier votación ya celebrada",
+      "Cambiar la mayoría con la que se adoptó el acuerdo",
+      "Sustituir el expediente administrativo completo"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 91.1 ROF limita las rectificaciones del acta a errores materiales o de hecho y prohíbe modificar el fondo de los acuerdos.",
+    "referencia": "II.11 · 7. Actas y certificaciones",
+    "tema": 20
+  },
+  {
+    "id": "burgos-ii11-deep-12",
+    "pregunta": "La certificación de un acuerdo del Pleno debe expedirla:",
+    "opciones": [
+      "La Secretaría, con el visto bueno de la Presidencia del Pleno",
+      "La Intervención, con el visto bueno de cualquier concejal",
+      "El portavoz del grupo mayoritario sin intervención de Secretaría",
+      "El público asistente al finalizar la sesión"
+    ],
+    "correcta": 0,
+    "explicación": "La Secretaría expide las certificaciones de actos y acuerdos y necesitan el visto bueno de la Presidencia del Pleno.",
+    "referencia": "II.11 · 7. Actas y certificaciones",
+    "tema": 20
   }
 ]
