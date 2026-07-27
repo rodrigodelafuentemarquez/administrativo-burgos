@@ -19,7 +19,7 @@
 - **Mejoras realizadas:** reestructuración sustantiva en ocho bloques; cobertura explícita de todos los epígrafes oficiales; tabla de títulos y capítulos del Título I; cuadro artículo-concepto de derechos; explicación diferenciada de igualdad formal/material, ley orgánica, tutela preferente y sumaria, amparo, Defensor del Pueblo y principios rectores; lista completa y exacta del artículo 55.1; suspensión individual del artículo 55.2; conexión con la reforma constitucional; casos breves, esquema final y tabla de errores típicos. Se corrigieron acentos y se redujeron marcas manuales a reglas nucleares, respetando el motor `rehypeStudyHighlights`.
 - **Tests añadidos/cambiados:** se añadieron 8 preguntas nuevas (`burgos-i01-deep-01` a `burgos-i01-deep-08`) sobre artículo 55.1, ley orgánica, reunión, amparo, igualdad, suspensión individual, reforma ordinaria y detención preventiva. Se mantuvieron las 28 preguntas existentes sin duplicados; el banco queda en 36 preguntas y se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, comprobación de igualdad entre JSON editable y público, `git diff --check` y `npm run build` completados correctamente (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `5a0abb6` (`mejora tema I.2 Constitución Española II`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.2, Constitución Española (II), salvo que una revisión posterior detecte cambios oficiales en el texto constitucional.
 
 ## 27 de julio de 2026, 09:53 (Europe/Madrid)
