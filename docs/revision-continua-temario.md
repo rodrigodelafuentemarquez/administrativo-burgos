@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-v06-deep-01` a `burgos-v06-deep-12` sobre anonimización, bases administrativas, plazo de derechos, portabilidad, encargado, obligación de DPD, funciones del DPD, notificación de brechas, comunicación a afectados, AEPD en Burgos, limitación frente a supresión y desconexión digital. El banco pasa de 23 a 35 preguntas; se actualizó el índice y la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de JSON, 35 preguntas, IDs únicos, opciones, respuestas, explicaciones y equivalencia editable/pública; comprobación de índices; comprobación de marcas manuales `0/0`; `git diff --check`; `npm run build` correcto (101 páginas).
 - **Fuentes oficiales consultadas:** [RGPD en EUR-Lex](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [LOPDGDD en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2018-16673), [LO 7/2021 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-8487) y [AEPD](https://www.aepd.es/).
-- **Commit/push:** commit  () realizado; push pendiente de completar al cerrar esta ejecución.
+- **Commit/push:** commit `3179b6c` (`mejora profunda tema V.6 protección de datos`) realizado y subido a `origin/main`.
 - **Siguiente tema sugerido:** V.7, nuevas tecnologías y Administración electrónica; centrarlo en funcionamiento electrónico del sector público, identificación/firma, sedes, actuación automatizada, interoperabilidad, archivo y asistencia al ciudadano sin repetir V.4 ni V.8.
 
 ## 27 de julio de 2026, 15:07 (Europe/Madrid)
