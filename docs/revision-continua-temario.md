@@ -33,3 +33,15 @@
 - **Verificación:** `npm run prepare:data`, comprobación de igualdad entre JSON editable y público, `git diff --check` y `npm run build` completados correctamente (101 páginas).
 - **Commit realizado:** pendiente de commit y push en esta ejecución.
 - **Siguiente tema sugerido:** I.3, organización territorial del Estado, comunidades autónomas, estatutos y competencias.
+
+## 27 de julio de 2026, 10:02 (Europe/Madrid)
+
+- **Tema revisado:** I.3, Constitución Española (III): organización territorial del Estado, comunidades autónomas, Estatutos y distribución de competencias. **Estado real: revisión profunda completada; queda cerrado salvo actualización normativa posterior.**
+- **Diagnóstico inicial:** el tema tenía una base extensa y cubría los bloques oficiales, pero seguía en estado borrador y carecía de suficiente detalle operativo para las vías de acceso a la autonomía. Faltaban los plazos del artículo 143, una comparativa clara entre los artículos 143, 144 y 151, matices de legislación frente a ejecución en el artículo 149.1, un método de resolución de preguntas, errores típicos y esquema final. También presentaba varias tildes ausentes.
+- **Archivos leídos relevantes:** `README.md`, `docs/mapeo-temario-burgos.md`, este registro, `src/content/programa/grupo-i-tema-03.md`, `src/content/temas/tema-07.md`, `data/tests/index.json`, `data/tests/tema-03.json` y `src/utils/rehypeStudyHighlights.mjs`. Se contrastaron los artículos 137-158 de la Constitución y la vigencia del texto constitucional en el BOE, cuya última actualización publicada figura el 20/05/2026.
+- **Archivos tocados:** `src/content/programa/grupo-i-tema-03.md`, `data/tests/tema-03.json`, `public/data/tests/tema-03.json` y este registro.
+- **Mejoras realizadas:** el tema pasa a `revisado`; se añaden una tabla comparativa de las vías constitucionales, los plazos de seis meses y cinco años del artículo 143, la mayoría reforzada del artículo 151, un cuadro de precisiones del artículo 149.1, un procedimiento para resolver preguntas competenciales, correcciones ortográficas, errores típicos de test y un esquema final de repaso. Se mantienen las marcas manuales nucleares y no se modifica el motor común de resaltado.
+- **Tests añadidos/cambiados:** se añaden 8 preguntas (`burgos-i03-deep-01` a `burgos-i03-deep-08`) sobre plazos de iniciativa, mayorías del artículo 151, artículo 144, ley marco, armonización, legislación laboral, límites provinciales y artículo 155. El banco pasa de 27 a 35 preguntas, sin duplicados detectados; se sincroniza la copia pública.
+- **Verificación ejecutada:** `npm run prepare:data`, comprobación de igualdad entre JSON editable y público, `git diff --check` y `npm run build` completados correctamente (101 páginas).
+- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Siguiente tema sugerido:** I.4, Gobierno y Administración del Estado; revisar su delimitación frente a I.2 y evitar duplicidades con régimen jurídico de las Administraciones Públicas.

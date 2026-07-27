@@ -391,5 +391,77 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-i03-deep-01",
+    "tema": 3,
+    "pregunta": "En la vía ordinaria del artículo 143 CE, ¿en qué plazo debe ejercerse la iniciativa autonómica desde el primer acuerdo adoptado al efecto?",
+    "opciones": ["Seis meses", "Tres meses", "Un año", "Cinco años"],
+    "correcta": 0,
+    "explicación": "El artículo 143.2 CE exige que la iniciativa se ejerza dentro del plazo de seis meses desde el primer acuerdo adoptado por alguna de las corporaciones locales interesadas.",
+    "referencia": "Tema I.3, acceso a la autonomía · artículo 143.2 CE"
+  },
+  {
+    "id": "burgos-i03-deep-02",
+    "tema": 3,
+    "pregunta": "¿Qué mayoría de municipios exige el artículo 151 CE para la iniciativa autonómica reforzada?",
+    "opciones": ["Tres cuartas partes de los municipios de cada provincia, con mayoría del censo electoral", "Dos terceras partes de los municipios, sin requisito de población", "Mayoría simple de los municipios de todo el territorio", "La unanimidad de los municipios y Diputaciones"],
+    "correcta": 0,
+    "explicación": "La iniciativa del artículo 151.1 CE requiere tres cuartas partes de los municipios de cada provincia, que representen al menos la mayoría del censo electoral.",
+    "referencia": "Tema I.3, vías de acceso a la autonomía · artículo 151.1 CE"
+  },
+  {
+    "id": "burgos-i03-deep-03",
+    "tema": 3,
+    "pregunta": "¿Cuál es una habilitación excepcional del artículo 144 CE?",
+    "opciones": ["Autorizar, por ley orgánica y por interés nacional, una comunidad uniprovincial que no reúna los requisitos del artículo 143", "Transferir competencias estatales mediante ley ordinaria", "Aprobar cualquier Estatuto por decreto del Gobierno", "Sustituir al Senado en leyes de armonización"],
+    "correcta": 0,
+    "explicación": "El artículo 144 permite a las Cortes Generales actuar excepcionalmente por interés nacional y mediante ley orgánica en los supuestos que enumera.",
+    "referencia": "Tema I.3, acceso a la autonomía · artículo 144 CE"
+  },
+  {
+    "id": "burgos-i03-deep-04",
+    "tema": 3,
+    "pregunta": "Una ley marco del artículo 150.1 CE permite a las comunidades autónomas:",
+    "opciones": ["Dictar normas legislativas sobre materias estatales dentro de los principios, bases y directrices fijados por una ley estatal", "Asumir automáticamente la titularidad de cualquier competencia estatal", "Modificar unilateralmente su Estatuto de Autonomía", "Armonizar las normas de otras comunidades autónomas"],
+    "correcta": 0,
+    "explicación": "La ley marco atribuye una facultad normativa dentro del marco estatal y no transfiere por sí sola la titularidad de la materia.",
+    "referencia": "Tema I.3, técnicas del artículo 150 CE"
+  },
+  {
+    "id": "burgos-i03-deep-05",
+    "tema": 3,
+    "pregunta": "Para apreciar la necesidad de una ley de armonización del artículo 150.3 CE se requiere:",
+    "opciones": ["Mayoría absoluta de cada Cámara de las Cortes Generales", "Mayoría absoluta solo del Congreso", "Mayoría de tres quintos del Senado", "Acuerdo previo del Tribunal Constitucional"],
+    "correcta": 0,
+    "explicación": "El artículo 150.3 CE atribuye a las Cortes Generales la apreciación de esa necesidad por mayoría absoluta de cada Cámara.",
+    "referencia": "Tema I.3, leyes de armonización · artículo 150.3 CE"
+  },
+  {
+    "id": "burgos-i03-deep-06",
+    "tema": 3,
+    "pregunta": "Según el artículo 149.1.7.ª CE, ¿qué combinación es correcta?",
+    "opciones": ["El Estado tiene la legislación laboral y las comunidades autónomas pueden ejercer su ejecución", "Las comunidades autónomas tienen toda la legislación laboral y el Estado solo la ejecución", "El Estado carece de competencia sobre legislación laboral", "La legislación laboral corresponde exclusivamente a los municipios"],
+    "correcta": 0,
+    "explicación": "El artículo 149.1.7.ª CE reserva al Estado la legislación laboral, sin perjuicio de su ejecución por los órganos autonómicos.",
+    "referencia": "Tema I.3, distribución competencial · artículo 149.1.7.ª CE"
+  },
+  {
+    "id": "burgos-i03-deep-07",
+    "tema": 3,
+    "pregunta": "¿Qué instrumento exige la Constitución para alterar los límites de una provincia?",
+    "opciones": ["Ley orgánica", "Ley ordinaria", "Real decreto-ley", "Orden ministerial"],
+    "correcta": 0,
+    "explicación": "El artículo 141.1 CE dispone que cualquier alteración de los límites provinciales se aprueba mediante ley orgánica.",
+    "referencia": "Tema I.3, municipios y provincias · artículo 141.1 CE"
+  },
+  {
+    "id": "burgos-i03-deep-08",
+    "tema": 3,
+    "pregunta": "En el procedimiento del artículo 155 CE, si el requerimiento al Presidente autonómico no es atendido, la aprobación necesaria corresponde al:",
+    "opciones": ["Senado, por mayoría absoluta", "Congreso, por mayoría absoluta", "Consejo de Ministros, por mayoría simple", "Tribunal Constitucional, por mayoría de tres quintos"],
+    "correcta": 0,
+    "explicación": "El Gobierno puede adoptar las medidas del artículo 155 solo después del requerimiento y de obtener la aprobación del Senado por mayoría absoluta.",
+    "referencia": "Tema I.3, control de las comunidades autónomas · artículo 155 CE"
   }
 ]

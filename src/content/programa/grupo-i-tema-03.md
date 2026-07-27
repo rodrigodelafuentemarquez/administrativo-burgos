@@ -3,7 +3,7 @@ grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidade
 tema: 3
 codigo: "Tema I.3"
 titulo: "La Constitución Española (III): la organización territorial del Estado español. Las comunidades autónomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autónomas."
-estado: "borrador"
+estado: "revisado"
 ---
 
 ## Normativa de referencia
@@ -25,11 +25,11 @@ La Constitución regula la organización territorial del Estado en el título VI
 | <mark>Artículo 141</mark> | Provincia | Entidad local y división territorial para actividades del Estado. |
 | <mark>Artículo 142</mark> | Hacienda local | Suficiencia financiera. |
 
-Este precepto es fundamental porque reconoce tres niveles territoriales: local, provincial y autonómico. La autonomía no es identica en todos ellos. La autonomía de municipios y provincias es autonomía local, orientada a gestionar intereses propios dentro del marco de la ley. La autonomía de las comunidades autónomas tiene dimensión política, porque incluye potestad legislativa en las materias asumidas por sus Estatutos dentro de la Constitución.
+Este precepto es fundamental porque reconoce tres niveles territoriales: local, provincial y autonómico. La autonomía no es idéntica en todos ellos. La autonomía de municipios y provincias es autonomía local, orientada a gestionar intereses propios dentro del marco de la ley. La autonomía de las comunidades autónomas tiene dimensión política, porque incluye potestad legislativa en las materias asumidas por sus Estatutos dentro de la Constitución.
 
 La organización territorial española combina unidad y autonomía. La unidad se proclama en el <mark>artículo 2</mark>, que afirma la indisoluble unidad de la Nación española. La autonomía se reconoce a las nacionalidades y regiones que la integran. La Constitución no crea directamente todas las comunidades autónomas, sino que establece procedimientos para que los territorios accedan a la autonomía y aprueben su Estatuto.
 
-El <mark>artículo 138</mark> encomienda al Estado garantizar la realización efectiva del principio de solidaridad, velando por un equilibrio económico adecuado y justo entre las diversas partes del territorio español. También prohibe que las diferencias entre Estatutos impliquen privilegios económicos o sociales.
+El <mark>artículo 138</mark> encomienda al Estado garantizar la realización efectiva del principio de solidaridad, velando por un equilibrio económico adecuado y justo entre las diversas partes del territorio español. También prohíbe que las diferencias entre Estatutos impliquen privilegios económicos o sociales.
 
 El <mark>artículo 139</mark> refuerza la igualdad territorial: todos los españoles tienen los mismos derechos y obligaciones en cualquier parte del territorio del Estado. Ninguna autoridad puede adoptar medidas que directa o indirectamente obstaculicen la libertad de circulación y establecimiento de las personas y la libre circulación de bienes en todo el territorio español.
 
@@ -60,7 +60,7 @@ Las comunidades autónomas son entidades territoriales dotadas de autonomía pol
 
 La Constitución distingue entre nacionalidades y regiones, pero no define ambas categorías. Lo relevante jurídicamente es que los territorios que cumplan los requisitos constitucionales pueden acceder a su autogobierno y constituirse en comunidad autónoma mediante la aprobación de su <mark>Estatuto de Autonomía</mark>.
 
-Las comunidades autónomas no son soberanas. La soberania nacional reside en el pueblo español en su conjunto. La autonomía se ejerce dentro de la Constitución, del Estatuto y del ordenamiento jurídico. El Tribunal Constitucional ha insistido tradicionalmente en que autonomía no equivale a soberania, sino a capacidad de autogobierno dentro de la unidad constitucional.
+Las comunidades autónomas no son soberanas. La soberanía nacional reside en el pueblo español en su conjunto. La autonomía se ejerce dentro de la Constitución, del Estatuto y del ordenamiento jurídico. El Tribunal Constitucional ha insistido tradicionalmente en que autonomía no equivale a soberanía, sino a capacidad de autogobierno dentro de la unidad constitucional.
 
 Las comunidades autónomas tienen instituciones propias, competencias propias y potestad legislativa en las materias asumidas. Sus normas con rango de ley son aprobadas por sus asambleas legislativas y están sometidas a la Constitución, al <mark>Estatuto de Autonomía</mark> y al control del Tribunal Constitucional.
 
@@ -73,24 +73,35 @@ Las comunidades autónomas tienen instituciones propias, competencias propias y 
 
 ## Acceso a la autonomía
 
-La Constitución establecio distintas vías de acceso a la autonomía.
+La Constitución estableció distintas vías de acceso a la autonomía.
 
-La vía ordinaria se articula en el <mark>artículo 143</mark>. Podian acceder al autogobierno las provincias limitrofes con carácterísticas historicas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica. La iniciativa correspondia a las Diputaciones interesadas u órganos interinsulares correspondientes y a las dos terceras partes de los municipios cuya población representase, al menos, la mayoría del censo electoral de cada provincia o isla.
+La vía ordinaria se articula en el <mark>artículo 143</mark>. Podían acceder al autogobierno las provincias limítrofes con características históricas, culturales y económicas comunes, los territorios insulares y las provincias con entidad regional histórica. La iniciativa correspondía a las Diputaciones interesadas u órganos interinsulares correspondientes y a las dos terceras partes de los municipios cuya población representase, al menos, la mayoría del censo electoral de cada provincia o isla.
 
-La vía especial del <mark>artículo 151</mark> permitia alcanzar desde el inicio un mayor nivel competencial, sin esperar los plazos previstos para la ampliación progresiva de competencias. Exigia una iniciativa más reforzada y referéndum en los términos constitucionales.
+La vía especial del <mark>artículo 151</mark> permitía alcanzar desde el inicio un mayor nivel competencial, sin esperar los plazos previstos para la ampliación progresiva de competencias. Exigía una iniciativa más reforzada y referéndum en los términos constitucionales.
 
-La disposición transitoria segunda establecio un tratamiento específico para los territorios que en el pasado hubieran plebiscitado afirmativamente proyectos de <mark>Estatuto de Autonomía</mark> y contaran, al tiempo de promulgarse la Constitución, con regimenes provisionales de autonomía.
+La disposición transitoria segunda estableció un tratamiento específico para los territorios que en el pasado hubieran plebiscitado afirmativamente proyectos de <mark>Estatuto de Autonomía</mark> y contaran, al tiempo de promulgarse la Constitución, con regímenes provisionales de autonomía.
 
-Además, el <mark>artículo 144</mark> permite a las Cortes Generales, mediante ley orgánica y por motivos de interés nacional, autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reuna las condiciones del <mark>artículo 143</mark>, autorizar o acordar un Estatuto para territorios que no esten integrados en la organización provincial, y sustituir la iniciativa de las corporaciones locales.
+Además, el <mark>artículo 144</mark> permite a las Cortes Generales, mediante ley orgánica y por motivos de interés nacional, autorizar la constitución de una comunidad autónoma cuando su ámbito territorial no supere el de una provincia y no reúna las condiciones del <mark>artículo 143</mark>, autorizar o acordar un Estatuto para territorios que no estén integrados en la organización provincial, y sustituir la iniciativa de las corporaciones locales.
 
-| Via o regla | Artículo | Rasgo principal |
+| Vía o regla | Artículo | Rasgo principal |
 |---|---|---|
-| Via ordinaria | <mark>Artículo 143</mark> | Iniciativa de Diputaciones u órganos insulares y municipios con mayoría reforzada. |
-| Via especial | <mark>Artículo 151</mark> | Acceso inicial a mayor nivel competencial con requisitos reforzados. |
+| Vía ordinaria | <mark>Artículo 143</mark> | Iniciativa de Diputaciones u órganos insulares y municipios con mayoría reforzada. |
+| Vía especial | <mark>Artículo 151</mark> | Acceso inicial a mayor nivel competencial con requisitos reforzados. |
 | Regla histórica | Disposición transitoria segunda | Territorios con proyectos estatutarios plebiscitados. |
-| Interes nacional | <mark>Artículo 144</mark> | Intervención de Cortes Generales mediante ley orgánica. |
+| Interés nacional | <mark>Artículo 144</mark> | Intervención de Cortes Generales mediante ley orgánica. |
 
 **Cuidado en test:** el <mark>artículo 144</mark> no es una vía ordinaria de iniciativa territorial, sino una habilitación excepcional de las Cortes por interés nacional.
+
+### Comparativa de las vías constitucionales
+
+| Vía o instrumento | Quién impulsa o decide | Requisito o efecto que conviene recordar |
+|---|---|---|
+| Artículo 143 | Diputaciones u órganos interinsulares y municipios en la proporción constitucional | La iniciativa debe ejercerse dentro de los **seis meses** siguientes al primer acuerdo; si no prospera, no puede reiterarse hasta pasados **cinco años**. La ampliación competencial del artículo 148.2 también se vinculó inicialmente a ese plazo. |
+| Artículo 144 | Cortes Generales | Mediante **ley orgánica** y por interés nacional pueden autorizar una comunidad uniprovincial que no reúna los requisitos del artículo 143, autorizar o acordar un Estatuto para territorios no integrados en provincias y sustituir la iniciativa de las corporaciones locales. |
+| Artículo 151 | Iniciativa territorial reforzada y referéndum | La iniciativa exige Diputaciones u órganos interinsulares y **tres cuartas partes** de los municipios de cada provincia, con mayoría del censo; después debe ratificarse por referéndum en cada provincia y seguir el procedimiento estatutario constitucional. |
+| Disposición transitoria segunda | Territorios con antecedente estatutario y régimen provisional | Permite sustituir determinados requisitos de iniciativa y seguir directamente la vía del artículo 151. |
+
+**Regla de examen:** no deben confundirse la mayoría de municipios del artículo 143 (dos tercios) y la del artículo 151 (tres cuartas partes), ni el plazo de seis meses para ejercer la iniciativa con el plazo de cinco años para volver a intentarla.
 
 ## Estatutos de Autonomía
 
@@ -100,7 +111,7 @@ El contenido mínimo del Estatuto se recoge en el <mark>artículo 147</mark>. De
 
 El Estatuto cumple varias funciones. En primer lugar, identifica la comunidad autónoma y su territorio. En segundo lugar, organiza sus instituciones básicas. En tercer lugar, fija sus competencias. En cuarto lugar, opera como parametro de constitucionalidad: las leyes autonómicas deben respetar tanto la Constitución como el Estatuto.
 
-La reforma de los Estatutos debe ajustarse al procedimiento establecido en ellos y requiere aprobación por ley orgánica. En los Estatutos aprobados por la vía del <mark>artículo 151</mark> existian, además, previsiones específicas de referéndum para determinadas reformas.
+La reforma de los Estatutos debe ajustarse al procedimiento establecido en ellos y requiere aprobación por ley orgánica. En los Estatutos aprobados por la vía del <mark>artículo 151</mark> existían, además, previsiones específicas de referéndum para determinadas reformas.
 
 | Contenido mínimo del Estatuto | <mark>Artículo 147</mark> |
 |---|---|
@@ -112,7 +123,7 @@ La reforma de los Estatutos debe ajustarse al procedimiento establecido en ellos
 
 ## Instituciones de las comunidades autónomas
 
-El <mark>artículo 152</mark> disena una organización institucional para las comunidades que accedieron por la vía especial, pero su modelo se ha generalizado en la práctica. Preve una Asamblea Legislativa elegida por sufragio universal con arreglo a un sistema de representación proporcional que asegure también la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas; y un Presidente elegido por la Asamblea de entre sus miembros y nombrado por el Rey.
+El <mark>artículo 152</mark> diseña una organización institucional para las comunidades que accedieron por la vía especial, pero su modelo se ha generalizado en la práctica. Prevé una Asamblea Legislativa elegida por sufragio universal con arreglo a un sistema de representación proporcional que asegure también la representación de las diversas zonas del territorio; un Consejo de Gobierno con funciones ejecutivas y administrativas; y un Presidente elegido por la Asamblea de entre sus miembros y nombrado por el Rey.
 
 El Presidente dirige el Consejo de Gobierno, ostenta la suprema representación de la comunidad autónoma y la ordinaria del Estado en ella. Tanto el Presidente como los miembros del Consejo de Gobierno son políticamente responsables ante la Asamblea.
 
@@ -132,6 +143,18 @@ La distribución de competencias entre el Estado y las comunidades autónomas se
 El <mark>artículo 148</mark> enumera materias que las comunidades autónomas podian asumir en sus Estatutos. Entre ellas figuran organización de sus instituciones de autogobierno, alteraciones de términos municipales, ordenación del territorio, urbanismo y vivienda, obras públicas de interés de la comunidad, ferrocarriles y carreteras cuyo itinerario se desarrolle integramente en el territorio autononomico, agricultura y ganaderia, montes, gestión ambiental, patrimonio monumental, cultura, turismo, deporte, asistencia social, sanidad e higiene, entre otras.
 
 El <mark>artículo 149</mark> reserva al Estado competencias exclusivas. Incluye materias como regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de derechos y deberes constitucionales, nacionalidad, inmigración, relaciones internacionales, defensa, Administración de Justicia, legislación mercantil, penal y penitenciaria, legislación laboral, legislación civil en los términos constitucionales, hacienda general, deuda del Estado, bases y coordinación de la planificación general de la actividad económica, seguridad pública, legislación básica sobre protección del medio ambiente, bases del régimen jurídico de las Administraciones Públicas y procedimiento administrativo común, legislación básica sobre contratos y concesiones administrativas, y sistema de responsabilidad de todas las Administraciones Públicas.
+
+No basta con memorizar que el artículo 149 contiene materias “exclusivas”: hay que leer el alcance de cada regla. En muchos números la exclusividad se refiere a la legislación estatal básica, a la legislación completa o a una función concreta, mientras que la ejecución puede corresponder a la comunidad autónoma. Por eso, la etiqueta de la materia no permite deducir por sí sola quién ejecuta cada actuación.
+
+Entre las reglas que más se confunden en test conviene separar estas parejas:
+
+| Materia estatal | Precisión que evita el error |
+|---|---|
+| Artículo 149.1.1.ª | El Estado fija las condiciones básicas de igualdad; no es una atribución general de toda la gestión administrativa. |
+| Artículo 149.1.6.ª | El Estado tiene legislación mercantil, penal y penitenciaria, además de procesal, con las salvedades constitucionales. |
+| Artículo 149.1.7.ª | Corresponde al Estado la legislación laboral, **sin perjuicio de su ejecución por los órganos autonómicos**. |
+| Artículo 149.1.18.ª | Incluye las bases del régimen jurídico de las Administraciones, el procedimiento administrativo común, la legislación básica de contratos y el sistema de responsabilidad de todas las Administraciones. |
+| Artículo 149.1.23.ª | El Estado dicta la legislación básica sobre protección del medio ambiente; las comunidades pueden establecer normas adicionales de protección. |
 
 La técnica de reparto no siempre consiste en atribuir una materia completa a un solo nivel. En muchas materias el Estado conserva las bases o la legislación básica y la comunidad autónoma asume el desarrollo legislativo y la ejecución. En otras, el Estado se reserva la legislación y la comunidad ejecuta. En otras, la competencia puede ser exclusiva autónoma si está asumida estatutariamente y no invade materias reservadas al Estado.
 
@@ -162,7 +185,14 @@ El <mark>artículo 150.3</mark> permite al Estado dictar leyes que establezcan l
 
 **Cuidado en test:** el <mark>artículo 150</mark> no es una lista de competencias materiales. Es un conjunto de técnicas de flexibilización, control y coordinación del Estado autonómico.
 
-## Clausulas de cierre del sistema competencial
+### Cómo resolver una pregunta de competencias
+
+1. Identifica si se pregunta por una materia que puede asumir la comunidad autónoma (artículo 148) o que la Constitución reserva al Estado (artículo 149).
+2. Comprueba el Estatuto: la comunidad solo puede ejercer las competencias que haya asumido dentro del marco constitucional.
+3. Distingue legislación, desarrollo normativo y ejecución; “competencia exclusiva” no siempre significa que el mismo nivel realice todas las actuaciones.
+4. Si hay una laguna o conflicto, revisa las reglas del artículo 149.3; si se habla de una técnica de desplazamiento o coordinación, revisa el artículo 150.
+
+## Cláusulas de cierre del sistema competencial
 
 El <mark>artículo 149.3</mark> contiene reglas esenciales para resolver lagunas y conflictos. Las materias no atribuidas expresamente al Estado por la Constitución pueden corresponder a las comunidades autónomas si las asumen en sus Estatutos. Las competencias no asumidas por los Estatutos corresponden al Estado.
 
@@ -217,3 +247,22 @@ El Fondo de Compensación Interterritorial se vincula al principio de solidarida
 Castilla y León se constituye como comunidad autónoma en el marco de la Constitución y de su <mark>Estatuto de Autonomía</mark>. Su Estatuto es su norma institucional básica y forma parte del ordenamiento jurídico estatal. La reforma estatutaria de 2007 reforzo su contenido institucional, amplio el tratamiento de derechos y principios rectores y sistematizo competencias.
 
 Para este tema no se exige desarrollar todo el Estatuto de Castilla y León, porque aparece como tema específico en el Tema I.9. Sin embargo, si debe comprenderse que Castilla y León participa del mismo modelo constitucional: autonomía política, instituciones propias, competencias estatutarias, financiación autónoma y sometimiento a la Constitución, al Estatuto y al control del Tribunal Constitucional.
+
+## Errores típicos de test
+
+- El Estado se organiza constitucionalmente en **municipios, provincias y comunidades autónomas**, no en comarcas, mancomunidades o islas como categorías del artículo 137.
+- Alterar los límites de una provincia exige **ley orgánica** (artículo 141.1), no ley ordinaria.
+- El Estatuto de Autonomía es la norma institucional básica, pero está subordinado a la Constitución y se aprueba y reforma mediante ley orgánica.
+- El artículo 148 enumera materias que las comunidades **pueden asumir**; el artículo 149.1 recoge competencias estatales. No son dos listas equivalentes de competencias automáticamente ejercidas.
+- La ley marco del artículo 150.1 no transfiere la titularidad de la materia: atribuye la facultad de dictar normas legislativas dentro de un marco estatal.
+- La transferencia o delegación del artículo 150.2 exige ley orgánica y debe acompañarse de medios financieros y controles estatales.
+- Para el artículo 155 se requiere requerimiento previo al Presidente autonómico y, si no se atiende, aprobación del Senado por mayoría absoluta; no basta un acuerdo del Congreso.
+- La prevalencia y la supletoriedad del artículo 149.3 no convierten cualquier norma autonómica en nula ni permiten al Estado crear competencias fuera de la Constitución.
+
+## Esquema final de una vuelta
+
+**Unidad y autonomía** (arts. 2 y 137-142) → **acceso** (143, 144, 151 y disposición transitoria segunda) → **Estatuto** (147) → **instituciones** (152) → **competencias** (148-150 y 149.3) → **controles** (153 y 155) → **financiación y solidaridad** (156-158).
+
+### Para recordar
+
+<mark>143 = ordinaria; 144 = interés nacional; 151 = vía reforzada; 149 = Estado; 150 = técnicas de relación; 155 = requerimiento + Senado.</mark>
