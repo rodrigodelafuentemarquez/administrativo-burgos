@@ -19,7 +19,7 @@
   {
     "id": "t05-p010",
     "tema": 4,
-    "pregunta": "Según el art. 69 LRJSP, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
+    "pregunta": "Según el art. 72 LRJSP, ¿quién representa al Gobierno del Estado en una Comunidad Autónoma?",
     "opciones": [
       "El Subdelegado del Gobierno",
       "El Delegado del Gobierno",
@@ -28,7 +28,7 @@
     ],
     "correcta": 1,
     "explicación": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
-    "referencia": "I.4 · 10.3 Organización periférica de la AGE (art. 69 LRJSP)"
+    "referencia": "I.4 · Organización territorial de la AGE (art. 72 LRJSP)"
   },
   {
     "id": "t05-p015",
@@ -422,5 +422,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-i04-deep-01",
+    "tema": 4,
+    "pregunta": "¿Cuál de los siguientes NO forma parte del Gobierno según el artículo 98 de la Constitución y el artículo 1 de la Ley del Gobierno?",
+    "opciones": [
+      "El Presidente del Gobierno",
+      "Los Ministros",
+      "Los Secretarios de Estado",
+      "Los Vicepresidentes, en su caso"
+    ],
+    "correcta": 2,
+    "explicación": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros. Los Secretarios de Estado son órganos superiores de la Administración General del Estado, pero no miembros del Gobierno por esa condición.",
+    "referencia": "I.4 · Composición del Gobierno"
+  },
+  {
+    "id": "burgos-i04-deep-02",
+    "tema": 4,
+    "pregunta": "¿Qué órgano prepara las deliberaciones del Consejo de Ministros sin poder adoptar decisiones que correspondan al Gobierno?",
+    "opciones": [
+      "La Comisión General de Secretarios de Estado y Subsecretarios",
+      "El Consejo de Estado",
+      "La Comisión Delegada del Gobierno para Asuntos Económicos en todo caso",
+      "La Secretaría General Técnica de la Presidencia"
+    ],
+    "correcta": 0,
+    "explicación": "La Comisión General de Secretarios de Estado y Subsecretarios prepara las deliberaciones del Consejo de Ministros, pero no puede adoptar decisiones que correspondan al Gobierno.",
+    "referencia": "I.4 · Órganos de colaboración y apoyo"
+  },
+  {
+    "id": "burgos-i04-deep-03",
+    "tema": 4,
+    "pregunta": "Si ningún candidato obtiene la confianza del Congreso, ¿cuándo se disuelven ambas Cámaras conforme al artículo 99.5 de la Constitución?",
+    "opciones": [
+      "A los dos meses desde la primera votación de investidura",
+      "A los dos meses desde la propuesta del Rey",
+      "A los cuarenta y ocho días desde la segunda votación",
+      "A los tres meses desde la constitución del Congreso"
+    ],
+    "correcta": 0,
+    "explicación": "El plazo de dos meses se cuenta desde la primera votación de investidura, no desde la propuesta del Rey ni desde la segunda votación.",
+    "referencia": "I.4 · Investidura del Presidente"
+  },
+  {
+    "id": "burgos-i04-deep-04",
+    "tema": 4,
+    "pregunta": "¿Qué mayoría exige la moción de censura para ser aprobada?",
+    "opciones": [
+      "Mayoría absoluta del Congreso de los Diputados",
+      "Mayoría simple del Congreso de los Diputados",
+      "Tres quintos del Congreso y del Senado",
+      "Unanimidad del Consejo de Ministros"
+    ],
+    "correcta": 0,
+    "explicación": "La moción de censura es constructiva y debe aprobarse por mayoría absoluta del Congreso; si prospera, el candidato incluido en ella queda investido Presidente.",
+    "referencia": "I.4 · Control parlamentario"
+  },
+  {
+    "id": "burgos-i04-deep-05",
+    "tema": 4,
+    "pregunta": "Durante el Gobierno en funciones, ¿qué actuación está expresamente vedada al Gobierno?",
+    "opciones": [
+      "Presentar proyectos de ley ante las Cortes Generales",
+      "Despachar asuntos públicos ordinarios",
+      "Facilitar el traspaso de poderes al nuevo Gobierno",
+      "Continuar hasta la toma de posesión del nuevo Gobierno"
+    ],
+    "correcta": 0,
+    "explicación": "El Gobierno en funciones limita su gestión al despacho ordinario y no puede presentar proyectos de ley ni aprobar el proyecto de ley de presupuestos.",
+    "referencia": "I.4 · Cese y Gobierno en funciones"
+  },
+  {
+    "id": "burgos-i04-deep-06",
+    "tema": 4,
+    "pregunta": "¿Cuál es la diferencia correcta entre descentralización y desconcentración?",
+    "opciones": [
+      "La descentralización opera entre personas jurídicas distintas y la desconcentración dentro de la misma persona jurídica",
+      "La descentralización solo afecta a la firma y la desconcentración a la suplencia",
+      "Ambas transfieren la titularidad a otra Administración",
+      "La desconcentración solo puede producirse entre el Estado y las comunidades autónomas"
+    ],
+    "correcta": 0,
+    "explicación": "La descentralización distribuye competencias entre personas jurídicas distintas; la desconcentración es una técnica de distribución interna dentro de la misma Administración.",
+    "referencia": "I.4 · Órganos, unidades y competencia"
+  },
+  {
+    "id": "burgos-i04-deep-07",
+    "tema": 4,
+    "pregunta": "En la Administración General del Estado, ¿qué rango tiene el Delegado del Gobierno en una Comunidad Autónoma?",
+    "opciones": [
+      "Rango de Subsecretario",
+      "Rango de Secretario de Estado",
+      "Nivel de Subdirector general",
+      "Rango de Director general"
+    ],
+    "correcta": 0,
+    "explicación": "El Delegado del Gobierno es órgano directivo con rango de Subsecretario. El Subdelegado del Gobierno tiene nivel de Subdirector general.",
+    "referencia": "I.4 · Organización territorial de la AGE"
+  },
+  {
+    "id": "burgos-i04-deep-08",
+    "tema": 4,
+    "pregunta": "¿Qué artículo constitucional define al Consejo de Estado como supremo órgano consultivo del Gobierno?",
+    "opciones": [
+      "El artículo 107",
+      "El artículo 103",
+      "El artículo 105",
+      "El artículo 106"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 107 CE define al Consejo de Estado como supremo órgano consultivo del Gobierno; no es un tribunal ni ejerce el control judicial del artículo 106.",
+    "referencia": "I.4 · Garantías y controles constitucionales"
+  },
+  {
+    "id": "burgos-i04-deep-09",
+    "tema": 4,
+    "pregunta": "Según el artículo 55 de la Ley 40/2015, ¿cuál es un órgano superior de la organización central de la AGE?",
+    "opciones": [
+      "El Secretario de Estado",
+      "El Subsecretario",
+      "El Director general",
+      "El Subdirector general"
+    ],
+    "correcta": 0,
+    "explicación": "En la organización central son órganos superiores los Ministros y los Secretarios de Estado. Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales son órganos directivos.",
+    "referencia": "I.4 · Estructura general de la AGE"
+  },
+  {
+    "id": "burgos-i04-deep-10",
+    "tema": 4,
+    "pregunta": "¿Qué afirmación describe correctamente la encomienda de gestión?",
+    "opciones": [
+      "Permite encargar actividades materiales, técnicas o de servicios sin ceder la titularidad de la competencia",
+      "Transfiere la titularidad de la competencia al órgano encomendado",
+      "Es siempre un contrato sujeto a la legislación de contratos del sector público",
+      "Permite al encargado dictar resoluciones que atribuyan la competencia a terceros"
+    ],
+    "correcta": 0,
+    "explicación": "La encomienda de gestión no altera la titularidad de la competencia ni puede tener por objeto prestaciones propias de los contratos; se limita a actividades materiales, técnicas o de servicios.",
+    "referencia": "I.4 · Órganos, unidades y competencia"
   }
 ]
