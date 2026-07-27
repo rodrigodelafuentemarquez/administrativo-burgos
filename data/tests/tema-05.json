@@ -441,5 +441,117 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-i05-deep-01",
+    "tema": 5,
+    "pregunta": "Según el artículo 3 de la LBRL, ¿cuál de las siguientes es una entidad local territorial?",
+    "opciones": [
+      "La mancomunidad de municipios",
+      "El área metropolitana",
+      "La provincia",
+      "La comarca"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 3.1 LBRL considera entidades locales territoriales al municipio, la provincia y la isla en los archipiélagos balear y canario. Comarcas, áreas metropolitanas y mancomunidades tienen condición de entidad local, pero aparecen en el apartado 2.",
+    "referencia": "I.5 · 3.1 Clasificación del artículo 3 LBRL"
+  },
+  {
+    "id": "burgos-i05-deep-02",
+    "tema": 5,
+    "pregunta": "¿Cuál de estas potestades figura expresamente en el artículo 4.1 de la LBRL para municipios, provincias e islas?",
+    "opciones": [
+      "Potestad legislativa",
+      "Potestad de revisión de oficio de sus actos y acuerdos",
+      "Potestad jurisdiccional",
+      "Potestad de reforma constitucional"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 4.1.g LBRL incluye la potestad de revisión de oficio de los actos y acuerdos. Las entidades locales no tienen potestad legislativa ni jurisdiccional.",
+    "referencia": "I.5 · 5. Potestades de las entidades locales"
+  },
+  {
+    "id": "burgos-i05-deep-03",
+    "tema": 5,
+    "pregunta": "Un municipio de 30.000 habitantes debe prestar, además de los servicios comunes a todos los municipios, entre otros:",
+    "opciones": [
+      "Transporte colectivo urbano de viajeros y medio ambiente urbano",
+      "Parque público, biblioteca pública y tratamiento de residuos",
+      "Protección civil, atención inmediata a personas en riesgo de exclusión e instalaciones deportivas de uso público",
+      "Únicamente alumbrado público y cementerio"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 26.1.c LBRL añade para municipios de población superior a 20.000 habitantes protección civil, atención inmediata a personas en riesgo o situación de exclusión, prevención y extinción de incendios e instalaciones deportivas de uso público. El transporte colectivo urbano corresponde al tramo superior a 50.000 habitantes.",
+    "referencia": "I.5 · 6.1 Servicios mínimos del artículo 26 LBRL"
+  },
+  {
+    "id": "burgos-i05-deep-04",
+    "tema": 5,
+    "pregunta": "La delegación de competencias municipales por el Estado o la comunidad autónoma debe determinar, entre otros extremos:",
+    "opciones": [
+      "Solo la denominación de la competencia, sin medios ni controles",
+      "El alcance, contenido, condiciones, duración, control y medios necesarios",
+      "La integración jerárquica del Ayuntamiento en la Administración delegante",
+      "La imposibilidad de revocar o controlar la competencia delegada"
+    ],
+    "correcta": 1,
+    "explicación": "La delegación debe concretar alcance, contenido, condiciones y duración, prever técnicas de dirección y control y estar acompañada de medios personales, materiales y económicos cuando proceda. No crea una jerarquía general sobre el Ayuntamiento.",
+    "referencia": "I.5 · 6. Competencias y servicios municipales"
+  },
+  {
+    "id": "burgos-i05-deep-05",
+    "tema": 5,
+    "pregunta": "¿Cuál de los siguientes impuestos municipales es potestativo?",
+    "opciones": [
+      "Impuesto sobre Bienes Inmuebles",
+      "Impuesto sobre Actividades Económicas",
+      "Impuesto sobre Vehículos de Tracción Mecánica",
+      "Impuesto sobre Construcciones, Instalaciones y Obras"
+    ],
+    "correcta": 3,
+    "explicación": "El ICIO es potestativo: el Ayuntamiento decide establecerlo mediante la correspondiente ordenanza fiscal. IBI, IAE e IVTM son impuestos municipales obligatorios conforme al artículo 59 TRLRHL.",
+    "referencia": "I.5 · 7.2 Impuestos municipales"
+  },
+  {
+    "id": "burgos-i05-deep-06",
+    "tema": 5,
+    "pregunta": "¿Qué caracteriza a una contribución especial?",
+    "opciones": [
+      "Grava siempre la capacidad económica sin obra o servicio concreto",
+      "Retribuye voluntariamente un servicio que también presta el sector privado",
+      "Se exige por el beneficio o aumento de valor derivado de una obra pública o servicio local",
+      "Es un recargo estatal sobre cualquier impuesto municipal"
+    ],
+    "correcta": 2,
+    "explicación": "La contribución especial es un tributo ligado al beneficio o aumento de valor que una obra pública o el establecimiento o ampliación de un servicio público local produce para el sujeto pasivo.",
+    "referencia": "I.5 · 7.1 Tributos, tasas y precios públicos"
+  },
+  {
+    "id": "burgos-i05-deep-07",
+    "tema": 5,
+    "pregunta": "Tras la aprobación inicial del presupuesto general local, ¿cuánto dura la exposición pública para que los interesados puedan examinarlo y presentar reclamaciones?",
+    "opciones": [
+      "10 días naturales",
+      "15 días",
+      "Un mes en todos los casos",
+      "Dos meses"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 169.1 TRLRHL establece una exposición pública de 15 días. Si se presentan reclamaciones, el Pleno dispone de un mes para resolverlas.",
+    "referencia": "I.5 · 8.1 Tramitación esencial del presupuesto"
+  },
+  {
+    "id": "burgos-i05-deep-08",
+    "tema": 5,
+    "pregunta": "¿Qué órgano aprueba el presupuesto general de una entidad local?",
+    "opciones": [
+      "El Alcalde o Presidente, sin intervención del Pleno",
+      "La Intervención, mediante informe vinculante",
+      "El Pleno de la corporación",
+      "El Tribunal de Cuentas"
+    ],
+    "correcta": 2,
+    "explicación": "El Presidente forma el presupuesto y la Intervención lo informa, pero la aprobación corresponde al Pleno. El Tribunal de Cuentas ejerce control externo, no aprueba el presupuesto.",
+    "referencia": "I.5 · 8. Presupuesto de las entidades locales"
   }
 ]
