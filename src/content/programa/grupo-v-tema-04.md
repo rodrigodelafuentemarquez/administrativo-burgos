@@ -3,154 +3,222 @@ grupo: "Grupo V. Competencias"
 tema: 4
 codigo: "Tema V.4"
 titulo: "Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Idea general y normativa aplicable
 
-La materia se regula por la <mark>Ley 39/2015</mark>, el <mark>Real Decreto 203/2021</mark> de actuación y funcionamiento del sector público por medios electrónicos, la normativa de administración electrónica y la organización municipal de Burgos.
+Las **oficinas de asistencia en materia de registros (OAMR)** son unidades administrativas que permiten presentar documentos y que ayudan a la ciudadanía a relacionarse con la Administración, especialmente cuando debe utilizar medios electrónicos. No son únicamente una ventanilla para poner un sello: combinan **registro, asistencia electrónica, digitalización, expedición de copias auténticas, identificación y firma, apoderamientos e información administrativa general**.
 
-## Oficinas de asistencia en materia de registros
+El marco básico que debe dominarse es:
 
-Las <mark>oficinas de asistencia en materia de registros</mark> son unidades que facilitan a la ciudadania la relación con las Administraciones. Sustituyen el modelo tradicional de registro como mero punto de entrada y lo amplian con <mark>asistencia, digitalización y apoyo</mark>.
-
-En el Ayuntamiento de Burgos, estas oficinas se integran en la organización municipal y atienden presentación de documentos, información básica, asistencia en uso de medios electrónicos y tramitación registral.
-
-La oficina de asistencia es una pieza clave porque convierte la relación entre ciudadano y Administración en un acto formalmente valido. Una solicitud mal registrada, una fecha incorrecta o un destino equivocado pueden afectar al computo de plazos y a la eficacia de derechos. Por eso la función registral exige precisión.
-
-<mark>Clave de examen:</mark> estas oficinas no son solo "ventanillas". Cumplen funciones de **registro, asistencia, digitalización, identificación, firma, copias autenticas, apoderamientos e información administrativa general**.
-
-En una actuación ordinaria deben comprobarse, como mínimo:
-
-1. quien presenta el documento;
-2. si actúa en nombre propio o representado;
-3. a que órgano se dirige;
-4. que documentos aporta;
-5. fecha y hora de entrada;
-6. si hay que digitalizar o compulsar/autenticar;
-7. si procede remisión por interconexion registral.
-
-## Organización
-
-La organización depende del Ayuntamiento y de sus decisiones internas. Puede existir <mark>registro general, oficinas auxiliares o puntos de atención</mark>. Deben coordinarse con sede electrónica, archivo, unidades gestoras y sistemas de interconexion de registros.
-
-El personal debe estar formado en identificación, firma, digitalización, copias autenticas, apoderamientos, protección de datos, atención ciudadana y derivación de expedientes.
-
-| Elemento organizativo | Función |
+| Norma | Qué debe recordarse |
 | --- | --- |
-| Registro general | Entrada y salida formal de documentos. |
-| Oficinas auxiliares | Acercan registro y asistencia a distintos puntos. |
-| Sede electrónica | Permite presentación y consulta por internet. |
-| Unidad gestora | Tramita el expediente de fondo. |
-| Archivo | Conserva documentos y expedientes. |
-| Sistema de interconexion | Remite documentos a otras Administraciones. |
+| **Ley 39/2015**, especialmente arts. 12, 14, 16, 26, 27, 31, 66 y 68 | Asistencia, sujetos obligados, registros, documentos, copias, cómputo y solicitudes. |
+| **Real Decreto 203/2021** | Organización y funcionamiento electrónico, oficinas de asistencia, registros e interoperabilidad. |
+| **Ley 40/2015** | Actuación electrónica, sistemas de identificación y firma e interoperabilidad del sector público. |
+| Normativa municipal y sede electrónica de Burgos | Localización, canales y organización concreta del servicio. |
 
-## Funcionamiento
+<mark>Regla de examen: la OAMR ayuda y formaliza la presentación, pero no sustituye a la unidad que tramita y resuelve el fondo del expediente.</mark>
 
-Las oficinas reciben solicitudes, escritos y comunicaciones dirigidos al Ayuntamiento u otras Administraciones. Deben <mark>emitir justificante, registrar fecha y hora, identificar destino, digitalizar documentos</mark> en su caso y remitirlos electronicamente.
+## 2. Organización en el Ayuntamiento de Burgos
 
-La <mark>Ley 39/2015</mark> permite presentar documentos en registros electrónicos, oficinas de Correos, representaciones diplomaticas, oficinas de asistencia en registros y otros lugares previstos. Las oficinas municipales deben aplicar estas reglas.
+La organización interna corresponde al Ayuntamiento. La oficina de asistencia recibe el documento, practica el asiento y lo pone a disposición de la unidad destinataria; la unidad gestora instruye y resuelve según sus competencias. La **sede electrónica**, el registro, las unidades administrativas, el archivo y los sistemas de intercambio deben funcionar coordinadamente.
 
-El Registro General presencial de una entidad local permanece abierto al público <mark>todos los días hábiles</mark>, conforme al régimen clásico del ROF. El registro electrónico, en cambio, está disponible <mark>todos los días del año durante las veinticuatro horas</mark>.
+La sede electrónica municipal identifica actualmente como OAMR la del **Ayuntamiento de Burgos, Plaza Mayor, 1**, y la **OAMR y atención al contribuyente del BAC de Gamonal, calle Fundación Sonsoles Ballvé, 4**. La propia sede advierte que la oficina de registro de Gamonal puede permanecer cerrada temporalmente. Por tanto, para una actuación real se debe consultar el directorio y el horario vigente: una dirección publicada en este tema sirve para estudiar la organización, no sustituye la información actualizada de la sede.
 
-El asiento registral debe reflejar datos esenciales: <mark>número, fecha y hora, identificación del interesado, órgano destinatario, asunto y documentos aportados</mark>. El justificante de registro acredita la presentación y protege al ciudadano.
+La organización puede representarse así:
 
-| Actuación | Importancia |
+| Pieza | Función principal | Lo que no debe confundirse |
+| --- | --- | --- |
+| OAMR | Recibir, asistir, digitalizar, autenticar, identificar, firmar y remitir | No resuelve el expediente de fondo. |
+| Registro Electrónico General | Practicar asientos electrónicos y emitir recibos | No es lo mismo que la sede completa. |
+| Sede electrónica | Punto de acceso a trámites, registro y servicios | No es una oficina física. |
+| Unidad gestora | Instruir, pedir informes y preparar o dictar la resolución competente | No es el registro. |
+| Archivo electrónico | Conservar el expediente y garantizar su disponibilidad | No decide qué documentos deben aportarse. |
+| Servicio 010 | Información y atención ciudadana por los canales municipales | No expide, como función ordinaria, copias selladas de originales aportados. |
+
+El personal de la OAMR debe conocer identificación y firma, digitalización, copias auténticas, representación, protección de datos, accesibilidad, registro y derivación. La oficina puede orientar sobre el trámite, pero debe evitar prometer una resolución, interpretar definitivamente los requisitos del expediente o resolver dudas jurídicas que correspondan a la unidad competente.
+
+## 3. Qué puede presentar una persona y dónde
+
+El art. 16.4 de la Ley 39/2015 permite presentar solicitudes, escritos y comunicaciones dirigidos a cualquier Administración en:
+
+1. El registro electrónico de la Administración u organismo destinatario.
+2. Los registros electrónicos generales de cualquier Administración Pública.
+3. Las oficinas de Correos, en la forma reglamentaria.
+4. Las representaciones diplomáticas u oficinas consulares de España en el extranjero.
+5. Las OAMR.
+6. Cualquier otro lugar que establezcan las disposiciones vigentes.
+
+La oficina de Burgos puede recibir un escrito dirigido a otra Administración cuando se presente por una vía admitida. En ese caso **no juzga el fondo ni lo convierte en un trámite municipal**: registra, entrega recibo y remite al órgano o Administración destinataria por los sistemas habilitados.
+
+## 4. Registro presencial y registro electrónico
+
+### 4.1. Asiento registral y recibo
+
+El registro deja constancia de la entrada y salida de documentos, solicitudes y comunicaciones. El asiento debe permitir identificar, al menos, el número o código individualizado, la fecha y hora, la persona interesada o presentadora, el órgano destinatario y una referencia al contenido o asunto. También debe quedar constancia de los documentos que acompañan al escrito.
+
+La OAMR debe entregar un **recibo** que permita probar qué se presentó y cuándo. Si se aportan anexos, deben relacionarse con suficiente precisión: “tres documentos adjuntos” puede ser insuficiente si después se discute cuál era el contenido.
+
+<mark>Fecha y hora del registro = prueba de presentación y dato decisivo para los plazos.</mark>
+
+El Registro General presencial de la entidad local permanece abierto al público todos los días hábiles conforme al régimen aplicable a las entidades locales. El registro electrónico permite presentar documentos todos los días del año, durante las veinticuatro horas, sin perjuicio de interrupciones técnicas y de la información que deba ofrecer la sede.
+
+### 4.2. Presentación en día inhábil
+
+Para el cómputo de plazos, la presentación electrónica en día inhábil se entiende realizada en la **primera hora del primer día hábil siguiente**, salvo que una norma permita expresamente la recepción en día inhábil con otros efectos. La sede debe publicar la fecha y hora oficial y el calendario de días inhábiles.
+
+No se debe confundir:
+
+| Cuestión | Regla |
 | --- | --- |
-| Identificar al presentador | Evita errores y suplantaciones. |
-| Determinar destinatario | Permite remisión al órgano competente. |
-| Registrar fecha y hora | Afecta al computo de plazos. |
-| Relacionar documentos | Acredita que se aporto cada anexo. |
-| Emitir recibo | Da prueba al ciudadano. |
-| Remitir a unidad gestora | Inicia la tramitación real. |
+| Disponibilidad técnica del registro electrónico | 24 horas, todos los días del año. |
+| Momento del asiento | La fecha y hora oficial del registro. |
+| Documento presentado en día inhábil | Primera hora del primer día hábil siguiente, salvo regla especial. |
+| Plazo del ciudadano | La disponibilidad 24/7 no convierte todos los días en hábiles. |
 
-| Error en oficina | Posible consecuencia |
+### 4.3. Registro, recepción y remisión
+
+Son momentos distintos:
+
+- **Presentación:** la persona entrega o envía el documento.
+- **Recepción:** la Administración lo acepta en el canal habilitado.
+- **Entrada:** se practica el asiento que deja constancia formal.
+- **Remisión:** el documento se envía a la unidad u órgano destinatario.
+- **Tramitación:** la unidad competente estudia el fondo y realiza las actuaciones del procedimiento.
+
+La oficina no debe retrasar la recepción porque el interesado haya utilizado una calificación jurídica incorrecta. Debe comprobar los datos necesarios para registrar y, cuando falten requisitos de la solicitud, la unidad tramitadora valorará la subsanación conforme al art. 68 de la Ley 39/2015.
+
+## 5. Asistencia en el uso de medios electrónicos
+
+Las Administraciones deben garantizar que las personas interesadas puedan relacionarse electrónicamente. El art. 12 de la Ley 39/2015 obliga a prestar asistencia, especialmente para identificación y firma, presentación de solicitudes y obtención de copias auténticas.
+
+Si una persona física no obligada a relacionarse electrónicamente no dispone de medios o conocimientos, puede recibir ayuda en la OAMR. Cuando sea necesario, un **funcionario habilitado** puede identificarla o firmar electrónicamente en su nombre en los supuestos legalmente previstos, dejando constancia expresa del consentimiento.
+
+La asistencia no elimina la voluntad de la persona ni convierte al funcionario en representante general. Tampoco permite firmar sin consentimiento o alterar el contenido de la solicitud.
+
+### 5.1. Quién está obligado a usar medios electrónicos
+
+El art. 14.2 obliga, entre otros, a:
+
+- las personas jurídicas;
+- las entidades sin personalidad jurídica;
+- quienes ejerzan una actividad profesional para la que se requiera colegiación obligatoria, en los trámites que realicen por razón de esa actividad;
+- quienes representen a una persona interesada obligada a relacionarse electrónicamente;
+- los empleados públicos, para los trámites y actuaciones que realicen por razón de su condición;
+- quienes estén incluidos por una norma reglamentaria.
+
+Las demás personas físicas pueden elegir el canal, salvo que una norma específica establezca la obligación. Si una persona obligada presenta en papel, debe informarse de la obligación y la unidad competente aplicará la regla legal correspondiente; no se debe “hacer desaparecer” el escrito ni dejarlo sin constancia.
+
+## 6. Digitalización, copias y documentos
+
+La OAMR digitaliza los documentos en papel para incorporarlos al expediente electrónico cuando proceda. La digitalización debe preservar la **autenticidad, integridad, legibilidad y fidelidad** del documento. Deben revisarse todas las páginas, anexos, reversos y firmas; un escaneo incompleto puede perjudicar al interesado y contaminar el expediente.
+
+La oficina puede expedir copias auténticas en los supuestos previstos legalmente. Una copia auténtica acredita la autenticidad de la copia y su correspondencia con el original o con otro documento auténtico. No es equivalente a una fotocopia simple ni significa que cualquier reproducción tenga automáticamente valor probatorio pleno.
+
+Las copias auténticas de documentos públicos administrativos deben expedirse, salvo excepción normativa, en el plazo de **quince días** desde la recepción de la solicitud en el registro electrónico de la Administración competente. Los documentos aportados por el interesado pueden devolverse después de su digitalización cuando no sea necesaria su custodia.
+
+| Actuación | Resultado |
 | --- | --- |
-| Fecha u hora incorrecta | Problemas de plazo. |
-| Órgano destinatario equivocado | Retrasos y riesgo de indefensión. |
-| No relacionar anexos | Dificultad para probar que se presentaron. |
-| Digitalización defectuosa | Documento incompleto en expediente. |
-| No comprobar representación | Actuación ineficaz o subsanación posterior. |
+| Original en papel | Se digitaliza con garantías y se incorpora el documento electrónico; se devuelve cuando proceda. |
+| Copia simple | Se incorpora como copia aportada, sin convertirla por sí sola en auténtica. |
+| Copia auténtica | Tiene la validez y eficacia que corresponda al documento auténtico en el procedimiento. |
+| Documento electrónico con CSV | Puede verificarse en la sede o sistema indicado por el código. |
+| Documento incompleto o ilegible | Debe advertirse y, en su caso, requerirse la actuación procedente; no se debe ocultar el defecto. |
 
-La precisión registral protege tanto a la Administración como al ciudadano. El justificante de registro es una prueba esencial de presentación.
+## 7. Identificación, firma, representación y apoderamientos
 
-Las oficinas deben admitir documentos dirigidos a cualquier Administración cuando proceda y remitirlos mediante los sistemas de interconexión registral. Si el escrito se dirige a otra Administración, la oficina no resuelve el fondo: registra, emite justificante y remite al destino correcto. El cómputo de plazos queda vinculado a la presentación válida en registro.
+La oficina debe distinguir tres preguntas:
 
-| Lugar de presentación | Idea clave |
+1. **¿Quién presenta?** Identificación de la persona que comparece.
+2. **¿En nombre de quién actúa?** Actuación propia o representación.
+3. **¿Qué operación pretende realizar?** Presentar, aportar, recurrir, desistir, renunciar, cobrar o recibir una notificación.
+
+La representación puede acreditarse por cualquier medio válido que deje constancia fidedigna, incluido el apoderamiento apud acta y la inscripción en el registro electrónico de apoderamientos. La falta de acreditación no justifica rechazar sin más la entrada de un escrito: normalmente se registra y la unidad tramitadora requiere la subsanación cuando sea necesaria.
+
+La representación se presume para actos de mero trámite. Se exige especial cuidado cuando se formula una solicitud, se interpone un recurso, se desiste, se renuncia a derechos o se declara responsable a otra persona. La amplitud del apoderamiento debe cubrir la actuación concreta.
+
+| Figura | Significado |
 | --- | --- |
-| Registro electrónico | Abierto todos los días y horas. |
-| Oficina de asistencia en registros | Presentación presencial y asistencia. |
-| Correos | En la forma reglamentaria. |
-| Representaciones diplomáticas u oficinas consulares | Para supuestos en el extranjero. |
-| Otros previstos legalmente | Según normativa específica. |
+| Asistencia | Ayuda material o técnica para que la persona actúe. |
+| Representación | Una persona actúa jurídicamente en nombre de otra. |
+| Funcionario habilitado | Identifica o firma por la persona en los supuestos legales y con consentimiento. |
+| Apoderamiento | Título que acredita el alcance de la representación. |
 
-Si una solicitud se presenta electrónicamente en día inhábil, se entiende presentada a la <mark>primera hora del primer día hábil siguiente</mark>, salvo que una norma permita expresamente recepción en día inhábil con otros efectos. El recibo de presentación debe acreditar número de registro, fecha, hora y documentos presentados.
+## 8. Funciones de las OAMR
 
-## Asistencia electrónica
+Las funciones pueden agruparse en seis bloques:
 
-Las personas físicas no obligadas a relacionarse electronicamente pueden recibir asistencia para presentar documentos electrónicos. Si no disponen de medios, un <mark>funcionario habilitado</mark> puede identificarlas o firmar en su nombre con <mark>consentimiento expreso</mark> en los términos legales.
+1. **Registro:** recibir y asentar entradas y, cuando proceda, salidas; fechar; numerar; emitir recibos y distribuir.
+2. **Asistencia electrónica:** ayudar a usar la sede, identificar, firmar, presentar solicitudes y obtener copias auténticas.
+3. **Documentación:** digitalizar papel, expedir copias auténticas, comprobar legibilidad y relacionar anexos.
+4. **Representación:** informar sobre apoderamientos y ayudar en su otorgamiento o consulta cuando proceda.
+5. **Información y orientación:** facilitar información administrativa general, modelos, canales, órgano destinatario y estado básico del trámite cuando se disponga de habilitación.
+6. **Remisión y accesibilidad:** enviar el documento a la unidad competente, utilizar sistemas interoperables y prestar atención accesible y no discriminatoria.
 
-Las personas obligadas a relacionarse electronicamente, como <mark>personas jurídicas</mark>, deben usar medios electrónicos. La oficina puede informar, pero la obligación permanece.
+La oficina puede aclarar cómo presentar una instancia general o dónde localizar un trámite. La **unidad gestora** debe resolver si el documento reúne los requisitos materiales, si procede conceder una licencia, reconocer una ayuda, imponer una sanción o estimar un recurso.
 
-El funcionario habilitado no actúa como representante libre del ciudadano, sino como apoyo técnico para identificación o firma cuando la ley lo permite. Debe quedar constancia del consentimiento. Esta función exige especial cuidado porque una firma electrónica produce efectos jurídicos.
+## 9. Relación con el Servicio 010 de Burgos
 
-<mark>No confundir:</mark>
+El 010 es el Servicio de Atención Ciudadana. Según la información municipal consultada, ofrece información sobre trámites, normativa, ayudas, actividades, equipamientos y otros datos útiles de la ciudad, por canales telefónico, presencial y telemático. Desde fuera de Burgos se utiliza el número 947 200 010.
 
-- **Asistencia:** ayuda técnica o material para que la persona pueda relacionarse con la Administración.
-- **Representación:** actuar jurídicamente en nombre de otra persona.
-- **Funcionario habilitado:** puede identificar o firmar en nombre de una persona en los supuestos legales y con consentimiento.
-- **Apoderamiento:** acredita que alguien puede actuar por otra persona.
+El 010 también canaliza avisos, quejas y sugerencias hacia la unidad responsable. Si la persona quiere que una solicitud tenga **validez administrativa como escrito**, debe presentarla por el registro mediante la instancia o canal correspondiente. Una llamada informativa o una anotación de atención ciudadana no equivale automáticamente a un asiento registral.
 
-## Digitalización y copias
+<mark>Trampa frecuente: 010 informa y canaliza; la OAMR registra, asiste, digitaliza y remite. Ninguno de los dos resuelve por sí solo el fondo del expediente.</mark>
 
-Los documentos en papel pueden digitalizarse para incorporarse al expediente electrónico. La digitalización debe garantizar integridad, autenticidad y conservación. Cuando proceda, se devuelve el original al interesado, salvo normas que exijan custodia.
+## 10. Circuito práctico de actuación
 
-Las oficinas pueden expedir <mark>copias autenticas</mark> en los supuestos previstos. Una copia autentica tiene la <mark>misma validez que el original</mark> para el procedimiento.
+Ante una persona que acude a una OAMR, el esquema profesional es:
 
-No toda fotocopia es copia autentica. La copia autentica requiere actuación de órgano o funcionario habilitado y garantías de correspondencia con el original. En cambio, una copia simple solo reproduce información sin el mismo valor jurídico.
+1. Escuchar la finalidad sin prejuzgar el fondo.
+2. Identificar a quien comparece y comprobar si actúa en nombre propio.
+3. Determinar si está obligada a usar medios electrónicos.
+4. Comprobar el órgano o Administración destinataria y el canal adecuado.
+5. Revisar firma, petición, anexos y datos mínimos del escrito, sin convertir la oficina en órgano resolutor.
+6. Prestar asistencia electrónica o activar al funcionario habilitado cuando proceda.
+7. Digitalizar con fidelidad los documentos en papel y devolver los originales cuando corresponda.
+8. Practicar el asiento con fecha, hora, interesado, destinatario, asunto y anexos.
+9. Entregar el recibo y explicar, si procede, la fecha de presentación y el siguiente paso.
+10. Remitir de forma segura a la unidad competente y proteger los datos personales.
 
-| Documento | Tratamiento habitual |
-| --- | --- |
-| Original en papel presentado por ciudadano | Digitalizar y devolver, salvo excepción. |
-| Copia simple aportada | Incorporar como documento aportado, sin autenticar si no procede. |
-| Documento electrónico con <mark>CSV</mark> | Verificar en sede correspondiente si es necesario. |
-| Copia autentica | Tiene validez formal equivalente al original. |
+### Caso breve
 
-Las copias auténticas de documentos públicos administrativos deben emitirse en el plazo de <mark>quince días</mark> desde la solicitud, salvo previsión específica. Los documentos electrónicos administrativos deben tener formato susceptible de identificación y tratamiento diferenciado, incorporar datos de identificación y cumplir requisitos de autenticidad e integridad.
+Una persona física presenta en papel, el último día de plazo, una solicitud dirigida a una consejería de la Comunidad Autónoma y aporta cinco anexos. La OAMR identifica a la presentadora, comprueba que no está obligada electrónicamente, digitaliza las seis piezas, registra el escrito con su fecha y hora, entrega recibo detallado y remite todo por el sistema interoperable. No resuelve la solicitud ni rechaza la entrada porque vaya dirigida a otra Administración.
 
-## Funciones
+## 11. Errores típicos de test
 
-Sus funciones incluyen registro de entrada, asistencia en presentación, identificación y firma, digitalización, expedición de recibos, información administrativa general, apoyo en apoderamientos, remisión de documentos, derivación a unidades competentes y atención accesible.
+- Confundir registro electrónico disponible 24 horas con plazos computados todos los días naturales.
+- Decir que una OAMR solo registra: también asiste, digitaliza, autentica y ayuda a identificar o firmar.
+- Afirmar que la oficina resuelve el fondo del expediente: lo hace la unidad competente.
+- Rechazar siempre un escrito por falta de representación: lo normal es registrar y permitir la subsanación cuando proceda.
+- Tratar una fotocopia simple como copia auténtica.
+- Confundir asistencia del funcionario habilitado con representación general.
+- Decir que solo se pueden presentar escritos ante la Administración destinataria.
+- Confundir una llamada al 010 con la presentación registral de una solicitud.
+- Olvidar que en día inhábil la regla es la primera hora del primer día hábil siguiente.
+- Digitalizar sin revisar anexos, reversos, firmas o legibilidad.
 
-Para un administrativo municipal, estas oficinas son un punto clave de contacto entre ciudadano y expediente. Un error en registro, destino, fecha o digitalización puede afectar plazos y derechos.
+## 12. Esquema final para memorizar
 
-Listado útil de funciones:
+**OAMR = recibir + asistir + identificar/firmar + digitalizar + copiar auténticamente + registrar + justificar + remitir.**
 
-- registrar entradas y, cuando proceda, salidas;
-- asistir en la presentación presencial y electrónica;
-- emitir recibos y justificantes;
-- digitalizar documentos en papel;
-- expedir copias autenticas;
-- apoyar identificación y firma;
-- comprobar representación;
-- orientar sobre información administrativa general;
-- remitir documentos al órgano competente;
-- garantizar atención accesible y no discriminatoria.
+**Registro:** deja prueba de entrada/salida.
 
-El servicio municipal 010 de atención ciudadana puede orientar, informar, concertar citas o canalizar avisos según organización municipal, pero no debe confundirse con una oficina de registro que expide copias selladas de originales aportados por interesados.
+**Sede:** ofrece el canal electrónico.
 
-## Representación y apoderamientos
+**Unidad gestora:** tramita y resuelve.
 
-La oficina debe comprobar si quien actúa lo hace en nombre propio o en representación de otra persona. La representación puede acreditarse por apoderamiento apud acta, registro electrónico de apoderamientos, documento público, documento privado con firma legitimada u otros medios validos.
+**010:** informa y canaliza.
 
-En trámites sencillos puede presumirse representación en determinados actos de mero trámite, pero no cuando se formulan solicitudes, se desiste, se renuncia a derechos o se interponen recursos si la normativa exige acreditación. La comprobación de representación es especialmente importante en expedientes tributarios, sancionadores, padronales o de servicios sociales.
+**Funcionario habilitado:** ayuda a identificar o firmar con consentimiento.
 
-| Actuación | Exigencia de representación |
-| --- | --- |
-| Presentar una solicitud en nombre de otra persona | Debe acreditarse representación si afecta a derechos/intereses. |
-| Aportar documentación de mero trámite | Puede admitirse presunción en supuestos sencillos. |
-| Interponer recurso | Requiere especial cuidado y acreditación. |
-| Desistir o renunciar | Requiere representación suficiente. |
-| Tramites tributarios o sancionadores | Comprobación especialmente relevante. |
+**Día inhábil:** primera hora del primer día hábil siguiente, salvo excepción.
+**Burgos:** consultar siempre la sede para oficinas, horarios y cierres temporales.
 
-Cuando falta acreditación de representación, lo normal es registrar la solicitud y requerir subsanación si procede. No debe bloquearse sin más la entrada del escrito si contiene una petición dirigida a la Administración. La unidad tramitadora valorará la eficacia de la actuación y los efectos de la falta de acreditación.
+### Fuentes oficiales para actualizar la materia
+
+- [Ley 39/2015 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565).
+- [Real Decreto 203/2021 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032).
+- [OAMR de la sede electrónica del Ayuntamiento de Burgos](https://sede.aytoburgos.es/sta/CarpetaPublic/doEvent?APP_CODE=STA&PAGE_CODE=PTS2_OFIASIREG).
+- [Servicio de Atención Ciudadana 010](https://movilidad.aytoburgos.es/web/ayuntamiento-de-burgos/-/solicitud-de-informacion-al-servicio-de-atencion-ciudadana-010).

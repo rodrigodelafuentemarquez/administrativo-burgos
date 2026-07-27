@@ -133,7 +133,7 @@
   {
     "id": "t31-p002",
     "tema": 35,
-    "pregunta": "En oficinas de asistencia en materia de registros, el Registro General debe complementarse con:",
+    "pregunta": "En una entidad local, el Registro General puede complementarse con:",
     "opciones": [
       "Registros Auxiliares",
       "Comisiones Informativas",
@@ -141,7 +141,7 @@
       "Libretas de direcciones"
     ],
     "correcta": 0,
-    "explicación": "El tema prevé registros auxiliares bajo dependencia del general.",
+    "explicación": "El artículo 16.2 de la Ley 39/2015 permite que los registros generales dispongan de oficinas de asistencia y, cuando proceda, de registros auxiliares coordinados con el general; no impone que toda entidad deba tenerlos.",
     "referencia": "V.4 · 1.2 El Registro General y los Registros Auxiliares"
   },
   {
@@ -175,16 +175,16 @@
   {
     "id": "t31-p005",
     "tema": 35,
-    "pregunta": "Los documentos presentados en un día inhábil se entienden presentados:",
+    "pregunta": "A efectos del cómputo de plazos, los documentos presentados en un día inhábil se entienden presentados:",
     "opciones": [
-      "el primer día hábil siguiente",
+      "a la primera hora del primer día hábil siguiente",
       "ese mismo día a las 12:00",
       "al siguiente mes",
       "el día que indique el interesado"
     ],
     "correcta": 0,
-    "explicación": "El tema fija esa regla general.",
-    "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico"
+    "explicación": "La regla general del artículo 31.2.c de la Ley 39/2015 es la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil con otros efectos.",
+    "referencia": "Ley 39/2015 · art. 31.2.c"
   },
   {
     "id": "t31-p006",
@@ -267,7 +267,7 @@
       "el portal de transparencia"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define así.",
+    "explicación": "El artículo 16.4 permite presentar documentos en registros electrónicos de cualquier Administración, además de en los restantes lugares legalmente previstos, aunque el escrito se dirija a otra Administración.",
     "referencia": "V.4 · 6. El principio de ventanilla única"
   },
   {
@@ -387,5 +387,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-v04-deep-01",
+    "tema": 35,
+    "pregunta": "Una persona presenta en una OAMR de Burgos un escrito dirigido a una consejería de Castilla y León. ¿Qué actuación es correcta?",
+    "opciones": [
+      "Registrar, entregar recibo y remitirlo por el sistema habilitado, sin resolver el fondo.",
+      "Rechazarlo porque el Ayuntamiento no es el destinatario.",
+      "Resolverlo la propia OAMR por tratarse de una solicitud presencial.",
+      "Enviar al interesado a la sede de la Junta sin practicar asiento."
+    ],
+    "correcta": 0,
+    "explicación": "Las OAMR permiten presentar documentos dirigidos a cualquier Administración. Registran, justifican y remiten; la resolución corresponde al órgano competente.",
+    "referencia": "Ley 39/2015 · arts. 12 y 16.4"
+  },
+  {
+    "id": "burgos-v04-deep-02",
+    "tema": 35,
+    "pregunta": "¿Cuál de estas parejas diferencia correctamente la sede electrónica de una OAMR?",
+    "opciones": [
+      "La sede es un punto electrónico de acceso; la OAMR es una unidad que también presta asistencia presencial.",
+      "La sede solo sirve para consultar información; la OAMR dicta las resoluciones.",
+      "La sede es un registro auxiliar en papel; la OAMR es el archivo electrónico.",
+      "No existe diferencia: ambos conceptos designan exactamente el mismo órgano."
+    ],
+    "correcta": 0,
+    "explicación": "La sede electrónica es la dirección o punto de acceso a servicios electrónicos. La OAMR es una unidad administrativa que registra y presta asistencia, entre otras funciones.",
+    "referencia": "Ley 39/2015 · arts. 12 y 38; RD 203/2021"
+  },
+  {
+    "id": "burgos-v04-deep-03",
+    "tema": 35,
+    "pregunta": "Para que un funcionario habilitado firme electrónicamente en nombre de una persona no obligada a relacionarse electrónicamente, debe existir, entre otros requisitos:",
+    "opciones": [
+      "Consentimiento expreso de la persona y constancia de la actuación.",
+      "Una autorización verbal del acompañante, aunque el interesado no consienta.",
+      "Un poder general del alcalde del municipio.",
+      "La renuncia del interesado a conocer el contenido del documento."
+    ],
+    "correcta": 0,
+    "explicación": "La asistencia del funcionario habilitado no es una representación libre: requiere consentimiento expreso y debe quedar constancia en los términos legales.",
+    "referencia": "Ley 39/2015 · art. 12"
+  },
+  {
+    "id": "burgos-v04-deep-04",
+    "tema": 35,
+    "pregunta": "Una fotocopia aportada por una persona en una OAMR es, por el solo hecho de haber sido recibida, una copia auténtica:",
+    "opciones": [
+      "No; la copia auténtica exige las garantías y actuación previstas legalmente.",
+      "Sí, siempre que esté en color.",
+      "Sí, si el escrito se presenta dentro de plazo.",
+      "No, porque las copias auténticas solo pueden ser digitales."
+    ],
+    "correcta": 0,
+    "explicación": "La recepción de una fotocopia no la convierte automáticamente en copia auténtica. Esta requiere acreditar su autenticidad y fidelidad conforme a la Ley 39/2015.",
+    "referencia": "Ley 39/2015 · art. 27"
+  },
+  {
+    "id": "burgos-v04-deep-05",
+    "tema": 35,
+    "pregunta": "Una solicitud electrónica se presenta a las 23:30 de un domingo que es día inhábil. Salvo norma especial, a efectos de plazo se entiende presentada:",
+    "opciones": [
+      "A la primera hora del primer día hábil siguiente.",
+      "A las 23:30 del domingo, como si fuera día hábil.",
+      "Al finalizar el mes en que se presentó.",
+      "Solo cuando la unidad gestora la abra."
+    ],
+    "correcta": 0,
+    "explicación": "La disponibilidad permanente del registro electrónico no transforma los días inhábiles en hábiles. La regla del artículo 31.2.c es la primera hora del primer día hábil siguiente.",
+    "referencia": "Ley 39/2015 · art. 31.2.c"
+  },
+  {
+    "id": "burgos-v04-deep-06",
+    "tema": 35,
+    "pregunta": "Si falta la acreditación de la representación en una solicitud que llega a una OAMR, la actuación más adecuada es normalmente:",
+    "opciones": [
+      "Registrar la solicitud y permitir que la unidad competente requiera la subsanación cuando proceda.",
+      "Destruir el escrito por no poder abrir expediente.",
+      "Firmar por el interesado sin pedir consentimiento.",
+      "Resolver desestimando el fondo en la propia oficina."
+    ],
+    "correcta": 0,
+    "explicación": "La falta de acreditación de la representación es un defecto subsanable en los supuestos legales. No justifica negar sin más la constancia de la presentación.",
+    "referencia": "Ley 39/2015 · arts. 5 y 68"
+  },
+  {
+    "id": "burgos-v04-deep-07",
+    "tema": 35,
+    "pregunta": "¿Qué dato es especialmente necesario en el asiento y recibo para acreditar la presentación de un escrito?",
+    "opciones": [
+      "La fecha y hora de presentación, junto con la identificación del documento y sus anexos.",
+      "La opinión del funcionario sobre la probabilidad de que se estime.",
+      "El nombre del concejal que resolverá siempre el expediente.",
+      "La clasificación presupuestaria de la solicitud."
+    ],
+    "correcta": 0,
+    "explicación": "El asiento y el recibo deben permitir probar qué se presentó y cuándo. La OAMR no tiene que anticipar el sentido de la resolución.",
+    "referencia": "Ley 39/2015 · art. 16"
+  },
+  {
+    "id": "burgos-v04-deep-08",
+    "tema": 35,
+    "pregunta": "Según la información municipal de Burgos, el Servicio 010 se caracteriza principalmente por:",
+    "opciones": [
+      "Informar y canalizar solicitudes, avisos, quejas y sugerencias hacia la unidad responsable.",
+      "Expedir siempre copias auténticas de cualquier original que se le entregue por teléfono.",
+      "Dictar resoluciones en nombre de todas las unidades municipales.",
+      "Practicar todos los asientos del Registro Electrónico General sin identificación."
+    ],
+    "correcta": 0,
+    "explicación": "El 010 presta información y canaliza avisos, quejas y sugerencias. La presentación con validez administrativa debe utilizar el registro o el canal formal correspondiente.",
+    "referencia": "Ayuntamiento de Burgos · Servicio de Atención Ciudadana 010"
+  },
+  {
+    "id": "burgos-v04-deep-09",
+    "tema": 35,
+    "pregunta": "Al digitalizar un expediente en papel en una OAMR, la actuación correcta exige:",
+    "opciones": [
+      "Comprobar integridad, legibilidad, firmas, reversos y anexos antes de incorporarlo al expediente electrónico.",
+      "Escanear solo la primera página para ahorrar espacio.",
+      "Eliminar los anexos porque el asiento ya prueba su existencia.",
+      "Modificar el contenido para adaptarlo al modelo normalizado."
+    ],
+    "correcta": 0,
+    "explicación": "La digitalización debe ser fiel y preservar autenticidad, integridad y legibilidad. El asiento no sustituye al contenido de los documentos aportados.",
+    "referencia": "Ley 39/2015 · arts. 16 y 27; RD 203/2021"
+  },
+  {
+    "id": "burgos-v04-deep-10",
+    "tema": 35,
+    "pregunta": "¿Qué actuación queda fuera de la función ordinaria de una OAMR?",
+    "opciones": [
+      "Resolver si procede conceder una licencia municipal solicitada.",
+      "Emitir un recibo de presentación.",
+      "Prestar asistencia para el uso de medios electrónicos.",
+      "Remitir el escrito a la unidad competente."
+    ],
+    "correcta": 0,
+    "explicación": "La OAMR formaliza y canaliza la presentación. La resolución de una licencia corresponde al órgano municipal competente y a la unidad que tramite el expediente.",
+    "referencia": "V.4 · Organización, funcionamiento y funciones"
   }
 ]
