@@ -37,8 +37,8 @@
       "intangibilidad del presupuesto"
     ],
     "correcta": 0,
-    "explicación": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos tipicos.",
-    "referencia": "II.10 · Carácterísticas del servicio público",
+    "explicación": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos típicos.",
+    "referencia": "II.10 · Características del servicio público",
     "tema": 19
   },
   {
@@ -52,7 +52,7 @@
     ],
     "correcta": 0,
     "explicación": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas.",
-    "referencia": "II.10 · Carácterísticas del servicio público",
+    "referencia": "II.10 · Características del servicio público",
     "tema": 19
   },
   {
@@ -66,7 +66,7 @@
     ],
     "correcta": 0,
     "explicación": "La igualdad prohíbe discriminaciones injustificadas.",
-    "referencia": "II.10 · Carácterísticas del servicio público",
+    "referencia": "II.10 · Características del servicio público",
     "tema": 19
   },
   {
@@ -80,7 +80,7 @@
     ],
     "correcta": 0,
     "explicación": "Los servicios deben ajustarse a la evolución de las necesidades colectivas.",
-    "referencia": "II.10 · Carácterísticas del servicio público",
+    "referencia": "II.10 · Características del servicio público",
     "tema": 19
   },
   {
@@ -172,7 +172,7 @@
     "pregunta": "Aunque un servicio se gestione indirectamente, el Ayuntamiento conserva:",
     "opciones": [
       "responsabilidad y potestades de dirección y control",
-      "ninguna obligación frente a la ciudadania",
+      "ninguna obligación frente a la ciudadanía",
       "solo funciones notariales",
       "competencia judicial penal"
     ],
@@ -214,7 +214,7 @@
     "pregunta": "En la gestión indirecta de un servicio público, el Ayuntamiento conserva:",
     "opciones": [
       "la titularidad del servicio y las potestades de dirección y control",
-      "solo una función simbolica sin capacidad de intervenir",
+      "solo una función simbólica sin capacidad de intervenir",
       "la obligación de no supervisar al contratista",
       "la competencia jurisdiccional sobre litigios penales"
     ],
@@ -239,7 +239,7 @@
   },
   {
     "id": "refine-19-04",
-    "pregunta": "En las formas de actividad administrativa y servicio público, la remunicipalización de un servicio público no permite, por si sola:",
+    "pregunta": "En las formas de actividad administrativa y servicio público, la remunicipalización de un servicio público no permite, por sí sola:",
     "opciones": [
       "ignorar contratos vigentes, personal afectado y sostenibilidad financiera",
       "recuperar la gestión pública del servicio",
@@ -291,6 +291,174 @@
     "correcta": 0,
     "referencia": "II.10 · Servicio público",
     "explicación": "La continuidad expresa la necesidad de asegurar una prestación regular a la colectividad.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-01",
+    "pregunta": "Según el artículo 85.1 de la LRBRL, son servicios públicos locales:",
+    "opciones": [
+      "los que prestan las entidades locales en el ámbito de sus competencias",
+      "todas las actividades privadas realizadas dentro del término municipal",
+      "solo los servicios declarados gratuitos por el Pleno",
+      "únicamente los servicios reservados en régimen de monopolio"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Artículo 85.1 LRBRL",
+    "explicación": "El artículo 85.1 vincula el servicio público local a la prestación por la entidad local dentro de su ámbito competencial; no exige gratuidad ni monopolio.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-02",
+    "pregunta": "¿Cuál de las siguientes es una modalidad de gestión directa de un servicio público local conforme al artículo 85.2 LRBRL?",
+    "opciones": [
+      "La entidad pública empresarial local",
+      "El contrato de servicios con cualquier empresa",
+      "La concesión de servicios con riesgo operacional",
+      "La autorización administrativa a un particular"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Gestión directa",
+    "explicación": "La gestión directa puede realizarse por la propia entidad, organismo autónomo local, entidad pública empresarial local o sociedad mercantil local de capital público.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-03",
+    "pregunta": "Para elegir una entidad pública empresarial local o una sociedad mercantil local como forma de gestión directa, debe acreditarse mediante memoria que resulta:",
+    "opciones": [
+      "más sostenible y eficiente que la gestión por la propia entidad u organismo autónomo",
+      "más barata que cualquier servicio privado del mercado, sin excepción",
+      "exenta de informe de la Intervención por tener personalidad jurídica propia",
+      "obligatoria cuando el servicio tenga usuarios"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Artículo 85.2 LRBRL",
+    "explicación": "La LRBRL exige memoria justificativa, informes sobre el coste y valoración de la sostenibilidad financiera para esas dos modalidades.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-04",
+    "pregunta": "La nota que distingue principalmente la concesión de servicios del contrato de servicios es:",
+    "opciones": [
+      "la transferencia al concesionario del riesgo operacional de la explotación",
+      "que solo la concesión puede tener un objeto relacionado con servicios",
+      "que el contrato de servicios siempre se paga con tarifas de usuarios",
+      "que la concesión elimina la competencia municipal sobre el servicio"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Concesión y contrato de servicios",
+    "explicación": "En la concesión la explotación implica riesgo operacional; la Administración no garantiza recuperar inversiones y costes en condiciones normales.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-05",
+    "pregunta": "Si una empresa presta indirectamente un servicio público municipal, el Ayuntamiento:",
+    "opciones": [
+      "conserva la competencia, la dirección y el control del servicio",
+      "pierde la responsabilidad de garantizar su continuidad",
+      "ya no puede inspeccionar el cumplimiento del contrato",
+      "debe convertir siempre el contrato en una subvención"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Control de la gestión indirecta",
+    "explicación": "La gestión indirecta encomienda la prestación material, pero no transfiere la titularidad ni elimina las potestades de control administrativo.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-06",
+    "pregunta": "La continuidad, como principio del servicio público, exige que la prestación:",
+    "opciones": [
+      "no se interrumpa arbitrariamente cuando atiende una necesidad colectiva",
+      "sea siempre gratuita para todos los usuarios",
+      "sea prestada necesariamente por funcionarios",
+      "permanezca invariable aunque cambien las necesidades públicas"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Principios del servicio público",
+    "explicación": "Continuidad no equivale a gratuidad ni impide la adaptación del servicio; impide interrupciones arbitrarias de una prestación colectiva.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-07",
+    "pregunta": "La remunicipalización de un servicio público significa:",
+    "opciones": [
+      "recuperar su gestión directa o instrumental tras una gestión indirecta",
+      "suprimir la competencia municipal sobre el servicio",
+      "rescindir siempre sin indemnización el contrato vigente",
+      "incorporar automáticamente al personal de la concesionaria como funcionario"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Remunicipalización",
+    "explicación": "Es una decisión sobre la forma de gestión; debe respetar la extinción contractual, la legislación laboral y las reglas de acceso al empleo público.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-08",
+    "pregunta": "En la remunicipalización, el expediente debe valorar especialmente:",
+    "opciones": [
+      "costes completos, personal, bienes afectos, continuidad y sostenibilidad financiera",
+      "solo la preferencia política del órgano que decide",
+      "únicamente la duración del contrato, sin analizar medios ni costes",
+      "la eliminación de los indicadores de calidad"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Expediente de remunicipalización",
+    "explicación": "La recuperación del servicio exige una comparación jurídica, económica y organizativa de las alternativas y sus efectos.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-09",
+    "pregunta": "El expediente de iniciativa económica pública local del artículo 86 LRBRL debe incluir un análisis del mercado sobre:",
+    "opciones": [
+      "oferta, demanda, rentabilidad y posibles efectos sobre la concurrencia empresarial",
+      "solo el número de empleados municipales disponibles",
+      "exclusivamente la voluntad de los usuarios actuales",
+      "la inexistencia absoluta de empresas privadas en cualquier sector"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Artículo 86 LRBRL",
+    "explicación": "El artículo 86 exige justificar la conveniencia y oportunidad y analizar oferta, demanda, rentabilidad y efectos sobre la concurrencia.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-10",
+    "pregunta": "En régimen de libre concurrencia, la iniciativa económica local requiere, conforme al artículo 97 TRRL:",
+    "opciones": [
+      "acuerdo inicial, comisión de estudio y memoria social, jurídica, técnica y financiera",
+      "únicamente una orden de la Alcaldía sin expediente",
+      "una sentencia previa que declare la utilidad pública",
+      "la concesión obligatoria del servicio a una empresa privada"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Artículos 96 a 98 TRRL",
+    "explicación": "El TRRL articula un expediente específico con acuerdo inicial, comisión de estudio y memoria sobre los aspectos social, jurídico, técnico y financiero.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-11",
+    "pregunta": "¿Cuál de estas actuaciones es actividad de fomento y no actividad de limitación?",
+    "opciones": [
+      "Conceder una subvención mediante convocatoria para impulsar una actividad cultural",
+      "Ordenar el cese de una actividad sin licencia",
+      "Inspeccionar el cumplimiento de una ordenanza",
+      "Imponer una sanción por incumplir una obligación"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Formas de actividad administrativa",
+    "explicación": "El fomento incentiva conductas de interés general; las otras opciones condicionan, controlan o sancionan actividades privadas.",
+    "tema": 19
+  },
+  {
+    "id": "burgos-ii10-deep-12",
+    "pregunta": "Un servicio municipal que requiere una ordenanza de uso, un contrato de limpieza, tarifas e inspecciones muestra que:",
+    "opciones": [
+      "las formas de actividad administrativa pueden combinarse en una misma prestación",
+      "la existencia de un contrato convierte el servicio en actividad privada",
+      "las tarifas eliminan la condición de servicio público",
+      "la inspección solo puede realizarla un órgano judicial"
+    ],
+    "correcta": 0,
+    "referencia": "II.10 · Relación entre formas de actividad",
+    "explicación": "Un servicio público puede incorporar regulación, contratación, financiación e inspección; cada instrumento cumple una función distinta.",
     "tema": 19
   }
 ]

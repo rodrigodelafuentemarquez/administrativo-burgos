@@ -3,98 +3,174 @@ grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas
 tema: 10
 codigo: "Tema II.10"
 titulo: "Las formas de actividad administrativa. El servicio público. Concepto. Evolución y crisis. Las formas de gestión de los servicios públicos. La remunicipalización de los servicios públicos. La iniciativa económica pública y los servicios públicos."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y mapa del tema
 
-Este tema se apoya en la Constitución, la <mark>Ley 7/1985</mark>, la <mark>Ley 40/2015</mark>, la <mark>Ley 9/2017</mark> de Contratos del Sector Público y normativa sectorial de servicios públicos. En lo local son importantes las competencias municipales y los modos de gestión de servicios.
+El punto de partida es el **artículo 103.1 de la Constitución**, que obliga a la Administración a servir con objetividad los intereses generales y a actuar con eficacia, sometimiento pleno a la ley y al Derecho y demás principios constitucionales. Para el ámbito local, las referencias centrales son:
 
-## Formas de actividad administrativa
+| Norma | Qué debe estudiarse |
+| --- | --- |
+| <mark>Ley 7/1985</mark>, reguladora de las Bases del Régimen Local (LRBRL) | Competencias locales, servicios públicos, formas de gestión e iniciativa económica: arts. 25, 26, 84, 85, 85 bis, 85 ter, 86 y 87. |
+| <mark>Ley 9/2017</mark>, de Contratos del Sector Público (LCSP) | Contrato de concesión de servicios, contrato de servicios, riesgo operacional, continuidad y poderes de la Administración: arts. 15, 17, 284 y siguientes. |
+| <mark>Real Decreto Legislativo 781/1986</mark> (TRRL) | Expediente de iniciativa económica local en libre concurrencia: arts. 96 a 98. |
+| Ley 38/2003, General de Subvenciones | Actividad de fomento mediante subvenciones y ayudas. |
+| Ley 40/2015 y Ley 39/2015 | Principios de actuación, potestades, autorización, declaración responsable, inspección y procedimiento. |
 
-La Administración actúa de varias formas. La <mark>actividad de policía o limitación</mark> ordena y controla conductas privadas mediante licencias, autorizaciones, inspecciones, órdenes y sanciones. La <mark>actividad de fomento</mark> impulsa conductas de interés público mediante subvenciones, ayudas, premios o beneficios. La <mark>actividad de servicio público</mark> presta directamente o garantiza prestaciones a la ciudadania. La <mark>actividad económica</mark> supone intervención en el mercado o gestión de actividades empresariales públicas.
+**Ruta de examen:** primero identifica el instrumento (limitación, fomento, servicio o actividad económica); después determina si existe servicio público local y, por último, separa la forma de gestión de la prestación material.
 
-Estas formas no son compartimentos cerrados. Un servicio municipal puede requerir ordenanza, tasa, contrato, inspección y sanciones.
+## 2. Formas de actividad administrativa
 
-| Forma de actividad | Instrumentos habituales | Ejemplo local |
+Las formas clásicas describen cómo interviene la Administración en la vida social. No son compartimentos estancos: una misma política municipal puede combinar una ordenanza, una subvención, un contrato, una tasa, información al público e inspección.
+
+| Forma | Finalidad e instrumentos | Ejemplo municipal |
 | --- | --- | --- |
-| Policia o limitación | Licencias, declaraciones responsables, inspecciones, órdenes, sanciones. | Licencia urbanística, control de terrazas, disciplina de ruidos. |
-| Fomento | Subvenciones, premios, ayudas, convenios, beneficios. | Ayudas culturales, subvenciones deportivas, programas sociales. |
-| Servicio público | Gestión directa o indirecta de prestaciones. | Limpieza, transporte, abastecimiento, escuelas, cementerio. |
-| Actividad económica | Empresas públicas, sociedades, explotaciones económicas. | Sociedad municipal o prestación económica en mercado. |
+| **Actividad de limitación o policía** | Condiciona derechos o actividades privadas para proteger el interés general: autorizaciones, licencias, declaraciones responsables, órdenes, inspección y sanciones. Exige habilitación normativa y proporcionalidad. | Control de una actividad ruidosa o de la ocupación de la vía pública. |
+| **Actividad de fomento** | Estimula conductas privadas de interés general sin imponer normalmente una prestación coactiva: subvenciones, ayudas, premios, bonificaciones o convenios. Debe respetar publicidad, igualdad, objetividad y control. | Subvención a asociaciones culturales o deportivas. |
+| **Actividad de servicio público** | La entidad local asume una prestación de su competencia y la organiza, presta o garantiza para atender una necesidad colectiva. | Transporte urbano, abastecimiento, biblioteca o instalaciones deportivas. |
+| **Actividad económica pública** | La entidad participa en el mercado o explota una actividad empresarial con finalidad de interés público y dentro de los límites legales. | Empresa municipal, aparcamiento o actividad económica de utilidad pública. |
 
-La misma realidad puede mezclar varias formas. Una piscina municipal es servicio público; puede gestionarse por contrato; requiere tarifas o precios; tiene normas de uso; y puede haber sanciones por incumplimientos.
+### 2.1. Limitación, fomento y servicio: diferencias que caen en test
 
-## Servicio público
+- La **limitación** impone condiciones, deberes o restricciones; una licencia no es un servicio público ni una subvención.
+- El **fomento** ofrece una ventaja o incentivo, pero la subvención no puede convertirse en una ayuda automática: requiere bases reguladoras, convocatoria, concesión, justificación y control cuando proceda.
+- El **servicio público** es una actividad asumida por la Administración en el ámbito de sus competencias. Puede gestionarse con medios propios o mediante un contrato, pero la contratación no cambia por sí sola la titularidad pública.
+- La **actividad económica pública** no se presume por el mero hecho de que exista una empresa municipal: deben concurrir interés público, competencia local y sostenibilidad.
 
-El servicio público es una actividad asumida por una Administración para satisfacer necesidades de interés general de forma <mark>regular y organizada</mark>. En el ámbito local, la idea de servicio público se vincula a competencias municipales, servicios obligatorios, <mark>calidad, continuidad, igualdad de acceso y control administrativo</mark>.
+## 3. El servicio público
 
-| Caracteristica | Significado |
+### 3.1. Concepto
+
+Son **servicios públicos locales** los que prestan las entidades locales en el ámbito de sus competencias, conforme al **artículo 85.1 LRBRL**. El concepto combina tres elementos:
+
+1. Una **actividad o prestación** dirigida a satisfacer una necesidad colectiva.
+2. Una **asunción pública**: la entidad local tiene competencia y organiza o garantiza la prestación.
+3. Un **régimen de servicio**: existen reglas de funcionamiento, usuarios, financiación, control y responsabilidad.
+
+No toda actividad de interés general es servicio público local. Una actividad privada regulada puede estar sometida a licencias e inspección sin que el Ayuntamiento la haya asumido como prestación propia.
+
+### 3.2. Principios clásicos de la prestación
+
+| Principio | Aplicación práctica |
 | --- | --- |
-| Continuidad | El servicio no debe interrumpirse injustificadamente. |
-| Regularidad | Debe prestarse conforme a reglas, horarios y condiciones. |
-| Igualdad | Los usuarios en situación equivalente deben recibir trato equivalente. |
-| Adaptabilidad | Puede modificarse para responder a necesidades públicas. |
-| Control público | La Administración conserva responsabilidad y potestades de dirección. |
+| Continuidad | El servicio no se interrumpe arbitrariamente cuando atiende una necesidad colectiva. |
+| Regularidad | Se presta conforme a normas, horarios, niveles y condiciones previamente establecidos. |
+| Igualdad | Usuarios en situación equivalente reciben trato equivalente, sin discriminación injustificada. |
+| Adaptabilidad o mutabilidad | La organización puede ajustarse a nuevas necesidades, tecnología o población. |
+| Calidad y accesibilidad | Deben fijarse estándares y eliminarse barreras, con atención a las personas con discapacidad. |
+| Control público | Incluso con gestión indirecta, la entidad conserva dirección, inspección y potestades de corrección. |
 
-La "crisis" del concepto clasico de servicio público se explica porque muchas prestaciones hoy se organizan mediante contratos, concesiones, sociedades, colaboración público-privada o regulación de actividades privadas de interés general. Aun así, el Ayuntamiento conserva deberes de control, garantía y responsabilidad política ante la ciudadania.
+Estos principios no significan que todo servicio tenga que ser gratuito. Puede financiarse mediante tributos, tasas, precios públicos, tarifas o aportaciones presupuestarias, según su régimen jurídico.
 
-## Formas de gestión
+### 3.3. Evolución y crisis del concepto
 
-| Forma | Idea clave |
+El modelo clásico vinculaba servicio público con gestión directa, monopolio y una prestación uniforme. La evolución tecnológica y económica introdujo competencia, regulación de actividades privadas, concesiones, sociedades públicas y contratos. Por eso se habla de **crisis del concepto clásico**, no de desaparición del servicio público.
+
+La titularidad o responsabilidad pública puede mantenerse aunque la prestación material la realice un tercero. La Administración debe definir el servicio, garantizar su continuidad y controlar calidad, tarifas, accesibilidad, inversiones y cumplimiento contractual. En cambio, una mera regulación de una actividad privada no convierte automáticamente a esta en servicio público.
+
+## 4. Formas de gestión de los servicios públicos locales
+
+El **artículo 85.2 LRBRL** exige elegir la forma **más sostenible y eficiente** entre las legalmente previstas. La decisión debe estar motivada y atender al coste, calidad, eficacia, sostenibilidad financiera, control, accesibilidad y continuidad.
+
+### 4.1. Gestión directa
+
+La entidad local conserva la prestación mediante su propia estructura o una entidad instrumental pública:
+
+| Modalidad | Idea clave |
 | --- | --- |
-| Gestión directa por la propia entidad | El Ayuntamiento presta el servicio con medios propios. |
-| Organismo autonomo o entidad pública | Se crea estructura especializada de gestión. |
-| Sociedad mercantil local | Gestión empresarial bajo control público. |
-| Concesión de servicios | Un contratista explota el servicio bajo riesgo operacional y control administrativo. |
-| Contrato de servicios | Un contratista presta tareas sin asumir necesariamente gestión integral del servicio. |
+| Propia entidad local | El Ayuntamiento presta con sus órganos, servicios y medios personales y materiales. |
+| Organismo autónomo local | Entidad pública instrumental con personalidad jurídica propia, patrimonio y autonomía de gestión en los términos de su norma de creación. |
+| Entidad pública empresarial local | Entidad pública instrumental que puede actuar en régimen de Derecho privado en su actividad, con las limitaciones legales. |
+| Sociedad mercantil local | Sociedad mercantil cuyo capital social es de titularidad pública; se rige en general por Derecho privado, sin perjuicio de contratación, presupuesto, control y demás normas públicas aplicables. |
 
-La elección de forma de gestión debe justificarse por eficacia, sostenibilidad, coste, calidad, control y cumplimiento legal. No es una decisión puramente ideologica ni automatica: exige memoria, informes, análisis económico y control del interés público.
+La **entidad pública empresarial local** y la **sociedad mercantil local** solo pueden elegirse si una memoria justificativa acredita que son más sostenibles y eficientes que la gestión por la propia entidad u organismo autónomo. El expediente incluye informes sobre el coste del servicio, asesoramiento recibido y el informe del interventor sobre sostenibilidad financiera; la memoria se eleva al Pleno y debe publicitarse.
 
-Puede distinguirse entre <mark>gestión directa e indirecta</mark>. En la gestión directa, la entidad local conserva la prestación mediante sus propios medios o entidades instrumentales. En la gestión indirecta, un tercero presta o explota el servicio mediante contrato, normalmente concesión de servicios o fórmulas contractuales previstas por la Ley de Contratos.
+### 4.2. Gestión indirecta
 
-| Gestión directa | Gestión indirecta |
+Se realiza mediante las formas contractuales de la LCSP. La Administración no abandona la competencia: encarga la prestación a un contratista y conserva poderes de dirección, inspección, modificación y sanción contractual dentro de la ley y del contrato.
+
+| Figura | Contrapartida y riesgo |
 | --- | --- |
-| Por la propia entidad local. | Por contratista o concesionario. |
-| Mediante organismo autónomo, entidad pública empresarial o sociedad mercantil local, si procede. | Mediante contrato y bajo control administrativo. |
-| Mayor integración en estructura pública. | Puede transferir riesgo operacional si hay concesión. |
-| Exige medios, organización y financiación propios. | Exige pliegos sólidos, responsable del contrato e indicadores de control. |
+| **Concesión de servicios** | El concesionario explota el servicio y puede percibir tarifas y/o precio. La explotación implica transferencia del **riesgo operacional**: no se garantiza recuperar inversiones y costes en condiciones normales. |
+| **Contrato de servicios** | El contratista realiza una prestación a cambio de un precio; no recibe por ello la explotación del servicio ni asume necesariamente el riesgo operacional propio de la concesión. |
 
-## Remunicipalización e iniciativa económica
+La diferencia no depende de llamar “concesión” al contrato, sino de su contenido y de la transferencia real del riesgo operacional. Si el servicio implica ejercicio de autoridad pública, no puede prestarse mediante concesión de servicios.
 
-La <mark>remunicipalización</mark> consiste en recuperar para gestión pública directa o instrumental un servicio que estaba gestionado indirectamente. Puede plantearse por finalización de contrato, mala calidad, coste, interés estrategico o decisión política, pero debe respetar contratos vigentes, personal, bienes, costes, estabilidad presupuestaria y procedimiento.
+### 4.3. Gestión directa e indirecta: cuadro de repaso
 
-La iniciativa económica pública permite a las entidades públicas desarrollar actividades económicas cuando exista interés público y se cumplan requisitos legales. En el ámbito local exige especial prudencia: memoria justificativa, análisis de mercado, sostenibilidad financiera, respeto a competencia, transparencia, control financiero y responsabilidad.
+| Pregunta | Gestión directa | Gestión indirecta |
+| --- | --- | --- |
+| Quién presta materialmente | Ayuntamiento o entidad instrumental | Contratista o concesionario |
+| Titularidad y competencia | Permanecen en la entidad local | Permanecen en la entidad local |
+| Riesgo operacional | Público | Se transfiere al concesionario si es concesión |
+| Instrumento | Organización y presupuesto público | Contrato, pliegos, responsable y control |
+| ¿Desaparece el control municipal? | No | No, debe reforzarse el seguimiento |
 
-La iniciativa económica local no permite actuar como una empresa privada cualquiera. Debe motivarse especialmente la conveniencia y oportunidad de la actividad, el interés público perseguido, la sostenibilidad financiera, la incidencia en el mercado y el respeto a la estabilidad presupuestaria y a la libre competencia.
+## 5. Remunicipalización
 
-La remunicipalización no es solo terminar un contrato y asumir el servicio. Requiere expediente que compare alternativas, analice costes reales, medios personales y materiales, subrogación si procede, bienes afectos, tarifas, impacto presupuestario, estabilidad financiera y continuidad del servicio. También debe respetar la duración y extinción de contratos vigentes.
+La **remunicipalización** es la recuperación de la gestión directa o instrumental de un servicio que se prestaba mediante gestión indirecta. No constituye una forma autónoma de gestión ni permite ignorar el contrato vigente: es una decisión sobre la forma de gestión que debe tramitarse y justificarse.
 
-## Servicios locales
+Un expediente serio debe analizar, como mínimo:
 
-Los servicios públicos locales incluyen limpieza, residuos, abastecimiento de agua, alcantarillado, alumbrado, cementerio, transporte urbano, instalaciones deportivas, bibliotecas, servicios sociales, policía local, protección civil, mercados y otros según población y competencias.
+1. Fecha, causa y régimen de extinción del contrato o concesión.
+2. Costes completos de las alternativas: personal, inversiones, mantenimiento, financiación y riesgos.
+3. Medios materiales y bienes afectos al servicio.
+4. Situación del personal y, en su caso, las reglas de subrogación aplicables.
+5. Continuidad, calidad, accesibilidad, tarifas y atención a los usuarios.
+6. Impacto en presupuesto, estabilidad y sostenibilidad financiera.
+7. Competencia del órgano, informes y forma de gestión más eficiente.
 
-Para un administrativo municipal es esencial entender que detrás de cada servicio hay expedientes: ordenanzas, tasas, contratos, padrones, quejas, inspecciones, subvenciones, presupuestos, personal y control.
+**Regla de examen:** remunicipalizar no equivale a rescindir libremente una concesión ni a incorporar automáticamente a toda la plantilla del contratista. Deben respetarse el contrato, la legislación laboral, la normativa presupuestaria y los principios de igualdad y mérito en el acceso al empleo público.
 
-| Servicio | Expedientes relacionados |
+## 6. Iniciativa económica pública local
+
+El **artículo 86 LRBRL** permite a las entidades locales ejercer iniciativa pública para desarrollar actividades económicas cuando esté garantizada la estabilidad presupuestaria y la sostenibilidad financiera del ejercicio de sus competencias. El expediente de conveniencia y oportunidad debe justificar que la iniciativa no genera riesgo para la sostenibilidad financiera de la Hacienda municipal e incluir un análisis del mercado: oferta, demanda, rentabilidad y efectos sobre la concurrencia empresarial.
+
+En régimen de libre concurrencia, los **artículos 96 a 98 TRRL** añaden un expediente con acuerdo inicial, comisión de estudio y memoria sobre los aspectos social, jurídico, técnico y financiero; la memoria debe determinar la forma de gestión y los casos en que cesaría la actividad. La iniciativa puede recaer sobre actividades de utilidad pública prestadas en el término municipal y en beneficio de sus habitantes.
+
+No debe confundirse:
+
+| Figura | Clave |
 | --- | --- |
-| Limpieza y residuos | Contrato, tasa, quejas, inspecciones, penalidades, campañas informativas. |
-| Abastecimiento de agua | Reglamento, tarifas, averias, lecturas, reclamaciones, concesión o gestión directa. |
-| Transporte urbano | Concesión, bonos, accesibilidad, reclamaciones, compensaciones, control de calidad. |
-| Instalaciones deportivas | Precios, reservas, mantenimiento, normas de uso, responsabilidad patrimonial. |
-| Servicios sociales | Ayudas, convenios, protección de datos, informes, atención especializada. |
-| Mercados y vía pública | Autorizaciones, tasas, inspecciones, sanciones, ocupaciones temporales. |
+| Servicio público local | Prestación de competencia local asumida y organizada por la entidad. |
+| Iniciativa económica pública | Entrada de la entidad en una actividad económica o de mercado con interés público y expediente reforzado. |
+| Gestión indirecta | Forma contractual de prestar un servicio cuya competencia o titularidad corresponde a la Administración. |
+| Sociedad mercantil local | Instrumento organizativo de gestión; su existencia no sustituye la justificación de la actividad ni de la forma elegida. |
 
-## Gestión y control del servicio
+La iniciativa no autoriza a actuar sin límites como un operador privado. Debe respetar libre competencia, unidad de mercado, contratación, ayudas de Estado cuando proceda, control financiero, transparencia y las reglas sobre funciones reservadas a funcionarios.
 
-La Administración conserva responsabilidad aunque el servicio se gestione indirectamente. Debe controlar cumplimiento de pliegos, continuidad, calidad, accesibilidad, quejas, tarifas, inversiones, subcontratación cuando proceda y equilibrio económico si está legalmente previsto.
+## 7. Caso municipal y esquema rápido
 
-| Riesgo de gestión | Medida administrativa |
-| --- | --- |
-| Servicio de baja calidad | Indicadores, inspecciones, penalidades y seguimiento del responsable del contrato. |
-| Coste no sostenible | Estudios económicos, control presupuestario y revisión de forma de gestión. |
-| Falta de accesibilidad | Adaptaciones, clausulas técnicas y control de cumplimiento. |
-| Interrupción del servicio | Planes de continuidad y reacción ante incumplimientos. |
-| Falta de transparencia | Publicación de contratos, tarifas, memorias e indicadores. |
+Si el Ayuntamiento de Burgos quiere prestar un nuevo servicio deportivo, el análisis sería: **competencia local → definición de la prestación y usuarios → estudio de necesidad y coste → comparación de formas de gestión → memoria e informes exigibles → acuerdo del órgano competente → presupuesto o contrato → indicadores, quejas e inspección**.
 
-La pregunta clave es siempre la misma: quien garantiza el interés general. Aunque haya empresa contratista o sociedad municipal, el Ayuntamiento debe conservar dirección, inspección y capacidad de corrección.
+Para resolver un supuesto, pregunta en este orden:
+
+1. ¿Se limita una actividad privada, se incentiva, se presta un servicio o se entra en el mercado?
+2. ¿La prestación está dentro de una competencia local?
+3. ¿Es gestión directa o indirecta?
+4. Si hay contrato, ¿es concesión (riesgo operacional) o contrato de servicios (precio)?
+5. ¿Qué memoria, informe, órgano, financiación y controles exige la norma?
+
+### Errores típicos de test
+
+- **Gestión indirecta no significa pérdida de titularidad ni de control municipal.**
+- Una **concesión de servicios** exige riesgo operacional; no basta con que exista una empresa contratista.
+- El artículo 85 LRBRL vigente enumera cuatro modalidades de gestión directa: propia entidad, organismo autónomo, entidad pública empresarial local y sociedad mercantil local de capital público.
+- La memoria reforzada para entidad pública empresarial o sociedad mercantil local compara su sostenibilidad y eficiencia con las dos primeras modalidades.
+- Remunicipalizar no es una “privatización al revés” automática: exige expediente y respeto a contrato, personal y sostenibilidad.
+- La iniciativa económica pública local requiere análisis del mercado; no se justifica solo invocando interés político.
+
+## Esquema final
+
+**Actividad administrativa** → limitación/policía · fomento · servicio público · actividad económica.
+
+**Servicio público local** → competencia local + prestación asumida + continuidad, regularidad, igualdad, adaptabilidad y control.
+
+**Gestión** → directa (propia, organismo autónomo, entidad pública empresarial, sociedad mercantil pública) / indirecta (contratos LCSP).
+
+**Concesión** → explotación + transferencia del riesgo operacional.
+
+**Remunicipalización** → recuperar gestión pública con expediente, análisis económico y respeto al contrato y al personal.
+
+**Iniciativa económica** → interés público + mercado + estabilidad y sostenibilidad financiera + memoria y controles.
