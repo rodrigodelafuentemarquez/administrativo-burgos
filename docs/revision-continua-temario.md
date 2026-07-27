@@ -31,7 +31,7 @@
 - **Mejoras realizadas:** el tema pasa a `revisado` y se reescribe con ocho bloques pedagógicos; se añaden mapa por títulos constitucionales, enumeración completa de funciones del Rey, sanción en quince días, dotación y personal de la Casa del Rey, sucesión y regencia comparadas, composición detallada del Congreso y Senado, estatuto parlamentario, sesiones y Diputación Permanente, instrumentos de control con sus mayorías, investidura, límites del Gobierno en funciones, Consejo de Ministros y órganos preparatorios, artículos 103-107 y estructura constitucional del Poder Judicial. Se incorporan cuadro de errores típicos y esquema final. Se mantiene el subrayado manual limitado a normas, artículos, plazos y conceptos nucleares, sin modificar el motor común.
 - **Tests añadidos/cambiados:** se añaden 8 preguntas (`burgos-i02-deep-01` a `burgos-i02-deep-08`) sobre artículo 65, composición del Senado, sesiones extraordinarias, moción de censura, Gobierno en funciones, artículo 103, diferencia CGPJ/Tribunal Constitucional y composición del CGPJ. El banco queda en 95 preguntas y se sincroniza la copia pública.
 - **Verificación:** `npm run prepare:data`, comprobación de igualdad entre JSON editable y público, `git diff --check` y `npm run build` completados correctamente (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `bd1812e` (`mejora tema I.3 organización territorial`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.3, organización territorial del Estado, comunidades autónomas, estatutos y competencias.
 
 ## 27 de julio de 2026, 10:02 (Europe/Madrid)
