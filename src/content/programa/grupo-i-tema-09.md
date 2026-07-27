@@ -3,233 +3,215 @@ grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidade
 tema: 9
 codigo: "Tema I.9"
 titulo: "La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Marco constitucional y naturaleza de Castilla y León
 
-Este tema se estudia sobre el <mark>Estatuto de Autonomía de Castilla y León</mark>, aprobado por <mark>Ley Orgánica 4/1983</mark> y reformado en varias ocasiones, especialmente por <mark>Ley Orgánica 14/2007</mark>. También debe relacionarse con la <mark>Constitución Española</mark>, en particular con los <mark>artículos 2, 137, 143, 147, 148, 149, 152, 153, 156 y 157</mark>.
+Castilla y León ejerce su derecho al autogobierno como comunidad autónoma dentro de la **unidad de la Nación española**, de acuerdo con la Constitución y con su Estatuto de Autonomía. La autonomía no equivale a soberanía: la soberanía nacional reside en el pueblo español y la Comunidad ejerce las competencias que la Constitución, el Estatuto y las leyes le atribuyen.
 
-El <mark>Estatuto de Autonomía</mark> es la norma institucional básica de Castilla y León. El Estado lo reconoce y ampara como parte integrante de su ordenamiento jurídico.
+El acceso a la autonomía se produjo por la vía del **artículo 143 de la Constitución**. El Estatuto fue aprobado inicialmente por **Ley Orgánica 4/1983, de 25 de febrero**, y su redacción vigente procede fundamentalmente de la **Ley Orgánica 14/2007, de 30 de noviembre**, de reforma del Estatuto.
 
-## Castilla y León como comunidad autónoma
+<mark>El Estatuto de Autonomía es la norma institucional básica de Castilla y León</mark>. Es una ley orgánica estatal desde el punto de vista formal, pero organiza el autogobierno autonómico y forma parte del bloque de constitucionalidad. Por eso una ley autonómica debe respetar tanto la Constitución como el Estatuto.
 
-Castilla y León es una comunidad autónoma dentro del Estado español. Su autonomía se fundamenta en la Constitución y se concreta en su <mark>Estatuto de Autonomía</mark>. No se trata de una soberania propia, sino de autogobierno dentro de la unidad constitucional.
+### Datos de identificación que suelen preguntarse
 
-La comunidad autónoma dispone de instituciones propias, competencias asumidas estatutariamente, potestad legislativa en materias de su competencia, Administración propia, patrimonio, hacienda y capacidad para participar en asuntos estatales y europeos en los términos previstos.
-
-Castilla y León se caracteriza por su amplia extensión territorial, pluralidad provincial, riqueza histórica y diversidad local. El Estatuto reconoce elementos de identidad, regula instituciones y establece derechos, principios rectores y competencias.
-
-## El <mark>Estatuto de Autonomía</mark>
-
-El <mark>Estatuto de Autonomía</mark> es la norma institucional básica de la comunidad. Su aprobación y reforma tienen rango de ley orgánica estatal, pero su contenido organiza el autogobierno castellano y leones.
-
-El Estatuto cumple varias funciones. Identifica la comunidad autónoma, delimita su territorio, establece sus instituciones, fija competencias, regula relaciones con el Estado y otras comunidades, reconoce derechos y principios rectores, contempla la hacienda autónoma y establece su procedimiento de reforma.
-
-Cómo norma institucional básica, vincula a las instituciones autonómicas y sirve de parametro para valorar la validez de las leyes de Castilla y León. Las Cortes de Castilla y León no pueden aprobar leyes contrarias al Estatuto, del mismo modo que tampoco pueden vulnerar la Constitución.
-
-| <mark>Estatuto de Autonomía</mark> | Función |
+| Dato | Regla de examen |
 |---|---|
-| Norma institucional básica | Organiza el autogobierno de Castilla y León. |
-| Rango formal | Ley orgánica estatal. |
-| Contenido | Instituciones, competencias, derechos, principios y reforma. |
-| Valor jurídico | Vincula a los poderes autonómicos y se integra en el bloque de constitucionalidad. |
+| Territorio | Municipios integrados en las provincias de Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora. |
+| Sede de las instituciones básicas | La fija una ley de las Cortes aprobada por **mayoría de dos tercios**; no debe confundirse con una afirmación genérica sobre “capital”. |
+| Símbolos | Blasón, bandera, pendón e himno. |
+| Fiesta oficial | **23 de abril**. |
+| Lengua | El castellano es la lengua española oficial de la Comunidad; se protege el patrimonio lingüístico. |
 
-## Estructura del Estatuto
+**Para recordar:** el artículo 2 regula el ámbito territorial; el artículo 3, la sede; el artículo 6, símbolos y fiesta. La referencia a Valladolid como sede de las instituciones procede de la legislación autonómica de sedes, no de convertir el artículo 3 en una regla estatutaria de “capitalidad”.
 
-El Estatuto se organiza en un preambulo y un texto articulado dividido en títulos. Su estructura aborda la identidad y constitución de la comunidad, derechos y principios rectores, instituciones de autogobierno, organización territorial, competencias, relaciones institucionales, economía y hacienda, y reforma estatutaria.
+## 2. Estructura del Estatuto
 
-El título preliminar recoge elementos esenciales como la comunidad histórica y cultural, el territorio, la sede de instituciones y simbolos. El Estatuto identifica Castilla y León como comunidad autónoma integrada por las provincias de Avila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.
+El texto vigente se ordena en un preámbulo, un título preliminar y **siete títulos**, con disposiciones adicionales, transitorias, derogatoria y final. La estructura debe memorizarse porque permite localizar rápidamente una pregunta:
 
-El texto vigente del Estatuto es el resultante de la <mark>Ley Orgánica 14/2007, de 30 de noviembre</mark>, de reforma del <mark>Estatuto de Autonomía de Castilla y León</mark>. La norma originaria fue la <mark>Ley Orgánica 4/1983, de 25 de febrero</mark>. En preguntas tipo test suelen separar ambas ideas: una cosa es la ley de aprobación inicial y otra el texto vigente tras la reforma de 2007.
-
-El Estatuto vigente consta de preambulo, título preliminar, siete títulos, tres disposiciones adicionales, tres disposiciones transitorias, una disposición derogatoria y una disposición final.
-
-El bloque de derechos y principios rectores es una de las novedades reforzadas por la reforma de 2007. No convierte el Estatuto en una segunda Constitución, pero orienta la actuación de los poderes públicos autononomicos y reconoce posiciones jurídicas en el ámbito de competencias de la comunidad.
-
-El Estatuto regula las instituciones: Cortes de Castilla y León, Presidente de la Junta, Junta de Castilla y León, Administración autónoma e instituciones propias como Procurador del Común, Consejo Consultivo, Consejo de Cuentas y Consejo Económico y Social.
-
-También sistematiza competencias de la comunidad, distinguiendo entre competencias exclusivas, de desarrollo normativo y ejecución, y competencias ejecutivas, en coherencia con el sistema constitucional de distribución competencial.
-
-| Parte del Estatuto | Contenido esencial |
+| Parte | Materia principal |
 |---|---|
-| Título preliminar | Identidad, territorio, simbolos y sedes. |
-| Bloque de derechos y principios rectores | Orientación de la acción pública autónoma. |
-| Instituciones | Cortes, Presidente, Junta y órganos propios. |
-| Competencias | Materias asumidas por la Comunidad. |
-| Hacienda y reforma | Recursos, organización financiera y modificación del Estatuto. |
+| Título preliminar (arts. 1-6) | Comunidad, territorio, sede, valores, lengua y símbolos. |
+| Título I (arts. 7-18) | Derechos y principios rectores; garantías. |
+| Título II (arts. 19-42) | Instituciones de autogobierno y Administración de Justicia. |
+| Título III (arts. 43-57) | Organización territorial y relaciones con las entidades locales. |
+| Título IV (arts. 58-68) | Relaciones con el Estado, otras comunidades y Unión Europea. |
+| Título V (arts. 69-77) | Competencias. |
+| Título VI (arts. 78-90) | Economía y Hacienda. |
+| Título VII (arts. 91-92) | Reforma del Estatuto. |
 
-### Provincias integradas en Castilla y León
+> **Nota de precisión:** el Título III llega hasta el artículo 57; el Título IV comienza en el 58 y el Título V en el 69. En las preguntas, la numeración de los títulos suele ser más fiable que una descripción genérica del contenido.
 
-1. Avila
-2. Burgos
-3. León
-4. Palencia
-5. Salamanca
-6. Segovia
-7. Soria
-8. Valladolid
-9. Zamora
+## 3. Derechos, deberes y principios rectores
 
-La fiesta oficial de la Comunidad es el 23 de abril, en conmemoración de Villalar. La capitalidad se vincula a Valladolid, donde se sitúan las sedes de las instituciones básicas en los términos establecidos por la normativa autonómica.
+### 3.1. Titularidad y alcance
 
-## Derechos en el Estatuto
+Son ciudadanos de Castilla y León, a efectos estatutarios, los españoles con vecindad administrativa en cualquiera de sus municipios (**artículo 7**). Los españoles residentes en el extranjero que hayan tenido su última vecindad administrativa en Castilla y León, y sus descendientes españoles en los términos legales, pueden ejercer los derechos de participación previstos en el Estatuto.
 
-El Estatuto reconoce derechos de los castellanos y leoneses en el marco de las competencias de la comunidad. Estos derechos deben interpretarse de forma compatible con la Constitución y con el sistema general de derechos fundamentales.
+El artículo 8 remite a los derechos de la Constitución, los tratados internacionales sobre derechos humanos, el Derecho de la Unión Europea y los derechos reconocidos por el propio Estatuto. Los derechos estatutarios no sustituyen a los derechos fundamentales constitucionales ni permiten a la Comunidad alterar su régimen general.
 
-Entre los ámbitos reconocidos se encuentran participación en asuntos públicos, igualdad de oportunidades, acceso a servicios públicos, educación, salud, servicios sociales, cultura, patrimonio, medio ambiente, protección de consumidores, juventud, personas mayores, personas con discapacidad y atención a situaciones de dependencia.
+### 3.2. Derechos que conviene reconocer
 
-Los derechos estatutarios tienen una naturaleza distinta de los derechos fundamentales constitucionales. No sustituyen ni reducen los derechos de la Constitución. Operan dentro del ámbito competencial autonómico y orientan la actuación de los poderes públicos de Castilla y León.
+- participación en los asuntos públicos, directamente o por representantes, y sufragio en las elecciones autonómicas (**artículo 11**);
+- buena Administración y servicios públicos: información suficiente, trato imparcial y objetivo, resolución en plazo, acceso a archivos y registros en los términos legales y protección de datos (**artículo 12**);
+- educación, salud, servicios sociales, derechos de las personas mayores y dependientes, vivienda y protección de consumidores y usuarios (**artículo 13**);
+- igualdad de género y prohibición de discriminación por razón de género u orientación sexual (**artículo 14**);
+- derechos de las personas con discapacidad, de los menores, de quienes viven en el medio rural y de los castellanos y leoneses en el exterior, según el ámbito concreto de cada precepto.
 
-El Estatuto también incorpora deberes y compromisos públicos. Los ciudadanos no solo son titulares de derechos, sino que participan en una comunidad política con obligaciones de respeto al ordenamiento, solidaridad y colaboración en los términos previstos por la ley.
+Los derechos sociales estatutarios se ejercen conforme a la Constitución, al Estatuto y a las leyes que los desarrollan. No deben confundirse con derechos absolutos ni con competencias estatales: el Estatuto delimita el marco autonómico y la legislación concreta sus condiciones.
 
-| Derechos estatutarios | Ejemplos |
+### 3.3. Deberes y principios rectores
+
+El artículo 15 recoge deberes como contribuir al sostenimiento del gasto público conforme a la capacidad económica, conservar el patrimonio y respetar los bienes y derechos de los demás.
+
+Los **principios rectores del artículo 16** dirigen la acción política, social y económica de los poderes públicos autonómicos. Entre sus objetivos se encuentran:
+
+1. servicios públicos de calidad y garantía de acceso en condiciones de igualdad;
+2. desarrollo sostenible, protección del medio ambiente y uso racional de los recursos;
+3. cohesión territorial, equilibrio entre provincias y apoyo al medio rural;
+4. igualdad efectiva, no discriminación y conciliación;
+5. protección de la familia, infancia, mayores, dependencia y discapacidad;
+6. empleo, formación, innovación, vivienda y defensa de consumidores;
+7. protección del patrimonio histórico, cultural y lingüístico y promoción de la participación.
+
+<mark>Los principios rectores orientan las políticas públicas; no son una lista de competencias exclusivas ni una copia del capítulo de derechos fundamentales de la Constitución.</mark>
+
+### 3.4. Garantías
+
+Los derechos del capítulo II del título I vinculan a los poderes públicos de Castilla y León y, según la naturaleza de cada derecho, también a los particulares. Son exigibles judicialmente en las condiciones legales y deben interpretarse de la manera más favorable a su efectividad (**artículo 17**). Su regulación esencial en el ámbito autonómico debe efectuarse mediante ley de las Cortes.
+
+| Pregunta | Respuesta correcta |
 |---|---|
-| Participación | Intervención en asuntos públicos y acceso a servicios. |
-| Derechos sociales | Salud, educación, servicios sociales, dependencia. |
-| Derechos de colectivos | Mayores, juventud, personas con discapacidad, consumidores. |
-| Cultura y territorio | Patrimonio, medio ambiente, vivienda y cohesión territorial. |
-| Limite | Actuan dentro del ámbito competencial de la Comunidad. |
+| ¿Son derechos constitucionales fundamentales? | No necesariamente; son derechos estatutarios, compatibles con la Constitución. |
+| ¿Vinculan a los poderes públicos autonómicos? | Sí, en los términos del artículo 17. |
+| ¿Se pueden regular esencialmente por reglamento? | No: el Estatuto exige ley autonómica para su regulación esencial. |
+| ¿Los principios rectores son competencias? | No; orientan la actuación pública. |
 
-## Principios rectores
+## 4. Instituciones de autogobierno
 
-Los principios rectores orientan la actuación de los poderes públicos de Castilla y León. Su función es guiar políticas públicas, informar la legislación autonómica y servir de criterio interpretativo.
+El **artículo 19** diferencia dos grupos:
 
-Entre esos principios se encuentran la promoción de la igualdad real y efectiva, la protección de la familia, la igualdad entre mujeres y hombres, la atención a personas mayores y dependientes, la integración de personas con discapacidad, el acceso a la vivienda, el desarrollo rural, la cohesión territorial, la protección del medio ambiente, la defensa del patrimonio histórico y cultural, la calidad de los servicios públicos y la participación ciudadana.
-
-En una comunidad con fuerte dispersión territorial y muchos municipios pequenos, los principios de equilibrio territorial, desarrollo rural y cohesión social tienen especial importancia. Las políticas públicas autonómicas deben atender no solo a grandes núcleos urbanos, sino también al medio rural y a la igualdad de acceso a servicios.
-
-| Principio rector | Proyección práctica |
+| Categoría | Integrantes |
 |---|---|
-| Igualdad real y efectiva | Politicas de no discriminación y cohesión. |
-| Desarrollo rural | Atención al medio rural y lucha contra desequilibrios. |
-| Protección social | Mayores, dependencia, discapacidad y familia. |
-| Medio ambiente y patrimonio | Conservación del entorno y de los bienes culturales. |
-| Calidad de servicios públicos | Mejora de gestión y proximidad administrativa. |
+| Instituciones básicas | Cortes de Castilla y León, Presidente de la Junta y Junta de Castilla y León. |
+| Instituciones propias | Consejo Económico y Social, Procurador del Común, Consejo Consultivo, Consejo de Cuentas y las que establezcan el Estatuto o las leyes. |
 
-## Instituciones de Castilla y León
+El Tribunal Superior de Justicia es un órgano jurisdiccional superior de la Administración de Justicia en la Comunidad, regulado en el título institucional, pero **no aparece en la lista del artículo 19 como institución básica o propia de autogobierno**.
 
-Las Cortes de Castilla y León representan al pueblo castellano y leones y ejercen la potestad legislativa de la comunidad. Aprueban leyes autonómicas, presupuestos, controlan a la Junta y ejercen las demás funciones atribuidas por el Estatuto.
+### 4.1. Cortes de Castilla y León
 
-El Estatuto distingue las instituciones básicas de la Comunidad: las Cortes de Castilla y León, el Presidente de la Junta de Castilla y León y la Junta de Castilla y León. No deben confundirse con otras instituciones propias, como el Procurador del Común, el Consejo Consultivo, el Consejo de Cuentas y el Consejo Económico y Social.
+Las Cortes representan al pueblo de Castilla y León, son inviolables y ejercen la potestad legislativa. Funcionan en Pleno y Comisiones y eligen de entre sus miembros a su Presidente, la Mesa y la Diputación Permanente.
 
-Las Cortes son unicamerales. Sus miembros reciben la denominación tradicional de Procuradores y son elegidos por sufragio universal, libre, igual, directo y secreto. La circunscripción electoral es la provincia. A cada provincia le corresponde una representación inicial mínima y se añaden procuradores en función de la población conforme a la normativa electoral.
+Los Procuradores se eligen por sufragio **universal, libre, igual, directo y secreto**, mediante representación proporcional. La circunscripción electoral es la provincia: a cada provincia corresponden **tres Procuradores**, más uno por cada **45.000 habitantes o fracción superior a 22.500** (**artículo 21**). Representan a todo el pueblo de Castilla y León y no están ligados por mandato imperativo.
 
-El Reglamento de las Cortes de Castilla y León se aprueba y reforma por <mark>mayoría absoluta</mark> en una votación final sobre el conjunto del texto.
+Entre sus funciones destacan aprobar leyes y presupuestos, controlar e impulsar la acción de la Junta y de su Presidente, elegir al Presidente de la Junta, designar senadores autonómicos y ejercer las demás atribuciones estatutarias. El Reglamento de las Cortes se aprueba y reforma por **mayoría absoluta** en una votación final sobre su totalidad (**artículo 23.4**).
 
-El Presidente de la Junta ostenta la suprema representación de la comunidad y la ordinaria del Estado en Castilla y León. Preside la Junta, dirige su acción, coordina sus miembros y responde políticamente ante las Cortes.
+### 4.2. Presidente de la Junta
 
-El Presidente de la Junta es elegido por las Cortes de Castilla y León. En primera votación necesita <mark>mayoría absoluta</mark>; si no la obtiene, puede resultar elegido por <mark>mayoría simple</mark> en segunda votación. Entre sus atribuciones están dirigir la acción de la Junta, nombrar y separar a los Consejeros, plantear la cuestión de confianza y acordar la disolución anticipada de las Cortes en los supuestos estatutarios.
+Es elegido por las Cortes de entre sus miembros y nombrado por el Rey. Ostenta la suprema representación de la Comunidad y la ordinaria del Estado en ella; preside la Junta, dirige su acción y coordina a sus miembros (**artículo 26**).
 
-La Junta de Castilla y León es el órgano de gobierno y administración de la comunidad. Ejerce funciones ejecutivas y administrativas, aprueba reglamentos, dirige la Administración autónoma y ejecuta las leyes.
+- primera votación de investidura: **mayoría absoluta**;
+- segunda votación: **mayoría simple**;
+- si transcurren **dos meses desde la primera votación** sin candidato investido, las Cortes quedan disueltas automáticamente y se convocan nuevas elecciones;
+- entre sus atribuciones están convocar elecciones, acordar la disolución en los términos previstos, nombrar y separar consejeros, plantear la cuestión de confianza, promulgar leyes y ordenar su publicación.
 
-El Procurador del Común es el alto comisionado de las Cortes para la defensa de los derechos y libertades de los ciudadanos, supervisando la actuación de la Administración autonómica y de los entes locales cuando proceda en los términos previstos.
+La cuestión de confianza se entiende otorgada por mayoría simple. La moción de censura exige mayoría absoluta, debe ser propuesta al menos por el **15 %** de los Procuradores e incluir candidato alternativo (**artículos 35 y 36**).
 
-El Consejo Consultivo es el superior órgano consultivo de la Junta y de la Administración de la comunidad, sin perjuicio de su intervención en asuntos de entidades locales cuando la normativa lo prevea.
+### 4.3. Junta y Administración autonómica
 
-El Consejo de Cuentas fiscaliza la gestión económica, financiera y contable del sector público de Castilla y León y de las entidades locales de la comunidad en los términos legalmente establecidos.
+La Junta es la institución de gobierno y Administración de la Comunidad; ejerce la función ejecutiva y la potestad reglamentaria. Está compuesta por el Presidente, los Vicepresidentes, en su caso, y los Consejeros (**artículo 28**). Presidente y Junta responden políticamente de forma solidaria ante las Cortes, sin perjuicio de la responsabilidad directa de cada Consejero.
 
-El Consejo Económico y Social es un órgano consultivo y de participación en materia socioeconomica y laboral.
+La Administración autonómica se estructura para servir al ejercicio de las competencias de la Comunidad y goza, en ese ámbito, de las potestades y privilegios propios de la Administración del Estado. La Junta cesante continúa en funciones hasta la toma de posesión de la nueva Junta.
 
-| Institución | Función esencial |
+### 4.4. Instituciones propias
+
+| Institución | Qué hace y con qué no debe confundirse |
 |---|---|
-| Cortes de Castilla y León | Potestad legislativa, presupuestos y control de la Junta. |
-| Presidente de la Junta | Suprema representación de la Comunidad y dirección política. |
-| Junta de Castilla y León | Gobierno y administración autonómica. |
-| Procurador del Común | Defensa de derechos frente a Administraciones. |
-| Consejo Consultivo | Superior órgano consultivo. |
-| Consejo de Cuentas | Fiscalización económico-financiera. |
-| Consejo Económico y Social | Consulta y participación socioeconomica. |
+| Procurador del Común | Alto comisionado de las Cortes, independiente, para proteger derechos frente a la Administración autonómica, sus entes locales y organismos dependientes. La ley reguladora fija un mandato de **cuatro años** y permite una segunda elección. Colabora con el Defensor del Pueblo. |
+| Consejo Consultivo | Superior órgano consultivo de la Junta y de la Administración autonómica. Su dictamen no equivale a una resolución administrativa. |
+| Consejo de Cuentas | Dependiente de las Cortes; fiscalización externa de la gestión económica, financiera y contable del sector público autonómico y demás entes públicos. La ley reguladora prevé **tres Consejeros**, por seis años, y no sustituye al Tribunal de Cuentas. |
+| Consejo Económico y Social | Órgano colegiado consultivo y asesor en materia socioeconómica. |
 
-### Instituciones propias que han aparecido en test
+## 5. Competencias de Castilla y León
 
-| Institución propia | Dato que conviene fijar |
+El artículo 69 contiene la cláusula general: la Comunidad asume las competencias que establecen los artículos siguientes, dentro de la Constitución y de las leyes estatales. Para resolver un test hay que identificar primero el tipo de competencia y después leer sus límites.
+
+| Tipo estatutario | Qué puede hacer la Comunidad |
 |---|---|
-| Procurador del Común | Alto comisionado de las Cortes para la defensa de derechos y supervisión administrativa. Mandato de <mark>cinco años</mark>, renovable una vez. Elección por <mark>mayoría de tres quintos</mark> y, si no se alcanza, por <mark>mayoría absoluta</mark> en segunda votación en los términos legales. |
-| Consejo Consultivo | Superior órgano consultivo de la Junta y de la Administración de la Comunidad. Sus consejeros electivos son elegidos por las Cortes por mandato de <mark>cuatro años</mark>. |
-| Consejo de Cuentas | Fiscaliza la gestión económica, financiera y contable del sector público autonómico y de las entidades locales de Castilla y León. |
-| Consejo Económico y Social | Órgano colegiado de carácter consultivo y de participación en materia socioeconomica y laboral. |
+| Exclusiva (art. 70) | Legislación, reglamentación y función ejecutiva, con respeto a la Constitución y a las reservas estatales. |
+| Desarrollo legislativo y ejecución (art. 71) | Desarrollar la legislación básica del Estado y ejecutar la normativa en la materia. |
+| Ejecutiva (art. 76) | Ejercer la función ejecutiva en el marco de las leyes y reglamentos estatales, sin plena potestad legislativa. |
 
-**Diferencia fina:** el Procurador del Común defiende derechos frente a la actuación administrativa; el Consejo de Cuentas fiscaliza la actividad económico-financiera; el Consejo Consultivo dictamina juridicamente; el Consejo Económico y Social informa y participa en materia socioeconomica.
+### 5.1. Materias que conviene asociar
 
-## Competencias de Castilla y León
+En el artículo 70 aparecen, entre otras, las instituciones de autogobierno, la estructura de la Administración autonómica, la Hacienda autonómica, la organización territorial propia, ordenación del territorio y urbanismo, vivienda, agricultura y ganadería, montes, patrimonio, cultura, turismo, asistencia social y determinadas materias de transporte, obras públicas, comercio y consumo.
 
-El Estatuto distribuye las competencias de Castilla y León conforme al sistema constitucional. Las competencias pueden ser exclusivas, de desarrollo normativo y ejecución, o ejecutivas.
+El artículo 71 incluye materias de desarrollo legislativo y ejecución como régimen local, protección civil, educación, sanidad, medio ambiente y otras materias en las que el Estado conserva la legislación básica o la coordinación constitucionalmente reservada.
 
-En las competencias exclusivas, la comunidad puede ejercer potestad legislativa, reglamentaria y ejecutiva, respetando siempre la Constitución y las competencias estatales. La exclusividad autonómica no permite invadir materias reservadas al Estado por el <mark>artículo 149</mark> de la Constitución.
+El artículo 76 recoge competencias ejecutivas, entre ellas empleo y relaciones laborales, propiedad intelectual e industrial en los términos estatales, gestión de determinados tributos cedidos, productos farmacéuticos y otras materias definidas por el Estatuto.
 
-En las competencias de desarrollo normativo y ejecución, el Estado suele reservarse la legislación básica y la comunidad dicta normas de desarrollo y ejecuta la política correspondiente. Este modelo es frecuente en sanidad, educación, medio ambiente, régimen local en determinados aspectos, función pública y otros ámbitos.
+**Aplicación municipal:** en Burgos se cruzan con frecuencia competencias autonómicas y locales en régimen local, urbanismo, vivienda, servicios sociales, protección civil, medio ambiente, patrimonio y función pública. Que una materia tenga incidencia municipal no significa que el Ayuntamiento sea titular de toda la competencia.
 
-En las competencias ejecutivas, la comunidad aplica normativa estatal, gestiona servicios, tramita expedientes, inspecciona o ejecuta políticas sin disponer necesariamente de plena potestad legislativa sobre la materia.
+### 5.2. Relaciones institucionales y Unión Europea
 
-El Estatuto incluye competencias sobre organización institucional, régimen local en el marco constitucional, ordenación del territorio, urbanismo, vivienda, agricultura, ganaderia, montes, medio ambiente, patrimonio, cultura, turismo, deporte, asistencia social, sanidad, educación, empleo, comercio interior, industria, protección civil, transportes, carreteras, obras públicas, aguas, juventud, igualdad, consumo y otras materias.
+La Comunidad puede cooperar con el Estado y con otras comunidades mediante convenios y órganos de colaboración, dentro de sus competencias. Puede participar en asuntos europeos a través de la representación del Estado cuando afecten a sus competencias, proponer representantes en el Comité de las Regiones y establecer una Delegación Permanente ante la Unión Europea. También puede realizar acciones de proyección exterior vinculadas a sus intereses y competencias, **sin perjuicio de la competencia estatal en relaciones internacionales**.
 
-Para el Ayuntamiento de Burgos, las competencias autonómicas tienen relevancia constante. Urbanismo, régimen local, función pública local, servicios sociales, policía local, protección civil, patrimonio, medio ambiente y hacienda local se ven influidos por normativa de Castilla y León.
+## 6. Economía y Hacienda: lo imprescindible para este tema
 
-| Tipo de competencia | Alcance |
+La Hacienda autonómica se inspira en autonomía financiera, suficiencia, equidad, solidaridad, transparencia, economía y eficiencia, y se ejerce coordinadamente con las Haciendas estatal y local (**artículo 82**).
+
+Sus recursos comprenden, entre otros, tributos propios, tributos cedidos, participaciones en ingresos estatales, transferencias, patrimonio, operaciones de crédito y los demás previstos por el ordenamiento (**artículo 84**). La Comunidad puede organizar la aplicación de sus tributos propios y ejercer las competencias sobre tributos cedidos en los términos de la ley orgánica de financiación.
+
+Los Presupuestos Generales son anuales, incluyen la totalidad de gastos e ingresos de los organismos y entidades integrados y expresan las obligaciones máximas que pueden reconocerse. La **Junta los elabora** y los presenta a las Cortes **antes del 15 de octubre**; las Cortes los examinan, enmiendan, aprueban y controlan. Si no se aprueban antes del primer día del ejercicio, se prorrogan los del año anterior (**artículo 89**).
+
+El Consejo de Cuentas depende de las Cortes y realiza el control externo, sin perjuicio de las competencias del Tribunal de Cuentas (**artículo 90**). No debe confundirse con el control interno de la Administración ni con la función consultiva del Consejo Consultivo.
+
+## 7. Reforma del Estatuto
+
+El procedimiento del **artículo 91** es especialmente preguntable:
+
+1. La iniciativa corresponde a **una tercera parte de los miembros de las Cortes** o a la Junta de Castilla y León.
+2. La propuesta debe ser aprobada por las Cortes de Castilla y León por **mayoría de dos tercios**.
+3. Después se remite al **Congreso de los Diputados**.
+4. Las Cortes eligen una delegación entre sus miembros para participar en una comisión mixta paritaria, conforme al Reglamento del Congreso.
+5. La aprobación definitiva corresponde a las Cortes Generales mediante **ley orgánica**.
+
+La propuesta puede ser retirada por las Cortes autonómicas, con la mayoría cualificada que determine su Reglamento, mientras no haya sido aprobada definitivamente en las Cortes Generales. Si la propuesta no es aprobada por las Cortes autonómicas o por las Generales, no puede volver a someterse a debate y votación hasta que transcurra **más de un año** (**artículo 92**).
+
+<mark>Regla de memoria: iniciativa 1/3 o Junta → aprobación autonómica 2/3 → Congreso y comisión mixta → ley orgánica estatal.</mark>
+
+## 8. Errores típicos y esquema final
+
+### Errores típicos de test
+
+| Afirmación-trampa | Corrección |
 |---|---|
-| Exclusiva | Legislación, reglamentación y ejecución en la materia, con respeto a la Constitución. |
-| Desarrollo normativo y ejecución | La Comunidad desarrolla y ejecuta bases estatales. |
-| Ejecutiva | Aplica normativa y gestiona servicios sin plena potestad legislativa. |
+| “El Estatuto es una ley ordinaria autonómica” | Es la norma institucional básica y formalmente una ley orgánica estatal. |
+| “Valladolid es la capital según el artículo 3” | El artículo 3 regula la sede o sedes mediante ley de Cortes por dos tercios. |
+| “El Procurador del Común es una institución básica” | Es una institución propia; las básicas son Cortes, Presidente y Junta. |
+| “Cada provincia obtiene tres Procuradores más uno por 50.000 habitantes” | La cifra estatutaria es 45.000 y la fracción superior a 22.500. |
+| “El Consejo de Cuentas enjuicia la responsabilidad contable” | Su función estatutaria es fiscalización externa; el enjuiciamiento corresponde al Tribunal de Cuentas. |
+| “Toda competencia autonómica es exclusiva” | El Estatuto distingue exclusivas, desarrollo legislativo y ejecución, y ejecutivas. |
+| “La reforma la aprueba solo la Comunidad” | Requiere dos tercios autonómicos y aprobación final de las Cortes Generales mediante ley orgánica. |
 
-### Materias autonómicas con incidencia municipal
+### Esquema rápido
 
-- `Urbanismo` y `ordenación del territorio`.
-- `Servicios sociales`.
-- `Patrimonio cultural`.
-- `Protección civil`.
-- `Medio ambiente`.
-- `Régimen local` y función pública local.
+**Comunidad** → Constitución + Estatuto → territorio, símbolos y derechos → Cortes / Presidente / Junta → instituciones propias → competencias (70 / 71 / 76) → relaciones y UE → Hacienda (82-90) → reforma (91-92).
 
-## Relaciones con el Estado, otras comunidades y la Unión Europea
+### Cómo resolver una pregunta
 
-El Estatuto regula mecanismos de relación con el Estado y con otras comunidades autónomas. La cooperación interadministrativa es esencial en un Estado compuesto. Convenios, conferencias sectoriales, órganos mixtos y participación en decisiones estatales permiten coordinar competencias concurrentes.
+1. Localiza el artículo o el bloque: identidad, derechos, institución, competencia, Hacienda o reforma.
+2. Si aparece una mayoría, comprueba si se refiere a investidura, Reglamento de Cortes, sede o reforma.
+3. Si aparece una materia, distingue titularidad municipal, autonómica y reserva estatal.
+4. Si la pregunta trata de control, separa Procurador del Común (derechos), Consejo Consultivo (consulta jurídica) y Consejo de Cuentas (fiscalización).
 
-Castilla y León también puede participar en asuntos europeos cuando afecten a sus competencias. La integración europea incide sobre materias autonómicas como agricultura, medio ambiente, fondos estructurales, desarrollo rural, empleo, transportes, consumo o patrimonio.
+### Caso breve
 
-Las relaciones exteriores corresponden al Estado, pero las comunidades autónomas pueden desarrollar actividad de proyección exterior vinculada a sus competencias, siempre dentro del marco constitucional y sin invadir la competencia estatal en relaciones internacionales.
+Si una pregunta plantea que el Ayuntamiento de Burgos gestiona un servicio local sometido a una ley autonómica de Castilla y León, la respuesta no debe convertir automáticamente la competencia autonómica en una jerarquía absoluta: hay que identificar la materia, la distribución constitucional-estatutaria y la legislación básica estatal aplicable. El Estatuto sirve para ubicar la competencia autonómica; la LRBRL y la normativa sectorial concretan después el papel municipal.
 
-| Relación institucional | Idea clave |
-|---|---|
-| Con el Estado | Coordinación, cooperación y participación en decisiones que afecten a competencias autonómicas. |
-| Con otras comunidades | Convenios y mecanismos de colaboración. |
-| Con la Unión Europea | Participación en asuntos europeos vinculados a materias propias. |
+## Fuentes oficiales para actualizar
 
-## Hacienda y patrimonio
-
-La comunidad autónoma cuenta con hacienda propia para financiar el ejercicio de sus competencias. La autonomía financiera se ejerce conforme a los principios constitucionales de coordinación con la Hacienda estatal y solidaridad entre todos los españoles.
-
-Sus recursos pueden incluir tributos propios, impuestos cedidos total o parcialmente por el Estado, recargos, participaciones en ingresos estatales, transferencias, ingresos patrimoniales, operaciones de crédito y otros recursos previstos por la ley.
-
-La gestión económica debe ajustarse a principios de estabilidad presupuestaria, sostenibilidad financiera, control, transparencia y responsabilidad. El presupuesto de la comunidad expresa las obligaciones y derechos económicos previstos para cada ejercicio y es aprobado por las Cortes de Castilla y León.
-
-| Recursos de la Hacienda autónoma | Ejemplos |
-|---|---|
-| Tributos propios | Creados por la Comunidad dentro de la Constitución y la ley. |
-| Tributos cedidos | Total o parcialmente por el Estado. |
-| Transferencias y participaciones | Financiación del sistema autonómico. |
-| Patrimonio y crédito | Ingresos patrimoniales y operaciones de crédito. |
-
-## Reforma del Estatuto
-
-La reforma del Estatuto se rige por el propio Estatuto y requiere intervención de las instituciones autonómicas y de las Cortes Generales. Al tratarse de una ley orgánica, la reforma debe aprobarse finalmente por las Cortes Generales mediante ley orgánica.
-
-El procedimiento garantiza que la norma institucional básica no pueda modificarse de forma ordinaria por una sola institución. Exige iniciativa legitimada, aprobación por las Cortes de Castilla y León por <mark>mayoría de dos tercios</mark> y tramitación estatal como ley orgánica. Una vez aprobada la propuesta por las Cortes de Castilla y León, se remite a las Cortes Generales para su tramitación.
-
-La reforma estatutaria debe respetar la Constitución. No puede atribuir a la comunidad competencias que correspondan exclusivamente al Estado ni alterar principios constitucionales como unidad, igualdad básica de derechos, solidaridad o sistema de fuentes.
-
-La reforma de 2007 tuvo especial relevancia porque modernizo el Estatuto, reforzo el catalogo de derechos y principios rectores, actualizo instituciones y sistematizo competencias. Para el estudio de la oposición, el texto vigente debe manejarse siempre en versión consolidada.
-
-| Reforma del Estatuto | Regla |
-|---|---|
-| Naturaleza | No es una reforma ordinaria; afecta a la norma institucional básica. |
-| Iniciativa y trámite | Intervienen instituciones autonómicas y Cortes Generales. |
-| Aprobación autonómica | <mark>Mayoría de dos tercios</mark> de las Cortes de Castilla y León. |
-| Aprobación final | Ley orgánica estatal. |
-| Limite | Respeto obligado a la Constitución. |
-
-## Relevancia para la Administración Local
-
-Castilla y León no es solo contexto territorial. Su normativa afecta directamente a los Ayuntamientos de la comunidad. Régimen local, urbanismo, policía local, servicios sociales, prevención ambiental, patrimonio cultural, ordenación del territorio, función pública local y cooperación económica son materias en las que la comunidad autónoma incide de forma habitual.
-
-El Ayuntamiento de Burgos actúa dentro de un sistema compuesto: Constitución, legislación estatal, <mark>Estatuto de Autonomía</mark>, leyes autonómicas, ordenanzas municipales y reglamentos propios. Comprender el Estatuto ayuda a situar competencias, controles, financiación y relaciones entre Administraciones.
+- [Estatuto de Autonomía de Castilla y León, texto consolidado del BOE](https://www.boe.es/eli/es/lo/2007/11/30/14/con).
+- [Ley Orgánica 14/2007, de reforma del Estatuto](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2007-20635).
+- Constitución Española, especialmente los artículos 2, 137, 143, 147-150, 152-157 y 162.
