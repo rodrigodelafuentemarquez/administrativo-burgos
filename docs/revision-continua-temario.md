@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se revisaron las marcas manuales conforme a `rehypeStudyHighlights.mjs`. Se mantuvieron solo las marcas nucleares de artículos, leyes, plazos, mayorías, órganos y conceptos de examen; se retiró el resaltado manual excesivo del texto anterior mediante la reescritura. No se modificó el motor automático común.
 - **Tests añadidos/cambiados:** se corrigió `t05-p010` para citar el artículo 72 LRJSP y su referencia temática; se añadieron 10 preguntas (`burgos-i04-deep-01` a `burgos-i04-deep-10`) sobre composición del Gobierno, Comisión General, investidura, moción de censura, Gobierno en funciones, técnicas de organización, Delegado del Gobierno, Consejo de Estado, clasificación de órganos y encomienda de gestión. El banco queda en 39 preguntas y se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de estructura, unicidad y sincronización de 39 preguntas, `git diff --check` y `npm run build` completados correctamente (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `b7b26bf` (`mejora profunda tema I.4 Gobierno y Administración`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.5, entidades locales, LRBRL y Haciendas Locales; comprobar especialmente la integración de los principios locales con el TRLRHL y evitar duplicidades con I.6.
 
 ## 27 de julio de 2026, 09:36 (Europe/Madrid)
