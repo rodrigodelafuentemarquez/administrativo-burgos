@@ -301,48 +301,6 @@
     "referencia": "V.3 · 5.3 Medidas de empleo para personas con discapacidad"
   },
   {
-    "id": "t48-p014",
-    "tema": 34,
-    "pregunta": "En atención ciudadana y discapacidad, la ley de dependencia crea el SAAD como:",
-    "opciones": [
-      "El tercer pilar del Estado de bienestar",
-      "El cuarto pilar del Estado de bienestar",
-      "Una mutualidad privada",
-      "Un régimen de pensiones"
-    ],
-    "correcta": 1,
-    "explicación": "El tema lo define como el cuarto pilar.",
-    "referencia": "V.3 · 6.1 La Ley 39/2006 de Dependencia"
-  },
-  {
-    "id": "t48-p015",
-    "tema": 34,
-    "pregunta": "En atención ciudadana y discapacidad, los grados de dependencia son:",
-    "opciones": [
-      "Uno, dos y tres",
-      "Ligera, media y grave",
-      "Inicial, intermedia y avanzada",
-      "Temporal, permanente y total"
-    ],
-    "correcta": 0,
-    "explicación": "El tema establece Grado I, II y III.",
-    "referencia": "V.3 · 6.3 Grados de dependencia"
-  },
-  {
-    "id": "t48-p016",
-    "tema": 34,
-    "pregunta": "Según el art. 26 de la Ley 39/2006 y, el Grado II de dependencia se corresponde con:",
-    "opciones": [
-      "La dependencia moderada",
-      "La dependencia severa",
-      "La gran dependencia",
-      "La situación de autonomía personal plena"
-    ],
-    "correcta": 1,
-    "explicación": "El tema identifica el Grado II con la dependencia severa.",
-    "referencia": "V.3 · 6.3 Grados de dependencia"
-  },
-  {
     "id": "estado2026-extra-t34-01",
     "tema": 34,
     "pregunta": "En atención ciudadana y discapacidad, las cartas de servicios en la AGE deben actualizarse periódicamente y, en todo caso, al menos:",
@@ -375,5 +333,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-v03-deep-01",
+    "tema": 34,
+    "pregunta": "Según el artículo 12 de la Ley 39/2015, la asistencia en el uso de medios electrónicos se presta especialmente a:",
+    "opciones": [
+      "Los interesados no obligados a relacionarse electrónicamente que la soliciten",
+      "Todas las personas jurídicas, aunque no la soliciten",
+      "Solo los empleados públicos",
+      "Únicamente quienes hayan interpuesto un recurso"
+    ],
+    "correcta": 0,
+    "explicación": "La Administración debe asistir especialmente a los interesados no incluidos entre los sujetos obligados de los apartados 2 y 3 del artículo 14 que lo soliciten.",
+    "referencia": "Ley 39/2015 · arts. 12 y 14"
+  },
+  {
+    "id": "burgos-v03-deep-02",
+    "tema": 34,
+    "pregunta": "¿Quién puede recibir, con carácter general, información particular sobre el estado de un expediente municipal?",
+    "opciones": [
+      "Cualquier persona que conozca el nombre del interesado",
+      "El interesado o su representante acreditado, con respeto a los límites aplicables",
+      "Solo los miembros del Pleno",
+      "Cualquier familiar del interesado"
+    ],
+    "correcta": 1,
+    "explicación": "La información particular afecta a un expediente concreto y exige legitimación como interesado o representación acreditada; el parentesco no basta.",
+    "referencia": "RD 208/1996 · arts. 2 y 3; Ley 39/2015 · art. 53"
+  },
+  {
+    "id": "burgos-v03-deep-03",
+    "tema": 34,
+    "pregunta": "Si una persona presenta un escrito sin acreditar suficientemente la representación, la regla general es:",
+    "opciones": [
+      "Rechazar verbalmente el escrito sin registrarlo",
+      "Registrar el escrito y conceder diez días para subsanar la acreditación",
+      "Conceder tres meses para subsanar",
+      "Dar por acreditada siempre la representación"
+    ],
+    "correcta": 1,
+    "explicación": "La falta o insuficiente acreditación de la representación es subsanable con carácter general en diez días, sin impedir indebidamente la presentación.",
+    "referencia": "Ley 39/2015 · art. 5.6"
+  },
+  {
+    "id": "burgos-v03-deep-04",
+    "tema": 34,
+    "pregunta": "¿Cuál es la diferencia correcta entre información general e información particular?",
+    "opciones": [
+      "La general se refiere a un expediente y la particular a horarios",
+      "La general puede darse a cualquier persona; la particular se refiere a un expediente concreto y exige legitimación",
+      "No existe diferencia jurídica",
+      "La particular siempre es pública y la general siempre reservada"
+    ],
+    "correcta": 1,
+    "explicación": "La clasificación del RD 208/1996 separa la información sobre organización, trámites y servicios de la referida a la situación o contenido de un expediente concreto.",
+    "referencia": "V.3 · servicios de información administrativa"
+  },
+  {
+    "id": "burgos-v03-deep-05",
+    "tema": 34,
+    "pregunta": "Una queja presentada por el funcionamiento deficiente de un servicio municipal:",
+    "opciones": [
+      "Sustituye siempre al recurso administrativo",
+      "Suspende automáticamente todos los plazos del expediente",
+      "Expresa disconformidad con el servicio, pero no sustituye por sí sola un recurso",
+      "Solo puede presentarse por una persona funcionaria"
+    ],
+    "correcta": 2,
+    "explicación": "La queja pertenece al sistema de atención y calidad; si se quiere impugnar un acto deben utilizarse los recursos y plazos procedentes.",
+    "referencia": "V.3 · quejas, sugerencias y recursos"
+  },
+  {
+    "id": "burgos-v03-deep-06",
+    "tema": 34,
+    "pregunta": "En los municipios sometidos al título X de la Ley 7/1985, la Comisión Especial de Sugerencias y Reclamaciones:",
+    "opciones": [
+      "La crea el alcalde y solo la integran funcionarios",
+      "La crea el Pleno, representa proporcionalmente a los grupos y rinde informe anual al Pleno",
+      "Resuelve todos los recursos administrativos",
+      "Solo existe si lo acuerda la Junta de Gobierno Local"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 132 LRBRL atribuye al Pleno su creación, composición proporcional, supervisión de la actividad municipal e informe anual.",
+    "referencia": "Ley 7/1985 · art. 132"
+  },
+  {
+    "id": "burgos-v03-deep-07",
+    "tema": 34,
+    "pregunta": "Una sugerencia se diferencia de una reclamación porque la sugerencia:",
+    "opciones": [
+      "Propone mejorar un servicio, mientras la reclamación puede pedir una actuación o reparación según su cauce",
+      "Impugna necesariamente una resolución",
+      "Solo puede formularse por escrito notarial",
+      "Produce siempre silencio administrativo positivo"
+    ],
+    "correcta": 0,
+    "explicación": "La sugerencia tiene finalidad de mejora; la reclamación puede contener una pretensión concreta y debe calificarse conforme a su contenido y normativa aplicable.",
+    "referencia": "V.3 · clasificación de escritos"
+  },
+  {
+    "id": "burgos-v03-deep-08",
+    "tema": 34,
+    "pregunta": "Admitida a trámite una petición regulada por la Ley Orgánica 4/2001, la contestación debe notificarse en un plazo máximo de:",
+    "opciones": [
+      "Diez días",
+      "Un mes",
+      "Tres meses desde la presentación",
+      "Seis meses desde la admisión"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 11.1 de la Ley Orgánica 4/2001 fija tres meses desde la fecha de presentación.",
+    "referencia": "Ley Orgánica 4/2001 · art. 11"
+  },
+  {
+    "id": "burgos-v03-deep-09",
+    "tema": 34,
+    "pregunta": "¿Qué afirmación es correcta sobre la iniciativa legislativa popular estatal y el derecho de petición?",
+    "opciones": [
+      "Ambos exigen 500.000 firmas",
+      "La iniciativa legislativa popular estatal exige 500.000 firmas acreditadas; la petición es una institución distinta",
+      "La petición solo puede formularse por partidos políticos",
+      "La iniciativa legislativa popular es un recurso administrativo"
+    ],
+    "correcta": 1,
+    "explicación": "La cifra de 500.000 firmas pertenece a la iniciativa legislativa popular estatal; no es requisito general del derecho de petición.",
+    "referencia": "Constitución Española · art. 87.3; Ley Orgánica 4/2001"
+  },
+  {
+    "id": "burgos-v03-deep-10",
+    "tema": 34,
+    "pregunta": "Conforme al artículo 70 del TRLGDPD, los planes de calidad de las Administraciones deben incluir:",
+    "opciones": [
+      "Solo campañas publicitarias",
+      "Normas mínimas de no discriminación y accesibilidad, indicadores de calidad y guías de buenas prácticas",
+      "Únicamente una reserva de empleo del 2%",
+      "La supresión de los servicios no adaptados"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 70 exige adecuar los planes de calidad e incluir esas medidas; no ordena suprimir oficinas o servicios.",
+    "referencia": "Real Decreto Legislativo 1/2013 · art. 70"
+  },
+  {
+    "id": "burgos-v03-deep-11",
+    "tema": 34,
+    "pregunta": "Una persona con discapacidad no puede utilizar el canal electrónico ordinario. La actuación más adecuada es:",
+    "opciones": [
+      "Denegar la atención porque todos los trámites son electrónicos",
+      "Ofrecer el ajuste o apoyo necesario y el canal alternativo legalmente disponible, respetando su autonomía",
+      "Pedirle que tramite siempre mediante un familiar",
+      "Resolver verbalmente el expediente sin registrar nada"
+    ],
+    "correcta": 1,
+    "explicación": "La accesibilidad exige eliminar barreras y prestar apoyo; no autoriza a sustituir la voluntad de la persona ni a omitir el procedimiento.",
+    "referencia": "TRLGDPD; Ley 39/2015 · arts. 12 y 13"
+  },
+  {
+    "id": "burgos-v03-deep-12",
+    "tema": 34,
+    "pregunta": "Una persona llama para preguntar por los requisitos generales de una licencia y después pide el estado del expediente de otra persona. ¿Cómo se califican las consultas?",
+    "opciones": [
+      "Ambas son información general accesible sin comprobación",
+      "La primera es información general; la segunda es particular y exige legitimación",
+      "Ambas son recursos administrativos",
+      "La primera es una petición y la segunda una sugerencia"
+    ],
+    "correcta": 1,
+    "explicación": "Los requisitos abstractos de un trámite son información general; el estado de un expediente concreto es información particular y requiere interesado o representación acreditada.",
+    "referencia": "RD 208/1996 · arts. 2 y 3"
   }
 ]
