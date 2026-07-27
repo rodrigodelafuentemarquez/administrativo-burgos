@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se corrigió la pregunta de nacimiento y cuidado para sustituir 16 por 19 semanas y actualizar la explicación. Se añadieron 12 preguntas `burgos-iii05-deep-01` a `burgos-iii05-deep-12` sobre afiliación/alta, plazo de baja, TGSS, acción protectora, IT, incapacidad permanente, 19 semanas, seis obligatorias, modalidades, mutuas, alta municipal y MUFACE. El banco pasa de 22 a 34 preguntas, con IDs únicos, cuatro opciones, respuesta única y explicación; se actualizaron los índices y la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de 34 preguntas, unicidad, tema, opciones, respuestas, explicaciones y referencias; igualdad entre `data/tests` y `public/data/tests`; comprobación de marcas manuales; `git diff --check`; `npm run build` correcto (101 páginas).
 - **Fuentes oficiales consultadas:** [TRLGSS consolidado en BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724), [Real Decreto 84/1996](https://www.boe.es/eli/es/rd/1996/01/26/84/con/20220615) y [Real Decreto-ley 9/2025](https://www.boe.es/eli/es/rdl/2025/07/29/9/dof/spa/html).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `caa2935` (`mejora profunda tema III.5 seguridad social`), subido a `origin/main`; el cierre documental se completa en el commit posterior de esta ejecución.
 - **Siguiente tema sugerido:** IV.1, tributos locales y ordenanzas fiscales; construirlo desde TRLRHL y procedimiento de aprobación/modificación de ordenanzas, con especial atención a hecho imponible, sujeto pasivo, cuotas, beneficios fiscales y competencias municipales.
 
 ## 27 de julio de 2026, 13:29 (Europe/Madrid)
