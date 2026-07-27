@@ -934,5 +934,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii07-deep-01",
+    "tema": 16,
+    "pregunta": "¿Qué diferencia básica existe entre el presupuesto base de licitación y el valor estimado del contrato?",
+    "opciones": [
+      "El presupuesto base excluye siempre el IVA y el valor estimado lo incluye.",
+      "El presupuesto base es el límite máximo de gasto e incluye el IVA; el valor estimado se calcula sin IVA e incorpora prórrogas y opciones previstas.",
+      "Ambos importes son idénticos, pero uno lo aprueba la mesa y otro el contratista.",
+      "El valor estimado solo se utiliza después de la formalización."
+    ],
+    "correcta": 1,
+    "referencia": "II.7 · Expediente · PBL y VEC",
+    "explicación": "El PBL limita el gasto que puede comprometerse y se expresa con IVA; el VEC sirve para valorar la dimensión total del contrato, excluye IVA e integra prórrogas, opciones y modificaciones previstas."
+  },
+  {
+    "id": "burgos-ii07-deep-02",
+    "tema": 16,
+    "pregunta": "En el procedimiento restringido, ¿quién puede presentar proposición?",
+    "opciones": [
+      "Cualquier empresario que conozca el anuncio, sin selección previa.",
+      "Solo los candidatos que hayan sido seleccionados después de solicitar participar.",
+      "Únicamente el contratista que proponga la mesa de contratación.",
+      "Solo empresas invitadas directamente, aunque no exista convocatoria."
+    ],
+    "correcta": 1,
+    "referencia": "II.7 · Procedimientos de adjudicación",
+    "explicación": "El procedimiento restringido tiene una fase de selección de candidatos y una fase posterior de presentación de ofertas; no equivale a un negociado sin publicidad."
+  },
+  {
+    "id": "burgos-ii07-deep-03",
+    "tema": 16,
+    "pregunta": "¿Cuál es la duración máxima de un contrato menor, incluidas sus prórrogas?",
+    "opciones": [
+      "Un año, con posibilidad de una prórroga expresa.",
+      "Dos años, si lo autoriza el Pleno.",
+      "Un año y no puede ser objeto de prórroga.",
+      "La duración que libremente fije la factura."
+    ],
+    "correcta": 2,
+    "referencia": "II.7 · Contrato menor · artículo 29.8 LCSP",
+    "explicación": "Los contratos menores no pueden tener una duración superior a un año ni ser objeto de prórroga."
+  },
+  {
+    "id": "burgos-ii07-deep-04",
+    "tema": 16,
+    "pregunta": "Con carácter general, ¿qué función corresponde a la mesa de contratación?",
+    "opciones": [
+      "Adjudicar definitivamente el contrato en nombre del órgano de contratación.",
+      "Asistir al órgano de contratación, valorar las ofertas y formular una propuesta.",
+      "Modificar el objeto del contrato durante la ejecución.",
+      "Resolver el recurso especial en materia de contratación."
+    ],
+    "correcta": 1,
+    "referencia": "II.7 · Órganos de asistencia",
+    "explicación": "La mesa es un órgano de asistencia. La adjudicación corresponde al órgano de contratación, que no queda convertido en mero ejecutor de la propuesta."
+  },
+  {
+    "id": "burgos-ii07-deep-05",
+    "tema": 16,
+    "pregunta": "¿Cuál es la regla general sobre la garantía definitiva?",
+    "opciones": [
+      "El 5 % del precio final ofertado, excluido el IVA, con las especialidades legales.",
+      "El 5 % del valor estimado, incluido el IVA, en todo contrato.",
+      "El 10 % del presupuesto base de licitación, incluido el IVA.",
+      "No existe garantía definitiva desde la Ley 9/2017."
+    ],
+    "correcta": 0,
+    "referencia": "II.7 · Garantías · artículo 107 LCSP",
+    "explicación": "La cuantía general de la garantía definitiva es el 5 % del precio final ofertado, sin IVA, sin perjuicio de excepciones y porcentajes adicionales previstos legalmente."
+  },
+  {
+    "id": "burgos-ii07-deep-06",
+    "tema": 16,
+    "pregunta": "¿Qué caracteriza a una concesión de servicios frente a un contrato ordinario de servicios?",
+    "opciones": [
+      "La concesión siempre carece de precio.",
+      "La concesión implica transferencia al concesionario del riesgo operacional de la explotación.",
+      "La concesión permite al contratista ejercer potestades sancionadoras.",
+      "La concesión solo puede celebrarse para adquirir bienes muebles."
+    ],
+    "correcta": 1,
+    "referencia": "II.7 · Tipología · artículos 15 y 13 LCSP",
+    "explicación": "La transferencia del riesgo operacional es el elemento decisivo de la concesión; no autoriza por sí misma a ejercer potestades públicas reservadas."
+  },
+  {
+    "id": "burgos-ii07-deep-07",
+    "tema": 16,
+    "pregunta": "Una modificación contractual no prevista en los pliegos solo puede acordarse cuando:",
+    "opciones": [
+      "La solicite el contratista, aunque cambie la naturaleza global del contrato.",
+      "La autorice la mesa de contratación por mayoría simple.",
+      "Concurra alguno de los supuestos tasados del artículo 205 LCSP y se respeten sus límites.",
+      "El nuevo precio no supere el presupuesto inicial, cualquiera que sea la causa."
+    ],
+    "correcta": 2,
+    "referencia": "II.7 · Modificación contractual",
+    "explicación": "Las modificaciones no previstas requieren una causa legal del artículo 205, motivación y respeto de los límites materiales y cuantitativos; no basta la voluntad de una parte."
+  },
+  {
+    "id": "burgos-ii07-deep-08",
+    "tema": 16,
+    "pregunta": "¿Cuál de estas afirmaciones sobre la revisión de precios es correcta?",
+    "opciones": [
+      "Se aplica automáticamente a cualquier contrato cuando sube la inflación.",
+      "Es una modificación del objeto contractual.",
+      "Solo procede cuando la LCSP la autoriza y se cumplen sus condiciones y previsión en los pliegos.",
+      "Permite revisar cualquier coste sin límites ni fórmula."
+    ],
+    "correcta": 2,
+    "referencia": "II.7 · Revisión de precios",
+    "explicación": "La revisión está legalmente limitada y no es automática. Actualiza el precio en los casos permitidos, pero no sustituye al régimen de modificación del contrato."
+  },
+  {
+    "id": "burgos-ii07-deep-09",
+    "tema": 16,
+    "pregunta": "¿Qué acto puede ser objeto de recurso especial en materia de contratación cuando concurren los demás requisitos legales?",
+    "opciones": [
+      "Un anuncio de licitación o un pliego que establezca las condiciones de la licitación.",
+      "Cualquier factura de un contrato menor, sin límite alguno.",
+      "Toda orden interna del responsable del contrato.",
+      "Cualquier contrato privado entre dos empresas sin participación pública."
+    ],
+    "correcta": 0,
+    "referencia": "II.7 · Recursos · artículos 44 y siguientes LCSP",
+    "explicación": "El artículo 44 incluye anuncios y pliegos, pero el recurso especial solo procede respecto de los contratos, actos y umbrales legalmente delimitados."
+  },
+  {
+    "id": "burgos-ii07-deep-10",
+    "tema": 16,
+    "pregunta": "En el Ayuntamiento de Burgos, municipio de gran población, las competencias como órgano de contratación corresponden, con carácter general según la disposición adicional segunda de la LCSP, a:",
+    "opciones": [
+      "La Junta de Gobierno Local.",
+      "La mesa de contratación.",
+      "La Secretaría General.",
+      "El Tribunal Económico-Administrativo Municipal."
+    ],
+    "correcta": 0,
+    "referencia": "II.7 · Especialidad local · disposición adicional segunda LCSP",
+    "explicación": "En los municipios de gran población, la disposición adicional segunda atribuye las competencias como órgano de contratación a la Junta de Gobierno Local, sin convertir a la mesa en órgano decisor."
   }
 ]
