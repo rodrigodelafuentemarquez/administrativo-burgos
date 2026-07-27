@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-v07-deep-01` a `burgos-v07-deep-12` sobre elección y cambio de canal, recibo registral, día inhábil, identificación/firma, aviso y rechazo de notificación, expediente, interoperabilidad, ENS, responsabilidades de la actuación automatizada, copias auténticas y portal/sede. El banco pasa de 31 a 43 preguntas, con IDs únicos, cuatro opciones y una sola respuesta correcta; se sincronizó la copia pública mediante `npm run prepare:data`.
 - **Verificación ejecutada:** validación Node de 43 preguntas, unicidad, explicaciones, pertenencia al tema y equivalencia editable/pública; comprobación de tres pares de marcas; `git diff --check`; `npm run prepare:data`; `npm run build` correcto (101 páginas).
 - **Fuentes oficiales consultadas:** [Ley 39/2015 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565), [Ley 40/2015 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566), [Real Decreto 203/2021 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2021-5032), [Real Decreto 4/2010, ENI](https://www.boe.es/buscar/act.php?id=BOE-A-2010-1331) y [Real Decreto 311/2022, ENS](https://www.boe.es/buscar/act.php?id=BOE-A-2022-7191).
-- **Commit/push:** pendiente de realizar en esta ejecución después de la revisión final del diff.
+- **Commit/push:** commit `368f70a` (`mejora profunda tema V.7 administración electrónica`) realizado y subido a `origin/main`.
 - **Siguiente tema sugerido:** V.8, documento, expediente, archivo y acceso; revisar con cuidado la frontera con V.7, profundizando en ciclo de vida documental, archivo electrónico, acceso al expediente, transparencia y límites por protección de datos.
 
 ## 27 de julio de 2026, 15:19 (Europe/Madrid)
