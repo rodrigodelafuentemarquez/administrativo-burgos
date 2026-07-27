@@ -337,5 +337,174 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-v06-deep-01",
+    "tema": 37,
+    "pregunta": "¿Qué diferencia correctamente anonimización y seudonimización?",
+    "opciones": [
+      "La anonimización impide razonablemente identificar a la persona; la seudonimización conserva la posibilidad de reidentificarla con información adicional",
+      "Son dos nombres para la misma operación irreversible",
+      "La seudonimización convierte siempre los datos en anónimos",
+      "La anonimización exige conservar la tabla que permite identificar al interesado"
+    ],
+    "correcta": 0,
+    "explicacion": "Los datos seudonimizados siguen siendo personales si pueden vincularse con información adicional separada; los anonimizados dejan de permitir una identificación razonable.",
+    "referencia": "V.6 · RGPD, art. 4"
+  },
+  {
+    "id": "burgos-v06-deep-02",
+    "tema": 37,
+    "pregunta": "En un tratamiento municipal realizado en ejercicio de potestades públicas, la base jurídica habitual será:",
+    "opciones": [
+      "Una obligación legal o una misión de interés público o ejercicio de poderes públicos",
+      "El consentimiento, aunque una ley imponga el tratamiento",
+      "El interés legítimo del Ayuntamiento como autoridad pública en sus funciones",
+      "La mera existencia de un proveedor informático"
+    ],
+    "correcta": 0,
+    "explicacion": "La Administración debe identificar la obligación legal o la misión/potestad que legitima el tratamiento; el consentimiento no es un comodín y el interés legítimo no opera para autoridades públicas en sus funciones.",
+    "referencia": "V.6 · RGPD, art. 6"
+  },
+  {
+    "id": "burgos-v06-deep-03",
+    "tema": 37,
+    "pregunta": "El plazo ordinario para responder una solicitud de ejercicio de derechos RGPD es:",
+    "opciones": [
+      "Un mes, prorrogable otros dos meses por complejidad o número de solicitudes, con información al interesado",
+      "Diez días hábiles, sin posibilidad de prórroga",
+      "Tres meses improrrogables en todos los casos",
+      "Seis meses desde la entrada de la solicitud"
+    ],
+    "correcta": 0,
+    "explicacion": "El responsable responde en un mes y puede prorrogar por otros dos meses en casos complejos o numerosas solicitudes, informándolo dentro del primer mes.",
+    "referencia": "V.6 · RGPD, art. 12.3"
+  },
+  {
+    "id": "burgos-v06-deep-04",
+    "tema": 37,
+    "pregunta": "La portabilidad de los datos exige, entre otros requisitos, que el tratamiento:",
+    "opciones": [
+      "Se base en el consentimiento o contrato y se efectúe por medios automatizados",
+      "Se base siempre en una potestad administrativa",
+      "Afecte necesariamente a datos de salud",
+      "Consista en un expediente en papel con datos de terceros"
+    ],
+    "correcta": 0,
+    "explicacion": "La portabilidad permite recibir y transmitir determinados datos tratados automáticamente cuando la base es el consentimiento o un contrato; no es un derecho general sobre cualquier expediente administrativo.",
+    "referencia": "V.6 · RGPD, art. 20"
+  },
+  {
+    "id": "burgos-v06-deep-05",
+    "tema": 37,
+    "pregunta": "Una empresa que mantiene la aplicación municipal y trata datos siguiendo instrucciones del Ayuntamiento actúa normalmente como:",
+    "opciones": [
+      "Encargada del tratamiento, mediante el contrato o acto jurídico exigido",
+      "Autoridad de control independiente",
+      "Delegada de Protección de Datos por el solo hecho de ser contratista",
+      "Responsable autónoma de las finalidades municipales"
+    ],
+    "correcta": 0,
+    "explicacion": "El encargado trata datos por cuenta del responsable y debe quedar vinculado por un contrato o acto jurídico con las garantías del artículo 28 RGPD.",
+    "referencia": "V.6 · RGPD, arts. 4 y 28"
+  },
+  {
+    "id": "burgos-v06-deep-06",
+    "tema": 37,
+    "pregunta": "El Ayuntamiento debe designar un Delegado de Protección de Datos porque:",
+    "opciones": [
+      "Es una autoridad u organismo público, salvo la excepción de los tribunales cuando actúan judicialmente",
+      "Todo encargado privado debe ser necesariamente DPD",
+      "Solo se designa DPD si se produce una brecha",
+      "La AEPD prohíbe que una Administración tenga DPD propio"
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 37.1.a RGPD obliga a autoridades y organismos públicos a designar DPD, con la excepción de los tribunales en el ejercicio de su función judicial.",
+    "referencia": "V.6 · RGPD, art. 37"
+  },
+  {
+    "id": "burgos-v06-deep-07",
+    "tema": 37,
+    "pregunta": "¿Cuál es una función propia del Delegado de Protección de Datos?",
+    "opciones": [
+      "Asesorar, supervisar el cumplimiento y cooperar como punto de contacto con la autoridad de control",
+      "Imponer directamente multas a los empleados",
+      "Decidir por el responsable la finalidad de cada tratamiento",
+      "Sustituir al órgano municipal que resuelve los expedientes"
+    ],
+    "correcta": 0,
+    "explicacion": "El DPD asesora, supervisa, participa en evaluaciones de impacto y coopera con la autoridad; no asume la responsabilidad decisoria del tratamiento ni la potestad sancionadora.",
+    "referencia": "V.6 · RGPD, art. 39"
+  },
+  {
+    "id": "burgos-v06-deep-08",
+    "tema": 37,
+    "pregunta": "Una brecha de datos debe notificarse a la autoridad de control, cuando sea posible, dentro de:",
+    "opciones": [
+      "Las 72 horas desde que el responsable tiene conocimiento, salvo que sea improbable el riesgo",
+      "Las 24 horas desde que se compró el sistema afectado, siempre",
+      "Los diez días hábiles siguientes, aunque el riesgo sea alto",
+      "Un mes desde la comunicación a los interesados en todos los casos"
+    ],
+    "correcta": 0,
+    "explicacion": "El artículo 33 RGPD fija la notificación sin dilación indebida y, cuando sea posible, dentro de 72 horas desde el conocimiento; la excepción es que sea improbable el riesgo para derechos y libertades.",
+    "referencia": "V.6 · RGPD, art. 33"
+  },
+  {
+    "id": "burgos-v06-deep-09",
+    "tema": 37,
+    "pregunta": "La comunicación de una brecha a las personas afectadas procede especialmente cuando:",
+    "opciones": [
+      "Es probable que la brecha entrañe un alto riesgo para sus derechos y libertades",
+      "Cualquier empleado pierde un documento sin datos personales",
+      "La autoridad de control no existe en el territorio",
+      "La brecha ya se ha corregido, aunque nunca hubiera riesgo"
+    ],
+    "correcta": 0,
+    "explicacion": "El responsable comunica la brecha al interesado sin dilación indebida cuando es probable un alto riesgo, con las excepciones previstas en el artículo 34 RGPD.",
+    "referencia": "V.6 · RGPD, art. 34"
+  },
+  {
+    "id": "burgos-v06-deep-10",
+    "tema": 37,
+    "pregunta": "En Castilla y León, la autoridad de control ordinaria para los tratamientos del Ayuntamiento de Burgos es:",
+    "opciones": [
+      "La Agencia Española de Protección de Datos, al no existir una autoridad autonómica propia para ese ámbito",
+      "El Delegado de Protección de Datos del Ayuntamiento como autoridad externa",
+      "El Consejo de Transparencia y Buen Gobierno en todos los casos",
+      "La Junta Electoral Provincial"
+    ],
+    "correcta": 0,
+    "explicacion": "El DPD es una figura interna de asesoramiento y contacto; la autoridad de control competente para el Ayuntamiento es la AEPD.",
+    "referencia": "V.6 · Autoridades de control"
+  },
+  {
+    "id": "burgos-v06-deep-11",
+    "tema": 37,
+    "pregunta": "La limitación del tratamiento se diferencia de la supresión porque:",
+    "opciones": [
+      "La limitación conserva los datos pero restringe su uso en determinados supuestos; la supresión busca eliminarlos cuando procede",
+      "La limitación siempre destruye los datos y la supresión solo los cifra",
+      "Son derechos idénticos con nombres distintos",
+      "La supresión permite conservar indefinidamente los datos para cualquier finalidad"
+    ],
+    "correcta": 0,
+    "explicacion": "La limitación mantiene los datos con uso restringido mientras se resuelve una cuestión de exactitud, licitud, necesidad u oposición; la supresión elimina cuando concurre una causa y no prevalece una obligación de conservación.",
+    "referencia": "V.6 · RGPD, arts. 17 y 18"
+  },
+  {
+    "id": "burgos-v06-deep-12",
+    "tema": 37,
+    "pregunta": "¿Cuál de estos derechos digitales está reconocido por la LOPDGDD?",
+    "opciones": [
+      "El derecho a la desconexión digital en el ámbito laboral",
+      "El derecho a publicar cualquier expediente administrativo sin límites",
+      "El derecho a eliminar siempre los plazos de conservación legal",
+      "El derecho del empleador a revisar sin límites cualquier dispositivo"
+    ],
+    "correcta": 0,
+    "explicacion": "La LOPDGDD reconoce la desconexión digital y otros derechos como la intimidad en dispositivos laborales, videovigilancia, geolocalización y derechos en Internet, sujetos a sus garantías.",
+    "referencia": "V.6 · LOPDGDD, arts. 87 a 91"
   }
+
 ]
