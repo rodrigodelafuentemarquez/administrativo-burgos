@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se revisó src/utils/rehypeStudyHighlights.mjs. Se mantuvo el reconocimiento automático de leyes, artículos, plazos y conceptos; se añadieron solo cinco marcas manuales nucleares para acto administrativo, motivar, notificación, nulidad de pleno derecho y anulabilidad. Se comprobó que están cerradas y no abarcan párrafos completos; no se modificó el motor común.
 - **Tests añadidos/cambiados:** se corrigieron redacciones de margen de apreciación, anulabilidad y notificación; se añadieron 10 preguntas (burgos-ii02-deep-01 a burgos-ii02-deep-10) sobre motivación, eficacia desde la fecha, retroactividad favorable, contenido mínimo de notificación, rechazo electrónico, desviación de poder, defectos de forma, inderogabilidad singular, firma/motivación/notificación y convalidación. El banco queda en 37 preguntas, sin identificadores duplicados, con una única respuesta correcta y explicación útil; se sincronizó la copia pública.
 - **Verificación ejecutada:** npm run prepare:data, validación Node de 37 preguntas y unicidad, igualdad entre JSON editable y público, comprobación de cinco marcas manuales, git diff --check y npm run build correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** 3e2b5b3 (mejora profunda tema II.2 acto administrativo), subido a origin/main; se añadió después el cierre documental de esta entrada.
 - **Siguiente tema sugerido:** II.3, procedimiento administrativo común; mantener separado el acto administrativo de II.2 y revisar fases, interesados, plazos, silencio, prueba, audiencia y terminación.
 
 ## 27 de julio de 2026, 11:14 (Europe/Madrid)
