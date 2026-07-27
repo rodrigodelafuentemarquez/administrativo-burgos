@@ -2,7 +2,7 @@
   {
     "id": "pdf-2024-burgos-est-q28",
     "tema": 32,
-    "pregunta": "Las obligaciones establecidas en la Ley Orgánica 3/2007, de 2 de marzo, para la igualdad efectiva de mujeres y hombres, serán de aplicación a toda persona:",
+    "pregunta": "Las obligaciones establecidas en la Ley Orgánica 3/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres, serán de aplicación a toda persona:",
     "opciones": [
       "Física o jurídica, que se encuentre o actúe en territorio español, con nacionalidad, domicilio o residencia española.",
       "Física o jurídica, que se encuentre o actúe en territorio español, cualquiera que fuese su nacionalidad, domicilio o residencia.",
@@ -228,7 +228,7 @@
   {
     "id": "t48-p010",
     "tema": 32,
-    "pregunta": "En igualdad, violencia de género y derechos LGTBI, la Ley Orgánica 4/2023 permite la rectificación registral del sexo, desde los:",
+    "pregunta": "En igualdad, violencia de género y derechos LGTBI, la Ley 4/2023 permite la rectificación registral del sexo, desde los:",
     "opciones": [
       "12 años",
       "14 años",
@@ -236,8 +236,8 @@
       "18 años"
     ],
     "correcta": 2,
-    "explicación": "El tema establece los 16 años como regla general sin informe médico.",
-    "referencia": "V.1 · 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
+    "explicación": "Las personas de nacionalidad española mayores de 16 años pueden solicitarla por sí mismas; entre 14 y 16 necesitan asistencia de sus representantes legales y entre 12 y 14 autorización judicial.",
+    "referencia": "V.1 · 4.3 Ley 4/2023 y rectificación registral"
   },
   {
     "id": "t48-p017",
@@ -256,7 +256,7 @@
   {
     "id": "t48-p018",
     "tema": 32,
-    "pregunta": "De acuerdo con la Ley Orgánica 4/2023, ¿qué deben adoptar las Administraciones Públicas en el empleo público?",
+    "pregunta": "De acuerdo con la Ley 4/2023, ¿qué deben adoptar las Administraciones Públicas en el empleo público?",
     "opciones": [
       "Protocolos de actuación frente al acoso por razón de orientación sexual o identidad de género.",
       "Un sistema general de cupos obligatorios para toda oferta de empleo público.",
@@ -264,8 +264,176 @@
       "Un régimen especial de jubilación para el personal LGTBI."
     ],
     "correcta": 0,
-    "explicación": "El tema menciona expresamente esta medida en el ámbito del empleo público.",
-    "referencia": "V.1 · 4.2 La Ley Orgánica 4/2023, de derechos de las personas LGTBI"
+    "explicación": "El artículo 11 exige garantizar los derechos de la ley y promover la igualdad de trato y la no discriminación en el acceso al empleo público y la carrera profesional; la ley también contempla formación y protocolos.",
+    "referencia": "V.1 · 4.2 Ley 4/2023 y Administraciones Públicas"
+  },
+  {
+    "id": "burgos-v01-deep-01",
+    "tema": 32,
+    "pregunta": "Según la disposición adicional primera de la Ley Orgánica 3/2007, la composición equilibrada exige que cada sexo, en el conjunto de referencia:",
+    "opciones": [
+      "No supere el 60 % ni sea menos del 40 %",
+      "Represente exactamente el 50 %",
+      "Alcance como mínimo el 25 %",
+      "No supere el 75 % y sea al menos el 25 %"
+    ],
+    "correcta": 0,
+    "explicación": "La definición legal de composición equilibrada es 40-60 % en el conjunto al que se refiera.",
+    "referencia": "Ley Orgánica 3/2007 · disposición adicional primera"
+  },
+  {
+    "id": "burgos-v01-deep-02",
+    "tema": 32,
+    "pregunta": "Una medida específica a favor de las mujeres para corregir desigualdades de hecho será compatible con la igualdad cuando sea:",
+    "opciones": [
+      "Razonable y proporcionada",
+      "Permanente y absoluta en cualquier caso",
+      "Secreta y no evaluable",
+      "Aplicable aunque la desigualdad no sea patente"
+    ],
+    "correcta": 0,
+    "explicación": "La acción positiva del artículo 11 debe estar dirigida a corregir desigualdades patentes y ser razonable y proporcionada.",
+    "referencia": "Ley Orgánica 3/2007 · artículo 11"
+  },
+  {
+    "id": "burgos-v01-deep-03",
+    "tema": 32,
+    "pregunta": "¿Cuál de las siguientes obligaciones figura en el artículo 51 de la Ley Orgánica 3/2007 para las Administraciones Públicas?",
+    "opciones": [
+      "Facilitar la conciliación sin menoscabo de la promoción profesional",
+      "Reducir la promoción profesional de quien ejerza derechos de conciliación",
+      "Excluir la formación en igualdad de los procesos selectivos",
+      "Sustituir toda evaluación por una cuota fija"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 51 exige facilitar la conciliación sin perjudicar la promoción, además de formación, protección frente al acoso y evaluación.",
+    "referencia": "Ley Orgánica 3/2007 · artículo 51"
+  },
+  {
+    "id": "burgos-v01-deep-04",
+    "tema": 32,
+    "pregunta": "Una empresa con 50 personas trabajadoras, conforme a la Ley Orgánica 3/2007, debe:",
+    "opciones": [
+      "Elaborar y aplicar un plan de igualdad negociado en los términos legales",
+      "Elaborar un plan solo si lo decide unilateralmente la dirección",
+      "Quedar siempre exenta por no superar 250 personas",
+      "Aplicar únicamente un protocolo penal"
+    ],
+    "correcta": 0,
+    "explicación": "El umbral legal es 50 o más personas trabajadoras; el plan se negocia conforme a la legislación laboral.",
+    "referencia": "Ley Orgánica 3/2007 · artículo 45"
+  },
+  {
+    "id": "burgos-v01-deep-05",
+    "tema": 32,
+    "pregunta": "Para acreditar una situación de violencia de género a efectos de los derechos de la Ley Orgánica 1/2004, puede bastar:",
+    "opciones": [
+      "Un informe del Ministerio Fiscal que indique la existencia de indicios, en los términos del artículo 23",
+      "Únicamente una sentencia condenatoria firme",
+      "Una declaración verbal ante cualquier empleado público sin más trámite",
+      "Un certificado de empadronamiento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 23 contempla sentencia, orden de protección, medida cautelar o informe del Ministerio Fiscal con indicios, entre otros supuestos legales.",
+    "referencia": "Ley Orgánica 1/2004 · artículo 23"
+  },
+  {
+    "id": "burgos-v01-deep-06",
+    "tema": 32,
+    "pregunta": "La definición de violencia de género de la Ley Orgánica 1/2004 incluye la violencia ejercida por quien:",
+    "opciones": [
+      "Sea o haya sido cónyuge o esté o haya estado ligado por relación similar de afectividad, aun sin convivencia",
+      "Tenga cualquier relación profesional con la víctima",
+      "Sea siempre un familiar distinto de la pareja",
+      "Sea una persona desconocida en cualquier espacio público"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 1 exige esa relación conyugal o afectiva, aunque no haya convivencia; el concepto no equivale a toda violencia contra una mujer.",
+    "referencia": "Ley Orgánica 1/2004 · artículo 1"
+  },
+  {
+    "id": "burgos-v01-deep-07",
+    "tema": 32,
+    "pregunta": "La Ley 4/2023 es, por su rango, una:",
+    "opciones": [
+      "Ley ordinaria",
+      "Ley orgánica",
+      "Ley de bases delegada",
+      "Ley autonómica de Castilla y León"
+    ],
+    "correcta": 0,
+    "explicación": "Su denominación oficial es Ley 4/2023, de 28 de febrero; no es una ley orgánica.",
+    "referencia": "Ley 4/2023 · título oficial"
+  },
+  {
+    "id": "burgos-v01-deep-08",
+    "tema": 32,
+    "pregunta": "¿Qué medida administrativa exige expresamente la Ley 4/2023 en relación con la documentación?",
+    "opciones": [
+      "Procurar que la documentación y los formularios sean adecuados a la diversidad sexual, de género y familiar",
+      "Exigir que todos los formularios incluyan la orientación sexual de la persona",
+      "Eliminar toda identificación en los procedimientos administrativos",
+      "Reservar los formularios inclusivos a los servicios sanitarios"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 13 obliga a las Administraciones competentes a adoptar medidas para adecuar documentación y formularios a la diversidad protegida.",
+    "referencia": "Ley 4/2023 · artículo 13"
+  },
+  {
+    "id": "burgos-v01-deep-09",
+    "tema": 32,
+    "pregunta": "Una persona de 14 años y menor de 16 que solicita la rectificación registral de la mención relativa al sexo:",
+    "opciones": [
+      "Puede solicitarla por sí misma asistida por sus representantes legales",
+      "Necesita siempre esperar a cumplir 16 años",
+      "Solo puede solicitarla mediante sentencia penal",
+      "Puede solicitarla sin asistencia de ninguna clase"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 43.2 permite la solicitud por la persona menor de 16 y mayor de 14, asistida por sus representantes legales.",
+    "referencia": "Ley 4/2023 · artículo 43"
+  },
+  {
+    "id": "burgos-v01-deep-10",
+    "tema": 32,
+    "pregunta": "En el procedimiento de rectificación registral de la Ley 4/2023, la segunda comparecencia debe producirse en el plazo máximo de:",
+    "opciones": [
+      "Tres meses desde la comparecencia inicial de reiteración",
+      "Diez días hábiles desde la solicitud",
+      "Seis meses desde la inscripción",
+      "Un año desde la primera comparecencia"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 44.8 fija un plazo máximo de tres meses para citar a la segunda comparecencia; después la resolución tiene su propio plazo máximo de un mes.",
+    "referencia": "Ley 4/2023 · artículo 44"
+  },
+  {
+    "id": "burgos-v01-deep-11",
+    "tema": 32,
+    "pregunta": "¿Cuál es la relación correcta entre la Ley Orgánica 1/2004 y la Ley 4/2023?",
+    "opciones": [
+      "La primera se centra en violencia de género dentro de su definición legal y la segunda en igualdad real y no discriminación LGTBI",
+      "Ambas regulan exclusivamente planes de igualdad empresariales",
+      "La primera regula la rectificación registral y la segunda la orden de protección",
+      "La segunda sustituye íntegramente a la primera"
+    ],
+    "correcta": 0,
+    "explicación": "Son normas distintas: la Ley Orgánica 1/2004 articula protección integral frente a la violencia de género; la Ley 4/2023 protege la igualdad real y los derechos LGTBI.",
+    "referencia": "Comparativa del Tema V.1"
+  },
+  {
+    "id": "burgos-v01-deep-12",
+    "tema": 32,
+    "pregunta": "En una atención municipal relacionada con violencia de género, la actuación más adecuada es:",
+    "opciones": [
+      "Proteger la confidencialidad, pedir solo datos necesarios e informar o derivar al recurso competente",
+      "Difundir el expediente a todas las unidades para facilitar la coordinación",
+      "Exigir siempre sentencia antes de informar sobre recursos",
+      "Resolver desde el Ayuntamiento cualquier medida judicial o penal"
+    ],
+    "correcta": 0,
+    "explicación": "La atención administrativa debe evitar la revictimización, limitar datos, proteger la seguridad y coordinarse con los servicios competentes sin sustituir sus funciones.",
+    "referencia": "Aplicación administrativa de la Ley Orgánica 1/2004"
   },
   {
     "id": "topup-32-01",
