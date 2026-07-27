@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-iv02-deep-01` a `burgos-iv02-deep-12` sobre definición legal, prórroga, porcentajes y anualidades, extraordinario frente a suplemento, ampliables, competencia y límites de transferencias, generación, incorporación, crédito a corto plazo, caja fija y clasificación económica. El banco pasa de 23 a 35 preguntas, con identificadores únicos, cuatro opciones, respuesta única y explicación jurídica; se actualizaron ambos índices y la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de 35 preguntas, unicidad, formato, índices y sincronización editable/pública, comprobación de seis marcas manuales breves, `git diff --check` y `npm run build` correcto (101 páginas).
 - **Fuentes oficiales consultadas:** [TRLRHL consolidado en BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214&p=20260603&tn=0), [Real Decreto 500/1990](https://www.boe.es/buscar/act.php?id=BOE-A-1990-9664), [LOEPSF](https://www.boe.es/buscar/act.php?id=BOE-A-2012-5730) y [Orden EHA/3565/2008](https://www.boe.es/buscar/act.php?id=BOE-A-2008-19916).
-- **Commit realizado:** pendiente de realizar después de actualizar esta memoria y revisar el diff final; push a `origin/main` pendiente en esta ejecución.
+- **Commit realizado:** `5ba381a` (`mejora profunda tema IV.2 presupuesto local`), subido correctamente a `origin/main`; esta actualización documental se cierra en el commit posterior de la misma ejecución.
 - **Siguiente tema sugerido:** IV.3, ejecución del presupuesto de gasto; enlazar A-D-O-P, documentos contables, órganos competentes, compromisos para ejercicios posteriores y ordenación del pago sin repetir la teoría de modificaciones.
 
 ## 27 de julio de 2026, 13:49 (Europe/Madrid)
