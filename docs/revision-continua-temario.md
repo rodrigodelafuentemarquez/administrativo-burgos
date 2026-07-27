@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se leyó `rehypeStudyHighlights.mjs`. Se dejaron solo dos marcas manuales breves para la tríada demanial y la recuperación de oficio, que no estaban cubiertas de forma específica por el motor. Leyes, artículos, años, plazos, porcentajes y conceptos reconocidos quedan al resaltado automático; no se modificó el motor común. Se comprobó el cierre correcto de ambas marcas y que no abarcan párrafos.
 - **Tests añadidos/cambiados:** se añadieron 10 preguntas `burgos-ii09-deep-01` a `burgos-ii09-deep-10`, sobre alteración automática, recuperación demanial y patrimonial, uso de terraza, aprovechamiento comunal, umbral autonómico del 25 %, permuta del 40 %, mayoría absoluta y 15 días de la cesión gratuita y concesión demanial. Se corrigieron tres tildes en explicaciones/opciones existentes. El banco pasa de 20 a 30 preguntas, sin IDs duplicados; se sincronizó la copia pública con `npm run prepare:data`.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de estructura, 30 preguntas, unicidad, tema, explicaciones y sincronización editable/público, comprobación de dos pares `<mark>`, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `568e7f6` (`mejora profunda tema II.9 bienes locales`), subido a `origin/main`.
 - **Siguiente tema sugerido:** II.10, formas de actividad administrativa y servicio público; crear desarrollo desde cero y separar policía, fomento, servicio público, gestión, remunicipalización e iniciativa económica pública.
 
 ## 27 de julio de 2026, 12:15 (Europe/Madrid)
