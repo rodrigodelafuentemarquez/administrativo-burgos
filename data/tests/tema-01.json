@@ -405,5 +405,117 @@
     "correcta": 1,
     "explicación": "El artículo 53.3 atribuye a los principios rectores una función informadora y condiciona su alegación a las leyes que los desarrollen; no los incluye en el recurso de amparo.",
     "referencia": "I.1 · Garantías del artículo 53 CE"
+  },
+  {
+    "id": "burgos-i01-deep-01",
+    "tema": 1,
+    "pregunta": "¿Cuál de los siguientes derechos NO figura en la lista del artículo 55.1 CE como susceptible de suspensión en los estados de excepción o de sitio?",
+    "opciones": [
+      "El derecho de reunión del artículo 21 CE",
+      "El derecho a la huelga del artículo 28.2 CE",
+      "La tutela judicial efectiva del artículo 24 CE",
+      "La libertad de circulación del artículo 19 CE"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 55.1 enumera, entre otros, los artículos 19, 21, 28.2 y 37.2, pero no incluye el artículo 24.",
+    "referencia": "Tema I.1 · Artículo 55.1 CE · suspensión general"
+  },
+  {
+    "id": "burgos-i01-deep-02",
+    "tema": 1,
+    "pregunta": "Una ley que desarrolla derechos fundamentales y libertades públicas debe aprobarse como:",
+    "opciones": [
+      "Ley ordinaria, siempre que la apruebe el Senado",
+      "Ley orgánica, con mayoría absoluta del Congreso en una votación final sobre el conjunto",
+      "Decreto-ley, por tratarse de una materia urgente",
+      "Reglamento parlamentario"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 81 CE reserva el desarrollo de los derechos fundamentales y libertades públicas a la ley orgánica, cuya aprobación exige mayoría absoluta del Congreso en una votación final sobre el conjunto.",
+    "referencia": "Tema I.1 · Artículo 81 CE · garantía normativa"
+  },
+  {
+    "id": "burgos-i01-deep-03",
+    "tema": 1,
+    "pregunta": "En relación con el artículo 21 CE, las reuniones en lugares de tránsito público y las manifestaciones:",
+    "opciones": [
+      "Requieren autorización previa de la autoridad gubernativa",
+      "No requieren autorización previa, pero deben comunicarse previamente",
+      "No requieren autorización ni comunicación en ningún caso",
+      "Solo pueden celebrarse si las convoca una asociación inscrita"
+    ],
+    "correcta": 1,
+    "explicación": "El ejercicio de este derecho no necesita autorización previa; cuando se trata de reuniones en lugares de tránsito público o manifestaciones, existe comunicación previa a la autoridad.",
+    "referencia": "Tema I.1 · Artículo 21 CE · reunión y manifestación"
+  },
+  {
+    "id": "burgos-i01-deep-04",
+    "tema": 1,
+    "pregunta": "¿Qué conjunto identifica correctamente los derechos protegidos por el recurso de amparo constitucional?",
+    "opciones": [
+      "Todos los derechos del Título I, incluidos los principios rectores",
+      "El artículo 14, la sección primera del capítulo II del Título I y el artículo 30.2",
+      "Solo los derechos de los artículos 15 a 29, sin el artículo 14",
+      "Los derechos de los artículos 30 a 38 y los principios rectores"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 53.2 CE delimita el amparo al artículo 14, a los derechos y libertades de la sección primera del capítulo II y a la objeción de conciencia del artículo 30.2.",
+    "referencia": "Tema I.1 · Artículo 53.2 CE · recurso de amparo"
+  },
+  {
+    "id": "burgos-i01-deep-05",
+    "tema": 1,
+    "pregunta": "¿Cuál de estas afirmaciones diferencia correctamente los artículos 9.2 y 14 CE?",
+    "opciones": [
+      "El artículo 9.2 prohíbe toda discriminación y el 14 ordena remover obstáculos",
+      "El artículo 9.2 busca igualdad real y efectiva; el artículo 14 proclama igualdad ante la ley",
+      "Ambos preceptos regulan exclusivamente la igualdad de los extranjeros",
+      "El artículo 14 solo vincula a los tribunales y no a la Administración"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 9.2 impone a los poderes públicos una actuación para hacer reales la libertad y la igualdad; el artículo 14 reconoce la igualdad ante la ley y prohíbe discriminaciones.",
+    "referencia": "Tema I.1 · artículos 9.2 y 14 CE · igualdad"
+  },
+  {
+    "id": "burgos-i01-deep-06",
+    "tema": 1,
+    "pregunta": "La suspensión individual prevista en el artículo 55.2 CE puede afectar, en los supuestos constitucionales, a:",
+    "opciones": [
+      "Los artículos 17.2, 18.2 y 18.3 CE",
+      "Los artículos 14, 15 y 16 CE",
+      "Los artículos 20, 21 y 22 CE",
+      "Los artículos 24, 25 y 26 CE"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 55.2 se refiere a los apartados 2 del artículo 17 y 2 y 3 del artículo 18, con intervención judicial y control parlamentario.",
+    "referencia": "Tema I.1 · Artículo 55.2 CE · suspensión individual"
+  },
+  {
+    "id": "burgos-i01-deep-07",
+    "tema": 1,
+    "pregunta": "¿Qué mayoría exige el artículo 167 CE para aprobar inicialmente una reforma constitucional por el procedimiento ordinario?",
+    "opciones": [
+      "Mayoría simple de cada Cámara",
+      "Mayoría absoluta de cada Cámara",
+      "Tres quintos de cada Cámara",
+      "Dos tercios de cada Cámara y referéndum obligatorio"
+    ],
+    "correcta": 2,
+    "explicación": "La regla general del artículo 167.1 CE es la aprobación por mayoría de tres quintos de cada Cámara. El referéndum no es obligatorio en este procedimiento.",
+    "referencia": "Tema I.1 · Artículo 167 CE · reforma ordinaria"
+  },
+  {
+    "id": "burgos-i01-deep-08",
+    "tema": 1,
+    "pregunta": "¿Cuál es el plazo máximo ordinario de la detención preventiva conforme al artículo 17 CE?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "Cinco días"
+    ],
+    "correcta": 2,
+    "explicación": "La detención preventiva no puede durar más del tiempo estrictamente necesario y, en todo caso, el plazo máximo ordinario es de 72 horas.",
+    "referencia": "Tema I.1 · Artículo 17 CE · libertad y seguridad"
   }
 ]

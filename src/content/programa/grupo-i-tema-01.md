@@ -6,274 +6,201 @@ titulo: "La Constitución Española (I): estructura. Los principios constitucion
 estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y alcance del tema
 
-Este tema se estudia sobre la <mark>Constitución Española de 1978</mark>, texto consolidado del <mark>BOE</mark>: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229.
+La norma básica es la <mark>Constitución Española de 1978</mark>, en su texto consolidado oficial del [BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229). Para este tema deben dominarse especialmente los <mark>artículos 1 a 55</mark>: estructura, principios, derechos, garantías y suspensión. La reforma constitucional (artículos 166 a 169) se incluye como conexión frecuente de test porque permite preguntar por la rigidez de la Constitución.
 
-La Constitución fue aprobada por las Cortes Generales el <mark>31 de octubre de 1978</mark>, ratificada por referéndum el <mark>6 de diciembre de 1978</mark>, sancionada por el Rey el <mark>27 de diciembre de 1978</mark> y publicada en el <mark>BOE</mark> el <mark>29 de diciembre de 1978</mark>. Su entrada en vigor se produjo el mismo día de su publicación oficial.
+Fechas históricas que se confunden en examen:
 
-## La Constitución como norma suprema
+| Hito | Fecha |
+|---|---:|
+| Aprobación por las Cortes Generales | <mark>31 de octubre de 1978</mark> |
+| Ratificación por referéndum | <mark>6 de diciembre de 1978</mark> |
+| Sanción por el Rey | <mark>27 de diciembre de 1978</mark> |
+| Publicación en el BOE y entrada en vigor | <mark>29 de diciembre de 1978</mark> |
 
-La <mark>Constitución Española de 1978</mark> es la norma jurídica superior del ordenamiento español. No es solo una declaración política ni un texto programatico: tiene valor normativo y vincula a todos los poderes públicos y a la ciudadania. El <mark>artículo 9.1</mark> establece que los ciudadanos y los poderes públicos están sujetos a la Constitución y al resto del ordenamiento jurídico.
+## 2. Concepto, características y estructura
 
-La consecuencia de esa supremacia es doble. En primer lugar, ninguna norma puede contradecir la Constitución. Si una ley vulnera el texto constitucional, puede ser expulsada del ordenamiento por el Tribunal Constitucional a través de los procedimientos correspondientes. En segundo lugar, la actuación de las Administraciones Públicas, de los órganos constitucionales y de los tribunales debe interpretarse conforme a los principios constitucionales.
+La Constitución es la norma suprema del ordenamiento: tiene fuerza jurídica, vincula a la ciudadanía y a los poderes públicos y limita la actuación del legislador y de la Administración. El <mark>artículo 9.1</mark> expresa esta sujeción. Una ley, reglamento o acto contrario a la Constitución no prevalece por el mero hecho de ser posterior.
 
-La Constitución también ordena el sistema de fuentes. Determina que materias deben regularse por ley orgánica, cuál es el papel de las Cortes Generales, cómo se articulan las competencias entre Estado y comunidades autónomas, cómo se integra el Derecho de la Unión Europea y qué límites tienen los poderes públicos cuando actúan sobre derechos fundamentales.
+Sus características que más se preguntan son:
 
-## Características generales
+- **Escrita y codificada:** se contiene en un texto formal y sistemático.
+- **Extensa:** regula derechos, instituciones, organización territorial, economía y reforma.
+- **Normativa:** sus preceptos tienen eficacia jurídica, no solo valor político.
+- **Rígida:** su reforma exige procedimientos especiales distintos del legislativo ordinario.
+- **Consensuada:** fue aprobada en un contexto de acuerdo político amplio.
+- **Democrática:** la soberanía nacional reside en el pueblo español.
 
-La Constitución de 1978 es escrita, extensa, rigida, normativa, consensuada y democratica.
+### 2.1. Partes y títulos
 
-Es escrita porque se contiene en un texto formal aprobado por el poder constituyente. Es extensa porque regula no solo la organización básica del Estado, sino también derechos fundamentales, principios rectores, sistema territorial, economía, reforma constitucional y órganos constitucionales. Es rigida porque su reforma no puede realizarse por el procedimiento legislativo ordinario: los <mark>artículos 167 y 168</mark> establecen procedimientos especiales que exigen mayorías reforzadas y, en determinados casos, referéndum.
-
-Es normativa porque tiene eficacia jurídica directa. La Constitución no queda subordinada al legislador, sino que limita al legislador. Esto es especialmente importante en materia de derechos fundamentales: el legislador puede desarrollarlos, pero no vaciarlos de contenido.
-
-También es una Constitución de consenso. Su elaboración respondio a la necesidad de construir un marco común tras la transición política. Por eso combina elementos de distintas tradiciones: Estado social, democracia parlamentaria, monarquía parlamentaria, reconocimiento de la autonomía territorial, protección de derechos y garantía de pluralismo político.
-
-## Estructura de la Constitución
-
-La Constitución se compone de una parte introductoria, una parte dogmatica, una parte orgánica y unas disposiciones finales. Para test conviene memorizarla por bloques:
-
-| Bloque | Contenido | Idea de examen |
-|---|---|---|
-| Preambulo | Fines políticos generales | No está dividido en artículos, pero orienta el sentido del texto. |
-| Título preliminar | <mark>Artículos 1 a 9</mark> | Decisiones constitucionales básicas. |
+| Parte | Contenido o artículos | Regla de estudio |
+|---|---:|---|
+| Preámbulo | Fines y valores inspiradores | No está articulado como un título. |
+| Título preliminar | <mark>Artículos 1 a 9</mark> | Principios constitucionales y bases del Estado. |
 | Título I | <mark>Artículos 10 a 55</mark> | Derechos y deberes fundamentales. |
-| Títulos II a X | Organización constitucional | Corona, Cortes, Gobierno, Poder Judicial, territorio, Tribunal Constitucional y reforma. |
-| Disposiciones | 4 adicionales, 9 transitorias, 1 derogatoria y 1 final | Cierre técnico del texto constitucional. |
+| Títulos II a IX | 56 a 165 | Corona, Cortes, Gobierno, Poder Judicial, territorio y Tribunal Constitucional. |
+| Título X | 166 a 169 | Reforma constitucional. |
+| Disposiciones | 4 adicionales, 9 transitorias, 1 derogatoria y 1 final | Parte final de la Constitución. |
 
-El preambulo expresa los fines generales del texto constitucional:
+El Título I se organiza así:
 
-- Garantizar la convivencia democratica.
-- Consolidar un Estado de Derecho.
-- Proteger los derechos humanos.
-- Promover el progreso de la cultura y la economía.
-- Establecer una sociedad democratica avanzada.
-- Colaborar en unas relaciones pacificas y de cooperación entre los pueblos.
+| Bloque | Artículos | Contenido | Protección clave |
+|---|---:|---|---|
+| Capítulo I | 11-13 | Españoles y extranjeros | Nacionalidad, mayoría de edad y extranjería. |
+| Artículo 14 | 14 | Igualdad ante la ley | Se integra en la protección reforzada del artículo 53.2. |
+| Capítulo II, sección 1.ª | 15-29 | Derechos fundamentales y libertades públicas | Ley orgánica, tutela preferente y sumaria y amparo. |
+| Capítulo II, sección 2.ª | 30-38 | Derechos y deberes de los ciudadanos | Vinculación y contenido esencial; sin amparo directo por esta vía. |
+| Capítulo III | 39-52 | Principios rectores | Protección del artículo 53.3. |
+| Capítulo IV | 53-54 | Garantías | Reserva de ley, tutela, amparo y Defensor del Pueblo. |
+| Capítulo V | 55 | Suspensión | Estados de excepción o sitio y suspensión individual. |
 
-El título preliminar, <mark>artículos 1 a 9</mark>, contiene las reglas que más se preguntan en test:
+**Esquema mental:** 10 dignidad; 11-13 personas; 14 igualdad; 15-29 máxima protección; 30-38 ciudadanos; 39-52 principios rectores; 53-55 garantías y suspensión.
+
+## 3. Principios constitucionales y valores superiores
+
+### 3.1. Artículos 1 a 9
+
+El <mark>artículo 1.1</mark> define España como **Estado social y democrático de Derecho** y establece como valores superiores **libertad, justicia, igualdad y pluralismo político**.
+
+| Fórmula | Qué significa | No confundir con |
+|---|---|---|
+| Estado de Derecho | Constitución y ley someten a los poderes públicos; hay control judicial y responsabilidad. | Estado social. |
+| Estado democrático | La soberanía reside en el pueblo y se articula mediante participación y representación. | Monarquía parlamentaria, que es la forma política. |
+| Estado social | Los poderes públicos promueven condiciones para una libertad e igualdad reales. | Igualdad formal del artículo 14. |
+| Monarquía parlamentaria | Es la forma política del Estado; el Rey es jefe del Estado y sus actos se someten a refrendo cuando procede. | Soberanía, que reside en el pueblo. |
+
+El <mark>artículo 9.2</mark> concreta la dimensión social: los poderes públicos deben promover las condiciones para que libertad e igualdad sean reales y efectivas, remover obstáculos y facilitar la participación en la vida política, económica, cultural y social.
+
+El <mark>artículo 9.3</mark> garantiza: **legalidad, jerarquía normativa, publicidad de las normas, irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad**.
+
+**Error típico:** el artículo 9.3 no prohíbe toda retroactividad. La prohibición constitucional se refiere a las disposiciones sancionadoras no favorables y a las restrictivas de derechos individuales.
+
+Otros datos de alta frecuencia del Título preliminar:
 
 | Artículo | Materia | Clave |
-|---|---|---|
-| <mark>Artículo 1</mark> | Estado social y democratico de Derecho, soberania nacional y monarquía parlamentaria | Fórmula básica del sistema. |
-| <mark>Artículo 2</mark> | Unidad de la Nación española y autonomía | Base del Estado autonómico. |
-| <mark>Artículo 3</mark> | Castellano y demás lenguas espanolas | Deber de conocer el castellano y derecho a usarlo. |
-| <mark>Artículo 4</mark> | Bandera de España y banderas autonómicas | Simbolos constitucionales. |
-| <mark>Artículo 5</mark> | Capital del Estado | Villa de Madrid. |
-| <mark>Artículo 6</mark> | Partidos políticos | Pluralismo político. |
-| <mark>Artículo 7</mark> | Sindicatos y asociaciones empresariales | Intereses económicos y sociales. |
-| <mark>Artículo 8</mark> | Fuerzas Armadas | Soberania, independencia, integridad territorial y ordenamiento constitucional. |
-| <mark>Artículo 9</mark> | Sujeción a la Constitución, igualdad real y principios jurídicos | Legalidad, seguridad jurídica e interdicción de la arbitrariedad. |
+|---:|---|---|
+| 2 | Unidad, autonomía y solidaridad | La unidad de la Nación española se combina con la autonomía y la solidaridad. |
+| 3 | Lenguas | El castellano es la lengua oficial del Estado; existe deber de conocerlo y derecho a usarlo. |
+| 4-5 | Bandera y capital | La capital del Estado es la villa de Madrid. |
+| 6-7 | Partidos, sindicatos y asociaciones empresariales | Expresan pluralismo o defienden intereses económicos y sociales, según el caso. |
+| 8 | Fuerzas Armadas | Garantizan soberanía, independencia, integridad territorial y ordenamiento constitucional. |
 
-La estructura de los títulos es la siguiente:
+### 3.2. Igualdad formal e igualdad material
 
-| Título | Artículos | Materia |
-|---|---:|---|
-| Título I | 10 a 55 | Derechos y deberes fundamentales. |
-| Título II | 56 a 65 | La Corona. |
-| Título III | 66 a 96 | Las Cortes Generales. |
-| Título IV | 97 a 107 | Gobierno y Administración. |
-| Título V | 108 a 116 | Relaciones entre Gobierno y Cortes Generales. |
-| Título VI | 117 a 127 | Poder Judicial. |
-| Título VII | 128 a 136 | Economia y Hacienda. |
-| Título VIII | 137 a 158 | Organización territorial del Estado. |
-| Título IX | 159 a 165 | Tribunal Constitucional. |
-| Título X | 166 a 169 | Reforma constitucional. |
+El <mark>artículo 14</mark> proclama la igualdad de los españoles ante la ley y prohíbe la discriminación por nacimiento, raza, sexo, religión, opinión o cualquier otra condición o circunstancia personal o social. Es igualdad **formal**.
 
-**Regla mental:** el Título I: protege derechos; los Títulos II a IX: organizan instituciones; el Título X: explica como se reforma la Constitución.
+El <mark>artículo 9.2</mark> impone a los poderes públicos una actuación positiva para conseguir igualdad **real y efectiva**. En test, artículo 14 y artículo 9.2 se complementan: uno prohíbe diferencias discriminatorias y el otro ordena remover obstáculos.
 
-## Reforma constitucional que puede aparecer en test
+## 4. Derechos y deberes fundamentales
 
-Aunque el programa de este tema se centra en estructura, principios, derechos, garantias y suspensión, algunas preguntas de test aprovechan la estructura constitucional para preguntar por la reforma. Conviene memorizar los dos procedimientos:
+### 4.1. Artículo 10 y capítulos I y II
 
-| Procedimiento | Artículo | Cuando se usa | Mayorías y referéndum |
+El <mark>artículo 10.1</mark> sitúa la dignidad de la persona, los derechos inviolables inherentes, el libre desarrollo de la personalidad, el respeto a la ley y los derechos de los demás como fundamento del orden político y de la paz social. El artículo 10.2 ordena interpretar los derechos conforme a la Declaración Universal de Derechos Humanos y a los tratados internacionales ratificados por España.
+
+El capítulo I regula la nacionalidad (artículo 11), la mayoría de edad a los 18 años (artículo 12) y los derechos de los extranjeros (artículo 13). Los extranjeros gozan de las libertades públicas en los términos de los tratados y la ley; los derechos del artículo 23 corresponden, con la excepción constitucional de las elecciones municipales por reciprocidad, a los españoles.
+
+### 4.2. Derechos de la sección primera: artículos 15 a 29
+
+Son los derechos fundamentales y libertades públicas con protección reforzada. Conviene asociar artículo y contenido:
+
+| Artículo | Derecho o libertad | Trampa habitual |
+|---:|---|---|
+| 15 | Vida e integridad física y moral | Prohibición de tortura y tratos inhumanos o degradantes. |
+| 16 | Libertad ideológica, religiosa y de culto | Nadie puede ser obligado a declarar sobre sus creencias. |
+| 17 | Libertad y seguridad | Detención preventiva: máximo de <mark>72 horas</mark>. |
+| 18 | Honor, intimidad, propia imagen, domicilio y comunicaciones | Domicilio y comunicaciones tienen garantías distintas. |
+| 19 | Residencia y circulación | Libertad de entrar y salir de España en los términos legales. |
+| 20 | Expresión, creación e información | No hay censura previa; la información debe ser veraz. |
+| 21 | Reunión | No requiere autorización; en tránsito público exige comunicación previa. |
+| 22 | Asociación | Se prohíben asociaciones secretas y paramilitares. |
+| 23 | Participación política y acceso a funciones públicas | Igualdad conforme a requisitos legales. |
+| 24 | Tutela judicial efectiva | Incluye defensa, asistencia letrada y proceso con garantías. |
+| 25 | Legalidad penal y sancionadora | Nadie puede ser sancionado por hechos que no fueran infracción al cometerse. |
+| 26 | Tribunales de honor | Prohibidos en el ámbito de la Administración civil y de las organizaciones profesionales. |
+| 27 | Educación y libertad de enseñanza | Derecho a la educación y objeto constitucional de la educación. |
+| 28 | Sindicación y huelga | La ley puede limitar la huelga de fuerzas o cuerpos sometidos a disciplina militar. |
+| 29 | Petición | Puede ejercerse individual y colectivamente, salvo miembros de institutos armados o cuerpos sometidos a disciplina militar, que solo pueden hacerlo individualmente. |
+
+### 4.3. Sección segunda y principios rectores
+
+Los artículos 30 a 38 reúnen deberes y derechos como defender España, contribuir al sostenimiento de los gastos públicos según capacidad económica, matrimonio, propiedad y herencia, fundación, trabajo, negociación colectiva y libertad de empresa. No deben confundirse con los derechos de la sección primera: su protección constitucional es distinta.
+
+Los artículos 39 a 52 contienen principios rectores sobre familia, Seguridad Social, salud, cultura, medio ambiente, vivienda, consumidores, juventud, personas mayores, discapacidad y otros ámbitos. Orientan la legislación positiva, la práctica judicial y la actuación de los poderes públicos, pero solo pueden alegarse ante la jurisdicción ordinaria conforme a las leyes que los desarrollen.
+
+## 5. Garantía de los derechos: artículo 53 y Defensor del Pueblo
+
+El artículo 53 permite ordenar la protección en tres niveles:
+
+| Ámbito | Garantía |
+|---|---|
+| Capítulo II completo (14-38) | Vinculación de todos los poderes públicos, reserva de ley y respeto al contenido esencial. |
+| Artículo 14 y sección primera del capítulo II (15-29) | Tutela ante tribunales mediante procedimiento basado en preferencia y sumariedad, además de recurso de amparo. |
+| Capítulo III (39-52) | Informan la legislación, la práctica judicial y la actuación pública; alegación según leyes de desarrollo. |
+
+El desarrollo de los derechos fundamentales y libertades públicas requiere <mark>ley orgánica</mark> conforme al <mark>artículo 81</mark>. La aprobación, modificación o derogación de una ley orgánica exige <mark>mayoría absoluta del Congreso</mark> en una votación final sobre el conjunto. La ley orgánica no puede regular cualquier materia por decisión libre del legislador: la reserva debe estar prevista constitucionalmente.
+
+El <mark>recurso de amparo</mark> se interpone ante el Tribunal Constitucional y protege el artículo 14, los derechos de la sección primera del capítulo II del Título I y la objeción de conciencia del artículo 30.2, en los casos y forma previstos legalmente. Es subsidiario: normalmente exige haber agotado la vía judicial previa y haber invocado la lesión cuando proceda.
+
+El <mark>Defensor del Pueblo</mark> es el alto comisionado de las Cortes Generales para la defensa de los derechos del Título I; supervisa la actividad de la Administración y da cuenta a las Cortes. Puede interponer recurso de inconstitucionalidad y recurso de amparo en los términos constitucionales y legales. **No sustituye a los jueces ni anula actos administrativos.**
+
+## 6. Suspensión de derechos y libertades
+
+### 6.1. Suspensión general: artículo 55.1
+
+En los estados de **excepción o de sitio**, pueden suspenderse, en los términos previstos en la Constitución, los derechos reconocidos en:
+
+<mark>artículo 17; artículo 18.2 y 18.3; artículo 19; artículo 20.1.a y d y 20.5; artículo 21; artículo 28.2; y artículo 37.2.</mark>
+
+La lista debe aprenderse completa: incluye libertad y seguridad; inviolabilidad del domicilio; secreto de las comunicaciones; circulación y residencia; expresión e información en los apartados indicados y secuestro de publicaciones; reunión; huelga; y adopción de medidas de conflicto colectivo. **No incluye todo el artículo 20 ni todo el artículo 18.**
+
+### 6.2. Suspensión individual: artículo 55.2
+
+Una ley orgánica puede determinar la forma y los casos en que, individualmente y con la necesaria intervención judicial y el adecuado control parlamentario, se suspendan para personas determinadas, en relación con investigaciones correspondientes a la actuación de bandas armadas o elementos terroristas, los derechos de los <mark>artículos 17.2, 18.2 y 18.3</mark>. El uso injustificado o abusivo de estas facultades genera responsabilidad penal como violación de los derechos y libertades reconocidos por las leyes.
+
+| Modalidad | Presupuesto | Derechos | Control |
 |---|---|---|---|
-| Ordinario | <mark>Artículo 167 CE</mark> | Reforma que no afecta a las materias especialmente protegidas del <mark>artículo 168</mark>. | Aprobación por <mark>tres quintos</mark> de cada Cámara. Si no hay acuerdo, puede intentarse una comisión mixta y, en ciertos casos, aprobarse por <mark>dos tercios</mark> del Congreso y <mark>mayoría absoluta</mark> del Senado. El referéndum solo se celebra si lo solicita una décima parte de cualquiera de las Cámaras dentro de los <mark>quince días</mark> siguientes a la aprobación. |
-| Agravado | <mark>Artículo 168 CE</mark> | Revisión total o parcial que afecte al Título preliminar, al Capítulo II, sección 1ª, del Título I, o al Título II. | Aprobación inicial por <mark>dos tercios</mark> de cada Cámara, disolución inmediata de las Cortes, ratificación por las nuevas Cámaras, nueva aprobación por <mark>dos tercios</mark> de cada Cámara y referéndum obligatorio. |
+| General | Estado de excepción o sitio | Lista tasada del artículo 55.1 | Constitución, ley orgánica y controles propios del estado declarado. |
+| Individual | Bandas armadas o elementos terroristas | 17.2, 18.2 y 18.3 | Intervención judicial y control parlamentario. |
 
-**Cuidado en test:** si la reforma afecta a derechos fundamentales de la sección primera del capítulo II del Título I, no basta el procedimiento ordinario. Se aplica el procedimiento agravado del <mark>artículo 168</mark>.
+**Caso de test:** una autoridad no puede suspender por su cuenta un derecho alegando emergencia. La suspensión exige el supuesto constitucional correspondiente y las garantías establecidas.
 
-## Principios constitucionales del título preliminar
+## 7. Reforma constitucional: conexión de estructura
 
-El <mark>artículo 1.1</mark> proclama que España se constituye en un Estado social y democratico de Derecho. Esta fórmula concentra tres ideas que deben diferenciarse bien:
+La iniciativa de reforma corresponde en los términos del <mark>artículo 166</mark>; la iniciativa legislativa popular no puede ejercerse para reformar la Constitución. Hay dos procedimientos:
 
-| Elemento | Significado | Consecuencia práctica |
+| Procedimiento | Supuesto | Tramitación esencial |
 |---|---|---|
-| Estado de Derecho | El poder público está sometido a la Constitución y a la ley. | Legalidad, control judicial, responsabilidad y prohibición de arbitrariedad. |
-| Estado democratico | La legitimidad deriva del pueblo. | Sufragio universal, elecciones periodicas, pluralismo político y representación. |
-| Estado social | Los poderes públicos deben hacer posible la igualdad real. | Politicas públicas, servicios, protección social y remoción de obstáculos. |
+| Ordinario, artículo 167 | Reformas no incluidas en el artículo 168 | Tres quintos de cada Cámara; si persiste el desacuerdo, comisión mixta y reglas subsidiarias de dos tercios del Congreso y mayoría absoluta del Senado. Referéndum solo si lo solicita una décima parte de una Cámara dentro de 15 días. |
+| Agravado, artículo 168 | Revisión total o reforma del Título preliminar, sección 1.ª del capítulo II del Título I o Título II | Dos tercios de cada Cámara, disolución, nuevas Cámaras, ratificación y nueva aprobación por dos tercios; referéndum obligatorio. |
 
-El <mark>artículo 9.2</mark> es la pieza social del sistema. Obliga a los poderes públicos a:
+El <mark>artículo 169</mark> prohíbe iniciar la reforma constitucional en tiempo de guerra o durante la vigencia de alguno de los estados previstos en el artículo 116.
 
-1. Promover las condiciones para que la libertad y la igualdad sean reales y efectivas.
-2. Remover los obstáculos que impidan o dificulten su plenitud.
-3. Facilitar la participación de todos los ciudadanos en la vida política, económica, cultural y social.
+## 8. Esquema final y errores típicos
 
-Los demás principios del título preliminar se estudian así:
-
-| Artículo | Principio | Cómo recordarlo |
-|---|---|---|
-| <mark>Artículo 1.2</mark> | Soberania nacional | Reside en el pueblo español, del que emanan los poderes del Estado. |
-| <mark>Artículo 1.3</mark> | Monarquia parlamentaria | El Rey es Jefe del Estado, pero no dirige la política. |
-| <mark>Artículo 2</mark> | Unidad y autonomía | Unidad de la Nación española + autonomía de nacionalidades y regiones. |
-| <mark>Artículo 3</mark> | Lenguas | Castellano oficial del Estado; demás lenguas oficiales según Estatutos. |
-| <mark>Artículo 6</mark> | Partidos políticos | Expresan el pluralismo político. |
-| <mark>Artículo 7</mark> | Sindicatos y asociaciones empresariales | Defienden intereses económicos y sociales. |
-| <mark>Artículo 8</mark> | Fuerzas Armadas | Garantizan soberania, independencia, integridad territorial y orden constitucional. |
-
-El <mark>artículo 9.3</mark> contiene una lista clasica de preguntas de test:
-
-- Principio de legalidad.
-- Jerarquia normativa.
-- Publicidad de las normas.
-- Irretroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
-- Seguridad jurídica.
-- Responsabilidad de los poderes públicos.
-- Interdicción de la arbitrariedad de los poderes públicos.
-
-**Cuidado en test:** la Constitución garantiza la irretroactividad de las disposiciones sancionadoras no favorables o restrictivas de derechos individuales; no prohibe toda retroactividad en abstracto.
-
-## Valores superiores del ordenamiento jurídico
-
-El <mark>artículo 1.1</mark> establece cuatro valores superiores: libertad, justicia, igualdad y pluralismo político.
-
-| Valor superior | Contenido | Conexion habitual |
-|---|---|---|
-| Libertad | Presupuesto del sistema democratico y de los derechos fundamentales. | Libertad ideologica, religiosa, expresión, información, reunion, asociación y circulación. |
-| Justicia | Ordenamiento razonable, no arbitrario y respetuoso con los derechos. | Tutela judicial efectiva e independencia judicial. |
-| Igualdad | Igualdad formal ante la ley e igualdad material. | <mark>Artículo 14</mark> y <mark>artículo 9.2</mark>. |
-| Pluralismo político | Diversidad ideologica y posibilidad de alternancia. | Partidos políticos, elecciones y participación. |
-
-La igualdad debe estudiarse en dos planos:
-
-- **Igualdad formal:** <mark>artículo 14</mark>. Los españoles son iguales ante la ley, sin discriminación por nacimiento, raza, sexo, religion, opinion o cualquier otra condición o circunstancia personal o social.
-- **Igualdad material:** <mark>artículo 9.2</mark>. Los poderes públicos deben remover obstáculos para que libertad e igualdad sean reales y efectivas.
-
-**Frase de examen:** los valores superiores no son simples adornos del preambulo; forman parte del <mark>artículo 1.1</mark> y orientan la interpretación de todo el ordenamiento jurídico.
-
-## Derechos y deberes fundamentales
-
-El título I comienza con el <mark>artículo 10</mark>, que sitúa la dignidad de la persona como fundamento del orden político y de la paz social. Este artículo conecta con:
-
-- Los derechos inviolables inherentes a la persona.
-- El libre desarrollo de la personalidad.
-- El respeto a la ley.
-- El respeto a los derechos de los demás.
-
-La estructura interna del Título I es fundamental:
-
-| Parte del Título I | Artículos | Contenido |
-|---|---:|---|
-| <mark>Artículo 10</mark> | 10 | Dignidad de la persona y fundamento del orden político. |
-| Capitulo I | 11 a 13 | Nacionalidad, mayoría de edad y extranjeros. |
-| <mark>Artículo 14</mark> | 14 | Igualdad ante la ley. |
-| Capitulo II, sección primera | 15 a 29 | Derechos fundamentales y libertades públicas. |
-| Capitulo II, sección segunda | 30 a 38 | Derechos y deberes de los ciudadanos. |
-| Capitulo III | 39 a 52 | Principios rectores de la política social y económica. |
-| Capitulo IV | 53 a 54 | Garantías de las libertades y derechos fundamentales. |
-| Capitulo V | 55 | Suspensión de derechos y libertades. |
-
-La sección primera, <mark>artículos 15 a 29</mark>, es la zona de máxima protección. Incluye, entre otros:
-
-- Derecho a la vida y a la integridad física y moral.
-- Libertad ideologica, religiosa y de culto.
-- Libertad y seguridad.
-- Honor, intimidad, propia imagen, inviolabilidad del domicilio y secreto de comunicaciones.
-- Libertad de residencia y circulación.
-- Libertad de expresión e información.
-- Reunion y asociación.
-- Participación política.
-- Tutela judicial efectiva.
-- Legalidad penal.
-- Educación.
-- Sindicación y huelga.
-- Petición.
-
-La sección segunda, <mark>artículos 30 a 38</mark>, incluye derechos y deberes de los ciudadanos:
-
-- Deber de defender España.
-- Principios tributarios.
-- Derecho al matrimonio.
-- Propiedad privada y herencia.
-- Derecho de fundación.
-- Derecho al trabajo y a la libre elección de profesión u oficio.
-- Negociación colectiva.
-- Libertad de empresa.
-
-Los principios rectores del capítulo III: no tienen la misma protección directa que los derechos fundamentales, pero orientan la legislación, la práctica judicial y la actuación de los poderes públicos. Incluyen familia, Seguridad Social, salud, cultura, medio ambiente, vivienda, consumidores, juventud, personas mayores y personas con discapacidad.
-
-## Garantías de los derechos
-
-El <mark>artículo 53</mark> establece tres niveles de protección:
-
-| Derechos o principios | Protección | Clave de examen |
-|---|---|---|
-| Capitulo II | Vinculan a todos los poderes públicos y se regulan por ley. | La ley debe respetar el contenido esencial. |
-| <mark>Artículo 14</mark> + sección primera del capítulo II | Procedimiento preferente y sumario + recurso de amparo. | Son los de máxima protección. |
-| Capitulo III | Solo pueden alegarse según las leyes que los desarrollen. | Informan legislación, práctica judicial y actuación administrativa. |
-
-Además, el desarrollo de los derechos fundamentales y libertades públicas debe realizarse mediante ley orgánica, conforme al <mark>artículo 81</mark>. Esta garantía exige <mark>mayoría absoluta</mark> del Congreso en una votación final sobre el conjunto del proyecto.
-
-El Defensor del Pueblo, regulado en el <mark>artículo 54</mark>, es alto comisionado de las Cortes Generales para la defensa de los derechos comprendidos en el título I. Sus notas básicas son:
-
-- Supervisa la actividad de la Administración.
-- Da cuenta a las Cortes Generales.
-- Actua en defensa de los derechos del Título I.
-- Puede interponer recurso de inconstitucionalidad y recurso de amparo en los términos constitucionales y legales.
-
-El recurso de amparo se presenta ante el Tribunal Constitucional. Protege frente a vulneraciones de los derechos del <mark>artículo 14</mark>, los derechos y libertades de la sección primera del capítulo II del Título I y la objeción de conciencia del <mark>artículo 30.2</mark>. No cubre directamente todos los derechos constitucionales; por ejemplo, los principios rectores del capítulo III no son objeto directo de amparo.
-
-| Garantía | Órgano o vía | Derechos afectados |
-|---|---|---|
-| Procedimiento preferente y sumario | Tribunales ordinarios | <mark>Artículo 14</mark> y sección primera del capítulo II. |
-| Recurso de amparo | Tribunal Constitucional | <mark>Artículo 14</mark>, sección primera del capítulo II y <mark>art. 30.2 CE</mark>. |
-| Recurso de inconstitucionalidad | Tribunal Constitucional | Control de leyes y normas con fuerza de ley. |
-
-## Suspensión de derechos
-
-El <mark>artículo 55</mark> distingue dos tipos de suspensión:
-
-| Tipo | Cuando procede | Garantías |
-|---|---|---|
-| Suspensión general | Estados de excepción o de sitio. | Debe seguir la Constitución y la ley orgánica correspondiente. |
-| Suspensión individual | Investigaciones sobre bandas armadas o elementos terroristas. | Ley orgánica, intervención judicial y control parlamentario. |
-
-En la suspensión general pueden suspenderse determinados derechos, como algunos aspectos de:
-
-- Libertad personal.
-- Inviolabilidad del domicilio.
-- Secreto de las comunicaciones.
-- Libertad de circulación.
-- Libertad de expresión e información.
-- Reunion.
-- Huelga.
-- Adopción de medidas de conflicto colectivo.
-
-En la suspensión individual, la Constitución advierte que la utilización injustificada o abusiva de esas facultades produce responsabilidad penal.
-
-**Idea final:** la suspensión de derechos no significa desaparición del Estado de Derecho. Incluso en situaciones excepcionales, la actuación pública queda sometida a legalidad, proporcionalidad, control judicial y responsabilidad.
-
-## Esquema rápido y errores típicos de test
-
-1. **Artículos 1 a 9:** bases del sistema: Estado social y democrático de Derecho, soberanía nacional, monarquía parlamentaria, unidad y autonomía, lengua, símbolos, partidos, sindicatos, Fuerzas Armadas y principios jurídicos.
-2. **Artículo 10:** dignidad y derechos inviolables como fundamento del orden político y de la paz social.
-3. **Artículo 14 + artículos 15 a 29:** bloque con protección reforzada: vinculación de los poderes públicos, reserva de ley, procedimiento preferente y sumario y recurso de amparo.
-4. **Artículos 30 a 38:** derechos y deberes de los ciudadanos; no todos tienen acceso al amparo constitucional.
-5. **Artículos 39 a 52:** principios rectores; informan la actuación pública, pero solo pueden alegarse según las leyes que los desarrollen.
-6. **Artículos 53 a 55:** garantías y suspensión.
+1. **1-9:** Estado social y democrático de Derecho, valores superiores, soberanía, autonomía y principios jurídicos.
+2. **10-14:** dignidad, nacionalidad, mayoría de edad, extranjería e igualdad.
+3. **15-29:** derechos fundamentales y libertades públicas; detención máxima de 72 horas.
+4. **30-38:** derechos y deberes de los ciudadanos.
+5. **39-52:** principios rectores, sin amparo directo.
+6. **53-54:** garantías, amparo y Defensor del Pueblo.
+7. **55:** suspensión general tasada e individual excepcional.
+8. **166-169:** reforma y límites temporales.
 
 ### Para recordar
 
-- El **recurso de amparo** protege el artículo 14, la sección primera del capítulo II del título I y la objeción de conciencia del artículo 30.2; no protege directamente la propiedad privada ni los principios rectores.
-- El artículo 9.3 no establece una prohibición absoluta de retroactividad: prohíbe la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
-- Las reuniones y manifestaciones del artículo 21 no necesitan autorización previa; cuando se celebran en lugares de tránsito público deben comunicarse previamente.
-- En el artículo 55.1 se suspenden derechos en estados de excepción o de sitio; la suspensión individual del artículo 55.2 exige los supuestos y garantías previstos legalmente.
+- **Artículo 14 + 15-29 + 30.2:** bloque protegido por amparo.
+- **Artículo 53.1:** reserva de ley y contenido esencial para el capítulo II.
+- **Artículo 53.3:** principios rectores no equivalen a derechos fundamentales directamente amparables.
+- **Artículo 55.1:** memorizar la lista de artículos y apartados, no una descripción genérica.
+- **Artículo 167:** referéndum facultativo; **artículo 168:** referéndum obligatorio.
 
-### Diferencias que suelen confundirse
+### Errores típicos de test
 
-| Figura | Clave |
+| Afirmación incorrecta | Corrección |
 |---|---|
-| Procedimiento preferente y sumario | Protección ante los tribunales ordinarios. |
-| Recurso de amparo | Protección ante el Tribunal Constitucional de un conjunto limitado de derechos. |
-| Recurso de inconstitucionalidad | Control abstracto de leyes y normas con fuerza de ley; no es una vía individual ordinaria de reparación. |
-| Suspensión | Limitación excepcional y temporal del ejercicio de determinados derechos; no elimina la Constitución ni el control de los poderes públicos. |
+| El Título I empieza en el artículo 1. | Empieza en el artículo 10; los artículos 1-9 forman el Título preliminar. |
+| Toda igualdad constitucional está en el artículo 14. | El artículo 9.2 exige igualdad real y efectiva; el 14 proclama igualdad ante la ley. |
+| Los principios rectores pueden recurrirse directamente en amparo. | Se alegan conforme a sus leyes de desarrollo y no integran por sí solos el amparo del artículo 53.2. |
+| El estado de excepción permite suspender cualquier derecho. | Solo pueden suspenderse los derechos y apartados enumerados en el artículo 55.1. |
+| La reforma del artículo 167 siempre va a referéndum. | Solo si lo solicita una décima parte de una Cámara dentro del plazo constitucional. |
