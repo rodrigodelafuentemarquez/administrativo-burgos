@@ -644,5 +644,125 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-i08-deep-01",
+    "tema": 8,
+    "pregunta": "Según el artículo 15 TUE, ¿quién participa en los trabajos del Consejo Europeo sin formar parte de la composición enumerada en ese artículo?",
+    "opciones": [
+      "El Alto Representante de la Unión para Asuntos Exteriores y Política de Seguridad",
+      "El Presidente del Tribunal de Justicia",
+      "El Presidente del Parlamento Europeo con derecho de voto",
+      "El Secretario General del Consejo de Europa"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Consejo Europeo",
+    "explicación": "El Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comisión. El Alto Representante participa en sus trabajos, pero no integra esa composición.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-02",
+    "tema": 8,
+    "pregunta": "Salvo la formación de Asuntos Exteriores, ¿cómo se organiza la presidencia de las formaciones del Consejo de la Unión Europea?",
+    "opciones": [
+      "Por grupos predeterminados de tres Estados, con turnos semestrales durante un período conjunto de dieciocho meses",
+      "Por elección del Parlamento Europeo para un mandato de cinco años",
+      "Siempre por el Alto Representante durante dos años y medio",
+      "Por rotación mensual entre todos los órganos consultivos"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Consejo de la Unión Europea",
+    "explicación": "La presidencia ordinaria se ejerce mediante grupos predeterminados de tres Estados durante dieciocho meses, con un turno de seis meses para cada Estado. Asuntos Exteriores constituye la excepción y la preside el Alto Representante.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-03",
+    "tema": 8,
+    "pregunta": "En la regla ordinaria de mayoría cualificada del Consejo, la minoría de bloqueo debe incluir como mínimo:",
+    "opciones": [
+      "Cuatro miembros del Consejo",
+      "Tres miembros del Consejo",
+      "La mitad de los Estados miembros",
+      "Todos los Estados que no hayan votado a favor"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Consejo de la Unión Europea",
+    "explicación": "La doble mayoría ordinaria exige el 55 % de los Estados, que representen el 65 % de la población. La minoría de bloqueo debe estar formada por al menos cuatro miembros; de lo contrario, se considera alcanzada la mayoría cualificada.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-04",
+    "tema": 8,
+    "pregunta": "¿Quién elige al Presidente de la Comisión Europea?",
+    "opciones": [
+      "El Parlamento Europeo, a propuesta del Consejo Europeo",
+      "El Consejo de la Unión Europea, a propuesta del TJUE",
+      "La Comisión Europea por unanimidad",
+      "Los Parlamentos nacionales mediante sufragio directo"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Comisión Europea",
+    "explicación": "El Consejo Europeo propone al candidato teniendo en cuenta las elecciones europeas y el Parlamento Europeo lo elige por mayoría de sus miembros.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-05",
+    "tema": 8,
+    "pregunta": "Un órgano jurisdiccional nacional de última instancia que tiene una duda relevante sobre la interpretación del Derecho de la Unión:",
+    "opciones": [
+      "Debe plantear cuestión prejudicial, salvo que concurra una excepción reconocida por la jurisprudencia",
+      "Debe dirigirse siempre al Consejo Europeo",
+      "Puede anular directamente el Tratado aplicable",
+      "Solo puede consultar a la Comisión Europea"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Tribunal de Justicia de la Unión Europea",
+    "explicación": "El artículo 267 TFUE distingue entre la facultad de los órganos no supremos y la obligación de plantear la cuestión para los órganos cuyas decisiones no sean susceptibles de recurso judicial interno, con las excepciones jurisprudenciales aplicables.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-06",
+    "tema": 8,
+    "pregunta": "¿Cuál de los siguientes actos de la Unión Europea no es vinculante según el artículo 288 TFUE?",
+    "opciones": [
+      "La recomendación",
+      "La decisión dirigida a un Estado miembro",
+      "La directiva dirigida a un Estado miembro",
+      "El reglamento"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Actos jurídicos de la Unión",
+    "explicación": "Las recomendaciones y los dictámenes no tienen fuerza vinculante. Reglamento, directiva y decisión sí son actos vinculantes, con efectos distintos.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-07",
+    "tema": 8,
+    "pregunta": "La protección de los consumidores pertenece, con carácter general, a las competencias:",
+    "opciones": [
+      "Compartidas entre la Unión y los Estados miembros",
+      "Exclusivas de la Unión",
+      "De apoyo, sin posibilidad de actuación legislativa europea",
+      "Reservadas al Consejo Europeo"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Tipos de competencias de la Unión",
+    "explicación": "El artículo 4 TFUE incluye la protección de los consumidores entre las competencias compartidas.",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-i08-deep-08",
+    "tema": 8,
+    "pregunta": "Según el artículo 13 TUE, el Comité de las Regiones y el Comité Económico y Social Europeo son:",
+    "opciones": [
+      "Órganos consultivos que asisten al Parlamento Europeo, al Consejo y a la Comisión",
+      "Dos de las siete instituciones de la Unión",
+      "Órganos jurisdiccionales integrados en el TJUE",
+      "Formaciones especializadas del Consejo"
+    ],
+    "correcta": 0,
+    "referencia": "Tema I.8 · Sistema institucional de la Unión",
+    "explicación": "El artículo 13.4 TUE configura ambos como órganos consultivos que asisten al Parlamento, al Consejo y a la Comisión; no son instituciones del listado de siete.",
+    "tags": ["Revisión profunda"]
   }
 ]

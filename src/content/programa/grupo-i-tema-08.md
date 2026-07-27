@@ -3,7 +3,7 @@ grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidade
 tema: 8
 codigo: "Tema I.8"
 titulo: "La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea."
-estado: "borrador"
+estado: "revisado"
 ---
 
 ## Normativa de referencia
@@ -14,7 +14,7 @@ El programa se centra en la Unión Europea y en cinco instituciones: Consejo Eur
 
 ## Naturaleza de la Unión Europea
 
-La Unión Europea es una organización de integración formada por Estados miembros que atribuyen competencias a instituciones comunes para alcanzar objetivos compartidos. No es un Estado federal, pero tampoco una organización internacional ordinaria. Su Derecho tiene rasgos propios, como primacia, efecto directo en determinados casos, aplicación uniforme y control jurisdiccional por el Tribunal de Justicia.
+La Unión Europea es una organización de integración formada por Estados miembros que atribuyen el ejercicio de determinadas competencias a instituciones comunes para alcanzar objetivos compartidos. No es un Estado federal, pero tampoco una organización internacional ordinaria. Su Derecho tiene rasgos propios, como primacía, efecto directo en determinados casos, aplicación uniforme y control jurisdiccional por el Tribunal de Justicia.
 
 La Unión se fundamenta en valores como respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los derechos de las personas pertenecientes a minorias. Estos valores son comunes a los Estados miembros y tienen relevancia política y jurídica.
 
@@ -67,7 +67,7 @@ La Unión dispone de un marco institucional destinado a promover sus valores, pe
 
 Las instituciones principales son Parlamento Europeo, Consejo Europeo, Consejo, Comisión Europea, Tribunal de Justicia de la Unión Europea, Banco Central Europeo y Tribunal de Cuentas. El programa de Burgos selecciona cinco de ellas, que son las más relevantes para el equilibrio político y jurídico de la Unión.
 
-El sistema institucional europeo se basa en equilibrios. La Comisión impulsa y vela por el interés general de la Unión. El Parlamento representa a la ciudadania europea. El Consejo representa a los Gobiernos de los Estados miembros. El Consejo Europeo define orientaciones políticas generales. El Tribunal de Justicia garantiza la interpretación y aplicación uniforme del Derecho de la Unión.
+El sistema institucional europeo se basa en equilibrios. La Comisión impulsa y vela por el interés general de la Unión. El Parlamento representa a la ciudadanía europea. El Consejo representa a los Gobiernos de los Estados miembros. El Consejo Europeo define orientaciones políticas generales. El Tribunal de Justicia garantiza la interpretación y aplicación uniforme del Derecho de la Unión.
 
 | Institución | A quien representa o que asegura |
 |---|---|
@@ -94,7 +94,7 @@ Su función principal es dar a la Unión los impulsos necesarios para su desarro
 
 El Consejo Europeo es clave en grandes decisiones políticas: prioridades estrategicas, ampliaciones, respuestas a crisis, orientaciones económicas generales, política exterior, reformas institucionales y nombramientos relevantes.
 
-El Presidente del Consejo Europeo es elegido por el propio Consejo Europeo por <mark>mayoría cualificada</mark> para un mandato de <mark>dos años</mark> y medio, renovable una vez. No puede ejercer mandato nacional. Su función consiste en presidir e impulsar los trabajos del Consejo Europeo, velar por su preparación y continuidad, facilitar cohesión y consenso, y presentar informe al Parlamento Europeo tras cada reunion.
+El Presidente del Consejo Europeo es elegido por el propio Consejo Europeo por <mark>mayoría cualificada</mark> para un mandato de <mark>dos años</mark> y medio, renovable una vez. No puede ejercer mandato nacional. Su función consiste en presidir e impulsar los trabajos del Consejo Europeo, velar por su preparación y continuidad, facilitar cohesión y consenso, y presentar informe al Parlamento Europeo tras cada reunión. El Alto Representante participa en sus trabajos, pero no forma parte de la composición que enumera el <mark>artículo 15 TUE</mark>.
 
 Las decisiones del Consejo Europeo suelen adoptarse por consenso, salvo que los Tratados dispongan otra cosa. Esta regla refleja su naturaleza política y la importancia de los Estados miembros en las grandes orientaciones de la Unión.
 
@@ -116,7 +116,7 @@ El Consejo ejerce, junto con el Parlamento Europeo, la función legislativa y pr
 
 La presidencia de las formaciones del Consejo, salvo Asuntos Exteriores, se ejerce por grupos predeterminados de tres Estados miembros durante períodos de dieciocho meses, con turnos semestrales. La formación de Asuntos Exteriores es presidida por el Alto Representante.
 
-El Consejo adopta decisiones por <mark>mayoría cualificada</mark> como regla general, salvo materias que exigen unanimidad o <mark>mayoría simple</mark>. La <mark>mayoría cualificada</mark> combina número de Estados y porcentaje de población, lo que busca equilibrar igualdad entre Estados y peso demografico.
+El Consejo adopta decisiones por <mark>mayoría cualificada</mark> como regla general, salvo materias que exigen unanimidad o <mark>mayoría simple</mark>. La <mark>mayoría cualificada</mark> combina número de Estados y porcentaje de población, lo que busca equilibrar igualdad entre Estados y peso demográfico.
 
 Desde el sistema vigente, la <mark>mayoría cualificada</mark> ordinaria del Consejo exige al menos el 55% de los miembros del Consejo, que incluya como mínimo a quince Estados miembros, y que representen al menos el 65% de la población de la Unión. La minoría de bloqueo debe incluir al menos cuatro miembros del Consejo; si no, se considera alcanzada la <mark>mayoría cualificada</mark>.
 
@@ -137,11 +137,11 @@ El Comité de Representantes Permanentes, COREPER, prepara los trabajos del Cons
 
 ## El Parlamento Europeo
 
-El Parlamento Europeo representa directamente a los ciudadanos de la Unión. Sus miembros son elegidos por sufragio universal directo, libre y secreto para un mandato de <mark>cinco años</mark>.
+El Parlamento Europeo representa directamente a los ciudadanos de la Unión. Sus miembros son elegidos por sufragio universal directo, libre y secreto para un mandato de <mark>cinco años</mark>. La representación es decrecientemente proporcional, con un mínimo de seis y un máximo de noventa y seis diputados por Estado; el número total de escaños se fija para cada legislatura, por lo que no conviene memorizar una cifra como si fuera invariable.
 
 El Parlamento comparte con el Consejo la función legislativa y presupuestaria. En el procedimiento legislativo ordinario, Parlamento y Consejo actuan como colegisladores sobre propuestas de la Comisión. Esto significa que una norma europea ordinaria requiere participación de ambas instituciones.
 
-El Parlamento ejerce también funciones de control político. Elige al Presidente de la Comisión, aprueba al conjunto de la Comisión, puede formular preguntas, crear comisiones de investigación, debatir informes y aprobar una moción de censura contra la Comisión. Si prospera una moción de censura, los miembros de la Comisión deben dimitir colectivamente.
+El Parlamento ejerce también funciones de control político. Elige al Presidente de la Comisión a propuesta del Consejo Europeo, aprueba al conjunto de la Comisión, puede formular preguntas, crear comisiones de investigación, debatir informes y aprobar una moción de censura contra la Comisión. Si prospera una moción de censura, los miembros de la Comisión deben dimitir colectivamente.
 
 En materia presupuestaria, el Parlamento participa en la aprobación del presupuesto anual de la Unión junto con el Consejo. También controla la ejecución presupuestaria mediante el procedimiento de aprobación de la gestión.
 
@@ -159,7 +159,7 @@ El Parlamento se organiza en Presidente, Mesa, Conferencia de Presidentes, comis
 
 La Comisión Europea promueve el interés general de la Unión. Es una institución independiente de los Gobiernos nacionales. Sus miembros deben ejercer sus funciones con plena independencia y no solicitar ni aceptar instrucciones de ningún Gobierno, institución, órgano u organismo.
 
-La Comisión tiene el derecho de iniciativa legislativa en la mayoría de materias. Esto significa que, con carácter general, los actos legislativos de la Unión se adoptan a partir de una propuesta de la Comisión. Esta función le permite impulsar políticas europeas y garantizar coherencia técnica.
+La Comisión tiene el derecho de iniciativa legislativa en la mayoría de materias, aunque los Tratados prevén excepciones y el Parlamento y el Consejo pueden solicitarle propuestas. Esto significa que, con carácter general, los actos legislativos de la Unión se adoptan a partir de una propuesta de la Comisión. Esta función le permite impulsar políticas europeas y garantizar coherencia técnica.
 
 También vela por la aplicación de los Tratados y del Derecho de la Unión. Por ello se la denomina a menudo "guardiana de los Tratados". Puede iniciar procedimientos de infracción contra Estados miembros que incumplan obligaciones europeas y, en su caso, acudir al Tribunal de Justicia.
 
@@ -177,7 +177,7 @@ El Presidente de la Comisión marca orientaciones, organiza la institución, dis
 
 ## El Tribunal de Justicia de la Unión Europea
 
-El Tribunal de Justicia de la Unión Europea garantiza el respeto del Derecho en la interpretación y aplicación de los Tratados. Esta institución comprende el Tribunal de Justicia y el Tribunal General.
+El Tribunal de Justicia de la Unión Europea garantiza el respeto del Derecho en la interpretación y aplicación de los Tratados. Esta institución comprende el Tribunal de Justicia y el Tribunal General; los tribunales especializados solo existen si se crean conforme al <mark>artículo 257 TFUE</mark>, y actualmente no hay uno separado en funcionamiento.
 
 Su función es asegurar que el Derecho de la Unión se interprete y aplique de manera uniforme en todos los Estados miembros. Sin ese control jurisdiccional, el Derecho europeo podria fragmentarse en interpretaciones nacionales divergentes.
 
@@ -198,7 +198,7 @@ El recurso de anulación permite controlar la legalidad de actos de institucione
 
 ### Procedimientos que conviene memorizar
 
-1. `Cuestion prejudicial`: el juez nacional pregunta al TJUE.
+1. `Cuestión prejudicial`: el juez nacional pregunta al TJUE.
 2. `Recurso por incumplimiento`: controla infracciones de los Estados miembros.
 3. `Recurso de anulación`: combate actos ilegales de instituciones de la Unión.
 
@@ -224,7 +224,7 @@ El <mark>artículo 288 TFUE</mark> distingue reglamentos, directivas, decisiones
 | Acto | Efecto básico |
 |---|---|
 | Reglamento | Alcance general, obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro. |
-| Directiva | Obliga al Estado miembro destinatario en cuanto al resultado, dejando a las autoridades nacionales la elección de forma y medios. |
+| Directiva | Obliga al Estado miembro destinatario en cuanto al resultado, dejando a las autoridades nacionales la elección de forma y medios; normalmente requiere transposición. |
 | Decisión | Obligatoria en todos sus elementos; si designa destinatarios, solo obliga a estos. |
 | Recomendaciones y dictámenes | No son vinculantes. |
 
@@ -234,5 +234,42 @@ La Unión puede tener competencias exclusivas, compartidas o de apoyo, coordinac
 
 | Tipo | Ejemplos de test |
 |---|---|
-| Exclusiva | Unión aduanera, normas sobre competencia necesarias para el mercado interior, política monetaria de los Estados cuya moneda es el euro, conservación de recursos biologicos marinos dentro de la política pesquera común y política comercial común. |
-| Compartida | Mercado interior, política social en ciertos aspectos, cohesión económica, social y territorial, agricultura y pesca salvo conservación de recursos biologicos marinos, medio ambiente, protección de consumidores, transportes y energía. |
+| Exclusiva | Unión aduanera, normas sobre competencia necesarias para el mercado interior, política monetaria de los Estados cuya moneda es el euro, conservación de recursos biológicos marinos dentro de la política pesquera común y política comercial común. |
+| Compartida | Mercado interior, política social en ciertos aspectos, cohesión económica, social y territorial, agricultura y pesca salvo conservación de recursos biológicos marinos, medio ambiente, protección de consumidores, transportes y energía. |
+
+## Cómo resolver preguntas sobre instituciones
+
+Cuando varias respuestas mencionan órganos europeos, identifica primero **qué interés representan** y después **qué función ejercen**:
+
+1. Si fija prioridades políticas sin legislar, es el Consejo Europeo.
+2. Si reúne ministros y colegisla con el Parlamento, es el Consejo de la Unión Europea.
+3. Si representa directamente a la ciudadanía y controla políticamente a la Comisión, es el Parlamento Europeo.
+4. Si impulsa propuestas, ejecuta políticas y vigila el cumplimiento de los Tratados, es la Comisión.
+5. Si interpreta el Derecho o resuelve los procedimientos jurisdiccionales europeos, es el TJUE.
+
+### Para recordar
+
+**Consejo Europeo = dirección política; Consejo = Gobiernos y legislación; Parlamento = ciudadanos y control; Comisión = interés general e iniciativa; TJUE = Derecho y uniformidad.**
+
+## Errores típicos de test
+
+| Confusión | Regla correcta |
+|---|---|
+| Consejo Europeo y Consejo de la Unión | El primero orienta y no legisla ordinariamente; el segundo reúne ministros y comparte legislación y presupuesto con el Parlamento. |
+| Comisión y Parlamento | La Comisión propone y ejecuta; el Parlamento legisla y controla políticamente. |
+| Presidente del Consejo Europeo | Mandato de dos años y medio, renovable una vez, por mayoría cualificada; no es una presidencia rotatoria semestral. |
+| Reglamento y directiva | El reglamento es directamente aplicable; la directiva obliga al resultado y deja forma y medios nacionales. |
+| TJUE y Tribunal de Cuentas | El TJUE ejerce función jurisdiccional; el Tribunal de Cuentas audita, pero no juzga. |
+| Institución y órgano consultivo | El Comité Económico y Social y el Comité de las Regiones asisten con función consultiva; no están entre las siete instituciones del artículo 13 TUE. |
+
+## Esquema final de repaso
+
+- **Principios:** atribución + subsidiariedad + proporcionalidad.
+- **Siete instituciones del artículo 13 TUE:** Parlamento, Consejo Europeo, Consejo, Comisión, TJUE, BCE y Tribunal de Cuentas.
+- **Equilibrio institucional:** la Comisión propone; Parlamento y Consejo legislan y aprueban presupuesto; el Consejo Europeo orienta; el TJUE controla jurídicamente.
+- **Actos del artículo 288 TFUE:** reglamento (general y directamente aplicable), directiva (resultado), decisión (obligatoria), recomendación y dictamen (no vinculantes).
+- **TJUE:** incumplimiento, anulación, omisión y cuestión prejudicial.
+
+### Caso breve
+
+Un Ayuntamiento aplica un reglamento europeo directamente y duda sobre su interpretación. No debe confundir la transposición de una directiva con la aplicación de un reglamento: el reglamento no necesita una ley nacional de incorporación. Si la duda se plantea en un proceso ante un órgano jurisdiccional nacional, la cuestión prejudicial puede llevar la interpretación al TJUE.
