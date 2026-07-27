@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-iv01-deep-01` a `burgos-iv01-deep-12` sobre límites territoriales, ingresos de derecho público, contenido del artículo 16, publicidad en ayuntamientos de más de 10.000 habitantes, elevación automática, legitimación, máximo del 90 %, precio público, cuantía de tasas, reposición preceptiva, publicación íntegra y diferencia entre impugnar ordenanza y recibo. El banco pasa de 27 a 39 preguntas, con identificadores únicos, respuesta única y explicación jurídica; se actualizaron ambos índices y la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de 39 preguntas, unicidad, formato, índice y sincronización editable/pública; comprobación de siete marcas manuales equilibradas; `git diff --check`; `npm run build` correcto (101 páginas).
 - **Fuentes oficiales consultadas:** [TRLRHL consolidado en BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214&p=20260321&tn=0), [Constitución Española en BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229) y [LRBRL en BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392).
-- **Commit realizado:** pendiente de cierre tras revisar el diff y hacer commit/push en esta ejecución.
+- **Commit realizado:** `082b57a` (`mejora profunda tema IV.1 tributos locales`), subido a `origin/main`; el cierre documental se completa en el commit posterior de esta ejecución.
 - **Siguiente tema sugerido:** IV.2, presupuesto y modificaciones presupuestarias; comprobar especialmente créditos, gastos plurianuales, modificaciones y régimen local sin duplicar ejecución del gasto de IV.3.
 
 ## 27 de julio de 2026, 13:37 (Europe/Madrid)
