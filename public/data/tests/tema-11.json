@@ -95,7 +95,7 @@
   {
     "id": "t16-p004",
     "tema": 11,
-    "pregunta": "¿Qué carácter del acto administrativo reconoce el cuando la norma atribuye un margen de apreciación a la Administración?",
+    "pregunta": "¿Qué carácter tiene el acto administrativo cuando la norma atribuye un margen de apreciación a la Administración?",
     "opciones": [
       "Reglado",
       "Discrecional",
@@ -277,12 +277,12 @@
   {
     "id": "t16-p020",
     "tema": 11,
-    "pregunta": "Conforme al art. 48 LPACAP, son anulables los actos de la Administración:",
+    "pregunta": "Conforme al artículo 48 LPAC, son anulables los actos de la Administración:",
     "opciones": [
       "Contrarios al ordenamiento jurídico por los que se adquieren facultades o derechos cuando se carezca de los requisitos esenciales para su adquisición",
       "Dictados por órgano manifiestamente incompetente por razón de la materia o del territorio",
       "Dictados prescindiendo total y absolutamente del procedimiento legalmente establecido",
-      "Qué incurran en cualquier infracción del ordenamiento jurídico, incluso la desviación de poder"
+      "Que incurran en cualquier infracción del ordenamiento jurídico, incluida la desviación de poder"
     ],
     "correcta": 3,
     "explicación": "La anulabilidad comprende cualquier infracción del ordenamiento jurídico que no sea causa de nulidad de pleno derecho, incluida la desviación de poder.",
@@ -291,7 +291,7 @@
   {
     "id": "t31-p011",
     "tema": 11,
-    "pregunta": "La notificación es el acto mediante el cuál la Administración pone en conocimiento del interesado:",
+    "pregunta": "La notificación es el acto mediante el cual la Administración pone en conocimiento del interesado:",
     "opciones": [
       "el contenido de un acto administrativo que le afecta",
       "el presupuesto general",
@@ -394,5 +394,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii02-deep-01",
+    "tema": 11,
+    "pregunta": "Según el artículo 35 de la Ley 39/2015, ¿qué actuación debe motivarse?",
+    "opciones": [
+      "La admisión de toda prueba propuesta por el interesado.",
+      "El acuerdo de aplicación de la tramitación de urgencia.",
+      "Cualquier comunicación interna sin efectos jurídicos.",
+      "Toda licencia favorable, aunque la ley no lo exija."
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 35 incluye entre los supuestos de motivación los acuerdos de aplicación de la tramitación de urgencia.",
+    "referencia": "II.2 · 5. Motivación"
+  },
+  {
+    "id": "burgos-ii02-deep-02",
+    "tema": 11,
+    "pregunta": "Como regla general, los actos administrativos sujetos al Derecho Administrativo producen efectos:",
+    "opciones": [
+      "Desde la fecha en que se dictan, salvo que se disponga otra cosa.",
+      "Solo desde que se publican en el BOE.",
+      "Solo después de una sentencia judicial.",
+      "Desde que el interesado los acepta expresamente."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 39.1 LPAC establece la presunción de validez y la eficacia desde la fecha del acto, con las excepciones legales.",
+    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión"
+  },
+  {
+    "id": "burgos-ii02-deep-03",
+    "tema": 11,
+    "pregunta": "La eficacia retroactiva de un acto favorable exige, entre otros requisitos, que:",
+    "opciones": [
+      "El interesado renuncie a cualquier recurso.",
+      "Los hechos necesarios ya existieran en la fecha a la que se retrotrae y no se lesionen derechos de terceros.",
+      "El acto sea siempre sancionador.",
+      "La retroactividad se acuerde verbalmente."
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 39.3 LPAC admite excepcionalmente la retroactividad favorable bajo esas condiciones.",
+    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión"
+  },
+  {
+    "id": "burgos-ii02-deep-04",
+    "tema": 11,
+    "pregunta": "¿Cuál de estos extremos no forma parte del contenido mínimo exigido para una notificación administrativa?",
+    "opciones": [
+      "El texto íntegro de la resolución.",
+      "Si pone fin o no a la vía administrativa.",
+      "Los recursos procedentes, órgano y plazo.",
+      "La aceptación expresa del interesado."
+    ],
+    "correcta": 3,
+    "explicación": "La notificación debe informar del acto y de los recursos, pero no necesita la aceptación expresa del destinatario.",
+    "referencia": "II.2 · 7. Notificación y publicación"
+  },
+  {
+    "id": "burgos-ii02-deep-05",
+    "tema": 11,
+    "pregunta": "Si una notificación electrónica se pone a disposición y no se accede a ella durante diez días naturales, se entiende:",
+    "opciones": [
+      "Rechazada, salvo imposibilidad técnica o material acreditada.",
+      "Anulada de pleno derecho.",
+      "Aceptada automáticamente.",
+      "Convertida en notificación en papel."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 43.2 LPAC considera rechazada la notificación electrónica no abierta en diez días naturales, con la excepción legal.",
+    "referencia": "II.2 · 7.2. Medios electrónicos y papel"
+  },
+  {
+    "id": "burgos-ii02-deep-06",
+    "tema": 11,
+    "pregunta": "¿Qué vicio constituye, con carácter general, una causa de anulabilidad?",
+    "opciones": [
+      "La desviación de poder.",
+      "El contenido imposible.",
+      "La lesión de un derecho susceptible de amparo constitucional.",
+      "La incompetencia manifiesta por razón del territorio."
+    ],
+    "correcta": 0,
+    "explicación": "La desviación de poder está incluida expresamente en el artículo 48 LPAC; las otras opciones son causas de nulidad del artículo 47.",
+    "referencia": "II.2 · 8. Validez"
+  },
+  {
+    "id": "burgos-ii02-deep-07",
+    "tema": 11,
+    "pregunta": "Un defecto de forma solo determina la anulabilidad cuando:",
+    "opciones": [
+      "Existe cualquier error tipográfico.",
+      "El acto carece de los requisitos formales indispensables para alcanzar su fin o produce indefensión.",
+      "El acto es desfavorable.",
+      "El interesado no está de acuerdo con la resolución."
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 48.2 LPAC limita la invalidez por forma a los defectos esenciales o causantes de indefensión.",
+    "referencia": "II.2 · 8.2. Anulabilidad"
+  },
+  {
+    "id": "burgos-ii02-deep-08",
+    "tema": 11,
+    "pregunta": "La inderogabilidad singular significa que una resolución particular:",
+    "opciones": [
+      "Puede dispensar un reglamento si la dicta un órgano superior.",
+      "No puede vulnerar una disposición general, aunque la dicte un órgano de igual o superior jerarquía.",
+      "Siempre prevalece sobre una ordenanza municipal.",
+      "Solo vincula al órgano que la firma."
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 37 LPAC impide que una resolución singular exceptúe la aplicación de una disposición general.",
+    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión"
+  },
+  {
+    "id": "burgos-ii02-deep-09",
+    "tema": 11,
+    "pregunta": "¿Cuál es la diferencia correcta entre firma, motivación y notificación?",
+    "opciones": [
+      "La firma acredita autoría, la motivación explica las razones y la notificación comunica el acto al interesado.",
+      "Las tres expresiones significan exactamente lo mismo.",
+      "La firma comunica el acto y la notificación lo hace válido.",
+      "La motivación sustituye siempre a la firma."
+    ],
+    "correcta": 0,
+    "explicación": "Son elementos distintos del régimen formal y de eficacia del acto administrativo.",
+    "referencia": "II.2 · 4. Elementos y requisitos de producción"
+  },
+  {
+    "id": "burgos-ii02-deep-10",
+    "tema": 11,
+    "pregunta": "La convalidación administrativa permite:",
+    "opciones": [
+      "Subsanar un acto anulable, pero no un acto nulo de pleno derecho.",
+      "Convertir cualquier reglamento ilegal en ley.",
+      "Corregir en cualquier momento una interpretación jurídica errónea como si fuera un error material.",
+      "Suspender automáticamente la ejecución de todo acto recurrido."
+    ],
+    "correcta": 0,
+    "explicación": "La convalidación subsana vicios de anulabilidad; no sana las causas de nulidad de pleno derecho.",
+    "referencia": "II.2 · 8.3. Técnicas de conservación de la actuación"
   }
 ]

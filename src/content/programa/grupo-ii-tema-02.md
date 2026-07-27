@@ -3,136 +3,214 @@ grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas
 tema: 2
 codigo: "Tema II.2"
 titulo: "El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y mapa de estudio
 
-El acto administrativo se regula principalmente en la <mark>Ley 39/2015</mark>, de Procedimiento Administrativo Común, y se complementa con la <mark>Ley 40/2015</mark>, de Régimen Jurídico del Sector Público. En el ámbito local también se aplican la <mark>Ley 7/1985</mark> y el <mark>Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales</mark>.
+La norma central es la **Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas (LPAC)**, cuyo Título III regula los actos administrativos:
 
-## Concepto de acto administrativo
+| Bloque | Artículos LPAC | Qué hay que dominar |
+|---|---:|---|
+| Requisitos | 34-36 | Producción, contenido, motivación y forma. |
+| Eficacia | 37-46 | Inderogabilidad singular, ejecutividad, efectos, notificación y publicación. |
+| Validez | 47-52 | Nulidad, anulabilidad, límites, conservación, conversión y convalidación. |
 
-El acto administrativo es una **declaración de voluntad, juicio, conocimiento o deseo** realizada por una Administración Pública en el ejercicio de una potestad administrativa y sometida al Derecho Administrativo. Es la forma ordinaria mediante la cual la Administración decide expedientes concretos, reconoce derechos, impone obligaciones, autoriza actividades, liquida tributos, concede ayudas, sanciona o resuelve solicitudes.
+La **Ley 40/2015 (LRJSP)** completa el régimen de competencia y organización: la competencia es irrenunciable y las técnicas de delegación, avocación, encomienda de gestión, delegación de firma y suplencia no alteran, por regla general, su titularidad. En el Ayuntamiento de Burgos, el acto puede ser una licencia, una liquidación tributaria, una sanción, una resolución de personal o una subvención.
 
-Debe distinguirse del reglamento. El reglamento es norma general y abstracta; el acto administrativo aplica el Derecho a una situación concreta. Una ordenanza municipal regula una materia para una pluralidad de casos; una licencia urbanística autoriza una actuación singular.
+> **Idea guía:** primero se comprueba quién puede decidir y cómo debe hacerlo; después, qué decide y con qué razones; por último, cuándo produce efectos y si es válido.
 
-| Acto administrativo | Reglamento |
-| --- | --- |
-| Aplica el Derecho a un caso concreto. | Crea una norma general. |
-| Tiene destinatarios concretos o situación singular. | Tiene vocación de generalidad y permanencia. |
-| Ejemplo: licencia, sanción, liquidación. | Ejemplo: ordenanza municipal. |
-| Se impugna como acto administrativo. | Se impugna como disposición general. |
+## 2. Concepto y diferencias esenciales
 
-<mark>Clave de examen:</mark> no todo documento administrativo es un acto administrativo. Un informe, una diligencia o una nota interna pueden integrar el expediente, pero el acto es la decisión administrativa con efectos jurídicos.
+El <mark>acto administrativo</mark> es una **declaración de voluntad, juicio, conocimiento o deseo** realizada por una Administración Pública en ejercicio de una potestad administrativa y sometida al Derecho Administrativo, con efectos jurídicos.
 
-## Clases de actos administrativos
+Es una decisión unilateral: no necesita el acuerdo del destinatario para existir, aunque puede requerir notificación para ser eficaz frente a él. No todo documento del expediente es un acto: un informe, una propuesta, una diligencia o una comunicación interna pueden preparar la decisión sin resolver por sí mismos.
 
-Por sus efectos, los actos pueden ser favorables o de gravamen. Los favorables reconocen o amplian derechos o intereses: licencias, autorizaciones, concesiones, subvenciones. Los de gravamen limitan derechos o imponen obligaciones: sanciones, liquidaciones, órdenes de ejecución, denegaciones.
+| Figura | Regla distintiva | Ejemplo local |
+|---|---|---|
+| Acto administrativo | Decisión concreta que aplica el ordenamiento. | Concesión de una licencia. |
+| Reglamento | Norma general y abstracta, con vocación de permanencia. | Ordenanza municipal. |
+| Contrato administrativo | Acuerdo bilateral o plurilateral de voluntades. | Contrato de suministro. |
+| Actuación material | Ejecución física o técnica sin declaración decisoria autónoma. | Colocación de una señal. |
+| Acto de trámite | Actuación que impulsa o instruye el expediente. | Requerimiento de subsanación. |
 
-Por su posición en el procedimiento, pueden ser definitivos o de trámite. Los definitivos resuelven el fondo del asunto o impiden su continuación. Los actos de trámite impulsan el procedimiento; solo son recurribles de forma independiente cuando deciden directa o indirectamente el fondo, determinan imposibilidad de continuar, producen indefensión o perjuicio irreparable.
+Una convocatoria puede dirigirse a una pluralidad de personas y seguir siendo un acto general si no tiene contenido normativo; la denominación no decide por sí sola: hay que atender a su contenido y efectos.
 
-Por su destinatario, pueden ser singulares, si se dirigen a una persona o grupo determinado, o generales, si afectan a una pluralidad indeterminada pero no tienen carácter normativo.
+## 3. Clases de actos administrativos
 
-Por la forma de exteriorización, pueden ser expresos, presuntos o tacitos. El acto expreso se manifiesta formalmente. El presunto deriva del silencio administrativo. El tacito se deduce de actuaciones concluyentes, aunque en la Administración moderna predomina la exigencia de resolución expresa.
+### 3.1. Por sus efectos
 
-| Clasificación | Tipos | Ejemplo |
-| --- | --- | --- |
-| Por efectos | Favorables / de gravamen | Subvención concedida / sanción. |
-| Por fase procedimental | Definitivos / trámite | Resolución final / requerimiento de subsanación. |
-| Por destinatario | Singulares / generales | Licencia individual / convocatoria. |
-| Por exteriorización | Expresos / presuntos / tacitos | Resolución escrita / silencio / conducta concluyente. |
+- **Favorables o ampliatorios:** reconocen, crean o amplían derechos o intereses (licencia, autorización, subvención).
+- **De gravamen o desfavorables:** limitan derechos o imponen cargas (sanción, liquidación, orden de ejecución).
 
-Los **actos de trámite cualificados** son importantes: aunque no resuelvan el procedimiento, pueden recurrirse si deciden directa o indirectamente el fondo, impiden continuar, producen indefensión o causan perjuicio irreparable.
+La diferencia importa: la revocación del artículo 109 LPAC se refiere a actos de gravamen o desfavorables, con los límites legales; un acto favorable no puede retirarse libremente por mera oportunidad.
 
-## Elementos del acto
+### 3.2. Por su posición en el procedimiento
 
-El elemento subjetivo es el órgano competente. Un acto debe dictarse por la Administración y órgano que tenga competencia por razón de materia, territorio y jerarquía. La competencia es irrenunciable y se ejerce por los órganos que la tienen atribuida, salvo delegación, avocación, encomienda, delegación de firma o suplencia conforme a la ley.
+- **Definitivos o resolutorios:** ponen fin al procedimiento y deciden el fondo, o hacen imposible continuarlo.
+- **De trámite:** preparan la resolución. Solo son recurribles de forma autónoma cuando son **cualificados**: deciden directa o indirectamente el fondo, impiden continuar, producen indefensión o causan perjuicio irreparable a derechos o intereses legítimos.
 
-El elemento objetivo es el contenido del acto. Debe ser posible, licito, determinado o determinable y adecuado a los fines de la potestad. No puede tener contenido contrario al ordenamiento ni perseguir fines distintos de los que justifican la competencia.
+### 3.3. Otras clasificaciones útiles
 
-El elemento causal o finalista exige que el acto responda al interés público y al fin propio de la potestad. La desviación de poder se produce cuando la Administración usa una potestad para fines distintos de los previstos.
+| Criterio | Tipos | Clave de examen |
+|---|---|---|
+| Margen de apreciación | Reglados / discrecionales | Discrecionalidad no equivale a arbitrariedad; exige motivación y control. |
+| Destinatarios | Singulares / generales o plúrimos | General no significa necesariamente reglamentario. |
+| Exteriorización | Expresos / presuntos / tácitos | El presunto nace del silencio; el tácito se deduce de una conducta concluyente. |
+| Impugnación | Que ponen fin / que no ponen fin a la vía administrativa | La notificación debe indicarlo para permitir elegir recurso. |
 
-El elemento formal incluye procedimiento, forma escrita cuando proceda, motivación, firma, identificación del órgano, fecha y notificación o publicación. El procedimiento es garantía esencial porque permite audiencia, informes, prueba y control.
+## 4. Elementos y requisitos de producción
 
-| Elemento | Pregunta que responde |
-| --- | --- |
-| Subjetivo | Quién dicta el acto y si tiene competencia. |
-| Objetivo | Qué decide el acto y si su contenido es licito y posible. |
-| Causal/finalista | Para que se dicta y si responde al fin público de la potestad. |
-| Formal | Cómo se tramita, motiva, firma, notifica o pública. |
+El artículo 34 LPAC exige que los actos se produzcan por el **órgano competente**, de oficio o a instancia del interesado, conforme a los requisitos y al procedimiento establecido. Su contenido debe ajustarse al ordenamiento, ser determinado y adecuado a los fines de la potestad.
 
-<mark>Ojo:</mark> la competencia por materia y territorio es especialmente sensible. La incompetencia manifiesta por materia o territorio puede provocar nulidad de pleno derecho.
+### 4.1. Elemento subjetivo
 
-## Motivación
+El acto debe proceder de una Administración y de un órgano con competencia por materia, territorio y, cuando proceda, jerarquía. La competencia es irrenunciable; puede alterarse su ejercicio mediante las técnicas legales, pero no se presume por la mera intervención de un empleado público.
 
-La motivación es la exposición de las razones de hecho y de Derecho que justifican el acto. No todos los actos requieren igual intensidad de motivación, pero la <mark>Ley 39/2015</mark> exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legitimos, resuelvan procedimientos de revisión, recursos y reclamaciones, se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos, acuerden suspensión de actos, adopten medidas provisionales, rechacen pruebas propuestas, acuerden terminación por imposibilidad material, propuestas de resolución sancionadora y actos dictados en ejercicio de potestades discrecionales.
+La incompetencia manifiesta por razón de la materia o del territorio es causa de **nulidad de pleno derecho**. La incompetencia jerárquica no produce automáticamente nulidad y puede ser convalidable cuando el órgano competente sea superior jerárquico.
 
-La motivación permite al interesado comprender por que se decide, valorar si recurre y facilita el control judicial. Una motivación aparente o genérica puede ser insuficiente si no explica la decisión real.
+### 4.2. Elemento objetivo y causal
 
-La motivación debe ser:
+El contenido u objeto debe ser **lícito, posible, determinado o determinable** y congruente con el expediente. Debe existir el presupuesto de hecho que habilita la decisión y respetarse el fin de la potestad. Usar una potestad para una finalidad distinta constituye **desviación de poder**, causa de anulabilidad.
 
-- **suficiente**, porque debe explicar la razón real;
-- **comprensible**, para que el interesado pueda defenderse;
-- **conectada con el expediente**, no una fórmula vacia;
-- **proporcionada**, con mayor intensidad en sanciones, discrecionalidad, recursos o limitación de derechos.
+### 4.3. Elemento formal
 
-## Notificación
+Comprende el procedimiento, la forma de exteriorización, la motivación cuando sea exigible, la firma y la constancia en el expediente. La regla general es la forma escrita, incluidos los medios electrónicos. Si la naturaleza del acto permite otra forma, puede ser verbal; cuando sea necesaria constancia escrita, la realiza y firma el titular del órgano inferior o funcionario que recibe la orden oral, expresando de qué autoridad procede.
 
-La notificación comunica el acto al interesado y permite que produzca efectos frente a el. Debe contener el texto íntegro de la resolución, indicar si pone fin o no a la vía administrativa, expresar recursos procedentes, órgano ante el que interponerlos y plazo.
+> **No confundir:** la firma acredita la autoría; la motivación explica las razones; la notificación comunica el acto al interesado. Son funciones distintas.
 
-Las notificaciones deben practicarse preferentemente por medios electrónicos cuando el interesado este obligado a relacionarse electronicamente o lo haya elegido. Las personas físicas no obligadas pueden escoger canal, salvo excepciones.
+## 5. Motivación: cuándo y cómo
 
-Toda notificación debe ser cursada dentro del plazo de <mark>diez días</mark> a partir de la fecha en que el acto haya sido dictado. Debe contener el texto íntegro de la resolución, indicar si pone fin a la vía administrativa, los recursos procedentes, órgano ante el que interponerlos y plazo.
+<mark>Motivar</mark> es expresar, con sucinta referencia a los hechos y fundamentos de Derecho, por qué se adopta la decisión. No exige copiar todo el expediente, pero sí una explicación individualizada, comprensible y conectada con los datos relevantes.
 
-Cuando la notificación se practique por medios electrónicos, se entiende rechazada si transcurren <mark>diez días naturales</mark> desde la puesta a disposición sin que se acceda a su contenido, salvo que de oficio o a instancia del destinatario se compruebe imposibilidad técnica o material de acceso.
+El artículo 35 LPAC exige motivación, entre otros, en los siguientes casos:
 
-La notificación defectuosa puede surtir efecto desde la fecha en que el interesado realice actuaciones que supongan conocimiento del contenido y alcance del acto, o interponga el recurso procedente. La publicación sustituye a la notificación en supuestos legalmente previstos, como actos con pluralidad indeterminada de interesados o procedimientos selectivos.
+1. actos que limiten derechos subjetivos o intereses legítimos;
+2. resoluciones de revisión de oficio, recursos administrativos, procedimientos de arbitraje y declaraciones de inadmisión;
+3. actos que se separen del criterio seguido en actuaciones precedentes o del dictamen de órganos consultivos;
+4. acuerdos de suspensión y adopción de medidas provisionales;
+5. acuerdos de aplicación de la tramitación de urgencia;
+6. actos que rechacen pruebas propuestas por los interesados;
+7. actos que acuerden la terminación del procedimiento por imposibilidad material de continuarlo;
+8. propuestas de resolución en procedimientos sancionadores y resoluciones sancionadoras o de responsabilidad patrimonial;
+9. actos dictados en ejercicio de potestades discrecionales;
+10. los demás que imponga una disposición legal o reglamentaria.
 
-| Debe contener la notificación | Finalidad |
-| --- | --- |
-| Texto íntegro del acto | Saber que se ha decidido. |
-| Indicar si pone fin a la vía administrativa | Elegir recurso correcto. |
-| Recursos procedentes | Evitar indefensión. |
-| Órgano ante el que recurrir | Dirigir correctamente el recurso. |
-| Plazo de recurso | Computar la reacción del interesado. |
+En una sanción o en una denegación de licencia no basta escribir “por razones de interés público”: deben identificarse los hechos probados, la norma aplicada y la conexión entre ambos. La motivación también permite el control judicial de la discrecionalidad.
 
-| Supuesto de publicación | Ejemplo |
+## 6. Eficacia, ejecutividad y suspensión
+
+Los actos sujetos al Derecho Administrativo son **ejecutivos** conforme a la LPAC y se presumen válidos. Como regla, producen efectos desde la fecha en que se dictan, salvo que el propio acto disponga otra cosa.
+
+La eficacia queda demorada cuando lo exija el contenido del acto o dependa de su notificación, publicación o aprobación superior. Por eso hay que separar:
+
+| Concepto | Pregunta |
 |---|---|
-| Interesados desconocidos | No puede identificarse a quienes afecta el acto. |
-| Lugar de notificación ignorado | La Administración no conoce domicilio o medio válido. |
-| Notificación intentada sin éxito | Se acude al <mark>BOE</mark> en los términos de la <mark>Ley 39/2015</mark>. |
-| Actos con pluralidad indeterminada | Convocatorias, anuncios o procedimientos con destinatarios amplios. |
+| Validez | ¿Se dictó conforme al ordenamiento? |
+| Eficacia | ¿Está en condiciones de producir efectos? |
+| Ejecutividad | ¿Puede imponerse o ejecutarse conforme a la ley? |
+| Notificación | ¿Se ha comunicado al interesado para que conozca el acto y pueda reaccionar? |
 
-Una notificación mal hecha puede no impedir que el acto exista, pero si puede afectar a su eficacia frente al interesado y al inicio de plazos.
+Excepcionalmente, puede darse **eficacia retroactiva** a actos favorables si los hechos necesarios ya existían en la fecha a la que se retrotraen y no se lesionan derechos o intereses legítimos de otras personas; también a actos que sustituyen a otros anulados. La retroactividad favorable no es una regla automática.
 
-## Eficacia y validez
+Las Administraciones y sus órganos deben observar las normas y actos dictados por órganos competentes, aunque no exista dependencia jerárquica. Una resolución particular no puede dispensar lo establecido en un reglamento: esa **inderogabilidad singular** protege la igualdad y la jerarquía normativa.
 
-Los actos administrativos se presumen validos y producen efectos desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa. La eficacia puede quedar demorada por exigencia de notificación, publicación o aprobación superior.
+La suspensión de la ejecución puede acordarse en los supuestos legales, de oficio o al resolver la solicitud del interesado en vía de recurso. La mera interposición de un recurso no suspende por sí sola la ejecución, salvo que una norma disponga otra cosa.
 
-La validez exige conformidad con el ordenamiento jurídico. La <mark>Ley 39/2015</mark> distingue nulidad de pleno derecho y anulabilidad. Son nulos, entre otros, los actos que lesionen derechos fundamentales, los dictados por órgano manifiestamente incompetente por materia o territorio, los de contenido imposible, los constitutivos de infracción penal, los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido, y los actos expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos careciendo de requisitos esenciales.
+## 7. Notificación y publicación
 
-Son anulables los actos que incurran en cualquier infracción del ordenamiento, incluida desviación de poder, salvo que la infracción determine nulidad. Los defectos de forma solo determinan anulabilidad cuando el acto carezca de requisitos indispensables para alcanzar su fin o produzca indefensión.
+### 7.1. Reglas comunes
 
-Si el acto se dicta verbalmente, la constancia escrita, cuando sea necesaria, la efectuará y firmará el titular del órgano inferior o funcionario que la reciba oralmente, expresando en la comunicación la autoridad de la que procede. Si se trata de resoluciones, el titular de la competencia debe autorizar una relación de las dictadas verbalmente con expresión de su contenido.
+La <mark>notificación</mark> se practica a los interesados cuyos derechos o intereses resulten afectados. Debe permitir dejar constancia del envío o puesta a disposición, recepción o acceso, fecha y hora, contenido íntegro e identidad fidedigna del remitente y destinatario, y la acreditación se incorpora al expediente.
 
-| Categoria | Gravedad | Ejemplo |
-| --- | --- | --- |
-| Nulidad de pleno derecho | Máxima gravedad. | Lesión de derechos fundamentales o prescindir totalmente del procedimiento. |
-| Anulabilidad | Infracción ordinaria del ordenamiento. | Error procedimental relevante que no llega a nulidad. |
-| Irregularidad no invalidante | Defecto sin indefensión ni impacto esencial. | Error formal menor sin efecto real. |
+Debe cursarse dentro de **10 días** desde que se dicta el acto y contener:
 
-<mark>Resumen operativo:</mark> un acto puede ser valido pero no eficaz frente al interesado hasta que se notifique; y puede ser eficaz aunque luego sea anulado si se impugna con exito.
+- el texto íntegro de la resolución;
+- si pone fin o no a la vía administrativa;
+- los recursos administrativos y judiciales que procedan;
+- el órgano ante el que deben presentarse;
+- el plazo para interponerlos.
 
-## Conservación, conversión y convalidación
+Una notificación que omite alguno de esos extremos puede ser defectuosa, pero el acto no desaparece automáticamente. La notificación surte efecto desde que el interesado realiza actuaciones que evidencian conocimiento del contenido y alcance, o interpone el recurso procedente.
 
-La invalidez de un acto no siempre destruye todo el expediente. La <mark>Ley 39/2015</mark> permite conservar actos y trámites cuyo contenido se hubiera mantenido igual aunque no se hubiera cometido la infracción. Esta regla evita repetir actuaciones inútiles y protege la economía procedimental.
+### 7.2. Medios electrónicos y papel
 
-La conversión permite que un acto nulo o anulable produzca los efectos de otro distinto cuando contenga los elementos constitutivos de ese otro acto. La convalidación permite subsanar actos anulables corrigiendo el vicio, con efectos desde la fecha de convalidación salvo supuestos de retroactividad admitidos legalmente.
+Las personas obligadas a relacionarse electrónicamente deben recibir las notificaciones por esa vía; las no obligadas pueden elegirla o cambiar de medio en los términos legales. La puesta a disposición se realiza en la sede electrónica o dirección electrónica habilitada única, según el sistema utilizado.
 
-| Técnica | Cuándo opera | Límite |
-| --- | --- | --- |
-| Conservación | Se mantienen trámites no afectados por el vicio. | No puede conservar lo que dependa del defecto invalidante. |
-| Conversión | El acto inválido reúne requisitos de otro acto. | Deben existir elementos suficientes del acto convertido. |
-| Convalidación | Se subsana un vicio de anulabilidad. | No sirve para actos nulos de pleno derecho. |
+Si una notificación electrónica se pone a disposición y no se accede a ella en **10 días naturales**, se entiende rechazada, salvo imposibilidad técnica o material acreditada. El rechazo no equivale a que el acto sea inexistente: produce los efectos previstos por la ley.
 
-Si el vicio consiste en incompetencia no determinante de nulidad, puede convalidar el órgano competente cuando sea superior jerárquico del que dictó el acto. Si falta autorización, puede convalidarse mediante su otorgamiento por el órgano competente.
+Cuando se practique en papel, si nadie se hace cargo, debe intentarse de nuevo una sola vez y en hora distinta dentro de los **3 días** siguientes; si el primer intento fue antes de las 15:00, el segundo debe hacerse después de las 15:00, y viceversa, dejando al menos 3 horas entre ambos. Si resulta infructuosa, se acude a la publicación edictal legal.
+
+### 7.3. Publicación
+
+La publicación puede sustituir a la notificación cuando el acto tenga destinatarios indeterminados, se trate de un procedimiento selectivo o de concurrencia competitiva, o cuando así lo establezcan las normas. Si la notificación resulta infructuosa por interesados desconocidos, lugar ignorado o intento fallido, el anuncio se publica en el **Boletín Oficial del Estado**, sin perjuicio de otras publicaciones complementarias.
+
+La publicación debe contener los mismos elementos esenciales que la notificación. Si puede lesionar derechos o intereses legítimos, se adoptan las medidas de anonimización o protección de datos que procedan.
+
+## 8. Validez: nulidad, anulabilidad e irregularidad
+
+### 8.1. <mark>Nulidad de pleno derecho</mark> (artículo 47 LPAC)
+
+Son nulos, entre otros:
+
+- los que lesionen derechos y libertades susceptibles de amparo constitucional;
+- los dictados por órgano manifiestamente incompetente por materia o territorio;
+- los de contenido imposible;
+- los constitutivos de infracción penal o dictados como consecuencia de esta;
+- los dictados prescindiendo total y absolutamente del procedimiento legalmente establecido, o de las normas esenciales para formar la voluntad de órganos colegiados;
+- los expresos o presuntos contrarios al ordenamiento por los que se adquieren facultades o derechos sin requisitos esenciales;
+- cualquier otro supuesto establecido expresamente por una disposición con rango de ley.
+
+También son nulas las disposiciones administrativas que vulneren la Constitución, las leyes o reglamentos superiores, regulen materias reservadas a ley o establezcan retroactividad desfavorable de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+
+### 8.2. <mark>Anulabilidad</mark> (artículo 48 LPAC)
+
+Son anulables los actos que incurran en cualquier infracción del ordenamiento jurídico, incluida la **desviación de poder**, salvo que concurra una causa de nulidad. Los defectos de forma solo producen anulabilidad cuando faltan requisitos indispensables para alcanzar el fin del acto o causan indefensión.
+
+No toda irregularidad formal invalida: un error que no afecta al contenido, no causa indefensión y no impide alcanzar la finalidad puede ser una irregularidad no invalidante. La pregunta debe resolverse atendiendo a la gravedad del vicio y a sus efectos, no solo a que exista un defecto.
+
+### 8.3. Técnicas de conservación de la actuación
+
+| Técnica | Función |
+|---|---|
+| Conservación | Mantiene actos y trámites cuyo contenido habría sido igual sin el vicio. |
+| Conversión | Un acto inválido produce los efectos del acto distinto cuyos elementos contiene. |
+| Convalidación | El órgano competente subsana un acto anulable; no convierte en válido un acto nulo. |
+
+La convalidación produce efectos desde que se realiza, salvo la retroactividad que pueda resultar aplicable. La rectificación de errores materiales, aritméticos o de hecho puede hacerse en cualquier momento, de oficio o a instancia de parte, y no debe confundirse con corregir una interpretación jurídica equivocada.
+
+## 9. Caso práctico y errores típicos
+
+**Caso:** el Ayuntamiento deniega una licencia mediante resolución firmada por el órgano competente, pero solo indica “se deniega por incumplimiento de la normativa”, sin identificar el incumplimiento. El defecto apunta a una motivación insuficiente; habrá que valorar la indefensión y el régimen de invalidez, sin confundirlo automáticamente con nulidad de pleno derecho. Si además la resolución se notifica sin indicar recursos y plazo, el acto puede existir, pero el cómputo de impugnación quedará afectado hasta que la notificación sea eficaz.
+
+| Trampa | Regla correcta |
+|---|---|
+| Todo acto necesita notificación para existir. | La notificación afecta principalmente a su eficacia frente al interesado. |
+| Todo defecto de forma causa nulidad. | La nulidad tiene causas tasadas; el defecto formal relevante suele llevar a anulabilidad. |
+| La incompetencia jerárquica siempre es nulidad. | La nulidad del artículo 47 se refiere a incompetencia manifiesta por materia o territorio. |
+| Un acto discrecional puede ser inmotivado. | La discrecionalidad está entre los supuestos de motivación obligatoria. |
+| Diez días de notificación son siempre naturales. | Los 10 días son el plazo para cursarla; los 10 días naturales se refieren al rechazo electrónico. |
+| Recurrir suspende automáticamente el acto. | La interposición del recurso no suspende por sí sola. |
+| Acto general y reglamento son sinónimos. | Un acto puede tener pluralidad de destinatarios sin crear una norma general. |
+| La convalidación sirve para actos nulos. | Solo subsana actos anulables. |
+
+## 10. Esquema final
+
+**34-36 LPAC** → órgano competente + contenido lícito/determinado + procedimiento + motivación + forma.
+
+**37-39 LPAC** → inderogabilidad singular + ejecutividad + presunción de validez y efectos.
+
+**40-46 LPAC** → notificación: 10 días para cursar, contenido íntegro, recursos, medios electrónicos, rechazo a los 10 días naturales y publicación edictal.
+
+**47 LPAC** → nulidad tasada y especialmente grave.
+
+**48 LPAC** → anulabilidad por infracción ordinaria o desviación de poder.
+
+**49-52 LPAC** → límites, conservación, conversión y convalidación.
+
+### Método para resolver un test
+
+1. Identifica si pregunta por requisito, eficacia, notificación o validez.
+2. Localiza el artículo: 34-36, 37-46 o 47-52.
+3. Comprueba el órgano, el plazo, el contenido de la notificación y la gravedad del vicio.
+4. Descarta las palabras absolutas: “siempre”, “automáticamente”, “cualquier defecto” o “toda notificación”.
