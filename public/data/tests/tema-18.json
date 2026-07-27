@@ -233,7 +233,7 @@
       "siempre cedibles a título oneroso"
     ],
     "correcta": 0,
-    "explicación": "Son las notas clasicas del dominio público local.",
+    "explicación": "Son las notas clásicas del dominio público local.",
     "referencia": "II.9 · Bienes de dominio público",
     "tema": 18
   },
@@ -244,11 +244,11 @@
       "inalienables, inembargables e imprescriptibles",
       "siempre arrendables sin limitaciones",
       "susceptibles de embargo por cualquier deuda tributaria",
-      "libremente enajenables por decreto de alcaldia"
+      "libremente enajenables por decreto de alcaldía"
     ],
     "correcta": 0,
     "referencia": "II.9 · Bienes de dominio público local",
-    "explicación": "El dominio público se protege mediante esas notas clasicas de indisponibilidad reforzada.",
+    "explicación": "El dominio público se protege mediante esas notas clásicas de indisponibilidad reforzada.",
     "tema": 18
   },
   {
@@ -278,5 +278,145 @@
     "referencia": "II.9 · Bienes patrimoniales",
     "explicación": "Los bienes patrimoniales se definen por exclusión respecto del dominio público.",
     "tema": 18
+  },
+  {
+    "id": "burgos-ii09-deep-01",
+    "tema": 18,
+    "pregunta": "Según el artículo 81 de la LRBRL, ¿cuál de estas alteraciones de la calificación jurídica puede producirse automáticamente?",
+    "opciones": [
+      "La adscripción de un bien patrimonial por más de 25 años a un uso o servicio público",
+      "La falta de uso de un inmueble durante seis meses",
+      "La aprobación de un arrendamiento por la Alcaldía",
+      "La inclusión de un bien en una ordenanza fiscal"
+    ],
+    "correcta": 0,
+    "explicación": "La LRBRL contempla, entre otros supuestos, la adscripción de bienes patrimoniales por más de 25 años a un uso o servicio público. La mera falta de uso no desafecta por sí sola.",
+    "referencia": "II.9 · 3.2 Afectación, desafectación y mutación demanial"
+  },
+  {
+    "id": "burgos-ii09-deep-02",
+    "tema": 18,
+    "pregunta": "Un particular ocupa sin título una porción de dominio público local. ¿Durante cuánto tiempo puede la entidad local recuperar por sí misma su posesión?",
+    "opciones": [
+      "En cualquier momento",
+      "Solo durante un año desde el día siguiente a la ocupación",
+      "Durante cinco años",
+      "Nunca por vía administrativa"
+    ],
+    "correcta": 0,
+    "explicación": "La recuperación de oficio de los bienes de dominio público puede ejercerse en cualquier tiempo; el plazo de un año se aplica a los bienes patrimoniales.",
+    "referencia": "II.9 · 4.2 Potestades de defensa"
+  },
+  {
+    "id": "burgos-ii09-deep-03",
+    "tema": 18,
+    "pregunta": "La instalación de una terraza que intensifica el aprovechamiento de la vía pública constituye, con carácter general, un:",
+    "opciones": [
+      "uso común especial",
+      "uso común general",
+      "uso privativo necesariamente",
+      "desafectación tácita"
+    ],
+    "correcta": 0,
+    "explicación": "La terraza suele ser un uso común especial: intensifica o singulariza el aprovechamiento, pero no necesariamente excluye por completo a los demás. Requiere autorización o licencia y condiciones.",
+    "referencia": "II.9 · 5.1 Dominio público: uso común y uso privativo"
+  },
+  {
+    "id": "burgos-ii09-deep-04",
+    "tema": 18,
+    "pregunta": "¿Cuál es el orden preferente para el aprovechamiento de los bienes comunales?",
+    "opciones": [
+      "Explotación común o cultivo colectivo; después, si es impracticable, aprovechamiento peculiar o lotes; finalmente, adjudicación mediante precio",
+      "Subasta abierta a cualquier persona; después, lotes; finalmente, cultivo colectivo",
+      "Arrendamiento privado; después, venta; finalmente, explotación común",
+      "Adjudicación mediante precio siempre, sin atender a la condición de vecino"
+    ],
+    "correcta": 0,
+    "explicación": "El RBEL establece como primera opción la explotación común o cultivo colectivo. Solo si resulta impracticable se acude a las formas sucesivas y, en último término, al precio.",
+    "referencia": "II.9 · 5.2 Bienes comunales"
+  },
+  {
+    "id": "burgos-ii09-deep-05",
+    "tema": 18,
+    "pregunta": "La autorización de la Comunidad Autónoma para enajenar, gravar o permutar un inmueble patrimonial local es exigible cuando su valor excede de:",
+    "opciones": [
+      "el 25 % de los recursos ordinarios del presupuesto anual de la Corporación",
+      "el 5 % de los recursos ordinarios del presupuesto anual",
+      "el 40 % del valor del inmueble de mayor valor",
+      "el 6 % del valor en venta"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 109 RBEL fija el umbral del 25 % de los recursos ordinarios del presupuesto anual para exigir autorización autonómica.",
+    "referencia": "II.9 · 6.1 Requisitos comunes de la enajenación"
+  },
+  {
+    "id": "burgos-ii09-deep-06",
+    "tema": 18,
+    "pregunta": "En una permuta de inmuebles patrimoniales, la diferencia de valor no puede ser superior a:",
+    "opciones": [
+      "el 40 % del valor del bien que lo tenga mayor",
+      "el 25 % de los recursos ordinarios del presupuesto",
+      "el 5 % del precio de adjudicación",
+      "el 6 % del valor en venta de ambos bienes"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 112 RBEL permite la permuta sin subasta cuando la diferencia no supera el 40 % del valor del bien de mayor valor y el expediente acredita su necesidad.",
+    "referencia": "II.9 · 6.2 Permuta"
+  },
+  {
+    "id": "burgos-ii09-deep-07",
+    "tema": 18,
+    "pregunta": "Para una cesión gratuita de un inmueble patrimonial local, el acuerdo debe adoptarse con el voto favorable de:",
+    "opciones": [
+      "la mayoría absoluta del número legal de miembros de la Corporación",
+      "la mayoría simple de los asistentes, siempre",
+      "dos tercios de los vecinos empadronados",
+      "unanimidad de la Junta de Gobierno Local"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 110 RBEL exige mayoría absoluta del número legal de miembros de la Corporación, además de un expediente con informes, acreditaciones e información pública.",
+    "referencia": "II.9 · 6.3 Cesión gratuita"
+  },
+  {
+    "id": "burgos-ii09-deep-08",
+    "tema": 18,
+    "pregunta": "En el expediente ordinario de cesión gratuita de un inmueble patrimonial, la información pública debe durar como mínimo:",
+    "opciones": [
+      "15 días",
+      "5 días",
+      "10 días",
+      "30 días hábiles"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 110 RBEL exige información pública por plazo no inferior a 15 días.",
+    "referencia": "II.9 · 6.3 Cesión gratuita"
+  },
+  {
+    "id": "burgos-ii09-deep-09",
+    "tema": 18,
+    "pregunta": "La recuperación de oficio de un bien patrimonial local usurpado debe ejercitarse, según la LRBRL y el RBEL, dentro de:",
+    "opciones": [
+      "un año desde el día siguiente a la fecha de la usurpación",
+      "un año desde la inscripción registral",
+      "cinco años desde la aprobación del inventario",
+      "cualquier momento, igual que en los bienes demaniales"
+    ],
+    "correcta": 0,
+    "explicación": "Para los bienes patrimoniales el plazo es de un año, contado desde el día siguiente a la usurpación; después procede la acción ante los tribunales ordinarios.",
+    "referencia": "II.9 · 4.2 Potestades de defensa"
+  },
+  {
+    "id": "burgos-ii09-deep-10",
+    "tema": 18,
+    "pregunta": "Una ocupación privativa de una porción del dominio público local requiere, como regla general, una:",
+    "opciones": [
+      "concesión demanial",
+      "desafectación automática",
+      "cesión gratuita patrimonial",
+      "permuta con un bien privado"
+    ],
+    "correcta": 0,
+    "explicación": "El uso privativo limita o excluye el uso de los demás y se articula normalmente mediante concesión demanial, con condiciones y plazo.",
+    "referencia": "II.9 · 5.1 Dominio público: uso común y uso privativo"
   }
 ]
