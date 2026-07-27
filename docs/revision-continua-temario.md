@@ -49,7 +49,7 @@
 - **Revisión de subrayados:** se leyó `src/utils/rehypeStudyHighlights.mjs` antes de editar. Se retiraron los resaltados manuales heredados y se dejaron solo marcas breves y nucleares para PBL, VEC, tipos contractuales, riesgo operacional, solvencia, contrato menor, garantía, formalización, riesgo y ventura, revisión de precios y especialidad local. No se modificó el motor común; las leyes, artículos, plazos, cantidades y órganos quedan para el resaltado automático. Se verificó que las marcas están equilibradas y no abarcan párrafos.
 - **Tests añadidos/cambiados:** se añadieron 10 preguntas `burgos-ii07-deep-01` a `burgos-ii07-deep-10`, sobre PBL/VEC, procedimiento restringido, duración del menor, funciones de la mesa, garantía definitiva, concesión y riesgo operacional, modificación no prevista, revisión de precios, recurso especial y órgano de contratación en Burgos. El banco pasa de 63 a 73 preguntas, sin IDs duplicados; se actualizó `data/tests/index.json` y se sincronizó la copia pública mediante `npm run prepare:data`.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de estructura, 73 preguntas, unicidad, índice, igualdad editable/público y marcas manuales, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `8b7c0d9` (`mejora profunda tema II.11 órganos colegiados`); pendiente de push al cerrar esta ejecución.
 - **Siguiente tema sugerido:** II.8, potestad sancionadora; mantener separadas la tipología de sanciones, los principios de la Ley 40/2015, el procedimiento sancionador de la Ley 39/2015 y la especialidad local.
 
 ## 27 de julio de 2026, 11:58 (Europe/Madrid)
