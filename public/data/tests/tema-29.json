@@ -16,16 +16,16 @@
   {
     "id": "t44-p002",
     "tema": 29,
-    "pregunta": "Según el artículo 134 CE, los Presupuestos Generales del Estado tienen carácter:",
+    "pregunta": "Según el artículo 184 del TRLRHL, la gestión del presupuesto local de gastos se realiza mediante:",
     "opciones": [
-      "Mensual",
-      "Anual",
-      "Bianual",
-      "Indefinido"
+      "Autorización, disposición, reconocimiento o liquidación y ordenación del pago",
+      "Retención, fiscalización, contabilidad y pago material",
+      "Propuesta, licitación, adjudicación y recurso",
+      "Aprobación, publicación, prórroga y liquidación"
     ],
-    "correcta": 1,
-    "explicación": "El art. 134 CE establece el carácter anual de los presupuestos.",
-    "referencia": "IV.3 · art. 134 CE"
+    "correcta": 0,
+    "explicación": "El artículo 184 TRLRHL enumera autorización, disposición o compromiso, reconocimiento o liquidación de la obligación y ordenación del pago.",
+    "referencia": "IV.3 · TRLRHL, art. 184"
   },
   {
     "id": "t44-p008",
@@ -128,30 +128,30 @@
   {
     "id": "t44-p021",
     "tema": 29,
-    "pregunta": "El art. 134 CE establece que, si los Presupuestos Generales del Estado no se aprobaran antes del primer día del ejercicio económico correspondiente:",
+    "pregunta": "Con carácter general, el órgano competente para ordenar los pagos de una entidad local es:",
     "opciones": [
-      "Quedaran automáticamente anulados los del ejercicio anterior",
-      "Se consideraran automáticamente prorrogados los del ejercicio anterior hasta la aprobación de los nuevos",
-      "El Gobierno debera aprobarlos por decreto-ley",
-      "Las Cortes Generales perderan la competencia presupuestaria durante ese ejercicio"
+      "El Presidente de la entidad local, sin perjuicio de delegación y de las unidades previstas legalmente",
+      "La Intervención, porque fiscaliza todos los gastos",
+      "La Tesorería, porque realiza el pago material",
+      "Siempre el Pleno, sin posibilidad de delegación"
     ],
-    "correcta": 1,
-    "explicación": "El tema recoge la prorroga automatica de los presupuestos anteriores.",
-    "referencia": "IV.3 · art. 134 CE"
+    "correcta": 0,
+    "explicación": "El artículo 186 TRLRHL atribuye la ordenación de pagos al Presidente, con las posibilidades de delegación y organización previstas.",
+    "referencia": "IV.3 · TRLRHL, art. 186"
   },
   {
     "id": "t44-p023",
     "tema": 29,
-    "pregunta": "Según la Ley General Presupuestaria, el Proyecto de Ley de Presupuestos Generales del Estado será remitido a las Cortes Generales:",
+    "pregunta": "Según el artículo 187 del TRLRHL, el plan de disposición de fondos debe recoger prioritariamente:",
     "opciones": [
-      "Antes del 1 de octubre del año anterior al que se refiera",
-      "Antes del 31 de diciembre del mismo ejercicio",
-      "Al menos seis meses antes de la expiración de los del año anterior",
-      "Dentro del primer trimestre del ejercicio presupuestario"
+      "Los gastos de personal y las obligaciones contraídas en ejercicios anteriores",
+      "Solo las inversiones financiadas con subvenciones",
+      "Únicamente los pagos a justificar",
+      "Las facturas por orden de llegada, sin excepciones"
     ],
     "correcta": 0,
-    "explicación": "El tema indica que el Consejo de Ministros aprueba el proyecto y lo remite a las Cortes antes del 1 de octubre.",
-    "referencia": "IV.3 · 3.1 Elaboración y aprobación"
+    "explicación": "El plan de disposición de fondos debe priorizar los gastos de personal y las obligaciones contraídas en ejercicios anteriores.",
+    "referencia": "IV.3 · TRLRHL, art. 187"
   },
   {
     "id": "topup-29-05",
@@ -329,5 +329,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-iv03-deep-01",
+    "tema": 29,
+    "pregunta": "La autorización del gasto se caracteriza porque:",
+    "opciones": [
+      "Reserva crédito y no crea todavía relaciones con terceros externos",
+      "Reconoce una deuda exigible ya acreditada",
+      "Ordena a Tesorería realizar el pago",
+      "Sustituye la fiscalización previa"
+    ],
+    "correcta": 0,
+    "explicación": "La autorización inicia la ejecución, acuerda un gasto por cuantía cierta o aproximada y reserva crédito, pero no vincula aún al Ayuntamiento con un tercero.",
+    "referencia": "IV.3 · RD 500/1990, art. 54"
+  },
+  {
+    "id": "burgos-iv03-deep-02",
+    "tema": 29,
+    "pregunta": "La disposición o compromiso del gasto:",
+    "opciones": [
+      "Concreta importe y condiciones y vincula jurídicamente a la entidad frente a un tercero",
+      "Solo reserva crédito sin efectos externos",
+      "Es el pago material realizado por Tesorería",
+      "Es una modalidad de control externo"
+    ],
+    "correcta": 0,
+    "explicación": "La fase D se produce tras los trámites legales y compromete un gasto concreto y determinado frente al tercero.",
+    "referencia": "IV.3 · RD 500/1990, art. 56"
+  },
+  {
+    "id": "burgos-iv03-deep-03",
+    "tema": 29,
+    "pregunta": "Para reconocer una obligación por un servicio municipal debe acreditarse previamente:",
+    "opciones": [
+      "La realización de la prestación y el derecho del acreedor conforme al gasto autorizado y comprometido",
+      "Solo la existencia de una factura, aunque no haya conformidad",
+      "La aprobación de una nueva ordenanza fiscal",
+      "El pago material al proveedor"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 189 TRLRHL exige acreditación documental de la prestación o del derecho del acreedor antes de expedir la orden de pago.",
+    "referencia": "IV.3 · TRLRHL, art. 189"
+  },
+  {
+    "id": "burgos-iv03-deep-04",
+    "tema": 29,
+    "pregunta": "¿Cuál es la diferencia correcta entre la ordenación del pago y el pago material?",
+    "opciones": [
+      "La primera es una orden administrativa y el segundo es la salida efectiva de fondos",
+      "La primera corresponde siempre a Tesorería y el segundo siempre al Pleno",
+      "Son dos nombres para la misma fase",
+      "La primera reconoce la obligación y el segundo reserva crédito"
+    ],
+    "correcta": 0,
+    "explicación": "P ordena satisfacer una obligación ya reconocida; Tesorería ejecuta después el pago material.",
+    "referencia": "IV.3 · Ordenación del pago"
+  },
+  {
+    "id": "burgos-iv03-deep-05",
+    "tema": 29,
+    "pregunta": "La competencia general para el reconocimiento y liquidación de obligaciones derivadas de compromisos legalmente adquiridos corresponde a:",
+    "opciones": [
+      "El Presidente de la corporación, sin perjuicio de delegación o desconcentración",
+      "La Tesorería exclusivamente",
+      "El órgano interventor exclusivamente",
+      "El proveedor que presenta la factura"
+    ],
+    "correcta": 0,
+    "explicación": "Así lo establece el artículo 185.2 TRLRHL; las bases recogen las delegaciones o desconcentraciones aplicables.",
+    "referencia": "IV.3 · TRLRHL, art. 185"
+  },
+  {
+    "id": "burgos-iv03-deep-06",
+    "tema": 29,
+    "pregunta": "Para que un gasto sea plurianual, además de extenderse a ejercicios posteriores, debe:",
+    "opciones": [
+      "Iniciarse en el ejercicio corriente y pertenecer a una categoría legalmente admitida",
+      "Carecer de crédito en el ejercicio corriente",
+      "Ser siempre un gasto de personal",
+      "Aprobarse siempre por la Tesorería"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 174 TRLRHL exige inicio en el propio ejercicio y que el gasto encaje en alguno de los supuestos legales.",
+    "referencia": "IV.3 · TRLRHL, art. 174"
+  },
+  {
+    "id": "burgos-iv03-deep-07",
+    "tema": 29,
+    "pregunta": "En los supuestos sujetos a los límites ordinarios del artículo 174 TRLRHL, el porcentaje máximo del crédito del año de compromiso imputable al ejercicio inmediato siguiente es:",
+    "opciones": [
+      "70 %",
+      "50 %",
+      "60 %",
+      "100 % sin límite"
+    ],
+    "correcta": 0,
+    "explicación": "La regla es 70 % para el ejercicio siguiente, 60 % para el segundo y 50 % para el tercero y cuarto, en los casos legalmente previstos.",
+    "referencia": "IV.3 · TRLRHL, art. 174.3"
+  },
+  {
+    "id": "burgos-iv03-deep-08",
+    "tema": 29,
+    "pregunta": "Las órdenes de pago a justificar deben justificarse, como regla general local:",
+    "opciones": [
+      "En un plazo máximo de tres meses",
+      "Solo al finalizar el mandato corporativo",
+      "Antes de que se expida la propia orden",
+      "No necesitan justificación posterior"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 190.2 TRLRHL fija un plazo máximo de tres meses y somete al perceptor al régimen de responsabilidades.",
+    "referencia": "IV.3 · TRLRHL, art. 190.2"
+  },
+  {
+    "id": "burgos-iv03-deep-09",
+    "tema": 29,
+    "pregunta": "Los anticipos de caja fija se destinan a:",
+    "opciones": [
+      "Atenciones de carácter periódico o repetitivo",
+      "Crear crédito cuando no existe aplicación presupuestaria",
+      "Sustituir cualquier contrato público",
+      "Pagar obligaciones sin reconocimiento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 190.3 TRLRHL configura los anticipos como fondos librados a justificar para atenciones periódicas o repetitivas.",
+    "referencia": "IV.3 · TRLRHL, art. 190.3"
+  },
+  {
+    "id": "burgos-iv03-deep-10",
+    "tema": 29,
+    "pregunta": "Un documento ADO:",
+    "opciones": [
+      "Puede acumular autorización, disposición y reconocimiento de la obligación cuando lo permiten las bases",
+      "Incluye siempre el pago material",
+      "Es exclusivamente una retención de crédito",
+      "Elimina la necesidad de acreditar la prestación"
+    ],
+    "correcta": 0,
+    "explicación": "La acumulación de fases es posible en los supuestos reglamentarios y de las bases, pero conserva los controles y la justificación.",
+    "referencia": "IV.3 · TRLRHL, art. 184.2; RD 500/1990, arts. 67-68"
+  },
+  {
+    "id": "burgos-iv03-deep-11",
+    "tema": 29,
+    "pregunta": "La intervención formal de la ordenación del pago comprueba, entre otros extremos, que la orden:",
+    "opciones": [
+      "La dicta órgano competente, se ajusta al reconocimiento y respeta el plan de fondos",
+      "Crea crédito suficiente por sí misma",
+      "Sustituye la conformidad del servicio",
+      "Es aprobada por el proveedor"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 21 del Real Decreto 424/2017 concreta esos tres controles de la intervención formal del pago.",
+    "referencia": "IV.3 · RD 424/2017, art. 21"
+  },
+  {
+    "id": "burgos-iv03-deep-12",
+    "tema": 29,
+    "pregunta": "Una factura recibida por el Ayuntamiento:",
+    "opciones": [
+      "No implica por sí sola que la obligación esté reconocida ni que deba pagarse automáticamente",
+      "Ordena automáticamente el pago",
+      "Sustituye siempre al contrato y a la conformidad",
+      "Hace innecesaria la existencia de crédito"
+    ],
+    "correcta": 0,
+    "explicación": "La factura es un justificante que debe integrarse en el expediente y acompañarse de la acreditación y conformidad de la prestación.",
+    "referencia": "IV.3 · Reconocimiento de la obligación"
   }
 ]
