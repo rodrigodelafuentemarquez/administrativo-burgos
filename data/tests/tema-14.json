@@ -420,5 +420,155 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii05-deep-01",
+    "tema": 14,
+    "pregunta": "¿Cuál es la diferencia correcta entre desconcentración y descentralización?",
+    "opciones": [
+      "La desconcentración atribuye competencias dentro de la misma Administración; la descentralización las atribuye a otra entidad con personalidad propia.",
+      "La desconcentración siempre transfiere la titularidad a una empresa privada; la descentralización solo cambia la firma.",
+      "Son dos nombres para la delegación de firma.",
+      "La descentralización solo opera entre órganos jerárquicamente dependientes."
+    ],
+    "correcta": 0,
+    "explicación": "La desconcentración es una atribución estable dentro de la misma Administración; la descentralización implica otra entidad o Administración con personalidad jurídica propia.",
+    "referencia": "II.5 · Principios de organización administrativa",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-02",
+    "tema": 14,
+    "pregunta": "Para la válida constitución de un órgano colegiado, la Ley 40/2015 exige, con carácter general:",
+    "opciones": [
+      "Presidente y Secretario o quienes les suplan, y la mitad al menos de sus miembros.",
+      "Todos sus miembros y unanimidad en la votación.",
+      "Solo el Presidente y un tercio de los miembros.",
+      "La mayoría absoluta de los miembros, aunque falte el Secretario."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 17.2 LRJSP exige la asistencia presencial o a distancia de Presidente y Secretario o suplentes y de la mitad, al menos, de los miembros, sin perjuicio de especialidades.",
+    "referencia": "LRJSP · artículo 17.2 · Constitución del órgano colegiado",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-03",
+    "tema": 14,
+    "pregunta": "Un órgano colegiado pretende votar un asunto no incluido en el orden del día. ¿Cuándo puede hacerlo excepcionalmente?",
+    "opciones": [
+      "Cuando estén presentes todos sus miembros y la urgencia se declare por mayoría.",
+      "Siempre que lo solicite el Presidente, aunque falte un miembro.",
+      "Cuando el Secretario lo certifique después de la sesión.",
+      "Nunca, aunque estén presentes todos los miembros."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 17.4 LRJSP permite deliberar y acordar un asunto no incluido solo si están presentes todos los miembros y se declara la urgencia por mayoría.",
+    "referencia": "LRJSP · artículo 17.4 · Orden del día",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-04",
+    "tema": 14,
+    "pregunta": "¿Qué efecto produce una resolución dictada por delegación de competencias?",
+    "opciones": [
+      "Se considera dictada por el órgano delegante y debe indicar expresamente la delegación.",
+      "Se considera dictada por el órgano delegado y nunca necesita identificar la delegación.",
+      "Se imputa a la Administración, pero no a ningún órgano.",
+      "Es nula porque la competencia no puede ejercerse por delegación."
+    ],
+    "correcta": 0,
+    "explicación": "La delegación no cambia la titularidad: el acto se considera dictado por el delegante y debe expresar que se dicta por delegación.",
+    "referencia": "LRJSP · artículo 9 · Delegación de competencias",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-05",
+    "tema": 14,
+    "pregunta": "¿Cuál de estas materias no puede ser objeto de delegación de competencias con carácter general?",
+    "opciones": [
+      "La adopción de disposiciones de carácter general.",
+      "La gestión ordinaria de un servicio, si la ley lo permite.",
+      "Una competencia en otro órgano de la misma Administración.",
+      "Una competencia en un organismo dependiente, en los términos legales."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 9.2 LRJSP prohíbe delegar, entre otras materias, la adopción de disposiciones de carácter general.",
+    "referencia": "LRJSP · artículo 9.2 · Límites de la delegación",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-06",
+    "tema": 14,
+    "pregunta": "La avocación se caracteriza porque:",
+    "opciones": [
+      "El órgano superior asume un asunto concreto mediante acuerdo motivado.",
+      "El órgano inferior adquiere definitivamente la competencia del superior.",
+      "Se encarga a otra entidad una actividad material sin resolución jurídica.",
+      "Se autoriza a otra persona a firmar sin cambiar la competencia."
+    ],
+    "correcta": 0,
+    "explicación": "La avocación es puntual: el superior atrae para sí un asunto concreto por circunstancias que debe motivar; no modifica de forma permanente la distribución competencial.",
+    "referencia": "LRJSP · artículo 10 · Avocación",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-07",
+    "tema": 14,
+    "pregunta": "¿Qué puede encargarse mediante una encomienda de gestión?",
+    "opciones": [
+      "Actividades materiales o técnicas, sin transferir la titularidad ni la decisión jurídica.",
+      "La potestad de resolver el procedimiento en nombre del órgano encomendante.",
+      "Una prestación contractual para evitar la aplicación de la contratación pública.",
+      "La titularidad permanente de una competencia administrativa."
+    ],
+    "correcta": 0,
+    "explicación": "La encomienda se limita a actividades materiales o técnicas; el órgano encomendante conserva la responsabilidad de dictar actos o resoluciones jurídicas.",
+    "referencia": "LRJSP · artículo 11 · Encomienda de gestión",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-08",
+    "tema": 14,
+    "pregunta": "La delegación de firma:",
+    "opciones": [
+      "Permite firmar en nombre del titular sin alterar la competencia y sin necesidad de publicación, salvo norma específica.",
+      "Transfiere la titularidad de la competencia al firmante.",
+      "Es una modalidad de avocación de asuntos concretos.",
+      "Solo puede utilizarse entre Administraciones con personalidad jurídica distinta."
+    ],
+    "correcta": 0,
+    "explicación": "La delegación de firma afecta a la firma formal, no a la titularidad ni al ejercicio de la competencia, y debe identificar la autoridad de procedencia.",
+    "referencia": "LRJSP · artículo 12 · Delegación de firma",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-09",
+    "tema": 14,
+    "pregunta": "¿Cuál es la regla general de duración de un convenio administrativo?",
+    "opciones": [
+      "Duración determinada no superior a cuatro años, con posible prórroga unánime de hasta cuatro años adicionales.",
+      "Duración indefinida salvo denuncia de una parte.",
+      "Duración máxima de dos años sin posibilidad de prórroga.",
+      "Duración de cinco años con prórroga tácita automática."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 49.h LRJSP exige duración determinada, normalmente hasta cuatro años, y permite una prórroga unánime de hasta cuatro años adicionales antes de que termine la vigencia.",
+    "referencia": "LRJSP · artículo 49.h · Convenios",
+    "tags": ["Revisión profunda"]
+  },
+  {
+    "id": "burgos-ii05-deep-10",
+    "tema": 14,
+    "pregunta": "La recusación es:",
+    "opciones": [
+      "El derecho de los interesados a pedir que se aparte a quien concurra en una causa de abstención.",
+      "La sustitución automática del órgano por su superior.",
+      "Una sanción disciplinaria impuesta al funcionario imparcial.",
+      "Una técnica para transferir una competencia a otra Administración."
+    ],
+    "correcta": 0,
+    "explicación": "La recusación permite a los interesados promover la separación del titular cuando concurre alguna causa legal de abstención; no transfiere la competencia.",
+    "referencia": "LRJSP · artículos 23 y 24 · Abstención y recusación",
+    "tags": ["Revisión profunda"]
   }
 ]
