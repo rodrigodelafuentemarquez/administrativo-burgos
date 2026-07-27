@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se leyó `src/utils/rehypeStudyHighlights.mjs` antes de editar y no se modificó el motor común. Se retiró el marcado heredado mediante la reescritura y se dejaron dos marcas manuales breves y nucleares para `silencio desestimatorio` y `dolo, culpa o negligencia graves`; las leyes, artículos, plazos, órganos y conceptos restantes quedan al resaltado automático. Las marcas están equilibradas y no abarcan párrafos.
 - **Tests añadidos/cambiados:** `data/tests/tema-15.json` pasa de 24 a 34 preguntas. Se corrigió la referencia de riesgos del desarrollo al artículo 34.1, se afinó el umbral del dictamen consultivo y sus explicaciones, se actualizó el índice y se añadieron 10 preguntas (`burgos-ii06-deep-01` a `burgos-ii06-deep-10`) sobre anulación, presupuestos, concurrencia, prescripción, informe, dictamen, resolución, silencio, competencia local y acción de regreso. Se sincronizaron ambas copias públicas.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de formato, 34 preguntas, unicidad, índice, equivalencia editable/público y marcas manuales, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** `86dda52` (`mejora profunda tema II.6 responsabilidad patrimonial`), pendiente de push al cerrar esta nota.
+- **Commit realizado:** `7345db2` (`mejora profunda tema II.6 responsabilidad patrimonial`), subido a `origin/main`.
 - **Siguiente tema sugerido:** II.7, contratos del sector público; mantener separada la responsabilidad patrimonial del régimen de preparación, adjudicación, ejecución y extinción contractual.
 
 ## 27 de julio de 2026, 11:50 (Europe/Madrid)
