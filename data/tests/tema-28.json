@@ -332,5 +332,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-iv02-deep-01",
+    "tema": 28,
+    "pregunta": "Según el concepto legal del presupuesto local, las obligaciones que contiene son:",
+    "opciones": [
+      "Las que como máximo pueden reconocer la entidad local y sus organismos autónomos",
+      "Todas las obligaciones que previsiblemente pagará la Tesorería, sin límite",
+      "Solo las obligaciones ya reconocidas al aprobarlo",
+      "Las obligaciones futuras de cualquier sociedad privada del municipio"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 162 TRLRHL define el presupuesto como la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autónomos, y de los derechos que se prevea liquidar.",
+    "referencia": "TRLRHL, artículo 162 · IV.2, concepto"
+  },
+  {
+    "id": "burgos-iv02-deep-02",
+    "tema": 28,
+    "pregunta": "Si el Ayuntamiento no ha aprobado el nuevo presupuesto el primer día del ejercicio:",
+    "opciones": [
+      "Se prorroga automáticamente el presupuesto anterior, con las excepciones legales",
+      "Se aplica automáticamente el presupuesto del Estado",
+      "Se suspenden todos los gastos hasta la aprobación definitiva",
+      "El Alcalde puede aprobar cualquier crédito sin expediente"
+    ],
+    "correcta": 0,
+    "explicación": "La prórroga es automática, pero no incluye los créditos de servicios o programas concluidos ni los que legalmente no sean prorrogables.",
+    "referencia": "TRLRHL, artículo 169 · IV.2, prórroga"
+  },
+  {
+    "id": "burgos-iv02-deep-03",
+    "tema": 28,
+    "pregunta": "En un gasto plurianual de inversión, el porcentaje máximo ordinario imputable al ejercicio inmediatamente posterior es:",
+    "opciones": [
+      "El 70 % del crédito inicial del año en que se adquiere el compromiso",
+      "El 50 % del crédito definitivo del último ejercicio",
+      "El 60 % del crédito inicial del ejercicio posterior",
+      "El 100 % sin necesidad de límite"
+    ],
+    "correcta": 0,
+    "explicación": "Los límites ordinarios son 70 % para el primer ejercicio posterior, 60 % para el segundo y 50 % para el tercero y cuarto.",
+    "referencia": "TRLRHL, artículo 174 y Real Decreto 500/1990, artículos 80 a 84 · IV.2"
+  },
+  {
+    "id": "burgos-iv02-deep-04",
+    "tema": 28,
+    "pregunta": "Como regla, los gastos plurianuales locales pueden afectar como máximo a:",
+    "opciones": [
+      "Cuatro ejercicios posteriores al de autorización y compromiso",
+      "Dos ejercicios posteriores, sin excepciones",
+      "Cinco ejercicios posteriores siempre que lo apruebe el Alcalde",
+      "Todos los ejercicios que dure el contrato, sin límites"
+    ],
+    "correcta": 0,
+    "explicación": "La regla es un máximo de cuatro ejercicios posteriores. Excepcionalmente el Pleno puede ampliar el número de anualidades y los porcentajes.",
+    "referencia": "TRLRHL, artículo 174 · Real Decreto 500/1990, artículos 81 y 84"
+  },
+  {
+    "id": "burgos-iv02-deep-05",
+    "tema": 28,
+    "pregunta": "Debe tramitarse un crédito extraordinario cuando:",
+    "opciones": [
+      "Existe un gasto específico que no puede demorarse y no hay crédito consignado",
+      "Existe crédito, pero es insuficiente y puede ampliarse",
+      "Se quiere mover crédito de una aplicación a otra",
+      "Se pretende cubrir un desfase temporal entre cobros y pagos"
+    ],
+    "correcta": 0,
+    "explicación": "El crédito extraordinario crea crédito para un gasto no previsto; si ya existe crédito insuficiente, la figura es el suplemento.",
+    "referencia": "TRLRHL, artículo 177 · IV.2, modificaciones"
+  },
+  {
+    "id": "burgos-iv02-deep-06",
+    "tema": 28,
+    "pregunta": "¿Qué característica corresponde a un crédito ampliable local?",
+    "opciones": [
+      "Debe estar taxativa y expresamente relacionado en las bases de ejecución y vinculado a recursos afectados",
+      "Puede ser ampliable cualquier crédito si aumenta la necesidad del servicio",
+      "Solo puede aprobarlo el Estado mediante ley anual",
+      "Se financia siempre mediante una transferencia de crédito"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 178 TRLRHL exige que el crédito figure expresamente como ampliable en las bases y que se hagan efectivos los recursos afectados.",
+    "referencia": "TRLRHL, artículo 178 · IV.2, ampliaciones"
+  },
+  {
+    "id": "burgos-iv02-deep-07",
+    "tema": 28,
+    "pregunta": "La aprobación de una transferencia de crédito entre distintos grupos de función corresponde, con carácter general, a:",
+    "opciones": [
+      "El Pleno de la corporación, salvo la excepción legal relativa a créditos de personal",
+      "La Tesorería, sin necesidad de bases de ejecución",
+      "La Intervención, por tratarse de una operación contable",
+      "Siempre la Junta de Gobierno Local, aunque el Pleno tenga atribuida la competencia"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 179.2 TRLRHL reserva al Pleno las transferencias entre distintos grupos de función, salvo cuando las bajas y altas afecten a créditos de personal.",
+    "referencia": "TRLRHL, artículo 179 · IV.2, transferencias"
+  },
+  {
+    "id": "burgos-iv02-deep-08",
+    "tema": 28,
+    "pregunta": "¿Cuál de estos ingresos aparece entre los que pueden generar crédito en el estado de gastos local?",
+    "opciones": [
+      "El reembolso de préstamos",
+      "Cualquier impuesto directo liquidado fuera de plazo",
+      "Una tasa sin relación con el gasto que se pretende financiar",
+      "Una multa, siempre y sin procedimiento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 181 TRLRHL incluye el reembolso de préstamos entre los ingresos de naturaleza no tributaria que pueden generar crédito, con el procedimiento reglamentario.",
+    "referencia": "TRLRHL, artículo 181 · IV.2, generaciones"
+  },
+  {
+    "id": "burgos-iv02-deep-09",
+    "tema": 28,
+    "pregunta": "Los créditos por operaciones de capital del ejercicio anterior pueden incorporarse al presupuesto siguiente:",
+    "opciones": [
+      "Si existen recursos financieros suficientes y se cumplen los demás requisitos legales",
+      "Siempre de forma automática, aunque no exista financiación",
+      "Solo si se trata de gastos de personal",
+      "Nunca, porque todos los créditos se anulan el 31 de diciembre"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 182 TRLRHL permite incorporar créditos por operaciones de capital cuando existen recursos financieros suficientes; no todos los saldos se incorporan automáticamente.",
+    "referencia": "TRLRHL, artículos 176 y 182 · IV.2, incorporaciones"
+  },
+  {
+    "id": "burgos-iv02-deep-10",
+    "tema": 28,
+    "pregunta": "Una operación de crédito a corto plazo concertada por una entidad local sirve principalmente para:",
+    "opciones": [
+      "Atender necesidades transitorias de tesorería y no crear por sí sola crédito presupuestario",
+      "Sustituir siempre un crédito extraordinario",
+      "Financiar cualquier gasto corriente durante más de cuatro ejercicios",
+      "Aprobar una transferencia sin autorización del órgano competente"
+    ],
+    "correcta": 0,
+    "explicación": "El crédito a corto plazo cubre desfases transitorios de tesorería. No es una modificación presupuestaria ni habilita por sí solo una aplicación de gasto.",
+    "referencia": "TRLRHL, artículo 51 · IV.2, anticipos y tesorería"
+  },
+  {
+    "id": "burgos-iv02-deep-11",
+    "tema": 28,
+    "pregunta": "Los anticipos de caja fija se destinan a:",
+    "opciones": [
+      "Atenciones corrientes periódicas o repetitivas, con posterior aplicación al presupuesto y justificación",
+      "Crear crédito nuevo para una obra no prevista",
+      "Financiar cualquier contrato sin límite ni control",
+      "Sustituir la aprobación del presupuesto por el Pleno"
+    ],
+    "correcta": 0,
+    "explicación": "Son provisiones de fondos no presupuestarias y permanentes para gastos corrientes periódicos o repetitivos, reguladas en las bases y sujetas a reposición y control.",
+    "referencia": "TRLRHL, artículo 190 · Real Decreto 500/1990, artículos 73 a 76"
+  },
+  {
+    "id": "burgos-iv02-deep-12",
+    "tema": 28,
+    "pregunta": "¿Qué combinación de clasificación económica de gastos es correcta?",
+    "opciones": [
+      "Capítulo 1: personal; capítulo 6: inversiones reales; capítulo 9: pasivos financieros",
+      "Capítulo 1: impuestos directos; capítulo 6: transferencias corrientes; capítulo 9: tasas",
+      "Capítulo 2: activos financieros; capítulo 7: personal; capítulo 8: inversiones reales",
+      "Capítulo 4: pasivos financieros; capítulo 5: transferencias de capital; capítulo 6: gastos financieros"
+    ],
+    "correcta": 0,
+    "explicación": "En gastos, el capítulo 1 es personal, el 6 inversiones reales y el 9 pasivos financieros.",
+    "referencia": "Orden EHA/3565/2008 · IV.2, clasificación económica"
   }
 ]
