@@ -264,13 +264,13 @@
     "tema": 12,
     "pregunta": "En el procedimiento administrativo común, las solicitudes deben contener entre otros datos:",
     "opciones": [
-      "el DNI, la petición y el órgano al que se dirigen",
+      "el nombre y apellidos del interesado, la petición y el órgano al que se dirigen",
       "el nombre del notario y la cuantía del procedimiento",
       "la firma del instructor",
       "la sentencia previa"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera esos elementos de la solicitud.",
+    "explicación": "El artículo 66 exige identificar al interesado, concretar los hechos, razones y petición, y señalar el órgano destinatario. El DNI no aparece como requisito general autónomo.",
     "referencia": "II.3 · 2.1 Los interesados en el procedimiento / 3.1 Fase de iniciación"
   },
   {
@@ -360,16 +360,16 @@
   {
     "id": "t15-p010",
     "tema": 12,
-    "pregunta": "¿Qué ocurre si el procedimiento iniciado a solicitud del interesado permanece paralizado por causa imputable a éste durante más de 3 meses?",
+    "pregunta": "En un procedimiento iniciado a solicitud del interesado, ¿qué presupuesto exige el artículo 95 para declarar la caducidad por paralización imputable a este?",
     "opciones": [
       "Se archiva por desistimiento automáticamente",
-      "Se declara la caducidad",
+      "Tras advertirle, transcurren tres meses sin reanudar la tramitación",
       "Se produce silencio positivo",
       "Se convierte en procedimiento de oficio"
     ],
     "correcta": 1,
-    "explicación": "El tema regula la caducidad para esos supuestos.",
-    "referencia": "II.3 · 3.3.3 Caducidad"
+    "explicación": "La Administración debe advertir al interesado de que, transcurridos tres meses sin realizar las actividades necesarias, se producirá la caducidad y se archivarán las actuaciones. No basta afirmar que han pasado tres meses desde cualquier paralización.",
+    "referencia": "II.3 · 7.2 Caducidad (art. 95 LPACAP)"
   },
   {
     "id": "t15-p011",
@@ -411,7 +411,7 @@
     ],
     "correcta": 1,
     "explicación": "El tema fija 10 días desde que el acto ha sido dictado.",
-    "referencia": "II.3 · 4.2 La notificación"
+    "referencia": "Repaso relacionado con II.2 · notificación de actos (art. 40 LPACAP)"
   },
   {
     "id": "t15-p014",
@@ -481,7 +481,7 @@
     ],
     "correcta": 0,
     "explicación": "La petición razonada consiste en la comunicación a otro órgano competente de hechos o circunstancias que justifican la iniciación de oficio.",
-    "referencia": "II.3 · 2.2 Iniciación de oficio"
+    "referencia": "II.3 · 4.1 Iniciación de oficio (arts. 58 y 61 LPACAP)"
   },
   {
     "id": "t15-p019",
@@ -654,5 +654,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii03-deep-01",
+    "tema": 12,
+    "pregunta": "Según el artículo 70 de la Ley 39/2015, ¿qué elemento sí forma parte del expediente administrativo?",
+    "opciones": [
+      "Un informe facultativo solicitado antes de la resolución que pone fin al procedimiento",
+      "Una nota interna meramente auxiliar no incorporada al expediente",
+      "Un borrador de trabajo sin valor administrativo",
+      "Un resumen informal preparado para una reunión"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 70 incluye los informes preceptivos y facultativos solicitados antes de la resolución final; las notas y borradores auxiliares quedan fuera como regla.",
+    "referencia": "II.3 · 2.3 Expediente administrativo (art. 70 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-02",
+    "tema": 12,
+    "pregunta": "Una cuestión incidental surgida durante la tramitación de un procedimiento administrativo:",
+    "opciones": [
+      "No suspende la tramitación, salvo la recusación",
+      "Suspende siempre el procedimiento hasta su resolución",
+      "Solo puede plantearla el órgano instructor",
+      "Produce automáticamente la caducidad"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 74 LPACAP establece que las cuestiones incidentales no suspenden la tramitación, salvo la recusación.",
+    "referencia": "II.3 · 5.1 Ordenación y cuestiones incidentales (art. 74 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-03",
+    "tema": 12,
+    "pregunta": "El acuerdo de acumulación de varios procedimientos con identidad sustancial o íntima conexión:",
+    "opciones": [
+      "No es susceptible de recurso",
+      "Debe aprobarlo siempre el interesado que inició el primer expediente",
+      "Solo puede adoptarlo un órgano judicial",
+      "Obliga a reiniciar todos los plazos desde cero"
+    ],
+    "correcta": 0,
+    "explicación": "El órgano que inicie o tramite puede acordar la acumulación. Contra el acuerdo de acumulación no procede recurso.",
+    "referencia": "II.3 · 4.3 Acumulación (art. 57 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-04",
+    "tema": 12,
+    "pregunta": "En la tramitación simplificada, si un interesado manifiesta oposición expresa:",
+    "opciones": [
+      "Debe seguirse la tramitación ordinaria",
+      "La oposición carece de efecto y siempre continúa la simplificada",
+      "Se archiva necesariamente el procedimiento",
+      "El procedimiento se convierte en sancionador"
+    ],
+    "correcta": 0,
+    "explicación": "La tramitación simplificada no puede imponerse frente a la oposición expresa de un interesado; debe seguirse la ordinaria.",
+    "referencia": "II.3 · 5.2 Tramitación simplificada (art. 96 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-05",
+    "tema": 12,
+    "pregunta": "Salvo disposición expresa, los informes administrativos son:",
+    "opciones": [
+      "Facultativos y no vinculantes",
+      "Preceptivos y vinculantes",
+      "Facultativos y vinculantes",
+      "Preceptivos y no vinculantes en todo caso"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 80 LPACAP fija como regla que los informes son facultativos y no vinculantes, salvo previsión expresa.",
+    "referencia": "II.3 · 6.2 Informes (art. 80 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-06",
+    "tema": 12,
+    "pregunta": "El período de información pública debe tener una duración mínima de:",
+    "opciones": [
+      "Veinte días",
+      "Diez días",
+      "Quince días",
+      "Treinta días"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 83 LPACAP exige que el período de información pública no sea inferior a veinte días.",
+    "referencia": "II.3 · 6.3 Información pública (art. 83 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-07",
+    "tema": 12,
+    "pregunta": "Las actuaciones complementarias indispensables para resolver deben practicarse en un plazo:",
+    "opciones": [
+      "No superior a quince días, con posterior audiencia de siete días",
+      "No superior a diez días, con audiencia de quince días",
+      "Mínimo de quince y máximo de treinta días, sin audiencia",
+      "De tres meses, prorrogable por otros tres"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 87 fija un máximo de quince días y, terminadas las actuaciones, se concede a los interesados un plazo de siete días para alegar.",
+    "referencia": "II.3 · 7.1 Actuaciones complementarias (art. 87 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-08",
+    "tema": 12,
+    "pregunta": "¿Cuál de estos medios de ejecución forzosa requiere habilitación legal específica?",
+    "opciones": [
+      "La multa coercitiva",
+      "El apremio sobre el patrimonio en toda obligación dineraria",
+      "La notificación de la resolución",
+      "La acumulación de procedimientos"
+    ],
+    "correcta": 0,
+    "explicación": "La multa coercitiva solo puede utilizarse cuando una ley la autorice y no es una sanción, sino un medio de ejecución.",
+    "referencia": "II.3 · 8. Ejecución forzosa (art. 103 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-09",
+    "tema": 12,
+    "pregunta": "En un procedimiento iniciado a solicitud del interesado sobre responsabilidad patrimonial, la falta de resolución en plazo produce, como regla del artículo 24:",
+    "opciones": [
+      "Silencio desestimatorio",
+      "Silencio estimatorio",
+      "Caducidad automática",
+      "La nulidad de la solicitud"
+    ],
+    "correcta": 0,
+    "explicación": "El silencio es desestimatorio en los procedimientos de responsabilidad patrimonial, aunque el régimen general de las solicitudes sea estimatorio.",
+    "referencia": "II.3 · 3.2 Excepciones al silencio positivo (art. 24 LPACAP)"
+  },
+  {
+    "id": "burgos-ii03-deep-10",
+    "tema": 12,
+    "pregunta": "En la ejecución subsidiaria de un acto administrativo:",
+    "opciones": [
+      "La Administración realiza el acto por sí o por tercero a costa del obligado cuando no sea personalísimo",
+      "Solo puede exigirse una multa penal",
+      "El obligado debe realizar personalmente cualquier actuación, aunque el acto no lo exija",
+      "Se sustituye siempre por compulsión sobre las personas"
+    ],
+    "correcta": 0,
+    "explicación": "La ejecución subsidiaria procede para actos no personalísimos que pueden ser realizados por sujeto distinto del obligado, a su costa.",
+    "referencia": "II.3 · 8. Ejecución subsidiaria (art. 102 LPACAP)"
   }
 ]
