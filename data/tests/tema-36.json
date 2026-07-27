@@ -322,5 +322,173 @@
     "explicación": "El trabajo administrativo también presenta riesgos propios que requieren prevención.",
     "referencia": "V.5 · Riesgos y medidas preventivas del puesto administrativo",
     "tema": 36
+  },
+  {
+    "id": "burgos-v05-deep-01",
+    "tema": 36,
+    "pregunta": "Según el artículo 14 LPRL, el derecho de los trabajadores a una protección eficaz frente a los riesgos laborales se corresponde con:",
+    "opciones": [
+      "El deber de la Administración de protección frente a los riesgos relacionados con el trabajo",
+      "Una recomendación que solo se aplica si ocurre un accidente",
+      "La obligación del trabajador de contratar un seguro privado",
+      "La competencia exclusiva del servicio de prevención externo"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 14 configura un derecho del trabajador y un correlativo deber de protección de la Administración o empresario en todos los aspectos relacionados con el trabajo.",
+    "referencia": "V.5 · 5. Derecho a protección y deber de la Administración"
+  },
+  {
+    "id": "burgos-v05-deep-02",
+    "tema": 36,
+    "pregunta": "Cuando la evaluación de riesgos pone de manifiesto riesgos que no pueden eliminarse, la Administración debe:",
+    "opciones": [
+      "Planificar medidas preventivas concretas, con responsables, recursos, prioridad y plazo",
+      "Entregar siempre un EPI y dar por terminada la prevención",
+      "Esperar a que ocurra un accidente para actuar",
+      "Trasladar automáticamente al trabajador afectado"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 16 LPRL exige planificar la actividad preventiva cuando la evaluación revela riesgos, especificando las medidas y su seguimiento.",
+    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva"
+  },
+  {
+    "id": "burgos-v05-deep-03",
+    "tema": 36,
+    "pregunta": "La vigilancia de la salud del trabajador es, con carácter general:",
+    "opciones": [
+      "Voluntaria, con las excepciones previstas legalmente por los riesgos y la seguridad de las personas",
+      "Obligatoria en cualquier puesto y sin necesidad de información",
+      "Incompatible con la protección de la intimidad",
+      "Una actividad que permite al empleador conocer siempre el diagnóstico médico completo"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 22 LPRL parte del consentimiento y contempla excepciones tasadas. La vigilancia debe respetar intimidad y confidencialidad; el empleador recibe las conclusiones preventivas necesarias, no el historial clínico.",
+    "referencia": "V.5 · 7.2 Vigilancia de la salud"
+  },
+  {
+    "id": "burgos-v05-deep-04",
+    "tema": 36,
+    "pregunta": "Ante un riesgo grave e inminente, el trabajador puede:",
+    "opciones": [
+      "Interrumpir su actividad y, si es necesario, abandonar el lugar de trabajo sin sufrir perjuicio por ello salvo mala fe o negligencia grave",
+      "Continuar siempre hasta recibir autorización judicial",
+      "Desactivar por su cuenta todos los sistemas de seguridad",
+      "Imponer una sanción disciplinaria a la Administración"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 21 LPRL obliga a informar y proteger frente al riesgo grave e inminente y permite interrumpir la actividad y abandonar el lugar cuando sea necesario, con las garantías legales.",
+    "referencia": "V.5 · 7.3 Emergencias y riesgo grave e inminente"
+  },
+  {
+    "id": "burgos-v05-deep-05",
+    "tema": 36,
+    "pregunta": "¿Cuál expresa correctamente la diferencia entre delegados de prevención y Comité de Seguridad y Salud?",
+    "opciones": [
+      "Los delegados representan al personal; el Comité es un órgano paritario y colegiado de consulta",
+      "Los delegados son técnicos externos y el Comité es el servicio médico",
+      "Ambos son exactamente la misma figura con distinto nombre",
+      "El Comité solo representa a la Administración y los delegados solo a la empresa contratista"
+    ],
+    "correcta": 0,
+    "explicación": "Los delegados de prevención son representantes del personal con funciones preventivas. El Comité de Seguridad y Salud es paritario y colegiado y se constituye desde 50 trabajadores en los términos del artículo 38 LPRL.",
+    "referencia": "V.5 · 9. Participación y órganos preventivos"
+  },
+  {
+    "id": "burgos-v05-deep-06",
+    "tema": 36,
+    "pregunta": "El Comité de Seguridad y Salud se constituye, con carácter general, en centros o unidades de trabajo que cuenten con:",
+    "opciones": [
+      "50 o más trabajadores",
+      "10 o más trabajadores",
+      "100 o más trabajadores",
+      "500 o más trabajadores"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 38 LPRL establece el Comité de Seguridad y Salud en empresas o centros de trabajo con 50 o más trabajadores; es paritario y colegiado.",
+    "referencia": "V.5 · 9. Participación y órganos preventivos"
+  },
+  {
+    "id": "burgos-v05-deep-07",
+    "tema": 36,
+    "pregunta": "Cuando una empresa de limpieza trabaja en un edificio municipal junto con empleados del Ayuntamiento, procede principalmente:",
+    "opciones": [
+      "Coordinar las actividades empresariales e intercambiar información sobre riesgos, medidas y emergencias",
+      "Que cada entidad ignore los riesgos de la otra por tener contratos distintos",
+      "Que la empresa contratista asuma automáticamente todas las obligaciones del Ayuntamiento",
+      "Suspender la evaluación de riesgos del personal municipal"
+    ],
+    "correcta": 0,
+    "explicación": "La concurrencia de empresas en un mismo centro exige cooperación y coordinación preventiva, incluida la información sobre riesgos e instrucciones de emergencia.",
+    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva"
+  },
+  {
+    "id": "burgos-v05-deep-08",
+    "tema": 36,
+    "pregunta": "En la aplicación de los principios del artículo 15 LPRL, la protección colectiva:",
+    "opciones": [
+      "Debe anteponerse a la protección individual",
+      "Solo se aplica cuando el EPI ha fallado",
+      "Es siempre opcional frente a cualquier EPI",
+      "Solo se aplica al personal laboral privado"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 15 ordena anteponer la protección colectiva a la individual. Los equipos individuales pueden ser necesarios, pero no sustituyen la eliminación o control colectivo del riesgo.",
+    "referencia": "V.5 · 4. Principios de la acción preventiva"
+  },
+  {
+    "id": "burgos-v05-deep-09",
+    "tema": 36,
+    "pregunta": "Una evaluación de riesgos del puesto administrativo debe revisarse, entre otros supuestos, cuando:",
+    "opciones": [
+      "Cambian los equipos, la organización o las condiciones de trabajo, o los controles muestran que las medidas son insuficientes",
+      "El trabajador solicita vacaciones",
+      "Se publica una nueva ordenanza fiscal sin relación con el puesto",
+      "Transcurre una semana aunque no haya ningún cambio"
+    ],
+    "correcta": 0,
+    "explicación": "La evaluación debe actualizarse cuando cambian las condiciones o cuando aparecen daños o indicios de insuficiencia preventiva; no existe una revisión automática por los supuestos ajenos indicados.",
+    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva"
+  },
+  {
+    "id": "burgos-v05-deep-10",
+    "tema": 36,
+    "pregunta": "En un puesto administrativo con pantalla, una medida preventiva adecuada es:",
+    "opciones": [
+      "Ajustar pantalla, silla e iluminación, evitar reflejos y alternar tareas o posturas",
+      "Mantener la misma postura para no perder concentración",
+      "Sustituir toda evaluación por gafas para el trabajador",
+      "Colocar la pantalla de espaldas a la persona para reducir el uso"
+    ],
+    "correcta": 0,
+    "explicación": "Los riesgos del puesto con pantalla son ergonómicos, visuales y organizativos. La prevención debe actuar sobre el equipo, el entorno y la organización, no solo sobre el trabajador.",
+    "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo"
+  },
+  {
+    "id": "burgos-v05-deep-11",
+    "tema": 36,
+    "pregunta": "Según el Real Decreto 488/1997, queda excluido de su ámbito, entre otros:",
+    "opciones": [
+      "Un sistema informático destinado prioritariamente a ser utilizado por el público",
+      "El puesto administrativo habitual con pantalla y teclado",
+      "La pantalla utilizada de forma continuada en un puesto de trabajo",
+      "El equipo ofimático de una unidad administrativa"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 1.3 del Real Decreto 488/1997 excluye, entre otros, los sistemas informáticos destinados prioritariamente al público; la exclusión no alcanza al puesto administrativo habitual del empleado.",
+    "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo"
+  },
+  {
+    "id": "burgos-v05-deep-12",
+    "tema": 36,
+    "pregunta": "¿Cuál es una obligación preventiva del trabajador conforme al artículo 29 LPRL?",
+    "opciones": [
+      "Informar de inmediato al superior o servicio preventivo de cualquier situación razonablemente peligrosa",
+      "Aprobar la evaluación de riesgos como autoridad competente",
+      "Designar unilateralmente al Comité de Seguridad y Salud",
+      "Sustituir al servicio de prevención en la evaluación técnica"
+    ],
+    "correcta": 0,
+    "explicación": "El trabajador debe informar de inmediato sobre situaciones que razonablemente entrañen riesgo, además de usar adecuadamente equipos y cooperar con la Administración.",
+    "referencia": "V.5 · 8. Obligaciones del personal trabajador"
   }
 ]
