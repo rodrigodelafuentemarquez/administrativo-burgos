@@ -514,5 +514,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-i07-deep-01",
+    "tema": 7,
+    "pregunta": "En un municipio de gran población, ¿qué órgano aprueba el proyecto de presupuesto y qué órgano aprueba el presupuesto general?",
+    "opciones": [
+      "La Junta de Gobierno Local aprueba el proyecto y el Pleno el presupuesto general.",
+      "El Pleno aprueba el proyecto y la Junta de Gobierno Local el presupuesto general.",
+      "La Intervención General aprueba ambos documentos.",
+      "El Alcalde aprueba el proyecto y el Tribunal Económico-Administrativo el presupuesto general."
+    ],
+    "correcta": 0,
+    "explicación": "La Junta de Gobierno Local aprueba el proyecto de presupuesto; la aprobación del presupuesto general corresponde al Pleno. La Intervención controla, pero no sustituye al órgano aprobador.",
+    "referencia": "Tema I.7 · LRBRL, arts. 123 y 127"
+  },
+  {
+    "id": "burgos-i07-deep-02",
+    "tema": 7,
+    "pregunta": "En la Junta de Gobierno Local de un municipio de gran población, el número de miembros no puede exceder de:",
+    "opciones": [
+      "Un tercio del número legal de miembros del Pleno, además del Alcalde.",
+      "La mitad del número de concejales presentes, incluido el Alcalde.",
+      "Dos tercios del número legal de miembros del Pleno, incluido el Alcalde.",
+      "Un cuarto del número legal de miembros del Pleno, sin contar al Alcalde."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 126.2 LRBRL fija el límite de un tercio del número legal de miembros del Pleno, además del Alcalde.",
+    "referencia": "Tema I.7 · LRBRL, art. 126.2"
+  },
+  {
+    "id": "burgos-i07-deep-03",
+    "tema": 7,
+    "pregunta": "¿Quién ejerce la Secretaría de la Junta de Gobierno Local?",
+    "opciones": [
+      "Un miembro de la Junta que tenga la condición de concejal y sea designado por el Alcalde.",
+      "El Interventor General municipal en todo caso.",
+      "El Secretario General del Pleno de forma automática.",
+      "El concejal de mayor edad de la Corporación."
+    ],
+    "correcta": 0,
+    "explicación": "La Secretaría de la Junta corresponde a un miembro de la propia Junta que sea concejal y sea designado por el Alcalde; existe además un órgano de apoyo específico.",
+    "referencia": "Tema I.7 · LRBRL, art. 126.4"
+  },
+  {
+    "id": "burgos-i07-deep-04",
+    "tema": 7,
+    "pregunta": "¿Cuál de estas tareas pertenece al núcleo de la Intervención General municipal?",
+    "opciones": [
+      "Ejercer el control interno económico-financiero mediante función interventora y control financiero.",
+      "Expedir las certificaciones de los acuerdos plenarios con el visto bueno del Presidente.",
+      "Resolver las reclamaciones económico-administrativas contra actos tributarios municipales.",
+      "Nombrar y cesar a los Tenientes de Alcalde."
+    ],
+    "correcta": 0,
+    "explicación": "La Intervención realiza el control interno económico-financiero y presupuestario. La fe pública corresponde a Secretaría, las reclamaciones al TEAM y el nombramiento de Tenientes al Alcalde.",
+    "referencia": "Tema I.7 · Intervención General"
+  },
+  {
+    "id": "burgos-i07-deep-05",
+    "tema": 7,
+    "pregunta": "En el Ayuntamiento de Burgos, la Secretaría Municipal está integrada, según su Reglamento Orgánico, por:",
+    "opciones": [
+      "El Secretario General, el Vicesecretario General y los Secretarios Delegados.",
+      "El Interventor General, el Tesorero y los Secretarios Delegados.",
+      "El Alcalde, el Secretario General y el Asesor Jurídico.",
+      "Únicamente el Secretario General del Pleno."
+    ],
+    "correcta": 0,
+    "explicación": "El dato específico del Reglamento Orgánico de Burgos incluye al Secretario General, al Vicesecretario General y a los Secretarios Delegados.",
+    "referencia": "Tema I.7 · Reglamento Orgánico de Burgos"
+  },
+  {
+    "id": "burgos-i07-deep-06",
+    "tema": 7,
+    "pregunta": "¿Qué órgano resuelve las reclamaciones económico-administrativas sobre actos tributarios municipales, dentro de su competencia?",
+    "opciones": [
+      "El Tribunal Económico-Administrativo Municipal.",
+      "La Intervención General.",
+      "La Secretaría General del Pleno.",
+      "La Comisión Especial de Sugerencias y Reclamaciones."
+    ],
+    "correcta": 0,
+    "explicación": "El Tribunal Económico-Administrativo Municipal es el órgano especializado de revisión económico-administrativa; no debe confundirse con el órgano que gestiona o controla los ingresos.",
+    "referencia": "Tema I.7 · gestión tributaria y revisión"
+  },
+  {
+    "id": "burgos-i07-deep-07",
+    "tema": 7,
+    "pregunta": "¿Qué afirmación describe correctamente a los Tenientes de Alcalde?",
+    "opciones": [
+      "Los nombra y separa libremente el Alcalde entre los miembros de la Junta de Gobierno Local y sustituyen al Alcalde por orden de nombramiento.",
+      "Los elige directamente el Pleno y sustituyen al Secretario General.",
+      "Los nombra la Intervención General para coordinar la gestión económica.",
+      "Son órganos directivos profesionales sin condición de concejal."
+    ],
+    "correcta": 0,
+    "explicación": "El nombramiento corresponde al Alcalde y debe recaer, en el régimen de gran población, en miembros de la Junta de Gobierno Local; su función legal esencial es la sustitución.",
+    "referencia": "Tema I.7 · LRBRL, art. 125"
+  },
+  {
+    "id": "burgos-i07-deep-08",
+    "tema": 7,
+    "pregunta": "La Comisión Especial de Sugerencias y Reclamaciones tiene como finalidad principal:",
+    "opciones": [
+      "Defender los derechos de los vecinos ante la Administración municipal.",
+      "Fiscalizar previamente todos los pagos municipales.",
+      "Resolver recursos contra sanciones penales.",
+      "Aprobar el presupuesto general del Ayuntamiento."
+    ],
+    "correcta": 0,
+    "explicación": "Es un instrumento de defensa y control ciudadano previsto para los municipios de gran población; no sustituye a la Intervención, al Pleno presupuestario ni a los tribunales.",
+    "referencia": "Tema I.7 · LRBRL, art. 132"
+  },
+  {
+    "id": "burgos-i07-deep-09",
+    "tema": 7,
+    "pregunta": "En el Ayuntamiento de Burgos, las sesiones ordinarias del Pleno se celebran:",
+    "opciones": [
+      "Una al mes, con fecha y hora fijadas en sesión extraordinaria convocada dentro de los 30 días siguientes a la constitutiva.",
+      "Una cada trimestre, fijada siempre en la sesión constitutiva.",
+      "Una al mes, pero la fecha solo puede modificarla el Alcalde sin causa.",
+      "Dos al mes, fijadas por la Intervención General."
+    ],
+    "correcta": 0,
+    "explicación": "Es la regla específica del Reglamento Orgánico de Burgos: periodicidad mensual y fijación inicial en una sesión extraordinaria dentro de los 30 días siguientes a la constitutiva.",
+    "referencia": "Tema I.7 · Reglamento Orgánico de Burgos"
+  },
+  {
+    "id": "burgos-i07-deep-10",
+    "tema": 7,
+    "pregunta": "¿Cuál es la diferencia más precisa entre Secretaría General e Intervención General?",
+    "opciones": [
+      "Secretaría garantiza fe pública y asesoramiento legal preceptivo; Intervención ejerce control interno económico-financiero.",
+      "Secretaría recauda tributos; Intervención certifica acuerdos plenarios.",
+      "Secretaría aprueba el presupuesto; Intervención nombra a la Junta de Gobierno.",
+      "Ambas realizan exactamente la misma función de control jurídico y económico."
+    ],
+    "correcta": 0,
+    "explicación": "Son funciones reservadas distintas: Secretaría se ocupa de la fe pública y la legalidad preceptiva; Intervención controla la gestión económico-financiera y presupuestaria.",
+    "referencia": "Tema I.7 · mapa de órganos municipales"
   }
 ]
