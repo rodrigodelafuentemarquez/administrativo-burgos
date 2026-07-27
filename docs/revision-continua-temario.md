@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se corrigió la fecha de la LO 3/2007, se sustituyeron referencias incorrectas a “Ley Orgánica 4/2023” por “Ley 4/2023” y se actualizó la explicación de la rectificación registral y del empleo público LGTBI. Se añadieron 12 preguntas `burgos-v01-deep-01` a `burgos-v01-deep-12` sobre composición equilibrada, acción positiva, artículo 51, planes de igualdad, acreditación, definición de violencia, rango de la Ley 4/2023, formularios, edades, plazos registrales, comparación de normas y atención municipal. El banco pasa de 23 a 35 preguntas, con IDs únicos, respuesta única y explicación; se actualizó el índice y se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de 35 preguntas, IDs únicos, tema, opciones, respuestas, explicaciones, índice y equivalencia editable/público; comprobación de tres pares `<mark>` manuales; `git diff --check`; `npm run build` correcto (101 páginas).
 - **Fuentes oficiales consultadas:** [Ley Orgánica 3/2007 en BOE](https://www.boe.es/eli/es/lo/2007/03/22/3/con), [Ley Orgánica 1/2004 en BOE](https://www.boe.es/eli/es/lo/2004/12/28/1/con) y [Ley 4/2023 en BOE](https://www.boe.es/eli/es/l/2023/02/28/4/con).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `ac0c17c` (`mejora profunda tema V.1 igualdad y LGTBI`), subido correctamente a `origin/main`.
 - **Siguiente tema sugerido:** V.2, transparencia, acceso a la información pública y buen gobierno; separar publicidad activa, derecho de acceso, límites, procedimiento y reclamación sin mezclar protección de datos de V.6.
 
 ## 27 de julio de 2026, 14:24 (Europe/Madrid)
