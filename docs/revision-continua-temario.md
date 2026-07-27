@@ -10,8 +10,16 @@
 - **Revisión de subrayados:** se leyó `src/utils/rehypeStudyHighlights.mjs` antes de editar y no se modificó el motor común. Se retiró el marcado manual excesivo del borrador y se dejaron tres marcas breves y nucleares: Internet como red mundial de redes, CCO no cifra el mensaje/adjuntos y HTTPS protege la conexión pero no garantiza la oficialidad del sitio. Ninguna marca abarca un párrafo; normas, fechas, órganos y conceptos reconocidos por el motor quedan sin duplicar.
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-v11-deep-01` a `burgos-v11-deep-12` sobre CC/CCO, IMAP, configuración de POP3, canal formal de registro, Internet/WWW, partes de URL, DNS, límites de HTTPS, phishing, navegación privada, SaaS y resolución de un supuesto administrativo digital. El banco pasa de 32 a 44 preguntas, con IDs únicos, una sola respuesta correcta y explicación útil; se actualizaron ambos índices y se sincronizó `public/data/tests` mediante `npm run prepare:data`.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de 44 preguntas en editable y público, unicidad, pertenencia al tema, opciones, respuesta y explicaciones; comprobación de equivalencia entre copias; revisión de tres pares `<mark>`; `git diff --check`; `npm run build` correcto (101 páginas).
-- **Commit/push:** pendiente hasta cerrar la documentación de esta ejecución.
-- **Siguiente tema sugerido:** revisar el estado global y, si no hay huecos documentados de segunda vuelta, iniciar el cierre final del temario; no queda otro tema oficial posterior a V.11.
+- **Commit/push:** commit `327cf37` (`mejora profunda tema V.11 correo e Internet`) realizado y subido a `origin/main`.
+- **Siguiente tema sugerido:** ninguno: tras esta ejecución los 42 temas oficiales figuran como `revisado` y no queda un tema posterior en el programa.
+
+## Cierre final de la revisión completa — 27 de julio de 2026, 16:04 (Europe/Madrid)
+
+- Los 42 archivos de `src/content/programa` tienen estado `revisado`.
+- La memoria documenta revisión profunda de todos los temas; las anotaciones históricas de “pendiente” quedaron superadas por sus commits posteriores y no representan trabajo abierto actual.
+- No quedan temas oficiales marcados para segunda vuelta, incompletos ni sin banco relacionado revisado.
+- V.11 quedó subido en `327cf37`; el repositorio estaba limpio después del push.
+- Se ejecuta una última comprobación de build antes de cerrar y retirar esta automatización.
 
 ## 27 de julio de 2026, 15:51 (Europe/Madrid)
 
