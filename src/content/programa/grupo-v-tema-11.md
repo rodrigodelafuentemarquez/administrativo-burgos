@@ -3,163 +3,161 @@ grupo: "Grupo V. Competencias"
 tema: 11
 codigo: "Tema V.11"
 titulo: "Correo electrónico: conceptos elementales y funcionamiento. La red Internet: conceptos elementales y servicios."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Correo electrónico
+## 1. Qué hay que dominar
 
-El <mark>correo electrónico</mark> es un servicio de comunicación que permite enviar y recibir mensajes a través de redes. Cada cuenta se identifica mediante una dirección con formato <mark>usuario@dominio</mark>. En Administración se usa para comunicaciones internas, avisos, coordinación y, con cautela, relación con ciudadanos.
+El tema reúne dos bloques conectados, pero distintos: el **correo electrónico**, que intercambia mensajes entre buzones, y **Internet**, que es la red mundial de redes y ofrece muchos servicios. En un test hay que distinguir servicio, programa cliente, protocolo, dirección y canal administrativo.
 
-Un mensaje incluye <mark>remitente, destinatarios, asunto, cuerpo, adjuntos y fecha</mark>. Puede enviarse con copia (CC) o copia oculta (CCO). La <mark>copia oculta</mark> es importante cuando se envia a multiples destinatarios que no deben conocer direcciones de los demás.
+### Mapa de conceptos
 
-| Campo | Función |
+| Concepto | Qué es | Ejemplo |
+| --- | --- | --- |
+| Servicio | Prestación disponible en la red | correo, web, videoconferencia |
+| Cliente | Programa con el que se usa un servicio | Outlook, navegador |
+| Protocolo | Reglas de comunicación | SMTP, IMAP, HTTP |
+| Dirección | Identificador o localizador | usuario@dominio, URL, IP |
+| Servidor | Equipo o servicio que atiende peticiones | servidor de correo o web |
+
+> **Regla de examen:** Outlook no es un protocolo; una URL no es una dirección de correo; HTTPS no es un navegador; y el correo ordinario no sustituye por sí solo al registro ni a la notificación administrativa.
+
+## 2. Correo electrónico: concepto y elementos
+
+El correo electrónico permite enviar y recibir mensajes mediante buzones gestionados por servidores. Una dirección tiene normalmente la forma `usuario@dominio`: la parte anterior a `@` identifica el buzón dentro del dominio y la posterior identifica el dominio del servicio.
+
+Un mensaje puede contener:
+
+1. **Remitente**, que lo envía; y destinatarios principales en **Para**.
+2. **Asunto**, que resume el contenido y facilita su localización.
+3. **Cuerpo**, con el texto del mensaje.
+4. **CC**, para informar a destinatarios visibles para los demás receptores.
+5. **CCO**, para enviar copias sin mostrar esas direcciones al resto.
+6. **Adjuntos**, que incorporan archivos y deben comprobarse antes del envío.
+7. Fecha, firma, respuesta, reenvío y, según el sistema, clasificación o prioridad.
+
+| Campo | Uso | Trampa habitual |
+| --- | --- | --- |
+| Para | Destinatario principal | No oculta direcciones |
+| CC | Destinatario informado y visible | No equivale a CCO |
+| CCO | Copia oculta | <mark>No cifra el mensaje ni sus adjuntos</mark> |
+| Asunto | Identificación rápida del mensaje | «Urgente» no explica el contenido |
+| Adjunto | Archivo añadido al mensaje | No convierte el correo en registro |
+
+En clientes como Outlook pueden existir carpetas de entrada, enviados, borradores, eliminados, correo no deseado y carpetas personalizadas. Las reglas, filtros, búsquedas, firmas y listas de distribución automatizan la gestión, pero no cambian la naturaleza jurídica del mensaje.
+
+### Correo y actuación administrativa
+
+Un correo puede servir para avisar, coordinar, remitir información o mantener una comunicación de trabajo. Sin embargo, deben utilizarse el **registro electrónico** para presentar solicitudes, escritos o documentos cuando proceda, y la **notificación electrónica** para comunicar formalmente actos administrativos conforme a sus reglas. La sede electrónica ofrece el punto oficial de acceso a trámites y servicios; no es sinónimo de buzón de correo.
+
+> **Muy importante:** recibir un correo informativo no demuestra necesariamente que se haya practicado una notificación administrativa válida. Tampoco el adjunto de un correo acredita por sí solo la presentación en registro.
+
+## 3. Funcionamiento y protocolos del correo
+
+El mensaje no suele viajar directamente de un ordenador a otro. El cliente entrega el mensaje a un servidor de salida; los servidores localizan el dominio destinatario y el mensaje queda disponible en el buzón del receptor. El cliente receptor consulta o sincroniza ese buzón.
+
+| Protocolo | Función esencial | Cómo recordarlo |
+| --- | --- | --- |
+| **SMTP** | Envío desde el cliente al servidor y transferencia entre servidores | **S**end / salida |
+| **IMAP** | Acceso y sincronización del buzón conservado en el servidor | Varias vistas sincronizadas |
+| **POP3** | Descarga de mensajes según la configuración del cliente | Descarga; no presupone siempre borrado |
+
+SMTP se asocia al envío. IMAP permite que varios dispositivos vean carpetas, mensajes leídos y enviados de forma sincronizada. POP3 descarga el correo y su conservación o eliminación del servidor depende de la configuración; por eso no debe memorizarse como una eliminación obligatoria.
+
+La seguridad del correo puede incluir cifrado de la conexión, autenticación, filtros antispam y análisis de adjuntos. Que un mensaje use una conexión segura no garantiza que el remitente sea legítimo ni que su contenido sea inocuo.
+
+### Adjuntos y operaciones frecuentes
+
+Antes de abrir o enviar un archivo se comprueba el destinatario, la versión, el formato, el tamaño, la confidencialidad y la existencia de datos personales innecesarios. Si el archivo es voluminoso o contiene información sensible, se utiliza el canal corporativo o la sede/plataforma que corresponda, con permisos y trazabilidad.
+
+**Spam** es correo no solicitado, generalmente masivo. El filtro antispam ayuda a clasificarlo, pero no sustituye la prudencia. El **phishing** intenta engañar al destinatario para obtener credenciales, datos o pagos; la suplantación puede usar el nombre o la imagen de una organización real.
+
+## 4. Internet y sus conceptos elementales
+
+<mark>Internet es una red mundial de redes</mark> que interconecta equipos mediante la familia de protocolos TCP/IP. La **World Wide Web** es uno de sus servicios, no un sinónimo perfecto de Internet: también son servicios de Internet el correo, la transferencia de archivos, la mensajería, la nube y la videoconferencia.
+
+### Origen y evolución que puede preguntarse
+
+- **ARPANET** fue una red precursora; la primera conexión experimental citada habitualmente es del **29 de octubre de 1969**.
+- TCP/IP se adoptó como estándar de ARPANET en **1983**.
+- Tim Berners-Lee ideó la World Wide Web en el CERN; la web combina documentos enlazados, servidores web, HTTP y navegadores.
+
+Las fechas históricas sirven como referencia, pero el núcleo del tema es comprender protocolos, direcciones y servicios. No deben confundirse ARPANET (red precursora), TCP/IP (familia de protocolos) y WWW (servicio de documentos web).
+
+### TCP/IP, IP y DNS
+
+**IP** proporciona direccionamiento y encaminamiento de paquetes. IPv4 utiliza direcciones de 32 bits; IPv6, de 128 bits. **TCP** aporta transmisión orientada a conexión y control de entrega/orden; **UDP** reduce controles y prioriza rapidez, por lo que puede ser útil en tiempo real aunque no garantice la misma fiabilidad.
+
+**DNS** (Domain Name System) traduce nombres de dominio legibles, como `sede.ejemplo.es`, a direcciones IP que permiten localizar servidores. DNS no cifra por sí mismo la navegación, no es un navegador y no convierte una web en oficial.
+
+### URL, dominio, IP y HTTP/HTTPS
+
+Una **URL** localiza un recurso. En `https://sede.ejemplo.es/tramites?id=4#pago` pueden distinguirse:
+
+- protocolo o esquema: `https`;
+- host o dominio: `sede.ejemplo.es`;
+- ruta: `/tramites`;
+- parámetro: `id=4`;
+- fragmento: `#pago`.
+
+**HTTP** usa un modelo de petición y respuesta entre cliente y servidor. **HTTPS** añade TLS para proteger la comunicación en tránsito y ayudar a autenticar el servidor mediante su certificado. El candado o HTTPS no demuestra que una página sea oficial, veraz o segura en todos sus contenidos: hay que comprobar el dominio, el certificado, el contexto y la fuente.
+
+| Código HTTP | Significado general |
 | --- | --- |
-| Para | Destinatario principal. |
-| CC | Destinatarios informados visibles. |
-| CCO | Destinatarios ocultos al resto. |
-| Asunto | Identifica el contenido del mensaje. |
-| Cuerpo | Texto principal. |
-| Adjuntos | Documentos o archivos incorporados. |
-| Firma | Datos profesionales del remitente. |
+| 200 | Petición atendida correctamente |
+| 3xx | Redirección |
+| 4xx | Error o problema atribuible a la petición/cliente |
+| 5xx | Error del servidor |
 
-En Outlook y otros clientes corporativos, varias direcciones de correo suelen separarse con punto y coma. La búsqueda `cc:"Ana Muñoz"` localiza mensajes en los que ese nombre aparece en la línea CC.
+## 5. Servicios de Internet
 
-En una Administración, el correo electrónico no siempre equivale a notificación administrativa formal. Para notificar actos administrativos deben usarse los cauces legalmente previstos. El correo puede servir para comunicación auxiliar, coordinación o envio informativo, pero no debe sustituir al registro o a la notificación cuando estos son obligatorios.
+| Servicio | Función | Ejemplo administrativo |
+| --- | --- | --- |
+| Web/WWW | Consultar e interactuar con páginas y aplicaciones | sede, transparencia, normativa |
+| Correo | Intercambiar mensajes y archivos | coordinación interna |
+| Transferencia de archivos | Mover archivos entre sistemas | intercambio corporativo controlado |
+| Videoconferencia y mensajería | Comunicación síncrona o rápida | reunión de trabajo |
+| Nube | Usar almacenamiento, aplicaciones o infraestructura remota | colaboración corporativa |
+| VPN | Crear un túnel protegido sobre otra red | acceso remoto autorizado |
+| Sede electrónica | Tramitar ante una Administración | registro y consulta de expediente |
+| Servicios de publicación y contratación | Difundir información y licitaciones | BOP, perfil del contratante |
 
-<mark>Idea clave:</mark> correo electrónico ordinario, registro electrónico y notificación electrónica no son lo mismo.
+En la nube se distinguen **IaaS** (infraestructura), **PaaS** (plataforma) y **SaaS** (software como servicio). Una aplicación web de correo o una suite ofimática accesible sin instalar toda la infraestructura es un ejemplo de SaaS. La nube no elimina la necesidad de permisos, copias, control de accesos, protección de datos ni archivo del expediente.
 
-| Canal | Uso correcto |
-| --- | --- |
-| Correo electrónico | Comunicación auxiliar, coordinación, envio informativo. |
-| Registro electrónico | Presentación formal de solicitudes, escritos y documentos. |
-| Notificación electrónica | Comunicación formal de actos administrativos con garantías legales. |
-| Sede electrónica | Punto oficial para trámites, registros, consulta y servicios. |
+## 6. Navegador y uso práctico de Internet
 
-Un correo puede ser útil para avisar, coordinar o pedir aclaraciones, pero si la ley exige notificar una resolución o registrar una solicitud, debe usarse el cauce formal correspondiente.
+El navegador interpreta recursos web y permite abrir pestañas, usar favoritos, consultar historial y descargas, buscar dentro de la página, imprimir y configurar privacidad. La barra de direcciones puede servir también para buscar, pero una búsqueda no equivale a una URL oficial.
 
-## Funcionamiento
+Atajos generales frecuentes son `Ctrl+T` (nueva pestaña), `Ctrl+W` (cerrar), `Ctrl+Mayús+T` (reabrir la última cerrada), `Ctrl+D` (favorito), `Ctrl+H` (historial), `Ctrl+J` (descargas), `Ctrl+F` (buscar en la página), `Ctrl+P` (imprimir) y `Ctrl+0` (restablecer zoom). Pueden variar en funciones concretas según navegador y sistema.
 
-El envio y recepción se basan en servidores y protocolos. <mark>SMTP se utiliza para envio</mark>. <mark>IMAP y POP se usan para recepción o sincronización</mark>. En entornos corporativos, clientes como Outlook se integran con calendarios, contactos, tareas y directorio.
+Las **cookies** guardan datos del sitio en el navegador; la caché conserva recursos temporales para acelerar cargas. Borrar cookies puede cerrar sesiones y borrar preferencias; borrar caché no equivale a borrar el historial. Las extensiones añaden funciones y deben instalarse solo desde fuentes autorizadas.
 
-Los adjuntos permiten enviar documentos, pero deben controlarse tamano, formato, confidencialidad y seguridad. Para documentos administrativos oficiales, muchas veces debe usarse registro, sede o plataforma específica, no correo ordinario.
+La navegación privada o InPrivate evita que el navegador conserve determinados datos locales al cerrar la ventana, pero no hace anónimo al usuario frente a la organización, el proveedor de acceso, la red corporativa o los sitios visitados. Los archivos descargados y favoritos pueden conservarse.
 
-| Protocolo/concepto | Explicación |
-| --- | --- |
-| SMTP | Protocolo habitual de envio de correo. |
-| IMAP | Sincroniza mensajes con el servidor. |
-| POP | Descarga correo desde servidor, según configuración. |
-| Servidor de correo | Sistema que envia, recibe y almacena mensajes. |
-| Lista de distribución | Grupo de destinatarios gestionado conjuntamente. |
-| Calendario | Organiza reuniones, citas y convocatorias. |
+## 7. Seguridad, privacidad y fuentes oficiales
 
-| Correo y Outlook | Dato de examen |
-| --- | --- |
-| SMTP | Envío de correo desde cliente a servidor y entre servidores. |
-| IMAP | Mantiene mensajes en servidor y sincroniza carpetas entre dispositivos. |
-| POP | Descarga mensajes desde el servidor según configuración. |
-| Carpeta Bandeja de entrada | Mensajes recibidos. |
-| Permiso Colaborador | Puede crear elementos en una carpeta sin leer ni editar los existentes. |
-| Grupo público de Outlook | Genera dirección de grupo a la que pueden enviarse mensajes para distribuirlos. |
-| CCO | Protege privacidad de direcciones de destinatarios. |
+Antes de introducir credenciales o descargar un archivo se verifica la URL completa, el dominio, el certificado, el remitente, el contexto y el canal. Son señales de alerta la urgencia artificial, enlaces acortados o parecidos al oficial, adjuntos inesperados, solicitud de contraseñas/códigos y cambios inusuales en la forma de pago.
 
-El calendario corporativo permite convocar reuniones, reservar salas, enviar invitaciones, modificar horarios y controlar asistentes. En órganos colegiados formales no sustituye la convocatoria administrativa cuando la normativa exige orden del día, documentación y notificación formal.
+Buenas prácticas en un puesto administrativo:
 
-## Buenas prácticas
+1. Usar cuentas, dispositivos, navegadores y almacenamiento corporativos autorizados.
+2. Aplicar contraseñas robustas, MFA cuando exista y bloqueo de pantalla.
+3. No reutilizar credenciales ni introducirlas desde enlaces sospechosos.
+4. Mantener sistema, navegador y extensiones actualizados y limitar permisos.
+5. Compartir la mínima información necesaria y revisar destinatarios y CCO.
+6. Verificar la fuente oficial: **BOE**, **BOCYL**, **BOP**, sede o web institucional correspondiente.
+7. Comunicar incidentes al soporte o responsable indicado; no borrar evidencias sin instrucciones.
 
-Debe escribirse <mark>asunto claro, mensaje breve, destinatarios correctos, firma adecuada, lenguaje respetuoso y adjuntos comprobados</mark>. No deben enviarse datos personales innecesarios ni información sensible sin garantías.
+> **Error típico de test:** <mark>HTTPS protege la conexión, pero no garantiza la oficialidad del sitio</mark>. La oficialidad se comprueba por el dominio y la fuente, no por el candado aislado.
 
-Riesgos frecuentes son <mark>phishing, suplantación, malware, enlaces falsos, adjuntos infectados y envio a destinatario equivocado</mark>. Hay que verificar remitente, desconfiar de urgencias inusuales, no abrir adjuntos sospechosos y comunicar incidentes.
+## 8. Cómo resolver supuestos y esquema final
 
-Antes de enviar un correo administrativo conviene comprobar:
+Ante un supuesto, identifica primero si se pregunta por un campo del mensaje, un protocolo, una dirección, un servicio o una medida de seguridad. Después aplica esta cadena: **correo (SMTP/IMAP/POP3) → red y localización (IP/DNS/URL) → web (HTTP/HTTPS) → servicio administrativo (correo, registro, sede o notificación)**.
 
-- que el destinatario es correcto;
-- que el asunto permite identificar el tema;
-- que no se incluyen datos personales innecesarios;
-- que los adjuntos son los correctos;
-- que no quedan comentarios internos en documentos;
-- que se usa CCO cuando hay multiples destinatarios externos;
-- que el canal es adecuado y no deberia usarse registro o sede.
+> **Correo:** Para/CC/CCO → adjunto → SMTP envío → IMAP sincroniza / POP3 descarga.
+>
+> **Internet:** red de redes → TCP/IP → DNS resuelve dominio → URL localiza recurso → HTTP/HTTPS comunica.
+>
+> **Seguridad:** comprobar remitente y dominio → minimizar datos → no abrir enlaces/adjuntos dudosos → usar canal oficial → comunicar incidente.
 
-También conviene aplicar una regla sencilla: **una idea por asunto y un asunto comprensible**. Un correo con asunto "varios" o "urgente" no permite localizar después el expediente, la unidad o el trámite.
-
-| Situación | Buena práctica |
-| --- | --- |
-| Envio a muchas personas externas | Usar CCO para proteger direcciones. |
-| Documento con datos personales | Valorar si el correo es canal adecuado. |
-| Adjunto importante | Abrirlo antes de enviar y comprobar versión. |
-| Correo sospechoso | No pinchar enlaces ni abrir adjuntos. |
-| Respuesta con historial largo | Revisar que no se reenvian datos innecesarios. |
-
-## Internet
-
-<mark>Internet es una red mundial de redes</mark> que permite intercambio de información mediante protocolos. Sus servicios incluyen web, correo, transferencia de archivos, mensajeria, videoconferencia, servicios en nube, administración electrónica y acceso a bases de datos.
-
-La web utiliza navegadores y direcciones URL. HTTPS indica conexion cifrada entre navegador y servidor. Los buscadores localizan información, pero no garantizan oficialidad. En oposición y trabajo administrativo deben priorizarse fuentes oficiales como <mark>BOE</mark>, <mark>BOCYL</mark>, <mark>BOP</mark>, sede municipal y portales institucionales.
-
-## Conceptos elementales
-
-Un <mark>dominio</mark> identifica un sitio. Una <mark>URL</mark> localiza un recurso. Una <mark>dirección IP</mark> identifica equipos en red. <mark>DNS traduce dominios a direcciones IP</mark>. Un navegador interpreta paginas y permite interactuar con servicios.
-
-Las cookies almacenan información de navegación. La cache guarda recursos para acelerar carga. Los certificados digitales permiten identificar sedes y usuarios, firmar y cifrar comunicaciones.
-
-| Concepto | Explicación |
-| --- | --- |
-| URL | Dirección completa de un recurso web. |
-| Dominio | Nombre identificativo de un sitio. |
-| IP | Dirección numerica de un equipo o servidor. |
-| DNS | Sistema que traduce dominios a IP. |
-| HTTP/HTTPS | Protocolos de comunicación web; HTTPS cifra conexion. |
-| Navegador | Programa para acceder a paginas web. |
-| Cookie | Dato almacenado por un sitio en el navegador. |
-| Cache | Almacenamiento temporal para acelerar carga. |
-
-| Internet | Dato corto |
-| --- | --- |
-| ARPANET | Origen histórico de Internet. |
-| Primera conexión ARPANET | <mark>29 de octubre de 1969</mark>. |
-| TCP/IP como estándar en ARPANET | 1983. |
-| World Wide Web | Ideada por Tim Berners-Lee. |
-| IPv4 | Direcciones de 32 bits. |
-| VPN | Túnel cifrado seguro sobre Internet. |
-| SaaS | Software accesible desde navegador sin instalación local. |
-| Escritorio virtual | Estación de trabajo virtual separada del dispositivo físico. |
-
-En Microsoft Edge puede anclarse un sitio web al menú Inicio desde el menú de configuración y más, usando las opciones de herramientas o anclaje disponibles según versión.
-
-<mark>HTTPS no garantiza que una página sea correcta o oficial</mark>; garantiza que la conexion va cifrada con ese sitio. Una página fraudulenta también puede usar HTTPS. Por eso hay que comprobar dominio, certificado, contexto y fuente oficial.
-
-## Servicios de Internet
-
-Los servicios más habituales son <mark>World Wide Web, correo electrónico, almacenamiento en nube, videoconferencia, redes privadas virtuales, transferencia de archivos, sedes electronicas, pasarelas de pago, plataformas de contratación y sistemas de notificación</mark>.
-
-En la Administración, Internet permite registro electrónico, consulta de expedientes, transparencia, licitación pública, factura electrónica, pagos tributarios, padrón, cita previa y comunicación institucional.
-
-| Servicio | Uso administrativo |
-| --- | --- |
-| Sede electrónica | Tramites, registro y notificaciones. |
-| <mark>BOE</mark>/<mark>BOP</mark>/<mark>BOCYL</mark> | Consulta normativa y publicaciones oficiales. |
-| Plataforma de contratación | Licitaciones y perfil del contratante. |
-| Pasarela de pagos | Pago de tributos, tasas o precios públicos. |
-| Carpeta ciudadana | Consulta de expedientes y datos. |
-| Videoconferencia | Reuniones y formación. |
-| Nube corporativa | Colaboración y documentos internos. |
-
-## Seguridad
-
-La navegación segura exige comprobar <mark>URL, certificado, dominio oficial, privacidad, permisos, descargas y credenciales</mark>. No se deben introducir claves en paginas dudosas ni descargar software no autorizado. La información administrativa debe tratarse en sistemas corporativos, no en servicios personales.
-
-Un criterio práctico para fuentes oficiales: si se estudia una ley, debe consultarse en <mark>BOE</mark> o boletín oficial correspondiente; si se realiza un trámite municipal, debe usarse sede o web municipal; si se descarga un modelo, debe verificarse que pertenece al organismo competente y que está actualizado.
-
-Senales de alerta:
-
-- dominio parecido pero no identico al oficial;
-- mensaje que exige actuar con urgencia;
-- enlaces acortados o sospechosos;
-- faltas de ortografia o formato inusual;
-- petición de contrasenas o códigos;
-- adjuntos inesperados;
-- remitente que suplanta a un organismo.
-
-En caso de duda, no se responde ni se pincha: se verifica por canal oficial o se consulta al servicio informatico.
-
-Los navegadores permiten marcadores, historial, descargas, pestañas, extensiones y configuración de privacidad. En equipos municipales deben evitarse extensiones no autorizadas, descargas de software externo y almacenamiento de contraseñas en navegadores si la política corporativa no lo permite. La comodidad no puede comprometer credenciales ni datos administrativos.
+La idea final es: **el protocolo explica cómo se comunica el sistema; la dirección indica dónde; el servicio dice para qué; y el canal administrativo determina qué garantías tiene la actuación**.

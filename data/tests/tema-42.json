@@ -475,5 +475,173 @@
     "correcta": 0,
     "referencia": "Revisión test reales · conceptos elementales de correo",
     "explicación": "El correo electrónico se apoya en servidores y protocolos como SMTP, POP o IMAP."
+  },
+  {
+    "id": "burgos-v11-deep-01",
+    "tema": 42,
+    "pregunta": "¿Qué diferencia describe correctamente los campos CC y CCO de un correo electrónico?",
+    "opciones": [
+      "CC muestra los destinatarios informados; CCO oculta esas direcciones al resto de destinatarios.",
+      "CC cifra el mensaje y CCO cifra solamente los adjuntos.",
+      "CC se usa para adjuntar archivos y CCO para firmarlos.",
+      "CC oculta destinatarios y CCO los muestra siempre."
+    ],
+    "correcta": 0,
+    "explicación": "CC es copia visible y CCO copia oculta. CCO protege la exposición de direcciones, pero no cifra por sí mismo el mensaje.",
+    "referencia": "V.11 · Elementos del correo"
+  },
+  {
+    "id": "burgos-v11-deep-02",
+    "tema": 42,
+    "pregunta": "Una unidad necesita que los mensajes y sus carpetas se sincronicen en ordenador y móvil. ¿Qué protocolo se asocia principalmente a ese uso?",
+    "opciones": [
+      "IMAP",
+      "SMTP",
+      "HTTP",
+      "DNS"
+    ],
+    "correcta": 0,
+    "explicación": "IMAP permite acceder al buzón conservado en el servidor y sincronizar mensajes, carpetas y estados entre dispositivos.",
+    "referencia": "V.11 · Protocolos del correo"
+  },
+  {
+    "id": "burgos-v11-deep-03",
+    "tema": 42,
+    "pregunta": "¿Cuál es la afirmación más precisa sobre POP3?",
+    "opciones": [
+      "Descarga mensajes según la configuración del cliente; no es obligatorio que los elimine siempre del servidor.",
+      "Es el protocolo utilizado exclusivamente para enviar mensajes entre servidores.",
+      "Traduce nombres de dominio en direcciones IP.",
+      "Cifra cualquier página web mediante TLS."
+    ],
+    "correcta": 0,
+    "explicación": "POP3 se orienta a la descarga del correo. La conservación o eliminación posterior en el servidor depende de la configuración.",
+    "referencia": "V.11 · Protocolos del correo"
+  },
+  {
+    "id": "burgos-v11-deep-04",
+    "tema": 42,
+    "pregunta": "Un ciudadano remite por correo electrónico un escrito para el que se exige presentación formal. ¿Qué debe comprobarse?",
+    "opciones": [
+      "Si corresponde presentarlo por el registro o la sede electrónica, porque un correo ordinario no equivale por sí solo a registro.",
+      "Que el asunto contenga la palabra REGISTRO, pues eso convierte el mensaje en una solicitud registrada.",
+      "Que el archivo adjunto esté en PDF, porque el formato siempre sustituye al registro.",
+      "Que se envíe con CCO, porque la copia oculta acredita la recepción."
+    ],
+    "correcta": 0,
+    "explicación": "El correo puede ser un canal auxiliar, pero el registro o la sede proporcionan el cauce formal cuando lo exige la normativa.",
+    "referencia": "V.11 · Correo y actuación administrativa"
+  },
+  {
+    "id": "burgos-v11-deep-05",
+    "tema": 42,
+    "pregunta": "¿Qué relación entre Internet y World Wide Web es correcta?",
+    "opciones": [
+      "La Web es un servicio de Internet basado en documentos y aplicaciones web; Internet también ofrece correo, nube y otros servicios.",
+      "Son exactamente el mismo concepto y solo cambia el nombre comercial.",
+      "Internet es un navegador y la Web es el protocolo SMTP.",
+      "La Web es la red física que sustituye a TCP/IP."
+    ],
+    "correcta": 0,
+    "explicación": "Internet es la infraestructura/red de redes; la WWW es uno de los servicios que funciona sobre ella.",
+    "referencia": "V.11 · Internet y sus servicios"
+  },
+  {
+    "id": "burgos-v11-deep-06",
+    "tema": 42,
+    "pregunta": "Al escribir https://sede.ejemplo.es/tramites?id=4#pago, ¿qué parte identifica el recurso o ubicación dentro del sitio?",
+    "opciones": [
+      "La ruta /tramites, mientras que id=4 es un parámetro y #pago un fragmento.",
+      "El protocolo https, que contiene por sí solo toda la ubicación.",
+      "El dominio sede.ejemplo.es, que incluye también la ruta y el fragmento.",
+      "El fragmento #pago, que identifica siempre el servidor."
+    ],
+    "correcta": 0,
+    "explicación": "Una URL puede componerse de esquema, host, ruta, parámetros y fragmento; cada parte cumple una función distinta.",
+    "referencia": "V.11 · URL, dominio, IP y HTTP"
+  },
+  {
+    "id": "burgos-v11-deep-07",
+    "tema": 42,
+    "pregunta": "¿Qué hace principalmente DNS cuando se accede a un dominio?",
+    "opciones": [
+      "Resuelve el nombre de dominio para localizar la dirección IP correspondiente.",
+      "Cifra todo el contenido que intercambian navegador y servidor.",
+      "Envía el mensaje de correo desde el cliente al servidor.",
+      "Guarda el historial y las cookies del navegador."
+    ],
+    "correcta": 0,
+    "explicación": "DNS funciona como sistema de resolución de nombres: relaciona nombres de dominio con direcciones IP.",
+    "referencia": "V.11 · TCP/IP, IP y DNS"
+  },
+  {
+    "id": "burgos-v11-deep-08",
+    "tema": 42,
+    "pregunta": "¿Qué garantiza HTTPS de forma más directa?",
+    "opciones": [
+      "Protege la comunicación en tránsito mediante TLS, pero no demuestra por sí solo que el sitio sea oficial.",
+      "Que el contenido de la página sea verdadero y pertenezca a una Administración.",
+      "Que el usuario sea anónimo frente al proveedor y a la red corporativa.",
+      "Que todos los archivos descargados estén libres de malware."
+    ],
+    "correcta": 0,
+    "explicación": "HTTPS protege la conexión con el servidor mediante TLS. La oficialidad exige comprobar el dominio y la fuente, y el usuario debe seguir verificando los contenidos.",
+    "referencia": "V.11 · URL, dominio, IP y HTTP"
+  },
+  {
+    "id": "burgos-v11-deep-09",
+    "tema": 42,
+    "pregunta": "¿Cuál es la medida adecuada al recibir un correo que pide con urgencia las credenciales mediante un enlace?",
+    "opciones": [
+      "No usar el enlace; verificar la petición por un canal oficial y comunicar el posible phishing.",
+      "Responder con la contraseña y cambiarla después si el mensaje parece urgente.",
+      "Reenviarlo a todos los contactos para preguntar si también lo han recibido.",
+      "Abrir primero el adjunto para comprobar si el remitente es auténtico."
+    ],
+    "correcta": 0,
+    "explicación": "La urgencia y la solicitud de credenciales son señales de alerta. La verificación debe hacerse por un canal independiente y autorizado.",
+    "referencia": "V.11 · Seguridad, privacidad y fuentes oficiales"
+  },
+  {
+    "id": "burgos-v11-deep-10",
+    "tema": 42,
+    "pregunta": "¿Qué afirmación sobre la navegación privada es correcta?",
+    "opciones": [
+      "Evita que el navegador conserve determinados datos locales al cerrar la ventana, pero no garantiza anonimato frente a la red o los sitios visitados.",
+      "Cifra automáticamente todos los mensajes y oculta la IP ante cualquier tercero.",
+      "Impide que se conserven los archivos descargados y los favoritos.",
+      "Sustituye al antivirus y autoriza extensiones no verificadas."
+    ],
+    "correcta": 0,
+    "explicación": "La ventana privada limita ciertos registros locales, pero no elimina la visibilidad que pueden tener la organización, el proveedor o los sitios visitados.",
+    "referencia": "V.11 · Navegador y uso práctico de Internet"
+  },
+  {
+    "id": "burgos-v11-deep-11",
+    "tema": 42,
+    "pregunta": "En servicios de nube, ¿qué significa SaaS?",
+    "opciones": [
+      "Software como servicio, accesible para el usuario sin gestionar toda la infraestructura subyacente.",
+      "Infraestructura como servicio, limitada a cableado físico local.",
+      "Un protocolo específico para recibir correo.",
+      "Un sistema que traduce dominios en direcciones IP."
+    ],
+    "correcta": 0,
+    "explicación": "SaaS ofrece aplicaciones como servicio. IaaS se refiere a infraestructura y PaaS a plataformas para desarrollar o desplegar aplicaciones.",
+    "referencia": "V.11 · Servicios de Internet"
+  },
+  {
+    "id": "burgos-v11-deep-12",
+    "tema": 42,
+    "pregunta": "¿Qué secuencia relaciona correctamente una actuación administrativa digital?",
+    "opciones": [
+      "Comprobar dominio y fuente → elegir sede o registro si el trámite es formal → minimizar datos → conservar la trazabilidad correspondiente.",
+      "Abrir cualquier enlace con HTTPS → enviar datos por correo → borrar el mensaje y el justificante.",
+      "Usar CCO → considerar registrada la solicitud → guardar la contraseña en el navegador.",
+      "Descargar una extensión desconocida → introducir credenciales → reenviar el expediente a una cuenta personal."
+    ],
+    "correcta": 0,
+    "explicación": "La seguridad y la validez del trámite exigen verificar la fuente, escoger el canal formal cuando corresponda, aplicar minimización y conservar evidencias o justificantes.",
+    "referencia": "V.11 · Cómo resolver supuestos y seguridad"
   }
 ]
