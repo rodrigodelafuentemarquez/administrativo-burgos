@@ -98,7 +98,7 @@
   {
     "id": "t22-p002",
     "tema": 22,
-    "pregunta": "Según el art. 55 TREBEP, el acceso al empleo público se rige por los principios de:",
+    "pregunta": "Según el art. 55 TREBEP, los procedimientos selectivos deben respetar, entre otras, las garantías de:",
     "opciones": [
       "igualdad, mérito, capacidad y publicidad",
       "libre designación y discrecionalidad política",
@@ -106,7 +106,7 @@
       "capacidad, opacidad y jerarquía"
     ],
     "correcta": 0,
-    "explicación": "El tema destaca esos principios como rectores del acceso.",
+    "explicación": "La igualdad, el mérito y la capacidad son los principios constitucionales del artículo 55.1; la publicidad aparece entre las garantías de los procedimientos selectivos del artículo 55.2.",
     "referencia": "III.1 · 2.1 Principios de acceso (art. 55 TREBEP)"
   },
   {
@@ -364,15 +364,15 @@
   {
     "id": "t28-p011",
     "tema": 22,
-    "pregunta": "En empleo público local, el sistema ordinario de provisión de puestos es:",
+    "pregunta": "En empleo público local, los sistemas ordinarios de provisión de puestos son:",
     "opciones": [
-      "el concurso",
+      "el concurso y la libre designación con convocatoria pública",
       "la subasta",
       "la permuta",
       "la libre elección de destino sin procedimiento"
     ],
     "correcta": 0,
-    "explicación": "El tema identifica el concurso como sistema ordinario.",
+    "explicación": "El artículo 78 TREBEP identifica el concurso y la libre designación con convocatoria pública como procedimientos ordinarios de provisión, con el alcance de la normativa de desarrollo.",
     "referencia": "III.1 · 3.2 Sistemas ordinarios de provisión"
   },
   {
@@ -904,5 +904,173 @@
     "correcta": 0,
     "referencia": "Revisión test reales · art. 10 TREBEP",
     "explicación": "El nombramiento interino exige razones justificadas de necesidad y urgencia y supuestos tasados."
+  },
+  {
+    "id": "burgos-iii01-deep-01",
+    "tema": 22,
+    "pregunta": "¿Qué diferencia describe correctamente la relación entre plantilla, RPT y OEP en una entidad local?",
+    "opciones": [
+      "La plantilla recoge plazas dotadas, la RPT ordena puestos concretos y la OEP anuncia necesidades que se cubrirán mediante incorporación de nuevo personal",
+      "La plantilla anuncia convocatorias, la RPT aprueba el presupuesto y la OEP describe las funciones de cada puesto",
+      "La plantilla y la RPT son sinónimos y la OEP solo se refiere al personal laboral",
+      "La RPT contiene únicamente las personas que han superado el proceso selectivo"
+    ],
+    "correcta": 0,
+    "explicación": "Son instrumentos distintos: la plantilla se refiere a plazas presupuestadas, la RPT a puestos y la OEP a necesidades de personal que se convocarán.",
+    "referencia": "Tema III.1, ordenación de recursos humanos"
+  },
+  {
+    "id": "burgos-iii01-deep-02",
+    "tema": 22,
+    "pregunta": "¿Cuál de estos es un supuesto legal de nombramiento de funcionario interino?",
+    "opciones": [
+      "La ejecución de un programa temporal, con el límite general de tres años ampliable hasta doce meses por la ley de función pública de desarrollo",
+      "La cobertura permanente de una plaza sin proceso selectivo",
+      "La realización de funciones de confianza o asesoramiento especial",
+      "La promoción automática de un funcionario de carrera"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 10 TREBEP incluye los programas temporales entre los supuestos de interinidad y prevé ese límite máximo con posible ampliación legal.",
+    "referencia": "Tema III.1, art. 10 TREBEP"
+  },
+  {
+    "id": "burgos-iii01-deep-03",
+    "tema": 22,
+    "pregunta": "En el artículo 55 TREBEP, ¿qué opción distingue correctamente principios constitucionales y garantías del proceso selectivo?",
+    "opciones": [
+      "Igualdad, mérito y capacidad son los principios constitucionales; la publicidad es una garantía del procedimiento selectivo",
+      "Publicidad, antigüedad y confianza son los tres principios constitucionales de acceso",
+      "La libre designación y la discrecionalidad política son principios constitucionales de todo acceso",
+      "La antigüedad sustituye al mérito en el acceso libre"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 55.1 formula la tríada igualdad, mérito y capacidad. El artículo 55.2 añade, entre otras, la publicidad y la transparencia como garantías del procedimiento.",
+    "referencia": "Tema III.1, arts. 55.1 y 55.2 TREBEP"
+  },
+  {
+    "id": "burgos-iii01-deep-04",
+    "tema": 22,
+    "pregunta": "¿Cuál es la diferencia principal entre acceso y provisión de puestos?",
+    "opciones": [
+      "El acceso permite adquirir la condición de empleado público; la provisión cubre un puesto concreto por quien ya reúne la condición exigida",
+      "El acceso siempre se realiza por libre designación y la provisión siempre por oposición",
+      "La provisión crea plazas presupuestarias y el acceso aprueba la RPT",
+      "No existe diferencia jurídica entre ambos conceptos"
+    ],
+    "correcta": 0,
+    "explicación": "La selección o acceso incorpora a la relación de empleo; la provisión asigna un destino o puesto concreto conforme a la RPT y la normativa aplicable.",
+    "referencia": "Tema III.1, acceso y provisión"
+  },
+  {
+    "id": "burgos-iii01-deep-05",
+    "tema": 22,
+    "pregunta": "¿Cuál es la regla general sobre los sistemas ordinarios de provisión de puestos de funcionarios?",
+    "opciones": [
+      "Concurso y libre designación con convocatoria pública",
+      "Oposición y concurso-oposición exclusivamente",
+      "Nombramiento eventual y contratación temporal",
+      "Sorteo y antigüedad sin convocatoria"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 78 TREBEP identifica el concurso y la libre designación con convocatoria pública como procedimientos ordinarios de provisión, con el alcance que determine la normativa de desarrollo.",
+    "referencia": "Tema III.1, art. 78 TREBEP"
+  },
+  {
+    "id": "burgos-iii01-deep-06",
+    "tema": 22,
+    "pregunta": "La libre designación como forma de provisión:",
+    "opciones": [
+      "Exige convocatoria pública y se reserva a puestos de especial responsabilidad o confianza profesional, sin convertirse por ello en una decisión arbitraria",
+      "Permite nombrar a cualquier persona aunque no reúna los requisitos del puesto",
+      "No permite el cese posterior de quien ocupa el puesto",
+      "Es un sistema de acceso libre para adquirir la condición de funcionario de carrera"
+    ],
+    "correcta": 0,
+    "explicación": "La discrecionalidad opera dentro de una convocatoria, unos requisitos y el control jurídico; la libre designación no sustituye al acceso selectivo.",
+    "referencia": "Tema III.1, provisión de puestos"
+  },
+  {
+    "id": "burgos-iii01-deep-07",
+    "tema": 22,
+    "pregunta": "¿Cuál de los siguientes es un derecho individual ejercido colectivamente por los empleados públicos?",
+    "opciones": [
+      "La libertad sindical",
+      "La inamovilidad en la condición de funcionario de carrera",
+      "El desempeño efectivo de las funciones",
+      "La percepción de retribuciones"
+    ],
+    "correcta": 0,
+    "explicación": "La libertad sindical, junto con negociación colectiva, participación, huelga, conflictos colectivos y reunión, es un derecho individual de ejercicio colectivo.",
+    "referencia": "Tema III.1, derechos del empleado público"
+  },
+  {
+    "id": "burgos-iii01-deep-08",
+    "tema": 22,
+    "pregunta": "La inamovilidad reconocida al funcionario de carrera protege principalmente:",
+    "opciones": [
+      "La condición de funcionario de carrera, no la permanencia indefinida en un puesto concreto",
+      "El derecho a no cambiar nunca de destino aunque exista una provisión legal",
+      "Solo el complemento específico del puesto ocupado",
+      "La permanencia en el mismo órgano político"
+    ],
+    "correcta": 0,
+    "explicación": "La inamovilidad es una garantía de la condición funcionarial. No impide movilidad, provisión o cambios de puesto conforme a la ley.",
+    "referencia": "Tema III.1, derechos individuales"
+  },
+  {
+    "id": "burgos-iii01-deep-09",
+    "tema": 22,
+    "pregunta": "¿Cuál de estas afirmaciones sobre el código de conducta del TREBEP es correcta?",
+    "opciones": [
+      "Integra principios éticos y principios de conducta, como objetividad, integridad, confidencialidad y trato respetuoso",
+      "Solo contiene reglas protocolarias sin relevancia jurídica",
+      "Autoriza a aceptar regalos si no se documentan en el expediente",
+      "Permite resolver asuntos en los que exista interés personal si se actúa con rapidez"
+    ],
+    "correcta": 0,
+    "explicación": "El código de conducta se articula en los artículos 52 a 54 TREBEP y exige actuar con objetividad, integridad, imparcialidad, confidencialidad y respeto, entre otros principios.",
+    "referencia": "Tema III.1, arts. 52 a 54 TREBEP"
+  },
+  {
+    "id": "burgos-iii01-deep-10",
+    "tema": 22,
+    "pregunta": "¿Qué modalidad de carrera permite progresar profesionalmente sin cambiar necesariamente de puesto?",
+    "opciones": [
+      "La carrera horizontal",
+      "La carrera vertical exclusivamente",
+      "La provisión por comisión de servicios",
+      "La selección por oposición"
+    ],
+    "correcta": 0,
+    "explicación": "La carrera horizontal permite progresar en grados, categorías o escalones sin que el cambio de puesto sea necesario, siempre que esté implantada y regulada por la Administración competente.",
+    "referencia": "Tema III.1, carrera administrativa"
+  },
+  {
+    "id": "burgos-iii01-deep-11",
+    "tema": 22,
+    "pregunta": "La promoción interna vertical consiste en:",
+    "opciones": [
+      "Acceder a un cuerpo o escala de un subgrupo superior desde otro cuerpo o escala, superando el proceso selectivo y cumpliendo los requisitos",
+      "Obtener un puesto distinto mediante comisión de servicios sin proceso selectivo",
+      "Cambiar de puesto dentro de la misma RPT por decisión del superior",
+      "Convertir automáticamente un nombramiento interino en funcionario de carrera"
+    ],
+    "correcta": 0,
+    "explicación": "La promoción interna vertical es una vía selectiva de acceso a otro cuerpo o escala de subgrupo superior; no es una movilidad ni una conversión automática de la interinidad.",
+    "referencia": "Tema III.1, art. 18 TREBEP"
+  },
+  {
+    "id": "burgos-iii01-deep-12",
+    "tema": 22,
+    "pregunta": "¿Qué funciones están reservadas a funcionarios de Administración Local con habilitación de carácter nacional?",
+    "opciones": [
+      "La fe pública y el asesoramiento legal preceptivo, y el control interno, contabilidad, tesorería y recaudación en los términos legales",
+      "Todas las funciones de atención al público y mantenimiento de edificios",
+      "Únicamente la gestión de personal laboral",
+      "Solo la dirección política de la entidad local"
+    ],
+    "correcta": 0,
+    "explicación": "La Secretaría y la Intervención-Tesorería comprenden esas funciones públicas necesarias, reservadas en los términos del artículo 92 bis LRBRL y del Real Decreto 128/2018.",
+    "referencia": "Tema III.1, art. 92 bis LRBRL y Real Decreto 128/2018"
   }
 ]
