@@ -43,7 +43,7 @@
 - **Mejoras realizadas:** se corrige la afirmación demasiado general sobre la mayoría absoluta del Congreso al aprobar Estatutos; se incorpora el artículo 146 y un mapa didáctico de aprobación, referéndum y reforma; se explican el plazo de cinco años y la excepción del artículo 148.2; se amplían los controles del artículo 153 y los límites tributarios del 157.2; se añaden las garantías de servicios fundamentales y del Fondo de Compensación de los artículos 158.1 y 158.2; se corrigen erratas y se refuerzan los errores típicos de test.
 - **Tests añadidos/cambiados:** se corrige `t07-p002` para que el artículo 139 tenga una única respuesta correcta y se mejora su explicación; se corrige una errata de redacción en `t07-p004`; se añaden 6 preguntas (`burgos-i03-deep-09` a `burgos-i03-deep-14`) sobre artículo 146, artículo 148.2, controles del artículo 153, límites del 157.2 y artículos 158.1-158.2. El banco queda en 41 preguntas y se sincroniza la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, comprobación de igualdad entre JSON editable y público, validación de 41 preguntas con Node, `git diff --check` y `npm run build` completados correctamente (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `b754d94` (`mejora profunda tema I.3 organización territorial`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.4, Gobierno y Administración del Estado; delimitarlo frente a I.2 y evitar duplicidades con el régimen jurídico de las Administraciones Públicas.
 
 ## 27 de julio de 2026, 10:02 (Europe/Madrid)
