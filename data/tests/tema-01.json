@@ -377,5 +377,33 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "t01-p027",
+    "tema": 1,
+    "pregunta": "¿Cuál de los siguientes NO figura entre los principios garantizados por el artículo 9.3 de la Constitución Española?",
+    "opciones": [
+      "La publicidad de las normas",
+      "La seguridad jurídica",
+      "La solidaridad entre las comunidades autónomas",
+      "La responsabilidad de los poderes públicos"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 9.3 garantiza, entre otros, la legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad en los términos constitucionales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad. La solidaridad entre comunidades autónomas se recoge en el artículo 2.",
+    "referencia": "I.1 · Artículo 9.3 CE"
+  },
+  {
+    "id": "t01-p028",
+    "tema": 1,
+    "pregunta": "¿Qué protección corresponde a los principios rectores de la política social y económica conforme al artículo 53.3 CE?",
+    "opciones": [
+      "Recurso de amparo directo ante el Tribunal Constitucional",
+      "Informar la legislación, la práctica judicial y la actuación de los poderes públicos, con alegación conforme a sus leyes de desarrollo",
+      "Reserva de ley orgánica y tutela judicial preferente",
+      "Suspensión automática durante los estados de excepción"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 53.3 atribuye a los principios rectores una función informadora y condiciona su alegación a las leyes que los desarrollen; no los incluye en el recurso de amparo.",
+    "referencia": "I.1 · Garantías del artículo 53 CE"
   }
 ]

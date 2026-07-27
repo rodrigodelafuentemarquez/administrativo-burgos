@@ -3,7 +3,7 @@ grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidade
 tema: 1
 codigo: "Tema I.1"
 titulo: "La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión."
-estado: "borrador"
+estado: "revisado"
 ---
 
 ## Normativa de referencia
@@ -20,7 +20,7 @@ La consecuencia de esa supremacia es doble. En primer lugar, ninguna norma puede
 
 La Constitución también ordena el sistema de fuentes. Determina que materias deben regularse por ley orgánica, cuál es el papel de las Cortes Generales, cómo se articulan las competencias entre Estado y comunidades autónomas, cómo se integra el Derecho de la Unión Europea y qué límites tienen los poderes públicos cuando actúan sobre derechos fundamentales.
 
-## Carácterísticas generales
+## Características generales
 
 La Constitución de 1978 es escrita, extensa, rigida, normativa, consensuada y democratica.
 
@@ -252,3 +252,28 @@ En la suspensión general pueden suspenderse determinados derechos, como algunos
 En la suspensión individual, la Constitución advierte que la utilización injustificada o abusiva de esas facultades produce responsabilidad penal.
 
 **Idea final:** la suspensión de derechos no significa desaparición del Estado de Derecho. Incluso en situaciones excepcionales, la actuación pública queda sometida a legalidad, proporcionalidad, control judicial y responsabilidad.
+
+## Esquema rápido y errores típicos de test
+
+1. **Artículos 1 a 9:** bases del sistema: Estado social y democrático de Derecho, soberanía nacional, monarquía parlamentaria, unidad y autonomía, lengua, símbolos, partidos, sindicatos, Fuerzas Armadas y principios jurídicos.
+2. **Artículo 10:** dignidad y derechos inviolables como fundamento del orden político y de la paz social.
+3. **Artículo 14 + artículos 15 a 29:** bloque con protección reforzada: vinculación de los poderes públicos, reserva de ley, procedimiento preferente y sumario y recurso de amparo.
+4. **Artículos 30 a 38:** derechos y deberes de los ciudadanos; no todos tienen acceso al amparo constitucional.
+5. **Artículos 39 a 52:** principios rectores; informan la actuación pública, pero solo pueden alegarse según las leyes que los desarrollen.
+6. **Artículos 53 a 55:** garantías y suspensión.
+
+### Para recordar
+
+- El **recurso de amparo** protege el artículo 14, la sección primera del capítulo II del título I y la objeción de conciencia del artículo 30.2; no protege directamente la propiedad privada ni los principios rectores.
+- El artículo 9.3 no establece una prohibición absoluta de retroactividad: prohíbe la retroactividad de disposiciones sancionadoras no favorables o restrictivas de derechos individuales.
+- Las reuniones y manifestaciones del artículo 21 no necesitan autorización previa; cuando se celebran en lugares de tránsito público deben comunicarse previamente.
+- En el artículo 55.1 se suspenden derechos en estados de excepción o de sitio; la suspensión individual del artículo 55.2 exige los supuestos y garantías previstos legalmente.
+
+### Diferencias que suelen confundirse
+
+| Figura | Clave |
+|---|---|
+| Procedimiento preferente y sumario | Protección ante los tribunales ordinarios. |
+| Recurso de amparo | Protección ante el Tribunal Constitucional de un conjunto limitado de derechos. |
+| Recurso de inconstitucionalidad | Control abstracto de leyes y normas con fuerza de ley; no es una vía individual ordinaria de reparación. |
+| Suspensión | Limitación excepcional y temporal del ejercicio de determinados derechos; no elimina la Constitución ni el control de los poderes públicos. |
