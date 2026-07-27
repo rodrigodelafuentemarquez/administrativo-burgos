@@ -360,5 +360,95 @@
     "correcta": 0,
     "referencia": "Revisión test reales · reincidencia sancionadora",
     "explicación": "La reincidencia exige declaración por resolución firme en vía administrativa."
+  },
+  {
+    "id": "burgos-ii08-deep-01",
+    "tema": 17,
+    "pregunta": "Según el artículo 30 de la Ley 40/2015, si la ley sectorial no fija otro plazo, las infracciones administrativas muy graves prescriben a los:",
+    "opciones": ["3 años", "2 años", "1 año", "6 meses"],
+    "correcta": 0,
+    "referencia": "II.8 · Prescripción de infracciones",
+    "explicación": "El plazo supletorio es de 3 años para las infracciones muy graves, 2 para las graves y 1 para las leves."
+  },
+  {
+    "id": "burgos-ii08-deep-02",
+    "tema": 17,
+    "pregunta": "La caducidad de un procedimiento sancionador:",
+    "opciones": ["termina el expediente, pero no impide otro si la infracción no ha prescrito", "declara probada la infracción", "convierte automáticamente la infracción en leve", "interrumpe indefinidamente la prescripción"],
+    "correcta": 0,
+    "referencia": "II.8 · Caducidad y prescripción",
+    "explicación": "La caducidad afecta al procedimiento concreto. Puede iniciarse otro cuando proceda, siempre que no haya prescrito la infracción."
+  },
+  {
+    "id": "burgos-ii08-deep-03",
+    "tema": 17,
+    "pregunta": "¿Cuál de estos datos debe figurar en el acuerdo de iniciación de un procedimiento sancionador?",
+    "opciones": ["Los hechos, su posible calificación y las sanciones que pudieran corresponder", "La sentencia penal que declare la responsabilidad", "La sanción ya ejecutada", "La renuncia anticipada del interesado a recurrir"],
+    "correcta": 0,
+    "referencia": "II.8 · Artículo 64 LPAC",
+    "explicación": "El acuerdo de iniciación debe concretar la imputación inicial, el instructor, el órgano resolutor, las medidas y los derechos de defensa."
+  },
+  {
+    "id": "burgos-ii08-deep-04",
+    "tema": 17,
+    "pregunta": "En un procedimiento sancionador, la resolución no puede aceptar:",
+    "opciones": ["hechos distintos de los determinados durante la instrucción", "una valoración jurídica distinta de la propuesta, con las garantías legales", "la declaración de inexistencia de responsabilidad", "el archivo cuando la infracción haya prescrito"],
+    "correcta": 0,
+    "referencia": "II.8 · Resolución sancionadora",
+    "explicación": "El artículo 90 LPAC impide resolver sobre hechos distintos de los fijados en la instrucción, aunque permite una distinta valoración jurídica con audiencia cuando proceda."
+  },
+  {
+    "id": "burgos-ii08-deep-05",
+    "tema": 17,
+    "pregunta": "Las reducciones del artículo 85 LPAC por reconocimiento de responsabilidad y pago voluntario son, cuando proceden:",
+    "opciones": ["de al menos el 20% cada una y acumulables", "siempre del 10% y no acumulables", "del 50% en conjunto como máximo", "incompatibles con la terminación anterior a la resolución"],
+    "correcta": 0,
+    "referencia": "II.8 · Reconocimiento y pago voluntario",
+    "explicación": "Cada reducción debe ser de al menos el 20% y puede acumularse con la otra; su efectividad exige renunciar a recursos administrativos en los términos legales."
+  },
+  {
+    "id": "burgos-ii08-deep-06",
+    "tema": 17,
+    "pregunta": "Una medida provisional adoptada en un procedimiento sancionador tiene como finalidad principal:",
+    "opciones": ["asegurar la eficacia de la resolución y evitar la continuidad de efectos dañosos", "anticipar la sanción sin prueba", "sustituir siempre a la resolución", "castigar al denunciante"],
+    "correcta": 0,
+    "referencia": "II.8 · Medidas provisionales",
+    "explicación": "La medida provisional es instrumental y temporal; debe ser legal, motivada, necesaria y proporcionada y no equivale a una sanción anticipada."
+  },
+  {
+    "id": "burgos-ii08-deep-07",
+    "tema": 17,
+    "pregunta": "En defecto de normativa sectorial específica, el artículo 139 LRBRL permite a las entidades locales tipificar por ordenanza infracciones para:",
+    "opciones": ["ordenar la convivencia local y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos", "crear delitos y penas privativas de libertad", "regular cualquier materia estatal sin límites", "sustituir todas las leyes sectoriales"],
+    "correcta": 0,
+    "referencia": "II.8 · Potestad sancionadora local",
+    "explicación": "El Título XI LRBRL habilita esa tipificación subsidiaria para relaciones de convivencia y uso de medios y espacios públicos de interés local."
+  },
+  {
+    "id": "burgos-ii08-deep-08",
+    "tema": 17,
+    "pregunta": "Salvo previsión legal distinta, la multa máxima por una infracción grave tipificada conforme al artículo 141 LRBRL es de:",
+    "opciones": ["1.500 euros", "3.000 euros", "750 euros", "6.000 euros"],
+    "correcta": 0,
+    "referencia": "II.8 · Artículo 141 LRBRL",
+    "explicación": "Los topes subsidiarios son 3.000 euros para muy graves, 1.500 para graves y 750 para leves."
+  },
+  {
+    "id": "burgos-ii08-deep-09",
+    "tema": 17,
+    "pregunta": "Para aplicar el principio non bis in idem deben coincidir:",
+    "opciones": ["sujeto, hechos y fundamento", "órgano, domicilio y plazo", "denunciante, instructor y sanción", "ley, reglamento y ordenanza"],
+    "correcta": 0,
+    "referencia": "II.8 · Non bis in idem",
+    "explicación": "La triple identidad de sujeto, hechos y fundamento es la referencia esencial para impedir la doble sanción."
+  },
+  {
+    "id": "burgos-ii08-deep-10",
+    "tema": 17,
+    "pregunta": "En un expediente sancionador municipal de Burgos, para determinar correctamente la sanción debe comprobarse primero:",
+    "opciones": ["la ley sectorial u ordenanza aplicable, la competencia del órgano y el plazo", "solo quién formuló la denuncia", "la cuantía recaudada por multas el año anterior", "si el presunto responsable acepta pagar sin conocer los hechos"],
+    "correcta": 0,
+    "referencia": "II.8 · Método para supuestos locales",
+    "explicación": "La solución exige identificar la norma tipificadora, el órgano competente, la conducta probada, los plazos y la proporcionalidad; la denuncia no sustituye ese análisis."
   }
 ]

@@ -3,120 +3,155 @@ grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas
 tema: 8
 codigo: "Tema II.8"
 titulo: "La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Idea general y normativa aplicable
 
-La potestad sancionadora se regula en sus principios por la <mark>Ley 40/2015</mark> y procedimentalmente por la <mark>Ley 39/2015</mark>. En el ámbito local son relevantes la <mark>Ley 7/1985</mark>, las ordenanzas municipales y la normativa sectorial aplicable.
+La **potestad sancionadora** es la facultad de una Administración Pública para declarar la responsabilidad por una infracción administrativa e imponer la sanción prevista por el ordenamiento. Es una manifestación de la autotutela administrativa, pero tiene naturaleza materialmente punitiva: por eso está sometida a garantías próximas a las del Derecho penal, sin convertirse en jurisdicción penal.
 
-## Concepto y significado
-
-La potestad sancionadora es la facultad de las Administraciones Públicas de imponer sanciones por infracciones administrativas. Permite proteger intereses públicos y asegurar cumplimiento de normas sin acudir siempre al Derecho penal.
-
-No es una potestad libre. Tiene naturaleza punitiva y por ello se somete a garantías estrictas: <mark>legalidad, tipicidad, culpabilidad, proporcionalidad, presunción de inocencia, procedimiento, audiencia y separación entre instrucción y resolución</mark> cuando proceda.
-
-| Principio | Contenido |
+| Norma | Qué debe estudiarse |
 | --- | --- |
-| Legalidad | Solo se sanciona cuando una norma habilita la potestad. |
-| Tipicidad | La conducta debe encajar en una infracción previamente definida. |
-| Culpabilidad | Debe existir responsabilidad de la persona infractora; no basta el resultado. |
-| Proporcionalidad | La sanción debe adecuarse a gravedad, daño, intencionalidad y circunstancias. |
-| Presunción de inocencia | La Administración debe probar los hechos. |
-| Non bis in idem | No puede sancionarse dos veces por los mismos hechos, sujeto y fundamento. |
+| Constitución Española, arts. 25.1 y 25.3 | Legalidad sancionadora y prohibición de sanciones administrativas que impliquen privación de libertad. |
+| Ley 40/2015 (LRJSP), arts. 25-31 | Principios de legalidad, irretroactividad, tipicidad, responsabilidad, proporcionalidad, prescripción y concurrencia de sanciones. |
+| Ley 39/2015 (LPAC), arts. 56, 63-64, 77, 85 y 89-90 | Medidas provisionales y especialidades de inicio, prueba, terminación y resolución. |
+| Ley 7/1985 (LRBRL), arts. 4, 21, 127, 139-141 | Potestad local, competencia y tipificación subsidiaria mediante ordenanzas. |
+| Leyes sectoriales y ordenanzas | Infracciones, sanciones, órganos y plazos concretos de cada materia. |
 
-La potestad sancionadora administrativa se parece al Derecho penal en garantías, aunque se trámite por procedimiento administrativo. Por eso no basta con "sospechar" una infracción: hacen falta hechos probados, tipificación correcta y resolución motivada.
+Regla de examen: primero debe existir <mark>habilitación normativa</mark>; después, infracción típica, responsabilidad probada y procedimiento con garantías.
 
-## Procedimiento sancionador
+## 2. Principios del ejercicio de la potestad sancionadora
 
-El procedimiento sancionador suele iniciarse <mark>de oficio</mark> por acuerdo del órgano competente, a partir de denuncia, acta de inspección, informe policial o iniciativa administrativa. Debe identificar <mark>hechos, posible infracción, sanción que pudiera corresponder, instructor y órgano competente para resolver</mark>.
+### 2.1 Legalidad y reserva normativa
 
-| Fase | Función |
+Nadie puede ser sancionado por acciones u omisiones que, cuando se produjeron, no fueran infracción administrativa según la legislación vigente. Tampoco puede imponerse una sanción que no estuviera prevista para esa infracción. La potestad debe ejercerse por el órgano y dentro del ámbito que atribuyan la Constitución, la ley y, en su caso, la normativa sectorial.
+
+La ordenanza municipal no es una autorización para sancionar sin límites: debe respetar la ley y actuar en el ámbito de competencia local. En las materias del Título XI LRBRL, las entidades locales pueden tipificar en defecto de normativa sectorial específica y para ordenar la convivencia y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos.
+
+### 2.2 Irretroactividad y tipicidad
+
+Se aplican las disposiciones sancionadoras vigentes en el momento de los hechos. La excepción es la **retroactividad de la norma posterior más favorable**, tanto respecto de la tipificación y la sanción como de sus plazos de prescripción, cuando proceda.
+
+La tipicidad exige que los elementos de la conducta infractora y su sanción estén descritos con suficiente precisión. No cabe aplicar la analogía para crear infracciones o extender sanciones. El reglamento y la ordenanza pueden completar aspectos permitidos por la ley, pero no sustituir la cobertura legal exigible ni inventar una infracción al resolver un caso concreto.
+
+### 2.3 Responsabilidad y culpabilidad
+
+Solo pueden ser sancionadas las personas físicas o jurídicas, y en su caso los grupos de afectados, uniones y entidades sin personalidad o patrimonios independientes, que resulten responsables a título de dolo o culpa. La mera producción del resultado no basta: debe acreditarse una conducta reprochable conforme a la norma.
+
+La ley puede prever responsabilidad solidaria cuando varias personas sean responsables de una misma infracción y también responsabilidad por el incumplimiento del deber de prevenir la infracción imputable a otra persona. La solidaridad no elimina la necesidad de individualizar la conducta y permite modular la sanción según la participación cuando la ley lo exija. La muerte o extinción del responsable no permite trasladar la sanción a sus herederos o causahabientes como castigo personal.
+
+### 2.4 Proporcionalidad
+
+La sanción debe ser idónea, necesaria y adecuada a la gravedad de la infracción. Para graduarla se atiende, entre otros factores, al grado de culpabilidad o intencionalidad, continuidad o persistencia, naturaleza de los perjuicios causados y reincidencia por infracciones de la misma naturaleza declaradas por resolución firme en vía administrativa.
+
+No pueden imponerse sanciones privativas de libertad. Si una ley permite varias consecuencias, la Administración debe justificar por qué elige una concreta y no puede convertir una medida de restablecimiento o una multa coercitiva en una sanción encubierta.
+
+### 2.5 Presunción de inocencia y non bis in idem
+
+La Administración debe probar los hechos constitutivos de la infracción, la participación y la culpabilidad. Las actas de funcionarios con condición de autoridad pueden tener valor probatorio respecto de los hechos constatados, salvo prueba en contrario, pero no convierten automáticamente la denuncia en una sanción ni dispensan de la valoración conjunta de la prueba.
+
+El principio <mark>non bis in idem</mark> impide castigar dos veces cuando concurre identidad de sujeto, hecho y fundamento. Si los hechos pudieran ser delito, la Administración debe ponerlos en conocimiento del Ministerio Fiscal o de la autoridad judicial y abstenerse de continuar sancionando en los términos legalmente previstos. Los hechos declarados probados por una resolución judicial firme vinculan a la Administración.
+
+## 3. Prescripción, caducidad y efectos temporales
+
+### 3.1 Prescripción
+
+La prescripción extingue la posibilidad de perseguir la infracción o de ejecutar la sanción por el transcurso del plazo legal. Si la ley sectorial no fija otro plazo, la LRJSP establece esta tabla:
+
+| Objeto | Muy graves | Graves | Leves |
+| --- | ---: | ---: | ---: |
+| Infracción | 3 años | 2 años | 1 año |
+| Sanción | 3 años | 2 años | 1 año |
+
+El plazo de la infracción comienza el día en que se comete; en infracciones continuadas o permanentes se computa desde que termina la conducta. Se interrumpe con la iniciación del procedimiento sancionador conocida por el interesado y vuelve a correr si el expediente queda paralizado durante más de un mes por causa no imputable al presunto responsable. El plazo de la sanción empieza al día siguiente de que sea ejecutiva la resolución firme en vía administrativa y se interrumpe por el inicio, con conocimiento del interesado, del procedimiento de ejecución.
+
+### 3.2 Caducidad
+
+La caducidad afecta al procedimiento concreto: si vence el plazo máximo para resolver y notificar sin resolución válida, debe declararse la caducidad y archivarse. La caducidad no equivale a declarar inexistente la infracción ni impide iniciar un nuevo procedimiento si la infracción no ha prescrito.
+
+No confundir: <mark>prescripción</mark> extingue la infracción o la sanción; caducidad termina el expediente por exceso de plazo.
+
+## 4. Procedimiento sancionador: recorrido completo
+
+### 4.1 Actuaciones previas e iniciación
+
+Puede haber actuaciones previas para conocer las circunstancias del caso, identificar a los responsables y valorar si procede iniciar. El procedimiento sancionador se inicia **siempre de oficio** por acuerdo del órgano competente: por iniciativa propia, orden superior, petición razonada de otro órgano o denuncia. La denuncia por sí sola no convierte al denunciante en interesado.
+
+No pueden iniciarse nuevos procedimientos por los mismos hechos, sujeto y fundamento mientras no haya terminado el anterior, salvo que el primero se archive o caduque en los supuestos legalmente previstos.
+
+El acuerdo de iniciación debe incluir, como mínimo:
+
+1. La persona o personas presuntamente responsables.
+2. Los hechos que motivan el inicio, su posible calificación y las sanciones que pudieran corresponder.
+3. La identificación del instructor y, en su caso, del secretario, así como del órgano competente para resolver y la norma que le atribuye la competencia.
+4. Las medidas provisionales adoptadas y el derecho a formular alegaciones y utilizar los medios de defensa.
+5. El plazo máximo para resolver y notificar, y las consecuencias de su vencimiento.
+
+### 4.2 Instrucción, prueba y propuesta
+
+El instructor debe investigar con objetividad, recibir alegaciones, solicitar informes y practicar las pruebas pertinentes. El interesado puede alegar y aportar documentos desde la notificación del inicio; la prueba se admite cuando sea relevante y no resulte manifiestamente improcedente o innecesaria.
+
+Terminada la instrucción, si existen hechos acreditados, se formula propuesta de resolución con los hechos probados, su calificación, la persona responsable, la sanción propuesta y la valoración de la prueba. Si no hay infracción, responsabilidad, prueba suficiente o la infracción ha prescrito, el instructor puede resolver la terminación y archivo en los casos del artículo 89 LPAC.
+
+### 4.3 Audiencia y resolución
+
+Antes de resolver se da audiencia sobre la propuesta, salvo las excepciones legales. La resolución debe ser motivada y decidir todas las cuestiones planteadas y las derivadas del expediente: hechos, valoración de pruebas, infracción, responsable, sanción o inexistencia de responsabilidad. No puede aceptar hechos distintos de los determinados durante la instrucción, aunque sí efectuar una valoración jurídica diferente; si impone una sanción más grave que la propuesta, debe darse el trámite legal de alegaciones.
+
+La resolución debe indicar los recursos procedentes, el órgano ante el que se interponen y el plazo. Es ejecutiva cuando ya no cabe contra ella recurso ordinario en vía administrativa, sin perjuicio de las reglas de suspensión y de la tutela judicial.
+
+### 4.4 Reconocimiento y pago voluntario
+
+Cuando la sanción sea únicamente pecuniaria, o también no pecuniaria en los términos permitidos por el artículo 85 LPAC, el reconocimiento de responsabilidad y el pago voluntario anterior a la resolución pueden producir reducciones de al menos el 20 % cada una, acumulables. Deben estar determinadas en la notificación de inicio y su efectividad exige desistir o renunciar a cualquier acción o recurso en vía administrativa contra la sanción.
+
+## 5. Medidas provisionales, sanciones y otras medidas
+
+Las **medidas provisionales** del artículo 56 LPAC son instrumentales y temporales: aseguran la eficacia de la resolución, protegen los intereses generales o evitan que continúen los efectos de la infracción. Deben estar previstas legalmente, motivarse, ser necesarias y proporcionales y no causar perjuicios de imposible o difícil reparación. Pueden adoptarse antes o después del inicio en los términos legales, pero deben confirmarse, modificarse o levantarse cuando corresponda.
+
+Las **sanciones administrativas** son la consecuencia punitiva de la infracción: multa u otras previstas legalmente, como suspensión o cierre de actividades, pérdida de derechos o autorizaciones o decomiso cuando la norma lo permita. No pueden implicar privación de libertad.
+
+| Figura | Finalidad | ¿Es castigo? |
+| --- | --- | --- |
+| Sanción | Reprimir una infracción probada | Sí |
+| Medida provisional | Asegurar el expediente o evitar daños mientras se tramita | No |
+| Multa coercitiva | Forzar el cumplimiento de una obligación | No; es instrumental y compatible, si la ley lo permite |
+| Restablecimiento de la legalidad | Reponer la situación conforme a Derecho o reparar el daño | No necesariamente |
+
+## 6. Potestad sancionadora local y Ayuntamiento de Burgos
+
+La LRBRL reconoce a los municipios, dentro de su esfera de competencias, la potestad sancionadora. El órgano competente no se deduce solo de quién denuncia: debe buscarse en la LRBRL, la ley sectorial, la ordenanza y las reglas de delegación. En el régimen ordinario, la Alcaldía ejerce las competencias sancionadoras que le atribuyan la ley y las ordenanzas; en municipios sujetos al régimen de gran población pueden operar las reglas específicas de la Junta de Gobierno Local. No debe trasladarse automáticamente este último régimen al Ayuntamiento de Burgos sin comprobar que resulte aplicable.
+
+El Título XI LRBRL permite a las entidades locales, **en defecto de normativa sectorial específica**, tipificar por ordenanza infracciones y sanciones para ordenar la convivencia local y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos. Las infracciones se clasifican en muy graves, graves y leves según la perturbación de la convivencia, el daño o riesgo producido, la intensidad de la conducta y los demás criterios del artículo 140. Salvo previsión legal distinta, las multas máximas del artículo 141 son:
+
+| Clasificación | Multa máxima |
+| --- | ---: |
+| Muy grave | 3.000 € |
+| Grave | 1.500 € |
+| Leve | 750 € |
+
+Estos topes son subsidiarios: una ley sectorial puede establecer otro régimen. La ordenanza no puede imponer penas de prisión ni superar su habilitación. Para Burgos, el supuesto práctico debe resolverse identificando la ordenanza o ley sectorial aplicable, el órgano competente, la conducta típica, la prueba, el plazo y la sanción proporcionada; no basta con citar genéricamente “la potestad del Ayuntamiento”.
+
+## 7. Cómo resolver un supuesto y errores típicos de test
+
+1. ¿Existe norma previa que tipifique la conducta y la sanción? Comprobar ley sectorial y ordenanza.
+2. ¿Quién puede iniciar y quién resuelve? Separar instructor y órgano resolutor.
+3. ¿Hay hechos probados y persona responsable? Aplicar culpabilidad y presunción de inocencia.
+4. ¿Se respeta el procedimiento? Revisar inicio, alegaciones, prueba, audiencia, propuesta, resolución y notificación.
+5. ¿Hay prescripción, caducidad, duplicidad penal o desproporción? Son filtros independientes.
+6. ¿La medida es sanción, cautelar, coercitiva o de restablecimiento? Su finalidad determina su régimen.
+
+### Errores típicos
+
+| Afirmación-trampa | Corrección |
 | --- | --- |
-| Actuaciones previas | Comprobar si existen indicios suficientes. |
-| Iniciación | Abre formalmente el expediente e informa de hechos y derechos. |
-| Instrucción | Practica prueba, recibe alegaciones y fórmula propuesta. |
-| Audiencia | Permite defenderse antes de resolver. |
-| Resolución | Declara responsabilidad o archivo, motivando hechos y sanción. |
-| Ejecución | Hace efectiva la sanción cuando sea firme o ejecutiva. |
+| Toda denuncia inicia un procedimiento sancionador | La denuncia puede provocar actuaciones, pero el procedimiento se inicia de oficio por acuerdo competente. |
+| La multa coercitiva es otra sanción | Su finalidad es forzar el cumplimiento; no castigar la infracción. |
+| Caducidad y prescripción son lo mismo | La primera termina el expediente; la segunda extingue la infracción o sanción por tiempo. |
+| Una ordenanza puede tipificar cualquier infracción | Solo dentro de la competencia local, con cobertura y, en el Título XI, en defecto de normativa sectorial. |
+| El acta de inspección obliga a sancionar | Es un elemento probatorio que debe valorarse con el resto y permite defensa. |
+| La Administración puede suspender la libertad como multa | El artículo 25.3 CE lo prohíbe. |
 
-La separación entre fase instructora y resolutoria refuerza la imparcialidad. Quién instruye no debe resolver cuando la normativa exige separación funcional.
+## 8. Esquema final
 
-## Potestad sancionadora local
+**Norma previa → inicio de oficio → instrucción y prueba → audiencia/propuesta → resolución motivada → firmeza y ejecución.**
 
-En el ámbito municipal aparecen sanciones por ordenanzas de convivencia, trafico urbano, limpieza, ruidos, terrazas, venta ambulante, animales, urbanismo, medio ambiente, actividades o uso de instalaciones. La ordenanza debe tener cobertura legal suficiente y respetar límites de cuantía y tipificación.
-
-| Ejemplo local | Posible interés protegido |
-| --- | --- |
-| Ruido o molestias | Convivencia, descanso y medio ambiente urbano. |
-| Ocupación de vía pública sin título | Uso común del dominio público. |
-| Incumplimiento de licencia | Legalidad urbanística o actividad. |
-| Vertidos o suciedad | Salubridad y limpieza urbana. |
-| Venta ambulante irregular | Ordenación del comercio y espacio público. |
-
-En un expediente sancionador municipal es decisivo cuidar notificaciones, prueba, identificación de la persona responsable, plazos de prescripción y caducidad, graduación de sanción y competencia del órgano que resuelve.
-
-## Principio de legalidad
-
-Solo pueden sancionarse conductas que constituyan infracción administrativa según norma con rango suficiente. Nadie puede ser sancionado por acciones u omisiones que en el momento de producirse no constituyan infracción.
-
-Las entidades locales pueden tipificar infracciones y sanciones mediante ordenanzas dentro de los límites de la ley. La Ley de Bases permite ordenanzas en materias de competencia local, respetando criterios legales y sin invadir reservas de ley.
-
-## Tipicidad y culpabilidad
-
-La tipicidad exige que la conducta encaje en una infracción definida. No cabe analogia para sancionar. La descripción puede ser completada por reglamentos u ordenanzas cuando exista habilitación legal.
-
-La responsabilidad sancionadora exige culpabilidad. Puede haber dolo o culpa. La responsabilidad objetiva pura es incompatible con las garantías sancionadoras. En personas jurídicas, la culpabilidad se aprecia conforme al incumplimiento de deberes exigibles de organización, vigilancia o diligencia.
-
-## Proporcionalidad y non bis in idem
-
-La sanción debe ser proporcionada a la gravedad de la infracción. Se valoran intencionalidad, reiteración, naturaleza de perjuicios, reincidencia, beneficio obtenido y circunstancias concurrentes.
-
-El principio <mark>non bis in idem</mark> impide sancionar dos veces por los mismos <mark>hechos, sujeto y fundamento</mark>. También condiciona la relación entre procedimiento penal y administrativo. Si los hechos pueden ser delito, la Administración debe respetar la prioridad penal en los términos legales.
-
-La irretroactividad es regla en materia sancionadora desfavorable: no puede aplicarse una infracción o sanción posterior a hechos anteriores si perjudica al presunto infractor. En cambio, las disposiciones sancionadoras producen efecto retroactivo cuando favorecen al infractor, tanto respecto de tipificación como de sanción o plazos, en los términos legales.
-
-| Regla temporal | Consecuencia |
-| --- | --- |
-| Irretroactividad desfavorable | No se sanciona con norma posterior más gravosa. |
-| Retroactividad favorable | Se aplica la norma posterior más beneficiosa. |
-| Prescripción | Extingue infracción o sanción por transcurso del plazo legal. |
-| Caducidad | Finaliza el procedimiento por superar el plazo máximo sin resolución. |
-
-## Procedimiento sancionador
-
-El procedimiento sancionador se inicia siempre de oficio, por acuerdo del órgano competente, a iniciativa propia, orden superior, petición razonada o denuncia. Antes de iniciar puede abrirse información o actuaciones previas para determinar si existen indicios.
-
-El acuerdo de iniciación debe identificar hechos, posible calificación, sanciones que pudieran corresponder, instructor, órgano competente para resolver, medidas provisionales y derecho a formular alegaciones.
-
-La instrucción incorpora alegaciones, pruebas, informes y propuesta de resolución. La propuesta debe fijar hechos probados, infracción, persona responsable, sanción y valoración jurídica. El interesado tiene trámite de audiencia.
-
-La resolución debe ser motivada y decidir todas las cuestiones planteadas. No puede aceptar hechos distintos de los determinados en instrucción salvo actuaciones complementarias. Debe indicar recursos.
-
-El órgano instructor resolverá la finalización del procedimiento, con archivo de las actuaciones, cuando en la instrucción se ponga de manifiesto que no existen hechos que puedan constituir infracción, que los hechos no resultan acreditados, que no constituyen infracción administrativa, que no existe o no se ha podido identificar a la persona responsable, o que la infracción ha prescrito.
-
-Cuando la sanción tenga únicamente carácter pecuniario, el reconocimiento de responsabilidad y el pago voluntario anterior a la resolución pueden llevar aparejadas reducciones acumulables de al menos el 20% cada una, en los términos del <mark>artículo 85</mark> de la <mark>Ley 39/2015</mark>. La efectividad de esas reducciones queda condicionada al desistimiento o renuncia de cualquier acción o recurso en vía administrativa contra la sanción.
-
-Las medidas provisionales pueden adoptarse para asegurar la eficacia de la resolución final, evitar el mantenimiento de efectos de la infracción o proteger intereses generales. Deben estar previstas legalmente, ser proporcionales, motivarse y no causar perjuicios de imposible o difícil reparación. No son sanciones anticipadas.
-
-| Dato de procedimiento sancionador | Regla |
-|---|---|
-| Inicio | Siempre de oficio. |
-| Separación instructor/resolutor | Refuerza imparcialidad. |
-| Resolución | Debe pronunciarse sobre hechos, persona responsable, infracción y sanción. |
-| Reducciones por reconocimiento y pago | Al menos 20% cada una, acumulables si proceden. |
-| Reincidencia | Requiere más de una infracción de la misma naturaleza declarada por resolución firme en vía administrativa. |
-
-## Medidas sancionadoras administrativas
-
-Las sanciones pueden consistir en multas, suspensión de actividades, clausura, retirada de autorizaciones, pérdida de derechos, decomiso u otras medidas previstas por ley u ordenanza. Las medidas accesorias deben estar habilitadas y ser proporcionadas.
-
-No deben confundirse <mark>sanciones</mark> con <mark>medidas provisionales, medidas de restablecimiento de legalidad o multas coercitivas</mark>. Una orden de retirar un elemento ilegal puede ser restablecimiento; la multa por la infracción es sanción.
-
-## Potestad sancionadora local
-
-Los Ayuntamientos ejercen potestad sancionadora en materias de competencia municipal: convivencia ciudadana, trafico urbano, limpieza, residuos, ruidos, terrazas, ocupación de vía pública, mercados, licencias, urbanismo, medio ambiente urbano y tributos, entre otras.
-
-La potestad sancionadora local se apoya en leyes sectoriales y ordenanzas. El Pleno aprueba ordenanzas que definen deberes ciudadanos e infracciones dentro del marco legal. La tramitación de expedientes sancionadores exige rigor: identificación de hechos, prueba suficiente, audiencia, motivación, proporcionalidad y notificación correcta.
-
-Para un administrativo municipal, es clave distinguir denuncia, acta de inspección, incoación, alegaciones, propuesta de resolución, resolución, notificación, recurso y ejecución de sanción.
+En paralelo se comprueba: **legalidad + tipicidad + culpabilidad + proporcionalidad + presunción de inocencia + non bis in idem + prescripción/caducidad + competencia local**.
