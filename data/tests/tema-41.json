@@ -520,5 +520,173 @@
     "correcta": 0,
     "referencia": "Revisión test reales · Excel 365",
     "explicación": "FILAS devuelve el número de filas de una referencia; con una columna estructurada cuenta sus filas."
+  },
+  {
+    "id": "burgos-v10-deep-01",
+    "tema": 41,
+    "pregunta": "En un documento Word revisado por varias personas, ¿qué diferencia esencial existe entre la vista «Sin marcas» y aceptar o rechazar los cambios?",
+    "opciones": [
+      "«Sin marcas» solo oculta temporalmente las marcas; aceptar o rechazar las incorpora o elimina del documento.",
+      "No existe ninguna diferencia: ambas acciones eliminan definitivamente el historial.",
+      "«Sin marcas» convierte automáticamente el documento en PDF.",
+      "Aceptar cambios solo modifica la impresión y nunca el contenido."
+    ],
+    "correcta": 0,
+    "explicación": "La vista «Sin marcas» cambia la visualización, pero las revisiones siguen en el archivo hasta que se aceptan o rechazan.",
+    "referencia": "V.10 · Word · control de cambios"
+  },
+  {
+    "id": "burgos-v10-deep-02",
+    "tema": 41,
+    "pregunta": "¿Por qué deben utilizarse estilos de título en lugar de aplicar únicamente negrita y tamaño de fuente a los encabezados de un documento Word?",
+    "opciones": [
+      "Porque aportan estructura jerárquica, permiten navegar y generar o actualizar la tabla de contenido.",
+      "Porque impiden que el documento pueda imprimirse.",
+      "Porque convierten automáticamente todo el texto en una tabla.",
+      "Porque sustituyen siempre a la revisión ortográfica."
+    ],
+    "correcta": 0,
+    "explicación": "Los estilos tienen significado estructural; el formato manual puede parecer igual, pero no alimenta esas funciones de Word.",
+    "referencia": "V.10 · Word · estilos y tabla de contenido"
+  },
+  {
+    "id": "burgos-v10-deep-03",
+    "tema": 41,
+    "pregunta": "Para imprimir un borrador de Word sin mostrar comentarios ni marcas, pero conservando la posibilidad de revisarlos después, lo correcto es:",
+    "opciones": [
+      "Desactivar la impresión de marcas en la configuración de impresión, sin confundirlo con aceptar los cambios.",
+      "Aceptar todos los cambios y eliminar todos los comentarios obligatoriamente.",
+      "Cambiar el documento a vista de esquema.",
+      "Guardar el documento como una hoja de cálculo."
+    ],
+    "correcta": 0,
+    "explicación": "La configuración de impresión permite no imprimir las marcas; ocultarlas en pantalla o no imprimirlas no las elimina del archivo.",
+    "referencia": "V.10 · Word · revisión e impresión"
+  },
+  {
+    "id": "burgos-v10-deep-04",
+    "tema": 41,
+    "pregunta": "En una combinación de correspondencia de Word, ¿qué conjunto de elementos es el correcto?",
+    "opciones": [
+      "Documento principal, fuente de datos y campos de combinación.",
+      "Libro, tabla dinámica y gráfico.",
+      "Expediente, certificado y firma electrónica automática.",
+      "Hoja, celda y referencia absoluta."
+    ],
+    "correcta": 0,
+    "explicación": "La combinación usa una plantilla o documento principal, una lista de destinatarios y campos que insertan los datos personalizados.",
+    "referencia": "V.10 · Word · combinación de correspondencia"
+  },
+  {
+    "id": "burgos-v10-deep-05",
+    "tema": 41,
+    "pregunta": "Si una fórmula de Excel contiene $A$1 y se copia a otra celda, la referencia:",
+    "opciones": [
+      "Sigue apuntando a la celda A1 porque fija columna y fila.",
+      "Cambia siempre a la celda situada inmediatamente debajo.",
+      "Fija solo la fila y cambia la columna.",
+      "Deja de ser una referencia válida."
+    ],
+    "correcta": 0,
+    "explicación": "Los signos $ delante de la columna y la fila convierten la referencia en absoluta.",
+    "referencia": "V.10 · Excel · referencias"
+  },
+  {
+    "id": "burgos-v10-deep-06",
+    "tema": 41,
+    "pregunta": "¿Qué ocurre normalmente con la referencia relativa A1 cuando se copia una fórmula una fila hacia abajo?",
+    "opciones": [
+      "Se ajusta a A2, manteniendo la posición relativa.",
+      "Se transforma siempre en $A$1.",
+      "Se convierte en B1 porque solo cambia la columna.",
+      "Se elimina de la fórmula."
+    ],
+    "correcta": 0,
+    "explicación": "Las referencias relativas se adaptan al desplazamiento de la fórmula; al bajar una fila, A1 pasa normalmente a A2.",
+    "referencia": "V.10 · Excel · referencias relativas"
+  },
+  {
+    "id": "burgos-v10-deep-07",
+    "tema": 41,
+    "pregunta": "En Excel, ¿qué diferencia describe correctamente un filtro y una ordenación?",
+    "opciones": [
+      "El filtro oculta temporalmente los registros que no cumplen una condición; la ordenación cambia su orden.",
+      "El filtro borra definitivamente los registros y la ordenación los cifra.",
+      "Ambos convierten automáticamente el rango en una tabla dinámica.",
+      "La ordenación solo puede aplicarse a fórmulas y el filtro solo a fechas."
+    ],
+    "correcta": 0,
+    "explicación": "Filtrar limita los registros visibles sin eliminarlos; ordenar reorganiza la posición según uno o varios criterios.",
+    "referencia": "V.10 · Excel · gestión de datos"
+  },
+  {
+    "id": "burgos-v10-deep-08",
+    "tema": 41,
+    "pregunta": "¿Para qué sirve principalmente una tabla dinámica de Excel?",
+    "opciones": [
+      "Para resumir y reorganizar datos por categorías, valores, filas, columnas o filtros.",
+      "Para aplicar firma electrónica a un expediente.",
+      "Para sustituir al sistema operativo.",
+      "Para impedir cualquier modificación de una hoja sin configurar protección."
+    ],
+    "correcta": 0,
+    "explicación": "La tabla dinámica permite analizar grandes conjuntos de datos agrupándolos y cambiando su disposición sin alterar necesariamente el origen.",
+    "referencia": "V.10 · Excel · tablas dinámicas"
+  },
+  {
+    "id": "burgos-v10-deep-09",
+    "tema": 41,
+    "pregunta": "Una lista de estados («recibida», «en trámite», «resuelta») que limita lo que se puede escribir en una celda utiliza principalmente:",
+    "opciones": [
+      "Validación de datos.",
+      "Formato condicional exclusivamente.",
+      "Tabla de contenido.",
+      "Control de cambios de Word."
+    ],
+    "correcta": 0,
+    "explicación": "La validación de datos controla o restringe las entradas; el formato condicional solo cambia la apariencia según una regla.",
+    "referencia": "V.10 · Excel · validación y formato condicional"
+  },
+  {
+    "id": "burgos-v10-deep-10",
+    "tema": 41,
+    "pregunta": "Antes de compartir una hoja Excel con datos de expedientes, ¿qué comprobación es especialmente adecuada?",
+    "opciones": [
+      "Revisar filtros activos, fórmulas, destinatarios, permisos y que solo incluya datos necesarios.",
+      "Convertir siempre todas las celdas en imágenes sin revisar el contenido.",
+      "Publicar un enlace abierto para facilitar la colaboración.",
+      "Eliminar los encabezados para ocultar la estructura."
+    ],
+    "correcta": 0,
+    "explicación": "La revisión debe cubrir exactitud, visibilidad de registros, minimización de datos y control de acceso, no solo el formato.",
+    "referencia": "V.10 · colaboración y seguridad administrativa"
+  },
+  {
+    "id": "burgos-v10-deep-11",
+    "tema": 41,
+    "pregunta": "¿Qué afirmación es correcta sobre proteger una hoja de Excel?",
+    "opciones": [
+      "Ayuda a evitar cambios no deseados, pero no equivale por sí sola a controlar los permisos de acceso ni a cifrar el archivo.",
+      "Garantiza siempre que nadie pueda leer el archivo.",
+      "Convierte una hoja auxiliar en registro administrativo oficial.",
+      "Elimina los errores de las fórmulas automáticamente."
+    ],
+    "correcta": 0,
+    "explicación": "La protección de hoja o libro es un control funcional frente a modificaciones; debe distinguirse de permisos, confidencialidad y cifrado.",
+    "referencia": "V.10 · Excel · protección y seguridad"
+  },
+  {
+    "id": "burgos-v10-deep-12",
+    "tema": 41,
+    "pregunta": "En una Administración, ¿qué relación correcta existe entre un archivo colaborativo de Word o Excel y el expediente electrónico?",
+    "opciones": [
+      "El archivo puede ser material de trabajo, pero la versión relevante debe incorporarse al expediente por el circuito oficial.",
+      "Todo archivo almacenado en OneDrive forma automáticamente parte del expediente.",
+      "El chat de Teams sustituye siempre a la incorporación documental.",
+      "Un Excel compartido no puede contener nunca datos administrativos."
+    ],
+    "correcta": 0,
+    "explicación": "La herramienta ofimática apoya la preparación y colaboración; la validez y trazabilidad del expediente dependen del sistema y procedimiento corporativos.",
+    "referencia": "V.10 · sistemas colaborativos y expediente"
   }
 ]
