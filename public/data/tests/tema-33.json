@@ -193,7 +193,7 @@
   {
     "id": "t21-p011",
     "tema": 33,
-    "pregunta": "Según el art. 20 LTBG, si transcurre el plazo sin resolver una solicitud de acceso 21 se entiende:",
+    "pregunta": "Según el art. 20 LTBG, si transcurre el plazo sin resolver una solicitud de acceso, se entiende:",
     "opciones": [
       "desestimada por silencio negativo",
       "estimada por silencio positivo",
@@ -363,13 +363,13 @@
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, la sanción de una infracción muy grave en buen gobierno puede incluir:",
     "opciones": [
-      "cese inmediato y prohibición de ocupar cargos de responsabilidad durante 5 a 10 años",
+      "declaración y publicación del incumplimiento, destitución si procede y prohibición de ocupar un alto cargo durante 5 a 10 años",
       "solo una amonestación verbal",
       "únicamente un apercibimiento",
       "la nulidad automática de todos los actos"
     ],
     "correcta": 0,
-    "explicación": "El tema fija esa consecuencia sancionadora.",
+    "explicación": "El artículo 30 distingue las consecuencias: las infracciones muy graves llevan las sanciones de las graves, la destitución si procede y la prohibición de ocupar un alto cargo o asimilado durante cinco a diez años.",
     "referencia": "V.2 · 4.3 Régimen sancionador del buen gobierno"
   },
   {
@@ -397,7 +397,7 @@
       "incompatible con el silencio negativo"
     ],
     "correcta": 0,
-    "explicación": "La reclamación ante el CTBG es una garantía accesible y gratuita que sustituye a la reclamación administrativa ordinaria.",
+    "explicación": "La reclamación ante el CTBG es potestativa, tiene carácter sustitutivo de los recursos administrativos ordinarios y permite acudir después a la vía contencioso-administrativa.",
     "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)"
   },
   {
@@ -517,5 +517,173 @@
     "correcta": 0,
     "referencia": "Revisión test reales · reclamación CTBG",
     "explicación": "La reclamación es potestativa y previa a la vía contencioso-administrativa."
+  },
+  {
+    "id": "burgos-v02-deep-01",
+    "tema": 33,
+    "pregunta": "¿Cuál es la diferencia correcta entre publicidad activa y derecho de acceso en la Ley 19/2013?",
+    "opciones": [
+      "La publicidad activa se publica de oficio; el derecho de acceso se ejerce mediante solicitud.",
+      "Ambos requieren siempre una solicitud motivada.",
+      "La publicidad activa solo se aplica a los tribunales y el acceso a los ayuntamientos.",
+      "El derecho de acceso obliga a crear cualquier informe que pida la persona solicitante."
+    ],
+    "correcta": 0,
+    "explicación": "La publicidad activa es proactiva y el derecho de acceso se activa a petición de cualquier persona; ninguno exige crear una valoración nueva inexistente.",
+    "referencia": "V.2 · 1 y 3 · publicidad activa y acceso"
+  },
+  {
+    "id": "burgos-v02-deep-02",
+    "tema": 33,
+    "pregunta": "Según los artículos 6 a 8 de la Ley 19/2013, ¿qué asociación es correcta?",
+    "opciones": [
+      "Art. 6: institucional, organizativa y planificación; art. 7: relevancia jurídica; art. 8: económica, presupuestaria y estadística.",
+      "Art. 6: sanciones; art. 7: datos personales; art. 8: archivos judiciales.",
+      "Art. 6: solo contratos; art. 7: solo subvenciones; art. 8: solo urbanismo.",
+      "Art. 6: acceso; art. 7: reclamaciones; art. 8: buen gobierno."
+    ],
+    "correcta": 0,
+    "explicación": "La clasificación de los artículos 6, 7 y 8 es una regla básica para identificar qué información debe publicarse activamente.",
+    "referencia": "V.2 · 3.2 · arts. 6-8 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-03",
+    "tema": 33,
+    "pregunta": "Una persona solicita información pública sin indicar por qué la quiere. ¿Qué debe hacer el Ayuntamiento?",
+    "opciones": [
+      "Tramitarla, porque la solicitud no necesita motivación.",
+      "Rechazarla por falta de interés legítimo.",
+      "Exigir que la firme un abogado.",
+      "Convertirla automáticamente en una denuncia."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 17 permite ejercer el derecho sin expresar la motivación; la persona puede explicar sus motivos, pero no está obligada a hacerlo.",
+    "referencia": "V.2 · 4.1 y 5.1 · arts. 12 y 17 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-04",
+    "tema": 33,
+    "pregunta": "¿Cuál de las siguientes afirmaciones sobre los límites del artículo 14 es correcta?",
+    "opciones": [
+      "Deben aplicarse de forma justificada y proporcionada, valorando el perjuicio concreto y el interés público en la divulgación.",
+      "Permiten denegar cualquier solicitud que genere trabajo administrativo.",
+      "Se aplican siempre de manera automática si existe cualquier dato personal.",
+      "Solo pueden utilizarse frente a solicitudes de personas no interesadas."
+    ],
+    "correcta": 0,
+    "explicación": "Los límites no son una cláusula general de denegación: exigen justificación, proporcionalidad y ponderación del caso concreto.",
+    "referencia": "V.2 · 4.2 · art. 14 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-05",
+    "tema": 33,
+    "pregunta": "Si un documento contiene una parte protegida por un límite y otra parte accesible, la regla general es:",
+    "opciones": [
+      "Conceder acceso parcial, omitiendo o disociando la información protegida cuando sea posible.",
+      "Denegar siempre el documento entero.",
+      "Publicar también los datos protegidos para preservar la integridad del documento.",
+      "Solicitar al interesado que reescriba el documento."
+    ],
+    "correcta": 0,
+    "explicación": "La Ley 19/2013 favorece el acceso parcial cuando la limitación solo afecta a una parte y la separación resulta posible y útil.",
+    "referencia": "V.2 · 4.2 · acceso parcial"
+  },
+  {
+    "id": "burgos-v02-deep-06",
+    "tema": 33,
+    "pregunta": "¿Cuál es una causa legal de inadmisión del artículo 18 de la Ley 19/2013?",
+    "opciones": [
+      "Que para divulgar la información sea necesaria una acción previa de reelaboración.",
+      "Que la solicitud no explique el motivo del interés.",
+      "Que la persona no resida en Burgos.",
+      "Que el documento sea desfavorable para el Ayuntamiento."
+    ],
+    "correcta": 0,
+    "explicación": "La reelaboración necesaria es una causa de inadmisión; la falta de motivación, la residencia y el sentido de la información no lo son.",
+    "referencia": "V.2 · 4.4 · art. 18 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-07",
+    "tema": 33,
+    "pregunta": "Cuando la información solicitada afecta a derechos o intereses de terceros debidamente identificados, el trámite previsto es:",
+    "opciones": [
+      "Conceder audiencia por quince días para que formulen alegaciones.",
+      "Concederles un veto absoluto y definitivo.",
+      "Pedirles que resuelvan la solicitud en lugar del Ayuntamiento.",
+      "No comunicarles nada en ningún caso."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 19 prevé audiencia por quince días; las alegaciones se ponderan, pero el tercero no sustituye al órgano competente ni tiene un veto automático.",
+    "referencia": "V.2 · 5.1 · art. 19 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-08",
+    "tema": 33,
+    "pregunta": "El plazo ordinario para resolver y notificar una solicitud de acceso a la información pública es:",
+    "opciones": [
+      "Un mes desde la recepción por el órgano competente, ampliable por otro mes en los casos legalmente justificados.",
+      "Diez días hábiles, sin ampliación posible.",
+      "Tres meses, siempre improrrogables.",
+      "Seis meses desde la presentación en cualquier registro."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 20 fija un mes y permite ampliar por otro cuando el volumen o la complejidad lo justifican, con comunicación al solicitante.",
+    "referencia": "V.2 · 5.2 · art. 20 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-09",
+    "tema": 33,
+    "pregunta": "Si la resolución de acceso no entrega la información en el mismo momento de la notificación, ¿cuál es el límite legal de la entrega material?",
+    "opciones": [
+      "No superior a diez días.",
+      "Tres meses.",
+      "Un año.",
+      "No existe plazo."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 22.1 dispone que, si el acceso no se formaliza con la notificación, debe otorgarse en un plazo no superior a diez días.",
+    "referencia": "V.2 · 5.2 · art. 22 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-10",
+    "tema": 33,
+    "pregunta": "La reclamación potestativa frente a una resolución expresa o presunta de acceso debe presentarse, con carácter general, en el plazo de:",
+    "opciones": [
+      "Un mes.",
+      "Diez días naturales.",
+      "Tres meses en todo caso.",
+      "Cuatro años."
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 24 fija un mes para reclamar desde la notificación de la resolución expresa o desde el día siguiente a aquel en que se produzcan los efectos del silencio.",
+    "referencia": "V.2 · 5.3 · art. 24 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-11",
+    "tema": 33,
+    "pregunta": "El plazo máximo para resolver la reclamación ante el órgano de transparencia es de:",
+    "opciones": [
+      "Tres meses, transcurridos los cuales se entiende desestimada.",
+      "Diez días hábiles, con silencio estimatorio.",
+      "Un mes, con silencio estimatorio.",
+      "Seis meses, sin efecto del silencio."
+    ],
+    "correcta": 0,
+    "explicación": "La reclamación debe resolverse en tres meses; si no se notifica resolución en ese plazo, se entiende desestimada.",
+    "referencia": "V.2 · 5.3 · art. 24 LTAIBG"
+  },
+  {
+    "id": "burgos-v02-deep-12",
+    "tema": 33,
+    "pregunta": "Una solicitud pide que el Ayuntamiento elabore un informe jurídico nuevo sobre si una decisión fue correcta, sin pedir ningún documento existente. ¿Qué regla es más precisa?",
+    "opciones": [
+      "El derecho de acceso no obliga, como regla general, a crear una valoración o informe nuevo que no obre en poder del Ayuntamiento.",
+      "Debe elaborarse siempre porque el acceso es universal.",
+      "Debe rechazarse porque solo se pueden pedir contratos.",
+      "Debe remitirse siempre al Consejo de Transparencia para que redacte el informe."
+    ],
+    "correcta": 0,
+    "explicación": "El derecho recae sobre contenidos o documentos existentes en poder del sujeto obligado; no es un derecho general de asesoramiento ni de creación de informes ad hoc.",
+    "referencia": "V.2 · 2.2 y 4.1 · concepto de información pública"
   }
 ]
