@@ -459,5 +459,173 @@
     "correcta": 0,
     "referencia": "Revisión test reales · art. 41 LPACAP",
     "explicación": "La preferencia electrónica se convierte en obligación cuando el interesado está obligado a relacionarse electrónicamente."
+  },
+  {
+    "id": "burgos-v07-deep-01",
+    "tema": 38,
+    "pregunta": "Una persona física no incluida en ningún supuesto de obligación electrónica presenta una solicitud en papel y después cambia al canal electrónico. ¿Qué regla es correcta?",
+    "opciones": [
+      "Puede elegir el canal y cambiarlo en cualquier momento",
+      "Debe usar siempre el canal electrónico desde la primera solicitud",
+      "Solo puede cambiar de canal con autorización del alcalde",
+      "El cambio de canal convierte en nulas sus actuaciones anteriores"
+    ],
+    "correcta": 0,
+    "explicación": "Las personas físicas no obligadas pueden elegir en cualquier momento el medio de relación y cambiarlo durante la tramitación.",
+    "referencia": "Tema V.7 · derechos y obligaciones de relación electrónica"
+  },
+  {
+    "id": "burgos-v07-deep-02",
+    "tema": 38,
+    "pregunta": "¿Qué documento acredita normalmente la presentación realizada en un registro electrónico?",
+    "opciones": [
+      "El recibo, que incorpora fecha, hora, número de registro y relación de documentos",
+      "El número de expediente definitivo, aunque todavía no se haya iniciado la instrucción",
+      "El aviso enviado al correo electrónico del interesado",
+      "La resolución que necesariamente debe dictarse ese mismo día"
+    ],
+    "correcta": 0,
+    "explicación": "El registro debe generar un recibo que deje constancia de la presentación; ese recibo no equivale a una resolución ni garantiza que la solicitud esté completa.",
+    "referencia": "Tema V.7 · registro electrónico y recibo"
+  },
+  {
+    "id": "burgos-v07-deep-03",
+    "tema": 38,
+    "pregunta": "Con carácter general, una presentación realizada en un registro electrónico en día inhábil se entiende realizada:",
+    "opciones": [
+      "A primera hora del primer día hábil siguiente",
+      "El día hábil anterior a la presentación",
+      "Fuera de plazo y sin posibilidad de subsanación",
+      "A las 23:59 del día inhábil"
+    ],
+    "correcta": 0,
+    "explicación": "La LPAC establece esa regla específica para el cómputo en registros electrónicos, salvo que una norma permita expresamente la recepción en día inhábil.",
+    "referencia": "Tema V.7 · registro electrónico y cómputo de plazos"
+  },
+  {
+    "id": "burgos-v07-deep-04",
+    "tema": 38,
+    "pregunta": "¿Cuál es la diferencia más precisa entre identificación y firma electrónica?",
+    "opciones": [
+      "La identificación acredita quién actúa; la firma añade la expresión de voluntad sobre un documento o actuación",
+      "La identificación siempre produce los mismos efectos que la firma",
+      "La firma solo sirve para entrar en la sede y la identificación para resolver",
+      "No existe diferencia jurídica entre ambas"
+    ],
+    "correcta": 0,
+    "explicación": "La LPAC distingue los sistemas de identificación de los casos en que se exige firma para acreditar autenticidad y voluntad.",
+    "referencia": "Tema V.7 · identificación y firma"
+  },
+  {
+    "id": "burgos-v07-deep-05",
+    "tema": 38,
+    "pregunta": "El aviso enviado por correo electrónico de que existe una notificación pendiente:",
+    "opciones": [
+      "No sustituye a la notificación practicada mediante acceso o rechazo conforme a la ley",
+      "Siempre equivale al acceso al contenido",
+      "Amplía automáticamente el plazo de diez días naturales",
+      "Solo es válido si lo firma el funcionario que tramita el expediente"
+    ],
+    "correcta": 0,
+    "explicación": "El aviso es informativo. La notificación depende de la puesta a disposición y del acceso o rechazo, no de que el aviso llegue o sea leído.",
+    "referencia": "Tema V.7 · notificaciones electrónicas"
+  },
+  {
+    "id": "burgos-v07-deep-06",
+    "tema": 38,
+    "pregunta": "Si una notificación electrónica se pone a disposición y el interesado no accede a ella, el plazo general para entenderla rechazada es de:",
+    "opciones": [
+      "Diez días naturales",
+      "Diez días hábiles",
+      "Quince días naturales",
+      "Un mes desde el aviso"
+    ],
+    "correcta": 0,
+    "explicación": "El transcurso de diez días naturales sin acceso produce el rechazo, salvo imposibilidad técnica o material, cuando la notificación se rige por este sistema.",
+    "referencia": "Tema V.7 · art. 43 LPAC y notificación electrónica"
+  },
+  {
+    "id": "burgos-v07-deep-07",
+    "tema": 38,
+    "pregunta": "¿Qué afirmación describe mejor el expediente electrónico?",
+    "opciones": [
+      "Es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución y de diligencias para ejecutarla",
+      "Es únicamente la carpeta informática donde se guardan los documentos recibidos",
+      "Es el registro electrónico de entrada y salida de la Administración",
+      "Es una copia de la sede electrónica sin datos personales"
+    ],
+    "correcta": 0,
+    "explicación": "El expediente integra documentos y actuaciones relevantes del procedimiento, con orden, índice y garantías de acceso y conservación.",
+    "referencia": "Tema V.7 · expediente electrónico"
+  },
+  {
+    "id": "burgos-v07-deep-08",
+    "tema": 38,
+    "pregunta": "La interoperabilidad entre Administraciones permite:",
+    "opciones": [
+      "Intercambiar y utilizar datos y documentos de forma coordinada, con base jurídica y medidas de seguridad",
+      "Consultar cualquier base de datos pública sin justificar finalidad",
+      "Sustituir siempre la competencia del órgano que tramita",
+      "Eliminar las obligaciones de protección de datos"
+    ],
+    "correcta": 0,
+    "explicación": "La interoperabilidad facilita el intercambio, pero no elimina la competencia, la base jurídica, la minimización ni los controles de seguridad.",
+    "referencia": "Tema V.7 · ENI, SIR e intercambio de datos"
+  },
+  {
+    "id": "burgos-v07-deep-09",
+    "tema": 38,
+    "pregunta": "El Esquema Nacional de Seguridad tiene como finalidad principal:",
+    "opciones": [
+      "Establecer principios y requisitos para proteger los sistemas, la información y los servicios del sector público",
+      "Regular exclusivamente la firma manuscrita de los empleados públicos",
+      "Determinar el calendario anual de días inhábiles",
+      "Organizar las competencias del Pleno municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El ENS articula la seguridad de la información y los servicios públicos, con medidas proporcionadas al riesgo.",
+    "referencia": "Tema V.7 · Esquema Nacional de Seguridad"
+  },
+  {
+    "id": "burgos-v07-deep-10",
+    "tema": 38,
+    "pregunta": "En una actuación administrativa automatizada, antes de utilizar el sistema debe determinarse, entre otros, quién es competente para:",
+    "opciones": [
+      "Definir especificaciones, programar, mantener, supervisar y controlar la calidad del sistema",
+      "Sustituir la posibilidad de recurrir el acto por una revisión informática",
+      "Eliminar toda intervención del órgano competente en la definición del procedimiento",
+      "Enviar siempre un aviso de correo como única garantía de validez"
+    ],
+    "correcta": 0,
+    "explicación": "El art. 41 LRJSP exige identificar previamente las responsabilidades de definición, programación, mantenimiento, supervisión, control de calidad y, en su caso, auditoría.",
+    "referencia": "Tema V.7 · actuación administrativa automatizada"
+  },
+  {
+    "id": "burgos-v07-deep-11",
+    "tema": 38,
+    "pregunta": "¿Cuál de estas afirmaciones sobre una copia electrónica es correcta?",
+    "opciones": [
+      "Un simple escaneo no convierte por sí solo el papel en copia auténtica: deben cumplirse los requisitos legales y técnicos aplicables",
+      "Toda fotografía tomada con un móvil es copia auténtica",
+      "La copia auténtica nunca puede tener la misma validez que el original",
+      "Solo un notario puede emitir copias auténticas administrativas"
+    ],
+    "correcta": 0,
+    "explicación": "La autenticidad exige cumplir las garantías de órgano o funcionario habilitado, procedimiento y requisitos técnicos; digitalizar no basta por sí solo.",
+    "referencia": "Tema V.7 · documentos y copias auténticas"
+  },
+  {
+    "id": "burgos-v07-deep-12",
+    "tema": 38,
+    "pregunta": "¿Qué relación es correcta entre portal de internet y sede electrónica?",
+    "opciones": [
+      "El portal facilita el acceso a información y servicios; la sede es el espacio electrónico de titularidad y responsabilidad administrativa donde se ofrecen trámites con garantías",
+      "Son siempre sinónimos y tienen idéntico régimen jurídico",
+      "La sede es una red social y el portal solo sirve para firmar",
+      "El portal sustituye al registro y la sede al archivo electrónico"
+    ],
+    "correcta": 0,
+    "explicación": "El portal puede conducir a una sede, pero la sede tiene una definición legal propia y concentra servicios y garantías de tramitación electrónica.",
+    "referencia": "Tema V.7 · portal de internet y sede electrónica"
   }
 ]
