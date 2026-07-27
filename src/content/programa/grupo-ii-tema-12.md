@@ -3,111 +3,156 @@ grupo: "Grupo II. Derecho y régimen jurídico de las Administraciones Públicas
 tema: 12
 codigo: "Tema II.12"
 titulo: "Ordenanzas y reglamentos de las entidades locales. Clases. Procedimiento de elaboración y aprobación. Los bandos."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Qué hay que dominar
 
-La potestad normativa local se regula en la Constitución, la <mark>Ley 7/1985</mark>, la <mark>Ley de Haciendas Locales</mark> para ordenanzas fiscales, la <mark>Ley 39/2015</mark> en materia de procedimiento y participación normativa, y los reglamentos orgánicos municipales.
+Este tema exige distinguir tres instrumentos que no tienen el mismo autor, procedimiento ni alcance: la **ordenanza**, el **reglamento local** y el **bando**. La ordenanza y el reglamento son disposiciones generales de la entidad local; el bando es una manifestación de la Alcaldía, normalmente ejecutiva, informativa o de policía. Ninguno puede situarse por encima de la ley.
 
-## Potestad reglamentaria local
+### Mapa normativo
 
-Las entidades locales tienen potestad reglamentaria y de autoorganización. Esta potestad permite aprobar ordenanzas, reglamentos y bandos dentro del ámbito de sus competencias.
-
-La potestad normativa local se fundamenta en la autonomía local. Sin normas propias, el Ayuntamiento no podria ordenar convivencia, servicios, tributos, uso de bienes, procedimientos internos o participación ciudadana. No obstante, las normas locales están subordinadas a Constitución, leyes estatales y autonómicas.
-
-## Ordenanzas
-
-Las ordenanzas son disposiciones generales aprobadas por entidades locales para regular materias de competencia municipal. Pueden afectar a convivencia ciudadana, limpieza, ruido, terrazas, mercados, trafico, licencias, medio ambiente urbano, administración electrónica, padrón, servicios o uso de espacios públicos.
-
-Las ordenanzas fiscales regulan tributos locales: impuestos potestativos, tasas, contribuciones especiales, beneficios fiscales, gestión, liquidación, inspección y recaudación dentro del marco de la <mark>Ley de Haciendas Locales</mark>.
-
-Las ordenanzas no pueden vulnerar leyes, invadir competencias ajenas, tipificar infracciones sin habilitación suficiente ni restringir derechos de forma desproporcionada.
-
-| Tipo de ordenanza | Contenido habitual |
+| Norma | Materia que conviene localizar |
 | --- | --- |
-| Ordenanza reguladora | Regula convivencia, servicios, usos, licencias o actividades. |
-| Ordenanza fiscal | Ordena tributos locales, tasas, contribuciones e impuestos potestativos. |
-| Ordenanza de administración electrónica | Regula sede, registro, comunicaciones, expedientes y uso de medios electrónicos. |
-| Ordenanza de subvenciones | Concreta reglas de concesión y justificación dentro del marco legal. |
-| Ordenanza urbanística o sectorial | Desarrolla aspectos de planeamiento, licencias, obras o actividad. |
+| Constitución, arts. 9.3, 137 y 140 | Legalidad, autonomía local, seguridad jurídica y publicidad normativa. |
+| LRBRL, arts. 4.1.a, 22.2.d, 47.2.f, 49, 65, 70.2, 84 y 127 | Potestad reglamentaria, competencia del Pleno, procedimiento, publicación, control e instrumentos de intervención. |
+| TRLRHL, arts. 15 a 19 | Imposición y ordenación de tributos, ordenanzas fiscales, exposición pública e impugnación. |
+| Ley 39/2015, arts. 127 a 133 | Principios y participación en la iniciativa normativa, aplicables con las especialidades del régimen local. |
+| Reglamento Orgánico Municipal de Burgos | Organización y funcionamiento propio, siempre subordinado a la ley. |
 
-Una ordenanza local debe apoyarse en competencia municipal. Si el Ayuntamiento regula una materia ajena, invade competencias o contradice una ley superior, la ordenanza puede anularse. También debe respetar proporcionalidad cuando limita derechos o impone obligaciones.
+> **Regla de examen:** la LRBRL fija el procedimiento local mínimo. La Ley 39/2015 aporta principios de buena regulación y participación, pero no desplaza la tramitación específica del **artículo 49 LRBRL**.
 
-## Reglamentos
+## 2. Potestad normativa local: fundamento y límites
 
-Los reglamentos locales suelen regular organización y funcionamiento interno: reglamento orgánico municipal, reglamentos de órganos, participación ciudadana, consejo social, sugerencias y reclamaciones, gestión tributaria, archivos u otros órganos especializados.
+El artículo 4.1.a LRBRL reconoce a municipios, provincias e islas, dentro de sus competencias, la potestad reglamentaria y de autoorganización. Su fundamento constitucional está en la autonomía local: el Ayuntamiento puede ordenar los asuntos de interés municipal, pero no tiene potestad legislativa.
 
-El reglamento orgánico tiene especial importancia porque adapta la organización municipal a la ley y concreta órganos, funcionamiento, derechos de concejales, sesiones, comisiones y estructura institucional.
+La potestad normativa local está limitada por:
 
-## Procedimiento de aprobación
+1. La Constitución y los principios de legalidad, jerarquía normativa, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad.
+2. La ley estatal y autonómica, incluida la normativa sectorial que reserve una materia a otra Administración.
+3. La competencia local: una ordenanza no puede regular una materia ajena al municipio.
+4. Los derechos fundamentales, la igualdad y la proporcionalidad de las cargas o restricciones.
+5. La reserva de ley: una ordenanza no puede crear delitos, penas ni tributos fuera de los elementos que la ley permita concretar.
 
-El procedimiento general de aprobación de ordenanzas y reglamentos locales incluye aprobación inicial por el Pleno, información pública y audiencia a interesados por plazo mínimo legal, resolución de reclamaciones y sugerencias, y aprobación definitiva. Si no se presentan reclamaciones, el acuerdo inicial puede entenderse definitivo.
+La norma local puede desarrollar y concretar la ley, pero no contradecirla ni dispensar singularmente de su cumplimiento. Tampoco puede utilizarse un bando para eludir la competencia del Pleno o el procedimiento de participación.
 
-El plazo mínimo de información pública y audiencia a interesados es de <mark>treinta días</mark>. Despues debe publicarse el texto íntegro en el Boletín Oficial de la Provincia y entrar en vigor conforme a las reglas legales, normalmente una vez transcurrido el plazo previsto tras la publicación. La publicidad oficial es condición necesaria para eficacia general.
+## 3. Ordenanzas y reglamentos: concepto y clases
 
-Antes de la aprobación pueden realizarse consultas, informes jurídicos, informes económicos, memoria de impacto, evaluación normativa y otros trámites según materia. En ordenanzas fiscales se aplican reglas específicas de la <mark>Ley de Haciendas Locales</mark>.
+### 3.1 Ordenanzas
 
-| Fase | Finalidad |
+Las ordenanzas son disposiciones generales de la entidad local dirigidas a ordenar materias de competencia municipal: convivencia, limpieza, ruido, ocupación de la vía pública, mercados, movilidad, terrazas, uso de bienes, servicios o administración electrónica. Pueden imponer deberes y prever consecuencias administrativas solo con cobertura legal suficiente.
+
+Las **ordenanzas fiscales** tienen especialidad propia: desarrollan la potestad tributaria local dentro del TRLRHL y regulan la imposición u ordenación de impuestos, tasas y contribuciones especiales. No pueden alterar los elementos esenciales que la ley reserva al legislador. Cuando una tasa se funda en el coste de un servicio, el expediente debe justificar económica y técnicamente la cuantía.
+
+### 3.2 Reglamentos locales
+
+El reglamento local suele ordenar la organización y el funcionamiento interno: Reglamento Orgánico Municipal, órganos complementarios, participación ciudadana, distritos, consejos sectoriales, sesiones, derechos de los miembros de la Corporación o procedimientos internos. La etiqueta no permite invadir competencias ajenas: importa el contenido real de la disposición.
+
+En los municipios de gran población, la **Junta de Gobierno Local** aprueba los proyectos de ordenanzas y reglamentos, incluidos los orgánicos, y el **Pleno** los aprueba y modifica. El reglamento orgánico requiere mayoría absoluta del número legal de miembros cuando así lo prevé el artículo 123.2 LRBRL; no se confunde con la mayoría simple ordinaria.
+
+### 3.3 Comparativa esencial
+
+| Instrumento | Autor ordinario | Finalidad | Procedimiento y control |
+| --- | --- | --- | --- |
+| Ordenanza | Pleno | Regular con carácter general una materia de competencia local. | Art. 49 LRBRL; publicación íntegra; control contencioso. |
+| Ordenanza fiscal | Pleno | Imponer u ordenar tributos locales dentro del TRLRHL. | Arts. 15-19 TRLRHL; exposición y reclamaciones específicas. |
+| Reglamento orgánico | Pleno, con proyecto de JGL en gran población | Organización y funcionamiento municipal. | Procedimiento local y, para su aprobación, mayoría absoluta en los supuestos legales. |
+| Bando | Alcalde | Recordar, ejecutar, informar o adoptar medidas de policía dentro de sus atribuciones. | No sustituye la ordenanza ni puede innovar el ordenamiento con su rango. |
+
+## 4. Elaboración y aprobación de ordenanzas y reglamentos
+
+La preparación puede incluir consulta previa, memoria de necesidad, alternativas, informes jurídicos y económicos, evaluación de impacto y audiencia sectorial. Estos trabajos justifican la iniciativa, pero no sustituyen las fases esenciales del artículo 49 LRBRL.
+
+### 4.1 Procedimiento ordinario del artículo 49 LRBRL
+
+1. **Preparación del proyecto y del expediente.** Deben identificarse la competencia, finalidad, impacto, financiación y texto propuesto; se incorporan los informes que sean preceptivos.
+2. **Aprobación inicial por el Pleno.** Es el acuerdo que abre formalmente el trámite de participación. En municipios de gran población, la JGL puede aprobar el proyecto, pero la aprobación de la ordenanza corresponde al Pleno.
+3. **Información pública y audiencia a los interesados por un mínimo de <mark>treinta días</mark>.** Se formulan reclamaciones y sugerencias. No es una simple exposición informativa: permite intervenir sobre el texto.
+4. **Resolución de todas las reclamaciones y sugerencias.** El Pleno debe examinarlas y motivar su aceptación o rechazo.
+5. **Aprobación definitiva por el Pleno.** Si hay reclamaciones, el acuerdo definitivo debe resolverlas. Si no hay ninguna, el acuerdo provisional se entiende definitivamente adoptado sin nuevo debate plenario.
+6. **Publicación íntegra.** El texto definitivo se publica en el Boletín Oficial de la Provincia; además se publica o notifica lo que exijan las reglas de transparencia y la normativa sectorial.
+7. **Entrada en vigor.** Como regla general, las ordenanzas y reglamentos no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo de <mark>quince días</mark> previsto en los artículos 65.2 y 70.2 LRBRL, salvo que una norma aplicable establezca una especialidad.
+
+| Momento | Pregunta que resuelve |
 | --- | --- |
-| Preparación | Definir necesidad, competencia, objetivos, alternativas e impactos. |
-| Informes | Asegurar legalidad, viabilidad económica y coherencia técnica. |
-| Aprobación inicial | El Pleno abre formalmente la tramitación. |
-| Información pública y audiencia | Permite reclamaciones, sugerencias y participación durante al menos <mark>treinta días</mark>. |
-| Resolución de alegaciones | El Ayuntamiento acepta o rechaza motivadamente las aportaciones. |
-| Aprobación definitiva | Fija el texto final. |
-| Publicación integra | Da publicidad oficial y permite entrada en vigor. |
+| Aprobación inicial | ¿Se abre el trámite del proyecto? |
+| Información pública | ¿Pueden formularse reclamaciones y sugerencias? |
+| Aprobación definitiva | ¿Cuál es el texto municipal final? |
+| Publicación íntegra | ¿Se conoce oficialmente el contenido? |
+| Transcurso del plazo legal | ¿Puede comenzar su vigencia general? |
 
-El expediente normativo debe permitir reconstruir por que se aprueba la norma. Una ordenanza bien tramitada incluye memoria, informes, texto comparado si modifica norma anterior, alegaciones, certificado de acuerdos, publicación y archivo final.
+> **Muy importante:** publicación íntegra y entrada en vigor son momentos distintos. La aprobación inicial, por sí sola, no permite exigir una ordenanza al ciudadano.
 
-## Ordenanzas fiscales
+### 4.2 Si no hay reclamaciones y si las hay
 
-Las ordenanzas fiscales tienen procedimiento propio. Deben aprobarse provisionalmente por el Pleno, exponerse al público, resolver reclamaciones y aprobarse definitivamente. Regulan elementos necesarios de cada tributo dentro de la ley: hecho imponible, sujetos, beneficios, cuota, devengo, gestión y obligaciones formales cuando proceda.
-
-En municipios de gran población, la Junta de Gobierno Local aprueba los proyectos de ordenanzas y reglamentos, incluidos los orgánicos, y el Pleno aprueba las ordenanzas y reglamentos. El Reglamento Orgánico de la Corporación exige <mark>mayoría absoluta</mark> del número legal de miembros.
-
-Su importancia en un Ayuntamiento es enorme porque habilitan la aplicación de tasas, impuestos potestativos y contribuciones especiales. Sin ordenanza fiscal valida, determinados ingresos no pueden exigirse.
-
-El expediente de ordenanza fiscal debe cuidar especialmente la memoria económico-financiera cuando se regulan tasas o precios vinculados al coste del servicio. La cuota no puede fijarse de forma arbitraria: debe justificarse conforme a la <mark>Ley de Haciendas Locales</mark> y a los informes económicos incorporados al expediente.
-
-| Ordenanza fiscal | Punto de control |
+| Resultado de la exposición | Consecuencia |
 | --- | --- |
-| Imposición | Acuerdo plenario que establece el tributo cuando es potestativo. |
-| Ordenación | Regulación de elementos del tributo dentro de la ley. |
-| Exposición pública | Reclamaciones durante el plazo legal. |
-| Publicación íntegra | Condición para entrada en vigor y exigibilidad. |
-| Memoria económica | Justifica coste, cuota o impacto cuando procede. |
+| No se presenta ninguna reclamación o sugerencia | El acuerdo hasta entonces provisional queda definitivamente adoptado; después debe publicarse íntegramente. |
+| Se presentan reclamaciones o sugerencias | El Pleno debe resolverlas y aprobar definitivamente el texto; no puede ignorarlas ni entender aprobado el texto sin más. |
 
-## Control e impugnación
+La audiencia no convierte a los interesados en titulares de un veto. La Corporación debe valorar y resolver las aportaciones, pero conserva la decisión normativa dentro de la ley y debe motivarla cuando proceda.
 
-Las ordenanzas y reglamentos pueden impugnarse ante la jurisdicción contencioso-administrativa. También pueden ser objeto de requerimientos o impugnaciones por Administraciones competentes cuando vulneren el ordenamiento.
+## 5. Ordenanzas fiscales
 
-Los actos dictados en aplicación de una ordenanza también pueden recurrirse. Si la ordenanza es ilegal, puede plantearse impugnación directa o indirecta en los términos de la Ley de la Jurisdicción Contencioso-Administrativa.
+El TRLRHL contiene una tramitación propia que debe separarse de la ordenanza común:
 
-En ordenanzas fiscales, los interesados pueden formular reclamaciones durante la exposición pública. Tras la aprobación definitiva y publicación, la impugnación ordinaria de la disposición se dirige a la jurisdicción contencioso-administrativa. Distinto es recurrir un recibo, liquidación o providencia de apremio dictado en aplicación de la ordenanza: ahí se impugna el acto tributario concreto por las vías económico-administrativas o recursos procedentes.
+1. El Pleno adopta el **acuerdo provisional** de imposición cuando se trate de un tributo que lo necesite y aprueba provisionalmente la ordenanza fiscal o su modificación.
+2. El acuerdo y el expediente se exponen al público durante **treinta días como mínimo**, mediante anuncio en el boletín correspondiente.
+3. Los interesados pueden examinarlo y presentar reclamaciones.
+4. El Pleno resuelve las reclamaciones y aprueba definitivamente el acuerdo y el texto. Si no hay reclamaciones, el acuerdo provisional queda automáticamente elevado a definitivo.
+5. El texto íntegro de la ordenanza se publica en el Boletín Oficial de la Provincia. En tributos locales no basta con publicar un resumen o la mera aprobación.
 
-## Bandos
+La ordenanza fiscal puede concretar dentro de la ley el tipo, cuota, beneficios fiscales autorizados, régimen de gestión y demás elementos que el TRLRHL permita. La memoria económico-financiera es especialmente relevante para tasas y precios vinculados al coste del servicio; no reemplaza la aprobación plenaria.
 
-Los bandos son disposiciones o comunicaciones dictadas por el Alcalde para recordar, concretar o adoptar medidas dentro de sus competencias, especialmente en materias de convivencia, seguridad, fiestas, emergencias, limpieza, trafico o información vecinal.
+> **No mezclar:** la reclamación contra la aprobación o imposición de una ordenanza fiscal se mueve en el régimen del TRLRHL; el recurso contra una liquidación, recibo o providencia de apremio es la impugnación de un acto tributario concreto.
 
-El bando no sustituye a la ordenanza ni puede crear regulaciones generales de competencia plenaria. Su función habitual es ejecutiva, informativa o de policía municipal. Debe respetar leyes, ordenanzas y competencias de otros órganos.
+## 6. Bandos
 
-En situaciones de urgencia o riesgo, el Alcalde puede dictar bandos para adoptar medidas necesarias, dando cuenta al Pleno cuando proceda. Para el administrativo municipal, los bandos implican redacción, publicación, difusión, archivo y, a veces, tramitación de expedientes posteriores.
+El bando es una disposición, orden o comunicación de la Alcaldía dentro de sus atribuciones. Puede recordar una obligación ya existente, informar de horarios o medidas, ordenar actuaciones concretas de policía municipal o responder a una emergencia. Su contenido debe apoyarse en la ley, en las ordenanzas y en la competencia del Alcalde.
 
-| Instrumento | Quién lo aprueba/dicta | Alcance |
-| --- | --- | --- |
-| Ordenanza | Pleno | Norma general para materias de competencia local. |
-| Reglamento orgánico | Pleno | Organización y funcionamiento municipal. |
-| Ordenanza fiscal | Pleno | Regulación tributaria local dentro de la ley. |
-| Bando | Alcaldía | Comunicación, recordatorio o medida ejecutiva dentro de competencias. |
+El bando **<mark>no es una ordenanza abreviada</mark>**. No puede crear un régimen general y permanente reservado al Pleno, establecer un tributo, tipificar una infracción sin cobertura legal u ordenar lo contrario de una ordenanza vigente. Si la necesidad es estable y general —por ejemplo, regular de modo permanente las terrazas— debe tramitarse una ordenanza.
 
-| Pregunta típica | Respuesta |
-|---|---|
-| Aprobación inicial de ordenanza | Pleno. |
-| Información pública mínima | <mark>Treinta días</mark>. |
-| Si no hay reclamaciones | El acuerdo inicial se entiende definitivamente aprobado. |
-| Si hay reclamaciones | El Pleno las resuelve y aprueba definitivamente. |
-| Publicación | Texto íntegro en el Boletín Oficial de la Provincia. |
-| Impugnación de ordenanza definitiva | Jurisdicción contencioso-administrativa. |
+En la práctica administrativa, un bando puede requerir redacción clara, decreto o firma de Alcaldía, publicación o difusión, constancia en el expediente y comunicación a los servicios municipales. La forma concreta depende de su contenido y del Reglamento Orgánico Municipal.
 
-La diferencia práctica es clara: si se quiere regular de forma estable una materia municipal, se aprueba ordenanza o reglamento. Si se quiere comunicar una medida concreta, recordar obligaciones o actuar en una situación puntual dentro de competencias de Alcaldía, puede usarse bando. El bando no debe utilizarse para evitar el procedimiento plenario.
+### Caso breve
+
+Ante una ola de calor, la Alcaldía puede dictar un bando que informe de horarios y recomiende medidas, o que ordene una actuación temporal dentro de sus competencias. No puede aprovecharlo para crear una tasa por uso de fuentes públicas ni para aprobar definitivamente una regulación general de convivencia.
+
+## 7. Publicidad, control e impugnación
+
+La publicación oficial permite conocer la norma y es requisito de su eficacia general. Contra una disposición general local no se interpone un recurso administrativo ordinario como si fuera un acto: el control directo corresponde a la jurisdicción contencioso-administrativa, conforme a la LJCA.
+
+También puede impugnarse un acto de aplicación —por ejemplo, una sanción, liquidación o denegación— y alegar en ese proceso la ilegalidad de la ordenanza que le sirve de fundamento, en los términos de la impugnación indirecta. Son objetos distintos: disposición general y acto concreto.
+
+Además, la Administración del Estado o la comunidad autónoma pueden requerir o impugnar acuerdos locales en los supuestos de los artículos 65 y siguientes LRBRL. La autonomía local no excluye el control judicial ni el control de legalidad previsto por la ley.
+
+## 8. Cómo resolver un supuesto y errores típicos
+
+Para resolver una pregunta práctica, sigue este orden:
+
+1. Identifica si se busca una norma general, una regla interna o una medida concreta.
+2. Comprueba la competencia: Pleno, JGL o Alcalde.
+3. Determina si es ordenanza fiscal: si lo es, aplica primero los artículos 15 a 19 TRLRHL.
+4. Sitúa la fase: inicial, exposición, reclamaciones, definitiva, publicación o entrada en vigor.
+5. Comprueba si se pregunta por la norma o por un acto dictado en aplicación de ella.
+
+**Errores típicos de test**
+
+- Confundir aprobación inicial con aprobación definitiva.
+- Olvidar los **treinta días** mínimos de información pública del artículo 49 LRBRL.
+- Creer que la ausencia de reclamaciones elimina la obligación de publicar el texto íntegro.
+- Confundir publicación con entrada en vigor: como regla, hay que añadir el plazo legal de quince días de los artículos 65.2 y 70.2 LRBRL.
+- Atribuir al Alcalde la aprobación de una ordenanza o al Pleno la simple firma de un bando.
+- Pensar que un bando puede sustituir al procedimiento de una ordenanza.
+- Confundir una ordenanza fiscal con una liquidación tributaria.
+- Llamar «reglamento orgánico» a cualquier ordenanza sectorial o creer que toda norma local requiere mayoría absoluta.
+
+## 9. Esquema final de memoria
+
+> **Ordenanza/reglamento:** proyecto → Pleno inicial → 30 días de información pública y audiencia → resolver reclamaciones → Pleno definitivo (o definitivo automático si no hay reclamaciones) → publicación íntegra en BOP → plazo legal → entrada en vigor.
+
+> **Fiscal:** TRLRHL 15-19 → imposición/ordenación provisional → 30 días → reclamaciones → resolución y definitiva → publicación íntegra.
+
+> **Bando:** Alcalde → medida informativa, ejecutiva o de policía → dentro de competencias → nunca sustituye la ordenanza.
+
+La idea que debe quedar es: **la ordenanza regula con vocación general; el reglamento organiza o desarrolla; el bando ejecuta, informa o recuerda**.

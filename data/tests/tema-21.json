@@ -358,5 +358,113 @@
     "correcta": 0,
     "referencia": "Revisión test reales · art. 49 LBRL",
     "explicación": "La ausencia de reclamaciones convierte en definitivo el acuerdo provisional."
+  },
+  {
+    "id": "burgos-ii12-deep-01",
+    "tema": 21,
+    "pregunta": "¿Qué órgano aprueba inicialmente una ordenanza municipal con carácter general?",
+    "opciones": ["El Pleno", "La Alcaldía", "La Secretaría General", "La Intervención"],
+    "correcta": 0,
+    "referencia": "II.12 · 4.1 Procedimiento del artículo 49 LRBRL",
+    "explicación": "La aprobación inicial corresponde al Pleno. En municipios de gran población la Junta de Gobierno puede aprobar el proyecto, pero no sustituye la aprobación plenaria de la ordenanza."
+  },
+  {
+    "id": "burgos-ii12-deep-02",
+    "tema": 21,
+    "pregunta": "El plazo mínimo de información pública y audiencia de una ordenanza o reglamento local es de:",
+    "opciones": ["Diez días hábiles", "Quince días naturales", "Treinta días", "Dos meses"],
+    "correcta": 2,
+    "referencia": "II.12 · 4.1 Procedimiento del artículo 49 LRBRL",
+    "explicación": "El artículo 49.b LRBRL exige información pública y audiencia por un plazo mínimo de treinta días para formular reclamaciones y sugerencias."
+  },
+  {
+    "id": "burgos-ii12-deep-03",
+    "tema": 21,
+    "pregunta": "Si durante la información pública no se presenta ninguna reclamación ni sugerencia:",
+    "opciones": ["El acuerdo provisional se entiende definitivamente adoptado", "Debe aprobarlo de nuevo la Alcaldía", "La ordenanza queda anulada", "Debe someterse a referéndum"],
+    "correcta": 0,
+    "referencia": "II.12 · 4.2 Resultado de la exposición pública",
+    "explicación": "El artículo 49.c LRBRL permite entender definitivamente adoptado el acuerdo hasta entonces provisional cuando no se presentan reclamaciones ni sugerencias; aun así, el texto debe publicarse íntegramente."
+  },
+  {
+    "id": "burgos-ii12-deep-04",
+    "tema": 21,
+    "pregunta": "Cuando se presentan reclamaciones a una ordenanza durante la información pública, el Pleno debe:",
+    "opciones": ["Resolverlas y aprobar definitivamente el texto", "Ignorarlas si la mayoría simple las rechaza informalmente", "Remitirlas al Senado", "Dejar que las resuelva la Secretaría"],
+    "correcta": 0,
+    "referencia": "II.12 · 4.2 Resultado de la exposición pública",
+    "explicación": "Las reclamaciones deben resolverse y la aprobación definitiva corresponde al Pleno. La participación no da derecho de veto, pero tampoco puede omitirse la resolución."
+  },
+  {
+    "id": "burgos-ii12-deep-05",
+    "tema": 21,
+    "pregunta": "Para la entrada en vigor general de una ordenanza local se requiere, como regla:",
+    "opciones": ["Publicación íntegra y transcurso del plazo legal de quince días", "Solo su aprobación inicial", "Una rueda de prensa de la Alcaldía", "Publicación exclusiva en la web municipal"],
+    "correcta": 0,
+    "referencia": "II.12 · 4.1 Entrada en vigor y artículos 65.2 y 70.2 LRBRL",
+    "explicación": "La publicación íntegra en el boletín oficial y el transcurso del plazo de quince días de los artículos 65.2 y 70.2 LRBRL son requisitos generales de entrada en vigor, salvo especialidad aplicable."
+  },
+  {
+    "id": "burgos-ii12-deep-06",
+    "tema": 21,
+    "pregunta": "En un municipio de gran población, la Junta de Gobierno Local respecto de las ordenanzas y reglamentos:",
+    "opciones": ["Aprueba los proyectos, mientras el Pleno aprueba las normas", "Aprueba definitivamente siempre las ordenanzas", "Solo puede dictar bandos", "Sustituye al Pleno en toda potestad normativa"],
+    "correcta": 0,
+    "referencia": "II.12 · 3.2 Reglamentos locales y régimen de gran población",
+    "explicación": "El artículo 127.1.a LRBRL atribuye a la Junta de Gobierno la aprobación de los proyectos; el artículo 123 reserva al Pleno la aprobación y modificación de ordenanzas y reglamentos municipales."
+  },
+  {
+    "id": "burgos-ii12-deep-07",
+    "tema": 21,
+    "pregunta": "La aprobación del Reglamento Orgánico de la Corporación exige, en los supuestos del artículo 47.2.f LRBRL:",
+    "opciones": ["Mayoría absoluta del número legal de miembros", "Unanimidad de los asistentes", "Mayoría de dos tercios de los presentes", "Solo la firma del Alcalde"],
+    "correcta": 0,
+    "referencia": "II.12 · 3.2 Reglamento orgánico",
+    "explicación": "La aprobación y modificación del Reglamento Orgánico requiere mayoría absoluta del número legal de miembros de la Corporación."
+  },
+  {
+    "id": "burgos-ii12-deep-08",
+    "tema": 21,
+    "pregunta": "¿Cuál es la diferencia correcta entre una ordenanza y un bando?",
+    "opciones": ["La ordenanza es una disposición general aprobada por el Pleno y el bando una medida o comunicación de la Alcaldía", "Ambos son siempre acuerdos del Pleno", "El bando tiene mayor rango que la ordenanza", "La ordenanza solo sirve para informar y el bando crea tributos"],
+    "correcta": 0,
+    "referencia": "II.12 · 6 Bandos",
+    "explicación": "La ordenanza tiene vocación normativa general y sigue el procedimiento del artículo 49 LRBRL. El bando se dicta por la Alcaldía dentro de sus atribuciones y no puede sustituir aquella potestad."
+  },
+  {
+    "id": "burgos-ii12-deep-09",
+    "tema": 21,
+    "pregunta": "Una ordenanza fiscal se tramita principalmente conforme a:",
+    "opciones": ["Los artículos 15 a 19 del TRLRHL", "El Código Penal", "La Ley Electoral General", "El reglamento del Senado"],
+    "correcta": 0,
+    "referencia": "II.12 · 5 Ordenanzas fiscales",
+    "explicación": "Las ordenanzas fiscales tienen procedimiento y régimen de impugnación específicos en los artículos 15 a 19 del Texto Refundido de la Ley Reguladora de las Haciendas Locales."
+  },
+  {
+    "id": "burgos-ii12-deep-10",
+    "tema": 21,
+    "pregunta": "La impugnación directa de una ordenanza local aprobada definitivamente se dirige, como regla, a:",
+    "opciones": ["La jurisdicción contencioso-administrativa", "Un recurso de alzada ante la Alcaldía", "La jurisdicción penal", "La Junta de Gobierno Local"],
+    "correcta": 0,
+    "referencia": "II.12 · 7 Publicidad, control e impugnación",
+    "explicación": "Las ordenanzas son disposiciones generales y su control directo corresponde a la jurisdicción contencioso-administrativa, no a un recurso administrativo ordinario."
+  },
+  {
+    "id": "burgos-ii12-deep-11",
+    "tema": 21,
+    "pregunta": "La impugnación de una liquidación dictada aplicando una ordenanza fiscal tiene por objeto inmediato:",
+    "opciones": ["El acto tributario concreto", "La Constitución completa", "El Reglamento Orgánico Municipal", "Un bando de Alcaldía en todo caso"],
+    "correcta": 0,
+    "referencia": "II.12 · 5 Ordenanzas fiscales y 7 Impugnación",
+    "explicación": "Debe distinguirse la disposición general de su acto de aplicación: recibo, liquidación o providencia de apremio tienen sus propias vías de impugnación tributaria."
+  },
+  {
+    "id": "burgos-ii12-deep-12",
+    "tema": 21,
+    "pregunta": "La Alcaldía dicta un bando para crear con carácter permanente una tasa por ocupar la vía pública. La afirmación correcta es:",
+    "opciones": ["No puede crearla mediante bando; debe respetar la potestad tributaria y el procedimiento de ordenanza fiscal", "Puede crearla porque todo bando tiene rango de ley", "Puede crearla si se anuncia en redes sociales", "Debe aprobarla la Secretaría sin intervención del Pleno"],
+    "correcta": 0,
+    "referencia": "II.12 · 5 Ordenanzas fiscales y 6 Bandos",
+    "explicación": "Un bando no puede crear tributos ni sustituir la ordenanza fiscal y sus garantías de aprobación, exposición pública y publicación."
   }
 ]
