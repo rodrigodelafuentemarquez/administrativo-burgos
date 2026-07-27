@@ -107,7 +107,7 @@
 - **Revisión de subrayados:** se revisó `rehypeStudyHighlights.mjs` antes de editar. La reescritura retiró el marcado manual excesivo del borrador; se añadieron únicamente tres marcas manuales breves para `treinta días`, `quince días` y `no es una ordenanza abreviada`. Leyes, artículos, órganos, mayorías y plazos restantes quedan al resaltado automático; no se modificó el motor común.
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-ii12-deep-01` a `burgos-ii12-deep-12` sobre aprobación inicial y definitiva, 30 días, ausencia y resolución de reclamaciones, publicación y entrada en vigor, gran población, mayoría absoluta del Reglamento Orgánico, diferencia ordenanza/bando, TRLRHL, impugnación de disposición y acto tributario y caso práctico de creación de una tasa. El banco pasa de 25 a 37 preguntas; se verificaron unicidad, pertenencia al tema, opciones, respuesta única y explicación; se sincronizó la copia pública mediante `npm run prepare:data`.
 - **Verificación ejecutada:** validación Node del banco y de los tres pares `<mark>`, comprobación de equivalencia editable/público, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `3b83c6a` (`mejora profunda tema IV.3 ejecucion del gasto`), subido correctamente a `origin/main`; este cierre documental se completa en el commit posterior de la misma ejecución.
 - **Siguiente tema sugerido:** III.1, personal local: clases, provisión, derechos, deberes, carrera y promoción; profundizar en el EBEP y el enfoque práctico municipal sin duplicar III.2.
 
 ## 27 de julio de 2026, 12:34 (Europe/Madrid)
