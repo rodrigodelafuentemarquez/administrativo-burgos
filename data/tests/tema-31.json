@@ -306,5 +306,173 @@
     "referencia": "IV.5 · Protección de la legalidad urbanística",
     "explicación": "No toda obra clandestina es legalizable: solo la que resulte materialmente compatible con el ordenamiento urbanístico.",
     "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-01",
+    "pregunta": "Según la Ley de Urbanismo de Castilla y León, ¿qué clases de suelo existen?",
+    "opciones": [
+      "Urbano, urbanizable y rústico",
+      "Urbano, edificable y protegido",
+      "Urbanizable, patrimonial y demanial",
+      "Consolidado, residencial y agrícola"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 10 LUCyL clasifica el territorio en suelo urbano, urbanizable y rústico. Las categorías de consolidado o no consolidado pertenecen al suelo urbano, no son clases generales distintas.",
+    "referencia": "IV.5 · Clasificación del suelo",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-02",
+    "pregunta": "¿Qué diferencia expresa mejor clasificación y calificación urbanísticas?",
+    "opciones": [
+      "La clasificación fija la clase jurídica del suelo y la calificación concreta sus usos y condiciones",
+      "La clasificación identifica al propietario y la calificación fija el valor catastral",
+      "La clasificación corresponde siempre al Estado y la calificación siempre a los particulares",
+      "No existe diferencia jurídica entre ambas"
+    ],
+    "correcta": 0,
+    "explicación": "La clasificación distingue urbano, urbanizable y rústico; la calificación pormenoriza usos, intensidades y condiciones como altura, edificabilidad o retranqueos.",
+    "referencia": "IV.5 · Clasificación y calificación del suelo",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-03",
+    "pregunta": "En suelo rústico de Castilla y León, un uso sujeto a autorización autonómica:",
+    "opciones": [
+      "Requiere autorización previa de la Comunidad Autónoma antes de la licencia municipal",
+      "Solo necesita una licencia municipal y nunca autorización autonómica",
+      "Queda autorizado automáticamente por el planeamiento general",
+      "No puede autorizarse en ningún supuesto"
+    ],
+    "correcta": 0,
+    "explicación": "Los usos excepcionales sujetos a autorización requieren valorar el interés público por la Administración autonómica; esa autorización no sustituye a la posterior licencia urbanística municipal.",
+    "referencia": "IV.5 · Suelo rústico",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-04",
+    "pregunta": "¿Cuál de estas funciones corresponde expresamente al municipio en materia de protección de la legalidad urbanística?",
+    "opciones": [
+      "Inspección, restauración de la legalidad e imposición de sanciones en su término municipal",
+      "Aprobar leyes autonómicas de urbanismo",
+      "Resolver definitivamente todos los informes sectoriales estatales",
+      "Fijar las valoraciones expropiatorias estatales"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 111 LUCyL atribuye al municipio inspección, medidas de protección y restauración y sanción, sin perjuicio de las competencias autonómicas supramunicipales.",
+    "referencia": "IV.5 · Competencia urbanística municipal",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-05",
+    "pregunta": "La licencia urbanística, con carácter general, es un acto:",
+    "opciones": [
+      "Reglado, que debe ajustarse a la ley y al planeamiento",
+      "Discrecional, basado principalmente en la oportunidad política",
+      "Civil, que resuelve la propiedad de la parcela",
+      "Legislativo, que modifica el planeamiento aplicable"
+    ],
+    "correcta": 0,
+    "explicación": "La licencia controla la conformidad de la actuación con el ordenamiento. No resuelve la titularidad civil ni permite apartarse del planeamiento por razones de oportunidad.",
+    "referencia": "IV.5 · Licencia urbanística",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-06",
+    "pregunta": "La licencia urbanística se otorga, según la fórmula legal clásica:",
+    "opciones": [
+      "Dejando a salvo el derecho de propiedad y sin perjuicio de terceros",
+      "Convalidando cualquier conflicto entre particulares",
+      "Sin necesidad de motivación cuando es favorable",
+      "Con preferencia sobre cualquier autorización sectorial"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 98 LUCyL mantiene la fórmula salvo derecho de propiedad y sin perjuicio de terceros; la licencia no convierte al Ayuntamiento en juez civil.",
+    "referencia": "IV.5 · Licencia urbanística",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-07",
+    "pregunta": "¿Qué efecto tiene la declaración responsable en materia urbanística?",
+    "opciones": [
+      "Permite actuar en los términos legales, pero no elimina la inspección ni la restauración si falta la legalidad",
+      "Sustituye siempre a toda licencia y hace imposible sancionar",
+      "Aprueba automáticamente un cambio de clasificación del suelo",
+      "Impide a la Administración comprobar la documentación después"
+    ],
+    "correcta": 0,
+    "explicación": "La declaración responsable desplaza el control al interesado en los casos previstos, pero la Administración conserva sus potestades de comprobación, protección y sanción.",
+    "referencia": "IV.5 · Intervención administrativa",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-08",
+    "pregunta": "En Castilla y León, si una obra sin licencia es compatible con el planeamiento, el Ayuntamiento requerirá con carácter general que se solicite la licencia en un plazo de:",
+    "opciones": [
+      "Tres meses",
+      "Diez días hábiles",
+      "Un mes",
+      "Un año"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 118 LUCyL prevé un requerimiento de tres meses para solicitar la licencia cuando la actuación sea compatible y no esté amparada por título habilitante.",
+    "referencia": "IV.5 · Restauración de la legalidad",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-09",
+    "pregunta": "¿Qué ocurre si una actuación urbanística es incompatible con el planeamiento?",
+    "opciones": [
+      "Procede la restauración, incluida la demolición o reposición cuando corresponda, además de valorar la sanción",
+      "Basta con pagar la tasa de licencia para legalizarla",
+      "Debe aprobarse una modificación del planeamiento para adaptarla siempre",
+      "Solo puede imponerse una multa, nunca restaurarse"
+    ],
+    "correcta": 0,
+    "explicación": "La incompatibilidad impide la legalización ordinaria. La restauración repone la realidad y puede coexistir con la sanción por la infracción cometida.",
+    "referencia": "IV.5 · Protección de la legalidad",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-10",
+    "pregunta": "¿Qué plazos de prescripción establece la LUCyL para las infracciones muy graves, graves y leves?",
+    "opciones": [
+      "Diez años, ocho años y cuatro años, respectivamente",
+      "Cinco años, tres años y un año, respectivamente",
+      "Ocho años, cuatro años y dos años, respectivamente",
+      "No prescriben nunca en ningún caso"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 121 LUCyL fija diez años para las muy graves, ocho para las graves y cuatro para las leves. La protección sobre dominio público y espacios libres públicos no está sujeta a prescripción.",
+    "referencia": "IV.5 · Prescripción",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-11",
+    "pregunta": "¿Qué multas prevé la LUCyL como referencia para las infracciones muy graves, graves y leves?",
+    "opciones": [
+      "300.001-3.000.000 €, 10.001-300.000 € y 1.000-10.000 €, respectivamente",
+      "100.000-1.000.000 €, 10.000-100.000 € y 100-10.000 €, respectivamente",
+      "3.000.000 € fijos para todas las infracciones",
+      "Solo multas de hasta 600 €"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 117 LUCyL establece esos tramos económicos, sin perjuicio de la proporcionalidad y de las circunstancias agravantes o atenuantes.",
+    "referencia": "IV.5 · Sanciones urbanísticas",
+    "tema": 31
+  },
+  {
+    "id": "burgos-iv05-deep-12",
+    "pregunta": "La sanción penal por los mismos hechos urbanísticos:",
+    "opciones": [
+      "Excluye la sanción administrativa, pero no necesariamente las medidas de restauración de la legalidad",
+      "Impide siempre ordenar la demolición o reposición",
+      "Obliga a imponer además una multa administrativa idéntica",
+      "Convierte automáticamente la obra en legal"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 122 LUCyL obliga a poner los indicios de delito en conocimiento del Ministerio Fiscal. La sanción penal excluye la administrativa por los mismos hechos, pero la restauración puede mantenerse.",
+    "referencia": "IV.5 · Infracciones y delito",
+    "tema": 31
   }
 ]
