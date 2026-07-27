@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se leyó `rehypeStudyHighlights.mjs` antes de editar. La reescritura retiró el marcado manual heredado y dejó diez marcas breves para reglas nucleares que necesitaban énfasis didáctico (interinidad, edad, OEP, vacaciones, prescripción, promoción interna y habilitación nacional); leyes, artículos, plazos, órganos y conceptos reconocidos siguen delegados al motor automático. No se modificó el motor común; se comprobó que las diez marcas están equilibradas y no abarcan párrafos.
 - **Tests añadidos/cambiados:** se añadieron 12 preguntas `burgos-iii01-deep-01` a `burgos-iii01-deep-12` sobre plantilla/RPT/OEP, interinidad, artículo 55, acceso/provisión, provisión ordinaria y libre designación, derechos colectivos, inamovilidad, código de conducta, carrera horizontal, promoción interna y habilitación nacional. El banco pasa de 63 a 75 preguntas; se verificaron IDs únicos, pertenencia al tema, respuestas válidas y explicaciones útiles. Se sincronizó la copia pública con `npm run prepare:data`.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de 75 preguntas, unicidad, pertenencia, respuesta única, explicaciones, igualdad editable/público e índice, comprobación de 10 pares `<mark>`, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `4c7b9ea` (`mejora profunda tema III.1 personal local`), subido a `origin/main`.
 - **Siguiente tema sugerido:** III.2, adquisición y pérdida de la condición de funcionario y situaciones administrativas; separar con claridad sus efectos y reservas de puesto de la provisión y carrera tratadas aquí.
 
 ## 27 de julio de 2026, 12:52 (Europe/Madrid)
