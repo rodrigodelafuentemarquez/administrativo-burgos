@@ -3,147 +3,147 @@ grupo: "Grupo III. Régimen jurídico de los empleados públicos"
 tema: 3
 codigo: "Tema III.3"
 titulo: "El personal laboral al servicio de las administraciones públicas. Selección. Derechos, deberes e incompatibilidades."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Idea general y normativa aplicable
 
-El personal laboral se rige por el <mark>Estatuto de los Trabajadores</mark>, el EBEP, la legislación presupuestaria, convenios colectivos, contrato de trabajo y normativa de empleo público.
+El personal laboral es un **empleado público** vinculado a la Administración por un **contrato de trabajo escrito o verbal**, no por un nombramiento funcionarial. Presta servicios retribuidos por cuenta ajena y dentro de la organización y dirección de la Administración empleadora.
 
-## Concepto
+Su régimen es mixto. El orden correcto para estudiarlo es:
 
-El personal laboral al servicio de las Administraciones Públicas es aquel que presta servicios retribuidos mediante **contrato de trabajo**. Puede ser fijo, indefinido o temporal. Aunque su relación se rige por Derecho laboral, trabaja en una Administración y queda sometido a <mark>principios públicos</mark>.
+| Norma o fuente | Qué aporta |
+|---|---|
+| <mark>Constitución Española</mark>, arts. 23.2, 103.3 y 149.1.18.ª | Igualdad en el acceso, mérito y capacidad, imparcialidad y bases del régimen estatutario. |
+| <mark>TREBEP</mark>, especialmente arts. 8, 11, 52-54, 55, 61 y 95 | Clases de empleados, definición del personal laboral, acceso, código de conducta y régimen disciplinario público. |
+| <mark>Estatuto de los Trabajadores</mark> (ET) | Contrato, jornada, derechos laborales, negociación colectiva, suspensión y extinción. |
+| Convenio colectivo aplicable | Condiciones de trabajo dentro de los límites legales y presupuestarios. |
+| Contrato, legislación presupuestaria y normativa local | Concreción de la relación y organización del servicio municipal. |
+| <mark>Ley 53/1984</mark> y su normativa de desarrollo | Incompatibilidades del personal laboral, igual que del resto del personal al servicio de las Administraciones. |
 
-No todas las funciones pueden desempenarse por personal laboral. Las que impliquen ejercicio de potestades públicas o salvaguarda de intereses generales con ejercicio de autoridad suelen reservarse a funcionarios.
+**Regla de examen:** el ET no desplaza al TREBEP. El contrato laboral se interpreta junto con las normas de empleo público, el convenio y los principios constitucionales.
 
-La idea principal es doble:
+## 2. Concepto, clases y funciones reservadas
 
-1. Es personal con **vinculo laboral**, no nombramiento funcionarial.
-2. Pero su empleador es una Administración, por lo que no desaparecen igualdad, mérito, capacidad, publicidad, incompatibilidades ni código de conducta.
+El artículo 8.2.c TREBEP clasifica el personal laboral, según la duración del contrato, en **fijo, por tiempo indefinido o temporal**. En el lenguaje habitual se distingue así:
 
-El contrato de trabajo se reconoce por sus notas esenciales: prestación voluntaria de servicios, retribución, dependencia respecto del empleador y ajenidad en los frutos y riesgos de la actividad. Si faltan estas notas, puede no existir relación laboral aunque haya colaboración con la Administración.
+| Figura | Cómo se vincula | Qué debe recordarse |
+|---|---|---|
+| Laboral fijo | Contrato indefinido después de superar el proceso selectivo correspondiente | Accede a una plaza laboral fija respetando igualdad, mérito, capacidad y publicidad. |
+| Indefinido no fijo | Declaración judicial o reconocimiento derivado de una utilización irregular de la contratación | No equivale a fijo: no consolida por sí solo la plaza ni elimina la obligación de cobertura regular. |
+| Laboral temporal | Contrato de duración determinada con causa legal | La duración debe estar conectada con la causa; no es una vía para cubrir necesidades permanentes sin límite. |
 
-## Selección
+El **indefinido no fijo** no es una cuarta clase autónoma del artículo 8.2: es una situación construida por la jurisprudencia para responder a irregularidades en el sector público sin convertir automáticamente al trabajador en fijo, porque el acceso a la plaza debe respetar los principios constitucionales.
 
-La selección del personal laboral debe respetar igualdad, mérito, capacidad y publicidad. No basta con reglas laborales privadas. Las Administraciones deben convocar procesos transparentes, con bases, requisitos, pruebas adecuadas y órganos de selección imparciales.
+El artículo 9.2 TREBEP reserva exclusivamente a los **funcionarios de carrera** las funciones que impliquen participación directa o indirecta en el ejercicio de potestades públicas o en la salvaguardia de los intereses generales del Estado y de las Administraciones Públicas. La etiqueta del puesto no decide: importa su contenido real.
 
-El personal laboral fijo accede mediante procesos incluidos en oferta de empleo público cuando proceda. El temporal solo puede nombrarse o contratarse por causas justificadas y con límites. La utilización abusiva de temporalidad genera responsabilidades y consecuencias jurídicas.
+| Puede desempeñarlo personal laboral, si la relación y la plaza lo permiten | Debe reservarse a funcionario de carrera |
+|---|---|
+| Mantenimiento, limpieza, apoyo técnico, actividades culturales o deportivas y atención material al público sin autoridad | Resolución con potestad pública, inspección o sanción, fe pública, autoridad, decisión ejecutiva o salvaguarda directa de intereses generales |
 
-| Tipo de personal laboral | Rasgo principal |
-| --- | --- |
-| Fijo | Ha superado un proceso selectivo para una plaza estructural laboral. |
-| Indefinido no fijo | Figura derivada normalmente de irregularidad o abuso; no equivale a fijo de plantilla. |
-| Temporal | Contratado por causa temporal legalmente justificada. |
+## 3. Selección del personal laboral
 
-El personal indefinido no fijo es una figura de origen jurisprudencial ligada a contratación irregular o abuso de temporalidad en el sector público. No equivale a personal laboral fijo, porque no ha accedido a una plaza fija mediante proceso selectivo ordinario respetuoso con igualdad, mérito y capacidad. Permanece hasta que la plaza se cubra reglamentariamente, se amortice conforme a Derecho o concurra causa legal de extinción.
+La selección es pública incluso cuando el vínculo posterior sea laboral. El artículo 55 TREBEP exige **igualdad, mérito, capacidad y publicidad**, junto con transparencia, imparcialidad y profesionalidad de los órganos de selección, independencia técnica, adecuación entre pruebas y funciones, agilidad y objetividad.
 
-| Figura | Acceso | Estabilidad |
-| --- | --- | --- |
-| Laboral fijo | Proceso selectivo para plaza fija. | Estabilidad propia de plaza laboral fija. |
-| Indefinido no fijo | Declaración por irregularidad o abuso. | Subsiste hasta cobertura regular, amortización o causa legal. |
-| Temporal | Causa temporal legal. | Limitada a la causa y duración permitida. |
+El artículo 11.3 TREBEP establece que los procedimientos selectivos del personal laboral son públicos y se rigen por igualdad, mérito y capacidad. Para el personal laboral temporal se añade el principio de **celeridad**, pero la urgencia no permite suprimir la publicidad ni transformar una bolsa en una adjudicación libre.
 
-El abuso de temporalidad no convierte automáticamente en fijo al empleado público si no se ha superado un proceso selectivo adecuado. Puede generar consecuencias indemnizatorias, estabilización por procesos legales específicos o declaración de indefinido no fijo según el caso, pero siempre condicionada por los principios constitucionales de acceso.
+### 3.1 Secuencia de una selección municipal
 
-La Administración no puede contratar como una empresa privada ordinaria. Incluso cuando aplica Derecho laboral, está vinculada por publicidad, igualdad, mérito y capacidad. Por eso las bolsas de empleo, convocatorias, baremos, tribunales y listas deben tener reglas claras y motivadas.
+1. Identificar la necesidad, la plaza y su naturaleza laboral, comprobando la plantilla, la relación de puestos y la disponibilidad presupuestaria.
+2. Incluir la plaza en la oferta de empleo público cuando proceda y respetar la planificación y los límites de temporalidad.
+3. Aprobar y publicar las bases: requisitos, sistema, pruebas o méritos, baremo, calendario, órgano de selección, presentación de solicitudes y recursos.
+4. Admitir y excluir aspirantes con publicidad y posibilidad de alegaciones.
+5. Celebrar las pruebas o valorar los méritos con criterios previamente fijados, actas y trazabilidad.
+6. Publicar la propuesta y formalizar el contrato con la persona que haya superado el procedimiento.
 
-| Contrato o regla laboral | Dato de examen |
-| --- | --- |
-| Contrato indefinido | Es la forma ordinaria de contratación laboral estable, sin perjuicio de los principios de acceso al empleo público. |
-| Contrato temporal | Exige causa legal y duración vinculada a esa causa. |
-| Contrato fijo-discontinuo | Atiende trabajos de naturaleza estacional o actividades intermitentes con periodos de ejecución ciertos o previsibles. |
-| Forma escrita | Es obligatoria en muchos contratos, especialmente temporales, formativos, a tiempo parcial o fijo-discontinuos. |
-| Periodo de prueba | Si el convenio no fija otra cosa, no puede exceder de <mark>seis meses</mark> para técnicos titulados ni de <mark>dos meses</mark> para los demás trabajadores. |
+Los sistemas pueden ser **oposición, concurso-oposición o concurso**, cuando este último esté permitido por una norma con rango suficiente. En ningún caso la entrevista informal, la confianza personal o una designación directa sustituyen al proceso selectivo.
 
-<mark>Clave de examen:</mark> el contrato laboral no permite saltarse los principios constitucionales de acceso al empleo público. La Administración no elige libremente a quien contratar para puestos públicos estructurales.
+En la contratación temporal deben justificarse necesidad y urgencia, determinarse la causa y duración y evitarse el encadenamiento fraudulento. Una bolsa puede agilizar llamamientos, pero debe nacer de reglas públicas y respetar el orden que resulte de ellas.
 
-## Diferencias con el personal funcionario
+## 4. Contrato de trabajo y modalidades
 
-| Aspecto | Funcionario | Laboral |
-| --- | --- | --- |
-| Vinculo | Nombramiento administrativo. | Contrato de trabajo. |
-| Norma básica | EBEP y normativa funcionarial. | <mark>Estatuto de los Trabajadores</mark>, EBEP en lo aplicable y convenio. |
-| Funciones reservadas | Puede ejercer potestades públicas y autoridad si el puesto lo exige. | No debe ocupar funciones reservadas a funcionarios. |
-| Conflictos | Jurisdicción contencioso-administrativa en muchas materias. | Jurisdicción social para materias laborales. |
-| Negociación | Mesas y acuerdos funcionariales. | Convenio colectivo y negociación laboral. |
+El artículo 1.1 ET define la relación laboral por cuatro notas: **voluntariedad, retribución, ajenidad y dependencia**. La Administración recibe la prestación y organiza el servicio; el trabajador no asume el riesgo empresarial del servicio público.
 
-Esta diferencia es importante para plantilla y RPT: no basta con llamar "laboral" a un puesto si su contenido incluye potestades públicas, informes decisorios de autoridad o funciones reservadas.
+El contrato puede celebrarse por escrito o de palabra, pero debe constar por escrito en los supuestos legalmente exigidos, entre ellos los contratos formativos, a tiempo parcial, fijos-discontinuos y los contratos de duración determinada en los casos previstos por el ET. Si se incumple la forma escrita exigida, operan las presunciones legales, sin perjuicio de que la Administración deba documentar siempre la contratación por razones de control y transparencia.
 
-## Derechos
+El período de prueba solo existe si se pacta por escrito. En defecto de convenio, no puede exceder de **seis meses para técnicos titulados** ni de **dos meses para los demás trabajadores**; en empresas de menos de 25 trabajadores, el límite de los no técnicos es de tres meses. Durante la prueba existen los derechos y obligaciones del puesto, aunque cualquiera de las partes puede resolver en los términos del artículo 14 ET.
 
-El personal laboral tiene derechos laborales: ocupación efectiva, promoción y formación, no discriminación, integridad física, seguridad y salud, respeto a intimidad y dignidad, retribución, jornada, descansos, vacaciones, permisos, conciliación y derechos de representación colectiva.
+Desde la reforma laboral, el contrato se presume indefinido. Las dos causas generales de duración determinada son:
 
-El salario debe respetar el salario mínimo interprofesional, la normativa presupuestaria y el convenio colectivo aplicable. En el sector público, los incrementos retributivos también quedan condicionados por las leyes de presupuestos.
+| Modalidad | Causa y trampa de test |
+|---|---|
+| Circunstancias de la producción | Incremento ocasional e imprevisible o situaciones ocasionales previsibles de duración reducida, con las duraciones máximas legales. Debe explicarse la causa concreta. |
+| Sustitución | Sustituir a una persona con derecho a reserva de puesto, completar jornada reducida en los casos legales o cubrir temporalmente un puesto durante el proceso de selección o promoción, con los límites del ET. |
+| Fijo-discontinuo | **No es temporal**: es indefinido para trabajos estacionales, de temporada o intermitentes. Alterna periodos de actividad e inactividad y exige llamamiento conforme a convenio. |
 
-También disfruta de derechos del EBEP aplicables a empleados públicos: formación, negociación, participación, prevención de riesgos, protección frente al acoso y respeto a principios de igualdad.
+La Administración no puede utilizar un contrato temporal para cubrir de forma indefinida una necesidad estructural. El abuso puede producir responsabilidades y consecuencias previstas por la legislación y la jurisprudencia, pero no convierte automáticamente al trabajador en funcionario ni en laboral fijo.
 
-En la práctica municipal, estos derechos se concretan en calendario laboral, permisos, vacaciones, licencias, ayudas sociales, formación, adaptaciones por salud, medidas de conciliación, prevención de riesgos y participación sindical. Deben gestionarse con igualdad de trato y trazabilidad documental, porque afectan a nómina, sustituciones, servicios mínimos y organización del trabajo.
+## 5. Derechos y condiciones de trabajo
 
-| Derecho | Gestión municipal asociada |
-| --- | --- |
-| Jornada y descansos | Calendario, turnos y control horario. |
-| Vacaciones y permisos | Resoluciones, sustituciones y organización del servicio. |
-| Retribución | Nomina, complementos y cotización. |
-| Formación | Planes de formación y autorizaciones. |
-| Salud laboral | Adaptaciones, reconocimientos y PRL. |
-| Representación colectiva | Comité de empresa, secciones sindicales y negociación. |
+El personal laboral disfruta de los derechos del ET y de los derechos de los empleados públicos que resulten compatibles con su relación laboral. Entre los derechos laborales del artículo 4 ET están el trabajo y la libre elección de profesión, la libre sindicación, la negociación colectiva, la adopción de medidas de conflicto colectivo, la huelga, la reunión, la información y consulta, la ocupación efectiva, la promoción y formación, la no discriminación, la integridad física, la intimidad y dignidad, la percepción puntual del salario y el ejercicio individual de acciones.
 
-## Deberes
+El artículo 14 TREBEP reconoce también, con las adaptaciones derivadas del contrato, derechos como formación continua, seguridad y salud, respeto a la intimidad, igualdad y no discriminación, conciliación, libertad sindical, negociación colectiva y huelga. Las retribuciones deben ajustarse al convenio, al contrato y a las leyes presupuestarias; el convenio no puede mejorar una condición vulnerando una norma imperativa ni las limitaciones presupuestarias aplicables.
 
-Debe cumplir obligaciones del contrato y del puesto, actuar con diligencia, obedecer instrucciones legitimas, respetar normas de seguridad, cumplir jornada, guardar confidencialidad, atender correctamente a la ciudadania y observar el código de conducta del EBEP.
+| Materia | Regla de estudio |
+|---|---|
+| Jornada y descansos | Se fijan por ET, convenio y contrato, respetando mínimos legales y la organización del servicio. |
+| Vacaciones | Son retribuidas y no se sustituyen por dinero salvo cuando la relación termina, conforme al artículo 38 ET. |
+| Representación | Delegados de personal o comité de empresa según el tamaño del centro y las reglas electorales. |
+| Negociación | El convenio colectivo regula condiciones laborales dentro de la ley y del presupuesto. |
+| Prevención | La Administración debe proteger eficazmente la seguridad y salud y el trabajador debe cooperar con las medidas preventivas. |
 
-El <mark>Estatuto de los Trabajadores</mark> resume deberes básicos como cumplir las obligaciones concretas del puesto conforme a buena fe y diligencia, observar medidas de prevención, cumplir órdenes e instrucciones empresariales en el ejercicio regular de dirección, no concurrir deslealmente, contribuir a la mejora de productividad y los pactados válidamente en el contrato.
+## 6. Deberes, código de conducta y disciplina
 
-El hecho de tener contrato laboral no elimina el deber de servicio al interés general. El personal laboral municipal participa en servicios públicos y debe actuar con profesionalidad, neutralidad e integridad.
+El artículo 5 ET recoge deberes como cumplir las obligaciones del puesto con buena fe y diligencia, observar las medidas preventivas, seguir las órdenes e instrucciones empresariales dictadas en el ejercicio regular de la dirección, no concurrir deslealmente, contribuir a la productividad y cumplir los deberes pactados.
 
-| Deber | Ejemplo práctico |
-| --- | --- |
-| Diligencia | Tramitar tareas dentro de plazo y con cuidado documental. |
-| Obediencia debida | Cumplir instrucciones legitimas del superior. |
-| Confidencialidad | No divulgar datos de expedientes, padrón, servicios sociales o personal. |
-| Neutralidad | No favorecer intereses particulares, políticos o empresariales. |
-| Atención correcta | Tratar a la ciudadania con respeto, claridad y ausencia de discriminación. |
-| Prevención | Usar medios de protección y comunicar riesgos. |
+Además, el personal laboral es empleado público y debe observar los principios éticos y de conducta de los artículos 52 a 54 TREBEP: objetividad, integridad, neutralidad, imparcialidad, confidencialidad, dedicación al servicio público, transparencia, respeto, diligencia, obediencia, atención a la ciudadanía y rechazo de regalos o favores que comprometan la imparcialidad. La obediencia no ampara cumplir una orden manifiestamente ilegal.
 
-## Incompatibilidades
+El régimen disciplinario combina ET, convenio colectivo y TREBEP en lo que resulte aplicable. La sanción exige competencia, tipificación, proporcionalidad, culpabilidad y procedimiento con audiencia y demás garantías. No debe confundirse el despido disciplinario laboral con la separación del servicio propia del funcionario: son figuras distintas, aunque ambas pueden poner fin a la relación.
 
-El personal laboral está sometido al régimen de incompatibilidades del personal al servicio de las Administraciones Públicas. Cómo regla general, no puede desempeñar un segundo puesto público salvo excepciones autorizadas, ni actividades privadas incompatibles con su puesto, horario, imparcialidad o dedicación.
+## 7. Incompatibilidades
 
-Las compatibilidades deben solicitarse y autorizarse antes de iniciar actividad. La finalidad es evitar conflictos de intereses, doble percepción indebida de retribuciones públicas y perjuicio al servicio.
+La <mark>Ley 53/1984</mark> se aplica al personal laboral al servicio de las Administraciones Públicas. Su finalidad es preservar la dedicación al servicio, la imparcialidad y la independencia, y prevenir la doble percepción pública y los conflictos de intereses. Por tanto, el contrato laboral no permite comportarse como si se trabajara para una empresa privada sin controles públicos.
 
-| Situación | Criterio |
-| --- | --- |
-| Segundo puesto público | Regla general de incompatibilidad, salvo excepciones legales autorizables. |
-| Actividad privada relacionada con el puesto | Riesgo alto de incompatibilidad por conflicto de intereses. |
-| Actividad privada fuera de horario | Puede requerir reconocimiento de compatibilidad si no perjudica al servicio. |
-| Actividades docentes o investigadoras | Pueden tener tratamientos específicos según condiciones legales. |
+Reglas esenciales:
 
-Lo decisivo es que la compatibilidad no se presume. Debe pedirse antes, valorando horario, dedicación, imparcialidad, posible colisión con funciones municipales y límites retributivos.
+- No se puede desempeñar un segundo puesto o actividad pública salvo los supuestos legalmente previstos y con la autorización que corresponda.
+- No se pueden realizar actividades privadas relacionadas directamente con las funciones públicas desempeñadas o que comprometan la imparcialidad.
+- La compatibilidad no se presume: debe solicitarse y reconocerse antes de comenzar la segunda actividad cuando la ley lo exija.
+- La autorización no elimina los límites de jornada, horario, dedicación, retribuciones ni conflicto de intereses.
+- Existen actividades exceptuadas o con régimen específico, como la administración del patrimonio personal o familiar y ciertas actividades de creación, publicación, docencia o participación en tribunales, siempre dentro de los requisitos legales.
 
-Puntos de control antes de autorizar compatibilidad:
+| Situación | Respuesta correcta en un supuesto |
+|---|---|
+| Segundo puesto público | Partir de la incompatibilidad y comprobar si existe excepción y autorización. |
+| Actividad privada vinculada al área que se tramita o inspecciona | Riesgo de incompatibilidad por conflicto de intereses; no basta con que sea fuera del horario. |
+| Actividad creativa o patrimonio personal | Puede estar exceptuada, pero hay que comprobar el artículo aplicable y que no interfiera. |
+| Actividad iniciada sin reconocimiento previo | No queda regularizada por solicitarla después; debe examinarse la responsabilidad correspondiente. |
 
-- horario de la segunda actividad;
-- relación con funciones municipales;
-- posible conflicto de intereses;
-- dedicación y rendimiento;
-- límites retributivos;
-- imparcialidad y apariencia de neutralidad;
-- autorización expresa previa.
+## 8. Caso práctico municipal
 
-## Régimen disciplinario
+El Ayuntamiento necesita cubrir temporalmente una plaza laboral de apoyo en actividades deportivas. La solución correcta exige: justificar la necesidad temporal, comprobar la causa y duración, disponer de crédito, utilizar una bolsa o procedimiento previamente publicado con igualdad, mérito, capacidad y publicidad, documentar el llamamiento y formalizar el contrato. Si la plaza realiza inspección o dicta decisiones con potestad pública, antes debe revisarse si está reservada a funcionario de carrera. Si la persona seleccionada comunica que mantiene una actividad privada de asesoramiento a empresas que contratan con el Ayuntamiento, debe tramitarse la incompatibilidad antes del inicio y valorar el conflicto de intereses.
 
-El personal laboral puede incurrir en responsabilidad disciplinaria conforme al EBEP, convenio colectivo y <mark>Estatuto de los Trabajadores</mark>. Las faltas pueden ser leves, graves o muy graves, y las sanciones incluyen apercibimiento, suspensión de empleo y sueldo, traslado o despido disciplinario.
+## 9. Errores típicos de test
 
-En el Ayuntamiento, la gestión del personal laboral exige expedientes de contratación, llamamientos, nóminas, permisos, control horario, prevención de riesgos, formación, incompatibilidades y disciplina.
+- Laboral no significa privado: sigue siendo empleado público.
+- El contrato laboral no convierte al trabajador en funcionario ni el indefinido no fijo en laboral fijo.
+- El artículo 9.2 TREBEP reserva las potestades públicas a funcionarios de carrera.
+- La celeridad de la selección temporal no elimina igualdad, mérito, capacidad y publicidad.
+- El fijo-discontinuo es indefinido, aunque tenga periodos sin actividad.
+- La incompatibilidad se rige también por la Ley 53/1984, no solo por el ET.
+- Una actividad fuera del horario puede ser incompatible por relación directa o conflicto de intereses.
+- El despido disciplinario laboral no es la separación del servicio funcionarial.
 
-La relación laboral debe constar en el expediente personal y, cuando proceda, anotarse en los registros de personal. En exámenes puede aparecer el Registro Central de Personal para anotar actos relevantes de personal al servicio del sector público estatal, sin confundirlo con la RPT ni con la nómina.
+## Esquema final
 
-| Materia | Documento o trámite habitual |
-| --- | --- |
-| Contratación | Bases, contrato, alta y expediente personal. |
-| Permisos | Solicitud, informe y resolución/autorización. |
-| Nomina | Incidencias, partes, complementos y cotización. |
-| Incompatibilidad | Solicitud, informe y resolución previa. |
-| Disciplina | Expediente con audiencia y garantías. |
+**Personal laboral** → contrato + ET + TREBEP + convenio.
 
-<mark>Resumen:</mark> el personal laboral no es "personal privado" dentro del Ayuntamiento. Tiene contrato laboral, pero trabaja en una organización pública y queda sometido a controles públicos.
+**Acceso** → igualdad + mérito + capacidad + publicidad; temporalidad → causa + necesidad/urgencia + celeridad.
+
+**Funciones** → potestades públicas y salvaguarda de intereses generales → funcionario de carrera.
+
+**Contrato** → voluntariedad + retribución + ajenidad + dependencia; indefinido / temporal por causa / fijo-discontinuo indefinido.
+
+**Derechos y deberes** → ET + derechos compatibles del TREBEP + convenio + código de conducta.
+
+**Incompatibilidades** → Ley 53/1984 + autorización previa cuando proceda + imparcialidad y ausencia de conflicto.

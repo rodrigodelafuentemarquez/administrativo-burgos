@@ -94,8 +94,8 @@
       "1 año"
     ],
     "correcta": 0,
-    "explicación": "El tema fija seis meses para técnicos titulados.",
-    "referencia": "III.3 · 2.4 Período de prueba"
+    "explicación": "En defecto de convenio, el artículo 14 ET fija un máximo de seis meses para técnicos titulados; el periodo debe pactarse por escrito.",
+    "referencia": "III.3 · 4. Contrato de trabajo y modalidades"
   },
   {
     "id": "t29-p008",
@@ -136,8 +136,8 @@
       "cargos representativos"
     ],
     "correcta": 0,
-    "explicación": "El tema lo vincula a trabajos estacionales o discontinuos.",
-    "referencia": "III.3 · 2.5.2 Contratos temporales"
+    "explicación": "El fijo-discontinuo es un contrato indefinido, aunque alterne periodos de actividad e inactividad; se utiliza para trabajos estacionales o intermitentes.",
+    "referencia": "III.3 · 4. Contrato de trabajo y modalidades"
   },
   {
     "id": "t29-p011",
@@ -312,5 +312,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-iii03-deep-01",
+    "tema": 24,
+    "pregunta": "Según el artículo 11.3 del TREBEP, la selección del personal laboral temporal debe respetar, además de igualdad, mérito y capacidad, el principio de:",
+    "opciones": [
+      "celeridad",
+      "libre designación",
+      "antigüedad automática",
+      "secreto de la convocatoria"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 11.3 añade la celeridad para el personal laboral temporal, pero no elimina la publicidad ni los restantes principios de acceso.",
+    "referencia": "TREBEP, artículo 11.3 · III.3 Selección"
+  },
+  {
+    "id": "burgos-iii03-deep-02",
+    "tema": 24,
+    "pregunta": "¿Qué funciones están reservadas exclusivamente a funcionarios de carrera por el artículo 9.2 del TREBEP?",
+    "opciones": [
+      "Las que impliquen participación directa o indirecta en potestades públicas o salvaguarda de intereses generales",
+      "Todas las tareas de atención al público",
+      "Todas las tareas de mantenimiento municipal",
+      "Cualquier actividad realizada mediante contrato"
+    ],
+    "correcta": 0,
+    "explicación": "La reserva depende del contenido material de la función, no del nombre del puesto ni de que el empleador sea local.",
+    "referencia": "TREBEP, artículo 9.2 · III.3 Funciones reservadas"
+  },
+  {
+    "id": "burgos-iii03-deep-03",
+    "tema": 24,
+    "pregunta": "El personal indefinido no fijo del sector público:",
+    "opciones": [
+      "no equivale a personal laboral fijo ni consolida automáticamente la plaza",
+      "es funcionario interino por definición",
+      "accede siempre por libre designación",
+      "puede ejercer potestades públicas por su antigüedad"
+    ],
+    "correcta": 0,
+    "explicación": "Es una figura vinculada normalmente a irregularidades en la contratación y no sustituye al proceso selectivo exigido para adquirir la condición de fijo.",
+    "referencia": "III.3 · 2. Concepto, clases y funciones reservadas"
+  },
+  {
+    "id": "burgos-iii03-deep-04",
+    "tema": 24,
+    "pregunta": "El contrato fijo-discontinuo es:",
+    "opciones": [
+      "indefinido, aunque tenga periodos de actividad e inactividad",
+      "siempre temporal y limitado a seis meses",
+      "un nombramiento funcionarial",
+      "un contrato que no requiere llamamiento"
+    ],
+    "correcta": 0,
+    "explicación": "El fijo-discontinuo atiende necesidades estacionales o intermitentes, pero mantiene naturaleza indefinida.",
+    "referencia": "ET, artículo 16 · III.3 Modalidades contractuales"
+  },
+  {
+    "id": "burgos-iii03-deep-05",
+    "tema": 24,
+    "pregunta": "Para que exista válidamente un periodo de prueba, como regla general, debe:",
+    "opciones": [
+      "pactarse por escrito y respetar el límite legal o convencional",
+      "imponerse verbalmente por el superior jerárquico",
+      "durar siempre un año",
+      "aplicarse solo al personal funcionario"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 14 ET exige pacto escrito; la duración puede concretarse por convenio dentro de los límites legales.",
+    "referencia": "ET, artículo 14 · III.3 Contrato de trabajo"
+  },
+  {
+    "id": "burgos-iii03-deep-06",
+    "tema": 24,
+    "pregunta": "Las causas generales de contrato de duración determinada previstas tras la reforma laboral son:",
+    "opciones": [
+      "circunstancias de la producción y sustitución",
+      "obra y servicio y comisión de servicios",
+      "libre designación y prácticas administrativas",
+      "fijo-discontinuo y funcionario interino"
+    ],
+    "correcta": 0,
+    "explicación": "El ET articula el contrato temporal alrededor de circunstancias de la producción y sustitución; el fijo-discontinuo es indefinido.",
+    "referencia": "ET, artículos 15 y 16 · III.3 Modalidades contractuales"
+  },
+  {
+    "id": "burgos-iii03-deep-07",
+    "tema": 24,
+    "pregunta": "¿Cuál de estas afirmaciones sobre los derechos del personal laboral público es correcta?",
+    "opciones": [
+      "Se aplican el ET y los derechos del TREBEP compatibles con la relación laboral",
+      "Solo se aplica el convenio, nunca una ley",
+      "No tiene derecho a negociación colectiva",
+      "No tiene derecho a seguridad y salud por trabajar para una Administración"
+    ],
+    "correcta": 0,
+    "explicación": "El régimen es mixto: ET, TREBEP en lo que proceda, convenio, contrato y normativa presupuestaria.",
+    "referencia": "TREBEP, artículo 7 · III.3 Derechos"
+  },
+  {
+    "id": "burgos-iii03-deep-08",
+    "tema": 24,
+    "pregunta": "El deber de cumplir las obligaciones del puesto con buena fe y diligencia aparece expresamente en:",
+    "opciones": [
+      "el artículo 5 del Estatuto de los Trabajadores",
+      "el artículo 9.2 del TREBEP",
+      "la Ley de Haciendas Locales",
+      "el régimen de bienes demaniales"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 5 ET enumera los deberes laborales básicos, que se completan con el código de conducta del TREBEP.",
+    "referencia": "ET, artículo 5 · III.3 Deberes"
+  },
+  {
+    "id": "burgos-iii03-deep-09",
+    "tema": 24,
+    "pregunta": "La Ley 53/1984 se aplica al personal laboral de las Administraciones Públicas porque:",
+    "opciones": [
+      "incluye expresamente al personal al servicio de las Administraciones, cualquiera que sea la naturaleza jurídica de su relación",
+      "solo regula a funcionarios de carrera",
+      "solo regula a miembros de las corporaciones locales electos",
+      "regula exclusivamente contratos privados sin relación pública"
+    ],
+    "correcta": 0,
+    "explicación": "El ámbito de la Ley 53/1984 alcanza al personal laboral público; el contrato laboral no excluye el régimen de incompatibilidades.",
+    "referencia": "Ley 53/1984, artículos 1 y 2 · III.3 Incompatibilidades"
+  },
+  {
+    "id": "burgos-iii03-deep-10",
+    "tema": 24,
+    "pregunta": "Una actividad privada realizada fuera del horario de trabajo por un empleado laboral municipal:",
+    "opciones": [
+      "puede ser incompatible si guarda relación directa con sus funciones o genera conflicto de intereses",
+      "es siempre compatible por hacerse fuera del horario",
+      "no debe comunicarse nunca",
+      "convierte automáticamente el contrato en fijo"
+    ],
+    "correcta": 0,
+    "explicación": "El horario no es el único criterio: también se valoran relación directa, imparcialidad, dedicación y conflicto de intereses.",
+    "referencia": "Ley 53/1984, artículos 11 y 12 · III.3 Incompatibilidades"
+  },
+  {
+    "id": "burgos-iii03-deep-11",
+    "tema": 24,
+    "pregunta": "En una convocatoria laboral temporal de un Ayuntamiento, la celeridad:",
+    "opciones": [
+      "permite agilizar el procedimiento, pero no eliminar la publicidad, igualdad, mérito y capacidad",
+      "permite contratar directamente a cualquier persona",
+      "sustituye siempre al órgano de selección",
+      "autoriza a cubrir potestades públicas con personal laboral"
+    ],
+    "correcta": 0,
+    "explicación": "La urgencia justifica una tramitación rápida y una causa temporal, no una selección arbitraria ni una excepción a las reservas funcionales.",
+    "referencia": "TREBEP, artículo 11.3 · III.3 Selección"
+  },
+  {
+    "id": "burgos-iii03-deep-12",
+    "tema": 24,
+    "pregunta": "¿Qué diferencia correctamente el despido disciplinario laboral de la separación del servicio funcionarial?",
+    "opciones": [
+      "son figuras distintas, sometidas a regímenes jurídicos diferentes según la relación de empleo",
+      "son exactamente la misma sanción con distinto nombre",
+      "el despido disciplinario solo puede imponerse a funcionarios",
+      "la separación del servicio se aplica a cualquier trabajador privado"
+    ],
+    "correcta": 0,
+    "explicación": "El personal laboral está sujeto al régimen laboral y el funcionario al régimen estatutario; no deben confundirse sus sanciones extintivas.",
+    "referencia": "TREBEP, artículos 95-96 y ET, artículo 54 · III.3 Disciplina"
   }
 ]
