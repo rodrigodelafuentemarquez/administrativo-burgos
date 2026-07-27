@@ -329,15 +329,15 @@
   {
     "id": "t17-p013",
     "tema": 13,
-    "pregunta": "En recursos administrativos, si un recurso llega al órgano incompetente para resolverlo:",
+    "pregunta": "Si el escrito de recurso se presenta ante un órgano que no es competente para resolverlo, pero pertenece a la misma Administración:",
     "opciones": [
       "se inadmite sin más",
-      "se remite al competente y el plazo se entiende cumplido",
+      "se remite al órgano competente y se conserva la fecha de entrada",
       "se archiva automáticamente",
       "se convierte en alzada"
     ],
     "correcta": 1,
-    "explicación": "El tema establece que se remite al órgano competente sin perder la fecha de presentación.",
+    "explicación": "El artículo 116.1 LPACAP permite remitirlo al órgano competente cuando pertenece a la misma Administración, y se conserva la fecha de entrada a efectos del plazo.",
     "referencia": "II.4 · 5.1 Interposición"
   },
   {
@@ -539,15 +539,15 @@
   {
     "id": "t19-p010",
     "tema": 13,
-    "pregunta": "¿Qué es necesario para que la Administración pueda actuar sin cobertura jurídica?",
+    "pregunta": "La actuación material de la Administración sin cobertura jurídica suficiente o excediendo la cobertura existente constituye:",
     "opciones": [
-      "Qué exista silencio positivo",
-      "Nada, porque eso sería vía de hecho",
-      "Qué lo autorice el Congreso",
-      "Qué se trate de un contrato privado"
+      "Una vía de hecho",
+      "Un acto presunto estimatorio",
+      "Una disposición general",
+      "Una cuestión civil en todo caso"
     ],
-    "correcta": 1,
-    "explicación": "El tema define la vía de hecho como actuación sin cobertura jurídica o excediéndola.",
+    "correcta": 0,
+    "explicación": "La LJCA considera vía de hecho la actuación material de la Administración sin cobertura jurídica suficiente o excediendo la que existe.",
     "referencia": "II.4 · 2.1 Lo que conoce la JCA"
   },
   {
@@ -712,5 +712,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii04-deep-01",
+    "tema": 13,
+    "pregunta": "La revisión de oficio de un acto nulo exige, con carácter general:",
+    "opciones": [
+      "Dictamen preceptivo y favorable del Consejo de Estado u órgano consultivo equivalente",
+      "Autorización previa del Tribunal Supremo",
+      "Declaración de lesividad y posterior recurso de alzada",
+      "Informe vinculante del Defensor del Pueblo"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 106 LPACAP exige dictamen favorable del órgano consultivo para declarar la nulidad de pleno derecho.",
+    "referencia": "II.4 · revisión de oficio · art. 106 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-02",
+    "tema": 13,
+    "pregunta": "El plazo máximo para resolver el procedimiento de revisión de oficio iniciado de oficio es de:",
+    "opciones": [
+      "Un mes",
+      "Tres meses",
+      "Seis meses",
+      "Cuatro años"
+    ],
+    "correcta": 2,
+    "explicación": "Si transcurren seis meses sin resolución en un procedimiento iniciado de oficio, se produce la caducidad.",
+    "referencia": "II.4 · 3.3 Tramitación y efectos · art. 106 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-03",
+    "tema": 13,
+    "pregunta": "La declaración de lesividad de un acto favorable anulable debe adoptarse dentro de:",
+    "opciones": [
+      "Un año desde la notificación",
+      "Dos años desde la publicación",
+      "Cuatro años desde que se notificó el acto",
+      "Seis meses desde la resolución judicial"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 107 LPACAP fija cuatro años desde que se notificó el acto para declarar su lesividad.",
+    "referencia": "II.4 · 4. Lesividad · art. 107 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-04",
+    "tema": 13,
+    "pregunta": "En el procedimiento de lesividad, si transcurren seis meses desde su iniciación sin declarar la lesividad:",
+    "opciones": [
+      "Se produce la caducidad",
+      "Se entiende estimada la lesividad",
+      "El acto se convierte en nulo automáticamente",
+      "Comienza un nuevo plazo de cuatro años"
+    ],
+    "correcta": 0,
+    "explicación": "La falta de declaración de lesividad en seis meses determina la caducidad del procedimiento.",
+    "referencia": "II.4 · 4. Lesividad · art. 107 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-05",
+    "tema": 13,
+    "pregunta": "¿Cuál es una causa propia del recurso extraordinario de revisión?",
+    "opciones": [
+      "Cualquier desacuerdo con la interpretación jurídica del acto",
+      "Error de hecho que resulte de los propios documentos incorporados al expediente",
+      "Que el acto sea simplemente desfavorable",
+      "Que haya transcurrido el plazo del recurso de alzada"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 125.1.a LPACAP contempla el error de hecho acreditado por los documentos del propio expediente.",
+    "referencia": "II.4 · 8. Recurso extraordinario de revisión · art. 125 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-06",
+    "tema": 13,
+    "pregunta": "El recurso extraordinario de revisión contra un acto firme debe resolverse en el plazo de:",
+    "opciones": [
+      "Un mes",
+      "Tres meses",
+      "Seis meses",
+      "Un año"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 126 LPACAP establece tres meses; transcurridos sin resolución, el recurso se entiende desestimado.",
+    "referencia": "II.4 · 8. Recurso extraordinario de revisión · art. 126 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-07",
+    "tema": 13,
+    "pregunta": "La rectificación del artículo 109.2 LPACAP permite:",
+    "opciones": [
+      "Reconsiderar libremente la interpretación jurídica aplicada",
+      "Corregir en cualquier momento errores materiales, de hecho o aritméticos",
+      "Revocar cualquier acto favorable sin límite",
+      "Sustituir el recurso de reposición"
+    ],
+    "correcta": 1,
+    "explicación": "La rectificación es una corrección puntual de errores manifiestos y no permite modificar el fondo jurídico del acto.",
+    "referencia": "II.4 · 5.2 Rectificación · art. 109 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-08",
+    "tema": 13,
+    "pregunta": "La jurisdicción contencioso-administrativa conoce, entre otras materias, de:",
+    "opciones": [
+      "La actuación administrativa sujeta al Derecho Administrativo y de las disposiciones generales inferiores a la ley",
+      "Todos los delitos cometidos por empleados públicos",
+      "Las relaciones privadas entre particulares sin actuación administrativa",
+      "La reforma de la Constitución"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 1 LJCA delimita el orden contencioso por la actuación administrativa sujeta al Derecho Administrativo y las disposiciones generales inferiores a la ley.",
+    "referencia": "II.4 · 9. Jurisdicción contencioso-administrativa · art. 1 LJCA"
+  },
+  {
+    "id": "burgos-ii04-deep-09",
+    "tema": 13,
+    "pregunta": "La impugnación directa de una disposición general ante el orden contencioso-administrativo debe interponerse, con carácter general, en:",
+    "opciones": [
+      "Diez días desde su publicación",
+      "Un mes desde su publicación",
+      "Dos meses desde el día siguiente a su publicación",
+      "Seis meses desde su entrada en vigor"
+    ],
+    "correcta": 2,
+    "explicación": "El artículo 46 LJCA fija dos meses para impugnar directamente una disposición general, contados desde el día siguiente a su publicación.",
+    "referencia": "II.4 · 9.3 Plazos básicos · art. 46 LJCA"
+  },
+  {
+    "id": "burgos-ii04-deep-10",
+    "tema": 13,
+    "pregunta": "La declaración de lesividad de un acto favorable anulable:",
+    "opciones": [
+      "Anula por sí sola el acto desde que se declara",
+      "Permite a la Administración impugnarlo después ante la jurisdicción contencioso-administrativa",
+      "Solo procede frente a actos nulos de pleno derecho",
+      "La realiza siempre el órgano consultivo"
+    ],
+    "correcta": 1,
+    "explicación": "La lesividad prepara la impugnación judicial; no sustituye a la sentencia que decidirá sobre la validez del acto.",
+    "referencia": "II.4 · 4. Lesividad · art. 107 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-11",
+    "tema": 13,
+    "pregunta": "Si se solicita la suspensión de la ejecución de un acto recurrido y transcurre un mes sin resolución expresa:",
+    "opciones": [
+      "La suspensión se entiende concedida",
+      "La suspensión se entiende denegada",
+      "El recurso se convierte en extraordinario",
+      "El acto queda anulado"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 117.3 LPACAP establece la suspensión cautelar por silencio positivo al transcurrir un mes desde la solicitud sin resolución expresa.",
+    "referencia": "II.4 · 6. Reglas comunes · art. 117 LPACAP"
+  },
+  {
+    "id": "burgos-ii04-deep-12",
+    "tema": 13,
+    "pregunta": "La vía de hecho consiste en:",
+    "opciones": [
+      "Una actuación material de la Administración sin cobertura jurídica suficiente o excediendo la existente",
+      "Una resolución presunta estimatoria",
+      "Una disposición general aprobada por el Pleno",
+      "Un recurso administrativo contra un acto firme"
+    ],
+    "correcta": 0,
+    "explicación": "La LJCA permite controlar la actuación material administrativa carente de cobertura jurídica o que se excede de ella.",
+    "referencia": "II.4 · 9.1 Actuaciones impugnables · art. 30 LJCA"
   }
 ]
