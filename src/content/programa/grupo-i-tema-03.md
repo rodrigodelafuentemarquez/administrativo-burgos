@@ -10,7 +10,7 @@ estado: "revisado"
 
 Este tema se estudia principalmente sobre la <mark>Constitución Española</mark>, especialmente el título VIII, texto consolidado del <mark>BOE</mark>: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229.
 
-También debe ponerse en relación con los Estatutos de Autonomía, que son leyes orgánicas y constituyen la norma institucional básica de cada comunidad autónoma. Para Castilla y León, el texto vigente deriva de la <mark>Ley Orgánica 4/1983</mark> y de sus reformas, especialmente la <mark>Ley Orgánica 14/2007</mark>: https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635.
+También debe ponerse en relación con los Estatutos de Autonomía, que son leyes orgánicas y constituyen la norma institucional básica de cada comunidad autónoma. Para Castilla y León, el texto vigente deriva de la <mark>Ley Orgánica 4/1983</mark> y de sus reformas, especialmente la <mark>Ley Orgánica 14/2007</mark>: https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635. La Constitución consultada es el texto consolidado del BOE con última actualización publicada el <mark>20 de mayo de 2026</mark>.
 
 ## La organización territorial del Estado
 
@@ -66,7 +66,7 @@ Las comunidades autónomas tienen instituciones propias, competencias propias y 
 
 | Concepto | Qué significa | Qué no significa |
 |---|---|---|
-| Autonomía local | Gestión de intereses propios por municipios y provincias. | Soberania ni potestad legislativa general. |
+| Autonomía local | Gestión de intereses propios por municipios y provincias. | Soberanía ni potestad legislativa general. |
 | Autonomía política | Autogobierno de comunidades autónomas con instituciones y competencias. | Independencia del Estado. |
 | <mark>Estatuto de Autonomía</mark> | Norma institucional básica de la comunidad autónoma. | Norma superior a la Constitución. |
 | Potestad legislativa autonómica | Leyes en materias asumidas estatutariamente. | Competencia fuera del marco constitucional. |
@@ -105,11 +105,13 @@ Además, el <mark>artículo 144</mark> permite a las Cortes Generales, mediante 
 
 ## Estatutos de Autonomía
 
-El <mark>Estatuto de Autonomía</mark> es la norma institucional básica de cada comunidad autónoma. El Estado lo reconoce y ampara como parte integrante de su ordenamiento jurídico. Se aprueba por ley orgánica, lo que exige intervención de las Cortes Generales y <mark>mayoría absoluta</mark> del Congreso en votación final sobre el conjunto.
+El <mark>Estatuto de Autonomía</mark> es la norma institucional básica de cada comunidad autónoma. El Estado lo reconoce y ampara como parte integrante de su ordenamiento jurídico. Se aprueba y reforma mediante <mark>ley orgánica</mark>, pero no debe generalizarse a todos los Estatutos la regla de la mayoría absoluta del Congreso: esa votación final sobre el conjunto aparece en el procedimiento especial del <mark>artículo 151</mark>. En los restantes casos se sigue el procedimiento constitucional y estatutario que corresponda.
 
 El contenido mínimo del Estatuto se recoge en el <mark>artículo 147</mark>. Debe incluir la denominación de la comunidad que mejor corresponda a su identidad histórica, la delimitación de su territorio, la denominación, organización y sede de las instituciones autónomas propias, y las competencias asumidas dentro del marco constitucional, así como las bases para el traspaso de los servicios correspondientes.
 
-El Estatuto cumple varias funciones. En primer lugar, identifica la comunidad autónoma y su territorio. En segundo lugar, organiza sus instituciones básicas. En tercer lugar, fija sus competencias. En cuarto lugar, opera como parametro de constitucionalidad: las leyes autonómicas deben respetar tanto la Constitución como el Estatuto.
+El proyecto de Estatuto se elabora según el procedimiento constitucional aplicable: en la vía ordinaria, la iniciativa prevista en el <mark>artículo 146</mark> corresponde a una asamblea integrada por los miembros de las Diputaciones u órganos interinsulares y por los diputados y senadores elegidos en las provincias afectadas. El proyecto se eleva a las Cortes Generales para su tramitación como ley orgánica. En la vía del artículo 151 se añade el procedimiento reforzado descrito en el propio precepto, con intervención de una comisión constitucional, votación de las Cámaras y referéndum.
+
+El Estatuto cumple varias funciones. En primer lugar, identifica la comunidad autónoma y su territorio. En segundo lugar, organiza sus instituciones básicas. En tercer lugar, fija sus competencias. En cuarto lugar, opera como parámetro de constitucionalidad: las leyes autonómicas deben respetar tanto la Constitución como el Estatuto.
 
 La reforma de los Estatutos debe ajustarse al procedimiento establecido en ellos y requiere aprobación por ley orgánica. En los Estatutos aprobados por la vía del <mark>artículo 151</mark> existían, además, previsiones específicas de referéndum para determinadas reformas.
 
@@ -120,6 +122,17 @@ La reforma de los Estatutos debe ajustarse al procedimiento establecido en ellos
 | Instituciones propias | Denominación, organización y sede. |
 | Competencias asumidas | Dentro del marco constitucional. |
 | Bases de traspaso | Servicios correspondientes a las competencias asumidas. |
+
+### Aprobación y reforma: mapa de procedimiento
+
+| Momento | Regla que debe retenerse |
+|---|---|
+| Elaboración del proyecto | En la vía ordinaria interviene la asamblea del artículo 146; en la vía especial se aplica el procedimiento reforzado del artículo 151. |
+| Aprobación estatal | El Estatuto se aprueba como ley orgánica por las Cortes Generales. |
+| Referéndum | Es un elemento de la vía especial del artículo 151 y de las reformas estatutarias cuando la Constitución y el propio Estatuto lo exigen; no es un requisito universal de cualquier Estatuto. |
+| Reforma | Debe respetar el procedimiento previsto en cada Estatuto y requiere aprobación mediante ley orgánica. |
+
+**Error típico:** confundir la aprobación por ley orgánica con una mayoría absoluta universal del Congreso en todos los Estatutos. La mayoría absoluta en votación final sobre el conjunto es una regla expresa del procedimiento del artículo 151.
 
 ## Instituciones de las comunidades autónomas
 
@@ -140,7 +153,9 @@ También se contempla un Tribunal Superior de Justicia, que culmina la organizac
 
 La distribución de competencias entre el Estado y las comunidades autónomas se articula principalmente a través de los <mark>artículos 148 y 149</mark>.
 
-El <mark>artículo 148</mark> enumera materias que las comunidades autónomas podian asumir en sus Estatutos. Entre ellas figuran organización de sus instituciones de autogobierno, alteraciones de términos municipales, ordenación del territorio, urbanismo y vivienda, obras públicas de interés de la comunidad, ferrocarriles y carreteras cuyo itinerario se desarrolle integramente en el territorio autononomico, agricultura y ganaderia, montes, gestión ambiental, patrimonio monumental, cultura, turismo, deporte, asistencia social, sanidad e higiene, entre otras.
+El <mark>artículo 148</mark> enumera materias que las comunidades autónomas podían asumir en sus Estatutos. Entre ellas figuran organización de sus instituciones de autogobierno, alteraciones de términos municipales, ordenación del territorio, urbanismo y vivienda, obras públicas de interés de la comunidad, ferrocarriles y carreteras cuyo itinerario se desarrolle íntegramente en el territorio autonómico, agricultura y ganadería, montes, gestión ambiental, patrimonio monumental, cultura, turismo, deporte, asistencia social, sanidad e higiene, entre otras.
+
+La referencia temporal del <mark>artículo 148.2</mark> es una trampa clásica: transcurridos <mark>cinco años</mark>, y mediante la reforma de sus Estatutos, las comunidades podían ampliar sucesivamente sus competencias dentro del marco del artículo 149. La Constitución contempla una excepción cuando la iniciativa autonómica se acuerda dentro del plazo del artículo 143.2 con la iniciativa reforzada y el referéndum previstos en el artículo 151.1.
 
 El <mark>artículo 149</mark> reserva al Estado competencias exclusivas. Incluye materias como regulación de las condiciones básicas que garanticen la igualdad de todos los españoles en el ejercicio de derechos y deberes constitucionales, nacionalidad, inmigración, relaciones internacionales, defensa, Administración de Justicia, legislación mercantil, penal y penitenciaria, legislación laboral, legislación civil en los términos constitucionales, hacienda general, deuda del Estado, bases y coordinación de la planificación general de la actividad económica, seguridad pública, legislación básica sobre protección del medio ambiente, bases del régimen jurídico de las Administraciones Públicas y procedimiento administrativo común, legislación básica sobre contratos y concesiones administrativas, y sistema de responsabilidad de todas las Administraciones Públicas.
 
@@ -196,7 +211,7 @@ El <mark>artículo 150.3</mark> permite al Estado dictar leyes que establezcan l
 
 El <mark>artículo 149.3</mark> contiene reglas esenciales para resolver lagunas y conflictos. Las materias no atribuidas expresamente al Estado por la Constitución pueden corresponder a las comunidades autónomas si las asumen en sus Estatutos. Las competencias no asumidas por los Estatutos corresponden al Estado.
 
-Las normas del Estado prevalecen, en caso de conflicto, sobre las de las comunidades autónomas en todo lo que no este atribuido a la exclusiva competencia de estas. El Derecho estatal es, en todo caso, supletorio del Derecho de las comunidades autónomas.
+Las normas del Estado prevalecen, en caso de conflicto, sobre las de las comunidades autónomas en todo lo que no esté atribuido a la exclusiva competencia de estas. El Derecho estatal es, en todo caso, supletorio del Derecho de las comunidades autónomas.
 
 Esta clausula debe entenderse junto con la jurisprudencia constitucional. La prevalencia no autoriza al Estado a invadir competencias autonómicas, y la supletoriedad no permite dictar normas estatales con la única finalidad de suplir el Derecho autonómico cuando el Estado carece de título competencial propio.
 
@@ -232,6 +247,8 @@ El <mark>artículo 157</mark> enumera recursos de las comunidades autónomas: im
 
 El Fondo de Compensación Interterritorial se vincula al principio de solidaridad y a la corrección de desequilibrios económicos interterritoriales.
 
+El <mark>artículo 157.2</mark> establece límites para preservar la unidad económica: las comunidades autónomas no pueden adoptar medidas tributarias sobre bienes situados fuera de su territorio ni que supongan un obstáculo para la libre circulación de personas o bienes. El <mark>artículo 158</mark> añade dos garantías: asignaciones con cargo a los Presupuestos Generales del Estado para asegurar un nivel mínimo en la prestación de los servicios públicos fundamentales en todo el territorio y un Fondo de Compensación destinado a gastos de inversión, cuyos recursos se distribuyen por las Cortes Generales.
+
 | Recurso autonómico | <mark>Artículo 157</mark> |
 |---|---|
 | Impuestos cedidos total o parcialmente por el Estado | Financiación mediante cesión tributaria. |
@@ -244,9 +261,9 @@ El Fondo de Compensación Interterritorial se vincula al principio de solidarida
 
 ## Castilla y León en el Estado autonómico
 
-Castilla y León se constituye como comunidad autónoma en el marco de la Constitución y de su <mark>Estatuto de Autonomía</mark>. Su Estatuto es su norma institucional básica y forma parte del ordenamiento jurídico estatal. La reforma estatutaria de 2007 reforzo su contenido institucional, amplio el tratamiento de derechos y principios rectores y sistematizo competencias.
+Castilla y León se constituye como comunidad autónoma en el marco de la Constitución y de su <mark>Estatuto de Autonomía</mark>. Su Estatuto es su norma institucional básica y forma parte del ordenamiento jurídico estatal. La reforma estatutaria de 2007 reforzó su contenido institucional, amplió el tratamiento de derechos y principios rectores y sistematizó competencias.
 
-Para este tema no se exige desarrollar todo el Estatuto de Castilla y León, porque aparece como tema específico en el Tema I.9. Sin embargo, si debe comprenderse que Castilla y León participa del mismo modelo constitucional: autonomía política, instituciones propias, competencias estatutarias, financiación autónoma y sometimiento a la Constitución, al Estatuto y al control del Tribunal Constitucional.
+Para este tema no se exige desarrollar todo el Estatuto de Castilla y León, porque aparece como tema específico en el Tema I.9. Sin embargo, sí debe comprenderse que Castilla y León participa del mismo modelo constitucional: autonomía política, instituciones propias, competencias estatutarias, financiación autónoma y sometimiento a la Constitución, al Estatuto y al control del Tribunal Constitucional.
 
 ## Errores típicos de test
 
@@ -254,6 +271,9 @@ Para este tema no se exige desarrollar todo el Estatuto de Castilla y León, por
 - Alterar los límites de una provincia exige **ley orgánica** (artículo 141.1), no ley ordinaria.
 - El Estatuto de Autonomía es la norma institucional básica, pero está subordinado a la Constitución y se aprueba y reforma mediante ley orgánica.
 - El artículo 148 enumera materias que las comunidades **pueden asumir**; el artículo 149.1 recoge competencias estatales. No son dos listas equivalentes de competencias automáticamente ejercidas.
+- El artículo 148.2 incorpora la referencia de los **cinco años** para ampliar competencias; no debe confundirse con los seis meses del artículo 143.2.
+- El artículo 153 distribuye controles distintos: Tribunal Constitucional, Gobierno/Consejo de Estado, jurisdicción contencioso-administrativa y Tribunal de Cuentas.
+- El artículo 157.2 limita la potestad tributaria autonómica para no obstaculizar la libre circulación; el artículo 158.1 trata el nivel mínimo de servicios y el 158.2 el Fondo de Compensación para inversiones.
 - La ley marco del artículo 150.1 no transfiere la titularidad de la materia: atribuye la facultad de dictar normas legislativas dentro de un marco estatal.
 - La transferencia o delegación del artículo 150.2 exige ley orgánica y debe acompañarse de medios financieros y controles estatales.
 - Para el artículo 155 se requiere requerimiento previo al Presidente autonómico y, si no se atiende, aprobación del Senado por mayoría absoluta; no basta un acuerdo del Congreso.

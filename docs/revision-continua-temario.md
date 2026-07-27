@@ -34,6 +34,18 @@
 - **Commit realizado:** `bd1812e` (`mejora tema I.3 organización territorial`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.3, organización territorial del Estado, comunidades autónomas, estatutos y competencias.
 
+## 27 de julio de 2026, 10:06 (Europe/Madrid)
+
+- **Tema revisado:** I.3, organización territorial del Estado, comunidades autónomas, Estatutos y distribución de competencias. **Estado real: revisión profunda completada; queda cerrado salvo actualización normativa posterior.**
+- **Diagnóstico inicial:** el tema ya era extenso, pero la revisión anterior había simplificado en exceso la aprobación y reforma de los Estatutos, no explicaba suficientemente el artículo 146 ni los límites temporales del artículo 148.2, y dejaba incompletos los artículos 153, 157.2 y 158. Además, una pregunta existente mezclaba el artículo 139 con el derecho de asilo y no ofrecía una respuesta plenamente correcta. Se revisaron las marcas manuales: están correctamente cerradas y se mantienen limitadas a normas, artículos, plazos y conceptos nucleares; no se modificó el motor común.
+- **Archivos leídos relevantes:** `README.md`, `docs/mapeo-temario-burgos.md`, `docs/revision-continua-temario.md`, `src/content/programa/grupo-i-tema-03.md`, `src/content/temas/tema-07.md`, `data/tests/index.json`, `data/tests/tema-03.json` y `src/utils/rehypeStudyHighlights.mjs`. Se contrastaron los artículos 137-158 y 161 de la Constitución con el texto consolidado oficial del BOE, cuya última actualización publicada figura el 20/05/2026, y el Estatuto de Castilla y León con la referencia oficial de la Ley Orgánica 4/1983 y su reforma por Ley Orgánica 14/2007.
+- **Archivos tocados:** `src/content/programa/grupo-i-tema-03.md`, `data/tests/tema-03.json`, `public/data/tests/tema-03.json` y este registro.
+- **Mejoras realizadas:** se corrige la afirmación demasiado general sobre la mayoría absoluta del Congreso al aprobar Estatutos; se incorpora el artículo 146 y un mapa didáctico de aprobación, referéndum y reforma; se explican el plazo de cinco años y la excepción del artículo 148.2; se amplían los controles del artículo 153 y los límites tributarios del 157.2; se añaden las garantías de servicios fundamentales y del Fondo de Compensación de los artículos 158.1 y 158.2; se corrigen erratas y se refuerzan los errores típicos de test.
+- **Tests añadidos/cambiados:** se corrige `t07-p002` para que el artículo 139 tenga una única respuesta correcta y se mejora su explicación; se corrige una errata de redacción en `t07-p004`; se añaden 6 preguntas (`burgos-i03-deep-09` a `burgos-i03-deep-14`) sobre artículo 146, artículo 148.2, controles del artículo 153, límites del 157.2 y artículos 158.1-158.2. El banco queda en 41 preguntas y se sincroniza la copia pública.
+- **Verificación ejecutada:** `npm run prepare:data`, comprobación de igualdad entre JSON editable y público, validación de 41 preguntas con Node, `git diff --check` y `npm run build` completados correctamente (101 páginas).
+- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Siguiente tema sugerido:** I.4, Gobierno y Administración del Estado; delimitarlo frente a I.2 y evitar duplicidades con el régimen jurídico de las Administraciones Públicas.
+
 ## 27 de julio de 2026, 10:02 (Europe/Madrid)
 
 - **Tema revisado:** I.3, Constitución Española (III): organización territorial del Estado, comunidades autónomas, Estatutos y distribución de competencias. **Estado real: revisión profunda completada; queda cerrado salvo actualización normativa posterior.**

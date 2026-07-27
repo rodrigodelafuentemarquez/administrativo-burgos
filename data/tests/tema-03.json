@@ -52,13 +52,13 @@
     "tema": 3,
     "pregunta": "En relación con la igualdad de los españoles en todo el territorio, ¿qué establece el art. 139 CE?",
     "opciones": [
-      "La descentralización legislativa total",
-      "La igualdad de los españoles en todo el territorio y el derecho de asilo",
+      "La igualdad de derechos y obligaciones en cualquier parte del territorio del Estado, junto con la libertad de circulación y establecimiento",
+      "La igualdad territorial y el derecho de asilo",
       "La solidaridad exclusiva entre municipios",
       "La prevalencia del derecho autonómico en todo caso"
     ],
-    "correcta": 1,
-    "explicación": "El tema identifica el art. 139 CE como la garantía de igualdad de los españoles en todo el territorio.",
+    "correcta": 0,
+    "explicación": "El artículo 139 CE proclama la igualdad de derechos y obligaciones en cualquier parte del territorio y prohíbe obstáculos a la libertad de circulación y establecimiento; el asilo pertenece a otra materia constitucional.",
     "referencia": "I.3 · 1.4 Igualdad de los españoles en todo el territorio (art. 139 CE)"
   },
   {
@@ -80,7 +80,7 @@
     "tema": 3,
     "pregunta": "En la distribución de competencias Estado-Comunidades Autónomas, ¿qué se entiende por cláusula de prevalencia?",
     "opciones": [
-      "Qué el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
+      "Que el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
       "Qué el Derecho autonómico prevalece siempre sobre el estatal",
       "Qué el Derecho europeo suple a todos los demás",
       "Qué las ordenanzas locales prevalecen sobre la ley"
@@ -463,5 +463,89 @@
     "correcta": 0,
     "explicación": "El Gobierno puede adoptar las medidas del artículo 155 solo después del requerimiento y de obtener la aprobación del Senado por mayoría absoluta.",
     "referencia": "Tema I.3, control de las comunidades autónomas · artículo 155 CE"
+  },
+  {
+    "id": "burgos-i03-deep-09",
+    "tema": 3,
+    "pregunta": "En la vía ordinaria de acceso a la autonomía, ¿quién integra la asamblea que elabora el proyecto de Estatuto conforme al artículo 146 CE?",
+    "opciones": [
+      "Los miembros de las Diputaciones u órganos interinsulares y los diputados y senadores elegidos en las provincias afectadas",
+      "Solo los alcaldes de los municipios promotores",
+      "El Gobierno y el Senado reunidos en comisión mixta",
+      "Los miembros del Tribunal Constitucional y del Consejo de Estado"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 146 CE atribuye la elaboración del proyecto a una asamblea integrada por representantes de las Diputaciones u órganos interinsulares y por diputados y senadores elegidos en las provincias afectadas.",
+    "referencia": "Tema I.3, elaboración del Estatuto · artículo 146 CE"
+  },
+  {
+    "id": "burgos-i03-deep-10",
+    "tema": 3,
+    "pregunta": "¿Cuál es la regla constitucional general sobre la ampliación sucesiva de competencias autonómicas del artículo 148.2 CE?",
+    "opciones": [
+      "Puede producirse después de cinco años mediante reforma de los Estatutos, dentro del marco del artículo 149",
+      "Se produce automáticamente al cumplirse seis meses desde la iniciativa autonómica",
+      "Exige siempre ley de armonización del artículo 150.3",
+      "Solo puede aprobarla el Tribunal Constitucional"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 148.2 CE vincula la ampliación sucesiva de competencias al transcurso de cinco años y a la reforma estatutaria, dentro del marco del artículo 149.",
+    "referencia": "Tema I.3, distribución competencial · artículo 148.2 CE"
+  },
+  {
+    "id": "burgos-i03-deep-11",
+    "tema": 3,
+    "pregunta": "¿Qué control corresponde al Gobierno, previo dictamen del Consejo de Estado, según el artículo 153.b) CE?",
+    "opciones": [
+      "El control del ejercicio de funciones delegadas a las comunidades autónomas",
+      "El control de constitucionalidad de las leyes autonómicas",
+      "El control de toda la actividad administrativa autonómica",
+      "El control exclusivo de la actividad económica y presupuestaria"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 153.b) CE reserva al Gobierno, previo dictamen del Consejo de Estado, el control del ejercicio de funciones delegadas a que se refiere el artículo 150.2.",
+    "referencia": "Tema I.3, controles sobre las comunidades autónomas · artículo 153.b) CE"
+  },
+  {
+    "id": "burgos-i03-deep-12",
+    "tema": 3,
+    "pregunta": "¿Qué límite establece el artículo 157.2 CE a las comunidades autónomas en materia tributaria?",
+    "opciones": [
+      "No pueden adoptar medidas tributarias sobre bienes situados fuera de su territorio ni obstaculizar la libre circulación de personas o bienes",
+      "No pueden establecer ningún tributo propio",
+      "Solo pueden recaudar impuestos cedidos por el Estado",
+      "Pueden gravar bienes de cualquier territorio si lo aprueba su Parlamento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 157.2 CE impide medidas tributarias extraterritoriales y cualquier obstáculo a la libre circulación de personas o bienes.",
+    "referencia": "Tema I.3, financiación autonómica · artículo 157.2 CE"
+  },
+  {
+    "id": "burgos-i03-deep-13",
+    "tema": 3,
+    "pregunta": "¿Qué finalidad tiene la asignación prevista en el artículo 158.1 CE?",
+    "opciones": [
+      "Asegurar un nivel mínimo en la prestación de los servicios públicos fundamentales en todo el territorio español",
+      "Financiar exclusivamente las inversiones de las provincias",
+      "Sustituir todos los tributos propios autonómicos",
+      "Controlar la constitucionalidad de las leyes autonómicas"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 158.1 CE prevé asignaciones a las comunidades autónomas para garantizar un nivel mínimo de los servicios públicos fundamentales.",
+    "referencia": "Tema I.3, solidaridad territorial · artículo 158.1 CE"
+  },
+  {
+    "id": "burgos-i03-deep-14",
+    "tema": 3,
+    "pregunta": "¿A qué se destinan los recursos del Fondo de Compensación previsto en el artículo 158.2 CE?",
+    "opciones": [
+      "A gastos de inversión para corregir desequilibrios económicos interterritoriales",
+      "A financiar cualquier gasto corriente autonómico sin finalidad específica",
+      "A sufragar el funcionamiento ordinario del Senado",
+      "A sustituir el control del Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 158.2 CE vincula el Fondo de Compensación a gastos de inversión y a la corrección de desequilibrios económicos interterritoriales.",
+    "referencia": "Tema I.3, solidaridad territorial · artículo 158.2 CE"
   }
 ]
