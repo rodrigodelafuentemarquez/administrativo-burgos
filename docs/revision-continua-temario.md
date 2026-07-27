@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se leyó `rehypeStudyHighlights.mjs`. Se conservaron seis marcas manuales selectivas para autonomía local, artículos 137, 3.1, 4.1, 59 TRLRHL y presupuesto general; el resto queda para el motor automático de leyes, artículos, fechas, órganos y conceptos. Se comprobó que las marcas estén equilibradas y no se modificó el motor común.
 - **Tests añadidos/cambiados:** se añadieron 8 preguntas (`burgos-i05-deep-01` a `burgos-i05-deep-08`) sobre clasificación del artículo 3, potestades, servicios para municipios de 30.000 habitantes, delegación, ICIO, contribuciones especiales, exposición pública de 15 días y órgano aprobador del presupuesto. El banco pasa de 31 a 39 preguntas, sin identificadores duplicados, y se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de formato, unicidad y sincronización de 39 preguntas, comprobación de seis marcas manuales equilibradas, `git diff --check` y `npm run build` completados correctamente (101 páginas). La primera comprobación usó por error la clave `explicacion` sin tilde y se repitió con el formato real `explicación`; no queda fallo pendiente.
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `0b2357f` (`mejora profunda tema I.5 entidades locales`), subido a `origin/main`.
 - **Siguiente tema sugerido:** I.6, municipio, término municipal, población y padrón; mantener separado el padrón de la tipología general de I.5 y revisar los tests sobre vecindad, inscripción y certificaciones.
 
 ## 27 de julio de 2026, 10:19 (Europe/Madrid)
