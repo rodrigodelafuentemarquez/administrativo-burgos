@@ -119,7 +119,7 @@
   {
     "id": "t18-p007",
     "tema": 15,
-    "pregunta": "En responsabilidad patrimonial de la Administración, los daños derivados de riesgos del desarrollo:",
+    "pregunta": "Según el artículo 34.1 de la Ley 40/2015, los daños derivados de riesgos del desarrollo:",
     "opciones": [
       "siempre son indemnizables",
       "no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes",
@@ -127,8 +127,8 @@
       "se convierten automáticamente en responsabilidad penal"
     ],
     "correcta": 1,
-    "explicación": "El tema los excluye en el art. 34.4 LRJSP.",
-    "referencia": "II.6 · 3.4 Riesgos del desarrollo"
+    "explicación": "El artículo 34.1 LRJSP excluye los daños que no pudieron preverse o evitarse según el estado de los conocimientos de la ciencia o de la técnica al producirse.",
+    "referencia": "Ley 40/2015 · artículo 34.1 · Riesgos del desarrollo"
   },
   {
     "id": "t18-p008",
@@ -161,7 +161,7 @@
   {
     "id": "t18-p010",
     "tema": 15,
-    "pregunta": "¿Qué dictamen es obligatorio cuando la reclamación supera 50.000 euros?",
+    "pregunta": "Cuando la indemnización reclamada sea igual o superior a 50.000 euros, o a la cuantía autonómica aplicable, ¿qué dictamen debe solicitarse?",
     "opciones": [
       "Consejo de Estado u órgano consultivo equivalente",
       "Tribunal Supremo",
@@ -169,8 +169,8 @@
       "Mesa de Contratación"
     ],
     "correcta": 0,
-    "explicación": "El tema lo exige expresamente en la instrucción.",
-    "referencia": "II.6 · 5.2 Instrucción"
+    "explicación": "El artículo 81.2 LPAC exige solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma, sin perjuicio de otros supuestos legales.",
+    "referencia": "Ley 39/2015 · artículo 81.2 · Dictamen consultivo"
   },
   {
     "id": "t18-p011",
@@ -259,7 +259,7 @@
   {
     "id": "t18-p017",
     "tema": 15,
-    "pregunta": "En responsabilidad patrimonial de la Administración, cuando la indemnización reclamada sea igual o superior a 50.000 euros, durante la instrucción del procedimiento deberá recabarse dictamen de:",
+    "pregunta": "En responsabilidad patrimonial, cuando la indemnización reclamada alcance el umbral legal o autonómico aplicable, durante la instrucción deberá solicitarse dictamen de:",
     "opciones": [
       "La Intervención General del Estado",
       "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
@@ -267,8 +267,8 @@
       "La Abogacia del Estado en todo caso"
     ],
     "correcta": 1,
-    "explicación": "El tema exige ese dictamen en las reclamaciones de cuantía igual o superior a 50.000 euros.",
-    "referencia": "II.6 · 5.2 Instrucción"
+    "explicación": "La regla general del artículo 81.2 LPAC fija 50.000 euros, salvo la cuantía establecida por la legislación autonómica, y atribuye el dictamen al Consejo de Estado o al órgano consultivo autonómico.",
+    "referencia": "Ley 39/2015 · artículo 81.2 · Dictamen consultivo"
   },
   {
     "id": "topup-15-01",
@@ -345,5 +345,145 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-ii06-deep-01",
+    "tema": 15,
+    "pregunta": "La anulación de un acto administrativo en vía administrativa o contenciosa:",
+    "opciones": [
+      "presupone siempre el derecho a ser indemnizado",
+      "no presupone por sí sola el derecho a ser indemnizado",
+      "impide en todo caso reclamar responsabilidad patrimonial",
+      "solo permite reclamar al funcionario que dictó el acto"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 32.1 LRJSP aclara que la anulación no presupone por sí misma derecho a indemnización: deben probarse los demás presupuestos de la responsabilidad.",
+    "referencia": "Ley 40/2015 · artículo 32.1 · Anulación y responsabilidad"
+  },
+  {
+    "id": "burgos-ii06-deep-02",
+    "tema": 15,
+    "pregunta": "¿Cuál de los siguientes elementos NO forma parte de la exigencia legal del daño indemnizable del artículo 32.2 LRJSP?",
+    "opciones": [
+      "Que sea efectivo",
+      "Que sea evaluable económicamente",
+      "Que sea individualizado",
+      "Que derive necesariamente de funcionamiento anormal"
+    ],
+    "correcta": 3,
+    "explicación": "El daño debe ser efectivo, evaluable económicamente e individualizado; puede proceder tanto del funcionamiento normal como del anormal.",
+    "referencia": "Ley 40/2015 · artículos 32.1 y 32.2 · Presupuestos"
+  },
+  {
+    "id": "burgos-ii06-deep-03",
+    "tema": 15,
+    "pregunta": "En una actuación conjunta de varias Administraciones de la que deriva responsabilidad patrimonial, la regla frente al perjudicado es:",
+    "opciones": [
+      "responsabilidad solidaria, sin perjuicio de la distribución interna que pueda establecer el instrumento regulador",
+      "responsabilidad exclusiva de la Administración con menor financiación",
+      "responsabilidad subsidiaria del Estado en todo caso",
+      "ausencia de responsabilidad hasta que exista sentencia penal"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 33.1 LRJSP establece solidaridad frente al particular en las fórmulas conjuntas de actuación, aunque el instrumento pueda distribuir internamente la responsabilidad.",
+    "referencia": "Ley 40/2015 · artículo 33.1 · Responsabilidad concurrente"
+  },
+  {
+    "id": "burgos-ii06-deep-04",
+    "tema": 15,
+    "pregunta": "El plazo para reclamar por daños físicos o psíquicos comienza, con carácter general, desde:",
+    "opciones": [
+      "la fecha de la primera consulta médica, aunque no haya secuelas determinadas",
+      "la curación o la determinación del alcance de las secuelas",
+      "la fecha de aprobación del presupuesto municipal",
+      "el día en que termina siempre el año natural"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 67 LPAC sitúa el inicio del plazo de un año en la curación o en la determinación del alcance de las secuelas.",
+    "referencia": "Ley 39/2015 · artículo 67 · Plazo de reclamación"
+  },
+  {
+    "id": "burgos-ii06-deep-05",
+    "tema": 15,
+    "pregunta": "El informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable es:",
+    "opciones": [
+      "facultativo y puede emitirse sin límite temporal",
+      "preceptivo y debe emitirse en un plazo que no exceda de diez días",
+      "sustituido siempre por el dictamen del Consejo de Estado",
+      "exigible únicamente si la reclamación supera 50.000 euros"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 81.1 LPAC exige solicitar ese informe y limita a diez días el plazo de emisión.",
+    "referencia": "Ley 39/2015 · artículo 81.1 · Informe del servicio"
+  },
+  {
+    "id": "burgos-ii06-deep-06",
+    "tema": 15,
+    "pregunta": "El dictamen del Consejo de Estado u órgano consultivo autonómico, cuando sea preceptivo, debe pronunciarse sobre:",
+    "opciones": [
+      "la relación de causalidad y, en su caso, la valoración, cuantía y modo de indemnización",
+      "la culpabilidad penal del empleado público en todo caso",
+      "la aprobación definitiva del presupuesto de la Administración",
+      "la legalidad de todas las ordenanzas municipales vigentes"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 81.2 LPAC conecta el dictamen con la causalidad, la valoración del daño y la cuantía y modo de indemnización.",
+    "referencia": "Ley 39/2015 · artículo 81.2 · Dictamen"
+  },
+  {
+    "id": "burgos-ii06-deep-07",
+    "tema": 15,
+    "pregunta": "La resolución de un procedimiento de responsabilidad patrimonial debe pronunciarse necesariamente sobre:",
+    "opciones": [
+      "la relación de causalidad y, si procede, la valoración, cuantía y modo de indemnización",
+      "la imposición de una sanción al reclamante",
+      "la responsabilidad disciplinaria de todo empleado del servicio",
+      "la modificación de la relación de puestos de trabajo"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 91.2 LPAC exige resolver sobre la causalidad y, cuando proceda, sobre valoración, cuantía y modo de indemnización.",
+    "referencia": "Ley 39/2015 · artículo 91.2 · Contenido de la resolución"
+  },
+  {
+    "id": "burgos-ii06-deep-08",
+    "tema": 15,
+    "pregunta": "Si transcurren seis meses sin resolución expresa ni acuerdo formalizado en responsabilidad patrimonial, el interesado puede entender que la resolución es:",
+    "opciones": [
+      "estimatoria por silencio",
+      "desestimatoria de la indemnización",
+      "nula de pleno derecho automáticamente",
+      "una sanción firme"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 91.3 LPAC establece que, transcurridos seis meses, puede entenderse que la resolución es contraria a la indemnización.",
+    "referencia": "Ley 39/2015 · artículo 91.3 · Silencio"
+  },
+  {
+    "id": "burgos-ii06-deep-09",
+    "tema": 15,
+    "pregunta": "En el ámbito local, la competencia para resolver los procedimientos de responsabilidad patrimonial corresponde:",
+    "opciones": [
+      "al órgano que determinen las normas de la entidad local",
+      "siempre al Consejo de Ministros",
+      "siempre al Consejo de Estado",
+      "al Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 92 LPAC remite, para el ámbito local, a los órganos correspondientes de las entidades que integran la Administración Local.",
+    "referencia": "Ley 39/2015 · artículo 92 · Competencia local"
+  },
+  {
+    "id": "burgos-ii06-deep-10",
+    "tema": 15,
+    "pregunta": "Tras indemnizar al particular, la Administración exigirá de oficio responsabilidad a su personal cuando haya actuado con:",
+    "opciones": [
+      "dolo, culpa o negligencia graves",
+      "cualquier resultado dañoso, aunque sea inevitable",
+      "mera discrepancia con una instrucción interna",
+      "responsabilidad objetiva sin procedimiento"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 36.2 LRJSP exige dolo, culpa o negligencia graves y la previa instrucción del procedimiento correspondiente.",
+    "referencia": "Ley 40/2015 · artículo 36.2 · Autoridades y personal"
   }
 ]
