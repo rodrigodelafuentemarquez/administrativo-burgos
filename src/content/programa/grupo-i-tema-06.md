@@ -3,167 +3,218 @@ grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidade
 tema: 6
 codigo: "Tema I.6"
 titulo: "El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y mapa del tema
 
-Este tema se apoya en la <mark>Constitución Española</mark>, la <mark>Ley 7/1985</mark> reguladora de las Bases del Régimen Local, el Reglamento de Población y Demarcación Territorial de las Entidades Locales, aprobado por <mark>Real Decreto 1690/1986</mark>, y la normativa e instrucciones técnicas sobre padrón municipal.
+El núcleo normativo es la **Constitución Española (arts. 137 y 140)**, la **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL, arts. 11 a 18)**, el **Real Decreto 1690/1986**, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales, y las instrucciones técnicas estatales sobre gestión del padrón, especialmente la Resolución publicada por el **BOE en 2020**. Deben tenerse presentes también la legislación electoral, la normativa de protección de datos y, en el ámbito autonómico, la Ley 1/1998 de Régimen Local de Castilla y León.
 
-El municipio es la entidad local básica del sistema territorial. Para una oposición al Ayuntamiento de Burgos, este tema tiene importancia directa porque conecta con padrón, vecindad administrativa, término municipal, organización municipal y prestación de servicios.
+La secuencia que conviene memorizar es:
 
-## Concepto de municipio
+1. El **municipio** es la entidad local básica.
+2. Sus elementos son **territorio, población y organización**.
+3. El **término municipal** delimita el espacio de actuación.
+4. La **población** se articula mediante el padrón.
+5. La inscripción determina la **vecindad administrativa**, pero no la nacionalidad ni la residencia legal de una persona extranjera.
 
-La Ley de Bases del Régimen Local define el municipio como la entidad local básica de la organización territorial del Estado. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines.
+## 2. Concepto y autonomía municipal
 
-El municipio es una Administración Pública territorial. Esto significa que su poder de actuación se vincula a un territorio y a una población. No es una simple oficina administrativa del Estado ni de la comunidad autónoma. Tiene autonomía constitucionalmente garantizada para la gestión de sus intereses.
+El municipio es la **entidad local básica de la organización territorial del Estado**. Tiene personalidad jurídica y plena capacidad para el cumplimiento de sus fines (**art. 11 LBRL**). Es una Administración Pública territorial: actúa sobre un territorio y una población propios y gestiona sus intereses con autonomía, dentro de la Constitución y las leyes.
 
-El <mark>artículo 140</mark> de la Constitución garantiza la autonomía de los municipios. Su gobierno y administración corresponde a los Ayuntamientos, integrados por Alcaldes y Concejales. Los Concejales son elegidos por los vecinos mediante sufragio universal, igual, libre, directo y secreto, y los Alcaldes son elegidos por los Concejales o por los vecinos en los términos legalmente establecidos.
+El **artículo 140 de la Constitución** garantiza la autonomía de los municipios, su personalidad jurídica plena y el gobierno y administración municipal por los Ayuntamientos. Los Concejales son elegidos mediante sufragio universal, igual, libre, directo y secreto; el Alcalde es elegido por los Concejales o por los vecinos, en los términos de la legislación electoral.
 
-La autonomía municipal se traduce en capacidad para aprobar ordenanzas y reglamentos, gestionar servicios públicos, administrar bienes, aprobar presupuestos, ejercer competencias, recaudar tributos propios dentro del marco legal y defender sus intereses ante los tribunales.
-
-| Idea | Contenido |
+| Idea | Regla de examen |
 |---|---|
-| Municipio | Entidad local básica de la organización territorial del Estado. |
-| Naturaleza | Administración Pública territorial con personalidad jurídica plena. |
-| Base constitucional | <mark>Artículo 140</mark> de la Constitución. |
-| Gobierno municipal | Ayuntamiento, integrado por Alcalde y Concejales. |
-| Autonomía | Gestión de intereses propios dentro de la ley. |
+| Naturaleza | Entidad local básica y Administración territorial. |
+| Personalidad | Jurídica y plena capacidad para sus fines. |
+| Autonomía | Garantizada constitucionalmente para la gestión de sus intereses. |
+| Gobierno | Ayuntamiento integrado por Alcalde y Concejales, salvo el régimen de Concejo Abierto. |
+| Manifestaciones | Ordenanzas, servicios, bienes, presupuesto, tributos y ejercicio de competencias. |
 
-## Elementos del municipio
+> **Para recordar:** la autonomía local no equivale a soberanía ni a potestad legislativa. El municipio ejerce potestades administrativas y reglamentarias subordinadas a la ley.
 
-Los elementos esenciales del municipio son territorio, población y organización.
+## 3. Elementos del municipio
 
-El territorio es el término municipal. Delimita el espacio físico en el que el Ayuntamiento ejerce sus competencias. La población está formada por las personas inscritas en el padrón municipal, que constituyen los vecinos del municipio. La organización está integrada por los órganos de gobierno y administración municipal.
+El **artículo 11.2 LBRL** enumera tres elementos, que deben repetirse literalmente: **<mark>territorio, población y organización</mark>**.
 
-Estos tres elementos se relacionan entre si. El Ayuntamiento ejerce sus potestades sobre un término municipal concreto, respecto de una comunidad vecinal determinada y a través de una organización institucional propia.
-
-| Elemento esencial | Función |
+| Elemento | Contenido |
 |---|---|
-| Territorio | Delimita el espacio de ejercicio de competencias. |
-| Población | Determina vecindad administrativa, servicios y representación. |
-| Organización | Hace posible el gobierno y administración municipal. |
+| Territorio | El término municipal, ámbito espacial de las competencias del Ayuntamiento. |
+| Población | Personas inscritas en el padrón; esas personas son los vecinos. |
+| Organización | Órganos de gobierno y administración municipal. |
 
-## El término municipal
+No debe confundirse la organización —elemento del municipio— con otras entidades locales, como la provincia, la comarca o la mancomunidad.
 
-El término municipal es el territorio en que el Ayuntamiento ejerce sus competencias. Cada municipio pertenece a una sola provincia. La delimitación del término municipal es esencial porque determina el ámbito territorial de prestación de servicios, ejercicio de potestades urbanísticas, gestión tributaria, padrón, policía local y actuación administrativa.
+## 4. El término municipal
 
-Las alteraciones de términos municipales pueden producirse por incorporación de uno o más municipios a otro, fusión de municipios, segregación de parte del territorio para constituir un municipio independiente, segregación para agregarla a otro municipio o modificación de límites territoriales.
+El término municipal es el **territorio en el que el Ayuntamiento ejerce sus competencias** (**art. 12 LBRL**). Cada municipio pertenece a una sola provincia. El territorio municipal debe ser, con carácter general, continuo, aunque pueden subsistir situaciones de discontinuidad reconocidas.
 
-Estas alteraciones no pueden acordarse de forma arbitraria. Deben ajustarse a la legislación estatal y autonómica aplicable, respetar requisitos de población, territorio, suficiencia de recursos, audiencia de municipios afectados, información pública y dictamen de órganos consultivos cuando proceda.
+El Ayuntamiento puede dividir su término en distritos y barrios. Esa división interna no crea municipios nuevos ni altera por sí misma los límites del término.
 
-La creación de nuevos municipios exige que existan motivos de interés público, núcleos de población territorialmente diferenciados y recursos suficientes para prestar los servicios municipales obligatorios. La normativa busca evitar la fragmentación municipal inviable.
+### 4.1 Alteración de términos y creación de municipios
 
-La alteración de límites provinciales tiene especial relevancia constitucional, porque el <mark>artículo 141</mark> exige que cualquier alteración de los límites provinciales sea aprobada por las Cortes Generales mediante ley orgánica.
+La creación o supresión de municipios y la alteración de términos se regulan por la legislación de las Comunidades Autónomas, pero la LBRL fija garantías y requisitos básicos (**art. 13**):
 
-| Alteración del término | Ejemplo |
+- audiencia de los municipios interesados;
+- dictamen del Consejo de Estado o del órgano consultivo superior autonómico, si existe;
+- informe de la Administración que ejerza la tutela financiera;
+- comunicación a la Administración General del Estado al pedir el dictamen;
+- respeto a la prohibición de modificar los límites provinciales mediante una alteración de términos.
+
+La creación de un nuevo municipio solo puede basarse en un núcleo de población territorialmente diferenciado de **<mark>al menos 4.000 habitantes</mark>**, y exige que los municipios resultantes sean financieramente sostenibles, cuenten con recursos suficientes para sus competencias y no disminuya la calidad de los servicios que se prestaban.
+
+La fusión de municipios colindantes de una misma provincia puede formalizarse mediante convenio, sin perjuicio del procedimiento autonómico. El convenio debe ser aprobado por mayoría simple de cada Pleno y el municipio resultante no puede segregarse hasta que transcurran **10 años** desde su adopción.
+
+| Supuesto | Qué ocurre |
 |---|---|
 | Incorporación | Uno o varios municipios se integran en otro. |
-| Fusión | Dos o más municipios forman uno nuevo. |
-| Segregación para nuevo municipio | Parte del territorio se separa y crea municipio independiente. |
+| Fusión | Dos o más municipios se unen y nace un municipio resultante. |
+| Segregación para crear municipio | Parte del término se separa y forma un municipio independiente. |
 | Segregación para agregación | Parte del territorio pasa a otro municipio. |
-| Modificación de límites | Ajuste de deslindes territoriales. |
+| Deslinde o modificación de límites | Se precisa la línea divisoria sin crear necesariamente otro municipio. |
 
-## La población municipal
+> **Error típico de test:** una alteración de términos municipales no puede modificar los límites provinciales. Si se alteran estos límites, la aprobación corresponde a las Cortes Generales mediante **ley orgánica** (**art. 141.1 CE**).
 
-La población del municipio está constituida por el conjunto de personas inscritas en el padrón municipal. La condición de vecino se adquiere en el momento de la inscripción padronal.
+## 5. La población y la vecindad
 
-Toda persona que viva en España está obligada a inscribirse en el padrón del municipio en el que resida habitualmente. Quién viva en varios municipios debe inscribirse solo en aquel en el que habite durante más tiempo al año.
+Toda persona que viva en España debe inscribirse en el padrón del municipio en el que resida habitualmente. Si vive alternativamente en varios municipios, se inscribe únicamente en aquel en el que habite durante más tiempo al año (**art. 15 LBRL**).
 
-La inscripción en el padrón no depende de la nacionalidad. Pueden inscribirse españoles y extranjeros. La inscripción padronal de extranjeros no constituye por si misma prueba de residencia legal en España ni atribuye derechos que no reconozca la normativa de extranjeria, pero si acredita residencia habitual en el municipio a efectos administrativos.
+El conjunto de personas inscritas constituye la población del municipio. Los inscritos son los vecinos y la condición de vecino se adquiere **en el mismo momento de la inscripción**. La regla se aplica a españoles y extranjeros: la nacionalidad no es requisito para empadronarse.
 
-La población municipal tiene consecuencias jurídicas muy importantes. Determina servicios mínimos obligatorios, número de Concejales, régimen organizativo, participación en ingresos, planificación de recursos, competencias y estadisticas oficiales.
+La población padronal sirve para determinar, entre otros efectos, servicios mínimos, número de Concejales, régimen organizativo, planificación municipal, participación en ingresos y cifras oficiales. No obstante, estar empadronado no convierte a alguien en propietario, elector en cualquier proceso, nacional español o residente legal en España.
 
-| Regla padronal | Consecuencia |
+### 5.1 Derechos y deberes de los vecinos
+
+El **artículo 18 LBRL** reconoce, entre otros:
+
+- ser elector y elegible conforme a la legislación electoral;
+- participar en la gestión municipal;
+- utilizar los servicios públicos municipales y acceder a aprovechamientos comunales conforme a las normas;
+- contribuir con prestaciones económicas y personales legalmente previstas;
+- ser informado, previa petición razonada, y dirigir solicitudes sobre expedientes y documentación municipal;
+- pedir consulta popular en los términos legales;
+- exigir servicios municipales propios de carácter obligatorio;
+- ejercer la iniciativa popular conforme al **artículo 70 bis LBRL**.
+
+La inscripción de personas extranjeras no prueba su residencia legal en España ni les atribuye derechos que no les reconozca la legislación de extranjería.
+
+## 6. El padrón municipal
+
+El padrón municipal es el **<mark>registro administrativo donde constan los vecinos</mark>**. Sus datos prueban la residencia en el municipio y el domicilio habitual. Las certificaciones expedidas sobre esos datos tienen carácter de documento público y fehaciente para todos los efectos administrativos (**art. 16.1 LBRL**).
+
+La inscripción solo produce efectos mientras subsista el hecho que la motivó. En consecuencia, el padrón no es una autorización para residir ni una prueba universal de cualquier circunstancia personal.
+
+### 6.1 Datos obligatorios y voluntarios
+
+El **artículo 16.2 LBRL** establece como obligatorios únicamente:
+
+1. nombre y apellidos;
+2. sexo;
+3. domicilio habitual, con referencia catastral —o código equivalente foral— cuando exista;
+4. nacionalidad;
+5. lugar y fecha de nacimiento;
+6. DNI o, para extranjeros, el documento identificativo que corresponda según su nacionalidad y situación documental;
+7. certificado o título escolar o académico que se posea;
+8. los datos necesarios para elaborar el censo electoral, respetando los derechos fundamentales.
+
+La inscripción puede recoger voluntariamente datos de representación a efectos padronales, teléfono y correo electrónico. Estos datos voluntarios no son obligatorios y no pueden cederse como si fueran datos padronales obligatorios.
+
+| Dato o efecto | Clasificación |
 |---|---|
-| Inscripción en el padrón | Atribuye condición de vecino. |
-| Residencia habitual | Determina municipio de inscripción. |
-| Nacionalidad irrelevante | También pueden inscribirse extranjeros. |
-| Población oficial | Influye en concejales, servicios y financiación. |
+| Estado civil y situación laboral | No forman parte de la lista de datos obligatorios del art. 16.2 LBRL. |
+| Referencia catastral | Se especifica cuando el domicilio cuenta con ella; no es una prueba de propiedad. |
+| Teléfono y correo electrónico | Aportación voluntaria. |
+| Certificación padronal | Documento público y fehaciente para efectos administrativos. |
 
-## El padrón municipal
+### 6.2 Gestión, coordinación y cifra oficial
 
-El padrón municipal es el registro administrativo donde constan los vecinos del municipio. Sus datos constituyen prueba de la residencia en el municipio y del domicilio habitual en el mismo.
+La formación, mantenimiento, revisión y custodia del padrón corresponde al **<mark>Ayuntamiento</mark>**, conforme a la legislación estatal (**art. 17 LBRL**). Los organismos de la Administración General del Estado remiten periódicamente información sobre variaciones de los datos obligatorios.
 
-La formación, mantenimiento, revisión y custodia del padrón corresponde al Ayuntamiento. La gestión padronal es una función administrativa permanente. No se agota en altas y bajas, sino que exige actualización, comprobación, coordinación con otras Administraciones y respeto a la protección de datos personales.
+El **<mark>Instituto Nacional de Estadística (INE)</mark>** coordina los padrones municipales: recibe los datos, realiza comprobaciones y puede comunicar reparos. La coordinación no sustituye al Ayuntamiento en la formación y custodia del padrón.
 
-Los datos obligatorios del padrón incluyen nombre y apellidos, sexo, domicilio habitual, nacionalidad, lugar y fecha de nacimiento, número de documento nacional de identidad o documento equivalente, certificado o título escolar o academico que se posea y otros datos que puedan ser necesarios para la elaboración del censo electoral, siempre que se respeten los derechos fundamentales.
+El **<mark>Consejo de Empadronamiento</mark>**, adscrito al Ministerio de Hacienda, es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales. Sus funciones especialmente preguntables son:
 
-El Ayuntamiento puede comprobar la veracidad de los datos consignados por los vecinos y exigir documentación acreditativa de identidad y domicilio. La finalidad es garantizar que el padrón refleje la residencia habitual real.
+- elevar propuesta vinculante para resolver discrepancias padronales entre Ayuntamientos, Diputaciones, Cabildos, Consejos insulares o estos entes y el INE;
+- informar con carácter vinculante las propuestas sobre cifras oficiales de población;
+- proponer instrucciones técnicas para la gestión de los padrones.
 
-| Padron municipal | Nota clave |
+La población oficial de cada municipio se aprueba mediante el procedimiento estatal correspondiente, a partir de la información coordinada, no por una decisión unilateral del Ayuntamiento.
+
+### 6.3 Altas, bajas, modificaciones y comprobaciones
+
+Las operaciones padronales más habituales son:
+
+| Operación | Supuesto |
 |---|---|
-| Naturaleza | Registro administrativo. |
-| Función | Acredita residencia y domicilio habitual. |
-| Gestión | Corresponde al Ayuntamiento. |
-| Datos | Identidad, domicilio, nacionalidad, nacimiento, documento y datos necesarios legalmente. |
-| Limite | Debe respetar protección de datos personales. |
+| Alta | Inscripción por residencia habitual en el municipio. |
+| Baja | Cambio de residencia, defunción, duplicidad, inscripción indebida u otros supuestos legalmente previstos. |
+| Cambio de domicilio | Variación de domicilio dentro del mismo término municipal. |
+| Modificación de datos | Cambio de nombre, nacionalidad, documento u otros datos obligatorios. |
+| Confirmación o comprobación | Verificación de la continuidad de la residencia conforme a las instrucciones técnicas. |
 
-## Gestión del padrón
+El Ayuntamiento puede comprobar la veracidad de los datos y debe mantener actualizado el padrón. El cambio de residencia no permite figurar simultáneamente como vecino en dos padrones: la persona debe inscribirse en el municipio en el que reside habitualmente.
 
-Las altas padronales se producen cuando una persona se inscribe como residente habitual en el municipio. Las bajas se producen por traslado de residencia a otro municipio, defunción, inscripción indebida u otros supuestos legalmente previstos. Las modificaciones corrigen cambios de domicilio dentro del municipio o variaciones de datos personales.
+Las instrucciones técnicas prevén que las personas extranjeras no comunitarias sin autorización de residencia de larga duración (**ENCSARP**) renueven su inscripción cada **dos años**. Si no lo hacen, el Ayuntamiento puede declarar la caducidad conforme al procedimiento aplicable; la legislación permite hacerlo sin audiencia previa. Los extranjeros que no están en ese grupo no tienen esa renovación automática bienal, aunque pueden quedar sujetos a comprobaciones periódicas de residencia.
 
-Cuando una persona cambia su residencia a otro municipio, debe solicitar el alta en el nuevo municipio. Esta alta produce la baja en el municipio anterior a través de los mecanismos de coordinación correspondientes.
+### 6.4 Acceso y cesión de datos
 
-Los Ayuntamientos deben remitir al Instituto Nacional de Estadistica las variaciones padronales. El INE coordina los padrones municipales y realiza comprobaciones para evitar duplicidades. La cifra oficial de población se obtiene a partir de la revisión padronal y se declara oficialmente.
+Los datos obligatorios pueden cederse a otras Administraciones Públicas sin consentimiento previo cuando sean necesarios para ejercer sus competencias y exclusivamente en asuntos en los que residencia o domicilio sean relevantes. También pueden utilizarse para estadísticas oficiales sometidas al secreto estadístico.
 
-El Consejo de Empadronamiento es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales en materia padronal. Informa las discrepancias entre Administraciones, colabora en la coordinación del padrón y participa en cuestiones técnicas relevantes para asegurar que las cifras oficiales reflejen la residencia real.
+Los datos aportados voluntariamente —representación, teléfono y correo electrónico— no son susceptibles de cesión. El tratamiento debe respetar el **Reglamento (UE) 2016/679**, la **Ley Orgánica 3/2018**, los principios de finalidad y minimización y las medidas de seguridad. El acceso de un particular a datos de otra persona no es libre: debe existir base jurídica y finalidad legítima.
 
-En el caso de extranjeros no comunitarios sin autorización de residencia de larga duración, la normativa prevé renovación periódica de la inscripción padronal cada <mark>dos años</mark>. La falta de renovación puede dar lugar a la caducidad de la inscripción, que debe tramitarse con las garantías procedentes. Esta regla suele aparecer vinculada a la sigla ENCSARP: extranjeros no comunitarios sin autorización de residencia permanente o de larga duración.
+### 6.5 Certificado y volante
 
-| Actuación padronal | Contenido |
+El certificado y el volante se expiden a partir de la información padronal, pero no deben confundirse:
+
+| Documento | Idea práctica |
 |---|---|
-| Alta | Nueva inscripción por residencia habitual. |
-| Baja | Traslado, defunción, duplicidad o inscripción indebida. |
-| Modificación | Cambio de domicilio o de datos personales. |
-| Coordinación con INE | Evita duplicidades y fija cifra oficial de población. |
-| Consejo de Empadronamiento | Colabora e informa en coordinación padronal. |
-| Renovación ENCSARP | Renovación cada <mark>dos años</mark> para evitar caducidad. |
+| Certificado de empadronamiento | Acreditación formal, con carácter de documento público y fehaciente para efectos administrativos. |
+| Volante de empadronamiento | Comunicación o comprobación informativa de los datos que constan en el padrón. |
 
-## Derechos y deberes de los vecinos
+El documento padronal acredita residencia o domicilio en los términos de la normativa; no acredita por sí solo propiedad, nacionalidad, solvencia, situación laboral o residencia legal de una persona extranjera.
 
-La condición de vecino comporta derechos y deberes. Entre los derechos se encuentran ser elector y elegible de acuerdo con la legislación electoral, participar en la gestión municipal en los términos previstos por la ley, utilizar los servicios públicos municipales, acceder a aprovechamientos comunales cuando proceda, ser informado, pedir consulta popular en los términos legales, exigir la prestación de servicios obligatorios y ejercer la iniciativa popular municipal cuando se cumplan los requisitos.
+## 7. Aplicación práctica al Ayuntamiento de Burgos
 
-Los vecinos deben contribuir mediante prestaciones económicas y personales legalmente previstas a la realización de competencias municipales, respetar las ordenanzas y reglamentos, colaborar con la Administración municipal cuando proceda y comunicar datos veraces para la inscripción padronal.
+Burgos es un municipio de Castilla y León y capital de la provincia. En el trabajo administrativo municipal, el padrón se relaciona con atención ciudadana, certificados, domicilio para notificaciones, planificación de servicios, estadísticas, interoperabilidad y protección de datos.
 
-La participación vecinal se canaliza a través de elecciones municipales, información pública, órganos de participación, asociaciones vecinales, consultas populares, reclamaciones, sugerencias y otros mecanismos regulados por la ley y por el reglamento orgánico municipal.
+La organización política y los órganos concretos del Ayuntamiento de Burgos se estudian con detalle en el **Tema I.7**. Aquí solo interesa recordar que el Ayuntamiento es quien forma, mantiene, revisa y custodia el padrón, mientras que el INE coordina el sistema estatal.
 
-| Vecino del municipio | Derechos o deberes |
-|---|---|
-| Derecho | Ser elector y elegible conforme a la legislación electoral. |
-| Derecho | Usar servicios públicos municipales y exigir servicios obligatorios. |
-| Derecho | Participar en la gestión municipal e iniciativa popular cuando proceda. |
-| Deber | Contribuir con prestaciones legalmente previstas. |
-| Deber | Respetar ordenanzas y reglamentos. |
-| Deber | Facilitar datos veraces para la gestión padronal. |
+## 8. Errores típicos de test
 
-## Padron y servicios públicos
+- **Art. 11 LBRL:** los elementos son territorio, población y organización; no son municipio, provincia y comarca.
+- **Art. 12:** el término municipal es territorio, no población ni órgano.
+- **Art. 13:** para crear municipio se exige un núcleo diferenciado de al menos **4.000 habitantes** y sostenibilidad financiera; no basta con una petición vecinal.
+- La alteración de términos no modifica límites provinciales; estos requieren ley orgánica.
+- El padrón es municipal y el INE lo coordina: no se invierten los papeles.
+- La vecindad nace con la inscripción, no con el nacimiento, la propiedad de una vivienda o el pago de impuestos.
+- La inscripción de un extranjero no prueba residencia legal ni regulariza su situación.
+- La renovación cada dos años se refiere a ENCSARP, no indiscriminadamente a todo extranjero.
+- El teléfono y el correo electrónico son datos voluntarios; el estado civil no figura entre los obligatorios del art. 16.2 LBRL.
+- El certificado padronal prueba residencia y domicilio habitual a efectos administrativos, no la propiedad del inmueble.
 
-El padrón es una herramienta esencial para planificar servicios públicos. Permite conocer cuántos vecinos residen en el municipio, dónde se concentran, qué estructura de edad existe y qué necesidades pueden derivarse de esa población.
+## 9. Esquema final de repaso
 
-En la práctica municipal, los datos padronales se relacionan con servicios sociales, educación, transporte, limpieza, abastecimiento, seguridad, urbanismo, participación ciudadana y gestión tributaria. También tienen relevancia para acreditar domicilio en trámites administrativos.
+```text
+MUNICIPIO (art. 11 LBRL)
+├─ Entidad local básica + personalidad jurídica + plena capacidad
+├─ Elementos: TERRITORIO + POBLACIÓN + ORGANIZACIÓN
+├─ Término municipal (art. 12)
+│  ├─ territorio de competencias del Ayuntamiento
+│  ├─ un municipio = una provincia
+│  └─ alteraciones sometidas a garantías; creación: núcleo ≥ 4.000 habitantes
+└─ Población y padrón (arts. 15-17)
+   ├─ inscripción → vecino desde ese momento
+   ├─ padrón = registro administrativo; prueba residencia y domicilio
+   ├─ Ayuntamiento forma, mantiene, revisa y custodia
+   ├─ INE coordina; Consejo de Empadronamiento colabora y ejerce funciones vinculantes
+   ├─ ENCSARP: renovación cada 2 años; no renovación → posible caducidad
+   └─ cesión solo para competencias y asuntos con residencia/domicilio relevantes
+```
 
-El certificado o volante de empadronamiento se utiliza habitualmente para acreditar residencia o domicilio. El certificado tiene mayor valor formal y suele ir firmado por autoridad o funcionario habilitado, mientras que el volante tiene finalidad informativa. En ambos casos debe respetarse la normativa de protección de datos.
+### Cómo resolver una pregunta
 
-| Documento | Uso habitual |
-|---|---|
-| Certificado de empadronamiento | Acreditación formal de residencia o domicilio. |
-| Volante de empadronamiento | Información o acreditación simple de datos padronales. |
-| Datos estadisticos | Planificación de servicios públicos. |
-| Datos padronales en trámites | Identificación de domicilio a efectos administrativos. |
-
-## Padron y protección de datos
-
-El padrón contiene datos personales y, por tanto, su tratamiento debe ajustarse al Reglamento General de Protección de Datos, a la <mark>Ley Orgánica 3/2018</mark> y a la normativa local aplicable.
-
-Los datos padronales solo pueden utilizarse para fines administrativos compatibles con su naturaleza. La cesión de datos a otras Administraciones debe estar justificada por el ejercicio de competencias y respetar los principios de minimización, finalidad y legitimación.
-
-El acceso por particulares a datos padronales de otras personas está limitado. El Ayuntamiento debe proteger la intimidad y seguridad de los vecinos, especialmente en situaciones de violencia de género, menores, personas vulnerables o domicilios protegidos.
-
-## El municipio de Burgos
-
-Burgos es un municipio de Castilla y León y capital de la provincia de Burgos. Su Ayuntamiento actúa como Administración municipal sobre su término municipal y respecto de su población vecinal.
-
-Por su población y relevancia urbana, el Ayuntamiento de Burgos se organiza conforme al régimen común local con especialidades propias de los municipios de gran población, desarrolladas por la legislación local y por su Reglamento Organico y de Funcionamiento. Esta circunstancia conecta directamente con el Tema I.7, dedicado a la organización política y administrativa del Ayuntamiento de Burgos.
-
-Para el personal administrativo municipal, el padrón no es solo una materia teórica. Es un registro vivo que afecta a derechos, servicios, planificación, información ciudadana, expedientes, certificados, interoperabilidad administrativa y atención al público.
+1. Identifica si pregunta por **artículo 11-13**, por vecindad (**art. 15**), por datos y efectos (**art. 16**), por gestión/coordinación (**art. 17**) o por derechos (**art. 18**).
+2. Separa quién gestiona (**Ayuntamiento**) de quién coordina (**INE**).
+3. Busca las palabras-trampa: «propiedad», «residencia legal», «todos los extranjeros», «cualquier dato» o «cualquier municipio».
+4. Comprueba si el dato es obligatorio o voluntario y si el efecto es administrativo o pretende probar algo distinto.

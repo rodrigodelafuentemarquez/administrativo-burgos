@@ -104,20 +104,6 @@
     "referencia": "Ley 7/1985 · art. 44"
   },
   {
-    "id": "t09-p014",
-    "tema": 6,
-    "pregunta": "Según el art. 26 LBRL, ¿qué servicio mínimo debe prestar todo municipio?",
-    "opciones": [
-      "Transporte colectivo urbano de viajeros",
-      "Tratamiento de residuos",
-      "Alumbrado público",
-      "Protección civil"
-    ],
-    "correcta": 2,
-    "explicación": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
-    "referencia": "I.6 · 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
-  },
-  {
     "id": "topup-06-01",
     "pregunta": "En materia de municipio y padrón municipal, los elementos esenciales del municipio son:",
     "opciones": [
@@ -129,48 +115,6 @@
     "correcta": 0,
     "explicación": "El municipio se estructura sobre término municipal, población y organización.",
     "referencia": "I.6 · Concepto y elementos del municipio",
-    "tema": 6
-  },
-  {
-    "id": "topup-06-04",
-    "pregunta": "En materia de municipio y padrón municipal, la condición de vecino del municipio se adquiere:",
-    "opciones": [
-      "cuando se inscribe en el padrón municipal",
-      "al pagar el IBI",
-      "al cumplir 18 años",
-      "al votar en elecciones generales"
-    ],
-    "correcta": 0,
-    "explicación": "La inscripción padronal atribuye la condición de vecino.",
-    "referencia": "I.6 · Población y vecindad",
-    "tema": 6
-  },
-  {
-    "id": "topup-06-06",
-    "pregunta": "En materia de municipio y padrón municipal, los datos padronales prueban:",
-    "opciones": [
-      "la residencia y el domicilio habitual",
-      "la titularidad de una vivienda",
-      "la situación laboral",
-      "la nacionalidad española"
-    ],
-    "correcta": 0,
-    "explicación": "La ley atribuye a los datos padronales valor probatorio de residencia y domicilio habitual.",
-    "referencia": "I.6 · Padron municipal",
-    "tema": 6
-  },
-  {
-    "id": "topup-06-08",
-    "pregunta": "En materia de municipio y padrón municipal, la formación y custodia del padrón corresponde principalmente a:",
-    "opciones": [
-      "el Ayuntamiento",
-      "el Senado",
-      "la comunidad de vecinos",
-      "la Diputación Permanente"
-    ],
-    "correcta": 0,
-    "explicación": "La gestión padronal es una competencia municipal, con coordinación del INE.",
-    "referencia": "I.6 · Gestión del padrón",
     "tema": 6
   },
   {
@@ -213,20 +157,6 @@
     "correcta": 0,
     "explicación": "La viabilidad del nuevo municipio exige recursos suficientes y justificación de interés público.",
     "referencia": "I.6 · Creación de municipios",
-    "tema": 6
-  },
-  {
-    "id": "topup-06-14",
-    "pregunta": "En materia de municipio y padrón municipal, la inscripción padronal de personas extranjeras:",
-    "opciones": [
-      "no prueba por si sola la residencia legal en España",
-      "equivale siempre a una autorización de residencia",
-      "solo es posible para ciudadanos de la UE",
-      "requiere sentencia judicial previa"
-    ],
-    "correcta": 0,
-    "explicación": "El empadronamiento acredita residencia habitual a efectos administrativos, no regulariza por sí mismo la situación de extranjeria.",
-    "referencia": "I.6 · Padron y personas extranjeras",
     "tema": 6
   },
   {
@@ -419,5 +349,117 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-i06-deep-01",
+    "tema": 6,
+    "pregunta": "Según el artículo 13.2 de la Ley 7/1985, para crear un nuevo municipio el núcleo de población territorialmente diferenciado debe tener al menos:",
+    "opciones": [
+      "1.000 habitantes",
+      "2.500 habitantes",
+      "4.000 habitantes",
+      "5.000 habitantes"
+    ],
+    "correcta": 2,
+    "explicación": "La creación de un nuevo municipio exige un núcleo territorialmente diferenciado de al menos 4.000 habitantes, además de sostenibilidad financiera, recursos suficientes y mantenimiento de la calidad de los servicios.",
+    "referencia": "LBRL · artículo 13.2 · Creación de municipios"
+  },
+  {
+    "id": "burgos-i06-deep-02",
+    "tema": 6,
+    "pregunta": "¿Cuál de las siguientes garantías forma parte del procedimiento de creación o alteración de términos municipales previsto en el artículo 13.1 de la LBRL?",
+    "opciones": [
+      "Audiencia de los municipios interesados y dictamen consultivo cuando proceda",
+      "Referéndum estatal obligatorio en todos los casos",
+      "Autorización previa del Tribunal de Cuentas",
+      "Aprobación por decreto-ley municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 13.1 exige, en todo caso, audiencia de los municipios interesados, dictamen del Consejo de Estado u órgano consultivo autonómico superior si existe e informe de la Administración que ejerza la tutela financiera.",
+    "referencia": "LBRL · artículo 13.1 · Alteración de términos"
+  },
+  {
+    "id": "burgos-i06-deep-03",
+    "tema": 6,
+    "pregunta": "¿Cuál de estos datos es de aportación voluntaria en la inscripción padronal?",
+    "opciones": [
+      "Nacionalidad",
+      "Lugar y fecha de nacimiento",
+      "Número de documento identificativo",
+      "Número de teléfono de contacto"
+    ],
+    "correcta": 3,
+    "explicación": "El teléfono y el correo electrónico, así como los datos de representación a efectos padronales, pueden aportarse voluntariamente. La nacionalidad, el nacimiento y el documento identificativo están entre los datos obligatorios del artículo 16.2 LBRL.",
+    "referencia": "LBRL · artículo 16.2 · Datos obligatorios y voluntarios"
+  },
+  {
+    "id": "burgos-i06-deep-04",
+    "tema": 6,
+    "pregunta": "Los datos padronales obligatorios pueden cederse a otra Administración sin consentimiento previo cuando:",
+    "opciones": [
+      "la Administración los necesite para ejercer sus competencias y la residencia o el domicilio sean relevantes",
+      "lo solicite cualquier persona que acredite interés económico",
+      "se trate siempre de datos aportados voluntariamente",
+      "la cesión tenga exclusivamente una finalidad comercial"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 16.3 LBRL permite la cesión sin consentimiento cuando sea necesaria para las competencias de la Administración solicitante y en asuntos donde residencia o domicilio sean datos relevantes.",
+    "referencia": "LBRL · artículo 16.3 · Acceso y cesión"
+  },
+  {
+    "id": "burgos-i06-deep-05",
+    "tema": 6,
+    "pregunta": "¿Qué afirmación describe correctamente al Consejo de Empadronamiento?",
+    "opciones": [
+      "Es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales",
+      "Es el órgano municipal que custodia directamente cada padrón",
+      "Es un órgano judicial que resuelve recursos contra el padrón",
+      "Es una comisión del Pleno que aprueba el presupuesto municipal"
+    ],
+    "correcta": 0,
+    "explicación": "El Consejo de Empadronamiento es un órgano colegiado de colaboración estatal-local, adscrito al Ministerio de Hacienda, con funciones específicas de coordinación y propuesta técnica.",
+    "referencia": "LBRL · artículo 17.4 · Consejo de Empadronamiento"
+  },
+  {
+    "id": "burgos-i06-deep-06",
+    "tema": 6,
+    "pregunta": "La inscripción padronal de una persona extranjera:",
+    "opciones": [
+      "prueba automáticamente su residencia legal en España",
+      "no prueba por sí sola su residencia legal ni le atribuye derechos no reconocidos por la legislación",
+      "solo es posible si tiene nacionalidad de un Estado miembro de la Unión Europea",
+      "sustituye a la autorización administrativa de residencia"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 18.2 LBRL separa los efectos padronales de la residencia legal y de los derechos reconocidos por la legislación de extranjería.",
+    "referencia": "LBRL · artículo 18.2 · Personas extranjeras"
+  },
+  {
+    "id": "burgos-i06-deep-07",
+    "tema": 6,
+    "pregunta": "¿Qué documento tiene carácter de documento público y fehaciente para los efectos administrativos derivados de los datos padronales?",
+    "opciones": [
+      "La certificación expedida sobre los datos del padrón",
+      "Cualquier captura de pantalla del padrón",
+      "El contrato privado de arrendamiento, por sí solo",
+      "El recibo del impuesto sobre bienes inmuebles"
+    ],
+    "correcta": 0,
+    "explicación": "El artículo 16.1 LBRL atribuye ese carácter a las certificaciones que se expidan de los datos del padrón municipal.",
+    "referencia": "LBRL · artículo 16.1 · Certificaciones padronales"
+  },
+  {
+    "id": "burgos-i06-deep-08",
+    "tema": 6,
+    "pregunta": "Una persona que vive alternativamente en varios municipios debe inscribirse en el padrón:",
+    "opciones": [
+      "en todos los municipios en los que tenga vivienda",
+      "solo en el municipio en el que habite durante más tiempo al año",
+      "en el municipio en el que pague más impuestos",
+      "en el municipio que elija libremente, aunque no resida en él"
+    ],
+    "correcta": 1,
+    "explicación": "El artículo 15 LBRL establece una única inscripción: la del municipio en el que se habite durante más tiempo al año.",
+    "referencia": "LBRL · artículo 15 · Residencia habitual"
   }
 ]
