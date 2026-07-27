@@ -390,5 +390,173 @@
     "referencia": "IV.1 · Revisión de actos tributarios locales",
     "explicación": "En los municipios de gran población puede existir un órgano económico-administrativo municipal para esta revisión especializada.",
     "tema": 27
+  },
+  {
+    "id": "burgos-iv01-deep-01",
+    "tema": 27,
+    "pregunta": "Según el artículo 6 del TRLRHL, los tributos locales:",
+    "opciones": [
+      "No pueden gravar bienes, actividades, rendimientos o gastos situados fuera del territorio de la entidad, salvo excepciones legales",
+      "Pueden gravar cualquier actividad económica realizada en España",
+      "Solo pueden establecerse mediante decreto de la Alcaldía",
+      "No están sujetos a límites territoriales"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 6 TRLRHL · principios de tributación local",
+    "explicación": "El artículo 6 TRLRHL impone límites territoriales y prohíbe que los tributos locales actúen como obstáculos a la libre circulación, sin perjuicio de las excepciones legales."
+  },
+  {
+    "id": "burgos-iv01-deep-02",
+    "tema": 27,
+    "pregunta": "¿Cuál de los siguientes es un ingreso de derecho público local, pero no un tributo?",
+    "opciones": [
+      "Una multa pecuniaria",
+      "Una tasa por ocupación de la vía pública",
+      "El IBI",
+      "Una contribución especial"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 2 TRLRHL · recursos locales",
+    "explicación": "Las multas y sanciones pecuniarias forman parte de los ingresos de derecho público, pero no son una de las tres clases de tributos."
+  },
+  {
+    "id": "burgos-iv01-deep-03",
+    "tema": 27,
+    "pregunta": "En una ordenanza fiscal, el período impositivo y el devengo son elementos que se refieren respectivamente a:",
+    "opciones": [
+      "El lapso temporal al que se refiere el tributo y el momento en que nace la obligación tributaria",
+      "El órgano que aprueba la ordenanza y el órgano que la publica",
+      "La fase de reclamaciones y el plazo del recurso contencioso",
+      "La base imponible y el tipo de gravamen"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 16 TRLRHL · contenido de las ordenanzas fiscales",
+    "explicación": "El artículo 16 incluye período impositivo y devengo entre los elementos mínimos de la ordenanza; el devengo determina cuándo nace la obligación."
+  },
+  {
+    "id": "burgos-iv01-deep-04",
+    "tema": 27,
+    "pregunta": "Los anuncios de exposición de una ordenanza fiscal de un Ayuntamiento con más de 10.000 habitantes deben publicarse, además del boletín oficial, en:",
+    "opciones": [
+      "Un diario de los de mayor difusión de la provincia",
+      "El Boletín Oficial del Estado necesariamente",
+      "El Diario Oficial de la Unión Europea",
+      "Solo la sede electrónica, sin boletín oficial"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 17.2 TRLRHL · publicidad del anuncio",
+    "explicación": "El artículo 17.2 exige esa publicación adicional para los ayuntamientos de población superior a 10.000 habitantes."
+  },
+  {
+    "id": "burgos-iv01-deep-05",
+    "tema": 27,
+    "pregunta": "Si durante la exposición pública de una ordenanza fiscal no se presenta ninguna reclamación:",
+    "opciones": [
+      "El acuerdo provisional se entiende definitivamente adoptado sin necesidad de nuevo acuerdo plenario",
+      "Debe repetirse obligatoriamente la aprobación provisional",
+      "La ordenanza queda anulada",
+      "La aprobación definitiva corresponde a la Junta de Gobierno Local"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 17.3 TRLRHL · elevación automática",
+    "explicación": "La ausencia de reclamaciones eleva automáticamente el acuerdo provisional a definitivo; después sigue siendo necesaria la publicación oficial del texto."
+  },
+  {
+    "id": "burgos-iv01-deep-06",
+    "tema": 27,
+    "pregunta": "¿Quién puede reclamar contra un acuerdo provisional de imposición u ordenación de tributos locales?",
+    "opciones": [
+      "Quien tenga interés directo o resulte afectado, y determinadas entidades legalmente constituidas que defiendan intereses propios",
+      "Únicamente los miembros del Pleno",
+      "Solo el órgano interventor",
+      "Cualquier persona jurídica extranjera aunque no tenga relación con el acuerdo"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 18 TRLRHL · legitimación para reclamar",
+    "explicación": "El artículo 18 reconoce legitimación a los interesados directos o afectados y a colegios, cámaras, asociaciones y entidades legalmente constituidas en defensa de sus intereses."
+  },
+  {
+    "id": "burgos-iv01-deep-07",
+    "tema": 27,
+    "pregunta": "En las contribuciones especiales, la base imponible está constituida como máximo por:",
+    "opciones": [
+      "El 90 % del coste que soporte la entidad local",
+      "El 100 % del coste en todo caso",
+      "El 50 % del coste sin posibilidad de modulación",
+      "La cuota íntegra del IBI"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 31 TRLRHL · contribuciones especiales",
+    "explicación": "El artículo 31 fija un máximo del 90 % del coste soportado; no significa que el reparto deba alcanzar siempre exactamente ese porcentaje."
+  },
+  {
+    "id": "burgos-iv01-deep-08",
+    "tema": 27,
+    "pregunta": "El precio público se diferencia de la tasa porque el precio público:",
+    "opciones": [
+      "No es un tributo y se exige por servicios o actividades cuando no concurre el régimen legal de tasa",
+      "Siempre grava una manifestación de capacidad económica",
+      "Solo puede exigirse por usar el dominio público",
+      "Debe aprobarse siempre mediante ley orgánica"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículos 20 y 41 TRLRHL · tasas y precios públicos",
+    "explicación": "El precio público es un ingreso de derecho público no tributario; la tasa sí es un tributo y tiene los supuestos de hecho del artículo 20 TRLRHL."
+  },
+  {
+    "id": "burgos-iv01-deep-09",
+    "tema": 27,
+    "pregunta": "La cuantía de una tasa por prestación de un servicio local no debe exceder, en conjunto y como regla, de:",
+    "opciones": [
+      "Su coste real o previsible",
+      "El doble del coste real en todos los casos",
+      "La cuota del IAE del sujeto pasivo",
+      "La cuantía que decida libremente la Alcaldía"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 24 TRLRHL · cuota tributaria de las tasas",
+    "explicación": "El artículo 24 TRLRHL conecta la cuantía global de la tasa con el coste real o previsible del servicio o actividad, con sus especialidades legales."
+  },
+  {
+    "id": "burgos-iv01-deep-10",
+    "tema": 27,
+    "pregunta": "El recurso de reposición contra un acto de aplicación de un tributo local es, como regla del artículo 14 TRLRHL:",
+    "opciones": [
+      "Preceptivo antes de acudir a la jurisdicción contencioso-administrativa",
+      "Inexistente en todos los municipios",
+      "Siempre potestativo conforme a la Ley 39/2015",
+      "Un recurso que resuelve necesariamente el Tribunal Supremo"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 14 TRLRHL · revisión de actos tributarios locales",
+    "explicación": "El régimen específico del artículo 14 TRLRHL configura el recurso de reposición como vía previa, sin perjuicio de las reclamaciones económico-administrativas previstas legalmente."
+  },
+  {
+    "id": "burgos-iv01-deep-11",
+    "tema": 27,
+    "pregunta": "La publicación íntegra del texto de una ordenanza fiscal en el Boletín Oficial de la Provincia es necesaria para:",
+    "opciones": [
+      "Que pueda entrar en vigor",
+      "Que se convierta en ley estatal",
+      "Que deje de ser una disposición general",
+      "Que la apruebe el Tribunal de Cuentas"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 17.4 TRLRHL · publicación y entrada en vigor",
+    "explicación": "El acuerdo definitivo y el texto íntegro deben publicarse; la ordenanza no entra en vigor antes de esa publicación."
+  },
+  {
+    "id": "burgos-iv01-deep-12",
+    "tema": 27,
+    "pregunta": "Si una persona afirma que el tipo de gravamen fijado con carácter general por una ordenanza fiscal es ilegal, está cuestionando principalmente:",
+    "opciones": [
+      "La disposición general, cuya impugnación directa corresponde al orden contencioso-administrativo",
+      "Un error material de su recibo exclusivamente",
+      "Una sanción penal",
+      "La competencia del Registro Civil"
+    ],
+    "correcta": 0,
+    "referencia": "IV.1 · Artículo 19 TRLRHL · impugnación de ordenanzas fiscales",
+    "explicación": "La impugnación del contenido normativo general se dirige contra la ordenanza; debe separarse de los recursos frente a liquidaciones o recibos concretos."
   }
 ]
