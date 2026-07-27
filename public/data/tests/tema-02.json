@@ -1267,5 +1267,85 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-01",
+    "pregunta": "Según el artículo 65.1 de la Constitución, ¿qué regla se aplica a la cantidad global asignada en los Presupuestos del Estado para la Casa del Rey?",
+    "opciones": ["La distribuye libremente el Rey.", "La distribuye el Consejo de Ministros mediante acuerdo.", "La distribuye la Mesa del Congreso.", "La distribuye el Tribunal de Cuentas previa fiscalización."],
+    "correcta": 0,
+    "referencia": "I.2 · 2.2 Funciones constitucionales del Rey · artículo 65.1 CE",
+    "explicación": "El artículo 65.1 CE permite al Rey distribuir libremente la cantidad global que recibe de los Presupuestos del Estado para el sostenimiento de su Familia y Casa.",
+    "tags": ["Repaso profundo", "Trampa frecuente"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-02",
+    "pregunta": "En el Senado, ¿cuántos senadores elige cada provincia, sin perjuicio de las reglas específicas de islas, Ceuta y Melilla?",
+    "opciones": ["Dos", "Tres", "Cuatro", "Uno por cada millón de habitantes"],
+    "correcta": 2,
+    "referencia": "I.2 · 3.1 Composición del Senado · artículo 69.2 CE",
+    "explicación": "Cada provincia elige cuatro senadores. Las islas, Ceuta y Melilla tienen reglas propias y las comunidades autónomas designan además sus senadores autonómicos.",
+    "tags": ["Repaso profundo"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-03",
+    "pregunta": "¿Cuál de estas personas puede solicitar la convocatoria de una sesión extraordinaria de una Cámara?",
+    "opciones": ["La Diputación Permanente", "Cualquier grupo parlamentario por mayoría simple", "El Tribunal Constitucional", "El Consejo General del Poder Judicial"],
+    "correcta": 0,
+    "referencia": "I.2 · 3.2 Funcionamiento de las Cortes · artículo 73.2 CE",
+    "explicación": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros de la Cámara. Se convocan sobre un orden del día determinado.",
+    "tags": ["Repaso profundo"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-04",
+    "pregunta": "¿Qué requisito distingue a la moción de censura frente a la cuestión de confianza?",
+    "opciones": ["Debe incluir un candidato alternativo y aprobarse por mayoría absoluta.", "Solo puede votarse en el Senado.", "Se aprueba siempre por mayoría simple.", "La plantea el Rey previa consulta al Congreso."],
+    "correcta": 0,
+    "referencia": "I.2 · 3.3 Control del Gobierno · artículo 113 CE",
+    "explicación": "La moción de censura es constructiva: debe incluir un candidato a la Presidencia y necesita mayoría absoluta del Congreso. La cuestión de confianza la plantea el Presidente y se aprueba por mayoría simple.",
+    "tags": ["Repaso profundo", "Comparativa"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-05",
+    "pregunta": "Durante el Gobierno en funciones, ¿qué actuación está prohibida expresamente por la Ley 50/1997?",
+    "opciones": ["Presentar proyectos de ley al Congreso o al Senado.", "Despachar asuntos ordinarios.", "Facilitar la formación del nuevo Gobierno.", "Continuar hasta la toma de posesión del nuevo Gobierno."],
+    "correcta": 0,
+    "referencia": "I.2 · 4.2 Gobierno en funciones · artículo 21 de la Ley 50/1997",
+    "explicación": "El Gobierno en funciones no puede presentar proyectos de ley ni aprobar el proyecto de Presupuestos Generales del Estado. Sí debe limitarse al despacho ordinario y facilitar la formación del nuevo Gobierno.",
+    "tags": ["Repaso profundo", "Trampa frecuente"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-06",
+    "pregunta": "¿Qué principio constitucional describe correctamente la actuación de la Administración Pública?",
+    "opciones": ["Sirve con objetividad los intereses generales y queda sometida plenamente a la ley y al Derecho.", "Actúa con autonomía frente a la ley cuando persigue fines de interés general.", "Solo está sometida al control político del Gobierno.", "Puede elegir libremente sus fines al margen de la ley."],
+    "correcta": 0,
+    "referencia": "I.2 · 5. La Administración Pública · artículo 103 CE",
+    "explicación": "El artículo 103 CE combina servicio objetivo a los intereses generales con sometimiento pleno a la ley y al Derecho.",
+    "tags": ["Repaso profundo"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-07",
+    "pregunta": "¿Cuál es la relación correcta entre el Consejo General del Poder Judicial y el Tribunal Constitucional?",
+    "opciones": ["El CGPJ gobierna el Poder Judicial y el Tribunal Constitucional no forma parte de él.", "Ambos son órganos jurisdiccionales integrados en el Poder Judicial.", "El Tribunal Constitucional gobierna el CGPJ como órgano superior.", "El CGPJ resuelve los recursos de amparo y el Tribunal Supremo los nombra."],
+    "correcta": 0,
+    "referencia": "I.2 · 6. El Poder Judicial · artículos 122 y 159 CE",
+    "explicación": "El CGPJ es el órgano de gobierno del Poder Judicial. El Tribunal Constitucional es un órgano constitucional independiente y no integra el Poder Judicial.",
+    "tags": ["Repaso profundo", "Comparativa"]
+  },
+  {
+    "tema": 2,
+    "id": "burgos-i02-deep-08",
+    "pregunta": "¿Qué composición constitucional tiene el Consejo General del Poder Judicial?",
+    "opciones": ["Presidente del Tribunal Supremo y veinte vocales, con mandato de cinco años.", "Presidente del Tribunal Constitucional y doce vocales, con mandato de cuatro años.", "Veinte vocales elegidos directamente por sufragio universal cada cuatro años.", "Preside el Gobierno y lo integran veinte ministros por mandato de cinco años."],
+    "correcta": 0,
+    "referencia": "I.2 · 6. El Poder Judicial · artículo 122.3 CE",
+    "explicación": "El artículo 122.3 CE establece que el CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales nombrados por el Rey por cinco años.",
+    "tags": ["Repaso profundo"]
   }
 ]

@@ -3,202 +3,184 @@ grupo: "Grupo I. Organización del Estado, de la Unión Europea, de las entidade
 tema: 2
 codigo: "Tema I.2"
 titulo: "La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Normativa y mapa constitucional
 
-Este tema se estudia principalmente sobre la <mark>Constitución Española</mark>, texto consolidado del <mark>BOE</mark>: https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229.
+El eje del tema es la **Constitución Española** (CE), especialmente sus títulos II a VI: Corona, Cortes Generales, Gobierno y Administración y Poder Judicial. Como apoyo deben manejarse la <mark>Ley Orgánica 5/1985</mark>, de Régimen Electoral General, la <mark>Ley 50/1997</mark>, del Gobierno, la <mark>Ley 40/2015</mark>, de Régimen Jurídico del Sector Público, y la <mark>Ley Orgánica 6/1985</mark>, del Poder Judicial.
 
-Para completar el estudio conviene manejar también la Ley Orgánica del Régimen Electoral General, la <mark>Ley del Gobierno</mark>, la <mark>Ley 40/2015</mark> de Régimen Jurídico del Sector Público y la Ley Orgánica del Poder Judicial. En este tema, no obstante, el eje es constitucional: Corona, Cortes Generales, Gobierno, Administración y Poder Judicial.
+| Bloque | Constitución | Idea central |
+|---|---:|---|
+| Corona | Título II, arts. 56-65 | Jefatura del Estado y funciones constitucionales sujetas a refrendo. |
+| Cortes Generales | Título III, arts. 66-96 | Representación, legislación, presupuestos y control del Gobierno. |
+| Gobierno y Administración | Título IV, arts. 97-107 | Dirección política, función ejecutiva y servicio objetivo al interés general. |
+| Poder Judicial | Título VI, arts. 117-127 | Justicia independiente, unidad jurisdiccional y gobierno del Poder Judicial. |
 
-## La Corona en la Constitución
+**Regla de estudio:** el Rey formaliza; las Cortes legislan y controlan; el Gobierno dirige y ejecuta; jueces y magistrados juzgan y hacen ejecutar lo juzgado.
 
-La Corona se regula en el título II de la Constitución. El <mark>artículo 56</mark> define al Rey como Jefe del Estado, símbolo de su unidad y permanencia. Arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales, especialmente con las naciones de su comunidad histórica, y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes.
+## 2. La Corona
 
-| Artículo | Materia | Idea que debe recordarse |
-|---|---|---|
-| <mark>Artículo 56</mark> | Posición constitucional del Rey | Jefe del Estado, símbolo de unidad y permanencia, arbitra y modera. |
-| <mark>Artículo 57</mark> | Sucesión | Primogenitura, representación y preferencia de línea, grado, sexo y edad. |
-| <mark>Artículos 59 y 60</mark> | Regencia y tutela | Supuestos, requisitos y designación. |
-| <mark>Artículo 62</mark> | Funciones interiores | Sancionar leyes, convocar elecciones, proponer Presidente y nombrar cargos. |
-| <mark>Artículo 63</mark> | Funciones internacionales | Embajadores, tratados, guerra y paz con autorización de Cortes. |
-| <mark>Artículo 64</mark> | Refrendo | Responsabilidad de quien refrenda, no del Rey. |
+### 2.1. Posición constitucional del Rey
 
-La forma política del Estado español es la monarquía parlamentaria, según el <mark>artículo 1.3</mark>. Esto significa que el Rey no gobierna. La dirección política corresponde al Gobierno, que responde ante el Congreso de los Diputados. La Corona tiene funciones constitucionales tasadas, representativas, arbitrales y formales, pero no una potestad política propia equivalente a la del Ejecutivo.
+El <mark>artículo 56</mark> define al Rey como **Jefe del Estado**, símbolo de su unidad y permanencia. Arbitra y modera el funcionamiento regular de las instituciones, asume la más alta representación del Estado español en las relaciones internacionales —en especial con las naciones de su comunidad histórica— y ejerce las funciones que le atribuyen expresamente la Constitución y las leyes. La forma política del Estado es la **monarquía parlamentaria** (<mark>artículo 1.3</mark>).
 
-La persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos deben estar refrendados, salvo excepciones constitucionales, por el Presidente del Gobierno, por los Ministros competentes o por el Presidente del Congreso en los supuestos correspondientes. El refrendo es esencial porque traslada la responsabilidad política y jurídica del acto a quien lo refrenda. Sin refrendo, los actos del Rey carecen de validez, salvo los relativos al nombramiento y relevo de los miembros civiles y militares de su Casa.
+La persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos necesitan refrendo para ser válidos y la responsabilidad corresponde a quien refrenda. Refrendan, según el acto, el Presidente del Gobierno, el ministro competente o el Presidente del Congreso. El Rey no puede asumir por sí mismo la responsabilidad política del Gobierno.
 
-**Clave de examen:** la Corona es una institución constitucional, no un órgano de gobierno. El Rey no decide políticamente; formaliza actos del sistema parlamentario con el refrendo correspondiente.
+### 2.2. Funciones constitucionales
 
-## Funciones constitucionales del Rey
+El <mark>artículo 62</mark> atribuye al Rey, entre otras, las siguientes funciones:
 
-El <mark>artículo 62</mark> recoge las funciones principales del Rey. Entre ellas se encuentran sancionar y promulgar las leyes, convocar y disolver las Cortes Generales y convocar elecciones en los términos previstos en la Constitución, convocar referéndum en los casos previstos, proponer candidato a Presidente del Gobierno y nombrarlo, así como poner fin a sus funciones en los términos constitucionales.
+1. Sancionar y promulgar las leyes; la sanción debe producirse en el plazo de <mark>quince días</mark> y el Rey debe promulgar y ordenar su inmediata publicación.
+2. Convocar y disolver las Cortes Generales y convocar elecciones en los términos constitucionales.
+3. Convocar referéndum en los casos previstos en la Constitución.
+4. Proponer candidato a Presidente del Gobierno y, en su caso, nombrarlo; también poner fin a sus funciones.
+5. Nombrar y separar a los miembros del Gobierno a propuesta de su Presidente.
+6. Expedir los decretos acordados en Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones.
+7. Ser informado de los asuntos de Estado y presidir el Consejo de Ministros cuando lo estime oportuno, a petición del Presidente del Gobierno.
+8. Ejercer el mando supremo de las Fuerzas Armadas y el derecho de gracia conforme a la ley, sin autorizar indultos generales.
+9. Ostentar el alto patronazgo de las Reales Academias.
 
-También le corresponde nombrar y separar a los miembros del Gobierno a propuesta de su Presidente, expedir los decretos acordados en el Consejo de Ministros, conferir empleos civiles y militares y conceder honores y distinciones conforme a las leyes.
+En relaciones internacionales (<mark>artículo 63</mark>), acredita embajadores, manifiesta el consentimiento del Estado para obligarse por tratados conforme a la Constitución y las leyes, y declara la guerra y hace la paz con autorización previa de las Cortes Generales.
 
-El Rey tiene el mando supremo de las Fuerzas Armadas, ejerce el derecho de gracia conforme a la ley, sin que pueda autorizar indultos generales, y ostenta el alto patronazgo de las Reales Academias.
-
-En el ámbito internacional, el <mark>artículo 63</mark> dispone que el Rey acredita a los embajadores y otros representantes diplomaticos, manifiesta el consentimiento del Estado para obligarse internacionalmente por medio de tratados, de acuerdo con la Constitución y las leyes, y declara la guerra y hace la paz previa autorización de las Cortes Generales.
-
-Estas funciones deben estudiarse siempre con la idea de refrendo. El Rey firma, sanciona, promulga, nombra o convoca, pero la responsabilidad del acto corresponde al órgano que refrenda.
-
-| Función | Artículo | Refrendo o limite |
-|---|---|---|
-| Sancionar y promulgar leyes | <mark>Artículo 62</mark>.a | Acto formal necesario para la ley aprobada por las Cortes. |
-| Convocar y disolver Cortes, convocar elecciones | <mark>Artículo 62</mark>.b | En los términos constitucionales y con refrendo. |
-| Convocar referéndum | <mark>Artículo 62</mark>.c | Solo en los casos previstos constitucionalmente. |
-| Proponer y nombrar Presidente del Gobierno | <mark>Artículo 62</mark>.d | Procedimiento de investidura del <mark>artículo 99</mark>. |
-| Nombrar y separar Ministros | <mark>Artículo 62</mark>.e | Siempre a propuesta del Presidente del Gobierno. |
-| Expedir decretos | <mark>Artículo 62</mark>.f | Decretos acordados en Consejo de Ministros. |
-| Derecho de gracia | <mark>Artículo 62</mark>.i | Conforme a la ley; no caben indultos generales. |
-| Tratados, guerra y paz | <mark>Artículo 63</mark> | Con arreglo a Constitución, leyes y autorización de Cortes cuando proceda. |
-
-## Sucesión a la Corona
-
-La sucesión se regula en el <mark>artículo 57</mark>. La Corona de España es hereditaria en los sucesores de Su Majestad Don Juan Carlos I de Borbón, legítimo heredero de la dinastía histórica.
-
-El orden sucesorio sigue la primogenitura y representación. Se prefiere siempre la línea anterior a las posteriores; en la misma línea, el grado más próximo al más remoto; en el mismo grado, el varón a la mujer; y en el mismo sexo, la persona de más edad a la de menos. Esta regla debe estudiarse literalmente porque es frecuente en preguntas tipo test.
-
-| Criterio de sucesión | Preferencia |
+| Acto | Regla que suele preguntarse |
 |---|---|
-| Línea | La línea anterior prevalece sobre las posteriores. |
-| Grado | En la misma línea, grado más próximo antes que remoto. |
-| Sexo | En el mismo grado, varón antes que mujer. |
-| Edad | En el mismo sexo, mayor edad antes que menor edad. |
+| Nombramiento de ministros | Rey, a propuesta del Presidente del Gobierno. |
+| Derecho de gracia | Conforme a la ley; se excluyen los indultos generales. |
+| Guerra y paz | El Rey declara la guerra y hace la paz, pero necesita autorización previa de las Cortes. |
+| Sanción de leyes | En <mark>quince días</mark>; promulga y ordena la publicación. |
+| Dotación de la Casa del Rey | El Rey recibe de los Presupuestos del Estado una cantidad global para su Casa y la distribuye libremente (<mark>artículo 65.1</mark>). |
+| Actos de la Casa del Rey | El nombramiento y relevo de los miembros civiles y militares de la Casa del Rey no necesitan refrendo (<mark>artículo 65.2</mark>). |
 
-El Príncipe heredero, desde su nacimiento o desde que se produzca el hecho que origine el llamamiento, tiene la dignidad de Príncipe de Asturias y los demás títulos vinculados tradicionalmente al sucesor de la Corona.
+### 2.3. Sucesión, abdicación y regencia
 
-Si se extinguen todas las lineas llamadas en Derecho, las Cortes Generales proveerán a la sucesión en la Corona en la forma que más convenga a los intereses de España. Las abdicaciones, renuncias y cualquier duda de hecho o de derecho que ocurra en el orden de sucesión se resolverán por ley orgánica.
+La Corona es hereditaria en los sucesores de Don Juan Carlos I de Borbón (<mark>artículo 57</mark>). El orden se basa en primogenitura y representación: **línea anterior**, dentro de ella **grado más próximo**, en el mismo grado **varón antes que mujer** y, en el mismo sexo, **mayor edad**. El Príncipe heredero tiene desde su nacimiento o desde el llamamiento la dignidad de Príncipe de Asturias.
 
-La Constitución también prevé que aquellas personas con derecho a la sucesión que contraigan matrimonio contra la expresa prohibición del Rey y de las Cortes Generales queden excluidas de la sucesión por si y sus descendientes.
+Las abdicaciones, renuncias y dudas de hecho o de derecho en el orden sucesorio se resuelven por **ley orgánica**. Si se extinguen todas las líneas llamadas en Derecho, las Cortes proveen a la sucesión en la forma que más convenga a los intereses de España. El matrimonio contraído contra la expresa prohibición del Rey y de las Cortes excluye de la sucesión a quien lo contrae y a sus descendientes.
 
-**Ojo:** abdicaciones, renuncias y dudas de hecho o derecho sobre la sucesión se resuelven por ley orgánica.
+La regencia procede por minoría de edad del Rey o por inhabilitación reconocida por las Cortes Generales. Se ejerce siempre en nombre del Rey y exige ser español y mayor de edad:
 
-## Regencia y tutela
-
-La regencia se regula en los <mark>artículos 59 y 60</mark>. Procede cuando el Rey sea menor de edad o cuando se inhabilite para el ejercicio de su autoridad y la imposibilidad sea reconocida por las Cortes Generales.
-
-Si el Rey es menor de edad, entra a ejercer inmediatamente la regencia el padre o la madre del Rey y, en su defecto, el pariente mayor de edad más próximo a suceder en la Corona, según el orden constitucional. Si el Rey queda inhabilitado y el Príncipe heredero es mayor de edad, este ejerce la regencia. Si no lo es, se aplica la regla anterior hasta que el Príncipe alcance la mayoría de edad.
-
-Si no hubiera persona a quien corresponda la regencia, esta será nombrada por las Cortes Generales y se compondrá de una, tres o cinco personas. Para ejercer la regencia se exige ser español y mayor de edad. La regencia se ejerce por mandato constitucional y siempre en nombre del Rey.
-
-La tutela del Rey menor corresponde a la persona designada en testamento por el Rey difunto, siempre que sea mayor de edad y español de nacimiento. Si no hubiera designación, será tutor el padre o la madre mientras permanezcan viudos. En defecto de estos, lo nombrarán las Cortes Generales. No pueden acumularse los cargos de regente y tutor salvo en el padre, madre o ascendientes directos del Rey.
-
-| Figura | Cuando aparece | Requisitos o regla |
-|---|---|---|
-| Regencia por minoria de edad | Rey menor de edad | Padre, madre o pariente mayor de edad más próximo a suceder. |
-| Regencia por inhabilitación | Imposibilidad reconocida por Cortes | Si el Príncipe heredero es mayor de edad, ejerce la regencia. |
-| Regencia nombrada | Si no hay persona llamada | Cortes Generales; una, tres o cinco personas. |
-| Tutela del Rey menor | Rey menor bajo tutela | Testamento del Rey difunto, padre/madre viudos o Cortes Generales. |
-
-## Las Cortes Generales
-
-Las Cortes Generales se regulan en el título III. Representan al pueblo español y están formadas por el Congreso de los Diputados y el Senado. Ejercen la potestad legislativa del Estado, aprueban sus Presupuestos, controlan la acción del Gobierno y tienen las demás competencias que les atribuye la Constitución.
-
-Las Cortes son inviolables. Sus miembros no están ligados por mandato imperativo. Esto significa que los diputados y senadores representan al conjunto del pueblo español y no pueden quedar jurídicamente obligados por instrucciones de partidos, electores u otros órganos.
-
-El Congreso se compone de un mínimo de 300 y un máximo de 400 diputados, elegidos por sufragio universal, libre, igual, directo y secreto, en los términos que establezca la ley. La circunscripción electoral es la provincia. Ceuta y Melilla están representadas cada una por un diputado. La ley distribuye el número total de diputados asignando una representación mínima inicial a cada circunscripción y distribuyendo los demás en proporción a la población.
-
-El Senado es la Cámara de representación territorial. En cada provincia se eligen cuatro senadores por sufragio universal, libre, igual, directo y secreto. En las provincias insulares, cada isla o agrupación de islas tiene su propia representación. Ceuta y Melilla eligen cada una dos senadores. Además, las comunidades autónomas designan un senador y otro más por cada millon de habitantes de su respectivo territorio.
-
-Las Cortes se eligen por <mark>cuatro años</mark>. El mandato termina <mark>cuatro años</mark> después de su elección o el día de la disolución de la Cámara. Las elecciones tendrán lugar entre los treinta y <mark>sesenta días</mark> desde la terminación del mandato, y el Congreso electo debe ser convocado dentro de los veinticinco días siguientes a la celebración de las elecciones.
-
-| Cámara | Naturaleza | Composición básica |
-|---|---|---|
-| Congreso de los Diputados | Cámara de representación popular | 300 a 400 diputados; provincia como circunscripción; Ceuta y Melilla un diputado. |
-| Senado | Cámara de representación territorial | Senadores provinciales, insulares, de Ceuta/Melilla y designados por comunidades autónomas. |
-| Cortes Generales | Parlamento bicameral | Potestad legislativa, presupuestos, control del Gobierno y demás competencias constitucionales. |
-
-**Plazos básicos:** mandato de <mark>cuatro años</mark>; elecciones entre treinta y <mark>sesenta días</mark> desde la terminación del mandato; Congreso convocado dentro de los veinticinco días siguientes a las elecciones.
-
-## Atribuciones y funcionamiento de las Cortes
-
-La función legislativa es una de las competencias esenciales de las Cortes. Las leyes pueden ser ordinarias u orgánicas. Las leyes orgánicas se reservan a materias especialmente relevantes: desarrollo de derechos fundamentales y libertades públicas, Estatutos de Autonomía, régimen electoral general y las demás previstas en la Constitución.
-
-Las Cortes también aprueban los Presupuestos Generales del Estado. Esta competencia tiene relevancia política porque permite autorizar ingresos y gastos y controlar la orientación económica del Gobierno.
-
-El control del Gobierno se ejerce mediante preguntas, interpelaciones, comisiones de investigación, moción de censura, cuestión de confianza, comparecencias y otros mecanismos parlamentarios. El Congreso ocupa una posición central en la relación de confianza con el Gobierno: inviste al Presidente, puede retirarle la confianza mediante moción de censura y recibe la cuestión de confianza.
-
-Las Cámaras funcionan en Pleno y por Comisiones. Se reúnen anualmente en dos períodos ordinarios de sesiones: de septiembre a diciembre y de febrero a junio. También pueden reunirse en sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la <mark>mayoría absoluta</mark> de los miembros de cualquiera de las Cámaras.
-
-Cada Cámara elige su Presidente y los demás miembros de su Mesa, y aprueba autónomamente su Reglamento. Las sesiones plenarias son públicas salvo acuerdo en contrario de cada Cámara, adoptado por <mark>mayoría absoluta</mark> o conforme al Reglamento.
-
-La Diputación Permanente asegura la continuidad parlamentaria cuando las Cámaras no están reunidas, han sido disueltas o ha expirado su mandato. Debe dar cuenta a la Cámara correspondiente de los asuntos tratados y decisiones adoptadas.
-
-| Mecanismo | Para que sirve |
+| Supuesto | Persona llamada |
 |---|---|
-| Pleno | Debate y decisión principal de cada Cámara. |
-| Comisiones | Trabajo especializado y preparación de asuntos. |
-| Reglamento de cada Cámara | Autonomía parlamentaria interna. |
-| Diputación Permanente | Continuidad cuando no hay sesiones ordinarias o la Cámara no está operativa. |
-| Preguntas, interpelaciones y comparecencias | Control ordinario del Gobierno. |
-| Moción de censura y cuestión de confianza | Control político vinculado a la confianza parlamentaria. |
+| Rey menor | Padre o madre; en su defecto, pariente mayor de edad más próximo a suceder. |
+| Rey inhabilitado y Príncipe mayor de edad | Príncipe heredero. |
+| Rey inhabilitado y Príncipe menor | Se aplica la regla del Rey menor. |
+| Nadie llamado constitucionalmente | Las Cortes nombran una, tres o cinco personas. |
 
-## El Gobierno
+La tutela del Rey menor corresponde, por este orden, a la persona designada en testamento por el Rey difunto (mayor de edad y español de nacimiento), al padre o madre mientras permanezcan viudos y, en defecto de ambos, a quien designen las Cortes. No se pueden acumular regencia y tutela, salvo en el padre, madre o ascendientes directos del Rey.
 
-El Gobierno se regula en el título IV. Dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes.
+**Error típico:** la regencia no convierte al regente en titular de la Corona: actúa en nombre del Rey.
 
-Se compone del Presidente, de los Vicepresidentes en su caso, de los Ministros y de los demás miembros que establezca la ley. El Presidente dirige la acción del Gobierno y coordina las funciones de los demás miembros, sin perjuicio de la competencia y responsabilidad directa de estos en su gestión.
+## 3. Las Cortes Generales
 
-La investidura del Presidente se articula a través del Congreso. Tras cada renovación del Congreso y en los demás supuestos constitucionales en que proceda, el Rey, previa consulta con los representantes designados por los grupos políticos con representación parlamentaria y a través del Presidente del Congreso, propone un candidato. El candidato expone su programa y solicita la confianza del Congreso. Si obtiene <mark>mayoría absoluta</mark> en primera votación, se entiende otorgada la confianza. Si no, se celebra nueva votación <mark>cuarenta y ocho horas</mark> después y basta la <mark>mayoría simple</mark>.
+### 3.1. Composición y estatuto
 
-Si transcurren <mark>dos meses</mark> desde la primera votación de investidura sin que ningún candidato obtenga la confianza, el Rey disuelve ambas Cámaras y convoca nuevas elecciones con el refrendo del Presidente del Congreso.
+Las Cortes representan al pueblo español y están formadas por Congreso y Senado. Ejercen la potestad legislativa del Estado, aprueban los Presupuestos, controlan la acción del Gobierno y ejercen las demás competencias constitucionales. Son inviolables y sus miembros no están ligados por mandato imperativo.
 
-El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria, por dimisión o fallecimiento de su Presidente. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.
-
-| Momento | Regla |
+| Cámara | Datos constitucionales esenciales |
 |---|---|
-| Primera votación de investidura | <mark>Mayoría absoluta</mark> del Congreso. |
-| Segunda votación | <mark>Cuarenta y ocho horas</mark> después; basta <mark>mayoría simple</mark>. |
-| Plazo máximo sin investidura | <mark>Dos meses</mark> desde la primera votación. |
-| Consecuencia | Disolución de ambas Cámaras y convocatoria electoral con refrendo del Presidente del Congreso. |
-| Gobierno cesante | Continúa en funciones hasta la toma de posesión del nuevo Gobierno. |
+| Congreso | Entre <mark>300 y 400</mark> diputados; circunscripción provincial; Ceuta y Melilla eligen un diputado cada una; sufragio universal, libre, igual, directo y secreto. |
+| Senado | Cámara de representación territorial; cada provincia elige cuatro senadores; Gran Canaria, Mallorca y Tenerife, tres; las demás islas o agrupaciones, uno; Ceuta y Melilla, dos cada una. |
+| Senadores autonómicos | Cada comunidad autónoma designa un senador y otro más por cada <mark>millón</mark> de habitantes de su territorio. |
 
-## La Administración
+Los diputados y senadores gozan de inviolabilidad por las opiniones manifestadas en el ejercicio de sus funciones y, durante su mandato, de inmunidad: solo pueden ser detenidos en caso de flagrante delito y no pueden ser inculpados ni procesados sin autorización de la Cámara respectiva. En las causas contra diputados y senadores es competente la Sala de lo Penal del Tribunal Supremo.
 
-La Constitución se refiere a la Administración en el <mark>artículo 103</mark>. La Administración Pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios de eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.
+El mandato dura <mark>cuatro años</mark>, salvo disolución. Las elecciones tienen lugar entre los <mark>treinta y sesenta días</mark> desde la terminación del mandato y el Congreso electo debe ser convocado dentro de los <mark>veinticinco días</mark> siguientes a las elecciones.
 
-Esta fórmula es esencial para entender toda la actuación administrativa. La Administración no tiene fines propios distintos del interés general. Su actuación está sometida a la ley, al control judicial y a los principios constitucionales. El <mark>artículo 106</mark> añade que los tribunales controlan la potestad reglamentaria y la legalidad de la actuación administrativa, así como el sometimiento de esta a los fines que la justifican.
+### 3.2. Funcionamiento
 
-El <mark>artículo 105</mark> prevé que la ley regule la audiencia de los ciudadanos en la elaboración de disposiciones administrativas que les afecten, el acceso de los ciudadanos a archivos y registros administrativos, salvo límites constitucionales y legales, y el procedimiento a través del cual deben producirse los actos administrativos, garantizando cuando proceda la audiencia del interesado.
+Las Cámaras se reúnen en dos períodos ordinarios: de septiembre a diciembre y de febrero a junio. Pueden celebrar sesiones extraordinarias a petición del Gobierno, de la Diputación Permanente o de la mayoría absoluta de los miembros de cualquiera de las Cámaras; deben convocarse sobre un orden del día determinado y se clausuran una vez tratado.
 
-| Artículo | Contenido administrativo |
+Cada Cámara elige su Presidente y Mesa, aprueba su Reglamento y dispone de autonomía presupuestaria. Las sesiones plenarias son públicas, salvo acuerdo en contrario de cada Cámara por mayoría absoluta o conforme al Reglamento. Las Cámaras funcionan en Pleno y por Comisiones.
+
+La **Diputación Permanente** representa a la Cámara cuando no está reunida, ha expirado su mandato o ha sido disuelta. Está compuesta por un mínimo de <mark>veintiún</mark> miembros, en proporción a los grupos parlamentarios, y presidida por el Presidente de la Cámara. Sigue ejerciendo sus funciones hasta la constitución de las nuevas Cortes.
+
+### 3.3. Atribuciones y control del Gobierno
+
+Las Cortes ejercen iniciativa legislativa, potestad legislativa, aprobación presupuestaria y autorización de tratados. El Congreso, además, otorga y retira la confianza al Presidente del Gobierno: la moción de censura debe ser constructiva y la cuestión de confianza solo puede plantearla el Presidente sobre su programa o una declaración de política general.
+
+| Instrumento | Cámara y regla clave |
 |---|---|
-| <mark>Artículo 103</mark> | Servicio objetivo a los intereses generales y principios de eficacia, jerarquía, descentralización, desconcentración y coordinación. |
-| <mark>Artículo 105</mark> | Audiencia ciudadana, acceso a archivos y registros y procedimiento administrativo. |
-| <mark>Artículo 106</mark> | Control judicial de potestad reglamentaria y legalidad de la actuación administrativa. |
+| Investidura | Congreso; mayoría absoluta en primera votación o simple en segunda, <mark>cuarenta y ocho horas</mark> después. |
+| Moción de censura | Congreso; propuesta por al menos una décima parte de diputados, candidato alternativo y aprobación por mayoría absoluta. |
+| Cuestión de confianza | Congreso; planteada por el Presidente previa deliberación del Consejo de Ministros; se aprueba por mayoría simple. |
+| Preguntas e interpelaciones | Control ordinario del Gobierno en las Cámaras. |
+| Comisiones de investigación | Pueden constituirse sobre asuntos de interés público; sus conclusiones no vinculan a los tribunales. |
 
-## El Poder Judicial
+## 4. El Gobierno
 
-El Poder Judicial se regula en el título VI. La justicia emana del pueblo y se administra en nombre del Rey por jueces y magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley.
+### 4.1. Composición, funciones y formación
 
-La independencia judicial significa que jueces y magistrados no pueden recibir órdenes de otros poderes ni de órganos superiores sobre como resolver un asunto concreto. La inamovilidad protege esa independencia, impidiendo separaciones, suspensiones, traslados o jubilaciones fuera de las causas y garantías previstas en la ley.
+El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado. Ejerce la función ejecutiva y la potestad reglamentaria de acuerdo con la Constitución y las leyes (<mark>artículo 97</mark>). Se compone del Presidente, Vicepresidente o Vicepresidentes en su caso y Ministros; los Secretarios de Estado no son miembros del Gobierno en sentido estricto.
 
-El principio de unidad jurisdiccional es la base de la organización y funcionamiento de los tribunales. La Constitución prohibe los tribunales de excepción. La jurisdicción militar queda limitada al ámbito estrictamente castrense y a los supuestos de estado de sitio, de acuerdo con la Constitución.
+El Presidente dirige la acción del Gobierno y coordina a sus miembros, sin perjuicio de la competencia y responsabilidad directa de cada ministro. Los ministros son titulares de sus departamentos y pueden existir ministros sin cartera.
 
-El Consejo General del Poder Judicial es el órgano de gobierno del Poder Judicial. La Ley Orgánica del Poder Judicial determina su estatuto, régimen de incompatibilidades, funciones y composición. Su existencia separa el gobierno interno de jueces y magistrados de la dirección política del Gobierno.
+Tras cada renovación del Congreso y en los demás supuestos constitucionales, el Rey propone candidato a través del Presidente del Congreso, previa consulta con los representantes de los grupos políticos. El candidato expone su programa y solicita confianza:
 
-El Tribunal Supremo, con jurisdicción en toda España, es el órgano jurisdiccional superior en todos los órdenes, salvo lo dispuesto en materia de garantías constitucionales. El Ministerio Fiscal, aunque no forma parte del Poder Judicial como conjunto de jueces y magistrados, tiene relevancia constitucional: promueve la acción de la justicia en defensa de la legalidad, de los derechos de los ciudadanos y del interés público tutelado por la ley, de oficio o a petición de los interesados.
+1. Primera votación: mayoría absoluta del Congreso.
+2. Segunda votación: <mark>cuarenta y ocho horas</mark> después; mayoría simple.
+3. Si no hay investidura, pueden sucederse propuestas.
+4. Transcurridos <mark>dos meses</mark> desde la primera votación sin candidato investido, el Rey disuelve ambas Cámaras y convoca elecciones, con refrendo del Presidente del Congreso.
 
-Para preguntas de detalle, el Consejo General del Poder Judicial está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales nombrados por el Rey por un periodo de <mark>cinco años</mark>. De esos veinte vocales, doce proceden de la carrera judicial y ocho son juristas de reconocida competencia con más de <mark>quince años</mark> de ejercicio profesional.
+Los demás miembros del Gobierno son nombrados y separados por el Rey, a propuesta del Presidente. El Gobierno cesa tras elecciones, pérdida de confianza constitucional, dimisión o fallecimiento del Presidente, y permanece en funciones hasta la toma de posesión del nuevo Gobierno.
 
-El Tribunal Supremo se organiza en salas. Las referencias más frecuentes son: Sala Primera de lo Civil, Sala Segunda de lo Penal, Sala Tercera de lo Contencioso-Administrativo, Sala Cuarta de lo Social y Sala Quinta de lo Militar. En test, los recursos contra actos del Gobierno y de la Administración General del Estado se conectan con la Sala de lo Contencioso-Administrativo; los asuntos laborales y de Seguridad Social, con la Sala de lo Social.
+### 4.2. Gobierno en funciones
 
-La Audiencia Nacional tiene sede en Madrid y conoce, entre otros asuntos, determinadas materias penales, contencioso-administrativas y sociales de especial relevancia o ámbito estatal. Los Tribunales Superiores de Justicia culminan la organización judicial en el ámbito territorial de cada comunidad autónoma, sin perjuicio de la jurisdicción del Tribunal Supremo.
+La <mark>Ley 50/1997</mark> desarrolla el régimen del Gobierno en funciones. Su actuación debe limitarse al despacho ordinario de los asuntos públicos y facilitar la formación del nuevo Gobierno y el traspaso de poderes. El Presidente en funciones no puede proponer la disolución de las Cámaras, plantear cuestión de confianza ni proponer al Rey la convocatoria de referéndum consultivo. El Gobierno en funciones no puede aprobar el proyecto de Ley de Presupuestos Generales del Estado ni presentar proyectos de ley al Congreso o al Senado.
 
-| Institución | Función esencial |
+Estas limitaciones tienen excepciones legales para casos de urgencia debidamente acreditada o por razones de interés general cuya acreditación expresa debe quedar motivada. **No equivale a que el Gobierno deje de existir**: continúa hasta la toma de posesión del nuevo Gobierno.
+
+### 4.3. Consejo de Ministros y órganos de apoyo
+
+El Consejo de Ministros es el órgano colegiado del Gobierno. Lo preside el Presidente; sus deliberaciones son secretas y sus decisiones se formalizan mediante acuerdos o reales decretos según proceda. Las Comisiones Delegadas se crean, modifican y suprimen por real decreto del Consejo de Ministros, a propuesta del Presidente.
+
+La Comisión General de Secretarios de Estado y Subsecretarios examina los asuntos que vayan a someterse al Consejo de Ministros, salvo nombramientos, ceses, cuestiones constitucionales o aquellos que deban tratarse directamente. No puede adoptar decisiones que correspondan al Consejo de Ministros.
+
+## 5. La Administración Pública
+
+La Administración Pública sirve con objetividad los intereses generales y actúa conforme a eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho (<mark>artículo 103</mark>). Los órganos de la Administración del Estado son creados, regidos y coordinados de acuerdo con la ley; su actuación está sometida al control judicial.
+
+| Precepto | Contenido |
 |---|---|
-| Jueces y magistrados | Administran justicia en nombre del Rey, independientes y sometidos a la ley. |
-| Consejo General del Poder Judicial | Órgano de gobierno del Poder Judicial. |
-| Tribunal Supremo | Superior en todos los órdenes salvo garantías constitucionales. |
-| Tribunal Constitucional | No forma parte del Poder Judicial; controla constitucionalidad y amparo. |
-| Ministerio Fiscal | Promueve la acción de la justicia en defensa de legalidad, derechos e interés público. |
+| Art. 103 CE | Servicio objetivo, principios de organización y sometimiento a ley y Derecho. |
+| Art. 104 CE | Fuerzas y Cuerpos de Seguridad: proteger el libre ejercicio de derechos y garantizar la seguridad ciudadana, bajo dependencia del Gobierno. |
+| Art. 105 CE | Audiencia en disposiciones que afecten, acceso a archivos y registros y procedimiento con audiencia cuando proceda. |
+| Art. 106 CE | Tribunales controlan potestad reglamentaria, legalidad y sometimiento a los fines justificativos. |
+| Art. 107 CE | Consejo de Estado como supremo órgano consultivo del Gobierno. |
 
-**Diferencia clave:** Poder Judicial es el conjunto de jueces y magistrados; el Consejo General del Poder Judicial gobierna internamente ese poder, pero no juzga.
+**Administración y Gobierno no son sinónimos:** el Gobierno dirige políticamente y ejerce la función ejecutiva; la Administración es la organización que sirve objetivamente los intereses generales y ejecuta políticas bajo dirección del Gobierno.
 
-## Tribunal Constitucional: dato de cierre
+## 6. El Poder Judicial
 
-El Tribunal Constitucional no forma parte del Poder Judicial, pero aparece a menudo en preguntas de Constitución porque se regula en el Título IX. Se compone de doce miembros nombrados por el Rey: cuatro a propuesta del Congreso, cuatro a propuesta del Senado, dos a propuesta del Gobierno y dos a propuesta del Consejo General del Poder Judicial.
+La justicia emana del pueblo y se administra en nombre del Rey por jueces y magistrados integrantes del Poder Judicial, independientes, inamovibles, responsables y sometidos únicamente al imperio de la ley (<mark>artículo 117</mark>). La potestad jurisdiccional consiste en juzgar y hacer ejecutar lo juzgado y corresponde exclusivamente a juzgados y tribunales determinados por la ley.
 
-Sus competencias más conocidas son el recurso de inconstitucionalidad, la cuestión de inconstitucionalidad, el recurso de amparo, los conflictos de competencia entre el Estado y las comunidades autónomas o de estas entre si, y los conflictos entre órganos constitucionales del Estado.
+Rigen la unidad jurisdiccional y la prohibición de tribunales de excepción. La jurisdicción militar se limita al ámbito estrictamente castrense y a los supuestos de estado de sitio. Es obligatoria la colaboración con jueces y tribunales y las sentencias deben cumplirse.
+
+El **Consejo General del Poder Judicial** es el órgano de gobierno del Poder Judicial. Lo preside el Presidente del Tribunal Supremo y lo integran veinte vocales nombrados por el Rey por <mark>cinco años</mark>: doce entre jueces y magistrados en los términos de la ley orgánica y ocho juristas de reconocida competencia con más de <mark>quince años</mark> de ejercicio profesional, cuatro a propuesta del Congreso y cuatro del Senado por mayoría de tres quintos.
+
+El **Tribunal Supremo**, con jurisdicción en toda España, es superior en todos los órdenes salvo en materia de garantías constitucionales. El **Ministerio Fiscal** promueve la acción de la justicia en defensa de la legalidad, los derechos de los ciudadanos y el interés público; actúa con autonomía funcional y conforme a unidad de actuación, dependencia jerárquica, legalidad e imparcialidad.
+
+El **Tribunal Constitucional** no integra el Poder Judicial. Se regula en el título IX y conoce, entre otras materias, del recurso y la cuestión de inconstitucionalidad, el recurso de amparo y conflictos constitucionales. Esta distinción es una trampa clásica: el CGPJ gobierna el Poder Judicial; el Tribunal Constitucional controla la constitucionalidad.
+
+## 7. Cuadro final de errores típicos
+
+| No confundir | Regla correcta |
+|---|---|
+| Rey y Gobierno | El Rey es Jefe del Estado; el Gobierno dirige la política y la Administración. |
+| Inviolabilidad e inmunidad | La inviolabilidad protege opiniones parlamentarias; la inmunidad limita detención y procesamiento de parlamentarios. |
+| Congreso y Senado | El Congreso es decisivo para investidura y confianza; el Senado es cámara de representación territorial. |
+| CGPJ y Tribunal Constitucional | El CGPJ gobierna el Poder Judicial; el Tribunal Constitucional no forma parte de él. |
+| Gobierno en funciones y Gobierno inexistente | El primero continúa, pero con facultades limitadas. |
+| Mayorías | Investidura: absoluta/simple; censura: absoluta; confianza: simple. |
+
+## 8. Esquema rápido para repasar
+
+**Corona:** artículos 56-65 → funciones del Rey → sucesión → regencia/tutela → refrendo.
+
+**Cortes:** artículos 66-96 → Congreso/Senado → mandato y sesiones → Diputación Permanente → legislación, presupuesto y control.
+
+**Gobierno:** artículos 97-102 → composición y funciones → investidura (absoluta/simple) → cese → funciones.
+
+**Administración:** artículos 103-107 → interés general, principios → audiencia y acceso → control judicial → Consejo de Estado.
+
+**Poder Judicial:** artículos 117-127 → independencia y unidad → CGPJ → Tribunal Supremo → Ministerio Fiscal; Tribunal Constitucional queda fuera del Poder Judicial.
