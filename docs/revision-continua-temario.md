@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se revisó `src/utils/rehypeStudyHighlights.mjs`. Se mantuvieron marcas manuales solo en los núcleos de examen (Constitución, leyes básicas, jerarquía, plazos, mayorías, urgencia, nulidad) y se dejó al motor automático el reconocimiento de artículos, leyes, fechas, órganos y conceptos. No se modificó el motor común ni se marcaron párrafos completos.
 - **Tests añadidos/cambiados:** se añadieron 10 preguntas (`burgos-ii01-deep-01` a `burgos-ii01-deep-10`) sobre requisitos de la costumbre, vigencia, límites del decreto-ley, refundición, prohibición de subdelegar, nulidad reglamentaria, buena regulación, consulta/audiencia, inderogabilidad singular y jurisprudencia. El banco pasa de 41 a 51 preguntas, sin identificadores duplicados; se actualizó el índice y se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de 51 preguntas, unicidad de identificadores, pertenencia al tema 10, igualdad entre JSON editable y público, actualización del índice, revisión de marcas manuales, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `3df56d4`, `mejora tema II.1 fuentes del derecho administrativo`; push correcto a `origin/main`.
 - **Siguiente tema sugerido:** II.2, acto administrativo; conservar la separación entre acto, reglamento y revisión de oficio, y revisar motivación, notificación, eficacia, validez y nulidad/anulabilidad.
 
 ## 27 de julio de 2026, 11:06 (Europe/Madrid)
