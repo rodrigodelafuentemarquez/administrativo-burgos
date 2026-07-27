@@ -3,167 +3,255 @@ grupo: "Grupo III. Régimen jurídico de los empleados públicos"
 tema: 5
 codigo: "Tema III.5"
 titulo: "El texto refundido de la Ley General de la Seguridad Social: disposiciones generales sobre el campo de aplicación y estructura del sistema de la Seguridad Social. Acción protectora: disposiciones generales."
-estado: "borrador"
+estado: "revisado"
 ---
 
-## Normativa de referencia
+## 1. Qué exige el tema y normativa aplicable
 
-La norma central es el <mark>Real Decreto Legislativo 8/2015</mark>, por el que se aprueba el texto refundido de la Ley General de la Seguridad Social. Debe completarse con normativa de cotización, recaudación, prestaciones y regimenes especiales.
+Este tema no es un tema de confección de nóminas. El núcleo es identificar **quién queda protegido**, cómo se organiza el sistema y qué comprende su acción protectora. En el Ayuntamiento de Burgos sirve además para entender el encuadramiento y las obligaciones de la Corporación como empleadora.
 
-## Sistema de Seguridad Social
+La norma básica es el [Real Decreto Legislativo 8/2015, de 30 de octubre](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11724), por el que se aprueba el texto refundido de la Ley General de la Seguridad Social (TRLGSS), especialmente:
 
-La Seguridad Social es un sistema público destinado a garantizar asistencia y prestaciones suficientes ante situaciones de necesidad. La Constitución encomienda a los poderes públicos mantener un régimen público de Seguridad Social para todos los ciudadanos.
-
-El sistema se basa en principios de <mark>universalidad, unidad, solidaridad, igualdad, suficiencia de prestaciones y gestión pública</mark>, aunque admite colaboración de entidades gestoras, servicios comunes, mutuas y empresas en determinados ámbitos.
-
-| Principio | Significado |
+| Materia | Referencia orientativa |
 | --- | --- |
-| Universalidad | Tendencia a proteger a toda la población ante situaciones de necesidad. |
-| Unidad | Sistema coordinado, aunque existan regimenes y entidades distintas. |
-| Solidaridad | Las cotizaciones y recursos sostienen prestaciones de quienes están protegidos. |
-| Igualdad | Situaciones equivalentes deben recibir tratamiento equivalente. |
-| Suficiencia | Las prestaciones deben atender necesidades protegidas de forma adecuada. |
-| Gestión pública | La dirección del sistema corresponde a poderes públicos, con colaboraciones previstas. |
+| Principios, campo subjetivo y estructura | Título I, disposiciones generales; arts. 1 a 12 TRLGSS |
+| Régimen General y regímenes especiales | Título II y art. 10 TRLGSS |
+| Acción protectora | arts. 42 a 44 TRLGSS |
+| Afiliación, altas, bajas y variaciones | TRLGSS y Real Decreto 84/1996 |
+| Nacimiento y cuidado de menor | TRLGSS, en la redacción vigente tras el Real Decreto-ley 9/2025 |
 
-La Seguridad Social no es solo una materia de prestaciones. En la Administración local aparece en nóminas, cotización, contratación de personal, bajas médicas, accidentes de trabajo, jubilaciones, permisos vinculados al nacimiento y cuidado, desempleo de personal laboral temporal y presupuestación del capítulo de personal.
+El **Real Decreto 84/1996** regula la inscripción de empresas y la afiliación, altas, bajas y variaciones de datos. La Constitución aporta el marco del artículo 41: los poderes públicos deben mantener un régimen público de Seguridad Social para todos los ciudadanos que garantice asistencia y prestaciones sociales suficientes ante situaciones de necesidad.
 
-## Campo de aplicación
+> **Para recordar:** el título se puede resumir en tres preguntas: **campo de aplicación → estructura → acción protectora**. Las altas, bajas y la referencia al empleo local ayudan a aplicar el tema, pero no lo convierten en un tema de nóminas.
 
-Estan incluidos en el sistema los españoles que residan en España y los extranjeros que residan o se encuentren legalmente en España, siempre que ejerzan actividad incluida o cumplan requisitos de modalidad no contributiva.
+## 2. Concepto, principios y niveles de protección
 
-La modalidad contributiva protege a quienes realizan actividad profesional y cotizan. La modalidad no contributiva protege situaciones de necesidad de personas que carecen de recursos suficientes, aunque no hayan cotizado lo necesario.
+La Seguridad Social es el sistema público que ordena la protección frente a contingencias y situaciones de necesidad mediante prestaciones y servicios. No se confunde con una compañía aseguradora ni con una sola prestación económica.
 
-En el ámbito de empleados públicos, muchos trabajadores y funcionarios de nuevo ingreso se integran en el Régimen General de la Seguridad Social, sin perjuicio de mutualismos administrativos para determinados colectivos historicos.
+Sus ideas estructurales son:
 
-En las entidades locales, la Corporación actúa como empleador a efectos de Seguridad Social: comunica altas, bajas y variaciones, ingresa cotizaciones y cumple las obligaciones empresariales de encuadramiento. El personal laboral municipal y buena parte del personal funcionario quedan en el Régimen General, salvo colectivos con mutualismo administrativo o derechos pasivos históricos.
+- **Universalidad:** vocación de protección de la ciudadanía, con modalidades y requisitos distintos.
+- **Unidad:** existe un sistema integrado, aunque se organice en regímenes y entidades diferentes.
+- **Solidaridad:** los recursos del sistema permiten atender a quienes sufren la contingencia protegida.
+- **Igualdad:** no deben producirse discriminaciones injustificadas en la protección.
+- **Suficiencia:** las prestaciones han de responder adecuadamente a la necesidad protegida.
+- **Gestión pública:** la dirección y tutela corresponden a los poderes públicos, sin excluir las formas legales de colaboración.
 
-| Modalidad | A quien protege | Financiación/requisito básico |
+### 2.1 Modalidad contributiva y no contributiva
+
+| Modalidad | Idea principal | Requisito que suele dominar |
 | --- | --- | --- |
-| Contributiva | Personas que realizan actividad y cotizan. | Afiliación, alta o situación asimilada y períodos de cotización cuando se exijan. |
-| No contributiva | Personas en situación de necesidad sin cotización suficiente. | Residencia, carencia de rentas y requisitos específicos. |
+| Contributiva | Protege a personas vinculadas por una actividad profesional y a sus beneficiarios. | Afiliación, alta o situación asimilada y cotización cuando la prestación la exige. |
+| No contributiva | Atiende situaciones de necesidad aunque no exista cotización suficiente. | Residencia, carencia de rentas y los requisitos propios de cada prestación. |
 
-La distinción es importante porque muchas prestaciones exigen cotización previa, mientras que otras se reconocen por necesidad. En personal municipal, la modalidad habitual será contributiva, ya que existe relación de servicio o laboral y obligación de cotizar.
+La modalidad no contributiva no significa que se conceda automáticamente a cualquier persona sin cotización: exige acreditar la situación de necesidad y los demás requisitos legales. Del mismo modo, estar de alta no garantiza por sí solo toda prestación contributiva, pues pueden exigirse periodos de carencia y demás condiciones.
 
-## Estructura del sistema
+## 3. Campo de aplicación
 
-El sistema se estructura en <mark>régimen general y regimenes especiales</mark>. El Régimen General es el núcleo principal e incluye trabajadores por cuenta ajena y asimilados. Los regimenes especiales atienden actividades con peculiaridades: trabajadores autonomos, trabajadores del mar, mineria del carbon u otros que subsistan.
+El **campo de aplicación** delimita las personas incluidas en el sistema y las relaciones que generan protección. El TRLGSS distingue la extensión subjetiva del sistema y la inclusión concreta en uno de sus regímenes.
 
-La gestión corresponde a entidades gestoras como el Instituto Nacional de la Seguridad Social, el Instituto Social de la Marina en su ámbito, y servicios comunes como la Tesorería General de la Seguridad Social. Las mutuas colaboradoras participan en contingencias profesionales, incapacidad temporal y otras prestaciones en los términos legales.
+### 3.1 Inclusión y encuadramiento
 
-| Entidad u organismo | Función principal |
+Quedan comprendidas en la modalidad contributiva las personas que realizan actividades profesionales incluidas legalmente, por cuenta ajena o por cuenta propia, así como los colectivos asimilados. La modalidad no contributiva se dirige a quienes, encontrándose en la situación protegida, reúnen los requisitos de residencia y recursos previstos para cada prestación.
+
+La inclusión no depende de que el empleador denomine de una forma u otra la relación: se atiende a la actividad y a la norma aplicable. En el empleo público hay que separar:
+
+1. **Personal laboral:** se encuadra, con carácter general, en el Régimen General.
+2. **Funcionariado local:** el personal funcionario de nuevo ingreso queda, con carácter general, en el Régimen General, sin trasladar automáticamente a las entidades locales el mutualismo de funcionarios civiles del Estado.
+3. **Colectivos con normativa específica o histórica:** pueden existir mutualismos o regímenes de protección diferenciados; no deben generalizarse al Ayuntamiento.
+
+> **Error típico de test:** decir que todo empleado público pertenece a MUFACE es incorrecto. MUFACE se refiere al mutualismo administrativo de los funcionarios civiles del Estado incluidos en su ámbito; no es el régimen ordinario de todo el personal laboral ni de todo el personal local.
+
+### 3.2 La entidad local como empleadora
+
+El Ayuntamiento, cuando actúa como empleador, debe cumplir las obligaciones de encuadramiento y cotización que correspondan. Entre las actuaciones habituales se encuentran la inscripción como empresa, la afiliación cuando proceda, la comunicación de altas, bajas y variaciones, la liquidación e ingreso de cuotas y la colaboración en la gestión de determinadas prestaciones.
+
+Estas obligaciones no sustituyen la competencia de la Tesorería General de la Seguridad Social (TGSS) ni convierten al Ayuntamiento en entidad gestora. Recursos humanos puede tramitar el alta; la TGSS mantiene las funciones propias de afiliación, cotización y recaudación.
+
+## 4. Estructura del sistema
+
+### 4.1 Regímenes
+
+El sistema se organiza en un **Régimen General** y en los **regímenes especiales** que la ley establece para actividades con características propias. El Régimen General es el encuadramiento ordinario del trabajo por cuenta ajena y de los colectivos asimilados; no significa que todas las personas protegidas tengan idénticas prestaciones o requisitos.
+
+Entre los regímenes especiales legalmente previstos se encuentra el de trabajadores por cuenta propia o autónomos y otros ligados a actividades específicas, como el de trabajadores del mar. La existencia de un régimen especial no crea una Administración independiente de la Seguridad Social: sigue formando parte del sistema.
+
+### 4.2 Entidades gestoras, servicios comunes y colaboración
+
+| Figura | Función que debe asociarse en el examen |
 | --- | --- |
-| INSS | Reconocimiento y gestión de muchas prestaciones económicas del sistema. |
-| TGSS | Afiliación, altas, bajas, cotización y recaudación. |
-| Mutuas colaboradoras | Colaboración en contingencias profesionales e incapacidad temporal según cobertura. |
-| Servicio público de salud | Asistencia sanitaria en el ámbito correspondiente. |
-| SEPE | Prestaciones por desempleo en coordinación con Seguridad Social. |
+| **INSS** | Gestión y reconocimiento de numerosas prestaciones económicas del sistema, salvo las atribuidas a otra entidad. |
+| **ISM** | Gestión del régimen especial de trabajadores del mar y protección de su ámbito específico. |
+| **TGSS** | Caja única; inscripción, afiliación, altas, bajas, cotización y recaudación en los términos legales. |
+| **Mutuas colaboradoras** | Colaboran en la gestión de contingencias profesionales y de otras prestaciones cuando la normativa y la cobertura lo permiten. |
+| **SEPE** | Gestión de la protección por desempleo, que debe distinguirse de las entidades gestoras del sistema de Seguridad Social. |
 
-La estructura del sistema combina tres planos: régimen de encuadramiento, entidades que gestionan prestaciones y servicios comunes que gestionan actos instrumentales. En un expediente de personal no es lo mismo comunicar un alta a la Tesorería General que tramitar una prestación ante el INSS o gestionar una baja por contingencia profesional con una mutua.
+La **entidad gestora** no es lo mismo que el **servicio común**. La TGSS no es una mutua ni una entidad privada: es un servicio común del sistema. La mutua colabora, pero no decide libremente el campo de aplicación ni sustituye a la TGSS.
 
-| Plano | Pregunta que resuelve |
+### 4.3 Diferencias que suelen preguntarse
+
+| Si el supuesto habla de… | La referencia principal es… |
 | --- | --- |
-| Régimen | En qué bloque del sistema queda encuadrada la persona. |
-| Entidad gestora | Quién reconoce o gestiona la prestación. |
-| Servicio común | Quién tramita afiliación, cotización o recaudación. |
-| Mutua colaboradora | Quién colabora en contingencias profesionales o IT según cobertura. |
+| Afiliación, alta, baja, variación o cuotas | TGSS |
+| Reconocimiento de una pensión o prestación económica | INSS, salvo atribución específica |
+| Accidente de trabajo o contingencia profesional cubierta | Mutua colaboradora o entidad competente |
+| Desempleo | SEPE |
+| Funcionarios civiles del Estado mutualistas | MUFACE, dentro de su propio ámbito |
 
-En la gestión cotidiana, recursos humanos suele relacionarse con el sistema RED, partes de incapacidad temporal, liquidaciones de seguros sociales, variaciones de datos, certificados de empresa, jubilaciones y comunicación de accidentes.
+## 5. Inscripción, afiliación, altas, bajas y cotización
 
-## Afiliación, altas, bajas y cotización
+No deben confundirse estos actos:
 
-La <mark>afiliación</mark> incorpora por primera vez al sistema. El <mark>alta</mark> situa al trabajador en un régimen concreto por inicio de actividad. La <mark>baja</mark> refleja cese. La <mark>cotización</mark> financia prestaciones y es obligatoria para empresarios y trabajadores en los términos legales.
-
-En una Administración local, recursos humanos debe tramitar altas, bajas, variaciones, cotizaciones, partes de incapacidad, accidentes de trabajo y relaciones con Seguridad Social.
-
-| Acto | Momento | Importancia |
+| Acto | Definición | Regla de examen |
 | --- | --- | --- |
-| Afiliación | Primera incorporación al sistema. | Asigna número de Seguridad Social. |
-| Alta | Inicio de actividad incluida. | Activa protección y obligación de cotizar. |
-| Baja | Cese de actividad. | Finaliza obligación ordinaria de cotizar por ese vinculo. |
-| Variación de datos | Cambio de contrato, jornada, grupo u otros datos. | Evita errores de cotización y prestaciones. |
-| Cotización | Durante la relación protegida. | Financia prestaciones y determina bases reguladoras. |
+| Inscripción de empresa | Identifica al empresario ante la Seguridad Social. | Corresponde al empleador antes del inicio de actividad empresarial. |
+| <mark>Afiliación</mark> | Incorpora por primera vez a una persona al sistema. | Es única y vitalicia, aunque cambie de trabajo o régimen. |
+| <mark>Alta</mark> | Sitúa a la persona en un régimen por el inicio de una actividad. | Puede haber altas sucesivas durante la vida laboral. |
+| Baja | Comunica el cese de la actividad que determinaba el encuadramiento. | No equivale a perder la afiliación al sistema. |
+| Variación de datos | Actualiza datos relevantes de la relación o del encuadramiento. | Regla general: tres días naturales desde la variación. |
+| Cotización | Aporta recursos al sistema y puede determinar la cuantía de prestaciones. | Es obligatoria cuando existe relación incluida y alcanza a empresa y trabajador según la ley. |
 
-Un error de alta, grupo de cotización o base puede afectar a prestaciones futuras. Por eso los trámites de personal no son meramente mecanicos: tienen consecuencias económicas para la persona empleada y para la Administración.
+En el Régimen General, la solicitud de alta debe presentarse **antes del comienzo** de la prestación de servicios. Las solicitudes de baja y las variaciones de datos se presentan, como regla general, dentro de los **tres días naturales** siguientes al cese o al hecho que produce la variación. Son plazos de Seguridad Social: no deben sustituirse por días hábiles de la Ley 39/2015.
 
-La baja en Seguridad Social debe comunicarse dentro del plazo reglamentario, que con carácter general es de <mark>tres días naturales</mark> desde el cese. Las altas deben tramitarse antes del inicio de la prestación de servicios, porque son presupuesto de protección y cotización correcta.
+La cotización se articula sobre bases y tipos fijados por la normativa aplicable. Para este tema interesa comprender su función, no memorizar tipos anuales que pueden cambiar: financia la acción protectora y sirve de referencia para numerosas prestaciones.
 
-## Acción protectora
+## 6. Acción protectora
 
-La acción protectora comprende <mark>asistencia sanitaria, incapacidad temporal, nacimiento y cuidado de menor, riesgo durante embarazo y lactancia, incapacidad permanente, jubilación, muerte y supervivencia, prestaciones familiares, desempleo</mark> cuando proceda, cese de actividad en autonomos y servicios sociales complementarios.
+La <mark>acción protectora</mark> comprende el conjunto de prestaciones y servicios destinados a prevenir, reparar o superar las situaciones protegidas. El artículo 42 TRLGSS incluye, entre otras, la asistencia sanitaria, la recuperación profesional, las prestaciones económicas y los servicios sociales.
 
-Las prestaciones pueden ser contributivas o no contributivas, económicas o en especie, temporales o vitalicias. Su reconocimiento exige requisitos de afiliación, alta, cotización, situación protegida y solicitud, según cada caso.
+Dentro de las prestaciones económicas y situaciones más relevantes se encuentran:
 
-| Prestación o protección | Situación protegida |
-| --- | --- |
-| Asistencia sanitaria | Necesidad de atención medica en términos legales. |
-| Incapacidad temporal | Imposibilidad temporal de trabajar por enfermedad o accidente. |
-| Nacimiento y cuidado de menor | Suspensión por nacimiento, adopción, guarda o acogimiento. |
-| Riesgo durante embarazo o lactancia | Puesto incompatible con salud de trabajadora, feto o lactante. |
-| Incapacidad permanente | Reducción o anulación permanente de capacidad laboral. |
-| Jubilación | Cese por edad y requisitos de cotización. |
-| Muerte y supervivencia | Protección de familiares ante fallecimiento. |
-| Desempleo | Perdida de empleo en personas protegidas que cumplen requisitos. |
+- incapacidad temporal;
+- nacimiento y cuidado de menor, y corresponsabilidad en el cuidado del lactante en los términos legales;
+- riesgo durante el embarazo y riesgo durante la lactancia natural;
+- incapacidad permanente;
+- jubilación;
+- muerte y supervivencia;
+- desempleo, cuando proceda;
+- protección familiar y servicios sociales complementarios.
 
-La acción protectora está ligada al hecho causante, la base reguladora, el período de carencia cuando proceda y la contingencia. Estos conceptos ayudan a entender por que dos personas con bajas o jubilaciones aparentemente parecidas pueden tener prestaciones diferentes.
-
-| Concepto | Significado |
-| --- | --- |
-| Hecho causante | Acontecimiento que origina la protección. |
-| Base reguladora | Magnitud económica usada para calcular la prestación. |
-| Carencia | Periodo mínimo de cotización exigido en algunas prestaciones. |
-| Situación de alta o asimilada | Conexión con el sistema exigida para muchas prestaciones. |
-| Contingencia | Origen común o profesional de la situación protegida. |
-
-| Prestación frecuente en test | Dato clave |
-| --- | --- |
-| Asistencia sanitaria | Comprende servicios médicos y farmacéuticos en los términos del sistema aplicable. |
-| Incapacidad temporal | Exige alteración de la salud que impida trabajar y asistencia sanitaria; duración máxima inicial de <mark>365 días</mark>, prorrogable <mark>180 días</mark> si se prevé curación. |
-| Nacimiento y cuidado de menor | En 2026, la duración general es de diecinueve semanas por progenitor; las seis primeras son obligatorias, ininterrumpidas y a jornada completa. |
-| Subsidio por nacimiento y cuidado | Equivale al 100% de la base reguladora correspondiente. |
-| Incapacidad permanente total | Inhabilita para la profesión habitual, aunque puede permitir otra distinta. |
-| Incapacidad permanente parcial | No impide totalmente la profesión habitual; la indemnización ordinaria es a tanto alzado de veinticuatro mensualidades de la base reguladora. |
-
-## Contingencias
-
-Las contingencias pueden ser comunes o profesionales. Las comunes derivan de enfermedad común o accidente no laboral. Las profesionales derivan de accidente de trabajo o enfermedad profesional.
-
-La calificación de contingencia afecta a requisitos, cuantía, responsable, cotización y gestión. En el empleo público local, la prevención de riesgos y la correcta comunicación de accidentes son esenciales.
-
-| Contingencia | Origen | Ejemplo |
+| Tipo de protección | Ejemplo | Rasgo didáctico |
 | --- | --- | --- |
-| Enfermedad común | Patologia no causada por el trabajo. | Gripe, enfermedad ordinaria, proceso no laboral. |
-| Accidente no laboral | Lesión ajena al trabajo. | Caida en actividad privada. |
-| Accidente de trabajo | Lesión sufrida con ocasión o por consecuencia del trabajo. | Accidente durante servicio municipal o desplazamiento protegido si procede. |
-| Enfermedad profesional | Enfermedad causada por actividad incluida en cuadro legal. | Patologia vinculada a exposición laboral reconocida. |
+| Sanitaria o en especie | Asistencia sanitaria | Se presta mediante servicios y atención, no solo mediante dinero. |
+| Económica | Subsidio de incapacidad temporal | Compensa o sustituye rentas conforme a una base y requisitos. |
+| Temporal | Incapacidad temporal | Dura mientras subsiste la situación y dentro de sus límites legales. |
+| Permanente o prolongada | Jubilación o incapacidad permanente | Protege una situación estable, con requisitos propios. |
+| Contributiva | Prestación vinculada a cotizaciones | Puede exigir carencia, alta y hecho causante. |
+| No contributiva | Pensión asistencial | Se basa en necesidad, residencia y carencia de rentas. |
 
-La diferencia tiene efectos en parte de baja, investigación preventiva, recargo de prestaciones si hubiera falta de medidas de seguridad, entidad responsable y cuantía. Por eso debe documentarse bien el accidente, el lugar, la hora, las tareas realizadas y las medidas preventivas.
+### 6.1 Conceptos comunes de las prestaciones
 
-## Mutualismo administrativo y clases pasivas
-
-Aunque el tema parte de la Ley General de la Seguridad Social, en empleo público conviene reconocer los regímenes históricos. MUFACE es un organismo autónomo de la Administración General del Estado que gestiona el mutualismo administrativo de funcionarios civiles del Estado incluidos en su campo de aplicación. Permite, en los términos de su normativa, optar por asistencia sanitaria pública o a través de entidades concertadas.
-
-El régimen de Clases Pasivas protege, con carácter histórico, a funcionarios incluidos antes del <mark>1 de enero de 2011</mark> y a otros colectivos previstos. Desde esa fecha, los funcionarios de nuevo ingreso se integran con carácter general en el Régimen General a efectos de pensiones, salvo excepciones.
-
-| Régimen o figura | Idea para no confundirse |
+| Concepto | Qué significa |
 | --- | --- |
-| Régimen General | Encuadramiento ordinario de trabajadores por cuenta ajena y muchos empleados públicos actuales. |
-| MUFACE | Mutualismo administrativo de funcionarios civiles del Estado incluidos en su ámbito. |
-| Clases Pasivas | Régimen histórico de pensiones de determinados funcionarios, especialmente anteriores a 2011. |
-| Jubilación parcial | En determinados supuestos exige requisitos de edad, cotización y, para personas con discapacidad igual o superior al 33%, periodos mínimos específicos como veinticinco años cotizados. |
+| Contingencia | Riesgo o situación protegida: enfermedad, accidente, vejez, desempleo, etc. |
+| Hecho causante | Acontecimiento que abre el derecho si se cumplen los requisitos. |
+| Base reguladora | Magnitud calculada conforme a la ley para fijar la cuantía. |
+| Carencia | Periodo mínimo de cotización exigido para determinadas prestaciones. |
+| Alta o situación asimilada | Vinculación con el sistema exigida en los casos previstos. |
+| Beneficiario | Persona que reúne las condiciones para recibir la prestación o servicio. |
 
-## Relevancia administrativa
+No todas las prestaciones exigen lo mismo. La pregunta correcta siempre es: **qué contingencia se produce, quién es el beneficiario, qué alta o situación exige la ley y qué carencia o cálculo corresponde**.
 
-La Seguridad Social afecta a nóminas, cotizaciones, permisos, incapacidades, jubilaciones, contratos, recursos humanos y presupuestos. Un administrativo municipal puede intervenir en expedientes de personal, partes de baja, certificados, seguros sociales, vida laboral, jubilación y acción social.
+### 6.2 Contingencias comunes y profesionales
 
-## Relación con recursos humanos municipal
+| Clase | Comprende | Ejemplo |
+| --- | --- | --- |
+| Común | Enfermedad común y accidente no laboral. | Enfermedad sin relación con el trabajo. |
+| Profesional | Accidente de trabajo y enfermedad profesional. | Lesión sufrida por ocasión o consecuencia del trabajo. |
 
-| Trámite municipal | Conexion con Seguridad Social |
+La calificación influye en la gestión, los requisitos, la cotización y la responsabilidad. En un supuesto municipal hay que documentar el lugar, momento, tarea y relación con el servicio; no basta con que el accidente ocurra durante la jornada para resolver cualquier cuestión sin más análisis. La <mark>contingencia profesional</mark> exige conectar el daño con el trabajo conforme a la norma.
+
+### 6.3 Incapacidad temporal
+
+La incapacidad temporal es la situación de la persona trabajadora que está temporalmente impedida para trabajar por enfermedad o accidente y recibe asistencia sanitaria de la Seguridad Social. Su duración máxima general es de **365 días**, prorrogables por **180 días** más cuando se presuma que durante ellos puede producirse el alta por curación.
+
+La IT no debe confundirse con la incapacidad permanente: la primera es temporal y está sujeta a su duración legal; la segunda responde a reducciones o anulaciones previsiblemente definitivas de la capacidad laboral.
+
+### 6.4 Nacimiento y cuidado de menor
+
+Tras la reforma del Real Decreto-ley 9/2025, la suspensión o prestación por nacimiento y cuidado de menor tiene, con carácter general, **19 semanas por progenitor**. Las **seis primeras semanas** son obligatorias, ininterrumpidas y a jornada completa inmediatamente después del nacimiento o de la resolución correspondiente en adopción, guarda o acogimiento; el resto se distribuye en los términos legales. En caso de monoparentalidad, la duración general es de **32 semanas**. <mark>La cifra de 19 semanas sustituye a la antigua regla general de 16.</mark>
+
+La prestación económica se calcula, con carácter general, sobre el **100 % de la base reguladora** correspondiente. La duración, la distribución y las situaciones especiales deben estudiarse con la redacción vigente: no debe conservarse como respuesta general la cifra antigua de 16 semanas.
+
+### 6.5 Incapacidad permanente
+
+En términos didácticos, los grados se diferencian así:
+
+| Grado | Regla básica |
 | --- | --- |
-| Alta de empleado | Comunicación previa o en plazo, encuadramiento y cotización. |
-| Nomina mensual | Bases de cotización, deducciones y aportación empresarial. |
-| Baja medica | Gestión de incapacidad temporal y partes. |
-| Accidente de trabajo | Comunicación, investigación y coordinación con prevención/mutua. |
-| Fin de contrato laboral | Baja, certificado de empresa y posible desempleo. |
-| Jubilación | Verificación de edad, cotización y efectos en plantilla. |
+| Parcial para la profesión habitual | Disminuye el rendimiento sin impedir las tareas fundamentales; la prestación ordinaria es una indemnización a tanto alzado de 24 mensualidades de la base reguladora que sirve para la IT. |
+| Total para la profesión habitual | Impide realizar todas o las fundamentales tareas de esa profesión, pero permite otra distinta. |
+| Absoluta para todo trabajo | Inhabilita por completo para toda profesión u oficio. |
+| Gran incapacidad | La persona necesita asistencia de otra para los actos más esenciales de la vida. |
 
-El objetivo para examen es dominar la estructura: campo de aplicación, regimenes, actos de encuadramiento, cotización, acción protectora y contingencias. Con esa base se pueden resolver preguntas teoricas y supuestos sencillos de personal.
+## 7. Mutualismo administrativo: solo como delimitación
+
+MUFACE y Clases Pasivas no son el centro del tema, pero aparecen como trampa porque el empleo público tiene colectivos distintos.
+
+- **MUFACE** es la Mutualidad General de Funcionarios Civiles del Estado: su ámbito propio son los funcionarios civiles del Estado incluidos en su normativa. La posibilidad de elección de asistencia sanitaria entre red pública y entidades concertadas no convierte a MUFACE en el régimen de todo empleado público.
+- **MUGEJU** e **ISFAS** tienen, respectivamente, sus propios ámbitos en Justicia y Fuerzas Armadas.
+- **Clases Pasivas** es un régimen histórico de pensiones de determinados funcionarios del Estado; el ingreso posterior al 1 de enero de 2011 se encuadra, con carácter general, en el Régimen General a efectos de pensiones, sin que esta fecha convierta a los funcionarios locales en mutualistas de MUFACE.
+
+> **Regla de examen:** para un supuesto del Ayuntamiento de Burgos, parte de la regla del Régimen General y solo cambia de respuesta si el enunciado identifica un colectivo con norma especial.
+
+## 8. Aplicación práctica en el Ayuntamiento de Burgos
+
+Ante la incorporación de una persona a la plantilla municipal, el esquema de actuación es:
+
+1. Identificar la naturaleza de la relación: laboral, funcionarial u otra prevista legalmente.
+2. Determinar el régimen de encuadramiento y comprobar si existe alguna especialidad.
+3. Verificar inscripción de la Corporación y afiliación de la persona si es la primera incorporación.
+4. Tramitar el alta antes del inicio de los servicios y conservar la acreditación.
+5. Actualizar variaciones y comunicar la baja tras el cese dentro del plazo reglamentario.
+6. Liquidar cotizaciones y coordinar, cuando proceda, partes de IT, accidentes, certificados y prestaciones.
+
+| Situación municipal | Consecuencia que debe localizar el opositor |
+| --- | --- |
+| Nuevo nombramiento o contrato | Encuadramiento y alta antes del inicio. |
+| Cambio relevante de datos | Variación dentro del plazo general de tres días naturales. |
+| Cese o fin de contrato | Baja dentro de los tres días naturales siguientes; posible protección por desempleo si procede. |
+| Enfermedad o accidente | Determinar IT y si la contingencia es común o profesional. |
+| Accidente en servicio | Activar comunicación y gestión preventiva/profesional que corresponda. |
+
+## 9. Errores típicos de test
+
+- Confundir **afiliación** (única y vitalicia) con **alta** (vinculada a una actividad concreta).
+- Afirmar que la baja elimina el número de afiliación: la baja solo refleja el cese de la actividad.
+- Aplicar tres días hábiles en lugar de **tres días naturales** para bajas y variaciones.
+- Situar todas las actuaciones en el INSS: afiliación y cotización se asocian principalmente a la TGSS.
+- Confundir entidad gestora con mutua colaboradora.
+- Responder MUFACE para todo el personal público o para todo el Ayuntamiento.
+- Confundir contingencia común con profesional por el mero hecho de que exista una baja.
+- Mantener la cifra antigua de 16 semanas: la regla general vigente es **19 semanas por progenitor**.
+- Confundir IT con incapacidad permanente total: una es temporal; la otra afecta a la profesión habitual con carácter permanente.
+- Confundir modalidad no contributiva con una prestación sin requisitos: también exige residencia, rentas y condiciones específicas.
+
+## 10. Esquema final de repaso
+
+```text
+SEGURIDAD SOCIAL
+├─ Campo de aplicación
+│  ├─ modalidad contributiva / no contributiva
+│  └─ encuadramiento: Régimen General / regímenes especiales
+├─ Estructura
+│  ├─ entidades gestoras: INSS, ISM
+│  ├─ servicio común: TGSS
+│  └─ colaboración: mutuas; desempleo: SEPE
+├─ Actos de encuadramiento
+│  ├─ inscripción de empresa
+│  ├─ afiliación: una vez
+│  ├─ alta: antes del inicio
+│  ├─ baja: tres días naturales desde el cese
+│  └─ variación: tres días naturales
+└─ Acción protectora
+   ├─ sanitaria y servicios sociales
+   ├─ IT: 365 + 180
+   ├─ nacimiento y cuidado: 19 semanas por progenitor
+   ├─ incapacidad permanente
+   ├─ jubilación
+   └─ muerte, supervivencia y desempleo
+```
+
+### Cómo preguntarlo en un supuesto
+
+Si el enunciado habla de una nueva contratación municipal, busca **régimen + alta previa + TGSS**. Si habla de una baja médica, busca **IT + contingencia + duración**. Si habla de nacimiento, busca **19 semanas + seis obligatorias + base reguladora**. Si habla de MUFACE, comprueba primero que el colectivo sea un funcionario civil del Estado y no personal del Ayuntamiento.

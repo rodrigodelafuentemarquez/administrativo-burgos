@@ -74,14 +74,14 @@
     "tema": 26,
     "pregunta": "En Seguridad Social, la prestación por nacimiento y cuidado de menor dura, con carácter general,:",
     "opciones": [
-      "16 semanas por cada progenitor",
+      "19 semanas por cada progenitor",
       "8 semanas por unidad familiar",
       "30 días naturales",
       "18 meses"
     ],
     "correcta": 0,
-    "explicación": "El tema indica 16 semanas para cada progenitor.",
-    "referencia": "III.5 · 5.2 Duración del permiso"
+    "explicación": "Tras el Real Decreto-ley 9/2025, la duración general vigente es de 19 semanas por progenitor.",
+    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor"
   },
   {
     "id": "t30-p009",
@@ -312,5 +312,173 @@
     "tags": [
       "Pregunta real"
     ]
+  },
+  {
+    "id": "burgos-iii05-deep-01",
+    "tema": 26,
+    "pregunta": "¿Qué diferencia correctamente la afiliación del alta en la Seguridad Social?",
+    "opciones": [
+      "La afiliación es única y vitalicia; el alta vincula a una persona con una actividad y régimen concretos.",
+      "La afiliación se solicita en cada empresa y el alta solo se realiza una vez.",
+      "Ambas son exactamente el mismo acto con distinta denominación.",
+      "La afiliación solo existe para trabajadores autónomos."
+    ],
+    "correcta": 0,
+    "explicación": "La afiliación incorpora por primera vez al sistema y permanece; el alta se produce por el inicio de una actividad incluida.",
+    "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización"
+  },
+  {
+    "id": "burgos-iii05-deep-02",
+    "tema": 26,
+    "pregunta": "La comunicación de una baja de una persona trabajadora del Régimen General debe presentarse, como regla general, dentro de:",
+    "opciones": [
+      "los tres días naturales siguientes al cese",
+      "los tres días hábiles siguientes al cese",
+      "los diez días hábiles siguientes al cese",
+      "los veinte días naturales anteriores al cese"
+    ],
+    "correcta": 0,
+    "explicación": "El plazo reglamentario general para la baja y la variación de datos es de tres días naturales.",
+    "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización"
+  },
+  {
+    "id": "burgos-iii05-deep-03",
+    "tema": 26,
+    "pregunta": "¿Qué órgano se relaciona principalmente con la afiliación, las altas, las bajas, la cotización y la recaudación?",
+    "opciones": [
+      "La Tesorería General de la Seguridad Social",
+      "El Instituto Nacional de la Seguridad Social",
+      "El Servicio Público de Empleo Estatal",
+      "Una mutua colaboradora en todo caso"
+    ],
+    "correcta": 0,
+    "explicación": "La TGSS es el servicio común al que se atribuyen esas funciones instrumentales y recaudatorias.",
+    "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración"
+  },
+  {
+    "id": "burgos-iii05-deep-04",
+    "tema": 26,
+    "pregunta": "La acción protectora de la Seguridad Social comprende:",
+    "opciones": [
+      "prestaciones y servicios frente a contingencias y situaciones de necesidad, incluida la asistencia sanitaria en los términos legales",
+      "solo pensiones contributivas",
+      "únicamente ayudas económicas de los ayuntamientos",
+      "exclusivamente la protección de funcionarios"
+    ],
+    "correcta": 0,
+    "explicación": "La acción protectora es más amplia que las pensiones: incluye asistencia sanitaria, prestaciones económicas y servicios sociales, entre otras coberturas.",
+    "referencia": "III.5 · 6. Acción protectora"
+  },
+  {
+    "id": "burgos-iii05-deep-05",
+    "tema": 26,
+    "pregunta": "La duración máxima general de la incapacidad temporal es de:",
+    "opciones": [
+      "365 días, prorrogables por 180 días cuando se presuma el alta por curación",
+      "180 días, prorrogables por 365 días en todo caso",
+      "un año improrrogable",
+      "730 días sin necesidad de control"
+    ],
+    "correcta": 0,
+    "explicación": "La duración general es de 365 días y puede prorrogarse por otros 180 cuando se prevea curación durante ese periodo.",
+    "referencia": "III.5 · 6.3 Incapacidad temporal"
+  },
+  {
+    "id": "burgos-iii05-deep-06",
+    "tema": 26,
+    "pregunta": "En la incapacidad permanente total, la persona queda inhabilitada para:",
+    "opciones": [
+      "todas o las fundamentales tareas de su profesión habitual, pero puede dedicarse a otra distinta",
+      "todo trabajo o profesión sin excepción",
+      "solo una tarea secundaria, manteniendo las fundamentales",
+      "los actos esenciales de la vida, necesariamente"
+    ],
+    "correcta": 0,
+    "explicación": "La incapacidad permanente total se refiere a la profesión habitual; no impide necesariamente otra profesión.",
+    "referencia": "III.5 · 6.5 Incapacidad permanente"
+  },
+  {
+    "id": "burgos-iii05-deep-07",
+    "tema": 26,
+    "pregunta": "Con la regulación vigente, la duración general del nacimiento y cuidado de menor es de:",
+    "opciones": [
+      "19 semanas por progenitor",
+      "16 semanas por unidad familiar",
+      "12 semanas por progenitor",
+      "6 semanas por progenitor"
+    ],
+    "correcta": 0,
+    "explicación": "El Real Decreto-ley 9/2025 amplió la duración general a 19 semanas por progenitor.",
+    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor"
+  },
+  {
+    "id": "burgos-iii05-deep-08",
+    "tema": 26,
+    "pregunta": "En el nacimiento y cuidado de menor, las seis primeras semanas son, con carácter general:",
+    "opciones": [
+      "obligatorias, ininterrumpidas y a jornada completa",
+      "voluntarias y siempre acumulables al final",
+      "un derecho exclusivo de la madre biológica",
+      "sustituibles por una indemnización"
+    ],
+    "correcta": 0,
+    "explicación": "Las seis primeras semanas deben disfrutarse inmediatamente, de forma obligatoria, ininterrumpida y a jornada completa, en los términos legales.",
+    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor"
+  },
+  {
+    "id": "burgos-iii05-deep-09",
+    "tema": 26,
+    "pregunta": "¿Cuál es una diferencia correcta entre modalidad contributiva y no contributiva?",
+    "opciones": [
+      "La contributiva se vincula a actividad y cotización; la no contributiva atiende necesidad y exige sus propios requisitos de residencia y rentas.",
+      "La no contributiva se concede automáticamente a quien nunca haya trabajado.",
+      "La contributiva no exige nunca alta ni cotización.",
+      "Solo existe modalidad no contributiva en el Régimen General."
+    ],
+    "correcta": 0,
+    "explicación": "La diferencia se refiere a la relación profesional y cotización frente a la protección asistencial por necesidad; ninguna modalidad es automática.",
+    "referencia": "III.5 · 2.1 Modalidad contributiva y no contributiva"
+  },
+  {
+    "id": "burgos-iii05-deep-10",
+    "tema": 26,
+    "pregunta": "Una mutua colaboradora de la Seguridad Social:",
+    "opciones": [
+      "colabora en la gestión de determinadas contingencias y prestaciones conforme a la ley y a la cobertura existente",
+      "sustituye siempre a la TGSS en afiliación y recaudación",
+      "determina todos los regímenes de encuadramiento",
+      "es una entidad local que gestiona las nóminas municipales"
+    ],
+    "correcta": 0,
+    "explicación": "La mutua colabora en ámbitos legalmente previstos, especialmente contingencias profesionales, pero no asume todas las funciones del sistema.",
+    "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración"
+  },
+  {
+    "id": "burgos-iii05-deep-11",
+    "tema": 26,
+    "pregunta": "Ante un nuevo contrato del Ayuntamiento de Burgos, la actuación correcta es:",
+    "opciones": [
+      "determinar el encuadramiento y tramitar el alta antes del inicio de la prestación de servicios",
+      "esperar a la primera nómina para solicitar el alta",
+      "tramitar siempre la afiliación aunque la persona ya esté afiliada",
+      "comunicarlo únicamente al SEPE"
+    ],
+    "correcta": 0,
+    "explicación": "El alta se vincula al inicio de la actividad y debe solicitarse antes; la afiliación solo se realiza por primera incorporación al sistema.",
+    "referencia": "III.5 · 8. Aplicación práctica en el Ayuntamiento de Burgos"
+  },
+  {
+    "id": "burgos-iii05-deep-12",
+    "tema": 26,
+    "pregunta": "¿Qué afirmación sobre MUFACE es correcta?",
+    "opciones": [
+      "Es la mutualidad de los funcionarios civiles del Estado incluidos en su ámbito, no el régimen de todo empleado público local.",
+      "Es el régimen obligatorio de todo el personal de los ayuntamientos.",
+      "Es el servicio común encargado de recaudar todas las cotizaciones.",
+      "Es la entidad gestora de todas las pensiones del Régimen General."
+    ],
+    "correcta": 0,
+    "explicación": "MUFACE tiene un ámbito subjetivo propio: no debe generalizarse al personal laboral ni al funcionariado local.",
+    "referencia": "III.5 · 7. Mutualismo administrativo"
   }
 ]
