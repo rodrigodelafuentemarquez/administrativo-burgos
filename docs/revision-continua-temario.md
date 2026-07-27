@@ -10,7 +10,7 @@
 - **Revisión de subrayados:** se revisó `src/utils/rehypeStudyHighlights.mjs` antes de editar. Se retiró el marcado manual del borrador porque las normas, artículos, órganos, plazos y conceptos nucleares ya quedan cubiertos por el motor automático; el nuevo texto no necesita marcas manuales adicionales. No se modificó el motor común y se comprobó que no hay marcas mal cerradas ni párrafos enteros resaltados.
 - **Tests añadidos/cambiados:** se corrigió la clave duplicada de explicación en `t14-p013` y se añadieron 10 preguntas (`burgos-ii05-deep-01` a `burgos-ii05-deep-10`) sobre desconcentración/descentralización, quórum, orden del día, efectos y límites de la delegación, avocación, encomienda, delegación de firma, duración de convenios y recusación. El banco queda en 38 preguntas, sin identificadores duplicados, con una única respuesta correcta y explicaciones jurídicas útiles; se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`, validación Node de 38 preguntas, unicidad y pertenencia al tema, `git diff --check` y `npm run build` correctos (101 páginas).
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `724e966` (`mejora profunda tema II.5 régimen jurídico del sector público`), subido a `origin/main`.
 - **Siguiente tema sugerido:** II.6, responsabilidad patrimonial; separar sus presupuestos, daños resarcibles, procedimiento y responsabilidad de autoridades del régimen general de competencias de II.5.
 
 ## 27 de julio de 2026, 11:42 (Europe/Madrid)
