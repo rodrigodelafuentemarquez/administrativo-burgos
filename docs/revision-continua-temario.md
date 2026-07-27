@@ -11,7 +11,7 @@
 - **Tests añadidos/cambiados:** se corrigió `t23-p025-funcionario-carrera` para incluir nombramiento publicado y acatamiento; se añadieron 12 preguntas `burgos-iii02-deep-01` a `burgos-iii02-deep-12` sobre artículo 62, renuncia, inhabilitación, rehabilitación, listado del artículo 85, movilidad interadministrativa, interés particular, segundo grado, tres años, reserva de dos años, violencia y suspensión. El banco pasa de 28 a 40 preguntas; se actualizó el índice y se sincronizó la copia pública.
 - **Verificación ejecutada:** `npm run prepare:data`; validación Node de 40 preguntas, IDs únicos, pertenencia al tema, opciones válidas, respuestas dentro de rango, explicaciones y equivalencia editable/público; comprobación de 3 pares `<mark>`; `git diff --check`; `npm run build` correcto (101 páginas). La primera validación local exigía erróneamente cuatro opciones y se corrigió para aceptar el formato existente de tres o cuatro opciones; el banco real quedó validado sin incidencias.
 - **Fuentes oficiales consultadas:** [TREBEP consolidado en BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11719&p=20250730&tn=0), artículos 62-68 y 85-92.
-- **Commit realizado:** pendiente de commit y push en esta ejecución.
+- **Commit realizado:** `74cd17d` (`mejora profunda tema III.2 situaciones funcionario`), subido a `origin/main`.
 - **Siguiente tema sugerido:** III.3, personal laboral al servicio de las Administraciones Públicas: selección, derechos, deberes e incompatibilidades; separar régimen laboral, selección pública y personal funcionario ya tratados aquí.
 
 ## 27 de julio de 2026, 13:02 (Europe/Madrid)
