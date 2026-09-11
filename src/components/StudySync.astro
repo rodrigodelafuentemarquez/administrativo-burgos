@@ -10,6 +10,11 @@
   const ACCESS_KEY = 'oposicion-access-ok-v1';
   const DEVICE_KEY = 'oposicion-device-id-v1';
   const META_KEY = 'oposicion-sync-meta-v1';
+  const LAST_PULL_KEY = 'oposicion-sync-last-pull-v1';
+  // La sincronización es de respaldo entre dispositivos, no una operación crítica
+  // de cada pulsación. Así evitamos agotar el presupuesto de I/O de Postgres.
+  const SYNC_DEBOUNCE_MS = 15_000;
+  const PULL_INTERVAL_MS = 5 * 60_000;
   const TRACKED_KEYS = [
     'oposicion-stats-v3',
     'oposicion-fallos-v3',
@@ -23,6 +28,8 @@
     const nativeGetItem = localStorage.getItem.bind(localStorage);
     let syncTimer = 0;
     let applyingRemote = false;
+    let syncInFlight = false;
+    let dirtyVersion = 0;
 
     const getDeviceId = () => {
       const current = nativeGetItem(DEVICE_KEY);
@@ -45,6 +52,7 @@
     const writeMeta = (meta) => nativeSetItem(META_KEY, JSON.stringify(meta));
     const markKeyChanged = (key) => {
       if (!TRACKED_KEYS.includes(key)) return;
+      dirtyVersion += 1;
       const meta = readMeta();
       meta[key] = { updatedAt: Date.now(), deviceId };
       writeMeta(meta);
@@ -145,7 +153,6 @@
       return localValue ?? remoteValue ?? null;
     };
     const mergeStates = (remoteState, localState) => {
-      const now = Date.now();
       const remote = remoteState?.keys ?? {};
       const local = localState?.keys ?? {};
       return {
@@ -156,12 +163,26 @@
           const value = mergeValues(key, remoteEntry.value, localEntry.value);
           return [key, {
             value,
-            updatedAt: Math.max(Number(remoteEntry.updatedAt) || 0, Number(localEntry.updatedAt) || 0, value == null ? 0 : now),
+            updatedAt: Math.max(Number(remoteEntry.updatedAt) || 0, Number(localEntry.updatedAt) || 0),
             deviceId: Number(localEntry.updatedAt) >= Number(remoteEntry.updatedAt) ? deviceId : remoteEntry.deviceId,
           }];
         })),
       };
     };
+
+    // jsonb no garantiza el orden de las propiedades al volver de Postgres.
+    // Comparamos una representación estable para no convertir esa diferencia
+    // irrelevante en otro upsert.
+    const serializeState = (state) => {
+      if (Array.isArray(state)) return `[${state.map(serializeState).join(',')}]`;
+      if (state && typeof state === 'object') {
+        return `{${Object.keys(state).sort().map((key) => `${JSON.stringify(key)}:${serializeState(state[key])}`).join(',')}}`;
+      }
+      return JSON.stringify(state ?? null);
+    };
+    const hasSavedValue = (state) => Object.values(state?.keys ?? {}).some((entry) => entry?.value != null);
+    const readLastPull = () => Number(sessionStorage.getItem(LAST_PULL_KEY) ?? 0) || 0;
+    const markPulled = () => sessionStorage.setItem(LAST_PULL_KEY, String(Date.now()));
 
     const headers = {
       apikey: SYNC_CONFIG.key,
@@ -175,11 +196,12 @@
       const rows = await response.json();
       return rows[0]?.state ?? null;
     };
-    const pushRemote = async (state) => {
+    const pushRemote = async (state, keepalive = false) => {
       const endpoint = `${SYNC_CONFIG.url}/rest/v1/${SYNC_CONFIG.table}`;
       const response = await fetch(endpoint, {
         method: 'POST',
         headers: { ...headers, Prefer: 'resolution=merge-duplicates,return=minimal' },
+        keepalive,
         body: JSON.stringify({
           id: SYNC_CONFIG.rowId,
           state,
@@ -188,21 +210,39 @@
       });
       if (!response.ok) throw new Error(`sync push ${response.status}`);
     };
-    const syncNow = async () => {
+    const syncNow = async ({ forcePull = false, keepalive = false } = {}) => {
       if (nativeGetItem(ACCESS_KEY) !== '1') return;
+      if (syncInFlight) return;
+      const shouldPull = forcePull || Date.now() - readLastPull() >= PULL_INTERVAL_MS;
+      if (!shouldPull && dirtyVersion === 0) return;
+
+      syncInFlight = true;
+      const versionAtStart = dirtyVersion;
       try {
-        const remoteState = await pullRemote();
         const localState = readLocalState();
-        const merged = mergeStates(remoteState, localState);
-        applyState(merged);
-        await pushRemote(merged);
+        if (!hasSavedValue(localState) && !shouldPull) return;
+
+        if (shouldPull) {
+          const remoteState = await pullRemote();
+          markPulled();
+          const merged = mergeStates(remoteState, localState);
+          applyState(merged);
+          if (serializeState(remoteState) !== serializeState(merged) && hasSavedValue(merged)) {
+            await pushRemote(merged, keepalive);
+          }
+        } else {
+          await pushRemote(localState, keepalive);
+        }
+        if (dirtyVersion === versionAtStart) dirtyVersion = 0;
       } catch (error) {
         console.warn('No se pudo sincronizar el progreso.', error);
+      } finally {
+        syncInFlight = false;
       }
     };
     const scheduleSync = () => {
       window.clearTimeout(syncTimer);
-      syncTimer = window.setTimeout(syncNow, 900);
+      syncTimer = window.setTimeout(syncNow, SYNC_DEBOUNCE_MS);
     };
 
     localStorage.setItem = (key, value) => {
@@ -220,12 +260,16 @@
       }
     };
 
-    window.addEventListener('study-access-granted', syncNow);
-    window.addEventListener('pageshow', syncNow);
+    window.addEventListener('study-access-granted', () => syncNow({ forcePull: true }));
     document.addEventListener('visibilitychange', () => {
-      if (document.visibilityState === 'visible') syncNow();
+      if (document.visibilityState === 'hidden' && dirtyVersion > 0) syncNow({ keepalive: true });
+    });
+    window.addEventListener('pagehide', () => {
+      if (dirtyVersion > 0) syncNow({ keepalive: true });
     });
     window.__studySync = { syncNow };
+    // Solo se consulta al entrar una vez por sesión (o cada cinco minutos), no
+    // en cada navegación interna.
     syncNow();
   }
 </script>
