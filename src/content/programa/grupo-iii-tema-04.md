@@ -23,10 +23,12 @@ La idea que las conecta es el equilibrio entre los derechos colectivos de quiene
 | Libertad sindical | Constitución, arts. 7 y 28.1; **Ley Orgánica 11/1985, de Libertad Sindical (LOLS)** | Titularidad, facultades, excepciones, actividad sindical y tutela |
 | Empleo público | TREBEP, arts. 15 y 31 a 46 | Derechos colectivos, negociación, representación y reunión |
 | Huelga | Constitución, art. 28.2; **Real Decreto-ley 17/1977**, arts. 3 a 10, interpretado conforme a la jurisprudencia constitucional | Convocatoria, comité, servicios esenciales, efectos y huelga ilegal |
-| Incompatibilidades | **Ley 53/1984**, de 26 de diciembre, y Real Decreto 598/1985 | Ámbito, segunda actividad pública, actividad privada, autorización y excepciones |
+| Incompatibilidades | **Ley 53/1984**, de 26 de diciembre; normativa autonómica y local aplicable | Ámbito, segunda actividad pública, actividad privada, autorización y excepciones |
 | Administración local | TREBEP, legislación laboral y régimen local aplicable | Aplicación al Ayuntamiento y órgano competente en compatibilidades |
 
 > **Para recordar:** LOLS = sindicación; artículo 28.2 CE y RDL 17/1977 = huelga; Ley 53/1984 = incompatibilidades. No se debe atribuir toda la regulación de la huelga al TREBEP.
+
+> **Precisión local:** el Real Decreto 598/1985 desarrolla la Ley 53/1984 para determinados ámbitos estatales, pero su artículo 1 excluye a quien desempeña como actividad principal un puesto en una comunidad autónoma o corporación local. Para el Ayuntamiento de Burgos no debe estudiarse como reglamento general directamente aplicable sin comprobar la normativa autonómica y local correspondiente.
 
 ## 3. Derecho de sindicación
 

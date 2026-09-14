@@ -45,6 +45,16 @@ const S = {
     url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1986-33252',
     tag: 'BOE',
   },
+  rbel: {
+    label: 'Real Decreto 1372/1986, Reglamento de Bienes de las Entidades Locales',
+    url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1986-17958',
+    tag: 'BOE',
+  },
+  seleccionLocal: {
+    label: 'Real Decreto 896/1991, selección de funcionarios de Administración Local',
+    url: 'https://www.boe.es/buscar/act.php?id=BOE-A-1991-15126',
+    tag: 'BOE',
+  },
   rofBurgos: {
     label: 'ROF del Ayuntamiento de Burgos',
     url: 'https://programaseducativos.aytoburgos.es/en/web/ayuntamiento-de-burgos/-/reglamento-organico-y-de-funcionamiento-del-ayuntamiento-rof-',
@@ -246,14 +256,14 @@ export const normativeSourcesBySlug: Record<string, NormativeSource[]> = {
   'grupo-ii-tema-06': [S.ce, S.ley39, S.ley40],
   'grupo-ii-tema-07': [S.lcsp, S.lrbrl, S.trlh],
   'grupo-ii-tema-08': [S.ley39, S.ley40, S.lrbrl],
-  'grupo-ii-tema-09': [S.lrbrl, S.trrl, S.rof],
+  'grupo-ii-tema-09': [S.lrbrl, S.trrl, S.rbel],
   'grupo-ii-tema-10': [S.ce, S.lrbrl, S.lcsp, S.ley40],
   'grupo-ii-tema-11': [S.lrbrl, S.rof, S.rofBurgos],
   'grupo-ii-tema-12': [S.lrbrl, S.ley39, S.trlh, S.rofBurgos],
 
-  'grupo-iii-tema-01': [S.ebep, S.lrbrl, S.trrl, S.et],
+  'grupo-iii-tema-01': [S.ebep, S.lrbrl, S.trrl, S.seleccionLocal, S.et],
   'grupo-iii-tema-02': [S.ebep, S.lrbrl],
-  'grupo-iii-tema-03': [S.ebep, S.et, S.incompatibilidades],
+  'grupo-iii-tema-03': [S.ebep, S.et, S.lrbrl, S.seleccionLocal, S.incompatibilidades],
   'grupo-iii-tema-04': [S.ce, S.libertadSindical, S.incompatibilidades, S.ebep],
   'grupo-iii-tema-05': [S.lgss, S.ebep],
 
