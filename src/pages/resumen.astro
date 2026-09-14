@@ -1,0 +1,109 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { groupSummaries } from '../data/groupSummaries';
+
+const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
+const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${group.toLowerCase()}-tema-${String(topic).padStart(2, '0')}`;
+---
+
+<Layout title="Resumen completo del temario">
+  <div class="bd-intro ps-lg-2 summary-intro">
+    <span class="test-kicker">Primero entender, después memorizar</span>
+    <h1 class="bd-title">Resumen completo por grupos</h1>
+    <p class="bd-subtitle mb-0">Una explicación extensa y conectada de todo el programa de Administrativo del Ayuntamiento de Burgos, con leyes, fechas, ejemplos y claves de test.</p>
+  </div>
+
+  <section class="bd-content ps-lg-2 summary-page">
+    <div class="bd-callout summary-callout">
+      <strong>Cómo usar este resumen</strong>
+      <p class="mb-0 mt-2">Lee primero el mapa y la historia de un grupo. Después abre sus temas uno por uno. No intentes memorizar todas las cifras en la primera lectura: entiende qué problema resuelve cada tema y usa las claves como segunda vuelta.</p>
+    </div>
+
+    <nav class="summary-index" aria-label="Índice de grupos">
+      {groupSummaries.map((group) => <a href={`#${group.id}`}><span>{group.numeral}</span>{group.title}</a>)}
+    </nav>
+
+    {groupSummaries.map((group, groupIndex) => (
+      <section class="official-group summary-group" id={group.id}>
+        <div class="official-group-heading">
+          <div>
+            <span class="summary-group__eyebrow">Grupo {group.numeral}</span>
+            <h2>{group.title}<a class="anchor-link" aria-label="Enlace a este grupo" href={`#${group.id}`}></a></h2>
+            <p class="summary-question">{group.question}</p>
+          </div>
+          <span class="badge text-bg-secondary">{group.topics.length} temas</span>
+        </div>
+
+        <div class="summary-lead">
+          {group.overview.map((paragraph) => <p>{paragraph}</p>)}
+          <p class="summary-route"><strong>El recorrido:</strong> {group.route}</p>
+        </div>
+
+        <details class="summary-laws" open={groupIndex === 1}>
+          <summary>Leyes y fechas que sostienen el grupo</summary>
+          <div class="table-responsive">
+            <table class="table align-middle mb-0">
+              <thead><tr><th>Norma</th><th>Fecha</th><th>Para qué sirve aquí</th></tr></thead>
+              <tbody>{group.laws.map((law) => <tr><td><strong>{law.name}</strong></td><td>{law.date}</td><td>{law.role}</td></tr>)}</tbody>
+            </table>
+          </div>
+        </details>
+
+        <div class="summary-topic-list">
+          {group.topics.map((topic, topicIndex) => (
+            <details class="summary-topic" open={groupIndex === 1 && topicIndex === 1}>
+              <summary>
+                <span class="summary-topic__number">{group.numeral}.{topic.number}</span>
+                <span>{topic.title}</span>
+              </summary>
+              <div class="summary-topic__body">
+                <p>{topic.explanation}</p>
+                <div class="summary-example"><strong>Ejemplo:</strong> {topic.example}</div>
+                <div class="summary-keys">
+                  <strong>Qué debes retener</strong>
+                  <ul>{topic.keys.map((key) => <li>{key}</li>)}</ul>
+                </div>
+                <a class="btn btn-sm btn-outline-primary" href={topicUrl(group.numeral, topic.number)}>Abrir tema completo {group.numeral}.{topic.number}</a>
+              </div>
+            </details>
+          ))}
+        </div>
+
+        <div class="summary-ending">
+          <p><strong>Ejemplo que conecta el grupo:</strong> {group.finalExample}</p>
+          <p class="mb-0"><strong>Frase para memorizar:</strong> {group.memory}</p>
+        </div>
+      </section>
+    ))}
+  </section>
+
+  <style>
+    .summary-intro { max-width: 66rem; }
+    .summary-page { padding-bottom: 3rem; }
+    .summary-callout { border-left-color: var(--bs-info); }
+    .summary-index { display: grid; gap: .65rem; margin: 1.5rem 0 2.5rem; }
+    .summary-index a { display: grid; grid-template-columns: 2rem minmax(0,1fr); gap: .75rem; align-items: center; padding: .8rem 1rem; color: var(--bs-body-color); text-decoration: none; background: var(--bs-tertiary-bg); border: 1px solid var(--bs-border-color); border-radius: .75rem; }
+    .summary-index a:hover { border-color: var(--bd-accent); }
+    .summary-index span { display: grid; width: 2rem; height: 2rem; place-items: center; color: #fff; font-weight: 800; background: var(--bd-accent); border-radius: 50%; }
+    .summary-group { scroll-margin-top: 5rem; }
+    .summary-group__eyebrow { color: var(--bd-accent); font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
+    .summary-question { max-width: 62rem; font-size: 1.05rem; }
+    .summary-lead { max-width: 68rem; font-size: 1.02rem; line-height: 1.75; }
+    .summary-route { padding: .85rem 1rem; background: rgba(var(--bd-violet-rgb), .12); border-radius: .65rem; }
+    .summary-laws, .summary-topic { margin-top: .8rem; overflow: hidden; background: var(--bs-tertiary-bg); border: 1px solid var(--bs-border-color); border-radius: .75rem; }
+    .summary-laws > summary, .summary-topic > summary { padding: .95rem 1rem; cursor: pointer; font-weight: 750; }
+    .summary-laws > summary { color: var(--bd-accent); }
+    .summary-laws .table-responsive { border-top: 1px solid var(--bs-border-color); }
+    .summary-laws th, .summary-laws td { padding: .75rem 1rem; }
+    .summary-topic-list { margin-top: 1.25rem; }
+    .summary-topic > summary { display: grid; grid-template-columns: auto minmax(0,1fr); gap: .75rem; align-items: center; list-style-position: inside; }
+    .summary-topic__number { min-width: 3.25rem; color: var(--bd-accent); font-weight: 850; }
+    .summary-topic__body { padding: 0 1rem 1.1rem; line-height: 1.7; border-top: 1px solid var(--bs-border-color); }
+    .summary-topic__body > p { margin-top: 1rem; }
+    .summary-example { margin: .9rem 0; padding: .8rem 1rem; background: var(--bs-body-bg); border-left: 4px solid var(--bs-info); border-radius: .25rem .6rem .6rem .25rem; }
+    .summary-keys { margin-bottom: 1rem; }
+    .summary-keys ul { margin: .45rem 0 0; }
+    .summary-ending { margin-top: 1.25rem; padding: 1rem 1.1rem; background: rgba(25,135,84,.12); border: 1px solid rgba(25,135,84,.35); border-radius: .75rem; }
+    @media (min-width: 768px) { .summary-index { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+  </style>
+</Layout>
