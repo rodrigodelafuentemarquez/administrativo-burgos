@@ -12,7 +12,8 @@
     "referencia": "PDF Burgos 2024 estabilización · pregunta 25",
     "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2024 estabilización"
     ]
   },
   {
@@ -28,7 +29,8 @@
     "referencia": "PDF Burgos 2024 estabilización · pregunta 26",
     "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2024 estabilización"
     ]
   },
   {
@@ -44,7 +46,8 @@
     "referencia": "PDF Burgos 2024 estabilización · pregunta 27",
     "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2024 estabilización"
     ]
   },
   {
@@ -61,7 +64,8 @@
     "referencia": "PDF Burgos 2025 · pregunta 10",
     "explicación": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2025"
     ]
   },
   {
@@ -78,7 +82,8 @@
     "referencia": "PDF Burgos 2025 · pregunta 11",
     "explicación": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2025"
     ]
   },
   {
@@ -95,7 +100,8 @@
     "referencia": "PDF Burgos 2025 · pregunta 22",
     "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2025"
     ]
   },
   {
@@ -434,7 +440,9 @@
     "correcta": 0,
     "explicación": "La desconcentración es una atribución estable dentro de la misma Administración; la descentralización implica otra entidad o Administración con personalidad jurídica propia.",
     "referencia": "II.5 · Principios de organización administrativa",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-02",
@@ -449,7 +457,9 @@
     "correcta": 0,
     "explicación": "El artículo 17.2 LRJSP exige la asistencia presencial o a distancia de Presidente y Secretario o suplentes y de la mitad, al menos, de los miembros, sin perjuicio de especialidades.",
     "referencia": "LRJSP · artículo 17.2 · Constitución del órgano colegiado",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-03",
@@ -464,7 +474,9 @@
     "correcta": 0,
     "explicación": "El artículo 17.4 LRJSP permite deliberar y acordar un asunto no incluido solo si están presentes todos los miembros y se declara la urgencia por mayoría.",
     "referencia": "LRJSP · artículo 17.4 · Orden del día",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-04",
@@ -479,7 +491,9 @@
     "correcta": 0,
     "explicación": "La delegación no cambia la titularidad: el acto se considera dictado por el delegante y debe expresar que se dicta por delegación.",
     "referencia": "LRJSP · artículo 9 · Delegación de competencias",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-05",
@@ -494,7 +508,9 @@
     "correcta": 0,
     "explicación": "El artículo 9.2 LRJSP prohíbe delegar, entre otras materias, la adopción de disposiciones de carácter general.",
     "referencia": "LRJSP · artículo 9.2 · Límites de la delegación",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-06",
@@ -509,7 +525,9 @@
     "correcta": 0,
     "explicación": "La avocación es puntual: el superior atrae para sí un asunto concreto por circunstancias que debe motivar; no modifica de forma permanente la distribución competencial.",
     "referencia": "LRJSP · artículo 10 · Avocación",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-07",
@@ -524,7 +542,9 @@
     "correcta": 0,
     "explicación": "La encomienda se limita a actividades materiales o técnicas; el órgano encomendante conserva la responsabilidad de dictar actos o resoluciones jurídicas.",
     "referencia": "LRJSP · artículo 11 · Encomienda de gestión",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-08",
@@ -539,7 +559,9 @@
     "correcta": 0,
     "explicación": "La delegación de firma afecta a la firma formal, no a la titularidad ni al ejercicio de la competencia, y debe identificar la autoridad de procedencia.",
     "referencia": "LRJSP · artículo 12 · Delegación de firma",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-09",
@@ -554,7 +576,9 @@
     "correcta": 0,
     "explicación": "El artículo 49.h LRJSP exige duración determinada, normalmente hasta cuatro años, y permite una prórroga unánime de hasta cuatro años adicionales antes de que termine la vigencia.",
     "referencia": "LRJSP · artículo 49.h · Convenios",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-ii05-deep-10",
@@ -569,6 +593,8 @@
     "correcta": 0,
     "explicación": "La recusación permite a los interesados promover la separación del titular cuando concurre alguna causa legal de abstención; no transfiere la competencia.",
     "referencia": "LRJSP · artículos 23 y 24 · Abstención y recusación",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   }
 ]

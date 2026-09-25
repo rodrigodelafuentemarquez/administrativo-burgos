@@ -41,6 +41,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   let currentPenalty = 0;
   let currentTimerMinutes = 0;
   let currentOnlyReal = false;
+  let currentCompletedExam = '';
   let activeTimerId = null;
   let sessionFinished = false;
   let finishReason = 'manual';
@@ -409,6 +410,16 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         <p class="text-body-secondary mb-0">Elige temas, tamaño y formato. Puedes alternar práctica, simulacro oficial o repaso inteligente con penalización y temporizador opcionales.</p>
       </div>
       <div class="test-config">
+        <div class="test-panel mb-3">
+          <label class="form-label fw-semibold" for="completed-exam">Exámenes realizados en Burgos</label>
+          <select class="form-select" id="completed-exam">
+            <option value="">Crear un test por temas</option>
+            <option value="2025">Ayuntamiento de Burgos · Auxiliar Administrativo · 3/10/2025</option>
+            <option value="2024-est">Ayuntamiento de Burgos · estabilización · 2024</option>
+            <option value="2023">Ayuntamiento de Burgos · bolsa de Auxiliares · 2023</option>
+          </select>
+          <p class="text-body-secondary small mt-2 mb-0">Al elegir una convocatoria, las preguntas se presentan en el orden del examen. Las preguntas de reserva aparecen al final.</p>
+        </div>
         <fieldset class="test-panel">
           <legend class="h5 mb-3">Temas disponibles</legend>
           <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3">
@@ -490,6 +501,46 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
 
     document.getElementById('start')?.addEventListener('click', async () => {
+      const completedExam = document.getElementById('completed-exam')?.value ?? '';
+      if (completedExam) {
+        currentCompletedExam = completedExam;
+        currentSessionMode = 'official';
+        const yearLabel = completedExam === '2024-est' ? '2024 estabilización' : completedExam;
+        const idxRes = await fetch(`${base}data/tests/index.json`);
+        const idx = await idxRes.json();
+        const topicList = Array.isArray(idx) ? idx : (Array.isArray(idx?.temas) ? idx.temas : []);
+        const chunks = await Promise.all(topicList.map(async (topic) => {
+          const id = Number(topic.tema);
+          const response = await fetch(`${base}data/tests/tema-${String(id).padStart(2, '0')}.json`);
+          const raw = await response.json();
+          return (Array.isArray(raw) ? raw : []).map((item, index) => normalizeQuestion(item, id, index)).filter(Boolean);
+        }));
+        const examQuestions = chunks.flat().filter((q) => (q.tags ?? []).includes(`Burgos ${yearLabel}`));
+        const numbered = new Map();
+        const reserves = [];
+        for (const q of examQuestions) {
+          const reserveMatch = String(q.referencia).match(/reserva\s+(\d+)/i);
+          if (reserveMatch) { reserves.push({ question: q, number: Number(reserveMatch[1]) }); continue; }
+          const questionMatch = String(q.referencia).match(/pregunta\s+(\d+)/i);
+          if (!questionMatch) continue;
+          const number = Number(questionMatch[1]);
+          const existing = numbered.get(number);
+          // Some imported files contain topic-only duplicates for the same exam number.
+          if (!existing || /q\d+-reg$/.test(q.id)) numbered.set(number, q);
+        }
+        allQuestions = [...numbered.entries()].sort((a, b) => a[0] - b[0]).map(([, q]) => q)
+          .concat(reserves.sort((a, b) => a.number - b.number).map(({ question }) => question));
+        if (!allQuestions.length) {
+          renderEmpty('No se encontraron preguntas de esa convocatoria.', 'Revisa las etiquetas Burgos en los datos de test.');
+          return;
+        }
+        currentOnlyReal = true;
+        currentPenalty = Number(document.getElementById('penalty-mode')?.value ?? '0') || 0;
+        currentTimerMinutes = Number(document.getElementById('timer-minutes')?.value ?? '0') || 0;
+        startTest(0, 'official');
+        return;
+      }
+      currentCompletedExam = '';
       const temaIds = Array.from(root.querySelectorAll('.test-topic-option input[type=checkbox]:checked')).map((el) => Number(el.value));
       currentSessionMode = document.getElementById('session-mode')?.value ?? 'practice';
       if (!temaIds.length) {
@@ -548,11 +599,11 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     } else if (currentSessionMode === 'smart') {
       selected = buildSmartSelection(limit);
     } else {
-      selected = shuffle(allQuestions);
+      selected = currentCompletedExam ? [...allQuestions] : shuffle(allQuestions);
       if (limit > 0) selected = selected.slice(0, limit);
     }
 
-    selected = selected.map((question) => shuffleQuestionOptions(question));
+    selected = currentCompletedExam ? [...selected] : selected.map((question) => shuffleQuestionOptions(question));
 
     const isOfficial = currentSessionMode === 'official' && mode === 'normal';
     const isSmart = currentSessionMode === 'smart' && mode === 'normal';
@@ -560,14 +611,14 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       ? 'Repaso de fallos'
       : (mode === 'doubts'
         ? 'Revision de dudosas'
-        : (currentOnlyReal ? 'Preguntas reales' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio'))));
+        : (currentCompletedExam ? `Examen de Burgos ${currentCompletedExam === '2024-est' ? '2024 · estabilización' : currentCompletedExam}` : (currentOnlyReal ? 'Preguntas reales' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio')))));
 
     const heroText = mode === 'fails'
       ? 'Las preguntas se priorizan por recurrencia de error. Si aciertas una aquí, desaparece de fallos.'
       : (mode === 'doubts'
         ? 'Este bloque agrupa preguntas que has marcado para revisar con calma. Si aquí ya las ves claras, se limpian automáticamente al acertarlas.'
         : (currentOnlyReal
-          ? 'El test usa solo preguntas etiquetadas como reales dentro de los temas seleccionados.'
+          ? (currentCompletedExam ? 'Preguntas del examen en el orden y con las opciones originales; las reservas aparecen al final.' : 'El test usa solo preguntas etiquetadas como reales dentro de los temas seleccionados.')
           : (isOfficial
           ? 'Sin pistas durante el examen: la referencia normativa solo aparece al corregir. Ajuste inicial: 70 preguntas, 90 minutos y penalización de 0,25.'
           : (isSmart

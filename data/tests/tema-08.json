@@ -13,7 +13,8 @@
     "referencia": "PDF Burgos 2025 · pregunta 23",
     "explicación": "El Parlamento Europeo y el Consejo ejercen conjuntamente la función legislativa y presupuestaria.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2025"
     ]
   },
   {
@@ -30,7 +31,8 @@
     "referencia": "PDF Burgos 2025 · pregunta 31",
     "explicación": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2025"
     ]
   },
   {
@@ -47,7 +49,8 @@
     "referencia": "PDF Burgos 2025 · reserva 1",
     "explicación": "Los miembros del Comité de las Regiones tienen mandato renovable de cinco años y no pueden ser simultáneamente eurodiputados.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2025"
     ]
   },
   {
@@ -64,7 +67,8 @@
     "referencia": "PDF Burgos 2023 · pregunta 13",
     "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
-      "Pregunta real"
+      "Pregunta real",
+      "Burgos 2023"
     ]
   },
   {
@@ -658,7 +662,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Consejo Europeo",
     "explicación": "El Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comisión. El Alto Representante participa en sus trabajos, pero no integra esa composición.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-02",
@@ -673,7 +679,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Consejo de la Unión Europea",
     "explicación": "La presidencia ordinaria se ejerce mediante grupos predeterminados de tres Estados durante dieciocho meses, con un turno de seis meses para cada Estado. Asuntos Exteriores constituye la excepción y la preside el Alto Representante.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-03",
@@ -688,7 +696,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Consejo de la Unión Europea",
     "explicación": "La doble mayoría ordinaria exige el 55 % de los Estados, que representen el 65 % de la población. La minoría de bloqueo debe estar formada por al menos cuatro miembros; de lo contrario, se considera alcanzada la mayoría cualificada.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-04",
@@ -703,7 +713,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Comisión Europea",
     "explicación": "El Consejo Europeo propone al candidato teniendo en cuenta las elecciones europeas y el Parlamento Europeo lo elige por mayoría de sus miembros.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-05",
@@ -718,7 +730,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Tribunal de Justicia de la Unión Europea",
     "explicación": "El artículo 267 TFUE distingue entre la facultad de los órganos no supremos y la obligación de plantear la cuestión para los órganos cuyas decisiones no sean susceptibles de recurso judicial interno, con las excepciones jurisprudenciales aplicables.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-06",
@@ -733,7 +747,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Actos jurídicos de la Unión",
     "explicación": "Las recomendaciones y los dictámenes no tienen fuerza vinculante. Reglamento, directiva y decisión sí son actos vinculantes, con efectos distintos.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-07",
@@ -748,7 +764,9 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Tipos de competencias de la Unión",
     "explicación": "El artículo 4 TFUE incluye la protección de los consumidores entre las competencias compartidas.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   },
   {
     "id": "burgos-i08-deep-08",
@@ -763,6 +781,8 @@
     "correcta": 0,
     "referencia": "Tema I.8 · Sistema institucional de la Unión",
     "explicación": "El artículo 13.4 TUE configura ambos como órganos consultivos que asisten al Parlamento, al Consejo y a la Comisión; no son instituciones del listado de siete.",
-    "tags": ["Revisión profunda"]
+    "tags": [
+      "Revisión profunda"
+    ]
   }
 ]
