@@ -415,7 +415,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           <select class="form-select" id="completed-exam">
             <option value="">Crear un test por temas</option>
             <option value="2025">Auxiliar Administrativo · Ayuntamiento de Burgos · 3/10/2025</option>
-            <option value="2025-jcyl-c1">Administrativo C1 · Junta de Castilla y León · Burgos · 7/06/2025 (sin supuesto práctico)</option>
+            <option value="2025-jcyl-c1">Administrativo C1 · Junta de Castilla y León · Burgos · 7/06/2025</option>
             <option value="2024-est">Estabilización · Ayuntamiento de Burgos · 2024</option>
             <option value="2023">Bolsa de Auxiliares · Ayuntamiento de Burgos · 2023</option>
           </select>
@@ -492,7 +492,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       const help = document.getElementById('completed-exam-help');
       if (help) help.textContent = selectedExam
         ? (completedExamSelect?.value === '2025-jcyl-c1'
-          ? 'Incluye los bloques teóricos I y II, en orden, y sus 8 preguntas de reserva al final. Se omite el supuesto práctico del bloque III.'
+          ? 'Se carga el cuadernillo completo: 100 preguntas, incluido el supuesto práctico, y 10 preguntas de reserva al final.'
           : 'Se cargará la convocatoria completa, en orden y con las opciones originales. Las reservas van al final. Elige el tiempo y la penalización abajo.')
         : 'Elige una convocatoria para hacer el examen completo, o deja «Crear un test por temas» para configurar una práctica.';
       if (selectedExam) {
@@ -572,7 +572,8 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           if (!existing || /q\d+-reg$/.test(q.id)) numbered.set(number, q);
         }
         allQuestions = [...numbered.entries()].sort((a, b) => a[0] - b[0]).map(([, q]) => q)
-          .concat(reserves.sort((a, b) => a.number - b.number).map(({ question }) => question));
+          .concat(reserves.sort((a, b) => a.number - b.number).map(({ question }) => question))
+          .map((question) => ({ ...question, tema: 0 }));
         if (!allQuestions.length) {
           renderEmpty('No se encontraron preguntas de esa convocatoria.', 'Revisa las etiquetas Burgos en los datos de test.');
           return;
@@ -675,7 +676,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       ? `<span class="badge text-bg-secondary">Penalización -${formatPenalty(currentPenalty)} por fallo</span>`
       : '';
     const modeBadge = isSmart ? '<span class="badge text-bg-info">Nuevas + recurrentes</span>' : '';
-    const realBadge = currentOnlyReal ? '<span class="badge text-bg-success">Solo preguntas reales</span>' : '';
+    const realBadge = currentOnlyReal && !currentCompletedExam ? '<span class="badge text-bg-success">Solo preguntas reales</span>' : '';
 
     root.innerHTML = `
       <div class="test-hero mb-4">
