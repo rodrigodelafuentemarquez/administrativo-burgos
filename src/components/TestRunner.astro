@@ -415,7 +415,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           <select class="form-select" id="completed-exam">
             <option value="">Crear un test por temas</option>
             <option value="2025">Auxiliar Administrativo · Ayuntamiento de Burgos · 3/10/2025</option>
-            <option value="2025-jcyl-c1">Administrativo C1 · Junta de Castilla y León · 7/06/2025 · sede de Burgos</option>
+            <option value="2025-jcyl-c1">Administrativo C1 · Junta de Castilla y León · Burgos · 7/06/2025 (sin supuesto práctico)</option>
             <option value="2024-est">Estabilización · Ayuntamiento de Burgos · 2024</option>
             <option value="2023">Bolsa de Auxiliares · Ayuntamiento de Burgos · 2023</option>
           </select>
@@ -491,7 +491,9 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       if (startButton) startButton.textContent = selectedExam ? 'Empezar examen' : 'Empezar test';
       const help = document.getElementById('completed-exam-help');
       if (help) help.textContent = selectedExam
-        ? 'Se cargará la convocatoria completa, en orden y con las opciones originales. Las reservas van al final. Elige el tiempo y la penalización abajo.'
+        ? (completedExamSelect?.value === '2025-jcyl-c1'
+          ? 'Incluye los bloques teóricos I y II, en orden, y sus 8 preguntas de reserva al final. Se omite el supuesto práctico del bloque III.'
+          : 'Se cargará la convocatoria completa, en orden y con las opciones originales. Las reservas van al final. Elige el tiempo y la penalización abajo.')
         : 'Elige una convocatoria para hacer el examen completo, o deja «Crear un test por temas» para configurar una práctica.';
       if (selectedExam) {
         const timerSelect = document.getElementById('timer-minutes');
@@ -540,7 +542,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             renderEmpty('No se pudo cargar el examen de Administrativo C1.', 'Comprueba el archivo de preguntas de la convocatoria de la Junta de Castilla y León.');
             return;
           }
-          currentOnlyReal = true;
+          currentOnlyReal = false;
           currentPenalty = Number(document.getElementById('penalty-mode')?.value ?? '0') || 0;
           currentTimerMinutes = Number(document.getElementById('timer-minutes')?.value ?? '0') || 0;
           startTest(0, 'official');
@@ -652,7 +654,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       ? 'Repaso de fallos'
       : (mode === 'doubts'
         ? 'Revision de dudosas'
-        : (currentCompletedExam ? `Examen de Burgos ${currentCompletedExam === '2024-est' ? '2024 · estabilización' : currentCompletedExam}` : (currentOnlyReal ? 'Preguntas reales' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio')))));
+        : (currentCompletedExam ? (currentCompletedExam === '2025-jcyl-c1' ? 'Administrativo C1 · Junta de Castilla y León · 2025' : `Examen de Burgos ${currentCompletedExam === '2024-est' ? '2024 · estabilización' : currentCompletedExam}`) : (currentOnlyReal ? 'Preguntas reales' : (isOfficial ? 'Simulacro oficial' : (isSmart ? 'Repaso inteligente' : 'Test aleatorio')))));
 
     const heroText = mode === 'fails'
       ? 'Las preguntas se priorizan por recurrencia de error. Si aciertas una aquí, desaparece de fallos.'
@@ -696,7 +698,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           <div class="d-flex align-items-start gap-3 mb-3">
             <span class="question-number">${i + 1}</span>
             <div>
-              <p class="question-meta mb-1">${isOfficial ? escapeHtml(getTopicLabel(q.tema)) : `${escapeHtml(getTopicLabel(q.tema))} · ${escapeHtml(q.referencia)}`} ${renderQuestionTags(q)}</p>
+              <p class="question-meta mb-1">${currentCompletedExam ? escapeHtml(q.referencia) : `${isOfficial ? escapeHtml(getTopicLabel(q.tema)) : `${escapeHtml(getTopicLabel(q.tema))} · ${escapeHtml(q.referencia)}`} ${renderQuestionTags(q)}`}</p>
               <h3 class="h5 mb-0">${escapeHtml(q.pregunta)}</h3>
             </div>
           </div>
@@ -739,7 +741,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     } else if (mode === 'doubts') {
       const successIds = selected.filter((q) => answers.get(q.id) === q.correcta).map((q) => q.id);
       removeDoubtIds(successIds);
-    } else {
+    } else if (!currentCompletedExam) {
       const byTema = new Map();
       selected.forEach((q) => {
         const prev = byTema.get(q.tema) ?? { total: 0, ok: 0 };
@@ -831,7 +833,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       ? `<span class="badge text-bg-warning ms-2">Recurrente · ${Number(q.fallos)} fallos</span>`
       : '';
     const hasDoubt = readDoubts().some((item) => item.id === q.id);
-    const doubtButton = mode === 'normal'
+    const doubtButton = mode === 'normal' && !currentCompletedExam
       ? `<button type="button" class="${hasDoubt ? 'btn btn-sm btn-warning' : 'btn btn-sm btn-outline-warning'} toggle-doubt" data-id="${escapeHtml(q.id)}">${hasDoubt ? 'Quitar duda' : 'Marcar dudosa'}</button>`
       : '';
 
@@ -842,7 +844,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             <div class="d-flex align-items-start gap-3">
               <span class="question-number">${i + 1}</span>
               <div>
-                <p class="question-meta mb-1">${escapeHtml(getTopicLabel(q.tema))} · ${escapeHtml(q.referencia)} ${renderQuestionTags(q)} ${failBadge}</p>
+                <p class="question-meta mb-1">${currentCompletedExam ? escapeHtml(q.referencia) : `${escapeHtml(getTopicLabel(q.tema))} · ${escapeHtml(q.referencia)} ${renderQuestionTags(q)}`} ${failBadge}</p>
                 <h3 class="h5 mb-0">${escapeHtml(q.pregunta)}</h3>
               </div>
             </div>
