@@ -985,10 +985,32 @@ const navClass = (href: string, exact = false) => {
         display: grid;
         gap: 1rem;
       }
+      .completed-exam-picker {
+        margin-bottom: 1rem;
+      }
+      .test-config.is-completed-exam {
+        grid-template-columns: minmax(0, 1fr);
+        max-width: 42rem;
+        margin-inline: auto;
+      }
+      .test-config.is-completed-exam > .test-panel {
+        width: 100%;
+      }
       .test-panel {
         padding: 1rem;
         border: 1px solid var(--bs-border-color);
         border-radius: var(--bs-border-radius-lg);
+      }
+      #topics-panel[hidden],
+      .real-filter-option[hidden],
+      .topic-setting[hidden] {
+        display: none !important;
+      }
+      .question-explanation {
+        padding: .85rem 1rem;
+        border-left: .25rem solid var(--bd-accent);
+        border-radius: .25rem;
+        background: color-mix(in srgb, var(--bs-primary-bg-subtle) 75%, transparent);
       }
       .real-filter-option {
         padding: .85rem;

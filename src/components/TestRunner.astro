@@ -26,7 +26,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   const practiceLimitOptions = [10, 20, 30, 50, 70, 100];
   const officialLimitOptions = [70, 100];
   const failLimitOptions = [0, ...practiceLimitOptions];
-  const timerOptions = [0, 60, 75, 90, 120];
+  const timerOptions = [0, 60, 75, 90, 120, 130];
   const penaltyOptions = [
     { value: 0, label: 'Sin penalización' },
     { value: 0.25, label: 'Penalización -0,25 por fallo' },
@@ -101,6 +101,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       opciones,
       correcta,
       referencia: String(item.referencia ?? ''),
+      explicacion: String(item.explicacion ?? ''),
       tags: Array.isArray(item.tags) ? item.tags.map((tag) => String(tag ?? '')).filter(Boolean) : [],
       fallos: Math.max(1, Number(item.fallos ?? 1) || 1),
       firstFailedAt: Number(item.firstFailedAt ?? 0) || null,
@@ -409,18 +410,19 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
         <h2 class="display-6 mb-2">Configurar test</h2>
         <p class="text-body-secondary mb-0">Elige temas, tamaño y formato. Puedes alternar práctica, simulacro oficial o repaso inteligente con penalización y temporizador opcionales.</p>
       </div>
-      <div class="test-config">
-        <div class="test-panel mb-3">
+      <div class="test-panel completed-exam-picker mb-3">
           <label class="form-label fw-semibold" for="completed-exam">Exámenes realizados en Burgos</label>
           <select class="form-select" id="completed-exam">
             <option value="">Crear un test por temas</option>
-            <option value="2025">Ayuntamiento de Burgos · Auxiliar Administrativo · 3/10/2025</option>
-            <option value="2024-est">Ayuntamiento de Burgos · estabilización · 2024</option>
-            <option value="2023">Ayuntamiento de Burgos · bolsa de Auxiliares · 2023</option>
+            <option value="2025">Auxiliar Administrativo · Ayuntamiento de Burgos · 3/10/2025</option>
+            <option value="2025-jcyl-c1">Administrativo C1 · Junta de Castilla y León · 7/06/2025 · sede de Burgos</option>
+            <option value="2024-est">Estabilización · Ayuntamiento de Burgos · 2024</option>
+            <option value="2023">Bolsa de Auxiliares · Ayuntamiento de Burgos · 2023</option>
           </select>
-          <p class="text-body-secondary small mt-2 mb-0">Al elegir una convocatoria, las preguntas se presentan en el orden del examen. Las preguntas de reserva aparecen al final.</p>
-        </div>
-        <fieldset class="test-panel">
+          <p class="text-body-secondary small mt-2 mb-0" id="completed-exam-help">Elige una convocatoria para hacer el examen completo, o deja «Crear un test por temas» para configurar una práctica.</p>
+      </div>
+      <div class="test-config" id="test-config">
+        <fieldset class="test-panel" id="topics-panel">
           <legend class="h5 mb-3">Temas disponibles</legend>
           <div class="d-flex flex-wrap align-items-center justify-content-between gap-2 mb-3">
             <div class="d-flex flex-wrap gap-2">
@@ -450,22 +452,22 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
           </div>
         </fieldset>
         <div class="test-panel">
-          <div class="real-filter-option">
+          <div class="real-filter-option" id="real-filter-option">
             <div class="form-check form-switch mb-0">
               <input class="form-check-input" type="checkbox" role="switch" id="only-real-questions">
               <label class="form-check-label fw-semibold" for="only-real-questions">Solo preguntas reales</label>
             </div>
             <p class="text-body-secondary small mt-2 mb-0">Usa únicamente preguntas etiquetadas como "Pregunta real" dentro de los temas seleccionados.</p>
           </div>
-          <label class="form-label fw-semibold" for="session-mode">Formato</label>
-          <select class="form-select mb-3" id="session-mode">
+          <label class="form-label fw-semibold topic-setting" for="session-mode">Formato</label>
+          <select class="form-select mb-3 topic-setting" id="session-mode">
             <option value="practice" selected>Práctica guiada</option>
             <option value="official">Simulacro oficial</option>
             <option value="smart">Repaso inteligente</option>
           </select>
-          <p class="text-body-secondary small mb-3">Práctica muestra la referencia durante el examen. Simulacro oficial se ajusta por defecto a 70 preguntas, 90 minutos y penalización de 0,25. Repaso inteligente carga antes lo que más se te atraganta.</p>
-          <label class="form-label fw-semibold" for="limit">Número de preguntas</label>
-          <select class="form-select mb-3" id="limit"></select>
+          <p class="text-body-secondary small mb-3 topic-setting">Práctica muestra la referencia durante el examen. Simulacro oficial se ajusta por defecto a 70 preguntas, 90 minutos y penalización de 0,25. Repaso inteligente carga antes lo que más se te atraganta.</p>
+          <label class="form-label fw-semibold topic-setting" for="limit">Número de preguntas</label>
+          <select class="form-select mb-3 topic-setting" id="limit"></select>
           <label class="form-label fw-semibold" for="timer-minutes">Temporizador orientativo</label>
           <select class="form-select mb-3" id="timer-minutes">${timerOptions.map((n) => `<option value="${n}" ${n === 0 ? 'selected' : ''}>${n === 0 ? 'Sin temporizador' : `${n} minutos`}</option>`).join('')}</select>
           <label class="form-label fw-semibold" for="penalty-mode">Corrección</label>
@@ -477,6 +479,29 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 
     applyModePreset('practice');
     updateTopicSelectionSummary();
+
+    const completedExamSelect = document.getElementById('completed-exam');
+    const updateCompletedExamView = () => {
+      const selectedExam = Boolean(completedExamSelect?.value);
+      document.getElementById('topics-panel')?.toggleAttribute('hidden', selectedExam);
+      document.getElementById('real-filter-option')?.toggleAttribute('hidden', selectedExam);
+      root.querySelectorAll('.topic-setting').forEach((el) => el.toggleAttribute('hidden', selectedExam));
+      document.getElementById('test-config')?.classList.toggle('is-completed-exam', selectedExam);
+      const startButton = document.getElementById('start');
+      if (startButton) startButton.textContent = selectedExam ? 'Empezar examen' : 'Empezar test';
+      const help = document.getElementById('completed-exam-help');
+      if (help) help.textContent = selectedExam
+        ? 'Se cargará la convocatoria completa, en orden y con las opciones originales. Las reservas van al final. Elige el tiempo y la penalización abajo.'
+        : 'Elige una convocatoria para hacer el examen completo, o deja «Crear un test por temas» para configurar una práctica.';
+      if (selectedExam) {
+        const timerSelect = document.getElementById('timer-minutes');
+        const penaltySelect = document.getElementById('penalty-mode');
+        if (timerSelect) timerSelect.value = completedExamSelect?.value === '2025-jcyl-c1' ? '130' : '90';
+        if (penaltySelect) penaltySelect.value = '0.25';
+      }
+    };
+    completedExamSelect?.addEventListener('change', updateCompletedExamView);
+    updateCompletedExamView();
 
     document.getElementById('session-mode')?.addEventListener('change', () => {
       applyModePreset(document.getElementById('session-mode')?.value ?? 'practice');
@@ -505,6 +530,22 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       if (completedExam) {
         currentCompletedExam = completedExam;
         currentSessionMode = 'official';
+        if (completedExam === '2025-jcyl-c1') {
+          const response = await fetch(`${base}data/tests/examen-administrativo-c1-jcyl-2025.json`);
+          const raw = await response.json();
+          allQuestions = (Array.isArray(raw) ? raw : [])
+            .map((item, index) => normalizeQuestion(item, 1, index))
+            .filter(Boolean);
+          if (!allQuestions.length) {
+            renderEmpty('No se pudo cargar el examen de Administrativo C1.', 'Comprueba el archivo de preguntas de la convocatoria de la Junta de Castilla y León.');
+            return;
+          }
+          currentOnlyReal = true;
+          currentPenalty = Number(document.getElementById('penalty-mode')?.value ?? '0') || 0;
+          currentTimerMinutes = Number(document.getElementById('timer-minutes')?.value ?? '0') || 0;
+          startTest(0, 'official');
+          return;
+        }
         const yearLabel = completedExam === '2024-est' ? '2024 estabilización' : completedExam;
         const idxRes = await fetch(`${base}data/tests/index.json`);
         const idx = await idxRes.json();
@@ -816,6 +857,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             <dt class="col-sm-3 text-body-secondary">Correcta</dt>
             <dd class="col-sm-9">${escapeHtml(q.opciones[q.correcta])}</dd>
           </dl>
+          ${q.explicacion ? `<div class="question-explanation mt-3"><h4 class="h6 mb-1">Explicación</h4><p class="mb-0">${escapeHtml(q.explicacion)}</p></div>` : ''}
         </div>
       </article>`;
   }
