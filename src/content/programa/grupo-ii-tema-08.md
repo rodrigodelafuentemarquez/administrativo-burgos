@@ -60,7 +60,7 @@ La prescripción extingue la posibilidad de perseguir la infracción o de ejecut
 
 | Objeto | Muy graves | Graves | Leves |
 | --- | ---: | ---: | ---: |
-| Infracción | 3 años | 2 años | 1 año |
+| Infracción | 3 años | 2 años | 6 meses |
 | Sanción | 3 años | 2 años | 1 año |
 
 El plazo de la infracción comienza el día en que se comete; en infracciones continuadas o permanentes se computa desde que termina la conducta. Se interrumpe con la iniciación del procedimiento sancionador conocida por el interesado y vuelve a correr si el expediente queda paralizado durante más de un mes por causa no imputable al presunto responsable. El plazo de la sanción empieza al día siguiente de que sea ejecutiva la resolución firme en vía administrativa y se interrumpe por el inicio, con conocimiento del interesado, del procedimiento de ejecución.

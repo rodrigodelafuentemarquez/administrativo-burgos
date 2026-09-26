@@ -4,6 +4,10 @@ import { groupSummaries } from '../data/groupSummaries';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${group.toLowerCase()}-tema-${String(topic).padStart(2, '0')}`;
+const pointParts = (point: string) => {
+  const separator = point.indexOf(':');
+  return separator < 0 ? { label: '', text: point } : { label: point.slice(0, separator), text: point.slice(separator + 1).trim() };
+};
 ---
 
 <Layout title="Resumen completo del temario">
@@ -16,7 +20,12 @@ const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${grou
   <section class="bd-content ps-lg-2 summary-page">
     <div class="bd-callout summary-callout">
       <strong>Cómo usar este resumen</strong>
-      <p class="mb-0 mt-2">Lee primero el mapa y la historia de un grupo. Después abre sus temas uno por uno. No intentes memorizar todas las cifras en la primera lectura: entiende qué problema resuelve cada tema y usa las claves como segunda vuelta.</p>
+      <ol class="mb-0 mt-2">
+        <li>Lee la introducción del grupo para entender cómo se conectan sus temas.</li>
+        <li>Estudia una idea por punto. En los procedimientos, sigue los pasos numerados.</li>
+        <li>Relaciona la explicación con el ejemplo y repasa las claves.</li>
+        <li>Cierra el apartado e intenta explicarlo con tus palabras antes de hacer test.</li>
+      </ol>
     </div>
 
     <nav class="summary-index" aria-label="Índice de grupos">
@@ -36,7 +45,14 @@ const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${grou
 
         <div class="summary-lead">
           {group.overview.map((paragraph) => <p>{paragraph}</p>)}
-          <p class="summary-route"><strong>El recorrido:</strong> {group.route}</p>
+          <div class="summary-route"><strong>El recorrido del grupo</strong>
+            <ol>{group.route.split(' → ').map((step) => <li>{step}</li>)}</ol>
+          </div>
+        </div>
+
+        <div class="summary-controls" data-group-controls hidden>
+          <button class="btn btn-sm btn-outline-primary" type="button" data-expand-group>Abrir todos los temas del grupo {group.numeral}</button>
+          <button class="btn btn-sm btn-outline-secondary" type="button" data-collapse-group>Cerrar temas</button>
         </div>
 
         <details class="summary-laws" open={groupIndex === 1}>
@@ -51,13 +67,23 @@ const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${grou
 
         <div class="summary-topic-list">
           {group.topics.map((topic, topicIndex) => (
-            <details class="summary-topic" open={groupIndex === 1 && topicIndex === 1}>
+            <details class="summary-topic" id={`${group.id}-tema-${topic.number}`} open={groupIndex === 1 && topicIndex === 1}>
               <summary>
                 <span class="summary-topic__number">{group.numeral}.{topic.number}</span>
                 <span>{topic.title}</span>
               </summary>
               <div class="summary-topic__body">
-                <p>{topic.explanation}</p>
+                <h3>Las ideas, una por una</h3>
+                <ul class="summary-explanation">
+                  {topic.explanation.map((point) => {
+                    const { label, text } = pointParts(point);
+                    return <li>{label && <strong>{label}: </strong>}{text}</li>;
+                  })}
+                </ul>
+                {topic.steps && <div class="summary-steps">
+                  <h3>El proceso, paso a paso</h3>
+                  <ol>{topic.steps.map((step) => <li>{step}</li>)}</ol>
+                </div>}
                 <div class="summary-example"><strong>Ejemplo:</strong> {topic.example}</div>
                 <div class="summary-keys">
                   <strong>Qué debes retener</strong>
@@ -75,7 +101,18 @@ const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${grou
         </div>
       </section>
     ))}
+    <p class="study-note">Para ampliar, cada apartado enlaza con su tema completo y sus fuentes. Referencias de las precisiones revisadas: <a href="https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229#a53">art. 53 CE</a>, <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565#a43">art. 43 LPAC (notificaciones)</a> y <a href="https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566#a30">art. 30 LRJSP (prescripción)</a>.</p>
   </section>
+
+  <script>
+    document.querySelectorAll<HTMLElement>('.summary-group').forEach((group) => {
+      const controls = group.querySelector<HTMLElement>('[data-group-controls]');
+      if (controls) controls.hidden = false;
+      const setOpen = (open: boolean) => group.querySelectorAll<HTMLDetailsElement>('.summary-topic').forEach((topic) => { topic.open = open; });
+      group.querySelector('[data-expand-group]')?.addEventListener('click', () => setOpen(true));
+      group.querySelector('[data-collapse-group]')?.addEventListener('click', () => setOpen(false));
+    });
+  </script>
 
   <style>
     .summary-intro { max-width: 66rem; }
@@ -84,12 +121,14 @@ const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${grou
     .summary-index { display: grid; gap: .65rem; margin: 1.5rem 0 2.5rem; }
     .summary-index a { display: grid; grid-template-columns: 2rem minmax(0,1fr); gap: .75rem; align-items: center; padding: .8rem 1rem; color: var(--bs-body-color); text-decoration: none; background: var(--bs-tertiary-bg); border: 1px solid var(--bs-border-color); border-radius: .75rem; }
     .summary-index a:hover { border-color: var(--bd-accent); }
-    .summary-index span { display: grid; width: 2rem; height: 2rem; place-items: center; color: #fff; font-weight: 800; background: var(--bd-accent); border-radius: 50%; }
+    .summary-index span { display: grid; width: 2rem; height: 2rem; place-items: center; color: #241c00; font-weight: 800; background: var(--bd-accent); border-radius: 50%; }
     .summary-group { scroll-margin-top: 5rem; }
     .summary-group__eyebrow { color: var(--bd-accent); font-size: .78rem; font-weight: 800; text-transform: uppercase; letter-spacing: .06em; }
     .summary-question { max-width: 62rem; font-size: 1.05rem; }
     .summary-lead { max-width: 68rem; font-size: 1.02rem; line-height: 1.75; }
     .summary-route { padding: .85rem 1rem; background: rgba(var(--bd-violet-rgb), .12); border-radius: .65rem; }
+    .summary-route ol { margin: .6rem 0 0; }
+    .summary-controls:not([hidden]) { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
     .summary-laws, .summary-topic { margin-top: .8rem; overflow: hidden; background: var(--bs-tertiary-bg); border: 1px solid var(--bs-border-color); border-radius: .75rem; }
     .summary-laws > summary, .summary-topic > summary { padding: .95rem 1rem; cursor: pointer; font-weight: 750; }
     .summary-laws > summary { color: var(--bd-accent); }
@@ -97,13 +136,27 @@ const topicUrl = (group: string, topic: number) => `${base}programa/grupo-${grou
     .summary-laws th, .summary-laws td { padding: .75rem 1rem; }
     .summary-topic-list { margin-top: 1.25rem; }
     .summary-topic > summary { display: grid; grid-template-columns: auto minmax(0,1fr); gap: .75rem; align-items: center; list-style-position: inside; }
+    .summary-topic > summary { grid-template-columns: auto minmax(0,1fr) auto; }
+    .summary-topic > summary::after { content: '+'; font-size: 1.35rem; }
+    .summary-topic[open] > summary::after { content: '−'; }
+    .summary-topic > summary:focus-visible { outline: 3px solid var(--bd-accent); outline-offset: -4px; }
     .summary-topic__number { min-width: 3.25rem; color: var(--bd-accent); font-weight: 850; }
     .summary-topic__body { padding: 0 1rem 1.1rem; line-height: 1.7; border-top: 1px solid var(--bs-border-color); }
     .summary-topic__body > p { margin-top: 1rem; }
+    .summary-topic__body h3 { font-size: 1rem; margin: 1.2rem 0 .7rem; }
+    .summary-explanation { padding-left: 1.3rem; max-width: 78ch; }
+    .summary-explanation li, .summary-steps li { margin-bottom: .8rem; padding-left: .2rem; }
+    .summary-explanation li::marker, .summary-steps li::marker { color: var(--bd-accent); font-weight: 800; }
+    .summary-steps { padding: .1rem 1rem .3rem; background: var(--bs-body-bg); border-radius: .6rem; }
+    .summary-keys li { margin-top: .4rem; }
     .summary-example { margin: .9rem 0; padding: .8rem 1rem; background: var(--bs-body-bg); border-left: 4px solid var(--bs-info); border-radius: .25rem .6rem .6rem .25rem; }
     .summary-keys { margin-bottom: 1rem; }
     .summary-keys ul { margin: .45rem 0 0; }
     .summary-ending { margin-top: 1.25rem; padding: 1rem 1.1rem; background: rgba(25,135,84,.12); border: 1px solid rgba(25,135,84,.35); border-radius: .75rem; }
     @media (min-width: 768px) { .summary-index { grid-template-columns: repeat(2, minmax(0,1fr)); } }
+    @media print {
+      .summary-controls { display: none !important; }
+      .summary-topic::details-content, .summary-laws::details-content { content-visibility: visible; }
+    }
   </style>
 </Layout>
