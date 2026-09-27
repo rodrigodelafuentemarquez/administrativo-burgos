@@ -1,0 +1,128 @@
+---
+import { lawFamilies, essentialLawMap, supportingRules } from '../data/summaryLawGuide';
+const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
+---
+
+<section class="law-guide official-group" id="leyes-importantes" aria-labelledby="law-guide-title">
+  <div class="official-group-heading">
+    <div>
+      <span class="test-kicker">Guía de consulta · al final del resumen</span>
+      <h2 id="law-guide-title">Las leyes importantes, explicadas fácil</h2>
+      <p>Qué regula cada norma, por qué aparece en el temario y cómo distinguirla de las demás.</p>
+    </div>
+    <span class="badge text-bg-secondary">{count} fichas principales</span>
+  </div>
+
+  <div class="bd-callout">
+    <strong>Primero, traduce las siglas</strong>
+    <ul class="mb-0 mt-2">
+      <li><strong>LPAC, LPACAP y Ley 39/2015</strong> son nombres de la misma ley.</li>
+      <li><strong>LRBRL y LBRL</strong> designan la Ley 7/1985 de Bases del Régimen Local.</li>
+      <li><strong>TR</strong> significa texto refundido: reúne y ordena normas bajo la autorización legislativa correspondiente.</li>
+      <li><strong>Real decreto legislativo</strong> tiene rango de ley. Un <strong>real decreto</strong> ordinario es una norma reglamentaria.</li>
+    </ul>
+  </div>
+
+  <h3>Las seis que conviene ubicar primero</h3>
+  <div class="table-responsive">
+    <table class="table align-middle">
+      <caption>La pregunta del supuesto te orienta hacia la norma; un expediente puede necesitar varias.</caption>
+      <thead><tr><th scope="col">Si necesitas…</th><th scope="col">Piensa en…</th></tr></thead>
+      <tbody>{essentialLawMap.map((item) => <tr><td>{item.situation}</td><td><a href={`#ley-${item.id}`} data-law-jump>{item.name}</a></td></tr>)}</tbody>
+    </table>
+  </div>
+
+  <nav class="law-family-index" aria-label="Materias de la guía de leyes">
+    {lawFamilies.map((family) => <a href={`#leyes-${family.id}`}>{family.title}</a>)}
+    <a href="#normas-complementarias">Normas complementarias</a>
+  </nav>
+
+  {lawFamilies.map((family) => (
+    <section class="law-family" id={`leyes-${family.id}`} aria-labelledby={`leyes-titulo-${family.id}`}>
+      <h3 id={`leyes-titulo-${family.id}`}>{family.title}</h3>
+      <p class="text-body-secondary">{family.groups}</p>
+      {family.laws.map((law) => (
+        <details class="law-card" id={`ley-${law.id}`} open={law.id === 'lpac'}>
+          <summary><span><strong>{law.alias}</strong><span class="law-purpose">{law.purpose}</span></span></summary>
+          <div class="law-body">
+            <h4>{law.name}</h4>
+            <p class="law-date"><strong>Fecha:</strong> {law.date}</p>
+            <ul>{law.points.map((point) => <li>{point}</li>)}</ul>
+            <p class="law-example"><strong>Ejemplo:</strong> {law.example}</p>
+            <p><strong>Quédate con esto:</strong> {law.remember}</p>
+            <a href={law.url}>Consultar texto oficial de {law.alias}</a>
+          </div>
+        </details>
+      ))}
+    </section>
+  ))}
+
+  <section class="law-family" id="normas-complementarias" aria-labelledby="supporting-title">
+    <h3 id="supporting-title">Otras normas que completan el mapa</h3>
+    <p>Estas referencias desarrollan o completan las anteriores. Algunas son reglamentos; otras tienen rango de ley.</p>
+    <ul class="supporting-laws">
+      {supportingRules.map((rule) => <li><a href={rule.url}>{rule.name}</a><p>{rule.role}</p></li>)}
+    </ul>
+    <p>En Burgos también intervienen el <strong>Reglamento Orgánico Municipal, las ordenanzas, el planeamiento y los acuerdos o convenios de personal aplicables</strong>. Concretan las reglas en su ámbito y deben respetar las normas superiores; sus enlaces se encuentran en los temas correspondientes.</p>
+  </section>
+
+  <div class="bd-callout">
+    <h3>Cómo se combinan en un caso real</h3>
+    <p>El Ayuntamiento contrata obras para una biblioteca:</p>
+    <ol class="mb-0">
+      <li><strong>LRBRL:</strong> competencia municipal y órgano que adopta la decisión.</li>
+      <li><strong>TRLRHL:</strong> crédito presupuestario y fases del gasto.</li>
+      <li><strong>LCSP:</strong> expediente, licitación, adjudicación y ejecución del contrato.</li>
+      <li><strong>LRJSP:</strong> competencia, delegación o abstención de quienes intervienen.</li>
+      <li><strong>LPAC:</strong> reglas comunes de actuación y garantías, atendiendo a las especialidades de contratación.</li>
+      <li><strong>Transparencia y protección de datos:</strong> publicar lo exigible y proteger la información personal.</li>
+    </ol>
+  </div>
+  <a href="#leyes-importantes">Volver al inicio de la guía de leyes ↑</a>
+</section>
+
+<script>
+  const revealLaw = () => {
+    const id = window.location.hash.slice(1);
+    const target = document.getElementById(id);
+    if (target instanceof HTMLDetailsElement && target.classList.contains('law-card')) {
+      target.open = true;
+    }
+  };
+  document.querySelectorAll<HTMLAnchorElement>('[data-law-jump]').forEach((link) => {
+    link.addEventListener('click', () => {
+      const target = document.getElementById(link.hash.slice(1));
+      if (target instanceof HTMLDetailsElement) target.open = true;
+    });
+  });
+  window.addEventListener('hashchange', revealLaw);
+  revealLaw();
+</script>
+
+<style>
+  .law-guide, .law-family, .law-card { scroll-margin-top: 6rem; }
+  .law-guide { margin-top: 3rem; padding-top: 1.5rem; border-top: 2px solid var(--bs-border-color); }
+  .law-guide h3 { font-size: 1.2rem; margin: 1.4rem 0 .8rem; }
+  .law-family { margin: 2.5rem 0; }
+  .law-family-index { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.2rem 0; }
+  .law-family-index a { padding: .5rem .75rem; border: 1px solid var(--bs-border-color); border-radius: .5rem; }
+  .law-card { background: var(--bs-tertiary-bg); border: 1px solid var(--bs-border-color); border-radius: .75rem; margin: .75rem 0; }
+  .law-card summary { display: flex; justify-content: space-between; gap: 1rem; cursor: pointer; padding: 1rem; list-style: none; }
+  .law-card summary::-webkit-details-marker { display: none; }
+  .law-card summary::after { content: '+'; font-size: 1.4rem; flex-shrink: 0; }
+  .law-card[open] summary::after { content: '−'; }
+  .law-card summary:focus-visible { outline: 3px solid var(--bd-accent); outline-offset: 2px; border-radius: .75rem; }
+  .law-card summary strong { color: var(--bd-accent); }
+  .law-purpose { display: block; margin-top: .35rem; line-height: 1.5; }
+  .law-body { border-top: 1px solid var(--bs-border-color); padding: 1rem; line-height: 1.7; overflow-wrap: anywhere; }
+  .law-body h4 { font-size: 1.05rem; line-height: 1.5; }
+  .law-body li, .law-guide .bd-callout li { margin-top: .6rem; }
+  .law-body ul { max-width: 78ch; padding-left: 1.3rem; }
+  .law-body li::marker { color: var(--bd-accent); }
+  .law-date { color: var(--bs-secondary-color); }
+  .law-example { background: var(--bs-body-bg); padding: .8rem; border-left: 3px solid var(--bs-info); }
+  .supporting-laws { padding-left: 1.3rem; max-width: 85ch; }
+  .supporting-laws li { margin-bottom: 1rem; }
+  .supporting-laws p { margin: .35rem 0 0; line-height: 1.65; }
+  .law-guide table th { min-width: 11rem; }
+</style>
