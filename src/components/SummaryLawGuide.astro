@@ -1,6 +1,10 @@
 ---
 import { lawFamilies, essentialLawMap, supportingRules } from '../data/summaryLawGuide';
 const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
+const pointParts = (point: string) => {
+  const separator = point.indexOf(':');
+  return separator < 0 ? { label: '', text: point } : { label: point.slice(0, separator), text: point.slice(separator + 1).trim() };
+};
 ---
 
 <section class="law-guide official-group" id="leyes-importantes" aria-labelledby="law-guide-title">
@@ -8,7 +12,7 @@ const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
     <div>
       <span class="test-kicker">Guía de consulta · al final del resumen</span>
       <h2 id="law-guide-title">Las leyes importantes, explicadas fácil</h2>
-      <p>Qué regula cada norma, por qué aparece en el temario y cómo distinguirla de las demás.</p>
+      <p>Qué regula cada norma, cómo funcionan sus conceptos y qué ocurre en casos concretos. Lee cada punto como una pequeña explicación, con ejemplos y diferencias que ayudan a reconocer las preguntas de test.</p>
     </div>
     <span class="badge text-bg-secondary">{count} fichas principales</span>
   </div>
@@ -36,6 +40,10 @@ const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
     {lawFamilies.map((family) => <a href={`#leyes-${family.id}`}>{family.title}</a>)}
     <a href="#normas-complementarias">Normas complementarias</a>
   </nav>
+  <div class="law-reading-controls" hidden>
+    <button class="btn btn-sm btn-outline-primary" type="button" data-open-laws>Abrir todas las leyes para leer seguido</button>
+    <button class="btn btn-sm btn-outline-secondary" type="button" data-close-laws>Cerrar todas las leyes</button>
+  </div>
 
   {lawFamilies.map((family) => (
     <section class="law-family" id={`leyes-${family.id}`} aria-labelledby={`leyes-titulo-${family.id}`}>
@@ -47,7 +55,10 @@ const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
           <div class="law-body">
             <h4>{law.name}</h4>
             <p class="law-date"><strong>Fecha:</strong> {law.date}</p>
-            <ul>{law.points.map((point) => <li>{point}</li>)}</ul>
+            <ul class="law-explanations">{law.points.map((point) => {
+              const { label, text } = pointParts(point);
+              return <li>{label && <strong>{label}: </strong>}{text}</li>;
+            })}</ul>
             <p class="law-example"><strong>Ejemplo:</strong> {law.example}</p>
             <p><strong>Quédate con esto:</strong> {law.remember}</p>
             <a href={law.url}>Consultar texto oficial de {law.alias}</a>
@@ -82,6 +93,12 @@ const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
 </section>
 
 <script>
+  const guide = document.getElementById('leyes-importantes');
+  const controls = guide?.querySelector<HTMLElement>('.law-reading-controls');
+  if (controls) controls.hidden = false;
+  const setOpen = (open: boolean) => guide?.querySelectorAll<HTMLDetailsElement>('.law-card').forEach((card) => { card.open = open; });
+  guide?.querySelector('[data-open-laws]')?.addEventListener('click', () => setOpen(true));
+  guide?.querySelector('[data-close-laws]')?.addEventListener('click', () => setOpen(false));
   const revealLaw = () => {
     const id = window.location.hash.slice(1);
     const target = document.getElementById(id);
@@ -106,6 +123,7 @@ const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
   .law-family { margin: 2.5rem 0; }
   .law-family-index { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1.2rem 0; }
   .law-family-index a { padding: .5rem .75rem; border: 1px solid var(--bs-border-color); border-radius: .5rem; }
+  .law-reading-controls:not([hidden]) { display: flex; flex-wrap: wrap; gap: .6rem; margin: 1rem 0; }
   .law-card { background: var(--bs-tertiary-bg); border: 1px solid var(--bs-border-color); border-radius: .75rem; margin: .75rem 0; }
   .law-card summary { display: flex; justify-content: space-between; gap: 1rem; cursor: pointer; padding: 1rem; list-style: none; }
   .law-card summary::-webkit-details-marker { display: none; }
@@ -119,6 +137,8 @@ const count = lawFamilies.reduce((sum, family) => sum + family.laws.length, 0);
   .law-body li, .law-guide .bd-callout li { margin-top: .6rem; }
   .law-body ul { max-width: 78ch; padding-left: 1.3rem; }
   .law-body li::marker { color: var(--bd-accent); }
+  .law-explanations li { margin-bottom: 1rem; padding-left: .2rem; }
+  .law-explanations strong { color: var(--bs-emphasis-color); }
   .law-date { color: var(--bs-secondary-color); }
   .law-example { background: var(--bs-body-bg); padding: .8rem; border-left: 3px solid var(--bs-info); }
   .supporting-laws { padding-left: 1.3rem; max-width: 85ch; }
