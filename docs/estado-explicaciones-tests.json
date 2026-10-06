@@ -1,0 +1,39 @@
+{
+  "version": 1,
+  "automationId": "explicaciones-de-tests-burgos-por-grupos",
+  "nextEligibleAt": 1791323277,
+  "lastProcessedWindowResetAt": null,
+  "currentGroup": "I",
+  "groups": {
+    "I": {
+      "status": "pending",
+      "initialQuestionCount": 444,
+      "reviewedIds": [],
+      "sources": []
+    },
+    "II": {
+      "status": "pending",
+      "initialQuestionCount": 514,
+      "reviewedIds": [],
+      "sources": []
+    },
+    "III": {
+      "status": "pending",
+      "initialQuestionCount": 218,
+      "reviewedIds": [],
+      "sources": []
+    },
+    "IV": {
+      "status": "pending",
+      "initialQuestionCount": 165,
+      "reviewedIds": [],
+      "sources": []
+    },
+    "V": {
+      "status": "pending",
+      "initialQuestionCount": 467,
+      "reviewedIds": [],
+      "sources": []
+    }
+  }
+}

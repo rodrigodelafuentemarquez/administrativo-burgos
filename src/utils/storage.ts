@@ -22,6 +22,7 @@ export type FailedQuestion = {
   opciones: string[];
   correcta: number;
   referencia: string;
+  explicacion?: string;
   tags?: string[];
   fallos: number;
   firstFailedAt: number;
@@ -35,6 +36,7 @@ export type DoubtQuestion = {
   opciones: string[];
   correcta: number;
   referencia: string;
+  explicacion?: string;
   tags?: string[];
   createdAt: number;
 };
@@ -109,6 +111,7 @@ function normalizeFailedQuestion(value: unknown): FailedQuestion | null {
     opciones,
     correcta,
     referencia: String(raw.referencia ?? ''),
+    explicacion: String(raw.explicacion || (raw as Record<string, unknown>)['explicación'] || '').trim(),
     tags: Array.isArray(raw.tags) ? raw.tags.map((tag) => String(tag ?? '')).filter(Boolean) : [],
     fallos,
     firstFailedAt,
@@ -130,6 +133,7 @@ function normalizeDoubtQuestion(value: unknown): DoubtQuestion | null {
     opciones,
     correcta,
     referencia: String(raw.referencia ?? ''),
+    explicacion: String(raw.explicacion || (raw as Record<string, unknown>)['explicación'] || '').trim(),
     tags: Array.isArray(raw.tags) ? raw.tags.map((tag) => String(tag ?? '')).filter(Boolean) : [],
     createdAt: Number(raw.createdAt ?? 0) || Date.now(),
   };
@@ -192,6 +196,7 @@ export function addFails(newFails: FailedQuestion[]): void {
         opciones: q.opciones,
         correcta: q.correcta,
         referencia: q.referencia,
+        explicacion: q.explicacion || currentFail.explicacion,
         tags: q.tags,
         fallos: currentFail.fallos + 1,
         lastFailedAt: now,

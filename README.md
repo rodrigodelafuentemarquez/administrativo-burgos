@@ -98,6 +98,7 @@ Funciones actuales:
 - repaso inteligente;
 - mezcla de respuestas;
 - protección frente a preguntas cuyo orden no debe alterarse;
+- explicación al corregir una respuesta incorrecta o sin responder;
 - guardado de fallos;
 - guardado de progreso.
 
@@ -106,7 +107,19 @@ Los tests públicos se sirven desde:
 - `data/tests`
 - `public/data/tests`
 
-`public/data/tests` se regenera con el script `prepare:data`.
+`public/data/tests` se sincroniza con el script `prepare:data`.
+
+Toda pregunta nueva debe incluir `explicacion` (sin tilde), una explicación específica
+que enseñe por qué la respuesta es correcta y aclare la confusión principal. Usar como
+orientación 2–4 frases, unas 40–90 palabras, adaptadas a la complejidad. No basta con
+repetir la respuesta ni con remitir al tema. Verificar la norma/artículo cuando proceda.
+La aplicación también admite el campo heredado `explicación` y el cuarto elemento de
+los registros en formato array. Las explicaciones aparecen solo tras la corrección,
+en preguntas falladas o sin responder, también en fallos y dudosas.
+
+La revisión del banco se hará por grupos I–V, como máximo un grupo por nueva ventana
+de uso de cinco horas. Procedimiento y seguimiento: `docs/explicaciones-tests.md` y
+`docs/estado-explicaciones-tests.json`.
 
 ### 6. Fallos
 

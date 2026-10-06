@@ -12,9 +12,11 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
   import {
     updateStats,
     readFails,
+    saveFails,
     addFails,
     removeFailIds,
     readDoubts,
+    saveDoubts,
     toggleDoubt,
     removeDoubtIds,
   } from '../utils/storage';
@@ -75,13 +77,14 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
 
   function normalizeQuestion(item, fallbackTema, index) {
     if (Array.isArray(item)) {
-      const [pregunta = '', opciones = [], correcta = 0, _explicacion = '', referencia = ''] = item;
+      const [pregunta = '', opciones = [], correcta = 0, explicacion = '', referencia = ''] = item;
       item = {
         id: `t${String(fallbackTema).padStart(2, '0')}-p${String(index + 1).padStart(3, '0')}`,
         tema: fallbackTema,
         pregunta,
         opciones,
         correcta,
+        explicacion,
         referencia,
       };
     }
@@ -101,7 +104,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
       opciones,
       correcta,
       referencia: String(item.referencia ?? ''),
-      explicacion: String(item.explicacion ?? ''),
+      explicacion: String(item.explicacion || item['explicación'] || '').trim(),
       tags: Array.isArray(item.tags) ? item.tags.map((tag) => String(tag ?? '')).filter(Boolean) : [],
       fallos: Math.max(1, Number(item.fallos ?? 1) || 1),
       firstFailedAt: Number(item.firstFailedAt ?? 0) || null,
@@ -815,6 +818,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             opciones: question.opciones,
             correcta: question.correcta,
             referencia: question.referencia,
+            explicacion: question.explicacion,
             tags: question.tags,
           });
           button.textContent = active ? 'Quitar duda' : 'Marcar dudosa';
@@ -860,7 +864,7 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
             <dt class="col-sm-3 text-body-secondary">Correcta</dt>
             <dd class="col-sm-9">${escapeHtml(q.opciones[q.correcta])}</dd>
           </dl>
-          ${q.explicacion ? `<div class="question-explanation mt-3"><h4 class="h6 mb-1">Explicación</h4><p class="mb-0">${escapeHtml(q.explicacion)}</p></div>` : ''}
+          ${!correct && q.explicacion ? `<div class="question-explanation mt-3"><h4 class="h6 mb-1">Explicación</h4><p class="mb-0">${escapeHtml(q.explicacion)}</p></div>` : ''}
         </div>
       </article>`;
   }
@@ -938,12 +942,41 @@ const clientBase = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE
     });
   }
 
+  // Refresh explanations for questions saved before the bank was reviewed.
+  // Keep saved option order: it may have been shuffled in the original test.
+  async function refreshSavedExplanations() {
+    const saved = mode === 'fails' ? readFails() : readDoubts();
+    const temas = [...new Set(saved.map((q) => Number(q.tema)).filter((tema) => tema > 0))];
+    const chunks = await Promise.all(temas.map(async (tema) => {
+      try {
+        const response = await fetch(`${base}data/tests/tema-${String(tema).padStart(2, '0')}.json`);
+        if (!response.ok) return [];
+        const raw = await response.json();
+        return (Array.isArray(raw) ? raw : [])
+          .map((item, index) => normalizeQuestion(item, tema, index)).filter(Boolean);
+      } catch {
+        return [];
+      }
+    }));
+    const byId = new Map(chunks.flat().map((q) => [q.id, q]));
+    const refreshed = saved.map((q) => {
+      const current = byId.get(q.id);
+      // A changed answer needs a fresh question, not an explanation for old data.
+      const sameAnswer = current && current.pregunta === q.pregunta
+        && current.opciones[current.correcta] === q.opciones[q.correcta]
+        && [...current.opciones].sort().join('\n') === [...q.opciones].sort().join('\n');
+      return sameAnswer ? { ...q, explicacion: current.explicacion || q.explicacion } : q;
+    });
+    if (mode === 'fails') saveFails(refreshed);
+    else saveDoubts(refreshed);
+  }
+
   async function initTestApp() {
     if (mode === 'fails') {
-      await loadTopicLabels();
+      await Promise.all([loadTopicLabels(), refreshSavedExplanations()]);
       loadFailsView();
     } else if (mode === 'doubts') {
-      await loadTopicLabels();
+      await Promise.all([loadTopicLabels(), refreshSavedExplanations()]);
       loadDoubtsView();
     } else {
       loadNormalQuestions();
