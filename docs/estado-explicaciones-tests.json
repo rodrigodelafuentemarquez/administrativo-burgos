@@ -2,14 +2,1515 @@
   "version": 1,
   "automationId": "explicaciones-de-tests-burgos-por-grupos",
   "nextEligibleAt": 1791323277,
-  "lastProcessedWindowResetAt": null,
-  "currentGroup": "I",
+  "lastProcessedWindowResetAt": 1791323277,
+  "currentGroup": "II",
   "groups": {
     "I": {
-      "status": "pending",
+      "status": "completed",
       "initialQuestionCount": 444,
-      "reviewedIds": [],
-      "sources": []
+      "reviewedIds": [
+        "pdf-2023-burgos-q01",
+        "pdf-2025-burgos-q01",
+        "pdf-2025-burgos-q03",
+        "t01-p001",
+        "t01-p002",
+        "t01-p003",
+        "t01-p004",
+        "t01-p005",
+        "t01-p006",
+        "t01-p007",
+        "t01-p008",
+        "t01-p009",
+        "t01-p010",
+        "t01-p011",
+        "t01-p012",
+        "t01-p013",
+        "t01-p014",
+        "t01-p015",
+        "t01-p016",
+        "t01-p017",
+        "burgos-i01-hard-01",
+        "burgos-i01-hard-02",
+        "burgos-i01-hard-03",
+        "burgos-i01-hard-04",
+        "estado2026-i01-01",
+        "estado2026-i01-02",
+        "t01-p027",
+        "t01-p028",
+        "burgos-i01-deep-01",
+        "burgos-i01-deep-02",
+        "burgos-i01-deep-03",
+        "burgos-i01-deep-04",
+        "burgos-i01-deep-05",
+        "burgos-i01-deep-06",
+        "burgos-i01-deep-07",
+        "burgos-i01-deep-08",
+        "pdf-2025-burgos-q02",
+        "pdf-2025-burgos-q04",
+        "pdf-2025-burgos-q05",
+        "pdf-2025-burgos-q06",
+        "pdf-2023-burgos-q02",
+        "pdf-2023-burgos-q03",
+        "pdf-2023-burgos-q04",
+        "pdf-2023-burgos-q05",
+        "pdf-2023-burgos-q06",
+        "pdf-2023-burgos-q07",
+        "pdf-2023-burgos-q08",
+        "pdf-2023-burgos-q09",
+        "t03-p001",
+        "t03-p002",
+        "t03-p003",
+        "t03-p004",
+        "t03-p005",
+        "t03-p006",
+        "t03-p007",
+        "t03-p008",
+        "t03-p009",
+        "t03-p010",
+        "t03-p011",
+        "t03-p012",
+        "t03-p013",
+        "t03-p014",
+        "t03-p015",
+        "t03-p016",
+        "t03-p017",
+        "t04-p001",
+        "t04-p002",
+        "t04-p003",
+        "t04-p004",
+        "t04-p005",
+        "t04-p006",
+        "t04-p007",
+        "t04-p008",
+        "t04-p009",
+        "t04-p010",
+        "t04-p011",
+        "t04-p012",
+        "t04-p013",
+        "t04-p014",
+        "t04-p015",
+        "t04-p016",
+        "t04-p017",
+        "t05-p001",
+        "t05-p002",
+        "t05-p003",
+        "t05-p004",
+        "t05-p005",
+        "t05-p006",
+        "t05-p007",
+        "t05-p008",
+        "t05-p009",
+        "t05-p011",
+        "t05-p012",
+        "t05-p013",
+        "t05-p014",
+        "t05-p016",
+        "t06-p001",
+        "t06-p002",
+        "t06-p003",
+        "t06-p004",
+        "t06-p005",
+        "t06-p006",
+        "t06-p007",
+        "t06-p008",
+        "t06-p009",
+        "t06-p010",
+        "t06-p011",
+        "t06-p012",
+        "t06-p013",
+        "t06-p014",
+        "t06-p015",
+        "t06-p016",
+        "t06-p017",
+        "t06-p018",
+        "burgos-i02-hard-01",
+        "burgos-i02-hard-02",
+        "burgos-i02-hard-03",
+        "burgos-i02-hard-04",
+        "estado2026-i02-01",
+        "estado2026-i02-02",
+        "estado2026-i02-03",
+        "jcyl-aux-2026-q002",
+        "jcyl-aux-2026-q003",
+        "burgos-i02-deep-01",
+        "burgos-i02-deep-02",
+        "burgos-i02-deep-03",
+        "burgos-i02-deep-04",
+        "burgos-i02-deep-05",
+        "burgos-i02-deep-06",
+        "burgos-i02-deep-07",
+        "burgos-i02-deep-08",
+        "pdf-2023-burgos-q10",
+        "pdf-2025-burgos-q09",
+        "t07-p001",
+        "t07-p002",
+        "t07-p003",
+        "t07-p004",
+        "t07-p005",
+        "t07-p006",
+        "t07-p007",
+        "t07-p008",
+        "t07-p009",
+        "t07-p010",
+        "t07-p011",
+        "t07-p012",
+        "t07-p013",
+        "t07-p014",
+        "t07-p015",
+        "t07-p016",
+        "topup-03-01",
+        "topup-03-02",
+        "burgos-i03-hard-01",
+        "burgos-i03-hard-02",
+        "burgos-i03-hard-03",
+        "burgos-i03-hard-04",
+        "estado2026-i03-01",
+        "estado2026-i03-02",
+        "jcyl-adm-2026-q001",
+        "burgos-i03-deep-01",
+        "burgos-i03-deep-02",
+        "burgos-i03-deep-03",
+        "burgos-i03-deep-04",
+        "burgos-i03-deep-05",
+        "burgos-i03-deep-06",
+        "burgos-i03-deep-07",
+        "burgos-i03-deep-08",
+        "burgos-i03-deep-09",
+        "burgos-i03-deep-10",
+        "burgos-i03-deep-11",
+        "burgos-i03-deep-12",
+        "burgos-i03-deep-13",
+        "burgos-i03-deep-14",
+        "pdf-2023-burgos-r02",
+        "t05-p010",
+        "t05-p015",
+        "t13-p001",
+        "t13-p002",
+        "t13-p003",
+        "t13-p004",
+        "t13-p005",
+        "t13-p006",
+        "t13-p007",
+        "t13-p008",
+        "t13-p009",
+        "t13-p010",
+        "t13-p011",
+        "t13-p012",
+        "t13-p013",
+        "t13-p014",
+        "t13-p015",
+        "t13-p016",
+        "topup-04-01",
+        "burgos-i04-hard-01",
+        "burgos-i04-hard-02",
+        "burgos-i04-hard-03",
+        "burgos-i04-hard-04",
+        "estado2026-i04-01",
+        "estado2026-i04-02",
+        "estado2026-i04-03",
+        "jcyl-adm-2026-q002",
+        "jcyl-aux-2026-q005",
+        "burgos-i04-deep-01",
+        "burgos-i04-deep-02",
+        "burgos-i04-deep-03",
+        "burgos-i04-deep-04",
+        "burgos-i04-deep-05",
+        "burgos-i04-deep-06",
+        "burgos-i04-deep-07",
+        "burgos-i04-deep-08",
+        "burgos-i04-deep-09",
+        "burgos-i04-deep-10",
+        "pdf-2025-burgos-q25",
+        "t09-p001",
+        "t09-p003",
+        "t09-p006",
+        "t09-p007",
+        "t09-p008",
+        "t09-p009",
+        "t09-p011",
+        "t09-p012",
+        "t09-p015",
+        "t10-p001",
+        "t10-p002",
+        "t10-p003",
+        "t10-p004",
+        "t10-p005",
+        "t10-p006",
+        "t10-p007",
+        "t10-p008",
+        "t10-p009",
+        "t10-p010",
+        "t10-p011",
+        "t10-p012",
+        "t10-p013",
+        "t10-p014",
+        "t10-p015",
+        "burgos-i05-hard-01",
+        "burgos-i05-hard-02",
+        "burgos-i05-hard-03",
+        "burgos-i05-hard-04",
+        "estado2026-i05-01",
+        "estado2026-i05-02",
+        "burgos-i05-deep-01",
+        "burgos-i05-deep-02",
+        "burgos-i05-deep-03",
+        "burgos-i05-deep-04",
+        "burgos-i05-deep-05",
+        "burgos-i05-deep-06",
+        "burgos-i05-deep-07",
+        "burgos-i05-deep-08",
+        "pdf-2025-burgos-q24",
+        "pdf-2023-burgos-q12",
+        "t09-p002",
+        "t09-p004",
+        "t09-p005",
+        "t09-p010",
+        "t09-p013",
+        "topup-06-01",
+        "topup-06-09",
+        "topup-06-10",
+        "topup-06-11",
+        "topup-06-15",
+        "refine-06-01",
+        "refine-06-02",
+        "refine-06-03",
+        "refine-06-04",
+        "refine-06-05",
+        "burgos-i06-hard-01",
+        "burgos-i06-hard-02",
+        "burgos-i06-hard-03",
+        "burgos-i06-hard-04",
+        "estado2026-i06-01",
+        "estado2026-i06-02",
+        "jcyl-aux-2026-q006",
+        "burgos-i06-deep-01",
+        "burgos-i06-deep-02",
+        "burgos-i06-deep-03",
+        "burgos-i06-deep-04",
+        "burgos-i06-deep-05",
+        "burgos-i06-deep-06",
+        "burgos-i06-deep-07",
+        "burgos-i06-deep-08",
+        "pdf-2024-burgos-est-q01",
+        "pdf-2024-burgos-est-q02",
+        "pdf-2024-burgos-est-q03",
+        "pdf-2024-burgos-est-q04",
+        "pdf-2024-burgos-est-q05",
+        "pdf-2023-burgos-q21",
+        "pdf-2023-burgos-q22",
+        "pdf-2023-burgos-q23",
+        "pdf-2025-burgos-q26",
+        "pdf-2025-burgos-q29",
+        "pdf-2025-burgos-q44",
+        "pdf-2025-burgos-q27",
+        "pdf-2025-burgos-q28",
+        "topup-07-01",
+        "topup-07-02",
+        "topup-07-03",
+        "topup-07-04",
+        "topup-07-05",
+        "topup-07-08",
+        "topup-07-09",
+        "topup-07-10",
+        "topup-07-11",
+        "topup-07-14",
+        "refine-07-01",
+        "refine-07-02",
+        "refine-07-03",
+        "refine-07-04",
+        "refine-07-05",
+        "burgos-i07-hard-01",
+        "burgos-i07-hard-02",
+        "burgos-i07-hard-03",
+        "burgos-i07-hard-04",
+        "estado2026-i07-01",
+        "estado2026-i07-02",
+        "burgos-i07-deep-01",
+        "burgos-i07-deep-02",
+        "burgos-i07-deep-03",
+        "burgos-i07-deep-04",
+        "burgos-i07-deep-05",
+        "burgos-i07-deep-06",
+        "burgos-i07-deep-07",
+        "burgos-i07-deep-08",
+        "burgos-i07-deep-09",
+        "burgos-i07-deep-10",
+        "pdf-2025-burgos-q23",
+        "pdf-2025-burgos-q31",
+        "pdf-2025-burgos-r01",
+        "pdf-2023-burgos-q13",
+        "t41-p001",
+        "t41-p002",
+        "t41-p003",
+        "t41-p004",
+        "t41-p005",
+        "t41-p006",
+        "t41-p007",
+        "t41-p008",
+        "t41-p009",
+        "t41-p010",
+        "t41-p011",
+        "t41-p012",
+        "t41-p013",
+        "t41-p014",
+        "t41-p015",
+        "t41-p016",
+        "t41-p017",
+        "t41-p018",
+        "t41-p019",
+        "t41-p020",
+        "t41-p021",
+        "t41-p022",
+        "t41-p023",
+        "t41-p024",
+        "t41-p025",
+        "t41-p026",
+        "t41-p027",
+        "burgos-i08-hard-01",
+        "burgos-i08-hard-02",
+        "burgos-i08-hard-03",
+        "burgos-i08-hard-04",
+        "estado2026-i08-01",
+        "estado2026-i08-02",
+        "estado2026-i08-03",
+        "realstyle-i08-01",
+        "realstyle-i08-02",
+        "realstyle-i08-03",
+        "jcyl-adm-2026-q004",
+        "jcyl-aux-2026-q007",
+        "jcyl-aux-2026-q008",
+        "burgos-i08-deep-01",
+        "burgos-i08-deep-02",
+        "burgos-i08-deep-03",
+        "burgos-i08-deep-04",
+        "burgos-i08-deep-05",
+        "burgos-i08-deep-06",
+        "burgos-i08-deep-07",
+        "burgos-i08-deep-08",
+        "pdf-2023-burgos-q11",
+        "pdf-2025-burgos-q07",
+        "pdf-2025-burgos-q08",
+        "t08-p001",
+        "t08-p002",
+        "t08-p003",
+        "t08-p004",
+        "t08-p005",
+        "t08-p006",
+        "t08-p007",
+        "t08-p008",
+        "t08-p009",
+        "t08-p010",
+        "t08-p011",
+        "t08-p012",
+        "t08-p013",
+        "t08-p014",
+        "t08-p015",
+        "t47-p001",
+        "t47-p002",
+        "t47-p003",
+        "t47-p004",
+        "t47-p005",
+        "t47-p006",
+        "t47-p007",
+        "t47-p008",
+        "t47-p009",
+        "t47-p010",
+        "t47-p011",
+        "t47-p012",
+        "t47-p013",
+        "t47-p014",
+        "t47-p015",
+        "t47-p016",
+        "t47-p017",
+        "t47-p018",
+        "t47-p019",
+        "t47-p020",
+        "t47-p021",
+        "t47-p022",
+        "t47-p023",
+        "t47-p024",
+        "t47-p025",
+        "t47-p026",
+        "burgos-i09-hard-01",
+        "burgos-i09-hard-02",
+        "burgos-i09-hard-03",
+        "burgos-i09-hard-04",
+        "estado2026-i09-01",
+        "estado2026-i09-02",
+        "realstyle-i09-01",
+        "realstyle-i09-02",
+        "jcyl-adm-2026-q006",
+        "jcyl-aux-2026-q009",
+        "jcyl-aux-2026-q010",
+        "jcyl-aux-2026-q011",
+        "jcyl-aux-2026-q014",
+        "jcyl-aux-2026-q015",
+        "burgos-i09-deep-01",
+        "burgos-i09-deep-02",
+        "burgos-i09-deep-03",
+        "burgos-i09-deep-04",
+        "burgos-i09-deep-05",
+        "burgos-i09-deep-06",
+        "burgos-i09-deep-07",
+        "burgos-i09-deep-08"
+      ],
+      "sources": [
+        "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25714",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+        "https://www.congreso.es/en/cem/tit2",
+        "https://www.senado.es/web/conocersenado/normas/reglamentootrasnormassenado/detallesreglamentosenado/index.html?lang=es_ES",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1998-20054",
+        "https://bopbur.diputaciondeburgos.es/system/files/private/publicado/bopbur-2012-213/bopbur-2012-213.pdf",
+        "https://cultura.aytoburgos.es/documents/38509/243342/modificacion-reglamento-team-2016.pdf/504a3db1-7169-a4f7-d9b9-94bdf2895610?t=1648667636053",
+        "https://www.boe.es/buscar/doc.php?id=DOUE-Z-2016-70015",
+        "https://www.consilium.europa.eu/es/history/",
+        "https://www.consilium.europa.eu/es/european-council-and-council-of-the-eu/",
+        "https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=ES&num=C-561%2F19",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1994-7270",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2002-9245",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2002-9332",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14243",
+        "https://www.boe.es/buscar/act.php?id=BOE-A-1988-3241",
+        "https://www.ccyl.es/legislacion/reglamentocortes",
+        "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Castilla-y-Leon/",
+        "https://curia.europa.eu/site/jcms/d2_5100/es/historia",
+        "https://www.europarl.europa.eu/factsheets/es/sheet/20/the-european-parliament-organisation-and-operation",
+        "https://www.boe.es/buscar/doc.php?id=DOUE-L-2013-81189"
+      ],
+      "startedAt": "2026-10-06T17:09:06.476457+00:00",
+      "manualStartAuthorized": true,
+      "topics": {
+        "1": {
+          "reviewedIds": [
+            "pdf-2023-burgos-q01",
+            "pdf-2025-burgos-q01",
+            "pdf-2025-burgos-q03",
+            "t01-p001",
+            "t01-p002",
+            "t01-p003",
+            "t01-p004",
+            "t01-p005",
+            "t01-p006",
+            "t01-p007",
+            "t01-p008",
+            "t01-p009",
+            "t01-p010",
+            "t01-p011",
+            "t01-p012",
+            "t01-p013",
+            "t01-p014",
+            "t01-p015",
+            "t01-p016",
+            "t01-p017",
+            "burgos-i01-hard-01",
+            "burgos-i01-hard-02",
+            "burgos-i01-hard-03",
+            "burgos-i01-hard-04",
+            "estado2026-i01-01",
+            "estado2026-i01-02",
+            "t01-p027",
+            "t01-p028",
+            "burgos-i01-deep-01",
+            "burgos-i01-deep-02",
+            "burgos-i01-deep-03",
+            "burgos-i01-deep-04",
+            "burgos-i01-deep-05",
+            "burgos-i01-deep-06",
+            "burgos-i01-deep-07",
+            "burgos-i01-deep-08"
+          ],
+          "sources": [
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1995-25714"
+          ],
+          "status": "reviewed"
+        },
+        "2": {
+          "reviewedIds": [
+            "pdf-2025-burgos-q02",
+            "pdf-2025-burgos-q04",
+            "pdf-2025-burgos-q05",
+            "pdf-2025-burgos-q06",
+            "pdf-2023-burgos-q02",
+            "pdf-2023-burgos-q03",
+            "pdf-2023-burgos-q04",
+            "pdf-2023-burgos-q05",
+            "pdf-2023-burgos-q06",
+            "pdf-2023-burgos-q07",
+            "pdf-2023-burgos-q08",
+            "pdf-2023-burgos-q09",
+            "t03-p001",
+            "t03-p002",
+            "t03-p003",
+            "t03-p004",
+            "t03-p005",
+            "t03-p006",
+            "t03-p007",
+            "t03-p008",
+            "t03-p009",
+            "t03-p010",
+            "t03-p011",
+            "t03-p012",
+            "t03-p013",
+            "t03-p014",
+            "t03-p015",
+            "t03-p016",
+            "t03-p017",
+            "t04-p001",
+            "t04-p002",
+            "t04-p003",
+            "t04-p004",
+            "t04-p005",
+            "t04-p006",
+            "t04-p007",
+            "t04-p008",
+            "t04-p009",
+            "t04-p010",
+            "t04-p011",
+            "t04-p012",
+            "t04-p013",
+            "t04-p014",
+            "t04-p015",
+            "t04-p016",
+            "t04-p017",
+            "t05-p001",
+            "t05-p002",
+            "t05-p003",
+            "t05-p004",
+            "t05-p005",
+            "t05-p006",
+            "t05-p007",
+            "t05-p008",
+            "t05-p009",
+            "t05-p011",
+            "t05-p012",
+            "t05-p013",
+            "t05-p014",
+            "t05-p016",
+            "t06-p001",
+            "t06-p002",
+            "t06-p003",
+            "t06-p004",
+            "t06-p005",
+            "t06-p006",
+            "t06-p007",
+            "t06-p008",
+            "t06-p009",
+            "t06-p010",
+            "t06-p011",
+            "t06-p012",
+            "t06-p013",
+            "t06-p014",
+            "t06-p015",
+            "t06-p016",
+            "t06-p017",
+            "t06-p018",
+            "burgos-i02-hard-01",
+            "burgos-i02-hard-02",
+            "burgos-i02-hard-03",
+            "burgos-i02-hard-04",
+            "estado2026-i02-01",
+            "estado2026-i02-02",
+            "estado2026-i02-03",
+            "jcyl-aux-2026-q002",
+            "jcyl-aux-2026-q003",
+            "burgos-i02-deep-01",
+            "burgos-i02-deep-02",
+            "burgos-i02-deep-03",
+            "burgos-i02-deep-04",
+            "burgos-i02-deep-05",
+            "burgos-i02-deep-06",
+            "burgos-i02-deep-07",
+            "burgos-i02-deep-08"
+          ],
+          "sources": [
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+            "https://www.congreso.es/en/cem/tit2",
+            "https://www.senado.es/web/conocersenado/normas/reglamentootrasnormassenado/detallesreglamentosenado/index.html?lang=es_ES",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1985-12666",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1882-6036",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718"
+          ],
+          "status": "reviewed"
+        },
+        "3": {
+          "reviewedIds": [
+            "pdf-2023-burgos-q10",
+            "pdf-2025-burgos-q09",
+            "t07-p001",
+            "t07-p002",
+            "t07-p003",
+            "t07-p004",
+            "t07-p005",
+            "t07-p006",
+            "t07-p007",
+            "t07-p008",
+            "t07-p009",
+            "t07-p010",
+            "t07-p011",
+            "t07-p012",
+            "t07-p013",
+            "t07-p014",
+            "t07-p015",
+            "t07-p016",
+            "topup-03-01",
+            "topup-03-02",
+            "burgos-i03-hard-01",
+            "burgos-i03-hard-02",
+            "burgos-i03-hard-03",
+            "burgos-i03-hard-04",
+            "estado2026-i03-01",
+            "estado2026-i03-02",
+            "jcyl-adm-2026-q001",
+            "burgos-i03-deep-01",
+            "burgos-i03-deep-02",
+            "burgos-i03-deep-03",
+            "burgos-i03-deep-04",
+            "burgos-i03-deep-05",
+            "burgos-i03-deep-06",
+            "burgos-i03-deep-07",
+            "burgos-i03-deep-08",
+            "burgos-i03-deep-09",
+            "burgos-i03-deep-10",
+            "burgos-i03-deep-11",
+            "burgos-i03-deep-12",
+            "burgos-i03-deep-13",
+            "burgos-i03-deep-14"
+          ],
+          "sources": [
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con"
+          ],
+          "status": "reviewed"
+        },
+        "4": {
+          "reviewedIds": [
+            "pdf-2023-burgos-r02",
+            "t05-p010",
+            "t05-p015",
+            "t13-p001",
+            "t13-p002",
+            "t13-p003",
+            "t13-p004",
+            "t13-p005",
+            "t13-p006",
+            "t13-p007",
+            "t13-p008",
+            "t13-p009",
+            "t13-p010",
+            "t13-p011",
+            "t13-p012",
+            "t13-p013",
+            "t13-p014",
+            "t13-p015",
+            "t13-p016",
+            "topup-04-01",
+            "burgos-i04-hard-01",
+            "burgos-i04-hard-02",
+            "burgos-i04-hard-03",
+            "burgos-i04-hard-04",
+            "estado2026-i04-01",
+            "estado2026-i04-02",
+            "estado2026-i04-03",
+            "jcyl-adm-2026-q002",
+            "jcyl-aux-2026-q005",
+            "burgos-i04-deep-01",
+            "burgos-i04-deep-02",
+            "burgos-i04-deep-03",
+            "burgos-i04-deep-04",
+            "burgos-i04-deep-05",
+            "burgos-i04-deep-06",
+            "burgos-i04-deep-07",
+            "burgos-i04-deep-08",
+            "burgos-i04-deep-09",
+            "burgos-i04-deep-10"
+          ],
+          "sources": [
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1997-25336",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1998-16718"
+          ],
+          "status": "reviewed"
+        },
+        "5": {
+          "reviewedIds": [
+            "pdf-2025-burgos-q25",
+            "t09-p001",
+            "t09-p003",
+            "t09-p006",
+            "t09-p007",
+            "t09-p008",
+            "t09-p009",
+            "t09-p011",
+            "t09-p012",
+            "t09-p015",
+            "t10-p001",
+            "t10-p002",
+            "t10-p003",
+            "t10-p004",
+            "t10-p005",
+            "t10-p006",
+            "t10-p007",
+            "t10-p008",
+            "t10-p009",
+            "t10-p010",
+            "t10-p011",
+            "t10-p012",
+            "t10-p013",
+            "t10-p014",
+            "t10-p015",
+            "burgos-i05-hard-01",
+            "burgos-i05-hard-02",
+            "burgos-i05-hard-03",
+            "burgos-i05-hard-04",
+            "estado2026-i05-01",
+            "estado2026-i05-02",
+            "burgos-i05-deep-01",
+            "burgos-i05-deep-02",
+            "burgos-i05-deep-03",
+            "burgos-i05-deep-04",
+            "burgos-i05-deep-05",
+            "burgos-i05-deep-06",
+            "burgos-i05-deep-07",
+            "burgos-i05-deep-08"
+          ],
+          "sources": [
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1985-11672",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1998-20054"
+          ],
+          "status": "reviewed"
+        },
+        "6": {
+          "reviewedIds": [
+            "pdf-2025-burgos-q24",
+            "pdf-2023-burgos-q12",
+            "t09-p002",
+            "t09-p004",
+            "t09-p005",
+            "t09-p010",
+            "t09-p013",
+            "topup-06-01",
+            "topup-06-09",
+            "topup-06-10",
+            "topup-06-11",
+            "topup-06-15",
+            "refine-06-01",
+            "refine-06-02",
+            "refine-06-03",
+            "refine-06-04",
+            "refine-06-05",
+            "burgos-i06-hard-01",
+            "burgos-i06-hard-02",
+            "burgos-i06-hard-03",
+            "burgos-i06-hard-04",
+            "estado2026-i06-01",
+            "estado2026-i06-02",
+            "jcyl-aux-2026-q006",
+            "burgos-i06-deep-01",
+            "burgos-i06-deep-02",
+            "burgos-i06-deep-03",
+            "burgos-i06-deep-04",
+            "burgos-i06-deep-05",
+            "burgos-i06-deep-06",
+            "burgos-i06-deep-07",
+            "burgos-i06-deep-08"
+          ],
+          "sources": [
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392"
+          ],
+          "status": "reviewed"
+        },
+        "7": {
+          "reviewedIds": [
+            "pdf-2024-burgos-est-q01",
+            "pdf-2024-burgos-est-q02",
+            "pdf-2024-burgos-est-q03",
+            "pdf-2024-burgos-est-q04",
+            "pdf-2024-burgos-est-q05",
+            "pdf-2023-burgos-q21",
+            "pdf-2023-burgos-q22",
+            "pdf-2023-burgos-q23",
+            "pdf-2025-burgos-q26",
+            "pdf-2025-burgos-q29",
+            "pdf-2025-burgos-q44",
+            "pdf-2025-burgos-q27",
+            "pdf-2025-burgos-q28",
+            "topup-07-01",
+            "topup-07-02",
+            "topup-07-03",
+            "topup-07-04",
+            "topup-07-05",
+            "topup-07-08",
+            "topup-07-09",
+            "topup-07-10",
+            "topup-07-11",
+            "topup-07-14",
+            "refine-07-01",
+            "refine-07-02",
+            "refine-07-03",
+            "refine-07-04",
+            "refine-07-05",
+            "burgos-i07-hard-01",
+            "burgos-i07-hard-02",
+            "burgos-i07-hard-03",
+            "burgos-i07-hard-04",
+            "estado2026-i07-01",
+            "estado2026-i07-02",
+            "burgos-i07-deep-01",
+            "burgos-i07-deep-02",
+            "burgos-i07-deep-03",
+            "burgos-i07-deep-04",
+            "burgos-i07-deep-05",
+            "burgos-i07-deep-06",
+            "burgos-i07-deep-07",
+            "burgos-i07-deep-08",
+            "burgos-i07-deep-09",
+            "burgos-i07-deep-10"
+          ],
+          "sources": [
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392",
+            "https://bopbur.diputaciondeburgos.es/system/files/private/publicado/bopbur-2012-213/bopbur-2012-213.pdf",
+            "https://cultura.aytoburgos.es/documents/38509/243342/modificacion-reglamento-team-2016.pdf/504a3db1-7169-a4f7-d9b9-94bdf2895610?t=1648667636053"
+          ],
+          "status": "reviewed"
+        },
+        "8": {
+          "reviewedIds": [
+            "pdf-2025-burgos-q23",
+            "pdf-2025-burgos-q31",
+            "pdf-2025-burgos-r01",
+            "pdf-2023-burgos-q13",
+            "t41-p001",
+            "t41-p002",
+            "t41-p003",
+            "t41-p004",
+            "t41-p005",
+            "t41-p006",
+            "t41-p007",
+            "t41-p008",
+            "t41-p009",
+            "t41-p010",
+            "t41-p011",
+            "t41-p012",
+            "t41-p013",
+            "t41-p014",
+            "t41-p015",
+            "t41-p016",
+            "t41-p017",
+            "t41-p018",
+            "t41-p019",
+            "t41-p020",
+            "t41-p021",
+            "t41-p022",
+            "t41-p023",
+            "t41-p024",
+            "t41-p025",
+            "t41-p026",
+            "t41-p027",
+            "burgos-i08-hard-01",
+            "burgos-i08-hard-02",
+            "burgos-i08-hard-03",
+            "burgos-i08-hard-04",
+            "estado2026-i08-01",
+            "estado2026-i08-02",
+            "estado2026-i08-03",
+            "realstyle-i08-01",
+            "realstyle-i08-02",
+            "realstyle-i08-03",
+            "jcyl-adm-2026-q004",
+            "jcyl-aux-2026-q007",
+            "jcyl-aux-2026-q008",
+            "burgos-i08-deep-01",
+            "burgos-i08-deep-02",
+            "burgos-i08-deep-03",
+            "burgos-i08-deep-04",
+            "burgos-i08-deep-05",
+            "burgos-i08-deep-06",
+            "burgos-i08-deep-07",
+            "burgos-i08-deep-08"
+          ],
+          "sources": [
+            "https://www.boe.es/buscar/doc.php?id=DOUE-Z-2016-70015",
+            "https://www.consilium.europa.eu/es/history/",
+            "https://www.consilium.europa.eu/es/european-council-and-council-of-the-eu/",
+            "https://infocuria.curia.europa.eu/tabs/redirect/juris/liste.jsf?language=ES&num=C-561%2F19",
+            "https://curia.europa.eu/site/jcms/d2_5100/es/historia",
+            "https://www.europarl.europa.eu/factsheets/es/sheet/20/the-european-parliament-organisation-and-operation",
+            "https://www.boe.es/buscar/doc.php?id=DOUE-L-2013-81189"
+          ],
+          "status": "reviewed"
+        },
+        "9": {
+          "reviewedIds": [
+            "pdf-2023-burgos-q11",
+            "pdf-2025-burgos-q07",
+            "pdf-2025-burgos-q08",
+            "t08-p001",
+            "t08-p002",
+            "t08-p003",
+            "t08-p004",
+            "t08-p005",
+            "t08-p006",
+            "t08-p007",
+            "t08-p008",
+            "t08-p009",
+            "t08-p010",
+            "t08-p011",
+            "t08-p012",
+            "t08-p013",
+            "t08-p014",
+            "t08-p015",
+            "t47-p001",
+            "t47-p002",
+            "t47-p003",
+            "t47-p004",
+            "t47-p005",
+            "t47-p006",
+            "t47-p007",
+            "t47-p008",
+            "t47-p009",
+            "t47-p010",
+            "t47-p011",
+            "t47-p012",
+            "t47-p013",
+            "t47-p014",
+            "t47-p015",
+            "t47-p016",
+            "t47-p017",
+            "t47-p018",
+            "t47-p019",
+            "t47-p020",
+            "t47-p021",
+            "t47-p022",
+            "t47-p023",
+            "t47-p024",
+            "t47-p025",
+            "t47-p026",
+            "burgos-i09-hard-01",
+            "burgos-i09-hard-02",
+            "burgos-i09-hard-03",
+            "burgos-i09-hard-04",
+            "estado2026-i09-01",
+            "estado2026-i09-02",
+            "realstyle-i09-01",
+            "realstyle-i09-02",
+            "jcyl-adm-2026-q006",
+            "jcyl-aux-2026-q009",
+            "jcyl-aux-2026-q010",
+            "jcyl-aux-2026-q011",
+            "jcyl-aux-2026-q014",
+            "jcyl-aux-2026-q015",
+            "burgos-i09-deep-01",
+            "burgos-i09-deep-02",
+            "burgos-i09-deep-03",
+            "burgos-i09-deep-04",
+            "burgos-i09-deep-05",
+            "burgos-i09-deep-06",
+            "burgos-i09-deep-07",
+            "burgos-i09-deep-08"
+          ],
+          "sources": [
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2007-20635",
+            "https://www.boe.es/eli/es/c/1978/12/27/(1)/con",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1994-7270",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2002-9245",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2002-9332",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14243",
+            "https://www.boe.es/buscar/act.php?id=BOE-A-1988-3241",
+            "https://www.ccyl.es/legislacion/reglamentocortes",
+            "https://www.poderjudicial.es/cgpj/es/Poder-Judicial/Tribunales-Superiores-de-Justicia/TSJ-Castilla-y-Leon/"
+          ],
+          "status": "reviewed"
+        }
+      },
+      "updatedAt": "2026-10-06T17:32:54.672834+00:00",
+      "corrections": [
+        {
+          "id": "t04-p007",
+          "reason": "La formación de grupos procede del Reglamento del Congreso, no de la Constitución.",
+          "before": {
+            "pregunta": "En la Constitución Española, ¿qué requisito general se exige para formar grupo parlamentario en el Congreso?"
+          },
+          "after": {
+            "pregunta": "Según el Reglamento del Congreso, ¿qué mínimo de diputados permite formar grupo parlamentario, sin perjuicio de las condiciones electorales exigidas para la vía excepcional?"
+          }
+        },
+        {
+          "id": "t05-p006",
+          "reason": "La prohibición del Gobierno en funciones se establece en el artículo 21 de la Ley 50/1997.",
+          "before": {
+            "pregunta": "En la Constitución Española, ¿cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones?"
+          },
+          "after": {
+            "pregunta": "Según la Ley 50/1997, del Gobierno, ¿cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones?"
+          }
+        },
+        {
+          "id": "t06-p007",
+          "reason": "La sede de la Audiencia Nacional se regula en la LOPJ, no en la Constitución.",
+          "before": {
+            "pregunta": "En la Constitución Española, ¿dónde tiene su sede la Audiencia Nacional?"
+          },
+          "after": {
+            "pregunta": "Según la Ley Orgánica del Poder Judicial, ¿dónde tiene su sede la Audiencia Nacional?"
+          }
+        },
+        {
+          "id": "t06-p013",
+          "reason": "El artículo 125 CE menciona tribunales consuetudinarios y tradicionales, no tribunales populares.",
+          "before": {
+            "opciones": [
+              "jurados y tribunales populares",
+              "jurado solamente",
+              "procuradores y notarios",
+              "elección directa de jueces"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "la acción popular, el jurado y los tribunales consuetudinarios y tradicionales",
+              "jurado solamente",
+              "procuradores y notarios",
+              "elección directa de jueces"
+            ]
+          }
+        },
+        {
+          "id": "t06-p014",
+          "reason": "Se actualiza la referencia derogada al artículo 560.1.16 de la LOPJ.",
+          "before": {
+            "pregunta": "Según el art. 107 LOPJ, ¿qué órgano puede dictar reglamentos en el ámbito de sus competencias de personal?"
+          },
+          "after": {
+            "pregunta": "Según el artículo 560 de la LOPJ, ¿qué órgano tiene potestad reglamentaria en las materias de su competencia previstas legalmente?"
+          }
+        },
+        {
+          "id": "t06-p009",
+          "reason": "Se adapta la denominación a los Tribunales de Instancia y se precisa que el límite se refiere a la pena prevista para el delito.",
+          "before": {
+            "pregunta": "En la organización judicial española, ¿qué tipo de asuntos conocen los Juzgados de lo Penal?"
+          },
+          "after": {
+            "pregunta": "Como regla general del artículo 14 LECrim, ¿qué delitos enjuicia la Sección de lo Penal del Tribunal de Instancia, sin perjuicio de competencias especiales?"
+          }
+        },
+        {
+          "id": "t06-p015",
+          "reason": "La Sala Tercera no conoce directamente de todos los actos de cualquier órgano de la AGE.",
+          "before": {
+            "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos contra actos del Gobierno y de la AGE?"
+          },
+          "after": {
+            "pregunta": "¿Qué sala del Tribunal Supremo conoce, en los supuestos legalmente atribuidos a ese tribunal, de los recursos contencioso-administrativos contra actos del Consejo de Ministros?"
+          }
+        },
+        {
+          "id": "t07-p004",
+          "reason": "Se incorpora el límite de la prevalencia previsto en el artículo 149.3 CE.",
+          "before": {
+            "opciones": [
+              "Que el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
+              "Qué el Derecho autonómico prevalece siempre sobre el estatal",
+              "Qué el Derecho europeo suple a todos los demás",
+              "Qué las ordenanzas locales prevalecen sobre la ley"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "Que el Derecho estatal prevalece en caso de conflicto en lo que no esté atribuido a la exclusiva competencia de las comunidades autónomas",
+              "Qué el Derecho autonómico prevalece siempre sobre el estatal",
+              "Qué el Derecho europeo suple a todos los demás",
+              "Qué las ordenanzas locales prevalecen sobre la ley"
+            ]
+          }
+        },
+        {
+          "id": "estado2026-i03-02",
+          "reason": "La prevalencia trata de conflictos normativos, no es por sí sola un título para atribuir competencias.",
+          "before": {
+            "opciones": [
+              "La prevalencia resuelve conflictos competenciales a favor del Estado en lo no atribuido exclusivamente a las Comunidades; la supletoriedad cubre lagunas",
+              "La prevalencia convierte siempre cualquier norma autonómica en nula",
+              "La supletoriedad impide aplicar Derecho estatal en las Comunidades Autónomas",
+              "Ambas cláusulas atribuyen competencias nuevas a los municipios"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "La prevalencia resuelve conflictos normativos en lo no atribuido exclusivamente a las comunidades autónomas; la supletoriedad permite cubrir lagunas",
+              "La prevalencia convierte siempre cualquier norma autonómica en nula",
+              "La supletoriedad impide aplicar Derecho estatal en las Comunidades Autónomas",
+              "Ambas cláusulas atribuyen competencias nuevas a los municipios"
+            ]
+          }
+        },
+        {
+          "id": "t13-p015",
+          "reason": "Se ajusta la enumeración a los principios expresos del artículo 3.1 de la Ley 40/2015.",
+          "before": {
+            "opciones": [
+              "servicio efectivo a los ciudadanos, buena fe y confianza legítima, proporcionalidad y sostenibilidad",
+              "solo jerarquía y descentralización",
+              "únicamente la legalidad penal",
+              "solo la potestad sancionadora"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "servicio efectivo a los ciudadanos, buena fe y confianza legítima, eficiencia y utilización de los recursos públicos",
+              "solo jerarquía y descentralización",
+              "únicamente la legalidad penal",
+              "solo la potestad sancionadora"
+            ]
+          }
+        },
+        {
+          "id": "t09-p007",
+          "reason": "Una Junta Vecinal es órgano de una entidad local menor, no la entidad territorial misma.",
+          "before": {
+            "pregunta": "En régimen local, ¿cuál de las siguientes es una entidad local menor?"
+          },
+          "after": {
+            "pregunta": "En Castilla y León, ¿cuál de los siguientes es un órgano de gobierno de una entidad local menor?"
+          }
+        },
+        {
+          "id": "t09-p015",
+          "reason": "Se evita negar la dimensión democrática de la autonomía local; se precisa su alcance sin potestad legislativa general.",
+          "before": {
+            "opciones": [
+              "una autonomía legislativa",
+              "una autonomía administrativa, no política",
+              "una autonomía jurisdiccional",
+              "una autonomía tributaria absoluta"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "una autonomía legislativa",
+              "una autonomía para gestionar intereses propios dentro de la ley, sin potestad legislativa general",
+              "una autonomía jurisdiccional",
+              "una autonomía tributaria absoluta"
+            ]
+          }
+        },
+        {
+          "id": "t10-p006",
+          "reason": "El número de diputados provinciales se fija en el artículo 204 LOREG.",
+          "before": {
+            "pregunta": "Según los arts. 32 y 33 LBRL, cuando la provincia tiene hasta 500.000 habitantes, ¿cuántos Diputados Provinciales corresponden?"
+          },
+          "after": {
+            "pregunta": "Según el artículo 204 de la LOREG, cuando la provincia tiene hasta 500.000 habitantes, ¿cuántos diputados provinciales corresponden?"
+          }
+        },
+        {
+          "id": "t10-p013",
+          "reason": "Se corrige la fuente del reparto de diputados provinciales a la LOREG.",
+          "before": {
+            "pregunta": "Según los arts. 32 y 33 LBRL, en provincias de 1.000.001 a 3.500.000 habitantes corresponden:"
+          },
+          "after": {
+            "pregunta": "Según el artículo 204 de la LOREG, en provincias de 1.000.001 a 3.500.000 habitantes corresponden:"
+          }
+        },
+        {
+          "id": "t10-p008",
+          "reason": "El artículo 46.2.a LBRL exige periodicidad mensual a todas las diputaciones, sin ese umbral de población.",
+          "before": {
+            "pregunta": "¿Con qué periodicidad debe reunirse el Pleno de la Diputación, en las Diputaciones de más de 20.000 habitantes?"
+          },
+          "after": {
+            "pregunta": "Según el artículo 46.2.a de la LBRL, ¿con qué periodicidad mínima debe reunirse el Pleno de una Diputación Provincial?"
+          }
+        },
+        {
+          "id": "burgos-i05-deep-03",
+          "reason": "El enunciado anterior admitía también servicios del tramo de 5.000 habitantes; se pregunta ahora por los añadidos al superar 20.000.",
+          "before": {
+            "pregunta": "Un municipio de 30.000 habitantes debe prestar, además de los servicios comunes a todos los municipios, entre otros:"
+          },
+          "after": {
+            "pregunta": "Según el artículo 26 LBRL, ¿qué conjunto de servicios se añade al superar 20.000 habitantes, como ocurre en un municipio de 30.000?"
+          }
+        },
+        {
+          "id": "t41-p013",
+          "reason": "El artículo 17.2 TUE admite excepciones a la iniciativa general de la Comisión.",
+          "before": {
+            "pregunta": "En la Unión Europea, la Comisión tiene el monopolio de la:"
+          },
+          "after": {
+            "pregunta": "Con carácter general, según el artículo 17.2 TUE, ¿a qué institución corresponde la iniciativa legislativa de la Unión?"
+          }
+        },
+        {
+          "id": "t41-p026",
+          "reason": "Se precisa la regla general de iniciativa legislativa del artículo 17.2 TUE.",
+          "before": {
+            "pregunta": "En la Unión Europea, la Comisión Europea tiene el monopolio de la:"
+          },
+          "after": {
+            "pregunta": "Con carácter general, según el artículo 17.2 TUE, la Comisión Europea tiene atribuida la:"
+          }
+        },
+        {
+          "id": "t41-p014",
+          "reason": "Se distingue la estructura prevista en el artículo 19.1 TUE de los tribunales especializados actualmente inexistentes.",
+          "before": {
+            "pregunta": "En la Unión Europea, el TJUE se compone de:"
+          },
+          "after": {
+            "pregunta": "¿Qué estructura jurisdiccional prevé el artículo 19.1 del Tratado de la Unión Europea?"
+          }
+        },
+        {
+          "id": "t41-p024",
+          "reason": "La constatación de violación grave y persistente se regula en el artículo 7.2 TUE, no en el artículo 2.",
+          "before": {
+            "pregunta": "De acuerdo con el art. 2 TUE, la existencia de una violación grave y persistente de los valores de la Unión por un Estado miembro puede ser constatada por:"
+          },
+          "after": {
+            "pregunta": "De acuerdo con el artículo 7.2 TUE, la existencia de una violación grave y persistente de los valores de la Unión por un Estado miembro puede ser constatada por:"
+          }
+        },
+        {
+          "id": "burgos-i08-hard-01",
+          "reason": "Se evita confundir iniciativa de la Comisión con colegislación: el artículo 15.1 excluye expresamente la función legislativa del Consejo Europeo.",
+          "before": {
+            "pregunta": "¿Qué institución de la Unión Europea NO ejerce función legislativa ordinaria?"
+          },
+          "after": {
+            "pregunta": "¿Qué institución de la Unión Europea señala expresamente el artículo 15.1 TUE que no ejercerá función legislativa?"
+          }
+        },
+        {
+          "id": "t08-p005",
+          "reason": "El artículo 21.2 del Estatuto establece una fórmula provincial, no un intervalo fijo de 80 a 84 miembros.",
+          "before": {
+            "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, las Cortes de Castilla y León se componen de:",
+            "opciones": [
+              "80 a 84 procuradores",
+              "61 a 83 procuradores",
+              "81 a 101 procuradores",
+              "100 a 125 procuradores"
+            ]
+          },
+          "after": {
+            "pregunta": "Según el artículo 21.2 del Estatuto, ¿cómo se determina el número de Procuradores de las Cortes de Castilla y León?",
+            "opciones": [
+              "Tres Procuradores por provincia y uno más por cada 45.000 habitantes o fracción superior a 22.500",
+              "61 a 83 procuradores",
+              "81 a 101 procuradores",
+              "100 a 125 procuradores"
+            ]
+          }
+        },
+        {
+          "id": "t47-p004",
+          "reason": "El artículo 21.2 del Estatuto establece una fórmula provincial, no un intervalo fijo de 80 a 84 miembros.",
+          "before": {
+            "pregunta": "El número de Procuradores de las Cortes de Castilla y León es:",
+            "opciones": [
+              "60 a 64",
+              "70 a 74",
+              "80 a 84",
+              "100 a 104"
+            ]
+          },
+          "after": {
+            "pregunta": "Según el artículo 21.2 del Estatuto, ¿cómo se determina el número de Procuradores de las Cortes de Castilla y León?",
+            "opciones": [
+              "60 a 64",
+              "70 a 74",
+              "Tres Procuradores por provincia y uno más por cada 45.000 habitantes o fracción superior a 22.500",
+              "100 a 104"
+            ]
+          }
+        },
+        {
+          "id": "t08-p007",
+          "reason": "El artículo 42 del Estatuto regula el Consejo de Justicia y no establece la sede del TSJ; se elimina la referencia errónea.",
+          "before": {
+            "pregunta": "Según el art. 42 EACyL, ¿dónde tiene su sede el Tribunal Superior de Justicia de Castilla y León?"
+          },
+          "after": {
+            "pregunta": "¿En qué ciudad tiene su sede principal el Tribunal Superior de Justicia de Castilla y León?"
+          }
+        },
+        {
+          "id": "t08-p010",
+          "reason": "Se precisa institución propia autonómica para evitar respuesta simultáneamente válida del Defensor del Pueblo.",
+          "before": {
+            "pregunta": "¿Quién puede supervisar la actividad de la Administración de la Junta de Castilla y León y de las Entidades Locales?"
+          },
+          "after": {
+            "pregunta": "¿Qué institución propia de Castilla y León supervisa la actividad de la Administración autonómica y de sus Entidades Locales para defender los derechos ciudadanos?"
+          }
+        },
+        {
+          "id": "t08-p015",
+          "reason": "El artículo 2.1 de la Ley 2/1994 limita la reelección a un segundo mandato; la opción ya existente correcta es la segunda.",
+          "before": {
+            "correcta": 0
+          },
+          "after": {
+            "correcta": 1
+          }
+        },
+        {
+          "id": "t47-p009",
+          "reason": "El artículo 28.2 del Estatuto incluye Vicepresidentes, en su caso.",
+          "before": {
+            "opciones": [
+              "Procuradores y Senadores",
+              "Presidente y Consejeros",
+              "Magistrados y Fiscales",
+              "Alcaldes y Diputados"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "Procuradores y Senadores",
+              "Presidente, Vicepresidentes en su caso, y Consejeros",
+              "Magistrados y Fiscales",
+              "Alcaldes y Diputados"
+            ]
+          }
+        },
+        {
+          "id": "t47-p012",
+          "reason": "El artículo 1 de la Ley 1/2002 lo define como superior órgano consultivo de la Comunidad, no solo de la Junta.",
+          "before": {
+            "opciones": [
+              "Órgano fiscalizador externo",
+              "Superior órgano consultivo de la Junta",
+              "Órgano legislativo",
+              "Órgano jurisdiccional"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "Órgano fiscalizador externo",
+              "Superior órgano consultivo de la Comunidad de Castilla y León",
+              "Órgano legislativo",
+              "Órgano jurisdiccional"
+            ]
+          }
+        },
+        {
+          "id": "t47-p018",
+          "reason": "Se concreta el supuesto preceptivo del artículo 4.1.a de la Ley 1/2002: anteproyectos de reforma elaborados por la Junta.",
+          "before": {
+            "opciones": [
+              "Proyectos de reforma del Estatuto de Autonomía",
+              "La elección de los Procuradores de las Cortes de Castilla y León",
+              "La aprobación inicial de los presupuestos municipales",
+              "La designación del Delegado Territorial en cada provincia"
+            ]
+          },
+          "after": {
+            "opciones": [
+              "Anteproyectos de reforma del Estatuto de Autonomía elaborados por la Junta de Castilla y León",
+              "La elección de los Procuradores de las Cortes de Castilla y León",
+              "La aprobación inicial de los presupuestos municipales",
+              "La designación del Delegado Territorial en cada provincia"
+            ]
+          }
+        },
+        {
+          "id": "t47-p024",
+          "reason": "El artículo 6.4 de la Ley 2/1994 exige tres quintos y repetir procedimiento si no se alcanzan; no rebaja a absoluta.",
+          "before": {
+            "opciones": [
+              "Mayoría de tres quintos en primera votación o mayoría absoluta en segunda.",
+              "Mayoría absoluta en primera votación y mayoría simple en segunda.",
+              "Mayoría simple en primera votación y unanimidad en segunda.",
+              "Mayoría de dos tercios en única votación."
+            ]
+          },
+          "after": {
+            "opciones": [
+              "Mayoría de tres quintos; si no se consigue, se repite el mismo procedimiento.",
+              "Mayoría absoluta en primera votación y mayoría simple en segunda.",
+              "Mayoría simple en primera votación y unanimidad en segunda.",
+              "Mayoría de dos tercios en única votación."
+            ]
+          }
+        },
+        {
+          "id": "t47-p025",
+          "reason": "La reforma de 2013 fijó cuatro años, no seis, según artículo 22.1 Ley 2/2002.",
+          "before": {
+            "opciones": [
+              "Tres Consejeros elegidos por las Cortes por mayoría de tres quintos en primera votación para un mandato de seis años.",
+              "Cinco Consejeros elegidos por la Junta por mayoría simple para un mandato de cuatro años.",
+              "Nueve Consejeros elegidos por el Consejo Consultivo para un mandato de seis años.",
+              "Tres Consejeros elegidos por las Cortes por mayoría absoluta para un mandato de cinco años."
+            ]
+          },
+          "after": {
+            "opciones": [
+              "Tres Consejeros elegidos por las Cortes por mayoría de tres quintos en primera votación para un mandato de cuatro años.",
+              "Cinco Consejeros elegidos por la Junta por mayoría simple para un mandato de cuatro años.",
+              "Nueve Consejeros elegidos por el Consejo Consultivo para un mandato de seis años.",
+              "Tres Consejeros elegidos por las Cortes por mayoría absoluta para un mandato de cinco años."
+            ]
+          }
+        },
+        {
+          "id": "t47-p026",
+          "reason": "Artículo 7.4 Ley 1/2002: miembros natos ex Presidentes de la Junta con requisitos; no ex Presidentes de las Cortes ni categoría permanentes.",
+          "before": {
+            "pregunta": "En Castilla y León, forman parte del Consejo Consultivo de Castilla y León como Consejeros permanentes:",
+            "opciones": [
+              "Los ex-Presidentes de la Junta y los ex-Presidentes de las Cortes de Castilla y León que así lo soliciten.",
+              "Los Presidentes de las Diputaciones Provinciales en activo.",
+              "Los Consejeros de Economía y Hacienda de las últimas dos legislaturas.",
+              "Los Procuradores designados por cada grupo parlamentario al inicio de cada legislatura."
+            ]
+          },
+          "after": {
+            "pregunta": "Según el artículo 7.4 de la Ley 1/2002, ¿quiénes pueden incorporarse como Consejeros natos al Consejo Consultivo de Castilla y León?",
+            "opciones": [
+              "Los ex Presidentes de la Junta que accedieron al cargo al comienzo de una legislatura, sean ciudadanos de Castilla y León y cumplan los requisitos de incorporación.",
+              "Los Presidentes de las Diputaciones Provinciales en activo.",
+              "Los Consejeros de Economía y Hacienda de las últimas dos legislaturas.",
+              "Los Procuradores designados por cada grupo parlamentario al inicio de cada legislatura."
+            ]
+          }
+        }
+      ],
+      "completedAt": "2026-10-06T17:34:45.362452+00:00",
+      "validation": {
+        "questionCount": 444,
+        "uniqueIds": 444,
+        "canonicalExplanations": 444,
+        "wordCountRange": [
+          44,
+          64
+        ],
+        "documentedCorrections": 32,
+        "publicCopiesMatch": true,
+        "build": "passed",
+        "diffCheck": "passed"
+      }
     },
     "II": {
       "status": "pending",

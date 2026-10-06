@@ -11,11 +11,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 2",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "Cada Cámara tiene su propia Diputación Permanente, según el artículo 78 CE. Su función es velar por los poderes de la Cámara cuando esta no está reunida y ejercer las atribuciones previstas para determinados supuestos. No existe una única Diputación Permanente común a las Cortes Generales, ni todas las funciones del Congreso pasan al Senado."
   },
   {
     "id": "pdf-2025-burgos-q04",
@@ -29,11 +29,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 4",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 68.1 CE permite que el Congreso tenga entre 300 y 400 diputados. La legislación electoral fija actualmente 350, pero ese número no es el que establece literalmente la Constitución. La pregunta pide el intervalo constitucional: confundirlo con la composición legal vigente lleva a elegir una cifra cierta que no responde al precepto citado."
   },
   {
     "id": "pdf-2025-burgos-q05",
@@ -47,11 +47,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 5",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 102.1 CE atribuye a la Sala de lo Penal del Tribunal Supremo la responsabilidad criminal del Presidente y de los demás miembros del Gobierno. Es un aforamiento por razón del cargo, no una competencia del Tribunal Constitucional. La Sala de lo Civil y la Audiencia Nacional no son los órganos que ese artículo designa."
   },
   {
     "id": "pdf-2025-burgos-q06",
@@ -65,11 +65,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 6",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La cuestión de confianza la plantea el Presidente del Gobierno ante el Congreso, previa deliberación del Consejo de Ministros, conforme al artículo 112 CE. Puede referirse a su programa o a una declaración de política general. No la inicia el Rey ni el propio Congreso: los diputados pueden promover una moción de censura, que es un mecanismo diferente."
   },
   {
     "id": "pdf-2023-burgos-q02",
@@ -83,11 +83,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 2",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 62 CE permite al Rey sancionar y promulgar leyes, nombrar ministros a propuesta del Presidente y ejercer el alto patronazgo de las Reales Academias. En cambio, el Senado elige a su Presidente conforme al artículo 72.2. La autonomía de las Cámaras impide atribuir ese nombramiento al Rey como si fuera un miembro del Gobierno."
   },
   {
     "id": "pdf-2023-burgos-q03",
@@ -101,11 +101,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 3",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 58 CE excluye que el consorte asuma funciones constitucionales por su matrimonio con el monarca. La excepción es la Regencia si concurren sus requisitos. Por eso son incorrectas tanto la autorización general para ejercer esas funciones como la prohibición absoluta, que olvida la posibilidad expresamente prevista para suplir temporalmente al Rey."
   },
   {
     "id": "pdf-2023-burgos-q04",
@@ -119,11 +119,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 4",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "Las Cortes Generales se regulan en el Título III CE, artículos 66 a 96, con capítulos sobre las Cámaras, elaboración de leyes y tratados internacionales. El Título IV trata del Gobierno y la Administración, el V de sus relaciones con las Cortes y el VII de economía y hacienda. La pregunta exige identificar el bloque parlamentario."
   },
   {
     "id": "pdf-2023-burgos-q05",
@@ -137,11 +137,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 5",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "Las causas penales contra diputados y senadores corresponden a la Sala de lo Penal del Tribunal Supremo, según el artículo 71.3 CE. Este aforamiento se distingue de la inmunidad, que exige autorización de la Cámara para inculpar o procesar durante el mandato. No significa que el parlamentario sea impune ni atribuye la causa a la Audiencia Nacional."
   },
   {
     "id": "pdf-2023-burgos-q06",
@@ -155,11 +155,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 6",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 99.1 CE encarga al Rey proponer candidato, tras consultar a representantes designados por grupos políticos con representación parlamentaria, y a través del Presidente del Congreso. La propuesta no es una elección libre del Congreso ni una designación del Gobierno saliente. Tampoco basta haber concurrido a elecciones: el texto exige representación parlamentaria."
   },
   {
     "id": "pdf-2023-burgos-q07",
@@ -173,11 +173,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 7",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 98.4 CE remite a una ley la regulación del estatuto y de las incompatibilidades de los miembros del Gobierno. No exige expresamente ley orgánica ni deja esa regulación íntegramente a un real decreto. Cuando una pregunta cita un artículo, debe respetarse el tipo de norma que este establece sin añadir una reserva más estricta."
   },
   {
     "id": "pdf-2023-burgos-q08",
@@ -191,11 +191,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 8",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El Presidente del Tribunal Supremo preside también el Consejo General del Poder Judicial, conforme al artículo 122.3 CE. No lo preside el Presidente del Tribunal Constitucional ni un vocal elegido solo por su edad. Esta presidencia común no convierte al CGPJ en un tribunal: sigue siendo el órgano de gobierno del Poder Judicial."
   },
   {
     "id": "pdf-2023-burgos-q09",
@@ -209,11 +209,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 9",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "Los veinte vocales del CGPJ son nombrados por cinco años, según el artículo 122.3 CE. Debe distinguirse este plazo del mandato de nueve años de los magistrados del Tribunal Constitucional. Que una renovación se retrase no cambia la duración constitucional del mandato ni convierte el plazo en cuatro años como el de las Cámaras."
   },
   {
     "id": "t03-p001",
@@ -226,8 +226,8 @@
       "puede dictar normas con rango de ley"
     ],
     "correcta": 1,
-    "explicación": "El tema subraya que el Rey reina pero no gobierna y que el poder ejecutivo real reside en el Gobierno.",
-    "referencia": "I.2 · 1.1 La Monarquía parlamentaria"
+    "referencia": "I.2 · 1.1 La Monarquía parlamentaria",
+    "explicacion": "La monarquía parlamentaria del artículo 1.3 CE separa la Jefatura del Estado de la dirección política, que corresponde al Gobierno. El Rey ejerce las funciones constitucionales atribuidas a la Corona, pero no dirige por sí mismo la Administración ni dicta leyes. La expresión «reina pero no gobierna» resume esta distribución, sin negar que tenga funciones institucionales."
   },
   {
     "id": "t03-p002",
@@ -240,8 +240,8 @@
       "Magistrado supremo y fiscal general"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge la definición constitucional del Rey como Jefe del Estado, símbolo de unidad y permanencia, y árbitro y moderador.",
-    "referencia": "I.2 · 1.2 El Rey: definición constitucional (art. 56 CE)"
+    "referencia": "I.2 · 1.2 El Rey: definición constitucional (art. 56 CE)",
+    "explicacion": "El artículo 56.1 CE define al Rey como Jefe del Estado y símbolo de su unidad y permanencia, con funciones de arbitraje y moderación institucional. La dirección de la política y de la Administración corresponde al Gobierno por el artículo 97. No se debe convertir esa función representativa en una presidencia ejecutiva ni en una jefatura judicial."
   },
   {
     "id": "t03-p003",
@@ -254,8 +254,8 @@
       "Responde siempre penalmente por sus actos"
     ],
     "correcta": 2,
-    "explicación": "El temario reproduce el art. 56.2 CE: la persona del Rey es inviolable y no está sujeta a responsabilidad.",
-    "referencia": "I.2 · 1.2 El Rey: definición constitucional (art. 56 CE)"
+    "referencia": "I.2 · 1.2 El Rey: definición constitucional (art. 56 CE)",
+    "explicacion": "Según el artículo 56.3 CE, la persona del Rey es inviolable y no está sujeta a responsabilidad. Sus actos constitucionales están generalmente sujetos a refrendo, y quienes los refrendan asumen la responsabilidad correspondiente. No se trata de una responsabilidad política del Rey ante el Congreso ni de una responsabilidad compartida ordinaria con los ministros."
   },
   {
     "id": "t03-p004",
@@ -268,8 +268,8 @@
       "Designación por referéndum"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que la sucesión se rige por primogenitura y representación, entre otros criterios.",
-    "referencia": "I.2 · 2.1 Principios sucesorios"
+    "referencia": "I.2 · 2.1 Principios sucesorios",
+    "explicacion": "El artículo 57.1 CE establece la sucesión siguiendo el orden regular de primogenitura y representación. Prioriza la línea anterior sobre las posteriores, el grado más próximo y otras preferencias constitucionales dentro del mismo grado. No es una elección parlamentaria ordinaria ni una designación mediante referéndum: las Cortes intervienen en los supuestos excepcionales previstos."
   },
   {
     "id": "t03-p005",
@@ -282,8 +282,8 @@
       "deciden las Cortes Generales"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge expresamente la preferencia del varón sobre la mujer en el mismo grado.",
-    "referencia": "I.2 · 2.1 Principios sucesorios"
+    "referencia": "I.2 · 2.1 Principios sucesorios",
+    "explicacion": "Dentro del mismo grado, el artículo 57.1 CE da preferencia al varón sobre la mujer y, dentro del mismo sexo, a la persona de mayor edad. Es la regla del texto constitucional vigente para la sucesión a la Corona. No debe sustituirse por una regla de preferencia femenina ni por una elección discrecional de las Cortes."
   },
   {
     "id": "t03-p006",
@@ -296,8 +296,8 @@
       "Debe esperar a que lo autorice el Tribunal Constitucional"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que ese matrimonio provoca la exclusión sucesoria del interesado y de sus descendientes.",
-    "referencia": "I.2 · 2.2 Matrimonio con prohibición real"
+    "referencia": "I.2 · 2.2 Matrimonio con prohibición real",
+    "explicacion": "El artículo 57.4 CE excluye de la sucesión a quien contraiga matrimonio contra la prohibición expresa conjunta del Rey y de las Cortes Generales, y también a sus descendientes. No basta mencionar una oposición informal ni una decisión del Gobierno. La consecuencia alcanza a la línea descendiente, no solo a la persona que se casa."
   },
   {
     "id": "t03-p007",
@@ -310,8 +310,8 @@
       "El Consejo de Estado"
     ],
     "correcta": 2,
-    "explicación": "El tema establece que, en ese supuesto, las Cortes Generales proveerán a la sucesión en la forma que más convenga a España.",
-    "referencia": "I.2 · 2.3 Extinción de todas las líneas sucesorias"
+    "referencia": "I.2 · 2.3 Extinción de todas las líneas sucesorias",
+    "explicacion": "Si se extinguen todas las líneas llamadas en Derecho a suceder, el artículo 57.3 CE atribuye a las Cortes Generales proveer a la sucesión de la forma más conveniente para los intereses de España. Es una intervención excepcional ante la ausencia de sucesores. No corresponde al Gobierno, al Tribunal Constitucional ni al Consejo de Estado."
   },
   {
     "id": "t03-p008",
@@ -324,8 +324,8 @@
       "Por resolución del Tribunal Supremo"
     ],
     "correcta": 1,
-    "explicación": "El tema remite a una Ley Orgánica para resolver esas cuestiones del orden sucesorio.",
-    "referencia": "I.2 · 2.4 Abdicaciones, renuncias y dudas"
+    "referencia": "I.2 · 2.4 Abdicaciones, renuncias y dudas",
+    "explicacion": "El artículo 57.5 CE exige una ley orgánica para resolver abdicaciones, renuncias y dudas de hecho o de derecho en el orden sucesorio. No basta un decreto-ley o una decisión de la Diputación Permanente. La reserva orgánica permite dar una solución normativa específica a situaciones que afectan a la continuidad constitucional de la Corona."
   },
   {
     "id": "t03-p009",
@@ -338,8 +338,8 @@
       "El Defensor del Pueblo"
     ],
     "correcta": 1,
-    "explicación": "El temario indica que la Regencia corresponde al padre o la madre y, en su defecto, al pariente mayor de edad más próximo a suceder.",
-    "referencia": "I.2 · 3.1 Regencia por minoría de edad"
+    "referencia": "I.2 · 3.1 Regencia por minoría de edad",
+    "explicacion": "Si el Rey es menor, el artículo 59.1 CE llama a ejercer la Regencia a su padre o madre y, en su defecto, al pariente mayor de edad más próximo en la sucesión. La Regencia se ejerce en nombre del Rey. Ni el Presidente del Gobierno ni el del Congreso sustituyen automáticamente al monarca por ocupar esos cargos."
   },
   {
     "id": "t03-p010",
@@ -352,8 +352,8 @@
       "El nombramiento del Presidente del Gobierno"
     ],
     "correcta": 2,
-    "explicación": "El tema recoge que la distribución de esa cantidad global y el nombramiento/relevo del personal de la Casa Real no requieren refrendo.",
-    "referencia": "I.2 · 7.3 Actos no sujetos a refrendo / 9. La Casa del Rey"
+    "referencia": "I.2 · 7.3 Actos no sujetos a refrendo / 9. La Casa del Rey",
+    "explicacion": "El artículo 65.1 CE permite al Rey distribuir libremente la cantidad global asignada para su Familia y Casa: es una facultad de organización interna. Sancionar leyes, convocar elecciones o nombrar al Presidente del Gobierno sí requieren refrendo. Además, la excepción expresamente citada en el artículo 56.3 remite al nombramiento y relevo del personal de su Casa del artículo 65.2."
   },
   {
     "id": "t03-p011",
@@ -366,8 +366,8 @@
       "solo es inviolable en actos internacionales"
     ],
     "correcta": 1,
-    "explicación": "El tema reproduce la inviolabilidad del Rey y su falta de responsabilidad.",
-    "referencia": "I.2 · 1.2 El Rey: definición constitucional (art. 56 CE)"
+    "referencia": "I.2 · 1.2 El Rey: definición constitucional (art. 56 CE)",
+    "explicacion": "El artículo 56.3 CE reconoce la inviolabilidad y ausencia de responsabilidad de la persona del Rey. Los actos constitucionales se conectan con la responsabilidad de quienes los refrendan, conforme al artículo 64. No es una protección limitada a las relaciones internacionales ni un sometimiento ordinario del monarca al control político del Congreso."
   },
   {
     "id": "t03-p012",
@@ -380,8 +380,8 @@
       "mayor de edad sin más requisitos"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge expresamente que para ejercer la Regencia es preciso ser español y mayor de edad.",
-    "referencia": "I.2 · 3.3 Carácterísticas generales de la Regencia"
+    "referencia": "I.2 · 3.3 Carácterísticas generales de la Regencia",
+    "explicacion": "Para ejercer la Regencia, el artículo 59.4 CE exige nacionalidad española y mayoría de edad. No impone una edad de 25 años ni que el regente esté casado. Los requisitos personales se suman a las reglas que determinan quién debe ejercerla: cumplirlos por sí solo no permite a cualquier persona asumir la Regencia."
   },
   {
     "id": "t03-p013",
@@ -394,8 +394,8 @@
       "nombran al Presidente del Gobierno"
     ],
     "correcta": 1,
-    "explicación": "El temario limita sus funciones constitucionales y las excluye salvo la Regencia.",
-    "referencia": "I.2 · 8. La Reina consorte y el consorte de la Reina"
+    "referencia": "I.2 · 8. La Reina consorte y el consorte de la Reina",
+    "explicacion": "El consorte no adquiere competencias constitucionales propias por el matrimonio, de acuerdo con el artículo 58 CE. Solo puede ejercer las previstas para la Regencia si se cumplen sus condiciones. Por tanto, no preside las Cortes ni nombra al Presidente del Gobierno por ser consorte, pero tampoco queda excluido de toda función en cualquier circunstancia."
   },
   {
     "id": "t03-p014",
@@ -408,8 +408,8 @@
       "Prometer neutralidad política"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que prestan el mismo juramento y el de fidelidad al Rey.",
-    "referencia": "I.2 · 5. Proclamación y juramento (art. 61 CE)"
+    "referencia": "I.2 · 5. Proclamación y juramento (art. 61 CE)",
+    "explicacion": "El heredero al alcanzar la mayoría de edad y el regente al asumir sus funciones prestan el juramento constitucional y también fidelidad al Rey, según el artículo 61.2 CE. No basta una promesa genérica de neutralidad ni un juramento solo ante las Cortes. La fidelidad es el elemento adicional que diferencia estos supuestos del juramento del monarca."
   },
   {
     "id": "t03-p015",
@@ -422,8 +422,8 @@
       "la autorización del Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicación": "El tema señala que esta función internacional del Rey exige autorización de las Cortes Generales.",
-    "referencia": "I.2 · 6.2 Funciones internacionales (art. 63 CE)"
+    "referencia": "I.2 · 6.2 Funciones internacionales (art. 63 CE)",
+    "explicacion": "El artículo 63.3 CE exige autorización previa de las Cortes Generales para que el Rey declare la guerra o haga la paz. Esa autorización parlamentaria no se sustituye por un informe del Consejo de Estado ni por el refrendo del Presidente del Congreso. La intervención de la Corona no permite decidir unilateralmente una cuestión de esta trascendencia."
   },
   {
     "id": "t03-p016",
@@ -436,8 +436,8 @@
       "Ante el Consejo General del Poder Judicial"
     ],
     "correcta": 0,
-    "explicación": "El tema indica que el Rey presta juramento ante las Cortes Generales en sesión conjunta.",
-    "referencia": "I.2 · 5. Proclamación y juramento (art. 61 CE)"
+    "referencia": "I.2 · 5. Proclamación y juramento (art. 61 CE)",
+    "explicacion": "El Rey presta juramento ante las Cortes Generales al ser proclamado, conforme al artículo 61.1 CE. Jura desempeñar fielmente sus funciones, respetar la Constitución y las leyes y los derechos de ciudadanos y comunidades autónomas. No lo hace ante el Consejo de Ministros ni ante un órgano judicial: la solemnidad corresponde a la representación parlamentaria."
   },
   {
     "id": "t03-p017",
@@ -450,8 +450,8 @@
       "Aprobar las leyes"
     ],
     "correcta": 2,
-    "explicación": "Entre las funciones internas del Rey figura sancionar y promulgar las leyes aprobadas por las Cortes Generales.",
-    "referencia": "I.2 · 6.1 Funciones internas (art. 62 CE)"
+    "referencia": "I.2 · 6.1 Funciones internas (art. 62 CE)",
+    "explicacion": "El artículo 62.a CE atribuye al Rey sancionar y promulgar las leyes. Su aprobación corresponde al procedimiento parlamentario, por lo que sancionar no equivale a decidir el contenido de la ley. Tampoco debe confundirse esta función con ejercer la potestad reglamentaria del Gobierno o aprobar un decreto-ley por decisión propia."
   },
   {
     "id": "t04-p001",
@@ -464,8 +464,8 @@
       "están formadas únicamente por el Congreso"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge que las Cortes representan al pueblo español y ejercen la potestad legislativa del Estado.",
-    "referencia": "I.2 · 1.1 Definición constitucional (art. 66 CE)"
+    "referencia": "I.2 · 1.1 Definición constitucional (art. 66 CE)",
+    "explicacion": "Las Cortes Generales representan al pueblo español y ejercen la potestad legislativa estatal, según el artículo 66 CE. Están formadas por Congreso y Senado, y además aprueban los presupuestos y controlan al Gobierno. No son un órgano consultivo del Ejecutivo ni representan jurídicamente solo a los partidos que han obtenido escaños."
   },
   {
     "id": "t04-p002",
@@ -478,8 +478,8 @@
       "Se elige por circunscripción autonómica"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que el Congreso se compone de entre 300 y 400 diputados y que la ley fija actualmente 350.",
-    "referencia": "I.2 · 2.1 Composición (art. 68 CE)"
+    "referencia": "I.2 · 2.1 Composición (art. 68 CE)",
+    "explicacion": "El artículo 68 CE establece entre 300 y 400 diputados, y el artículo 162.1 de la LOREG concreta la cifra en 350. La circunscripción general es la provincia, con reglas específicas para Ceuta y Melilla, y el mandato constitucional es de cuatro años. No debe atribuirse directamente a la Constitución el número legal exacto de escaños."
   },
   {
     "id": "t04-p003",
@@ -492,8 +492,8 @@
       "Cámara de representación judicial"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce el art. 69.1 CE: el Senado es la Cámara de representación territorial.",
-    "referencia": "I.2 · 3.1 Naturaleza y composición (art. 69 CE)"
+    "referencia": "I.2 · 3.1 Naturaleza y composición (art. 69 CE)",
+    "explicacion": "El artículo 69.1 CE define al Senado como Cámara de representación territorial. Su composición combina elección por provincias y otros territorios con designación autonómica. No es una representación sindical o judicial, ni una Cámara formada solo por municipios. La denominación constitucional se refiere a su dimensión territorial dentro de las Cortes Generales."
   },
   {
     "id": "t04-p004",
@@ -506,8 +506,8 @@
       "únicamente los actos del Presidente de la Cámara"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que la inviolabilidad cubre las opiniones emitidas en el ejercicio de las funciones parlamentarias.",
-    "referencia": "I.2 · 4.1 Inviolabilidad (art. 71.1 CE)"
+    "referencia": "I.2 · 4.1 Inviolabilidad (art. 71.1 CE)",
+    "explicacion": "La inviolabilidad parlamentaria protege las opiniones manifestadas en el ejercicio de las funciones, conforme al artículo 71.1 CE. No ampara cualquier conducta privada de un diputado o senador. Debe distinguirse de la inmunidad, que regula detención y procesamiento: son garantías diferentes para preservar la libertad de actuación y la independencia de las Cámaras."
   },
   {
     "id": "t04-p005",
@@ -520,8 +520,8 @@
       "Solo si lo aprueba el Pleno de la Cámara"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que la inmunidad parlamentaria permite la detención únicamente en caso de flagrante delito.",
-    "referencia": "I.2 · 4.2 Inmunidad (art. 71.2 CE)"
+    "referencia": "I.2 · 4.2 Inmunidad (art. 71.2 CE)",
+    "explicacion": "Durante su mandato, diputados y senadores solo pueden ser detenidos en caso de flagrante delito, según el artículo 71.2 CE. Además, su inculpación o procesamiento requiere autorización de la Cámara respectiva. No es el Gobierno ni el Defensor del Pueblo quien concede ese permiso, y la existencia de inmunidad no elimina la posible responsabilidad penal."
   },
   {
     "id": "t04-p006",
@@ -534,13 +534,13 @@
       "responden ante sus partidos por mandato legal"
     ],
     "correcta": 1,
-    "explicación": "El temario recoge expresamente el mandato representativo y la ausencia de mandato imperativo.",
-    "referencia": "I.2 · 4.5 Mandato representativo (art. 67.2 CE)"
+    "referencia": "I.2 · 4.5 Mandato representativo (art. 67.2 CE)",
+    "explicacion": "El artículo 67.2 CE prohíbe el mandato imperativo: diputados y senadores no quedan jurídicamente obligados a votar según instrucciones externas. Esto protege su función representativa y no equivale a afirmar que no exista disciplina política de partido. Tampoco permite una revocación automática por los electores cada vez que un representante se aparta de una indicación."
   },
   {
     "id": "t04-p007",
     "tema": 2,
-    "pregunta": "En la Constitución Española, ¿qué requisito general se exige para formar grupo parlamentario en el Congreso?",
+    "pregunta": "Según el Reglamento del Congreso, ¿qué mínimo de diputados permite formar grupo parlamentario, sin perjuicio de las condiciones electorales exigidas para la vía excepcional?",
     "opciones": [
       "10 diputados",
       "15 diputados, o excepcionalmente 5 en ciertos supuestos",
@@ -548,8 +548,8 @@
       "25 diputados"
     ],
     "correcta": 1,
-    "explicación": "El tema fija un mínimo de 15 diputados, con la posibilidad excepcional de 5 en los supuestos indicados.",
-    "referencia": "I.2 · 5.2 Los Grupos Parlamentarios"
+    "referencia": "I.2 · 5.2 Los Grupos Parlamentarios",
+    "explicacion": "El mínimo general de quince diputados y la vía excepcional de cinco proceden del artículo 23 del Reglamento del Congreso, no de la Constitución. La excepción exige además condiciones electorales. La reforma de julio de 2026 modifica esos porcentajes para la XVI legislatura; la cifra de cinco por sí sola nunca basta para crear automáticamente un grupo."
   },
   {
     "id": "t04-p008",
@@ -562,8 +562,8 @@
       "Todo el año sin períodos diferenciados"
     ],
     "correcta": 1,
-    "explicación": "El tema sitúa los períodos ordinarios de sesiones entre septiembre y diciembre, y entre febrero y junio.",
-    "referencia": "I.2 · 6.1 Períodos de sesiones (art. 73 CE)"
+    "referencia": "I.2 · 6.1 Períodos de sesiones (art. 73 CE)",
+    "explicacion": "El artículo 73.1 CE fija dos períodos ordinarios: de septiembre a diciembre y de febrero a junio. Fuera de ellos pueden celebrarse sesiones extraordinarias en los términos constitucionales. Por eso no es correcto afirmar que las Cámaras se reúnen ordinariamente todo el año, ni intercambiar los meses con el calendario de vacaciones u otras instituciones."
   },
   {
     "id": "t04-p009",
@@ -576,8 +576,8 @@
       "Mayoría de tres quintos de cada Cámara y referéndum posterior"
     ],
     "correcta": 1,
-    "explicación": "El art. 81.2 CE exige mayoría absoluta del Congreso, en una votación final sobre el conjunto del proyecto, para aprobar, modificar o derogar una ley orgánica.",
-    "referencia": "Constitución Española · art. 81.2"
+    "referencia": "Constitución Española · art. 81.2",
+    "explicacion": "El artículo 81.2 CE exige mayoría absoluta del Congreso en una votación final sobre el conjunto para aprobar, modificar o derogar una ley orgánica. No basta mayoría simple ni se exige esa votación especial del Senado. Los tres quintos de ambas Cámaras pertenecen a otros procedimientos, como la regla general de la reforma constitucional ordinaria."
   },
   {
     "id": "t04-p010",
@@ -590,8 +590,8 @@
       "Solo puede ejercerse por las Comunidades Autónomas"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge que la iniciativa legislativa popular exige 500.000 firmas y excluye determinadas materias.",
-    "referencia": "I.2 · 7.1 a) Iniciativa legislativa (art. 87 CE)"
+    "referencia": "I.2 · 7.1 a) Iniciativa legislativa (art. 87 CE)",
+    "explicacion": "El artículo 87.3 CE exige al menos 500.000 firmas acreditadas para la iniciativa legislativa popular. Excluye materias propias de ley orgánica, tributarias, de carácter internacional y relativas a la prerrogativa de gracia. No es una iniciativa reservada a las comunidades autónomas ni permite proponer cualquier materia por el hecho de reunir suficientes firmas."
   },
   {
     "id": "t04-p011",
@@ -604,8 +604,8 @@
       "senadores designados por el Gobierno"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera los senadores autonómicos como parte de la composición mixta del Senado.",
-    "referencia": "I.2 · 3.1 Naturaleza y composición (art. 69 CE)"
+    "referencia": "I.2 · 3.1 Naturaleza y composición (art. 69 CE)",
+    "explicacion": "Además de los senadores elegidos por provincias y territorios insulares, Ceuta y Melilla, el artículo 69.5 CE prevé senadores designados por las comunidades autónomas. Cada comunidad designa uno y otro por cada millón de habitantes. No son nombramientos vitalicios, corporativos o discrecionales del Gobierno, sino una vía autonómica de representación territorial."
   },
   {
     "id": "t04-p012",
@@ -618,8 +618,8 @@
       "15"
     ],
     "correcta": 2,
-    "explicación": "El tema fija en 10 senadores el mínimo para formar grupo en la Cámara Alta.",
-    "referencia": "I.2 · 5.2 Los Grupos Parlamentarios"
+    "referencia": "I.2 · 5.2 Los Grupos Parlamentarios",
+    "explicacion": "El artículo 27 del Reglamento del Senado exige al menos diez senadores para constituir un grupo parlamentario. No debe confundirse con los quince diputados del Congreso ni con su excepción de cinco. Cada Cámara regula su organización mediante su propio reglamento, de modo que trasladar automáticamente el umbral de una a otra produce una respuesta errónea."
   },
   {
     "id": "t04-p013",
@@ -632,8 +632,8 @@
       "sustituyen al Gobierno en funciones"
     ],
     "correcta": 1,
-    "explicación": "El tema les atribuye la función de velar por los poderes de las Cámaras cuando estas no están reunidas.",
-    "referencia": "I.2 · 6.4 Las Diputaciones Permanentes (art. 78 CE)"
+    "referencia": "I.2 · 6.4 Las Diputaciones Permanentes (art. 78 CE)",
+    "explicacion": "Según el artículo 78 CE, las Diputaciones Permanentes velan por los poderes de sus respectivas Cámaras cuando no están reunidas. Cada Cámara cuenta con la suya y conserva funciones específicas en determinados períodos. No sustituyen al Gobierno ni reciben una competencia general para aprobar cualquier ley orgánica mientras el Parlamento está ausente."
   },
   {
     "id": "t04-p014",
@@ -646,8 +646,8 @@
       "3 meses"
     ],
     "correcta": 2,
-    "explicación": "El tema fija un plazo de 2 meses para que el Senado apruebe, enmiende o vete el texto.",
-    "referencia": "I.2 · 7.1 b) Procedimiento legislativo ordinario"
+    "referencia": "I.2 · 7.1 b) Procedimiento legislativo ordinario",
+    "explicacion": "El artículo 90.2 CE concede al Senado dos meses desde la recepción del texto para vetarlo o introducir enmiendas. Si el Gobierno o el Congreso declara urgente el proyecto, el plazo se reduce a veinte días naturales. La pregunta se refiere al plazo ordinario: no debe confundirse con otros plazos parlamentarios de quince días o un mes."
   },
   {
     "id": "t04-p015",
@@ -660,8 +660,8 @@
       "Tribunal Constitucional"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que el estado de sitio lo declara el Congreso por mayoría absoluta.",
-    "referencia": "I.2 · 7.5 Otras atribuciones constitucionales relevantes"
+    "referencia": "I.2 · 7.5 Otras atribuciones constitucionales relevantes",
+    "explicacion": "El artículo 116.4 CE atribuye al Congreso, por mayoría absoluta y a propuesta exclusiva del Gobierno, declarar el estado de sitio. El Gobierno declara por sí mismo el estado de alarma y necesita autorización del Congreso para el de excepción. Confundir esos tres regímenes lleva a atribuir el sitio al Ejecutivo o al Senado."
   },
   {
     "id": "t04-p016",
@@ -674,8 +674,8 @@
       "Solo pueden crearse en el Congreso de los Diputados"
     ],
     "correcta": 2,
-    "explicación": "El tema subraya su valor político y que la comparecencia es obligatoria, pero sus conclusiones no vinculan judicialmente.",
-    "referencia": "I.2 · 7.3 La función de control del Gobierno (art. 76 CE)"
+    "referencia": "I.2 · 7.3 La función de control del Gobierno (art. 76 CE)",
+    "explicacion": "El artículo 76 CE permite comisiones de investigación del Congreso, del Senado o conjuntas sobre asuntos de interés público. Sus conclusiones no vinculan a los tribunales, aunque pueden comunicarse al Ministerio Fiscal. La comparecencia es obligatoria en los términos legales: ni el carácter político de la investigación la hace voluntaria ni sus resultados sustituyen una sentencia."
   },
   {
     "id": "t04-p017",
@@ -688,8 +688,8 @@
       "Los Ministros pueden ser miembros de las dos Cámaras simultáneamente"
     ],
     "correcta": 1,
-    "explicación": "El art. 67 CE prohíbe ser miembro de ambas Cámaras a la vez.",
-    "referencia": "I.2 · 4.5 Mandato representativo (art. 67 CE)"
+    "referencia": "I.2 · 4.5 Mandato representativo (art. 67 CE)",
+    "explicacion": "El artículo 67.1 CE impide ser miembro de Congreso y Senado simultáneamente. También prohíbe acumular el acta de una asamblea autonómica con la de diputado al Congreso. No contempla una excepción para el Presidente o los ministros: que un miembro del Gobierno pueda ser parlamentario no autoriza a ocupar escaños en ambas Cámaras a la vez."
   },
   {
     "id": "t05-p001",
@@ -702,8 +702,8 @@
       "es un órgano exclusivamente consultivo"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce el art. 97 CE y subraya la función de dirección política del Gobierno.",
-    "referencia": "I.2 · 1.1 Definición constitucional (art. 97 CE)"
+    "referencia": "I.2 · 1.1 Definición constitucional (art. 97 CE)",
+    "explicacion": "El artículo 97 CE atribuye al Gobierno dirección de la política interior y exterior, la Administración civil y militar y la defensa del Estado. También ejerce función ejecutiva y potestad reglamentaria conforme a Constitución y leyes. No es un simple órgano consultivo ni una unidad subordinada jerárquicamente a las Cortes, aunque responde ante el Congreso."
   },
   {
     "id": "t05-p002",
@@ -716,8 +716,8 @@
       "Los Vicepresidentes, en su caso"
     ],
     "correcta": 2,
-    "explicación": "El tema señala que los Secretarios de Estado no son miembros del Gobierno en sentido estricto.",
-    "referencia": "I.2 · 2.2 Los Secretarios de Estado"
+    "referencia": "I.2 · 2.2 Los Secretarios de Estado",
+    "explicacion": "Los Secretarios de Estado son órganos superiores de la Administración, pero no integran el Gobierno en sentido estricto. El artículo 98.1 CE y la Ley 50/1997 distinguen Presidente, vicepresidentes y ministros de esos cargos administrativos. Asistir a una reunión del Consejo de Ministros cuando se les convoca no los convierte en miembros del Gobierno."
   },
   {
     "id": "t05-p003",
@@ -730,8 +730,8 @@
       "Unanimidad"
     ],
     "correcta": 1,
-    "explicación": "El temario indica que la primera votación requiere mayoría absoluta del Congreso.",
-    "referencia": "I.2 · 3.1 Procedimiento de investidura"
+    "referencia": "I.2 · 3.1 Procedimiento de investidura",
+    "explicacion": "La primera votación de investidura exige mayoría absoluta del Congreso, conforme al artículo 99.3 CE: más de la mitad de sus miembros. Si no se obtiene, una segunda votación cuarenta y ocho horas después admite mayoría simple. El Senado no participa en la concesión de esa confianza, y no se requiere unanimidad ni tres quintos."
   },
   {
     "id": "t05-p004",
@@ -744,8 +744,8 @@
       "Se convoca referéndum vinculante"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge la disolución de ambas Cámaras y la convocatoria de elecciones en ese supuesto de bloqueo.",
-    "referencia": "I.2 · 3.2 Supuesto de bloqueo (art. 99.5 CE)"
+    "referencia": "I.2 · 3.2 Supuesto de bloqueo (art. 99.5 CE)",
+    "explicacion": "El plazo del artículo 99.5 CE comienza con la primera votación de investidura, no con las elecciones ni con la primera propuesta de candidato. Si pasan dos meses sin confianza, el Rey disuelve ambas Cámaras y convoca elecciones con refrendo del Presidente del Congreso. No se nombra automáticamente al candidato más votado ni se celebra un referéndum."
   },
   {
     "id": "t05-p005",
@@ -758,13 +758,13 @@
       "Por la Junta Electoral Central"
     ],
     "correcta": 1,
-    "explicación": "El temario establece que Vicepresidentes y Ministros son nombrados y separados por el Rey a propuesta del Presidente del Gobierno.",
-    "referencia": "I.2 · 4. Nombramiento de los demás miembros del Gobierno (art. 100 CE)"
+    "referencia": "I.2 · 4. Nombramiento de los demás miembros del Gobierno (art. 100 CE)",
+    "explicacion": "El artículo 100 CE dispone que el Rey nombra y separa a los demás miembros del Gobierno a propuesta de su Presidente. El Congreso otorga confianza al candidato a la Presidencia, pero no nombra individualmente a cada ministro. Deben separarse la investidura parlamentaria y el nombramiento formal de quienes integrarán el equipo gubernamental."
   },
   {
     "id": "t05-p006",
     "tema": 2,
-    "pregunta": "En la Constitución Española, ¿cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones?",
+    "pregunta": "Según la Ley 50/1997, del Gobierno, ¿cuál de las siguientes actuaciones no puede realizar el Gobierno en funciones?",
     "opciones": [
       "Despachar asuntos ordinarios",
       "Aprobar el proyecto de Ley de Presupuestos",
@@ -772,8 +772,8 @@
       "Continuar hasta la toma de posesión del nuevo Gobierno"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que el Gobierno en funciones no puede aprobar el proyecto de Ley de Presupuestos ni presentar proyectos de ley, entre otras limitaciones.",
-    "referencia": "I.2 · 5.2 El Gobierno en funciones"
+    "referencia": "I.2 · 5.2 El Gobierno en funciones",
+    "explicacion": "El artículo 21 de la Ley 50/1997 prohíbe al Gobierno en funciones aprobar el proyecto de Presupuestos Generales del Estado y presentar proyectos de ley. Sí sigue existiendo para despachar asuntos ordinarios y facilitar el relevo, con excepciones justificadas de urgencia o interés general. La continuidad institucional no le permite ejercer todas las competencias del Gobierno con plenitud."
   },
   {
     "id": "t05-p007",
@@ -786,8 +786,8 @@
       "Solo para modificar la Constitución"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge que el decreto-ley solo cabe ante extraordinaria y urgente necesidad.",
-    "referencia": "I.2 · 6.5 Legislación de urgencia"
+    "referencia": "I.2 · 6.5 Legislación de urgencia",
+    "explicacion": "El artículo 86 CE permite dictar decretos-leyes ante una necesidad extraordinaria y urgente, con límites materiales y control posterior del Congreso. No basta querer acelerar una reforma ni es un instrumento para cambiar la Constitución. El Congreso debe pronunciarse sobre su convalidación o derogación en los treinta días siguientes a su promulgación."
   },
   {
     "id": "t05-p008",
@@ -800,8 +800,8 @@
       "El Ministro de la Presidencia en todo caso"
     ],
     "correcta": 1,
-    "explicación": "El Consejo de Ministros lo preside el Presidente del Gobierno, según el temario.",
-    "referencia": "I.2 · 7.2 Presidencia y convocatoria"
+    "referencia": "I.2 · 7.2 Presidencia y convocatoria",
+    "explicacion": "El Presidente del Gobierno preside normalmente el Consejo de Ministros, conforme a la Ley 50/1997. El artículo 62.g CE permite al Rey presidir sesiones cuando lo estime oportuno a petición del Presidente, pero no lo convierte en su presidente ordinario. El Ministro de la Presidencia no sustituye automáticamente al Presidente por el solo nombre de su departamento."
   },
   {
     "id": "t05-p009",
@@ -814,8 +814,8 @@
       "Por orden ministerial conjunta"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que se crean, modifican y suprimen por Real Decreto del Consejo de Ministros a propuesta del Presidente.",
-    "referencia": "I.2 · 8.1 Las Comisiones Delegadas del Gobierno (art. 6 LG)"
+    "referencia": "I.2 · 8.1 Las Comisiones Delegadas del Gobierno (art. 6 LG)",
+    "explicacion": "El artículo 6 de la Ley 50/1997 exige real decreto del Consejo de Ministros, a propuesta del Presidente, para crear, modificar o suprimir Comisiones Delegadas del Gobierno. Son órganos colegiados gubernamentales, no comisiones parlamentarias. Por eso no se constituyen mediante una orden ministerial ni por una decisión de las Cortes Generales."
   },
   {
     "id": "t05-p011",
@@ -828,8 +828,8 @@
       "Qué ambos tienen la misma naturaleza jurídica"
     ],
     "correcta": 1,
-    "explicación": "El tema diferencia al Gobierno como órgano político y a la Administración como aparato instrumental.",
-    "referencia": "I.2 · 1.2 Distinción entre Gobierno y Administración"
+    "referencia": "I.2 · 1.2 Distinción entre Gobierno y Administración",
+    "explicacion": "El Gobierno fija la dirección política y ejerce funciones ejecutivas y reglamentarias, según el artículo 97 CE. La Administración sirve objetivamente al interés general y ejecuta sus tareas dentro de la ley, conforme al 103. Aunque se relacionen estrechamente, la Administración no decide por sí sola el programa político ni ambas instituciones tienen exactamente la misma naturaleza."
   },
   {
     "id": "t05-p012",
@@ -842,8 +842,8 @@
       "presiden el Consejo de Ministros en ausencia del Presidente"
     ],
     "correcta": 1,
-    "explicación": "El temario indica que no son miembros del Gobierno en sentido estricto.",
-    "referencia": "I.2 · 2.2 Los Secretarios de Estado"
+    "referencia": "I.2 · 2.2 Los Secretarios de Estado",
+    "explicacion": "Los Secretarios de Estado son órganos superiores de la Administración y colaboradores del Gobierno, pero no miembros de este en sentido estricto. La Ley 50/1997 reserva esa condición al Presidente, vicepresidentes y ministros. Pueden ser convocados a reuniones por asuntos de su competencia sin que ello les otorgue automáticamente voto como integrantes del Consejo de Ministros."
   },
   {
     "id": "t05-p013",
@@ -856,8 +856,8 @@
       "El Tribunal Supremo"
     ],
     "correcta": 0,
-    "explicación": "El tema define ese órgano como preparatorio del Consejo de Ministros.",
-    "referencia": "I.2 · 8.2 La Comisión General de Secretarios de Estado y Subsecretarios (art. 8 LG)"
+    "referencia": "I.2 · 8.2 La Comisión General de Secretarios de Estado y Subsecretarios (art. 8 LG)",
+    "explicacion": "La Comisión General de Secretarios de Estado y Subsecretarios examina y prepara asuntos que deben llegar al Consejo de Ministros, según el artículo 8 de la Ley 50/1997. Esa preparación no permite adoptar decisiones en nombre del Gobierno. Ni la Junta de Portavoces ni el Congreso cumplen esta función interna de coordinación del Ejecutivo."
   },
   {
     "id": "t05-p014",
@@ -870,8 +870,8 @@
       "Bandos provinciales"
     ],
     "correcta": 1,
-    "explicación": "El tema atribuye a los Ministros la potestad reglamentaria mediante Órdenes Ministeriales.",
-    "referencia": "I.2 · 9.3 Los Ministros (art. 4 LG)"
+    "referencia": "I.2 · 9.3 Los Ministros (art. 4 LG)",
+    "explicacion": "El artículo 4 de la Ley 50/1997 atribuye a los ministros potestad reglamentaria en las materias de su departamento, que se expresa mediante órdenes ministeriales. No son leyes orgánicas ni decretos-leyes: esas normas tienen otros autores y procedimientos. Además, una orden debe respetar la ley y las disposiciones de rango superior."
   },
   {
     "id": "t05-p016",
@@ -884,8 +884,8 @@
       "La mayoría simple del Congreso de los Diputados y del Senado"
     ],
     "correcta": 1,
-    "explicación": "La cuestión de confianza se entiende otorgada si obtiene la mayoría simple del Congreso.",
-    "referencia": "I.2 · 7.1 La cuestión de confianza (art. 112 CE)"
+    "referencia": "I.2 · 7.1 La cuestión de confianza (art. 112 CE)",
+    "explicacion": "La cuestión de confianza se entiende otorgada por mayoría simple del Congreso, según el artículo 112 CE: más votos favorables que contrarios. No exige mayoría absoluta ni votación del Senado. Conviene distinguirla de la primera investidura y de la moción de censura, para las que sí se requiere mayoría absoluta del Congreso."
   },
   {
     "id": "t06-p001",
@@ -898,8 +898,8 @@
       "el órgano que ejerce la acción penal"
     ],
     "correcta": 0,
-    "explicación": "El tema define al CGPJ como el órgano de gobierno del Poder Judicial y garante de la independencia judicial.",
-    "referencia": "I.2 · 2.1 Naturaleza y función constitucional (art. 122 CE)"
+    "referencia": "I.2 · 2.1 Naturaleza y función constitucional (art. 122 CE)",
+    "explicacion": "El artículo 122.2 CE define al CGPJ como órgano de gobierno del Poder Judicial. No juzga los asuntos como un tribunal ni ejerce la acción penal del Ministerio Fiscal. El Tribunal Supremo es el órgano jurisdiccional superior y el Tribunal Constitucional garantiza la Constitución: separar gobierno judicial y función jurisdiccional evita confundir estas instituciones."
   },
   {
     "id": "t06-p002",
@@ -912,8 +912,8 @@
       "Un presidente y 15 vocales"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que el CGPJ está integrado por el Presidente del Tribunal Supremo y 20 vocales.",
-    "referencia": "I.2 · 2.2 Composición (art. 122.3 CE y LOPJ)"
+    "referencia": "I.2 · 2.2 Composición (art. 122.3 CE y LOPJ)",
+    "explicacion": "El CGPJ lo integran el Presidente del Tribunal Supremo, que lo preside, y veinte vocales, según el artículo 122.3 CE. Son, por tanto, veintiún integrantes contando la presidencia. Los doce miembros corresponden al Tribunal Constitucional y no al Consejo; tampoco existe una composición constitucional de veinticinco o quince vocales."
   },
   {
     "id": "t06-p003",
@@ -926,8 +926,8 @@
       "20 son juristas de reconocida competencia"
     ],
     "correcta": 1,
-    "explicación": "El temario distribuye los vocales en 12 jueces y magistrados y 8 juristas de reconocida competencia.",
-    "referencia": "I.2 · 2.2 Composición (art. 122.3 CE y LOPJ)"
+    "referencia": "I.2 · 2.2 Composición (art. 122.3 CE y LOPJ)",
+    "explicacion": "De los veinte vocales del CGPJ, doce pertenecen a la carrera judicial y ocho son abogados u otros juristas de reconocida competencia, conforme al artículo 122.3 CE. Para estos últimos se exige más de quince años de ejercicio profesional. No debe invertirse el reparto 12/8 ni considerar que los veinte proceden del mismo grupo profesional."
   },
   {
     "id": "t06-p004",
@@ -940,8 +940,8 @@
       "9 años"
     ],
     "correcta": 1,
-    "explicación": "El tema fija un mandato de 5 años y renovación total cada 5 años.",
-    "referencia": "I.2 · 2.3 Mandato"
+    "referencia": "I.2 · 2.3 Mandato",
+    "explicacion": "El mandato de los vocales del CGPJ es de cinco años, según el artículo 122.3 CE. Los nueve años son propios de los magistrados del Tribunal Constitucional, y los cuatro se asocian al mandato parlamentario. La eventual permanencia en funciones mientras llega una renovación no modifica la duración constitucional prevista para el nombramiento."
   },
   {
     "id": "t06-p005",
@@ -954,8 +954,8 @@
       "El Consejo General del Poder Judicial"
     ],
     "correcta": 0,
-    "explicación": "El tema define al Tribunal Supremo como órgano jurisdiccional superior en todos los órdenes ordinarios.",
-    "referencia": "I.2 · 3.1 Naturaleza y posición (art. 123 CE)"
+    "referencia": "I.2 · 3.1 Naturaleza y posición (art. 123 CE)",
+    "explicacion": "El artículo 123.1 CE sitúa al Tribunal Supremo en la cúspide de todos los órdenes jurisdiccionales, con la excepción de las garantías constitucionales. Esa excepción corresponde al Tribunal Constitucional. La Audiencia Nacional tiene competencias específicas y el CGPJ dirige el gobierno judicial: ninguno ocupa por ello la posición jurisdiccional general del Supremo."
   },
   {
     "id": "t06-p006",
@@ -968,13 +968,13 @@
       "Sala 5.ª"
     ],
     "correcta": 2,
-    "explicación": "El tema asigna esa materia a la Sala 4.ª, de lo Social.",
-    "referencia": "I.2 · 3.2 Composición y organización"
+    "referencia": "I.2 · 3.2 Composición y organización",
+    "explicacion": "La Sala Cuarta del Tribunal Supremo es la Sala de lo Social, competente para los recursos de casación laborales y de Seguridad Social previstos legalmente. La Primera es Civil, la Segunda Penal y la Quinta Militar. El número de sala debe relacionarse con la materia del litigio, no con la importancia económica o pública del asunto."
   },
   {
     "id": "t06-p007",
     "tema": 2,
-    "pregunta": "En la Constitución Española, ¿dónde tiene su sede la Audiencia Nacional?",
+    "pregunta": "Según la Ley Orgánica del Poder Judicial, ¿dónde tiene su sede la Audiencia Nacional?",
     "opciones": [
       "Barcelona",
       "Madrid",
@@ -982,8 +982,8 @@
       "Valladolid"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que la Audiencia Nacional tiene sede en Madrid.",
-    "referencia": "I.2 · 4.1 Naturaleza"
+    "referencia": "I.2 · 4.1 Naturaleza",
+    "explicacion": "La Audiencia Nacional tiene sede en Madrid y jurisdicción en toda España en las materias que la ley le atribuye, según el artículo 62 LOPJ. Su nombre no significa que concentre todos los litigios del país. La sede no viene determinada por la Constitución ni debe confundirse con Burgos, Valladolid o las sedes de tribunales autonómicos."
   },
   {
     "id": "t06-p008",
@@ -996,13 +996,13 @@
       "sustituyen al Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicación": "El temario indica que el TSJ culmina la organización judicial en el ámbito autonómico, sin perjuicio del Tribunal Supremo.",
-    "referencia": "I.2 · 5.1 Naturaleza y posición (art. 152 CE)"
+    "referencia": "I.2 · 5.1 Naturaleza y posición (art. 152 CE)",
+    "explicacion": "El artículo 152.1 CE prevé un Tribunal Superior de Justicia que culmine la organización judicial en el territorio autonómico, sin perjuicio de la jurisdicción del Tribunal Supremo. El TSJ pertenece al Poder Judicial, no al Gobierno autonómico. Tampoco depende de una diputación provincial ni sustituye las funciones constitucionales del Tribunal Constitucional."
   },
   {
     "id": "t06-p009",
     "tema": 2,
-    "pregunta": "En la organización judicial española, ¿qué tipo de asuntos conocen los Juzgados de lo Penal?",
+    "pregunta": "Como regla general del artículo 14 LECrim, ¿qué delitos enjuicia la Sección de lo Penal del Tribunal de Instancia, sin perjuicio de competencias especiales?",
     "opciones": [
       "Recursos de casación penal",
       "Enjuiciamiento de delitos con pena no superior a 5 años de prisión",
@@ -1010,8 +1010,8 @@
       "Conflictos laborales colectivos"
     ],
     "correcta": 1,
-    "explicación": "El tema atribuye a los Juzgados de lo Penal el enjuiciamiento de delitos con pena no superior a 5 años de prisión.",
-    "referencia": "I.2 · 7. Los Juzgados"
+    "referencia": "I.2 · 7. Los Juzgados",
+    "explicacion": "El artículo 14 LECrim atribuye, como regla general, a la Sección de lo Penal del Tribunal de Instancia el enjuiciamiento de delitos con pena de prisión legalmente prevista no superior a cinco años. Existen reglas para otras penas y competencias especiales. El límite se refiere a la pena del delito, no simplemente a la condena finalmente solicitada o impuesta."
   },
   {
     "id": "t06-p010",
@@ -1024,8 +1024,8 @@
       "Inamovilidad absoluta"
     ],
     "correcta": 1,
-    "explicación": "El tema enumera entre los principios de actuación la unidad, la dependencia jerárquica, la legalidad y la imparcialidad.",
-    "referencia": "I.2 · 8.2 Principios de actuación (art. 124.2 CE)"
+    "referencia": "I.2 · 8.2 Principios de actuación (art. 124.2 CE)",
+    "explicacion": "El artículo 124.2 CE combina unidad de actuación y dependencia jerárquica con legalidad e imparcialidad en el Ministerio Fiscal. Esa jerarquía es interna a la institución y no autoriza instrucciones gubernamentales sobre cualquier asunto concreto. El fiscal no ejerce autonomía legislativa ni comparte exactamente el estatuto de independencia e inamovilidad de los jueces."
   },
   {
     "id": "t06-p011",
@@ -1038,8 +1038,8 @@
       "el Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicación": "El tema explica que juzgar y hacer ejecutar lo juzgado corresponde a jueces y magistrados.",
-    "referencia": "I.2 · 1.1 La justicia como poder del Estado (art. 117 CE)"
+    "referencia": "I.2 · 1.1 La justicia como poder del Estado (art. 117 CE)",
+    "explicacion": "El artículo 117 CE atribuye la función jurisdiccional ordinaria a jueces y magistrados integrantes del Poder Judicial. El CGPJ organiza y gobierna ese poder, pero no resuelve pleitos; el Ministerio Fiscal promueve la actuación de la justicia. El Tribunal Constitucional tiene jurisdicción constitucional propia y no se integra en el Poder Judicial regulado en este título."
   },
   {
     "id": "t06-p012",
@@ -1052,27 +1052,27 @@
       "Qué el TC sustituye a todos los órganos judiciales"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge la unidad jurisdiccional como principio constitucional.",
-    "referencia": "I.2 · 1.3 Unidad jurisdiccional (art. 117.5 CE)"
+    "referencia": "I.2 · 1.3 Unidad jurisdiccional (art. 117.5 CE)",
+    "explicacion": "El artículo 117.5 CE proclama la unidad jurisdiccional como base de la organización y funcionamiento de los tribunales. No hay un Poder Judicial soberano distinto por cada comunidad autónoma. Esa unidad es compatible con órganos territoriales y con el ámbito militar previsto constitucionalmente, pero no con atribuir a cada provincia una jurisdicción legislativa independiente."
   },
   {
     "id": "t06-p013",
     "tema": 2,
     "pregunta": "Según el art. 125 CE, la participación ciudadana en la Administración de Justicia se realiza mediante:",
     "opciones": [
-      "jurados y tribunales populares",
+      "la acción popular, el jurado y los tribunales consuetudinarios y tradicionales",
       "jurado solamente",
       "procuradores y notarios",
       "elección directa de jueces"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa la participación ciudadana en la Administración de Justicia en el art. 125 CE.",
-    "referencia": "I.2 · 1.4 Participación ciudadana en la Administración de Justicia (art. 125 CE)"
+    "referencia": "I.2 · 1.4 Participación ciudadana en la Administración de Justicia (art. 125 CE)",
+    "explicacion": "El artículo 125 CE prevé la acción popular, la participación mediante jurado en los procesos penales que determine la ley y los tribunales consuetudinarios y tradicionales. No habla de elegir directamente jueces ni de tribunales populares en general. La participación ciudadana se ejerce por esos cauces legales, no por asumir libremente funciones judiciales."
   },
   {
     "id": "t06-p014",
     "tema": 2,
-    "pregunta": "Según el art. 107 LOPJ, ¿qué órgano puede dictar reglamentos en el ámbito de sus competencias de personal?",
+    "pregunta": "Según el artículo 560 de la LOPJ, ¿qué órgano tiene potestad reglamentaria en las materias de su competencia previstas legalmente?",
     "opciones": [
       "El CGPJ",
       "La Audiencia Nacional",
@@ -1080,13 +1080,13 @@
       "La Fiscalía General del Estado"
     ],
     "correcta": 0,
-    "explicación": "El tema atribuye esa potestad reglamentaria al CGPJ.",
-    "referencia": "I.2 · 2.5 Funciones del CGPJ (art. 107 LOPJ)"
+    "referencia": "I.2 · 2.5 Funciones del CGPJ (art. 107 LOPJ)",
+    "explicacion": "El artículo 560.1.16 LOPJ reconoce al CGPJ potestad reglamentaria en las materias enumeradas de su competencia. No es una facultad general para modificar leyes ni una potestad atribuida a la Audiencia Nacional o a la Fiscalía. La referencia vigente debe distinguirse de artículos antiguos que regulaban sus atribuciones antes de posteriores reformas."
   },
   {
     "id": "t06-p015",
     "tema": 2,
-    "pregunta": "¿Qué sala del Tribunal Supremo conoce de los recursos contra actos del Gobierno y de la AGE?",
+    "pregunta": "¿Qué sala del Tribunal Supremo conoce, en los supuestos legalmente atribuidos a ese tribunal, de los recursos contencioso-administrativos contra actos del Consejo de Ministros?",
     "opciones": [
       "Sala 1.ª",
       "Sala 2.ª",
@@ -1094,8 +1094,8 @@
       "Sala 5.ª"
     ],
     "correcta": 2,
-    "explicación": "El tema asigna esa materia a la Sala 3.ª, de lo Contencioso-Administrativo.",
-    "referencia": "I.2 · 3.2 Composición y organización"
+    "referencia": "I.2 · 3.2 Composición y organización",
+    "explicacion": "La Sala Tercera del Tribunal Supremo es la de lo Contencioso-Administrativo y conoce los recursos que las leyes atribuyen directamente al Supremo, como determinados actos del Consejo de Ministros. No conoce por esa sola condición de cualquier acto de toda la AGE. La Primera es Civil, la Segunda Penal y la Quinta Militar."
   },
   {
     "id": "t06-p016",
@@ -1108,8 +1108,8 @@
       "El Tribunal Supremo, a propuesta del Gobierno"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que el Fiscal General del Estado es nombrado por el Rey, a propuesta del Gobierno y oído el CGPJ.",
-    "referencia": "I.2 · 8.3 El Fiscal General del Estado"
+    "referencia": "I.2 · 8.3 El Fiscal General del Estado",
+    "explicacion": "El artículo 124.4 CE encarga al Rey nombrar al Fiscal General del Estado, a propuesta del Gobierno y tras oír al CGPJ. Este informe no equivale a que el Consejo lo elija o pueda sustituir la propuesta gubernamental. Deben distinguirse tres funciones: propuesta del Gobierno, audiencia al Consejo y nombramiento formal por el Rey."
   },
   {
     "id": "t06-p017",
@@ -1122,8 +1122,8 @@
       "El Ministerio Fiscal"
     ],
     "correcta": 2,
-    "explicación": "La Constitución atribuye en exclusiva la potestad jurisdiccional a los Juzgados y Tribunales establecidos por la ley.",
-    "referencia": "I.2 · 1.2 La función jurisdiccional: juzgar y ejecutar lo juzgado (art. 117.3 CE)"
+    "referencia": "I.2 · 1.2 La función jurisdiccional: juzgar y ejecutar lo juzgado (art. 117.3 CE)",
+    "explicacion": "El artículo 117.3 CE reserva juzgar y hacer ejecutar lo juzgado a los juzgados y tribunales determinados por las leyes. El CGPJ gobierna el Poder Judicial y el Ministerio Fiscal promueve la justicia, pero ninguno sustituye al órgano que dicta y ejecuta resoluciones jurisdiccionales. Tampoco las Cortes pueden resolver directamente un litigio individual."
   },
   {
     "id": "t06-p018",
@@ -1136,8 +1136,8 @@
       "El Rey, a propuesta del Consejo General del Poder Judicial"
     ],
     "correcta": 3,
-    "explicación": "El tema indica que el Presidente del Tribunal Supremo es elegido por los vocales del CGPJ y nombrado por el Rey.",
-    "referencia": "I.2 · 3.3 El Presidente del Tribunal Supremo"
+    "referencia": "I.2 · 3.3 El Presidente del Tribunal Supremo",
+    "explicacion": "El Rey nombra al Presidente del Tribunal Supremo a propuesta del CGPJ, conforme al artículo 123.2 CE. El Gobierno no sustituye al Consejo en esa propuesta. La intervención formal de la Corona se diferencia de la elección o propuesta realizada por el órgano de gobierno judicial, y no debe invertirse quién propone y quién nombra."
   },
   {
     "id": "burgos-i02-hard-01",
@@ -1150,8 +1150,8 @@
       "Proponer candidato a Presidente del Gobierno"
     ],
     "correcta": 0,
-    "explicación": "Los actos relativos al nombramiento y relevo de los miembros de la Casa del Rey son excepción al refrendo.",
-    "referencia": "Tema I.2, Corona y refrendo"
+    "referencia": "Tema I.2, Corona y refrendo",
+    "explicacion": "El artículo 65.2 CE permite al Rey nombrar y relevar libremente a los miembros civiles y militares de su Casa. El artículo 56.3 exceptúa expresamente esos actos del refrendo. En cambio, la sanción de leyes, la convocatoria electoral o la propuesta de candidato al Gobierno siguen las reglas de refrendo constitucionalmente establecidas."
   },
   {
     "id": "burgos-i02-hard-02",
@@ -1164,8 +1164,8 @@
       "Mayoría absoluta del Congreso y del Senado"
     ],
     "correcta": 0,
-    "explicación": "El art. 99 CE exige mayoría absoluta en primera votación y mayoría simple en la segunda.",
-    "referencia": "Tema I.2, Gobierno e investidura"
+    "referencia": "Tema I.2, Gobierno e investidura",
+    "explicacion": "La segunda votación de investidura, cuarenta y ocho horas después de la primera, permite conceder confianza por mayoría simple del Congreso, según el artículo 99.3 CE. Se requieren más votos favorables que contrarios. La mayoría absoluta se exige en la primera y el Senado no interviene en ninguna de esas votaciones de investidura."
   },
   {
     "id": "burgos-i02-hard-03",
@@ -1178,8 +1178,8 @@
       "Ambas cesan al terminar cada período ordinario de sesiones"
     ],
     "correcta": 0,
-    "explicación": "La inviolabilidad cubre opiniones y votos emitidos en el ejercicio del cargo; la inmunidad se refiere a detención y procesamiento.",
-    "referencia": "Tema I.2, Cortes Generales"
+    "referencia": "Tema I.2, Cortes Generales",
+    "explicacion": "La inviolabilidad protege las opiniones emitidas en el ejercicio parlamentario; la inmunidad limita detención y procesamiento durante el mandato, conforme al artículo 71 CE. No son garantías exclusivas de diputados: también protegen a senadores. Confundirlas lleva a atribuir a cualquier opinión o conducta privada una inmunidad penal que la Constitución no establece."
   },
   {
     "id": "burgos-i02-hard-04",
@@ -1192,8 +1192,8 @@
       "Presidente del Congreso, Presidente del Senado y veinte vocales"
     ],
     "correcta": 0,
-    "explicación": "El CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales.",
-    "referencia": "Tema I.2, Poder Judicial"
+    "referencia": "Tema I.2, Poder Judicial",
+    "explicacion": "El artículo 122.3 CE configura el CGPJ con el Presidente del Tribunal Supremo y veinte vocales nombrados por el Rey por cinco años. No lo preside el Gobierno ni es el mismo órgano que los doce magistrados del Tribunal Constitucional. Su composición debe relacionarse con su función de gobierno judicial, no con el bicameralismo parlamentario."
   },
   {
     "id": "estado2026-i02-01",
@@ -1206,11 +1206,11 @@
       "Un Diputado puede acumular siempre acta autonómica y acta del Congreso"
     ],
     "correcta": 0,
-    "explicación": "El art. 67 CE impide ser miembro de las dos Cámaras simultáneamente y también acumular acta autonómica con la de Diputado al Congreso.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 3; Tema I.2, Cortes Generales",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 67.1 CE prohíbe ocupar simultáneamente escaños en Congreso y Senado y acumular el acta autonómica con la de diputado al Congreso. No establece privilegios para el Presidente del Gobierno o los ministros. La compatibilidad entre pertenecer al Ejecutivo y tener un escaño no permite ignorar las incompatibilidades entre las propias Cámaras."
   },
   {
     "id": "estado2026-i02-02",
@@ -1223,11 +1223,11 @@
       "La mayoría absoluta de ambas Cámaras"
     ],
     "correcta": 0,
-    "explicación": "La cuestión de confianza se decide solo en el Congreso y se entiende otorgada por mayoría simple.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 5; Tema I.2, Gobierno y Cortes",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La confianza del artículo 112 CE se otorga por mayoría simple del Congreso. La presenta el Presidente del Gobierno, previa deliberación del Consejo de Ministros, sobre su programa o una declaración de política general. Exigir mayoría absoluta o incluir al Senado confunde este mecanismo con la investidura inicial o con la moción de censura."
   },
   {
     "id": "estado2026-i02-03",
@@ -1240,11 +1240,11 @@
       "El Fiscal General del Estado lo propone al Gobierno"
     ],
     "correcta": 0,
-    "explicación": "El Presidente del Tribunal Supremo es nombrado por el Rey, a propuesta del Consejo General del Poder Judicial, en la forma que determine la ley.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 4; Tema I.2, Poder Judicial",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 123.2 CE distingue propuesta y nombramiento: el CGPJ propone al Presidente del Tribunal Supremo y el Rey lo nombra. No es un nombramiento del Consejo de Ministros ni una elección del Congreso por tres quintos. Aunque presida también el CGPJ, su nombramiento sigue la vía constitucional específica del órgano judicial superior."
   },
   {
     "tema": 2,
@@ -1258,10 +1258,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 2",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 108 CE establece responsabilidad política solidaria del Gobierno ante el Congreso de los Diputados. Es distinta de su responsabilidad penal y del control de constitucionalidad de las normas. El Senado participa en otras formas de control parlamentario, pero la relación de confianza y la exigencia de responsabilidad de este precepto corresponden al Congreso."
   },
   {
     "tema": 2,
@@ -1275,10 +1275,10 @@
     ],
     "correcta": 1,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 3",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 159.1 CE establece doce magistrados del Tribunal Constitucional: cuatro propuestos por el Congreso, cuatro por el Senado, dos por el Gobierno y dos por el CGPJ, todos nombrados por el Rey. Las Cámaras requieren tres quintos para sus propuestas. Cambiar el reparto 4-4-2-2 o sustituir esa mayoría por dos tercios altera la composición constitucional."
   },
   {
     "tema": 2,
@@ -1292,11 +1292,11 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 2.2 Funciones constitucionales del Rey · artículo 65.1 CE",
-    "explicación": "El artículo 65.1 CE permite al Rey distribuir libremente la cantidad global que recibe de los Presupuestos del Estado para el sostenimiento de su Familia y Casa.",
     "tags": [
       "Repaso profundo",
       "Trampa frecuente"
-    ]
+    ],
+    "explicacion": "El artículo 65.1 CE asigna al Rey libre distribución de la cantidad global prevista en los Presupuestos del Estado para su Familia y Casa. La dotación presupuestaria y su distribución son cuestiones distintas: la aprobación del presupuesto sigue el procedimiento correspondiente. Ni el Consejo de Ministros ni la Mesa del Congreso distribuyen internamente esa cantidad en lugar del Rey."
   },
   {
     "tema": 2,
@@ -1310,10 +1310,10 @@
     ],
     "correcta": 2,
     "referencia": "I.2 · 3.1 Composición del Senado · artículo 69.2 CE",
-    "explicación": "Cada provincia elige cuatro senadores. Las islas, Ceuta y Melilla tienen reglas propias y las comunidades autónomas designan además sus senadores autonómicos.",
     "tags": [
       "Repaso profundo"
-    ]
+    ],
+    "explicacion": "El artículo 69.2 CE dispone que cada provincia elige cuatro senadores. Hay reglas específicas para las islas, Ceuta y Melilla, y además senadores designados por las comunidades autónomas. La fórmula de uno más otro por cada millón de habitantes pertenece a esa designación autonómica, no al número de senadores elegidos por cada provincia."
   },
   {
     "tema": 2,
@@ -1327,10 +1327,10 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 3.2 Funcionamiento de las Cortes · artículo 73.2 CE",
-    "explicación": "Las sesiones extraordinarias pueden solicitarse por el Gobierno, la Diputación Permanente o la mayoría absoluta de los miembros de la Cámara. Se convocan sobre un orden del día determinado.",
     "tags": [
       "Repaso profundo"
-    ]
+    ],
+    "explicacion": "El artículo 73.2 CE permite solicitar sesiones extraordinarias al Gobierno, a la Diputación Permanente o a la mayoría absoluta de los miembros de la Cámara. Deben convocarse con un orden del día determinado. No basta que cualquier grupo parlamentario lo pida por mayoría simple ni corresponde hacerlo al Tribunal Constitucional o al CGPJ."
   },
   {
     "tema": 2,
@@ -1344,11 +1344,11 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 3.3 Control del Gobierno · artículo 113 CE",
-    "explicación": "La moción de censura es constructiva: debe incluir un candidato a la Presidencia y necesita mayoría absoluta del Congreso. La cuestión de confianza la plantea el Presidente y se aprueba por mayoría simple.",
     "tags": [
       "Repaso profundo",
       "Comparativa"
-    ]
+    ],
+    "explicacion": "La moción de censura del artículo 113 CE debe incluir candidato alternativo y aprobarse por mayoría absoluta del Congreso; de ahí su carácter constructivo. La cuestión de confianza la plantea el Presidente y basta mayoría simple. Ninguna se decide en el Senado ni la inicia el Rey: los promotores y los efectos son diferentes."
   },
   {
     "tema": 2,
@@ -1362,11 +1362,11 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 4.2 Gobierno en funciones · artículo 21 de la Ley 50/1997",
-    "explicación": "El Gobierno en funciones no puede presentar proyectos de ley ni aprobar el proyecto de Presupuestos Generales del Estado. Sí debe limitarse al despacho ordinario y facilitar la formación del nuevo Gobierno.",
     "tags": [
       "Repaso profundo",
       "Trampa frecuente"
-    ]
+    ],
+    "explicacion": "El artículo 21 de la Ley 50/1997 prohíbe al Gobierno en funciones presentar proyectos de ley y aprobar el proyecto de Presupuestos. Debe facilitar el relevo y limitarse al despacho ordinario, con excepciones justificadas por urgencia o interés general. Por eso continuar en funciones no equivale a conservar toda la iniciativa política y legislativa ordinaria."
   },
   {
     "tema": 2,
@@ -1380,10 +1380,10 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 5. La Administración Pública · artículo 103 CE",
-    "explicación": "El artículo 103 CE combina servicio objetivo a los intereses generales con sometimiento pleno a la ley y al Derecho.",
     "tags": [
       "Repaso profundo"
-    ]
+    ],
+    "explicacion": "El artículo 103.1 CE exige servicio objetivo al interés general y sometimiento pleno a la ley y al Derecho. Perseguir un fin público no permite saltarse las normas ni elegir fines arbitrarios. Además del control político, existe control judicial sobre la legalidad de la actuación administrativa y de su potestad reglamentaria, conforme al artículo 106."
   },
   {
     "tema": 2,
@@ -1397,11 +1397,11 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 6. El Poder Judicial · artículos 122 y 159 CE",
-    "explicación": "El CGPJ es el órgano de gobierno del Poder Judicial. El Tribunal Constitucional es un órgano constitucional independiente y no integra el Poder Judicial.",
     "tags": [
       "Repaso profundo",
       "Comparativa"
-    ]
+    ],
+    "explicacion": "El CGPJ gobierna el Poder Judicial, mientras el Tribunal Constitucional es un órgano constitucional independiente encargado de sus garantías específicas. No integra el Poder Judicial ni es el superior jerárquico del Consejo. El amparo corresponde al Constitucional, pero eso no convierte al CGPJ en un órgano encargado de resolver recursos jurisdiccionales."
   },
   {
     "tema": 2,
@@ -1415,9 +1415,9 @@
     ],
     "correcta": 0,
     "referencia": "I.2 · 6. El Poder Judicial · artículo 122.3 CE",
-    "explicación": "El artículo 122.3 CE establece que el CGPJ está integrado por el Presidente del Tribunal Supremo, que lo preside, y veinte vocales nombrados por el Rey por cinco años.",
     "tags": [
       "Repaso profundo"
-    ]
+    ],
+    "explicacion": "El artículo 122.3 CE fija veinte vocales del CGPJ, nombrados por cinco años, más el Presidente del Tribunal Supremo, que lo preside. La cifra de doce y el Presidente del Tribunal Constitucional corresponden a otra institución. Los vocales tampoco se eligen por sufragio universal ni forman parte de un órgano presidido por el Gobierno."
   }
 ]

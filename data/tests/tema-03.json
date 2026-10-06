@@ -11,11 +11,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 10",
-    "explicación": "El artículo 137 CE organiza territorialmente el Estado en municipios, provincias y comunidades autónomas que se constituyan.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 137 CE organiza el Estado en municipios, provincias y comunidades autónomas que se constituyan, reconociendo autonomía para gestionar sus respectivos intereses. Otras entidades, como mancomunidades o comarcas, pueden existir por ley, pero no integran esa enumeración concreta. No debe ampliarse la respuesta con todas las entidades territoriales reguladas en el ordenamiento."
   },
   {
     "id": "pdf-2025-burgos-q09",
@@ -29,11 +29,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 9",
-    "explicación": "La alteración de los límites provinciales requiere ley orgánica conforme al artículo 141 CE.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 141.1 CE exige que las Cortes Generales aprueben por ley orgánica cualquier alteración de los límites provinciales. No basta un acuerdo entre administraciones ni una ley ordinaria. La alteración de términos municipales es otro procedimiento y no puede utilizarse para cambiar una frontera provincial sin cumplir esta garantía constitucional."
   },
   {
     "id": "t07-p001",
@@ -46,8 +46,8 @@
       "municipios, distritos y barrios"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce el art. 137 CE y la organización territorial en municipios, provincias y comunidades autónomas.",
-    "referencia": "I.3 · 1.1 El modelo constitucional (art. 137 CE)"
+    "referencia": "I.3 · 1.1 El modelo constitucional (art. 137 CE)",
+    "explicacion": "Municipios, provincias y comunidades autónomas forman la enumeración del artículo 137 CE. Todos disfrutan de autonomía para sus intereses respectivos, aunque su alcance no sea idéntico. Comarcas, mancomunidades, distritos y barrios pueden responder a otras formas de organización, pero no sustituyen a esas tres categorías en la estructura territorial constitucional."
   },
   {
     "id": "t07-p002",
@@ -60,8 +60,8 @@
       "La prevalencia del derecho autonómico en todo caso"
     ],
     "correcta": 0,
-    "explicación": "El artículo 139 CE proclama la igualdad de derechos y obligaciones en cualquier parte del territorio y prohíbe obstáculos a la libertad de circulación y establecimiento; el asilo pertenece a otra materia constitucional.",
-    "referencia": "I.3 · 1.4 Igualdad de los españoles en todo el territorio (art. 139 CE)"
+    "referencia": "I.3 · 1.4 Igualdad de los españoles en todo el territorio (art. 139 CE)",
+    "explicacion": "El artículo 139 CE establece igualdad de derechos y obligaciones en todo el territorio e impide obstaculizar directa o indirectamente la circulación y el establecimiento de personas y bienes. No exige que toda regulación autonómica sea idéntica. El derecho de asilo y la prevalencia normativa tienen otros fundamentos: no forman parte de la garantía territorial que aquí se pregunta."
   },
   {
     "id": "t07-p003",
@@ -74,22 +74,22 @@
       "Art. 155 CE"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que el art. 149 CE contiene la lista de materias de competencia exclusiva del Estado.",
-    "referencia": "I.3 · 3.1 Las tres listas constitucionales"
+    "referencia": "I.3 · 3.1 Las tres listas constitucionales",
+    "explicacion": "El artículo 149.1 CE enumera competencias exclusivas estatales, mientras el 148.1 recoge materias que las comunidades pueden asumir. El 150 regula mecanismos de ampliación o articulación competencial y el 155 medidas excepcionales de cumplimiento. La palabra «exclusiva» no implica que todas las materias estatales excluyan cualquier actividad autonómica: algunas reservas se limitan a legislación o bases."
   },
   {
     "id": "t07-p004",
     "tema": 3,
     "pregunta": "En la distribución de competencias Estado-Comunidades Autónomas, ¿qué se entiende por cláusula de prevalencia?",
     "opciones": [
-      "Que el Derecho estatal prevalece sobre el de las CC.AA. en caso de conflicto",
+      "Que el Derecho estatal prevalece en caso de conflicto en lo que no esté atribuido a la exclusiva competencia de las comunidades autónomas",
       "Qué el Derecho autonómico prevalece siempre sobre el estatal",
       "Qué el Derecho europeo suple a todos los demás",
       "Qué las ordenanzas locales prevalecen sobre la ley"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge la prevalencia del Derecho estatal en caso de conflicto, en los términos del art. 149.3 CE.",
-    "referencia": "I.3 · 3.5 Cláusula de prevalencia y supletoriedad"
+    "referencia": "I.3 · 3.5 Cláusula de prevalencia y supletoriedad",
+    "explicacion": "La prevalencia del artículo 149.3 CE favorece al Derecho estatal en caso de conflicto en lo que no corresponda a la exclusiva competencia autonómica. No declara superior toda norma estatal sobre cualquier norma autonómica. Primero debe respetarse el reparto competencial; tampoco es una autorización para que ordenanzas locales prevalezcan sobre leyes ni equivale a la supletoriedad."
   },
   {
     "id": "t07-p005",
@@ -102,8 +102,8 @@
       "la iniciativa legislativa popular"
     ],
     "correcta": 1,
-    "explicación": "El tema afirma que las leyes de armonización se dictan cuando así lo exija el interés general.",
-    "referencia": "I.3 · 3.6 Cláusula de armonización (art. 150.3 CE)"
+    "referencia": "I.3 · 3.6 Cláusula de armonización (art. 150.3 CE)",
+    "explicacion": "El artículo 150.3 CE permite leyes de armonización cuando lo exija el interés general. Corresponde apreciar esa necesidad a las Cortes por mayoría absoluta de cada Cámara. No basta una petición autonómica ni solo el voto del Senado: debe distinguirse el motivo que justifica la armonización del procedimiento necesario para declararla."
   },
   {
     "id": "t07-p006",
@@ -116,8 +116,8 @@
       "La suspensión del Congreso"
     ],
     "correcta": 1,
-    "explicación": "El tema identifica el art. 155 CE con el mecanismo de coerción estatal sobre una Comunidad Autónoma.",
-    "referencia": "I.3 · 4.1 El art. 155 CE"
+    "referencia": "I.3 · 4.1 El art. 155 CE",
+    "explicacion": "El artículo 155 CE permite al Gobierno adoptar medidas necesarias ante incumplimientos constitucionales o legales autonómicos o un grave atentado al interés general de España. Exige requerimiento previo al Presidente autonómico y aprobación por mayoría absoluta del Senado si no se atiende. No establece una disolución automática de la comunidad ni suspende el Congreso."
   },
   {
     "id": "t07-p007",
@@ -130,8 +130,8 @@
       "Que las CC.AA. asuman por sí mismas competencias exclusivas del Estado fuera de los supuestos constitucionales"
     ],
     "correcta": 0,
-    "explicación": "Las leyes marco del art. 150.1 CE permiten atribuir a las comunidades autónomas la facultad de dictar normas legislativas dentro de unos principios, bases y directrices estatales.",
-    "referencia": "Constitución Española · art. 150.1"
+    "referencia": "Constitución Española · art. 150.1",
+    "explicacion": "Una ley marco del artículo 150.1 CE permite a las comunidades dictar normas legislativas sobre materias estatales dentro de principios, bases y directrices fijados por una ley estatal. Es diferente de transferir o delegar facultades mediante ley orgánica del 150.2. Tampoco autoriza a asumir unilateralmente cualquier competencia estatal fuera del marco constitucional."
   },
   {
     "id": "t07-p008",
@@ -144,8 +144,8 @@
       "La financiación de los partidos políticos"
     ],
     "correcta": 0,
-    "explicación": "El tema indica que el FCI sirve para corregir desequilibrios económicos interterritoriales y hacer efectivo el principio de solidaridad.",
-    "referencia": "I.3 · 5. La financiación autonómica (arts. 156-158 CE)"
+    "referencia": "I.3 · 5. La financiación autonómica (arts. 156-158 CE)",
+    "explicacion": "El Fondo de Compensación del artículo 158.2 CE pretende corregir desequilibrios económicos entre territorios y hacer efectiva la solidaridad. Se destina a gastos de inversión y sus recursos los distribuyen las Cortes entre comunidades autónomas y provincias, en su caso. No es un fondo general para partidos ni para cualquier gasto corriente de una administración."
   },
   {
     "id": "t07-p009",
@@ -158,8 +158,8 @@
       "las relaciones internacionales"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye la organización de las instituciones de autogobierno entre las materias del art. 148 CE que las CC.AA. pueden asumir.",
-    "referencia": "I.3 · 3.3 Las competencias de las CC.AA. (art. 148 CE)"
+    "referencia": "I.3 · 3.3 Las competencias de las CC.AA. (art. 148 CE)",
+    "explicacion": "El artículo 148.1.1 CE permite asumir la organización de las instituciones de autogobierno. En cambio, nacionalidad, defensa, relaciones internacionales y legislación mercantil aparecen entre las reservas del artículo 149.1. La lista del 148 no atribuye automáticamente todas sus materias: la asunción de competencias debe concretarse en el correspondiente Estatuto."
   },
   {
     "id": "t07-p010",
@@ -172,8 +172,8 @@
       "La recaudación del IVA estatal en exclusiva"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera entre los recursos autonómicos el producto de las operaciones de crédito.",
-    "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)"
+    "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)",
+    "explicacion": "El artículo 157.1.e CE incluye el producto de operaciones de crédito entre los recursos autonómicos. También contempla tributos, participaciones y otros ingresos en los términos constitucionales y legales. No otorga a una comunidad el presupuesto del Senado ni la recaudación exclusiva de todo el IVA estatal: tener autonomía financiera no elimina las reglas de financiación."
   },
   {
     "id": "t07-p011",
@@ -186,8 +186,8 @@
       "Art. 155 CE"
     ],
     "correcta": 0,
-    "explicación": "El tema identifica el art. 148 CE con las materias susceptibles de asunción autonómica.",
-    "referencia": "I.3 · 3.1 Las tres listas constitucionales"
+    "referencia": "I.3 · 3.1 Las tres listas constitucionales",
+    "explicacion": "El artículo 148 CE enumera materias que las comunidades autónomas pueden asumir, como organización institucional, determinados servicios o promoción del turismo. El 149 identifica reservas estatales. Para saber qué ejerce realmente cada comunidad hay que acudir además a su Estatuto y a las leyes aplicables, pues la lista constitucional no equivale a una asunción automática."
   },
   {
     "id": "t07-p012",
@@ -200,8 +200,8 @@
       "Asistencia social"
     ],
     "correcta": 2,
-    "explicación": "El tema incluye defensa y Fuerzas Armadas dentro de las competencias exclusivas del Estado.",
-    "referencia": "I.3 · 3.2 Las competencias exclusivas del Estado (art. 149.1 CE)"
+    "referencia": "I.3 · 3.2 Las competencias exclusivas del Estado (art. 149.1 CE)",
+    "explicacion": "Defensa y Fuerzas Armadas son competencia exclusiva estatal en el artículo 149.1.4 CE. Turismo, agricultura y asistencia social figuran entre las materias del artículo 148, con sus límites y conexiones constitucionales. La pregunta busca la reserva estatal expresa, no negar que otras materias puedan estar afectadas por bases o competencias del Estado."
   },
   {
     "id": "t07-p013",
@@ -214,8 +214,8 @@
       "Reglamento de las Cortes"
     ],
     "correcta": 0,
-    "explicación": "El tema indica que la transferencia o delegación de competencias propias del Estado a las CC.AA. se hace mediante Ley Orgánica.",
-    "referencia": "I.3 · 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)"
+    "referencia": "I.3 · 3.7 Leyes marco y leyes de transferencia o delegación (art. 150 CE)",
+    "explicacion": "El artículo 150.2 CE exige ley orgánica para transferir o delegar a las comunidades facultades correspondientes a materias estatales que por su naturaleza sean susceptibles de ello. La ley debe prever medios financieros y controles. No debe confundirse con la ley marco del 150.1 ni con las leyes de armonización del 150.3."
   },
   {
     "id": "t07-p014",
@@ -228,8 +228,8 @@
       "Consejo de Estado"
     ],
     "correcta": 1,
-    "explicación": "El tema establece que el Gobierno debe requerir al Presidente autonómico y, si no hay cumplimiento, necesita acuerdo del Senado por mayoría absoluta.",
-    "referencia": "I.3 · 4.1 El art. 155 CE — Coerción estatal"
+    "referencia": "I.3 · 4.1 El art. 155 CE — Coerción estatal",
+    "explicacion": "Para las medidas del artículo 155 CE se requiere mayoría absoluta del Senado después de un requerimiento al Presidente de la comunidad que no haya sido atendido. El Gobierno no necesita un acuerdo del Congreso ni una autorización previa del Tribunal Constitucional en lugar del Senado. La aprobación parlamentaria no elimina los límites de necesidad y finalidad de las medidas."
   },
   {
     "id": "t07-p015",
@@ -242,8 +242,8 @@
       "Los derechos arancelarios de aduana"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera el producto de las operaciones de crédito como recurso autonómico.",
-    "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)"
+    "referencia": "I.3 · 5. La financiación autonómica (art. 157 CE)",
+    "explicacion": "Las operaciones de crédito producen recursos autonómicos conforme al artículo 157.1.e CE, sujetos al marco de financiación y estabilidad presupuestaria. No debe confundirse obtener crédito con disponer de cualquier tributo estatal o local. Las tasas provinciales y los derechos aduaneros no se convierten automáticamente en recursos de una comunidad por estar recaudados dentro de su territorio."
   },
   {
     "id": "t07-p016",
@@ -256,8 +256,8 @@
       "Al Presidente del Gobierno"
     ],
     "correcta": 2,
-    "explicación": "El art. 152 CE atribuye al Presidente de la Comunidad la representación de la Comunidad y la ordinaria del Estado en ella.",
-    "referencia": "I.3 · 2.4 Organización institucional de las CC.AA. (art. 152 CE)"
+    "referencia": "I.3 · 2.4 Organización institucional de las CC.AA. (art. 152 CE)",
+    "explicacion": "El Presidente autonómico ostenta la suprema representación de su comunidad y la ordinaria del Estado en ella, según el artículo 152.1 CE. El Delegado del Gobierno representa al Gobierno de la Nación y dirige la Administración estatal territorial. La trampa consiste en equiparar representación del Estado y representación del Gobierno, que no son la misma función."
   },
   {
     "id": "topup-03-01",
@@ -269,9 +269,9 @@
       "a cualquier Ayuntamiento por mayoría simple"
     ],
     "correcta": 0,
-    "explicación": "La vía ordinaria del art. 143 CE exige iniciativa provincial o insular y una mayoría reforzada de municipios.",
     "referencia": "I.3 · Proceso de constitución de las comunidades autónomas",
-    "tema": 3
+    "tema": 3,
+    "explicacion": "El artículo 143.2 CE exige iniciativa de las diputaciones o del órgano interinsular y de dos tercios de los municipios cuya población represente al menos la mayoría del censo electoral de cada provincia o isla. Debe cumplirse en seis meses desde el primer acuerdo. No basta la decisión aislada de cualquier ayuntamiento ni interviene exclusivamente el Senado."
   },
   {
     "id": "topup-03-02",
@@ -283,9 +283,9 @@
       "artículo 150 CE"
     ],
     "correcta": 2,
-    "explicación": "El art. 149 CE recoge la lista principal de competencias exclusivas estatales.",
     "referencia": "I.3 · Distribución de competencias",
-    "tema": 3
+    "tema": 3,
+    "explicacion": "El artículo 149.1 CE contiene la principal enumeración de competencias exclusivas del Estado. El 148 se refiere a materias asumibles por las comunidades y el 137 a la organización territorial general. No se debe atribuir al artículo 150 una lista equivalente: este regula técnicas concretas para articular o ampliar el ejercicio de competencias."
   },
   {
     "id": "burgos-i03-hard-01",
@@ -298,8 +298,8 @@
       "La autonomía provincial elimina la autonomía municipal"
     ],
     "correcta": 0,
-    "explicación": "El tema distingue la autonomía política de las comunidades autónomas de la autonomía local de municipios y provincias.",
-    "referencia": "Tema I.3, Organización territorial del Estado"
+    "referencia": "Tema I.3, Organización territorial del Estado",
+    "explicacion": "La autonomía autonómica tiene dimensión política y capacidad legislativa en las materias asumidas. La local permite gestionar intereses propios con potestades normativas y de gobierno dentro de la ley, pero sin potestad legislativa general equivalente a la autonómica. Ninguna es soberanía independiente de la Constitución ni la existencia de una provincia elimina la autonomía de sus municipios."
   },
   {
     "id": "burgos-i03-hard-02",
@@ -312,8 +312,8 @@
       "Acuerdo del Pleno provincial por mayoría simple"
     ],
     "correcta": 0,
-    "explicación": "El art. 141 CE exige ley orgánica para alterar los límites provinciales.",
-    "referencia": "Tema I.3, Municipios y provincias en la Constitución"
+    "referencia": "Tema I.3, Municipios y provincias en la Constitución",
+    "explicacion": "Alterar límites provinciales exige ley orgánica de las Cortes, conforme al artículo 141.1 CE. Ni un real decreto ni una orden ministerial bastan. Un acuerdo de la Diputación puede intervenir en el expediente cuando proceda, pero no sustituye la decisión normativa exigida constitucionalmente para modificar el territorio de la provincia."
   },
   {
     "id": "burgos-i03-hard-03",
@@ -326,8 +326,8 @@
       "Se atribuyen al Senado por prevalencia"
     ],
     "correcta": 0,
-    "explicación": "El art. 149.3 CE establece que las materias no asumidas por los Estatutos corresponden al Estado.",
-    "referencia": "Tema I.3, Distribución de competencias"
+    "referencia": "Tema I.3, Distribución de competencias",
+    "explicacion": "El artículo 149.3 CE reserva al Estado las competencias sobre materias que los Estatutos no hayan asumido. No quedan sin titular ni pasan automáticamente a los municipios. Debe distinguirse la posibilidad constitucional de asumir una materia de su asunción efectiva: para atribuirla a una comunidad hay que comprobar el Estatuto y el marco aplicable."
   },
   {
     "id": "burgos-i03-hard-04",
@@ -340,8 +340,8 @@
       "Solicitar mayoría absoluta del Congreso sin intervención del Senado"
     ],
     "correcta": 0,
-    "explicación": "El art. 155 CE exige requerimiento previo al Presidente autonómico y aprobación por mayoría absoluta del Senado.",
-    "referencia": "Tema I.3, Control de las Comunidades Autónomas"
+    "referencia": "Tema I.3, Control de las Comunidades Autónomas",
+    "explicacion": "El Gobierno debe requerir previamente al Presidente autonómico para que cumpla sus obligaciones y, si no atiende el requerimiento, obtener aprobación por mayoría absoluta del Senado, según el artículo 155 CE. No sustituye este procedimiento un referéndum ni una autorización del Congreso o del Tribunal Constitucional. Solo después procede adoptar las medidas constitucionalmente necesarias."
   },
   {
     "id": "estado2026-i03-01",
@@ -354,28 +354,28 @@
       "El Ministro competente en política territorial"
     ],
     "correcta": 0,
-    "explicación": "El art. 152 CE atribuye al Presidente autonómico la suprema representación de la Comunidad y la ordinaria del Estado en ella.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 9; Tema I.3, organización autonómica",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La representación ordinaria del Estado corresponde al Presidente autonómico conforme al artículo 152.1 CE. El Delegado del Gobierno, regulado en el 154 y en la Ley 40/2015, representa al Gobierno estatal y dirige su Administración en el territorio. La pregunta obliga a identificar al representado, no simplemente a elegir el cargo estatal destinado en la comunidad."
   },
   {
     "id": "estado2026-i03-02",
     "tema": 3,
     "pregunta": "¿Qué afirmación distingue mejor la cláusula de prevalencia de la supletoriedad del Derecho estatal?",
     "opciones": [
-      "La prevalencia resuelve conflictos competenciales a favor del Estado en lo no atribuido exclusivamente a las Comunidades; la supletoriedad cubre lagunas",
+      "La prevalencia resuelve conflictos normativos en lo no atribuido exclusivamente a las comunidades autónomas; la supletoriedad permite cubrir lagunas",
       "La prevalencia convierte siempre cualquier norma autonómica en nula",
       "La supletoriedad impide aplicar Derecho estatal en las Comunidades Autónomas",
       "Ambas cláusulas atribuyen competencias nuevas a los municipios"
     ],
     "correcta": 0,
-    "explicación": "El art. 149.3 CE combina prevalencia del Derecho estatal en caso de conflicto, salvo competencias exclusivas autonómicas, y supletoriedad general del Derecho estatal.",
     "referencia": "Tema I.3, distribución de competencias",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 149.3 CE distingue prevalencia y supletoriedad. La primera aborda conflictos normativos respetando la exclusiva competencia autonómica; la segunda permite aplicar Derecho estatal para cubrir lagunas en los términos jurídicos pertinentes. Ninguna cláusula concede por sí misma competencias nuevas ni convierte toda norma autonómica distinta de una estatal en automáticamente nula."
   },
   {
     "tema": 3,
@@ -389,10 +389,10 @@
     ],
     "correcta": 0,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 1",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 149.1.2 CE reserva al Estado nacionalidad, inmigración, emigración, extranjería y derecho de asilo. Esa reserva no desaparece porque una comunidad gestione servicios sociales o sanitarios para población extranjera. Debe separarse la competencia sobre el régimen de inmigración de otras actuaciones administrativas autonómicas que puedan afectar a esas personas."
   },
   {
     "id": "burgos-i03-deep-01",
@@ -405,8 +405,8 @@
       "Cinco años"
     ],
     "correcta": 0,
-    "explicación": "El artículo 143.2 CE exige que la iniciativa se ejerza dentro del plazo de seis meses desde el primer acuerdo adoptado por alguna de las corporaciones locales interesadas.",
-    "referencia": "Tema I.3, acceso a la autonomía · artículo 143.2 CE"
+    "referencia": "Tema I.3, acceso a la autonomía · artículo 143.2 CE",
+    "explicacion": "En la vía ordinaria, el artículo 143.2 CE concede seis meses para cumplir los requisitos de iniciativa, contados desde el primer acuerdo adoptado al efecto. Los cinco años se refieren a la posibilidad de reiterar una iniciativa que no prospere y a otros mecanismos constitucionales, no a este plazo. Tres meses y un año tampoco son el plazo previsto."
   },
   {
     "id": "burgos-i03-deep-02",
@@ -419,8 +419,8 @@
       "La unanimidad de los municipios y Diputaciones"
     ],
     "correcta": 0,
-    "explicación": "La iniciativa del artículo 151.1 CE requiere tres cuartas partes de los municipios de cada provincia, que representen al menos la mayoría del censo electoral.",
-    "referencia": "Tema I.3, vías de acceso a la autonomía · artículo 151.1 CE"
+    "referencia": "Tema I.3, vías de acceso a la autonomía · artículo 151.1 CE",
+    "explicacion": "La iniciativa del artículo 151.1 CE requiere, junto con diputaciones u órganos interinsulares, tres cuartas partes de los municipios de cada provincia que representen al menos la mayoría del censo electoral. Además debe ratificarse por referéndum con el requisito constitucional correspondiente. La vía ordinaria del 143 utiliza dos tercios, por lo que no deben intercambiarse ambas mayorías."
   },
   {
     "id": "burgos-i03-deep-03",
@@ -433,8 +433,8 @@
       "Sustituir al Senado en leyes de armonización"
     ],
     "correcta": 0,
-    "explicación": "El artículo 144 permite a las Cortes Generales actuar excepcionalmente por interés nacional y mediante ley orgánica en los supuestos que enumera.",
-    "referencia": "Tema I.3, acceso a la autonomía · artículo 144 CE"
+    "referencia": "Tema I.3, acceso a la autonomía · artículo 144 CE",
+    "explicacion": "El artículo 144.a CE permite a las Cortes, mediante ley orgánica y por interés nacional, autorizar una comunidad uniprovincial que no cumpla los requisitos ordinarios del 143.1. Es una habilitación excepcional, no una transferencia competencial del artículo 150. Tampoco permite aprobar un Estatuto por decreto del Gobierno ni prescindir libremente del procedimiento constitucional."
   },
   {
     "id": "burgos-i03-deep-04",
@@ -447,8 +447,8 @@
       "Armonizar las normas de otras comunidades autónomas"
     ],
     "correcta": 0,
-    "explicación": "La ley marco atribuye una facultad normativa dentro del marco estatal y no transfiere por sí sola la titularidad de la materia.",
-    "referencia": "Tema I.3, técnicas del artículo 150 CE"
+    "referencia": "Tema I.3, técnicas del artículo 150 CE",
+    "explicacion": "Las leyes marco del artículo 150.1 CE permiten producción legislativa autonómica en materias estatales bajo principios, bases y directrices fijados por las Cortes. No transfieren sin más la titularidad de toda competencia ni permiten modificar unilateralmente un Estatuto. La transferencia o delegación del 150.2 es una técnica distinta y exige ley orgánica."
   },
   {
     "id": "burgos-i03-deep-05",
@@ -461,8 +461,8 @@
       "Acuerdo previo del Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicación": "El artículo 150.3 CE atribuye a las Cortes Generales la apreciación de esa necesidad por mayoría absoluta de cada Cámara.",
-    "referencia": "Tema I.3, leyes de armonización · artículo 150.3 CE"
+    "referencia": "Tema I.3, leyes de armonización · artículo 150.3 CE",
+    "explicacion": "El artículo 150.3 CE exige mayoría absoluta de cada Cámara para apreciar la necesidad de armonizar por interés general disposiciones autonómicas. No basta mayoría absoluta únicamente del Congreso. Esa decisión debe diferenciarse de atribuir la necesidad al Tribunal Constitucional o de exigir tres quintos del Senado: la Constitución establece una regla bicameral concreta."
   },
   {
     "id": "burgos-i03-deep-06",
@@ -475,8 +475,8 @@
       "La legislación laboral corresponde exclusivamente a los municipios"
     ],
     "correcta": 0,
-    "explicación": "El artículo 149.1.7.ª CE reserva al Estado la legislación laboral, sin perjuicio de su ejecución por los órganos autonómicos.",
-    "referencia": "Tema I.3, distribución competencial · artículo 149.1.7.ª CE"
+    "referencia": "Tema I.3, distribución competencial · artículo 149.1.7.ª CE",
+    "explicacion": "El artículo 149.1.7 CE reserva al Estado la legislación laboral, sin perjuicio de que su ejecución corresponda a órganos autonómicos. Es un ejemplo de reparto entre legislar y ejecutar. No autoriza a cada comunidad a crear una legislación laboral general propia ni atribuye esa materia a los municipios por la mera existencia de servicios locales de empleo."
   },
   {
     "id": "burgos-i03-deep-07",
@@ -489,8 +489,8 @@
       "Orden ministerial"
     ],
     "correcta": 0,
-    "explicación": "El artículo 141.1 CE dispone que cualquier alteración de los límites provinciales se aprueba mediante ley orgánica.",
-    "referencia": "Tema I.3, municipios y provincias · artículo 141.1 CE"
+    "referencia": "Tema I.3, municipios y provincias · artículo 141.1 CE",
+    "explicacion": "La reserva de ley orgánica del artículo 141.1 CE protege las alteraciones de límites provinciales. No sirve una ley ordinaria ni un decreto-ley. La competencia autonómica sobre alteraciones municipales no permite traspasar esos límites: municipio y provincia son entidades distintas y sus cambios territoriales siguen garantías diferentes."
   },
   {
     "id": "burgos-i03-deep-08",
@@ -503,8 +503,8 @@
       "Tribunal Constitucional, por mayoría de tres quintos"
     ],
     "correcta": 0,
-    "explicación": "El Gobierno puede adoptar las medidas del artículo 155 solo después del requerimiento y de obtener la aprobación del Senado por mayoría absoluta.",
-    "referencia": "Tema I.3, control de las comunidades autónomas · artículo 155 CE"
+    "referencia": "Tema I.3, control de las comunidades autónomas · artículo 155 CE",
+    "explicacion": "Si el requerimiento del Gobierno no es atendido, el artículo 155 CE exige aprobación del Senado por mayoría absoluta. No debe trasladarse al Congreso la Cámara competente ni confundir esa autorización con una decisión ordinaria del Consejo de Ministros. El Tribunal Constitucional puede ejercer sus funciones de control, pero no reemplaza la aprobación constitucional del Senado."
   },
   {
     "id": "burgos-i03-deep-09",
@@ -517,8 +517,8 @@
       "Los miembros del Tribunal Constitucional y del Consejo de Estado"
     ],
     "correcta": 0,
-    "explicación": "El artículo 146 CE atribuye la elaboración del proyecto a una asamblea integrada por representantes de las Diputaciones u órganos interinsulares y por diputados y senadores elegidos en las provincias afectadas.",
-    "referencia": "Tema I.3, elaboración del Estatuto · artículo 146 CE"
+    "referencia": "Tema I.3, elaboración del Estatuto · artículo 146 CE",
+    "explicacion": "El artículo 146 CE encomienda elaborar el proyecto de Estatuto a una asamblea con los miembros de las diputaciones u órganos interinsulares y los diputados y senadores elegidos en las provincias afectadas. Después se eleva a las Cortes para tramitarlo como ley. No es una comisión de alcaldes ni un órgano integrado por tribunales y asesores estatales."
   },
   {
     "id": "burgos-i03-deep-10",
@@ -531,8 +531,8 @@
       "Solo puede aprobarla el Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicación": "El artículo 148.2 CE vincula la ampliación sucesiva de competencias al transcurso de cinco años y a la reforma estatutaria, dentro del marco del artículo 149.",
-    "referencia": "Tema I.3, distribución competencial · artículo 148.2 CE"
+    "referencia": "Tema I.3, distribución competencial · artículo 148.2 CE",
+    "explicacion": "El artículo 148.2 CE permite ampliar sucesivamente competencias después de cinco años mediante reforma estatutaria dentro del artículo 149. No es una ampliación automática por el paso del tiempo. Las vías reforzadas y supuestos constitucionales especiales explican que no todas las comunidades siguieran idéntico calendario; tampoco se requiere siempre una ley de armonización."
   },
   {
     "id": "burgos-i03-deep-11",
@@ -545,8 +545,8 @@
       "El control exclusivo de la actividad económica y presupuestaria"
     ],
     "correcta": 0,
-    "explicación": "El artículo 153.b) CE reserva al Gobierno, previo dictamen del Consejo de Estado, el control del ejercicio de funciones delegadas a que se refiere el artículo 150.2.",
-    "referencia": "Tema I.3, controles sobre las comunidades autónomas · artículo 153.b) CE"
+    "referencia": "Tema I.3, controles sobre las comunidades autónomas · artículo 153.b) CE",
+    "explicacion": "El artículo 153.b CE atribuye al Gobierno, previo dictamen del Consejo de Estado, el control de las funciones delegadas del artículo 150.2. No es un control general de toda administración autonómica. El Constitucional controla la constitucionalidad normativa, la jurisdicción contenciosa la actividad administrativa y el Tribunal de Cuentas el ámbito económico y presupuestario."
   },
   {
     "id": "burgos-i03-deep-12",
@@ -559,8 +559,8 @@
       "Pueden gravar bienes de cualquier territorio si lo aprueba su Parlamento"
     ],
     "correcta": 0,
-    "explicación": "El artículo 157.2 CE impide medidas tributarias extraterritoriales y cualquier obstáculo a la libre circulación de personas o bienes.",
-    "referencia": "Tema I.3, financiación autonómica · artículo 157.2 CE"
+    "referencia": "Tema I.3, financiación autonómica · artículo 157.2 CE",
+    "explicacion": "El artículo 157.2 CE impide medidas tributarias autonómicas sobre bienes situados fuera de su territorio y aquellas que obstaculicen la circulación de personas o bienes. No prohíbe todos los tributos propios. La autonomía financiera está limitada territorialmente y por otras garantías, por lo que una aprobación del Parlamento autonómico no elimina esos límites constitucionales."
   },
   {
     "id": "burgos-i03-deep-13",
@@ -573,8 +573,8 @@
       "Controlar la constitucionalidad de las leyes autonómicas"
     ],
     "correcta": 0,
-    "explicación": "El artículo 158.1 CE prevé asignaciones a las comunidades autónomas para garantizar un nivel mínimo de los servicios públicos fundamentales.",
-    "referencia": "Tema I.3, solidaridad territorial · artículo 158.1 CE"
+    "referencia": "Tema I.3, solidaridad territorial · artículo 158.1 CE",
+    "explicacion": "La asignación del artículo 158.1 CE pretende asegurar un nivel mínimo de servicios públicos fundamentales en todo el territorio. Se prevé en los Presupuestos estatales atendiendo al volumen de servicios asumidos. No debe confundirse con el Fondo de Compensación del 158.2, destinado a inversiones para corregir desequilibrios, ni con un instrumento de control constitucional."
   },
   {
     "id": "burgos-i03-deep-14",
@@ -587,7 +587,7 @@
       "A sustituir el control del Tribunal de Cuentas"
     ],
     "correcta": 0,
-    "explicación": "El artículo 158.2 CE vincula el Fondo de Compensación a gastos de inversión y a la corrección de desequilibrios económicos interterritoriales.",
-    "referencia": "Tema I.3, solidaridad territorial · artículo 158.2 CE"
+    "referencia": "Tema I.3, solidaridad territorial · artículo 158.2 CE",
+    "explicacion": "El artículo 158.2 CE destina el Fondo de Compensación a gastos de inversión que corrijan desequilibrios territoriales y hagan efectiva la solidaridad. No es una bolsa para cualquier gasto corriente autonómico. Su reparto corresponde a las Cortes entre comunidades y provincias cuando proceda; el control del Tribunal de Cuentas cumple otra función y no se sustituye por este fondo."
   }
 ]

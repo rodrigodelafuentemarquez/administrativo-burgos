@@ -11,11 +11,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · reserva 2",
-    "explicación": "El Gobierno dirige la política interior y exterior, la Administración civil y militar y la defensa del Estado, y ejerce la función ejecutiva.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 97 CE distingue dos verbos: el Gobierno dirige la política, la Administración y la defensa, y ejerce la función ejecutiva y la potestad reglamentaria. Por eso la respuesta es la función ejecutiva cuando se pregunta qué no «dirige». No significa que el Gobierno carezca de esa función: la ejerce conforme a la Constitución y las leyes."
   },
   {
     "id": "t05-p010",
@@ -28,8 +28,8 @@
       "El Director Insular"
     ],
     "correcta": 1,
-    "explicación": "El tema atribuye esa representación al Delegado del Gobierno en la Comunidad Autónoma.",
-    "referencia": "I.4 · Organización territorial de la AGE (art. 72 LRJSP)"
+    "referencia": "I.4 · Organización territorial de la AGE (art. 72 LRJSP)",
+    "explicacion": "El artículo 72 de la Ley 40/2015 atribuye al Delegado del Gobierno representar al Gobierno de la Nación en la comunidad autónoma. El Presidente autonómico tiene la representación ordinaria del Estado, que es una función distinta. Un subdelegado actúa en su ámbito provincial y no sustituye con carácter general al delegado en toda la comunidad."
   },
   {
     "id": "t05-p015",
@@ -42,8 +42,8 @@
       "autonomía legislativa"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge esos principios en el art. 103 CE.",
-    "referencia": "I.4 · 10.1 Concepto y caracterización"
+    "referencia": "I.4 · 10.1 Concepto y caracterización",
+    "explicacion": "El artículo 103.1 CE exige servicio objetivo al interés general y enumera eficacia, jerarquía, descentralización, desconcentración y coordinación, bajo pleno sometimiento a la ley y al Derecho. No admite centralización absoluta ni una supremacía política sobre las normas. La Administración no dispone de autonomía legislativa para decidir por sí sola qué leyes cumplir."
   },
   {
     "id": "t13-p001",
@@ -56,8 +56,8 @@
       "una Administración sin personalidad jurídica"
     ],
     "correcta": 1,
-    "explicación": "El tema afirma que hay una pluralidad de Administraciones con personalidad y competencias propias.",
-    "referencia": "I.4 · 1.1 Concepto y pluralidad"
+    "referencia": "I.4 · 1.1 Concepto y pluralidad",
+    "explicacion": "La organización territorial española implica varias Administraciones: estatal, autonómicas y locales, además de entidades públicas en los términos legales. No son sucursales de una única persona jurídica. Esa pluralidad exige relaciones de cooperación y coordinación, pero no elimina la autonomía ni permite afirmar que todas estén subordinadas jerárquicamente a una sola Administración."
   },
   {
     "id": "t13-p002",
@@ -70,8 +70,8 @@
       "Art. 149 CE"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce literalmente el art. 103.1 CE.",
-    "referencia": "I.4 · 2.1 Los principios constitucionales"
+    "referencia": "I.4 · 2.1 Los principios constitucionales",
+    "explicacion": "El artículo 103.1 CE reúne los principios de actuación administrativa y el servicio objetivo al interés general. El 106.1 regula su control judicial, el 137 la organización territorial y el 149 competencias estatales. Los artículos se relacionan, pero cada uno cumple una función diferente; la pregunta busca el que define cómo debe actuar la Administración."
   },
   {
     "id": "t13-p003",
@@ -84,8 +84,8 @@
       "solo entre Estado y CC.AA."
     ],
     "correcta": 1,
-    "explicación": "El tema precisa que no hay jerarquía entre Administraciones distintas.",
-    "referencia": "I.4 · 2.2.1 Jerarquía"
+    "referencia": "I.4 · 2.2.1 Jerarquía",
+    "explicacion": "La jerarquía organiza relaciones entre órganos de una misma Administración, dentro de la estructura legal correspondiente. No convierte a municipios o comunidades autónomas en inferiores jerárquicos del Estado. Entre administraciones distintas operan técnicas como coordinación y cooperación, con sus competencias propias: compartir un objetivo no significa pertenecer a una misma cadena de mando."
   },
   {
     "id": "t13-p004",
@@ -98,8 +98,8 @@
       "Avocación"
     ],
     "correcta": 0,
-    "explicación": "El tema define la descentralización como transferencia entre entes territoriales distintos con personalidad propia.",
-    "referencia": "I.4 · 2.2.2 Descentralización"
+    "referencia": "I.4 · 2.2.2 Descentralización",
+    "explicacion": "La descentralización atribuye funciones a entidades con personalidad jurídica distinta, territoriales o institucionales, dentro del marco legal. La desconcentración distribuye competencias entre órganos de la misma persona jurídica. Suplencia y avocación tienen otros efectos sobre quién actúa o qué órgano conoce un asunto, sin equivaler a crear una nueva entidad titular de competencias."
   },
   {
     "id": "t13-p005",
@@ -112,8 +112,8 @@
       "de la ley al reglamento"
     ],
     "correcta": 0,
-    "explicación": "El tema la sitúa dentro de la misma Administración y persona jurídica.",
-    "referencia": "I.4 · 2.2.3 Desconcentración"
+    "referencia": "I.4 · 2.2.3 Desconcentración",
+    "explicacion": "La desconcentración reparte titularidad y ejercicio de competencias hacia órganos dependientes dentro de una misma Administración, en los términos del artículo 8.2 de la Ley 40/2015. No es una transferencia del Estado a una comunidad autónoma, que opera entre personas jurídicas distintas. Tampoco describe el paso de una ley a un reglamento ni una relación judicial."
   },
   {
     "id": "t13-p006",
@@ -126,8 +126,8 @@
       "Primacía judicial"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye la lealtad institucional entre los principios adicionales del art. 3 LRJSP.",
-    "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP"
+    "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP",
+    "explicacion": "La lealtad institucional exige que las administraciones tengan en cuenta los intereses públicos y las competencias de las demás, según los artículos 3 y 140 de la Ley 40/2015. Favorece colaboración e información y evita actuaciones que obstaculicen su ejercicio legítimo. Reserva de ley y publicidad normativa son garantías diferentes, no principios específicos de relación cooperativa."
   },
   {
     "id": "t13-p007",
@@ -140,8 +140,8 @@
       "sustituye al órgano administrativo"
     ],
     "correcta": 1,
-    "explicación": "El tema diferencia claramente órganos y unidades administrativas.",
-    "referencia": "I.4 · 2.4 Técnicas de organización"
+    "referencia": "I.4 · 2.4 Técnicas de organización",
+    "explicacion": "Una unidad administrativa agrupa puestos y tareas bajo una jefatura común, conforme al artículo 56 de la Ley 40/2015. Para tener condición de órgano necesita funciones con efectos jurídicos frente a terceros o actuación preceptiva, según el artículo 5. No toda estructura de apoyo puede dictar resoluciones por sí misma ni sustituir al órgano competente."
   },
   {
     "id": "t13-p008",
@@ -154,8 +154,8 @@
       "la condición de interesado en un procedimiento"
     ],
     "correcta": 0,
-    "explicación": "El tema define la competencia como el conjunto de facultades y potestades del órgano.",
-    "referencia": "I.4 · 2.5 La competencia administrativa"
+    "referencia": "I.4 · 2.5 La competencia administrativa",
+    "explicacion": "La competencia administrativa es el conjunto de atribuciones que el ordenamiento asigna a un órgano para actuar en determinada materia. No deriva de una valoración personal del funcionario ni de que alguien sea interesado en un procedimiento. Identificar al órgano competente permite saber quién puede resolver válidamente y bajo qué reglas de organización y procedimiento."
   },
   {
     "id": "t13-p009",
@@ -168,8 +168,8 @@
       "delegable sin límites en cualquier caso"
     ],
     "correcta": 1,
-    "explicación": "El tema destaca que la competencia es irrenunciable e improrrogable.",
-    "referencia": "I.4 · 2.5 La competencia administrativa"
+    "referencia": "I.4 · 2.5 La competencia administrativa",
+    "explicacion": "El artículo 8 de la Ley 40/2015 establece que la competencia es irrenunciable y debe ejercerse por el órgano que la tiene atribuida, salvo los supuestos legales. Delegación y avocación permiten alteraciones reguladas del ejercicio, no un pacto libre para abandonar competencias. Por eso no puede trasladarse a cualquier órgano sin límites o requisitos."
   },
   {
     "id": "t13-p010",
@@ -182,8 +182,8 @@
       "Encomienda de gestión"
     ],
     "correcta": 2,
-    "explicación": "El tema define la delegación de firma como transferencia solo de la firma.",
-    "referencia": "I.4 · 2.5 La competencia administrativa"
+    "referencia": "I.4 · 2.5 La competencia administrativa",
+    "explicacion": "La delegación de firma del artículo 12 de la Ley 40/2015 permite que otro órgano o unidad dependiente firme por el competente. No altera la competencia del órgano delegante. La delegación de competencias, avocación y encomienda tienen objetos diferentes: autorizar una firma no equivale a transferir quién debe adoptar sustantivamente la decisión."
   },
   {
     "id": "t13-p011",
@@ -196,8 +196,8 @@
       "Equivale a una delegación de firma con efectos resolutorios plenos frente a terceros"
     ],
     "correcta": 1,
-    "explicación": "La encomienda de gestión no altera la titularidad de la competencia ni los elementos sustantivos de su ejercicio; solo desplaza la realización de actividades materiales, técnicas o de servicios.",
-    "referencia": "Ley 40/2015 · art. 11"
+    "referencia": "Ley 40/2015 · art. 11",
+    "explicacion": "La encomienda del artículo 11 de la Ley 40/2015 encarga actividades materiales o técnicas sin ceder titularidad ni elementos sustantivos del ejercicio competencial. El órgano competente conserva la responsabilidad por las decisiones jurídicas. No es una delegación de firma ni permite que el encargado adquiera automáticamente potestad para resolver por su cuenta frente a terceros."
   },
   {
     "id": "t13-p012",
@@ -210,8 +210,8 @@
       "Tribunal Constitucional exclusivamente"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa el control de la actuación administrativa en la jurisdicción contencioso-administrativa.",
-    "referencia": "I.4 · 3.4 Control judicial de la Administración"
+    "referencia": "I.4 · 3.4 Control judicial de la Administración",
+    "explicacion": "El artículo 106.1 CE somete al control de los tribunales la potestad reglamentaria, la legalidad de la actuación administrativa y su adecuación a los fines que la justifican. La Ley 29/1998 organiza este control en la jurisdicción contencioso-administrativa. No se reserva exclusivamente al Tribunal Constitucional ni a tribunales militares o de paz."
   },
   {
     "id": "t13-p013",
@@ -224,8 +224,8 @@
       "el consentimiento judicial previo en todo caso"
     ],
     "correcta": 0,
-    "explicación": "El tema indica esos límites para la autotutela.",
-    "referencia": "I.4 · 3.5 La autotutela administrativa y sus límites"
+    "referencia": "I.4 · 3.5 La autotutela administrativa y sus límites",
+    "explicacion": "La autotutela permite a la Administración declarar y, en determinados casos, ejecutar sus decisiones sin una sentencia previa, pero dentro de la ley. La ejecución debe respetar necesidad y proporcionalidad y puede requerir autorización judicial en supuestos como la entrada en un domicilio protegido. No depende del consentimiento del particular ni elimina las garantías y el control judicial."
   },
   {
     "id": "t13-p014",
@@ -238,22 +238,22 @@
       "Convalidación"
     ],
     "correcta": 0,
-    "explicación": "El tema lo vincula al art. 9.3 CE.",
-    "referencia": "I.4 · 3.6 La interdicción de la arbitrariedad"
+    "referencia": "I.4 · 3.6 La interdicción de la arbitrariedad",
+    "explicacion": "La interdicción de la arbitrariedad del artículo 9.3 CE prohíbe decisiones públicas caprichosas o sin una justificación objetiva. No elimina toda discrecionalidad administrativa: exige ejercerla con razones y dentro de la norma. Supletoriedad, delegación legislativa y convalidación describen otros mecanismos y no son el fundamento de esta prohibición."
   },
   {
     "id": "t13-p015",
     "tema": 4,
     "pregunta": "En la organización administrativa, los principios adicionales del art. 3 LRJSP incluyen:",
     "opciones": [
-      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, proporcionalidad y sostenibilidad",
+      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, eficiencia y utilización de los recursos públicos",
       "solo jerarquía y descentralización",
       "únicamente la legalidad penal",
       "solo la potestad sancionadora"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera varios de esos principios de actuación.",
-    "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP"
+    "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP",
+    "explicacion": "El artículo 3.1 de la Ley 40/2015 añade principios como servicio efectivo a los ciudadanos, buena fe, confianza legítima y eficiencia en la asignación y utilización de recursos públicos. No se limita a repetir jerarquía y descentralización ni trata solo de sanciones. La proporcionalidad también rige la intervención administrativa, pero se formula específicamente en otros preceptos."
   },
   {
     "id": "t13-p016",
@@ -266,8 +266,8 @@
       "Solidaridad, autonomía financiera, subsidiariedad y lealtad institucional"
     ],
     "correcta": 0,
-    "explicación": "El art. 103.1 CE recoge expresamente esos principios de actuación administrativa.",
-    "referencia": "I.4 · 2.1 Los principios constitucionales (art. 103.1 CE)"
+    "referencia": "I.4 · 2.1 Los principios constitucionales (art. 103.1 CE)",
+    "explicacion": "El artículo 103.1 CE enumera eficacia, jerarquía, descentralización, desconcentración y coordinación, junto al sometimiento pleno a la ley y al Derecho. Publicidad, seguridad jurídica y responsabilidad son garantías del artículo 9.3. Los principios penales o de financiación territorial no sustituyen la enumeración concreta exigida para el funcionamiento de la Administración."
   },
   {
     "id": "topup-04-01",
@@ -279,9 +279,9 @@
       "libre designación universal de órganos"
     ],
     "correcta": 0,
-    "explicación": "El art. 103 CE menciona eficacia, jerarquía, descentralización, desconcentración y coordinación, con sometimiento pleno a la ley y al Derecho.",
     "referencia": "I.4 · Administración pública en el ordenamiento jurídico",
-    "tema": 4
+    "tema": 4,
+    "explicacion": "Jerarquía, descentralización y coordinación están expresamente en el artículo 103.1 CE. La Administración debe servir objetivamente al interés general y respetar el Derecho, no actuar con discrecionalidad absoluta ni secreto general. La existencia de autotutela administrativa tampoco crea una «autotutela penal» que permita imponer por sí misma penas propias de la jurisdicción."
   },
   {
     "id": "burgos-i04-hard-01",
@@ -294,8 +294,8 @@
       "Soberanía administrativa"
     ],
     "correcta": 0,
-    "explicación": "La Administración no actúa con libertad general como un particular: necesita habilitación normativa para ejercer potestades.",
-    "referencia": "Tema I.4, Administración pública en el ordenamiento jurídico"
+    "referencia": "Tema I.4, Administración pública en el ordenamiento jurídico",
+    "explicacion": "La vinculación positiva significa que la Administración necesita una habilitación del ordenamiento para ejercer sus potestades. No puede actuar como un particular que decide libremente dentro de todo lo no prohibido. La habilitación puede concretarse mediante diversas normas aplicables, pero no procede de una supuesta soberanía administrativa ni de un simple acuerdo de voluntad."
   },
   {
     "id": "burgos-i04-hard-02",
@@ -308,8 +308,8 @@
       "Secretario de Estado"
     ],
     "correcta": 0,
-    "explicación": "El Delegado del Gobierno representa al Gobierno en el territorio de la Comunidad Autónoma.",
-    "referencia": "Tema I.4, Gobierno y Administración del Estado"
+    "referencia": "Tema I.4, Gobierno y Administración del Estado",
+    "explicacion": "El Delegado del Gobierno representa al Gobierno de la Nación en la comunidad, según el artículo 72 de la Ley 40/2015. El Presidente autonómico ostenta la representación ordinaria del Estado por el artículo 152 CE. La distinción entre Estado y Gobierno explica por qué ambos cargos pueden ejercer funciones representativas diferentes en el mismo territorio."
   },
   {
     "id": "burgos-i04-hard-03",
@@ -322,8 +322,8 @@
       "Coordinación"
     ],
     "correcta": 0,
-    "explicación": "La primogenitura pertenece al régimen sucesorio de la Corona, no a los principios de actuación administrativa del art. 103.1 CE.",
-    "referencia": "Tema I.4, Principios de actuación administrativa"
+    "referencia": "Tema I.4, Principios de actuación administrativa",
+    "explicacion": "Primogenitura es una regla de sucesión a la Corona del artículo 57 CE, no un principio de actuación administrativa del artículo 103.1. Eficacia, jerarquía y coordinación sí pertenecen a ese precepto. La pregunta mezcla instituciones constitucionales: que un concepto aparezca en la Constitución no significa que rija la organización administrativa."
   },
   {
     "id": "burgos-i04-hard-04",
@@ -336,8 +336,8 @@
       "Control del Senado sobre cada expediente administrativo"
     ],
     "correcta": 0,
-    "explicación": "El art. 106 CE encomienda a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa.",
-    "referencia": "Tema I.4, Sometimiento de la Administración a la ley"
+    "referencia": "Tema I.4, Sometimiento de la Administración a la ley",
+    "explicacion": "El artículo 106.1 CE encomienda a los tribunales controlar reglamentos, legalidad de la actuación administrativa y su sometimiento a los fines que la justifican. No atribuye al Gobierno control sobre los jueces ni al Senado revisar cada expediente. El control judicial limita la actuación administrativa sin sustituir al órgano competente en sus decisiones legítimas."
   },
   {
     "id": "estado2026-i04-01",
@@ -350,11 +350,11 @@
       "A los Subdirectores Generales"
     ],
     "correcta": 0,
-    "explicación": "La jefatura superior de todo el personal del Departamento corresponde a la Subsecretaría.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 8; Tema I.4, Administración del Estado",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 63.1 de la Ley 40/2015 atribuye a los subsecretarios la jefatura superior del personal del departamento. Su papel se relaciona con los servicios comunes y la organización ministerial. Secretarios de Estado y directores generales dirigen ámbitos sectoriales, pero no adquieren por ello esa jefatura general de todo el personal del ministerio."
   },
   {
     "id": "estado2026-i04-02",
@@ -367,11 +367,11 @@
       "La Comisión General de Secretarios de Estado y Subsecretarios"
     ],
     "correcta": 0,
-    "explicación": "El art. 107 CE define al Consejo de Estado como supremo órgano consultivo del Gobierno.",
     "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.4, Gobierno y Administración",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El Consejo de Estado es el supremo órgano consultivo del Gobierno según el artículo 107 CE. Emite dictámenes en los casos legalmente previstos, sin ser un tribunal ni el órgano que gobierna a los jueces. La Comisión General de Secretarios de Estado y Subsecretarios prepara asuntos gubernamentales, pero no ocupa esa posición consultiva constitucional."
   },
   {
     "id": "estado2026-i04-03",
@@ -384,11 +384,11 @@
       "Director Insular"
     ],
     "correcta": 0,
-    "explicación": "Los Subsecretarios forman parte de la organización central de los Departamentos ministeriales; Delegados, Subdelegados y Directores Insulares pertenecen a la organización periférica.",
     "referencia": "Tema I.4, Administración General del Estado",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El subsecretario pertenece a la organización central de la AGE, dentro de un ministerio. Delegados, subdelegados y directores insulares integran la organización territorial en los términos de la Ley 40/2015. «Central» describe su encaje organizativo, no que necesariamente toda su actividad se desarrolle físicamente en una única sede."
   },
   {
     "tema": 4,
@@ -402,10 +402,10 @@
     ],
     "correcta": 1,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 2",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 63.3 de la Ley 40/2015 exige para ser subsecretario la condición de funcionario de carrera A1 del Estado, comunidades o entidades locales, o haberla perdido por jubilación. No basta prestigio profesional o un contrato de alta dirección. Tampoco se exige proceder del mismo ministerio ni haber sido necesariamente su secretario general técnico."
   },
   {
     "tema": 4,
@@ -419,10 +419,10 @@
     ],
     "correcta": 2,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 5",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 72.3 de la Ley 40/2015 configura al Delegado del Gobierno como órgano directivo con rango de subsecretario. No es órgano superior como un secretario de Estado ni tiene rango de subdirector general. Deben identificarse por separado su categoría organizativa y el rango: representar al Gobierno no altera esa clasificación legal."
   },
   {
     "id": "burgos-i04-deep-01",
@@ -435,8 +435,8 @@
       "Los Vicepresidentes, en su caso"
     ],
     "correcta": 2,
-    "explicación": "El Gobierno se compone del Presidente, del Vicepresidente o Vicepresidentes, en su caso, y de los Ministros. Los Secretarios de Estado son órganos superiores de la Administración General del Estado, pero no miembros del Gobierno por esa condición.",
-    "referencia": "I.4 · Composición del Gobierno"
+    "referencia": "I.4 · Composición del Gobierno",
+    "explicacion": "Secretarios de Estado son órganos superiores administrativos, pero no miembros del Gobierno en sentido estricto. El artículo 98 CE y el artículo 1 de la Ley 50/1997 distinguen al Presidente, vicepresidentes y ministros. La proximidad política o la asistencia a determinadas reuniones no sustituye las reglas legales de composición del Gobierno."
   },
   {
     "id": "burgos-i04-deep-02",
@@ -449,8 +449,8 @@
       "La Secretaría General Técnica de la Presidencia"
     ],
     "correcta": 0,
-    "explicación": "La Comisión General de Secretarios de Estado y Subsecretarios prepara las deliberaciones del Consejo de Ministros, pero no puede adoptar decisiones que correspondan al Gobierno.",
-    "referencia": "I.4 · Órganos de colaboración y apoyo"
+    "referencia": "I.4 · Órganos de colaboración y apoyo",
+    "explicacion": "La Comisión General de Secretarios de Estado y Subsecretarios prepara las deliberaciones del Consejo de Ministros, conforme al artículo 8 de la Ley 50/1997. No puede adoptar acuerdos por delegación del Gobierno. Una Comisión Delegada tiene otra configuración y funciones, y el Consejo de Estado es consultivo: no deben intercambiarse por su carácter colegiado."
   },
   {
     "id": "burgos-i04-deep-03",
@@ -463,8 +463,8 @@
       "A los tres meses desde la constitución del Congreso"
     ],
     "correcta": 0,
-    "explicación": "El plazo de dos meses se cuenta desde la primera votación de investidura, no desde la propuesta del Rey ni desde la segunda votación.",
-    "referencia": "I.4 · Investidura del Presidente"
+    "referencia": "I.4 · Investidura del Presidente",
+    "explicacion": "El artículo 99.5 CE cuenta dos meses desde la primera votación de investidura. Si ningún candidato obtiene confianza, el Rey disuelve Congreso y Senado y convoca elecciones con refrendo del Presidente del Congreso. La propuesta del Rey o la constitución de la Cámara no son el inicio de ese plazo constitucional."
   },
   {
     "id": "burgos-i04-deep-04",
@@ -477,8 +477,8 @@
       "Unanimidad del Consejo de Ministros"
     ],
     "correcta": 0,
-    "explicación": "La moción de censura es constructiva y debe aprobarse por mayoría absoluta del Congreso; si prospera, el candidato incluido en ella queda investido Presidente.",
-    "referencia": "I.4 · Control parlamentario"
+    "referencia": "I.4 · Control parlamentario",
+    "explicacion": "La moción de censura requiere mayoría absoluta del Congreso, según el artículo 113 CE, y debe incluir candidato alternativo a la Presidencia. Su aprobación supone la sustitución política prevista en el artículo 114. No participa el Senado y no basta mayoría simple, que es la exigida para otorgar una cuestión de confianza."
   },
   {
     "id": "burgos-i04-deep-05",
@@ -491,8 +491,8 @@
       "Continuar hasta la toma de posesión del nuevo Gobierno"
     ],
     "correcta": 0,
-    "explicación": "El Gobierno en funciones limita su gestión al despacho ordinario y no puede presentar proyectos de ley ni aprobar el proyecto de ley de presupuestos.",
-    "referencia": "I.4 · Cese y Gobierno en funciones"
+    "referencia": "I.4 · Cese y Gobierno en funciones",
+    "explicacion": "El artículo 21 de la Ley 50/1997 prohíbe al Gobierno en funciones presentar proyectos de ley ante las Cámaras. Sí debe facilitar el relevo y continuar hasta la toma de posesión del nuevo Gobierno, atendiendo el despacho ordinario. Las excepciones justificadas de urgencia o interés general no deben confundirse con recuperar libremente todas sus facultades."
   },
   {
     "id": "burgos-i04-deep-06",
@@ -505,8 +505,8 @@
       "La desconcentración solo puede producirse entre el Estado y las comunidades autónomas"
     ],
     "correcta": 0,
-    "explicación": "La descentralización distribuye competencias entre personas jurídicas distintas; la desconcentración es una técnica de distribución interna dentro de la misma Administración.",
-    "referencia": "I.4 · Órganos, unidades y competencia"
+    "referencia": "I.4 · Órganos, unidades y competencia",
+    "explicacion": "La descentralización opera entre personas jurídicas distintas; la desconcentración reorganiza competencias entre órganos de una misma persona jurídica. Ambas distribuyen funciones, pero en niveles diferentes. No equivalen a delegar solo una firma ni a suplir temporalmente a una persona titular; tampoco toda distribución del Estado a una comunidad puede llamarse desconcentración."
   },
   {
     "id": "burgos-i04-deep-07",
@@ -519,8 +519,8 @@
       "Rango de Director general"
     ],
     "correcta": 0,
-    "explicación": "El Delegado del Gobierno es órgano directivo con rango de Subsecretario. El Subdelegado del Gobierno tiene nivel de Subdirector general.",
-    "referencia": "I.4 · Organización territorial de la AGE"
+    "referencia": "I.4 · Organización territorial de la AGE",
+    "explicacion": "La Ley 40/2015 da al Delegado del Gobierno rango de subsecretario y condición de órgano directivo. No tiene rango de secretario de Estado, director general o subdirector. La función de representación territorial del Gobierno no debe confundirse con la categoría de órgano superior de un ministerio."
   },
   {
     "id": "burgos-i04-deep-08",
@@ -533,8 +533,8 @@
       "El artículo 106"
     ],
     "correcta": 0,
-    "explicación": "El artículo 107 CE define al Consejo de Estado como supremo órgano consultivo del Gobierno; no es un tribunal ni ejerce el control judicial del artículo 106.",
-    "referencia": "I.4 · Garantías y controles constitucionales"
+    "referencia": "I.4 · Garantías y controles constitucionales",
+    "explicacion": "El artículo 107 CE es el que identifica al Consejo de Estado como supremo órgano consultivo del Gobierno. El 103 regula principios administrativos, el 105 participación y acceso en la actuación administrativa y el 106 control judicial. La numeración ayuda a separar consulta, funcionamiento, participación y control sin atribuirles un mismo contenido."
   },
   {
     "id": "burgos-i04-deep-09",
@@ -547,8 +547,8 @@
       "El Subdirector general"
     ],
     "correcta": 0,
-    "explicación": "En la organización central son órganos superiores los Ministros y los Secretarios de Estado. Subsecretarios, Secretarios generales, Secretarios generales técnicos, Directores generales y Subdirectores generales son órganos directivos.",
-    "referencia": "I.4 · Estructura general de la AGE"
+    "referencia": "I.4 · Estructura general de la AGE",
+    "explicacion": "El artículo 55 de la Ley 40/2015 clasifica como órganos superiores centrales a ministros y secretarios de Estado. Subsecretarios, directores generales y subdirectores son órganos directivos. Tener tareas importantes o rango elevado no cambia esa distinción legal: la pregunta exige la categoría concreta, no elegir simplemente el cargo de mayor responsabilidad entre las opciones."
   },
   {
     "id": "burgos-i04-deep-10",
@@ -561,7 +561,7 @@
       "Permite al encargado dictar resoluciones que atribuyan la competencia a terceros"
     ],
     "correcta": 0,
-    "explicación": "La encomienda de gestión no altera la titularidad de la competencia ni puede tener por objeto prestaciones propias de los contratos; se limita a actividades materiales, técnicas o de servicios.",
-    "referencia": "I.4 · Órganos, unidades y competencia"
+    "referencia": "I.4 · Órganos, unidades y competencia",
+    "explicacion": "La encomienda del artículo 11 de la Ley 40/2015 permite realizar actividades materiales o técnicas por otro órgano o entidad sin transferir la titularidad competencial. No comprende prestaciones propias de contratos del sector público, que siguen su régimen contractual. Las decisiones jurídicas sustantivas permanecen en el órgano competente: encargar tareas no atribuye automáticamente potestad resolutoria al encargado."
   }
 ]

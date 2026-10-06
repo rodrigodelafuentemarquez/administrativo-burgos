@@ -30,7 +30,7 @@ esto no implica que sus explicaciones estén revisadas.
 
 | Grupo | Temas internos | Preguntas iniciales | Estado |
 | --- | --- | ---: | --- |
-| I | 1–9 | 444 | Pendiente |
+| I | 1–9 | 444 | Completado el 06/10/2026 |
 | II | 10–21 | 514 | Pendiente |
 | III | 22–26 | 218 | Pendiente |
 | IV | 27–31 | 165 | Pendiente |
@@ -55,3 +55,8 @@ validar JSON, IDs únicos, opciones y respuesta correcta, ejecutar `npm run buil
 `git diff --check`. Respetar cambios ajenos y publicar solo archivos de este trabajo
 siguiendo el flujo documentado del repositorio. Avisar al completar un grupo, al terminar
 todo o si se requiere una decisión; permanecer en silencio cuando no haya trabajo nuevo.
+
+La revisión del grupo I se inició manualmente por petición expresa del usuario en la
+ventana actual. Las 444 preguntas y las 32 correcciones justificadas están registradas
+en [el informe de revisión](revision-explicaciones-grupo-i.md) y en el estado. El grupo II
+queda pendiente para la siguiente ventana elegible.

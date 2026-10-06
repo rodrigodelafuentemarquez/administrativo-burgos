@@ -11,11 +11,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 1",
-    "explicación": "La reforma ordinaria de la Constitución del artículo 167 CE exige mayoría de tres quintos en cada Cámara.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 167.1 CE fija como regla general tres quintos de cada Cámara: deben alcanzarlos tanto el Congreso como el Senado. No basta esa mayoría únicamente en el Congreso. Los dos tercios y el referéndum obligatorio caracterizan el procedimiento agravado del artículo 168, aunque el artículo 167 contempla una solución excepcional si no hay acuerdo entre las Cámaras."
   },
   {
     "id": "pdf-2025-burgos-q01",
@@ -29,11 +29,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 1",
-    "explicación": "La Constitución fue publicada en el BOE el 29 de diciembre de 1978.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La Constitución se publicó y entró en vigor el 29 de diciembre de 1978. Conviene separar tres fechas que suelen confundirse: el referéndum fue el 6 de diciembre, la sanción del Rey el 27 y la publicación en el BOE el 29. La pregunta pide esta última, no el día de la votación popular."
   },
   {
     "id": "pdf-2025-burgos-q03",
@@ -47,11 +47,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 3",
-    "explicación": "El recurso de amparo constitucional se interpone ante el Tribunal Constitucional.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El amparo constitucional se presenta ante el Tribunal Constitucional, conforme a los artículos 53.2 y 161.1.b CE. Protege determinados derechos fundamentales después de cumplir los requisitos legales, incluida normalmente la vía judicial previa. El Tribunal Supremo pertenece a la jurisdicción ordinaria y el CGPJ gobierna el Poder Judicial: ninguno sustituye al Constitucional en este recurso."
   },
   {
     "id": "t01-p001",
@@ -64,8 +64,8 @@
       "El estatuto de autonomía"
     ],
     "correcta": 0,
-    "explicación": "El tema indica que la Constitución es la norma suprema del ordenamiento jurídico español.",
-    "referencia": "I.1 · 1.1 Concepto y naturaleza"
+    "referencia": "I.1 · 1.1 Concepto y naturaleza",
+    "explicacion": "La Constitución es la norma superior a la que quedan sometidos ciudadanos y poderes públicos, según el artículo 9.1 CE. Una ley orgánica, un estatuto de autonomía o un reglamento deben respetarla. Que una ley exija una mayoría especial o regule una materia importante no le permite modificar la Constitución ni situarse por encima de ella."
   },
   {
     "id": "t01-p002",
@@ -78,8 +78,8 @@
       "Mérito, capacidad, eficacia y descentralización"
     ],
     "correcta": 0,
-    "explicación": "El Tema 1 recoge expresamente los cuatro valores superiores del art. 1.1 CE.",
-    "referencia": "I.1 · 1.2 Carácterísticas"
+    "referencia": "I.1 · 1.2 Carácterísticas",
+    "explicacion": "El artículo 1.1 CE enumera libertad, justicia, igualdad y pluralismo político como valores superiores del ordenamiento. Unidad, autonomía y solidaridad aparecen en el artículo 2, mientras que legalidad y seguridad jurídica son garantías del artículo 9.3. La clave es distinguir los valores del modelo constitucional de otros principios que también reconoce la Constitución."
   },
   {
     "id": "t01-p003",
@@ -92,8 +92,8 @@
       "La organización territorial del Estado"
     ],
     "correcta": 1,
-    "explicación": "El Título I se dedica a los derechos y deberes fundamentales, entre los arts. 10 y 55 CE.",
-    "referencia": "I.1 · 1.3 Estructura"
+    "referencia": "I.1 · 1.3 Estructura",
+    "explicacion": "El Título I, artículos 10 a 55 CE, trata de los derechos y deberes fundamentales y comprende sus garantías y posible suspensión. La Corona se regula en el Título II, la organización territorial en el VIII y la reforma constitucional en el X. El Título Preliminar es un bloque distinto, formado por los artículos 1 a 9."
   },
   {
     "id": "t01-p004",
@@ -106,8 +106,8 @@
       "La libertad sindical"
     ],
     "correcta": 1,
-    "explicación": "El temario identifica el art. 14 CE con el principio de igualdad y la prohibición de discriminación.",
-    "referencia": "I.1 · Artículo 14"
+    "referencia": "I.1 · Artículo 14",
+    "explicacion": "El artículo 14 CE reconoce la igualdad ante la ley y prohíbe discriminaciones por causas como nacimiento, raza, sexo, religión u opinión. No regula la educación, la petición ni la libertad sindical, que tienen sus propios artículos. Es una garantía especialmente protegida: el artículo 53.2 incluye expresamente la igualdad entre los derechos susceptibles de amparo."
   },
   {
     "id": "t01-p005",
@@ -120,8 +120,8 @@
       "96 horas"
     ],
     "correcta": 2,
-    "explicación": "El art. 17 CE, tal como recoge el tema, fija un máximo de 72 horas.",
-    "referencia": "I.1 · Sección 1ª, art. 17 CE"
+    "referencia": "I.1 · Sección 1ª, art. 17 CE",
+    "explicacion": "La detención preventiva debe durar solo el tiempo indispensable para esclarecer los hechos y, ordinariamente, nunca más de 72 horas, según el artículo 17.2 CE. Dentro de ese límite el detenido debe quedar libre o pasar a disposición judicial. Las 72 horas son un máximo, no una duración que la policía pueda agotar automáticamente en toda detención."
   },
   {
     "id": "t01-p006",
@@ -134,8 +134,8 @@
       "Art. 21 CE"
     ],
     "correcta": 2,
-    "explicación": "El tema sitúa en el art. 20 CE las libertades de expresión e información.",
-    "referencia": "I.1 · Sección 1ª, art. 20 CE"
+    "referencia": "I.1 · Sección 1ª, art. 20 CE",
+    "explicacion": "El artículo 20 CE reúne libertades relacionadas con comunicar y crear: expresión, producción literaria, artística, científica y técnica, cátedra e información veraz. El artículo 18 protege intimidad y otros ámbitos privados, el 19 residencia y circulación, y el 21 reunión. No debe confundirse expresar opiniones con informar sobre hechos, donde la Constitución exige veracidad."
   },
   {
     "id": "t01-p007",
@@ -148,8 +148,8 @@
       "El Ministerio Fiscal"
     ],
     "correcta": 1,
-    "explicación": "El tema define al Defensor del Pueblo como alto comisionado de las Cortes Generales para la defensa de los derechos del Título I.",
-    "referencia": "I.1 · 3.2 El Defensor del Pueblo"
+    "referencia": "I.1 · 3.2 El Defensor del Pueblo",
+    "explicacion": "El Defensor del Pueblo es el alto comisionado de las Cortes Generales para defender los derechos del Título I y supervisar la Administración, conforme al artículo 54 CE. No es un tribunal ni puede anular por sí mismo una sentencia. El Tribunal Constitucional resuelve recursos constitucionales; el CGPJ y el Ministerio Fiscal tienen funciones distintas."
   },
   {
     "id": "t01-p008",
@@ -162,8 +162,8 @@
       "La tutela judicial efectiva en su contenido esencial"
     ],
     "correcta": 1,
-    "explicación": "El tema lista entre los derechos suspendibles en esos estados los previstos en el art. 20.1.a) y d).",
-    "referencia": "I.1 · 4.1 Suspensión general"
+    "referencia": "I.1 · 4.1 Suspensión general",
+    "explicacion": "El artículo 55.1 CE permite suspender, al declararse excepción o sitio, determinadas libertades del artículo 20.1.a y d: expresión e información. La suspensión no afecta indistintamente a todos los derechos fundamentales. Vida, libertad ideológica y tutela judicial efectiva no figuran en esa lista, por lo que no pueden darse por suspendidas por el solo hecho de declarar esos estados."
   },
   {
     "id": "t01-p009",
@@ -176,8 +176,8 @@
       "Los de los arts. 24 y 25 CE"
     ],
     "correcta": 1,
-    "explicación": "El temario indica que la suspensión individual por terrorismo puede afectar al art. 17.2 y a los apartados 18.2 y 18.3.",
-    "referencia": "I.1 · 4.2 Suspensión individual"
+    "referencia": "I.1 · 4.2 Suspensión individual",
+    "explicacion": "El artículo 55.2 CE permite una suspensión individual limitada a la duración de la detención del artículo 17.2, la inviolabilidad del domicilio del 18.2 y el secreto de las comunicaciones del 18.3. Debe establecerse por ley orgánica para investigaciones relacionadas con bandas armadas o terrorismo, con intervención judicial y control parlamentario. No habilita a suspender cualquier derecho de un investigado."
   },
   {
     "id": "t01-p010",
@@ -190,8 +190,8 @@
       "La reforma por ley ordinaria sin referéndum"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que para esas materias se aplica el procedimiento agravado del art. 168 CE.",
-    "referencia": "I.1 · 1.3 Estructura / 3.4 Suspensión y reforma"
+    "referencia": "I.1 · 1.3 Estructura / 3.4 Suspensión y reforma",
+    "explicacion": "El artículo 168 CE impone la reforma agravada para una revisión total o que afecte al Título Preliminar, la sección primera del capítulo II del Título I o la Corona del Título II. Exige dos tercios de cada Cámara, disolución, nuevas Cámaras y referéndum final obligatorio. No puede sustituirse por un decreto-ley ni por una ley ordinaria."
   },
   {
     "id": "t01-p011",
@@ -204,8 +204,8 @@
       "Qué se aplican solo a los extranjeros"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge que la dignidad de la persona y los derechos inviolables son fundamento del orden político y de la paz social.",
-    "referencia": "I.1 · 2.1 Artículo 10 CE"
+    "referencia": "I.1 · 2.1 Artículo 10 CE",
+    "explicacion": "El artículo 10.1 CE sitúa la dignidad, los derechos inviolables, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos en la base del orden político y de la paz social. No los presenta como una concesión del legislador. Por eso resulta incorrecto limitar su alcance solo a leyes orgánicas, legisladores o personas de una nacionalidad determinada."
   },
   {
     "id": "t01-p012",
@@ -218,8 +218,8 @@
       "25 años"
     ],
     "correcta": 1,
-    "explicación": "El temario indica que la mayoría de edad se alcanza a los 18 años.",
-    "referencia": "I.1 · 2.2 Capítulo I — Españoles y extranjeros"
+    "referencia": "I.1 · 2.2 Capítulo I — Españoles y extranjeros",
+    "explicacion": "El artículo 12 CE fija la mayoría de edad de los españoles en los 18 años. Las edades de 16, 21 o 25 no son el umbral constitucional de mayoría de edad. Alcanzarla tampoco significa que desaparezcan los requisitos específicos que una ley pueda exigir para determinados cargos o actividades: la pregunta se refiere al criterio general de la Constitución."
   },
   {
     "id": "t01-p013",
@@ -232,8 +232,8 @@
       "La libertad de residencia y circulación"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa en el art. 15 CE el derecho a la vida y la prohibición de la pena de muerte, salvo en tiempo de guerra.",
-    "referencia": "I.1 · Sección 1ª, art. 15 CE"
+    "referencia": "I.1 · Sección 1ª, art. 15 CE",
+    "explicacion": "El artículo 15 CE protege la vida y la integridad física y moral y prohíbe la tortura y los tratos inhumanos o degradantes. Su texto menciona una excepción militar a la abolición de la pena de muerte, pero la Ley Orgánica 11/1995 eliminó también esa posibilidad para tiempos de guerra. No debe confundirse el tenor constitucional con una pena actualmente aplicable."
   },
   {
     "id": "t01-p014",
@@ -246,8 +246,8 @@
       "Solo pueden celebrarse por la noche"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que no necesitan autorización previa, aunque sí comunicación previa a la autoridad.",
-    "referencia": "I.1 · Sección 1ª, art. 21 CE"
+    "referencia": "I.1 · Sección 1ª, art. 21 CE",
+    "explicacion": "El artículo 21 CE reconoce la reunión pacífica y sin armas sin autorización previa. Las reuniones en lugares de tránsito público y las manifestaciones sí deben comunicarse previamente a la autoridad, que solo puede prohibirlas por razones fundadas de alteración del orden público con peligro para personas o bienes. Comunicar no equivale a pedir un permiso discrecional."
   },
   {
     "id": "t01-p015",
@@ -260,8 +260,8 @@
       "Tienen la misma protección jurisdiccional que los derechos de la Sección 1.ª del Capítulo II"
     ],
     "correcta": 1,
-    "explicación": "El art. 53.3 CE atribuye a los principios rectores una función de orientación e interpretación, y condiciona su alegación a las leyes que los desarrollen.",
-    "referencia": "Constitución Española · art. 53.3"
+    "referencia": "Constitución Española · art. 53.3",
+    "explicacion": "Los principios rectores del capítulo III orientan las leyes, la práctica judicial y la actuación pública, conforme al artículo 53.3 CE. Su alegación judicial depende de las leyes que los desarrollan. No tienen por sí solos el mismo acceso al amparo que los derechos del artículo 14 y de la sección primera, ni vinculan únicamente al legislador estatal."
   },
   {
     "id": "t01-p016",
@@ -274,8 +274,8 @@
       "La producción y creación literaria, artística, científica y técnica"
     ],
     "correcta": 1,
-    "explicación": "El tema incluye entre los derechos suspendibles del art. 55.1 CE la libertad de información del art. 20.1.d).",
-    "referencia": "I.1 · 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio"
+    "referencia": "I.1 · 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio",
+    "explicacion": "La libertad de comunicar o recibir información veraz del artículo 20.1.d CE aparece expresamente en la lista de derechos suspendibles del artículo 55.1 para excepción o sitio. La creación literaria y científica del artículo 20.1.b no aparece en esa lista. Tampoco deben confundirse la negociación colectiva del 37.1 y las medidas de conflicto colectivo del 37.2, que sí se incluyen."
   },
   {
     "id": "t01-p017",
@@ -288,8 +288,8 @@
       "Pueden suspenderse en el estado de excepción en los mismos términos que los derechos fundamentales"
     ],
     "correcta": 1,
-    "explicación": "El tema subraya que los principios rectores no son directamente exigibles como derechos subjetivos y solo pueden alegarse conforme a sus leyes de desarrollo.",
-    "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica"
+    "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica",
+    "explicacion": "Según el artículo 53.3 CE, los principios rectores solo pueden invocarse ante la jurisdicción ordinaria conforme a sus leyes de desarrollo. También informan la legislación y la actuación de todos los poderes públicos. No equivalen a derechos directamente tutelados mediante amparo ni forman una categoría automáticamente suspendible en un estado de excepción."
   },
   {
     "id": "burgos-i01-hard-01",
@@ -302,8 +302,8 @@
       "La objeción de conciencia del art. 30 CE"
     ],
     "correcta": 0,
-    "explicación": "El recurso de amparo protege el art. 14, los derechos de la Sección 1ª del Capítulo II y la objeción de conciencia del art. 30. La propiedad privada pertenece a la Sección 2ª.",
-    "referencia": "Tema I.1, Derechos fundamentales: garantía y suspensión"
+    "referencia": "Tema I.1, Derechos fundamentales: garantía y suspensión",
+    "explicacion": "El amparo del artículo 53.2 CE comprende el artículo 14, los derechos de la sección primera del capítulo II del Título I y la objeción de conciencia del artículo 30.2. La propiedad privada está en el artículo 33, dentro de la sección segunda. Cuenta con protección constitucional y judicial, pero no con ese recurso específico por sí misma."
   },
   {
     "id": "burgos-i01-hard-02",
@@ -316,8 +316,8 @@
       "El Preámbulo tiene eficacia articulada como los demás títulos"
     ],
     "correcta": 0,
-    "explicación": "El Título Preliminar abarca los artículos 1 a 9. El Título I comprende los artículos 10 a 55, el Título IX regula el Tribunal Constitucional y la reforma está en el Título X.",
-    "referencia": "Tema I.1, Estructura de la Constitución"
+    "referencia": "Tema I.1, Estructura de la Constitución",
+    "explicacion": "El Título Preliminar comprende los artículos 1 a 9 y el Título I los artículos 10 a 55. El Tribunal Constitucional ocupa el Título IX y la reforma el X. El Preámbulo ayuda a interpretar la Constitución, pero no es una sucesión de artículos equiparable a sus títulos; mezclarlo con el articulado produce un recuento incorrecto."
   },
   {
     "id": "burgos-i01-hard-03",
@@ -330,8 +330,8 @@
       "El derecho de reunión"
     ],
     "correcta": 0,
-    "explicación": "El art. 55.1 permite suspender determinados derechos en excepción o sitio, pero no incluye la tutela judicial efectiva.",
-    "referencia": "Tema I.1, Suspensión de derechos"
+    "referencia": "Tema I.1, Suspensión de derechos",
+    "explicacion": "La tutela judicial efectiva del artículo 24 CE no figura entre los derechos suspendibles que enumera el artículo 55.1 para excepción o sitio. En cambio, sí se incluyen la inviolabilidad del domicilio, la circulación y la reunión. La suspensión constitucional es una lista delimitada: una situación excepcional no permite dejar sin protección judicial a las personas de forma general."
   },
   {
     "id": "burgos-i01-hard-04",
@@ -344,8 +344,8 @@
       "Soberanía nacional"
     ],
     "correcta": 0,
-    "explicación": "La interdicción de la arbitrariedad impide actuaciones públicas caprichosas o carentes de justificación racional.",
-    "referencia": "Tema I.1, Principios constitucionales"
+    "referencia": "Tema I.1, Principios constitucionales",
+    "explicacion": "La interdicción de la arbitrariedad del artículo 9.3 CE exige que el ejercicio del poder público tenga una justificación racional y no dependa del capricho. No equivale a prohibir toda discrecionalidad: las decisiones discrecionales también deben motivarse y respetar la ley. El mismo artículo limita ciertas retroactividades, pero no establece una irretroactividad absoluta de todas las normas."
   },
   {
     "id": "estado2026-i01-01",
@@ -358,11 +358,11 @@
       "Queda sustituido por informe del Tribunal Constitucional"
     ],
     "correcta": 0,
-    "explicación": "En la reforma ordinaria del art. 167 CE el referéndum no es automático: procede si lo solicita una décima parte de los miembros de cualquiera de las Cámaras.",
     "referencia": "Tema I.1, reforma constitucional ordinaria",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "En la reforma ordinaria, el artículo 167.3 CE permite pedir referéndum a una décima parte de los miembros de cualquiera de las Cámaras dentro de los quince días siguientes a la aprobación. Sin esa solicitud no es obligatorio. La obligatoriedad del referéndum final pertenece al procedimiento agravado del artículo 168, no a toda reforma constitucional."
   },
   {
     "id": "estado2026-i01-02",
@@ -375,11 +375,11 @@
       "Las disposiciones transitorias"
     ],
     "correcta": 0,
-    "explicación": "El art. 168 CE se aplica, entre otros supuestos, a revisiones que afecten a la Sección 1.ª del Capítulo II del Título I.",
     "referencia": "Tema I.1, reforma constitucional agravada",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La sección primera del capítulo II del Título I, artículos 15 a 29, es uno de los bloques especialmente protegidos por el artículo 168 CE. Revisarla exige el procedimiento agravado, igual que revisar el Título Preliminar o el II. Los principios rectores del capítulo III no están incluidos por ese solo motivo: no todo el Título I exige esa vía."
   },
   {
     "id": "t01-p027",
@@ -392,8 +392,8 @@
       "La responsabilidad de los poderes públicos"
     ],
     "correcta": 2,
-    "explicación": "El artículo 9.3 garantiza, entre otros, la legalidad, la jerarquía normativa, la publicidad de las normas, la irretroactividad en los términos constitucionales, la seguridad jurídica, la responsabilidad y la interdicción de la arbitrariedad. La solidaridad entre comunidades autónomas se recoge en el artículo 2.",
-    "referencia": "I.1 · Artículo 9.3 CE"
+    "referencia": "I.1 · Artículo 9.3 CE",
+    "explicacion": "El artículo 9.3 CE reúne garantías como legalidad, jerarquía normativa, publicidad, seguridad jurídica, responsabilidad e interdicción de la arbitrariedad. La solidaridad entre nacionalidades y regiones se reconoce en el artículo 2 y se desarrolla en la organización territorial. Aunque sea un principio constitucional, no pertenece a la enumeración concreta que pregunta este artículo."
   },
   {
     "id": "t01-p028",
@@ -406,8 +406,8 @@
       "Suspensión automática durante los estados de excepción"
     ],
     "correcta": 1,
-    "explicación": "El artículo 53.3 atribuye a los principios rectores una función informadora y condiciona su alegación a las leyes que los desarrollen; no los incluye en el recurso de amparo.",
-    "referencia": "I.1 · Garantías del artículo 53 CE"
+    "referencia": "I.1 · Garantías del artículo 53 CE",
+    "explicacion": "El artículo 53.3 CE asigna a los principios rectores una función orientadora para leyes, jueces y poderes públicos, y condiciona su alegación a sus leyes de desarrollo. No los incorpora al amparo directo. La tutela preferente y sumaria y el amparo se refieren a otros derechos en el artículo 53.2: conviene separar los distintos niveles de garantía."
   },
   {
     "id": "burgos-i01-deep-01",
@@ -420,8 +420,8 @@
       "La libertad de circulación del artículo 19 CE"
     ],
     "correcta": 2,
-    "explicación": "El artículo 55.1 enumera, entre otros, los artículos 19, 21, 28.2 y 37.2, pero no incluye el artículo 24.",
-    "referencia": "Tema I.1 · Artículo 55.1 CE · suspensión general"
+    "referencia": "Tema I.1 · Artículo 55.1 CE · suspensión general",
+    "explicacion": "La lista del artículo 55.1 CE permite suspender, en los términos constitucionales, reunión, huelga y circulación durante excepción o sitio, pero no la tutela judicial efectiva del artículo 24. No se trata de una autorización para suspender todos los derechos del Título I. En estas preguntas debe comprobarse cada artículo concreto, no solo si parece relacionado con una emergencia."
   },
   {
     "id": "burgos-i01-deep-02",
@@ -434,8 +434,8 @@
       "Reglamento parlamentario"
     ],
     "correcta": 1,
-    "explicación": "El artículo 81 CE reserva el desarrollo de los derechos fundamentales y libertades públicas a la ley orgánica, cuya aprobación exige mayoría absoluta del Congreso en una votación final sobre el conjunto.",
-    "referencia": "Tema I.1 · Artículo 81 CE · garantía normativa"
+    "referencia": "Tema I.1 · Artículo 81 CE · garantía normativa",
+    "explicacion": "El artículo 81 CE reserva a ley orgánica el desarrollo de los derechos fundamentales y libertades públicas de la sección primera. Su aprobación, modificación o derogación exige mayoría absoluta del Congreso en una votación final sobre el conjunto. No basta la aprobación del Senado y un decreto-ley no puede reemplazar esa reserva material y ese procedimiento."
   },
   {
     "id": "burgos-i01-deep-03",
@@ -448,8 +448,8 @@
       "Solo pueden celebrarse si las convoca una asociación inscrita"
     ],
     "correcta": 1,
-    "explicación": "El ejercicio de este derecho no necesita autorización previa; cuando se trata de reuniones en lugares de tránsito público o manifestaciones, existe comunicación previa a la autoridad.",
-    "referencia": "Tema I.1 · Artículo 21 CE · reunión y manifestación"
+    "referencia": "Tema I.1 · Artículo 21 CE · reunión y manifestación",
+    "explicacion": "Las reuniones pacíficas y sin armas no necesitan autorización previa, según el artículo 21 CE. Para manifestaciones y reuniones en vías públicas sí se exige comunicación a la autoridad, que puede prohibirlas solo bajo los supuestos constitucionales de peligro para personas o bienes. La inscripción de una asociación no es un requisito general para ejercer este derecho."
   },
   {
     "id": "burgos-i01-deep-04",
@@ -462,8 +462,8 @@
       "Los derechos de los artículos 30 a 38 y los principios rectores"
     ],
     "correcta": 1,
-    "explicación": "El artículo 53.2 CE delimita el amparo al artículo 14, a los derechos y libertades de la sección primera del capítulo II y a la objeción de conciencia del artículo 30.2.",
-    "referencia": "Tema I.1 · Artículo 53.2 CE · recurso de amparo"
+    "referencia": "Tema I.1 · Artículo 53.2 CE · recurso de amparo",
+    "explicacion": "El artículo 53.2 CE protege mediante amparo la igualdad del artículo 14, los derechos de los artículos 15 a 29 y la objeción de conciencia del 30.2. No extiende esta vía a todo el Título I. Los derechos de la sección segunda y los principios rectores tienen otras garantías, por lo que «todos los derechos constitucionales» sería una respuesta excesiva."
   },
   {
     "id": "burgos-i01-deep-05",
@@ -476,8 +476,8 @@
       "El artículo 14 solo vincula a los tribunales y no a la Administración"
     ],
     "correcta": 1,
-    "explicación": "El artículo 9.2 impone a los poderes públicos una actuación para hacer reales la libertad y la igualdad; el artículo 14 reconoce la igualdad ante la ley y prohíbe discriminaciones.",
-    "referencia": "Tema I.1 · artículos 9.2 y 14 CE · igualdad"
+    "referencia": "Tema I.1 · artículos 9.2 y 14 CE · igualdad",
+    "explicacion": "El artículo 14 CE proclama la igualdad ante la ley y prohíbe discriminaciones. El artículo 9.2 añade un deber de actuación: promover condiciones para que libertad e igualdad sean reales y remover los obstáculos que lo impidan. El primero protege frente al trato discriminatorio; el segundo impulsa medidas para que la igualdad no quede solo en una declaración formal."
   },
   {
     "id": "burgos-i01-deep-06",
@@ -490,8 +490,8 @@
       "Los artículos 24, 25 y 26 CE"
     ],
     "correcta": 0,
-    "explicación": "El artículo 55.2 se refiere a los apartados 2 del artículo 17 y 2 y 3 del artículo 18, con intervención judicial y control parlamentario.",
-    "referencia": "Tema I.1 · Artículo 55.2 CE · suspensión individual"
+    "referencia": "Tema I.1 · Artículo 55.2 CE · suspensión individual",
+    "explicacion": "El artículo 55.2 CE limita la suspensión individual a los artículos 17.2, 18.2 y 18.3 en investigaciones relacionadas con bandas armadas o terrorismo. La ley orgánica debe asegurar intervención judicial y control parlamentario. No permite suspender en bloque igualdad, vida, libertad ideológica o tutela judicial: confundirlo con la suspensión general del artículo 55.1 amplía indebidamente su alcance."
   },
   {
     "id": "burgos-i01-deep-07",
@@ -504,8 +504,8 @@
       "Dos tercios de cada Cámara y referéndum obligatorio"
     ],
     "correcta": 2,
-    "explicación": "La regla general del artículo 167.1 CE es la aprobación por mayoría de tres quintos de cada Cámara. El referéndum no es obligatorio en este procedimiento.",
-    "referencia": "Tema I.1 · Artículo 167 CE · reforma ordinaria"
+    "referencia": "Tema I.1 · Artículo 167 CE · reforma ordinaria",
+    "explicacion": "La regla inicial del artículo 167.1 CE exige tres quintos tanto del Congreso como del Senado. Mayoría simple y absoluta no cumplen esa regla general. Los dos tercios y el referéndum obligatorio se asocian al artículo 168; dentro del 167 existe además una solución excepcional si hay desacuerdo y se cumplen requisitos específicos entre ambas Cámaras."
   },
   {
     "id": "burgos-i01-deep-08",
@@ -518,7 +518,7 @@
       "Cinco días"
     ],
     "correcta": 2,
-    "explicación": "La detención preventiva no puede durar más del tiempo estrictamente necesario y, en todo caso, el plazo máximo ordinario es de 72 horas.",
-    "referencia": "Tema I.1 · Artículo 17 CE · libertad y seguridad"
+    "referencia": "Tema I.1 · Artículo 17 CE · libertad y seguridad",
+    "explicacion": "El artículo 17.2 CE impone dos límites simultáneos: solo el tiempo estrictamente necesario para investigar y, ordinariamente, un máximo de 72 horas. Al finalizar, procede libertad o puesta a disposición judicial. No basta con afirmar que toda detención puede durar tres días: si las diligencias terminan antes, tampoco puede mantenerse sin necesidad."
   }
 ]

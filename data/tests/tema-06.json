@@ -11,11 +11,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 24",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 16.2.c LBRL incluye el domicilio habitual y su referencia catastral o código equivalente cuando el domicilio cuente con él. Estado civil y situación laboral no integran la lista obligatoria. La referencia identifica la ubicación del domicilio, pero empadronarse no acredita ser propietario ni convierte el padrón en un registro de bienes inmuebles."
   },
   {
     "id": "pdf-2023-burgos-q12",
@@ -29,11 +29,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 12",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 140 CE garantiza directamente la autonomía municipal y reconoce personalidad jurídica plena a los municipios. La ley desarrolla su organización y competencias, pero la garantía no depende de que decida concedérsela caso por caso. Autonomía significa gestionar intereses propios dentro del ordenamiento, no actuar al margen de Constitución y leyes."
   },
   {
     "id": "t09-p002",
@@ -46,8 +46,8 @@
       "Art. 142 CE"
     ],
     "correcta": 1,
-    "explicación": "El tema atribuye al art. 140 CE la garantía constitucional de la autonomía municipal.",
-    "referencia": "I.6 · 1.1 Fundamento constitucional de la autonomía local"
+    "referencia": "I.6 · 1.1 Fundamento constitucional de la autonomía local",
+    "explicacion": "El artículo 140 CE es la garantía específica de la autonomía municipal. El 137 formula la autonomía territorial general, el 141 se refiere a provincias y el 142 a suficiencia de haciendas locales. Todos se relacionan, pero la pregunta pide el artículo que protege directamente al municipio y su gobierno por el ayuntamiento."
   },
   {
     "id": "t09-p004",
@@ -60,8 +60,8 @@
       "El Cabildo Insular"
     ],
     "correcta": 0,
-    "explicación": "El temario identifica al Ayuntamiento como órgano de gobierno y administración del municipio.",
-    "referencia": "I.6 · 2.2 El Municipio"
+    "referencia": "I.6 · 2.2 El Municipio",
+    "explicacion": "El gobierno y administración municipal corresponde al ayuntamiento, integrado por alcalde y concejales, salvo el régimen legal de concejo abierto, según el artículo 140 CE y el 19 LBRL. La Diputación gobierna la provincia y el cabildo la isla. La Junta Vecinal pertenece a una entidad local menor y no reemplaza al ayuntamiento como gobierno del municipio."
   },
   {
     "id": "t09-p005",
@@ -74,8 +74,8 @@
       "un libro de actas del Pleno"
     ],
     "correcta": 0,
-    "explicación": "El tema define el padrón municipal como el registro administrativo donde constan los vecinos del municipio.",
-    "referencia": "I.6 · 2.2 c) La población: el padrón municipal"
+    "referencia": "I.6 · 2.2 c) La población: el padrón municipal",
+    "explicacion": "El padrón es un registro administrativo de vecinos, conforme al artículo 16.1 LBRL. Sus datos prueban residencia municipal y domicilio habitual. Se relaciona con la elaboración del censo electoral, pero no es exclusivamente electoral ni solo se actualiza cuando hay elecciones; tampoco es un registro de funcionarios o de acuerdos del Pleno."
   },
   {
     "id": "t09-p010",
@@ -88,8 +88,8 @@
       "Protección civil"
     ],
     "correcta": 2,
-    "explicación": "El tema incluye el alumbrado público entre los servicios mínimos obligatorios para todos los municipios.",
-    "referencia": "I.6 · 4.2 Servicios mínimos obligatorios (art. 26 LBRL)"
+    "referencia": "I.6 · 4.2 Servicios mínimos obligatorios (art. 26 LBRL)",
+    "explicacion": "El alumbrado público es servicio mínimo obligatorio en todos los municipios por el artículo 26.1.a LBRL. Biblioteca se añade al superar 5.000 habitantes, protección civil al superar 20.000 y transporte colectivo urbano al superar 50.000. Distinguir los tramos evita elegir un servicio municipal verdadero que no sea obligatorio para todos."
   },
   {
     "id": "t09-p013",
@@ -102,8 +102,8 @@
       "Organismos autónomos creados por el Estado para coordinar servicios municipales"
     ],
     "correcta": 0,
-    "explicación": "La mancomunidad es una asociación voluntaria de municipios para prestar conjuntamente obras, servicios o actividades de su competencia.",
-    "referencia": "Ley 7/1985 · art. 44"
+    "referencia": "Ley 7/1985 · art. 44",
+    "explicacion": "Las mancomunidades permiten a municipios asociarse voluntariamente para realizar obras y servicios de su competencia, según el artículo 44 LBRL. Tienen su propia configuración estatutaria y no equivalen a una provincia necesaria. Tampoco son simples órganos internos de un único ayuntamiento ni organismos creados por el Estado para dirigir todos los servicios locales."
   },
   {
     "id": "topup-06-01",
@@ -115,9 +115,9 @@
       "vecindad, nacionalidad y Parlamento"
     ],
     "correcta": 0,
-    "explicación": "El municipio se estructura sobre término municipal, población y organización.",
     "referencia": "I.6 · Concepto y elementos del municipio",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "El artículo 11.2 LBRL identifica territorio, población y organización como elementos del municipio. Territorio es el término municipal; población, el conjunto de vecinos; organización, la estructura de gobierno y administración. Provincias, parlamentos o nacionalidad no sustituyen estos elementos, aunque puedan relacionarse con el municipio en otros ámbitos."
   },
   {
     "id": "topup-06-09",
@@ -129,9 +129,9 @@
       "aprobación de ordenanzas"
     ],
     "correcta": 0,
-    "explicación": "El Instituto Nacional de Estadistica coordina los padrones municipales.",
     "referencia": "I.6 · Coordinación padronal",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "El artículo 17 LBRL asigna al INE coordinación de los padrones, comprobaciones e intercambio de información con los ayuntamientos. La gestión concreta de cada padrón sigue correspondiendo al municipio. Coordinar no significa recaudar tributos, imponer disciplina al personal municipal ni aprobar ordenanzas: son funciones administrativas de ámbitos diferentes."
   },
   {
     "id": "topup-06-10",
@@ -143,9 +143,9 @@
       "decreto-ley municipal"
     ],
     "correcta": 0,
-    "explicación": "La legislación local contempla fusión, incorporación, segregación y modificación de límites.",
     "referencia": "I.6 · Alteraciones del término municipal",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "Fusión y segregación son vías legales de alteración de términos municipales, sujetas a la normativa autonómica y a las garantías del artículo 13 LBRL. No se producen mediante un recurso de alzada o una moción de censura. Un municipio tampoco puede aprobar un decreto-ley propio para modificar su territorio sin el procedimiento competente."
   },
   {
     "id": "topup-06-11",
@@ -157,9 +157,9 @@
       "que sea capital de comunidad autónoma"
     ],
     "correcta": 0,
-    "explicación": "La viabilidad del nuevo municipio exige recursos suficientes y justificación de interés público.",
     "referencia": "I.6 · Creación de municipios",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "El artículo 13.2 LBRL exige que el municipio resultante disponga de recursos suficientes y sostenibilidad financiera, sin reducir la calidad de los servicios anteriores. Se añaden requisitos de población y diferenciación territorial. No exige ser capital autonómica ni una ley orgánica del Congreso para toda creación: el procedimiento municipal corresponde a la legislación de régimen local aplicable."
   },
   {
     "id": "topup-06-15",
@@ -171,9 +171,9 @@
       "tratados y reglamentos europeos"
     ],
     "correcta": 0,
-    "explicación": "Los tres elementos clasicos del municipio son territorio, población y organización.",
     "referencia": "I.6 · Elementos del municipio",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "Territorio, población y organización constituyen los tres elementos municipales del artículo 11.2 LBRL. La organización comprende los órganos que gobiernan y administran al municipio. Tratados europeos, comarcas, cabildos o cámaras parlamentarias son instituciones y normas externas, no elementos que sustituyan a población y territorio en esa definición."
   },
   {
     "id": "refine-06-01",
@@ -186,8 +186,8 @@
     ],
     "correcta": 0,
     "referencia": "I.6 · Población y empadronamiento",
-    "explicación": "La condición de vecino se anuda a la inscripción en el padrón municipal.",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "La condición jurídica de vecino se adquiere en el momento de la inscripción padronal, conforme al artículo 15 LBRL. Pagar IBI o habitar de hecho una vivienda no sustituye la inscripción exigida, aunque la residencia habitual obligue a empadronarse. El censo electoral tiene finalidad distinta y no es el registro constitutivo de vecindad municipal."
   },
   {
     "id": "refine-06-02",
@@ -200,8 +200,8 @@
     ],
     "correcta": 0,
     "referencia": "I.6 · Padron municipal",
-    "explicación": "La eficacia probatoria del padrón se refiere a residencia y domicilio habitual, no a otros extremos ajenos.",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "El artículo 16.1 LBRL da a los datos padronales valor de prueba de residencia y domicilio habitual. No prueban dominio de la vivienda ni situación laboral. En extranjeros tampoco acreditan por sí solos residencia legal: deben separarse el dato de dónde vive una persona y las autorizaciones exigidas por la normativa de extranjería."
   },
   {
     "id": "refine-06-03",
@@ -214,8 +214,8 @@
     ],
     "correcta": 0,
     "referencia": "I.6 · Termino municipal",
-    "explicación": "Las modificaciones del término municipal exigen procedimiento y causa legalmente prevista.",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "Fusión, incorporación y segregación pueden alterar el término municipal dentro de los supuestos y procedimientos legales. El artículo 13 LBRL exige garantías y remite a la legislación autonómica. No basta un pacto verbal entre alcaldes ni una resolución del interventor, y una petición vecinal no modifica automáticamente los límites territoriales."
   },
   {
     "id": "refine-06-04",
@@ -228,8 +228,8 @@
     ],
     "correcta": 0,
     "referencia": "I.6 · Padron municipal",
-    "explicación": "La coordinación padronal corresponde al INE.",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "El ayuntamiento forma, mantiene, revisa y custodia su padrón, mientras el INE coordina los padrones municipales conforme al artículo 17 LBRL. La coordinación estatal busca evitar inconsistencias y obtener cifras fiables. Junta Electoral, CGPJ y Tribunal de Cuentas tienen otras competencias y no sustituyen al INE en esa función padronal."
   },
   {
     "id": "refine-06-05",
@@ -242,8 +242,8 @@
     ],
     "correcta": 0,
     "referencia": "I.6 · Empadronamiento de personas extranjeras",
-    "explicación": "El empadronamiento tiene efectos administrativos propios, pero no regulariza por sí mismo la situación de extranjeria.",
-    "tema": 6
+    "tema": 6,
+    "explicacion": "El artículo 18.2 LBRL aclara que empadronar a una persona extranjera no demuestra su residencia legal ni le concede derechos ajenos a la legislación vigente. La inscripción acredita residencia municipal, no regulariza extranjería. No está reservada únicamente a ciudadanos de la Unión ni exige una autorización judicial general para registrar el domicilio habitual."
   },
   {
     "id": "burgos-i06-hard-01",
@@ -256,8 +256,8 @@
       "La organización"
     ],
     "correcta": 0,
-    "explicación": "Los elementos del municipio son territorio, población y organización; la comarca es otra posible entidad local.",
-    "referencia": "Tema I.6, Municipio: concepto y elementos"
+    "referencia": "Tema I.6, Municipio: concepto y elementos",
+    "explicacion": "La comarca no es uno de los tres elementos del municipio: estos son territorio, población y organización, según el artículo 11.2 LBRL. Una comarca puede agrupar municipios bajo su propia regulación, pero no forma parte de la definición interna de cada uno. La pregunta distingue una entidad territorial de los componentes de la entidad municipal."
   },
   {
     "id": "burgos-i06-hard-02",
@@ -270,8 +270,8 @@
       "Residencia ocasional durante una semana"
     ],
     "correcta": 0,
-    "explicación": "La inscripción en el padrón municipal determina la condición de vecino del municipio.",
-    "referencia": "Tema I.6, Población y empadronamiento"
+    "referencia": "Tema I.6, Población y empadronamiento",
+    "explicacion": "El artículo 15 LBRL sitúa la adquisición de la condición de vecino en la inscripción en el padrón. Nacer en una provincia, pagar un impuesto o alojarse ocasionalmente no producen por sí solos esa condición en cualquier municipio. La residencia habitual determina dónde debe inscribirse la persona, no una preferencia libre sin conexión con su domicilio real."
   },
   {
     "id": "burgos-i06-hard-03",
@@ -284,8 +284,8 @@
       "Es una autorización administrativa para residir en España"
     ],
     "correcta": 0,
-    "explicación": "El padrón municipal es el registro administrativo en el que constan los vecinos del municipio.",
-    "referencia": "Tema I.6, Empadronamiento"
+    "referencia": "Tema I.6, Empadronamiento",
+    "explicacion": "El padrón registra administrativamente a los vecinos del municipio, conforme al artículo 16 LBRL. No se limita a electores o propietarios y debe mantenerse actualizado. También incluye a personas que no votan y a extranjeros, pero su inscripción no equivale a una autorización de residencia en España ni a un registro exclusivamente tributario."
   },
   {
     "id": "burgos-i06-hard-04",
@@ -298,8 +298,8 @@
       "A las Cortes Generales"
     ],
     "correcta": 0,
-    "explicación": "La gestión y formación del padrón corresponde al Ayuntamiento, bajo la coordinación del INE en los términos legales.",
-    "referencia": "Tema I.6, Padrón municipal"
+    "referencia": "Tema I.6, Padrón municipal",
+    "explicacion": "El artículo 17.1 LBRL atribuye al ayuntamiento formación, mantenimiento, revisión y custodia de su padrón. La coordinación del INE no convierte la gestión en competencia exclusiva de la Diputación o de las Cortes. Un tribunal económico-administrativo revisa determinados actos de ingresos públicos: no es el órgano gestor de la población municipal."
   },
   {
     "id": "estado2026-i06-01",
@@ -312,11 +312,11 @@
       "Es la agrupación de provincias limítrofes"
     ],
     "correcta": 0,
-    "explicación": "El término municipal es el ámbito territorial en el que el Ayuntamiento ejerce sus competencias.",
     "referencia": "Tema I.6, término municipal",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El término municipal es el territorio donde el ayuntamiento ejerce competencias, según el artículo 12.1 LBRL. La población es otro elemento del municipio y la organización identifica sus órganos. No debe confundirse el espacio territorial con el conjunto de empadronados ni con una agrupación de provincias o un órgano ejecutivo."
   },
   {
     "id": "estado2026-i06-02",
@@ -329,11 +329,11 @@
       "Figurar como vecino en el padrón"
     ],
     "correcta": 0,
-    "explicación": "La propiedad de una vivienda no determina la vecindad administrativa; esta deriva de la inscripción padronal.",
     "referencia": "Tema I.6, población y empadronamiento",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Tener una vivienda en propiedad no convierte por sí solo a una persona en vecina: el artículo 15 LBRL exige inscripción padronal. Una segunda residencia o una inversión inmobiliaria pueden estar en un municipio distinto del domicilio habitual. Debe separarse titularidad patrimonial de vecindad, aunque ambas puedan producir obligaciones administrativas diferentes."
   },
   {
     "tema": 6,
@@ -347,10 +347,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 6",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Estado civil no aparece en la lista obligatoria del artículo 16.2 LBRL. Sí aparecen sexo, nacionalidad y certificado o título escolar o académico que se posea, entre otros datos. Que el padrón sirva para fines administrativos no autoriza a añadir cualquier dato personal como obligatorio: la lista legal delimita qué debe recoger."
   },
   {
     "id": "burgos-i06-deep-01",
@@ -363,8 +363,8 @@
       "5.000 habitantes"
     ],
     "correcta": 2,
-    "explicación": "La creación de un nuevo municipio exige un núcleo territorialmente diferenciado de al menos 4.000 habitantes, además de sostenibilidad financiera, recursos suficientes y mantenimiento de la calidad de los servicios.",
-    "referencia": "LBRL · artículo 13.2 · Creación de municipios"
+    "referencia": "LBRL · artículo 13.2 · Creación de municipios",
+    "explicacion": "El artículo 13.2 LBRL exige un núcleo territorialmente diferenciado de al menos 4.000 habitantes para crear un municipio. Además se requiere sostenibilidad financiera, recursos suficientes y no reducir la calidad de servicios. Cinco mil es una cifra de redacciones anteriores y de otros umbrales de servicios, no el mínimo de este precepto vigente."
   },
   {
     "id": "burgos-i06-deep-02",
@@ -377,8 +377,8 @@
       "Aprobación por decreto-ley municipal"
     ],
     "correcta": 0,
-    "explicación": "El artículo 13.1 exige, en todo caso, audiencia de los municipios interesados, dictamen del Consejo de Estado u órgano consultivo autonómico superior si existe e informe de la Administración que ejerza la tutela financiera.",
-    "referencia": "LBRL · artículo 13.1 · Alteración de términos"
+    "referencia": "LBRL · artículo 13.1 · Alteración de términos",
+    "explicacion": "El artículo 13.1 LBRL exige audiencia de municipios interesados, dictamen del Consejo de Estado o del órgano consultivo autonómico correspondiente e informe de tutela financiera. La legislación autonómica regula el procedimiento sin poder alterar límites provinciales. No se sustituye por un referéndum estatal obligatorio ni por una autorización del Tribunal de Cuentas."
   },
   {
     "id": "burgos-i06-deep-03",
@@ -391,8 +391,8 @@
       "Número de teléfono de contacto"
     ],
     "correcta": 3,
-    "explicación": "El teléfono y el correo electrónico, así como los datos de representación a efectos padronales, pueden aportarse voluntariamente. La nacionalidad, el nacimiento y el documento identificativo están entre los datos obligatorios del artículo 16.2 LBRL.",
-    "referencia": "LBRL · artículo 16.2 · Datos obligatorios y voluntarios"
+    "referencia": "LBRL · artículo 16.2 · Datos obligatorios y voluntarios",
+    "explicacion": "El artículo 16.2 LBRL permite aportar voluntariamente teléfono de contacto y correo electrónico, además de ciertos datos de representación. Nacionalidad, nacimiento y documento identificativo pertenecen a los datos obligatorios. La finalidad de facilitar comunicaciones no convierte el teléfono en requisito indispensable para obtener la inscripción padronal."
   },
   {
     "id": "burgos-i06-deep-04",
@@ -405,8 +405,8 @@
       "la cesión tenga exclusivamente una finalidad comercial"
     ],
     "correcta": 0,
-    "explicación": "El artículo 16.3 LBRL permite la cesión sin consentimiento cuando sea necesaria para las competencias de la Administración solicitante y en asuntos donde residencia o domicilio sean datos relevantes.",
-    "referencia": "LBRL · artículo 16.3 · Acceso y cesión"
+    "referencia": "LBRL · artículo 16.3 · Acceso y cesión",
+    "explicacion": "El artículo 16.3 LBRL permite ceder datos obligatorios a otra Administración sin consentimiento solo si son necesarios para sus competencias y residencia o domicilio resultan relevantes. No habilita usos comerciales ni acceso de cualquier particular. Los datos voluntarios cuentan con una restricción específica de cesión y no se equiparan a los obligatorios."
   },
   {
     "id": "burgos-i06-deep-05",
@@ -419,8 +419,8 @@
       "Es una comisión del Pleno que aprueba el presupuesto municipal"
     ],
     "correcta": 0,
-    "explicación": "El Consejo de Empadronamiento es un órgano colegiado de colaboración estatal-local, adscrito al Ministerio de Hacienda, con funciones específicas de coordinación y propuesta técnica.",
-    "referencia": "LBRL · artículo 17.4 · Consejo de Empadronamiento"
+    "referencia": "LBRL · artículo 17.4 · Consejo de Empadronamiento",
+    "explicacion": "El Consejo de Empadronamiento es un órgano colegiado de colaboración entre la AGE y las entidades locales, previsto en el artículo 17 LBRL. Interviene en discrepancias, cifras oficiales e instrucciones técnicas. No custodia directamente todos los padrones, no es un tribunal de justicia ni una comisión presupuestaria de cada ayuntamiento."
   },
   {
     "id": "burgos-i06-deep-06",
@@ -433,8 +433,8 @@
       "sustituye a la autorización administrativa de residencia"
     ],
     "correcta": 1,
-    "explicación": "El artículo 18.2 LBRL separa los efectos padronales de la residencia legal y de los derechos reconocidos por la legislación de extranjería.",
-    "referencia": "LBRL · artículo 18.2 · Personas extranjeras"
+    "referencia": "LBRL · artículo 18.2 · Personas extranjeras",
+    "explicacion": "Empadronar a una persona extranjera acredita su residencia municipal, pero no prueba su residencia legal en España, conforme al artículo 18.2 LBRL. Tampoco sustituye permisos administrativos ni concede derechos no previstos legalmente. Es un registro de población abierto a quienes residen habitualmente, no una vía de regularización reservada a nacionales de determinados países."
   },
   {
     "id": "burgos-i06-deep-07",
@@ -447,8 +447,8 @@
       "El recibo del impuesto sobre bienes inmuebles"
     ],
     "correcta": 0,
-    "explicación": "El artículo 16.1 LBRL atribuye ese carácter a las certificaciones que se expidan de los datos del padrón municipal.",
-    "referencia": "LBRL · artículo 16.1 · Certificaciones padronales"
+    "referencia": "LBRL · artículo 16.1 · Certificaciones padronales",
+    "explicacion": "Las certificaciones de datos padronales son documentos públicos y fehacientes para efectos administrativos, según el artículo 16.1 LBRL. Una captura de pantalla, un contrato privado o un recibo del IBI no tienen por sí solos ese valor de certificación. Pueden aportar información, pero no sustituyen el documento expedido por el órgano competente sobre el registro."
   },
   {
     "id": "burgos-i06-deep-08",
@@ -461,7 +461,7 @@
       "en el municipio que elija libremente, aunque no resida en él"
     ],
     "correcta": 1,
-    "explicación": "El artículo 15 LBRL establece una única inscripción: la del municipio en el que se habite durante más tiempo al año.",
-    "referencia": "LBRL · artículo 15 · Residencia habitual"
+    "referencia": "LBRL · artículo 15 · Residencia habitual",
+    "explicacion": "El artículo 15 LBRL obliga a quien vive en varios municipios a inscribirse solo en aquel donde habita durante más tiempo al año. No se permite multiplicar inscripciones por tener distintas viviendas. La cantidad de impuestos pagados o la preferencia personal no reemplazan ese criterio de residencia habitual y mayor permanencia."
   }
 ]

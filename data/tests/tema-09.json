@@ -11,11 +11,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 11",
-    "explicación": "El Estatuto de Autonomía de Castilla y León fue aprobado por la Ley Orgánica 4/1983.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El Estatuto de Autonomía de Castilla y León fue aprobado inicialmente por la Ley Orgánica 4/1983, de 25 de febrero. La Ley Orgánica 14/2007 reformó posteriormente su texto. La pregunta pide la aprobación originaria, por lo que no deben confundirse la fecha inicial y la del Estatuto reformado vigente."
   },
   {
     "id": "pdf-2025-burgos-q07",
@@ -29,11 +29,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 7",
-    "explicación": "La reforma estatutaria exige mayoría de dos tercios en las Cortes de Castilla y León y aprobación estatal mediante ley orgánica.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 91 del Estatuto exige la aprobación de la propuesta de reforma por dos tercios de las Cortes de Castilla y León y, posteriormente, por las Cortes Generales mediante ley orgánica. El Congreso recibe la propuesta, pero la aprobación estatal no se atribuye exclusivamente a él. Una mayoría absoluta autonómica no satisface el requisito."
   },
   {
     "id": "pdf-2025-burgos-q08",
@@ -47,11 +47,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 8",
-    "explicación": "Las instituciones básicas son las Cortes, el Presidente y la Junta de Castilla y León.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 19.1 enumera como instituciones básicas las Cortes, el Presidente de la Junta y la Junta de Castilla y León. La respuesta debe incluir las tres. El Procurador del Común es una institución propia de la Comunidad, pero no pertenece a esa categoría específica de instituciones básicas de autogobierno."
   },
   {
     "id": "t08-p001",
@@ -64,8 +64,8 @@
       "Ley Orgánica 3/1981"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que la reforma más importante y vigente es la operada por la Ley Orgánica 14/2007.",
-    "referencia": "I.9 · 1.1 Antecedentes y evolución"
+    "referencia": "I.9 · 1.1 Antecedentes y evolución",
+    "explicacion": "La Ley Orgánica 14/2007, de 30 de noviembre, aprobó la reforma que contiene el texto estatutario vigente de Castilla y León. La Ley Orgánica 4/1983 corresponde a su aprobación inicial. Una ley autonómica ordinaria no puede sustituir el Estatuto, cuya aprobación y reforma requieren el procedimiento y rango orgánico previstos constitucionalmente."
   },
   {
     "id": "t08-p002",
@@ -78,8 +78,8 @@
       "10"
     ],
     "correcta": 2,
-    "explicación": "El temario enumera nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora.",
-    "referencia": "I.9 · 1.3 Territorio (art. 2 EACyL)"
+    "referencia": "I.9 · 1.3 Territorio (art. 2 EACyL)",
+    "explicacion": "El artículo 2 del Estatuto integra el territorio de Castilla y León mediante nueve provincias: Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora. El número se obtiene de esa enumeración estatutaria. No deben añadirse provincias de otras comunidades ni confundirse las provincias con comarcas o municipios."
   },
   {
     "id": "t08-p003",
@@ -92,8 +92,8 @@
       "Valladolid"
     ],
     "correcta": 3,
-    "explicación": "La legislación autonómica de sedes sitúa en Valladolid las sedes de las instituciones básicas. El artículo 3 del Estatuto exige que la sede o sedes se fijen por ley de las Cortes aprobada por mayoría de dos tercios.",
-    "referencia": "I.9 · 1 Marco constitucional y datos de identificación · sede"
+    "referencia": "I.9 · 1 Marco constitucional y datos de identificación · sede",
+    "explicacion": "La Ley 13/1987 fija en Valladolid las sedes de las instituciones básicas: Cortes, Presidente de la Junta y Junta de Castilla y León. El artículo 3 del Estatuto remite la determinación de sedes a una ley autonómica. Esto no implica que todas las instituciones propias ni los órganos judiciales tengan necesariamente sede en Valladolid."
   },
   {
     "id": "t08-p004",
@@ -106,22 +106,22 @@
       "El Procurador del Común"
     ],
     "correcta": 3,
-    "explicación": "El artículo 19.2 enumera como instituciones propias, entre otras, el Procurador del Común. Las instituciones básicas son las Cortes, el Presidente y la Junta.",
-    "referencia": "I.9 · 2.1 Las instituciones de autogobierno (art. 19 EACyL)"
+    "referencia": "I.9 · 2.1 Las instituciones de autogobierno (art. 19 EACyL)",
+    "explicacion": "El artículo 19 diferencia instituciones básicas y propias. Cortes, Presidente y Junta son básicas; el Procurador del Común figura entre las propias junto con otros órganos autonómicos. Todas tienen relevancia institucional, pero la clasificación estatutaria es precisa y no permite incorporar al Procurador a la lista de las tres básicas."
   },
   {
     "id": "t08-p005",
     "tema": 9,
-    "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, las Cortes de Castilla y León se componen de:",
+    "pregunta": "Según el artículo 21.2 del Estatuto, ¿cómo se determina el número de Procuradores de las Cortes de Castilla y León?",
     "opciones": [
-      "80 a 84 procuradores",
+      "Tres Procuradores por provincia y uno más por cada 45.000 habitantes o fracción superior a 22.500",
       "61 a 83 procuradores",
       "81 a 101 procuradores",
       "100 a 125 procuradores"
     ],
     "correcta": 0,
-    "explicación": "La legislación electoral determina el número concreto dentro del marco estatutario de entre 80 y 84 Procuradores.",
-    "referencia": "I.9 · 4.1 Cortes de Castilla y León (art. 21 EACyL)"
+    "referencia": "I.9 · 4.1 Cortes de Castilla y León (art. 21 EACyL)",
+    "explicacion": "El artículo 21.2 del Estatuto asigna a cada provincia tres Procuradores iniciales y uno adicional por cada 45.000 habitantes o fracción superior a 22.500. La cifra total depende de esa distribución poblacional provincial. El Estatuto no fija un intervalo permanente de miembros ni una cantidad igual para todas las provincias."
   },
   {
     "id": "t08-p006",
@@ -134,13 +134,13 @@
       "Mayoría de dos tercios"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que en primera votación se requiere mayoría absoluta y en la segunda mayoría simple.",
-    "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León"
+    "referencia": "I.9 · 2.3 El Presidente de la Junta de Castilla y León",
+    "explicacion": "El artículo 26 del Estatuto exige mayoría absoluta de las Cortes para investir al Presidente de la Junta en primera votación. Si no la consigue, en la segunda basta mayoría simple. No deben confundirse ambas fases ni trasladar a la investidura los dos tercios exigidos para otras decisiones estatutarias."
   },
   {
     "id": "t08-p007",
     "tema": 9,
-    "pregunta": "Según el art. 42 EACyL, ¿dónde tiene su sede el Tribunal Superior de Justicia de Castilla y León?",
+    "pregunta": "¿En qué ciudad tiene su sede principal el Tribunal Superior de Justicia de Castilla y León?",
     "opciones": [
       "Valladolid",
       "Burgos",
@@ -148,8 +148,8 @@
       "Palencia"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que el TSJ de Castilla y León tiene su sede en Burgos.",
-    "referencia": "I.9 · 2.5 El Tribunal Superior de Justicia de Castilla y León (art. 42 EACyL)"
+    "referencia": "I.9 · 2.5 El Tribunal Superior de Justicia de Castilla y León (art. 42 EACyL)",
+    "explicacion": "La sede principal del Tribunal Superior de Justicia de Castilla y León se encuentra en Burgos. La existencia de salas también situadas en Valladolid no traslada esa sede principal ni la confunde con las sedes del gobierno autonómico. El artículo 40 del Estatuto regula el Tribunal; el 42 se refiere al Consejo de Justicia."
   },
   {
     "id": "t08-p008",
@@ -162,8 +162,8 @@
       "Reservada a las Diputaciones Provinciales"
     ],
     "correcta": 1,
-    "explicación": "El artículo 71 del Estatuto sitúa el régimen local entre las competencias de desarrollo legislativo y ejecución, en el marco de la legislación básica del Estado.",
-    "referencia": "I.9 · 5 Competencias (art. 71 EACyL)"
+    "referencia": "I.9 · 5 Competencias (art. 71 EACyL)",
+    "explicacion": "El artículo 71.1.1 del Estatuto incluye el régimen local entre las competencias de desarrollo legislativo y ejecución dentro del marco de la legislación básica estatal. La Comunidad puede desarrollar esas bases y ejecutarlas en su ámbito. No es una reserva exclusiva de las Diputaciones ni una competencia atribuida por delegación del Senado."
   },
   {
     "id": "t08-p009",
@@ -176,13 +176,13 @@
       "Mayoría de 2/3"
     ],
     "correcta": 1,
-    "explicación": "La Ley 2/1994 exige mayoría de tres quintas partes; si no se alcanza, se repite el procedimiento de elección.",
-    "referencia": "I.9 · 4.4 Instituciones propias · Ley 2/1994"
+    "referencia": "I.9 · 4.4 Instituciones propias · Ley 2/1994",
+    "explicacion": "El artículo 6.4 de la Ley 2/1994 exige tres quintos de las Cortes para elegir al Procurador del Común. Si no se alcanza esa mayoría, se repite el mismo procedimiento. No se rebaja automáticamente a mayoría absoluta en una segunda votación, regla que sí aparece para la elección de miembros de otras instituciones."
   },
   {
     "id": "t08-p010",
     "tema": 9,
-    "pregunta": "¿Quién puede supervisar la actividad de la Administración de la Junta de Castilla y León y de las Entidades Locales?",
+    "pregunta": "¿Qué institución propia de Castilla y León supervisa la actividad de la Administración autonómica y de sus Entidades Locales para defender los derechos ciudadanos?",
     "opciones": [
       "El Defensor del Pueblo",
       "El Procurador del Común",
@@ -190,8 +190,8 @@
       "El Consejo Consultivo"
     ],
     "correcta": 1,
-    "explicación": "El tema define al Procurador del Común como comisionado de las Cortes para supervisar la Administración autonómica y las Entidades Locales de Castilla y León.",
-    "referencia": "I.9 · 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión"
+    "referencia": "I.9 · 4.1 Naturaleza y regulación / 4.5 Ámbito de supervisión",
+    "explicacion": "El Procurador del Común es el alto comisionado de las Cortes autonómicas que protege derechos y supervisa la Administración de la Comunidad, sus entes locales y organismos dependientes. Lo recoge el artículo 18 del Estatuto. El Consejo Consultivo asesora y el Consejo de Cuentas fiscaliza; no cumplen esa misma misión de defensa ciudadana."
   },
   {
     "id": "t08-p011",
@@ -204,8 +204,8 @@
       "6 de diciembre"
     ],
     "correcta": 2,
-    "explicación": "El temario fija el 23 de abril como fiesta de la Comunidad, en conmemoración de Villalar.",
-    "referencia": "I.9 · 1 Marco constitucional y datos de identificación (art. 6 EACyL)"
+    "referencia": "I.9 · 1 Marco constitucional y datos de identificación (art. 6 EACyL)",
+    "explicacion": "El artículo 6 del Estatuto establece el 23 de abril como fiesta oficial de Castilla y León. Se distingue de la fiesta nacional del 12 de octubre y del Día de la Constitución del 6 de diciembre. Que esas fechas también sean celebraciones oficiales no altera la fecha específica de la Comunidad."
   },
   {
     "id": "t08-p012",
@@ -218,8 +218,8 @@
       "Derecho a la declaración de guerra"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye el derecho a una buena administración como derecho estatutario.",
-    "referencia": "I.9 · 1.6 Derechos y principios rectores"
+    "referencia": "I.9 · 1.6 Derechos y principios rectores",
+    "explicacion": "El artículo 12 del Estatuto reconoce el derecho a una buena Administración y a servicios públicos de calidad, con las garantías y condiciones legales correspondientes. Comprende información y un trato imparcial y objetivo. No atribuye a cada ciudadano potestades estatales como declarar la guerra o aprobar leyes orgánicas."
   },
   {
     "id": "t08-p013",
@@ -232,8 +232,8 @@
       "municipal"
     ],
     "correcta": 1,
-    "explicación": "El temario indica que la circunscripción es la provincia.",
-    "referencia": "I.9 · 2.2 Las Cortes de Castilla y León"
+    "referencia": "I.9 · 2.2 Las Cortes de Castilla y León",
+    "explicacion": "La circunscripción electoral de las Cortes es la provincia, según el artículo 21.2 del Estatuto. Cada provincia recibe una asignación inicial y otra vinculada a su población. La representación no se distribuye por municipios, comarcas ni islas, aunque los Procuradores representan al conjunto del pueblo de Castilla y León."
   },
   {
     "id": "t08-p014",
@@ -246,8 +246,8 @@
       "Aprobar decretos-leyes estatales por razones de extraordinaria y urgente necesidad"
     ],
     "correcta": 1,
-    "explicación": "Entre las facultades del Presidente de la Junta se incluyen la cuestión de confianza y la disolución anticipada de las Cortes autonómicas en los términos del Estatuto.",
-    "referencia": "Estatuto de Autonomía de Castilla y León · Presidencia de la Junta"
+    "referencia": "Estatuto de Autonomía de Castilla y León · Presidencia de la Junta",
+    "explicacion": "El Presidente puede plantear una cuestión de confianza y acordar la disolución anticipada de las Cortes autonómicas con los requisitos y límites de los artículos 35 y 37 del Estatuto. Son facultades de la organización autonómica. No le permiten disolver las Cortes Generales ni aprobar decretos-leyes estatales o nombrar magistrados por sí mismo."
   },
   {
     "id": "t08-p015",
@@ -259,9 +259,9 @@
       "6 años, no renovable",
       "8 años, renovable por mitades"
     ],
-    "correcta": 0,
-    "explicación": "El artículo 2 de la Ley 2/1994 fija un período de cuatro años y permite la reelección para un segundo mandato.",
-    "referencia": "I.9 · 4.4 Instituciones propias · Ley 2/1994"
+    "correcta": 1,
+    "referencia": "I.9 · 4.4 Instituciones propias · Ley 2/1994",
+    "explicacion": "El artículo 2.1 de la Ley 2/1994 fija un mandato de cuatro años para el Procurador del Común y permite solamente la reelección para un segundo mandato. La duración de cuatro años no supone renovación indefinida. Conviene distinguir esta institución individual de los Procuradores que son miembros del Parlamento autonómico."
   },
   {
     "id": "t47-p001",
@@ -274,8 +274,8 @@
       "149 CE"
     ],
     "correcta": 0,
-    "explicación": "El tema dice expresamente que Castilla y León siguió la vía ordinaria del art. 143 CE.",
-    "referencia": "I.9 · 1.1 Fundamento constitucional y proceso de acceso a la autonomía"
+    "referencia": "I.9 · 1.1 Fundamento constitucional y proceso de acceso a la autonomía",
+    "explicacion": "Castilla y León accedió a la autonomía mediante la vía del artículo 143 de la Constitución, que regula la iniciativa autonómica ordinaria. El artículo 151 contempla una vía con requisitos diferentes. Los artículos 148 y 149 distribuyen materias competenciales, pero no describen el procedimiento de acceso seguido por la Comunidad."
   },
   {
     "id": "t47-p002",
@@ -288,8 +288,8 @@
       "Salamanca"
     ],
     "correcta": 1,
-    "explicación": "La legislación autonómica de sedes sitúa en Valladolid las sedes de las instituciones básicas; el artículo 3 del Estatuto remite a una ley de Cortes para fijarlas.",
-    "referencia": "I.9 · 1 Marco constitucional y datos de identificación · sede"
+    "referencia": "I.9 · 1 Marco constitucional y datos de identificación · sede",
+    "explicacion": "La Ley 13/1987 determina Valladolid como sede de Cortes, Presidente y Junta de Castilla y León. Se trata de las tres instituciones básicas del artículo 19 del Estatuto. Burgos alberga la sede principal del Tribunal Superior de Justicia, pero ese órgano judicial no pertenece a la misma categoría institucional."
   },
   {
     "id": "t47-p003",
@@ -302,22 +302,22 @@
       "Consultiva"
     ],
     "correcta": 1,
-    "explicación": "El tema las define como unicamerales.",
-    "referencia": "I.9 · 2.1 Naturaleza y composición"
+    "referencia": "I.9 · 2.1 Naturaleza y composición",
+    "explicacion": "Las Cortes de Castilla y León son una asamblea unicameral: sus Procuradores integran una única cámara legislativa autonómica. No existe un Senado autonómico que constituya una segunda cámara. Sus funciones representativas, legislativas y de control tampoco permiten calificarlas como órgano meramente consultivo o como parlamento federal."
   },
   {
     "id": "t47-p004",
     "tema": 9,
-    "pregunta": "El número de Procuradores de las Cortes de Castilla y León es:",
+    "pregunta": "Según el artículo 21.2 del Estatuto, ¿cómo se determina el número de Procuradores de las Cortes de Castilla y León?",
     "opciones": [
       "60 a 64",
       "70 a 74",
-      "80 a 84",
+      "Tres Procuradores por provincia y uno más por cada 45.000 habitantes o fracción superior a 22.500",
       "100 a 104"
     ],
     "correcta": 2,
-    "explicación": "El Estatuto fija un mínimo de 80 y un máximo de 84.",
-    "referencia": "I.9 · 2.1 Naturaleza y composición"
+    "referencia": "I.9 · 2.1 Naturaleza y composición",
+    "explicacion": "El número de Procuradores resulta de la fórmula del artículo 21.2 del Estatuto: tres por provincia y uno más por cada 45.000 habitantes o fracción superior a 22.500. La población determina la representación adicional. Por ello, un intervalo fijo de miembros no describe la regla estatutaria para calcular la composición."
   },
   {
     "id": "t47-p005",
@@ -330,8 +330,8 @@
       "Seis años"
     ],
     "correcta": 1,
-    "explicación": "El tema señala un mandato de cuatro años.",
-    "referencia": "I.9 · 2.1 Naturaleza y composición"
+    "referencia": "I.9 · 2.1 Naturaleza y composición",
+    "explicacion": "Las Cortes se eligen por cuatro años y el mandato de sus Procuradores termina al cumplirse ese período o el día de disolución de la Cámara, según el artículo 21.5 del Estatuto. La posibilidad de disolución anticipada puede acortar la legislatura. No debe trasladarse aquí la duración de mandatos de otras instituciones autonómicas."
   },
   {
     "id": "t47-p006",
@@ -344,8 +344,8 @@
       "Ejercer la potestad reglamentaria del Gobierno"
     ],
     "correcta": 1,
-    "explicación": "La función presupuestaria corresponde a las Cortes.",
-    "referencia": "I.9 · 2.2 Funciones"
+    "referencia": "I.9 · 2.2 Funciones",
+    "explicacion": "Las Cortes aprueban los Presupuestos Generales de la Comunidad, mientras que la Junta elabora y presenta el proyecto, según el artículo 89 del Estatuto. Aprobar y elaborar son fases diferentes. El nombramiento de Consejeros corresponde al Presidente, y la dirección administrativa y potestad reglamentaria se sitúan en el ámbito del gobierno autonómico."
   },
   {
     "id": "t47-p007",
@@ -358,8 +358,8 @@
       "El Procurador del Común"
     ],
     "correcta": 1,
-    "explicación": "El tema explica que el candidato es investido por las Cortes.",
-    "referencia": "I.9 · 3.1 Elección y mandato"
+    "referencia": "I.9 · 3.1 Elección y mandato",
+    "explicacion": "El Presidente de la Junta es elegido por las Cortes entre sus miembros mediante investidura y después es nombrado por el Rey, conforme al artículo 26 del Estatuto. La intervención real formaliza el nombramiento, pero no sustituye la elección parlamentaria. El Consejo Consultivo y el Procurador del Común no eligen al Presidente."
   },
   {
     "id": "t47-p008",
@@ -372,8 +372,8 @@
       "Designar al Procurador del Común"
     ],
     "correcta": 1,
-    "explicación": "El Presidente promulga y ordena publicar las leyes.",
-    "referencia": "I.9 · 3.2 Atribuciones"
+    "referencia": "I.9 · 3.2 Atribuciones",
+    "explicacion": "El Presidente promulga las leyes autonómicas en nombre del Rey y ordena su publicación, conforme al artículo 27 del Estatuto. Las leyes son aprobadas por las Cortes, de modo que promulgación y aprobación no son equivalentes. La elección de las instituciones propias sigue sus procedimientos parlamentarios específicos."
   },
   {
     "id": "t47-p009",
@@ -381,13 +381,13 @@
     "pregunta": "En el Estatuto de Autonomía y la organización de Castilla y León, el Consejo de Gobierno está compuesto por:",
     "opciones": [
       "Procuradores y Senadores",
-      "Presidente y Consejeros",
+      "Presidente, Vicepresidentes en su caso, y Consejeros",
       "Magistrados y Fiscales",
       "Alcaldes y Diputados"
     ],
     "correcta": 1,
-    "explicación": "El tema identifica al Presidente y los Consejeros como miembros del Consejo de Gobierno.",
-    "referencia": "I.9 · 4.1 Composición"
+    "referencia": "I.9 · 4.1 Composición",
+    "explicacion": "La Junta se compone del Presidente, los Vicepresidentes en su caso y los Consejeros, conforme al artículo 28.2 del Estatuto. Las Vicepresidencias son posibles, pero no obligatorias en toda composición. Procuradores, jueces y alcaldes pertenecen a instituciones diferentes y no forman el Consejo de Gobierno por razón de esos cargos."
   },
   {
     "id": "t47-p010",
@@ -400,8 +400,8 @@
       "Mancomunidades"
     ],
     "correcta": 1,
-    "explicación": "El tema sitúa las Consejerías como órgano superior de la organización central.",
-    "referencia": "I.9 · 5.1 La organización central"
+    "referencia": "I.9 · 5.1 La organización central",
+    "explicacion": "La Administración autonómica se organiza funcionalmente en departamentos denominados Consejerías, según el artículo 36 de la Ley 3/2001. Cada una atiende sectores homogéneos de actividad administrativa. Las Diputaciones y Juntas Vecinales pertenecen a la Administración local; las Delegaciones Territoriales constituyen la organización periférica de la Comunidad."
   },
   {
     "id": "t47-p011",
@@ -414,8 +414,8 @@
       "El CES"
     ],
     "correcta": 1,
-    "explicación": "El tema lo describe como equivalente autonómico del Defensor del Pueblo.",
-    "referencia": "I.9 · 6.1 El Procurador del Común"
+    "referencia": "I.9 · 6.1 El Procurador del Común",
+    "explicacion": "El Procurador del Común cumple en el ámbito autonómico una misión semejante a la del Defensor del Pueblo: protección de derechos y supervisión administrativa con independencia. Es alto comisionado de las Cortes de Castilla y León. No realiza la fiscalización contable del Consejo de Cuentas ni la función asesora del Consejo Consultivo."
   },
   {
     "id": "t47-p012",
@@ -423,13 +423,13 @@
     "pregunta": "El Consejo Consultivo de Castilla y León se define como:",
     "opciones": [
       "Órgano fiscalizador externo",
-      "Superior órgano consultivo de la Junta",
+      "Superior órgano consultivo de la Comunidad de Castilla y León",
       "Órgano legislativo",
       "Órgano jurisdiccional"
     ],
     "correcta": 1,
-    "explicación": "El artículo 33 define al Consejo Consultivo como el superior órgano consultivo de la Junta y de la Administración de la Comunidad.",
-    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León",
+    "explicacion": "El Consejo Consultivo es el superior órgano consultivo de la Comunidad de Castilla y León, conforme al artículo 1 de la Ley 1/2002. Emite dictámenes en los supuestos previstos legalmente. No aprueba leyes, no dicta sentencias y no ejerce la fiscalización económica externa atribuida al Consejo de Cuentas."
   },
   {
     "id": "t47-p013",
@@ -442,8 +442,8 @@
       "Ejecutiva"
     ],
     "correcta": 1,
-    "explicación": "El tema subraya su función fiscalizadora y no jurisdiccional.",
-    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León",
+    "explicacion": "El Consejo de Cuentas ejerce la fiscalización externa de la gestión económica, financiera y contable del sector público correspondiente, según el artículo 90 del Estatuto y su ley reguladora. No dispone de jurisdicción contable propia. El enjuiciamiento de la responsabilidad contable corresponde al Tribunal de Cuentas del Estado."
   },
   {
     "id": "t47-p014",
@@ -456,8 +456,8 @@
       "Sanción administrativa"
     ],
     "correcta": 1,
-    "explicación": "El tema lo define como órgano de consulta y participación.",
-    "referencia": "I.9 · 6.4 El Consejo Económico y Social de Castilla y León (CES)"
+    "referencia": "I.9 · 6.4 El Consejo Económico y Social de Castilla y León (CES)",
+    "explicacion": "El Consejo Económico y Social es un órgano colegiado consultivo de carácter socioeconómico y un cauce de participación, según el artículo 81 del Estatuto. Aporta informes y propuestas dentro de su ámbito. No dirige el gobierno, impone sanciones administrativas ni sustituye a los órganos de control jurídico o económico."
   },
   {
     "id": "t47-p015",
@@ -470,8 +470,8 @@
       "Consulados"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa la presencia provincial en las Delegaciones Territoriales.",
-    "referencia": "I.9 · 5.2 La Administración Periférica: las Delegaciones Territoriales"
+    "referencia": "I.9 · 5.2 La Administración Periférica: las Delegaciones Territoriales",
+    "explicacion": "La Administración autonómica se organiza territorialmente en Delegaciones Territoriales de la Junta en cada provincia, conforme a los artículos 41 y 42 de la Ley 3/2001. Son órganos directivos periféricos que coordinan y gestionan competencias. Los tribunales pertenecen al Poder Judicial y los consulados no integran esta estructura administrativa autonómica."
   },
   {
     "id": "t47-p016",
@@ -484,8 +484,8 @@
       "Cinco Procuradores"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que la circunscripción es provincial y que cada provincia cuenta con un mínimo de tres Procuradores.",
-    "referencia": "I.9 · 2.1 Naturaleza y composición"
+    "referencia": "I.9 · 2.1 Naturaleza y composición",
+    "explicacion": "El artículo 21.2 del Estatuto garantiza una asignación inicial de tres Procuradores a cada provincia, a la que se añaden los correspondientes por población. Ese mínimo protege la representación territorial. No significa que todas las provincias tengan solo tres miembros ni que el total sea independiente de sus habitantes."
   },
   {
     "id": "t47-p017",
@@ -498,22 +498,22 @@
       "Resolver los recursos de casación ante el Tribunal Superior de Justicia"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera entre las atribuciones del Presidente el nombramiento y cese de los Consejeros.",
-    "referencia": "I.9 · 3.2 Atribuciones"
+    "referencia": "I.9 · 3.2 Atribuciones",
+    "explicacion": "El Presidente nombra y separa libremente a los miembros de la Junta, comunicándolo a las Cortes, según el artículo 28.4 del Estatuto. Los Procuradores se eligen mediante elecciones y no por designación presidencial. La fiscalización externa de cuentas y la resolución de recursos judiciales pertenecen a instituciones distintas."
   },
   {
     "id": "t47-p018",
     "tema": 9,
     "pregunta": "El Consejo Consultivo de Castilla y León emite dictamen preceptivo, entre otros casos, sobre:",
     "opciones": [
-      "Proyectos de reforma del Estatuto de Autonomía",
+      "Anteproyectos de reforma del Estatuto de Autonomía elaborados por la Junta de Castilla y León",
       "La elección de los Procuradores de las Cortes de Castilla y León",
       "La aprobación inicial de los presupuestos municipales",
       "La designación del Delegado Territorial en cada provincia"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye los proyectos de reforma del Estatuto entre los supuestos de dictamen preceptivo.",
-    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León",
+    "explicacion": "El artículo 4.1.a de la Ley 1/2002 exige consultar al Consejo Consultivo sobre los anteproyectos de reforma estatutaria elaborados por la Junta. También contempla determinadas proposiciones relacionadas con derechos y deberes. No establece por esa razón dictamen preceptivo para cualquier nombramiento territorial, elección parlamentaria o aprobación inicial de presupuestos municipales."
   },
   {
     "id": "t47-p019",
@@ -526,8 +526,8 @@
       "Universal, censitario, directo y secreto."
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce la elección por sufragio universal, libre, igual, directo y secreto.",
-    "referencia": "I.9 · 2.1 Naturaleza y composición"
+    "referencia": "I.9 · 2.1 Naturaleza y composición",
+    "explicacion": "El artículo 21.1 del Estatuto exige sufragio universal, libre, igual, directo y secreto para elegir a los Procuradores. La universalidad excluye el voto censitario y la elección directa evita intermediarios electorales para designarlos. La igualdad y el secreto son garantías que no pueden sustituirse por una representación corporativa."
   },
   {
     "id": "t47-p020",
@@ -540,8 +540,8 @@
       "Ocho años"
     ],
     "correcta": 0,
-    "explicación": "El tema establece un mandato de cuatro años para los Consejeros electivos del Consejo Consultivo.",
-    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León",
+    "explicacion": "Los Consejeros electivos del Consejo Consultivo se designan para un período de cuatro años, según el artículo 7.5 de la Ley 1/2002. Pueden ser reelegidos y continúan hasta la designación del sustituto. No debe confundirse su mandato con el régimen de los Consejeros natos ni con antiguas duraciones de otras instituciones."
   },
   {
     "id": "t47-p021",
@@ -554,8 +554,8 @@
       "Unanimidad de los Procuradores presentes"
     ],
     "correcta": 2,
-    "explicación": "El tema indica que, tras no lograr mayoría absoluta en primera votación, basta la mayoría simple en segunda.",
-    "referencia": "I.9 · 3.1 Elección y mandato"
+    "referencia": "I.9 · 3.1 Elección y mandato",
+    "explicacion": "El artículo 26 del Estatuto exige mayoría absoluta en primera votación de investidura y mayoría simple en la segunda. Esta última significa más votos favorables que contrarios, conforme al procedimiento parlamentario. No se mantiene la exigencia de absoluta ni se eleva a tres quintos o unanimidad tras fracasar la primera votación."
   },
   {
     "id": "t47-p022",
@@ -568,8 +568,8 @@
       "Ocho años, no renovable"
     ],
     "correcta": 0,
-    "explicación": "La Ley 2/1994 fija un período de cuatro años y permite la reelección para un segundo mandato.",
-    "referencia": "I.9 · 4.4 Instituciones propias · Ley 2/1994"
+    "referencia": "I.9 · 4.4 Instituciones propias · Ley 2/1994",
+    "explicacion": "El Procurador del Común tiene un mandato de cuatro años y solo puede ser reelegido para un segundo, conforme al artículo 2.1 de la Ley 2/1994. No son cinco o seis años ni una renovación ilimitada. Es importante distinguir la duración del mandato del procedimiento y mayoría necesarios para su elección."
   },
   {
     "id": "t47-p023",
@@ -582,50 +582,50 @@
       "Es un órgano consultivo de la Junta en materia presupuestaria"
     ],
     "correcta": 1,
-    "explicación": "El tema subraya que el Consejo de Cuentas solo fiscaliza y carece de función jurisdiccional.",
-    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León",
+    "explicacion": "El Consejo de Cuentas fiscaliza externamente la actividad económico-financiera, pero no enjuicia responsabilidad contable. Esta función jurisdiccional corresponde al Tribunal de Cuentas, cuya competencia se conserva según el artículo 90 del Estatuto. No existe dependencia jerárquica del Tribunal Supremo ni se trata de un órgano de asesoramiento presupuestario de la Junta."
   },
   {
     "id": "t47-p024",
     "tema": 9,
     "pregunta": "En Castilla y León, el Procurador del Común es elegido por las Cortes de Castilla y León por:",
     "opciones": [
-      "Mayoría de tres quintos en primera votación o mayoría absoluta en segunda.",
+      "Mayoría de tres quintos; si no se consigue, se repite el mismo procedimiento.",
       "Mayoría absoluta en primera votación y mayoría simple en segunda.",
       "Mayoría simple en primera votación y unanimidad en segunda.",
       "Mayoría de dos tercios en única votación."
     ],
     "correcta": 0,
-    "explicación": "El tema señala ese sistema de elección para el Procurador del Común.",
-    "referencia": "I.9 · 6.1 El Procurador del Común"
+    "referencia": "I.9 · 6.1 El Procurador del Común",
+    "explicacion": "El artículo 6.4 de la Ley 2/1994 exige tres quintos para elegir al Procurador del Común y ordena repetir el mismo procedimiento si no se alcanza esa mayoría. No prevé una segunda votación con mayoría absoluta. Esa rebaja sí figura en la regulación de otras instituciones y constituye el distractor de esta pregunta."
   },
   {
     "id": "t47-p025",
     "tema": 9,
     "pregunta": "En Castilla y León, el Consejo de Cuentas de Castilla y León está compuesto por:",
     "opciones": [
-      "Tres Consejeros elegidos por las Cortes por mayoría de tres quintos en primera votación para un mandato de seis años.",
+      "Tres Consejeros elegidos por las Cortes por mayoría de tres quintos en primera votación para un mandato de cuatro años.",
       "Cinco Consejeros elegidos por la Junta por mayoría simple para un mandato de cuatro años.",
       "Nueve Consejeros elegidos por el Consejo Consultivo para un mandato de seis años.",
       "Tres Consejeros elegidos por las Cortes por mayoría absoluta para un mandato de cinco años."
     ],
     "correcta": 0,
-    "explicación": "El artículo 22 de la Ley 2/2002 prevé tres Consejeros elegidos por seis años; se exige tres quintos en primera votación o mayoría absoluta en segunda.",
-    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León"
+    "referencia": "I.9 · 6.3 El Consejo de Cuentas de Castilla y León",
+    "explicacion": "El artículo 22.1 de la Ley 2/2002 establece tres Consejeros de Cuentas, elegidos por las Cortes para cuatro años. Se exigen tres quintos en primera votación y, si es necesaria, mayoría absoluta en segunda. La referencia a seis años pertenece a una regulación anterior y no describe el mandato vigente."
   },
   {
     "id": "t47-p026",
     "tema": 9,
-    "pregunta": "En Castilla y León, forman parte del Consejo Consultivo de Castilla y León como Consejeros permanentes:",
+    "pregunta": "Según el artículo 7.4 de la Ley 1/2002, ¿quiénes pueden incorporarse como Consejeros natos al Consejo Consultivo de Castilla y León?",
     "opciones": [
-      "Los ex-Presidentes de la Junta y los ex-Presidentes de las Cortes de Castilla y León que así lo soliciten.",
+      "Los ex Presidentes de la Junta que accedieron al cargo al comienzo de una legislatura, sean ciudadanos de Castilla y León y cumplan los requisitos de incorporación.",
       "Los Presidentes de las Diputaciones Provinciales en activo.",
       "Los Consejeros de Economía y Hacienda de las últimas dos legislaturas.",
       "Los Procuradores designados por cada grupo parlamentario al inicio de cada legislatura."
     ],
     "correcta": 0,
-    "explicación": "El tema incluye como Consejeros permanentes a los ex-Presidentes de la Junta y de las Cortes que lo soliciten.",
-    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León"
+    "referencia": "I.9 · 6.2 El Consejo Consultivo de Castilla y León",
+    "explicacion": "El artículo 7.4 de la Ley 1/2002 contempla como Consejeros natos a determinados ex Presidentes de la Junta, con condición de ciudadanos de Castilla y León y requisitos de incorporación. No incluye automáticamente a ex Presidentes de las Cortes. La categoría legal es «natos», distinta de los tres Consejeros electivos."
   },
   {
     "id": "burgos-i09-hard-01",
@@ -638,8 +638,8 @@
       "Solo regula símbolos y carece de contenido competencial"
     ],
     "correcta": 0,
-    "explicación": "El Estatuto es la norma institucional básica de Castilla y León y se aprueba o reforma mediante ley orgánica estatal.",
-    "referencia": "Tema I.9, Estatuto de Autonomía"
+    "referencia": "Tema I.9, Estatuto de Autonomía",
+    "explicacion": "El Estatuto es la norma institucional básica de la Comunidad y está aprobado mediante ley orgánica estatal, conforme al artículo 147 de la Constitución. Regula instituciones, territorio y competencias dentro del marco constitucional. No es un reglamento de la Junta ni una norma subordinada a las ordenanzas municipales."
   },
   {
     "id": "burgos-i09-hard-02",
@@ -652,8 +652,8 @@
       "Zamora"
     ],
     "correcta": 0,
-    "explicación": "Castilla y León está integrada por Ávila, Burgos, León, Palencia, Salamanca, Segovia, Soria, Valladolid y Zamora; Logroño no es provincia de la Comunidad.",
-    "referencia": "Tema I.9, Provincias integradas en Castilla y León"
+    "referencia": "Tema I.9, Provincias integradas en Castilla y León",
+    "explicacion": "El artículo 2 del Estatuto enumera nueve provincias y Logroño no figura entre ellas. Burgos, Soria y Zamora sí integran Castilla y León. La denominación histórica de la provincia de Logroño, hoy La Rioja, no permite incorporarla al territorio autonómico definido por el Estatuto."
   },
   {
     "id": "burgos-i09-hard-03",
@@ -666,8 +666,8 @@
       "Como meras declaraciones sin relación con la actuación de los poderes públicos"
     ],
     "correcta": 0,
-    "explicación": "Los derechos estatutarios operan dentro de las competencias autonómicas y no sustituyen ni reducen los derechos constitucionales.",
-    "referencia": "Tema I.9, Derechos en el Estatuto"
+    "referencia": "Tema I.9, Derechos en el Estatuto",
+    "explicacion": "Los derechos estatutarios vinculan a los poderes públicos dentro del ámbito competencial autonómico y deben interpretarse de conformidad con la Constitución, según el artículo 8 del Estatuto. No sustituyen los derechos fundamentales ni modifican el reparto competencial. Su reconocimiento tampoco convierte cada derecho en una facultad absoluta frente a toda legislación estatal."
   },
   {
     "id": "burgos-i09-hard-04",
@@ -680,8 +680,8 @@
       "Consejo Económico y Social"
     ],
     "correcta": 0,
-    "explicación": "El Consejo de Cuentas es el órgano de control externo de la actividad económico-financiera del sector público de Castilla y León.",
-    "referencia": "Tema I.9, Instituciones propias de Castilla y León"
+    "referencia": "Tema I.9, Instituciones propias de Castilla y León",
+    "explicacion": "El Consejo de Cuentas realiza el control externo económico-financiero del sector público autonómico y demás entes públicos en su ámbito. Así lo dispone el artículo 90 del Estatuto. El Procurador protege derechos, el Consultivo asesora jurídicamente y el Consejo Económico y Social participa en la consulta socioeconómica."
   },
   {
     "id": "estado2026-i09-01",
@@ -694,11 +694,11 @@
       "Unanimidad"
     ],
     "correcta": 0,
-    "explicación": "El procedimiento de reforma estatutaria exige aprobación por las Cortes de Castilla y León por mayoría reforzada de dos tercios.",
     "referencia": "Tema I.9, reforma del Estatuto de Autonomía",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La propuesta de reforma estatutaria necesita dos tercios de las Cortes de Castilla y León, conforme al artículo 91. Después debe aprobarse por las Cortes Generales mediante ley orgánica. Una mayoría simple o absoluta autonómica resulta insuficiente, pero tampoco se exige unanimidad de todos los Procuradores."
   },
   {
     "id": "estado2026-i09-02",
@@ -711,11 +711,11 @@
       "Consejo Económico y Social"
     ],
     "correcta": 0,
-    "explicación": "El Procurador del Común es el equivalente autonómico del Defensor del Pueblo y supervisa la actividad administrativa en su ámbito.",
     "referencia": "Tema I.9, instituciones propias de Castilla y León",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El Procurador del Común es alto comisionado de las Cortes autonómicas para proteger derechos y supervisar la Administración correspondiente, según el artículo 18 del Estatuto. Actúa con independencia y no dirige los servicios administrativos supervisados. Su función se distingue de la fiscalización del Consejo de Cuentas y de los dictámenes del Consultivo."
   },
   {
     "id": "realstyle-i09-01",
@@ -729,7 +729,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · art. 21 EACyL",
-    "explicación": "El Estatuto fija un mínimo provincial y una corrección poblacional, fórmula típica de pregunta real."
+    "explicacion": "Cada provincia tiene tres Procuradores iniciales y uno adicional por cada 45.000 habitantes o fracción superior a 22.500, según el artículo 21.2 del Estatuto. La opción correcta reúne el mínimo y el criterio poblacional. No se distribuyen por partidos judiciales ni mediante una cantidad fija idéntica para todas las provincias."
   },
   {
     "id": "realstyle-i09-02",
@@ -743,7 +743,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · Consejo Consultivo de Castilla y León",
-    "explicación": "Los exámenes reales preguntan con frecuencia mandatos y composición de instituciones propias."
+    "explicacion": "El artículo 7.5 de la Ley 1/2002 fija cuatro años para los Consejeros electivos del Consejo Consultivo. Al terminar pueden ser reelegidos y continúan en funciones hasta que se designe su sustituto. El régimen de los Consejeros natos es distinto y no debe utilizarse para contestar sobre los electivos."
   },
   {
     "tema": 9,
@@ -757,10 +757,10 @@
     ],
     "correcta": 0,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 6",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 23.4 del Estatuto exige mayoría absoluta en una votación final sobre la totalidad para aprobar o reformar el Reglamento de las Cortes. Es una garantía de la autonomía parlamentaria. No debe confundirse con los dos tercios de una reforma estatutaria ni con mayorías cualificadas de elección de otras instituciones."
   },
   {
     "tema": 9,
@@ -774,10 +774,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 9",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 41.2 del Estatuto remite a la legislación del Estado la forma de nombramiento de magistrados, jueces, secretarios y restante personal judicial. La Comunidad no puede sustituir ese régimen mediante una ley autonómica propia. La competencia sobre medios y servicios de justicia no equivale a asumir los nombramientos al margen de la legislación estatal."
   },
   {
     "tema": 9,
@@ -791,10 +791,10 @@
     ],
     "correcta": 1,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 10",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 7.2 del Estatuto reconoce participación a españoles residentes en el extranjero cuya última vecindad administrativa haya estado en Castilla y León y que lo acrediten conforme a la legislación estatal. No basta cualquier vecindad pasada ni exige haber nacido en la Comunidad. La palabra «última» y la referencia estatal distinguen la opción correcta."
   },
   {
     "tema": 9,
@@ -808,10 +808,10 @@
     ],
     "correcta": 2,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 11",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 91 dispone que la propuesta de reforma aprobada por las Cortes autonómicas se remita al Congreso de los Diputados. Allí comienza su tramitación estatal, que debe concluir con ley orgánica de las Cortes Generales. No se envía directamente al Rey para sanción ni al Gobierno como destinatario de esa fase parlamentaria."
   },
   {
     "tema": 9,
@@ -825,10 +825,10 @@
     ],
     "correcta": 1,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 14",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 24 atribuye a las Cortes controlar e impulsar la acción política y de gobierno de la Junta y de su Presidente. Las Cortes ejercen potestad legislativa, no la reglamentaria general del gobierno. Designan senadores autonómicos, no diputados, y eligen al Presidente, mientras este nombra a los Consejeros."
   },
   {
     "tema": 9,
@@ -842,10 +842,10 @@
     ],
     "correcta": 2,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 15",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El artículo 1 del Reglamento de las Cortes prevé la sesión constitutiva dentro de los treinta días siguientes a las elecciones, en la fecha y hora del decreto de convocatoria. No se trata del plazo de constitución de comisiones u otros órganos parlamentarios. Esos plazos diferentes no modifican el límite para constituir la Cámara."
   },
   {
     "id": "burgos-i09-deep-01",
@@ -858,8 +858,8 @@
       "Mayoría de dos tercios"
     ],
     "correcta": 3,
-    "explicación": "El artículo 3.1 exige una ley de las Cortes de Castilla y León aprobada por mayoría de dos tercios.",
-    "referencia": "I.9 · 1 Marco constitucional y datos de identificación"
+    "referencia": "I.9 · 1 Marco constitucional y datos de identificación",
+    "explicacion": "El artículo 3.1 del Estatuto exige dos tercios de las Cortes para la ley que determine la sede o sedes de las instituciones básicas. Esa mayoría reforzada busca un acuerdo amplio sobre su ubicación. No basta la mayoría simple o absoluta exigida en otras decisiones parlamentarias, ni se aplica el umbral de tres quintos."
   },
   {
     "id": "burgos-i09-deep-02",
@@ -872,8 +872,8 @@
       "Solo los Procuradores de las Cortes autonómicas"
     ],
     "correcta": 1,
-    "explicación": "El artículo 7.1 atiende a la nacionalidad española y a la vecindad administrativa en un municipio integrado en Castilla y León.",
-    "referencia": "I.9 · 3.1 Titularidad y alcance"
+    "referencia": "I.9 · 3.1 Titularidad y alcance",
+    "explicacion": "El artículo 7.1 atribuye la condición política de ciudadano de Castilla y León a los españoles con vecindad administrativa en cualquiera de sus municipios. El nacimiento en la Comunidad no es requisito suficiente ni necesario por sí solo. Los extranjeros pueden tener otros derechos de participación, pero no quedan incluidos automáticamente en esa definición."
   },
   {
     "id": "burgos-i09-deep-03",
@@ -886,8 +886,8 @@
       "Sustituye el régimen constitucional de acceso a archivos y registros"
     ],
     "correcta": 1,
-    "explicación": "El artículo 12 reconoce derechos en las relaciones con la Administración autonómica, como información suficiente y trato imparcial y objetivo, siempre en los términos legales.",
-    "referencia": "I.9 · 3.2 Derechos que conviene reconocer"
+    "referencia": "I.9 · 3.2 Derechos que conviene reconocer",
+    "explicacion": "El artículo 12 reconoce, en los términos legales, información sobre servicios y prestaciones y un trato administrativo imparcial y objetivo. Forma parte del derecho a una buena Administración. No garantiza que todas las resoluciones sean favorables ni permite sustituir las normas constitucionales y legales que regulan el acceso a archivos y registros."
   },
   {
     "id": "burgos-i09-deep-04",
@@ -900,8 +900,8 @@
       "El Consejo Económico y Social"
     ],
     "correcta": 2,
-    "explicación": "El artículo 19.1 enumera como instituciones básicas las Cortes, el Presidente de la Junta y la Junta de Castilla y León.",
-    "referencia": "I.9 · 4 Instituciones de autogobierno"
+    "referencia": "I.9 · 4 Instituciones de autogobierno",
+    "explicacion": "La Junta de Castilla y León pertenece a las instituciones básicas enumeradas por el artículo 19.1, junto con las Cortes y el Presidente. El Consejo Consultivo, el Procurador del Común y el Consejo Económico y Social son instituciones propias. La pregunta exige distinguir esas categorías, no valorar cuál tiene mayor importancia práctica."
   },
   {
     "id": "burgos-i09-deep-05",
@@ -914,8 +914,8 @@
       "La misma representación para todas las provincias, sin atender a la población"
     ],
     "correcta": 0,
-    "explicación": "La provincia es la circunscripción y el artículo 21.2 fija tres Procuradores iniciales más la corrección poblacional indicada.",
-    "referencia": "I.9 · 4.1 Cortes de Castilla y León"
+    "referencia": "I.9 · 4.1 Cortes de Castilla y León",
+    "explicacion": "El artículo 21.2 asigna a cada provincia un mínimo de tres Procuradores y uno más por cada 45.000 habitantes o fracción superior a 22.500. Se combina representación territorial y población. No se utiliza un mínimo de cinco, una cuota municipal ni una representación absolutamente igual para todas las provincias."
   },
   {
     "id": "burgos-i09-deep-06",
@@ -928,8 +928,8 @@
       "Dos tercios"
     ],
     "correcta": 1,
-    "explicación": "El artículo 35.2 establece que la cuestión de confianza se entiende otorgada cuando vota a favor la mayoría simple de los Procuradores.",
-    "referencia": "I.9 · 4.2 Presidente de la Junta"
+    "referencia": "I.9 · 4.2 Presidente de la Junta",
+    "explicacion": "La cuestión de confianza se entiende otorgada cuando la apoya la mayoría simple de los Procuradores, según el artículo 35.2 del Estatuto. El Presidente la plantea previa deliberación de la Junta sobre su programa o una declaración de política general. No debe confundirse con la moción de censura, que requiere mayoría absoluta."
   },
   {
     "id": "burgos-i09-deep-07",
@@ -942,8 +942,8 @@
       "Exclusivamente mediante tratados internacionales"
     ],
     "correcta": 2,
-    "explicación": "El artículo 71 permite desarrollar legislativamente y ejecutar la legislación estatal dentro del marco de sus bases.",
-    "referencia": "I.9 · 5. Competencias"
+    "referencia": "I.9 · 5. Competencias",
+    "explicacion": "El artículo 71 sitúa el desarrollo legislativo y la ejecución autonómicos dentro del marco de la legislación básica del Estado. La Comunidad desarrolla las bases y actúa en su ámbito competencial sin prescindir de ellas. No es una potestad ilimitada, una función reservada a ordenanzas locales ni una competencia ejercida mediante tratados internacionales."
   },
   {
     "id": "burgos-i09-deep-08",
@@ -956,7 +956,7 @@
       "El Presidente, antes del 31 de diciembre"
     ],
     "correcta": 1,
-    "explicación": "El artículo 89.2 atribuye a la Junta la elaboración y exige que presente el proyecto a las Cortes antes del 15 de octubre de cada año.",
-    "referencia": "I.9 · 6 Economía y Hacienda"
+    "referencia": "I.9 · 6 Economía y Hacienda",
+    "explicacion": "El artículo 89.2 atribuye a la Junta la elaboración del proyecto de presupuestos y exige presentarlo a las Cortes antes del 15 de octubre. Las Cortes lo examinan, enmiendan, aprueban y controlan. Si no se aprueba antes de comenzar el ejercicio, se prorroga el anterior; esa previsión no cambia la fecha de presentación."
   }
 ]

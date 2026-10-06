@@ -11,11 +11,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 23",
-    "explicación": "El Parlamento Europeo y el Consejo ejercen conjuntamente la función legislativa y presupuestaria.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 14.1 TUE atribuye al Parlamento Europeo, conjuntamente con el Consejo, las funciones legislativa y presupuestaria. Ambos intervienen en la aprobación de normas y del presupuesto según los procedimientos de los Tratados. No debe confundirse el Consejo colegislador con el Consejo Europeo, que fija las orientaciones políticas generales."
   },
   {
     "id": "pdf-2025-burgos-q31",
@@ -29,11 +29,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 31",
-    "explicación": "El reglamento de la UE es obligatorio en todos sus elementos y directamente aplicable.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El artículo 288 TFUE define el reglamento por su alcance general, obligatoriedad en todos sus elementos y aplicación directa en cada Estado miembro. No necesita una norma nacional de transposición como la directiva. La decisión también es obligatoria, pero cuando designa destinatarios solo obliga a estos; recomendaciones y dictámenes carecen de fuerza vinculante."
   },
   {
     "id": "pdf-2025-burgos-r01",
@@ -47,11 +47,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · reserva 1",
-    "explicación": "Los miembros del Comité de las Regiones tienen mandato renovable de cinco años y no pueden ser simultáneamente eurodiputados.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "Los miembros del Comité de las Regiones son nombrados por un período de cinco años, renovable, conforme al artículo 305 TFUE. No pueden ser simultáneamente diputados del Parlamento Europeo. Su función es consultiva y representa los intereses regionales y locales, por lo que no constituye una segunda cámara legislativa de la Unión."
   },
   {
     "id": "pdf-2023-burgos-q13",
@@ -65,11 +65,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 13",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La sede oficial del Parlamento Europeo está en Estrasburgo, donde se celebran las sesiones plenarias ordinarias previstas en el Protocolo sobre sedes. Bruselas acoge otras sesiones y el trabajo de las comisiones, mientras la Secretaría General tiene sede en Luxemburgo. La existencia de varios lugares de trabajo no cambia la sede oficial preguntada."
   },
   {
     "id": "t41-p001",
@@ -82,8 +82,8 @@
       "Maastricht de 1993"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa la CECA en el Tratado de París de 1951.",
-    "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)"
+    "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)",
+    "explicacion": "El Tratado de París, firmado en 1951 y vigente desde 1952, creó la Comunidad Europea del Carbón y del Acero. Fue el primer tratado de integración comunitaria y concentró la cooperación en esos sectores. No debe confundirse con Roma, que creó la CEE y Euratom, ni con Maastricht, que estableció la Unión Europea."
   },
   {
     "id": "t41-p002",
@@ -96,8 +96,8 @@
       "el Tribunal de Justicia y el Parlamento"
     ],
     "correcta": 0,
-    "explicación": "El tema lo dice expresamente.",
-    "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)"
+    "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)",
+    "explicacion": "Los Tratados de Roma se firmaron en 1957 y entraron en vigor en 1958, creando la Comunidad Económica Europea y Euratom. Ampliaron la integración más allá del carbón y del acero de la CECA. Maastricht y Lisboa pertenecen a etapas posteriores de reorganización institucional de la integración europea."
   },
   {
     "id": "t41-p003",
@@ -110,8 +110,8 @@
       "da lugar a la CEE"
     ],
     "correcta": 0,
-    "explicación": "El tema lo relaciona con la creación de la UE.",
-    "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos"
+    "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos",
+    "explicacion": "El Tratado de Maastricht se firmó en 1992 y entró en vigor en 1993, creando la Unión Europea e introduciendo la ciudadanía de la Unión. Esta se añade a la nacionalidad de un Estado miembro y no la sustituye. Roma había creado la CEE y Lisboa reformó después el marco institucional europeo."
   },
   {
     "id": "t41-p004",
@@ -124,8 +124,8 @@
       "Tratado de París"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa ahí el art. 50 TUE.",
-    "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos"
+    "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos",
+    "explicacion": "El Tratado de Lisboa incorporó expresamente el procedimiento de retirada voluntaria de un Estado miembro en el artículo 50 TUE. La decisión se adopta conforme a sus normas constitucionales y se notifica al Consejo Europeo. No debe confundirse la retirada con una sanción por vulnerar valores de la Unión ni con la adhesión."
   },
   {
     "id": "t41-p005",
@@ -138,8 +138,8 @@
       "1 de enero de 1957"
     ],
     "correcta": 0,
-    "explicación": "El tema da esa fecha concreta.",
-    "referencia": "I.8 · 1.4 Las ampliaciones"
+    "referencia": "I.8 · 1.4 Las ampliaciones",
+    "explicacion": "España se incorporó a las Comunidades Europeas el 1 de enero de 1986, junto con Portugal. En ese momento aún no existía la Unión Europea creada posteriormente por Maastricht. La firma del tratado de adhesión y su entrada en vigor son fechas distintas; la pregunta se refiere a la incorporación efectiva."
   },
   {
     "id": "t41-p006",
@@ -152,8 +152,8 @@
       "art. 18 CE"
     ],
     "correcta": 0,
-    "explicación": "El tema lo identifica con el art. 2 TUE.",
-    "referencia": "I.8 · 1.5 Valores y objetivos de la Unión"
+    "referencia": "I.8 · 1.5 Valores y objetivos de la Unión",
+    "explicacion": "El artículo 2 TUE enumera valores como dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los de las minorías. Son bases comunes de la Unión. No son simples objetivos económicos ni deben confundirse con el catálogo de competencias o con políticas concretas de sus instituciones."
   },
   {
     "id": "t41-p007",
@@ -166,8 +166,8 @@
       "tres poderes clásicos"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera siete instituciones en el art. 13 TUE.",
-    "referencia": "I.8 · 2. Las instituciones de la Unión Europea"
+    "referencia": "I.8 · 2. Las instituciones de la Unión Europea",
+    "explicacion": "El artículo 13 TUE establece siete instituciones: Parlamento Europeo, Consejo Europeo, Consejo, Comisión, Tribunal de Justicia, Banco Central Europeo y Tribunal de Cuentas. Los comités consultivos y otros órganos europeos no aumentan ese número. Conviene distinguir el marco institucional del conjunto más amplio de organismos que trabajan para la Unión."
   },
   {
     "id": "t41-p008",
@@ -180,8 +180,8 @@
       "los jueces del TJUE"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define así.",
-    "referencia": "I.8 · 3.1 Composición y presidencia"
+    "referencia": "I.8 · 3.1 Composición y presidencia",
+    "explicacion": "El Consejo Europeo está integrado por los jefes de Estado o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión, según el artículo 15.2 TUE. El Alto Representante participa en sus trabajos. El Consejo de la Unión, en cambio, reúne representantes ministeriales de los Estados."
   },
   {
     "id": "t41-p009",
@@ -194,8 +194,8 @@
       "seis meses"
     ],
     "correcta": 0,
-    "explicación": "El tema fija ese mandato.",
-    "referencia": "I.8 · 3.1 Composición y presidencia"
+    "referencia": "I.8 · 3.1 Composición y presidencia",
+    "explicacion": "El Consejo Europeo elige a su Presidente por mayoría cualificada para un mandato de dos años y medio, renovable una sola vez, conforme al artículo 15.5 TUE. No se aplica la rotación semestral de la presidencia del Consejo de la Unión. Tampoco es un mandato de cinco años renovable indefinidamente."
   },
   {
     "id": "t41-p010",
@@ -208,8 +208,8 @@
       "gestiona el euro"
     ],
     "correcta": 0,
-    "explicación": "El tema destaca su carácter político y de orientación estratégica.",
-    "referencia": "I.8 · 3.2 Funciones"
+    "referencia": "I.8 · 3.2 Funciones",
+    "explicacion": "El Consejo Europeo impulsa el desarrollo de la Unión y define sus orientaciones y prioridades políticas generales. El artículo 15.1 TUE excluye expresamente que ejerza función legislativa. Aprobar las normas mediante el procedimiento ordinario corresponde al Parlamento Europeo y al Consejo de la Unión, con la intervención prevista de la Comisión."
   },
   {
     "id": "t41-p011",
@@ -222,8 +222,8 @@
       "las regiones y municipios"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como institución de representación gubernamental.",
-    "referencia": "I.8 · 4.1 Composición"
+    "referencia": "I.8 · 4.1 Composición",
+    "explicacion": "El Consejo de la Unión Europea reúne un representante de cada Estado miembro de rango ministerial, facultado para comprometer a su Gobierno y ejercer el voto. Representa así a los gobiernos nacionales. El Parlamento representa a los ciudadanos y el Consejo Europeo reúne a los jefes de Estado o de Gobierno."
   },
   {
     "id": "t41-p012",
@@ -236,13 +236,13 @@
       "un juez por Estado"
     ],
     "correcta": 0,
-    "explicación": "El tema indica un comisario por Estado miembro.",
-    "referencia": "I.8 · 6.1 Composición"
+    "referencia": "I.8 · 6.1 Composición",
+    "explicacion": "La Comisión está actualmente formada por un nacional de cada Estado miembro, incluidos su Presidente y el Alto Representante, que es uno de sus vicepresidentes. El Consejo Europeo mantuvo esta composición conforme al artículo 17.5 TUE. Sus miembros actúan con independencia y no son delegados sometidos a instrucciones de sus gobiernos."
   },
   {
     "id": "t41-p013",
     "tema": 8,
-    "pregunta": "En la Unión Europea, la Comisión tiene el monopolio de la:",
+    "pregunta": "Con carácter general, según el artículo 17.2 TUE, ¿a qué institución corresponde la iniciativa legislativa de la Unión?",
     "opciones": [
       "iniciativa legislativa",
       "jurisdicción penal",
@@ -250,13 +250,13 @@
       "elección de alcaldes"
     ],
     "correcta": 0,
-    "explicación": "El tema subraya esa función.",
-    "referencia": "I.8 · 6.3 Funciones"
+    "referencia": "I.8 · 6.3 Funciones",
+    "explicacion": "El artículo 17.2 TUE establece como regla general que los actos legislativos se adopten a propuesta de la Comisión, salvo excepciones previstas en los Tratados. Esa iniciativa explica su papel impulsor del interés general europeo. No significa que apruebe por sí sola las leyes ni que ejerza la jurisdicción del Tribunal de Justicia."
   },
   {
     "id": "t41-p014",
     "tema": 8,
-    "pregunta": "En la Unión Europea, el TJUE se compone de:",
+    "pregunta": "¿Qué estructura jurisdiccional prevé el artículo 19.1 del Tratado de la Unión Europea?",
     "opciones": [
       "Tribunal de Justicia, Tribunal General y tribunales especializados",
       "Consejo, Comisión y Parlamento",
@@ -264,8 +264,8 @@
       "solo del Tribunal de Justicia"
     ],
     "correcta": 0,
-    "explicación": "El tema desglosa así el TJUE.",
-    "referencia": "I.8 · 7.1 Composición y estructura"
+    "referencia": "I.8 · 7.1 Composición y estructura",
+    "explicacion": "El artículo 19.1 TUE prevé el Tribunal de Justicia, el Tribunal General y los tribunales especializados como estructura jurisdiccional posible. Actualmente no hay tribunales especializados en funcionamiento; el Tribunal de la Función Pública fue suprimido en 2016. La pregunta se refiere a la previsión del Tratado, no a enumerar órganos activos hoy."
   },
   {
     "id": "t41-p015",
@@ -278,8 +278,8 @@
       "la selección de funcionarios"
     ],
     "correcta": 0,
-    "explicación": "El tema la presenta como mecanismo clave de uniformidad.",
-    "referencia": "I.8 · 7.2 Funciones y tipos de recursos"
+    "referencia": "I.8 · 7.2 Funciones y tipos de recursos",
+    "explicacion": "La cuestión prejudicial permite a los órganos judiciales nacionales consultar sobre la interpretación de los Tratados o la validez e interpretación de actos de la Unión, conforme al artículo 267 TFUE. Facilita una aplicación uniforme del Derecho europeo. No es un recurso ordinario contra sentencias nacionales ni resuelve por sí misma todo el litigio interno."
   },
   {
     "id": "t41-p016",
@@ -292,8 +292,8 @@
       "ejercer el control político sobre la Comisión"
     ],
     "correcta": 0,
-    "explicación": "El BCE tiene como objetivo principal mantener la estabilidad de precios en la zona euro.",
-    "referencia": "I.8 · 8.1 El Banco Central Europeo (BCE)"
+    "referencia": "I.8 · 8.1 El Banco Central Europeo (BCE)",
+    "explicacion": "El objetivo principal del sistema europeo de bancos centrales es mantener la estabilidad de precios, conforme al artículo 127 TFUE. Sin perjudicarlo, apoya las políticas económicas generales de la Unión. No debe confundirse la política monetaria con aprobar el presupuesto europeo, función que corresponde al Parlamento y al Consejo."
   },
   {
     "id": "t41-p017",
@@ -306,8 +306,8 @@
       "nombra a los comisarios europeos"
     ],
     "correcta": 0,
-    "explicación": "Es un órgano de auditoría externa y, a diferencia del español, no ejerce funciones jurisdiccionales.",
-    "referencia": "I.8 · 8.2 El Tribunal de Cuentas Europeo"
+    "referencia": "I.8 · 8.2 El Tribunal de Cuentas Europeo",
+    "explicacion": "El Tribunal de Cuentas europeo fiscaliza las cuentas y examina la legalidad y regularidad de ingresos y gastos de la Unión, conforme al artículo 287 TFUE. Pese a su nombre, no es un órgano jurisdiccional. No dicta sentencias como el Tribunal de Justicia ni sustituye a las instituciones que aprueban el presupuesto."
   },
   {
     "id": "t41-p018",
@@ -320,8 +320,8 @@
       "Exigirá siempre una norma interna de transposición para desplegar efectos"
     ],
     "correcta": 0,
-    "explicación": "El reglamento de la Unión tiene alcance general, es obligatorio en todos sus elementos y resulta directamente aplicable en los Estados miembros.",
-    "referencia": "TFUE · art. 288"
+    "referencia": "TFUE · art. 288",
+    "explicacion": "El reglamento tiene alcance general, es obligatorio en todos sus elementos y resulta directamente aplicable en los Estados miembros según el artículo 288 TFUE. La directiva obliga respecto del resultado y deja a las autoridades nacionales elegir forma y medios. Recomendaciones y dictámenes, por su parte, no tienen fuerza vinculante."
   },
   {
     "id": "t41-p019",
@@ -334,8 +334,8 @@
       "reservados al Parlamento Europeo"
     ],
     "correcta": 0,
-    "explicación": "No crean obligaciones jurídicas, aunque pueden orientar la interpretación del Derecho nacional.",
-    "referencia": "I.8 · 9.2 Derecho derivado"
+    "referencia": "I.8 · 9.2 Derecho derivado",
+    "explicacion": "Las recomendaciones y los dictámenes no son vinculantes, conforme al artículo 288 TFUE. Pueden orientar actuaciones o expresar valoraciones, pero no imponen por sí mismos obligaciones como los reglamentos, directivas o decisiones. Que una institución los adopte formalmente no los convierte en normas obligatorias de aplicación directa."
   },
   {
     "id": "t41-p020",
@@ -348,8 +348,8 @@
       "puede modificar unilateralmente los Tratados"
     ],
     "correcta": 0,
-    "explicación": "La Unión solo puede actuar en las materias y con el alcance que los Tratados le atribuyen.",
-    "referencia": "I.8 · 10.1 El principio de atribución"
+    "referencia": "I.8 · 10.1 El principio de atribución",
+    "explicacion": "El principio de atribución significa que la Unión solo actúa dentro de las competencias que los Estados le han conferido en los Tratados, según el artículo 5 TUE. Las competencias no atribuidas permanecen en los Estados miembros. La subsidiariedad y proporcionalidad regulan el ejercicio de competencias, pero no crean competencias nuevas."
   },
   {
     "id": "t41-p021",
@@ -362,8 +362,8 @@
       "La unanimidad de los Estados miembros presentes y votantes"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge expresamente la regla del 55% de Estados y del 65% de la población.",
-    "referencia": "I.8 · Resumen esquemático para repasar"
+    "referencia": "I.8 · Resumen esquemático para repasar",
+    "explicacion": "La mayoría cualificada ordinaria del Consejo exige al menos el 55 % de sus miembros, que incluya como mínimo quince, y que representen al menos el 65 % de la población de la Unión. El artículo 16.4 TUE combina Estados y población. No basta cumplir solo uno de los porcentajes ni equivale a unanimidad."
   },
   {
     "id": "t41-p022",
@@ -376,8 +376,8 @@
       "Se convoca de forma obligatoria un referéndum europeo"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que, si prospera la moción de censura, la Comisión en pleno debe dimitir.",
-    "referencia": "I.8 · 6.1 Composición y nombramiento"
+    "referencia": "I.8 · 6.1 Composición y nombramiento",
+    "explicacion": "Si el Parlamento aprueba una moción de censura, la Comisión dimite colectivamente, conforme al artículo 234 TFUE. Se requieren dos tercios de los votos emitidos que representen, además, la mayoría de los miembros del Parlamento. No es una destitución aislada de un comisario ni una moción contra el Consejo Europeo."
   },
   {
     "id": "t41-p023",
@@ -390,13 +390,13 @@
       "El Tribunal de Cuentas"
     ],
     "correcta": 2,
-    "explicación": "El Consejo de Europa no es una institución de la UE; el art. 13 TUE enumera siete instituciones propias de la Unión.",
-    "referencia": "I.8 · 3.1 El marco institucional (art. 13 TUE)"
+    "referencia": "I.8 · 3.1 El marco institucional (art. 13 TUE)",
+    "explicacion": "El Consejo de Europa no es una institución de la Unión Europea: es una organización internacional diferente, vinculada entre otras tareas a la protección de derechos humanos. El artículo 13 TUE sí incluye al Banco Central Europeo y al Tribunal de Cuentas. La similitud del nombre no debe confundirse con el Consejo Europeo."
   },
   {
     "id": "t41-p024",
     "tema": 8,
-    "pregunta": "De acuerdo con el art. 2 TUE, la existencia de una violación grave y persistente de los valores de la Unión por un Estado miembro puede ser constatada por:",
+    "pregunta": "De acuerdo con el artículo 7.2 TUE, la existencia de una violación grave y persistente de los valores de la Unión por un Estado miembro puede ser constatada por:",
     "opciones": [
       "El Parlamento Europeo por mayoría simple",
       "La Comisión Europea por decisión colegiada",
@@ -404,8 +404,8 @@
       "El Comité de las Regiones"
     ],
     "correcta": 2,
-    "explicación": "El tema atribuye expresamente al Consejo Europeo esa función en relación con los valores de la Unión.",
-    "referencia": "I.8 · 3.2 Funciones"
+    "referencia": "I.8 · 3.2 Funciones",
+    "explicacion": "El artículo 7.2 TUE permite al Consejo Europeo constatar una violación grave y persistente de los valores del artículo 2 por un Estado miembro. Exige unanimidad, propuesta de un tercio de los Estados o de la Comisión y aprobación del Parlamento. Es distinto de apreciar un riesgo claro de violación grave, regulado en el apartado primero."
   },
   {
     "id": "t41-p025",
@@ -418,13 +418,13 @@
       "Siete años"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que las elecciones al Parlamento Europeo se celebran cada cinco años.",
-    "referencia": "I.8 · 5.1 Composición y elección"
+    "referencia": "I.8 · 5.1 Composición y elección",
+    "explicacion": "Los diputados del Parlamento Europeo son elegidos por sufragio universal directo, libre y secreto para un mandato de cinco años, conforme al artículo 14.3 TUE. Los ciudadanos eligen a sus representantes, no los gobiernos nacionales. Ese período tampoco coincide con los dos años y medio del Presidente del Consejo Europeo."
   },
   {
     "id": "t41-p026",
     "tema": 8,
-    "pregunta": "En la Unión Europea, la Comisión Europea tiene el monopolio de la:",
+    "pregunta": "Con carácter general, según el artículo 17.2 TUE, la Comisión Europea tiene atribuida la:",
     "opciones": [
       "Potestad jurisdiccional europea",
       "Iniciativa legislativa",
@@ -432,8 +432,8 @@
       "Reforma de los Tratados"
     ],
     "correcta": 1,
-    "explicación": "El tema destaca la posición singular de la Comisión por su monopolio de la iniciativa legislativa.",
-    "referencia": "I.8 · 6.3 Funciones"
+    "referencia": "I.8 · 6.3 Funciones",
+    "explicacion": "La Comisión tiene atribuida la iniciativa legislativa como regla general según el artículo 17.2 TUE, con excepciones expresamente previstas en los Tratados. Presentar una propuesta no equivale a aprobarla definitivamente. El Parlamento y el Consejo ejercen la colegislación ordinaria, mientras la función jurisdiccional pertenece a los órganos del Tribunal de Justicia."
   },
   {
     "id": "t41-p027",
@@ -446,13 +446,13 @@
       "Supervisa la aplicación del Derecho de la Unión bajo el control del TJUE"
     ],
     "correcta": 1,
-    "explicación": "El Consejo comparte con el Parlamento Europeo las funciones legislativa y presupuestaria.",
-    "referencia": "I.8 · 4.3 Funciones"
+    "referencia": "I.8 · 4.3 Funciones",
+    "explicacion": "El Consejo ejerce conjuntamente con el Parlamento Europeo las funciones legislativa y presupuestaria, conforme al artículo 16.1 TUE. Está compuesto por representantes ministeriales de los gobiernos nacionales. El Consejo Europeo fija orientaciones políticas, pero no es el órgano que colegisla con el Parlamento en el procedimiento legislativo ordinario."
   },
   {
     "id": "burgos-i08-hard-01",
     "tema": 8,
-    "pregunta": "¿Qué institución de la Unión Europea NO ejerce función legislativa ordinaria?",
+    "pregunta": "¿Qué institución de la Unión Europea señala expresamente el artículo 15.1 TUE que no ejercerá función legislativa?",
     "opciones": [
       "Consejo Europeo",
       "Parlamento Europeo",
@@ -460,8 +460,8 @@
       "Comisión Europea mediante iniciativa legislativa"
     ],
     "correcta": 0,
-    "explicación": "El Consejo Europeo define orientaciones y prioridades políticas generales, pero no ejerce función legislativa ordinaria.",
-    "referencia": "Tema I.8, Consejo Europeo"
+    "referencia": "Tema I.8, Consejo Europeo",
+    "explicacion": "El artículo 15.1 TUE declara expresamente que el Consejo Europeo no ejercerá función legislativa. Su cometido es impulsar la Unión y fijar las prioridades políticas generales. La iniciativa de la Comisión es otra fase del proceso; no debe confundirse ni con la colegislación del Parlamento y el Consejo ni con esa exclusión expresa."
   },
   {
     "id": "burgos-i08-hard-02",
@@ -474,8 +474,8 @@
       "Principio de autonomía local"
     ],
     "correcta": 0,
-    "explicación": "La Unión solo dispone de las competencias que los Estados miembros le han atribuido en los Tratados.",
-    "referencia": "Tema I.8, Principios de atribución, subsidiariedad y proporcionalidad"
+    "referencia": "Tema I.8, Principios de atribución, subsidiariedad y proporcionalidad",
+    "explicacion": "La atribución delimita qué puede hacer la Unión: únicamente las competencias conferidas por los Estados en los Tratados, según el artículo 5 TUE. No existe una competencia general para actuar en cualquier materia. Subsidiariedad y proporcionalidad ayudan a decidir cómo ejercer competencias ya atribuidas, sin ampliar por sí solas ese ámbito."
   },
   {
     "id": "burgos-i08-hard-03",
@@ -488,8 +488,8 @@
       "Parlamentos nacionales"
     ],
     "correcta": 0,
-    "explicación": "La Comisión Europea impulsa y vela por el interés general de la Unión.",
-    "referencia": "Tema I.8, Sistema institucional de la Unión"
+    "referencia": "Tema I.8, Sistema institucional de la Unión",
+    "explicacion": "La Comisión promueve el interés general de la Unión y adopta iniciativas para ese fin, conforme al artículo 17.1 TUE. Sus miembros deben actuar con independencia de los gobiernos nacionales. El Consejo representa a los gobiernos y el Parlamento a los ciudadanos, por lo que esas funciones no se deben intercambiar."
   },
   {
     "id": "burgos-i08-hard-04",
@@ -502,8 +502,8 @@
       "Solo vincula a la institución que lo dicta"
     ],
     "correcta": 0,
-    "explicación": "El reglamento es obligatorio en todos sus elementos y directamente aplicable; la directiva obliga en cuanto al resultado.",
-    "referencia": "Tema I.8, Derecho de la Unión Europea"
+    "referencia": "Tema I.8, Derecho de la Unión Europea",
+    "explicacion": "El reglamento europeo obliga en todos sus elementos y se aplica directamente en cada Estado miembro, según el artículo 288 TFUE. No se limita a fijar un resultado pendiente de transposición, como la directiva. Tampoco tiene la naturaleza no vinculante de una recomendación o de un dictamen."
   },
   {
     "id": "estado2026-i08-01",
@@ -516,11 +516,11 @@
       "Ejerce la función legislativa junto con la Comisión Europea"
     ],
     "correcta": 0,
-    "explicación": "El Consejo ejerce con el Parlamento Europeo la función legislativa y presupuestaria.",
     "referencia": "Examen Estado 2026 modelo A, pregunta 11; Tema I.8, Consejo de la Unión Europea",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El Consejo de la Unión comparte con el Parlamento las funciones legislativa y presupuestaria del artículo 16.1 TUE. Son atribuciones distintas de las orientaciones generales del Consejo Europeo. La Comisión propone y ejecuta en sus ámbitos, pero no sustituye a ambos órganos en la aprobación de las leyes y del presupuesto."
   },
   {
     "id": "estado2026-i08-02",
@@ -533,11 +533,11 @@
       "Organización municipal"
     ],
     "correcta": 0,
-    "explicación": "El art. 3 TFUE enumera la unión aduanera entre las competencias exclusivas de la Unión.",
     "referencia": "Examen Estado 2026 modelo A, reserva; Tema I.8, competencias de la Unión Europea",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La unión aduanera es una competencia exclusiva de la Unión, enumerada en el artículo 3 TFUE. Solo la Unión puede legislar y adoptar actos vinculantes, salvo habilitación a los Estados o aplicación de actos europeos. No debe confundirse con materias compartidas, como protección de consumidores, medio ambiente o mercado interior."
   },
   {
     "id": "estado2026-i08-03",
@@ -550,11 +550,11 @@
       "El Comité de las Regiones"
     ],
     "correcta": 0,
-    "explicación": "La Comisión promueve el interés general de la Unión y vela por la aplicación del Derecho de la Unión bajo el control del TJUE.",
     "referencia": "Tema I.8, Comisión Europea",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La Comisión vela por la aplicación de los Tratados y del Derecho derivado bajo el control del Tribunal de Justicia, conforme al artículo 17.1 TUE. Puede actuar frente al incumplimiento de un Estado mediante los procedimientos correspondientes. Vigilar el cumplimiento no le atribuye la potestad de dictar sentencias ni la convierte en gobierno nacional."
   },
   {
     "id": "realstyle-i08-01",
@@ -568,7 +568,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · art. 13 TUE",
-    "explicación": "El art. 13 TUE enumera, entre otras, el Parlamento Europeo, el Consejo Europeo, el Consejo, la Comisión, el TJUE, el BCE y el Tribunal de Cuentas."
+    "explicacion": "El Tribunal de Cuentas figura entre las siete instituciones del artículo 13 TUE y se encarga del control externo de las cuentas europeas. El Comité de las Regiones, el Banco Europeo de Inversiones y el Defensor del Pueblo tienen otras posiciones institucionales. Ser un órgano europeo relevante no implica formar parte de esa lista cerrada."
   },
   {
     "id": "realstyle-i08-02",
@@ -582,7 +582,7 @@
     ],
     "correcta": 0,
     "referencia": "Revisión test reales · mayoría cualificada del Consejo",
-    "explicación": "La regla general combina doble mayoría: Estados miembros y población representada."
+    "explicacion": "La regla ordinaria de mayoría cualificada combina al menos el 55 % de los miembros del Consejo y el 65 % de la población de la Unión, con un mínimo de quince miembros. Se recoge en el artículo 16.4 TUE. Un porcentaje de Estados sin el umbral poblacional, o al revés, no satisface la regla completa."
   },
   {
     "id": "realstyle-i08-03",
@@ -596,7 +596,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · control parlamentario de la Comisión",
-    "explicación": "La moción de censura aprobada obliga a la dimisión colectiva de la Comisión."
+    "explicacion": "La moción de censura aprobada por el Parlamento obliga a la Comisión a dimitir colectivamente, conforme al artículo 234 TFUE. El Alto Representante dimite de las funciones que ejerce dentro de ella. La responsabilidad política es conjunta, por lo que no se limita al Presidente ni provoca automáticamente la dimisión del Consejo."
   },
   {
     "tema": 8,
@@ -610,10 +610,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 4",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La protección de los consumidores es una competencia compartida entre la Unión y los Estados miembros, según el artículo 4.2.f TFUE. Los Estados ejercen su competencia en la medida en que la Unión no la haya ejercido o haya dejado de ejercerla. No pertenece a la lista de competencias exclusivas como la unión aduanera."
   },
   {
     "tema": 8,
@@ -627,10 +627,10 @@
     ],
     "correcta": 2,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 7",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El Presidente del Consejo Europeo es elegido por el propio Consejo Europeo mediante mayoría cualificada para dos años y medio, renovables una sola vez. Así lo dispone el artículo 15.5 TUE. No lo elige directamente la ciudadanía ni está sometido a la presidencia semestral rotatoria del Consejo de la Unión."
   },
   {
     "tema": 8,
@@ -644,10 +644,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 8",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La representación en el Parlamento Europeo es decrecientemente proporcional: cada Estado tiene al menos seis escaños y ninguno más de noventa y seis, conforme al artículo 14.2 TUE. Los Estados grandes tienen más diputados, pero no una proporción idéntica por habitante. No se atribuye un número igual de escaños a todos los Estados."
   },
   {
     "id": "burgos-i08-deep-01",
@@ -661,10 +661,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Consejo Europeo",
-    "explicación": "El Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno, su Presidente y el Presidente de la Comisión. El Alto Representante participa en sus trabajos, pero no integra esa composición.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El Alto Representante participa en los trabajos del Consejo Europeo, pero el artículo 15.2 TUE no lo incluye entre sus miembros. Estos son los jefes de Estado o de Gobierno, el Presidente del Consejo Europeo y el de la Comisión. Participar en las reuniones no equivale a tener la misma condición institucional."
   },
   {
     "id": "burgos-i08-deep-02",
@@ -678,10 +678,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Consejo de la Unión Europea",
-    "explicación": "La presidencia ordinaria se ejerce mediante grupos predeterminados de tres Estados durante dieciocho meses, con un turno de seis meses para cada Estado. Asuntos Exteriores constituye la excepción y la preside el Alto Representante.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La presidencia del Consejo, salvo Asuntos Exteriores, se organiza en grupos de tres Estados durante dieciocho meses, correspondiendo en principio seis meses a cada uno. El artículo 16.9 TUE prevé la rotación en igualdad. Asuntos Exteriores lo preside el Alto Representante, y la presidencia del Consejo Europeo sigue un régimen distinto."
   },
   {
     "id": "burgos-i08-deep-03",
@@ -695,10 +695,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Consejo de la Unión Europea",
-    "explicación": "La doble mayoría ordinaria exige el 55 % de los Estados, que representen el 65 % de la población. La minoría de bloqueo debe estar formada por al menos cuatro miembros; de lo contrario, se considera alcanzada la mayoría cualificada.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La minoría de bloqueo debe incluir al menos cuatro miembros del Consejo en la regla ordinaria del artículo 16.4 TUE. Este requisito evita que tres Estados muy poblados bloqueen por sí solos una decisión mediante el porcentaje de población. No debe confundirse la minoría necesaria para bloquear con la mayoría exigida para aprobar."
   },
   {
     "id": "burgos-i08-deep-04",
@@ -712,10 +712,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Comisión Europea",
-    "explicación": "El Consejo Europeo propone al candidato teniendo en cuenta las elecciones europeas y el Parlamento Europeo lo elige por mayoría de sus miembros.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El Consejo Europeo propone por mayoría cualificada un candidato a Presidente de la Comisión, teniendo en cuenta las elecciones europeas; el Parlamento lo elige por mayoría de sus miembros. El artículo 17.7 TUE distingue propuesta y elección. Ni la Comisión saliente ni un gobierno nacional pueden efectuar por sí solos ese nombramiento."
   },
   {
     "id": "burgos-i08-deep-05",
@@ -729,10 +729,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Tribunal de Justicia de la Unión Europea",
-    "explicación": "El artículo 267 TFUE distingue entre la facultad de los órganos no supremos y la obligación de plantear la cuestión para los órganos cuyas decisiones no sean susceptibles de recurso judicial interno, con las excepciones jurisprudenciales aplicables.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "Un órgano judicial nacional de última instancia debe plantear la cuestión prejudicial cuando una interpretación necesaria del Derecho europeo presenta dudas, conforme al artículo 267 TFUE. La jurisprudencia admite excepciones como la cuestión irrelevante, la interpretación ya aclarada o la ausencia de duda razonable. No basta la preferencia del juez por evitar la consulta."
   },
   {
     "id": "burgos-i08-deep-06",
@@ -746,10 +746,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Actos jurídicos de la Unión",
-    "explicación": "Las recomendaciones y los dictámenes no tienen fuerza vinculante. Reglamento, directiva y decisión sí son actos vinculantes, con efectos distintos.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "Las recomendaciones no tienen fuerza vinculante según el artículo 288 TFUE, aunque pueden orientar la actuación y aportar criterios interpretativos. No imponen por sí solas una obligación jurídica como un reglamento o una decisión. Su denominación debe distinguirse de las directivas, que sí obligan a alcanzar el resultado previsto."
   },
   {
     "id": "burgos-i08-deep-07",
@@ -763,10 +763,10 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Tipos de competencias de la Unión",
-    "explicación": "El artículo 4 TFUE incluye la protección de los consumidores entre las competencias compartidas.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La protección de los consumidores aparece entre las competencias compartidas del artículo 4 TFUE. La Unión y los Estados pueden actuar conforme a las reglas sobre ejercicio de esas competencias. Se diferencia de la unión aduanera, que es exclusiva de la Unión, y de las materias de mero apoyo o coordinación."
   },
   {
     "id": "burgos-i08-deep-08",
@@ -780,9 +780,9 @@
     ],
     "correcta": 0,
     "referencia": "Tema I.8 · Sistema institucional de la Unión",
-    "explicación": "El artículo 13.4 TUE configura ambos como órganos consultivos que asisten al Parlamento, al Consejo y a la Comisión; no son instituciones del listado de siete.",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El Comité Económico y Social y el Comité de las Regiones asisten al Parlamento, al Consejo y a la Comisión mediante funciones consultivas, según el artículo 13.4 TUE. Expresan intereses socioeconómicos y territoriales, respectivamente. No son colegisladores ni están incluidos entre las siete instituciones enumeradas en el apartado primero."
   }
 ]
