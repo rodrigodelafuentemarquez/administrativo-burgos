@@ -11,16 +11,16 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 14",
-    "explicación": "La notificación debe cursarse en el plazo de diez días desde que el acto ha sido dictado.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La notificación debe cursarse en el plazo de diez días desde que el acto ha sido dictado. El artículo 40.2 de la Ley 39/2015 fija diez días desde que se dicta el acto para cursar la notificación; no es el plazo para resolver el procedimiento ni un mes desde la resolución."
   },
   {
     "id": "pdf-2025-burgos-q13",
     "tema": 11,
-    "pregunta": "Según La Ley 39/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, serán motivados con sucinta referencia de hechos y fundamentos de derecho:",
+    "pregunta": "Según el artículo 35.1.d de la Ley 39/2015, ¿qué acuerdos deben motivarse con sucinta referencia de hechos y fundamentos de derecho?",
     "opciones": [
       "Los acuerdos de suspensión de actos, cualquiera que sea el motivo de ésta, así como la adopción de medidas provisionales previstas en el artículo 56.",
       "Los actos que admitan pruebas propuestas por los interesados.",
@@ -29,11 +29,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 13",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta. El artículo 35.1.d incluye literalmente acuerdos de suspensión y medidas provisionales; la letra i también contempla actos discrecionales y otros supuestos. Se concreta la pregunta para que tenga una sola respuesta."
   },
   {
     "id": "pdf-2025-burgos-q15",
@@ -47,11 +47,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 15",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta. El artículo 47.1.g LPAC añade los supuestos que una ley establezca expresamente; las demás opciones alteran el alcance de la incompetencia o la clase de derecho protegido."
   },
   {
     "id": "t16-p001",
@@ -64,8 +64,8 @@
       "una actuación material sin declaración jurídica"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define como declaración de voluntad, deseo, conocimiento o juicio con efectos jurídicos.",
-    "referencia": "II.2 · 1.1 Definición"
+    "referencia": "II.2 · 1.1 Definición",
+    "explicacion": "El tema lo define como declaración de voluntad, deseo, conocimiento o juicio con efectos jurídicos. La unilateralidad la distingue del contrato, que requiere acuerdo entre partes; tampoco es una disposición general ni una mera actuación material sin declaración con efectos jurídicos."
   },
   {
     "id": "t16-p002",
@@ -78,8 +78,8 @@
       "El reglamento emana de la Administración local y el acto del Parlamento"
     ],
     "correcta": 1,
-    "explicación": "El tema presenta el reglamento como norma general y el acto como decisión singular.",
-    "referencia": "II.2 · 1.2 Distinción con otras categorías"
+    "referencia": "II.2 · 1.2 Distinción con otras categorías",
+    "explicacion": "El tema presenta el reglamento como norma general y el acto como decisión singular. El reglamento crea una norma general y abstracta para una pluralidad de casos; el acto resuelve una situación concreta. La diferencia no depende del nivel territorial del órgano que lo dicta."
   },
   {
     "id": "t16-p003",
@@ -92,8 +92,8 @@
       "solo pueden ser verbales"
     ],
     "correcta": 1,
-    "explicación": "El tema los identifica con licencias, subvenciones o autorizaciones.",
-    "referencia": "II.2 · 2.1 Por sus efectos sobre los destinatarios"
+    "referencia": "II.2 · 2.1 Por sus efectos sobre los destinatarios",
+    "explicacion": "El tema los identifica con licencias, subvenciones o autorizaciones. Una licencia o una autorización suele ser favorable porque amplía las posibilidades jurídicas del destinatario; eso no implica que nunca pueda recurrirse ni que deba expresarse verbalmente. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p004",
@@ -106,8 +106,8 @@
       "Tácito"
     ],
     "correcta": 1,
-    "explicación": "El tema distingue actos reglados y discrecionales.",
-    "referencia": "II.2 · 2.3 Por su relación con el ordenamiento"
+    "referencia": "II.2 · 2.3 Por su relación con el ordenamiento",
+    "explicacion": "El tema distingue actos reglados y discrecionales. La discrecionalidad aparece cuando la norma permite elegir entre varias soluciones legales; no elimina límites ni convierte el acto en nulo o tácito por ese solo hecho. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p005",
@@ -120,8 +120,8 @@
       "no pueden impugnarse nunca"
     ],
     "correcta": 1,
-    "explicación": "El tema enumera esos supuestos para la impugnación autónoma.",
-    "referencia": "II.2 · 2.4 Por su posición en el procedimiento"
+    "referencia": "II.2 · 2.4 Por su posición en el procedimiento",
+    "explicacion": "El tema enumera esos supuestos para la impugnación autónoma. Son recurribles autónomamente si deciden directa o indirectamente el fondo, impiden continuar, causan indefensión o perjuicio irreparable, según el artículo 112.1 LPAC; no todo trámite lo es. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p006",
@@ -134,8 +134,8 @@
       "Qué lo firme el interesado"
     ],
     "correcta": 1,
-    "explicación": "El tema menciona competencia e investidura regular del titular.",
-    "referencia": "II.2 · 3.1 Elementos subjetivos"
+    "referencia": "II.2 · 3.1 Elementos subjetivos",
+    "explicacion": "El tema menciona competencia e investidura regular del titular. La competencia debe corresponder al órgano que actúa y la persona titular debe ocupar válidamente el puesto; la firma de un particular o un funcionario cualquiera no suple ambos requisitos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p007",
@@ -148,8 +148,8 @@
       "lo pida cualquier tercero"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge literalmente la regla general y la excepción.",
-    "referencia": "II.2 · 3.3 Elementos formales"
+    "referencia": "II.2 · 3.3 Elementos formales",
+    "explicacion": "El tema recoge literalmente la regla general y la excepción. El artículo 36.1 LPAC permite otra forma si la naturaleza del acto lo exige o permite; la excepción no depende de la voluntad libre ni de que cualquier tercero la solicite."
   },
   {
     "id": "t16-p008",
@@ -162,8 +162,8 @@
       "Solo las disposiciones administrativas de carácter general"
     ],
     "correcta": 1,
-    "explicación": "La LPACAP exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legítimos.",
-    "referencia": "Ley 39/2015 · art. 35"
+    "referencia": "Ley 39/2015 · art. 35",
+    "explicacion": "La LPACAP exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legítimos. El artículo 35 LPAC exige motivar actos limitativos y otros supuestos enumerados; una licencia favorable no requiere siempre motivación por esa sola condición, y las disposiciones generales tienen su propio régimen."
   },
   {
     "id": "t16-p009",
@@ -176,8 +176,8 @@
       "solo ejecutivos tras notificación personal"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge el principio de ejecutividad del art. 38 LPACAP.",
-    "referencia": "II.2 · 4.1 El principio de ejecutividad"
+    "referencia": "II.2 · 4.1 El principio de ejecutividad",
+    "explicacion": "El tema recoge el principio de ejecutividad del art. 38 LPACAP. La ejecutividad es la regla general del artículo 38 LPAC, con excepciones legales como suspensión o actos que requieren aprobación; no significa que el acto sea irrevocable ni que nunca deba notificarse."
   },
   {
     "id": "t16-p010",
@@ -190,8 +190,8 @@
       "30 días"
     ],
     "correcta": 1,
-    "explicación": "El tema fija 10 días.",
-    "referencia": "II.2 · 4.2 La notificación"
+    "referencia": "II.2 · 4.2 La notificación",
+    "explicacion": "El tema fija 10 días. El plazo se refiere a cursar la notificación, cuyo contenido y práctica se regulan separadamente; no equivale al plazo de cinco, quince o treinta días para otros trámites. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p011",
@@ -204,8 +204,8 @@
       "sin informe facultativo"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge esa causa tasada de nulidad.",
-    "referencia": "II.2 · 5.1 Nulidad de pleno derecho (art. 47 LPACAP)"
+    "referencia": "II.2 · 5.1 Nulidad de pleno derecho (art. 47 LPACAP)",
+    "explicacion": "El tema recoge esa causa tasada de nulidad. El artículo 47.1.b LPAC contempla la incompetencia manifiesta por materia o territorio; un defecto jerárquico suele determinar anulabilidad si no concurre otra causa legal de nulidad. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p012",
@@ -218,8 +218,8 @@
       "el acto carece de motivación pero nunca causa indefensión"
     ],
     "correcta": 0,
-    "explicación": "El tema define la anulabilidad como infracción del ordenamiento no constitutiva de nulidad.",
-    "referencia": "II.2 · 5.2 Anulabilidad (art. 48 LPACAP)"
+    "referencia": "II.2 · 5.2 Anulabilidad (art. 48 LPACAP)",
+    "explicacion": "El tema define la anulabilidad como infracción del ordenamiento no constitutiva de nulidad. El artículo 48.1 LPAC convierte en anulable cualquier infracción que no alcance una causa tasada de nulidad; los actos favorables no quedan exentos de control por beneficiar al interesado."
   },
   {
     "id": "t16-p013",
@@ -232,8 +232,8 @@
       "Lesividad"
     ],
     "correcta": 0,
-    "explicación": "El tema atribuye a la convalidación la subsanación de actos anulables.",
-    "referencia": "II.2 · 5.3 La convalidación (art. 52 LPACAP)"
+    "referencia": "II.2 · 5.3 La convalidación (art. 52 LPACAP)",
+    "explicacion": "El tema atribuye a la convalidación la subsanación de actos anulables. El artículo 52 LPAC permite convalidar actos anulables subsanando el vicio; revocación, rectificación y declaración de lesividad tienen presupuestos y efectos distintos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t16-p016",
@@ -246,8 +246,8 @@
       "Unicamente tras su convalidación expresa"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge la regla general de eficacia desde la fecha del acto, salvo que el propio acto disponga otra cosa.",
-    "referencia": "II.2 · 4. Eficacia de los actos administrativos"
+    "referencia": "II.2 · 4. Eficacia de los actos administrativos",
+    "explicacion": "El tema recoge la regla general de eficacia desde la fecha del acto, salvo que el propio acto disponga otra cosa. La regla de eficacia desde la fecha del acto admite excepciones legales, incluida la notificación cuando sea requisito de eficacia; no exige publicación universal ni aceptación del destinatario."
   },
   {
     "id": "t16-p017",
@@ -260,8 +260,8 @@
       "Las actuaciones materiales de ejecución sin contenido decisorio"
     ],
     "correcta": 0,
-    "explicación": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivación obligatoria.",
-    "referencia": "II.2 · 3.3 Elementos formales"
+    "referencia": "II.2 · 3.3 Elementos formales",
+    "explicacion": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivación obligatoria. El artículo 35.1.a LPAC incluye los actos que limiten derechos subjetivos o intereses legítimos; no exige motivar todo acto favorable, pero sí los restantes supuestos que enumera el precepto."
   },
   {
     "id": "t16-p018",
@@ -274,8 +274,8 @@
       "Unicamente por comparecencia en la sede electrónica"
     ],
     "correcta": 1,
-    "explicación": "La LPACAP impone en estos supuestos la publicación del anuncio en el BOE.",
-    "referencia": "II.2 · 5.2 La notificación por anuncio"
+    "referencia": "II.2 · 5.2 La notificación por anuncio",
+    "explicacion": "La LPACAP impone en estos supuestos la publicación del anuncio en el BOE. El artículo 44 LPAC remite a anuncio en el Boletín Oficial del Estado cuando la notificación resulte infructuosa; el tablón municipal no sustituye ese medio general de publicación edictal."
   },
   {
     "id": "t16-p020",
@@ -288,8 +288,8 @@
       "Que incurran en cualquier infracción del ordenamiento jurídico, incluida la desviación de poder"
     ],
     "correcta": 3,
-    "explicación": "La anulabilidad comprende cualquier infracción del ordenamiento jurídico que no sea causa de nulidad de pleno derecho, incluida la desviación de poder.",
-    "referencia": "II.2 · 5.2 La anulabilidad (art. 48 LPACAP)"
+    "referencia": "II.2 · 5.2 La anulabilidad (art. 48 LPACAP)",
+    "explicacion": "La anulabilidad comprende cualquier infracción del ordenamiento jurídico que no sea causa de nulidad de pleno derecho, incluida la desviación de poder. La desviación de poder aparece expresamente en el artículo 48 como anulabilidad; la incompetencia manifiesta, el contenido imposible y la lesión de derechos de amparo están entre causas de nulidad."
   },
   {
     "id": "t31-p011",
@@ -302,8 +302,8 @@
       "la orden del día"
     ],
     "correcta": 0,
-    "explicación": "El tema diferencia notificación y comunicación.",
-    "referencia": "II.2 · 5.1 Concepto y distinción"
+    "referencia": "II.2 · 5.1 Concepto y distinción",
+    "explicacion": "El tema diferencia notificación y comunicación. La notificación permite conocer el contenido del acto y sus efectos para el interesado; no es la resolución misma ni una comunicación de datos presupuestarios o de agenda. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t31-p012",
@@ -316,8 +316,8 @@
       "solo la firma del notificante"
     ],
     "correcta": 0,
-    "explicación": "El tema exige texto íntegro, recursos y plazos.",
-    "referencia": "II.2 · 5.2.3 Contenido de la notificación"
+    "referencia": "II.2 · 5.2.3 Contenido de la notificación",
+    "explicacion": "El tema exige texto íntegro, recursos y plazos. El artículo 40.2 LPAC exige texto íntegro, indicación de si pone fin a la vía administrativa y recursos, órgano y plazo; no requiere que el destinatario acepte la resolución. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t31-p013",
@@ -330,8 +330,8 @@
       "caducada sin efectos"
     ],
     "correcta": 0,
-    "explicación": "El tema fija el rechazo por inactividad.",
-    "referencia": "II.2 · 5.2.4 Medios de notificación"
+    "referencia": "II.2 · 5.2.4 Medios de notificación",
+    "explicacion": "El tema fija el rechazo por inactividad. El artículo 43.2 LPAC considera rechazada la notificación electrónica tras diez días naturales sin acceso, salvo imposibilidad técnica o material acreditada; el aviso por correo no sustituye la puesta a disposición. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t31-p014",
@@ -344,8 +344,8 @@
       "Diario Oficial de la Unión Europea"
     ],
     "correcta": 0,
-    "explicación": "El tema identifica el BOE/TEU como cauce edictal.",
-    "referencia": "II.2 · 5.2.5 Notificación infructuosa y notificación edictal"
+    "referencia": "II.2 · 5.2.5 Notificación infructuosa y notificación edictal",
+    "explicacion": "El tema identifica el BOE/TEU como cauce edictal. Cuando se desconoce el destinatario o no puede practicarse la notificación, el artículo 44 ordena publicación en el BOE; esa publicación edictal se realiza en el Tablón Edictal Único. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "estado2026-extra-t11-01",
@@ -358,11 +358,11 @@
       "Lesionen derechos susceptibles de amparo constitucional"
     ],
     "correcta": 0,
-    "explicación": "La regla general de anulabilidad comprende cualquier infracción del ordenamiento jurídico, incluida la desviación de poder; las otras opciones son causas típicas de nulidad de pleno derecho.",
     "referencia": "Examen Estado 2026, art. 48 LPACAP; Tema II.2, validez de los actos",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La regla general de anulabilidad comprende cualquier infracción del ordenamiento jurídico, incluida la desviación de poder; las otras opciones son causas típicas de nulidad de pleno derecho. La desviación de poder es el ejercicio de potestades para fines distintos de los fijados por el ordenamiento y constituye anulabilidad; las otras alternativas encajan en causas de nulidad del artículo 47."
   },
   {
     "id": "estado2026-extra-t11-02",
@@ -375,11 +375,11 @@
       "Acto dictado prescindiendo total y absolutamente del procedimiento"
     ],
     "correcta": 0,
-    "explicación": "La desviación de poder se cita expresamente en el art. 48 LPACAP como supuesto de anulabilidad.",
     "referencia": "Tema II.2, invalidez del acto administrativo",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La desviación de poder se cita expresamente en el art. 48 LPACAP como supuesto de anulabilidad. El artículo 48 incluye desviación de poder entre las infracciones que causan anulabilidad; la incompetencia manifiesta, el contenido imposible y la omisión total del procedimiento pueden producir nulidad."
   },
   {
     "tema": 11,
@@ -393,10 +393,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 13",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta. El artículo 36.2 atribuye la constancia escrita al órgano inferior o funcionario que recibe el acto oral, indicando de quién procede; no al titular que lo dicta en todos los casos."
   },
   {
     "id": "burgos-ii02-deep-01",
@@ -409,8 +409,8 @@
       "Toda licencia favorable, aunque la ley no lo exija."
     ],
     "correcta": 1,
-    "explicación": "El artículo 35 incluye entre los supuestos de motivación los acuerdos de aplicación de la tramitación de urgencia.",
-    "referencia": "II.2 · 5. Motivación"
+    "referencia": "II.2 · 5. Motivación",
+    "explicacion": "El artículo 35 incluye entre los supuestos de motivación los acuerdos de aplicación de la tramitación de urgencia. La urgencia afecta a la tramitación y puede reducir plazos, por lo que el acuerdo debe motivarse conforme al artículo 35.1.e; admitir prueba o conceder una licencia no es siempre motivable por sí solo."
   },
   {
     "id": "burgos-ii02-deep-02",
@@ -423,8 +423,8 @@
       "Desde que el interesado los acepta expresamente."
     ],
     "correcta": 0,
-    "explicación": "El artículo 39.1 LPAC establece la presunción de validez y la eficacia desde la fecha del acto, con las excepciones legales.",
-    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión"
+    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión",
+    "explicacion": "El artículo 39.1 LPAC establece la presunción de validez y la eficacia desde la fecha del acto, con las excepciones legales. El acto se presume válido y produce efectos desde la fecha en que se dicta, salvo previsión distinta, según el artículo 39.1; publicación o aceptación no son requisitos universales."
   },
   {
     "id": "burgos-ii02-deep-03",
@@ -437,8 +437,8 @@
       "La retroactividad se acuerde verbalmente."
     ],
     "correcta": 1,
-    "explicación": "El artículo 39.3 LPAC admite excepcionalmente la retroactividad favorable bajo esas condiciones.",
-    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión"
+    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión",
+    "explicacion": "El artículo 39.3 LPAC admite excepcionalmente la retroactividad favorable bajo esas condiciones. El artículo 39.3 LPAC permite retroactividad favorable excepcional si los presupuestos de hecho ya existían y no se dañan derechos de terceros; no basta con acordarla verbalmente. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "burgos-ii02-deep-04",
@@ -451,8 +451,8 @@
       "La aceptación expresa del interesado."
     ],
     "correcta": 3,
-    "explicación": "La notificación debe informar del acto y de los recursos, pero no necesita la aceptación expresa del destinatario.",
-    "referencia": "II.2 · 7. Notificación y publicación"
+    "referencia": "II.2 · 7. Notificación y publicación",
+    "explicacion": "La notificación debe informar del acto y de los recursos, pero no necesita la aceptación expresa del destinatario. La notificación comunica el acto y los medios de impugnación; la aceptación del interesado no es requisito, pues el acto despliega sus efectos según la ley aunque discrepe."
   },
   {
     "id": "burgos-ii02-deep-05",
@@ -465,8 +465,8 @@
       "Convertida en notificación en papel."
     ],
     "correcta": 0,
-    "explicación": "El artículo 43.2 LPAC considera rechazada la notificación electrónica no abierta en diez días naturales, con la excepción legal.",
-    "referencia": "II.2 · 7.2. Medios electrónicos y papel"
+    "referencia": "II.2 · 7.2. Medios electrónicos y papel",
+    "explicacion": "El artículo 43.2 LPAC considera rechazada la notificación electrónica no abierta en diez días naturales, con la excepción legal. Transcurridos diez días naturales desde su puesta a disposición, se entiende rechazada salvo imposibilidad técnica o material; el simple aviso no inicia este cómputo."
   },
   {
     "id": "burgos-ii02-deep-06",
@@ -479,8 +479,8 @@
       "La incompetencia manifiesta por razón del territorio."
     ],
     "correcta": 0,
-    "explicación": "La desviación de poder está incluida expresamente en el artículo 48 LPAC; las otras opciones son causas de nulidad del artículo 47.",
-    "referencia": "II.2 · 8. Validez"
+    "referencia": "II.2 · 8. Validez",
+    "explicacion": "La desviación de poder está incluida expresamente en el artículo 48 LPAC; las otras opciones son causas de nulidad del artículo 47. El artículo 48.1 LPAC tipifica desviación de poder como anulabilidad; contenido imposible, lesión de derechos amparables e incompetencia manifiesta son causas de nulidad del artículo 47."
   },
   {
     "id": "burgos-ii02-deep-07",
@@ -493,8 +493,8 @@
       "El interesado no está de acuerdo con la resolución."
     ],
     "correcta": 1,
-    "explicación": "El artículo 48.2 LPAC limita la invalidez por forma a los defectos esenciales o causantes de indefensión.",
-    "referencia": "II.2 · 8.2. Anulabilidad"
+    "referencia": "II.2 · 8.2. Anulabilidad",
+    "explicacion": "El artículo 48.2 LPAC limita la invalidez por forma a los defectos esenciales o causantes de indefensión. El defecto formal solo invalida si faltan requisitos indispensables para el fin o causa indefensión, conforme al artículo 48.2; un error inocuo no basta para anular."
   },
   {
     "id": "burgos-ii02-deep-08",
@@ -507,8 +507,8 @@
       "Solo vincula al órgano que la firma."
     ],
     "correcta": 1,
-    "explicación": "El artículo 37 LPAC impide que una resolución singular exceptúe la aplicación de una disposición general.",
-    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión"
+    "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión",
+    "explicacion": "El artículo 37 LPAC impide que una resolución singular exceptúe la aplicación de una disposición general. El artículo 37 LPAC prohíbe dispensar singularmente de una disposición general, incluso a un órgano superior; cambiar la regla requiere modificarla mediante el procedimiento normativo debido."
   },
   {
     "id": "burgos-ii02-deep-09",
@@ -521,8 +521,8 @@
       "La motivación sustituye siempre a la firma."
     ],
     "correcta": 0,
-    "explicación": "Son elementos distintos del régimen formal y de eficacia del acto administrativo.",
-    "referencia": "II.2 · 4. Elementos y requisitos de producción"
+    "referencia": "II.2 · 4. Elementos y requisitos de producción",
+    "explicacion": "Son elementos distintos del régimen formal y de eficacia del acto administrativo. La firma identifica quién emite el acto, la motivación expone razones y la notificación lo comunica; pueden relacionarse, pero cumplen funciones distintas en la formación y eficacia. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "burgos-ii02-deep-10",
@@ -535,7 +535,7 @@
       "Suspender automáticamente la ejecución de todo acto recurrido."
     ],
     "correcta": 0,
-    "explicación": "La convalidación subsana vicios de anulabilidad; no sana las causas de nulidad de pleno derecho.",
-    "referencia": "II.2 · 8.3. Técnicas de conservación de la actuación"
+    "referencia": "II.2 · 8.3. Técnicas de conservación de la actuación",
+    "explicacion": "La convalidación subsana vicios de anulabilidad; no sana las causas de nulidad de pleno derecho. La convalidación subsana vicios de anulabilidad conforme al artículo 52 LPAC; no permite sanar un acto nulo de pleno derecho ni reemplaza la revisión de oficio."
   }
 ]

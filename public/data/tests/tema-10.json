@@ -11,11 +11,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 24",
-    "explicación": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El artículo 1.1 del Código Civil enumera la ley, la costumbre y los principios generales del derecho. La Constitución y los reglamentos también integran el ordenamiento, pero no son los tres elementos enumerados literalmente por el artículo 1.1; las fuentes civiles son ley, costumbre y principios generales."
   },
   {
     "id": "pdf-2023-burgos-q25",
@@ -29,11 +29,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 25",
-    "explicación": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "El decreto-ley solo puede dictarse en caso de extraordinaria y urgente necesidad. Además del presupuesto habilitante, el decreto-ley está sujeto a límites materiales y al control del Congreso dentro de treinta días; no es una autorización general para legislar sin supervisión."
   },
   {
     "id": "pdf-2025-burgos-q30",
@@ -47,11 +47,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 30",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta. El artículo 147.3 CE dispone que la reforma estatutaria se ajuste al procedimiento del propio Estatuto y requiera aprobación por ley orgánica; las otras materias se regulan por cauces distintos."
   },
   {
     "id": "t11-p001",
@@ -64,8 +64,8 @@
       "Solo el procedimiento penal"
     ],
     "correcta": 1,
-    "explicación": "El tema define el Derecho Administrativo como la rama que regula organización, funcionamiento, potestades y actividad administrativa.",
-    "referencia": "II.1 · 1.1 Concepto"
+    "referencia": "II.1 · 1.1 Concepto",
+    "explicacion": "El tema define el Derecho Administrativo como la rama que regula organización, funcionamiento, potestades y actividad administrativa. Por eso quedan fuera las relaciones puramente privadas, los contratos privados aislados y el proceso penal, aunque puedan relacionarse con una Administración en ciertos casos."
   },
   {
     "id": "t11-p002",
@@ -78,8 +78,8 @@
       "Penal"
     ],
     "correcta": 1,
-    "explicación": "El tema indica expresamente que el Derecho Administrativo es estatutario.",
-    "referencia": "II.1 · 1.1 Concepto"
+    "referencia": "II.1 · 1.1 Concepto",
+    "explicacion": "El tema indica expresamente que el Derecho Administrativo es estatutario. “Estatutario” significa que regula una posición jurídica propia de las Administraciones y sus relaciones con las personas; civil, mercantil y penal designan ramas con objeto distinto. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t11-p003",
@@ -92,8 +92,8 @@
       "la discrecionalidad política"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge el principio de legalidad proclamado en los arts. 9.1 y 103.1 CE.",
-    "referencia": "II.1 · 1.2 El principio de legalidad"
+    "referencia": "II.1 · 1.2 El principio de legalidad",
+    "explicacion": "El tema recoge el principio de legalidad proclamado en los arts. 9.1 y 103.1 CE. El artículo 103.1 CE exige actuar con sometimiento pleno a la ley y al Derecho; las circulares no sustituyen la ley y la discrecionalidad nunca permite apartarse de ella."
   },
   {
     "id": "t11-p004",
@@ -106,8 +106,8 @@
       "Quinto rango"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa la Constitución en la cúspide del orden jerárquico.",
-    "referencia": "II.1 · 2.2 La jerarquía normativa"
+    "referencia": "II.1 · 2.2 La jerarquía normativa",
+    "explicacion": "El tema sitúa la Constitución en la cúspide del orden jerárquico. La Constitución encabeza el ordenamiento y condiciona la validez de las normas inferiores; esa posición explica por qué no puede tratarse como una norma ordinaria de rango secundario. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t11-p005",
@@ -120,8 +120,8 @@
       "Sexto"
     ],
     "correcta": 2,
-    "explicación": "El esquema del tema sitúa los reglamentos por debajo de leyes y normas con rango de ley.",
-    "referencia": "II.1 · 2.2 La jerarquía normativa"
+    "referencia": "II.1 · 2.2 La jerarquía normativa",
+    "explicacion": "El esquema del tema sitúa los reglamentos por debajo de leyes y normas con rango de ley. El rango concreto de una disposición depende de su forma y habilitación: el reglamento queda subordinado a la ley y no puede modificarla, aunque exista variedad de normas reglamentarias."
   },
   {
     "id": "t11-p006",
@@ -134,8 +134,8 @@
       "No vincula a los poderes públicos"
     ],
     "correcta": 1,
-    "explicación": "El tema subraya la eficacia directa de la Constitución.",
-    "referencia": "II.1 · 3.2 Eficacia directa"
+    "referencia": "II.1 · 3.2 Eficacia directa",
+    "explicacion": "El tema subraya la eficacia directa de la Constitución. La Constitución vincula a ciudadanos y poderes públicos conforme a su artículo 9.1; algunas previsiones requieren desarrollo para su ejercicio, pero no toda su eficacia depende de una ley posterior. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t11-p007",
@@ -148,8 +148,8 @@
       "conveniencia política del Gobierno"
     ],
     "correcta": 1,
-    "explicación": "El tema identifica la extraordinaria y urgente necesidad como presupuesto del decreto-ley.",
-    "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)"
+    "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)",
+    "explicacion": "El tema identifica la extraordinaria y urgente necesidad como presupuesto del decreto-ley. La urgencia debe ser extraordinaria y estar justificada; el interés ordinario o la mera conveniencia política no bastan, y el decreto-ley tampoco puede invadir las materias excluidas por el artículo 86.1."
   },
   {
     "id": "t11-p008",
@@ -162,8 +162,8 @@
       "2 meses"
     ],
     "correcta": 2,
-    "explicación": "El tema señala el plazo de 30 días para convalidar, derogar o tramitar como proyecto de ley.",
-    "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)"
+    "referencia": "II.1 · 5.1 Decreto-ley (art. 86 CE)",
+    "explicacion": "El tema señala el plazo de 30 días para convalidar, derogar o tramitar como proyecto de ley. El Congreso debe convalidar o derogar el decreto-ley en treinta días desde su promulgación; también puede acordar tramitarlo como proyecto de ley urgente, lo que permite introducir enmiendas."
   },
   {
     "id": "t11-p009",
@@ -176,8 +176,8 @@
       "una iniciativa popular"
     ],
     "correcta": 1,
-    "explicación": "El tema lo define como norma con rango de ley dictada por el Gobierno en virtud de delegación de las Cortes.",
-    "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
+    "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)",
+    "explicacion": "El tema lo define como norma con rango de ley dictada por el Gobierno en virtud de delegación de las Cortes. La delegación habilita al Gobierno para dictar una norma con rango de ley dentro de límites fijados por las Cortes; no nace de una decisión autónoma del Ejecutivo ni de iniciativa popular."
   },
   {
     "id": "t11-p010",
@@ -190,8 +190,8 @@
       "De urgencia"
     ],
     "correcta": 1,
-    "explicación": "El tema indica que los reglamentos ejecutivos desarrollan una ley y requieren dictamen obligatorio del Consejo de Estado.",
-    "referencia": "II.1 · 6.3 Clases de reglamentos"
+    "referencia": "II.1 · 6.3 Clases de reglamentos",
+    "explicacion": "El tema indica que los reglamentos ejecutivos desarrollan una ley y requieren dictamen obligatorio del Consejo de Estado. El reglamento ejecutivo desarrolla una ley para facilitar su aplicación; el independiente opera sin esa función de desarrollo y los rótulos de necesidad o urgencia no describen esa relación normativa."
   },
   {
     "id": "t11-p011",
@@ -204,8 +204,8 @@
       "válido hasta que lo derogue otra norma reglamentaria"
     ],
     "correcta": 1,
-    "explicación": "El tema afirma que un reglamento contra legem es nulo.",
-    "referencia": "II.1 · 6.4 Límites del poder reglamentario"
+    "referencia": "II.1 · 6.4 Límites del poder reglamentario",
+    "explicacion": "El tema afirma que un reglamento contra legem es nulo. La jerarquía normativa impide que un reglamento contradiga una ley; la invalidez deriva de su infracción del ordenamiento, no de que exista o no un perjuicio económico individual. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t11-p012",
@@ -218,8 +218,8 @@
       "Veto del Senado"
     ],
     "correcta": 0,
-    "explicación": "El tema menciona la consulta pública previa como primer paso salvo excepciones.",
-    "referencia": "II.1 · 6.5 Procedimiento de elaboración de reglamentos"
+    "referencia": "II.1 · 6.5 Procedimiento de elaboración de reglamentos",
+    "explicacion": "El tema menciona la consulta pública previa como primer paso salvo excepciones. La consulta previa permite recabar opinión antes de redactar el proyecto normativo, con las excepciones del artículo 133 de la Ley 39/2015; no es un trámite parlamentario de veto."
   },
   {
     "id": "t11-p013",
@@ -232,8 +232,8 @@
       "El reglamento"
     ],
     "correcta": 1,
-    "explicación": "El tema señala que la costumbre tiene aplicación muy residual en Derecho Administrativo.",
-    "referencia": "II.1 · 7.1 La costumbre"
+    "referencia": "II.1 · 7.1 La costumbre",
+    "explicacion": "El tema señala que la costumbre tiene aplicación muy residual en Derecho Administrativo. La costumbre solo rige en defecto de ley aplicable y si se prueba, según el artículo 1.3 CC; no puede desplazar una norma escrita ni reemplazar las potestades atribuidas legalmente."
   },
   {
     "id": "t11-p014",
@@ -246,8 +246,8 @@
       "Puede derogar por sí misma leyes y reglamentos cuando exista contradicción interpretativa"
     ],
     "correcta": 1,
-    "explicación": "El Código Civil atribuye a la jurisprudencia una función complementaria del ordenamiento, pero no la configura como fuente formal directa.",
-    "referencia": "Código Civil · art. 1.6"
+    "referencia": "Código Civil · art. 1.6",
+    "explicacion": "El Código Civil atribuye a la jurisprudencia una función complementaria del ordenamiento, pero no la configura como fuente formal directa. El artículo 1.6 CC reserva a la jurisprudencia una función complementaria mediante doctrina reiterada; no crea un precedente formal que derogue leyes ni limita su alcance a la Administración estatal."
   },
   {
     "id": "t11-p015",
@@ -260,8 +260,8 @@
       "La delegación legislativa"
     ],
     "correcta": 1,
-    "explicación": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE.",
-    "referencia": "II.1 · 1.2 El principio de legalidad"
+    "referencia": "II.1 · 1.2 El principio de legalidad",
+    "explicacion": "El tema incluye la jerarquía normativa entre las garantías del art. 9.3 CE. El artículo 9.3 CE enumera la jerarquía normativa junto con publicidad y seguridad jurídica; sancionar o delegar son instituciones diferentes, no garantías de la estructura normativa. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t11-p016",
@@ -274,8 +274,8 @@
       "aprobación por decreto-ley"
     ],
     "correcta": 0,
-    "explicación": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto.",
-    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)"
+    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)",
+    "explicacion": "El temario recoge la exigencia de mayoría absoluta del Congreso en votación final de conjunto. La mayoría absoluta se exige en una votación final sobre el conjunto del Congreso; no se calcula sobre ambas Cámaras ni puede sustituirse por decreto-ley, conforme al artículo 81.2 CE."
   },
   {
     "id": "t11-p017",
@@ -288,8 +288,8 @@
       "Los reglamentos ejecutivos del Gobierno"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye el desarrollo de los derechos fundamentales y libertades públicas entre las materias reservadas a ley orgánica.",
-    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)"
+    "referencia": "II.1 · 4.2 Ley Orgánica (art. 81 CE)",
+    "explicacion": "El tema incluye el desarrollo de los derechos fundamentales y libertades públicas entre las materias reservadas a ley orgánica. La reserva orgánica comprende el desarrollo de derechos fundamentales y libertades públicas, además de otras materias constitucionalmente tasadas; no convierte en orgánica cualquier ley aprobada por mayoría absoluta."
   },
   {
     "id": "t11-p018",
@@ -302,8 +302,8 @@
       "Reglamento parlamentario"
     ],
     "correcta": 0,
-    "explicación": "La delegación para formar textos articulados se canaliza a través de una ley de bases.",
-    "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)"
+    "referencia": "II.1 · 5.2 Decreto legislativo (arts. 82-85 CE)",
+    "explicacion": "La delegación para formar textos articulados se canaliza a través de una ley de bases. La ley de bases fija los principios y criterios para que el Gobierno forme un texto articulado; para refundir textos la delegación se otorga mediante una ley ordinaria."
   },
   {
     "id": "t12-p001",
@@ -316,8 +316,8 @@
       "privado y mercantil"
     ],
     "correcta": 0,
-    "explicación": "El tema distingue expresamente entre sentido subjetivo u orgánico y sentido objetivo o funcional.",
-    "referencia": "II.1 · 1.1 Aproximación al concepto"
+    "referencia": "II.1 · 1.1 Aproximación al concepto",
+    "explicacion": "El tema distingue expresamente entre sentido subjetivo u orgánico y sentido objetivo o funcional. En sentido orgánico se identifica quién integra la Administración; en sentido funcional se atiende a la actividad administrativa. Las perspectivas son complementarias y no categorías penales o privadas."
   },
   {
     "id": "t12-p002",
@@ -330,8 +330,8 @@
       "Art. 137 CE"
     ],
     "correcta": 1,
-    "explicación": "El tema remite al art. 103 CE como sede de los principios administrativos.",
-    "referencia": "II.1 · 1.2 Reconocimiento constitucional"
+    "referencia": "II.1 · 1.2 Reconocimiento constitucional",
+    "explicacion": "El tema remite al art. 103 CE como sede de los principios administrativos. El artículo 103 CE recoge principios como eficacia, jerarquía, descentralización, desconcentración y coordinación; el artículo 106 regula el control judicial y el 137 la organización territorial. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p003",
@@ -344,8 +344,8 @@
       "solo entes territoriales con potestad legislativa"
     ],
     "correcta": 1,
-    "explicación": "El tema enumera expresamente esas cuatro categorías.",
-    "referencia": "II.1 · 1.3 Las Administraciones Públicas en la LRJSP"
+    "referencia": "II.1 · 1.3 Las Administraciones Públicas en la LRJSP",
+    "explicacion": "El tema enumera expresamente esas cuatro categorías. El artículo 2 de la Ley 40/2015 incluye Administración estatal, autonómica, local e institucional; limitarla a AGE y comunidades autónomas deja fuera expresamente los niveles local e institucional. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p004",
@@ -358,8 +358,8 @@
       "Su independencia absoluta del Gobierno"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como conjunto de personas jurídico-públicas con personalidad jurídica propia, sometidas al Derecho Administrativo.",
-    "referencia": "II.1 · 1.1 Aproximación al concepto"
+    "referencia": "II.1 · 1.1 Aproximación al concepto",
+    "explicacion": "El tema la define como conjunto de personas jurídico-públicas con personalidad jurídica propia, sometidas al Derecho Administrativo. La Administración tiene personalidad jurídica única en cada nivel en los términos de la ley y actúa sometida al Derecho; carecer de control o poder legislativo propio describe incorrectamente su posición."
   },
   {
     "id": "t12-p005",
@@ -372,8 +372,8 @@
       "Lealtad institucional"
     ],
     "correcta": 1,
-    "explicación": "El tema explica que la desconcentración actúa dentro de una misma Administración y persona jurídica.",
-    "referencia": "II.1 · 2.2.3 Desconcentración"
+    "referencia": "II.1 · 2.2.3 Desconcentración",
+    "explicacion": "El tema explica que la desconcentración actúa dentro de una misma Administración y persona jurídica. La desconcentración traslada titularidad y ejercicio a órganos jerárquicamente dependientes dentro de la misma persona jurídica; descentralizar supone atribuir competencias a otra persona jurídica. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p006",
@@ -386,8 +386,8 @@
       "órganos judiciales"
     ],
     "correcta": 1,
-    "explicación": "El tema la identifica con la transferencia a entes territoriales distintos dotados de personalidad jurídica.",
-    "referencia": "II.1 · 2.2.2 Descentralización"
+    "referencia": "II.1 · 2.2.2 Descentralización",
+    "explicacion": "El tema la identifica con la transferencia a entes territoriales distintos dotados de personalidad jurídica. La descentralización transfiere competencias a otra entidad pública con personalidad propia; el traslado dentro de una misma administración corresponde a desconcentración, no a órganos judiciales."
   },
   {
     "id": "t12-p007",
@@ -400,8 +400,8 @@
       "Jerarquía normativa"
     ],
     "correcta": 0,
-    "explicación": "El tema menciona la autotutela declarativa y ejecutiva como potestades administrativas carácterísticas.",
-    "referencia": "II.1 · 1.4 Las potestades administrativas"
+    "referencia": "II.1 · 1.4 Las potestades administrativas",
+    "explicacion": "El tema menciona la autotutela declarativa y ejecutiva como potestades administrativas carácterísticas. La autotutela permite a la Administración declarar y ejecutar sus decisiones en los casos legales, sometida a revisión judicial; no es una transferencia organizativa ni potestad legislativa. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p008",
@@ -414,8 +414,8 @@
       "lo autorice la costumbre"
     ],
     "correcta": 0,
-    "explicación": "El tema identifica el principio de vinculación positiva: la Administración solo puede hacer lo que la ley permite.",
-    "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
+    "referencia": "II.1 · 3.1 El principio de legalidad administrativa",
+    "explicacion": "El tema identifica el principio de vinculación positiva: la Administración solo puede hacer lo que la ley permite. La vinculación positiva exige habilitación jurídica para actuar; la voluntad política, la tolerancia del particular o una costumbre no crean por sí solas competencias administrativas."
   },
   {
     "id": "t12-p009",
@@ -428,8 +428,8 @@
       "Solo la actividad contractual privada"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge el art. 106 CE en estos términos.",
-    "referencia": "II.1 · 3.4 Control judicial de la Administración"
+    "referencia": "II.1 · 3.4 Control judicial de la Administración",
+    "explicacion": "El tema recoge el art. 106 CE en estos términos. El artículo 106.1 CE somete reglamentos y actuación administrativa al control judicial; no atribuye a esta jurisdicción revisar leyes como objeto directo ni controlar la actividad parlamentaria general. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p010",
@@ -442,8 +442,8 @@
       "controlada por los tribunales"
     ],
     "correcta": 1,
-    "explicación": "El tema diferencia discrecionalidad de arbitrariedad y prohíbe la actuación caprichosa.",
-    "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad"
+    "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad",
+    "explicacion": "El tema diferencia discrecionalidad de arbitrariedad y prohíbe la actuación caprichosa. La discrecionalidad permite elegir entre alternativas legales, pero exige motivación cuando proceda, racionalidad y control judicial; arbitrariedad significa actuar sin justificación objetiva y está prohibida. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p011",
@@ -456,8 +456,8 @@
       "Supletoriedad"
     ],
     "correcta": 0,
-    "explicación": "El tema cita la proporcionalidad como parámetro de control de la discrecionalidad.",
-    "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad"
+    "referencia": "II.1 · 3.6 La interdicción de la arbitrariedad",
+    "explicacion": "El tema cita la proporcionalidad como parámetro de control de la discrecionalidad. La proporcionalidad exige adecuación y equilibrio entre medida y fin público; no guarda relación con inmunidad, inmutabilidad ni con la aplicación supletoria de normas. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p012",
@@ -470,8 +470,8 @@
       "solo pueden crear normas"
     ],
     "correcta": 1,
-    "explicación": "El tema dice que los órganos actúan en nombre de la Administración y no tienen personalidad jurídica propia.",
-    "referencia": "II.1 · 1.2 Personalidad jurídica"
+    "referencia": "II.1 · 1.2 Personalidad jurídica",
+    "explicacion": "El tema dice que los órganos actúan en nombre de la Administración y no tienen personalidad jurídica propia. Los órganos son unidades que actúan dentro de la persona jurídica administrativa, pero no tienen personalidad separada; por eso las competencias se imputan a la Administración correspondiente."
   },
   {
     "id": "t12-p013",
@@ -484,8 +484,8 @@
       "Potestad constituyente"
     ],
     "correcta": 1,
-    "explicación": "El tema enumera la potestad expropiatoria entre las principales potestades administrativas.",
-    "referencia": "II.1 · 1.4 Las potestades administrativas"
+    "referencia": "II.1 · 1.4 Las potestades administrativas",
+    "explicacion": "El tema enumera la potestad expropiatoria entre las principales potestades administrativas. La potestad expropiatoria permite privar singularmente de bienes o derechos por causa justificada de utilidad pública o interés social y con indemnización; la jurisdicción y la potestad constituyente son ajenas a la Administración."
   },
   {
     "id": "t12-p014",
@@ -498,8 +498,8 @@
       "reglamentos orgánicos del Parlamento"
     ],
     "correcta": 0,
-    "explicación": "El tema presenta esas técnicas como instrumentos de coordinación interadministrativa.",
-    "referencia": "II.1 · 2.2.4 Coordinación"
+    "referencia": "II.1 · 2.2.4 Coordinación",
+    "explicacion": "El tema presenta esas técnicas como instrumentos de coordinación interadministrativa. Las conferencias sectoriales, comisiones bilaterales y convenios facilitan cooperación y coordinación interadministrativa; un referéndum o una sentencia no constituyen instrumentos ordinarios de coordinación entre Administraciones. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t12-p015",
@@ -512,8 +512,8 @@
       "dictados solo por órganos colegiados"
     ],
     "correcta": 1,
-    "explicación": "El tema distingue la legalidad material como conformidad con el contenido de la ley.",
-    "referencia": "II.1 · 3.1 El principio de legalidad administrativa"
+    "referencia": "II.1 · 3.1 El principio de legalidad administrativa",
+    "explicacion": "El tema distingue la legalidad material como conformidad con el contenido de la ley. La legalidad material exige que el contenido de la decisión respete la norma, no basta con que el acto haya sido emitido formalmente; conveniencia o unanimidad no curan una infracción jurídica."
   },
   {
     "id": "estado2026-extra-t10-01",
@@ -526,11 +526,11 @@
       "Al día siguiente de su publicación"
     ],
     "correcta": 0,
-    "explicación": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa.",
     "referencia": "Examen Estado 2026, art. 2 CC; Tema II.1, fuentes del Derecho",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La regla general del art. 2 CC es la entrada en vigor a los veinte días de la completa publicación en el BOE, salvo que la propia ley disponga otra cosa. El artículo 2.1 CC fija veinte días desde la completa publicación oficial, salvo que la propia ley disponga otra fecha; no se cuenta desde su aprobación ni desde una publicación incompleta."
   },
   {
     "id": "estado2026-extra-t10-02",
@@ -543,11 +543,11 @@
       "Impide aplicar la ley aunque ya haya entrado en vigor"
     ],
     "correcta": 0,
-    "explicación": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente.",
     "referencia": "Tema II.1, vigencia de las normas",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La vacatio legis general es de veinte días, pero la norma puede establecer una entrada en vigor diferente. La vacatio legis es el período hasta la entrada en vigor y la propia norma puede acortarlo o ampliarlo; no tiene siempre una duración fija de un mes."
   },
   {
     "id": "realstyle-ii01-01",
@@ -561,7 +561,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · art. 82 CE",
-    "explicación": "La delegación para textos articulados se otorga por ley de bases; para refundir textos, por ley ordinaria."
+    "explicacion": "La delegación para textos articulados se otorga por ley de bases; para refundir textos, por ley ordinaria. El artículo 82.2 CE diferencia la delegación para textos articulados, mediante ley de bases, de la refundición de textos, autorizada por ley ordinaria."
   },
   {
     "id": "realstyle-ii01-02",
@@ -575,7 +575,7 @@
     ],
     "correcta": 1,
     "referencia": "Revisión test reales · art. 81 CE",
-    "explicación": "El art. 81.1 CE conecta la ley orgánica con derechos fundamentales, estatutos, régimen electoral general y demás supuestos constitucionales."
+    "explicacion": "El art. 81.1 CE conecta la ley orgánica con derechos fundamentales, estatutos, régimen electoral general y demás supuestos constitucionales. Los derechos fundamentales y libertades públicas están reservados a ley orgánica en los términos del artículo 81.1; no lo están todos los tributos ni los reglamentos ejecutivos."
   },
   {
     "tema": 10,
@@ -589,10 +589,10 @@
     ],
     "correcta": 1,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 11",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta. El artículo 128.2 LPAC limita reglamentos para respetar competencias legislativas reservadas; no impide regular cualquier materia con impacto económico ni autoriza a modificar leyes por urgencia."
   },
   {
     "id": "burgos-ii01-deep-01",
@@ -605,8 +605,8 @@
       "Únicamente si la aprueba un reglamento"
     ],
     "correcta": 1,
-    "explicación": "La costumbre es subsidiaria, debe ser probada y no puede ser contraria a la moral ni al orden público. Una práctica administrativa no crea por sí sola una potestad.",
-    "referencia": "Tema II.1 · Código Civil, art. 1.3"
+    "referencia": "Tema II.1 · Código Civil, art. 1.3",
+    "explicacion": "La costumbre es subsidiaria, debe ser probada y no puede ser contraria a la moral ni al orden público. Una práctica administrativa no crea por sí sola una potestad. El artículo 1.3 CC admite costumbre en defecto de ley aplicable si no contradice moral u orden público y resulta probada; la reiteración administrativa no basta para desplazar la ley."
   },
   {
     "id": "burgos-ii01-deep-02",
@@ -619,8 +619,8 @@
       "Entra en vigor a los treinta días de su publicación parcial"
     ],
     "correcta": 2,
-    "explicación": "La regla general se cuenta desde la completa publicación oficial y es de veinte días, salvo que la propia ley disponga otra cosa.",
-    "referencia": "Tema II.1 · Código Civil, art. 2.1"
+    "referencia": "Tema II.1 · Código Civil, art. 2.1",
+    "explicacion": "La regla general se cuenta desde la completa publicación oficial y es de veinte días, salvo que la propia ley disponga otra cosa. El cómputo comienza con la publicación completa en el BOE y dura veinte días, salvo regla especial; aprobación y publicación parcial no activan la vacatio legis general."
   },
   {
     "id": "burgos-ii01-deep-03",
@@ -633,8 +633,8 @@
       "La aprobación de instrucciones administrativas"
     ],
     "correcta": 1,
-    "explicación": "El decreto-ley no puede afectar, entre otras materias, al régimen de las comunidades autónomas ni al Derecho electoral general.",
-    "referencia": "Tema II.1 · Constitución, art. 86.1"
+    "referencia": "Tema II.1 · Constitución, art. 86.1",
+    "explicacion": "El decreto-ley no puede afectar, entre otras materias, al régimen de las comunidades autónomas ni al Derecho electoral general. El artículo 86.1 CE excluye del decreto-ley, entre otras materias, el régimen de las comunidades autónomas y el Derecho electoral general; las instrucciones internas no son esa reserva constitucional."
   },
   {
     "id": "burgos-ii01-deep-04",
@@ -647,8 +647,8 @@
       "Una orden ministerial"
     ],
     "correcta": 0,
-    "explicación": "La ley de bases se utiliza para formar textos articulados; la refundición se autoriza mediante ley ordinaria.",
-    "referencia": "Tema II.1 · Constitución, art. 82.2"
+    "referencia": "Tema II.1 · Constitución, art. 82.2",
+    "explicacion": "La ley de bases se utiliza para formar textos articulados; la refundición se autoriza mediante ley ordinaria. La refundición se autoriza por ley ordinaria que delimite el ámbito normativo y precise si se permite aclarar, regularizar y armonizar; la ley de bases corresponde al texto articulado."
   },
   {
     "id": "burgos-ii01-deep-05",
@@ -661,8 +661,8 @@
       "Que el Gobierno respete los límites de la ley delegante"
     ],
     "correcta": 1,
-    "explicación": "La Constitución prohíbe que el Gobierno subdelegue en autoridades distintas del propio Gobierno; además, la delegación debe ser expresa, concreta, legal y temporal.",
-    "referencia": "Tema II.1 · Constitución, arts. 82 y 83"
+    "referencia": "Tema II.1 · Constitución, arts. 82 y 83",
+    "explicacion": "La Constitución prohíbe que el Gobierno subdelegue en autoridades distintas del propio Gobierno; además, la delegación debe ser expresa, concreta, legal y temporal. La delegación es expresa, concreta, temporal y otorgada por ley, pero no puede subdelegarse en autoridades distintas del Gobierno; este debe respetar el alcance autorizado."
   },
   {
     "id": "burgos-ii01-deep-06",
@@ -675,8 +675,8 @@
       "Irregular, pero convalidable por el órgano superior"
     ],
     "correcta": 1,
-    "explicación": "La invasión de materias reservadas a ley es una causa legal de nulidad de pleno derecho de las disposiciones administrativas.",
-    "referencia": "Tema II.1 · Ley 39/2015, art. 47.2"
+    "referencia": "Tema II.1 · Ley 39/2015, art. 47.2",
+    "explicacion": "La invasión de materias reservadas a ley es una causa legal de nulidad de pleno derecho de las disposiciones administrativas. El artículo 47.2 LPAC declara nulas las disposiciones administrativas que vulneren Constitución, leyes o normas superiores, regulen materias reservadas o impongan retroactividad sancionadora desfavorable."
   },
   {
     "id": "burgos-ii01-deep-07",
@@ -689,8 +689,8 @@
       "Oportunidad política sin justificación"
     ],
     "correcta": 3,
-    "explicación": "La LPAC exige necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, con justificación de la iniciativa normativa.",
-    "referencia": "Tema II.1 · Ley 39/2015, art. 129"
+    "referencia": "Tema II.1 · Ley 39/2015, art. 129",
+    "explicacion": "La LPAC exige necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia, con justificación de la iniciativa normativa. El artículo 129 LPAC enumera necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia; oportunidad política sin justificación no es un principio de buena regulación."
   },
   {
     "id": "burgos-ii01-deep-08",
@@ -703,8 +703,8 @@
       "La audiencia solo se aplica a leyes orgánicas"
     ],
     "correcta": 1,
-    "explicación": "La consulta pública previa se sitúa antes de la elaboración del texto; audiencia e información pública se refieren al texto elaborado y tienen el alcance y excepciones de la ley.",
-    "referencia": "Tema II.1 · Ley 39/2015, art. 133"
+    "referencia": "Tema II.1 · Ley 39/2015, art. 133",
+    "explicacion": "La consulta pública previa se sitúa antes de la elaboración del texto; audiencia e información pública se refieren al texto elaborado y tienen el alcance y excepciones de la ley. La consulta previa precede a la elaboración del borrador; audiencia e información pública permiten opinar sobre un texto ya preparado, cuando la ley exige esos trámites y con sus excepciones."
   },
   {
     "id": "burgos-ii01-deep-09",
@@ -717,8 +717,8 @@
       "La reserva de ley orgánica"
     ],
     "correcta": 0,
-    "explicación": "Una resolución particular no puede vulnerar ni dispensar de una disposición general, aunque proceda de un órgano de igual o superior jerarquía al que la aprobó.",
-    "referencia": "Tema II.1 · Ley 39/2015, art. 37"
+    "referencia": "Tema II.1 · Ley 39/2015, art. 37",
+    "explicacion": "Una resolución particular no puede vulnerar ni dispensar de una disposición general, aunque proceda de un órgano de igual o superior jerarquía al que la aprobó. El artículo 37 LPAC impide que una resolución particular dispense de cumplir una disposición general, aunque la dicte un órgano superior; prevalece la inderogabilidad singular."
   },
   {
     "id": "burgos-ii01-deep-10",
@@ -731,7 +731,7 @@
       "Solo se aplica cuando no existe ninguna ley"
     ],
     "correcta": 1,
-    "explicación": "La jurisprudencia cumple una función complementaria mediante doctrina reiterada del Tribunal Supremo; no es una ley ni deroga por sí misma normas.",
-    "referencia": "Tema II.1 · Código Civil, art. 1.6"
+    "referencia": "Tema II.1 · Código Civil, art. 1.6",
+    "explicacion": "La jurisprudencia cumple una función complementaria mediante doctrina reiterada del Tribunal Supremo; no es una ley ni deroga por sí misma normas. El artículo 1.6 CC exige doctrina reiterada del Tribunal Supremo para hablar de jurisprudencia complementaria; esta interpreta y aplica las fuentes, pero no tiene rango de ley ni las deroga."
   }
 ]

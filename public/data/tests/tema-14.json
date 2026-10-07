@@ -10,11 +10,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 25",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta. El artículo 3.1 incluye descentralización y coordinación; centralización no sustituye a descentralización, y cooperación aparece también como principio de relación interadministrativa. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "pdf-2024-burgos-est-q26",
@@ -27,11 +27,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 26",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta. La delegación y su revocación deben publicarse en el diario oficial correspondiente al ámbito del órgano delegante; un tablón local o la ausencia de publicidad no cumplen esa regla."
   },
   {
     "id": "pdf-2024-burgos-est-q27",
@@ -44,11 +44,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 27",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta. El acuerdo de avocación no es recurrible por separado, pero puede impugnarse al recurrir la resolución final; así lo establece el artículo 10.2 de la Ley 40/2015."
   },
   {
     "id": "pdf-2025-burgos-q10",
@@ -62,11 +62,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 10",
-    "explicación": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La valida constitución exige presidente y secretario o suplentes y al menos la mitad de los miembros. El artículo 17.2 exige Presidente y Secretario o quienes los suplan, además de la mitad al menos de miembros; basta la mitad, no una mayoría superior."
   },
   {
     "id": "pdf-2025-burgos-q11",
@@ -80,11 +80,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 11",
-    "explicación": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La Ley 40/2015 incluye participación, objetividad y transparencia entre sus principios de actuación. El artículo 3.1 incluye participación, objetividad y transparencia; la confianza institucional no es “plena e incondicional”, sino confianza legítima sujeta al ordenamiento y buena fe. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "pdf-2025-burgos-q22",
@@ -98,11 +98,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 22",
-    "explicación": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La Ley 40/2015 extiende su aplicación al sector público institucional, además de Estado, comunidades autónomas y entidades locales. El sector público comprende administraciones territoriales y sector institucional; las entidades privadas vinculadas se integran con el alcance previsto en la ley, pero no sustituyen esa clasificación."
   },
   {
     "id": "t14-p001",
@@ -115,8 +115,8 @@
       "El régimen electoral general y la organización de las Cortes Generales"
     ],
     "correcta": 1,
-    "explicación": "La Ley 40/2015 se centra en los principios y organización del sector público y en las relaciones entre administraciones.",
-    "referencia": "Ley 40/2015 · objeto y estructura"
+    "referencia": "Ley 40/2015 · objeto y estructura",
+    "explicacion": "La Ley 40/2015 se centra en los principios y organización del sector público y en las relaciones entre administraciones. La Ley 40/2015 regula organización y funcionamiento del sector público y relaciones entre Administraciones; el procedimiento común y recursos se ordenan principalmente en la Ley 39/2015."
   },
   {
     "id": "t14-p002",
@@ -129,8 +129,8 @@
       "Título V"
     ],
     "correcta": 1,
-    "explicación": "El tema atribuye a ese título la regulación de los órganos.",
-    "referencia": "II.5 · 1.1 Contexto y estructura"
+    "referencia": "II.5 · 1.1 Contexto y estructura",
+    "explicacion": "El tema atribuye a ese título la regulación de los órganos. Los órganos administrativos se regulan en el título II de la Ley 40/2015; los títulos I y III tratan principios generales y relaciones orgánicas en la estructura de la norma."
   },
   {
     "id": "t14-p003",
@@ -143,8 +143,8 @@
       "jurisdicción propia"
     ],
     "correcta": 0,
-    "explicación": "El tema define el órgano por la competencia propia atribuida por el ordenamiento.",
-    "referencia": "II.5 · 2.1 Concepto de órgano administrativo"
+    "referencia": "II.5 · 2.1 Concepto de órgano administrativo",
+    "explicacion": "El tema define el órgano por la competencia propia atribuida por el ordenamiento. La unidad puede tener competencias propias, pero carece de personalidad jurídica separada de su Administración; tampoco tiene potestad legislativa ni jurisdicción. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p004",
@@ -157,8 +157,8 @@
       "Acuerdo de la Junta de Portavoces"
     ],
     "correcta": 1,
-    "explicación": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos.",
-    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos",
+    "explicacion": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos. El artículo 5.3 prevé creación y supresión por Real Decreto del Consejo de Ministros para órganos superiores y directivos de la AGE; los órganos inferiores siguen otras normas."
   },
   {
     "id": "t14-p005",
@@ -171,8 +171,8 @@
       "todos sus miembros sin excepción"
     ],
     "correcta": 0,
-    "explicación": "El tema fija ese quórum para la constitución válida.",
-    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
+    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados",
+    "explicacion": "El tema fija ese quórum para la constitución válida. Para constituir el órgano colegiado deben concurrir Presidente y Secretario o suplentes y la mitad de sus miembros; no se exige dos tercios ni unanimidad. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p006",
@@ -185,8 +185,8 @@
       "15 días hábiles"
     ],
     "correcta": 1,
-    "explicación": "El tema señala un mínimo de 48 horas salvo urgencia.",
-    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados"
+    "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados",
+    "explicacion": "El tema señala un mínimo de 48 horas salvo urgencia. El artículo 17.3 exige convocatoria con antelación mínima de dos días, salvo urgencia; es una regla supletoria y puede haber normas específicas del órgano. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p007",
@@ -199,8 +199,8 @@
       "decidida por el interesado"
     ],
     "correcta": 1,
-    "explicación": "El tema lo presenta como deber obligatorio.",
-    "referencia": "II.5 · 2.5 La abstención y la recusación"
+    "referencia": "II.5 · 2.5 La abstención y la recusación",
+    "explicacion": "El tema lo presenta como deber obligatorio. La abstención es obligatoria cuando concurre una causa del artículo 23; apartarse evita conflictos de imparcialidad y no queda a elección del interesado. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p008",
@@ -213,8 +213,8 @@
       "Nulidad radical"
     ],
     "correcta": 0,
-    "explicación": "El tema lo identifica como principio rector de las relaciones interadministrativas.",
-    "referencia": "II.5 · 3.1 Concepto y principios generales"
+    "referencia": "II.5 · 3.1 Concepto y principios generales",
+    "explicacion": "El tema lo identifica como principio rector de las relaciones interadministrativas. La lealtad institucional obliga a respetar competencias de las demás Administraciones y ponderar intereses concurrentes; no es una regla de suplencia ni una sanción de nulidad. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p009",
@@ -227,8 +227,8 @@
       "recurso administrativo"
     ],
     "correcta": 0,
-    "explicación": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA.",
-    "referencia": "II.5 · 3.2.2 Las Conferencias Sectoriales"
+    "referencia": "II.5 · 3.2.2 Las Conferencias Sectoriales",
+    "explicacion": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA. Las conferencias sectoriales reúnen Administración estatal y autonómicas en una materia para cooperar multilateralmente; no son órganos judiciales ni superiores jerárquicos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p010",
@@ -241,8 +241,8 @@
       "10 años"
     ],
     "correcta": 2,
-    "explicación": "El tema señala una duración máxima de 4 años, prorrogable.",
-    "referencia": "II.5 · 3.2.4 Los convenios de colaboración"
+    "referencia": "II.5 · 3.2.4 Los convenios de colaboración",
+    "explicacion": "El tema señala una duración máxima de 4 años, prorrogable. El artículo 49.h fija duración determinada no superior a cuatro años, salvo norma que prevea mayor plazo; las partes pueden prorrogar unánimemente hasta cuatro años más. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p011",
@@ -255,8 +255,8 @@
       "el Congreso de los Diputados"
     ],
     "correcta": 0,
-    "explicación": "El tema remite a los conflictos de competencia ante el TC.",
-    "referencia": "II.5 · 3.4 Conflictos interadministrativos"
+    "referencia": "II.5 · 3.4 Conflictos interadministrativos",
+    "explicacion": "El tema remite a los conflictos de competencia ante el TC. Los conflictos constitucionales de competencia entre Estado y comunidades autónomas corresponden al Tribunal Constitucional conforme a su ley orgánica; el Supremo no sustituye esa jurisdicción. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p012",
@@ -269,8 +269,8 @@
       "Art. 103 CE"
     ],
     "correcta": 0,
-    "explicación": "El tema atribuye esa subrogación al art. 60 LBRL.",
-    "referencia": "II.5 · 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales"
+    "referencia": "II.5 · 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales",
+    "explicacion": "El tema atribuye esa subrogación al art. 60 LBRL. El artículo 60 LBRL permite al Estado o comunidad autónoma adoptar medidas para hacer cumplir obligaciones locales legales tras requerimiento y plazo; el artículo 155 CE regula otro supuesto constitucional. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p013",
@@ -283,8 +283,8 @@
       "exclusivamente judicial"
     ],
     "correcta": 2,
-    "explicación": "El tema distingue ambos planos.",
-    "referencia": "II.5 · 2.2.4 Coordinación"
+    "referencia": "II.5 · 2.2.4 Coordinación",
+    "explicacion": "El tema distingue ambos planos. La coordinación opera dentro de una misma Administración y entre Administraciones, según el tipo de relación; no es exclusivamente interna ni jurisdiccional. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p014",
@@ -297,8 +297,8 @@
       "Principio de publicidad"
     ],
     "correcta": 0,
-    "explicación": "El tema lo menciona expresamente al hablar de creación de órganos.",
-    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos"
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos",
+    "explicacion": "El tema lo menciona expresamente al hablar de creación de órganos. La creación de órganos exige comprobar que no exista otro con las mismas funciones y territorio, salvo que se suprima o restrinja su competencia; evita duplicidad organizativa. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p015",
@@ -311,8 +311,8 @@
       "instrumentos sancionadores"
     ],
     "correcta": 0,
-    "explicación": "El tema los define como documentos de planificación conjunta.",
-    "referencia": "II.5 · 3.2.5 Los Planes y Programas conjuntos"
+    "referencia": "II.5 · 3.2.5 Los Planes y Programas conjuntos",
+    "explicacion": "El tema los define como documentos de planificación conjunta. Los planes conjuntos fijan objetivos, actuaciones y compromisos compartidos entre Administraciones; son instrumentos de cooperación, no recursos judiciales ni potestades sancionadoras. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "topup-14-01",
@@ -324,9 +324,9 @@
       "el ciudadano delega su firma en la Administración"
     ],
     "correcta": 0,
-    "explicación": "La avocación permite al órgano superior atraer un asunto concreto por razones justificadas.",
     "referencia": "II.5 · Tecnicas de alteración del ejercicio de competencias",
-    "tema": 14
+    "tema": 14,
+    "explicacion": "La avocación permite al órgano superior atraer un asunto concreto por razones justificadas. La avocación permite al superior asumir un asunto concreto cuya decisión corresponde a un órgano dependiente, con acuerdo motivado; no transfiere definitivamente la competencia. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "topup-14-02",
@@ -338,9 +338,9 @@
       "encomendar la gestión material de un servicio a un particular"
     ],
     "correcta": 0,
-    "explicación": "La delegación de firma no cambia la titularidad competencial, solo la firma formal.",
     "referencia": "II.5 · Delegación de firma",
-    "tema": 14
+    "tema": 14,
+    "explicacion": "La delegación de firma no cambia la titularidad competencial, solo la firma formal. La delegación de firma no cambia quién tiene la competencia: otra persona firma por el titular. Se diferencia de delegar la competencia o encomendar una actuación material."
   },
   {
     "id": "estado2026-extra-t14-01",
@@ -353,11 +353,11 @@
       "Certificado privado sin requisitos legales de firma electrónica"
     ],
     "correcta": 0,
-    "explicación": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos.",
     "referencia": "Examen Estado 2026, art. 40 LRJSP; Tema II.5, funcionamiento electrónico y órganos",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La LRJSP admite la identificación mediante sello electrónico basado en certificado electrónico reconocido o cualificado que reúna los requisitos exigidos. El artículo 40 permite identificación institucional mediante sello electrónico basado en certificado cualificado o reconocido; una firma manuscrita escaneada no garantiza autenticidad e integridad."
   },
   {
     "id": "estado2026-extra-t14-02",
@@ -370,11 +370,11 @@
       "Duración indefinida si hay financiación pública"
     ],
     "correcta": 0,
-    "explicación": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales.",
     "referencia": "Examen Estado 2026, convenios; Tema II.5, relaciones y convenios",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La LRJSP establece una duración máxima de cuatro años, salvo previsión normativa superior, y permite prórroga unánime por hasta cuatro años adicionales. La regla general es cuatro años, prorrogables por acuerdo unánime hasta cuatro más, salvo que una norma establezca plazo superior; no existe prórroga tácita indefinida."
   },
   {
     "id": "estado2026-extra-t14-03",
@@ -387,11 +387,11 @@
       "La sustitución automática por un contrato menor"
     ],
     "correcta": 0,
-    "explicación": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga.",
     "referencia": "Examen Estado 2026, convenios; Tema II.5, convenios administrativos",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Los convenios se extinguen, entre otras causas, por cumplimiento de las actuaciones que constituyen su objeto o por transcurso del plazo sin prórroga. El cumplimiento del objeto extingue el convenio; también puede extinguirse por causas previstas legalmente, como transcurso del plazo o incumplimiento, pero no por voluntad unilateral sin fundamento."
   },
   {
     "tema": 14,
@@ -401,14 +401,14 @@
       "Simplicidad, claridad y proximidad a los ciudadanos.",
       "Participación, objetividad y transparencia de la actuación administrativa.",
       "Racionalización y agilidad de los procedimientos administrativos y de las actividades materiales de gestión.",
-      "Evaluación de los resultados de la actuación administrativa."
+      "Evaluación de los resultados de la actuación administrativa, como principio autónomo y general."
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 19",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta. El artículo 3.1 menciona control y evaluación de resultados de políticas públicas; la opción se precisa porque su formulación original transformaba ese principio en una referencia genérica y autónoma a toda actuación administrativa."
   },
   {
     "tema": 14,
@@ -422,10 +422,10 @@
     ],
     "correcta": 3,
     "referencia": "JCyL Cuerpo Auxiliar 2024/25 · ejercicio 30/05/2026 · pregunta 13",
-    "explicación": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La plantilla provisional oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta. El artículo 31 de la Ley 3/2001 enuncia coordinación y cooperación, respeto a competencias ajenas, subsidiariedad y ponderación de intereses; las otras opciones mezclan principios generales o internos."
   },
   {
     "id": "burgos-ii05-deep-01",
@@ -438,11 +438,11 @@
       "La descentralización solo opera entre órganos jerárquicamente dependientes."
     ],
     "correcta": 0,
-    "explicación": "La desconcentración es una atribución estable dentro de la misma Administración; la descentralización implica otra entidad o Administración con personalidad jurídica propia.",
     "referencia": "II.5 · Principios de organización administrativa",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La desconcentración es una atribución estable dentro de la misma Administración; la descentralización implica otra entidad o Administración con personalidad jurídica propia. La desconcentración redistribuye competencias dentro de una misma Administración y jerarquía; la descentralización las atribuye a una persona jurídica distinta con autonomía propia."
   },
   {
     "id": "burgos-ii05-deep-02",
@@ -455,11 +455,11 @@
       "La mayoría absoluta de los miembros, aunque falte el Secretario."
     ],
     "correcta": 0,
-    "explicación": "El artículo 17.2 LRJSP exige la asistencia presencial o a distancia de Presidente y Secretario o suplentes y de la mitad, al menos, de los miembros, sin perjuicio de especialidades.",
     "referencia": "LRJSP · artículo 17.2 · Constitución del órgano colegiado",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El artículo 17.2 LRJSP exige la asistencia presencial o a distancia de Presidente y Secretario o suplentes y de la mitad, al menos, de los miembros, sin perjuicio de especialidades. La regla del artículo 17.2 exige Presidente, Secretario o suplentes y la mitad al menos de los miembros; no requiere asistencia total ni basta con el Presidente."
   },
   {
     "id": "burgos-ii05-deep-03",
@@ -472,11 +472,11 @@
       "Nunca, aunque estén presentes todos los miembros."
     ],
     "correcta": 0,
-    "explicación": "El artículo 17.4 LRJSP permite deliberar y acordar un asunto no incluido solo si están presentes todos los miembros y se declara la urgencia por mayoría.",
     "referencia": "LRJSP · artículo 17.4 · Orden del día",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El artículo 17.4 LRJSP permite deliberar y acordar un asunto no incluido solo si están presentes todos los miembros y se declara la urgencia por mayoría. Puede tratarse un asunto no incluido si asisten todos los miembros y se declara urgencia por mayoría, según artículo 17.4; la ausencia de un integrante impide usar esa excepción."
   },
   {
     "id": "burgos-ii05-deep-04",
@@ -489,11 +489,11 @@
       "Es nula porque la competencia no puede ejercerse por delegación."
     ],
     "correcta": 0,
-    "explicación": "La delegación no cambia la titularidad: el acto se considera dictado por el delegante y debe expresar que se dicta por delegación.",
     "referencia": "LRJSP · artículo 9 · Delegación de competencias",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La delegación no cambia la titularidad: el acto se considera dictado por el delegante y debe expresar que se dicta por delegación. El acto dictado por delegación se considera del órgano delegante y debe indicarlo expresamente, conforme al artículo 9.4; la competencia no desaparece ni se imputa sin órgano."
   },
   {
     "id": "burgos-ii05-deep-05",
@@ -506,11 +506,11 @@
       "Una competencia en un organismo dependiente, en los términos legales."
     ],
     "correcta": 0,
-    "explicación": "El artículo 9.2 LRJSP prohíbe delegar, entre otras materias, la adopción de disposiciones de carácter general.",
     "referencia": "LRJSP · artículo 9.2 · Límites de la delegación",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El artículo 9.2 LRJSP prohíbe delegar, entre otras materias, la adopción de disposiciones de carácter general. El artículo 9.2 prohíbe delegar la adopción de disposiciones de carácter general, entre otras materias; gestión de servicios sí puede delegarse dentro de límites legales."
   },
   {
     "id": "burgos-ii05-deep-06",
@@ -523,11 +523,11 @@
       "Se autoriza a otra persona a firmar sin cambiar la competencia."
     ],
     "correcta": 0,
-    "explicación": "La avocación es puntual: el superior atrae para sí un asunto concreto por circunstancias que debe motivar; no modifica de forma permanente la distribución competencial.",
     "referencia": "LRJSP · artículo 10 · Avocación",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La avocación es puntual: el superior atrae para sí un asunto concreto por circunstancias que debe motivar; no modifica de forma permanente la distribución competencial. La avocación es excepcional y se adopta mediante acuerdo motivado para un asunto concreto por órgano superior; no equivale a suplencia, encomienda o delegación de firma."
   },
   {
     "id": "burgos-ii05-deep-07",
@@ -540,11 +540,11 @@
       "La titularidad permanente de una competencia administrativa."
     ],
     "correcta": 0,
-    "explicación": "La encomienda se limita a actividades materiales o técnicas; el órgano encomendante conserva la responsabilidad de dictar actos o resoluciones jurídicas.",
     "referencia": "LRJSP · artículo 11 · Encomienda de gestión",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La encomienda se limita a actividades materiales o técnicas; el órgano encomendante conserva la responsabilidad de dictar actos o resoluciones jurídicas. La encomienda cubre actividades materiales o técnicas por razones de eficacia o falta de medios, sin transferir titularidad ni elementos sustantivos de la competencia; no elude contratos."
   },
   {
     "id": "burgos-ii05-deep-08",
@@ -557,11 +557,11 @@
       "Solo puede utilizarse entre Administraciones con personalidad jurídica distinta."
     ],
     "correcta": 0,
-    "explicación": "La delegación de firma afecta a la firma formal, no a la titularidad ni al ejercicio de la competencia, y debe identificar la autoridad de procedencia.",
     "referencia": "LRJSP · artículo 12 · Delegación de firma",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La delegación de firma afecta a la firma formal, no a la titularidad ni al ejercicio de la competencia, y debe identificar la autoridad de procedencia. La delegación de firma permite que un titular firme actos dictados por otro órgano competente, sin cambiar competencia y normalmente sin publicación; el acto sigue siendo de su titular."
   },
   {
     "id": "burgos-ii05-deep-09",
@@ -574,11 +574,11 @@
       "Duración de cinco años con prórroga tácita automática."
     ],
     "correcta": 0,
-    "explicación": "El artículo 49.h LRJSP exige duración determinada, normalmente hasta cuatro años, y permite una prórroga unánime de hasta cuatro años adicionales antes de que termine la vigencia.",
     "referencia": "LRJSP · artículo 49.h · Convenios",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "El artículo 49.h LRJSP exige duración determinada, normalmente hasta cuatro años, y permite una prórroga unánime de hasta cuatro años adicionales antes de que termine la vigencia. Los convenios tienen duración determinada de hasta cuatro años y pueden prorrogarse hasta cuatro años adicionales por unanimidad; no se prorrogan tácitamente ni indefinidamente."
   },
   {
     "id": "burgos-ii05-deep-10",
@@ -591,10 +591,10 @@
       "Una técnica para transferir una competencia a otra Administración."
     ],
     "correcta": 0,
-    "explicación": "La recusación permite a los interesados promover la separación del titular cuando concurre alguna causa legal de abstención; no transfiere la competencia.",
     "referencia": "LRJSP · artículos 23 y 24 · Abstención y recusación",
     "tags": [
       "Revisión profunda"
-    ]
+    ],
+    "explicacion": "La recusación permite a los interesados promover la separación del titular cuando concurre alguna causa legal de abstención; no transfiere la competencia. La recusación permite al interesado pedir apartamiento si concurre una causa legal de abstención; el superior resuelve el incidente, pero no es una sanción ni transfiere la competencia."
   }
 ]

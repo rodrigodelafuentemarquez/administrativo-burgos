@@ -10,11 +10,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 6",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Junta de Gobierno Local». El distractor «Pleno» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "pdf-2024-burgos-est-q07",
@@ -27,11 +27,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 7",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Mayoría absoluta del número legal de miembros de la Corporación». El distractor «Mayoría de 2/3 de número legal de miembros…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "pdf-2023-burgos-q26-ord",
@@ -45,11 +45,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 26",
-    "explicación": "La aprobación y modificación de ordenanzas y reglamentos municipales corresponde al Pleno.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La aprobación y modificación de ordenanzas y reglamentos municipales corresponde al Pleno. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «La aprobación y modificación de las ordenanzas y reglamentos municipales». El distractor «La aprobación y modificación de las leyes municipales» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "pdf-2025-burgos-q32-org",
@@ -63,11 +63,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 32",
-    "explicación": "Las tres afirmaciones forman parte del régimen orgánico municipal previsto para municipios de gran población.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "Las tres afirmaciones forman parte del régimen orgánico municipal previsto para municipios de gran población. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Las tres afirmaciones anteriores son compatibles con el régimen del artículo 123». El distractor «Los reglamentos de naturaleza orgánica se aprueban por…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-04",
@@ -79,9 +79,9 @@
       "Consejo de Ministros"
     ],
     "correcta": 0,
-    "explicación": "La potestad normativa local se canaliza por acuerdo plenario.",
     "referencia": "II.12 · Procedimiento de aprobación",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La potestad normativa local se canaliza por acuerdo plenario. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Pleno». El distractor «Interventor General» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-05",
@@ -93,9 +93,9 @@
       "noventa días"
     ],
     "correcta": 0,
-    "explicación": "La publicación inicial abre un plazo de treinta días para reclamaciones y sugerencias.",
     "referencia": "II.12 · Procedimiento de aprobación",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La publicación inicial abre un plazo de treinta días para reclamaciones y sugerencias. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «treinta días». El distractor «dos días habiles» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-06",
@@ -107,9 +107,9 @@
       "la ordenanza queda anulada"
     ],
     "correcta": 0,
-    "explicación": "La ausencia de reclamaciones permite elevar automáticamente el acuerdo a definitivo.",
     "referencia": "II.12 · Procedimiento de aprobación",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La ausencia de reclamaciones permite elevar automáticamente el acuerdo a definitivo. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «el acuerdo puede entenderse definitivamente adoptado». El distractor «debe repetirse todo el expediente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-07",
@@ -121,9 +121,9 @@
       "someterlas a referendo obligatorio"
     ],
     "correcta": 0,
-    "explicación": "Las reclamaciones deben resolverse antes de la aprobación definitiva.",
     "referencia": "II.12 · Procedimiento de aprobación",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "Las reclamaciones deben resolverse antes de la aprobación definitiva. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «resolverlas y aprobar definitivamente el texto». El distractor «archivar sin resolverlas» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-08",
@@ -135,9 +135,9 @@
       "anuncio en prensa privada exclusivamente"
     ],
     "correcta": 0,
-    "explicación": "Las normas locales necesitan publicación oficial para entrar en vigor.",
     "referencia": "II.12 · Publicación y entrada en vigor",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "Las normas locales necesitan publicación oficial para entrar en vigor. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «publicación integra del texto definitivo». El distractor «solo firma del concejal delegado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-09",
@@ -149,9 +149,9 @@
       "la sucesión a la Corona"
     ],
     "correcta": 0,
-    "explicación": "El reglamento orgánico ordena la organización institucional del Ayuntamiento.",
     "referencia": "II.12 · Clases de reglamentos",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "El reglamento orgánico ordena la organización institucional del Ayuntamiento. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «la organización y funcionamiento internos de la entidad local». El distractor «los impuestos estatales» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-10",
@@ -163,9 +163,9 @@
       "el procedimiento penal"
     ],
     "correcta": 0,
-    "explicación": "Las ordenanzas fiscales desarrollan la potestad reglamentaria tributaria local.",
     "referencia": "II.12 · Clases de ordenanzas",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "Las ordenanzas fiscales desarrollan la potestad reglamentaria tributaria local. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «tributos y otros ingresos de Derecho público en el ámbito local». El distractor «la organización del Pleno» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-12",
@@ -177,9 +177,9 @@
       "es siempre un acto singular"
     ],
     "correcta": 0,
-    "explicación": "La ordenanza sigue un procedimiento normativo reforzado y tiene vocación general.",
     "referencia": "II.12 · Diferencias entre ordenanza y bando",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La ordenanza sigue un procedimiento normativo reforzado y tiene vocación general. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «requiere procedimiento plenario con información pública». El distractor «se dicta solo verbalmente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-13",
@@ -191,9 +191,9 @@
       "cualquier instrucción verbal"
     ],
     "correcta": 0,
-    "explicación": "La potestad reglamentaria local está subordinada a la ley.",
     "referencia": "II.12 · Fundamento y límites",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La potestad reglamentaria local está subordinada a la ley. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «la Constitución y las leyes». El distractor «la voluntad unilateral del alcalde» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-14",
@@ -205,9 +205,9 @@
       "BOE en todo caso"
     ],
     "correcta": 0,
-    "explicación": "La publicación provincial es la regla común en el régimen local.",
     "referencia": "II.12 · Publicación",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La publicación provincial es la regla común en el régimen local. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Boletín Oficial de la Provincia». El distractor «Diario Oficial de la Unión Europea exclusivamente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-15",
@@ -219,9 +219,9 @@
       "aprobar presupuestos estatales"
     ],
     "correcta": 0,
-    "explicación": "Las normas locales deben moverse dentro de las competencias municipales o provinciales.",
     "referencia": "II.12 · Clases y contenido",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "Las normas locales deben moverse dentro de las competencias municipales o provinciales. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «organización, funcionamiento o materias de competencia local». El distractor «tipificar delitos» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-16",
@@ -233,9 +233,9 @@
       "providencia de apremio"
     ],
     "correcta": 0,
-    "explicación": "La ordenanza es el instrumento tipico para regular conductas generales en el ámbito local.",
     "referencia": "II.12 · Ordenanzas",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La ordenanza es el instrumento tipico para regular conductas generales en el ámbito local. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «ordenanza». El distractor «sentencia» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-17",
@@ -247,9 +247,9 @@
       "la inaplicación de la ley"
     ],
     "correcta": 0,
-    "explicación": "Información pública y publicidad oficial son garantías esenciales del procedimiento normativo local.",
     "referencia": "II.12 · Procedimiento de elaboración",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "Información pública y publicidad oficial son garantías esenciales del procedimiento normativo local. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «participación ciudadana y control de legalidad». El distractor «la ausencia de publicidad» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "topup-21-18",
@@ -261,9 +261,9 @@
       "electoral"
     ],
     "correcta": 0,
-    "explicación": "Las disposiciones generales locales se combaten ante la jurisdicción contencioso-administrativa.",
     "referencia": "II.12 · Control de legalidad de ordenanzas y reglamentos",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "Las disposiciones generales locales se combaten ante la jurisdicción contencioso-administrativa. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «contencioso-administrativa». El distractor «penal ordinaria» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "refine-21-01",
@@ -276,8 +276,8 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · Procedimiento de aprobación",
-    "explicación": "La legislación local permite que, sin reclamaciones, el acuerdo inicial pase a ser definitivo automáticamente.",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La legislación local permite que, sin reclamaciones, el acuerdo inicial pase a ser definitivo automáticamente. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «el acuerdo inicial se entiende definitivamente adoptado». El distractor «la ordenanza decae automáticamente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "refine-21-02",
@@ -290,8 +290,8 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · Publicación y entrada en vigor",
-    "explicación": "La eficacia general de la norma local exige publicación integra y respeto al plazo legal de entrada en vigor.",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La eficacia general de la norma local exige publicación integra y respeto al plazo legal de entrada en vigor. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «publicación integra de su texto y transcurso del plazo legal correspondiente». El distractor «simple anuncio del alcalde en rueda de prensa» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "refine-21-03",
@@ -304,8 +304,8 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · Clases de reglamentos locales",
-    "explicación": "El reglamento orgánico ordena la organización y el funcionamiento de la entidad local.",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "El reglamento orgánico ordena la organización y el funcionamiento de la entidad local. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «la organización y el funcionamiento interno de la corporación». El distractor «la estructura del IRPF» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "refine-21-04",
@@ -318,8 +318,8 @@
     ],
     "correcta": 0,
     "referencia": "Potestad normativa local · bandos",
-    "explicación": "El bando no equivale a una ordenanza ni puede reemplazar la potestad reglamentaria del Pleno.",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "El bando no equivale a una ordenanza ni puede reemplazar la potestad reglamentaria del Pleno. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «No puede sustituir a una disposición reglamentaria local aprobada por el Pleno ni innovar el…». El distractor «Tiene, por regla general, el mismo rango que…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "refine-21-05",
@@ -332,8 +332,8 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · Procedimiento de aprobación",
-    "explicación": "La competencia para resolver reclamaciones y cerrar la aprobación definitiva sigue residiendo en el Pleno.",
-    "tema": 21
+    "tema": 21,
+    "explicacion": "La competencia para resolver reclamaciones y cerrar la aprobación definitiva sigue residiendo en el Pleno. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Pleno». El distractor «alcalde» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "realstyle-ii12-01",
@@ -347,7 +347,7 @@
     ],
     "correcta": 2,
     "referencia": "Revisión test reales · art. 49 LBRL",
-    "explicación": "El art. 49 LBRL fija un plazo mínimo de treinta días para reclamaciones y sugerencias."
+    "explicacion": "El art. 49 LBRL fija un plazo mínimo de treinta días para reclamaciones y sugerencias. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Treinta días». El distractor «Diez días hábiles» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "realstyle-ii12-02",
@@ -361,7 +361,7 @@
     ],
     "correcta": 0,
     "referencia": "Revisión test reales · art. 49 LBRL",
-    "explicación": "La ausencia de reclamaciones convierte en definitivo el acuerdo provisional."
+    "explicacion": "La ausencia de reclamaciones convierte en definitivo el acuerdo provisional. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Se entenderá definitivamente adoptado el acuerdo hasta entonces provisional». El distractor «Debe repetirse obligatoriamente la aprobación inicial» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-01",
@@ -375,7 +375,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 4.1 Procedimiento del artículo 49 LRBRL",
-    "explicación": "La aprobación inicial corresponde al Pleno. En municipios de gran población la Junta de Gobierno puede aprobar el proyecto, pero no sustituye la aprobación plenaria de la ordenanza."
+    "explicacion": "La aprobación inicial corresponde al Pleno. En municipios de gran población la Junta de Gobierno puede aprobar el proyecto, pero no sustituye la aprobación plenaria de la ordenanza. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «El Pleno». El distractor «La Alcaldía» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-02",
@@ -389,7 +389,7 @@
     ],
     "correcta": 2,
     "referencia": "II.12 · 4.1 Procedimiento del artículo 49 LRBRL",
-    "explicación": "El artículo 49.b LRBRL exige información pública y audiencia por un plazo mínimo de treinta días para formular reclamaciones y sugerencias."
+    "explicacion": "El artículo 49.b LRBRL exige información pública y audiencia por un plazo mínimo de treinta días para formular reclamaciones y sugerencias. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Treinta días». El distractor «Diez días hábiles» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-03",
@@ -403,7 +403,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 4.2 Resultado de la exposición pública",
-    "explicación": "El artículo 49.c LRBRL permite entender definitivamente adoptado el acuerdo hasta entonces provisional cuando no se presentan reclamaciones ni sugerencias; aun así, el texto debe publicarse íntegramente."
+    "explicacion": "El artículo 49.c LRBRL permite entender definitivamente adoptado el acuerdo hasta entonces provisional cuando no se presentan reclamaciones ni sugerencias; aun así, el texto debe publicarse íntegramente. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «El acuerdo provisional se entiende definitivamente adoptado». El distractor «Debe aprobarlo de nuevo la Alcaldía» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-04",
@@ -417,7 +417,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 4.2 Resultado de la exposición pública",
-    "explicación": "Las reclamaciones deben resolverse y la aprobación definitiva corresponde al Pleno. La participación no da derecho de veto, pero tampoco puede omitirse la resolución."
+    "explicacion": "Las reclamaciones deben resolverse y la aprobación definitiva corresponde al Pleno. La participación no da derecho de veto, pero tampoco puede omitirse la resolución. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Resolverlas y aprobar definitivamente el texto». El distractor «Ignorarlas si la mayoría simple las rechaza informalmente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-05",
@@ -431,7 +431,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 4.1 Entrada en vigor y artículos 65.2 y 70.2 LRBRL",
-    "explicación": "La publicación íntegra en el boletín oficial y el transcurso del plazo de quince días de los artículos 65.2 y 70.2 LRBRL son requisitos generales de entrada en vigor, salvo especialidad aplicable."
+    "explicacion": "La publicación íntegra en el boletín oficial y el transcurso del plazo de quince días de los artículos 65.2 y 70.2 LRBRL son requisitos generales de entrada en vigor, salvo especialidad aplicable. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Publicación íntegra y transcurso del plazo legal de quince días». El distractor «Solo su aprobación inicial» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-06",
@@ -445,7 +445,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 3.2 Reglamentos locales y régimen de gran población",
-    "explicación": "El artículo 127.1.a LRBRL atribuye a la Junta de Gobierno la aprobación de los proyectos; el artículo 123 reserva al Pleno la aprobación y modificación de ordenanzas y reglamentos municipales."
+    "explicacion": "El artículo 127.1.a LRBRL atribuye a la Junta de Gobierno la aprobación de los proyectos; el artículo 123 reserva al Pleno la aprobación y modificación de ordenanzas y reglamentos municipales. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Aprueba los proyectos, mientras el Pleno aprueba las normas». El distractor «Aprueba definitivamente siempre las ordenanzas» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-07",
@@ -459,7 +459,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 3.2 Reglamento orgánico",
-    "explicación": "La aprobación y modificación del Reglamento Orgánico requiere mayoría absoluta del número legal de miembros de la Corporación."
+    "explicacion": "La aprobación y modificación del Reglamento Orgánico requiere mayoría absoluta del número legal de miembros de la Corporación. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Mayoría absoluta del número legal de miembros». El distractor «Unanimidad de los asistentes» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-08",
@@ -473,7 +473,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 6 Bandos",
-    "explicación": "La ordenanza tiene vocación normativa general y sigue el procedimiento del artículo 49 LRBRL. El bando se dicta por la Alcaldía dentro de sus atribuciones y no puede sustituir aquella potestad."
+    "explicacion": "La ordenanza tiene vocación normativa general y sigue el procedimiento del artículo 49 LRBRL. El bando se dicta por la Alcaldía dentro de sus atribuciones y no puede sustituir aquella potestad. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «La ordenanza es una disposición general aprobada por el Pleno y el bando una medida…». El distractor «Ambos son siempre acuerdos del Pleno» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-09",
@@ -487,7 +487,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 5 Ordenanzas fiscales",
-    "explicación": "Las ordenanzas fiscales tienen procedimiento y régimen de impugnación específicos en los artículos 15 a 19 del Texto Refundido de la Ley Reguladora de las Haciendas Locales."
+    "explicacion": "Las ordenanzas fiscales tienen procedimiento y régimen de impugnación específicos en los artículos 15 a 19 del Texto Refundido de la Ley Reguladora de las Haciendas Locales. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «Los artículos 15 a 19 del TRLRHL». El distractor «El Código Penal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-10",
@@ -501,7 +501,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 7 Publicidad, control e impugnación",
-    "explicación": "Las ordenanzas son disposiciones generales y su control directo corresponde a la jurisdicción contencioso-administrativa, no a un recurso administrativo ordinario."
+    "explicacion": "Las ordenanzas son disposiciones generales y su control directo corresponde a la jurisdicción contencioso-administrativa, no a un recurso administrativo ordinario. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «La jurisdicción contencioso-administrativa». El distractor «Un recurso de alzada ante la Alcaldía» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-11",
@@ -515,7 +515,7 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 5 Ordenanzas fiscales y 7 Impugnación",
-    "explicación": "Debe distinguirse la disposición general de su acto de aplicación: recibo, liquidación o providencia de apremio tienen sus propias vías de impugnación tributaria."
+    "explicacion": "Debe distinguirse la disposición general de su acto de aplicación: recibo, liquidación o providencia de apremio tienen sus propias vías de impugnación tributaria. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «El acto tributario concreto». El distractor «La Constitución completa» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   },
   {
     "id": "burgos-ii12-deep-12",
@@ -529,6 +529,6 @@
     ],
     "correcta": 0,
     "referencia": "II.12 · 5 Ordenanzas fiscales y 6 Bandos",
-    "explicación": "Un bando no puede crear tributos ni sustituir la ordenanza fiscal y sus garantías de aprobación, exposición pública y publicación."
+    "explicacion": "Un bando no puede crear tributos ni sustituir la ordenanza fiscal y sus garantías de aprobación, exposición pública y publicación. La norma aplicable —los artículos 22, 47, 49, 65, 70 y 127 de la Ley 7/1985— establece «No puede crearla mediante bando; debe respetar la potestad tributaria y el procedimiento de ordenanza…». El distractor «Puede crearla porque todo bando tiene rango de…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
   }
 ]
