@@ -10,8 +10,8 @@
       "ningún régimen de Seguridad Social"
     ],
     "correcta": 0,
-    "explicación": "El tema concluye que el personal local queda en el Régimen General.",
-    "referencia": "III.5 · 1.2 Encuadramiento del personal local"
+    "referencia": "III.5 · 1.2 Encuadramiento del personal local",
+    "explicacion": "La respuesta correcta es «el Régimen General de la Seguridad Social». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   },
   {
     "id": "t30-p002",
@@ -24,8 +24,8 @@
       "entidades sin obligaciones de alta"
     ],
     "correcta": 0,
-    "explicación": "El tema las define como empresarios a efectos de Seguridad Social.",
-    "referencia": "III.5 · 1.3 La Corporación Local como empresario cotizante"
+    "referencia": "III.5 · 1.3 La Corporación Local como empresario cotizante",
+    "explicacion": "Como empleadoras, las Corporaciones Locales deben cumplir las obligaciones de inscripción, afiliación cuando proceda, altas y bajas, cotización e ingreso de cuotas. Actúan como empresarios a efectos del sistema, pero no como mutuas ni órganos jurisdiccionales. La TGSS gestiona los actos de encuadramiento y recaudación; la entidad local comunica los datos y satisface sus obligaciones."
   },
   {
     "id": "t30-p004",
@@ -38,8 +38,8 @@
       "solo dietas y asistencias"
     ],
     "correcta": 0,
-    "explicación": "El tema desarrolla esas modalidades de asistencia.",
-    "referencia": "III.5 · 3.2 Modalidades de asistencia sanitaria"
+    "referencia": "III.5 · 3.2 Modalidades de asistencia sanitaria",
+    "explicacion": "La acción protectora sanitaria incluye atención primaria, atención especializada y prestaciones farmacéuticas conforme a la cartera común y a su normativa. No se limita a la cirugía hospitalaria ni a ayudas económicas: combina niveles de atención y servicios sanitarios. En el sistema de Seguridad Social, la asistencia sanitaria es una prestación de protección, no una competencia presupuestaria local."
   },
   {
     "id": "t30-p005",
@@ -52,8 +52,8 @@
       "suspensión de funciones"
     ],
     "correcta": 0,
-    "explicación": "El tema la define así en el art. 169 TRLGSS.",
-    "referencia": "III.5 · 4.1 Concepto"
+    "referencia": "III.5 · 4.1 Concepto",
+    "explicacion": "La respuesta correcta es «asistencia sanitaria de la Seguridad Social». La incapacidad temporal exige impedimento temporal para trabajar y asistencia sanitaria, y dura como máximo 365 días, prorrogables por otros 180 cuando se prevea curación. No es una suspensión disciplinaria ni un periodo automático de dos años sin control."
   },
   {
     "id": "t30-p007",
@@ -66,8 +66,8 @@
       "180 días improrrogables"
     ],
     "correcta": 0,
-    "explicación": "El tema fija ese límite de 365 + 180 días.",
-    "referencia": "III.5 · 4.4 Duración de la IT"
+    "referencia": "III.5 · 4.4 Duración de la IT",
+    "explicacion": "La respuesta correcta es «365 días, prorrogables por otros 180». La incapacidad temporal exige impedimento temporal para trabajar y asistencia sanitaria, y dura como máximo 365 días, prorrogables por otros 180 cuando se prevea curación. No es una suspensión disciplinaria ni un periodo automático de dos años sin control. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "t30-p008",
@@ -80,8 +80,8 @@
       "18 meses"
     ],
     "correcta": 0,
-    "explicación": "Tras el Real Decreto-ley 9/2025, la duración general vigente es de 19 semanas por progenitor.",
-    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor"
+    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor",
+    "explicacion": "El RDL 9/2025 amplió la prestación por nacimiento y cuidado a diecinueve semanas para cada progenitor; dos semanas adicionales pueden disfrutarse hasta que el menor cumpla ocho años, según la disposición transitoria aplicable. La prestación económica es individual, no un bloque de semanas compartido por la unidad familiar. Las seis primeras siguen siendo obligatorias e ininterrumpidas."
   },
   {
     "id": "t30-p009",
@@ -94,8 +94,8 @@
       "sustituibles por compensación económica"
     ],
     "correcta": 0,
-    "explicación": "El tema las declara obligatorias e ininterrumpidas.",
-    "referencia": "III.5 · 5.2 Duración del permiso"
+    "referencia": "III.5 · 5.2 Duración del permiso",
+    "explicacion": "El artículo 48 TREBEP y el artículo 48 ET, modificados por el RDL 9/2025, mantienen seis semanas obligatorias e ininterrumpidas inmediatamente después del nacimiento o resolución correspondiente y a jornada completa. El resto del permiso admite otras formas y periodos de disfrute según la ley. No son semanas voluntarias que puedan aplazarse todas ni un derecho exclusivo de un progenitor."
   },
   {
     "id": "t30-p010",
@@ -108,8 +108,8 @@
       "50 % del salario mensual"
     ],
     "correcta": 0,
-    "explicación": "El tema fija el 100 % de la base reguladora.",
-    "referencia": "III.5 · 5.3 Cuantía del subsidio"
+    "referencia": "III.5 · 5.3 Cuantía del subsidio",
+    "explicacion": "La prestación por nacimiento y cuidado de menor asciende al 100 % de la base reguladora, calculada con las reglas de cotización correspondientes. La base reguladora no equivale necesariamente al salario mensual neto ni a la base mínima. Por eso las opciones que hablan de un porcentaje fijo de nómina o de base mínima no expresan el cálculo legal."
   },
   {
     "id": "t30-p011",
@@ -122,8 +122,8 @@
       "únicamente los trabajos nocturnos"
     ],
     "correcta": 0,
-    "explicación": "El tema la define así y permite otra profesión distinta.",
-    "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
+    "referencia": "III.5 · 6.2 Grados de incapacidad permanente",
+    "explicacion": "La incapacidad permanente total inhabilita para todas o las tareas fundamentales de la profesión habitual, pero permite dedicarse a otra diferente, sin perjuicio de las reglas sobre compatibilidad. La incapacidad permanente absoluta afecta a todo trabajo y la parcial reduce el rendimiento sin impedir las tareas fundamentales. Por eso no equivale a una imposibilidad universal de trabajar."
   },
   {
     "id": "t30-p017",
@@ -136,8 +136,8 @@
       "Ningún período de cotización, con independencia de la edad del causante"
     ],
     "correcta": 0,
-    "explicación": "Con carácter general, se exige acreditar 180 días cotizados en los 7 años anteriores o 360 días en toda la vida laboral.",
-    "referencia": "LGSS · nacimiento y cuidado de menor"
+    "referencia": "LGSS · nacimiento y cuidado de menor",
+    "explicacion": "Para la prestación por nacimiento y cuidado, la carencia depende de la edad: a partir de 26 años se exigen 180 días en los siete años anteriores o 360 a lo largo de la vida laboral; entre 21 y 26 se aplican periodos menores y por debajo de 21 no se exige carencia. La opción señala el requisito general del supuesto adulto, no una regla uniforme para todas las edades."
   },
   {
     "id": "t30-p018",
@@ -150,8 +150,8 @@
       "un complemento por gran invalidez"
     ],
     "correcta": 0,
-    "explicación": "La IP parcial disminuye el rendimiento en la profesión habitual sin impedir las tareas fundamentales y se indemniza con 24 mensualidades.",
-    "referencia": "III.5 · 6.2 Grados de incapacidad permanente"
+    "referencia": "III.5 · 6.2 Grados de incapacidad permanente",
+    "explicacion": "La incapacidad permanente parcial ocasiona una disminución no inferior al 33 % del rendimiento normal para la profesión habitual, sin impedir sus tareas fundamentales, y da derecho a una indemnización a tanto alzado de 24 mensualidades de la base reguladora. No genera la pensión propia de la incapacidad total ni el complemento ligado a gran incapacidad."
   },
   {
     "id": "t45-p011",
@@ -164,8 +164,8 @@
       "Sesenta días naturales"
     ],
     "correcta": 1,
-    "explicación": "El tema fija tres días naturales tras el cese.",
-    "referencia": "III.5 · 5.2 Bajas"
+    "referencia": "III.5 · 5.2 Bajas",
+    "explicacion": "La respuesta correcta es «Tres días naturales». En el Régimen General, las bajas y variaciones de datos se comunican, como regla, dentro de los tres días naturales siguientes al cese o cambio. Se cuentan días naturales, no hábiles; el alta, en cambio, debe solicitarse antes del inicio del trabajo. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "t45-p012",
@@ -178,8 +178,8 @@
       "Régimen especial de funcionarios locales"
     ],
     "correcta": 2,
-    "explicación": "El tema sitúa al personal laboral en el Régimen General de la Seguridad Social.",
-    "referencia": "III.5 · 6.1 El Régimen General de la Seguridad Social"
+    "referencia": "III.5 · 6.1 El Régimen General de la Seguridad Social",
+    "explicacion": "La respuesta correcta es «Régimen General de la Seguridad Social». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   },
   {
     "id": "t45-p014",
@@ -192,8 +192,8 @@
       "Cotizar mediante el modelo 145"
     ],
     "correcta": 0,
-    "explicación": "El tema destaca esa posibilidad de elección sanitaria.",
-    "referencia": "III.5 · 7.1 La MUFACE"
+    "referencia": "III.5 · 7.1 La MUFACE",
+    "explicacion": "MUFACE permite a sus mutualistas elegir, en los periodos y condiciones establecidos, entre asistencia sanitaria del sistema público y una entidad médica privada concertada. Esa elección corresponde al régimen mutualista y no es una retribución ni una forma de cotización. No debe extenderse al personal laboral o a todos los empleados de un ayuntamiento."
   },
   {
     "id": "t45-p015",
@@ -206,8 +206,8 @@
       "Solo a los funcionarios locales"
     ],
     "correcta": 0,
-    "explicación": "El corte temporal del tema es el 1 de enero de 2011.",
-    "referencia": "III.5 · 7.2 Las Clases Pasivas del Estado"
+    "referencia": "III.5 · 7.2 Las Clases Pasivas del Estado",
+    "explicacion": "El régimen de Clases Pasivas quedó cerrado, como regla, a nuevos ingresos desde el 1 de enero de 2011: los funcionarios civiles del Estado ingresados antes de esa fecha pueden permanecer en él, mientras los nuevos quedan encuadrados en el Régimen General, con las excepciones legales. No es un régimen propio del personal funcionario local."
   },
   {
     "id": "t45-p018",
@@ -220,8 +220,8 @@
       "La opción sanitaria la determina en exclusiva la Administración."
     ],
     "correcta": 0,
-    "explicación": "El tema destaca como principal particularidad de MUFACE la libre elección entre asistencia sanitaria pública y privada concertada.",
-    "referencia": "III.5 · 7.1 La MUFACE"
+    "referencia": "III.5 · 7.1 La MUFACE",
+    "explicacion": "La respuesta correcta es «Pueden elegir libremente entre la red pública y una entidad médica privada concertada.». MUFACE es el mutualismo administrativo de funcionarios civiles del Estado incluidos en su ámbito; no es el régimen general de todo el empleo público local ni del personal laboral. La elección sanitaria entre sistema público y entidad concertada opera para sus mutualistas conforme a las reglas de la mutualidad."
   },
   {
     "id": "topup-26-01",
@@ -233,9 +233,9 @@
       "sin cobertura sanitaria"
     ],
     "correcta": 0,
-    "explicación": "La acción protectora es el núcleo del sistema de Seguridad Social.",
     "referencia": "III.5 · Acción protectora",
-    "tema": 26
+    "tema": 26,
+    "explicacion": "La respuesta correcta es «frente a contingencias y situaciones de necesidad». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
   },
   {
     "id": "topup-26-02",
@@ -247,9 +247,9 @@
       "la composición del Senado"
     ],
     "correcta": 0,
-    "explicación": "El campo de aplicación fija el ámbito subjetivo del sistema.",
     "referencia": "III.5 · Campo de aplicación",
-    "tema": 26
+    "tema": 26,
+    "explicacion": "La respuesta correcta es «quienes quedan incluidos y protegidos por el sistema». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
   },
   {
     "id": "topup-26-03",
@@ -261,9 +261,9 @@
       "potestad sancionadora local"
     ],
     "correcta": 0,
-    "explicación": "La asistencia sanitaria es una prestación básica de la acción protectora.",
     "referencia": "III.5 · Acción protectora",
-    "tema": 26
+    "tema": 26,
+    "explicacion": "La respuesta correcta es «acción protectora de la Seguridad Social». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
   },
   {
     "id": "topup-26-04",
@@ -275,9 +275,9 @@
       "regimenes contenciosos"
     ],
     "correcta": 0,
-    "explicación": "La organización del sistema distingue régimen general y regimenes especiales.",
     "referencia": "III.5 · Estructura del sistema",
-    "tema": 26
+    "tema": 26,
+    "explicacion": "El artículo 9 TRLGSS organiza el sistema en un Régimen General y regímenes especiales establecidos legalmente para actividades o colectivos con particularidades. Los regímenes especiales siguen dentro del sistema de Seguridad Social; no son regímenes urbanísticos ni jurisdiccionales. El encuadramiento concreto depende de la actividad y de la norma aplicable."
   },
   {
     "id": "estado2026-extra-t26-01",
@@ -290,11 +290,11 @@
       "Consorcio local"
     ],
     "correcta": 0,
-    "explicación": "El examen de Estado 2026 recuerda que MUFACE se integra como organismo público.",
     "referencia": "Examen Estado 2026, MUFACE; Tema III.5, Seguridad Social y mutualismo",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "MUFACE es un organismo autónomo estatal con personalidad jurídica pública diferenciada y patrimonio y tesorería propios, adscrito al departamento competente en función pública. No es una sociedad mercantil, fundación ni consorcio local. Su naturaleza organizativa debe distinguirse de las entidades gestoras y servicios comunes de la Seguridad Social."
   },
   {
     "id": "estado2026-extra-t26-02",
@@ -307,11 +307,11 @@
       "Treinta y tres años"
     ],
     "correcta": 0,
-    "explicación": "La pregunta del examen fijaba como respuesta correcta veinticinco años para el supuesto descrito.",
     "referencia": "Examen Estado 2026, Seguridad Social; Tema III.5",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Veinticinco años». El artículo 215 LGSS establece requisitos propios para la jubilación parcial y reduce a veinticinco años la cotización exigida en el supuesto de discapacidad igual o superior al 33 %. No es una regla general para toda jubilación parcial: edad, relevo y jornada también importan. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii05-deep-01",
@@ -324,8 +324,8 @@
       "La afiliación solo existe para trabajadores autónomos."
     ],
     "correcta": 0,
-    "explicación": "La afiliación incorpora por primera vez al sistema y permanece; el alta se produce por el inicio de una actividad incluida.",
-    "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización"
+    "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización",
+    "explicacion": "La respuesta correcta es «La afiliación es única y vitalicia; el alta vincula a una persona con una actividad y régimen concretos.». La afiliación incorpora a la persona por primera vez al sistema y permanece; el alta comunica el inicio de una actividad concreta y puede repetirse. La TGSS gestiona estas actuaciones, cotización y recaudación; el INSS reconoce muchas prestaciones económicas."
   },
   {
     "id": "burgos-iii05-deep-02",
@@ -338,8 +338,8 @@
       "los veinte días naturales anteriores al cese"
     ],
     "correcta": 0,
-    "explicación": "El plazo reglamentario general para la baja y la variación de datos es de tres días naturales.",
-    "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización"
+    "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización",
+    "explicacion": "La respuesta correcta es «los tres días naturales siguientes al cese». En el Régimen General, las bajas y variaciones de datos se comunican, como regla, dentro de los tres días naturales siguientes al cese o cambio. Se cuentan días naturales, no hábiles; el alta, en cambio, debe solicitarse antes del inicio del trabajo. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii05-deep-03",
@@ -352,8 +352,8 @@
       "Una mutua colaboradora en todo caso"
     ],
     "correcta": 0,
-    "explicación": "La TGSS es el servicio común al que se atribuyen esas funciones instrumentales y recaudatorias.",
-    "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración"
+    "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración",
+    "explicacion": "La respuesta correcta es «La Tesorería General de la Seguridad Social». La afiliación incorpora a la persona por primera vez al sistema y permanece; el alta comunica el inicio de una actividad concreta y puede repetirse. La TGSS gestiona estas actuaciones, cotización y recaudación; el INSS reconoce muchas prestaciones económicas."
   },
   {
     "id": "burgos-iii05-deep-04",
@@ -366,8 +366,8 @@
       "exclusivamente la protección de funcionarios"
     ],
     "correcta": 0,
-    "explicación": "La acción protectora es más amplia que las pensiones: incluye asistencia sanitaria, prestaciones económicas y servicios sociales, entre otras coberturas.",
-    "referencia": "III.5 · 6. Acción protectora"
+    "referencia": "III.5 · 6. Acción protectora",
+    "explicacion": "La respuesta correcta es «prestaciones y servicios frente a contingencias y situaciones de necesidad, incluida la asistencia sanitaria en los términos legales». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
   },
   {
     "id": "burgos-iii05-deep-05",
@@ -380,8 +380,8 @@
       "730 días sin necesidad de control"
     ],
     "correcta": 0,
-    "explicación": "La duración general es de 365 días y puede prorrogarse por otros 180 cuando se prevea curación durante ese periodo.",
-    "referencia": "III.5 · 6.3 Incapacidad temporal"
+    "referencia": "III.5 · 6.3 Incapacidad temporal",
+    "explicacion": "La respuesta correcta es «365 días, prorrogables por 180 días cuando se presuma el alta por curación». La incapacidad temporal exige impedimento temporal para trabajar y asistencia sanitaria, y dura como máximo 365 días, prorrogables por otros 180 cuando se prevea curación. No es una suspensión disciplinaria ni un periodo automático de dos años sin control. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii05-deep-06",
@@ -394,8 +394,8 @@
       "los actos esenciales de la vida, necesariamente"
     ],
     "correcta": 0,
-    "explicación": "La incapacidad permanente total se refiere a la profesión habitual; no impide necesariamente otra profesión.",
-    "referencia": "III.5 · 6.5 Incapacidad permanente"
+    "referencia": "III.5 · 6.5 Incapacidad permanente",
+    "explicacion": "La respuesta correcta es «todas o las fundamentales tareas de su profesión habitual, pero puede dedicarse a otra distinta». La incapacidad permanente total inhabilita para todas o las tareas fundamentales de la profesión habitual, pero puede permitir otra distinta. La absoluta se refiere a toda profesión u oficio y la gran incapacidad añade necesidad de ayuda para actos esenciales."
   },
   {
     "id": "burgos-iii05-deep-07",
@@ -408,8 +408,8 @@
       "6 semanas por progenitor"
     ],
     "correcta": 0,
-    "explicación": "El Real Decreto-ley 9/2025 amplió la duración general a 19 semanas por progenitor.",
-    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor"
+    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor",
+    "explicacion": "La respuesta correcta es «19 semanas por progenitor». El permiso y prestación por nacimiento y cuidado se ampliaron a 19 semanas por progenitor mediante el RDL 9/2025; las primeras seis son obligatorias, ininterrumpidas y a jornada completa. No se trata de una duración única compartida por la unidad familiar ni sustituible por dinero. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii05-deep-08",
@@ -422,8 +422,8 @@
       "sustituibles por una indemnización"
     ],
     "correcta": 0,
-    "explicación": "Las seis primeras semanas deben disfrutarse inmediatamente, de forma obligatoria, ininterrumpida y a jornada completa, en los términos legales.",
-    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor"
+    "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor",
+    "explicacion": "La respuesta correcta es «obligatorias, ininterrumpidas y a jornada completa». El permiso y prestación por nacimiento y cuidado se ampliaron a 19 semanas por progenitor mediante el RDL 9/2025; las primeras seis son obligatorias, ininterrumpidas y a jornada completa. No se trata de una duración única compartida por la unidad familiar ni sustituible por dinero."
   },
   {
     "id": "burgos-iii05-deep-09",
@@ -436,8 +436,8 @@
       "Solo existe modalidad no contributiva en el Régimen General."
     ],
     "correcta": 0,
-    "explicación": "La diferencia se refiere a la relación profesional y cotización frente a la protección asistencial por necesidad; ninguna modalidad es automática.",
-    "referencia": "III.5 · 2.1 Modalidad contributiva y no contributiva"
+    "referencia": "III.5 · 2.1 Modalidad contributiva y no contributiva",
+    "explicacion": "La respuesta correcta es «La contributiva se vincula a actividad y cotización; la no contributiva atiende necesidad y exige sus propios requisitos de residencia y rentas.». El TRLGSS organiza el encuadramiento, la gestión y la protección del sistema. Cada prestación tiene hecho causante, requisitos y cálculo propios; no deben confundirse las funciones de TGSS, INSS y mutuas ni generalizarse el régimen de mutualidades especiales."
   },
   {
     "id": "burgos-iii05-deep-10",
@@ -450,8 +450,8 @@
       "es una entidad local que gestiona las nóminas municipales"
     ],
     "correcta": 0,
-    "explicación": "La mutua colabora en ámbitos legalmente previstos, especialmente contingencias profesionales, pero no asume todas las funciones del sistema.",
-    "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración"
+    "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración",
+    "explicacion": "La respuesta correcta es «colabora en la gestión de determinadas contingencias y prestaciones conforme a la ley y a la cobertura existente». Las mutuas colaboradoras participan en la gestión de contingencias y prestaciones previstas legalmente y según la cobertura concertada. No sustituyen a la TGSS en afiliación o recaudación ni determinan por sí mismas el régimen aplicable a cada trabajador. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   },
   {
     "id": "burgos-iii05-deep-11",
@@ -464,8 +464,8 @@
       "comunicarlo únicamente al SEPE"
     ],
     "correcta": 0,
-    "explicación": "El alta se vincula al inicio de la actividad y debe solicitarse antes; la afiliación solo se realiza por primera incorporación al sistema.",
-    "referencia": "III.5 · 8. Aplicación práctica en el Ayuntamiento de Burgos"
+    "referencia": "III.5 · 8. Aplicación práctica en el Ayuntamiento de Burgos",
+    "explicacion": "La respuesta correcta es «determinar el encuadramiento y tramitar el alta antes del inicio de la prestación de servicios». La afiliación incorpora a la persona por primera vez al sistema y permanece; el alta comunica el inicio de una actividad concreta y puede repetirse. La TGSS gestiona estas actuaciones, cotización y recaudación; el INSS reconoce muchas prestaciones económicas."
   },
   {
     "id": "burgos-iii05-deep-12",
@@ -478,7 +478,7 @@
       "Es la entidad gestora de todas las pensiones del Régimen General."
     ],
     "correcta": 0,
-    "explicación": "MUFACE tiene un ámbito subjetivo propio: no debe generalizarse al personal laboral ni al funcionariado local.",
-    "referencia": "III.5 · 7. Mutualismo administrativo"
+    "referencia": "III.5 · 7. Mutualismo administrativo",
+    "explicacion": "La respuesta correcta es «Es la mutualidad de los funcionarios civiles del Estado incluidos en su…». MUFACE es el mutualismo administrativo de funcionarios civiles del Estado incluidos en su ámbito; no es el régimen general de todo el empleo público local ni del personal laboral. La elección sanitaria entre sistema público y entidad concertada opera para sus mutualistas conforme a las reglas de la mutualidad. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   }
 ]

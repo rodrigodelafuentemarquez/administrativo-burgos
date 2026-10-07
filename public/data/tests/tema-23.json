@@ -10,11 +10,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 34",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «La sanción disciplinaria de separación del servicio aunque no tuviera carácter firme.». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "pdf-2024-burgos-est-q35",
@@ -27,11 +27,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 35",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «3 años.». La excedencia por cuidado protege la conciliación y conserva derechos de carrera y reserva durante los periodos que establece el artículo 89 TREBEP. No debe confundirse con la excedencia por interés particular, que tiene requisitos y efectos menos protectores. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "pdf-2025-burgos-q59",
@@ -45,11 +45,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 59",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «La sanción disciplinaria de separación del servicio, aunque no tuviera carácter firme.». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "pdf-2025-burgos-q60",
@@ -63,11 +63,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 60",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «5 años inmediatamente anteriores.». La excedencia por interés particular exige, como regla básica, cinco años de servicios efectivos inmediatamente anteriores y queda subordinada a las necesidades del servicio debidamente motivadas; las leyes de desarrollo pueden reducir el periodo. No comporta reserva ordinaria de puesto ni retribuciones. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "pdf-2023-burgos-q39",
@@ -81,11 +81,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 39",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Extinción de la relación de servicios como consecuencia de la pérdida de la nacionalidad.». El artículo 68 TREBEP prevé rehabilitación en supuestos y con requisitos distintos: tras recuperar la nacionalidad o, excepcionalmente, después de una inhabilitación, a solicitud y por decisión del órgano de gobierno. La separación disciplinaria no habilita esa rehabilitación excepcional."
   },
   {
     "id": "pdf-2023-burgos-q40",
@@ -99,11 +99,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 40",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «5 años inmediatamente anteriores.». La excedencia por interés particular exige, como regla básica, cinco años de servicios efectivos inmediatamente anteriores y queda subordinada a las necesidades del servicio debidamente motivadas; las leyes de desarrollo pueden reducir el periodo. No comporta reserva ordinaria de puesto ni retribuciones. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "t22-p012",
@@ -116,8 +116,8 @@
       "una baja por incapacidad temporal"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define como la situación ordinaria.",
-    "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
+    "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)",
+    "explicacion": "La respuesta correcta es «la situación ordinaria en la que el funcionario presta servicios en su puesto». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "t22-p013",
@@ -130,8 +130,8 @@
       "10 años"
     ],
     "correcta": 0,
-    "explicación": "El TREBEP exige cinco años de servicios efectivos en cualquiera de las Administraciones Públicas durante el período inmediatamente anterior, sin perjuicio de lo que puedan establecer las leyes de desarrollo.",
-    "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)"
+    "referencia": "III.2 · 6.2 Clases de situaciones administrativas (arts. 85-92 TREBEP)",
+    "explicacion": "La respuesta correcta es «cinco años inmediatamente anteriores». La excedencia por interés particular exige, como regla básica, cinco años de servicios efectivos inmediatamente anteriores y queda subordinada a las necesidades del servicio debidamente motivadas; las leyes de desarrollo pueden reducir el periodo. No comporta reserva ordinaria de puesto ni retribuciones. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "t28-p014",
@@ -144,8 +144,8 @@
       "propia de la suspensión de funciones"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como situación ordinaria.",
-    "referencia": "III.2 · 5.1 Servicio activo"
+    "referencia": "III.2 · 5.1 Servicio activo",
+    "explicacion": "La respuesta correcta es «ordinaria del funcionario que presta servicios en su puesto». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "t46-p012",
@@ -158,8 +158,8 @@
       "Servicio activo"
     ],
     "correcta": 1,
-    "explicación": "El tema reserva esa categoría para esos cargos.",
-    "referencia": "III.2 · 7.2 Servicios especiales"
+    "referencia": "III.2 · 7.2 Servicios especiales",
+    "explicacion": "La respuesta correcta es «Servicios especiales». El TREBEP regula de forma diferenciada la adquisición y pérdida de la condición funcionarial y las situaciones administrativas. La consecuencia depende del hecho y del procedimiento legal; no basta una decisión informal ni se equiparan todas las excedencias y suspensiones. La alternativa confunde situaciones administrativas con requisitos y efectos diferentes, en particular sobre puesto, retribución y reserva."
   },
   {
     "id": "t46-p013",
@@ -172,8 +172,8 @@
       "Ninguna antigüedad"
     ],
     "correcta": 0,
-    "explicación": "El TREBEP exige cinco años de servicios efectivos inmediatamente anteriores para poder obtener esta excedencia, aunque las leyes de desarrollo pueden reducir ese período.",
-    "referencia": "III.2 · 7.4 Excedencia"
+    "referencia": "III.2 · 7.4 Excedencia",
+    "explicacion": "La respuesta correcta es «Cinco años de servicios efectivos inmediatamente anteriores, salvo previsión de desarrollo más favorable». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "t23-p025-funcionario-carrera",
@@ -186,8 +186,8 @@
       "Aprobación de la OEP, publicación en el BOCYL y juramento ante las Cortes"
     ],
     "correcta": 0,
-    "explicación": "El artículo 62 exige cuatro pasos: superar el proceso selectivo; obtener nombramiento del órgano competente, publicado en el diario oficial; acatar la Constitución y, en su caso, el Estatuto de Autonomía y el resto del ordenamiento; y tomar posesión en plazo.",
-    "referencia": "TREBEP · art. 62 · Tema III.2"
+    "referencia": "TREBEP · art. 62 · Tema III.2",
+    "explicacion": "El artículo 62 exige cuatro pasos: superar el proceso selectivo; obtener nombramiento del órgano competente, publicado en el diario oficial; acatar la Constitución y, en su caso, el Estatuto de Autonomía y el resto del ordenamiento; y tomar posesión en plazo."
   },
   {
     "id": "t46-p029",
@@ -200,8 +200,8 @@
       "La adscripción provisional a otro puesto"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera esas causas tasadas de pérdida de la condición de funcionario de carrera.",
-    "referencia": "III.2 · 2.1 Funcionarios de carrera"
+    "referencia": "III.2 · 2.1 Funcionarios de carrera",
+    "explicacion": "La respuesta correcta es «La renuncia, la jubilación y la sanción disciplinaria de separación del servicio». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "t23-p032-toma-posesion",
@@ -214,8 +214,8 @@
       "Ningun requisito adicional"
     ],
     "correcta": 0,
-    "explicación": "Entre los requisitos sucesivos figura la toma de posesión dentro del plazo establecido, además del nombramiento por el órgano competente.",
-    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera"
+    "referencia": "Banco legado · Tema 46, 2.1 Funcionarios de carrera",
+    "explicacion": "La respuesta correcta es «La toma de posesión dentro del plazo señalado». El artículo 62 TREBEP exige sucesivamente superar el proceso selectivo, obtener nombramiento publicado, acatar la Constitución y tomar posesión dentro del plazo. Aprobar una OEP o figurar en una bolsa no confiere por sí solo la condición de funcionario de carrera."
   },
   {
     "id": "t23-p033-interino",
@@ -228,8 +228,8 @@
       "La ejecución de programas temporales con duración máxima de dos años ampliable a doce meses más"
     ],
     "correcta": 1,
-    "explicación": "El tema recoge la sustitución transitoria del titular como supuesto de nombramiento de funcionario interino.",
-    "referencia": "Banco legado · Tema 46, 2.2 Funcionarios interinos"
+    "referencia": "Banco legado · Tema 46, 2.2 Funcionarios interinos",
+    "explicacion": "La respuesta correcta es «La sustitución transitoria de los titulares durante el tiempo estrictamente necesario». El TREBEP regula de forma diferenciada la adquisición y pérdida de la condición funcionarial y las situaciones administrativas. La consecuencia depende del hecho y del procedimiento legal; no basta una decisión informal ni se equiparan todas las excedencias y suspensiones. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "topup-23-02",
@@ -241,9 +241,9 @@
       "ratificada por el Pleno municipal en todos los casos"
     ],
     "correcta": 0,
-    "explicación": "La renuncia exige aceptación administrativa y puede no admitirse si existen responsabilidades pendientes.",
     "referencia": "III.2 · Perdida de la condición de funcionario",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «voluntaria y aceptada por la Administración, con los límites legales». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "topup-23-05",
@@ -255,9 +255,9 @@
       "nombramiento como personal eventual"
     ],
     "correcta": 0,
-    "explicación": "Es la modalidad más abierta al interés personal, con efectos menos protectores.",
     "referencia": "III.2 · Excedencias",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «ausencia de retribuciones y sin reserva de puesto». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "topup-23-06",
@@ -269,9 +269,9 @@
       "la contratación menor"
     ],
     "correcta": 0,
-    "explicación": "Es una excedencia orientada a la conciliación y el cuidado familiar.",
     "referencia": "III.2 · Excedencias",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «la conciliación». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "topup-23-07",
@@ -283,9 +283,9 @@
       "disolución de las Cortes"
     ],
     "correcta": 0,
-    "explicación": "La suspensión firme responde a una decisión sancionadora o judicial.",
     "referencia": "III.2 · Suspensión de funciones",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «sanción disciplinaria o sentencia judicial». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "topup-23-08",
@@ -297,9 +297,9 @@
       "se trate de una licencia urbanística"
     ],
     "correcta": 0,
-    "explicación": "La suspensión provisional es una medida cautelar vinculada a un procedimiento.",
     "referencia": "III.2 · Suspensión de funciones",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «sea necesario y conforme a la ley». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "topup-23-11",
@@ -311,9 +311,9 @@
       "convertirse en eventual"
     ],
     "correcta": 0,
-    "explicación": "La movilidad entre Administraciones mantiene la condición de origen con los efectos legales correspondientes.",
     "referencia": "III.2 · Servicio en otras Administraciones",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «integrarse funcionalmente en la Administración de destino». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "refine-23-01",
@@ -326,8 +326,8 @@
     ],
     "correcta": 0,
     "referencia": "III.2 · Perdida de la condición de funcionario",
-    "explicación": "La renuncia exige una manifestación expresa y su tratamiento se sujeta al régimen legal correspondiente.",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «expresa y aceptada por la Administración salvo que la aceptación quede legalmente impedida». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "refine-23-02",
@@ -340,8 +340,8 @@
     ],
     "correcta": 0,
     "referencia": "III.2 · Situaciones administrativas",
-    "explicación": "Los servicios especiales se conectan con cargos o funciones que justifican la separación temporal del puesto ordinario.",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «determinados cargos o funciones incompatibles con el servicio activo ordinario». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "refine-23-03",
@@ -354,8 +354,8 @@
     ],
     "correcta": 0,
     "referencia": "III.2 · Excedencias",
-    "explicación": "La excedencia por interés particular suspende la prestación de servicios sin reserva ordinaria de puesto ni retribuciones.",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «no comporta reserva de puesto ni devengo de retribuciones». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "refine-23-05",
@@ -368,8 +368,8 @@
     ],
     "correcta": 0,
     "referencia": "Situaciones administrativas · servicio en otras Administraciones Públicas",
-    "explicación": "La situación de servicio en otras administraciones no extingue por sí misma la condición funcionarial de origen.",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «Mantener la condición de funcionario de la administración de origen, con sujeción al régimen legal de movilidad o integración aplicable». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "refine-23-06",
@@ -382,8 +382,8 @@
     ],
     "correcta": 0,
     "referencia": "III.2 · Perdida de la condición de funcionario",
-    "explicación": "La jubilación figura entre las causas legales de pérdida de la condición de funcionario de carrera.",
-    "tema": 23
+    "tema": 23,
+    "explicacion": "La respuesta correcta es «la pérdida de la condición de funcionario de carrera». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida. La alternativa confunde situaciones administrativas con requisitos y efectos diferentes, en particular sobre puesto, retribución y reserva."
   },
   {
     "id": "estado2026-extra-t23-01",
@@ -396,11 +396,11 @@
       "Un contrato laboral indefinido"
     ],
     "correcta": 0,
-    "explicación": "El TREBEP exige superar el proceso selectivo, nombramiento, acto de acatamiento de la Constitución y toma de posesión dentro del plazo.",
     "referencia": "Examen Estado 2026, art. 62 TREBEP; Tema III.2, adquisición de la condición de funcionario",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Nombramiento, acatamiento de la Constitución y toma de posesión dentro del plazo». El artículo 62 TREBEP exige sucesivamente superar el proceso selectivo, obtener nombramiento publicado, acatar la Constitución y tomar posesión dentro del plazo. Aprobar una OEP o figurar en una bolsa no confiere por sí solo la condición de funcionario de carrera."
   },
   {
     "id": "estado2026-extra-t23-02",
@@ -413,11 +413,11 @@
       "Expectativa de destino"
     ],
     "correcta": 0,
-    "explicación": "La comisión de servicios no rompe el servicio activo; es una forma temporal de desempeño.",
     "referencia": "Examen Estado 2026, situaciones administrativas; Tema III.2",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Servicio activo». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma. La alternativa confunde situaciones administrativas con requisitos y efectos diferentes, en particular sobre puesto, retribución y reserva."
   },
   {
     "id": "burgos-iii02-deep-01",
@@ -430,8 +430,8 @@
       "La toma de posesión dentro del plazo establecido"
     ],
     "correcta": 0,
-    "explicación": "La OEP planifica necesidades de personal, pero no es uno de los cuatro requisitos del artículo 62 TREBEP; sí lo son proceso selectivo, nombramiento publicado, acatamiento y toma de posesión.",
-    "referencia": "TREBEP · art. 62 · Tema III.2"
+    "referencia": "TREBEP · art. 62 · Tema III.2",
+    "explicacion": "La respuesta correcta es «La aprobación de la oferta de empleo público». El artículo 62 TREBEP exige sucesivamente superar el proceso selectivo, obtener nombramiento publicado, acatar la Constitución y tomar posesión dentro del plazo. Aprobar una OEP o figurar en una bolsa no confiere por sí solo la condición de funcionario de carrera."
   },
   {
     "id": "burgos-iii02-deep-02",
@@ -444,8 +444,8 @@
       "Aprobada en todo caso por el Pleno municipal"
     ],
     "correcta": 0,
-    "explicación": "El artículo 64 TREBEP exige renuncia voluntaria por escrito y aceptación expresa. No puede aceptarse si existe expediente disciplinario o auto de procesamiento o apertura de juicio oral por delito.",
-    "referencia": "TREBEP · art. 64 · Tema III.2"
+    "referencia": "TREBEP · art. 64 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Manifestada por escrito y aceptada expresamente por la Administración». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "burgos-iii02-deep-03",
@@ -458,8 +458,8 @@
       "Nunca, porque solo la inhabilitación absoluta tiene efectos funcionariales"
     ],
     "correcta": 0,
-    "explicación": "El artículo 66 distingue: la inhabilitación absoluta afecta a todos los empleos o cargos; la especial, únicamente a los que especifique la sentencia firme.",
-    "referencia": "TREBEP · art. 66 · Tema III.2"
+    "referencia": "TREBEP · art. 66 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Respecto de los empleos o cargos especificados en la sentencia». Los artículos 63 a 67 TREBEP enumeran causas tasadas de pérdida de la condición, como renuncia aceptada, pérdida de nacionalidad, jubilación total, separación firme del servicio o inhabilitación firme. Una sanción no firme ni una evaluación negativa producen automáticamente esa pérdida."
   },
   {
     "id": "burgos-iii02-deep-04",
@@ -472,8 +472,8 @@
       "Nunca en ningún caso"
     ],
     "correcta": 0,
-    "explicación": "El artículo 68.2 permite una rehabilitación excepcional por el órgano de gobierno, valorando las circunstancias y la entidad del delito; si no hay resolución expresa en plazo, la solicitud se entiende desestimada.",
-    "referencia": "TREBEP · art. 68.2 · Tema III.2"
+    "referencia": "TREBEP · art. 68.2 · Tema III.2",
+    "explicacion": "El artículo 68.2 TREBEP permite rehabilitar excepcionalmente a quien perdió la condición por inhabilitación, a petición de la persona interesada y mediante decisión del órgano de gobierno, que pondera las circunstancias y la entidad del delito. El silencio de la solicitud es desestimatorio. No es una recuperación automática al cumplir un plazo."
   },
   {
     "id": "burgos-iii02-deep-05",
@@ -486,8 +486,8 @@
       "Servicios especiales, personal eventual, interinidad, excedencia y jubilación"
     ],
     "correcta": 0,
-    "explicación": "El artículo 85 enumera servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones. La comisión de servicios no aparece como situación autónoma en esa lista.",
-    "referencia": "TREBEP · art. 85 · Tema III.2"
+    "referencia": "TREBEP · art. 85 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Servicio activo, servicios especiales, servicio en otras Administraciones Públicas, excedencia y suspensión de funciones». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
   {
     "id": "burgos-iii02-deep-06",
@@ -500,8 +500,8 @@
       "Ningún derecho relacionado con su Administración de procedencia"
     ],
     "correcta": 0,
-    "explicación": "El artículo 88.3 mantiene la condición de origen y el derecho a participar en sus convocatorias de provisión; el régimen concreto de reserva depende del supuesto y de la normativa aplicable.",
-    "referencia": "TREBEP · art. 88 · Tema III.2"
+    "referencia": "TREBEP · art. 88 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Su condición de funcionario de la Administración de origen y el derecho a participar en sus convocatorias de provisión». El artículo 85 TREBEP enumera servicio activo, servicios especiales, servicio en otras administraciones, excedencia y suspensión. La comisión de servicios es una forma temporal de desempeñar un puesto y no constituye una situación administrativa autónoma."
   },
   {
     "id": "burgos-iii02-deep-07",
@@ -514,8 +514,8 @@
       "A que el funcionario no haya prestado nunca servicios públicos"
     ],
     "correcta": 0,
-    "explicación": "Además del período básico de cinco años de servicios efectivos, su concesión se subordina a necesidades del servicio debidamente motivadas y no procede durante la instrucción de expediente disciplinario.",
-    "referencia": "TREBEP · art. 89.2 · Tema III.2"
+    "referencia": "TREBEP · art. 89.2 · Tema III.2",
+    "explicacion": "La respuesta correcta es «A las necesidades del servicio debidamente motivadas». La excedencia por interés particular exige, como regla básica, cinco años de servicios efectivos inmediatamente anteriores y queda subordinada a las necesidades del servicio debidamente motivadas; las leyes de desarrollo pueden reducir el periodo. No comporta reserva ordinaria de puesto ni retribuciones."
   },
   {
     "id": "burgos-iii02-deep-08",
@@ -528,8 +528,8 @@
       "Cualquier grado, sin límite legal"
     ],
     "correcta": 0,
-    "explicación": "El artículo 89.4 exige que el familiar esté a cargo, hasta el segundo grado inclusive, no pueda valerse por sí mismo por las causas legales y no desempeñe actividad retribuida.",
-    "referencia": "TREBEP · art. 89.4 · Tema III.2"
+    "referencia": "TREBEP · art. 89.4 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Segundo grado de consanguinidad o afinidad». La excedencia por cuidado protege la conciliación y conserva derechos de carrera y reserva durante los periodos que establece el artículo 89 TREBEP. No debe confundirse con la excedencia por interés particular, que tiene requisitos y efectos menos protectores."
   },
   {
     "id": "burgos-iii02-deep-09",
@@ -542,8 +542,8 @@
       "Dieciocho meses"
     ],
     "correcta": 0,
-    "explicación": "El artículo 89.4 reconoce un período no superior a tres años por cada hijo o por el familiar que reúna los requisitos legales. Los dos años son la reserva mínima del puesto, no la duración máxima de la excedencia.",
-    "referencia": "TREBEP · art. 89.4 · Tema III.2"
+    "referencia": "TREBEP · art. 89.4 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Tres años». La excedencia por cuidado protege la conciliación y conserva derechos de carrera y reserva durante los periodos que establece el artículo 89 TREBEP. No debe confundirse con la excedencia por interés particular, que tiene requisitos y efectos menos protectores. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii02-deep-10",
@@ -556,8 +556,8 @@
       "Dieciocho meses y siempre en otra localidad"
     ],
     "correcta": 0,
-    "explicación": "El artículo 89.4 reserva el puesto desempeñado al menos durante dos años. Transcurrido ese tiempo, la reserva pasa a un puesto de la misma localidad y de igual retribución.",
-    "referencia": "TREBEP · art. 89.4 · Tema III.2"
+    "referencia": "TREBEP · art. 89.4 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Dos años; después, la reserva es a un puesto de la misma localidad y de igual retribución». La excedencia por cuidado protege la conciliación y conserva derechos de carrera y reserva durante los periodos que establece el artículo 89 TREBEP. No debe confundirse con la excedencia por interés particular, que tiene requisitos y efectos menos protectores. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii02-deep-11",
@@ -570,8 +570,8 @@
       "Un mes, prorrogable hasta seis"
     ],
     "correcta": 0,
-    "explicación": "El artículo 89.5 establece seis meses de reserva, con prórrogas de tres meses y un máximo de dieciocho cuando las actuaciones judiciales lo exijan.",
-    "referencia": "TREBEP · art. 89.5 · Tema III.2"
+    "referencia": "TREBEP · art. 89.5 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Seis meses, prorrogables por períodos de tres hasta un máximo de dieciocho meses cuando lo exijan las actuaciones judiciales». El TREBEP regula de forma diferenciada la adquisición y pérdida de la condición funcionarial y las situaciones administrativas. La consecuencia depende del hecho y del procedimiento legal; no basta una decisión informal ni se equiparan todas las excedencias y suspensiones. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "burgos-iii02-deep-12",
@@ -584,7 +584,7 @@
       "Seis años"
     ],
     "correcta": 0,
-    "explicación": "El artículo 90.1 establece que la suspensión determina la pérdida del puesto cuando excede de seis meses. Los seis años son el límite máximo de la suspensión firme disciplinaria, no el umbral de pérdida del puesto.",
-    "referencia": "TREBEP · art. 90 · Tema III.2"
+    "referencia": "TREBEP · art. 90 · Tema III.2",
+    "explicacion": "La respuesta correcta es «Seis meses». La suspensión provisional es una medida cautelar durante un procedimiento y está sujeta a límites y garantías; la suspensión firme deriva de una sanción disciplinaria o sentencia. No son equivalentes y ninguna se acuerda por la mera preferencia del empleado. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   }
 ]

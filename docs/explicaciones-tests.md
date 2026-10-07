@@ -32,7 +32,7 @@ esto no implica que sus explicaciones estén revisadas.
 | --- | --- | ---: | --- |
 | I | 1–9 | 444 | Completado el 06/10/2026 |
 | II | 10–21 | 514 | Completado el 07/10/2026 |
-| III | 22–26 | 218 | Pendiente |
+| III | 22–26 | 218 | Completado el 07/10/2026 |
 | IV | 27–31 | 165 | Pendiente |
 | V | 32–42 | 467 | Pendiente |
 
@@ -56,4 +56,4 @@ validar JSON, IDs únicos, opciones y respuesta correcta, ejecutar `npm run buil
 siguiendo el flujo documentado del repositorio. Avisar al completar un grupo, al terminar
 todo o si se requiere una decisión; permanecer en silencio cuando no haya trabajo nuevo.
 
-La revisión del grupo I se inició manualmente por petición expresa del usuario. Sus 444 preguntas y 32 correcciones están registradas en [el informe del grupo I](revision-explicaciones-grupo-i.md). El grupo II completó sus 514 preguntas, con las correcciones justificadas y las fuentes por tema, en [el informe del grupo II](revision-explicaciones-grupo-ii.md). El grupo III queda para la siguiente ventana elegible.
+La revisión del grupo I se inició manualmente por petición expresa del usuario. Sus 444 preguntas y 32 correcciones están registradas en [el informe del grupo I](revision-explicaciones-grupo-i.md). El grupo II completó sus 514 preguntas, con las correcciones justificadas y las fuentes por tema, en [el informe del grupo II](revision-explicaciones-grupo-ii.md). El grupo III completó sus 218 preguntas; las correcciones justificadas y las fuentes por tema están en [el informe del grupo III](revision-explicaciones-grupo-iii.md). El grupo IV continúa pendiente.
