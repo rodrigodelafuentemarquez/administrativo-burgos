@@ -10,8 +10,8 @@
       "L, M, N y Ñ"
     ],
     "correcta": 0,
-    "explicación": "El tema identifica esas fases contables.",
-    "referencia": "IV.3 · 10.2 Fases del procedimiento de gasto y documentos contables"
+    "referencia": "IV.3 · 10.2 Fases del procedimiento de gasto y documentos contables",
+    "explicacion": "El tema identifica esas fases contables. La nomenclatura contable resume fases acumulables cuando la normativa y las bases de ejecución lo permiten: A reserva crédito, D compromete frente a tercero, O reconoce una deuda exigible y P ordena pagarla. Un documento acumulado no elimina la acreditación de la prestación ni los controles de intervención."
   },
   {
     "id": "t44-p002",
@@ -24,8 +24,8 @@
       "Aprobación, publicación, prórroga y liquidación"
     ],
     "correcta": 0,
-    "explicación": "El artículo 184 TRLRHL enumera autorización, disposición o compromiso, reconocimiento o liquidación de la obligación y ordenación del pago.",
-    "referencia": "IV.3 · TRLRHL, art. 184"
+    "referencia": "IV.3 · TRLRHL, art. 184",
+    "explicacion": "El artículo 184 TRLRHL enumera autorización, disposición o compromiso, reconocimiento o liquidación de la obligación y ordenación del pago. El artículo 186 del TRLRHL atribuye la ordenación de pagos a la Presidencia de la entidad, con las delegaciones y organización previstas legalmente. La orden presupone una obligación reconocida y el respeto al plan de disposición de fondos; no es la transferencia bancaria o salida material del dinero."
   },
   {
     "id": "t44-p008",
@@ -38,8 +38,8 @@
       "Ordenación del pago"
     ],
     "correcta": 1,
-    "explicación": "La disposición compromete jurídicamente a la Administración con un tercero.",
-    "referencia": "IV.3 · 5.2 Las fases de la ejecución del presupuesto de gastos"
+    "referencia": "IV.3 · 5.2 Las fases de la ejecución del presupuesto de gastos",
+    "explicacion": "La disposición compromete jurídicamente a la Administración con un tercero. La nomenclatura contable resume fases acumulables cuando la normativa y las bases de ejecución lo permiten: A reserva crédito, D compromete frente a tercero, O reconoce una deuda exigible y P ordena pagarla. Un documento acumulado no elimina la acreditación de la prestación ni los controles de intervención."
   },
   {
     "id": "t44-p009",
@@ -52,8 +52,8 @@
       "Reconocimiento de obligación y pago material"
     ],
     "correcta": 0,
-    "explicación": "AD acumula las fases A y D cuando se tramitan conjuntamente.",
-    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
+    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables",
+    "explicacion": "AD acumula las fases A y D cuando se tramitan conjuntamente. La nomenclatura contable resume fases acumulables cuando la normativa y las bases de ejecución lo permiten: A reserva crédito, D compromete frente a tercero, O reconoce una deuda exigible y P ordena pagarla. Un documento acumulado no elimina la acreditación de la prestación ni los controles de intervención."
   },
   {
     "id": "t44-p010",
@@ -66,8 +66,8 @@
       "P"
     ],
     "correcta": 2,
-    "explicación": "El documento O corresponde al reconocimiento de la obligación.",
-    "referencia": "IV.3 · 5.2 Fase 3 — Reconocimiento de la obligación"
+    "referencia": "IV.3 · 5.2 Fase 3 — Reconocimiento de la obligación",
+    "explicacion": "El documento O corresponde al reconocimiento de la obligación. El reconocimiento de la obligación es la fase O: verifica el derecho del acreedor, determina la deuda y la imputa al presupuesto tras comprobar la prestación. El documento OK puede acumular reconocimiento y ordenación cuando proceda; ni la factura aislada ni la autorización A producen por sí solas esa obligación exigible."
   },
   {
     "id": "t44-p011",
@@ -80,8 +80,8 @@
       "Transferencia de crédito"
     ],
     "correcta": 1,
-    "explicación": "El tema reserva los anticipos de caja fija para gastos menores y periódicos.",
-    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
+    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar",
+    "explicacion": "El tema reserva los anticipos de caja fija para gastos menores y periódicos. Los anticipos de caja fija son provisiones permanentes de fondos para atenciones corrientes, periódicas o repetitivas, con posterior aplicación presupuestaria y justificación. No equivalen a pagos a justificar para necesidades singulares ni autorizan gasto sin crédito; su régimen concreto se desarrolla en las bases de ejecución."
   },
   {
     "id": "t44-p016",
@@ -94,8 +94,8 @@
       "solo puede dictarla la Tesorería"
     ],
     "correcta": 0,
-    "explicación": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros.",
-    "referencia": "IV.3 · 5.2 Fase 1 — Autorización del gasto (documento A)"
+    "referencia": "IV.3 · 5.2 Fase 1 — Autorización del gasto (documento A)",
+    "explicacion": "La autorización es un acto interno que reserva crédito, pero todavía no obliga frente a terceros. La nomenclatura contable resume fases acumulables cuando la normativa y las bases de ejecución lo permiten: A reserva crédito, D compromete frente a tercero, O reconoce una deuda exigible y P ordena pagarla. Un documento acumulado no elimina la acreditación de la prestación ni los controles de intervención."
   },
   {
     "id": "t44-p017",
@@ -108,8 +108,8 @@
       "disposición, obligación y fiscalización posterior"
     ],
     "correcta": 0,
-    "explicación": "El documento ADO acumula las tres primeras fases del gasto.",
-    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables"
+    "referencia": "IV.3 · 5.3 Resumen de las fases y documentos contables",
+    "explicacion": "El documento ADO acumula las tres primeras fases del gasto. El reconocimiento de la obligación es la fase O: verifica el derecho del acreedor, determina la deuda y la imputa al presupuesto tras comprobar la prestación. El documento OK puede acumular reconocimiento y ordenación cuando proceda; ni la factura aislada ni la autorización A producen por sí solas esa obligación exigible."
   },
   {
     "id": "t44-p018",
@@ -122,8 +122,8 @@
       "financiar transferencias de capital a largo plazo"
     ],
     "correcta": 0,
-    "explicación": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos.",
-    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar"
+    "referencia": "IV.3 · 5.5 Los anticipos de caja fija y los pagos a justificar",
+    "explicacion": "Su finalidad es atender gastos menores y periódicos con reposición posterior de fondos. Los anticipos de caja fija son provisiones permanentes de fondos para atenciones corrientes, periódicas o repetitivas, con posterior aplicación presupuestaria y justificación. No equivalen a pagos a justificar para necesidades singulares ni autorizan gasto sin crédito; su régimen concreto se desarrolla en las bases de ejecución."
   },
   {
     "id": "t44-p021",
@@ -136,8 +136,8 @@
       "Siempre el Pleno, sin posibilidad de delegación"
     ],
     "correcta": 0,
-    "explicación": "El artículo 186 TRLRHL atribuye la ordenación de pagos al Presidente, con las posibilidades de delegación y organización previstas.",
-    "referencia": "IV.3 · TRLRHL, art. 186"
+    "referencia": "IV.3 · TRLRHL, art. 186",
+    "explicacion": "El artículo 186 TRLRHL atribuye la ordenación de pagos al Presidente, con las posibilidades de delegación y organización previstas. El artículo 184 del TRLRHL y el RD 500/1990 ordenan el gasto en autorización (A), disposición o compromiso (D), reconocimiento de la obligación (O) y ordenación del pago (P). Cada fase tiene función distinta; el pago material lo ejecuta después Tesorería y no forma parte de la ordenación."
   },
   {
     "id": "t44-p023",
@@ -150,8 +150,8 @@
       "Las facturas por orden de llegada, sin excepciones"
     ],
     "correcta": 0,
-    "explicación": "El plan de disposición de fondos debe priorizar los gastos de personal y las obligaciones contraídas en ejercicios anteriores.",
-    "referencia": "IV.3 · TRLRHL, art. 187"
+    "referencia": "IV.3 · TRLRHL, art. 187",
+    "explicacion": "El plan de disposición de fondos debe priorizar los gastos de personal y las obligaciones contraídas en ejercicios anteriores. El artículo 187 del TRLRHL exige que el plan de disposición de fondos recoja prioridades de pago, especialmente gastos de personal y obligaciones de ejercicios anteriores. La tesorería organiza los pagos disponibles con esos criterios; el plan no altera la existencia ni la cuantía de las obligaciones reconocidas."
   },
   {
     "id": "topup-29-05",
@@ -163,9 +163,9 @@
       "afectación, deslinde y ocupación"
     ],
     "correcta": 0,
-    "explicación": "El documento ADO permite acumular varias fases del gasto en ciertos supuestos.",
     "referencia": "IV.3 · Documentos contables",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "El documento ADO permite acumular varias fases del gasto en ciertos supuestos. El reconocimiento de la obligación es la fase O: verifica el derecho del acreedor, determina la deuda y la imputa al presupuesto tras comprobar la prestación. El documento OK puede acumular reconocimiento y ordenación cuando proceda; ni la factura aislada ni la autorización A producen por sí solas esa obligación exigible."
   },
   {
     "id": "topup-29-06",
@@ -177,9 +177,9 @@
       "la decisión del proveedor"
     ],
     "correcta": 0,
-    "explicación": "No pueden asumirse libremente al margen de los límites normativos.",
     "referencia": "IV.3 · Compromisos para ejercicios posteriores",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "No pueden asumirse libremente al margen de los límites normativos. El artículo 174 del TRLRHL restringe los compromisos de gasto que afectan a ejercicios futuros: han de encajar en una categoría legal, comenzar en el ejercicio corriente y respetar anualidades y porcentajes. No basta con que el contrato tenga duración larga para ignorar esos límites."
   },
   {
     "id": "topup-29-08",
@@ -191,9 +191,9 @@
       "la voluntad del proveedor"
     ],
     "correcta": 0,
-    "explicación": "La ordenación del pago responde a reglas competenciales específicas.",
     "referencia": "IV.3 · Organos competentes",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "La ordenación del pago responde a reglas competenciales específicas. El artículo 186 del TRLRHL atribuye la ordenación de pagos a la Presidencia de la entidad, con las delegaciones y organización previstas legalmente. La orden presupone una obligación reconocida y el respeto al plan de disposición de fondos; no es la transferencia bancaria o salida material del dinero."
   },
   {
     "id": "topup-29-09",
@@ -205,9 +205,9 @@
       "Un bando del alcalde ordenando el pago con independencia del expediente"
     ],
     "correcta": 0,
-    "explicación": "El reconocimiento de la obligación exige acreditar previamente la efectiva realización de la prestación.",
     "referencia": "Gestión del gasto · reconocimiento de la obligación",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "El reconocimiento de la obligación exige acreditar previamente la efectiva realización de la prestación. El artículo 189 del TRLRHL exige que antes de ordenar el pago se acredite documentalmente la prestación o el derecho del acreedor. Una factura inicia o justifica parte del expediente, pero la conformidad y el control de lo efectivamente recibido son necesarios para reconocer una deuda exigible."
   },
   {
     "id": "refine-29-01",
@@ -220,8 +220,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.3 · Fases del gasto",
-    "explicación": "La autorización es la primera decisión por la que se aprueba la realización del gasto.",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "La autorización es la primera decisión por la que se aprueba la realización del gasto. La nomenclatura contable resume fases acumulables cuando la normativa y las bases de ejecución lo permiten: A reserva crédito, D compromete frente a tercero, O reconoce una deuda exigible y P ordena pagarla. Un documento acumulado no elimina la acreditación de la prestación ni los controles de intervención."
   },
   {
     "id": "refine-29-02",
@@ -234,8 +234,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.3 · Fases del gasto",
-    "explicación": "La disposición compromete el gasto y vincula a la Administración frente al tercero.",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "La disposición compromete el gasto y vincula a la Administración frente al tercero. La nomenclatura contable resume fases acumulables cuando la normativa y las bases de ejecución lo permiten: A reserva crédito, D compromete frente a tercero, O reconoce una deuda exigible y P ordena pagarla. Un documento acumulado no elimina la acreditación de la prestación ni los controles de intervención."
   },
   {
     "id": "refine-29-03",
@@ -248,8 +248,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.3 · Fases del gasto",
-    "explicación": "La fase O acredita y reconoce la deuda a favor del acreedor.",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "La fase O acredita y reconoce la deuda a favor del acreedor. El artículo 189 del TRLRHL exige que antes de ordenar el pago se acredite documentalmente la prestación o el derecho del acreedor. Una factura inicia o justifica parte del expediente, pero la conformidad y el control de lo efectivamente recibido son necesarios para reconocer una deuda exigible."
   },
   {
     "id": "refine-29-04",
@@ -262,8 +262,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.3 · Ordenación del pago",
-    "explicación": "La ordenación del pago es posterior al reconocimiento de la obligación y antecede al pago material.",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "La ordenación del pago es posterior al reconocimiento de la obligación y antecede al pago material. El artículo 186 del TRLRHL atribuye la ordenación de pagos a la Presidencia de la entidad, con las delegaciones y organización previstas legalmente. La orden presupone una obligación reconocida y el respeto al plan de disposición de fondos; no es la transferencia bancaria o salida material del dinero."
   },
   {
     "id": "refine-29-05",
@@ -276,8 +276,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.3 · Procedimientos especiales de pago",
-    "explicación": "Son un mecanismo de agilización para gastos menores de carácter repetitivo.",
-    "tema": 29
+    "tema": 29,
+    "explicacion": "Son un mecanismo de agilización para gastos menores de carácter repetitivo. Los anticipos de caja fija son provisiones permanentes de fondos para atenciones corrientes, periódicas o repetitivas, con posterior aplicación presupuestaria y justificación. No equivalen a pagos a justificar para necesidades singulares ni autorizan gasto sin crédito; su régimen concreto se desarrolla en las bases de ejecución."
   },
   {
     "id": "estado2026-extra-t29-01",
@@ -290,11 +290,11 @@
       "Antes de la aprobación del expediente de gasto"
     ],
     "correcta": 0,
-    "explicación": "El examen de Estado 2026 recuerda el plazo de un mes desde la inversión y, en todo caso, tres meses desde la percepción de los fondos.",
     "referencia": "Examen Estado 2026, pagos a justificar; Tema IV.3, ejecución del gasto",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El examen de Estado 2026 recuerda el plazo de un mes desde la inversión y, en todo caso, tres meses desde la percepción de los fondos. La regla enunciada es la del artículo 79 de la Ley 47/2003 para pagos a justificar del Estado: la cuenta se rinde dentro del mes siguiente a la inversión y, en todo caso, en los tres meses desde la percepción, salvo ampliación autorizada. El régimen local del artículo 190.2 TRLRHL formula la regla de tres meses."
   },
   {
     "id": "estado2026-extra-t29-02",
@@ -307,11 +307,11 @@
       "Mandamiento de ingreso extrapresupuestario"
     ],
     "correcta": 0,
-    "explicación": "La operatoria contable estatal prevé documento RC de tramitación anticipada para reflejar importes de ejercicios posteriores afectados.",
     "referencia": "Examen Estado 2026, operatoria contable; Tema IV.3, documentos contables",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La operatoria contable estatal prevé documento RC de tramitación anticipada para reflejar importes de ejercicios posteriores afectados. La tramitación anticipada permite preparar compromisos cuya ejecución presupuestaria corresponde a ejercicios posteriores, condicionada a la existencia de crédito adecuado y suficiente. En la operatoria del Estado se documenta la retención de crédito de tramitación anticipada (RC); el documento identifica la reserva y no equivale a reconocer una obligación actual."
   },
   {
     "id": "estado2026-extra-t29-03",
@@ -324,11 +324,11 @@
       "Documento P antes de reconocer la obligación"
     ],
     "correcta": 0,
-    "explicación": "La fase de reconocimiento de obligación se refleja mediante documento O u OK cuando se acumulan fases.",
     "referencia": "Examen Estado 2026, supuesto práctico; Tema IV.3, fases del gasto",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La fase de reconocimiento de obligación se refleja mediante documento O u OK cuando se acumulan fases. El reconocimiento de la obligación es la fase O: verifica el derecho del acreedor, determina la deuda y la imputa al presupuesto tras comprobar la prestación. El documento OK puede acumular reconocimiento y ordenación cuando proceda; ni la factura aislada ni la autorización A producen por sí solas esa obligación exigible."
   },
   {
     "id": "burgos-iv03-deep-01",
@@ -341,8 +341,8 @@
       "Sustituye la fiscalización previa"
     ],
     "correcta": 0,
-    "explicación": "La autorización inicia la ejecución, acuerda un gasto por cuantía cierta o aproximada y reserva crédito, pero no vincula aún al Ayuntamiento con un tercero.",
-    "referencia": "IV.3 · RD 500/1990, art. 54"
+    "referencia": "IV.3 · RD 500/1990, art. 54",
+    "explicacion": "La autorización inicia la ejecución, acuerda un gasto por cuantía cierta o aproximada y reserva crédito, pero no vincula aún al Ayuntamiento con un tercero. La reserva de crédito impide comprometer más de lo autorizado, pero todavía no identifica un acreedor con derecho de cobro. Esa vinculación externa aparece en la fase D, tras tramitar el expediente y seleccionar al tercero conforme a la normativa aplicable."
   },
   {
     "id": "burgos-iv03-deep-02",
@@ -355,8 +355,8 @@
       "Es una modalidad de control externo"
     ],
     "correcta": 0,
-    "explicación": "La fase D se produce tras los trámites legales y compromete un gasto concreto y determinado frente al tercero.",
-    "referencia": "IV.3 · RD 500/1990, art. 56"
+    "referencia": "IV.3 · RD 500/1990, art. 56",
+    "explicacion": "La fase D se produce tras los trámites legales y compromete un gasto concreto y determinado frente al tercero. La fase D sucede a la autorización y concreta los términos del compromiso, como importe y destinatario. Desde ese momento existe una relación jurídica con el tercero, pero la entidad aún debe acreditar que este cumplió antes de reconocer y pagar la obligación."
   },
   {
     "id": "burgos-iv03-deep-03",
@@ -369,8 +369,8 @@
       "El pago material al proveedor"
     ],
     "correcta": 0,
-    "explicación": "El artículo 189 TRLRHL exige acreditación documental de la prestación o del derecho del acreedor antes de expedir la orden de pago.",
-    "referencia": "IV.3 · TRLRHL, art. 189"
+    "referencia": "IV.3 · TRLRHL, art. 189",
+    "explicacion": "El artículo 189 TRLRHL exige acreditación documental de la prestación o del derecho del acreedor antes de expedir la orden de pago. La secuencia evita pagar una mera previsión: primero se compromete el gasto, luego se acredita el cumplimiento y se reconoce la deuda. La conformidad debe relacionarse con el objeto contratado y con el acreedor, además de apoyarse en documentos justificativos."
   },
   {
     "id": "burgos-iv03-deep-04",
@@ -383,8 +383,8 @@
       "La primera reconoce la obligación y el segundo reserva crédito"
     ],
     "correcta": 0,
-    "explicación": "P ordena satisfacer una obligación ya reconocida; Tesorería ejecuta después el pago material.",
-    "referencia": "IV.3 · Ordenación del pago"
+    "referencia": "IV.3 · Ordenación del pago",
+    "explicacion": "P ordena satisfacer una obligación ya reconocida; Tesorería ejecuta después el pago material. La ordenación del pago pertenece al procedimiento presupuestario y dispone satisfacer una deuda ya reconocida; el pago material es la transferencia o entrega efectiva de fondos. Separar ambos actos permite controlar competencia, prioridad de tesorería y exactitud antes de que salga el dinero."
   },
   {
     "id": "burgos-iv03-deep-05",
@@ -397,8 +397,8 @@
       "El proveedor que presenta la factura"
     ],
     "correcta": 0,
-    "explicación": "Así lo establece el artículo 185.2 TRLRHL; las bases recogen las delegaciones o desconcentraciones aplicables.",
-    "referencia": "IV.3 · TRLRHL, art. 185"
+    "referencia": "IV.3 · TRLRHL, art. 185",
+    "explicacion": "Así lo establece el artículo 185.2 TRLRHL; las bases recogen las delegaciones o desconcentraciones aplicables. La competencia general no impide que la organización municipal prevea delegación o desconcentración válida. Para resolver un caso concreto deben consultarse el acuerdo organizativo vigente y las bases de ejecución, sin atribuir por defecto al Pleno un reconocimiento que la ley asigna a la Presidencia."
   },
   {
     "id": "burgos-iv03-deep-06",
@@ -411,8 +411,8 @@
       "Aprobarse siempre por la Tesorería"
     ],
     "correcta": 0,
-    "explicación": "El artículo 174 TRLRHL exige inicio en el propio ejercicio y que el gasto encaje en alguno de los supuestos legales.",
-    "referencia": "IV.3 · TRLRHL, art. 174"
+    "referencia": "IV.3 · TRLRHL, art. 174",
+    "explicacion": "El artículo 174 TRLRHL exige inicio en el propio ejercicio y que el gasto encaje en alguno de los supuestos legales. La lista legal incluye, entre otros, inversiones, transferencias de capital, determinados contratos de suministro, arrendamientos financieros y cargas financieras. El límite temporal protege la anualidad: comprometer gasto futuro fuera de esos casos exige acudir al régimen excepcional previsto por la norma."
   },
   {
     "id": "burgos-iv03-deep-07",
@@ -425,8 +425,8 @@
       "100 % sin límite"
     ],
     "correcta": 0,
-    "explicación": "La regla es 70 % para el ejercicio siguiente, 60 % para el segundo y 50 % para el tercero y cuarto, en los casos legalmente previstos.",
-    "referencia": "IV.3 · TRLRHL, art. 174.3"
+    "referencia": "IV.3 · TRLRHL, art. 174.3",
+    "explicacion": "La regla es 70 % para el ejercicio siguiente, 60 % para el segundo y 50 % para el tercero y cuarto, en los casos legalmente previstos. Los porcentajes decrecen según la distancia temporal: 70 % para el primer año, 60 % para el segundo y 50 % para cada uno del tercero y cuarto. Se calculan sobre el crédito inicial, salvo modificación acordada conforme a la habilitación legal, y se refieren a anualidades futuras del mismo compromiso."
   },
   {
     "id": "burgos-iv03-deep-08",
@@ -439,8 +439,8 @@
       "No necesitan justificación posterior"
     ],
     "correcta": 0,
-    "explicación": "El artículo 190.2 TRLRHL fija un plazo máximo de tres meses y somete al perceptor al régimen de responsabilidades.",
-    "referencia": "IV.3 · TRLRHL, art. 190.2"
+    "referencia": "IV.3 · TRLRHL, art. 190.2",
+    "explicacion": "El artículo 190.2 TRLRHL fija un plazo máximo de tres meses y somete al perceptor al régimen de responsabilidades. El libramiento excepcional permite anticipar fondos cuando no es posible aportar justificantes antes del pago, pero obliga a rendir cuenta después. El plazo se refiere al régimen local y no debe sustituirse por el plazo estatal del artículo 79 de la Ley General Presupuestaria."
   },
   {
     "id": "burgos-iv03-deep-09",
@@ -453,8 +453,8 @@
       "Pagar obligaciones sin reconocimiento"
     ],
     "correcta": 0,
-    "explicación": "El artículo 190.3 TRLRHL configura los anticipos como fondos librados a justificar para atenciones periódicas o repetitivas.",
-    "referencia": "IV.3 · TRLRHL, art. 190.3"
+    "referencia": "IV.3 · TRLRHL, art. 190.3",
+    "explicacion": "El artículo 190.3 TRLRHL configura los anticipos como fondos librados a justificar para atenciones periódicas o repetitivas. La periodicidad o repetición es el criterio que diferencia la caja fija de un libramiento para una actuación excepcional. La provisión no evita la posterior justificación ni la imputación presupuestaria y debe gestionarse conforme a las bases y a los límites de cada entidad."
   },
   {
     "id": "burgos-iv03-deep-10",
@@ -467,8 +467,8 @@
       "Elimina la necesidad de acreditar la prestación"
     ],
     "correcta": 0,
-    "explicación": "La acumulación de fases es posible en los supuestos reglamentarios y de las bases, pero conserva los controles y la justificación.",
-    "referencia": "IV.3 · TRLRHL, art. 184.2; RD 500/1990, arts. 67-68"
+    "referencia": "IV.3 · TRLRHL, art. 184.2; RD 500/1990, arts. 67-68",
+    "explicacion": "La acumulación de fases es posible en los supuestos reglamentarios y de las bases, pero conserva los controles y la justificación. La acumulación simplifica documentos cuando varias fases se producen conjuntamente, pero no cambia el contenido jurídico de cada una. El expediente debe seguir acreditando crédito, competencia, prestación y fiscalización; las bases no pueden dispensar requisitos que la ley establece."
   },
   {
     "id": "burgos-iv03-deep-11",
@@ -481,8 +481,8 @@
       "Es aprobada por el proveedor"
     ],
     "correcta": 0,
-    "explicación": "El artículo 21 del Real Decreto 424/2017 concreta esos tres controles de la intervención formal del pago.",
-    "referencia": "IV.3 · RD 424/2017, art. 21"
+    "referencia": "IV.3 · RD 424/2017, art. 21",
+    "explicacion": "El artículo 21 del Real Decreto 424/2017 concreta esos tres controles de la intervención formal del pago. La intervención formal verifica la regularidad de la orden, no vuelve a decidir si el gasto fue oportuno. Comprueba competencia, adecuación a la obligación reconocida y respeto al plan de fondos; si detecta un defecto relevante, se aplica el régimen de reparos y discrepancias."
   },
   {
     "id": "burgos-iv03-deep-12",
@@ -495,7 +495,7 @@
       "Hace innecesaria la existencia de crédito"
     ],
     "correcta": 0,
-    "explicación": "La factura es un justificante que debe integrarse en el expediente y acompañarse de la acreditación y conformidad de la prestación.",
-    "referencia": "IV.3 · Reconocimiento de la obligación"
+    "referencia": "IV.3 · Reconocimiento de la obligación",
+    "explicacion": "La factura es un justificante que debe integrarse en el expediente y acompañarse de la acreditación y conformidad de la prestación. El registro de la factura acredita su recepción, pero no que el servicio se prestara a satisfacción ni que quien factura sea titular de una deuda ya liquidada. Debe haber conformidad, crédito y reconocimiento de la obligación antes de expedir la orden de pago."
   }
 ]

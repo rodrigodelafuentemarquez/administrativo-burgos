@@ -11,11 +11,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 42",
-    "explicación": "La aprobación inicial del presupuesto local se somete a exposición pública por quince días.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La aprobación inicial del presupuesto local se somete a exposición pública por quince días. El artículo 169 del TRLRHL establece quince días de exposición pública, previo anuncio en el boletín oficial correspondiente, para que los interesados puedan reclamar. El plazo se cuenta como hábil en el procedimiento administrativo; no son veinte días ni un mes, y el Pleno debe resolver las reclamaciones antes de la aprobación definitiva."
   },
   {
     "id": "t30-p012",
@@ -28,8 +28,8 @@
       "una norma reglamentaria de personal"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce la definición del art. 162 TRLRHL.",
-    "referencia": "IV.2 · 7.1 Concepto"
+    "referencia": "IV.2 · 7.1 Concepto",
+    "explicacion": "El tema reproduce la definición del art. 162 TRLRHL. El artículo 162 del TRLRHL define el presupuesto como previsión de derechos a liquidar y límite máximo de obligaciones reconocibles durante el ejercicio. No es una mera relación contable ni una caja disponible: ordena jurídicamente la actividad financiera anual de la entidad y sus organismos autónomos."
   },
   {
     "id": "t30-p013",
@@ -42,8 +42,8 @@
       "solo los planes provinciales"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge ese contenido en el art. 164 TRLRHL.",
-    "referencia": "IV.2 · 7.3 Contenido del Presupuesto General"
+    "referencia": "IV.2 · 7.3 Contenido del Presupuesto General",
+    "explicacion": "El tema recoge ese contenido en el art. 164 TRLRHL. El artículo 164 del TRLRHL integra en el presupuesto general el de la entidad local y los de sus organismos autónomos, además de los estados de previsión de las sociedades mercantiles dependientes en los términos legales. La integración permite una visión consolidada, sin confundir personalidad jurídica con presupuesto único."
   },
   {
     "id": "t30-p015",
@@ -56,8 +56,8 @@
       "se suspende la contabilidad"
     ],
     "correcta": 0,
-    "explicación": "El tema prevé la prórroga automática.",
-    "referencia": "IV.2 · 9.2 Prórroga del presupuesto"
+    "referencia": "IV.2 · 9.2 Prórroga del presupuesto",
+    "explicacion": "El tema prevé la prórroga automática. El artículo 169.6 del TRLRHL dispone la prórroga automática si el nuevo presupuesto no entra en vigor el primer día del ejercicio. La prórroga no incorpora créditos para servicios o programas concluidos ni los financiados con ingresos específicos que desaparezcan; tampoco equivale a aprobar un presupuesto nuevo."
   },
   {
     "id": "t30-p019",
@@ -70,8 +70,8 @@
       "ingresos patrimoniales"
     ],
     "correcta": 0,
-    "explicación": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos.",
-    "referencia": "IV.2 · 8.1 Estado de ingresos (previsiones)"
+    "referencia": "IV.2 · 8.1 Estado de ingresos (previsiones)",
+    "explicacion": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos. La Orden EHA/3565/2008 fija la estructura económica local: en gastos, los capítulos 1 a 4 son corrientes, el 5 fondo de contingencia, 6 y 7 capital y 8 y 9 financieros; en ingresos, el capítulo 3 recoge tasas, precios públicos y otros ingresos. La clasificación identifica naturaleza, no órgano gestor."
   },
   {
     "id": "t30-p020",
@@ -84,8 +84,8 @@
       "20 días hábiles"
     ],
     "correcta": 0,
-    "explicación": "El presupuesto debe exponerse al público durante 15 días hábiles para posibles reclamaciones.",
-    "referencia": "IV.2 · 9.1 Fases de elaboración"
+    "referencia": "IV.2 · 9.1 Fases de elaboración",
+    "explicacion": "El presupuesto debe exponerse al público durante 15 días hábiles para posibles reclamaciones. El artículo 169 del TRLRHL establece quince días de exposición pública, previo anuncio en el boletín oficial correspondiente, para que los interesados puedan reclamar. El plazo se cuenta como hábil en el procedimiento administrativo; no son veinte días ni un mes, y el Pleno debe resolver las reclamaciones antes de la aprobación definitiva."
   },
   {
     "id": "t44-p001",
@@ -98,8 +98,8 @@
       "Una reserva de tesorería constituida solo para atender gastos imprevistos"
     ],
     "correcta": 0,
-    "explicación": "El presupuesto tiene dimensión jurídica y financiera, y se refiere a un ejercicio concreto.",
-    "referencia": "Presupuesto público · concepto"
+    "referencia": "Presupuesto público · concepto",
+    "explicacion": "El presupuesto tiene dimensión jurídica y financiera, y se refiere a un ejercicio concreto. El artículo 162 del TRLRHL define el presupuesto como previsión de derechos a liquidar y límite máximo de obligaciones reconocibles durante el ejercicio. No es una mera relación contable ni una caja disponible: ordena jurídicamente la actividad financiera anual de la entidad y sus organismos autónomos."
   },
   {
     "id": "t44-p003",
@@ -112,8 +112,8 @@
       "Inmediación"
     ],
     "correcta": 3,
-    "explicación": "Inmediación no aparece; sí se recogen unidad, no afectación y especialidad.",
-    "referencia": "IV.2 · 2 Principios presupuestarios"
+    "referencia": "IV.2 · 2 Principios presupuestarios",
+    "explicacion": "Inmediación no aparece; sí se recogen unidad, no afectación y especialidad. La normativa presupuestaria exige unidad, universalidad, especialidad y anualidad, entre otros principios. Universalidad significa incluir íntegramente ingresos y gastos, mientras que especialidad limita el crédito por finalidad, importe y tiempo; una regla de procedimiento ajena al presupuesto no es un principio presupuestario."
   },
   {
     "id": "t44-p004",
@@ -126,8 +126,8 @@
       "El presupuesto se apruebe cada dos años"
     ],
     "correcta": 0,
-    "explicación": "La universalidad impide compensaciones y exige incluir todo ingreso y gasto.",
-    "referencia": "IV.2 · 2.3 Principio de universalidad"
+    "referencia": "IV.2 · 2.3 Principio de universalidad",
+    "explicacion": "La universalidad impide compensaciones y exige incluir todo ingreso y gasto. La normativa presupuestaria exige unidad, universalidad, especialidad y anualidad, entre otros principios. Universalidad significa incluir íntegramente ingresos y gastos, mientras que especialidad limita el crédito por finalidad, importe y tiempo; una regla de procedimiento ajena al presupuesto no es un principio presupuestario."
   },
   {
     "id": "t44-p005",
@@ -140,8 +140,8 @@
       "Solo orgánica"
     ],
     "correcta": 1,
-    "explicación": "El texto distingue tres vertientes de la especialidad.",
-    "referencia": "IV.2 · 2.6 Principio de especialidad"
+    "referencia": "IV.2 · 2.6 Principio de especialidad",
+    "explicacion": "El texto distingue tres vertientes de la especialidad. La normativa presupuestaria exige unidad, universalidad, especialidad y anualidad, entre otros principios. Universalidad significa incluir íntegramente ingresos y gastos, mientras que especialidad limita el crédito por finalidad, importe y tiempo; una regla de procedimiento ajena al presupuesto no es un principio presupuestario."
   },
   {
     "id": "t44-p006",
@@ -154,8 +154,8 @@
       "Pasivos financieros"
     ],
     "correcta": 0,
-    "explicación": "El capítulo 1 se reserva a gastos de personal.",
-    "referencia": "IV.2 · 3.3 Clasificación económica"
+    "referencia": "IV.2 · 3.3 Clasificación económica",
+    "explicacion": "El capítulo 1 se reserva a gastos de personal. La Orden EHA/3565/2008 fija la estructura económica local: en gastos, los capítulos 1 a 4 son corrientes, el 5 fondo de contingencia, 6 y 7 capital y 8 y 9 financieros; en ingresos, el capítulo 3 recoge tasas, precios públicos y otros ingresos. La clasificación identifica naturaleza, no órgano gestor."
   },
   {
     "id": "t44-p007",
@@ -168,8 +168,8 @@
       "Capítulos 1 a 9: todos son gastos corrientes"
     ],
     "correcta": 0,
-    "explicación": "El tema clasifica así los capítulos presupuestarios.",
-    "referencia": "IV.2 · 3.3 Clasificación económica"
+    "referencia": "IV.2 · 3.3 Clasificación económica",
+    "explicacion": "El tema clasifica así los capítulos presupuestarios. La Orden EHA/3565/2008 fija la estructura económica local: en gastos, los capítulos 1 a 4 son corrientes, el 5 fondo de contingencia, 6 y 7 capital y 8 y 9 financieros; en ingresos, el capítulo 3 recoge tasas, precios públicos y otros ingresos. La clasificación identifica naturaleza, no órgano gestor."
   },
   {
     "id": "t44-p012",
@@ -182,8 +182,8 @@
       "No requiere aprobación alguna"
     ],
     "correcta": 1,
-    "explicación": "El crédito extraordinario crea una partida nueva y aumenta el gasto total.",
-    "referencia": "IV.2 · 6.2 Créditos extraordinarios y suplementos de crédito"
+    "referencia": "IV.2 · 6.2 Créditos extraordinarios y suplementos de crédito",
+    "explicacion": "El crédito extraordinario crea una partida nueva y aumenta el gasto total. Los artículos 177 del TRLRHL y 35 del RD 500/1990 distinguen el crédito extraordinario, que habilita gasto específico no previsto, del suplemento, que aumenta crédito existente insuficiente. Ambos requieren que el gasto no pueda demorarse y financiación determinada; no son simples trasvases entre aplicaciones."
   },
   {
     "id": "t44-p013",
@@ -196,8 +196,8 @@
       "Solo sirven para crear nuevas partidas"
     ],
     "correcta": 1,
-    "explicación": "El tema las define como redistribución sin alterar el gasto total.",
-    "referencia": "IV.2 · 6.4 Transferencias de crédito"
+    "referencia": "IV.2 · 6.4 Transferencias de crédito",
+    "explicacion": "El tema las define como redistribución sin alterar el gasto total. La transferencia de crédito mueve dotación entre aplicaciones presupuestarias y no aumenta por sí misma el importe total del estado de gastos. El TRLRHL impone límites de destino y competencia, por lo que no equivale a una ampliación global ni permite eludir las restricciones entre grupos de función."
   },
   {
     "id": "t44-p022",
@@ -210,8 +210,8 @@
       "Evitar toda intervención del órgano legislativo en materia presupuestaria"
     ],
     "correcta": 0,
-    "explicación": "El tema presenta los anticipos de tesorería como un instrumento excepcional para gastos urgentes.",
-    "referencia": "IV.2 · 6.7 Anticipos de tesorería"
+    "referencia": "IV.2 · 6.7 Anticipos de tesorería",
+    "explicacion": "El tema presenta los anticipos de tesorería como un instrumento excepcional para gastos urgentes. El anticipo de tesorería es una figura excepcional y temporal prevista para atender gastos urgentes en los supuestos legales; no sustituye la aprobación presupuestaria ni genera crédito ordinario por sí solo. Debe diferenciarse del anticipo de caja fija, pensado para pagos periódicos y repetitivos de gestión corriente."
   },
   {
     "id": "refine-28-01",
@@ -224,8 +224,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.2 · Presupuesto general",
-    "explicación": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los términos legales.",
-    "tema": 28
+    "tema": 28,
+    "explicacion": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los términos legales. El artículo 164 del TRLRHL integra en el presupuesto general el de la entidad local y los de sus organismos autónomos, además de los estados de previsión de las sociedades mercantiles dependientes en los términos legales. La integración permite una visión consolidada, sin confundir personalidad jurídica con presupuesto único."
   },
   {
     "id": "refine-28-02",
@@ -238,8 +238,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.2 · Modificaciones presupuestarias",
-    "explicación": "El crédito extraordinario crea crédito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente.",
-    "tema": 28
+    "tema": 28,
+    "explicacion": "El crédito extraordinario crea crédito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente. Los artículos 177 del TRLRHL y 35 del RD 500/1990 distinguen el crédito extraordinario, que habilita gasto específico no previsto, del suplemento, que aumenta crédito existente insuficiente. Ambos requieren que el gasto no pueda demorarse y financiación determinada; no son simples trasvases entre aplicaciones."
   },
   {
     "id": "refine-28-03",
@@ -252,8 +252,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.2 · Modificaciones presupuestarias",
-    "explicación": "El suplemento no crea una partida completamente nueva, sino que amplía una insuficiente.",
-    "tema": 28
+    "tema": 28,
+    "explicacion": "El suplemento no crea una partida completamente nueva, sino que amplía una insuficiente. El suplemento de crédito aumenta una aplicación ya existente cuando su dotación es insuficiente y el gasto no puede demorarse. Si no existe crédito para ese gasto específico, procede un crédito extraordinario; la diferencia entre crear una aplicación y completar una insuficiente es la clave del supuesto."
   },
   {
     "id": "refine-28-04",
@@ -266,8 +266,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.2 · Transferencias de crédito",
-    "explicación": "La transferencia mueve crédito entre partidas, pero no incrementa el volumen total del presupuesto.",
-    "tema": 28
+    "tema": 28,
+    "explicacion": "La transferencia mueve crédito entre partidas, pero no incrementa el volumen total del presupuesto. La transferencia de crédito mueve dotación entre aplicaciones presupuestarias y no aumenta por sí misma el importe total del estado de gastos. El TRLRHL impone límites de destino y competencia, por lo que no equivale a una ampliación global ni permite eludir las restricciones entre grupos de función."
   },
   {
     "id": "refine-28-05",
@@ -280,8 +280,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.2 · Incorporaciones de crédito",
-    "explicación": "La incorporación permite arrastrar determinados créditos del ejercicio anterior cuando concurren los requisitos legales.",
-    "tema": 28
+    "tema": 28,
+    "explicacion": "La incorporación permite arrastrar determinados créditos del ejercicio anterior cuando concurren los requisitos legales. La incorporación traslada al ejercicio siguiente solo remanentes expresamente admitidos por la ley y, como regla, exige recursos financieros suficientes. No todos los créditos no utilizados sobreviven al cierre: anualidad y vinculación del crédito impiden tratar la incorporación como automática."
   },
   {
     "id": "estado2026-extra-t28-01",
@@ -294,11 +294,11 @@
       "Cuando lo autorice el Tribunal de Cuentas"
     ],
     "correcta": 0,
-    "explicación": "La regla estatal exige remisión a las Cortes antes del 1 de octubre del año anterior al que se refiera el presupuesto.",
     "referencia": "Examen Estado 2026, Ley General Presupuestaria; Tema IV.2, ciclo presupuestario",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La regla estatal exige remisión a las Cortes antes del 1 de octubre del año anterior al que se refiera el presupuesto. Esta pregunta aplica la Ley 47/2003, General Presupuestaria, al presupuesto del Estado, no el procedimiento de aprobación municipal del TRLRHL. La norma estatal fija sus propios plazos y reglas de modificación o gestión, de modo que conviene identificar primero qué administración y presupuesto menciona el enunciado."
   },
   {
     "id": "estado2026-extra-t28-02",
@@ -311,11 +311,11 @@
       "Con endeudamiento automático sin límite"
     ],
     "correcta": 0,
-    "explicación": "El examen de Estado 2026 recoge la financiación por baja en el Fondo de Contingencia o en otros créditos de operaciones no financieras.",
     "referencia": "Examen Estado 2026, incorporaciones de crédito; Tema IV.2, modificaciones presupuestarias",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El examen de Estado 2026 recoge la financiación por baja en el Fondo de Contingencia o en otros créditos de operaciones no financieras. Esta pregunta aplica la Ley 47/2003, General Presupuestaria, al presupuesto del Estado, no el procedimiento de aprobación municipal del TRLRHL. La norma estatal fija sus propios plazos y reglas de modificación o gestión, de modo que conviene identificar primero qué administración y presupuesto menciona el enunciado."
   },
   {
     "id": "estado2026-extra-t28-03",
@@ -328,11 +328,11 @@
       "Se aprueba una ordenanza fiscal"
     ],
     "correcta": 0,
-    "explicación": "La generación de crédito incrementa créditos como consecuencia de determinados ingresos legalmente habilitantes.",
     "referencia": "Examen Estado 2026, modificaciones presupuestarias; Tema IV.2",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La generación de crédito incrementa créditos como consecuencia de determinados ingresos legalmente habilitantes. La generación de crédito permite aumentar una aplicación cuando se obtiene alguno de los ingresos que la ley considera habilitantes, como determinados reintegros o compromisos firmes. No todo ingreso nuevo produce automáticamente crédito: deben concurrir el supuesto, la acreditación y el procedimiento del RD 500/1990."
   },
   {
     "id": "burgos-iv02-deep-01",
@@ -345,8 +345,8 @@
       "Las obligaciones futuras de cualquier sociedad privada del municipio"
     ],
     "correcta": 0,
-    "explicación": "El artículo 162 TRLRHL define el presupuesto como la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autónomos, y de los derechos que se prevea liquidar.",
-    "referencia": "TRLRHL, artículo 162 · IV.2, concepto"
+    "referencia": "TRLRHL, artículo 162 · IV.2, concepto",
+    "explicacion": "El artículo 162 TRLRHL define el presupuesto como la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autónomos, y de los derechos que se prevea liquidar. La definición distingue el límite de gasto de la previsión de ingresos: el crédito es un máximo autorizable, mientras que los derechos son importes que se espera liquidar. Por eso un presupuesto aprobado no acredita que el dinero ya se haya recaudado ni permite superar el crédito disponible."
   },
   {
     "id": "burgos-iv02-deep-02",
@@ -359,8 +359,8 @@
       "El Alcalde puede aprobar cualquier crédito sin expediente"
     ],
     "correcta": 0,
-    "explicación": "La prórroga es automática, pero no incluye los créditos de servicios o programas concluidos ni los que legalmente no sean prorrogables.",
-    "referencia": "TRLRHL, artículo 169 · IV.2, prórroga"
+    "referencia": "TRLRHL, artículo 169 · IV.2, prórroga",
+    "explicacion": "La prórroga es automática, pero no incluye los créditos de servicios o programas concluidos ni los que legalmente no sean prorrogables. El artículo 169.6 del TRLRHL dispone la prórroga automática si el nuevo presupuesto no entra en vigor el primer día del ejercicio. La prórroga no incorpora créditos para servicios o programas concluidos ni los financiados con ingresos específicos que desaparezcan; tampoco equivale a aprobar un presupuesto nuevo."
   },
   {
     "id": "burgos-iv02-deep-03",
@@ -373,8 +373,8 @@
       "El 100 % sin necesidad de límite"
     ],
     "correcta": 0,
-    "explicación": "Los límites ordinarios son 70 % para el primer ejercicio posterior, 60 % para el segundo y 50 % para el tercero y cuarto.",
-    "referencia": "TRLRHL, artículo 174 y Real Decreto 500/1990, artículos 80 a 84 · IV.2"
+    "referencia": "TRLRHL, artículo 174 y Real Decreto 500/1990, artículos 80 a 84 · IV.2",
+    "explicacion": "Los límites ordinarios son 70 % para el primer ejercicio posterior, 60 % para el segundo y 50 % para el tercero y cuarto. El 70 % se calcula sobre el crédito inicial del ejercicio en que se adquiere el compromiso. No es el 70 % del coste total plurianual ni un porcentaje de libre disposición: se aplica a gastos comprendidos en los supuestos legales y puede modificarse con autorización plenaria motivada."
   },
   {
     "id": "burgos-iv02-deep-04",
@@ -387,8 +387,8 @@
       "Todos los ejercicios que dure el contrato, sin límites"
     ],
     "correcta": 0,
-    "explicación": "La regla es un máximo de cuatro ejercicios posteriores. Excepcionalmente el Pleno puede ampliar el número de anualidades y los porcentajes.",
-    "referencia": "TRLRHL, artículo 174 · Real Decreto 500/1990, artículos 81 y 84"
+    "referencia": "TRLRHL, artículo 174 · Real Decreto 500/1990, artículos 81 y 84",
+    "explicacion": "La regla es un máximo de cuatro ejercicios posteriores. Excepcionalmente el Pleno puede ampliar el número de anualidades y los porcentajes. El cómputo son cuatro anualidades futuras después del ejercicio en que se autoriza y compromete el gasto. La ampliación es excepcional y corresponde al Pleno; no altera la exigencia de consignar crédito en cada presupuesto posterior ni garantiza por sí misma su financiación futura."
   },
   {
     "id": "burgos-iv02-deep-05",
@@ -401,8 +401,8 @@
       "Se pretende cubrir un desfase temporal entre cobros y pagos"
     ],
     "correcta": 0,
-    "explicación": "El crédito extraordinario crea crédito para un gasto no previsto; si ya existe crédito insuficiente, la figura es el suplemento.",
-    "referencia": "TRLRHL, artículo 177 · IV.2, modificaciones"
+    "referencia": "TRLRHL, artículo 177 · IV.2, modificaciones",
+    "explicacion": "El crédito extraordinario crea crédito para un gasto no previsto; si ya existe crédito insuficiente, la figura es el suplemento. La existencia de una aplicación sin dotación obliga a crear crédito extraordinario; si la aplicación ya tiene saldo pero resulta insuficiente, se tramita un suplemento. La distinción afecta a la modificación que debe aprobarse y a la identificación de la finalidad presupuestaria."
   },
   {
     "id": "burgos-iv02-deep-06",
@@ -415,8 +415,8 @@
       "Se financia siempre mediante una transferencia de crédito"
     ],
     "correcta": 0,
-    "explicación": "El artículo 178 TRLRHL exige que el crédito figure expresamente como ampliable en las bases y que se hagan efectivos los recursos afectados.",
-    "referencia": "TRLRHL, artículo 178 · IV.2, ampliaciones"
+    "referencia": "TRLRHL, artículo 178 · IV.2, ampliaciones",
+    "explicacion": "El artículo 178 TRLRHL exige que el crédito figure expresamente como ampliable en las bases y que se hagan efectivos los recursos afectados. La ampliabilidad debe estar predeterminada y el recurso afectado realizado: la previsión de que se ingresará no basta. Así se controla la correspondencia entre el ingreso que financia el crédito y el gasto que puede ampliarse, evitando que una modificación aumente el presupuesto sin financiación habilitante."
   },
   {
     "id": "burgos-iv02-deep-07",
@@ -429,8 +429,8 @@
       "Siempre la Junta de Gobierno Local, aunque el Pleno tenga atribuida la competencia"
     ],
     "correcta": 0,
-    "explicación": "El artículo 179.2 TRLRHL reserva al Pleno las transferencias entre distintos grupos de función, salvo cuando las bajas y altas afecten a créditos de personal.",
-    "referencia": "TRLRHL, artículo 179 · IV.2, transferencias"
+    "referencia": "TRLRHL, artículo 179 · IV.2, transferencias",
+    "explicacion": "El artículo 179.2 TRLRHL reserva al Pleno las transferencias entre distintos grupos de función, salvo cuando las bajas y altas afecten a créditos de personal. La transferencia de crédito mueve dotación entre aplicaciones presupuestarias y no aumenta por sí misma el importe total del estado de gastos. El TRLRHL impone límites de destino y competencia, por lo que no equivale a una ampliación global ni permite eludir las restricciones entre grupos de función."
   },
   {
     "id": "burgos-iv02-deep-08",
@@ -443,8 +443,8 @@
       "Una multa, siempre y sin procedimiento"
     ],
     "correcta": 0,
-    "explicación": "El artículo 181 TRLRHL incluye el reembolso de préstamos entre los ingresos de naturaleza no tributaria que pueden generar crédito, con el procedimiento reglamentario.",
-    "referencia": "TRLRHL, artículo 181 · IV.2, generaciones"
+    "referencia": "TRLRHL, artículo 181 · IV.2, generaciones",
+    "explicacion": "El artículo 181 TRLRHL incluye el reembolso de préstamos entre los ingresos de naturaleza no tributaria que pueden generar crédito, con el procedimiento reglamentario. El reembolso recupera principal de un préstamo concedido y la ley lo identifica como ingreso habilitante; un ingreso cualquiera no tiene ese efecto. La generación modifica una aplicación de gasto y requiere acuerdo y tramitación presupuestaria, no se produce automáticamente al registrar la entrada en tesorería."
   },
   {
     "id": "burgos-iv02-deep-09",
@@ -457,8 +457,8 @@
       "Nunca, porque todos los créditos se anulan el 31 de diciembre"
     ],
     "correcta": 0,
-    "explicación": "El artículo 182 TRLRHL permite incorporar créditos por operaciones de capital cuando existen recursos financieros suficientes; no todos los saldos se incorporan automáticamente.",
-    "referencia": "TRLRHL, artículos 176 y 182 · IV.2, incorporaciones"
+    "referencia": "TRLRHL, artículos 176 y 182 · IV.2, incorporaciones",
+    "explicacion": "El artículo 182 TRLRHL permite incorporar créditos por operaciones de capital cuando existen recursos financieros suficientes; no todos los saldos se incorporan automáticamente. La suficiencia financiera es una condición, no la única: el remanente debe pertenecer a una categoría incorporable y respetar la vinculación jurídica del crédito. La incorporación opera al ejercicio inmediato siguiente y debe aprobarse conforme al procedimiento; el cierre no arrastra indistintamente todo saldo disponible."
   },
   {
     "id": "burgos-iv02-deep-10",
@@ -471,8 +471,8 @@
       "Aprobar una transferencia sin autorización del órgano competente"
     ],
     "correcta": 0,
-    "explicación": "El crédito a corto plazo cubre desfases transitorios de tesorería. No es una modificación presupuestaria ni habilita por sí solo una aplicación de gasto.",
-    "referencia": "TRLRHL, artículo 51 · IV.2, anticipos y tesorería"
+    "referencia": "TRLRHL, artículo 51 · IV.2, anticipos y tesorería",
+    "explicacion": "El crédito a corto plazo cubre desfases transitorios de tesorería. No es una modificación presupuestaria ni habilita por sí solo una aplicación de gasto. La operación de tesorería atiende desfases temporales entre cobros y pagos y se cancela a corto plazo. Para autorizar un gasto sigue haciendo falta crédito adecuado en el presupuesto y recorrer sus fases; obtener financiación no crea por sí solo una aplicación presupuestaria."
   },
   {
     "id": "burgos-iv02-deep-11",
@@ -485,8 +485,8 @@
       "Sustituir la aprobación del presupuesto por el Pleno"
     ],
     "correcta": 0,
-    "explicación": "Son provisiones de fondos no presupuestarias y permanentes para gastos corrientes periódicos o repetitivos, reguladas en las bases y sujetas a reposición y control.",
-    "referencia": "TRLRHL, artículo 190 · Real Decreto 500/1990, artículos 73 a 76"
+    "referencia": "TRLRHL, artículo 190 · Real Decreto 500/1990, artículos 73 a 76",
+    "explicacion": "Son provisiones de fondos no presupuestarias y permanentes para gastos corrientes periódicos o repetitivos, reguladas en las bases y sujetas a reposición y control. La provisión se registra inicialmente fuera de la ejecución definitiva del gasto y se justifica después con facturas; entonces se aplica a las partidas correspondientes. No debe confundirse con un pago a justificar singular ni con una ampliación del crédito disponible."
   },
   {
     "id": "burgos-iv02-deep-12",
@@ -499,7 +499,7 @@
       "Capítulo 4: pasivos financieros; capítulo 5: transferencias de capital; capítulo 6: gastos financieros"
     ],
     "correcta": 0,
-    "explicación": "En gastos, el capítulo 1 es personal, el 6 inversiones reales y el 9 pasivos financieros.",
-    "referencia": "Orden EHA/3565/2008 · IV.2, clasificación económica"
+    "referencia": "Orden EHA/3565/2008 · IV.2, clasificación económica",
+    "explicacion": "En gastos, el capítulo 1 es personal, el 6 inversiones reales y el 9 pasivos financieros. Los capítulos se ordenan por naturaleza económica: personal es gasto corriente, inversión real es operación de capital y pasivo financiero refleja amortización de deuda. La clasificación no depende del departamento que tramita la factura ni de que el pago se ejecute en uno o varios plazos."
   }
 ]

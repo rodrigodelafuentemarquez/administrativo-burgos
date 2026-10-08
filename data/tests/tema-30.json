@@ -3,198 +3,308 @@
     "id": "t44-p014",
     "tema": 30,
     "pregunta": "¿Qué modalidad de control interno local tiene por objeto fiscalizar actos que reconocen derechos u obligaciones, ingresos, pagos e inversión o aplicación de fondos públicos?",
-    "opciones": ["La función interventora", "El control parlamentario", "La jurisdicción contable", "La auditoría privada del proveedor"],
+    "opciones": [
+      "La función interventora",
+      "El control parlamentario",
+      "La jurisdicción contable",
+      "La auditoría privada del proveedor"
+    ],
     "correcta": 0,
-    "explicación": "La función interventora controla esos actos para asegurar que la gestión se ajusta a las disposiciones aplicables.",
-    "referencia": "TRLRHL, arts. 213-214 · Tema IV.4, función interventora"
+    "referencia": "TRLRHL, arts. 213-214 · Tema IV.4, función interventora",
+    "explicacion": "La función interventora controla esos actos para asegurar que la gestión se ajusta a las disposiciones aplicables. El artículo 214 del TRLRHL define la función interventora como control previo de actos que reconocen derechos u obligaciones, ingresos, pagos e inversión o aplicación de fondos. Se distingue del control financiero, que evalúa de forma más amplia el funcionamiento económico-financiero y la gestión, incluida eficacia y eficiencia."
   },
   {
     "id": "t44-p015",
     "tema": 30,
     "pregunta": "¿Qué órgano es el externo autonómico de fiscalización en Castilla y León?",
-    "opciones": ["La Intervención General de la Administración del Estado", "El Consejo de Cuentas de Castilla y León", "La Tesorería General", "El Consejo de Estado"],
+    "opciones": [
+      "La Intervención General de la Administración del Estado",
+      "El Consejo de Cuentas de Castilla y León",
+      "La Tesorería General",
+      "El Consejo de Estado"
+    ],
     "correcta": 1,
-    "explicación": "El Consejo de Cuentas realiza la fiscalización externa del sector público de Castilla y León y rinde sus informes a las Cortes autonómicas.",
-    "referencia": "Estatuto de Autonomía, art. 90; Ley 2/2002 · Tema IV.4"
+    "referencia": "Estatuto de Autonomía, art. 90; Ley 2/2002 · Tema IV.4",
+    "explicacion": "El Consejo de Cuentas realiza la fiscalización externa del sector público de Castilla y León y rinde sus informes a las Cortes autonómicas. El Consejo de Cuentas es el órgano de fiscalización externa de Castilla y León regulado por la Ley autonómica 2/2002; rinde sus informes a las Cortes de Castilla y León. No es una Intervención municipal ni sustituye al Tribunal de Cuentas estatal o al control interno de cada entidad."
   },
   {
     "id": "t44-p019",
     "tema": 30,
     "pregunta": "Cuando el reparo se basa en insuficiencia o inadecuación de crédito, ¿qué órgano local resuelve la discrepancia?",
-    "opciones": ["El Pleno", "El proveedor", "La Comisión Especial de Cuentas", "El Consejo de Cuentas"],
+    "opciones": [
+      "El Pleno",
+      "El proveedor",
+      "La Comisión Especial de Cuentas",
+      "El Consejo de Cuentas"
+    ],
     "correcta": 0,
-    "explicación": "El TRLRHL atribuye al Pleno la resolución de las discrepancias basadas en insuficiencia o inadecuación de crédito.",
-    "referencia": "TRLRHL, art. 217 · Tema IV.4, discrepancias"
+    "referencia": "TRLRHL, art. 217 · Tema IV.4, discrepancias",
+    "explicacion": "El TRLRHL atribuye al Pleno la resolución de las discrepancias basadas en insuficiencia o inadecuación de crédito. El reparo suspensivo impide continuar la tramitación en los supuestos del artículo 216 TRLRHL, salvo que se subsane el defecto o se resuelva la discrepancia por el órgano competente. Una factura o instrucción verbal no levanta la suspensión ni reemplaza el procedimiento de discrepancias."
   },
   {
     "id": "t44-p024",
     "tema": 30,
     "pregunta": "Según la Ley Orgánica 2/1982, una función propia del Tribunal de Cuentas es la:",
-    "opciones": ["Fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público", "Función interventora previa de cada Ayuntamiento", "Ordenación material de todos los pagos locales", "Aprobación de las ordenanzas fiscales"],
+    "opciones": [
+      "Fiscalización externa, permanente y consuntiva de la actividad económico-financiera del sector público",
+      "Función interventora previa de cada Ayuntamiento",
+      "Ordenación material de todos los pagos locales",
+      "Aprobación de las ordenanzas fiscales"
+    ],
     "correcta": 0,
-    "explicación": "El Tribunal ejerce fiscalización externa y enjuicia la responsabilidad contable; no sustituye al órgano interventor local.",
-    "referencia": "Ley Orgánica 2/1982, arts. 1-2 · Tema IV.4, Tribunal de Cuentas"
+    "referencia": "Ley Orgánica 2/1982, arts. 1-2 · Tema IV.4, Tribunal de Cuentas",
+    "explicacion": "El Tribunal ejerce fiscalización externa y enjuicia la responsabilidad contable; no sustituye al órgano interventor local. La Constitución y la Ley Orgánica 2/1982 atribuyen al Tribunal de Cuentas la fiscalización externa, permanente y consuntiva del sector público y la jurisdicción contable. No dirige la gestión diaria ni autoriza cada expediente: el control interno corresponde al órgano interventor y la fiscalización externa revisa las cuentas rendidas."
   },
   {
     "id": "topup-30-03",
     "tema": 30,
     "pregunta": "El control financiero local comprueba, entre otros extremos:",
-    "opciones": ["El cumplimiento normativo y los principios de eficacia, eficiencia y economía", "La composición de las Cortes Generales", "La legalidad de una sentencia penal", "La sucesión a la Corona"],
+    "opciones": [
+      "El cumplimiento normativo y los principios de eficacia, eficiencia y economía",
+      "La composición de las Cortes Generales",
+      "La legalidad de una sentencia penal",
+      "La sucesión a la Corona"
+    ],
     "correcta": 0,
-    "explicación": "El control financiero examina el funcionamiento económico-financiero y la buena gestión de los recursos públicos.",
-    "referencia": "RD 424/2017, art. 3 · Tema IV.4, control financiero"
+    "referencia": "RD 424/2017, art. 3 · Tema IV.4, control financiero",
+    "explicacion": "El control financiero examina el funcionamiento económico-financiero y la buena gestión de los recursos públicos. El Real Decreto 424/2017 separa función interventora y control financiero, e incluye en este último el control permanente y la auditoría pública. La revisión atiende cumplimiento y buena gestión económico-financiera; no es control político de oportunidad ni una fase contable del ciclo de gasto."
   },
   {
     "id": "topup-30-05",
     "tema": 30,
     "pregunta": "La insuficiencia o inadecuación de crédito puede dar lugar a:",
-    "opciones": ["Un reparo con efecto suspensivo", "Una certificación de obra automática", "Un bando municipal", "Una ampliación de plantilla"],
+    "opciones": [
+      "Un reparo con efecto suspensivo",
+      "Una certificación de obra automática",
+      "Un bando municipal",
+      "Una ampliación de plantilla"
+    ],
     "correcta": 0,
-    "explicación": "La falta de crédito adecuado y suficiente es uno de los supuestos clásicos de reparo suspensivo.",
-    "referencia": "TRLRHL, arts. 215-216 · Tema IV.4, reparos"
+    "referencia": "TRLRHL, arts. 215-216 · Tema IV.4, reparos",
+    "explicacion": "La falta de crédito adecuado y suficiente es uno de los supuestos clásicos de reparo suspensivo. El reparo suspensivo impide continuar la tramitación en los supuestos del artículo 216 TRLRHL, salvo que se subsane el defecto o se resuelva la discrepancia por el órgano competente. Una factura o instrucción verbal no levanta la suspensión ni reemplaza el procedimiento de discrepancias."
   },
   {
     "id": "topup-30-07",
     "tema": 30,
     "pregunta": "Si se omitió una fiscalización previa obligatoria, antes de reconocer la obligación debe:",
-    "opciones": ["Tramitar el procedimiento específico de omisión de fiscalización", "Pagar automáticamente la factura", "Archivar el expediente sin informe", "Solicitar autorización al Tribunal Constitucional"],
+    "opciones": [
+      "Tramitar el procedimiento específico de omisión de fiscalización",
+      "Pagar automáticamente la factura",
+      "Archivar el expediente sin informe",
+      "Solicitar autorización al Tribunal Constitucional"
+    ],
     "correcta": 0,
-    "explicación": "La omisión exige informe del órgano interventor y resolución del órgano competente conforme al procedimiento reglamentario.",
-    "referencia": "RD 424/2017, art. 28 · Tema IV.4, omisión de fiscalización"
+    "referencia": "RD 424/2017, art. 28 · Tema IV.4, omisión de fiscalización",
+    "explicacion": "La omisión exige informe del órgano interventor y resolución del órgano competente conforme al procedimiento reglamentario. El artículo 28 del RD 424/2017 regula la omisión de la función interventora: el órgano gestor debe comunicarla y aportar antecedentes, y la Intervención emite informe antes de que el órgano competente decida. No se debe reconocer la obligación como si la fiscalización previa se hubiera practicado normalmente."
   },
   {
     "id": "topup-30-09",
     "tema": 30,
     "pregunta": "La Comisión Especial de Cuentas interviene en la Cuenta General mediante:",
-    "opciones": ["Su examen e informe previo", "Su aprobación definitiva", "La ordenación del pago", "La resolución de todos los reparos"],
+    "opciones": [
+      "Su examen e informe previo",
+      "Su aprobación definitiva",
+      "La ordenación del pago",
+      "La resolución de todos los reparos"
+    ],
     "correcta": 0,
-    "explicación": "La Comisión examina e informa; la aprobación corresponde al Pleno después de la exposición pública y de resolver las reclamaciones.",
-    "referencia": "TRLRHL, art. 212 · Tema IV.4, Cuenta General"
+    "referencia": "TRLRHL, art. 212 · Tema IV.4, Cuenta General",
+    "explicacion": "La Comisión examina e informa; la aprobación corresponde al Pleno después de la exposición pública y de resolver las reclamaciones. Los artículos 116 de la Ley 7/1985 y 212 del TRLRHL separan las etapas de la Cuenta General: formación, examen e informe de la Comisión Especial de Cuentas, exposición pública y aprobación plenaria. El calendario legal distingue el 15 de mayo, el 1 de junio, el periodo de reclamaciones y el 1 de octubre."
   },
   {
     "id": "topup-30-13",
     "tema": 30,
     "pregunta": "La responsabilidad contable se vincula a un menoscabo de fondos públicos causado por una acción u omisión contraria a la ley. ¿Qué afirmación es correcta?",
-    "opciones": ["No toda irregularidad formal genera automáticamente responsabilidad contable", "Cualquier error tipográfico la genera siempre", "Solo puede declararla el órgano gestor municipal", "Es idéntica a la responsabilidad disciplinaria"],
+    "opciones": [
+      "No toda irregularidad formal genera automáticamente responsabilidad contable",
+      "Cualquier error tipográfico la genera siempre",
+      "Solo puede declararla el órgano gestor municipal",
+      "Es idéntica a la responsabilidad disciplinaria"
+    ],
     "correcta": 0,
-    "explicación": "La responsabilidad contable tiene presupuestos propios y es compatible, pero distinta, de la responsabilidad disciplinaria o penal.",
-    "referencia": "Ley Orgánica 2/1982, arts. 2 y 38 · Tema IV.4"
+    "referencia": "Ley Orgánica 2/1982, arts. 2 y 38 · Tema IV.4",
+    "explicacion": "La responsabilidad contable tiene presupuestos propios y es compatible, pero distinta, de la responsabilidad disciplinaria o penal. El artículo 28 del RD 424/2017 regula la omisión de la función interventora: el órgano gestor debe comunicarla y aportar antecedentes, y la Intervención emite informe antes de que el órgano competente decida. No se debe reconocer la obligación como si la fiscalización previa se hubiera practicado normalmente."
   },
   {
     "id": "topup-30-15",
     "tema": 30,
     "pregunta": "El control financiero local se planifica ordinariamente mediante un:",
-    "opciones": ["Plan Anual de Control Financiero", "Orden del día del Pleno", "Plan de disposición de fondos", "Registro de licitadores"],
+    "opciones": [
+      "Plan Anual de Control Financiero",
+      "Orden del día del Pleno",
+      "Plan de disposición de fondos",
+      "Registro de licitadores"
+    ],
     "correcta": 0,
-    "explicación": "El órgano interventor elabora el Plan Anual de Control Financiero a partir de un análisis de riesgos.",
-    "referencia": "RD 424/2017, arts. 31-32 · Tema IV.4"
+    "referencia": "RD 424/2017, arts. 31-32 · Tema IV.4",
+    "explicacion": "El órgano interventor elabora el Plan Anual de Control Financiero a partir de un análisis de riesgos. El Real Decreto 424/2017 requiere planificación anual basada en riesgos para el control financiero y un plan de acción cuando el informe-resumen revela debilidades. La presidencia impulsa medidas correctoras y su seguimiento; el plan no reemplaza la fiscalización ni convierte recomendaciones en autorización del gasto."
   },
   {
     "id": "burgos-iv04-deep-01",
     "tema": 30,
     "pregunta": "¿Cuál de estas entidades forma parte del sector público local a efectos del RD 424/2017?",
-    "opciones": ["Una sociedad mercantil dependiente de la entidad local", "Cualquier empresa contratista sin participación pública", "Un partido político estatal", "Una asociación privada sin financiación pública"],
+    "opciones": [
+      "Una sociedad mercantil dependiente de la entidad local",
+      "Cualquier empresa contratista sin participación pública",
+      "Un partido político estatal",
+      "Una asociación privada sin financiación pública"
+    ],
     "correcta": 0,
-    "explicación": "El reglamento incluye, entre otras, las sociedades mercantiles dependientes de la entidad local.",
-    "referencia": "RD 424/2017, art. 2 · Tema IV.4, ámbito del control interno"
+    "referencia": "RD 424/2017, art. 2 · Tema IV.4, ámbito del control interno",
+    "explicacion": "El reglamento incluye, entre otras, las sociedades mercantiles dependientes de la entidad local. La dependencia se determina por el control público de la entidad, no por su forma societaria. Por ello, la fiscalización alcanza a sociedades dependientes; una empresa privada contratista no se convierte automáticamente en entidad del sector público local por tener un contrato con el Ayuntamiento."
   },
   {
     "id": "burgos-iv04-deep-02",
     "tema": 30,
     "pregunta": "En la fiscalización limitada previa:",
-    "opciones": ["Se revisan extremos básicos y los restantes pueden someterse a control financiero posterior", "Desaparece todo control sobre el gasto", "Solo se controla la oportunidad política", "El Tribunal de Cuentas autoriza cada expediente"],
+    "opciones": [
+      "Se revisan extremos básicos y los restantes pueden someterse a control financiero posterior",
+      "Desaparece todo control sobre el gasto",
+      "Solo se controla la oportunidad política",
+      "El Tribunal de Cuentas autoriza cada expediente"
+    ],
     "correcta": 0,
-    "explicación": "La fiscalización limitada reduce el alcance del control previo, pero no elimina el control posterior sobre los extremos no examinados.",
-    "referencia": "TRLRHL, art. 219 · RD 424/2017 · Tema IV.4"
+    "referencia": "TRLRHL, art. 219 · RD 424/2017 · Tema IV.4",
+    "explicacion": "La fiscalización limitada reduce el alcance del control previo, pero no elimina el control posterior sobre los extremos no examinados. La modalidad limitada se acuerda conforme al régimen legal y concentra la comprobación previa en extremos esenciales, como competencia y crédito. El alcance reducido no convierte en válidos los demás aspectos por silencio: pueden examinarse después en control financiero o auditoría."
   },
   {
     "id": "burgos-iv04-deep-03",
     "tema": 30,
     "pregunta": "La comprobación material de la inversión sirve principalmente para verificar:",
-    "opciones": ["Que la obra, servicio o adquisición se ha realizado y coincide con lo contratado", "Que el Pleno ha aprobado la Cuenta General", "Que el proveedor tiene nacionalidad española", "Que la ordenanza fiscal está publicada"],
+    "opciones": [
+      "Que la obra, servicio o adquisición se ha realizado y coincide con lo contratado",
+      "Que el Pleno ha aprobado la Cuenta General",
+      "Que el proveedor tiene nacionalidad española",
+      "Que la ordenanza fiscal está publicada"
+    ],
     "correcta": 0,
-    "explicación": "Es una actuación de la función interventora vinculada a la realidad y adecuación material de la prestación cuando procede.",
-    "referencia": "RD 424/2017, arts. 20-21 · Tema IV.4, función interventora"
+    "referencia": "RD 424/2017, arts. 20-21 · Tema IV.4, función interventora",
+    "explicacion": "Es una actuación de la función interventora vinculada a la realidad y adecuación material de la prestación cuando procede. La comprobación material contrasta la realidad física con el expediente: existencia, cantidad y condiciones de la prestación. El documento contable o la factura por sí solos no sustituyen esta comprobación cuando la inversión está sujeta a ella; el acto se integra en la función interventora."
   },
   {
     "id": "burgos-iv04-deep-04",
     "tema": 30,
     "pregunta": "Un reparo suspensivo permite continuar el expediente:",
-    "opciones": ["Solo después de subsanar el defecto o resolver la discrepancia conforme al procedimiento legal", "Siempre que exista una factura", "Cuando lo pida verbalmente el proveedor", "Sin ninguna actuación adicional"],
+    "opciones": [
+      "Solo después de subsanar el defecto o resolver la discrepancia conforme al procedimiento legal",
+      "Siempre que exista una factura",
+      "Cuando lo pida verbalmente el proveedor",
+      "Sin ninguna actuación adicional"
+    ],
     "correcta": 0,
-    "explicación": "El efecto suspensivo bloquea la tramitación mientras subsista el defecto o no se resuelva la discrepancia por el órgano competente.",
-    "referencia": "TRLRHL, arts. 215-217 · Tema IV.4"
+    "referencia": "TRLRHL, arts. 215-217 · Tema IV.4",
+    "explicacion": "El efecto suspensivo bloquea la tramitación mientras subsista el defecto o no se resuelva la discrepancia por el órgano competente. El reparo mantiene suspendida la tramitación en los supuestos legales hasta que el defecto se corrija o el órgano competente resuelva la discrepancia. La continuación no depende de la urgencia apreciada por el proveedor y debe quedar documentada en el expediente."
   },
   {
     "id": "burgos-iv04-deep-05",
     "tema": 30,
     "pregunta": "El informe-resumen anual del control interno se remite al Pleno:",
-    "opciones": ["A través del presidente de la entidad local", "A través del proveedor principal", "Solo al Consejo de Estado", "Únicamente a la Comisión Especial de Cuentas"],
+    "opciones": [
+      "A través del presidente de la entidad local",
+      "A través del proveedor principal",
+      "Solo al Consejo de Estado",
+      "Únicamente a la Comisión Especial de Cuentas"
+    ],
     "correcta": 0,
-    "explicación": "El órgano interventor elabora el informe y lo remite al Pleno por medio del presidente, además de remitirlo a la IGAE en los términos reglamentarios.",
-    "referencia": "RD 424/2017, art. 37 · Tema IV.4, informe-resumen"
+    "referencia": "RD 424/2017, art. 37 · Tema IV.4, informe-resumen",
+    "explicacion": "El órgano interventor elabora el informe y lo remite al Pleno por medio del presidente, además de remitirlo a la IGAE en los términos reglamentarios. La remisión por medio de la Presidencia integra el informe-resumen en la rendición institucional de cuentas y da al Pleno conocimiento de las conclusiones. También existe una remisión a la IGAE conforme al reglamento; no debe sustituirse por un envío directo al proveedor o a otro órgano político."
   },
   {
     "id": "burgos-iv04-deep-06",
     "tema": 30,
     "pregunta": "¿Qué actuación debe seguir normalmente al informe-resumen cuando revela debilidades o incumplimientos?",
-    "opciones": ["La aprobación de un plan de acción con medidas correctoras", "La disolución automática del Ayuntamiento", "La aprobación de una ordenanza fiscal", "La remisión directa al Tribunal Constitucional"],
+    "opciones": [
+      "La aprobación de un plan de acción con medidas correctoras",
+      "La disolución automática del Ayuntamiento",
+      "La aprobación de una ordenanza fiscal",
+      "La remisión directa al Tribunal Constitucional"
+    ],
     "correcta": 0,
-    "explicación": "La presidencia debe formalizar un plan de acción para corregir las deficiencias detectadas y hacer seguimiento de las medidas.",
-    "referencia": "RD 424/2017, arts. 38-39 · Tema IV.4"
+    "referencia": "RD 424/2017, arts. 38-39 · Tema IV.4",
+    "explicacion": "La presidencia debe formalizar un plan de acción para corregir las deficiencias detectadas y hacer seguimiento de las medidas. El plan debe concretar medidas, responsables y calendario para corregir los problemas detectados, y su ejecución se comunica conforme al reglamento. No es una nueva auditoría ni una sanción automática: transforma las conclusiones de control en actuaciones de mejora verificables."
   },
   {
     "id": "burgos-iv04-deep-07",
     "tema": 30,
     "pregunta": "La Cuenta General de una entidad local debe someterse a informe de la Comisión Especial de Cuentas antes del:",
-    "opciones": ["1 de junio", "15 de mayo", "1 de octubre", "15 de octubre"],
+    "opciones": [
+      "1 de junio",
+      "15 de mayo",
+      "1 de octubre",
+      "15 de octubre"
+    ],
     "correcta": 0,
-    "explicación": "La entidad debe formar la cuenta antes del 15 de mayo y someterla a la Comisión Especial de Cuentas antes del 1 de junio.",
-    "referencia": "TRLRHL, art. 212 · Tema IV.4, calendario de la Cuenta General"
+    "referencia": "TRLRHL, art. 212 · Tema IV.4, calendario de la Cuenta General",
+    "explicacion": "La entidad debe formar la cuenta antes del 15 de mayo y someterla a la Comisión Especial de Cuentas antes del 1 de junio. La Comisión debe examinar e informar la cuenta dentro del calendario anual antes de que se abra la exposición pública y de que el Pleno la apruebe. El 1 de junio es el límite para el informe, no la fecha de aprobación definitiva ni el plazo de rendición al Tribunal."
   },
   {
     "id": "burgos-iv04-deep-08",
     "tema": 30,
     "pregunta": "Tras la exposición pública de la Cuenta General, el plazo adicional para formular reclamaciones, reparos u observaciones es de:",
-    "opciones": ["8 días", "5 días", "10 días", "1 mes"],
+    "opciones": [
+      "8 días",
+      "5 días",
+      "10 días",
+      "1 mes"
+    ],
     "correcta": 0,
-    "explicación": "La exposición dura 15 días y durante esos días y 8 más pueden formularse reclamaciones, reparos u observaciones.",
-    "referencia": "TRLRHL, art. 212 · Tema IV.4"
+    "referencia": "TRLRHL, art. 212 · Tema IV.4",
+    "explicacion": "La exposición dura 15 días y durante esos días y 8 más pueden formularse reclamaciones, reparos u observaciones. Los ocho días adicionales se suman a los quince de exposición para presentar observaciones y reparos; no son ocho días totales ni el plazo de impugnación de una ordenanza. El informe de la Comisión sobre las reclamaciones precede a la aprobación por el Pleno."
   },
   {
     "id": "burgos-iv04-deep-09",
     "tema": 30,
     "pregunta": "La Cuenta General de una entidad local debe aprobarse por el Pleno antes del:",
-    "opciones": ["1 de octubre", "1 de junio", "15 de octubre", "31 de diciembre"],
+    "opciones": [
+      "1 de octubre",
+      "1 de junio",
+      "15 de octubre",
+      "31 de diciembre"
+    ],
     "correcta": 0,
-    "explicación": "Después del examen, informe y exposición pública, el Pleno debe aprobar la Cuenta General antes del 1 de octubre.",
-    "referencia": "TRLRHL, art. 212 · Tema IV.4"
+    "referencia": "TRLRHL, art. 212 · Tema IV.4",
+    "explicacion": "Después del examen, informe y exposición pública, el Pleno debe aprobar la Cuenta General antes del 1 de octubre. La aprobación plenaria se produce después del examen de la Comisión y de la exposición pública, con resolución de las reclamaciones formuladas. El 1 de octubre es anterior al plazo de rendición de la cuenta al Tribunal de Cuentas, fijado con carácter general para el 15 de octubre."
   },
   {
     "id": "burgos-iv04-deep-10",
     "tema": 30,
     "pregunta": "¿Cuál es la relación correcta entre el Consejo de Cuentas de Castilla y León y las Cortes de Castilla y León?",
-    "opciones": ["El Consejo fiscaliza y las Cortes reciben sus informes y ejercen control parlamentario", "Las Cortes realizan la fiscalización técnica y el Consejo aprueba el presupuesto municipal", "Ambos son órganos de Intervención municipal", "El Consejo depende del Tribunal Constitucional"],
+    "opciones": [
+      "El Consejo fiscaliza y las Cortes reciben sus informes y ejercen control parlamentario",
+      "Las Cortes realizan la fiscalización técnica y el Consejo aprueba el presupuesto municipal",
+      "Ambos son órganos de Intervención municipal",
+      "El Consejo depende del Tribunal Constitucional"
+    ],
     "correcta": 0,
-    "explicación": "El Consejo es el órgano externo de fiscalización previsto en Castilla y León y rinde sus informes a las Cortes autonómicas.",
-    "referencia": "Estatuto de Autonomía, art. 90; Ley 2/2002 · Tema IV.4"
+    "referencia": "Estatuto de Autonomía, art. 90; Ley 2/2002 · Tema IV.4",
+    "explicacion": "El Consejo es el órgano externo de fiscalización previsto en Castilla y León y rinde sus informes a las Cortes autonómicas. El Consejo ejerce fiscalización técnica externa dentro de su ámbito autonómico; las Cortes reciben sus informes y hacen control parlamentario. La Intervención local mantiene el control interno y el Tribunal de Cuentas conserva sus competencias estatales, con relaciones de coordinación entre órganos fiscalizadores."
   },
   {
     "id": "burgos-iv04-deep-11",
     "tema": 30,
     "pregunta": "La jurisdicción contable del Tribunal de Cuentas es compatible respecto de unos mismos hechos con:",
-    "opciones": ["La potestad disciplinaria y la actuación de la jurisdicción penal", "La función interventora del mismo expediente como si fueran idénticas", "La aprobación plenaria de una ordenanza", "La sustitución del órgano gestor"],
+    "opciones": [
+      "La potestad disciplinaria y la actuación de la jurisdicción penal",
+      "La función interventora del mismo expediente como si fueran idénticas",
+      "La aprobación plenaria de una ordenanza",
+      "La sustitución del órgano gestor"
+    ],
     "correcta": 0,
-    "explicación": "La responsabilidad contable puede coexistir con responsabilidades disciplinarias o penales, sin confundirse con ellas.",
-    "referencia": "Ley Orgánica 2/1982, art. 18 · Tema IV.4"
+    "referencia": "Ley Orgánica 2/1982, art. 18 · Tema IV.4",
+    "explicacion": "La responsabilidad contable puede coexistir con responsabilidades disciplinarias o penales, sin confundirse con ellas. La compatibilidad significa que una conducta puede generar consecuencias en órdenes distintos, siempre respetando los límites de cada procedimiento y la prohibición de doble sanción por los mismos hechos cuando proceda. La jurisdicción contable resarce el daño a fondos públicos; la penal y la disciplinaria persiguen responsabilidades diferentes."
   },
   {
     "id": "burgos-iv04-deep-12",
     "tema": 30,
     "pregunta": "¿Qué afirmación diferencia correctamente el control financiero permanente de la auditoría pública?",
-    "opciones": ["El primero se ejerce de forma continua; la segunda revisa posteriormente y de forma sistemática mediante técnicas de auditoría", "El primero es externo y la segunda siempre la realiza el Pleno", "Ambos son fases del procedimiento A-D-O-P", "La auditoría pública solo revisa expedientes sin contenido económico"],
+    "opciones": [
+      "El primero se ejerce de forma continua; la segunda revisa posteriormente y de forma sistemática mediante técnicas de auditoría",
+      "El primero es externo y la segunda siempre la realiza el Pleno",
+      "Ambos son fases del procedimiento A-D-O-P",
+      "La auditoría pública solo revisa expedientes sin contenido económico"
+    ],
     "correcta": 0,
-    "explicación": "Son los dos regímenes del control financiero: permanente y auditoría pública, con distinta forma de revisión.",
-    "referencia": "RD 424/2017, arts. 3 y 29-33 · Tema IV.4"
+    "referencia": "RD 424/2017, arts. 3 y 29-33 · Tema IV.4",
+    "explicacion": "Son los dos regímenes del control financiero: permanente y auditoría pública, con distinta forma de revisión. La modalidad permanente se integra en el seguimiento ordinario de la actividad, mientras que la auditoría delimita trabajos, pruebas y conclusiones sobre cuentas, cumplimiento u operaciones. Las dos producen evidencia para mejorar el control, pero no son equivalentes a la función interventora previa de cada expediente."
   }
 ]

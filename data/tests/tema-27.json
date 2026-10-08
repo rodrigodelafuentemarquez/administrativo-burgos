@@ -10,11 +10,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 24",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta. El artículo 59 del TRLRHL obliga a exigir IBI, IAE e IVTM; el ICIO y el IIVTNU son potestativos. La clave se resuelve separando esa lista cerrada: la posibilidad de establecer un impuesto no lo convierte en obligatorio para todos los municipios."
   },
   {
     "id": "pdf-2025-burgos-q37",
@@ -28,11 +28,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 37",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta. El artículo 2 del TRLRHL enumera recursos patrimoniales, tributos, subvenciones, precios públicos, operaciones de crédito y otros ingresos de derecho público o privado. La pregunta exige leer la categoría como un conjunto, no confundirla con una sola fuente de financiación."
   },
   {
     "id": "pdf-2025-burgos-q38",
@@ -46,11 +46,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 38",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta. Los precios públicos son ingresos de derecho público no tributarios y se rigen por los artículos 41 a 47 del TRLRHL. Se distinguen de las tasas porque su establecimiento requiere que el servicio no sea de solicitud o recepción obligatoria ni se preste en monopolio público."
   },
   {
     "id": "pdf-2025-burgos-q39",
@@ -64,11 +64,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 39",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta. Los artículos 20, 24 y 26 del TRLRHL delimitan el hecho imponible, la cuantía y el devengo de las tasas. El uso privativo del dominio público y ciertos servicios o actividades locales pueden generarlas; no basta cualquier actividad municipal ni una mera titularidad patrimonial."
   },
   {
     "id": "pdf-2023-burgos-q37",
@@ -82,11 +82,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 37",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta. El artículo 2 del TRLRHL enumera recursos patrimoniales, tributos, subvenciones, precios públicos, operaciones de crédito y otros ingresos de derecho público o privado. La pregunta exige leer la categoría como un conjunto, no confundirla con una sola fuente de financiación."
   },
   {
     "id": "topup-27-03",
@@ -98,9 +98,9 @@
       "canon urbanístico"
     ],
     "correcta": 0,
-    "explicación": "El IBI es un impuesto municipal obligatorio.",
     "referencia": "IV.1 · Impuestos municipales",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "El IBI es un impuesto municipal obligatorio. El artículo 59 del TRLRHL obliga a exigir IBI, IAE e IVTM; el ICIO y el IIVTNU son potestativos. La clave se resuelve separando esa lista cerrada: la posibilidad de establecer un impuesto no lo convierte en obligatorio para todos los municipios."
   },
   {
     "id": "topup-27-07",
@@ -112,9 +112,9 @@
       "cualquier hecho sin relación con servicio o dominio público"
     ],
     "correcta": 0,
-    "explicación": "La tasa conecta con dominio público o con servicios/actividades de competencia local.",
     "referencia": "IV.1 · Tasas",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La tasa conecta con dominio público o con servicios/actividades de competencia local. Los artículos 20, 24 y 26 del TRLRHL delimitan el hecho imponible, la cuantía y el devengo de las tasas. El uso privativo del dominio público y ciertos servicios o actividades locales pueden generarlas; no basta cualquier actividad municipal ni una mera titularidad patrimonial."
   },
   {
     "id": "topup-27-08",
@@ -126,9 +126,9 @@
       "la elección del alcalde"
     ],
     "correcta": 0,
-    "explicación": "La contribución especial requiere un beneficio particular para determinados sujetos.",
     "referencia": "IV.1 · Contribuciones especiales",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La contribución especial requiere un beneficio particular para determinados sujetos. Los artículos 28 a 37 del TRLRHL vinculan las contribuciones especiales al beneficio especial o al aumento de valor causado por una obra pública o por el establecimiento o ampliación de un servicio. Por eso no financian indistintamente cualquier gasto general ni son una sanción."
   },
   {
     "id": "topup-27-10",
@@ -140,9 +140,9 @@
       "decretos-leyes municipales"
     ],
     "correcta": 0,
-    "explicación": "Los Ayuntamientos desarrollan sus tributos dentro de la ley por medio de ordenanzas fiscales.",
     "referencia": "IV.1 · Potestad reglamentaria tributaria",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "Los Ayuntamientos desarrollan sus tributos dentro de la ley por medio de ordenanzas fiscales. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "topup-27-11",
@@ -154,9 +154,9 @@
       "Si, mediante bando del alcalde"
     ],
     "correcta": 0,
-    "explicación": "La autonomía financiera local no elimina la reserva de ley tributaria.",
     "referencia": "IV.1 · Potestad reglamentaria tributaria",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La autonomía financiera local no elimina la reserva de ley tributaria. El TRLRHL reconoce autonomía financiera local, pero la somete a la Constitución y a la reserva de ley tributaria. El municipio puede establecer y exigir las figuras previstas legalmente y desarrollar su aplicación mediante ordenanza, sin inventar por sí mismo nuevos hechos imponibles."
   },
   {
     "id": "topup-27-12",
@@ -168,9 +168,9 @@
       "resultado de una moción de censura"
     ],
     "correcta": 0,
-    "explicación": "La ordenanza fiscal regula los elementos esenciales del tributo dentro de la ley.",
     "referencia": "IV.1 · Contenido de las ordenanzas fiscales",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La ordenanza fiscal regula los elementos esenciales del tributo dentro de la ley. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "topup-27-13",
@@ -182,9 +182,9 @@
       "la capitalidad de Castilla y León"
     ],
     "correcta": 0,
-    "explicación": "La cuantía de la tasa no puede desvincularse del coste o valor del servicio.",
     "referencia": "IV.1 · Contenido de las ordenanzas fiscales",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La cuantía de la tasa no puede desvincularse del coste o valor del servicio. Los artículos 20, 24 y 26 del TRLRHL delimitan el hecho imponible, la cuantía y el devengo de las tasas. El uso privativo del dominio público y ciertos servicios o actividades locales pueden generarlas; no basta cualquier actividad municipal ni una mera titularidad patrimonial."
   },
   {
     "id": "topup-27-14",
@@ -196,9 +196,9 @@
       "Tribunal Supremo"
     ],
     "correcta": 0,
-    "explicación": "El procedimiento arranca con acuerdo plenario de aprobación provisional.",
     "referencia": "IV.1 · Tramitación de ordenanzas fiscales",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "El procedimiento arranca con acuerdo plenario de aprobación provisional. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "topup-27-15",
@@ -210,9 +210,9 @@
       "veinticuatro horas"
     ],
     "correcta": 0,
-    "explicación": "La tramitación incluye exposición pública para reclamaciones.",
     "referencia": "IV.1 · Tramitación de ordenanzas fiscales",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La tramitación incluye exposición pública para reclamaciones. El artículo 17 del TRLRHL exige exposición del acuerdo provisional durante al menos treinta días para que puedan formularse reclamaciones. Si no las hay, el acuerdo queda definitivamente adoptado; aun así, el texto íntegro debe publicarse antes de su entrada en vigor."
   },
   {
     "id": "topup-27-16",
@@ -224,9 +224,9 @@
       "dictar una sentencia"
     ],
     "correcta": 0,
-    "explicación": "Imponer es decidir que la figura tributaria potestativa se exigira en la entidad local.",
     "referencia": "IV.1 · Imposición y ordenación",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "Imponer es decidir que la figura tributaria potestativa se exigira en la entidad local. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "topup-27-17",
@@ -238,9 +238,9 @@
       "Fijar los servicios mínimos en caso de huelga del personal municipal"
     ],
     "correcta": 0,
-    "explicación": "La ordenación del tributo se plasma en la ordenanza fiscal, que concreta sus elementos dentro del marco legal.",
     "referencia": "Tributos locales · imposición y ordenación",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La ordenación del tributo se plasma en la ordenanza fiscal, que concreta sus elementos dentro del marco legal. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "topup-27-18",
@@ -252,9 +252,9 @@
       "militar"
     ],
     "correcta": 0,
-    "explicación": "Las disposiciones generales tributarias locales se controlan en vía contenciosa.",
     "referencia": "IV.1 · Impugnación",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "Las disposiciones generales tributarias locales se controlan en vía contenciosa. El artículo 19 del TRLRHL permite impugnar la ordenanza fiscal directamente ante la jurisdicción contencioso-administrativa. El recurso contra una liquidación o providencia combate un acto concreto y sigue su régimen propio; no debe confundirse con el control directo de la disposición general."
   },
   {
     "id": "topup-27-19",
@@ -266,9 +266,9 @@
       "decreto legislativo"
     ],
     "correcta": 0,
-    "explicación": "No es lo mismo impugnar la ordenanza que el acto individual de aplicación.",
     "referencia": "IV.1 · Impugnación de actos tributarios",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "No es lo mismo impugnar la ordenanza que el acto individual de aplicación. El artículo 14 del TRLRHL regula la revisión de actos de aplicación de tributos locales, incluido el recurso de reposición previo a la vía contenciosa, con las especialidades previstas para municipios de gran población. La vía depende de si se discute una liquidación concreta o una ordenanza general."
   },
   {
     "id": "topup-27-20",
@@ -280,9 +280,9 @@
       "Diputación Permanente"
     ],
     "correcta": 0,
-    "explicación": "El temario conecta la revisión tributaria con el TEAM municipal cuando existe.",
     "referencia": "IV.1 · Impugnación de actos tributarios",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "El temario conecta la revisión tributaria con el TEAM municipal cuando existe. La Ley 7/1985 prevé un órgano económico-administrativo municipal en los municipios de gran población para revisar determinados actos tributarios. No es un órgano estatal o provincial de existencia obligatoria en todos los municipios y sus competencias se limitan a las legalmente atribuidas."
   },
   {
     "id": "refine-27-01",
@@ -295,8 +295,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Tributos locales",
-    "explicación": "Los tres impuestos municipales obligatorios son IBI, IAE e IVTM.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "Los tres impuestos municipales obligatorios son IBI, IAE e IVTM. El artículo 59 del TRLRHL obliga a exigir IBI, IAE e IVTM; el ICIO y el IIVTNU son potestativos. La clave se resuelve separando esa lista cerrada: la posibilidad de establecer un impuesto no lo convierte en obligatorio para todos los municipios."
   },
   {
     "id": "refine-27-02",
@@ -309,8 +309,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Imposición y ordenación de tributos",
-    "explicación": "Los tributos potestativos requieren decisión municipal expresa, pero siempre dentro del marco legal estatal.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "Los tributos potestativos requieren decisión municipal expresa, pero siempre dentro del marco legal estatal. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "refine-27-03",
@@ -323,8 +323,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Potestad reglamentaria tributaria",
-    "explicación": "La ordenación del tributo local se articula mediante ordenanza fiscal.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La ordenación del tributo local se articula mediante ordenanza fiscal. Los artículos 15 a 19 del TRLRHL someten la imposición y ordenación tributaria local a acuerdo plenario, exposición pública y publicación. La ordenanza desarrolla dentro de la ley los elementos que esta permite concretar; no habilita al municipio para crear tributos sin cobertura legal."
   },
   {
     "id": "refine-27-04",
@@ -337,8 +337,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Ordenanzas fiscales",
-    "explicación": "La tramitación de las ordenanzas fiscales exige exposición pública mínima de treinta días.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La tramitación de las ordenanzas fiscales exige exposición pública mínima de treinta días. El artículo 17 del TRLRHL exige exposición del acuerdo provisional durante al menos treinta días para que puedan formularse reclamaciones. Si no las hay, el acuerdo queda definitivamente adoptado; aun así, el texto íntegro debe publicarse antes de su entrada en vigor."
   },
   {
     "id": "refine-27-05",
@@ -351,8 +351,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Tasas",
-    "explicación": "La tasa se conecta con un aprovechamiento especial del dominio público o con servicios y actividades administrativas en los términos legales.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La tasa se conecta con un aprovechamiento especial del dominio público o con servicios y actividades administrativas en los términos legales. Los artículos 20, 24 y 26 del TRLRHL delimitan el hecho imponible, la cuantía y el devengo de las tasas. El uso privativo del dominio público y ciertos servicios o actividades locales pueden generarlas; no basta cualquier actividad municipal ni una mera titularidad patrimonial."
   },
   {
     "id": "refine-27-06",
@@ -365,8 +365,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Contribuciones especiales",
-    "explicación": "Las contribuciones especiales descansan en la obtención de un beneficio especial derivado de la obra o servicio.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "Las contribuciones especiales descansan en la obtención de un beneficio especial derivado de la obra o servicio. Los artículos 28 a 37 del TRLRHL vinculan las contribuciones especiales al beneficio especial o al aumento de valor causado por una obra pública o por el establecimiento o ampliación de un servicio. Por eso no financian indistintamente cualquier gasto general ni son una sanción."
   },
   {
     "id": "refine-27-07",
@@ -379,8 +379,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Impugnación de ordenanzas fiscales",
-    "explicación": "La ordenanza fiscal es una disposición de carácter general y su control corresponde a la jurisdicción contencioso-administrativa.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "La ordenanza fiscal es una disposición de carácter general y su control corresponde a la jurisdicción contencioso-administrativa. El artículo 19 del TRLRHL permite impugnar la ordenanza fiscal directamente ante la jurisdicción contencioso-administrativa. El recurso contra una liquidación o providencia combate un acto concreto y sigue su régimen propio; no debe confundirse con el control directo de la disposición general."
   },
   {
     "id": "refine-27-08",
@@ -393,8 +393,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Revisión de actos tributarios locales",
-    "explicación": "En los municipios de gran población puede existir un órgano económico-administrativo municipal para esta revisión especializada.",
-    "tema": 27
+    "tema": 27,
+    "explicacion": "En los municipios de gran población puede existir un órgano económico-administrativo municipal para esta revisión especializada. La Ley 7/1985 prevé un órgano económico-administrativo municipal en los municipios de gran población para revisar determinados actos tributarios. No es un órgano estatal o provincial de existencia obligatoria en todos los municipios y sus competencias se limitan a las legalmente atribuidas."
   },
   {
     "id": "burgos-iv01-deep-01",
@@ -408,7 +408,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 6 TRLRHL · principios de tributación local",
-    "explicación": "El artículo 6 TRLRHL impone límites territoriales y prohíbe que los tributos locales actúen como obstáculos a la libre circulación, sin perjuicio de las excepciones legales."
+    "explicacion": "El artículo 6 TRLRHL impone límites territoriales y prohíbe que los tributos locales actúen como obstáculos a la libre circulación, sin perjuicio de las excepciones legales. El TRLRHL reconoce autonomía financiera local, pero la somete a la Constitución y a la reserva de ley tributaria. El municipio puede establecer y exigir las figuras previstas legalmente y desarrollar su aplicación mediante ordenanza, sin inventar por sí mismo nuevos hechos imponibles."
   },
   {
     "id": "burgos-iv01-deep-02",
@@ -422,7 +422,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 2 TRLRHL · recursos locales",
-    "explicación": "Las multas y sanciones pecuniarias forman parte de los ingresos de derecho público, pero no son una de las tres clases de tributos."
+    "explicacion": "Las multas y sanciones pecuniarias forman parte de los ingresos de derecho público, pero no son una de las tres clases de tributos. El artículo 2.2 del TRLRHL incluye las multas y sanciones pecuniarias entre los ingresos de derecho público, mientras que el artículo 2.1 define los tributos como tasas, contribuciones especiales e impuestos. Una multa nace del ejercicio sancionador, no de un hecho imponible tributario."
   },
   {
     "id": "burgos-iv01-deep-03",
@@ -436,7 +436,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 16 TRLRHL · contenido de las ordenanzas fiscales",
-    "explicación": "El artículo 16 incluye período impositivo y devengo entre los elementos mínimos de la ordenanza; el devengo determina cuándo nace la obligación."
+    "explicacion": "El artículo 16 incluye período impositivo y devengo entre los elementos mínimos de la ordenanza; el devengo determina cuándo nace la obligación. El período delimita el tramo de tiempo que el tributo toma en cuenta; el devengo fija el instante en que nace la obligación. Una ordenanza puede prever pagos fraccionados, pero esos vencimientos no cambian el devengo ni convierten cada plazo en un nuevo período impositivo."
   },
   {
     "id": "burgos-iv01-deep-04",
@@ -450,7 +450,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 17.2 TRLRHL · publicidad del anuncio",
-    "explicación": "El artículo 17.2 exige esa publicación adicional para los ayuntamientos de población superior a 10.000 habitantes."
+    "explicacion": "El artículo 17.2 exige esa publicación adicional para los ayuntamientos de población superior a 10.000 habitantes. El anuncio adicional es un requisito de publicidad del trámite de exposición, aplicable a municipios que superan los 10.000 habitantes. No sustituye el boletín oficial ni altera el plazo para presentar reclamaciones: añade un medio de difusión provincial para que el acuerdo llegue a más personas afectadas."
   },
   {
     "id": "burgos-iv01-deep-05",
@@ -464,7 +464,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 17.3 TRLRHL · elevación automática",
-    "explicación": "La ausencia de reclamaciones eleva automáticamente el acuerdo provisional a definitivo; después sigue siendo necesaria la publicación oficial del texto."
+    "explicacion": "La ausencia de reclamaciones eleva automáticamente el acuerdo provisional a definitivo; después sigue siendo necesaria la publicación oficial del texto. La falta de reclamaciones evita una segunda votación plenaria, pero no dispensa de publicar el texto íntegro en el boletín oficial de la provincia. La publicación es la condición para la entrada en vigor; hasta entonces, el acuerdo definitivo no puede exigirse como norma vigente."
   },
   {
     "id": "burgos-iv01-deep-06",
@@ -478,7 +478,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 18 TRLRHL · legitimación para reclamar",
-    "explicación": "El artículo 18 reconoce legitimación a los interesados directos o afectados y a colegios, cámaras, asociaciones y entidades legalmente constituidas en defensa de sus intereses."
+    "explicacion": "El artículo 18 reconoce legitimación a los interesados directos o afectados y a colegios, cámaras, asociaciones y entidades legalmente constituidas en defensa de sus intereses. La legitimación se refiere al trámite de información pública y no convierte a cualquier ciudadano en interesado para todas las vías de recurso. La entidad reclamante debe defender intereses propios y estar legalmente constituida; una discrepancia política por sí sola no sustituye esos requisitos."
   },
   {
     "id": "burgos-iv01-deep-07",
@@ -492,7 +492,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 31 TRLRHL · contribuciones especiales",
-    "explicación": "El artículo 31 fija un máximo del 90 % del coste soportado; no significa que el reparto deba alcanzar siempre exactamente ese porcentaje."
+    "explicacion": "El artículo 31 fija un máximo del 90 % del coste soportado; no significa que el reparto deba alcanzar siempre exactamente ese porcentaje. El porcentaje es un techo de la base que puede repartirse entre los sujetos especialmente beneficiados, no una tarifa automática del 90 %. La entidad puede fijar una proporción menor y debe justificar el reparto conforme al coste soportado y a los módulos de beneficio aplicables."
   },
   {
     "id": "burgos-iv01-deep-08",
@@ -506,7 +506,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículos 20 y 41 TRLRHL · tasas y precios públicos",
-    "explicación": "El precio público es un ingreso de derecho público no tributario; la tasa sí es un tributo y tiene los supuestos de hecho del artículo 20 TRLRHL."
+    "explicacion": "El precio público es un ingreso de derecho público no tributario; la tasa sí es un tributo y tiene los supuestos de hecho del artículo 20 TRLRHL. El precio público puede existir cuando el servicio se solicita voluntariamente y también puede ser prestado por el sector privado en condiciones equivalentes. Si falla alguna de esas condiciones y concurre un supuesto legal del artículo 20, la figura adecuada es la tasa, con naturaleza tributaria."
   },
   {
     "id": "burgos-iv01-deep-09",
@@ -520,7 +520,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 24 TRLRHL · cuota tributaria de las tasas",
-    "explicación": "El artículo 24 TRLRHL conecta la cuantía global de la tasa con el coste real o previsible del servicio o actividad, con sus especialidades legales."
+    "explicacion": "El artículo 24 TRLRHL conecta la cuantía global de la tasa con el coste real o previsible del servicio o actividad, con sus especialidades legales. Ese límite se calcula en conjunto para el servicio o actividad, no exige que cada recibo coincida con su coste individual. En los aprovechamientos del dominio público se aplica la regla distinta del valor de mercado, por lo que no debe trasladarse mecánicamente el criterio de coste de los servicios."
   },
   {
     "id": "burgos-iv01-deep-10",
@@ -534,7 +534,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 14 TRLRHL · revisión de actos tributarios locales",
-    "explicación": "El régimen específico del artículo 14 TRLRHL configura el recurso de reposición como vía previa, sin perjuicio de las reclamaciones económico-administrativas previstas legalmente."
+    "explicacion": "El régimen específico del artículo 14 TRLRHL configura el recurso de reposición como vía previa, sin perjuicio de las reclamaciones económico-administrativas previstas legalmente. El artículo 19 del TRLRHL permite impugnar la ordenanza fiscal directamente ante la jurisdicción contencioso-administrativa. El recurso contra una liquidación o providencia combate un acto concreto y sigue su régimen propio; no debe confundirse con el control directo de la disposición general."
   },
   {
     "id": "burgos-iv01-deep-11",
@@ -548,7 +548,7 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 17.4 TRLRHL · publicación y entrada en vigor",
-    "explicación": "El acuerdo definitivo y el texto íntegro deben publicarse; la ordenanza no entra en vigor antes de esa publicación."
+    "explicacion": "El acuerdo definitivo y el texto íntegro deben publicarse; la ordenanza no entra en vigor antes de esa publicación. La publicidad íntegra permite conocer el contenido normativo y comprobar si se atendieron las reclamaciones presentadas. La aprobación definitiva por sí sola no basta: el artículo 17 condiciona la entrada en vigor a la publicación, además del transcurso de la fecha que la propia ordenanza señale."
   },
   {
     "id": "burgos-iv01-deep-12",
@@ -562,6 +562,6 @@
     ],
     "correcta": 0,
     "referencia": "IV.1 · Artículo 19 TRLRHL · impugnación de ordenanzas fiscales",
-    "explicación": "La impugnación del contenido normativo general se dirige contra la ordenanza; debe separarse de los recursos frente a liquidaciones o recibos concretos."
+    "explicacion": "La impugnación del contenido normativo general se dirige contra la ordenanza; debe separarse de los recursos frente a liquidaciones o recibos concretos. La impugnación directa cuestiona la regla general aplicable a una pluralidad de contribuyentes; el recurso contra una liquidación discute su aplicación a una persona y deuda concretas. La diferencia determina el objeto del proceso y evita usar el recurso individual para pedir la anulación general de la ordenanza."
   }
 ]

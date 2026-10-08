@@ -9,9 +9,9 @@
       "queda fuera de toda competencia municipal"
     ],
     "correcta": 0,
-    "explicación": "El suelo urbano presenta las condiciones propias de urbanización y consolidación.",
     "referencia": "IV.5 · Clasificación del suelo",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El suelo urbano presenta las condiciones propias de urbanización y consolidación. La licencia es un acto reglado: comprueba si el proyecto se ajusta al planeamiento y a las normas aplicables, sin valorar su conveniencia política. Se otorga dejando a salvo la propiedad y los derechos de terceros, por lo que no resuelve controversias civiles ni puede legalizar una actuación incompatible."
   },
   {
     "id": "topup-31-07",
@@ -23,9 +23,9 @@
       "solo admite uso forestal"
     ],
     "correcta": 0,
-    "explicación": "Su transformación exige ordenación y ejecución urbanística.",
     "referencia": "IV.5 · Clasificación del suelo",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "Su transformación exige ordenación y ejecución urbanística. La licencia es un acto reglado: comprueba si el proyecto se ajusta al planeamiento y a las normas aplicables, sin valorar su conveniencia política. Se otorga dejando a salvo la propiedad y los derechos de terceros, por lo que no resuelve controversias civiles ni puede legalizar una actuación incompatible."
   },
   {
     "id": "topup-31-08",
@@ -37,9 +37,9 @@
       "huelga de empleados públicos"
     ],
     "correcta": 0,
-    "explicación": "Su protección responde a valores o a la inadecuación para urbanizar.",
     "referencia": "IV.5 · Clasificación del suelo",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "Su protección responde a valores o a la inadecuación para urbanizar. Los artículos 15 y siguientes de la Ley 5/1999 preservan suelo rústico por valores naturales, culturales, paisajísticos o agrarios y por otros criterios legales. Algunos usos excepcionales requieren autorización previa autonómica y, después, la licencia municipal cuando proceda; una autorización no sustituye a la otra."
   },
   {
     "id": "topup-31-09",
@@ -51,9 +51,9 @@
       "control del Banco de España"
     ],
     "correcta": 0,
-    "explicación": "El Ayuntamiento interviene en planeamiento, gestión y disciplina dentro del marco legal.",
     "referencia": "IV.5 · Competencia urbanística municipal",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El Ayuntamiento interviene en planeamiento, gestión y disciplina dentro del marco legal. La Ley 5/1999 atribuye a los municipios funciones de planeamiento, gestión, intervención y disciplina urbanística, con distribución de competencias y cooperación autonómica. En protección de la legalidad caben inspección, restauración y sanción dentro del término municipal; no corresponde al Ayuntamiento legislar para la Comunidad."
   },
   {
     "id": "topup-31-10",
@@ -65,9 +65,9 @@
       "orden verbal de un técnico privado"
     ],
     "correcta": 0,
-    "explicación": "El control urbanístico admite títulos y técnicas distintas según el acto y la norma.",
     "referencia": "IV.5 · Intervención administrativa",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El control urbanístico admite títulos y técnicas distintas según el acto y la norma. La declaración responsable solo habilita los actos para los que la ley permite esa técnica y desplaza al interesado la responsabilidad de cumplir los requisitos. El Ayuntamiento conserva facultades de comprobación, inspección, restauración y sanción; no se convierte en una licencia universal ni en una legalización tácita."
   },
   {
     "id": "topup-31-11",
@@ -79,9 +79,9 @@
       "legislativo"
     ],
     "correcta": 0,
-    "explicación": "Si el proyecto cumple la legalidad debe concederse; si no, debe denegarse.",
     "referencia": "IV.5 · Licencia urbanística",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "Si el proyecto cumple la legalidad debe concederse; si no, debe denegarse. La licencia es un acto reglado: comprueba si el proyecto se ajusta al planeamiento y a las normas aplicables, sin valorar su conveniencia política. Se otorga dejando a salvo la propiedad y los derechos de terceros, por lo que no resuelve controversias civiles ni puede legalizar una actuación incompatible."
   },
   {
     "id": "topup-31-12",
@@ -93,9 +93,9 @@
       "sin expediente"
     ],
     "correcta": 0,
-    "explicación": "La licencia no resuelve conflictos civiles ni elimina derechos de terceros.",
     "referencia": "IV.5 · Licencia urbanística",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La licencia no resuelve conflictos civiles ni elimina derechos de terceros. La licencia es un acto reglado: comprueba si el proyecto se ajusta al planeamiento y a las normas aplicables, sin valorar su conveniencia política. Se otorga dejando a salvo la propiedad y los derechos de terceros, por lo que no resuelve controversias civiles ni puede legalizar una actuación incompatible."
   },
   {
     "id": "topup-31-13",
@@ -107,9 +107,9 @@
       "de simple mantenimiento"
     ],
     "correcta": 0,
-    "explicación": "La licencia no puede amparar lo que sea incompatible con la legalidad urbanística.",
     "referencia": "IV.5 · Licencia urbanística",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La licencia no puede amparar lo que sea incompatible con la legalidad urbanística. La legalización solo cabe si la actuación puede adecuarse efectivamente al planeamiento y a la normativa aplicable, tras obtener el título exigible. El mero transcurso de tiempo, el pago de una cantidad o la voluntad del alcalde no hacen compatible una obra que infringe el ordenamiento urbanístico."
   },
   {
     "id": "topup-31-14",
@@ -121,9 +121,9 @@
       "aprobación de la Cuenta General"
     ],
     "correcta": 0,
-    "explicación": "La disciplina urbanística exige reacción administrativa frente a actuaciones ilegales.",
     "referencia": "IV.5 · Protección de la legalidad urbanística",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La disciplina urbanística exige reacción administrativa frente a actuaciones ilegales. La legalización solo cabe si la actuación puede adecuarse efectivamente al planeamiento y a la normativa aplicable, tras obtener el título exigible. El mero transcurso de tiempo, el pago de una cantidad o la voluntad del alcalde no hacen compatible una obra que infringe el ordenamiento urbanístico."
   },
   {
     "id": "topup-31-15",
@@ -135,9 +135,9 @@
       "Reclasificar el suelo afectado para adaptarlo a la actuación ya realizada"
     ],
     "correcta": 0,
-    "explicación": "La restauración de la legalidad urbanística se dirige a restablecer el orden infringido, no a regularizar automáticamente la actuación ilegal.",
     "referencia": "Urbanismo · protección de la legalidad",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La restauración de la legalidad urbanística se dirige a restablecer el orden infringido, no a regularizar automáticamente la actuación ilegal. La legalización solo cabe si la actuación puede adecuarse efectivamente al planeamiento y a la normativa aplicable, tras obtener el título exigible. El mero transcurso de tiempo, el pago de una cantidad o la voluntad del alcalde no hacen compatible una obra que infringe el ordenamiento urbanístico."
   },
   {
     "id": "topup-31-16",
@@ -149,9 +149,9 @@
       "el interesado no presenta proyecto alguno"
     ],
     "correcta": 0,
-    "explicación": "Si la obra es compatible, puede abrirse la vía de legalización con el título habilitante correspondiente.",
     "referencia": "IV.5 · Legalización, restauración y sanción",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "Si la obra es compatible, puede abrirse la vía de legalización con el título habilitante correspondiente. La legalización solo cabe si la actuación puede adecuarse efectivamente al planeamiento y a la normativa aplicable, tras obtener el título exigible. El mero transcurso de tiempo, el pago de una cantidad o la voluntad del alcalde no hacen compatible una obra que infringe el ordenamiento urbanístico."
   },
   {
     "id": "topup-31-17",
@@ -163,9 +163,9 @@
       "aprobadas por correo electrónico"
     ],
     "correcta": 0,
-    "explicación": "El urbanismo sancionador también respeta legalidad y tipicidad.",
     "referencia": "IV.5 · Infracciones y sanciones urbanísticas",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El urbanismo sancionador también respeta legalidad y tipicidad. La potestad sancionadora urbanística está sometida a legalidad, tipicidad, responsabilidad y procedimiento: las infracciones y sus responsables se determinan conforme a la ley. La responsabilidad puede alcanzar a quienes promueven, ejecutan o dirigen según su intervención; no se asigna automáticamente solo por el cargo o la propiedad."
   },
   {
     "id": "topup-31-18",
@@ -177,9 +177,9 @@
       "cualquier vecino aleatoriamente"
     ],
     "correcta": 0,
-    "explicación": "La responsabilidad se distribuye según la participación en la infracción.",
     "referencia": "IV.5 · Infracciones y sanciones urbanísticas",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La responsabilidad se distribuye según la participación en la infracción. La potestad sancionadora urbanística está sometida a legalidad, tipicidad, responsabilidad y procedimiento: las infracciones y sus responsables se determinan conforme a la ley. La responsabilidad puede alcanzar a quienes promueven, ejecutan o dirigen según su intervención; no se asigna automáticamente solo por el cargo o la propiedad."
   },
   {
     "id": "topup-31-19",
@@ -191,9 +191,9 @@
       "la restauración sustituye a toda prueba"
     ],
     "correcta": 0,
-    "explicación": "Disciplina y sanción cumplen finalidades distintas.",
     "referencia": "IV.5 · Legalización, restauración y sanción",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "Disciplina y sanción cumplen finalidades distintas. Los artículos 118 y siguientes de la LUCyL separan la restauración del orden urbanístico de la sanción. Si la actuación es compatible puede requerirse el título habilitante; si no es legalizable, procede reponer la realidad física, sin que pagar una multa o una tasa transforme la obra en legal."
   },
   {
     "id": "refine-31-01",
@@ -206,8 +206,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Clasificación y calificación del suelo",
-    "explicación": "La clasificación distingue las grandes clases de suelo; la calificación concreta usos y condiciones pormenorizadas.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La clasificación distingue las grandes clases de suelo; la calificación concreta usos y condiciones pormenorizadas. La licencia es un acto reglado: comprueba si el proyecto se ajusta al planeamiento y a las normas aplicables, sin valorar su conveniencia política. Se otorga dejando a salvo la propiedad y los derechos de terceros, por lo que no resuelve controversias civiles ni puede legalizar una actuación incompatible."
   },
   {
     "id": "refine-31-02",
@@ -220,8 +220,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Clasificación y calificación del suelo",
-    "explicación": "La calificación concreta el destino urbanístico pormenorizado del suelo.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La calificación concreta el destino urbanístico pormenorizado del suelo. La calificación traduce el planeamiento en usos y condiciones pormenorizadas, como edificabilidad, alturas o retranqueos. No identifica al propietario ni decide la clasificación general del terreno: ambas determinaciones se complementan para comprobar si una actuación concreta es urbanísticamente admisible."
   },
   {
     "id": "refine-31-03",
@@ -234,8 +234,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Licencia urbanística",
-    "explicación": "La licencia urbanística controla la adecuación de la actuación pretendida a la normativa aplicable.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La licencia urbanística controla la adecuación de la actuación pretendida a la normativa aplicable. La licencia es un acto reglado: comprueba si el proyecto se ajusta al planeamiento y a las normas aplicables, sin valorar su conveniencia política. Se otorga dejando a salvo la propiedad y los derechos de terceros, por lo que no resuelve controversias civiles ni puede legalizar una actuación incompatible."
   },
   {
     "id": "refine-31-04",
@@ -248,8 +248,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Protección de la legalidad urbanística",
-    "explicación": "La disciplina urbanística combina restauración de la legalidad con, en su caso, potestad sancionadora.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La disciplina urbanística combina restauración de la legalidad con, en su caso, potestad sancionadora. Los artículos 118 y siguientes de la LUCyL separan la restauración del orden urbanístico de la sanción. Si la actuación es compatible puede requerirse el título habilitante; si no es legalizable, procede reponer la realidad física, sin que pagar una multa o una tasa transforme la obra en legal."
   },
   {
     "id": "refine-31-05",
@@ -262,8 +262,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Infracciones y sanciones urbanísticas",
-    "explicación": "La imposición de una sanción no elimina la obligación de reponer la realidad física alterada cuando proceda.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La imposición de una sanción no elimina la obligación de reponer la realidad física alterada cuando proceda. Los artículos 118 y siguientes de la LUCyL separan la restauración del orden urbanístico de la sanción. Si la actuación es compatible puede requerirse el título habilitante; si no es legalizable, procede reponer la realidad física, sin que pagar una multa o una tasa transforme la obra en legal."
   },
   {
     "id": "refine-31-06",
@@ -276,8 +276,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Competencia urbanística municipal",
-    "explicación": "El municipio interviene en planeamiento, gestión, licencias y disciplina en los términos que marque la normativa.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El municipio interviene en planeamiento, gestión, licencias y disciplina en los términos que marque la normativa. La Ley 5/1999 atribuye a los municipios funciones de planeamiento, gestión, intervención y disciplina urbanística, con distribución de competencias y cooperación autonómica. En protección de la legalidad caben inspección, restauración y sanción dentro del término municipal; no corresponde al Ayuntamiento legislar para la Comunidad."
   },
   {
     "id": "refine-31-07",
@@ -290,8 +290,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Clasificación del suelo",
-    "explicación": "La preservación de este suelo responde a valores o finalidades que justifican su protección frente al proceso urbanizador.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La preservación de este suelo responde a valores o finalidades que justifican su protección frente al proceso urbanizador. Los artículos 15 y siguientes de la Ley 5/1999 preservan suelo rústico por valores naturales, culturales, paisajísticos o agrarios y por otros criterios legales. Algunos usos excepcionales requieren autorización previa autonómica y, después, la licencia municipal cuando proceda; una autorización no sustituye a la otra."
   },
   {
     "id": "refine-31-08",
@@ -304,8 +304,8 @@
     ],
     "correcta": 0,
     "referencia": "IV.5 · Protección de la legalidad urbanística",
-    "explicación": "No toda obra clandestina es legalizable: solo la que resulte materialmente compatible con el ordenamiento urbanístico.",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "No toda obra clandestina es legalizable: solo la que resulte materialmente compatible con el ordenamiento urbanístico. La legalización solo cabe si la actuación puede adecuarse efectivamente al planeamiento y a la normativa aplicable, tras obtener el título exigible. El mero transcurso de tiempo, el pago de una cantidad o la voluntad del alcalde no hacen compatible una obra que infringe el ordenamiento urbanístico."
   },
   {
     "id": "burgos-iv05-deep-01",
@@ -317,9 +317,9 @@
       "Consolidado, residencial y agrícola"
     ],
     "correcta": 0,
-    "explicación": "El artículo 10 LUCyL clasifica el territorio en suelo urbano, urbanizable y rústico. Las categorías de consolidado o no consolidado pertenecen al suelo urbano, no son clases generales distintas.",
     "referencia": "IV.5 · Clasificación del suelo",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 10 LUCyL clasifica el territorio en suelo urbano, urbanizable y rústico. Las categorías de consolidado o no consolidado pertenecen al suelo urbano, no son clases generales distintas. La clase urbana puede ser consolidada o no consolidada, y esa subdivisión afecta a deberes y forma de gestión. Un terreno urbano también recibe una calificación —por ejemplo, residencial o dotacional—; por eso clase y uso concreto responden a preguntas distintas del planeamiento."
   },
   {
     "id": "burgos-iv05-deep-02",
@@ -331,9 +331,9 @@
       "No existe diferencia jurídica entre ambas"
     ],
     "correcta": 0,
-    "explicación": "La clasificación distingue urbano, urbanizable y rústico; la calificación pormenoriza usos, intensidades y condiciones como altura, edificabilidad o retranqueos.",
     "referencia": "IV.5 · Clasificación y calificación del suelo",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La clasificación distingue urbano, urbanizable y rústico; la calificación pormenoriza usos, intensidades y condiciones como altura, edificabilidad o retranqueos. Por ejemplo, una parcela puede ser suelo urbano y tener calificación residencial con límites de altura y edificabilidad. La primera determinación define el régimen general de transformación; la segunda concreta qué puede construirse y bajo qué parámetros, siempre conforme al planeamiento vigente."
   },
   {
     "id": "burgos-iv05-deep-03",
@@ -345,9 +345,9 @@
       "No puede autorizarse en ningún supuesto"
     ],
     "correcta": 0,
-    "explicación": "Los usos excepcionales sujetos a autorización requieren valorar el interés público por la Administración autonómica; esa autorización no sustituye a la posterior licencia urbanística municipal.",
     "referencia": "IV.5 · Suelo rústico",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "Los usos excepcionales sujetos a autorización requieren valorar el interés público por la Administración autonómica; esa autorización no sustituye a la posterior licencia urbanística municipal. El orden temporal importa: la autorización autonómica valora la admisibilidad excepcional del uso rústico y la licencia municipal controla el proyecto concreto. Obtener la primera no permite iniciar las obras si falta la segunda u otra autorización sectorial exigible."
   },
   {
     "id": "burgos-iv05-deep-04",
@@ -359,9 +359,9 @@
       "Fijar las valoraciones expropiatorias estatales"
     ],
     "correcta": 0,
-    "explicación": "El artículo 111 LUCyL atribuye al municipio inspección, medidas de protección y restauración y sanción, sin perjuicio de las competencias autonómicas supramunicipales.",
     "referencia": "IV.5 · Competencia urbanística municipal",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 111 LUCyL atribuye al municipio inspección, medidas de protección y restauración y sanción, sin perjuicio de las competencias autonómicas supramunicipales. Estas potestades se ejercen en su término y sin perjuicio de las competencias autonómicas sobre intereses supramunicipales. La protección combina detener la actuación ilegal, reponer el orden alterado y sancionar la infracción; no permite al municipio aprobar leyes ni resolver competencias estatales."
   },
   {
     "id": "burgos-iv05-deep-05",
@@ -373,9 +373,9 @@
       "Legislativo, que modifica el planeamiento aplicable"
     ],
     "correcta": 0,
-    "explicación": "La licencia controla la conformidad de la actuación con el ordenamiento. No resuelve la titularidad civil ni permite apartarse del planeamiento por razones de oportunidad.",
     "referencia": "IV.5 · Licencia urbanística",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La licencia controla la conformidad de la actuación con el ordenamiento. No resuelve la titularidad civil ni permite apartarse del planeamiento por razones de oportunidad. El carácter reglado obliga a otorgar o denegar según el cumplimiento objetivo de la norma, aunque el proyecto sea políticamente deseable o inconveniente. La reserva sobre propiedad y terceros significa además que la licencia urbanística no declara quién es dueño ni resuelve litigios privados."
   },
   {
     "id": "burgos-iv05-deep-06",
@@ -387,9 +387,9 @@
       "Con preferencia sobre cualquier autorización sectorial"
     ],
     "correcta": 0,
-    "explicación": "El artículo 98 LUCyL mantiene la fórmula salvo derecho de propiedad y sin perjuicio de terceros; la licencia no convierte al Ayuntamiento en juez civil.",
     "referencia": "IV.5 · Licencia urbanística",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 98 LUCyL mantiene la fórmula salvo derecho de propiedad y sin perjuicio de terceros; la licencia no convierte al Ayuntamiento en juez civil. La cláusula protege los derechos civiles frente al alcance administrativo de la licencia: esta acredita compatibilidad urbanística, no titularidad ni consentimiento de vecinos. Tampoco desplaza autorizaciones sectoriales que deban obtenerse para ocupar dominio público o afectar bienes protegidos."
   },
   {
     "id": "burgos-iv05-deep-07",
@@ -401,9 +401,9 @@
       "Impide a la Administración comprobar la documentación después"
     ],
     "correcta": 0,
-    "explicación": "La declaración responsable desplaza el control al interesado en los casos previstos, pero la Administración conserva sus potestades de comprobación, protección y sanción.",
     "referencia": "IV.5 · Intervención administrativa",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La declaración responsable desplaza el control al interesado en los casos previstos, pero la Administración conserva sus potestades de comprobación, protección y sanción. La declaración responsable produce efectos solo en los actos que la ley somete a ella y desde su presentación con la documentación requerida. Si faltan condiciones esenciales, la Administración puede ordenar el cese y restablecer la situación anterior, sin que el documento presentado sanee el incumplimiento."
   },
   {
     "id": "burgos-iv05-deep-08",
@@ -415,9 +415,9 @@
       "Un año"
     ],
     "correcta": 0,
-    "explicación": "El artículo 118 LUCyL prevé un requerimiento de tres meses para solicitar la licencia cuando la actuación sea compatible y no esté amparada por título habilitante.",
     "referencia": "IV.5 · Restauración de la legalidad",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 118 LUCyL prevé un requerimiento de tres meses para solicitar la licencia cuando la actuación sea compatible y no esté amparada por título habilitante. Los tres meses del artículo 118 se conceden para presentar la solicitud cuando la obra es compatible y carece de licencia; no son un plazo para obtenerla ni una legalización automática. La obra permanece paralizada mientras no se otorgue el título, y si se deniega procede la restauración."
   },
   {
     "id": "burgos-iv05-deep-09",
@@ -429,9 +429,9 @@
       "Solo puede imponerse una multa, nunca restaurarse"
     ],
     "correcta": 0,
-    "explicación": "La incompatibilidad impide la legalización ordinaria. La restauración repone la realidad y puede coexistir con la sanción por la infracción cometida.",
     "referencia": "IV.5 · Protección de la legalidad",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "La incompatibilidad impide la legalización ordinaria. La restauración repone la realidad y puede coexistir con la sanción por la infracción cometida. La restauración no es una multa: persigue que el terreno y la edificación vuelvan al estado conforme al planeamiento, por ejemplo mediante demolición. La sanción responde a la conducta infractora y puede añadirse; una modificación futura del plan no convierte automáticamente en legal lo ejecutado."
   },
   {
     "id": "burgos-iv05-deep-10",
@@ -443,9 +443,9 @@
       "No prescriben nunca en ningún caso"
     ],
     "correcta": 0,
-    "explicación": "El artículo 121 LUCyL fija diez años para las muy graves, ocho para las graves y cuatro para las leves. La protección sobre dominio público y espacios libres públicos no está sujeta a prescripción.",
     "referencia": "IV.5 · Prescripción",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 121 LUCyL fija diez años para las muy graves, ocho para las graves y cuatro para las leves. La protección sobre dominio público y espacios libres públicos no está sujeta a prescripción. Los plazos sancionadores dependen de la calificación legal de la infracción, y la excepción de dominio público o espacios libres se refiere a la acción de protección y restauración en los términos de la ley. No hay que confundir ambos cómputos ni inferir que toda obra antigua queda legalizada."
   },
   {
     "id": "burgos-iv05-deep-11",
@@ -457,9 +457,9 @@
       "Solo multas de hasta 600 €"
     ],
     "correcta": 0,
-    "explicación": "El artículo 117 LUCyL establece esos tramos económicos, sin perjuicio de la proporcionalidad y de las circunstancias agravantes o atenuantes.",
     "referencia": "IV.5 · Sanciones urbanísticas",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 117 LUCyL establece esos tramos económicos, sin perjuicio de la proporcionalidad y de las circunstancias agravantes o atenuantes. Los límites inferior y superior son tramos por gravedad, no una multa fija de idéntico importe para cualquier caso. La Administración debe clasificar primero la conducta y graduar después la sanción; el pago de esta no sustituye la demolición o reposición que proceda."
   },
   {
     "id": "burgos-iv05-deep-12",
@@ -471,8 +471,8 @@
       "Convierte automáticamente la obra en legal"
     ],
     "correcta": 0,
-    "explicación": "El artículo 122 LUCyL obliga a poner los indicios de delito en conocimiento del Ministerio Fiscal. La sanción penal excluye la administrativa por los mismos hechos, pero la restauración puede mantenerse.",
     "referencia": "IV.5 · Infracciones y delito",
-    "tema": 31
+    "tema": 31,
+    "explicacion": "El artículo 122 LUCyL obliga a poner los indicios de delito en conocimiento del Ministerio Fiscal. La sanción penal excluye la administrativa por los mismos hechos, pero la restauración puede mantenerse. La regla evita duplicar sanciones administrativas y penales por los mismos hechos cuando existe condena, pero no confunde esa sanción con la restauración objetiva del territorio. El Ayuntamiento debe comunicar los indicios de delito y coordinar la tramitación conforme a la ley."
   }
 ]
