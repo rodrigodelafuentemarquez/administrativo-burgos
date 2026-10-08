@@ -10,11 +10,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 41",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Un recibo consistente en una copia autenticada del…». La alternativa «Una copia del documento presentado» no satisface ese criterio; aquí se aplica «Un recibo consistente en una copia autenticada del…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2024-burgos-est-q42",
@@ -27,11 +27,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 42",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Todos los días hábiles». La alternativa «Todos los días naturales» no satisface ese criterio; aquí se aplica «Todos los días hábiles». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2025-burgos-q47",
@@ -45,11 +45,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 47",
-    "explicación": "La expedición de copias selladas de documentos originales aportados por los interesados no figura entre las funciones ordinarias del servicio 010 de atención ciudadana.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La expedición de copias selladas de documentos originales aportados por los interesados no figura entre las funciones ordinarias del servicio 010 de atención ciudadana. El Servicio 010 informa y canaliza avisos, quejas y sugerencias; la acreditación formal de una presentación corresponde al registro y su recibo. La alternativa «Dar información municipal y de la ciudad de…» no satisface ese criterio; aquí se aplica «Expedición de copias selladas de los documentos originales…»."
   },
   {
     "id": "pdf-2025-burgos-q49-reg",
@@ -63,11 +63,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 49",
-    "explicación": "La presentación en día inhábil se entiende realizada en la primera hora hábil del primer día hábil siguiente, salvo norma especial.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La Ley 39/2015 permite el registro electrónico permanente, pero a efectos de plazo el escrito en día inhábil se imputa a la primera hora del siguiente hábil. La alternativa «A la primera hora del primer día hábil…» no satisface ese criterio; aquí se aplica «A la primera hora hábil del primer día…»."
   },
   {
     "id": "pdf-2025-burgos-q58",
@@ -81,11 +81,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 58",
-    "explicación": "La solicitud es el documento tipico del particular dirigido a la Administración.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La solicitud es el documento tipico del particular dirigido a la Administración. La alternativa «Informe» no satisface ese criterio; aquí se aplica «Solicitud». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2025-burgos-q48",
@@ -99,11 +99,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 48",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2025 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «15 días». La Ley 39/2015 distingue una copia simple de la copia auténtica, expedida con garantías de identidad e integridad y con la eficacia legal correspondiente. La alternativa «10 días» no satisface ese criterio; aquí se aplica «15 días»."
   },
   {
     "id": "pdf-2023-burgos-q47",
@@ -117,11 +117,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 47",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Expedición de copias selladas de los documentos originales…». El Servicio 010 informa y canaliza avisos, quejas y sugerencias; la acreditación formal de una presentación corresponde al registro y su recibo. La alternativa «Dar información municipal y de la ciudad de…» no satisface ese criterio; aquí se aplica «Expedición de copias selladas de los documentos originales…»."
   },
   {
     "id": "t31-p001",
@@ -134,8 +134,8 @@
       "La relación de puestos de trabajo y las nóminas del personal"
     ],
     "correcta": 0,
-    "explicación": "La función básica del registro es dejar constancia de la entrada y salida de documentos y escritos administrativos.",
-    "referencia": "Ley 39/2015 · art. 16"
+    "referencia": "Ley 39/2015 · art. 16",
+    "explicacion": "La función básica del registro es dejar constancia de la entrada y salida de documentos y escritos administrativos. La alternativa «La aprobación de las ordenanzas y reglamentos municipales» no satisface ese criterio; aquí se aplica «La entrada y salida de solicitudes escritos comunicaciones…»."
   },
   {
     "id": "t31-p002",
@@ -148,8 +148,8 @@
       "Libretas de direcciones"
     ],
     "correcta": 0,
-    "explicación": "El artículo 16.2 de la Ley 39/2015 permite que los registros generales dispongan de oficinas de asistencia y, cuando proceda, de registros auxiliares coordinados con el general; no impone que toda entidad deba tenerlos.",
-    "referencia": "V.4 · 1.2 El Registro General y los Registros Auxiliares"
+    "referencia": "V.4 · 1.2 El Registro General y los Registros Auxiliares",
+    "explicacion": "El artículo 16.2 de la Ley 39/2015 permite que los registros generales dispongan de oficinas de asistencia y, cuando proceda, de registros auxiliares coordinados con el general; no impone que toda entidad deba tenerlos. La alternativa «Comisiones Informativas» no satisface ese criterio; aquí se aplica «Registros Auxiliares»."
   },
   {
     "id": "t31-p003",
@@ -162,8 +162,8 @@
       "la contratación de personal"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge la función de distribución.",
-    "referencia": "V.4 · 1.3 Funciones del Registro"
+    "referencia": "V.4 · 1.3 Funciones del Registro",
+    "explicacion": "La respuesta correcta es «la distribución de los documentos recibidos hacia las…». La alternativa «la aprobación de presupuestos» no satisface ese criterio; aquí se aplica «la distribución de los documentos recibidos hacia las…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p004",
@@ -176,8 +176,8 @@
       "solo por la mañana"
     ],
     "correcta": 0,
-    "explicación": "El tema señala disponibilidad permanente.",
-    "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico"
+    "referencia": "V.4 · 2.2 Funcionamiento del registro electrónico",
+    "explicacion": "La respuesta correcta es «las 24 horas del día los 365 días…». La alternativa «únicamente en días hábiles» no satisface ese criterio; aquí se aplica «las 24 horas del día los 365 días…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p005",
@@ -190,8 +190,8 @@
       "el día que indique el interesado"
     ],
     "correcta": 0,
-    "explicación": "La regla general del artículo 31.2.c de la Ley 39/2015 es la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil con otros efectos.",
-    "referencia": "Ley 39/2015 · art. 31.2.c"
+    "referencia": "Ley 39/2015 · art. 31.2.c",
+    "explicacion": "La regla general del artículo 31.2.c de la Ley 39/2015 es la primera hora del primer día hábil siguiente, salvo que una norma permita expresamente la recepción en día inhábil con otros efectos. La Ley 39/2015 permite el registro electrónico permanente, pero a efectos de plazo el escrito en día inhábil se imputa a la primera hora del siguiente hábil. La alternativa «al siguiente mes» no satisface ese criterio; aquí se aplica «a la primera hora del primer día hábil…»."
   },
   {
     "id": "t31-p006",
@@ -204,8 +204,8 @@
       "una oficina de correos digital"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como dirección electrónica de la Administración.",
-    "referencia": "V.4 · 2.3 La Sede Electrónica"
+    "referencia": "V.4 · 2.3 La Sede Electrónica",
+    "explicacion": "La respuesta correcta es «la dirección electrónica de titularidad de una Administración…». La alternativa «una oficina de correos digital» no satisface ese criterio; aquí se aplica «la dirección electrónica de titularidad de una Administración…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p007",
@@ -218,8 +218,8 @@
       "solo la ventanilla del secretario"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye el registro electrónico del órgano destinatario.",
-    "referencia": "V.4 · 3.1 Lugares de presentación (art. 16.4 LPACAP)"
+    "referencia": "V.4 · 3.1 Lugares de presentación (art. 16.4 LPACAP)",
+    "explicacion": "La respuesta correcta es «el Registro Electrónico de la Administración a la…». La alternativa «solo el correo certificado» no satisface ese criterio; aquí se aplica «el Registro Electrónico de la Administración a la…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p008",
@@ -232,8 +232,8 @@
       "entidades deportivas sin ánimo de lucro en todo caso"
     ],
     "correcta": 0,
-    "explicación": "El tema lo impone a las personas jurídicas.",
-    "referencia": "V.4 · 3.2 Obligación de relacionarse electrónicamente con la Administración"
+    "referencia": "V.4 · 3.2 Obligación de relacionarse electrónicamente con la Administración",
+    "explicacion": "La respuesta correcta es «personas jurídicas». La alternativa «personas físicas en todo caso» no satisface ese criterio; aquí se aplica «personas jurídicas». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p009",
@@ -246,8 +246,8 @@
       "la firma del alcalde"
     ],
     "correcta": 0,
-    "explicación": "El tema exige esos tres elementos de contenido.",
-    "referencia": "V.4 · 3.3 Requisitos formales de los escritos y solicitudes"
+    "referencia": "V.4 · 3.3 Requisitos formales de los escritos y solicitudes",
+    "explicacion": "La respuesta correcta es «hechos, razones y petición». La alternativa «solo el título del expediente» no satisface ese criterio; aquí se aplica «hechos, razones y petición». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p010",
@@ -260,8 +260,8 @@
       "nunca"
     ],
     "correcta": 0,
-    "explicación": "El tema reserva la posibilidad a quienes no estén obligados electrónicamente.",
-    "referencia": "V.4 · 3.5 Presentación de documentos por personas físicas en soporte papel"
+    "referencia": "V.4 · 3.5 Presentación de documentos por personas físicas en soporte papel",
+    "explicacion": "La respuesta correcta es «cuando no estén obligadas a relacionarse electrónicamente». La alternativa «solo en procedimientos sancionadores» no satisface ese criterio; aquí se aplica «cuando no estén obligadas a relacionarse electrónicamente». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t31-p015",
@@ -274,8 +274,8 @@
       "el portal de transparencia"
     ],
     "correcta": 0,
-    "explicación": "El artículo 16.4 permite presentar documentos en registros electrónicos de cualquier Administración, además de en los restantes lugares legalmente previstos, aunque el escrito se dirija a otra Administración.",
-    "referencia": "V.4 · 6. El principio de ventanilla única"
+    "referencia": "V.4 · 6. El principio de ventanilla única",
+    "explicacion": "El artículo 16.4 permite presentar documentos en registros electrónicos de cualquier Administración, además de en los restantes lugares legalmente previstos, aunque el escrito se dirija a otra Administración. La alternativa «solo la sede de la Administración destinataria» no satisface ese criterio; aquí se aplica «el registro de cualquier Administración Pública aunque vayan…»."
   },
   {
     "id": "topup-35-02",
@@ -287,9 +287,9 @@
       "sustitución del interesado por el alcalde"
     ],
     "correcta": 0,
-    "explicación": "La ley permite asistencia mediante funcionario habilitado con consentimiento.",
     "referencia": "V.4 · Asistencia electrónica",
-    "tema": 35
+    "tema": 35,
+    "explicacion": "La ley permite asistencia mediante funcionario habilitado con consentimiento. La alternativa «simple entrega del expediente a un tercero» no satisface ese criterio; aquí se aplica «funcionario habilitado en los supuestos legales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "topup-35-05",
@@ -301,9 +301,9 @@
       "leer un bando ya publicado"
     ],
     "correcta": 0,
-    "explicación": "No toda actuación admite la misma flexibilidad en materia de representación.",
     "referencia": "V.4 · Representación y apoderamientos",
-    "tema": 35
+    "tema": 35,
+    "explicacion": "No toda actuación admite la misma flexibilidad en materia de representación. La representación debe acreditarse en los actos que lo requieren; su falta suele ser subsanable y no justifica rechazar sin más la presentación registral. La alternativa «pedir información general anonima» no satisface ese criterio; aquí se aplica «interponer un recurso o renunciar a derechos en…»."
   },
   {
     "id": "refine-35-01",
@@ -316,8 +316,8 @@
     ],
     "correcta": 0,
     "referencia": "V.4 · Funciones de las oficinas de asistencia",
-    "explicación": "Su papel incluye asistencia a la ciudadania para relacionarse con la Administración, especialmente por medios electrónicos.",
-    "tema": 35
+    "tema": 35,
+    "explicacion": "Su papel incluye asistencia a la ciudadania para relacionarse con la Administración, especialmente por medios electrónicos. La alternativa «resolver recursos contencioso-administrativos» no satisface ese criterio; aquí se aplica «asistir en el uso de medios electrónicos y…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "refine-35-02",
@@ -330,8 +330,8 @@
     ],
     "correcta": 0,
     "referencia": "V.4 · Asistencia a la ciudadania",
-    "explicación": "La oficina está precisamente para facilitar la relación electrónica a quien no dispone de medios o conocimientos suficientes.",
-    "tema": 35
+    "tema": 35,
+    "explicacion": "La oficina está precisamente para facilitar la relación electrónica a quien no dispone de medios o conocimientos suficientes. La alternativa «rechazar sin más la presentación» no satisface ese criterio; aquí se aplica «prestar ayuda para presentar electronicamente la solicitud o…»."
   },
   {
     "id": "refine-35-03",
@@ -344,8 +344,8 @@
     ],
     "correcta": 0,
     "referencia": "V.4 · Funcionamiento registral",
-    "explicación": "Fecha y hora son datos nucleares para acreditar la presentación y sus efectos procedimentales.",
-    "tema": 35
+    "tema": 35,
+    "explicacion": "Fecha y hora son datos nucleares para acreditar la presentación y sus efectos procedimentales. La alternativa «clasificación presupuestaria del gasto» no satisface ese criterio; aquí se aplica «plazos, prelación y acreditación de la presentación». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "refine-35-04",
@@ -358,8 +358,8 @@
     ],
     "correcta": 0,
     "referencia": "V.4 · Copias y digitalización",
-    "explicación": "La copia autentica incorpora un plus de garantía jurídica sobre su correspondencia con el original.",
-    "tema": 35
+    "tema": 35,
+    "explicacion": "La copia autentica incorpora un plus de garantía jurídica sobre su correspondencia con el original. La Ley 39/2015 distingue una copia simple de la copia auténtica, expedida con garantías de identidad e integridad y con la eficacia legal correspondiente. La alternativa «siempre sustituye al original a todos los efectos…» no satisface ese criterio; aquí se aplica «acredita la identidad y fidelidad respecto del original…»."
   },
   {
     "id": "estado2026-extra-t35-01",
@@ -372,11 +372,11 @@
       "Eliminar la necesidad de recibos de presentación"
     ],
     "correcta": 0,
-    "explicación": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables.",
     "referencia": "Examen Estado 2026, registros; Tema V.4, oficinas de asistencia en materia de registros",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Los registros electrónicos permiten constancia de entrada y salida de documentos y deben ser interoperables. La alternativa «Registrar únicamente documentos internos sin efectos para ciudadanos» no satisface ese criterio; aquí se aplica «Anotar documentos presentados o recibidos y facilitar la…»."
   },
   {
     "tema": 35,
@@ -390,10 +390,10 @@
     ],
     "correcta": 0,
     "referencia": "JCyL Cuerpo Administrativo 2023/24/25 · ejercicio 30/05/2026 · pregunta 64",
-    "explicación": "La plantilla oficial de respuestas de la Junta de Castilla y León señala esta opción como correcta.",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Presentar un formato determinado que sea susceptible de…». La alternativa «Disponer de datos de identificación que impidan en…» no satisface ese criterio; aquí se aplica «Presentar un formato determinado que sea susceptible de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "burgos-v04-deep-01",
@@ -406,8 +406,8 @@
       "Enviar al interesado a la sede de la Junta sin practicar asiento."
     ],
     "correcta": 0,
-    "explicación": "Las OAMR permiten presentar documentos dirigidos a cualquier Administración. Registran, justifican y remiten; la resolución corresponde al órgano competente.",
-    "referencia": "Ley 39/2015 · arts. 12 y 16.4"
+    "referencia": "Ley 39/2015 · arts. 12 y 16.4",
+    "explicacion": "Las OAMR permiten presentar documentos dirigidos a cualquier Administración. Registran, justifican y remiten; la resolución corresponde al órgano competente. La alternativa «Enviar al interesado a la sede de la…» no satisface ese criterio; aquí se aplica «Registrar entregar recibo y remitirlo por el sistema…»."
   },
   {
     "id": "burgos-v04-deep-02",
@@ -420,8 +420,8 @@
       "No existe diferencia: ambos conceptos designan exactamente el mismo órgano."
     ],
     "correcta": 0,
-    "explicación": "La sede electrónica es la dirección o punto de acceso a servicios electrónicos. La OAMR es una unidad administrativa que registra y presta asistencia, entre otras funciones.",
-    "referencia": "Ley 39/2015 · arts. 12 y 38; RD 203/2021"
+    "referencia": "Ley 39/2015 · arts. 12 y 38; RD 203/2021",
+    "explicacion": "La sede electrónica es la dirección o punto de acceso a servicios electrónicos. La OAMR es una unidad administrativa que registra y presta asistencia, entre otras funciones. La alternativa «La sede es un registro auxiliar en papel…» no satisface ese criterio; aquí se aplica «La sede es un punto electrónico de acceso…»."
   },
   {
     "id": "burgos-v04-deep-03",
@@ -434,8 +434,8 @@
       "La renuncia del interesado a conocer el contenido del documento."
     ],
     "correcta": 0,
-    "explicación": "La asistencia del funcionario habilitado no es una representación libre: requiere consentimiento expreso y debe quedar constancia en los términos legales.",
-    "referencia": "Ley 39/2015 · art. 12"
+    "referencia": "Ley 39/2015 · art. 12",
+    "explicacion": "La asistencia del funcionario habilitado no es una representación libre: requiere consentimiento expreso y debe quedar constancia en los términos legales. La alternativa «Una autorización verbal del acompañante aunque el interesado…» no satisface ese criterio; aquí se aplica «Consentimiento expreso de la persona y constancia de…»."
   },
   {
     "id": "burgos-v04-deep-04",
@@ -448,8 +448,8 @@
       "No, porque las copias auténticas solo pueden ser digitales."
     ],
     "correcta": 0,
-    "explicación": "La recepción de una fotocopia no la convierte automáticamente en copia auténtica. Esta requiere acreditar su autenticidad y fidelidad conforme a la Ley 39/2015.",
-    "referencia": "Ley 39/2015 · art. 27"
+    "referencia": "Ley 39/2015 · art. 27",
+    "explicacion": "La recepción de una fotocopia no la convierte automáticamente en copia auténtica. Esta requiere acreditar su autenticidad y fidelidad conforme a la Ley 39/2015. La Ley 39/2015 distingue una copia simple de la copia auténtica, expedida con garantías de identidad e integridad y con la eficacia legal correspondiente. La alternativa «No porque las copias auténticas solo pueden ser…» no satisface ese criterio; aquí se aplica «No la copia auténtica exige las garantías y…»."
   },
   {
     "id": "burgos-v04-deep-05",
@@ -462,8 +462,8 @@
       "Solo cuando la unidad gestora la abra."
     ],
     "correcta": 0,
-    "explicación": "La disponibilidad permanente del registro electrónico no transforma los días inhábiles en hábiles. La regla del artículo 31.2.c es la primera hora del primer día hábil siguiente.",
-    "referencia": "Ley 39/2015 · art. 31.2.c"
+    "referencia": "Ley 39/2015 · art. 31.2.c",
+    "explicacion": "La disponibilidad permanente del registro electrónico no transforma los días inhábiles en hábiles. La regla del artículo 31.2.c es la primera hora del primer día hábil siguiente. La Ley 39/2015 permite el registro electrónico permanente, pero a efectos de plazo el escrito en día inhábil se imputa a la primera hora del siguiente hábil. La alternativa «A las 23 30 del domingo como si…» no satisface ese criterio; aquí se aplica «A la primera hora del primer día hábil…»."
   },
   {
     "id": "burgos-v04-deep-06",
@@ -476,8 +476,8 @@
       "Resolver desestimando el fondo en la propia oficina."
     ],
     "correcta": 0,
-    "explicación": "La falta de acreditación de la representación es un defecto subsanable en los supuestos legales. No justifica negar sin más la constancia de la presentación.",
-    "referencia": "Ley 39/2015 · arts. 5 y 68"
+    "referencia": "Ley 39/2015 · arts. 5 y 68",
+    "explicacion": "La falta de acreditación de la representación es un defecto subsanable en los supuestos legales. No justifica negar sin más la constancia de la presentación. La representación debe acreditarse en los actos que lo requieren; su falta suele ser subsanable y no justifica rechazar sin más la presentación registral. La alternativa «Destruir el escrito por no poder abrir expediente» no satisface ese criterio; aquí se aplica «Registrar la solicitud y permitir que la unidad…»."
   },
   {
     "id": "burgos-v04-deep-07",
@@ -490,8 +490,8 @@
       "La clasificación presupuestaria de la solicitud."
     ],
     "correcta": 0,
-    "explicación": "El asiento y el recibo deben permitir probar qué se presentó y cuándo. La OAMR no tiene que anticipar el sentido de la resolución.",
-    "referencia": "Ley 39/2015 · art. 16"
+    "referencia": "Ley 39/2015 · art. 16",
+    "explicacion": "El asiento y el recibo deben permitir probar qué se presentó y cuándo. La OAMR no tiene que anticipar el sentido de la resolución. La alternativa «La opinión del funcionario sobre la probabilidad de…» no satisface ese criterio; aquí se aplica «La fecha y hora de presentación junto con…»."
   },
   {
     "id": "burgos-v04-deep-08",
@@ -504,8 +504,8 @@
       "Practicar todos los asientos del Registro Electrónico General sin identificación."
     ],
     "correcta": 0,
-    "explicación": "El 010 presta información y canaliza avisos, quejas y sugerencias. La presentación con validez administrativa debe utilizar el registro o el canal formal correspondiente.",
-    "referencia": "Ayuntamiento de Burgos · Servicio de Atención Ciudadana 010"
+    "referencia": "Ayuntamiento de Burgos · Servicio de Atención Ciudadana 010",
+    "explicacion": "El 010 presta información y canaliza avisos, quejas y sugerencias. La presentación con validez administrativa debe utilizar el registro o el canal formal correspondiente. El Servicio 010 informa y canaliza avisos, quejas y sugerencias; la acreditación formal de una presentación corresponde al registro y su recibo. La alternativa «Expedir siempre copias auténticas de cualquier original que…» no satisface ese criterio; aquí se aplica «Informar y canalizar solicitudes avisos quejas y sugerencias…»."
   },
   {
     "id": "burgos-v04-deep-09",
@@ -518,8 +518,8 @@
       "Modificar el contenido para adaptarlo al modelo normalizado."
     ],
     "correcta": 0,
-    "explicación": "La digitalización debe ser fiel y preservar autenticidad, integridad y legibilidad. El asiento no sustituye al contenido de los documentos aportados.",
-    "referencia": "Ley 39/2015 · arts. 16 y 27; RD 203/2021"
+    "referencia": "Ley 39/2015 · arts. 16 y 27; RD 203/2021",
+    "explicacion": "La digitalización debe ser fiel y preservar autenticidad, integridad y legibilidad. El asiento no sustituye al contenido de los documentos aportados. La alternativa «Eliminar los anexos porque el asiento ya prueba…» no satisface ese criterio; aquí se aplica «Comprobar integridad legibilidad firmas reversos y anexos antes…»."
   },
   {
     "id": "burgos-v04-deep-10",
@@ -532,7 +532,7 @@
       "Remitir el escrito a la unidad competente."
     ],
     "correcta": 0,
-    "explicación": "La OAMR formaliza y canaliza la presentación. La resolución de una licencia corresponde al órgano municipal competente y a la unidad que tramite el expediente.",
-    "referencia": "V.4 · Organización, funcionamiento y funciones"
+    "referencia": "V.4 · Organización, funcionamiento y funciones",
+    "explicacion": "La OAMR formaliza y canaliza la presentación. La resolución de una licencia corresponde al órgano municipal competente y a la unidad que tramite el expediente. La alternativa «Emitir un recibo de presentación» no satisface ese criterio; aquí se aplica «Resolver si procede conceder una licencia municipal solicitada»."
   }
 ]

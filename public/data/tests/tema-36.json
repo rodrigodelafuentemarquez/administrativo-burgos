@@ -10,11 +10,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 30",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «La posibilidad de que un trabajador sufra un…». La alternativa «Cualquier máquina aparato instrumento o instalación utilizada en…» no satisface ese criterio; aquí se aplica «La posibilidad de que un trabajador sufra un…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2024-burgos-est-q31",
@@ -27,11 +27,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 31",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "El artículo 4 de la Ley 31/1995 valora conjuntamente la probabilidad de que se produzca el daño y su severidad. La alternativa «Las características del centro de trabajo y las…» no satisface ese criterio; aquí se aplica «La probabilidad de que se produzca el daño…»."
   },
   {
     "id": "pdf-2023-burgos-q41",
@@ -45,11 +45,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 41",
-    "explicación": "La Ley de Prevención de Riesgos Laborales define esos supuestos como daños derivados del trabajo.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La Ley de Prevención de Riesgos Laborales define esos supuestos como daños derivados del trabajo. La alternativa «Condiciones de trabajo sin relevancia preventiva» no satisface ese criterio; aquí se aplica «Danos derivados del trabajo». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2025-burgos-q54",
@@ -63,11 +63,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2025 · pregunta 54",
-    "explicación": "La ley tiene un ámbito amplio de aplicación, pero contempla exclusiones expresas.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La ley tiene un ámbito amplio de aplicación, pero contempla exclusiones expresas. La alternativa «Es de aplicación en todos los ámbitos sin…» no satisface ese criterio; aquí se aplica «Aunque pretende ser una ley aplicable a todos…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2025-burgos-q55",
@@ -81,11 +81,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2025 · pregunta 55",
-    "explicación": "La definición legal pone el acento en la probabilidad racional de materialización inmediata y en el daño grave para la salud.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud. La alternativa «Aquel que origine riesgos para la salud y…» no satisface ese criterio; aquí se aplica «Aquel que resulte probable racionalmente que se materialice…»."
   },
   {
     "id": "pdf-2025-burgos-q56",
@@ -99,11 +99,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2025 · pregunta 56",
-    "explicación": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse. El artículo 4 de la Ley 31/1995 valora conjuntamente la probabilidad de que se produzca el daño y su severidad. La alternativa «La cantidad de trabajadores de la empresa» no satisface ese criterio; aquí se aplica «La probabilidad de que se produzca»."
   },
   {
     "id": "t23-p001",
@@ -116,8 +116,8 @@
       "art. 105 CE y la LJCA"
     ],
     "correcta": 0,
-    "explicación": "El tema señala ese fundamento constitucional y comunitario.",
-    "referencia": "V.5 · 1.1 Fundamento constitucional y comunitario"
+    "referencia": "V.5 · 1.1 Fundamento constitucional y comunitario",
+    "explicacion": "La respuesta correcta es «art 40 2 CE y la Directiva 89…». La alternativa «art. 14 CE y la LO 3/2007» no satisface ese criterio; aquí se aplica «art 40 2 CE y la Directiva 89…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p002",
@@ -130,8 +130,8 @@
       "aprobar el presupuesto local"
     ],
     "correcta": 0,
-    "explicación": "El tema lo fórmula así en su art. 2.",
-    "referencia": "V.5 · 1.2 Objeto (art. 2 LPRL)"
+    "referencia": "V.5 · 1.2 Objeto (art. 2 LPRL)",
+    "explicacion": "La respuesta correcta es «promover la seguridad y la salud de los…». La alternativa «organizar los tribunales administrativos» no satisface ese criterio; aquí se aplica «promover la seguridad y la salud de los…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p003",
@@ -144,8 +144,8 @@
       "únicamente a los menores de edad"
     ],
     "correcta": 0,
-    "explicación": "El tema vincula la ley al trabajo prestado para empleadores públicos o privados.",
-    "referencia": "V.5 · 2.1 Ámbito subjetivo (art. 3 LPRL)"
+    "referencia": "V.5 · 2.1 Ámbito subjetivo (art. 3 LPRL)",
+    "explicacion": "La respuesta correcta es «los trabajadores al servicio de empleadores públicos y…». La alternativa «solo a los trabajadores autónomos» no satisface ese criterio; aquí se aplica «los trabajadores al servicio de empleadores públicos y…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p004",
@@ -158,8 +158,8 @@
       "La denominación formal del puesto en la relación de puestos de trabajo"
     ],
     "correcta": 0,
-    "explicación": "La LPRL define condición de trabajo de forma amplia, atendiendo a cualquier carácterística que pueda influir en los riesgos laborales.",
-    "referencia": "Ley 31/1995 · art. 4"
+    "referencia": "Ley 31/1995 · art. 4",
+    "explicacion": "La LPRL define condición de trabajo de forma amplia, atendiendo a cualquier carácterística que pueda influir en los riesgos laborales. La alternativa «Solo la antigüedad o experiencia profesional del trabajador» no satisface ese criterio; aquí se aplica «Cualquier carácterística del trabajo que pueda influir significativamente…»."
   },
   {
     "id": "t23-p005",
@@ -172,8 +172,8 @@
       "el órgano competente para contratar obras"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como el organismo científico técnico especializado.",
-    "referencia": "V.5 · 4.2 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)"
+    "referencia": "V.5 · 4.2 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)",
+    "explicacion": "La respuesta correcta es «el organismo científico técnico especializado en prevención de…». La alternativa «la mesa de negociación colectiva» no satisface ese criterio; aquí se aplica «el organismo científico técnico especializado en prevención de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p006",
@@ -186,8 +186,8 @@
       "la aprobación de las plantillas"
     ],
     "correcta": 0,
-    "explicación": "El tema lo recoge en el art. 14 LPRL.",
-    "referencia": "V.5 · 5.1 Derecho a la protección frente a los riesgos laborales (art. 14 LPRL)"
+    "referencia": "V.5 · 5.1 Derecho a la protección frente a los riesgos laborales (art. 14 LPRL)",
+    "explicacion": "La respuesta correcta es «una protección eficaz frente a los riesgos laborales». La alternativa «la concesión de subvenciones» no satisface ese criterio; aquí se aplica «una protección eficaz frente a los riesgos laborales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p007",
@@ -200,8 +200,8 @@
       "priorizar el riesgo sobre la protección"
     ],
     "correcta": 0,
-    "explicación": "El tema lo enumera expresamente en el art. 15 LPRL.",
-    "referencia": "V.5 · 6. Principios de la acción preventiva (art. 15 LPRL)"
+    "referencia": "V.5 · 6. Principios de la acción preventiva (art. 15 LPRL)",
+    "explicacion": "La respuesta correcta es «adaptar el trabajo a la persona». La alternativa «dejar la prevención al azar» no satisface ese criterio; aquí se aplica «adaptar el trabajo a la persona». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p008",
@@ -214,8 +214,8 @@
       "art. 63 LCSP"
     ],
     "correcta": 0,
-    "explicación": "El tema las sitúa en el art. 16 LPRL.",
-    "referencia": "V.5 · 7.1 Evaluación de riesgos (art. 16 LPRL)"
+    "referencia": "V.5 · 7.1 Evaluación de riesgos (art. 16 LPRL)",
+    "explicacion": "La respuesta correcta es «art. 16 LPRL». El artículo 16.2.b de la Ley 31/1995 obliga a planificar la actividad preventiva cuando la evaluación revela riesgos, fijando medidas, responsables, recursos y plazos. La alternativa «art. 5 CE» no satisface ese criterio; aquí se aplica «art. 16 LPRL»."
   },
   {
     "id": "t23-p009",
@@ -228,8 +228,8 @@
       "arts. 48 y 49 TREBEP"
     ],
     "correcta": 0,
-    "explicación": "El tema atribuye esas materias a los arts. 18 y 19 LPRL.",
-    "referencia": "V.5 · 7.3 Información a los trabajadores (art. 18 LPRL) / 7.4 Formación de los trabajadores (art. 19 LPRL)"
+    "referencia": "V.5 · 7.3 Información a los trabajadores (art. 18 LPRL) / 7.4 Formación de los trabajadores (art. 19 LPRL)",
+    "explicacion": "La respuesta correcta es «arts. 18 y 19 LPRL». La alternativa «arts. 6 y 7 CE» no satisface ese criterio; aquí se aplica «arts. 18 y 19 LPRL». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p010",
@@ -242,8 +242,8 @@
       "art. 162 TRLRHL"
     ],
     "correcta": 0,
-    "explicación": "El tema la vincula al art. 22 LPRL.",
-    "referencia": "V.5 · 7.5 Vigilancia de la salud (art. 22 LPRL)"
+    "referencia": "V.5 · 7.5 Vigilancia de la salud (art. 22 LPRL)",
+    "explicacion": "La respuesta correcta es «art. 22 LPRL». El artículo 22 parte del consentimiento y admite excepciones tasadas; la vigilancia debe preservar la intimidad y la confidencialidad clínica. La alternativa «art. 105 CE» no satisface ese criterio; aquí se aplica «art. 22 LPRL»."
   },
   {
     "id": "t23-p011",
@@ -256,8 +256,8 @@
       "convertirse en órgano de selección"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge ese derecho en el art. 21 LPRL.",
-    "referencia": "V.5 · 7.7 Riesgo grave e inminente (art. 21 LPRL)"
+    "referencia": "V.5 · 7.7 Riesgo grave e inminente (art. 21 LPRL)",
+    "explicacion": "La respuesta correcta es «interrumpir su actividad y abandonar el lugar de…». La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud. La alternativa «solicitar un cambio de presupuesto» no satisface ese criterio; aquí se aplica «interrumpir su actividad y abandonar el lugar de…»."
   },
   {
     "id": "t23-p012",
@@ -270,8 +270,8 @@
       "redactar el presupuesto"
     ],
     "correcta": 0,
-    "explicación": "El tema lo contempla en el art. 29 LPRL.",
-    "referencia": "V.5 · 8.1 Usar adecuadamente máquinas, herramientas y EPIs (art. 29.2.1º LPRL)"
+    "referencia": "V.5 · 8.1 Usar adecuadamente máquinas, herramientas y EPIs (art. 29.2.1º LPRL)",
+    "explicacion": "La respuesta correcta es «usar adecuadamente máquinas herramientas y equipos de protección…». La alternativa «aprobar el plan de prevención» no satisface ese criterio; aquí se aplica «usar adecuadamente máquinas herramientas y equipos de protección…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t23-p013",
@@ -284,8 +284,8 @@
       "los secretarios generales"
     ],
     "correcta": 0,
-    "explicación": "El tema los define como representantes de los trabajadores en prevención.",
-    "referencia": "V.5 · 9.1 Delegados de Prevención (arts. 35-36 LPRL)"
+    "referencia": "V.5 · 9.1 Delegados de Prevención (arts. 35-36 LPRL)",
+    "explicacion": "La respuesta correcta es «los representantes de los trabajadores con funciones específicas…». La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores. La alternativa «los interventores de fondos» no satisface ese criterio; aquí se aplica «los representantes de los trabajadores con funciones específicas…»."
   },
   {
     "id": "t23-p014",
@@ -298,8 +298,8 @@
       "una comisión de cuentas"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta así en el art. 38 LPRL.",
-    "referencia": "V.5 · 9.2 Comité de Seguridad y Salud (art. 38 LPRL)"
+    "referencia": "V.5 · 9.2 Comité de Seguridad y Salud (art. 38 LPRL)",
+    "explicacion": "La respuesta correcta es «un órgano paritario y colegiado de participación en…». La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores. La alternativa «un órgano de contratación local» no satisface ese criterio; aquí se aplica «un órgano paritario y colegiado de participación en…»."
   },
   {
     "id": "t23-p015",
@@ -312,8 +312,8 @@
       "realizar inspecciones judiciales"
     ],
     "correcta": 0,
-    "explicación": "El tema los regula en los arts. 31 y 32 LPRL con esa función.",
-    "referencia": "V.5 · 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)"
+    "referencia": "V.5 · 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)",
+    "explicacion": "La respuesta correcta es «asesorar y asistir a la empresa y a…». La alternativa «tramitar reclamaciones tributarias» no satisface ese criterio; aquí se aplica «asesorar y asistir a la empresa y a…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "topup-36-01",
@@ -325,9 +325,9 @@
       "reservados a la policía judicial"
     ],
     "correcta": 0,
-    "explicación": "El trabajo administrativo también presenta riesgos propios que requieren prevención.",
     "referencia": "V.5 · Riesgos y medidas preventivas del puesto administrativo",
-    "tema": 36
+    "tema": 36,
+    "explicacion": "El trabajo administrativo también presenta riesgos propios que requieren prevención. La alternativa «solo maritimos» no satisface ese criterio; aquí se aplica «ergonómicos, visuales y psicosociales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "burgos-v05-deep-01",
@@ -340,8 +340,8 @@
       "La competencia exclusiva del servicio de prevención externo"
     ],
     "correcta": 0,
-    "explicación": "El artículo 14 configura un derecho del trabajador y un correlativo deber de protección de la Administración o empresario en todos los aspectos relacionados con el trabajo.",
-    "referencia": "V.5 · 5. Derecho a protección y deber de la Administración"
+    "referencia": "V.5 · 5. Derecho a protección y deber de la Administración",
+    "explicacion": "El artículo 14 configura un derecho del trabajador y un correlativo deber de protección de la Administración o empresario en todos los aspectos relacionados con el trabajo. La alternativa «Una recomendación que solo se aplica si ocurre…» no satisface ese criterio; aquí se aplica «El deber de la Administración de protección frente…»."
   },
   {
     "id": "burgos-v05-deep-02",
@@ -354,8 +354,8 @@
       "Trasladar automáticamente al trabajador afectado"
     ],
     "correcta": 0,
-    "explicación": "El artículo 16 LPRL exige planificar la actividad preventiva cuando la evaluación revela riesgos, especificando las medidas y su seguimiento.",
-    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva"
+    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva",
+    "explicacion": "El artículo 16.2.b de la Ley 31/1995 obliga a planificar la actividad preventiva cuando la evaluación revela riesgos, fijando medidas, responsables, recursos y plazos. La alternativa «Entregar siempre un EPI y dar por terminada…» no satisface ese criterio; aquí se aplica «Planificar medidas preventivas concretas con responsables recursos prioridad…»."
   },
   {
     "id": "burgos-v05-deep-03",
@@ -368,8 +368,8 @@
       "Una actividad que permite al empleador conocer siempre el diagnóstico médico completo"
     ],
     "correcta": 0,
-    "explicación": "El artículo 22 LPRL parte del consentimiento y contempla excepciones tasadas. La vigilancia debe respetar intimidad y confidencialidad; el empleador recibe las conclusiones preventivas necesarias, no el historial clínico.",
-    "referencia": "V.5 · 7.2 Vigilancia de la salud"
+    "referencia": "V.5 · 7.2 Vigilancia de la salud",
+    "explicacion": "El artículo 22 parte del consentimiento y admite excepciones tasadas; la vigilancia debe preservar la intimidad y la confidencialidad clínica. La alternativa «Incompatible con la protección de la intimidad» no satisface ese criterio; aquí se aplica «Voluntaria con las excepciones previstas legalmente por los…»."
   },
   {
     "id": "burgos-v05-deep-04",
@@ -382,8 +382,8 @@
       "Imponer una sanción disciplinaria a la Administración"
     ],
     "correcta": 0,
-    "explicación": "El artículo 21 LPRL obliga a informar y proteger frente al riesgo grave e inminente y permite interrumpir la actividad y abandonar el lugar cuando sea necesario, con las garantías legales.",
-    "referencia": "V.5 · 7.3 Emergencias y riesgo grave e inminente"
+    "referencia": "V.5 · 7.3 Emergencias y riesgo grave e inminente",
+    "explicacion": "El artículo 21 LPRL obliga a informar y proteger frente al riesgo grave e inminente y permite interrumpir la actividad y abandonar el lugar cuando sea necesario, con las garantías legales. La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud. La alternativa «Desactivar por su cuenta todos los sistemas de…» no satisface ese criterio; aquí se aplica «Interrumpir su actividad y si es necesario abandonar…»."
   },
   {
     "id": "burgos-v05-deep-05",
@@ -396,8 +396,8 @@
       "El Comité solo representa a la Administración y los delegados solo a la empresa contratista"
     ],
     "correcta": 0,
-    "explicación": "Los delegados de prevención son representantes del personal con funciones preventivas. El Comité de Seguridad y Salud es paritario y colegiado y se constituye desde 50 trabajadores en los términos del artículo 38 LPRL.",
-    "referencia": "V.5 · 9. Participación y órganos preventivos"
+    "referencia": "V.5 · 9. Participación y órganos preventivos",
+    "explicacion": "El Comité de Seguridad y Salud es paritario y colegiado y se constituye desde 50 trabajadores en los términos del artículo 38 LPRL. La alternativa «Los delegados son técnicos externos y el Comité…» no satisface ese criterio; aquí se aplica «Los delegados representan al personal el Comité es…»."
   },
   {
     "id": "burgos-v05-deep-06",
@@ -410,8 +410,8 @@
       "500 o más trabajadores"
     ],
     "correcta": 0,
-    "explicación": "El artículo 38 LPRL establece el Comité de Seguridad y Salud en empresas o centros de trabajo con 50 o más trabajadores; es paritario y colegiado.",
-    "referencia": "V.5 · 9. Participación y órganos preventivos"
+    "referencia": "V.5 · 9. Participación y órganos preventivos",
+    "explicacion": "El artículo 38 LPRL establece el Comité de Seguridad y Salud en empresas o centros de trabajo con 50 o más trabajadores; es paritario y colegiado. La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores. La alternativa «10 o más trabajadores» no satisface ese criterio; aquí se aplica «50 o más trabajadores»."
   },
   {
     "id": "burgos-v05-deep-07",
@@ -424,8 +424,8 @@
       "Suspender la evaluación de riesgos del personal municipal"
     ],
     "correcta": 0,
-    "explicación": "La concurrencia de empresas en un mismo centro exige cooperación y coordinación preventiva, incluida la información sobre riesgos e instrucciones de emergencia.",
-    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva"
+    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva",
+    "explicacion": "La concurrencia de empresas en un mismo centro exige cooperación y coordinación preventiva, incluida la información sobre riesgos e instrucciones de emergencia. La alternativa «Suspender la evaluación de riesgos del personal municipal» no satisface ese criterio; aquí se aplica «Coordinar las actividades empresariales e intercambiar información sobre…»."
   },
   {
     "id": "burgos-v05-deep-08",
@@ -438,8 +438,8 @@
       "Solo se aplica al personal laboral privado"
     ],
     "correcta": 0,
-    "explicación": "El artículo 15 ordena anteponer la protección colectiva a la individual. Los equipos individuales pueden ser necesarios, pero no sustituyen la eliminación o control colectivo del riesgo.",
-    "referencia": "V.5 · 4. Principios de la acción preventiva"
+    "referencia": "V.5 · 4. Principios de la acción preventiva",
+    "explicacion": "El artículo 15 ordena anteponer la protección colectiva a la individual. Los equipos individuales pueden ser necesarios, pero no sustituyen la eliminación o control colectivo del riesgo. La alternativa «Solo se aplica cuando el EPI ha fallado» no satisface ese criterio; aquí se aplica «Debe anteponerse a la protección individual»."
   },
   {
     "id": "burgos-v05-deep-09",
@@ -452,8 +452,8 @@
       "Transcurre una semana aunque no haya ningún cambio"
     ],
     "correcta": 0,
-    "explicación": "La evaluación debe actualizarse cuando cambian las condiciones o cuando aparecen daños o indicios de insuficiencia preventiva; no existe una revisión automática por los supuestos ajenos indicados.",
-    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva"
+    "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva",
+    "explicacion": "La evaluación debe actualizarse cuando cambian las condiciones o cuando aparecen daños o indicios de insuficiencia preventiva; no existe una revisión automática por los supuestos ajenos indicados. La alternativa «El trabajador solicita vacaciones» no satisface ese criterio; aquí se aplica «Cambian los equipos la organización o las condiciones…»."
   },
   {
     "id": "burgos-v05-deep-10",
@@ -466,8 +466,8 @@
       "Colocar la pantalla de espaldas a la persona para reducir el uso"
     ],
     "correcta": 0,
-    "explicación": "Los riesgos del puesto con pantalla son ergonómicos, visuales y organizativos. La prevención debe actuar sobre el equipo, el entorno y la organización, no solo sobre el trabajador.",
-    "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo"
+    "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo",
+    "explicacion": "Los riesgos del puesto con pantalla son ergonómicos, visuales y organizativos. La prevención debe actuar sobre el equipo, el entorno y la organización, no solo sobre el trabajador. La alternativa «Colocar la pantalla de espaldas a la persona…» no satisface ese criterio; aquí se aplica «Ajustar pantalla silla e iluminación evitar reflejos y…»."
   },
   {
     "id": "burgos-v05-deep-11",
@@ -480,8 +480,8 @@
       "El equipo ofimático de una unidad administrativa"
     ],
     "correcta": 0,
-    "explicación": "El artículo 1.3 del Real Decreto 488/1997 excluye, entre otros, los sistemas informáticos destinados prioritariamente al público; la exclusión no alcanza al puesto administrativo habitual del empleado.",
-    "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo"
+    "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo",
+    "explicacion": "El artículo 1.3 del Real Decreto 488/1997 excluye, entre otros, los sistemas informáticos destinados prioritariamente al público; la exclusión no alcanza al puesto administrativo habitual del empleado. La alternativa «El puesto administrativo habitual con pantalla y teclado» no satisface ese criterio; aquí se aplica «Un sistema informático destinado prioritariamente a ser utilizado…»."
   },
   {
     "id": "burgos-v05-deep-12",
@@ -494,7 +494,7 @@
       "Sustituir al servicio de prevención en la evaluación técnica"
     ],
     "correcta": 0,
-    "explicación": "El trabajador debe informar de inmediato sobre situaciones que razonablemente entrañen riesgo, además de usar adecuadamente equipos y cooperar con la Administración.",
-    "referencia": "V.5 · 8. Obligaciones del personal trabajador"
+    "referencia": "V.5 · 8. Obligaciones del personal trabajador",
+    "explicacion": "El trabajador debe informar de inmediato sobre situaciones que razonablemente entrañen riesgo, además de usar adecuadamente equipos y cooperar con la Administración. La alternativa «Sustituir al servicio de prevención en la evaluación…» no satisface ese criterio; aquí se aplica «Informar de inmediato al superior o servicio preventivo…»."
   }
 ]

@@ -34,7 +34,7 @@ esto no implica que sus explicaciones estén revisadas.
 | II | 10–21 | 514 | Completado el 07/10/2026 |
 | III | 22–26 | 218 | Completado el 07/10/2026 |
 | IV | 27–31 | 165 | Completado el 08/10/2026 |
-| V | 32–42 | 467 | Pendiente |
+| V | 32–42 | 467 | Completado el 08/10/2026 |
 
 La automatización vuelve a este chat cada 30 minutos y consulta el límite real de
 Codex de 300 minutos. No hay un disparador nativo por reinicio del límite. El control
@@ -56,4 +56,4 @@ validar JSON, IDs únicos, opciones y respuesta correcta, ejecutar `npm run buil
 siguiendo el flujo documentado del repositorio. Avisar al completar un grupo, al terminar
 todo o si se requiere una decisión; permanecer en silencio cuando no haya trabajo nuevo.
 
-La revisión del grupo I se inició manualmente por petición expresa del usuario. Sus 444 preguntas y 32 correcciones están registradas en [el informe del grupo I](revision-explicaciones-grupo-i.md). El grupo II completó sus 514 preguntas, con las correcciones justificadas y las fuentes por tema, en [el informe del grupo II](revision-explicaciones-grupo-ii.md). El grupo III completó sus 218 preguntas; las correcciones justificadas y las fuentes por tema están en [el informe del grupo III](revision-explicaciones-grupo-iii.md). El grupo IV completó sus 165 preguntas; las explicaciones y fuentes por tema están registradas en [el informe del grupo IV](revision-explicaciones-grupo-iv.md). El grupo V queda pendiente.
+La revisión del grupo I se inició manualmente por petición expresa del usuario. Sus 444 preguntas y 32 correcciones están registradas en [el informe del grupo I](revision-explicaciones-grupo-i.md). El grupo II completó sus 514 preguntas, con las correcciones justificadas y las fuentes por tema, en [el informe del grupo II](revision-explicaciones-grupo-ii.md). El grupo III completó sus 218 preguntas; las correcciones justificadas y las fuentes por tema están en [el informe del grupo III](revision-explicaciones-grupo-iii.md). El grupo IV completó sus 165 preguntas; las explicaciones y fuentes por tema están registradas en [el informe del grupo IV](revision-explicaciones-grupo-iv.md). El grupo V completó sus 467 preguntas; las explicaciones revisadas, fuentes por tema y corrección demostrada de clave están en [el informe del grupo V](revision-explicaciones-grupo-v.md).

@@ -10,11 +10,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 44",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «14 años». El artículo 7 de la Ley Orgánica 3/2018 fija en más de catorce años la edad para que el consentimiento del menor funde por sí solo el tratamiento, salvo excepción legal. La alternativa «16 años» no satisface ese criterio; aquí se aplica «14 años»."
   },
   {
     "id": "pdf-2023-burgos-q49-lopd",
@@ -28,11 +28,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2023 · pregunta 49",
-    "explicación": "La LOPDGDD fija en 14 años la edad a partir de la cual el menor puede consentir por sí mismo el tratamiento de sus datos.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La LOPDGDD fija en 14 años la edad a partir de la cual el menor puede consentir por sí mismo el tratamiento de sus datos. El artículo 7 de la Ley Orgánica 3/2018 fija en más de catorce años la edad para que el consentimiento del menor funde por sí solo el tratamiento, salvo excepción legal. La alternativa «Cuando sea mayor de 18 años» no satisface ese criterio; aquí se aplica «Cuando sea mayor de 14 años»."
   },
   {
     "id": "pdf-2025-burgos-q52",
@@ -46,11 +46,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · pregunta 52",
-    "explicación": "La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD y, además, garantiza los derechos digitales.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "La Ley Orgánica 3/2018 adapta el ordenamiento español al RGPD y, además, garantiza los derechos digitales. La alternativa «Adaptar el ordenamiento jurídico español al Reglamento UE…» no satisface ese criterio; aquí se aplica «Adaptar el ordenamiento español al RGPD y garantizar…»."
   },
   {
     "id": "pdf-2025-burgos-r06",
@@ -64,11 +64,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2025 · reserva 6",
-    "explicación": "El acceso empresarial a esos contenidos está limitado a fines de control laboral y garantía de integridad de los dispositivos, con respeto a la intimidad.",
     "tags": [
       "Pregunta real",
       "Burgos 2025"
-    ]
+    ],
+    "explicacion": "El acceso empresarial a esos contenidos está limitado a fines de control laboral y garantía de integridad de los dispositivos, con respeto a la intimidad. La alternativa «No porque el trabajador tiene derecho a la…» no satisface ese criterio; aquí se aplica «Si solo a los efectos de controlar el…»."
   },
   {
     "id": "t21-p012",
@@ -81,8 +81,8 @@
       "solo si han pasado más de 5 años"
     ],
     "correcta": 0,
-    "explicación": "El tema exige consentimiento expreso o cobertura legal.",
-    "referencia": "V.6 · 3.5 Protección de datos personales y acceso (art. 15 LTBG)"
+    "referencia": "V.6 · 3.5 Protección de datos personales y acceso (art. 15 LTBG)",
+    "explicacion": "La respuesta correcta es «con consentimiento expreso del afectado o habilitación legal». La alternativa «siempre que lo pida cualquier ciudadano» no satisface ese criterio; aquí se aplica «con consentimiento expreso del afectado o habilitación legal». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t21-p013",
@@ -95,8 +95,8 @@
       "la publicidad activa"
     ],
     "correcta": 0,
-    "explicación": "La portabilidad forma parte de los derechos ARSOPOL.",
-    "referencia": "V.6 · 5.6 Derechos de los interesados (arts. 15-22 RGPD)"
+    "referencia": "V.6 · 5.6 Derechos de los interesados (arts. 15-22 RGPD)",
+    "explicacion": "La portabilidad forma parte de los derechos ARSOPOL. La alternativa «la expropiación» no satisface ese criterio; aquí se aplica «la portabilidad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t21-p014",
@@ -109,8 +109,8 @@
       "un registro auxiliar de la Administración"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como autoridad de control independiente.",
-    "referencia": "V.6 · 5.8 La Agencia Española de Protección de Datos (AEPD)"
+    "referencia": "V.6 · 5.8 La Agencia Española de Protección de Datos (AEPD)",
+    "explicacion": "La respuesta correcta es «la autoridad de control independiente encargada de velar…». La alternativa «un órgano dependiente del Consejo de Transparencia» no satisface ese criterio; aquí se aplica «la autoridad de control independiente encargada de velar…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t43-p007",
@@ -123,8 +123,8 @@
       "pedir autorización del alcalde"
     ],
     "correcta": 0,
-    "explicación": "El tema plantea una ponderación entre intereses.",
-    "referencia": "V.6 · 3.4 El límite de la protección de datos"
+    "referencia": "V.6 · 3.4 El límite de la protección de datos",
+    "explicacion": "La respuesta correcta es «ponderar el interés público en conocer la información…». La alternativa «publicar siempre todos los datos sin anonimizar» no satisface ese criterio; aquí se aplica «ponderar el interés público en conocer la información…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t43-p013",
@@ -137,8 +137,8 @@
       "6 de diciembre de 1978"
     ],
     "correcta": 0,
-    "explicación": "El tema da esa fecha de aplicación.",
-    "referencia": "V.6 · 5.2 El marco normativo vigente"
+    "referencia": "V.6 · 5.2 El marco normativo vigente",
+    "explicacion": "La respuesta correcta es «25 de mayo de 2018». La alternativa «1 de enero de 2016» no satisface ese criterio; aquí se aplica «25 de mayo de 2018». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t43-p014",
@@ -151,8 +151,8 @@
       "un documento administrativo"
     ],
     "correcta": 0,
-    "explicación": "El tema reproduce ese concepto fundamental.",
-    "referencia": "V.6 · 5.3 Conceptos fundamentales"
+    "referencia": "V.6 · 5.3 Conceptos fundamentales",
+    "explicacion": "La respuesta correcta es «toda información sobre una persona física identificada o…». La alternativa «solo el nombre y apellidos» no satisface ese criterio; aquí se aplica «toda información sobre una persona física identificada o…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t43-p015",
@@ -165,8 +165,8 @@
       "la permanencia indefinida"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge la minimización entre los principios.",
-    "referencia": "V.6 · 6.3 Minimización de datos"
+    "referencia": "V.6 · 6.3 Minimización de datos",
+    "explicacion": "La respuesta correcta es «la minimización de datos». La alternativa «la publicidad total» no satisface ese criterio; aquí se aplica «la minimización de datos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t43-p018",
@@ -179,8 +179,8 @@
       "La libre elección del encargado del tratamiento y del sistema informático utilizado"
     ],
     "correcta": 0,
-    "explicación": "En el ámbito administrativo predomina la base jurídica del interés público o del ejercicio de poderes públicos, no el consentimiento como regla general.",
-    "referencia": "RGPD · art. 6.1.e) / LOPDGDD"
+    "referencia": "RGPD · art. 6.1.e) / LOPDGDD",
+    "explicacion": "En el ámbito administrativo predomina la base jurídica del interés público o del ejercicio de poderes públicos, no el consentimiento como regla general. La alternativa «El interés legítimo de la administración como base…» no satisface ese criterio; aquí se aplica «El cumplimiento de una misión realizada en interés…»."
   },
   {
     "id": "t43-p019",
@@ -193,8 +193,8 @@
       "impedir cualquier decisión administrativa basada en datos personales"
     ],
     "correcta": 0,
-    "explicación": "La portabilidad opera en determinados tratamientos automatizados basados en consentimiento o contrato.",
-    "referencia": "V.6 · 8.6 Derecho a la portabilidad de los datos"
+    "referencia": "V.6 · 8.6 Derecho a la portabilidad de los datos",
+    "explicacion": "La portabilidad se limita a tratamientos automatizados basados en consentimiento o contrato; no es un derecho general para trasladar cualquier expediente administrativo. La alternativa «impedir cualquier decisión administrativa basada en datos personales» no satisface ese criterio; aquí se aplica «recibir sus datos en formato estructurado de uso…»."
   },
   {
     "id": "t43-p020",
@@ -207,8 +207,8 @@
       "los tribunales de oposición de la Comunidad Autónoma"
     ],
     "correcta": 0,
-    "explicación": "El RAT no tiene que publicarse, pero sí debe poder exhibirse ante la autoridad de control cuando lo requiera.",
-    "referencia": "V.6 · 9.2 El Registro de Actividades de Tratamiento (RAT)"
+    "referencia": "V.6 · 9.2 El Registro de Actividades de Tratamiento (RAT)",
+    "explicacion": "El RAT no tiene que publicarse, pero sí debe poder exhibirse ante la autoridad de control cuando lo requiera. El registro de actividades documenta los tratamientos y debe estar disponible para la autoridad de control, pero la ley no lo convierte en información de publicación general. La alternativa «cualquier ciudadano en el Portal de Transparencia» no satisface ese criterio; aquí se aplica «la autoridad de control, si lo solicita»."
   },
   {
     "id": "topup-37-01",
@@ -220,9 +220,9 @@
       "datos sin base jurídica"
     ],
     "correcta": 0,
-    "explicación": "La minimización limita el tratamiento a lo necesario para la finalidad.",
     "referencia": "V.6 · Principios del tratamiento",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "La minimización limita el tratamiento a lo necesario para la finalidad. La alternativa «todos los datos posibles por si acaso» no satisface ese criterio; aquí se aplica «solo los datos adecuados pertinentes y limitados a…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "topup-37-02",
@@ -234,9 +234,9 @@
       "fiscaliza externamente las cuentas"
     ],
     "correcta": 0,
-    "explicación": "Responsable es quien decide sobre para que y como se tratan los datos.",
     "referencia": "V.6 · Responsable del tratamiento",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "Responsable es quien decide sobre para que y como se tratan los datos. El RGPD separa quién determina fines y medios, quién trata datos por cuenta ajena y quién asesora y supervisa el cumplimiento. La alternativa «ejecuta materialmente siempre la política del Gobierno» no satisface ese criterio; aquí se aplica «determina los fines y medios del tratamiento»."
   },
   {
     "id": "topup-37-03",
@@ -248,9 +248,9 @@
       "sin necesidad de instrucciones"
     ],
     "correcta": 0,
-    "explicación": "El encargado actúa siguiendo las instrucciones del responsable.",
     "referencia": "V.6 · Encargado del tratamiento",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "El encargado actúa siguiendo las instrucciones del responsable. El RGPD separa quién determina fines y medios, quién trata datos por cuenta ajena y quién asesora y supervisa el cumplimiento. La alternativa «siempre por cuenta propia» no satisface ese criterio; aquí se aplica «por cuenta del responsable»."
   },
   {
     "id": "topup-37-04",
@@ -262,9 +262,9 @@
       "investidura del presidente"
     ],
     "correcta": 0,
-    "explicación": "El DPD es una figura de garantía y enlace en materia de protección de datos.",
     "referencia": "V.6 · Delegado de protección de datos",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "El DPD es una figura de garantía y enlace en materia de protección de datos. El RGPD separa quién determina fines y medios, quién trata datos por cuenta ajena y quién asesora y supervisa el cumplimiento. La alternativa «recaudación ejecutiva» no satisface ese criterio; aquí se aplica «asesoramiento supervisión y cooperación con la autoridad de…»."
   },
   {
     "id": "topup-37-05",
@@ -276,9 +276,9 @@
       "aprovechamiento especial del dominio público"
     ],
     "correcta": 0,
-    "explicación": "Los derechos clasicos incluyen acceso, rectificación, supresión, oposición y otros.",
     "referencia": "V.6 · Derechos de las personas interesadas",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "Los derechos clasicos incluyen acceso, rectificación, supresión, oposición y otros. La alternativa «moción de censura» no satisface ese criterio; aquí se aplica «supresión». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "topup-37-06",
@@ -290,9 +290,9 @@
       "presupuestos prorrogados"
     ],
     "correcta": 0,
-    "explicación": "La ley reconoce también derechos digitales junto al régimen general de datos.",
     "referencia": "V.6 · Derechos digitales",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "La ley reconoce también derechos digitales junto al régimen general de datos. La alternativa «diputaciones provinciales» no satisface ese criterio; aquí se aplica «dispositivos digitales en el ámbito laboral». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "topup-37-07",
@@ -304,9 +304,9 @@
       "Oficina del Censo Electoral"
     ],
     "correcta": 0,
-    "explicación": "La AEPD es la autoridad estatal de control en protección de datos.",
     "referencia": "V.6 · Autoridades de protección de datos",
-    "tema": 37
+    "tema": 37,
+    "explicacion": "La AEPD es la autoridad estatal de control en protección de datos. La alternativa «Intervención General del Estado» no satisface ese criterio; aquí se aplica «Agencia Española de Protección de Datos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "estado2026-extra-t37-01",
@@ -319,11 +319,11 @@
       "A todos los ciudadanos aunque no traten datos"
     ],
     "correcta": 0,
-    "explicación": "La LOPDGDD extiende el deber de confidencialidad a responsables, encargados y personas que intervengan en cualquier fase del tratamiento.",
     "referencia": "Examen Estado 2026, art. 5 LOPDGDD; Tema V.6, protección de datos",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La LOPDGDD extiende el deber de confidencialidad a responsables, encargados y personas que intervengan en cualquier fase del tratamiento. La alternativa «Solo a funcionarios de carrera» no satisface ese criterio; aquí se aplica «Responsables encargados y todas las personas que intervengan…»."
   },
   {
     "id": "estado2026-extra-t37-02",
@@ -336,11 +336,11 @@
       "No afecta al personal externo que interviene en el tratamiento"
     ],
     "correcta": 0,
-    "explicación": "El deber de confidencialidad permanece aun cuando haya terminado la relación de la persona con el responsable o encargado.",
     "referencia": "Tema V.6, deber de confidencialidad",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El deber de confidencialidad permanece aun cuando haya terminado la relación de la persona con el responsable o encargado. La alternativa «No afecta al personal externo que interviene en…» no satisface ese criterio; aquí se aplica «Subsiste incluso después de finalizar la relación con…»."
   },
   {
     "id": "burgos-v06-deep-01",
@@ -353,7 +353,7 @@
       "La anonimización exige conservar la tabla que permite identificar al interesado"
     ],
     "correcta": 0,
-    "explicacion": "Los datos seudonimizados siguen siendo personales si pueden vincularse con información adicional separada; los anonimizados dejan de permitir una identificación razonable.",
+    "explicacion": "Los datos seudonimizados siguen siendo personales si pueden vincularse con información adicional separada; los anonimizados dejan de permitir una identificación razonable. La alternativa «La anonimización exige conservar la tabla que permite…» no satisface ese criterio; aquí se aplica «La anonimización impide razonablemente identificar a la persona…».",
     "referencia": "V.6 · RGPD, art. 4"
   },
   {
@@ -367,7 +367,7 @@
       "La mera existencia de un proveedor informático"
     ],
     "correcta": 0,
-    "explicacion": "La Administración debe identificar la obligación legal o la misión/potestad que legitima el tratamiento; el consentimiento no es un comodín y el interés legítimo no opera para autoridades públicas en sus funciones.",
+    "explicacion": "La Administración debe identificar la obligación legal o la misión/potestad que legitima el tratamiento; el consentimiento no es un comodín y el interés legítimo no opera para autoridades públicas en sus funciones. La alternativa «El consentimiento, aunque una ley imponga el tratamiento» no satisface ese criterio; aquí se aplica «Una obligación legal o una misión de interés…».",
     "referencia": "V.6 · RGPD, art. 6"
   },
   {
@@ -381,7 +381,7 @@
       "Seis meses desde la entrada de la solicitud"
     ],
     "correcta": 0,
-    "explicacion": "El responsable responde en un mes y puede prorrogar por otros dos meses en casos complejos o numerosas solicitudes, informándolo dentro del primer mes.",
+    "explicacion": "El responsable responde en un mes y puede prorrogar por otros dos meses en casos complejos o numerosas solicitudes, informándolo dentro del primer mes. La alternativa «Seis meses desde la entrada de la solicitud» no satisface ese criterio; aquí se aplica «Un mes prorrogable otros dos meses por complejidad…».",
     "referencia": "V.6 · RGPD, art. 12.3"
   },
   {
@@ -395,7 +395,7 @@
       "Consista en un expediente en papel con datos de terceros"
     ],
     "correcta": 0,
-    "explicacion": "La portabilidad permite recibir y transmitir determinados datos tratados automáticamente cuando la base es el consentimiento o un contrato; no es un derecho general sobre cualquier expediente administrativo.",
+    "explicacion": "La portabilidad permite recibir y transmitir determinados datos tratados automáticamente cuando la base es el consentimiento o un contrato; no es un derecho general sobre cualquier expediente administrativo. La alternativa «Se base siempre en una potestad administrativa» no satisface ese criterio; aquí se aplica «Se base en el consentimiento o contrato y…».",
     "referencia": "V.6 · RGPD, art. 20"
   },
   {
@@ -409,7 +409,7 @@
       "Responsable autónoma de las finalidades municipales"
     ],
     "correcta": 0,
-    "explicacion": "El encargado trata datos por cuenta del responsable y debe quedar vinculado por un contrato o acto jurídico con las garantías del artículo 28 RGPD.",
+    "explicacion": "El encargado trata datos por cuenta del responsable y debe quedar vinculado por un contrato o acto jurídico con las garantías del artículo 28 RGPD. La alternativa «Autoridad de control independiente» no satisface ese criterio; aquí se aplica «Encargada del tratamiento mediante el contrato o acto…».",
     "referencia": "V.6 · RGPD, arts. 4 y 28"
   },
   {
@@ -423,7 +423,7 @@
       "La AEPD prohíbe que una Administración tenga DPD propio"
     ],
     "correcta": 0,
-    "explicacion": "El artículo 37.1.a RGPD obliga a autoridades y organismos públicos a designar DPD, con la excepción de los tribunales en el ejercicio de su función judicial.",
+    "explicacion": "El artículo 37.1.a RGPD obliga a autoridades y organismos públicos a designar DPD, con la excepción de los tribunales en el ejercicio de su función judicial. El RGPD separa quién determina fines y medios, quién trata datos por cuenta ajena y quién asesora y supervisa el cumplimiento. La alternativa «Solo se designa DPD si se produce una…» no satisface ese criterio; aquí se aplica «Es una autoridad u organismo público salvo la…».",
     "referencia": "V.6 · RGPD, art. 37"
   },
   {
@@ -437,7 +437,7 @@
       "Sustituir al órgano municipal que resuelve los expedientes"
     ],
     "correcta": 0,
-    "explicacion": "El DPD asesora, supervisa, participa en evaluaciones de impacto y coopera con la autoridad; no asume la responsabilidad decisoria del tratamiento ni la potestad sancionadora.",
+    "explicacion": "El DPD asesora, supervisa, participa en evaluaciones de impacto y coopera con la autoridad; no asume la responsabilidad decisoria del tratamiento ni la potestad sancionadora. El RGPD separa quién determina fines y medios, quién trata datos por cuenta ajena y quién asesora y supervisa el cumplimiento. La alternativa «Imponer directamente multas a los empleados» no satisface ese criterio; aquí se aplica «Asesorar supervisar el cumplimiento y cooperar como punto…».",
     "referencia": "V.6 · RGPD, art. 39"
   },
   {
@@ -451,7 +451,7 @@
       "Un mes desde la comunicación a los interesados en todos los casos"
     ],
     "correcta": 0,
-    "explicacion": "El artículo 33 RGPD fija la notificación sin dilación indebida y, cuando sea posible, dentro de 72 horas desde el conocimiento; la excepción es que sea improbable el riesgo para derechos y libertades.",
+    "explicacion": "El artículo 33 RGPD fija la notificación sin dilación indebida y, cuando sea posible, dentro de 72 horas desde el conocimiento; la excepción es que sea improbable el riesgo para derechos y libertades. El RGPD obliga a notificar a la autoridad, cuando sea posible, dentro de 72 horas salvo riesgo improbable; a las personas, si existe alto riesgo. La alternativa «Las 24 horas desde que se compró el…» no satisface ese criterio; aquí se aplica «Las 72 horas desde que el responsable tiene…».",
     "referencia": "V.6 · RGPD, art. 33"
   },
   {
@@ -465,7 +465,7 @@
       "La brecha ya se ha corregido, aunque nunca hubiera riesgo"
     ],
     "correcta": 0,
-    "explicacion": "El responsable comunica la brecha al interesado sin dilación indebida cuando es probable un alto riesgo, con las excepciones previstas en el artículo 34 RGPD.",
+    "explicacion": "El responsable comunica la brecha al interesado sin dilación indebida cuando es probable un alto riesgo, con las excepciones previstas en el artículo 34 RGPD. El RGPD obliga a notificar a la autoridad, cuando sea posible, dentro de 72 horas salvo riesgo improbable; a las personas, si existe alto riesgo. La alternativa «La brecha ya se ha corregido aunque nunca…» no satisface ese criterio; aquí se aplica «Es probable que la brecha entrañe un alto…».",
     "referencia": "V.6 · RGPD, art. 34"
   },
   {
@@ -479,7 +479,7 @@
       "La Junta Electoral Provincial"
     ],
     "correcta": 0,
-    "explicacion": "El DPD es una figura interna de asesoramiento y contacto; la autoridad de control competente para el Ayuntamiento es la AEPD.",
+    "explicacion": "El DPD es una figura interna de asesoramiento y contacto; la autoridad de control competente para el Ayuntamiento es la AEPD. La alternativa «El Delegado de Protección de Datos del Ayuntamiento…» no satisface ese criterio; aquí se aplica «La Agencia Española de Protección de Datos al…».",
     "referencia": "V.6 · Autoridades de control"
   },
   {
@@ -493,7 +493,7 @@
       "La supresión permite conservar indefinidamente los datos para cualquier finalidad"
     ],
     "correcta": 0,
-    "explicacion": "La limitación mantiene los datos con uso restringido mientras se resuelve una cuestión de exactitud, licitud, necesidad u oposición; la supresión elimina cuando concurre una causa y no prevalece una obligación de conservación.",
+    "explicacion": "La limitación mantiene los datos con uso restringido mientras se resuelve una cuestión de exactitud, licitud, necesidad u oposición; la supresión elimina cuando concurre una causa y no prevalece una obligación de conservación. La alternativa «La limitación siempre destruye los datos y la…» no satisface ese criterio; aquí se aplica «La limitación conserva los datos pero restringe su…».",
     "referencia": "V.6 · RGPD, arts. 17 y 18"
   },
   {
@@ -507,7 +507,7 @@
       "El derecho del empleador a revisar sin límites cualquier dispositivo"
     ],
     "correcta": 0,
-    "explicacion": "La LOPDGDD reconoce la desconexión digital y otros derechos como la intimidad en dispositivos laborales, videovigilancia, geolocalización y derechos en Internet, sujetos a sus garantías.",
+    "explicacion": "La LOPDGDD reconoce la desconexión digital y otros derechos como la intimidad en dispositivos laborales, videovigilancia, geolocalización y derechos en Internet, sujetos a sus garantías. La alternativa «El derecho a publicar cualquier expediente administrativo sin…» no satisface ese criterio; aquí se aplica «El derecho a la desconexión digital en el…».",
     "referencia": "V.6 · LOPDGDD, arts. 87 a 91"
   }
 ]

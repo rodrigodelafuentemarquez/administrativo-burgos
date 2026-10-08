@@ -10,11 +10,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 45",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Ctrl + E». En Word para Windows configurado en español, Microsoft documenta Ctrl+E para seleccionar todo; la combinación puede diferir en otras aplicaciones o idiomas. La alternativa «Ctrl + T» no satisface ese criterio; aquí se aplica «Ctrl + E»."
   },
   {
     "id": "pdf-2024-burgos-est-q46",
@@ -27,11 +27,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 46",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Restringir edición». La alternativa «Bloquear edición» no satisface ese criterio; aquí se aplica «Restringir edición». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "pdf-2024-burgos-est-q49",
@@ -44,11 +44,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 49",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «=PROMEDIO (A1:E1)». PROMEDIO calcula la media aritmética de los valores numéricos del rango, sin ampliar inadvertidamente el intervalo pedido. La alternativa «=PROMEDIO (A1:E5)» no satisface ese criterio; aquí se aplica «=PROMEDIO (A1:E1)». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "pdf-2024-burgos-est-q50",
@@ -61,11 +61,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 50",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Libro de trabajo». La alternativa «Disco duro» no satisface ese criterio; aquí se aplica «Libro de trabajo». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "pdf-2023-burgos-q17",
@@ -79,11 +79,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 17",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Presentación diseño de impresión». La alternativa «Presentación diseño de página» no satisface ese criterio; aquí se aplica «Presentación diseño de impresión». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "pdf-2023-burgos-q18",
@@ -97,11 +97,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 18",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Cambiar filas por columnas o viceversa». La alternativa «Llevarlo a otra hoja vacía» no satisface ese criterio; aquí se aplica «Cambiar filas por columnas o viceversa». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p001",
@@ -114,8 +114,8 @@
       "un sistema operativo"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define así.",
-    "referencia": "V.10 · 1.1 Qué es Word 365"
+    "referencia": "V.10 · 1.1 Qué es Word 365",
+    "explicacion": "La respuesta correcta es «un procesador de texto». La alternativa «una base de datos relacional» no satisface ese criterio; aquí se aplica «un procesador de texto». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p002",
@@ -128,8 +128,8 @@
       "pila de protocolos"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera la cinta de opciones como elemento principal.",
-    "referencia": "V.10 · 1.2 La interfaz de Word 365"
+    "referencia": "V.10 · 1.2 La interfaz de Word 365",
+    "explicacion": "La respuesta correcta es «cinta de opciones (Ribbon)». La alternativa «barra de direcciones» no satisface ese criterio; aquí se aplica «cinta de opciones (Ribbon)». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p003",
@@ -142,8 +142,8 @@
       "un protocolo de internet"
     ],
     "correcta": 0,
-    "explicación": "El tema define así los estilos.",
-    "referencia": "V.10 · 2.4 Estilos"
+    "referencia": "V.10 · 2.4 Estilos",
+    "explicacion": "La respuesta correcta es «un conjunto de formatos predefinidos aplicado de una…». La alternativa «una tabla dinámica» no satisface ese criterio; aquí se aplica «un conjunto de formatos predefinidos aplicado de una…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p004",
@@ -156,8 +156,8 @@
       "los comentarios"
     ],
     "correcta": 0,
-    "explicación": "El tema lo indica expresamente.",
-    "referencia": "V.10 · 2.10 Tabla de contenido"
+    "referencia": "V.10 · 2.10 Tabla de contenido",
+    "explicacion": "La respuesta correcta es «los estilos de Título aplicados al documento». Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable. La alternativa «los comentarios» no satisface ese criterio; aquí se aplica «los estilos de Título aplicados al documento»."
   },
   {
     "id": "t38-p005",
@@ -170,8 +170,8 @@
       "comprimir archivos"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como herramienta de revisión colaborativa.",
-    "referencia": "V.10 · 2.13 Seguimiento de cambios y comentarios"
+    "referencia": "V.10 · 2.13 Seguimiento de cambios y comentarios",
+    "explicacion": "La respuesta correcta es «registrar todas las modificaciones del documento». La alternativa «eliminar automáticamente errores» no satisface ese criterio; aquí se aplica «registrar todas las modificaciones del documento». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p006",
@@ -184,8 +184,8 @@
       "Bases de datos relacionales con integridad referencial"
     ],
     "correcta": 0,
-    "explicación": "La combinación de correspondencia sirve para producir documentos personalizados en serie usando un documento base y una fuente de datos.",
-    "referencia": "Word 365 · combinar correspondencia"
+    "referencia": "Word 365 · combinar correspondencia",
+    "explicacion": "La combinación de correspondencia sirve para producir documentos personalizados en serie usando un documento base y una fuente de datos. La alternativa «Bases de datos relacionales con integridad referencial» no satisface ese criterio; aquí se aplica «Documentos personalizados en serie a partir de un…»."
   },
   {
     "id": "t38-p007",
@@ -198,8 +198,8 @@
       ".html solo"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera .docx entre los formatos principales.",
-    "referencia": "V.10 · 3.1 Guardar documentos"
+    "referencia": "V.10 · 3.1 Guardar documentos",
+    "explicacion": "La respuesta correcta es «docx». La alternativa «mdb» no satisface ese criterio; aquí se aplica «docx». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p008",
@@ -212,8 +212,8 @@
       "Vista → Zoom"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa ahí la impresión.",
-    "referencia": "V.10 · 3.3 Impresión de documentos"
+    "referencia": "V.10 · 3.3 Impresión de documentos",
+    "explicacion": "La respuesta correcta es «Archivo → Imprimir». La alternativa «Insertar → Tabla» no satisface ese criterio; aquí se aplica «Archivo → Imprimir». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p009",
@@ -226,8 +226,8 @@
       "Referencias → Citas"
     ],
     "correcta": 0,
-    "explicación": "El tema ubica la personalización en Archivo → Opciones.",
-    "referencia": "V.10 · 4.1 Opciones de Word"
+    "referencia": "V.10 · 4.1 Opciones de Word",
+    "explicacion": "La respuesta correcta es «Archivo → Opciones». La alternativa «Inicio → Nuevo» no satisface ese criterio; aquí se aplica «Archivo → Opciones». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p010",
@@ -240,8 +240,8 @@
       "un sistema operativo"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define como hoja de cálculo.",
-    "referencia": "V.10 · 5.1 Qué es Excel 365"
+    "referencia": "V.10 · 5.1 Qué es Excel 365",
+    "explicacion": "La respuesta correcta es «una hoja de cálculo». La alternativa «un procesador de texto» no satisface ese criterio; aquí se aplica «una hoja de cálculo». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p011",
@@ -254,8 +254,8 @@
       "mensajes"
     ],
     "correcta": 0,
-    "explicación": "El tema distingue el libro y sus hojas.",
-    "referencia": "V.10 · 6.1 El libro de Excel / 6.2 Las hojas de cálculo"
+    "referencia": "V.10 · 6.1 El libro de Excel / 6.2 Las hojas de cálculo",
+    "explicacion": "La respuesta correcta es «hojas de cálculo». La alternativa «párrafos» no satisface ese criterio; aquí se aplica «hojas de cálculo». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p012",
@@ -268,8 +268,8 @@
       "no puede usarse en fórmulas"
     ],
     "correcta": 0,
-    "explicación": "El tema trata las referencias a celdas en las fórmulas.",
-    "referencia": "V.10 · 9.2 Referencias a celdas"
+    "referencia": "V.10 · 9.2 Referencias a celdas",
+    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «permanece fija siempre» no satisface ese criterio; aquí se aplica «se ajusta al copiar una fórmula». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p013",
@@ -282,8 +282,8 @@
       "CIRCULAR"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye funciones principales en el apartado de fórmulas y funciones.",
-    "referencia": "V.10 · 9.3 Funciones principales"
+    "referencia": "V.10 · 9.3 Funciones principales",
+    "explicacion": "La respuesta correcta es «SUMA». La alternativa «CERTIFICADO» no satisface ese criterio; aquí se aplica «SUMA». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p014",
@@ -296,8 +296,8 @@
       "crear macros de Word"
     ],
     "correcta": 0,
-    "explicación": "El tema dedica un apartado a los gráficos.",
-    "referencia": "V.10 · 10. Gráficos en Excel"
+    "referencia": "V.10 · 10. Gráficos en Excel",
+    "explicacion": "La respuesta correcta es «representar visualmente datos». La alternativa «firmar documentos» no satisface ese criterio; aquí se aplica «representar visualmente datos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p015",
@@ -310,8 +310,8 @@
       "copias de seguridad"
     ],
     "correcta": 0,
-    "explicación": "El tema las incluye en la gestión de datos.",
-    "referencia": "V.10 · 11.4 Tablas dinámicas (PivotTable)"
+    "referencia": "V.10 · 11.4 Tablas dinámicas (PivotTable)",
+    "explicacion": "La respuesta correcta es «gestión de datos en Excel». La alternativa «gestión de correo» no satisface ese criterio; aquí se aplica «gestión de datos en Excel». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p016",
@@ -324,8 +324,8 @@
       "Ctrl + P"
     ],
     "correcta": 0,
-    "explicación": "El tema indica que la tabla de contenido puede actualizarse con clic derecho o con F9.",
-    "referencia": "V.10 · 2.10 Tabla de contenido"
+    "referencia": "V.10 · 2.10 Tabla de contenido",
+    "explicacion": "La respuesta correcta es «F9». Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable. La alternativa «F2» no satisface ese criterio; aquí se aplica «F9». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p017",
@@ -338,8 +338,8 @@
       "una copia impresa del último documento abierto"
     ],
     "correcta": 0,
-    "explicación": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado.",
-    "referencia": "V.10 · 3.2 Recuperación de documentos"
+    "referencia": "V.10 · 3.2 Recuperación de documentos",
+    "explicacion": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado. La alternativa «solo el documento original guardado manualmente» no satisface ese criterio; aquí se aplica «las versiones autoguardadas disponibles al reiniciarse». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p018",
@@ -352,8 +352,8 @@
       "F7"
     ],
     "correcta": 0,
-    "explicación": "El tema recoge expresamente el atajo Ctrl + 1 para abrir Formato de celdas.",
-    "referencia": "V.10 · 7.3 Formato de celdas"
+    "referencia": "V.10 · 7.3 Formato de celdas",
+    "explicacion": "La respuesta correcta es «Ctrl + 1». La alternativa «Ctrl + 9» no satisface ese criterio; aquí se aplica «Ctrl + 1». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p019",
@@ -366,8 +366,8 @@
       "A$"
     ],
     "correcta": 0,
-    "explicación": "La referencia absoluta fija tanto columna como fila mediante el signo $.",
-    "referencia": "V.10 · 9.2 Referencias a celdas"
+    "referencia": "V.10 · 9.2 Referencias a celdas",
+    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «A1» no satisface ese criterio; aquí se aplica «$A$1». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p020",
@@ -380,8 +380,8 @@
       "una opción de impresión avanzada"
     ],
     "correcta": 0,
-    "explicación": "El tema presenta BUSCARX como la versión moderna y más flexible de BUSCARV.",
-    "referencia": "V.10 · 9.3 Funciones principales"
+    "referencia": "V.10 · 9.3 Funciones principales",
+    "explicacion": "La respuesta correcta es «una versión moderna y más flexible de BUSCARV». La alternativa «una opción de impresión avanzada» no satisface ese criterio; aquí se aplica «una versión moderna y más flexible de BUSCARV». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t38-p021",
@@ -394,8 +394,8 @@
       "ESLOGICO"
     ],
     "correcta": 0,
-    "explicación": "La función NO devuelve el valor logico contrario del argumento evaluado.",
-    "referencia": "V.10 · 9.3 Funciones logicas"
+    "referencia": "V.10 · 9.3 Funciones logicas",
+    "explicacion": "La función NO devuelve el valor logico contrario del argumento evaluado. La alternativa «MINVERSA» no satisface ese criterio; aquí se aplica «NO». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t41-01",
@@ -408,11 +408,11 @@
       "Enviar correos con copia oculta"
     ],
     "correcta": 0,
-    "explicación": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo.",
     "referencia": "Examen Estado 2026, Word 365; Tema V.10",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo. La alternativa «Traducir hojas de cálculo automáticamente» no satisface ese criterio; aquí se aplica «Transcribir voz grabando directamente en Word o cargando…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t41-02",
@@ -425,11 +425,11 @@
       "Convertirlo a imagen"
     ],
     "correcta": 0,
-    "explicación": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión.",
     "referencia": "Examen Estado 2026, Word 365; Tema V.10",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión. La alternativa «Aceptar todos los cambios obligatoriamente» no satisface ese criterio; aquí se aplica «Desmarcar la opción de imprimir documento con revisiones…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t41-03",
@@ -442,11 +442,11 @@
       "El formato de fecha aplicado"
     ],
     "correcta": 0,
-    "explicación": "FILAS devuelve el número de filas de una referencia; aplicada a Registros[Fecha], cuenta las filas de esa columna.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "FILAS devuelve el número de filas de la referencia recibida; no calcula fechas ni cuenta las columnas de la tabla. La alternativa «El número de columnas de Registros» no satisface ese criterio; aquí se aplica «El número de filas de la columna Fecha…»."
   },
   {
     "id": "estado2026-extra-t41-04",
@@ -459,11 +459,11 @@
       "2024-08-11 completo"
     ],
     "correcta": 0,
-    "explicación": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras. La alternativa «11/agosto/2024» no satisface ese criterio; aquí se aplica «11/ago/24». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t41-05",
@@ -476,11 +476,11 @@
       "B2:B2"
     ],
     "correcta": 0,
-    "explicación": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4. La alternativa «B2:C4» no satisface ese criterio; aquí se aplica «B2:C2;B4:C4». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t41-06",
@@ -493,11 +493,11 @@
       "MINVERSA"
     ],
     "correcta": 0,
-    "explicación": "La función NO devuelve el valor lógico opuesto de su argumento.",
     "referencia": "Examen Estado 2026, Excel 365; Tema V.10",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La función NO devuelve el valor lógico opuesto de su argumento. La alternativa «ESLOGICO» no satisface ese criterio; aquí se aplica «NO». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "realstyle-v10-01",
@@ -511,7 +511,7 @@
     ],
     "correcta": 0,
     "referencia": "Revisión test reales · Word 365",
-    "explicación": "Los exámenes ofimáticos reales suelen preguntar por rutas funcionales concretas, no solo por definiciones."
+    "explicacion": "Los exámenes ofimáticos reales suelen preguntar por rutas funcionales concretas, no solo por definiciones. La alternativa «Guardar el documento como imagen PNG» no satisface ese criterio; aquí se aplica «Desactivar la impresión de marcas o documento con…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "realstyle-v10-02",
@@ -525,7 +525,7 @@
     ],
     "correcta": 0,
     "referencia": "Revisión test reales · Excel 365",
-    "explicación": "FILAS devuelve el número de filas de una referencia; con una columna estructurada cuenta sus filas."
+    "explicacion": "FILAS devuelve el número de filas de la referencia recibida; no calcula fechas ni cuenta las columnas de la tabla. La alternativa «El número de columnas de la tabla» no satisface ese criterio; aquí se aplica «El número de filas de esa columna de…»."
   },
   {
     "id": "burgos-v10-deep-01",
@@ -538,8 +538,8 @@
       "Aceptar cambios solo modifica la impresión y nunca el contenido."
     ],
     "correcta": 0,
-    "explicación": "La vista «Sin marcas» cambia la visualización, pero las revisiones siguen en el archivo hasta que se aceptan o rechazan.",
-    "referencia": "V.10 · Word · control de cambios"
+    "referencia": "V.10 · Word · control de cambios",
+    "explicacion": "La vista «Sin marcas» cambia la visualización, pero las revisiones siguen en el archivo hasta que se aceptan o rechazan. La alternativa ««Sin marcas» convierte automáticamente el documento en PDF» no satisface ese criterio; aquí se aplica «Sin marcas solo oculta temporalmente las marcas aceptar…»."
   },
   {
     "id": "burgos-v10-deep-02",
@@ -552,8 +552,8 @@
       "Porque sustituyen siempre a la revisión ortográfica."
     ],
     "correcta": 0,
-    "explicación": "Los estilos tienen significado estructural; el formato manual puede parecer igual, pero no alimenta esas funciones de Word.",
-    "referencia": "V.10 · Word · estilos y tabla de contenido"
+    "referencia": "V.10 · Word · estilos y tabla de contenido",
+    "explicacion": "Los estilos tienen significado estructural; el formato manual puede parecer igual, pero no alimenta esas funciones de Word. Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable. La alternativa «Porque convierten automáticamente todo el texto en una…» no satisface ese criterio; aquí se aplica «Porque aportan estructura jerárquica permiten navegar y generar…»."
   },
   {
     "id": "burgos-v10-deep-03",
@@ -566,8 +566,8 @@
       "Guardar el documento como una hoja de cálculo."
     ],
     "correcta": 0,
-    "explicación": "La configuración de impresión permite no imprimir las marcas; ocultarlas en pantalla o no imprimirlas no las elimina del archivo.",
-    "referencia": "V.10 · Word · revisión e impresión"
+    "referencia": "V.10 · Word · revisión e impresión",
+    "explicacion": "La configuración de impresión permite no imprimir las marcas; ocultarlas en pantalla o no imprimirlas no las elimina del archivo. La alternativa «Aceptar todos los cambios y eliminar todos los…» no satisface ese criterio; aquí se aplica «Desactivar la impresión de marcas en la configuración…»."
   },
   {
     "id": "burgos-v10-deep-04",
@@ -580,8 +580,8 @@
       "Hoja, celda y referencia absoluta."
     ],
     "correcta": 0,
-    "explicación": "La combinación usa una plantilla o documento principal, una lista de destinatarios y campos que insertan los datos personalizados.",
-    "referencia": "V.10 · Word · combinación de correspondencia"
+    "referencia": "V.10 · Word · combinación de correspondencia",
+    "explicacion": "La combinación usa una plantilla o documento principal, una lista de destinatarios y campos que insertan los datos personalizados. La alternativa «Libro, tabla dinámica y gráfico» no satisface ese criterio; aquí se aplica «Documento principal fuente de datos y campos de…»."
   },
   {
     "id": "burgos-v10-deep-05",
@@ -594,8 +594,8 @@
       "Deja de ser una referencia válida."
     ],
     "correcta": 0,
-    "explicación": "Los signos $ delante de la columna y la fila convierten la referencia en absoluta.",
-    "referencia": "V.10 · Excel · referencias"
+    "referencia": "V.10 · Excel · referencias",
+    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «Fija solo la fila y cambia la columna» no satisface ese criterio; aquí se aplica «Sigue apuntando a la celda A1 porque fija…»."
   },
   {
     "id": "burgos-v10-deep-06",
@@ -608,8 +608,8 @@
       "Se elimina de la fórmula."
     ],
     "correcta": 0,
-    "explicación": "Las referencias relativas se adaptan al desplazamiento de la fórmula; al bajar una fila, A1 pasa normalmente a A2.",
-    "referencia": "V.10 · Excel · referencias relativas"
+    "referencia": "V.10 · Excel · referencias relativas",
+    "explicacion": "Las referencias relativas se adaptan al desplazamiento de la fórmula; al bajar una fila, A1 pasa normalmente a A2. En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «Se transforma siempre en $A$1» no satisface ese criterio; aquí se aplica «Se ajusta a A2, manteniendo la posición relativa»."
   },
   {
     "id": "burgos-v10-deep-07",
@@ -622,8 +622,8 @@
       "La ordenación solo puede aplicarse a fórmulas y el filtro solo a fechas."
     ],
     "correcta": 0,
-    "explicación": "Filtrar limita los registros visibles sin eliminarlos; ordenar reorganiza la posición según uno o varios criterios.",
-    "referencia": "V.10 · Excel · gestión de datos"
+    "referencia": "V.10 · Excel · gestión de datos",
+    "explicacion": "Filtrar limita los registros visibles sin eliminarlos; ordenar reorganiza la posición según uno o varios criterios. La alternativa «El filtro borra definitivamente los registros y la…» no satisface ese criterio; aquí se aplica «El filtro oculta temporalmente los registros que no…»."
   },
   {
     "id": "burgos-v10-deep-08",
@@ -636,8 +636,8 @@
       "Para impedir cualquier modificación de una hoja sin configurar protección."
     ],
     "correcta": 0,
-    "explicación": "La tabla dinámica permite analizar grandes conjuntos de datos agrupándolos y cambiando su disposición sin alterar necesariamente el origen.",
-    "referencia": "V.10 · Excel · tablas dinámicas"
+    "referencia": "V.10 · Excel · tablas dinámicas",
+    "explicacion": "La tabla dinámica permite analizar grandes conjuntos de datos agrupándolos y cambiando su disposición sin alterar necesariamente el origen. La alternativa «Para sustituir al sistema operativo» no satisface ese criterio; aquí se aplica «Para resumir y reorganizar datos por categorías valores…»."
   },
   {
     "id": "burgos-v10-deep-09",
@@ -650,8 +650,8 @@
       "Control de cambios de Word."
     ],
     "correcta": 0,
-    "explicación": "La validación de datos controla o restringe las entradas; el formato condicional solo cambia la apariencia según una regla.",
-    "referencia": "V.10 · Excel · validación y formato condicional"
+    "referencia": "V.10 · Excel · validación y formato condicional",
+    "explicacion": "La validación de datos controla o restringe las entradas; el formato condicional solo cambia la apariencia según una regla. La alternativa «Formato condicional exclusivamente» no satisface ese criterio; aquí se aplica «Validación de datos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "burgos-v10-deep-10",
@@ -664,8 +664,8 @@
       "Eliminar los encabezados para ocultar la estructura."
     ],
     "correcta": 0,
-    "explicación": "La revisión debe cubrir exactitud, visibilidad de registros, minimización de datos y control de acceso, no solo el formato.",
-    "referencia": "V.10 · colaboración y seguridad administrativa"
+    "referencia": "V.10 · colaboración y seguridad administrativa",
+    "explicacion": "La revisión debe cubrir exactitud, visibilidad de registros, minimización de datos y control de acceso, no solo el formato. La alternativa «Convertir siempre todas las celdas en imágenes sin…» no satisface ese criterio; aquí se aplica «Revisar filtros activos fórmulas destinatarios permisos y que…»."
   },
   {
     "id": "burgos-v10-deep-11",
@@ -678,8 +678,8 @@
       "Elimina los errores de las fórmulas automáticamente."
     ],
     "correcta": 0,
-    "explicación": "La protección de hoja o libro es un control funcional frente a modificaciones; debe distinguirse de permisos, confidencialidad y cifrado.",
-    "referencia": "V.10 · Excel · protección y seguridad"
+    "referencia": "V.10 · Excel · protección y seguridad",
+    "explicacion": "La protección de hoja o libro es un control funcional frente a modificaciones; debe distinguirse de permisos, confidencialidad y cifrado. La alternativa «Elimina los errores de las fórmulas automáticamente» no satisface ese criterio; aquí se aplica «Ayuda a evitar cambios no deseados pero no…»."
   },
   {
     "id": "burgos-v10-deep-12",
@@ -692,7 +692,7 @@
       "Un Excel compartido no puede contener nunca datos administrativos."
     ],
     "correcta": 0,
-    "explicación": "La herramienta ofimática apoya la preparación y colaboración; la validez y trazabilidad del expediente dependen del sistema y procedimiento corporativos.",
-    "referencia": "V.10 · sistemas colaborativos y expediente"
+    "referencia": "V.10 · sistemas colaborativos y expediente",
+    "explicacion": "La herramienta ofimática apoya la preparación y colaboración; la validez y trazabilidad del expediente dependen del sistema y procedimiento corporativos. La alternativa «Todo archivo almacenado en OneDrive forma automáticamente parte…» no satisface ese criterio; aquí se aplica «El archivo puede ser material de trabajo pero…»."
   }
 ]

@@ -10,11 +10,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 11",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Es el expediente administrativo». El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución. La alternativa «Es el registro administrativo» no satisface ese criterio; aquí se aplica «Es el expediente administrativo»."
   },
   {
     "id": "pdf-2024-burgos-est-q39",
@@ -27,11 +27,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 39",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Los interesados se responsabilizan de la veracidad de…». La alternativa «El empleado público es responsable de la veracidad…» no satisface ese criterio; aquí se aplica «Los interesados se responsabilizan de la veracidad de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2024-burgos-est-q40",
@@ -44,11 +44,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 40",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Solicitud». La alternativa «Informe» no satisface ese criterio; aquí se aplica «Solicitud». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2024-burgos-est-q43",
@@ -61,11 +61,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 43",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «La entrada o salida del registro». La alternativa «Su fecha de despacho» no satisface ese criterio; aquí se aplica «La entrada o salida del registro». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "pdf-2023-burgos-q48-doc",
@@ -79,11 +79,11 @@
     ],
     "correcta": 1,
     "referencia": "PDF Burgos 2023 · pregunta 48",
-    "explicación": "Los documentos electrónicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electrónico.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "Los documentos electrónicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electrónico. La alternativa «El Archivo General de la Administración» no satisface ese criterio; aquí se aplica «Soportes de naturaleza electrónica». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p001",
@@ -96,8 +96,8 @@
       "solo una resolución administrativa"
     ],
     "correcta": 0,
-    "explicación": "El tema da esa definición amplia.",
-    "referencia": "V.8 · 1.1 Concepto general de documento"
+    "referencia": "V.8 · 1.1 Concepto general de documento",
+    "explicacion": "La respuesta correcta es «cualquier soporte material o digital que contiene información…». La alternativa «solo un escrito en papel firmado» no satisface ese criterio; aquí se aplica «cualquier soporte material o digital que contiene información…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p002",
@@ -110,8 +110,8 @@
       "una empresa privada sin relación pública"
     ],
     "correcta": 0,
-    "explicación": "El tema lo vincula a la actuación administrativa.",
-    "referencia": "V.8 · 1.2 El documento administrativo: concepto"
+    "referencia": "V.8 · 1.2 El documento administrativo: concepto",
+    "explicacion": "La respuesta correcta es «una Administración Pública en el ejercicio de sus…». La alternativa «una empresa privada sin relación pública» no satisface ese criterio; aquí se aplica «una Administración Pública en el ejercicio de sus…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p003",
@@ -124,8 +124,8 @@
       "opcionalidad"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera la autenticidad entre sus notas.",
-    "referencia": "V.8 · 1.3 Carácterísticas del documento administrativo"
+    "referencia": "V.8 · 1.3 Carácterísticas del documento administrativo",
+    "explicacion": "La respuesta correcta es «autenticidad». La alternativa «aleatoriedad» no satisface ese criterio; aquí se aplica «autenticidad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p004",
@@ -138,8 +138,8 @@
       "no puede expedirse electrónicamente"
     ],
     "correcta": 0,
-    "explicación": "El tema la equipara al original.",
-    "referencia": "V.8 · 1.5 Copias de documentos"
+    "referencia": "V.8 · 1.5 Copias de documentos",
+    "explicacion": "La respuesta correcta es «tiene la misma validez y eficacia que el…». Una copia auténtica acredita identidad e integridad con intervención competente; una reproducción simple no obtiene esa condición por el mero escaneo. La alternativa «solo sirve como recuerdo» no satisface ese criterio; aquí se aplica «tiene la misma validez y eficacia que el…»."
   },
   {
     "id": "t32-p005",
@@ -152,8 +152,8 @@
       "guía"
     ],
     "correcta": 0,
-    "explicación": "El tema clasifica la resolución como documento de decisión.",
-    "referencia": "V.8 · 2.1.1 Documentos de decisión"
+    "referencia": "V.8 · 2.1.1 Documentos de decisión",
+    "explicacion": "La respuesta correcta es «resolución». La alternativa «copia simple» no satisface ese criterio; aquí se aplica «resolución». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p006",
@@ -166,8 +166,8 @@
       "notificación"
     ],
     "correcta": 0,
-    "explicación": "El tema la incluye entre los documentos de constancia.",
-    "referencia": "V.8 · 2.1.2 Documentos de constancia"
+    "referencia": "V.8 · 2.1.2 Documentos de constancia",
+    "explicacion": "La respuesta correcta es «constancia». La alternativa «decisión» no satisface ese criterio; aquí se aplica «constancia». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p007",
@@ -180,8 +180,8 @@
       "solo expedientes sancionadores"
     ],
     "correcta": 0,
-    "explicación": "El tema sitúa ahí los expedientes activos o recientes.",
-    "referencia": "V.8 · 3.2.1 Archivo de oficina o de gestión"
+    "referencia": "V.8 · 3.2.1 Archivo de oficina o de gestión",
+    "explicacion": "La respuesta correcta es «expedientes en tramitación o recién terminados de uso…». La alternativa «solo expedientes sancionadores» no satisface ese criterio; aquí se aplica «expedientes en tramitación o recién terminados de uso…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p008",
@@ -194,8 +194,8 @@
       "exclusivamente tributarios"
     ],
     "correcta": 0,
-    "explicación": "El tema le atribuye conservación permanente.",
-    "referencia": "V.8 · 3.2.3 Archivo histórico"
+    "referencia": "V.8 · 3.2.3 Archivo histórico",
+    "explicacion": "La respuesta correcta es «de valor histórico artístico cultural o científico de…». La alternativa «sin valor probatorio alguno» no satisface ese criterio; aquí se aplica «de valor histórico artístico cultural o científico de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p009",
@@ -208,8 +208,8 @@
       "La relación cronológica de transferencias realizadas al archivo histórico"
     ],
     "correcta": 0,
-    "explicación": "El cuadro de clasificación ordena la documentación conforme a las funciones y series, y no se confunde con otros instrumentos descriptivos.",
-    "referencia": "Archivística · cuadro de clasificación"
+    "referencia": "Archivística · cuadro de clasificación",
+    "explicacion": "El cuadro de clasificación ordena la documentación conforme a las funciones y series, y no se confunde con otros instrumentos descriptivos. La alternativa «El inventario topográfico que localiza físicamente las cajas…» no satisface ese criterio; aquí se aplica «La estructura jerárquica que organiza los documentos según…»."
   },
   {
     "id": "t32-p010",
@@ -222,8 +222,8 @@
       "el código de una consulta"
     ],
     "correcta": 0,
-    "explicación": "El tema la presenta como localización física.",
-    "referencia": "V.8 · 3.4 Clasificación, ordenación y signatura topográfica"
+    "referencia": "V.8 · 3.4 Clasificación, ordenación y signatura topográfica",
+    "explicacion": "La respuesta correcta es «la ubicación física exacta de un documento dentro…». La alternativa «la fecha de nacimiento del interesado» no satisface ese criterio; aquí se aplica «la ubicación física exacta de un documento dentro…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p011",
@@ -236,8 +236,8 @@
       "la consulta de la comisión de fiestas"
     ],
     "correcta": 0,
-    "explicación": "El tema niega la eliminación unilateral.",
-    "referencia": "V.8 · 3.5 La evaluación y selección documental: eliminación y conservación"
+    "referencia": "V.8 · 3.5 La evaluación y selección documental: eliminación y conservación",
+    "explicacion": "La respuesta correcta es «un expediente de expurgo con autorización del órgano…». La eliminación exige evaluación documental, plazos de conservación y autorización conforme a la normativa archivística; no depende de una decisión individual. La alternativa «la decisión unilateral del archivero» no satisface ese criterio; aquí se aplica «un expediente de expurgo con autorización del órgano…»."
   },
   {
     "id": "t32-p012",
@@ -250,8 +250,8 @@
       "las cuentas bancarias privadas"
     ],
     "correcta": 0,
-    "explicación": "El tema cita ese fundamento constitucional.",
-    "referencia": "V.8 · 4.1 Fundamento constitucional y legal"
+    "referencia": "V.8 · 4.1 Fundamento constitucional y legal",
+    "explicacion": "La respuesta correcta es «archivos y registros administrativos». La alternativa «los secretos de Estado sin límite» no satisface ese criterio; aquí se aplica «archivos y registros administrativos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p013",
@@ -264,8 +264,8 @@
       "sustituir el órgano competente"
     ],
     "correcta": 0,
-    "explicación": "El tema atribuye ese derecho en el procedimiento.",
-    "referencia": "V.8 · 4.1 Fundamento constitucional y legal"
+    "referencia": "V.8 · 4.1 Fundamento constitucional y legal",
+    "explicacion": "La respuesta correcta es «acceder y obtener copia de los documentos del…». La alternativa «resolver el expediente por sí mismos» no satisface ese criterio; aquí se aplica «acceder y obtener copia de los documentos del…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t32-p014",
@@ -278,8 +278,8 @@
       "solo la primera es electrónica"
     ],
     "correcta": 0,
-    "explicación": "El tema diferencia ambas modalidades en el epígrafe de acceso.",
-    "referencia": "V.8 · 4.2 Modalidades de acceso"
+    "referencia": "V.8 · 4.2 Modalidades de acceso",
+    "explicacion": "La respuesta correcta es «publicidad de oficio y la segunda en acceso…». El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «la primera es secreta y la segunda pública» no satisface ese criterio; aquí se aplica «publicidad de oficio y la segunda en acceso…»."
   },
   {
     "id": "t32-p015",
@@ -292,8 +292,8 @@
       "emitir notificaciones"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como portal de acceso a la información.",
-    "referencia": "V.8 · 6.3 El Portal de Transparencia"
+    "referencia": "V.8 · 6.3 El Portal de Transparencia",
+    "explicacion": "La respuesta correcta es «centralizar la publicación y el acceso a la…». El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «archivar expedientes históricos» no satisface ese criterio; aquí se aplica «centralizar la publicación y el acceso a la…»."
   },
   {
     "id": "t33-p001",
@@ -306,8 +306,8 @@
       "la notificación de un acto"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define de ese modo.",
-    "referencia": "V.8 · 1.1 Concepto de expediente administrativo"
+    "referencia": "V.8 · 1.1 Concepto de expediente administrativo",
+    "explicacion": "El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución. La alternativa «un simple archivo de facturas» no satisface ese criterio; aquí se aplica «el conjunto ordenado de documentos y actuaciones que…»."
   },
   {
     "id": "t33-p002",
@@ -320,8 +320,8 @@
       "discrecionalidad"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera unidad, ordenación, completitud, foliación y conservación.",
-    "referencia": "V.8 · 1.2 Principios que rigen la formación del expediente"
+    "referencia": "V.8 · 1.2 Principios que rigen la formación del expediente",
+    "explicacion": "La respuesta correcta es «unidad». La alternativa «aleatoriedad» no satisface ese criterio; aquí se aplica «unidad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p003",
@@ -334,8 +334,8 @@
       "subvención"
     ],
     "correcta": 0,
-    "explicación": "El tema lo vincula a la garantía de integridad.",
-    "referencia": "V.8 · 1.4 El índice del expediente"
+    "referencia": "V.8 · 1.4 El índice del expediente",
+    "explicacion": "La respuesta correcta es «integridad». El índice electrónico autenticado relaciona documentos y garantiza la integridad del expediente remitido. La alternativa «sanción» no satisface ese criterio; aquí se aplica «integridad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p004",
@@ -348,8 +348,8 @@
       "únicamente empresas privadas"
     ],
     "correcta": 0,
-    "explicación": "El tema los define por su origen administrativo.",
-    "referencia": "V.8 · 2. Los documentos oficiales"
+    "referencia": "V.8 · 2. Los documentos oficiales",
+    "explicacion": "La respuesta correcta es «los órganos de las Administraciones Públicas en el…». La alternativa «solo los tribunales» no satisface ese criterio; aquí se aplica «los órganos de las Administraciones Públicas en el…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p005",
@@ -362,8 +362,8 @@
       "tributaria y recaudatoria"
     ],
     "correcta": 0,
-    "explicación": "El tema la describe como comunicación interna e informal.",
-    "referencia": "V.8 · 3.1 La nota interior o memorándum"
+    "referencia": "V.8 · 3.1 La nota interior o memorándum",
+    "explicacion": "La respuesta correcta es «interna e informal». La alternativa «externa y solemne» no satisface ese criterio; aquí se aplica «interna e informal». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p006",
@@ -376,8 +376,8 @@
       "una resolución de Pleno"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como anotación en el expediente.",
-    "referencia": "V.8 · 3.2 La diligencia"
+    "referencia": "V.8 · 3.2 La diligencia",
+    "explicacion": "La respuesta correcta es «la anotación que el funcionario tramitador incorpora al…». La alternativa «una sentencia administrativa» no satisface ese criterio; aquí se aplica «la anotación que el funcionario tramitador incorpora al…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p007",
@@ -390,8 +390,8 @@
       "autoliquidar un impuesto"
     ],
     "correcta": 0,
-    "explicación": "El tema la define así.",
-    "referencia": "V.8 · 4.1 Concepto y función"
+    "referencia": "V.8 · 4.1 Concepto y función",
+    "explicacion": "La respuesta correcta es «iniciar un procedimiento o pedir que se adopte…». La alternativa «convocar una sesión» no satisface ese criterio; aquí se aplica «iniciar un procedimiento o pedir que se adopte…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p008",
@@ -404,8 +404,8 @@
       "la relación de vocales asistentes"
     ],
     "correcta": 0,
-    "explicación": "El tema exige esos elementos mínimos.",
-    "referencia": "V.8 · 4.2 Contenido mínimo (art. 66 LPACAP)"
+    "referencia": "V.8 · 4.2 Contenido mínimo (art. 66 LPACAP)",
+    "explicacion": "La respuesta correcta es «hechos, razones y petición». La alternativa «solo la firma del interesado» no satisface ese criterio; aquí se aplica «hechos, razones y petición». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p009",
@@ -418,8 +418,8 @@
       "plantillas judiciales"
     ],
     "correcta": 0,
-    "explicación": "El tema habla de modelos normalizados.",
-    "referencia": "V.8 · 4.4 Modelos normalizados"
+    "referencia": "V.8 · 4.4 Modelos normalizados",
+    "explicacion": "La respuesta correcta es «modelos normalizados para los procedimientos más frecuentes». La alternativa «solo hojas en blanco» no satisface ese criterio; aquí se aplica «modelos normalizados para los procedimientos más frecuentes». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p010",
@@ -432,8 +432,8 @@
       "la emisión de certificaciones"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como comunicación formal interadministrativa o interna.",
-    "referencia": "V.8 · 5.1 Concepto y función"
+    "referencia": "V.8 · 5.1 Concepto y función",
+    "explicacion": "La respuesta correcta es «las relaciones escritas entre órganos o unidades de…». La alternativa «la contabilidad de tesorería» no satisface ese criterio; aquí se aplica «las relaciones escritas entre órganos o unidades de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p011",
@@ -446,8 +446,8 @@
       "fiscalización"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera esa clase entre las principales.",
-    "referencia": "V.8 · 5.2 Clases de oficio"
+    "referencia": "V.8 · 5.2 Clases de oficio",
+    "explicacion": "La respuesta correcta es «traslado». La alternativa «compensación» no satisface ese criterio; aquí se aplica «traslado». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p012",
@@ -460,8 +460,8 @@
       "impone una sanción"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define como documento de fe pública.",
-    "referencia": "V.8 · 6.1 Concepto y función"
+    "referencia": "V.8 · 6.1 Concepto y función",
+    "explicacion": "La respuesta correcta es «da fe de la existencia o contenido de…». La alternativa «aprueba un presupuesto» no satisface ese criterio; aquí se aplica «da fe de la existencia o contenido de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p013",
@@ -474,8 +474,8 @@
       "Tesorero"
     ],
     "correcta": 0,
-    "explicación": "El tema asigna esa función al Secretario.",
-    "referencia": "V.8 · 6.3 El papel del Secretario en la certificación local"
+    "referencia": "V.8 · 6.3 El papel del Secretario en la certificación local",
+    "explicacion": "La respuesta correcta es «Secretario de la Corporación». La alternativa «Alcalde» no satisface ese criterio; aquí se aplica «Secretario de la Corporación». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p014",
@@ -488,8 +488,8 @@
       "de un ciudadano a otro"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como comunicación general y simultánea.",
-    "referencia": "V.8 · 8.1 Concepto y función"
+    "referencia": "V.8 · 8.1 Concepto y función",
+    "explicacion": "La respuesta correcta es «subordinados o dependientes de forma simultánea». La alternativa «de una sola persona sin relación administrativa» no satisface ese criterio; aquí se aplica «subordinados o dependientes de forma simultánea». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t33-p015",
@@ -502,8 +502,8 @@
       "un informe técnico"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define como resolución unipersonal.",
-    "referencia": "V.8 · 10.1 Concepto y función"
+    "referencia": "V.8 · 10.1 Concepto y función",
+    "explicacion": "La respuesta correcta es «la resolución dictada por el órgano unipersonal competente». La alternativa «un acuerdo del Pleno» no satisface ese criterio; aquí se aplica «la resolución dictada por el órgano unipersonal competente». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t34-p009",
@@ -516,8 +516,8 @@
       "una autorización judicial"
     ],
     "correcta": 0,
-    "explicación": "El tema exige ese índice firmado.",
-    "referencia": "V.8 · 5.3 El expediente electrónico"
+    "referencia": "V.8 · 5.3 El expediente electrónico",
+    "explicacion": "La respuesta correcta es «un índice electrónico firmado por la Administración». La alternativa «un sello manual en cada hoja» no satisface ese criterio; aquí se aplica «un índice electrónico firmado por la Administración». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "t34-p015",
@@ -530,8 +530,8 @@
       "el tratamiento de datos de personal"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como marco técnico de interoperabilidad.",
-    "referencia": "V.8 · 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico"
+    "referencia": "V.8 · 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico",
+    "explicacion": "La respuesta correcta es «los requisitos técnicos de interoperabilidad para documentos y…». La alternativa «los límites de contratación menor» no satisface ese criterio; aquí se aplica «los requisitos técnicos de interoperabilidad para documentos y…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "burgos-v08-deep-01",
@@ -544,8 +544,8 @@
       "Publicarse siempre en el Boletín Oficial"
     ],
     "correcta": 0,
-    "explicación": "El artículo 26 exige, entre otros elementos, datos de identificación, referencia temporal, metadatos mínimos y las firmas que correspondan.",
-    "referencia": "V.8 · 2.2 Documento electrónico válido"
+    "referencia": "V.8 · 2.2 Documento electrónico válido",
+    "explicacion": "El artículo 26 exige, entre otros elementos, datos de identificación, referencia temporal, metadatos mínimos y las firmas que correspondan. La alternativa «Contener únicamente la firma del interesado» no satisface ese criterio; aquí se aplica «Incorporar una referencia temporal del momento en que…»."
   },
   {
     "id": "burgos-v08-deep-02",
@@ -558,8 +558,8 @@
       "Son términos idénticos en la Ley 39/2015"
     ],
     "correcta": 0,
-    "explicación": "El procedimiento es una secuencia de actuaciones; el expediente reúne ordenadamente los documentos y actuaciones que sirven de antecedente y fundamento a la resolución.",
-    "referencia": "V.8 · 3.1 Concepto legal y contenido"
+    "referencia": "V.8 · 3.1 Concepto legal y contenido",
+    "explicacion": "El procedimiento es una secuencia de actuaciones; el expediente reúne ordenadamente los documentos y actuaciones que sirven de antecedente y fundamento a la resolución. El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución. La alternativa «El expediente es siempre anterior al procedimiento» no satisface ese criterio; aquí se aplica «El procedimiento es la sucesión de trámites y…»."
   },
   {
     "id": "burgos-v08-deep-03",
@@ -572,8 +572,8 @@
       "un certificado de empadronamiento"
     ],
     "correcta": 0,
-    "explicación": "El artículo 51 del Real Decreto 203/2021 vincula el foliado electrónico al índice autenticado, que permite garantizar la integridad y recuperar el expediente.",
-    "referencia": "V.8 · 3.3 Expediente electrónico"
+    "referencia": "V.8 · 3.3 Expediente electrónico",
+    "explicacion": "El artículo 51 del Real Decreto 203/2021 vincula el foliado electrónico al índice autenticado, que permite garantizar la integridad y recuperar el expediente. La alternativa «una numeración manuscrita posterior a la remisión» no satisface ese criterio; aquí se aplica «un índice electrónico autenticado que garantice la integridad»."
   },
   {
     "id": "burgos-v08-deep-04",
@@ -586,8 +586,8 @@
       "no puede conservarse fuera de un procedimiento"
     ],
     "correcta": 0,
-    "explicación": "El artículo 51 permite que un mismo documento electrónico forme parte de distintos expedientes administrativos.",
-    "referencia": "V.8 · 3.3 Expediente electrónico"
+    "referencia": "V.8 · 3.3 Expediente electrónico",
+    "explicacion": "El artículo 51 permite que un mismo documento electrónico forme parte de distintos expedientes administrativos. La alternativa «no puede conservarse fuera de un procedimiento» no satisface ese criterio; aquí se aplica «puede formar parte de distintos expedientes administrativos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "burgos-v08-deep-05",
@@ -600,8 +600,8 @@
       "Solo los documentos que tengan firma manuscrita"
     ],
     "correcta": 0,
-    "explicación": "La obligación alcanza a los documentos de los expedientes y a los documentos con valor probatorio creados fuera de un procedimiento.",
-    "referencia": "V.8 · 5. Archivo electrónico"
+    "referencia": "V.8 · 5. Archivo electrónico",
+    "explicacion": "La obligación alcanza a los documentos de los expedientes y a los documentos con valor probatorio creados fuera de un procedimiento. La alternativa «Solo los documentos que tengan firma manuscrita» no satisface ese criterio; aquí se aplica «Los documentos con valor probatorio creados al margen…»."
   },
   {
     "id": "burgos-v08-deep-06",
@@ -614,8 +614,8 @@
       "La notificación"
     ],
     "correcta": 0,
-    "explicación": "Clasificar es asignar el documento a una función, actividad o serie; ordenar es colocarlo después en una secuencia determinada.",
-    "referencia": "V.8 · 4.3 Ordenación y descripción"
+    "referencia": "V.8 · 4.3 Ordenación y descripción",
+    "explicacion": "Clasificar es asignar el documento a una función, actividad o serie; ordenar es colocarlo después en una secuencia determinada. La alternativa «La ordenación» no satisface ese criterio; aquí se aplica «La clasificación». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
   },
   {
     "id": "burgos-v08-deep-07",
@@ -628,8 +628,8 @@
       "La vía de recurso contra una resolución que no le afecta"
     ],
     "correcta": 0,
-    "explicación": "El acceso al expediente del artículo 53 LPAC corresponde a los interesados; quien no lo sea puede ejercer, si procede, el derecho general de acceso a información pública.",
-    "referencia": "V.8 · 6.1 Dos derechos que no deben confundirse"
+    "referencia": "V.8 · 6.1 Dos derechos que no deben confundirse",
+    "explicacion": "El acceso al expediente del artículo 53 LPAC corresponde a los interesados; quien no lo sea puede ejercer, si procede, el derecho general de acceso a información pública. Quien no es interesado no accede al expediente por el artículo 53 de la Ley 39/2015; puede solicitar información pública conforme a la Ley 19/2013, con sus límites. La alternativa «El artículo 53 de la Ley 39 2015…» no satisface ese criterio; aquí se aplica «El derecho de acceso a la información pública…»."
   },
   {
     "id": "burgos-v08-deep-08",
@@ -642,8 +642,8 @@
       "debe indicar necesariamente el artículo que fundamenta la petición"
     ],
     "correcta": 0,
-    "explicación": "El solicitante puede exponer motivos, pero la falta de motivación no es por sí sola causa de rechazo.",
-    "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso"
+    "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso",
+    "explicacion": "El solicitante puede exponer motivos, pero la falta de motivación no es por sí sola causa de rechazo. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «debe indicar necesariamente el artículo que fundamenta la…» no satisface ese criterio; aquí se aplica «no tiene que estar motivada obligatoriamente»."
   },
   {
     "id": "burgos-v08-deep-09",
@@ -656,8 +656,8 @@
       "seis meses desde la solicitud"
     ],
     "correcta": 0,
-    "explicación": "El artículo 20 de la Ley 19/2013 fija un mes, con posible ampliación por otro mes si el volumen o la complejidad lo justifican y se informa al solicitante.",
-    "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso"
+    "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso",
+    "explicacion": "El artículo 20 de la Ley 19/2013 fija un mes, con posible ampliación por otro mes si el volumen o la complejidad lo justifican y se informa al solicitante. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «diez días hábiles sin posibilidad de ampliación» no satisface ese criterio; aquí se aplica «un mes ampliable por otro mes por volumen…»."
   },
   {
     "id": "burgos-v08-deep-10",
@@ -670,8 +670,8 @@
       "destruir el documento para evitar riesgos"
     ],
     "correcta": 0,
-    "explicación": "El artículo 16 de la Ley 19/2013 prevé el acceso parcial, con indicación de la parte omitida, salvo que el resultado sea distorsionado o carezca de sentido.",
-    "referencia": "V.8 · 6.3 Límites, protección de datos y acceso parcial"
+    "referencia": "V.8 · 6.3 Límites, protección de datos y acceso parcial",
+    "explicacion": "El artículo 16 de la Ley 19/2013 prevé el acceso parcial, con indicación de la parte omitida, salvo que el resultado sea distorsionado o carezca de sentido. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «denegar siempre todo el documento» no satisface ese criterio; aquí se aplica «conceder acceso parcial omitiendo la parte afectada si…»."
   },
   {
     "id": "burgos-v08-deep-11",
@@ -684,8 +684,8 @@
       "Solo requiere convertir el documento a PDF"
     ],
     "correcta": 0,
-    "explicación": "La eliminación se integra en la evaluación documental y debe respetar las autorizaciones y plazos del sistema archivístico y del patrimonio documental.",
-    "referencia": "V.8 · 4.1 Gestión documental y ciclo de vida"
+    "referencia": "V.8 · 4.1 Gestión documental y ciclo de vida",
+    "explicacion": "La eliminación se integra en la evaluación documental y debe respetar las autorizaciones y plazos del sistema archivístico y del patrimonio documental. La eliminación exige evaluación documental, plazos de conservación y autorización conforme a la normativa archivística; no depende de una decisión individual. La alternativa «Solo requiere convertir el documento a PDF» no satisface ese criterio; aquí se aplica «Requiere evaluación calendario de conservación y autorización conforme…»."
   },
   {
     "id": "burgos-v08-deep-12",
@@ -698,7 +698,7 @@
       "La copia simple requiere siempre actuación administrativa automatizada"
     ],
     "correcta": 0,
-    "explicación": "La copia auténtica se expide con garantías jurídicas y técnicas por órgano competente; la copia simple es una reproducción sin esa certificación.",
-    "referencia": "V.8 · 2.4 Copias y documentos aportados"
+    "referencia": "V.8 · 2.4 Copias y documentos aportados",
+    "explicacion": "La copia auténtica se expide con garantías jurídicas y técnicas por órgano competente; la copia simple es una reproducción sin esa certificación. Una copia auténtica acredita identidad e integridad con intervención competente; una reproducción simple no obtiene esa condición por el mero escaneo. La alternativa «La copia simple siempre tiene la misma eficacia…» no satisface ese criterio; aquí se aplica «La copia auténtica la expide un órgano competente…»."
   }
 ]

@@ -10,11 +10,11 @@
     ],
     "correcta": 0,
     "referencia": "PDF Burgos 2024 estabilización · pregunta 47",
-    "explicación": "La plantilla definitiva del ejercicio oficial de estabilización Burgos 2024 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2024 estabilización"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Alt + F4». Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos. La alternativa «Ctrl + S» no satisface ese criterio; aquí se aplica «Alt + F4». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "pdf-2023-burgos-q14",
@@ -28,11 +28,11 @@
     ],
     "correcta": 2,
     "referencia": "PDF Burgos 2023 · pregunta 14",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Interfaz de usuario». Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware. La alternativa «Virus» no satisface ese criterio; aquí se aplica «Interfaz de usuario»."
   },
   {
     "id": "pdf-2023-burgos-q19",
@@ -46,11 +46,11 @@
     ],
     "correcta": 3,
     "referencia": "PDF Burgos 2023 · pregunta 19",
-    "explicación": "La plantilla definitiva del ejercicio oficial de Burgos 2023 señala esta opción como correcta.",
     "tags": [
       "Pregunta real",
       "Burgos 2023"
-    ]
+    ],
+    "explicacion": "La respuesta correcta es «Un modelo de abuso informático caracterizado por intentar…». La seguridad requiere verificar mensajes, limitar permisos y aplicar controles; ninguna herramienta aislada evita todas las amenazas. La alternativa «Un modelo de previsión de malware a través…» no satisface ese criterio; aquí se aplica «Un modelo de abuso informático caracterizado por intentar…»."
   },
   {
     "id": "t36-p001",
@@ -63,8 +63,8 @@
       "el estudio de la legislación laboral"
     ],
     "correcta": 0,
-    "explicación": "El tema da esa definición básica.",
-    "referencia": "V.9 · 1.1 Qué es la informática"
+    "referencia": "V.9 · 1.1 Qué es la informática",
+    "explicacion": "La respuesta correcta es «la ciencia que estudia el tratamiento automático y…». La alternativa «el conjunto de normas de archivo» no satisface ese criterio; aquí se aplica «la ciencia que estudia el tratamiento automático y…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p002",
@@ -77,8 +77,8 @@
       "publicidad"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera la velocidad entre sus rasgos fundamentales.",
-    "referencia": "V.9 · 1.1 Qué es la informática"
+    "referencia": "V.9 · 1.1 Qué es la informática",
+    "explicacion": "La respuesta correcta es «velocidad». La alternativa «inalienabilidad» no satisface ese criterio; aquí se aplica «velocidad». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p003",
@@ -91,8 +91,8 @@
       "monitor táctil obligatorio"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye el bus entre los elementos de la arquitectura.",
-    "referencia": "V.9 · 2.2 La arquitectura von Neumann"
+    "referencia": "V.9 · 2.2 La arquitectura von Neumann",
+    "explicacion": "La respuesta correcta es «bus». La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «archivo central» no satisface ese criterio; aquí se aplica «bus». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p004",
@@ -105,8 +105,8 @@
       "el programa de correo"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como el componente que interpreta y ejecuta instrucciones.",
-    "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+    "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)",
+    "explicacion": "La respuesta correcta es «el cerebro del ordenador». La alternativa «la unidad de respaldo externo» no satisface ese criterio; aquí se aplica «el cerebro del ordenador». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p005",
@@ -119,8 +119,8 @@
       "inembargable"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como volátil.",
-    "referencia": "V.9 · 2.3.2 La memoria RAM"
+    "referencia": "V.9 · 2.3.2 La memoria RAM",
+    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «permanente» no satisface ese criterio; aquí se aplica «volátil». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p006",
@@ -133,8 +133,8 @@
       "las hojas de cálculo"
     ],
     "correcta": 0,
-    "explicación": "El tema lo sitúa en la ROM.",
-    "referencia": "V.9 · 2.3.3 La memoria ROM"
+    "referencia": "V.9 · 2.3.3 La memoria ROM",
+    "explicacion": "La respuesta correcta es «la BIOS o la UEFI». La alternativa «el navegador web» no satisface ese criterio; aquí se aplica «la BIOS o la UEFI». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p007",
@@ -147,8 +147,8 @@
       "Sistema de archivos"
     ],
     "correcta": 0,
-    "explicación": "El tema lo identifica como conjunto de circuitos de comunicación.",
-    "referencia": "V.9 · 2.3.4 La placa base (motherboard)"
+    "referencia": "V.9 · 2.3.4 La placa base (motherboard)",
+    "explicacion": "La respuesta correcta es «chipset». La alternativa «Panel de control» no satisface ese criterio; aquí se aplica «chipset». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p008",
@@ -161,8 +161,8 @@
       "cifrado de correos"
     ],
     "correcta": 0,
-    "explicación": "El tema la define así.",
-    "referencia": "V.9 · 2.3.5 La tarjeta gráfica (GPU)"
+    "referencia": "V.9 · 2.3.5 La tarjeta gráfica (GPU)",
+    "explicacion": "La respuesta correcta es «procesamiento de gráficos y del envío de la…». La alternativa «almacenamiento masivo de archivos» no satisface ese criterio; aquí se aplica «procesamiento de gráficos y del envío de la…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p009",
@@ -175,8 +175,8 @@
       "cambiar el sistema operativo"
     ],
     "correcta": 0,
-    "explicación": "El tema los define por esa función.",
-    "referencia": "V.9 · 2.4.1 Periféricos de entrada"
+    "referencia": "V.9 · 2.4.1 Periféricos de entrada",
+    "explicacion": "La respuesta correcta es «introducir datos o instrucciones en el ordenador». La alternativa «solo mostrar imágenes» no satisface ese criterio; aquí se aplica «introducir datos o instrucciones en el ordenador». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p010",
@@ -189,8 +189,8 @@
       "convierte la corriente eléctrica"
     ],
     "correcta": 0,
-    "explicación": "El tema le atribuye esa función.",
-    "referencia": "V.9 · 2.5 Los buses del sistema"
+    "referencia": "V.9 · 2.5 Los buses del sistema",
+    "explicacion": "La respuesta correcta es «transporta los datos entre CPU, memoria y periféricos». La alternativa «define los permisos de usuario» no satisface ese criterio; aquí se aplica «transporta los datos entre CPU, memoria y periféricos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p011",
@@ -203,8 +203,8 @@
       "solo las bases de datos relacionales"
     ],
     "correcta": 0,
-    "explicación": "El tema lo indica entre las categorías.",
-    "referencia": "V.9 · 3.2.1 Software de sistema (o software base)"
+    "referencia": "V.9 · 3.2.1 Software de sistema (o software base)",
+    "explicacion": "La respuesta correcta es «el sistema operativo y los controladores». La alternativa «solo los documentos PDF» no satisface ese criterio; aquí se aplica «el sistema operativo y los controladores». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p012",
@@ -217,8 +217,8 @@
       "instalarlo en un solo equipo sin más"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define por esas libertades.",
-    "referencia": "V.9 · 3.3 Clasificación del software según su licencia"
+    "referencia": "V.9 · 3.3 Clasificación del software según su licencia",
+    "explicacion": "La respuesta correcta es «usar, copiar, distribuir, estudiar y modificar el software». La alternativa «solo usarlo sin copiar» no satisface ese criterio; aquí se aplica «usar, copiar, distribuir, estudiar y modificar el software». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p013",
@@ -231,8 +231,8 @@
       "Una aplicación de navegación por internet instalada por defecto"
     ],
     "correcta": 0,
-    "explicación": "El sistema operativo es el software base que administra los recursos del equipo y posibilita la ejecución de aplicaciones.",
-    "referencia": "Informática básica · sistema operativo"
+    "referencia": "Informática básica · sistema operativo",
+    "explicacion": "El sistema operativo es el software base que administra los recursos del equipo y posibilita la ejecución de aplicaciones. La alternativa «Un archivo comprimido que agrupa documentos de un…» no satisface ese criterio; aquí se aplica «El software básico que gestiona los recursos del…»."
   },
   {
     "id": "t36-p014",
@@ -245,8 +245,8 @@
       "contratación pública"
     ],
     "correcta": 0,
-    "explicación": "El tema lo cita en la referencia normativa.",
-    "referencia": "V.9 · Referencia normativa"
+    "referencia": "V.9 · Referencia normativa",
+    "explicacion": "La respuesta correcta es «seguridad informática en el sector público». La alternativa «contabilidad local» no satisface ese criterio; aquí se aplica «seguridad informática en el sector público». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p015",
@@ -259,8 +259,8 @@
       "programas de diseño gráfico"
     ],
     "correcta": 0,
-    "explicación": "El tema los define como objetos cotidianos conectados.",
-    "referencia": "V.9 · 1.2 Tipos de ordenadores"
+    "referencia": "V.9 · 1.2 Tipos de ordenadores",
+    "explicacion": "La respuesta correcta es «objetos cotidianos con capacidad de conexión y procesamiento». La alternativa «solo servidores de alta gama» no satisface ese criterio; aquí se aplica «objetos cotidianos con capacidad de conexión y procesamiento». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p016",
@@ -273,8 +273,8 @@
       "funcionar únicamente en servidores"
     ],
     "correcta": 0,
-    "explicación": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general.",
-    "referencia": "V.9 · 4.2.1 Por el tipo de interfaz"
+    "referencia": "V.9 · 4.2.1 Por el tipo de interfaz",
+    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general. La alternativa «exigir exclusivamente el uso de comandos de texto» no satisface ese criterio; aquí se aplica «permitir la interacción mediante ventanas iconos menús y…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p017",
@@ -287,8 +287,8 @@
       "dos tarjetas gráficas dedicadas"
     ],
     "correcta": 0,
-    "explicación": "El tema menciona expresamente TPM 2.0 y Secure Boot como requisitos de hardware de Windows 11.",
-    "referencia": "V.9 · 4.3.1 Microsoft Windows"
+    "referencia": "V.9 · 4.3.1 Microsoft Windows",
+    "explicacion": "La respuesta correcta es «TPM 2.0 y arranque seguro (Secure Boot)». La alternativa «lectora Blu-ray y puerto VGA» no satisface ese criterio; aquí se aplica «TPM 2.0 y arranque seguro (Secure Boot)». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p018",
@@ -301,8 +301,8 @@
       "duplicar el contenido del disco en la nube"
     ],
     "correcta": 0,
-    "explicación": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente.",
-    "referencia": "V.9 · 4.4 Conceptos clave de los sistemas operativos"
+    "referencia": "V.9 · 4.4 Conceptos clave de los sistemas operativos",
+    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente. La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «duplicar el contenido del disco en la nube» no satisface ese criterio; aquí se aplica «utilizar parte del disco como extensión de la…»."
   },
   {
     "id": "t36-p019",
@@ -315,8 +315,8 @@
       "se basan en platos magnéticos giratorios"
     ],
     "correcta": 0,
-    "explicación": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad.",
-    "referencia": "V.9 · 5.3 La unidad de estado sólido (SSD)"
+    "referencia": "V.9 · 5.3 La unidad de estado sólido (SSD)",
+    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad. La alternativa «solo pueden usarse como almacenamiento externo» no satisface ese criterio; aquí se aplica «no tienen partes móviles». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p020",
@@ -329,8 +329,8 @@
       "los datos deben permanecer cifrados en cualquier circunstancia"
     ],
     "correcta": 0,
-    "explicación": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas.",
-    "referencia": "V.9 · 6.1 Concepto y objetivos"
+    "referencia": "V.9 · 6.1 Concepto y objetivos",
+    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas. La alternativa «los datos deben permanecer cifrados en cualquier circunstancia» no satisface ese criterio; aquí se aplica «los sistemas y la información deben estar accesibles…»."
   },
   {
     "id": "t36-p021",
@@ -343,8 +343,8 @@
       "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
     ],
     "correcta": 2,
-    "explicación": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema.",
-    "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)"
+    "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)",
+    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema. La alternativa «Conjunto unitario de instrucciones que permite a una…» no satisface ese criterio; aquí se aplica «Unidad funcional que se encarga de la busqueda…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p022",
@@ -357,8 +357,8 @@
       "Gestor de contraseñas"
     ],
     "correcta": 2,
-    "explicación": "El tema define el antivirus como el software orientado a detectar, bloquear y eliminar malware.",
-    "referencia": "V.9 · 6.5 El antivirus"
+    "referencia": "V.9 · 6.5 El antivirus",
+    "explicacion": "La respuesta correcta es «Antivirus». Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware. La alternativa «VPN» no satisface ese criterio; aquí se aplica «Antivirus». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t36-p023",
@@ -371,8 +371,8 @@
       "CPU"
     ],
     "correcta": 1,
-    "explicación": "La memoria RAM almacena temporalmente los programas y datos necesarios para su ejecución inmediata.",
-    "referencia": "V.9 · 2.3.2 La memoria RAM"
+    "referencia": "V.9 · 2.3.2 La memoria RAM",
+    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «Disipador» no satisface ese criterio; aquí se aplica «Memoria RAM». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p001",
@@ -385,8 +385,8 @@
       "un sistema de bases de datos"
     ],
     "correcta": 0,
-    "explicación": "El tema lo presenta como sistema operativo de referencia.",
-    "referencia": "V.9 · 1.1 Qué es Windows"
+    "referencia": "V.9 · 1.1 Qué es Windows",
+    "explicacion": "La respuesta correcta es «la versión de referencia actual del sistema operativo…». La alternativa «un sistema de bases de datos» no satisface ese criterio; aquí se aplica «la versión de referencia actual del sistema operativo…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p002",
@@ -399,8 +399,8 @@
       "un disco duro mecánico"
     ],
     "correcta": 0,
-    "explicación": "El tema señala esos requisitos de seguridad.",
-    "referencia": "V.9 · 1.1 Qué es Windows"
+    "referencia": "V.9 · 1.1 Qué es Windows",
+    "explicacion": "La respuesta correcta es «TPM 2.0 y Secure Boot». La alternativa «solo Wi-Fi 6» no satisface ese criterio; aquí se aplica «TPM 2.0 y Secure Boot». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p003",
@@ -413,8 +413,8 @@
       "Access"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera Enterprise entre las ediciones.",
-    "referencia": "V.9 · 1.2 Versiones de Windows 11"
+    "referencia": "V.9 · 1.2 Versiones de Windows 11",
+    "explicacion": "La respuesta correcta es «Enterprise». La alternativa «Writer» no satisface ese criterio; aquí se aplica «Enterprise». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p004",
@@ -427,8 +427,8 @@
       "el uso exclusivo de comandos de voz"
     ],
     "correcta": 0,
-    "explicación": "El tema menciona Snap Layouts como novedad.",
-    "referencia": "V.9 · 1.3 Novedades de Windows 11 respecto a Windows 10"
+    "referencia": "V.9 · 1.3 Novedades de Windows 11 respecto a Windows 10",
+    "explicacion": "La respuesta correcta es «Snap Layouts». La alternativa «la eliminación total del escritorio» no satisface ese criterio; aquí se aplica «Snap Layouts». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p005",
@@ -441,8 +441,8 @@
       "solo los accesos a Word"
     ],
     "correcta": 0,
-    "explicación": "El tema describe esos elementos en la barra.",
-    "referencia": "V.9 · 2.2 La barra de tareas"
+    "referencia": "V.9 · 2.2 La barra de tareas",
+    "explicacion": "La respuesta correcta es «el botón Inicio iconos anclados y el área…». La alternativa «solo el Explorador de archivos» no satisface ese criterio; aquí se aplica «el botón Inicio iconos anclados y el área…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p006",
@@ -455,8 +455,8 @@
       "no tienen icono"
     ],
     "correcta": 0,
-    "explicación": "El tema lo indica expresamente.",
-    "referencia": "V.9 · 2.3 Los iconos del escritorio"
+    "referencia": "V.9 · 2.3 Los iconos del escritorio",
+    "explicacion": "La respuesta correcta es «llevan una pequeña flecha en la esquina inferior…». La alternativa «siempre están en rojo» no satisface ese criterio; aquí se aplica «llevan una pequeña flecha en la esquina inferior…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p007",
@@ -469,8 +469,8 @@
       "solo el explorador clásico"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera esas secciones.",
-    "referencia": "V.9 · 3.1 Estructura del menú Inicio en Windows 11"
+    "referencia": "V.9 · 3.1 Estructura del menú Inicio en Windows 11",
+    "explicacion": "La respuesta correcta es «aplicaciones ancladas y recomendados». La alternativa «solo la papelera» no satisface ese criterio; aquí se aplica «aplicaciones ancladas y recomendados». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p008",
@@ -483,8 +483,8 @@
       "desconecta la batería"
     ],
     "correcta": 0,
-    "explicación": "El tema la define como estado de bajo consumo.",
-    "referencia": "V.9 · 3.2 Opciones de inicio/apagado"
+    "referencia": "V.9 · 3.2 Opciones de inicio/apagado",
+    "explicacion": "La respuesta correcta es «guarda el estado de la sesión en la…». La alternativa «borra todos los documentos» no satisface ese criterio; aquí se aplica «guarda el estado de la sesión en la…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p009",
@@ -497,8 +497,8 @@
       "F2"
     ],
     "correcta": 0,
-    "explicación": "La tecla Windows + E abre el Explorador de archivos; Windows + C no debe tratarse como un atajo estable del programa porque sus funciones pueden cambiar con la versión y la configuración.",
-    "referencia": "V.9 · 5. Explorador de Windows 11"
+    "referencia": "V.9 · 5. Explorador de Windows 11",
+    "explicacion": "La tecla Windows + E abre el Explorador de archivos; Windows + C no debe tratarse como un atajo estable del programa porque sus funciones pueden cambiar con la versión y la configuración. Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos. La alternativa «Windows + C» no satisface ese criterio; aquí se aplica «Windows + E»."
   },
   {
     "id": "t37-p010",
@@ -511,8 +511,8 @@
       "arrastrar la ventana"
     ],
     "correcta": 0,
-    "explicación": "El tema lo define así.",
-    "referencia": "V.9 · 5.3 Los menús contextuales"
+    "referencia": "V.9 · 5.3 Los menús contextuales",
+    "explicacion": "La respuesta correcta es «clic con el botón derecho del ratón». La alternativa «doble clic izquierdo siempre» no satisface ese criterio; aquí se aplica «clic con el botón derecho del ratón». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p011",
@@ -525,8 +525,8 @@
       "administrar usuarios del sistema"
     ],
     "correcta": 0,
-    "explicación": "El tema le atribuye esa función.",
-    "referencia": "V.9 · 6.1 Concepto y acceso"
+    "referencia": "V.9 · 6.1 Concepto y acceso",
+    "explicacion": "La respuesta correcta es «navegar por la estructura de carpetas y archivos…». La alternativa «redactar documentos de Word» no satisface ese criterio; aquí se aplica «navegar por la estructura de carpetas y archivos…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p012",
@@ -539,8 +539,8 @@
       "Contenido"
     ],
     "correcta": 0,
-    "explicación": "El tema señala la vista Detalles como la más informativa.",
-    "referencia": "V.9 · 6.3 Modos de visualización"
+    "referencia": "V.9 · 6.3 Modos de visualización",
+    "explicacion": "La respuesta correcta es «Detalles». La alternativa «Iconos grandes» no satisface ese criterio; aquí se aplica «Detalles». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p013",
@@ -553,8 +553,8 @@
       "impide recuperar nada"
     ],
     "correcta": 0,
-    "explicación": "El tema la presenta como almacenamiento temporal recuperable.",
-    "referencia": "V.9 · 2.3 Los iconos del escritorio"
+    "referencia": "V.9 · 2.3 Los iconos del escritorio",
+    "explicacion": "La respuesta correcta es «almacena temporalmente los archivos eliminados». La alternativa «solo contiene archivos del sistema» no satisface ese criterio; aquí se aplica «almacena temporalmente los archivos eliminados». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p014",
@@ -567,8 +567,8 @@
       "una edición de Windows"
     ],
     "correcta": 0,
-    "explicación": "El tema lo incluye entre las herramientas del entorno.",
-    "referencia": "V.9 · 9.2 Acceso rápido"
+    "referencia": "V.9 · 9.2 Acceso rápido",
+    "explicacion": "La respuesta correcta es «una herramienta para acceder a carpetas y archivos…». La alternativa «una edición de Windows» no satisface ese criterio; aquí se aplica «una herramienta para acceder a carpetas y archivos…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p015",
@@ -581,8 +581,8 @@
       "Calculadora"
     ],
     "correcta": 0,
-    "explicación": "El tema enumera el Administrador de tareas entre las herramientas del sistema.",
-    "referencia": "V.9 · 11.1 Administrador de tareas (Task Manager)"
+    "referencia": "V.9 · 11.1 Administrador de tareas (Task Manager)",
+    "explicacion": "La respuesta correcta es «Administrador de tareas». La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «Papelera de reciclaje» no satisface ese criterio; aquí se aplica «Administrador de tareas»."
   },
   {
     "id": "t37-p016",
@@ -595,8 +595,8 @@
       "Sustituir al Explorador de archivos en la gestión de carpetas"
     ],
     "correcta": 1,
-    "explicación": "El tema presenta Copilot como un asistente de inteligencia artificial capaz de responder preguntas, buscar información y ayudar con acciones del sistema.",
-    "referencia": "V.9 · 4.2 Funciones de Copilot en Windows"
+    "referencia": "V.9 · 4.2 Funciones de Copilot en Windows",
+    "explicacion": "La respuesta correcta es «Actuar como asistente de inteligencia artificial para responder…». La alternativa «Servir exclusivamente como sistema de almacenamiento en la…» no satisface ese criterio; aquí se aplica «Actuar como asistente de inteligencia artificial para responder…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "t37-p017",
@@ -609,8 +609,8 @@
       "Iconos muy grandes, Contenido e Iconos muy pequeños"
     ],
     "correcta": 0,
-    "explicación": "El tema incluye como vistas válidas lista, detalles, contenido, mosaicos e iconos de varios tamaños; no aparece una vista denominada Extendido.",
-    "referencia": "V.9 · 6.3 Modos de visualización"
+    "referencia": "V.9 · 6.3 Modos de visualización",
+    "explicacion": "La respuesta correcta es «Lista, Detalles e Iconos medianos». La alternativa «Mosaico, Iconos medianos y Extendido» no satisface ese criterio; aquí se aplica «Lista, Detalles e Iconos medianos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "burgos-v09-deep-01",
@@ -623,8 +623,8 @@
       "No existe diferencia funcional entre ambos."
     ],
     "correcta": 0,
-    "explicación": "La RAM contiene temporalmente programas y datos en uso; el SSD, HDD u otro soporte de almacenamiento conserva la información aunque el equipo se apague.",
-    "referencia": "V.9 · 2.2. Memoria y almacenamiento"
+    "referencia": "V.9 · 2.2. Memoria y almacenamiento",
+    "explicacion": "La RAM contiene temporalmente programas y datos en uso; el SSD, HDD u otro soporte de almacenamiento conserva la información aunque el equipo se apague. La alternativa «La RAM conserva siempre los archivos y el…» no satisface ese criterio; aquí se aplica «La RAM es normalmente volátil y el almacenamiento…»."
   },
   {
     "id": "burgos-v09-deep-02",
@@ -637,8 +637,8 @@
       "Garantizar por sí solo que ningún usuario sufra phishing."
     ],
     "correcta": 0,
-    "explicación": "El sistema operativo coordina procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y sirve de base para las aplicaciones.",
-    "referencia": "V.9 · 3. Software y sistema operativo"
+    "referencia": "V.9 · 3. Software y sistema operativo",
+    "explicacion": "El sistema operativo coordina procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y sirve de base para las aplicaciones. La alternativa «Sustituir físicamente la memoria RAM» no satisface ese criterio; aquí se aplica «Administrar recursos del equipo y permitir la ejecución…»."
   },
   {
     "id": "burgos-v09-deep-03",
@@ -651,8 +651,8 @@
       "Un procesador exclusivamente de 32 bits."
     ],
     "correcta": 0,
-    "explicación": "Microsoft incluye TPM 2.0 y firmware UEFI con capacidad de Secure Boot entre los requisitos mínimos de Windows 11.",
-    "referencia": "V.9 · 4.2. Requisitos y estados de energía"
+    "referencia": "V.9 · 4.2. Requisitos y estados de energía",
+    "explicacion": "Microsoft exige TPM 2.0 y firmware UEFI con capacidad de arranque seguro, además de procesador, memoria, almacenamiento y gráficos compatibles. La alternativa «Dos tarjetas gráficas dedicadas obligatorias» no satisface ese criterio; aquí se aplica «TPM 2 0 y firmware UEFI con capacidad…»."
   },
   {
     "id": "burgos-v09-deep-04",
@@ -665,8 +665,8 @@
       "Se convierte automáticamente en un acceso directo."
     ],
     "correcta": 0,
-    "explicación": "Copiar conserva el original y crea una copia en el destino; cortar y pegar es la operación habitual para trasladar un elemento.",
-    "referencia": "V.9 · 5. Explorador de Windows 11"
+    "referencia": "V.9 · 5. Explorador de Windows 11",
+    "explicacion": "Copiar conserva el original y crea una copia en el destino; cortar y pegar es la operación habitual para trasladar un elemento. La alternativa «El original se elimina siempre» no satisface ese criterio; aquí se aplica «Se crea otra copia y el original permanece…»."
   },
   {
     "id": "burgos-v09-deep-05",
@@ -679,8 +679,8 @@
       "Eliminar la carpeta seleccionada."
     ],
     "correcta": 0,
-    "explicación": "La ruta identifica la ubicación actual, que puede ser una carpeta local, una unidad o una ubicación de red.",
-    "referencia": "V.9 · 5. Explorador de Windows 11"
+    "referencia": "V.9 · 5. Explorador de Windows 11",
+    "explicacion": "La ruta identifica la ubicación actual, que puede ser una carpeta local, una unidad o una ubicación de red. La alternativa «Indicar la contraseña del usuario» no satisface ese criterio; aquí se aplica «Mostrar la ubicación en la que se está…»."
   },
   {
     "id": "burgos-v09-deep-06",
@@ -693,8 +693,8 @@
       "Es la extensión obligatoria de cualquier documento administrativo."
     ],
     "correcta": 0,
-    "explicación": "El acceso directo facilita el acceso, pero no sustituye al archivo original ni constituye por sí mismo una copia de seguridad.",
-    "referencia": "V.9 · 6. Gestión de carpetas y archivos"
+    "referencia": "V.9 · 6. Gestión de carpetas y archivos",
+    "explicacion": "El acceso directo facilita el acceso, pero no sustituye al archivo original ni constituye por sí mismo una copia de seguridad. La alternativa «Es una copia completa e independiente del archivo…» no satisface ese criterio; aquí se aplica «Es un enlace que permite abrir el archivo…»."
   },
   {
     "id": "burgos-v09-deep-07",
@@ -707,8 +707,8 @@
       "Portabilidad."
     ],
     "correcta": 0,
-    "explicación": "La confidencialidad limita el acceso a personas autorizadas; la integridad protege frente a alteraciones y la disponibilidad frente a interrupciones.",
-    "referencia": "V.9 · 7. Nociones básicas de seguridad informática"
+    "referencia": "V.9 · 7. Nociones básicas de seguridad informática",
+    "explicacion": "La confidencialidad limita el acceso a personas autorizadas; la integridad protege frente a alteraciones y la disponibilidad frente a interrupciones. La alternativa «Disponibilidad» no satisface ese criterio; aquí se aplica «Confidencialidad». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "burgos-v09-deep-08",
@@ -721,8 +721,8 @@
       "Descargar el adjunto antes de decidir."
     ],
     "correcta": 0,
-    "explicación": "Es un patrón de phishing. La urgencia y la solicitud de credenciales no justifican pulsar el enlace; debe verificarse y comunicarse sin difundirlo innecesariamente.",
-    "referencia": "V.9 · 7. Nociones básicas de seguridad informática"
+    "referencia": "V.9 · 7. Nociones básicas de seguridad informática",
+    "explicacion": "Es un patrón de phishing. La urgencia y la solicitud de credenciales no justifican pulsar el enlace; debe verificarse y comunicarse sin difundirlo innecesariamente. La alternativa «Responder con la contraseña para confirmar la identidad» no satisface ese criterio; aquí se aplica «No pulsar el enlace verificar el mensaje por…»."
   },
   {
     "id": "burgos-v09-deep-09",
@@ -735,8 +735,8 @@
       "El Código Penal como única regulación."
     ],
     "correcta": 0,
-    "explicación": "El Real Decreto 311/2022 regula actualmente el ENS y derogó el Real Decreto 3/2010.",
-    "referencia": "V.9 · 7. Nociones básicas de seguridad informática"
+    "referencia": "V.9 · 7. Nociones básicas de seguridad informática",
+    "explicacion": "El Real Decreto 311/2022 regula actualmente el ENS y derogó el Real Decreto 3/2010. La alternativa «El Real Decreto 3 2010 que continúa siendo…» no satisface ese criterio; aquí se aplica «El Real Decreto 311/2022». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "burgos-v09-deep-10",
@@ -749,8 +749,8 @@
       "Mayús + Supr."
     ],
     "correcta": 0,
-    "explicación": "Alt + Tabulador cambia entre las ventanas abiertas; Windows + E abre el Explorador y F2 cambia el nombre del elemento seleccionado.",
-    "referencia": "V.9 · 4.3. Atajos frecuentes"
+    "referencia": "V.9 · 4.3. Atajos frecuentes",
+    "explicacion": "Alt + Tabulador cambia entre las ventanas abiertas; Windows + E abre el Explorador y F2 cambia el nombre del elemento seleccionado. Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos. La alternativa «F2» no satisface ese criterio; aquí se aplica «Alt + Tabulador»."
   },
   {
     "id": "burgos-v09-deep-11",
@@ -763,8 +763,8 @@
       "Eliminar solo cambia el nombre y nunca la ubicación."
     ],
     "correcta": 0,
-    "explicación": "La Papelera es un almacenamiento temporal para determinadas eliminaciones, pero no interviene en todas y no equivale a un archivo ni a una copia de seguridad.",
-    "referencia": "V.9 · 5. Explorador de Windows 11"
+    "referencia": "V.9 · 5. Explorador de Windows 11",
+    "explicacion": "La Papelera es un almacenamiento temporal para determinadas eliminaciones, pero no interviene en todas y no equivale a un archivo ni a una copia de seguridad. La alternativa «Son siempre operaciones idénticas e irreversibles» no satisface ese criterio; aquí se aplica «La Papelera puede permitir su restauración algunas eliminaciones…»."
   },
   {
     "id": "burgos-v09-deep-12",
@@ -777,8 +777,8 @@
       "Compartirlo por correo con cualquier compañero aunque no intervenga en el expediente."
     ],
     "correcta": 0,
-    "explicación": "La documentación administrativa debe mantenerse en sistemas autorizados, con acceso por necesidad, trazabilidad, copias y conservación conforme al procedimiento corporativo.",
-    "referencia": "V.9 · 6. Gestión de carpetas y archivos"
+    "referencia": "V.9 · 6. Gestión de carpetas y archivos",
+    "explicacion": "La documentación administrativa debe mantenerse en sistemas autorizados, con acceso por necesidad, trazabilidad, copias y conservación conforme al procedimiento corporativo. La alternativa «Conservar la única versión en el escritorio para…» no satisface ese criterio; aquí se aplica «Guardarlo en el sistema corporativo autorizado respetar permisos…»."
   },
   {
     "id": "estado2026-extra-t40-01",
@@ -791,11 +791,11 @@
       "Antivirus"
     ],
     "correcta": 0,
-    "explicación": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones.",
     "referencia": "Examen Estado 2026, informática básica; Tema V.9",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones. La alternativa «Byte» no satisface ese criterio; aquí se aplica «Procesador o CPU». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t40-02",
@@ -808,11 +808,11 @@
       "Compresor de archivos"
     ],
     "correcta": 0,
-    "explicación": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso.",
     "referencia": "Examen Estado 2026, seguridad informática; Tema V.9",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso. Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware. La alternativa «Gestor de contraseñas» no satisface ese criterio; aquí se aplica «Antivirus»."
   },
   {
     "id": "estado2026-extra-t40-03",
@@ -825,11 +825,11 @@
       "Tarjeta de red"
     ],
     "correcta": 0,
-    "explicación": "La memoria RAM almacena temporalmente datos y procesos utilizados durante la ejecución.",
     "referencia": "Examen Estado 2026, hardware; Tema V.9",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «ROM de arranque» no satisface ese criterio; aquí se aplica «Memoria RAM». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t40-04",
@@ -842,11 +842,11 @@
       "3.000.000 KB"
     ],
     "correcta": 0,
-    "explicación": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB.",
     "referencia": "Examen Estado 2026, unidades de información; Tema V.9",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB. La alternativa «3.000 KB» no satisface ese criterio; aquí se aplica «30.000.000 KB». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   },
   {
     "id": "estado2026-extra-t40-05",
@@ -859,11 +859,11 @@
       "La papelera de reciclaje"
     ],
     "correcta": 0,
-    "explicación": "Windows 11 permite acceder a notificaciones desde el área de calendario y notificación en la esquina inferior derecha.",
     "referencia": "Examen Estado 2026, Windows 11; Tema V.9",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Windows 11 permite acceder a notificaciones desde el área de calendario y notificación en la esquina inferior derecha. La alternativa «El Panel de control clásico exclusivamente» no satisface ese criterio; aquí se aplica «El Centro de actividades o área de calendario…»."
   },
   {
     "id": "estado2026-extra-t40-06",
@@ -876,10 +876,10 @@
       "Eliminar automáticamente malware"
     ],
     "correcta": 0,
-    "explicación": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto.",
     "referencia": "Examen Estado 2026, Windows 11; Tema V.9",
     "tags": [
       "Pregunta real"
-    ]
+    ],
+    "explicacion": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto. La alternativa «Comprimir archivos del sistema» no satisface ese criterio; aquí se aplica «Permitir asistencia remota compartiendo pantalla o dando control…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
   }
 ]
