@@ -8,7 +8,7 @@ estado: "revisado"
 
 ## 1. Normativa y mapa del tema
 
-El núcleo normativo es la **Constitución Española (arts. 137 y 140)**, la **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LBRL, arts. 11 a 18)**, el **Real Decreto 1690/1986**, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales, y las instrucciones técnicas estatales sobre gestión del padrón, especialmente la Resolución publicada por el **BOE en 2020**. Deben tenerse presentes también la legislación electoral, la normativa de protección de datos y, en el ámbito autonómico, la Ley 1/1998 de Régimen Local de Castilla y León.
+El núcleo normativo es la **Constitución Española (arts. 137 y 140)**, la **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local** (LBRL, arts. 11 a 18), el **Real Decreto 1690/1986**, por el que se aprueba el Reglamento de Población y Demarcación Territorial de las Entidades Locales, y las instrucciones técnicas estatales sobre gestión del padrón, especialmente la [Resolución de 29 de abril de 2020 publicada en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2020-4784). Deben tenerse presentes también la legislación electoral, la normativa de protección de datos y, en el ámbito autonómico, la Ley 1/1998 de Régimen Local de Castilla y León.
 
 La secuencia que conviene memorizar es:
 
@@ -133,9 +133,9 @@ La formación, mantenimiento, revisión y custodia del padrón corresponde al **
 
 El **<mark>Instituto Nacional de Estadística (INE)</mark>** coordina los padrones municipales: recibe los datos, realiza comprobaciones y puede comunicar reparos. La coordinación no sustituye al Ayuntamiento en la formación y custodia del padrón.
 
-El **<mark>Consejo de Empadronamiento</mark>**, adscrito al Ministerio de Hacienda, es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales. Sus funciones especialmente preguntables son:
+El **<mark>Consejo de Empadronamiento</mark>**, adscrito al departamento ministerial competente en materia de Hacienda, es un órgano colegiado de colaboración entre la Administración General del Estado y las entidades locales. Sus funciones especialmente preguntables son:
 
-- elevar propuesta vinculante para resolver discrepancias padronales entre Ayuntamientos, Diputaciones, Cabildos, Consejos insulares o estos entes y el INE;
+- elevar a la Presidencia del INE una propuesta vinculante para resolver discrepancias padronales entre Ayuntamientos, Diputaciones, Cabildos, Consejos insulares o estos entes y el INE;
 - informar con carácter vinculante las propuestas sobre cifras oficiales de población;
 - proponer instrucciones técnicas para la gestión de los padrones.
 

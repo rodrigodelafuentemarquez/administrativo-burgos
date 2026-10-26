@@ -2,55 +2,55 @@
   {
     "tema": 1,
     "archivo": "tema-01.json",
-    "preguntas": 26,
+    "preguntas": 36,
     "título": "Tema I.1 · La Constitución Española (I): estructura. Los principios constitucionales y valores superiores. Derechos y deberes fundamentales: su garantía y suspensión."
   },
   {
     "tema": 2,
     "archivo": "tema-02.json",
-    "preguntas": 87,
+    "preguntas": 95,
     "título": "Tema I.2 · La Constitución Española (II): la Corona: funciones constitucionales del Rey. Sucesión y regencia. Las Cortes Generales: composición, atribuciones y funcionamiento. El Gobierno y la Administración. El Poder Judicial."
   },
   {
     "tema": 3,
     "archivo": "tema-03.json",
-    "preguntas": 27,
+    "preguntas": 41,
     "título": "Tema I.3 · La Constitución Española (III): la organización territorial del Estado español. Las comunidades autónomas: estatutos de autonomía y proceso de constitución. Distribución de competencias entre el Estado y las comunidades autónomas."
   },
   {
     "tema": 4,
     "archivo": "tema-04.json",
-    "preguntas": 29,
+    "preguntas": 39,
     "título": "Tema I.4 · El Gobierno y la Administración del Estado, la administración pública en el Ordenamiento Jurídico Español."
   },
   {
     "tema": 5,
     "archivo": "tema-05.json",
-    "preguntas": 31,
+    "preguntas": 39,
     "título": "Tema I.5 · Las entidades locales: tipología. Régimen local español: contenido y principios generales de la Ley de Bases de Régimen Local y de la Ley de Haciendas Locales."
   },
   {
     "tema": 6,
     "archivo": "tema-06.json",
-    "preguntas": 29,
+    "preguntas": 32,
     "título": "Tema I.6 · El municipio: concepto y elementos. El término municipal. La población: especial referencia al empadronamiento."
   },
   {
     "tema": 7,
     "archivo": "tema-07.json",
-    "preguntas": 34,
+    "preguntas": 44,
     "título": "Tema I.7 · La organización política y administrativa del Ayuntamiento de Burgos: el Pleno, el alcalde, los tenientes de alcalde y la Junta de Gobierno Local. La Secretaría General. La Intervención General. El órgano de Gestión Tributaria."
   },
   {
     "tema": 8,
     "archivo": "tema-08.json",
-    "preguntas": 44,
+    "preguntas": 52,
     "título": "Tema I.8 · La Unión Europea. Las instituciones comunitarias: el Consejo Europeo, el Consejo de la Unión Europea, el Parlamento Europeo, la Comisión Europea y el Tribunal de Justicia de la Unión Europea."
   },
   {
     "tema": 9,
     "archivo": "tema-09.json",
-    "preguntas": 58,
+    "preguntas": 66,
     "título": "Tema I.9 · La Comunidad de Castilla y León. El Estatuto de Autonomía: estructura, derechos y principios rectores. Competencias de la Comunidad Autónoma de Castilla y León. Reforma del Estatuto."
   },
   {
@@ -62,7 +62,7 @@
   {
     "tema": 11,
     "archivo": "tema-11.json",
-    "preguntas": 27,
+    "preguntas": 37,
     "título": "Tema II.2 · El acto administrativo: concepto, clases y elementos. Su motivación y notificación. Eficacia y validez de los actos administrativos."
   },
   {
@@ -74,13 +74,13 @@
   {
     "tema": 13,
     "archivo": "tema-13.json",
-    "preguntas": 49,
+    "preguntas": 61,
     "título": "Tema II.4 · La revisión de los actos administrativos: revisión de oficio. Recursos administrativos: alzada, reposición y extraordinario de revisión. La revocación y la rectificación de los actos administrativos. La jurisdicción contencioso-administrativa: concepto y naturaleza."
   },
   {
     "tema": 14,
     "archivo": "tema-14.json",
-    "preguntas": 28,
+    "preguntas": 39,
     "título": "Tema II.5 · El régimen jurídico del sector público: principios de actuación y funcionamiento. Los órganos de las administraciones públicas: especial referencia a los órganos colegiados. La atribución de competencias a los órganos administrativos: desconcentración, delegación, avocación, encomienda de gestión, delegación de firma y suplencia."
   },
   {
@@ -98,13 +98,13 @@
   {
     "tema": 17,
     "archivo": "tema-17.json",
-    "preguntas": 25,
+    "preguntas": 35,
     "título": "Tema II.8 · La potestad sancionadora: concepto y significado. Principios del ejercicio de la potestad sancionadora. Especialidades del procedimiento en materia sancionadora. Medidas sancionadoras administrativas. Especial referencia a la potestad sancionadora local."
   },
   {
     "tema": 18,
     "archivo": "tema-18.json",
-    "preguntas": 20,
+    "preguntas": 30,
     "título": "Tema II.9 · Los bienes de las entidades locales: concepto, clases. Bienes de dominio público local. Bienes patrimoniales locales, enajenación, cesión y utilización."
   },
   {
@@ -116,7 +116,7 @@
   {
     "tema": 20,
     "archivo": "tema-20.json",
-    "preguntas": 20,
+    "preguntas": 32,
     "título": "Tema II.11 · Funcionamiento de los órganos colegiados locales. Convocatorias y orden del día. Requisitos para su constitución. Votaciones."
   },
   {
@@ -176,7 +176,7 @@
   {
     "tema": 30,
     "archivo": "tema-30.json",
-    "preguntas": 22,
+    "preguntas": 30,
     "título": "Tema IV.4 · El control del gasto público. El control interno: la función interventora y el control financiero. El control externo realizado por el Tribunal de Cuentas, el Consejo de Cuentas de Castilla y León y las Cortes de Castilla y León."
   },
   {
@@ -194,19 +194,19 @@
   {
     "tema": 33,
     "archivo": "tema-33.json",
-    "preguntas": 36,
+    "preguntas": 48,
     "título": "Tema V.2 · La Ley 19/2013, de 9 de diciembre, de Transparencia, Acceso a la Información Pública y Buen Gobierno: publicidad activa. Información debida. Derecho de acceso a la información pública: delimitación del derecho de acceso y ejercicio del derecho de acceso a la información pública."
   },
   {
     "tema": 34,
     "archivo": "tema-34.json",
-    "preguntas": 35,
+    "preguntas": 36,
     "título": "Tema V.3 · Atención al público. Atención de personas con discapacidad. Los servicios de información administrativa. Información general y particular al ciudadano. Iniciativas. Reclamaciones. Quejas. Peticiones."
   },
   {
     "tema": 35,
     "archivo": "tema-35.json",
-    "preguntas": 26,
+    "preguntas": 36,
     "título": "Tema V.4 · Las oficinas de asistencia en materia de registros del Ayuntamiento de Burgos: organización y funcionamiento. Funciones."
   },
   {
@@ -230,19 +230,19 @@
   {
     "tema": 39,
     "archivo": "tema-39.json",
-    "preguntas": 37,
+    "preguntas": 49,
     "título": "Tema V.8 · El concepto de documento. Formación del expediente. El expediente electrónico. El archivo de los documentos administrativos. Clases de archivos y criterios de ordenación. Archivo electrónico de documentos. El acceso a los documentos administrativos: sus limitaciones y formas de acceso."
   },
   {
     "tema": 40,
     "archivo": "tema-40.json",
-    "preguntas": 49,
+    "preguntas": 61,
     "título": "Tema V.9 · Informatica básica. Principales componentes de un ordenador. Sistemas operativos: especial referencia a Windows 11. El explorador de Windows 11. Gestión de carpetas y archivos. Nociones básicas de seguridad informática."
   },
   {
     "tema": 41,
     "archivo": "tema-41.json",
-    "preguntas": 35,
+    "preguntas": 47,
     "título": "Tema V.10 · Sistemas ofimaticos colaborativos. Procesadores de textos: Word para Microsoft 365. Hojas de calculo: Excel para Microsoft 365. Funciones y utilidades."
   },
   {

@@ -88,7 +88,7 @@ La moción de censura no es una simple votación de desaprobación: debe propone
 
 El Gobierno cesa tras la celebración de elecciones generales, en los casos de pérdida de confianza parlamentaria previstos en la Constitución, por dimisión o fallecimiento del Presidente. El Gobierno cesante continúa en funciones hasta la toma de posesión del nuevo Gobierno.
 
-Durante ese periodo, el Gobierno en funciones facilita el normal desarrollo del proceso de formación del nuevo Gobierno y el traspaso de poderes, y limita su gestión al despacho ordinario de los asuntos públicos. No puede aprobar el proyecto de ley de presupuestos ni presentar proyectos de ley a las Cortes. El Presidente en funciones tampoco puede proponer la disolución de las Cámaras, plantear la cuestión de confianza ni proponer la convocatoria de referéndum consultivo. Estas limitaciones son una de las trampas más frecuentes del tema.
+Durante ese periodo, el Gobierno en funciones facilita el normal desarrollo del proceso de formación del nuevo Gobierno y el traspaso de poderes, y limita su gestión al despacho ordinario de los asuntos públicos. El artículo 21.3 de la Ley 50/1997 permite adoptar otras medidas en casos de urgencia debidamente acreditados o por razones de interés general cuya acreditación expresa lo justifique. Esta salvedad no elimina las prohibiciones específicas del apartado 4: el Gobierno en funciones no puede aprobar el proyecto de ley de presupuestos ni presentar proyectos de ley a las Cortes; el Presidente en funciones tampoco puede proponer la disolución de las Cámaras, plantear la cuestión de confianza ni proponer la convocatoria de referéndum consultivo. Distingue la regla general y su salvedad de estas facultades expresamente vedadas.
 
 ## 4. La Administración Pública en el ordenamiento jurídico
 
@@ -154,7 +154,7 @@ El sector público institucional incluye organismos públicos y entidades de der
 
 ### 6.2. Garantías y controles constitucionales
 
-El <mark>artículo 105 CE</mark> reserva a la ley la audiencia de la ciudadanía en la elaboración de disposiciones administrativas que le afecten, el acceso a archivos y registros con los límites legales y el procedimiento de producción de los actos administrativos, garantizando la audiencia del interesado cuando proceda.
+El <mark>artículo 105 CE</mark> reserva a la ley la audiencia de la ciudadanía en la elaboración de disposiciones administrativas que le afecten, el acceso a archivos y registros y el procedimiento de producción de los actos administrativos, garantizando la audiencia del interesado cuando proceda. Para el acceso, el artículo 105.b menciona como excepciones las materias que afecten a la seguridad y defensa del Estado, la averiguación de delitos y la intimidad de las personas; la legislación desarrolla el derecho y sus límites.
 
 El <mark>artículo 106 CE</mark> atribuye a los tribunales el control de la potestad reglamentaria y de la legalidad de la actuación administrativa, así como el sometimiento de esta a los fines que la justifican. El artículo 107 define al <mark>Consejo de Estado</mark> como supremo órgano consultivo del Gobierno. No es un órgano de control jurisdiccional ni sustituye a los tribunales.
 

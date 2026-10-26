@@ -15,7 +15,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La respuesta correcta es «Las funciones administrativas de vigilancia, inspección y control». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «Las relaciones interiores» no satisface ese criterio; aquí se aplica «Las funciones administrativas de vigilancia, inspección y control»."
+    "explicacion": "La respuesta correcta es «Las funciones administrativas de vigilancia, inspección y control». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "pdf-2025-burgos-q51",
@@ -33,7 +33,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La respuesta correcta es «Portal de transparencia». La alternativa «Consejo de transparencia y Buen Gobierno» no satisface ese criterio; aquí se aplica «Portal de transparencia». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 10 LTAIBG crea el Portal de Transparencia para facilitar el acceso centralizado a información publicada por la Administración General del Estado."
   },
   {
     "id": "pdf-2023-burgos-q50",
@@ -51,21 +51,21 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Ley 19/2013, de 9 de diciembre». La alternativa «Ley 39/2015, de 1 de octubre» no satisface ese criterio; aquí se aplica «Ley 19/2013, de 9 de diciembre». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La Ley 19/2013 regula transparencia, acceso a la información pública y buen gobierno, sin perjuicio de la normativa autonómica y local aplicable."
   },
   {
     "id": "t21-p001",
     "tema": 33,
     "pregunta": "Según el art. 2 LTBG, la LTBG se aplica a:",
     "opciones": [
-      "las Entidades Locales",
       "solo la Administración General del Estado",
       "únicamente las sociedades mercantiles privadas",
-      "solo los partidos políticos"
+      "solo los partidos políticos",
+      "las Entidades Locales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 1.2 Ámbito de aplicación subjetivo (art. 2 LTBG)",
-    "explicacion": "La respuesta correcta es «las Entidades Locales». La alternativa «únicamente las sociedades mercantiles privadas» no satisface ese criterio; aquí se aplica «las Entidades Locales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 2 incluye a las entidades que integran la Administración local dentro del ámbito subjetivo de la Ley 19/2013."
   },
   {
     "id": "t21-p002",
@@ -79,49 +79,49 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 1.1 Concepto y fundamento",
-    "explicacion": "La respuesta correcta es «publicidad activa, derecho de acceso y buen gobierno». La alternativa «registro, archivo y notificación» no satisface ese criterio; aquí se aplica «publicidad activa, derecho de acceso y buen gobierno». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La ley combina tres piezas: publicidad activa, derecho de acceso a información pública y principios y obligaciones de buen gobierno."
   },
   {
     "id": "t21-p003",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, la publicidad activa consiste en:",
     "opciones": [
-      "publicar de oficio información relevante sin necesidad de solicitud previa",
       "entregar solo la información reservada al interesado",
+      "publicar de oficio información relevante sin necesidad de solicitud previa",
       "denegar cualquier acceso a datos internos",
       "publicar únicamente sentencias judiciales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 2.1 Concepto",
-    "explicacion": "La respuesta correcta es «publicar de oficio información relevante sin necesidad de…». La alternativa «publicar únicamente sentencias judiciales» no satisface ese criterio; aquí se aplica «publicar de oficio información relevante sin necesidad de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La publicidad activa obliga a difundir de oficio información relevante; el acceso a petición se inicia cuando una persona presenta una solicitud."
   },
   {
     "id": "t21-p004",
     "tema": 33,
     "pregunta": "Según el art. 6 LTBG, la información institucional, organizativa y de planificación incluye:",
     "opciones": [
-      "las funciones, la normativa aplicable y la estructura organizativa",
       "solo las sanciones disciplinarias firmes",
       "únicamente los convenios colectivos",
+      "las funciones, la normativa aplicable y la estructura organizativa",
       "solo las resoluciones judiciales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 2.2 Información objeto de publicidad activa (art. 6 LTBG)",
-    "explicacion": "Ese es el contenido del art. 6 LTBG recogido en el tema. Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria. La alternativa «solo las resoluciones judiciales» no satisface ese criterio; aquí se aplica «las funciones la normativa aplicable y la estructura…»."
+    "explicacion": "Ese es el contenido del art. 6 LTBG recogido en el tema. Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria."
   },
   {
     "id": "t21-p005",
     "tema": 33,
     "pregunta": "Según el art. 7 LTBG, la información de relevancia jurídica comprende:",
     "opciones": [
-      "Directrices, instrucciones, acuerdos, circulares o respuestas a consultas planteadas por particulares u otros órganos con efectos jurídicos externos",
       "Únicamente los presupuestos, las cuentas anuales y los estados de ejecución",
       "Solo la información estadística necesaria para valorar la calidad de los servicios públicos",
-      "Exclusivamente las resoluciones judiciales firmes que afecten a la entidad"
+      "Exclusivamente las resoluciones judiciales firmes que afecten a la entidad",
+      "Directrices, instrucciones, acuerdos, circulares o respuestas a consultas planteadas por particulares u otros órganos con efectos jurídicos externos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Ley 19/2013 · art. 7",
-    "explicacion": "El art. 7 LTBG incluye dentro de la información de relevancia jurídica las instrucciones, circulares y respuestas con efectos jurídicos externos. Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria. La alternativa «Únicamente los presupuestos las cuentas anuales y los…» no satisface ese criterio; aquí se aplica «Directrices instrucciones acuerdos circulares o respuestas a consultas…»."
+    "explicacion": "El art. 7 LTBG incluye dentro de la información de relevancia jurídica las instrucciones, circulares y respuestas con efectos jurídicos externos. Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria."
   },
   {
     "id": "t21-p006",
@@ -135,49 +135,49 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 2.2 Información objeto de publicidad activa (art. 8 LTBG)",
-    "explicacion": "La respuesta correcta es «los contratos, los convenios y las subvenciones». Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria. La alternativa «solo las normas urbanísticas» no satisface ese criterio; aquí se aplica «los contratos, los convenios y las subvenciones»."
+    "explicacion": "La respuesta correcta es «los contratos, los convenios y las subvenciones». Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria."
   },
   {
     "id": "t21-p007",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, ¿cuál de los siguientes es un límite citado por el a la publicidad activa?",
     "opciones": [
-      "la seguridad nacional",
       "la simpatía del órgano gestor",
+      "la seguridad nacional",
       "la comodidad administrativa",
       "la antigüedad del expediente"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 2.3 Límites a la publicidad activa",
-    "explicacion": "La respuesta correcta es «la seguridad nacional». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «la simpatía del órgano gestor» no satisface ese criterio; aquí se aplica «la seguridad nacional»."
+    "explicacion": "La respuesta correcta es «la seguridad nacional». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "t21-p008",
     "tema": 33,
     "pregunta": "Según el art. 12 LTBG, el derecho de acceso a la información pública corresponde:",
     "opciones": [
-      "a cualquier persona, sin necesidad de ser ciudadana española ni residente",
       "solo a los concejales y diputados",
       "exclusivamente a los interesados en un expediente sancionador",
+      "a cualquier persona, sin necesidad de ser ciudadana española ni residente",
       "solo a los funcionarios públicos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 3.1 Concepto y titularidad (art. 12 LTBG)",
-    "explicacion": "La respuesta correcta es «a cualquier persona sin necesidad de ser ciudadana…». La alternativa «solo a los concejales y diputados» no satisface ese criterio; aquí se aplica «a cualquier persona sin necesidad de ser ciudadana…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 12 reconoce el derecho a cualquier persona, no solo a españoles o residentes, en los términos de la ley."
   },
   {
     "id": "t21-p009",
     "tema": 33,
     "pregunta": "Según los arts. 17-18 LTBG, para ejercer el derecho de acceso:",
     "opciones": [
-      "no es necesario motivar la solicitud",
       "siempre hay que justificar un interés legítimo",
       "solo puede pedirse por abogado",
-      "la solicitud debe ir firmada por dos testigos"
+      "la solicitud debe ir firmada por dos testigos",
+      "no es necesario motivar la solicitud"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 3.2 Ejercicio del derecho (arts. 17-18 LTBG)",
-    "explicacion": "La respuesta correcta es «no es necesario motivar la solicitud». El artículo 17 permite solicitar información sin expresar los motivos; no se exige acreditar interés legítimo para ejercer el derecho. La alternativa «la solicitud debe ir firmada por dos testigos» no satisface ese criterio; aquí se aplica «no es necesario motivar la solicitud»."
+    "explicacion": "La respuesta correcta es «no es necesario motivar la solicitud». El artículo 17 permite solicitar información sin expresar los motivos; no se exige acreditar interés legítimo para ejercer el derecho."
   },
   {
     "id": "t21-p010",
@@ -191,105 +191,105 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 3.3 Plazo de resolución (art. 20 LTBG)",
-    "explicacion": "La respuesta correcta es «1 mes ampliable a otro mes cuando el…». El artículo 20 fija un mes para resolver, ampliable por otro si el volumen o la complejidad lo justifican y se informa al solicitante. La alternativa «10 días, improrrogables» no satisface ese criterio; aquí se aplica «1 mes ampliable a otro mes cuando el…»."
+    "explicacion": "La respuesta correcta es «1 mes ampliable a otro mes cuando el…». El artículo 20 fija un mes para resolver, ampliable por otro si el volumen o la complejidad lo justifican y se informa al solicitante."
   },
   {
     "id": "t21-p011",
     "tema": 33,
     "pregunta": "Según el art. 20 LTBG, si transcurre el plazo sin resolver una solicitud de acceso, se entiende:",
     "opciones": [
-      "desestimada por silencio negativo",
       "estimada por silencio positivo",
+      "desestimada por silencio negativo",
       "caducada sin efectos",
       "suspendida automáticamente"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 3.3 Plazo de resolución (art. 20 LTBG)",
-    "explicacion": "El artículo 20.4 atribuye carácter desestimatorio al silencio en la solicitud de acceso, sin perjuicio de la reclamación potestativa. La alternativa «estimada por silencio positivo» no satisface ese criterio; aquí se aplica «desestimada por silencio negativo». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 20.4 atribuye carácter desestimatorio al silencio en la solicitud de acceso, sin perjuicio de la reclamación potestativa."
   },
   {
     "id": "t21-p015",
     "tema": 33,
     "pregunta": "Según los arts. 33-40 LTBG, la reclamación ante el Consejo de Transparencia y Buen Gobierno es:",
     "opciones": [
-      "potestativa y previa o alternativa al recurso contencioso-administrativo",
       "obligatoria antes de cualquier solicitud",
       "solo posible en materia tributaria",
+      "potestativa y previa o alternativa al recurso contencioso-administrativo",
       "siempre extemporánea"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (arts. 33-40 LTBG)",
-    "explicacion": "La respuesta correcta es «potestativa y previa o alternativa al recurso contencioso-administrativo». La reclamación de transparencia se presenta ante el órgano independiente competente y es potestativa, antes de acudir a la jurisdicción contencioso-administrativa. La alternativa «obligatoria antes de cualquier solicitud» no satisface ese criterio; aquí se aplica «potestativa y previa o alternativa al recurso contencioso-administrativo»."
+    "explicacion": "La respuesta correcta es «potestativa y previa o alternativa al recurso contencioso-administrativo». La reclamación de transparencia se presenta ante el órgano independiente competente y es potestativa, antes de acudir a la jurisdicción contencioso-administrativa."
   },
   {
     "id": "t43-p001",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, la Ley 19/2013 regula:",
     "opciones": [
-      "la transparencia, el acceso a la información pública y el buen gobierno",
       "la contratación pública",
       "la función pública estatal",
-      "el presupuesto local"
+      "el presupuesto local",
+      "la transparencia, el acceso a la información pública y el buen gobierno"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 1.2 Estructura y objeto de la LTAIBG",
-    "explicacion": "La respuesta correcta es «la transparencia el acceso a la información pública…». La alternativa «la contratación pública» no satisface ese criterio; aquí se aplica «la transparencia el acceso a la información pública…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La Ley 19/2013 tiene tres ejes: publicidad y transparencia, derecho de acceso y reglas de buen gobierno para altos cargos."
   },
   {
     "id": "t43-p002",
     "tema": 33,
-    "pregunta": "En transparencia y derecho de acceso, la publicidad activa consiste en:",
+    "pregunta": "Según la Ley 19/2013, la información sujeta a publicidad activa debe publicarse en las sedes o páginas web de forma que sea:",
     "opciones": [
-      "difundir proactivamente la información sin esperar solicitud",
-      "responder solo a peticiones judiciales",
-      "publicar únicamente sentencias",
-      "ocultar la información salvo petición motivada"
+      "clara, estructurada y comprensible, y preferiblemente en formatos reutilizables",
+      "accesible solo mediante solicitud motivada",
+      "exclusivamente una copia de las resoluciones judiciales",
+      "reservada a las personas interesadas en un expediente"
     ],
     "correcta": 0,
-    "referencia": "V.2 · 2.1 Concepto y fundamento",
-    "explicacion": "La respuesta correcta es «difundir proactivamente la información sin esperar solicitud». La alternativa «ocultar la información salvo petición motivada» no satisface ese criterio; aquí se aplica «difundir proactivamente la información sin esperar solicitud». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "referencia": "Ley 19/2013 · art. 5.4",
+    "explicacion": "El artículo 5.4 exige que la información se publique de forma clara, estructurada y entendible para las personas interesadas, y preferiblemente en formatos reutilizables. La publicidad activa se ofrece sin esperar una solicitud individual."
   },
   {
     "id": "t43-p003",
     "tema": 33,
     "pregunta": "Debe publicarse la información institucional, organizativa y de planificación incluyendo:",
     "opciones": [
-      "funciones, normativa, estructura organizativa y planes y programas",
       "solo las sanciones disciplinarias",
+      "funciones, normativa, estructura organizativa y planes y programas",
       "únicamente las actas del Pleno",
       "solo los contratos menores"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 2.2 Información institucional, organizativa y de planificación",
-    "explicacion": "La respuesta correcta es «funciones, normativa, estructura organizativa y planes y programas». La alternativa «solo las sanciones disciplinarias» no satisface ese criterio; aquí se aplica «funciones, normativa, estructura organizativa y planes y programas». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Los artículos 6 y 7 exigen difundir información sobre funciones, estructura, normativa, planes y programas de actuación."
   },
   {
     "id": "t43-p004",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, la información económica, presupuestaria y estadística incluye:",
     "opciones": [
-      "presupuestos, cuentas anuales, contratos y subvenciones",
       "solo nóminas de funcionarios",
       "únicamente padrones de habitantes",
+      "presupuestos, cuentas anuales, contratos y subvenciones",
       "solo registros de entrada"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 2.4 Información económica, presupuestaria y estadística",
-    "explicacion": "La respuesta correcta es «presupuestos, cuentas anuales, contratos y subvenciones». La alternativa «solo nóminas de funcionarios» no satisface ese criterio; aquí se aplica «presupuestos, cuentas anuales, contratos y subvenciones». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La ley incluye contratos, convenios, subvenciones, presupuestos y cuentas entre la información económica que debe publicarse."
   },
   {
     "id": "t43-p005",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, el derecho de acceso a la información pública es el derecho de:",
     "opciones": [
-      "cualquier persona a solicitar y obtener información en poder de las entidades sujetas",
       "solo los interesados en un expediente sancionador",
       "los funcionarios de carrera exclusivamente",
-      "los diputados nacionales únicamente"
+      "los diputados nacionales únicamente",
+      "cualquier persona a solicitar y obtener información en poder de las entidades sujetas"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 3.1 Concepto y naturaleza",
-    "explicacion": "La respuesta correcta es «cualquier persona a solicitar y obtener información en…». La alternativa «solo los interesados en un expediente sancionador» no satisface ese criterio; aquí se aplica «cualquier persona a solicitar y obtener información en…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El derecho se refiere a contenidos o documentos que obren en poder de sujetos obligados y hayan sido elaborados u obtenidos en sus funciones."
   },
   {
     "id": "t43-p006",
@@ -303,49 +303,49 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 3.3 Límites al derecho de acceso",
-    "explicacion": "La respuesta correcta es «de forma restrictiva». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «de forma extensiva» no satisface ese criterio; aquí se aplica «de forma restrictiva»."
+    "explicacion": "La respuesta correcta es «de forma restrictiva». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "t43-p008",
     "tema": 33,
-    "pregunta": "En transparencia y derecho de acceso, el Consejo de Transparencia y Buen Gobierno es:",
+    "pregunta": "En la Administración General del Estado, el Consejo de Transparencia y Buen Gobierno es:",
     "opciones": [
-      "el órgano independiente que tutela el derecho de acceso y supervisa la transparencia",
       "un tribunal administrativo",
+      "el órgano independiente que tutela el derecho de acceso y supervisa la transparencia",
       "una oficina de registro",
       "un órgano de contratación"
     ],
-    "correcta": 0,
-    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)",
-    "explicacion": "La respuesta correcta es «el órgano independiente que tutela el derecho de…». La reclamación de transparencia se presenta ante el órgano independiente competente y es potestativa, antes de acudir a la jurisdicción contencioso-administrativa. La alternativa «un órgano de contratación» no satisface ese criterio; aquí se aplica «el órgano independiente que tutela el derecho de…»."
+    "correcta": 1,
+    "referencia": "LTAIBG, art. 33; Ley 3/2015 de Castilla y León, arts. 8 y 12",
+    "explicacion": "El Consejo de Transparencia y Buen Gobierno es el organismo independiente que tutela el derecho de acceso y vela por las obligaciones de transparencia en su ámbito estatal. Para resoluciones de acceso del Ayuntamiento de Burgos, la reclamación potestativa corresponde a la Comisión de Transparencia de Castilla y León, conforme a su ley autonómica."
   },
   {
     "id": "t43-p009",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, el Portal de Transparencia de la AGE es:",
     "opciones": [
-      "el punto de acceso centralizado para la información de publicidad activa y el derecho de acceso",
       "un archivo histórico",
       "una web de contratación privada",
+      "el punto de acceso centralizado para la información de publicidad activa y el derecho de acceso",
       "un sistema de notificación interna"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 3.7 El Portal de Transparencia",
-    "explicacion": "La respuesta correcta es «el punto de acceso centralizado para la información…». La alternativa «un archivo histórico» no satisface ese criterio; aquí se aplica «el punto de acceso centralizado para la información…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El Portal de Transparencia de la AGE centraliza información de publicidad activa y el acceso a servicios de solicitud de información estatal."
   },
   {
     "id": "t43-p010",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, el buen gobierno se refiere a:",
     "opciones": [
-      "los principios de actuación de los altos cargos y el régimen sancionador",
       "los archivos municipales",
       "la selección de funcionarios interinos",
-      "el registro de entrada"
+      "el registro de entrada",
+      "los principios de actuación de los altos cargos y el régimen sancionador"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 4.1 Concepto y fundamento",
-    "explicacion": "La respuesta correcta es «los principios de actuación de los altos cargos…». La alternativa «los archivos municipales» no satisface ese criterio; aquí se aplica «los principios de actuación de los altos cargos…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La ley regula principios de actuación y obligaciones de los altos cargos, además de las infracciones y sanciones correspondientes."
   },
   {
     "id": "t43-p011",
@@ -359,105 +359,105 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 4.2 Principios de buen gobierno",
-    "explicacion": "La respuesta correcta es «actuar con transparencia en el ejercicio de las…». La alternativa «ocultar el conflicto de interés» no satisface ese criterio; aquí se aplica «actuar con transparencia en el ejercicio de las…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Los altos cargos deben actuar con transparencia, imparcialidad y servicio al interés general, entre otros principios legales."
   },
   {
     "id": "t43-p012",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, la sanción de una infracción muy grave en buen gobierno puede incluir:",
     "opciones": [
-      "declaración y publicación del incumplimiento, destitución si procede y prohibición de ocupar un alto cargo durante 5 a 10 años",
       "solo una amonestación verbal",
+      "declaración y publicación del incumplimiento, destitución si procede y prohibición de ocupar un alto cargo durante 5 a 10 años",
       "únicamente un apercibimiento",
       "la nulidad automática de todos los actos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 4.3 Régimen sancionador del buen gobierno",
-    "explicacion": "El artículo 30 distingue las consecuencias: las infracciones muy graves llevan las sanciones de las graves, la destitución si procede y la prohibición de ocupar un alto cargo o asimilado durante cinco a diez años. La alternativa «solo una amonestación verbal» no satisface ese criterio; aquí se aplica «declaración y publicación del incumplimiento destitución si procede…»."
+    "explicacion": "El artículo 30 distingue las consecuencias: las infracciones muy graves llevan las sanciones de las graves, la destitución si procede y la prohibición de ocupar un alto cargo o asimilado durante cinco a diez años."
   },
   {
     "id": "t43-p016",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, el plazo máximo para resolver y notificar una solicitud de acceso a la información pública es de:",
     "opciones": [
-      "un mes",
       "10 días hábiles",
       "15 días naturales",
+      "un mes",
       "tres meses"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 3.5 El procedimiento de ejercicio del derecho de acceso",
-    "explicacion": "El artículo 20 fija un mes para resolver, ampliable por otro si el volumen o la complejidad lo justifican y se informa al solicitante. La alternativa «10 días hábiles» no satisface ese criterio; aquí se aplica «un mes». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 20 fija un mes para resolver, ampliable por otro si el volumen o la complejidad lo justifican y se informa al solicitante."
   },
   {
     "id": "t43-p017",
     "tema": 33,
     "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno es:",
     "opciones": [
-      "potestativa, gratuita y no requiere abogado ni procurador",
       "obligatoria antes de cualquier resolución administrativa",
       "solo admisible si se fórmula por procurador",
-      "incompatible con el silencio negativo"
+      "incompatible con el silencio negativo",
+      "potestativa, gratuita y no requiere abogado ni procurador"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)",
-    "explicacion": "La reclamación ante el CTBG es potestativa, tiene carácter sustitutivo de los recursos administrativos ordinarios y permite acudir después a la vía contencioso-administrativa. La alternativa «solo admisible si se fórmula por procurador» no satisface ese criterio; aquí se aplica «potestativa, gratuita y no requiere abogado ni procurador»."
+    "explicacion": "La reclamación ante el CTBG es potestativa, tiene carácter sustitutivo de los recursos administrativos ordinarios y permite acudir después a la vía contencioso-administrativa."
   },
   {
     "id": "t43-p021",
     "tema": 33,
-    "pregunta": "Según la Ley 19/2013, de 9 de diciembre, el derecho de acceso a la información pública podrá ser limitado cuando el acceso suponga un perjuicio para:",
+    "pregunta": "Según el artículo 14.1 de la Ley 19/2013, ¿cuál de los siguientes intereses figura entre los límites al derecho de acceso?",
     "opciones": [
-      "La seguridad nacional",
-      "La mera incomodidad administrativa del órgano requerido",
-      "La crítica política al Gobierno",
-      "El interés estadistico del solicitante"
+      "Los intereses económicos y comerciales",
+      "La mera conveniencia del órgano que custodia la información",
+      "La carga ordinaria de trabajo de la unidad tramitadora",
+      "La ausencia de motivación de la solicitud por la persona interesada"
     ],
     "correcta": 0,
-    "referencia": "V.2 · 3.3 Límites al derecho de acceso",
-    "explicacion": "La seguridad nacional aparece expresamente entre los límites legales al derecho de acceso. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «La mera incomodidad administrativa del órgano requerido» no satisface ese criterio; aquí se aplica «La seguridad nacional»."
+    "referencia": "Ley 19/2013 · art. 14.1.h",
+    "explicacion": "El artículo 14.1.h contempla los intereses económicos y comerciales. La existencia de un límite no basta por sí sola para denegar: debe aplicarse de forma justificada y proporcionada al perjuicio concreto, ponderando el interés público o privado superior que pueda justificar el acceso."
   },
   {
     "id": "t43-p022",
     "tema": 33,
-    "pregunta": "Frente a una resolución expresa o presunta en materia de acceso a la información pública podrá interponerse, con carácter potestativo y previo a la vía contencioso-administrativa, reclamación ante:",
+    "pregunta": "Frente a una resolución expresa o presunta del Ayuntamiento de Burgos en materia de acceso a la información pública podrá interponerse, con carácter potestativo y previo a la vía contencioso-administrativa, reclamación ante:",
     "opciones": [
       "La Agencia Española de Protección de Datos",
-      "El Consejo de Transparencia y Buen Gobierno",
+      "La Comisión de Transparencia de Castilla y León",
       "El Tribunal de Cuentas",
       "La Comisión General de Secretarios de Estado y Subsecretarios"
     ],
     "correcta": 1,
-    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)",
-    "explicacion": "La respuesta correcta es «El Consejo de Transparencia y Buen Gobierno». La reclamación de transparencia se presenta ante el órgano independiente competente y es potestativa, antes de acudir a la jurisdicción contencioso-administrativa. La alternativa «La Agencia Española de Protección de Datos» no satisface ese criterio; aquí se aplica «El Consejo de Transparencia y Buen Gobierno»."
+    "referencia": "Ley 3/2015 de Castilla y León, arts. 8 y 12; LTAIBG, art. 24.6",
+    "explicacion": "La Ley 3/2015 de Castilla y León, arts. 8 y 12, atribuye a la Comisión de Transparencia la resolución de reclamaciones contra decisiones de entidades locales de la Comunidad, incluido el Ayuntamiento de Burgos. Es una vía potestativa y previa al contencioso; no es competente el CTBG estatal para estas resoluciones locales."
   },
   {
     "id": "t43-p023",
     "tema": 33,
     "pregunta": "En transparencia y derecho de acceso, indique cuál de los siguientes figura entre los límites al derecho de acceso a la información pública en la Ley 19/2013:",
     "opciones": [
-      "La garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión.",
       "La mera incomodidad administrativa del órgano requerido.",
       "La discrepancia política con el contenido solicitado.",
+      "La garantía de la confidencialidad o el secreto requerido en procesos de toma de decisión.",
       "La falta de interés profesional del solicitante."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 3.3 Límites al derecho de acceso",
-    "explicacion": "La respuesta correcta es «La garantía de la confidencialidad o el secreto…». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «La mera incomodidad administrativa del órgano requerido» no satisface ese criterio; aquí se aplica «La garantía de la confidencialidad o el secreto…»."
+    "explicacion": "La respuesta correcta es «La garantía de la confidencialidad o el secreto…». El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "t43-p024",
     "tema": 33,
-    "pregunta": "Según la Ley 19/2013, frente a una resolución expresa o presunta en materia de acceso a la información pública, la reclamación ante el Consejo de Transparencia y Buen Gobierno podrá interponerse en el plazo de:",
+    "pregunta": "Según la Ley 19/2013, ¿en qué plazo general debe interponerse la reclamación potestativa en materia de acceso, sea cual sea el órgano independiente competente?",
     "opciones": [
-      "Un mes.",
       "Diez días hábiles.",
       "Quince días naturales.",
-      "Tres meses."
+      "Tres meses.",
+      "Un mes."
     ],
-    "correcta": 0,
-    "referencia": "V.2 · 3.6 El Consejo de Transparencia y Buen Gobierno (CTBG)",
-    "explicacion": "La respuesta correcta es «Un mes». El artículo 24.2 fija un mes para presentar la reclamación potestativa frente a una resolución expresa o presunta. La alternativa «Diez días hábiles» no satisface ese criterio; aquí se aplica «Un mes». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "correcta": 3,
+    "referencia": "LTAIBG, art. 24.2",
+    "explicacion": "El artículo 24.2 LTAIBG fija un mes desde la notificación de la resolución expresa o desde el día siguiente a aquel en que se produzcan los efectos del silencio. En Castilla y León, para resoluciones locales, la reclamación se dirige a la Comisión de Transparencia autonómica."
   },
   {
     "id": "estado2026-extra-t33-01",
@@ -474,7 +474,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La seguridad nacional figura entre los límites del art. 14 de la Ley 19/2013. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «La seguridad e higiene en el trabajo como…» no satisface ese criterio; aquí se aplica «La seguridad nacional»."
+    "explicacion": "La seguridad nacional figura entre los límites del art. 14 de la Ley 19/2013. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "estado2026-extra-t33-02",
@@ -491,7 +491,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La aplicación de límites exige ponderación, motivación y proporcionalidad. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «Automáticamente siempre que haya datos administrativos» no satisface ese criterio; aquí se aplica «De forma justificada y proporcionada atendiendo al daño…»."
+    "explicacion": "La aplicación de límites exige ponderación, motivación y proporcionalidad. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "realstyle-v02-01",
@@ -505,49 +505,49 @@
     ],
     "correcta": 0,
     "referencia": "Revisión test reales · art. 14 LTAIBG",
-    "explicacion": "La seguridad nacional es uno de los límites expresos del art. 14 LTAIBG. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público. La alternativa «La comodidad organizativa de la unidad administrativa» no satisface ese criterio; aquí se aplica «La seguridad nacional»."
+    "explicacion": "La seguridad nacional es uno de los límites expresos del art. 14 LTAIBG. El artículo 14 de la Ley 19/2013 contiene límites tasados que deben justificarse y aplicarse de forma proporcionada, ponderando el perjuicio concreto y el interés público."
   },
   {
     "id": "realstyle-v02-02",
     "tema": 33,
-    "pregunta": "La reclamación ante el Consejo de Transparencia y Buen Gobierno frente a una resolución en materia de acceso a la información pública tiene carácter:",
+    "pregunta": "En el ámbito de la Administración General del Estado, la reclamación ante el Consejo de Transparencia y Buen Gobierno frente a una resolución de acceso tiene carácter:",
     "opciones": [
-      "Potestativo y previo a la impugnación contencioso-administrativa",
       "Obligatorio y posterior a la sentencia",
+      "Potestativo y previo a la impugnación contencioso-administrativa",
       "Sustitutivo permanente de cualquier recurso judicial",
       "Exclusivamente interno y no impugnable"
     ],
-    "correcta": 0,
-    "referencia": "Revisión test reales · reclamación CTBG",
-    "explicacion": "La reclamación de transparencia se presenta ante el órgano independiente competente y es potestativa, antes de acudir a la jurisdicción contencioso-administrativa. La alternativa «Obligatorio y posterior a la sentencia» no satisface ese criterio; aquí se aplica «Potestativo y previo a la impugnación contencioso-administrativa»."
+    "correcta": 1,
+    "referencia": "LTAIBG, art. 24; Ley 3/2015 de Castilla y León, art. 8",
+    "explicacion": "La reclamación ante el CTBG es potestativa y previa al contencioso en el ámbito en que dicho Consejo es competente. Para las entidades locales de Castilla y León, la Ley 3/2015 atribuye esta función a la Comisión de Transparencia de la Comunidad."
   },
   {
     "id": "burgos-v02-deep-01",
     "tema": 33,
     "pregunta": "¿Cuál es la diferencia correcta entre publicidad activa y derecho de acceso en la Ley 19/2013?",
     "opciones": [
-      "La publicidad activa se publica de oficio; el derecho de acceso se ejerce mediante solicitud.",
       "Ambos requieren siempre una solicitud motivada.",
       "La publicidad activa solo se aplica a los tribunales y el acceso a los ayuntamientos.",
+      "La publicidad activa se publica de oficio; el derecho de acceso se ejerce mediante solicitud.",
       "El derecho de acceso obliga a crear cualquier informe que pida la persona solicitante."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 1 y 3 · publicidad activa y acceso",
-    "explicacion": "La publicidad activa es proactiva y el derecho de acceso se activa a petición de cualquier persona; ninguno exige crear una valoración nueva inexistente. La alternativa «La publicidad activa solo se aplica a los…» no satisface ese criterio; aquí se aplica «La publicidad activa se publica de oficio el…»."
+    "explicacion": "La publicidad activa es proactiva y el derecho de acceso se activa a petición de cualquier persona; ninguno exige crear una valoración nueva inexistente."
   },
   {
     "id": "burgos-v02-deep-02",
     "tema": 33,
     "pregunta": "Según los artículos 6 a 8 de la Ley 19/2013, ¿qué asociación es correcta?",
     "opciones": [
-      "Art. 6: institucional, organizativa y planificación; art. 7: relevancia jurídica; art. 8: económica, presupuestaria y estadística.",
       "Art. 6: sanciones; art. 7: datos personales; art. 8: archivos judiciales.",
       "Art. 6: solo contratos; art. 7: solo subvenciones; art. 8: solo urbanismo.",
-      "Art. 6: acceso; art. 7: reclamaciones; art. 8: buen gobierno."
+      "Art. 6: acceso; art. 7: reclamaciones; art. 8: buen gobierno.",
+      "Art. 6: institucional, organizativa y planificación; art. 7: relevancia jurídica; art. 8: económica, presupuestaria y estadística."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 3.2 · arts. 6-8 LTAIBG",
-    "explicacion": "La clasificación de los artículos 6, 7 y 8 es una regla básica para identificar qué información debe publicarse activamente. Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria. La alternativa «Art 6 solo contratos art 7 solo subvenciones…» no satisface ese criterio; aquí se aplica «Art 6 institucional organizativa y planificación art 7…»."
+    "explicacion": "La clasificación de los artículos 6, 7 y 8 es una regla básica para identificar qué información debe publicarse activamente. Los artículos 6, 7 y 8 de la Ley 19/2013 ordenan la publicidad activa en información institucional, de relevancia jurídica y económica/presupuestaria."
   },
   {
     "id": "burgos-v02-deep-03",
@@ -561,49 +561,49 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 4.1 y 5.1 · arts. 12 y 17 LTAIBG",
-    "explicacion": "El artículo 17 permite ejercer el derecho sin expresar la motivación; la persona puede explicar sus motivos, pero no está obligada a hacerlo. La alternativa «Rechazarla por falta de interés legítimo» no satisface ese criterio; aquí se aplica «Tramitarla, porque la solicitud no necesita motivación»."
+    "explicacion": "El artículo 17 permite ejercer el derecho sin expresar la motivación; la persona puede explicar sus motivos, pero no está obligada a hacerlo."
   },
   {
     "id": "burgos-v02-deep-04",
     "tema": 33,
     "pregunta": "¿Cuál de las siguientes afirmaciones sobre los límites del artículo 14 es correcta?",
     "opciones": [
-      "Deben aplicarse de forma justificada y proporcionada, valorando el perjuicio concreto y el interés público en la divulgación.",
       "Permiten denegar cualquier solicitud que genere trabajo administrativo.",
+      "Deben aplicarse de forma justificada y proporcionada, valorando el perjuicio concreto y el interés público en la divulgación.",
       "Se aplican siempre de manera automática si existe cualquier dato personal.",
       "Solo pueden utilizarse frente a solicitudes de personas no interesadas."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 4.2 · art. 14 LTAIBG",
-    "explicacion": "Los límites no son una cláusula general de denegación: exigen justificación, proporcionalidad y ponderación del caso concreto. El artículo 14 enumera límites al acceso que exigen justificación y aplicación proporcionada; su invocación requiere valorar el perjuicio concreto y el interés público. La alternativa «Permiten denegar cualquier solicitud que genere trabajo administrativo» no satisface ese criterio; aquí se aplica «Deben aplicarse de forma justificada y proporcionada valorando…»."
+    "explicacion": "Los límites no son una cláusula general de denegación: exigen justificación, proporcionalidad y ponderación del caso concreto. El artículo 14 enumera límites al acceso que exigen justificación y aplicación proporcionada; su invocación requiere valorar el perjuicio concreto y el interés público."
   },
   {
     "id": "burgos-v02-deep-05",
     "tema": 33,
     "pregunta": "Si un documento contiene una parte protegida por un límite y otra parte accesible, la regla general es:",
     "opciones": [
-      "Conceder acceso parcial, omitiendo o disociando la información protegida cuando sea posible.",
       "Denegar siempre el documento entero.",
       "Publicar también los datos protegidos para preservar la integridad del documento.",
+      "Conceder acceso parcial, omitiendo o disociando la información protegida cuando sea posible.",
       "Solicitar al interesado que reescriba el documento."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 4.2 · acceso parcial",
-    "explicacion": "La Ley 19/2013 favorece el acceso parcial cuando la limitación solo afecta a una parte y la separación resulta posible y útil. El artículo 16 ordena conceder acceso parcial cuando el límite solo afecte a una parte y la separación no distorsione la información ni la vuelva carente de sentido. La alternativa «Denegar siempre el documento entero» no satisface ese criterio; aquí se aplica «Conceder acceso parcial omitiendo o disociando la información…»."
+    "explicacion": "La Ley 19/2013 favorece el acceso parcial cuando la limitación solo afecta a una parte y la separación resulta posible y útil. El artículo 16 ordena conceder acceso parcial cuando el límite solo afecte a una parte y la separación no distorsione la información ni la vuelva carente de sentido."
   },
   {
     "id": "burgos-v02-deep-06",
     "tema": 33,
     "pregunta": "¿Cuál es una causa legal de inadmisión del artículo 18 de la Ley 19/2013?",
     "opciones": [
-      "Que para divulgar la información sea necesaria una acción previa de reelaboración.",
       "Que la solicitud no explique el motivo del interés.",
       "Que la persona no resida en Burgos.",
-      "Que el documento sea desfavorable para el Ayuntamiento."
+      "Que el documento sea desfavorable para el Ayuntamiento.",
+      "Que para divulgar la información sea necesaria una acción previa de reelaboración."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 4.4 · art. 18 LTAIBG",
-    "explicacion": "La reelaboración necesaria es una causa de inadmisión; la falta de motivación, la residencia y el sentido de la información no lo son. El artículo 18 enumera causas de inadmisión; necesitar una acción previa de reelaboración puede justificarla, pero la falta de motivación o residencia no. La alternativa «Que el documento sea desfavorable para el Ayuntamiento» no satisface ese criterio; aquí se aplica «Que para divulgar la información sea necesaria una…»."
+    "explicacion": "La reelaboración necesaria es una causa de inadmisión; la falta de motivación, la residencia y el sentido de la información no lo son. El artículo 18 enumera causas de inadmisión; necesitar una acción previa de reelaboración puede justificarla, pero la falta de motivación o residencia no."
   },
   {
     "id": "burgos-v02-deep-07",
@@ -617,49 +617,49 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 5.1 · art. 19 LTAIBG",
-    "explicacion": "El artículo 19 prevé audiencia por quince días; las alegaciones se ponderan, pero el tercero no sustituye al órgano competente ni tiene un veto automático. El artículo 19.3 concede quince días de audiencia a terceros cuyos derechos o intereses puedan verse afectados; sus alegaciones se valoran, pero no equivalen a un veto. La alternativa «Pedirles que resuelvan la solicitud en lugar del…» no satisface ese criterio; aquí se aplica «Conceder audiencia por quince días para que formulen…»."
+    "explicacion": "El artículo 19 prevé audiencia por quince días; las alegaciones se ponderan, pero el tercero no sustituye al órgano competente ni tiene un veto automático. El artículo 19.3 concede quince días de audiencia a terceros cuyos derechos o intereses puedan verse afectados; sus alegaciones se valoran, pero no equivalen a un veto."
   },
   {
     "id": "burgos-v02-deep-08",
     "tema": 33,
     "pregunta": "El plazo ordinario para resolver y notificar una solicitud de acceso a la información pública es:",
     "opciones": [
-      "Un mes desde la recepción por el órgano competente, ampliable por otro mes en los casos legalmente justificados.",
       "Diez días hábiles, sin ampliación posible.",
+      "Un mes desde la recepción por el órgano competente, ampliable por otro mes en los casos legalmente justificados.",
       "Tres meses, siempre improrrogables.",
       "Seis meses desde la presentación en cualquier registro."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 5.2 · art. 20 LTAIBG",
-    "explicacion": "El artículo 20 fija un mes para resolver, ampliable por otro si el volumen o la complejidad lo justifican y se informa al solicitante. La alternativa «Seis meses desde la presentación en cualquier registro» no satisface ese criterio; aquí se aplica «Un mes desde la recepción por el órgano…»."
+    "explicacion": "El artículo 20 fija un mes para resolver, ampliable por otro si el volumen o la complejidad lo justifican y se informa al solicitante."
   },
   {
     "id": "burgos-v02-deep-09",
     "tema": 33,
     "pregunta": "Si la resolución de acceso no entrega la información en el mismo momento de la notificación, ¿cuál es el límite legal de la entrega material?",
     "opciones": [
-      "No superior a diez días.",
       "Tres meses.",
       "Un año.",
+      "No superior a diez días.",
       "No existe plazo."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.2 · 5.2 · art. 22 LTAIBG",
-    "explicacion": "El artículo 22.1 de la Ley 19/2013 dispone que, si el acceso no se formaliza con la notificación, debe concederse en un plazo no superior a diez días. La alternativa «Tres meses» no satisface ese criterio; aquí se aplica «No superior a diez días»."
+    "explicacion": "El artículo 22.1 de la Ley 19/2013 dispone que, si el acceso no se formaliza con la notificación, debe concederse en un plazo no superior a diez días."
   },
   {
     "id": "burgos-v02-deep-10",
     "tema": 33,
     "pregunta": "La reclamación potestativa frente a una resolución expresa o presunta de acceso debe presentarse, con carácter general, en el plazo de:",
     "opciones": [
-      "Un mes.",
       "Diez días naturales.",
       "Tres meses en todo caso.",
-      "Cuatro años."
+      "Cuatro años.",
+      "Un mes."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.2 · 5.3 · art. 24 LTAIBG",
-    "explicacion": "El artículo 24 fija un mes para reclamar desde la notificación de la resolución expresa o desde el día siguiente a aquel en que se produzcan los efectos del silencio. La alternativa «Diez días naturales» no satisface ese criterio; aquí se aplica «Un mes»."
+    "explicacion": "El artículo 24 fija un mes para reclamar desde la notificación de la resolución expresa o desde el día siguiente a aquel en que se produzcan los efectos del silencio."
   },
   {
     "id": "burgos-v02-deep-11",
@@ -673,20 +673,20 @@
     ],
     "correcta": 0,
     "referencia": "V.2 · 5.3 · art. 24 LTAIBG",
-    "explicacion": "La reclamación debe resolverse en tres meses; si no se notifica resolución en ese plazo, se entiende desestimada. El artículo 24.4 establece tres meses para resolver la reclamación y el efecto desestimatorio si transcurre el plazo sin notificación. La alternativa «Seis meses, sin efecto del silencio» no satisface ese criterio; aquí se aplica «Tres meses, transcurridos los cuales se entiende desestimada»."
+    "explicacion": "La reclamación debe resolverse en tres meses; si no se notifica resolución en ese plazo, se entiende desestimada. El artículo 24.4 establece tres meses para resolver la reclamación y el efecto desestimatorio si transcurre el plazo sin notificación."
   },
   {
     "id": "burgos-v02-deep-12",
     "tema": 33,
     "pregunta": "Una solicitud pide que el Ayuntamiento elabore un informe jurídico nuevo sobre si una decisión fue correcta, sin pedir ningún documento existente. ¿Qué regla es más precisa?",
     "opciones": [
-      "El derecho de acceso no obliga, como regla general, a crear una valoración o informe nuevo que no obre en poder del Ayuntamiento.",
       "Debe elaborarse siempre porque el acceso es universal.",
+      "El derecho de acceso no obliga, como regla general, a crear una valoración o informe nuevo que no obre en poder del Ayuntamiento.",
       "Debe rechazarse porque solo se pueden pedir contratos.",
       "Debe remitirse siempre al Consejo de Transparencia para que redacte el informe."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.2 · 2.2 y 4.1 · concepto de información pública",
-    "explicacion": "El derecho recae sobre contenidos o documentos existentes en poder del sujeto obligado; no es un derecho general de asesoramiento ni de creación de informes ad hoc. La alternativa «Debe remitirse siempre al Consejo de Transparencia para…» no satisface ese criterio; aquí se aplica «El derecho de acceso no obliga como regla…»."
+    "explicacion": "El derecho recae sobre contenidos o documentos existentes en poder del sujeto obligado; no es un derecho general de asesoramiento ni de creación de informes ad hoc."
   }
 ]

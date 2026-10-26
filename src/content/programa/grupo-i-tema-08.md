@@ -16,7 +16,7 @@ El programa se centra en la Unión Europea y en cinco instituciones: Consejo Eur
 
 La Unión Europea es una organización de integración formada por Estados miembros que atribuyen el ejercicio de determinadas competencias a instituciones comunes para alcanzar objetivos compartidos. No es un Estado federal, pero tampoco una organización internacional ordinaria. Su Derecho tiene rasgos propios, como primacía, efecto directo en determinados casos, aplicación uniforme y control jurisdiccional por el Tribunal de Justicia.
 
-La Unión se fundamenta en valores como respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los derechos de las personas pertenecientes a minorias. Estos valores son comunes a los Estados miembros y tienen relevancia política y jurídica.
+La Unión se fundamenta en valores como respeto de la dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los derechos de las personas pertenecientes a minorías. Estos valores son comunes a los Estados miembros y tienen relevancia política y jurídica.
 
 Los objetivos de la Unión incluyen promover la paz, sus valores y el bienestar de sus pueblos; ofrecer un espacio de libertad, seguridad y justicia sin fronteras interiores; establecer un mercado interior; favorecer desarrollo sostenible; combatir exclusión social y discriminación; fomentar justicia y protección social; promover cohesión económica, social y territorial; respetar diversidad cultural y linguistica; y establecer una unión económica y monetaria cuya moneda es el euro para los Estados que participan en ella.
 
@@ -24,10 +24,10 @@ Para situar preguntas de evolución historica, conviene retener estos hitos:
 
 | Hito | Tratado o fecha | Idea de test |
 |---|---|---|
-| CECA | Tratado de Paris de 1951 | Primer gran paso de integración sectorial. |
+| CECA | Tratado de París de 1951 | Primer gran paso de integración sectorial. |
 | CEE y EURATOM | Tratados de Roma de 1957 | Mercado común y energía atómica. |
 | Acta Única Europea | 1986 | Impulso del mercado interior. |
-| Maastricht | <mark>Tratado de la Unión Europea</mark> | Crea la Unión Europea y la ciudadania europea. |
+| Maastricht | <mark>Tratado de la Unión Europea</mark> | Crea la Unión Europea y la ciudadanía europea. |
 | Amsterdam y Niza | Reformas institucionales | Adaptación previa a ampliaciones. |
 | Lisboa | Tratado de Lisboa | Reforma institucional, personalidad jurídica de la Unión y derecho de retirada del <mark>art. 50 TUE</mark>. |
 | España | <mark>1 de enero de 1986</mark> | Incorporación de España a las Comunidades Europeas. |
@@ -92,7 +92,7 @@ El Consejo Europeo está compuesto por los Jefes de Estado o de Gobierno de los 
 
 Su función principal es dar a la Unión los impulsos necesarios para su desarrollo y definir sus orientaciones y prioridades políticas generales. No ejerce función legislativa ordinaria.
 
-El Consejo Europeo es clave en grandes decisiones políticas: prioridades estrategicas, ampliaciones, respuestas a crisis, orientaciones económicas generales, política exterior, reformas institucionales y nombramientos relevantes.
+El Consejo Europeo es clave en grandes decisiones políticas: prioridades estratégicas, ampliaciones, respuestas a crisis, orientaciones económicas generales, política exterior, reformas institucionales y nombramientos relevantes.
 
 El Presidente del Consejo Europeo es elegido por el propio Consejo Europeo por <mark>mayoría cualificada</mark> para un mandato de <mark>dos años</mark> y medio, renovable una vez. No puede ejercer mandato nacional. Su función consiste en presidir e impulsar los trabajos del Consejo Europeo, velar por su preparación y continuidad, facilitar cohesión y consenso, y presentar informe al Parlamento Europeo tras cada reunión. El Alto Representante participa en sus trabajos, pero no forma parte de la composición que enumera el <mark>artículo 15 TUE</mark>.
 
@@ -110,7 +110,7 @@ Las decisiones del Consejo Europeo suelen adoptarse por consenso, salvo que los 
 
 El Consejo de la Unión Europea, también llamado Consejo, está compuesto por un representante de cada Estado miembro de rango ministerial, facultado para comprometer al Gobierno del Estado miembro al que represente y para ejercer el derecho de voto.
 
-No tiene composición fija única. Se reune en distintas formaciones según la materia: Asuntos Generales, Asuntos Exteriores, Economia y Finanzas, Justicia y Asuntos de Interior, Empleo y Política Social, Medio Ambiente, Agricultura y Pesca, Competitividad, Transporte, Telecomunicaciones y Energia, Educación y Cultura, entre otras.
+No tiene composición fija única. Se reúne en distintas formaciones según la materia: Asuntos Generales, Asuntos Exteriores, Economía y Finanzas, Justicia y Asuntos de Interior, Empleo y Política Social, Medio Ambiente, Agricultura y Pesca, Competitividad, Transporte, Telecomunicaciones y Energía, Educación y Cultura, entre otras.
 
 El Consejo ejerce, junto con el Parlamento Europeo, la función legislativa y presupuestaria. También define políticas y coordina actuaciones en los términos establecidos por los Tratados.
 
@@ -118,7 +118,7 @@ La presidencia de las formaciones del Consejo, salvo Asuntos Exteriores, se ejer
 
 El Consejo adopta decisiones por <mark>mayoría cualificada</mark> como regla general, salvo materias que exigen unanimidad o <mark>mayoría simple</mark>. La <mark>mayoría cualificada</mark> combina número de Estados y porcentaje de población, lo que busca equilibrar igualdad entre Estados y peso demográfico.
 
-Desde el sistema vigente, la <mark>mayoría cualificada</mark> ordinaria del Consejo exige al menos el 55% de los miembros del Consejo, que incluya como mínimo a quince Estados miembros, y que representen al menos el 65% de la población de la Unión. La minoría de bloqueo debe incluir al menos cuatro miembros del Consejo; si no, se considera alcanzada la <mark>mayoría cualificada</mark>.
+Desde el sistema vigente, la <mark>mayoría cualificada</mark> ordinaria del Consejo exige al menos el 55% de los miembros del Consejo, que incluya como mínimo a quince Estados miembros, y que representen al menos el 65% de la población de la Unión. La minoría de bloqueo debe incluir al menos cuatro miembros del Consejo; si no, se considera alcanzada la <mark>mayoría cualificada</mark>. Cuando el Consejo no actúa a propuesta de la Comisión o del Alto Representante, el artículo 238.2 TFUE eleva el umbral al 72% de los miembros, que representen al menos el 65% de la población.
 
 El Comité de Representantes Permanentes, COREPER, prepara los trabajos del Consejo. Esta integrado por representantes permanentes de los Estados miembros ante la Unión Europea y desempeña una función esencial de negociación técnica y política.
 
@@ -127,7 +127,7 @@ El Comité de Representantes Permanentes, COREPER, prepara los trabajos del Cons
 | Composición | Un ministro por cada Estado miembro según la materia. |
 | Función | Colegisla y aprueba presupuesto junto al Parlamento. |
 | Formaciones | ECOFIN, Asuntos Generales, Justicia e Interior y otras. |
-| Regla de voto general | Mayoria cualificada. |
+| Regla de voto general | Mayoría cualificada. |
 | Apoyo técnico-político | COREPER. |
 
 ### Lo que no conviene confundir
@@ -139,7 +139,7 @@ El Comité de Representantes Permanentes, COREPER, prepara los trabajos del Cons
 
 El Parlamento Europeo representa directamente a los ciudadanos de la Unión. Sus miembros son elegidos por sufragio universal directo, libre y secreto para un mandato de <mark>cinco años</mark>. La representación es decrecientemente proporcional, con un mínimo de seis y un máximo de noventa y seis diputados por Estado; el número total de escaños se fija para cada legislatura, por lo que no conviene memorizar una cifra como si fuera invariable.
 
-El Parlamento comparte con el Consejo la función legislativa y presupuestaria. En el procedimiento legislativo ordinario, Parlamento y Consejo actuan como colegisladores sobre propuestas de la Comisión. Esto significa que una norma europea ordinaria requiere participación de ambas instituciones.
+El Parlamento comparte con el Consejo la función legislativa y presupuestaria. En el procedimiento legislativo ordinario, Parlamento y Consejo actúan como colegisladores sobre propuestas de la Comisión. Esto significa que una norma europea ordinaria requiere participación de ambas instituciones.
 
 El Parlamento ejerce también funciones de control político. Elige al Presidente de la Comisión a propuesta del Consejo Europeo, aprueba al conjunto de la Comisión, puede formular preguntas, crear comisiones de investigación, debatir informes y aprobar una moción de censura contra la Comisión. Si prospera una moción de censura, los miembros de la Comisión deben dimitir colectivamente.
 
@@ -158,6 +158,8 @@ El Parlamento se organiza en Presidente, Mesa, Conferencia de Presidentes, comis
 ## La Comisión Europea
 
 La Comisión Europea promueve el interés general de la Unión. Es una institución independiente de los Gobiernos nacionales. Sus miembros deben ejercer sus funciones con plena independencia y no solicitar ni aceptar instrucciones de ningún Gobierno, institución, órgano u organismo.
+
+**Composición:** el artículo 17.5 TUE establece como regla de los Tratados un número de miembros equivalente a dos tercios del número de Estados miembros, salvo que el Consejo Europeo decida por unanimidad modificarlo. Mediante la [Decisión 2013/272/UE](https://eur-lex.europa.eu/eli/dec/2013/272/oj), el Consejo Europeo mantuvo una Comisión con un nacional por cada Estado miembro, incluido el Alto Representante como Vicepresidente. Por eso la Comisión actual tiene 27 integrantes, pero conviene distinguir esa decisión vigente de la regla general escrita en el Tratado.
 
 La Comisión tiene el derecho de iniciativa legislativa en la mayoría de materias, aunque los Tratados prevén excepciones y el Parlamento y el Consejo pueden solicitarle propuestas. Esto significa que, con carácter general, los actos legislativos de la Unión se adoptan a partir de una propuesta de la Comisión. Esta función le permite impulsar políticas europeas y garantizar coherencia técnica.
 
@@ -204,7 +206,7 @@ El recurso de anulación permite controlar la legalidad de actos de institucione
 
 ## Derecho de la Unión y Administraciones Públicas
 
-La Unión Europea incide de forma directa en las Administraciones Públicas espanolas, incluidas las entidades locales. Contratación pública, protección de datos, medio ambiente, igualdad, fondos europeos, servicios, ayudas públicas, transparencia, administración electrónica y libre competencia son ámbitos fuertemente influidos por el Derecho europeo.
+La Unión Europea incide de forma directa en las Administraciones Públicas españolas, incluidas las entidades locales. Contratación pública, protección de datos, medio ambiente, igualdad, fondos europeos, servicios, ayudas públicas, transparencia, administración electrónica y libre competencia son ámbitos fuertemente influidos por el Derecho europeo.
 
 Las Administraciones nacionales, autonómicas y locales deben aplicar el Derecho de la Unión dentro de sus competencias. El principio de cooperación leal obliga a los Estados miembros a adoptar todas las medidas generales o particulares apropiadas para asegurar el cumplimiento de las obligaciones derivadas de los Tratados o de los actos de las instituciones.
 

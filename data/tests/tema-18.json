@@ -4,42 +4,42 @@
     "tema": 18,
     "pregunta": "El patrimonio de las Entidades Locales está constituido por:",
     "opciones": [
-      "el conjunto de bienes, derechos y acciones que les pertenecen",
       "solo los edificios administrativos",
+      "el conjunto de bienes, derechos y acciones que les pertenecen",
       "únicamente el presupuesto anual",
       "los tributos recaudados"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · 1.1 El patrimonio de las Entidades Locales",
-    "explicacion": "El tema define así el patrimonio local. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «el conjunto de bienes, derechos y acciones que les pertenecen». El distractor «solo los edificios administrativos» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema define así el patrimonio local. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «el conjunto de bienes, derechos y acciones que les pertenecen»."
   },
   {
     "id": "t27-p002",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, el inventario de bienes de las Entidades Locales es:",
     "opciones": [
-      "obligatorio y debe mantenerse actualizado",
       "facultativo y secreto",
       "solo una relación de personal",
+      "obligatorio y debe mantenerse actualizado",
       "un documento tributario"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 1.2 El Inventario de bienes",
-    "explicacion": "El tema impone la obligación de formar y actualizar inventario. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «obligatorio y debe mantenerse actualizado». El distractor «facultativo y secreto» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema impone la obligación de formar y actualizar inventario. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «obligatorio y debe mantenerse actualizado»."
   },
   {
     "id": "t27-p003",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, los bienes de dominio público se caracterizan por ser:",
     "opciones": [
-      "inalienables, inembargables e imprescriptibles",
       "alienables y embargables por regla general",
       "prescriptibles si pasan 10 años",
-      "solo usufructuarios"
+      "solo usufructuarios",
+      "inalienables, inembargables e imprescriptibles"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.9 · 2.1 Bienes de dominio público",
-    "explicacion": "El tema resume esas tres notas esenciales. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «inalienables, inembargables e imprescriptibles». El distractor «alienables y embargables por regla general» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema resume esas tres notas esenciales. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «inalienables, inembargables e imprescriptibles»."
   },
   {
     "id": "t27-p004",
@@ -53,49 +53,49 @@
     ],
     "correcta": 0,
     "referencia": "II.9 · 2.1.3 Bienes comunales",
-    "explicacion": "El tema reserva su aprovechamiento a los vecinos. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «los vecinos del municipio». El distractor «cualquier persona sin limitación» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema reserva su aprovechamiento a los vecinos. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «los vecinos del municipio»."
   },
   {
     "id": "t27-p005",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, los bienes patrimoniales:",
     "opciones": [
-      "no están afectados a uso o servicio público",
       "siempre son inalienables",
+      "no están afectados a uso o servicio público",
       "solo pueden ser usados por vecinos",
       "son de uso común general"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · 2.2 Bienes patrimoniales",
-    "explicacion": "El tema los define por su falta de afectación pública. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «no están afectados a uso o servicio público». El distractor «siempre son inalienables» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema los define por su falta de afectación pública. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «no están afectados a uso o servicio público»."
   },
   {
     "id": "t27-p006",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, la afectación es el acto por el que:",
     "opciones": [
-      "un bien patrimonial pasa a ser de dominio público",
       "un bien de dominio público se vende",
       "un tributo se convierte en precio público",
+      "un bien patrimonial pasa a ser de dominio público",
       "un contrato se formaliza"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 2.4 Cambio de categoría: afectación y desafectación",
-    "explicacion": "El tema la describe como cambio de patrimonial a demanial. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «un bien patrimonial pasa a ser de dominio público». El distractor «un bien de dominio público se vende» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema la describe como cambio de patrimonial a demanial. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «un bien patrimonial pasa a ser de dominio público»."
   },
   {
     "id": "t27-p007",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, una Entidad Local puede adquirir bienes por:",
     "opciones": [
-      "expropiación forzosa",
       "solo compraventa",
       "solo prescripción",
-      "solo herencia intestada"
+      "solo herencia intestada",
+      "expropiación forzosa"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.9 · 3.1 Modos de adquisición",
-    "explicacion": "El tema enumera varios modos, entre ellos la expropiación. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «expropiación forzosa». El distractor «solo compraventa» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema enumera varios modos, entre ellos la expropiación. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «expropiación forzosa»."
   },
   {
     "id": "t27-p008",
@@ -109,19 +109,19 @@
     ],
     "correcta": 0,
     "referencia": "II.9 · 3.2 Adquisición a título oneroso: procedimiento",
-    "explicacion": "El tema exige tasación y escritura pública. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «tasación pericial previa y formalización en escritura pública». El distractor «solo un acuerdo verbal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema exige tasación y escritura pública. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «tasación pericial previa y formalización en escritura pública»."
   },
   {
     "id": "t27-p009",
     "tema": 18,
     "pregunta": "En los bienes patrimoniales de las entidades locales, la recuperación de oficio debe ejercitarse dentro del plazo de:",
     "opciones": [
-      "un año desde el día siguiente a la usurpación",
       "cinco años desde la ocupación",
+      "un año desde el día siguiente a la usurpación",
       "treinta días desde la pérdida",
       "diez años desde la pérdida"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · 4.2.3 Recuperación de oficio (recuperación posesoria)",
     "explicacion": "El artículo 82.a LRBRL y el 70.2 RBEL limitan a un año la recuperación administrativa de bienes patrimoniales, contado desde el día siguiente a la usurpación. Para el dominio público, en cambio, puede recuperarse la posesión en cualquier momento; pasado el año, la entidad debe acudir a los tribunales ordinarios."
   },
@@ -130,28 +130,28 @@
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, el deslinde sirve para:",
     "opciones": [
-      "fijar la línea divisoria entre bienes de dominio público y fincas colindantes",
       "aprobar las cuentas anuales",
       "determinar la nómina de personal",
+      "fijar la línea divisoria entre bienes de dominio público y fincas colindantes",
       "regular la jornada laboral"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 4.2.2 Deslinde",
-    "explicacion": "El tema define así esta potestad. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «fijar la línea divisoria entre bienes de dominio público y fincas colindantes». El distractor «aprobar las cuentas anuales» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema define así esta potestad. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «fijar la línea divisoria entre bienes de dominio público y fincas colindantes»."
   },
   {
     "id": "t27-p011",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, el uso común especial de un bien de dominio público requiere:",
     "opciones": [
-      "licencia o autorización",
       "siempre concesión por 99 años",
       "subasta judicial",
-      "ningún título habilitante"
+      "ningún título habilitante",
+      "licencia o autorización"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.9 · 5.1 Aprovechamiento de los bienes de uso público",
-    "explicacion": "El tema diferencia el uso común especial del privativo. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «licencia o autorización». El distractor «siempre concesión por 99 años» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema diferencia el uso común especial del privativo. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «licencia o autorización»."
   },
   {
     "id": "t27-p012",
@@ -165,49 +165,49 @@
     ],
     "correcta": 0,
     "referencia": "II.9 · 5.2 Aprovechamiento de los bienes comunales",
-    "explicacion": "El tema enumera esos tres modos. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «explotación común, lotes o suertes, y adjudicación mediante precio». El distractor «venta libre al mejor postor sin restricciones» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema enumera esos tres modos. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «explotación común, lotes o suertes, y adjudicación mediante precio»."
   },
   {
     "id": "t27-p013",
     "tema": 18,
-    "pregunta": "En los bienes de las entidades locales, la enajenación directa excepcional puede darse cuando:",
+    "pregunta": "Si una subasta para enajenar un bien patrimonial local queda desierta, ¿basta ese hecho por sí solo para adjudicar directamente el inmueble a un particular?",
     "opciones": [
-      "han quedado desiertas dos subastas sucesivas",
-      "lo solicita cualquier vecino",
-      "el bien sea demanial y no patrimonial",
-      "el precio se fija libremente sin límites"
+      "Sí, basta con que hayan quedado desiertas dos subastas sucesivas.",
+      "No; la subasta sigue siendo la regla general y la subasta desierta no habilita por sí sola la adjudicación directa, salvo que una norma aplicable establezca expresamente otra cosa.",
+      "Sí, si lo solicita el vecino que ocupa el inmueble.",
+      "Sí, siempre que el inmueble sea demanial."
     ],
-    "correcta": 0,
-    "referencia": "II.9 · 6.3 Enajenación directa (sin subasta)",
-    "explicacion": "El tema lo admite tras dos subastas desiertas, entre otros supuestos. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «han quedado desiertas dos subastas sucesivas». El distractor «lo solicita cualquier vecino» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "correcta": 1,
+    "referencia": "II.9 · 6.1 Requisitos comunes; RBEL, arts. 109 y 112; TRRL, art. 80",
+    "explicacion": "La subasta pública es la regla general de enajenación de bienes patrimoniales locales y el artículo 112.2 RBEL contempla expresamente la permuta como excepción, con sus requisitos. Que una subasta quede desierta no constituye por sí solo una excepción que permita adjudicar directamente a un particular bajo el régimen estatal local; hay que comprobar si existe una norma autonómica aplicable que lo autorice."
   },
   {
     "id": "t27-p014",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, la permuta es posible cuando la diferencia de valor no excede del:",
     "opciones": [
-      "40 % del valor del bien de mayor valor",
       "10 % del valor medio",
       "75 % del valor del bien de menor valor",
+      "40 % del valor del bien de mayor valor",
       "100 % del valor del bien de mayor valor"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 6.4 Permuta",
-    "explicacion": "El tema fija ese límite del 40 %. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «40 % del valor del bien de mayor valor». El distractor «10 % del valor medio» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema fija ese límite del 40 %. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «40 % del valor del bien de mayor valor»."
   },
   {
     "id": "t27-p015",
     "tema": 18,
     "pregunta": "En los bienes de las entidades locales, la cesión gratuita de bienes patrimoniales puede hacerse a favor de:",
     "opciones": [
-      "Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines de utilidad pública o interés social",
       "Cualquier persona física empadronada en el municipio que lo solicite",
       "Exclusivamente sociedades mercantiles con participación pública mayoritaria",
-      "Solo partidos políticos y organizaciones sindicales con representación institucional"
+      "Solo partidos políticos y organizaciones sindicales con representación institucional",
+      "Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines de utilidad pública o interés social"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Bienes patrimoniales · cesión gratuita",
-    "explicacion": "La cesión gratuita de bienes patrimoniales exige un destino de utilidad pública o interés social y un beneficiario legalmente idóneo. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines…». El distractor «Cualquier persona física empadronada en el municipio que…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La cesión gratuita de bienes patrimoniales exige un destino de utilidad pública o interés social y un beneficiario legalmente idóneo. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «Otras Administraciones Públicas o entidades privadas sin ánimo de lucro que los destinen a fines…»."
   },
   {
     "id": "topup-18-04",
@@ -221,49 +221,49 @@
     "correcta": 0,
     "referencia": "II.9 · Inventario de bienes",
     "tema": 18,
-    "explicacion": "El inventario es un instrumento básico de conocimiento y gestión patrimonial. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «identificar y controlar su patrimonio». El distractor «aprobar sanciones urbanísticas» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El inventario es un instrumento básico de conocimiento y gestión patrimonial. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «identificar y controlar su patrimonio»."
   },
   {
     "id": "topup-18-05",
     "pregunta": "En los bienes de las entidades locales, los bienes de dominio público se caracterizan, entre otras notas, por ser:",
     "opciones": [
-      "inalienables, imprescriptibles e inembargables",
       "libremente permutables sin expediente",
+      "inalienables, imprescriptibles e inembargables",
       "susceptibles de embargo ordinario",
       "siempre cedibles a título oneroso"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · Bienes de dominio público",
     "tema": 18,
-    "explicacion": "Son las notas clásicas del dominio público local. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «inalienables, imprescriptibles e inembargables». El distractor «libremente permutables sin expediente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Son las notas clásicas del dominio público local. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «inalienables, imprescriptibles e inembargables»."
   },
   {
     "id": "refine-18-01",
     "pregunta": "Los bienes de dominio público local se caracterizan, entre otras notas, por ser:",
     "opciones": [
-      "inalienables, inembargables e imprescriptibles",
       "siempre arrendables sin limitaciones",
       "susceptibles de embargo por cualquier deuda tributaria",
+      "inalienables, inembargables e imprescriptibles",
       "libremente enajenables por decreto de alcaldía"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · Bienes de dominio público local",
     "tema": 18,
-    "explicacion": "El dominio público se protege mediante esas notas clásicas de indisponibilidad reforzada. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «inalienables, inembargables e imprescriptibles». El distractor «siempre arrendables sin limitaciones» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El dominio público se protege mediante esas notas clásicas de indisponibilidad reforzada. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «inalienables, inembargables e imprescriptibles»."
   },
   {
     "id": "refine-18-02",
     "pregunta": "En los bienes de las entidades locales, la afectación de un bien local significa:",
     "opciones": [
-      "su destino a un uso general o a un servicio público",
       "su venta forzosa en subasta",
       "su incorporación al patrimonio sindical",
-      "su desinscripción del inventario municipal"
+      "su desinscripción del inventario municipal",
+      "su destino a un uso general o a un servicio público"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.9 · Afectación y desafectación",
     "tema": 18,
-    "explicacion": "La afectación transforma el destino jurídico del bien hacia el dominio público o servicio público. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «su destino a un uso general o a un servicio público». El distractor «su venta forzosa en subasta» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La afectación transforma el destino jurídico del bien hacia el dominio público o servicio público. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «su destino a un uso general o a un servicio público»."
   },
   {
     "id": "refine-18-03",
@@ -277,49 +277,49 @@
     "correcta": 0,
     "referencia": "II.9 · Bienes patrimoniales",
     "tema": 18,
-    "explicacion": "Los bienes patrimoniales se definen por exclusión respecto del dominio público. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «no están destinados directamente a uso público ni afectados a un servicio público». El distractor «pertenecen siempre a los vecinos por turnos» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Los bienes patrimoniales se definen por exclusión respecto del dominio público. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «no están destinados directamente a uso público ni afectados a un servicio público»."
   },
   {
     "id": "burgos-ii09-deep-01",
     "tema": 18,
     "pregunta": "Según el artículo 81 de la LRBRL, ¿cuál de estas alteraciones de la calificación jurídica puede producirse automáticamente?",
     "opciones": [
-      "La adscripción de un bien patrimonial por más de 25 años a un uso o servicio público",
       "La falta de uso de un inmueble durante seis meses",
+      "La adscripción de un bien patrimonial por más de 25 años a un uso o servicio público",
       "La aprobación de un arrendamiento por la Alcaldía",
       "La inclusión de un bien en una ordenanza fiscal"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · 3.2 Afectación, desafectación y mutación demanial",
-    "explicacion": "La LRBRL contempla, entre otros supuestos, la adscripción de bienes patrimoniales por más de 25 años a un uso o servicio público. La mera falta de uso no desafecta por sí sola. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «La adscripción de un bien patrimonial por más de 25 años a un uso o…». El distractor «La falta de uso de un inmueble durante…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La LRBRL contempla, entre otros supuestos, la adscripción de bienes patrimoniales por más de 25 años a un uso o servicio público. La mera falta de uso no desafecta por sí sola. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «La adscripción de un bien patrimonial por más de 25 años a un uso o…»."
   },
   {
     "id": "burgos-ii09-deep-02",
     "tema": 18,
     "pregunta": "Un particular ocupa sin título una porción de dominio público local. ¿Durante cuánto tiempo puede la entidad local recuperar por sí misma su posesión?",
     "opciones": [
-      "En cualquier momento",
       "Solo durante un año desde el día siguiente a la ocupación",
       "Durante cinco años",
+      "En cualquier momento",
       "Nunca por vía administrativa"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 4.2 Potestades de defensa",
-    "explicacion": "La recuperación de oficio de los bienes de dominio público puede ejercerse en cualquier tiempo; el plazo de un año se aplica a los bienes patrimoniales. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «En cualquier momento». El distractor «Solo durante un año desde el día siguiente…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La recuperación de oficio de los bienes de dominio público puede ejercerse en cualquier tiempo; el plazo de un año se aplica a los bienes patrimoniales. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «En cualquier momento»."
   },
   {
     "id": "burgos-ii09-deep-03",
     "tema": 18,
     "pregunta": "La instalación de una terraza que intensifica el aprovechamiento de la vía pública constituye, con carácter general, un:",
     "opciones": [
-      "uso común especial",
       "uso común general",
       "uso privativo necesariamente",
-      "desafectación tácita"
+      "desafectación tácita",
+      "uso común especial"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.9 · 5.1 Dominio público: uso común y uso privativo",
-    "explicacion": "La terraza suele ser un uso común especial: intensifica o singulariza el aprovechamiento, pero no necesariamente excluye por completo a los demás. Requiere autorización o licencia y condiciones. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «uso común especial». El distractor «uso común general» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La terraza suele ser un uso común especial: intensifica o singulariza el aprovechamiento, pero no necesariamente excluye por completo a los demás. Requiere autorización o licencia y condiciones. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «uso común especial»."
   },
   {
     "id": "burgos-ii09-deep-04",
@@ -333,49 +333,49 @@
     ],
     "correcta": 0,
     "referencia": "II.9 · 5.2 Bienes comunales",
-    "explicacion": "El RBEL establece como primera opción la explotación común o cultivo colectivo. Solo si resulta impracticable se acude a las formas sucesivas y, en último término, al precio. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «Explotación común o cultivo colectivo; después, si es impracticable, aprovechamiento peculiar o lotes; finalmente, adjudicación…». El distractor «Subasta abierta a cualquier persona; después, lotes; finalmente,…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El RBEL establece como primera opción la explotación común o cultivo colectivo. Solo si resulta impracticable se acude a las formas sucesivas y, en último término, al precio. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «Explotación común o cultivo colectivo; después, si es impracticable, aprovechamiento peculiar o lotes; finalmente, adjudicación…»."
   },
   {
     "id": "burgos-ii09-deep-05",
     "tema": 18,
     "pregunta": "La autorización de la Comunidad Autónoma para enajenar, gravar o permutar un inmueble patrimonial local es exigible cuando su valor excede de:",
     "opciones": [
-      "el 25 % de los recursos ordinarios del presupuesto anual de la Corporación",
       "el 5 % de los recursos ordinarios del presupuesto anual",
+      "el 25 % de los recursos ordinarios del presupuesto anual de la Corporación",
       "el 40 % del valor del inmueble de mayor valor",
       "el 6 % del valor en venta"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · 6.1 Requisitos comunes de la enajenación",
-    "explicacion": "El artículo 109 RBEL fija el umbral del 25 % de los recursos ordinarios del presupuesto anual para exigir autorización autonómica. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «el 25 % de los recursos ordinarios del presupuesto anual de la Corporación». El distractor «el 5 % de los recursos ordinarios del…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 109 RBEL fija el umbral del 25 % de los recursos ordinarios del presupuesto anual para exigir autorización autonómica. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «el 25 % de los recursos ordinarios del presupuesto anual de la Corporación»."
   },
   {
     "id": "burgos-ii09-deep-06",
     "tema": 18,
     "pregunta": "En una permuta de inmuebles patrimoniales, la diferencia de valor no puede ser superior a:",
     "opciones": [
-      "el 40 % del valor del bien que lo tenga mayor",
       "el 25 % de los recursos ordinarios del presupuesto",
       "el 5 % del precio de adjudicación",
+      "el 40 % del valor del bien que lo tenga mayor",
       "el 6 % del valor en venta de ambos bienes"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 6.2 Permuta",
-    "explicacion": "El artículo 112 RBEL permite la permuta sin subasta cuando la diferencia no supera el 40 % del valor del bien de mayor valor y el expediente acredita su necesidad. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «el 40 % del valor del bien que lo tenga mayor». El distractor «el 25 % de los recursos ordinarios del…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 112 RBEL permite la permuta sin subasta cuando la diferencia no supera el 40 % del valor del bien de mayor valor y el expediente acredita su necesidad. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «el 40 % del valor del bien que lo tenga mayor»."
   },
   {
     "id": "burgos-ii09-deep-07",
     "tema": 18,
     "pregunta": "Para una cesión gratuita de un inmueble patrimonial local, el acuerdo debe adoptarse con el voto favorable de:",
     "opciones": [
-      "la mayoría absoluta del número legal de miembros de la Corporación",
       "la mayoría simple de los asistentes, siempre",
       "dos tercios de los vecinos empadronados",
-      "unanimidad de la Junta de Gobierno Local"
+      "unanimidad de la Junta de Gobierno Local",
+      "la mayoría absoluta del número legal de miembros de la Corporación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.9 · 6.3 Cesión gratuita",
-    "explicacion": "El artículo 110 RBEL exige mayoría absoluta del número legal de miembros de la Corporación, además de un expediente con informes, acreditaciones e información pública. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «la mayoría absoluta del número legal de miembros de la Corporación». El distractor «la mayoría simple de los asistentes, siempre» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 110 RBEL exige mayoría absoluta del número legal de miembros de la Corporación, además de un expediente con informes, acreditaciones e información pública. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «la mayoría absoluta del número legal de miembros de la Corporación»."
   },
   {
     "id": "burgos-ii09-deep-08",
@@ -389,34 +389,34 @@
     ],
     "correcta": 0,
     "referencia": "II.9 · 6.3 Cesión gratuita",
-    "explicacion": "El artículo 110 RBEL exige información pública por plazo no inferior a 15 días. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «15 días». El distractor «5 días» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 110 RBEL exige información pública por plazo no inferior a 15 días. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «15 días»."
   },
   {
     "id": "burgos-ii09-deep-09",
     "tema": 18,
     "pregunta": "La recuperación de oficio de un bien patrimonial local usurpado debe ejercitarse, según la LRBRL y el RBEL, dentro de:",
     "opciones": [
-      "un año desde el día siguiente a la fecha de la usurpación",
       "un año desde la inscripción registral",
+      "un año desde el día siguiente a la fecha de la usurpación",
       "cinco años desde la aprobación del inventario",
       "cualquier momento, igual que en los bienes demaniales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.9 · 4.2 Potestades de defensa",
-    "explicacion": "Para los bienes patrimoniales el plazo es de un año, contado desde el día siguiente a la usurpación; después procede la acción ante los tribunales ordinarios. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «un año desde el día siguiente a la fecha de la usurpación». El distractor «un año desde la inscripción registral» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Para los bienes patrimoniales el plazo es de un año, contado desde el día siguiente a la usurpación; después procede la acción ante los tribunales ordinarios. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «un año desde el día siguiente a la fecha de la usurpación»."
   },
   {
     "id": "burgos-ii09-deep-10",
     "tema": 18,
     "pregunta": "Una ocupación privativa de una porción del dominio público local requiere, como regla general, una:",
     "opciones": [
-      "concesión demanial",
       "desafectación automática",
       "cesión gratuita patrimonial",
+      "concesión demanial",
       "permuta con un bien privado"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.9 · 5.1 Dominio público: uso común y uso privativo",
-    "explicacion": "El uso privativo limita o excluye el uso de los demás y se articula normalmente mediante concesión demanial, con condiciones y plazo. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «concesión demanial». El distractor «desafectación automática» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El uso privativo limita o excluye el uso de los demás y se articula normalmente mediante concesión demanial, con condiciones y plazo. La norma aplicable —la Ley 7/1985 y el Reglamento de Bienes de las Entidades Locales— establece «concesión demanial»."
   }
 ]

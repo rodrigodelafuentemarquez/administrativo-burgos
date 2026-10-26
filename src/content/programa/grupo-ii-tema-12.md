@@ -71,7 +71,7 @@ La preparación puede incluir consulta previa, memoria de necesidad, alternativa
 4. **Resolución de todas las reclamaciones y sugerencias.** El Pleno debe examinarlas y motivar su aceptación o rechazo.
 5. **Aprobación definitiva por el Pleno.** Si hay reclamaciones, el acuerdo definitivo debe resolverlas. Si no hay ninguna, el acuerdo provisional se entiende definitivamente adoptado sin nuevo debate plenario.
 6. **Publicación íntegra.** El texto definitivo se publica en el Boletín Oficial de la Provincia; además se publica o notifica lo que exijan las reglas de transparencia y la normativa sectorial.
-7. **Entrada en vigor.** Como regla general, las ordenanzas y reglamentos no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo de <mark>quince días</mark> previsto en los artículos 65.2 y 70.2 LRBRL, salvo que una norma aplicable establezca una especialidad.
+7. **Entrada en vigor.** Como regla general, las ordenanzas y reglamentos no entran en vigor hasta que se haya publicado completamente su texto y haya transcurrido el plazo de <mark>quince días hábiles</mark> previsto en los artículos 65.2 y 70.2 LRBRL, salvo que una norma aplicable establezca una especialidad.
 
 | Momento | Pregunta que resuelve |
 | --- | --- |
@@ -141,7 +141,7 @@ Para resolver una pregunta práctica, sigue este orden:
 - Confundir aprobación inicial con aprobación definitiva.
 - Olvidar los **treinta días** mínimos de información pública del artículo 49 LRBRL.
 - Creer que la ausencia de reclamaciones elimina la obligación de publicar el texto íntegro.
-- Confundir publicación con entrada en vigor: como regla, hay que añadir el plazo legal de quince días de los artículos 65.2 y 70.2 LRBRL.
+- Confundir publicación con entrada en vigor: como regla, hay que añadir el plazo legal de quince días hábiles de los artículos 65.2 y 70.2 LRBRL.
 - Atribuir al Alcalde la aprobación de una ordenanza o al Pleno la simple firma de un bando.
 - Pensar que un bando puede sustituir al procedimiento de una ordenanza.
 - Confundir una ordenanza fiscal con una liquidación tributaria.
@@ -156,3 +156,10 @@ Para resolver una pregunta práctica, sigue este orden:
 > **Bando:** Alcalde → medida informativa, ejecutiva o de policía → dentro de competencias → nunca sustituye la ordenanza.
 
 La idea que debe quedar es: **la ordenanza regula con vocación general; el reglamento organiza o desarrolla; el bando ejecuta, informa o recuerda**.
+
+
+## 10. Fuentes normativas
+
+- [Ley 7/1985, Reguladora de las Bases del Régimen Local (texto consolidado del BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392): arts. 4, 22, 47, 49, 65, 70, 123 y 127.
+- [Real Decreto Legislativo 2/2004, texto refundido de la Ley Reguladora de las Haciendas Locales (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2004-4214): arts. 15-19.
+- [Ley 39/2015, del Procedimiento Administrativo Común (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-10565): arts. 127-133, interpretados conforme a la STC 55/2018.

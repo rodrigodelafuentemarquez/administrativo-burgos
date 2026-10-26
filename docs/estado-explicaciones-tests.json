@@ -2029,7 +2029,8 @@
         "burgos-ii12-deep-09",
         "burgos-ii12-deep-10",
         "burgos-ii12-deep-11",
-        "burgos-ii12-deep-12"
+        "burgos-ii12-deep-12",
+        "burgos-ii05-lrjsp-01"
       ],
       "sources": [
         "https://www.boe.es/buscar/act.php?id=BOE-A-1978-31229",
@@ -2333,7 +2334,8 @@
             "burgos-ii05-deep-07",
             "burgos-ii05-deep-08",
             "burgos-ii05-deep-09",
-            "burgos-ii05-deep-10"
+            "burgos-ii05-deep-10",
+            "burgos-ii05-lrjsp-01"
           ],
           "sources": [
             "https://www.boe.es/buscar/act.php?id=BOE-A-2015-10566",
@@ -2341,7 +2343,7 @@
             "https://www.boe.es/buscar/act.php?id=BOE-A-2001-14243"
           ],
           "status": "reviewed",
-          "questionCount": 38
+          "questionCount": 39
         },
         "15": {
           "reviewedIds": [
@@ -2820,14 +2822,15 @@
       ],
       "lastWindowStartedAt": 1791362117,
       "completedAt": "2026-10-07T03:43:47.747113+00:00",
-      "questionCount": 514,
+      "questionCount": 515,
       "validation": {
-        "uniqueIds": 514,
-        "reviewedIds": 514,
+        "uniqueIds": 515,
+        "reviewedIds": 515,
         "keysAndOptions": "passed",
         "publicDataSync": "passed",
         "build": "passed",
-        "diffCheck": "passed"
+        "diffCheck": "passed",
+        "reviewedCount": 515
       }
     },
     "III": {
@@ -3549,7 +3552,15 @@
         "burgos-iv05-deep-09",
         "burgos-iv05-deep-10",
         "burgos-iv05-deep-11",
-        "burgos-iv05-deep-12"
+        "burgos-iv05-deep-12",
+        "burgos-iv04-topup-13",
+        "burgos-iv04-topup-14",
+        "burgos-iv04-topup-15",
+        "burgos-iv04-topup-16",
+        "burgos-iv04-topup-17",
+        "burgos-iv04-topup-18",
+        "burgos-iv04-topup-19",
+        "burgos-iv04-topup-20"
       ],
       "sources": [
         "https://www.boe.es/eli/es-cl/l/1999/04/08/5/con",
@@ -3567,7 +3578,7 @@
       ],
       "startedAt": "2026-10-07T22:14:23+00:00",
       "lastWindowStartedAt": 1791423260,
-      "questionCount": 165,
+      "questionCount": 173,
       "topics": {
         "27": {
           "questionCount": 39,
@@ -3712,7 +3723,7 @@
           ]
         },
         "30": {
-          "questionCount": 22,
+          "questionCount": 30,
           "reviewedIds": [
             "t44-p014",
             "t44-p015",
@@ -3735,7 +3746,15 @@
             "burgos-iv04-deep-09",
             "burgos-iv04-deep-10",
             "burgos-iv04-deep-11",
-            "burgos-iv04-deep-12"
+            "burgos-iv04-deep-12",
+            "burgos-iv04-topup-13",
+            "burgos-iv04-topup-14",
+            "burgos-iv04-topup-15",
+            "burgos-iv04-topup-16",
+            "burgos-iv04-topup-17",
+            "burgos-iv04-topup-18",
+            "burgos-iv04-topup-19",
+            "burgos-iv04-topup-20"
           ],
           "sources": [
             "https://www.boe.es/eli/es/rdlg/2004/03/05/2/con",
@@ -3791,14 +3810,15 @@
       },
       "corrections": [],
       "validation": {
-        "reviewedCount": "passed",
-        "uniqueIds": "passed",
+        "reviewedCount": 173,
+        "uniqueIds": 173,
         "options": "passed",
         "answerKeys": "passed",
         "explanations": "passed",
         "publicSync": "passed",
         "build": "passed",
-        "diffCheck": "passed"
+        "diffCheck": "passed",
+        "reviewedIds": 173
       },
       "updatedAt": "2026-10-08T06:21:33+00:00",
       "completedAt": "2026-10-08T06:21:33+00:00"

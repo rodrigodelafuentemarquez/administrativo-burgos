@@ -36,12 +36,12 @@
     "tema": 28,
     "pregunta": "En materia presupuestaria, el Presupuesto General integra entre otros:",
     "opciones": [
-      "el presupuesto de la propia Entidad Local y el de sus organismos autónomos",
       "solo el del Ayuntamiento",
+      "el presupuesto de la propia Entidad Local y el de sus organismos autónomos",
       "únicamente el de la Tesorería",
       "solo los planes provinciales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "IV.2 · 7.3 Contenido del Presupuesto General",
     "explicacion": "El tema recoge ese contenido en el art. 164 TRLRHL. El artículo 164 del TRLRHL integra en el presupuesto general el de la entidad local y los de sus organismos autónomos, además de los estados de previsión de las sociedades mercantiles dependientes en los términos legales. La integración permite una visión consolidada, sin confundir personalidad jurídica con presupuesto único."
   },
@@ -50,12 +50,12 @@
     "tema": 28,
     "pregunta": "En materia presupuestaria, si el presupuesto no se aprueba antes del 1 de enero:",
     "opciones": [
-      "queda automáticamente prorrogado el del ejercicio anterior",
       "se disuelve la Corporación",
       "se aplica el presupuesto del Estado",
+      "queda automáticamente prorrogado el del ejercicio anterior",
       "se suspende la contabilidad"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "IV.2 · 9.2 Prórroga del presupuesto",
     "explicacion": "El tema prevé la prórroga automática. El artículo 169.6 del TRLRHL dispone la prórroga automática si el nuevo presupuesto no entra en vigor el primer día del ejercicio. La prórroga no incorpora créditos para servicios o programas concluidos ni los financiados con ingresos específicos que desaparezcan; tampoco equivale a aprobar un presupuesto nuevo."
   },
@@ -64,12 +64,12 @@
     "tema": 28,
     "pregunta": "En el estado de ingresos del presupuesto local, el capítulo 3 corresponde a:",
     "opciones": [
-      "tasas, precios públicos y otros ingresos",
       "transferencias corrientes",
       "impuestos directos",
-      "ingresos patrimoniales"
+      "ingresos patrimoniales",
+      "tasas, precios públicos y otros ingresos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "IV.2 · 8.1 Estado de ingresos (previsiones)",
     "explicacion": "La clasificación económica de ingresos asigna el capítulo 3 a tasas, precios públicos y otros ingresos. La Orden EHA/3565/2008 fija la estructura económica local: en gastos, los capítulos 1 a 4 son corrientes, el 5 fondo de contingencia, 6 y 7 capital y 8 y 9 financieros; en ingresos, el capítulo 3 recoge tasas, precios públicos y otros ingresos. La clasificación identifica naturaleza, no órgano gestor."
   },
@@ -92,12 +92,12 @@
     "tema": 28,
     "pregunta": "En materia presupuestaria, el presupuesto público es principalmente:",
     "opciones": [
-      "Una autorización jurídica y financiera para realizar gastos y prever ingresos durante un ejercicio determinado",
       "Un mero estado contable interno carente de eficacia jurídica externa",
+      "Una autorización jurídica y financiera para realizar gastos y prever ingresos durante un ejercicio determinado",
       "Un plan económico plurianual sin referencia a un ejercicio presupuestario",
       "Una reserva de tesorería constituida solo para atender gastos imprevistos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Presupuesto público · concepto",
     "explicacion": "El presupuesto tiene dimensión jurídica y financiera, y se refiere a un ejercicio concreto. El artículo 162 del TRLRHL define el presupuesto como previsión de derechos a liquidar y límite máximo de obligaciones reconocibles durante el ejercicio. No es una mera relación contable ni una caja disponible: ordena jurídicamente la actividad financiera anual de la entidad y sus organismos autónomos."
   },
@@ -120,12 +120,12 @@
     "tema": 28,
     "pregunta": "En materia presupuestaria, el principio de universalidad exige que:",
     "opciones": [
-      "Todos los ingresos y gastos se incluyan íntegramente en el presupuesto",
       "Solo se incluyan los gastos corrientes",
       "Los ingresos financien gastos concretos afectados",
+      "Todos los ingresos y gastos se incluyan íntegramente en el presupuesto",
       "El presupuesto se apruebe cada dos años"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "IV.2 · 2.3 Principio de universalidad",
     "explicacion": "La universalidad impide compensaciones y exige incluir todo ingreso y gasto. La normativa presupuestaria exige unidad, universalidad, especialidad y anualidad, entre otros principios. Universalidad significa incluir íntegramente ingresos y gastos, mientras que especialidad limita el crédito por finalidad, importe y tiempo; una regla de procedimiento ajena al presupuesto no es un principio presupuestario."
   },
@@ -162,12 +162,12 @@
     "tema": 28,
     "pregunta": "En materia presupuestaria, ¿cuál de las siguientes agrupaciones es correcta?",
     "opciones": [
-      "Capítulos 1 a 5: gastos corrientes; 6 y 7: capital; 8 y 9: operaciones financieras",
       "Capítulos 1 a 3: capital; 4 a 6: corrientes; 7 a 9: financieras",
       "Capítulos 1 a 4: financieras; 5 a 7: corrientes; 8 a 9: capital",
+      "Capítulos 1 a 5: gastos corrientes; 6 y 7: capital; 8 y 9: operaciones financieras",
       "Capítulos 1 a 9: todos son gastos corrientes"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "IV.2 · 3.3 Clasificación económica",
     "explicacion": "El tema clasifica así los capítulos presupuestarios. La Orden EHA/3565/2008 fija la estructura económica local: en gastos, los capítulos 1 a 4 son corrientes, el 5 fondo de contingencia, 6 y 7 capital y 8 y 9 financieros; en ingresos, el capítulo 3 recoge tasas, precios públicos y otros ingresos. La clasificación identifica naturaleza, no órgano gestor."
   },
@@ -177,11 +177,11 @@
     "pregunta": "En materia presupuestaria, un crédito extraordinario se caracteriza porque:",
     "opciones": [
       "Redistribuye crédito sin alterar el gasto total",
-      "Crea una nueva partida para un gasto no previsto",
       "Solo se aplica a gastos de personal",
-      "No requiere aprobación alguna"
+      "No requiere aprobación alguna",
+      "Crea una nueva partida para un gasto no previsto"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "IV.2 · 6.2 Créditos extraordinarios y suplementos de crédito",
     "explicacion": "El crédito extraordinario crea una partida nueva y aumenta el gasto total. Los artículos 177 del TRLRHL y 35 del RD 500/1990 distinguen el crédito extraordinario, que habilita gasto específico no previsto, del suplemento, que aumenta crédito existente insuficiente. Ambos requieren que el gasto no pueda demorarse y financiación determinada; no son simples trasvases entre aplicaciones."
   },
@@ -202,27 +202,27 @@
   {
     "id": "t44-p022",
     "tema": 28,
-    "pregunta": "En materia presupuestaria, los anticipos de tesorería permiten al Gobierno, con la autorización correspondiente:",
+    "pregunta": "Según el artículo 60 de la Ley General Presupuestaria, los anticipos de Tesorería para gastos inaplazables pueden concederse excepcionalmente por:",
     "opciones": [
-      "Atender gastos urgentes antes de que se apruebe el nuevo presupuesto o cuando el vigente resulte insuficiente",
-      "Financiar con carácter ordinario cualquier ampliación de plantillas",
-      "Sustituir definitivamente al crédito extraordinario y al suplemento de crédito",
-      "Evitar toda intervención del órgano legislativo en materia presupuestaria"
+      "El Gobierno, a propuesta del Ministro de Economía, en los supuestos tasados y con el límite del 1 % de los créditos autorizados al Estado",
+      "El Pleno municipal, con carácter ordinario y sin límite cuantitativo",
+      "La Intervención local, por decisión técnica y sin crédito",
+      "La Tesorería municipal, para sustituir definitivamente cualquier modificación presupuestaria"
     ],
     "correcta": 0,
-    "referencia": "IV.2 · 6.7 Anticipos de tesorería",
-    "explicacion": "El tema presenta los anticipos de tesorería como un instrumento excepcional para gastos urgentes. El anticipo de tesorería es una figura excepcional y temporal prevista para atender gastos urgentes en los supuestos legales; no sustituye la aprobación presupuestaria ni genera crédito ordinario por sí solo. Debe diferenciarse del anticipo de caja fija, pensado para pagos periódicos y repetitivos de gestión corriente."
+    "referencia": "LGP, art. 60 · comparación con presupuesto local",
+    "explicacion": "El artículo 60 LGP permite excepcionalmente al Gobierno, a propuesta del Ministro de Economía, conceder anticipos de Tesorería para gastos inaplazables en dos supuestos tasados y con un límite del 1 % de los créditos estatales. Es una regla del presupuesto del Estado; no debe confundirse con anticipos de caja fija ni con operaciones de tesorería locales, regulados por su propio régimen."
   },
   {
     "id": "refine-28-01",
     "pregunta": "El presupuesto general de la entidad local integra, entre otros documentos, el presupuesto de la propia entidad y el de:",
     "opciones": [
-      "sus organismos autonomos",
       "solo sus grupos políticos municipales",
       "las comunidades de propietarios del municipio",
+      "sus organismos autonomos",
       "los partidos concurrentes a elecciones locales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "IV.2 · Presupuesto general",
     "tema": 28,
     "explicacion": "El presupuesto general incorpora los presupuestos de la entidad y de sus entes dependientes en los términos legales. El artículo 164 del TRLRHL integra en el presupuesto general el de la entidad local y los de sus organismos autónomos, además de los estados de previsión de las sociedades mercantiles dependientes en los términos legales. La integración permite una visión consolidada, sin confundir personalidad jurídica con presupuesto único."
@@ -231,12 +231,12 @@
     "id": "refine-28-02",
     "pregunta": "En materia presupuestaria, el crédito extraordinario procede cuando:",
     "opciones": [
-      "debe realizarse un gasto específico que no puede demorarse y no existe crédito para el",
       "hay crédito insuficiente en una aplicación ya existente",
       "se redistribuyen saldos sin alterar el presupuesto total",
-      "se prorroga automáticamente el presupuesto"
+      "se prorroga automáticamente el presupuesto",
+      "debe realizarse un gasto específico que no puede demorarse y no existe crédito para el"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "IV.2 · Modificaciones presupuestarias",
     "tema": 28,
     "explicacion": "El crédito extraordinario crea crédito para un gasto no previsto, mientras que el suplemento refuerza uno insuficiente. Los artículos 177 del TRLRHL y 35 del RD 500/1990 distinguen el crédito extraordinario, que habilita gasto específico no previsto, del suplemento, que aumenta crédito existente insuficiente. Ambos requieren que el gasto no pueda demorarse y financiación determinada; no son simples trasvases entre aplicaciones."
@@ -259,12 +259,12 @@
     "id": "refine-28-04",
     "pregunta": "En materia presupuestaria, las transferencias de crédito se caracterizan porque:",
     "opciones": [
-      "redistribuyen crédito entre aplicaciones sin aumentar el importe global del presupuesto",
       "incrementan necesariamente el total de gasto aprobado",
+      "redistribuyen crédito entre aplicaciones sin aumentar el importe global del presupuesto",
       "solo pueden aplicarse a ingresos patrimoniales",
       "sustituyen siempre a los anticipos de tesorería"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "IV.2 · Transferencias de crédito",
     "tema": 28,
     "explicacion": "La transferencia mueve crédito entre partidas, pero no incrementa el volumen total del presupuesto. La transferencia de crédito mueve dotación entre aplicaciones presupuestarias y no aumenta por sí misma el importe total del estado de gastos. El TRLRHL impone límites de destino y competencia, por lo que no equivale a una ampliación global ni permite eludir las restricciones entre grupos de función."
@@ -273,12 +273,12 @@
     "id": "refine-28-05",
     "pregunta": "En materia presupuestaria, la incorporación de créditos permite, en los supuestos legalmente previstos:",
     "opciones": [
-      "trasladar al nuevo presupuesto determinados remanentes del ejercicio anterior",
       "anular definitivamente cualquier saldo pendiente",
       "convertir todos los ingresos en operaciones financieras",
+      "trasladar al nuevo presupuesto determinados remanentes del ejercicio anterior",
       "evitar la aprobación del presupuesto anual"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "IV.2 · Incorporaciones de crédito",
     "tema": 28,
     "explicacion": "La incorporación permite arrastrar determinados créditos del ejercicio anterior cuando concurren los requisitos legales. La incorporación traslada al ejercicio siguiente solo remanentes expresamente admitidos por la ley y, como regla, exige recursos financieros suficientes. No todos los créditos no utilizados sobreviven al cierre: anualidad y vinculación del crédito impiden tratar la incorporación como automática."
@@ -339,12 +339,12 @@
     "tema": 28,
     "pregunta": "Según el concepto legal del presupuesto local, las obligaciones que contiene son:",
     "opciones": [
-      "Las que como máximo pueden reconocer la entidad local y sus organismos autónomos",
       "Todas las obligaciones que previsiblemente pagará la Tesorería, sin límite",
       "Solo las obligaciones ya reconocidas al aprobarlo",
-      "Las obligaciones futuras de cualquier sociedad privada del municipio"
+      "Las obligaciones futuras de cualquier sociedad privada del municipio",
+      "Las que como máximo pueden reconocer la entidad local y sus organismos autónomos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "TRLRHL, artículo 162 · IV.2, concepto",
     "explicacion": "El artículo 162 TRLRHL define el presupuesto como la expresión cifrada, conjunta y sistemática de las obligaciones que como máximo pueden reconocer la entidad y sus organismos autónomos, y de los derechos que se prevea liquidar. La definición distingue el límite de gasto de la previsión de ingresos: el crédito es un máximo autorizable, mientras que los derechos son importes que se espera liquidar. Por eso un presupuesto aprobado no acredita que el dinero ya se haya recaudado ni permite superar el crédito disponible."
   },
@@ -367,12 +367,12 @@
     "tema": 28,
     "pregunta": "En un gasto plurianual de inversión, el porcentaje máximo ordinario imputable al ejercicio inmediatamente posterior es:",
     "opciones": [
-      "El 70 % del crédito inicial del año en que se adquiere el compromiso",
       "El 50 % del crédito definitivo del último ejercicio",
+      "El 70 % del crédito inicial del año en que se adquiere el compromiso",
       "El 60 % del crédito inicial del ejercicio posterior",
       "El 100 % sin necesidad de límite"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "TRLRHL, artículo 174 y Real Decreto 500/1990, artículos 80 a 84 · IV.2",
     "explicacion": "Los límites ordinarios son 70 % para el primer ejercicio posterior, 60 % para el segundo y 50 % para el tercero y cuarto. El 70 % se calcula sobre el crédito inicial del ejercicio en que se adquiere el compromiso. No es el 70 % del coste total plurianual ni un porcentaje de libre disposición: se aplica a gastos comprendidos en los supuestos legales y puede modificarse con autorización plenaria motivada."
   },
@@ -381,12 +381,12 @@
     "tema": 28,
     "pregunta": "Como regla, los gastos plurianuales locales pueden afectar como máximo a:",
     "opciones": [
-      "Cuatro ejercicios posteriores al de autorización y compromiso",
       "Dos ejercicios posteriores, sin excepciones",
       "Cinco ejercicios posteriores siempre que lo apruebe el Alcalde",
+      "Cuatro ejercicios posteriores al de autorización y compromiso",
       "Todos los ejercicios que dure el contrato, sin límites"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "TRLRHL, artículo 174 · Real Decreto 500/1990, artículos 81 y 84",
     "explicacion": "La regla es un máximo de cuatro ejercicios posteriores. Excepcionalmente el Pleno puede ampliar el número de anualidades y los porcentajes. El cómputo son cuatro anualidades futuras después del ejercicio en que se autoriza y compromete el gasto. La ampliación es excepcional y corresponde al Pleno; no altera la exigencia de consignar crédito en cada presupuesto posterior ni garantiza por sí misma su financiación futura."
   },
@@ -395,12 +395,12 @@
     "tema": 28,
     "pregunta": "Debe tramitarse un crédito extraordinario cuando:",
     "opciones": [
-      "Existe un gasto específico que no puede demorarse y no hay crédito consignado",
       "Existe crédito, pero es insuficiente y puede ampliarse",
       "Se quiere mover crédito de una aplicación a otra",
-      "Se pretende cubrir un desfase temporal entre cobros y pagos"
+      "Se pretende cubrir un desfase temporal entre cobros y pagos",
+      "Existe un gasto específico que no puede demorarse y no hay crédito consignado"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "TRLRHL, artículo 177 · IV.2, modificaciones",
     "explicacion": "El crédito extraordinario crea crédito para un gasto no previsto; si ya existe crédito insuficiente, la figura es el suplemento. La existencia de una aplicación sin dotación obliga a crear crédito extraordinario; si la aplicación ya tiene saldo pero resulta insuficiente, se tramita un suplemento. La distinción afecta a la modificación que debe aprobarse y a la identificación de la finalidad presupuestaria."
   },
@@ -423,12 +423,12 @@
     "tema": 28,
     "pregunta": "La aprobación de una transferencia de crédito entre distintos grupos de función corresponde, con carácter general, a:",
     "opciones": [
-      "El Pleno de la corporación, salvo la excepción legal relativa a créditos de personal",
       "La Tesorería, sin necesidad de bases de ejecución",
+      "El Pleno de la corporación, salvo la excepción legal relativa a créditos de personal",
       "La Intervención, por tratarse de una operación contable",
       "Siempre la Junta de Gobierno Local, aunque el Pleno tenga atribuida la competencia"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "TRLRHL, artículo 179 · IV.2, transferencias",
     "explicacion": "El artículo 179.2 TRLRHL reserva al Pleno las transferencias entre distintos grupos de función, salvo cuando las bajas y altas afecten a créditos de personal. La transferencia de crédito mueve dotación entre aplicaciones presupuestarias y no aumenta por sí misma el importe total del estado de gastos. El TRLRHL impone límites de destino y competencia, por lo que no equivale a una ampliación global ni permite eludir las restricciones entre grupos de función."
   },
@@ -437,12 +437,12 @@
     "tema": 28,
     "pregunta": "¿Cuál de estos ingresos aparece entre los que pueden generar crédito en el estado de gastos local?",
     "opciones": [
-      "El reembolso de préstamos",
       "Cualquier impuesto directo liquidado fuera de plazo",
       "Una tasa sin relación con el gasto que se pretende financiar",
+      "El reembolso de préstamos",
       "Una multa, siempre y sin procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "TRLRHL, artículo 181 · IV.2, generaciones",
     "explicacion": "El artículo 181 TRLRHL incluye el reembolso de préstamos entre los ingresos de naturaleza no tributaria que pueden generar crédito, con el procedimiento reglamentario. El reembolso recupera principal de un préstamo concedido y la ley lo identifica como ingreso habilitante; un ingreso cualquiera no tiene ese efecto. La generación modifica una aplicación de gasto y requiere acuerdo y tramitación presupuestaria, no se produce automáticamente al registrar la entrada en tesorería."
   },
@@ -451,12 +451,12 @@
     "tema": 28,
     "pregunta": "Los créditos por operaciones de capital del ejercicio anterior pueden incorporarse al presupuesto siguiente:",
     "opciones": [
-      "Si existen recursos financieros suficientes y se cumplen los demás requisitos legales",
       "Siempre de forma automática, aunque no exista financiación",
       "Solo si se trata de gastos de personal",
-      "Nunca, porque todos los créditos se anulan el 31 de diciembre"
+      "Nunca, porque todos los créditos se anulan el 31 de diciembre",
+      "Si existen recursos financieros suficientes y se cumplen los demás requisitos legales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "TRLRHL, artículos 176 y 182 · IV.2, incorporaciones",
     "explicacion": "El artículo 182 TRLRHL permite incorporar créditos por operaciones de capital cuando existen recursos financieros suficientes; no todos los saldos se incorporan automáticamente. La suficiencia financiera es una condición, no la única: el remanente debe pertenecer a una categoría incorporable y respetar la vinculación jurídica del crédito. La incorporación opera al ejercicio inmediato siguiente y debe aprobarse conforme al procedimiento; el cierre no arrastra indistintamente todo saldo disponible."
   },
@@ -479,12 +479,12 @@
     "tema": 28,
     "pregunta": "Los anticipos de caja fija se destinan a:",
     "opciones": [
-      "Atenciones corrientes periódicas o repetitivas, con posterior aplicación al presupuesto y justificación",
       "Crear crédito nuevo para una obra no prevista",
+      "Atenciones corrientes periódicas o repetitivas, con posterior aplicación al presupuesto y justificación",
       "Financiar cualquier contrato sin límite ni control",
       "Sustituir la aprobación del presupuesto por el Pleno"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "TRLRHL, artículo 190 · Real Decreto 500/1990, artículos 73 a 76",
     "explicacion": "Son provisiones de fondos no presupuestarias y permanentes para gastos corrientes periódicos o repetitivos, reguladas en las bases y sujetas a reposición y control. La provisión se registra inicialmente fuera de la ejecución definitiva del gasto y se justifica después con facturas; entonces se aplica a las partidas correspondientes. No debe confundirse con un pago a justificar singular ni con una ampliación del crédito disponible."
   },
@@ -493,12 +493,12 @@
     "tema": 28,
     "pregunta": "¿Qué combinación de clasificación económica de gastos es correcta?",
     "opciones": [
-      "Capítulo 1: personal; capítulo 6: inversiones reales; capítulo 9: pasivos financieros",
       "Capítulo 1: impuestos directos; capítulo 6: transferencias corrientes; capítulo 9: tasas",
       "Capítulo 2: activos financieros; capítulo 7: personal; capítulo 8: inversiones reales",
+      "Capítulo 1: personal; capítulo 6: inversiones reales; capítulo 9: pasivos financieros",
       "Capítulo 4: pasivos financieros; capítulo 5: transferencias de capital; capítulo 6: gastos financieros"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Orden EHA/3565/2008 · IV.2, clasificación económica",
     "explicacion": "En gastos, el capítulo 1 es personal, el 6 inversiones reales y el 9 pasivos financieros. Los capítulos se ordenan por naturaleza económica: personal es gasto corriente, inversión real es operación de capital y pasivo financiero refleja amortización de deuda. La clasificación no depende del departamento que tramita la factura ni de que el pago se ejecute en uno o varios plazos."
   }

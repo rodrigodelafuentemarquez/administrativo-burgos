@@ -174,3 +174,9 @@ Para resolver un supuesto, pregunta en este orden:
 **Remunicipalización** → recuperar gestión pública con expediente, análisis económico y respeto al contrato y al personal.
 
 **Iniciativa económica** → interés público + mercado + estabilidad y sostenibilidad financiera + memoria y controles.
+
+### Fuentes oficiales para actualizar
+
+- [Ley 7/1985, de Bases del Régimen Local (BOE)](https://www.boe.es/eli/es/l/1985/04/02/7/con).
+- [Ley 9/2017, de Contratos del Sector Público (BOE)](https://www.boe.es/eli/es/l/2017/11/08/9/con).
+- [Real Decreto Legislativo 781/1986, texto refundido de régimen local (BOE)](https://www.boe.es/eli/es/rdlg/1986/04/18/781/con).

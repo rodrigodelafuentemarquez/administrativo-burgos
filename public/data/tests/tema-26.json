@@ -4,12 +4,12 @@
     "tema": 26,
     "pregunta": "El personal al servicio de las Entidades Locales queda encuadrado actualmente en:",
     "opciones": [
-      "el Régimen General de la Seguridad Social",
       "el Régimen Especial de Trabajadores Autónomos",
       "MUFACE para todo el personal",
+      "el Régimen General de la Seguridad Social",
       "ningún régimen de Seguridad Social"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · 1.2 Encuadramiento del personal local",
     "explicacion": "La respuesta correcta es «el Régimen General de la Seguridad Social». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   },
@@ -18,12 +18,12 @@
     "tema": 26,
     "pregunta": "Las Corporaciones Locales actúan a efectos de Seguridad Social como:",
     "opciones": [
-      "empresarios cotizantes",
       "mutuas privadas",
       "órganos jurisdiccionales",
-      "entidades sin obligaciones de alta"
+      "entidades sin obligaciones de alta",
+      "empresarios cotizantes"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · 1.3 La Corporación Local como empresario cotizante",
     "explicacion": "Como empleadoras, las Corporaciones Locales deben cumplir las obligaciones de inscripción, afiliación cuando proceda, altas y bajas, cotización e ingreso de cuotas. Actúan como empresarios a efectos del sistema, pero no como mutuas ni órganos jurisdiccionales. La TGSS gestiona los actos de encuadramiento y recaudación; la entidad local comunica los datos y satisface sus obligaciones."
   },
@@ -46,12 +46,12 @@
     "tema": 26,
     "pregunta": "En Seguridad Social, la incapacidad temporal es la situación en la que el trabajador está temporalmente imposibilitado para trabajar y precisa:",
     "opciones": [
-      "asistencia sanitaria de la Seguridad Social",
       "autorización presupuestaria",
+      "asistencia sanitaria de la Seguridad Social",
       "designación de un interventor",
       "suspensión de funciones"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · 4.1 Concepto",
     "explicacion": "La respuesta correcta es «asistencia sanitaria de la Seguridad Social». La incapacidad temporal exige impedimento temporal para trabajar y asistencia sanitaria, y dura como máximo 365 días, prorrogables por otros 180 cuando se prevea curación. No es una suspensión disciplinaria ni un periodo automático de dos años sin control."
   },
@@ -60,12 +60,12 @@
     "tema": 26,
     "pregunta": "En Seguridad Social, la duración máxima de la incapacidad temporal es de:",
     "opciones": [
-      "365 días, prorrogables por otros 180",
       "90 días, prorrogables por otros 30",
       "dos años sin revisión",
+      "365 días, prorrogables por otros 180",
       "180 días improrrogables"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · 4.4 Duración de la IT",
     "explicacion": "La respuesta correcta es «365 días, prorrogables por otros 180». La incapacidad temporal exige impedimento temporal para trabajar y asistencia sanitaria, y dura como máximo 365 días, prorrogables por otros 180 cuando se prevea curación. No es una suspensión disciplinaria ni un periodo automático de dos años sin control. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -74,12 +74,12 @@
     "tema": 26,
     "pregunta": "En Seguridad Social, la prestación por nacimiento y cuidado de menor dura, con carácter general,:",
     "opciones": [
-      "19 semanas por cada progenitor",
       "8 semanas por unidad familiar",
       "30 días naturales",
-      "18 meses"
+      "18 meses",
+      "19 semanas por cada progenitor"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor",
     "explicacion": "El RDL 9/2025 amplió la prestación por nacimiento y cuidado a diecinueve semanas para cada progenitor; dos semanas adicionales pueden disfrutarse hasta que el menor cumpla ocho años, según la disposición transitoria aplicable. La prestación económica es individual, no un bloque de semanas compartido por la unidad familiar. Las seis primeras siguen siendo obligatorias e ininterrumpidas."
   },
@@ -102,12 +102,12 @@
     "tema": 26,
     "pregunta": "En Seguridad Social, la prestación económica por nacimiento y cuidado de menor, equivale al:",
     "opciones": [
-      "100 % de la base reguladora",
       "75 % de la base mínima",
+      "100 % de la base reguladora",
       "60 % de la nómina",
       "50 % del salario mensual"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · 5.3 Cuantía del subsidio",
     "explicacion": "La prestación por nacimiento y cuidado de menor asciende al 100 % de la base reguladora, calculada con las reglas de cotización correspondientes. La base reguladora no equivale necesariamente al salario mensual neto ni a la base mínima. Por eso las opciones que hablan de un porcentaje fijo de nómina o de base mínima no expresan el cálculo legal."
   },
@@ -116,28 +116,28 @@
     "tema": 26,
     "pregunta": "En Seguridad Social, la incapacidad permanente total inhabilita al trabajador para:",
     "opciones": [
-      "todas o las fundamentales tareas de su profesión habitual",
       "cualquier trabajo retribuido en cualquier caso",
       "solo las tareas de administración",
+      "todas o las fundamentales tareas de su profesión habitual",
       "únicamente los trabajos nocturnos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · 6.2 Grados de incapacidad permanente",
     "explicacion": "La incapacidad permanente total inhabilita para todas o las tareas fundamentales de la profesión habitual, pero permite dedicarse a otra diferente, sin perjuicio de las reglas sobre compatibilidad. La incapacidad permanente absoluta afecta a todo trabajo y la parcial reduce el rendimiento sin impedir las tareas fundamentales. Por eso no equivale a una imposibilidad universal de trabajar."
   },
   {
     "id": "t30-p017",
     "tema": 26,
-    "pregunta": "Para acceder a la prestación por nacimiento y cuidado de menor, el período mínimo general de cotización es de:",
+    "pregunta": "Para la prestación contributiva por nacimiento y cuidado de menor, ¿qué carencia se exige a una persona que tiene 26 años o más en la fecha del nacimiento o hecho causante?",
     "opciones": [
-      "180 días dentro de los 7 años inmediatamente anteriores o 360 días a lo largo de la vida laboral",
       "90 días dentro de los 5 años anteriores o 180 a lo largo de toda la vida laboral",
       "365 días cotizados en el último año natural completo",
-      "Ningún período de cotización, con independencia de la edad del causante"
+      "Ningún período de cotización, con independencia de la edad del causante",
+      "180 días dentro de los 7 años inmediatamente anteriores o 360 días a lo largo de la vida laboral"
     ],
-    "correcta": 0,
-    "referencia": "LGSS · nacimiento y cuidado de menor",
-    "explicacion": "Para la prestación por nacimiento y cuidado, la carencia depende de la edad: a partir de 26 años se exigen 180 días en los siete años anteriores o 360 a lo largo de la vida laboral; entre 21 y 26 se aplican periodos menores y por debajo de 21 no se exige carencia. La opción señala el requisito general del supuesto adulto, no una regla uniforme para todas las edades."
+    "correcta": 3,
+    "referencia": "LGSS, art. 178.1",
+    "explicacion": "Conforme al artículo 178.1.c LGSS, a partir de los 26 años se exigen 180 días cotizados dentro de los siete años inmediatamente anteriores o, alternativamente, 360 días a lo largo de la vida laboral. Entre 21 y 25 años la carencia es menor; por debajo de 21 no se exige período mínimo."
   },
   {
     "id": "t30-p018",
@@ -186,12 +186,12 @@
     "tema": 26,
     "pregunta": "En Seguridad Social de empleados públicos, MUFACE se caracteriza por permitir al mutualista:",
     "opciones": [
-      "Elegir entre red pública y aseguradora privada concertada",
       "Percibir retribuciones complementarias",
       "Cobrar solo en junio y diciembre",
-      "Cotizar mediante el modelo 145"
+      "Cotizar mediante el modelo 145",
+      "Elegir entre red pública y aseguradora privada concertada"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · 7.1 La MUFACE",
     "explicacion": "MUFACE permite a sus mutualistas elegir, en los periodos y condiciones establecidos, entre asistencia sanitaria del sistema público y una entidad médica privada concertada. Esa elección corresponde al régimen mutualista y no es una retribución ni una forma de cotización. No debe extenderse al personal laboral o a todos los empleados de un ayuntamiento."
   },
@@ -214,12 +214,12 @@
     "tema": 26,
     "pregunta": "En relación con la asistencia sanitaria de los mutualistas de MUFACE, señale la respuesta correcta:",
     "opciones": [
-      "Pueden elegir libremente entre la red pública y una entidad médica privada concertada.",
       "Solo pueden recibir asistencia sanitaria a través de la red pública.",
+      "Pueden elegir libremente entre la red pública y una entidad médica privada concertada.",
       "Deben adscribirse necesariamente a una entidad médica privada concertada.",
       "La opción sanitaria la determina en exclusiva la Administración."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · 7.1 La MUFACE",
     "explicacion": "La respuesta correcta es «Pueden elegir libremente entre la red pública y una entidad médica privada concertada.». MUFACE es el mutualismo administrativo de funcionarios civiles del Estado incluidos en su ámbito; no es el régimen general de todo el empleo público local ni del personal laboral. La elección sanitaria entre sistema público y entidad concertada opera para sus mutualistas conforme a las reglas de la mutualidad."
   },
@@ -227,12 +227,12 @@
     "id": "topup-26-01",
     "pregunta": "La Seguridad Social se estructura en España alrededor de un sistema con acción protectora:",
     "opciones": [
-      "frente a contingencias y situaciones de necesidad",
       "solo para funcionarios locales",
       "exclusivamente urbanística",
+      "frente a contingencias y situaciones de necesidad",
       "sin cobertura sanitaria"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · Acción protectora",
     "tema": 26,
     "explicacion": "La respuesta correcta es «frente a contingencias y situaciones de necesidad». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
@@ -241,12 +241,12 @@
     "id": "topup-26-02",
     "pregunta": "En Seguridad Social, el campo de aplicación del sistema delimita:",
     "opciones": [
-      "quienes quedan incluidos y protegidos por el sistema",
       "la organización del Pleno",
       "la aprobación de ordenanzas",
-      "la composición del Senado"
+      "la composición del Senado",
+      "quienes quedan incluidos y protegidos por el sistema"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · Campo de aplicación",
     "tema": 26,
     "explicacion": "La respuesta correcta es «quienes quedan incluidos y protegidos por el sistema». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
@@ -269,12 +269,12 @@
     "id": "topup-26-04",
     "pregunta": "La estructura del sistema de Seguridad Social se apoya en un régimen general y, en su caso, en:",
     "opciones": [
-      "regimenes especiales",
       "regimenes urbanísticos",
+      "regimenes especiales",
       "regimenes parlamentarios",
       "regimenes contenciosos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · Estructura del sistema",
     "tema": 26,
     "explicacion": "El artículo 9 TRLGSS organiza el sistema en un Régimen General y regímenes especiales establecidos legalmente para actividades o colectivos con particularidades. Los regímenes especiales siguen dentro del sistema de Seguridad Social; no son regímenes urbanísticos ni jurisdiccionales. El encuadramiento concreto depende de la actividad y de la norma aplicable."
@@ -318,12 +318,12 @@
     "tema": 26,
     "pregunta": "¿Qué diferencia correctamente la afiliación del alta en la Seguridad Social?",
     "opciones": [
-      "La afiliación es única y vitalicia; el alta vincula a una persona con una actividad y régimen concretos.",
       "La afiliación se solicita en cada empresa y el alta solo se realiza una vez.",
       "Ambas son exactamente el mismo acto con distinta denominación.",
+      "La afiliación es única y vitalicia; el alta vincula a una persona con una actividad y régimen concretos.",
       "La afiliación solo existe para trabajadores autónomos."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización",
     "explicacion": "La respuesta correcta es «La afiliación es única y vitalicia; el alta vincula a una persona con una actividad y régimen concretos.». La afiliación incorpora a la persona por primera vez al sistema y permanece; el alta comunica el inicio de una actividad concreta y puede repetirse. La TGSS gestiona estas actuaciones, cotización y recaudación; el INSS reconoce muchas prestaciones económicas."
   },
@@ -332,12 +332,12 @@
     "tema": 26,
     "pregunta": "La comunicación de una baja de una persona trabajadora del Régimen General debe presentarse, como regla general, dentro de:",
     "opciones": [
-      "los tres días naturales siguientes al cese",
       "los tres días hábiles siguientes al cese",
       "los diez días hábiles siguientes al cese",
-      "los veinte días naturales anteriores al cese"
+      "los veinte días naturales anteriores al cese",
+      "los tres días naturales siguientes al cese"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · 5. Inscripción, afiliación, altas, bajas y cotización",
     "explicacion": "La respuesta correcta es «los tres días naturales siguientes al cese». En el Régimen General, las bajas y variaciones de datos se comunican, como regla, dentro de los tres días naturales siguientes al cese o cambio. Se cuentan días naturales, no hábiles; el alta, en cambio, debe solicitarse antes del inicio del trabajo. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -360,12 +360,12 @@
     "tema": 26,
     "pregunta": "La acción protectora de la Seguridad Social comprende:",
     "opciones": [
-      "prestaciones y servicios frente a contingencias y situaciones de necesidad, incluida la asistencia sanitaria en los términos legales",
       "solo pensiones contributivas",
+      "prestaciones y servicios frente a contingencias y situaciones de necesidad, incluida la asistencia sanitaria en los términos legales",
       "únicamente ayudas económicas de los ayuntamientos",
       "exclusivamente la protección de funcionarios"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · 6. Acción protectora",
     "explicacion": "La respuesta correcta es «prestaciones y servicios frente a contingencias y situaciones de necesidad, incluida la asistencia sanitaria en los términos legales». El TRLGSS delimita quién queda incluido, los regímenes de encuadramiento y la acción protectora frente a contingencias. La regla general combina Régimen General y regímenes especiales; asistencia sanitaria y prestaciones económicas forman parte de la protección, no de la organización municipal."
   },
@@ -374,12 +374,12 @@
     "tema": 26,
     "pregunta": "La duración máxima general de la incapacidad temporal es de:",
     "opciones": [
-      "365 días, prorrogables por 180 días cuando se presuma el alta por curación",
       "180 días, prorrogables por 365 días en todo caso",
       "un año improrrogable",
+      "365 días, prorrogables por 180 días cuando se presuma el alta por curación",
       "730 días sin necesidad de control"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · 6.3 Incapacidad temporal",
     "explicacion": "La respuesta correcta es «365 días, prorrogables por 180 días cuando se presuma el alta por curación». La incapacidad temporal exige impedimento temporal para trabajar y asistencia sanitaria, y dura como máximo 365 días, prorrogables por otros 180 cuando se prevea curación. No es una suspensión disciplinaria ni un periodo automático de dos años sin control. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -388,12 +388,12 @@
     "tema": 26,
     "pregunta": "En la incapacidad permanente total, la persona queda inhabilitada para:",
     "opciones": [
-      "todas o las fundamentales tareas de su profesión habitual, pero puede dedicarse a otra distinta",
       "todo trabajo o profesión sin excepción",
       "solo una tarea secundaria, manteniendo las fundamentales",
-      "los actos esenciales de la vida, necesariamente"
+      "los actos esenciales de la vida, necesariamente",
+      "todas o las fundamentales tareas de su profesión habitual, pero puede dedicarse a otra distinta"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · 6.5 Incapacidad permanente",
     "explicacion": "La respuesta correcta es «todas o las fundamentales tareas de su profesión habitual, pero puede dedicarse a otra distinta». La incapacidad permanente total inhabilita para todas o las tareas fundamentales de la profesión habitual, pero puede permitir otra distinta. La absoluta se refiere a toda profesión u oficio y la gran incapacidad añade necesidad de ayuda para actos esenciales."
   },
@@ -416,12 +416,12 @@
     "tema": 26,
     "pregunta": "En el nacimiento y cuidado de menor, las seis primeras semanas son, con carácter general:",
     "opciones": [
-      "obligatorias, ininterrumpidas y a jornada completa",
       "voluntarias y siempre acumulables al final",
+      "obligatorias, ininterrumpidas y a jornada completa",
       "un derecho exclusivo de la madre biológica",
       "sustituibles por una indemnización"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · 6.4 Nacimiento y cuidado de menor",
     "explicacion": "La respuesta correcta es «obligatorias, ininterrumpidas y a jornada completa». El permiso y prestación por nacimiento y cuidado se ampliaron a 19 semanas por progenitor mediante el RDL 9/2025; las primeras seis son obligatorias, ininterrumpidas y a jornada completa. No se trata de una duración única compartida por la unidad familiar ni sustituible por dinero."
   },
@@ -430,12 +430,12 @@
     "tema": 26,
     "pregunta": "¿Cuál es una diferencia correcta entre modalidad contributiva y no contributiva?",
     "opciones": [
-      "La contributiva se vincula a actividad y cotización; la no contributiva atiende necesidad y exige sus propios requisitos de residencia y rentas.",
       "La no contributiva se concede automáticamente a quien nunca haya trabajado.",
       "La contributiva no exige nunca alta ni cotización.",
+      "La contributiva se vincula a actividad y cotización; la no contributiva atiende necesidad y exige sus propios requisitos de residencia y rentas.",
       "Solo existe modalidad no contributiva en el Régimen General."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.5 · 2.1 Modalidad contributiva y no contributiva",
     "explicacion": "La respuesta correcta es «La contributiva se vincula a actividad y cotización; la no contributiva atiende necesidad y exige sus propios requisitos de residencia y rentas.». El TRLGSS organiza el encuadramiento, la gestión y la protección del sistema. Cada prestación tiene hecho causante, requisitos y cálculo propios; no deben confundirse las funciones de TGSS, INSS y mutuas ni generalizarse el régimen de mutualidades especiales."
   },
@@ -444,12 +444,12 @@
     "tema": 26,
     "pregunta": "Una mutua colaboradora de la Seguridad Social:",
     "opciones": [
-      "colabora en la gestión de determinadas contingencias y prestaciones conforme a la ley y a la cobertura existente",
       "sustituye siempre a la TGSS en afiliación y recaudación",
       "determina todos los regímenes de encuadramiento",
-      "es una entidad local que gestiona las nóminas municipales"
+      "es una entidad local que gestiona las nóminas municipales",
+      "colabora en la gestión de determinadas contingencias y prestaciones conforme a la ley y a la cobertura existente"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.5 · 4.2 Entidades gestoras, servicios comunes y colaboración",
     "explicacion": "La respuesta correcta es «colabora en la gestión de determinadas contingencias y prestaciones conforme a la ley y a la cobertura existente». Las mutuas colaboradoras participan en la gestión de contingencias y prestaciones previstas legalmente y según la cobertura concertada. No sustituyen a la TGSS en afiliación o recaudación ni determinan por sí mismas el régimen aplicable a cada trabajador. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   },
@@ -472,12 +472,12 @@
     "tema": 26,
     "pregunta": "¿Qué afirmación sobre MUFACE es correcta?",
     "opciones": [
-      "Es la mutualidad de los funcionarios civiles del Estado incluidos en su ámbito, no el régimen de todo empleado público local.",
       "Es el régimen obligatorio de todo el personal de los ayuntamientos.",
+      "Es la mutualidad de los funcionarios civiles del Estado incluidos en su ámbito, no el régimen de todo empleado público local.",
       "Es el servicio común encargado de recaudar todas las cotizaciones.",
       "Es la entidad gestora de todas las pensiones del Régimen General."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.5 · 7. Mutualismo administrativo",
     "explicacion": "La respuesta correcta es «Es la mutualidad de los funcionarios civiles del Estado incluidos en su…». MUFACE es el mutualismo administrativo de funcionarios civiles del Estado incluidos en su ámbito; no es el régimen general de todo el empleo público local ni del personal laboral. La elección sanitaria entre sistema público y entidad concertada opera para sus mutualistas conforme a las reglas de la mutualidad. La alternativa atribuye el encuadramiento o la gestión a una figura distinta; identifica primero la función y el colectivo protegido."
   }

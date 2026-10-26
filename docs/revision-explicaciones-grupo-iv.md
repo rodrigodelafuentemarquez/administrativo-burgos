@@ -9,3 +9,7 @@ Se conservaron los 165 IDs, enunciados, opciones, orden, etiquetas y claves. No 
 Fuentes principales consultadas: TRLRHL (texto consolidado BOE, actualizado el 7 de octubre de 2026), RD 500/1990, Orden EHA/3565/2008, RD 424/2017, Ley 47/2003, Constitución Española, Ley Orgánica 2/1982, Ley 2/2002 de Castilla y León, Ley 7/1985 y Ley 5/1999 de Urbanismo de Castilla y León (texto consolidado actualizado el 5 de diciembre de 2025). Las URL oficiales verificadas están registradas por tema en el estado de revisión.
 
 Validación: los 1.808 IDs del banco siguen siendo únicos; las 165 preguntas conservan IDs, opciones, etiquetas y claves, y cada explicación tiene 2–4 frases y 40–90 palabras. `npm run prepare:data`, sincronización pública, `npm run build` y `git diff --check` han pasado. La publicación en GitHub Pages queda pendiente de sincronizar el commit.
+
+## Ampliación posterior · 26/10/2026
+
+Se añadieron ocho preguntas nuevas al tema interno 30, que cubren formas y principios del control interno local, deber de sigilo, fiscalización previa, observaciones complementarias, porcentaje mínimo de control, fiscalización externa y auditoría pública. Las explicaciones se ampliaron y verificaron con el Real Decreto 424/2017 (arts. 3–5, 13–14, 16 y 29.3) y el TRLRHL (arts. 214 y 223). El banco pasa de 22 a 30 preguntas. Se conservaron todas las preguntas y claves existentes.

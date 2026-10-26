@@ -21,7 +21,7 @@ Este tema reúne dos vías distintas de control de la actuación administrativa:
 | Revocación y rectificación | LPACAP, art. 109 | ¿Es desfavorable o existe un error material evidente? |
 | Control judicial | <mark>Ley 29/1998</mark>, arts. 1, 25, 46 y 71 | ¿Qué actuación se impugna, ante qué órgano y en qué plazo? |
 
-La Ley 7/1985, reguladora de las bases del régimen local, completa el tema en el ámbito municipal, especialmente para identificar qué actos locales ponen fin a la vía administrativa. En Burgos, la regla práctica es no confundir el órgano que dicta el acto con el órgano judicial que controla su legalidad.
+La Ley 7/1985, reguladora de las bases del régimen local, completa el tema en el ámbito municipal, especialmente para identificar qué actos locales ponen fin a la vía administrativa. La organización judicial cambió con la Ley Orgánica 1/2025: desde la constitución de los Tribunales de Instancia, las competencias que correspondían a los Juzgados de lo Contencioso-Administrativo se ejercen por la **Sección de lo Contencioso-Administrativo del Tribunal de Instancia** correspondiente, conforme a las reglas competenciales y transitorias. En Burgos, no debe confundirse el órgano administrativo que dicta el acto con la Sección judicial que controla su legalidad.
 
 ## 2. La elección de la vía de revisión
 
@@ -174,10 +174,12 @@ La LJCA incluye:
 
 | Actuación | Órgano típico en primera o única instancia |
 | --- | --- |
-| Actos y disposiciones de entidades locales | Juzgados de lo Contencioso-Administrativo, con las excepciones legales |
-| Actos de Ministros y Secretarios de Estado | Sala de lo Contencioso-Administrativo de la Audiencia Nacional |
+| Actos y disposiciones de entidades locales | Sección de lo Contencioso-Administrativo del Tribunal de Instancia competente, con las excepciones legales |
+| Actos de Ministros y Secretarios de Estado | Sala de lo Contencioso-Administrativo de la Audiencia Nacional, en los casos atribuidos por la LJCA |
 | Actos de órganos superiores de la Administración autonómica | Sala de lo Contencioso-Administrativo del Tribunal Superior de Justicia |
 | Casación contencioso-administrativa | Sala Tercera del Tribunal Supremo |
+
+La Ley Orgánica 1/2025 transformó los antiguos juzgados en secciones de los Tribunales de Instancia. Los nombres anteriores pueden aparecer en exámenes o resoluciones de transición; para describir la organización vigente debe usarse la denominación actual, sin alterar la competencia material que la LJCA asigna.
 
 La tabla es una guía de examen, no sustituye el análisis completo de competencia objetiva y territorial de los artículos 6 a 14 LJCA.
 
@@ -230,6 +232,12 @@ Si, en cambio, el Ayuntamiento concedió una licencia favorable que después se 
 **Firme + causa tasada** → extraordinario de revisión → cuatro años o tres meses según causa.
 
 **Control judicial** → contencioso → acto/disposición/inactividad/vía de hecho → dos o seis meses como reglas generales.
+
+### Fuentes oficiales para actualizar
+
+- [Ley 39/2015 consolidada (BOE)](https://www.boe.es/eli/es/l/2015/10/01/39/con)
+- [Ley 29/1998 consolidada (BOE)](https://www.boe.es/eli/es/l/1998/07/13/29/con)
+- [Ley Orgánica 1/2025 (BOE)](https://www.boe.es/eli/es/lo/2025/01/02/1)
 
 ### Cómo resolver una pregunta
 

@@ -137,9 +137,9 @@ El control judicial de la potestad reglamentaria corresponde a los órganos de l
 
 En la iniciativa legislativa y la potestad reglamentaria deben observarse los principios de **necesidad, eficacia, proporcionalidad, seguridad jurídica, transparencia y eficiencia** (art. 129 LPAC). La regulación debe responder a un interés general, ser el instrumento adecuado, contener solo la regulación imprescindible y evitar cargas innecesarias.
 
-Como esquema general de participación normativa, el artículo 133 LPAC contempla consulta pública previa y, después, audiencia e información pública cuando proceda, con las excepciones legales. En la elaboración de reglamentos estatales se incorporan los informes y memorias exigibles y, cuando corresponda, el dictamen del Consejo de Estado. En el ámbito local, la aprobación de ordenanzas sigue su procedimiento específico, que se estudia con detalle en el Tema II.12.
+El artículo 133 LPAC contempla consulta pública previa y, después, audiencia e información pública. Su aplicación debe leerse junto con la **STC 55/2018**, que limitó qué apartados de esta regulación estatal pueden imponerse como bases comunes a las comunidades autónomas y a las entidades locales; los trámites concretos dependen también de la normativa autonómica y local aplicable. Para el Ayuntamiento de Burgos, la aprobación de ordenanzas sigue el procedimiento específico de la legislación básica local y de la normativa aplicable, que se estudia con detalle en el Tema II.12. En la Administración del Estado se incorporan los informes y memorias exigibles y, cuando corresponda, el dictamen del Consejo de Estado.
 
-> **Muy importante:** consulta pública previa, audiencia e información pública no son sinónimos. La primera busca conocer problemas y alternativas antes de redactar; las otras permiten formular observaciones sobre el texto elaborado, en los supuestos legalmente previstos.
+> **Muy importante:** consulta pública previa, audiencia e información pública no son sinónimos. La primera busca conocer problemas y alternativas antes de redactar; las otras permiten formular observaciones sobre el texto elaborado. Su obligatoriedad y las excepciones dependen del tipo de Administración y de la regulación aplicable, conforme a la STC 55/2018.
 
 ## 7. Otras fuentes y reglas complementarias
 
@@ -194,3 +194,4 @@ Si el Ayuntamiento pretende imponer mediante una ordenanza una sanción no previ
 - [Código Civil consolidado (BOE)](https://www.boe.es/eli/es/rd/1889/07/24/(1)/con)
 - [Ley 39/2015, de 1 de octubre (BOE)](https://www.boe.es/eli/es/l/2015/10/01/39/con)
 - [Ley 40/2015, de 1 de octubre (BOE)](https://www.boe.es/eli/es/l/2015/10/01/40/con)
+- [STC 55/2018, de 24 de mayo (BOE)](https://www.boe.es/diario_boe/txt.php?id=BOE-A-2018-8574)

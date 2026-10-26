@@ -99,7 +99,9 @@ Todas las mujeres víctimas tienen garantizados los derechos reconocidos en la l
 | Asistencia jurídica | Asistencia jurídica gratuita en los términos legales y asesoramiento especializado; no debe confundirse con exigir una condena previa. |
 | Protección laboral | Reducción o reordenación del tiempo de trabajo, movilidad, suspensión o extinción del contrato y protección frente al despido, en los términos legales. |
 | Funcionarias públicas | Traslado, excedencia y reducción o reordenación de jornada en los supuestos y condiciones previstos. |
-| Ayuda del artículo 27 | Ayuda social para víctimas con especiales dificultades de acceso al empleo y carencia de rentas, con cuantía general equivalente a seis mensualidades del subsidio por desempleo y posibles incrementos legales. |
+| Ayuda del artículo 27 | Ayuda social para víctimas con especiales dificultades de acceso al empleo y carencia de rentas, con cuantía general equivalente a seis mensualidades del subsidio por desempleo, elevada a doce si la víctima tiene discapacidad reconocida igual o superior al 33 %, además de los requisitos de renta y especiales dificultades de inserción laboral. |
+
+La Ley 4/2026 introdujo, a efectos del TRLGDPD, equivalencias entre ciertos grados de dependencia y discapacidad. Esa regla está formulada «a efectos de esta ley» y no debe trasladarse automáticamente a la cuantía del artículo 27 de la LO 1/2004, que mantiene su criterio de discapacidad reconocida; debe comprobarse cualquier norma o interpretación específica aplicable antes de equiparar supuestos.
 
 Los servicios de información y orientación, atención psicosocial, asesoramiento jurídico, acogida y asistencia social integral tienen la consideración legal de servicios esenciales. La actuación municipal debe ser discreta, evitar la revictimización y limitar la circulación de datos a quienes los necesiten por razón de sus funciones.
 

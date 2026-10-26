@@ -118,7 +118,7 @@ La adjudicación por lotes o suertes se realiza a los vecinos en proporción dir
 
 Se utilizan con arreglo a su legislación específica y, en defecto de esta, conforme a las normas de Derecho privado (art. 80.2 LRBRL), sin desaparecer por ello las exigencias de competencia, expediente, publicidad y defensa del interés público.
 
-El arrendamiento y cualquier otra cesión de uso se preparan y adjudican conforme a la normativa de contratación local. El RBEL exige subasta cuando la duración de la cesión supera **cinco años** o el precio excede del **5 % de los recursos ordinarios** del presupuesto; además, fija un canon no inferior al **6 % del valor en venta** del bien. Estos datos deben leerse con la normativa posterior aplicable al expediente concreto, pero son referencias clásicas de test del RBEL.
+El arrendamiento y cualquier otra cesión de uso se preparan y adjudican conforme a la normativa patrimonial aplicable. El artículo 92.1 RBEL conserva una regla reglamentaria de subasta cuando la cesión supera **cinco años** o el precio excede del **5 % de los recursos ordinarios**. Sin embargo, el artículo 107.1 de la Ley 33/2003 tiene carácter básico y establece como regla general el **concurso**, con adjudicación directa solo por las causas legales justificadas. El Consejo Consultivo de Castilla y León (Dictamen 109/2025) considera desplazada la regla procedimental del artículo 92.1 RBEL por esa norma básica posterior. Para un expediente actual debe aplicarse la regla básica y comprobarse la normativa autonómica y local; los umbrales del RBEL son referencia histórica de examen, no la regla procedimental general vigente. El artículo 92.2 RBEL prevé un canon mínimo del **6 % del valor en venta**, cuya aplicación debe verificarse junto con la normativa vigente del expediente.
 
 ## 6. Enajenación de bienes patrimoniales
 
@@ -166,7 +166,7 @@ Ante un expediente del Ayuntamiento de Burgos, aplicar esta secuencia:
 
 **Defensa** → investigación + deslinde + recuperación + desahucio.
 
-**Cifras** → 25 % (autorización autonómica en inmuebles), 40 % (diferencia máxima de permuta), 5 años y 5 % (subasta en cesión de uso patrimonial), 6 % (canon mínimo RBEL), 10 años y 15 días (cesión gratuita).
+**Cifras** → 25 % (autorización autonómica en inmuebles), 40 % (diferencia máxima de permuta), 6 % (canon mínimo previsto en el RBEL, sujeto a normativa aplicable), 10 años y 15 días (cesión gratuita). Los umbrales de 5 años y 5 % para subastar una cesión de uso constan en el RBEL, pero su regla procedimental está desplazada por el art. 107.1 LPAP, de carácter básico.
 
 ### Errores frecuentes
 
@@ -176,8 +176,16 @@ Ante un expediente del Ayuntamiento de Burgos, aplicar esta secuencia:
 - Llamar arrendamiento privado a una terraza: es aprovechamiento del dominio público.
 - Creer que todo uso privativo exige autorización: como regla, la ocupación privativa exige concesión.
 - Olvidar que la permuta tiene límite del 40 % y que la autorización autonómica de inmuebles se conecta con el 25 %.
+- Aplicar automáticamente los umbrales de subasta de cinco años y 5 % del artículo 92.1 RBEL sin comprobar la norma básica posterior del artículo 107.1 LPAP.
 - Confundir cesión gratuita con cesión de uso onerosa: la primera tiene destinatarios, mayoría, informes, información pública y destino finalista propios.
 
 ## 9. Cómo preguntarlo en test
 
-Cuando una opción mencione un plazo o porcentaje, asociarlo a su expediente: **1 año = recuperación de patrimonial; 25 % = autorización autonómica; 40 % = permuta; 5 años/5 % = subasta en cesión de uso; 6 % = canon; 10 años/15 días = cesión gratuita**. Cuando pregunte por la clase, buscar primero la afectación; cuando pregunte por una terraza o quiosco, distinguir uso común especial de uso privativo.
+Cuando una opción mencione un plazo o porcentaje, asociarlo a su expediente: **1 año = recuperación de patrimonial; 25 % = autorización autonómica; 40 % = permuta; 6 % = canon previsto en el RBEL, si resulta aplicable; 10 años/15 días = cesión gratuita**. Los umbrales del artículo 92.1 RBEL para subastar una cesión de uso deben estudiarse como texto reglamentario histórico y confrontarse con el artículo 107.1 LPAP vigente. Cuando pregunte por la clase, buscar primero la afectación; cuando pregunte por una terraza o quiosco, distinguir uso común especial de uso privativo.
+
+### Fuentes oficiales para actualizar
+
+- [LRBRL, texto consolidado del BOE](https://www.boe.es/eli/es/l/1985/04/02/7/con).
+- [Reglamento de Bienes de las Entidades Locales, texto consolidado del BOE](https://www.boe.es/eli/es/rd/1986/06/13/1372/con).
+- [Ley 33/2003, artículo 107 y carácter básico, texto consolidado del BOE](https://www.boe.es/eli/es/l/2003/11/03/33/con).
+- [Ley 1/1998, de Régimen Local de Castilla y León](https://www.boe.es/eli/es-cl/l/1998/06/04/1/con).

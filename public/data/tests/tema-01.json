@@ -72,12 +72,12 @@
     "tema": 1,
     "pregunta": "¿Cuáles son los valores superiores del ordenamiento jurídico recogidos en el art. 1.1 CE?",
     "opciones": [
-      "Libertad, justicia, igualdad y pluralismo político",
       "Unidad, autonomía, solidaridad y coordinación",
+      "Libertad, justicia, igualdad y pluralismo político",
       "Legalidad, seguridad jurídica y publicidad",
       "Mérito, capacidad, eficacia y descentralización"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.1 · 1.2 Carácterísticas",
     "explicacion": "El artículo 1.1 CE enumera libertad, justicia, igualdad y pluralismo político como valores superiores del ordenamiento. Unidad, autonomía y solidaridad aparecen en el artículo 2, mientras que legalidad y seguridad jurídica son garantías del artículo 9.3. La clave es distinguir los valores del modelo constitucional de otros principios que también reconoce la Constitución."
   },
@@ -87,11 +87,11 @@
     "pregunta": "En la estructura constitucional, ¿qué regula el Título I?",
     "opciones": [
       "La Corona",
-      "Los derechos y deberes fundamentales",
       "La reforma constitucional",
+      "Los derechos y deberes fundamentales",
       "La organización territorial del Estado"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.1 · 1.3 Estructura",
     "explicacion": "El Título I, artículos 10 a 55 CE, trata de los derechos y deberes fundamentales y comprende sus garantías y posible suspensión. La Corona se regula en el Título II, la organización territorial en el VIII y la reforma constitucional en el X. El Título Preliminar es un bloque distinto, formado por los artículos 1 a 9."
   },
@@ -101,11 +101,11 @@
     "pregunta": "Según el art. 14 CE, ¿qué principio se reconoce expresamente?",
     "opciones": [
       "El derecho a la educación",
-      "El principio de igualdad",
       "El derecho de petición",
-      "La libertad sindical"
+      "La libertad sindical",
+      "El principio de igualdad"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.1 · Artículo 14",
     "explicacion": "El artículo 14 CE reconoce la igualdad ante la ley y prohíbe discriminaciones por causas como nacimiento, raza, sexo, religión u opinión. No regula la educación, la petición ni la libertad sindical, que tienen sus propios artículos. Es una garantía especialmente protegida: el artículo 53.2 incluye expresamente la igualdad entre los derechos susceptibles de amparo."
   },
@@ -130,10 +130,10 @@
     "opciones": [
       "Art. 18 CE",
       "Art. 19 CE",
-      "Art. 20 CE",
-      "Art. 21 CE"
+      "Art. 21 CE",
+      "Art. 20 CE"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "I.1 · Sección 1ª, art. 20 CE",
     "explicacion": "El artículo 20 CE reúne libertades relacionadas con comunicar y crear: expresión, producción literaria, artística, científica y técnica, cátedra e información veraz. El artículo 18 protege intimidad y otros ámbitos privados, el 19 residencia y circulación, y el 21 reunión. No debe confundirse expresar opiniones con informar sobre hechos, donde la Constitución exige veracidad."
   },
@@ -156,12 +156,12 @@
     "tema": 1,
     "pregunta": "¿Cuál de los siguientes derechos puede ser suspendido en los estados de excepción o de sitio?",
     "opciones": [
-      "El derecho a la vida",
       "La libertad de expresión e información en los términos del art. 20.1.a) y d)",
+      "El derecho a la vida",
       "La libertad ideológica",
       "La tutela judicial efectiva en su contenido esencial"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "I.1 · 4.1 Suspensión general",
     "explicacion": "El artículo 55.1 CE permite suspender, al declararse excepción o sitio, determinadas libertades del artículo 20.1.a y d: expresión e información. La suspensión no afecta indistintamente a todos los derechos fundamentales. Vida, libertad ideológica y tutela judicial efectiva no figuran en esa lista, por lo que no pueden darse por suspendidas por el solo hecho de declarar esos estados."
   },
@@ -185,11 +185,11 @@
     "pregunta": "Según la Constitución, ¿qué procedimiento de reforma se aplica cuando la revisión afecta al Título Preliminar, al Título II o a la Sección 1.ª del Capítulo II del Título I?",
     "opciones": [
       "El procedimiento legislativo ordinario",
-      "El procedimiento agravado del art. 168 CE",
       "La reforma por decreto-ley",
+      "El procedimiento agravado del art. 168 CE",
       "La reforma por ley ordinaria sin referéndum"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.1 · 1.3 Estructura / 3.4 Suspensión y reforma",
     "explicacion": "El artículo 168 CE impone la reforma agravada para una revisión total o que afecte al Título Preliminar, la sección primera del capítulo II del Título I o la Corona del Título II. Exige dos tercios de cada Cámara, disolución, nuevas Cámaras y referéndum final obligatorio. No puede sustituirse por un decreto-ley ni por una ley ordinaria."
   },
@@ -198,14 +198,14 @@
     "tema": 1,
     "pregunta": "¿Qué afirma el art. 10.1 CE sobre la dignidad de la persona y los derechos inviolables?",
     "opciones": [
-      "Qué son fundamento del orden político y de la paz social",
+      "Que son el fundamento del orden político y de la paz social",
       "Qué solo vinculan al legislador",
       "Qué dependen de una ley orgánica",
       "Qué se aplican solo a los extranjeros"
     ],
     "correcta": 0,
     "referencia": "I.1 · 2.1 Artículo 10 CE",
-    "explicacion": "El artículo 10.1 CE sitúa la dignidad, los derechos inviolables, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos en la base del orden político y de la paz social. No los presenta como una concesión del legislador. Por eso resulta incorrecto limitar su alcance solo a leyes orgánicas, legisladores o personas de una nacionalidad determinada."
+    "explicacion": "El artículo 10.1 CE establece que la dignidad, los derechos inviolables, el libre desarrollo de la personalidad y el respeto a la ley y a los derechos ajenos son fundamento del orden político y de la paz social. No los presenta como una concesión del legislador. Por eso resulta incorrecto limitar su alcance solo a leyes orgánicas, legisladores o personas de una nacionalidad determinada."
   },
   {
     "id": "t01-p012",
@@ -213,11 +213,11 @@
     "pregunta": "Según la Constitución Española, ¿a qué edad alcanza la mayoría de edad una persona?",
     "opciones": [
       "16 años",
-      "18 años",
       "21 años",
-      "25 años"
+      "25 años",
+      "18 años"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.1 · 2.2 Capítulo I — Españoles y extranjeros",
     "explicacion": "El artículo 12 CE fija la mayoría de edad de los españoles en los 18 años. Las edades de 16, 21 o 25 no son el umbral constitucional de mayoría de edad. Alcanzarla tampoco significa que desaparezcan los requisitos específicos que una ley pueda exigir para determinados cargos o actividades: la pregunta se refiere al criterio general de la Constitución."
   },
@@ -255,11 +255,11 @@
     "pregunta": "Conforme al art. 53.3 CE, los principios rectores de la política social y económica:",
     "opciones": [
       "Son directamente exigibles mediante recurso de amparo ante el Tribunal Constitucional",
-      "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos, y solo podrán alegarse conforme a las leyes que los desarrollen",
       "Vinculan únicamente al legislador estatal y no a los demás poderes públicos",
+      "Informarán la legislación positiva, la práctica judicial y la actuación de los poderes públicos, y solo podrán alegarse conforme a las leyes que los desarrollen",
       "Tienen la misma protección jurisdiccional que los derechos de la Sección 1.ª del Capítulo II"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Constitución Española · art. 53.3",
     "explicacion": "Los principios rectores del capítulo III orientan las leyes, la práctica judicial y la actuación pública, conforme al artículo 53.3 CE. Su alegación judicial depende de las leyes que los desarrollan. No tienen por sí solos el mismo acceso al amparo que los derechos del artículo 14 y de la sección primera, ni vinculan únicamente al legislador estatal."
   },
@@ -269,39 +269,39 @@
     "pregunta": "Según lo dispuesto en el art. 55.1 de la Constitución Española de 1978, en el estado de sitio puede ser suspendido el derecho a:",
     "opciones": [
       "La negociación colectiva laboral entre los representantes de los trabajadores y empresarios, así como la fuerza vinculante de los convenios",
-      "Comunicar o recibir libremente información veraz por cualquier medio de difusión",
       "La libertad de empresa",
-      "La producción y creación literaria, artística, científica y técnica"
+      "La producción y creación literaria, artística, científica y técnica",
+      "Comunicar o recibir libremente información veraz por cualquier medio de difusión"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.1 · 4.1 Suspensión general (art. 55.1 CE) — Estado de excepción y sitio",
     "explicacion": "La libertad de comunicar o recibir información veraz del artículo 20.1.d CE aparece expresamente en la lista de derechos suspendibles del artículo 55.1 para excepción o sitio. La creación literaria y científica del artículo 20.1.b no aparece en esa lista. Tampoco deben confundirse la negociación colectiva del 37.1 y las medidas de conflicto colectivo del 37.2, que sí se incluyen."
   },
   {
     "id": "t01-p017",
     "tema": 1,
-    "pregunta": "De acuerdo con el art. 53.3 de la Constitución Española de 1978, los principios rectores de la política social y económica:",
+    "pregunta": "Según el artículo 29.2 CE, ¿cómo pueden ejercer el derecho de petición los miembros de las Fuerzas o Institutos armados o de los cuerpos sometidos a disciplina militar?",
     "opciones": [
-      "Son derechos subjetivos directamente exigibles ante cualquier tribunal",
-      "Solo pueden alegarse ante la jurisdicción ordinaria de acuerdo con lo que dispongan las leyes que los desarrollen",
-      "Solo vinculan al Gobierno, pero no al legislador",
-      "Pueden suspenderse en el estado de excepción en los mismos términos que los derechos fundamentales"
+      "Solo individualmente y con arreglo a su legislación específica.",
+      "Individual o colectivamente, sin especialidad alguna.",
+      "Únicamente por conducto del Defensor del Pueblo.",
+      "No pueden ejercer nunca el derecho de petición."
     ],
-    "correcta": 1,
-    "referencia": "I.1 · 2.4 Capítulo III — Principios rectores de la política social y económica",
-    "explicacion": "Según el artículo 53.3 CE, los principios rectores solo pueden invocarse ante la jurisdicción ordinaria conforme a sus leyes de desarrollo. También informan la legislación y la actuación de todos los poderes públicos. No equivalen a derechos directamente tutelados mediante amparo ni forman una categoría automáticamente suspendible en un estado de excepción."
+    "correcta": 0,
+    "referencia": "Tema I.1 · artículo 29.2 CE · derecho de petición",
+    "explicacion": "El artículo 29.2 CE permite a los miembros de las Fuerzas o Institutos armados y de los cuerpos sometidos a disciplina militar ejercer el derecho de petición solo individualmente y conforme a su legislación específica. La regla general del artículo 29.1 admite peticiones individuales y colectivas; este apartado establece una excepción concreta para esos colectivos."
   },
   {
     "id": "burgos-i01-hard-01",
     "tema": 1,
     "pregunta": "¿Cuál de estos derechos queda fuera del recurso de amparo del art. 53.2 CE, aunque sí esté constitucionalmente reconocido?",
     "opciones": [
-      "La propiedad privada del art. 33 CE",
       "La igualdad ante la ley del art. 14 CE",
+      "La propiedad privada del art. 33 CE",
       "La libertad ideológica del art. 16 CE",
-      "La objeción de conciencia del art. 30 CE"
+      "La objeción de conciencia del art. 30.2 CE"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.1, Derechos fundamentales: garantía y suspensión",
     "explicacion": "El amparo del artículo 53.2 CE comprende el artículo 14, los derechos de la sección primera del capítulo II del Título I y la objeción de conciencia del artículo 30.2. La propiedad privada está en el artículo 33, dentro de la sección segunda. Cuenta con protección constitucional y judicial, pero no con ese recurso específico por sí misma."
   },
@@ -310,12 +310,12 @@
     "tema": 1,
     "pregunta": "¿Qué dato sobre la estructura de la Constitución Española es correcto?",
     "opciones": [
-      "El Título Preliminar comprende los artículos 1 a 9",
       "El Título I comprende los artículos 1 a 55",
       "El Título IX regula la reforma constitucional",
+      "El Título Preliminar comprende los artículos 1 a 9",
       "El Preámbulo tiene eficacia articulada como los demás títulos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.1, Estructura de la Constitución",
     "explicacion": "El Título Preliminar comprende los artículos 1 a 9 y el Título I los artículos 10 a 55. El Tribunal Constitucional ocupa el Título IX y la reforma el X. El Preámbulo ayuda a interpretar la Constitución, pero no es una sucesión de artículos equiparable a sus títulos; mezclarlo con el articulado produce un recuento incorrecto."
   },
@@ -324,12 +324,12 @@
     "tema": 1,
     "pregunta": "En la suspensión general de derechos del art. 55.1 CE, ¿qué derecho NO aparece entre los suspendibles en estados de excepción o sitio?",
     "opciones": [
-      "La tutela judicial efectiva",
       "La inviolabilidad del domicilio",
       "La libertad de circulación",
-      "El derecho de reunión"
+      "El derecho de reunión",
+      "La tutela judicial efectiva"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.1, Suspensión de derechos",
     "explicacion": "La tutela judicial efectiva del artículo 24 CE no figura entre los derechos suspendibles que enumera el artículo 55.1 para excepción o sitio. En cambio, sí se incluyen la inviolabilidad del domicilio, la circulación y la reunión. La suspensión constitucional es una lista delimitada: una situación excepcional no permite dejar sin protección judicial a las personas de forma general."
   },
@@ -398,30 +398,30 @@
   {
     "id": "t01-p028",
     "tema": 1,
-    "pregunta": "¿Qué protección corresponde a los principios rectores de la política social y económica conforme al artículo 53.3 CE?",
+    "pregunta": "¿Qué principios inspiran el sistema tributario según el artículo 31.1 CE?",
     "opciones": [
-      "Recurso de amparo directo ante el Tribunal Constitucional",
-      "Informar la legislación, la práctica judicial y la actuación de los poderes públicos, con alegación conforme a sus leyes de desarrollo",
-      "Reserva de ley orgánica y tutela judicial preferente",
-      "Suspensión automática durante los estados de excepción"
+      "Proporcionalidad estricta y prohibición de cualquier impuesto directo.",
+      "Igualdad y progresividad, de acuerdo con la capacidad económica y sin alcance confiscatorio.",
+      "Igualdad nominal de cuotas, con independencia de la capacidad económica.",
+      "Progresividad ilimitada, aunque produzca efectos confiscatorios."
     ],
     "correcta": 1,
-    "referencia": "I.1 · Garantías del artículo 53 CE",
-    "explicacion": "El artículo 53.3 CE asigna a los principios rectores una función orientadora para leyes, jueces y poderes públicos, y condiciona su alegación a sus leyes de desarrollo. No los incorpora al amparo directo. La tutela preferente y sumaria y el amparo se refieren a otros derechos en el artículo 53.2: conviene separar los distintos niveles de garantía."
+    "referencia": "Tema I.1 · artículo 31.1 CE · principios tributarios",
+    "explicacion": "El artículo 31.1 CE ordena contribuir conforme a la capacidad económica mediante un sistema tributario justo, inspirado en igualdad y progresividad y que no puede tener alcance confiscatorio. La Constitución no exige cuotas idénticas para todas las personas ni elimina la imposición directa. La progresividad está limitada por la prohibición de confiscatoriedad."
   },
   {
     "id": "burgos-i01-deep-01",
     "tema": 1,
-    "pregunta": "¿Cuál de los siguientes derechos NO figura en la lista del artículo 55.1 CE como susceptible de suspensión en los estados de excepción o de sitio?",
+    "pregunta": "¿Qué clase de asociaciones prohíbe expresamente el artículo 22.5 CE?",
     "opciones": [
-      "El derecho de reunión del artículo 21 CE",
-      "El derecho a la huelga del artículo 28.2 CE",
-      "La tutela judicial efectiva del artículo 24 CE",
-      "La libertad de circulación del artículo 19 CE"
+      "Las inscritas en un registro administrativo.",
+      "Las que defienden intereses económicos o sociales.",
+      "Las constituidas para participar en la vida política.",
+      "Las secretas y las de carácter paramilitar."
     ],
-    "correcta": 2,
-    "referencia": "Tema I.1 · Artículo 55.1 CE · suspensión general",
-    "explicacion": "La lista del artículo 55.1 CE permite suspender, en los términos constitucionales, reunión, huelga y circulación durante excepción o sitio, pero no la tutela judicial efectiva del artículo 24. No se trata de una autorización para suspender todos los derechos del Título I. En estas preguntas debe comprobarse cada artículo concreto, no solo si parece relacionado con una emergencia."
+    "correcta": 3,
+    "referencia": "Tema I.1 · artículo 22 CE · derecho de asociación",
+    "explicacion": "El artículo 22.5 CE prohíbe expresamente las asociaciones secretas y las de carácter paramilitar. La inscripción de las asociaciones constituidas al amparo de este artículo tiene solo efectos de publicidad, y los partidos y sindicatos cuentan con reconocimiento constitucional propio. No debe confundirse ilegalidad penal de los fines o medios con esta prohibición específica."
   },
   {
     "id": "burgos-i01-deep-02",
@@ -440,30 +440,30 @@
   {
     "id": "burgos-i01-deep-03",
     "tema": 1,
-    "pregunta": "En relación con el artículo 21 CE, las reuniones en lugares de tránsito público y las manifestaciones:",
+    "pregunta": "¿Qué garantía procesal reconoce expresamente el artículo 24.2 CE?",
     "opciones": [
-      "Requieren autorización previa de la autoridad gubernativa",
-      "No requieren autorización previa, pero deben comunicarse previamente",
-      "No requieren autorización ni comunicación en ningún caso",
-      "Solo pueden celebrarse si las convoca una asociación inscrita"
+      "Un proceso público sin dilaciones indebidas y con todas las garantías.",
+      "La posibilidad de prohibir reuniones por razones de oportunidad.",
+      "La revisión administrativa obligatoria de toda sentencia.",
+      "La suspensión automática de los plazos procesales durante una detención."
     ],
-    "correcta": 1,
-    "referencia": "Tema I.1 · Artículo 21 CE · reunión y manifestación",
-    "explicacion": "Las reuniones pacíficas y sin armas no necesitan autorización previa, según el artículo 21 CE. Para manifestaciones y reuniones en vías públicas sí se exige comunicación a la autoridad, que puede prohibirlas solo bajo los supuestos constitucionales de peligro para personas o bienes. La inscripción de una asociación no es un requisito general para ejercer este derecho."
+    "correcta": 0,
+    "referencia": "Tema I.1 · artículo 24.2 CE · garantías procesales",
+    "explicacion": "El artículo 24.2 CE reconoce, entre otras garantías, el derecho a un proceso público sin dilaciones indebidas y con todas las garantías. También incluye juez ordinario predeterminado por la ley, defensa, asistencia letrada, información de la acusación y presunción de inocencia. No atribuye a la Administración facultad para revisar sentencias."
   },
   {
     "id": "burgos-i01-deep-04",
     "tema": 1,
-    "pregunta": "¿Qué conjunto identifica correctamente los derechos protegidos por el recurso de amparo constitucional?",
+    "pregunta": "Conforme al artículo 18.2 CE, ¿cuándo cabe entrar o registrar un domicilio?",
     "opciones": [
-      "Todos los derechos del Título I, incluidos los principios rectores",
-      "El artículo 14, la sección primera del capítulo II del Título I y el artículo 30.2",
-      "Solo los derechos de los artículos 15 a 29, sin el artículo 14",
-      "Los derechos de los artículos 30 a 38 y los principios rectores"
+      "Siempre que lo solicite cualquier órgano administrativo.",
+      "Solo con autorización previa del Congreso de los Diputados.",
+      "Con consentimiento del titular, resolución judicial o en caso de flagrante delito.",
+      "Cuando exista una denuncia, aunque no haya consentimiento ni resolución judicial."
     ],
-    "correcta": 1,
-    "referencia": "Tema I.1 · Artículo 53.2 CE · recurso de amparo",
-    "explicacion": "El artículo 53.2 CE protege mediante amparo la igualdad del artículo 14, los derechos de los artículos 15 a 29 y la objeción de conciencia del 30.2. No extiende esta vía a todo el Título I. Los derechos de la sección segunda y los principios rectores tienen otras garantías, por lo que «todos los derechos constitucionales» sería una respuesta excesiva."
+    "correcta": 2,
+    "referencia": "Tema I.1 · artículo 18.2 CE · inviolabilidad del domicilio",
+    "explicacion": "El artículo 18.2 CE proclama la inviolabilidad del domicilio: la entrada o registro requiere consentimiento del titular o resolución judicial, salvo flagrante delito. Una denuncia por sí sola no sustituye esas condiciones. La garantía protege el ámbito domiciliario y no se confunde con el secreto de las comunicaciones, regulado separadamente en el artículo 18.3."
   },
   {
     "id": "burgos-i01-deep-05",
@@ -471,27 +471,27 @@
     "pregunta": "¿Cuál de estas afirmaciones diferencia correctamente los artículos 9.2 y 14 CE?",
     "opciones": [
       "El artículo 9.2 prohíbe toda discriminación y el 14 ordena remover obstáculos",
-      "El artículo 9.2 busca igualdad real y efectiva; el artículo 14 proclama igualdad ante la ley",
       "Ambos preceptos regulan exclusivamente la igualdad de los extranjeros",
-      "El artículo 14 solo vincula a los tribunales y no a la Administración"
+      "El artículo 14 solo vincula a los tribunales y no a la Administración",
+      "El artículo 9.2 busca igualdad real y efectiva; el artículo 14 proclama igualdad ante la ley"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Tema I.1 · artículos 9.2 y 14 CE · igualdad",
     "explicacion": "El artículo 14 CE proclama la igualdad ante la ley y prohíbe discriminaciones. El artículo 9.2 añade un deber de actuación: promover condiciones para que libertad e igualdad sean reales y remover los obstáculos que lo impidan. El primero protege frente al trato discriminatorio; el segundo impulsa medidas para que la igualdad no quede solo en una declaración formal."
   },
   {
     "id": "burgos-i01-deep-06",
     "tema": 1,
-    "pregunta": "La suspensión individual prevista en el artículo 55.2 CE puede afectar, en los supuestos constitucionales, a:",
+    "pregunta": "¿Qué garantía exige el artículo 28.2 CE al regular el ejercicio del derecho de huelga?",
     "opciones": [
-      "Los artículos 17.2, 18.2 y 18.3 CE",
-      "Los artículos 14, 15 y 16 CE",
-      "Los artículos 20, 21 y 22 CE",
-      "Los artículos 24, 25 y 26 CE"
+      "Asegurar el mantenimiento de los servicios esenciales de la comunidad.",
+      "Obtener autorización judicial antes de cada convocatoria.",
+      "Sustituir el derecho de huelga por negociación obligatoria.",
+      "Garantizar que toda huelga tenga idéntica duración y alcance."
     ],
     "correcta": 0,
-    "referencia": "Tema I.1 · Artículo 55.2 CE · suspensión individual",
-    "explicacion": "El artículo 55.2 CE limita la suspensión individual a los artículos 17.2, 18.2 y 18.3 en investigaciones relacionadas con bandas armadas o terrorismo. La ley orgánica debe asegurar intervención judicial y control parlamentario. No permite suspender en bloque igualdad, vida, libertad ideológica o tutela judicial: confundirlo con la suspensión general del artículo 55.1 amplía indebidamente su alcance."
+    "referencia": "Tema I.1 · artículo 28.2 CE · derecho de huelga",
+    "explicacion": "El artículo 28.2 CE reconoce el derecho de huelga de los trabajadores y encomienda a la ley regular su ejercicio, con garantías para mantener los servicios esenciales de la comunidad. Esta exigencia no equivale a una autorización judicial previa ni permite vaciar el derecho: obliga a conciliar su ejercicio con la continuidad de servicios esenciales."
   },
   {
     "id": "burgos-i01-deep-07",
@@ -510,15 +510,15 @@
   {
     "id": "burgos-i01-deep-08",
     "tema": 1,
-    "pregunta": "¿Cuál es el plazo máximo ordinario de la detención preventiva conforme al artículo 17 CE?",
+    "pregunta": "Una vez iniciado el procedimiento de habeas corpus, ¿en qué plazo máximo debe la autoridad judicial adoptar la resolución prevista por la ley?",
     "opciones": [
-      "24 horas",
-      "48 horas",
-      "72 horas",
-      "Cinco días"
+      "En 48 horas",
+      "En 24 horas",
+      "En 72 horas",
+      "En cinco días hábiles"
     ],
-    "correcta": 2,
-    "referencia": "Tema I.1 · Artículo 17 CE · libertad y seguridad",
-    "explicacion": "El artículo 17.2 CE impone dos límites simultáneos: solo el tiempo estrictamente necesario para investigar y, ordinariamente, un máximo de 72 horas. Al finalizar, procede libertad o puesta a disposición judicial. No basta con afirmar que toda detención puede durar tres días: si las diligencias terminan antes, tampoco puede mantenerse sin necesidad."
+    "correcta": 1,
+    "referencia": "Ley Orgánica 6/1984, reguladora del procedimiento de habeas corpus · art. 7",
+    "explicacion": "El artículo 7 de la Ley Orgánica 6/1984 establece que el juez practicará las actuaciones y dictará la resolución en el plazo de veinticuatro horas desde la incoación del procedimiento. Este plazo no debe confundirse con las setenta y dos horas máximas de detención preventiva del artículo 17.2 CE."
   }
 ]

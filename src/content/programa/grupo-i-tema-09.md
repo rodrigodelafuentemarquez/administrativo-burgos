@@ -130,7 +130,7 @@ La Administración autonómica se estructura para servir al ejercicio de las com
 |---|---|
 | Procurador del Común | Alto comisionado de las Cortes, independiente, para proteger derechos frente a la Administración autonómica, sus entes locales y organismos dependientes. La ley reguladora fija un mandato de **cuatro años** y permite una segunda elección. Colabora con el Defensor del Pueblo. |
 | Consejo Consultivo | Superior órgano consultivo de la Junta y de la Administración autonómica. Su dictamen no equivale a una resolución administrativa. |
-| Consejo de Cuentas | Dependiente de las Cortes; fiscalización externa de la gestión económica, financiera y contable del sector público autonómico y demás entes públicos. La ley reguladora prevé **tres Consejeros**, por seis años, y no sustituye al Tribunal de Cuentas. |
+| Consejo de Cuentas | Dependiente de las Cortes; fiscalización externa de la gestión económica, financiera y contable del sector público autonómico y demás entes públicos. La ley reguladora prevé **tres Consejeros**, elegidos por cuatro años. En primera votación necesitan tres quintos y, si es necesaria una segunda, mayoría absoluta. No sustituye al Tribunal de Cuentas. |
 | Consejo Económico y Social | Órgano colegiado consultivo y asesor en materia socioeconómica. |
 
 ## 5. Competencias de Castilla y León
@@ -177,7 +177,7 @@ El procedimiento del **artículo 91** es especialmente preguntable:
 4. Las Cortes eligen una delegación entre sus miembros para participar en una comisión mixta paritaria, conforme al Reglamento del Congreso.
 5. La aprobación definitiva corresponde a las Cortes Generales mediante **ley orgánica**.
 
-La propuesta puede ser retirada por las Cortes autonómicas, con la mayoría cualificada que determine su Reglamento, mientras no haya sido aprobada definitivamente en las Cortes Generales. Si la propuesta no es aprobada por las Cortes autonómicas o por las Generales, no puede volver a someterse a debate y votación hasta que transcurra **más de un año** (**artículo 92**).
+La propuesta puede ser retirada por las Cortes autonómicas, con la mayoría cualificada que determine su Reglamento, mientras no haya sido aprobada definitivamente en las Cortes Generales. Si la propuesta no es aprobada por las Cortes autonómicas o por las Generales, no puede volver a someterse a debate y votación hasta que haya transcurrido **al menos un año** (**artículo 92**).
 
 <mark>Regla de memoria: iniciativa 1/3 o Junta → aprobación autonómica 2/3 → Congreso y comisión mixta → ley orgánica estatal.</mark>
 

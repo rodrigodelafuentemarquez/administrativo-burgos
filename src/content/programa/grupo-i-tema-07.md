@@ -10,7 +10,7 @@ estado: "revisado"
 
 Este tema debe estudiarse en tres niveles, en este orden:
 
-1. **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)**: órganos necesarios y régimen de los municipios de gran población, especialmente sus artículos 121 a 132.
+1. **Ley 7/1985, de 2 de abril, Reguladora de las Bases del Régimen Local (LRBRL)**: órganos necesarios y régimen de los municipios de gran población, especialmente sus artículos 121 a 132 ([texto consolidado del BOE](https://www.boe.es/buscar/act.php?id=BOE-A-1985-5392)).
 2. **Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales**, aprobado por Real Decreto 2568/1986 (ROF): sesiones, convocatorias, actas y funcionamiento cuando no exista regulación específica.
 3. **Normativa propia de Burgos**: Reglamento Orgánico y de Funcionamiento del Ayuntamiento, publicado en el BOP de 12 de noviembre de 2012 y modificado en 2024; Reglamento del Órgano de Gestión Tributaria y de Tesorería, cuya redacción vigente se publicó en el BOP de 27 de diciembre de 2011; y Reglamento del Tribunal Económico-Administrativo Municipal.
 
@@ -109,7 +109,7 @@ El Teniente no sustituye al Pleno ni se convierte en órgano de control económi
 
 ### 6.1. Composición y funcionamiento
 
-La Junta de Gobierno Local está integrada por el Alcalde y los miembros que este nombra y separa libremente, dando cuenta al Pleno. En régimen de gran población, el número de miembros no puede exceder de **un tercio del número legal de miembros del Pleno, además del Alcalde**. La presidencia corresponde al Alcalde.
+La Junta de Gobierno Local está integrada por el Alcalde y los miembros que este nombra y separa libremente, dando cuenta al Pleno. En régimen de gran población, el número de miembros no puede exceder de **un tercio del número legal de miembros del Pleno, además del Alcalde**. Tras la declaración de inconstitucionalidad del inciso que permitía nombrar miembros ajenos a la Corporación, la Junta se integra por Concejales. La presidencia corresponde al Alcalde.
 
 La Secretaría de la Junta corresponde a un miembro de la propia Junta que tenga la condición de concejal y sea designado por el Alcalde. Existe además un órgano de apoyo a la Junta y al concejal-secretario, cuyo titular se nombra entre funcionarios de Administración local con habilitación nacional. Sus deliberaciones son secretas; esto no equivale a decir que todos sus acuerdos sean secretos.
 

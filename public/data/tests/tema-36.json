@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «La posibilidad de que un trabajador sufra un…». La alternativa «Cualquier máquina aparato instrumento o instalación utilizada en…» no satisface ese criterio; aquí se aplica «La posibilidad de que un trabajador sufra un…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La LPRL define riesgo laboral como la posibilidad de que una persona trabajadora sufra un daño derivado del trabajo; riesgo es posibilidad, no daño ya producido."
   },
   {
     "id": "pdf-2024-burgos-est-q31",
@@ -31,7 +31,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "El artículo 4 de la Ley 31/1995 valora conjuntamente la probabilidad de que se produzca el daño y su severidad. La alternativa «Las características del centro de trabajo y las…» no satisface ese criterio; aquí se aplica «La probabilidad de que se produzca el daño…»."
+    "explicacion": "El artículo 4.2 LPRL valora conjuntamente la probabilidad del daño y su severidad para calificar la gravedad del riesgo."
   },
   {
     "id": "pdf-2023-burgos-q41",
@@ -49,7 +49,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La Ley de Prevención de Riesgos Laborales define esos supuestos como daños derivados del trabajo. La alternativa «Condiciones de trabajo sin relevancia preventiva» no satisface ese criterio; aquí se aplica «Danos derivados del trabajo». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La LPRL considera daños derivados del trabajo las enfermedades, patologías o lesiones sufridas con motivo u ocasión del trabajo."
   },
   {
     "id": "pdf-2025-burgos-q54",
@@ -67,7 +67,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La ley tiene un ámbito amplio de aplicación, pero contempla exclusiones expresas. La alternativa «Es de aplicación en todos los ámbitos sin…» no satisface ese criterio; aquí se aplica «Aunque pretende ser una ley aplicable a todos…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La LPRL tiene un ámbito amplio, pero el artículo 3 excluye o adapta actividades con particularidades, como determinadas funciones policiales o militares."
   },
   {
     "id": "pdf-2025-burgos-q55",
@@ -85,7 +85,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud. La alternativa «Aquel que origine riesgos para la salud y…» no satisface ese criterio; aquí se aplica «Aquel que resulte probable racionalmente que se materialice…»."
+    "explicacion": "La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud."
   },
   {
     "id": "pdf-2025-burgos-q56",
@@ -103,7 +103,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse. El artículo 4 de la Ley 31/1995 valora conjuntamente la probabilidad de que se produzca el daño y su severidad. La alternativa «La cantidad de trabajadores de la empresa» no satisface ese criterio; aquí se aplica «La probabilidad de que se produzca»."
+    "explicacion": "La gravedad del riesgo se valora atendiendo a la severidad del daño y a la probabilidad de que llegue a producirse. El artículo 4 de la Ley 31/1995 valora conjuntamente la probabilidad de que se produzca el daño y su severidad."
   },
   {
     "id": "t23-p001",
@@ -117,49 +117,49 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 1.1 Fundamento constitucional y comunitario",
-    "explicacion": "La respuesta correcta es «art 40 2 CE y la Directiva 89…». La alternativa «art. 14 CE y la LO 3/2007» no satisface ese criterio; aquí se aplica «art 40 2 CE y la Directiva 89…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 40.2 CE ordena velar por la seguridad e higiene en el trabajo; la Directiva marco 89/391/CEE establece el marco europeo preventivo."
   },
   {
     "id": "t23-p002",
     "tema": 36,
     "pregunta": "Según el art. 2 LPRL, el objeto de la LPRL es:",
     "opciones": [
-      "promover la seguridad y la salud de los trabajadores mediante la aplicación de principios preventivos",
       "regular el régimen sancionador de tráfico",
+      "promover la seguridad y la salud de los trabajadores mediante la aplicación de principios preventivos",
       "organizar los tribunales administrativos",
       "aprobar el presupuesto local"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 1.2 Objeto (art. 2 LPRL)",
-    "explicacion": "La respuesta correcta es «promover la seguridad y la salud de los…». La alternativa «organizar los tribunales administrativos» no satisface ese criterio; aquí se aplica «promover la seguridad y la salud de los…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La LPRL busca promover la seguridad y salud mediante medidas y actividades preventivas; establece principios y obligaciones para evitar o reducir riesgos."
   },
   {
     "id": "t23-p003",
     "tema": 36,
     "pregunta": "Según el art. 3 LPRL, el ámbito subjetivo de la LPRL alcanza a:",
     "opciones": [
-      "los trabajadores al servicio de empleadores públicos y privados",
       "solo a los funcionarios de carrera",
       "solo a los trabajadores autónomos",
+      "los trabajadores al servicio de empleadores públicos y privados",
       "únicamente a los menores de edad"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 2.1 Ámbito subjetivo (art. 3 LPRL)",
-    "explicacion": "La respuesta correcta es «los trabajadores al servicio de empleadores públicos y…». La alternativa «solo a los trabajadores autónomos» no satisface ese criterio; aquí se aplica «los trabajadores al servicio de empleadores públicos y…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La ley se aplica al personal laboral de empleadores públicos y privados, con especialidades y excepciones para ciertos servicios y actividades."
   },
   {
     "id": "t23-p004",
     "tema": 36,
     "pregunta": "Según el art. 4 LPRL, una condición de trabajo es:",
     "opciones": [
-      "Cualquier carácterística del trabajo que pueda influir significativamente en la generación de riesgos para la seguridad y la salud del trabajador",
       "Exclusivamente la cuantía salarial asignada al puesto",
       "Solo la antigüedad o experiencia profesional del trabajador",
-      "La denominación formal del puesto en la relación de puestos de trabajo"
+      "La denominación formal del puesto en la relación de puestos de trabajo",
+      "Cualquier carácterística del trabajo que pueda influir significativamente en la generación de riesgos para la seguridad y la salud del trabajador"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Ley 31/1995 · art. 4",
-    "explicacion": "La LPRL define condición de trabajo de forma amplia, atendiendo a cualquier carácterística que pueda influir en los riesgos laborales. La alternativa «Solo la antigüedad o experiencia profesional del trabajador» no satisface ese criterio; aquí se aplica «Cualquier carácterística del trabajo que pueda influir significativamente…»."
+    "explicacion": "Una condición de trabajo es una característica que influye significativamente en generar riesgos; puede relacionarse con equipos, organización, ambiente o tareas."
   },
   {
     "id": "t23-p005",
@@ -173,49 +173,49 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 4.2 El Instituto Nacional de Seguridad y Salud en el Trabajo (INSST)",
-    "explicacion": "La respuesta correcta es «el organismo científico técnico especializado en prevención de…». La alternativa «la mesa de negociación colectiva» no satisface ese criterio; aquí se aplica «el organismo científico técnico especializado en prevención de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El INSST es el órgano científico técnico de la Administración General del Estado para el análisis y promoción de condiciones de seguridad y salud en el trabajo."
   },
   {
     "id": "t23-p006",
     "tema": 36,
     "pregunta": "Según el art. 14 LPRL, el derecho básico reconocido a los trabajadores es el derecho a:",
     "opciones": [
-      "una protección eficaz frente a los riesgos laborales",
       "la concesión de subvenciones",
+      "una protección eficaz frente a los riesgos laborales",
       "la libre disposición del presupuesto",
       "la aprobación de las plantillas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 5.1 Derecho a la protección frente a los riesgos laborales (art. 14 LPRL)",
-    "explicacion": "La respuesta correcta es «una protección eficaz frente a los riesgos laborales». La alternativa «la concesión de subvenciones» no satisface ese criterio; aquí se aplica «una protección eficaz frente a los riesgos laborales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El derecho a protección eficaz frente a riesgos laborales lleva aparejado el deber empresarial o de la Administración de proteger al personal."
   },
   {
     "id": "t23-p007",
     "tema": 36,
     "pregunta": "Según el art. 15 LPRL, uno de los principios de la acción preventiva es:",
     "opciones": [
-      "adaptar el trabajo a la persona",
       "dejar la prevención al azar",
       "sustituir siempre la formación por sanciones",
+      "adaptar el trabajo a la persona",
       "priorizar el riesgo sobre la protección"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 6. Principios de la acción preventiva (art. 15 LPRL)",
-    "explicacion": "La respuesta correcta es «adaptar el trabajo a la persona». La alternativa «dejar la prevención al azar» no satisface ese criterio; aquí se aplica «adaptar el trabajo a la persona». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La prevención debe adaptar el trabajo a la persona, junto con evitar riesgos y evaluar los que no puedan evitarse."
   },
   {
     "id": "t23-p008",
     "tema": 36,
     "pregunta": "Según la LPRL, ¿en qué artículo se regulan la evaluación de riesgos y la planificación de la actividad preventiva?",
     "opciones": [
-      "art. 16 LPRL",
       "art. 5 CE",
       "art. 22 LRJSP",
-      "art. 63 LCSP"
+      "art. 63 LCSP",
+      "art. 16 LPRL"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.5 · 7.1 Evaluación de riesgos (art. 16 LPRL)",
-    "explicacion": "La respuesta correcta es «art. 16 LPRL». El artículo 16.2.b de la Ley 31/1995 obliga a planificar la actividad preventiva cuando la evaluación revela riesgos, fijando medidas, responsables, recursos y plazos. La alternativa «art. 5 CE» no satisface ese criterio; aquí se aplica «art. 16 LPRL»."
+    "explicacion": "La respuesta correcta es «art. 16 LPRL». El artículo 16.2.b de la Ley 31/1995 obliga a planificar la actividad preventiva cuando la evaluación revela riesgos, fijando medidas, responsables, recursos y plazos."
   },
   {
     "id": "t23-p009",
@@ -229,49 +229,49 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 7.3 Información a los trabajadores (art. 18 LPRL) / 7.4 Formación de los trabajadores (art. 19 LPRL)",
-    "explicacion": "La respuesta correcta es «arts. 18 y 19 LPRL». La alternativa «arts. 6 y 7 CE» no satisface ese criterio; aquí se aplica «arts. 18 y 19 LPRL». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La información preventiva se regula en el artículo 18 y la formación en el artículo 19 de la LPRL."
   },
   {
     "id": "t23-p010",
     "tema": 36,
     "pregunta": "Según la LPRL, ¿en qué artículo se regula la vigilancia de la salud de los trabajadores?",
     "opciones": [
-      "art. 22 LPRL",
       "art. 105 CE",
+      "art. 22 LPRL",
       "art. 20 LPACAP",
       "art. 162 TRLRHL"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 7.5 Vigilancia de la salud (art. 22 LPRL)",
-    "explicacion": "La respuesta correcta es «art. 22 LPRL». El artículo 22 parte del consentimiento y admite excepciones tasadas; la vigilancia debe preservar la intimidad y la confidencialidad clínica. La alternativa «art. 105 CE» no satisface ese criterio; aquí se aplica «art. 22 LPRL»."
+    "explicacion": "La respuesta correcta es «art. 22 LPRL». El artículo 22 parte del consentimiento y admite excepciones tasadas; la vigilancia debe preservar la intimidad y la confidencialidad clínica."
   },
   {
     "id": "t23-p011",
     "tema": 36,
     "pregunta": "Según el art. 21 LPRL, en caso de riesgo grave e inminente el trabajador puede:",
     "opciones": [
-      "interrumpir su actividad y abandonar el lugar de trabajo",
       "solicitar un cambio de presupuesto",
       "suspender el reglamento orgánico",
+      "interrumpir su actividad y abandonar el lugar de trabajo",
       "convertirse en órgano de selección"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 7.7 Riesgo grave e inminente (art. 21 LPRL)",
-    "explicacion": "La respuesta correcta es «interrumpir su actividad y abandonar el lugar de…». La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud. La alternativa «solicitar un cambio de presupuesto» no satisface ese criterio; aquí se aplica «interrumpir su actividad y abandonar el lugar de…»."
+    "explicacion": "La respuesta correcta es «interrumpir su actividad y abandonar el lugar de…». La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud."
   },
   {
     "id": "t23-p012",
     "tema": 36,
     "pregunta": "Según el art. 29.2.1º LPRL, una obligación del trabajador es:",
     "opciones": [
-      "usar adecuadamente máquinas, herramientas y equipos de protección individual",
       "aprobar el plan de prevención",
       "nombrar al delegado de prevención",
-      "redactar el presupuesto"
+      "redactar el presupuesto",
+      "usar adecuadamente máquinas, herramientas y equipos de protección individual"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.5 · 8.1 Usar adecuadamente máquinas, herramientas y EPIs (art. 29.2.1º LPRL)",
-    "explicacion": "La respuesta correcta es «usar adecuadamente máquinas herramientas y equipos de protección…». La alternativa «aprobar el plan de prevención» no satisface ese criterio; aquí se aplica «usar adecuadamente máquinas herramientas y equipos de protección…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El personal debe usar correctamente máquinas, herramientas, sustancias y equipos de protección y seguir las instrucciones preventivas."
   },
   {
     "id": "t23-p013",
@@ -285,49 +285,49 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 9.1 Delegados de Prevención (arts. 35-36 LPRL)",
-    "explicacion": "La respuesta correcta es «los representantes de los trabajadores con funciones específicas…». La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores. La alternativa «los interventores de fondos» no satisface ese criterio; aquí se aplica «los representantes de los trabajadores con funciones específicas…»."
+    "explicacion": "La respuesta correcta es «los representantes de los trabajadores con funciones específicas…». La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores."
   },
   {
     "id": "t23-p014",
     "tema": 36,
     "pregunta": "Según el art. 38 LPRL, el Comité de Seguridad y Salud es:",
     "opciones": [
-      "un órgano paritario y colegiado de participación en materia preventiva",
       "un tribunal administrativo de recursos",
+      "un órgano paritario y colegiado de participación en materia preventiva",
       "un órgano de contratación local",
       "una comisión de cuentas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 9.2 Comité de Seguridad y Salud (art. 38 LPRL)",
-    "explicacion": "La respuesta correcta es «un órgano paritario y colegiado de participación en…». La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores. La alternativa «un órgano de contratación local» no satisface ese criterio; aquí se aplica «un órgano paritario y colegiado de participación en…»."
+    "explicacion": "La respuesta correcta es «un órgano paritario y colegiado de participación en…». La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores."
   },
   {
     "id": "t23-p015",
     "tema": 36,
     "pregunta": "Según los arts. 31-32 LPRL, los Servicios de Prevención, tienen como finalidad:",
     "opciones": [
-      "asesorar y asistir a la empresa y a los trabajadores en materia preventiva",
       "tramitar reclamaciones tributarias",
       "aprobar convenios colectivos",
+      "asesorar y asistir a la empresa y a los trabajadores en materia preventiva",
       "realizar inspecciones judiciales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 9.3 Los Servicios de Prevención (arts. 31-32 LPRL)",
-    "explicacion": "La respuesta correcta es «asesorar y asistir a la empresa y a…». La alternativa «tramitar reclamaciones tributarias» no satisface ese criterio; aquí se aplica «asesorar y asistir a la empresa y a…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Los servicios de prevención asesoran y asisten al empleador, trabajadores y representantes en evaluación de riesgos y actividad preventiva."
   },
   {
     "id": "topup-36-01",
     "pregunta": "La prevención de riesgos laborales aplicada al puesto administrativo incluye medidas frente a riesgos:",
     "opciones": [
-      "ergonómicos, visuales y psicosociales",
       "solo maritimos",
       "exclusivamente mineros",
-      "reservados a la policía judicial"
+      "reservados a la policía judicial",
+      "ergonómicos, visuales y psicosociales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.5 · Riesgos y medidas preventivas del puesto administrativo",
     "tema": 36,
-    "explicacion": "El trabajo administrativo también presenta riesgos propios que requieren prevención. La alternativa «solo maritimos» no satisface ese criterio; aquí se aplica «ergonómicos, visuales y psicosociales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "En un puesto administrativo deben evaluarse riesgos ergonómicos, visuales y psicosociales, y adaptarse el espacio y la organización del trabajo."
   },
   {
     "id": "burgos-v05-deep-01",
@@ -341,49 +341,49 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 5. Derecho a protección y deber de la Administración",
-    "explicacion": "El artículo 14 configura un derecho del trabajador y un correlativo deber de protección de la Administración o empresario en todos los aspectos relacionados con el trabajo. La alternativa «Una recomendación que solo se aplica si ocurre…» no satisface ese criterio; aquí se aplica «El deber de la Administración de protección frente…»."
+    "explicacion": "El artículo 14 configura un derecho del trabajador y un correlativo deber de protección de la Administración o empresario en todos los aspectos relacionados con el trabajo."
   },
   {
     "id": "burgos-v05-deep-02",
     "tema": 36,
     "pregunta": "Cuando la evaluación de riesgos pone de manifiesto riesgos que no pueden eliminarse, la Administración debe:",
     "opciones": [
-      "Planificar medidas preventivas concretas, con responsables, recursos, prioridad y plazo",
       "Entregar siempre un EPI y dar por terminada la prevención",
+      "Planificar medidas preventivas concretas, con responsables, recursos, prioridad y plazo",
       "Esperar a que ocurra un accidente para actuar",
       "Trasladar automáticamente al trabajador afectado"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva",
-    "explicacion": "El artículo 16.2.b de la Ley 31/1995 obliga a planificar la actividad preventiva cuando la evaluación revela riesgos, fijando medidas, responsables, recursos y plazos. La alternativa «Entregar siempre un EPI y dar por terminada…» no satisface ese criterio; aquí se aplica «Planificar medidas preventivas concretas con responsables recursos prioridad…»."
+    "explicacion": "El artículo 16.2.b de la Ley 31/1995 obliga a planificar la actividad preventiva cuando la evaluación revela riesgos, fijando medidas, responsables, recursos y plazos."
   },
   {
     "id": "burgos-v05-deep-03",
     "tema": 36,
     "pregunta": "La vigilancia de la salud del trabajador es, con carácter general:",
     "opciones": [
-      "Voluntaria, con las excepciones previstas legalmente por los riesgos y la seguridad de las personas",
       "Obligatoria en cualquier puesto y sin necesidad de información",
       "Incompatible con la protección de la intimidad",
+      "Voluntaria, con las excepciones previstas legalmente por los riesgos y la seguridad de las personas",
       "Una actividad que permite al empleador conocer siempre el diagnóstico médico completo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 7.2 Vigilancia de la salud",
-    "explicacion": "El artículo 22 parte del consentimiento y admite excepciones tasadas; la vigilancia debe preservar la intimidad y la confidencialidad clínica. La alternativa «Incompatible con la protección de la intimidad» no satisface ese criterio; aquí se aplica «Voluntaria con las excepciones previstas legalmente por los…»."
+    "explicacion": "La vigilancia de la salud requiere, por regla general, consentimiento. La LPRL contempla excepciones tasadas por riesgos para la persona trabajadora o terceros y otros supuestos legales."
   },
   {
     "id": "burgos-v05-deep-04",
     "tema": 36,
     "pregunta": "Ante un riesgo grave e inminente, el trabajador puede:",
     "opciones": [
-      "Interrumpir su actividad y, si es necesario, abandonar el lugar de trabajo sin sufrir perjuicio por ello salvo mala fe o negligencia grave",
       "Continuar siempre hasta recibir autorización judicial",
       "Desactivar por su cuenta todos los sistemas de seguridad",
-      "Imponer una sanción disciplinaria a la Administración"
+      "Imponer una sanción disciplinaria a la Administración",
+      "Interrumpir su actividad y, si es necesario, abandonar el lugar de trabajo sin sufrir perjuicio por ello salvo mala fe o negligencia grave"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.5 · 7.3 Emergencias y riesgo grave e inminente",
-    "explicacion": "El artículo 21 LPRL obliga a informar y proteger frente al riesgo grave e inminente y permite interrumpir la actividad y abandonar el lugar cuando sea necesario, con las garantías legales. La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud. La alternativa «Desactivar por su cuenta todos los sistemas de…» no satisface ese criterio; aquí se aplica «Interrumpir su actividad y si es necesario abandonar…»."
+    "explicacion": "El artículo 21 LPRL obliga a informar y proteger frente al riesgo grave e inminente y permite interrumpir la actividad y abandonar el lugar cuando sea necesario, con las garantías legales. La Ley 31/1995 exige probabilidad racional de materialización en un futuro inmediato y posibilidad de un daño grave para la salud."
   },
   {
     "id": "burgos-v05-deep-05",
@@ -397,49 +397,49 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 9. Participación y órganos preventivos",
-    "explicacion": "El Comité de Seguridad y Salud es paritario y colegiado y se constituye desde 50 trabajadores en los términos del artículo 38 LPRL. La alternativa «Los delegados son técnicos externos y el Comité…» no satisface ese criterio; aquí se aplica «Los delegados representan al personal el Comité es…»."
+    "explicacion": "El Comité de Seguridad y Salud es paritario y colegiado y se constituye desde 50 trabajadores en los términos del artículo 38 LPRL."
   },
   {
     "id": "burgos-v05-deep-06",
     "tema": 36,
     "pregunta": "El Comité de Seguridad y Salud se constituye, con carácter general, en centros o unidades de trabajo que cuenten con:",
     "opciones": [
-      "50 o más trabajadores",
       "10 o más trabajadores",
+      "50 o más trabajadores",
       "100 o más trabajadores",
       "500 o más trabajadores"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 9. Participación y órganos preventivos",
-    "explicacion": "El artículo 38 LPRL establece el Comité de Seguridad y Salud en empresas o centros de trabajo con 50 o más trabajadores; es paritario y colegiado. La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores. La alternativa «10 o más trabajadores» no satisface ese criterio; aquí se aplica «50 o más trabajadores»."
+    "explicacion": "El artículo 38 LPRL establece el Comité de Seguridad y Salud en empresas o centros de trabajo con 50 o más trabajadores; es paritario y colegiado. La Ley 31/1995 diferencia a los delegados de prevención, representantes del personal, del comité paritario de consulta constituido desde 50 trabajadores."
   },
   {
     "id": "burgos-v05-deep-07",
     "tema": 36,
     "pregunta": "Cuando una empresa de limpieza trabaja en un edificio municipal junto con empleados del Ayuntamiento, procede principalmente:",
     "opciones": [
-      "Coordinar las actividades empresariales e intercambiar información sobre riesgos, medidas y emergencias",
       "Que cada entidad ignore los riesgos de la otra por tener contratos distintos",
       "Que la empresa contratista asuma automáticamente todas las obligaciones del Ayuntamiento",
+      "Coordinar las actividades empresariales e intercambiar información sobre riesgos, medidas y emergencias",
       "Suspender la evaluación de riesgos del personal municipal"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva",
-    "explicacion": "La concurrencia de empresas en un mismo centro exige cooperación y coordinación preventiva, incluida la información sobre riesgos e instrucciones de emergencia. La alternativa «Suspender la evaluación de riesgos del personal municipal» no satisface ese criterio; aquí se aplica «Coordinar las actividades empresariales e intercambiar información sobre…»."
+    "explicacion": "La concurrencia de empresas en un mismo centro exige cooperación y coordinación preventiva, incluida la información sobre riesgos e instrucciones de emergencia."
   },
   {
     "id": "burgos-v05-deep-08",
     "tema": 36,
     "pregunta": "En la aplicación de los principios del artículo 15 LPRL, la protección colectiva:",
     "opciones": [
-      "Debe anteponerse a la protección individual",
       "Solo se aplica cuando el EPI ha fallado",
       "Es siempre opcional frente a cualquier EPI",
-      "Solo se aplica al personal laboral privado"
+      "Solo se aplica al personal laboral privado",
+      "Debe anteponerse a la protección individual"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.5 · 4. Principios de la acción preventiva",
-    "explicacion": "El artículo 15 ordena anteponer la protección colectiva a la individual. Los equipos individuales pueden ser necesarios, pero no sustituyen la eliminación o control colectivo del riesgo. La alternativa «Solo se aplica cuando el EPI ha fallado» no satisface ese criterio; aquí se aplica «Debe anteponerse a la protección individual»."
+    "explicacion": "El artículo 15 ordena anteponer la protección colectiva a la individual. Los equipos individuales pueden ser necesarios, pero no sustituyen la eliminación o control colectivo del riesgo."
   },
   {
     "id": "burgos-v05-deep-09",
@@ -453,48 +453,48 @@
     ],
     "correcta": 0,
     "referencia": "V.5 · 6. Evaluación, planificación y organización preventiva",
-    "explicacion": "La evaluación debe actualizarse cuando cambian las condiciones o cuando aparecen daños o indicios de insuficiencia preventiva; no existe una revisión automática por los supuestos ajenos indicados. La alternativa «El trabajador solicita vacaciones» no satisface ese criterio; aquí se aplica «Cambian los equipos la organización o las condiciones…»."
+    "explicacion": "La evaluación debe actualizarse cuando cambian las condiciones o cuando aparecen daños o indicios de insuficiencia preventiva; no existe una revisión automática por los supuestos ajenos indicados."
   },
   {
     "id": "burgos-v05-deep-10",
     "tema": 36,
     "pregunta": "En un puesto administrativo con pantalla, una medida preventiva adecuada es:",
     "opciones": [
-      "Ajustar pantalla, silla e iluminación, evitar reflejos y alternar tareas o posturas",
       "Mantener la misma postura para no perder concentración",
+      "Ajustar pantalla, silla e iluminación, evitar reflejos y alternar tareas o posturas",
       "Sustituir toda evaluación por gafas para el trabajador",
       "Colocar la pantalla de espaldas a la persona para reducir el uso"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo",
-    "explicacion": "Los riesgos del puesto con pantalla son ergonómicos, visuales y organizativos. La prevención debe actuar sobre el equipo, el entorno y la organización, no solo sobre el trabajador. La alternativa «Colocar la pantalla de espaldas a la persona…» no satisface ese criterio; aquí se aplica «Ajustar pantalla silla e iluminación evitar reflejos y…»."
+    "explicacion": "Los riesgos del puesto con pantalla son ergonómicos, visuales y organizativos. La prevención debe actuar sobre el equipo, el entorno y la organización, no solo sobre el trabajador."
   },
   {
     "id": "burgos-v05-deep-11",
     "tema": 36,
     "pregunta": "Según el Real Decreto 488/1997, queda excluido de su ámbito, entre otros:",
     "opciones": [
-      "Un sistema informático destinado prioritariamente a ser utilizado por el público",
       "El puesto administrativo habitual con pantalla y teclado",
       "La pantalla utilizada de forma continuada en un puesto de trabajo",
+      "Un sistema informático destinado prioritariamente a ser utilizado por el público",
       "El equipo ofimático de una unidad administrativa"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.5 · 10. Riesgos y medidas del puesto administrativo",
-    "explicacion": "El artículo 1.3 del Real Decreto 488/1997 excluye, entre otros, los sistemas informáticos destinados prioritariamente al público; la exclusión no alcanza al puesto administrativo habitual del empleado. La alternativa «El puesto administrativo habitual con pantalla y teclado» no satisface ese criterio; aquí se aplica «Un sistema informático destinado prioritariamente a ser utilizado…»."
+    "explicacion": "El artículo 1.3 del Real Decreto 488/1997 excluye, entre otros, los sistemas informáticos destinados prioritariamente al público; la exclusión no alcanza al puesto administrativo habitual del empleado."
   },
   {
     "id": "burgos-v05-deep-12",
     "tema": 36,
     "pregunta": "¿Cuál es una obligación preventiva del trabajador conforme al artículo 29 LPRL?",
     "opciones": [
-      "Informar de inmediato al superior o servicio preventivo de cualquier situación razonablemente peligrosa",
       "Aprobar la evaluación de riesgos como autoridad competente",
       "Designar unilateralmente al Comité de Seguridad y Salud",
-      "Sustituir al servicio de prevención en la evaluación técnica"
+      "Sustituir al servicio de prevención en la evaluación técnica",
+      "Informar de inmediato al superior o servicio preventivo de cualquier situación razonablemente peligrosa"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.5 · 8. Obligaciones del personal trabajador",
-    "explicacion": "El trabajador debe informar de inmediato sobre situaciones que razonablemente entrañen riesgo, además de usar adecuadamente equipos y cooperar con la Administración. La alternativa «Sustituir al servicio de prevención en la evaluación…» no satisface ese criterio; aquí se aplica «Informar de inmediato al superior o servicio preventivo…»."
+    "explicacion": "El trabajador debe informar de inmediato sobre situaciones que razonablemente entrañen riesgo, además de usar adecuadamente equipos y cooperar con la Administración."
   }
 ]

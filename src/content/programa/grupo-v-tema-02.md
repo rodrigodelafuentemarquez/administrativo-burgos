@@ -142,13 +142,13 @@ La resolución que deniega, concede parcialmente o inadmite debe estar motivada.
 
 ### 5.3. Impugnación
 
-Frente a la resolución expresa o presunta puede formularse reclamación ante el Consejo de Transparencia y Buen Gobierno o, en su caso, ante el órgano autonómico independiente competente, **con carácter potestativo y previo a la vía contencioso-administrativa**. La reclamación es sustitutiva de los recursos administrativos ordinarios.
+Frente a la resolución expresa o presunta puede formularse reclamación **potestativa y previa a la vía contencioso-administrativa**; esta reclamación sustituye los recursos administrativos ordinarios. El órgano depende de la Administración que resolvió: el Consejo de Transparencia y Buen Gobierno actúa en su ámbito estatal; para las resoluciones de entidades locales de Castilla y León, incluidos el Ayuntamiento de Burgos y su sector público, los artículos 8 y 12 de la Ley 3/2015 atribuyen la reclamación a la **Comisión de Transparencia de Castilla y León**, adscrita al Comisionado de Transparencia.
 
 Debe presentarse en el plazo de <mark>un mes</mark> desde la notificación de la resolución expresa o desde el día siguiente a aquel en que se produzcan los efectos del silencio. El plazo máximo para resolver la reclamación es de <mark>tres meses</mark>; transcurrido sin resolución, se entiende desestimada. También puede acudirse directamente a la jurisdicción contencioso-administrativa.
 
 | Vía | Idea clave |
 | --- | --- |
-| Reclamación de transparencia | Potestativa, sustitutiva, un mes para presentar, tres meses para resolver. |
+| Reclamación de transparencia | En Burgos, ante la Comisión de Transparencia de Castilla y León; potestativa, sustitutiva, un mes para presentar, tres meses para resolver. |
 | Contencioso-administrativo | Puede utilizarse directamente o después de la reclamación. |
 | Recurso administrativo ordinario | No se acumula como vía ordinaria sustitutiva frente a la resolución de acceso. |
 
@@ -194,3 +194,8 @@ Una persona solicita copia de los contratos menores de un ejercicio y pide adem�
   <li><strong>Test</strong>: no confundir publicidad activa con acceso, inadmisión con denegación, ni V.2 con el desarrollo completo de protección de datos de V.6.</li>
 </ul>
 </div>
+
+
+### Norma autonómica complementaria
+
+- [Ley 3/2015, de Transparencia y Participación Ciudadana de Castilla y León (BOE)](https://www.boe.es/buscar/act.php?id=BOE-A-2015-3281): arts. 8, 12 y 13, sobre reclamaciones frente a decisiones de las entidades locales y funciones de la Comisión y del Comisionado de Transparencia.

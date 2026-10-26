@@ -100,9 +100,7 @@ Objetivo de este documento: identificar qué partes del temario actual se pueden
 
 ## Siguiente trabajo
 
-1. Crear la estructura definitiva de contenidos por grupos.
-2. Generar los 42 markdown oficiales como esqueletos, enlazando el material antiguo relacionado.
-3. Priorizar redaccion de grupos III, IV y V.
-4. Crear los temas pendientes desde cero: I.7, II.8, II.10, II.12, IV.1 y IV.5.
-5. Auditar tests actuales y reasignarlos al nuevo codigo de tema oficial.
+La tabla de estados de este documento conserva el diagnóstico inicial del mapeo y no refleja el trabajo posterior. A 26 de octubre de 2026 ya existen los 42 desarrollos oficiales y los 42 bancos están asignados a su tema; los temas que aquí figuran como «Pendiente» o «Parcial» se redactaron o completaron después de ese diagnóstico. La revisión profunda tema a tema está documentada en [revision-profunda-temario-tests-2026.md](revision-profunda-temario-tests-2026.md): incluye cotejo de temario y preguntas, depuración de explicaciones, actualización normativa y control de duplicados.
+
+La continuidad se orienta a mantener los contenidos al día cuando cambien el programa, las convocatorias o las normas aplicables.
 

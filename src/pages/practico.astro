@@ -11,10 +11,27 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
 <Layout title="Segundo ejercicio">
   <div class="bd-intro ps-lg-2">
     <h1 class="bd-title">Segundo ejercicio</h1>
-    <p class="bd-subtitle mb-0">Supuestos prácticos, checklist de resolución, textos legales y bloques críticos para entrenar el ejercicio escrito.</p>
+    <p class="bd-subtitle mb-0">Casos resueltos y explicados para entrenar el segundo ejercicio con el formato y los criterios de la convocatoria.</p>
   </div>
 
   <section class="bd-content ps-lg-2">
+    <section class="official-group" id="condiciones-oficiales">
+      <div class="official-group-heading">
+        <div>
+          <h2>Condiciones oficiales del segundo ejercicio<a class="anchor-link" aria-label="Enlace a las condiciones oficiales" href="#condiciones-oficiales"></a></h2>
+          <p>Según la base cuarta de las bases C1 del Ayuntamiento de Burgos, BOPBUR n.º 95/2026:</p>
+        </div>
+      </div>
+      <ul>
+        <li>Uno o varios supuestos prácticos sobre los temas de los grupos III, IV y V.</li>
+        <li>Duración máxima de cuatro horas. Se pueden consultar textos normativos sin comentarios; no se admiten manuales.</li>
+        <li>El tribunal puede acordar la lectura pública y formular preguntas relacionadas con el ejercicio durante un máximo de cinco minutos.</li>
+        <li>Cada supuesto se califica de 0 a 10. Para superar el ejercicio hay que obtener al menos 5 puntos en total y no menos de 3 en ninguno de los supuestos.</li>
+        <li>Se valoran la idoneidad de la solución, la aplicación e interpretación jurídica, el razonamiento y la claridad. La ficha descriptiva del ejercicio puede concretar los criterios y porcentajes; consulta la ficha cuando se publique. Si el tribunal no fija porcentajes, las bases prevén como criterio supletorio 55 % para la corrección e idoneidad, 15 % para la aplicación e interpretación jurídica, 15 % para el razonamiento y 15 % para la claridad de redacción.</li>
+      </ul>
+      <p class="small text-body-secondary">Fuente primaria: <a href={`${base}convocatoria/bases-administrativo-burgos-2026-bop.pdf`} target="_blank" rel="noreferrer">bases oficiales completas, BOPBUR n.º 95/2026</a>.</p>
+    </section>
+
     <section class="official-group">
       <div class="official-group-heading">
         <div>
@@ -123,6 +140,17 @@ const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase(
                         <ul class="mb-0">
                           {practicalCase.tasks.map((task) => <li>{task}</li>)}
                         </ul>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="col-12">
+                    <div class="card border-0 bg-body-tertiary">
+                      <div class="card-body">
+                        <h4 class="h6 mb-3">Resolución orientativa explicada</h4>
+                        <ol class="mb-3">
+                          {practicalCase.workedResolution.map((step) => <li>{step}</li>)}
+                        </ol>
+                        <p class="mb-0"><strong>Alcance del modelo:</strong> {practicalCase.solutionExplanation}</p>
                       </div>
                     </div>
                   </div>

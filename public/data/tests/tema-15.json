@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Que no tenga el deber jurídico de soportar de acuerdo con la Ley». El distractor «En todo caso, por el funcionamiento anormal de…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Que no tenga el deber jurídico de soportar de acuerdo con la Ley»."
   },
   {
     "id": "pdf-2023-burgos-q33",
@@ -32,21 +32,21 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «El daño alegado por el particular tiene que ser evaluable económicamente». El distractor «Sólo el funcionamiento anormal de los servicios públicos…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «El daño alegado por el particular tiene que ser evaluable económicamente»."
   },
   {
     "id": "t18-p001",
     "tema": 15,
     "pregunta": "En responsabilidad patrimonial de la Administración, esta queda obligada a:",
     "opciones": [
-      "indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos",
       "sancionar a los ciudadanos",
       "dictar reglamentos compensatorios",
-      "revocar automáticamente el acto dañoso"
+      "revocar automáticamente el acto dañoso",
+      "indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración",
-    "explicacion": "El tema parte de esa definición general. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos». El distractor «sancionar a los ciudadanos» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema parte de esa definición general. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «indemnizar los daños y perjuicios derivados del funcionamiento de los servicios públicos»."
   },
   {
     "id": "t18-p002",
@@ -60,7 +60,7 @@
     ],
     "correcta": 1,
     "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración",
-    "explicacion": "El tema cita expresamente el art. 106.2 CE. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Art. 106.2 CE». El distractor «Art. 24.1 CE» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema cita expresamente el art. 106.2 CE. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Art. 106.2 CE»."
   },
   {
     "id": "t18-p003",
@@ -68,13 +68,13 @@
     "pregunta": "En responsabilidad patrimonial de la Administración, la responsabilidad patrimonial es:",
     "opciones": [
       "subjetiva y subsidiaria",
-      "objetiva y directa",
       "penal y solidaria",
+      "objetiva y directa",
       "discrecional y revisable"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.6 · 1.1 La responsabilidad patrimonial de la Administración",
-    "explicacion": "El tema lo explica así de forma expresa. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «objetiva y directa». El distractor «subjetiva y subsidiaria» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema lo explica así de forma expresa. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «objetiva y directa»."
   },
   {
     "id": "t18-p004",
@@ -82,27 +82,27 @@
     "pregunta": "Para que nazca la responsabilidad patrimonial, además de ser efectiva y evaluable económicamente, la lesión debe ser:",
     "opciones": [
       "Qué sea colectiva",
-      "Qué sea individualizada",
       "Qué se haya publicado en el BOE",
-      "Qué tenga naturaleza penal"
+      "Qué tenga naturaleza penal",
+      "Qué sea individualizada"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada",
-    "explicacion": "El tema exige que el daño esté individualizado. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Qué sea individualizada». El distractor «Qué sea colectiva» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema exige que el daño esté individualizado. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Qué sea individualizada»."
   },
   {
     "id": "t18-p005",
     "tema": 15,
     "pregunta": "En responsabilidad patrimonial de la Administración, si existe un deber jurídico de soportar el daño:",
     "opciones": [
-      "siempre hay indemnización",
       "no hay responsabilidad",
+      "siempre hay indemnización",
       "la responsabilidad pasa al funcionario",
       "el daño se presume antijurídico"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "II.6 · 2.2 Qué la lesión sea antijurídica",
-    "explicacion": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «no hay responsabilidad». El distractor «siempre hay indemnización» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema explica que la antijuridicidad desaparece si existe el deber de soportarlo. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «no hay responsabilidad»."
   },
   {
     "id": "t18-p006",
@@ -116,7 +116,7 @@
     ],
     "correcta": 1,
     "referencia": "II.6 · 2.4 Qué no concurra fuerza mayor",
-    "explicacion": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Fuerza mayor». El distractor «Caso fortuito» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema señala que la fuerza mayor es la única causa constitucional de exclusión. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Fuerza mayor»."
   },
   {
     "id": "t18-p007",
@@ -124,13 +124,13 @@
     "pregunta": "Según el artículo 34.1 de la Ley 40/2015, los daños derivados de riesgos del desarrollo:",
     "opciones": [
       "siempre son indemnizables",
-      "no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes",
       "solo se indemnizan si los aprueba el Senado",
+      "no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes",
       "se convierten automáticamente en responsabilidad penal"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Ley 40/2015 · artículo 34.1 · Riesgos del desarrollo",
-    "explicacion": "El artículo 34.1 LRJSP excluye los daños que no pudieron preverse o evitarse según el estado de los conocimientos de la ciencia o de la técnica al producirse. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes». El distractor «siempre son indemnizables» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 34.1 LRJSP excluye los daños que no pudieron preverse o evitarse según el estado de los conocimientos de la ciencia o de la técnica al producirse. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «no son indemnizables cuando no pudieron preverse o evitarse según la ciencia o técnica existentes»."
   },
   {
     "id": "t18-p008",
@@ -138,27 +138,27 @@
     "pregunta": "Según el art. 67 LPACAP, ¿qué plazo general tiene el interesado para presentar la reclamación?",
     "opciones": [
       "6 meses",
-      "1 año",
       "2 años",
-      "4 años"
+      "4 años",
+      "1 año"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.6 · 5.1 Iniciación (art. 67 LPACAP)",
-    "explicacion": "El tema fija el plazo de 1 año y lo califica como prescripción. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «1 año». El distractor «6 meses» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema fija el plazo de 1 año y lo califica como prescripción. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «1 año»."
   },
   {
     "id": "t18-p009",
     "tema": 15,
     "pregunta": "En responsabilidad patrimonial de la Administración, el procedimiento de responsabilidad patrimonial debe resolverse en:",
     "opciones": [
-      "3 meses",
       "6 meses",
+      "3 meses",
       "9 meses",
       "1 año"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "II.6 · 5.3 Resolución y plazo",
-    "explicacion": "El tema fija 6 meses. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «6 meses». El distractor «3 meses» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema fija 6 meses. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «6 meses»."
   },
   {
     "id": "t18-p010",
@@ -172,21 +172,21 @@
     ],
     "correcta": 0,
     "referencia": "Ley 39/2015 · artículo 81.2 · Dictamen consultivo",
-    "explicacion": "El artículo 81.2 LPAC exige solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma, sin perjuicio de otros supuestos legales. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Consejo de Estado u órgano consultivo equivalente». El distractor «Tribunal Supremo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 81.2 LPAC exige solicitar dictamen del Consejo de Estado o, en su caso, del órgano consultivo de la Comunidad Autónoma, sin perjuicio de otros supuestos legales. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Consejo de Estado u órgano consultivo equivalente»."
   },
   {
     "id": "t18-p011",
     "tema": 15,
     "pregunta": "Según el art. 36 LRJSP, la acción de regreso permite a la Administración reclamar al funcionario si actuó con:",
     "opciones": [
-      "dolo, culpa o negligencia grave",
       "mera discrepancia técnica",
+      "dolo, culpa o negligencia grave",
       "una simple duda razonable",
       "cualquier error material"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.6 · 7.2 La acción de regreso (art. 36 LRJSP)",
-    "explicacion": "El tema lo condiciona a esa gravedad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «dolo, culpa o negligencia grave». El distractor «mera discrepancia técnica» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema lo condiciona a esa gravedad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «dolo, culpa o negligencia grave»."
   },
   {
     "id": "t18-p012",
@@ -194,13 +194,13 @@
     "pregunta": "¿Cuál de los siguientes supuestos forma parte de la responsabilidad patrimonial del Estado legislador?",
     "opciones": [
       "Los daños causados exclusivamente por reglamentos declarados nulos, con exclusión de las leyes",
-      "Los daños derivados de leyes declaradas inconstitucionales y de leyes contrarias al Derecho de la Unión Europea en los términos legales",
       "La responsabilidad nacida solo de actos contractuales dictados por órganos legislativos",
+      "Los daños derivados de leyes declaradas inconstitucionales y de leyes contrarias al Derecho de la Unión Europea en los términos legales",
       "Los perjuicios ocasionados exclusivamente por sentencias penales erróneas"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Ley 40/2015 · responsabilidad del Estado legislador",
-    "explicacion": "La responsabilidad patrimonial del Estado legislador se contempla, entre otros casos, respecto de leyes declaradas inconstitucionales o contrarias al Derecho de la Unión Europea. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Los daños derivados de leyes declaradas inconstitucionales y de leyes contrarias al Derecho de la…». El distractor «Los daños causados exclusivamente por reglamentos declarados nulos,…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La responsabilidad patrimonial del Estado legislador se contempla, entre otros casos, respecto de leyes declaradas inconstitucionales o contrarias al Derecho de la Unión Europea. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Los daños derivados de leyes declaradas inconstitucionales y de leyes contrarias al Derecho de la…»."
   },
   {
     "id": "t18-p013",
@@ -208,13 +208,13 @@
     "pregunta": "En responsabilidad patrimonial de la Administración, la indemnización debe ser:",
     "opciones": [
       "inferior al daño para evitar enriquecimiento",
-      "íntegra, ni inferior ni superior al daño real",
       "siempre simbólica",
-      "fijada libremente por el perjudicado"
+      "fijada libremente por el perjudicado",
+      "íntegra, ni inferior ni superior al daño real"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.6 · 4.1 Principio de indemnidad",
-    "explicacion": "El tema recoge el principio de indemnidad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «íntegra, ni inferior ni superior al daño real». El distractor «inferior al daño para evitar enriquecimiento» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema recoge el principio de indemnidad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «íntegra, ni inferior ni superior al daño real»."
   },
   {
     "id": "t18-p014",
@@ -228,35 +228,35 @@
     ],
     "correcta": 0,
     "referencia": "II.6 · 2.1 Lesión efectiva, evaluable económicamente e individualizada",
-    "explicacion": "El tema exige la evaluabilidad económica junto con la efectividad e individualización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Qué sea evaluable económicamente». El distractor «Qué sea siempre moral» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema exige la evaluabilidad económica junto con la efectividad e individualización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Qué sea evaluable económicamente»."
   },
   {
     "id": "t18-p015",
     "tema": 15,
     "pregunta": "En responsabilidad patrimonial de la Administración, la responsabilidad patrimonial es compatible con:",
     "opciones": [
-      "la responsabilidad penal y disciplinaria",
       "la derogación de la ley",
+      "la responsabilidad penal y disciplinaria",
       "la suspensión automática del procedimiento administrativo",
       "la nulidad del expediente"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.6 · 7.3 Responsabilidad penal / 7.4 Responsabilidad disciplinaria",
-    "explicacion": "El tema señala esa compatibilidad expresamente. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la responsabilidad penal y disciplinaria». El distractor «la derogación de la ley» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema señala esa compatibilidad expresamente. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la responsabilidad penal y disciplinaria»."
   },
   {
     "id": "t18-p016",
     "tema": 15,
     "pregunta": "De acuerdo con el art. 32 LRJSP, para que nazca la responsabilidad patrimonial es necesario que la lesión sea:",
     "opciones": [
-      "Efectiva, evaluable economicamente e individualizada",
       "Solamente ilicita desde el punto de vista penal",
       "Exclusivamente imputable a un funcionario concreto",
+      "Efectiva, evaluable economicamente e individualizada",
       "Necesariamente producida por funcionamiento anormal del servicio"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.6 · 2.1 Lesión efectiva, evaluable economicamente e individualizada",
-    "explicacion": "El tema exige lesión efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Efectiva, evaluable economicamente e individualizada». El distractor «Solamente ilicita desde el punto de vista penal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema exige lesión efectiva, evaluable economicamente e individualizada, sin necesidad de identificar culpa individual ni funcionamiento anormal. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Efectiva, evaluable economicamente e individualizada»."
   },
   {
     "id": "t18-p017",
@@ -264,13 +264,13 @@
     "pregunta": "En responsabilidad patrimonial, cuando la indemnización reclamada alcance el umbral legal o autonómico aplicable, durante la instrucción deberá solicitarse dictamen de:",
     "opciones": [
       "La Intervención General del Estado",
-      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma",
       "El Ministerio Fiscal",
-      "La Abogacia del Estado en todo caso"
+      "La Abogacia del Estado en todo caso",
+      "El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Ley 39/2015 · artículo 81.2 · Dictamen consultivo",
-    "explicacion": "La regla general del artículo 81.2 LPAC fija 50.000 euros, salvo la cuantía establecida por la legislación autonómica, y atribuye el dictamen al Consejo de Estado o al órgano consultivo autonómico. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma». El distractor «La Intervención General del Estado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La regla general del artículo 81.2 LPAC fija 50.000 euros, salvo la cuantía establecida por la legislación autonómica, y atribuye el dictamen al Consejo de Estado o al órgano consultivo autonómico. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «El Consejo de Estado u órgano consultivo equivalente de la Comunidad Autónoma»."
   },
   {
     "id": "topup-15-01",
@@ -284,35 +284,35 @@
     "correcta": 0,
     "referencia": "II.6 · Caracteres de la responsabilidad administrativa",
     "tema": 15,
-    "explicacion": "La responsabilidad patrimonial responde a daños antijuridicos causados por el funcionamiento de los servicios públicos. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «objetivo y directo». El distractor «penal y subsidiario» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La responsabilidad patrimonial responde a daños antijuridicos causados por el funcionamiento de los servicios públicos. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «objetivo y directo»."
   },
   {
     "id": "topup-15-02",
     "pregunta": "Para que exista responsabilidad patrimonial, el daño debe ser, entre otras notas:",
     "opciones": [
-      "efectivo, evaluable economicamente e individualizado",
       "solo moral y simbolico",
+      "efectivo, evaluable economicamente e individualizado",
       "siempre colectivo",
       "puramente hipotetico"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.6 · Presupuestos de la responsabilidad",
     "tema": 15,
-    "explicacion": "La lesión indemnizable exige efectividad, evaluación económica e individualización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «efectivo, evaluable economicamente e individualizado». El distractor «solo moral y simbolico» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La lesión indemnizable exige efectividad, evaluación económica e individualización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «efectivo, evaluable economicamente e individualizado»."
   },
   {
     "id": "topup-15-03",
     "pregunta": "La acción de regreso permite a la Administración reclamar al empleado público cuando haya actuado con:",
     "opciones": [
-      "dolo, culpa o negligencia grave",
       "simple error material inocuo",
       "discrepancia política",
+      "dolo, culpa o negligencia grave",
       "mera opinion jurídica"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.6 · Responsabilidad de autoridades y personal",
     "tema": 15,
-    "explicacion": "La acción de regreso exige una conducta especialmente grave del personal responsable. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «dolo, culpa o negligencia grave». El distractor «simple error material inocuo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La acción de regreso exige una conducta especialmente grave del personal responsable. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «dolo, culpa o negligencia grave»."
   },
   {
     "id": "estado2026-extra-t15-01",
@@ -329,7 +329,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «El Consejo de Ministros». El distractor «El propio Tribunal Constitucional» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El art. 32.8 LRJSP atribuye al Consejo de Ministros la fijación del importe de la indemnización en estos supuestos. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «El Consejo de Ministros»."
   },
   {
     "id": "estado2026-extra-t15-02",
@@ -346,7 +346,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «La fuerza mayor excluye la responsabilidad cuando rompe el nexo causal». El distractor «La fuerza mayor agrava siempre la indemnización» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La fuerza mayor es causa de exclusión de responsabilidad patrimonial al romper el nexo causal imputable a la Administración. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «La fuerza mayor excluye la responsabilidad cuando rompe el nexo causal»."
   },
   {
     "id": "burgos-ii06-deep-01",
@@ -354,13 +354,13 @@
     "pregunta": "La anulación de un acto administrativo en vía administrativa o contenciosa:",
     "opciones": [
       "presupone siempre el derecho a ser indemnizado",
-      "no presupone por sí sola el derecho a ser indemnizado",
       "impide en todo caso reclamar responsabilidad patrimonial",
-      "solo permite reclamar al funcionario que dictó el acto"
+      "solo permite reclamar al funcionario que dictó el acto",
+      "no presupone por sí sola el derecho a ser indemnizado"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Ley 40/2015 · artículo 32.1 · Anulación y responsabilidad",
-    "explicacion": "El artículo 32.1 LRJSP aclara que la anulación no presupone por sí misma derecho a indemnización: deben probarse los demás presupuestos de la responsabilidad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «no presupone por sí sola el derecho a ser indemnizado». El distractor «presupone siempre el derecho a ser indemnizado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 32.1 LRJSP aclara que la anulación no presupone por sí misma derecho a indemnización: deben probarse los demás presupuestos de la responsabilidad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «no presupone por sí sola el derecho a ser indemnizado»."
   },
   {
     "id": "burgos-ii06-deep-02",
@@ -374,7 +374,7 @@
     ],
     "correcta": 3,
     "referencia": "Ley 40/2015 · artículos 32.1 y 32.2 · Presupuestos",
-    "explicacion": "El daño debe ser efectivo, evaluable económicamente e individualizado; puede proceder tanto del funcionamiento normal como del anormal. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Que derive necesariamente de funcionamiento anormal». El distractor «Que sea efectivo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El daño debe ser efectivo, evaluable económicamente e individualizado; puede proceder tanto del funcionamiento normal como del anormal. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «Que derive necesariamente de funcionamiento anormal»."
   },
   {
     "id": "burgos-ii06-deep-03",
@@ -388,7 +388,7 @@
     ],
     "correcta": 0,
     "referencia": "Ley 40/2015 · artículo 33.1 · Responsabilidad concurrente",
-    "explicacion": "El artículo 33.1 LRJSP establece solidaridad frente al particular en las fórmulas conjuntas de actuación, aunque el instrumento pueda distribuir internamente la responsabilidad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «responsabilidad solidaria, sin perjuicio de la distribución interna que pueda establecer el instrumento regulador». El distractor «responsabilidad exclusiva de la Administración con menor financiación» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 33.1 LRJSP establece solidaridad frente al particular en las fórmulas conjuntas de actuación, aunque el instrumento pueda distribuir internamente la responsabilidad. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «responsabilidad solidaria, sin perjuicio de la distribución interna que pueda establecer el instrumento regulador»."
   },
   {
     "id": "burgos-ii06-deep-04",
@@ -402,7 +402,7 @@
     ],
     "correcta": 1,
     "referencia": "Ley 39/2015 · artículo 67 · Plazo de reclamación",
-    "explicacion": "El artículo 67 LPAC sitúa el inicio del plazo de un año en la curación o en la determinación del alcance de las secuelas. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la curación o la determinación del alcance de las secuelas». El distractor «la fecha de la primera consulta médica, aunque…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 67 LPAC sitúa el inicio del plazo de un año en la curación o en la determinación del alcance de las secuelas. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la curación o la determinación del alcance de las secuelas»."
   },
   {
     "id": "burgos-ii06-deep-05",
@@ -410,13 +410,13 @@
     "pregunta": "El informe del servicio cuyo funcionamiento haya ocasionado la presunta lesión indemnizable es:",
     "opciones": [
       "facultativo y puede emitirse sin límite temporal",
-      "preceptivo y debe emitirse en un plazo que no exceda de diez días",
       "sustituido siempre por el dictamen del Consejo de Estado",
+      "preceptivo y debe emitirse en un plazo que no exceda de diez días",
       "exigible únicamente si la reclamación supera 50.000 euros"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Ley 39/2015 · artículo 81.1 · Informe del servicio",
-    "explicacion": "El artículo 81.1 LPAC exige solicitar ese informe y limita a diez días el plazo de emisión. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «preceptivo y debe emitirse en un plazo que no exceda de diez días». El distractor «facultativo y puede emitirse sin límite temporal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 81.1 LPAC exige solicitar ese informe y limita a diez días el plazo de emisión. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «preceptivo y debe emitirse en un plazo que no exceda de diez días»."
   },
   {
     "id": "burgos-ii06-deep-06",
@@ -430,21 +430,21 @@
     ],
     "correcta": 0,
     "referencia": "Ley 39/2015 · artículo 81.2 · Dictamen",
-    "explicacion": "El artículo 81.2 LPAC conecta el dictamen con la causalidad, la valoración del daño y la cuantía y modo de indemnización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la relación de causalidad y, en su caso, la valoración, cuantía y modo de indemnización». El distractor «la culpabilidad penal del empleado público en todo…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 81.2 LPAC conecta el dictamen con la causalidad, la valoración del daño y la cuantía y modo de indemnización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la relación de causalidad y, en su caso, la valoración, cuantía y modo de indemnización»."
   },
   {
     "id": "burgos-ii06-deep-07",
     "tema": 15,
     "pregunta": "La resolución de un procedimiento de responsabilidad patrimonial debe pronunciarse necesariamente sobre:",
     "opciones": [
-      "la relación de causalidad y, si procede, la valoración, cuantía y modo de indemnización",
       "la imposición de una sanción al reclamante",
+      "la relación de causalidad y, si procede, la valoración, cuantía y modo de indemnización",
       "la responsabilidad disciplinaria de todo empleado del servicio",
       "la modificación de la relación de puestos de trabajo"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Ley 39/2015 · artículo 91.2 · Contenido de la resolución",
-    "explicacion": "El artículo 91.2 LPAC exige resolver sobre la causalidad y, cuando proceda, sobre valoración, cuantía y modo de indemnización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la relación de causalidad y, si procede, la valoración, cuantía y modo de indemnización». El distractor «la imposición de una sanción al reclamante» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 91.2 LPAC exige resolver sobre la causalidad y, cuando proceda, sobre valoración, cuantía y modo de indemnización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «la relación de causalidad y, si procede, la valoración, cuantía y modo de indemnización»."
   },
   {
     "id": "burgos-ii06-deep-08",
@@ -452,27 +452,27 @@
     "pregunta": "Si transcurren seis meses sin resolución expresa ni acuerdo formalizado en responsabilidad patrimonial, el interesado puede entender que la resolución es:",
     "opciones": [
       "estimatoria por silencio",
-      "desestimatoria de la indemnización",
       "nula de pleno derecho automáticamente",
+      "desestimatoria de la indemnización",
       "una sanción firme"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Ley 39/2015 · artículo 91.3 · Silencio",
-    "explicacion": "El artículo 91.3 LPAC establece que, transcurridos seis meses, puede entenderse que la resolución es contraria a la indemnización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «desestimatoria de la indemnización». El distractor «estimatoria por silencio» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 91.3 LPAC establece que, transcurridos seis meses, puede entenderse que la resolución es contraria a la indemnización. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «desestimatoria de la indemnización»."
   },
   {
     "id": "burgos-ii06-deep-09",
     "tema": 15,
     "pregunta": "En el ámbito local, la competencia para resolver los procedimientos de responsabilidad patrimonial corresponde:",
     "opciones": [
-      "al órgano que determinen las normas de la entidad local",
       "siempre al Consejo de Ministros",
       "siempre al Consejo de Estado",
-      "al Tribunal de Cuentas"
+      "al Tribunal de Cuentas",
+      "al órgano que determinen las normas de la entidad local"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Ley 39/2015 · artículo 92 · Competencia local",
-    "explicacion": "El artículo 92 LPAC remite, para el ámbito local, a los órganos correspondientes de las entidades que integran la Administración Local. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «al órgano que determinen las normas de la entidad local». El distractor «siempre al Consejo de Ministros» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 92 LPAC remite, para el ámbito local, a los órganos correspondientes de las entidades que integran la Administración Local. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «al órgano que determinen las normas de la entidad local»."
   },
   {
     "id": "burgos-ii06-deep-10",
@@ -486,6 +486,6 @@
     ],
     "correcta": 0,
     "referencia": "Ley 40/2015 · artículo 36.2 · Autoridades y personal",
-    "explicacion": "El artículo 36.2 LRJSP exige dolo, culpa o negligencia graves y la previa instrucción del procedimiento correspondiente. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «dolo, culpa o negligencia graves». El distractor «cualquier resultado dañoso, aunque sea inevitable» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 36.2 LRJSP exige dolo, culpa o negligencia graves y la previa instrucción del procedimiento correspondiente. La norma aplicable —los artículos 32–37 de la Ley 40/2015 y 67, 81 y 91 de la Ley 39/2015— establece «dolo, culpa o negligencia graves»."
   }
 ]

@@ -87,11 +87,11 @@
     "pregunta": "En materia de acto administrativo, los actos favorables o ampliatorios:",
     "opciones": [
       "restringen la esfera jurídica del destinatario",
-      "amplían la esfera jurídica del destinatario",
       "nunca son recurribles",
+      "amplían la esfera jurídica del destinatario",
       "solo pueden ser verbales"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.2 · 2.1 Por sus efectos sobre los destinatarios",
     "explicacion": "El tema los identifica con licencias, subvenciones o autorizaciones. Una licencia o una autorización suele ser favorable porque amplía las posibilidades jurídicas del destinatario; eso no implica que nunca pueda recurrirse ni que deba expresarse verbalmente. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -101,11 +101,11 @@
     "pregunta": "¿Qué carácter tiene el acto administrativo cuando la norma atribuye un margen de apreciación a la Administración?",
     "opciones": [
       "Reglado",
-      "Discrecional",
       "Nulo",
-      "Tácito"
+      "Tácito",
+      "Discrecional"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.2 · 2.3 Por su relación con el ordenamiento",
     "explicacion": "El tema distingue actos reglados y discrecionales. La discrecionalidad aparece cuando la norma permite elegir entre varias soluciones legales; no elimina límites ni convierte el acto en nulo o tácito por ese solo hecho. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -115,13 +115,13 @@
     "pregunta": "En materia de acto administrativo, los actos de trámite cualificados son recurribles cuando:",
     "opciones": [
       "afectan solo a un funcionario",
-      "deciden el fondo o producen indefensión o perjuicio irreparable",
+      "Deciden directa o indirectamente el fondo, impiden continuar, producen indefensión o causan perjuicio irreparable.",
       "siempre ponen fin al procedimiento",
       "no pueden impugnarse nunca"
     ],
     "correcta": 1,
     "referencia": "II.2 · 2.4 Por su posición en el procedimiento",
-    "explicacion": "El tema enumera esos supuestos para la impugnación autónoma. Son recurribles autónomamente si deciden directa o indirectamente el fondo, impiden continuar, causan indefensión o perjuicio irreparable, según el artículo 112.1 LPAC; no todo trámite lo es. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
+    "explicacion": "El artículo 112.1 LPAC permite impugnar autónomamente los actos de trámite que deciden directa o indirectamente el fondo, impiden continuar el procedimiento o producen indefensión o perjuicio irreparable a derechos o intereses legítimos. No todos los trámites son recurribles de forma separada."
   },
   {
     "id": "t16-p006",
@@ -129,11 +129,11 @@
     "pregunta": "En materia de acto administrativo, ¿qué requisito subjetivo se exige para la validez del acto en cuanto a competencia?",
     "opciones": [
       "Qué lo dicte cualquier funcionario",
-      "Qué lo dicte el órgano competente y con investidura regular del titular",
       "Qué lo apruebe el Tribunal Constitucional",
+      "Qué lo dicte el órgano competente y con investidura regular del titular",
       "Qué lo firme el interesado"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.2 · 3.1 Elementos subjetivos",
     "explicacion": "El tema menciona competencia e investidura regular del titular. La competencia debe corresponder al órgano que actúa y la persona titular debe ocupar válidamente el puesto; la firma de un particular o un funcionario cualquiera no suple ambos requisitos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -143,11 +143,11 @@
     "pregunta": "En materia de acto administrativo, los actos administrativos se producirán por escrito salvo que:",
     "opciones": [
       "la Administración lo decida libremente",
-      "su naturaleza exija o permita otra forma más adecuada",
       "se trate siempre de actos sancionadores",
-      "lo pida cualquier tercero"
+      "lo pida cualquier tercero",
+      "su naturaleza exija o permita otra forma más adecuada"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.2 · 3.3 Elementos formales",
     "explicacion": "El tema recoge literalmente la regla general y la excepción. El artículo 36.1 LPAC permite otra forma si la naturaleza del acto lo exige o permite; la excepción no depende de la voluntad libre ni de que cualquier tercero la solicite."
   },
@@ -156,28 +156,28 @@
     "tema": 11,
     "pregunta": "En materia de acto administrativo, ¿qué actos requieren motivación obligatoria?",
     "opciones": [
-      "Los actos favorables que no afecten a terceros",
       "Los actos que limiten derechos subjetivos o intereses legítimos, así como los demás supuestos previstos legalmente",
+      "Los actos favorables que no afecten a terceros",
       "Exclusivamente los actos de trámite no cualificados",
       "Solo las disposiciones administrativas de carácter general"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "Ley 39/2015 · art. 35",
     "explicacion": "La LPACAP exige motivar, entre otros, los actos que limiten derechos subjetivos o intereses legítimos. El artículo 35 LPAC exige motivar actos limitativos y otros supuestos enumerados; una licencia favorable no requiere siempre motivación por esa sola condición, y las disposiciones generales tienen su propio régimen."
   },
   {
     "id": "t16-p009",
     "tema": 11,
-    "pregunta": "En materia de acto administrativo, los actos sujetos al Derecho Administrativo son:",
+    "pregunta": "Como regla general, los actos de las Administraciones sujetos al Derecho Administrativo son:",
     "opciones": [
       "irrevocables siempre",
-      "inmediatamente ejecutivos",
+      "Ejecutivos, salvo las excepciones previstas por la ley.",
       "ineficaces hasta sentencia",
       "solo ejecutivos tras notificación personal"
     ],
     "correcta": 1,
     "referencia": "II.2 · 4.1 El principio de ejecutividad",
-    "explicacion": "El tema recoge el principio de ejecutividad del art. 38 LPACAP. La ejecutividad es la regla general del artículo 38 LPAC, con excepciones legales como suspensión o actos que requieren aprobación; no significa que el acto sea irrevocable ni que nunca deba notificarse."
+    "explicacion": "El artículo 38 LPAC establece la ejecutividad como regla general para los actos sujetos al Derecho Administrativo, sin perjuicio de las excepciones del artículo 98 y de la suspensión que pueda acordarse conforme a la ley. No significa irrevocabilidad ni elimina la necesidad de notificar cuando proceda."
   },
   {
     "id": "t16-p010",
@@ -185,11 +185,11 @@
     "pregunta": "Según el art. 40.2 LPACAP, ¿qué plazo hay para cursar la notificación de un acto desde que ha sido dictado?",
     "opciones": [
       "5 días",
-      "10 días",
       "15 días",
+      "10 días",
       "30 días"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.2 · 4.2 La notificación",
     "explicacion": "El tema fija 10 días. El plazo se refiere a cursar la notificación, cuyo contenido y práctica se regulan separadamente; no equivale al plazo de cinco, quince o treinta días para otros trámites. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -212,12 +212,12 @@
     "tema": 11,
     "pregunta": "En materia de acto administrativo, la anulabilidad se produce cuando:",
     "opciones": [
-      "el acto infringe cualquier norma que no constituya causa de nulidad",
       "el acto es favorable",
       "el acto está publicado en el BOE",
-      "el acto carece de motivación pero nunca causa indefensión"
+      "el acto carece de motivación pero nunca causa indefensión",
+      "el acto infringe cualquier norma que no constituya causa de nulidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.2 · 5.2 Anulabilidad (art. 48 LPACAP)",
     "explicacion": "El tema define la anulabilidad como infracción del ordenamiento no constitutiva de nulidad. El artículo 48.1 LPAC convierte en anulable cualquier infracción que no alcance una causa tasada de nulidad; los actos favorables no quedan exentos de control por beneficiar al interesado."
   },
@@ -240,12 +240,12 @@
     "tema": 11,
     "pregunta": "Según el art. 39.1 de la Ley 39/2015, de 1 de octubre, los actos de las Administraciones Públicas sujetos al Derecho Administrativo se presumiran válidos y produciran efectos:",
     "opciones": [
-      "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
       "Solo desde su publicación en el diario oficial correspondiente",
+      "Desde la fecha en que se dicten, salvo que en ellos se disponga otra cosa",
       "Exclusivamente desde su notificación personal al interesado",
       "Unicamente tras su convalidación expresa"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.2 · 4. Eficacia de los actos administrativos",
     "explicacion": "El tema recoge la regla general de eficacia desde la fecha del acto, salvo que el propio acto disponga otra cosa. La regla de eficacia desde la fecha del acto admite excepciones legales, incluida la notificación cuando sea requisito de eficacia; no exige publicación universal ni aceptación del destinatario."
   },
@@ -254,12 +254,12 @@
     "tema": 11,
     "pregunta": "Según el art. 35 LPACAP, señale cuál de los siguientes actos debe ser motivado:",
     "opciones": [
-      "Los actos que limiten derechos subjetivos o intereses legitimos",
       "Todos los actos favorables al interesado",
       "Las comunicaciones internas sin efectos jurídicos",
+      "Los actos que limiten derechos subjetivos o intereses legitimos",
       "Las actuaciones materiales de ejecución sin contenido decisorio"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.2 · 3.3 Elementos formales",
     "explicacion": "Los actos limitativos de derechos o intereses legitimos forman parte de los supuestos de motivación obligatoria. El artículo 35.1.a LPAC incluye los actos que limiten derechos subjetivos o intereses legítimos; no exige motivar todo acto favorable, pero sí los restantes supuestos que enumera el precepto."
   },
@@ -269,11 +269,11 @@
     "pregunta": "Según el art. 44 LPACAP, cuando los interesados en un procedimiento sean desconocidos, se ignore el lugar de la notificación o, intentada esta, no se hubiese podido practicar, la notificación se hará:",
     "opciones": [
       "Exclusivamente por correo certificado con acuse de recibo",
-      "Mediante anuncio publicado en el Boletín Oficial del Estado",
       "Siempre en el tablon de edictos del ayuntamiento del último domicilio",
-      "Unicamente por comparecencia en la sede electrónica"
+      "Unicamente por comparecencia en la sede electrónica",
+      "Mediante anuncio publicado en el Boletín Oficial del Estado"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.2 · 5.2 La notificación por anuncio",
     "explicacion": "La LPACAP impone en estos supuestos la publicación del anuncio en el BOE. El artículo 44 LPAC remite a anuncio en el Boletín Oficial del Estado cuando la notificación resulte infructuosa; el tablón municipal no sustituye ese medio general de publicación edictal."
   },
@@ -310,12 +310,12 @@
     "tema": 11,
     "pregunta": "En materia de acto administrativo, toda notificación debe contener:",
     "opciones": [
-      "el texto íntegro y los recursos que procedan",
       "solo el nombre del alcalde",
+      "el texto íntegro y los recursos que procedan",
       "únicamente la fecha de emisión",
       "solo la firma del notificante"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.2 · 5.2.3 Contenido de la notificación",
     "explicacion": "El tema exige texto íntegro, recursos y plazos. El artículo 40.2 LPAC exige texto íntegro, indicación de si pone fin a la vía administrativa y recursos, órgano y plazo; no requiere que el destinatario acepte la resolución. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -324,12 +324,12 @@
     "tema": 11,
     "pregunta": "Si transcurren 10 días naturales sin acceder a una notificación electrónica, esta se entiende:",
     "opciones": [
-      "rechazada",
       "estimada",
       "suspendida",
+      "rechazada",
       "caducada sin efectos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.2 · 5.2.4 Medios de notificación",
     "explicacion": "El tema fija el rechazo por inactividad. El artículo 43.2 LPAC considera rechazada la notificación electrónica tras diez días naturales sin acceso, salvo imposibilidad técnica o material acreditada; el aviso por correo no sustituye la puesta a disposición. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -417,12 +417,12 @@
     "tema": 11,
     "pregunta": "Como regla general, los actos administrativos sujetos al Derecho Administrativo producen efectos:",
     "opciones": [
-      "Desde la fecha en que se dictan, salvo que se disponga otra cosa.",
       "Solo desde que se publican en el BOE.",
       "Solo después de una sentencia judicial.",
+      "Desde la fecha en que se dictan, salvo que se disponga otra cosa.",
       "Desde que el interesado los acepta expresamente."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión",
     "explicacion": "El artículo 39.1 LPAC establece la presunción de validez y la eficacia desde la fecha del acto, con las excepciones legales. El acto se presume válido y produce efectos desde la fecha en que se dicta, salvo previsión distinta, según el artículo 39.1; publicación o aceptación no son requisitos universales."
   },
@@ -432,11 +432,11 @@
     "pregunta": "La eficacia retroactiva de un acto favorable exige, entre otros requisitos, que:",
     "opciones": [
       "El interesado renuncie a cualquier recurso.",
-      "Los hechos necesarios ya existieran en la fecha a la que se retrotrae y no se lesionen derechos de terceros.",
       "El acto sea siempre sancionador.",
-      "La retroactividad se acuerde verbalmente."
+      "La retroactividad se acuerde verbalmente.",
+      "Los hechos necesarios ya existieran en la fecha a la que se retrotrae y no se lesionen derechos de terceros."
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.2 · 6. Eficacia, ejecutividad y suspensión",
     "explicacion": "El artículo 39.3 LPAC admite excepcionalmente la retroactividad favorable bajo esas condiciones. El artículo 39.3 LPAC permite retroactividad favorable excepcional si los presupuestos de hecho ya existían y no se dañan derechos de terceros; no basta con acordarla verbalmente. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -473,12 +473,12 @@
     "tema": 11,
     "pregunta": "¿Qué vicio constituye, con carácter general, una causa de anulabilidad?",
     "opciones": [
-      "La desviación de poder.",
       "El contenido imposible.",
+      "La desviación de poder.",
       "La lesión de un derecho susceptible de amparo constitucional.",
       "La incompetencia manifiesta por razón del territorio."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.2 · 8. Validez",
     "explicacion": "La desviación de poder está incluida expresamente en el artículo 48 LPAC; las otras opciones son causas de nulidad del artículo 47. El artículo 48.1 LPAC tipifica desviación de poder como anulabilidad; contenido imposible, lesión de derechos amparables e incompetencia manifiesta son causas de nulidad del artículo 47."
   },
@@ -488,11 +488,11 @@
     "pregunta": "Un defecto de forma solo determina la anulabilidad cuando:",
     "opciones": [
       "Existe cualquier error tipográfico.",
-      "El acto carece de los requisitos formales indispensables para alcanzar su fin o produce indefensión.",
       "El acto es desfavorable.",
+      "El acto carece de los requisitos formales indispensables para alcanzar su fin o produce indefensión.",
       "El interesado no está de acuerdo con la resolución."
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.2 · 8.2. Anulabilidad",
     "explicacion": "El artículo 48.2 LPAC limita la invalidez por forma a los defectos esenciales o causantes de indefensión. El defecto formal solo invalida si faltan requisitos indispensables para el fin o causa indefensión, conforme al artículo 48.2; un error inocuo no basta para anular."
   },
@@ -529,12 +529,12 @@
     "tema": 11,
     "pregunta": "La convalidación administrativa permite:",
     "opciones": [
-      "Subsanar un acto anulable, pero no un acto nulo de pleno derecho.",
       "Convertir cualquier reglamento ilegal en ley.",
       "Corregir en cualquier momento una interpretación jurídica errónea como si fuera un error material.",
+      "Subsanar un acto anulable, pero no un acto nulo de pleno derecho.",
       "Suspender automáticamente la ejecución de todo acto recurrido."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.2 · 8.3. Técnicas de conservación de la actuación",
     "explicacion": "La convalidación subsana vicios de anulabilidad; no sana las causas de nulidad de pleno derecho. La convalidación subsana vicios de anulabilidad conforme al artículo 52 LPAC; no permite sanar un acto nulo de pleno derecho ni reemplaza la revisión de oficio."
   }

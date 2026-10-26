@@ -173,6 +173,8 @@ Tras la reforma del Real Decreto-ley 9/2025, la suspensión o prestación por na
 
 La prestación económica se calcula, con carácter general, sobre el **100 % de la base reguladora** correspondiente. La duración, la distribución y las situaciones especiales deben estudiarse con la redacción vigente: no debe conservarse como respuesta general la cifra antigua de 16 semanas.
 
+La prestación contributiva exige también una carencia que depende de la edad en la fecha del hecho causante (art. 178.1 TRLGSS): menos de **21 años**, sin período mínimo; de **21 a 25**, 90 días cotizados en los siete años anteriores o 180 días a lo largo de la vida laboral; desde los **26 años**, 180 días en los siete años anteriores o 360 días en toda la vida laboral. No debe convertirse el requisito del grupo de 26 años o más en una regla para todas las edades.
+
 ### 6.5 Incapacidad permanente
 
 En términos didácticos, los grados se diferencian así:

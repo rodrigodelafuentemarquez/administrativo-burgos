@@ -200,7 +200,7 @@ Los créditos incorporados solo pueden aplicarse durante el ejercicio de la inco
 
 ## 7. “Anticipos de Tesorería”: precisión imprescindible
 
-El título oficial utiliza esta expresión, pero en el régimen local conviene separar tres figuras que suelen mezclarse:
+El título oficial utiliza esta expresión y puede abarcar reglas de ámbitos distintos. El **artículo 60 de la Ley General Presupuestaria** regula anticipos de Tesorería estatales, concedidos excepcionalmente por el Gobierno para gastos inaplazables en supuestos tasados y con límite del 1 % de los créditos estatales. No es una regla del presupuesto local. Para el Ayuntamiento hay que separar las figuras siguientes:
 
 | Figura | Para qué sirve | Naturaleza |
 | --- | --- | --- |
@@ -208,7 +208,7 @@ El título oficial utiliza esta expresión, pero en el régimen local conviene s
 | Anticipo de caja fija | Atender gastos corrientes periódicos o repetitivos, como dietas, locomoción o material no inventariable, con provisión no presupuestaria y posterior aplicación al presupuesto. | Instrumento de pago y tesorería; se regula en bases, con informe de Intervención, límites, reposición, control y justificación. |
 | Pago a justificar | Entrega de fondos cuando no puede aportarse la justificación en el momento de expedir la orden. | Provisión excepcional, sujeta a justificación; no es una modificación presupuestaria. |
 
-**Error típico:** un anticipo de caja fija no habilita crédito nuevo y una operación de tesorería **<mark>no crea crédito presupuestario</mark>** ni sustituye a un crédito extraordinario o suplemento. Si falta crédito para un gasto, debe tramitarse la modificación que corresponda.
+**Error típico:** un anticipo de caja fija no habilita crédito nuevo y una operación de tesorería **<mark>no crea crédito presupuestario</mark>** ni sustituye a un crédito extraordinario o suplemento. Si falta crédito para un gasto, debe tramitarse la modificación que corresponda. Tampoco debe trasladarse al Ayuntamiento el anticipo excepcional del artículo 60 LGP, que pertenece al presupuesto estatal.
 
 ## 8. Aprobación del presupuesto y esquema del ciclo
 

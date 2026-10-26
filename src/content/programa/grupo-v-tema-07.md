@@ -65,6 +65,7 @@ No deben confundirse estos instrumentos:
 | Instrumento | Función y garantía principal |
 | --- | --- |
 | **Portal de internet** | Punto de acceso electrónico a información y, en su caso, a una sede. No es por sí solo el lugar de tramitación autenticada. |
+| **Punto de Acceso General electrónico (PAGe)** | Punto de entrada que permite acceder a servicios, trámites e información de los órganos y entidades de una Administración; cada Administración debe disponer de uno (RD 203/2021, art. 7). |
 | **Sede electrónica** | Dirección electrónica cuya titularidad, gestión y administración corresponden a una Administración, organismo o entidad de Derecho público. La Administración responde de su integridad, veracidad y actualización. |
 | **Registro electrónico** | Recibe solicitudes, escritos y comunicaciones y deja constancia del asiento. Debe entregar recibo con fecha, hora, número de registro y documentos presentados. |
 | **Carpeta ciudadana** | Permite consultar, según el sistema, expedientes, notificaciones, registros y otros datos de la persona en los servicios disponibles. |
@@ -110,7 +111,7 @@ El archivo electrónico único no es simplemente una carpeta de almacenamiento. 
 
 ## 8. Notificaciones electrónicas
 
-Las notificaciones se practican preferentemente por medios electrónicos y, en los casos legalmente previstos, son obligatorias. Pueden realizarse mediante comparecencia en la sede electrónica de la Administración u organismo actuante, a través de la Dirección Electrónica Habilitada única (DEHú) cuando proceda, o mediante ambos sistemas.
+Las notificaciones se practican preferentemente por medios electrónicos y, en los casos legalmente previstos, son obligatorias. Pueden realizarse mediante comparecencia en la sede electrónica de la Administración u organismo actuante, a través de la Dirección Electrónica Habilitada única (DEHú) cuando proceda, o mediante ambos sistemas. La DEHú, gestionada en el ámbito estatal, permite a las personas acceder a notificaciones electrónicas de distintas Administraciones que estén integradas; no convierte la notificación en una comunicación de correo ordinario.
 
 La notificación se entiende practicada cuando se accede a su contenido. Si la notificación electrónica obligatoria o elegida se pone a disposición y no se accede en **diez días naturales**, se entiende rechazada, salvo imposibilidad técnica o material. El rechazo no equivale a que desaparezca el acto: deja constancia y permite continuar el procedimiento conforme a la ley.
 

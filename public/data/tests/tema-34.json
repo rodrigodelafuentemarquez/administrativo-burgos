@@ -31,7 +31,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Función de orientación e información». La alternativa «Función de recepción y acogida a los ciudadanos» no satisface ese criterio; aquí se aplica «Función de orientación e información». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La orientación e información aclara y explica en la práctica trámites, requisitos y documentos; la recepción y acogida se centra en atender y encauzar a la persona."
   },
   {
     "id": "pdf-2025-burgos-q43",
@@ -49,35 +49,35 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La respuesta correcta es «Se eliminarán las oficinas públicas dispositivos y servicios…». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «Elaborarán una guía de buenas prácticas» no satisface ese criterio; aquí se aplica «Se eliminarán las oficinas públicas dispositivos y servicios…»."
+    "explicacion": "La respuesta correcta es «Se eliminarán las oficinas públicas dispositivos y servicios…». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "t35-p001",
     "tema": 34,
     "pregunta": "El art. 13 LPACAP reconoce el derecho de las personas a:",
     "opciones": [
-      "comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico",
       "aplicar sanciones a los funcionarios",
       "aprobar presupuestos",
+      "comunicarse con las Administraciones Públicas a través de un Punto de Acceso General electrónico",
       "dictar reglamentos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.3 · 1.2 El catálogo general de derechos (art. 13 LPACAP)",
-    "explicacion": "La respuesta correcta es «comunicarse con las Administraciones Públicas a través de…». La alternativa «aplicar sanciones a los funcionarios» no satisface ese criterio; aquí se aplica «comunicarse con las Administraciones Públicas a través de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 13 LPAC reconoce el derecho a comunicarse con las Administraciones mediante un Punto de Acceso General electrónico."
   },
   {
     "id": "t35-p002",
     "tema": 34,
     "pregunta": "Según el art. 13 LPACAP, los ciudadanos tienen derecho a ser asistidos en el uso de medios electrónicos porque:",
     "opciones": [
-      "nadie quede excluido por carecer de medios o conocimientos suficientes",
       "solo los funcionarios pueden usar internet",
       "los ciudadanos no pueden actuar por sí mismos",
-      "la administración electrónica es obligatoria sin apoyo"
+      "la administración electrónica es obligatoria sin apoyo",
+      "nadie quede excluido por carecer de medios o conocimientos suficientes"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.3 · 1.2 El catálogo general de derechos (art. 13 LPACAP)",
-    "explicacion": "La respuesta correcta es «nadie quede excluido por carecer de medios o…». La alternativa «los ciudadanos no pueden actuar por sí mismos» no satisface ese criterio; aquí se aplica «nadie quede excluido por carecer de medios o…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 12 obliga a las Administraciones a prestar asistencia para que las personas puedan usar los medios electrónicos."
   },
   {
     "id": "t35-p003",
@@ -91,49 +91,49 @@
     ],
     "correcta": 0,
     "referencia": "V.3 · 1.3 Derechos específicos en el procedimiento administrativo (art. 53 LPACAP)",
-    "explicacion": "La respuesta correcta es «el estado de tramitación de los procedimientos en…». La alternativa «las conversaciones internas de otros procedimientos» no satisface ese criterio; aquí se aplica «el estado de tramitación de los procedimientos en…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 53 permite al interesado conocer el estado, los órganos responsables, los actos de trámite y el sentido del silencio."
   },
   {
     "id": "t35-p004",
     "tema": 34,
     "pregunta": "Según el art. 53 LPACAP, los interesados pueden no presentar documentos que:",
     "opciones": [
-      "Ya obren en poder de las Administraciones Públicas o hayan sido elaborados por cualquiera de ellas",
       "Estén redactados en soporte papel y no en formato electrónico",
+      "Ya obren en poder de las Administraciones Públicas o hayan sido elaborados por cualquiera de ellas",
       "Contengan firma manuscrita en vez de firma electrónica",
       "Resulten extensos o de difícil digitalización"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Ley 39/2015 · art. 53.1.d)",
-    "explicacion": "El artículo 28 de la Ley 39/2015 exime al interesado de aportar documentos ya elaborados por una Administración o que ya obren en poder de una Administración, con las excepciones legales. La alternativa «Estén redactados en soporte papel y no en…» no satisface ese criterio; aquí se aplica «Ya obren en poder de las Administraciones Públicas…»."
+    "explicacion": "El artículo 28 de la Ley 39/2015 exime al interesado de aportar documentos ya elaborados por una Administración o que ya obren en poder de una Administración, con las excepciones legales."
   },
   {
     "id": "t35-p005",
     "tema": 34,
     "pregunta": "A efectos del procedimiento administrativo, tiene la condición de interesado:",
     "opciones": [
-      "la persona física o jurídica que ostenta una posición jurídica reconocida en el procedimiento administrativo",
       "solo quien presenta una demanda judicial",
       "únicamente el funcionario tramitador",
+      "la persona física o jurídica que ostenta una posición jurídica reconocida en el procedimiento administrativo",
       "todo ciudadano con DNI"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.3 · 2.1 Concepto de interesado",
-    "explicacion": "La respuesta correcta es «la persona física o jurídica que ostenta una…». La alternativa «solo quien presenta una demanda judicial» no satisface ese criterio; aquí se aplica «la persona física o jurídica que ostenta una…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Es interesado quien promueve el procedimiento, quien puede ver afectados sus derechos o intereses legítimos o quien se persona con interés legítimo."
   },
   {
     "id": "t35-p006",
     "tema": 34,
     "pregunta": "La representación ante la Administración puede acreditarse mediante:",
     "opciones": [
-      "apoderamiento apud acta, escritura pública o documento privado con firma legitimada",
       "solo mediante notario y testigos en todo caso",
       "únicamente por SMS",
-      "solo mediante comparecencia judicial"
+      "solo mediante comparecencia judicial",
+      "apoderamiento apud acta, escritura pública o documento privado con firma legitimada"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.3 · 2.4 La representación",
-    "explicacion": "La respuesta correcta es «apoderamiento apud acta escritura pública o documento privado…». La alternativa «solo mediante notario y testigos en todo caso» no satisface ese criterio; aquí se aplica «apoderamiento apud acta escritura pública o documento privado…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La representación puede acreditarse por cualquier medio válido que deje constancia fidedigna, incluidos apoderamiento apud acta y registro electrónico de apoderamientos."
   },
   {
     "id": "t35-p007",
@@ -147,49 +147,49 @@
     ],
     "correcta": 0,
     "referencia": "V.3 · 2.4 La representación",
-    "explicacion": "La respuesta correcta es «10 días hábiles». El artículo 5.6 de la Ley 39/2015 permite subsanar la falta o insuficiencia de acreditación de la representación en diez días, o en un plazo superior si las circunstancias lo requieren. La alternativa «5 días naturales» no satisface ese criterio; aquí se aplica «10 días hábiles»."
+    "explicacion": "La respuesta correcta es «10 días hábiles». El artículo 5.6 de la Ley 39/2015 permite subsanar la falta o insuficiencia de acreditación de la representación en diez días, o en un plazo superior si las circunstancias lo requieren."
   },
   {
     "id": "t35-p008",
     "tema": 34,
     "pregunta": "Según el art. 82 LPACAP, el trámite de audiencia permite a los interesados:",
     "opciones": [
-      "pronunciarse sobre el contenido del expediente antes de la resolución",
       "aprobar el presupuesto",
+      "pronunciarse sobre el contenido del expediente antes de la resolución",
       "nombrar al órgano instructor",
       "convertir el expediente en edicto"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.3 · 3.2 La audiencia de los interesados (art. 82 LPACAP)",
-    "explicacion": "La respuesta correcta es «pronunciarse sobre el contenido del expediente antes de…». La alternativa «convertir el expediente en edicto» no satisface ese criterio; aquí se aplica «pronunciarse sobre el contenido del expediente antes de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La audiencia permite examinar el expediente y formular alegaciones o aportar documentos antes de la propuesta o resolución, salvo excepción legal."
   },
   {
     "id": "t35-p009",
     "tema": 34,
     "pregunta": "Según el art. 82 LPACAP, el plazo mínimo del trámite de audiencia es de:",
     "opciones": [
-      "10 días hábiles",
       "3 días hábiles",
       "1 mes",
+      "10 días hábiles",
       "48 horas"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.3 · 3.2 La audiencia de los interesados (art. 82 LPACAP)",
-    "explicacion": "La respuesta correcta es «10 días hábiles». La alternativa «3 días hábiles» no satisface ese criterio; aquí se aplica «10 días hábiles». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 82 fija un plazo de audiencia de entre diez y quince días; al expresarse en días, se computa como hábil salvo regla especial."
   },
   {
     "id": "t35-p010",
     "tema": 34,
     "pregunta": "Según el art. 83 LPACAP, el trámite de información pública permite alegar a:",
     "opciones": [
-      "cualquier ciudadano, no solo a los interesados directos",
       "solo al representante legal",
       "únicamente a los funcionarios del órgano",
-      "solo al presidente de la corporación"
+      "solo al presidente de la corporación",
+      "cualquier ciudadano, no solo a los interesados directos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.3 · 3.3 La información pública (art. 83 LPACAP)",
-    "explicacion": "La respuesta correcta es «cualquier ciudadano, no solo a los interesados directos». La alternativa «solo al representante legal» no satisface ese criterio; aquí se aplica «cualquier ciudadano, no solo a los interesados directos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La información pública permite formular observaciones a cualquier persona, aunque no tenga condición de interesada en el procedimiento."
   },
   {
     "id": "t35-p011",
@@ -203,49 +203,49 @@
     ],
     "correcta": 0,
     "referencia": "V.3 · 3.4 La participación en la elaboración de normas reglamentarias",
-    "explicacion": "La respuesta correcta es «la necesidad y oportunidad de la norma sus…». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «la nómina de personal» no satisface ese criterio; aquí se aplica «la necesidad y oportunidad de la norma sus…»."
+    "explicacion": "La respuesta correcta es «la necesidad y oportunidad de la norma sus…». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "t35-p012",
     "tema": 34,
     "pregunta": "En atención ciudadana y discapacidad, la iniciativa legislativa popular exige al menos:",
     "opciones": [
-      "500.000 firmas acreditadas",
       "50.000 firmas",
+      "500.000 firmas acreditadas",
       "1.000 firmas",
       "100.000 firmas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.3 · 3.5 La iniciativa legislativa popular y la petición",
-    "explicacion": "La iniciativa legislativa popular estatal exige 500.000 firmas acreditadas; el derecho de petición es una institución distinta y no comparte ese requisito. La alternativa «50.000 firmas» no satisface ese criterio; aquí se aplica «500.000 firmas acreditadas». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La iniciativa legislativa popular estatal exige 500.000 firmas acreditadas; el derecho de petición es una institución distinta y no comparte ese requisito."
   },
   {
     "id": "t35-p013",
     "tema": 34,
     "pregunta": "En atención ciudadana y discapacidad, el derecho de petición:",
     "opciones": [
-      "obliga a acusar recibo e informar del resultado, pero no garantiza resolución favorable",
       "equivale a una demanda judicial",
       "sirve para dictar reglamentos",
+      "obliga a acusar recibo e informar del resultado, pero no garantiza resolución favorable",
       "solo puede ejercerse por funcionarios"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.3 · 3.5 La iniciativa legislativa popular y la petición",
-    "explicacion": "La respuesta correcta es «obliga a acusar recibo e informar del resultado…». La Ley Orgánica 4/2001 reconoce el derecho de petición y exige contestar en tres meses desde su presentación cuando se admite a trámite. La alternativa «equivale a una demanda judicial» no satisface ese criterio; aquí se aplica «obliga a acusar recibo e informar del resultado…»."
+    "explicacion": "La respuesta correcta es «obliga a acusar recibo e informar del resultado…». La Ley Orgánica 4/2001 reconoce el derecho de petición y exige contestar en tres meses desde su presentación cuando se admite a trámite."
   },
   {
     "id": "t35-p014",
     "tema": 34,
     "pregunta": "En atención ciudadana y discapacidad, el art. 18 LRBRL reconoce a los vecinos el derecho a:",
     "opciones": [
-      "ser elector y elegible en las elecciones municipales",
       "nombrar al Presidente de la Diputación",
       "sustituir al Pleno",
-      "vetar el presupuesto"
+      "vetar el presupuesto",
+      "ser elector y elegible en las elecciones municipales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.3 · 4.2 Derechos de los vecinos (art. 18 LRBRL)",
-    "explicacion": "La respuesta correcta es «ser elector y elegible en las elecciones municipales». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «nombrar al Presidente de la Diputación» no satisface ese criterio; aquí se aplica «ser elector y elegible en las elecciones municipales»."
+    "explicacion": "La respuesta correcta es «ser elector y elegible en las elecciones municipales». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "t35-p015",
@@ -259,7 +259,7 @@
     ],
     "correcta": 0,
     "referencia": "V.3 · 1.2 El catálogo general de derechos (art. 13 LPACAP)",
-    "explicacion": "La respuesta correcta es «asistencia presencial y electrónica por la Administración». La alternativa «solo videoconferencia privada» no satisface ese criterio; aquí se aplica «asistencia presencial y electrónica por la Administración». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La Administración debe asistir a las personas en el uso de medios electrónicos, particularmente para identificarse, firmar y presentar escritos."
   },
   {
     "id": "t48-p011",
@@ -273,7 +273,7 @@
     ],
     "correcta": 1,
     "referencia": "V.3 · 5.1 El concepto de discapacidad",
-    "explicacion": "La respuesta correcta es «El modelo social». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «El modelo médico» no satisface ese criterio; aquí se aplica «El modelo social»."
+    "explicacion": "La respuesta correcta es «El modelo social». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "t48-p012",
@@ -281,13 +281,13 @@
     "pregunta": "A efectos de la LGDPD se considera persona con discapacidad quien tenga reconocido un grado igual o superior al:",
     "opciones": [
       "25%",
-      "33%",
       "50%",
+      "33%",
       "65%"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "V.3 · 5.2 La Ley General de derechos de las personas con discapacidad",
-    "explicacion": "La respuesta correcta es «33%». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «25%» no satisface ese criterio; aquí se aplica «33%». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La respuesta correcta es «33%». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "t48-p013",
@@ -296,12 +296,12 @@
     "opciones": [
       "El 2%",
       "El 5%",
-      "El 7%",
-      "El 10%"
+      "El 10%",
+      "El 7%"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "V.3 · 5.3 Medidas de empleo para personas con discapacidad",
-    "explicacion": "La respuesta correcta es «El 7%». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «El 2%» no satisface ese criterio; aquí se aplica «El 7%»."
+    "explicacion": "La respuesta correcta es «El 7%». La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "estado2026-extra-t34-01",
@@ -318,7 +318,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La respuesta correcta es «Cada tres años». El artículo 11 del Real Decreto 951/2005 dispone su actualización periódica y, en todo caso, al menos cada tres años. La alternativa «Cada dos años» no satisface ese criterio; aquí se aplica «Cada tres años»."
+    "explicacion": "La respuesta correcta es «Cada tres años». El artículo 11 del Real Decreto 951/2005 dispone su actualización periódica y, en todo caso, al menos cada tres años."
   },
   {
     "id": "estado2026-extra-t34-02",
@@ -349,7 +349,7 @@
     ],
     "correcta": 0,
     "referencia": "Ley 39/2015 · arts. 12 y 14",
-    "explicacion": "La Administración debe asistir especialmente a los interesados no incluidos entre los sujetos obligados de los apartados 2 y 3 del artículo 14 que lo soliciten. La alternativa «Solo los empleados públicos» no satisface ese criterio; aquí se aplica «Los interesados no obligados a relacionarse electrónicamente que…»."
+    "explicacion": "La Administración debe asistir especialmente a los interesados no incluidos entre los sujetos obligados de los apartados 2 y 3 del artículo 14 que lo soliciten."
   },
   {
     "id": "burgos-v03-deep-02",
@@ -363,7 +363,7 @@
     ],
     "correcta": 1,
     "referencia": "RD 208/1996 · arts. 2 y 3; Ley 39/2015 · art. 53",
-    "explicacion": "La información particular afecta a un expediente concreto y exige legitimación como interesado o representación acreditada; el parentesco no basta. La información general puede darse a cualquier persona; la particular identifica un expediente y requiere legitimación, representación acreditada y respeto a los datos personales. La alternativa «Cualquier familiar del interesado» no satisface ese criterio; aquí se aplica «El interesado o su representante acreditado con respeto…»."
+    "explicacion": "La información particular afecta a un expediente concreto y exige legitimación como interesado o representación acreditada; el parentesco no basta. La información general puede darse a cualquier persona; la particular identifica un expediente y requiere legitimación, representación acreditada y respeto a los datos personales."
   },
   {
     "id": "burgos-v03-deep-03",
@@ -371,13 +371,13 @@
     "pregunta": "Si una persona presenta un escrito sin acreditar suficientemente la representación, la regla general es:",
     "opciones": [
       "Rechazar verbalmente el escrito sin registrarlo",
-      "Registrar el escrito y conceder diez días para subsanar la acreditación",
       "Conceder tres meses para subsanar",
+      "Registrar el escrito y conceder diez días para subsanar la acreditación",
       "Dar por acreditada siempre la representación"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Ley 39/2015 · art. 5.6",
-    "explicacion": "La falta o insuficiente acreditación de la representación es subsanable con carácter general en diez días, sin impedir indebidamente la presentación. La alternativa «Conceder tres meses para subsanar» no satisface ese criterio; aquí se aplica «Registrar el escrito y conceder diez días para…»."
+    "explicacion": "La falta o insuficiente acreditación de la representación es subsanable con carácter general en diez días, sin impedir indebidamente la presentación."
   },
   {
     "id": "burgos-v03-deep-04",
@@ -385,13 +385,13 @@
     "pregunta": "¿Cuál es la diferencia correcta entre información general e información particular?",
     "opciones": [
       "La general se refiere a un expediente y la particular a horarios",
-      "La general puede darse a cualquier persona; la particular se refiere a un expediente concreto y exige legitimación",
       "No existe diferencia jurídica",
-      "La particular siempre es pública y la general siempre reservada"
+      "La particular siempre es pública y la general siempre reservada",
+      "La general puede darse a cualquier persona; la particular se refiere a un expediente concreto y exige legitimación"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "V.3 · servicios de información administrativa",
-    "explicacion": "La clasificación del RD 208/1996 separa la información sobre organización, trámites y servicios de la referida a la situación o contenido de un expediente concreto. La información general puede darse a cualquier persona; la particular identifica un expediente y requiere legitimación, representación acreditada y respeto a los datos personales. La alternativa «La general se refiere a un expediente y…» no satisface ese criterio; aquí se aplica «La general puede darse a cualquier persona la…»."
+    "explicacion": "La clasificación del RD 208/1996 separa la información sobre organización, trámites y servicios de la referida a la situación o contenido de un expediente concreto. La información general puede darse a cualquier persona; la particular identifica un expediente y requiere legitimación, representación acreditada y respeto a los datos personales."
   },
   {
     "id": "burgos-v03-deep-05",
@@ -405,7 +405,7 @@
     ],
     "correcta": 2,
     "referencia": "V.3 · quejas, sugerencias y recursos",
-    "explicacion": "La queja pertenece al sistema de atención y calidad; si se quiere impugnar un acto deben utilizarse los recursos y plazos procedentes. Las quejas y sugerencias sirven para supervisar la calidad del servicio; por sí solas no sustituyen un recurso ni suspenden sus plazos. La alternativa «Sustituye siempre al recurso administrativo» no satisface ese criterio; aquí se aplica «Expresa disconformidad con el servicio pero no sustituye…»."
+    "explicacion": "La queja pertenece al sistema de atención y calidad; si se quiere impugnar un acto deben utilizarse los recursos y plazos procedentes. Las quejas y sugerencias sirven para supervisar la calidad del servicio; por sí solas no sustituyen un recurso ni suspenden sus plazos."
   },
   {
     "id": "burgos-v03-deep-06",
@@ -419,7 +419,7 @@
     ],
     "correcta": 1,
     "referencia": "Ley 7/1985 · art. 132",
-    "explicacion": "El artículo 132 LRBRL atribuye al Pleno su creación, composición proporcional, supervisión de la actividad municipal e informe anual. El enunciado pide la opción incorrecta. El artículo 4 del Reglamento Orgánico enumera a la ciudadanía y entidades habilitadas para presentar estas iniciativas; las Juntas de Distrito no figuran como presentadoras directas. La alternativa «La crea el alcalde y solo la integran…» no satisface ese criterio; aquí se aplica «La crea el Pleno representa proporcionalmente a los…»."
+    "explicacion": "El artículo 132 LRBRL atribuye al Pleno su creación, composición proporcional, supervisión de la actividad municipal e informe anual. El enunciado pide la opción incorrecta. El artículo 4 del Reglamento Orgánico enumera a la ciudadanía y entidades habilitadas para presentar estas iniciativas; las Juntas de Distrito no figuran como presentadoras directas."
   },
   {
     "id": "burgos-v03-deep-07",
@@ -433,7 +433,7 @@
     ],
     "correcta": 0,
     "referencia": "V.3 · clasificación de escritos",
-    "explicacion": "La sugerencia tiene finalidad de mejora; la reclamación puede contener una pretensión concreta y debe calificarse conforme a su contenido y normativa aplicable. Las quejas y sugerencias sirven para supervisar la calidad del servicio; por sí solas no sustituyen un recurso ni suspenden sus plazos. La alternativa «Impugna necesariamente una resolución» no satisface ese criterio; aquí se aplica «Propone mejorar un servicio mientras la reclamación puede…»."
+    "explicacion": "La sugerencia tiene finalidad de mejora; la reclamación puede contener una pretensión concreta y debe calificarse conforme a su contenido y normativa aplicable. Las quejas y sugerencias sirven para supervisar la calidad del servicio; por sí solas no sustituyen un recurso ni suspenden sus plazos."
   },
   {
     "id": "burgos-v03-deep-08",
@@ -442,12 +442,12 @@
     "opciones": [
       "Diez días",
       "Un mes",
-      "Tres meses desde la presentación",
-      "Seis meses desde la admisión"
+      "Seis meses desde la admisión",
+      "Tres meses desde la presentación"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "Ley Orgánica 4/2001 · art. 11",
-    "explicacion": "La Ley Orgánica 4/2001 reconoce el derecho de petición y exige contestar en tres meses desde su presentación cuando se admite a trámite. La alternativa «Seis meses desde la admisión» no satisface ese criterio; aquí se aplica «Tres meses desde la presentación»."
+    "explicacion": "La Ley Orgánica 4/2001 reconoce el derecho de petición y exige contestar en tres meses desde su presentación cuando se admite a trámite."
   },
   {
     "id": "burgos-v03-deep-09",
@@ -461,7 +461,7 @@
     ],
     "correcta": 1,
     "referencia": "Constitución Española · art. 87.3; Ley Orgánica 4/2001",
-    "explicacion": "La cifra de 500.000 firmas pertenece a la iniciativa legislativa popular estatal; no es requisito general del derecho de petición. La Ley Orgánica 4/2001 reconoce el derecho de petición y exige contestar en tres meses desde su presentación cuando se admite a trámite. La alternativa «Ambos exigen 500.000 firmas» no satisface ese criterio; aquí se aplica «La iniciativa legislativa popular estatal exige 500 000…»."
+    "explicacion": "La cifra de 500.000 firmas pertenece a la iniciativa legislativa popular estatal; no es requisito general del derecho de petición. La Ley Orgánica 4/2001 reconoce el derecho de petición y exige contestar en tres meses desde su presentación cuando se admite a trámite."
   },
   {
     "id": "burgos-v03-deep-10",
@@ -469,13 +469,13 @@
     "pregunta": "Conforme al artículo 70 del TRLGDPD, los planes de calidad de las Administraciones deben incluir:",
     "opciones": [
       "Solo campañas publicitarias",
-      "Normas mínimas de no discriminación y accesibilidad, indicadores de calidad y guías de buenas prácticas",
       "Únicamente una reserva de empleo del 2%",
+      "Normas mínimas de no discriminación y accesibilidad, indicadores de calidad y guías de buenas prácticas",
       "La supresión de los servicios no adaptados"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "Real Decreto Legislativo 1/2013 · art. 70",
-    "explicacion": "El artículo 70 exige adecuar los planes de calidad e incluir esas medidas; no ordena suprimir oficinas o servicios. La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «Solo campañas publicitarias» no satisface ese criterio; aquí se aplica «Normas mínimas de no discriminación y accesibilidad indicadores…»."
+    "explicacion": "El artículo 70 exige adecuar los planes de calidad e incluir esas medidas; no ordena suprimir oficinas o servicios. La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "burgos-v03-deep-11",
@@ -483,26 +483,40 @@
     "pregunta": "Una persona con discapacidad no puede utilizar el canal electrónico ordinario. La actuación más adecuada es:",
     "opciones": [
       "Denegar la atención porque todos los trámites son electrónicos",
-      "Ofrecer el ajuste o apoyo necesario y el canal alternativo legalmente disponible, respetando su autonomía",
       "Pedirle que tramite siempre mediante un familiar",
-      "Resolver verbalmente el expediente sin registrar nada"
+      "Resolver verbalmente el expediente sin registrar nada",
+      "Ofrecer el ajuste o apoyo necesario y el canal alternativo legalmente disponible, respetando su autonomía"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "TRLGDPD; Ley 39/2015 · arts. 12 y 13",
-    "explicacion": "La accesibilidad exige eliminar barreras y prestar apoyo; no autoriza a sustituir la voluntad de la persona ni a omitir el procedimiento. La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados. La alternativa «Denegar la atención porque todos los trámites son…» no satisface ese criterio; aquí se aplica «Ofrecer el ajuste o apoyo necesario y el…»."
+    "explicacion": "La accesibilidad exige eliminar barreras y prestar apoyo; no autoriza a sustituir la voluntad de la persona ni a omitir el procedimiento. La normativa de discapacidad exige igualdad de oportunidades, no discriminación y accesibilidad; no autoriza a suprimir servicios por no estar adaptados."
   },
   {
     "id": "burgos-v03-deep-12",
     "tema": 34,
     "pregunta": "Una persona llama para preguntar por los requisitos generales de una licencia y después pide el estado del expediente de otra persona. ¿Cómo se califican las consultas?",
     "opciones": [
-      "Ambas son información general accesible sin comprobación",
       "La primera es información general; la segunda es particular y exige legitimación",
+      "Ambas son información general accesible sin comprobación",
       "Ambas son recursos administrativos",
       "La primera es una petición y la segunda una sugerencia"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "RD 208/1996 · arts. 2 y 3",
-    "explicacion": "Los requisitos abstractos de un trámite son información general; el estado de un expediente concreto es información particular y requiere interesado o representación acreditada. La alternativa «La primera es una petición y la segunda…» no satisface ese criterio; aquí se aplica «La primera es información general la segunda es…»."
+    "explicacion": "Los requisitos abstractos de un trámite son información general; el estado de un expediente concreto es información particular y requiere interesado o representación acreditada."
+  },
+  {
+    "id": "burgos-v03-deep-13",
+    "tema": 34,
+    "pregunta": "Desde la entrada en vigor de la Ley 4/2026, ¿qué grado de discapacidad se considera reconocido, a efectos del TRLGDPD, a quien tiene oficialmente reconocida una dependencia de grado I?",
+    "opciones": [
+      "33 %",
+      "65 %",
+      "No se establece equivalencia",
+      "75 %"
+    ],
+    "correcta": 0,
+    "referencia": "TRLGDPD · art. 4.2, redacción dada por Ley 4/2026; entrada en vigor: 23-10-2026",
+    "explicacion": "La reforma equipara, a efectos del TRLGDPD, el grado I de dependencia a discapacidad del 33 % y los grados II y III al 65 %. La propia ley limita los efectos a los ámbitos previstos por ley o por normas que la contemplen expresamente y excluye el ámbito tributario; no toda norma que exija discapacidad incorpora automáticamente esta equivalencia. Tampoco implica que toda persona con discapacidad tenga dependencia reconocida."
   }
 ]

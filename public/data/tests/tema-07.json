@@ -246,12 +246,12 @@
     "id": "topup-07-02",
     "pregunta": "La aprobación de ordenanzas y reglamentos municipales corresponde tipicamente al:",
     "opciones": [
-      "Pleno",
       "teniente de alcalde de mayor edad",
       "Interventor General",
+      "Pleno",
       "Órgano de Gestión Tributaria"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.7 · Competencias del Pleno",
     "tema": 7,
     "explicacion": "La aprobación de ordenanzas municipales corresponde al Pleno, conforme al artículo 123.1.d de la Ley de Bases para municipios de gran población. La Junta de Gobierno puede aprobar los proyectos que se someten a él. Elaborar un proyecto o ejecutarlo después no equivale a aprobar definitivamente la norma municipal."
@@ -260,12 +260,12 @@
     "id": "topup-07-03",
     "pregunta": "En la organización del Ayuntamiento de Burgos, el alcalde ostenta la máxima representación del:",
     "opciones": [
-      "municipio",
       "Consejo de Cuentas",
       "Tribunal Supremo",
-      "Consejo Europeo"
+      "Consejo Europeo",
+      "municipio"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.7 · El alcalde",
     "tema": 7,
     "explicacion": "El Alcalde ostenta la máxima representación del municipio según el artículo 124 de la Ley de Bases. También dirige la política, el gobierno y la Administración municipal dentro de sus competencias. Esa representación institucional no corresponde al Secretario General, cuya función es técnica, ni a la Intervención, que realiza el control económico."
@@ -288,12 +288,12 @@
     "id": "topup-07-05",
     "pregunta": "En la organización del Ayuntamiento de Burgos, la función mínima necesaria de los tenientes de alcalde es:",
     "opciones": [
-      "sustituir al alcalde por orden de nombramiento",
       "presidir siempre el Pleno ordinario",
+      "sustituir al alcalde por orden de nombramiento",
       "aprobar definitivamente el presupuesto",
       "resolver reclamaciones económico-administrativas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.7 · Tenientes de alcalde",
     "tema": 7,
     "explicacion": "Los Tenientes de Alcalde sustituyen al Alcalde por el orden de su nombramiento en casos de vacante, ausencia o enfermedad, según el artículo 125 de la Ley de Bases. Ese orden evita que la sustitución dependa de una elección improvisada. No se atribuye preferencia automática al concejal más antiguo o al Secretario General."
@@ -302,12 +302,12 @@
     "id": "topup-07-08",
     "pregunta": "En la organización del Ayuntamiento de Burgos, la Secretaría General garantiza principalmente la fe pública y el:",
     "opciones": [
-      "asesoramiento legal preceptivo",
       "control financiero permanente",
       "cobro en vía ejecutiva",
+      "asesoramiento legal preceptivo",
       "planeamiento urbanístico"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.7 · Secretaría General",
     "tema": 7,
     "explicacion": "La Secretaría realiza funciones de fe pública y asesoramiento legal preceptivo conforme a la legislación de régimen local. En Burgos, el artículo 109 del Reglamento concreta su organización administrativa. Certificar acuerdos e informar jurídicamente es distinto de controlar gastos, gestionar tributos o resolver reclamaciones económico-administrativas."
@@ -316,12 +316,12 @@
     "id": "topup-07-09",
     "pregunta": "En la organización del Ayuntamiento de Burgos, entre las funciones típicas de la Secretaría General se encuentra:",
     "opciones": [
-      "certificar acuerdos y custodiar actas",
       "aprobar el padrón fiscal del IBI",
       "emitir licencias urbanísticas en todo caso",
-      "dirigir la tesorería municipal"
+      "dirigir la tesorería municipal",
+      "certificar acuerdos y custodiar actas"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.7 · Secretaría General",
     "tema": 7,
     "explicacion": "La documentación y certificación de acuerdos, así como la llevanza y custodia de las actas en los términos reglamentarios, corresponden a la Secretaría. Son manifestaciones de la fe pública municipal: permiten acreditar qué acordó el órgano. No deben confundirse con la tesorería, la fiscalización económica o la dirección política."
@@ -344,12 +344,12 @@
     "id": "topup-07-11",
     "pregunta": "En la organización del Ayuntamiento de Burgos, la técnica de control que verifica legalidad de actos con contenido económico antes de producir efectos es la:",
     "opciones": [
-      "función interventora",
       "publicidad activa",
+      "función interventora",
       "potestad reglamentaria",
       "acción popular"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.7 · Intervención General",
     "tema": 7,
     "explicacion": "La función interventora examina los actos que pueden producir efectos económicos para comprobar su adecuación a las disposiciones aplicables. Incluye controles sobre gastos, obligaciones y pagos en los términos legalmente establecidos. No equivale a aprobar decisiones políticas ni a resolver reclamaciones tributarias, competencias propias de otros órganos."
@@ -358,12 +358,12 @@
     "id": "topup-07-14",
     "pregunta": "El Tribunal Económico-Administrativo Municipal de Burgos se relaciona especialmente con:",
     "opciones": [
-      "la revisión de actos tributarios municipales",
       "la instrucción de delitos",
       "la aprobación del Reglamento Organico",
+      "la revisión de actos tributarios municipales",
       "la selección de personal laboral"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.7 · Relación con el TEAM",
     "tema": 7,
     "explicacion": "El Tribunal Económico-Administrativo Municipal revisa los actos tributarios y otros ingresos de derecho público de competencia municipal mediante reclamaciones. Su función revisora exige independencia respecto de la gestión que controla. No es el órgano que aprueba ordenanzas ni el encargado del control interno de los gastos municipales."
@@ -372,12 +372,12 @@
     "id": "refine-07-01",
     "pregunta": "En los municipios de gran población, el control y la fiscalización de los órganos de gobierno municipales corresponde de forma principal al:",
     "opciones": [
-      "Pleno",
       "alcalde",
       "Interventor General",
-      "Órgano de Gestión Tributaria"
+      "Órgano de Gestión Tributaria",
+      "Pleno"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.7 · Pleno en municipios de gran población",
     "tema": 7,
     "explicacion": "El Pleno controla y fiscaliza los órganos de gobierno, conforme al artículo 123 de la Ley de Bases. Se trata de un control político ejercido por los representantes municipales. Es diferente de la fiscalización económica interna que realiza la Intervención y de la revisión especializada de ingresos atribuida al Tribunal Económico-Administrativo."
@@ -400,12 +400,12 @@
     "id": "refine-07-03",
     "pregunta": "La Secretaría General del Ayuntamiento se vincula a funciones reservadas como:",
     "opciones": [
-      "la fe pública y el asesoramiento legal preceptivo",
       "la recaudación en vía ejecutiva y la inspección tributaria",
+      "la fe pública y el asesoramiento legal preceptivo",
       "la ordenación de pagos y la gestión de tesorería",
       "la dirección política del gobierno municipal"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.7 · Secretaría General",
     "tema": 7,
     "explicacion": "La Secretaría proporciona fe pública y asesoramiento jurídico preceptivo a los órganos correspondientes según la legislación local. Permite acreditar acuerdos y comprobar jurídicamente las actuaciones cuando procede informe. No realiza por esa razón el control financiero interno, reservado a la Intervención, ni sustituye las decisiones políticas de los órganos de gobierno."
@@ -414,12 +414,12 @@
     "id": "refine-07-04",
     "pregunta": "El Tribunal Económico-Administrativo Municipal de Burgos conoce principalmente de reclamaciones relativas a:",
     "opciones": [
-      "Actos tributarios y otros ingresos de derecho público de titularidad municipal",
       "Recursos contra sanciones penales impuestas por los juzgados",
       "Conflictos de competencias entre el Pleno y la Junta de Gobierno Local",
+      "Actos tributarios y otros ingresos de derecho público de titularidad municipal",
       "Recursos especiales en materia de contratación de cualquier administración pública"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Régimen de gran población · gestión económico-tributaria municipal",
     "tema": 7,
     "explicacion": "El artículo 137 de la Ley de Bases contempla un órgano especializado para resolver reclamaciones sobre tributos y otros ingresos públicos municipales. En Burgos es el Tribunal Económico-Administrativo Municipal. La revisión no se extiende indistintamente a toda actuación municipal ni convierte al Tribunal en órgano de fiscalización del presupuesto."
@@ -428,12 +428,12 @@
     "id": "refine-07-05",
     "pregunta": "En el ámbito municipal, el órgano de gestión tributaria se relaciona de forma directa con funciones de:",
     "opciones": [
-      "gestión, liquidación, inspección y recaudación de tributos e ingresos de derecho público",
       "aprobación del planeamiento general",
       "fe pública de las sesiones plenarias",
-      "convocatoria de elecciones locales"
+      "convocatoria de elecciones locales",
+      "gestión, liquidación, inspección y recaudación de tributos e ingresos de derecho público"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.7 · Órgano de Gestión Tributaria",
     "tema": 7,
     "explicacion": "La gestión tributaria comprende actuaciones de aplicación de los tributos, como gestión, liquidación, inspección y recaudación, con su organización y procedimientos específicos. No debe confundirse con resolver reclamaciones contra esos actos, atribución del Tribunal Económico-Administrativo. Tampoco equivale al control interno económico que lleva a cabo la Intervención General."
@@ -441,58 +441,58 @@
   {
     "id": "burgos-i07-hard-01",
     "tema": 7,
-    "pregunta": "En un municipio de gran población como Burgos, ¿qué órgano concentra de forma especialmente relevante funciones ejecutivas?",
+    "pregunta": "Tras la declaración de inconstitucionalidad del inciso del artículo 126.2 LRBRL, ¿quiénes pueden integrar la Junta de Gobierno Local en un municipio de gran población?",
     "opciones": [
-      "La Junta de Gobierno Local",
-      "El Pleno",
-      "La Comisión Especial de Sugerencias y Reclamaciones",
-      "La Secretaría General"
+      "El Alcalde y Concejales designados por él",
+      "El Alcalde y cualquier persona de su confianza, aunque no sea concejal",
+      "El Alcalde y los directores generales del Ayuntamiento",
+      "El Alcalde y representantes de todos los grupos municipales, necesariamente"
     ],
     "correcta": 0,
-    "referencia": "Tema I.7, Organización política y administrativa del Ayuntamiento de Burgos",
-    "explicacion": "La Junta de Gobierno Local constituye un órgano ejecutivo con competencias propias en los municipios de gran población. Colabora con el Alcalde en la dirección política y ejerce las atribuciones administrativas previstas en la Ley de Bases. No sustituye al Pleno como órgano de representación y control ni a la Secretaría en la fe pública."
+    "referencia": "Tema I.7 · Junta de Gobierno Local · artículo 126.2 LRBRL y STC 103/2013",
+    "explicacion": "El Alcalde nombra y separa libremente a los miembros de la Junta, pero el inciso que permitía incorporar a personas no concejales fue declarado inconstitucional por la STC 103/2013. Por tanto, la Junta se compone del Alcalde y de concejales designados, con el límite legal de un tercio del número legal de miembros del Pleno, además del Alcalde."
   },
   {
     "id": "burgos-i07-hard-02",
     "tema": 7,
     "pregunta": "¿Qué función se asocia de forma más directa a la Secretaría General del Ayuntamiento?",
     "opciones": [
-      "Fe pública y asesoramiento legal preceptivo",
       "Control financiero interno",
+      "Fe pública y asesoramiento legal preceptivo",
       "Recaudación ejecutiva de tributos",
       "Dirección política del Gobierno municipal"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.7, Secretaría General",
     "explicacion": "La Secretaría General tiene atribuidas funciones de fe pública y asesoramiento legal preceptivo, no la dirección política del Ayuntamiento. Documenta y certifica las actuaciones de los órganos correspondientes y emite los informes exigidos legalmente. La revisión de ingresos corresponde al Tribunal Económico-Administrativo y el control financiero a la Intervención."
   },
   {
     "id": "burgos-i07-hard-03",
     "tema": 7,
-    "pregunta": "¿Qué órgano municipal se relaciona de forma más directa con el control económico-financiero interno?",
+    "pregunta": "Según el artículo 126.5 LRBRL, ¿qué carácter tienen las deliberaciones de la Junta de Gobierno Local?",
     "opciones": [
-      "Intervención General",
-      "Alcaldía",
-      "Tenientes de Alcalde",
-      "Junta de Portavoces"
+      "Son públicas y deben retransmitirse en directo",
+      "Son secretas y también lo son siempre sus acuerdos",
+      "Son secretas, sin que ello convierta automáticamente en secretos todos sus acuerdos",
+      "Solo son públicas cuando asisten todos los concejales"
     ],
-    "correcta": 0,
-    "referencia": "Tema I.7, Intervención General",
-    "explicacion": "La Intervención General realiza el control interno económico-financiero y presupuestario previsto en el artículo 136 de la Ley de Bases. Esa tarea incluye función interventora y control financiero. El Tribunal de Cuentas ejerce control externo; el Pleno controla políticamente al gobierno y la Secretaría autentica las actuaciones municipales."
+    "correcta": 2,
+    "referencia": "Tema I.7 · Junta de Gobierno Local · artículo 126.5 LRBRL",
+    "explicacion": "El artículo 126.5 LRBRL establece que las deliberaciones de la Junta de Gobierno Local son secretas. La regla se refiere a la deliberación del órgano y no significa por sí sola que todos los acuerdos tengan carácter secreto: la publicidad, comunicación y acceso a los actos se rigen por las normas aplicables."
   },
   {
     "id": "burgos-i07-hard-04",
     "tema": 7,
-    "pregunta": "¿Qué afirmación sobre el Pleno en municipios de gran población es más precisa?",
+    "pregunta": "¿En qué órganos puede delegar el Pleno las atribuciones que la LRBRL declara delegables en los municipios de gran población?",
     "opciones": [
-      "Es órgano de máxima representación política, debate, aprobación normativa y control",
-      "Es el órgano que ejecuta ordinariamente todos los expedientes de gestión",
-      "Sustituye a la Junta de Gobierno Local en las funciones ejecutivas diarias",
-      "Carece de funciones de fiscalización de órganos de gobierno"
+      "En la Junta de Gobierno Local, en todos los casos",
+      "En el Alcalde, sin límites",
+      "En cualquier órgano directivo municipal",
+      "En sus Comisiones"
     ],
-    "correcta": 0,
-    "referencia": "Tema I.7, El Pleno",
-    "explicacion": "El Pleno es el órgano de máxima representación política de los ciudadanos en el gobierno municipal, según el artículo 122 de la Ley de Bases. Debate, controla al gobierno y ejerce sus atribuciones normativas y presupuestarias. La Junta de Gobierno cumple funciones ejecutivas, y Secretaría e Intervención desempeñan funciones técnicas diferenciadas."
+    "correcta": 3,
+    "referencia": "Tema I.7 · atribuciones y delegación del Pleno · artículo 123.3 LRBRL",
+    "explicacion": "El artículo 123.3 LRBRL dispone que el Pleno solo puede delegar las atribuciones expresamente delegables en favor de sus Comisiones. No existe una habilitación general para trasladarlas al Alcalde, a la Junta de Gobierno o a cualquier órgano directivo. Antes de atribuir una competencia hay que comprobar si la ley permite delegarla y cuál es el órgano destinatario."
   },
   {
     "id": "estado2026-i07-01",
@@ -547,12 +547,12 @@
     "tema": 7,
     "pregunta": "En la Junta de Gobierno Local de un municipio de gran población, el número de miembros no puede exceder de:",
     "opciones": [
-      "Un tercio del número legal de miembros del Pleno, además del Alcalde.",
       "La mitad del número de concejales presentes, incluido el Alcalde.",
+      "Un tercio del número legal de miembros del Pleno, además del Alcalde.",
       "Dos tercios del número legal de miembros del Pleno, incluido el Alcalde.",
       "Un cuarto del número legal de miembros del Pleno, sin contar al Alcalde."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.7 · LRBRL, art. 126.2",
     "explicacion": "El artículo 126.2 de la Ley de Bases limita los miembros de la Junta de Gobierno Local a un tercio del número legal de miembros del Pleno, además del Alcalde. Este ocupa la presidencia y queda fuera de ese cálculo. No procede incluirlo dentro del tercio ni utilizar el número de concejales presentes en una sesión."
   },
@@ -561,12 +561,12 @@
     "tema": 7,
     "pregunta": "¿Quién ejerce la Secretaría de la Junta de Gobierno Local?",
     "opciones": [
-      "Un miembro de la Junta que tenga la condición de concejal y sea designado por el Alcalde.",
       "El Interventor General municipal en todo caso.",
       "El Secretario General del Pleno de forma automática.",
+      "Un miembro de la Junta que tenga la condición de concejal y sea designado por el Alcalde.",
       "El concejal de mayor edad de la Corporación."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.7 · LRBRL, art. 126.4",
     "explicacion": "La Secretaría de la Junta de Gobierno Local corresponde a uno de sus miembros que tenga condición de concejal, designado por el Alcalde, conforme al artículo 126.4. Se distingue del órgano de apoyo, cuyo titular es un funcionario con habilitación nacional. Por tanto, no debe confundirse el Concejal-Secretario con el Secretario General del Pleno."
   },
@@ -575,12 +575,12 @@
     "tema": 7,
     "pregunta": "¿Cuál de estas tareas pertenece al núcleo de la Intervención General municipal?",
     "opciones": [
-      "Ejercer el control interno económico-financiero mediante función interventora y control financiero.",
       "Expedir las certificaciones de los acuerdos plenarios con el visto bueno del Presidente.",
       "Resolver las reclamaciones económico-administrativas contra actos tributarios municipales.",
-      "Nombrar y cesar a los Tenientes de Alcalde."
+      "Nombrar y cesar a los Tenientes de Alcalde.",
+      "Ejercer el control interno económico-financiero mediante función interventora y control financiero."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.7 · Intervención General",
     "explicacion": "El control interno de la gestión económico-financiera y presupuestaria corresponde a la Intervención General y comprende función interventora y control financiero. Así lo recoge el artículo 136 de la Ley de Bases. No es una función de la asesoría jurídica ni del Tribunal que revisa reclamaciones contra actos relativos a ingresos públicos."
   },
@@ -603,12 +603,12 @@
     "tema": 7,
     "pregunta": "¿Qué órgano resuelve las reclamaciones económico-administrativas sobre actos tributarios municipales, dentro de su competencia?",
     "opciones": [
-      "El Tribunal Económico-Administrativo Municipal.",
       "La Intervención General.",
+      "El Tribunal Económico-Administrativo Municipal.",
       "La Secretaría General del Pleno.",
       "La Comisión Especial de Sugerencias y Reclamaciones."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.7 · gestión tributaria y revisión",
     "explicacion": "El Tribunal Económico-Administrativo Municipal resuelve reclamaciones sobre actos relativos a tributos y otros ingresos de derecho público municipales. Esta revisión especializada se regula en el artículo 137 de la Ley de Bases y en su Reglamento. No aprueba el presupuesto ni lleva la contabilidad o el control interno del gasto."
   },
@@ -617,12 +617,12 @@
     "tema": 7,
     "pregunta": "¿Qué afirmación describe correctamente a los Tenientes de Alcalde?",
     "opciones": [
-      "Los nombra y separa libremente el Alcalde entre los miembros de la Junta de Gobierno Local y sustituyen al Alcalde por orden de nombramiento.",
       "Los elige directamente el Pleno y sustituyen al Secretario General.",
       "Los nombra la Intervención General para coordinar la gestión económica.",
+      "Los nombra y separa libremente el Alcalde entre los miembros de la Junta de Gobierno Local y sustituyen al Alcalde por orden de nombramiento.",
       "Son órganos directivos profesionales sin condición de concejal."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.7 · LRBRL, art. 125",
     "explicacion": "El Alcalde nombra y separa libremente a los Tenientes de Alcalde entre los concejales integrantes de la Junta de Gobierno Local. Estos lo sustituyen por el orden de nombramiento en los supuestos legales, conforme al artículo 125. No se designan mediante elección directa vecinal ni por decisión de los servicios técnicos."
   },
@@ -631,12 +631,12 @@
     "tema": 7,
     "pregunta": "La Comisión Especial de Sugerencias y Reclamaciones tiene como finalidad principal:",
     "opciones": [
-      "Defender los derechos de los vecinos ante la Administración municipal.",
       "Fiscalizar previamente todos los pagos municipales.",
       "Resolver recursos contra sanciones penales.",
-      "Aprobar el presupuesto general del Ayuntamiento."
+      "Aprobar el presupuesto general del Ayuntamiento.",
+      "Defender los derechos de los vecinos ante la Administración municipal."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.7 · LRBRL, art. 132",
     "explicacion": "La Comisión Especial de Sugerencias y Reclamaciones tiene como finalidad defender los derechos de los vecinos frente a la Administración municipal mediante su supervisión. El artículo 132 prevé su existencia en gran población y la representación proporcional de los grupos. No es el órgano de revisión de los tributos ni una comisión para aprobar gastos."
   },
@@ -659,12 +659,12 @@
     "tema": 7,
     "pregunta": "¿Cuál es la diferencia más precisa entre Secretaría General e Intervención General?",
     "opciones": [
-      "Secretaría garantiza fe pública y asesoramiento legal preceptivo; Intervención ejerce control interno económico-financiero.",
       "Secretaría recauda tributos; Intervención certifica acuerdos plenarios.",
+      "Secretaría garantiza fe pública y asesoramiento legal preceptivo; Intervención ejerce control interno económico-financiero.",
       "Secretaría aprueba el presupuesto; Intervención nombra a la Junta de Gobierno.",
       "Ambas realizan exactamente la misma función de control jurídico y económico."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.7 · mapa de órganos municipales",
     "explicacion": "La Secretaría General ejerce fe pública y asesoramiento legal en el ámbito de sus atribuciones; la Intervención General controla la gestión económico-financiera y presupuestaria. El Reglamento municipal y la Ley de Bases distinguen expresamente ambas funciones. Que las dos sean técnicas y obligatorias no permite intercambiar sus competencias."
   }

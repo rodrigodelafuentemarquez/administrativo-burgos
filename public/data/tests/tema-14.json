@@ -110,11 +110,11 @@
     "pregunta": "En el régimen jurídico del sector público, la LRJSP regula principalmente:",
     "opciones": [
       "Exclusivamente el procedimiento administrativo común y los recursos administrativos",
-      "Los principios de actuación del sector público, la organización administrativa y las relaciones interadministrativas",
       "Solo la responsabilidad patrimonial derivada de actos legislativos",
-      "El régimen electoral general y la organización de las Cortes Generales"
+      "El régimen electoral general y la organización de las Cortes Generales",
+      "Los principios de actuación del sector público, la organización administrativa y las relaciones interadministrativas"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Ley 40/2015 · objeto y estructura",
     "explicacion": "La Ley 40/2015 se centra en los principios y organización del sector público y en las relaciones entre administraciones. La Ley 40/2015 regula organización y funcionamiento del sector público y relaciones entre Administraciones; el procedimiento común y recursos se ordenan principalmente en la Ley 39/2015."
   },
@@ -149,15 +149,15 @@
   {
     "id": "t14-p004",
     "tema": 14,
-    "pregunta": "En el régimen jurídico del sector público, ¿mediante qué instrumento se crean ordinariamente los órganos de nivel superior o directivo?",
+    "pregunta": "En la Administración General del Estado, ¿mediante qué instrumento se crean ordinariamente los órganos superiores y directivos?",
     "opciones": [
       "Orden Ministerial",
-      "Real Decreto del Consejo de Ministros",
       "Ley orgánica",
+      "Real Decreto del Consejo de Ministros",
       "Acuerdo de la Junta de Portavoces"
     ],
-    "correcta": 1,
-    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos",
+    "correcta": 2,
+    "referencia": "II.5 · 2.2 Creación, modificación y supresión de órganos; LRJSP, art. 5.3",
     "explicacion": "El tema cita el Real Decreto del Consejo de Ministros como forma ordinaria para esos órganos. El artículo 5.3 prevé creación y supresión por Real Decreto del Consejo de Ministros para órganos superiores y directivos de la AGE; los órganos inferiores siguen otras normas."
   },
   {
@@ -165,12 +165,12 @@
     "tema": 14,
     "pregunta": "En el régimen jurídico del sector público, los órganos colegiados requieren al menos la presencia de:",
     "opciones": [
-      "Presidente y Secretario, más la mitad de sus miembros",
       "dos tercios de sus miembros",
       "solo el Presidente y el Secretario",
-      "todos sus miembros sin excepción"
+      "todos sus miembros sin excepción",
+      "Presidente y Secretario, más la mitad de sus miembros"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.5 · 2.4 Funcionamiento de los órganos colegiados",
     "explicacion": "El tema fija ese quórum para la constitución válida. Para constituir el órgano colegiado deben concurrir Presidente y Secretario o suplentes y la mitad de sus miembros; no se exige dos tercios ni unanimidad. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -194,11 +194,11 @@
     "pregunta": "En el régimen jurídico del sector público, la abstención de una autoridad o empleado público es:",
     "opciones": [
       "opcional",
-      "obligatoria cuando concurre una causa legal",
       "solo aconsejable",
+      "obligatoria cuando concurre una causa legal",
       "decidida por el interesado"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.5 · 2.5 La abstención y la recusación",
     "explicacion": "El tema lo presenta como deber obligatorio. La abstención es obligatoria cuando concurre una causa del artículo 23; apartarse evita conflictos de imparcialidad y no queda a elección del interesado. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -221,28 +221,28 @@
     "tema": 14,
     "pregunta": "En el régimen jurídico del sector público, las conferencias sectoriales son órganos de:",
     "opciones": [
-      "cooperación multilateral de composición sectorial",
       "control jurisdiccional",
       "dirección jerárquica entre Administraciones",
-      "recurso administrativo"
+      "recurso administrativo",
+      "cooperación multilateral de composición sectorial"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.5 · 3.2.2 Las Conferencias Sectoriales",
     "explicacion": "El tema las define como principales instrumentos de cooperación vertical Estado-CC.AA. Las conferencias sectoriales reúnen Administración estatal y autonómicas en una materia para cooperar multilateralmente; no son órganos judiciales ni superiores jerárquicos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t14-p010",
     "tema": 14,
-    "pregunta": "En el régimen jurídico del sector público, ¿qué duración máxima tienen los convenios de colaboración?",
+    "pregunta": "Como regla general, ¿cuál es la duración inicial máxima de un convenio administrativo según la LRJSP?",
     "opciones": [
       "2 años",
       "3 años",
-      "4 años",
+      "Cuatro años, prorrogables unánimemente hasta cuatro años adicionales.",
       "10 años"
     ],
     "correcta": 2,
     "referencia": "II.5 · 3.2.4 Los convenios de colaboración",
-    "explicacion": "El tema señala una duración máxima de 4 años, prorrogable. El artículo 49.h fija duración determinada no superior a cuatro años, salvo norma que prevea mayor plazo; las partes pueden prorrogar unánimemente hasta cuatro años más. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
+    "explicacion": "El artículo 49.h LRJSP establece una duración inicial determinada no superior a cuatro años, salvo que una norma prevea un plazo mayor. Antes del vencimiento, las partes pueden acordar unánimemente una prórroga de hasta cuatro años adicionales. Por tanto, cuatro años no es necesariamente la duración máxima total."
   },
   {
     "id": "t14-p011",
@@ -261,16 +261,16 @@
   {
     "id": "t14-p012",
     "tema": 14,
-    "pregunta": "¿Qué artículo permite al Estado subrogarse en competencias de Entidades Locales cuando incumplen sus obligaciones?",
+    "pregunta": "¿Qué prevé el artículo 60 LBRL si una entidad local incumple una obligación impuesta directamente por ley que afecta a competencias estatales o autonómicas y cuya cobertura económica está garantizada?",
     "opciones": [
-      "Art. 60 LBRL",
       "Art. 155 CE",
+      "Tras requerirle y concederle al menos un mes, la Administración estatal o autonómica competente adopta las medidas necesarias para cumplirla, a costa y en sustitución de la entidad local.",
       "Art. 149.1 CE",
       "Art. 103 CE"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.5 · 3.5 Control del Estado sobre la actividad de CC.AA. y Entidades Locales",
-    "explicacion": "El tema atribuye esa subrogación al art. 60 LBRL. El artículo 60 LBRL permite al Estado o comunidad autónoma adoptar medidas para hacer cumplir obligaciones locales legales tras requerimiento y plazo; el artículo 155 CE regula otro supuesto constitucional. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
+    "explicacion": "El artículo 60 LBRL no establece una subrogación general en las competencias locales. Si concurren sus requisitos, la Administración estatal o autonómica afectada requiere el cumplimiento y concede un plazo nunca inferior a un mes; si persiste el incumplimiento, adopta las medidas necesarias a costa y en sustitución de la entidad local."
   },
   {
     "id": "t14-p013",
@@ -279,10 +279,10 @@
     "opciones": [
       "solo interna",
       "solo interadministrativa",
-      "interna e interadministrativa",
-      "exclusivamente judicial"
+      "exclusivamente judicial",
+      "interna e interadministrativa"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "II.5 · 2.2.4 Coordinación",
     "explicacion": "El tema distingue ambos planos. La coordinación opera dentro de una misma Administración y entre Administraciones, según el tipo de relación; no es exclusivamente interna ni jurisdiccional. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -305,12 +305,12 @@
     "tema": 14,
     "pregunta": "En el régimen jurídico del sector público, los planes y programas conjuntos son:",
     "opciones": [
-      "documentos de planificación aprobados conjuntamente para objetivos comunes",
       "recursos jurisdiccionales",
+      "documentos de planificación aprobados conjuntamente para objetivos comunes",
       "reglamentos orgánicos de las Cortes",
       "instrumentos sancionadores"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.5 · 3.2.5 Los Planes y Programas conjuntos",
     "explicacion": "El tema los define como documentos de planificación conjunta. Los planes conjuntos fijan objetivos, actuaciones y compromisos compartidos entre Administraciones; son instrumentos de cooperación, no recursos judiciales ni potestades sancionadoras. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -318,12 +318,12 @@
     "id": "topup-14-01",
     "pregunta": "En el régimen jurídico del sector público, la avocación consiste en que:",
     "opciones": [
-      "un órgano superior asume para si el conocimiento de un asunto atribuido a uno inferior",
       "un órgano cede definitivamente su competencia normativa",
       "el secretario sustituye al alcalde",
+      "un órgano superior asume para si el conocimiento de un asunto atribuido a uno inferior",
       "el ciudadano delega su firma en la Administración"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.5 · Tecnicas de alteración del ejercicio de competencias",
     "tema": 14,
     "explicacion": "La avocación permite al órgano superior atraer un asunto concreto por razones justificadas. La avocación permite al superior asumir un asunto concreto cuya decisión corresponde a un órgano dependiente, con acuerdo motivado; no transfiere definitivamente la competencia. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
@@ -332,12 +332,12 @@
     "id": "topup-14-02",
     "pregunta": "En el régimen jurídico del sector público, la delegación de firma supone:",
     "opciones": [
-      "autorizar a otro órgano o titular para firmar actos sin alterar la competencia",
       "trasladar la titularidad de la competencia a otra Administración",
       "renunciar al ejercicio de toda potestad",
-      "encomendar la gestión material de un servicio a un particular"
+      "encomendar la gestión material de un servicio a un particular",
+      "autorizar a otro órgano o titular para firmar actos sin alterar la competencia"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.5 · Delegación de firma",
     "tema": 14,
     "explicacion": "La delegación de firma no cambia la titularidad competencial, solo la firma formal. La delegación de firma no cambia quién tiene la competencia: otra persona firma por el titular. Se diferencia de delegar la competencia o encomendar una actuación material."
@@ -449,12 +449,12 @@
     "tema": 14,
     "pregunta": "Para la válida constitución de un órgano colegiado, la Ley 40/2015 exige, con carácter general:",
     "opciones": [
-      "Presidente y Secretario o quienes les suplan, y la mitad al menos de sus miembros.",
       "Todos sus miembros y unanimidad en la votación.",
+      "Presidente y Secretario o quienes les suplan, y la mitad al menos de sus miembros.",
       "Solo el Presidente y un tercio de los miembros.",
       "La mayoría absoluta de los miembros, aunque falte el Secretario."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "LRJSP · artículo 17.2 · Constitución del órgano colegiado",
     "tags": [
       "Revisión profunda"
@@ -466,12 +466,12 @@
     "tema": 14,
     "pregunta": "Un órgano colegiado pretende votar un asunto no incluido en el orden del día. ¿Cuándo puede hacerlo excepcionalmente?",
     "opciones": [
-      "Cuando estén presentes todos sus miembros y la urgencia se declare por mayoría.",
       "Siempre que lo solicite el Presidente, aunque falte un miembro.",
       "Cuando el Secretario lo certifique después de la sesión.",
+      "Cuando estén presentes todos sus miembros y la urgencia se declare por mayoría.",
       "Nunca, aunque estén presentes todos los miembros."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "LRJSP · artículo 17.4 · Orden del día",
     "tags": [
       "Revisión profunda"
@@ -483,12 +483,12 @@
     "tema": 14,
     "pregunta": "¿Qué efecto produce una resolución dictada por delegación de competencias?",
     "opciones": [
-      "Se considera dictada por el órgano delegante y debe indicar expresamente la delegación.",
       "Se considera dictada por el órgano delegado y nunca necesita identificar la delegación.",
       "Se imputa a la Administración, pero no a ningún órgano.",
-      "Es nula porque la competencia no puede ejercerse por delegación."
+      "Es nula porque la competencia no puede ejercerse por delegación.",
+      "Se considera dictada por el órgano delegante y debe indicar expresamente la delegación."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "LRJSP · artículo 9 · Delegación de competencias",
     "tags": [
       "Revisión profunda"
@@ -517,12 +517,12 @@
     "tema": 14,
     "pregunta": "La avocación se caracteriza porque:",
     "opciones": [
-      "El órgano superior asume un asunto concreto mediante acuerdo motivado.",
       "El órgano inferior adquiere definitivamente la competencia del superior.",
+      "El órgano superior asume un asunto concreto mediante acuerdo motivado.",
       "Se encarga a otra entidad una actividad material sin resolución jurídica.",
       "Se autoriza a otra persona a firmar sin cambiar la competencia."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "LRJSP · artículo 10 · Avocación",
     "tags": [
       "Revisión profunda"
@@ -534,12 +534,12 @@
     "tema": 14,
     "pregunta": "¿Qué puede encargarse mediante una encomienda de gestión?",
     "opciones": [
-      "Actividades materiales o técnicas, sin transferir la titularidad ni la decisión jurídica.",
       "La potestad de resolver el procedimiento en nombre del órgano encomendante.",
       "Una prestación contractual para evitar la aplicación de la contratación pública.",
+      "Actividades materiales o técnicas, sin transferir la titularidad ni la decisión jurídica.",
       "La titularidad permanente de una competencia administrativa."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "LRJSP · artículo 11 · Encomienda de gestión",
     "tags": [
       "Revisión profunda"
@@ -551,12 +551,12 @@
     "tema": 14,
     "pregunta": "La delegación de firma:",
     "opciones": [
-      "Permite firmar en nombre del titular sin alterar la competencia y sin necesidad de publicación, salvo norma específica.",
       "Transfiere la titularidad de la competencia al firmante.",
       "Es una modalidad de avocación de asuntos concretos.",
-      "Solo puede utilizarse entre Administraciones con personalidad jurídica distinta."
+      "Solo puede utilizarse entre Administraciones con personalidad jurídica distinta.",
+      "Permite firmar en nombre del titular sin alterar la competencia y sin necesidad de publicación, salvo norma específica."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "LRJSP · artículo 12 · Delegación de firma",
     "tags": [
       "Revisión profunda"
@@ -585,16 +585,34 @@
     "tema": 14,
     "pregunta": "La recusación es:",
     "opciones": [
-      "El derecho de los interesados a pedir que se aparte a quien concurra en una causa de abstención.",
       "La sustitución automática del órgano por su superior.",
+      "El derecho de los interesados a pedir que se aparte a quien concurra en una causa de abstención.",
       "Una sanción disciplinaria impuesta al funcionario imparcial.",
       "Una técnica para transferir una competencia a otra Administración."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "LRJSP · artículos 23 y 24 · Abstención y recusación",
     "tags": [
       "Revisión profunda"
     ],
     "explicacion": "La recusación permite a los interesados promover la separación del titular cuando concurre alguna causa legal de abstención; no transfiere la competencia. La recusación permite al interesado pedir apartamiento si concurre una causa legal de abstención; el superior resuelve el incidente, pero no es una sanción ni transfiere la competencia."
+  },
+  {
+    "tema": 14,
+    "id": "burgos-ii05-lrjsp-01",
+    "pregunta": "Según el artículo 141.2 LRJSP, ¿cuándo puede negarse una Administración a prestar la asistencia solicitada por otra?",
+    "opciones": [
+      "Siempre que la asistencia resulte incómoda para el órgano requerido",
+      "Solo cuando exista una resolución judicial que prohíba expresamente colaborar",
+      "Si no está facultada, carece de medios suficientes, la prestación causa perjuicio grave a intereses tutelados o funciones propias, o afecta a información confidencial o reservada; la negativa debe motivarse",
+      "Cuando la Administración solicitante pertenezca a otra Comunidad Autónoma"
+    ],
+    "correcta": 2,
+    "referencia": "Ley 40/2015 · artículo 141.2 · deber de colaboración",
+    "explicación": "El artículo 141.2 limita la negativa a cuatro supuestos: falta de habilitación normativa, insuficiencia de medios, perjuicio grave a intereses tutelados o funciones propias, e información confidencial o reservada. La negativa debe comunicarse motivadamente.",
+    "tags": [
+      "Pregunta de elaboración propia"
+    ],
+    "explicacion": "El artículo 141.2 de la Ley 40/2015 establece un deber de asistencia y colaboración entre Administraciones. La entidad requerida solo puede negarse si carece de habilitación normativa o medios suficientes, si la asistencia causa un perjuicio grave a los intereses que tutela o a sus funciones, o si la información es confidencial o reservada. La negativa debe comunicarse motivadamente; la mera conveniencia no basta."
   }
 ]

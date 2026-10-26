@@ -155,3 +155,9 @@ Ante un expediente que debe llevarse al Pleno del Ayuntamiento de Burgos, el ord
 - La mayoría simple compara votos a favor y en contra; la absoluta se calcula sobre el número legal.
 - La votación secreta se reserva a elección o destitución de personas conforme al ROF.
 - La certificación la expide Secretaría con visto bueno de Presidencia; el acta recoge la sesión y se aprueba después.
+
+### Fuentes oficiales para actualizar
+
+- [Ley 7/1985, de Bases del Régimen Local (BOE)](https://www.boe.es/eli/es/l/1985/04/02/7/con).
+- [Real Decreto 2568/1986, Reglamento de Organización, Funcionamiento y Régimen Jurídico de las Entidades Locales (BOE)](https://www.boe.es/eli/es/rd/1986/11/28/2568).
+- Reglamento Orgánico Municipal del Ayuntamiento de Burgos y sus modificaciones vigentes.

@@ -43,7 +43,7 @@ El <mark>artículo 140</mark> garantiza la autonomía de los municipios. Estos g
 
 El <mark>artículo 141</mark> define la provincia como entidad local con personalidad jurídica propia, determinada por la agrupación de municipios y división territorial para el cumplimiento de las actividades del Estado. Su gobierno y administración autónoma se encomienda a Diputaciones u otras Corporaciones de carácter representativo. La Constitución permite crear agrupaciones de municipios diferentes de la provincia y regula singularidades insulares.
 
-El <mark>artículo 142</mark> establece el principio de suficiencia financiera de las Haciendas Locales. Las Haciendas locales deben disponer de medios suficientes para el desempeño de las funciones que la ley atribuye a las corporaciones respectivas, y se nutriran fundamentalmente de tributos propios y de participación en los del Estado y de las comunidades autónomas.
+El <mark>artículo 142</mark> establece el principio de suficiencia financiera de las Haciendas Locales. Las Haciendas locales deben disponer de medios suficientes para el desempeño de las funciones que la ley atribuye a las corporaciones respectivas, y se nutrirán fundamentalmente de tributos propios y de participación en los del Estado y de las comunidades autónomas.
 
 Estos artículos conectan directamente con el régimen local que aparece en otros temas del programa, especialmente los relativos a entidades locales, municipio, órganos colegiados, ordenanzas y haciendas locales.
 
@@ -213,7 +213,7 @@ El <mark>artículo 149.3</mark> contiene reglas esenciales para resolver lagunas
 
 Las normas del Estado prevalecen, en caso de conflicto, sobre las de las comunidades autónomas en todo lo que no esté atribuido a la exclusiva competencia de estas. El Derecho estatal es, en todo caso, supletorio del Derecho de las comunidades autónomas.
 
-Esta clausula debe entenderse junto con la jurisprudencia constitucional. La prevalencia no autoriza al Estado a invadir competencias autonómicas, y la supletoriedad no permite dictar normas estatales con la única finalidad de suplir el Derecho autonómico cuando el Estado carece de título competencial propio.
+Esta cláusula debe entenderse junto con la jurisprudencia constitucional. La prevalencia no autoriza al Estado a invadir competencias autonómicas, y la supletoriedad no permite dictar normas estatales con la única finalidad de suplir el Derecho autonómico cuando el Estado carece de título competencial propio.
 
 | Regla del <mark>artículo 149.3</mark> | Aplicación |
 |---|---|
@@ -228,7 +228,7 @@ La autonomía se ejerce bajo control constitucional. El <mark>artículo 153</mar
 
 El <mark>artículo 155</mark> regula un mecanismo excepcional. Si una comunidad autónoma no cumple las obligaciones que la Constitución u otras leyes le impongan, o actúa de forma que atente gravemente al interés general de España, el Gobierno, previo requerimiento al Presidente de la comunidad autónoma y, si no fuera atendido, con aprobación por <mark>mayoría absoluta</mark> del Senado, puede adoptar las medidas necesarias para obligar a aquella al cumplimiento forzoso de dichas obligaciones o para proteger el interés general.
 
-El <mark>artículo 161</mark> atribuye al Tribunal Constitucional el conocimiento de los conflictos de competencia entre el Estado y las comunidades autónomas o de estas entre si.
+El <mark>artículo 161</mark> atribuye al Tribunal Constitucional el conocimiento de los conflictos de competencia entre el Estado y las comunidades autónomas o de estas entre sí.
 
 | Control | Órgano |
 |---|---|

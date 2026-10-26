@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Cuando los hechos no resulten acreditados». El distractor «Cuando los hechos probados no constituyan infracción penal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Cuando los hechos no resulten acreditados»."
   },
   {
     "id": "pdf-2024-burgos-est-q18",
@@ -31,7 +31,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Podrá ser incrementado reglamentariamente». El distractor «No podrá ser incrementado, pero sí reducido legal…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Podrá ser incrementado reglamentariamente»."
   },
   {
     "id": "pdf-2024-burgos-est-q19",
@@ -48,7 +48,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Cuando se concluyera, en cualquier momento, que ha prescrito la infracción». El distractor «Nunca, porque el órgano instructor sólo debe emitir…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Cuando se concluyera, en cualquier momento, que ha prescrito la infracción»."
   },
   {
     "id": "pdf-2023-burgos-q32",
@@ -66,7 +66,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los términos legales. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Seran de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que…». El distractor «Las normas definidoras de sanciones e infracciones seran…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "En materia sancionadora rige la aplicación de las disposiciones vigentes al tiempo de los hechos, salvo retroactividad favorable en los términos legales. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Seran de aplicación las disposiciones sancionadoras vigentes en el momento de producirse los hechos que…»."
   },
   {
     "id": "pdf-2025-burgos-q21",
@@ -84,21 +84,21 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La irretroactividad de las disposiciones sancionadoras se regula en el artículo 26 LRJSP. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Artículo 26. Irretroactividad». El distractor «Artículo 25. Principio de legalidad» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La irretroactividad de las disposiciones sancionadoras se regula en el artículo 26 LRJSP. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Artículo 26. Irretroactividad»."
   },
   {
     "id": "topup-17-02",
     "pregunta": "En potestad sancionadora, el principio de legalidad sancionadora exige:",
     "opciones": [
-      "cobertura normativa suficiente para infracciones y sanciones",
       "libertad total del instructor para fijar la sanción",
       "que toda sanción se imponga por decreto-ley municipal",
-      "que siempre intervenga un juez penal"
+      "que siempre intervenga un juez penal",
+      "cobertura normativa suficiente para infracciones y sanciones"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Principio de legalidad",
     "tema": 17,
-    "explicacion": "No cabe sancionar sin cobertura legal suficiente. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «cobertura normativa suficiente para infracciones y sanciones». El distractor «libertad total del instructor para fijar la sanción» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "No cabe sancionar sin cobertura legal suficiente. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «cobertura normativa suficiente para infracciones y sanciones»."
   },
   {
     "id": "topup-17-03",
@@ -112,49 +112,49 @@
     "correcta": 0,
     "referencia": "II.8 · Principio de tipicidad",
     "tema": 17,
-    "explicacion": "La tipicidad prohíbe sancionar conductas no descritas normativamente. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la conducta debe encajar en una infracción previamente definida». El distractor «puede sancionarse por analogia amplia» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La tipicidad prohíbe sancionar conductas no descritas normativamente. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la conducta debe encajar en una infracción previamente definida»."
   },
   {
     "id": "topup-17-04",
     "pregunta": "En potestad sancionadora, la analogía en materia sancionadora:",
     "opciones": [
-      "no puede utilizarse para sancionar",
       "es obligatoria cuando falte ordenanza",
+      "no puede utilizarse para sancionar",
       "solo vale en materia tributaria",
       "sustituye al principio de legalidad"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.8 · Principio de tipicidad",
     "tema": 17,
-    "explicacion": "No cabe analogia desfavorable al presunto infractor. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «no puede utilizarse para sancionar». El distractor «es obligatoria cuando falte ordenanza» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "No cabe analogia desfavorable al presunto infractor. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «no puede utilizarse para sancionar»."
   },
   {
     "id": "topup-17-05",
     "pregunta": "En potestad sancionadora, la retroactividad favorable en materia sancionadora permite aplicar:",
     "opciones": [
-      "la disposición posterior más beneficiosa",
       "siempre la norma más antigua",
       "solo la ordenanza municipal vigente",
+      "la disposición posterior más beneficiosa",
       "únicamente la norma más gravosa"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.8 · Irretroactividad y retroactividad favorable",
     "tema": 17,
-    "explicacion": "La ley admite retroactividad de la norma sancionadora más favorable. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la disposición posterior más beneficiosa». El distractor «siempre la norma más antigua» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La ley admite retroactividad de la norma sancionadora más favorable. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la disposición posterior más beneficiosa»."
   },
   {
     "id": "topup-17-06",
     "pregunta": "En potestad sancionadora, el principio de responsabilidad en materia sancionadora se dirige a:",
     "opciones": [
-      "las personas físicas o jurídicas responsables de la infracción",
       "cualquier vecino del municipio",
       "solo a autoridades políticas",
-      "exclusivamente a funcionarios de carrera"
+      "exclusivamente a funcionarios de carrera",
+      "las personas físicas o jurídicas responsables de la infracción"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Principio de responsabilidad",
     "tema": 17,
-    "explicacion": "La responsabilidad exige identificar al sujeto responsable conforme a la norma. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «las personas físicas o jurídicas responsables de la infracción». El distractor «cualquier vecino del municipio» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La responsabilidad exige identificar al sujeto responsable conforme a la norma. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «las personas físicas o jurídicas responsables de la infracción»."
   },
   {
     "id": "topup-17-07",
@@ -168,49 +168,49 @@
     "correcta": 0,
     "referencia": "II.8 · Principios del ejercicio",
     "tema": 17,
-    "explicacion": "No puede haber doble sanción por identidad de sujeto, hecho y fundamento. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «sancionar dos veces por los mismos hechos, sujeto y fundamento». El distractor «tramitar audiencia al interesado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "No puede haber doble sanción por identidad de sujeto, hecho y fundamento. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «sancionar dos veces por los mismos hechos, sujeto y fundamento»."
   },
   {
     "id": "topup-17-08",
     "pregunta": "En potestad sancionadora, la proporcionalidad sancionadora exige que la sanción:",
     "opciones": [
-      "guarde adecuada relación con la gravedad de la infracción",
       "sea siempre la máxima posible",
+      "guarde adecuada relación con la gravedad de la infracción",
       "sea siempre económica",
       "se imponga sin motivación"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.8 · Principio de proporcionalidad",
     "tema": 17,
-    "explicacion": "La sanción debe graduarse razonablemente según la infracción y circunstancias. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «guarde adecuada relación con la gravedad de la infracción». El distractor «sea siempre la máxima posible» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La sanción debe graduarse razonablemente según la infracción y circunstancias. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «guarde adecuada relación con la gravedad de la infracción»."
   },
   {
     "id": "topup-17-09",
     "pregunta": "En potestad sancionadora, la presunción de inocencia en el procedimiento sancionador implica que:",
     "opciones": [
-      "la Administración debe acreditar los hechos",
       "el interesado debe probar siempre su inocencia",
       "la denuncia vale como prueba definitiva",
+      "la Administración debe acreditar los hechos",
       "la multa puede imponerse sin expediente"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.8 · Garantías del procedimiento sancionador",
     "tema": 17,
-    "explicacion": "Corresponde a la Administración probar los hechos constitutivos de la infracción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la Administración debe acreditar los hechos». El distractor «el interesado debe probar siempre su inocencia» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Corresponde a la Administración probar los hechos constitutivos de la infracción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la Administración debe acreditar los hechos»."
   },
   {
     "id": "topup-17-11",
     "pregunta": "En potestad sancionadora, la iniciación del procedimiento sancionador debe identificar al menos:",
     "opciones": [
-      "hechos, posible responsable y sanciones que pudieran corresponder",
       "solo el nombre del instructor",
       "solo el órgano judicial competente",
-      "el presupuesto municipal afectado"
+      "el presupuesto municipal afectado",
+      "hechos, posible responsable y sanciones que pudieran corresponder"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Iniciación del procedimiento",
     "tema": 17,
-    "explicacion": "La incoación debe concretar los elementos básicos de la imputación. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «hechos, posible responsable y sanciones que pudieran corresponder». El distractor «solo el nombre del instructor» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La incoación debe concretar los elementos básicos de la imputación. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «hechos, posible responsable y sanciones que pudieran corresponder»."
   },
   {
     "id": "topup-17-12",
@@ -224,49 +224,49 @@
     "correcta": 0,
     "referencia": "II.8 · Audiencia y prueba",
     "tema": 17,
-    "explicacion": "La audiencia garantiza contradicción y defensa del interesado. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «formular alegaciones y proponer prueba». El distractor «aprobar la ordenanza aplicable» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La audiencia garantiza contradicción y defensa del interesado. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «formular alegaciones y proponer prueba»."
   },
   {
     "id": "topup-17-13",
     "pregunta": "En potestad sancionadora, la resolución sancionadora debe ser:",
     "opciones": [
-      "motivada y congruente con los hechos probados",
       "verbal y sin firma",
+      "motivada y congruente con los hechos probados",
       "siempre secreta",
       "dictada por el denunciante"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.8 · Resolución",
     "tema": 17,
-    "explicacion": "La resolución final ha de motivar hechos, fundamento y sanción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «motivada y congruente con los hechos probados». El distractor «verbal y sin firma» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La resolución final ha de motivar hechos, fundamento y sanción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «motivada y congruente con los hechos probados»."
   },
   {
     "id": "topup-17-15",
     "pregunta": "Las ordenanzas locales pueden tipificar infracciones y sanciones:",
     "opciones": [
-      "dentro de los límites legales",
       "sin necesidad de cobertura legal alguna",
       "solo por acuerdo del alcalde",
+      "dentro de los límites legales",
       "incluso con penas privativas de libertad"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.8 · Potestad sancionadora local",
     "tema": 17,
-    "explicacion": "La potestad ordenancista local debe respetar la ley y la reserva de ley sancionadora. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «dentro de los límites legales». El distractor «sin necesidad de cobertura legal alguna» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La potestad ordenancista local debe respetar la ley y la reserva de ley sancionadora. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «dentro de los límites legales»."
   },
   {
     "id": "topup-17-16",
     "pregunta": "En potestad sancionadora, la separación entre fase instructora y resolutoria busca garantizar:",
     "opciones": [
-      "imparcialidad del procedimiento",
       "mayor recaudación",
       "publicidad activa",
-      "sustitución del trámite de prueba"
+      "sustitución del trámite de prueba",
+      "imparcialidad del procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Garantías procedimentales",
     "tema": 17,
-    "explicacion": "La separación funcional refuerza la objetividad en la decisión sancionadora. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «imparcialidad del procedimiento». El distractor «mayor recaudación» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La separación funcional refuerza la objetividad en la decisión sancionadora. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «imparcialidad del procedimiento»."
   },
   {
     "id": "topup-17-17",
@@ -280,49 +280,49 @@
     "correcta": 0,
     "referencia": "II.8 · Medidas sancionadoras",
     "tema": 17,
-    "explicacion": "La Administración no puede imponer penas privativas de libertad. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «privativa de libertad». El distractor «motivada» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La Administración no puede imponer penas privativas de libertad. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «privativa de libertad»."
   },
   {
     "id": "refine-17-01",
     "pregunta": "Para apreciar vulneración del principio non bis in idem en materia sancionadora debe existir identidad de:",
     "opciones": [
-      "sujeto, hecho y fundamento",
       "órgano, territorio y plazo",
+      "sujeto, hecho y fundamento",
       "procedimiento, recurso y prueba",
       "norma, reglamento y costumbre"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.8 · Principios de la potestad sancionadora",
     "tema": 17,
-    "explicacion": "La prohibición de doble sanción exige identidad de sujeto, hechos y fundamento. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «sujeto, hecho y fundamento». El distractor «órgano, territorio y plazo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La prohibición de doble sanción exige identidad de sujeto, hechos y fundamento. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «sujeto, hecho y fundamento»."
   },
   {
     "id": "refine-17-02",
     "pregunta": "En potestad sancionadora, las medidas provisionales en un procedimiento sancionador deben ser:",
     "opciones": [
-      "proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolución final",
       "automaticas y siempre pecuniarias",
       "identicas a la sanción definitiva",
+      "proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolución final",
       "acordadas solo al final del procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.8 · Medidas provisionales",
     "tema": 17,
-    "explicacion": "Las medidas provisionales no son sanciones anticipadas: deben ser necesarias, proporcionadas y motivadas. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolución final». El distractor «automaticas y siempre pecuniarias» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Las medidas provisionales no son sanciones anticipadas: deben ser necesarias, proporcionadas y motivadas. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «proporcionadas, motivadas y orientadas a asegurar la eficacia de la resolución final»."
   },
   {
     "id": "refine-17-03",
     "pregunta": "En potestad sancionadora, la separación entre fase instructora y fase resolutoria en el procedimiento sancionador persigue reforzar especialmente la:",
     "opciones": [
-      "imparcialidad y objetividad",
       "recaudación inmediata",
       "publicidad activa",
-      "automaticidad de la sanción"
+      "automaticidad de la sanción",
+      "imparcialidad y objetividad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Procedimiento sancionador",
     "tema": 17,
-    "explicacion": "La diferenciación entre instructor y órgano resolutor sirve para garantizar mayor imparcialidad. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «imparcialidad y objetividad». El distractor «recaudación inmediata» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La diferenciación entre instructor y órgano resolutor sirve para garantizar mayor imparcialidad. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «imparcialidad y objetividad»."
   },
   {
     "id": "refine-17-05",
@@ -336,49 +336,49 @@
     "correcta": 0,
     "referencia": "Procedimiento sancionador · resolución",
     "tema": 17,
-    "explicacion": "La resolución debe fijar los hechos, su calificación, la persona responsable y la sanción o, en su caso, declarar la inexistencia de infracción o responsabilidad. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Los hechos, su calificación jurídica, la persona responsable y la sanción impuesta o la declaración…». El distractor «Únicamente la cuantía económica de la multa, si…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La resolución debe fijar los hechos, su calificación, la persona responsable y la sanción o, en su caso, declarar la inexistencia de infracción o responsabilidad. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Los hechos, su calificación jurídica, la persona responsable y la sanción impuesta o la declaración…»."
   },
   {
     "id": "realstyle-ii08-01",
     "tema": 17,
     "pregunta": "Según la LRJSP, en la graduación de la sanción deberá observarse la debida idoneidad y necesidad de la sanción a imponer y su adecuación a la gravedad del hecho, atendiendo, entre otros criterios, a:",
     "opciones": [
-      "El grado de culpabilidad o la existencia de intencionalidad",
       "La nacionalidad del presunto responsable",
+      "El grado de culpabilidad o la existencia de intencionalidad",
       "La antigüedad del instructor del expediente",
       "La cuantía del presupuesto municipal"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Revisión test reales · art. 29 LRJSP",
-    "explicacion": "El art. 29 LRJSP recoge criterios de proporcionalidad como culpabilidad, continuidad, perjuicios y reincidencia. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «El grado de culpabilidad o la existencia de intencionalidad». El distractor «La nacionalidad del presunto responsable» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El art. 29 LRJSP recoge criterios de proporcionalidad como culpabilidad, continuidad, perjuicios y reincidencia. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «El grado de culpabilidad o la existencia de intencionalidad»."
   },
   {
     "id": "realstyle-ii08-02",
     "tema": 17,
     "pregunta": "En materia sancionadora, la reincidencia como criterio de graduación exige la comisión de más de una infracción de la misma naturaleza cuando así haya sido declarado por:",
     "opciones": [
-      "Resolución firme en vía administrativa",
       "Informe del instructor, aunque no sea firme",
       "Simple denuncia de un particular",
+      "Resolución firme en vía administrativa",
       "Acuerdo verbal del órgano competente"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Revisión test reales · reincidencia sancionadora",
-    "explicacion": "La reincidencia exige declaración por resolución firme en vía administrativa. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Resolución firme en vía administrativa». El distractor «Informe del instructor, aunque no sea firme» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La reincidencia exige declaración por resolución firme en vía administrativa. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Resolución firme en vía administrativa»."
   },
   {
     "id": "burgos-ii08-deep-01",
     "tema": 17,
     "pregunta": "Según el artículo 30 de la Ley 40/2015, si la ley sectorial no fija otro plazo, las infracciones administrativas muy graves prescriben a los:",
     "opciones": [
-      "3 años",
       "2 años",
       "1 año",
-      "6 meses"
+      "6 meses",
+      "3 años"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Prescripción de infracciones",
-    "explicacion": "El plazo supletorio es de 3 años para las infracciones muy graves, 2 para las graves y 1 para las leves. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «3 años». El distractor «2 años» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El plazo supletorio es de 3 años para las infracciones muy graves, 2 para las graves y 1 para las leves. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «3 años»."
   },
   {
     "id": "burgos-ii08-deep-02",
@@ -392,49 +392,49 @@
     ],
     "correcta": 0,
     "referencia": "II.8 · Caducidad y prescripción",
-    "explicacion": "La caducidad afecta al procedimiento concreto. Puede iniciarse otro cuando proceda, siempre que no haya prescrito la infracción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «termina el expediente, pero no impide otro si la infracción no ha prescrito». El distractor «declara probada la infracción» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La caducidad afecta al procedimiento concreto. Puede iniciarse otro cuando proceda, siempre que no haya prescrito la infracción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «termina el expediente, pero no impide otro si la infracción no ha prescrito»."
   },
   {
     "id": "burgos-ii08-deep-03",
     "tema": 17,
     "pregunta": "¿Cuál de estos datos debe figurar en el acuerdo de iniciación de un procedimiento sancionador?",
     "opciones": [
-      "Los hechos, su posible calificación y las sanciones que pudieran corresponder",
       "La sentencia penal que declare la responsabilidad",
+      "Los hechos, su posible calificación y las sanciones que pudieran corresponder",
       "La sanción ya ejecutada",
       "La renuncia anticipada del interesado a recurrir"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.8 · Artículo 64 LPAC",
-    "explicacion": "El acuerdo de iniciación debe concretar la imputación inicial, el instructor, el órgano resolutor, las medidas y los derechos de defensa. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Los hechos, su posible calificación y las sanciones que pudieran corresponder». El distractor «La sentencia penal que declare la responsabilidad» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El acuerdo de iniciación debe concretar la imputación inicial, el instructor, el órgano resolutor, las medidas y los derechos de defensa. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «Los hechos, su posible calificación y las sanciones que pudieran corresponder»."
   },
   {
     "id": "burgos-ii08-deep-04",
     "tema": 17,
     "pregunta": "En un procedimiento sancionador, la resolución no puede aceptar:",
     "opciones": [
-      "hechos distintos de los determinados durante la instrucción",
       "una valoración jurídica distinta de la propuesta, con las garantías legales",
       "la declaración de inexistencia de responsabilidad",
+      "hechos distintos de los determinados durante la instrucción",
       "el archivo cuando la infracción haya prescrito"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.8 · Resolución sancionadora",
-    "explicacion": "El artículo 90 LPAC impide resolver sobre hechos distintos de los fijados en la instrucción, aunque permite una distinta valoración jurídica con audiencia cuando proceda. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «hechos distintos de los determinados durante la instrucción». El distractor «una valoración jurídica distinta de la propuesta, con…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 90 LPAC impide resolver sobre hechos distintos de los fijados en la instrucción, aunque permite una distinta valoración jurídica con audiencia cuando proceda. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «hechos distintos de los determinados durante la instrucción»."
   },
   {
     "id": "burgos-ii08-deep-05",
     "tema": 17,
     "pregunta": "Las reducciones del artículo 85 LPAC por reconocimiento de responsabilidad y pago voluntario son, cuando proceden:",
     "opciones": [
-      "de al menos el 20% cada una y acumulables",
       "siempre del 10% y no acumulables",
       "del 50% en conjunto como máximo",
-      "incompatibles con la terminación anterior a la resolución"
+      "incompatibles con la terminación anterior a la resolución",
+      "de al menos el 20% cada una y acumulables"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Reconocimiento y pago voluntario",
-    "explicacion": "Cada reducción debe ser de al menos el 20% y puede acumularse con la otra; su efectividad exige renunciar a recursos administrativos en los términos legales. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «de al menos el 20% cada una y acumulables». El distractor «siempre del 10% y no acumulables» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Cada reducción debe ser de al menos el 20% y puede acumularse con la otra; su efectividad exige renunciar a recursos administrativos en los términos legales. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «de al menos el 20% cada una y acumulables»."
   },
   {
     "id": "burgos-ii08-deep-06",
@@ -448,49 +448,49 @@
     ],
     "correcta": 0,
     "referencia": "II.8 · Medidas provisionales",
-    "explicacion": "La medida provisional es instrumental y temporal; debe ser legal, motivada, necesaria y proporcionada y no equivale a una sanción anticipada. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «asegurar la eficacia de la resolución y evitar la continuidad de efectos dañosos». El distractor «anticipar la sanción sin prueba» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La medida provisional es instrumental y temporal; debe ser legal, motivada, necesaria y proporcionada y no equivale a una sanción anticipada. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «asegurar la eficacia de la resolución y evitar la continuidad de efectos dañosos»."
   },
   {
     "id": "burgos-ii08-deep-07",
     "tema": 17,
     "pregunta": "En defecto de normativa sectorial específica, el artículo 139 LRBRL permite a las entidades locales tipificar por ordenanza infracciones para:",
     "opciones": [
-      "ordenar la convivencia local y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos",
       "crear delitos y penas privativas de libertad",
+      "ordenar la convivencia local y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos",
       "regular cualquier materia estatal sin límites",
       "sustituir todas las leyes sectoriales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.8 · Potestad sancionadora local",
-    "explicacion": "El Título XI LRBRL habilita esa tipificación subsidiaria para relaciones de convivencia y uso de medios y espacios públicos de interés local. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «ordenar la convivencia local y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos». El distractor «crear delitos y penas privativas de libertad» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El Título XI LRBRL habilita esa tipificación subsidiaria para relaciones de convivencia y uso de medios y espacios públicos de interés local. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «ordenar la convivencia local y el uso de servicios, equipamientos, infraestructuras, instalaciones y espacios públicos»."
   },
   {
     "id": "burgos-ii08-deep-08",
     "tema": 17,
     "pregunta": "Salvo previsión legal distinta, la multa máxima por una infracción grave tipificada conforme al artículo 141 LRBRL es de:",
     "opciones": [
-      "1.500 euros",
       "3.000 euros",
       "750 euros",
+      "1.500 euros",
       "6.000 euros"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.8 · Artículo 141 LRBRL",
-    "explicacion": "Los topes subsidiarios son 3.000 euros para muy graves, 1.500 para graves y 750 para leves. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «1.500 euros». El distractor «3.000 euros» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Los topes subsidiarios son 3.000 euros para muy graves, 1.500 para graves y 750 para leves. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «1.500 euros»."
   },
   {
     "id": "burgos-ii08-deep-09",
     "tema": 17,
     "pregunta": "Para aplicar el principio non bis in idem deben coincidir:",
     "opciones": [
-      "sujeto, hechos y fundamento",
       "órgano, domicilio y plazo",
       "denunciante, instructor y sanción",
-      "ley, reglamento y ordenanza"
+      "ley, reglamento y ordenanza",
+      "sujeto, hechos y fundamento"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.8 · Non bis in idem",
-    "explicacion": "La triple identidad de sujeto, hechos y fundamento es la referencia esencial para impedir la doble sanción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «sujeto, hechos y fundamento». El distractor «órgano, domicilio y plazo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La triple identidad de sujeto, hechos y fundamento es la referencia esencial para impedir la doble sanción. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «sujeto, hechos y fundamento»."
   },
   {
     "id": "burgos-ii08-deep-10",
@@ -504,6 +504,6 @@
     ],
     "correcta": 0,
     "referencia": "II.8 · Método para supuestos locales",
-    "explicacion": "La solución exige identificar la norma tipificadora, el órgano competente, la conducta probada, los plazos y la proporcionalidad; la denuncia no sustituye ese análisis. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la ley sectorial u ordenanza aplicable, la competencia del órgano y el plazo». El distractor «solo quién formuló la denuncia» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La solución exige identificar la norma tipificadora, el órgano competente, la conducta probada, los plazos y la proporcionalidad; la denuncia no sustituye ese análisis. La norma aplicable —los artículos 25–31 de la Ley 40/2015 y 63–90 de la Ley 39/2015— establece «la ley sectorial u ordenanza aplicable, la competencia del órgano y el plazo»."
   }
 ]

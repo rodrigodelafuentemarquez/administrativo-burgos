@@ -37,7 +37,7 @@ Las personas físicas pueden elegir canal, salvo que estén obligadas. Sí está
 
 La atención se basa en la igualdad de oportunidades, la no discriminación, la accesibilidad universal, el diseño para todas las personas, la autonomía personal y los ajustes razonables. La discapacidad resulta de la interacción entre deficiencias y barreras; por ello, la respuesta administrativa debe eliminar o reducir barreras físicas, sensoriales, cognitivas, comunicativas y digitales.
 
-A efectos generales del texto refundido aprobado por el Real Decreto Legislativo 1/2013, tienen la consideración legal de personas con discapacidad quienes presentan deficiencias previsiblemente permanentes que, al interactuar con barreras, impiden su participación plena y efectiva, y quienes tienen reconocido un grado igual o superior al **33 %**, además de los supuestos legalmente equiparados.
+A efectos generales del texto refundido aprobado por el Real Decreto Legislativo 1/2013, tienen la consideración legal de personas con discapacidad quienes presentan deficiencias previsiblemente permanentes que, al interactuar con barreras, impiden su participación plena y efectiva, y quienes tienen reconocido un grado igual o superior al **33 %**, además de los supuestos legalmente equiparados. Desde el **23 de octubre de 2026**, la Ley 4/2026 equipara, a efectos del TRLGDPD, a una discapacidad del 33 % el reconocimiento oficial de dependencia de grado I, y al 65 % los grados II y III. La propia reforma limita los efectos de esta asimilación a los ámbitos previstos por ley o por otras normas que la contemplen expresamente, y excluye el ámbito tributario. Por tanto, no debe trasladarse automáticamente a cualquier norma que exija acreditar discapacidad; hay que comprobar su ámbito y las remisiones que establezca. Tampoco debe confundirse con que toda discapacidad implique dependencia.
 
 Medidas de atención adecuadas:
 
@@ -155,4 +155,6 @@ Una persona pregunta por el estado de una ayuda solicitada por su hermana. La in
 - Real Decreto 951/2005, de 29 de julio, marco general de calidad en la AGE.
 - Ley 7/1985, especialmente artículos 18, 121 y 132.
 - Ley Orgánica 4/2001, de 12 de noviembre, reguladora del derecho de petición.
-- Real Decreto Legislativo 1/2013, especialmente artículos 2, 4, 5, 7, 22, 23 y 70.
+- Real Decreto Legislativo 1/2013, especialmente artículos 2, 4, 5, 7, 22, 23 y 70, en la redacción vigente tras la Ley 4/2026, de 1 de octubre (en vigor desde el 23 de octubre de 2026).
+
+- Ley 4/2026, de 1 de octubre, de modificación del TRLGDPD y de la Ley 39/2006, en particular la equivalencia legal entre determinados grados de dependencia y discapacidad a efectos del TRLGDPD.

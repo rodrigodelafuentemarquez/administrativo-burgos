@@ -2,6 +2,7 @@
 import { getCollection } from 'astro:content';
 import Layout from '../layouts/Layout.astro';
 import { officialGroups } from '../data/burgosSyllabus';
+import { developmentExamples } from '../data/developmentExamples';
 
 const base = import.meta.env.BASE_URL.endsWith('/') ? import.meta.env.BASE_URL : `${import.meta.env.BASE_URL}/`;
 const programEntries = await getCollection('programa');
@@ -27,6 +28,10 @@ const extractOutline = (body: string) =>
     .slice(0, 12);
 
 const topicSlug = (grupo: string, numero: number) => `grupo-${grupo.toLowerCase()}-tema-${String(numero).padStart(2, '0')}`;
+const examplesByPool = {
+  'I-II': developmentExamples.filter((example) => example.exercisePool === 'I-II').length,
+  'III-V': developmentExamples.filter((example) => example.exercisePool === 'III-V').length,
+};
 
 const developmentBlocks = [
   {
@@ -47,7 +52,7 @@ const developmentBlocks = [
 <Layout title="Tercer ejercicio">
   <div class="bd-intro ps-lg-2">
     <h1 class="bd-title">Tercer ejercicio</h1>
-    <p class="bd-subtitle mb-0">Indices y esquemas de lectura rapida para memorizar la estructura de cada tema antes del desarrollo escrito.</p>
+    <p class="bd-subtitle mb-0">Entrena el tercer ejercicio con modelos explicados de ambos bloques y esquemas de los temas oficiales.</p>
   </div>
 
   <section class="bd-content ps-lg-2">
@@ -55,7 +60,7 @@ const developmentBlocks = [
       <div class="official-group-heading">
         <div>
           <h2>Cómo usar esta sección<a class="anchor-link" aria-label="Enlace a esta sección" href="#como-se-prepara"></a></h2>
-          <p>No sustituye al tema completo: sirve para fijar orden, bloques y puntos de apoyo antes de escribir. La idea es leer estos indices muchas veces para que la estructura salga sola.</p>
+          <p>La convocatoria extrae dos temas de los grupos I-II y dos de los grupos III-V. Se descarta uno de cada pareja y se desarrollan los otros dos en un máximo de dos horas. Los modelos ayudan a practicar estructura y precisión; no sustituyen el estudio de los temas completos.</p>
         </div>
         <span class="badge text-bg-secondary">2 temas en 2 horas</span>
       </div>
@@ -83,6 +88,50 @@ const developmentBlocks = [
             </div>
           </div>
         </article>
+      </div>
+    </section>
+
+    <section class="official-group" id="ejemplos-redaccion">
+      <div class="official-group-heading">
+        <div>
+          <h2>Modelos de desarrollo escrito<a class="anchor-link" aria-label="Enlace a modelos de desarrollo" href="#ejemplos-redaccion"></a></h2>
+          <p>Cinco modelos por cada bloque de sorteo. Cada uno incluye una consigna, un orden posible, una respuesta breve y una explicación de sus decisiones.</p>
+          <p class="small text-body-secondary mb-0">El formato del ejercicio se recoge en la base cuarta de las <a href={`${base}convocatoria/bases-administrativo-burgos-2026-bop.pdf`} target="_blank" rel="noreferrer">bases oficiales C1 de Burgos, BOPBUR n.º 95/2026</a>.</p>
+        </div>
+        <span class="badge text-bg-secondary">{examplesByPool['I-II']} + {examplesByPool['III-V']} modelos</span>
+      </div>
+      <div class="official-topic-list">
+        {developmentExamples.map((example, index) => {
+          const [group, number] = example.topic.split('.');
+          const topicHref = `${base}programa/${topicSlug(group, Number(number))}`;
+          return (
+            <article class="official-topic" id={example.id}>
+              <div class="official-topic-main">
+                <div class="official-topic-number">{index + 1}</div>
+                <div class="official-topic-body">
+                  <div class="official-topic-meta">
+                    <span class="badge text-bg-primary">Tema {example.topic}</span>
+                    <span class="badge text-bg-info">Bloque {example.exercisePool}</span>
+                  </div>
+                  <h3>{example.title}</h3>
+                  <p><strong>Consigna:</strong> {example.prompt}</p>
+                  <h4 class="h6">Orden posible</h4>
+                  <ol>{example.structure.map((item) => <li>{item}</li>)}</ol>
+                  <h4 class="h6">Respuesta modelo breve</h4>
+                  <p>{example.modelAnswer}</p>
+                  <div class="card border-0 bg-body-tertiary mb-3">
+                    <div class="card-body">
+                      <h4 class="h6">Por qué funciona</h4>
+                      <p class="mb-2">{example.whyItWorks}</p>
+                      <p class="small mb-0"><strong>Normas de referencia:</strong> {example.legalTexts.join(' · ')}</p>
+                    </div>
+                  </div>
+                  <a class="btn btn-sm btn-outline-primary" href={topicHref}>Abrir tema completo</a>
+                </div>
+              </div>
+            </article>
+          );
+        })}
       </div>
     </section>
 

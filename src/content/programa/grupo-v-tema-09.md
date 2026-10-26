@@ -65,6 +65,10 @@ El software libre se define por las libertades de usar, estudiar, modificar y re
 
 El **sistema operativo** administra procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y proporciona la interfaz para ejecutar aplicaciones. Windows 11 es un sistema operativo de Microsoft con interfaz gráfica, escritorio, ventanas, menú Inicio, barra de tareas, Configuración y Explorador de archivos.
 
+### Centro de notificaciones de Windows 11
+
+Las alertas se consultan en el **Centro de notificaciones**, que se abre desde el reloj o icono de notificación de la barra de tareas o con `Windows + N`. «Centro de actividades» es la denominación anterior de Windows 10.
+
 ## 4. Especial referencia a Windows 11
 
 ### 4.1. Elementos básicos

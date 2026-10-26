@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Es el expediente administrativo». El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución. La alternativa «Es el registro administrativo» no satisface ese criterio; aquí se aplica «Es el expediente administrativo»."
+    "explicacion": "La respuesta correcta es «Es el expediente administrativo». El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución."
   },
   {
     "id": "pdf-2024-burgos-est-q39",
@@ -31,7 +31,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Los interesados se responsabilizan de la veracidad de…». La alternativa «El empleado público es responsable de la veracidad…» no satisface ese criterio; aquí se aplica «Los interesados se responsabilizan de la veracidad de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 28.7 LPAC atribuye al interesado la responsabilidad sobre la veracidad de los documentos que aporta, sin perjuicio de las comprobaciones de la Administración."
   },
   {
     "id": "pdf-2024-burgos-est-q40",
@@ -48,7 +48,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Solicitud». La alternativa «Informe» no satisface ese criterio; aquí se aplica «Solicitud». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La solicitud es un documento particular porque la formula la persona interesada para iniciar un procedimiento o pedir una actuación administrativa."
   },
   {
     "id": "pdf-2024-burgos-est-q43",
@@ -65,7 +65,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «La entrada o salida del registro». La alternativa «Su fecha de despacho» no satisface ese criterio; aquí se aplica «La entrada o salida del registro». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El número de orden identifica correlativamente la entrada o salida del documento en el registro y ayuda a localizar el asiento."
   },
   {
     "id": "pdf-2023-burgos-q48-doc",
@@ -83,77 +83,77 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "Los documentos electrónicos con efectos sobre derechos o intereses de particulares deben conservarse en soporte electrónico. La alternativa «El Archivo General de la Administración» no satisface ese criterio; aquí se aplica «Soportes de naturaleza electrónica». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 46 LRJSP dispone que los documentos electrónicos que contengan actos que afecten a derechos o intereses se conserven en soportes electrónicos, con medidas que garanticen su autenticidad, integridad y conservación."
   },
   {
     "id": "t32-p001",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, un documento es:",
     "opciones": [
-      "cualquier soporte material o digital que contiene información y puede ser leído, reproducido o percibido",
       "solo un escrito en papel firmado",
       "únicamente un archivo electrónico con firma",
-      "solo una resolución administrativa"
+      "solo una resolución administrativa",
+      "cualquier soporte material o digital que contiene información y puede ser leído, reproducido o percibido"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 1.1 Concepto general de documento",
-    "explicacion": "La respuesta correcta es «cualquier soporte material o digital que contiene información…». La alternativa «solo un escrito en papel firmado» no satisface ese criterio; aquí se aplica «cualquier soporte material o digital que contiene información…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Un documento es información fijada en un soporte que puede identificarse, leerse, reproducirse o tratarse; puede ser físico o electrónico."
   },
   {
     "id": "t32-p002",
     "tema": 39,
-    "pregunta": "El documento administrativo es aquel que ha sido producido, recibido o gestionado por:",
+    "pregunta": "Según el artículo 26 de la Ley 39/2015, un documento público administrativo es el que ha sido válidamente emitido por:",
     "opciones": [
-      "una Administración Pública en el ejercicio de sus competencias",
-      "un particular sin intervención administrativa",
-      "un juzgado exclusivamente",
-      "una empresa privada sin relación pública"
+      "un órgano de una Administración Pública",
+      "cualquier particular que lo presente por registro",
+      "un órgano judicial exclusivamente",
+      "una empresa privada, aunque actúe por cuenta propia"
     ],
     "correcta": 0,
-    "referencia": "V.8 · 1.2 El documento administrativo: concepto",
-    "explicacion": "La respuesta correcta es «una Administración Pública en el ejercicio de sus…». La alternativa «una empresa privada sin relación pública» no satisface ese criterio; aquí se aplica «una Administración Pública en el ejercicio de sus…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "referencia": "Ley 39/2015 · art. 26.1",
+    "explicacion": "El artículo 26.1 considera documentos públicos administrativos los válidamente emitidos por los órganos de las Administraciones Públicas. Que un particular presente un escrito en registro no lo convierte en documento público administrativo."
   },
   {
     "id": "t32-p003",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, una carácterística del documento administrativo es la:",
     "opciones": [
-      "autenticidad",
       "aleatoriedad",
+      "autenticidad",
       "imprecisión",
       "opcionalidad"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 1.3 Carácterísticas del documento administrativo",
-    "explicacion": "La respuesta correcta es «autenticidad». La alternativa «aleatoriedad» no satisface ese criterio; aquí se aplica «autenticidad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La autenticidad permite comprobar que el documento procede del órgano o persona que figura como emisor; integridad y disponibilidad son garantías distintas."
   },
   {
     "id": "t32-p004",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, la copia auténtica:",
     "opciones": [
-      "tiene la misma validez y eficacia que el documento original",
       "solo sirve como recuerdo",
       "carece de valor probatorio",
+      "tiene la misma validez y eficacia que el documento original",
       "no puede expedirse electrónicamente"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 1.5 Copias de documentos",
-    "explicacion": "La respuesta correcta es «tiene la misma validez y eficacia que el…». Una copia auténtica acredita identidad e integridad con intervención competente; una reproducción simple no obtiene esa condición por el mero escaneo. La alternativa «solo sirve como recuerdo» no satisface ese criterio; aquí se aplica «tiene la misma validez y eficacia que el…»."
+    "explicacion": "La respuesta correcta es «tiene la misma validez y eficacia que el…». Una copia auténtica acredita identidad e integridad con intervención competente; una reproducción simple no obtiene esa condición por el mero escaneo."
   },
   {
     "id": "t32-p005",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, un documento de decisión puede ser una:",
     "opciones": [
-      "resolución",
       "copia simple",
       "diligencia",
-      "guía"
+      "guía",
+      "resolución"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 2.1.1 Documentos de decisión",
-    "explicacion": "La respuesta correcta es «resolución». La alternativa «copia simple» no satisface ese criterio; aquí se aplica «resolución». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La resolución expresa una decisión de la Administración sobre un asunto. Se distingue de un informe, que normalmente aporta valoración o asesoramiento."
   },
   {
     "id": "t32-p006",
@@ -167,49 +167,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 2.1.2 Documentos de constancia",
-    "explicacion": "La respuesta correcta es «constancia». La alternativa «decisión» no satisface ese criterio; aquí se aplica «constancia». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El acta deja constancia de hechos, deliberaciones, asistentes o acuerdos. No es por sí misma una resolución sobre el fondo del procedimiento."
   },
   {
     "id": "t32-p007",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, los archivos de gestión, custodian:",
     "opciones": [
-      "expedientes en tramitación o recién terminados, de uso frecuente",
       "solo documentos históricos",
+      "expedientes en tramitación o recién terminados, de uso frecuente",
       "únicamente libros contables",
       "solo expedientes sancionadores"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 3.2.1 Archivo de oficina o de gestión",
-    "explicacion": "La respuesta correcta es «expedientes en tramitación o recién terminados de uso…». La alternativa «solo expedientes sancionadores» no satisface ese criterio; aquí se aplica «expedientes en tramitación o recién terminados de uso…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El archivo de gestión conserva los expedientes en trámite y los finalizados que las unidades consultan con frecuencia, antes de su transferencia."
   },
   {
     "id": "t32-p008",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el archivo histórico conserva documentos:",
     "opciones": [
-      "de valor histórico, artístico, cultural o científico de forma permanente",
       "solo durante 5 años",
       "sin valor probatorio alguno",
+      "de valor histórico, artístico, cultural o científico de forma permanente",
       "exclusivamente tributarios"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 3.2.3 Archivo histórico",
-    "explicacion": "La respuesta correcta es «de valor histórico artístico cultural o científico de…». La alternativa «sin valor probatorio alguno» no satisface ese criterio; aquí se aplica «de valor histórico artístico cultural o científico de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El archivo histórico conserva permanentemente documentos valorados por su interés patrimonial, cultural o científico, conforme a las reglas archivísticas."
   },
   {
     "id": "t32-p009",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el cuadro de clasificación es:",
     "opciones": [
-      "La estructura jerárquica que organiza los documentos según funciones, actividades y series documentales",
       "El inventario topográfico que localiza físicamente las cajas en el depósito",
       "El índice nominal de personas o entidades citadas en un expediente",
-      "La relación cronológica de transferencias realizadas al archivo histórico"
+      "La relación cronológica de transferencias realizadas al archivo histórico",
+      "La estructura jerárquica que organiza los documentos según funciones, actividades y series documentales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Archivística · cuadro de clasificación",
-    "explicacion": "El cuadro de clasificación ordena la documentación conforme a las funciones y series, y no se confunde con otros instrumentos descriptivos. La alternativa «El inventario topográfico que localiza físicamente las cajas…» no satisface ese criterio; aquí se aplica «La estructura jerárquica que organiza los documentos según…»."
+    "explicacion": "El cuadro de clasificación ordena la documentación conforme a las funciones y series, y no se confunde con otros instrumentos descriptivos."
   },
   {
     "id": "t32-p010",
@@ -223,49 +223,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 3.4 Clasificación, ordenación y signatura topográfica",
-    "explicacion": "La respuesta correcta es «la ubicación física exacta de un documento dentro…». La alternativa «la fecha de nacimiento del interesado» no satisface ese criterio; aquí se aplica «la ubicación física exacta de un documento dentro…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La signatura topográfica permite localizar físicamente una unidad documental dentro del depósito; no describe su contenido ni su serie."
   },
   {
     "id": "t32-p011",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, la eliminación de documentos requiere:",
     "opciones": [
-      "un expediente de expurgo con autorización del órgano competente",
       "la decisión unilateral del archivero",
+      "un expediente de expurgo con autorización del órgano competente",
       "la firma del alcalde sin más",
       "la consulta de la comisión de fiestas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 3.5 La evaluación y selección documental: eliminación y conservación",
-    "explicacion": "La respuesta correcta es «un expediente de expurgo con autorización del órgano…». La eliminación exige evaluación documental, plazos de conservación y autorización conforme a la normativa archivística; no depende de una decisión individual. La alternativa «la decisión unilateral del archivero» no satisface ese criterio; aquí se aplica «un expediente de expurgo con autorización del órgano…»."
+    "explicacion": "La respuesta correcta es «un expediente de expurgo con autorización del órgano…». La eliminación exige evaluación documental, plazos de conservación y autorización conforme a la normativa archivística; no depende de una decisión individual."
   },
   {
     "id": "t32-p012",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el art. 105.b CE garantiza el acceso a:",
     "opciones": [
-      "archivos y registros administrativos",
       "los secretos de Estado sin límite",
       "los domicilios particulares",
+      "archivos y registros administrativos",
       "las cuentas bancarias privadas"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 4.1 Fundamento constitucional y legal",
-    "explicacion": "La respuesta correcta es «archivos y registros administrativos». La alternativa «los secretos de Estado sin límite» no satisface ese criterio; aquí se aplica «archivos y registros administrativos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 105.b CE remite al acceso a archivos y registros administrativos, con los límites legales relativos a seguridad, investigación y derechos de terceros."
   },
   {
     "id": "t32-p013",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, la LPACAP reconoce a los interesados el derecho a:",
     "opciones": [
-      "acceder y obtener copia de los documentos del expediente en cualquier fase del procedimiento",
       "resolver el expediente por sí mismos",
       "publicar el contenido en prensa",
-      "sustituir el órgano competente"
+      "sustituir el órgano competente",
+      "acceder y obtener copia de los documentos del expediente en cualquier fase del procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 4.1 Fundamento constitucional y legal",
-    "explicacion": "La respuesta correcta es «acceder y obtener copia de los documentos del…». La alternativa «resolver el expediente por sí mismos» no satisface ese criterio; aquí se aplica «acceder y obtener copia de los documentos del…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Durante la tramitación, quien es interesado puede conocer el estado y acceder u obtener copia de los documentos del expediente (art. 53 LPAC)."
   },
   {
     "id": "t32-p014",
@@ -279,49 +279,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 4.2 Modalidades de acceso",
-    "explicacion": "La respuesta correcta es «publicidad de oficio y la segunda en acceso…». El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «la primera es secreta y la segunda pública» no satisface ese criterio; aquí se aplica «publicidad de oficio y la segunda en acceso…»."
+    "explicacion": "La respuesta correcta es «publicidad de oficio y la segunda en acceso…». El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013."
   },
   {
     "id": "t32-p015",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el Portal de Transparencia sirve para:",
     "opciones": [
-      "centralizar la publicación y el acceso a la información pública",
       "archivar expedientes históricos",
+      "centralizar la publicación y el acceso a la información pública",
       "firmar documentos electrónicos",
       "emitir notificaciones"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 6.3 El Portal de Transparencia",
-    "explicacion": "La respuesta correcta es «centralizar la publicación y el acceso a la…». El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «archivar expedientes históricos» no satisface ese criterio; aquí se aplica «centralizar la publicación y el acceso a la…»."
+    "explicacion": "La respuesta correcta es «centralizar la publicación y el acceso a la…». El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013."
   },
   {
     "id": "t33-p001",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el expediente administrativo es:",
     "opciones": [
-      "el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa",
       "un simple archivo de facturas",
       "la lista de asistentes a una sesión",
+      "el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución administrativa",
       "la notificación de un acto"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 1.1 Concepto de expediente administrativo",
-    "explicacion": "El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución. La alternativa «un simple archivo de facturas» no satisface ese criterio; aquí se aplica «el conjunto ordenado de documentos y actuaciones que…»."
+    "explicacion": "El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución."
   },
   {
     "id": "t33-p002",
     "tema": 39,
     "pregunta": "Uno de los principios que rigen la formación del expediente es el de:",
     "opciones": [
-      "unidad",
       "aleatoriedad",
       "publicidad",
-      "discrecionalidad"
+      "discrecionalidad",
+      "unidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 1.2 Principios que rigen la formación del expediente",
-    "explicacion": "La respuesta correcta es «unidad». La alternativa «aleatoriedad» no satisface ese criterio; aquí se aplica «unidad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La unidad del expediente mantiene relacionadas y ordenadas las actuaciones de un mismo procedimiento, de modo que pueda seguirse su tramitación completa."
   },
   {
     "id": "t33-p003",
@@ -335,49 +335,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 1.4 El índice del expediente",
-    "explicacion": "La respuesta correcta es «integridad». El índice electrónico autenticado relaciona documentos y garantiza la integridad del expediente remitido. La alternativa «sanción» no satisface ese criterio; aquí se aplica «integridad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El índice electrónico autentificado relaciona los documentos del expediente y permite garantizar su integridad, especialmente cuando se remite a otro órgano."
   },
   {
     "id": "t33-p004",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, los documentos oficiales son los producidos por:",
     "opciones": [
-      "los órganos de las Administraciones Públicas en el ejercicio de sus funciones",
       "cualquier ciudadano en cualquier trámite",
+      "los órganos de las Administraciones Públicas en el ejercicio de sus funciones",
       "solo los tribunales",
       "únicamente empresas privadas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 2. Los documentos oficiales",
-    "explicacion": "La respuesta correcta es «los órganos de las Administraciones Públicas en el…». La alternativa «solo los tribunales» no satisface ese criterio; aquí se aplica «los órganos de las Administraciones Públicas en el…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Un documento administrativo procede de un órgano público en el ejercicio de sus funciones; un escrito privado presentado por registro no cambia por ello su autoría."
   },
   {
     "id": "t33-p005",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, la nota interior o memorándum es una comunicación:",
     "opciones": [
-      "interna e informal",
       "externa y solemne",
       "judicial y sancionadora",
+      "interna entre órganos o unidades administrativas",
       "tributaria y recaudatoria"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 3.1 La nota interior o memorándum",
-    "explicacion": "La respuesta correcta es «interna e informal». La alternativa «externa y solemne» no satisface ese criterio; aquí se aplica «interna e informal». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La nota interior o memorándum transmite información entre órganos o unidades de la Administración. Su denominación no significa que sea informal ni que quede fuera del expediente: se atiende a su contenido y función en cada procedimiento."
   },
   {
     "id": "t33-p006",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, la diligencia es:",
     "opciones": [
-      "la anotación que el funcionario tramitador incorpora al expediente para dejar constancia de una actuación concreta",
       "una sentencia administrativa",
       "un contrato menor",
-      "una resolución de Pleno"
+      "una resolución de Pleno",
+      "la anotación que el funcionario tramitador incorpora al expediente para dejar constancia de una actuación concreta"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 3.2 La diligencia",
-    "explicacion": "La respuesta correcta es «la anotación que el funcionario tramitador incorpora al…». La alternativa «una sentencia administrativa» no satisface ese criterio; aquí se aplica «la anotación que el funcionario tramitador incorpora al…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La diligencia deja constancia formal de una actuación practicada durante la tramitación, con los datos necesarios para su trazabilidad."
   },
   {
     "id": "t33-p007",
@@ -391,49 +391,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 4.1 Concepto y función",
-    "explicacion": "La respuesta correcta es «iniciar un procedimiento o pedir que se adopte…». La alternativa «convocar una sesión» no satisface ese criterio; aquí se aplica «iniciar un procedimiento o pedir que se adopte…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La instancia expresa una petición o solicitud de la persona y puede iniciar un procedimiento, sin que ello anticipe una decisión favorable."
   },
   {
     "id": "t33-p008",
     "tema": 39,
     "pregunta": "Según el art. 66 LPACAP, la solicitud debe contener, entre otros,:",
     "opciones": [
-      "hechos, razones y petición",
       "solo la firma del interesado",
+      "hechos, razones y petición",
       "únicamente el sello del órgano",
       "la relación de vocales asistentes"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 4.2 Contenido mínimo (art. 66 LPACAP)",
-    "explicacion": "La respuesta correcta es «hechos, razones y petición». La alternativa «solo la firma del interesado» no satisface ese criterio; aquí se aplica «hechos, razones y petición». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 66.1.c LPAC incluye en la solicitud los hechos, razones y petición, además de identificación, medio de notificación, lugar, fecha y firma cuando proceda."
   },
   {
     "id": "t33-p009",
     "tema": 39,
     "pregunta": "Las Administraciones deben poner a disposición de los interesados:",
     "opciones": [
-      "modelos normalizados para los procedimientos más frecuentes",
       "solo hojas en blanco",
       "únicamente formularios manuscritos",
+      "modelos normalizados para los procedimientos más frecuentes",
       "plantillas judiciales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 4.4 Modelos normalizados",
-    "explicacion": "La respuesta correcta es «modelos normalizados para los procedimientos más frecuentes». La alternativa «solo hojas en blanco» no satisface ese criterio; aquí se aplica «modelos normalizados para los procedimientos más frecuentes». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Los modelos normalizados facilitan la presentación, pero la Administración debe admitir solicitudes que cumplan la ley aunque no se use el formulario específico."
   },
   {
     "id": "t33-p010",
     "tema": 39,
     "pregunta": "El oficio es el documento de comunicación formal que se utiliza para:",
     "opciones": [
-      "las relaciones escritas entre órganos o unidades de distintas Administraciones Públicas",
       "la contabilidad de tesorería",
       "los registros de entrada",
-      "la emisión de certificaciones"
+      "la emisión de certificaciones",
+      "las relaciones escritas entre órganos o unidades de distintas Administraciones Públicas"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 5.1 Concepto y función",
-    "explicacion": "La respuesta correcta es «las relaciones escritas entre órganos o unidades de…». La alternativa «la contabilidad de tesorería» no satisface ese criterio; aquí se aplica «las relaciones escritas entre órganos o unidades de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El oficio es una comunicación escrita formal entre órganos o unidades administrativas; su uso concreto depende de la organización y del destinatario."
   },
   {
     "id": "t33-p011",
@@ -447,49 +447,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 5.2 Clases de oficio",
-    "explicacion": "La respuesta correcta es «traslado». La alternativa «compensación» no satisface ese criterio; aquí se aplica «traslado». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El oficio de traslado remite un documento o actuación a otro órgano o unidad para su conocimiento o continuación de la tramitación."
   },
   {
     "id": "t33-p012",
     "tema": 39,
     "pregunta": "El certificado es el documento oficial mediante el cuál un funcionario competente:",
     "opciones": [
-      "da fe de la existencia o contenido de un hecho, acto, dato o situación",
       "aprueba un presupuesto",
+      "da fe de la existencia o contenido de un hecho, acto, dato o situación",
       "convoca un pleno",
       "impone una sanción"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 6.1 Concepto y función",
-    "explicacion": "La respuesta correcta es «da fe de la existencia o contenido de…». La alternativa «aprueba un presupuesto» no satisface ese criterio; aquí se aplica «da fe de la existencia o contenido de…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El certificado acredita hechos o datos que constan oficialmente; debe emitirlo el órgano o funcionario competente, sin añadir hechos que no consten."
   },
   {
     "id": "t33-p013",
     "tema": 39,
     "pregunta": "En las Entidades Locales, la función de fe pública corresponde al:",
     "opciones": [
-      "Secretario de la Corporación",
       "Alcalde",
       "Interventor",
+      "Secretario de la Corporación",
       "Tesorero"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 6.3 El papel del Secretario en la certificación local",
-    "explicacion": "La respuesta correcta es «Secretario de la Corporación». La alternativa «Alcalde» no satisface ese criterio; aquí se aplica «Secretario de la Corporación». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La función de secretaría comprende la fe pública local en los términos reservados por la normativa de régimen local al titular de la Secretaría."
   },
   {
     "id": "t33-p014",
     "tema": 39,
     "pregunta": "La circular es el documento que transmite instrucciones o directrices a un conjunto de órganos:",
     "opciones": [
-      "subordinados o dependientes de forma simultánea",
       "de una sola persona sin relación administrativa",
       "de un juzgado al Congreso",
-      "de un ciudadano a otro"
+      "de un ciudadano a otro",
+      "subordinados o dependientes de forma simultánea"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 8.1 Concepto y función",
-    "explicacion": "La respuesta correcta es «subordinados o dependientes de forma simultánea». La alternativa «de una sola persona sin relación administrativa» no satisface ese criterio; aquí se aplica «subordinados o dependientes de forma simultánea». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La circular comunica criterios o instrucciones a varias unidades dependientes para orientar de forma homogénea su actuación."
   },
   {
     "id": "t33-p015",
@@ -503,49 +503,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 10.1 Concepto y función",
-    "explicacion": "La respuesta correcta es «la resolución dictada por el órgano unipersonal competente». La alternativa «un acuerdo del Pleno» no satisface ese criterio; aquí se aplica «la resolución dictada por el órgano unipersonal competente». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El decreto documenta decisiones de un órgano unipersonal local dentro de sus competencias; no es un acuerdo del Pleno."
   },
   {
     "id": "t34-p009",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el expediente electrónico debe contar con:",
     "opciones": [
-      "un índice electrónico firmado por la Administración",
       "un sello manual en cada hoja",
+      "un índice electrónico firmado por la Administración",
       "un visto bueno del vecindario",
       "una autorización judicial"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 5.3 El expediente electrónico",
-    "explicacion": "La respuesta correcta es «un índice electrónico firmado por la Administración». La alternativa «un sello manual en cada hoja» no satisface ese criterio; aquí se aplica «un índice electrónico firmado por la Administración». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El expediente electrónico se remite con un índice numerado y autenticado que relaciona los documentos y garantiza la integridad del conjunto (art. 70 LPAC)."
   },
   {
     "id": "t34-p015",
     "tema": 39,
     "pregunta": "En documentos, expedientes y archivos administrativos, el ENI establece:",
     "opciones": [
-      "los requisitos técnicos de interoperabilidad para documentos y expedientes electrónicos",
       "las normas tributarias locales",
       "los límites de contratación menor",
+      "los requisitos técnicos de interoperabilidad para documentos y expedientes electrónicos",
       "el tratamiento de datos de personal"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 5.1 El documento electrónico administrativo / 5.3 El expediente electrónico",
-    "explicacion": "La respuesta correcta es «los requisitos técnicos de interoperabilidad para documentos y…». La alternativa «los límites de contratación menor» no satisface ese criterio; aquí se aplica «los requisitos técnicos de interoperabilidad para documentos y…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El ENI fija criterios y normas técnicas para que documentos, expedientes y sistemas de distintas Administraciones puedan interoperar."
   },
   {
     "id": "burgos-v08-deep-01",
     "tema": 39,
     "pregunta": "Según el artículo 26 de la Ley 39/2015, ¿cuál es un requisito de validez del documento electrónico administrativo?",
     "opciones": [
-      "Incorporar una referencia temporal del momento en que se emitió",
       "Estar siempre impreso y sellado manualmente",
       "Contener únicamente la firma del interesado",
-      "Publicarse siempre en el Boletín Oficial"
+      "Publicarse siempre en el Boletín Oficial",
+      "Incorporar una referencia temporal del momento en que se emitió"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 2.2 Documento electrónico válido",
-    "explicacion": "El artículo 26 exige, entre otros elementos, datos de identificación, referencia temporal, metadatos mínimos y las firmas que correspondan. La alternativa «Contener únicamente la firma del interesado» no satisface ese criterio; aquí se aplica «Incorporar una referencia temporal del momento en que…»."
+    "explicacion": "El artículo 26.2 LPAC requiere que el documento electrónico incluya una referencia temporal de emisión, junto con identificación y metadatos mínimos."
   },
   {
     "id": "burgos-v08-deep-02",
@@ -559,49 +559,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 3.1 Concepto legal y contenido",
-    "explicacion": "El procedimiento es una secuencia de actuaciones; el expediente reúne ordenadamente los documentos y actuaciones que sirven de antecedente y fundamento a la resolución. El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución. La alternativa «El expediente es siempre anterior al procedimiento» no satisface ese criterio; aquí se aplica «El procedimiento es la sucesión de trámites y…»."
+    "explicacion": "El procedimiento es una secuencia de actuaciones; el expediente reúne ordenadamente los documentos y actuaciones que sirven de antecedente y fundamento a la resolución. El artículo 70 de la Ley 39/2015 define el expediente como conjunto ordenado de documentos y actuaciones que fundamentan la resolución y su ejecución."
   },
   {
     "id": "burgos-v08-deep-03",
     "tema": 39,
     "pregunta": "En un expediente electrónico remitido a otra Administración, el foliado se realiza mediante:",
     "opciones": [
-      "un índice electrónico autenticado que garantice la integridad",
       "una numeración manuscrita posterior a la remisión",
+      "un índice electrónico autenticado que garantice la integridad",
       "una relación de documentos sin autenticación",
       "un certificado de empadronamiento"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 3.3 Expediente electrónico",
-    "explicacion": "El artículo 51 del Real Decreto 203/2021 vincula el foliado electrónico al índice autenticado, que permite garantizar la integridad y recuperar el expediente. La alternativa «una numeración manuscrita posterior a la remisión» no satisface ese criterio; aquí se aplica «un índice electrónico autenticado que garantice la integridad»."
+    "explicacion": "El artículo 51 del Real Decreto 203/2021 vincula el foliado electrónico al índice autenticado, que permite garantizar la integridad y recuperar el expediente."
   },
   {
     "id": "burgos-v08-deep-04",
     "tema": 39,
     "pregunta": "Según el Real Decreto 203/2021, un mismo documento electrónico:",
     "opciones": [
-      "puede formar parte de distintos expedientes administrativos",
       "solo puede incorporarse a un expediente durante toda su vida",
       "debe duplicarse siempre en papel",
+      "puede formar parte de distintos expedientes administrativos",
       "no puede conservarse fuera de un procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 3.3 Expediente electrónico",
-    "explicacion": "El artículo 51 permite que un mismo documento electrónico forme parte de distintos expedientes administrativos. La alternativa «no puede conservarse fuera de un procedimiento» no satisface ese criterio; aquí se aplica «puede formar parte de distintos expedientes administrativos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La norma permite reutilizar un documento electrónico en distintos expedientes, evitando duplicar el mismo documento cuando resulte procedente."
   },
   {
     "id": "burgos-v08-deep-05",
     "tema": 39,
     "pregunta": "¿Cuál de estos documentos debe conservarse en soporte electrónico conforme al régimen del archivo electrónico?",
     "opciones": [
-      "Los documentos con valor probatorio creados al margen de un procedimiento",
       "Solo los expedientes todavía en trámite",
       "Únicamente las resoluciones publicadas",
-      "Solo los documentos que tengan firma manuscrita"
+      "Solo los documentos que tengan firma manuscrita",
+      "Los documentos con valor probatorio creados al margen de un procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 5. Archivo electrónico",
-    "explicacion": "La obligación alcanza a los documentos de los expedientes y a los documentos con valor probatorio creados fuera de un procedimiento. La alternativa «Solo los documentos que tengan firma manuscrita» no satisface ese criterio; aquí se aplica «Los documentos con valor probatorio creados al margen…»."
+    "explicacion": "La obligación alcanza a los documentos de los expedientes y a los documentos con valor probatorio creados fuera de un procedimiento."
   },
   {
     "id": "burgos-v08-deep-06",
@@ -615,49 +615,49 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 4.3 Ordenación y descripción",
-    "explicacion": "Clasificar es asignar el documento a una función, actividad o serie; ordenar es colocarlo después en una secuencia determinada. La alternativa «La ordenación» no satisface ese criterio; aquí se aplica «La clasificación». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "Clasificar asigna el documento a una función, actividad o serie; ordenar establece la secuencia y describir facilita identificarlo y recuperarlo."
   },
   {
     "id": "burgos-v08-deep-07",
     "tema": 39,
     "pregunta": "Una persona que no es interesada en un expediente municipal solicita un dato de contratación. ¿Qué vía puede utilizar, con carácter general?",
     "opciones": [
-      "El derecho de acceso a la información pública de la Ley 19/2013",
       "El artículo 53 de la Ley 39/2015 como interesado automático",
+      "El derecho de acceso a la información pública de la Ley 19/2013",
       "La solicitud de copia auténtica del expediente sin límites",
       "La vía de recurso contra una resolución que no le afecta"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 6.1 Dos derechos que no deben confundirse",
-    "explicacion": "El acceso al expediente del artículo 53 LPAC corresponde a los interesados; quien no lo sea puede ejercer, si procede, el derecho general de acceso a información pública. Quien no es interesado no accede al expediente por el artículo 53 de la Ley 39/2015; puede solicitar información pública conforme a la Ley 19/2013, con sus límites. La alternativa «El artículo 53 de la Ley 39 2015…» no satisface ese criterio; aquí se aplica «El derecho de acceso a la información pública…»."
+    "explicacion": "El acceso al expediente del artículo 53 LPAC corresponde a los interesados; quien no lo sea puede ejercer, si procede, el derecho general de acceso a información pública. Quien no es interesado no accede al expediente por el artículo 53 de la Ley 39/2015; puede solicitar información pública conforme a la Ley 19/2013, con sus límites."
   },
   {
     "id": "burgos-v08-deep-08",
     "tema": 39,
     "pregunta": "La solicitud de acceso a información pública conforme a la Ley 19/2013:",
     "opciones": [
-      "no tiene que estar motivada obligatoriamente",
       "debe justificar siempre un interés legítimo",
       "solo puede presentarla un interesado en el expediente",
+      "no tiene que estar motivada obligatoriamente",
       "debe indicar necesariamente el artículo que fundamenta la petición"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso",
-    "explicacion": "El solicitante puede exponer motivos, pero la falta de motivación no es por sí sola causa de rechazo. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «debe indicar necesariamente el artículo que fundamenta la…» no satisface ese criterio; aquí se aplica «no tiene que estar motivada obligatoriamente»."
+    "explicacion": "El solicitante puede exponer motivos, pero la falta de motivación no es por sí sola causa de rechazo. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013."
   },
   {
     "id": "burgos-v08-deep-09",
     "tema": 39,
     "pregunta": "El plazo máximo general para resolver una solicitud de acceso a información pública es de:",
     "opciones": [
-      "un mes, ampliable por otro mes por volumen o complejidad",
       "diez días hábiles sin posibilidad de ampliación",
       "tres meses siempre improrrogables",
-      "seis meses desde la solicitud"
+      "seis meses desde la solicitud",
+      "un mes, ampliable por otro mes por volumen o complejidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.8 · 6.2 Transparencia activa y derecho de acceso",
-    "explicacion": "El artículo 20 de la Ley 19/2013 fija un mes, con posible ampliación por otro mes si el volumen o la complejidad lo justifican y se informa al solicitante. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «diez días hábiles sin posibilidad de ampliación» no satisface ese criterio; aquí se aplica «un mes ampliable por otro mes por volumen…»."
+    "explicacion": "El artículo 20 de la Ley 19/2013 fija un mes, con posible ampliación por otro mes si el volumen o la complejidad lo justifican y se informa al solicitante. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013."
   },
   {
     "id": "burgos-v08-deep-10",
@@ -671,34 +671,34 @@
     ],
     "correcta": 0,
     "referencia": "V.8 · 6.3 Límites, protección de datos y acceso parcial",
-    "explicacion": "El artículo 16 de la Ley 19/2013 prevé el acceso parcial, con indicación de la parte omitida, salvo que el resultado sea distorsionado o carezca de sentido. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013. La alternativa «denegar siempre todo el documento» no satisface ese criterio; aquí se aplica «conceder acceso parcial omitiendo la parte afectada si…»."
+    "explicacion": "El artículo 16 de la Ley 19/2013 prevé el acceso parcial, con indicación de la parte omitida, salvo que el resultado sea distorsionado o carezca de sentido. El interesado accede a su expediente por la Ley 39/2015; cualquier persona puede pedir información pública con los límites de la Ley 19/2013."
   },
   {
     "id": "burgos-v08-deep-11",
     "tema": 39,
     "pregunta": "¿Cuál es la afirmación correcta sobre la eliminación de documentos administrativos?",
     "opciones": [
-      "Requiere evaluación, calendario de conservación y autorización conforme a la normativa aplicable",
       "Puede decidirla unilateralmente cualquier empleado cuando el expediente esté terminado",
+      "Requiere evaluación, calendario de conservación y autorización conforme a la normativa aplicable",
       "Está prohibida siempre, aunque el documento no tenga valor",
       "Solo requiere convertir el documento a PDF"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.8 · 4.1 Gestión documental y ciclo de vida",
-    "explicacion": "La eliminación se integra en la evaluación documental y debe respetar las autorizaciones y plazos del sistema archivístico y del patrimonio documental. La eliminación exige evaluación documental, plazos de conservación y autorización conforme a la normativa archivística; no depende de una decisión individual. La alternativa «Solo requiere convertir el documento a PDF» no satisface ese criterio; aquí se aplica «Requiere evaluación calendario de conservación y autorización conforme…»."
+    "explicacion": "La eliminación se integra en la evaluación documental y debe respetar las autorizaciones y plazos del sistema archivístico y del patrimonio documental. La eliminación exige evaluación documental, plazos de conservación y autorización conforme a la normativa archivística; no depende de una decisión individual."
   },
   {
     "id": "burgos-v08-deep-12",
     "tema": 39,
     "pregunta": "¿Qué afirmación distingue correctamente una copia auténtica de una copia simple?",
     "opciones": [
-      "La copia auténtica la expide un órgano competente con garantías de identidad e integridad y tiene la eficacia prevista para el original",
       "La copia simple siempre tiene la misma eficacia jurídica que el original",
       "La copia auténtica solo puede ser manuscrita",
+      "La copia auténtica la expide un órgano competente con garantías de identidad e integridad y tiene la eficacia prevista para el original",
       "La copia simple requiere siempre actuación administrativa automatizada"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.8 · 2.4 Copias y documentos aportados",
-    "explicacion": "La copia auténtica se expide con garantías jurídicas y técnicas por órgano competente; la copia simple es una reproducción sin esa certificación. Una copia auténtica acredita identidad e integridad con intervención competente; una reproducción simple no obtiene esa condición por el mero escaneo. La alternativa «La copia simple siempre tiene la misma eficacia…» no satisface ese criterio; aquí se aplica «La copia auténtica la expide un órgano competente…»."
+    "explicacion": "La copia auténtica se expide con garantías jurídicas y técnicas por órgano competente; la copia simple es una reproducción sin esa certificación. Una copia auténtica acredita identidad e integridad con intervención competente; una reproducción simple no obtiene esa condición por el mero escaneo."
   }
 ]

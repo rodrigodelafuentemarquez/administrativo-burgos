@@ -37,11 +37,11 @@
     "pregunta": "Según el art. 103.1 CE, ¿cuál de los siguientes recoge un principio constitucional de actuación de la Administración Pública?",
     "opciones": [
       "centralización absoluta",
-      "objetividad, eficacia, jerarquía, descentralización, desconcentración y coordinación",
       "mandato imperativo y supremacía política",
+      "objetividad, eficacia, jerarquía, descentralización, desconcentración y coordinación",
       "autonomía legislativa"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.4 · 10.1 Concepto y caracterización",
     "explicacion": "El artículo 103.1 CE exige servicio objetivo al interés general y enumera eficacia, jerarquía, descentralización, desconcentración y coordinación, bajo pleno sometimiento a la ley y al Derecho. No admite centralización absoluta ni una supremacía política sobre las normas. La Administración no dispone de autonomía legislativa para decidir por sí sola qué leyes cumplir."
   },
@@ -51,11 +51,11 @@
     "pregunta": "En la organización administrativa del Estado autonómico español existe:",
     "opciones": [
       "una única Administración Pública",
-      "una pluralidad de Administraciones Públicas",
       "una sola Administración Local",
-      "una Administración sin personalidad jurídica"
+      "una Administración sin personalidad jurídica",
+      "una pluralidad de Administraciones Públicas"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.4 · 1.1 Concepto y pluralidad",
     "explicacion": "La organización territorial española implica varias Administraciones: estatal, autonómicas y locales, además de entidades públicas en los términos legales. No son sucursales de una única persona jurídica. Esa pluralidad exige relaciones de cooperación y coordinación, pero no elimina la autonomía ni permite afirmar que todas estén subordinadas jerárquicamente a una sola Administración."
   },
@@ -92,12 +92,12 @@
     "tema": 4,
     "pregunta": "¿Qué técnica de organización supone transferencia de competencias entre personas jurídicas distintas?",
     "opciones": [
-      "Descentralización",
       "Desconcentración",
       "Suplencia",
+      "Descentralización",
       "Avocación"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.4 · 2.2.2 Descentralización",
     "explicacion": "La descentralización atribuye funciones a entidades con personalidad jurídica distinta, territoriales o institucionales, dentro del marco legal. La desconcentración distribuye competencias entre órganos de la misma persona jurídica. Suplencia y avocación tienen otros efectos sobre quién actúa o qué órgano conoce un asunto, sin equivaler a crear una nueva entidad titular de competencias."
   },
@@ -106,12 +106,12 @@
     "tema": 4,
     "pregunta": "En la organización administrativa, la desconcentración supone transferencia de competencias:",
     "opciones": [
-      "desde un órgano superior a otro inferior de la misma persona jurídica",
       "del Estado a una Comunidad Autónoma",
       "de un tribunal a otro",
-      "de la ley al reglamento"
+      "de la ley al reglamento",
+      "desde un órgano superior a otro inferior de la misma persona jurídica"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.4 · 2.2.3 Desconcentración",
     "explicacion": "La desconcentración reparte titularidad y ejercicio de competencias hacia órganos dependientes dentro de una misma Administración, en los términos del artículo 8.2 de la Ley 40/2015. No es una transferencia del Estado a una comunidad autónoma, que opera entre personas jurídicas distintas. Tampoco describe el paso de una ley a un reglamento ni una relación judicial."
   },
@@ -148,12 +148,12 @@
     "tema": 4,
     "pregunta": "En la organización administrativa, la competencia administrativa es:",
     "opciones": [
-      "el conjunto de facultades y potestades atribuidas a un órgano",
       "una capacidad moral del funcionario",
       "la suma de reglamentos aplicables",
+      "el conjunto de facultades y potestades atribuidas a un órgano",
       "la condición de interesado en un procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.4 · 2.5 La competencia administrativa",
     "explicacion": "La competencia administrativa es el conjunto de atribuciones que el ordenamiento asigna a un órgano para actuar en determinada materia. No deriva de una valoración personal del funcionario ni de que alguien sea interesado en un procedimiento. Identificar al órgano competente permite saber quién puede resolver válidamente y bajo qué reglas de organización y procedimiento."
   },
@@ -163,13 +163,13 @@
     "pregunta": "En la organización administrativa, la competencia es:",
     "opciones": [
       "renunciable por el órgano",
-      "irrenunciable e improrrogable",
       "disponible por pacto entre órganos",
-      "delegable sin límites en cualquier caso"
+      "delegable sin límites en cualquier caso",
+      "irrenunciable y debe ejercerse por el órgano que la tenga atribuida, salvo los supuestos legales"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.4 · 2.5 La competencia administrativa",
-    "explicacion": "El artículo 8 de la Ley 40/2015 establece que la competencia es irrenunciable y debe ejercerse por el órgano que la tiene atribuida, salvo los supuestos legales. Delegación y avocación permiten alteraciones reguladas del ejercicio, no un pacto libre para abandonar competencias. Por eso no puede trasladarse a cualquier órgano sin límites o requisitos."
+    "explicacion": "El artículo 8.1 de la Ley 40/2015 declara irrenunciable la competencia y dispone que la ejerza el órgano que la tiene atribuida, salvo delegación o avocación cuando procedan conforme a la ley. Estas técnicas regulan el ejercicio o el conocimiento de asuntos; no permiten abandonar la competencia ni pactar libremente su atribución."
   },
   {
     "id": "t13-p010",
@@ -216,16 +216,16 @@
   {
     "id": "t13-p013",
     "tema": 4,
-    "pregunta": "En la organización administrativa, la autotutela administrativa está sometida a:",
+    "pregunta": "Al establecer límites al ejercicio de derechos o requisitos para desarrollar una actividad, la Administración debe aplicar, entre otros, el principio de:",
     "opciones": [
-      "los principios de proporcionalidad y necesidad",
-      "la voluntad de los particulares",
-      "la aprobación del Senado",
-      "el consentimiento judicial previo en todo caso"
+      "libre oportunidad política, sin motivación",
+      "aprobación del Senado",
+      "consentimiento judicial previo en todo caso",
+      "proporcionalidad y elección de la medida menos restrictiva"
     ],
-    "correcta": 0,
-    "referencia": "I.4 · 3.5 La autotutela administrativa y sus límites",
-    "explicacion": "La autotutela permite a la Administración declarar y, en determinados casos, ejecutar sus decisiones sin una sentencia previa, pero dentro de la ley. La ejecución debe respetar necesidad y proporcionalidad y puede requerir autorización judicial en supuestos como la entrada en un domicilio protegido. No depende del consentimiento del particular ni elimina las garantías y el control judicial."
+    "correcta": 3,
+    "referencia": "I.4 · Principios de intervención administrativa · artículo 4 LRJSP",
+    "explicacion": "El artículo 4.1 de la Ley 40/2015 exige aplicar el principio de proporcionalidad y elegir la medida menos restrictiva cuando las Administraciones establecen límites al ejercicio de derechos o requisitos para desarrollar una actividad. También deben motivar su necesidad e idoneidad para proteger el interés público. No se exige aprobación parlamentaria ni autorización judicial previa en todo caso."
   },
   {
     "id": "t13-p014",
@@ -246,12 +246,12 @@
     "tema": 4,
     "pregunta": "En la organización administrativa, los principios adicionales del art. 3 LRJSP incluyen:",
     "opciones": [
-      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, eficiencia y utilización de los recursos públicos",
       "solo jerarquía y descentralización",
+      "servicio efectivo a los ciudadanos, buena fe y confianza legítima, eficiencia y utilización de los recursos públicos",
       "únicamente la legalidad penal",
       "solo la potestad sancionadora"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.4 · 2.3 Principios adicionales del art. 3 LRJSP",
     "explicacion": "El artículo 3.1 de la Ley 40/2015 añade principios como servicio efectivo a los ciudadanos, buena fe, confianza legítima y eficiencia en la asignación y utilización de recursos públicos. No se limita a repetir jerarquía y descentralización ni trata solo de sanciones. La proporcionalidad también rige la intervención administrativa, pero se formula específicamente en otros preceptos."
   },
@@ -260,12 +260,12 @@
     "tema": 4,
     "pregunta": "De acuerdo con el art. 103.1 CE, la Administración Pública actúa de acuerdo con los principios de:",
     "opciones": [
-      "Eficacia, jerarquía, descentralización, desconcentración y coordinación",
       "Publicidad, irretroactividad, seguridad jurídica y responsabilidad",
       "Legalidad penal, tipicidad, culpabilidad y presunción de inocencia",
+      "Eficacia, jerarquía, descentralización, desconcentración y coordinación",
       "Solidaridad, autonomía financiera, subsidiariedad y lealtad institucional"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.4 · 2.1 Los principios constitucionales (art. 103.1 CE)",
     "explicacion": "El artículo 103.1 CE enumera eficacia, jerarquía, descentralización, desconcentración y coordinación, junto al sometimiento pleno a la ley y al Derecho. Publicidad, seguridad jurídica y responsabilidad son garantías del artículo 9.3. Los principios penales o de financiación territorial no sustituyen la enumeración concreta exigida para el funcionamiento de la Administración."
   },
@@ -273,12 +273,12 @@
     "id": "topup-04-01",
     "pregunta": "La Administración pública sirve con objetividad los intereses generales y actúa de acuerdo con los principios del artículo 103 CE, entre ellos:",
     "opciones": [
-      "jerarquía, descentralización y coordinación",
       "discrecionalidad absoluta y reserva de actuación",
       "confidencialidad general y autotutela penal",
-      "libre designación universal de órganos"
+      "libre designación universal de órganos",
+      "jerarquía, descentralización y coordinación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.4 · Administración pública en el ordenamiento jurídico",
     "tema": 4,
     "explicacion": "Jerarquía, descentralización y coordinación están expresamente en el artículo 103.1 CE. La Administración debe servir objetivamente al interés general y respetar el Derecho, no actuar con discrecionalidad absoluta ni secreto general. La existencia de autotutela administrativa tampoco crea una «autotutela penal» que permita imponer por sí misma penas propias de la jurisdicción."
@@ -302,12 +302,12 @@
     "tema": 4,
     "pregunta": "¿Qué órgano representa al Gobierno del Estado en una Comunidad Autónoma?",
     "opciones": [
-      "Delegado del Gobierno",
       "Subdelegado del Gobierno",
+      "Delegado del Gobierno",
       "Presidente de la Comunidad Autónoma",
       "Secretario de Estado"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.4, Gobierno y Administración del Estado",
     "explicacion": "El Delegado del Gobierno representa al Gobierno de la Nación en la comunidad, según el artículo 72 de la Ley 40/2015. El Presidente autonómico ostenta la representación ordinaria del Estado por el artículo 152 CE. La distinción entre Estado y Gobierno explica por qué ambos cargos pueden ejercer funciones representativas diferentes en el mismo territorio."
   },
@@ -316,12 +316,12 @@
     "tema": 4,
     "pregunta": "¿Cuál de estos NO es un principio del art. 103.1 CE expresamente asociado a la actuación administrativa?",
     "opciones": [
-      "Primogenitura",
       "Eficacia",
       "Jerarquía",
+      "Primogenitura",
       "Coordinación"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.4, Principios de actuación administrativa",
     "explicacion": "Primogenitura es una regla de sucesión a la Corona del artículo 57 CE, no un principio de actuación administrativa del artículo 103.1. Eficacia, jerarquía y coordinación sí pertenecen a ese precepto. La pregunta mezcla instituciones constitucionales: que un concepto aparezca en la Constitución no significa que rija la organización administrativa."
   },
@@ -330,12 +330,12 @@
     "tema": 4,
     "pregunta": "Según el art. 106 CE, ¿qué control prevé sobre la Administración?",
     "opciones": [
-      "Control judicial de la potestad reglamentaria y de la legalidad de la actuación administrativa",
       "Control exclusivo del Gobierno sobre los jueces",
       "Control del Rey sobre todos los actos administrativos",
-      "Control del Senado sobre cada expediente administrativo"
+      "Control del Senado sobre cada expediente administrativo",
+      "Control judicial de la potestad reglamentaria y de la legalidad de la actuación administrativa"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.4, Sometimiento de la Administración a la ley",
     "explicacion": "El artículo 106.1 CE encomienda a los tribunales controlar reglamentos, legalidad de la actuación administrativa y su sometimiento a los fines que la justifican. No atribuye al Gobierno control sobre los jueces ni al Senado revisar cada expediente. El control judicial limita la actuación administrativa sin sustituir al órgano competente en sus decisiones legítimas."
   },
@@ -457,12 +457,12 @@
     "tema": 4,
     "pregunta": "Si ningún candidato obtiene la confianza del Congreso, ¿cuándo se disuelven ambas Cámaras conforme al artículo 99.5 de la Constitución?",
     "opciones": [
-      "A los dos meses desde la primera votación de investidura",
       "A los dos meses desde la propuesta del Rey",
+      "A los dos meses desde la primera votación de investidura",
       "A los cuarenta y ocho días desde la segunda votación",
       "A los tres meses desde la constitución del Congreso"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.4 · Investidura del Presidente",
     "explicacion": "El artículo 99.5 CE cuenta dos meses desde la primera votación de investidura. Si ningún candidato obtiene confianza, el Rey disuelve Congreso y Senado y convoca elecciones con refrendo del Presidente del Congreso. La propuesta del Rey o la constitución de la Cámara no son el inicio de ese plazo constitucional."
   },
@@ -471,12 +471,12 @@
     "tema": 4,
     "pregunta": "¿Qué mayoría exige la moción de censura para ser aprobada?",
     "opciones": [
-      "Mayoría absoluta del Congreso de los Diputados",
       "Mayoría simple del Congreso de los Diputados",
       "Tres quintos del Congreso y del Senado",
-      "Unanimidad del Consejo de Ministros"
+      "Unanimidad del Consejo de Ministros",
+      "Mayoría absoluta del Congreso de los Diputados"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.4 · Control parlamentario",
     "explicacion": "La moción de censura requiere mayoría absoluta del Congreso, según el artículo 113 CE, y debe incluir candidato alternativo a la Presidencia. Su aprobación supone la sustitución política prevista en el artículo 114. No participa el Senado y no basta mayoría simple, que es la exigida para otorgar una cuestión de confianza."
   },
@@ -499,12 +499,12 @@
     "tema": 4,
     "pregunta": "¿Cuál es la diferencia correcta entre descentralización y desconcentración?",
     "opciones": [
-      "La descentralización opera entre personas jurídicas distintas y la desconcentración dentro de la misma persona jurídica",
       "La descentralización solo afecta a la firma y la desconcentración a la suplencia",
+      "La descentralización opera entre personas jurídicas distintas y la desconcentración dentro de la misma persona jurídica",
       "Ambas transfieren la titularidad a otra Administración",
       "La desconcentración solo puede producirse entre el Estado y las comunidades autónomas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.4 · Órganos, unidades y competencia",
     "explicacion": "La descentralización opera entre personas jurídicas distintas; la desconcentración reorganiza competencias entre órganos de una misma persona jurídica. Ambas distribuyen funciones, pero en niveles diferentes. No equivalen a delegar solo una firma ni a suplir temporalmente a una persona titular; tampoco toda distribución del Estado a una comunidad puede llamarse desconcentración."
   },
@@ -513,12 +513,12 @@
     "tema": 4,
     "pregunta": "En la Administración General del Estado, ¿qué rango tiene el Delegado del Gobierno en una Comunidad Autónoma?",
     "opciones": [
-      "Rango de Subsecretario",
       "Rango de Secretario de Estado",
       "Nivel de Subdirector general",
+      "Rango de Subsecretario",
       "Rango de Director general"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.4 · Organización territorial de la AGE",
     "explicacion": "La Ley 40/2015 da al Delegado del Gobierno rango de subsecretario y condición de órgano directivo. No tiene rango de secretario de Estado, director general o subdirector. La función de representación territorial del Gobierno no debe confundirse con la categoría de órgano superior de un ministerio."
   },
@@ -527,12 +527,12 @@
     "tema": 4,
     "pregunta": "¿Qué artículo constitucional define al Consejo de Estado como supremo órgano consultivo del Gobierno?",
     "opciones": [
-      "El artículo 107",
       "El artículo 103",
       "El artículo 105",
-      "El artículo 106"
+      "El artículo 106",
+      "El artículo 107"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.4 · Garantías y controles constitucionales",
     "explicacion": "El artículo 107 CE es el que identifica al Consejo de Estado como supremo órgano consultivo del Gobierno. El 103 regula principios administrativos, el 105 participación y acceso en la actuación administrativa y el 106 control judicial. La numeración ayuda a separar consulta, funcionamiento, participación y control sin atribuirles un mismo contenido."
   },
@@ -555,12 +555,12 @@
     "tema": 4,
     "pregunta": "¿Qué afirmación describe correctamente la encomienda de gestión?",
     "opciones": [
-      "Permite encargar actividades materiales, técnicas o de servicios sin ceder la titularidad de la competencia",
       "Transfiere la titularidad de la competencia al órgano encomendado",
+      "Permite encargar actividades materiales, técnicas o de servicios sin ceder la titularidad de la competencia",
       "Es siempre un contrato sujeto a la legislación de contratos del sector público",
       "Permite al encargado dictar resoluciones que atribuyan la competencia a terceros"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.4 · Órganos, unidades y competencia",
     "explicacion": "La encomienda del artículo 11 de la Ley 40/2015 permite realizar actividades materiales o técnicas por otro órgano o entidad sin transferir la titularidad competencial. No comprende prestaciones propias de contratos del sector público, que siguen su régimen contractual. Las decisiones jurídicas sustantivas permanecen en el órgano competente: encargar tareas no atribuye automáticamente potestad resolutoria al encargado."
   }

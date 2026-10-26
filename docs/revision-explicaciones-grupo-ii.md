@@ -98,3 +98,7 @@ Se conservan los IDs y el orden de las preguntas y opciones. Se corrigieron enun
 ## Validación y publicación
 
 Se comprobó el número de preguntas, la unicidad de IDs, la validez de las claves, que cada opción permanece presente, que cada explicación supera 40 palabras y que la copia pública coincide byte a byte con `data/tests`. `npm run build` y `git diff --check` finalizaron correctamente. El estado registra 514/514 IDs y las fuentes utilizadas.
+
+## Ampliación posterior · 26/10/2026
+
+Se añadió `burgos-ii05-lrjsp-01` al tema interno 14 para cubrir los supuestos tasados y la exigencia de motivación de la negativa a prestar asistencia interadministrativa. La explicación se redactó y contrastó con el artículo 141.2 de la Ley 40/2015. El banco pasa de 38 a 39 preguntas.

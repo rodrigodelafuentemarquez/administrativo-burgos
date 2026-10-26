@@ -13,11 +13,11 @@ El núcleo del tema es el **Texto Refundido de la Ley del Estatuto Básico del E
 - la **Constitución Española** (igualdad, acceso conforme a mérito y capacidad y estatuto funcionarial);
 - la <mark>Ley 7/1985</mark>, Reguladora de las Bases del Régimen Local (LRBRL), especialmente sus artículos 89 a 104 y 92 bis;
 - el <mark>Real Decreto Legislativo 781/1986</mark> (TRRL), en lo que conserve vigencia y resulte aplicable;
-- la normativa de función pública de Castilla y León, las normas reglamentarias y los instrumentos de cada entidad local;
+- la normativa de función pública de Castilla y León para el personal de su Administración General y organismos autónomos; la función pública local se rige por su marco estatal básico y las normas locales que resulten aplicables;
 - la legislación laboral y el convenio colectivo, cuando se trate de personal laboral;
 - el <mark>Real Decreto 128/2018</mark>, para los funcionarios de Administración Local con habilitación de carácter nacional.
 
-El TREBEP fija bases comunes; no agota por sí solo toda la regulación de la función pública local. Por eso, en una pregunta hay que identificar primero si se pregunta por una regla básica estatal, una especialidad local, una norma autonómica o las bases de la convocatoria.
+El TREBEP fija bases comunes; no agota por sí solo toda la regulación de la función pública local. La Ley 7/2005 de Castilla y León regula el personal de la Administración autonómica, no convierte sus especialidades en reglas generales para los ayuntamientos. En cada pregunta hay que identificar primero si se trata de una regla básica estatal, una norma local, una norma autonómica aplicable a personal autonómico o las bases concretas de la convocatoria.
 
 ### Persona, plaza, puesto y procedimiento
 
@@ -92,6 +92,10 @@ El artículo 55.1 TREBEP recoge los principios constitucionales de **igualdad, m
 
 Para participar en procesos selectivos se exige, entre otros requisitos del artículo 56: nacionalidad en los términos legales, capacidad funcional, tener cumplidos <mark>dieciséis años</mark> y no exceder la edad máxima de jubilación forzosa, no haber sido separado o inhabilitado, y poseer la titulación exigida. La convocatoria puede exigir otros requisitos objetivos vinculados a las funciones.
 
+### Órganos de selección
+
+El artículo 60 TREBEP exige órganos colegiados y garantías de imparcialidad y profesionalidad; sus miembros actúan a título individual. No pueden formar parte el personal de elección o designación política, los funcionarios interinos ni el personal eventual. Las condiciones adicionales dependen de la normativa aplicable. Por ejemplo, el artículo 47.2 de la Ley 7/2005 de Castilla y León impone, para su propio ámbito, que cada miembro pertenezca a un Cuerpo o Escala cuyo ingreso requiera titulación igual o superior a la de las personas aspirantes. Esa regla autonómica no se presume para la selección municipal.
+
 ### Sistemas selectivos
 
 - **Oposición:** uno o varios ejercicios para comprobar conocimientos, capacidad analítica, aptitudes o habilidades.
@@ -145,7 +149,7 @@ La carrera profesional es el conjunto ordenado de oportunidades de ascenso y pro
 | Promoción interna vertical | Acceso a un cuerpo o escala de un subgrupo superior |
 | Promoción interna horizontal | Acceso a otro cuerpo o escala del mismo subgrupo |
 
-La carrera horizontal no se presume implantada con idénticas reglas en todos los Ayuntamientos: requiere previsión normativa y desarrollo por la Administración competente. La evaluación del desempeño tampoco es una simple valoración informal; debe apoyarse en criterios y procedimientos objetivos.
+La carrera horizontal no se presume implantada con idénticas reglas en todos los Ayuntamientos: requiere previsión normativa y desarrollo por la Administración competente. El artículo 122 del Real Decreto-ley 6/2023 fija un régimen voluntario por tramos para la Administración General del Estado; no debe extrapolarse automáticamente al ámbito local. La evaluación del desempeño tampoco es una simple valoración informal; debe apoyarse en criterios y procedimientos objetivos.
 
 ## 8. Promoción interna
 

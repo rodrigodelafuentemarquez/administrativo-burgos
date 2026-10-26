@@ -75,7 +75,7 @@ El artículo 70 LPAC define el expediente administrativo como el **conjunto orde
 
 Debe incluir, según proceda, la solicitud u orden de inicio, documentos aportados, pruebas, informes, dictámenes, alegaciones, trámite de audiencia, propuesta, resolución, notificación y actuaciones de ejecución. No es una simple carpeta de documentos ni equivale al procedimiento completo: el procedimiento es la sucesión de trámites; el expediente es su reflejo documental ordenado.
 
-No forman parte del expediente administrativo, con carácter general, la información auxiliar o de apoyo, como notas, borradores, opiniones internas, resúmenes, comunicaciones electrónicas informales o juicios de valor de uso interno, salvo que una norma específica disponga otra cosa o se incorporen como documentos relevantes.
+No forman parte del expediente administrativo, con carácter general, la información auxiliar o de apoyo, como notas, borradores, opiniones internas, resúmenes, comunicaciones electrónicas informales o juicios de valor de uso interno, salvo que una norma específica disponga otra cosa o se incorporen como documentos relevantes. La denominación del documento no decide por sí sola: una nota interior o memorándum puede documentar una actuación relevante y habrá que atender a su contenido, función y relación con el procedimiento.
 
 ### 3.2. Reglas de formación
 

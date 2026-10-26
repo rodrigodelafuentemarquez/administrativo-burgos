@@ -3,15 +3,15 @@
     "id": "topup-19-04",
     "pregunta": "En las formas de actividad administrativa y servicio público, la actividad económica pública implica:",
     "opciones": [
-      "intervención en el mercado o gestión de actividades empresariales públicas",
       "función jurisdiccional",
       "aprobación de mociones de censura",
-      "solo inspección sanitaria"
+      "solo inspección sanitaria",
+      "intervención en el mercado o gestión de actividades empresariales públicas"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Actividad económica",
     "tema": 19,
-    "explicacion": "La Administración puede desarrollar iniciativa económica en supuestos legales. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «intervención en el mercado o gestión de actividades empresariales públicas». El distractor «función jurisdiccional» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La Administración puede desarrollar iniciativa económica en supuestos legales. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «intervención en el mercado o gestión de actividades empresariales públicas»."
   },
   {
     "id": "topup-19-06",
@@ -25,49 +25,49 @@
     "correcta": 0,
     "referencia": "II.10 · Servicio público",
     "tema": 19,
-    "explicacion": "Es una prestación organizada para atender intereses generales. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «servicio público». El distractor «acto legislativo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Es una prestación organizada para atender intereses generales. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «servicio público»."
   },
   {
     "id": "topup-19-07",
     "pregunta": "En las formas de actividad administrativa y servicio público, entre las notas clásicas del servicio público figura la:",
     "opciones": [
-      "continuidad",
       "reserva judicial",
+      "continuidad",
       "inmunidad parlamentaria",
       "intangibilidad del presupuesto"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Características del servicio público",
     "tema": 19,
-    "explicacion": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos típicos. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «continuidad». El distractor «reserva judicial» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Continuidad, regularidad, igualdad y adaptabilidad son rasgos típicos. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «continuidad»."
   },
   {
     "id": "topup-19-08",
     "pregunta": "En las formas de actividad administrativa y servicio público, la regularidad del servicio público significa que debe prestarse:",
     "opciones": [
-      "conforme a reglas y condiciones preestablecidas",
       "solo cuando lo pida la mayoría absoluta del Pleno",
       "sin control alguno",
+      "conforme a reglas y condiciones preestablecidas",
       "únicamente por empresas privadas"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Características del servicio público",
     "tema": 19,
-    "explicacion": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «conforme a reglas y condiciones preestablecidas». El distractor «solo cuando lo pida la mayoría absoluta del…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La regularidad exige funcionamiento conforme a normas y condiciones conocidas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «conforme a reglas y condiciones preestablecidas»."
   },
   {
     "id": "topup-19-09",
     "pregunta": "En las formas de actividad administrativa y servicio público, la igualdad en el acceso al servicio público implica:",
     "opciones": [
-      "trato equivalente a usuarios en situación equivalente",
       "gratuidad obligatoria en todos los casos",
       "supresión de cualquier tasa o precio público",
-      "reserva exclusiva a funcionarios"
+      "reserva exclusiva a funcionarios",
+      "trato equivalente a usuarios en situación equivalente"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Características del servicio público",
     "tema": 19,
-    "explicacion": "La igualdad prohíbe discriminaciones injustificadas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «trato equivalente a usuarios en situación equivalente». El distractor «gratuidad obligatoria en todos los casos» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La igualdad prohíbe discriminaciones injustificadas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «trato equivalente a usuarios en situación equivalente»."
   },
   {
     "id": "topup-19-10",
@@ -81,49 +81,49 @@
     "correcta": 0,
     "referencia": "II.10 · Características del servicio público",
     "tema": 19,
-    "explicacion": "Los servicios deben ajustarse a la evolución de las necesidades colectivas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «puede modificarse para responder a nuevas necesidades públicas». El distractor «queda congelado para siempre en su forma inicial» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Los servicios deben ajustarse a la evolución de las necesidades colectivas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «puede modificarse para responder a nuevas necesidades públicas»."
   },
   {
     "id": "topup-19-11",
     "pregunta": "En las formas de gestión del servicio público, en la gestión directa:",
     "opciones": [
-      "el Ayuntamiento lo presta con medios propios",
       "siempre existe concesionario privado",
+      "el Ayuntamiento lo presta con medios propios",
       "desaparece toda responsabilidad municipal",
       "no puede haber personal funcionario"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Formas de gestión",
     "tema": 19,
-    "explicacion": "La gestión directa utiliza medios municipales o entes instrumentales públicos. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «el Ayuntamiento lo presta con medios propios». El distractor «siempre existe concesionario privado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La gestión directa utiliza medios municipales o entes instrumentales públicos. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «el Ayuntamiento lo presta con medios propios»."
   },
   {
     "id": "topup-19-12",
-    "pregunta": "En las formas de actividad administrativa y servicio público, la concesión de servicios se caracteriza porque:",
+    "pregunta": "¿Qué afirmación es correcta sobre la financiación de los servicios públicos locales?",
     "opciones": [
-      "el contratista asume la explotación bajo riesgo operacional",
-      "el Pleno renuncia a toda potestad de control",
-      "la licencia urbanística sustituye al contrato",
-      "no existe interés general"
+      "Todos deben ser gratuitos para las personas usuarias.",
+      "Solo pueden financiarse con precios privados.",
+      "No tienen que ser necesariamente gratuitos; su financiación depende de su régimen jurídico y puede incluir tributos, tasas, precios públicos, tarifas o presupuesto.",
+      "La financiación puede fijarse libremente por la empresa adjudicataria."
     ],
-    "correcta": 0,
-    "referencia": "II.10 · Formas de gestión",
+    "correcta": 2,
+    "referencia": "II.10 · 3.2 Principios de la prestación",
     "tema": 19,
-    "explicacion": "En la concesión el contratista explota el servicio bajo control administrativo. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «el contratista asume la explotación bajo riesgo operacional». El distractor «el Pleno renuncia a toda potestad de control» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El carácter de servicio público no implica gratuidad universal. La forma de financiación depende de la legislación aplicable y puede combinar recursos presupuestarios, tributos, tasas, precios públicos o tarifas. La gestión indirecta tampoco permite a la empresa fijar libremente los cobros al margen del contrato y de la normativa."
   },
   {
     "id": "topup-19-14",
     "pregunta": "En las formas de actividad administrativa y servicio público, la elección de la forma de gestión de un servicio debe justificarse por criterios de:",
     "opciones": [
-      "eficacia, sostenibilidad, coste y calidad",
       "afinidad política exclusiva",
       "azar",
-      "preferencia personal del contratista"
+      "preferencia personal del contratista",
+      "eficacia, sostenibilidad, coste y calidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Formas de gestión",
     "tema": 19,
-    "explicacion": "La elección no es arbitraria: requiere motivación en interés público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «eficacia, sostenibilidad, coste y calidad». El distractor «afinidad política exclusiva» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La elección no es arbitraria: requiere motivación en interés público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «eficacia, sostenibilidad, coste y calidad»."
   },
   {
     "id": "topup-19-15",
@@ -137,49 +137,49 @@
     "correcta": 0,
     "referencia": "II.10 · Remunicipalización",
     "tema": 19,
-    "explicacion": "La remunicipalización supone volver a la gestión pública directa o instrumental. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «recuperar para gestión pública un servicio antes gestionado indirectamente». El distractor «crear una nueva provincia» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La remunicipalización supone volver a la gestión pública directa o instrumental. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «recuperar para gestión pública un servicio antes gestionado indirectamente»."
   },
   {
     "id": "topup-19-16",
     "pregunta": "En las formas de actividad administrativa y servicio público, la remunicipalización debe respetar, entre otras cuestiones:",
     "opciones": [
-      "contratos vigentes, personal y sostenibilidad financiera",
       "solo el criterio del concejal delegado",
+      "contratos vigentes, personal y sostenibilidad financiera",
       "la inexistencia de memoria",
       "la supresión de cualquier control interno"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Remunicipalización",
     "tema": 19,
-    "explicacion": "La recuperación del servicio exige procedimiento y análisis jurídico-económico. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «contratos vigentes, personal y sostenibilidad financiera». El distractor «solo el criterio del concejal delegado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La recuperación del servicio exige procedimiento y análisis jurídico-económico. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «contratos vigentes, personal y sostenibilidad financiera»."
   },
   {
     "id": "topup-19-17",
     "pregunta": "La iniciativa económica pública local exige especial prudencia porque debe valorar:",
     "opciones": [
-      "interés público, mercado y sostenibilidad financiera",
       "solo el número de concejales",
       "exclusivamente el color político del gobierno",
+      "interés público, mercado y sostenibilidad financiera",
       "la firma del delegado sindical"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Iniciativa económica pública",
     "tema": 19,
-    "explicacion": "La actividad económica pública local requiere memoria justificativa y control. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «interés público, mercado y sostenibilidad financiera». El distractor «solo el número de concejales» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La actividad económica pública local requiere memoria justificativa y control. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «interés público, mercado y sostenibilidad financiera»."
   },
   {
     "id": "topup-19-18",
     "pregunta": "Aunque un servicio se gestione indirectamente, el Ayuntamiento conserva:",
     "opciones": [
-      "responsabilidad y potestades de dirección y control",
       "ninguna obligación frente a la ciudadanía",
       "solo funciones notariales",
-      "competencia judicial penal"
+      "competencia judicial penal",
+      "responsabilidad y potestades de dirección y control"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Gestión y control del servicio",
     "tema": 19,
-    "explicacion": "La responsabilidad pública no desaparece por externalizar la gestión. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «responsabilidad y potestades de dirección y control». El distractor «ninguna obligación frente a la ciudadanía» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La responsabilidad pública no desaparece por externalizar la gestión. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «responsabilidad y potestades de dirección y control»."
   },
   {
     "id": "topup-19-19",
@@ -193,49 +193,49 @@
     "correcta": 0,
     "referencia": "II.10 · Gestión y control del servicio",
     "tema": 19,
-    "explicacion": "La Administración debe vigilar calidad y cumplimiento del servicio. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «indicadores, inspecciones y penalidades». El distractor «desaparición del control municipal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La Administración debe vigilar calidad y cumplimiento del servicio. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «indicadores, inspecciones y penalidades»."
   },
   {
     "id": "refine-19-01",
     "pregunta": "La actividad de limitación o policía se caracteriza porque la Administración:",
     "opciones": [
-      "Condiciona o restringe el ejercicio de derechos y actividades privadas para proteger el interés general",
       "Sustituye siempre a la iniciativa privada mediante la gestión directa del servicio",
+      "Condiciona o restringe el ejercicio de derechos y actividades privadas para proteger el interés general",
       "Se limita a conceder ayudas o subvenciones sin imponer deberes ni condiciones",
       "Puede ejercerse al margen de habilitación normativa previa por tratarse de una potestad implícita"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Formas de actividad administrativa · limitación o policía",
     "tema": 19,
-    "explicacion": "La actividad de limitación o policía impone condicionamientos o restricciones a la esfera privada por razones de interés general y bajo cobertura normativa. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «Condiciona o restringe el ejercicio de derechos y actividades privadas para proteger el interés general». El distractor «Sustituye siempre a la iniciativa privada mediante la…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La actividad de limitación o policía impone condicionamientos o restricciones a la esfera privada por razones de interés general y bajo cobertura normativa. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «Condiciona o restringe el ejercicio de derechos y actividades privadas para proteger el interés general»."
   },
   {
     "id": "refine-19-02",
     "pregunta": "En la gestión indirecta de un servicio público, el Ayuntamiento conserva:",
     "opciones": [
-      "la titularidad del servicio y las potestades de dirección y control",
       "solo una función simbólica sin capacidad de intervenir",
       "la obligación de no supervisar al contratista",
+      "la titularidad del servicio y las potestades de dirección y control",
       "la competencia jurisdiccional sobre litigios penales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Gestión de los servicios públicos",
     "tema": 19,
-    "explicacion": "Aunque la prestación se externalice, la Administración mantiene la titularidad y sus potestades de control. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «la titularidad del servicio y las potestades de dirección y control». El distractor «solo una función simbólica sin capacidad de intervenir» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Aunque la prestación se externalice, la Administración mantiene la titularidad y sus potestades de control. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «la titularidad del servicio y las potestades de dirección y control»."
   },
   {
     "id": "refine-19-03",
     "pregunta": "La concesión de servicios se distingue porque el contratista asume:",
     "opciones": [
-      "el riesgo operacional de la explotación",
       "la potestad reglamentaria municipal",
       "la fe pública de los acuerdos",
-      "la función interventora"
+      "la función interventora",
+      "el riesgo operacional de la explotación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Gestión indirecta y concesión",
     "tema": 19,
-    "explicacion": "La asunción del riesgo operacional es la nota propia de la concesión de servicios. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «el riesgo operacional de la explotación». El distractor «la potestad reglamentaria municipal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La asunción del riesgo operacional es la nota propia de la concesión de servicios. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «el riesgo operacional de la explotación»."
   },
   {
     "id": "refine-19-04",
@@ -249,49 +249,49 @@
     "correcta": 0,
     "referencia": "II.10 · Remunicipalización",
     "tema": 19,
-    "explicacion": "La vuelta a la gestión pública exige respetar el marco contractual, laboral y económico aplicable. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «ignorar contratos vigentes, personal afectado y sostenibilidad financiera». El distractor «recuperar la gestión pública del servicio» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La vuelta a la gestión pública exige respetar el marco contractual, laboral y económico aplicable. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «ignorar contratos vigentes, personal afectado y sostenibilidad financiera»."
   },
   {
     "id": "refine-19-05",
     "pregunta": "La iniciativa económica pública local requiere motivar especialmente:",
     "opciones": [
-      "su conveniencia para el interés general y su sostenibilidad",
       "la ausencia de control interno",
+      "su conveniencia para el interés general y su sostenibilidad",
       "que no exista competencia privada alguna",
       "la sustitución del presupuesto por tarifas libres"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Iniciativa económica pública local",
     "tema": 19,
-    "explicacion": "La actividad económica pública necesita justificación reforzada desde la perspectiva del interés general y la sostenibilidad financiera. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «su conveniencia para el interés general y su sostenibilidad». El distractor «la ausencia de control interno» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La actividad económica pública necesita justificación reforzada desde la perspectiva del interés general y la sostenibilidad financiera. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «su conveniencia para el interés general y su sostenibilidad»."
   },
   {
     "id": "refine-19-06",
     "pregunta": "Cuando el Ayuntamiento elige una forma de gestión de un servicio, no actúa con libertad absoluta porque debe atender, entre otros, a criterios de:",
     "opciones": [
-      "eficacia, coste, calidad, control y sostenibilidad",
       "afinidad política del futuro gestor",
       "azar o turno entre empresas",
+      "eficacia, coste, calidad, control y sostenibilidad",
       "preferencia personal del alcalde sin expediente"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Elección de la forma de gestión",
     "tema": 19,
-    "explicacion": "La selección de la forma de gestión debe justificarse objetivamente en un expediente y responder al interés público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «eficacia, coste, calidad, control y sostenibilidad». El distractor «afinidad política del futuro gestor» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La selección de la forma de gestión debe justificarse objetivamente en un expediente y responder al interés público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «eficacia, coste, calidad, control y sostenibilidad»."
   },
   {
     "id": "refine-19-07",
     "pregunta": "En las formas de actividad administrativa y servicio público, una nota clásica del servicio público es la continuidad, lo que implica que su prestación:",
     "opciones": [
-      "no puede interrumpirse arbitrariamente si afecta a necesidades colectivas",
       "debe cesar en vacaciones salvo acuerdo contrario",
       "depende solo del criterio del concesionario",
-      "carece de relación con la igualdad de los usuarios"
+      "carece de relación con la igualdad de los usuarios",
+      "no puede interrumpirse arbitrariamente si afecta a necesidades colectivas"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Servicio público",
     "tema": 19,
-    "explicacion": "La continuidad expresa la necesidad de asegurar una prestación regular a la colectividad. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «no puede interrumpirse arbitrariamente si afecta a necesidades colectivas». El distractor «debe cesar en vacaciones salvo acuerdo contrario» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La continuidad expresa la necesidad de asegurar una prestación regular a la colectividad. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «no puede interrumpirse arbitrariamente si afecta a necesidades colectivas»."
   },
   {
     "id": "burgos-ii10-deep-01",
@@ -305,49 +305,49 @@
     "correcta": 0,
     "referencia": "II.10 · Artículo 85.1 LRBRL",
     "tema": 19,
-    "explicacion": "El artículo 85.1 vincula el servicio público local a la prestación por la entidad local dentro de su ámbito competencial; no exige gratuidad ni monopolio. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «los que prestan las entidades locales en el ámbito de sus competencias». El distractor «todas las actividades privadas realizadas dentro del término…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 85.1 vincula el servicio público local a la prestación por la entidad local dentro de su ámbito competencial; no exige gratuidad ni monopolio. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «los que prestan las entidades locales en el ámbito de sus competencias»."
   },
   {
     "id": "burgos-ii10-deep-02",
     "pregunta": "¿Cuál de las siguientes es una modalidad de gestión directa de un servicio público local conforme al artículo 85.2 LRBRL?",
     "opciones": [
-      "La entidad pública empresarial local",
       "El contrato de servicios con cualquier empresa",
+      "La entidad pública empresarial local",
       "La concesión de servicios con riesgo operacional",
       "La autorización administrativa a un particular"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Gestión directa",
     "tema": 19,
-    "explicacion": "La gestión directa puede realizarse por la propia entidad, organismo autónomo local, entidad pública empresarial local o sociedad mercantil local de capital público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «La entidad pública empresarial local». El distractor «El contrato de servicios con cualquier empresa» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La gestión directa puede realizarse por la propia entidad, organismo autónomo local, entidad pública empresarial local o sociedad mercantil local de capital público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «La entidad pública empresarial local»."
   },
   {
     "id": "burgos-ii10-deep-03",
     "pregunta": "Para elegir una entidad pública empresarial local o una sociedad mercantil local como forma de gestión directa, debe acreditarse mediante memoria que resulta:",
     "opciones": [
-      "más sostenible y eficiente que la gestión por la propia entidad u organismo autónomo",
       "más barata que cualquier servicio privado del mercado, sin excepción",
       "exenta de informe de la Intervención por tener personalidad jurídica propia",
+      "más sostenible y eficiente que la gestión por la propia entidad u organismo autónomo",
       "obligatoria cuando el servicio tenga usuarios"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Artículo 85.2 LRBRL",
     "tema": 19,
-    "explicacion": "La LRBRL exige memoria justificativa, informes sobre el coste y valoración de la sostenibilidad financiera para esas dos modalidades. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «más sostenible y eficiente que la gestión por la propia entidad u organismo autónomo». El distractor «más barata que cualquier servicio privado del mercado,…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La LRBRL exige memoria justificativa, informes sobre el coste y valoración de la sostenibilidad financiera para esas dos modalidades. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «más sostenible y eficiente que la gestión por la propia entidad u organismo autónomo»."
   },
   {
     "id": "burgos-ii10-deep-04",
     "pregunta": "La nota que distingue principalmente la concesión de servicios del contrato de servicios es:",
     "opciones": [
-      "la transferencia al concesionario del riesgo operacional de la explotación",
       "que solo la concesión puede tener un objeto relacionado con servicios",
       "que el contrato de servicios siempre se paga con tarifas de usuarios",
-      "que la concesión elimina la competencia municipal sobre el servicio"
+      "que la concesión elimina la competencia municipal sobre el servicio",
+      "la transferencia al concesionario del riesgo operacional de la explotación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Concesión y contrato de servicios",
     "tema": 19,
-    "explicacion": "En la concesión la explotación implica riesgo operacional; la Administración no garantiza recuperar inversiones y costes en condiciones normales. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «la transferencia al concesionario del riesgo operacional de la explotación». El distractor «que solo la concesión puede tener un objeto…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "En la concesión la explotación implica riesgo operacional; la Administración no garantiza recuperar inversiones y costes en condiciones normales. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «la transferencia al concesionario del riesgo operacional de la explotación»."
   },
   {
     "id": "burgos-ii10-deep-05",
@@ -361,49 +361,49 @@
     "correcta": 0,
     "referencia": "II.10 · Control de la gestión indirecta",
     "tema": 19,
-    "explicacion": "La gestión indirecta encomienda la prestación material, pero no transfiere la titularidad ni elimina las potestades de control administrativo. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «conserva la competencia, la dirección y el control del servicio». El distractor «pierde la responsabilidad de garantizar su continuidad» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La gestión indirecta encomienda la prestación material, pero no transfiere la titularidad ni elimina las potestades de control administrativo. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «conserva la competencia, la dirección y el control del servicio»."
   },
   {
     "id": "burgos-ii10-deep-06",
     "pregunta": "La continuidad, como principio del servicio público, exige que la prestación:",
     "opciones": [
-      "no se interrumpa arbitrariamente cuando atiende una necesidad colectiva",
       "sea siempre gratuita para todos los usuarios",
+      "no se interrumpa arbitrariamente cuando atiende una necesidad colectiva",
       "sea prestada necesariamente por funcionarios",
       "permanezca invariable aunque cambien las necesidades públicas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Principios del servicio público",
     "tema": 19,
-    "explicacion": "Continuidad no equivale a gratuidad ni impide la adaptación del servicio; impide interrupciones arbitrarias de una prestación colectiva. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «no se interrumpa arbitrariamente cuando atiende una necesidad colectiva». El distractor «sea siempre gratuita para todos los usuarios» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Continuidad no equivale a gratuidad ni impide la adaptación del servicio; impide interrupciones arbitrarias de una prestación colectiva. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «no se interrumpa arbitrariamente cuando atiende una necesidad colectiva»."
   },
   {
     "id": "burgos-ii10-deep-07",
     "pregunta": "La remunicipalización de un servicio público significa:",
     "opciones": [
-      "recuperar su gestión directa o instrumental tras una gestión indirecta",
       "suprimir la competencia municipal sobre el servicio",
       "rescindir siempre sin indemnización el contrato vigente",
+      "recuperar su gestión directa o instrumental tras una gestión indirecta",
       "incorporar automáticamente al personal de la concesionaria como funcionario"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Remunicipalización",
     "tema": 19,
-    "explicacion": "Es una decisión sobre la forma de gestión; debe respetar la extinción contractual, la legislación laboral y las reglas de acceso al empleo público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «recuperar su gestión directa o instrumental tras una gestión indirecta». El distractor «suprimir la competencia municipal sobre el servicio» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Es una decisión sobre la forma de gestión; debe respetar la extinción contractual, la legislación laboral y las reglas de acceso al empleo público. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «recuperar su gestión directa o instrumental tras una gestión indirecta»."
   },
   {
     "id": "burgos-ii10-deep-08",
     "pregunta": "En la remunicipalización, el expediente debe valorar especialmente:",
     "opciones": [
-      "costes completos, personal, bienes afectos, continuidad y sostenibilidad financiera",
       "solo la preferencia política del órgano que decide",
       "únicamente la duración del contrato, sin analizar medios ni costes",
-      "la eliminación de los indicadores de calidad"
+      "la eliminación de los indicadores de calidad",
+      "costes completos, personal, bienes afectos, continuidad y sostenibilidad financiera"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Expediente de remunicipalización",
     "tema": 19,
-    "explicacion": "La recuperación del servicio exige una comparación jurídica, económica y organizativa de las alternativas y sus efectos. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «costes completos, personal, bienes afectos, continuidad y sostenibilidad financiera». El distractor «solo la preferencia política del órgano que decide» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La recuperación del servicio exige una comparación jurídica, económica y organizativa de las alternativas y sus efectos. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «costes completos, personal, bienes afectos, continuidad y sostenibilidad financiera»."
   },
   {
     "id": "burgos-ii10-deep-09",
@@ -417,48 +417,48 @@
     "correcta": 0,
     "referencia": "II.10 · Artículo 86 LRBRL",
     "tema": 19,
-    "explicacion": "El artículo 86 exige justificar la conveniencia y oportunidad y analizar oferta, demanda, rentabilidad y efectos sobre la concurrencia. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «oferta, demanda, rentabilidad y posibles efectos sobre la concurrencia empresarial». El distractor «solo el número de empleados municipales disponibles» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 86 exige justificar la conveniencia y oportunidad y analizar oferta, demanda, rentabilidad y efectos sobre la concurrencia. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «oferta, demanda, rentabilidad y posibles efectos sobre la concurrencia empresarial»."
   },
   {
     "id": "burgos-ii10-deep-10",
     "pregunta": "En régimen de libre concurrencia, la iniciativa económica local requiere, conforme al artículo 97 TRRL:",
     "opciones": [
-      "acuerdo inicial, comisión de estudio y memoria social, jurídica, técnica y financiera",
       "únicamente una orden de la Alcaldía sin expediente",
+      "acuerdo inicial, comisión de estudio y memoria social, jurídica, técnica y financiera",
       "una sentencia previa que declare la utilidad pública",
       "la concesión obligatoria del servicio a una empresa privada"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.10 · Artículos 96 a 98 TRRL",
     "tema": 19,
-    "explicacion": "El TRRL articula un expediente específico con acuerdo inicial, comisión de estudio y memoria sobre los aspectos social, jurídico, técnico y financiero. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «acuerdo inicial, comisión de estudio y memoria social, jurídica, técnica y financiera». El distractor «únicamente una orden de la Alcaldía sin expediente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El TRRL articula un expediente específico con acuerdo inicial, comisión de estudio y memoria sobre los aspectos social, jurídico, técnico y financiero. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «acuerdo inicial, comisión de estudio y memoria social, jurídica, técnica y financiera»."
   },
   {
     "id": "burgos-ii10-deep-11",
     "pregunta": "¿Cuál de estas actuaciones es actividad de fomento y no actividad de limitación?",
     "opciones": [
-      "Conceder una subvención mediante convocatoria para impulsar una actividad cultural",
       "Ordenar el cese de una actividad sin licencia",
       "Inspeccionar el cumplimiento de una ordenanza",
+      "Conceder una subvención mediante convocatoria para impulsar una actividad cultural",
       "Imponer una sanción por incumplir una obligación"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.10 · Formas de actividad administrativa",
     "tema": 19,
-    "explicacion": "El fomento incentiva conductas de interés general; las otras opciones condicionan, controlan o sancionan actividades privadas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «Conceder una subvención mediante convocatoria para impulsar una actividad cultural». El distractor «Ordenar el cese de una actividad sin licencia» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El fomento incentiva conductas de interés general; las otras opciones condicionan, controlan o sancionan actividades privadas. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «Conceder una subvención mediante convocatoria para impulsar una actividad cultural»."
   },
   {
     "id": "burgos-ii10-deep-12",
     "pregunta": "Un servicio municipal que requiere una ordenanza de uso, un contrato de limpieza, tarifas e inspecciones muestra que:",
     "opciones": [
-      "las formas de actividad administrativa pueden combinarse en una misma prestación",
       "la existencia de un contrato convierte el servicio en actividad privada",
       "las tarifas eliminan la condición de servicio público",
-      "la inspección solo puede realizarla un órgano judicial"
+      "la inspección solo puede realizarla un órgano judicial",
+      "las formas de actividad administrativa pueden combinarse en una misma prestación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.10 · Relación entre formas de actividad",
     "tema": 19,
-    "explicacion": "Un servicio público puede incorporar regulación, contratación, financiación e inspección; cada instrumento cumple una función distinta. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «las formas de actividad administrativa pueden combinarse en una misma prestación». El distractor «la existencia de un contrato convierte el servicio…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Un servicio público puede incorporar regulación, contratación, financiación e inspección; cada instrumento cumple una función distinta. La norma aplicable —los artículos 85–86 de la Ley 7/1985 y la legislación de contratos— establece «las formas de actividad administrativa pueden combinarse en una misma prestación»."
   }
 ]

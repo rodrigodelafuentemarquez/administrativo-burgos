@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Ctrl + E». En Word para Windows configurado en español, Microsoft documenta Ctrl+E para seleccionar todo; la combinación puede diferir en otras aplicaciones o idiomas. La alternativa «Ctrl + T» no satisface ese criterio; aquí se aplica «Ctrl + E»."
+    "explicacion": "La respuesta correcta es «Ctrl + E». En Word para Windows configurado en español, Microsoft documenta Ctrl+E para seleccionar todo; la combinación puede diferir en otras aplicaciones o idiomas."
   },
   {
     "id": "pdf-2024-burgos-est-q46",
@@ -31,7 +31,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Restringir edición». La alternativa «Bloquear edición» no satisface ese criterio; aquí se aplica «Restringir edición». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Restringir edición permite limitar las modificaciones que se pueden hacer en un documento Word. No debe confundirse con el seguimiento de cambios, que registra las modificaciones, ni con aceptar o rechazar una revisión."
   },
   {
     "id": "pdf-2024-burgos-est-q49",
@@ -48,7 +48,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «=PROMEDIO (A1:E1)». PROMEDIO calcula la media aritmética de los valores numéricos del rango, sin ampliar inadvertidamente el intervalo pedido. La alternativa «=PROMEDIO (A1:E5)» no satisface ese criterio; aquí se aplica «=PROMEDIO (A1:E1)». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «=PROMEDIO (A1:E1)». PROMEDIO calcula la media aritmética de los valores numéricos del rango, sin ampliar inadvertidamente el intervalo pedido."
   },
   {
     "id": "pdf-2024-burgos-est-q50",
@@ -65,7 +65,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Libro de trabajo». La alternativa «Disco duro» no satisface ese criterio; aquí se aplica «Libro de trabajo». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "En Excel, el libro de trabajo es el archivo que contiene una o varias hojas de cálculo; cada hoja contiene celdas organizadas en filas y columnas."
   },
   {
     "id": "pdf-2023-burgos-q17",
@@ -83,7 +83,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Presentación diseño de impresión». La alternativa «Presentación diseño de página» no satisface ese criterio; aquí se aplica «Presentación diseño de impresión». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La vista Diseño de impresión muestra el documento aproximadamente como quedará en la página impresa, incluidos márgenes y saltos."
   },
   {
     "id": "pdf-2023-burgos-q18",
@@ -101,21 +101,21 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Cambiar filas por columnas o viceversa». La alternativa «Llevarlo a otra hoja vacía» no satisface ese criterio; aquí se aplica «Cambiar filas por columnas o viceversa». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Transponer intercambia filas y columnas al pegar un rango; no cambia los valores que contiene."
   },
   {
     "id": "t38-p001",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, Word 365 es:",
     "opciones": [
-      "un procesador de texto",
       "una base de datos relacional",
       "un navegador web",
-      "un sistema operativo"
+      "un sistema operativo",
+      "un procesador de texto"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · 1.1 Qué es Word 365",
-    "explicacion": "La respuesta correcta es «un procesador de texto». La alternativa «una base de datos relacional» no satisface ese criterio; aquí se aplica «un procesador de texto». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Word es la aplicación de procesamiento de textos de Microsoft 365; permite crear, revisar, dar formato e imprimir documentos."
   },
   {
     "id": "t38-p002",
@@ -129,49 +129,49 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · 1.2 La interfaz de Word 365",
-    "explicacion": "La respuesta correcta es «cinta de opciones (Ribbon)». La alternativa «barra de direcciones» no satisface ese criterio; aquí se aplica «cinta de opciones (Ribbon)». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La cinta de opciones agrupa comandos de Word en pestañas y grupos; su contenido puede variar según la versión y el contexto."
   },
   {
     "id": "t38-p003",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, un estilo de Word es:",
     "opciones": [
-      "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
       "una tabla dinámica",
+      "un conjunto de formatos predefinidos aplicado de una sola vez a un texto",
       "un archivo .accdb",
       "un protocolo de internet"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · 2.4 Estilos",
-    "explicacion": "La respuesta correcta es «un conjunto de formatos predefinidos aplicado de una…». La alternativa «una tabla dinámica» no satisface ese criterio; aquí se aplica «un conjunto de formatos predefinidos aplicado de una…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Un estilo guarda un conjunto de atributos de formato para aplicarlo de forma coherente; los estilos de título además estructuran el documento."
   },
   {
     "id": "t38-p004",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, la tabla de contenido se genera automáticamente a partir de:",
     "opciones": [
-      "los estilos de Título aplicados al documento",
       "las notas al pie",
       "la fecha de creación",
+      "los estilos de Título aplicados al documento",
       "los comentarios"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · 2.10 Tabla de contenido",
-    "explicacion": "La respuesta correcta es «los estilos de Título aplicados al documento». Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable. La alternativa «los comentarios» no satisface ese criterio; aquí se aplica «los estilos de Título aplicados al documento»."
+    "explicacion": "La respuesta correcta es «los estilos de Título aplicados al documento». Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable."
   },
   {
     "id": "t38-p005",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, el seguimiento de cambios sirve para:",
     "opciones": [
-      "registrar todas las modificaciones del documento",
       "eliminar automáticamente errores",
       "cambiar el idioma",
-      "comprimir archivos"
+      "comprimir archivos",
+      "registrar todas las modificaciones del documento"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · 2.13 Seguimiento de cambios y comentarios",
-    "explicacion": "La respuesta correcta es «registrar todas las modificaciones del documento». La alternativa «eliminar automáticamente errores» no satisface ese criterio; aquí se aplica «registrar todas las modificaciones del documento». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El seguimiento de cambios registra inserciones, eliminaciones y otras modificaciones para revisarlas; no acepta ni rechaza los cambios por sí mismo."
   },
   {
     "id": "t38-p006",
@@ -185,49 +185,49 @@
     ],
     "correcta": 0,
     "referencia": "Word 365 · combinar correspondencia",
-    "explicacion": "La combinación de correspondencia sirve para producir documentos personalizados en serie usando un documento base y una fuente de datos. La alternativa «Bases de datos relacionales con integridad referencial» no satisface ese criterio; aquí se aplica «Documentos personalizados en serie a partir de un…»."
+    "explicacion": "La combinación de correspondencia combina un documento principal, una fuente de datos y campos para producir comunicaciones personalizadas."
   },
   {
     "id": "t38-p007",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, un formato de guardado de Word es:",
     "opciones": [
-      ".docx",
       ".mdb",
+      ".docx",
       ".pptx",
       ".html solo"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · 3.1 Guardar documentos",
-    "explicacion": "La respuesta correcta es «docx». La alternativa «mdb» no satisface ese criterio; aquí se aplica «docx». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": ".docx es el formato habitual de documentos de Word; .docm admite macros y .pdf se usa para distribuir una representación estable."
   },
   {
     "id": "t38-p008",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, la impresión de documentos se gestiona desde:",
     "opciones": [
-      "Archivo → Imprimir",
       "Insertar → Tabla",
       "Revisar → Idioma",
+      "Archivo → Imprimir",
       "Vista → Zoom"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · 3.3 Impresión de documentos",
-    "explicacion": "La respuesta correcta es «Archivo → Imprimir». La alternativa «Insertar → Tabla» no satisface ese criterio; aquí se aplica «Archivo → Imprimir». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Archivo → Imprimir reúne selección de impresora, páginas, copias, diseño y opciones de impresión, incluidas las marcas de revisión."
   },
   {
     "id": "t38-p009",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, las opciones de Word se encuentran en:",
     "opciones": [
-      "Archivo → Opciones",
       "Inicio → Nuevo",
       "Vista → Reglas",
-      "Referencias → Citas"
+      "Referencias → Citas",
+      "Archivo → Opciones"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · 4.1 Opciones de Word",
-    "explicacion": "La respuesta correcta es «Archivo → Opciones». La alternativa «Inicio → Nuevo» no satisface ese criterio; aquí se aplica «Archivo → Opciones». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Archivo → Opciones abre preferencias generales de Word, como revisión, idioma, guardado y personalización de la cinta."
   },
   {
     "id": "t38-p010",
@@ -241,49 +241,49 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · 5.1 Qué es Excel 365",
-    "explicacion": "La respuesta correcta es «una hoja de cálculo». La alternativa «un procesador de texto» no satisface ese criterio; aquí se aplica «una hoja de cálculo». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Excel es una aplicación de hoja de cálculo; un libro puede incluir varias hojas con datos y fórmulas."
   },
   {
     "id": "t38-p011",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, el libro de Excel está compuesto por:",
     "opciones": [
-      "hojas de cálculo",
       "párrafos",
+      "hojas de cálculo",
       "nodos",
       "mensajes"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · 6.1 El libro de Excel / 6.2 Las hojas de cálculo",
-    "explicacion": "La respuesta correcta es «hojas de cálculo». La alternativa «párrafos» no satisface ese criterio; aquí se aplica «hojas de cálculo». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Un libro de Excel contiene una o más hojas de cálculo; cada hoja tiene filas, columnas y celdas."
   },
   {
     "id": "t38-p012",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, una referencia relativa en Excel:",
     "opciones": [
-      "se ajusta al copiar una fórmula",
       "permanece fija siempre",
       "solo existe en Word",
+      "se ajusta al copiar una fórmula",
       "no puede usarse en fórmulas"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · 9.2 Referencias a celdas",
-    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «permanece fija siempre» no satisface ese criterio; aquí se aplica «se ajusta al copiar una fórmula». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula."
   },
   {
     "id": "t38-p013",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, una función principal de Excel es:",
     "opciones": [
-      "SUMA",
       "CERTIFICADO",
       "NOTIFICACIÓN",
-      "CIRCULAR"
+      "CIRCULAR",
+      "SUMA"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · 9.3 Funciones principales",
-    "explicacion": "La respuesta correcta es «SUMA». La alternativa «CERTIFICADO» no satisface ese criterio; aquí se aplica «SUMA». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "SUMA agrega valores numéricos de celdas o rangos; el rango utilizado debe comprobarse para no omitir datos."
   },
   {
     "id": "t38-p014",
@@ -297,49 +297,49 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · 10. Gráficos en Excel",
-    "explicacion": "La respuesta correcta es «representar visualmente datos». La alternativa «firmar documentos» no satisface ese criterio; aquí se aplica «representar visualmente datos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Los gráficos representan datos visualmente; conviene incluir título, unidades y escalas que permitan interpretarlos sin confusión."
   },
   {
     "id": "t38-p015",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, las tablas dinámicas se estudian dentro de:",
     "opciones": [
-      "gestión de datos en Excel",
       "gestión de correo",
+      "gestión de datos en Excel",
       "personalización de Word",
       "copias de seguridad"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · 11.4 Tablas dinámicas (PivotTable)",
-    "explicacion": "La respuesta correcta es «gestión de datos en Excel». La alternativa «gestión de correo» no satisface ese criterio; aquí se aplica «gestión de datos en Excel». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Las tablas dinámicas resumen y reorganizan datos por campos, categorías y valores para facilitar su análisis."
   },
   {
     "id": "t38-p016",
     "tema": 41,
     "pregunta": "La tabla de contenido de Word se actualiza, entre otros medios, con la tecla:",
     "opciones": [
-      "F9",
       "F2",
       "F12",
+      "F9",
       "Ctrl + P"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · 2.10 Tabla de contenido",
-    "explicacion": "La respuesta correcta es «F9». Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable. La alternativa «F2» no satisface ese criterio; aquí se aplica «F9». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «F9». Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable."
   },
   {
     "id": "t38-p017",
     "tema": 41,
     "pregunta": "Si Word se cierra inesperadamente, la recuperación de documentos ofrece:",
     "opciones": [
-      "las versiones autoguardadas disponibles al reiniciarse",
       "solo el documento original guardado manualmente",
       "únicamente los archivos PDF exportados previamente",
-      "una copia impresa del último documento abierto"
+      "una copia impresa del último documento abierto",
+      "las versiones autoguardadas disponibles al reiniciarse"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · 3.2 Recuperación de documentos",
-    "explicacion": "Word muestra las versiones autoguardadas cuando se reinicia tras un cierre inesperado. La alternativa «solo el documento original guardado manualmente» no satisface ese criterio; aquí se aplica «las versiones autoguardadas disponibles al reiniciarse». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Autorrecuperación puede ofrecer versiones de recuperación tras un cierre inesperado; no sustituye el guardado periódico ni garantiza recuperar todo."
   },
   {
     "id": "t38-p018",
@@ -353,49 +353,49 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · 7.3 Formato de celdas",
-    "explicacion": "La respuesta correcta es «Ctrl + 1». La alternativa «Ctrl + 9» no satisface ese criterio; aquí se aplica «Ctrl + 1». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Ctrl+1 abre Formato de celdas en Excel para configurar número, alineación, fuente, bordes, relleno y protección."
   },
   {
     "id": "t38-p019",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, una referencia absoluta en Excel se representa como:",
     "opciones": [
-      "$A$1",
       "A1",
+      "$A$1",
       "$A1",
       "A$"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · 9.2 Referencias a celdas",
-    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «A1» no satisface ese criterio; aquí se aplica «$A$1». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula."
   },
   {
     "id": "t38-p020",
     "tema": 41,
     "pregunta": "En ofimática Microsoft 365, BUSCARX se caracteriza por ser:",
     "opciones": [
-      "una versión moderna y más flexible de BUSCARV",
       "una función exclusiva para insertar gráficos",
       "una herramienta para proteger libros con contraseña",
+      "una versión moderna y más flexible de BUSCARV",
       "una opción de impresión avanzada"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · 9.3 Funciones principales",
-    "explicacion": "La respuesta correcta es «una versión moderna y más flexible de BUSCARV». La alternativa «una opción de impresión avanzada» no satisface ese criterio; aquí se aplica «una versión moderna y más flexible de BUSCARV». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "BUSCARX permite buscar en un rango y devolver el valor correspondiente desde otro rango sin exigir que el resultado esté a la derecha."
   },
   {
     "id": "t38-p021",
     "tema": 41,
     "pregunta": "¿Qué función de Excel 365 invierte el valor logico de su argumento?",
     "opciones": [
-      "NO",
       "MINVERSA",
       "CAMBIAR",
-      "ESLOGICO"
+      "ESLOGICO",
+      "NO"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · 9.3 Funciones logicas",
-    "explicacion": "La función NO devuelve el valor logico contrario del argumento evaluado. La alternativa «MINVERSA» no satisface ese criterio; aquí se aplica «NO». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "NO invierte un valor lógico: VERDADERO pasa a FALSO y FALSO a VERDADERO."
   },
   {
     "id": "estado2026-extra-t41-01",
@@ -412,7 +412,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Word 365 permite transcribir audio grabado directamente o cargado desde archivo. La alternativa «Traducir hojas de cálculo automáticamente» no satisface ese criterio; aquí se aplica «Transcribir voz grabando directamente en Word o cargando…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Transcribir convierte voz en texto mediante la función disponible en Word, ya sea grabando o cargando audio en las versiones compatibles."
   },
   {
     "id": "estado2026-extra-t41-02",
@@ -429,7 +429,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Word permite controlar si se imprimen o no las marcas de revisión desde las opciones de impresión. La alternativa «Aceptar todos los cambios obligatoriamente» no satisface ese criterio; aquí se aplica «Desmarcar la opción de imprimir documento con revisiones…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Desactivar la impresión de marcas evita que aparezcan en la copia impresa, pero deja intacto el historial del documento."
   },
   {
     "id": "estado2026-extra-t41-03",
@@ -446,7 +446,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "FILAS devuelve el número de filas de la referencia recibida; no calcula fechas ni cuenta las columnas de la tabla. La alternativa «El número de columnas de Registros» no satisface ese criterio; aquí se aplica «El número de filas de la columna Fecha…»."
+    "explicacion": "FILAS cuenta las filas de la referencia; en Registros[Fecha], la referencia estructurada apunta a los datos de esa columna."
   },
   {
     "id": "estado2026-extra-t41-04",
@@ -463,7 +463,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "dd muestra día con dos dígitos, mmm el mes abreviado y aa el año con dos cifras. La alternativa «11/agosto/2024» no satisface ese criterio; aquí se aplica «11/ago/24». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "dd muestra el día, mmm el nombre abreviado del mes y aa el año con dos cifras; la representación del mes depende de la configuración regional."
   },
   {
     "id": "estado2026-extra-t41-05",
@@ -480,7 +480,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Un rango discontinuo combina áreas separadas, como B2:C2 y B4:C4. La alternativa «B2:C4» no satisface ese criterio; aquí se aplica «B2:C2;B4:C4». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "B2:C2 y B4:C4 son dos bloques no contiguos; el separador puede representarse según la configuración regional de Excel."
   },
   {
     "id": "estado2026-extra-t41-06",
@@ -497,7 +497,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La función NO devuelve el valor lógico opuesto de su argumento. La alternativa «ESLOGICO» no satisface ese criterio; aquí se aplica «NO». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "NO invierte el resultado lógico de su argumento; no cambia los datos originales ni su formato."
   },
   {
     "id": "realstyle-v10-01",
@@ -511,49 +511,49 @@
     ],
     "correcta": 0,
     "referencia": "Revisión test reales · Word 365",
-    "explicacion": "Los exámenes ofimáticos reales suelen preguntar por rutas funcionales concretas, no solo por definiciones. La alternativa «Guardar el documento como imagen PNG» no satisface ese criterio; aquí se aplica «Desactivar la impresión de marcas o documento con…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Desactivar «Imprimir marcas» en la configuración de impresión oculta las marcas en la copia sin aceptar o rechazar los cambios del documento."
   },
   {
     "id": "realstyle-v10-02",
     "tema": 41,
     "pregunta": "En Excel 365, ¿qué resultado devuelve la función FILAS aplicada a una columna de una tabla estructurada, por ejemplo =FILAS(Registros[Fecha])?",
     "opciones": [
-      "El número de filas de esa columna de la tabla",
       "La fecha más reciente del rango",
+      "El número de filas de esa columna de la tabla",
       "El número de columnas de la tabla",
       "La posición de la columna Fecha dentro del libro"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Revisión test reales · Excel 365",
-    "explicacion": "FILAS devuelve el número de filas de la referencia recibida; no calcula fechas ni cuenta las columnas de la tabla. La alternativa «El número de columnas de la tabla» no satisface ese criterio; aquí se aplica «El número de filas de esa columna de…»."
+    "explicacion": "FILAS devuelve el número de filas de la referencia; en este ejemplo cuenta las filas de datos de la columna estructurada."
   },
   {
     "id": "burgos-v10-deep-01",
     "tema": 41,
     "pregunta": "En un documento Word revisado por varias personas, ¿qué diferencia esencial existe entre la vista «Sin marcas» y aceptar o rechazar los cambios?",
     "opciones": [
-      "«Sin marcas» solo oculta temporalmente las marcas; aceptar o rechazar las incorpora o elimina del documento.",
       "No existe ninguna diferencia: ambas acciones eliminan definitivamente el historial.",
       "«Sin marcas» convierte automáticamente el documento en PDF.",
+      "«Sin marcas» solo oculta temporalmente las marcas; aceptar o rechazar las incorpora o elimina del documento.",
       "Aceptar cambios solo modifica la impresión y nunca el contenido."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · Word · control de cambios",
-    "explicacion": "La vista «Sin marcas» cambia la visualización, pero las revisiones siguen en el archivo hasta que se aceptan o rechazan. La alternativa ««Sin marcas» convierte automáticamente el documento en PDF» no satisface ese criterio; aquí se aplica «Sin marcas solo oculta temporalmente las marcas aceptar…»."
+    "explicacion": "La vista «Sin marcas» cambia la visualización, pero las revisiones siguen en el archivo hasta que se aceptan o rechazan. Por eso, para compartir el documento como versión definitiva hay que resolver las marcas pendientes; ocultarlas no las elimina."
   },
   {
     "id": "burgos-v10-deep-02",
     "tema": 41,
     "pregunta": "¿Por qué deben utilizarse estilos de título en lugar de aplicar únicamente negrita y tamaño de fuente a los encabezados de un documento Word?",
     "opciones": [
-      "Porque aportan estructura jerárquica, permiten navegar y generar o actualizar la tabla de contenido.",
       "Porque impiden que el documento pueda imprimirse.",
       "Porque convierten automáticamente todo el texto en una tabla.",
-      "Porque sustituyen siempre a la revisión ortográfica."
+      "Porque sustituyen siempre a la revisión ortográfica.",
+      "Porque aportan estructura jerárquica, permiten navegar y generar o actualizar la tabla de contenido."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · Word · estilos y tabla de contenido",
-    "explicacion": "Los estilos tienen significado estructural; el formato manual puede parecer igual, pero no alimenta esas funciones de Word. Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable. La alternativa «Porque convierten automáticamente todo el texto en una…» no satisface ese criterio; aquí se aplica «Porque aportan estructura jerárquica permiten navegar y generar…»."
+    "explicacion": "Los estilos tienen significado estructural; el formato manual puede parecer igual, pero no alimenta esas funciones de Word. Word crea la tabla de contenido a partir de estilos de título; aplicar solo formato visual no crea la estructura navegable."
   },
   {
     "id": "burgos-v10-deep-03",
@@ -567,49 +567,49 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · Word · revisión e impresión",
-    "explicacion": "La configuración de impresión permite no imprimir las marcas; ocultarlas en pantalla o no imprimirlas no las elimina del archivo. La alternativa «Aceptar todos los cambios y eliminar todos los…» no satisface ese criterio; aquí se aplica «Desactivar la impresión de marcas en la configuración…»."
+    "explicacion": "Desactivar la impresión de marcas conserva las revisiones en el archivo y evita mostrarlas en el borrador impreso."
   },
   {
     "id": "burgos-v10-deep-04",
     "tema": 41,
     "pregunta": "En una combinación de correspondencia de Word, ¿qué conjunto de elementos es el correcto?",
     "opciones": [
-      "Documento principal, fuente de datos y campos de combinación.",
       "Libro, tabla dinámica y gráfico.",
+      "Documento principal, fuente de datos y campos de combinación.",
       "Expediente, certificado y firma electrónica automática.",
       "Hoja, celda y referencia absoluta."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · Word · combinación de correspondencia",
-    "explicacion": "La combinación usa una plantilla o documento principal, una lista de destinatarios y campos que insertan los datos personalizados. La alternativa «Libro, tabla dinámica y gráfico» no satisface ese criterio; aquí se aplica «Documento principal fuente de datos y campos de…»."
+    "explicacion": "La combinación necesita un documento principal, una fuente de datos y campos que indiquen dónde insertar cada dato."
   },
   {
     "id": "burgos-v10-deep-05",
     "tema": 41,
     "pregunta": "Si una fórmula de Excel contiene $A$1 y se copia a otra celda, la referencia:",
     "opciones": [
-      "Sigue apuntando a la celda A1 porque fija columna y fila.",
       "Cambia siempre a la celda situada inmediatamente debajo.",
       "Fija solo la fila y cambia la columna.",
+      "Sigue apuntando a la celda A1 porque fija columna y fila.",
       "Deja de ser una referencia válida."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · Excel · referencias",
-    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «Fija solo la fila y cambia la columna» no satisface ese criterio; aquí se aplica «Sigue apuntando a la celda A1 porque fija…»."
+    "explicacion": "En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula."
   },
   {
     "id": "burgos-v10-deep-06",
     "tema": 41,
     "pregunta": "¿Qué ocurre normalmente con la referencia relativa A1 cuando se copia una fórmula una fila hacia abajo?",
     "opciones": [
-      "Se ajusta a A2, manteniendo la posición relativa.",
       "Se transforma siempre en $A$1.",
       "Se convierte en B1 porque solo cambia la columna.",
-      "Se elimina de la fórmula."
+      "Se elimina de la fórmula.",
+      "Se ajusta a A2, manteniendo la posición relativa."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · Excel · referencias relativas",
-    "explicacion": "Las referencias relativas se adaptan al desplazamiento de la fórmula; al bajar una fila, A1 pasa normalmente a A2. En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula. La alternativa «Se transforma siempre en $A$1» no satisface ese criterio; aquí se aplica «Se ajusta a A2, manteniendo la posición relativa»."
+    "explicacion": "Las referencias relativas se adaptan al desplazamiento de la fórmula; al bajar una fila, A1 pasa normalmente a A2. En Excel, una referencia absoluta fija fila y columna mediante el signo dólar; una relativa se ajusta al copiar la fórmula."
   },
   {
     "id": "burgos-v10-deep-07",
@@ -623,49 +623,49 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · Excel · gestión de datos",
-    "explicacion": "Filtrar limita los registros visibles sin eliminarlos; ordenar reorganiza la posición según uno o varios criterios. La alternativa «El filtro borra definitivamente los registros y la…» no satisface ese criterio; aquí se aplica «El filtro oculta temporalmente los registros que no…»."
+    "explicacion": "Filtrar oculta temporalmente filas que no cumplen una condición; ordenar cambia la secuencia de las filas según un criterio."
   },
   {
     "id": "burgos-v10-deep-08",
     "tema": 41,
     "pregunta": "¿Para qué sirve principalmente una tabla dinámica de Excel?",
     "opciones": [
-      "Para resumir y reorganizar datos por categorías, valores, filas, columnas o filtros.",
       "Para aplicar firma electrónica a un expediente.",
+      "Para resumir y reorganizar datos por categorías, valores, filas, columnas o filtros.",
       "Para sustituir al sistema operativo.",
       "Para impedir cualquier modificación de una hoja sin configurar protección."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · Excel · tablas dinámicas",
-    "explicacion": "La tabla dinámica permite analizar grandes conjuntos de datos agrupándolos y cambiando su disposición sin alterar necesariamente el origen. La alternativa «Para sustituir al sistema operativo» no satisface ese criterio; aquí se aplica «Para resumir y reorganizar datos por categorías valores…»."
+    "explicacion": "Una tabla dinámica resume y reordena conjuntos de datos, por ejemplo agrupando registros y calculando totales por categoría."
   },
   {
     "id": "burgos-v10-deep-09",
     "tema": 41,
     "pregunta": "Una lista de estados («recibida», «en trámite», «resuelta») que limita lo que se puede escribir en una celda utiliza principalmente:",
     "opciones": [
-      "Validación de datos.",
       "Formato condicional exclusivamente.",
       "Tabla de contenido.",
+      "Validación de datos.",
       "Control de cambios de Word."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.10 · Excel · validación y formato condicional",
-    "explicacion": "La validación de datos controla o restringe las entradas; el formato condicional solo cambia la apariencia según una regla. La alternativa «Formato condicional exclusivamente» no satisface ese criterio; aquí se aplica «Validación de datos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La validación de datos limita las entradas permitidas en una celda, por ejemplo a una lista de estados."
   },
   {
     "id": "burgos-v10-deep-10",
     "tema": 41,
     "pregunta": "Antes de compartir una hoja Excel con datos de expedientes, ¿qué comprobación es especialmente adecuada?",
     "opciones": [
-      "Revisar filtros activos, fórmulas, destinatarios, permisos y que solo incluya datos necesarios.",
       "Convertir siempre todas las celdas en imágenes sin revisar el contenido.",
       "Publicar un enlace abierto para facilitar la colaboración.",
-      "Eliminar los encabezados para ocultar la estructura."
+      "Eliminar los encabezados para ocultar la estructura.",
+      "Revisar filtros activos, fórmulas, destinatarios, permisos y que solo incluya datos necesarios."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.10 · colaboración y seguridad administrativa",
-    "explicacion": "La revisión debe cubrir exactitud, visibilidad de registros, minimización de datos y control de acceso, no solo el formato. La alternativa «Convertir siempre todas las celdas en imágenes sin…» no satisface ese criterio; aquí se aplica «Revisar filtros activos fórmulas destinatarios permisos y que…»."
+    "explicacion": "Antes de compartir, hay que verificar qué filas quedan visibles, los cálculos, los permisos, destinatarios y la necesidad de cada dato personal."
   },
   {
     "id": "burgos-v10-deep-11",
@@ -679,20 +679,20 @@
     ],
     "correcta": 0,
     "referencia": "V.10 · Excel · protección y seguridad",
-    "explicacion": "La protección de hoja o libro es un control funcional frente a modificaciones; debe distinguirse de permisos, confidencialidad y cifrado. La alternativa «Elimina los errores de las fórmulas automáticamente» no satisface ese criterio; aquí se aplica «Ayuda a evitar cambios no deseados pero no…»."
+    "explicacion": "La protección de hoja restringe ciertas modificaciones, pero los permisos y el cifrado se configuran por mecanismos distintos."
   },
   {
     "id": "burgos-v10-deep-12",
     "tema": 41,
     "pregunta": "En una Administración, ¿qué relación correcta existe entre un archivo colaborativo de Word o Excel y el expediente electrónico?",
     "opciones": [
-      "El archivo puede ser material de trabajo, pero la versión relevante debe incorporarse al expediente por el circuito oficial.",
       "Todo archivo almacenado en OneDrive forma automáticamente parte del expediente.",
+      "El archivo puede ser material de trabajo, pero la versión relevante debe incorporarse al expediente por el circuito oficial.",
       "El chat de Teams sustituye siempre a la incorporación documental.",
       "Un Excel compartido no puede contener nunca datos administrativos."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.10 · sistemas colaborativos y expediente",
-    "explicacion": "La herramienta ofimática apoya la preparación y colaboración; la validez y trazabilidad del expediente dependen del sistema y procedimiento corporativos. La alternativa «Todo archivo almacenado en OneDrive forma automáticamente parte…» no satisface ese criterio; aquí se aplica «El archivo puede ser material de trabajo pero…»."
+    "explicacion": "El archivo colaborativo puede ser borrador; la versión que fundamenta la actuación debe incorporarse al expediente con trazabilidad y garantías."
   }
 ]

@@ -251,11 +251,11 @@
     "pregunta": "En el procedimiento administrativo común, la LPACAP regula:",
     "opciones": [
       "solo los recursos administrativos",
-      "los derechos y garantías de los ciudadanos y el procedimiento administrativo común",
       "solo la potestad reglamentaria",
-      "únicamente la responsabilidad patrimonial"
+      "únicamente la responsabilidad patrimonial",
+      "los derechos y garantías de los ciudadanos y el procedimiento administrativo común"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.3 · 1.1 Contexto y objeto",
     "explicacion": "El tema resume así el objeto de la Ley 39/2015. La LPAC regula el procedimiento común y garantías de las personas en su relación con las Administraciones; no se limita a recursos, potestad reglamentaria o responsabilidad. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -292,12 +292,12 @@
     "tema": 12,
     "pregunta": "En el procedimiento administrativo común, ¿qué plazo tiene el período de prueba?",
     "opciones": [
-      "No superior a 30 días ni inferior a 10 días",
       "No superior a 20 días ni inferior a 5 días",
       "No superior a 15 días ni inferior a 1 día",
+      "No superior a 30 días ni inferior a 10 días",
       "No superior a 60 días"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.3 · 3.2.2 Prueba",
     "explicacion": "El tema fija ese intervalo para la prueba. El artículo 77 establece un período de prueba de diez a treinta días; el instructor puede abrir uno extraordinario hasta diez días cuando sea necesario. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -307,11 +307,11 @@
     "pregunta": "En el procedimiento administrativo común, el trámite de audiencia se concede por un plazo de:",
     "opciones": [
       "3 a 5 días hábiles",
-      "10 a 15 días hábiles",
       "20 a 30 días hábiles",
-      "1 mes"
+      "1 mes",
+      "10 a 15 días hábiles"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.3 · 3.2.4 Trámite de audiencia",
     "explicacion": "El tema fija entre 10 y 15 días hábiles. El trámite de audiencia permite alegar y aportar documentos tras la instrucción y antes de la propuesta, con plazo entre diez y quince días según artículo 82. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -363,11 +363,11 @@
     "pregunta": "En los recursos administrativos el silencio es con carácter general:",
     "opciones": [
       "positivo",
-      "negativo",
       "inexistente",
-      "siempre estimatorio"
+      "siempre estimatorio",
+      "negativo"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.3 · 5.4 Silencio en procedimientos de impugnación",
     "explicacion": "El tema establece que en los recursos administrativos el silencio es siempre negativo, salvo la excepción indicada en la alzada. En recursos, el silencio suele ser desestimatorio para permitir el acceso a la siguiente vía; existen excepciones, por lo que no es siempre negativo ni positivo."
   },
@@ -404,12 +404,12 @@
     "tema": 12,
     "pregunta": "En el procedimiento administrativo común, la representación puede acreditarse mediante:",
     "opciones": [
-      "apoderamiento apud acta o Registro Electrónico de Apoderamientos",
       "simple llamada telefónica",
       "comparecencia ante la policía",
+      "apoderamiento apud acta o Registro Electrónico de Apoderamientos",
       "certificado del alcalde"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.3 · 2.2 La representación",
     "explicacion": "El tema enumera esos medios de acreditación. La representación se acredita mediante apoderamiento apud acta, presencial o electrónico, o inscripción en el registro; una llamada o certificado municipal no sustituye estas formas. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -419,27 +419,27 @@
     "pregunta": "En el procedimiento administrativo común, ¿en qué plazo debe practicarse la notificación de un acto?",
     "opciones": [
       "5 días",
-      "10 días",
       "20 días",
-      "1 mes"
+      "1 mes",
+      "10 días"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Repaso relacionado con II.2 · notificación de actos (art. 40 LPACAP)",
     "explicacion": "El tema fija 10 días desde que el acto ha sido dictado. El artículo 40.2 fija diez días para cursar la notificación desde que se dicta el acto; no es el plazo de resolver ni el de subsanar. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
   {
     "id": "t15-p014",
     "tema": 12,
-    "pregunta": "En el procedimiento administrativo común, un silencio positivo produce:",
+    "pregunta": "¿Qué efecto produce, como regla, el silencio estimatorio en un procedimiento iniciado a solicitud de una persona interesada?",
     "opciones": [
       "una mera ficción sin efectos jurídicos",
-      "la estimación automática de la solicitud",
+      "Un acto administrativo que estima la solicitud y pone fin al procedimiento, con los efectos previstos en la ley.",
       "la caducidad del expediente",
       "la nulidad del procedimiento"
     ],
     "correcta": 1,
     "referencia": "II.3 · 5.2 Silencio positivo",
-    "explicacion": "El tema explica que el silencio positivo se produce de forma automática por el mero transcurso del plazo. El silencio estimatorio produce un acto finalizador con efectos jurídicos, no mera ficción ni caducidad; puede revisarse por los procedimientos legalmente previstos."
+    "explicacion": "El artículo 24.2 LPAC atribuye al silencio estimatorio la consideración de acto administrativo finalizador del procedimiento. Produce los efectos previstos legalmente y puede ser objeto de revisión por los cauces correspondientes; no es una simple ficción ni implica que cualquier pretensión contraria al ordenamiento quede validada."
   },
   {
     "id": "t15-p015",
@@ -460,12 +460,12 @@
     "tema": 12,
     "pregunta": "Según el art. 82 LPACAP, una vez instruido el procedimiento y antes de redactar la propuesta de resolución, se pondrá de manifiesto a los interesados para que, en un plazo no inferior a diez días ni superior a quince, puedan:",
     "opciones": [
-      "Alegar y presentar los documentos y justificaciones que estimen pertinentes",
       "Interponer recurso de alzada",
       "Solicitar la revisión de oficio del acto",
+      "Alegar y presentar los documentos y justificaciones que estimen pertinentes",
       "Formular exclusivamente prueba pericial"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.3 · 3.2.4 Trámite de audiencia (art. 82 LPACAP)",
     "explicacion": "El trámite de audiencia sirve para que los interesados aleguen y presenten documentos y justificaciones antes de la resolución. La audiencia permite formular alegaciones y presentar documentos y justificaciones pertinentes antes de la propuesta; no es un recurso ni una solicitud de revisión de oficio."
   },
@@ -475,11 +475,11 @@
     "pregunta": "De acuerdo con el art. 82 LPACAP, el trámite de audiencia podrá omitirse cuando:",
     "opciones": [
       "La Administración considere suficiente el expediente, aunque existan hechos nuevos",
-      "No figuren en el procedimiento ni se tengan en cuenta otros hechos ni otras alegaciones que las aducidas por el interesado",
       "El procedimiento se haya iniciado de oficio",
-      "El interesado no haya designado representante"
+      "El interesado no haya designado representante",
+      "No figuren en el procedimiento ni se tengan en cuenta otros hechos ni otras alegaciones que las aducidas por el interesado"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.3 · 3.2.4 Trámite de audiencia (art. 82 LPACAP)",
     "explicacion": "El tema recoge expresamente esa excepción a la audiencia. Puede prescindirse de audiencia solo si no hay hechos ni alegaciones distintos de los aportados por el interesado; no basta que la Administración considere suficiente el expediente. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -518,10 +518,10 @@
     "opciones": [
       "Otorga siempre la condición de interesado",
       "Solo otorga legitimación para recurrir en alzada",
-      "No otorga por si sola la condición de interesado",
-      "Sustituye al trámite de audiencia de los interesados"
+      "Sustituye al trámite de audiencia de los interesados",
+      "No otorga por si sola la condición de interesado"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "II.3 · 3.2.5 Información pública (art. 83 LPACAP)",
     "explicacion": "El tema señala expresamente que comparecer en la información pública no atribuye por si solo la condición de interesado. Comparecer en información pública no convierte por sí solo en interesado; la condición depende de los requisitos del artículo 4 y puede reconocerse por afectación legítima."
   },
@@ -530,12 +530,12 @@
     "tema": 12,
     "pregunta": "De acuerdo con el art. 87 LPACAP, las actuaciones complementarias indispensables para resolver el procedimiento deberán practicarse en un plazo:",
     "opciones": [
-      "No superior a quince días",
       "No inferior a diez días ni superior a quince días",
+      "No superior a quince días",
       "De siete días",
       "De veinte días"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.3 · 3.3.1 Resolución (art. 88 LPACAP)",
     "explicacion": "El plazo máximo para practicar las actuaciones complementarias es de quince días. El artículo 87 limita las actuaciones complementarias a quince días y, una vez terminadas, abre audiencia por siete días; no se aplica el plazo general del trámite de audiencia."
   },
@@ -674,12 +674,12 @@
     "tema": 12,
     "pregunta": "Según el artículo 70 de la Ley 39/2015, ¿qué elemento sí forma parte del expediente administrativo?",
     "opciones": [
-      "Un informe facultativo solicitado antes de la resolución que pone fin al procedimiento",
       "Una nota interna meramente auxiliar no incorporada al expediente",
       "Un borrador de trabajo sin valor administrativo",
+      "Un informe facultativo solicitado antes de la resolución que pone fin al procedimiento",
       "Un resumen informal preparado para una reunión"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.3 · 2.3 Expediente administrativo (art. 70 LPACAP)",
     "explicacion": "El artículo 70 incluye los informes preceptivos y facultativos solicitados antes de la resolución final; las notas y borradores auxiliares quedan fuera como regla. Un informe solicitado formalmente antes de la resolución integra el expediente aunque sea facultativo; borradores, notas auxiliares y resúmenes informales quedan fuera salvo incorporación legal."
   },
@@ -688,12 +688,12 @@
     "tema": 12,
     "pregunta": "Una cuestión incidental surgida durante la tramitación de un procedimiento administrativo:",
     "opciones": [
-      "No suspende la tramitación, salvo la recusación",
       "Suspende siempre el procedimiento hasta su resolución",
       "Solo puede plantearla el órgano instructor",
-      "Produce automáticamente la caducidad"
+      "Produce automáticamente la caducidad",
+      "No suspende la tramitación, salvo la recusación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.3 · 5.1 Ordenación y cuestiones incidentales (art. 74 LPACAP)",
     "explicacion": "El artículo 74 LPACAP establece que las cuestiones incidentales no suspenden la tramitación, salvo la recusación. Las cuestiones incidentales no suspenden salvo recusación, según artículo 74; no hace falta esperar su resolución para continuar los demás trámites. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -716,12 +716,12 @@
     "tema": 12,
     "pregunta": "En la tramitación simplificada, si un interesado manifiesta oposición expresa:",
     "opciones": [
-      "Debe seguirse la tramitación ordinaria",
       "La oposición carece de efecto y siempre continúa la simplificada",
+      "Debe seguirse la tramitación ordinaria",
       "Se archiva necesariamente el procedimiento",
       "El procedimiento se convierte en sancionador"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.3 · 5.2 Tramitación simplificada (art. 96 LPACAP)",
     "explicacion": "La tramitación simplificada no puede imponerse frente a la oposición expresa de un interesado; debe seguirse la ordinaria. La oposición de cualquier interesado a la simplificada determina continuar por la vía ordinaria; no se ignora ni conlleva por sí misma caducidad."
   },
@@ -730,12 +730,12 @@
     "tema": 12,
     "pregunta": "Salvo disposición expresa, los informes administrativos son:",
     "opciones": [
-      "Facultativos y no vinculantes",
       "Preceptivos y vinculantes",
       "Facultativos y vinculantes",
+      "Facultativos y no vinculantes",
       "Preceptivos y no vinculantes en todo caso"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.3 · 6.2 Informes (art. 80 LPACAP)",
     "explicacion": "El artículo 80 LPACAP fija como regla que los informes son facultativos y no vinculantes, salvo previsión expresa. Los informes son facultativos y no vinculantes por defecto conforme al artículo 80; una norma puede declarar alguno preceptivo o vinculante. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -744,12 +744,12 @@
     "tema": 12,
     "pregunta": "El período de información pública debe tener una duración mínima de:",
     "opciones": [
-      "Veinte días",
       "Diez días",
       "Quince días",
-      "Treinta días"
+      "Treinta días",
+      "Veinte días"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.3 · 6.3 Información pública (art. 83 LPACAP)",
     "explicacion": "El artículo 83 LPACAP exige que el período de información pública no sea inferior a veinte días. El artículo 83 establece un mínimo de veinte días para información pública, salvo norma que disponga otro plazo; quince o treinta no son la regla legal general."
   },
@@ -772,12 +772,12 @@
     "tema": 12,
     "pregunta": "¿Cuál de estos medios de ejecución forzosa requiere habilitación legal específica?",
     "opciones": [
-      "La multa coercitiva",
       "El apremio sobre el patrimonio en toda obligación dineraria",
+      "La multa coercitiva",
       "La notificación de la resolución",
       "La acumulación de procedimientos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.3 · 8. Ejecución forzosa (art. 103 LPACAP)",
     "explicacion": "La multa coercitiva solo puede utilizarse cuando una ley la autorice y no es una sanción, sino un medio de ejecución. La multa coercitiva requiere habilitación legal y puede reiterarse para ejecutar una obligación; el apremio patrimonial se emplea para deudas dinerarias con cobertura normativa."
   },
@@ -786,12 +786,12 @@
     "tema": 12,
     "pregunta": "En un procedimiento iniciado a solicitud del interesado sobre responsabilidad patrimonial, la falta de resolución en plazo produce, como regla del artículo 24:",
     "opciones": [
-      "Silencio desestimatorio",
       "Silencio estimatorio",
       "Caducidad automática",
+      "Silencio desestimatorio",
       "La nulidad de la solicitud"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.3 · 3.2 Excepciones al silencio positivo (art. 24 LPACAP)",
     "explicacion": "El silencio es desestimatorio en los procedimientos de responsabilidad patrimonial, aunque el régimen general de las solicitudes sea estimatorio. La responsabilidad patrimonial se resuelve con silencio desestimatorio según el artículo 24.1; no hay caducidad automática por iniciar el expediente a solicitud de parte."
   },
@@ -800,12 +800,12 @@
     "tema": 12,
     "pregunta": "En la ejecución subsidiaria de un acto administrativo:",
     "opciones": [
-      "La Administración realiza el acto por sí o por tercero a costa del obligado cuando no sea personalísimo",
       "Solo puede exigirse una multa penal",
       "El obligado debe realizar personalmente cualquier actuación, aunque el acto no lo exija",
-      "Se sustituye siempre por compulsión sobre las personas"
+      "Se sustituye siempre por compulsión sobre las personas",
+      "La Administración realiza el acto por sí o por tercero a costa del obligado cuando no sea personalísimo"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.3 · 8. Ejecución subsidiaria (art. 102 LPACAP)",
     "explicacion": "La ejecución subsidiaria procede para actos no personalísimos que pueden ser realizados por sujeto distinto del obligado, a su costa. La ejecución subsidiaria procede para actos no personalísimos: la Administración ejecuta por sí o mediante tercero y repercute el coste al obligado, conforme al artículo 102."
   }

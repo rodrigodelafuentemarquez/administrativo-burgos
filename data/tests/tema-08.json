@@ -76,12 +76,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, la creación de la CECA se produce por el Tratado de:",
     "opciones": [
-      "París de 1951",
       "Roma de 1957",
       "Lisboa de 2009",
+      "París de 1951",
       "Maastricht de 1993"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)",
     "explicacion": "El Tratado de París, firmado en 1951 y vigente desde 1952, creó la Comunidad Europea del Carbón y del Acero. Fue el primer tratado de integración comunitaria y concentró la cooperación en esos sectores. No debe confundirse con Roma, que creó la CEE y Euratom, ni con Maastricht, que estableció la Unión Europea."
   },
@@ -90,12 +90,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el Tratado de Roma de 1957 creó:",
     "opciones": [
-      "la CEE y EURATOM",
       "la UE y la moneda única",
       "el Consejo Europeo y el BCE",
-      "el Tribunal de Justicia y el Parlamento"
+      "el Tribunal de Justicia y el Parlamento",
+      "la CEE y EURATOM"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.8 · 1.2 Los Tratados fundacionales (1951-1957)",
     "explicacion": "Los Tratados de Roma se firmaron en 1957 y entraron en vigor en 1958, creando la Comunidad Económica Europea y Euratom. Ampliaron la integración más allá del carbón y del acero de la CECA. Maastricht y Lisboa pertenecen a etapas posteriores de reorganización institucional de la integración europea."
   },
@@ -118,12 +118,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el derecho de retirada de la Unión se introduce con el:",
     "opciones": [
-      "Tratado de Lisboa",
       "Tratado de Niza",
+      "Tratado de Lisboa",
       "Acta Única Europea",
       "Tratado de París"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.8 · 1.3 La evolución institucional: los grandes hitos",
     "explicacion": "El Tratado de Lisboa incorporó expresamente el procedimiento de retirada voluntaria de un Estado miembro en el artículo 50 TUE. La decisión se adopta conforme a sus normas constitucionales y se notifica al Consejo Europeo. No debe confundirse la retirada con una sanción por vulnerar valores de la Unión ni con la adhesión."
   },
@@ -132,12 +132,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, España se incorporó a la CEE el:",
     "opciones": [
-      "1 de enero de 1986",
       "1 de mayo de 2004",
       "31 de enero de 2020",
+      "1 de enero de 1986",
       "1 de enero de 1957"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.8 · 1.4 Las ampliaciones",
     "explicacion": "España se incorporó a las Comunidades Europeas el 1 de enero de 1986, junto con Portugal. En ese momento aún no existía la Unión Europea creada posteriormente por Maastricht. La firma del tratado de adhesión y su entrada en vigor son fechas distintas; la pregunta se refiere a la incorporación efectiva."
   },
@@ -146,12 +146,12 @@
     "tema": 8,
     "pregunta": "Según el TUE, ¿en qué artículo se recogen los valores de la Unión?",
     "opciones": [
-      "art. 2 TUE",
       "art. 50 TUE",
       "art. 263 TFUE",
-      "art. 18 CE"
+      "art. 18 CE",
+      "art. 2 TUE"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.8 · 1.5 Valores y objetivos de la Unión",
     "explicacion": "El artículo 2 TUE enumera valores como dignidad humana, libertad, democracia, igualdad, Estado de Derecho y respeto de los derechos humanos, incluidos los de las minorías. Son bases comunes de la Unión. No son simples objetivos económicos ni deben confundirse con el catálogo de competencias o con políticas concretas de sus instituciones."
   },
@@ -174,12 +174,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el Consejo Europeo reúne a:",
     "opciones": [
-      "los Jefes de Estado o de Gobierno de los Estados miembros",
       "los ministros de asuntos exteriores exclusivamente",
+      "los Jefes de Estado o de Gobierno de los Estados miembros",
       "los presidentes de parlamento nacionales",
       "los jueces del TJUE"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.8 · 3.1 Composición y presidencia",
     "explicacion": "El Consejo Europeo está integrado por los jefes de Estado o de Gobierno de los Estados miembros, su Presidente y el Presidente de la Comisión, según el artículo 15.2 TUE. El Alto Representante participa en sus trabajos. El Consejo de la Unión, en cambio, reúne representantes ministeriales de los Estados."
   },
@@ -188,12 +188,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el Presidente del Consejo Europeo tiene un mandato de:",
     "opciones": [
-      "dos años y medio, renovable una vez",
       "cinco años, no renovable",
       "un año, renovable indefinidamente",
+      "dos años y medio, renovable una vez",
       "seis meses"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.8 · 3.1 Composición y presidencia",
     "explicacion": "El Consejo Europeo elige a su Presidente por mayoría cualificada para un mandato de dos años y medio, renovable una sola vez, conforme al artículo 15.5 TUE. No se aplica la rotación semestral de la presidencia del Consejo de la Unión. Tampoco es un mandato de cinco años renovable indefinidamente."
   },
@@ -202,12 +202,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el Consejo Europeo:",
     "opciones": [
-      "no ejerce función legislativa",
       "es el tribunal supremo de la UE",
       "aprueba los presupuestos locales",
-      "gestiona el euro"
+      "gestiona el euro",
+      "no ejerce función legislativa"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.8 · 3.2 Funciones",
     "explicacion": "El Consejo Europeo impulsa el desarrollo de la Unión y define sus orientaciones y prioridades políticas generales. El artículo 15.1 TUE excluye expresamente que ejerza función legislativa. Aprobar las normas mediante el procedimiento ordinario corresponde al Parlamento Europeo y al Consejo de la Unión, con la intervención prevista de la Comisión."
   },
@@ -230,12 +230,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, la Comisión Europea está compuesta por:",
     "opciones": [
-      "un comisario por Estado miembro",
       "dos ministros por país",
+      "un comisario por Estado miembro",
       "un diputado por provincia",
       "un juez por Estado"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.8 · 6.1 Composición",
     "explicacion": "La Comisión está actualmente formada por un nacional de cada Estado miembro, incluidos su Presidente y el Alto Representante, que es uno de sus vicepresidentes. El Consejo Europeo mantuvo esta composición conforme al artículo 17.5 TUE. Sus miembros actúan con independencia y no son delegados sometidos a instrucciones de sus gobiernos."
   },
@@ -244,26 +244,26 @@
     "tema": 8,
     "pregunta": "Con carácter general, según el artículo 17.2 TUE, ¿a qué institución corresponde la iniciativa legislativa de la Unión?",
     "opciones": [
-      "iniciativa legislativa",
       "jurisdicción penal",
       "aprobación de presupuestos locales",
+      "La Comisión Europea",
       "elección de alcaldes"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.8 · 6.3 Funciones",
-    "explicacion": "El artículo 17.2 TUE establece como regla general que los actos legislativos se adopten a propuesta de la Comisión, salvo excepciones previstas en los Tratados. Esa iniciativa explica su papel impulsor del interés general europeo. No significa que apruebe por sí sola las leyes ni que ejerza la jurisdicción del Tribunal de Justicia."
+    "explicacion": "El artículo 17.2 TUE atribuye a la Comisión Europea la iniciativa legislativa como regla general, salvo las excepciones previstas en los Tratados. El Parlamento Europeo y el Consejo pueden solicitarle que presente propuestas, pero no sustituyen esa iniciativa general ni aprueban por sí solos una propuesta de la Comisión."
   },
   {
     "id": "t41-p014",
     "tema": 8,
     "pregunta": "¿Qué estructura jurisdiccional prevé el artículo 19.1 del Tratado de la Unión Europea?",
     "opciones": [
-      "Tribunal de Justicia, Tribunal General y tribunales especializados",
       "Consejo, Comisión y Parlamento",
       "BCE, Tribunal de Cuentas y CESE",
-      "solo del Tribunal de Justicia"
+      "solo del Tribunal de Justicia",
+      "Tribunal de Justicia, Tribunal General y tribunales especializados"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.8 · 7.1 Composición y estructura",
     "explicacion": "El artículo 19.1 TUE prevé el Tribunal de Justicia, el Tribunal General y los tribunales especializados como estructura jurisdiccional posible. Actualmente no hay tribunales especializados en funcionamiento; el Tribunal de la Función Pública fue suprimido en 2016. La pregunta se refiere a la previsión del Tratado, no a enumerar órganos activos hoy."
   },
@@ -286,12 +286,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el objetivo principal del Banco Central Europeo es:",
     "opciones": [
-      "mantener la estabilidad de precios",
       "aprobar el presupuesto general de la Unión",
+      "mantener la estabilidad de precios",
       "resolver las cuestiones prejudiciales",
       "ejercer el control político sobre la Comisión"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.8 · 8.1 El Banco Central Europeo (BCE)",
     "explicacion": "El objetivo principal del sistema europeo de bancos centrales es mantener la estabilidad de precios, conforme al artículo 127 TFUE. Sin perjudicarlo, apoya las políticas económicas generales de la Unión. No debe confundirse la política monetaria con aprobar el presupuesto europeo, función que corresponde al Parlamento y al Consejo."
   },
@@ -300,12 +300,12 @@
     "tema": 8,
     "pregunta": "En la Unión Europea, el Tribunal de Cuentas Europeo:",
     "opciones": [
-      "no tiene funciones jurisdiccionales",
       "puede anular reglamentos de la Unión",
       "resuelve recursos prejudiciales",
+      "no tiene funciones jurisdiccionales",
       "nombra a los comisarios europeos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.8 · 8.2 El Tribunal de Cuentas Europeo",
     "explicacion": "El Tribunal de Cuentas europeo fiscaliza las cuentas y examina la legalidad y regularidad de ingresos y gastos de la Unión, conforme al artículo 287 TFUE. Pese a su nombre, no es un órgano jurisdiccional. No dicta sentencias como el Tribunal de Justicia ni sustituye a las instituciones que aprueban el presupuesto."
   },
@@ -314,12 +314,12 @@
     "tema": 8,
     "pregunta": "Según el art. 288 TFUE, el reglamento:",
     "opciones": [
-      "Tendrá un alcance general, será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro",
       "Obligará al Estado miembro destinatario únicamente en cuanto al resultado que deba conseguirse",
       "Carecerá de fuerza vinculante, como las recomendaciones y los dictámenes",
-      "Exigirá siempre una norma interna de transposición para desplegar efectos"
+      "Exigirá siempre una norma interna de transposición para desplegar efectos",
+      "Tendrá un alcance general, será obligatorio en todos sus elementos y directamente aplicable en cada Estado miembro"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "TFUE · art. 288",
     "explicacion": "El reglamento tiene alcance general, es obligatorio en todos sus elementos y resulta directamente aplicable en los Estados miembros según el artículo 288 TFUE. La directiva obliga respecto del resultado y deja a las autoridades nacionales elegir forma y medios. Recomendaciones y dictámenes, por su parte, no tienen fuerza vinculante."
   },
@@ -342,12 +342,12 @@
     "tema": 8,
     "pregunta": "El principio de atribución implica que la Unión Europea:",
     "opciones": [
-      "solo actúa dentro de las competencias que le atribuyen los Tratados",
       "puede asumir cualquier competencia de los Estados miembros",
+      "solo actúa dentro de las competencias que le atribuyen los Tratados",
       "tiene competencia general sobre todas las materias económicas",
       "puede modificar unilateralmente los Tratados"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.8 · 10.1 El principio de atribución",
     "explicacion": "El principio de atribución significa que la Unión solo actúa dentro de las competencias que los Estados le han conferido en los Tratados, según el artículo 5 TUE. Las competencias no atribuidas permanecen en los Estados miembros. La subsidiariedad y proporcionalidad regulan el ejercicio de competencias, pero no crean competencias nuevas."
   },
@@ -357,27 +357,27 @@
     "pregunta": "Según el art. 16.4 del Tratado de la Unión Europea, la mayoría cualificada del Consejo se define, desde el 1 de noviembre de 2014, como:",
     "opciones": [
       "El 50% de los Estados miembros que representen al menos el 50% de la población de la Unión",
-      "El 55% de los Estados miembros que representen al menos el 65% de la población de la Unión",
       "Dos tercios de los Estados miembros, con independencia de la población",
+      "El 55% de los Estados miembros que representen al menos el 65% de la población de la Unión",
       "La unanimidad de los Estados miembros presentes y votantes"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.8 · Resumen esquemático para repasar",
-    "explicacion": "La mayoría cualificada ordinaria del Consejo exige al menos el 55 % de sus miembros, que incluya como mínimo quince, y que representen al menos el 65 % de la población de la Unión. El artículo 16.4 TUE combina Estados y población. No basta cumplir solo uno de los porcentajes ni equivale a unanimidad."
+    "explicacion": "La regla ordinaria del artículo 16.4 TUE exige al menos el 55 % de los miembros del Consejo, incluidos como mínimo quince, y que representen al menos el 65 % de la población. La minoría de bloqueo requiere al menos cuatro miembros. Si el Consejo no actúa a propuesta de la Comisión o del Alto Representante, el artículo 238.2 TFUE establece la variante del 72 % de los miembros con el mismo umbral de población."
   },
   {
     "id": "t41-p022",
     "tema": 8,
-    "pregunta": "Conforme al TFUE, si el Parlamento Europeo aprueba una moción de censura sobre la gestión de la Comisión Europea:",
+    "pregunta": "Conforme al artículo 234 TFUE, para que prospere una moción de censura contra la Comisión se requiere:",
     "opciones": [
-      "Debe dimitir únicamente el Presidente de la Comisión",
-      "Debe dimitir la Comisión en pleno",
-      "Queda disuelto automáticamente el Consejo Europeo",
-      "Se convoca de forma obligatoria un referéndum europeo"
+      "La mayoría simple de los votos emitidos, con independencia del número de miembros",
+      "Tres quintos de los miembros del Parlamento Europeo en votación secreta",
+      "La unanimidad de los Estados representados en el Consejo Europeo",
+      "Dos tercios de los votos emitidos, que representen además la mayoría de los miembros que componen el Parlamento Europeo"
     ],
-    "correcta": 1,
-    "referencia": "I.8 · 6.1 Composición y nombramiento",
-    "explicacion": "Si el Parlamento aprueba una moción de censura, la Comisión dimite colectivamente, conforme al artículo 234 TFUE. Se requieren dos tercios de los votos emitidos que representen, además, la mayoría de los miembros del Parlamento. No es una destitución aislada de un comisario ni una moción contra el Consejo Europeo."
+    "correcta": 3,
+    "referencia": "TFUE · art. 234",
+    "explicacion": "La moción solo prospera con dos tercios de los votos emitidos que representen, además, la mayoría de los miembros que componen el Parlamento Europeo. Si se aprueba, la Comisión dimite colectivamente. La votación es pública y no se celebra antes de que transcurran tres días desde la presentación."
   },
   {
     "id": "t41-p023",
@@ -400,10 +400,10 @@
     "opciones": [
       "El Parlamento Europeo por mayoría simple",
       "La Comisión Europea por decisión colegiada",
-      "El Consejo Europeo",
-      "El Comité de las Regiones"
+      "El Comité de las Regiones",
+      "El Consejo Europeo"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "I.8 · 3.2 Funciones",
     "explicacion": "El artículo 7.2 TUE permite al Consejo Europeo constatar una violación grave y persistente de los valores del artículo 2 por un Estado miembro. Exige unanimidad, propuesta de un tercio de los Estados o de la Comisión y aprobación del Parlamento. Es distinto de apreciar un riesgo claro de violación grave, regulado en el apartado primero."
   },
@@ -426,12 +426,12 @@
     "tema": 8,
     "pregunta": "Con carácter general, según el artículo 17.2 TUE, la Comisión Europea tiene atribuida la:",
     "opciones": [
-      "Potestad jurisdiccional europea",
       "Iniciativa legislativa",
+      "Potestad jurisdiccional europea",
       "Aprobación definitiva del presupuesto sin intervención de otras instituciones",
       "Reforma de los Tratados"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "I.8 · 6.3 Funciones",
     "explicacion": "La Comisión tiene atribuida la iniciativa legislativa como regla general según el artículo 17.2 TUE, con excepciones expresamente previstas en los Tratados. Presentar una propuesta no equivale a aprobarla definitivamente. El Parlamento y el Consejo ejercen la colegislación ordinaria, mientras la función jurisdiccional pertenece a los órganos del Tribunal de Justicia."
   },
@@ -468,12 +468,12 @@
     "tema": 8,
     "pregunta": "¿Qué principio delimita que la Unión Europea solo actúe en competencias atribuidas por los Tratados?",
     "opciones": [
-      "Principio de atribución",
       "Principio de primogenitura",
       "Principio de jerarquía administrativa",
+      "Principio de atribución",
       "Principio de autonomía local"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.8, Principios de atribución, subsidiariedad y proporcionalidad",
     "explicacion": "La atribución delimita qué puede hacer la Unión: únicamente las competencias conferidas por los Estados en los Tratados, según el artículo 5 TUE. No existe una competencia general para actuar en cualquier materia. Subsidiariedad y proporcionalidad ayudan a decidir cómo ejercer competencias ya atribuidas, sin ampliar por sí solas ese ámbito."
   },
@@ -482,12 +482,12 @@
     "tema": 8,
     "pregunta": "¿Qué institución representa principalmente el interés general de la Unión?",
     "opciones": [
-      "Comisión Europea",
       "Consejo Europeo",
       "Consejo de la Unión Europea",
-      "Parlamentos nacionales"
+      "Parlamentos nacionales",
+      "Comisión Europea"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.8, Sistema institucional de la Unión",
     "explicacion": "La Comisión promueve el interés general de la Unión y adopta iniciativas para ese fin, conforme al artículo 17.1 TUE. Sus miembros deben actuar con independencia de los gobiernos nacionales. El Consejo representa a los gobiernos y el Parlamento a los ciudadanos, por lo que esas funciones no se deben intercambiar."
   },
@@ -573,16 +573,16 @@
   {
     "id": "realstyle-i08-02",
     "tema": 8,
-    "pregunta": "De acuerdo con el art. 16.4 TUE, la mayoría cualificada del Consejo exige, como regla general:",
+    "pregunta": "Si el Consejo no actúa a propuesta de la Comisión ni del Alto Representante, ¿qué mayoría cualificada se exige conforme al artículo 238.2 TFUE?",
     "opciones": [
-      "El 55 % de los miembros del Consejo que representen al menos el 65 % de la población de la Unión",
-      "La mayoría absoluta del Parlamento Europeo y unanimidad del Consejo Europeo",
-      "Dos tercios de los Estados miembros sin requisito de población",
-      "El 60 % de la población y la mayoría simple de Estados miembros"
+      "El 55 % de los miembros y el 65 % de la población, sin excepciones",
+      "La unanimidad de todos los Estados miembros",
+      "Al menos el 72 % de los miembros del Consejo que represente al menos el 65 % de la población de la Unión",
+      "Dos tercios de la población de la Unión, cualquiera que sea el número de Estados"
     ],
-    "correcta": 0,
-    "referencia": "Revisión test reales · mayoría cualificada del Consejo",
-    "explicacion": "La regla ordinaria de mayoría cualificada combina al menos el 55 % de los miembros del Consejo y el 65 % de la población de la Unión, con un mínimo de quince miembros. Se recoge en el artículo 16.4 TUE. Un porcentaje de Estados sin el umbral poblacional, o al revés, no satisface la regla completa."
+    "correcta": 2,
+    "referencia": "Revisión de test · TFUE, artículo 238.2 · variante de mayoría cualificada",
+    "explicacion": "Cuando el Consejo no actúa a propuesta de la Comisión o del Alto Representante, el artículo 238.2 TFUE exige al menos el 72 % de los miembros del Consejo, que representen como mínimo el 65 % de la población de la Unión. La regla ordinaria de 55 % y 65 % del artículo 16.4 TUE rige como regla general, pero no en este supuesto."
   },
   {
     "id": "realstyle-i08-03",
@@ -590,11 +590,11 @@
     "pregunta": "Si el Parlamento Europeo aprueba una moción de censura sobre la gestión de la Comisión Europea, conforme al TFUE:",
     "opciones": [
       "Solo cesa el Presidente de la Comisión, pero continúan los Comisarios",
-      "Los miembros de la Comisión deben dimitir colectivamente de sus cargos",
       "El Consejo Europeo queda automáticamente disuelto",
-      "La moción solo produce efectos si la confirma el Tribunal de Justicia"
+      "La moción solo produce efectos si la confirma el Tribunal de Justicia",
+      "Los miembros de la Comisión deben dimitir colectivamente de sus cargos"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Revisión test reales · control parlamentario de la Comisión",
     "explicacion": "La moción de censura aprobada por el Parlamento obliga a la Comisión a dimitir colectivamente, conforme al artículo 234 TFUE. El Alto Representante dimite de las funciones que ejerce dentro de ella. La responsabilidad política es conjunta, por lo que no se limita al Presidente ni provoca automáticamente la dimisión del Consejo."
   },
@@ -671,12 +671,12 @@
     "tema": 8,
     "pregunta": "Salvo la formación de Asuntos Exteriores, ¿cómo se organiza la presidencia de las formaciones del Consejo de la Unión Europea?",
     "opciones": [
-      "Por grupos predeterminados de tres Estados, con turnos semestrales durante un período conjunto de dieciocho meses",
       "Por elección del Parlamento Europeo para un mandato de cinco años",
+      "Por grupos predeterminados de tres Estados, con turnos semestrales durante un período conjunto de dieciocho meses",
       "Siempre por el Alto Representante durante dos años y medio",
       "Por rotación mensual entre todos los órganos consultivos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.8 · Consejo de la Unión Europea",
     "tags": [
       "Revisión profunda"
@@ -688,12 +688,12 @@
     "tema": 8,
     "pregunta": "En la regla ordinaria de mayoría cualificada del Consejo, la minoría de bloqueo debe incluir como mínimo:",
     "opciones": [
-      "Cuatro miembros del Consejo",
       "Tres miembros del Consejo",
       "La mitad de los Estados miembros",
+      "Cuatro miembros del Consejo",
       "Todos los Estados que no hayan votado a favor"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.8 · Consejo de la Unión Europea",
     "tags": [
       "Revisión profunda"
@@ -705,12 +705,12 @@
     "tema": 8,
     "pregunta": "¿Quién elige al Presidente de la Comisión Europea?",
     "opciones": [
-      "El Parlamento Europeo, a propuesta del Consejo Europeo",
       "El Consejo de la Unión Europea, a propuesta del TJUE",
       "La Comisión Europea por unanimidad",
-      "Los Parlamentos nacionales mediante sufragio directo"
+      "Los Parlamentos nacionales mediante sufragio directo",
+      "El Parlamento Europeo, a propuesta del Consejo Europeo"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.8 · Comisión Europea",
     "tags": [
       "Revisión profunda"
@@ -739,12 +739,12 @@
     "tema": 8,
     "pregunta": "¿Cuál de los siguientes actos de la Unión Europea no es vinculante según el artículo 288 TFUE?",
     "opciones": [
-      "La recomendación",
       "La decisión dirigida a un Estado miembro",
+      "La recomendación",
       "La directiva dirigida a un Estado miembro",
       "El reglamento"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.8 · Actos jurídicos de la Unión",
     "tags": [
       "Revisión profunda"
@@ -756,12 +756,12 @@
     "tema": 8,
     "pregunta": "La protección de los consumidores pertenece, con carácter general, a las competencias:",
     "opciones": [
-      "Compartidas entre la Unión y los Estados miembros",
       "Exclusivas de la Unión",
       "De apoyo, sin posibilidad de actuación legislativa europea",
+      "Compartidas entre la Unión y los Estados miembros",
       "Reservadas al Consejo Europeo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema I.8 · Tipos de competencias de la Unión",
     "tags": [
       "Revisión profunda"
@@ -773,12 +773,12 @@
     "tema": 8,
     "pregunta": "Según el artículo 13 TUE, el Comité de las Regiones y el Comité Económico y Social Europeo son:",
     "opciones": [
-      "Órganos consultivos que asisten al Parlamento Europeo, al Consejo y a la Comisión",
       "Dos de las siete instituciones de la Unión",
       "Órganos jurisdiccionales integrados en el TJUE",
-      "Formaciones especializadas del Consejo"
+      "Formaciones especializadas del Consejo",
+      "Órganos consultivos que asisten al Parlamento Europeo, al Consejo y a la Comisión"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.8 · Sistema institucional de la Unión",
     "tags": [
       "Revisión profunda"

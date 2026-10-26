@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «-punto y coma-». En Outlook en español, el punto y coma separa destinatarios en los campos de dirección; no separa servidores ni protocolos. La alternativa «-punto-» no satisface ese criterio; aquí se aplica «-punto y coma-»."
+    "explicacion": "La respuesta correcta es «-punto y coma-». En Outlook en español, el punto y coma separa destinatarios en los campos de dirección; no separa servidores ni protocolos."
   },
   {
     "id": "pdf-2023-burgos-q16",
@@ -32,7 +32,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Cookies». La alternativa «Download» no satisface ese criterio; aquí se aplica «Cookies». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Las cookies son pequeños datos que los sitios guardan o consultan mediante el navegador. Algunas son temporales y otras persisten; no todas se almacenan del mismo modo."
   },
   {
     "id": "pdf-2023-burgos-q20",
@@ -50,35 +50,35 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Utilizar un filtro». El spam es comunicación no solicitada y el phishing busca engañar para obtener datos o acceso; un filtro no reemplaza la verificación. La alternativa «Utilizar un borrador» no satisface ese criterio; aquí se aplica «Utilizar un filtro»."
+    "explicacion": "La respuesta correcta es «Utilizar un filtro». El spam es comunicación no solicitada y el phishing busca engañar para obtener datos o acceso; un filtro no reemplaza la verificación."
   },
   {
     "id": "t39-p012",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, Outlook 365 es:",
     "opciones": [
-      "el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365",
       "una hoja de cálculo",
       "un sistema de archivos",
+      "el cliente de correo electrónico, calendario, contactos y tareas de Microsoft 365",
       "un gestor de bases de datos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · 8.1 Qué es Outlook 365",
-    "explicacion": "La respuesta correcta es «el cliente de correo electrónico calendario contactos y…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «una hoja de cálculo» no satisface ese criterio; aquí se aplica «el cliente de correo electrónico calendario contactos y…»."
+    "explicacion": "La respuesta correcta es «el cliente de correo electrónico calendario contactos y…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t39-p013",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, la Bandeja de entrada contiene:",
     "opciones": [
-      "mensajes recibidos",
       "mensajes eliminados",
       "borradores",
-      "archivos exportados"
+      "archivos exportados",
+      "mensajes recibidos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · 8.3 Las carpetas de correo",
-    "explicacion": "La respuesta correcta es «mensajes recibidos». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «mensajes eliminados» no satisface ese criterio; aquí se aplica «mensajes recibidos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «mensajes recibidos». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t39-p014",
@@ -92,49 +92,49 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · 9.2 Importancia de la CCO en la Administración",
-    "explicacion": "La respuesta correcta es «enviar copias ocultas protegiendo la privacidad de las…». CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro. La alternativa «cifrar automáticamente todos los adjuntos» no satisface ese criterio; aquí se aplica «enviar copias ocultas protegiendo la privacidad de las…»."
+    "explicacion": "La respuesta correcta es «enviar copias ocultas protegiendo la privacidad de las…». CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro."
   },
   {
     "id": "t39-p015",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, una regla de mensaje en Outlook es:",
     "opciones": [
-      "una instrucción automática aplicada a mensajes entrantes o salientes cuando se cumplen ciertas condiciones",
       "una carpeta de correo",
+      "una instrucción automática aplicada a mensajes entrantes o salientes cuando se cumplen ciertas condiciones",
       "un tipo de firma electrónica",
       "un formato de archivo"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · 10.1 Concepto",
-    "explicacion": "La respuesta correcta es «una instrucción automática aplicada a mensajes entrantes o…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «una carpeta de correo» no satisface ese criterio; aquí se aplica «una instrucción automática aplicada a mensajes entrantes o…»."
+    "explicacion": "La respuesta correcta es «una instrucción automática aplicada a mensajes entrantes o…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p001",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, Internet tiene su origen en:",
     "opciones": [
-      "ARPANET",
       "DNS",
       "HTTP",
+      "ARPANET",
       "Wi-Fi"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)",
-    "explicacion": "La respuesta correcta es «ARPANET». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «DNS» no satisface ese criterio; aquí se aplica «ARPANET». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «ARPANET». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p002",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, la primera conexión de ARPANET se estableció el:",
     "opciones": [
-      "29 de octubre de 1969",
       "1 de enero de 1991",
       "15 de mayo de 1983",
-      "4 de julio de 2007"
+      "4 de julio de 2007",
+      "29 de octubre de 1969"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · 1.1 Los orígenes: ARPANET (1969)",
-    "explicacion": "La respuesta correcta es «29 de octubre de 1969». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «1 de enero de 1991» no satisface ese criterio; aquí se aplica «29 de octubre de 1969»."
+    "explicacion": "La respuesta correcta es «29 de octubre de 1969». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p003",
@@ -148,49 +148,49 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · 1.2 Los protocolos TCP/IP (1974-1983)",
-    "explicacion": "La respuesta correcta es «1983». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «1969» no satisface ese criterio; aquí se aplica «1983». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «1983». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p004",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, la World Wide Web fue ideada por:",
     "opciones": [
-      "Tim Berners-Lee",
       "Vinton Cerf",
+      "Tim Berners-Lee",
       "Robert Kahn",
       "Mosaic"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · 1.3 La World Wide Web y la expansión civil (1991)",
-    "explicacion": "La respuesta correcta es «Tim Berners-Lee». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Vinton Cerf» no satisface ese criterio; aquí se aplica «Tim Berners-Lee». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «Tim Berners-Lee». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p005",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, el protocolo que define cómo se comunican navegador y servidor es:",
     "opciones": [
-      "HTTP",
       "FTP",
       "SMTP",
+      "HTTP",
       "UDP"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS",
-    "explicacion": "La respuesta correcta es «HTTP». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «FTP» no satisface ese criterio; aquí se aplica «HTTP». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «HTTP». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p006",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, DNS traduce:",
     "opciones": [
-      "nombres de dominio en direcciones IP",
       "ficheros en carpetas",
       "códigos en tablas",
-      "correos en contactos"
+      "correos en contactos",
+      "nombres de dominio en direcciones IP"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · 2.3 El Sistema de Nombres de Dominio (DNS)",
-    "explicacion": "La respuesta correcta es «nombres de dominio en direcciones IP». DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial. La alternativa «ficheros en carpetas» no satisface ese criterio; aquí se aplica «nombres de dominio en direcciones IP»."
+    "explicacion": "La respuesta correcta es «nombres de dominio en direcciones IP». DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial."
   },
   {
     "id": "t40-p007",
@@ -204,49 +204,49 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · 2.2 El protocolo TCP/IP",
-    "explicacion": "La respuesta correcta es «32 bits». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «16 bits» no satisface ese criterio; aquí se aplica «32 bits». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «32 bits». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p008",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, HTTPS añade a HTTP:",
     "opciones": [
-      "cifrado SSL/TLS",
       "una hoja de cálculo",
+      "cifrado SSL/TLS",
       "un archivo adjunto",
       "un formato de compresión"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · 2.4 Protocolo HTTP y HTTPS",
-    "explicacion": "La respuesta correcta es «cifrado SSL/TLS». DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial. La alternativa «una hoja de cálculo» no satisface ese criterio; aquí se aplica «cifrado SSL/TLS»."
+    "explicacion": "La respuesta correcta es «cifrado SSL/TLS». DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial."
   },
   {
     "id": "t40-p009",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, IMAP permite:",
     "opciones": [
-      "Acceder a los mensajes manteniéndolos en el servidor y sincronizando carpetas y estados entre varios dispositivos",
       "Descargar normalmente los mensajes al equipo local y eliminarlos del servidor una vez recibidos",
       "Enviar mensajes salientes sin necesidad de un protocolo complementario",
+      "Acceder a los mensajes manteniéndolos en el servidor y sincronizando carpetas y estados entre varios dispositivos",
       "Firmar electrónicamente correos y documentos desde el cliente de correo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Correo electrónico · IMAP",
-    "explicacion": "IMAP mantiene los mensajes en el servidor y sincroniza el estado del buzón entre distintos dispositivos. SMTP envía mensajes; IMAP accede al buzón del servidor y sincroniza carpetas; POP3 descarga mensajes conforme a la configuración del cliente. La alternativa «Descargar normalmente los mensajes al equipo local y…» no satisface ese criterio; aquí se aplica «Acceder a los mensajes manteniéndolos en el servidor…»."
+    "explicacion": "IMAP mantiene los mensajes en el servidor y sincroniza el estado del buzón entre distintos dispositivos. SMTP envía mensajes; IMAP accede al buzón del servidor y sincroniza carpetas; POP3 descarga mensajes conforme a la configuración del cliente."
   },
   {
     "id": "t40-p010",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, una VPN es:",
     "opciones": [
-      "una conexión cifrada que crea un túnel seguro a través de internet",
       "un tipo de navegador",
       "una dirección de correo",
-      "un protocolo de impresión"
+      "un protocolo de impresión",
+      "una conexión cifrada que crea un túnel seguro a través de internet"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · 2.5.3 VPN",
-    "explicacion": "La respuesta correcta es «una conexión cifrada que crea un túnel seguro…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «una dirección de correo» no satisface ese criterio; aquí se aplica «una conexión cifrada que crea un túnel seguro…»."
+    "explicacion": "La respuesta correcta es «una conexión cifrada que crea un túnel seguro…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p011",
@@ -260,49 +260,49 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · 2.5.5 La dirección URL",
-    "explicacion": "La respuesta correcta es «la dirección completa que identifica un recurso en…». DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial. La alternativa «un archivo comprimido» no satisface ese criterio; aquí se aplica «la dirección completa que identifica un recurso en…»."
+    "explicacion": "La respuesta correcta es «la dirección completa que identifica un recurso en…». DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial."
   },
   {
     "id": "t40-p012",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, SaaS significa:",
     "opciones": [
-      "software accesible desde el navegador sin instalación local",
       "infraestructura física virtualizada",
+      "software accesible desde el navegador sin instalación local",
       "plataforma para desarrollar aplicaciones",
       "sistema de archivos seguro"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · 2.6 La Nube (Cloud Computing)",
-    "explicacion": "La respuesta correcta es «software accesible desde el navegador sin instalación local». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «infraestructura física virtualizada» no satisface ese criterio; aquí se aplica «software accesible desde el navegador sin instalación local»."
+    "explicacion": "La respuesta correcta es «software accesible desde el navegador sin instalación local». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p013",
     "tema": 42,
     "pregunta": "En Internet y correo electrónico, un navegador web es el programa que permite:",
     "opciones": [
-      "acceder, visualizar e interactuar con los recursos de la World Wide Web",
       "crear bases de datos",
       "firmar electrónicamente documentos",
+      "acceder, visualizar e interactuar con los recursos de la World Wide Web",
       "compilar código fuente"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · 3.1 Qué es un navegador web",
-    "explicacion": "La respuesta correcta es «acceder visualizar e interactuar con los recursos de…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «crear bases de datos» no satisface ese criterio; aquí se aplica «acceder visualizar e interactuar con los recursos de…»."
+    "explicacion": "La respuesta correcta es «acceder visualizar e interactuar con los recursos de…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "t40-p014",
     "tema": 42,
     "pregunta": "En los navegadores actuales la barra de favoritos sirve para:",
     "opciones": [
-      "guardar URLs para acceder rápidamente en el futuro",
       "eliminar cookies automáticamente",
       "cifrar el tráfico",
-      "crear cuentas de correo"
+      "crear cuentas de correo",
+      "guardar URLs para acceder rápidamente en el futuro"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · 3.4.3 Favoritos / Marcadores",
-    "explicacion": "La respuesta correcta es «guardar URLs para acceder rápidamente en el futuro». La alternativa «eliminar cookies automáticamente» no satisface ese criterio; aquí se aplica «guardar URLs para acceder rápidamente en el futuro». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La barra de favoritos conserva enlaces para volver a páginas sin recordar su URL. Guardar un favorito no descarga el sitio ni garantiza que siga disponible."
   },
   {
     "id": "t40-p015",
@@ -316,21 +316,21 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · 3.5.2 Navegación privada / InPrivate / Incógnito",
-    "explicacion": "La respuesta correcta es «no guarda historial ni cookies al cerrar la…». La navegación privada limita datos locales guardados por el navegador, pero no oculta necesariamente la actividad a sitios, proveedor o red corporativa. La alternativa «borra todos los archivos del equipo» no satisface ese criterio; aquí se aplica «no guarda historial ni cookies al cerrar la…»."
+    "explicacion": "La respuesta correcta es «no guarda historial ni cookies al cerrar la…». La navegación privada limita datos locales guardados por el navegador, pero no oculta necesariamente la actividad a sitios, proveedor o red corporativa."
   },
   {
     "id": "t40-p016",
     "tema": 42,
     "pregunta": "En relación con los protocolos de correo electrónico, señale la respuesta correcta:",
     "opciones": [
-      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
       "POP3 es el protocolo para el envío de correos con sincronización entre dispositivos.",
+      "SMTP es el protocolo para el envío de correos electrónicos desde el cliente al servidor de correo y entre servidores.",
       "IMAP descarga los mensajes del servidor y los elimina por defecto.",
       "HTTPS es el protocolo habitual para remitir correo entre servidores."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · 2.5.1 Correo electrónico",
-    "explicacion": "La respuesta correcta es «SMTP es el protocolo para el envío de…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «HTTPS es el protocolo habitual para remitir correo…» no satisface ese criterio; aquí se aplica «SMTP es el protocolo para el envío de…»."
+    "explicacion": "La respuesta correcta es «SMTP es el protocolo para el envío de…». El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "estado2026-extra-t42-01",
@@ -347,7 +347,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Siempre se envía directamente entre terminales sin servidores» no satisface ese criterio; aquí se aplica «No se envían mensajes entre dos equipos sin…»."
+    "explicacion": "El correo usa servidores para recibir, almacenar y entregar mensajes mediante protocolos. El remitente y destinatario no suelen conectarse directamente entre sí."
   },
   {
     "id": "estado2026-extra-t42-02",
@@ -364,7 +364,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El nivel Colaborador permite crear elementos, pero no leer ni editar los ya existentes. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Revisor» no satisface ese criterio; aquí se aplica «Colaborador»."
+    "explicacion": "El nivel Colaborador permite crear elementos, pero no leer ni editar los ya existentes. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "estado2026-extra-t42-03",
@@ -381,24 +381,24 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El operador cc: busca en la línea de copia de los mensajes. CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro. La alternativa «Mensajes enviados por Ana Muñoz» no satisface ese criterio; aquí se aplica «Mensajes en los que el nombre Ana Muñoz…»."
+    "explicacion": "El operador cc: busca en la línea de copia de los mensajes. CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro."
   },
   {
     "id": "estado2026-extra-t42-04",
     "tema": 42,
-    "pregunta": "Al crear un grupo público en Outlook 365:",
+    "pregunta": "Al crear un grupo público de Microsoft 365 en Outlook para una organización, ¿qué afirmación describe correctamente el correo del grupo?",
     "opciones": [
-      "Se genera una dirección de correo del grupo a la que cualquiera puede enviar mensajes que se distribuyen a sus integrantes",
+      "El grupo tiene una dirección propia; por defecto, sus integrantes y otras personas de la organización pueden participar según la configuración, y los remitentes externos requieren autorización habilitada",
       "No se genera dirección de correo",
       "Solo puede escribir el creador del grupo",
       "Los mensajes se eliminan al distribuirse"
     ],
     "correcta": 0,
-    "referencia": "Examen Estado 2026, grupos de Outlook; Tema V.11",
+    "referencia": "Microsoft Support · grupos de Microsoft 365; configuración de remitentes autorizados",
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Los grupos de Outlook pueden tener dirección propia; si el grupo es público, cualquiera puede enviar mensajes al grupo. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «No se genera dirección de correo» no satisface ese criterio; aquí se aplica «Se genera una dirección de correo del grupo…»."
+    "explicacion": "Los grupos de Microsoft 365 tienen una dirección de correo. Un grupo público permite el acceso a personas de la organización; la recepción de remitentes externos depende de la configuración. No debe afirmarse que cualquier persona ajena a la organización puede escribir siempre."
   },
   {
     "id": "estado2026-extra-t42-05",
@@ -415,7 +415,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Microsoft Edge permite anclar sitios al Inicio mediante el menú de Más herramientas. La alternativa «Solo desde Internet Explorer» no satisface ese criterio; aquí se aplica «Sí desde Configuración y más Más herramientas Anclar…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Edge permite instalar un sitio como aplicación y desde sus detalles elegir «Anclar a Inicio». Las rutas exactas del menú pueden cambiar entre versiones."
   },
   {
     "id": "estado2026-extra-t42-06",
@@ -432,7 +432,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Spamming es el envío masivo de comunicaciones no solicitadas por correo u otros medios. La alternativa «Streaming» no satisface ese criterio; aquí se aplica «Spamming». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El envío masivo de mensajes no solicitados se llama spam o spamming; no debe confundirse con phishing, que intenta engañar para obtener datos o dinero."
   },
   {
     "id": "estado2026-extra-t42-07",
@@ -449,35 +449,35 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Un escritorio virtual permite trabajar sobre una estación lógica separada del dispositivo físico de acceso. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Servicio web» no satisface ese criterio; aquí se aplica «Escritorio virtual»."
+    "explicacion": "Un escritorio virtual permite trabajar sobre una estación lógica separada del dispositivo físico de acceso. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "realstyle-v11-01",
     "tema": 42,
     "pregunta": "En Outlook 365, la búsqueda cc:\"Ana Muñoz\" localiza:",
     "opciones": [
-      "Mensajes en los que Ana Muñoz aparece en la línea CC",
       "Mensajes enviados necesariamente por Ana Muñoz",
       "Mensajes donde Ana Muñoz aparece en CCO",
+      "Mensajes en los que Ana Muñoz aparece en la línea CC",
       "Solo contactos guardados con ese nombre"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Revisión test reales · búsqueda en Outlook",
-    "explicacion": "La sintaxis cc: filtra por destinatarios incluidos en copia. CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro. La alternativa «Mensajes donde Ana Muñoz aparece en CCO» no satisface ese criterio; aquí se aplica «Mensajes en los que Ana Muñoz aparece en…»."
+    "explicacion": "La sintaxis cc: filtra por destinatarios incluidos en copia. CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro."
   },
   {
     "id": "realstyle-v11-02",
     "tema": 42,
     "pregunta": "Respecto al correo electrónico, ¿qué afirmación se ajusta mejor a su funcionamiento general?",
     "opciones": [
-      "Intervienen servidores de correo y protocolos de comunicación, no una conexión directa simple entre dos terminales",
       "Siempre se envía directamente de un ordenador a otro sin servidores",
       "No utiliza direcciones con dominio",
-      "Solo puede funcionar dentro de una red local cerrada"
+      "Solo puede funcionar dentro de una red local cerrada",
+      "Intervienen servidores de correo y protocolos de comunicación, no una conexión directa simple entre dos terminales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Revisión test reales · conceptos elementales de correo",
-    "explicacion": "El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Siempre se envía directamente de un ordenador a…» no satisface ese criterio; aquí se aplica «Intervienen servidores de correo y protocolos de comunicación…»."
+    "explicacion": "El correo se intercambia mediante servidores y protocolos como SMTP, IMAP y POP3; la operación concreta depende del cliente y la configuración."
   },
   {
     "id": "burgos-v11-deep-01",
@@ -491,49 +491,49 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · Elementos del correo",
-    "explicacion": "CC es copia visible y CCO copia oculta. CCO protege la exposición de direcciones, pero no cifra por sí mismo el mensaje. CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro. La alternativa «CC oculta destinatarios y CCO los muestra siempre» no satisface ese criterio; aquí se aplica «CC muestra los destinatarios informados CCO oculta esas…»."
+    "explicacion": "CC es copia visible y CCO copia oculta. CCO protege la exposición de direcciones, pero no cifra por sí mismo el mensaje. CC muestra destinatarios informados y CCO oculta sus direcciones; ninguno cifra el mensaje ni sustituye a un canal formal de registro."
   },
   {
     "id": "burgos-v11-deep-02",
     "tema": 42,
     "pregunta": "Una unidad necesita que los mensajes y sus carpetas se sincronicen en ordenador y móvil. ¿Qué protocolo se asocia principalmente a ese uso?",
     "opciones": [
-      "IMAP",
       "SMTP",
+      "IMAP",
       "HTTP",
       "DNS"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · Protocolos del correo",
-    "explicacion": "IMAP permite acceder al buzón conservado en el servidor y sincronizar mensajes, carpetas y estados entre dispositivos. La alternativa «SMTP» no satisface ese criterio; aquí se aplica «IMAP». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "IMAP mantiene el buzón en el servidor y sincroniza mensajes, carpetas y estados entre dispositivos; SMTP se usa principalmente para enviar."
   },
   {
     "id": "burgos-v11-deep-03",
     "tema": 42,
     "pregunta": "¿Cuál es la afirmación más precisa sobre POP3?",
     "opciones": [
-      "Descarga mensajes según la configuración del cliente; no es obligatorio que los elimine siempre del servidor.",
       "Es el protocolo utilizado exclusivamente para enviar mensajes entre servidores.",
       "Traduce nombres de dominio en direcciones IP.",
+      "Descarga mensajes según la configuración del cliente; no es obligatorio que los elimine siempre del servidor.",
       "Cifra cualquier página web mediante TLS."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · Protocolos del correo",
-    "explicacion": "POP3 se orienta a la descarga del correo. La conservación o eliminación posterior en el servidor depende de la configuración. SMTP envía mensajes; IMAP accede al buzón del servidor y sincroniza carpetas; POP3 descarga mensajes conforme a la configuración del cliente. La alternativa «Es el protocolo utilizado exclusivamente para enviar mensajes…» no satisface ese criterio; aquí se aplica «Descarga mensajes según la configuración del cliente no…»."
+    "explicacion": "POP3 se orienta a la descarga del correo. La conservación o eliminación posterior en el servidor depende de la configuración. SMTP envía mensajes; IMAP accede al buzón del servidor y sincroniza carpetas; POP3 descarga mensajes conforme a la configuración del cliente."
   },
   {
     "id": "burgos-v11-deep-04",
     "tema": 42,
     "pregunta": "Un ciudadano remite por correo electrónico un escrito para el que se exige presentación formal. ¿Qué debe comprobarse?",
     "opciones": [
-      "Si corresponde presentarlo por el registro o la sede electrónica, porque un correo ordinario no equivale por sí solo a registro.",
       "Que el asunto contenga la palabra REGISTRO, pues eso convierte el mensaje en una solicitud registrada.",
       "Que el archivo adjunto esté en PDF, porque el formato siempre sustituye al registro.",
-      "Que se envíe con CCO, porque la copia oculta acredita la recepción."
+      "Que se envíe con CCO, porque la copia oculta acredita la recepción.",
+      "Si corresponde presentarlo por el registro o la sede electrónica, porque un correo ordinario no equivale por sí solo a registro."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · Correo y actuación administrativa",
-    "explicacion": "El correo puede ser un canal auxiliar, pero el registro o la sede proporcionan el cauce formal cuando lo exige la normativa. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Que el archivo adjunto esté en PDF porque…» no satisface ese criterio; aquí se aplica «Si corresponde presentarlo por el registro o la…»."
+    "explicacion": "El correo puede ser un canal auxiliar, pero el registro o la sede proporcionan el cauce formal cuando lo exige la normativa. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "burgos-v11-deep-05",
@@ -547,49 +547,49 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · Internet y sus servicios",
-    "explicacion": "Internet es la infraestructura/red de redes; la WWW es uno de los servicios que funciona sobre ella. La alternativa «Internet es un navegador y la Web es…» no satisface ese criterio; aquí se aplica «La Web es un servicio de Internet basado…»."
+    "explicacion": "La Web es un servicio que funciona sobre Internet. Internet también soporta correo, mensajería, transferencia de archivos y otros servicios."
   },
   {
     "id": "burgos-v11-deep-06",
     "tema": 42,
     "pregunta": "Al escribir https://sede.ejemplo.es/tramites?id=4#pago, ¿qué parte identifica el recurso o ubicación dentro del sitio?",
     "opciones": [
-      "La ruta /tramites, mientras que id=4 es un parámetro y #pago un fragmento.",
       "El protocolo https, que contiene por sí solo toda la ubicación.",
+      "La ruta /tramites, mientras que id=4 es un parámetro y #pago un fragmento.",
       "El dominio sede.ejemplo.es, que incluye también la ruta y el fragmento.",
       "El fragmento #pago, que identifica siempre el servidor."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · URL, dominio, IP y HTTP",
-    "explicacion": "Una URL puede componerse de esquema, host, ruta, parámetros y fragmento; cada parte cumple una función distinta. DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial. La alternativa «El fragmento #pago, que identifica siempre el servidor» no satisface ese criterio; aquí se aplica «La ruta tramites mientras que id 4 es…»."
+    "explicacion": "Una URL puede componerse de esquema, host, ruta, parámetros y fragmento; cada parte cumple una función distinta. DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial."
   },
   {
     "id": "burgos-v11-deep-07",
     "tema": 42,
     "pregunta": "¿Qué hace principalmente DNS cuando se accede a un dominio?",
     "opciones": [
-      "Resuelve el nombre de dominio para localizar la dirección IP correspondiente.",
       "Cifra todo el contenido que intercambian navegador y servidor.",
       "Envía el mensaje de correo desde el cliente al servidor.",
+      "Resuelve el nombre de dominio para localizar la dirección IP correspondiente.",
       "Guarda el historial y las cookies del navegador."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · TCP/IP, IP y DNS",
-    "explicacion": "DNS funciona como sistema de resolución de nombres: relaciona nombres de dominio con direcciones IP. DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial. La alternativa «Cifra todo el contenido que intercambian navegador y…» no satisface ese criterio; aquí se aplica «Resuelve el nombre de dominio para localizar la…»."
+    "explicacion": "DNS funciona como sistema de resolución de nombres: relaciona nombres de dominio con direcciones IP. DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial."
   },
   {
     "id": "burgos-v11-deep-08",
     "tema": 42,
     "pregunta": "¿Qué garantiza HTTPS de forma más directa?",
     "opciones": [
-      "Protege la comunicación en tránsito mediante TLS, pero no demuestra por sí solo que el sitio sea oficial.",
       "Que el contenido de la página sea verdadero y pertenezca a una Administración.",
       "Que el usuario sea anónimo frente al proveedor y a la red corporativa.",
-      "Que todos los archivos descargados estén libres de malware."
+      "Que todos los archivos descargados estén libres de malware.",
+      "Protege la comunicación en tránsito mediante TLS, pero no demuestra por sí solo que el sitio sea oficial."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · URL, dominio, IP y HTTP",
-    "explicacion": "HTTPS protege la conexión con el servidor mediante TLS. La oficialidad exige comprobar el dominio y la fuente, y el usuario debe seguir verificando los contenidos. DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial. La alternativa «Que el contenido de la página sea verdadero…» no satisface ese criterio; aquí se aplica «Protege la comunicación en tránsito mediante TLS pero…»."
+    "explicacion": "HTTPS protege la conexión con el servidor mediante TLS. La oficialidad exige comprobar el dominio y la fuente, y el usuario debe seguir verificando los contenidos. DNS resuelve nombres de dominio; HTTPS protege el tránsito mediante TLS, pero no certifica por sí solo que el sitio sea oficial."
   },
   {
     "id": "burgos-v11-deep-09",
@@ -603,48 +603,48 @@
     ],
     "correcta": 0,
     "referencia": "V.11 · Seguridad, privacidad y fuentes oficiales",
-    "explicacion": "La urgencia y la solicitud de credenciales son señales de alerta. La verificación debe hacerse por un canal independiente y autorizado. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral. La alternativa «Responder con la contraseña y cambiarla después si…» no satisface ese criterio; aquí se aplica «No usar el enlace verificar la petición por…»."
+    "explicacion": "La urgencia y la solicitud de credenciales son señales de alerta. La verificación debe hacerse por un canal independiente y autorizado. El correo utiliza servidores, protocolos y campos de destinatarios; el mensaje ordinario no constituye por sí solo una presentación registral."
   },
   {
     "id": "burgos-v11-deep-10",
     "tema": 42,
     "pregunta": "¿Qué afirmación sobre la navegación privada es correcta?",
     "opciones": [
-      "Evita que el navegador conserve determinados datos locales al cerrar la ventana, pero no garantiza anonimato frente a la red o los sitios visitados.",
       "Cifra automáticamente todos los mensajes y oculta la IP ante cualquier tercero.",
+      "Evita que el navegador conserve determinados datos locales al cerrar la ventana, pero no garantiza anonimato frente a la red o los sitios visitados.",
       "Impide que se conserven los archivos descargados y los favoritos.",
       "Sustituye al antivirus y autoriza extensiones no verificadas."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.11 · Navegador y uso práctico de Internet",
-    "explicacion": "La ventana privada limita ciertos registros locales, pero no elimina la visibilidad que pueden tener la organización, el proveedor o los sitios visitados. La navegación privada limita datos locales guardados por el navegador, pero no oculta necesariamente la actividad a sitios, proveedor o red corporativa. La alternativa «Impide que se conserven los archivos descargados y…» no satisface ese criterio; aquí se aplica «Evita que el navegador conserve determinados datos locales…»."
+    "explicacion": "La ventana privada limita ciertos registros locales, pero no elimina la visibilidad que pueden tener la organización, el proveedor o los sitios visitados. La navegación privada limita datos locales guardados por el navegador, pero no oculta necesariamente la actividad a sitios, proveedor o red corporativa."
   },
   {
     "id": "burgos-v11-deep-11",
     "tema": 42,
     "pregunta": "En servicios de nube, ¿qué significa SaaS?",
     "opciones": [
-      "Software como servicio, accesible para el usuario sin gestionar toda la infraestructura subyacente.",
       "Infraestructura como servicio, limitada a cableado físico local.",
       "Un protocolo específico para recibir correo.",
+      "Software como servicio, accesible para el usuario sin gestionar toda la infraestructura subyacente.",
       "Un sistema que traduce dominios en direcciones IP."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.11 · Servicios de Internet",
-    "explicacion": "SaaS ofrece aplicaciones como servicio. IaaS se refiere a infraestructura y PaaS a plataformas para desarrollar o desplegar aplicaciones. La alternativa «Infraestructura como servicio, limitada a cableado físico local» no satisface ese criterio; aquí se aplica «Software como servicio accesible para el usuario sin…»."
+    "explicacion": "SaaS es software ofrecido como servicio, normalmente por Internet; el proveedor opera la infraestructura y la persona usuaria accede a la aplicación."
   },
   {
     "id": "burgos-v11-deep-12",
     "tema": 42,
     "pregunta": "¿Qué secuencia relaciona correctamente una actuación administrativa digital?",
     "opciones": [
-      "Comprobar dominio y fuente → elegir sede o registro si el trámite es formal → minimizar datos → conservar la trazabilidad correspondiente.",
       "Abrir cualquier enlace con HTTPS → enviar datos por correo → borrar el mensaje y el justificante.",
       "Usar CCO → considerar registrada la solicitud → guardar la contraseña en el navegador.",
-      "Descargar una extensión desconocida → introducir credenciales → reenviar el expediente a una cuenta personal."
+      "Descargar una extensión desconocida → introducir credenciales → reenviar el expediente a una cuenta personal.",
+      "Comprobar dominio y fuente → elegir sede o registro si el trámite es formal → minimizar datos → conservar la trazabilidad correspondiente."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.11 · Cómo resolver supuestos y seguridad",
-    "explicacion": "La seguridad y la validez del trámite exigen verificar la fuente, escoger el canal formal cuando corresponda, aplicar minimización y conservar evidencias o justificantes. La alternativa «Abrir cualquier enlace con HTTPS enviar datos por…» no satisface ese criterio; aquí se aplica «Comprobar dominio y fuente elegir sede o registro…»."
+    "explicacion": "La seguridad y la validez del trámite exigen verificar la fuente, escoger el canal formal cuando corresponda, aplicar minimización y conservar evidencias o justificantes."
   }
 ]

@@ -11,49 +11,49 @@
     ],
     "correcta": 0,
     "referencia": "II.11 · 1.3 Régimen supletorio",
-    "explicacion": "El tema señala expresamente el ROF como régimen supletorio. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «ROF». El distractor «Código Civil» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema señala expresamente el ROF como régimen supletorio. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «ROF»."
   },
   {
     "id": "t26-p002",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, la convocatoria del órgano colegiado corresponde al:",
     "opciones": [
-      "Presidente",
       "Secretario",
+      "Presidente",
       "Interventor",
       "Tesorero"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 2.1 Competencia para convocar",
-    "explicacion": "El tema atribuye la convocatoria al Presidente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Presidente». El distractor «Secretario» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema atribuye la convocatoria al Presidente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Presidente»."
   },
   {
     "id": "t26-p003",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, la convocatoria del Pleno puede ser solicitada por al menos:",
     "opciones": [
-      "la cuarta parte de los miembros",
       "la mitad de los asistentes",
       "dos tercios del Pleno",
+      "la cuarta parte de los miembros",
       "un solo miembro"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 2.1 Competencia para convocar",
-    "explicacion": "El tema recoge ese umbral para solicitar la convocatoria plenaria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «la cuarta parte de los miembros». El distractor «la mitad de los asistentes» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema recoge ese umbral para solicitar la convocatoria plenaria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «la cuarta parte de los miembros»."
   },
   {
     "id": "t26-p004",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, la antelación mínima de la convocatoria ordinaria o extraordinaria es de:",
     "opciones": [
-      "2 días hábiles",
       "24 horas",
       "5 días naturales",
-      "10 días hábiles"
+      "10 días hábiles",
+      "2 días hábiles"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · 2.2 Antelación mínima de la convocatoria",
-    "explicacion": "El tema fija dos días hábiles de antelación. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «2 días hábiles». El distractor «24 horas» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema fija dos días hábiles de antelación. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «2 días hábiles»."
   },
   {
     "id": "t26-p005",
@@ -67,49 +67,49 @@
     ],
     "correcta": 0,
     "referencia": "II.11 · 2.2 Antelación mínima de la convocatoria",
-    "explicacion": "El tema indica que la urgencia elimina el plazo mínimo. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «no exige plazo mínimo». El distractor «debe notificarse con 15 días hábiles» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema indica que la urgencia elimina el plazo mínimo. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «no exige plazo mínimo»."
   },
   {
     "id": "t26-p006",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, el orden del día:",
     "opciones": [
-      "limita los asuntos que pueden debatirse y votarse",
       "solo sirve como archivo histórico",
+      "limita los asuntos que pueden debatirse y votarse",
       "es irrelevante si hay urgencia",
       "solo se usa en la Junta de Gobierno"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 2.5 El orden del día",
-    "explicacion": "El tema subraya que marca los asuntos a tratar. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «limita los asuntos que pueden debatirse y votarse». El distractor «solo sirve como archivo histórico» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema subraya que marca los asuntos a tratar. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «limita los asuntos que pueden debatirse y votarse»."
   },
   {
     "id": "t26-p007",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, el quórum inicial de constitución exige:",
     "opciones": [
-      "un tercio del número legal de miembros, con un mínimo de tres",
       "la mayoría absoluta de los miembros",
       "dos tercios de los miembros",
+      "un tercio del número legal de miembros, con un mínimo de tres",
       "la presencia de todos los concejales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 3.2 Quórum de constitución (quórum inicial)",
-    "explicacion": "El tema fija un tercio y un mínimo de tres. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «un tercio del número legal de miembros, con un mínimo de tres». El distractor «la mayoría absoluta de los miembros» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema fija un tercio y un mínimo de tres. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «un tercio del número legal de miembros, con un mínimo de tres»."
   },
   {
     "id": "t26-p008",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, para constituirse válidamente deben estar presentes:",
     "opciones": [
-      "el Presidente y el Secretario",
       "el alcalde y el interventor",
       "solo el portavoz de mayoría",
-      "el tesorero y dos vocales"
+      "el tesorero y dos vocales",
+      "el Presidente y el Secretario"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · 3.4 Asistencia del Presidente y del Secretario",
-    "explicacion": "El tema exige la presencia de Presidente y Secretario. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «el Presidente y el Secretario». El distractor «el alcalde y el interventor» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema exige la presencia de Presidente y Secretario. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «el Presidente y el Secretario»."
   },
   {
     "id": "t26-p009",
@@ -123,49 +123,49 @@
     ],
     "correcta": 0,
     "referencia": "II.11 · 4.6 Voto delegado",
-    "explicacion": "El tema lo prohíbe expresamente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «no está permitido». El distractor «es obligatorio en todas las sesiones» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema lo prohíbe expresamente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «no está permitido»."
   },
   {
     "id": "t26-p010",
     "tema": 20,
     "pregunta": "En las votaciones de órganos colegiados locales, cuando hay empate, ¿de qué dispone el Presidente?",
     "opciones": [
-      "voto de calidad",
       "veto suspensivo",
+      "voto de calidad",
       "doble voto siempre",
       "voto ponderado automático"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 4.5 Empate en la votación / 4.7 Voto de calidad y voto ponderado",
-    "explicacion": "El tema contempla el voto de calidad del Presidente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «voto de calidad». El distractor «veto suspensivo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema contempla el voto de calidad del Presidente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «voto de calidad»."
   },
   {
     "id": "t26-p011",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, las mayorías exigidas para adoptar acuerdos dependen:",
     "opciones": [
-      "del tipo de asunto y de lo que establezca la ley",
       "solo de la edad del Presidente",
       "únicamente del número de asistentes",
+      "del tipo de asunto y de lo que establezca la ley",
       "siempre de la unanimidad"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 4.4 Mayorías exigidas para la adopción de acuerdos",
-    "explicacion": "El tema distingue mayoría simple, absoluta y cualificadas. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «del tipo de asunto y de lo que establezca la ley». El distractor «solo de la edad del Presidente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema distingue mayoría simple, absoluta y cualificadas. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «del tipo de asunto y de lo que establezca la ley»."
   },
   {
     "id": "t26-p012",
     "tema": 20,
     "pregunta": "Según el art. 109 ROF, el acta de un órgano colegiado local debe recoger, entre otros:",
     "opciones": [
-      "asistentes, orden del día, desarrollo de debates, votaciones y acuerdos",
       "solo el nombre del Presidente",
       "únicamente los gastos de la sesión",
-      "solo la fecha de publicación"
+      "solo la fecha de publicación",
+      "asistentes, orden del día, desarrollo de debates, votaciones y acuerdos"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · 5.2 Contenido del acta (art. 109 ROF)",
-    "explicacion": "El tema enumera esos extremos como contenido del acta. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «asistentes, orden del día, desarrollo de debates, votaciones y acuerdos». El distractor «solo el nombre del Presidente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema enumera esos extremos como contenido del acta. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «asistentes, orden del día, desarrollo de debates, votaciones y acuerdos»."
   },
   {
     "id": "t26-p013",
@@ -179,49 +179,49 @@
     ],
     "correcta": 0,
     "referencia": "II.11 · 6.2 Quién puede expedir certificados",
-    "explicacion": "El tema atribuye esa función al Secretario. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «el Secretario». El distractor «cualquier diputado» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema atribuye esa función al Secretario. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «el Secretario»."
   },
   {
     "id": "t26-p014",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, los certificados tienen:",
     "opciones": [
-      "valor de fe pública respecto de los acuerdos certificados",
       "solo valor informativo sin eficacia alguna",
+      "valor de fe pública respecto de los acuerdos certificados",
       "valor de sentencia firme",
       "eficacia reglamentaria"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 6.4 Efectos del certificado",
-    "explicacion": "El tema les atribuye un valor jurídico relevante. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «valor de fe pública respecto de los acuerdos certificados». El distractor «solo valor informativo sin eficacia alguna» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema les atribuye un valor jurídico relevante. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «valor de fe pública respecto de los acuerdos certificados»."
   },
   {
     "id": "t26-p015",
     "tema": 20,
     "pregunta": "En el funcionamiento de órganos colegiados locales, las Comisiones Informativas, tienen como función principal el:",
     "opciones": [
-      "estudio, informe y consulta",
       "dictado de sentencias",
       "control jurisdiccional",
+      "estudio, informe y consulta",
       "recaudación ejecutiva"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 7. Régimen de sesiones de las Comisiones Informativas",
-    "explicacion": "El tema les atribuye funciones de estudio, informe y consulta. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «estudio, informe y consulta». El distractor «dictado de sentencias» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El tema les atribuye funciones de estudio, informe y consulta. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «estudio, informe y consulta»."
   },
   {
     "id": "topup-20-02",
     "pregunta": "Como regla general, no deben tratarse asuntos no incluidos en el orden del día salvo:",
     "opciones": [
-      "supuestos de urgencia conforme a la normativa aplicable",
       "petición verbal de cualquier asistente",
       "siempre que lo pida la oposición",
-      "si son asuntos tributarios"
+      "si son asuntos tributarios",
+      "supuestos de urgencia conforme a la normativa aplicable"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · Orden del día",
     "tema": 20,
-    "explicacion": "La inclusión en el orden del día es una garantía, con excepciones tasadas por urgencia. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «supuestos de urgencia conforme a la normativa aplicable». El distractor «petición verbal de cualquier asistente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La inclusión en el orden del día es una garantía, con excepciones tasadas por urgencia. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «supuestos de urgencia conforme a la normativa aplicable»."
   },
   {
     "id": "topup-20-05",
@@ -235,49 +235,49 @@
     "correcta": 0,
     "referencia": "II.11 · Funcionamiento de órganos colegiados",
     "tema": 20,
-    "explicacion": "El acta documenta formalmente el desarrollo y acuerdos de la sesión. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «dejar constancia de asistentes, asuntos y acuerdos». El distractor «sustituir a la convocatoria» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El acta documenta formalmente el desarrollo y acuerdos de la sesión. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «dejar constancia de asistentes, asuntos y acuerdos»."
   },
   {
     "id": "refine-20-01",
     "pregunta": "El orden del día de un órgano colegiado local cumple, entre otras, una función de:",
     "opciones": [
-      "Delimitar los asuntos sobre los que podrán recaer válidamente la deliberación y, en su caso, el acuerdo del órgano colegiado",
       "Sustituir al acta de la sesión y reflejar directamente los acuerdos adoptados",
+      "Delimitar los asuntos sobre los que podrán recaer válidamente la deliberación y, en su caso, el acuerdo del órgano colegiado",
       "Habilitar para votar cualquier asunto aunque no figure previamente relacionado",
       "Convertir automáticamente en públicos todos los expedientes incluidos en la convocatoria"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Órganos colegiados locales · convocatorias y orden del día",
     "tema": 20,
-    "explicacion": "El orden del día delimita los asuntos sobre los que el órgano puede deliberar y adoptar acuerdos, salvo excepciones legales. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Delimitar los asuntos sobre los que podrán recaer válidamente la deliberación y, en su caso,…». El distractor «Sustituir al acta de la sesión y reflejar…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El orden del día delimita los asuntos sobre los que el órgano puede deliberar y adoptar acuerdos, salvo excepciones legales. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Delimitar los asuntos sobre los que podrán recaer válidamente la deliberación y, en su caso,…»."
   },
   {
     "id": "refine-20-02",
     "pregunta": "La válida constitución de un órgano colegiado local exige comprobar el quórum relativo a:",
     "opciones": [
-      "asistencia mínima legalmente exigida para celebrar sesión y adoptar acuerdos",
       "porcentaje de ejecución presupuestaria del area",
       "número de expedientes pendientes de secretaria",
+      "asistencia mínima legalmente exigida para celebrar sesión y adoptar acuerdos",
       "porcentaje de participación ciudadana del barrio"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · Requisitos para la constitución",
     "tema": 20,
-    "explicacion": "El quorum se refiere al mínimo de asistentes legalmente necesario para sesionar validamente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «asistencia mínima legalmente exigida para celebrar sesión y adoptar acuerdos». El distractor «porcentaje de ejecución presupuestaria del area» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El quorum se refiere al mínimo de asistentes legalmente necesario para sesionar validamente. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «asistencia mínima legalmente exigida para celebrar sesión y adoptar acuerdos»."
   },
   {
     "id": "refine-20-03",
-    "pregunta": "En el funcionamiento de órganos colegiados locales, el voto de calidad del presidente opera, como regla general, en caso de:",
+    "pregunta": "¿Cómo son las sesiones de la Junta de Gobierno Local, como regla general?",
     "opciones": [
-      "empate en la votación",
-      "ausencia del secretario",
-      "falta de convocatoria escrita",
-      "aprobación por unanimidad"
+      "Públicas, como las sesiones del Pleno.",
+      "Públicas cuando se convoquen con carácter ordinario.",
+      "Secretas solo si lo acuerda la Presidencia.",
+      "No públicas."
     ],
-    "correcta": 0,
-    "referencia": "II.11 · Votaciones",
+    "correcta": 3,
+    "referencia": "II.11 · 8 Órganos colegiados locales; LRBRL, art. 70",
     "tema": 20,
-    "explicacion": "El voto de calidad resuelve el empate cuando el régimen jurídico aplicable así lo previene. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «empate en la votación». El distractor «ausencia del secretario» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "Las sesiones de la Junta de Gobierno Local no son públicas, a diferencia de las del Pleno. La publicidad plenaria es la regla general; las excepciones se limitan a los asuntos que afecten a derechos como el honor, la intimidad o la propia imagen, en los términos legales."
   },
   {
     "id": "burgos-ii11-deep-01",
@@ -291,49 +291,49 @@
     "correcta": 0,
     "referencia": "II.11 · 3.1 Convocatoria a solicitud de concejales",
     "tema": 20,
-    "explicacion": "La regla vigente de la LRBRL fija un máximo de quince días hábiles desde que se solicita la sesión; el ROF contiene además reglas procedimentales que no deben mezclarse automáticamente con ese plazo. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «quince días hábiles desde la solicitud». El distractor «quince días naturales desde la convocatoria» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La regla vigente de la LRBRL fija un máximo de quince días hábiles desde que se solicita la sesión; el ROF contiene además reglas procedimentales que no deben mezclarse automáticamente con ese plazo. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «quince días hábiles desde la solicitud»."
   },
   {
     "id": "burgos-ii11-deep-02",
     "pregunta": "La documentación íntegra de los asuntos del orden del día que sirva de base al debate y, en su caso, a la votación debe estar a disposición de los concejales:",
     "opciones": [
-      "Desde el mismo día de la convocatoria en la Secretaría",
       "Solo durante la sesión plenaria",
+      "Desde el mismo día de la convocatoria en la Secretaría",
       "Al menos dos días naturales después de la convocatoria",
       "Únicamente cuando la solicite la oposición"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 3.2 Antelación y documentación",
     "tema": 20,
-    "explicacion": "El artículo 46.2.b LRBRL exige que la documentación íntegra esté disponible en la Secretaría desde el mismo día de la convocatoria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Desde el mismo día de la convocatoria en la Secretaría». El distractor «Solo durante la sesión plenaria» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 46.2.b LRBRL exige que la documentación íntegra esté disponible en la Secretaría desde el mismo día de la convocatoria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Desde el mismo día de la convocatoria en la Secretaría»."
   },
   {
     "id": "burgos-ii11-deep-03",
     "pregunta": "En una sesión plenaria ordinaria, el punto de ruegos y preguntas:",
     "opciones": [
-      "Debe incluirse siempre y no habilita por sí mismo para adoptar acuerdos sobre asuntos nuevos",
       "Permite aprobar cualquier expediente no incluido en la convocatoria",
       "Solo puede incluirse en sesiones extraordinarias urgentes",
+      "Debe incluirse siempre y no habilita por sí mismo para adoptar acuerdos sobre asuntos nuevos",
       "Sustituye al dictamen de la comisión informativa"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 4. Orden del día",
     "tema": 20,
-    "explicacion": "El ROF exige incluir ruegos y preguntas en las sesiones ordinarias, pero son un instrumento de control e información, no una vía general para aprobar asuntos nuevos. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Debe incluirse siempre y no habilita por sí mismo para adoptar acuerdos sobre asuntos nuevos». El distractor «Permite aprobar cualquier expediente no incluido en la…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El ROF exige incluir ruegos y preguntas en las sesiones ordinarias, pero son un instrumento de control e información, no una vía general para aprobar asuntos nuevos. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Debe incluirse siempre y no habilita por sí mismo para adoptar acuerdos sobre asuntos nuevos»."
   },
   {
     "id": "burgos-ii11-deep-04",
     "pregunta": "Si una sesión plenaria no alcanza el quórum en primera convocatoria, el ROF prevé que quede convocada automáticamente:",
     "opciones": [
-      "A la misma hora dos días después",
       "A la misma hora al día siguiente",
       "Quince días después, sin nueva convocatoria",
-      "Una hora después, con cualquier número de asistentes"
+      "Una hora después, con cualquier número de asistentes",
+      "A la misma hora dos días después"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · 5. Constitución y quórum",
     "tema": 20,
-    "explicacion": "El artículo 90.2 ROF fija la segunda convocatoria automática a la misma hora dos días después; si tampoco hay quórum, se deja sin efecto la convocatoria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «A la misma hora dos días después». El distractor «A la misma hora al día siguiente» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 90.2 ROF fija la segunda convocatoria automática a la misma hora dos días después; si tampoco hay quórum, se deja sin efecto la convocatoria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «A la misma hora dos días después»."
   },
   {
     "id": "burgos-ii11-deep-05",
@@ -347,49 +347,49 @@
     "correcta": 0,
     "referencia": "II.11 · 5. Constitución y quórum",
     "tema": 20,
-    "explicacion": "El quórum ordinario del Pleno es un tercio del número legal, con un mínimo de tres, y debe mantenerse durante toda la sesión. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Un tercio del número legal de miembros, nunca inferior a tres». El distractor «La mitad de los miembros presentes, sin mínimo» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El quórum ordinario del Pleno es un tercio del número legal, con un mínimo de tres, y debe mantenerse durante toda la sesión. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Un tercio del número legal de miembros, nunca inferior a tres»."
   },
   {
     "id": "burgos-ii11-deep-06",
     "pregunta": "Las sesiones del Pleno son públicas, pero el debate y la votación pueden ser secretos cuando:",
     "opciones": [
-      "El asunto afecte al honor, la intimidad o la propia imagen y se acuerde por mayoría absoluta",
       "Lo solicite verbalmente cualquier persona del público",
+      "El asunto afecte al honor, la intimidad o la propia imagen y se acuerde por mayoría absoluta",
       "La Presidencia lo decida sin votación en cualquier expediente",
       "Se trate siempre de una contratación pública"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 5.1 Publicidad y unidad del acto",
     "tema": 20,
-    "explicacion": "El artículo 88 ROF permite el secreto por mayoría absoluta cuando estén afectados los derechos del artículo 18.1 de la Constitución. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «El asunto afecte al honor, la intimidad o la propia imagen y se acuerde por…». El distractor «Lo solicite verbalmente cualquier persona del público» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 88 ROF permite el secreto por mayoría absoluta cuando estén afectados los derechos del artículo 18.1 de la Constitución. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «El asunto afecte al honor, la intimidad o la propia imagen y se acuerde por…»."
   },
   {
     "id": "burgos-ii11-deep-07",
     "pregunta": "La mayoría absoluta de un órgano colegiado local se calcula atendiendo a:",
     "opciones": [
-      "Más de la mitad del número legal de miembros",
       "Más votos a favor que en contra entre los asistentes",
       "La mitad de los miembros que hayan votado",
+      "Más de la mitad del número legal de miembros",
       "Dos tercios de los miembros presentes en todo caso"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 6.1 Mayorías",
     "tema": 20,
-    "explicacion": "La mayoría absoluta se refiere al número legal de miembros; la comparación entre votos a favor y en contra de los presentes define la mayoría simple. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Más de la mitad del número legal de miembros». El distractor «Más votos a favor que en contra entre…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La mayoría absoluta se refiere al número legal de miembros; la comparación entre votos a favor y en contra de los presentes define la mayoría simple. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Más de la mitad del número legal de miembros»."
   },
   {
     "id": "burgos-ii11-deep-08",
     "pregunta": "En el Pleno, la votación nominal requiere:",
     "opciones": [
-      "Solicitud de un grupo municipal y aprobación por mayoría simple en votación ordinaria",
       "Solicitud individual de cualquier ciudadano y unanimidad",
       "Siempre una decisión unilateral de la Secretaría",
-      "Mayoría absoluta en votación secreta"
+      "Mayoría absoluta en votación secreta",
+      "Solicitud de un grupo municipal y aprobación por mayoría simple en votación ordinaria"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · 6.2 Clases de votación",
     "tema": 20,
-    "explicacion": "El artículo 102 ROF exige que la solicite un grupo municipal y que el Pleno la apruebe por mayoría simple en votación ordinaria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Solicitud de un grupo municipal y aprobación por mayoría simple en votación ordinaria». El distractor «Solicitud individual de cualquier ciudadano y unanimidad» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 102 ROF exige que la solicite un grupo municipal y que el Pleno la apruebe por mayoría simple en votación ordinaria. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Solicitud de un grupo municipal y aprobación por mayoría simple en votación ordinaria»."
   },
   {
     "id": "burgos-ii11-deep-09",
@@ -403,48 +403,48 @@
     "correcta": 0,
     "referencia": "II.11 · 6.2 Clases de votación",
     "tema": 20,
-    "explicacion": "El artículo 102.3 ROF reserva la votación secreta a la elección o destitución de personas. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «La elección o destitución de personas». El distractor «Cualquier asunto si lo pide un concejal» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 102.3 ROF reserva la votación secreta a la elección o destitución de personas. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «La elección o destitución de personas»."
   },
   {
     "id": "burgos-ii11-deep-10",
     "pregunta": "Si se produce empate en una votación plenaria, el procedimiento correcto es:",
     "opciones": [
-      "Repetir la votación y, si persiste, decidir mediante el voto de calidad del Presidente",
       "Dar por aprobada la propuesta por abstención de la Presidencia",
+      "Repetir la votación y, si persiste, decidir mediante el voto de calidad del Presidente",
       "Aplicar directamente la mayoría absoluta",
       "Remitir siempre el asunto a la Comisión Especial de Cuentas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.11 · 6.1 Mayorías",
     "tema": 20,
-    "explicacion": "El ROF prevé una segunda votación y, si continúa el empate, el voto de calidad de la Presidencia. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Repetir la votación y, si persiste, decidir mediante el voto de calidad del Presidente». El distractor «Dar por aprobada la propuesta por abstención de…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El ROF prevé una segunda votación y, si continúa el empate, el voto de calidad de la Presidencia. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Repetir la votación y, si persiste, decidir mediante el voto de calidad del Presidente»."
   },
   {
     "id": "burgos-ii11-deep-11",
     "pregunta": "Al aprobar el acta de la sesión anterior, las observaciones pueden servir para:",
     "opciones": [
-      "Corregir errores materiales o de hecho, pero no modificar el fondo de los acuerdos",
       "Reabrir cualquier votación ya celebrada",
       "Cambiar la mayoría con la que se adoptó el acuerdo",
+      "Corregir errores materiales o de hecho, pero no modificar el fondo de los acuerdos",
       "Sustituir el expediente administrativo completo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.11 · 7. Actas y certificaciones",
     "tema": 20,
-    "explicacion": "El artículo 91.1 ROF limita las rectificaciones del acta a errores materiales o de hecho y prohíbe modificar el fondo de los acuerdos. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Corregir errores materiales o de hecho, pero no modificar el fondo de los acuerdos». El distractor «Reabrir cualquier votación ya celebrada» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "El artículo 91.1 ROF limita las rectificaciones del acta a errores materiales o de hecho y prohíbe modificar el fondo de los acuerdos. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «Corregir errores materiales o de hecho, pero no modificar el fondo de los acuerdos»."
   },
   {
     "id": "burgos-ii11-deep-12",
     "pregunta": "La certificación de un acuerdo del Pleno debe expedirla:",
     "opciones": [
-      "La Secretaría, con el visto bueno de la Presidencia del Pleno",
       "La Intervención, con el visto bueno de cualquier concejal",
       "El portavoz del grupo mayoritario sin intervención de Secretaría",
-      "El público asistente al finalizar la sesión"
+      "El público asistente al finalizar la sesión",
+      "La Secretaría, con el visto bueno de la Presidencia del Pleno"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.11 · 7. Actas y certificaciones",
     "tema": 20,
-    "explicacion": "La Secretaría expide las certificaciones de actos y acuerdos y necesitan el visto bueno de la Presidencia del Pleno. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «La Secretaría, con el visto bueno de la Presidencia del Pleno». El distractor «La Intervención, con el visto bueno de cualquier…» no responde al presupuesto concreto del enunciado: mezcla una regla, condición o consecuencia distinta."
+    "explicacion": "La Secretaría expide las certificaciones de actos y acuerdos y necesitan el visto bueno de la Presidencia del Pleno. La norma aplicable —el artículo 46 de la Ley 7/1985 y el Reglamento de Organización local— establece «La Secretaría, con el visto bueno de la Presidencia del Pleno»."
   }
 ]

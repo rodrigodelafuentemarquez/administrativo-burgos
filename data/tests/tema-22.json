@@ -91,12 +91,12 @@
     "tema": 22,
     "pregunta": "¿Cuál de estas clases forma parte del personal al servicio de las Administraciones Públicas?",
     "opciones": [
-      "funcionario de carrera, funcionario interino, personal laboral y personal eventual",
       "magistrado, fiscal, notario y registrador",
+      "funcionario de carrera, funcionario interino, personal laboral y personal eventual",
       "alcalde, concejal, diputado y senador",
       "solo funcionario de carrera y personal eventual"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 1.2 Clases de personal al servicio de las Administraciones Públicas",
     "explicacion": "La respuesta correcta es «funcionario de carrera, funcionario interino, personal laboral y personal eventual». El artículo 8 TREBEP clasifica al personal en funcionarios de carrera, funcionarios interinos, personal laboral y personal eventual. El personal directivo profesional no añade una quinta clase legal a esa enumeración."
   },
@@ -105,12 +105,12 @@
     "tema": 22,
     "pregunta": "Según el art. 55 TREBEP, los procedimientos selectivos deben respetar, entre otras, las garantías de:",
     "opciones": [
-      "igualdad, mérito, capacidad y publicidad",
       "libre designación y discrecionalidad política",
       "antigüedad, parentesco y confianza",
+      "igualdad, mérito, capacidad y publicidad",
       "capacidad, opacidad y jerarquía"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 2.1 Principios de acceso (art. 55 TREBEP)",
     "explicacion": "La respuesta correcta es «igualdad, mérito, capacidad y publicidad». El artículo 55 TREBEP distingue los principios constitucionales de igualdad, mérito y capacidad de las garantías del procedimiento, como publicidad, transparencia e imparcialidad. La publicidad es esencial, pero no se incorpora como cuarto principio constitucional. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -119,12 +119,12 @@
     "tema": 22,
     "pregunta": "Según el art. 61 TREBEP, entre los sistemas de selección se encuentran:",
     "opciones": [
-      "oposición, concurso-oposición y concurso",
       "nombramiento, cese y sustitución",
       "alta, baja y afiliación",
-      "compra, permuta y cesión"
+      "compra, permuta y cesión",
+      "oposición, concurso-oposición y concurso"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 2.2 Sistemas de selección (art. 61 TREBEP)",
     "explicacion": "La respuesta correcta es «oposición, concurso-oposición y concurso». El artículo 61 TREBEP contempla oposición, concurso-oposición y, excepcionalmente, concurso cuando una ley lo autorice. La libre designación y la comisión de servicios son formas de provisión o desempeño de puestos, no sistemas ordinarios de acceso."
   },
@@ -147,12 +147,12 @@
     "tema": 22,
     "pregunta": "Según el art. 14 TREBEP, entre los derechos individuales de los funcionarios figura:",
     "opciones": [
-      "el desempeño efectivo de las funciones o tareas propias de su condición profesional",
       "la potestad de dictar normas",
+      "el desempeño efectivo de las funciones o tareas propias de su condición profesional",
       "la aprobación de presupuestos",
       "la potestad sancionadora"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 3.1 Derechos individuales (art. 14 TREBEP)",
     "explicacion": "El artículo 14 TREBEP reconoce el derecho individual al desempeño efectivo de las funciones propias de la condición profesional y a progresar en la carrera. No significa que se pueda elegir cualquier tarea o dictar normas: las funciones se asignan según el puesto, la organización y el marco legal. La opción correcta identifica una prestación efectiva del trabajo funcionarial."
   },
@@ -161,12 +161,12 @@
     "tema": 22,
     "pregunta": "Según los arts. 48-50 TREBEP, las vacaciones anuales retribuidas de los funcionarios son de:",
     "opciones": [
-      "22 días hábiles",
       "30 días naturales",
       "15 días naturales",
+      "22 días hábiles",
       "40 días hábiles"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 3.3 Permisos y vacaciones (arts. 48-50 TREBEP)",
     "explicacion": "La respuesta correcta es «22 días hábiles». El artículo 50 TREBEP reconoce veintidós días hábiles de vacaciones anuales retribuidas, sin contar sábados, y permite que la normativa aplicable establezca días adicionales por antigüedad. No deben confundirse con los treinta días naturales de vacaciones del régimen laboral. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -175,12 +175,12 @@
     "tema": 22,
     "pregunta": "¿Cuál de los siguientes aparece como principio ético del art. 52 TREBEP?",
     "opciones": [
-      "objetividad",
       "impunidad",
       "arbitrariedad",
-      "parcialidad"
+      "parcialidad",
+      "objetividad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 4.1 Principios éticos (art. 52 TREBEP)",
     "explicacion": "La respuesta correcta es «objetividad». El código de conducta del TREBEP exige actuar con objetividad, integridad, neutralidad e imparcialidad y servir al interés general. La arbitrariedad o el favoritismo son incompatibles con esos deberes, aunque el puesto implique discrecionalidad técnica."
   },
@@ -203,12 +203,12 @@
     "tema": 22,
     "pregunta": "Según el art. 97 TREBEP, la prescripción de las faltas muy graves es de:",
     "opciones": [
-      "3 años",
       "6 meses",
+      "3 años",
       "1 año",
       "5 años"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 8.4 Prescripción de infracciones y sanciones (art. 97 TREBEP)",
     "explicacion": "La respuesta correcta es «3 años». El régimen disciplinario del TREBEP tipifica las faltas y fija plazos distintos de prescripción para infracciones y sanciones. La calificación y el plazo dependen de su gravedad; no se pueden intercambiar los términos ni imponer dos sanciones por los mismos hechos con identidad de sujeto y fundamento. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -217,12 +217,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, el principio non bis in idem en el régimen disciplinario significa que:",
     "opciones": [
-      "no puede sancionarse dos veces por los mismos hechos, salvo supuestos admitidos por el ordenamiento",
       "toda falta disciplinaria debe sancionarse con suspensión de funciones",
       "solo pueden sancionarse las infracciones tipificadas como muy graves",
+      "no puede sancionarse dos veces por los mismos hechos, salvo supuestos admitidos por el ordenamiento",
       "la Administración debe ejecutar de oficio todas las sanciones sin procedimiento previo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 8.1 Fundamento y principios",
     "explicacion": "La respuesta correcta es «no puede sancionarse dos veces por los mismos hechos, salvo supuestos admitidos por el ordenamiento». El régimen disciplinario del TREBEP tipifica las faltas y fija plazos distintos de prescripción para infracciones y sanciones. La calificación y el plazo dependen de su gravedad; no se pueden intercambiar los términos ni imponer dos sanciones por los mismos hechos con identidad de sujeto y fundamento. La alternativa confunde situaciones administrativas con requisitos y efectos diferentes, en particular sobre puesto, retribución y reserva."
   },
@@ -231,12 +231,12 @@
     "tema": 22,
     "pregunta": "El régimen jurídico del personal funcionario local se apoya principalmente en:",
     "opciones": [
-      "TREBEP, LRBRL, TRRL, legislación autonómica y reglamentos locales",
       "solo el Código Civil y el Código Penal",
       "únicamente la Ley de Contratos del Sector Público",
-      "solo la Constitución y el RGPD"
+      "solo la Constitución y el RGPD",
+      "TREBEP, LRBRL, TRRL, legislación autonómica y reglamentos locales"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 1.1 Marco normativo",
     "explicacion": "El régimen local se construye con normas estatales básicas y especiales, como TREBEP y LRBRL, el TRRL en lo vigente, la legislación autonómica aplicable y la potestad organizativa local. El Código Civil, el RGPD o la contratación pública pueden afectar aspectos concretos, pero no sustituyen el estatuto funcionarial. La respuesta reúne el marco principal sin reducirlo a una sola ley."
   },
@@ -259,12 +259,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, los FAHN incluyen las subescalas de:",
     "opciones": [
-      "Secretaría, Intervención-Tesorería y Secretaría-Intervención",
       "Jefatura, Inspección y Archivo",
+      "Secretaría, Intervención-Tesorería y Secretaría-Intervención",
       "Técnica, Auxiliar y Subalterna",
       "Administración, Gestión y Servicios"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 1.3 Funcionarios de Administración local con habilitación de carácter nacional (FAHN)",
     "explicacion": "La respuesta correcta es «Secretaría, Intervención-Tesorería y Secretaría-Intervención». El personal local se rige por TREBEP junto con la legislación de régimen local y la normativa autonómica aplicable. Las funciones reservadas a funcionarios y las subescalas de habilitación nacional obedecen a reglas específicas; no se deducen solo del nombre del puesto."
   },
@@ -273,12 +273,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, el subgrupo C1 exige como titulación de ingreso:",
     "opciones": [
-      "Bachiller o Técnico",
       "Grado universitario",
       "Doctorado",
+      "Bachiller o Técnico",
       "ESO sin más requisitos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 1.4 Clasificación profesional: grupos y subgrupos",
     "explicacion": "La respuesta correcta es «Bachiller o Técnico». El artículo 76 TREBEP ordena los cuerpos y escalas en A1, A2, B, C1 y C2; para C1 exige Bachiller o Técnico. Las categorías A, B, C y D pertenecen a clasificaciones anteriores y no reflejan la estructura vigente."
   },
@@ -287,12 +287,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, el acceso al empleo público local se rige por:",
     "opciones": [
-      "igualdad, mérito, capacidad y publicidad",
       "confianza política y libre designación",
       "antigüedad y parentesco",
-      "oportunidad y discrecionalidad"
+      "oportunidad y discrecionalidad",
+      "igualdad, mérito, capacidad y publicidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 2.1 Principios rectores de la selección",
     "explicacion": "La respuesta correcta es «igualdad, mérito, capacidad y publicidad». El artículo 55 TREBEP distingue los principios constitucionales de igualdad, mérito y capacidad de las garantías del procedimiento, como publicidad, transparencia e imparcialidad. La publicidad es esencial, pero no se incorpora como cuarto principio constitucional. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -315,12 +315,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, una vez aprobada la OEP, la convocatoria del proceso selectivo debe realizarse en el plazo máximo de:",
     "opciones": [
-      "tres años",
       "seis meses",
+      "tres años",
       "un año improrrogable",
       "cinco años"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 2.2 Oferta de Empleo Público (OEP)",
     "explicacion": "La respuesta correcta es «tres años». El artículo 55 TREBEP distingue los principios constitucionales de igualdad, mérito y capacidad de las garantías del procedimiento, como publicidad, transparencia e imparcialidad. La publicidad es esencial, pero no se incorpora como cuarto principio constitucional. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -329,28 +329,28 @@
     "tema": 22,
     "pregunta": "En empleo público local, el sistema de concurso-oposición combina:",
     "opciones": [
-      "una fase de concurso y una fase de oposición",
       "solo valoración de méritos",
       "solo ejercicios prácticos",
+      "una fase de concurso y una fase de oposición",
       "una entrevista y un sorteo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 2.3 Sistemas de selección",
     "explicacion": "El concurso-oposición tiene dos fases: ejercicios de aptitud y valoración de méritos, conforme a la convocatoria y a los límites legales. El concurso valora méritos, mientras que la oposición comprueba conocimientos o capacidades mediante pruebas. Por eso ni una entrevista aislada ni la valoración exclusiva de antigüedad describen el sistema mixto."
   },
   {
     "id": "t28-p009",
     "tema": 22,
-    "pregunta": "En empleo público local, el órgano de selección debe estar integrado por:",
+    "pregunta": "Según el artículo 60 TREBEP, ¿qué regla se aplica a los órganos de selección?",
     "opciones": [
-      "funcionarios de carrera con titulación igual o superior a la exigida",
-      "cualquier persona designada por el alcalde",
-      "solo personal laboral fijo",
-      "exclusivamente miembros del Pleno"
+      "Los designa libremente la Alcaldía sin más requisitos",
+      "Deben integrarse exclusivamente por personal laboral fijo",
+      "Pueden actuar en representación de sindicatos o partidos políticos",
+      "Son colegiados y sus miembros actúan a título individual; no pueden integrarlos cargos políticos, funcionarios interinos ni personal eventual"
     ],
-    "correcta": 0,
-    "referencia": "III.1 · 2.4 El órgano de selección",
-    "explicacion": "La respuesta correcta es «funcionarios de carrera con titulación igual o superior a la exigida». El acceso debe respetar igualdad, mérito, capacidad y publicidad, con tribunales profesionales e imparciales. La OEP planifica plazas dotadas y la convocatoria abre el proceso; no son lo mismo que la provisión de un puesto para alguien que ya es funcionario."
+    "correcta": 3,
+    "referencia": "III.1 · TREBEP, art. 60",
+    "explicacion": "Los órganos de selección son colegiados, sus miembros actúan a título individual y deben ser imparciales y profesionales. El artículo 60.2 TREBEP excluye al personal de elección o designación política, a los funcionarios interinos y al personal eventual. El precepto básico no impone como regla general que todos sus miembros sean funcionarios de carrera ni una titulación igual o superior; pueden existir requisitos específicos en la normativa aplicable."
   },
   {
     "id": "t28-p010",
@@ -371,12 +371,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, los sistemas ordinarios de provisión de puestos son:",
     "opciones": [
-      "el concurso y la libre designación con convocatoria pública",
       "la subasta",
+      "el concurso y la libre designación con convocatoria pública",
       "la permuta",
       "la libre elección de destino sin procedimiento"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 3.2 Sistemas ordinarios de provisión",
     "explicacion": "La respuesta correcta es «el concurso y la libre designación con convocatoria pública». El acceso debe respetar igualdad, mérito, capacidad y publicidad, con tribunales profesionales e imparciales. La OEP planifica plazas dotadas y la convocatoria abre el proceso; no son lo mismo que la provisión de un puesto para alguien que ya es funcionario."
   },
@@ -385,12 +385,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, la promoción interna vertical, consiste en:",
     "opciones": [
-      "el acceso a un subgrupo o grupo superior",
       "el cambio de área sin cambio de puesto",
       "la movilidad entre municipios por traslado",
+      "el acceso a un subgrupo o grupo superior",
       "la comisión de servicios temporal"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 4.2 Clases de promoción interna",
     "explicacion": "La respuesta correcta es «el acceso a un subgrupo o grupo superior». La carrera permite progresar profesionalmente y la promoción interna da acceso a otro cuerpo, escala o subgrupo conforme a los requisitos y pruebas aplicables. No es un ascenso automático por antigüedad; la permanencia mínima y el reconocimiento de grado se rigen por reglas específicas."
   },
@@ -399,12 +399,12 @@
     "tema": 22,
     "pregunta": "Para la promoción interna vertical se exige, entre otros requisitos, una antigüedad mínima de:",
     "opciones": [
-      "dos años",
       "seis meses",
       "cinco años",
-      "diez años"
+      "diez años",
+      "dos años"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 4.3 Requisitos para la promoción interna vertical",
     "explicacion": "El TREBEP exige, para la promoción interna, al menos dos años de servicio activo en el subgrupo inferior o grupo de clasificación profesional, además de superar las pruebas y reunir la titulación y los restantes requisitos. No basta con cinco o diez años de antigüedad: el plazo legal general es dos y la promoción no es automática."
   },
@@ -427,12 +427,12 @@
     "tema": 22,
     "pregunta": "Según el artículo 2.1 de la Ley 7/2005, de Función Pública de Castilla y León, su ámbito general de aplicación comprende:",
     "opciones": [
-      "Todo el personal de la Administración General de Castilla y León y sus organismos autónomos retribuido con cargo a sus presupuestos",
       "Solo los funcionarios de carrera de la Junta",
+      "Todo el personal de la Administración General de Castilla y León y sus organismos autónomos retribuido con cargo a sus presupuestos",
       "Todo el personal de cualquier entidad local de Castilla y León, sin matices",
       "Exclusivamente el personal laboral de la Administración autonómica"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 1.2 Objeto y ámbito subjetivo",
     "explicacion": "El artículo 2.1 de la Ley 7/2005 comprende al personal de la Administración General de Castilla y León y sus organismos autónomos que perciba sus retribuciones con cargo a sus presupuestos. La ley también tiene aplicaciones específicas a otros colectivos y solo alcanza a funcionarios locales en los supuestos que disponga la legislación de régimen local. Por eso la opción precisa el ámbito general sin extenderlo automáticamente a todos los ayuntamientos."
   },
@@ -442,11 +442,11 @@
     "pregunta": "En empleo público local, los funcionarios interinos pueden ser nombrados por:",
     "opciones": [
       "Libre designación",
-      "Razones expresamente justificadas de necesidad y urgencia",
       "Sorteo",
+      "Razones expresamente justificadas de necesidad y urgencia",
       "Antigüedad automática"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "III.1 · 2.2 Funcionarios interinos",
     "explicacion": "La respuesta correcta es «Razones expresamente justificadas de necesidad y urgencia». El artículo 10 TREBEP exige necesidad y urgencia justificadas y limita el programa temporal a tres años, ampliables hasta doce meses por ley de desarrollo; ese límite no se aplica igual a la sustitución transitoria ni al exceso de tareas. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -498,27 +498,27 @@
     "pregunta": "Según el artículo 61 del TREBEP, ¿qué sistema selectivo comprueba aptitudes mediante uno o varios ejercicios o pruebas?",
     "opciones": [
       "Concurso",
-      "Oposición",
       "Libre designación",
-      "Comisión de servicios"
+      "Comisión de servicios",
+      "Oposición"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "III.1 · 4.4.1 Oposición",
     "explicacion": "La oposición consiste en uno o varios ejercicios o pruebas para determinar la capacidad y aptitud de las personas aspirantes. La ley distingue este sistema del concurso-oposición, que añade valoración de méritos, y del concurso, que valora méritos con carácter excepcional cuando una ley lo autorice. La pregunta se formula ahora como definición legal para evitar la valoración subjetiva de qué sistema «mejor» garantiza los principios."
   },
   {
     "id": "t46-p007",
     "tema": 22,
-    "pregunta": "En empleo público local, el concurso-oposición combina:",
+    "pregunta": "En un proceso selectivo de concurso-oposición, ¿qué límite establece el artículo 61.3 TREBEP sobre sus fases?",
     "opciones": [
-      "Solo méritos",
-      "Pruebas de aptitud y valoración de méritos",
-      "Solo entrevista personal",
-      "Nombramiento libre y cese libre"
+      "Ninguna de las fases puede determinar por sí sola el resultado del proceso selectivo",
+      "La fase de concurso debe ser siempre eliminatoria",
+      "La fase de oposición debe consistir obligatoriamente en un único ejercicio",
+      "La valoración de méritos debe preceder necesariamente a todas las pruebas"
     ],
-    "correcta": 1,
-    "referencia": "III.1 · 4.4.2 Concurso-oposición",
-    "explicacion": "El concurso-oposición combina ejercicios para comprobar aptitudes con una fase de concurso que valora méritos conforme a las bases. No es solo una entrevista ni una selección libre; los méritos tampoco sustituyen a las pruebas de oposición. La puntuación y el peso de cada fase deben ajustarse a la convocatoria y a los límites del TREBEP."
+    "correcta": 0,
+    "referencia": "TREBEP · art. 61.3",
+    "explicacion": "El concurso-oposición combina las pruebas de capacidad con la valoración de méritos. El artículo 61.3 TREBEP exige que la puntuación de una fase no determine por sí sola el resultado del proceso."
   },
   {
     "id": "t46-p008",
@@ -540,11 +540,11 @@
     "pregunta": "En empleo público local, el concurso de méritos es el sistema ordinario de:",
     "opciones": [
       "Acceso",
-      "Provisión de puestos",
       "Suspensión de funciones",
+      "Provisión de puestos",
       "Negociación colectiva"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "III.1 · 5.2.1 Concurso de méritos",
     "explicacion": "La respuesta correcta es «Provisión de puestos». La provisión cubre un puesto concreto por personal que ya reúne la condición y requisitos, normalmente mediante concurso o libre designación con convocatoria pública. No equivale al acceso inicial; las adscripciones y comisiones tienen carácter temporal según el supuesto."
   },
@@ -554,11 +554,11 @@
     "pregunta": "En empleo público local, la comisión de servicios tiene carácter:",
     "opciones": [
       "Definitivo",
-      "Temporal",
       "Sancionador",
-      "Económico"
+      "Económico",
+      "Temporal"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "III.1 · 5.2.4 Comisión de servicios",
     "explicacion": "La respuesta correcta es «Temporal». La provisión cubre un puesto concreto por personal que ya reúne la condición y requisitos, normalmente mediante concurso o libre designación con convocatoria pública. No equivale al acceso inicial; las adscripciones y comisiones tienen carácter temporal según el supuesto."
   },
@@ -567,12 +567,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, el grado personal se consolida, por desempeñar un puesto de un determinado nivel durante:",
     "opciones": [
-      "Un año",
       "Dos años consecutivos o tres con interrupción",
+      "Un año",
       "Cinco años sin interrupción",
       "Seis meses"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "III.1 · 6.2 El grado personal",
     "explicacion": "La respuesta correcta es «Dos años consecutivos o tres con interrupción». La carrera permite progresar profesionalmente y la promoción interna da acceso a otro cuerpo, escala o subgrupo conforme a los requisitos y pruebas aplicables. No es un ascenso automático por antigüedad; la permanencia mínima y el reconocimiento de grado se rigen por reglas específicas. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -596,11 +596,11 @@
     "pregunta": "En empleo público local, las faltas muy graves se sancionan, entre otras, con:",
     "opciones": [
       "Apercibimiento",
-      "Separación del servicio",
       "Suspensión de un día",
+      "Separación del servicio",
       "Reprensión verbal"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "III.1 · 9.3 Sanciones",
     "explicacion": "La respuesta correcta es «Separación del servicio». El régimen disciplinario del TREBEP tipifica las faltas y fija plazos distintos de prescripción para infracciones y sanciones. La calificación y el plazo dependen de su gravedad; no se pueden intercambiar los términos ni imponer dos sanciones por los mismos hechos con identidad de sujeto y fundamento."
   },
@@ -623,40 +623,40 @@
     "tema": 22,
     "pregunta": "En empleo público local, la convocatoria de los procesos selectivos derivados de la OEP debe producirse en el plazo máximo de:",
     "opciones": [
-      "tres años",
       "un año",
       "seis meses",
-      "cinco años"
+      "cinco años",
+      "tres años"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 4.2 La Oferta de Empleo Público (OEP)",
     "explicacion": "La respuesta correcta es «tres años». El acceso debe respetar igualdad, mérito, capacidad y publicidad, con tribunales profesionales e imparciales. La OEP planifica plazas dotadas y la convocatoria abre el proceso; no son lo mismo que la provisión de un puesto para alguien que ya es funcionario. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
   {
     "id": "t46-p018",
     "tema": 22,
-    "pregunta": "Los miembros de los órganos de selección deben ser funcionarios de carrera del grupo o subgrupo:",
+    "pregunta": "Conforme al artículo 47.2 de la Ley 7/2005 de Función Pública de Castilla y León, para los órganos de selección de su ámbito, cada miembro debe pertenecer a un Cuerpo o Escala para cuyo ingreso se exija una titulación:",
     "opciones": [
-      "igual o superior al de las plazas convocadas",
-      "inferior al de las plazas convocadas",
-      "distinto en todo caso al de las plazas convocadas",
-      "elegido libremente por los aspirantes"
+      "igual o superior a la exigida a las personas candidatas",
+      "inferior a la exigida a las personas candidatas",
+      "sin relación con la exigida a las personas candidatas",
+      "elegida por las propias personas aspirantes"
     ],
     "correcta": 0,
-    "referencia": "III.1 · 4.5 Los órganos de selección",
-    "explicacion": "El artículo 60 TREBEP exige que los órganos de selección sean colegiados y que sus miembros actúen con imparcialidad y profesionalidad. En los términos de la normativa aplicable, deben tener titulación igual o superior y pertenecer al mismo grupo o subgrupo que las plazas convocadas. Un nivel inferior no satisface esa garantía de idoneidad técnica."
+    "referencia": "Ley 7/2005 de Castilla y León, art. 47.2 (personal de la Administración autonómica)",
+    "explicacion": "El artículo 47.2 de la Ley 7/2005 exige que los miembros pertenezcan a un Cuerpo o Escala para cuyo ingreso se requiera titulación igual o superior a la exigida a las personas aspirantes. Esta regla corresponde a la selección de personal sometido a esa ley autonómica; no debe trasladarse sin más a las entidades locales, cuyo marco básico es el TREBEP y la normativa local aplicable."
   },
   {
     "id": "t46-p019",
     "tema": 22,
     "pregunta": "En empleo público local, la adscripción provisional se caracteriza por:",
     "opciones": [
-      "cubrir temporalmente un puesto mientras se tramita el procedimiento ordinario de provisión o en situaciones de urgencia",
       "ser un sistema definitivo reservado a altos cargos",
+      "cubrir temporalmente un puesto mientras se tramita el procedimiento ordinario de provisión o en situaciones de urgencia",
       "exigir siempre la pérdida del puesto de origen",
       "no obligar al funcionario a participar en concursos posteriores"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.1 · 5.2.3 Adscripción provisional",
     "explicacion": "La respuesta correcta es «cubrir temporalmente un puesto mientras se tramita el procedimiento ordinario de provisión o en situaciones de urgencia». La provisión cubre un puesto concreto por personal que ya reúne la condición y requisitos, normalmente mediante concurso o libre designación con convocatoria pública. No equivale al acceso inicial; las adscripciones y comisiones tienen carácter temporal según el supuesto."
   },
@@ -665,12 +665,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, la libre designación permite:",
     "opciones": [
-      "nombrar y cesar libremente a funcionarios en puestos de especial responsabilidad o confianza expresamente previstos en la RPT",
       "cubrir cualquier puesto funcionarial sin necesidad de RPT",
       "acceder por primera vez a la condición de funcionario de carrera",
+      "nombrar y cesar libremente a funcionarios en puestos de especial responsabilidad o confianza expresamente previstos en la RPT",
       "evitar toda publicidad de las convocatorias"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 5.2.2 Libre designación",
     "explicacion": "La respuesta correcta es «nombrar y cesar libremente a funcionarios en puestos de especial responsabilidad o confianza expresamente previstos en la RPT». La provisión cubre un puesto concreto por personal que ya reúne la condición y requisitos, normalmente mediante concurso o libre designación con convocatoria pública. No equivale al acceso inicial; las adscripciones y comisiones tienen carácter temporal según el supuesto."
   },
@@ -679,12 +679,12 @@
     "tema": 22,
     "pregunta": "Según el artículo 20.2 de la Ley 7/2005, de Función Pública de Castilla y León, la Oferta de Empleo Público de la Administración autonómica se publica:",
     "opciones": [
-      "Exclusivamente en el BOCYL",
       "Exclusivamente en el BOE",
       "El BOCYL y el BOE",
-      "El BOCYL y el Diario Oficial de la Unión Europea"
+      "El BOCYL y el Diario Oficial de la Unión Europea",
+      "Exclusivamente en el BOCYL"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 4.2 La Oferta de Empleo Público (OEP)",
     "explicacion": "La Ley 7/2005, artículo 20.2, ordena publicar la oferta en el Boletín Oficial de Castilla y León (BOCYL). El Boletín Oficial del Estado no figura como segunda publicación obligatoria de la oferta autonómica; la publicación de convocatorias concretas puede seguir reglas distintas. Por eso no debe confundirse la publicidad de la OEP con la de cada proceso selectivo."
   },
@@ -721,12 +721,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, los sistemas selectivos del empleo público en Castilla y León son:",
     "opciones": [
-      "Oposición, concurso-oposición y concurso",
       "Unicamente oposición y libre designación",
       "Solo concurso de meritos y comisión de servicios",
+      "Oposición, concurso-oposición y concurso",
       "Oposición, adscripción provisional y promoción interna"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.1 · 4.4 Sistemas selectivos",
     "explicacion": "La respuesta correcta es «Oposición, concurso-oposición y concurso». El artículo 61 TREBEP contempla oposición, concurso-oposición y, excepcionalmente, concurso cuando una ley lo autorice. La libre designación y la comisión de servicios son formas de provisión o desempeño de puestos, no sistemas ordinarios de acceso. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -735,12 +735,12 @@
     "tema": 22,
     "pregunta": "En empleo público local, dentro del código de conducta de los empleados públicos es un principio ético:",
     "opciones": [
-      "Actuar con objetividad, integridad, neutralidad e imparcialidad",
       "Aceptar tratos de favor cuando no generen perjuicio económico",
       "Desobedecer instrucciones por mera discrepancia técnica",
-      "Sustituir la publicidad por la confidencialidad como regla general"
+      "Sustituir la publicidad por la confidencialidad como regla general",
+      "Actuar con objetividad, integridad, neutralidad e imparcialidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.1 · 8.2 Deberes",
     "explicacion": "La respuesta correcta es «Actuar con objetividad, integridad, neutralidad e imparcialidad». El código de conducta del TREBEP exige actuar con objetividad, integridad, neutralidad e imparcialidad y servir al interés general. La arbitrariedad o el favoritismo son incompatibles con esos deberes, aunque el puesto implique discrecionalidad técnica."
   },
@@ -775,30 +775,30 @@
   {
     "id": "t46-p032",
     "tema": 22,
-    "pregunta": "De acuerdo con el TREBEP, la condición de funcionario de carrera se adquiere, además de por la superación del proceso selectivo, por:",
+    "pregunta": "Según el artículo 75 TREBEP, los cuerpos y escalas de funcionarios agrupan puestos con:",
     "opciones": [
-      "La toma de posesión dentro del plazo señalado",
-      "La presentación del certificado de antecedentes penales",
-      "La superación obligatoria de un reconocimiento médico excluyente en todo caso",
-      "Ningun requisito adicional"
+      "la misma Administración de destino, aunque sus funciones sean diferentes",
+      "competencias, capacidades y conocimientos comunes acreditados mediante un proceso selectivo",
+      "una antigüedad mínima común, con independencia de la función",
+      "un sistema de provisión y retribución idéntico para todos los puestos"
     ],
-    "correcta": 0,
-    "referencia": "III.1 · 2.1 Funcionarios de carrera",
-    "explicacion": "La respuesta correcta es «La toma de posesión dentro del plazo señalado». El artículo 55 TREBEP distingue los principios constitucionales de igualdad, mérito y capacidad de las garantías del procedimiento, como publicidad, transparencia e imparcialidad. La publicidad es esencial, pero no se incorpora como cuarto principio constitucional."
+    "correcta": 1,
+    "referencia": "TREBEP · art. 75.1",
+    "explicacion": "El artículo 75.1 permite agrupar al personal funcionario en cuerpos, escalas y especialidades que incorporan competencias, capacidades y conocimientos comunes acreditados mediante un proceso selectivo."
   },
   {
     "id": "t46-p033",
     "tema": 22,
-    "pregunta": "Conforme al TREBEP, se podrá nombrar personal funcionario interino cuando concurra, entre otras, la siguiente circunstancia:",
+    "pregunta": "Por exceso o acumulación de tareas, el nombramiento de personal funcionario interino puede durar como máximo:",
     "opciones": [
-      "El exceso o acumulación de tareas por plazo máximo de doce meses dentro de un período de dieciocho meses",
-      "La sustitución transitoria de los titulares durante el tiempo estrictamente necesario",
-      "La cobertura de plazas vacantes por un máximo de cuatro años cuando no sea posible su cobertura por funcionarios de carrera",
-      "La ejecución de programas temporales con duración máxima de dos años ampliable a doce meses más"
+      "Doce meses dentro de un período de dieciocho meses",
+      "Tres años, prorrogables por otros tres",
+      "El tiempo que determine libremente el órgano nominador",
+      "Nueve meses dentro de un período de dieciocho meses"
     ],
-    "correcta": 1,
-    "referencia": "III.1 · 2.2 Funcionarios interinos",
-    "explicacion": "La respuesta correcta es «La sustitución transitoria de los titulares durante el tiempo estrictamente necesario». El artículo 10 TREBEP exige necesidad y urgencia justificadas y limita el programa temporal a tres años, ampliables hasta doce meses por ley de desarrollo; ese límite no se aplica igual a la sustitución transitoria ni al exceso de tareas. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
+    "correcta": 3,
+    "referencia": "TREBEP · art. 10.1.d",
+    "explicacion": "El artículo 10.1.d TREBEP fija nueve meses como máximo dentro de un período de dieciocho para este supuesto. No debe confundirse con el límite distinto de los programas temporales."
   },
   {
     "id": "estado2026-extra-t22-01",
@@ -887,12 +887,12 @@
     "tema": 22,
     "pregunta": "Conforme al art. 52 TREBEP, el código de conducta de los empleados públicos está configurado por:",
     "opciones": [
-      "Principios éticos y principios de conducta",
       "Solo incompatibilidades económicas",
+      "Principios éticos y principios de conducta",
       "Únicamente deberes penales",
       "Reglas de protocolo institucional sin efectos jurídicos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Revisión test reales · art. 52 TREBEP",
     "explicacion": "La respuesta correcta es «Principios éticos y principios de conducta». El código de conducta del TREBEP exige actuar con objetividad, integridad, neutralidad e imparcialidad y servir al interés general. La arbitrariedad o el favoritismo son incompatibles con esos deberes, aunque el puesto implique discrecionalidad técnica."
   },
@@ -901,12 +901,12 @@
     "tema": 22,
     "pregunta": "En empleo público, indique cuál de las siguientes afirmaciones se ajusta mejor al art. 10 TREBEP sobre funcionarios interinos:",
     "opciones": [
-      "Son nombrados por razones expresamente justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera",
       "Pueden ser nombrados libremente para cualquier función directiva sin límite causal",
       "Solo pueden existir en la Administración General del Estado",
+      "Son nombrados por razones expresamente justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera",
       "Tienen la condición de funcionarios de carrera desde el nombramiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Revisión test reales · art. 10 TREBEP",
     "explicacion": "La respuesta correcta es «Son nombrados por razones expresamente justificadas de necesidad y urgencia para funciones propias de funcionarios de carrera». El artículo 10 TREBEP exige necesidad y urgencia justificadas y limita el programa temporal a tres años, ampliables hasta doce meses por ley de desarrollo; ese límite no se aplica igual a la sustitución transitoria ni al exceso de tareas."
   },
@@ -915,12 +915,12 @@
     "tema": 22,
     "pregunta": "¿Qué diferencia describe correctamente la relación entre plantilla, RPT y OEP en una entidad local?",
     "opciones": [
-      "La plantilla recoge plazas dotadas, la RPT ordena puestos concretos y la OEP anuncia necesidades que se cubrirán mediante incorporación de nuevo personal",
       "La plantilla anuncia convocatorias, la RPT aprueba el presupuesto y la OEP describe las funciones de cada puesto",
       "La plantilla y la RPT son sinónimos y la OEP solo se refiere al personal laboral",
-      "La RPT contiene únicamente las personas que han superado el proceso selectivo"
+      "La RPT contiene únicamente las personas que han superado el proceso selectivo",
+      "La plantilla recoge plazas dotadas, la RPT ordena puestos concretos y la OEP anuncia necesidades que se cubrirán mediante incorporación de nuevo personal"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema III.1, ordenación de recursos humanos",
     "explicacion": "La respuesta correcta es «La plantilla recoge plazas dotadas, la RPT ordena puestos concretos y la…». El acceso debe respetar igualdad, mérito, capacidad y publicidad, con tribunales profesionales e imparciales. La OEP planifica plazas dotadas y la convocatoria abre el proceso; no son lo mismo que la provisión de un puesto para alguien que ya es funcionario."
   },
@@ -943,12 +943,12 @@
     "tema": 22,
     "pregunta": "En el artículo 55 TREBEP, ¿qué opción distingue correctamente principios constitucionales y garantías del proceso selectivo?",
     "opciones": [
-      "Igualdad, mérito y capacidad son los principios constitucionales; la publicidad es una garantía del procedimiento selectivo",
       "Publicidad, antigüedad y confianza son los tres principios constitucionales de acceso",
+      "Igualdad, mérito y capacidad son los principios constitucionales; la publicidad es una garantía del procedimiento selectivo",
       "La libre designación y la discrecionalidad política son principios constitucionales de todo acceso",
       "La antigüedad sustituye al mérito en el acceso libre"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema III.1, arts. 55.1 y 55.2 TREBEP",
     "explicacion": "La respuesta correcta es «Igualdad, mérito y capacidad son los principios constitucionales; la publicidad es una garantía del procedimiento selectivo». El artículo 55 TREBEP distingue los principios constitucionales de igualdad, mérito y capacidad de las garantías del procedimiento, como publicidad, transparencia e imparcialidad. La publicidad es esencial, pero no se incorpora como cuarto principio constitucional."
   },
@@ -957,12 +957,12 @@
     "tema": 22,
     "pregunta": "¿Cuál es la diferencia principal entre acceso y provisión de puestos?",
     "opciones": [
-      "El acceso permite adquirir la condición de empleado público; la provisión cubre un puesto concreto por quien ya reúne la condición exigida",
       "El acceso siempre se realiza por libre designación y la provisión siempre por oposición",
       "La provisión crea plazas presupuestarias y el acceso aprueba la RPT",
+      "El acceso permite adquirir la condición de empleado público; la provisión cubre un puesto concreto por quien ya reúne la condición exigida",
       "No existe diferencia jurídica entre ambos conceptos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema III.1, acceso y provisión",
     "explicacion": "La respuesta correcta es «El acceso permite adquirir la condición de empleado público; la provisión cubre un puesto concreto por quien ya reúne la condición exigida». La provisión cubre un puesto concreto por personal que ya reúne la condición y requisitos, normalmente mediante concurso o libre designación con convocatoria pública. No equivale al acceso inicial; las adscripciones y comisiones tienen carácter temporal según el supuesto. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -971,12 +971,12 @@
     "tema": 22,
     "pregunta": "¿Cuál es la regla general sobre los sistemas ordinarios de provisión de puestos de funcionarios?",
     "opciones": [
-      "Concurso y libre designación con convocatoria pública",
       "Oposición y concurso-oposición exclusivamente",
       "Nombramiento eventual y contratación temporal",
-      "Sorteo y antigüedad sin convocatoria"
+      "Sorteo y antigüedad sin convocatoria",
+      "Concurso y libre designación con convocatoria pública"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema III.1, art. 78 TREBEP",
     "explicacion": "La respuesta correcta es «Concurso y libre designación con convocatoria pública». El acceso debe respetar igualdad, mérito, capacidad y publicidad, con tribunales profesionales e imparciales. La OEP planifica plazas dotadas y la convocatoria abre el proceso; no son lo mismo que la provisión de un puesto para alguien que ya es funcionario. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -999,12 +999,12 @@
     "tema": 22,
     "pregunta": "¿Cuál de los siguientes es un derecho individual ejercido colectivamente por los empleados públicos?",
     "opciones": [
-      "La libertad sindical",
       "La inamovilidad en la condición de funcionario de carrera",
+      "La libertad sindical",
       "El desempeño efectivo de las funciones",
       "La percepción de retribuciones"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema III.1, derechos del empleado público",
     "explicacion": "La libertad sindical es un derecho individual de ejercicio colectivo reconocido en el artículo 15 TREBEP y desarrollado por la LOLS. Comprende fundar sindicatos, afiliarse libremente o no hacerlo y ejercer actividad sindical. No equivale a elegir un puesto sin concurso ni altera el procedimiento legal de provisión."
   },
@@ -1013,12 +1013,12 @@
     "tema": 22,
     "pregunta": "La inamovilidad reconocida al funcionario de carrera protege principalmente:",
     "opciones": [
-      "La condición de funcionario de carrera, no la permanencia indefinida en un puesto concreto",
       "El derecho a no cambiar nunca de destino aunque exista una provisión legal",
       "Solo el complemento específico del puesto ocupado",
+      "La condición de funcionario de carrera, no la permanencia indefinida en un puesto concreto",
       "La permanencia en el mismo órgano político"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema III.1, derechos individuales",
     "explicacion": "La respuesta correcta es «La condición de funcionario de carrera, no la permanencia indefinida en un puesto concreto». La provisión cubre un puesto concreto por personal que ya reúne la condición y requisitos, normalmente mediante concurso o libre designación con convocatoria pública. No equivale al acceso inicial; las adscripciones y comisiones tienen carácter temporal según el supuesto."
   },
@@ -1027,12 +1027,12 @@
     "tema": 22,
     "pregunta": "¿Cuál de estas afirmaciones sobre el código de conducta del TREBEP es correcta?",
     "opciones": [
-      "Integra principios éticos y principios de conducta, como objetividad, integridad, confidencialidad y trato respetuoso",
       "Solo contiene reglas protocolarias sin relevancia jurídica",
       "Autoriza a aceptar regalos si no se documentan en el expediente",
-      "Permite resolver asuntos en los que exista interés personal si se actúa con rapidez"
+      "Permite resolver asuntos en los que exista interés personal si se actúa con rapidez",
+      "Integra principios éticos y principios de conducta, como objetividad, integridad, confidencialidad y trato respetuoso"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema III.1, arts. 52 a 54 TREBEP",
     "explicacion": "La respuesta correcta es «Integra principios éticos y principios de conducta, como objetividad, integridad, confidencialidad y trato respetuoso». El código de conducta del TREBEP exige actuar con objetividad, integridad, neutralidad e imparcialidad y servir al interés general. La arbitrariedad o el favoritismo son incompatibles con esos deberes, aunque el puesto implique discrecionalidad técnica."
   },
@@ -1055,12 +1055,12 @@
     "tema": 22,
     "pregunta": "La promoción interna vertical consiste en:",
     "opciones": [
-      "Acceder a un cuerpo o escala de un subgrupo superior desde otro cuerpo o escala, superando el proceso selectivo y cumpliendo los requisitos",
       "Obtener un puesto distinto mediante comisión de servicios sin proceso selectivo",
+      "Acceder a un cuerpo o escala de un subgrupo superior desde otro cuerpo o escala, superando el proceso selectivo y cumpliendo los requisitos",
       "Cambiar de puesto dentro de la misma RPT por decisión del superior",
       "Convertir automáticamente un nombramiento interino en funcionario de carrera"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema III.1, art. 18 TREBEP",
     "explicacion": "La respuesta correcta es «Acceder a un cuerpo o escala de un subgrupo superior desde otro cuerpo o escala, superando el proceso selectivo y cumpliendo los requisitos». El artículo 10 TREBEP exige necesidad y urgencia justificadas y limita el programa temporal a tres años, ampliables hasta doce meses por ley de desarrollo; ese límite no se aplica igual a la sustitución transitoria ni al exceso de tareas. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -1069,12 +1069,12 @@
     "tema": 22,
     "pregunta": "¿Qué funciones están reservadas a funcionarios de Administración Local con habilitación de carácter nacional?",
     "opciones": [
-      "La fe pública y el asesoramiento legal preceptivo, y el control interno, contabilidad, tesorería y recaudación en los términos legales",
       "Todas las funciones de atención al público y mantenimiento de edificios",
       "Únicamente la gestión de personal laboral",
+      "La fe pública y el asesoramiento legal preceptivo, y el control interno, contabilidad, tesorería y recaudación en los términos legales",
       "Solo la dirección política de la entidad local"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema III.1, art. 92 bis LRBRL y Real Decreto 128/2018",
     "explicacion": "La respuesta correcta es «La fe pública y el asesoramiento legal preceptivo, y el control interno, contabilidad, tesorería y recaudación en los términos legales». El personal local se rige por TREBEP junto con la legislación de régimen local y la normativa autonómica aplicable. Las funciones reservadas a funcionarios y las subescalas de habilitación nacional obedecen a reglas específicas; no se deducen solo del nombre del puesto."
   }

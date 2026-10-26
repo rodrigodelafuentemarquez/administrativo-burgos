@@ -25,7 +25,7 @@ Su régimen es mixto. El orden correcto para estudiarlo es:
 
 ## 2. Concepto, clases y funciones reservadas
 
-El artículo 8.2.c TREBEP clasifica el personal laboral, según la duración del contrato, en **fijo, por tiempo indefinido o temporal**. En el lenguaje habitual se distingue así:
+El artículo 8.2.c TREBEP clasifica el personal laboral, según la duración del contrato, en **fijo, por tiempo indefinido o temporal**. La figura de **indefinido no fijo** no aparece entre esas tres clases: es una construcción jurisprudencial para responder a irregularidades de contratación en el sector público. En el lenguaje habitual se distingue así:
 
 | Figura | Cómo se vincula | Qué debe recordarse |
 |---|---|---|
@@ -45,7 +45,7 @@ El artículo 9.2 TREBEP reserva exclusivamente a los **funcionarios de carrera**
 
 La selección es pública incluso cuando el vínculo posterior sea laboral. El artículo 55 TREBEP exige **igualdad, mérito, capacidad y publicidad**, junto con transparencia, imparcialidad y profesionalidad de los órganos de selección, independencia técnica, adecuación entre pruebas y funciones, agilidad y objetividad.
 
-El artículo 11.3 TREBEP establece que los procedimientos selectivos del personal laboral son públicos y se rigen por igualdad, mérito y capacidad. Para el personal laboral temporal se añade el principio de **celeridad**, pero la urgencia no permite suprimir la publicidad ni transformar una bolsa en una adjudicación libre.
+El artículo 11.3 TREBEP establece que los procedimientos selectivos del personal laboral son públicos y se rigen por igualdad, mérito y capacidad. Para el personal laboral temporal se añade el principio de **celeridad**, pero la urgencia no permite suprimir la publicidad ni transformar una bolsa en una adjudicación libre. El artículo 9.2 reserva a funcionarios de carrera las funciones que impliquen ejercicio de potestades públicas o salvaguardia de intereses generales.
 
 ### 3.1 Secuencia de una selección municipal
 
@@ -147,3 +147,10 @@ El Ayuntamiento necesita cubrir temporalmente una plaza laboral de apoyo en acti
 **Derechos y deberes** → ET + derechos compatibles del TREBEP + convenio + código de conducta.
 
 **Incompatibilidades** → Ley 53/1984 + autorización previa cuando proceda + imparcialidad y ausencia de conflicto.
+
+
+## Fuentes oficiales
+
+- [TREBEP, texto consolidado (BOE)](https://www.boe.es/eli/es/rdlg/2015/10/30/5/con).
+- [Estatuto de los Trabajadores, texto consolidado (BOE)](https://www.boe.es/eli/es/rdlg/2015/10/23/2/con).
+- [Ley 53/1984 de incompatibilidades del personal al servicio de las Administraciones Públicas (BOE)](https://www.boe.es/eli/es/l/1984/12/26/53/con).

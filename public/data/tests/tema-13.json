@@ -154,16 +154,16 @@
   {
     "id": "t16-p019",
     "tema": 13,
-    "pregunta": "De conformidad con el art. 109 LPACAP, las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
+    "pregunta": "¿En qué plazo puede iniciarse de oficio la revisión de un acto nulo de pleno derecho conforme al artículo 106 LPACAP?",
     "opciones": [
-      "En cualquier momento, siempre que tal revocación no constituya dispensa o exención no permitida por las leyes ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
-      "Solo dentro del plazo de un mes desde su notificación",
-      "Unicamente si media autorización judicial previa",
-      "Solo cuando hayan sido impugnados por el interesado en reposición"
+      "Solo dentro de los cuatro años siguientes a la fecha del acto",
+      "En el plazo de un mes desde que se conozca el vicio",
+      "En cualquier momento, por iniciativa propia o a solicitud de una persona interesada, con dictamen favorable del órgano consultivo",
+      "Únicamente durante la tramitación de un recurso de alzada"
     ],
-    "correcta": 0,
-    "referencia": "II.4 · 6.4 Revocación de actos (art. 109 LPACAP)",
-    "explicacion": "El tema recoge esa revocación con los límites legales de igualdad, interés público y respeto al ordenamiento. La revocación de actos desfavorables es posible dentro de límites legales, sin dispensas ilegales ni lesión de igualdad o interés público; no depende de autorización judicial o recurso previo."
+    "correcta": 2,
+    "referencia": "LPACAP · art. 106.1",
+    "explicacion": "La Administración puede declarar de oficio la nulidad en cualquier momento, por iniciativa propia o a solicitud de una persona interesada, previo dictamen favorable del Consejo de Estado u órgano consultivo autonómico equivalente. La revisión queda sujeta a los límites del artículo 110 LPACAP."
   },
   {
     "id": "t17-p001",
@@ -171,11 +171,11 @@
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, un recurso administrativo es:",
     "opciones": [
       "La impugnación ante la jurisdicción contencioso-administrativa de una disposición general",
-      "El cauce de revisión ante la propia Administración de un acto que se considera contrario al ordenamiento",
       "Una petición graciable carente de efectos jurídicos revisores",
-      "Un trámite interno reservado al órgano instructor dentro del procedimiento sancionador"
+      "Un trámite interno reservado al órgano instructor dentro del procedimiento sancionador",
+      "El cauce de revisión ante la propia Administración de un acto que se considera contrario al ordenamiento"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "Ley 39/2015 · recursos administrativos",
     "explicacion": "El recurso administrativo busca la revisión, por la propia Administración, de un acto administrativo que se considera contrario al ordenamiento. El recurso se formula ante la Administración para revisar un acto; la impugnación judicial es otra vía, y una petición graciable no sustituye los recursos regulados por ley."
   },
@@ -199,11 +199,11 @@
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la resolución del recurso no puede:",
     "opciones": [
       "ser congruente",
-      "agravar la situación del recurrente en perjuicio si solo recurre él",
       "pronunciarse sobre todas las cuestiones",
+      "agravar la situación del recurrente en perjuicio si solo recurre él",
       "tramitarse por escrito"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.4 · 2.3 Principio de no reforma en perjuicio",
     "explicacion": "El tema recoge el principio non reformatio in peius. La prohibición de reformatio in peius impide empeorar la situación inicial cuando solo recurre el interesado; la resolución debe ser congruente y puede tratar otras cuestiones previa audiencia. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -213,25 +213,25 @@
     "pregunta": "¿Suspende automáticamente el recurso administrativo la ejecución del acto recurrido?",
     "opciones": [
       "Sí, siempre",
-      "No, solo si se solicita y se concede o se produce silencio positivo en 30 días",
       "Solo en alzada",
-      "Solo en reposición"
+      "Solo en reposición",
+      "No. La suspensión debe acordarse; si se solicita y no se resuelve en un mes, se entiende concedida."
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 2.4 Principio de suspensión",
-    "explicacion": "El tema indica que no hay suspensión automática. El recurso no suspende por sí solo la ejecución; el órgano puede acordarla si concurren daños de difícil reparación o nulidad y pondera los intereses. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
+    "explicacion": "La interposición del recurso no suspende por sí sola la ejecución. La suspensión puede solicitarse y acordarse en los supuestos del artículo 117.2 LPAC; si transcurre un mes desde la entrada de la solicitud en el registro electrónico de la Administración u organismo competente sin resolución expresa, la ejecución se entiende suspendida conforme al artículo 117.3. El plazo legal es de un mes, no de treinta días."
   },
   {
     "id": "t17-p005",
     "tema": 13,
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, pueden recurrirse autónomamente los actos de trámite cualificados cuando:",
     "opciones": [
-      "sean meramente de impulso procesal",
       "produzcan indefensión o perjuicio irreparable",
+      "sean meramente de impulso procesal",
       "los dicte cualquier funcionario",
       "hayan sido notificados en papel"
     ],
-    "correcta": 1,
+    "correcta": 0,
     "referencia": "II.4 · 3.2 Acto recurrible",
     "explicacion": "El tema enumera esos supuestos para admitir el recurso. Un acto de trámite cualificado puede impugnarse separadamente si decide el fondo, impide continuar o causa indefensión o perjuicio irreparable; un acto de impulso ordinario no basta. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -254,12 +254,12 @@
     "tema": 13,
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, el recurso de alzada se resuelve por:",
     "opciones": [
-      "el órgano superior jerárquico del que dictó el acto",
       "el mismo órgano siempre",
+      "el órgano superior jerárquico del que dictó el acto",
       "el Tribunal Constitucional",
       "el Consejo de Ministros en todo caso"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.4 · 4.1 Recurso de alzada",
     "explicacion": "El tema lo atribuye al superior jerárquico. La alzada se resuelve por el órgano superior, salvo reglas de autonomía funcional; el escrito puede presentarse ante el órgano autor, que lo remite con expediente e informe. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -269,11 +269,11 @@
     "pregunta": "¿Cuál es el plazo general de interposición del recurso de reposición si el acto es expreso?",
     "opciones": [
       "10 días",
-      "1 mes",
       "3 meses",
+      "1 mes",
       "6 meses"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.4 · 4.2 Recurso potestativo de reposición",
     "explicacion": "El tema fija un mes para el acto expreso. El plazo para reposición contra acto expreso es un mes; tres meses es el plazo máximo para resolver la alzada, y los demás términos pertenecen a otros recursos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -283,11 +283,11 @@
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, el recurso de reposición es:",
     "opciones": [
       "obligatorio antes del contencioso",
-      "potestativo",
       "inexistente",
-      "solo para actos reglamentarios"
+      "solo para actos reglamentarios",
+      "potestativo"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 4.2 Recurso potestativo de reposición",
     "explicacion": "El tema lo define como recurso potestativo. La reposición es potestativa: puede presentarse ante el mismo órgano o acudirse directamente a la jurisdicción; si se presenta, debe resolverse antes del contencioso. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -324,12 +324,12 @@
     "tema": 13,
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, ¿cuál de las siguientes causas forma parte del recurso extraordinario de revisión?",
     "opciones": [
-      "Error de hecho que resulte de los propios documentos del expediente",
       "Simple desacuerdo político",
       "Cualquier error de interpretación",
+      "Error de hecho que resulte de los propios documentos del expediente",
       "Falta de motivación del recurso"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.4 · 4.3 Recurso extraordinario de revisión",
     "explicacion": "El tema fija esa causa tasada con plazo de 4 años. El error de hecho debe resultar de los documentos del expediente, conforme al artículo 125.1; una discrepancia interpretativa o política no convierte el acto firme en revisable. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -338,14 +338,14 @@
     "tema": 13,
     "pregunta": "Según el artículo 121.2 de la Ley 39/2015, ¿dónde puede interponerse el recurso de alzada?",
     "opciones": [
-      "Ante el órgano que dictó el acto o ante el competente para resolverlo",
       "Solo ante el superior jerárquico",
       "Ante cualquier órgano judicial",
-      "Únicamente por correo dirigido al Consejo de Estado"
+      "Únicamente por correo dirigido al Consejo de Estado",
+      "Ante el órgano que dictó el acto o ante el competente para resolverlo"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 5.1 Interposición",
-    "explicacion": "El artículo 116.1 LPACAP permite remitirlo al órgano competente cuando pertenece a la misma Administración, y se conserva la fecha de entrada a efectos del plazo. El artículo 116.a remite a órgano competente si este pertenece a otra Administración; las reglas de presentación y remisión deben comprobarse, no presumir una conservación de fecha no prevista por la LPAC."
+    "explicacion": "El artículo 121.2 LPAC permite interponer la alzada ante el órgano que dictó el acto o ante el competente para resolverla. Si se presenta ante el órgano autor, este debe remitirla al competente con su informe y copia ordenada del expediente en diez días (art. 121.2). No se exige presentarla exclusivamente ante el superior."
   },
   {
     "id": "t17-p014",
@@ -381,11 +381,11 @@
     "pregunta": "Según el art. 117.1 de la Ley 39/2015, de 1 de octubre, la interposición de cualquier recurso, excepto en los casos en que una disposición establezca lo contrario:",
     "opciones": [
       "Suspendera automáticamente la ejecución del acto impugnado",
-      "No suspendera la ejecución del acto impugnado",
       "Impedira la eficacia del acto durante diez días",
+      "No suspendera la ejecución del acto impugnado",
       "Exigira siempre la adopción de medidas cautelares"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.4 · 2.4 Principio de suspensión",
     "explicacion": "El tema explica que la interposición del recurso no suspende automáticamente la ejecución del acto. El artículo 117 establece que recurrir no suspende el acto, salvo previsión legal; la suspensión requiere acuerdo cautelar o que opere el silencio estimatorio específico."
   },
@@ -395,13 +395,13 @@
     "pregunta": "Si transcurre un mes desde que se solicita la suspensión de la ejecución de un acto recurrido sin resolución expresa, ¿qué sucede?",
     "opciones": [
       "La solicitud se entiende desestimada",
-      "La ejecución se entiende suspendida",
       "El recurso queda archivado",
-      "El acto pasa a ser nulo de pleno derecho"
+      "El acto pasa a ser nulo de pleno derecho",
+      "La ejecución se entiende suspendida"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 2.4 Principio de suspensión",
-    "explicacion": "El tema recoge silencio positivo en materia de suspensión cuando la Administración no resuelve en treinta días. Si no se resuelve la solicitud de suspensión en un mes desde su entrada en el registro competente, la ejecución se entiende suspendida; no se espera un plazo fijo de treinta días."
+    "explicacion": "El artículo 117.3 LPAC establece que, si transcurre un mes desde la entrada de la solicitud de suspensión en el registro electrónico de la Administración u organismo competente sin resolución expresa, la ejecución se entiende suspendida. La ley fija un mes, no treinta días."
   },
   {
     "id": "t17-p018",
@@ -436,12 +436,12 @@
     "tema": 13,
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, ¿qué preceptos constitucionales se citan como fundamento del control judicial de la Administración?",
     "opciones": [
-      "Art. 24 CE y art. 106.1 CE",
       "Art. 137 CE y art. 141 CE",
+      "Art. 24 CE y art. 106.1 CE",
       "Art. 14 CE y art. 15 CE",
       "Art. 82 CE y art. 86 CE"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.4 · 1.1 La Jurisdicción Contencioso-Administrativa",
     "explicacion": "El tema cita ambos preceptos como fundamento constitucional. El artículo 24 CE garantiza tutela judicial efectiva y el 106.1 somete actuación administrativa y potestad reglamentaria al control de los tribunales. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -451,11 +451,11 @@
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la LJCA tiene también carácter:",
     "opciones": [
       "de simple recurso penal",
-      "plenario",
       "constituyente",
-      "arbitrario"
+      "arbitrario",
+      "plenario"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 1.2 Carácter revisor y plenario",
     "explicacion": "El tema explica que hoy puede conocer también de inactividad y vía de hecho. La LJCA es plenaria en el sentido de que puede otorgar tutela completa dentro de sus pretensiones, no limitada a anular el acto; también puede reconocer situaciones o indemnización."
   },
@@ -485,21 +485,21 @@
     ],
     "correcta": 1,
     "referencia": "II.4 · 3.3 El plazo de interposición",
-    "explicacion": "El tema fija 2 meses para actos expresos y 6 meses para actos presuntos. La jurisdicción conoce de pretensiones contra actividad administrativa sujeta al Derecho Administrativo, incluidas disposiciones generales; no convierte toda relación privada o electoral en contencioso. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
+    "explicacion": "La LJCA establece, como regla, dos meses para actos expresos y disposiciones publicados, y seis meses para actos presuntos (art. 46.1). En el silencio desestimatorio debe tenerse en cuenta la interpretación constitucional de la regla y la obligación administrativa de resolver: el plazo no se aplica mecánicamente como si el interesado conociera necesariamente la producción y sentido del silencio."
   },
   {
     "id": "t19-p006",
     "tema": 13,
-    "pregunta": "¿Qué órgano conoce en primera instancia de los actos de las Administraciones locales?",
+    "pregunta": "Conforme a la organización judicial vigente tras la Ley Orgánica 1/2025, ¿qué órgano conoce en primera o única instancia de los recursos contra la mayoría de los actos de las entidades locales?",
     "opciones": [
-      "Juzgados de lo Contencioso-Administrativo",
       "Audiencia Nacional",
       "Tribunal Supremo",
+      "La Sección de lo Contencioso-Administrativo del Tribunal de Instancia competente",
       "Juzgados Centrales de lo Contencioso-Administrativo"
     ],
-    "correcta": 0,
-    "referencia": "II.4 · 4.1 Juzgados de lo Contencioso-Administrativo",
-    "explicacion": "El tema atribuye esa materia a los Juzgados de lo Contencioso-Administrativo. El artículo 46 fija dos meses para actos expresos o disposiciones publicados y seis meses para actos presuntos, según el régimen legal; no son un mes o un año."
+    "correcta": 2,
+    "referencia": "II.4 · 4.2 Órganos de la jurisdicción; LJCA, art. 8; LO 1/2025",
+    "explicacion": "La LJCA atribuye a los antiguos Juzgados de lo Contencioso-Administrativo la competencia sobre la mayoría de los actos locales, con excepciones. Tras la transformación prevista en la Ley Orgánica 1/2025, esa competencia se ejerce en la Sección de lo Contencioso-Administrativo del Tribunal de Instancia correspondiente. Debe comprobarse la competencia objetiva concreta en la LJCA."
   },
   {
     "id": "t19-p007",
@@ -507,11 +507,11 @@
     "pregunta": "¿Qué órgano conoce de recursos contra actos de los Ministros y Secretarios de Estado?",
     "opciones": [
       "Juzgados Centrales de lo Contencioso-Administrativo",
-      "Audiencia Nacional",
       "Tribunales Superiores de Justicia",
-      "Juzgados de lo Penal"
+      "Juzgados de lo Penal",
+      "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional, en los casos que atribuye la LJCA."
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 4.4 Audiencia Nacional — Sala de lo Contencioso-Administrativo",
     "explicacion": "La Sala de lo Contencioso-Administrativo de la Audiencia Nacional conoce en única instancia de los recursos contra disposiciones generales y actos de Ministros y Secretarios de Estado. Los juzgados contencioso-administrativos conocen en primera o única instancia de la mayoría de actos locales conforme al artículo 8 LJCA, con excepciones competenciales expresas."
   },
@@ -534,12 +534,12 @@
     "tema": 13,
     "pregunta": "En recursos, revisión administrativa y jurisdicción contencioso-administrativa, la suspensión de un acto administrativo impugnado es una medida:",
     "opciones": [
-      "cautelar",
       "penal",
+      "cautelar",
       "constituyente",
       "electoral"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "II.4 · 5.2 Medidas cautelares",
     "explicacion": "El tema la presenta como la medida cautelar más habitual. Los TSJ conocen de actos de órganos autonómicos según el reparto de la LJCA; otras actuaciones corresponden a juzgados o Audiencia Nacional, según autor y materia. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -548,12 +548,12 @@
     "tema": 13,
     "pregunta": "La actuación material de la Administración sin cobertura jurídica suficiente o excediendo la cobertura existente constituye:",
     "opciones": [
-      "Una vía de hecho",
       "Un acto presunto estimatorio",
       "Una disposición general",
+      "Una vía de hecho",
       "Una cuestión civil en todo caso"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.4 · 2.1 Lo que conoce la JCA",
     "explicacion": "La LJCA considera vía de hecho la actuación material de la Administración sin cobertura jurídica suficiente o excediendo la que existe. La suspensión es una medida cautelar para evitar que la ejecución haga inútil la sentencia; exige valoración judicial o administrativa de los intereses y no tiene naturaleza penal."
   },
@@ -563,11 +563,11 @@
     "pregunta": "En la jurisdicción contencioso-administrativa, ¿cuál es el plazo para impugnar reglamentos?",
     "opciones": [
       "1 mes",
-      "2 meses desde la publicación",
       "6 meses",
-      "1 año"
+      "1 año",
+      "2 meses desde la publicación"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "II.4 · 3.3 El plazo de interposición",
     "explicacion": "El tema indica 2 meses desde la publicación del reglamento. La vía de hecho es una actuación material sin título jurídico suficiente o más allá de este; no es un acto presunto ni una disposición reglamentaria. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -591,11 +591,11 @@
     "pregunta": "En la jurisdicción contencioso-administrativa, ¿qué materia está excluida de la JCA?",
     "opciones": [
       "La responsabilidad patrimonial",
-      "Los actos del Tribunal Constitucional",
       "Los reglamentos de la AGE",
+      "Los actos del Tribunal Constitucional",
       "La vía de hecho"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.4 · 2.2 Materias excluidas",
     "explicacion": "El tema excluye los actos del Tribunal Constitucional. Las sentencias firmes deben cumplirse en sus propios términos por las partes y la Administración; la ejecución no queda a voluntad exclusiva del órgano jurisdiccional que las dictó. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -618,12 +618,12 @@
     "tema": 13,
     "pregunta": "La JCA tiene carácter plenario porque puede condenar a la Administración a:",
     "opciones": [
-      "anular un acto y también a hacer algo o indemnizar",
       "solo a suspender actos",
       "únicamente a pagar costas",
-      "únicamente a dictar reglamentos"
+      "únicamente a dictar reglamentos",
+      "anular un acto y también a hacer algo o indemnizar"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.4 · 1.2 Carácter revisor y plenario",
     "explicacion": "El tema explica esa ampliación funcional de la jurisdicción. La casación contencioso-administrativa corresponde al Tribunal Supremo o, en los casos legalmente previstos, a la Sala competente de un TSJ; no al Consejo de Ministros. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -694,12 +694,12 @@
     "tema": 13,
     "pregunta": "De acuerdo con el art. 109 LPACAP, las Administraciones Públicas podrán revocar sus actos de gravamen o desfavorables:",
     "opciones": [
-      "Siempre que la revocación no constituya dispensa no permitida por las leyes ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
       "Solo si previamente los declara lesivos para el interés público",
       "Únicamente dentro del plazo de diez días desde la notificación",
+      "Siempre que la revocación no constituya dispensa no permitida por las leyes ni sea contraria al principio de igualdad, al interés público o al ordenamiento jurídico",
       "Aunque la revocación sea contraria al ordenamiento, si favorece al interesado"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Revisión test reales · art. 109 LPACAP",
     "explicacion": "La revocación de actos desfavorables tiene límites materiales expresos. El artículo 46 LJCA establece dos meses desde el día siguiente a la publicación de una disposición general; los seis meses se refieren a actos presuntos. Las demás opciones describen supuestos distintos y no cumplen el criterio legal preguntado."
   },
@@ -725,12 +725,12 @@
     "tema": 13,
     "pregunta": "La revisión de oficio de un acto nulo exige, con carácter general:",
     "opciones": [
-      "Dictamen preceptivo y favorable del Consejo de Estado u órgano consultivo equivalente",
       "Autorización previa del Tribunal Supremo",
       "Declaración de lesividad y posterior recurso de alzada",
-      "Informe vinculante del Defensor del Pueblo"
+      "Informe vinculante del Defensor del Pueblo",
+      "Dictamen preceptivo y favorable del Consejo de Estado u órgano consultivo equivalente"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "II.4 · revisión de oficio · art. 106 LPACAP",
     "explicacion": "El artículo 106 LPACAP exige dictamen favorable del órgano consultivo para declarar la nulidad de pleno derecho. El artículo 106 permite inadmitir motivadamente si no se invoca causa de nulidad, la solicitud carece manifiestamente de fundamento o ya se desestimaron solicitudes sustancialmente iguales."
   },
@@ -755,10 +755,10 @@
     "opciones": [
       "Un año desde la notificación",
       "Dos años desde la publicación",
-      "Cuatro años desde que se notificó el acto",
-      "Seis meses desde la resolución judicial"
+      "Seis meses desde la resolución judicial",
+      "Cuatro años desde que se notificó el acto"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "II.4 · 4. Lesividad · art. 107 LPACAP",
     "explicacion": "El artículo 107 LPACAP fija cuatro años desde que se notificó el acto para declarar su lesividad. La Administración solo puede declarar lesividad dentro de cuatro años desde que dictó el acto favorable, según artículo 107; seis meses es el plazo máximo del procedimiento."
   },
@@ -810,11 +810,11 @@
     "pregunta": "La rectificación del artículo 109.2 LPACAP permite:",
     "opciones": [
       "Reconsiderar libremente la interpretación jurídica aplicada",
-      "Corregir en cualquier momento errores materiales, de hecho o aritméticos",
       "Revocar cualquier acto favorable sin límite",
+      "Corregir en cualquier momento errores materiales, de hecho o aritméticos",
       "Sustituir el recurso de reposición"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "II.4 · 5.2 Rectificación · art. 109 LPACAP",
     "explicacion": "La rectificación es una corrección puntual de errores manifiestos y no permite modificar el fondo jurídico del acto. La rectificación corrige errores materiales, de hecho o aritméticos en cualquier momento, no permite cambiar el criterio jurídico ni revocar actos favorables libremente."
   },
@@ -839,10 +839,10 @@
     "opciones": [
       "Diez días desde su publicación",
       "Un mes desde su publicación",
-      "Dos meses desde el día siguiente a su publicación",
-      "Seis meses desde su entrada en vigor"
+      "Seis meses desde su entrada en vigor",
+      "Dos meses desde el día siguiente a su publicación"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "II.4 · 9.3 Plazos básicos · art. 46 LJCA",
     "explicacion": "El artículo 46 LJCA fija dos meses para impugnar directamente una disposición general, contados desde el día siguiente a su publicación. La impugnación directa de una norma general se presenta en dos meses desde el día siguiente a su publicación; no se cuenta desde la entrada en vigor si esta es posterior."
   },
@@ -863,28 +863,28 @@
   {
     "id": "burgos-ii04-deep-11",
     "tema": 13,
-    "pregunta": "Si se solicita la suspensión de la ejecución de un acto recurrido y transcurre un mes sin resolución expresa:",
+    "pregunta": "¿Qué circunstancias permiten acordar la suspensión de la ejecución de un acto recurrido conforme al artículo 117.2 LPACAP?",
     "opciones": [
-      "La suspensión se entiende concedida",
-      "La suspensión se entiende denegada",
-      "El recurso se convierte en extraordinario",
-      "El acto queda anulado"
+      "Que la ejecución pueda causar perjuicios de imposible o difícil reparación, o que la impugnación se funde en una causa de nulidad de pleno derecho",
+      "Que la persona recurrente discrepe de la motivación del acto, aunque no alegue ningún perjuicio",
+      "Que el acto sea firme en vía administrativa y hayan transcurrido tres meses",
+      "Que el órgano revisor considere conveniente aplazar el procedimiento sin ponderar intereses"
     ],
     "correcta": 0,
-    "referencia": "II.4 · 6. Reglas comunes · art. 117 LPACAP",
-    "explicacion": "El artículo 117.3 LPACAP establece la suspensión cautelar por silencio positivo al transcurrir un mes desde la solicitud sin resolución expresa. El artículo 117.3 establece un mes desde la entrada de la solicitud en el registro competente; si no se notifica decisión expresa, la ejecución queda suspendida."
+    "referencia": "LPACAP · art. 117.2",
+    "explicacion": "El órgano puede suspender la ejecución, previa ponderación suficientemente razonada, si ejecutarlo puede causar perjuicios de imposible o difícil reparación o si la impugnación se fundamenta en una causa de nulidad del artículo 47.1 LPACAP. Recurrir no produce por sí solo la suspensión."
   },
   {
     "id": "burgos-ii04-deep-12",
     "tema": 13,
     "pregunta": "La vía de hecho consiste en:",
     "opciones": [
-      "Una actuación material de la Administración sin cobertura jurídica suficiente o excediendo la existente",
       "Una resolución presunta estimatoria",
       "Una disposición general aprobada por el Pleno",
+      "Una actuación material de la Administración sin cobertura jurídica suficiente o excediendo la existente",
       "Un recurso administrativo contra un acto firme"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "II.4 · 9.1 Actuaciones impugnables · art. 30 LJCA",
     "explicacion": "La LJCA permite controlar la actuación material administrativa carente de cobertura jurídica o que se excede de ella. La vía de hecho es una actuación material que carece de cobertura o excede la existente; puede impugnarse ante lo contencioso con plazos específicos del artículo 46.3 LJCA."
   }

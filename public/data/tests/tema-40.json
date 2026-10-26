@@ -14,7 +14,7 @@
       "Pregunta real",
       "Burgos 2024 estabilización"
     ],
-    "explicacion": "La respuesta correcta es «Alt + F4». Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos. La alternativa «Ctrl + S» no satisface ese criterio; aquí se aplica «Alt + F4». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «Alt + F4». Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos."
   },
   {
     "id": "pdf-2023-burgos-q14",
@@ -32,7 +32,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Interfaz de usuario». Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware. La alternativa «Virus» no satisface ese criterio; aquí se aplica «Interfaz de usuario»."
+    "explicacion": "La respuesta correcta es «Interfaz de usuario». Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware."
   },
   {
     "id": "pdf-2023-burgos-q19",
@@ -50,77 +50,77 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «Un modelo de abuso informático caracterizado por intentar…». La seguridad requiere verificar mensajes, limitar permisos y aplicar controles; ninguna herramienta aislada evita todas las amenazas. La alternativa «Un modelo de previsión de malware a través…» no satisface ese criterio; aquí se aplica «Un modelo de abuso informático caracterizado por intentar…»."
+    "explicacion": "La respuesta correcta es «Un modelo de abuso informático caracterizado por intentar…». La seguridad requiere verificar mensajes, limitar permisos y aplicar controles; ninguna herramienta aislada evita todas las amenazas."
   },
   {
     "id": "t36-p001",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la informática es:",
     "opciones": [
-      "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores",
       "el conjunto de normas de archivo",
       "la gestión de contratos públicos",
-      "el estudio de la legislación laboral"
+      "el estudio de la legislación laboral",
+      "la ciencia que estudia el tratamiento automático y racional de la información mediante el uso de ordenadores"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 1.1 Qué es la informática",
-    "explicacion": "La respuesta correcta es «la ciencia que estudia el tratamiento automático y…». La alternativa «el conjunto de normas de archivo» no satisface ese criterio; aquí se aplica «la ciencia que estudia el tratamiento automático y…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La informática trata de forma automática y racional la información mediante sistemas de cómputo. El término abarca datos, programas y procesos, no solo ordenadores físicos."
   },
   {
     "id": "t36-p002",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, una característica fundamental del ordenador es la:",
+    "pregunta": "La velocidad de reloj de un procesador suele expresarse en:",
     "opciones": [
-      "velocidad",
-      "inalienabilidad",
-      "prescripción",
-      "publicidad"
+      "gigahercios (GHz)",
+      "píxeles por pulgada",
+      "gigabytes (GB)",
+      "bits por segundo (bps)"
     ],
     "correcta": 0,
-    "referencia": "V.9 · 1.1 Qué es la informática",
-    "explicacion": "La respuesta correcta es «velocidad». La alternativa «inalienabilidad» no satisface ese criterio; aquí se aplica «velocidad». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "referencia": "V.9 · 2.3.1 CPU y frecuencia de reloj",
+    "explicacion": "El enunciado es demasiado genérico: la velocidad es una propiedad del procesamiento, pero no distingue por sí sola a un ordenador. La reescribo para preguntar por una magnitud verificable."
   },
   {
     "id": "t36-p003",
     "tema": 40,
     "pregunta": "La arquitectura von Neumann establece que un ordenador debe constar de CPU, memoria, sistema de entrada/salida y:",
     "opciones": [
-      "bus",
       "archivo central",
+      "bus",
       "navegador",
       "monitor táctil obligatorio"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 2.2 La arquitectura von Neumann",
-    "explicacion": "La respuesta correcta es «bus». La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «archivo central» no satisface ese criterio; aquí se aplica «bus». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «bus». La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo."
   },
   {
     "id": "t36-p004",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la CPU es:",
     "opciones": [
-      "el cerebro del ordenador",
       "la unidad de respaldo externo",
       "el sistema de impresión",
+      "el componente que interpreta y ejecuta instrucciones",
       "el programa de correo"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)",
-    "explicacion": "La respuesta correcta es «el cerebro del ordenador». La alternativa «la unidad de respaldo externo» no satisface ese criterio; aquí se aplica «el cerebro del ordenador». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La CPU o procesador interpreta y ejecuta instrucciones y coordina operaciones del sistema. «Cerebro» es una comparación informal, no su definición técnica."
   },
   {
     "id": "t36-p005",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la RAM es una memoria:",
     "opciones": [
-      "volátil",
       "permanente",
       "solo óptica",
-      "inembargable"
+      "inembargable",
+      "volátil"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 2.3.2 La memoria RAM",
-    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «permanente» no satisface ese criterio; aquí se aplica «volátil». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La RAM conserva temporalmente los programas y datos en uso; es volátil y pierde su contenido al apagar el equipo."
   },
   {
     "id": "t36-p006",
@@ -134,49 +134,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 2.3.3 La memoria ROM",
-    "explicacion": "La respuesta correcta es «la BIOS o la UEFI». La alternativa «el navegador web» no satisface ese criterio; aquí se aplica «la BIOS o la UEFI». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "BIOS y UEFI son firmware de inicio almacenado en memoria no volátil de la placa base; UEFI es la interfaz de firmware usada en equipos modernos."
   },
   {
     "id": "t36-p007",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la placa base incorpora el:",
     "opciones": [
-      "chipset",
       "Panel de control",
+      "chipset",
       "Explorador",
       "Sistema de archivos"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 2.3.4 La placa base (motherboard)",
-    "explicacion": "La respuesta correcta es «chipset». La alternativa «Panel de control» no satisface ese criterio; aquí se aplica «chipset». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El chipset coordina la comunicación entre el procesador y diversos componentes de la placa base; la arquitectura concreta varía entre equipos."
   },
   {
     "id": "t36-p008",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la GPU es el componente responsable del:",
     "opciones": [
-      "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
       "almacenamiento masivo de archivos",
       "control tributario",
+      "procesamiento de gráficos y del envío de la señal de vídeo al monitor",
       "cifrado de correos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 2.3.5 La tarjeta gráfica (GPU)",
-    "explicacion": "La respuesta correcta es «procesamiento de gráficos y del envío de la…». La alternativa «almacenamiento masivo de archivos» no satisface ese criterio; aquí se aplica «procesamiento de gráficos y del envío de la…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La GPU procesa gráficos y genera la salida visual. Puede estar integrada en el procesador o ser una tarjeta independiente."
   },
   {
     "id": "t36-p009",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, los periféricos de entrada permiten:",
     "opciones": [
-      "introducir datos o instrucciones en el ordenador",
       "solo mostrar imágenes",
       "únicamente guardar copias",
-      "cambiar el sistema operativo"
+      "cambiar el sistema operativo",
+      "introducir datos o instrucciones en el ordenador"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 2.4.1 Periféricos de entrada",
-    "explicacion": "La respuesta correcta es «introducir datos o instrucciones en el ordenador». La alternativa «solo mostrar imágenes» no satisface ese criterio; aquí se aplica «introducir datos o instrucciones en el ordenador». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Los periféricos de entrada llevan datos o instrucciones hacia el sistema, como el teclado, el ratón o un escáner."
   },
   {
     "id": "t36-p010",
@@ -190,49 +190,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 2.5 Los buses del sistema",
-    "explicacion": "La respuesta correcta es «transporta los datos entre CPU, memoria y periféricos». La alternativa «define los permisos de usuario» no satisface ese criterio; aquí se aplica «transporta los datos entre CPU, memoria y periféricos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El bus de datos transporta información entre procesador, memoria y dispositivos; se distingue de los buses de direcciones y control."
   },
   {
     "id": "t36-p011",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, el software de sistema incluye:",
     "opciones": [
-      "el sistema operativo y los controladores",
       "solo los documentos PDF",
+      "el sistema operativo y los controladores",
       "únicamente el correo electrónico",
       "solo las bases de datos relacionales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 3.2.1 Software de sistema (o software base)",
-    "explicacion": "La respuesta correcta es «el sistema operativo y los controladores». La alternativa «solo los documentos PDF» no satisface ese criterio; aquí se aplica «el sistema operativo y los controladores». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El software de sistema permite operar el equipo e incluye el sistema operativo y controladores de dispositivos."
   },
   {
     "id": "t36-p012",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, el software libre permite:",
     "opciones": [
-      "usar, copiar, distribuir, estudiar y modificar el software",
       "solo usarlo sin copiar",
       "únicamente visualizarlo",
+      "usar, copiar, distribuir, estudiar y modificar el software",
       "instalarlo en un solo equipo sin más"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 3.3 Clasificación del software según su licencia",
-    "explicacion": "La respuesta correcta es «usar, copiar, distribuir, estudiar y modificar el software». La alternativa «solo usarlo sin copiar» no satisface ese criterio; aquí se aplica «usar, copiar, distribuir, estudiar y modificar el software». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Las libertades del software libre abarcan usar, estudiar, modificar y redistribuir el programa conforme a su licencia; no significa necesariamente que sea gratuito."
   },
   {
     "id": "t36-p013",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, un sistema operativo es:",
     "opciones": [
-      "El software básico que gestiona los recursos del hardware y permite la ejecución de programas y aplicaciones",
       "Un dispositivo periférico destinado exclusivamente a la salida de datos",
       "Un archivo comprimido que agrupa documentos de un mismo proyecto",
-      "Una aplicación de navegación por internet instalada por defecto"
+      "Una aplicación de navegación por internet instalada por defecto",
+      "El software básico que gestiona los recursos del hardware y permite la ejecución de programas y aplicaciones"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Informática básica · sistema operativo",
-    "explicacion": "El sistema operativo es el software base que administra los recursos del equipo y posibilita la ejecución de aplicaciones. La alternativa «Un archivo comprimido que agrupa documentos de un…» no satisface ese criterio; aquí se aplica «El software básico que gestiona los recursos del…»."
+    "explicacion": "El sistema operativo administra recursos como memoria, procesador y dispositivos, y ofrece servicios para ejecutar aplicaciones."
   },
   {
     "id": "t36-p014",
@@ -246,49 +246,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · Referencia normativa",
-    "explicacion": "La respuesta correcta es «seguridad informática en el sector público». La alternativa «contabilidad local» no satisface ese criterio; aquí se aplica «seguridad informática en el sector público». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El ENS fija principios y requisitos mínimos de seguridad para los sistemas, información y servicios del sector público."
   },
   {
     "id": "t36-p015",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, los dispositivos IoT son:",
     "opciones": [
-      "objetos cotidianos con capacidad de conexión y procesamiento",
       "solo servidores de alta gama",
+      "objetos cotidianos con capacidad de conexión y procesamiento",
       "únicamente monitores",
       "programas de diseño gráfico"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 1.2 Tipos de ordenadores",
-    "explicacion": "La respuesta correcta es «objetos cotidianos con capacidad de conexión y procesamiento». La alternativa «solo servidores de alta gama» no satisface ese criterio; aquí se aplica «objetos cotidianos con capacidad de conexión y procesamiento». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Los dispositivos IoT incorporan conexión y capacidad de procesamiento para intercambiar datos o prestar funciones a través de redes."
   },
   {
     "id": "t36-p016",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la interfaz gráfica de usuario (GUI) se caracteriza por:",
     "opciones": [
-      "permitir la interacción mediante ventanas, iconos, menús y ratón",
       "exigir exclusivamente el uso de comandos de texto",
       "utilizar solo pantallas monocromas",
+      "permitir la interacción mediante ventanas, iconos, menús y ratón",
       "funcionar únicamente en servidores"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 4.2.1 Por el tipo de interfaz",
-    "explicacion": "La GUI es la interfaz dominante en los sistemas operativos modernos de uso general. La alternativa «exigir exclusivamente el uso de comandos de texto» no satisface ese criterio; aquí se aplica «permitir la interacción mediante ventanas iconos menús y…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Una interfaz gráfica presenta elementos visuales como ventanas, iconos y menús para interactuar con el sistema, normalmente mediante ratón, teclado o pantalla táctil."
   },
   {
     "id": "t36-p017",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, Windows 11 requiere hardware compatible con:",
     "opciones": [
-      "TPM 2.0 y arranque seguro (Secure Boot)",
       "lectora Blu-ray y puerto VGA",
       "arquitectura exclusivamente ARM de 32 bits",
-      "dos tarjetas gráficas dedicadas"
+      "dos tarjetas gráficas dedicadas",
+      "TPM 2.0 y arranque seguro (Secure Boot)"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 4.3.1 Microsoft Windows",
-    "explicacion": "La respuesta correcta es «TPM 2.0 y arranque seguro (Secure Boot)». La alternativa «lectora Blu-ray y puerto VGA» no satisface ese criterio; aquí se aplica «TPM 2.0 y arranque seguro (Secure Boot)». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "TPM 2.0 y capacidad de arranque seguro con firmware UEFI son requisitos mínimos de Windows 11, junto con otros de CPU, memoria y almacenamiento."
   },
   {
     "id": "t36-p018",
@@ -302,35 +302,35 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 4.4 Conceptos clave de los sistemas operativos",
-    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente. La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «duplicar el contenido del disco en la nube» no satisface ese criterio; aquí se aplica «utilizar parte del disco como extensión de la…»."
+    "explicacion": "El sistema operativo usa parte del almacenamiento como extensión de la RAM cuando esta resulta insuficiente. La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo."
   },
   {
     "id": "t36-p019",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, una característica propia de los SSD frente a los HDD es que:",
     "opciones": [
-      "no tienen partes móviles",
       "solo pueden usarse como almacenamiento externo",
+      "no tienen partes móviles",
       "su velocidad siempre es inferior a la de los HDD",
       "se basan en platos magnéticos giratorios"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 5.3 La unidad de estado sólido (SSD)",
-    "explicacion": "Los SSD utilizan memoria flash y carecen de partes mecánicas, lo que mejora resistencia y velocidad. La alternativa «solo pueden usarse como almacenamiento externo» no satisface ese criterio; aquí se aplica «no tienen partes móviles». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Un SSD almacena datos en memoria flash y no tiene platos ni cabezales móviles; un HDD sí usa componentes mecánicos."
   },
   {
     "id": "t36-p020",
     "tema": 40,
     "pregunta": "Dentro de la triada CIA, la disponibilidad significa que:",
     "opciones": [
-      "los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten",
       "solo el administrador puede modificar los datos",
       "toda la información debe almacenarse en la nube",
+      "los sistemas y la información deben estar accesibles para los usuarios autorizados cuando los necesiten",
       "los datos deben permanecer cifrados en cualquier circunstancia"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 6.1 Concepto y objetivos",
-    "explicacion": "La disponibilidad exige acceso cuando sea necesario para los usuarios autorizados, sin interrupciones no planificadas. La alternativa «los datos deben permanecer cifrados en cualquier circunstancia» no satisface ese criterio; aquí se aplica «los sistemas y la información deben estar accesibles…»."
+    "explicacion": "La disponibilidad garantiza que sistemas y datos estén utilizables por personas autorizadas cuando los necesitan; no implica acceso para cualquiera."
   },
   {
     "id": "t36-p021",
@@ -339,12 +339,12 @@
     "opciones": [
       "Conjunto unitario de instrucciones que permite a una computadora realizar funciones diversas",
       "Unidad de información compuesta generalmente de ocho bits",
-      "Unidad funcional que se encarga de la busqueda, interpretación y ejecución de instrucciones",
-      "Dispositivo de memoria de gran capacidad integrado o conectado al equipo"
+      "Dispositivo de memoria de gran capacidad integrado o conectado al equipo",
+      "Unidad funcional que se encarga de la busqueda, interpretación y ejecución de instrucciones"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "V.9 · 2.3.1 La Unidad Central de Procesamiento (CPU o procesador)",
-    "explicacion": "El procesador o CPU interpreta y ejecuta instrucciones, coordinando el funcionamiento del sistema. La alternativa «Conjunto unitario de instrucciones que permite a una…» no satisface ese criterio; aquí se aplica «Unidad funcional que se encarga de la busqueda…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El procesador interpreta y ejecuta instrucciones; sus núcleos realizan operaciones y la unidad de control coordina su ejecución."
   },
   {
     "id": "t36-p022",
@@ -358,7 +358,7 @@
     ],
     "correcta": 2,
     "referencia": "V.9 · 6.5 El antivirus",
-    "explicacion": "La respuesta correcta es «Antivirus». Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware. La alternativa «VPN» no satisface ese criterio; aquí se aplica «Antivirus». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La respuesta correcta es «Antivirus». Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware."
   },
   {
     "id": "t36-p023",
@@ -372,35 +372,35 @@
     ],
     "correcta": 1,
     "referencia": "V.9 · 2.3.2 La memoria RAM",
-    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «Disipador» no satisface ese criterio; aquí se aplica «Memoria RAM». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso. A diferencia del almacenamiento, normalmente pierde su contenido al apagar el equipo."
   },
   {
     "id": "t37-p001",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, Windows 11 es:",
+    "pregunta": "¿Cuál es la capacidad mínima de almacenamiento indicada por Microsoft entre los requisitos de instalación de Windows 11?",
     "opciones": [
-      "la versión de referencia actual del sistema operativo de escritorio de Microsoft",
-      "un navegador web",
-      "una hoja de cálculo",
-      "un sistema de bases de datos"
+      "64 GB",
+      "32 GB",
+      "128 GB",
+      "256 GB"
     ],
     "correcta": 0,
-    "referencia": "V.9 · 1.1 Qué es Windows",
-    "explicacion": "La respuesta correcta es «la versión de referencia actual del sistema operativo…». La alternativa «un sistema de bases de datos» no satisface ese criterio; aquí se aplica «la versión de referencia actual del sistema operativo…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "referencia": "Microsoft Support · Windows 11 System Requirements",
+    "explicacion": "Microsoft indica como mínimo 64 GB de almacenamiento, además de otros requisitos de procesador, memoria, firmware y seguridad. Cumplir los mínimos permite instalar el sistema, pero no garantiza un rendimiento óptimo."
   },
   {
     "id": "t37-p002",
     "tema": 40,
-    "pregunta": "En informática básica y Windows 11, Windows 11 requiere hardware compatible con:",
+    "pregunta": "¿Cuál es la memoria RAM mínima exigida en los requisitos de instalación de Windows 11 publicados por Microsoft?",
     "opciones": [
-      "TPM 2.0 y Secure Boot",
-      "solo Wi-Fi 6",
-      "un monitor táctil",
-      "un disco duro mecánico"
+      "2 GB",
+      "8 GB",
+      "16 GB",
+      "4 GB"
     ],
-    "correcta": 0,
-    "referencia": "V.9 · 1.1 Qué es Windows",
-    "explicacion": "La respuesta correcta es «TPM 2.0 y Secure Boot». La alternativa «solo Wi-Fi 6» no satisface ese criterio; aquí se aplica «TPM 2.0 y Secure Boot». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "correcta": 3,
+    "referencia": "Microsoft Support · Windows 11 System Requirements",
+    "explicacion": "Microsoft fija 4 GB de RAM como requisito mínimo, además de otros requisitos de procesador, almacenamiento, UEFI, arranque seguro y TPM 2.0. Cumplir el mínimo no garantiza un rendimiento óptimo."
   },
   {
     "id": "t37-p003",
@@ -414,49 +414,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 1.2 Versiones de Windows 11",
-    "explicacion": "La respuesta correcta es «Enterprise». La alternativa «Writer» no satisface ese criterio; aquí se aplica «Enterprise». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Enterprise es una edición de Windows 11 destinada principalmente a organizaciones y ofrece funciones de administración y seguridad para ese entorno."
   },
   {
     "id": "t37-p004",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, una novedad de Windows 11 respecto a Windows 10 es:",
     "opciones": [
-      "Snap Layouts",
       "la eliminación total del escritorio",
+      "Snap Layouts",
       "la desaparición de la barra de tareas",
       "el uso exclusivo de comandos de voz"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 1.3 Novedades de Windows 11 respecto a Windows 10",
-    "explicacion": "La respuesta correcta es «Snap Layouts». La alternativa «la eliminación total del escritorio» no satisface ese criterio; aquí se aplica «Snap Layouts». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Snap Layouts permite organizar ventanas en diseños predefinidos; Windows 11 amplió y presentó esta función como herramienta de distribución de ventanas."
   },
   {
     "id": "t37-p005",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la barra de tareas contiene entre otros:",
     "opciones": [
-      "el botón Inicio, iconos anclados y el área de notificación",
       "solo el Explorador de archivos",
       "únicamente el panel de control",
+      "el botón Inicio, iconos anclados y el área de notificación",
       "solo los accesos a Word"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 2.2 La barra de tareas",
-    "explicacion": "La respuesta correcta es «el botón Inicio iconos anclados y el área…». La alternativa «solo el Explorador de archivos» no satisface ese criterio; aquí se aplica «el botón Inicio iconos anclados y el área…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La barra de tareas reúne Inicio, aplicaciones abiertas o ancladas y la bandeja del sistema con indicadores como red, sonido y notificaciones."
   },
   {
     "id": "t37-p006",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, los accesos directos del escritorio se identifican porque:",
     "opciones": [
-      "llevan una pequeña flecha en la esquina inferior izquierda",
       "siempre están en rojo",
       "no pueden abrirse con doble clic",
-      "no tienen icono"
+      "no tienen icono",
+      "llevan una pequeña flecha en la esquina inferior izquierda"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 2.3 Los iconos del escritorio",
-    "explicacion": "La respuesta correcta es «llevan una pequeña flecha en la esquina inferior…». La alternativa «siempre están en rojo» no satisface ese criterio; aquí se aplica «llevan una pequeña flecha en la esquina inferior…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La flecha superpuesta indica que el icono es un acceso directo; eliminarlo normalmente no elimina el archivo o aplicación de destino."
   },
   {
     "id": "t37-p007",
@@ -470,49 +470,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 3.1 Estructura del menú Inicio en Windows 11",
-    "explicacion": "La respuesta correcta es «aplicaciones ancladas y recomendados». La alternativa «solo la papelera» no satisface ese criterio; aquí se aplica «aplicaciones ancladas y recomendados». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El menú Inicio de Windows 11 incluye aplicaciones ancladas y una zona de recomendaciones, además de opciones de búsqueda y energía."
   },
   {
     "id": "t37-p008",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la opción Suspender del menú Inicio:",
     "opciones": [
-      "guarda el estado de la sesión en la RAM y permite arranque rápido",
       "borra todos los documentos",
+      "guarda el estado de la sesión en la RAM y permite arranque rápido",
       "formatea el equipo",
       "desconecta la batería"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 3.2 Opciones de inicio/apagado",
-    "explicacion": "La respuesta correcta es «guarda el estado de la sesión en la…». La alternativa «borra todos los documentos» no satisface ese criterio; aquí se aplica «guarda el estado de la sesión en la…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Suspender mantiene la sesión en memoria para reanudarla rápidamente y consume energía; conviene guardar antes el trabajo no guardado."
   },
   {
     "id": "t37-p009",
     "tema": 40,
     "pregunta": "En Windows 11, ¿qué atajo abre el Explorador de archivos?",
     "opciones": [
-      "Windows + E",
       "Windows + C",
       "Alt + Tab",
+      "Windows + E",
       "F2"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 5. Explorador de Windows 11",
-    "explicacion": "La tecla Windows + E abre el Explorador de archivos; Windows + C no debe tratarse como un atajo estable del programa porque sus funciones pueden cambiar con la versión y la configuración. Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos. La alternativa «Windows + C» no satisface ese criterio; aquí se aplica «Windows + E»."
+    "explicacion": "La tecla Windows + E abre el Explorador de archivos; Windows + C no debe tratarse como un atajo estable del programa porque sus funciones pueden cambiar con la versión y la configuración. Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos."
   },
   {
     "id": "t37-p010",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, un menú contextual aparece al hacer:",
     "opciones": [
-      "clic con el botón derecho del ratón",
       "doble clic izquierdo siempre",
       "solo pulsando la tecla Esc",
-      "arrastrar la ventana"
+      "arrastrar la ventana",
+      "clic con el botón derecho del ratón"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 5.3 Los menús contextuales",
-    "explicacion": "La respuesta correcta es «clic con el botón derecho del ratón». La alternativa «doble clic izquierdo siempre» no satisface ese criterio; aquí se aplica «clic con el botón derecho del ratón». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El menú contextual aparece al activar el botón secundario o el gesto equivalente; sus opciones dependen del elemento seleccionado."
   },
   {
     "id": "t37-p011",
@@ -526,49 +526,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 6.1 Concepto y acceso",
-    "explicacion": "La respuesta correcta es «navegar por la estructura de carpetas y archivos…». La alternativa «redactar documentos de Word» no satisface ese criterio; aquí se aplica «navegar por la estructura de carpetas y archivos…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El Explorador permite localizar y gestionar archivos, carpetas y unidades, además de consultar sus propiedades."
   },
   {
     "id": "t37-p012",
     "tema": 40,
     "pregunta": "En el Explorador de archivos, la vista más informativa es la de:",
     "opciones": [
-      "Detalles",
       "Iconos grandes",
+      "Detalles",
       "Mosaicos",
       "Contenido"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 6.3 Modos de visualización",
-    "explicacion": "La respuesta correcta es «Detalles». La alternativa «Iconos grandes» no satisface ese criterio; aquí se aplica «Detalles». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La vista Detalles muestra atributos como nombre, fecha, tipo y tamaño, por lo que facilita comparar e identificar archivos."
   },
   {
     "id": "t37-p013",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, la Papelera de reciclaje:",
     "opciones": [
-      "almacena temporalmente los archivos eliminados",
       "borra de forma irreversible al instante",
       "solo contiene archivos del sistema",
+      "almacena temporalmente los archivos eliminados",
       "impide recuperar nada"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 2.3 Los iconos del escritorio",
-    "explicacion": "La respuesta correcta es «almacena temporalmente los archivos eliminados». La alternativa «solo contiene archivos del sistema» no satisface ese criterio; aquí se aplica «almacena temporalmente los archivos eliminados». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La Papelera retiene temporalmente elementos eliminados desde ubicaciones compatibles, hasta restaurarlos o eliminarlos definitivamente."
   },
   {
     "id": "t37-p014",
     "tema": 40,
     "pregunta": "En informática básica y Windows 11, el acceso rápido es:",
     "opciones": [
-      "una herramienta para acceder a carpetas y archivos usados con frecuencia",
       "un antivirus",
       "un sistema de copia de seguridad",
-      "una edición de Windows"
+      "una edición de Windows",
+      "una herramienta para acceder a carpetas y archivos usados con frecuencia"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 9.2 Acceso rápido",
-    "explicacion": "La respuesta correcta es «una herramienta para acceder a carpetas y archivos…». La alternativa «una edición de Windows» no satisface ese criterio; aquí se aplica «una herramienta para acceder a carpetas y archivos…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Acceso rápido facilita volver a carpetas frecuentes o recientes; no es una carpeta física distinta ni cambia la ubicación original."
   },
   {
     "id": "t37-p015",
@@ -582,7 +582,7 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 11.1 Administrador de tareas (Task Manager)",
-    "explicacion": "La respuesta correcta es «Administrador de tareas». La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «Papelera de reciclaje» no satisface ese criterio; aquí se aplica «Administrador de tareas»."
+    "explicacion": "La respuesta correcta es «Administrador de tareas». La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo."
   },
   {
     "id": "t37-p016",
@@ -596,35 +596,35 @@
     ],
     "correcta": 1,
     "referencia": "V.9 · 4.2 Funciones de Copilot en Windows",
-    "explicacion": "La respuesta correcta es «Actuar como asistente de inteligencia artificial para responder…». La alternativa «Servir exclusivamente como sistema de almacenamiento en la…» no satisface ese criterio; aquí se aplica «Actuar como asistente de inteligencia artificial para responder…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Copilot es el asistente de IA de Microsoft integrado en determinadas experiencias de Windows; disponibilidad y funciones dependen de versión, región y configuración."
   },
   {
     "id": "t37-p017",
     "tema": 40,
     "pregunta": "¿Cuál de los siguientes grupos de vistas del Explorador de archivos contiene solo modos de visualización válidos según el tema?",
     "opciones": [
-      "Lista, Detalles e Iconos medianos",
       "Iconos muy pequeños, Extendido y Mosaico",
       "Mosaico, Iconos medianos y Extendido",
+      "Lista, Detalles e Iconos medianos",
       "Iconos muy grandes, Contenido e Iconos muy pequeños"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 6.3 Modos de visualización",
-    "explicacion": "La respuesta correcta es «Lista, Detalles e Iconos medianos». La alternativa «Mosaico, Iconos medianos y Extendido» no satisface ese criterio; aquí se aplica «Lista, Detalles e Iconos medianos». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Lista, Detalles e Iconos medianos son modos de presentación del Explorador; cambiar la vista no modifica ni mueve los archivos."
   },
   {
     "id": "burgos-v09-deep-01",
     "tema": 40,
     "pregunta": "¿Cuál es la diferencia esencial entre la memoria RAM y el almacenamiento de un ordenador?",
     "opciones": [
-      "La RAM es normalmente volátil y el almacenamiento conserva la información al apagar el equipo.",
       "La RAM conserva siempre los archivos y el almacenamiento se borra al apagar.",
       "La RAM solo sirve para imprimir y el almacenamiento solo para conectarse a Internet.",
-      "No existe diferencia funcional entre ambos."
+      "No existe diferencia funcional entre ambos.",
+      "La RAM es normalmente volátil y el almacenamiento conserva la información al apagar el equipo."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 2.2. Memoria y almacenamiento",
-    "explicacion": "La RAM contiene temporalmente programas y datos en uso; el SSD, HDD u otro soporte de almacenamiento conserva la información aunque el equipo se apague. La alternativa «La RAM conserva siempre los archivos y el…» no satisface ese criterio; aquí se aplica «La RAM es normalmente volátil y el almacenamiento…»."
+    "explicacion": "La RAM contiene temporalmente programas y datos en uso; el SSD, HDD u otro soporte de almacenamiento conserva la información aunque el equipo se apague."
   },
   {
     "id": "burgos-v09-deep-02",
@@ -638,49 +638,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 3. Software y sistema operativo",
-    "explicacion": "El sistema operativo coordina procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y sirve de base para las aplicaciones. La alternativa «Sustituir físicamente la memoria RAM» no satisface ese criterio; aquí se aplica «Administrar recursos del equipo y permitir la ejecución…»."
+    "explicacion": "El sistema operativo coordina procesador, memoria, archivos, dispositivos, usuarios, procesos, red y seguridad, y sirve de base para las aplicaciones."
   },
   {
     "id": "burgos-v09-deep-03",
     "tema": 40,
     "pregunta": "¿Cuál de los siguientes es un requisito mínimo publicado por Microsoft para instalar Windows 11?",
     "opciones": [
-      "TPM 2.0 y firmware UEFI con capacidad de arranque seguro.",
       "Dos tarjetas gráficas dedicadas obligatorias.",
+      "TPM 2.0 y firmware UEFI con capacidad de arranque seguro.",
       "Una unidad lectora de DVD obligatoria.",
       "Un procesador exclusivamente de 32 bits."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 4.2. Requisitos y estados de energía",
-    "explicacion": "Microsoft exige TPM 2.0 y firmware UEFI con capacidad de arranque seguro, además de procesador, memoria, almacenamiento y gráficos compatibles. La alternativa «Dos tarjetas gráficas dedicadas obligatorias» no satisface ese criterio; aquí se aplica «TPM 2 0 y firmware UEFI con capacidad…»."
+    "explicacion": "Microsoft exige TPM 2.0 y firmware UEFI con capacidad de arranque seguro, además de procesador, memoria, almacenamiento y gráficos compatibles."
   },
   {
     "id": "burgos-v09-deep-04",
     "tema": 40,
     "pregunta": "¿Qué ocurre normalmente al copiar un archivo y pegarlo en otra carpeta?",
     "opciones": [
-      "Se crea otra copia y el original permanece en su ubicación.",
       "El original se elimina siempre.",
       "Se cambia únicamente la extensión del archivo.",
+      "Se crea otra copia y el original permanece en su ubicación.",
       "Se convierte automáticamente en un acceso directo."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 5. Explorador de Windows 11",
-    "explicacion": "Copiar conserva el original y crea una copia en el destino; cortar y pegar es la operación habitual para trasladar un elemento. La alternativa «El original se elimina siempre» no satisface ese criterio; aquí se aplica «Se crea otra copia y el original permanece…»."
+    "explicacion": "Copiar conserva el original y crea una copia en el destino; cortar y pegar es la operación habitual para trasladar un elemento."
   },
   {
     "id": "burgos-v09-deep-05",
     "tema": 40,
     "pregunta": "En el Explorador de archivos, la ruta o barra de direcciones sirve principalmente para:",
     "opciones": [
-      "Mostrar la ubicación en la que se está trabajando.",
       "Indicar la contraseña del usuario.",
       "Cambiar automáticamente la extensión de todos los archivos.",
-      "Eliminar la carpeta seleccionada."
+      "Eliminar la carpeta seleccionada.",
+      "Mostrar la ubicación en la que se está trabajando."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 5. Explorador de Windows 11",
-    "explicacion": "La ruta identifica la ubicación actual, que puede ser una carpeta local, una unidad o una ubicación de red. La alternativa «Indicar la contraseña del usuario» no satisface ese criterio; aquí se aplica «Mostrar la ubicación en la que se está…»."
+    "explicacion": "La ruta identifica la ubicación actual, que puede ser una carpeta local, una unidad o una ubicación de red."
   },
   {
     "id": "burgos-v09-deep-06",
@@ -694,49 +694,49 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 6. Gestión de carpetas y archivos",
-    "explicacion": "El acceso directo facilita el acceso, pero no sustituye al archivo original ni constituye por sí mismo una copia de seguridad. La alternativa «Es una copia completa e independiente del archivo…» no satisface ese criterio; aquí se aplica «Es un enlace que permite abrir el archivo…»."
+    "explicacion": "El acceso directo facilita el acceso, pero no sustituye al archivo original ni constituye por sí mismo una copia de seguridad."
   },
   {
     "id": "burgos-v09-deep-07",
     "tema": 40,
     "pregunta": "¿Qué propiedad se protege cuando se impide que una persona no autorizada consulte un expediente?",
     "opciones": [
-      "Confidencialidad.",
       "Disponibilidad.",
+      "Confidencialidad.",
       "Compresión.",
       "Portabilidad."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 7. Nociones básicas de seguridad informática",
-    "explicacion": "La confidencialidad limita el acceso a personas autorizadas; la integridad protege frente a alteraciones y la disponibilidad frente a interrupciones. La alternativa «Disponibilidad» no satisface ese criterio; aquí se aplica «Confidencialidad». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La confidencialidad limita el acceso a personas autorizadas; la integridad protege frente a alteraciones y la disponibilidad frente a interrupciones."
   },
   {
     "id": "burgos-v09-deep-08",
     "tema": 40,
     "pregunta": "Se recibe un correo que solicita introducir la contraseña en un enlace urgente. ¿Cuál es la respuesta más segura?",
     "opciones": [
-      "No pulsar el enlace, verificar el mensaje por un canal seguro y comunicarlo conforme al protocolo.",
       "Responder con la contraseña para confirmar la identidad.",
       "Reenviarlo a todo el departamento para preguntar si es auténtico.",
+      "No pulsar el enlace, verificar el mensaje por un canal seguro y comunicarlo conforme al protocolo.",
       "Descargar el adjunto antes de decidir."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 7. Nociones básicas de seguridad informática",
-    "explicacion": "Es un patrón de phishing. La urgencia y la solicitud de credenciales no justifican pulsar el enlace; debe verificarse y comunicarse sin difundirlo innecesariamente. La alternativa «Responder con la contraseña para confirmar la identidad» no satisface ese criterio; aquí se aplica «No pulsar el enlace verificar el mensaje por…»."
+    "explicacion": "Es un patrón de phishing. La urgencia y la solicitud de credenciales no justifican pulsar el enlace; debe verificarse y comunicarse sin difundirlo innecesariamente."
   },
   {
     "id": "burgos-v09-deep-09",
     "tema": 40,
     "pregunta": "¿Qué norma regula actualmente el Esquema Nacional de Seguridad?",
     "opciones": [
-      "El Real Decreto 311/2022.",
       "El Real Decreto 3/2010, que continúa siendo la norma vigente.",
       "La Ley de Propiedad Intelectual exclusivamente.",
-      "El Código Penal como única regulación."
+      "El Código Penal como única regulación.",
+      "El Real Decreto 311/2022."
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.9 · 7. Nociones básicas de seguridad informática",
-    "explicacion": "El Real Decreto 311/2022 regula actualmente el ENS y derogó el Real Decreto 3/2010. La alternativa «El Real Decreto 3 2010 que continúa siendo…» no satisface ese criterio; aquí se aplica «El Real Decreto 311/2022». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El Real Decreto 311/2022 regula actualmente el ENS y derogó el Real Decreto 3/2010."
   },
   {
     "id": "burgos-v09-deep-10",
@@ -750,35 +750,35 @@
     ],
     "correcta": 0,
     "referencia": "V.9 · 4.3. Atajos frecuentes",
-    "explicacion": "Alt + Tabulador cambia entre las ventanas abiertas; Windows + E abre el Explorador y F2 cambia el nombre del elemento seleccionado. Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos. La alternativa «F2» no satisface ese criterio; aquí se aplica «Alt + Tabulador»."
+    "explicacion": "Alt + Tabulador cambia entre las ventanas abiertas; Windows + E abre el Explorador y F2 cambia el nombre del elemento seleccionado. Los atajos ejecutan acciones distintas; Alt+F4 cierra la ventana activa, mientras Windows+E abre el Explorador de archivos."
   },
   {
     "id": "burgos-v09-deep-11",
     "tema": 40,
     "pregunta": "¿Qué diferencia existe entre eliminar un archivo y enviarlo a la Papelera de reciclaje?",
     "opciones": [
-      "La Papelera puede permitir su restauración; algunas eliminaciones son definitivas o no pasan por ella.",
       "Son siempre operaciones idénticas e irreversibles.",
+      "La Papelera puede permitir su restauración; algunas eliminaciones son definitivas o no pasan por ella.",
       "La Papelera convierte el archivo en una copia de seguridad.",
       "Eliminar solo cambia el nombre y nunca la ubicación."
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.9 · 5. Explorador de Windows 11",
-    "explicacion": "La Papelera es un almacenamiento temporal para determinadas eliminaciones, pero no interviene en todas y no equivale a un archivo ni a una copia de seguridad. La alternativa «Son siempre operaciones idénticas e irreversibles» no satisface ese criterio; aquí se aplica «La Papelera puede permitir su restauración algunas eliminaciones…»."
+    "explicacion": "La Papelera es un almacenamiento temporal para determinadas eliminaciones, pero no interviene en todas y no equivale a un archivo ni a una copia de seguridad."
   },
   {
     "id": "burgos-v09-deep-12",
     "tema": 40,
     "pregunta": "En una oficina municipal, ¿cuál es la actuación correcta respecto de un documento que forma parte de un expediente?",
     "opciones": [
-      "Guardarlo en el sistema corporativo autorizado, respetar permisos y seguir las reglas de trazabilidad y conservación.",
       "Conservar la única versión en el escritorio para acceder más rápido.",
       "Moverlo a una USB personal para garantizar la disponibilidad.",
+      "Guardarlo en el sistema corporativo autorizado, respetar permisos y seguir las reglas de trazabilidad y conservación.",
       "Compartirlo por correo con cualquier compañero aunque no intervenga en el expediente."
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.9 · 6. Gestión de carpetas y archivos",
-    "explicacion": "La documentación administrativa debe mantenerse en sistemas autorizados, con acceso por necesidad, trazabilidad, copias y conservación conforme al procedimiento corporativo. La alternativa «Conservar la única versión en el escritorio para…» no satisface ese criterio; aquí se aplica «Guardarlo en el sistema corporativo autorizado respetar permisos…»."
+    "explicacion": "La documentación administrativa debe mantenerse en sistemas autorizados, con acceso por necesidad, trazabilidad, copias y conservación conforme al procedimiento corporativo."
   },
   {
     "id": "estado2026-extra-t40-01",
@@ -795,7 +795,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones. La alternativa «Byte» no satisface ese criterio; aquí se aplica «Procesador o CPU». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "El procesador es la unidad funcional encargada de interpretar y ejecutar instrucciones."
   },
   {
     "id": "estado2026-extra-t40-02",
@@ -812,7 +812,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso. Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware. La alternativa «Gestor de contraseñas» no satisface ese criterio; aquí se aplica «Antivirus»."
+    "explicacion": "El antivirus es la herramienta específicamente orientada a detectar, bloquear y eliminar software malicioso. Interfaz de usuario es el medio de interacción con el sistema, no software malicioso; virus, troyanos y gusanos sí son categorías de malware."
   },
   {
     "id": "estado2026-extra-t40-03",
@@ -829,7 +829,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo. La alternativa «ROM de arranque» no satisface ese criterio; aquí se aplica «Memoria RAM». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "La RAM mantiene temporalmente datos y procesos en uso y es volátil; el almacenamiento conserva archivos al apagar el equipo."
   },
   {
     "id": "estado2026-extra-t40-04",
@@ -846,24 +846,24 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB. La alternativa «3.000 KB» no satisface ese criterio; aquí se aplica «30.000.000 KB». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Usando equivalencias decimales habituales en test, 30 GB equivalen a 30.000.000 KB."
   },
   {
     "id": "estado2026-extra-t40-05",
     "tema": 40,
     "pregunta": "En Windows 11, las notificaciones se consultan desde:",
     "opciones": [
-      "El Centro de actividades o área de calendario y notificación de la barra de tareas",
+      "El Centro de notificaciones, al abrir el reloj o el icono de notificación de la barra de tareas",
       "El Panel de control clásico exclusivamente",
       "El accesorio Bloc de notas",
       "La papelera de reciclaje"
     ],
     "correcta": 0,
-    "referencia": "Examen Estado 2026, Windows 11; Tema V.9",
+    "referencia": "Microsoft Support · Notificaciones en Windows 11",
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Windows 11 permite acceder a notificaciones desde el área de calendario y notificación en la esquina inferior derecha. La alternativa «El Panel de control clásico exclusivamente» no satisface ese criterio; aquí se aplica «El Centro de actividades o área de calendario…»."
+    "explicacion": "En Windows 11, el Centro de notificaciones reúne las alertas; se abre seleccionando el reloj o el icono de notificación de la barra de tareas, o con Windows+N. «Centro de actividades» es una denominación antigua de Windows 10."
   },
   {
     "id": "estado2026-extra-t40-06",
@@ -880,6 +880,6 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto. La alternativa «Comprimir archivos del sistema» no satisface ese criterio; aquí se aplica «Permitir asistencia remota compartiendo pantalla o dando control…». La función indicada se reconoce por el efecto que produce, no solo por la aplicación o dispositivo donde se usa en la práctica para este caso concreto."
+    "explicacion": "Asistencia rápida permite recibir o prestar ayuda remota mediante pantalla compartida y control remoto."
   }
 ]

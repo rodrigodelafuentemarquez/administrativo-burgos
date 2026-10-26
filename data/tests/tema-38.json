@@ -15,7 +15,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "Las personas jurídicas están obligadas a relacionarse electronicamente con las Administraciones. La alternativa «Es una opción» no satisface ese criterio; aquí se aplica «Es una obligación». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 14.2.a LPAC obliga a las personas jurídicas a relacionarse electrónicamente para cualquier trámite de un procedimiento administrativo."
   },
   {
     "id": "pdf-2023-burgos-q46",
@@ -33,7 +33,7 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La sede electrónica es una dirección electrónica oficial cuya titularidad corresponde a una Administración u organismo público. La alternativa «Aquella sede administrativa donde se controla la red…» no satisface ese criterio; aquí se aplica «La dirección electrónica disponible para los ciudadanos a…»."
+    "explicacion": "El artículo 38 LRJSP define la sede como dirección electrónica disponible a través de redes, de titularidad de una Administración u organismo público en sus competencias."
   },
   {
     "id": "pdf-2025-burgos-q47-reg",
@@ -51,7 +51,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "El registro electrónico permite la presentación de solicitudes todos los días del año durante las 24 horas. La alternativa «De lunes a viernes las 24 horas del…» no satisface ese criterio; aquí se aplica «Todos los días del año las 24 horas…»."
+    "explicacion": "El registro electrónico permite presentar escritos las 24 horas de cualquier día. La fecha efectiva a efectos de cómputo puede desplazarse si el día es inhábil."
   },
   {
     "id": "pdf-2025-burgos-q57",
@@ -69,7 +69,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "El artículo 41 LPAC regula la práctica de las notificaciones y establece su preferencia por medios electrónicos. La alternativa «Artículo 38» no satisface ese criterio; aquí se aplica «Artículo 41». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 41 LPAC establece la preferencia por medios electrónicos y regula los supuestos en que la notificación debe practicarse por ese canal."
   },
   {
     "id": "pdf-2025-burgos-q45",
@@ -87,7 +87,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La respuesta correcta es «Podrán elegir en todo momento si se comunican…». La alternativa «Nunca podrán ser obligadas a relacionarse a través…» no satisface ese criterio; aquí se aplica «Podrán elegir en todo momento si se comunican…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La persona física no obligada puede elegir el medio de relación y cambiar de opción en cualquier momento, comunicándolo para que quede constancia."
   },
   {
     "id": "pdf-2025-burgos-q46",
@@ -105,7 +105,7 @@
       "Pregunta real",
       "Burgos 2025"
     ],
-    "explicacion": "La respuesta correcta es «Sede electrónica». La alternativa «Página web» no satisface ese criterio; aquí se aplica «Sede electrónica». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La definición legal de dirección electrónica de titularidad administrativa corresponde a la sede electrónica (art. 38 LRJSP)."
   },
   {
     "id": "pdf-2023-burgos-q44",
@@ -123,49 +123,49 @@
       "Pregunta real",
       "Burgos 2023"
     ],
-    "explicacion": "La respuesta correcta es «La presentación en un día inhábil se entenderá…». La alternativa «La presentación en un día inhábil se entenderá…» no satisface ese criterio; aquí se aplica «La presentación en un día inhábil se entenderá…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 31.2.c LPAC traslada al primer momento hábil del día siguiente los efectos de una presentación electrónica en día inhábil, salvo regla expresa distinta."
   },
   {
     "id": "t34-p001",
     "tema": 38,
     "pregunta": "La Administración Electrónica es el modelo de gestión pública que utiliza las TIC para:",
     "opciones": [
-      "La tramitación de procedimientos, la prestación de servicios públicos y las relaciones electrónicas con ciudadanía y empresas",
       "La sustitución del personal empleado público por sistemas automáticos de decisión",
+      "La tramitación de procedimientos, la prestación de servicios públicos y las relaciones electrónicas con ciudadanía y empresas",
       "La recaudación tributaria exclusivamente por medios telemáticos",
       "La publicación de leyes orgánicas y de sentencias judiciales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Administración electrónica · concepto",
-    "explicacion": "La administración electrónica integra las TIC en la gestión, los servicios y las relaciones con ciudadanía y empresas, no en una única función aislada. La alternativa «La sustitución del personal empleado público por sistemas…» no satisface ese criterio; aquí se aplica «La tramitación de procedimientos la prestación de servicios…»."
+    "explicacion": "La administración electrónica integra las TIC en la gestión, los servicios y las relaciones con ciudadanía y empresas, no en una única función aislada."
   },
   {
     "id": "t34-p002",
     "tema": 38,
-    "pregunta": "La LPACAP y la LRJSP integran la administración electrónica como forma:",
+    "pregunta": "Según el artículo 14.3 de la Ley 39/2015, ¿puede imponerse reglamentariamente a determinadas personas físicas la relación electrónica con la Administración?",
     "opciones": [
-      "ordinaria y preferente de actuación de las Administraciones Públicas",
-      "opcional y residual",
-      "exclusivamente interna y privada",
-      "solo para grandes empresas"
+      "No, las personas físicas nunca pueden quedar obligadas",
+      "Sí, a todas las personas físicas en cualquier procedimiento",
+      "Sí, para procedimientos y colectivos que acrediten acceso y disponibilidad de los medios electrónicos necesarios",
+      "Solo si la persona lo solicita voluntariamente"
     ],
-    "correcta": 0,
-    "referencia": "V.7 · 1.2 Evolución normativa",
-    "explicacion": "La respuesta correcta es «ordinaria y preferente de actuación de las Administraciones…». La alternativa «opcional y residual» no satisface ese criterio; aquí se aplica «ordinaria y preferente de actuación de las Administraciones…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "correcta": 2,
+    "referencia": "Ley 39/2015 · art. 14.3",
+    "explicacion": "El artículo 14.3 permite imponer el canal electrónico por reglamento a ciertos procedimientos y colectivos de personas físicas cuando, por su capacidad económica, técnica, dedicación profesional u otras razones, quede acreditado que disponen de los medios necesarios. Las demás personas físicas conservan el derecho de elegir canal."
   },
   {
     "id": "t34-p003",
     "tema": 38,
     "pregunta": "En administración electrónica, uno de sus principios es:",
     "opciones": [
-      "la interoperabilidad",
       "la opacidad",
       "la arbitrariedad",
-      "la reserva de papel"
+      "la reserva de papel",
+      "la interoperabilidad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.7 · 1.3 Principios de la administración electrónica",
-    "explicacion": "La respuesta correcta es «la interoperabilidad». La alternativa «la opacidad» no satisface ese criterio; aquí se aplica «la interoperabilidad». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La interoperabilidad permite intercambiar y utilizar datos y documentos entre sistemas administrativos con significado y garantías compatibles."
   },
   {
     "id": "t34-p004",
@@ -179,49 +179,49 @@
     ],
     "correcta": 0,
     "referencia": "V.7 · 2.1 Concepto",
-    "explicacion": "La respuesta correcta es «la dirección electrónica de titularidad gestión y administración…». La alternativa «una carpeta de archivos físicos» no satisface ese criterio; aquí se aplica «la dirección electrónica de titularidad gestión y administración…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La titularidad de la sede corresponde a una Administración u organismo público; la sede ofrece trámites que requieren identificar a la entidad y, si procede, a la persona."
   },
   {
     "id": "t34-p005",
     "tema": 38,
     "pregunta": "En administración electrónica, el Punto de Acceso General electrónico de la AGE es:",
     "opciones": [
-      "el portal web de entrada única a los servicios electrónicos del Estado",
       "un archivo municipal",
+      "el portal web de entrada única a los servicios electrónicos del Estado",
       "una oficina de registro físico",
       "una base de datos de sanciones"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.7 · 2.3 Punto de Acceso General electrónico de la AGE",
-    "explicacion": "La respuesta correcta es «el portal web de entrada única a los…». La alternativa «un archivo municipal» no satisface ese criterio; aquí se aplica «el portal web de entrada única a los…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El PAGe de la AGE facilita el acceso a servicios, trámites e información de sus órganos y entidades vinculadas o dependientes."
   },
   {
     "id": "t34-p006",
     "tema": 38,
     "pregunta": "En administración electrónica, un sistema de identificación admitido es:",
     "opciones": [
-      "el DNI electrónico",
       "solo el pasaporte ordinario",
       "únicamente la firma manuscrita",
+      "el DNI electrónico",
       "el número de afiliación a la Seguridad Social"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.7 · 3.1 La identificación electrónica de los ciudadanos",
-    "explicacion": "La respuesta correcta es «el DNI electrónico». Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración. La alternativa «solo el pasaporte ordinario» no satisface ese criterio; aquí se aplica «el DNI electrónico»."
+    "explicacion": "La respuesta correcta es «el DNI electrónico». Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración."
   },
   {
     "id": "t34-p007",
     "tema": 38,
     "pregunta": "En administración electrónica, la firma electrónica sirve para garantizar:",
     "opciones": [
-      "la autenticidad del firmante y la integridad del documento firmado",
       "la velocidad de conexión",
       "la presencia física del interesado",
-      "la reserva del registro"
+      "la reserva del registro",
+      "la autenticidad del firmante y la integridad del documento firmado"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.7 · 3.2 La firma electrónica",
-    "explicacion": "La respuesta correcta es «la autenticidad del firmante y la integridad del…». La interoperabilidad permite intercambiar y reutilizar datos con coordinación, competencia, base jurídica y medidas de seguridad. La alternativa «la reserva del registro» no satisface ese criterio; aquí se aplica «la autenticidad del firmante y la integridad del…»."
+    "explicacion": "La respuesta correcta es «la autenticidad del firmante y la integridad del…». La interoperabilidad permite intercambiar y reutilizar datos con coordinación, competencia, base jurídica y medidas de seguridad."
   },
   {
     "id": "t34-p008",
@@ -235,49 +235,49 @@
     ],
     "correcta": 0,
     "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento",
-    "explicacion": "La respuesta correcta es «la sede electrónica o el registro electrónico». La alternativa «solo el buzón postal» no satisface ese criterio; aquí se aplica «la sede electrónica o el registro electrónico». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La solicitud puede presentarse en la sede electrónica o por un registro electrónico, que deja constancia formal de la fecha, hora y documentos."
   },
   {
     "id": "t34-p010",
     "tema": 38,
     "pregunta": "En administración electrónica, las notificaciones se practicarán preferentemente:",
     "opciones": [
-      "por medios electrónicos",
       "solo en papel",
+      "por medios electrónicos",
       "por teléfono móvil",
       "por radio local"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente",
-    "explicacion": "La respuesta correcta es «por medios electrónicos». La alternativa «por teléfono móvil» no satisface ese criterio; aquí se aplica «por medios electrónicos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El artículo 41 establece preferencia por la notificación electrónica, obligatoria para sujetos legalmente obligados, con las excepciones previstas."
   },
   {
     "id": "t34-p011",
     "tema": 38,
     "pregunta": "En administración electrónica, la DEHú es:",
     "opciones": [
-      "el sistema de notificación electrónica de la Administración General del Estado",
       "un archivo histórico digital",
       "un motor de búsqueda",
+      "un punto de acceso que permite consultar notificaciones electrónicas de Administraciones integradas",
       "una plataforma de firma de presupuestos"
     ],
-    "correcta": 0,
-    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente",
-    "explicacion": "La respuesta correcta es «el sistema de notificación electrónica de la Administración…». La alternativa «un archivo histórico digital» no satisface ese criterio; aquí se aplica «el sistema de notificación electrónica de la Administración…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "correcta": 2,
+    "referencia": "Ley 39/2015 · art. 43.4; RD 203/2021 · art. 7",
+    "explicacion": "La DEHú permite consultar en un punto de acceso las notificaciones electrónicas de las Administraciones que se hayan integrado; no se limita a actos propios de la AGE."
   },
   {
     "id": "t34-p012",
     "tema": 38,
-    "pregunta": "Si transcurren 10 días naturales sin acceder a una notificación electrónica en DEHú, la notificación se entiende:",
+    "pregunta": "Según el artículo 40.2 LPACAP, ¿qué debe contener una notificación administrativa?",
     "opciones": [
-      "rechazada",
-      "estimada",
-      "suspendida",
-      "nula"
+      "Solo la parte dispositiva, sin información sobre recursos",
+      "El texto íntegro y una propuesta de recurso obligatorio en todos los casos",
+      "El nombre del instructor y la valoración interna de los informes, aunque no formen parte del acto",
+      "El texto íntegro del acto, si pone fin a la vía administrativa, los recursos procedentes, el órgano ante el que se interponen y el plazo"
     ],
-    "correcta": 0,
-    "referencia": "V.7 · 6.1 La notificación electrónica como medio preferente",
-    "explicacion": "La respuesta correcta es «rechazada». La Ley 39/2015 establece diez días naturales desde la puesta a disposición para el rechazo por falta de acceso, salvo imposibilidad técnica o material. La alternativa «estimada» no satisface ese criterio; aquí se aplica «rechazada»."
+    "correcta": 3,
+    "referencia": "LPACAP · art. 40.2",
+    "explicacion": "La notificación debe incluir el texto íntegro de la resolución, indicar si pone fin o no a la vía administrativa y expresar los recursos procedentes, el órgano ante el que deben presentarse y su plazo. El artículo 40.2 fija además diez días desde la fecha del acto para cursarla."
   },
   {
     "id": "t34-p013",
@@ -291,49 +291,49 @@
     ],
     "correcta": 0,
     "referencia": "V.7 · 4.3 Instrucción electrónica del procedimiento",
-    "explicacion": "La respuesta correcta es «sin intervención directa de un empleado público cuando…». La Ley 40/2015 exige determinar órganos responsables de especificar, programar, mantener, supervisar y controlar el sistema automatizado. La alternativa «mediante resolución judicial» no satisface ese criterio; aquí se aplica «sin intervención directa de un empleado público cuando…»."
+    "explicacion": "La respuesta correcta es «sin intervención directa de un empleado público cuando…». La Ley 40/2015 exige determinar órganos responsables de especificar, programar, mantener, supervisar y controlar el sistema automatizado."
   },
   {
     "id": "t34-p014",
     "tema": 38,
     "pregunta": "En administración electrónica, el ENS es el esquema que establece:",
     "opciones": [
-      "los principios y requisitos de seguridad en los sistemas de información del sector público",
       "las reglas del presupuesto local",
+      "los principios y requisitos de seguridad en los sistemas de información del sector público",
       "las clases de personal laboral",
       "la estructura del calendario laboral"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.7 · 1.2 Evolución normativa / referencias",
-    "explicacion": "La respuesta correcta es «los principios y requisitos de seguridad en los…». La alternativa «la estructura del calendario laboral» no satisface ese criterio; aquí se aplica «los principios y requisitos de seguridad en los…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El ENS fija principios, requisitos y medidas para proteger la información, sistemas y servicios del sector público."
   },
   {
     "id": "t34-p016",
     "tema": 38,
     "pregunta": "En administración electrónica, el código seguro de verificación (CSV) permite:",
     "opciones": [
-      "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
       "sustituir en todo caso la firma electrónica cualificada del ciudadano",
       "presentar solicitudes sin identificación previa",
+      "verificar la autenticidad e integridad de una copia impresa de un documento electrónico",
       "clasificar los sistemas conforme al ENS"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "V.7 · 3.3 Identificación de las Administraciones Públicas",
-    "explicacion": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración. La alternativa «sustituir en todo caso la firma electrónica cualificada…» no satisface ese criterio; aquí se aplica «verificar la autenticidad e integridad de una copia…»."
+    "explicacion": "El CSV es un código alfanumérico que permite comprobar en sede electrónica la autenticidad e integridad del documento. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración."
   },
   {
     "id": "t34-p017",
     "tema": 38,
     "pregunta": "En administración electrónica, la presentación electrónica de una solicitud genera automáticamente un recibo con:",
     "opciones": [
-      "número de registro, fecha, hora e identificación del documento presentado",
       "solo la identidad del funcionario que tramitará el expediente",
       "únicamente el número de expediente definitivo",
-      "el texto íntegro de la resolución final"
+      "el texto íntegro de la resolución final",
+      "número de registro, fecha, hora e identificación del documento presentado"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "V.7 · 4.2 Iniciación electrónica del procedimiento",
-    "explicacion": "El recibo electrónico sirve como prueba de presentación e incorpora esos datos esenciales. La alternativa «únicamente el número de expediente definitivo» no satisface ese criterio; aquí se aplica «número de registro fecha hora e identificación del…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El recibo electrónico acredita presentación e incorpora número de registro, fecha y hora e identificación del escrito y sus anexos."
   },
   {
     "id": "t34-p018",
@@ -347,35 +347,35 @@
     ],
     "correcta": 0,
     "referencia": "V.7 · 6.2 El aviso de notificación",
-    "explicacion": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico. El aviso solo informa: la notificación se practica mediante acceso a su contenido o se entiende rechazada tras el plazo legal de diez días naturales. La alternativa «equivale por sí mismo a la práctica de…» no satisface ese criterio; aquí se aplica «no sustituye a la notificación»."
+    "explicacion": "El aviso es obligatorio, pero no sustituye a la notificación ni altera por sí solo su régimen jurídico. El aviso solo informa: la notificación se practica mediante acceso a su contenido o se entiende rechazada tras el plazo legal de diez días naturales."
   },
   {
     "id": "t34-p019",
     "tema": 38,
     "pregunta": "En administración electrónica, el SIR materializa principalmente el principio de:",
     "opciones": [
-      "ventanilla única",
       "jerarquía normativa",
+      "ventanilla única",
       "inderogabilidad singular del reglamento",
       "desconcentración funcional"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "V.7 · 7.3 El Sistema de Interconexión de Registros (SIR)",
-    "explicacion": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria. La interoperabilidad permite intercambiar y reutilizar datos con coordinación, competencia, base jurídica y medidas de seguridad. La alternativa «jerarquía normativa» no satisface ese criterio; aquí se aplica «ventanilla única»."
+    "explicacion": "El Sistema de Interconexión de Registros permite presentar en una Administración y remitir electrónicamente a la destinataria. La interoperabilidad permite intercambiar y reutilizar datos con coordinación, competencia, base jurídica y medidas de seguridad."
   },
   {
     "id": "t34-p020",
     "tema": 38,
-    "pregunta": "Entre las obligaciones de las Entidades Locales en materia de administración electrónica figura disponer de:",
+    "pregunta": "Según el artículo 7 del Real Decreto 203/2021, cada Administración Pública debe disponer de:",
     "opciones": [
-      "un catálogo de procedimientos disponible en la sede electrónica",
       "una oficina física abierta las 24 horas del día",
       "un sistema propio de certificación notarial",
+      "un Punto de Acceso General electrónico que facilite sus servicios, trámites e información",
       "un registro exclusivamente en soporte papel"
     ],
-    "correcta": 0,
-    "referencia": "V.7 · 8.1 Obligaciones de las Entidades Locales",
-    "explicacion": "La respuesta correcta es «un catálogo de procedimientos disponible en la sede…». La alternativa «una oficina física abierta las 24 horas del…» no satisface ese criterio; aquí se aplica «un catálogo de procedimientos disponible en la sede…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "correcta": 2,
+    "referencia": "Real Decreto 203/2021 · art. 7",
+    "explicacion": "El RD 203/2021 exige a cada Administración disponer de un Punto de Acceso General electrónico para facilitar el acceso a sus servicios, trámites e información."
   },
   {
     "id": "t34-p021",
@@ -383,13 +383,13 @@
     "pregunta": "En administración electrónica, todos los documentos utilizados en las actuaciones administrativas se almacenaran, con carácter general:",
     "opciones": [
       "Unicamente en soporte papel para garantizar su autenticidad",
-      "Por medios electrónicos",
       "En cualquier soporte, sin preferencia legal",
-      "Solo en formato físico cuando afecten a derechos de los particulares"
+      "Solo en formato físico cuando afecten a derechos de los particulares",
+      "Por medios electrónicos"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "V.7 · 4.1 La tramitación electrónica como forma ordinaria",
-    "explicacion": "La respuesta correcta es «Por medios electrónicos». La alternativa «Unicamente en soporte papel para garantizar su autenticidad» no satisface ese criterio; aquí se aplica «Por medios electrónicos». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La conservación electrónica facilita integridad y disponibilidad; los documentos que forman parte de expedientes se producen y conservan electrónicamente como regla general."
   },
   {
     "id": "t34-p022",
@@ -403,7 +403,7 @@
     ],
     "correcta": 0,
     "referencia": "V.7 · 3.2 Sistemas de firma e identificación",
-    "explicacion": "La respuesta correcta es «Un sello electrónico basado en un certificado electrónico…». La alternativa «Unicamente mediante certificado de empleado público» no satisface ese criterio; aquí se aplica «Un sello electrónico basado en un certificado electrónico…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El sello electrónico identifica a una Administración u órgano y puede utilizarse en documentos o actuaciones automatizadas cuando se cumplen los requisitos legales."
   },
   {
     "id": "estado2026-extra-t38-01",
@@ -420,7 +420,7 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La identificación electrónica administrativa puede realizarse mediante sello electrónico basado en certificado reconocido o cualificado. La alternativa «Un correo electrónico ordinario sin certificado» no satisface ese criterio; aquí se aplica «Sello electrónico basado en certificado electrónico reconocido o…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El sello electrónico identifica a la Administración u órgano emisor; el certificado vincula criptográficamente ese sello con su titular."
   },
   {
     "id": "estado2026-extra-t38-02",
@@ -437,49 +437,49 @@
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "El aviso solo informa: la notificación se practica mediante acceso a su contenido o se entiende rechazada tras el plazo legal de diez días naturales. La alternativa «Equivale siempre a la práctica de la notificación» no satisface ese criterio; aquí se aplica «No sustituye a la notificación aunque informa de…»."
+    "explicacion": "El aviso solo informa: la notificación se practica mediante acceso a su contenido o se entiende rechazada tras el plazo legal de diez días naturales."
   },
   {
     "id": "realstyle-v07-01",
     "tema": 38,
     "pregunta": "Según el art. 38 LRJSP, la sede electrónica es:",
     "opciones": [
-      "La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad corresponde a una Administración Pública o entidad pública en el ejercicio de sus competencias",
       "El edificio donde se ubica el departamento de informática",
+      "La dirección electrónica disponible para los ciudadanos a través de redes de telecomunicaciones cuya titularidad corresponde a una Administración Pública o entidad pública en el ejercicio de sus competencias",
       "La intranet municipal de uso exclusivo por empleados",
       "Un buzón de correo electrónico sin identificación de titularidad ni responsabilidad"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Revisión test reales · art. 38 LRJSP",
-    "explicacion": "La definición legal de sede electrónica es literal y suele aparecer en test reales. La alternativa «Un buzón de correo electrónico sin identificación de…» no satisface ese criterio; aquí se aplica «La dirección electrónica disponible para los ciudadanos a…». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La sede es una dirección electrónica titularidad de una Administración u organismo público desde la que se prestan trámites con garantías."
   },
   {
     "id": "realstyle-v07-02",
     "tema": 38,
     "pregunta": "Según la LPACAP, las notificaciones se practicarán preferentemente por medios electrónicos y, en todo caso, cuando el interesado:",
     "opciones": [
-      "Resulte obligado a recibirlas por esta vía",
       "Lo solicite verbalmente a cualquier empleado público",
       "Sea persona física no obligada en todos los casos",
+      "Resulte obligado a recibirlas por esta vía",
       "Haya presentado alguna vez una solicitud en papel"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Revisión test reales · art. 41 LPACAP",
-    "explicacion": "La preferencia electrónica se convierte en obligación cuando el interesado está obligado a relacionarse electrónicamente. La alternativa «Lo solicite verbalmente a cualquier empleado público» no satisface ese criterio; aquí se aplica «Resulte obligado a recibirlas por esta vía». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "La notificación se practica obligatoriamente por vía electrónica para quienes están sujetos a esa obligación, conforme al artículo 14 LPAC."
   },
   {
     "id": "burgos-v07-deep-01",
     "tema": 38,
     "pregunta": "Una persona física no incluida en ningún supuesto de obligación electrónica presenta una solicitud en papel y después cambia al canal electrónico. ¿Qué regla es correcta?",
     "opciones": [
-      "Puede elegir el canal y cambiarlo en cualquier momento",
       "Debe usar siempre el canal electrónico desde la primera solicitud",
       "Solo puede cambiar de canal con autorización del alcalde",
-      "El cambio de canal convierte en nulas sus actuaciones anteriores"
+      "El cambio de canal convierte en nulas sus actuaciones anteriores",
+      "Puede elegir el canal y cambiarlo en cualquier momento"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema V.7 · derechos y obligaciones de relación electrónica",
-    "explicacion": "El artículo 14.1 de la Ley 39/2015 permite a las personas físicas no obligadas elegir en todo momento el medio de relación y modificarlo durante el procedimiento. La alternativa «Solo puede cambiar de canal con autorización del…» no satisface ese criterio; aquí se aplica «Puede elegir el canal y cambiarlo en cualquier…»."
+    "explicacion": "El artículo 14.1 de la Ley 39/2015 permite a las personas físicas no obligadas elegir en todo momento el medio de relación y modificarlo durante el procedimiento."
   },
   {
     "id": "burgos-v07-deep-02",
@@ -493,49 +493,49 @@
     ],
     "correcta": 0,
     "referencia": "Tema V.7 · registro electrónico y recibo",
-    "explicacion": "El registro debe generar un recibo que deje constancia de la presentación; ese recibo no equivale a una resolución ni garantiza que la solicitud esté completa. La alternativa «El número de expediente definitivo aunque todavía no…» no satisface ese criterio; aquí se aplica «El recibo que incorpora fecha hora número de…»."
+    "explicacion": "El registro debe generar un recibo que deje constancia de la presentación; ese recibo no equivale a una resolución ni garantiza que la solicitud esté completa."
   },
   {
     "id": "burgos-v07-deep-03",
     "tema": 38,
     "pregunta": "Con carácter general, una presentación realizada en un registro electrónico en día inhábil se entiende realizada:",
     "opciones": [
-      "A primera hora del primer día hábil siguiente",
       "El día hábil anterior a la presentación",
+      "A primera hora del primer día hábil siguiente",
       "Fuera de plazo y sin posibilidad de subsanación",
       "A las 23:59 del día inhábil"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema V.7 · registro electrónico y cómputo de plazos",
-    "explicacion": "La LPAC establece esa regla específica para el cómputo en registros electrónicos, salvo que una norma permita expresamente la recepción en día inhábil. El artículo 31.2 de la Ley 39/2015 separa disponibilidad continua del registro y cómputo de días hábiles. La alternativa «El día hábil anterior a la presentación» no satisface ese criterio; aquí se aplica «A primera hora del primer día hábil siguiente»."
+    "explicacion": "La LPAC establece esa regla específica para el cómputo en registros electrónicos, salvo que una norma permita expresamente la recepción en día inhábil. El artículo 31.2 de la Ley 39/2015 separa disponibilidad continua del registro y cómputo de días hábiles."
   },
   {
     "id": "burgos-v07-deep-04",
     "tema": 38,
     "pregunta": "¿Cuál es la diferencia más precisa entre identificación y firma electrónica?",
     "opciones": [
-      "La identificación acredita quién actúa; la firma añade la expresión de voluntad sobre un documento o actuación",
       "La identificación siempre produce los mismos efectos que la firma",
       "La firma solo sirve para entrar en la sede y la identificación para resolver",
+      "La identificación acredita quién actúa; la firma añade la expresión de voluntad sobre un documento o actuación",
       "No existe diferencia jurídica entre ambas"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema V.7 · identificación y firma",
-    "explicacion": "La LPAC distingue los sistemas de identificación de los casos en que se exige firma para acreditar autenticidad y voluntad. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración. La alternativa «La identificación siempre produce los mismos efectos que…» no satisface ese criterio; aquí se aplica «La identificación acredita quién actúa la firma añade…»."
+    "explicacion": "La LPAC distingue los sistemas de identificación de los casos en que se exige firma para acreditar autenticidad y voluntad. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración."
   },
   {
     "id": "burgos-v07-deep-05",
     "tema": 38,
     "pregunta": "El aviso enviado por correo electrónico de que existe una notificación pendiente:",
     "opciones": [
-      "No sustituye a la notificación practicada mediante acceso o rechazo conforme a la ley",
       "Siempre equivale al acceso al contenido",
       "Amplía automáticamente el plazo de diez días naturales",
-      "Solo es válido si lo firma el funcionario que tramita el expediente"
+      "Solo es válido si lo firma el funcionario que tramita el expediente",
+      "No sustituye a la notificación practicada mediante acceso o rechazo conforme a la ley"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema V.7 · notificaciones electrónicas",
-    "explicacion": "El aviso es informativo. La notificación depende de la puesta a disposición y del acceso o rechazo, no de que el aviso llegue o sea leído. El aviso solo informa: la notificación se practica mediante acceso a su contenido o se entiende rechazada tras el plazo legal de diez días naturales. La alternativa «Siempre equivale al acceso al contenido» no satisface ese criterio; aquí se aplica «No sustituye a la notificación practicada mediante acceso…»."
+    "explicacion": "El aviso es informativo. La notificación depende de la puesta a disposición y del acceso o rechazo, no de que el aviso llegue o sea leído. El aviso solo informa: la notificación se practica mediante acceso a su contenido o se entiende rechazada tras el plazo legal de diez días naturales."
   },
   {
     "id": "burgos-v07-deep-06",
@@ -549,49 +549,49 @@
     ],
     "correcta": 0,
     "referencia": "Tema V.7 · art. 43 LPAC y notificación electrónica",
-    "explicacion": "El transcurso de diez días naturales sin acceso produce el rechazo, salvo imposibilidad técnica o material, cuando la notificación se rige por este sistema. La alternativa «Diez días hábiles» no satisface ese criterio; aquí se aplica «Diez días naturales». La norma vincula el efecto a ese supuesto concreto; los demás plazos o trámites pertenecen a otras reglas distintas dentro de la misma materia."
+    "explicacion": "El transcurso de diez días naturales sin acceso produce el rechazo, salvo imposibilidad técnica o material, cuando la notificación se rige por este sistema."
   },
   {
     "id": "burgos-v07-deep-07",
     "tema": 38,
     "pregunta": "¿Qué afirmación describe mejor el expediente electrónico?",
     "opciones": [
-      "Es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución y de diligencias para ejecutarla",
       "Es únicamente la carpeta informática donde se guardan los documentos recibidos",
+      "Es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a la resolución y de diligencias para ejecutarla",
       "Es el registro electrónico de entrada y salida de la Administración",
       "Es una copia de la sede electrónica sin datos personales"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema V.7 · expediente electrónico",
-    "explicacion": "El expediente integra documentos y actuaciones relevantes del procedimiento, con orden, índice y garantías de acceso y conservación. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración. La alternativa «Es únicamente la carpeta informática donde se guardan…» no satisface ese criterio; aquí se aplica «Es el conjunto ordenado de documentos y actuaciones…»."
+    "explicacion": "El expediente integra documentos y actuaciones relevantes del procedimiento, con orden, índice y garantías de acceso y conservación. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración."
   },
   {
     "id": "burgos-v07-deep-08",
     "tema": 38,
     "pregunta": "La interoperabilidad entre Administraciones permite:",
     "opciones": [
-      "Intercambiar y utilizar datos y documentos de forma coordinada, con base jurídica y medidas de seguridad",
       "Consultar cualquier base de datos pública sin justificar finalidad",
       "Sustituir siempre la competencia del órgano que tramita",
+      "Intercambiar y utilizar datos y documentos de forma coordinada, con base jurídica y medidas de seguridad",
       "Eliminar las obligaciones de protección de datos"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema V.7 · ENI, SIR e intercambio de datos",
-    "explicacion": "La interoperabilidad facilita el intercambio, pero no elimina la competencia, la base jurídica, la minimización ni los controles de seguridad. La interoperabilidad permite intercambiar y reutilizar datos con coordinación, competencia, base jurídica y medidas de seguridad. La alternativa «Consultar cualquier base de datos pública sin justificar…» no satisface ese criterio; aquí se aplica «Intercambiar y utilizar datos y documentos de forma…»."
+    "explicacion": "La interoperabilidad facilita el intercambio, pero no elimina la competencia, la base jurídica, la minimización ni los controles de seguridad. La interoperabilidad permite intercambiar y reutilizar datos con coordinación, competencia, base jurídica y medidas de seguridad."
   },
   {
     "id": "burgos-v07-deep-09",
     "tema": 38,
     "pregunta": "El Esquema Nacional de Seguridad tiene como finalidad principal:",
     "opciones": [
-      "Establecer principios y requisitos para proteger los sistemas, la información y los servicios del sector público",
       "Regular exclusivamente la firma manuscrita de los empleados públicos",
       "Determinar el calendario anual de días inhábiles",
-      "Organizar las competencias del Pleno municipal"
+      "Organizar las competencias del Pleno municipal",
+      "Establecer principios y requisitos para proteger los sistemas, la información y los servicios del sector público"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema V.7 · Esquema Nacional de Seguridad",
-    "explicacion": "El ENS articula la seguridad de la información y los servicios públicos, con medidas proporcionadas al riesgo. La alternativa «Organizar las competencias del Pleno municipal» no satisface ese criterio; aquí se aplica «Establecer principios y requisitos para proteger los sistemas…»."
+    "explicacion": "El ENS establece requisitos para gestionar y reducir riesgos de seguridad y proteger la confidencialidad, integridad, disponibilidad, autenticidad y trazabilidad."
   },
   {
     "id": "burgos-v07-deep-10",
@@ -605,34 +605,34 @@
     ],
     "correcta": 0,
     "referencia": "Tema V.7 · actuación administrativa automatizada",
-    "explicacion": "El art. 41 LRJSP exige identificar previamente las responsabilidades de definición, programación, mantenimiento, supervisión, control de calidad y, en su caso, auditoría. La alternativa «Eliminar toda intervención del órgano competente en la…» no satisface ese criterio; aquí se aplica «Definir especificaciones programar mantener supervisar y controlar la…»."
+    "explicacion": "El art. 41 LRJSP exige identificar previamente las responsabilidades de definición, programación, mantenimiento, supervisión, control de calidad y, en su caso, auditoría."
   },
   {
     "id": "burgos-v07-deep-11",
     "tema": 38,
     "pregunta": "¿Cuál de estas afirmaciones sobre una copia electrónica es correcta?",
     "opciones": [
-      "Un simple escaneo no convierte por sí solo el papel en copia auténtica: deben cumplirse los requisitos legales y técnicos aplicables",
       "Toda fotografía tomada con un móvil es copia auténtica",
+      "Un simple escaneo no convierte por sí solo el papel en copia auténtica: deben cumplirse los requisitos legales y técnicos aplicables",
       "La copia auténtica nunca puede tener la misma validez que el original",
       "Solo un notario puede emitir copias auténticas administrativas"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema V.7 · documentos y copias auténticas",
-    "explicacion": "La autenticidad exige cumplir las garantías de órgano o funcionario habilitado, procedimiento y requisitos técnicos; digitalizar no basta por sí solo. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración. La alternativa «Toda fotografía tomada con un móvil es copia…» no satisface ese criterio; aquí se aplica «Un simple escaneo no convierte por sí solo…»."
+    "explicacion": "La autenticidad exige cumplir las garantías de órgano o funcionario habilitado, procedimiento y requisitos técnicos; digitalizar no basta por sí solo. Identificar acredita quién actúa; firmar expresa voluntad sobre una actuación y el sello electrónico identifica a la Administración."
   },
   {
     "id": "burgos-v07-deep-12",
     "tema": 38,
     "pregunta": "¿Qué relación es correcta entre portal de internet y sede electrónica?",
     "opciones": [
-      "El portal facilita el acceso a información y servicios; la sede es el espacio electrónico de titularidad y responsabilidad administrativa donde se ofrecen trámites con garantías",
       "Son siempre sinónimos y tienen idéntico régimen jurídico",
       "La sede es una red social y el portal solo sirve para firmar",
+      "El portal facilita el acceso a información y servicios; la sede es el espacio electrónico de titularidad y responsabilidad administrativa donde se ofrecen trámites con garantías",
       "El portal sustituye al registro y la sede al archivo electrónico"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Tema V.7 · portal de internet y sede electrónica",
-    "explicacion": "El portal puede conducir a una sede, pero la sede tiene una definición legal propia y concentra servicios y garantías de tramitación electrónica. La alternativa «El portal sustituye al registro y la sede…» no satisface ese criterio; aquí se aplica «El portal facilita el acceso a información y…»."
+    "explicacion": "El portal puede conducir a una sede, pero la sede tiene una definición legal propia y concentra servicios y garantías de tramitación electrónica."
   }
 ]

@@ -4,54 +4,54 @@
     "tema": 24,
     "pregunta": "El personal laboral al servicio de las Corporaciones Locales se vincula mediante:",
     "opciones": [
-      "un contrato de trabajo",
       "una relación estatutaria",
       "un nombramiento vitalicio",
-      "una concesión administrativa"
+      "una concesión administrativa",
+      "un contrato de trabajo"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.3 · 1.1 Concepto y régimen jurídico",
     "explicacion": "La respuesta correcta es «un contrato de trabajo». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
   {
     "id": "t29-p002",
     "tema": 24,
-    "pregunta": "En personal laboral de las Administraciones Públicas, el personal laboral no puede desempeñar funciones que impliquen:",
+    "pregunta": "En una instalación municipal, ¿qué tarea podría encomendarse a personal laboral sin invadir por sí misma las funciones reservadas por el artículo 9.2 TREBEP?",
     "opciones": [
-      "participación directa o indirecta en el ejercicio de potestades públicas",
-      "atención al ciudadano",
-      "mantenimiento de instalaciones",
-      "servicios generales"
+      "El mantenimiento de edificios y el apoyo material al servicio, sin ejercer potestades públicas ni salvaguardar intereses generales en sentido legal",
+      "La imposición de sanciones administrativas a la ciudadanía",
+      "La resolución de recursos administrativos en nombre del Ayuntamiento",
+      "La autorización de licencias urbanísticas mediante acto administrativo"
     ],
     "correcta": 0,
-    "referencia": "III.3 · 1.2 Posición del personal laboral respecto al funcionario",
-    "explicacion": "La respuesta correcta es «participación directa o indirecta en el ejercicio de potestades públicas». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
+    "referencia": "TREBEP · art. 9.2; funciones del personal laboral público",
+    "explicacion": "El artículo 9.2 reserva a funcionarios públicos las funciones que impliquen participación directa o indirecta en potestades públicas o salvaguardia de intereses generales. Tareas materiales como mantenimiento y apoyo pueden encomendarse a personal laboral si así lo permite la normativa y no incluyen esas funciones reservadas."
   },
   {
     "id": "t29-p003",
     "tema": 24,
-    "pregunta": "En personal laboral de las Administraciones Públicas, una clase de personal laboral es:",
+    "pregunta": "Según el artículo 8.2.c TREBEP, el personal laboral se clasifica, según la duración del contrato, en:",
     "opciones": [
       "fijo, indefinido no fijo y temporal",
+      "fijo, por tiempo indefinido o temporal",
       "titular, suplente y eventual",
-      "jefe, mando y base",
       "ordinario, extraordinario y mixto"
     ],
-    "correcta": 0,
-    "referencia": "III.3 · 1.3 Clases de personal laboral",
-    "explicacion": "La respuesta correcta es «fijo, indefinido no fijo y temporal». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
+    "correcta": 1,
+    "referencia": "TREBEP, arts. 8.2.c y 11",
+    "explicacion": "El artículo 8.2.c TREBEP clasifica al personal laboral en fijo, por tiempo indefinido o temporal. El indefinido no fijo es una figura jurisprudencial del sector público para responder a irregularidades en la contratación; no es una de las tres clases expresamente enumeradas por el artículo 8.2.c."
   },
   {
     "id": "t29-p004",
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, el contrato de trabajo es:",
     "opciones": [
-      "El acuerdo por el que el trabajador presta servicios voluntariamente, por cuenta ajena y dentro del ámbito de organización y dirección del empleador, a cambio de retribución",
       "La decisión unilateral de la administración de adscribir a una persona a un puesto sin contraprestación salarial",
       "La adquisición por la entidad local de bienes inmuebles destinados al servicio público",
+      "El acuerdo por el que el trabajador presta servicios voluntariamente, por cuenta ajena y dentro del ámbito de organización y dirección del empleador, a cambio de retribución",
       "La norma interna que regula la organización general del personal laboral"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "Estatuto de los Trabajadores · concepto de contrato de trabajo",
     "explicacion": "La respuesta correcta es «El acuerdo por el que el trabajador presta servicios voluntariamente, por cuenta…». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -60,12 +60,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, son notas esenciales del contrato de trabajo:",
     "opciones": [
-      "voluntariedad, retribución, ajenidad y dependencia",
       "publicidad, igualdad, mérito y capacidad",
       "competencia, jerarquía y discrecionalidad",
-      "autonomía, gratuidad y temporalidad"
+      "autonomía, gratuidad y temporalidad",
+      "voluntariedad, retribución, ajenidad y dependencia"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.3 · 2.2 Elementos esenciales del contrato de trabajo",
     "explicacion": "La respuesta correcta es «voluntariedad, retribución, ajenidad y dependencia». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -88,12 +88,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, el período de prueba máximo para técnicos titulados es de:",
     "opciones": [
-      "6 meses",
       "2 meses",
+      "6 meses",
       "15 días",
       "1 año"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.3 · 4. Contrato de trabajo y modalidades",
     "explicacion": "La respuesta correcta es «6 meses». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -102,12 +102,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, el contrato indefinido es:",
     "opciones": [
-      "la modalidad ordinaria y preferente",
       "una excepción residual",
       "siempre temporal",
+      "la modalidad ordinaria y preferente",
       "un contrato verbal sin control"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.3 · 2.5.1 Contrato indefinido",
     "explicacion": "La respuesta correcta es «la modalidad ordinaria y preferente». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -116,12 +116,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, una modalidad temporal es:",
     "opciones": [
-      "el contrato por circunstancias de la producción",
       "el contrato de arrendamiento",
       "la concesión demanial",
-      "la comisión de servicios"
+      "la comisión de servicios",
+      "el contrato por circunstancias de la producción"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.3 · 2.5.2 Contratos temporales",
     "explicacion": "La respuesta correcta es «el contrato por circunstancias de la producción». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -144,12 +144,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, un derecho básico de los trabajadores es:",
     "opciones": [
-      "la huelga",
       "la potestad reglamentaria",
+      "la huelga",
       "la fiscalización de cuentas",
       "la aprobación de sanciones"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.3 · 3.1 Derechos básicos (art. 4 ET)",
     "explicacion": "La respuesta correcta es «la huelga». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -158,12 +158,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, el trabajador tiene derecho a:",
     "opciones": [
-      "la ocupación efectiva del puesto de trabajo",
       "la designación de sus superiores",
       "la aprobación del presupuesto",
+      "la ocupación efectiva del puesto de trabajo",
       "la potestad disciplinaria"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.3 · 3.1 Derechos básicos (art. 4 ET)",
     "explicacion": "La respuesta correcta es «la ocupación efectiva del puesto de trabajo». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -172,12 +172,12 @@
     "tema": 24,
     "pregunta": "Ningún trabajador puede percibir por jornada completa un salario inferior al:",
     "opciones": [
-      "SMI",
       "IPREM siempre y en todo caso",
       "sueldo base del subgrupo A1",
-      "complemento específico"
+      "complemento específico",
+      "SMI"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.3 · 3.3 Derechos retributivos",
     "explicacion": "La respuesta correcta es «SMI». El salario mínimo interprofesional fija el suelo retributivo legal para una jornada completa, con las reglas de proporcionalidad aplicables a jornadas inferiores y las exclusiones previstas. El IPREM sirve como indicador para otros fines y no sustituye automáticamente al SMI."
   },
@@ -200,12 +200,12 @@
     "tema": 24,
     "pregunta": "En personal laboral de las Administraciones Públicas, entre los principios éticos del personal público está:",
     "opciones": [
-      "no aceptar regalos o favores que puedan comprometer la imparcialidad",
       "favorecer a los amigos del servicio",
+      "no aceptar regalos o favores que puedan comprometer la imparcialidad",
       "ocultar información a los ciudadanos siempre",
       "priorizar intereses privados"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.3 · 4.2 Deberes de los empleados públicos laborales según el TREBEP",
     "explicacion": "La respuesta correcta es «no aceptar regalos o favores que puedan comprometer la imparcialidad». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -213,12 +213,12 @@
     "id": "topup-24-03",
     "pregunta": "Las incompatibilidades del personal laboral público se rigen, además del Estatuto de los Trabajadores, por:",
     "opciones": [
-      "la normativa de incompatibilidades del sector público",
       "solo el Código Civil",
       "exclusivamente la ley electoral",
+      "la normativa de incompatibilidades del sector público",
       "ninguna norma específica"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.3 · Incompatibilidades",
     "tema": 24,
     "explicacion": "La respuesta correcta es «la normativa de incompatibilidades del sector público». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
@@ -227,12 +227,12 @@
     "id": "topup-24-05",
     "pregunta": "En personal laboral de las Administraciones Públicas, el personal laboral no puede ejercer funciones que impliquen:",
     "opciones": [
-      "participación en potestades públicas reservadas a funcionarios",
       "uso de herramientas ofimaticas",
       "atención al público",
-      "archivo de expedientes"
+      "archivo de expedientes",
+      "participación en potestades públicas reservadas a funcionarios"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "III.3 · Régimen jurídico del personal laboral",
     "tema": 24,
     "explicacion": "La respuesta correcta es «participación en potestades públicas reservadas a funcionarios». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
@@ -255,12 +255,12 @@
     "id": "refine-24-02",
     "pregunta": "El personal laboral al servicio de una Administración Pública se vincula mediante:",
     "opciones": [
-      "contrato de trabajo",
       "nombramiento funcionarial de carrera",
+      "contrato de trabajo",
       "elección política",
       "convenio de colaboración interadministrativa"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.3 · Personal laboral",
     "tema": 24,
     "explicacion": "La respuesta correcta es «contrato de trabajo». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
@@ -269,12 +269,12 @@
     "id": "refine-24-03",
     "pregunta": "Las incompatibilidades del personal laboral público no se rigen solo por el Estatuto de los Trabajadores, sino también por:",
     "opciones": [
-      "la normativa específica de incompatibilidades del sector público",
       "la ley electoral general",
       "el reglamento del Pleno municipal",
+      "la normativa específica de incompatibilidades del sector público",
       "la ley hipotecaria"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "III.3 · Derechos, deberes e incompatibilidades",
     "tema": 24,
     "explicacion": "La respuesta correcta es «la normativa específica de incompatibilidades del sector público». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
@@ -299,31 +299,31 @@
   {
     "id": "estado2026-extra-t24-02",
     "tema": 24,
-    "pregunta": "En los convenios colectivos del personal laboral, el ámbito de aplicación puede excluir determinados colectivos cuando:",
+    "pregunta": "El ámbito personal de aplicación de un convenio colectivo puede delimitarse mediante:",
     "opciones": [
-      "La propia norma convencional o su régimen específico así lo establezca",
-      "Lo decida verbalmente cada unidad administrativa",
-      "El trabajador no haya solicitado vacaciones",
-      "El puesto tenga ordenador asignado"
+      "la definición expresa de su ámbito funcional, personal y territorial, dentro de las reglas de negociación colectiva",
+      "una decisión verbal de cada unidad administrativa",
+      "la elección individual de quienes quieran disfrutar de vacaciones",
+      "la asignación de medios informáticos a cada puesto"
     ],
     "correcta": 0,
-    "referencia": "Examen Estado 2026, personal laboral; Tema III.3",
+    "referencia": "Estatuto de los Trabajadores, art. 83.1",
     "tags": [
       "Pregunta real"
     ],
-    "explicacion": "La respuesta correcta es «La propia norma convencional o su régimen específico así lo establezca». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
+    "explicacion": "El artículo 83.1 del Estatuto de los Trabajadores permite a las partes negociadoras establecer el ámbito de los convenios. Esa delimitación debe figurar en el propio convenio y respetar la ley; no habilita a excluir discrecionalmente a una persona trabajadora que esté dentro de su ámbito."
   },
   {
     "id": "burgos-iii03-deep-01",
     "tema": 24,
     "pregunta": "Según el artículo 11.3 del TREBEP, la selección del personal laboral temporal debe respetar, además de igualdad, mérito y capacidad, el principio de:",
     "opciones": [
-      "celeridad",
       "libre designación",
       "antigüedad automática",
-      "secreto de la convocatoria"
+      "secreto de la convocatoria",
+      "celeridad"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "TREBEP, artículo 11.3 · III.3 Selección",
     "explicacion": "La respuesta correcta es «celeridad». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento. La opción alternativa mezcla acceso, selección y provisión, que son procedimientos distintos y no producen los mismos efectos."
   },
@@ -346,12 +346,12 @@
     "tema": 24,
     "pregunta": "El personal indefinido no fijo del sector público:",
     "opciones": [
-      "no equivale a personal laboral fijo ni consolida automáticamente la plaza",
       "es funcionario interino por definición",
+      "no equivale a personal laboral fijo ni consolida automáticamente la plaza",
       "accede siempre por libre designación",
       "puede ejercer potestades públicas por su antigüedad"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "III.3 · 2. Concepto, clases y funciones reservadas",
     "explicacion": "La respuesta correcta es «no equivale a personal laboral fijo ni consolida automáticamente la plaza». La figura de indefinido no fijo no equivale a personal laboral fijo: responde a una irregularidad en la contratación pública, pero la cobertura definitiva de la plaza debe respetar igualdad, mérito y capacidad. La relación no convierte la permanencia de hecho en acceso fijo."
   },
@@ -360,12 +360,12 @@
     "tema": 24,
     "pregunta": "El contrato fijo-discontinuo es:",
     "opciones": [
-      "indefinido, aunque tenga periodos de actividad e inactividad",
       "siempre temporal y limitado a seis meses",
       "un nombramiento funcionarial",
+      "indefinido, aunque tenga periodos de actividad e inactividad",
       "un contrato que no requiere llamamiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "ET, artículo 16 · III.3 Modalidades contractuales",
     "explicacion": "La respuesta correcta es «indefinido, aunque tenga periodos de actividad e inactividad». El contrato fijo-discontinuo es indefinido aunque alterne periodos de actividad e inactividad y atiende trabajos estacionales o intermitentes. No es un contrato temporal de duración determinada ni un nombramiento funcionarial; el llamamiento se ordena por la ley y el convenio. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -374,12 +374,12 @@
     "tema": 24,
     "pregunta": "Para que exista válidamente un periodo de prueba, como regla general, debe:",
     "opciones": [
-      "pactarse por escrito y respetar el límite legal o convencional",
       "imponerse verbalmente por el superior jerárquico",
       "durar siempre un año",
-      "aplicarse solo al personal funcionario"
+      "aplicarse solo al personal funcionario",
+      "pactarse por escrito y respetar el límite legal o convencional"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "ET, artículo 14 · III.3 Contrato de trabajo",
     "explicacion": "La respuesta correcta es «pactarse por escrito y respetar el límite legal o convencional». El artículo 14 ET exige que el periodo de prueba se pacte por escrito y fija límites máximos a falta de regulación convencional; para técnicos titulados, seis meses. Si no se pacta válidamente, no se presume. Durante la prueba rigen los derechos y obligaciones del puesto."
   },
@@ -402,12 +402,12 @@
     "tema": 24,
     "pregunta": "¿Cuál de estas afirmaciones sobre los derechos del personal laboral público es correcta?",
     "opciones": [
-      "Se aplican el ET y los derechos del TREBEP compatibles con la relación laboral",
       "Solo se aplica el convenio, nunca una ley",
+      "Se aplican el ET y los derechos del TREBEP compatibles con la relación laboral",
       "No tiene derecho a negociación colectiva",
       "No tiene derecho a seguridad y salud por trabajar para una Administración"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "TREBEP, artículo 7 · III.3 Derechos",
     "explicacion": "La respuesta correcta es «Se aplican el ET y los derechos del TREBEP compatibles con la relación laboral». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -416,12 +416,12 @@
     "tema": 24,
     "pregunta": "El deber de cumplir las obligaciones del puesto con buena fe y diligencia aparece expresamente en:",
     "opciones": [
-      "el artículo 5 del Estatuto de los Trabajadores",
       "el artículo 9.2 del TREBEP",
       "la Ley de Haciendas Locales",
+      "el artículo 5 del Estatuto de los Trabajadores",
       "el régimen de bienes demaniales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "ET, artículo 5 · III.3 Deberes",
     "explicacion": "La respuesta correcta es «el artículo 5 del Estatuto de los Trabajadores». El artículo 5 ET incluye cumplir las obligaciones del puesto con buena fe y diligencia. Se trata de deberes laborales básicos y no de potestades administrativas: aprobar presupuestos, dictar actos o sancionar corresponde a los órganos competentes, no al trabajador por su contrato. La alternativa numérica cercana altera el plazo o porcentaje legal y no debe confundirse con la regla exacta aplicable."
   },
@@ -430,12 +430,12 @@
     "tema": 24,
     "pregunta": "La Ley 53/1984 se aplica al personal laboral de las Administraciones Públicas porque:",
     "opciones": [
-      "incluye expresamente al personal al servicio de las Administraciones, cualquiera que sea la naturaleza jurídica de su relación",
       "solo regula a funcionarios de carrera",
       "solo regula a miembros de las corporaciones locales electos",
-      "regula exclusivamente contratos privados sin relación pública"
+      "regula exclusivamente contratos privados sin relación pública",
+      "incluye expresamente al personal al servicio de las Administraciones, cualquiera que sea la naturaleza jurídica de su relación"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Ley 53/1984, artículos 1 y 2 · III.3 Incompatibilidades",
     "explicacion": "La respuesta correcta es «incluye expresamente al personal al servicio de las Administraciones, cualquiera que sea la naturaleza jurídica de su relación». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   },
@@ -458,12 +458,12 @@
     "tema": 24,
     "pregunta": "En una convocatoria laboral temporal de un Ayuntamiento, la celeridad:",
     "opciones": [
-      "permite agilizar el procedimiento, pero no eliminar la publicidad, igualdad, mérito y capacidad",
       "permite contratar directamente a cualquier persona",
+      "permite agilizar el procedimiento, pero no eliminar la publicidad, igualdad, mérito y capacidad",
       "sustituye siempre al órgano de selección",
       "autoriza a cubrir potestades públicas con personal laboral"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "TREBEP, artículo 11.3 · III.3 Selección",
     "explicacion": "La respuesta correcta es «permite agilizar el procedimiento, pero no eliminar la publicidad, igualdad, mérito y capacidad». El artículo 11.3 TREBEP exige igualdad, mérito, capacidad y publicidad al seleccionar personal laboral temporal, añadiendo celeridad. Agilizar el proceso no autoriza a omitir la publicidad o la valoración objetiva ni permite cubrir con laborales funciones legalmente reservadas."
   },
@@ -472,12 +472,12 @@
     "tema": 24,
     "pregunta": "¿Qué diferencia correctamente el despido disciplinario laboral de la separación del servicio funcionarial?",
     "opciones": [
-      "son figuras distintas, sometidas a regímenes jurídicos diferentes según la relación de empleo",
       "son exactamente la misma sanción con distinto nombre",
       "el despido disciplinario solo puede imponerse a funcionarios",
+      "son figuras distintas, sometidas a regímenes jurídicos diferentes según la relación de empleo",
       "la separación del servicio se aplica a cualquier trabajador privado"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "TREBEP, artículos 95-96 y ET, artículo 54 · III.3 Disciplina",
     "explicacion": "La respuesta correcta es «son figuras distintas, sometidas a regímenes jurídicos diferentes según la relación de empleo». El personal laboral se vincula a la Administración mediante contrato y queda sujeto al Estatuto de los Trabajadores, al convenio y al TREBEP en lo que resulte aplicable. El nombramiento estatutario corresponde al funcionariado; la naturaleza del empleador público no transforma el contrato en nombramiento."
   }

@@ -189,7 +189,7 @@ El <mark>artículo 169</mark> prohíbe iniciar la reforma constitucional en tiem
 
 ### Para recordar
 
-- **Artículo 14 + 15-29 + 30.2:** bloque protegido por amparo.
+- **Artículo 14 + 15-29 + 30.2:** derechos amparables conforme al artículo 53.2 CE.
 - **Artículo 53.1:** reserva de ley y contenido esencial para el capítulo II.
 - **Artículo 53.3:** principios rectores no equivalen a derechos fundamentales directamente amparables.
 - **Artículo 55.1:** memorizar la lista de artículos y apartados, no una descripción genérica.

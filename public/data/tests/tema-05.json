@@ -22,28 +22,28 @@
     "tema": 5,
     "pregunta": "En régimen local, la autonomía local tiene su fundamento directo en:",
     "opciones": [
-      "la Constitución Española de 1978",
       "la Carta Europea de Autonomía Local",
       "la Ley 1/1998 de Castilla y León",
+      "la Constitución Española de 1978",
       "el Reglamento de Organización y Funcionamiento"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.5 · 1.1 Fundamento constitucional de la autonomía local",
     "explicacion": "Los artículos 137 y 140 CE fundamentan la autonomía municipal, y el 141 la provincial. La LBRL desarrolla esa garantía y la Carta Europea la refuerza, pero no sustituyen su base constitucional interna. No se trata de una autonomía creada únicamente por una ley autonómica o un reglamento organizativo."
   },
   {
     "id": "t09-p003",
     "tema": 5,
-    "pregunta": "Según el art. 3 LBRL, ¿cuál de las siguientes entidades es de existencia necesaria?",
+    "pregunta": "¿Qué conjunto enumera el artículo 3.1 LBRL como entidades locales territoriales?",
     "opciones": [
-      "La comarca",
-      "La mancomunidad",
-      "La isla",
-      "El área metropolitana"
+      "Municipio, provincia e isla en los archipiélagos balear y canario",
+      "Municipio, comarca y mancomunidad",
+      "Municipio, provincia y cualquier agrupación de municipios",
+      "Provincia, área metropolitana y comunidad autónoma"
     ],
-    "correcta": 2,
+    "correcta": 3,
     "referencia": "I.5 · 2.1 Clasificación según la LBRL (art. 3 LBRL)",
-    "explicacion": "El artículo 3.1 LBRL identifica municipio, provincia e isla en los archipiélagos como entidades locales territoriales. Comarcas, mancomunidades y áreas metropolitanas pertenecen a otras categorías del artículo 3.2 y dependen de su configuración legal. La isla tiene existencia como entidad local territorial donde corresponde, no es una asociación voluntaria de municipios."
+    "explicacion": "El artículo 3.1 LBRL enumera como entidades locales territoriales al municipio, la provincia y la isla en los archipiélagos balear y canario. Comarcas, áreas metropolitanas y mancomunidades también pueden tener condición de entidad local, pero figuran en el apartado 2 y no pertenecen a la enumeración territorial del apartado 1."
   },
   {
     "id": "t09-p006",
@@ -78,12 +78,12 @@
     "tema": 5,
     "pregunta": "¿Qué entidades locales pueden crearse para la gestión de servicios en ámbitos urbanos con fuertes vínculos económicos y sociales?",
     "opciones": [
-      "Las áreas metropolitanas",
       "Las entidades locales menores",
       "Las mancomunidades",
+      "Las áreas metropolitanas",
       "Las diputaciones forales"
     ],
-    "correcta": 0,
+    "correcta": 2,
     "referencia": "I.5 · 2.7 Las Áreas Metropolitanas",
     "explicacion": "El artículo 43 LBRL prevé áreas metropolitanas para grandes aglomeraciones urbanas cuyos municipios mantienen vínculos económicos y sociales que requieren planificación y coordinación de obras y servicios. Se crean por ley autonómica con las garantías correspondientes. Una mancomunidad es una asociación voluntaria para fines comunes y no equivale necesariamente a una estructura metropolitana."
   },
@@ -92,12 +92,12 @@
     "tema": 5,
     "pregunta": "¿Qué categoría de competencias municipales recoge como asumidas por la ley y ejercidas con autonomía y bajo responsabilidad propia?",
     "opciones": [
-      "Competencias propias",
       "Competencias delegadas",
       "Competencias exclusivas del Estado",
-      "Competencias impropias"
+      "Competencias impropias",
+      "Competencias propias"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.5 · 4.1 Marco constitucional y legal",
     "explicacion": "Las competencias propias se atribuyen por ley y se ejercen con autonomía y responsabilidad propia, conforme al artículo 7.2 LBRL. Las delegadas proceden de otra Administración y se sujetan al alcance y controles de la delegación. La categoría no significa competencia estatal exclusiva ni autoriza al municipio a asumir libremente cualquier materia sin atribución legal."
   },
@@ -120,12 +120,12 @@
     "tema": 5,
     "pregunta": "¿Qué ley constituye la norma fundamental del Régimen Local español?",
     "opciones": [
-      "La LBRL",
       "La LO 3/1981",
+      "La LBRL",
       "La Ley Orgánica del Poder Judicial",
       "La Ley de Presupuestos Generales del Estado"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "I.5 · 1.3 La legislación básica estatal: la LBRL",
     "explicacion": "La Ley 7/1985, Reguladora de las Bases del Régimen Local, establece la base estatal de organización, competencias y funcionamiento local. Se complementa con la legislación autonómica y otras normas, como haciendas locales. La ley del Defensor del Pueblo, la LOPJ y los presupuestos estatales regulan ámbitos distintos y no sustituyen ese marco básico."
   },
@@ -135,11 +135,11 @@
     "pregunta": "En régimen local, la autonomía local es:",
     "opciones": [
       "una autonomía legislativa",
-      "una autonomía para gestionar intereses propios dentro de la ley, sin potestad legislativa general",
       "una autonomía jurisdiccional",
+      "una autonomía para gestionar intereses propios dentro de la ley, sin potestad legislativa general",
       "una autonomía tributaria absoluta"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.5 · 1.1 Fundamento constitucional de la autonomía local",
     "explicacion": "La autonomía local garantiza gestionar intereses propios y adoptar decisiones dentro del marco constitucional y legal. Incluye representación democrática y potestades reglamentarias, pero no una potestad legislativa general como la de las comunidades autónomas. Tampoco crea jurisdicción propia ni una libertad tributaria absoluta: autonomía no equivale a soberanía frente al resto del ordenamiento."
   },
@@ -148,12 +148,12 @@
     "tema": 5,
     "pregunta": "Según el art. 141 CE, la provincia tiene una doble naturaleza como:",
     "opciones": [
-      "Entidad local con personalidad jurídica propia y división territorial para el cumplimiento de las actividades del Estado",
       "Entidad mercantil con personalidad jurídica privada",
       "Territorio autónomo con potestad legislativa",
-      "Órgano consultivo de la Comunidad Autónoma"
+      "Órgano consultivo de la Comunidad Autónoma",
+      "Entidad local con personalidad jurídica propia y división territorial para el cumplimiento de las actividades del Estado"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "I.5 · 1.1 La provincia en la Constitución (art. 141 CE)",
     "explicacion": "El artículo 141.1 CE define la provincia como entidad local con personalidad jurídica propia y como división territorial para actividades del Estado. Tiene, por tanto, dos dimensiones que no deben confundirse. No es una sociedad mercantil ni una comunidad autónoma dotada de potestad legislativa general, y tampoco se reduce a un órgano consultivo."
   },
@@ -191,11 +191,11 @@
     "pregunta": "Según el art. 141.2 CE, el gobierno y la administración autónoma de las provincias corresponde a:",
     "opciones": [
       "los Ayuntamientos",
-      "las Diputaciones Provinciales u otras Corporaciones de carácter representativo",
       "el Tribunal Superior de Justicia",
-      "las Cortes Generales"
+      "las Cortes Generales",
+      "las Diputaciones Provinciales u otras Corporaciones de carácter representativo"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.5 · 1.4 La Diputación Provincial como órgano de gobierno (art. 141.2 CE)",
     "explicacion": "El artículo 141.2 CE atribuye gobierno y administración autónoma provincial a diputaciones u otras corporaciones representativas. Esa fórmula permite peculiaridades de organización territorial. Los ayuntamientos gobiernan municipios, mientras las Cortes ejercen potestad legislativa y el TSJ función judicial; ninguno sustituye por su sola existencia al gobierno representativo de la provincia."
   },
@@ -204,12 +204,12 @@
     "tema": 5,
     "pregunta": "¿Qué órgano no aparece entre los órganos básicos necesarios de una Diputación Provincial?",
     "opciones": [
+      "La Junta de Portavoces",
       "El Presidente",
       "Los Vicepresidentes",
-      "La Junta de Gobierno",
-      "La Junta de Portavoces"
+      "La Junta de Gobierno"
     ],
-    "correcta": 3,
+    "correcta": 0,
     "referencia": "I.5 · 2.1 Órganos básicos necesarios (art. 32 LBRL)",
     "explicacion": "Presidente, vicepresidentes, Junta de Gobierno y Pleno existen en todas las diputaciones conforme al artículo 32 LBRL. La Junta de Portavoces puede formar parte de una organización complementaria, pero no es un órgano básico universal por ese precepto. La pregunta distingue órganos necesarios de estructuras que una corporación puede establecer para su funcionamiento."
   },
@@ -224,7 +224,7 @@
       "31"
     ],
     "correcta": 1,
-    "referencia": "I.5 · 2.2 El Pleno (arts. 32 y 33 LBRL)",
+    "referencia": "I.5 · 2.2 El Pleno (artículo 204 LOREG)",
     "explicacion": "El artículo 204.1 LOREG asigna veinticinco diputados a provincias de hasta 500.000 habitantes. Los tramos siguientes prevén veintisiete, treinta y uno y cincuenta y uno. No debe confundirse con el número de concejales de un ayuntamiento ni buscar la cifra en los artículos de la LBRL que regulan atribuciones y órganos provinciales."
   },
   {
@@ -233,11 +233,11 @@
     "pregunta": "En régimen local, ¿cómo se eligen los Diputados Provinciales?",
     "opciones": [
       "Por sufragio directo de todos los ciudadanos",
-      "De forma indirecta entre los concejales de los municipios de la provincia",
       "Por designación del Presidente de la Diputación",
+      "De forma indirecta entre los concejales de los municipios de la provincia",
       "Por sorteo entre los vecinos inscritos en el padrón"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.5 · 2.2 b) Elección de los Diputados Provinciales",
     "explicacion": "Los diputados provinciales se eligen indirectamente a partir de los concejales y los resultados municipales, siguiendo el procedimiento de la LOREG. No existe una votación ciudadana provincial separada equivalente a la municipal. Tampoco los designa libremente el Presidente de la Diputación ni se eligen por sorteo entre las personas empadronadas."
   },
@@ -261,11 +261,11 @@
     "pregunta": "¿Qué mayoría se exige en primera votación para elegir al Presidente de la Diputación?",
     "opciones": [
       "Mayoría simple",
-      "Mayoría absoluta",
       "Mayoría de tres quintos",
-      "Mayoría de dos tercios"
+      "Mayoría de dos tercios",
+      "Mayoría absoluta"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.5 · 2.3 El Presidente de la Diputación",
     "explicacion": "La elección del Presidente de la Diputación exige mayoría absoluta en primera votación y simple en segunda, conforme al artículo 207 LOREG. Se elige entre los miembros de la corporación. Los tres quintos y dos tercios son mayorías propias de otros procedimientos, no la regla de esta elección provincial."
   },
@@ -289,11 +289,11 @@
     "pregunta": "¿Qué exige la garantía constitucional de la provincia respecto a su supresión?",
     "opciones": [
       "Puede suprimirse por ley ordinaria",
-      "No puede ser suprimida por el legislador ordinario",
       "Solo puede suprimirla una diputación",
+      "No puede ser suprimida por el legislador ordinario",
       "Puede suprimirse por reglamento autonómico"
     ],
-    "correcta": 1,
+    "correcta": 2,
     "referencia": "I.5 · 1.2 Garantía constitucional de la provincia",
     "explicacion": "La Constitución garantiza la provincia como entidad local y división territorial del Estado. El legislador ordinario no puede eliminar sin más esa institución constitucional mediante una decisión de régimen local. Debe distinguirse esa garantía de las alteraciones de límites del artículo 141.1, que sí tienen un procedimiento específico de ley orgánica."
   },
@@ -316,13 +316,13 @@
     "tema": 5,
     "pregunta": "Según el artículo 204 de la LOREG, en provincias de 1.000.001 a 3.500.000 habitantes corresponden:",
     "opciones": [
+      "31 diputados",
       "25 diputados",
       "27 diputados",
-      "31 diputados",
       "51 diputados"
     ],
-    "correcta": 2,
-    "referencia": "I.5 · 2.2 El Pleno (arts. 32 y 33 LBRL)",
+    "correcta": 0,
+    "referencia": "I.5 · 2.2 El Pleno (artículo 204 LOREG)",
     "explicacion": "El tramo del artículo 204 LOREG de 1.000.001 a 3.500.000 habitantes tiene treinta y un diputados provinciales. Veinticinco corresponden al tramo inferior inicial, veintisiete al siguiente y cincuenta y uno a provincias de mayor población. La escala provincial es distinta de la municipal y no procede de los artículos 32 y 33 LBRL."
   },
   {
@@ -372,12 +372,12 @@
     "tema": 5,
     "pregunta": "¿Qué servicio mínimo debe prestarse en todos los municipios, con independencia de su población?",
     "opciones": [
-      "Alumbrado público",
       "Transporte colectivo urbano",
       "Protección civil",
-      "Instalaciones deportivas de uso público"
+      "Instalaciones deportivas de uso público",
+      "Alumbrado público"
     ],
-    "correcta": 0,
+    "correcta": 3,
     "referencia": "Tema I.5, Ley de Bases de Régimen Local",
     "explicacion": "El alumbrado público integra los servicios mínimos para todos los municipios del artículo 26.1.a LBRL. Transporte colectivo urbano, protección civil e instalaciones deportivas se añaden al superar determinados umbrales de población. La pregunta no pide cualquier competencia municipal, sino un servicio obligatorio incluso en el municipio más pequeño."
   },
@@ -400,12 +400,12 @@
     "tema": 5,
     "pregunta": "¿Qué idea conecta mejor la autonomía local con la Ley de Bases de Régimen Local?",
     "opciones": [
-      "Gestión de intereses propios dentro del marco constitucional y legal",
       "Soberanía normativa plena frente al Estado",
+      "Gestión de intereses propios dentro del marco constitucional y legal",
       "Supresión de controles judiciales",
       "Dependencia jerárquica ordinaria del municipio respecto de la provincia"
     ],
-    "correcta": 0,
+    "correcta": 1,
     "referencia": "Tema I.5, Régimen local: contenido y principios",
     "explicacion": "La autonomía local permite gestionar intereses propios dentro del marco constitucional y legal, como establecen los artículos 137 a 142 CE y la LBRL. No implica soberanía normativa ni desaparición de controles judiciales. La provincia y el municipio son entidades autónomas: la cooperación provincial no crea una dependencia jerárquica ordinaria del ayuntamiento."
   },
@@ -463,11 +463,11 @@
     "pregunta": "¿Cuál de estas potestades figura expresamente en el artículo 4.1 de la LBRL para municipios, provincias e islas?",
     "opciones": [
       "Potestad legislativa",
-      "Potestad de revisión de oficio de sus actos y acuerdos",
       "Potestad jurisdiccional",
-      "Potestad de reforma constitucional"
+      "Potestad de reforma constitucional",
+      "Potestad de revisión de oficio de sus actos y acuerdos"
     ],
-    "correcta": 1,
+    "correcta": 3,
     "referencia": "I.5 · 5. Potestades de las entidades locales",
     "explicacion": "El artículo 4.1.g LBRL reconoce a municipios, provincias e islas potestad de revisión de oficio de sus actos y acuerdos, dentro de sus requisitos legales. No les otorga potestad legislativa, jurisdiccional ni de reforma constitucional. Revisar un acto administrativo propio no equivale a dictar una sentencia o modificar una ley."
   },
@@ -518,12 +518,12 @@
     "tema": 5,
     "pregunta": "¿Qué caracteriza a una contribución especial?",
     "opciones": [
+      "Se exige por el beneficio o aumento de valor derivado de una obra pública o servicio local",
       "Grava siempre la capacidad económica sin obra o servicio concreto",
       "Retribuye voluntariamente un servicio que también presta el sector privado",
-      "Se exige por el beneficio o aumento de valor derivado de una obra pública o servicio local",
       "Es un recargo estatal sobre cualquier impuesto municipal"
     ],
-    "correcta": 2,
+    "correcta": 0,
     "referencia": "I.5 · 7.1 Tributos, tasas y precios públicos",
     "explicacion": "Las contribuciones especiales gravan el beneficio o aumento de valor de bienes derivado de obras públicas o del establecimiento o ampliación de servicios locales, conforme al artículo 28 TRLRHL. No son un impuesto general sin esa actuación concreta ni un precio público voluntario. Su fundamento es el beneficio especial obtenido, además del interés colectivo de la obra."
   },

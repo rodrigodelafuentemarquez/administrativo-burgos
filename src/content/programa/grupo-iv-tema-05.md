@@ -259,4 +259,4 @@ Una empresa inicia una nave en Burgos sin licencia y ocupa parte de una zona res
 
 - [Ley 5/1999, de Urbanismo de Castilla y León, texto consolidado del BOE](https://www.boe.es/eli/es-cl/l/1999/04/08/5/con), última actualización publicada el 5 de diciembre de 2025.
 - [Real Decreto Legislativo 7/2015, texto refundido de la Ley de Suelo y Rehabilitación Urbana](https://www.boe.es/buscar/act.php?id=BOE-A-2015-11723).
-- [Código de Urbanismo de Castilla y León del BOE](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=075), actualizado el 15 de diciembre de 2025.
+- [Código de Urbanismo de Castilla y León del BOE](https://www.boe.es/biblioteca_juridica/codigos/codigo.php?id=075), actualizado el 24 de agosto de 2026.
